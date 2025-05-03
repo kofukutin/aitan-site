@@ -34,7 +34,10 @@ last_update: "2025-05-03"
 <script>
 function playTTS(word) {
   const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.addEventListener("canplaythrough", () => audio.play());
+  audio.load();
+  audio.addEventListener("canplaythrough", () => {
+    audio.play();
+  });
 }
 </script>
 
