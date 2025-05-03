@@ -1,6 +1,22 @@
-// functions/api/tts.js
-
-export async function onRequestGet({ request }) {
+function atobPolyfill(input) {
+    const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';
+    let str = input.replace(/=+$/, '');
+    let output = '';
+  
+    for (
+      let bc = 0, bs = 0, buffer, idx = 0;
+      (buffer = str.charAt(idx++));
+      ~buffer && (bs = bc % 4 ? bs * 64 + buffer : buffer, bc++ % 4)
+        ? output += String.fromCharCode(255 & bs >> (-2 * bc & 6))
+        : 0
+    ) {
+      buffer = chars.indexOf(buffer);
+    }
+  
+    return output;
+  }
+  
+  export async function onRequestGet({ request }) {
     const url = new URL(request.url);
     const text = url.searchParams.get("text");
   
@@ -33,15 +49,14 @@ export async function onRequestGet({ request }) {
     }
   
     const data = await response.json();
+    const binaryString = atobPolyfill(data.audioContent);
+    const bytes = new Uint8Array(binaryString.length);
+    for (let i = 0; i < binaryString.length; i++) {
+      bytes[i] = binaryString.charCodeAt(i);
+    }
   
-    // Cloudflare Functions では atob() がないので、base64を手動で変換
-    const binary = Uint8Array.from(atob(data.audioContent), c => c.charCodeAt(0));
-  
-    return new Response(binary.buffer, {
+    return new Response(bytes.buffer, {
       headers: {
         "Content-Type": "audio/mpeg",
         "Cache-Control": "public, max-age=31536000"
-      }
-    });
-  }
   
