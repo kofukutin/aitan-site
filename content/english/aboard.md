@@ -34,7 +34,7 @@ last_update: "2025-05-03"  # YYYY-MM-DD
 <script>
 function playTTS(word) {
   const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.play();
+  audio.addEventListener("canplaythrough", () => audio.play());
 }
 </script>
 
