@@ -8,7 +8,7 @@ export async function onRequestGet({ request }) {
       return new Response("Missing 'text' parameter", { status: 400 });
     }
   
-    const apiKey = process.env.AIzaSyDwG8wss7IXGBUBJIOp9eWVU9fWU5D8RXk;
+    const apiKey = process.env.GOOGLE_API_KEY;
     const ttsUrl = "https://texttospeech.googleapis.com/v1/text:synthesize?key=" + apiKey;
   
     const payload = {
