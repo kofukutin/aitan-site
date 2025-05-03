@@ -1,6 +1,4 @@
-// functions/api/tts.js
-
-export async function onRequestGet({ request }) {
+export async function onRequestGet({ request, env }) {
     const url = new URL(request.url);
     const text = url.searchParams.get("text");
   
@@ -8,7 +6,7 @@ export async function onRequestGet({ request }) {
       return new Response("Missing 'text' parameter", { status: 400 });
     }
   
-    const apiKey = process.env.GOOGLE_API_KEY;
+    const apiKey = env.GOOGLE_API_KEY;
     const ttsUrl = "https://texttospeech.googleapis.com/v1/text:synthesize?key=" + apiKey;
   
     const payload = {
@@ -29,7 +27,8 @@ export async function onRequestGet({ request }) {
     });
   
     if (!response.ok) {
-      return new Response("TTS request failed", { status: 500 });
+      const errorText = await response.text();
+      return new Response("TTS request failed: " + errorText, { status: 500 });
     }
   
     const data = await response.json();
