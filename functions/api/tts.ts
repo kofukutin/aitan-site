@@ -1,22 +1,6 @@
-function atobPolyfill(input) {
-    const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';
-    let str = input.replace(/=+$/, '');
-    let output = '';
-  
-    for (
-      let bc = 0, bs = 0, buffer, idx = 0;
-      (buffer = str.charAt(idx++));
-      ~buffer && (bs = bc % 4 ? bs * 64 + buffer : buffer, bc++ % 4)
-        ? output += String.fromCharCode(255 & bs >> (-2 * bc & 6))
-        : 0
-    ) {
-      buffer = chars.indexOf(buffer);
-    }
-  
-    return output;
-  }
-  
-  export async function onRequestGet({ request }) {
+// functions/api/tts.js
+
+export async function onRequestGet({ request }) {
     const url = new URL(request.url);
     const text = url.searchParams.get("text");
   
@@ -24,7 +8,7 @@ function atobPolyfill(input) {
       return new Response("Missing 'text' parameter", { status: 400 });
     }
   
-    const apiKey = process.env.GOOGLE_API_KEY;
+    const apiKey = process.env.AIzaSyDwG8wss7IXGBUBJIOp9eWVU9fWU5D8RXk;
     const ttsUrl = "https://texttospeech.googleapis.com/v1/text:synthesize?key=" + apiKey;
   
     const payload = {
@@ -49,13 +33,9 @@ function atobPolyfill(input) {
     }
   
     const data = await response.json();
-    const binaryString = atobPolyfill(data.audioContent);
-    const bytes = new Uint8Array(binaryString.length);
-    for (let i = 0; i < binaryString.length; i++) {
-      bytes[i] = binaryString.charCodeAt(i);
-    }
+    const audio = data.audioContent;
   
-    return new Response(bytes.buffer, {
+    return new Response(Uint8Array.from(atob(audio), c => c.charCodeAt(0)), {
       headers: {
         "Content-Type": "audio/mpeg",
         "Cache-Control": "public, max-age=31536000"
