@@ -1,0 +1,22 @@
+{{ define "main" }}
+<article>
+  <h1>{{ .Title }}</h1>
+  <hr>
+  <div>
+    {{ .Content }}
+  </div>
+
+  {{ if and (eq .Section "english") (eq .Kind "page") }}
+  <hr>
+  <div class="tags-footer">
+    <p>🏷️ 関連タグ</p>
+    <div class="tags-footer-links">
+      {{ range .Params.tags }}
+        <a href="/tags/{{ . | urlize }}/">#{{ . }}</a>
+      {{ end }}
+    </div>
+    <p class="last-update">最終更新：{{ .Params.last_update | time.Format "2006年1月2日" }}</p>
+  </div>
+  {{ end }}
+</article>
+{{ end }}

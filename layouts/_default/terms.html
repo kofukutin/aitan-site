@@ -1,0 +1,10 @@
+{{ define "main" }}
+<h1>🏷️タグ一覧</h1>
+<ul>
+  {{ range .Data.Terms.Alphabetical }}
+    <li>
+      <a href="{{ .Page.Permalink }}">{{ .Term }}（{{ .Count }}語）</a>
+    </li>
+  {{ end }}
+</ul>
+{{ end }}

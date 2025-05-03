@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+<section class="top-intro">
+  <p class="top-intro-text">
+    <br>AIが学びの効率を最大化！<br>
+    TOEICも英検も英会話も👍️<br>
+    英語力アップの最短ルート🚀<br>
+    ブックマークを忘れずに♪<br>
+  </p>
+</section>
+
+<section class="top-search">
+  <div class="top-search-inner">
+    <input type="text" id="searchBox" placeholder="何を調べますか？">
+    <ul id="resultsList"></ul>
+  </div>
+</section>
+
+<hr>
+
+<section class="top-tags">
+  <div class="top-tags-inner">
+    <h2 class="top-tags-title">🏷️タグから探す</h2>
+    <ul class="top-tags-list">
+      {{ $terms := site.Taxonomies.tags }}
+      {{ range $key, $value := $terms }}
+        <li>
+          <a href="/tags/{{ $key | urlize }}/">{{ $key }}（{{ len $value }}語）</a>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+</section>
+
+{{ end }}

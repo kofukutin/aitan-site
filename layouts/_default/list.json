@@ -1,0 +1,11 @@
+[
+    {{- $pages := where .Site.RegularPages "Section" "english" -}}
+    {{- range $index, $page := $pages }}
+      {{- if $index }},{{ end }}
+      {
+        "word": "{{ $page.Params.word }}",
+        "url": "{{ $page.RelPermalink }}"
+      }
+    {{- end }}
+  ]
+  

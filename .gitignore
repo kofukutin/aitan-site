@@ -1,0 +1,23 @@
+# Hugo build output
+resources/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS junk
+*.log
+
+# Node (もし使うなら)
+node_modules/
+
+# Python環境（TTS自動生成など使ってる場合）
+__pycache__/
+*.pyc
+.env
