@@ -33,9 +33,11 @@ export async function onRequestGet({ request }) {
     }
   
     const data = await response.json();
-    const audio = data.audioContent;
   
-    return new Response(Uint8Array.from(atob(audio), c => c.charCodeAt(0)), {
+    // Cloudflare Functions では atob() がないので、base64を手動で変換
+    const binary = Uint8Array.from(atob(data.audioContent), c => c.charCodeAt(0));
+  
+    return new Response(binary.buffer, {
       headers: {
         "Content-Type": "audio/mpeg",
         "Cache-Control": "public, max-age=31536000"
