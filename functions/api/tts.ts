@@ -13,8 +13,8 @@ export async function onRequestGet({ request, env }) {
       input: { text },
       voice: {
         languageCode: "en-US",
-        name: "en-US-Wavenet-F"
-      },
+        name: "en-US-Wavenet-D"
+    },
       audioConfig: {
         audioEncoding: "MP3"
       }
