@@ -1,23 +1,24 @@
 ---
 robots: noindex
 title: "【abroad】の意味・使い方・例文 ― overseasとの違い【TOEIC英単語】"
+description: "abroadの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでoverseasとの違いもわかりやすく学べます。"
 word: "abroad"
 part_of_speech: "副詞"
 difficulty: "2"
 tags:
   - 副詞
   - Part7
-  - 中立的
+  - カジュアル
   - 観光
   - 日常会話
 compared_word: "overseas"
 related_words:
-  - "domestic"
   - "foreign"
+  - "domestic"
 next_words:
   - "travel"
   - "journey"
-last_update: "2025-05-03"  # YYYY-MM-DD
+last_update: "2025-05-04"
 ---
 
 ## 🔰 abroadの発音と意味
@@ -31,12 +32,21 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
+<script>
+function playTTS(word) {
+  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
+  audio.addEventListener("canplaythrough", () => audio.play());
+}
+</script>
+
 [副詞] 海外へ、海外で、外国に
 
-**abroad** は、「海外へ」「海外で」「外国に」という意味で、場所を表す副詞として使われます。  
-旅行や留学、仕事などで日本以外の国に行く・いる場合によく使われます。
+**abroad** は、「海外へ」「海外で」「外国に」という意味で、主に自分の国以外の場所を指します。日常会話や旅行、留学などの文脈でよく使われます。
 
-語源は「a-（～の方へ）」＋「broad（広い）」から来ており、「広い世界へ＝海外へ」というイメージです。
+語源は「a（～へ）」＋「broad（広い）」から来ており、「広い世界へ＝海外へ」というイメージです。
+
+他の品詞：  
+- なし
 
 ---
 
@@ -57,7 +67,7 @@ Our company plans to expand abroad next year.
 - 難易度：★★☆☆☆
 - 出題パート：Part 7（長文読解）
 
-TOEICでは主にPart 7のEメールや記事文中で「海外出張」「海外展開」などの文脈で出題されます。副詞としての使い方に注意しましょう。
+TOEICでは、留学や海外出張、国際的なビジネス展開などの文脈でPart 7の長文中によく登場します。海外との比較や案内文にも出やすい単語です。
 
 ---
 
@@ -77,14 +87,14 @@ TOEICでは主にPart 7のEメールや記事文中で「海外出張」「海�
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+理解したら一歩前へ👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
+＼あなたに合う学び方／<br>  
 （おすすめ情報予定）
 </div>
 
@@ -92,17 +102,17 @@ TOEICでは主にPart 7のEメールや記事文中で「海外出張」「海�
 
 ## 🤔  overseas との違いは？
 
-- **abroad**：話し手の国以外の「海外へ」「海外で」を表す副詞。口語・文語どちらでも使う。
-- **[overseas](/overseas)**：主に「海を越えて」「海外の」という意味で、形容詞や副詞として使う。ややフォーマル。
+- **abroad**：自国以外の「海外へ」「海外で」という意味で、主に動詞の後ろで副詞的に使う。
+- **[overseas](/overseas)**：海外の、海外へ（副詞・形容詞両方で使える）。ややフォーマルでビジネス文書にも多い。
 
-abroadは「自国以外の場所」というニュアンスが強く、overseasは「海を越えた向こう側」という物理的なイメージが強いです。
+abroadは会話やカジュアルな文脈でよく使われ、overseasは書き言葉やビジネスで使われることが多いです。
 
 ---
 
 ## 🧩 あわせて覚えたい
 
+- [foreign](/foreign)：外国の、外国人の
 - [domestic](/domestic)：国内の
-- [foreign](/foreign)：外国の、異国の
 
 ---
 
@@ -111,4 +121,4 @@ abroadは「自国以外の場所」というニュアンスが強く、overseas
 - [travel](/travel)：旅行する
 - [journey](/journey)：旅、道のり
 
-<!-- cvid: aid06_bid36 -->
+<!-- cvid: aid40_bid03 -->

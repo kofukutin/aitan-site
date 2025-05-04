@@ -1,6 +1,7 @@
 ---
 robots: noindex
 title: "【abortion】の意味・使い方・例文 ― miscarriageとの違い【TOEIC英単語】"
+description: "abortionの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでmiscarriageとの違いもわかりやすく学べます。"
 word: "abortion"
 part_of_speech: "名詞"
 difficulty: "4"
@@ -13,11 +14,11 @@ tags:
 compared_word: "miscarriage"
 related_words:
   - "termination"
-  - "pregnancy"
-next_words:
   - "contraception"
+next_words:
+  - "pregnancy"
   - "fertility"
-last_update: "2025-05-03"  # YYYY-MM-DD
+last_update: "2025-05-04"
 ---
 
 ## 🔰 abortionの発音と意味
@@ -31,14 +32,21 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-[名詞] 妊娠中絶
+<script>
+function playTTS(word) {
+  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
+  audio.addEventListener("canplaythrough", () => audio.play());
+}
+</script>
 
-**abortion** は、妊娠を人工的に中断すること、またはその処置を指します。主に医療や法的な文脈で使われるフォーマルな単語です。
+[名詞] 妊娠中絶（可算・不可算）
 
-語源はラテン語の "abortio"（中断、流産）に由来し、「生まれる前に止める」という意味合いが含まれています。
+**abortion** は、妊娠を人工的に中断すること、またはその処置を指します。医療や社会問題の文脈で使われることが多いフォーマルな単語です。
+
+語源はラテン語の "aboriri"（消える、失われる）に由来し、「生まれる前に終わる」という意味合いが含まれています。
 
 他の品詞：  
-- abort：中絶する（動詞）
+- abort：中止する（動詞）
 - abortive：未遂の、失敗した（形容詞）
 
 ---
@@ -60,7 +68,7 @@ The new law restricts access to abortion services.
 - 難易度：★★★★☆
 - 出題パート：Part 7（長文読解）
 
-医療や社会問題を扱う長文で登場することがあり、フォーマルな文脈で使われます。単語自体は難しめですが、背景知識も問われやすい語です。
+TOEICでは医療や社会問題を扱う長文記事や説明文で見かけることがあります。直接的な会話よりも、フォーマルな文書やニュース記事での出題が中心です。
 
 ---
 
@@ -68,26 +76,26 @@ The new law restricts access to abortion services.
 
 正しい使い方はどっち？
 
-1. The clinic provides safe abortion procedures.  
-2. The clinic provides safe abortioning procedures.
+1. The doctor explained the risks of abortion to the patient.  
+2. The doctor explained the risks of abortion for the patient.
 
 ---
 
 ## ✅ クイズの答えと解説
 
 - 正解：**1**
-- 解説："abortion"は名詞で使い、「abortioning」という形は存在しません。
+- 解説：abortionのリスクを「to（～に）」説明するのが自然な表現です。「for」は文脈がずれます。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-学ぶ喜びを感じよう👇️
+感覚を研ぎ澄まそう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼次のステージへ進もう／<br>  
+＼やれば変わる英語力／<br>  
 （おすすめ情報予定）
 </div>
 
@@ -95,23 +103,23 @@ The new law restricts access to abortion services.
 
 ## 🤔  miscarriage との違いは？
 
-- **abortion**：人工的に妊娠を中断すること（中絶）
-- **[miscarriage](/miscarriage)**：自然に妊娠が中断されること（流産）
+- **abortion**：意図的に妊娠を中断する「人工中絶」を指すフォーマルな語。
+- **[miscarriage](/miscarriage)**：自然に妊娠が終わる「流産」を意味し、意図的ではない。
 
-abortionは意図的な中絶、miscarriageは自然発生的な流産を指し、使い分けが必要です。
+abortionは人為的な中絶、miscarriageは自然な流産と、原因やニュアンスが明確に異なります。
 
 ---
 
 ## 🧩 あわせて覚えたい
 
-- [termination](/termination)：終了、終結（医療では妊娠終了の意味も）
-- [pregnancy](/pregnancy)：妊娠
+- [termination](/termination)：終了、終結（特に妊娠の中絶を指す場合も）
+- [contraception](/contraception)：避妊
 
 ---
 
 ## 📖 できればこれも
 
-- [contraception](/contraception)：避妊
-- [fertility](/fertility)：生殖能力、受胎力
+- [pregnancy](/pregnancy)：妊娠
+- [fertility](/fertility)：生殖能力
 
-<!-- cvid: aid32_bid07 -->
+<!-- cvid: aid39_bid28 -->

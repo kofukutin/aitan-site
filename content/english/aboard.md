@@ -1,13 +1,14 @@
 ---
 robots: noindex
 title: "【aboard】の意味・使い方・例文 ― onとの違い【TOEIC英単語】"
+description: "aboardの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでonとの違いもわかりやすく学べます。"
 word: "aboard"
 part_of_speech: "前置詞"
 difficulty: "2"
 tags:
   - 前置詞
   - Part1
-  - 中立的
+  - フォーマル
   - 観光
   - 日常会話
 compared_word: "on"
@@ -17,7 +18,7 @@ related_words:
 next_words:
   - "across"
   - "along"
-last_update: "2025-05-03"  # YYYY-MM-DD
+last_update: "2025-05-04"
 ---
 
 ## 🔰 aboardの発音と意味
@@ -31,27 +32,34 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-[前置詞] ～に乗って、～の中に（乗り物など）
+<script>
+function playTTS(word) {
+  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
+  audio.addEventListener("canplaythrough", () => audio.play());
+}
+</script>
 
-**aboard** は、船・飛行機・列車・バスなどの乗り物に「乗っている」状態や「乗り込む」ことを表す前置詞・副詞です。
+[前置詞] ～に乗って、～の中に（特に乗り物に乗る場合）
 
-語源は「board（板、乗り込む）」に由来し、「a-（上に）」＋「board」で「乗り物の上にいる」イメージから来ています。
+**aboard** は、電車・飛行機・船などの乗り物に「乗っている」状態を表す前置詞・副詞です。  
+「on」と似ていますが、より乗り物に特化した表現です。
+
+語源は「a-（～の上に）」＋「board（板、甲板）」から来ており、もともとは船の甲板に乗ることを意味していました。
 
 他の品詞：  
-- board：板、乗り込む（名詞・動詞）
-- boarding：搭乗、乗船（名詞）
+- aboard（副詞）：乗って、乗車している状態（副詞）
 
 ---
 
 ## ✏️ aboardの例文
 
 【日常会話】  
-All passengers are now aboard.  
-　すべての乗客が今、乗っています。
+All passengers must be aboard before the train leaves.  
+　すべての乗客は列車が出発する前に乗車していなければなりません。
 
 【ビジネス英語】  
-Please have your ticket ready before you get aboard the train.  
-　列車に乗る前にチケットをご用意ください。
+The CEO is already aboard the plane.  
+　社長はすでに飛行機に搭乗しています。
 
 ---
 
@@ -60,7 +68,8 @@ Please have your ticket ready before you get aboard the train.
 - 難易度：★★☆☆☆
 - 出題パート：Part 1（写真描写）
 
-TOEICでは主にPart 1の写真描写で「乗り物に乗っている」状態を表す際によく出題されます。乗客やスタッフの動作描写にも頻出です。
+TOEICでは主にPart 1の写真描写で、乗り物に人が「乗っている」状況を説明する際によく使われます。  
+他のパートでも、乗り物関連の説明や指示で見かけることがあります。
 
 ---
 
@@ -68,26 +77,26 @@ TOEICでは主にPart 1の写真描写で「乗り物に乗っている」状態
 
 正しい使い方はどっち？
 
-1. The passengers are already aboard the plane.  
-2. The passengers are already aboard at the plane.
+1. The passengers are already aboard the ship.  
+2. The passengers are already aboard the station.
 
 ---
 
 ## ✅ クイズの答えと解説
 
 - 正解：**1**
-- 解説：「aboard」は前置詞で「～に乗って」を表し、後ろにatは不要です。
+- 解説：aboardは「乗り物に乗っている」場合に使い、station（駅）には使いません。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このタイミングを逃さずに👇️
+理解したら即実践👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼結果につながる近道／<br>  
+＼英語習慣を始めよう／<br>  
 （おすすめ情報予定）
 </div>
 
@@ -95,17 +104,17 @@ TOEICでは主にPart 1の写真描写で「乗り物に乗っている」状態
 
 ## 🤔  on との違いは？
 
-- **aboard**：乗り物の中に「乗っている」状態や「乗り込む」動作に特化。
-- **[on](/on)**：表面や場所全般に「上にある」ことを広く表す。
+- **aboard**：電車・飛行機・船など「乗り物に乗っている」ことを強調
+- **[on](/on)**：広く「上に」「接して」いる状態を表し、乗り物以外にも使う
 
-「aboard」は船・飛行機・列車などの乗り物限定で使い、「on」はより広い意味で使われます。
+aboardは乗り物限定で使い、onはより幅広い「上にある」状態に使います。
 
 ---
 
 ## 🧩 あわせて覚えたい
 
 - [board](/board)：板、乗り込む
-- [embark](/embark)：乗り込む、出発する
+- [embark](/embark)：乗り込む、搭乗する
 
 ---
 
@@ -114,4 +123,4 @@ TOEICでは主にPart 1の写真描写で「乗り物に乗っている」状態
 - [across](/across)：～を横切って
 - [along](/along)：～に沿って
 
-<!-- cvid: aid09_bid32 -->
+<!-- cvid: aid23_bid13 -->

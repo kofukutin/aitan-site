@@ -1,23 +1,24 @@
 ---
 robots: noindex
-title: "【aboriginal】の意味・使い方・例文 ― nativeとの違い【TOEIC英単語】"
+title: "【aboriginal】の意味・使い方・例文 ― indigenousとの違い【TOEIC英単語】"
+description: "aboriginalの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでindigenousとの違いもわかりやすく学べます。"
 word: "aboriginal"
 part_of_speech: "形容詞"
-difficulty: 4
+difficulty: "4"
 tags:
   - 形容詞
   - Part7
-  - 中立的
-  - 観光
+  - フォーマル
+  - 環境
   - 説明
-compared_word: "native"
+compared_word: "indigenous"
 related_words:
-  - "indigenous"
+  - "native"
   - "primitive"
 next_words:
-  - "ethnic"
+  - "ancestral"
   - "tribal"
-last_update: "2025-05-03"
+last_update: "2025-05-04"
 ---
 
 ## 🔰 aboriginalの発音と意味
@@ -27,27 +28,38 @@ last_update: "2025-05-03"
     ▶️ 発音を再生　/ˌæbəˈrɪdʒənl/
   </span>
   <span class="play-audio-sub">
-    （アバリジナル）
+    （アボリジナル）
   </span>
 </button>
 
-[形容詞] 先住の、原始の
+<script>
+function playTTS(word) {
+  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
+  audio.addEventListener("canplaythrough", () => audio.play());
+}
+</script>
 
-**aboriginal** は、特定の地域に元々存在していた人々や文化、動植物などに対して使われる形容詞です。
+[形容詞] 先住の、原生の  
+[名詞] 先住民（特にオーストラリアのアボリジニ）
 
-この語は「最初の」や「起源の」という意味のラテン語 *aborigines*（その土地に生まれた人々）に由来します。
+**aboriginal** は、「その土地に最初から存在していた」「原初の」という意味で、特にオーストラリアの先住民や動植物に使われます。
+
+語源はラテン語の "ab origine"（起源から）に由来し、「最初からそこにいるもの」というニュアンスが強調されています。
+
+他の品詞：  
+- aboriginality：先住性、先住民であること（名詞）
 
 ---
 
 ## ✏️ aboriginalの例文
 
 【日常会話】  
-The museum has a section on aboriginal art.  
-　その博物館には先住民のアートコーナーがある。
+The kangaroo is an aboriginal animal of Australia.  
+　カンガルーはオーストラリアの原生動物です。
 
 【ビジネス英語】  
-Our project considers the rights of aboriginal communities.  
-　私たちのプロジェクトは先住民族の権利を考慮しています。
+The company respects the rights of aboriginal communities in the area.  
+　その企業は地域の先住民コミュニティの権利を尊重しています。
 
 ---
 
@@ -56,7 +68,7 @@ Our project considers the rights of aboriginal communities.
 - 難易度：★★★★☆
 - 出題パート：Part 7（長文読解）
 
-長文中の文化や地域紹介、観光記事などで登場することがあります。
+TOEICでは環境や文化、歴史に関する長文で「aboriginal」が登場することがあります。特にオーストラリアやカナダの話題で見かける単語です。
 
 ---
 
@@ -64,50 +76,50 @@ Our project considers the rights of aboriginal communities.
 
 正しい使い方はどっち？
 
-1. They studied the aboriginal culture of the region.  
-2. They studied the aboriginal of the culture region.
+1. The aboriginal people have lived here for thousands of years.  
+2. The aboriginal technology is the latest in the world.
 
 ---
 
 ## ✅ クイズの答えと解説
 
 - 正解：**1**
-- 解説："aboriginal" は通常、名詞ではなく形容詞として "aboriginal culture" のように名詞を修飾します。
+- 解説：aboriginalは「先住の」「原初の」という意味で、最新技術には使いません。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-このまま習慣化しよう👇️
+冴えたうちに進もう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼行動が未来を変える／<br>  
+＼英語に触れる毎日へ／<br>  
 （おすすめ情報予定）
 </div>
 
 ---
 
-## 🤔  native との違いは？
+## 🤔  indigenous との違いは？
 
-- **aboriginal**：その地域に最初から存在する人・物・文化に使われ、やや形式的
-- **[native](/native)**：生まれた土地や母語に関して広く使われる、より一般的な語
+- **aboriginal**：その土地に最初から存在する、特にオーストラリアの先住民や動植物に使われる
+- **[indigenous](/indigenous)**：その土地に自然に生息・存在する、より広く一般的に使われる
 
-**aboriginal** は特に歴史的・文化的文脈で用いられ、**native** は幅広く自然な表現に使われます。
+aboriginalは特定地域や民族（特にオーストラリア）に限定されることが多く、indigenousは世界中の先住民や動植物に幅広く使われます。
 
 ---
 
 ## 🧩 あわせて覚えたい
 
-- [indigenous](/indigenous)：その土地に元からいる、先住の
-- [primitive](/primitive)：原始的な、初期の段階の
+- [native](/native)：生まれつきの、その土地の
+- [primitive](/primitive)：原始的な、初期の
 
 ---
 
 ## 📖 できればこれも
 
-- [ethnic](/ethnic)：民族の、民族特有の
-- [tribal](/tribal)：部族の、部族に関する
+- [ancestral](/ancestral)：祖先の、先祖伝来の
+- [tribal](/tribal)：部族の、部族社会の
 
-<!-- cvid: aid29_bid14 -->
+<!-- cvid: aid48_bid34 -->

@@ -1,6 +1,7 @@
 ---
 robots: noindex
 title: "【above】の意味・使い方・例文 ― overとの違い【TOEIC英単語】"
+description: "aboveの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでoverとの違いもわかりやすく学べます。"
 word: "above"
 part_of_speech: "前置詞"
 difficulty: "1"
@@ -9,15 +10,15 @@ tags:
   - Part1
   - 中立的
   - ビジネス
-  - 日常会話
+  - 説明
 compared_word: "over"
 related_words:
   - "below"
   - "under"
 next_words:
   - "across"
-  - "behind"
-last_update: "2025-05-03"  # YYYY-MM-DD
+  - "between"
+last_update: "2025-05-04"  # YYYY-MM-DD
 ---
 
 ## 🔰 aboveの発音と意味
@@ -31,15 +32,22 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-[前置詞] ～の上に、～より上に  
-[副詞] 上に、上方に
+<script>
+function playTTS(word) {
+  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
+  audio.addEventListener("canplaythrough", () => audio.play());
+}
+</script>
 
-**above** は、何かの「上方」や「上の位置」を表すときに使う前置詞・副詞です。物理的な高さだけでなく、数値や順位など抽象的な「上」も表せます。
+[前置詞] ～の上に、～より上に
 
-語源は古英語「abufan」（on + above）から来ており、「上に位置する」というイメージが根本にあります。
+**above** は、何かの「上方に」「上に位置して」いることを表す前置詞です。物理的な位置だけでなく、数値やレベルが基準より上である場合にも使われます。
+
+語源は古英語の「abufan」（上に）から来ており、「a（～の方へ）」＋「bove（上）」の組み合わせです。
 
 他の品詞：  
-- above：上に、上方に（副詞）
+- above（副詞）：上に、上方に（副詞）
+- above（形容詞）：上記の、前述の（形容詞）
 
 ---
 
@@ -60,7 +68,7 @@ Please see the instructions above.
 - 難易度：★☆☆☆☆
 - 出題パート：Part 1（写真描写）
 
-TOEICでは主にPart 1の写真描写で、物の位置関係を説明する際によく出題されます。基本的な前置詞として頻出です。
+TOEICでは主にPart 1の写真描写で、物の位置関係を説明する際によく出題されます。基礎的な前置詞として頻出です。
 
 ---
 
@@ -69,25 +77,25 @@ TOEICでは主にPart 1の写真描写で、物の位置関係を説明する際
 正しい使い方はどっち？
 
 1. The clock is above the door.  
-2. The clock is above the time.
+2. The clock is above to the door.
 
 ---
 
 ## ✅ クイズの答えと解説
 
 - 正解：**1**
-- 解説：aboveは「物理的に上にある」場合に使います。2は意味が不自然です。
+- 解説：aboveは前置詞なので、toは不要です。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-冴えたうちに進もう👇️
+この流れを止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼続くから力になる／<br>  
+＼英語が楽しくなる工夫／<br>  
 （おすすめ情報予定）
 </div>
 
@@ -95,10 +103,10 @@ TOEICでは主にPart 1の写真描写で、物の位置関係を説明する際
 
 ## 🤔  over との違いは？
 
-- **above**：真上でなくても「上方」にあること全般を表す
-- **[over](/over)**：真上や覆いかぶさるイメージが強い
+- **above**：物理的・抽象的に「上に」「上方に」位置することを表す。接触していなくてもOK。
+- **[over](/over)**：真上や覆いかぶさるイメージが強く、動作や移動を伴う場合にも使う。
 
-aboveは単に「上方」にあることを指し、overは「真上」や「覆う」ニュアンスが強いので、使い分けが必要です。
+aboveは単に「上方にある」ことを示し、overは「真上」や「覆う」ニュアンスが強いです。
 
 ---
 
@@ -112,6 +120,6 @@ aboveは単に「上方」にあることを指し、overは「真上」や「�
 ## 📖 できればこれも
 
 - [across](/across)：横切って、向こう側に
-- [behind](/behind)：後ろに、背後に
+- [between](/between)：～の間に
 
-<!-- cvid: aid48_bid33 -->
+<!-- cvid: aid36_bid25 -->

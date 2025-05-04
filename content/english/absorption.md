@@ -1,23 +1,24 @@
 ---
 robots: noindex
 title: "【absorption】の意味・使い方・例文 ― assimilationとの違い【TOEIC英単語】"
+description: "absorptionの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでassimilationとの違いもわかりやすく学べます。"
 word: "absorption"
 part_of_speech: "名詞"
 difficulty: "3"
 tags:
   - 名詞
-  - Part7
-  - 中立的
+  - Part6
+  - フォーマル
   - 科学
   - 説明
 compared_word: "assimilation"
 related_words:
   - "adsorption"
-  - "diffusion"
+  - "integration"
 next_words:
   - "concentration"
-  - "solution"
-last_update: "2025-05-03"  # YYYY-MM-DD
+  - "diffusion"
+last_update: "2025-05-04"  # YYYY-MM-DD
 ---
 
 ## 🔰 absorptionの発音と意味
@@ -31,11 +32,18 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-[名詞] 吸収、没頭
+<script>
+function playTTS(word) {
+  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
+  audio.addEventListener("canplaythrough", () => audio.play());
+}
+</script>
 
-**absorption** は、液体や気体が他の物質に吸い込まれることや、何かに夢中になることを表します。
+[名詞] 吸収、没頭（不可算）
 
-語源はラテン語の "absorbere"（吸い込む）から来ており、物理的な「吸収」だけでなく、精神的な「没頭」にも使われます。
+**absorption** は、液体や気体が他の物質に取り込まれる「吸収」や、何かに夢中になる「没頭」という意味で使われます。
+
+語源はラテン語の "absorbere"（吸い込む）から来ており、物理的にも精神的にも「取り込む」イメージが根底にあります。
 
 他の品詞：  
 - absorb：吸収する（動詞）
@@ -46,11 +54,11 @@ last_update: "2025-05-03"  # YYYY-MM-DD
 ## ✏️ absorptionの例文
 
 【日常会話】  
-The absorption of water by the sponge was quick.  
-　スポンジによる水の吸収は早かった。
+The absorption of water by the sponge is fast.  
+　スポンジによる水の吸収は速いです。
 
 【ビジネス英語】  
-Her absorption in the project led to excellent results.  
+Her absorption in the project led to great results.  
 　彼女がプロジェクトに没頭したことで素晴らしい成果が出ました。
 
 ---
@@ -58,9 +66,9 @@ Her absorption in the project led to excellent results.
 ## 🎯 TOEICの出題頻度と傾向
 
 - 難易度：★★★☆☆
-- 出題パート：Part 7（長文読解）
+- 出題パート：Part 6（長文穴埋め問題）
 
-TOEICでは科学やビジネスの説明文で「吸収」や「没頭」の意味で登場します。特に技術や製品説明の文脈で見かけます。
+TOEICでは科学やビジネスの説明文で「吸収」や「没頭」の意味で出題されることが多いです。文脈から意味を推測する力が問われます。
 
 ---
 
@@ -69,25 +77,25 @@ TOEICでは科学やビジネスの説明文で「吸収」や「没頭」の意
 正しい使い方はどっち？
 
 1. The absorption of sunlight helps plants grow.  
-2. The absorption of sunlight help plants grow.
+2. The absorption to sunlight helps plants grow.
 
 ---
 
 ## ✅ クイズの答えと解説
 
 - 正解：**1**
-- 解説：absorptionは名詞なので、動詞は三人称単数形の"helps"が正しいです。
+- 解説：absorptionは "of" とセットで「～の吸収」と表現します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できた自分を信じよう👇️
+成長を止めないで👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼選ばれている学び方／<br>  
+＼続けやすい理由がある／<br>  
 （おすすめ情報予定）
 </div>
 
@@ -95,23 +103,23 @@ TOEICでは科学やビジネスの説明文で「吸収」や「没頭」の意
 
 ## 🤔  assimilation との違いは？
 
-- **absorption**：物理的な「吸収」や、何かに夢中になる「没頭」を指す
-- **[assimilation](/assimilation)**：新しいものを自分のものとして取り込む「同化」を指す
+- **absorption**：物質や情報などを「吸収する」「取り込む」こと、または何かに夢中になること。
+- **[assimilation](/assimilation)**：新しいものを自分のものとして「同化」すること、特に文化や知識の習得に使う。
 
-absorptionは物質や注意が「吸収」されること、assimilationは新しい知識や文化が「同化」されることに使います。
+absorptionは物理的・精神的な「吸収」に重点があり、assimilationは「自分の一部として取り込む」ニュアンスが強いです。
 
 ---
 
 ## 🧩 あわせて覚えたい
 
-- [adsorption](/adsorption)：表面への吸着
-- [diffusion](/diffusion)：拡散
+- [adsorption](/adsorption)：吸着（表面に付着すること）
+- [integration](/integration)：統合、一体化
 
 ---
 
 ## 📖 できればこれも
 
-- [concentration](/concentration)：濃度、集中
-- [solution](/solution)：溶液、解決策
+- [concentration](/concentration)：集中、濃度
+- [diffusion](/diffusion)：拡散、普及
 
-<!-- cvid: aid49_bid31 -->
+<!-- cvid: aid22_bid49 -->

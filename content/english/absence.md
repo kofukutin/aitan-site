@@ -1,13 +1,14 @@
 ---
 robots: noindex
 title: "【absence】の意味・使い方・例文 ― lackとの違い【TOEIC英単語】"
+description: "absenceの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでlackとの違いもわかりやすく学べます。"
 word: "absence"
 part_of_speech: "名詞"
 difficulty: "2"
 tags:
   - 名詞
   - Part5
-  - 中立的
+  - フォーマル
   - ビジネス
   - 会議
 compared_word: "lack"
@@ -15,9 +16,9 @@ related_words:
   - "presence"
   - "shortage"
 next_words:
-  - "attendance"
+  - "leave"
   - "vacancy"
-last_update: "2025-05-03"  # YYYY-MM-DD
+last_update: "2025-05-04"  # YYYY-MM-DD
 ---
 
 ## 🔰 absenceの発音と意味
@@ -31,14 +32,21 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-[名詞] 不在、欠席、欠如（不可算／可算）
+<script>
+function playTTS(word) {
+  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
+  audio.addEventListener("canplaythrough", () => audio.play());
+}
+</script>
 
-**absence** は、「その場にいないこと」「存在しないこと」「欠席」などを表す名詞です。人や物があるべき場所にいない・ない状態を指します。
+[名詞] 不在、欠席、欠如（不可算）
 
-語源はラテン語の "absentia"（離れていること）から来ており、「離れて存在しない」というニュアンスが元になっています。
+**absence** は、「その場にいないこと」「存在しないこと」「欠席」などを表すフォーマルな名詞です。人や物があるべき場所にいない・ない状態を指します。
+
+語源はラテン語の "absentia"（離れていること）から来ており、「ab-（離れて）」＋「esse（いる）」が組み合わさっています。
 
 他の品詞：  
-- absent：不在の、欠席の（形容詞）
+- absent：不在の、欠席している（形容詞）
 - absently：ぼんやりと、上の空で（副詞）
 
 ---
@@ -46,8 +54,8 @@ last_update: "2025-05-03"  # YYYY-MM-DD
 ## ✏️ absenceの例文
 
 【日常会話】  
-Her absence was noticed by everyone.  
-　彼女の不在はみんなに気づかれた。
+His absence was noticed by everyone.  
+　彼の不在はみんなに気づかれた。
 
 【ビジネス英語】  
 Please explain the reason for your absence from the meeting.  
@@ -60,7 +68,7 @@ Please explain the reason for your absence from the meeting.
 - 難易度：★★☆☆☆
 - 出題パート：Part 5（文法・語彙問題）
 
-TOEICでは「欠席」「不在」「欠如」の意味で、出席や参加に関する文脈でよく出題されます。特に理由や通知とセットで問われることが多いです。
+TOEICでは「欠席」「不在」「欠如」の意味で、主に文法・語彙問題（Part 5）で頻出します。ビジネス文書や会議の文脈でよく見かけます。
 
 ---
 
@@ -68,26 +76,26 @@ TOEICでは「欠席」「不在」「欠如」の意味で、出席や参加に
 
 正しい使い方はどっち？
 
-1. His absence from work was unexpected.  
-2. His absence from work was expect.
+1. The absence of clear instructions caused confusion.  
+2. The absence for clear instructions caused confusion.
 
 ---
 
 ## ✅ クイズの答えと解説
 
 - 正解：**1**
-- 解説：absenceは名詞なので、「was unexpected（予想外だった）」と続けるのが正しいです。
+- 解説："absence of ～"（～の不在・欠如）が正しい前置詞の使い方です。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-感覚が鋭いうちに👇️
+思考が整ったときが勝負👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
+＼英語が楽しくなる工夫／<br>  
 （おすすめ情報予定）
 </div>
 
@@ -95,10 +103,10 @@ TOEICでは「欠席」「不在」「欠如」の意味で、出席や参加に
 
 ## 🤔  lack との違いは？
 
-- **absence**：あるべき人や物が「いない・ない」状態（不在・欠席）
-- **[lack](/lack)**：必要なものが「足りない」状態（不足）
+- **absence**：あるべき人や物が「物理的・状況的に存在しない」ことを強調
+- **[lack](/lack)**：必要なものが「十分にない」「不足している」状態を強調
 
-absenceは「本来そこにいるべき人や物がいない」こと、lackは「必要な量や要素が十分でない」ことを表します。
+absenceは「完全にいない・ない」こと、lackは「量や程度が足りない」ことに使い分けます。
 
 ---
 
@@ -111,7 +119,7 @@ absenceは「本来そこにいるべき人や物がいない」こと、lackは
 
 ## 📖 できればこれも
 
-- [attendance](/attendance)：出席、出勤
-- [vacancy](/vacancy)：空席、欠員
+- [leave](/leave)：休暇、休み
+- [vacancy](/vacancy)：空き、欠員
 
-<!-- cvid: aid06_bid47 -->
+<!-- cvid: aid33_bid25 -->

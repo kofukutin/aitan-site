@@ -1,6 +1,7 @@
 ---
 robots: noindex
-title: "【about】の意味・使い方・例文 ― regardingとの違い【TOEIC英単語】"
+title: "【about】の意味・使い方・例文 ― aroundとの違い【TOEIC英単語】"
+description: "aboutの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでaroundとの違いもわかりやすく学べます。"
 word: "about"
 part_of_speech: "前置詞"
 difficulty: "1"
@@ -10,14 +11,14 @@ tags:
   - 中立的
   - ビジネス
   - 説明
-compared_word: "regarding"
+compared_word: "around"
 related_words:
+  - "regarding"
   - "concerning"
-  - "around"
 next_words:
   - "above"
-  - "across"
-last_update: "2025-05-03"  # YYYY-MM-DD
+  - "after"
+last_update: "2025-05-04"
 ---
 
 ## 🔰 aboutの発音と意味
@@ -31,27 +32,34 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-[前置詞] ～について、～に関して
+<script>
+function playTTS(word) {
+  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
+  audio.addEventListener("canplaythrough", () => audio.play());
+}
+</script>
 
-**about** は、「～について」「～に関して」といった意味で、話題や対象を示すときによく使われる前置詞です。
+[前置詞] ～について、約～
 
-語源は古英語「abutan」（周囲に）から来ており、「周りにあるもの」→「関連するもの」という意味に発展しました。
+**about** は、「～について」「およそ」「周囲に」など、話題や数量、位置を表すときによく使われる前置詞です。
+
+語源は古英語の「onbūtan」（周囲に）から来ており、「囲む」「関連する」という意味合いが広がって今の使い方になりました。
 
 他の品詞：  
 - about（副詞）：およそ、だいたい（副詞）
-- about（形容詞）：あちこちにいる、近くにいる（形容詞）
+- about（形容詞）：（古風）動き回っている（形容詞）
 
 ---
 
 ## ✏️ aboutの例文
 
 【日常会話】  
-I want to talk about my weekend.  
-　週末について話したいんだ。
+I'm thinking about dinner.  
+　夕食について考えているよ。
 
 【ビジネス英語】  
-We received an email about the new project.  
-　新しいプロジェクトについてメールを受け取りました。
+We need to talk about the new project.  
+　新しいプロジェクトについて話し合う必要があります。
 
 ---
 
@@ -60,7 +68,7 @@ We received an email about the new project.
 - 難易度：★☆☆☆☆
 - 出題パート：Part 3（会話問題）
 
-TOEICでは会話や説明文で「～について」と話題を示すときによく登場します。特にPart 3の会話文で頻出です。
+TOEICでは会話や説明文で「～について」「約～」の意味で頻出します。前置詞としての使い方を問う問題が多いです。
 
 ---
 
@@ -76,42 +84,42 @@ TOEICでは会話や説明文で「～について」と話題を示すときに
 ## ✅ クイズの答えと解説
 
 - 正解：**1**
-- 解説：「about」は「～について」と内容を示すときに使い、「around」は物理的な「周囲」を表すので文脈がずれます。
+- 解説：「～について」はaboutを使うのが自然です。aroundは物理的な「周囲」を表します。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-できるを増やそう👇️
+学ぶ喜びを感じよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼覚えやすい工夫満載／<br>  
+＼今日から始められる／<br>  
 （おすすめ情報予定）
 </div>
 
 ---
 
-## 🤔  regarding との違いは？
+## 🤔  around との違いは？
 
-- **about**：日常的で幅広く「～について」を表す
-- **[regarding](/regarding)**：ややフォーマルで書き言葉やビジネス文書で使われやすい
+- **about**：話題や内容、数量の「～について」「約～」を表す。
+- **[around](/around)**：物理的な「周囲」や「おおよそ」の意味で使う。
 
-aboutはカジュアルな会話からビジネスまで幅広く使えますが、regardingはより改まった場面や書類で使われます。
+aboutは話題や内容に焦点を当てるのに対し、aroundは位置や範囲、物理的な周囲を表すときに使います。
 
 ---
 
 ## 🧩 あわせて覚えたい
 
-- [concerning](/concerning)：～に関して（ややフォーマル）
-- [around](/around)：～の周りに、～付近に
+- [regarding](/regarding)：～に関して
+- [concerning](/concerning)：～に関して
 
 ---
 
 ## 📖 できればこれも
 
 - [above](/above)：～の上に
-- [across](/across)：～を横切って
-
-<!-- cvid: aid24_bid29 -->
+- [after](/after)：～の後に
+---
+<!-- cvid: aid32_bid10 -->

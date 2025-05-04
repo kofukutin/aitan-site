@@ -16,6 +16,10 @@
     {{ end }}
   </title>
 
+  {{ with .Params.description }}
+    <meta name="description" content="{{ . | plainify }}">
+  {{ end }}
+
   <link rel="stylesheet" href="/css/base.css">
   {{ if not hugo.IsServer }}
   <!-- Google Analytics -->

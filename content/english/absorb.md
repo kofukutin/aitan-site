@@ -1,23 +1,24 @@
 ---
 robots: noindex
 title: "【absorb】の意味・使い方・例文 ― soakとの違い【TOEIC英単語】"
+description: "absorbの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでsoakとの違いもわかりやすく学べます。"
 word: "absorb"
 part_of_speech: "動詞"
 difficulty: "3"
 tags:
   - 動詞
   - Part5
-  - 中立的
+  - フォーマル
   - 科学
   - 説明
 compared_word: "soak"
 related_words:
-  - "release"
-  - "assimilate"
+  - "digest"
+  - "incorporate"
 next_words:
   - "consume"
   - "retain"
-last_update: "2025-05-03"  # YYYY-MM-DD
+last_update: "2025-05-04"
 ---
 
 ## 🔰 absorbの発音と意味
@@ -31,11 +32,18 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
+<script>
+function playTTS(word) {
+  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
+  audio.addEventListener("canplaythrough", () => audio.play());
+}
+</script>
+
 [動詞] 吸収する、取り込む
 
-**absorb** は、液体や情報、エネルギーなどを「吸収する」「取り込む」という意味で使われます。物理的な吸収だけでなく、知識やショックなど抽象的なものにも使えるのが特徴です。
+**absorb** は、液体や情報、エネルギーなどを「吸収する」「取り込む」という意味で使われます。物理的な吸収だけでなく、知識や衝撃など幅広い対象に使えるフォーマルな単語です。
 
-語源はラテン語の "absorbere"（吸い込む）に由来し、「ab-（離れて）」＋「sorbere（吸う）」の組み合わせから来ています。もともと「すべてを吸い取る」というニュアンスがあります。
+語源はラテン語の「absorbēre（吸い込む）」に由来し、「ab-（離れて）」＋「sorbēre（吸う）」が組み合わさっています。もともと「すっかり吸い取る」というニュアンスが含まれています。
 
 他の品詞：  
 - absorbent：吸収性のある（形容詞）
@@ -50,8 +58,8 @@ This towel can absorb a lot of water.
 　このタオルはたくさん水を吸収できます。
 
 【ビジネス英語】  
-Our team needs time to absorb the new information.  
-　私たちのチームは新しい情報を消化する時間が必要です。
+Our company needs to absorb new technologies quickly.  
+　当社は新しい技術を素早く取り入れる必要があります。
 
 ---
 
@@ -60,7 +68,7 @@ Our team needs time to absorb the new information.
 - 難易度：★★★☆☆
 - 出題パート：Part 5（文法・語彙問題）
 
-TOEICでは科学やビジネスの文脈で「吸収する」「取り込む」の意味でよく出題されます。特に名詞形 absorption との使い分けも問われやすい単語です。
+TOEICでは、科学やビジネスの文脈で「吸収する」「取り込む」という意味で出題されることが多いです。特に技術や製品説明の場面でよく見かけます。
 
 ---
 
@@ -68,26 +76,26 @@ TOEICでは科学やビジネスの文脈で「吸収する」「取り込む」
 
 正しい使い方はどっち？
 
-1. Plants absorb sunlight to make food.  
-2. Plants absorb to sunlight to make food.
+1. Plants absorb sunlight to grow.  
+2. Plants absorb to sunlight to grow.
 
 ---
 
 ## ✅ クイズの答えと解説
 
 - 正解：**1**
-- 解説：absorb の後には目的語（sunlight）が直接続きます。to は不要です。
+- 解説：absorbは「absorb + 目的語（名詞）」の形で使い、「to」は不要です。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-頭が冴えてるうちに👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼好きな時間に学べる／<br>  
+＼あなた専用の学びを発見／<br>  
 （おすすめ情報予定）
 </div>
 
@@ -95,23 +103,23 @@ TOEICでは科学やビジネスの文脈で「吸収する」「取り込む」
 
 ## 🤔  soak との違いは？
 
-- **absorb**：液体や情報などを「吸収する」「取り込む」こと。物質や知識など幅広く使える。
-- **[soak](/soak)**：液体に「浸す」「びしょぬれにする」こと。主に水分に限定される。
+- **absorb**：液体や情報などを「内部に取り込む・吸収する」イメージ。受動的・科学的な文脈で使われやすい。
+- **[soak](/soak)**：液体に「浸す」「びしょ濡れにする」など、表面からしみ込むニュアンスが強い。
 
-absorb は「中に取り込む」イメージ、soak は「外からしみ込ませる」イメージで、soak の方が物理的・水分に特化しています。
+absorbは「中に取り込む」ことに重点があり、soakは「液体に浸してしみ込ませる」動作に重点があります。
 
 ---
 
 ## 🧩 あわせて覚えたい
 
-- [release](/release)：放出する、解放する
-- [assimilate](/assimilate)：同化する、吸収して自分のものにする
+- [digest](/digest)：消化する、理解する
+- [incorporate](/incorporate)：取り入れる、組み込む
 
 ---
 
 ## 📖 できればこれも
 
-- [consume](/consume)：消費する、使い尽くす
-- [retain](/retain)：保持する、維持する
+- [consume](/consume)：消費する
+- [retain](/retain)：保持する
 
-<!-- cvid: aid08_bid36 -->
+<!-- cvid: aid16_bid22 -->

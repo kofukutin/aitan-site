@@ -1,6 +1,7 @@
 ---
 robots: noindex
 title: "【abuse】の意味・使い方・例文 ― misuseとの違い【TOEIC英単語】"
+description: "abuseの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでmisuseとの違いもわかりやすく学べます。"
 word: "abuse"
 part_of_speech: "名詞"
 difficulty: "3"
@@ -8,7 +9,7 @@ tags:
   - 名詞
   - Part7
   - 否定的
-  - ビジネス
+  - 法務
   - 説明
 compared_word: "misuse"
 related_words:
@@ -16,8 +17,8 @@ related_words:
   - "neglect"
 next_words:
   - "violation"
-  - "exploit"
-last_update: "2025-05-03"  # YYYY-MM-DD
+  - "fraud"
+last_update: "2025-05-04"  # YYYY-MM-DD
 ---
 
 ## 🔰 abuseの発音と意味
@@ -31,37 +32,43 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-[名詞] 乱用、虐待（可算・不可算）
+<script>
+function playTTS(word) {
+  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
+  audio.addEventListener("canplaythrough", () => audio.play());
+}
+</script>
 
-**abuse** は、「権力や物事を悪用すること」「人や動物への虐待」を表す単語です。  
-ビジネスや社会問題の文脈でよく使われ、否定的なニュアンスが強い語です。
+[名詞] 乱用、虐待（不可算／可算）
 
-語源はラテン語「abusus（乱用）」に由来し、「ab-（離れて）」＋「uti（使う）」＝本来の目的から外れて使う、という意味合いが込められています。
+**abuse** は、「権力や物事を不適切に使うこと」や「人や動物への虐待」を表す否定的な意味の単語です。
+
+語源はラテン語「abusus（乱用）」に由来し、「本来の目的から外れて悪用する」というニュアンスが強いです。
 
 他の品詞：  
+- abusive：乱暴な、虐待的な（形容詞）
 - abuser：乱用者、虐待者（名詞）
-- abusive：虐待的な、乱用の（形容詞）
 
 ---
 
 ## ✏️ abuseの例文
 
 【日常会話】  
-He suffered from child abuse.  
-　彼は児童虐待を受けていました。
+He suffered from abuse at home.  
+　彼は家庭で虐待を受けていました。
 
 【ビジネス英語】  
 The company has a strict policy against the abuse of power.  
-　その会社は権力の乱用を厳しく禁止しています。
+　その会社は権力の乱用に対して厳しい方針を持っています。
 
 ---
 
 ## 🎯 TOEICの出題頻度と傾向
 
 - 難易度：★★★☆☆
-- 出題パート：Part 7（長文読解）
+- 出題パート：Part 7（長文読解・記事や通知文）
 
-TOEICでは、社会問題や企業倫理、職場環境に関する長文で「abuse」が登場することが多いです。特に「power abuse（権力の乱用）」や「substance abuse（薬物乱用）」などの表現で出題されます。
+TOEICでは、職場でのハラスメントや規則違反、権限の乱用などの文脈で出題されることが多い単語です。
 
 ---
 
@@ -69,26 +76,26 @@ TOEICでは、社会問題や企業倫理、職場環境に関する長文で「
 
 正しい使い方はどっち？
 
-1. The abuse of company resources is strictly prohibited.  
-2. The abuse company of resources is strictly prohibited.
+1. The abuse of company resources is not allowed.  
+2. The abuse company of resources is not allowed.
 
 ---
 
 ## ✅ クイズの答えと解説
 
 - 正解：**1**
-- 解説：「the abuse of ～」が正しい語順です。2は語順が不自然です。
+- 解説：abuse of ～（～の乱用）が正しい語順です。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-理解したら一歩前へ👇️
+自信の芽を育てよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スマホで完結する英語学習／<br>  
+＼覚えるスピードを上げよう／<br>  
 （おすすめ情報予定）
 </div>
 
@@ -96,10 +103,10 @@ TOEICでは、社会問題や企業倫理、職場環境に関する長文で「
 
 ## 🤔  misuse との違いは？
 
-- **abuse**：意図的かつ悪意をもって乱用・虐待するニュアンスが強い
-- **[misuse](/misuse)**：誤って、または不適切に使う意味で、悪意がない場合も多い
+- **abuse**：意図的に悪用・虐待する、強い否定的ニュアンス
+- **[misuse](/misuse)**：誤って使う、または不適切に使う（悪意がない場合も含む）
 
-abuseは「悪意ある乱用・虐待」、misuseは「間違った使い方」と、意図や感情の強さに違いがあります。
+abuseは「悪意ある乱用・虐待」、misuseは「間違った使い方」と、意図や悪質さの度合いが異なります。
 
 ---
 
@@ -113,6 +120,6 @@ abuseは「悪意ある乱用・虐待」、misuseは「間違った使い方」
 ## 📖 できればこれも
 
 - [violation](/violation)：違反、侵害
-- [exploit](/exploit)：搾取する、利用する
+- [fraud](/fraud)：詐欺、不正
 
-<!-- cvid: aid40_bid47 -->
+<!-- cvid: aid16_bid17 -->

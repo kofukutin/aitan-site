@@ -1,6 +1,7 @@
 ---
 robots: noindex
 title: "【academy】の意味・使い方・例文 ― instituteとの違い【TOEIC英単語】"
+description: "academyの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでinstituteとの違いもわかりやすく学べます。"
 word: "academy"
 part_of_speech: "名詞"
 difficulty: "2"
@@ -17,7 +18,7 @@ related_words:
 next_words:
   - "faculty"
   - "curriculum"
-last_update: "2025-05-03"  # YYYY-MM-DD
+last_update: "2025-05-04"
 ---
 
 ## 🔰 academyの発音と意味
@@ -31,11 +32,18 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-[名詞] 学院、専門学校、アカデミー（可算）
+<script>
+function playTTS(word) {
+  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
+  audio.addEventListener("canplaythrough", () => audio.play());
+}
+</script>
 
-**academy** は、特定の分野や専門的な教育・訓練を行う学校や機関を指します。一般的な学校よりも、芸術・科学・軍事など特定分野に特化した教育機関を意味することが多いです。
+[名詞] 学院、専門学校、学会（可算）
 
-語源はギリシャ語の「Akadēmeia」（プラトンの学園）に由来し、知識や専門性を追求する場所という意味合いが強い単語です。
+**academy** は、特定の分野や専門的な教育・研究を行う機関や団体を指します。一般的な学校よりも専門性が高い場合や、芸術・科学などの分野で使われることが多い単語です。
+
+語源はギリシャ語の「Akadēmeia」（アカデメイア）に由来し、哲学者プラトンが設立した学園の名前がもとになっています。
 
 他の品詞：  
 - academic：学問の、学術的な（形容詞）
@@ -46,21 +54,21 @@ last_update: "2025-05-03"  # YYYY-MM-DD
 ## ✏️ academyの例文
 
 【日常会話】  
-She wants to join a music academy.  
-　彼女は音楽アカデミーに入りたがっています。
+She wants to go to an art academy.  
+　彼女は美術学院に行きたがっています。
 
 【ビジネス英語】  
-The company partnered with a technology academy to train new employees.  
-　その会社は新入社員の研修のために技術アカデミーと提携しました。
+The company partnered with a local academy to offer training programs.  
+　その会社は研修プログラムを提供するために地元の学院と提携しました。
 
 ---
 
 ## 🎯 TOEICの出題頻度と傾向
 
 - 難易度：★★☆☆☆
-- 出題パート：Part 7（長文読解）
+- 出題パート：Part 7（長文読解・説明文）
 
-TOEICでは、教育機関や研修、専門学校に関する長文や案内文で見かけることが多い単語です。特に教育や研修の文脈で頻出します。
+TOEICでは、教育機関や研修、専門学校に関する説明文や案内文で登場することが多い単語です。特に教育や人材育成の文脈でよく見かけます。
 
 ---
 
@@ -68,26 +76,26 @@ TOEICでは、教育機関や研修、専門学校に関する長文や案内文
 
 正しい使い方はどっち？
 
-1. She graduated from an academy of fine arts.  
-2. She graduated from an academy in fine arts.
+1. She was accepted to a famous academy.  
+2. She was accepted to a famous academic.
 
 ---
 
 ## ✅ クイズの答えと解説
 
 - 正解：**1**
-- 解説：「academy of ～」で「～のアカデミー」という意味になるため、1が正しい表現です。
+- 解説：「academy」は「学院・学校」を意味し、「academic」は形容詞や名詞で「学者・学問の人」を指すため、文脈に合うのは1です。
 
 少し迷ったあなたも、  
 カンタンだったあなたも、  
-やる気の波に乗ろう👇️
+次の理解へつなげよう👇️
 
 ---
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
 <div class="info-center">
-＼スキマ時間を活用しよう／<br>  
+＼今日から始められる／<br>  
 （おすすめ情報予定）
 </div>
 
@@ -95,17 +103,17 @@ TOEICでは、教育機関や研修、専門学校に関する長文や案内文
 
 ## 🤔  institute との違いは？
 
-- **academy**：特定分野の教育や訓練を行う専門学校や学術機関
-- **[institute](/institute)**：研究・教育・技術などのための機関や組織
+- **academy**：特定分野の教育や研究を行う機関・団体。芸術や科学など専門性が強い。
+- **[institute](/institute)**：研究や教育、技術開発などを行う組織。より広い分野や技術系にも使われる。
 
-academyは教育や訓練に特化した学校的な意味が強く、instituteは研究や技術開発など幅広い機関を指します。
+academyは芸術や学問など専門的な教育機関に多く使われ、instituteは研究所や技術系の組織にも幅広く使われます。
 
 ---
 
 ## 🧩 あわせて覚えたい
 
-- [school](/school)：一般的な学校
-- [university](/university)：大学
+- [school](/school)：学校（一般的な教育機関）
+- [university](/university)：大学（高等教育機関）
 
 ---
 
@@ -114,4 +122,4 @@ academyは教育や訓練に特化した学校的な意味が強く、institute�
 - [faculty](/faculty)：学部、教授陣
 - [curriculum](/curriculum)：カリキュラム、教育課程
 
-<!-- cvid: aid37_bid06 -->
+<!-- cvid: aid34_bid10 -->
