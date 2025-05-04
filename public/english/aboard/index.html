@@ -58,15 +58,6 @@
     （アボード）
   </span>
 </button>
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
 <p>[前置詞] ～に乗って、～の中に（乗り物など）</p>
 <p><strong>aboard</strong> は、船・飛行機・列車・バスなどの乗り物に「乗っている」状態や「乗り込む」ことを表す前置詞・副詞です。</p>
 <p>語源は「board（板、乗り込む）」に由来し、「a-（上に）」＋「board」で「乗り物の上にいる」イメージから来ています。</p>
@@ -168,6 +159,9 @@ Please have your ticket ready before you get aboard the train.<br>
   </footer>
 
 
+
+
+  <script src="/js/tts.js" defer></script>
 
 
 </body>

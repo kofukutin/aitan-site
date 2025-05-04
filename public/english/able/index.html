@@ -58,15 +58,6 @@
     （エイブル）
   </span>
 </button>
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
 <p>[形容詞] ～できる、能力がある</p>
 <p><strong>able</strong> は、「～することができる」「能力がある」という意味で、主にbe動詞と一緒に使われます。</p>
 <p>語源はラテン語の「habilis（できる、適した）」に由来し、英語では「能力がある」状態を表す形容詞として定着しました。</p>
@@ -168,6 +159,9 @@ She is able to finish the report by Friday.<br>
   </footer>
 
 
+
+
+  <script src="/js/tts.js" defer></script>
 
 
 </body>

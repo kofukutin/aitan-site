@@ -58,15 +58,6 @@
     （アブロード）
   </span>
 </button>
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
 <p>[副詞] 海外へ、海外で、外国に</p>
 <p><strong>abroad</strong> は、「海外へ」「海外で」「外国に」という意味で、場所を表す副詞として使われます。<br>
 旅行や留学、仕事などで日本以外の国に行く・いる場合によく使われます。</p>
@@ -164,6 +155,9 @@ Our company plans to expand abroad next year.<br>
   </footer>
 
 
+
+
+  <script src="/js/tts.js" defer></script>
 
 
 </body>

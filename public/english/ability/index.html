@@ -58,15 +58,6 @@
     （アビリティ）
   </span>
 </button>
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
 <p>[名詞] 能力、できること（不可算／可算）</p>
 <p><strong>ability</strong> は、「何かをする力」「できること」を表す一般的な単語です。人や物が持つ潜在的な力や才能を指します。</p>
 <p>語源はラテン語の <em>habilitas</em>（適性、能力）に由来し、「できる状態」を意味します。</p>
@@ -168,6 +159,9 @@ His ability to solve problems is highly valued in our company.<br>
   </footer>
 
 
+
+
+  <script src="/js/tts.js" defer></script>
 
 
 </body>

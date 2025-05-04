@@ -58,15 +58,6 @@
     （アブセント）
   </span>
 </button>
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
 <p>[形容詞] 不在の、欠席している</p>
 <p><strong>absent</strong> は、「その場にいない」「欠席している」という意味で、学校や職場などで人がいないことを表します。ややフォーマルな響きがあり、ビジネスや公式な場面でよく使われます。</p>
 <p>語源はラテン語の「absens（離れている）」に由来し、「ab（離れて）」＋「esse（いる）」の組み合わせから来ています。</p>
@@ -168,6 +159,9 @@ Two members are absent from the meeting.<br>
   </footer>
 
 
+
+
+  <script src="/js/tts.js" defer></script>
 
 
 </body>

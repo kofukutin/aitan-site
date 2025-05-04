@@ -58,15 +58,6 @@
     （アブゾーブ）
   </span>
 </button>
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
 <p>[動詞] 吸収する、取り込む</p>
 <p><strong>absorb</strong> は、液体や情報、エネルギーなどを「吸収する」「取り込む」という意味で使われます。物理的な吸収だけでなく、知識やショックなど抽象的なものにも使えるのが特徴です。</p>
 <p>語源はラテン語の &ldquo;absorbere&rdquo;（吸い込む）に由来し、「ab-（離れて）」＋「sorbere（吸う）」の組み合わせから来ています。もともと「すべてを吸い取る」というニュアンスがあります。</p>
@@ -168,6 +159,9 @@ Our team needs time to absorb the new information.<br>
   </footer>
 
 
+
+
+  <script src="/js/tts.js" defer></script>
 
 
 </body>

@@ -58,15 +58,6 @@
     （アボーシュン）
   </span>
 </button>
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
 <p>[名詞] 妊娠中絶</p>
 <p><strong>abortion</strong> は、妊娠を人工的に中断すること、またはその処置を指します。主に医療や法的な文脈で使われるフォーマルな単語です。</p>
 <p>語源はラテン語の &ldquo;abortio&rdquo;（中断、流産）に由来し、「生まれる前に止める」という意味合いが含まれています。</p>
@@ -168,6 +159,9 @@ The new law restricts access to abortion services.<br>
   </footer>
 
 
+
+
+  <script src="/js/tts.js" defer></script>
 
 
 </body>

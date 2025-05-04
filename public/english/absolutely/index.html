@@ -58,15 +58,6 @@
     （アブソルートリー）
   </span>
 </button>
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
 <p>[副詞] 絶対に、完全に、まったく</p>
 <p><strong>absolutely</strong> は、「完全に」「間違いなく」「絶対に」といった強い肯定や同意を表す副詞です。日常会話でもビジネスでも、強調したいときによく使われます。</p>
 <p>語源はラテン語の「absolutus（完全な、解放された）」に由来し、「何の制限もなく」というニュアンスが強調されています。</p>
@@ -168,6 +159,9 @@ This project is absolutely essential for our success.<br>
   </footer>
 
 
+
+
+  <script src="/js/tts.js" defer></script>
 
 
 </body>

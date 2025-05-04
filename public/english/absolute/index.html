@@ -58,15 +58,6 @@
     （アブソリュート）
   </span>
 </button>
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
 <p>[形容詞] 絶対的な、完全な、無条件の</p>
 <p><strong>absolute</strong> は、「何の制限や条件もなく、完全であること」「他と比較せず、それ自体で成り立つこと」を表す形容詞です。</p>
 <p>語源はラテン語の &ldquo;absolutus&rdquo;（解き放たれた、制約のない）から来ており、「何にも縛られない」「完全な」というニュアンスが強調されています。</p>
@@ -168,6 +159,9 @@ We need absolute accuracy in these reports.<br>
   </footer>
 
 
+
+
+  <script src="/js/tts.js" defer></script>
 
 
 </body>

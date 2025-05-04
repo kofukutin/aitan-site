@@ -58,15 +58,6 @@
     （アバリジナル）
   </span>
 </button>
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
 <p>[形容詞] 先住の、原始の</p>
 <p><strong>aboriginal</strong> は、特定の地域に元々存在していた人々や文化、動植物などに対して使われる形容詞です。</p>
 <p>この語は「最初の」や「起源の」という意味のラテン語 <em>aborigines</em>（その土地に生まれた人々）に由来します。</p>
@@ -163,6 +154,9 @@ Our project considers the rights of aboriginal communities.<br>
   </footer>
 
 
+
+
+  <script src="/js/tts.js" defer></script>
 
 
 </body>

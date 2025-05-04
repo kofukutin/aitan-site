@@ -58,15 +58,6 @@
     （アブゾープション）
   </span>
 </button>
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
 <p>[名詞] 吸収、没頭</p>
 <p><strong>absorption</strong> は、液体や気体が他の物質に吸い込まれることや、何かに夢中になることを表します。</p>
 <p>語源はラテン語の &ldquo;absorbere&rdquo;（吸い込む）から来ており、物理的な「吸収」だけでなく、精神的な「没頭」にも使われます。</p>
@@ -168,6 +159,9 @@ Her absorption in the project led to excellent results.<br>
   </footer>
 
 
+
+
+  <script src="/js/tts.js" defer></script>
 
 
 </body>

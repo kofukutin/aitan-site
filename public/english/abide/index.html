@@ -58,15 +58,6 @@
     （アバイド）
   </span>
 </button>
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
 <p>[動詞] （規則・約束などを）守る、従う／（否定文で）我慢する</p>
 <p><strong>abide</strong> は、「規則や決まりを守る」「従う」という意味で、特にフォーマルな場面や法律・契約などで使われます。また、「（否定文で）我慢する」という意味もあります。</p>
 <p>語源は古英語の「abidan」（待つ、留まる）に由来し、「何かを守ってとどまる」というニュアンスが残っています。</p>
@@ -167,6 +158,9 @@ All employees must abide by the company&rsquo;s policies.<br>
   </footer>
 
 
+
+
+  <script src="/js/tts.js" defer></script>
 
 
 </body>

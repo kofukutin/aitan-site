@@ -58,15 +58,6 @@
     （アカデミック）
   </span>
 </button>
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
 <p>[形容詞] 学問の、学術的な、学校の</p>
 <p><strong>academic</strong> は、学校教育や学問、理論的な内容に関わることを表す形容詞です。大学や研究、教育現場などでよく使われます。</p>
 <p>語源はラテン語の「academia（学園）」に由来し、もともとは古代ギリシャの哲学学校「アカデメイア」から来ています。知識や理論に重きを置くニュアンスがあります。</p>
@@ -168,6 +159,9 @@ We need to improve our academic partnerships with universities.<br>
   </footer>
 
 
+
+
+  <script src="/js/tts.js" defer></script>
 
 
 </body>

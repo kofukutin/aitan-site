@@ -58,15 +58,6 @@
     （アバウト）
   </span>
 </button>
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
 <p>[前置詞] ～について、～に関して</p>
 <p><strong>about</strong> は、「～について」「～に関して」といった意味で、話題や対象を示すときによく使われる前置詞です。</p>
 <p>語源は古英語「abutan」（周囲に）から来ており、「周りにあるもの」→「関連するもの」という意味に発展しました。</p>
@@ -168,6 +159,9 @@ We received an email about the new project.<br>
   </footer>
 
 
+
+
+  <script src="/js/tts.js" defer></script>
 
 
 </body>

@@ -58,15 +58,6 @@
     （アバンドンド）
   </span>
 </button>
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
 <p>[形容詞] 見捨てられた、放棄された</p>
 <p><strong>abandoned</strong> は、「人や物が見捨てられて使われなくなった」「放置された」という否定的な意味で使われる形容詞です。</p>
 <p>語源は「abandon（放棄する）」＋過去分詞形で、「放棄された状態」を表します。</p>
@@ -168,6 +159,9 @@ The abandoned project will not be resumed.<br>
   </footer>
 
 
+
+
+  <script src="/js/tts.js" defer></script>
 
 
 </body>
