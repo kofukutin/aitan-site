@@ -31,15 +31,7 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
+
 
 [名詞] 能力、できること（不可算／可算）
 
@@ -96,9 +88,9 @@ TOEICでは「communication ability」や「ability to work under pressure」な
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
-<div class="ad-center">
+<div class="info-center">
 ＼あなたに合う学び方／<br>  
-（広告掲載予定）
+（おすすめ情報予定）
 </div>
 
 ---

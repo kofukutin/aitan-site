@@ -31,16 +31,6 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
-
 [名詞] 要旨、概要（可算）
 
 **abstract** は、論文やレポートの冒頭に置かれる「要旨」「概要」を表すフォーマルな単語です。
@@ -96,9 +86,9 @@ TOEICのPart7で、論文やレポート、ビジネス文書の要約部分と�
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
-<div class="ad-center">
+<div class="info-center">
 ＼無料で試せる学習法／<br>  
-（広告掲載予定）
+（おすすめ情報予定）
 </div>
 
 ---

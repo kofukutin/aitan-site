@@ -31,16 +31,6 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
-
 [名詞] 妊娠中絶
 
 **abortion** は、妊娠を人工的に中断すること、またはその処置を指します。主に医療や法的な文脈で使われるフォーマルな単語です。
@@ -96,9 +86,9 @@ The new law restricts access to abortion services.
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
-<div class="ad-center">
+<div class="info-center">
 ＼次のステージへ進もう／<br>  
-（広告掲載予定）
+（おすすめ情報予定）
 </div>
 
 ---

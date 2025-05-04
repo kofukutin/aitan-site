@@ -31,16 +31,6 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
-
 [形容詞] 見捨てられた、放棄された
 
 **abandoned** は、「人や物が見捨てられて使われなくなった」「放置された」という否定的な意味で使われる形容詞です。
@@ -96,9 +86,9 @@ TOEICでは、建物やプロジェクト、物事が「放棄された」「使
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
-<div class="ad-center">
+<div class="info-center">
 ＼行動が未来を変える／<br>  
-（広告掲載予定）
+（おすすめ情報予定）
 </div>
 
 ---

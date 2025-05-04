@@ -31,16 +31,6 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
-
 [前置詞] ～に乗って、～の中に（乗り物など）
 
 **aboard** は、船・飛行機・列車・バスなどの乗り物に「乗っている」状態や「乗り込む」ことを表す前置詞・副詞です。
@@ -96,9 +86,9 @@ TOEICでは主にPart 1の写真描写で「乗り物に乗っている」状態
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
-<div class="ad-center">
+<div class="info-center">
 ＼結果につながる近道／<br>  
-（広告掲載予定）
+（おすすめ情報予定）
 </div>
 
 ---

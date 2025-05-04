@@ -31,16 +31,6 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
-
 [形容詞] 絶対的な、完全な、無条件の
 
 **absolute** は、「何の制限や条件もなく、完全であること」「他と比較せず、それ自体で成り立つこと」を表す形容詞です。
@@ -96,9 +86,9 @@ absoluteは、TOEICの文法・語彙問題（Part 5）で「絶対的な」「�
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
-<div class="ad-center">
+<div class="info-center">
 ＼スマホで効率学習／<br>  
-（広告掲載予定）
+（おすすめ情報予定）
 </div>
 
 ---

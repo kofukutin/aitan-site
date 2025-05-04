@@ -31,16 +31,6 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
-
 [動詞] （規則・約束などを）守る、従う／（否定文で）我慢する
 
 **abide** は、「規則や決まりを守る」「従う」という意味で、特にフォーマルな場面や法律・契約などで使われます。また、「（否定文で）我慢する」という意味もあります。
@@ -95,9 +85,9 @@ TOEICでは「abide by（～に従う）」という形で、規則や契約に�
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
-<div class="ad-center">
+<div class="info-center">
 ＼今日の理解を次へ／<br>  
-（広告掲載予定）
+（おすすめ情報予定）
 </div>
 
 ---

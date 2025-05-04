@@ -31,16 +31,6 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
-
 [前置詞] ～の上に、～より上に  
 [副詞] 上に、上方に
 
@@ -96,9 +86,9 @@ TOEICでは主にPart 1の写真描写で、物の位置関係を説明する際
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
-<div class="ad-center">
+<div class="info-center">
 ＼続くから力になる／<br>  
-（広告掲載予定）
+（おすすめ情報予定）
 </div>
 
 ---

@@ -31,16 +31,6 @@ last_update: "2025-05-03"
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
-
 [形容詞] 先住の、原始の
 
 **aboriginal** は、特定の地域に元々存在していた人々や文化、動植物などに対して使われる形容詞です。
@@ -92,9 +82,9 @@ Our project considers the rights of aboriginal communities.
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
-<div class="ad-center">
+<div class="info-center">
 ＼行動が未来を変える／<br>  
-（広告掲載予定）
+（おすすめ情報予定）
 </div>
 
 ---

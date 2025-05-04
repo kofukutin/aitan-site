@@ -31,16 +31,6 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
-
 [名詞] 学院、専門学校、アカデミー（可算）
 
 **academy** は、特定の分野や専門的な教育・訓練を行う学校や機関を指します。一般的な学校よりも、芸術・科学・軍事など特定分野に特化した教育機関を意味することが多いです。
@@ -96,9 +86,9 @@ TOEICでは、教育機関や研修、専門学校に関する長文や案内文
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
-<div class="ad-center">
+<div class="info-center">
 ＼スキマ時間を活用しよう／<br>  
-（広告掲載予定）
+（おすすめ情報予定）
 </div>
 
 ---

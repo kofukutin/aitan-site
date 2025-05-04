@@ -31,16 +31,6 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
-
 [名詞] 不在、欠席、欠如（不可算／可算）
 
 **absence** は、「その場にいないこと」「存在しないこと」「欠席」などを表す名詞です。人や物があるべき場所にいない・ない状態を指します。
@@ -96,9 +86,9 @@ TOEICでは「欠席」「不在」「欠如」の意味で、出席や参加に
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
-<div class="ad-center">
+<div class="info-center">
 ＼スマホで完結する英語学習／<br>  
-（広告掲載予定）
+（おすすめ情報予定）
 </div>
 
 ---

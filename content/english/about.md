@@ -31,16 +31,6 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
-
 [前置詞] ～について、～に関して
 
 **about** は、「～について」「～に関して」といった意味で、話題や対象を示すときによく使われる前置詞です。
@@ -96,9 +86,9 @@ TOEICでは会話や説明文で「～について」と話題を示すときに
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
-<div class="ad-center">
+<div class="info-center">
 ＼覚えやすい工夫満載／<br>  
-（広告掲載予定）
+（おすすめ情報予定）
 </div>
 
 ---

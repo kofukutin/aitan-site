@@ -31,16 +31,6 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
-
 [名詞] 吸収、没頭
 
 **absorption** は、液体や気体が他の物質に吸い込まれることや、何かに夢中になることを表します。
@@ -96,9 +86,9 @@ TOEICでは科学やビジネスの説明文で「吸収」や「没頭」の意
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
-<div class="ad-center">
+<div class="info-center">
 ＼選ばれている学び方／<br>  
-（広告掲載予定）
+（おすすめ情報予定）
 </div>
 
 ---

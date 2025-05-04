@@ -31,16 +31,6 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
-
 [形容詞] 学問の、学術的な、学校の
 
 **academic** は、学校教育や学問、理論的な内容に関わることを表す形容詞です。大学や研究、教育現場などでよく使われます。
@@ -96,9 +86,9 @@ TOEICでは大学や教育機関、研究発表などの文脈でよく登場し
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
-<div class="ad-center">
+<div class="info-center">
 ＼英語に触れる毎日へ／<br>  
-（広告掲載予定）
+（おすすめ情報予定）
 </div>
 
 ---

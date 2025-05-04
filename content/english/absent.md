@@ -31,16 +31,6 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
-
 [形容詞] 不在の、欠席している
 
 **absent** は、「その場にいない」「欠席している」という意味で、学校や職場などで人がいないことを表します。ややフォーマルな響きがあり、ビジネスや公式な場面でよく使われます。
@@ -96,9 +86,9 @@ TOEICでは「be absent from ～」の形で、出欠や出席状況を問う文
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
-<div class="ad-center">
+<div class="info-center">
 ＼信頼される学びの形／<br>  
-（広告掲載予定）
+（おすすめ情報予定）
 </div>
 
 ---

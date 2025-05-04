@@ -31,16 +31,6 @@ last_update: "2025-05-03"  # YYYY-MM-DD
   </span>
 </button>
 
-<script>
-function playTTS(word) {
-  const audio = new Audio('/api/tts?text=' + encodeURIComponent(word));
-  audio.load();
-  audio.addEventListener("canplaythrough", () => {
-    audio.play();
-  });
-}
-</script>
-
 [副詞] 海外へ、海外で、外国に
 
 **abroad** は、「海外へ」「海外で」「外国に」という意味で、場所を表す副詞として使われます。  
@@ -93,9 +83,9 @@ TOEICでは主にPart 7のEメールや記事文中で「海外出張」「海�
 
 ## 🚀 今が英語力を伸ばすチャンス！ (PR)
 
-<div class="ad-center">
+<div class="info-center">
 ＼好きな時間に学べる／<br>  
-（広告掲載予定）
+（おすすめ情報予定）
 </div>
 
 ---
