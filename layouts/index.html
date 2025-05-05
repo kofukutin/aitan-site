@@ -21,15 +21,16 @@
 <section class="top-tags">
   <div class="top-tags-inner">
     <h2 class="top-tags-title">🏷️タグから探す</h2>
-    <ul class="top-tags-list">
+    <div class="tag-grid">
       {{ $terms := site.Taxonomies.tags }}
       {{ range $key, $value := $terms }}
-        <li>
+        <div class="tag-item">
           <a href="/tags/{{ $key | urlize }}/">{{ $key }}（{{ len $value }}語）</a>
-        </li>
+        </div>
       {{ end }}
-    </ul>
+    </div>
   </div>
 </section>
+
 
 {{ end }}
