@@ -11,8 +11,28 @@
 
 <section class="top-search">
   <div class="top-search-inner">
-    <input type="text" id="searchBox" placeholder="何を調べますか？">
+    <input
+      type="text"
+      id="searchBox"
+      placeholder="何を調べますか？"
+      inputmode="latin"
+      autocomplete="off"
+      autocapitalize="none"
+      spellcheck="false"
+    />
     <ul id="resultsList"></ul>
+  </div>
+</section>
+
+<hr>
+
+<section class="top-counts">
+  <div class="top-counts-inner">
+    <h2 class="top-counts-title">📊 カテゴリ別の記事数</h2>
+    <ul>
+      <li>英単語： {{ len (where site.RegularPages "Section" "word") }} 記事</li>
+      <li>長文読解： Coming Soon!</li>
+    </ul>
   </div>
 </section>
 
@@ -25,12 +45,11 @@
       {{ $terms := site.Taxonomies.tags }}
       {{ range $key, $value := $terms }}
         <div class="tag-item">
-          <a href="/tags/{{ $key | urlize }}/">{{ $key }}（{{ len $value }}語）</a>
+          <a href="{{ $value.Page.RelPermalink }}">{{ $value.Page.Title }}（{{ len $value }}語）</a>
         </div>
       {{ end }}
     </div>
   </div>
 </section>
-
 
 {{ end }}

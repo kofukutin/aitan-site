@@ -18,3 +18,7 @@ section = ["HTML", "JSON"]
 taxonomy = ["HTML"]
 term = ["HTML"]
 page = ["HTML"]
+
+[params]
+  defaultOGImage = "https://www.ai-tan.jp/images/ogp.png"
+  preserveTaxonomyNames = true

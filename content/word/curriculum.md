@@ -1,0 +1,118 @@
+---
+robots: noindex
+title: "【curriculum】の意味・使い方・例文 ― syllabusとの違い【TOEIC英単語】"
+description: "curriculumの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでsyllabusとの違いもわかりやすく学べます。"
+word: "curriculum"
+part_of_speech: "名詞"
+difficulty: "3"
+tags:
+  - 名詞
+  - Part7
+  - フォーマル
+  - 教育
+  - 説明
+compared_word: "syllabus"
+related_words:
+  - "course"
+  - "program"
+next_words:
+  - "lecture"
+  - "requirement"
+last_update: "2025-05-04"
+---
+
+## 🔰 curriculumの発音と意味
+
+<button class="play-audio" onclick="playTTS('curriculum')">
+  <span class="play-audio-main">
+    ▶️ 発音を再生　/kəˈrɪkjʊləm/
+  </span>
+  <span class="play-audio-sub">
+    （カリキュラム）
+  </span>
+</button>
+
+[名詞] 教育課程、カリキュラム（可算・不可算）
+
+**curriculum** は、学校や教育機関で教えられる科目や内容の全体的な計画や体系を指します。
+
+語源はラテン語の「currere（走る）」から派生し、「走るコース＝学びの道筋」という意味合いが込められています。
+
+他の品詞：  
+- curricular：カリキュラムの、教育課程の（形容詞）
+- curricularize：カリキュラム化する（動詞）
+
+---
+
+## ✏️ curriculumの例文
+
+【日常会話】  
+Our school has a new curriculum this year.  
+　うちの学校は今年、新しいカリキュラムになったよ。
+
+【ビジネス英語】  
+The curriculum will be updated to include more IT courses.  
+　カリキュラムはより多くのITコースを含むように更新されます。
+
+---
+
+## 🎯 TOEICの出題頻度と傾向
+
+- 難易度：★★★☆☆
+- 出題パート：Part 7（長文読解・説明文）
+
+TOEICでは教育や研修、学校案内などの説明文でよく登場します。特に教育プログラムや研修内容の紹介で見かける単語です。
+
+---
+
+## ❓ クイズに挑戦！
+
+正しい使い方はどっち？
+
+1. The curriculum covers all the subjects students need.  
+2. The curriculum covers all the students subjects need.
+
+---
+
+## ✅ クイズの答えと解説
+
+- 正解：**1**
+- 解説：curriculumは「教科内容」を指すため、subjects（科目）を修飾するのが自然です。
+
+少し迷ったあなたも、  
+カンタンだったあなたも、  
+感覚を研ぎ澄まそう👇️
+
+---
+
+## 🚀 今が英語力を伸ばすチャンス！ (PR)
+
+<div class="info-center">
+＼やれば変わる英語力／<br>  
+（おすすめ情報予定）
+</div>
+
+---
+
+## 🤔  syllabus との違いは？
+
+- **curriculum**：学校やコース全体の教育課程・学習計画
+- **[syllabus](/syllabus)**：特定の授業や科目ごとの詳細な授業計画
+
+curriculumは全体像や体系を指し、syllabusは個々の授業や科目の細かい内容・進行表を指します。
+
+---
+
+## 🧩 あわせて覚えたい
+
+- [course](/course)：コース、課程
+- [program](/program)：プログラム、計画
+
+---
+
+## 📖 できればこれも
+
+- [lecture](/lecture)：講義
+- [requirement](/requirement)：必修科目、要件
+
+<!-- cvid: aid39_bid28 -->

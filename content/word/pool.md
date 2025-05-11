@@ -1,0 +1,118 @@
+---
+robots: noindex
+title: "【pool】の意味・使い方・例文 ― fundとの違い【TOEIC英単語】"
+description: "poolの意味・使い方・TOEICでの出題傾向をやさしく解説。例文・クイズ付きでfundとの違いもわかりやすく学べます。"
+word: "pool"
+part_of_speech: "名詞"
+difficulty: "2"
+tags:
+  - 名詞
+  - Part3
+  - 中立的
+  - ビジネス
+  - 会議
+compared_word: "fund"
+related_words:
+  - "resource"
+  - "collection"
+next_words:
+  - "budget"
+  - "share"
+last_update: "2025-05-04"  # YYYY-MM-DD
+---
+
+## 🔰 poolの発音と意味
+
+<button class="play-audio" onclick="playTTS('pool')">
+  <span class="play-audio-main">
+    ▶️ 発音を再生　/puːl/
+  </span>
+  <span class="play-audio-sub">
+    （プール）
+  </span>
+</button>
+
+[名詞] プール、水たまり、共同資金（可算）
+
+**pool** は、「水をためる場所」や「複数人で出し合ったお金や資源の集まり」を表します。ビジネスでは「共同資金」「人材のプール」などの意味でよく使われます。
+
+語源はラテン語「pōla（水たまり）」やフランス語「poule（賭け金の集まり）」に由来し、「集めて一つにする」イメージが基本です。
+
+他の品詞：  
+- pooling：集めること（名詞）
+- pool（動詞）：資源などを出し合う（動詞）
+
+---
+
+## ✏️ poolの例文
+
+【日常会話】  
+Let's go swimming in the pool.  
+　プールで泳ごうよ。
+
+【ビジネス英語】  
+We created a pool of funds for the new project.  
+　新しいプロジェクトのために共同資金を作りました。
+
+---
+
+## 🎯 TOEICの出題頻度と傾向
+
+- 難易度：★★☆☆☆
+- 出題パート：Part 3（会話問題）
+
+TOEICでは「人材のプール」「資金のプール」など、ビジネスの場面で複数人が何かを出し合う意味で出題されることが多いです。
+
+---
+
+## ❓ クイズに挑戦！
+
+正しい使い方はどっち？
+
+1. The company has a pool of talented engineers.  
+2. The company has a fund of talented engineers.
+
+---
+
+## ✅ クイズの答えと解説
+
+- 正解：**1**
+- 解説：「pool」は人材や資源の集まりに使えますが、「fund」は通常お金にしか使いません。
+
+少し迷ったあなたも、  
+カンタンだったあなたも、  
+できるを増やそう👇️
+
+---
+
+## 🚀 今が英語力を伸ばすチャンス！ (PR)
+
+<div class="info-center">
+＼覚えやすい工夫満載／<br>  
+（おすすめ情報予定）
+</div>
+
+---
+
+## 🤔  fund との違いは？
+
+- **pool**：人や資源・お金など「集めて一つにしたもの」全般に使える
+- **[fund](/fund)**：主に「お金の蓄え・基金」に限定される
+
+「pool」は人材や情報など幅広い「集まり」に使えますが、「fund」はお金に特化しています。
+
+---
+
+## 🧩 あわせて覚えたい
+
+- [resource](/resource)：資源、リソース
+- [collection](/collection)：収集、集めたもの
+
+---
+
+## 📖 できればこれも
+
+- [budget](/budget)：予算
+- [share](/share)：分け前、共有する
+
+<!-- cvid: aid24_bid29 -->

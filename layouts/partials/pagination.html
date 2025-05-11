@@ -1,0 +1,25 @@
+{{ if gt .Paginator.TotalPages 1 }}
+<nav class="pagination">
+  <ul>
+    {{ with .Paginator.First }}
+      <li><a href="{{ .URL }}">««</a></li>
+    {{ end }}
+    {{ with .Paginator.Prev }}
+      <li><a href="{{ .URL }}">«</a></li>
+    {{ end }}
+
+    {{ range .Paginator.Pagers }}
+      <li class="{{ if eq .URL $.Paginator.URL }}active{{ end }}">
+        <a href="{{ .URL }}">{{ .PageNumber }}</a>
+      </li>
+    {{ end }}
+
+    {{ with .Paginator.Next }}
+      <li><a href="{{ .URL }}">»</a></li>
+    {{ end }}
+    {{ with .Paginator.Last }}
+      <li><a href="{{ .URL }}">»»</a></li>
+    {{ end }}
+  </ul>
+</nav>
+{{ end }}

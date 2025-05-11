@@ -1,13 +1,13 @@
 {{ define "main" }}
 <h1>🏷️{{ .Title }}</h1>
-<ul style="list-style: none; padding-left: 0;">
+
+<div class="tag-grid">
   {{ range .Paginator.Pages }}
-    <li style="margin-bottom: 0.6em;">
+    <div class="tag-item">
       <a href="{{ .Permalink }}">{{ .Params.word }}（{{ .Params.part_of_speech }}）</a>
-    </li>
+    </div>
   {{ end }}
-</ul>
-<div>
-  {{ template "_internal/pagination.html" . }}
 </div>
+
+{{ partial "pagination.html" . }}
 {{ end }}

@@ -1,5 +1,5 @@
 [
-    {{- $pages := where .Site.RegularPages "Section" "english" -}}
+    {{- $pages := where .Site.RegularPages "Section" "word" -}}
     {{- range $index, $page := $pages }}
       {{- if $index }},{{ end }}
       {

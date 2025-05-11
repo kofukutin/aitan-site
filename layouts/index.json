@@ -1,0 +1,10 @@
+[
+  {{- $pages := where site.RegularPages "Section" "word" -}}
+  {{- range $index, $page := $pages }}
+    {{- if $index }},{{ end }}
+    {
+      "word": "{{ $page.Params.word }}",
+      "url": "{{ $page.RelPermalink }}"
+    }
+  {{- end }}
+]
