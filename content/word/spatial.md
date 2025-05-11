@@ -97,7 +97,7 @@ TOEICでは、科学や技術、建築、設計などの説明文や記事で「
 ## 🤔  physical との違いは？
 
 - **spatial**：空間や配置、位置関係に関する性質を表す
-- **[physical](/physical)**：物理的・身体的な性質や実体を表す
+- **[physical](/word/physical)**：物理的・身体的な性質や実体を表す
 
 「spatial」は空間や配置の特徴に焦点を当て、「physical」は物質的・実体的な特徴や身体に関することに使います。
 
@@ -105,14 +105,14 @@ TOEICでは、科学や技術、建築、設計などの説明文や記事で「
 
 ## 🧩 あわせて覚えたい
 
-- [geographic](/geographic)：地理的な
-- [dimensional](/dimensional)：次元の、寸法の
+- [geographic](/word/geographic)：地理的な
+- [dimensional](/word/dimensional)：次元の、寸法の
 
 ---
 
 ## 📖 できればこれも
 
-- [visual](/visual)：視覚の、見える
-- [structural](/structural)：構造上の
+- [visual](/word/visual)：視覚の、見える
+- [structural](/word/structural)：構造上の
 
 <!-- cvid: aid49_bid29 -->

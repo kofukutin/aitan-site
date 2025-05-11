@@ -97,7 +97,7 @@ TOEICでは「the finest」「finest quality」など、最上級表現や品質
 ## 🤔  best との違いは？
 
 - **finest**：品質や上品さ、洗練された「最高」を強調
-- **[best](/best)**：一般的に「最も良い」「最善」の意味
+- **[best](/word/best)**：一般的に「最も良い」「最善」の意味
 
 「finest」は特に品質や上品さを強調したいときに使い、「best」はより幅広く「最も良い」全般に使います。
 
@@ -105,14 +105,14 @@ TOEICでは「the finest」「finest quality」など、最上級表現や品質
 
 ## 🧩 あわせて覚えたい
 
-- [excellent](/excellent)：非常に優れた
-- [superior](/superior)：より優れた、上位の
+- [excellent](/word/excellent)：非常に優れた
+- [superior](/word/superior)：より優れた、上位の
 
 ---
 
 ## 📖 できればこれも
 
-- [better](/better)：より良い
-- [great](/great)：素晴らしい、偉大な
+- [better](/word/better)：より良い
+- [great](/word/great)：素晴らしい、偉大な
 
 <!-- cvid: aid12_bid03 -->

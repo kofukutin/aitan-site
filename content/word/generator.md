@@ -97,7 +97,7 @@ TOEICでは、設備や機械の説明、オフィスや工場の案内などで
 ## 🤔  producer との違いは？
 
 - **generator**：機械や装置として「発電機」や「何かを生み出すもの」を指すことが多い
-- **[producer](/producer)**：人や組織が「生産者」「製作者」として何かを作り出す場合に使う
+- **[producer](/word/producer)**：人や組織が「生産者」「製作者」として何かを作り出す場合に使う
 
 generatorは主に機械や装置に使われ、producerは人や組織に使われる点が大きな違いです。
 
@@ -105,14 +105,14 @@ generatorは主に機械や装置に使われ、producerは人や組織に使わ
 
 ## 🧩 あわせて覚えたい
 
-- [transformer](/transformer)：変圧器
-- [engine](/engine)：エンジン、原動機
+- [transformer](/word/transformer)：変圧器
+- [engine](/word/engine)：エンジン、原動機
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/device)：装置、機器
-- [battery](/battery)：電池、バッテリー
+- [device](/word/device)：装置、機器
+- [battery](/word/battery)：電池、バッテリー
 
 <!-- cvid: aid17_bid04 -->

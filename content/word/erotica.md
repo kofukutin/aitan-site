@@ -97,7 +97,7 @@ TOEICでは文学や出版、文化に関する長文でまれに登場します
 ## 🤔  pornography との違いは？
 
 - **erotica**：芸術性や文学性を重視した性愛表現や作品
-- **[pornography](/pornography)**：露骨で商業的な性的表現や作品
+- **[pornography](/word/pornography)**：露骨で商業的な性的表現や作品
 
 eroticaは芸術や文学の文脈で使われ、pornographyはより直接的・刺激的な性的表現を指します。
 
@@ -105,14 +105,14 @@ eroticaは芸術や文学の文脈で使われ、pornographyはより直接的�
 
 ## 🧩 あわせて覚えたい
 
-- [romance](/romance)：恋愛小説、ロマンス
-- [sensuality](/sensuality)：官能性、感覚的な魅力
+- [romance](/word/romance)：恋愛小説、ロマンス
+- [sensuality](/word/sensuality)：官能性、感覚的な魅力
 
 ---
 
 ## 📖 できればこれも
 
-- [literature](/literature)：文学
-- [novel](/novel)：小説
+- [literature](/word/literature)：文学
+- [novel](/word/novel)：小説
 
 <!-- cvid: aid48_bid40 -->

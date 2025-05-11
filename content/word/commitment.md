@@ -97,7 +97,7 @@ TOEICではPart 7のビジネス文書やメールで「約束」「責任」「
 ## 🤔  promise との違いは？
 
 - **commitment**：強い責任感や長期的な約束、献身を表す
-- **[promise](/promise)**：単純な約束や言葉での誓いを表す
+- **[promise](/word/promise)**：単純な約束や言葉での誓いを表す
 
 commitmentは「責任を持ってやり抜く姿勢」や「長期的な取り組み」に重点があり、promiseは「約束する」という行為自体や言葉に重きがあります。
 
@@ -105,14 +105,14 @@ commitmentは「責任を持ってやり抜く姿勢」や「長期的な取り�
 
 ## 🧩 あわせて覚えたい
 
-- [obligation](/obligation)：義務、責務
-- [dedication](/dedication)：献身、専念
+- [obligation](/word/obligation)：義務、責務
+- [dedication](/word/dedication)：献身、専念
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/agreement)：合意、契約
-- [responsibility](/responsibility)：責任
+- [agreement](/word/agreement)：合意、契約
+- [responsibility](/word/responsibility)：責任
 
 <!-- cvid: aid36_bid04 -->

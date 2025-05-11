@@ -97,7 +97,7 @@ TOEICではビジネスシーンや市場分析、イベント案内などの長
 ## 🤔  contest との違いは？
 
 - **competition**：広く「競争」や「競技会」を指し、ビジネスやスポーツなど多様な場面で使われる。
-- **[contest](/contest)**：特定のテーマや分野で勝者を決める「コンテスト」「コンクール」の意味が強い。
+- **[contest](/word/contest)**：特定のテーマや分野で勝者を決める「コンテスト」「コンクール」の意味が強い。
 
 competitionは一般的な競争全体や大会を指し、contestは特定の勝負や審査があるイベントに使われることが多いです。
 
@@ -105,14 +105,14 @@ competitionは一般的な競争全体や大会を指し、contestは特定の�
 
 ## 🧩 あわせて覚えたい
 
-- [rivalry](/rivalry)：ライバル関係、競争意識
-- [cooperation](/cooperation)：協力、協調
+- [rivalry](/word/rivalry)：ライバル関係、競争意識
+- [cooperation](/word/cooperation)：協力、協調
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/candidate)：候補者
-- [performance](/performance)：業績、パフォーマンス
+- [candidate](/word/candidate)：候補者
+- [performance](/word/performance)：業績、パフォーマンス
 
 <!-- cvid: aid04_bid42 -->

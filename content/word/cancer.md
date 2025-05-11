@@ -96,7 +96,7 @@ The company is developing a new drug to treat cancer.
 ## 🤔  tumor との違いは？
 
 - **cancer**：悪性のがん全般を指し、転移や命に関わる深刻な病気を意味します。
-- **[tumor](/tumor)**：腫瘍全般（良性・悪性どちらも）を指し、必ずしもがんとは限りません。
+- **[tumor](/word/tumor)**：腫瘍全般（良性・悪性どちらも）を指し、必ずしもがんとは限りません。
 
 cancerは「悪性腫瘍＝がん」に限定されますが、tumorは「腫瘍」全体を指し、良性の場合も含みます。
 
@@ -104,14 +104,14 @@ cancerは「悪性腫瘍＝がん」に限定されますが、tumorは「腫瘍
 
 ## 🧩 あわせて覚えたい
 
-- [disease](/disease)：病気
-- [chemotherapy](/chemotherapy)：化学療法（がん治療の一種）
+- [disease](/word/disease)：病気
+- [chemotherapy](/word/chemotherapy)：化学療法（がん治療の一種）
 
 ---
 
 ## 📖 できればこれも
 
-- [virus](/virus)：ウイルス
-- [infection](/infection)：感染
+- [virus](/word/virus)：ウイルス
+- [infection](/word/infection)：感染
 
 <!-- cvid: aid47_bid31 -->

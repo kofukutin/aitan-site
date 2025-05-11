@@ -97,7 +97,7 @@ TOEICでは主にビジネスシーンやフォーマルな問い合わせの場
 ## 🤔  ask との違いは？
 
 - **inquire**：フォーマルに情報や詳細を尋ねるときに使う
-- **[ask](/ask)**：カジュアルからフォーマルまで幅広く使え、単純な「質問する」にも使える
+- **[ask](/word/ask)**：カジュアルからフォーマルまで幅広く使え、単純な「質問する」にも使える
 
 inquireはビジネスや公式な場面で使われることが多く、askは日常的な質問全般に使えます。
 
@@ -105,14 +105,14 @@ inquireはビジネスや公式な場面で使われることが多く、askは�
 
 ## 🧩 あわせて覚えたい
 
-- [investigate](/investigate)：調査する
-- [request](/request)：依頼する、要請する
+- [investigate](/word/investigate)：調査する
+- [request](/word/request)：依頼する、要請する
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/confirm)：確認する
-- [inform](/inform)：知らせる
+- [confirm](/word/confirm)：確認する
+- [inform](/word/inform)：知らせる
 
 <!-- cvid: aid14_bid44 -->

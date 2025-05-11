@@ -104,7 +104,7 @@ TOEICでは科学やビジネスの説明文で「吸収」や「没頭」の意
 ## 🤔  assimilation との違いは？
 
 - **absorption**：物質や情報などを「吸収する」「取り込む」こと、または何かに夢中になること。
-- **[assimilation](/assimilation)**：新しいものを自分のものとして「同化」すること、特に文化や知識の習得に使う。
+- **[assimilation](/word/assimilation)**：新しいものを自分のものとして「同化」すること、特に文化や知識の習得に使う。
 
 absorptionは物理的・精神的な「吸収」に重点があり、assimilationは「自分の一部として取り込む」ニュアンスが強いです。
 
@@ -112,14 +112,14 @@ absorptionは物理的・精神的な「吸収」に重点があり、assimilati
 
 ## 🧩 あわせて覚えたい
 
-- [adsorption](/adsorption)：吸着（表面に付着すること）
-- [integration](/integration)：統合、一体化
+- [adsorption](/word/adsorption)：吸着（表面に付着すること）
+- [integration](/word/integration)：統合、一体化
 
 ---
 
 ## 📖 できればこれも
 
-- [concentration](/concentration)：集中、濃度
-- [diffusion](/diffusion)：拡散、普及
+- [concentration](/word/concentration)：集中、濃度
+- [diffusion](/word/diffusion)：拡散、普及
 
 <!-- cvid: aid22_bid49 -->

@@ -97,7 +97,7 @@ TOEICでは「reward」は報酬やインセンティブに関する文脈でよ
 ## 🤔  award との違いは？
 
 - **reward**：努力や善行に対する報酬やご褒美。日常的な場面でも使われる。
-- **[award](/award)**：公式な賞や表彰。コンテストや式典などフォーマルな場面で使われる。
+- **[award](/word/award)**：公式な賞や表彰。コンテストや式典などフォーマルな場面で使われる。
 
 rewardは日常的な「ご褒美」や「報酬」に幅広く使われ、awardは公式な「賞」や「表彰」に限定される傾向があります。
 
@@ -105,14 +105,14 @@ rewardは日常的な「ご褒美」や「報酬」に幅広く使われ、award
 
 ## 🧩 あわせて覚えたい
 
-- [punishment](/punishment)：罰、処罰
-- [bonus](/bonus)：ボーナス、特別手当
+- [punishment](/word/punishment)：罰、処罰
+- [bonus](/word/bonus)：ボーナス、特別手当
 
 ---
 
 ## 📖 できればこれも
 
-- [benefit](/benefit)：利益、恩恵
-- [recognition](/recognition)：認識、表彰
+- [benefit](/word/benefit)：利益、恩恵
+- [recognition](/word/recognition)：認識、表彰
 
 <!-- cvid: aid22_bid15 -->

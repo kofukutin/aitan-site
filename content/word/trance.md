@@ -96,7 +96,7 @@ TOEICでは医療や心理学、または芸術に関する長文で登場する
 ## 🤔  hypnosis との違いは？
 
 - **trance**：自然に起こる恍惚状態や意識がぼんやりした状態
-- **[hypnosis](/hypnosis)**：催眠術によって意図的に作り出される催眠状態
+- **[hypnosis](/word/hypnosis)**：催眠術によって意図的に作り出される催眠状態
 
 tranceは音楽や集中などで自然に入る状態、hypnosisは誰かが催眠術をかけて意図的に作る状態という違いがあります。
 
@@ -104,14 +104,14 @@ tranceは音楽や集中などで自然に入る状態、hypnosisは誰かが催
 
 ## 🧩 あわせて覚えたい
 
-- [coma](/coma)：昏睡状態
-- [meditation](/meditation)：瞑想
+- [coma](/word/coma)：昏睡状態
+- [meditation](/word/meditation)：瞑想
 
 ---
 
 ## 📖 できればこれも
 
-- [illusion](/illusion)：錯覚
-- [consciousness](/consciousness)：意識
+- [illusion](/word/illusion)：錯覚
+- [consciousness](/word/consciousness)：意識
 
 <!-- cvid: aid19_bid40 -->

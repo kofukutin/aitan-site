@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「持ってくる」「連れてくる」とい
 ## 🤔  taking との違いは？
 
 - **bringing**：話し手や目的地「へ」持ってくる・連れてくる
-- **[taking](/taking)**：話し手や場所「から」持っていく・連れていく
+- **[taking](/word/taking)**：話し手や場所「から」持っていく・連れていく
 
 「bring」は「こちらに持ってくる」、「take」は「向こうへ持っていく」という方向の違いがあります。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「持ってくる」「連れてくる」とい
 
 ## 🧩 あわせて覚えたい
 
-- [deliver](/deliver)：配達する、届ける
-- [fetch](/fetch)：取ってくる、迎えに行く
+- [deliver](/word/deliver)：配達する、届ける
+- [fetch](/word/fetch)：取ってくる、迎えに行く
 
 ---
 
 ## 📖 できればこれも
 
-- [send](/send)：送る
-- [carry](/carry)：運ぶ
+- [send](/word/send)：送る
+- [carry](/word/carry)：運ぶ
 
 <!-- cvid: aid34_bid23 -->

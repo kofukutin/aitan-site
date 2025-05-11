@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、乗り物や交通手段を表
 ## 🤔  scooter との違いは？
 
 - **motorcycle**：エンジン付きの二輪車全般を指し、スピードやパワーがあるものも含む。
-- **[scooter](/scooter)**：小型で足元が平らなタイプの二輪車を指し、主に短距離や街乗り向き。
+- **[scooter](/word/scooter)**：小型で足元が平らなタイプの二輪車を指し、主に短距離や街乗り向き。
 
 motorcycleは大型・高速走行も可能な二輪車全般、scooterは小型・軽量で扱いやすい二輪車を指します。
 
@@ -105,14 +105,14 @@ motorcycleは大型・高速走行も可能な二輪車全般、scooterは小型
 
 ## 🧩 あわせて覚えたい
 
-- [bicycle](/bicycle)：自転車
-- [vehicle](/vehicle)：乗り物、車両
+- [bicycle](/word/bicycle)：自転車
+- [vehicle](/word/vehicle)：乗り物、車両
 
 ---
 
 ## 📖 できればこれも
 
-- [helmet](/helmet)：ヘルメット
-- [driver](/driver)：運転者
+- [helmet](/word/helmet)：ヘルメット
+- [driver](/word/driver)：運転者
 
 <!-- cvid: aid48_bid02 -->

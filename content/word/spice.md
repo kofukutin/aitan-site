@@ -97,7 +97,7 @@ TOEICではレストランや食品、観光関連の記事や広告文で登場
 ## 🤔  herb との違いは？
 
 - **spice**：主に種子や樹皮、根などから作られる香辛料
-- **[herb](/herb)**：主に葉や茎などの植物部分を使うハーブ
+- **[herb](/word/herb)**：主に葉や茎などの植物部分を使うハーブ
 
 spiceは辛味や香りを強く加える香辛料、herbは香りづけや彩りに使う植物で、使う部位や風味が異なります。
 
@@ -105,14 +105,14 @@ spiceは辛味や香りを強く加える香辛料、herbは香りづけや彩�
 
 ## 🧩 あわせて覚えたい
 
-- [seasoning](/seasoning)：調味料
-- [flavor](/flavor)：風味、味
+- [seasoning](/word/seasoning)：調味料
+- [flavor](/word/flavor)：風味、味
 
 ---
 
 ## 📖 できればこれも
 
-- [taste](/taste)：味、味覚
-- [ingredient](/ingredient)：材料、成分
+- [taste](/word/taste)：味、味覚
+- [ingredient](/word/ingredient)：材料、成分
 
 <!-- cvid: aid41_bid48 -->

@@ -97,7 +97,7 @@ TOEICでは「self-confidence」や「self-management」など複合語で出題
 ## 🤔  myself との違いは？
 
 - **self**：一般的に「自己」「自分自身」という意味で、抽象的・概念的に使う。
-- **[myself](/myself)**：「私自身」という意味で、主語や目的語として具体的に使う。
+- **[myself](/word/myself)**：「私自身」という意味で、主語や目的語として具体的に使う。
 
 selfは「自己認識」や「自己管理」など抽象的な場面で使い、myselfは「私自身が～する」など具体的な行動に使います。
 
@@ -105,14 +105,14 @@ selfは「自己認識」や「自己管理」など抽象的な場面で使い�
 
 ## 🧩 あわせて覚えたい
 
-- [identity](/identity)：アイデンティティ、自己同一性
-- [ego](/ego)：自我、エゴ
+- [identity](/word/identity)：アイデンティティ、自己同一性
+- [ego](/word/ego)：自我、エゴ
 
 ---
 
 ## 📖 できればこれも
 
-- [personality](/personality)：性格、個性
-- [individual](/individual)：個人、個体
+- [personality](/word/personality)：性格、個性
+- [individual](/word/individual)：個人、個体
 
 <!-- cvid: aid17_bid47 -->

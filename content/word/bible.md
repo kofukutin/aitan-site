@@ -97,7 +97,7 @@ TOEICでは宗教的な文脈よりも、「分野の必携書」や「権威あ
 ## 🤔  scripture との違いは？
 
 - **bible**：キリスト教の聖書、または分野で最も権威ある本を指す
-- **[scripture](/scripture)**：宗教的な聖典全般（特に聖書以外も含む）
+- **[scripture](/word/scripture)**：宗教的な聖典全般（特に聖書以外も含む）
 
 bibleはキリスト教の聖書や比喩的な「バイブル」に使われ、scriptureはより広く宗教的な聖典全般を指します。
 
@@ -105,14 +105,14 @@ bibleはキリスト教の聖書や比喩的な「バイブル」に使われ、
 
 ## 🧩 あわせて覚えたい
 
-- [manual](/manual)：手引き書、マニュアル
-- [textbook](/textbook)：教科書
+- [manual](/word/manual)：手引き書、マニュアル
+- [textbook](/word/textbook)：教科書
 
 ---
 
 ## 📖 できればこれも
 
-- [guide](/guide)：案内書、ガイド
-- [reference](/reference)：参考書、参照
+- [guide](/word/guide)：案内書、ガイド
+- [reference](/word/reference)：参考書、参照
 
 <!-- cvid: aid11_bid48 -->

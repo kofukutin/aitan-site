@@ -97,7 +97,7 @@ TOEICでは健康や医療、食事に関する長文や広告、案内文でよ
 ## 🤔  diet との違いは？
 
 - **nutrition**：体が必要とする栄養やその摂取・状態を指す
-- **[diet](/diet)**：食事内容や食習慣、または特定の食事制限を指す
+- **[diet](/word/diet)**：食事内容や食習慣、または特定の食事制限を指す
 
 nutritionは「栄養そのもの」や「栄養状態」に焦点があり、dietは「何を食べるか」「食事の種類」に重点があります。
 
@@ -105,14 +105,14 @@ nutritionは「栄養そのもの」や「栄養状態」に焦点があり、di
 
 ## 🧩 あわせて覚えたい
 
-- [malnutrition](/malnutrition)：栄養失調
-- [vitamin](/vitamin)：ビタミン
+- [malnutrition](/word/malnutrition)：栄養失調
+- [vitamin](/word/vitamin)：ビタミン
 
 ---
 
 ## 📖 できればこれも
 
-- [protein](/protein)：たんぱく質
-- [calorie](/calorie)：カロリー
+- [protein](/word/protein)：たんぱく質
+- [calorie](/word/calorie)：カロリー
 
 <!-- cvid: aid08_bid10 -->

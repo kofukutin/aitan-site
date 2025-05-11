@@ -97,7 +97,7 @@ The republican candidate gave a speech at the conference.
 ## 🤔  democrat との違いは？
 
 - **republican**：アメリカの共和党員、または共和制支持者
-- **[democrat](/democrat)**：アメリカの民主党員、または民主主義支持者
+- **[democrat](/word/democrat)**：アメリカの民主党員、または民主主義支持者
 
 republicanは保守的な立場や政策を支持する人、democratはリベラルな立場や政策を支持する人を指します。
 
@@ -105,14 +105,14 @@ republicanは保守的な立場や政策を支持する人、democratはリベ�
 
 ## 🧩 あわせて覚えたい
 
-- [conservative](/conservative)：保守的な人、保守主義者
-- [liberal](/liberal)：自由主義者、リベラルな人
+- [conservative](/word/conservative)：保守的な人、保守主義者
+- [liberal](/word/liberal)：自由主義者、リベラルな人
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/candidate)：候補者
-- [election](/election)：選挙
+- [candidate](/word/candidate)：候補者
+- [election](/word/election)：選挙
 
 <!-- cvid: aid08_bid20 -->

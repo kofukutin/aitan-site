@@ -97,7 +97,7 @@ TOEICでは、長文読解やビジネス文書の中で、重要なポイント
 ## 🤔  importantly との違いは？
 
 - **importantly**：重要なことに、特に（話の中で大切な点を強調する副詞）
-- **[importantly](/importantly)**：重要なことに、特に（同じ単語）
+- **[importantly](/word/importantly)**：重要なことに、特に（同じ単語）
 
 「importantly」は同じ単語ですが、しばしば「more importantly」や「most importantly」といった形で使われ、話の流れで特に強調したい内容を導入します。
 
@@ -105,14 +105,14 @@ TOEICでは、長文読解やビジネス文書の中で、重要なポイント
 
 ## 🧩 あわせて覚えたい
 
-- [significantly](/significantly)：著しく、かなり
-- [essentially](/essentially)：本質的に、基本的に
+- [significantly](/word/significantly)：著しく、かなり
+- [essentially](/word/essentially)：本質的に、基本的に
 
 ---
 
 ## 📖 できればこれも
 
-- [significantly](/significantly)：著しく、かなり
-- [especially](/especially)：特に、とりわけ
+- [significantly](/word/significantly)：著しく、かなり
+- [especially](/word/especially)：特に、とりわけ
 
 <!-- cvid: aid46_bid43 -->

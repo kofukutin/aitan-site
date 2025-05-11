@@ -97,7 +97,7 @@ TOEICでは最上級表現の文法問題や、成果・業績を強調する文
 ## 🤔  best との違いは？
 
 - **greatest**：偉大さや規模・影響力が最も大きいことを強調
-- **[best](/best)**：質や能力が最も優れていることを強調
+- **[best](/word/best)**：質や能力が最も優れていることを強調
 
 greatestは「偉大さ」や「規模の大きさ」に重点があり、bestは「質の良さ」や「能力の高さ」に重点があります。
 
@@ -105,14 +105,14 @@ greatestは「偉大さ」や「規模の大きさ」に重点があり、best�
 
 ## 🧩 あわせて覚えたい
 
-- [major](/major)：主要な、重要な
-- [minor](/minor)：小さい、重要でない
+- [major](/word/major)：主要な、重要な
+- [minor](/word/minor)：小さい、重要でない
 
 ---
 
 ## 📖 できればこれも
 
-- [bigger](/bigger)：より大きい
-- [strongest](/strongest)：最も強い
+- [bigger](/word/bigger)：より大きい
+- [strongest](/word/strongest)：最も強い
 
 <!-- cvid: aid00_bid26 -->

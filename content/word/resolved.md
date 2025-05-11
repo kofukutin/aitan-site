@@ -97,7 +97,7 @@ TOEICでは「問題が解決された」「決意している」といった意
 ## 🤔  determined との違いは？
 
 - **resolved**：強い決意がある、または問題が解決された状態を表す
-- **[determined](/determined)**：困難に負けずにやり抜く強い意志を表す
+- **[determined](/word/determined)**：困難に負けずにやり抜く強い意志を表す
 
 「resolved」は決意や問題解決の結果に焦点があり、「determined」は行動を貫く強い意志に重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは「問題が解決された」「決意している」といった意
 
 ## 🧩 あわせて覚えたい
 
-- [settled](/settled)：解決した、落ち着いた
-- [undecided](/undecided)：決まっていない、未決定の
+- [settled](/word/settled)：解決した、落ち着いた
+- [undecided](/word/undecided)：決まっていない、未決定の
 
 ---
 
 ## 📖 できればこれも
 
-- [pending](/pending)：未解決の、保留中の
-- [confirmed](/confirmed)：確認された、確定した
+- [pending](/word/pending)：未解決の、保留中の
+- [confirmed](/word/confirmed)：確認された、確定した
 
 <!-- cvid: aid35_bid41 -->

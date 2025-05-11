@@ -97,7 +97,7 @@ TOEICでは、企業や人物の実績・資格・地位などを説明する文
 ## 🤔  admitted との違いは？
 
 - **recognized**：公式に認められた、広く評価された
-- **[admitted](/admitted)**：受け入れられた、入場・入学などが許可された
+- **[admitted](/word/admitted)**：受け入れられた、入場・入学などが許可された
 
 「recognized」は社会的・公式な評価や認定を強調し、「admitted」は組織や場所への受け入れ・許可を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、企業や人物の実績・資格・地位などを説明する文
 
 ## 🧩 あわせて覚えたい
 
-- [approved](/approved)：承認された
-- [acknowledged](/acknowledged)：認められた、認識された
+- [approved](/word/approved)：承認された
+- [acknowledged](/word/acknowledged)：認められた、認識された
 
 ---
 
 ## 📖 できればこれも
 
-- [qualified](/qualified)：資格のある
-- [certified](/certified)：認定された
+- [qualified](/word/qualified)：資格のある
+- [certified](/word/certified)：認定された
 
 <!-- cvid: aid30_bid15 -->

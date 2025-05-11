@@ -97,7 +97,7 @@ TOEICでは、ビジネスの成果や変化を強調する文脈で形容詞と
 ## 🤔  outstanding との違いは？
 
 - **remarkable**：他と比べて目立つ、注目すべき（驚きや感心を含む）
-- **[outstanding](/outstanding)**：群を抜いて優れている、傑出した（評価や実績が特に高い）
+- **[outstanding](/word/outstanding)**：群を抜いて優れている、傑出した（評価や実績が特に高い）
 
 「remarkable」は「思わず注目してしまうほど目立つ」ニュアンスで、「outstanding」は「他を圧倒するほど優れている」点が強調されます。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネスの成果や変化を強調する文脈で形容詞と
 
 ## 🧩 あわせて覚えたい
 
-- [ordinary](/ordinary)：普通の、平凡な
-- [notable](/notable)：注目に値する、顕著な
+- [ordinary](/word/ordinary)：普通の、平凡な
+- [notable](/word/notable)：注目に値する、顕著な
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/significant)：重要な、意味のある
-- [impressive](/impressive)：印象的な、感動的な
+- [significant](/word/significant)：重要な、意味のある
+- [impressive](/word/impressive)：印象的な、感動的な
 
 <!-- cvid: aid30_bid20 -->

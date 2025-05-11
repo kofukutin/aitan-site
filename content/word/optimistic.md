@@ -97,7 +97,7 @@ TOEICでは、ビジネスシーンでの前向きな姿勢や見通しを表す
 ## 🤔  positive との違いは？
 
 - **optimistic**：物事がうまくいくと信じて前向きに考える「楽観的な」
-- **[positive](/positive)**：積極的・肯定的・前向きなど幅広い意味で使われる
+- **[positive](/word/positive)**：積極的・肯定的・前向きなど幅広い意味で使われる
 
 optimisticは「未来が良くなる」と信じる気持ちに焦点があり、positiveは「積極的・肯定的な態度」全般を指します。
 
@@ -105,14 +105,14 @@ optimisticは「未来が良くなる」と信じる気持ちに焦点があり�
 
 ## 🧩 あわせて覚えたい
 
-- [pessimistic](/pessimistic)：悲観的な
-- [hopeful](/hopeful)：希望に満ちた
+- [pessimistic](/word/pessimistic)：悲観的な
+- [hopeful](/word/hopeful)：希望に満ちた
 
 ---
 
 ## 📖 できればこれも
 
-- [confident](/confident)：自信がある
-- [realistic](/realistic)：現実的な
+- [confident](/word/confident)：自信がある
+- [realistic](/word/realistic)：現実的な
 
 <!-- cvid: aid29_bid24 -->

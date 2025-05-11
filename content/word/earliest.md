@@ -97,7 +97,7 @@ TOEICでは「at your earliest convenience」などの定型表現や、予定�
 ## 🤔  soon との違いは？
 
 - **earliest**：最も早い時期やタイミングを強調し、フォーマルな依頼や案内で使う。
-- **[soon](/soon)**：近い将来や「まもなく」を表し、カジュアルな場面でも使える。
+- **[soon](/word/soon)**：近い将来や「まもなく」を表し、カジュアルな場面でも使える。
 
 「earliest」は「できるだけ早く」という最上級のニュアンスで、特にビジネスや丁寧な依頼で使われます。「soon」は単に「すぐに」「まもなく」で、より幅広い場面で使えます。
 
@@ -105,14 +105,14 @@ TOEICでは「at your earliest convenience」などの定型表現や、予定�
 
 ## 🧩 あわせて覚えたい
 
-- [latest](/latest)：最も遅い、最新の
-- [immediate](/immediate)：即時の、直ちに
+- [latest](/word/latest)：最も遅い、最新の
+- [immediate](/word/immediate)：即時の、直ちに
 
 ---
 
 ## 📖 できればこれも
 
-- [early](/early)：早い、早く
-- [prompt](/prompt)：迅速な、即座の
+- [early](/word/early)：早い、早く
+- [prompt](/word/prompt)：迅速な、即座の
 
 <!-- cvid: aid39_bid02 -->

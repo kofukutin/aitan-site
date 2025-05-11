@@ -97,7 +97,7 @@ IT関連や製品説明、ウェブサービスの案内文などで「chrome」
 ## 🤔  browser との違いは？
 
 - **chrome**：金属のクロムやクロムめっき、またはGoogleのウェブブラウザ名
-- **[browser](/browser)**：ウェブページを閲覧するためのソフト全般
+- **[browser](/word/browser)**：ウェブページを閲覧するためのソフト全般
 
 chromeは物質名や特定の製品名、browserは一般的なソフトの種類を指します。
 
@@ -105,14 +105,14 @@ chromeは物質名や特定の製品名、browserは一般的なソフトの種�
 
 ## 🧩 あわせて覚えたい
 
-- [metal](/metal)：金属
-- [coating](/coating)：コーティング、表面加工
+- [metal](/word/metal)：金属
+- [coating](/word/coating)：コーティング、表面加工
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/update)：更新する
-- [install](/install)：インストールする
+- [update](/word/update)：更新する
+- [install](/word/install)：インストールする
 
 <!-- cvid: aid45_bid12 -->

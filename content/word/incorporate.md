@@ -97,7 +97,7 @@ TOEICでは主にビジネス文脈で「組み入れる」「法人化する」
 ## 🤔  integrate との違いは？
 
 - **incorporate**：何かを全体の一部として正式に組み入れる、または法人化する意味が強い
-- **[integrate](/integrate)**：複数のものを一体化・統合して全体を作るニュアンス
+- **[integrate](/word/integrate)**：複数のものを一体化・統合して全体を作るニュアンス
 
 incorporateは「要素を組み入れる」ことに重点があり、integrateは「異なるものを一つにまとめて調和させる」ニュアンスがあります。
 
@@ -105,14 +105,14 @@ incorporateは「要素を組み入れる」ことに重点があり、integrate
 
 ## 🧩 あわせて覚えたい
 
-- [merge](/merge)：合併する、統合する
-- [exclude](/exclude)：除外する
+- [merge](/word/merge)：合併する、統合する
+- [exclude](/word/exclude)：除外する
 
 ---
 
 ## 📖 できればこれも
 
-- [establish](/establish)：設立する、確立する
-- [implement](/implement)：実行する、導入する
+- [establish](/word/establish)：設立する、確立する
+- [implement](/word/implement)：実行する、導入する
 
 <!-- cvid: aid34_bid21 -->

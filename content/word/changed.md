@@ -98,7 +98,7 @@ TOEICでは、過去分詞の形容詞的用法や、書類・予定などが「
 ## 🤔  modified との違いは？
 
 - **changed**：単に「変わった」「変更された」という広い意味で使われる。
-- **[modified](/modified)**：部分的・限定的に「修正された」「手を加えられた」というニュアンスが強い。
+- **[modified](/word/modified)**：部分的・限定的に「修正された」「手を加えられた」というニュアンスが強い。
 
 changedは全体的な変化や単なる変更を指し、modifiedは一部を意図的に修正・調整した場合に使われます。
 
@@ -106,14 +106,14 @@ changedは全体的な変化や単なる変更を指し、modifiedは一部を�
 
 ## 🧩 あわせて覚えたい
 
-- [altered](/altered)：変更された、改変された
-- [updated](/updated)：更新された、新しくなった
+- [altered](/word/altered)：変更された、改変された
+- [updated](/word/updated)：更新された、新しくなった
 
 ---
 
 ## 📖 できればこれも
 
-- [revised](/revised)：修正された、改訂された
-- [adjusted](/adjusted)：調整された、適応された
+- [revised](/word/revised)：修正された、改訂された
+- [adjusted](/word/adjusted)：調整された、適応された
 
 <!-- cvid: aid36_bid22 -->

@@ -97,7 +97,7 @@ TOEICでは、motivationやpassionなどと並んで「やる気」「積極性�
 ## 🤔  passion との違いは？
 
 - **enthusiasm**：前向きな熱意や積極性、やる気を表す。やや客観的でビジネスでも使いやすい。
-- **[passion](/passion)**：強い感情や情熱、時に激しさも含む。個人的・感情的なニュアンスが強い。
+- **[passion](/word/passion)**：強い感情や情熱、時に激しさも含む。個人的・感情的なニュアンスが強い。
 
 enthusiasmは「前向きなやる気」や「積極性」を表し、passionは「心から湧き上がる強い情熱」を指します。ビジネスではenthusiasmの方が無難です。
 
@@ -105,14 +105,14 @@ enthusiasmは「前向きなやる気」や「積極性」を表し、passionは
 
 ## 🧩 あわせて覚えたい
 
-- [eagerness](/eagerness)：熱心さ、やる気
-- [apathy](/apathy)：無関心、無感動
+- [eagerness](/word/eagerness)：熱心さ、やる気
+- [apathy](/word/apathy)：無関心、無感動
 
 ---
 
 ## 📖 できればこれも
 
-- [motivation](/motivation)：動機、やる気
-- [interest](/interest)：興味、関心
+- [motivation](/word/motivation)：動機、やる気
+- [interest](/word/interest)：興味、関心
 
 <!-- cvid: aid21_bid38 -->

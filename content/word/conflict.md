@@ -97,7 +97,7 @@ TOEICでは、ビジネスメールや社内通知、記事などで「意見の
 ## 🤔  dispute との違いは？
 
 - **conflict**：意見や利害などの根本的な対立や衝突を幅広く指す
-- **[dispute](/dispute)**：主に言い争いや論争など、議論による対立を指す
+- **[dispute](/word/dispute)**：主に言い争いや論争など、議論による対立を指す
 
 conflictは感情や価値観のぶつかり合いなど広い意味で使われ、disputeは具体的な議論や口論などに限定される傾向があります。
 
@@ -105,14 +105,14 @@ conflictは感情や価値観のぶつかり合いなど広い意味で使われ
 
 ## 🧩 あわせて覚えたい
 
-- [agreement](/agreement)：合意、同意
-- [controversy](/controversy)：論争、議論
+- [agreement](/word/agreement)：合意、同意
+- [controversy](/word/controversy)：論争、議論
 
 ---
 
 ## 📖 できればこれも
 
-- [issue](/issue)：問題、課題
-- [debate](/debate)：討論、議論
+- [issue](/word/issue)：問題、課題
+- [debate](/word/debate)：討論、議論
 
 <!-- cvid: aid06_bid35 -->

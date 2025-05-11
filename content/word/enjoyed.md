@@ -98,7 +98,7 @@ TOEICでは会話やメール文で「楽しんだ」「満足した」という
 ## 🤔  liked との違いは？
 
 - **enjoyed**：積極的に「楽しんだ」「満喫した」という意味
-- **[liked](/liked)**：単に「好きだった」「好意を持った」という意味
+- **[liked](/word/liked)**：単に「好きだった」「好意を持った」という意味
 
 enjoyedは体験や出来事を積極的に楽しんだニュアンスがあり、likedは好みや好意を表すときに使います。
 
@@ -106,14 +106,14 @@ enjoyedは体験や出来事を積極的に楽しんだニュアンスがあり�
 
 ## 🧩 あわせて覚えたい
 
-- [appreciate](/appreciate)：感謝する、価値を認める
-- [prefer](/prefer)：より好む
+- [appreciate](/word/appreciate)：感謝する、価値を認める
+- [prefer](/word/prefer)：より好む
 
 ---
 
 ## 📖 できればこれも
 
-- [attended](/attended)：出席した
-- [participated](/participated)：参加した
+- [attended](/word/attended)：出席した
+- [participated](/word/participated)：参加した
 
 <!-- cvid: aid17_bid21 -->

@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「catch」の過去形としてよく登場し�
 ## 🤔  captured との違いは？
 
 - **caught**：日常的に「つかまえる」「間に合う」など幅広く使う
-- **[captured](/captured)**：特に「捕獲する」「記録する」などフォーマル・限定的な場面で使う
+- **[captured](/word/captured)**：特に「捕獲する」「記録する」などフォーマル・限定的な場面で使う
 
 「caught」は日常会話で幅広く使われ、「captured」はよりフォーマルで、特に写真やデータ、敵などを「捕らえる」場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「catch」の過去形としてよく登場し�
 
 ## 🧩 あわせて覚えたい
 
-- [miss](/miss)：逃す、失敗する
-- [grab](/grab)：素早くつかむ
+- [miss](/word/miss)：逃す、失敗する
+- [grab](/word/grab)：素早くつかむ
 
 ---
 
 ## 📖 できればこれも
 
-- [held](/held)：holdの過去形・持っていた
-- [found](/found)：findの過去形・見つけた
+- [held](/word/held)：holdの過去形・持っていた
+- [found](/word/found)：findの過去形・見つけた
 
 <!-- cvid: aid47_bid44 -->

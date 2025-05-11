@@ -96,7 +96,7 @@ Please provide the longitude and latitude of the new office location.
 ## 🤔  latitude との違いは？
 
 - **longitude**：地球上の東西の位置（経度）を示す
-- **[latitude](/latitude)**：地球上の南北の位置（緯度）を示す
+- **[latitude](/word/latitude)**：地球上の南北の位置（緯度）を示す
 
 longitudeは「東西」、latitudeは「南北」の位置を表します。地図やGPSでセットで使われることが多いですが、方向が異なります。
 
@@ -104,14 +104,14 @@ longitudeは「東西」、latitudeは「南北」の位置を表します。地
 
 ## 🧩 あわせて覚えたい
 
-- [altitude](/altitude)：高度、標高
-- [coordinate](/coordinate)：座標
+- [altitude](/word/altitude)：高度、標高
+- [coordinate](/word/coordinate)：座標
 
 ---
 
 ## 📖 できればこれも
 
-- [equator](/equator)：赤道
-- [hemisphere](/hemisphere)：半球
+- [equator](/word/equator)：赤道
+- [hemisphere](/word/hemisphere)：半球
 
 <!-- cvid: aid03_bid04 -->

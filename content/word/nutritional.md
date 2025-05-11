@@ -97,7 +97,7 @@ TOEICでは主に健康や食品、医療関連の記事や広告文で見かけ
 ## 🤔  nutritious との違いは？
 
 - **nutritional**：栄養に関する、栄養学的な（主に情報や側面を説明）
-- **[nutritious](/nutritious)**：栄養価が高い、栄養のある（主に食べ物自体を説明）
+- **[nutritious](/word/nutritious)**：栄養価が高い、栄養のある（主に食べ物自体を説明）
 
 nutritionalは「栄養に関する情報や側面」に使い、nutritiousは「実際に栄養が豊富な食品」に使います。
 
@@ -105,14 +105,14 @@ nutritionalは「栄養に関する情報や側面」に使い、nutritiousは�
 
 ## 🧩 あわせて覚えたい
 
-- [diet](/diet)：食事、食生活
-- [supplement](/supplement)：サプリメント、補助食品
+- [diet](/word/diet)：食事、食生活
+- [supplement](/word/supplement)：サプリメント、補助食品
 
 ---
 
 ## 📖 できればこれも
 
-- [medical](/medical)：医療の、医学の
-- [essential](/essential)：不可欠な、必須の
+- [medical](/word/medical)：医療の、医学の
+- [essential](/word/essential)：不可欠な、必須の
 
 <!-- cvid: aid45_bid20 -->

@@ -97,7 +97,7 @@ TOEICではビジネス文書やEメール、会議記録などで「consultant�
 ## 🤔  advisor との違いは？
 
 - **consultant**：専門的な知識や経験をもとに、具体的な課題解決や戦略提案を行う外部の専門家。
-- **[advisor](/advisor)**：一般的な助言や指導を行う人。必ずしも専門家や外部とは限らない。
+- **[advisor](/word/advisor)**：一般的な助言や指導を行う人。必ずしも専門家や外部とは限らない。
 
 consultantは実務的・専門的なアドバイスを提供し、advisorは幅広い分野で助言を行う点が異なります。
 
@@ -105,14 +105,14 @@ consultantは実務的・専門的なアドバイスを提供し、advisorは幅
 
 ## 🧩 あわせて覚えたい
 
-- [specialist](/specialist)：専門家
-- [client](/client)：顧客、依頼人
+- [specialist](/word/specialist)：専門家
+- [client](/word/client)：顧客、依頼人
 
 ---
 
 ## 📖 できればこれも
 
-- [consult](/consult)：相談する
-- [consultation](/consultation)：相談、協議
+- [consult](/word/consult)：相談する
+- [consultation](/word/consultation)：相談、協議
 
 <!-- cvid: aid16_bid30 -->

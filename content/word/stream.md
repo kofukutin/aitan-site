@@ -97,7 +97,7 @@ TOEICでは自然や環境、IT分野の会話で「stream」が登場するこ�
 ## 🤔  river との違いは？
 
 - **stream**：小さめの川や流れを指し、規模が小さい。
-- **[river](/river)**：大きな川を指し、流域や規模が広い。
+- **[river](/word/river)**：大きな川を指し、流域や規模が広い。
 
 streamは「小川」や「細い流れ」、riverは「大きな川」と使い分けます。
 
@@ -105,14 +105,14 @@ streamは「小川」や「細い流れ」、riverは「大きな川」と使い
 
 ## 🧩 あわせて覚えたい
 
-- [brook](/brook)：小川（streamよりさらに小さい）
-- [flow](/flow)：流れ、流れること
+- [brook](/word/brook)：小川（streamよりさらに小さい）
+- [flow](/word/flow)：流れ、流れること
 
 ---
 
 ## 📖 できればこれも
 
-- [lake](/lake)：湖
-- [mountain](/mountain)：山
+- [lake](/word/lake)：湖
+- [mountain](/word/mountain)：山
 
 <!-- cvid: aid43_bid02 -->

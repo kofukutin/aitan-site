@@ -97,7 +97,7 @@ ITやビジネス文脈で「互換性」や「両立性」を問う問題で出
 ## 🤔  consistent との違いは？
 
 - **compatible**：2つ以上のものが一緒に使える、または共存できることを強調
-- **[consistent](/consistent)**：一貫性があり、矛盾しないことを強調
+- **[consistent](/word/consistent)**：一貫性があり、矛盾しないことを強調
 
 compatibleは「物やシステム同士が問題なく一緒に使える」こと、consistentは「考えや行動がぶれずに一貫している」ことを表します。
 
@@ -105,14 +105,14 @@ compatibleは「物やシステム同士が問題なく一緒に使える」こ�
 
 ## 🧩 あわせて覚えたい
 
-- [incompatible](/incompatible)：互換性がない、両立できない
-- [suitable](/suitable)：適している、ふさわしい
+- [incompatible](/word/incompatible)：互換性がない、両立できない
+- [suitable](/word/suitable)：適している、ふさわしい
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/reliable)：信頼できる
-- [efficient](/efficient)：効率的な
+- [reliable](/word/reliable)：信頼できる
+- [efficient](/word/efficient)：効率的な
 
 <!-- cvid: aid10_bid20 -->

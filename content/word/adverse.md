@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文やビジネス文書で、状況や条件が「
 ## 🤔  negative との違いは？
 
 - **adverse**：状況や条件が「不利」「悪影響」であることを強調するフォーマルな表現
-- **[negative](/negative)**：単に「否定的」「マイナス」の意味で、幅広い場面で使われる
+- **[negative](/word/negative)**：単に「否定的」「マイナス」の意味で、幅広い場面で使われる
 
 adverseは「困難や障害をもたらす」ニュアンスが強く、negativeは「否定的」「マイナス」と広く使われます。
 
@@ -105,14 +105,14 @@ adverseは「困難や障害をもたらす」ニュアンスが強く、negativ
 
 ## 🧩 あわせて覚えたい
 
-- [beneficial](/beneficial)：有益な
-- [hostile](/hostile)：敵対的な
+- [beneficial](/word/beneficial)：有益な
+- [hostile](/word/hostile)：敵対的な
 
 ---
 
 ## 📖 できればこれも
 
-- [challenging](/challenging)：困難な、やりがいのある
-- [unfavorable](/unfavorable)：好ましくない、不利な
+- [challenging](/word/challenging)：困難な、やりがいのある
+- [unfavorable](/word/unfavorable)：好ましくない、不利な
 
 <!-- cvid: aid04_bid04 -->

@@ -97,7 +97,7 @@ TOEICでは音楽やイベント、趣味に関する会話で「bass」が登�
 ## 🤔  guitar との違いは？
 
 - **bass**：主に低音域を担当する楽器や音域を指す。
-- **[guitar](/guitar)**：主にメロディやコードを奏でる弦楽器。
+- **[guitar](/word/guitar)**：主にメロディやコードを奏でる弦楽器。
 
 bassはバンドで低音を支える役割、guitarは主旋律や伴奏を担当する点が異なります。
 
@@ -105,14 +105,14 @@ bassはバンドで低音を支える役割、guitarは主旋律や伴奏を担�
 
 ## 🧩 あわせて覚えたい
 
-- [drum](/drum)：ドラム、打楽器
-- [melody](/melody)：メロディー、旋律
+- [drum](/word/drum)：ドラム、打楽器
+- [melody](/word/melody)：メロディー、旋律
 
 ---
 
 ## 📖 できればこれも
 
-- [piano](/piano)：ピアノ
-- [music](/music)：音楽
+- [piano](/word/piano)：ピアノ
+- [music](/word/music)：音楽
 
 <!-- cvid: aid17_bid26 -->

@@ -96,7 +96,7 @@ TOEICでは、料金プランや組織構造、サービスのランク分けな
 ## 🤔  level との違いは？
 
 - **tier**：上下や順序が明確な「層」「段階」を強調
-- **[level](/level)**：一般的な「レベル」「水準」を表し、上下関係が必ずしも明確でない
+- **[level](/word/level)**：一般的な「レベル」「水準」を表し、上下関係が必ずしも明確でない
 
 「tier」は階層構造やランク分けなど、明確な段階や層を意識する場面で使われます。「level」は幅広く使えますが、上下関係や序列が強調されない場合にも使われます。
 
@@ -104,14 +104,14 @@ TOEICでは、料金プランや組織構造、サービスのランク分けな
 
 ## 🧩 あわせて覚えたい
 
-- [rank](/rank)：順位、等級
-- [category](/category)：カテゴリー、分類
+- [rank](/word/rank)：順位、等級
+- [category](/word/category)：カテゴリー、分類
 
 ---
 
 ## 📖 できればこれも
 
-- [section](/section)：区分、部門
-- [division](/division)：部門、区分
+- [section](/word/section)：区分、部門
+- [division](/word/division)：部門、区分
 
 <!-- cvid: aid36_bid26 -->

@@ -98,7 +98,7 @@ TOEICでは主に長文読解パートで「範囲」「程度」を表す語と
 ## 🤔  range との違いは？
 
 - **extent**：物事の広がりや及ぶ「範囲・程度」を抽象的に表す
-- **[range](/range)**：数値や種類など「幅・範囲」を具体的に表す
+- **[range](/word/range)**：数値や種類など「幅・範囲」を具体的に表す
 
 extentは「どこまで及ぶか」という抽象的な広がりや程度を示し、rangeは「最小から最大まで」など具体的な幅や範囲を示します。
 
@@ -106,14 +106,14 @@ extentは「どこまで及ぶか」という抽象的な広がりや程度を�
 
 ## 🧩 あわせて覚えたい
 
-- [degree](/degree)：程度、度合い
-- [scope](/scope)：範囲、領域
+- [degree](/word/degree)：程度、度合い
+- [scope](/word/scope)：範囲、領域
 
 ---
 
 ## 📖 できればこれも
 
-- [amount](/amount)：量、総額
-- [level](/level)：水準、レベル
+- [amount](/word/amount)：量、総額
+- [level](/word/level)：水準、レベル
 
 <!-- cvid: aid35_bid17 -->

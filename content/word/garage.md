@@ -98,7 +98,7 @@ TOEICでは主に写真描写問題で「車庫」や「ガレージ」として
 ## 🤔  parking lot との違いは？
 
 - **garage**：建物や屋根付きの車庫、または自動車修理工場を指す
-- **[parking lot](/parking_lot)**：屋外の駐車場を指す
+- **[parking lot](/word/parking_lot)**：屋外の駐車場を指す
 
 garageは「建物内の車庫」や「修理工場」を意味し、parking lotは「屋外の広い駐車スペース」を指します。
 
@@ -106,14 +106,14 @@ garageは「建物内の車庫」や「修理工場」を意味し、parking lot
 
 ## 🧩 あわせて覚えたい
 
-- [workshop](/workshop)：作業場、工房
-- [warehouse](/warehouse)：倉庫
+- [workshop](/word/workshop)：作業場、工房
+- [warehouse](/word/warehouse)：倉庫
 
 ---
 
 ## 📖 できればこれも
 
-- [basement](/basement)：地下室
-- [elevator](/elevator)：エレベーター
+- [basement](/word/basement)：地下室
+- [elevator](/word/elevator)：エレベーター
 
 <!-- cvid: aid21_bid45 -->

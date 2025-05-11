@@ -96,7 +96,7 @@ TOEICの長文読解（Part 7）で、契約書や指示文など「明確に述
 ## 🤔  clearly との違いは？
 
 - **explicitly**：あいまいさがなく、明確に・はっきりと（特に言葉や文章で強調）
-- **[clearly](/clearly)**：見た目や理解のしやすさを含めて「はっきりと」「明瞭に」
+- **[clearly](/word/clearly)**：見た目や理解のしやすさを含めて「はっきりと」「明瞭に」
 
 explicitlyは「言葉や文章で明示的に述べる」ことを強調し、clearlyは「見てすぐ分かる」「理解しやすい」など幅広い場面で使われます。
 
@@ -104,14 +104,14 @@ explicitlyは「言葉や文章で明示的に述べる」ことを強調し、c
 
 ## 🧩 あわせて覚えたい
 
-- [implicitly](/implicitly)：暗黙のうちに
-- [specifically](/specifically)：具体的に
+- [implicitly](/word/implicitly)：暗黙のうちに
+- [specifically](/word/specifically)：具体的に
 
 ---
 
 ## 📖 できればこれも
 
-- [precisely](/precisely)：正確に
-- [directly](/directly)：直接に
+- [precisely](/word/precisely)：正確に
+- [directly](/word/directly)：直接に
 
 <!-- cvid: aid42_bid21 -->

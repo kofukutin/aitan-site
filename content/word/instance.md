@@ -97,7 +97,7 @@ TOEICでは主に説明文や事例紹介の場面で登場します。ITやビ�
 ## 🤔  case との違いは？
 
 - **instance**：具体的な「例」や「実例」を強調するフォーマルな語。
-- **[case](/case)**：状況や事例全般を指し、instanceより幅広い意味で使われる。
+- **[case](/word/case)**：状況や事例全般を指し、instanceより幅広い意味で使われる。
 
 instanceは「例示」や「証拠」としての具体性が強く、caseは「場合」「状況」など幅広い文脈で使われます。
 
@@ -105,14 +105,14 @@ instanceは「例示」や「証拠」としての具体性が強く、caseは�
 
 ## 🧩 あわせて覚えたい
 
-- [example](/example)：例、実例
-- [situation](/situation)：状況、場面
+- [example](/word/example)：例、実例
+- [situation](/word/situation)：状況、場面
 
 ---
 
 ## 📖 できればこれも
 
-- [detail](/detail)：詳細
-- [aspect](/aspect)：側面、観点
+- [detail](/word/detail)：詳細
+- [aspect](/word/aspect)：側面、観点
 
 <!-- cvid: aid16_bid16 -->

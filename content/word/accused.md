@@ -97,7 +97,7 @@ TOEICでは法務やビジネス関連の長文で、裁判や訴訟に関する
 ## 🤔  defendant との違いは？
 
 - **accused**：犯罪で告発された人全般を指し、特に刑事事件で使われる。
-- **[defendant](/defendant)**：裁判で訴えられている人を指し、刑事・民事どちらにも使える。
+- **[defendant](/word/defendant)**：裁判で訴えられている人を指し、刑事・民事どちらにも使える。
 
 「accused」は刑事事件での「被告人」に特化し、「defendant」は民事・刑事問わず裁判の「被告」を広く指します。
 
@@ -105,14 +105,14 @@ TOEICでは法務やビジネス関連の長文で、裁判や訴訟に関する
 
 ## 🧩 あわせて覚えたい
 
-- [plaintiff](/plaintiff)：原告（訴える側）
-- [suspect](/suspect)：容疑者（まだ正式に告発されていない人）
+- [plaintiff](/word/plaintiff)：原告（訴える側）
+- [suspect](/word/suspect)：容疑者（まだ正式に告発されていない人）
 
 ---
 
 ## 📖 できればこれも
 
-- [verdict](/verdict)：評決、判決
-- [evidence](/evidence)：証拠
+- [verdict](/word/verdict)：評決、判決
+- [evidence](/word/evidence)：証拠
 
 <!-- cvid: aid15_bid11 -->

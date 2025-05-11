@@ -97,7 +97,7 @@ TOEICでは、動詞の時制や受動態、過去分詞としての使い方を
 ## 🤔  elected との違いは？
 
 - **voted**：投票という行為自体を表し、誰かや何かに票を入れたことを強調します。
-- **[elected](/elected)**：投票の結果、誰かが選ばれた（当選した）ことを表します。
+- **[elected](/word/elected)**：投票の結果、誰かが選ばれた（当選した）ことを表します。
 
 votedは「投票した」という動作、electedは「選ばれた」という結果に焦点があります。
 
@@ -105,14 +105,14 @@ votedは「投票した」という動作、electedは「選ばれた」とい�
 
 ## 🧩 あわせて覚えたい
 
-- [choose](/choose)：選ぶ、選択する
-- [approve](/approve)：承認する
+- [choose](/word/choose)：選ぶ、選択する
+- [approve](/word/approve)：承認する
 
 ---
 
 ## 📖 できればこれも
 
-- [decided](/decided)：決定した
-- [supported](/supported)：支持した
+- [decided](/word/decided)：決定した
+- [supported](/word/supported)：支持した
 
 <!-- cvid: aid12_bid08 -->

@@ -97,7 +97,7 @@ TOEICでは、会議や工場、ビジネスシーンで「assembled parts（組
 ## 🤔  collected との違いは？
 
 - **assembled**：バラバラのものを一つに組み立てたり、まとめたりした状態
-- **[collected](/collected)**：単に集められた状態で、組み立てや統合のニュアンスはない
+- **[collected](/word/collected)**：単に集められた状態で、組み立てや統合のニュアンスはない
 
 「assembled」は部品や人などを一つの目的でまとめて組み立てる場合に使い、「collected」は集めるだけで組み立てる意味は含みません。
 
@@ -105,14 +105,14 @@ TOEICでは、会議や工場、ビジネスシーンで「assembled parts（組
 
 ## 🧩 あわせて覚えたい
 
-- [gathered](/gathered)：集められた（人や物が集まった状態）
-- [constructed](/constructed)：建設された、組み立てられた（特に建物や構造物に使う）
+- [gathered](/word/gathered)：集められた（人や物が集まった状態）
+- [constructed](/word/constructed)：建設された、組み立てられた（特に建物や構造物に使う）
 
 ---
 
 ## 📖 できればこれも
 
-- [organized](/organized)：整理された、組織された
-- [installed](/installed)：設置された、取り付けられた
+- [organized](/word/organized)：整理された、組織された
+- [installed](/word/installed)：設置された、取り付けられた
 
 <!-- cvid: aid05_bid22 -->

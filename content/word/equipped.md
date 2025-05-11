@@ -97,7 +97,7 @@ TOEICでは、オフィスや施設の説明、チームや人材の能力に関
 ## 🤔  prepared との違いは？
 
 - **equipped**：必要な物や能力が「備わっている」状態を強調
-- **[prepared](/prepared)**：準備や心構えが「できている」状態を強調
+- **[prepared](/word/prepared)**：準備や心構えが「できている」状態を強調
 
 equippedは物理的・能力的な「装備」に焦点があり、preparedは「準備」や「心の準備」に重点があります。
 
@@ -105,14 +105,14 @@ equippedは物理的・能力的な「装備」に焦点があり、preparedは�
 
 ## 🧩 あわせて覚えたい
 
-- [furnished](/furnished)：家具などが備え付けられた
-- [ready](/ready)：準備ができている
+- [furnished](/word/furnished)：家具などが備え付けられた
+- [ready](/word/ready)：準備ができている
 
 ---
 
 ## 📖 できればこれも
 
-- [qualified](/qualified)：資格がある、適任の
-- [suitable](/suitable)：適切な、ふさわしい
+- [qualified](/word/qualified)：資格がある、適任の
+- [suitable](/word/suitable)：適切な、ふさわしい
 
 <!-- cvid: aid04_bid30 -->

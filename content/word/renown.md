@@ -96,7 +96,7 @@ TOEICでは主に記事や紹介文などで、著名人や有名企業を説明
 ## 🤔  reputation との違いは？
 
 - **renown**：広く知られた名声や著名さを強調し、フォーマルな場面で使われる。
-- **[reputation](/reputation)**：一般的な「評判」を指し、良い・悪い両方に使える。
+- **[reputation](/word/reputation)**：一般的な「評判」を指し、良い・悪い両方に使える。
 
 renownは「輝かしい名声」に焦点を当て、reputationは「人々の評価全般」を表します。
 
@@ -104,14 +104,14 @@ renownは「輝かしい名声」に焦点を当て、reputationは「人々の�
 
 ## 🧩 あわせて覚えたい
 
-- [prestige](/prestige)：高い評価、威信
-- [obscurity](/obscurity)：無名、知られていないこと
+- [prestige](/word/prestige)：高い評価、威信
+- [obscurity](/word/obscurity)：無名、知られていないこと
 
 ---
 
 ## 📖 できればこれも
 
-- [fame](/fame)：名声、有名であること
-- [honor](/honor)：名誉、栄誉
+- [fame](/word/fame)：名声、有名であること
+- [honor](/word/honor)：名誉、栄誉
 
 <!-- cvid: aid02_bid32 -->

@@ -97,7 +97,7 @@ TOEICでは、ITや日常会話のシーンで「ネットを見て回る」と�
 ## 🤔  browse との違いは？
 
 - **surf**：気軽にいろいろなページを見て回るイメージ
-- **[browse](/browse)**：じっくり選んだり、ざっと目を通すイメージ
+- **[browse](/word/browse)**：じっくり選んだり、ざっと目を通すイメージ
 
 surfは「ネットサーフィン」のように、目的なく幅広く見て回るときに使い、browseは商品や本などを「ざっと見る」「選ぶ」場面で使います。
 
@@ -105,14 +105,14 @@ surfは「ネットサーフィン」のように、目的なく幅広く見て�
 
 ## 🧩 あわせて覚えたい
 
-- [search](/search)：検索する
-- [navigate](/navigate)：（ウェブなどを）移動する、案内する
+- [search](/word/search)：検索する
+- [navigate](/word/navigate)：（ウェブなどを）移動する、案内する
 
 ---
 
 ## 📖 できればこれも
 
-- [click](/click)：クリックする
-- [scroll](/scroll)：スクロールする
+- [click](/word/click)：クリックする
+- [scroll](/word/scroll)：スクロールする
 
 <!-- cvid: aid22_bid02 -->

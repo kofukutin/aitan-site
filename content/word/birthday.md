@@ -97,7 +97,7 @@ TOEICでは主にPart 1や日常会話の場面で、人物の紹介やイベン
 ## 🤔  anniversary との違いは？
 
 - **birthday**：人や動物が生まれた日やその記念日
-- **[anniversary](/anniversary)**：結婚記念日や創立記念日など、特定の出来事の記念日
+- **[anniversary](/word/anniversary)**：結婚記念日や創立記念日など、特定の出来事の記念日
 
 birthdayは「誕生日」限定ですが、anniversaryは「記念日」全般に使われます。
 
@@ -105,14 +105,14 @@ birthdayは「誕生日」限定ですが、anniversaryは「記念日」全般�
 
 ## 🧩 あわせて覚えたい
 
-- [holiday](/holiday)：祝日、休日
-- [celebration](/celebration)：お祝い、祝賀
+- [holiday](/word/holiday)：祝日、休日
+- [celebration](/word/celebration)：お祝い、祝賀
 
 ---
 
 ## 📖 できればこれも
 
-- [gift](/gift)：贈り物
-- [party](/party)：パーティー
+- [gift](/word/gift)：贈り物
+- [party](/word/party)：パーティー
 
 <!-- cvid: aid12_bid49 -->

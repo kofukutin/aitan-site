@@ -97,7 +97,7 @@ TOEICでは、身元確認や個人情報、企業のブランドイメージな
 ## 🤔  individuality との違いは？
 
 - **identity**：その人や物の「本質的な特徴」や「身元」を指す
-- **[individuality](/individuality)**：個人の「独自性」や「個性」を強調する
+- **[individuality](/word/individuality)**：個人の「独自性」や「個性」を強調する
 
 identityは「誰であるか」という客観的な側面、individualityは「その人らしさ」や「独自性」に焦点を当てます。
 
@@ -105,14 +105,14 @@ identityは「誰であるか」という客観的な側面、individualityは�
 
 ## 🧩 あわせて覚えたい
 
-- [identification](/identification)：身分証明、識別
-- [reputation](/reputation)：評判、名声
+- [identification](/word/identification)：身分証明、識別
+- [reputation](/word/reputation)：評判、名声
 
 ---
 
 ## 📖 できればこれも
 
-- [status](/status)：地位、身分
-- [role](/role)：役割、任務
+- [status](/word/status)：地位、身分
+- [role](/word/role)：役割、任務
 
 <!-- cvid: aid02_bid34 -->

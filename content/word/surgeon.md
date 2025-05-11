@@ -97,7 +97,7 @@ TOEICでは医療現場や病院の案内、健康に関する長文で見かけ
 ## 🤔  physician との違いは？
 
 - **surgeon**：手術を専門とする外科医
-- **[physician](/physician)**：一般的な内科医や医師全般
+- **[physician](/word/physician)**：一般的な内科医や医師全般
 
 surgeonは手術を行う医師、physicianは診断や治療を主に行う医師を指し、外科と内科の違いが明確です。
 
@@ -105,14 +105,14 @@ surgeonは手術を行う医師、physicianは診断や治療を主に行う医�
 
 ## 🧩 あわせて覚えたい
 
-- [nurse](/nurse)：看護師
-- [operation](/operation)：手術
+- [nurse](/word/nurse)：看護師
+- [operation](/word/operation)：手術
 
 ---
 
 ## 📖 できればこれも
 
-- [clinic](/clinic)：診療所
-- [patient](/patient)：患者
+- [clinic](/word/clinic)：診療所
+- [patient](/word/patient)：患者
 
 <!-- cvid: aid03_bid19 -->

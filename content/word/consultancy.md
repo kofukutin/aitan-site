@@ -97,7 +97,7 @@ TOEICではビジネス文書やEメール、会社紹介などで「consultancy
 ## 🤔  consulting との違いは？
 
 - **consultancy**：コンサルタント業やコンサル会社そのものを指す
-- **[consulting](/consulting)**：コンサルティングという行為や業務全般を指す
+- **[consulting](/word/consulting)**：コンサルティングという行為や業務全般を指す
 
 「consultancy」は会社や組織を、「consulting」はサービスや活動そのものを表す点が異なります。
 
@@ -105,14 +105,14 @@ TOEICではビジネス文書やEメール、会社紹介などで「consultancy
 
 ## 🧩 あわせて覚えたい
 
-- [advice](/advice)：助言、アドバイス
-- [agency](/agency)：代理店、仲介業者
+- [advice](/word/advice)：助言、アドバイス
+- [agency](/word/agency)：代理店、仲介業者
 
 ---
 
 ## 📖 できればこれも
 
-- [consultant](/consultant)：コンサルタント（専門的助言を行う人）
-- [proposal](/proposal)：提案、企画書
+- [consultant](/word/consultant)：コンサルタント（専門的助言を行う人）
+- [proposal](/word/proposal)：提案、企画書
 
 <!-- cvid: aid02_bid40 -->

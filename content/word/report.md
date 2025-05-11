@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やメール、会議資料などの中で「rep
 ## 🤔  announce との違いは？
 
 - **report**：出来事や調査結果をまとめた「報告書」や「レポート」
-- **[announce](/announce)**：新しい情報や決定事項を「公式に発表する」
+- **[announce](/word/announce)**：新しい情報や決定事項を「公式に発表する」
 
 reportは文書や口頭での「報告」に使い、announceは広く人々に「知らせる・発表する」時に使います。
 
@@ -105,14 +105,14 @@ reportは文書や口頭での「報告」に使い、announceは広く人々に
 
 ## 🧩 あわせて覚えたい
 
-- [statement](/statement)：声明、発表
-- [summary](/summary)：要約、まとめ
+- [statement](/word/statement)：声明、発表
+- [summary](/word/summary)：要約、まとめ
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/document)：文書、書類
-- [record](/record)：記録、記録する
+- [document](/word/document)：文書、書類
+- [record](/word/record)：記録、記録する
 
 <!-- cvid: aid12_bid07 -->

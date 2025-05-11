@@ -97,7 +97,7 @@ TOEICではビジネス文書やEメール、広告文などで「endorsement」
 ## 🤔  approval との違いは？
 
 - **endorsement**：公式な推薦や支持、特に有名人や権威者によるものを指すことが多い
-- **[approval](/approval)**：一般的な承認や許可を意味し、推薦のニュアンスは薄い
+- **[approval](/word/approval)**：一般的な承認や許可を意味し、推薦のニュアンスは薄い
 
 endorsementは「推薦」「お墨付き」の意味合いが強く、approvalは単なる「承認」や「許可」として幅広く使われます。
 
@@ -105,14 +105,14 @@ endorsementは「推薦」「お墨付き」の意味合いが強く、approval�
 
 ## 🧩 あわせて覚えたい
 
-- [recommendation](/recommendation)：推薦、勧告
-- [authorization](/authorization)：許可、認可
+- [recommendation](/word/recommendation)：推薦、勧告
+- [authorization](/word/authorization)：許可、認可
 
 ---
 
 ## 📖 できればこれも
 
-- [certificate](/certificate)：証明書
-- [confirmation](/confirmation)：確認、承認
+- [certificate](/word/certificate)：証明書
+- [confirmation](/word/confirmation)：確認、承認
 
 <!-- cvid: aid41_bid37 -->

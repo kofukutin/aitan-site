@@ -97,7 +97,7 @@ TOEICでは映画やイベント紹介、エンターテインメント関連の
 ## 🤔  humor との違いは？
 
 - **comedy**：人を笑わせることを目的とした劇や番組などの「喜劇」そのもの
-- **[humor](/humor)**：ユーモア、面白さそのものや感覚
+- **[humor](/word/humor)**：ユーモア、面白さそのものや感覚
 
 comedyは具体的な作品やジャンルを指し、humorは人の性格や物事の面白さ全般を表します。
 
@@ -105,14 +105,14 @@ comedyは具体的な作品やジャンルを指し、humorは人の性格や物
 
 ## 🧩 あわせて覚えたい
 
-- [tragedy](/tragedy)：悲劇
-- [satire](/satire)：風刺、皮肉
+- [tragedy](/word/tragedy)：悲劇
+- [satire](/word/satire)：風刺、皮肉
 
 ---
 
 ## 📖 できればこれも
 
-- [drama](/drama)：ドラマ、劇
-- [entertainment](/entertainment)：娯楽、エンターテインメント
+- [drama](/word/drama)：ドラマ、劇
+- [entertainment](/word/entertainment)：娯楽、エンターテインメント
 
 <!-- cvid: aid37_bid27 -->

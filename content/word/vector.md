@@ -97,7 +97,7 @@ TOEICでは科学技術やIT関連の長文、または専門的な説明文で�
 ## 🤔  direction との違いは？
 
 - **vector**：大きさと向きを持つ量や、何かを運ぶ媒介体
-- **[direction](/direction)**：向きや方向のみを表す
+- **[direction](/word/direction)**：向きや方向のみを表す
 
 vectorは「大きさ＋向き」の両方を含み、directionは「向き」だけを指します。数学や物理の文脈ではこの違いが重要です。
 
@@ -105,14 +105,14 @@ vectorは「大きさ＋向き」の両方を含み、directionは「向き」�
 
 ## 🧩 あわせて覚えたい
 
-- [magnitude](/magnitude)：大きさ、量
-- [axis](/axis)：軸、中心線
+- [magnitude](/word/magnitude)：大きさ、量
+- [axis](/word/axis)：軸、中心線
 
 ---
 
 ## 📖 できればこれも
 
-- [coordinate](/coordinate)：座標
-- [dimension](/dimension)：次元
+- [coordinate](/word/coordinate)：座標
+- [dimension](/word/dimension)：次元
 
 <!-- cvid: aid30_bid49 -->

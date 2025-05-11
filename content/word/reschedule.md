@@ -97,7 +97,7 @@ TOEICでは会議やアポイントの変更に関する会話やメール文で
 ## 🤔  postpone との違いは？
 
 - **reschedule**：予定を別の日に「組み直す」ことを強調
-- **[postpone](/postpone)**：予定を「延期する」ことを強調
+- **[postpone](/word/postpone)**：予定を「延期する」ことを強調
 
 **reschedule**は新しい日時を決め直すニュアンスがあり、**postpone**は単に遅らせる意味合いが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは会議やアポイントの変更に関する会話やメール文で
 
 ## 🧩 あわせて覚えたい
 
-- [cancel](/cancel)：中止する
-- [arrange](/arrange)：手配する、準備する
+- [cancel](/word/cancel)：中止する
+- [arrange](/word/arrange)：手配する、準備する
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/confirm)：確認する
-- [notify](/notify)：通知する
+- [confirm](/word/confirm)：確認する
+- [notify](/word/notify)：通知する
 
 <!-- cvid: aid05_bid25 -->

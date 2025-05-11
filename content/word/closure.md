@@ -97,7 +97,7 @@ TOEICでは、会社や店舗の「閉鎖」やプロジェクトの「終了」
 ## 🤔  termination との違いは？
 
 - **closure**：物理的・心理的な「閉鎖」「終結」を幅広く表す
-- **[termination](/termination)**：契約や雇用などの「終了」「打ち切り」を強調
+- **[termination](/word/termination)**：契約や雇用などの「終了」「打ち切り」を強調
 
 closureは「店の閉店」や「会議の終結」など幅広い「終わり」に使い、terminationは特に契約や雇用の「打ち切り」に使われます。
 
@@ -105,14 +105,14 @@ closureは「店の閉店」や「会議の終結」など幅広い「終わり�
 
 ## 🧩 あわせて覚えたい
 
-- [completion](/completion)：完了、完成
-- [shutdown](/shutdown)：（一時的・完全な）停止、閉鎖
+- [completion](/word/completion)：完了、完成
+- [shutdown](/word/shutdown)：（一時的・完全な）停止、閉鎖
 
 ---
 
 ## 📖 できればこれも
 
-- [approval](/approval)：承認
-- [extension](/extension)：延長
+- [approval](/word/approval)：承認
+- [extension](/word/extension)：延長
 
 <!-- cvid: aid44_bid26 -->

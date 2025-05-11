@@ -98,7 +98,7 @@ TOEICでは「データを入力する」「会議に参加する」「部屋に
 ## 🤔  joined との違いは？
 
 - **entered**：物理的・抽象的に「中に入る」「入力する」など、何かの内部に入る動作を強調。
-- **[joined](/joined)**：グループや活動に「加わる」「参加する」ことを強調。
+- **[joined](/word/joined)**：グループや活動に「加わる」「参加する」ことを強調。
 
 enteredは「空間やシステムの中に入る」イメージ、joinedは「仲間や集団に加わる」イメージで使い分けます。
 
@@ -106,14 +106,14 @@ enteredは「空間やシステムの中に入る」イメージ、joinedは「�
 
 ## 🧩 あわせて覚えたい
 
-- [leave](/leave)：去る、離れる
-- [access](/access)：アクセスする、接続する
+- [leave](/word/leave)：去る、離れる
+- [access](/word/access)：アクセスする、接続する
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/submit)：提出する
-- [register](/register)：登録する
+- [submit](/word/submit)：提出する
+- [register](/word/register)：登録する
 
 <!-- cvid: aid01_bid39 -->

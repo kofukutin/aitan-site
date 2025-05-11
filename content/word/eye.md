@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写で「目」や「見る」動作の説明によ
 ## 🤔  gaze との違いは？
 
 - **eye**：目そのもの、または観察力・視点を指す
-- **[gaze](/gaze)**：じっと見つめること、凝視
+- **[gaze](/word/gaze)**：じっと見つめること、凝視
 
 eyeは「器官」や「視点」を表し、gazeは「じっと見る」という動作やその状態を表します。
 
@@ -105,14 +105,14 @@ eyeは「器官」や「視点」を表し、gazeは「じっと見る」とい�
 
 ## 🧩 あわせて覚えたい
 
-- [sight](/sight)：視力、視界
-- [view](/view)：眺め、見解
+- [sight](/word/sight)：視力、視界
+- [view](/word/view)：眺め、見解
 
 ---
 
 ## 📖 できればこれも
 
-- [face](/face)：顔
-- [hand](/hand)：手
+- [face](/word/face)：顔
+- [hand](/word/hand)：手
 
 <!-- cvid: aid05_bid17 -->

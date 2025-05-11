@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写や、日常的な会話文で「昼食の
 ## 🤔  lunch との違いは？
 
 - **lunchtime**：昼食をとる「時間帯」を指す
-- **[lunch](/lunch)**：食事としての「昼食」そのもの
+- **[lunch](/word/lunch)**：食事としての「昼食」そのもの
 
 **lunchtime**は「昼食の時間」という時間帯を表し、**lunch**は食べ物や食事そのものを指します。たとえば「at lunchtime」は「昼食の時間に」、「have lunch」は「昼食を食べる」となります。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写や、日常的な会話文で「昼食の
 
 ## 🧩 あわせて覚えたい
 
-- [breakfast](/breakfast)：朝食
-- [dinnertime](/dinnertime)：夕食の時間
+- [breakfast](/word/breakfast)：朝食
+- [dinnertime](/word/dinnertime)：夕食の時間
 
 ---
 
 ## 📖 できればこれも
 
-- [snack](/snack)：軽食
-- [mealtime](/mealtime)：食事の時間
+- [snack](/word/snack)：軽食
+- [mealtime](/word/mealtime)：食事の時間
 
 <!-- cvid: aid32_bid09 -->

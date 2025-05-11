@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「取引量」「音量」「売上高」など
 ## 🤔  amount との違いは？
 
 - **volume**：物理的な容積や、取引・売上などの「まとまった量」を表す。音量にも使う。
-- **[amount](/amount)**：数えられないものの「総量」「合計」を表す。
+- **[amount](/word/amount)**：数えられないものの「総量」「合計」を表す。
 
 volumeは「容積」「音量」「取引量」など、まとまりや物理的な大きさを意識した量に使い、amountは「お金」「時間」など抽象的な総量に使います。
 
@@ -105,14 +105,14 @@ volumeは「容積」「音量」「取引量」など、まとまりや物理�
 
 ## 🧩 あわせて覚えたい
 
-- [capacity](/capacity)：収容能力、容量
-- [quantity](/quantity)：数量、分量
+- [capacity](/word/capacity)：収容能力、容量
+- [quantity](/word/quantity)：数量、分量
 
 ---
 
 ## 📖 できればこれも
 
-- [level](/level)：水準、程度
-- [rate](/rate)：割合、速度
+- [level](/word/level)：水準、程度
+- [rate](/word/rate)：割合、速度
 
 <!-- cvid: aid28_bid42 -->

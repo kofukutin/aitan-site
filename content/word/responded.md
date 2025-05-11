@@ -97,7 +97,7 @@ TOEICでは、メールや会話のやりとり、ビジネスシーンでの返
 ## 🤔  replied との違いは？
 
 - **responded**：ややフォーマルで、返答や反応全般に使える。
-- **[replied](/replied)**：カジュアルで、特にメールや会話の返事に使われやすい。
+- **[replied](/word/replied)**：カジュアルで、特にメールや会話の返事に使われやすい。
 
 respondedは幅広い返答や反応に使え、repliedは「返事を返す」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ respondedは幅広い返答や反応に使え、repliedは「返事を返す」�
 
 ## 🧩 あわせて覚えたい
 
-- [react](/react)：反応する
-- [ignore](/ignore)：無視する
+- [react](/word/react)：反応する
+- [ignore](/word/ignore)：無視する
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/confirm)：確認する
-- [request](/request)：依頼する
+- [confirm](/word/confirm)：確認する
+- [request](/word/request)：依頼する
 
 <!-- cvid: aid19_bid16 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、衣服や建物の模様を説明す
 ## 🤔  line との違いは？
 
 - **stripe**：幅のある縞模様や帯状の線を指す
-- **[line](/line)**：細い線や境界、列など幅のない「線」を指す
+- **[line](/word/line)**：細い線や境界、列など幅のない「線」を指す
 
 stripeは「模様」や「装飾」としての線、lineは「境界」や「区切り」としての線を表す点が異なります。
 
@@ -105,14 +105,14 @@ stripeは「模様」や「装飾」としての線、lineは「境界」や「�
 
 ## 🧩 あわせて覚えたい
 
-- [pattern](/pattern)：模様、パターン
-- [spot](/spot)：斑点、点
+- [pattern](/word/pattern)：模様、パターン
+- [spot](/word/spot)：斑点、点
 
 ---
 
 ## 📖 できればこれも
 
-- [dot](/dot)：点、ドット
-- [shape](/shape)：形、形状
+- [dot](/word/dot)：点、ドット
+- [shape](/word/shape)：形、形状
 
 <!-- cvid: aid05_bid12 -->

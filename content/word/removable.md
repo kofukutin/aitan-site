@@ -97,7 +97,7 @@ TOEICでは、製品説明や仕様書、マニュアルなどで「removable」
 ## 🤔  detachable との違いは？
 
 - **removable**：取り外しができる（外してもまた元に戻せる場合が多い）
-- **[detachable](/detachable)**：取り外しができる（特に簡単に分離できることを強調）
+- **[detachable](/word/detachable)**：取り外しができる（特に簡単に分離できることを強調）
 
 「removable」は「外せること」に重点があり、「detachable」は「分離しやすさ」や「簡単に外れる構造」によりフォーカスがあります。
 
@@ -105,14 +105,14 @@ TOEICでは、製品説明や仕様書、マニュアルなどで「removable」
 
 ## 🧩 あわせて覚えたい
 
-- [fixed](/fixed)：固定された、動かせない
-- [replaceable](/replaceable)：交換可能な
+- [fixed](/word/fixed)：固定された、動かせない
+- [replaceable](/word/replaceable)：交換可能な
 
 ---
 
 ## 📖 できればこれも
 
-- [portable](/portable)：持ち運び可能な
-- [adjustable](/adjustable)：調節可能な
+- [portable](/word/portable)：持ち運び可能な
+- [adjustable](/word/adjustable)：調節可能な
 
 <!-- cvid: aid22_bid08 -->

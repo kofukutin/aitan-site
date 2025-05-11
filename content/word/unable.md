@@ -99,7 +99,7 @@ TOEICでは、be unable to doの形で「～できない」という意味で頻
 ## 🤔  incapable との違いは？
 
 - **unable**：状況や一時的な理由で「できない」
-- **[incapable](/incapable)**：本質的・根本的に「できない」
+- **[incapable](/word/incapable)**：本質的・根本的に「できない」
 
 unableは一時的・状況的な「できない」に使い、incapableは能力や性質として「できない」に使います。
 
@@ -107,14 +107,14 @@ unableは一時的・状況的な「できない」に使い、incapableは能�
 
 ## 🧩 あわせて覚えたい
 
-- [possible](/possible)：可能な
-- [available](/available)：利用できる、手が空いている
+- [possible](/word/possible)：可能な
+- [available](/word/available)：利用できる、手が空いている
 
 ---
 
 ## 📖 できればこれも
 
-- [capable](/capable)：能力がある
-- [possible](/possible)：可能な
+- [capable](/word/capable)：能力がある
+- [possible](/word/possible)：可能な
 
 <!-- cvid: aid33_bid36 -->

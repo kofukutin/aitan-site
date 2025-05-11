@@ -93,7 +93,7 @@ TOEICでは文法問題や条件文で頻出します。主語や目的語とし
 ## 🤔  anyone との違いは？
 
 - **whoever**：文の主語や目的語として「～する人は誰でも」という条件や強調を表す。
-- **[anyone](/anyone)**：単に「誰でも」という意味で、主語や目的語として使うが、文の構造が異なる。
+- **[anyone](/word/anyone)**：単に「誰でも」という意味で、主語や目的語として使うが、文の構造が異なる。
 
 whoeverは文の一部として条件や強調を表すのに対し、anyoneは単独で「誰でも」と言いたいときに使います。
 
@@ -101,14 +101,14 @@ whoeverは文の一部として条件や強調を表すのに対し、anyoneは�
 
 ## 🧩 あわせて覚えたい
 
-- [whomever](/whomever)：誰を～しようとも
-- [whichever](/whichever)：どちらでも、どれでも
+- [whomever](/word/whomever)：誰を～しようとも
+- [whichever](/word/whichever)：どちらでも、どれでも
 
 ---
 
 ## 📖 できればこれも
 
-- [whenever](/whenever)：いつでも
-- [whatever](/whatever)：何でも
+- [whenever](/word/whenever)：いつでも
+- [whatever](/word/whatever)：何でも
 
 <!-- cvid: aid41_bid43 -->

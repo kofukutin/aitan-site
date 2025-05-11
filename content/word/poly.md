@@ -97,7 +97,7 @@ TOEICでは主に製品説明や技術文書、梱包材の記述などで登場
 ## 🤔  multi との違いは？
 
 - **poly**：主に化学分野で「合成樹脂」や「高分子化合物」の略称として使われる。
-- **[multi](/multi)**：数量や種類が「多い」ことを表す接頭辞や形容詞。
+- **[multi](/word/multi)**：数量や種類が「多い」ことを表す接頭辞や形容詞。
 
 polyは素材や化学用語の略語、multiは「多い」という数量的な意味で使い分けます。
 
@@ -105,14 +105,14 @@ polyは素材や化学用語の略語、multiは「多い」という数量的�
 
 ## 🧩 あわせて覚えたい
 
-- [polymer](/polymer)：ポリマー、高分子化合物
-- [monomer](/monomer)：モノマー、単量体
+- [polymer](/word/polymer)：ポリマー、高分子化合物
+- [monomer](/word/monomer)：モノマー、単量体
 
 ---
 
 ## 📖 できればこれも
 
-- [macro](/macro)：大きい、巨視的な
-- [micro](/micro)：小さい、微視的な
+- [macro](/word/macro)：大きい、巨視的な
+- [micro](/word/micro)：小さい、微視的な
 
 <!-- cvid: aid29_bid17 -->

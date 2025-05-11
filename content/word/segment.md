@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やマーケティング関連の長文で「
 ## 🤔  section との違いは？
 
 - **segment**：全体を構成する明確に区切られた一部分、特に機能や役割で分けた区分
-- **[section](/section)**：全体を物理的・論理的に分けた「区切り」や「章」
+- **[section](/word/section)**：全体を物理的・論理的に分けた「区切り」や「章」
 
 segmentは「役割や機能で分けた一部分」に強調があり、sectionは「物理的・構造的な区切り」に使われることが多いです。
 
@@ -105,14 +105,14 @@ segmentは「役割や機能で分けた一部分」に強調があり、section
 
 ## 🧩 あわせて覚えたい
 
-- [portion](/portion)：一部分、分け前
-- [fragment](/fragment)：断片、かけら
+- [portion](/word/portion)：一部分、分け前
+- [fragment](/word/fragment)：断片、かけら
 
 ---
 
 ## 📖 できればこれも
 
-- [division](/division)：分割、部門
-- [category](/category)：分類、カテゴリー
+- [division](/word/division)：分割、部門
+- [category](/word/category)：分類、カテゴリー
 
 <!-- cvid: aid20_bid38 -->

@@ -97,7 +97,7 @@ plainはTOEICの語彙問題で「明白な」「飾り気のない」という�
 ## 🤔  simple との違いは？
 
 - **plain**：飾り気がなく、地味でわかりやすいことを強調
-- **[simple](/simple)**：構造や内容が複雑でなく、理解しやすいことを強調
+- **[simple](/word/simple)**：構造や内容が複雑でなく、理解しやすいことを強調
 
 plainは「見た目や表現が地味・質素」であることに重点があり、simpleは「複雑でない」ことに重点があります。
 
@@ -105,14 +105,14 @@ plainは「見た目や表現が地味・質素」であることに重点があ
 
 ## 🧩 あわせて覚えたい
 
-- [obvious](/obvious)：明らかな
-- [clear](/clear)：はっきりした
+- [obvious](/word/obvious)：明らかな
+- [clear](/word/clear)：はっきりした
 
 ---
 
 ## 📖 できればこれも
 
-- [basic](/basic)：基本的な
-- [ordinary](/ordinary)：普通の
+- [basic](/word/basic)：基本的な
+- [ordinary](/word/ordinary)：普通の
 
 <!-- cvid: aid21_bid31 -->

@@ -98,7 +98,7 @@ TOEICでは「actual cost（実際の費用）」や「actual results（実際�
 ## 🤔  real との違いは？
 
 - **actual**：想像や予想と区別して「現実に存在する」「事実としての」
-- **[real](/real)**：本物の、偽物でない、感情や性質が「本当」である
+- **[real](/word/real)**：本物の、偽物でない、感情や性質が「本当」である
 
 「actual」は「予想や計画と違って現実に起きていること」を強調し、「real」は「偽物でない本物」や「感情・性質が本当である」ことを強調します。
 
@@ -106,14 +106,14 @@ TOEICでは「actual cost（実際の費用）」や「actual results（実際�
 
 ## 🧩 あわせて覚えたい
 
-- [factual](/factual)：事実に基づく
-- [theoretical](/theoretical)：理論上の
+- [factual](/word/factual)：事実に基づく
+- [theoretical](/word/theoretical)：理論上の
 
 ---
 
 ## 📖 できればこれも
 
-- [current](/current)：現在の
-- [practical](/practical)：実用的な
+- [current](/word/current)：現在の
+- [practical](/word/practical)：実用的な
 
 <!-- cvid: aid13_bid12 -->

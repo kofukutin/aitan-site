@@ -97,7 +97,7 @@ TOEICでは科学技術や製品説明の長文で登場することが多い単
 ## 🤔  plastic との違いは？
 
 - **polymer**：高分子化合物全般を指し、天然・合成どちらも含む科学的な用語。
-- **[plastic](/plastic)**：主に合成樹脂でできた「プラスチック製品」を指し、日常的な素材名。
+- **[plastic](/word/plastic)**：主に合成樹脂でできた「プラスチック製品」を指し、日常的な素材名。
 
 polymerは科学的な分類名で、plasticはその中の一部（合成樹脂製品）を指します。
 
@@ -105,14 +105,14 @@ polymerは科学的な分類名で、plasticはその中の一部（合成樹脂
 
 ## 🧩 あわせて覚えたい
 
-- [monomer](/monomer)：単量体、ポリマーを構成する小さな分子
-- [resin](/resin)：樹脂、プラスチックや接着剤の原料となる物質
+- [monomer](/word/monomer)：単量体、ポリマーを構成する小さな分子
+- [resin](/word/resin)：樹脂、プラスチックや接着剤の原料となる物質
 
 ---
 
 ## 📖 できればこれも
 
-- [compound](/compound)：化合物
-- [fiber](/fiber)：繊維
+- [compound](/word/compound)：化合物
+- [fiber](/word/fiber)：繊維
 
 <!-- cvid: aid03_bid43 -->

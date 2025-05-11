@@ -97,7 +97,7 @@ TOEICではITやビジネスの文脈で「upgrading」が頻出します。特�
 ## 🤔  updating との違いは？
 
 - **upgrading**：今あるものをより高いレベルや新しいバージョンに引き上げること
-- **[updating](/updating)**：今あるものの内容や情報を新しくすること
+- **[updating](/word/updating)**：今あるものの内容や情報を新しくすること
 
 「upgrading」は質や機能そのものを向上させる場合に使い、「updating」は最新の状態に保つために情報や内容を新しくする場合に使います。
 
@@ -105,14 +105,14 @@ TOEICではITやビジネスの文脈で「upgrading」が頻出します。特�
 
 ## 🧩 あわせて覚えたい
 
-- [install](/install)：インストールする、設置する
-- [improve](/improve)：改善する、より良くする
+- [install](/word/install)：インストールする、設置する
+- [improve](/word/improve)：改善する、より良くする
 
 ---
 
 ## 📖 できればこれも
 
-- [replace](/replace)：取り替える、交換する
-- [maintain](/maintain)：維持する、保守する
+- [replace](/word/replace)：取り替える、交換する
+- [maintain](/word/maintain)：維持する、保守する
 
 <!-- cvid: aid23_bid26 -->

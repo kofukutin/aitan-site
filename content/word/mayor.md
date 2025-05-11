@@ -97,7 +97,7 @@ TOEICでは、新聞記事やお知らせ文などの長文で、市長の発言
 ## 🤔  governor との違いは？
 
 - **mayor**：市や町の行政トップ（市長・町長）を指す。
-- **[governor](/governor)**：州や県など、より大きな行政単位の長を指す。
+- **[governor](/word/governor)**：州や県など、より大きな行政単位の長を指す。
 
 mayorは市や町レベル、governorは州や県レベルのリーダーで、担当する範囲が異なります。
 
@@ -105,14 +105,14 @@ mayorは市や町レベル、governorは州や県レベルのリーダーで、�
 
 ## 🧩 あわせて覚えたい
 
-- [council](/council)：議会、評議会
-- [president](/president)：大統領、社長
+- [council](/word/council)：議会、評議会
+- [president](/word/president)：大統領、社長
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/candidate)：候補者
-- [election](/election)：選挙
+- [candidate](/word/candidate)：候補者
+- [election](/word/election)：選挙
 
 <!-- cvid: aid14_bid08 -->

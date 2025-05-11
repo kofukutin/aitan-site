@@ -105,14 +105,14 @@ processorは広い意味で使われ、CPUはその中でも特に中心的な�
 
 ## 🧩 あわせて覚えたい
 
-- [microchip](/microchip)：集積回路、マイクロチップ
-- [hardware](/hardware)：ハードウェア、機械装置
+- [microchip](/word/microchip)：集積回路、マイクロチップ
+- [hardware](/word/hardware)：ハードウェア、機械装置
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/device)：装置、デバイス
-- [component](/component)：部品、構成要素
+- [device](/word/device)：装置、デバイス
+- [component](/word/component)：部品、構成要素
 
 <!-- cvid: aid33_bid31 -->

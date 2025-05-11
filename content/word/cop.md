@@ -97,7 +97,7 @@ TOEICでは日常会話や観光シーンの会話文で、カジュアルな警
 ## 🤔  police officer との違いは？
 
 - **cop**：カジュアルな警官の呼び方。親しみやすいがややくだけた印象。
-- **[police officer](/police_officer)**：フォーマルで丁寧な警官の呼び方。公式な場や書類で使われる。
+- **[police officer](/word/police_officer)**：フォーマルで丁寧な警官の呼び方。公式な場や書類で使われる。
 
 cop は日常会話や映画などでよく使われ、police officer はフォーマルな場や公式文書で使われます。
 
@@ -105,14 +105,14 @@ cop は日常会話や映画などでよく使われ、police officer はフォ�
 
 ## 🧩 あわせて覚えたい
 
-- [detective](/detective)：刑事、探偵
-- [guard](/guard)：警備員、守衛
+- [detective](/word/detective)：刑事、探偵
+- [guard](/word/guard)：警備員、守衛
 
 ---
 
 ## 📖 できればこれも
 
-- [robber](/robber)：強盗
-- [arrest](/arrest)：逮捕する
+- [robber](/word/robber)：強盗
+- [arrest](/word/arrest)：逮捕する
 
 <!-- cvid: aid28_bid38 -->

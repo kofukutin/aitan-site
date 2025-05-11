@@ -97,7 +97,7 @@ TOEICではレストランやホテル、ビジネスの会食シーンなどで
 ## 🤔  eating との違いは？
 
 - **dining**：フォーマルな「食事」や「食事の場面」を指す
-- **[eating](/eating)**：単に「食べること」を指し、カジュアルで幅広い意味
+- **[eating](/word/eating)**：単に「食べること」を指し、カジュアルで幅広い意味
 
 「dining」は特にレストランや特別な食事の場面で使われ、「eating」は日常的な「食べる行為」全般を表します。
 
@@ -105,14 +105,14 @@ TOEICではレストランやホテル、ビジネスの会食シーンなどで
 
 ## 🧩 あわせて覚えたい
 
-- [meal](/meal)：食事、1回分の食事
-- [restaurant](/restaurant)：レストラン、飲食店
+- [meal](/word/meal)：食事、1回分の食事
+- [restaurant](/word/restaurant)：レストラン、飲食店
 
 ---
 
 ## 📖 できればこれも
 
-- [lunch](/lunch)：昼食
-- [dinner](/dinner)：夕食
+- [lunch](/word/lunch)：昼食
+- [dinner](/word/dinner)：夕食
 
 <!-- cvid: aid34_bid30 -->

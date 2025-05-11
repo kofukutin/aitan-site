@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やEメール、広告などで「価格設�
 ## 🤔  cost との違いは？
 
 - **pricing**：価格設定や値付けの方法・戦略を指す
-- **[cost](/cost)**：実際にかかる費用や原価を指す
+- **[cost](/word/cost)**：実際にかかる費用や原価を指す
 
 「pricing」は売り手が決める値付けや戦略、「cost」は買い手や企業が実際に支払う費用や原価を表します。
 
@@ -105,14 +105,14 @@ TOEICでは主にビジネス文書やEメール、広告などで「価格設�
 
 ## 🧩 あわせて覚えたい
 
-- [rate](/rate)：（単位あたりの）料金、比率
-- [fee](/fee)：（サービスなどの）料金、手数料
+- [rate](/word/rate)：（単位あたりの）料金、比率
+- [fee](/word/fee)：（サービスなどの）料金、手数料
 
 ---
 
 ## 📖 できればこれも
 
-- [discount](/discount)：割引
-- [quotation](/quotation)：見積もり
+- [discount](/word/discount)：割引
+- [quotation](/word/quotation)：見積もり
 
 <!-- cvid: aid48_bid04 -->

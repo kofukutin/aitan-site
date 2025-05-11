@@ -97,7 +97,7 @@ TOEICでは「支払う」「給料を払う」などの意味で頻出し、請
 ## 🤔  compensate との違いは？
 
 - **pay**：お金や報酬を支払う、または努力に報いる
-- **[compensate](/compensate)**：損失や被害に対して補償・賠償する
+- **[compensate](/word/compensate)**：損失や被害に対して補償・賠償する
 
 payは日常的な「支払い」全般に使われますが、compensateは「損失や迷惑に対する補償」に特化しています。
 
@@ -105,14 +105,14 @@ payは日常的な「支払い」全般に使われますが、compensateは「�
 
 ## 🧩 あわせて覚えたい
 
-- [charge](/charge)：請求する
-- [reward](/reward)：報酬を与える
+- [charge](/word/charge)：請求する
+- [reward](/word/reward)：報酬を与える
 
 ---
 
 ## 📖 できればこれも
 
-- [cost](/cost)：費用がかかる
-- [earn](/earn)：稼ぐ
+- [cost](/word/cost)：費用がかかる
+- [earn](/word/earn)：稼ぐ
 
 <!-- cvid: aid47_bid03 -->

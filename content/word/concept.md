@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文や説明文で「基本的な考え方」や「
 ## 🤔  idea との違いは？
 
 - **concept**：抽象的で広い「概念」や「枠組み」を指す
-- **[idea](/idea)**：具体的な「アイデア」や「思いつき」を指す
+- **[idea](/word/idea)**：具体的な「アイデア」や「思いつき」を指す
 
 conceptは理論や計画の土台となる抽象的な枠組み、ideaは日常的なひらめきや具体的な提案に使われます。
 
@@ -105,14 +105,14 @@ conceptは理論や計画の土台となる抽象的な枠組み、ideaは日常
 
 ## 🧩 あわせて覚えたい
 
-- [theory](/theory)：理論、体系的な説明
-- [notion](/notion)：漠然とした考え、観念
+- [theory](/word/theory)：理論、体系的な説明
+- [notion](/word/notion)：漠然とした考え、観念
 
 ---
 
 ## 📖 できればこれも
 
-- [principle](/principle)：原理、基本方針
-- [approach](/approach)：取り組み方、アプローチ
+- [principle](/word/principle)：原理、基本方針
+- [approach](/word/approach)：取り組み方、アプローチ
 
 <!-- cvid: aid23_bid28 -->

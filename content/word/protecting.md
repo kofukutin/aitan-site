@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「守る」「保護する」という意味で
 ## 🤔  preventing との違いは？
 
 - **protecting**：危険や損害から「守る」「保護する」ことに重点がある
-- **[preventing](/preventing)**：何かが「起こるのを防ぐ」ことに重点がある
+- **[preventing](/word/preventing)**：何かが「起こるのを防ぐ」ことに重点がある
 
 protectingは「すでにあるものを守る」イメージ、preventingは「悪いことが起こる前に防ぐ」イメージです。
 
@@ -105,14 +105,14 @@ protectingは「すでにあるものを守る」イメージ、preventingは「
 
 ## 🧩 あわせて覚えたい
 
-- [defend](/defend)：（攻撃などから）守る、防御する
-- [guard](/guard)：警戒して守る、見張る
+- [defend](/word/defend)：（攻撃などから）守る、防御する
+- [guard](/word/guard)：警戒して守る、見張る
 
 ---
 
 ## 📖 できればこれも
 
-- [save](/save)：救う、助ける
-- [maintain](/maintain)：維持する、保つ
+- [save](/word/save)：救う、助ける
+- [maintain](/word/maintain)：維持する、保つ
 
 <!-- cvid: aid07_bid29 -->

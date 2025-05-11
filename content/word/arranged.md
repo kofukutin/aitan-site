@@ -97,7 +97,7 @@ TOEICでは「arranged meeting（手配された会議）」や「arranged seati
 ## 🤔  organized との違いは？
 
 - **arranged**：物や予定が順序よく整えられている、または事前に手配されている状態
-- **[organized](/organized)**：全体的に秩序立って管理・運営されている状態
+- **[organized](/word/organized)**：全体的に秩序立って管理・運営されている状態
 
 arrangedは「並べる・手配する」など具体的な配置や準備に焦点があり、organizedは「体系的にまとめる・管理する」といった全体の秩序や管理に重点があります。
 
@@ -105,14 +105,14 @@ arrangedは「並べる・手配する」など具体的な配置や準備に焦
 
 ## 🧩 あわせて覚えたい
 
-- [scheduled](/scheduled)：予定された
-- [prepared](/prepared)：準備された
+- [scheduled](/word/scheduled)：予定された
+- [prepared](/word/prepared)：準備された
 
 ---
 
 ## 📖 できればこれも
 
-- [planned](/planned)：計画された
-- [sorted](/sorted)：分類された
+- [planned](/word/planned)：計画された
+- [sorted](/word/sorted)：分類された
 
 <!-- cvid: aid18_bid01 -->

@@ -94,7 +94,7 @@ TOEICでは会話文や説明文で「一度も～ない」「決して～しな
 ## 🤔  ever との違いは？
 
 - **never**：一度も～ない、決して～しないと強く否定する
-- **[ever](/ever)**：今までに、かつて（疑問文や否定文で使う）
+- **[ever](/word/ever)**：今までに、かつて（疑問文や否定文で使う）
 
 neverは「一度もない」と完全否定、everは「今までに」と経験を尋ねたり否定文で使う点が異なります。
 
@@ -102,14 +102,14 @@ neverは「一度もない」と完全否定、everは「今までに」と経�
 
 ## 🧩 あわせて覚えたい
 
-- [seldom](/seldom)：めったに～しない
-- [rarely](/rarely)：ほとんど～しない
+- [seldom](/word/seldom)：めったに～しない
+- [rarely](/word/rarely)：ほとんど～しない
 
 ---
 
 ## 📖 できればこれも
 
-- [always](/always)：いつも
-- [sometimes](/sometimes)：ときどき
+- [always](/word/always)：いつも
+- [sometimes](/word/sometimes)：ときどき
 
 <!-- cvid: aid14_bid01 -->

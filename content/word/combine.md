@@ -97,7 +97,7 @@ TOEICでは「combine A with B」や「be combined with」の形で、複数の�
 ## 🤔  integrate との違いは？
 
 - **combine**：単に2つ以上のものを一緒にする、混ぜ合わせる
-- **[integrate](/integrate)**：異なるものを完全に一体化させて、調和のとれた全体にする
+- **[integrate](/word/integrate)**：異なるものを完全に一体化させて、調和のとれた全体にする
 
 combineは「混ぜる・合わせる」イメージで、integrateは「完全に溶け込ませて一体化する」ニュアンスがあります。
 
@@ -105,14 +105,14 @@ combineは「混ぜる・合わせる」イメージで、integrateは「完全�
 
 ## 🧩 あわせて覚えたい
 
-- [merge](/merge)：合併する、統合する
-- [separate](/separate)：分ける、分離する
+- [merge](/word/merge)：合併する、統合する
+- [separate](/word/separate)：分ける、分離する
 
 ---
 
 ## 📖 できればこれも
 
-- [connect](/connect)：つなぐ、接続する
-- [mix](/mix)：混ぜる
+- [connect](/word/connect)：つなぐ、接続する
+- [mix](/word/mix)：混ぜる
 
 <!-- cvid: aid00_bid11 -->

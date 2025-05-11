@@ -97,7 +97,7 @@ validationはITやビジネス文書、手続きの説明などでPart 7によ�
 ## 🤔  verification との違いは？
 
 - **validation**：正しい・有効であることを証明する「妥当性確認」
-- **[verification](/verification)**：事実や正確さを確認する「検証」
+- **[verification](/word/verification)**：事実や正確さを確認する「検証」
 
 validationは「目的や基準に合っているか」を確認するニュアンスが強く、verificationは「事実や正確さ」を確認する場面で使われます。
 
@@ -105,14 +105,14 @@ validationは「目的や基準に合っているか」を確認するニュア�
 
 ## 🧩 あわせて覚えたい
 
-- [approval](/approval)：承認
-- [authentication](/authentication)：認証
+- [approval](/word/approval)：承認
+- [authentication](/word/authentication)：認証
 
 ---
 
 ## 📖 できればこれも
 
-- [confirmation](/confirmation)：確認
-- [assessment](/assessment)：評価
+- [confirmation](/word/confirmation)：確認
+- [assessment](/word/assessment)：評価
 
 <!-- cvid: aid21_bid06 -->

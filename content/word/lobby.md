@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、建物の内部や人々が集
 ## 🤔  corridor との違いは？
 
 - **lobby**：建物の入口付近にある広い待合スペース
-- **[corridor](/corridor)**：建物内の部屋やエリアをつなぐ細長い通路
+- **[corridor](/word/corridor)**：建物内の部屋やエリアをつなぐ細長い通路
 
 lobbyは人が集まる広い空間、corridorは移動のための細長い通路を指します。
 
@@ -105,14 +105,14 @@ lobbyは人が集まる広い空間、corridorは移動のための細長い通�
 
 ## 🧩 あわせて覚えたい
 
-- [hall](/hall)：広間、会議室
-- [foyer](/foyer)：玄関ホール、ロビー
+- [hall](/word/hall)：広間、会議室
+- [foyer](/word/foyer)：玄関ホール、ロビー
 
 ---
 
 ## 📖 できればこれも
 
-- [elevator](/elevator)：エレベーター
-- [reception](/reception)：受付
+- [elevator](/word/elevator)：エレベーター
+- [reception](/word/reception)：受付
 
 <!-- cvid: aid44_bid41 -->

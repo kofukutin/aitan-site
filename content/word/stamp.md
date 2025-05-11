@@ -97,7 +97,7 @@ TOEICでは、郵便や書類関連の文脈で「stamp」が出題されるこ�
 ## 🤔  seal との違いは？
 
 - **stamp**：切手や印、スタンプなど、押して跡をつけるもの全般
-- **[seal](/seal)**：封印や公的な印章、または密封すること
+- **[seal](/word/seal)**：封印や公的な印章、または密封すること
 
 stampは日常的な「切手」や「スタンプ」を指し、sealは公式な「印章」や「封印」として使われることが多いです。
 
@@ -105,14 +105,14 @@ stampは日常的な「切手」や「スタンプ」を指し、sealは公式�
 
 ## 🧩 あわせて覚えたい
 
-- [signature](/signature)：署名
-- [postage](/postage)：郵便料金
+- [signature](/word/signature)：署名
+- [postage](/word/postage)：郵便料金
 
 ---
 
 ## 📖 できればこれも
 
-- [envelope](/envelope)：封筒
-- [document](/document)：書類
+- [envelope](/word/envelope)：封筒
+- [document](/word/document)：書類
 
 <!-- cvid: aid03_bid46 -->

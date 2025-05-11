@@ -97,7 +97,7 @@ TOEICでは「labor cost（人件費）」や「labor force（労働力）」な
 ## 🤔  work との違いは？
 
 - **labor**：肉体的・精神的な努力や労働、または労働力を指し、ややフォーマル。
-- **[work](/work)**：一般的な「仕事」「作業」全般を指し、日常的で幅広い意味。
+- **[work](/word/work)**：一般的な「仕事」「作業」全般を指し、日常的で幅広い意味。
 
 laborは特に「労働力」や「人件費」など経済・ビジネスの文脈で使われ、workは日常のあらゆる「仕事」に使われます。
 
@@ -105,14 +105,14 @@ laborは特に「労働力」や「人件費」など経済・ビジネスの文
 
 ## 🧩 あわせて覚えたい
 
-- [employment](/employment)：雇用、就職
-- [effort](/effort)：努力、尽力
+- [employment](/word/employment)：雇用、就職
+- [effort](/word/effort)：努力、尽力
 
 ---
 
 ## 📖 できればこれも
 
-- [task](/task)：課題、仕事
-- [project](/project)：プロジェクト、計画
+- [task](/word/task)：課題、仕事
+- [project](/word/project)：プロジェクト、計画
 
 <!-- cvid: aid23_bid08 -->

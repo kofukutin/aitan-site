@@ -98,7 +98,7 @@ TOEICでは、環境問題や社会的な話題、企業理念などの長文で
 ## 🤔  mankind との違いは？
 
 - **humanity**：人類全体や人間性・思いやりを表すフォーマルな語
-- **[mankind](/mankind)**：人類全体を指すやや古風な語
+- **[mankind](/word/mankind)**：人類全体を指すやや古風な語
 
 humanityは「人間性」や「思いやり」の意味も持ち、より抽象的・フォーマルな場面で使われます。mankindは「人類」という意味に特化し、やや古風な響きがあります。
 
@@ -106,14 +106,14 @@ humanityは「人間性」や「思いやり」の意味も持ち、より抽象
 
 ## 🧩 あわせて覚えたい
 
-- [compassion](/compassion)：思いやり、同情
-- [civilization](/civilization)：文明
+- [compassion](/word/compassion)：思いやり、同情
+- [civilization](/word/civilization)：文明
 
 ---
 
 ## 📖 できればこれも
 
-- [society](/society)：社会
-- [culture](/culture)：文化
+- [society](/word/society)：社会
+- [culture](/word/culture)：文化
 
 <!-- cvid: aid21_bid04 -->

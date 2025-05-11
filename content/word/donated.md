@@ -97,7 +97,7 @@ TOEICでは、寄付や社会貢献に関する記事やメール文でよく登
 ## 🤔  contribute との違いは？
 
 - **donated**：見返りを求めず、無償で物やお金を与えることを強調。
-- **[contribute](/contribute)**：寄付だけでなく、意見や労力など幅広い「貢献」を表す。
+- **[contribute](/word/contribute)**：寄付だけでなく、意見や労力など幅広い「貢献」を表す。
 
 donatedは「無償で与える」ことに焦点があり、contributeは「何かに役立つ形で参加・貢献する」広い意味で使われます。
 
@@ -105,14 +105,14 @@ donatedは「無償で与える」ことに焦点があり、contributeは「何
 
 ## 🧩 あわせて覚えたい
 
-- [offer](/offer)：申し出る、提供する
-- [provide](/provide)：供給する、与える
+- [offer](/word/offer)：申し出る、提供する
+- [provide](/word/provide)：供給する、与える
 
 ---
 
 ## 📖 できればこれも
 
-- [deliver](/deliver)：届ける、配達する
-- [support](/support)：支援する、支える
+- [deliver](/word/deliver)：届ける、配達する
+- [support](/word/support)：支援する、支える
 
 <!-- cvid: aid21_bid26 -->

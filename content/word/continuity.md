@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やプロジェクト説明などで「継続性
 ## 🤔  consistency との違いは？
 
 - **continuity**：途切れずに続くこと、連続性
-- **[consistency](/consistency)**：一貫性、矛盾がないこと
+- **[consistency](/word/consistency)**：一貫性、矛盾がないこと
 
 continuityは「中断せず続く」ことに重点があり、consistencyは「内容や方法がぶれない」ことに重点があります。
 
@@ -105,14 +105,14 @@ continuityは「中断せず続く」ことに重点があり、consistencyは�
 
 ## 🧩 あわせて覚えたい
 
-- [interruption](/interruption)：中断、妨害
-- [duration](/duration)：持続期間、継続時間
+- [interruption](/word/interruption)：中断、妨害
+- [duration](/word/duration)：持続期間、継続時間
 
 ---
 
 ## 📖 できればこれも
 
-- [sequence](/sequence)：連続、順序
-- [stability](/stability)：安定、安定性
+- [sequence](/word/sequence)：連続、順序
+- [stability](/word/stability)：安定、安定性
 
 <!-- cvid: aid09_bid01 -->

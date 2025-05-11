@@ -97,7 +97,7 @@ TOEICでは、ニュース記事や説明文、契約関連の長文で「milita
 ## 🤔  army との違いは？
 
 - **military**：軍隊全体や軍事組織を指す、より広い意味
-- **[army](/army)**：陸軍（地上部隊）を指す
+- **[army](/word/army)**：陸軍（地上部隊）を指す
 
 militaryは空軍・海軍なども含めた軍全体を指しますが、armyは「陸軍」だけを意味します。
 
@@ -105,14 +105,14 @@ militaryは空軍・海軍なども含めた軍全体を指しますが、army�
 
 ## 🧩 あわせて覚えたい
 
-- [civilian](/civilian)：民間人、一般市民
-- [defense](/defense)：防衛、守り
+- [civilian](/word/civilian)：民間人、一般市民
+- [defense](/word/defense)：防衛、守り
 
 ---
 
 ## 📖 できればこれも
 
-- [navy](/navy)：海軍
-- [weapon](/weapon)：武器
+- [navy](/word/navy)：海軍
+- [weapon](/word/weapon)：武器
 
 <!-- cvid: aid06_bid01 -->

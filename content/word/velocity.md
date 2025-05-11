@@ -97,7 +97,7 @@ TOEICでは科学技術やビジネスの説明文で見かけることがあり
 ## 🤔  speed との違いは？
 
 - **velocity**：方向を持つ「速度」。科学的・専門的な文脈で使われる。
-- **[speed](/speed)**：一般的な「速さ」。日常会話や幅広い場面で使われる。
+- **[speed](/word/speed)**：一般的な「速さ」。日常会話や幅広い場面で使われる。
 
 velocityは物理や技術分野で「方向性」を含む速度を指し、speedは単純な速さを表します。
 
@@ -105,14 +105,14 @@ velocityは物理や技術分野で「方向性」を含む速度を指し、spe
 
 ## 🧩 あわせて覚えたい
 
-- [acceleration](/acceleration)：加速度
-- [momentum](/momentum)：運動量
+- [acceleration](/word/acceleration)：加速度
+- [momentum](/word/momentum)：運動量
 
 ---
 
 ## 📖 できればこれも
 
-- [mass](/mass)：質量
-- [distance](/distance)：距離
+- [mass](/word/mass)：質量
+- [distance](/word/distance)：距離
 
 <!-- cvid: aid34_bid07 -->

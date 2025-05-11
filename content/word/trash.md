@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写や、日常的な場面の説明で「ご
 ## 🤔  garbage との違いは？
 
 - **trash**：紙くずや空き缶など、乾いたごみを指すことが多い
-- **[garbage](/garbage)**：生ごみなど、湿ったごみを指すことが多い
+- **[garbage](/word/garbage)**：生ごみなど、湿ったごみを指すことが多い
 
 trashはアメリカ英語で乾いたごみに、garbageは台所の生ごみに使われる傾向があります。
 
@@ -105,14 +105,14 @@ trashはアメリカ英語で乾いたごみに、garbageは台所の生ごみ�
 
 ## 🧩 あわせて覚えたい
 
-- [waste](/waste)：廃棄物、無駄
-- [recycle](/recycle)：リサイクルする、再利用する
+- [waste](/word/waste)：廃棄物、無駄
+- [recycle](/word/recycle)：リサイクルする、再利用する
 
 ---
 
 ## 📖 できればこれも
 
-- [bin](/bin)：ごみ箱
-- [clean](/clean)：掃除する、きれいな
+- [bin](/word/bin)：ごみ箱
+- [clean](/word/clean)：掃除する、きれいな
 
 <!-- cvid: aid28_bid40 -->

@@ -97,7 +97,7 @@ TOEICでは、ウェブサイトや広告、テレビ番組の説明文などで
 ## 🤔  audience との違いは？
 
 - **viewer**：テレビや動画など「画面を見る人」「視聴者」
-- **[audience](/audience)**：コンサートや講演など「聴衆」「観客」
+- **[audience](/word/audience)**：コンサートや講演など「聴衆」「観客」
 
 「viewer」は主に映像や画面を見る人を指し、「audience」は音楽や演劇などを聴いたり観たりする集団全体を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、ウェブサイトや広告、テレビ番組の説明文などで
 
 ## 🧩 あわせて覚えたい
 
-- [spectator](/spectator)：（スポーツなどの）観客
-- [user](/user)：利用者、ユーザー
+- [spectator](/word/spectator)：（スポーツなどの）観客
+- [user](/word/user)：利用者、ユーザー
 
 ---
 
 ## 📖 できればこれも
 
-- [subscriber](/subscriber)：購読者、登録者
-- [participant](/participant)：参加者
+- [subscriber](/word/subscriber)：購読者、登録者
+- [participant](/word/participant)：参加者
 
 <!-- cvid: aid05_bid39 -->

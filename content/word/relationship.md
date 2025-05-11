@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やEメール、記事などの長文で「�
 ## 🤔  connection との違いは？
 
 - **relationship**：人や組織などの間にある継続的・感情的な「関係」
-- **[connection](/connection)**：物理的・論理的な「つながり」や「関連」
+- **[connection](/word/connection)**：物理的・論理的な「つながり」や「関連」
 
 relationshipは人間関係や長期的なつながりを強調し、connectionは一時的・技術的なつながりや関連性を指すことが多いです。
 
@@ -105,14 +105,14 @@ relationshipは人間関係や長期的なつながりを強調し、connection�
 
 ## 🧩 あわせて覚えたい
 
-- [partnership](/partnership)：協力関係、提携
-- [bond](/bond)：絆、結びつき
+- [partnership](/word/partnership)：協力関係、提携
+- [bond](/word/bond)：絆、結びつき
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/agreement)：合意、契約
-- [contact](/contact)：連絡先、接触
+- [agreement](/word/agreement)：合意、契約
+- [contact](/word/contact)：連絡先、接触
 
 <!-- cvid: aid27_bid33 -->

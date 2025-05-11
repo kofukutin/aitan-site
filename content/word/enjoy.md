@@ -99,7 +99,7 @@ TOEICでは、会話や案内文などで「楽しむ」「満喫する」とい
 ## 🤔  like との違いは？
 
 - **enjoy**：実際に体験して「楽しい」と感じるときに使う
-- **[like](/like)**：単に「好き」「好み」であることを表す
+- **[like](/word/like)**：単に「好き」「好み」であることを表す
 
 enjoyは「実際にやって楽しい」ときに使い、likeは「好み」や「興味」を広く表します。
 
@@ -107,14 +107,14 @@ enjoyは「実際にやって楽しい」ときに使い、likeは「好み」�
 
 ## 🧩 あわせて覚えたい
 
-- [appreciate](/appreciate)：感謝する、価値を認める
-- [prefer](/prefer)：より好む
+- [appreciate](/word/appreciate)：感謝する、価値を認める
+- [prefer](/word/prefer)：より好む
 
 ---
 
 ## 📖 できればこれも
 
-- [participate](/participate)：参加する
-- [attend](/attend)：出席する
+- [participate](/word/participate)：参加する
+- [attend](/word/attend)：出席する
 
 <!-- cvid: aid05_bid17 -->

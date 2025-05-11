@@ -96,7 +96,7 @@ TOEICでは主にPart 1の写真描写で、ベッドや寝具の説明として
 ## 🤔  blanket との違いは？
 
 - **quilt**：中綿入りで縫い合わせた厚手の掛け布団や装飾的なベッドカバー。
-- **[blanket](/blanket)**：一般的な毛布や薄手の掛け布、素材や厚みはさまざま。
+- **[blanket](/word/blanket)**：一般的な毛布や薄手の掛け布、素材や厚みはさまざま。
 
 quiltは装飾性や厚みが特徴で、blanketはより広く「毛布」全般を指します。
 
@@ -104,14 +104,14 @@ quiltは装飾性や厚みが特徴で、blanketはより広く「毛布」全�
 
 ## 🧩 あわせて覚えたい
 
-- [comforter](/comforter)：中綿入りの掛け布団（特にアメリカ英語）
-- [duvet](/duvet)：羽毛や綿入りの掛け布団（主にヨーロッパで使用）
+- [comforter](/word/comforter)：中綿入りの掛け布団（特にアメリカ英語）
+- [duvet](/word/duvet)：羽毛や綿入りの掛け布団（主にヨーロッパで使用）
 
 ---
 
 ## 📖 できればこれも
 
-- [pillow](/pillow)：枕
-- [sheet](/sheet)：シーツ
+- [pillow](/word/pillow)：枕
+- [sheet](/word/sheet)：シーツ
 
 <!-- cvid: aid13_bid18 -->

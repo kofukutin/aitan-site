@@ -97,7 +97,7 @@ TOEICでは主に会社の財務状況や資金調達、経済記事などの文
 ## 🤔  funding との違いは？
 
 - **finance**：お金の管理や財務全般、資金そのものを指す
-- **[funding](/funding)**：特定の目的のための「資金提供」「資金調達」を指す
+- **[funding](/word/funding)**：特定の目的のための「資金提供」「資金調達」を指す
 
 financeは広く「財務活動」や「資金全体」を表し、fundingは「特定のプロジェクトや目的のために集めるお金」に限定されます。
 
@@ -105,14 +105,14 @@ financeは広く「財務活動」や「資金全体」を表し、fundingは「
 
 ## 🧩 あわせて覚えたい
 
-- [investment](/investment)：投資
-- [budget](/budget)：予算
+- [investment](/word/investment)：投資
+- [budget](/word/budget)：予算
 
 ---
 
 ## 📖 できればこれも
 
-- [account](/account)：口座、会計
-- [loan](/loan)：ローン、融資
+- [account](/word/account)：口座、会計
+- [loan](/word/loan)：ローン、融資
 
 <!-- cvid: aid00_bid11 -->

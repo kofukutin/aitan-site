@@ -97,7 +97,7 @@ TOEICでは、会議やビジネスシーンで「問題や困難に遭遇する
 ## 🤔  faced との違いは？
 
 - **encountered**：思いがけず何かに遭遇した、偶然出会った
-- **[faced](/faced)**：困難や問題に「直面した」、向き合った
+- **[faced](/word/faced)**：困難や問題に「直面した」、向き合った
 
 encounteredは「予期せず出会う」ニュアンスが強く、facedは「避けられない問題に立ち向かう」場面で使われます。
 
@@ -105,14 +105,14 @@ encounteredは「予期せず出会う」ニュアンスが強く、facedは「�
 
 ## 🧩 あわせて覚えたい
 
-- [meet](/meet)：会う、出会う
-- [overcome](/overcome)：克服する
+- [meet](/word/meet)：会う、出会う
+- [overcome](/word/overcome)：克服する
 
 ---
 
 ## 📖 できればこれも
 
-- [address](/address)：対処する、取り組む
-- [handle](/handle)：扱う、処理する
+- [address](/word/address)：対処する、取り組む
+- [handle](/word/handle)：扱う、処理する
 
 <!-- cvid: aid44_bid37 -->

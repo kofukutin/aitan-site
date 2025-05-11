@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人物がネックレスを身につ
 ## 🤔  pendant との違いは？
 
 - **necklace**：首にかけるチェーンやひも全体、またはその装飾品全体を指す。
-- **[pendant](/pendant)**：ネックレスなどにぶら下がる「ペンダントトップ」部分のみを指す。
+- **[pendant](/word/pendant)**：ネックレスなどにぶら下がる「ペンダントトップ」部分のみを指す。
 
 necklaceは首にかける全体を指し、pendantはその一部である飾り部分だけを意味します。
 
@@ -105,14 +105,14 @@ necklaceは首にかける全体を指し、pendantはその一部である飾�
 
 ## 🧩 あわせて覚えたい
 
-- [bracelet](/bracelet)：腕輪、ブレスレット
-- [ring](/ring)：指輪
+- [bracelet](/word/bracelet)：腕輪、ブレスレット
+- [ring](/word/ring)：指輪
 
 ---
 
 ## 📖 できればこれも
 
-- [earring](/earring)：イヤリング、ピアス
-- [jewelry](/jewelry)：宝石類、ジュエリー全般
+- [earring](/word/earring)：イヤリング、ピアス
+- [jewelry](/word/jewelry)：宝石類、ジュエリー全般
 
 <!-- cvid: aid16_bid22 -->

@@ -97,7 +97,7 @@ TOEICでは、電話対応や会議、医療現場などの会話で「緊急事
 ## 🤔  crisis との違いは？
 
 - **emergency**：突然発生し、即座の対応が必要な緊急事態
-- **[crisis](/crisis)**：深刻で重大な危機的状況、長期的な影響を及ぼすことが多い
+- **[crisis](/word/crisis)**：深刻で重大な危機的状況、長期的な影響を及ぼすことが多い
 
 emergencyは「今すぐ対応が必要な緊急事態」、crisisは「社会や組織全体に大きな影響を与える深刻な危機」という違いがあります。
 
@@ -105,14 +105,14 @@ emergencyは「今すぐ対応が必要な緊急事態」、crisisは「社会�
 
 ## 🧩 あわせて覚えたい
 
-- [accident](/accident)：事故、思いがけない出来事
-- [incident](/incident)：出来事、事件（特に小規模なもの）
+- [accident](/word/accident)：事故、思いがけない出来事
+- [incident](/word/incident)：出来事、事件（特に小規模なもの）
 
 ---
 
 ## 📖 できればこれも
 
-- [urgent](/urgent)：緊急の、急を要する
-- [ambulance](/ambulance)：救急車
+- [urgent](/word/urgent)：緊急の、急を要する
+- [ambulance](/word/ambulance)：救急車
 
 <!-- cvid: aid49_bid29 -->

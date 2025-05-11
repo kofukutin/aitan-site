@@ -97,7 +97,7 @@ localeはITやビジネス文書、説明文などで見かけることが多く
 ## 🤔  location との違いは？
 
 - **locale**：特定の出来事や活動が行われる場所、またはITでの地域設定
-- **[location](/location)**：単に「場所」「位置」を指す一般的な語
+- **[location](/word/location)**：単に「場所」「位置」を指す一般的な語
 
 localeは「雰囲気」や「文化的背景」も含む場合や、IT分野での「言語・地域設定」を指す時に使われますが、locationは物理的な位置や住所を表すのが主です。
 
@@ -105,14 +105,14 @@ localeは「雰囲気」や「文化的背景」も含む場合や、IT分野で
 
 ## 🧩 あわせて覚えたい
 
-- [region](/region)：地域、地方
-- [setting](/setting)：設定、環境、背景
+- [region](/word/region)：地域、地方
+- [setting](/word/setting)：設定、環境、背景
 
 ---
 
 ## 📖 できればこれも
 
-- [venue](/venue)：会場、開催地
-- [area](/area)：区域、地域
+- [venue](/word/venue)：会場、開催地
+- [area](/word/area)：区域、地域
 
 <!-- cvid: aid00_bid04 -->

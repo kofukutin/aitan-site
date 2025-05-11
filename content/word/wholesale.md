@@ -97,7 +97,7 @@ TOEICではビジネス文書や取引に関する長文でよく登場します
 ## 🤔  retail との違いは？
 
 - **wholesale**：商品を大量にまとめて業者に売る「卸売」
-- **[retail](/retail)**：商品を消費者に少量ずつ売る「小売」
+- **[retail](/word/retail)**：商品を消費者に少量ずつ売る「小売」
 
 wholesaleは主に業者間の大量取引、retailは消費者向けの少量販売で使い分けます。
 
@@ -105,13 +105,13 @@ wholesaleは主に業者間の大量取引、retailは消費者向けの少量�
 
 ## 🧩 あわせて覚えたい
 
-- [distributor](/distributor)：流通業者
-- [supplier](/supplier)：供給業者
+- [distributor](/word/distributor)：流通業者
+- [supplier](/word/supplier)：供給業者
 
 ---
 
 ## 📖 できればこれも
 
-- [inventory](/inventory)：在庫
-- [shipment](/shipment)：出荷
+- [inventory](/word/inventory)：在庫
+- [shipment](/word/shipment)：出荷
 <!-- cvid: aid41_bid24 -->

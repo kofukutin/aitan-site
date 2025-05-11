@@ -97,7 +97,7 @@ TOEICでは主にPart 5の文法・語彙問題で「影響を与える」とい
 ## 🤔  influence との違いは？
 
 - **affect**：直接的・一時的に「影響を与える」ことを表す
-- **[influence](/influence)**：間接的・長期的に「影響を及ぼす」ことを表す
+- **[influence](/word/influence)**：間接的・長期的に「影響を及ぼす」ことを表す
 
 affectは短期的・直接的な作用を指し、influenceは人や状況にじわじわと影響を与えるニュアンスです。
 
@@ -105,15 +105,15 @@ affectは短期的・直接的な作用を指し、influenceは人や状況に�
 
 ## 🧩 あわせて覚えたい
 
-- [impact](/impact)：強い影響、衝撃
-- [determine](/determine)：決定する、左右する
+- [impact](/word/impact)：強い影響、衝撃
+- [determine](/word/determine)：決定する、左右する
 
 ---
 
 ## 📖 できればこれも
 
-- [effect](/effect)：効果、影響（名詞）
-- [result](/result)：結果、成り行き
+- [effect](/word/effect)：効果、影響（名詞）
+- [result](/word/result)：結果、成り行き
 
 
 <!-- cvid: aid27_bid21 -->

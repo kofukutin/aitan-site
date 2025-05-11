@@ -97,7 +97,7 @@ TOEICのPart 7で「文章の一部」「抜粋」を指す語として頻出し
 ## 🤔  paragraph との違いは？
 
 - **passage**：文章や本の中の「一節」「抜粋」など、まとまりのある部分全体を指す。
-- **[paragraph](/paragraph)**：文章の中の「段落」を指し、内容や構成上の区切りを強調する。
+- **[paragraph](/word/paragraph)**：文章の中の「段落」を指し、内容や構成上の区切りを強調する。
 
 passageは文章の一部として幅広く使われ、paragraphは明確な段落構造を指します。
 
@@ -105,14 +105,14 @@ passageは文章の一部として幅広く使われ、paragraphは明確な段�
 
 ## 🧩 あわせて覚えたい
 
-- [section](/section)：（本や文章の）区分、セクション
-- [excerpt](/excerpt)：抜粋、引用部分
+- [section](/word/section)：（本や文章の）区分、セクション
+- [excerpt](/word/excerpt)：抜粋、引用部分
 
 ---
 
 ## 📖 できればこれも
 
-- [article](/article)：記事、論説
-- [sentence](/sentence)：文、センテンス
+- [article](/word/article)：記事、論説
+- [sentence](/word/sentence)：文、センテンス
 
 <!-- cvid: aid09_bid11 -->

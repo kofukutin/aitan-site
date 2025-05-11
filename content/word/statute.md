@@ -96,7 +96,7 @@ TOEICでは主に契約書や法的文書、規約説明などの長文読解パ
 ## 🤔  regulation との違いは？
 
 - **statute**：議会などで正式に制定された法律や法令を指す、よりフォーマルで広範な意味。
-- **[regulation](/regulation)**：特定の分野や組織内で定められた細かな規則や規定を指す。
+- **[regulation](/word/regulation)**：特定の分野や組織内で定められた細かな規則や規定を指す。
 
 statuteは国や州レベルの「法律」、regulationはその法律に基づく「細則・規則」といった違いがあります。
 
@@ -104,14 +104,14 @@ statuteは国や州レベルの「法律」、regulationはその法律に基づ
 
 ## 🧩 あわせて覚えたい
 
-- [ordinance](/ordinance)：条例（地方自治体が定める法規）
-- [law](/law)：法律（最も一般的な法の総称）
+- [ordinance](/word/ordinance)：条例（地方自治体が定める法規）
+- [law](/word/law)：法律（最も一般的な法の総称）
 
 ---
 
 ## 📖 できればこれも
 
-- [clause](/clause)：条項（契約や法律の一部となる文）
-- [policy](/policy)：方針、政策（組織や政府の基本的な指針）
+- [clause](/word/clause)：条項（契約や法律の一部となる文）
+- [policy](/word/policy)：方針、政策（組織や政府の基本的な指針）
 
 <!-- cvid: aid15_bid37 -->

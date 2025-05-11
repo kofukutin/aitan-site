@@ -98,7 +98,7 @@ TOEICでは主にPart 7のビジネス文書やEメール、案内文などで�
 ## 🤔  company との違いは？
 
 - **corporate**：企業や法人に関する形容詞。組織全体やビジネスの側面を強調。
-- **[company](/company)**：会社そのものを指す名詞。具体的な企業や団体を表す。
+- **[company](/word/company)**：会社そのものを指す名詞。具体的な企業や団体を表す。
 
 corporateは「企業の～」という形容詞で、抽象的・全体的な組織や方針に使われます。companyは「会社」という具体的な存在を指します。
 
@@ -106,14 +106,14 @@ corporateは「企業の～」という形容詞で、抽象的・全体的な�
 
 ## 🧩 あわせて覚えたい
 
-- [enterprise](/enterprise)：企業、事業体
-- [individual](/individual)：個人
+- [enterprise](/word/enterprise)：企業、事業体
+- [individual](/word/individual)：個人
 
 ---
 
 ## 📖 できればこれも
 
-- [commercial](/commercial)：商業の、商業的な
-- [organization](/organization)：組織、団体
+- [commercial](/word/commercial)：商業の、商業的な
+- [organization](/word/organization)：組織、団体
 
 <!-- cvid: aid49_bid03 -->

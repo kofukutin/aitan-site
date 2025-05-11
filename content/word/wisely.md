@@ -97,7 +97,7 @@ wiselyはTOEICの文法・語彙問題（Part 5）で、副詞の使い分けや
 ## 🤔  smartly との違いは？
 
 - **wisely**：知恵や経験に基づいて賢明に判断・行動すること
-- **[smartly](/smartly)**：頭の回転が速い、または見た目や動作がきびきびしていること
+- **[smartly](/word/smartly)**：頭の回転が速い、または見た目や動作がきびきびしていること
 
 wiselyは「深い知恵や慎重さ」を強調し、smartlyは「機転の良さ」や「見た目の良さ」にも使われます。
 
@@ -105,14 +105,14 @@ wiselyは「深い知恵や慎重さ」を強調し、smartlyは「機転の良�
 
 ## 🧩 あわせて覚えたい
 
-- [prudently](/prudently)：用心深く、慎重に
-- [foolishly](/foolishly)：愚かに、ばかげて
+- [prudently](/word/prudently)：用心深く、慎重に
+- [foolishly](/word/foolishly)：愚かに、ばかげて
 
 ---
 
 ## 📖 できればこれも
 
-- [carefully](/carefully)：注意深く
-- [effectively](/effectively)：効果的に
+- [carefully](/word/carefully)：注意深く
+- [effectively](/word/effectively)：効果的に
 
 <!-- cvid: aid34_bid26 -->

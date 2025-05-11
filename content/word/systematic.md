@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や説明文で「systematic approach」など�
 ## 🤔  methodical との違いは？
 
 - **systematic**：全体のシステムや計画に従って組織的に行う
-- **[methodical](/methodical)**：一つ一つの手順や方法を丁寧に守って行う
+- **[methodical](/word/methodical)**：一つ一つの手順や方法を丁寧に守って行う
 
 systematicは「全体の枠組みやシステムに沿っている」ニュアンスが強く、methodicalは「細かい手順や順序を守る」点が強調されます。
 
@@ -105,14 +105,14 @@ systematicは「全体の枠組みやシステムに沿っている」ニュア�
 
 ## 🧩 あわせて覚えたい
 
-- [organized](/organized)：整理された、組織的な
-- [chaotic](/chaotic)：混沌とした、無秩序な
+- [organized](/word/organized)：整理された、組織的な
+- [chaotic](/word/chaotic)：混沌とした、無秩序な
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/efficient)：効率的な
-- [logical](/logical)：論理的な
+- [efficient](/word/efficient)：効率的な
+- [logical](/word/logical)：論理的な
 
 <!-- cvid: aid23_bid38 -->

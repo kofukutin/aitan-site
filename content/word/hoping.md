@@ -97,7 +97,7 @@ TOEICでは会話やメール文中で「～を期待している」「～を願
 ## 🤔  wishing との違いは？
 
 - **hoping**：実現の可能性があることを前向きに期待する
-- **[wishing](/wishing)**：実現が難しいことや空想的な願いにも使う
+- **[wishing](/word/wishing)**：実現が難しいことや空想的な願いにも使う
 
 hopingは「叶うかもしれない」という前向きな期待、wishingは「叶えばいいな」という願望や空想的な気持ちに使い分けます。
 
@@ -105,14 +105,14 @@ hopingは「叶うかもしれない」という前向きな期待、wishingは�
 
 ## 🧩 あわせて覚えたい
 
-- [expect](/expect)：予期する、期待する
-- [desire](/desire)：強く望む、欲する
+- [expect](/word/expect)：予期する、期待する
+- [desire](/word/desire)：強く望む、欲する
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/plan)：計画する
-- [try](/try)：試みる、努力する
+- [plan](/word/plan)：計画する
+- [try](/word/try)：試みる、努力する
 
 <!-- cvid: aid12_bid02 -->

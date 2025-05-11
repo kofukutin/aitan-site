@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、調理器具やイベントの場面で
 ## 🤔  blender との違いは？
 
 - **mixer**：材料を混ぜる機械全般や、交流会の意味もある
-- **[blender](/blender)**：主に液体や柔らかいものを細かく砕いて混ぜる機械
+- **[blender](/word/blender)**：主に液体や柔らかいものを細かく砕いて混ぜる機械
 
 mixerは「混ぜる」こと全般に使い、blenderは特にスムージーやスープなどを作るときの「攪拌機」に限定されます。
 
@@ -105,14 +105,14 @@ mixerは「混ぜる」こと全般に使い、blenderは特にスムージー�
 
 ## 🧩 あわせて覚えたい
 
-- [stirrer](/stirrer)：かき混ぜる道具
-- [meeting](/meeting)：会議、集まり
+- [stirrer](/word/stirrer)：かき混ぜる道具
+- [meeting](/word/meeting)：会議、集まり
 
 ---
 
 ## 📖 できればこれも
 
-- [speaker](/speaker)：スピーカー、話者
-- [projector](/projector)：プロジェクター
+- [speaker](/word/speaker)：スピーカー、話者
+- [projector](/word/projector)：プロジェクター
 
 <!-- cvid: aid45_bid06 -->

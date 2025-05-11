@@ -96,7 +96,7 @@ TOEICでは、契約書や同意書、法的な説明文などで「guardian」�
 ## 🤔  protector との違いは？
 
 - **guardian**：法的・公式な「保護者」「後見人」
-- **[protector](/protector)**：一般的な「守る人」「保護者」
+- **[protector](/word/protector)**：一般的な「守る人」「保護者」
 
 guardianは法律や制度上の責任を持つ保護者を指し、protectorは広く「守る人」という意味で使われます。
 
@@ -104,14 +104,14 @@ guardianは法律や制度上の責任を持つ保護者を指し、protectorは
 
 ## 🧩 あわせて覚えたい
 
-- [custodian](/custodian)：管理人、保管者
-- [ward](/ward)：被後見人、保護される人
+- [custodian](/word/custodian)：管理人、保管者
+- [ward](/word/ward)：被後見人、保護される人
 
 ---
 
 ## 📖 できればこれも
 
-- [trustee](/trustee)：信託受託者、財産管理人
-- [supervisor](/supervisor)：監督者、指導者
+- [trustee](/word/trustee)：信託受託者、財産管理人
+- [supervisor](/word/supervisor)：監督者、指導者
 
 <!-- cvid: aid48_bid19 -->

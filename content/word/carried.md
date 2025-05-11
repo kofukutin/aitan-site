@@ -97,7 +97,7 @@ TOEICでは、物や書類の移動、業務の流れを説明する場面でよ
 ## 🤔  transported との違いは？
 
 - **carried**：一般的に「手で持つ」「運ぶ」など幅広く使う
-- **[transported](/transported)**：特に「大量・長距離・乗り物で運ぶ」ニュアンスが強い
+- **[transported](/word/transported)**：特に「大量・長距離・乗り物で運ぶ」ニュアンスが強い
 
 carriedは日常的な「運ぶ」全般に使えますが、transportedはよりフォーマルで規模の大きな移動に使われます。
 
@@ -105,14 +105,14 @@ carriedは日常的な「運ぶ」全般に使えますが、transportedはよ�
 
 ## 🧩 あわせて覚えたい
 
-- [deliver](/deliver)：配達する、届ける
-- [move](/move)：動かす、移動する
+- [deliver](/word/deliver)：配達する、届ける
+- [move](/word/move)：動かす、移動する
 
 ---
 
 ## 📖 できればこれも
 
-- [bring](/bring)：持ってくる
-- [send](/send)：送る
+- [bring](/word/bring)：持ってくる
+- [send](/word/send)：送る
 
 <!-- cvid: aid48_bid16 -->

@@ -97,7 +97,7 @@ TOEICでは、ビジネスメールや手紙の文中で「enclosed document」�
 ## 🤔  attached との違いは？
 
 - **enclosed**：書類や物理的なものが「同封された」「囲まれた」ことを強調
-- **[attached](/attached)**：主にメールなどで「添付された」ことを指す
+- **[attached](/word/attached)**：主にメールなどで「添付された」ことを指す
 
 enclosedは封筒や書類など物理的に「中に入っている」ニュアンスが強く、attachedはデータやファイルが「添付」されている場合に使います。
 
@@ -105,14 +105,14 @@ enclosedは封筒や書類など物理的に「中に入っている」ニュア
 
 ## 🧩 あわせて覚えたい
 
-- [included](/included)：含まれている
-- [sealed](/sealed)：封がされた
+- [included](/word/included)：含まれている
+- [sealed](/word/sealed)：封がされた
 
 ---
 
 ## 📖 できればこれも
 
-- [attached](/attached)：添付された
-- [included](/included)：含まれている
+- [attached](/word/attached)：添付された
+- [included](/word/included)：含まれている
 
 <!-- cvid: aid35_bid31 -->

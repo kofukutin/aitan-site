@@ -97,7 +97,7 @@ TOEICでは「配役する」「投げる」「投じる」など複数の意味
 ## 🤔  throw との違いは？
 
 - **cast**：目的や意図を持って何かを投げる・配役するなど幅広い意味で使う
-- **[throw](/throw)**：単純に物を投げる動作を表す
+- **[throw](/word/throw)**：単純に物を投げる動作を表す
 
 castは比喩的な使い方や配役など抽象的な意味も多く、throwは物理的な「投げる」に限定されることが多いです。
 
@@ -105,14 +105,14 @@ castは比喩的な使い方や配役など抽象的な意味も多く、throw�
 
 ## 🧩 あわせて覚えたい
 
-- [assign](/assign)：割り当てる
-- [select](/select)：選ぶ
+- [assign](/word/assign)：割り当てる
+- [select](/word/select)：選ぶ
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/present)：提示する、発表する
-- [submit](/submit)：提出する
+- [present](/word/present)：提示する、発表する
+- [submit](/word/submit)：提出する
 
 <!-- cvid: aid23_bid08 -->

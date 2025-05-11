@@ -97,7 +97,7 @@ TOEICのPart 1（写真描写問題）で頻出する単語です。写真や画
 ## 🤔  picture との違いは？
 
 - **photograph**：カメラで撮影された写真を指し、ややフォーマル。
-- **[picture](/picture)**：写真だけでなく絵やイラストなど広い意味で「絵・画像」を指す。
+- **[picture](/word/picture)**：写真だけでなく絵やイラストなど広い意味で「絵・画像」を指す。
 
 photographは「写真」に限定され、pictureは「絵」や「画像」全般に使われます。
 
@@ -105,14 +105,14 @@ photographは「写真」に限定され、pictureは「絵」や「画像」全
 
 ## 🧩 あわせて覚えたい
 
-- [snapshot](/snapshot)：スナップ写真、瞬間的に撮った写真
-- [image](/image)：画像、映像（写真以外も含む広い意味）
+- [snapshot](/word/snapshot)：スナップ写真、瞬間的に撮った写真
+- [image](/word/image)：画像、映像（写真以外も含む広い意味）
 
 ---
 
 ## 📖 できればこれも
 
-- [camera](/camera)：カメラ、撮影機器
-- [gallery](/gallery)：ギャラリー、美術館、写真展
+- [camera](/word/camera)：カメラ、撮影機器
+- [gallery](/word/gallery)：ギャラリー、美術館、写真展
 
 <!-- cvid: aid04_bid21 -->

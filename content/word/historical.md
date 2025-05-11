@@ -97,7 +97,7 @@ TOEICでは、歴史的背景や過去の出来事に関する説明文や記事
 ## 🤔  historic との違いは？
 
 - **historical**：歴史に関する、歴史上の
-- **[historic](/historic)**：歴史的に重要な、歴史に残る
+- **[historic](/word/historic)**：歴史的に重要な、歴史に残る
 
 historicalは「歴史に関係する一般的な事柄」に使い、historicは「歴史的に重要な出来事や物」に使います。
 
@@ -105,14 +105,14 @@ historicalは「歴史に関係する一般的な事柄」に使い、historic�
 
 ## 🧩 あわせて覚えたい
 
-- [ancient](/ancient)：古代の、昔の
-- [modern](/modern)：現代の、近代の
+- [ancient](/word/ancient)：古代の、昔の
+- [modern](/word/modern)：現代の、近代の
 
 ---
 
 ## 📖 できればこれも
 
-- [cultural](/cultural)：文化の、文化的な
-- [traditional](/traditional)：伝統的な
+- [cultural](/word/cultural)：文化の、文化的な
+- [traditional](/word/traditional)：伝統的な
 
 <!-- cvid: aid14_bid04 -->

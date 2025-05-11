@@ -98,7 +98,7 @@ TOEICでは、素材や部品の説明、製造業関連の文脈で出題され
 ## 🤔  copper との違いは？
 
 - **brass**：銅と亜鉛を混ぜた合金（真鍮）や金管楽器を指す
-- **[copper](/copper)**：元素としての「銅」そのもの
+- **[copper](/word/copper)**：元素としての「銅」そのもの
 
 brassは複数の金属を混ぜた合金、copperは純粋な金属としての銅を指します。
 
@@ -106,14 +106,14 @@ brassは複数の金属を混ぜた合金、copperは純粋な金属としての
 
 ## 🧩 あわせて覚えたい
 
-- [bronze](/bronze)：青銅（銅とスズの合金）
-- [metal](/metal)：金属
+- [bronze](/word/bronze)：青銅（銅とスズの合金）
+- [metal](/word/metal)：金属
 
 ---
 
 ## 📖 できればこれも
 
-- [iron](/iron)：鉄
-- [steel](/steel)：鋼（はがね）
+- [iron](/word/iron)：鉄
+- [steel](/word/steel)：鋼（はがね）
 
 <!-- cvid: aid14_bid41 -->

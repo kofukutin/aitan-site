@@ -97,7 +97,7 @@ TOEICでは主に科学や医療関連の長文読解問題で登場し、専門
 ## 🤔  anatomy との違いは？
 
 - **physiology**：生物の体の「働き」や「機能」を研究する学問
-- **[anatomy](/anatomy)**：生物の体の「構造」や「形」を研究する学問
+- **[anatomy](/word/anatomy)**：生物の体の「構造」や「形」を研究する学問
 
 physiologyは「どう動くか・どう機能するか」に注目し、anatomyは「どんな形・構造か」に注目します。
 
@@ -105,14 +105,14 @@ physiologyは「どう動くか・どう機能するか」に注目し、anatomy
 
 ## 🧩 あわせて覚えたい
 
-- [biology](/biology)：生物学
-- [pathology](/pathology)：病理学（病気の原因や変化を研究する学問）
+- [biology](/word/biology)：生物学
+- [pathology](/word/pathology)：病理学（病気の原因や変化を研究する学問）
 
 ---
 
 ## 📖 できればこれも
 
-- [biochemistry](/biochemistry)：生化学
-- [organism](/organism)：生物、有機体
+- [biochemistry](/word/biochemistry)：生化学
+- [organism](/word/organism)：生物、有機体
 
 <!-- cvid: aid40_bid16 -->

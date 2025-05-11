@@ -97,7 +97,7 @@ TOEICでは災害や経済危機、企業の損失など深刻な被害を説明
 ## 🤔  destroy との違いは？
 
 - **devastate**：壊滅的な被害や精神的ショックを強調する
-- **[destroy](/destroy)**：単に「破壊する」「壊す」という意味
+- **[destroy](/word/destroy)**：単に「破壊する」「壊す」という意味
 
 devastateは「完全に打ちのめす」「壊滅させる」といった深刻さや感情的なダメージを含みますが、destroyは物理的に「壊す」ことに重点があります。
 
@@ -105,14 +105,14 @@ devastateは「完全に打ちのめす」「壊滅させる」といった深�
 
 ## 🧩 あわせて覚えたい
 
-- [ruin](/ruin)：台無しにする、破滅させる
-- [recover](/recover)：回復する、取り戻す
+- [ruin](/word/ruin)：台無しにする、破滅させる
+- [recover](/word/recover)：回復する、取り戻す
 
 ---
 
 ## 📖 できればこれも
 
-- [collapse](/collapse)：崩壊する、倒れる
-- [damage](/damage)：損害を与える、傷つける
+- [collapse](/word/collapse)：崩壊する、倒れる
+- [damage](/word/damage)：損害を与える、傷つける
 
 <!-- cvid: aid46_bid09 -->

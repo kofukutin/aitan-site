@@ -97,7 +97,7 @@ TOEICでは、学問分野や研究に関する長文や記事で登場するこ
 ## 🤔  sociology との違いは？
 
 - **anthropology**：人間全体の起源や文化、進化などを幅広く研究する学問
-- **[sociology](/sociology)**：社会の構造や集団、社会的行動などを分析する学問
+- **[sociology](/word/sociology)**：社会の構造や集団、社会的行動などを分析する学問
 
 anthropologyは人類そのものや文化の成り立ちに焦点を当て、sociologyは現代社会の仕組みや人間関係に注目します。
 
@@ -105,14 +105,14 @@ anthropologyは人類そのものや文化の成り立ちに焦点を当て、so
 
 ## 🧩 あわせて覚えたい
 
-- [archaeology](/archaeology)：考古学（過去の人類の遺物や遺跡を研究する学問）
-- [psychology](/psychology)：心理学（人間の心や行動を研究する学問）
+- [archaeology](/word/archaeology)：考古学（過去の人類の遺物や遺跡を研究する学問）
+- [psychology](/word/psychology)：心理学（人間の心や行動を研究する学問）
 
 ---
 
 ## 📖 できればこれも
 
-- [biology](/biology)：生物学（生物全般を研究する学問）
-- [philosophy](/philosophy)：哲学（存在や知識、価値などを探究する学問）
+- [biology](/word/biology)：生物学（生物全般を研究する学問）
+- [philosophy](/word/philosophy)：哲学（存在や知識、価値などを探究する学問）
 
 <!-- cvid: aid39_bid47 -->

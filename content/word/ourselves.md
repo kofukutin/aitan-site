@@ -101,14 +101,14 @@ TOEICでは会話文や指示文で「自分たちで～する」という意味
 
 ## 🧩 あわせて覚えたい
 
-- [myself](/myself)：私自身
-- [themselves](/themselves)：彼ら自身
+- [myself](/word/myself)：私自身
+- [themselves](/word/themselves)：彼ら自身
 
 ---
 
 ## 📖 できればこれも
 
-- [yourself](/yourself)：あなた自身
+- [yourself](/word/yourself)：あなた自身
 - [one another](/one another)：お互いに（each otherとほぼ同じ意味）
 
 <!-- cvid: aid38_bid05 -->

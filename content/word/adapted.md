@@ -97,7 +97,7 @@ TOEICではPart 5の語彙・文法問題で、「adapted for/to」などの形�
 ## 🤔  suitable との違いは？
 
 - **adapted**：もともと何かを特定の目的や状況に合わせて調整・変更したことを強調。
-- **[suitable](/suitable)**：もともとそのままで「ふさわしい」「適している」という意味。
+- **[suitable](/word/suitable)**：もともとそのままで「ふさわしい」「適している」という意味。
 
 adaptedは「手を加えて合うようにした」ニュアンス、suitableは「もともと合っている」ニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ adaptedは「手を加えて合うようにした」ニュアンス、suitable�
 
 ## 🧩 あわせて覚えたい
 
-- [customized](/customized)：顧客の要望に合わせてカスタマイズされた
-- [modified](/modified)：修正された、変更された
+- [customized](/word/customized)：顧客の要望に合わせてカスタマイズされた
+- [modified](/word/modified)：修正された、変更された
 
 ---
 
 ## 📖 できればこれも
 
-- [adjusted](/adjusted)：調整された
-- [applicable](/applicable)：適用できる、当てはまる
+- [adjusted](/word/adjusted)：調整された
+- [applicable](/word/applicable)：適用できる、当てはまる
 
 <!-- cvid: aid33_bid11 -->

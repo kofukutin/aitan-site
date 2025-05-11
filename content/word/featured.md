@@ -97,7 +97,7 @@ TOEICでは広告や記事、イベント紹介などで「featured guest（特�
 ## 🤔  highlighted との違いは？
 
 - **featured**：特集された、主役として取り上げられた
-- **[highlighted](/highlighted)**：強調された、目立つようにマークされた
+- **[highlighted](/word/highlighted)**：強調された、目立つようにマークされた
 
 **featured**は「特集」や「主役」として取り上げられるニュアンスがあり、**highlighted**は「強調」や「目立たせる」ために色や印などで示す場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは広告や記事、イベント紹介などで「featured guest（特�
 
 ## 🧩 あわせて覚えたい
 
-- [main](/main)：主な、中心の
-- [prominent](/prominent)：目立つ、著名な
+- [main](/word/main)：主な、中心の
+- [prominent](/word/prominent)：目立つ、著名な
 
 ---
 
 ## 📖 できればこれも
 
-- [selected](/selected)：選ばれた
-- [notable](/notable)：注目すべき、顕著な
+- [selected](/word/selected)：選ばれた
+- [notable](/word/notable)：注目すべき、顕著な
 
 <!-- cvid: aid05_bid10 -->

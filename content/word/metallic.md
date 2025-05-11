@@ -97,7 +97,7 @@ TOEICでは、製品説明や科学・技術系の文脈で「metallic」が形�
 ## 🤔  metal との違いは？
 
 - **metallic**：金属のような性質・外観・音などを持つことを表す形容詞
-- **[metal](/metal)**：金属そのもの、または金属製品を指す名詞
+- **[metal](/word/metal)**：金属そのもの、または金属製品を指す名詞
 
 metallicは「金属っぽい」「金属の性質を持つ」ことを表現し、metalは物質としての金属そのものを指します。
 
@@ -105,14 +105,14 @@ metallicは「金属っぽい」「金属の性質を持つ」ことを表現し
 
 ## 🧩 あわせて覚えたい
 
-- [shiny](/shiny)：光沢のある、輝く
-- [rust](/rust)：さび、さびる
+- [shiny](/word/shiny)：光沢のある、輝く
+- [rust](/word/rust)：さび、さびる
 
 ---
 
 ## 📖 できればこれも
 
-- [chemical](/chemical)：化学の、化学物質
-- [solid](/solid)：固体の、しっかりした
+- [chemical](/word/chemical)：化学の、化学物質
+- [solid](/word/solid)：固体の、しっかりした
 
 <!-- cvid: aid31_bid10 -->

@@ -97,7 +97,7 @@ TOEICではリスニングパートでよく登場し、特に会話の中で「
 ## 🤔  listen との違いは？
 
 - **hear**：自然に音が耳に入る、意識しなくても「聞こえる」
-- **[listen](/listen)**：意識して注意深く「耳を傾ける」
+- **[listen](/word/listen)**：意識して注意深く「耳を傾ける」
 
 hearは受動的に音が入る場合、listenは積極的に注意して聞く場合に使います。
 
@@ -105,14 +105,14 @@ hearは受動的に音が入る場合、listenは積極的に注意して聞く�
 
 ## 🧩 あわせて覚えたい
 
-- [overhear](/overhear)：ふと耳にする、偶然聞く
-- [ignore](/ignore)：無視する
+- [overhear](/word/overhear)：ふと耳にする、偶然聞く
+- [ignore](/word/ignore)：無視する
 
 ---
 
 ## 📖 できればこれも
 
-- [see](/see)：見える、目に入る
-- [notice](/notice)：気づく、認識する
+- [see](/word/see)：見える、目に入る
+- [notice](/word/notice)：気づく、認識する
 
 <!-- cvid: aid47_bid06 -->

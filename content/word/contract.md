@@ -98,7 +98,7 @@ TOEICでは契約書やビジネス文書、メールなどで頻繁に登場し
 ## 🤔  agreement との違いは？
 
 - **contract**：法的拘束力のある正式な契約や契約書を指す
-- **[agreement](/agreement)**：合意全般を指し、必ずしも書面や法的拘束力があるとは限らない
+- **[agreement](/word/agreement)**：合意全般を指し、必ずしも書面や法的拘束力があるとは限らない
 
 contractは「書面で交わす正式な契約」、agreementは「口頭や書面を問わず合意全般」を指す点が異なります。
 
@@ -106,14 +106,14 @@ contractは「書面で交わす正式な契約」、agreementは「口頭や書
 
 ## 🧩 あわせて覚えたい
 
-- [deal](/deal)：取引、商談
-- [clause](/clause)：（契約書などの）条項
+- [deal](/word/deal)：取引、商談
+- [clause](/word/clause)：（契約書などの）条項
 
 ---
 
 ## 📖 できればこれも
 
-- [signature](/signature)：署名
-- [document](/document)：文書、書類
+- [signature](/word/signature)：署名
+- [document](/word/document)：文書、書類
 
 <!-- cvid: aid08_bid12 -->

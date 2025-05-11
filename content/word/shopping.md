@@ -97,7 +97,7 @@ TOEICでは、日常的な買い物やサービスに関する会話でよく登
 ## 🤔  purchase との違いは？
 
 - **shopping**：買い物という行為全体や時間を指すカジュアルな表現
-- **[purchase](/purchase)**：購入そのものや購入品を指すフォーマルな表現
+- **[purchase](/word/purchase)**：購入そのものや購入品を指すフォーマルな表現
 
 shoppingは「買い物を楽しむ」など行為や体験を表し、purchaseは「購入」という結果や取引を強調します。
 
@@ -105,14 +105,14 @@ shoppingは「買い物を楽しむ」など行為や体験を表し、purchase�
 
 ## 🧩 あわせて覚えたい
 
-- [buy](/buy)：買う（動詞）
-- [sale](/sale)：セール、販売（名詞）
+- [buy](/word/buy)：買う（動詞）
+- [sale](/word/sale)：セール、販売（名詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [store](/store)：店、店舗（名詞）
-- [market](/market)：市場、マーケット（名詞）
+- [store](/word/store)：店、店舗（名詞）
+- [market](/word/market)：市場、マーケット（名詞）
 
 <!-- cvid: aid48_bid48 -->

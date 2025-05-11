@@ -97,7 +97,7 @@ TOEICでは「初心者向け」「経験の浅い人」という意味で、選
 ## 🤔  novice との違いは？
 
 - **beginner**：一般的な「初心者」。日常的な場面で幅広く使われる。
-- **[novice](/novice)**：特定の分野や職業での「未経験者」。ややフォーマルで限定的。
+- **[novice](/word/novice)**：特定の分野や職業での「未経験者」。ややフォーマルで限定的。
 
 "beginner" はどんな分野にも使えるカジュアルな表現ですが、"novice" は専門的な分野や職業で使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは「初心者向け」「経験の浅い人」という意味で、選
 
 ## 🧩 あわせて覚えたい
 
-- [expert](/expert)：専門家、熟練者
-- [learner](/learner)：学習者
+- [expert](/word/expert)：専門家、熟練者
+- [learner](/word/learner)：学習者
 
 ---
 
 ## 📖 できればこれも
 
-- [basic](/basic)：基本的な
-- [practice](/practice)：練習
+- [basic](/word/basic)：基本的な
+- [practice](/word/practice)：練習
 
 <!-- cvid: aid29_bid47 -->

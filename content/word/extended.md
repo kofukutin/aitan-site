@@ -97,7 +97,7 @@ TOEICでは、メールや案内文などで「延長された期間」や「広
 ## 🤔  prolonged との違いは？
 
 - **extended**：通常より長くなった、または広がった（範囲や期間の拡大）
-- **[prolonged](/prolonged)**：予想以上に長引いた、通常より長く続いた（特に時間の長さに焦点）
+- **[prolonged](/word/prolonged)**：予想以上に長引いた、通常より長く続いた（特に時間の長さに焦点）
 
 extendedは「意図的な延長」や「範囲の拡大」に使われやすく、prolongedは「予想外に長引いた」など、ややネガティブなニュアンスで使われることが多いです。
 
@@ -105,14 +105,14 @@ extendedは「意図的な延長」や「範囲の拡大」に使われやすく
 
 ## 🧩 あわせて覚えたい
 
-- [temporary](/temporary)：一時的な
-- [expand](/expand)：拡大する
+- [temporary](/word/temporary)：一時的な
+- [expand](/word/expand)：拡大する
 
 ---
 
 ## 📖 できればこれも
 
-- [duration](/duration)：期間、継続時間
-- [expandable](/expandable)：拡張可能な
+- [duration](/word/duration)：期間、継続時間
+- [expandable](/word/expandable)：拡張可能な
 
 <!-- cvid: aid00_bid29 -->

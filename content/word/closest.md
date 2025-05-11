@@ -97,7 +97,7 @@ TOEICでは、道案内や場所の説明、または人間関係の親密さを
 ## 🤔  nearest との違いは？
 
 - **closest**：物理的な距離だけでなく、親密さや関係性にも使える「最も近い」
-- **[nearest](/nearest)**：主に物理的な距離に限定して「最も近い」
+- **[nearest](/word/nearest)**：主に物理的な距離に限定して「最も近い」
 
 「closest」は距離だけでなく「親しい友人」など関係性にも使えますが、「nearest」は基本的に場所や物の距離に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、道案内や場所の説明、または人間関係の親密さを
 
 ## 🧩 あわせて覚えたい
 
-- [adjacent](/adjacent)：隣接した
-- [farthest](/farthest)：最も遠い
+- [adjacent](/word/adjacent)：隣接した
+- [farthest](/word/farthest)：最も遠い
 
 ---
 
 ## 📖 できればこれも
 
-- [near](/near)：近い
-- [further](/further)：さらに遠い、さらに進んだ
+- [near](/word/near)：近い
+- [further](/word/further)：さらに遠い、さらに進んだ
 
 <!-- cvid: aid17_bid36 -->

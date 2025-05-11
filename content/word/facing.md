@@ -98,7 +98,7 @@ TOEICでは会議やビジネスの会話で「問題に直面する」「課題
 ## 🤔  confronting との違いは？
 
 - **facing**：問題や状況に「直面する」「向き合う」という中立的な表現。
-- **[confronting](/confronting)**：より積極的に「立ち向かう」「対決する」という強いニュアンス。
+- **[confronting](/word/confronting)**：より積極的に「立ち向かう」「対決する」という強いニュアンス。
 
 facingは状況を受け止めるニュアンス、confrontingは積極的に問題に挑む・対決する印象があります。
 
@@ -106,14 +106,14 @@ facingは状況を受け止めるニュアンス、confrontingは積極的に問
 
 ## 🧩 あわせて覚えたい
 
-- [deal with](/deal_with)：（問題などに）対処する
-- [encounter](/encounter)：（偶然）出会う、遭遇する
+- [deal with](/word/deal_with)：（問題などに）対処する
+- [encounter](/word/encounter)：（偶然）出会う、遭遇する
 
 ---
 
 ## 📖 できればこれも
 
-- [handle](/handle)：扱う、対処する
-- [address](/address)：（問題などに）取り組む、対処する
+- [handle](/word/handle)：扱う、対処する
+- [address](/word/address)：（問題などに）取り組む、対処する
 
 <!-- cvid: aid35_bid07 -->

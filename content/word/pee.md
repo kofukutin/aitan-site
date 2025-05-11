@@ -98,7 +98,7 @@ TOEICではほとんど出題されませんが、カジュアルな会話やリ
 ## 🤔  urinate との違いは？
 
 - **pee**：カジュアルで子どもや親しい間柄で使う「おしっこをする」
-- **[urinate](/urinate)**：フォーマルで医学的・公的な場面で使う「排尿する」
+- **[urinate](/word/urinate)**：フォーマルで医学的・公的な場面で使う「排尿する」
 
 peeは日常会話や子ども同士で使われ、urinateは病院や公式な説明で使われます。
 
@@ -106,14 +106,14 @@ peeは日常会話や子ども同士で使われ、urinateは病院や公式な�
 
 ## 🧩 あわせて覚えたい
 
-- [defecate](/defecate)：排便する（フォーマル）
-- [restroom](/restroom)：お手洗い（アメリカ英語）
+- [defecate](/word/defecate)：排便する（フォーマル）
+- [restroom](/word/restroom)：お手洗い（アメリカ英語）
 
 ---
 
 ## 📖 できればこれも
 
-- [poop](/poop)：うんちをする（カジュアル）
-- [toilet](/toilet)：トイレ、便器（イギリス英語中心）
+- [poop](/word/poop)：うんちをする（カジュアル）
+- [toilet](/word/toilet)：トイレ、便器（イギリス英語中心）
 
 <!-- cvid: aid45_bid25 -->

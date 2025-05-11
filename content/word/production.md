@@ -97,7 +97,7 @@ TOEICでは工場やビジネスの会話、製造現場の説明などで頻出
 ## 🤔  manufacture との違いは？
 
 - **production**：生産全体や制作活動を幅広く指す。
-- **[manufacture](/manufacture)**：特に工場などで機械的に大量生産することを強調。
+- **[manufacture](/word/manufacture)**：特に工場などで機械的に大量生産することを強調。
 
 productionは「生み出す行為」全般に使えますが、manufactureは「工業的な大量生産」に限定されることが多いです。
 
@@ -105,14 +105,14 @@ productionは「生み出す行為」全般に使えますが、manufactureは�
 
 ## 🧩 あわせて覚えたい
 
-- [consumption](/consumption)：消費
-- [output](/output)：生産高、出力
+- [consumption](/word/consumption)：消費
+- [output](/word/output)：生産高、出力
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/process)：工程、過程
-- [supply](/supply)：供給
+- [process](/word/process)：工程、過程
+- [supply](/word/supply)：供給
 
 <!-- cvid: aid49_bid46 -->

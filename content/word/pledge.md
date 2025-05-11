@@ -97,7 +97,7 @@ pledgeはTOEICの長文読解パートで、企業の声明や社会的責任に
 ## 🤔  promise との違いは？
 
 - **pledge**：公式で重みのある「誓約」や「約束」。責任や義務が強調される。
-- **[promise](/promise)**：日常的な「約束」。カジュアルな場面でも使える。
+- **[promise](/word/promise)**：日常的な「約束」。カジュアルな場面でも使える。
 
 pledgeはフォーマルで責任の重い約束、promiseは日常的な軽い約束にも使える点が異なります。
 
@@ -105,14 +105,14 @@ pledgeはフォーマルで責任の重い約束、promiseは日常的な軽い�
 
 ## 🧩 あわせて覚えたい
 
-- [oath](/oath)：宣誓、誓い
-- [commitment](/commitment)：約束、責任
+- [oath](/word/oath)：宣誓、誓い
+- [commitment](/word/commitment)：約束、責任
 
 ---
 
 ## 📖 できればこれも
 
-- [guarantee](/guarantee)：保証、約束
-- [assure](/assure)：保証する、請け合う
+- [guarantee](/word/guarantee)：保証、約束
+- [assure](/word/assure)：保証する、請け合う
 
 <!-- cvid: aid11_bid31 -->

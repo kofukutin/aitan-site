@@ -97,7 +97,7 @@ TOEICでは観光案内や物語、イベント紹介などの長文で登場す
 ## 🤔  dinosaur との違いは？
 
 - **dragon**：伝説や物語に登場する想像上の生き物
-- **[dinosaur](/dinosaur)**：実際に存在した古代の大型爬虫類
+- **[dinosaur](/word/dinosaur)**：実際に存在した古代の大型爬虫類
 
 dragonは空想上の存在で、dinosaurは化石などで実在が証明されている生物です。
 
@@ -105,14 +105,14 @@ dragonは空想上の存在で、dinosaurは化石などで実在が証明され
 
 ## 🧩 あわせて覚えたい
 
-- [monster](/monster)：怪物、モンスター
-- [legend](/legend)：伝説
+- [monster](/word/monster)：怪物、モンスター
+- [legend](/word/legend)：伝説
 
 ---
 
 ## 📖 できればこれも
 
-- [castle](/castle)：城
-- [knight](/knight)：騎士
+- [castle](/word/castle)：城
+- [knight](/word/knight)：騎士
 
 <!-- cvid: aid28_bid16 -->

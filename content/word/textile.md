@@ -97,7 +97,7 @@ TOEICでは主にビジネスや産業に関する長文や説明文で登場し
 ## 🤔  fabric との違いは？
 
 - **textile**：産業やビジネスで使われる「織物・繊維製品」全般を指すフォーマルな語。
-- **[fabric](/fabric)**：日常的に使われる「布地・生地」で、衣服やカーテンなどの素材を指す。
+- **[fabric](/word/fabric)**：日常的に使われる「布地・生地」で、衣服やカーテンなどの素材を指す。
 
 textileは産業や製造業の文脈で使われることが多く、fabricは日常生活での「布地」によく使われます。
 
@@ -105,14 +105,14 @@ textileは産業や製造業の文脈で使われることが多く、fabricは�
 
 ## 🧩 あわせて覚えたい
 
-- [garment](/garment)：衣服、衣類
-- [material](/material)：材料、素材
+- [garment](/word/garment)：衣服、衣類
+- [material](/word/material)：材料、素材
 
 ---
 
 ## 📖 できればこれも
 
-- [manufacture](/manufacture)：製造する
-- [industry](/industry)：産業
+- [manufacture](/word/manufacture)：製造する
+- [industry](/word/industry)：産業
 
 <!-- cvid: aid22_bid15 -->

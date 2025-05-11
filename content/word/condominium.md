@@ -97,7 +97,7 @@ TOEICでは、不動産や住居に関する長文や広告、Eメールの中�
 ## 🤔  apartment との違いは？
 
 - **condominium**：分譲マンション（所有権付きの集合住宅）を指す
-- **[apartment](/apartment)**：賃貸マンション・アパート（所有権はなく賃貸で住む集合住宅）
+- **[apartment](/word/apartment)**：賃貸マンション・アパート（所有権はなく賃貸で住む集合住宅）
 
 condominiumは「所有する」集合住宅、apartmentは「借りて住む」集合住宅という違いがあります。
 
@@ -105,14 +105,14 @@ condominiumは「所有する」集合住宅、apartmentは「借りて住む」
 
 ## 🧩 あわせて覚えたい
 
-- [ownership](/ownership)：所有権
-- [tenant](/tenant)：賃借人
+- [ownership](/word/ownership)：所有権
+- [tenant](/word/tenant)：賃借人
 
 ---
 
 ## 📖 できればこれも
 
-- [lease](/lease)：賃貸契約
-- [property](/property)：不動産
+- [lease](/word/lease)：賃貸契約
+- [property](/word/property)：不動産
 
 <!-- cvid: aid18_bid21 -->

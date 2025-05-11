@@ -97,7 +97,7 @@ TOEICでは観光や説明、案内に関する会話や説明文でよく登場
 ## 🤔  lead との違いは？
 
 - **guide**：案内や説明をして導く人・もの
-- **[lead](/lead)**：先頭に立って導く、指導する
+- **[lead](/word/lead)**：先頭に立って導く、指導する
 
 guideは「案内」や「説明」に重点があり、leadは「率先して導く」「リーダーシップ」に重点があります。
 
@@ -105,14 +105,14 @@ guideは「案内」や「説明」に重点があり、leadは「率先して�
 
 ## 🧩 あわせて覚えたい
 
-- [instructor](/instructor)：指導者、講師
-- [manual](/manual)：手引き書、マニュアル
+- [instructor](/word/instructor)：指導者、講師
+- [manual](/word/manual)：手引き書、マニュアル
 
 ---
 
 ## 📖 できればこれも
 
-- [tour](/tour)：見学、旅行
-- [direction](/direction)：方向、指示
+- [tour](/word/tour)：見学、旅行
+- [direction](/word/direction)：方向、指示
 
 <!-- cvid: aid17_bid45 -->

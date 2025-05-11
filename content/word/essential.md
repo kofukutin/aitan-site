@@ -97,7 +97,7 @@ TOEICでは「必要不可欠な」「重要な」という意味で、指示や
 ## 🤔  necessary との違いは？
 
 - **essential**：絶対に欠かせない、本質的に重要な
-- **[necessary](/necessary)**：目的達成のために必要な
+- **[necessary](/word/necessary)**：目的達成のために必要な
 
 essentialは「本質的で絶対に必要」という強いニュアンスがあり、necessaryは「状況や目的に応じて必要」という意味合いです。
 
@@ -105,14 +105,14 @@ essentialは「本質的で絶対に必要」という強いニュアンスが�
 
 ## 🧩 あわせて覚えたい
 
-- [vital](/vital)：極めて重要な、命に関わるほど大切な
-- [optional](/optional)：任意の、選択できる
+- [vital](/word/vital)：極めて重要な、命に関わるほど大切な
+- [optional](/word/optional)：任意の、選択できる
 
 ---
 
 ## 📖 できればこれも
 
-- [crucial](/crucial)：極めて重要な、決定的な
-- [important](/important)：重要な、大切な
+- [crucial](/word/crucial)：極めて重要な、決定的な
+- [important](/word/important)：重要な、大切な
 
 <!-- cvid: aid19_bid16 -->

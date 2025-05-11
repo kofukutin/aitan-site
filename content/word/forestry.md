@@ -97,7 +97,7 @@ TOEICでは環境や産業に関する長文や記事で見かけることが多
 ## 🤔  agriculture との違いは？
 
 - **forestry**：森林の管理や木材生産など、森に関する産業や活動
-- **[agriculture](/agriculture)**：農業全般（作物や家畜の生産など）
+- **[agriculture](/word/agriculture)**：農業全般（作物や家畜の生産など）
 
 forestryは森や林に特化した産業を指し、agricultureは畑や農場での作物・家畜の生産を広く指します。
 
@@ -105,14 +105,14 @@ forestryは森や林に特化した産業を指し、agricultureは畑や農場�
 
 ## 🧩 あわせて覚えたい
 
-- [deforestation](/deforestation)：森林伐採
-- [conservation](/conservation)：保護、保存
+- [deforestation](/word/deforestation)：森林伐採
+- [conservation](/word/conservation)：保護、保存
 
 ---
 
 ## 📖 できればこれも
 
-- [ecosystem](/ecosystem)：生態系
-- [habitat](/habitat)：生息地
+- [ecosystem](/word/ecosystem)：生態系
+- [habitat](/word/habitat)：生息地
 
 <!-- cvid: aid15_bid28 -->

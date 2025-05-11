@@ -98,7 +98,7 @@ TOEICでは大学や教育機関の案内文、イベント告知、メール文
 ## 🤔  graduate との違いは？
 
 - **alumni**：卒業生全体や複数人を指すフォーマルな表現
-- **[graduate](/graduate)**：卒業生（単数）、または卒業する（動詞）
+- **[graduate](/word/graduate)**：卒業生（単数）、または卒業する（動詞）
 
 alumniは「卒業生たち」という集合的な意味で使われ、graduateは個人や動詞としても使われます。
 
@@ -106,14 +106,14 @@ alumniは「卒業生たち」という集合的な意味で使われ、graduate
 
 ## 🧩 あわせて覚えたい
 
-- [alumnus](/alumnus)：男性の卒業生
-- [alumna](/alumna)：女性の卒業生
+- [alumnus](/word/alumnus)：男性の卒業生
+- [alumna](/word/alumna)：女性の卒業生
 
 ---
 
 ## 📖 できればこれも
 
-- [faculty](/faculty)：教員、教授陣
-- [curriculum](/curriculum)：カリキュラム、教育課程
+- [faculty](/word/faculty)：教員、教授陣
+- [curriculum](/word/curriculum)：カリキュラム、教育課程
 
 <!-- cvid: aid14_bid18 -->

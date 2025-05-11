@@ -97,7 +97,7 @@ expectはTOEICの文法・語彙問題で頻出し、主に「expect A to do」�
 ## 🤔  anticipate との違いは？
 
 - **expect**：起こることを当然と考えて待つ、一般的な「期待する」
-- **[anticipate](/anticipate)**：先回りして予測し、準備するニュアンスが強い
+- **[anticipate](/word/anticipate)**：先回りして予測し、準備するニュアンスが強い
 
 expectは「当然そうなる」と思う気持ち、anticipateは「先を読んで備える」積極的な姿勢の違いがあります。
 
@@ -105,14 +105,14 @@ expectは「当然そうなる」と思う気持ち、anticipateは「先を読�
 
 ## 🧩 あわせて覚えたい
 
-- [predict](/predict)：予測する
-- [assume](/assume)：仮定する
+- [predict](/word/predict)：予測する
+- [assume](/word/assume)：仮定する
 
 ---
 
 ## 📖 できればこれも
 
-- [require](/require)：要求する
-- [suggest](/suggest)：提案する
+- [require](/word/require)：要求する
+- [suggest](/word/suggest)：提案する
 
 <!-- cvid: aid45_bid10 -->

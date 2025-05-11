@@ -96,7 +96,7 @@ TOEICではビジネスシーンの会話や説明文で「collaboration」が�
 ## 🤔  cooperation との違いは？
 
 - **collaboration**：共通の目標に向けて積極的に一緒に作業すること
-- **[cooperation](/cooperation)**：助け合いや協力の姿勢を指し、必ずしも一緒に作業するとは限らない
+- **[cooperation](/word/cooperation)**：助け合いや協力の姿勢を指し、必ずしも一緒に作業するとは限らない
 
 collaborationは「共同作業」や「共創」のニュアンスが強く、cooperationは「協力的な態度」や「援助」の意味合いが中心です。
 
@@ -104,14 +104,14 @@ collaborationは「共同作業」や「共創」のニュアンスが強く、c
 
 ## 🧩 あわせて覚えたい
 
-- [partnership](/partnership)：提携、協力関係
-- [teamwork](/teamwork)：チームワーク、協働作業
+- [partnership](/word/partnership)：提携、協力関係
+- [teamwork](/word/teamwork)：チームワーク、協働作業
 
 ---
 
 ## 📖 できればこれも
 
-- [coordinate](/coordinate)：調整する
-- [contribution](/contribution)：貢献
+- [coordinate](/word/coordinate)：調整する
+- [contribution](/word/contribution)：貢献
 
 <!-- cvid: aid40_bid42 -->

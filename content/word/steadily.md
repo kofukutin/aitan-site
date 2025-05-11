@@ -97,7 +97,7 @@ Sales have been increasing steadily this year.
 ## 🤔  gradually との違いは？
 
 - **steadily**：安定して、途切れずに着実に進む様子
-- **[gradually](/gradually)**：徐々に、ゆっくりと変化する様子
+- **[gradually](/word/gradually)**：徐々に、ゆっくりと変化する様子
 
 「steadily」は安定性や一貫性を強調し、「gradually」は変化の速度がゆっくりであることを強調します。
 
@@ -105,14 +105,14 @@ Sales have been increasing steadily this year.
 
 ## 🧩 あわせて覚えたい
 
-- [consistently](/consistently)：一貫して、常に
-- [rapidly](/rapidly)：急速に
+- [consistently](/word/consistently)：一貫して、常に
+- [rapidly](/word/rapidly)：急速に
 
 ---
 
 ## 📖 できればこれも
 
-- [reliably](/reliably)：信頼できる方法で
-- [smoothly](/smoothly)：円滑に、なめらかに
+- [reliably](/word/reliably)：信頼できる方法で
+- [smoothly](/word/smoothly)：円滑に、なめらかに
 
 <!-- cvid: aid11_bid05 -->

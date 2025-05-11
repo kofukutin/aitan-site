@@ -97,7 +97,7 @@ TOEICでは、記事や報告書、案内文などの長文中で「publication�
 ## 🤔  release との違いは？
 
 - **publication**：出版や発行そのもの、または出版物を指す
-- **[release](/release)**：公開・発売・解放など幅広く「世に出すこと」を指す
+- **[release](/word/release)**：公開・発売・解放など幅広く「世に出すこと」を指す
 
 publicationは「本や雑誌などを正式に出版すること」に特化し、releaseは「新商品や情報などを世に出す」広い意味で使われます。
 
@@ -105,14 +105,14 @@ publicationは「本や雑誌などを正式に出版すること」に特化し
 
 ## 🧩 あわせて覚えたい
 
-- [issue](/issue)：（雑誌などの）号、発行
-- [journal](/journal)：専門誌、学術誌
+- [issue](/word/issue)：（雑誌などの）号、発行
+- [journal](/word/journal)：専門誌、学術誌
 
 ---
 
 ## 📖 できればこれも
 
-- [editor](/editor)：編集者
-- [article](/article)：記事
+- [editor](/word/editor)：編集者
+- [article](/word/article)：記事
 
 <!-- cvid: aid10_bid30 -->

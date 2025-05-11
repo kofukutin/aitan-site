@@ -98,7 +98,7 @@ TOEICでは主にビジネス文書や会議議事録などで「範囲」「領
 ## 🤔  range との違いは？
 
 - **scope**：活動や議論などの「枠組み」や「限定された範囲」を強調
-- **[range](/range)**：数値や種類など「広がり」や「幅」を強調
+- **[range](/word/range)**：数値や種類など「広がり」や「幅」を強調
 
 scopeは「何を含むか・含まないか」という枠組みを示すときに使い、rangeは「広がり」や「多様性」を表すときに使います。
 
@@ -106,14 +106,14 @@ scopeは「何を含むか・含まないか」という枠組みを示すとき
 
 ## 🧩 あわせて覚えたい
 
-- [limit](/limit)：限界、制限
-- [extent](/extent)：程度、範囲
+- [limit](/word/limit)：限界、制限
+- [extent](/word/extent)：程度、範囲
 
 ---
 
 ## 📖 できればこれも
 
-- [objective](/objective)：目的、目標
-- [topic](/topic)：話題、テーマ
+- [objective](/word/objective)：目的、目標
+- [topic](/word/topic)：話題、テーマ
 
 <!-- cvid: aid37_bid41 -->

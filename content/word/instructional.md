@@ -97,7 +97,7 @@ TOEICでは、教材や研修、説明書など教育・指導に関する文書
 ## 🤔  educational との違いは？
 
 - **instructional**：指導や説明、具体的な教え方・教材に関する
-- **[educational](/educational)**：教育全般や学びに関する、より広い意味
+- **[educational](/word/educational)**：教育全般や学びに関する、より広い意味
 
 **instructional**は「教え方」や「指導方法」「教材」など、実際の指導や説明に焦点を当てます。一方、**educational**は「教育的な」「学びに役立つ」といった広い意味で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、教材や研修、説明書など教育・指導に関する文書
 
 ## 🧩 あわせて覚えたい
 
-- [instructive](/instructive)：ためになる、教訓的な
-- [tutorial](/tutorial)：指導書、チュートリアル
+- [instructive](/word/instructive)：ためになる、教訓的な
+- [tutorial](/word/tutorial)：指導書、チュートリアル
 
 ---
 
 ## 📖 できればこれも
 
-- [curriculum](/curriculum)：カリキュラム、教育課程
-- [lecture](/lecture)：講義、講演
+- [curriculum](/word/curriculum)：カリキュラム、教育課程
+- [lecture](/word/lecture)：講義、講演
 
 <!-- cvid: aid23_bid14 -->

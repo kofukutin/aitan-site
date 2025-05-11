@@ -97,7 +97,7 @@ TOEICではビジネスの会議や研修、チームビルディングの文脈
 ## 🤔  withdraw との違いは？
 
 - **retreat**：集団や軍隊が組織的に後退・撤退する、または静養や研修のための合宿
-- **[withdraw](/withdraw)**：個人や物が引き下がる、撤回する、引き出す
+- **[withdraw](/word/withdraw)**：個人や物が引き下がる、撤回する、引き出す
 
 retreatは集団的・計画的な「後退」や「合宿」に使われ、withdrawは個人や物の「引き下げ」「撤回」に使われます。
 
@@ -105,14 +105,14 @@ retreatは集団的・計画的な「後退」や「合宿」に使われ、with
 
 ## 🧩 あわせて覚えたい
 
-- [advance](/advance)：前進、進歩
-- [conference](/conference)：会議、協議会
+- [advance](/word/advance)：前進、進歩
+- [conference](/word/conference)：会議、協議会
 
 ---
 
 ## 📖 できればこれも
 
-- [session](/session)：会議、集会、セッション
-- [seminar](/seminar)：セミナー、講習会
+- [session](/word/session)：会議、集会、セッション
+- [seminar](/word/seminar)：セミナー、講習会
 
 <!-- cvid: aid08_bid31 -->

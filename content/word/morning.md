@@ -97,7 +97,7 @@ TOEICではPart 1やPart 2で、時間帯や日常の行動を説明する際に
 ## 🤔  dawn との違いは？
 
 - **morning**：日の出から正午ごろまでの「朝」の時間帯全体を指す。
-- **[dawn](/dawn)**：夜明け、太陽が昇り始める瞬間やその直前の短い時間を指す。
+- **[dawn](/word/dawn)**：夜明け、太陽が昇り始める瞬間やその直前の短い時間を指す。
 
 「morning」は広い意味での朝、「dawn」は特に夜明けの瞬間を強調します。
 
@@ -105,14 +105,14 @@ TOEICではPart 1やPart 2で、時間帯や日常の行動を説明する際に
 
 ## 🧩 あわせて覚えたい
 
-- [afternoon](/afternoon)：午後
-- [evening](/evening)：夕方、晩
+- [afternoon](/word/afternoon)：午後
+- [evening](/word/evening)：夕方、晩
 
 ---
 
 ## 📖 できればこれも
 
-- [night](/night)：夜
-- [breakfast](/breakfast)：朝食
+- [night](/word/night)：夜
+- [breakfast](/word/breakfast)：朝食
 
 <!-- cvid: aid14_bid48 -->

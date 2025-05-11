@@ -97,7 +97,7 @@ TOEICでは、メールやウェブ記事、広告文などの長文中で「pod
 ## 🤔  broadcast との違いは？
 
 - **podcast**：インターネットで配信される音声番組。好きなときに聴ける。
-- **[broadcast](/broadcast)**：テレビやラジオなどで同時に多くの人に放送すること。
+- **[broadcast](/word/broadcast)**：テレビやラジオなどで同時に多くの人に放送すること。
 
 podcastは「オンデマンド型」の配信、broadcastは「リアルタイム型」の放送という違いがあります。
 
@@ -105,14 +105,14 @@ podcastは「オンデマンド型」の配信、broadcastは「リアルタイ�
 
 ## 🧩 あわせて覚えたい
 
-- [stream](/stream)：インターネットで動画や音声をリアルタイム再生すること
-- [episode](/episode)：（番組などの）1回分、エピソード
+- [stream](/word/stream)：インターネットで動画や音声をリアルタイム再生すること
+- [episode](/word/episode)：（番組などの）1回分、エピソード
 
 ---
 
 ## 📖 できればこれも
 
-- [download](/download)：ダウンロードする、取り込む
-- [subscribe](/subscribe)：購読する、登録する
+- [download](/word/download)：ダウンロードする、取り込む
+- [subscribe](/word/subscribe)：購読する、登録する
 
 <!-- cvid: aid28_bid33 -->

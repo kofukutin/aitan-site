@@ -97,7 +97,7 @@ TOEICでは、企業間の競争や困難な状況を表す文脈で出題され
 ## 🤔  fight との違いは？
 
 - **battle**：組織的・大規模な戦い、または比喩的な困難との闘い
-- **[fight](/fight)**：個人間や小規模な争い、けんか
+- **[fight](/word/fight)**：個人間や小規模な争い、けんか
 
 battleは計画的・組織的な戦いや困難との闘争に使われ、fightはより直接的・個人的な争いに使われます。
 
@@ -105,14 +105,14 @@ battleは計画的・組織的な戦いや困難との闘争に使われ、fight
 
 ## 🧩 あわせて覚えたい
 
-- [conflict](/conflict)：対立、衝突
-- [competition](/competition)：競争
+- [conflict](/word/conflict)：対立、衝突
+- [competition](/word/competition)：競争
 
 ---
 
 ## 📖 できればこれも
 
-- [challenge](/challenge)：挑戦、課題
-- [debate](/debate)：討論、議論
+- [challenge](/word/challenge)：挑戦、課題
+- [debate](/word/debate)：討論、議論
 
 <!-- cvid: aid43_bid30 -->

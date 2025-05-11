@@ -97,7 +97,7 @@ TOEICでは、書類や設備の「撤去」「削除」など、ビジネス文
 ## 🤔  elimination との違いは？
 
 - **removal**：物理的・具体的な「取り除くこと」「撤去」によく使う
-- **[elimination](/elimination)**：不要なものを「排除」する、より抽象的・完全に消すニュアンス
+- **[elimination](/word/elimination)**：不要なものを「排除」する、より抽象的・完全に消すニュアンス
 
 removalは目に見えるものや人の「撤去」に使われやすく、eliminationは競争や問題など抽象的な「排除」に使われます。
 
@@ -105,14 +105,14 @@ removalは目に見えるものや人の「撤去」に使われやすく、elim
 
 ## 🧩 あわせて覚えたい
 
-- [replacement](/replacement)：交換、取り替え
-- [dismissal](/dismissal)：解雇、免職
+- [replacement](/word/replacement)：交換、取り替え
+- [dismissal](/word/dismissal)：解雇、免職
 
 ---
 
 ## 📖 できればこれも
 
-- [transfer](/transfer)：移動、転送
-- [installation](/installation)：設置、導入
+- [transfer](/word/transfer)：移動、転送
+- [installation](/word/installation)：設置、導入
 
 <!-- cvid: aid41_bid18 -->

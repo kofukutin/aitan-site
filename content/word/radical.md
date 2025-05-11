@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や記事の中で「radical change（抜本的�
 ## 🤔  drastic との違いは？
 
 - **radical**：根本から大きく変える、徹底的な（特に思想や改革に使う）
-- **[drastic](/drastic)**：思い切った、過激な（主に手段や措置の強さを強調）
+- **[drastic](/word/drastic)**：思い切った、過激な（主に手段や措置の強さを強調）
 
 radicalは「根本的な変化」や「思想的な急進性」を表し、drasticは「手段や措置が非常に強い」ことを表します。
 
@@ -105,14 +105,14 @@ radicalは「根本的な変化」や「思想的な急進性」を表し、dras
 
 ## 🧩 あわせて覚えたい
 
-- [conservative](/conservative)：保守的な
-- [innovative](/innovative)：革新的な
+- [conservative](/word/conservative)：保守的な
+- [innovative](/word/innovative)：革新的な
 
 ---
 
 ## 📖 できればこれも
 
-- [fundamental](/fundamental)：基本的な、根本的な
-- [extreme](/extreme)：極端な、過激な
+- [fundamental](/word/fundamental)：基本的な、根本的な
+- [extreme](/word/extreme)：極端な、過激な
 
 <!-- cvid: aid07_bid19 -->

@@ -96,7 +96,7 @@ The local priest will attend the community event.
 ## 🤔  minister との違いは？
 
 - **priest**：主にカトリックや正教会などで儀式を行う聖職者
-- **[minister](/minister)**：プロテスタント教会の聖職者や、一般的な宗教指導者
+- **[minister](/word/minister)**：プロテスタント教会の聖職者や、一般的な宗教指導者
 
 priestはカトリックや正教会などの伝統的な宗派で使われ、ministerはプロテスタント系やより広い意味で使われます。
 
@@ -104,14 +104,14 @@ priestはカトリックや正教会などの伝統的な宗派で使われ、mi
 
 ## 🧩 あわせて覚えたい
 
-- [monk](/monk)：修道士、僧侶
-- [clergy](/clergy)：聖職者（集合的な表現）
+- [monk](/word/monk)：修道士、僧侶
+- [clergy](/word/clergy)：聖職者（集合的な表現）
 
 ---
 
 ## 📖 できればこれも
 
-- [temple](/temple)：寺院、神殿
-- [church](/church)：教会
+- [temple](/word/temple)：寺院、神殿
+- [church](/word/church)：教会
 
 <!-- cvid: aid35_bid36 -->

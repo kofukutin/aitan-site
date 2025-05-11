@@ -97,7 +97,7 @@ TOEICでは、ビジネスや経済に関する長文で「物資や人材の不
 ## 🤔  lack との違いは？
 
 - **shortage**：必要な量に対して「足りない」こと（特に物や人手など具体的な不足）
-- **[lack](/lack)**：何かが「まったくない」または「ほとんどない」状態
+- **[lack](/word/lack)**：何かが「まったくない」または「ほとんどない」状態
 
 shortageは「必要な量に届かない」ニュアンスで、lackは「存在しない・極端に少ない」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ shortageは「必要な量に届かない」ニュアンスで、lackは「存�
 
 ## 🧩 あわせて覚えたい
 
-- [deficit](/deficit)：赤字、不足額
-- [surplus](/surplus)：余剰、黒字
+- [deficit](/word/deficit)：赤字、不足額
+- [surplus](/word/surplus)：余剰、黒字
 
 ---
 
 ## 📖 できればこれも
 
-- [supply](/supply)：供給
-- [demand](/demand)：需要
+- [supply](/word/supply)：供給
+- [demand](/word/demand)：需要
 
 <!-- cvid: aid22_bid45 -->

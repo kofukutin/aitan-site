@@ -98,7 +98,7 @@ TOEICでは、求人広告や商品説明などで「seasonal」の語がよく�
 ## 🤔  temporary との違いは？
 
 - **seasonal**：季節に関係して一時的であることを強調
-- **[temporary](/temporary)**：期間限定で一時的であることを強調
+- **[temporary](/word/temporary)**：期間限定で一時的であることを強調
 
 **seasonal**は「季節」による一時性を示し、**temporary**は理由を問わず「一時的」であることを表します。
 
@@ -106,14 +106,14 @@ TOEICでは、求人広告や商品説明などで「seasonal」の語がよく�
 
 ## 🧩 あわせて覚えたい
 
-- [permanent](/permanent)：永久的な、恒久的な
-- [annual](/annual)：年に一度の、毎年の
+- [permanent](/word/permanent)：永久的な、恒久的な
+- [annual](/word/annual)：年に一度の、毎年の
 
 ---
 
 ## 📖 できればこれも
 
-- [monthly](/monthly)：毎月の
-- [occasional](/occasional)：時々の、たまの
+- [monthly](/word/monthly)：毎月の
+- [occasional](/word/occasional)：時々の、たまの
 
 <!-- cvid: aid49_bid41 -->

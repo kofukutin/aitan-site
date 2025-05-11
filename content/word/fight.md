@@ -97,7 +97,7 @@ TOEICでは会話やビジネスシーンで「争う」「対立する」意味
 ## 🤔  argue との違いは？
 
 - **fight**：物理的・感情的に激しく争う、けんかする
-- **[argue](/argue)**：言葉で意見をぶつけ合う、議論する
+- **[argue](/word/argue)**：言葉で意見をぶつけ合う、議論する
 
 fightは実際に手を出す場合や激しい対立に使い、argueは主に言葉で意見を戦わせる場面で使います。
 
@@ -105,14 +105,14 @@ fightは実際に手を出す場合や激しい対立に使い、argueは主に�
 
 ## 🧩 あわせて覚えたい
 
-- [defend](/defend)：守る、防御する
-- [compete](/compete)：競争する
+- [defend](/word/defend)：守る、防御する
+- [compete](/word/compete)：競争する
 
 ---
 
 ## 📖 できればこれも
 
-- [win](/win)：勝つ
-- [struggle](/struggle)：苦闘する、もがく
+- [win](/word/win)：勝つ
+- [struggle](/word/struggle)：苦闘する、もがく
 
 <!-- cvid: aid45_bid45 -->

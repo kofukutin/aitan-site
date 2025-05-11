@@ -97,7 +97,7 @@ accuracyはTOEICの文法・語彙問題で、特に名詞の語彙選択や形�
 ## 🤔  precision との違いは？
 
 - **accuracy**：目標や基準にどれだけ近いか（正確さ）を表す
-- **[precision](/precision)**：数値や動作の「ばらつきの少なさ」や「細かさ」を表す
+- **[precision](/word/precision)**：数値や動作の「ばらつきの少なさ」や「細かさ」を表す
 
 accuracyは「正しいかどうか」、precisionは「一貫して同じ結果が出るか」を強調します。
 
@@ -105,14 +105,14 @@ accuracyは「正しいかどうか」、precisionは「一貫して同じ結果
 
 ## 🧩 あわせて覚えたい
 
-- [error](/error)：誤り、ミス
-- [correctness](/correctness)：正しさ、正確さ
+- [error](/word/error)：誤り、ミス
+- [correctness](/word/correctness)：正しさ、正確さ
 
 ---
 
 ## 📖 できればこれも
 
-- [efficiency](/efficiency)：効率
-- [reliability](/reliability)：信頼性
+- [efficiency](/word/efficiency)：効率
+- [reliability](/word/reliability)：信頼性
 
 <!-- cvid: aid33_bid11 -->

@@ -97,7 +97,7 @@ TOEICでは、職場や会議での対立やトラブルの文脈で出題され
 ## 🤔  battle との違いは？
 
 - **fighting**：争いそのものや戦闘状態を広く指す。
-- **[battle](/battle)**：特定の戦いや大きな争い、戦闘を指す。
+- **[battle](/word/battle)**：特定の戦いや大きな争い、戦闘を指す。
 
 fightingは一般的な争いやけんか全般に使われ、battleは特定の戦いや重要な争いに使われます。
 
@@ -105,14 +105,14 @@ fightingは一般的な争いやけんか全般に使われ、battleは特定の
 
 ## 🧩 あわせて覚えたい
 
-- [conflict](/conflict)：対立、衝突
-- [argument](/argument)：口論、議論
+- [conflict](/word/conflict)：対立、衝突
+- [argument](/word/argument)：口論、議論
 
 ---
 
 ## 📖 できればこれも
 
-- [struggle](/struggle)：苦闘、もがき
-- [competition](/competition)：競争
+- [struggle](/word/struggle)：苦闘、もがき
+- [competition](/word/competition)：競争
 
 <!-- cvid: aid42_bid48 -->

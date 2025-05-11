@@ -97,7 +97,7 @@ TOEICでは、メールや案内文、イベントのお知らせなどで「同
 ## 🤔  gathering との違いは？
 
 - **reunion**：長い間会っていなかった人たちが再会する集まり
-- **[gathering](/gathering)**：目的や理由を問わず人が集まる一般的な集まり
+- **[gathering](/word/gathering)**：目的や理由を問わず人が集まる一般的な集まり
 
 reunionは「再会」に特化した集まりを指し、gatheringはもっと幅広く使われます。
 
@@ -105,14 +105,14 @@ reunionは「再会」に特化した集まりを指し、gatheringはもっと�
 
 ## 🧩 あわせて覚えたい
 
-- [separation](/separation)：別離、離れること
-- [celebration](/celebration)：祝賀、祝い
+- [separation](/word/separation)：別離、離れること
+- [celebration](/word/celebration)：祝賀、祝い
 
 ---
 
 ## 📖 できればこれも
 
-- [event](/event)：イベント、出来事
-- [occasion](/occasion)：特別な機会、行事
+- [event](/word/event)：イベント、出来事
+- [occasion](/word/occasion)：特別な機会、行事
 
 <!-- cvid: aid21_bid24 -->

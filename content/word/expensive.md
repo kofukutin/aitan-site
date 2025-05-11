@@ -97,7 +97,7 @@ TOEICでは、商品の価格やコストに関する文脈でよく出題され
 ## 🤔  costly との違いは？
 
 - **expensive**：値段が高い、一般的な「高価な」
-- **[costly](/costly)**：損失や犠牲が大きい、高くつく
+- **[costly](/word/costly)**：損失や犠牲が大きい、高くつく
 
 expensiveは単純に「値段が高い」ことを表し、costlyは「損失やリスクが大きい」「結果的に高くつく」といったニュアンスがあります。
 
@@ -105,14 +105,14 @@ expensiveは単純に「値段が高い」ことを表し、costlyは「損失�
 
 ## 🧩 あわせて覚えたい
 
-- [cheap](/cheap)：安い
-- [luxury](/luxury)：ぜいたく品、ぜいたくな
+- [cheap](/word/cheap)：安い
+- [luxury](/word/luxury)：ぜいたく品、ぜいたくな
 
 ---
 
 ## 📖 できればこれも
 
-- [affordable](/affordable)：手ごろな価格の
-- [valuable](/valuable)：価値のある
+- [affordable](/word/affordable)：手ごろな価格の
+- [valuable](/word/valuable)：価値のある
 
 <!-- cvid: aid46_bid38 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 7の説明文や広告、ビジネス文書で「衣類」
 ## 🤔  apparel との違いは？
 
 - **garment**：1着ごとの衣服や衣類を指し、具体的なアイテムに使う
-- **[apparel](/apparel)**：衣類全般や衣料品産業を指し、集合的・抽象的な意味合いが強い
+- **[apparel](/word/apparel)**：衣類全般や衣料品産業を指し、集合的・抽象的な意味合いが強い
 
 garmentは「1着ずつの服」、apparelは「衣類全体」や「業界」を指すときに使い分けます。
 
@@ -105,14 +105,14 @@ garmentは「1着ずつの服」、apparelは「衣類全体」や「業界」�
 
 ## 🧩 あわせて覚えたい
 
-- [clothing](/clothing)：衣類（集合的な表現）
-- [attire](/attire)：（特定の場面の）服装、装い
+- [clothing](/word/clothing)：衣類（集合的な表現）
+- [attire](/word/attire)：（特定の場面の）服装、装い
 
 ---
 
 ## 📖 できればこれも
 
-- [fabric](/fabric)：布地、生地
-- [outfit](/outfit)：服装、コーディネート
+- [fabric](/word/fabric)：布地、生地
+- [outfit](/word/outfit)：服装、コーディネート
 
 <!-- cvid: aid37_bid01 -->

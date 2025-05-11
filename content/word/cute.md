@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人物や動物、物の外見を説
 ## 🤔  pretty との違いは？
 
 - **cute**：子どもっぽい愛らしさや小さくてかわいい印象を表す
-- **[pretty](/pretty)**：主に女性や物の「きれいさ」「美しさ」をややフォーマルに表現
+- **[pretty](/word/pretty)**：主に女性や物の「きれいさ」「美しさ」をややフォーマルに表現
 
 「cute」は親しみやすく、幼さや愛嬌を感じるときに使い、「pretty」は美しさや上品さを強調したいときに使います。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写で、人物や動物、物の外見を説
 
 ## 🧩 あわせて覚えたい
 
-- [adorable](/adorable)：とてもかわいい、愛らしい
-- [charming](/charming)：魅力的な、感じのよい
+- [adorable](/word/adorable)：とてもかわいい、愛らしい
+- [charming](/word/charming)：魅力的な、感じのよい
 
 ---
 
 ## 📖 できればこれも
 
-- [funny](/funny)：おもしろい、愉快な
-- [lovely](/lovely)：素敵な、かわいらしい
+- [funny](/word/funny)：おもしろい、愉快な
+- [lovely](/word/lovely)：素敵な、かわいらしい
 
 <!-- cvid: aid36_bid46 -->

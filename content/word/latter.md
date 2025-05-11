@@ -96,7 +96,7 @@ TOEICでは、選択肢の比較や文章の流れを問う文法・語彙問題
 ## 🤔  last との違いは？
 
 - **latter**：2つのうちの「後者」や「後半」を指す
-- **[last](/last)**：「最後の」「最終の」を指し、2つ以上の場合にも使える
+- **[last](/word/last)**：「最後の」「最終の」を指し、2つ以上の場合にも使える
 
 「latter」は必ず2つのものを比較する時に使い、「last」は数に関係なく「一番最後」を表します。
 
@@ -104,14 +104,14 @@ TOEICでは、選択肢の比較や文章の流れを問う文法・語彙問題
 
 ## 🧩 あわせて覚えたい
 
-- [former](/former)：（二者のうち）前者の
-- [previous](/previous)：前の、以前の
+- [former](/word/former)：（二者のうち）前者の
+- [previous](/word/previous)：前の、以前の
 
 ---
 
 ## 📖 できればこれも
 
-- [prior](/prior)：前の、事前の
-- [final](/final)：最終の
+- [prior](/word/prior)：前の、事前の
+- [final](/word/final)：最終の
 
 <!-- cvid: aid19_bid49 -->

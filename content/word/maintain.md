@@ -97,7 +97,7 @@ TOEICでは「設備や品質を維持する」「状態を保つ」といった
 ## 🤔  continue との違いは？
 
 - **maintain**：今ある状態やレベルを保つ、維持する
-- **[continue](/continue)**：物事を続ける、継続する
+- **[continue](/word/continue)**：物事を続ける、継続する
 
 「maintain」は「現状を保つ」ことに重点があり、「continue」は「行為や動作をやめずに続ける」ことに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは「設備や品質を維持する」「状態を保つ」といった
 
 ## 🧩 あわせて覚えたい
 
-- [preserve](/preserve)：保存する、守る
-- [repair](/repair)：修理する
+- [preserve](/word/preserve)：保存する、守る
+- [repair](/word/repair)：修理する
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/improve)：改善する
-- [support](/support)：支える、支援する
+- [improve](/word/improve)：改善する
+- [support](/word/support)：支える、支援する
 
 <!-- cvid: aid21_bid18 -->

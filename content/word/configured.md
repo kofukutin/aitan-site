@@ -97,7 +97,7 @@ IT関連や業務マニュアル、手順説明の文脈でよく登場します
 ## 🤔  set との違いは？
 
 - **configured**：特定の目的や要件に合わせて細かく設定・構成する
-- **[set](/set)**：単に「セットする」「設定する」など広い意味で使う
+- **[set](/word/set)**：単に「セットする」「設定する」など広い意味で使う
 
 「configured」は専門的・技術的な設定に使われ、「set」は一般的な「置く」「設定する」など幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ IT関連や業務マニュアル、手順説明の文脈でよく登場します
 
 ## 🧩 あわせて覚えたい
 
-- [customize](/customize)：カスタマイズする、好みに合わせて変更する
-- [install](/install)：インストールする、設置する
+- [customize](/word/customize)：カスタマイズする、好みに合わせて変更する
+- [install](/word/install)：インストールする、設置する
 
 ---
 
 ## 📖 できればこれも
 
-- [adjust](/adjust)：調整する
-- [initialize](/initialize)：初期化する
+- [adjust](/word/adjust)：調整する
+- [initialize](/word/initialize)：初期化する
 
 <!-- cvid: aid28_bid07 -->

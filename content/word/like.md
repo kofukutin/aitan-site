@@ -97,7 +97,7 @@ TOEICではPart 2やPart 3で「～が好きですか？」などの質問や、
 ## 🤔  prefer との違いは？
 
 - **like**：単純に「好き」「好む」という意味で、幅広い場面で使う。
-- **[prefer](/prefer)**：複数の選択肢の中で「より好む」という意味。
+- **[prefer](/word/prefer)**：複数の選択肢の中で「より好む」という意味。
 
 likeは一般的な好みを表し、preferは比較してどちらかを選ぶときに使います。
 
@@ -105,14 +105,14 @@ likeは一般的な好みを表し、preferは比較してどちらかを選ぶ�
 
 ## 🧩 あわせて覚えたい
 
-- [love](/love)：大好きである
-- [enjoy](/enjoy)：楽しむ
+- [love](/word/love)：大好きである
+- [enjoy](/word/enjoy)：楽しむ
 
 ---
 
 ## 📖 できればこれも
 
-- [want](/want)：欲しい、～したい
-- [need](/need)：必要とする
+- [want](/word/want)：欲しい、～したい
+- [need](/word/need)：必要とする
 
 <!-- cvid: aid27_bid19 -->

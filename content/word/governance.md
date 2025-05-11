@@ -97,7 +97,7 @@ governanceはTOEICの長文読解やビジネス関連の文書で、企業統�
 ## 🤔  management との違いは？
 
 - **governance**：組織や国の統治・管理の仕組みや枠組みを指す
-- **[management](/management)**：日々の運営や管理、経営そのものを指す
+- **[management](/word/management)**：日々の運営や管理、経営そのものを指す
 
 governanceは「ルールや仕組み」に焦点があり、managementは「実際の運営や管理業務」に重点があります。
 
@@ -105,14 +105,14 @@ governanceは「ルールや仕組み」に焦点があり、managementは「実
 
 ## 🧩 あわせて覚えたい
 
-- [regulation](/regulation)：規則、規制
-- [administration](/administration)：運営、管理
+- [regulation](/word/regulation)：規則、規制
+- [administration](/word/administration)：運営、管理
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/policy)：方針、政策
-- [compliance](/compliance)：法令遵守
+- [policy](/word/policy)：方針、政策
+- [compliance](/word/compliance)：法令遵守
 
 <!-- cvid: aid07_bid15 -->

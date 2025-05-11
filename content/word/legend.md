@@ -97,7 +97,7 @@ legendは、TOEICの長文読解や説明文で「伝説」や「凡例」とし
 ## 🤔  myth との違いは？
 
 - **legend**：実在の人物や出来事に基づくことが多い伝説や、地図の凡例も指す。
-- **[myth](/myth)**：神話や空想的な物語で、事実とは限らない話。
+- **[myth](/word/myth)**：神話や空想的な物語で、事実とは限らない話。
 
 legendは歴史的事実や人物に根ざした物語が多いのに対し、mythは神話や根拠のない話に使われます。
 
@@ -105,14 +105,14 @@ legendは歴史的事実や人物に根ざした物語が多いのに対し、my
 
 ## 🧩 あわせて覚えたい
 
-- [hero](/hero)：英雄、勇者
-- [tale](/tale)：物語、話
+- [hero](/word/hero)：英雄、勇者
+- [tale](/word/tale)：物語、話
 
 ---
 
 ## 📖 できればこれも
 
-- [history](/history)：歴史
-- [story](/story)：話、物語
+- [history](/word/history)：歴史
+- [story](/word/story)：話、物語
 
 <!-- cvid: aid14_bid28 -->

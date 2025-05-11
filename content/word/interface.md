@@ -97,7 +97,7 @@ ITやビジネス関連の長文や説明文で、システムやアプリの機
 ## 🤔  interaction との違いは？
 
 - **interface**：システムや人・機械の「接点」や「境界面」を指す
-- **[interaction](/interaction)**：人や物、システム同士の「やりとり」や「相互作用」を指す
+- **[interaction](/word/interaction)**：人や物、システム同士の「やりとり」や「相互作用」を指す
 
 interfaceは「つなぐ場所・仕組み」に焦点があり、interactionは「やりとり・作用そのもの」に焦点があります。
 
@@ -105,14 +105,14 @@ interfaceは「つなぐ場所・仕組み」に焦点があり、interactionは
 
 ## 🧩 あわせて覚えたい
 
-- [platform](/platform)：基盤、プラットフォーム
-- [protocol](/protocol)：通信規約、プロトコル
+- [platform](/word/platform)：基盤、プラットフォーム
+- [protocol](/word/protocol)：通信規約、プロトコル
 
 ---
 
 ## 📖 できればこれも
 
-- [system](/system)：システム、仕組み
-- [network](/network)：ネットワーク、通信網
+- [system](/word/system)：システム、仕組み
+- [network](/word/network)：ネットワーク、通信網
 
 <!-- cvid: aid32_bid31 -->

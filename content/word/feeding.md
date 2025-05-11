@@ -97,7 +97,7 @@ The feeding schedule for the animals must be followed strictly.
 ## 🤔  eating との違いは？
 
 - **feeding**：誰かに食べ物を与える行為や、その時間を指す
-- **[eating](/eating)**：自分自身が食べる行為そのもの
+- **[eating](/word/eating)**：自分自身が食べる行為そのもの
 
 feedingは「食べさせる」「与える」側の視点、eatingは「食べる」側の視点で使い分けます。
 
@@ -105,14 +105,14 @@ feedingは「食べさせる」「与える」側の視点、eatingは「食べ�
 
 ## 🧩 あわせて覚えたい
 
-- [nutrition](/nutrition)：栄養
-- [diet](/diet)：食事、食生活
+- [nutrition](/word/nutrition)：栄養
+- [diet](/word/diet)：食事、食生活
 
 ---
 
 ## 📖 できればこれも
 
-- [meal](/meal)：食事
-- [nurse](/nurse)：看護師、世話をする
+- [meal](/word/meal)：食事
+- [nurse](/word/nurse)：看護師、世話をする
 
 <!-- cvid: aid03_bid44 -->

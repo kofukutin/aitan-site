@@ -97,7 +97,7 @@ TOEICでは、形容詞として「proven ability（実証された能力）」�
 ## 🤔  verified との違いは？
 
 - **proven**：証拠や実績によって「証明された」「実証済みの」
-- **[verified](/verified)**：検証や確認作業によって「確認された」「検証済みの」
+- **[verified](/word/verified)**：検証や確認作業によって「確認された」「検証済みの」
 
 provenは長期間の実績や証拠に基づくニュアンスが強く、verifiedは手順やチェックによって正しいと確認された場合に使います。
 
@@ -105,14 +105,14 @@ provenは長期間の実績や証拠に基づくニュアンスが強く、verif
 
 ## 🧩 あわせて覚えたい
 
-- [confirmed](/confirmed)：確認された、確定した
-- [demonstrated](/demonstrated)：実証された、明らかにされた
+- [confirmed](/word/confirmed)：確認された、確定した
+- [demonstrated](/word/demonstrated)：実証された、明らかにされた
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/reliable)：信頼できる
-- [evidence](/evidence)：証拠
+- [reliable](/word/reliable)：信頼できる
+- [evidence](/word/evidence)：証拠
 
 <!-- cvid: aid13_bid43 -->

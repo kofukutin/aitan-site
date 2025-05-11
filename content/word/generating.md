@@ -97,7 +97,7 @@ TOEICでは、会議や説明の場面で「発生させる」「生み出す」
 ## 🤔  producing との違いは？
 
 - **generating**：何かを新たに生み出す、特にエネルギーやアイデアなど無形のものに使う
-- **[producing](/producing)**：物理的な製品や成果物を作り出す場合によく使う
+- **[producing](/word/producing)**：物理的な製品や成果物を作り出す場合によく使う
 
 「generating」は抽象的・無形のもの（例：電気、アイデア）に、「producing」は具体的な物や成果物に使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、会議や説明の場面で「発生させる」「生み出す」
 
 ## 🧩 あわせて覚えたい
 
-- [create](/create)：作り出す、創造する
-- [emit](/emit)：放出する、発する
+- [create](/word/create)：作り出す、創造する
+- [emit](/word/emit)：放出する、発する
 
 ---
 
 ## 📖 できればこれも
 
-- [develop](/develop)：開発する、発展させる
-- [form](/form)：形作る、形成する
+- [develop](/word/develop)：開発する、発展させる
+- [form](/word/form)：形作る、形成する
 
 <!-- cvid: aid26_bid08 -->

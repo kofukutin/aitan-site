@@ -100,7 +100,7 @@ TOEICでは観光や交通、歴史的な説明文で「pike（有料道路）�
 ## 🤔  spear との違いは？
 
 - **pike**：長い棒の先に刃がついた槍や、パイク（魚）、有料道路を指す。
-- **[spear](/spear)**：一般的な「槍」全般を指す。
+- **[spear](/word/spear)**：一般的な「槍」全般を指す。
 
 pikeは特に長くて歩兵が使う槍や、魚・道路の意味も持ちますが、spearはより広く「槍」全般を指します。
 
@@ -108,14 +108,14 @@ pikeは特に長くて歩兵が使う槍や、魚・道路の意味も持ちま�
 
 ## 🧩 あわせて覚えたい
 
-- [highway](/highway)：高速道路
-- [trout](/trout)：マス（淡水魚）
+- [highway](/word/highway)：高速道路
+- [trout](/word/trout)：マス（淡水魚）
 
 ---
 
 ## 📖 できればこれも
 
-- [sword](/sword)：剣
-- [bridge](/bridge)：橋
+- [sword](/word/sword)：剣
+- [bridge](/word/bridge)：橋
 
 <!-- cvid: aid32_bid46 -->

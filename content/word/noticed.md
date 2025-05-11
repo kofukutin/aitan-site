@@ -98,7 +98,7 @@ TOEICでは会話や説明文の中で「気づく」「注目する」という
 ## 🤔  realized との違いは？
 
 - **noticed**：目で見たり、耳で聞いたりして「気づく」「発見する」こと。
-- **[realized](/realized)**：頭の中で「理解する」「はっきり認識する」こと。
+- **[realized](/word/realized)**：頭の中で「理解する」「はっきり認識する」こと。
 
 noticedは五感を通じて気づく場合に使い、realizedは考えて理解したときに使います。
 
@@ -106,14 +106,14 @@ noticedは五感を通じて気づく場合に使い、realizedは考えて理�
 
 ## 🧩 あわせて覚えたい
 
-- [observe](/observe)：観察する、じっと見る
-- [ignore](/ignore)：無視する、気づかないふりをする
+- [observe](/word/observe)：観察する、じっと見る
+- [ignore](/word/ignore)：無視する、気づかないふりをする
 
 ---
 
 ## 📖 できればこれも
 
-- [remind](/remind)：思い出させる
-- [recognize](/recognize)：認識する、見分ける
+- [remind](/word/remind)：思い出させる
+- [recognize](/word/recognize)：認識する、見分ける
 
 <!-- cvid: aid20_bid07 -->

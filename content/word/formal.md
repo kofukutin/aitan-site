@@ -97,7 +97,7 @@ TOEICでは、服装や文書、会議など「公式な場面」を表す語と
 ## 🤔  official との違いは？
 
 - **formal**：礼儀や規則に従った「正式な」「格式ばった」状態や態度を表す。
-- **[official](/official)**：公的な立場や機関に関係する「公式の」「公認の」を表す。
+- **[official](/word/official)**：公的な立場や機関に関係する「公式の」「公認の」を表す。
 
 formalは「マナーや形式」に重点があり、officialは「権威や公的な認可」に重点があります。
 
@@ -105,14 +105,14 @@ formalは「マナーや形式」に重点があり、officialは「権威や公
 
 ## 🧩 あわせて覚えたい
 
-- [informal](/informal)：非公式の、くだけた
-- [ceremony](/ceremony)：式典、儀式
+- [informal](/word/informal)：非公式の、くだけた
+- [ceremony](/word/ceremony)：式典、儀式
 
 ---
 
 ## 📖 できればこれも
 
-- [polite](/polite)：礼儀正しい
-- [appropriate](/appropriate)：適切な
+- [polite](/word/polite)：礼儀正しい
+- [appropriate](/word/appropriate)：適切な
 
 <!-- cvid: aid35_bid18 -->

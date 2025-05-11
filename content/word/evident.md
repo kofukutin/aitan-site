@@ -97,7 +97,7 @@ TOEICでは、文法や語彙問題で「明白な」「明らかな」という
 ## 🤔  obvious との違いは？
 
 - **evident**：証拠や状況から見て明らかな（ややフォーマル）
-- **[obvious](/obvious)**：誰が見てもすぐ分かるほど明白な（カジュアル寄り）
+- **[obvious](/word/obvious)**：誰が見てもすぐ分かるほど明白な（カジュアル寄り）
 
 evidentは「証拠や理由があって明らか」というニュアンスが強く、obviousは「一目で分かるほど明白」という意味でより直接的です。
 
@@ -105,14 +105,14 @@ evidentは「証拠や理由があって明らか」というニュアンスが�
 
 ## 🧩 あわせて覚えたい
 
-- [apparent](/apparent)：見たところ明らかな
-- [unclear](/unclear)：はっきりしない、不明瞭な
+- [apparent](/word/apparent)：見たところ明らかな
+- [unclear](/word/unclear)：はっきりしない、不明瞭な
 
 ---
 
 ## 📖 できればこれも
 
-- [apparent](/apparent)：見たところ明らかな
-- [significant](/significant)：重要な、意味のある
+- [apparent](/word/apparent)：見たところ明らかな
+- [significant](/word/significant)：重要な、意味のある
 
 <!-- cvid: aid11_bid45 -->

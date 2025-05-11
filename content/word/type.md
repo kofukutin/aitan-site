@@ -97,7 +97,7 @@ TOEICでは「type of ～」の形で名詞の分類や説明を問う問題が�
 ## 🤔  kind との違いは？
 
 - **type**：客観的な分類や技術的な「型」「種類」に使う
-- **[kind](/kind)**：より日常的で、感覚的な「種類」に使う
+- **[kind](/word/kind)**：より日常的で、感覚的な「種類」に使う
 
 **type**は科学的・技術的な分類や、明確な基準がある場合に使われやすいのに対し、**kind**は人の感覚や印象による大まかな分類に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは「type of ～」の形で名詞の分類や説明を問う問題が�
 
 ## 🧩 あわせて覚えたい
 
-- [category](/category)：カテゴリー、部門
-- [form](/form)：形、形式
+- [category](/word/category)：カテゴリー、部門
+- [form](/word/form)：形、形式
 
 ---
 
 ## 📖 できればこれも
 
-- [sort](/sort)：種類、分類
-- [class](/class)：階級、等級
+- [sort](/word/sort)：種類、分類
+- [class](/word/class)：階級、等級
 
 <!-- cvid: aid44_bid32 -->

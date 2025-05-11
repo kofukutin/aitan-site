@@ -98,7 +98,7 @@ heraldはTOEICの長文読解パートで、ニュース記事や公式発表文
 ## 🤔  announce との違いは？
 
 - **herald**：何かの到来や始まりを「前触れ」として公式に知らせる、予兆を示す
-- **[announce](/announce)**：出来事や情報を「発表する」「公表する」
+- **[announce](/word/announce)**：出来事や情報を「発表する」「公表する」
 
 heraldは「新時代の到来」など大きな変化や出来事の前触れを強調し、announceは単に情報を伝えるニュートラルな表現です。
 
@@ -106,14 +106,14 @@ heraldは「新時代の到来」など大きな変化や出来事の前触れ�
 
 ## 🧩 あわせて覚えたい
 
-- [proclaim](/proclaim)：（公式に）宣言する
-- [signal](/signal)：合図する、示す
+- [proclaim](/word/proclaim)：（公式に）宣言する
+- [signal](/word/signal)：合図する、示す
 
 ---
 
 ## 📖 できればこれも
 
-- [forecast](/forecast)：予測する、予報する
-- [declare](/declare)：宣言する、公表する
+- [forecast](/word/forecast)：予測する、予報する
+- [declare](/word/declare)：宣言する、公表する
 
 <!-- cvid: aid08_bid40 -->

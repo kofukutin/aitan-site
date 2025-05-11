@@ -97,7 +97,7 @@ ITやビジネス文書、説明文で「array」はデータや商品などの�
 ## 🤔  list との違いは？
 
 - **array**：同じ種類のものが整然と並んだ集まりや、IT分野での「配列」を指す
-- **[list](/list)**：順序や種類を問わず、項目を列挙した「リスト」を指す
+- **[list](/word/list)**：順序や種類を問わず、項目を列挙した「リスト」を指す
 
 arrayは「整然と並んだ」「構造化された」ニュアンスが強く、listは単なる項目の羅列に使われます。
 
@@ -105,14 +105,14 @@ arrayは「整然と並んだ」「構造化された」ニュアンスが強く
 
 ## 🧩 あわせて覚えたい
 
-- [sequence](/sequence)：順序、連続
-- [collection](/collection)：収集物、集まり
+- [sequence](/word/sequence)：順序、連続
+- [collection](/word/collection)：収集物、集まり
 
 ---
 
 ## 📖 できればこれも
 
-- [function](/function)：機能、関数
-- [structure](/structure)：構造、仕組み
+- [function](/word/function)：機能、関数
+- [structure](/word/structure)：構造、仕組み
 
 <!-- cvid: aid06_bid22 -->

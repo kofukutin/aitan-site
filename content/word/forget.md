@@ -97,7 +97,7 @@ TOEICでは会話や指示の中で「忘れる」「忘れずに～する」と
 ## 🤔  leave との違いは？
 
 - **forget**：意図せずに「忘れる」「思い出せない」ことを表す。
-- **[leave](/leave)**：物や人を「置いていく」「残していく」ことを表す。
+- **[leave](/word/leave)**：物や人を「置いていく」「残していく」ことを表す。
 
 forgetは「記憶」や「行動」をうっかり抜かす場合に使い、leaveは「物理的に置き忘れる」場合に使います。
 
@@ -105,14 +105,14 @@ forgetは「記憶」や「行動」をうっかり抜かす場合に使い、le
 
 ## 🧩 あわせて覚えたい
 
-- [remember](/remember)：覚えている、思い出す
-- [miss](/miss)：逃す、見落とす
+- [remember](/word/remember)：覚えている、思い出す
+- [miss](/word/miss)：逃す、見落とす
 
 ---
 
 ## 📖 できればこれも
 
-- [remind](/remind)：思い出させる
-- [lose](/lose)：失う、なくす
+- [remind](/word/remind)：思い出させる
+- [lose](/word/lose)：失う、なくす
 
 <!-- cvid: aid47_bid11 -->

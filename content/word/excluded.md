@@ -97,7 +97,7 @@ TOEICでは、契約や条件説明、案内文などで「除外された」「
 ## 🤔  omitted との違いは？
 
 - **excluded**：意図的に除外された、最初から含めないと決められた
-- **[omitted](/omitted)**：うっかり・意図的に「抜け落ちた」「記載されなかった」
+- **[omitted](/word/omitted)**：うっかり・意図的に「抜け落ちた」「記載されなかった」
 
 excludedは「意図的に外す」ニュアンスが強く、omittedは「書き忘れ」や「うっかり抜けた」場合にも使われます。
 
@@ -105,14 +105,14 @@ excludedは「意図的に外す」ニュアンスが強く、omittedは「書�
 
 ## 🧩 あわせて覚えたい
 
-- [include](/include)：含む
-- [reject](/reject)：拒否する
+- [include](/word/include)：含む
+- [reject](/word/reject)：拒否する
 
 ---
 
 ## 📖 できればこれも
 
-- [eligible](/eligible)：資格がある
-- [applicable](/applicable)：該当する
+- [eligible](/word/eligible)：資格がある
+- [applicable](/word/applicable)：該当する
 
 <!-- cvid: aid36_bid37 -->

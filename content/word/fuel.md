@@ -97,7 +97,7 @@ TOEICでは主にビジネスや日常の説明場面で、エネルギーや資
 ## 🤔  energy との違いは？
 
 - **fuel**：物理的な「燃料」や「エネルギー源」を指す
-- **[energy](/energy)**：力や活力など抽象的な「エネルギー」全般を指す
+- **[energy](/word/energy)**：力や活力など抽象的な「エネルギー」全般を指す
 
 fuelはガソリンや石炭など具体的な物質を指し、energyは物理的・精神的な力や活動力など幅広い意味で使われます。
 
@@ -105,14 +105,14 @@ fuelはガソリンや石炭など具体的な物質を指し、energyは物理�
 
 ## 🧩 あわせて覚えたい
 
-- [gasoline](/gasoline)：ガソリン
-- [resource](/resource)：資源
+- [gasoline](/word/gasoline)：ガソリン
+- [resource](/word/resource)：資源
 
 ---
 
 ## 📖 できればこれも
 
-- [power](/power)：動力、電力
-- [supply](/supply)：供給
+- [power](/word/power)：動力、電力
+- [supply](/word/supply)：供給
 
 <!-- cvid: aid15_bid33 -->

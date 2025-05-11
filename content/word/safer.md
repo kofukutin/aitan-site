@@ -97,7 +97,7 @@ We need a safer way to store customer data.
 ## 🤔  more secure との違いは？
 
 - **safer**：一般的に「より安全な」。日常的な安全性や危険の少なさを幅広く表現。
-- **[more secure](/more_secure)**：物理的・技術的な「防御が強い」「堅牢な」ニュアンスが強い。
+- **[more secure](/word/more_secure)**：物理的・技術的な「防御が強い」「堅牢な」ニュアンスが強い。
 
 saferは広く「危険が少ない」ことを指し、more secureは「守りが固い」「防犯・防御が強い」といった専門的・技術的な場面で使われやすいです。
 
@@ -105,14 +105,14 @@ saferは広く「危険が少ない」ことを指し、more secureは「守り�
 
 ## 🧩 あわせて覚えたい
 
-- [dangerous](/dangerous)：危険な
-- [secure](/secure)：安全な、しっかりした
+- [dangerous](/word/dangerous)：危険な
+- [secure](/word/secure)：安全な、しっかりした
 
 ---
 
 ## 📖 できればこれも
 
-- [safe](/safe)：安全な
-- [careful](/careful)：注意深い
+- [safe](/word/safe)：安全な
+- [careful](/word/careful)：注意深い
 
 <!-- cvid: aid09_bid31 -->

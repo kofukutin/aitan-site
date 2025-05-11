@@ -97,7 +97,7 @@ TOEICでは主にPart 1や数字を問う設問で、時刻や数量の表現と
 ## 🤔  dozen との違いは？
 
 - **twelve**：具体的に「12」という数字を表す。
-- **[dozen](/dozen)**：おおよそ「12個分」という単位やまとまりを表す。
+- **[dozen](/word/dozen)**：おおよそ「12個分」という単位やまとまりを表す。
 
 twelveは単なる数字、dozenは「1ダース」というまとまりや単位として使われる点が異なります。
 
@@ -105,14 +105,14 @@ twelveは単なる数字、dozenは「1ダース」というまとまりや単�
 
 ## 🧩 あわせて覚えたい
 
-- [eleven](/eleven)：11、十一
-- [thirteen](/thirteen)：13、十三
+- [eleven](/word/eleven)：11、十一
+- [thirteen](/word/thirteen)：13、十三
 
 ---
 
 ## 📖 できればこれも
 
-- [twenty](/twenty)：20、二十
-- [hundred](/hundred)：100、百
+- [twenty](/word/twenty)：20、二十
+- [hundred](/word/hundred)：100、百
 
 <!-- cvid: aid08_bid46 -->

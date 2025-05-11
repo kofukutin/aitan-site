@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や製品紹介、企業の強みを説明す
 ## 🤔  creative との違いは？
 
 - **innovative**：既存の枠を超えて新しいものを生み出す、革新的な
-- **[creative](/creative)**：独創的な発想やアイデアを持つ、創造的な
+- **[creative](/word/creative)**：独創的な発想やアイデアを持つ、創造的な
 
 「innovative」は実際に新しい方法や技術を導入する実践的な革新性を強調し、「creative」は発想やアイデアの独自性・創造性を強調します。
 
@@ -105,14 +105,14 @@ TOEICでは主にビジネス文書や製品紹介、企業の強みを説明す
 
 ## 🧩 あわせて覚えたい
 
-- [inventive](/inventive)：発明の才能がある、独創的な
-- [traditional](/traditional)：伝統的な、従来の
+- [inventive](/word/inventive)：発明の才能がある、独創的な
+- [traditional](/word/traditional)：伝統的な、従来の
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/efficient)：効率的な
-- [unique](/unique)：唯一無二の、独特な
+- [efficient](/word/efficient)：効率的な
+- [unique](/word/unique)：唯一無二の、独特な
 
 <!-- cvid: aid24_bid49 -->

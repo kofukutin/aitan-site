@@ -97,7 +97,7 @@ TOEICでは案内文や指示文、メールなどで「recommended」が「推�
 ## 🤔  suggested との違いは？
 
 - **recommended**：専門家や公式な立場から「強く勧められる」「推奨される」ニュアンス
-- **[suggested](/suggested)**：提案や案として「軽く勧められる」「提案された」ニュアンス
+- **[suggested](/word/suggested)**：提案や案として「軽く勧められる」「提案された」ニュアンス
 
 「recommended」はよりフォーマルで強い推奨、「suggested」は選択肢の一つとしての提案という違いがあります。
 
@@ -105,14 +105,14 @@ TOEICでは案内文や指示文、メールなどで「recommended」が「推�
 
 ## 🧩 あわせて覚えたい
 
-- [mandatory](/mandatory)：義務の、強制の
-- [optional](/optional)：任意の、選択できる
+- [mandatory](/word/mandatory)：義務の、強制の
+- [optional](/word/optional)：任意の、選択できる
 
 ---
 
 ## 📖 できればこれも
 
-- [required](/required)：必須の
-- [preferred](/preferred)：望ましい
+- [required](/word/required)：必須の
+- [preferred](/word/preferred)：望ましい
 
 <!-- cvid: aid29_bid43 -->

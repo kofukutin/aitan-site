@@ -97,7 +97,7 @@ TOEICでは「敬意」「尊重」などの意味で、ビジネスメールや
 ## 🤔  honor との違いは？
 
 - **respect**：相手の人格や考え方、行動などに対して敬意を払うこと
-- **[honor](/honor)**：功績や地位などに対して与えられる名誉や栄誉
+- **[honor](/word/honor)**：功績や地位などに対して与えられる名誉や栄誉
 
 respectは日常的な「敬意」や「尊重」を表し、honorは特別な功績や表彰など「名誉」に焦点を当てます。
 
@@ -105,14 +105,14 @@ respectは日常的な「敬意」や「尊重」を表し、honorは特別な�
 
 ## 🧩 あわせて覚えたい
 
-- [disrespect](/disrespect)：無礼、軽視
-- [admire](/admire)：称賛する、感心する
+- [disrespect](/word/disrespect)：無礼、軽視
+- [admire](/word/admire)：称賛する、感心する
 
 ---
 
 ## 📖 できればこれも
 
-- [trust](/trust)：信頼
-- [value](/value)：価値、重んじる
+- [trust](/word/trust)：信頼
+- [value](/word/value)：価値、重んじる
 
 <!-- cvid: aid27_bid01 -->

@@ -97,7 +97,7 @@ TOEICでは、会議やプレゼン、契約書などの文脈で「解釈」や
 ## 🤔  translation との違いは？
 
 - **interpretation**：その場で口頭で訳す「通訳」や、物事の「解釈」という意味。
-- **[translation](/translation)**：文章や文書を別の言語に書き換える「翻訳」。
+- **[translation](/word/translation)**：文章や文書を別の言語に書き換える「翻訳」。
 
 interpretationは話し言葉や抽象的な意味の解釈に使い、translationは書き言葉の翻訳に使います。
 
@@ -105,14 +105,14 @@ interpretationは話し言葉や抽象的な意味の解釈に使い、translati
 
 ## 🧩 あわせて覚えたい
 
-- [explanation](/explanation)：説明
-- [analysis](/analysis)：分析
+- [explanation](/word/explanation)：説明
+- [analysis](/word/analysis)：分析
 
 ---
 
 ## 📖 できればこれも
 
-- [presentation](/presentation)：発表、プレゼンテーション
-- [summary](/summary)：要約
+- [presentation](/word/presentation)：発表、プレゼンテーション
+- [summary](/word/summary)：要約
 
 <!-- cvid: aid11_bid25 -->

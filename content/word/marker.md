@@ -97,7 +97,7 @@ TOEICでは文房具やオフィス用品の文脈で出題されることが多
 ## 🤔  highlighter との違いは？
 
 - **marker**：一般的なマーカーペンや目印全般を指す
-- **[highlighter](/highlighter)**：特に蛍光ペン（重要部分を目立たせるペン）を指す
+- **[highlighter](/word/highlighter)**：特に蛍光ペン（重要部分を目立たせるペン）を指す
 
 markerは幅広く「印をつけるもの」全般を指しますが、highlighterは「蛍光ペン」として使われることが多いです。
 
@@ -105,14 +105,14 @@ markerは幅広く「印をつけるもの」全般を指しますが、highligh
 
 ## 🧩 あわせて覚えたい
 
-- [pen](/pen)：ペン、筆記用具
-- [label](/label)：ラベル、貼り札
+- [pen](/word/pen)：ペン、筆記用具
+- [label](/word/label)：ラベル、貼り札
 
 ---
 
 ## 📖 できればこれも
 
-- [notebook](/notebook)：ノート
-- [eraser](/eraser)：消しゴム
+- [notebook](/word/notebook)：ノート
+- [eraser](/word/eraser)：消しゴム
 
 <!-- cvid: aid44_bid18 -->

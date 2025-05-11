@@ -97,7 +97,7 @@ theologyはTOEICの長文読解（Part 7）で、大学や教育、宗教に関�
 ## 🤔  philosophy との違いは？
 
 - **theology**：神や宗教、信仰について体系的に研究する学問
-- **[philosophy](/philosophy)**：人生や存在、知識など幅広い根本的な問いを扱う学問
+- **[philosophy](/word/philosophy)**：人生や存在、知識など幅広い根本的な問いを扱う学問
 
 theologyは宗教や神に特化した学問で、philosophyはより広い抽象的なテーマを扱います。
 
@@ -105,14 +105,14 @@ theologyは宗教や神に特化した学問で、philosophyはより広い抽�
 
 ## 🧩 あわせて覚えたい
 
-- [doctrine](/doctrine)：（宗教などの）教義、教理
-- [ethics](/ethics)：倫理学、道徳
+- [doctrine](/word/doctrine)：（宗教などの）教義、教理
+- [ethics](/word/ethics)：倫理学、道徳
 
 ---
 
 ## 📖 できればこれも
 
-- [mythology](/mythology)：神話学、神話体系
-- [ritual](/ritual)：儀式、宗教的な習慣
+- [mythology](/word/mythology)：神話学、神話体系
+- [ritual](/word/ritual)：儀式、宗教的な習慣
 
 <!-- cvid: aid13_bid01 -->

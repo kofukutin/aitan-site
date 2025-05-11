@@ -97,7 +97,7 @@ TOEICでは、報告書やメール、記事などで「情報が明らかにな
 ## 🤔  disclosed との違いは？
 
 - **revealed**：隠されていた事実や情報を明らかにする、感情や秘密にも使える
-- **[disclosed](/disclosed)**：主に公式・法的な場面で情報を開示する
+- **[disclosed](/word/disclosed)**：主に公式・法的な場面で情報を開示する
 
 「revealed」は個人的な秘密や感情にも使えますが、「disclosed」はビジネスや法律など公式な情報公開に使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、報告書やメール、記事などで「情報が明らかにな
 
 ## 🧩 あわせて覚えたい
 
-- [hide](/hide)：隠す
-- [announce](/announce)：発表する
+- [hide](/word/hide)：隠す
+- [announce](/word/announce)：発表する
 
 ---
 
 ## 📖 できればこれも
 
-- [uncover](/uncover)：発見する、暴く
-- [expose](/expose)：さらす、暴露する
+- [uncover](/word/uncover)：発見する、暴く
+- [expose](/word/expose)：さらす、暴露する
 
 <!-- cvid: aid23_bid00 -->

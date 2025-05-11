@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「疑う」「～と思う」という意味で
 ## 🤔  doubt との違いは？
 
 - **suspect**：何かが本当・事実かもしれないと「疑う・思う」
-- **[doubt](/doubt)**：何かが本当ではないと「疑う・信じない」
+- **[doubt](/word/doubt)**：何かが本当ではないと「疑う・信じない」
 
 suspectは「～かもしれない」と推測するニュアンス、doubtは「信じられない・違うと思う」否定的なニュアンスが強いです。
 
@@ -105,14 +105,14 @@ suspectは「～かもしれない」と推測するニュアンス、doubtは�
 
 ## 🧩 あわせて覚えたい
 
-- [accuse](/accuse)：非難する、告発する
-- [assume](/assume)：仮定する、思い込む
+- [accuse](/word/accuse)：非難する、告発する
+- [assume](/word/assume)：仮定する、思い込む
 
 ---
 
 ## 📖 できればこれも
 
-- [detect](/detect)：見つける、発見する
-- [identify](/identify)：特定する、識別する
+- [detect](/word/detect)：見つける、発見する
+- [identify](/word/identify)：特定する、識別する
 
 <!-- cvid: aid27_bid28 -->

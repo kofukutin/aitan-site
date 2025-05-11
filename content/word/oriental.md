@@ -97,7 +97,7 @@ TOEICでは観光や文化紹介の記事、ホテルやレストランの説明
 ## 🤔  eastern との違いは？
 
 - **oriental**：アジアや東洋の文化・芸術・料理などを指し、やや古風・フォーマルな表現。
-- **[eastern](/eastern)**：単に「東の」「東部の」という地理的な意味で使われる。
+- **[eastern](/word/eastern)**：単に「東の」「東部の」という地理的な意味で使われる。
 
 "oriental" は文化的・歴史的なニュアンスが強く、"eastern" は地理的な方向や位置を表す際に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは観光や文化紹介の記事、ホテルやレストランの説明
 
 ## 🧩 あわせて覚えたい
 
-- [western](/western)：西洋の、西の
+- [western](/word/western)：西洋の、西の
 - [Asian](/Asian)：アジアの、アジア人
 
 ---
 
 ## 📖 できればこれも
 
-- [exotic](/exotic)：異国風の
-- [traditional](/traditional)：伝統的な
+- [exotic](/word/exotic)：異国風の
+- [traditional](/word/traditional)：伝統的な
 
 <!-- cvid: aid25_bid11 -->

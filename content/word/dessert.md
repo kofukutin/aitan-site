@@ -97,7 +97,7 @@ TOEICではレストランやカフェの会話、メニュー説明などで登
 ## 🤔  sweet との違いは？
 
 - **dessert**：食事の最後に出される甘い料理や果物
-- **[sweet](/sweet)**：甘いもの全般や「甘い」という形容詞
+- **[sweet](/word/sweet)**：甘いもの全般や「甘い」という形容詞
 
 dessertは「食後のデザート」という特定の場面で使い、sweetは「甘いもの」や「甘い味」を広く指します。
 
@@ -105,13 +105,13 @@ dessertは「食後のデザート」という特定の場面で使い、sweet�
 
 ## 🧩 あわせて覚えたい
 
-- [main_course](/main_course)：メインディッシュ、主菜
-- [snack](/snack)：軽食、おやつ
+- [main_course](/word/main_course)：メインディッシュ、主菜
+- [snack](/word/snack)：軽食、おやつ
 
 ---
 
 ## 📖 できればこれも
 
-- [beverage](/beverage)：飲み物
-- [dish](/dish)：料理、皿
+- [beverage](/word/beverage)：飲み物
+- [dish](/word/dish)：料理、皿
 <!-- cvid: aid40_bid20 -->

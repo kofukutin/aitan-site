@@ -97,7 +97,7 @@ The company expanded its business to the mainland.
 ## 🤔  continent との違いは？
 
 - **mainland**：島や半島と区別して「本土」「大陸側」を指す
-- **[continent](/continent)**：地球上の「大陸」そのものを指す
+- **[continent](/word/continent)**：地球上の「大陸」そのものを指す
 
 mainlandは「本土（島に対する大きな陸地）」、continentは「アジア・ヨーロッパなどの大陸」を意味し、規模や文脈が異なります。
 
@@ -105,14 +105,14 @@ mainlandは「本土（島に対する大きな陸地）」、continentは「ア
 
 ## 🧩 あわせて覚えたい
 
-- [island](/island)：島
-- [peninsula](/peninsula)：半島
+- [island](/word/island)：島
+- [peninsula](/word/peninsula)：半島
 
 ---
 
 ## 📖 できればこれも
 
-- [coast](/coast)：海岸
-- [border](/border)：国境
+- [coast](/word/coast)：海岸
+- [border](/word/border)：国境
 
 <!-- cvid: aid17_bid42 -->

@@ -97,7 +97,7 @@ TOEICではPart 5の語彙問題で、節約やコスト削減に関する文脈
 ## 🤔  save との違いは？
 
 - **economize**：無駄を省いて全体的に節約する（フォーマル）
-- **[save](/save)**：お金や時間などを「貯める」「節約する」（カジュアル・幅広い場面）
+- **[save](/word/save)**：お金や時間などを「貯める」「節約する」（カジュアル・幅広い場面）
 
 economizeは「無駄を省く」ニュアンスが強く、saveは「貯める」「節約する」と幅広く使われます。
 
@@ -105,14 +105,14 @@ economizeは「無駄を省く」ニュアンスが強く、saveは「貯める�
 
 ## 🧩 あわせて覚えたい
 
-- [reduce](/reduce)：減らす
-- [conserve](/conserve)：（資源などを）大切に使う、保存する
+- [reduce](/word/reduce)：減らす
+- [conserve](/word/conserve)：（資源などを）大切に使う、保存する
 
 ---
 
 ## 📖 できればこれも
 
-- [allocate](/allocate)：割り当てる、配分する
-- [budget](/budget)：予算を立てる
+- [allocate](/word/allocate)：割り当てる、配分する
+- [budget](/word/budget)：予算を立てる
 
 <!-- cvid: aid48_bid11 -->

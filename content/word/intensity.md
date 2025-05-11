@@ -97,7 +97,7 @@ TOEICでは科学的な説明やビジネス文書で「強度」や「激しさ
 ## 🤔  strength との違いは？
 
 - **intensity**：光・熱・感情などの「度合いの強さ」「激しさ」を表すフォーマルな語
-- **[strength](/strength)**：物理的な「力」や「強さ」、または能力・長所など幅広い意味で使う
+- **[strength](/word/strength)**：物理的な「力」や「強さ」、または能力・長所など幅広い意味で使う
 
 intensityは「どれだけ激しいか・強いか」という度合いに焦点を当て、strengthは「力そのもの」や「強み」を指します。
 
@@ -105,14 +105,14 @@ intensityは「どれだけ激しいか・強いか」という度合いに焦�
 
 ## 🧩 あわせて覚えたい
 
-- [concentration](/concentration)：濃度、集中
-- [magnitude](/magnitude)：大きさ、規模
+- [concentration](/word/concentration)：濃度、集中
+- [magnitude](/word/magnitude)：大きさ、規模
 
 ---
 
 ## 📖 できればこれも
 
-- [density](/density)：密度
-- [duration](/duration)：継続時間
+- [density](/word/density)：密度
+- [duration](/word/duration)：継続時間
 
 <!-- cvid: aid00_bid38 -->

@@ -97,7 +97,7 @@ TOEICでは広告やビジネス文書、Eメールなどで「campaign」が頻
 ## 🤔  promotion との違いは？
 
 - **campaign**：特定の目的のために計画的・組織的に行う一連の活動や運動
-- **[promotion](/promotion)**：商品の販売促進や昇進など「推進・促進」そのもの
+- **[promotion](/word/promotion)**：商品の販売促進や昇進など「推進・促進」そのもの
 
 campaignは「一連の活動全体」を指し、promotionは「売上を伸ばすための具体的な促進行為」を指します。
 
@@ -105,14 +105,14 @@ campaignは「一連の活動全体」を指し、promotionは「売上を伸ば
 
 ## 🧩 あわせて覚えたい
 
-- [initiative](/initiative)：新しい取り組み、主導権
-- [advertisement](/advertisement)：広告
+- [initiative](/word/initiative)：新しい取り組み、主導権
+- [advertisement](/word/advertisement)：広告
 
 ---
 
 ## 📖 できればこれも
 
-- [strategy](/strategy)：戦略
-- [project](/project)：計画、プロジェクト
+- [strategy](/word/strategy)：戦略
+- [project](/word/project)：計画、プロジェクト
 
 <!-- cvid: aid49_bid13 -->

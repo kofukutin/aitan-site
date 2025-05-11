@@ -93,7 +93,7 @@ TOEICでは会話や指示の中で「大きな声で話す」「はっきり聞
 ## 🤔  noisily との違いは？
 
 - **loudly**：大きな声や音で、はっきりと聞こえる様子
-- **[noisily](/noisily)**：騒がしく、雑音を立てて
+- **[noisily](/word/noisily)**：騒がしく、雑音を立てて
 
 「loudly」は主に声や音が大きいことを強調し、「noisily」はうるさくて落ち着かない様子や雑音が多いことを表します。
 
@@ -101,14 +101,14 @@ TOEICでは会話や指示の中で「大きな声で話す」「はっきり聞
 
 ## 🧩 あわせて覚えたい
 
-- [quietly](/quietly)：静かに
-- [clearly](/clearly)：はっきりと
+- [quietly](/word/quietly)：静かに
+- [clearly](/word/clearly)：はっきりと
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/quickly)：速く
-- [softly](/softly)：やさしく、小声で
+- [quickly](/word/quickly)：速く
+- [softly](/word/softly)：やさしく、小声で
 
 <!-- cvid: aid15_bid06 -->

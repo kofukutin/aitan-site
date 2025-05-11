@@ -97,7 +97,7 @@ TOEICでは、教育やIT、ビジネス分野の長文で「literacy」が出�
 ## 🤔  competence との違いは？
 
 - **literacy**：特定分野の「基礎的な知識や能力」、特に読み書きやITなど
-- **[competence](/competence)**：より広い意味での「能力」や「適性」
+- **[competence](/word/competence)**：より広い意味での「能力」や「適性」
 
 literacyは「基礎的な知識や技能」に焦点があり、competenceは「十分な能力」や「専門性」まで含みます。
 
@@ -105,14 +105,14 @@ literacyは「基礎的な知識や技能」に焦点があり、competenceは�
 
 ## 🧩 あわせて覚えたい
 
-- [illiteracy](/illiteracy)：非識字、読み書きできないこと
-- [proficiency](/proficiency)：熟達、堪能
+- [illiteracy](/word/illiteracy)：非識字、読み書きできないこと
+- [proficiency](/word/proficiency)：熟達、堪能
 
 ---
 
 ## 📖 できればこれも
 
-- [numeracy](/numeracy)：計算能力
-- [knowledge](/knowledge)：知識
+- [numeracy](/word/numeracy)：計算能力
+- [knowledge](/word/knowledge)：知識
 
 <!-- cvid: aid23_bid21 -->

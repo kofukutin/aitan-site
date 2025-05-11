@@ -97,7 +97,7 @@ TOEICでは、文学や教育に関する長文や記事で「verse」が登場�
 ## 🤔  poetry との違いは？
 
 - **verse**：詩や歌の一行や一節、または韻文そのものを指す
-- **[poetry](/poetry)**：詩という文学ジャンル全体や詩的表現を指す
+- **[poetry](/word/poetry)**：詩という文学ジャンル全体や詩的表現を指す
 
 「verse」は具体的な一節や部分、「poetry」は詩全体や抽象的な詩の芸術性を表します。日常会話や文章で使い分けましょう。
 
@@ -105,14 +105,14 @@ TOEICでは、文学や教育に関する長文や記事で「verse」が登場�
 
 ## 🧩 あわせて覚えたい
 
-- [stanza](/stanza)：詩の連、まとまり
-- [prose](/prose)：散文、普通の文章
+- [stanza](/word/stanza)：詩の連、まとまり
+- [prose](/word/prose)：散文、普通の文章
 
 ---
 
 ## 📖 できればこれも
 
-- [rhyme](/rhyme)：韻、韻を踏む
-- [lyric](/lyric)：歌詞、叙情詩
+- [rhyme](/word/rhyme)：韻、韻を踏む
+- [lyric](/word/lyric)：歌詞、叙情詩
 
 <!-- cvid: aid09_bid43 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人物の体の部位や動作を説
 ## 🤔  arm との違いは？
 
 - **shoulder**：肩。腕と胴体をつなぐ部分や、責任を担う意味でも使う。
-- **[arm](/arm)**：腕。肩から手首までの部分。
+- **[arm](/word/arm)**：腕。肩から手首までの部分。
 
 shoulderは「肩」や「責任を担う」など広い意味で使われ、armは「腕」そのものを指します。
 
@@ -105,14 +105,14 @@ shoulderは「肩」や「責任を担う」など広い意味で使われ、arm
 
 ## 🧩 あわせて覚えたい
 
-- [back](/back)：背中
-- [neck](/neck)：首
+- [back](/word/back)：背中
+- [neck](/word/neck)：首
 
 ---
 
 ## 📖 できればこれも
 
-- [elbow](/elbow)：ひじ
-- [chest](/chest)：胸
+- [elbow](/word/elbow)：ひじ
+- [chest](/word/chest)：胸
 
 <!-- cvid: aid44_bid15 -->

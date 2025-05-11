@@ -97,7 +97,7 @@ TOEICでは、製品説明や手順書、化学・食品関連の文脈で「pow
 ## 🤔  dust との違いは？
 
 - **powder**：意図的に作られた細かい粉や粉末（例：小麦粉、化粧品の粉）
-- **[dust](/dust)**：自然に発生するほこりや微粒子、汚れの粉
+- **[dust](/word/dust)**：自然に発生するほこりや微粒子、汚れの粉
 
 powderは用途や目的がある粉末を指し、dustは自然にたまる細かいごみやほこりを指します。
 
@@ -105,14 +105,14 @@ powderは用途や目的がある粉末を指し、dustは自然にたまる細�
 
 ## 🧩 あわせて覚えたい
 
-- [liquid](/liquid)：液体
-- [granule](/granule)：粒、顆粒
+- [liquid](/word/liquid)：液体
+- [granule](/word/granule)：粒、顆粒
 
 ---
 
 ## 📖 できればこれも
 
-- [solid](/solid)：固体
-- [mixture](/mixture)：混合物
+- [solid](/word/solid)：固体
+- [mixture](/word/mixture)：混合物
 
 <!-- cvid: aid23_bid40 -->

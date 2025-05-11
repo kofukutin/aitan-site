@@ -97,7 +97,7 @@ forcedは、TOEICの文法・語彙問題で「強制された」「無理やり
 ## 🤔  compulsory との違いは？
 
 - **forced**：本人の意思に反して無理やり行われた、または自然でない様子を強調
-- **[compulsory](/compulsory)**：法律や規則などによって「義務付けられている」ことを強調
+- **[compulsory](/word/compulsory)**：法律や規則などによって「義務付けられている」ことを強調
 
 forcedは「仕方なくやらされた」ニュアンスが強く、compulsoryは「規則上やらなければならない」義務的な意味合いが強いです。
 
@@ -105,14 +105,14 @@ forcedは「仕方なくやらされた」ニュアンスが強く、compulsory�
 
 ## 🧩 あわせて覚えたい
 
-- [voluntary](/voluntary)：自発的な、任意の
-- [mandatory](/mandatory)：義務的な、強制の
+- [voluntary](/word/voluntary)：自発的な、任意の
+- [mandatory](/word/mandatory)：義務的な、強制の
 
 ---
 
 ## 📖 できればこれも
 
-- [required](/required)：必要とされる、必須の
-- [obligatory](/obligatory)：義務的な、必須の
+- [required](/word/required)：必要とされる、必須の
+- [obligatory](/word/obligatory)：義務的な、必須の
 
 <!-- cvid: aid31_bid48 -->

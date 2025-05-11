@@ -97,7 +97,7 @@ TOEICではPart 7の広告文や案内文、ビジネスメールなどで頻出
 ## 🤔  advertising との違いは？
 
 - **promotional**：販売促進や宣伝目的の「活動・資料」全般を指す形容詞
-- **[advertising](/advertising)**：広告活動そのものや広告業界を指す名詞
+- **[advertising](/word/advertising)**：広告活動そのものや広告業界を指す名詞
 
 「promotional」は広告以外の販促活動（イベント、グッズなど）にも使えますが、「advertising」は広告そのものに限定されます。
 
@@ -105,14 +105,14 @@ TOEICではPart 7の広告文や案内文、ビジネスメールなどで頻出
 
 ## 🧩 あわせて覚えたい
 
-- [commercial](/commercial)：商業的な、広告の
-- [publicity](/publicity)：宣伝、広報
+- [commercial](/word/commercial)：商業的な、広告の
+- [publicity](/word/publicity)：宣伝、広報
 
 ---
 
 ## 📖 できればこれも
 
-- [brochure](/brochure)：パンフレット、小冊子
-- [campaign](/campaign)：キャンペーン、運動
+- [brochure](/word/brochure)：パンフレット、小冊子
+- [campaign](/word/campaign)：キャンペーン、運動
 
 <!-- cvid: aid39_bid02 -->

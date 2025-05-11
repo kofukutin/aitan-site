@@ -96,7 +96,7 @@ walletはTOEICのPart 1で「財布を持っている」「財布をテーブル
 ## 🤔  purse との違いは？
 
 - **wallet**：主に男性用の二つ折り財布やカード・紙幣を入れる小型の財布。
-- **[purse](/purse)**：女性用の小型財布や小銭入れ、またはハンドバッグ全体を指すこともある。
+- **[purse](/word/purse)**：女性用の小型財布や小銭入れ、またはハンドバッグ全体を指すこともある。
 
 walletは紙幣やカード中心、purseは小銭や女性用の財布・バッグを指すことが多く、使い分けに注意が必要です。
 
@@ -104,14 +104,14 @@ walletは紙幣やカード中心、purseは小銭や女性用の財布・バッ
 
 ## 🧩 あわせて覚えたい
 
-- [billfold](/billfold)：二つ折りの紙幣入れ
-- [case](/case)：ケース、入れ物
+- [billfold](/word/billfold)：二つ折りの紙幣入れ
+- [case](/word/case)：ケース、入れ物
 
 ---
 
 ## 📖 できればこれも
 
-- [bag](/bag)：かばん
-- [pocket](/pocket)：ポケット
+- [bag](/word/bag)：かばん
+- [pocket](/word/pocket)：ポケット
 
 <!-- cvid: aid20_bid11 -->

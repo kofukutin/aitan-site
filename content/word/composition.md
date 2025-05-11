@@ -97,7 +97,7 @@ TOEICでは、文章やチーム・製品などの「構成」や「成分」を
 ## 🤔  essay との違いは？
 
 - **composition**：学校の「作文」や、物事の「構成」「成分」など幅広く使うフォーマルな語。
-- **[essay](/essay)**：自分の意見や考えをまとめた「エッセイ」「論文」を指し、主に文章に限定。
+- **[essay](/word/essay)**：自分の意見や考えをまとめた「エッセイ」「論文」を指し、主に文章に限定。
 
 compositionは「構成」や「作文」など幅広い意味で使われますが、essayは意見や主張を述べる文章に特化しています。
 
@@ -105,14 +105,14 @@ compositionは「構成」や「作文」など幅広い意味で使われます
 
 ## 🧩 あわせて覚えたい
 
-- [structure](/structure)：構造、仕組み
-- [arrangement](/arrangement)：配置、取り決め
+- [structure](/word/structure)：構造、仕組み
+- [arrangement](/word/arrangement)：配置、取り決め
 
 ---
 
 ## 📖 できればこれも
 
-- [summary](/summary)：要約
-- [article](/article)：記事、論説
+- [summary](/word/summary)：要約
+- [article](/word/article)：記事、論説
 
 <!-- cvid: aid04_bid33 -->

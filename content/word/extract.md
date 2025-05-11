@@ -97,7 +97,7 @@ TOEICでは、extractは主にビジネス文書や科学的な説明文で「�
 ## 🤔  remove との違いは？
 
 - **extract**：何かから特定のものを「抜き出す」「抽出する」ことに重点がある
-- **[remove](/remove)**：何かを「取り除く」「除去する」ことに重点がある
+- **[remove](/word/remove)**：何かを「取り除く」「除去する」ことに重点がある
 
 extractは「必要なものを選んで取り出す」イメージ、removeは「不要なものを取り除く」イメージです。
 
@@ -105,14 +105,14 @@ extractは「必要なものを選んで取り出す」イメージ、removeは�
 
 ## 🧩 あわせて覚えたい
 
-- [derive](/derive)：引き出す、由来する
-- [isolate](/isolate)：分離する、孤立させる
+- [derive](/word/derive)：引き出す、由来する
+- [isolate](/word/isolate)：分離する、孤立させる
 
 ---
 
 ## 📖 できればこれも
 
-- [obtain](/obtain)：得る、手に入れる
-- [separate](/separate)：分ける、分離する
+- [obtain](/word/obtain)：得る、手に入れる
+- [separate](/word/separate)：分ける、分離する
 
 <!-- cvid: aid13_bid30 -->

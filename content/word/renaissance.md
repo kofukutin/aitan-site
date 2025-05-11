@@ -97,7 +97,7 @@ TOEICでは主に長文読解パートで、歴史や文化、企業の再生な
 ## 🤔  revival との違いは？
 
 - **renaissance**：文化や芸術、組織などの大規模な「再生」「復興」に使われ、歴史的・フォーマルな響きが強い。
-- **[revival](/revival)**：一時的に衰えたものが再び活発になる「復活」「再流行」など、より広くカジュアルに使われる。
+- **[revival](/word/revival)**：一時的に衰えたものが再び活発になる「復活」「再流行」など、より広くカジュアルに使われる。
 
 "renaissance"は特に文化的・歴史的な大きな変化や再生に使われ、"revival"は一時的な流行や活動の再開にも使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主に長文読解パートで、歴史や文化、企業の再生な
 
 ## 🧩 あわせて覚えたい
 
-- [rebirth](/rebirth)：再生、生まれ変わり
-- [enlightenment](/enlightenment)：啓蒙、啓発
+- [rebirth](/word/rebirth)：再生、生まれ変わり
+- [enlightenment](/word/enlightenment)：啓蒙、啓発
 
 ---
 
 ## 📖 できればこれも
 
-- [innovation](/innovation)：革新、新しい発明
-- [heritage](/heritage)：遺産、伝統
+- [innovation](/word/innovation)：革新、新しい発明
+- [heritage](/word/heritage)：遺産、伝統
 
 <!-- cvid: aid06_bid18 -->

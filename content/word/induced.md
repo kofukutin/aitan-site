@@ -97,7 +97,7 @@ TOEICでは、科学的な説明やビジネス文書の中で「induced」が�
 ## 🤔  caused との違いは？
 
 - **induced**：外部からの働きかけや人工的な要因で「引き起こす」ニュアンスが強い
-- **[caused](/caused)**：一般的に「原因となる」「引き起こす」という広い意味
+- **[caused](/word/caused)**：一般的に「原因となる」「引き起こす」という広い意味
 
 inducedは特に「何かの作用や操作によって起こされた」ことを強調し、causedはより広く自然な原因にも使われます。
 
@@ -105,14 +105,14 @@ inducedは特に「何かの作用や操作によって起こされた」こと�
 
 ## 🧩 あわせて覚えたい
 
-- [trigger](/trigger)：引き金となる、きっかけを作る
-- [stimulate](/stimulate)：刺激する、活性化する
+- [trigger](/word/trigger)：引き金となる、きっかけを作る
+- [stimulate](/word/stimulate)：刺激する、活性化する
 
 ---
 
 ## 📖 できればこれも
 
-- [generate](/generate)：生み出す、発生させる
-- [affect](/affect)：影響を与える
+- [generate](/word/generate)：生み出す、発生させる
+- [affect](/word/affect)：影響を与える
 
 <!-- cvid: aid47_bid28 -->

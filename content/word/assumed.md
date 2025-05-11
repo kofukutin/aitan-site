@@ -97,7 +97,7 @@ TOEICでは、assumedは仮定や前提条件を説明する文脈で出題さ�
 ## 🤔  supposed との違いは？
 
 - **assumed**：根拠が薄いが一時的に仮定された、または見せかけの
-- **[supposed](/supposed)**：一般的にそう考えられている、期待されている
+- **[supposed](/word/supposed)**：一般的にそう考えられている、期待されている
 
 assumedは「根拠が弱い仮定」や「偽りのもの」に使われやすく、supposedは「世間的にそう思われている」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ assumedは「根拠が弱い仮定」や「偽りのもの」に使われやす�
 
 ## 🧩 あわせて覚えたい
 
-- [presumed](/presumed)：推定された
-- [actual](/actual)：実際の
+- [presumed](/word/presumed)：推定された
+- [actual](/word/actual)：実際の
 
 ---
 
 ## 📖 できればこれも
 
-- [apparent](/apparent)：見かけ上の
-- [intended](/intended)：意図された
+- [apparent](/word/apparent)：見かけ上の
+- [intended](/word/intended)：意図された
 
 <!-- cvid: aid22_bid23 -->

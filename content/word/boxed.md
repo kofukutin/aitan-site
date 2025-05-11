@@ -97,7 +97,7 @@ TOEICでは、出荷や梱包に関する文脈で「boxed」が形容詞とし�
 ## 🤔  packed との違いは？
 
 - **boxed**：箱に入れられた、箱詰めの
-- **[packed](/packed)**：詰め込まれた、梱包された（箱に限らず袋やケースなども含む）
+- **[packed](/word/packed)**：詰め込まれた、梱包された（箱に限らず袋やケースなども含む）
 
 「boxed」は「箱」という容器に限定されるのに対し、「packed」は容器の種類を問わず詰め込まれた状態全般を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、出荷や梱包に関する文脈で「boxed」が形容詞とし�
 
 ## 🧩 あわせて覚えたい
 
-- [wrapped](/wrapped)：包まれた、ラッピングされた
-- [container](/container)：容器、入れ物
+- [wrapped](/word/wrapped)：包まれた、ラッピングされた
+- [container](/word/container)：容器、入れ物
 
 ---
 
 ## 📖 できればこれも
 
-- [sealed](/sealed)：密封された
-- [shipped](/shipped)：出荷された
+- [sealed](/word/sealed)：密封された
+- [shipped](/word/shipped)：出荷された
 
 <!-- cvid: aid17_bid37 -->

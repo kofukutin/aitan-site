@@ -97,7 +97,7 @@ TOEICでは、機械や装置に関する説明や、手順書、トラブルシ
 ## 🤔  automatic との違いは？
 
 - **mechanical**：機械そのものや機械の仕組みに関することを表す
-- **[automatic](/automatic)**：自動的に動作すること、手動でなく自動であることを強調
+- **[automatic](/word/automatic)**：自動的に動作すること、手動でなく自動であることを強調
 
 mechanicalは「機械の構造や性質」に焦点があり、automaticは「自動で動く」ことに重点があります。
 
@@ -105,14 +105,14 @@ mechanicalは「機械の構造や性質」に焦点があり、automaticは「�
 
 ## 🧩 あわせて覚えたい
 
-- [manual](/manual)：手動の、手作業の
-- [electronic](/electronic)：電子の、電子的な
+- [manual](/word/manual)：手動の、手作業の
+- [electronic](/word/electronic)：電子の、電子的な
 
 ---
 
 ## 📖 できればこれも
 
-- [technical](/technical)：技術的な
-- [electrical](/electrical)：電気の
+- [technical](/word/technical)：技術的な
+- [electrical](/word/electrical)：電気の
 
 <!-- cvid: aid45_bid43 -->

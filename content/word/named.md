@@ -97,7 +97,7 @@ TOEICでは、名詞を修飾して「～という名前の」と説明する文
 ## 🤔  called との違いは？
 
 - **named**：正式に名付けられた、公式な名前がある場合に使う
-- **[called](/called)**：一般的に呼ばれている、あだ名や通称にも使える
+- **[called](/word/called)**：一般的に呼ばれている、あだ名や通称にも使える
 
 「named」は公式な名前や登録名に使われることが多く、「called」は日常的な呼び名やニックネームにも幅広く使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、名詞を修飾して「～という名前の」と説明する文
 
 ## 🧩 あわせて覚えたい
 
-- [titled](/titled)：（本・作品などが）～というタイトルの
-- [labeled](/labeled)：ラベルが貼られた、～と表示された
+- [titled](/word/titled)：（本・作品などが）～というタイトルの
+- [labeled](/word/labeled)：ラベルが貼られた、～と表示された
 
 ---
 
 ## 📖 できればこれも
 
-- [appointed](/appointed)：任命された
-- [known](/known)：知られている
+- [appointed](/word/appointed)：任命された
+- [known](/word/known)：知られている
 
 <!-- cvid: aid05_bid06 -->

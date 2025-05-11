@@ -97,7 +97,7 @@ TOEICでは「困難を克服する」「問題を乗り越える」といった
 ## 🤔  conquer との違いは？
 
 - **overcome**：困難や障害、感情などを努力して乗り越える
-- **[conquer](/conquer)**：敵や国、恐怖などを力で征服する・完全に制圧する
+- **[conquer](/word/conquer)**：敵や国、恐怖などを力で征服する・完全に制圧する
 
 overcomeは「内面的・抽象的な困難」を乗り越えるニュアンスが強く、conquerは「外的な敵や領土」を力で征服するイメージです。
 
@@ -105,14 +105,14 @@ overcomeは「内面的・抽象的な困難」を乗り越えるニュアンス
 
 ## 🧩 あわせて覚えたい
 
-- [cope](/cope)：うまく対処する
-- [resolve](/resolve)：（問題などを）解決する
+- [cope](/word/cope)：うまく対処する
+- [resolve](/word/resolve)：（問題などを）解決する
 
 ---
 
 ## 📖 できればこれも
 
-- [achieve](/achieve)：達成する
-- [handle](/handle)：扱う、対処する
+- [achieve](/word/achieve)：達成する
+- [handle](/word/handle)：扱う、対処する
 
 <!-- cvid: aid00_bid32 -->

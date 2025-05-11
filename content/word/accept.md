@@ -97,7 +97,7 @@ TOEICでは「申し出を受け入れる」「条件を承諾する」といっ
 ## 🤔  receive との違いは？
 
 - **accept**：申し出・提案・意見などを「受け入れる」「承諾する」意味で使う
-- **[receive](/receive)**：物や情報などを「受け取る」「受信する」意味で使う
+- **[receive](/word/receive)**：物や情報などを「受け取る」「受信する」意味で使う
 
 acceptは「心や態度で受け入れる」ニュアンス、receiveは「物理的に受け取る」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ acceptは「心や態度で受け入れる」ニュアンス、receiveは「物�
 
 ## 🧩 あわせて覚えたい
 
-- [decline](/decline)：断る、辞退する
-- [approve](/approve)：承認する、賛成する
+- [decline](/word/decline)：断る、辞退する
+- [approve](/word/approve)：承認する、賛成する
 
 ---
 
 ## 📖 できればこれも
 
-- [allow](/allow)：許可する
-- [admit](/admit)：認める、入れる
+- [allow](/word/allow)：許可する
+- [admit](/word/admit)：認める、入れる
 
 <!-- cvid: aid15_bid30 -->

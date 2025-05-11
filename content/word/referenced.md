@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やメールの中で「参照された資料」
 ## 🤔  mentioned との違いは？
 
 - **referenced**：他の資料や情報を「参照した」「根拠にした」ときに使うフォーマルな表現
-- **[mentioned](/mentioned)**：単に「言及した」「触れた」ときに使う、より一般的な表現
+- **[mentioned](/word/mentioned)**：単に「言及した」「触れた」ときに使う、より一般的な表現
 
 referencedは根拠や出典を明確に示す場合に使われ、mentionedは軽く話題に出す場合にも使えます。
 
@@ -105,14 +105,14 @@ referencedは根拠や出典を明確に示す場合に使われ、mentionedは�
 
 ## 🧩 あわせて覚えたい
 
-- [cite](/cite)：引用する
-- [quote](/quote)：（直接）引用する
+- [cite](/word/cite)：引用する
+- [quote](/word/quote)：（直接）引用する
 
 ---
 
 ## 📖 できればこれも
 
-- [indicate](/indicate)：示す、指摘する
-- [address](/address)：（問題などに）対処する、言及する
+- [indicate](/word/indicate)：示す、指摘する
+- [address](/word/address)：（問題などに）対処する、言及する
 
 <!-- cvid: aid00_bid44 -->

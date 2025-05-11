@@ -97,7 +97,7 @@ TOEICでは「不要なものを減らす」「コストや人員を削減する
 ## 🤔  discard との違いは？
 
 - **shed**：自然に、または計画的に「不要なものを落とす・減らす」ニュアンス
-- **[discard](/discard)**：意図的に「捨てる」「処分する」意味が強い
+- **[discard](/word/discard)**：意図的に「捨てる」「処分する」意味が強い
 
 shedは「自然に減る」「徐々に手放す」イメージがあり、discardは「不要と判断して積極的に捨てる」ニュアンスです。
 
@@ -105,14 +105,14 @@ shedは「自然に減る」「徐々に手放す」イメージがあり、disc
 
 ## 🧩 あわせて覚えたい
 
-- [retain](/retain)：保持する、維持する
-- [release](/release)：解放する、放出する
+- [retain](/word/retain)：保持する、維持する
+- [release](/word/release)：解放する、放出する
 
 ---
 
 ## 📖 できればこれも
 
-- [remove](/remove)：取り除く
-- [eliminate](/eliminate)：排除する
+- [remove](/word/remove)：取り除く
+- [eliminate](/word/eliminate)：排除する
 
 <!-- cvid: aid01_bid34 -->

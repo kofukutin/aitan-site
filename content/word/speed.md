@@ -97,7 +97,7 @@ TOEICでは、交通や業務の進行状況、作業効率などの文脈で「
 ## 🤔  velocity との違いは？
 
 - **speed**：一般的な「速さ」「速度」を表し、日常会話やビジネスでも幅広く使われる。
-- **[velocity](/velocity)**：物理や科学分野で使われる「速度」（特に方向性を含む場合）を指す。
+- **[velocity](/word/velocity)**：物理や科学分野で使われる「速度」（特に方向性を含む場合）を指す。
 
 speedは日常的な「速さ」全般に使われますが、velocityは専門的・理論的な文脈で「方向を持つ速度」を表します。
 
@@ -105,14 +105,14 @@ speedは日常的な「速さ」全般に使われますが、velocityは専門�
 
 ## 🧩 あわせて覚えたい
 
-- [pace](/pace)：歩調、進み具合
-- [delay](/delay)：遅れ、延期
+- [pace](/word/pace)：歩調、進み具合
+- [delay](/word/delay)：遅れ、延期
 
 ---
 
 ## 📖 できればこれも
 
-- [rate](/rate)：割合、速度
-- [progress](/progress)：進捗、進行
+- [rate](/word/rate)：割合、速度
+- [progress](/word/progress)：進捗、進行
 
 <!-- cvid: aid35_bid33 -->

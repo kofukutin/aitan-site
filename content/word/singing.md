@@ -97,7 +97,7 @@ TOEICでは、趣味や余暇活動、イベントの話題で「singing」が�
 ## 🤔  song との違いは？
 
 - **singing**：歌う行為そのもの、歌唱
-- **[song](/song)**：歌（曲）そのもの
+- **[song](/word/song)**：歌（曲）そのもの
 
 「singing」は「歌うこと」という動作や行為を指し、「song」は「歌」という作品や曲自体を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、趣味や余暇活動、イベントの話題で「singing」が�
 
 ## 🧩 あわせて覚えたい
 
-- [performance](/performance)：演奏、上演
-- [music](/music)：音楽
+- [performance](/word/performance)：演奏、上演
+- [music](/word/music)：音楽
 
 ---
 
 ## 📖 できればこれも
 
-- [dancing](/dancing)：踊ること
-- [drawing](/drawing)：絵を描くこと
+- [dancing](/word/dancing)：踊ること
+- [drawing](/word/drawing)：絵を描くこと
 
 <!-- cvid: aid22_bid25 -->

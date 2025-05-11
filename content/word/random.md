@@ -97,7 +97,7 @@ TOEICでは「random selection（無作為抽出）」や「random check（抜�
 ## 🤔  arbitrary との違いは？
 
 - **random**：パターンや意図がなく、偶然や無作為であることを強調。
-- **[arbitrary](/arbitrary)**：個人の判断や気まぐれで決められ、必ずしも合理的でないことを強調。
+- **[arbitrary](/word/arbitrary)**：個人の判断や気まぐれで決められ、必ずしも合理的でないことを強調。
 
 randomは「偶然性」、arbitraryは「主観的・恣意的な決定」のニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ randomは「偶然性」、arbitraryは「主観的・恣意的な決定」の�
 
 ## 🧩 あわせて覚えたい
 
-- [accidental](/accidental)：偶然の、思いがけない
-- [systematic](/systematic)：体系的な、計画的な
+- [accidental](/word/accidental)：偶然の、思いがけない
+- [systematic](/word/systematic)：体系的な、計画的な
 
 ---
 
 ## 📖 できればこれも
 
-- [typical](/typical)：典型的な
-- [frequent](/frequent)：頻繁な
+- [typical](/word/typical)：典型的な
+- [frequent](/word/frequent)：頻繁な
 
 <!-- cvid: aid26_bid11 -->

@@ -97,7 +97,7 @@ TOEICではITやビジネスの文脈で「最適化する」という意味で�
 ## 🤔  improve との違いは？
 
 - **optimize**：最善・最適な状態にすることに重点がある
-- **[improve](/improve)**：現状より良くする、一般的な「改善」
+- **[improve](/word/improve)**：現状より良くする、一般的な「改善」
 
 optimizeは「最も良い状態に近づける」ニュアンスが強く、improveは「少しでも良くする」幅広い改善に使われます。
 
@@ -105,14 +105,14 @@ optimizeは「最も良い状態に近づける」ニュアンスが強く、imp
 
 ## 🧩 あわせて覚えたい
 
-- [maximize](/maximize)：最大化する
-- [refine](/refine)：洗練する、磨きをかける
+- [maximize](/word/maximize)：最大化する
+- [refine](/word/refine)：洗練する、磨きをかける
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/analyze)：分析する
-- [adjust](/adjust)：調整する
+- [analyze](/word/analyze)：分析する
+- [adjust](/word/adjust)：調整する
 
 <!-- cvid: aid34_bid06 -->

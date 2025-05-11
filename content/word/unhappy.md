@@ -97,7 +97,7 @@ TOEICでは、感情や状態を表す形容詞の選択肢として出題され
 ## 🤔  sad との違いは？
 
 - **unhappy**：不満や満足していない気持ちも含む広い「幸せでない」状態
-- **[sad](/sad)**：主に「悲しい」という感情にフォーカス
+- **[sad](/word/sad)**：主に「悲しい」という感情にフォーカス
 
 unhappyは「不満」「落ち込んでいる」など幅広い否定的な気持ちを表し、sadは「悲しみ」に特化しています。
 
@@ -105,14 +105,14 @@ unhappyは「不満」「落ち込んでいる」など幅広い否定的な気�
 
 ## 🧩 あわせて覚えたい
 
-- [dissatisfied](/dissatisfied)：不満な
-- [depressed](/depressed)：落ち込んだ、憂うつな
+- [dissatisfied](/word/dissatisfied)：不満な
+- [depressed](/word/depressed)：落ち込んだ、憂うつな
 
 ---
 
 ## 📖 できればこれも
 
-- [happy](/happy)：幸せな
-- [upset](/upset)：動揺した、気が動転した
+- [happy](/word/happy)：幸せな
+- [upset](/word/upset)：動揺した、気が動転した
 
 <!-- cvid: aid37_bid13 -->

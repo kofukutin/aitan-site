@@ -97,7 +97,7 @@ TOEICでは会議やビジネスシーンでの「発表」「告知」に関す
 ## 🤔  inform との違いは？
 
 - **announce**：公式に広く発表する、告知する
-- **[inform](/inform)**：個別に知らせる、通知する
+- **[inform](/word/inform)**：個別に知らせる、通知する
 
 announceは多くの人に向けて公式に発表する時に使い、informは個人や特定の相手に情報を伝える時に使います。
 
@@ -105,14 +105,14 @@ announceは多くの人に向けて公式に発表する時に使い、informは
 
 ## 🧩 あわせて覚えたい
 
-- [declare](/declare)：宣言する、公式に表明する
-- [notify](/notify)：通知する、知らせる
+- [declare](/word/declare)：宣言する、公式に表明する
+- [notify](/word/notify)：通知する、知らせる
 
 ---
 
 ## 📖 できればこれも
 
-- [report](/report)：報告する
-- [state](/state)：述べる、明言する
+- [report](/word/report)：報告する
+- [state](/word/state)：述べる、明言する
 
 <!-- cvid: aid20_bid21 -->

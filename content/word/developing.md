@@ -97,7 +97,7 @@ TOEICでは「developing country」や「developing market」など、形容詞�
 ## 🤔  growing との違いは？
 
 - **developing**：発展や成長の途中で、特に経済や技術などがまだ完成していない状態を強調。
-- **[growing](/growing)**：単に「大きくなっている」「増加している」状態を広く表す。
+- **[growing](/word/growing)**：単に「大きくなっている」「増加している」状態を広く表す。
 
 developingは「発展段階」にあることを強調し、growingは「規模や量が増えている」ことに焦点を当てます。
 
@@ -105,14 +105,14 @@ developingは「発展段階」にあることを強調し、growingは「規模
 
 ## 🧩 あわせて覚えたい
 
-- [emerging](/emerging)：新興の、現れ始めた
-- [advanced](/advanced)：先進的な、進んだ
+- [emerging](/word/emerging)：新興の、現れ始めた
+- [advanced](/word/advanced)：先進的な、進んだ
 
 ---
 
 ## 📖 できればこれも
 
-- [improving](/improving)：改善している
-- [expanding](/expanding)：拡大している
+- [improving](/word/improving)：改善している
+- [expanding](/word/expanding)：拡大している
 
 <!-- cvid: aid41_bid44 -->

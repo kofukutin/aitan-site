@@ -98,7 +98,7 @@ hungerは、社会問題や環境、健康に関する長文で登場するこ�
 ## 🤔  appetite との違いは？
 
 - **hunger**：生理的な「空腹」や「飢え」、または強い欲求を表す
-- **[appetite](/appetite)**：食べたいという「食欲」や、何かを楽しみたい気持ち
+- **[appetite](/word/appetite)**：食べたいという「食欲」や、何かを楽しみたい気持ち
 
 hungerは「生きるための切実な空腹感」や「強い渇望」を指し、appetiteは「食事を楽しみたい気分」などより軽い意味で使われます。
 
@@ -106,14 +106,14 @@ hungerは「生きるための切実な空腹感」や「強い渇望」を指�
 
 ## 🧩 あわせて覚えたい
 
-- [starvation](/starvation)：飢餓、極度の空腹
-- [thirst](/thirst)：のどの渇き、渇望
+- [starvation](/word/starvation)：飢餓、極度の空腹
+- [thirst](/word/thirst)：のどの渇き、渇望
 
 ---
 
 ## 📖 できればこれも
 
-- [poverty](/poverty)：貧困
-- [disease](/disease)：病気
+- [poverty](/word/poverty)：貧困
+- [disease](/word/disease)：病気
 
 <!-- cvid: aid08_bid48 -->

@@ -97,7 +97,7 @@ TOEICでは文法や語彙の問題で「phrase」が出題されることがあ
 ## 🤔  sentence との違いは？
 
 - **phrase**：文の一部となる「句」や「言い回し」。主語と述語がそろっていないことが多い。
-- **[sentence](/sentence)**：主語と述語がそろった「文」。意味が完結している。
+- **[sentence](/word/sentence)**：主語と述語がそろった「文」。意味が完結している。
 
 phraseは文の一部や短いまとまり、sentenceは完全な文として使い分けます。
 
@@ -105,14 +105,14 @@ phraseは文の一部や短いまとまり、sentenceは完全な文として使
 
 ## 🧩 あわせて覚えたい
 
-- [expression](/expression)：表現、言い回し
-- [clause](/clause)：節（主語と述語を含む文の一部）
+- [expression](/word/expression)：表現、言い回し
+- [clause](/word/clause)：節（主語と述語を含む文の一部）
 
 ---
 
 ## 📖 できればこれも
 
-- [term](/term)：用語、期間
-- [statement](/statement)：陳述、声明
+- [term](/word/term)：用語、期間
+- [statement](/word/statement)：陳述、声明
 
 <!-- cvid: aid20_bid45 -->

@@ -97,7 +97,7 @@ TOEICでは医療や健康に関する長文や案内文でよく登場します
 ## 🤔  medicine との違いは？
 
 - **medication**：治療目的で処方・使用される薬や投薬行為を指し、ややフォーマル。
-- **[medicine](/medicine)**：一般的な「薬」全般を指し、日常会話でも幅広く使われる。
+- **[medicine](/word/medicine)**：一般的な「薬」全般を指し、日常会話でも幅広く使われる。
 
 medicationは医療現場や書類で使われることが多く、medicineは日常的な「薬」にも使えます。
 
@@ -105,14 +105,14 @@ medicationは医療現場や書類で使われることが多く、medicineは�
 
 ## 🧩 あわせて覚えたい
 
-- [prescription](/prescription)：処方箋
-- [treatment](/treatment)：治療
+- [prescription](/word/prescription)：処方箋
+- [treatment](/word/treatment)：治療
 
 ---
 
 ## 📖 できればこれも
 
-- [therapy](/therapy)：療法、治療法
-- [dose](/dose)：服用量
+- [therapy](/word/therapy)：療法、治療法
+- [dose](/word/dose)：服用量
 
 <!-- cvid: aid21_bid05 -->

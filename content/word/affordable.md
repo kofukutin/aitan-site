@@ -97,7 +97,7 @@ TOEICでは広告や商品説明、サービス案内などで「affordable」�
 ## 🤔  reasonable との違いは？
 
 - **affordable**：無理なく買える価格であることを強調
-- **[reasonable](/reasonable)**：価格や条件が「妥当」「納得できる」ことを強調
+- **[reasonable](/word/reasonable)**：価格や条件が「妥当」「納得できる」ことを強調
 
 affordableは「手が届く」こと、reasonableは「納得できる」ことに重点があり、affordableの方が「安さ・手ごろさ」を強く表します。
 
@@ -105,14 +105,14 @@ affordableは「手が届く」こと、reasonableは「納得できる」こと
 
 ## 🧩 あわせて覚えたい
 
-- [expensive](/expensive)：高価な
-- [cheap](/cheap)：安い（品質が低いニュアンスも）
+- [expensive](/word/expensive)：高価な
+- [cheap](/word/cheap)：安い（品質が低いニュアンスも）
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/available)：利用できる、入手できる
-- [convenient](/convenient)：便利な
+- [available](/word/available)：利用できる、入手できる
+- [convenient](/word/convenient)：便利な
 
 <!-- cvid: aid45_bid14 -->

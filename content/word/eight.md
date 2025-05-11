@@ -97,7 +97,7 @@ TOEICでは主にPart 1やリスニングで、数や時刻を表す場面でよ
 ## 🤔  eighth との違いは？
 
 - **eight**：8、8個、8人など「数そのもの」を表す
-- **[eighth](/eighth)**：8番目、「順序」を表す
+- **[eighth](/word/eighth)**：8番目、「順序」を表す
 
 「eight」は数量、「eighth」は順序を表すので、使い分けに注意しましょう。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1やリスニングで、数や時刻を表す場面でよ
 
 ## 🧩 あわせて覚えたい
 
-- [seven](/seven)：7、7個
-- [nine](/nine)：9、9個
+- [seven](/word/seven)：7、7個
+- [nine](/word/nine)：9、9個
 
 ---
 
 ## 📖 できればこれも
 
-- [ten](/ten)：10、10個
-- [twelve](/twelve)：12、12個
+- [ten](/word/ten)：10、10個
+- [twelve](/word/twelve)：12、12個
 
 <!-- cvid: aid29_bid48 -->

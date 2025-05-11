@@ -97,7 +97,7 @@ TOEICではITやビジネス文書、報告書などで「detection」がセキ�
 ## 🤔  discovery との違いは？
 
 - **detection**：隠れているものや異常などを「検出・探知」すること
-- **[discovery](/discovery)**：新しい事実や未知のものを「発見」すること
+- **[discovery](/word/discovery)**：新しい事実や未知のものを「発見」すること
 
 detectionは「見つけるべきものを意図的に探して見つける」ニュアンスが強く、discoveryは「偶然や研究の結果、新しいものを発見する」イメージです。
 
@@ -105,14 +105,14 @@ detectionは「見つけるべきものを意図的に探して見つける」�
 
 ## 🧩 あわせて覚えたい
 
-- [identification](/identification)：識別、同定
-- [recognition](/recognition)：認識、見分け
+- [identification](/word/identification)：識別、同定
+- [recognition](/word/recognition)：認識、見分け
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/analysis)：分析
-- [inspection](/inspection)：検査
+- [analysis](/word/analysis)：分析
+- [inspection](/word/inspection)：検査
 
 <!-- cvid: aid38_bid20 -->

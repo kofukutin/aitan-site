@@ -97,7 +97,7 @@ TOEICでは技術系やビジネス系の長文で、製品説明や業界ニュ
 ## 🤔  insulator との違いは？
 
 - **semiconductor**：電気を一部通す性質を持つ物質
-- **[insulator](/insulator)**：電気をほとんど通さない物質
+- **[insulator](/word/insulator)**：電気をほとんど通さない物質
 
 semiconductorは導体と絶縁体の中間的な性質を持ち、insulatorは電気を遮断する役割を持ちます。
 
@@ -105,14 +105,14 @@ semiconductorは導体と絶縁体の中間的な性質を持ち、insulatorは�
 
 ## 🧩 あわせて覚えたい
 
-- [conductor](/conductor)：導体（電気をよく通す物質）
-- [transistor](/transistor)：トランジスタ（半導体を使った電子部品）
+- [conductor](/word/conductor)：導体（電気をよく通す物質）
+- [transistor](/word/transistor)：トランジスタ（半導体を使った電子部品）
 
 ---
 
 ## 📖 できればこれも
 
-- [circuit](/circuit)：回路
-- [device](/device)：装置、デバイス
+- [circuit](/word/circuit)：回路
+- [device](/word/device)：装置、デバイス
 
 <!-- cvid: aid05_bid24 -->

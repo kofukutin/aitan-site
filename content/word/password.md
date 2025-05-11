@@ -97,7 +97,7 @@ TOEICでは主にIT関連のメールや案内文、ウェブサイトの説明�
 ## 🤔  passcode との違いは？
 
 - **password**：文字や記号を含む合言葉全般。主にウェブやPCの認証で使う。
-- **[passcode](/passcode)**：数字のみ、または短い数字列の暗証番号。スマホやドアロックなどで使う。
+- **[passcode](/word/passcode)**：数字のみ、または短い数字列の暗証番号。スマホやドアロックなどで使う。
 
 passwordは幅広い用途で使われ、文字・記号・数字の組み合わせが多いですが、passcodeは主に数字のみの短いコードを指します。
 
@@ -105,14 +105,14 @@ passwordは幅広い用途で使われ、文字・記号・数字の組み合わ
 
 ## 🧩 あわせて覚えたい
 
-- [username](/username)：ユーザー名
-- [security](/security)：セキュリティ、安全
+- [username](/word/username)：ユーザー名
+- [security](/word/security)：セキュリティ、安全
 
 ---
 
 ## 📖 できればこれも
 
-- [account](/account)：アカウント、口座
-- [login](/login)：ログイン、ログインする
+- [account](/word/account)：アカウント、口座
+- [login](/word/login)：ログイン、ログインする
 
 <!-- cvid: aid32_bid26 -->

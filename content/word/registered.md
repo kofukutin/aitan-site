@@ -97,7 +97,7 @@ TOEICでは「registered user（登録ユーザー）」や「registered mail（
 ## 🤔  enrolled との違いは？
 
 - **registered**：公式な記録や名簿に「登録された」ことを強調
-- **[enrolled](/enrolled)**：学校や講座などに「入学・加入した」ことを強調
+- **[enrolled](/word/enrolled)**：学校や講座などに「入学・加入した」ことを強調
 
 「registered」は公的・公式な登録、「enrolled」は主に教育や会員制度などへの加入を指します。
 
@@ -105,14 +105,14 @@ TOEICでは「registered user（登録ユーザー）」や「registered mail（
 
 ## 🧩 あわせて覚えたい
 
-- [certified](/certified)：認定された
-- [licensed](/licensed)：免許を持った
+- [certified](/word/certified)：認定された
+- [licensed](/word/licensed)：免許を持った
 
 ---
 
 ## 📖 できればこれも
 
-- [official](/official)：公式の
-- [approved](/approved)：承認された
+- [official](/word/official)：公式の
+- [approved](/word/approved)：承認された
 
 <!-- cvid: aid46_bid25 -->

@@ -97,7 +97,7 @@ TOEICでは音楽や日常生活、仕事の進め方など、さまざまな場
 ## 🤔  beat との違いは？
 
 - **rhythm**：全体の繰り返しや周期性、パターンを指す
-- **[beat](/beat)**：一つ一つの拍や打つ動作を指す
+- **[beat](/word/beat)**：一つ一つの拍や打つ動作を指す
 
 rhythmは全体の流れやパターン、beatは個々の拍や打つ瞬間を表します。
 
@@ -105,14 +105,14 @@ rhythmは全体の流れやパターン、beatは個々の拍や打つ瞬間を�
 
 ## 🧩 あわせて覚えたい
 
-- [pattern](/pattern)：パターン、型
-- [melody](/melody)：メロディー、旋律
+- [pattern](/word/pattern)：パターン、型
+- [melody](/word/melody)：メロディー、旋律
 
 ---
 
 ## 📖 できればこれも
 
-- [tone](/tone)：音色、調子
-- [tempo](/tempo)：テンポ、速度
+- [tone](/word/tone)：音色、調子
+- [tempo](/word/tempo)：テンポ、速度
 
 <!-- cvid: aid23_bid38 -->

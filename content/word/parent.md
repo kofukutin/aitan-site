@@ -97,7 +97,7 @@ TOEICでは、学校や家庭、同意書などの話題で「parent」が登場
 ## 🤔  guardian との違いは？
 
 - **parent**：実際の父または母を指す一般的な「親」
-- **[guardian](/guardian)**：法的・制度的に子どもを保護する「保護者」
+- **[guardian](/word/guardian)**：法的・制度的に子どもを保護する「保護者」
 
 parentは生物学的・法律上の親を指し、guardianは親以外でも子どもを守る責任を持つ人を指します。
 
@@ -105,14 +105,14 @@ parentは生物学的・法律上の親を指し、guardianは親以外でも子
 
 ## 🧩 あわせて覚えたい
 
-- [child](/child)：子ども
-- [relative](/relative)：親戚
+- [child](/word/child)：子ども
+- [relative](/word/relative)：親戚
 
 ---
 
 ## 📖 できればこれも
 
-- [family](/family)：家族
-- [sibling](/sibling)：きょうだい
+- [family](/word/family)：家族
+- [sibling](/word/sibling)：きょうだい
 
 <!-- cvid: aid01_bid43 -->

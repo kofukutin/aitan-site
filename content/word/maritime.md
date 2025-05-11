@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文読解で、貿易や輸送、国際ビジネス
 ## 🤔  marine との違いは？
 
 - **maritime**：海事の、海運の、沿岸の（特に人間の活動や法律・ビジネスに関連）
-- **[marine](/marine)**：海の、海洋の（生物や自然環境、科学的な文脈で使うことが多い）
+- **[marine](/word/marine)**：海の、海洋の（生物や自然環境、科学的な文脈で使うことが多い）
 
 maritimeは「海運・海事・沿岸地域」など人間の活動や制度に関わる場面で使い、marineは「海洋生物」「海の環境」など自然や科学の文脈で使われます。
 
@@ -105,14 +105,14 @@ maritimeは「海運・海事・沿岸地域」など人間の活動や制度に
 
 ## 🧩 あわせて覚えたい
 
-- [naval](/naval)：海軍の、軍艦の
-- [oceanic](/oceanic)：大洋の、海洋性の
+- [naval](/word/naval)：海軍の、軍艦の
+- [oceanic](/word/oceanic)：大洋の、海洋性の
 
 ---
 
 ## 📖 できればこれも
 
-- [logistics](/logistics)：物流、兵站
-- [freight](/freight)：貨物、輸送
+- [logistics](/word/logistics)：物流、兵站
+- [freight](/word/freight)：貨物、輸送
 
 <!-- cvid: aid28_bid47 -->

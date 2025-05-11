@@ -97,7 +97,7 @@ TOEICではPart 5の語彙問題で「達成する」「成し遂げる」とい
 ## 🤔  achieve との違いは？
 
 - **accomplish**：困難なことや計画を「やり遂げる」「成し遂げる」ニュアンスが強い
-- **[achieve](/achieve)**：目標や結果を「達成する」一般的な表現
+- **[achieve](/word/achieve)**：目標や結果を「達成する」一般的な表現
 
 accomplishは「努力や過程を経てやり遂げる」ことに重点があり、achieveは「結果として目標を達成する」ことに重点があります。
 
@@ -105,14 +105,14 @@ accomplishは「努力や過程を経てやり遂げる」ことに重点があ�
 
 ## 🧩 あわせて覚えたい
 
-- [complete](/complete)：完了する、仕上げる
-- [fail](/fail)：失敗する
+- [complete](/word/complete)：完了する、仕上げる
+- [fail](/word/fail)：失敗する
 
 ---
 
 ## 📖 できればこれも
 
-- [fulfill](/fulfill)：（義務・約束などを）果たす
-- [perform](/perform)：実行する、遂行する
+- [fulfill](/word/fulfill)：（義務・約束などを）果たす
+- [perform](/word/perform)：実行する、遂行する
 
 <!-- cvid: aid48_bid40 -->

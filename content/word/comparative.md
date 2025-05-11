@@ -97,7 +97,7 @@ TOEICでは文法問題や分析・比較を表す表現で出題されること
 ## 🤔  comparison との違いは？
 
 - **comparative**：比較の、比較による（形容詞）。比較する性質や状態を表す。
-- **[comparison](/comparison)**：比較（名詞）。2つ以上のものを比べる行為や結果そのもの。
+- **[comparison](/word/comparison)**：比較（名詞）。2つ以上のものを比べる行為や結果そのもの。
 
 comparativeは「比較的な」「比較のための」といった性質や状態を形容詞で表し、comparisonは「比較」という行為や名詞として使います。
 
@@ -105,14 +105,14 @@ comparativeは「比較的な」「比較のための」といった性質や状
 
 ## 🧩 あわせて覚えたい
 
-- [relative](/relative)：相対的な、比較上の
-- [superlative](/superlative)：最上級の、最高の
+- [relative](/word/relative)：相対的な、比較上の
+- [superlative](/word/superlative)：最上級の、最高の
 
 ---
 
 ## 📖 できればこれも
 
-- [similar](/similar)：似ている
-- [contrast](/contrast)：対照、対比
+- [similar](/word/similar)：似ている
+- [contrast](/word/contrast)：対照、対比
 
 <!-- cvid: aid21_bid17 -->

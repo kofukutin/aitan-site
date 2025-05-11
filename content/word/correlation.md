@@ -97,7 +97,7 @@ TOEICでは、統計や調査結果を説明する長文やレポートの中で
 ## 🤔  association との違いは？
 
 - **correlation**：2つ以上の事柄の間に統計的・科学的な「相関関係」があることを強調。
-- **[association](/association)**：2つの事柄が「関連」していること全般を指し、必ずしも統計的な意味は含まない。
+- **[association](/word/association)**：2つの事柄が「関連」していること全般を指し、必ずしも統計的な意味は含まない。
 
 correlationは数値やデータに基づく関係性を示す時に使い、associationはより広い意味でのつながりや関係を表します。
 
@@ -105,14 +105,14 @@ correlationは数値やデータに基づく関係性を示す時に使い、ass
 
 ## 🧩 あわせて覚えたい
 
-- [causation](/causation)：因果関係（原因と結果の関係）
-- [connection](/connection)：つながり、関係
+- [causation](/word/causation)：因果関係（原因と結果の関係）
+- [connection](/word/connection)：つながり、関係
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/analysis)：分析
-- [relationship](/relationship)：関係、つながり
+- [analysis](/word/analysis)：分析
+- [relationship](/word/relationship)：関係、つながり
 
 <!-- cvid: aid00_bid29 -->

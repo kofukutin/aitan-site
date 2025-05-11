@@ -97,7 +97,7 @@ TOEICでは主にビジネスメールや契約書、銀行関連の長文で「
 ## 🤔  deal との違いは？
 
 - **transaction**：フォーマルで、特にビジネスや金融の「取引」「処理」を指す
-- **[deal](/deal)**：ややカジュアルで、取引全般や「取決め」「契約」など幅広く使う
+- **[deal](/word/deal)**：ややカジュアルで、取引全般や「取決め」「契約」など幅広く使う
 
 transactionは書類やシステム上の正式な取引に使われ、dealは口頭や交渉など幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ transactionは書類やシステム上の正式な取引に使われ、dealは�
 
 ## 🧩 あわせて覚えたい
 
-- [agreement](/agreement)：合意、契約
-- [purchase](/purchase)：購入、買うこと
+- [agreement](/word/agreement)：合意、契約
+- [purchase](/word/purchase)：購入、買うこと
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/contract)：契約
-- [payment](/payment)：支払い
+- [contract](/word/contract)：契約
+- [payment](/word/payment)：支払い
 
 <!-- cvid: aid29_bid45 -->

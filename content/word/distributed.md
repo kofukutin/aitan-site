@@ -97,7 +97,7 @@ TOEICではITやビジネスの文脈で「distributed system」や「distribute
 ## 🤔  allocated との違いは？
 
 - **distributed**：広く分散している、複数の場所や人に配られている
-- **[allocated](/allocated)**：特定の目的や人に割り当てられている
+- **[allocated](/word/allocated)**：特定の目的や人に割り当てられている
 
 「distributed」は全体に広く行き渡るイメージ、「allocated」は特定の割り当てや配分のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICではITやビジネスの文脈で「distributed system」や「distribute
 
 ## 🧩 あわせて覚えたい
 
-- [centralized](/centralized)：集中化した
-- [scattered](/scattered)：散らばった
+- [centralized](/word/centralized)：集中化した
+- [scattered](/word/scattered)：散らばった
 
 ---
 
 ## 📖 できればこれも
 
-- [remote](/remote)：遠隔の
-- [shared](/shared)：共有の
+- [remote](/word/remote)：遠隔の
+- [shared](/word/shared)：共有の
 
 <!-- cvid: aid13_bid17 -->

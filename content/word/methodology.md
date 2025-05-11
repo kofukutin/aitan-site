@@ -97,7 +97,7 @@ TOEICでは主にPart 7のビジネス文書や研究報告、説明文で見か
 ## 🤔  method との違いは？
 
 - **methodology**：体系的な方法論や理論的枠組み
-- **[method](/method)**：個々の具体的な方法や手段
+- **[method](/word/method)**：個々の具体的な方法や手段
 
 methodologyは全体の理論や体系を指し、methodはその中の一つ一つの具体的なやり方を指します。
 
@@ -105,14 +105,14 @@ methodologyは全体の理論や体系を指し、methodはその中の一つ一
 
 ## 🧩 あわせて覚えたい
 
-- [procedure](/procedure)：手順、手続き
-- [approach](/approach)：取り組み方、アプローチ
+- [procedure](/word/procedure)：手順、手続き
+- [approach](/word/approach)：取り組み方、アプローチ
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/analysis)：分析
-- [strategy](/strategy)：戦略
+- [analysis](/word/analysis)：分析
+- [strategy](/word/strategy)：戦略
 
 <!-- cvid: aid18_bid33 -->

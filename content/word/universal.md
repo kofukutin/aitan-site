@@ -97,7 +97,7 @@ TOEICでは、universalは説明文や方針、規則などの文脈で「すべ
 ## 🤔  general との違いは？
 
 - **universal**：例外なく「すべてに当てはまる」「普遍的な」という意味が強い
-- **[general](/general)**：大まか・一般的・広く当てはまるが、例外がある場合も多い
+- **[general](/word/general)**：大まか・一般的・広く当てはまるが、例外がある場合も多い
 
 universalは「例外なく全体に共通する」ニュアンスがあり、generalは「大多数に当てはまるが例外もある」イメージです。
 
@@ -105,14 +105,14 @@ universalは「例外なく全体に共通する」ニュアンスがあり、ge
 
 ## 🧩 あわせて覚えたい
 
-- [global](/global)：世界的な、地球規模の
-- [common](/common)：一般的な、よくある
+- [global](/word/global)：世界的な、地球規模の
+- [common](/word/common)：一般的な、よくある
 
 ---
 
 ## 📖 できればこれも
 
-- [typical](/typical)：典型的な
-- [overall](/overall)：全体的な
+- [typical](/word/typical)：典型的な
+- [overall](/word/overall)：全体的な
 
 <!-- cvid: aid08_bid15 -->

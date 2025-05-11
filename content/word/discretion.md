@@ -97,7 +97,7 @@ TOEICではビジネス文書や規則説明の中で「裁量」「慎重さ」
 ## 🤔  prudence との違いは？
 
 - **discretion**：状況に応じて自分の判断で行動する慎重さや裁量
-- **[prudence](/prudence)**：将来を見越した用心深さや分別
+- **[prudence](/word/prudence)**：将来を見越した用心深さや分別
 
 discretionは「その場その場での判断や秘密保持」に重点があり、prudenceは「リスクを避けるための用心深さ」に重点があります。
 
@@ -105,13 +105,13 @@ discretionは「その場その場での判断や秘密保持」に重点があ�
 
 ## 🧩 あわせて覚えたい
 
-- [confidentiality](/confidentiality)：機密性、秘密を守ること
-- [judgment](/judgment)：判断、判決
+- [confidentiality](/word/confidentiality)：機密性、秘密を守ること
+- [judgment](/word/judgment)：判断、判決
 
 ---
 
 ## 📖 できればこれも
 
-- [confidential](/confidential)：機密の、秘密の
-- [deliberation](/deliberation)：熟考、慎重な検討
+- [confidential](/word/confidential)：機密の、秘密の
+- [deliberation](/word/deliberation)：熟考、慎重な検討
 <!-- cvid: aid41_bid31 -->

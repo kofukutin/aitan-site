@@ -97,7 +97,7 @@ arcticは環境や地理に関する長文や記事で登場することが多�
 ## 🤔  antarctic との違いは？
 
 - **arctic**：北極の、北極地方の
-- **[antarctic](/antarctic)**：南極の、南極地方の
+- **[antarctic](/word/antarctic)**：南極の、南極地方の
 
 arcticは北極圏や北半球の極地を指し、antarcticは南極圏や南半球の極地を指します。場所が正反対です。
 
@@ -105,14 +105,14 @@ arcticは北極圏や北半球の極地を指し、antarcticは南極圏や南�
 
 ## 🧩 あわせて覚えたい
 
-- [polar](/polar)：極地の、極端な
-- [frigid](/frigid)：極寒の、非常に冷たい
+- [polar](/word/polar)：極地の、極端な
+- [frigid](/word/frigid)：極寒の、非常に冷たい
 
 ---
 
 ## 📖 できればこれも
 
-- [glacier](/glacier)：氷河
-- [tundra](/tundra)：ツンドラ（永久凍土の草原地帯）
+- [glacier](/word/glacier)：氷河
+- [tundra](/word/tundra)：ツンドラ（永久凍土の草原地帯）
 
 <!-- cvid: aid25_bid05 -->

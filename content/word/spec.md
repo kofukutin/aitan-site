@@ -97,7 +97,7 @@ TOEICでは主にITや製品説明、ビジネスメールの中で「spec」が
 ## 🤔  detail との違いは？
 
 - **spec**：主に製品やシステムの「仕様」や「性能」を指すカジュアルな略語。
-- **[detail](/detail)**：物事の「細部」や「詳細」を幅広く指す一般的な単語。
+- **[detail](/word/detail)**：物事の「細部」や「詳細」を幅広く指す一般的な単語。
 
 specは技術的な条件や性能に特化した言い方で、detailは内容の細かい部分全般を指します。
 
@@ -105,14 +105,14 @@ specは技術的な条件や性能に特化した言い方で、detailは内容�
 
 ## 🧩 あわせて覚えたい
 
-- [requirement](/requirement)：要件、必要条件
-- [feature](/feature)：特徴、機能
+- [requirement](/word/requirement)：要件、必要条件
+- [feature](/word/feature)：特徴、機能
 
 ---
 
 ## 📖 できればこれも
 
-- [manual](/manual)：取扱説明書
-- [instruction](/instruction)：指示、説明
+- [manual](/word/manual)：取扱説明書
+- [instruction](/word/instruction)：指示、説明
 
 <!-- cvid: aid18_bid09 -->

@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や説明文で「構成」「枠組み」とい
 ## 🤔  structure との違いは？
 
 - **framing**：物事の枠組みや構成、または枠を作る行為を強調
-- **[structure](/structure)**：全体の構造や組織、物理的・抽象的な「構造体」を指す
+- **[structure](/word/structure)**：全体の構造や組織、物理的・抽象的な「構造体」を指す
 
 framingは「枠組みを作ること」や「枠組みそのもの」に焦点があり、structureは完成した全体の構造や組織を指します。
 
@@ -105,14 +105,14 @@ framingは「枠組みを作ること」や「枠組みそのもの」に焦点�
 
 ## 🧩 あわせて覚えたい
 
-- [framework](/framework)：枠組み、骨組み
-- [outline](/outline)：概要、要点
+- [framework](/word/framework)：枠組み、骨組み
+- [outline](/word/outline)：概要、要点
 
 ---
 
 ## 📖 できればこれも
 
-- [arrangement](/arrangement)：配置、取り決め
-- [formation](/formation)：形成、構成
+- [arrangement](/word/arrangement)：配置、取り決め
+- [formation](/word/formation)：形成、構成
 
 <!-- cvid: aid00_bid13 -->

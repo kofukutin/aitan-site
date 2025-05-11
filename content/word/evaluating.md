@@ -97,7 +97,7 @@ TOEICでは主にPart 5の文法・語彙問題で、動詞の適切な形や意
 ## 🤔  assessing との違いは？
 
 - **evaluating**：基準や目的に沿って、価値や有用性を客観的に判断する。
-- **[assessing](/assessing)**：状況や能力などを幅広く評価・査定する。
+- **[assessing](/word/assessing)**：状況や能力などを幅広く評価・査定する。
 
 evaluatingは「価値や有用性」に重点を置き、assessingは「全体的な状態や程度」を測るニュアンスがあります。
 
@@ -105,14 +105,14 @@ evaluatingは「価値や有用性」に重点を置き、assessingは「全体�
 
 ## 🧩 あわせて覚えたい
 
-- [judge](/judge)：判断する、裁く
-- [estimate](/estimate)：見積もる、推定する
+- [judge](/word/judge)：判断する、裁く
+- [estimate](/word/estimate)：見積もる、推定する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/analyze)：分析する
-- [review](/review)：見直す、再検討する
+- [analyze](/word/analyze)：分析する
+- [review](/word/review)：見直す、再検討する
 
 <!-- cvid: aid17_bid06 -->

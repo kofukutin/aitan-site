@@ -97,7 +97,7 @@ TOEICでは、天気や気温、人気商品などを説明する場面で最上
 ## 🤔  warm との違いは？
 
 - **hottest**：最も暑い、最も熱い、最も人気のある
-- **[warm](/warm)**：暖かい、温かい
+- **[warm](/word/warm)**：暖かい、温かい
 
 「hottest」は「hot（熱い）」の最上級で、極端な暑さや人気を表します。「warm」は「心地よい暖かさ」や「ぬくもり」を表し、強さが異なります。
 
@@ -105,14 +105,14 @@ TOEICでは、天気や気温、人気商品などを説明する場面で最上
 
 ## 🧩 あわせて覚えたい
 
-- [cold](/cold)：冷たい、寒い
-- [cool](/cool)：涼しい、かっこいい
+- [cold](/word/cold)：冷たい、寒い
+- [cool](/word/cool)：涼しい、かっこいい
 
 ---
 
 ## 📖 できればこれも
 
-- [latest](/latest)：最新の
-- [fastest](/fastest)：最も速い
+- [latest](/word/latest)：最新の
+- [fastest](/word/fastest)：最も速い
 
 <!-- cvid: aid40_bid27 -->

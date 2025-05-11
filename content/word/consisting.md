@@ -97,7 +97,7 @@ TOEICでは主にPart 7の説明文やメール文で、「consisting of ～」�
 ## 🤔  comprising との違いは？
 
 - **consisting**：複数の要素が集まって全体を構成していることを表す（進行形は通常使わない）
-- **[comprising](/comprising)**：全体がどのような要素でできているかをややフォーマルに述べる
+- **[comprising](/word/comprising)**：全体がどのような要素でできているかをややフォーマルに述べる
 
 consistingは「～から成る」と説明的に使い、comprisingは「～を含む」とややフォーマルな文書や契約書で使われることが多いです。
 
@@ -105,14 +105,14 @@ consistingは「～から成る」と説明的に使い、comprisingは「～を
 
 ## 🧩 あわせて覚えたい
 
-- [include](/include)：含む、含める
-- [compose](/compose)：構成する、作曲する
+- [include](/word/include)：含む、含める
+- [compose](/word/compose)：構成する、作曲する
 
 ---
 
 ## 📖 できればこれも
 
-- [contain](/contain)：含む、入っている
-- [involve](/involve)：含む、関与させる
+- [contain](/word/contain)：含む、入っている
+- [involve](/word/involve)：含む、関与させる
 
 <!-- cvid: aid17_bid35 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 5で、人物の能力や適性を問う文脈で出題さ
 ## 🤔  capable との違いは？
 
 - **competent**：必要な基準を満たすだけの能力がある（十分にできる）
-- **[capable](/capable)**：潜在的にできる力がある（可能性や適性を強調）
+- **[capable](/word/capable)**：潜在的にできる力がある（可能性や適性を強調）
 
 competentは「基準を満たしている」ことを強調し、capableは「できる可能性や適性」をより広く表します。
 
@@ -105,14 +105,14 @@ competentは「基準を満たしている」ことを強調し、capableは「�
 
 ## 🧩 あわせて覚えたい
 
-- [qualified](/qualified)：資格がある、適任の
-- [incompetent](/incompetent)：無能な、能力がない
+- [qualified](/word/qualified)：資格がある、適任の
+- [incompetent](/word/incompetent)：無能な、能力がない
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/efficient)：効率的な
-- [reliable](/reliable)：信頼できる
+- [efficient](/word/efficient)：効率的な
+- [reliable](/word/reliable)：信頼できる
 
 <!-- cvid: aid37_bid26 -->

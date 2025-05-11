@@ -97,7 +97,7 @@ TOEICでは主に長文読解パートで、物語や広告、観光案内など
 ## 🤔  love との違いは？
 
 - **romance**：恋愛感情やロマンチックな雰囲気、出来事を指す。
-- **[love](/love)**：より広い意味での「愛」や「愛情」を指し、家族愛や友情にも使える。
+- **[love](/word/love)**：より広い意味での「愛」や「愛情」を指し、家族愛や友情にも使える。
 
 romanceは特に恋愛やロマンチックな場面に限定されるのに対し、loveは人や物への幅広い愛情を表します。
 
@@ -105,14 +105,14 @@ romanceは特に恋愛やロマンチックな場面に限定されるのに対�
 
 ## 🧩 あわせて覚えたい
 
-- [affection](/affection)：愛情、親しみ
-- [passion](/passion)：情熱、強い感情
+- [affection](/word/affection)：愛情、親しみ
+- [passion](/word/passion)：情熱、強い感情
 
 ---
 
 ## 📖 できればこれも
 
-- [relationship](/relationship)：関係、交際
-- [date](/date)：デート、付き合う
+- [relationship](/word/relationship)：関係、交際
+- [date](/word/date)：デート、付き合う
 
 <!-- cvid: aid11_bid48 -->

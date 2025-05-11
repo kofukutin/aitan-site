@@ -97,7 +97,7 @@ TOEICでは会議やイベント、研修などの参加を表す文脈でよく
 ## 🤔  joined との違いは？
 
 - **participated**：積極的に活動や議論に「参加した」ことを強調
-- **[joined](/joined)**：グループやイベントに「加わった」こと自体を表す
+- **[joined](/word/joined)**：グループやイベントに「加わった」こと自体を表す
 
 participatedは「実際に活動に関わった」ニュアンスがあり、joinedは「その場に加わった」ことを指します。
 
@@ -105,14 +105,14 @@ participatedは「実際に活動に関わった」ニュアンスがあり、jo
 
 ## 🧩 あわせて覚えたい
 
-- [attend](/attend)：出席する
-- [contribute](/contribute)：貢献する
+- [attend](/word/attend)：出席する
+- [contribute](/word/contribute)：貢献する
 
 ---
 
 ## 📖 できればこれも
 
-- [organized](/organized)：組織した、開催した
-- [supported](/supported)：支援した
+- [organized](/word/organized)：組織した、開催した
+- [supported](/word/supported)：支援した
 
 <!-- cvid: aid24_bid18 -->

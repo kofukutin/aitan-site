@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や案内文などで「個人」や「個々の
 ## 🤔  person との違いは？
 
 - **individual**：集団の中の一人ひとりや、特徴ある個体を強調するフォーマルな表現
-- **[person](/person)**：一般的に「人」を指すカジュアルな表現
+- **[person](/word/person)**：一般的に「人」を指すカジュアルな表現
 
 individualは「個性」や「独立性」を強調したいときや、フォーマルな文脈で使われますが、personは日常的に幅広く使われます。
 
@@ -105,14 +105,14 @@ individualは「個性」や「独立性」を強調したいときや、フォ�
 
 ## 🧩 あわせて覚えたい
 
-- [employee](/employee)：従業員
-- [member](/member)：メンバー、構成員
+- [employee](/word/employee)：従業員
+- [member](/word/member)：メンバー、構成員
 
 ---
 
 ## 📖 できればこれも
 
-- [organization](/organization)：組織
-- [participant](/participant)：参加者
+- [organization](/word/organization)：組織
+- [participant](/word/participant)：参加者
 
 <!-- cvid: aid07_bid28 -->

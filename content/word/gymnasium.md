@@ -97,7 +97,7 @@ TOEICでは、学校や施設の案内、イベントの会場説明などで登
 ## 🤔  fitness center との違いは？
 
 - **gymnasium**：学校や公共施設の「体育館」や「屋内運動場」を指す。
-- **[fitness center](/fitness_center)**：トレーニングマシンや運動設備が整った「フィットネスジム」を指す。
+- **[fitness center](/word/fitness_center)**：トレーニングマシンや運動設備が整った「フィットネスジム」を指す。
 
 gymnasiumは主に学校やイベント会場として使われる広い運動場、fitness centerは個人のトレーニングや健康維持のための施設を指します。
 
@@ -105,14 +105,14 @@ gymnasiumは主に学校やイベント会場として使われる広い運動�
 
 ## 🧩 あわせて覚えたい
 
-- [auditorium](/auditorium)：講堂、観客席付きの大ホール
-- [stadium](/stadium)：スタジアム、屋外競技場
+- [auditorium](/word/auditorium)：講堂、観客席付きの大ホール
+- [stadium](/word/stadium)：スタジアム、屋外競技場
 
 ---
 
 ## 📖 できればこれも
 
-- [classroom](/classroom)：教室
-- [laboratory](/laboratory)：実験室
+- [classroom](/word/classroom)：教室
+- [laboratory](/word/laboratory)：実験室
 
 <!-- cvid: aid19_bid22 -->

@@ -97,7 +97,7 @@ TOEICでは歴史や文化を紹介する長文や観光案内の文脈で登場
 ## 🤔  soldier との違いは？
 
 - **warrior**：伝統的・歴史的な戦士や個人の勇敢さを強調する言葉
-- **[soldier](/soldier)**：現代の軍隊に所属する兵士を指す
+- **[soldier](/word/soldier)**：現代の軍隊に所属する兵士を指す
 
 warriorは個人の勇気や伝説的な存在を表し、soldierは組織的な軍人を意味します。
 
@@ -105,14 +105,14 @@ warriorは個人の勇気や伝説的な存在を表し、soldierは組織的な
 
 ## 🧩 あわせて覚えたい
 
-- [hero](/hero)：英雄、勇者
-- [fighter](/fighter)：戦う人、格闘家
+- [hero](/word/hero)：英雄、勇者
+- [fighter](/word/fighter)：戦う人、格闘家
 
 ---
 
 ## 📖 できればこれも
 
-- [battle](/battle)：戦い、戦闘
-- [brave](/brave)：勇敢な
+- [battle](/word/battle)：戦い、戦闘
+- [brave](/word/brave)：勇敢な
 
 <!-- cvid: aid09_bid08 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、ヨットやボートに乗ってい
 ## 🤔  boating との違いは？
 
 - **sailing**：帆を使って進むヨットやセーリングのこと
-- **[boating](/boating)**：ボート全般での水上活動（手漕ぎ・モーター含む）
+- **[boating](/word/boating)**：ボート全般での水上活動（手漕ぎ・モーター含む）
 
 sailingは「帆」を使う点が特徴で、boatingは帆の有無を問わず幅広い水上活動を指します。
 
@@ -105,14 +105,14 @@ sailingは「帆」を使う点が特徴で、boatingは帆の有無を問わず
 
 ## 🧩 あわせて覚えたい
 
-- [cruise](/cruise)：船旅、クルーズ
-- [voyage](/voyage)：長い航海、旅
+- [cruise](/word/cruise)：船旅、クルーズ
+- [voyage](/word/voyage)：長い航海、旅
 
 ---
 
 ## 📖 できればこれも
 
-- [swimming](/swimming)：水泳
-- [fishing](/fishing)：釣り
+- [swimming](/word/swimming)：水泳
+- [fishing](/word/fishing)：釣り
 
 <!-- cvid: aid22_bid45 -->

@@ -97,7 +97,7 @@ TOEICでは「調整する」「適応させる」という意味で、スケジ
 ## 🤔  modify との違いは？
 
 - **adjust**：状況や条件に合わせて少し変える、調整する
-- **[modify](/modify)**：部分的に変更する、修正する
+- **[modify](/word/modify)**：部分的に変更する、修正する
 
 adjustは「微調整」や「適応」のニュアンスが強く、modifyは「一部を変える」「修正する」といった意味で使われます。
 
@@ -105,14 +105,14 @@ adjustは「微調整」や「適応」のニュアンスが強く、modifyは�
 
 ## 🧩 あわせて覚えたい
 
-- [adapt](/adapt)：適応する、順応する
-- [regulate](/regulate)：規制する、調整する
+- [adapt](/word/adapt)：適応する、順応する
+- [regulate](/word/regulate)：規制する、調整する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/arrange)：手配する、整える
-- [revise](/revise)：修正する、改訂する
+- [arrange](/word/arrange)：手配する、整える
+- [revise](/word/revise)：修正する、改訂する
 
 <!-- cvid: aid43_bid38 -->

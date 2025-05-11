@@ -97,7 +97,7 @@ ITやビジネスの現場での導入や展開に関する文脈で出題され
 ## 🤔  installation との違いは？
 
 - **deployment**：計画的な配置やシステム・サービスの導入全体を指す
-- **[installation](/installation)**：機器やソフトを物理的・技術的に設置・インストールすること
+- **[installation](/word/installation)**：機器やソフトを物理的・技術的に設置・インストールすること
 
 deploymentは「展開・導入」という広い意味で使われ、installationは「設置・インストール」という具体的な作業を指します。
 
@@ -105,14 +105,14 @@ deploymentは「展開・導入」という広い意味で使われ、installati
 
 ## 🧩 あわせて覚えたい
 
-- [implementation](/implementation)：実装、実行
-- [distribution](/distribution)：配布、分配
+- [implementation](/word/implementation)：実装、実行
+- [distribution](/word/distribution)：配布、分配
 
 ---
 
 ## 📖 できればこれも
 
-- [launch](/launch)：開始、立ち上げ
-- [update](/update)：更新、アップデート
+- [launch](/word/launch)：開始、立ち上げ
+- [update](/word/update)：更新、アップデート
 
 <!-- cvid: aid26_bid40 -->

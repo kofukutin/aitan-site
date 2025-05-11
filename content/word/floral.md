@@ -97,7 +97,7 @@ TOEICでは、ホテルやイベントの説明文、広告などで「floral de
 ## 🤔  flowery との違いは？
 
 - **floral**：花に関する、花柄の（客観的・フォーマル）
-- **[flowery](/flowery)**：花のような、花で飾られた（やや感覚的・比喩的）
+- **[flowery](/word/flowery)**：花のような、花で飾られた（やや感覚的・比喩的）
 
 **floral**はデザインや香りなど「花に関する」ことを客観的に表現しますが、**flowery**は「花のような」「花で飾られた」といった感覚的・比喩的なニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは、ホテルやイベントの説明文、広告などで「floral de
 
 ## 🧩 あわせて覚えたい
 
-- [botanical](/botanical)：植物の、植物に関する
-- [fragrant](/fragrant)：良い香りの、芳香の
+- [botanical](/word/botanical)：植物の、植物に関する
+- [fragrant](/word/fragrant)：良い香りの、芳香の
 
 ---
 
 ## 📖 できればこれも
 
-- [leafy](/leafy)：葉の多い、葉に覆われた
-- [petal](/petal)：花びら
+- [leafy](/word/leafy)：葉の多い、葉に覆われた
+- [petal](/word/petal)：花びら
 
 <!-- cvid: aid45_bid09 -->

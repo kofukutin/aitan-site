@@ -97,7 +97,7 @@ All staff must put on a mask before entering the laboratory.
 ## 🤔  disguise との違いは？
 
 - **mask**：顔や口元を物理的に覆うもの、または隠すための覆い
-- **[disguise](/disguise)**：変装や偽装など、正体を隠すための手段や行為
+- **[disguise](/word/disguise)**：変装や偽装など、正体を隠すための手段や行為
 
 maskは主に「物理的に覆うもの」を指し、disguiseは「見た目や正体を隠す行為・手段」を指します。
 
@@ -105,14 +105,14 @@ maskは主に「物理的に覆うもの」を指し、disguiseは「見た目�
 
 ## 🧩 あわせて覚えたい
 
-- [shield](/shield)：盾、防御するもの
-- [cover](/cover)：覆うもの、カバー
+- [shield](/word/shield)：盾、防御するもの
+- [cover](/word/cover)：覆うもの、カバー
 
 ---
 
 ## 📖 できればこれも
 
-- [glove](/glove)：手袋
-- [gown](/gown)：ガウン、長衣
+- [glove](/word/glove)：手袋
+- [gown](/word/gown)：ガウン、長衣
 
 <!-- cvid: aid09_bid40 -->

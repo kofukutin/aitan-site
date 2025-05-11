@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写で「clean desk」や「clean floor」など、
 ## 🤔  clear との違いは？
 
 - **clean**：汚れがなく清潔な状態
-- **[clear](/clear)**：障害物や曇りがなく「すっきりした」状態
+- **[clear](/word/clear)**：障害物や曇りがなく「すっきりした」状態
 
 cleanは「物理的な汚れがない」こと、clearは「邪魔なものがなく見通しが良い」ことを表します。
 
@@ -105,14 +105,14 @@ cleanは「物理的な汚れがない」こと、clearは「邪魔なものが�
 
 ## 🧩 あわせて覚えたい
 
-- [dirty](/dirty)：汚い、汚れている
-- [tidy](/tidy)：整頓された、きちんとした
+- [dirty](/word/dirty)：汚い、汚れている
+- [tidy](/word/tidy)：整頓された、きちんとした
 
 ---
 
 ## 📖 できればこれも
 
-- [fresh](/fresh)：新鮮な、さわやかな
-- [neat](/neat)：きちんとした、整った
+- [fresh](/word/fresh)：新鮮な、さわやかな
+- [neat](/word/neat)：きちんとした、整った
 
 <!-- cvid: aid47_bid48 -->

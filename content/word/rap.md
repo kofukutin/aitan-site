@@ -97,7 +97,7 @@ TOEICではカジュアルな会話や音楽関連の話題で登場すること
 ## 🤔  chat との違いは？
 
 - **rap**：カジュアルに話す、またはリズミカルにラップを歌うこと
-- **[chat](/chat)**：気軽におしゃべりすること
+- **[chat](/word/chat)**：気軽におしゃべりすること
 
 「rap」は音楽的な意味や、テンポよく話すニュアンスが強く、「chat」は単に気軽に会話することを指します。
 
@@ -105,14 +105,14 @@ TOEICではカジュアルな会話や音楽関連の話題で登場すること
 
 ## 🧩 あわせて覚えたい
 
-- [talk](/talk)：話す、会話する
-- [discuss](/discuss)：議論する、話し合う
+- [talk](/word/talk)：話す、会話する
+- [discuss](/word/discuss)：議論する、話し合う
 
 ---
 
 ## 📖 できればこれも
 
-- [debate](/debate)：討論する
-- [mention](/mention)：言及する
+- [debate](/word/debate)：討論する
+- [mention](/word/mention)：言及する
 
 <!-- cvid: aid04_bid33 -->

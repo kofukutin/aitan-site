@@ -98,7 +98,7 @@ TOEICでは、ビジネス文書やIT関連の長文で「index」が「索引�
 ## 🤔  indicator との違いは？
 
 - **index**：本やデータの「索引」、経済や統計の「指数・指標」など、体系的なリストや数値基準を指す。
-- **[indicator](/indicator)**：何かの状態や変化を「示すもの」「指標」として使われるが、数値やリストに限らず幅広い「兆候・目印」も含む。
+- **[indicator](/word/indicator)**：何かの状態や変化を「示すもの」「指標」として使われるが、数値やリストに限らず幅広い「兆候・目印」も含む。
 
 「index」は体系的なリストや数値基準に特化し、「indicator」はより広く「示すもの」全般に使われます。
 
@@ -106,14 +106,14 @@ TOEICでは、ビジネス文書やIT関連の長文で「index」が「索引�
 
 ## 🧩 あわせて覚えたい
 
-- [catalog](/catalog)：目録、カタログ
-- [reference](/reference)：参照、参考
+- [catalog](/word/catalog)：目録、カタログ
+- [reference](/word/reference)：参照、参考
 
 ---
 
 ## 📖 できればこれも
 
-- [database](/database)：データベース
-- [summary](/summary)：要約
+- [database](/word/database)：データベース
+- [summary](/word/summary)：要約
 
 <!-- cvid: aid17_bid37 -->

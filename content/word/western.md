@@ -97,7 +97,7 @@ westernは、TOEICの長文読解パートで「西洋の文化」や「西側�
 ## 🤔  occidental との違いは？
 
 - **western**：日常的に「西の」「西洋の」という意味で幅広く使われる。
-- **[occidental](/occidental)**：ややフォーマルで学術的・歴史的文脈で「西洋の」と表現する際に使われる。
+- **[occidental](/word/occidental)**：ややフォーマルで学術的・歴史的文脈で「西洋の」と表現する際に使われる。
 
 westernは一般的な会話やビジネスでよく使われ、occidentalは専門的・文語的な場面で使われます。
 
@@ -105,14 +105,14 @@ westernは一般的な会話やビジネスでよく使われ、occidentalは専
 
 ## 🧩 あわせて覚えたい
 
-- [eastern](/eastern)：東の、東洋の
-- [southern](/southern)：南の、南部の
+- [eastern](/word/eastern)：東の、東洋の
+- [southern](/word/southern)：南の、南部の
 
 ---
 
 ## 📖 できればこれも
 
-- [northern](/northern)：北の、北部の
-- [modern](/modern)：現代の、近代的な
+- [northern](/word/northern)：北の、北部の
+- [modern](/word/modern)：現代の、近代的な
 
 <!-- cvid: aid34_bid30 -->

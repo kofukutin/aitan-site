@@ -97,7 +97,7 @@ TOEICでは、動詞として「分ける」「区別する」の意味で文法
 ## 🤔  divide との違いは？
 
 - **separate**：物や人を「分ける」「区別する」ことに重点があり、物理的・抽象的な分離どちらにも使える。
-- **[divide](/divide)**：全体を「分割する」「分配する」意味が強く、数量や割合を意識した分け方に使われる。
+- **[divide](/word/divide)**：全体を「分割する」「分配する」意味が強く、数量や割合を意識した分け方に使われる。
 
 separateは「区切る・区別する」ニュアンス、divideは「分割・分配」のニュアンスが強い点が異なります。
 
@@ -105,14 +105,14 @@ separateは「区切る・区別する」ニュアンス、divideは「分割・
 
 ## 🧩 あわせて覚えたい
 
-- [isolate](/isolate)：孤立させる、隔離する
-- [connect](/connect)：つなぐ、接続する
+- [isolate](/word/isolate)：孤立させる、隔離する
+- [connect](/word/connect)：つなぐ、接続する
 
 ---
 
 ## 📖 できればこれも
 
-- [combine](/combine)：結合する、組み合わせる
-- [attach](/attach)：取り付ける、添付する
+- [combine](/word/combine)：結合する、組み合わせる
+- [attach](/word/attach)：取り付ける、添付する
 
 <!-- cvid: aid39_bid09 -->

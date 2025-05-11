@@ -97,7 +97,7 @@ TOEICでは主にPart 7のビジネス文書やEメール、議事録などで�
 ## 🤔  proposal との違いは？
 
 - **proposition**：ビジネスや議論での「提案」「主張」「命題」など、ややフォーマルで論理的なニュアンス。
-- **[proposal](/proposal)**：一般的な「提案」「申し出」。書類や口頭での提案全般に幅広く使う。
+- **[proposal](/word/proposal)**：一般的な「提案」「申し出」。書類や口頭での提案全般に幅広く使う。
 
 propositionは論理的・抽象的な提案や主張に使われ、proposalは具体的な計画や申し出に幅広く使われます。
 
@@ -105,14 +105,14 @@ propositionは論理的・抽象的な提案や主張に使われ、proposalは�
 
 ## 🧩 あわせて覚えたい
 
-- [offer](/offer)：申し出、オファー
-- [suggestion](/suggestion)：提案、助言
+- [offer](/word/offer)：申し出、オファー
+- [suggestion](/word/suggestion)：提案、助言
 
 ---
 
 ## 📖 できればこれも
 
-- [assumption](/assumption)：仮定、前提
-- [premise](/premise)：前提、根拠
+- [assumption](/word/assumption)：仮定、前提
+- [premise](/word/premise)：前提、根拠
 
 <!-- cvid: aid14_bid31 -->

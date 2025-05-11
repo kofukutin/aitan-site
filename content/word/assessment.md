@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文やビジネス文書、教育関連の文章で
 ## 🤔  evaluation との違いは？
 
 - **assessment**：基準や目的に沿って客観的に評価・査定すること
-- **[evaluation](/evaluation)**：より広く「価値判断」や「評価」を意味し、主観的な判断も含む
+- **[evaluation](/word/evaluation)**：より広く「価値判断」や「評価」を意味し、主観的な判断も含む
 
 assessmentはテストや基準に基づく客観的な評価、evaluationは全体的な価値判断や感想も含む点が異なります。
 
@@ -105,14 +105,14 @@ assessmentはテストや基準に基づく客観的な評価、evaluationは全
 
 ## 🧩 あわせて覚えたい
 
-- [appraisal](/appraisal)：査定、評価（特に人事や不動産で使う）
-- [test](/test)：テスト、試験
+- [appraisal](/word/appraisal)：査定、評価（特に人事や不動産で使う）
+- [test](/word/test)：テスト、試験
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/analysis)：分析
-- [survey](/survey)：調査
+- [analysis](/word/analysis)：分析
+- [survey](/word/survey)：調査
 
 <!-- cvid: aid26_bid36 -->

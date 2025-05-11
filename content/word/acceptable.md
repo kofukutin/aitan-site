@@ -97,7 +97,7 @@ TOEICでは、条件や基準を満たすかどうかを問う文脈で頻出し
 ## 🤔  adequate との違いは？
 
 - **acceptable**：基準や条件を満たしていて「受け入れ可能」「容認できる」ことを強調。
-- **[adequate](/adequate)**：最低限の基準や必要条件を「十分に満たしている」ことを強調。
+- **[adequate](/word/adequate)**：最低限の基準や必要条件を「十分に満たしている」ことを強調。
 
 acceptableは「受け入れられるかどうか」に重点があり、adequateは「必要最低限を満たしているか」に重点があります。
 
@@ -105,14 +105,14 @@ acceptableは「受け入れられるかどうか」に重点があり、adequat
 
 ## 🧩 あわせて覚えたい
 
-- [satisfactory](/satisfactory)：満足できる、十分な
-- [unacceptable](/unacceptable)：受け入れられない、容認できない
+- [satisfactory](/word/satisfactory)：満足できる、十分な
+- [unacceptable](/word/unacceptable)：受け入れられない、容認できない
 
 ---
 
 ## 📖 できればこれも
 
-- [suitable](/suitable)：適切な、ふさわしい
-- [appropriate](/appropriate)：適切な、妥当な
+- [suitable](/word/suitable)：適切な、ふさわしい
+- [appropriate](/word/appropriate)：適切な、妥当な
 
 <!-- cvid: aid14_bid09 -->

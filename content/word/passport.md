@@ -97,7 +97,7 @@ TOEICでは、旅行や出張、本人確認に関する長文やEメールの�
 ## 🤔  visa との違いは？
 
 - **passport**：国が発行する身分証明書で、海外渡航の際に必要。
-- **[visa](/visa)**：渡航先の国が発行する入国許可証。
+- **[visa](/word/visa)**：渡航先の国が発行する入国許可証。
 
 passportは「自国が発行する身分証明書」、visaは「渡航先が発行する入国許可証」と覚えましょう。
 
@@ -105,14 +105,14 @@ passportは「自国が発行する身分証明書」、visaは「渡航先が�
 
 ## 🧩 あわせて覚えたい
 
-- [identification](/identification)：身分証明書
-- [document](/document)：書類
+- [identification](/word/identification)：身分証明書
+- [document](/word/document)：書類
 
 ---
 
 ## 📖 できればこれも
 
-- [ticket](/ticket)：切符、チケット
-- [reservation](/reservation)：予約
+- [ticket](/word/ticket)：切符、チケット
+- [reservation](/word/reservation)：予約
 
 <!-- cvid: aid15_bid31 -->

@@ -98,7 +98,7 @@ TOEICでは、職場や日常生活の健康、働き方に関する長文やメ
 ## 🤔  pressure との違いは？
 
 - **stress**：精神的・感情的な負担や緊張を表す。
-- **[pressure](/pressure)**：物理的な圧力や、外部からの強い要求・プレッシャーを表す。
+- **[pressure](/word/pressure)**：物理的な圧力や、外部からの強い要求・プレッシャーを表す。
 
 stressは主に心や体の内面的な負担、pressureは外部から加わる圧力や期待を指すことが多いです。
 
@@ -106,14 +106,14 @@ stressは主に心や体の内面的な負担、pressureは外部から加わる
 
 ## 🧩 あわせて覚えたい
 
-- [strain](/strain)：（精神的・肉体的な）負担、緊張
-- [relaxation](/relaxation)：リラックス、くつろぎ
+- [strain](/word/strain)：（精神的・肉体的な）負担、緊張
+- [relaxation](/word/relaxation)：リラックス、くつろぎ
 
 ---
 
 ## 📖 できればこれも
 
-- [tension](/tension)：緊張、張り詰めた状態
-- [focus](/focus)：集中、焦点
+- [tension](/word/tension)：緊張、張り詰めた状態
+- [focus](/word/focus)：集中、焦点
 
 <!-- cvid: aid22_bid04 -->

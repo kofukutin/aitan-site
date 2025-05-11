@@ -97,7 +97,7 @@ TOEICでは、形容詞として名詞を修飾する形で頻出します。特
 ## 🤔  significant との違いは？
 
 - **considerable**：量や程度が「かなり大きい」「無視できないほどの」
-- **[significant](/significant)**：重要性や影響が「大きい」「意味がある」
+- **[significant](/word/significant)**：重要性や影響が「大きい」「意味がある」
 
 「considerable」は主に数量や規模の大きさを強調し、「significant」は重要性や意味の深さを強調します。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞として名詞を修飾する形で頻出します。特
 
 ## 🧩 あわせて覚えたい
 
-- [substantial](/substantial)：かなりの、相当な（量や規模が大きい）
-- [minor](/minor)：小さい、重要でない
+- [substantial](/word/substantial)：かなりの、相当な（量や規模が大きい）
+- [minor](/word/minor)：小さい、重要でない
 
 ---
 
 ## 📖 できればこれも
 
-- [adequate](/adequate)：十分な、適切な
-- [remarkable](/remarkable)：注目すべき、著しい
+- [adequate](/word/adequate)：十分な、適切な
+- [remarkable](/word/remarkable)：注目すべき、著しい
 
 <!-- cvid: aid27_bid37 -->

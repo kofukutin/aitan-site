@@ -100,7 +100,7 @@ TOEICでは「パーティー（宴会）」の意味で日常会話に、「当
 ## 🤔  group との違いは？
 
 - **party**：目的やイベントのために集まった人々の集団、または契約・交渉の当事者
-- **[group](/group)**：共通点や目的で集まった一般的な集団
+- **[group](/word/group)**：共通点や目的で集まった一般的な集団
 
 partyは「特定の目的やイベントのための集まり」や「当事者」を指し、groupはより広く「集団」全般を指します。
 
@@ -108,14 +108,14 @@ partyは「特定の目的やイベントのための集まり」や「当事者
 
 ## 🧩 あわせて覚えたい
 
-- [team](/team)：チーム、共同作業をする集団
-- [event](/event)：出来事、行事
+- [team](/word/team)：チーム、共同作業をする集団
+- [event](/word/event)：出来事、行事
 
 ---
 
 ## 📖 できればこれも
 
-- [meeting](/meeting)：会議、打ち合わせ
-- [celebrate](/celebrate)：祝う
+- [meeting](/word/meeting)：会議、打ち合わせ
+- [celebrate](/word/celebrate)：祝う
 
 <!-- cvid: aid05_bid09 -->

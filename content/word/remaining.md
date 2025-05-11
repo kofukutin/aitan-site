@@ -97,7 +97,7 @@ TOEICでは、空所補充問題や残りの時間・人数・物などを表す
 ## 🤔  left との違いは？
 
 - **remaining**：まだ残っているもの全体を客観的に表す
-- **[left](/left)**：何かが使われた後に「残された」ものをやや口語的に表す
+- **[left](/word/left)**：何かが使われた後に「残された」ものをやや口語的に表す
 
 「remaining」はややフォーマルで書き言葉やビジネス文書でよく使われ、「left」は日常会話やカジュアルな場面で使われやすいです。
 
@@ -105,14 +105,14 @@ TOEICでは、空所補充問題や残りの時間・人数・物などを表す
 
 ## 🧩 あわせて覚えたい
 
-- [available](/available)：利用可能な
-- [surplus](/surplus)：余剰、余り
+- [available](/word/available)：利用可能な
+- [surplus](/word/surplus)：余剰、余り
 
 ---
 
 ## 📖 できればこれも
 
-- [current](/current)：現在の
-- [final](/final)：最終の
+- [current](/word/current)：現在の
+- [final](/word/final)：最終の
 
 <!-- cvid: aid33_bid27 -->

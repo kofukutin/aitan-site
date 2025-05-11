@@ -97,7 +97,7 @@ TOEICではビジネス文書やEメール、契約関連の長文で頻出し�
 ## 🤔  customer との違いは？
 
 - **client**：専門的なサービスを受ける顧客や依頼人
-- **[customer](/customer)**：商品やサービスを購入する一般的な客
+- **[customer](/word/customer)**：商品やサービスを購入する一般的な客
 
 clientは弁護士やコンサルタントなど専門職の「顧客」に使い、customerは店舗やサービスの「お客さん」に使います。
 
@@ -105,14 +105,14 @@ clientは弁護士やコンサルタントなど専門職の「顧客」に使�
 
 ## 🧩 あわせて覚えたい
 
-- [account](/account)：取引先、得意先
-- [vendor](/vendor)：販売業者、納入業者
+- [account](/word/account)：取引先、得意先
+- [vendor](/word/vendor)：販売業者、納入業者
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/contract)：契約
-- [project](/project)：プロジェクト
+- [contract](/word/contract)：契約
+- [project](/word/project)：プロジェクト
 
 <!-- cvid: aid20_bid39 -->

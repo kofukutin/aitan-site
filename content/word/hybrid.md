@@ -97,7 +97,7 @@ TOEICでは、技術やビジネスの説明文で「hybrid」が登場するこ
 ## 🤔  composite との違いは？
 
 - **hybrid**：異なる種類や要素を組み合わせてできたもの全般
-- **[composite](/composite)**：複数の要素を組み合わせてできた「複合体」や「合成物」
+- **[composite](/word/composite)**：複数の要素を組み合わせてできた「複合体」や「合成物」
 
 hybridは「性質や機能が混ざったもの」に幅広く使い、compositeは「構造的に合成されたもの」に使われることが多いです。
 
@@ -105,14 +105,14 @@ hybridは「性質や機能が混ざったもの」に幅広く使い、composit
 
 ## 🧩 あわせて覚えたい
 
-- [fusion](/fusion)：融合、合成
-- [blend](/blend)：混合、ブレンド
+- [fusion](/word/fusion)：融合、合成
+- [blend](/word/blend)：混合、ブレンド
 
 ---
 
 ## 📖 できればこれも
 
-- [innovation](/innovation)：革新
-- [prototype](/prototype)：試作品
+- [innovation](/word/innovation)：革新
+- [prototype](/word/prototype)：試作品
 
 <!-- cvid: aid14_bid38 -->

@@ -97,7 +97,7 @@ TOEICでは、社会問題や文化に関する長文で「cult」が登場す�
 ## 🤔  sect との違いは？
 
 - **cult**：社会的に異端視される熱狂的な集団や信仰、または熱狂的なファン層。
-- **[sect](/sect)**：主流から分かれた宗教の一派や分派を指し、必ずしも否定的な意味ではない。
+- **[sect](/word/sect)**：主流から分かれた宗教の一派や分派を指し、必ずしも否定的な意味ではない。
 
 cultは「危険」「盲信」など否定的なニュアンスが強く、sectは単なる宗教的な分派を指す場合が多いです。
 
@@ -105,14 +105,14 @@ cultは「危険」「盲信」など否定的なニュアンスが強く、sect
 
 ## 🧩 あわせて覚えたい
 
-- [religion](/religion)：宗教
-- [trend](/trend)：流行、傾向
+- [religion](/word/religion)：宗教
+- [trend](/word/trend)：流行、傾向
 
 ---
 
 ## 📖 できればこれも
 
-- [ritual](/ritual)：儀式
-- [belief](/belief)：信念
+- [ritual](/word/ritual)：儀式
+- [belief](/word/belief)：信念
 
 <!-- cvid: aid09_bid29 -->

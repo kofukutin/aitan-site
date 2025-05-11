@@ -97,7 +97,7 @@ streamlineはビジネスの効率化や業務改善に関する文脈でPart 5�
 ## 🤔  simplify との違いは？
 
 - **streamline**：無駄を省いて効率化する、流れをスムーズにする
-- **[simplify](/simplify)**：単純化する、複雑さを減らす
+- **[simplify](/word/simplify)**：単純化する、複雑さを減らす
 
 streamlineは「効率化」や「合理化」に重点があり、業務や手順の流れを滑らかにするニュアンスです。simplifyは「単純にする」ことに重点があり、複雑なものをわかりやすくする場面で使います。
 
@@ -105,14 +105,14 @@ streamlineは「効率化」や「合理化」に重点があり、業務や手�
 
 ## 🧩 あわせて覚えたい
 
-- [optimize](/optimize)：最適化する
-- [eliminate](/eliminate)：取り除く、排除する
+- [optimize](/word/optimize)：最適化する
+- [eliminate](/word/eliminate)：取り除く、排除する
 
 ---
 
 ## 📖 できればこれも
 
-- [revise](/revise)：修正する、見直す
-- [adjust](/adjust)：調整する、適応させる
+- [revise](/word/revise)：修正する、見直す
+- [adjust](/word/adjust)：調整する、適応させる
 
 <!-- cvid: aid30_bid40 -->

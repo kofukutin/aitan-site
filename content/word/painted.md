@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、物や建物の外観を説明する
 ## 🤔  decorated との違いは？
 
 - **painted**：ペンキや絵の具で塗られた、描かれた状態
-- **[decorated](/decorated)**：装飾された、飾り付けられた状態
+- **[decorated](/word/decorated)**：装飾された、飾り付けられた状態
 
 paintedは「色や絵の具で表面を塗る・描く」ことに限定されますが、decoratedはリボンや飾りなど幅広い装飾全般を指します。
 
@@ -105,14 +105,14 @@ paintedは「色や絵の具で表面を塗る・描く」ことに限定され�
 
 ## 🧩 あわせて覚えたい
 
-- [colored](/colored)：色がついた
-- [drawn](/drawn)：描かれた（線や絵で）
+- [colored](/word/colored)：色がついた
+- [drawn](/word/drawn)：描かれた（線や絵で）
 
 ---
 
 ## 📖 できればこれも
 
-- [paint](/paint)：塗る、描く
-- [coated](/coated)：（何かで）覆われた
+- [paint](/word/paint)：塗る、描く
+- [coated](/word/coated)：（何かで）覆われた
 
 <!-- cvid: aid00_bid40 -->

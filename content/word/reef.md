@@ -97,7 +97,7 @@ TOEICでは環境や観光、自然保護に関する長文や説明文で登場
 ## 🤔  coral との違いは？
 
 - **reef**：海中や海面近くの岩やサンゴが集まった「礁」全般を指す
-- **[coral](/coral)**：サンゴそのもの、またはサンゴでできたものを指す
+- **[coral](/word/coral)**：サンゴそのもの、またはサンゴでできたものを指す
 
 reefは地形や構造物としての「礁」を表し、coralは生物としての「サンゴ」やその素材を指します。
 
@@ -105,14 +105,14 @@ reefは地形や構造物としての「礁」を表し、coralは生物とし�
 
 ## 🧩 あわせて覚えたい
 
-- [lagoon](/lagoon)：礁湖、サンゴ礁に囲まれた浅い湖
-- [barrier](/barrier)：障壁、バリア（自然の障害物も含む）
+- [lagoon](/word/lagoon)：礁湖、サンゴ礁に囲まれた浅い湖
+- [barrier](/word/barrier)：障壁、バリア（自然の障害物も含む）
 
 ---
 
 ## 📖 できればこれも
 
-- [shore](/shore)：岸、海岸
-- [island](/island)：島
+- [shore](/word/shore)：岸、海岸
+- [island](/word/island)：島
 
 <!-- cvid: aid21_bid35 -->

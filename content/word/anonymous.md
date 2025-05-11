@@ -97,7 +97,7 @@ TOEICでは、アンケートや意見、苦情などの文脈で「anonymous」
 ## 🤔  unidentified との違いは？
 
 - **anonymous**：名前や身元を明かさない、匿名の
-- **[unidentified](/unidentified)**：正体・身元が特定されていない
+- **[unidentified](/word/unidentified)**：正体・身元が特定されていない
 
 「anonymous」は意図的に名前を伏せる場合に使い、「unidentified」は誰なのか分からない・特定できない場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、アンケートや意見、苦情などの文脈で「anonymous」
 
 ## 🧩 あわせて覚えたい
 
-- [confidential](/confidential)：機密の、内密の
-- [incognito](/incognito)：身分を隠して、匿名で
+- [confidential](/word/confidential)：機密の、内密の
+- [incognito](/word/incognito)：身分を隠して、匿名で
 
 ---
 
 ## 📖 できればこれも
 
-- [confidential](/confidential)：機密の
-- [unknown](/unknown)：未知の、知られていない
+- [confidential](/word/confidential)：機密の
+- [unknown](/word/unknown)：未知の、知られていない
 
 <!-- cvid: aid39_bid03 -->

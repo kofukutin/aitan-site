@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、横断歩道や交差点の説明と
 ## 🤔  intersection との違いは？
 
 - **crossing**：歩行者が渡る横断歩道や、線路・道が交差する場所全般
-- **[intersection](/intersection)**：主に道路同士が交わる「交差点」
+- **[intersection](/word/intersection)**：主に道路同士が交わる「交差点」
 
 crossingは歩行者の横断や線路の踏切など幅広く使われますが、intersectionは車道同士の交差点に限定されることが多いです。
 
@@ -105,14 +105,14 @@ crossingは歩行者の横断や線路の踏切など幅広く使われますが
 
 ## 🧩 あわせて覚えたい
 
-- [pedestrian](/pedestrian)：歩行者
-- [crosswalk](/crosswalk)：横断歩道
+- [pedestrian](/word/pedestrian)：歩行者
+- [crosswalk](/word/crosswalk)：横断歩道
 
 ---
 
 ## 📖 できればこれも
 
-- [bridge](/bridge)：橋
-- [station](/station)：駅
+- [bridge](/word/bridge)：橋
+- [station](/word/station)：駅
 
 <!-- cvid: aid10_bid41 -->

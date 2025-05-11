@@ -97,7 +97,7 @@ IT関連の長文や説明文で、ファイル形式やデータ処理の文脈
 ## 🤔  encryption との違いは？
 
 - **encoding**：データを特定の形式や規則に従って変換すること（主に可読性や互換性のため）。
-- **[encryption](/encryption)**：データを第三者に読まれないように暗号化すること（主にセキュリティ目的）。
+- **[encryption](/word/encryption)**：データを第三者に読まれないように暗号化すること（主にセキュリティ目的）。
 
 encodingは主にデータの形式変換、encryptionは情報の保護・秘匿が目的で、用途や重要性が異なります。
 
@@ -105,14 +105,14 @@ encodingは主にデータの形式変換、encryptionは情報の保護・秘�
 
 ## 🧩 あわせて覚えたい
 
-- [decoding](/decoding)：復号、データを元の形式に戻すこと
-- [compression](/compression)：圧縮、データの容量を小さくすること
+- [decoding](/word/decoding)：復号、データを元の形式に戻すこと
+- [compression](/word/compression)：圧縮、データの容量を小さくすること
 
 ---
 
 ## 📖 できればこれも
 
-- [format](/format)：形式、書式
-- [transmission](/transmission)：送信、伝送
+- [format](/word/format)：形式、書式
+- [transmission](/word/transmission)：送信、伝送
 
 <!-- cvid: aid10_bid11 -->

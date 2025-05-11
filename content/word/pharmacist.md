@@ -97,7 +97,7 @@ The pharmacist will prepare your prescription shortly.
 ## 🤔  doctor との違いは？
 
 - **pharmacist**：薬を調剤し、服薬指導を行う専門職
-- **[doctor](/doctor)**：診断や治療を行う医師
+- **[doctor](/word/doctor)**：診断や治療を行う医師
 
 pharmacistは薬の専門家で、doctorは診断や治療の専門家です。役割が明確に分かれています。
 
@@ -105,14 +105,14 @@ pharmacistは薬の専門家で、doctorは診断や治療の専門家です。�
 
 ## 🧩 あわせて覚えたい
 
-- [prescription](/prescription)：処方箋
-- [pharmacy](/pharmacy)：薬局
+- [prescription](/word/prescription)：処方箋
+- [pharmacy](/word/pharmacy)：薬局
 
 ---
 
 ## 📖 できればこれも
 
-- [nurse](/nurse)：看護師
-- [medicine](/medicine)：薬
+- [nurse](/word/nurse)：看護師
+- [medicine](/word/medicine)：薬
 
 <!-- cvid: aid12_bid04 -->

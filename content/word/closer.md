@@ -97,7 +97,7 @@ Let's move the meeting to a closer date.
 ## 🤔  near との違いは？
 
 - **closer**：比較して「より近い」「もっと近い」と強調する表現
-- **[near](/near)**：単に「近い」という状態を表す
+- **[near](/word/near)**：単に「近い」という状態を表す
 
 closerは比較対象があるときに使い、nearは単に距離が近いことを表します。
 
@@ -105,14 +105,14 @@ closerは比較対象があるときに使い、nearは単に距離が近いこ�
 
 ## 🧩 あわせて覚えたい
 
-- [adjacent](/adjacent)：隣接した
-- [approach](/approach)：近づく
+- [adjacent](/word/adjacent)：隣接した
+- [approach](/word/approach)：近づく
 
 ---
 
 ## 📖 できればこれも
 
-- [close](/close)：近い
-- [further](/further)：さらに遠い
+- [close](/word/close)：近い
+- [further](/word/further)：さらに遠い
 
 <!-- cvid: aid01_bid34 -->

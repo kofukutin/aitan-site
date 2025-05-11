@@ -97,7 +97,7 @@ TOEICではPart 7の図表付き問題や説明文でよく登場します。グ
 ## 🤔  chart との違いは？
 
 - **graph**：数値やデータの変化・関係性を線や棒などで視覚的に示す図。
-- **[chart](/chart)**：情報やデータを整理して示す表や図の総称。グラフもchartの一種。
+- **[chart](/word/chart)**：情報やデータを整理して示す表や図の総称。グラフもchartの一種。
 
 graphは特に数値の変化や比較を強調する図、chartはより広く「表」や「図」を指します。
 
@@ -105,14 +105,14 @@ graphは特に数値の変化や比較を強調する図、chartはより広く�
 
 ## 🧩 あわせて覚えたい
 
-- [diagram](/diagram)：構造や仕組みを示す図
-- [table](/table)：データを行と列で整理した表
+- [diagram](/word/diagram)：構造や仕組みを示す図
+- [table](/word/table)：データを行と列で整理した表
 
 ---
 
 ## 📖 できればこれも
 
-- [figure](/figure)：図、イラスト、数値
-- [data](/data)：データ、資料
+- [figure](/word/figure)：図、イラスト、数値
+- [data](/word/data)：データ、資料
 
 <!-- cvid: aid10_bid23 -->

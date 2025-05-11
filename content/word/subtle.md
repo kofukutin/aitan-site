@@ -98,7 +98,7 @@ TOEICでは、文章中の「微妙な違い」や「巧妙なヒント」など
 ## 🤔  delicate との違いは？
 
 - **subtle**：目立たず気づきにくいほどの微妙さや巧妙さを表す。
-- **[delicate](/delicate)**：壊れやすい、繊細で注意が必要な状態を表す。
+- **[delicate](/word/delicate)**：壊れやすい、繊細で注意が必要な状態を表す。
 
 subtleは「見抜きにくい細やかさ」、delicateは「壊れやすさや扱いの難しさ」に重点があります。
 
@@ -106,14 +106,14 @@ subtleは「見抜きにくい細やかさ」、delicateは「壊れやすさや
 
 ## 🧩 あわせて覚えたい
 
-- [obvious](/obvious)：明白な、はっきりした
-- [nuance](/nuance)：微妙な違い、ニュアンス
+- [obvious](/word/obvious)：明白な、はっきりした
+- [nuance](/word/nuance)：微妙な違い、ニュアンス
 
 ---
 
 ## 📖 できればこれも
 
-- [complex](/complex)：複雑な
-- [precise](/precise)：正確な
+- [complex](/word/complex)：複雑な
+- [precise](/word/precise)：正確な
 
 <!-- cvid: aid27_bid34 -->

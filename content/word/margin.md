@@ -97,7 +97,7 @@ TOEICではビジネス文書や報告書、会議資料などで「利益率」
 ## 🤔  profit との違いは？
 
 - **margin**：売上に対する利益の「割合」や「幅」を指すことが多い
-- **[profit](/profit)**：実際に得られた「利益」そのもの
+- **[profit](/word/profit)**：実際に得られた「利益」そのもの
 
 marginは「利益率」や「余白」といった幅や割合を強調し、profitは得た金額そのものを指します。
 
@@ -105,14 +105,14 @@ marginは「利益率」や「余白」といった幅や割合を強調し、pr
 
 ## 🧩 あわせて覚えたい
 
-- [loss](/loss)：損失
-- [edge](/edge)：端、縁
+- [loss](/word/loss)：損失
+- [edge](/word/edge)：端、縁
 
 ---
 
 ## 📖 できればこれも
 
-- [revenue](/revenue)：収益
-- [cost](/cost)：費用
+- [revenue](/word/revenue)：収益
+- [cost](/word/cost)：費用
 
 <!-- cvid: aid39_bid00 -->

@@ -97,7 +97,7 @@ TOEICのPart 7（長文読解）で「ざっと読む」「要点を拾う」な
 ## 🤔  scan との違いは？
 
 - **skim**：ざっと目を通して大まかな内容をつかむ
-- **[scan](/scan)**：特定の情報やキーワードを探して注意深く読む
+- **[scan](/word/scan)**：特定の情報やキーワードを探して注意深く読む
 
 skimは全体の流れや要点を拾うとき、scanは特定の情報を探すときに使います。
 
@@ -105,14 +105,14 @@ skimは全体の流れや要点を拾うとき、scanは特定の情報を探す
 
 ## 🧩 あわせて覚えたい
 
-- [browse](/browse)：（本やウェブなどを）見て回る、ざっと見る
-- [glance](/glance)：ちらっと見る
+- [browse](/word/browse)：（本やウェブなどを）見て回る、ざっと見る
+- [glance](/word/glance)：ちらっと見る
 
 ---
 
 ## 📖 できればこれも
 
-- [review](/review)：見直す、復習する
-- [summarize](/summarize)：要約する
+- [review](/word/review)：見直す、復習する
+- [summarize](/word/summarize)：要約する
 
 <!-- cvid: aid12_bid02 -->

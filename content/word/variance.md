@@ -97,7 +97,7 @@ TOEICでは主にビジネスや科学的な文脈で「違い」「ばらつき
 ## 🤔  variation との違いは？
 
 - **variance**：主に統計や科学分野で「ばらつき」「分散」といった数値的な違いを表す。
-- **[variation](/variation)**：一般的な「変化」「多様性」「違い」を幅広く表す。
+- **[variation](/word/variation)**：一般的な「変化」「多様性」「違い」を幅広く表す。
 
 varianceは数値やデータの「散らばり具合」に特化し、variationは日常的な「変化」や「違い」全般に使われます。
 
@@ -105,14 +105,14 @@ varianceは数値やデータの「散らばり具合」に特化し、variation
 
 ## 🧩 あわせて覚えたい
 
-- [consistency](/consistency)：一貫性、安定性
-- [deviation](/deviation)：逸脱、偏差
+- [consistency](/word/consistency)：一貫性、安定性
+- [deviation](/word/deviation)：逸脱、偏差
 
 ---
 
 ## 📖 できればこれも
 
-- [average](/average)：平均
-- [fluctuation](/fluctuation)：変動
+- [average](/word/average)：平均
+- [fluctuation](/word/fluctuation)：変動
 
 <!-- cvid: aid44_bid46 -->

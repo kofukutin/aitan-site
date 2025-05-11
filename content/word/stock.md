@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やEメール、案内文などで「在庫�
 ## 🤔  inventory との違いは？
 
 - **stock**：販売や使用のために保管している「在庫」や「株式」など幅広い意味で使う
-- **[inventory](/inventory)**：主に「棚卸し在庫」や「在庫リスト」として、数量や管理のニュアンスが強い
+- **[inventory](/word/inventory)**：主に「棚卸し在庫」や「在庫リスト」として、数量や管理のニュアンスが強い
 
 stockは一般的な在庫や株式全般を指し、inventoryは在庫のリストや管理・数量に焦点を当てる場面で使われます。
 
@@ -105,14 +105,14 @@ stockは一般的な在庫や株式全般を指し、inventoryは在庫のリス
 
 ## 🧩 あわせて覚えたい
 
-- [supply](/supply)：供給、備蓄
-- [asset](/asset)：資産
+- [supply](/word/supply)：供給、備蓄
+- [asset](/word/asset)：資産
 
 ---
 
 ## 📖 できればこれも
 
-- [share](/share)：株式、分け前
-- [goods](/goods)：商品、品物
+- [share](/word/share)：株式、分け前
+- [goods](/word/goods)：商品、品物
 
 <!-- cvid: aid40_bid49 -->

@@ -97,7 +97,7 @@ TOEICでは案内文や説明書、広告などの長文中で「booklet」が�
 ## 🤔  brochure との違いは？
 
 - **booklet**：数ページから数十ページの小冊子。説明書や案内書など内容が詳しいものに使う。
-- **[brochure](/brochure)**：商品やサービスの宣伝用パンフレット。カラーで写真やデザインが多い。
+- **[brochure](/word/brochure)**：商品やサービスの宣伝用パンフレット。カラーで写真やデザインが多い。
 
 bookletは情報を詳しく伝える小冊子、brochureは宣伝や案内を目的としたカラフルなパンフレットという違いがあります。
 
@@ -105,14 +105,14 @@ bookletは情報を詳しく伝える小冊子、brochureは宣伝や案内を�
 
 ## 🧩 あわせて覚えたい
 
-- [pamphlet](/pamphlet)：パンフレット、小冊子
-- [manual](/manual)：取扱説明書
+- [pamphlet](/word/pamphlet)：パンフレット、小冊子
+- [manual](/word/manual)：取扱説明書
 
 ---
 
 ## 📖 できればこれも
 
-- [catalog](/catalog)：カタログ、商品一覧
-- [leaflet](/leaflet)：チラシ、リーフレット
+- [catalog](/word/catalog)：カタログ、商品一覧
+- [leaflet](/word/leaflet)：チラシ、リーフレット
 
 <!-- cvid: aid30_bid07 -->

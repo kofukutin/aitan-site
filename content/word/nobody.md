@@ -93,7 +93,7 @@ TOEICでは会話文や応答問題で「誰も～ない」と答える場面で
 ## 🤔  no one との違いは？
 
 - **nobody**：カジュアルな場面で「誰も～ない」と言う時によく使う。
-- **[no one](/no_one)**：ややフォーマルで書き言葉や丁寧な場面で使われやすい。
+- **[no one](/word/no_one)**：ややフォーマルで書き言葉や丁寧な場面で使われやすい。
 
 nobodyは口語的で日常会話向き、no oneはフォーマルな文書や丁寧な会話で使われる傾向があります。
 
@@ -101,14 +101,14 @@ nobodyは口語的で日常会話向き、no oneはフォーマルな文書や�
 
 ## 🧩 あわせて覚えたい
 
-- [somebody](/somebody)：誰か
-- [anybody](/anybody)：誰でも、誰か
+- [somebody](/word/somebody)：誰か
+- [anybody](/word/anybody)：誰でも、誰か
 
 ---
 
 ## 📖 できればこれも
 
-- [nothing](/nothing)：何も～ない
-- [everyone](/everyone)：みんな、全員
+- [nothing](/word/nothing)：何も～ない
+- [everyone](/word/everyone)：みんな、全員
 
 <!-- cvid: aid11_bid17 -->

@@ -98,7 +98,7 @@ TOEICでは「permanent position（正社員）」や「permanent address（現�
 ## 🤔  temporary との違いは？
 
 - **permanent**：長期間続く、恒久的な
-- **[temporary](/temporary)**：一時的な、短期間の
+- **[temporary](/word/temporary)**：一時的な、短期間の
 
 permanentは「ずっと続く」ことを強調し、temporaryは「一時的で終わる」ことを表します。雇用形態や契約期間などで対比されることが多いです。
 
@@ -106,14 +106,14 @@ permanentは「ずっと続く」ことを強調し、temporaryは「一時的�
 
 ## 🧩 あわせて覚えたい
 
-- [stable](/stable)：安定した
-- [fixed](/fixed)：固定された、決まった
+- [stable](/word/stable)：安定した
+- [fixed](/word/fixed)：固定された、決まった
 
 ---
 
 ## 📖 できればこれも
 
-- [constant](/constant)：絶え間ない、一定の
-- [regular](/regular)：定期的な、規則的な
+- [constant](/word/constant)：絶え間ない、一定の
+- [regular](/word/regular)：定期的な、規則的な
 
 <!-- cvid: aid48_bid00 -->

@@ -97,7 +97,7 @@ TOEICでは規則やルールに関する文脈で「forbidden」が選択肢に
 ## 🤔  prohibited との違いは？
 
 - **forbidden**：規則や権威によって「絶対にしてはいけない」と強く禁止されているニュアンス。
-- **[prohibited](/prohibited)**：法律や公式な規則によって「禁止されている」というややフォーマルな表現。
+- **[prohibited](/word/prohibited)**：法律や公式な規則によって「禁止されている」というややフォーマルな表現。
 
 「forbidden」は感情的・道徳的な禁止も含み、日常的な禁止事項にも使われますが、「prohibited」は法律や規則など公式な場面で使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは規則やルールに関する文脈で「forbidden」が選択肢に
 
 ## 🧩 あわせて覚えたい
 
-- [allowed](/allowed)：許可された
-- [restricted](/restricted)：制限された
+- [allowed](/word/allowed)：許可された
+- [restricted](/word/restricted)：制限された
 
 ---
 
 ## 📖 できればこれも
 
-- [illegal](/illegal)：違法の
-- [mandatory](/mandatory)：義務的な
+- [illegal](/word/illegal)：違法の
+- [mandatory](/word/mandatory)：義務的な
 
 <!-- cvid: aid34_bid29 -->

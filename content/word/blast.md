@@ -97,7 +97,7 @@ blastは、事故やトラブル、工場や現場の説明などで出題され
 ## 🤔  explosion との違いは？
 
 - **blast**：爆発や突風など、急激で強い力や音を強調する
-- **[explosion](/explosion)**：爆発そのものの現象や出来事を指す
+- **[explosion](/word/explosion)**：爆発そのものの現象や出来事を指す
 
 blastは「爆風」や「衝撃」に焦点を当て、explosionは「爆発」という出来事自体を指します。
 
@@ -105,14 +105,14 @@ blastは「爆風」や「衝撃」に焦点を当て、explosionは「爆発」
 
 ## 🧩 あわせて覚えたい
 
-- [burst](/burst)：破裂、突然の爆発
-- [gust](/gust)：突風、強い一吹き
+- [burst](/word/burst)：破裂、突然の爆発
+- [gust](/word/gust)：突風、強い一吹き
 
 ---
 
 ## 📖 できればこれも
 
-- [impact](/impact)：衝撃、影響
-- [shock](/shock)：衝撃、ショック
+- [impact](/word/impact)：衝撃、影響
+- [shock](/word/shock)：衝撃、ショック
 
 <!-- cvid: aid12_bid35 -->

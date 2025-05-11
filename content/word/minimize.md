@@ -97,7 +97,7 @@ TOEICでは主にビジネス文脈で「コストやリスクを最小限にす
 ## 🤔  reduce との違いは？
 
 - **minimize**：できるだけ小さく・最小限に抑える
-- **[reduce](/reduce)**：単に減らす、少なくする
+- **[reduce](/word/reduce)**：単に減らす、少なくする
 
 minimizeは「最小限まで抑える」強いニュアンスがあり、reduceは「減らす」一般的な表現です。
 
@@ -105,14 +105,14 @@ minimizeは「最小限まで抑える」強いニュアンスがあり、reduce
 
 ## 🧩 あわせて覚えたい
 
-- [maximize](/maximize)：最大化する
-- [decrease](/decrease)：減少する、減らす
+- [maximize](/word/maximize)：最大化する
+- [decrease](/word/decrease)：減少する、減らす
 
 ---
 
 ## 📖 できればこれも
 
-- [eliminate](/eliminate)：排除する、取り除く
-- [limit](/limit)：制限する、限度を設ける
+- [eliminate](/word/eliminate)：排除する、取り除く
+- [limit](/word/limit)：制限する、限度を設ける
 
 <!-- cvid: aid14_bid09 -->

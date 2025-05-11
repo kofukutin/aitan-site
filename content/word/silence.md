@@ -98,7 +98,7 @@ TOEICでは会議や電話のやりとりで「沈黙」や「静けさ」を表
 ## 🤔  quiet との違いは？
 
 - **silence**：音や話し声が全くない「静けさ」や「沈黙」という状態を指す名詞。
-- **[quiet](/quiet)**：音が小さい、または静かな状態を表す形容詞。
+- **[quiet](/word/quiet)**：音が小さい、または静かな状態を表す形容詞。
 
 silenceは「完全な静けさ」や「沈黙」という状態そのものを名詞で表し、quietは「静かな」という性質や様子を形容詞で表します。
 
@@ -106,14 +106,14 @@ silenceは「完全な静けさ」や「沈黙」という状態そのものを�
 
 ## 🧩 あわせて覚えたい
 
-- [noise](/noise)：騒音、雑音
-- [pause](/pause)：一時停止、間
+- [noise](/word/noise)：騒音、雑音
+- [pause](/word/pause)：一時停止、間
 
 ---
 
 ## 📖 できればこれも
 
-- [sound](/sound)：音
-- [voice](/voice)：声
+- [sound](/word/sound)：音
+- [voice](/word/voice)：声
 
 <!-- cvid: aid25_bid07 -->

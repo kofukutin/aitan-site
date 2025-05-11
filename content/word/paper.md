@@ -97,7 +97,7 @@ TOEICでは「紙」「書類」「論文」など複数の意味で出題され
 ## 🤔  document との違いは？
 
 - **paper**：紙そのもの、または論文・新聞など印刷物を指す
-- **[document](/document)**：公式な書類や文書を指す
+- **[document](/word/document)**：公式な書類や文書を指す
 
 paperは物質としての「紙」や「論文」など幅広く使われますが、documentは「契約書」や「証明書」など公式な文書に限定されることが多いです。
 
@@ -105,14 +105,14 @@ paperは物質としての「紙」や「論文」など幅広く使われます
 
 ## 🧩 あわせて覚えたい
 
-- [report](/report)：報告書、レポート
-- [article](/article)：記事、論説
+- [report](/word/report)：報告書、レポート
+- [article](/word/article)：記事、論説
 
 ---
 
 ## 📖 できればこれも
 
-- [note](/note)：メモ、覚え書き
-- [form](/form)：用紙、書式
+- [note](/word/note)：メモ、覚え書き
+- [form](/word/form)：用紙、書式
 
 <!-- cvid: aid36_bid42 -->

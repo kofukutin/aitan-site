@@ -97,7 +97,7 @@ TOEICでは成分表示や科学的な説明文で見かけることがありま
 ## 🤔  water との違いは？
 
 - **aqua**：科学的・技術的な文脈や成分表示で使われるフォーマルな「水」
-- **[water](/water)**：日常的に使う「水」、一般的な表現
+- **[water](/word/water)**：日常的に使う「水」、一般的な表現
 
 aquaは専門的・フォーマルな場面で使われ、waterは日常会話や一般的な文脈で使われます。
 
@@ -105,14 +105,14 @@ aquaは専門的・フォーマルな場面で使われ、waterは日常会話�
 
 ## 🧩 あわせて覚えたい
 
-- [liquid](/liquid)：液体
-- [solution](/solution)：溶液
+- [liquid](/word/liquid)：液体
+- [solution](/word/solution)：溶液
 
 ---
 
 ## 📖 できればこれも
 
-- [fluid](/fluid)：流体
-- [substance](/substance)：物質
+- [fluid](/word/fluid)：流体
+- [substance](/word/substance)：物質
 
 <!-- cvid: aid38_bid30 -->

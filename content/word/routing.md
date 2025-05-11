@@ -97,7 +97,7 @@ routingはITや物流関連の長文やメール文面で出題されること�
 ## 🤔  scheduling との違いは？
 
 - **routing**：経路やルートそのものの設定や選択に焦点がある
-- **[scheduling](/scheduling)**：作業やイベントの時間割・予定を決めること
+- **[scheduling](/word/scheduling)**：作業やイベントの時間割・予定を決めること
 
 routingは「どの道を通るか」、schedulingは「いつ行うか」に主眼があり、場面によって使い分けます。
 
@@ -105,14 +105,14 @@ routingは「どの道を通るか」、schedulingは「いつ行うか」に主
 
 ## 🧩 あわせて覚えたい
 
-- [allocation](/allocation)：割り当て、配分
-- [transmission](/transmission)：送信、伝達
+- [allocation](/word/allocation)：割り当て、配分
+- [transmission](/word/transmission)：送信、伝達
 
 ---
 
 ## 📖 できればこれも
 
-- [network](/network)：ネットワーク、通信網
-- [process](/process)：過程、処理
+- [network](/word/network)：ネットワーク、通信網
+- [process](/word/process)：過程、処理
 
 <!-- cvid: aid40_bid20 -->

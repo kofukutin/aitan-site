@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、服装や持ち物の説明として
 ## 🤔  wallet との違いは？
 
 - **pocket**：服やバッグについている小さな袋部分
-- **[wallet](/wallet)**：お金やカードを入れるための財布
+- **[wallet](/word/wallet)**：お金やカードを入れるための財布
 
 pocketは衣服やバッグの一部で、walletは独立した小物（財布）です。入れる物や使う場面が異なります。
 
@@ -105,14 +105,14 @@ pocketは衣服やバッグの一部で、walletは独立した小物（財布�
 
 ## 🧩 あわせて覚えたい
 
-- [bag](/bag)：かばん
-- [purse](/purse)：（主に女性用の）財布、小銭入れ
+- [bag](/word/bag)：かばん
+- [purse](/word/purse)：（主に女性用の）財布、小銭入れ
 
 ---
 
 ## 📖 できればこれも
 
-- [button](/button)：ボタン
-- [coin](/coin)：コイン、小銭
+- [button](/word/button)：ボタン
+- [coin](/word/coin)：コイン、小銭
 
 <!-- cvid: aid09_bid19 -->

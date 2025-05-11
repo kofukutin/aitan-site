@@ -105,14 +105,14 @@ tonightは「今夜」に限定されるのに対し、this eveningは夕方か�
 
 ## 🧩 あわせて覚えたい
 
-- [tomorrow](/tomorrow)：明日
-- [yesterday](/yesterday)：昨日
+- [tomorrow](/word/tomorrow)：明日
+- [yesterday](/word/yesterday)：昨日
 
 ---
 
 ## 📖 できればこれも
 
-- [today](/today)：今日
-- [soon](/soon)：すぐに
+- [today](/word/today)：今日
+- [soon](/word/soon)：すぐに
 
 <!-- cvid: aid11_bid16 -->

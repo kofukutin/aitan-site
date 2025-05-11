@@ -104,7 +104,7 @@ TOEICでは「欠席」「不在」「欠如」の意味で、主に文法・語
 ## 🤔  lack との違いは？
 
 - **absence**：あるべき人や物が「物理的・状況的に存在しない」ことを強調
-- **[lack](/lack)**：必要なものが「十分にない」「不足している」状態を強調
+- **[lack](/word/lack)**：必要なものが「十分にない」「不足している」状態を強調
 
 absenceは「完全にいない・ない」こと、lackは「量や程度が足りない」ことに使い分けます。
 
@@ -112,14 +112,14 @@ absenceは「完全にいない・ない」こと、lackは「量や程度が足
 
 ## 🧩 あわせて覚えたい
 
-- [presence](/presence)：存在、出席
-- [shortage](/shortage)：不足、欠乏
+- [presence](/word/presence)：存在、出席
+- [shortage](/word/shortage)：不足、欠乏
 
 ---
 
 ## 📖 できればこれも
 
-- [leave](/leave)：休暇、休み
-- [vacancy](/vacancy)：空き、欠員
+- [leave](/word/leave)：休暇、休み
+- [vacancy](/word/vacancy)：空き、欠員
 
 <!-- cvid: aid33_bid25 -->

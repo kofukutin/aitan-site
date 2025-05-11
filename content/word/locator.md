@@ -97,7 +97,7 @@ TOEICではウェブサイトやアプリの説明、サービス案内などで
 ## 🤔  tracker との違いは？
 
 - **locator**：位置を特定・検索するための装置やツール
-- **[tracker](/tracker)**：追跡して動きを記録・監視する装置やツール
+- **[tracker](/word/tracker)**：追跡して動きを記録・監視する装置やツール
 
 locatorは「今どこにあるか」を探すのに使い、trackerは「どこを移動したか」など動きを追う目的で使います。
 
@@ -105,14 +105,14 @@ locatorは「今どこにあるか」を探すのに使い、trackerは「どこ
 
 ## 🧩 あわせて覚えたい
 
-- [identifier](/identifier)：識別子、ID
-- [device](/device)：装置、機器
+- [identifier](/word/identifier)：識別子、ID
+- [device](/word/device)：装置、機器
 
 ---
 
 ## 📖 できればこれも
 
-- [navigation](/navigation)：ナビゲーション、案内
-- [sensor](/sensor)：センサー、感知器
+- [navigation](/word/navigation)：ナビゲーション、案内
+- [sensor](/word/sensor)：センサー、感知器
 
 <!-- cvid: aid26_bid24 -->

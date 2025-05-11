@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やレポートの中で「重要な」「大き
 ## 🤔  important との違いは？
 
 - **significant**：客観的に見て「影響が大きい」「意味がある」と強調したいときに使う
-- **[important](/important)**：主観的・一般的に「大事」「重要」と言いたいときに使う
+- **[important](/word/important)**：主観的・一般的に「大事」「重要」と言いたいときに使う
 
 「significant」は統計やビジネスで「結果や影響が大きい」と客観的に述べる時に使い、「important」は日常的な「大切さ」を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネス文書やレポートの中で「重要な」「大き
 
 ## 🧩 あわせて覚えたい
 
-- [crucial](/crucial)：極めて重要な
-- [minor](/minor)：ささいな、重要でない
+- [crucial](/word/crucial)：極めて重要な
+- [minor](/word/minor)：ささいな、重要でない
 
 ---
 
 ## 📖 できればこれも
 
-- [essential](/essential)：不可欠な、絶対必要な
-- [considerable](/considerable)：かなりの、相当な
+- [essential](/word/essential)：不可欠な、絶対必要な
+- [considerable](/word/considerable)：かなりの、相当な
 
 <!-- cvid: aid15_bid27 -->

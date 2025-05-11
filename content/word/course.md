@@ -97,7 +97,7 @@ TOEICでは、研修や教育、進行の流れに関する会話や説明でよ
 ## 🤔  route との違いは？
 
 - **course**：学習や進行の「課程」「コース」「流れ」を表す。
-- **[route](/route)**：物理的な「道筋」「経路」を表す。
+- **[route](/word/route)**：物理的な「道筋」「経路」を表す。
 
 courseは抽象的な流れや教育課程に使い、routeは実際の道やルートに使います。
 
@@ -105,14 +105,14 @@ courseは抽象的な流れや教育課程に使い、routeは実際の道やル
 
 ## 🧩 あわせて覚えたい
 
-- [path](/path)：小道、進路
-- [curriculum](/curriculum)：カリキュラム、教育課程
+- [path](/word/path)：小道、進路
+- [curriculum](/word/curriculum)：カリキュラム、教育課程
 
 ---
 
 ## 📖 できればこれも
 
-- [subject](/subject)：科目、主題
-- [direction](/direction)：方向、指示
+- [subject](/word/subject)：科目、主題
+- [direction](/word/direction)：方向、指示
 
 <!-- cvid: aid23_bid42 -->

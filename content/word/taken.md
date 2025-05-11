@@ -97,7 +97,7 @@ The meeting room is taken at 2 p.m.
 ## 🤔  occupied との違いは？
 
 - **taken**：誰かに使われていて「空いていない」状態をカジュアルに表現
-- **[occupied](/occupied)**：よりフォーマルに「占有されている」「使用中」を表現
+- **[occupied](/word/occupied)**：よりフォーマルに「占有されている」「使用中」を表現
 
 「taken」は日常会話でよく使われ、ややカジュアルな響きがありますが、「occupied」はビジネスや公式な場面で使われることが多いです。
 
@@ -105,14 +105,14 @@ The meeting room is taken at 2 p.m.
 
 ## 🧩 あわせて覚えたい
 
-- [available](/available)：利用可能な、空いている
-- [reserved](/reserved)：予約済みの
+- [available](/word/available)：利用可能な、空いている
+- [reserved](/word/reserved)：予約済みの
 
 ---
 
 ## 📖 できればこれも
 
-- [empty](/empty)：空の、誰もいない
-- [booked](/booked)：予約済みの
+- [empty](/word/empty)：空の、誰もいない
+- [booked](/word/booked)：予約済みの
 
 <!-- cvid: aid17_bid25 -->

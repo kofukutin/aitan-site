@@ -97,7 +97,7 @@ TOEICでは「郵送した」「送付した」という意味で、書類や手
 ## 🤔  sent との違いは？
 
 - **mailed**：郵便で送ることを強調した表現
-- **[sent](/sent)**：手段を問わず「送った」全般に使う
+- **[sent](/word/sent)**：手段を問わず「送った」全般に使う
 
 「mailed」は郵便を使った送付に限定されますが、「sent」はメールや宅配便など、あらゆる送付手段に使えます。
 
@@ -105,14 +105,14 @@ TOEICでは「郵送した」「送付した」という意味で、書類や手
 
 ## 🧩 あわせて覚えたい
 
-- [deliver](/deliver)：配達する、届ける
-- [ship](/ship)：（大型の荷物を）発送する
+- [deliver](/word/deliver)：配達する、届ける
+- [ship](/word/ship)：（大型の荷物を）発送する
 
 ---
 
 ## 📖 できればこれも
 
-- [attach](/attach)：添付する
-- [receive](/receive)：受け取る
+- [attach](/word/attach)：添付する
+- [receive](/word/receive)：受け取る
 
 <!-- cvid: aid45_bid35 -->

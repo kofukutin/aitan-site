@@ -97,7 +97,7 @@ TOEICでは、ホテルや会議、レストランの案内文やメニューな
 ## 🤔  drink との違いは？
 
 - **beverage**：フォーマルで水以外の飲み物全般を指す
-- **[drink](/drink)**：カジュアルで飲み物全般（水も含む）を指す
+- **[drink](/word/drink)**：カジュアルで飲み物全般（水も含む）を指す
 
 beverageはビジネスや案内文などフォーマルな場面で使われやすく、drinkは日常会話で幅広く使われます。
 
@@ -105,14 +105,14 @@ beverageはビジネスや案内文などフォーマルな場面で使われや
 
 ## 🧩 あわせて覚えたい
 
-- [refreshment](/refreshment)：軽食や飲み物
-- [meal](/meal)：食事
+- [refreshment](/word/refreshment)：軽食や飲み物
+- [meal](/word/meal)：食事
 
 ---
 
 ## 📖 できればこれも
 
-- [snack](/snack)：軽食、おやつ
-- [dessert](/dessert)：デザート、食後の甘いもの
+- [snack](/word/snack)：軽食、おやつ
+- [dessert](/word/dessert)：デザート、食後の甘いもの
 
 <!-- cvid: aid19_bid13 -->

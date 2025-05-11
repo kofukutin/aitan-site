@@ -97,7 +97,7 @@ TOEICでは会議や説明の場面で「混乱している」「分からない
 ## 🤔  puzzled との違いは？
 
 - **confused**：物事が分からず頭が混乱している状態
-- **[puzzled](/puzzled)**：何かが理解できず「首をかしげる」ような軽い困惑
+- **[puzzled](/word/puzzled)**：何かが理解できず「首をかしげる」ような軽い困惑
 
 confusedは全体的に頭がごちゃごちゃしている印象、puzzledは「なぜ？」と一時的に考え込むニュアンスです。
 
@@ -105,15 +105,15 @@ confusedは全体的に頭がごちゃごちゃしている印象、puzzledは�
 
 ## 🧩 あわせて覚えたい
 
-- [clear](/clear)：はっきりした、明確な
-- [uncertain](/uncertain)：不確かな、確信が持てない
+- [clear](/word/clear)：はっきりした、明確な
+- [uncertain](/word/uncertain)：不確かな、確信が持てない
 
 ---
 
 ## 📖 できればこれも
 
-- [concerned](/concerned)：心配している
-- [frustrated](/frustrated)：イライラした、欲求不満の
+- [concerned](/word/concerned)：心配している
+- [frustrated](/word/frustrated)：イライラした、欲求不満の
 
 
 <!-- cvid: aid25_bid03 -->

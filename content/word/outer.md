@@ -97,7 +97,7 @@ TOEICでは、物の位置や構造を説明する文脈で「outer」が選択�
 ## 🤔  external との違いは？
 
 - **outer**：物理的・空間的に「外側の」「外部の」
-- **[external](/external)**：よりフォーマルで「外部の」「外面的な」など抽象的な意味も含む
+- **[external](/word/external)**：よりフォーマルで「外部の」「外面的な」など抽象的な意味も含む
 
 「outer」は主に物の位置や層の外側を指し、日常的・具体的な場面で使われます。「external」は書類や組織など抽象的な「外部」にも使われ、よりフォーマルな響きがあります。
 
@@ -105,14 +105,14 @@ TOEICでは、物の位置や構造を説明する文脈で「outer」が選択�
 
 ## 🧩 あわせて覚えたい
 
-- [inner](/inner)：内側の
-- [outside](/outside)：外側、外部
+- [inner](/word/inner)：内側の
+- [outside](/word/outside)：外側、外部
 
 ---
 
 ## 📖 できればこれも
 
-- [upper](/upper)：上の、上部の
-- [lower](/lower)：下の、下部の
+- [upper](/word/upper)：上の、上部の
+- [lower](/word/lower)：下の、下部の
 
 <!-- cvid: aid22_bid03 -->

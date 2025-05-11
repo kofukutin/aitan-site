@@ -97,7 +97,7 @@ TOEICでは、法務や社会規範に関する長文や記事で見かけるこ
 ## 🤔  abnormal との違いは？
 
 - **deviant**：社会的な規範や道徳から逸脱している（否定的なニュアンスが強い）
-- **[abnormal](/abnormal)**：通常とは異なる、標準から外れている（必ずしも否定的ではない）
+- **[abnormal](/word/abnormal)**：通常とは異なる、標準から外れている（必ずしも否定的ではない）
 
 deviantは「社会的に許容されない逸脱」に重点があり、abnormalは単に「普通でない」ことを指します。
 
@@ -105,14 +105,14 @@ deviantは「社会的に許容されない逸脱」に重点があり、abnorma
 
 ## 🧩 あわせて覚えたい
 
-- [conventional](/conventional)：慣習的な、従来の
-- [eccentric](/eccentric)：風変わりな、常軌を逸した
+- [conventional](/word/conventional)：慣習的な、従来の
+- [eccentric](/word/eccentric)：風変わりな、常軌を逸した
 
 ---
 
 ## 📖 できればこれも
 
-- [deviate](/deviate)：逸脱する、外れる
-- [norm](/norm)：基準、規範
+- [deviate](/word/deviate)：逸脱する、外れる
+- [norm](/word/norm)：基準、規範
 
 <!-- cvid: aid00_bid43 -->

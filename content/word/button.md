@@ -97,7 +97,7 @@ TOEICでは、機械やパソコンの操作、衣服の説明などで「button
 ## 🤔  switch との違いは？
 
 - **button**：押して操作する小さな部品やアイコン
-- **[switch](/switch)**：切り替えたりオン・オフするためのスイッチ
+- **[switch](/word/switch)**：切り替えたりオン・オフするためのスイッチ
 
 buttonは「押す」動作に特化し、switchは「切り替える」動作やレバー型のものに使います。
 
@@ -105,14 +105,14 @@ buttonは「押す」動作に特化し、switchは「切り替える」動作�
 
 ## 🧩 あわせて覚えたい
 
-- [key](/key)：キー、押して入力するボタン
-- [icon](/icon)：アイコン、画面上の小さな絵や記号
+- [key](/word/key)：キー、押して入力するボタン
+- [icon](/word/icon)：アイコン、画面上の小さな絵や記号
 
 ---
 
 ## 📖 できればこれも
 
-- [screen](/screen)：画面
-- [panel](/panel)：パネル、操作盤
+- [screen](/word/screen)：画面
+- [panel](/word/panel)：パネル、操作盤
 
 <!-- cvid: aid07_bid00 -->

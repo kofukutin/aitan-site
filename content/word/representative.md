@@ -97,7 +97,7 @@ TOEICでは会社や団体の「代表者」「担当者」として頻出し、
 ## 🤔  delegate との違いは？
 
 - **representative**：組織や団体を代表する人、営業担当者など幅広い意味で使う
-- **[delegate](/delegate)**：特定の会議や任務のために選ばれた代表者
+- **[delegate](/word/delegate)**：特定の会議や任務のために選ばれた代表者
 
 representativeは一般的な「代表者」や「担当者」を指し、delegateは「会議や特定の目的のために派遣された代表者」というニュアンスです。
 
@@ -105,14 +105,14 @@ representativeは一般的な「代表者」や「担当者」を指し、delega
 
 ## 🧩 あわせて覚えたい
 
-- [agent](/agent)：代理人、仲介者
-- [spokesperson](/spokesperson)：広報担当者、スポークスマン
+- [agent](/word/agent)：代理人、仲介者
+- [spokesperson](/word/spokesperson)：広報担当者、スポークスマン
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/client)：顧客、取引先
-- [manager](/manager)：管理者、マネージャー
+- [client](/word/client)：顧客、取引先
+- [manager](/word/manager)：管理者、マネージャー
 
 <!-- cvid: aid26_bid26 -->

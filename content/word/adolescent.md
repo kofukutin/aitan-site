@@ -97,7 +97,7 @@ TOEICでは、教育や健康に関する長文記事やレポートで見かけ
 ## 🤔  teenager との違いは？
 
 - **adolescent**：思春期の若者（ややフォーマル、医学・教育分野で多用）
-- **[teenager](/teenager)**：13～19歳の若者（カジュアル、日常会話でよく使う）
+- **[teenager](/word/teenager)**：13～19歳の若者（カジュアル、日常会話でよく使う）
 
 adolescentは「成長途中」のニュアンスが強く、teenagerは年齢範囲を明確に指すカジュアルな表現です。
 
@@ -105,14 +105,14 @@ adolescentは「成長途中」のニュアンスが強く、teenagerは年齢�
 
 ## 🧩 あわせて覚えたい
 
-- [minor](/minor)：未成年者
-- [youth](/youth)：若者、青年期
+- [minor](/word/minor)：未成年者
+- [youth](/word/youth)：若者、青年期
 
 ---
 
 ## 📖 できればこれも
 
-- [adult](/adult)：大人
-- [child](/child)：子ども
+- [adult](/word/adult)：大人
+- [child](/word/child)：子ども
 
 <!-- cvid: aid14_bid27 -->

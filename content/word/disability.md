@@ -97,7 +97,7 @@ TOEICでは、雇用や福祉、ダイバーシティに関する長文や案内
 ## 🤔  disorder との違いは？
 
 - **disability**：身体や精神の「機能的な障害」や「能力の制限」を指す、社会的・法的な文脈で使われることが多い。
-- **[disorder](/disorder)**：医学的に「病気」「障害（疾患）」を指し、症状や診断名として使われる。
+- **[disorder](/word/disorder)**：医学的に「病気」「障害（疾患）」を指し、症状や診断名として使われる。
 
 disabilityは社会生活や日常動作の制限に焦点があり、disorderは医学的な異常や病名に焦点があります。
 
@@ -105,14 +105,14 @@ disabilityは社会生活や日常動作の制限に焦点があり、disorder�
 
 ## 🧩 あわせて覚えたい
 
-- [impairment](/impairment)：機能障害、損傷
-- [handicap](/handicap)：（古い表現）不利な条件、障害
+- [impairment](/word/impairment)：機能障害、損傷
+- [handicap](/word/handicap)：（古い表現）不利な条件、障害
 
 ---
 
 ## 📖 できればこれも
 
-- [injury](/injury)：けが、負傷
-- [illness](/illness)：病気
+- [injury](/word/injury)：けが、負傷
+- [illness](/word/illness)：病気
 
 <!-- cvid: aid00_bid10 -->

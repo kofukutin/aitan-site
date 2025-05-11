@@ -94,7 +94,7 @@ TOEICでは、説明文やメール文などで「程度」をやんわり伝え
 ## 🤔  slightly との違いは？
 
 - **somewhat**：やや、いくぶん（控えめで主観的なニュアンス）
-- **[slightly](/slightly)**：わずかに、ごく少し（客観的で数量的なニュアンス）
+- **[slightly](/word/slightly)**：わずかに、ごく少し（客観的で数量的なニュアンス）
 
 somewhatは「気持ち的に少し」という主観的な印象を与え、slightlyは「ほんのわずか」という客観的な度合いを表します。
 
@@ -102,14 +102,14 @@ somewhatは「気持ち的に少し」という主観的な印象を与え、sli
 
 ## 🧩 あわせて覚えたい
 
-- [rather](/rather)：かなり、むしろ
-- [fairly](/fairly)：まあまあ、かなり
+- [rather](/word/rather)：かなり、むしろ
+- [fairly](/word/fairly)：まあまあ、かなり
 
 ---
 
 ## 📖 できればこれも
 
-- [quite](/quite)：かなり、全く
-- [almost](/almost)：ほとんど、もう少しで
+- [quite](/word/quite)：かなり、全く
+- [almost](/word/almost)：ほとんど、もう少しで
 
 <!-- cvid: aid01_bid21 -->

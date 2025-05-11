@@ -97,7 +97,7 @@ TOEICでは、メールや通知文、報告書などで「informed decision」�
 ## 🤔  knowledgeable との違いは？
 
 - **informed**：十分な情報を得て判断・行動している状態
-- **[knowledgeable](/knowledgeable)**：知識が豊富で物事に詳しい状態
+- **[knowledgeable](/word/knowledgeable)**：知識が豊富で物事に詳しい状態
 
 「informed」は情報を得て判断する場面で使い、「knowledgeable」は知識そのものが豊富な人や状態に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、メールや通知文、報告書などで「informed decision」�
 
 ## 🧩 あわせて覚えたい
 
-- [ignorant](/ignorant)：無知な、知らない
-- [aware](/aware)：気づいている、認識している
+- [ignorant](/word/ignorant)：無知な、知らない
+- [aware](/word/aware)：気づいている、認識している
 
 ---
 
 ## 📖 できればこれも
 
-- [relevant](/relevant)：関連がある
-- [accurate](/accurate)：正確な
+- [relevant](/word/relevant)：関連がある
+- [accurate](/word/accurate)：正確な
 
 <!-- cvid: aid23_bid02 -->

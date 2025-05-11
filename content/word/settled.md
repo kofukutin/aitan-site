@@ -97,7 +97,7 @@ TOEICでは「問題が解決した」「状況が安定した」などの意味
 ## 🤔  stable との違いは？
 
 - **settled**：物事や状況が「落ち着いている」「解決している」状態を表す。
-- **[stable](/stable)**：変化が少なく「安定している」状態を表す。
+- **[stable](/word/stable)**：変化が少なく「安定している」状態を表す。
 
 「settled」は問題や気持ちが落ち着いた時にも使い、「stable」は物理的・経済的な安定に使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは「問題が解決した」「状況が安定した」などの意味
 
 ## 🧩 あわせて覚えたい
 
-- [resolved](/resolved)：解決した
-- [permanent](/permanent)：永久的な
+- [resolved](/word/resolved)：解決した
+- [permanent](/word/permanent)：永久的な
 
 ---
 
 ## 📖 できればこれも
 
-- [confirmed](/confirmed)：確認された
-- [final](/final)：最終的な
+- [confirmed](/word/confirmed)：確認された
+- [final](/word/final)：最終的な
 
 <!-- cvid: aid11_bid42 -->

@@ -97,7 +97,7 @@ TOEICでは、会話や施設の案内、観光に関するリスニング問題
 ## 🤔  theater との違いは？
 
 - **cinema**：映画館、映画（主にイギリス英語）
-- **[theater](/theater)**：劇場、映画館（アメリカ英語では映画館の意味も）
+- **[theater](/word/theater)**：劇場、映画館（アメリカ英語では映画館の意味も）
 
 「cinema」はイギリス英語で映画館を指し、「theater」はアメリカ英語で映画館や劇場を指します。イギリスでは「theater」は主に舞台劇の劇場を意味します。
 
@@ -105,14 +105,14 @@ TOEICでは、会話や施設の案内、観光に関するリスニング問題
 
 ## 🧩 あわせて覚えたい
 
-- [movie](/movie)：映画
-- [film](/film)：映画（特に作品としての映画）
+- [movie](/word/movie)：映画
+- [film](/word/film)：映画（特に作品としての映画）
 
 ---
 
 ## 📖 できればこれも
 
-- [museum](/museum)：博物館
-- [gallery](/gallery)：美術館
+- [museum](/word/museum)：博物館
+- [gallery](/word/gallery)：美術館
 
 <!-- cvid: aid03_bid28 -->

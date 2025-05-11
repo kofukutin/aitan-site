@@ -97,7 +97,7 @@ TOEICでは、名詞として「考え」「意見」などの意味で文中に
 ## 🤔  idea との違いは？
 
 - **thought**：頭の中で考えたこと全般や思考の流れを指す
-- **[idea](/idea)**：新しい発想や具体的なアイデア、提案を指す
+- **[idea](/word/idea)**：新しい発想や具体的なアイデア、提案を指す
 
 thoughtは漠然とした「考え」や「思考」を広く表し、ideaは「ひらめき」や「具体的な提案」に使われます。
 
@@ -105,14 +105,14 @@ thoughtは漠然とした「考え」や「思考」を広く表し、ideaは「
 
 ## 🧩 あわせて覚えたい
 
-- [opinion](/opinion)：意見、見解
-- [consideration](/consideration)：考慮、熟慮
+- [opinion](/word/opinion)：意見、見解
+- [consideration](/word/consideration)：考慮、熟慮
 
 ---
 
 ## 📖 できればこれも
 
-- [mind](/mind)：心、精神
-- [plan](/plan)：計画
+- [mind](/word/mind)：心、精神
+- [plan](/word/plan)：計画
 
 <!-- cvid: aid16_bid13 -->

@@ -97,7 +97,7 @@ TOEICでは、政治や組織運営に関する記事やメール文で「democr
 ## 🤔  republican との違いは？
 
 - **democratic**：民主主義の、みんなの意見を重視する
-- **[republican](/republican)**：共和制の、またはアメリカの共和党の
+- **[republican](/word/republican)**：共和制の、またはアメリカの共和党の
 
 「democratic」は民主主義や平等を重視するニュアンスがあり、「republican」は共和制や特定の政党（アメリカの共和党）を指す場合が多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、政治や組織運営に関する記事やメール文で「democr
 
 ## 🧩 あわせて覚えたい
 
-- [authoritarian](/authoritarian)：権威主義的な
-- [liberal](/liberal)：自由主義の
+- [authoritarian](/word/authoritarian)：権威主義的な
+- [liberal](/word/liberal)：自由主義の
 
 ---
 
 ## 📖 できればこれも
 
-- [political](/political)：政治の
-- [constitutional](/constitutional)：憲法の、合憲の
+- [political](/word/political)：政治の
+- [constitutional](/word/constitutional)：憲法の、合憲の
 
 <!-- cvid: aid42_bid45 -->

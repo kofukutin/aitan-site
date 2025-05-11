@@ -97,7 +97,7 @@ TOEICでは「be familiar with ～（～に精通している）」の形で頻�
 ## 🤔  accustomed との違いは？
 
 - **familiar**：よく知っていて親しみがある、なじみがある
-- **[accustomed](/accustomed)**：慣れている、習慣になっている
+- **[accustomed](/word/accustomed)**：慣れている、習慣になっている
 
 **familiar**は「知識や経験があって親しみがある」こと、**accustomed**は「繰り返し経験して慣れている」ことを表します。
 
@@ -105,14 +105,14 @@ TOEICでは「be familiar with ～（～に精通している）」の形で頻�
 
 ## 🧩 あわせて覚えたい
 
-- [aware](/aware)：気づいている
-- [strange](/strange)：見慣れない、奇妙な
+- [aware](/word/aware)：気づいている
+- [strange](/word/strange)：見慣れない、奇妙な
 
 ---
 
 ## 📖 できればこれも
 
-- [typical](/typical)：典型的な
-- [common](/common)：一般的な
+- [typical](/word/typical)：典型的な
+- [common](/word/common)：一般的な
 
 <!-- cvid: aid14_bid43 -->

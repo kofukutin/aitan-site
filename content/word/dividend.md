@@ -97,7 +97,7 @@ TOEICでは主にビジネスや金融関連の長文で登場し、株主向け
 ## 🤔  interest との違いは？
 
 - **dividend**：会社の利益から株主に分配される配当金
-- **[interest](/interest)**：預金や貸付金などに対して支払われる利息
+- **[interest](/word/interest)**：預金や貸付金などに対して支払われる利息
 
 dividendは株式投資のリターン、interestは預金や債券などの利息で、発生源や対象が異なります。
 
@@ -105,14 +105,14 @@ dividendは株式投資のリターン、interestは預金や債券などの利�
 
 ## 🧩 あわせて覚えたい
 
-- [profit](/profit)：利益
-- [bonus](/bonus)：賞与、ボーナス
+- [profit](/word/profit)：利益
+- [bonus](/word/bonus)：賞与、ボーナス
 
 ---
 
 ## 📖 できればこれも
 
-- [revenue](/revenue)：収益
-- [expense](/expense)：費用
+- [revenue](/word/revenue)：収益
+- [expense](/word/expense)：費用
 
 <!-- cvid: aid18_bid44 -->

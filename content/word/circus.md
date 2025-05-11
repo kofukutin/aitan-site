@@ -96,7 +96,7 @@ TOEICでは観光やイベント紹介の記事、広告文などで登場する
 ## 🤔  carnival との違いは？
 
 - **circus**：動物や曲芸師などによる移動式のショーや団体。
-- **[carnival](/carnival)**：パレードや仮装などを含む大規模な祭り。
+- **[carnival](/word/carnival)**：パレードや仮装などを含む大規模な祭り。
 
 circusは主にショーや公演を指し、carnivalは地域全体で行うお祭りや祝祭を指します。
 
@@ -104,14 +104,14 @@ circusは主にショーや公演を指し、carnivalは地域全体で行うお
 
 ## 🧩 あわせて覚えたい
 
-- [parade](/parade)：パレード、行進
-- [performance](/performance)：公演、演技
+- [parade](/word/parade)：パレード、行進
+- [performance](/word/performance)：公演、演技
 
 ---
 
 ## 📖 できればこれも
 
-- [theater](/theater)：劇場、演劇
-- [festival](/festival)：祭り、フェスティバル
+- [theater](/word/theater)：劇場、演劇
+- [festival](/word/festival)：祭り、フェスティバル
 
 <!-- cvid: aid48_bid00 -->

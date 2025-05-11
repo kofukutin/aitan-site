@@ -97,7 +97,7 @@ TOEICではニュース記事やビジネス文書などで「被害者」「犠
 ## 🤔  sufferer との違いは？
 
 - **victim**：事故や犯罪などで被害を受けた人や動物を指す。
-- **[sufferer](/sufferer)**：病気や困難などで苦しんでいる人を指す。
+- **[sufferer](/word/sufferer)**：病気や困難などで苦しんでいる人を指す。
 
 victimは「事件や事故の被害者」、suffererは「病気や苦しみを経験している人」と、原因や状況に違いがあります。
 
@@ -105,14 +105,14 @@ victimは「事件や事故の被害者」、suffererは「病気や苦しみを
 
 ## 🧩 あわせて覚えたい
 
-- [culprit](/culprit)：加害者、犯人
-- [survivor](/survivor)：生存者、サバイバー
+- [culprit](/word/culprit)：加害者、犯人
+- [survivor](/word/survivor)：生存者、サバイバー
 
 ---
 
 ## 📖 できればこれも
 
-- [witness](/witness)：目撃者、証人
-- [incident](/incident)：出来事、事件
+- [witness](/word/witness)：目撃者、証人
+- [incident](/word/incident)：出来事、事件
 
 <!-- cvid: aid24_bid35 -->

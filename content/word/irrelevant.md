@@ -97,7 +97,7 @@ TOEICでは、主に文脈判断や語彙選択問題で「relevant」と対比�
 ## 🤔  unrelated との違いは？
 
 - **irrelevant**：今の話題や目的に関係がなく、重要でないことを強調する
-- **[unrelated](/unrelated)**：物理的・論理的なつながりが全くないことを表す
+- **[unrelated](/word/unrelated)**：物理的・論理的なつながりが全くないことを表す
 
 irrelevantは「今の状況にとって重要でない」ニュアンスがあり、unrelatedは「全く関係がない」ことを客観的に示します。
 
@@ -105,14 +105,14 @@ irrelevantは「今の状況にとって重要でない」ニュアンスがあ�
 
 ## 🧩 あわせて覚えたい
 
-- [pertinent](/pertinent)：関連する、適切な
-- [applicable](/applicable)：適用できる、当てはまる
+- [pertinent](/word/pertinent)：関連する、適切な
+- [applicable](/word/applicable)：適用できる、当てはまる
 
 ---
 
 ## 📖 できればこれも
 
-- [relevant](/relevant)：関連のある、重要な
-- [essential](/essential)：不可欠な、非常に重要な
+- [relevant](/word/relevant)：関連のある、重要な
+- [essential](/word/essential)：不可欠な、非常に重要な
 
 <!-- cvid: aid26_bid28 -->

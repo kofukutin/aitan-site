@@ -97,7 +97,7 @@ robustはビジネス文脈やIT関連の文章で形容詞として出題され
 ## 🤔  strong との違いは？
 
 - **robust**：物やシステムが「壊れにくく、安定している」ことを強調。特にビジネスや技術分野で使われる。
-- **[strong](/strong)**：一般的に「強い」「力がある」こと全般を指し、幅広い場面で使われる。
+- **[strong](/word/strong)**：一般的に「強い」「力がある」こと全般を指し、幅広い場面で使われる。
 
 robustは「耐久性・信頼性」に重点があり、strongは「力や強さ」そのものを幅広く表します。
 
@@ -105,14 +105,14 @@ robustは「耐久性・信頼性」に重点があり、strongは「力や強�
 
 ## 🧩 あわせて覚えたい
 
-- [sturdy](/sturdy)：頑丈な、しっかりした
-- [fragile](/fragile)：壊れやすい、もろい
+- [sturdy](/word/sturdy)：頑丈な、しっかりした
+- [fragile](/word/fragile)：壊れやすい、もろい
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/efficient)：効率的な
-- [reliable](/reliable)：信頼できる
+- [efficient](/word/efficient)：効率的な
+- [reliable](/word/reliable)：信頼できる
 
 <!-- cvid: aid27_bid43 -->

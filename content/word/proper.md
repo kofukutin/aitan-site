@@ -98,7 +98,7 @@ TOEICでは「proper」は書類や手続き、服装などの「適切さ」を
 ## 🤔  appropriate との違いは？
 
 - **proper**：状況や基準に合った「正式」「礼儀正しい」ニュアンスが強い
-- **[appropriate](/appropriate)**：状況に「ふさわしい」「適切」だが、必ずしもフォーマルとは限らない
+- **[appropriate](/word/appropriate)**：状況に「ふさわしい」「適切」だが、必ずしもフォーマルとは限らない
 
 「proper」はフォーマルさや正しさを強調し、「appropriate」は広く「ふさわしい」ことを表します。
 
@@ -106,14 +106,14 @@ TOEICでは「proper」は書類や手続き、服装などの「適切さ」を
 
 ## 🧩 あわせて覚えたい
 
-- [suitable](/suitable)：適している、ふさわしい
-- [correct](/correct)：正しい、間違いのない
+- [suitable](/word/suitable)：適している、ふさわしい
+- [correct](/word/correct)：正しい、間違いのない
 
 ---
 
 ## 📖 できればこれも
 
-- [formal](/formal)：正式な、フォーマルな
-- [suitable](/suitable)：適した、ふさわしい
+- [formal](/word/formal)：正式な、フォーマルな
+- [suitable](/word/suitable)：適した、ふさわしい
 
 <!-- cvid: aid20_bid16 -->

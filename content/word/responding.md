@@ -97,7 +97,7 @@ TOEICでは主に会話やメールのやりとりで「返答する」「応答
 ## 🤔  reply との違いは？
 
 - **responding**：ややフォーマルで、状況や要望など幅広い「応答」に使う
-- **[reply](/reply)**：主に「返事をする」「返信する」など、口頭やメールでの返答に使う
+- **[reply](/word/reply)**：主に「返事をする」「返信する」など、口頭やメールでの返答に使う
 
 「responding」は状況や要望への反応全般に使え、ややフォーマルな響きがありますが、「reply」は特にメールや会話での返事に使われるカジュアルな表現です。
 
@@ -105,14 +105,14 @@ TOEICでは主に会話やメールのやりとりで「返答する」「応答
 
 ## 🧩 あわせて覚えたい
 
-- [react](/react)：反応する
-- [ignore](/ignore)：無視する
+- [react](/word/react)：反応する
+- [ignore](/word/ignore)：無視する
 
 ---
 
 ## 📖 できればこれも
 
-- [request](/request)：依頼する、要請
-- [confirm](/confirm)：確認する
+- [request](/word/request)：依頼する、要請
+- [confirm](/word/confirm)：確認する
 
 <!-- cvid: aid05_bid33 -->

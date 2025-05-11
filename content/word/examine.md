@@ -97,7 +97,7 @@ TOEICでは「調査する」「検査する」という意味で、契約書や
 ## 🤔  inspect との違いは？
 
 - **examine**：詳細に調べたり、分析したりすることに重点がある
-- **[inspect](/inspect)**：主に外観や状態を点検・検査することに重点がある
+- **[inspect](/word/inspect)**：主に外観や状態を点検・検査することに重点がある
 
 examineは「中身や内容まで詳しく調べる」ニュアンスがあり、inspectは「外観や基準に合っているかを点検する」場面で使われます。
 
@@ -105,14 +105,14 @@ examineは「中身や内容まで詳しく調べる」ニュアンスがあり�
 
 ## 🧩 あわせて覚えたい
 
-- [analyze](/analyze)：分析する
-- [review](/review)：見直す、再検討する
+- [analyze](/word/analyze)：分析する
+- [review](/word/review)：見直す、再検討する
 
 ---
 
 ## 📖 できればこれも
 
-- [investigate](/investigate)：（徹底的に）調査する
-- [assess](/assess)：評価する
+- [investigate](/word/investigate)：（徹底的に）調査する
+- [assess](/word/assess)：評価する
 
 <!-- cvid: aid00_bid41 -->

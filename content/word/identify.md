@@ -97,7 +97,7 @@ TOEICでは主にPart 5やPart 6で「特定する」「識別する」という
 ## 🤔  recognize との違いは？
 
 - **identify**：誰・何であるかをはっきり特定する、識別する
-- **[recognize](/recognize)**：見て知っていると気づく、見覚えがあると認識する
+- **[recognize](/word/recognize)**：見て知っていると気づく、見覚えがあると認識する
 
 「identify」は「正確に特定する」ニュアンスが強く、公式・客観的な場面で使われます。「recognize」は「見て知っていると気づく」など、より主観的・カジュアルな場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 5やPart 6で「特定する」「識別する」という
 
 ## 🧩 あわせて覚えたい
 
-- [verify](/verify)：（正しいかどうか）検証する
-- [distinguish](/distinguish)：区別する、見分ける
+- [verify](/word/verify)：（正しいかどうか）検証する
+- [distinguish](/word/distinguish)：区別する、見分ける
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/confirm)：確認する
-- [determine](/determine)：決定する、特定する
+- [confirm](/word/confirm)：確認する
+- [determine](/word/determine)：決定する、特定する
 
 <!-- cvid: aid03_bid29 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「女の子が～している」など
 ## 🤔  woman との違いは？
 
 - **girl**：子どもや若い女性を指すカジュアルな表現
-- **[woman](/woman)**：大人の女性を指すフォーマルな表現
+- **[woman](/word/woman)**：大人の女性を指すフォーマルな表現
 
 girlは年齢が若い女性に使い、womanは成人女性に使います。場面や相手の年齢で使い分けましょう。
 
@@ -105,14 +105,14 @@ girlは年齢が若い女性に使い、womanは成人女性に使います。�
 
 ## 🧩 あわせて覚えたい
 
-- [boy](/boy)：男の子
-- [child](/child)：子ども
+- [boy](/word/boy)：男の子
+- [child](/word/child)：子ども
 
 ---
 
 ## 📖 できればこれも
 
-- [student](/student)：学生
-- [friend](/friend)：友達
+- [student](/word/student)：学生
+- [friend](/word/friend)：友達
 
 <!-- cvid: aid04_bid00 -->

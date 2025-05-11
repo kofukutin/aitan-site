@@ -97,7 +97,7 @@ prestigiousはTOEICの長文読解（Part 7）で、企業や大学、賞など�
 ## 🤔  renowned との違いは？
 
 - **prestigious**：社会的に高い評価や権威があることを強調
-- **[renowned](/renowned)**：広く知られている、評判が高いことを強調
+- **[renowned](/word/renowned)**：広く知られている、評判が高いことを強調
 
 prestigiousは「格式や権威」を、renownedは「有名さや評判」を主に表します。prestigiousの方がフォーマルで、組織や賞などに使われやすいです。
 
@@ -105,14 +105,14 @@ prestigiousは「格式や権威」を、renownedは「有名さや評判」を�
 
 ## 🧩 あわせて覚えたい
 
-- [distinguished](/distinguished)：傑出した、著名な
-- [notable](/notable)：注目に値する、著名な
+- [distinguished](/word/distinguished)：傑出した、著名な
+- [notable](/word/notable)：注目に値する、著名な
 
 ---
 
 ## 📖 できればこれも
 
-- [reputable](/reputable)：評判の良い
-- [influential](/influential)：影響力のある
+- [reputable](/word/reputable)：評判の良い
+- [influential](/word/influential)：影響力のある
 
 <!-- cvid: aid39_bid31 -->

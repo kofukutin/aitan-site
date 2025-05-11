@@ -97,7 +97,7 @@ TOEICでは、応募・入場・データ入力・リストの項目など、文
 ## 🤔  application との違いは？
 
 - **entry**：入場、参加、記入、リストの項目など幅広く使う
-- **[application](/application)**：申請、応募、アプリケーション（申込書やソフト）など「申し込む」意味が強い
+- **[application](/word/application)**：申請、応募、アプリケーション（申込書やソフト）など「申し込む」意味が強い
 
 entryは「入ること」や「記録されたもの」全般に使い、applicationは「申請・応募」など公式な申し込みに特化します。
 
@@ -105,14 +105,14 @@ entryは「入ること」や「記録されたもの」全般に使い、applic
 
 ## 🧩 あわせて覚えたい
 
-- [submission](/submission)：提出、提出物
-- [admission](/admission)：入場、入学、入会
+- [submission](/word/submission)：提出、提出物
+- [admission](/word/admission)：入場、入学、入会
 
 ---
 
 ## 📖 できればこれも
 
-- [form](/form)：用紙、書式
-- [register](/register)：登録する
+- [form](/word/form)：用紙、書式
+- [register](/word/register)：登録する
 
 <!-- cvid: aid28_bid05 -->

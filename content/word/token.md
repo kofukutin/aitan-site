@@ -97,7 +97,7 @@ ITやビジネスの文脈で、認証や証明、または「しるし」とし
 ## 🤔  voucher との違いは？
 
 - **token**：しるしや証拠、またはIT分野での認証用データなど幅広い意味で使う
-- **[voucher](/voucher)**：金券や引換券など、特定の価値やサービスと交換できる証明書
+- **[voucher](/word/voucher)**：金券や引換券など、特定の価値やサービスと交換できる証明書
 
 tokenは象徴的な「しるし」やITの認証など幅広く使われ、voucherは主に金銭的価値やサービスと交換できる「引換券」に限定されます。
 
@@ -105,14 +105,14 @@ tokenは象徴的な「しるし」やITの認証など幅広く使われ、vouc
 
 ## 🧩 あわせて覚えたい
 
-- [certificate](/certificate)：証明書
-- [coin](/coin)：硬貨
+- [certificate](/word/certificate)：証明書
+- [coin](/word/coin)：硬貨
 
 ---
 
 ## 📖 できればこれも
 
-- [code](/code)：コード、暗号
-- [pass](/pass)：通行証、入場券
+- [code](/word/code)：コード、暗号
+- [pass](/word/pass)：通行証、入場券
 
 <!-- cvid: aid35_bid40 -->

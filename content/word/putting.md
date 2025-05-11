@@ -97,7 +97,7 @@ TOEIC Part 1の写真描写問題で「物を置く」「何かを入れる」�
 ## 🤔  placing との違いは？
 
 - **putting**：物を単純に置く・入れる動作を幅広く表す
-- **[placing](/placing)**：丁寧に、または特定の位置に意識して置くニュアンス
+- **[placing](/word/placing)**：丁寧に、または特定の位置に意識して置くニュアンス
 
 puttingは一般的な「置く」動作全般に使われ、placingは「位置や配置」に注意を払って置く場合に使われます。
 
@@ -105,14 +105,14 @@ puttingは一般的な「置く」動作全般に使われ、placingは「位置
 
 ## 🧩 あわせて覚えたい
 
-- [remove](/remove)：取り除く、外す
-- [set](/set)：（物を）置く、準備する
+- [remove](/word/remove)：取り除く、外す
+- [set](/word/set)：（物を）置く、準備する
 
 ---
 
 ## 📖 できればこれも
 
-- [take](/take)：取る、持っていく
-- [bring](/bring)：持ってくる
+- [take](/word/take)：取る、持っていく
+- [bring](/word/bring)：持ってくる
 
 <!-- cvid: aid10_bid09 -->

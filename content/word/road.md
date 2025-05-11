@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「道路」や「道」に関する場
 ## 🤔  street との違いは？
 
 - **road**：都市・田舎を問わず広い範囲の「道路」を指す。
-- **[street](/street)**：主に都市部の建物に挟まれた「通り」を指す。
+- **[street](/word/street)**：主に都市部の建物に挟まれた「通り」を指す。
 
 roadは一般的な「道」全般を指し、streetは建物が並ぶ都市の「通り」に限定されることが多いです。
 
@@ -105,14 +105,14 @@ roadは一般的な「道」全般を指し、streetは建物が並ぶ都市の�
 
 ## 🧩 あわせて覚えたい
 
-- [highway](/highway)：高速道路
-- [route](/route)：経路、道筋
+- [highway](/word/highway)：高速道路
+- [route](/word/route)：経路、道筋
 
 ---
 
 ## 📖 できればこれも
 
-- [bridge](/bridge)：橋
-- [path](/path)：小道、細い道
+- [bridge](/word/bridge)：橋
+- [path](/word/path)：小道、細い道
 
 <!-- cvid: aid05_bid49 -->

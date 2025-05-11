@@ -97,7 +97,7 @@ TOEICの長文読解パートで、可能性やリスク、将来性について
 ## 🤔  possibly との違いは？
 
 - **potentially**：何かが起こる「可能性」や「潜在的な力」を強調
-- **[possibly](/possibly)**：起こる「かもしれない」という不確実性を表現
+- **[possibly](/word/possibly)**：起こる「かもしれない」という不確実性を表現
 
 「potentially」は「起こる力や可能性がある」ことに焦点を当て、「possibly」は単に「起こるかもしれない」という不確実さを表します。
 
@@ -105,14 +105,14 @@ TOEICの長文読解パートで、可能性やリスク、将来性について
 
 ## 🧩 あわせて覚えたい
 
-- [likely](/likely)：ありそうな、起こりそうな
-- [eventually](/eventually)：最終的に、やがて
+- [likely](/word/likely)：ありそうな、起こりそうな
+- [eventually](/word/eventually)：最終的に、やがて
 
 ---
 
 ## 📖 できればこれも
 
-- [significantly](/significantly)：著しく、かなり
-- [effectively](/effectively)：効果的に、事実上
+- [significantly](/word/significantly)：著しく、かなり
+- [effectively](/word/effectively)：効果的に、事実上
 
 <!-- cvid: aid29_bid01 -->

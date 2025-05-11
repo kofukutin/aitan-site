@@ -97,7 +97,7 @@ TOEICでは、受動態や過去分詞として「be awarded」などの形で�
 ## 🤔  granted との違いは？
 
 - **awarded**：選考や評価の結果として公式に「授与された」
-- **[granted](/granted)**：申請や要求に対して「許可・承認された」
+- **[granted](/word/granted)**：申請や要求に対して「許可・承認された」
 
 awardedは「賞や契約などを与える」フォーマルな場面で使い、grantedは「権利や許可を与える」場合に使われます。
 
@@ -105,14 +105,14 @@ awardedは「賞や契約などを与える」フォーマルな場面で使い�
 
 ## 🧩 あわせて覚えたい
 
-- [receive](/receive)：受け取る
-- [honor](/honor)：名誉、栄誉
+- [receive](/word/receive)：受け取る
+- [honor](/word/honor)：名誉、栄誉
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/present)：贈る、授与する
-- [nominate](/nominate)：推薦する、指名する
+- [present](/word/present)：贈る、授与する
+- [nominate](/word/nominate)：推薦する、指名する
 
 <!-- cvid: aid12_bid49 -->

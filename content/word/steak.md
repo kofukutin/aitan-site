@@ -96,7 +96,7 @@ TOEICでは主にPart 1の写真描写で、レストランや食事の場面で
 ## 🤔  beef との違いは？
 
 - **steak**：厚切りの肉（主に牛肉）を焼いた料理やその切り身
-- **[beef](/beef)**：牛肉全般や牛肉の素材
+- **[beef](/word/beef)**：牛肉全般や牛肉の素材
 
 steakは調理法や形状に焦点があり、beefは肉そのものを指します。
 
@@ -104,14 +104,14 @@ steakは調理法や形状に焦点があり、beefは肉そのものを指し�
 
 ## 🧩 あわせて覚えたい
 
-- [chicken](/chicken)：鶏肉、チキン
-- [fish](/fish)：魚、魚料理
+- [chicken](/word/chicken)：鶏肉、チキン
+- [fish](/word/fish)：魚、魚料理
 
 ---
 
 ## 📖 できればこれも
 
-- [salad](/salad)：サラダ
-- [soup](/soup)：スープ
+- [salad](/word/salad)：サラダ
+- [soup](/word/soup)：スープ
 
 <!-- cvid: aid24_bid06 -->

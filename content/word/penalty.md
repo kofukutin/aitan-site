@@ -97,7 +97,7 @@ TOEICでは契約書や規則、ビジネス文書の中で「罰則」「違約
 ## 🤔  punishment との違いは？
 
 - **penalty**：規則や契約違反などに対する公式な罰や罰金
-- **[punishment](/punishment)**：広く「罰」を指し、日常的な体罰や懲罰も含む
+- **[punishment](/word/punishment)**：広く「罰」を指し、日常的な体罰や懲罰も含む
 
 penaltyは「ルール違反に対する公式な罰」、punishmentは「広い意味での罰や懲罰」として使い分けます。
 
@@ -105,14 +105,14 @@ penaltyは「ルール違反に対する公式な罰」、punishmentは「広い
 
 ## 🧩 あわせて覚えたい
 
-- [fine](/fine)：罰金
-- [reward](/reward)：報酬、ご褒美
+- [fine](/word/fine)：罰金
+- [reward](/word/reward)：報酬、ご褒美
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/contract)：契約
-- [regulation](/regulation)：規則
+- [contract](/word/contract)：契約
+- [regulation](/word/regulation)：規則
 
 <!-- cvid: aid19_bid17 -->

@@ -97,7 +97,7 @@ TOEICでは会話や指示の中で「確認する」「調べる」という意
 ## 🤔  confirm との違いは？
 
 - **check**：ざっと調べたり、間違いがないか確認する
-- **[confirm](/confirm)**：事実や予定などを「確定」する、正式に認める
+- **[confirm](/word/confirm)**：事実や予定などを「確定」する、正式に認める
 
 checkは「調べる・確認する」ときに広く使い、confirmは「確実に正しいと認める」ときに使います。
 
@@ -105,14 +105,14 @@ checkは「調べる・確認する」ときに広く使い、confirmは「確�
 
 ## 🧩 あわせて覚えたい
 
-- [inspect](/inspect)：詳しく調査する
-- [review](/review)：見直す、再検討する
+- [inspect](/word/inspect)：詳しく調査する
+- [review](/word/review)：見直す、再検討する
 
 ---
 
 ## 📖 できればこれも
 
-- [verify](/verify)：正しいかどうか検証する
-- [examine](/examine)：詳しく調べる
+- [verify](/word/verify)：正しいかどうか検証する
+- [examine](/word/examine)：詳しく調べる
 
 <!-- cvid: aid45_bid37 -->

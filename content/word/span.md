@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や記事の中で「期間」や「範囲」を
 ## 🤔  duration との違いは？
 
 - **span**：始まりから終わりまでの「全体の長さ」や「範囲」を表す。ややカジュアルで幅広い意味。
-- **[duration](/duration)**：出来事や状態が「続いている間の長さ」に焦点を当てる。ややフォーマル。
+- **[duration](/word/duration)**：出来事や状態が「続いている間の長さ」に焦点を当てる。ややフォーマル。
 
 spanは「全体の幅」や「区間」を指し、durationは「継続時間」に特化して使われます。
 
@@ -105,14 +105,14 @@ spanは「全体の幅」や「区間」を指し、durationは「継続時間�
 
 ## 🧩 あわせて覚えたい
 
-- [period](/period)：期間、時期
-- [interval](/interval)：間隔、休止期間
+- [period](/word/period)：期間、時期
+- [interval](/word/interval)：間隔、休止期間
 
 ---
 
 ## 📖 できればこれも
 
-- [phase](/phase)：段階、局面
-- [scope](/scope)：範囲、視野
+- [phase](/word/phase)：段階、局面
+- [scope](/word/scope)：範囲、視野
 
 <!-- cvid: aid30_bid05 -->

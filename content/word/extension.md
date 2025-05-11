@@ -97,7 +97,7 @@ TOEICでは「延長」「内線番号」「拡張」など複数の意味で出
 ## 🤔  expansion との違いは？
 
 - **extension**：期間や範囲を「延長」する、または建物や機能の「拡張」、電話の「内線」など幅広い意味で使う
-- **[expansion](/expansion)**：規模やサイズを「拡大」することに特化して使う
+- **[expansion](/word/expansion)**：規模やサイズを「拡大」することに特化して使う
 
 extensionは「長さ・期間・機能の追加」など多用途ですが、expansionは「物理的・数量的な拡大」に限定されることが多いです。
 
@@ -105,14 +105,14 @@ extensionは「長さ・期間・機能の追加」など多用途ですが、ex
 
 ## 🧩 あわせて覚えたい
 
-- [prolongation](/prolongation)：（期間などの）延長
-- [attachment](/attachment)：添付ファイル、付属物
+- [prolongation](/word/prolongation)：（期間などの）延長
+- [attachment](/word/attachment)：添付ファイル、付属物
 
 ---
 
 ## 📖 できればこれも
 
-- [renewal](/renewal)：更新、再開
-- [duration](/duration)：継続期間
+- [renewal](/word/renewal)：更新、再開
+- [duration](/word/duration)：継続期間
 
 <!-- cvid: aid42_bid46 -->

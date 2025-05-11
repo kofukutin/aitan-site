@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、動物や自然の描写として登
 ## 🤔  serpent との違いは？
 
 - **snake**：一般的な「ヘビ」。日常会話や科学で使う普通の表現。
-- **[serpent](/serpent)**：文学的・宗教的な「大蛇」「ヘビ」。神話や物語で使われることが多い。
+- **[serpent](/word/serpent)**：文学的・宗教的な「大蛇」「ヘビ」。神話や物語で使われることが多い。
 
 snakeは現実の生き物としてのヘビ、serpentは神話や象徴的な存在としてのヘビに使われます。
 
@@ -105,14 +105,14 @@ snakeは現実の生き物としてのヘビ、serpentは神話や象徴的な�
 
 ## 🧩 あわせて覚えたい
 
-- [lizard](/lizard)：トカゲ
-- [worm](/worm)：ミミズ、虫
+- [lizard](/word/lizard)：トカゲ
+- [worm](/word/worm)：ミミズ、虫
 
 ---
 
 ## 📖 できればこれも
 
-- [frog](/frog)：カエル
-- [turtle](/turtle)：カメ
+- [frog](/word/frog)：カエル
+- [turtle](/word/turtle)：カメ
 
 <!-- cvid: aid09_bid07 -->

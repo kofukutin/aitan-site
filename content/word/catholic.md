@@ -97,7 +97,7 @@ TOEICでは主に長文読解で「普遍的な」「幅広い」という意味
 ## 🤔  universal との違いは？
 
 - **catholic**：偏りなく幅広い、普遍的な（特に好みや関心の広さを強調）
-- **[universal](/universal)**：全世界共通の、万人に当てはまる
+- **[universal](/word/universal)**：全世界共通の、万人に当てはまる
 
 catholicは「幅広さ」や「多様性」に重点があり、universalは「すべてに共通する」「例外がない」ことを強調します。
 
@@ -105,14 +105,14 @@ catholicは「幅広さ」や「多様性」に重点があり、universalは「
 
 ## 🧩 あわせて覚えたい
 
-- [general](/general)：一般的な、全体的な
-- [comprehensive](/comprehensive)：包括的な、広範囲にわたる
+- [general](/word/general)：一般的な、全体的な
+- [comprehensive](/word/comprehensive)：包括的な、広範囲にわたる
 
 ---
 
 ## 📖 できればこれも
 
-- [orthodox](/orthodox)：正統の、伝統的な
-- [liberal](/liberal)：自由主義の、寛大な
+- [orthodox](/word/orthodox)：正統の、伝統的な
+- [liberal](/word/liberal)：自由主義の、寛大な
 
 <!-- cvid: aid31_bid42 -->

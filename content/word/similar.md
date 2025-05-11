@@ -97,7 +97,7 @@ TOEICでは、形容詞の語彙問題や比較表現の文脈でよく出題さ
 ## 🤔  alike との違いは？
 
 - **similar**：形や性質が「似ている」ときに形容詞として名詞の前やbe動詞の後で使う
-- **[alike](/alike)**：主に補語（be動詞の後）で使い、「そっくり」「同様に」というニュアンスが強い
+- **[alike](/word/alike)**：主に補語（be動詞の後）で使い、「そっくり」「同様に」というニュアンスが強い
 
 「similar」は「A is similar to B」のように使い、部分的な類似を表します。「alike」は「A and B are alike」のように、全体的な類似やそっくりさを強調します。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞の語彙問題や比較表現の文脈でよく出題さ
 
 ## 🧩 あわせて覚えたい
 
-- [different](/different)：異なる、違う
-- [resemble](/resemble)：～に似ている（動詞）
+- [different](/word/different)：異なる、違う
+- [resemble](/word/resemble)：～に似ている（動詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [familiar](/familiar)：よく知っている、なじみのある
-- [common](/common)：共通の、よくある
+- [familiar](/word/familiar)：よく知っている、なじみのある
+- [common](/word/common)：共通の、よくある
 
 <!-- cvid: aid13_bid34 -->

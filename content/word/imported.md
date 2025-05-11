@@ -97,7 +97,7 @@ TOEICでは、importedは商品やサービスの説明文、広告、ビジネ�
 ## 🤔  foreign との違いは？
 
 - **imported**：他国から輸入された、海外から持ち込まれた
-- **[foreign](/foreign)**：外国の、外国に関する
+- **[foreign](/word/foreign)**：外国の、外国に関する
 
 「imported」は実際に海外から運ばれてきた物に使い、「foreign」は単に「外国の」という属性や出自を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、importedは商品やサービスの説明文、広告、ビジネ�
 
 ## 🧩 あわせて覚えたい
 
-- [domestic](/domestic)：国内の
-- [exported](/exported)：輸出された
+- [domestic](/word/domestic)：国内の
+- [exported](/word/exported)：輸出された
 
 ---
 
 ## 📖 できればこれも
 
-- [local](/local)：地元の、現地の
-- [international](/international)：国際的な
+- [local](/word/local)：地元の、現地の
+- [international](/word/international)：国際的な
 
 <!-- cvid: aid29_bid39 -->

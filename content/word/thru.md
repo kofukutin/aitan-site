@@ -93,7 +93,7 @@ TOEICでは正式な「through」が基本ですが、カジュアルな会話�
 ## 🤔  through との違いは？
 
 - **thru**：カジュアル・略式の綴り。看板や会話、非公式な文書で使う。
-- **[through](/through)**：正式な綴り。ビジネスや公式文書、TOEICではこちらが推奨。
+- **[through](/word/through)**：正式な綴り。ビジネスや公式文書、TOEICではこちらが推奨。
 
 「thru」は「through」と意味は同じですが、使う場面がカジュアル・略式に限られます。
 
@@ -101,14 +101,14 @@ TOEICでは正式な「through」が基本ですが、カジュアルな会話�
 
 ## 🧩 あわせて覚えたい
 
-- [across](/across)：横切って、～を渡って
-- [past](/past)：～を過ぎて、～のそばを通って
+- [across](/word/across)：横切って、～を渡って
+- [past](/word/past)：～を過ぎて、～のそばを通って
 
 ---
 
 ## 📖 できればこれも
 
-- [until](/until)：～まで（ずっと）
-- [during](/during)：～の間に
+- [until](/word/until)：～まで（ずっと）
+- [during](/word/during)：～の間に
 
 <!-- cvid: aid04_bid36 -->

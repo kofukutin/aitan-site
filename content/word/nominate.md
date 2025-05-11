@@ -97,7 +97,7 @@ TOEICでは、役職や賞の指名・推薦に関する文脈で出題される
 ## 🤔  appoint との違いは？
 
 - **nominate**：正式な候補者として推薦・指名する
-- **[appoint](/appoint)**：実際に役職などに任命・就任させる
+- **[appoint](/word/appoint)**：実際に役職などに任命・就任させる
 
 nominateは「候補として挙げる」段階、appointは「実際にその役職に就ける」段階で使い分けます。
 
@@ -105,14 +105,14 @@ nominateは「候補として挙げる」段階、appointは「実際にその�
 
 ## 🧩 あわせて覚えたい
 
-- [recommend](/recommend)：推薦する
-- [elect](/elect)：選挙で選ぶ
+- [recommend](/word/recommend)：推薦する
+- [elect](/word/elect)：選挙で選ぶ
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/approve)：承認する
-- [select](/select)：選ぶ
+- [approve](/word/approve)：承認する
+- [select](/word/select)：選ぶ
 
 <!-- cvid: aid26_bid49 -->

@@ -97,7 +97,7 @@ recoverはTOEICの会話パートで、体調やデータ、経済状況の回�
 ## 🤔  restore との違いは？
 
 - **recover**：失ったものや状態を「取り戻す」「回復する」
-- **[restore](/restore)**：元の状態に「戻す」「修復する」
+- **[restore](/word/restore)**：元の状態に「戻す」「修復する」
 
 recoverは自分や状況が自然に元に戻る場合にも使い、restoreは意図的に元の状態に戻す・修復するニュアンスが強いです。
 
@@ -105,14 +105,14 @@ recoverは自分や状況が自然に元に戻る場合にも使い、restoreは
 
 ## 🧩 あわせて覚えたい
 
-- [regain](/regain)：再び手に入れる、取り戻す
-- [repair](/repair)：修理する、直す
+- [regain](/word/regain)：再び手に入れる、取り戻す
+- [repair](/word/repair)：修理する、直す
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/improve)：改善する、良くする
-- [replace](/replace)：取り替える、交換する
+- [improve](/word/improve)：改善する、良くする
+- [replace](/word/replace)：取り替える、交換する
 
 <!-- cvid: aid46_bid23 -->

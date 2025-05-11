@@ -97,7 +97,7 @@ TOEICでは「試験」「検査」「テスト」などの意味で頻出しま
 ## 🤔  exam との違いは？
 
 - **test**：比較的短く、知識やスキルを確認するための「テスト」や「小テスト」。
-- **[exam](/exam)**：より正式で範囲が広い「試験」や「試験期間」を指すことが多い。
+- **[exam](/word/exam)**：より正式で範囲が広い「試験」や「試験期間」を指すことが多い。
 
 testは日常的な小テストやチェックに使われ、examは入試や期末試験など重要度の高い場面で使われます。
 
@@ -105,14 +105,14 @@ testは日常的な小テストやチェックに使われ、examは入試や期
 
 ## 🧩 あわせて覚えたい
 
-- [quiz](/quiz)：小テスト、クイズ
-- [assessment](/assessment)：評価、査定
+- [quiz](/word/quiz)：小テスト、クイズ
+- [assessment](/word/assessment)：評価、査定
 
 ---
 
 ## 📖 できればこれも
 
-- [score](/score)：得点、スコア
-- [result](/result)：結果
+- [score](/word/score)：得点、スコア
+- [result](/word/result)：結果
 
 <!-- cvid: aid14_bid04 -->

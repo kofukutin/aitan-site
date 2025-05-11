@@ -97,7 +97,7 @@ TOEICでは、企業の方針や報告書、倫理規定などの文脈で「tra
 ## 🤔  clarity との違いは？
 
 - **transparency**：隠しごとがなく、情報や過程が誰にでも見えること
-- **[clarity](/clarity)**：物事や説明が明確で、はっきりしていること
+- **[clarity](/word/clarity)**：物事や説明が明確で、はっきりしていること
 
 transparencyは「隠さない姿勢」、clarityは「分かりやすさ」に重点があります。たとえば会社の方針を公開するのはtransparency、内容が分かりやすいのはclarityです。
 
@@ -105,15 +105,15 @@ transparencyは「隠さない姿勢」、clarityは「分かりやすさ」に�
 
 ## 🧩 あわせて覚えたい
 
-- [opacity](/opacity)：不透明さ、曖昧さ
-- [disclosure](/disclosure)：開示、公開
+- [opacity](/word/opacity)：不透明さ、曖昧さ
+- [disclosure](/word/disclosure)：開示、公開
 
 ---
 
 ## 📖 できればこれも
 
-- [integrity](/integrity)：誠実さ、高潔さ
-- [accountability](/accountability)：説明責任
+- [integrity](/word/integrity)：誠実さ、高潔さ
+- [accountability](/word/accountability)：説明責任
 
 ---
 <!-- cvid: aid04_bid11 -->

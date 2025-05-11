@@ -104,7 +104,7 @@ TOEICでは会話や説明文で「～について」「約～」の意味で頻
 ## 🤔  around との違いは？
 
 - **about**：話題や内容、数量の「～について」「約～」を表す。
-- **[around](/around)**：物理的な「周囲」や「おおよそ」の意味で使う。
+- **[around](/word/around)**：物理的な「周囲」や「おおよそ」の意味で使う。
 
 aboutは話題や内容に焦点を当てるのに対し、aroundは位置や範囲、物理的な周囲を表すときに使います。
 
@@ -112,14 +112,14 @@ aboutは話題や内容に焦点を当てるのに対し、aroundは位置や範
 
 ## 🧩 あわせて覚えたい
 
-- [regarding](/regarding)：～に関して
-- [concerning](/concerning)：～に関して
+- [regarding](/word/regarding)：～に関して
+- [concerning](/word/concerning)：～に関して
 
 ---
 
 ## 📖 できればこれも
 
-- [above](/above)：～の上に
-- [after](/after)：～の後に
+- [above](/word/above)：～の上に
+- [after](/word/after)：～の後に
 ---
 <!-- cvid: aid32_bid10 -->

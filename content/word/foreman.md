@@ -96,7 +96,7 @@ The foreman will supervise the construction site today.
 ## 🤔  supervisor との違いは？
 
 - **foreman**：現場作業員を直接指導・監督する現場監督や班長
-- **[supervisor](/supervisor)**：現場に限らず幅広い分野で部下や作業を監督する人
+- **[supervisor](/word/supervisor)**：現場に限らず幅広い分野で部下や作業を監督する人
 
 foremanは主に工場や建設現場など「現場」での監督に限定されますが、supervisorはオフィスやサービス業など幅広い分野で使われます。
 
@@ -104,14 +104,14 @@ foremanは主に工場や建設現場など「現場」での監督に限定さ�
 
 ## 🧩 あわせて覚えたい
 
-- [manager](/manager)：管理職、部門長
-- [worker](/worker)：作業員、労働者
+- [manager](/word/manager)：管理職、部門長
+- [worker](/word/worker)：作業員、労働者
 
 ---
 
 ## 📖 できればこれも
 
-- [employee](/employee)：従業員
-- [leader](/leader)：リーダー、指導者
+- [employee](/word/employee)：従業員
+- [leader](/word/leader)：リーダー、指導者
 
 <!-- cvid: aid01_bid39 -->

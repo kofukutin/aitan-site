@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、部屋やオフィスの床に敷かれ
 ## 🤔  rug との違いは？
 
 - **carpet**：部屋全体や広い範囲に敷く厚手のじゅうたん
-- **[rug](/rug)**：部分的に敷く小さめの敷物
+- **[rug](/word/rug)**：部分的に敷く小さめの敷物
 
 carpetは床全体を覆う大きなじゅうたん、rugは部分的に使う小さな敷物を指します。
 
@@ -105,14 +105,14 @@ carpetは床全体を覆う大きなじゅうたん、rugは部分的に使う�
 
 ## 🧩 あわせて覚えたい
 
-- [floor](/floor)：床
-- [mat](/mat)：マット、小さな敷物
+- [floor](/word/floor)：床
+- [mat](/word/mat)：マット、小さな敷物
 
 ---
 
 ## 📖 できればこれも
 
-- [curtain](/curtain)：カーテン
-- [sofa](/sofa)：ソファ
+- [curtain](/word/curtain)：カーテン
+- [sofa](/word/sofa)：ソファ
 
 <!-- cvid: aid05_bid00 -->

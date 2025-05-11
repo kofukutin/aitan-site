@@ -97,7 +97,7 @@ ITやソフトウェア関連の長文やメール文で、製品の開発段階
 ## 🤔  prototype との違いは？
 
 - **beta**：正式リリース前のテスト用バージョン
-- **[prototype](/prototype)**：試作品・初期モデル
+- **[prototype](/word/prototype)**：試作品・初期モデル
 
 betaは実際にユーザーが試す段階の製品で、prototypeは開発初期の試作段階を指します。
 
@@ -105,14 +105,14 @@ betaは実際にユーザーが試す段階の製品で、prototypeは開発初�
 
 ## 🧩 あわせて覚えたい
 
-- [release](/release)：リリース、公開
-- [update](/update)：更新、アップデート
+- [release](/word/release)：リリース、公開
+- [update](/word/update)：更新、アップデート
 
 ---
 
 ## 📖 できればこれも
 
-- [version](/version)：バージョン、版
-- [feature](/feature)：機能、特徴
+- [version](/word/version)：バージョン、版
+- [feature](/word/feature)：機能、特徴
 
 <!-- cvid: aid29_bid22 -->

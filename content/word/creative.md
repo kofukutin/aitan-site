@@ -97,7 +97,7 @@ TOEICでは、広告やビジネスの場面で「creative ideas」「creative t
 ## 🤔  innovative との違いは？
 
 - **creative**：新しい発想や独自性を持ち、何かを生み出す力がある
-- **[innovative](/innovative)**：革新的で、既存のものを大きく変える新しさがある
+- **[innovative](/word/innovative)**：革新的で、既存のものを大きく変える新しさがある
 
 creativeは「独自の発想」や「創造力」に重点があり、innovativeは「革新性」や「従来にない変化」に焦点があります。
 
@@ -105,14 +105,14 @@ creativeは「独自の発想」や「創造力」に重点があり、innovativ
 
 ## 🧩 あわせて覚えたい
 
-- [imaginative](/imaginative)：想像力に富んだ
-- [original](/original)：独自の、独創的な
+- [imaginative](/word/imaginative)：想像力に富んだ
+- [original](/word/original)：独自の、独創的な
 
 ---
 
 ## 📖 できればこれも
 
-- [productive](/productive)：生産的な
-- [efficient](/efficient)：効率的な
+- [productive](/word/productive)：生産的な
+- [efficient](/word/efficient)：効率的な
 
 <!-- cvid: aid02_bid10 -->

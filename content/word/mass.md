@@ -97,7 +97,7 @@ TOEICでは科学的な説明や製品仕様、または「大勢」「大量」
 ## 🤔  weight との違いは？
 
 - **mass**：物体そのものの「質量」や「集団・多数」を指す
-- **[weight](/weight)**：重力による「重さ」を指す
+- **[weight](/word/weight)**：重力による「重さ」を指す
 
 massは物体の中身そのものの量や集まりを表し、weightは重力の影響を受けた「重さ」を表します。科学では明確に区別されます。
 
@@ -105,14 +105,14 @@ massは物体の中身そのものの量や集まりを表し、weightは重力�
 
 ## 🧩 あわせて覚えたい
 
-- [volume](/volume)：体積
-- [density](/density)：密度
+- [volume](/word/volume)：体積
+- [density](/word/density)：密度
 
 ---
 
 ## 📖 できればこれも
 
-- [amount](/amount)：量
-- [substance](/substance)：物質
+- [amount](/word/amount)：量
+- [substance](/word/substance)：物質
 
 <!-- cvid: aid48_bid06 -->

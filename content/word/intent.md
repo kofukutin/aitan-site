@@ -98,7 +98,7 @@ TOEICではPart 5の語彙問題や、契約書・ビジネス文書の中で「
 ## 🤔  purpose との違いは？
 
 - **intent**：強い意志や明確な意図を表し、ややフォーマルな響き。
-- **[purpose](/purpose)**：広く「目的」「理由」を表し、日常的にも使われる。
+- **[purpose](/word/purpose)**：広く「目的」「理由」を表し、日常的にも使われる。
 
 intentは「強い決意」や「明確な意図」を強調したいときに使い、purposeは一般的な「目的」や「理由」を表すときに使います。
 
@@ -106,14 +106,14 @@ intentは「強い決意」や「明確な意図」を強調したいときに�
 
 ## 🧩 あわせて覚えたい
 
-- [goal](/goal)：目標
-- [motivation](/motivation)：動機
+- [goal](/word/goal)：目標
+- [motivation](/word/motivation)：動機
 
 ---
 
 ## 📖 できればこれも
 
-- [objective](/objective)：目標、目的
-- [plan](/plan)：計画
+- [objective](/word/objective)：目標、目的
+- [plan](/word/plan)：計画
 
 <!-- cvid: aid32_bid09 -->

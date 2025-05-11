@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「物がどこに置かれているか
 ## 🤔  arrangement との違いは？
 
 - **placing**：物や人を特定の場所に「置くこと」や「配置」の行為自体を強調
-- **[arrangement](/arrangement)**：配置だけでなく、計画や準備など広い意味での「手配」「整頓」も含む
+- **[arrangement](/word/arrangement)**：配置だけでなく、計画や準備など広い意味での「手配」「整頓」も含む
 
 placingは「物理的に置くこと」に焦点があり、arrangementは「全体の整え方」や「準備」まで含む幅広い表現です。
 
@@ -105,14 +105,14 @@ placingは「物理的に置くこと」に焦点があり、arrangementは「�
 
 ## 🧩 あわせて覚えたい
 
-- [position](/position)：位置、立場
-- [order](/order)：順序、注文
+- [position](/word/position)：位置、立場
+- [order](/word/order)：順序、注文
 
 ---
 
 ## 📖 できればこれも
 
-- [location](/location)：場所、位置
-- [setting](/setting)：設定、環境
+- [location](/word/location)：場所、位置
+- [setting](/word/setting)：設定、環境
 
 <!-- cvid: aid41_bid27 -->

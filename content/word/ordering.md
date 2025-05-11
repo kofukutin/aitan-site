@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「注文」や「順序付け」の意味で出
 ## 🤔  arrangement との違いは？
 
 - **ordering**：物事を特定の順序に並べること、または注文する行為そのもの。
-- **[arrangement](/arrangement)**：配置や取り決め、準備など幅広い「整えること」。
+- **[arrangement](/word/arrangement)**：配置や取り決め、準備など幅広い「整えること」。
 
 orderingは「順序」や「注文」に焦点があり、arrangementは「配置」や「準備」など幅広い調整を指します。
 
@@ -105,14 +105,14 @@ orderingは「順序」や「注文」に焦点があり、arrangementは「配�
 
 ## 🧩 あわせて覚えたい
 
-- [sequence](/sequence)：連続、順序
-- [request](/request)：依頼、要請
+- [sequence](/word/sequence)：連続、順序
+- [request](/word/request)：依頼、要請
 
 ---
 
 ## 📖 できればこれも
 
-- [purchase](/purchase)：購入
-- [instruction](/instruction)：指示
+- [purchase](/word/purchase)：購入
+- [instruction](/word/instruction)：指示
 
 <!-- cvid: aid38_bid13 -->

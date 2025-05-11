@@ -97,7 +97,7 @@ TOEICでは「seem to ～」「It seems that ～」などの形で、推測や�
 ## 🤔  appear との違いは？
 
 - **seem**：主観的な印象や感じ方を表す
-- **[appear](/appear)**：やや客観的で、外見や状況から判断する
+- **[appear](/word/appear)**：やや客観的で、外見や状況から判断する
 
 seemは話し手の主観的な印象を強調し、appearはより客観的な観察や公式な場面で使われる傾向があります。
 
@@ -105,14 +105,14 @@ seemは話し手の主観的な印象を強調し、appearはより客観的な�
 
 ## 🧩 あわせて覚えたい
 
-- [look](/look)：見た目で～に見える
-- [sound](/sound)：聞いた印象で～に思える
+- [look](/word/look)：見た目で～に見える
+- [sound](/word/sound)：聞いた印象で～に思える
 
 ---
 
 ## 📖 できればこれも
 
-- [suppose](/suppose)：～だと思う、推測する
-- [consider](/consider)：～と考える、みなす
+- [suppose](/word/suppose)：～だと思う、推測する
+- [consider](/word/consider)：～と考える、みなす
 
 <!-- cvid: aid38_bid39 -->

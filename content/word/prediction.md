@@ -97,7 +97,7 @@ TOEICではビジネス文書やレポート、メールなどの中で「予測
 ## 🤔  forecast との違いは？
 
 - **prediction**：根拠や直感に基づく「予測」全般。日常的な予想から科学的な予測まで幅広く使う。
-- **[forecast](/forecast)**：特に天気や経済など、データ分析に基づく「予報」「予測」に使う。
+- **[forecast](/word/forecast)**：特に天気や経済など、データ分析に基づく「予報」「予測」に使う。
 
 predictionは幅広い予測全般に使えますが、forecastは特に公式なデータや分析に基づく予報・予測に使われます。
 
@@ -105,14 +105,14 @@ predictionは幅広い予測全般に使えますが、forecastは特に公式�
 
 ## 🧩 あわせて覚えたい
 
-- [assumption](/assumption)：仮定、前提
-- [guess](/guess)：推測、当て推量
+- [assumption](/word/assumption)：仮定、前提
+- [guess](/word/guess)：推測、当て推量
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/analysis)：分析
-- [estimate](/estimate)：見積もり、推定
+- [analysis](/word/analysis)：分析
+- [estimate](/word/estimate)：見積もり、推定
 
 <!-- cvid: aid37_bid01 -->

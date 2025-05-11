@@ -96,7 +96,7 @@ TOEICでは、申請書や福利厚生、家族構成に関する長文でよく
 ## 🤔  partner との違いは？
 
 - **spouse**：法律上の配偶者（結婚している相手）を指すフォーマルな表現
-- **[partner](/partner)**：恋人やビジネスの相手など幅広く使えるカジュアルな表現
+- **[partner](/word/partner)**：恋人やビジネスの相手など幅広く使えるカジュアルな表現
 
 spouseは結婚している相手限定でフォーマル、partnerは結婚に限らず幅広い関係に使えます。
 
@@ -104,14 +104,14 @@ spouseは結婚している相手限定でフォーマル、partnerは結婚に�
 
 ## 🧩 あわせて覚えたい
 
-- [husband](/husband)：夫
-- [wife](/wife)：妻
+- [husband](/word/husband)：夫
+- [wife](/word/wife)：妻
 
 ---
 
 ## 📖 できればこれも
 
-- [relative](/relative)：親戚
-- [colleague](/colleague)：同僚
+- [relative](/word/relative)：親戚
+- [colleague](/word/colleague)：同僚
 
 <!-- cvid: aid34_bid08 -->

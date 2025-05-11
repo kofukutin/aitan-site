@@ -97,7 +97,7 @@ TOEICでは「進める」「前倒しする」「昇進させる」などの意
 ## 🤔  progress との違いは？
 
 - **advance**：意図的に前進させる、計画的に進めるニュアンス
-- **[progress](/progress)**：自然な進行や成長、徐々に進むこと
+- **[progress](/word/progress)**：自然な進行や成長、徐々に進むこと
 
 advanceは「積極的に前へ進める」イメージ、progressは「自然に進行する」イメージで使い分けます。
 
@@ -105,14 +105,14 @@ advanceは「積極的に前へ進める」イメージ、progressは「自然�
 
 ## 🧩 あわせて覚えたい
 
-- [promote](/promote)：促進する、昇進させる
-- [delay](/delay)：遅らせる、延期する
+- [promote](/word/promote)：促進する、昇進させる
+- [delay](/word/delay)：遅らせる、延期する
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/improve)：改善する、良くする
-- [develop](/develop)：発展させる、開発する
+- [improve](/word/improve)：改善する、良くする
+- [develop](/word/develop)：発展させる、開発する
 
 <!-- cvid: aid33_bid32 -->

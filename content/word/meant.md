@@ -97,7 +97,7 @@ meantは会話や説明文で「意図」や「意味」を表す際によく登
 ## 🤔  intended との違いは？
 
 - **meant**：意図した、意味した（meanの過去形・過去分詞）
-- **[intended](/intended)**：意図した、計画した（よりフォーマルで計画性が強い）
+- **[intended](/word/intended)**：意図した、計画した（よりフォーマルで計画性が強い）
 
 meantは日常的な「意図」や「意味」を表し、intendedはより計画的・フォーマルな場面で使われます。
 
@@ -105,14 +105,14 @@ meantは日常的な「意図」や「意味」を表し、intendedはより計�
 
 ## 🧩 あわせて覚えたい
 
-- [imply](/imply)：暗に示す
-- [indicate](/indicate)：指し示す、示す
+- [imply](/word/imply)：暗に示す
+- [indicate](/word/indicate)：指し示す、示す
 
 ---
 
 ## 📖 できればこれも
 
-- [mean](/mean)：意味する、意図する
-- [refer](/refer)：言及する、参照する
+- [mean](/word/mean)：意味する、意図する
+- [refer](/word/refer)：言及する、参照する
 
 <!-- cvid: aid09_bid15 -->

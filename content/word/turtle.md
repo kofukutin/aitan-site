@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、動物や自然のシーンと
 ## 🤔  tortoise との違いは？
 
 - **turtle**：主に水中や水辺に住むカメ
-- **[tortoise](/tortoise)**：主に陸上に住むカメ
+- **[tortoise](/word/tortoise)**：主に陸上に住むカメ
 
 turtleは水辺や海に生息するカメ、tortoiseは陸上に住むカメを指します。場面によって使い分けましょう。
 
@@ -105,14 +105,14 @@ turtleは水辺や海に生息するカメ、tortoiseは陸上に住むカメを
 
 ## 🧩 あわせて覚えたい
 
-- [reptile](/reptile)：爬虫類
-- [shell](/shell)：（カメなどの）甲羅
+- [reptile](/word/reptile)：爬虫類
+- [shell](/word/shell)：（カメなどの）甲羅
 
 ---
 
 ## 📖 できればこれも
 
-- [frog](/frog)：カエル
-- [crab](/crab)：カニ
+- [frog](/word/frog)：カエル
+- [crab](/word/crab)：カニ
 
 <!-- cvid: aid15_bid48 -->

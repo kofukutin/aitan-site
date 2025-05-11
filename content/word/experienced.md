@@ -97,7 +97,7 @@ TOEICでは求人広告や人材募集、自己紹介などで「experienced」�
 ## 🤔  skilled との違いは？
 
 - **experienced**：経験を積んで知識や判断力があることを強調
-- **[skilled](/skilled)**：特定の技術や能力が高いことを強調
+- **[skilled](/word/skilled)**：特定の技術や能力が高いことを強調
 
 experiencedは「経験の長さや豊富さ」に重点があり、skilledは「技術や腕前の高さ」に重点があります。
 
@@ -105,14 +105,14 @@ experiencedは「経験の長さや豊富さ」に重点があり、skilledは�
 
 ## 🧩 あわせて覚えたい
 
-- [novice](/novice)：初心者
-- [professional](/professional)：専門家、プロ
+- [novice](/word/novice)：初心者
+- [professional](/word/professional)：専門家、プロ
 
 ---
 
 ## 📖 できればこれも
 
-- [qualified](/qualified)：資格のある、適任の
-- [capable](/capable)：有能な、能力がある
+- [qualified](/word/qualified)：資格のある、適任の
+- [capable](/word/capable)：有能な、能力がある
 
 <!-- cvid: aid49_bid12 -->

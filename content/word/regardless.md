@@ -94,7 +94,7 @@ TOEICでは文法や語彙問題で「〜に関係なく」という意味を問
 ## 🤔  nevertheless との違いは？
 
 - **regardless**：「〜に関係なく」「〜を無視して」という意味で、条件や状況を気にせず行動するニュアンス。
-- **[nevertheless](/nevertheless)**：「それにもかかわらず」という意味で、前の内容を受けて逆接的に話を進めるときに使う。
+- **[nevertheless](/word/nevertheless)**：「それにもかかわらず」という意味で、前の内容を受けて逆接的に話を進めるときに使う。
 
 regardlessは「条件を無視する」感覚、neverthelessは「逆の結果が起きた」ことを強調する違いがあります。
 
@@ -102,14 +102,14 @@ regardlessは「条件を無視する」感覚、neverthelessは「逆の結果�
 
 ## 🧩 あわせて覚えたい
 
-- [despite](/despite)：〜にもかかわらず
-- [however](/however)：しかしながら
+- [despite](/word/despite)：〜にもかかわらず
+- [however](/word/however)：しかしながら
 
 ---
 
 ## 📖 できればこれも
 
-- [therefore](/therefore)：それゆえに
-- [consequently](/consequently)：その結果として
+- [therefore](/word/therefore)：それゆえに
+- [consequently](/word/consequently)：その結果として
 
 <!-- cvid: aid04_bid27 -->

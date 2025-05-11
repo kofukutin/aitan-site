@@ -97,7 +97,7 @@ TOEICでは、職場の交替勤務や業務の循環、担当者の入れ替え
 ## 🤔  shift との違いは？
 
 - **rotation**：順番に交替することや、循環して担当が変わることを指す。
-- **[shift](/shift)**：勤務時間や担当の「シフト（交替制の時間帯）」を指す。
+- **[shift](/word/shift)**：勤務時間や担当の「シフト（交替制の時間帯）」を指す。
 
 rotationは「順番に回る」イメージ、shiftは「時間帯や担当の区切り」を強調します。
 
@@ -105,14 +105,14 @@ rotationは「順番に回る」イメージ、shiftは「時間帯や担当の�
 
 ## 🧩 あわせて覚えたい
 
-- [cycle](/cycle)：周期、循環
-- [replacement](/replacement)：交替、代わりの人・物
+- [cycle](/word/cycle)：周期、循環
+- [replacement](/word/replacement)：交替、代わりの人・物
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/schedule)：予定、スケジュール
-- [assignment](/assignment)：割り当て、任務
+- [schedule](/word/schedule)：予定、スケジュール
+- [assignment](/word/assignment)：割り当て、任務
 
 <!-- cvid: aid26_bid31 -->

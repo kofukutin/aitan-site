@@ -93,7 +93,7 @@ The team is preparing the report. Meanwhile, I will contact the client.
 ## 🤔  in the meantime との違いは？
 
 - **meanwhile**：2つの出来事が同時進行しているときに「その間に」「一方で」と使う。
-- **[in the meantime](/in_the_meantime)**：同じく「その間に」だが、ややフォーマルで、時間の経過を強調することが多い。
+- **[in the meantime](/word/in_the_meantime)**：同じく「その間に」だが、ややフォーマルで、時間の経過を強調することが多い。
 
 meanwhileは出来事の対比や同時進行を強調し、in the meantimeは「しばらくの間」など時間のつなぎを意識する場面で使われます。
 
@@ -101,14 +101,14 @@ meanwhileは出来事の対比や同時進行を強調し、in the meantimeは�
 
 ## 🧩 あわせて覚えたい
 
-- [simultaneously](/simultaneously)：同時に
-- [afterward](/afterward)：その後で
+- [simultaneously](/word/simultaneously)：同時に
+- [afterward](/word/afterward)：その後で
 
 ---
 
 ## 📖 できればこれも
 
-- [therefore](/therefore)：それゆえに
-- [otherwise](/otherwise)：さもなければ
+- [therefore](/word/therefore)：それゆえに
+- [otherwise](/word/otherwise)：さもなければ
 
 <!-- cvid: aid05_bid49 -->

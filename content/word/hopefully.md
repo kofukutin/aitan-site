@@ -93,7 +93,7 @@ Hopefully, we can finish the project by Friday.
 ## 🤔  wish との違いは？
 
 - **hopefully**：話し手の「こうなってほしい」という希望や期待を副詞的に表現する。
-- **[wish](/wish)**：「願う」「望む」という動詞や名詞で、より強い願望や仮定の気持ちを表す。
+- **[wish](/word/wish)**：「願う」「望む」という動詞や名詞で、より強い願望や仮定の気持ちを表す。
 
 「hopefully」は会話の流れで軽く希望を述べるときに使い、「wish」はよりはっきりとした願望や現実と異なることを望む場合に使います。
 
@@ -101,14 +101,14 @@ Hopefully, we can finish the project by Friday.
 
 ## 🧩 あわせて覚えたい
 
-- [optimistically](/optimistically)：楽観的に
-- [fortunately](/fortunately)：幸運にも
+- [optimistically](/word/optimistically)：楽観的に
+- [fortunately](/word/fortunately)：幸運にも
 
 ---
 
 ## 📖 できればこれも
 
-- [probably](/probably)：たぶん
-- [luckily](/luckily)：運よく
+- [probably](/word/probably)：たぶん
+- [luckily](/word/luckily)：運よく
 
 <!-- cvid: aid24_bid44 -->

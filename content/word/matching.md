@@ -97,7 +97,7 @@ TOEICでは、matchingは主に名詞として「組み合わせ」や「一致�
 ## 🤔  coordination との違いは？
 
 - **matching**：2つ以上のものを組み合わせて一致させること、調和させること
-- **[coordination](/coordination)**：複数の要素をうまく調整・連携させること
+- **[coordination](/word/coordination)**：複数の要素をうまく調整・連携させること
 
 matchingは「ぴったり合う」ことに重点があり、coordinationは「調整して全体をうまくまとめる」ニュアンスです。
 
@@ -105,14 +105,14 @@ matchingは「ぴったり合う」ことに重点があり、coordinationは「
 
 ## 🧩 あわせて覚えたい
 
-- [pairing](/pairing)：ペアにすること、組み合わせ
-- [combination](/combination)：組み合わせ、結合
+- [pairing](/word/pairing)：ペアにすること、組み合わせ
+- [combination](/word/combination)：組み合わせ、結合
 
 ---
 
 ## 📖 できればこれも
 
-- [selection](/selection)：選択
-- [arrangement](/arrangement)：配置、手配
+- [selection](/word/selection)：選択
+- [arrangement](/word/arrangement)：配置、手配
 
 <!-- cvid: aid13_bid02 -->

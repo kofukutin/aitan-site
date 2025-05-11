@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や工場・オフィスの場面で「検査
 ## 🤔  investigation との違いは？
 
 - **inspection**：基準や手順に従って行う公式な「検査」「点検」
-- **[investigation](/investigation)**：原因や事実を詳しく調べる「調査」「捜査」
+- **[investigation](/word/investigation)**：原因や事実を詳しく調べる「調査」「捜査」
 
 inspectionは主に安全や品質などをチェックする場面で使い、investigationは問題や事件の原因を探るときに使います。
 
@@ -105,14 +105,14 @@ inspectionは主に安全や品質などをチェックする場面で使い、i
 
 ## 🧩 あわせて覚えたい
 
-- [audit](/audit)：監査、会計検査
-- [review](/review)：見直し、再検討
+- [audit](/word/audit)：監査、会計検査
+- [review](/word/review)：見直し、再検討
 
 ---
 
 ## 📖 できればこれも
 
-- [supervision](/supervision)：監督、管理
-- [assessment](/assessment)：評価、査定
+- [supervision](/word/supervision)：監督、管理
+- [assessment](/word/assessment)：評価、査定
 
 <!-- cvid: aid30_bid32 -->

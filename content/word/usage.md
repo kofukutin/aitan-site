@@ -97,7 +97,7 @@ TOEICでは説明文や案内、マニュアルなどで「usage」がよく登�
 ## 🤔  use との違いは？
 
 - **usage**：使い方や使用方法、慣習的な用法を指すフォーマルな名詞
-- **[use](/use)**：使うこと自体や用途を表す一般的な名詞・動詞
+- **[use](/word/use)**：使うこと自体や用途を表す一般的な名詞・動詞
 
 「usage」は使い方や慣習的な方法に焦点を当て、「use」は単に使う行為や目的を指します。
 
@@ -105,14 +105,14 @@ TOEICでは説明文や案内、マニュアルなどで「usage」がよく登�
 
 ## 🧩 あわせて覚えたい
 
-- [consumption](/consumption)：消費、消耗
-- [application](/application)：応用、適用
+- [consumption](/word/consumption)：消費、消耗
+- [application](/word/application)：応用、適用
 
 ---
 
 ## 📖 できればこれも
 
-- [method](/method)：方法、手段
-- [instruction](/instruction)：指示、説明
+- [method](/word/method)：方法、手段
+- [instruction](/word/instruction)：指示、説明
 
 <!-- cvid: aid06_bid34 -->

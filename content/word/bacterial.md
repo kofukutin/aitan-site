@@ -97,7 +97,7 @@ We need to test the water for bacterial contamination.
 ## 🤔  viral との違いは？
 
 - **bacterial**：細菌による、細菌が原因の
-- **[viral](/viral)**：ウイルスによる、ウイルスが原因の
+- **[viral](/word/viral)**：ウイルスによる、ウイルスが原因の
 
 bacterialは「細菌」に関する場合、viralは「ウイルス」に関する場合に使い分けます。
 
@@ -105,14 +105,14 @@ bacterialは「細菌」に関する場合、viralは「ウイルス」に関す
 
 ## 🧩 あわせて覚えたい
 
-- [fungal](/fungal)：真菌の、カビの
-- [infection](/infection)：感染、感染症
+- [fungal](/word/fungal)：真菌の、カビの
+- [infection](/word/infection)：感染、感染症
 
 ---
 
 ## 📖 できればこれも
 
-- [antibiotic](/antibiotic)：抗生物質
-- [disease](/disease)：病気
+- [antibiotic](/word/antibiotic)：抗生物質
+- [disease](/word/disease)：病気
 
 <!-- cvid: aid30_bid31 -->

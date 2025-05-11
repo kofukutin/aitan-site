@@ -97,7 +97,7 @@ TOEICでは主にメールや案内文、ウェブサイトの説明文などで
 ## 🤔  register との違いは？
 
 - **subscribe**：主にサービスや情報の「購読・定期利用」に登録すること
-- **[register](/register)**：イベントやアカウントなどに「登録・記入」すること
+- **[register](/word/register)**：イベントやアカウントなどに「登録・記入」すること
 
 subscribeは「定期的に受け取る」ニュアンスが強く、registerは「名簿やシステムに名前を記入する」場面で使います。
 
@@ -105,14 +105,14 @@ subscribeは「定期的に受け取る」ニュアンスが強く、registerは
 
 ## 🧩 あわせて覚えたい
 
-- [unsubscribe](/unsubscribe)：購読をやめる
-- [enroll](/enroll)：（学校や講座に）登録する
+- [unsubscribe](/word/unsubscribe)：購読をやめる
+- [enroll](/word/enroll)：（学校や講座に）登録する
 
 ---
 
 ## 📖 できればこれも
 
-- [renew](/renew)：更新する
-- [apply](/apply)：申し込む
+- [renew](/word/renew)：更新する
+- [apply](/word/apply)：申し込む
 
 <!-- cvid: aid11_bid00 -->

@@ -97,7 +97,7 @@ TOEICでは、形容詞として「選択的な」「えり好みする」とい
 ## 🤔  specific との違いは？
 
 - **selective**：選択的な、えり好みする
-- **[specific](/specific)**：具体的な、特定の
+- **[specific](/word/specific)**：具体的な、特定の
 
 「selective」は「多くの中から選ぶ」「選抜する」ニュアンス、「specific」は「はっきり限定された」「具体的な」という意味で、選ぶ行為そのものよりも対象の明確さに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞として「選択的な」「えり好みする」とい
 
 ## 🧩 あわせて覚えたい
 
-- [exclusive](/exclusive)：排他的な、限定的な
-- [optional](/optional)：任意の、選択できる
+- [exclusive](/word/exclusive)：排他的な、限定的な
+- [optional](/word/optional)：任意の、選択できる
 
 ---
 
 ## 📖 できればこれも
 
-- [eligible](/eligible)：資格がある、適格な
-- [distinct](/distinct)：はっきり異なる、明確な
+- [eligible](/word/eligible)：資格がある、適格な
+- [distinct](/word/distinct)：はっきり異なる、明確な
 
 <!-- cvid: aid07_bid02 -->

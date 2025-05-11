@@ -97,7 +97,7 @@ TOEICでは「core value（中核的価値観）」や「core business（中核�
 ## 🤔  center との違いは？
 
 - **core**：物事の「本質的な中心」や「最も重要な部分」を指す
-- **[center](/center)**：物理的・地理的な「中心」や「中央」を指す
+- **[center](/word/center)**：物理的・地理的な「中心」や「中央」を指す
 
 coreは「本質」や「核」といった抽象的な中心に使われ、centerは「場所」や「位置」といった物理的な中心に使われます。
 
@@ -105,14 +105,14 @@ coreは「本質」や「核」といった抽象的な中心に使われ、cent
 
 ## 🧩 あわせて覚えたい
 
-- [essence](/essence)：本質、エッセンス
-- [periphery](/periphery)：周辺、外周
+- [essence](/word/essence)：本質、エッセンス
+- [periphery](/word/periphery)：周辺、外周
 
 ---
 
 ## 📖 できればこれも
 
-- [focus](/focus)：焦点、注目点
-- [basis](/basis)：基礎、根拠
+- [focus](/word/focus)：焦点、注目点
+- [basis](/word/basis)：基礎、根拠
 
 <!-- cvid: aid07_bid16 -->

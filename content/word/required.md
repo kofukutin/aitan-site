@@ -97,7 +97,7 @@ TOEICでは「required documents（必要書類）」や「required fields（必
 ## 🤔  mandatory との違いは？
 
 - **required**：必要とされる、必須の（一般的な義務や条件に使う）
-- **[mandatory](/mandatory)**：法的・規則的に義務付けられた、強制の
+- **[mandatory](/word/mandatory)**：法的・規則的に義務付けられた、強制の
 
 「required」は広く「必要とされる」ことを指し、「mandatory」は法律や規則で「絶対に守らなければならない」強い義務を表します。
 
@@ -105,14 +105,14 @@ TOEICでは「required documents（必要書類）」や「required fields（必
 
 ## 🧩 あわせて覚えたい
 
-- [optional](/optional)：任意の、選択できる
-- [necessary](/necessary)：必要な
+- [optional](/word/optional)：任意の、選択できる
+- [necessary](/word/necessary)：必要な
 
 ---
 
 ## 📖 できればこれも
 
-- [essential](/essential)：不可欠な、極めて重要な
-- [permitted](/permitted)：許可された
+- [essential](/word/essential)：不可欠な、極めて重要な
+- [permitted](/word/permitted)：許可された
 
 <!-- cvid: aid27_bid09 -->

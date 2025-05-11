@@ -96,7 +96,7 @@ TOEICでは、メールや文書の説明、ファイル名の記載などで「
 ## 🤔  anonymous との違いは？
 
 - **untitled**：題名やタイトルが付いていないことを指す
-- **[anonymous](/anonymous)**：作者や送り主など「名前が明かされていない」ことを指す
+- **[anonymous](/word/anonymous)**：作者や送り主など「名前が明かされていない」ことを指す
 
 「untitled」は作品やファイルなどの「題名がない」状態を表し、「anonymous」は人や作者の「名前が不明・非公開」であることを表します。
 
@@ -104,14 +104,14 @@ TOEICでは、メールや文書の説明、ファイル名の記載などで「
 
 ## 🧩 あわせて覚えたい
 
-- [nameless](/nameless)：名前のない、無名の
-- [label](/label)：ラベル、表示名
+- [nameless](/word/nameless)：名前のない、無名の
+- [label](/word/label)：ラベル、表示名
 
 ---
 
 ## 📖 できればこれも
 
-- [unknown](/unknown)：未知の、知られていない
-- [draft](/draft)：下書き、草稿
+- [unknown](/word/unknown)：未知の、知られていない
+- [draft](/word/draft)：下書き、草稿
 
 <!-- cvid: aid28_bid42 -->

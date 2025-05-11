@@ -97,7 +97,7 @@ plugはIT機器やオフィスの設備に関する会話でよく登場しま�
 ## 🤔  insert との違いは？
 
 - **plug**：主に電気機器やケーブルなどを「差し込む」「接続する」時に使う
-- **[insert](/insert)**：一般的に「挿入する」「差し込む」全般に使う
+- **[insert](/word/insert)**：一般的に「挿入する」「差し込む」全般に使う
 
 plugは特に電源や電子機器の接続に使われ、insertは書類やカードなど幅広い対象に使われます。
 
@@ -105,14 +105,14 @@ plugは特に電源や電子機器の接続に使われ、insertは書類やカ�
 
 ## 🧩 あわせて覚えたい
 
-- [unplug](/unplug)：（コンセントなどから）抜く
-- [connect](/connect)：接続する
+- [unplug](/word/unplug)：（コンセントなどから）抜く
+- [connect](/word/connect)：接続する
 
 ---
 
 ## 📖 できればこれも
 
-- [switch](/switch)：切り替える、スイッチ
-- [charge](/charge)：充電する
+- [switch](/word/switch)：切り替える、スイッチ
+- [charge](/word/charge)：充電する
 
 <!-- cvid: aid13_bid26 -->

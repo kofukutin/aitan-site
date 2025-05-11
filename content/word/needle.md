@@ -97,7 +97,7 @@ TOEICでは主に医療や裁縫の写真描写で登場します。日常的な
 ## 🤔  pin との違いは？
 
 - **needle**：縫い物や注射などに使う細長い針
-- **[pin](/pin)**：留めるための頭がついた短い針
+- **[pin](/word/pin)**：留めるための頭がついた短い針
 
 needleは糸を通したり注射に使う細長い針、pinは紙や布を留めるための短い針で、用途や形状が異なります。
 
@@ -105,14 +105,14 @@ needleは糸を通したり注射に使う細長い針、pinは紙や布を留�
 
 ## 🧩 あわせて覚えたい
 
-- [syringe](/syringe)：注射器
-- [thread](/thread)：糸
+- [syringe](/word/syringe)：注射器
+- [thread](/word/thread)：糸
 
 ---
 
 ## 📖 できればこれも
 
-- [scissors](/scissors)：はさみ
-- [bandage](/bandage)：包帯
+- [scissors](/word/scissors)：はさみ
+- [bandage](/word/bandage)：包帯
 
 <!-- cvid: aid20_bid00 -->

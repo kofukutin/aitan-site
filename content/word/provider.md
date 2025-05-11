@@ -97,7 +97,7 @@ TOEICでは、契約やサービスに関する長文やEメール文中で「pr
 ## 🤔  supplier との違いは？
 
 - **provider**：サービスや商品を提供する人・会社（特にサービス業で多用）
-- **[supplier](/supplier)**：主に「物資・商品」を供給する業者
+- **[supplier](/word/supplier)**：主に「物資・商品」を供給する業者
 
 「provider」はサービスやインターネットなど無形のものも含みますが、「supplier」は主に物理的な商品や材料を供給する会社に使われます。
 
@@ -105,13 +105,13 @@ TOEICでは、契約やサービスに関する長文やEメール文中で「pr
 
 ## 🧩 あわせて覚えたい
 
-- [vendor](/vendor)：販売業者、売り手
-- [client](/client)：顧客、取引先
+- [vendor](/word/vendor)：販売業者、売り手
+- [client](/word/client)：顧客、取引先
 
 ---
 
 ## 📖 できればこれも
 
-- [service](/service)：サービス、業務
-- [customer](/customer)：顧客、客
+- [service](/word/service)：サービス、業務
+- [customer](/word/customer)：顧客、客
 <!-- cvid: aid10_bid40 -->

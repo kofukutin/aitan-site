@@ -97,7 +97,7 @@ TOEICでは主にPart 7の読解問題で、書籍や図書館、出版物の説
 ## 🤔  novel との違いは？
 
 - **fiction**：事実ではない創作全般やジャンルを指す
-- **[novel](/novel)**：長編の創作小説そのものを指す
+- **[novel](/word/novel)**：長編の創作小説そのものを指す
 
 fictionは「ジャンル」や「作り話全般」を表し、novelは「長編小説」という具体的な作品を指します。
 
@@ -105,14 +105,14 @@ fictionは「ジャンル」や「作り話全般」を表し、novelは「長�
 
 ## 🧩 あわせて覚えたい
 
-- [nonfiction](/nonfiction)：ノンフィクション、事実に基づく作品
-- [story](/story)：物語、話
+- [nonfiction](/word/nonfiction)：ノンフィクション、事実に基づく作品
+- [story](/word/story)：物語、話
 
 ---
 
 ## 📖 できればこれも
 
-- [literature](/literature)：文学
-- [author](/author)：著者、作家
+- [literature](/word/literature)：文学
+- [author](/word/author)：著者、作家
 
 <!-- cvid: aid12_bid13 -->

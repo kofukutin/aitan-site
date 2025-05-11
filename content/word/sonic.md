@@ -97,7 +97,7 @@ TOEICでは科学技術や製品説明の文脈で、sonicが登場すること�
 ## 🤔  acoustic との違いは？
 
 - **sonic**：音や音波、特に音速や科学的な「音」に関する性質を表す
-- **[acoustic](/acoustic)**：音響、特に「生の音」や「音の伝わり方」に関する
+- **[acoustic](/word/acoustic)**：音響、特に「生の音」や「音の伝わり方」に関する
 
 「sonic」は科学的・技術的な「音」に焦点を当てるのに対し、「acoustic」は楽器や建物の音響特性など、自然な音の響きに使われます。
 
@@ -105,14 +105,14 @@ TOEICでは科学技術や製品説明の文脈で、sonicが登場すること�
 
 ## 🧩 あわせて覚えたい
 
-- [audible](/audible)：聞こえる
-- [ultrasonic](/ultrasonic)：超音波の
+- [audible](/word/audible)：聞こえる
+- [ultrasonic](/word/ultrasonic)：超音波の
 
 ---
 
 ## 📖 できればこれも
 
-- [vocal](/vocal)：声の、発声の
-- [visual](/visual)：視覚の、見える
+- [vocal](/word/vocal)：声の、発声の
+- [visual](/word/visual)：視覚の、見える
 
 <!-- cvid: aid20_bid11 -->

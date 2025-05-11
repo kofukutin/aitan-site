@@ -97,7 +97,7 @@ TOEICでは、形容詞として「tested products（テスト済み製品）」
 ## 🤔  examined との違いは？
 
 - **tested**：基準や条件に従って実際にテスト・試験されたことを強調
-- **[examined](/examined)**：詳細に調べたり観察したりすることを強調
+- **[examined](/word/examined)**：詳細に調べたり観察したりすることを強調
 
 「tested」は実際にテストを行い結果を確認したニュアンス、「examined」は観察や分析など広い意味での「調査」を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞として「tested products（テスト済み製品）」
 
 ## 🧩 あわせて覚えたい
 
-- [proven](/proven)：証明された
-- [verified](/verified)：検証された
+- [proven](/word/proven)：証明された
+- [verified](/word/verified)：検証された
 
 ---
 
 ## 📖 できればこれも
 
-- [checked](/checked)：確認された
-- [approved](/approved)：承認された
+- [checked](/word/checked)：確認された
+- [approved](/word/approved)：承認された
 
 <!-- cvid: aid22_bid33 -->

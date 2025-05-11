@@ -97,7 +97,7 @@ TOEICでは、製品説明や素材に関する長文、工業や科学分野の
 ## 🤔  pottery との違いは？
 
 - **ceramic**：陶磁器全般やセラミック素材を指し、工業用途も含む幅広い意味。
-- **[pottery](/pottery)**：主に手作りの陶器や焼き物を指し、芸術や伝統工芸のニュアンスが強い。
+- **[pottery](/word/pottery)**：主に手作りの陶器や焼き物を指し、芸術や伝統工芸のニュアンスが強い。
 
 **ceramic**は素材や工業製品にも使われる広い言葉、**pottery**は手作りや芸術的な焼き物に限定されることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、製品説明や素材に関する長文、工業や科学分野の
 
 ## 🧩 あわせて覚えたい
 
-- [porcelain](/porcelain)：磁器、より白くて硬い陶磁器
-- [clay](/clay)：粘土、陶磁器の原料
+- [porcelain](/word/porcelain)：磁器、より白くて硬い陶磁器
+- [clay](/word/clay)：粘土、陶磁器の原料
 
 ---
 
 ## 📖 できればこれも
 
-- [glass](/glass)：ガラス、透明な固体素材
-- [material](/material)：材料、素材
+- [glass](/word/glass)：ガラス、透明な固体素材
+- [material](/word/material)：材料、素材
 
 <!-- cvid: aid08_bid16 -->

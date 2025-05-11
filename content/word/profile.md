@@ -97,7 +97,7 @@ TOEICでは、会社や人物の紹介文、求人情報、記事などで「pro
 ## 🤔  outline との違いは？
 
 - **profile**：人物や会社などの特徴や経歴を簡潔にまとめた紹介文や概要。
-- **[outline](/outline)**：物事の全体像や構成を箇条書きや要点で示した「アウトライン」「概要」。
+- **[outline](/word/outline)**：物事の全体像や構成を箇条書きや要点で示した「アウトライン」「概要」。
 
 profileは主に人や組織の紹介に使い、outlineは内容や計画の要点整理に使います。
 
@@ -105,14 +105,14 @@ profileは主に人や組織の紹介に使い、outlineは内容や計画の要
 
 ## 🧩 あわせて覚えたい
 
-- [biography](/biography)：伝記、人物の生涯
-- [summary](/summary)：要約、まとめ
+- [biography](/word/biography)：伝記、人物の生涯
+- [summary](/word/summary)：要約、まとめ
 
 ---
 
 ## 📖 できればこれも
 
-- [resume](/resume)：履歴書、職務経歴書
-- [portfolio](/portfolio)：作品集、ポートフォリオ
+- [resume](/word/resume)：履歴書、職務経歴書
+- [portfolio](/word/portfolio)：作品集、ポートフォリオ
 
 <!-- cvid: aid20_bid09 -->

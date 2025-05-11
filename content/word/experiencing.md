@@ -97,7 +97,7 @@ TOEICでは、会社や個人が「何かを経験している」状況を説明
 ## 🤔  undergoing との違いは？
 
 - **experiencing**：自分が実際に体験していること全般に使う。
-- **[undergoing](/undergoing)**：変化や治療など「過程」を強調している。
+- **[undergoing](/word/undergoing)**：変化や治療など「過程」を強調している。
 
 **experiencing**は幅広い体験に使えますが、**undergoing**は「変化・治療・プロセス」など進行中の出来事に限定される傾向があります。
 
@@ -105,14 +105,14 @@ TOEICでは、会社や個人が「何かを経験している」状況を説明
 
 ## 🧩 あわせて覚えたい
 
-- [encounter](/encounter)：偶然出会う、遭遇する
-- [face](/face)：直面する、立ち向かう
+- [encounter](/word/encounter)：偶然出会う、遭遇する
+- [face](/word/face)：直面する、立ち向かう
 
 ---
 
 ## 📖 できればこれも
 
-- [participate](/participate)：参加する
-- [observe](/observe)：観察する
+- [participate](/word/participate)：参加する
+- [observe](/word/observe)：観察する
 
 <!-- cvid: aid13_bid43 -->

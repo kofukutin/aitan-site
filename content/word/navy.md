@@ -97,7 +97,7 @@ TOEICでは、国際関係や組織紹介、ニュース記事などの長文で
 ## 🤔  army との違いは？
 
 - **navy**：海上で活動する軍隊（海軍）や紺色を指す
-- **[army](/army)**：陸上で活動する軍隊（陸軍）を指す
+- **[army](/word/army)**：陸上で活動する軍隊（陸軍）を指す
 
 navyは海や船に関わる軍隊、armyは陸上での軍隊を表します。活動場所や役割が異なります。
 
@@ -105,14 +105,14 @@ navyは海や船に関わる軍隊、armyは陸上での軍隊を表します。
 
 ## 🧩 あわせて覚えたい
 
-- [fleet](/fleet)：艦隊
-- [marine](/marine)：海兵隊、海の
+- [fleet](/word/fleet)：艦隊
+- [marine](/word/marine)：海兵隊、海の
 
 ---
 
 ## 📖 できればこれも
 
-- [uniform](/uniform)：制服
-- [officer](/officer)：士官、役員
+- [uniform](/word/uniform)：制服
+- [officer](/word/officer)：士官、役員
 
 <!-- cvid: aid24_bid13 -->

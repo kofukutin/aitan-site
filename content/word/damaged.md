@@ -97,7 +97,7 @@ TOEICでは、商品の状態やクレーム対応、報告書などで「damage
 ## 🤔  broken との違いは？
 
 - **damaged**：損傷しているが、完全に壊れているとは限らない
-- **[broken](/broken)**：壊れて使えない状態
+- **[broken](/word/broken)**：壊れて使えない状態
 
 「damaged」は部分的な損傷や傷も含みますが、「broken」は完全に壊れて機能しない場合に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、商品の状態やクレーム対応、報告書などで「damage
 
 ## 🧩 あわせて覚えたい
 
-- [intact](/intact)：無傷の、損なわれていない
-- [defective](/defective)：欠陥のある、不良の
+- [intact](/word/intact)：無傷の、損なわれていない
+- [defective](/word/defective)：欠陥のある、不良の
 
 ---
 
 ## 📖 できればこれも
 
-- [repaired](/repaired)：修理された
-- [faulty](/faulty)：故障した、欠陥のある
+- [repaired](/word/repaired)：修理された
+- [faulty](/word/faulty)：故障した、欠陥のある
 
 <!-- cvid: aid02_bid09 -->

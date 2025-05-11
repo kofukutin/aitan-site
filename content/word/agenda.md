@@ -97,7 +97,7 @@ TOEICでは会議や打ち合わせの場面で頻出し、議題や進行内容
 ## 🤔  schedule との違いは？
 
 - **agenda**：会議や打ち合わせで話し合うべき「議題」や「項目」の一覧を指す
-- **[schedule](/schedule)**：時間や日付ごとの「予定表」や「スケジュール」を指す
+- **[schedule](/word/schedule)**：時間や日付ごとの「予定表」や「スケジュール」を指す
 
 agendaは「何を話すか」に焦点があり、scheduleは「いつ何をするか」という時間軸に重点があります。
 
@@ -105,14 +105,14 @@ agendaは「何を話すか」に焦点があり、scheduleは「いつ何をす
 
 ## 🧩 あわせて覚えたい
 
-- [minutes](/minutes)：議事録
-- [proposal](/proposal)：提案書
+- [minutes](/word/minutes)：議事録
+- [proposal](/word/proposal)：提案書
 
 ---
 
 ## 📖 できればこれも
 
-- [memo](/memo)：メモ、覚書
-- [document](/document)：文書、書類
+- [memo](/word/memo)：メモ、覚書
+- [document](/word/document)：文書、書類
 
 <!-- cvid: aid14_bid24 -->

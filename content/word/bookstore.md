@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写や、日常的な会話文で「本屋」とし
 ## 🤔  library との違いは？
 
 - **bookstore**：本を「買う」ための店
-- **[library](/library)**：本を「借りる」ための施設
+- **[library](/word/library)**：本を「借りる」ための施設
 
 bookstoreは本を販売するお店、libraryは本を無料で貸し出す公共施設です。目的や利用方法が異なります。
 
@@ -105,14 +105,14 @@ bookstoreは本を販売するお店、libraryは本を無料で貸し出す公�
 
 ## 🧩 あわせて覚えたい
 
-- [shop](/shop)：お店、商店
-- [stationery](/stationery)：文房具
+- [shop](/word/shop)：お店、商店
+- [stationery](/word/stationery)：文房具
 
 ---
 
 ## 📖 できればこれも
 
-- [library](/library)：図書館
-- [shop](/shop)：お店
+- [library](/word/library)：図書館
+- [shop](/word/shop)：お店
 
 <!-- cvid: aid34_bid42 -->

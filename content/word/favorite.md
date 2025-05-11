@@ -98,7 +98,7 @@ TOEICでは、日常会話や簡単な質問の中で「favorite」がよく登�
 ## 🤔  prefer との違いは？
 
 - **favorite**：最も好きなものや人を指し、1つに絞るニュアンスが強い
-- **[prefer](/prefer)**：複数の中から「より好む」という比較のニュアンス
+- **[prefer](/word/prefer)**：複数の中から「より好む」という比較のニュアンス
 
 favoriteは「一番のお気に入り」を表し、preferは「どちらかと言えば好き」という比較的な好みを表します。
 
@@ -106,14 +106,14 @@ favoriteは「一番のお気に入り」を表し、preferは「どちらかと
 
 ## 🧩 あわせて覚えたい
 
-- [beloved](/beloved)：とても愛されている
-- [select](/select)：選ばれた、特別な
+- [beloved](/word/beloved)：とても愛されている
+- [select](/word/select)：選ばれた、特別な
 
 ---
 
 ## 📖 できればこれも
 
-- [famous](/famous)：有名な
-- [special](/special)：特別な
+- [famous](/word/famous)：有名な
+- [special](/word/special)：特別な
 
 <!-- cvid: aid33_bid21 -->

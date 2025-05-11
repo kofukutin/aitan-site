@@ -97,7 +97,7 @@ TOEICでは、図や説明文、または視点や考え方を表す文脈で出
 ## 🤔  corner との違いは？
 
 - **angle**：2本の線や面が交わる「角度」や「視点」
-- **[corner](/corner)**：部屋や物の「隅」「角」
+- **[corner](/word/corner)**：部屋や物の「隅」「角」
 
 angleは「角度」や「視点」を表し、cornerは物理的な「隅」や「角」を指します。数学やカメラの話ではangle、部屋の隅などはcornerを使います。
 
@@ -105,14 +105,14 @@ angleは「角度」や「視点」を表し、cornerは物理的な「隅」や
 
 ## 🧩 あわせて覚えたい
 
-- [edge](/edge)：端、へり
-- [perspective](/perspective)：視点、観点
+- [edge](/word/edge)：端、へり
+- [perspective](/word/perspective)：視点、観点
 
 ---
 
 ## 📖 できればこれも
 
-- [shape](/shape)：形、形状
-- [line](/line)：線
+- [shape](/word/shape)：形、形状
+- [line](/word/line)：線
 
 <!-- cvid: aid12_bid39 -->

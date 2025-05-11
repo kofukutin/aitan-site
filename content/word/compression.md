@@ -97,7 +97,7 @@ ITやビジネス文書、技術的な説明文で「compression」はファイ�
 ## 🤔  condensation との違いは？
 
 - **compression**：物理的・データ的に「圧縮」すること、サイズや体積を小さくすること
-- **[condensation](/condensation)**：気体が液体になる「凝縮」や、要点をまとめる「要約」
+- **[condensation](/word/condensation)**：気体が液体になる「凝縮」や、要点をまとめる「要約」
 
 compressionは「押し縮める」イメージ、condensationは「集めて濃縮する」や「液体化」の意味で使い分けます。
 
@@ -105,14 +105,14 @@ compressionは「押し縮める」イメージ、condensationは「集めて濃
 
 ## 🧩 あわせて覚えたい
 
-- [decompression](/decompression)：解凍、圧縮解除
-- [reduction](/reduction)：削減、縮小
+- [decompression](/word/decompression)：解凍、圧縮解除
+- [reduction](/word/reduction)：削減、縮小
 
 ---
 
 ## 📖 できればこれも
 
-- [expansion](/expansion)：拡大、膨張
-- [minimize](/minimize)：最小化する
+- [expansion](/word/expansion)：拡大、膨張
+- [minimize](/word/minimize)：最小化する
 
 <!-- cvid: aid43_bid43 -->

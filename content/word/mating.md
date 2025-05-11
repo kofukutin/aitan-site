@@ -97,7 +97,7 @@ TOEICでは科学や生物に関する長文や説明文で見かけることが
 ## 🤔  breeding との違いは？
 
 - **mating**：動物や生物が実際に交尾・交配する行為そのもの
-- **[breeding](/breeding)**：動物や植物を繁殖させること全般、育種や飼育も含む
+- **[breeding](/word/breeding)**：動物や植物を繁殖させること全般、育種や飼育も含む
 
 matingは「交尾」という具体的な行為を指し、breedingは「繁殖」や「育種」など広い意味で使われます。
 
@@ -105,14 +105,14 @@ matingは「交尾」という具体的な行為を指し、breedingは「繁殖
 
 ## 🧩 あわせて覚えたい
 
-- [reproduction](/reproduction)：繁殖、再生
-- [pairing](/pairing)：つがいになること、ペアを作ること
+- [reproduction](/word/reproduction)：繁殖、再生
+- [pairing](/word/pairing)：つがいになること、ペアを作ること
 
 ---
 
 ## 📖 できればこれも
 
-- [offspring](/offspring)：子孫、子
-- [fertilization](/fertilization)：受精
+- [offspring](/word/offspring)：子孫、子
+- [fertilization](/word/fertilization)：受精
 
 <!-- cvid: aid16_bid19 -->

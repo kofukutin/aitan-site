@@ -97,7 +97,7 @@ TOEICでは、記事やメール文中でことわざや格言を引用する場
 ## 🤔  proverb との違いは？
 
 - **saying**：一般的なことわざや短い教訓的なフレーズ全般を指す
-- **[proverb](/proverb)**：より伝統的で古くから使われている正式なことわざ
+- **[proverb](/word/proverb)**：より伝統的で古くから使われている正式なことわざ
 
 sayingは日常的な表現も含みますが、proverbはより格式ばった伝統的なことわざを指します。
 
@@ -105,14 +105,14 @@ sayingは日常的な表現も含みますが、proverbはより格式ばった�
 
 ## 🧩 あわせて覚えたい
 
-- [idiom](/idiom)：慣用句、イディオム
-- [maxim](/maxim)：格言、処世訓
+- [idiom](/word/idiom)：慣用句、イディオム
+- [maxim](/word/maxim)：格言、処世訓
 
 ---
 
 ## 📖 できればこれも
 
-- [phrase](/phrase)：句、言い回し
-- [expression](/expression)：表現、言い回し
+- [phrase](/word/phrase)：句、言い回し
+- [expression](/word/expression)：表現、言い回し
 
 <!-- cvid: aid41_bid19 -->

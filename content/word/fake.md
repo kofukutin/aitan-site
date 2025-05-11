@@ -97,7 +97,7 @@ TOEICでは「偽造する」「ごまかす」といった意味で、主にビ
 ## 🤔  imitate との違いは？
 
 - **fake**：本物のように見せかけて「だます」「偽造する」否定的な意味合いが強い
-- **[imitate](/imitate)**：まねる、模倣する（だます意図はなく、単に似せる場合も多い）
+- **[imitate](/word/imitate)**：まねる、模倣する（だます意図はなく、単に似せる場合も多い）
 
 fakeは「だます」目的で使われ、imitateは「まねる」こと自体に焦点があり、悪意がない場合も多いです。
 
@@ -105,14 +105,14 @@ fakeは「だます」目的で使われ、imitateは「まねる」こと自体
 
 ## 🧩 あわせて覚えたい
 
-- [forge](/forge)：（文書・署名などを）偽造する
-- [genuine](/genuine)：本物の、正真正銘の
+- [forge](/word/forge)：（文書・署名などを）偽造する
+- [genuine](/word/genuine)：本物の、正真正銘の
 
 ---
 
 ## 📖 できればこれも
 
-- [pretend](/pretend)：ふりをする
-- [copy](/copy)：写す、コピーする
+- [pretend](/word/pretend)：ふりをする
+- [copy](/word/copy)：写す、コピーする
 
 <!-- cvid: aid36_bid15 -->

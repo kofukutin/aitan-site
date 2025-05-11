@@ -93,7 +93,7 @@ thereofはTOEICのPart 7で、契約書や規約などのフォーマルな文�
 ## 🤔  therefrom との違いは？
 
 - **thereof**：それの、それに関して
-- **[therefrom](/therefrom)**：それから（離れて）、それ以降
+- **[therefrom](/word/therefrom)**：それから（離れて）、それ以降
 
 thereofは「それ自体に関して」を指し、therefromは「それから（起因して）」や「それ以降」を意味します。契約書などで使い分けが必要です。
 
@@ -101,14 +101,14 @@ thereofは「それ自体に関して」を指し、therefromは「それから�
 
 ## 🧩 あわせて覚えたい
 
-- [hereof](/hereof)：これの、これに関して
-- [whereof](/whereof)：そのうちの、何の
+- [hereof](/word/hereof)：これの、これに関して
+- [whereof](/word/whereof)：そのうちの、何の
 
 ---
 
 ## 📖 できればこれも
 
-- [hereby](/hereby)：これにより
-- [therein](/therein)：その中に
+- [hereby](/word/hereby)：これにより
+- [therein](/word/therein)：その中に
 
 <!-- cvid: aid39_bid34 -->

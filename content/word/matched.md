@@ -97,7 +97,7 @@ TOEICでは、形容詞として「matched pair」や「matched set」など、�
 ## 🤔  fit との違いは？
 
 - **matched**：2つ以上のものが釣り合っている、組み合わせとして合っている
-- **[fit](/fit)**：サイズや形が合う、適合する
+- **[fit](/word/fit)**：サイズや形が合う、適合する
 
 「matched」は色やデザインなどの調和を強調し、「fit」は物理的なサイズや形が合うことを指します。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞として「matched pair」や「matched set」など、�
 
 ## 🧩 あわせて覚えたい
 
-- [suitable](/suitable)：適切な、ふさわしい
-- [pair](/pair)：一組、ペア
+- [suitable](/word/suitable)：適切な、ふさわしい
+- [pair](/word/pair)：一組、ペア
 
 ---
 
 ## 📖 できればこれも
 
-- [similar](/similar)：似ている
-- [equal](/equal)：等しい
+- [similar](/word/similar)：似ている
+- [equal](/word/equal)：等しい
 
 <!-- cvid: aid22_bid38 -->

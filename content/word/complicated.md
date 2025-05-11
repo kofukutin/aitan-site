@@ -97,7 +97,7 @@ TOEICでは、説明文や手順、システムなどが「複雑である」こ
 ## 🤔  complex との違いは？
 
 - **complicated**：多くの要素が絡み合い、理解や解決が難しい「ややこしさ」を強調
-- **[complex](/complex)**：構造や仕組みが多層的で「単純でない」ことを中立的に表現
+- **[complex](/word/complex)**：構造や仕組みが多層的で「単純でない」ことを中立的に表現
 
 complicatedは「混乱しやすい・ややこしい」ニュアンスが強く、complexは単に「多くの部分から成る」ことを指します。
 
@@ -105,14 +105,14 @@ complicatedは「混乱しやすい・ややこしい」ニュアンスが強く
 
 ## 🧩 あわせて覚えたい
 
-- [simple](/simple)：単純な、簡単な
-- [elaborate](/elaborate)：手の込んだ、精巧な
+- [simple](/word/simple)：単純な、簡単な
+- [elaborate](/word/elaborate)：手の込んだ、精巧な
 
 ---
 
 ## 📖 できればこれも
 
-- [difficult](/difficult)：難しい
-- [detailed](/detailed)：詳細な
+- [difficult](/word/difficult)：難しい
+- [detailed](/word/detailed)：詳細な
 
 <!-- cvid: aid05_bid24 -->

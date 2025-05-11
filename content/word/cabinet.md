@@ -97,7 +97,7 @@ cabinetはオフィスや会議室の備品、または組織構成に関する�
 ## 🤔  cupboard との違いは？
 
 - **cabinet**：主にオフィスやキッチンなどで使う収納家具や、政府の閣僚を指す。
-- **[cupboard](/cupboard)**：家庭のキッチンや食器棚など、日常的な収納棚を指す。
+- **[cupboard](/word/cupboard)**：家庭のキッチンや食器棚など、日常的な収納棚を指す。
 
 cabinetはフォーマルな場やオフィスで使われることが多く、cupboardは家庭的でカジュアルな収納棚に使われます。
 
@@ -105,14 +105,14 @@ cabinetはフォーマルな場やオフィスで使われることが多く、c
 
 ## 🧩 あわせて覚えたい
 
-- [drawer](/drawer)：引き出し
-- [committee](/committee)：委員会
+- [drawer](/word/drawer)：引き出し
+- [committee](/word/committee)：委員会
 
 ---
 
 ## 📖 できればこれも
 
-- [desk](/desk)：机
-- [shelf](/shelf)：棚
+- [desk](/word/desk)：机
+- [shelf](/word/shelf)：棚
 
 <!-- cvid: aid25_bid47 -->

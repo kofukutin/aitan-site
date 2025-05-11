@@ -98,7 +98,7 @@ TOEICでは「participate in ～」の形で、会議やイベントへの参加
 ## 🤔  join との違いは？
 
 - **participate**：活動やイベントに積極的に「参加する」「関与する」ことを強調
-- **[join](/join)**：グループや組織に「加わる」「一緒になる」ことを表す
+- **[join](/word/join)**：グループや組織に「加わる」「一緒になる」ことを表す
 
 participateは「活動への積極的な関与」、joinは「グループや集まりに加わる」ことに重点があります。
 
@@ -106,14 +106,14 @@ participateは「活動への積極的な関与」、joinは「グループや�
 
 ## 🧩 あわせて覚えたい
 
-- [attend](/attend)：出席する（主にイベントや会議に物理的に行くこと）
-- [engage](/engage)：積極的に関わる、従事する
+- [attend](/word/attend)：出席する（主にイベントや会議に物理的に行くこと）
+- [engage](/word/engage)：積極的に関わる、従事する
 
 ---
 
 ## 📖 できればこれも
 
-- [contribute](/contribute)：貢献する
-- [collaborate](/collaborate)：協力する
+- [contribute](/word/contribute)：貢献する
+- [collaborate](/word/collaborate)：協力する
 
 <!-- cvid: aid09_bid48 -->

@@ -97,7 +97,7 @@ She is the anchor of the evening news program.
 ## 🤔  host との違いは？
 
 - **anchor**：ニュース番組などで中心となって進行するメイン司会者
-- **[host](/host)**：イベントや番組全般の司会者・主催者
+- **[host](/word/host)**：イベントや番組全般の司会者・主催者
 
 anchorは特にニュースや報道番組の進行役に使われ、hostは幅広いイベントや番組の司会者に使われます。
 
@@ -105,14 +105,14 @@ anchorは特にニュースや報道番組の進行役に使われ、hostは幅�
 
 ## 🧩 あわせて覚えたい
 
-- [presenter](/presenter)：番組やイベントの発表者・司会者
-- [reporter](/reporter)：現場からニュースを伝える記者
+- [presenter](/word/presenter)：番組やイベントの発表者・司会者
+- [reporter](/word/reporter)：現場からニュースを伝える記者
 
 ---
 
 ## 📖 できればこれも
 
-- [broadcast](/broadcast)：放送する
-- [segment](/segment)：番組の一部分、コーナー
+- [broadcast](/word/broadcast)：放送する
+- [segment](/word/segment)：番組の一部分、コーナー
 
 <!-- cvid: aid42_bid26 -->

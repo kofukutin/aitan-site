@@ -97,7 +97,7 @@ TOEICでは工場や製造業の説明文、技術職の求人広告などで見
 ## 🤔  soldering との違いは？
 
 - **welding**：高温で金属やプラスチックを溶かして強固に接合する技術。
-- **[soldering](/soldering)**：比較的低温で金属を溶かし、主に電子部品などを接合する技術。
+- **[soldering](/word/soldering)**：比較的低温で金属を溶かし、主に電子部品などを接合する技術。
 
 weldingは構造物や大型部品の強い接合に使われ、solderingは精密機器や電子回路の細かい接合に使われます。
 
@@ -105,13 +105,13 @@ weldingは構造物や大型部品の強い接合に使われ、solderingは精�
 
 ## 🧩 あわせて覚えたい
 
-- [fusion](/fusion)：融合、溶解
-- [cutting](/cutting)：切断
+- [fusion](/word/fusion)：融合、溶解
+- [cutting](/word/cutting)：切断
 
 ---
 
 ## 📖 できればこれも
 
-- [assembly](/assembly)：組み立て
-- [fabrication](/fabrication)：製造、組み立て
+- [assembly](/word/assembly)：組み立て
+- [fabrication](/word/fabrication)：製造、組み立て
 <!-- cvid: aid07_bid43 -->

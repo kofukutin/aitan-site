@@ -97,7 +97,7 @@ TOEICでは「悪質な」「意地悪な」といった否定的な意味で出
 ## 🤔  evil との違いは？
 
 - **wicked**：道徳的に悪い、意地悪な、または（口語で）「すごい」という意味も持つ
-- **[evil](/evil)**：本質的・絶対的な悪、極めて有害・有罪なもの
+- **[evil](/word/evil)**：本質的・絶対的な悪、極めて有害・有罪なもの
 
 「wicked」は行動や性格の悪さ、意地悪さを指し、時に冗談やスラングで「すごい」とも使われます。「evil」はより深刻で絶対的な悪を表します。
 
@@ -105,13 +105,13 @@ TOEICでは「悪質な」「意地悪な」といった否定的な意味で出
 
 ## 🧩 あわせて覚えたい
 
-- [cruel](/cruel)：残酷な、むごい
-- [malicious](/malicious)：悪意のある
+- [cruel](/word/cruel)：残酷な、むごい
+- [malicious](/word/malicious)：悪意のある
 
 ---
 
 ## 📖 できればこれも
 
-- [nasty](/nasty)：意地悪な、不快な
-- [sinister](/sinister)：不吉な、邪悪な
+- [nasty](/word/nasty)：意地悪な、不快な
+- [sinister](/word/sinister)：不吉な、邪悪な
 <!-- cvid: aid47_bid07 -->

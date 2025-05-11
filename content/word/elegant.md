@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や商品説明、プレゼン資料などで「
 ## 🤔  graceful との違いは？
 
 - **elegant**：上品さや洗練された美しさを強調し、デザインや考え方にも使える
-- **[graceful](/graceful)**：動きや姿勢が優雅で美しいことを表す
+- **[graceful](/word/graceful)**：動きや姿勢が優雅で美しいことを表す
 
 elegantは「洗練された美しさ」や「上品さ」に重点があり、gracefulは「動きや所作の美しさ」に使われることが多いです。
 
@@ -105,14 +105,14 @@ elegantは「洗練された美しさ」や「上品さ」に重点があり、g
 
 ## 🧩 あわせて覚えたい
 
-- [sophisticated](/sophisticated)：洗練された、教養のある
-- [simple](/simple)：シンプルな、簡素な
+- [sophisticated](/word/sophisticated)：洗練された、教養のある
+- [simple](/word/simple)：シンプルな、簡素な
 
 ---
 
 ## 📖 できればこれも
 
-- [stylish](/stylish)：おしゃれな、センスの良い
-- [attractive](/attractive)：魅力的な、惹きつける
+- [stylish](/word/stylish)：おしゃれな、センスの良い
+- [attractive](/word/attractive)：魅力的な、惹きつける
 
 <!-- cvid: aid11_bid02 -->

@@ -97,7 +97,7 @@ TOEICでは「到着する」「連絡を取る」などの意味で会話文や
 ## 🤔  arrive との違いは？
 
 - **reach**：目的地や目標に「到達する」ことを強調し、目的語を直接とる。
-- **[arrive](/arrive)**：到着の事実を表し、通常はatやinなどの前置詞と一緒に使う。
+- **[arrive](/word/arrive)**：到着の事実を表し、通常はatやinなどの前置詞と一緒に使う。
 
 reachは「努力してたどり着く」ニュアンスがあり、arriveは「到着した」という事実を淡々と述べる時に使います。
 
@@ -105,14 +105,14 @@ reachは「努力してたどり着く」ニュアンスがあり、arriveは「
 
 ## 🧩 あわせて覚えたい
 
-- [contact](/contact)：連絡する
-- [obtain](/obtain)：手に入れる
+- [contact](/word/contact)：連絡する
+- [obtain](/word/obtain)：手に入れる
 
 ---
 
 ## 📖 できればこれも
 
-- [send](/send)：送る
-- [receive](/receive)：受け取る
+- [send](/word/send)：送る
+- [receive](/word/receive)：受け取る
 
 <!-- cvid: aid04_bid45 -->

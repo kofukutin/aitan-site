@@ -97,7 +97,7 @@ TOEICでは、会議や議論の文脈で「意見をはっきり述べる」と
 ## 🤔  verbal との違いは？
 
 - **vocal**：声に出して意見をはっきり述べる、積極的に発言する
-- **[verbal](/verbal)**：言葉による、口頭の
+- **[verbal](/word/verbal)**：言葉による、口頭の
 
 「vocal」は声や発言の強さ・積極性に焦点があり、「verbal」は単に「言葉で」「口頭で」という形式的な意味です。
 
@@ -105,14 +105,14 @@ TOEICでは、会議や議論の文脈で「意見をはっきり述べる」と
 
 ## 🧩 あわせて覚えたい
 
-- [oral](/oral)：口頭の、口で行う
-- [outspoken](/outspoken)：率直な、遠慮なく意見を言う
+- [oral](/word/oral)：口頭の、口で行う
+- [outspoken](/word/outspoken)：率直な、遠慮なく意見を言う
 
 ---
 
 ## 📖 できればこれも
 
-- [active](/active)：積極的な、活動的な
-- [visible](/visible)：目に見える、明らかな
+- [active](/word/active)：積極的な、活動的な
+- [visible](/word/visible)：目に見える、明らかな
 
 <!-- cvid: aid49_bid46 -->

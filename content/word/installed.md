@@ -97,7 +97,7 @@ TOEICでは、ITやオフィス機器の設置・導入に関する会話や説�
 ## 🤔  set up との違いは？
 
 - **installed**：機器やソフトを正式に設置・導入したことを強調
-- **[set up](/set_up)**：準備や設定をして使える状態にすること全般
+- **[set up](/word/set_up)**：準備や設定をして使える状態にすること全般
 
 「installed」は特にITや機械の「設置・導入」にフォーカスし、「set up」は幅広く「準備・設定」全般に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、ITやオフィス機器の設置・導入に関する会話や説�
 
 ## 🧩 あわせて覚えたい
 
-- [remove](/remove)：取り外す、削除する
-- [update](/update)：更新する
+- [remove](/word/remove)：取り外す、削除する
+- [update](/word/update)：更新する
 
 ---
 
 ## 📖 できればこれも
 
-- [operate](/operate)：操作する、動かす
-- [connect](/connect)：接続する
+- [operate](/word/operate)：操作する、動かす
+- [connect](/word/connect)：接続する
 
 <!-- cvid: aid08_bid36 -->

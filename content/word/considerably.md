@@ -97,7 +97,7 @@ TOEICの長文読解パートで、変化の程度や比較を強調する表現
 ## 🤔  significantly との違いは？
 
 - **considerably**：数量や程度が「かなり」「相当に」大きいことを強調する。
-- **[significantly](/significantly)**：統計的・客観的に「有意に」「著しく」変化があることを強調する。
+- **[significantly](/word/significantly)**：統計的・客観的に「有意に」「著しく」変化があることを強調する。
 
 considerablyは主観的な「大きさ」を、significantlyは客観的・数値的な「重要な変化」を表す場面で使い分けます。
 
@@ -105,14 +105,14 @@ considerablyは主観的な「大きさ」を、significantlyは客観的・数�
 
 ## 🧩 あわせて覚えたい
 
-- [slightly](/slightly)：わずかに、少し
-- [greatly](/greatly)：非常に、大いに
+- [slightly](/word/slightly)：わずかに、少し
+- [greatly](/word/greatly)：非常に、大いに
 
 ---
 
 ## 📖 できればこれも
 
-- [relatively](/relatively)：比較的
-- [substantially](/substantially)：実質的に、かなり
+- [relatively](/word/relatively)：比較的
+- [substantially](/word/substantially)：実質的に、かなり
 
 <!-- cvid: aid43_bid48 -->

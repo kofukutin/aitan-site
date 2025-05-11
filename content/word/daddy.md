@@ -96,7 +96,7 @@ TOEICではPart 1の家族や日常生活の写真描写で、ごくまれに登
 ## 🤔  father との違いは？
 
 - **daddy**：子どもが使う、とても親しみのある「お父さん」
-- **[father](/father)**：フォーマルで一般的な「父」
+- **[father](/word/father)**：フォーマルで一般的な「父」
 
 daddyは幼い子どもや家族内で使うカジュアルな呼び方、fatherは書類やフォーマルな場面で使う正式な表現です。
 
@@ -104,14 +104,14 @@ daddyは幼い子どもや家族内で使うカジュアルな呼び方、father
 
 ## 🧩 あわせて覚えたい
 
-- [mommy](/mommy)：お母さん（子どもが使う呼び方）
-- [parent](/parent)：親
+- [mommy](/word/mommy)：お母さん（子どもが使う呼び方）
+- [parent](/word/parent)：親
 
 ---
 
 ## 📖 できればこれも
 
-- [mom](/mom)：お母さん
-- [child](/child)：子ども
+- [mom](/word/mom)：お母さん
+- [child](/word/child)：子ども
 
 <!-- cvid: aid48_bid35 -->

@@ -97,7 +97,7 @@ TOEICでは主に環境やエネルギーに関する長文で登場し、太陽
 ## 🤔  lunar との違いは？
 
 - **solar**：太陽の、太陽に関する
-- **[lunar](/lunar)**：月の、月に関する
+- **[lunar](/word/lunar)**：月の、月に関する
 
 solarは「太陽」に関する事柄、lunarは「月」に関する事柄を指します。天体やカレンダーの話題で使い分けます。
 
@@ -105,14 +105,14 @@ solarは「太陽」に関する事柄、lunarは「月」に関する事柄を�
 
 ## 🧩 あわせて覚えたい
 
-- [sun](/sun)：太陽
-- [photovoltaic](/photovoltaic)：光起電性の（太陽光発電の）
+- [sun](/word/sun)：太陽
+- [photovoltaic](/word/photovoltaic)：光起電性の（太陽光発電の）
 
 ---
 
 ## 📖 できればこれも
 
-- [planet](/planet)：惑星
-- [energy](/energy)：エネルギー
+- [planet](/word/planet)：惑星
+- [energy](/word/energy)：エネルギー
 
 <!-- cvid: aid18_bid17 -->

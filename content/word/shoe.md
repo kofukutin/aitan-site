@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、人物の服装や持ち物と
 ## 🤔  footwear との違いは？
 
 - **shoe**：個々の「靴」を指す最も一般的な単語。
-- **[footwear](/footwear)**：靴やサンダルなど「履物」全般を指すややフォーマルな表現。
+- **[footwear](/word/footwear)**：靴やサンダルなど「履物」全般を指すややフォーマルな表現。
 
 shoeは具体的な1足の靴を指し、footwearは全体的な履物をまとめて表現する時に使います。
 
@@ -105,14 +105,14 @@ shoeは具体的な1足の靴を指し、footwearは全体的な履物をまと�
 
 ## 🧩 あわせて覚えたい
 
-- [boot](/boot)：ブーツ（足首より上まで覆う靴）
-- [sneaker](/sneaker)：スニーカー（運動靴）
+- [boot](/word/boot)：ブーツ（足首より上まで覆う靴）
+- [sneaker](/word/sneaker)：スニーカー（運動靴）
 
 ---
 
 ## 📖 できればこれも
 
-- [sock](/sock)：靴下
-- [bag](/bag)：かばん
+- [sock](/word/sock)：靴下
+- [bag](/word/bag)：かばん
 
 <!-- cvid: aid48_bid38 -->

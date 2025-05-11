@@ -102,13 +102,13 @@ Februaryは2月、Januaryは1月を指し、カレンダー上で連続するが
 ## 🧩 あわせて覚えたい
 
 - [March](/March)：3月
-- [calendar](/calendar)：カレンダー、暦
+- [calendar](/word/calendar)：カレンダー、暦
 
 ---
 
 ## 📖 できればこれも
 
 - [Monday](/Monday)：月曜日
-- [holiday](/holiday)：祝日
+- [holiday](/word/holiday)：祝日
 
 <!-- cvid: aid48_bid08 -->

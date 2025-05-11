@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「新しい方法を探る」「現地を調査
 ## 🤔  investigating との違いは？
 
 - **exploring**：未知のものを積極的に探し求める、幅広く調べる
-- **[investigating](/investigating)**：原因や事実を詳しく調査する、徹底的に調べる
+- **[investigating](/word/investigating)**：原因や事実を詳しく調査する、徹底的に調べる
 
 exploringは「新しいものを探す」「可能性を模索する」など広い意味で使われ、investigatingは「問題や事件の原因を詳しく調べる」といった限定的・詳細な調査に使われます。
 
@@ -105,14 +105,14 @@ exploringは「新しいものを探す」「可能性を模索する」など�
 
 ## 🧩 あわせて覚えたい
 
-- [discover](/discover)：発見する
-- [survey](/survey)：調査する、アンケートをとる
+- [discover](/word/discover)：発見する
+- [survey](/word/survey)：調査する、アンケートをとる
 
 ---
 
 ## 📖 できればこれも
 
-- [examine](/examine)：詳しく調べる
-- [research](/research)：研究する、調査する
+- [examine](/word/examine)：詳しく調べる
+- [research](/word/research)：研究する、調査する
 
 <!-- cvid: aid38_bid46 -->

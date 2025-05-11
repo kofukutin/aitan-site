@@ -97,7 +97,7 @@ TOEICでは主に法務やビジネス関連の長文で「裁判所」「法廷
 ## 🤔  trial との違いは？
 
 - **court**：裁判が行われる場所や機関を指す
-- **[trial](/trial)**：裁判という「手続き」や「審理そのもの」を指す
+- **[trial](/word/trial)**：裁判という「手続き」や「審理そのもの」を指す
 
 courtは「場所・組織」、trialは「行為・過程」を表す点が異なります。
 
@@ -105,14 +105,14 @@ courtは「場所・組織」、trialは「行為・過程」を表す点が異�
 
 ## 🧩 あわせて覚えたい
 
-- [judge](/judge)：裁判官
-- [jury](/jury)：陪審員
+- [judge](/word/judge)：裁判官
+- [jury](/word/jury)：陪審員
 
 ---
 
 ## 📖 できればこれも
 
-- [case](/case)：事件、訴訟
-- [law](/law)：法律
+- [case](/word/case)：事件、訴訟
+- [law](/word/law)：法律
 
 <!-- cvid: aid25_bid23 -->

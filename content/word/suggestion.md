@@ -98,7 +98,7 @@ TOEICでは会議や相談の場面で「提案」や「助言」として頻出
 ## 🤔  advice との違いは？
 
 - **suggestion**：やんわりとした提案や意見
-- **[advice](/advice)**：より具体的で実践的な助言
+- **[advice](/word/advice)**：より具体的で実践的な助言
 
 suggestionは「こうしてみては？」という控えめな提案、adviceは「こうすべき」という強めの助言という違いがあります。
 
@@ -106,14 +106,14 @@ suggestionは「こうしてみては？」という控えめな提案、advice�
 
 ## 🧩 あわせて覚えたい
 
-- [recommendation](/recommendation)：推薦、勧め
-- [proposal](/proposal)：提案（より正式・具体的）
+- [recommendation](/word/recommendation)：推薦、勧め
+- [proposal](/word/proposal)：提案（より正式・具体的）
 
 ---
 
 ## 📖 できればこれも
 
-- [opinion](/opinion)：意見
-- [comment](/comment)：コメント、意見
+- [opinion](/word/opinion)：意見
+- [comment](/word/comment)：コメント、意見
 
 <!-- cvid: aid06_bid26 -->

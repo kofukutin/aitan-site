@@ -97,7 +97,7 @@ TOEICでは、職業や役割を説明する長文やEメール文中で登場�
 ## 🤔  consultant との違いは？
 
 - **counselor**：主に心理的・個人的な悩みや問題に対して助言やサポートを行う専門家。
-- **[consultant](/consultant)**：ビジネスや専門分野でのアドバイスや提案を行う専門家。
+- **[consultant](/word/consultant)**：ビジネスや専門分野でのアドバイスや提案を行う専門家。
 
 counselorは個人の心の問題や進路相談などに寄り添うイメージ、consultantは企業や組織向けの専門的なアドバイスを提供するイメージです。
 
@@ -105,14 +105,14 @@ counselorは個人の心の問題や進路相談などに寄り添うイメー�
 
 ## 🧩 あわせて覚えたい
 
-- [advisor](/advisor)：助言者、アドバイザー
-- [therapist](/therapist)：治療士、セラピスト
+- [advisor](/word/advisor)：助言者、アドバイザー
+- [therapist](/word/therapist)：治療士、セラピスト
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/client)：依頼人、顧客
-- [interview](/interview)：面接、インタビュー
+- [client](/word/client)：依頼人、顧客
+- [interview](/word/interview)：面接、インタビュー
 
 <!-- cvid: aid37_bid11 -->

@@ -97,7 +97,7 @@ TOEICではメールやウェブサイトの説明文、申込書などで「ID�
 ## 🤔  identity との違いは？
 
 - **id**：身分証明書や識別番号など、具体的な「証明」や「番号」を指す
-- **[identity](/identity)**：個人の「正体」や「身元」そのものを指す
+- **[identity](/word/identity)**：個人の「正体」や「身元」そのものを指す
 
 「id」は証明書や番号など物理的・具体的なもの、「identity」はその人自身の本質や身元を表します。
 
@@ -105,14 +105,14 @@ TOEICではメールやウェブサイトの説明文、申込書などで「ID�
 
 ## 🧩 あわせて覚えたい
 
-- [password](/password)：パスワード、暗証番号
-- [account](/account)：アカウント、口座
+- [password](/word/password)：パスワード、暗証番号
+- [account](/word/account)：アカウント、口座
 
 ---
 
 ## 📖 できればこれも
 
-- [code](/code)：コード、暗号、記号
-- [login](/login)：ログイン、ログインする
+- [code](/word/code)：コード、暗号、記号
+- [login](/word/login)：ログイン、ログインする
 
 <!-- cvid: aid19_bid33 -->

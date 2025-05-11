@@ -97,7 +97,7 @@ TOEICでは「have difficulty ～ing」や「technical difficulties」などの�
 ## 🤔  challenge との違いは？
 
 - **difficulty**：困難や障害そのもの、問題点を指す
-- **[challenge](/challenge)**：やりがいのある課題や挑戦、乗り越えるべき対象
+- **[challenge](/word/challenge)**：やりがいのある課題や挑戦、乗り越えるべき対象
 
 **difficulty**は「困難」や「問題」といったネガティブな意味合いが強く、**challenge**は「挑戦」や「やりがい」といった前向きなニュアンスがあります。
 
@@ -105,14 +105,14 @@ TOEICでは「have difficulty ～ing」や「technical difficulties」などの�
 
 ## 🧩 あわせて覚えたい
 
-- [problem](/problem)：問題、課題
-- [obstacle](/obstacle)：障害、妨げ
+- [problem](/word/problem)：問題、課題
+- [obstacle](/word/obstacle)：障害、妨げ
 
 ---
 
 ## 📖 できればこれも
 
-- [issue](/issue)：（議論すべき）問題
-- [solution](/solution)：解決策
+- [issue](/word/issue)：（議論すべき）問題
+- [solution](/word/solution)：解決策
 
 <!-- cvid: aid08_bid40 -->

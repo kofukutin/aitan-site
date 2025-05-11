@@ -97,7 +97,7 @@ TOEICでは経済やビジネス関連の長文で、価格や数値の変動を
 ## 🤔  vary との違いは？
 
 - **fluctuate**：数値や状態が上下に大きく変動することを強調
-- **[vary](/vary)**：幅広く異なる、または変わること全般を指す
+- **[vary](/word/vary)**：幅広く異なる、または変わること全般を指す
 
 fluctuateは「上がったり下がったり」を繰り返すニュアンスが強く、varyは単に違いがある・変わるという意味で使われます。
 
@@ -105,14 +105,14 @@ fluctuateは「上がったり下がったり」を繰り返すニュアンス�
 
 ## 🧩 あわせて覚えたい
 
-- [stabilize](/stabilize)：安定させる
-- [oscillate](/oscillate)：（規則的に）揺れ動く
+- [stabilize](/word/stabilize)：安定させる
+- [oscillate](/word/oscillate)：（規則的に）揺れ動く
 
 ---
 
 ## 📖 できればこれも
 
-- [decline](/decline)：減少する
-- [increase](/increase)：増加する
+- [decline](/word/decline)：減少する
+- [increase](/word/increase)：増加する
 
 <!-- cvid: aid45_bid24 -->

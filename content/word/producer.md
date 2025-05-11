@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や記事の中で「生産者」「製作者
 ## 🤔  manufacturer との違いは？
 
 - **producer**：広く「生産者」「製作者」を指し、農業・映画・音楽など多分野で使う
-- **[manufacturer](/manufacturer)**：主に工場などで「製造業者」「メーカー」を指す
+- **[manufacturer](/word/manufacturer)**：主に工場などで「製造業者」「メーカー」を指す
 
 「producer」は生産全般や創作分野にも使えますが、「manufacturer」は工業製品の製造業者に限定されることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは主にビジネス文書や記事の中で「生産者」「製作者
 
 ## 🧩 あわせて覚えたい
 
-- [supplier](/supplier)：供給業者
-- [director](/director)：監督、指導者
+- [supplier](/word/supplier)：供給業者
+- [director](/word/director)：監督、指導者
 
 ---
 
 ## 📖 できればこれも
 
-- [product](/product)：製品
-- [customer](/customer)：顧客
+- [product](/word/product)：製品
+- [customer](/word/customer)：顧客
 
 <!-- cvid: aid27_bid15 -->

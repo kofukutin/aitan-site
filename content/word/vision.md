@@ -97,7 +97,7 @@ TOEICでは企業理念や将来計画、プロジェクトの説明文などで
 ## 🤔  insight との違いは？
 
 - **vision**：将来の理想像や目標、または視覚そのものを指す
-- **[insight](/insight)**：物事の本質を見抜く洞察力や理解
+- **[insight](/word/insight)**：物事の本質を見抜く洞察力や理解
 
 「vision」は未来を見据えた大きな目標や構想を表し、「insight」は現状や問題の本質を深く理解する力を指します。
 
@@ -105,14 +105,14 @@ TOEICでは企業理念や将来計画、プロジェクトの説明文などで
 
 ## 🧩 あわせて覚えたい
 
-- [goal](/goal)：目標
-- [foresight](/foresight)：先見の明
+- [goal](/word/goal)：目標
+- [foresight](/word/foresight)：先見の明
 
 ---
 
 ## 📖 できればこれも
 
-- [mission](/mission)：使命、任務
-- [strategy](/strategy)：戦略
+- [mission](/word/mission)：使命、任務
+- [strategy](/word/strategy)：戦略
 
 <!-- cvid: aid13_bid08 -->

@@ -97,7 +97,7 @@ TOEICでは、広告や記事、アンケートなどで「10代向け」「10�
 ## 🤔  adolescent との違いは？
 
 - **teenage**：カジュアルで日常的に「10代の」という意味で使う形容詞。
-- **[adolescent](/adolescent)**：ややフォーマルで「思春期の」「青年期の」という意味で使う形容詞や名詞。
+- **[adolescent](/word/adolescent)**：ややフォーマルで「思春期の」「青年期の」という意味で使う形容詞や名詞。
 
 teenageは日常会話や広告でよく使われ、adolescentは医学・心理学やフォーマルな文脈で使われます。
 
@@ -105,14 +105,14 @@ teenageは日常会話や広告でよく使われ、adolescentは医学・心理
 
 ## 🧩 あわせて覚えたい
 
-- [youth](/youth)：若者、青春時代
-- [minor](/minor)：未成年
+- [youth](/word/youth)：若者、青春時代
+- [minor](/word/minor)：未成年
 
 ---
 
 ## 📖 できればこれも
 
-- [childish](/childish)：子供っぽい
-- [mature](/mature)：成熟した
+- [childish](/word/childish)：子供っぽい
+- [mature](/word/mature)：成熟した
 
 <!-- cvid: aid38_bid46 -->

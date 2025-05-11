@@ -97,7 +97,7 @@ TOEICでは科学や製品説明の文脈で見かけることがあり、特に
 ## 🤔  glue との違いは？
 
 - **gel**：ゼリー状や半固体の物質全般を指し、必ずしも接着目的ではない
-- **[glue](/glue)**：接着剤を意味し、物を貼り付ける用途に特化
+- **[glue](/word/glue)**：接着剤を意味し、物を貼り付ける用途に特化
 
 gelは物質の状態や形状を表し、glueは「接着する」という用途に特化しています。
 
@@ -105,14 +105,14 @@ gelは物質の状態や形状を表し、glueは「接着する」という用�
 
 ## 🧩 あわせて覚えたい
 
-- [liquid](/liquid)：液体
-- [solid](/solid)：固体
+- [liquid](/word/liquid)：液体
+- [solid](/word/solid)：固体
 
 ---
 
 ## 📖 できればこれも
 
-- [powder](/powder)：粉末
-- [paste](/paste)：ペースト状のもの
+- [powder](/word/powder)：粉末
+- [paste](/word/paste)：ペースト状のもの
 
 <!-- cvid: aid05_bid24 -->

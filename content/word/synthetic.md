@@ -97,7 +97,7 @@ TOEICでは、製品説明や科学技術に関する長文で「synthetic」が
 ## 🤔  artificial との違いは？
 
 - **synthetic**：化学的・人工的に合成されたものに使う（特に素材や薬品など）。
-- **[artificial](/artificial)**：自然ではなく人が作ったもの全般に使う（味や花など幅広い対象）。
+- **[artificial](/word/artificial)**：自然ではなく人が作ったもの全般に使う（味や花など幅広い対象）。
 
 syntheticは「合成」という科学的なニュアンスが強く、artificialは「人工的」という広い意味で使われます。
 
@@ -105,14 +105,14 @@ syntheticは「合成」という科学的なニュアンスが強く、artifici
 
 ## 🧩 あわせて覚えたい
 
-- [natural](/natural)：自然の、本来の
-- [manmade](/manmade)：人造の、人工の
+- [natural](/word/natural)：自然の、本来の
+- [manmade](/word/manmade)：人造の、人工の
 
 ---
 
 ## 📖 できればこれも
 
-- [chemical](/chemical)：化学的な、化学物質
-- [organic](/organic)：有機の、有機的な
+- [chemical](/word/chemical)：化学的な、化学物質
+- [organic](/word/organic)：有機の、有機的な
 
 <!-- cvid: aid00_bid08 -->

@@ -97,7 +97,7 @@ TOEICでは、企業や団体の活動が「全国的に」行われているこ
 ## 🤔  domestically との違いは？
 
 - **nationally**：国全体で、全国的に（国の範囲で広く）
-- **[domestically](/domestically)**：国内で（国外と対比して国内で）
+- **[domestically](/word/domestically)**：国内で（国外と対比して国内で）
 
 「nationally」は「全国的に広がる」ニュアンスが強く、domesticallyは「国外ではなく国内で」という対比的な意味合いが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは、企業や団体の活動が「全国的に」行われているこ
 
 ## 🧩 あわせて覚えたい
 
-- [internationally](/internationally)：国際的に、世界的に
-- [regionally](/regionally)：地域的に、地方で
+- [internationally](/word/internationally)：国際的に、世界的に
+- [regionally](/word/regionally)：地域的に、地方で
 
 ---
 
 ## 📖 できればこれも
 
-- [globally](/globally)：世界的に
-- [locally](/locally)：地元で、地域的に
+- [globally](/word/globally)：世界的に
+- [locally](/word/locally)：地元で、地域的に
 
 <!-- cvid: aid29_bid16 -->

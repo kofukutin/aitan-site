@@ -97,7 +97,7 @@ TOEICでは、医療や慈善活動に関する記事や案内文で「donor」�
 ## 🤔  sponsor との違いは？
 
 - **donor**：主にお金や物、臓器などを無償で提供する人や団体
-- **[sponsor](/sponsor)**：イベントや活動を資金援助する支援者（見返りや宣伝目的があることが多い）
+- **[sponsor](/word/sponsor)**：イベントや活動を資金援助する支援者（見返りや宣伝目的があることが多い）
 
 donorは「善意で与える人」、sponsorは「支援や宣伝目的で援助する人」という違いがあります。
 
@@ -105,14 +105,14 @@ donorは「善意で与える人」、sponsorは「支援や宣伝目的で援�
 
 ## 🧩 あわせて覚えたい
 
-- [recipient](/recipient)：受取人、受領者
-- [contributor](/contributor)：寄稿者、貢献者
+- [recipient](/word/recipient)：受取人、受領者
+- [contributor](/word/contributor)：寄稿者、貢献者
 
 ---
 
 ## 📖 できればこれも
 
-- [fund](/fund)：資金、基金
-- [charity](/charity)：慈善団体、慈善活動
+- [fund](/word/fund)：資金、基金
+- [charity](/word/charity)：慈善団体、慈善活動
 
 <!-- cvid: aid32_bid23 -->

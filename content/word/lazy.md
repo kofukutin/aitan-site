@@ -97,7 +97,7 @@ lazyは形容詞の語彙問題や、人物の性格を問う文脈で出題さ�
 ## 🤔  idle との違いは？
 
 - **lazy**：やる気がなく、積極的に何もしない怠惰な状態。
-- **[idle](/idle)**：何もしていないが、必ずしも怠けているとは限らない状態。
+- **[idle](/word/idle)**：何もしていないが、必ずしも怠けているとは限らない状態。
 
 lazyは「やるべきことをサボる」否定的なニュアンスが強く、idleは「手が空いている」など中立的な意味でも使われます。
 
@@ -105,14 +105,14 @@ lazyは「やるべきことをサボる」否定的なニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [diligent](/diligent)：勤勉な
-- [sluggish](/sluggish)：動きが鈍い、のろい
+- [diligent](/word/diligent)：勤勉な
+- [sluggish](/word/sluggish)：動きが鈍い、のろい
 
 ---
 
 ## 📖 できればこれも
 
-- [active](/active)：活動的な
-- [efficient](/efficient)：効率的な
+- [active](/word/active)：活動的な
+- [efficient](/word/efficient)：効率的な
 
 <!-- cvid: aid25_bid01 -->

@@ -97,7 +97,7 @@ undergroundは主に交通や移動に関する会話文で出題されます。
 ## 🤔  subway との違いは？
 
 - **underground**：主にイギリス英語で「地下鉄」を指す。一般的に「地下」や「地下組織」の意味もある。
-- **[subway](/subway)**：アメリカ英語で「地下鉄」を指す。イギリスでは「地下道」の意味になることも。
+- **[subway](/word/subway)**：アメリカ英語で「地下鉄」を指す。イギリスでは「地下道」の意味になることも。
 
 undergroundはイギリス英語で地下鉄、subwayはアメリカ英語で地下鉄を指します。国によって使い分けが必要です。
 
@@ -105,14 +105,14 @@ undergroundはイギリス英語で地下鉄、subwayはアメリカ英語で地
 
 ## 🧩 あわせて覚えたい
 
-- [tunnel](/tunnel)：トンネル
-- [metro](/metro)：地下鉄（主にヨーロッパで使用）
+- [tunnel](/word/tunnel)：トンネル
+- [metro](/word/metro)：地下鉄（主にヨーロッパで使用）
 
 ---
 
 ## 📖 できればこれも
 
-- [station](/station)：駅
-- [platform](/platform)：ホーム
+- [station](/word/station)：駅
+- [platform](/word/platform)：ホーム
 
 <!-- cvid: aid16_bid48 -->

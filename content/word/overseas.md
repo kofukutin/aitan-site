@@ -97,7 +97,7 @@ TOEICでは主にPart 7のメールや記事文中で「海外出張」「海外
 ## 🤔  abroad との違いは？
 
 - **overseas**：海を越えて海外へ、特にビジネスやフォーマルな文脈で使う
-- **[abroad](/abroad)**：海外へ、よりカジュアルで日常的な表現
+- **[abroad](/word/abroad)**：海外へ、よりカジュアルで日常的な表現
 
 overseasは「海を越えて」というニュアンスが強く、ビジネスや公式な場面で使われやすいのに対し、abroadは日常会話でよく使われます。
 
@@ -105,14 +105,14 @@ overseasは「海を越えて」というニュアンスが強く、ビジネス
 
 ## 🧩 あわせて覚えたい
 
-- [domestic](/domestic)：国内の
-- [international](/international)：国際的な
+- [domestic](/word/domestic)：国内の
+- [international](/word/international)：国際的な
 
 ---
 
 ## 📖 できればこれも
 
-- [foreign](/foreign)：外国の
-- [export](/export)：輸出する
+- [foreign](/word/foreign)：外国の
+- [export](/word/export)：輸出する
 
 <!-- cvid: aid41_bid30 -->

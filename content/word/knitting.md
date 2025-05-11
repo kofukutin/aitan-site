@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人物が編み物をしている場
 ## 🤔  weaving との違いは？
 
 - **knitting**：2本の針と糸でループを作りながら編む技法やその作品。
-- **[weaving](/weaving)**：縦糸と横糸を交差させて布を作る技法。
+- **[weaving](/word/weaving)**：縦糸と横糸を交差させて布を作る技法。
 
 knittingは針と糸でループを作る「編み物」、weavingは織機などで糸を交差させる「織物」と、作り方や出来上がるものが異なります。
 
@@ -105,14 +105,14 @@ knittingは針と糸でループを作る「編み物」、weavingは織機な�
 
 ## 🧩 あわせて覚えたい
 
-- [sewing](/sewing)：縫うこと、裁縫
-- [crochet](/crochet)：かぎ針編み
+- [sewing](/word/sewing)：縫うこと、裁縫
+- [crochet](/word/crochet)：かぎ針編み
 
 ---
 
 ## 📖 できればこれも
 
-- [needle](/needle)：針
-- [thread](/thread)：糸
+- [needle](/word/needle)：針
+- [thread](/word/thread)：糸
 
 <!-- cvid: aid02_bid02 -->

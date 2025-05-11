@@ -98,7 +98,7 @@ upgradeはITやビジネスの文脈で頻出し、特に「システムをア�
 ## 🤔  update との違いは？
 
 - **upgrade**：より高いレベルや性能に引き上げること（例：新機能追加や上位モデルへの変更）
-- **[update](/update)**：最新の状態にすること（例：情報やソフトを新しくする）
+- **[update](/word/update)**：最新の状態にすること（例：情報やソフトを新しくする）
 
 upgradeは「質や等級を上げる」ニュアンスが強く、updateは「新しい状態に保つ」意味で使い分けます。
 
@@ -106,14 +106,14 @@ upgradeは「質や等級を上げる」ニュアンスが強く、updateは「�
 
 ## 🧩 あわせて覚えたい
 
-- [improve](/improve)：改善する、より良くする
-- [enhance](/enhance)：高める、強化する
+- [improve](/word/improve)：改善する、より良くする
+- [enhance](/word/enhance)：高める、強化する
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/install)：インストールする、設置する
-- [replace](/replace)：取り替える、交換する
+- [install](/word/install)：インストールする、設置する
+- [replace](/word/replace)：取り替える、交換する
 
 <!-- cvid: aid35_bid27 -->

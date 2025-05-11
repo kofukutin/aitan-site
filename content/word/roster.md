@@ -97,7 +97,7 @@ TOEICでは、会社や団体の名簿やシフト表、担当者リストなど
 ## 🤔  schedule との違いは？
 
 - **roster**：特定の人やメンバーの一覧や当番表を指す
-- **[schedule](/schedule)**：予定や計画、時間割など「何をいつするか」を示す
+- **[schedule](/word/schedule)**：予定や計画、時間割など「何をいつするか」を示す
 
 rosterは「誰がいるか」「誰が担当か」のリスト、scheduleは「いつ何をするか」の時間的な計画を表します。
 
@@ -105,14 +105,14 @@ rosterは「誰がいるか」「誰が担当か」のリスト、scheduleは「
 
 ## 🧩 あわせて覚えたい
 
-- [list](/list)：一覧、リスト
-- [register](/register)：登録簿、名簿
+- [list](/word/list)：一覧、リスト
+- [register](/word/register)：登録簿、名簿
 
 ---
 
 ## 📖 できればこれも
 
-- [agenda](/agenda)：議題、議事日程
-- [assignment](/assignment)：割り当て、任務
+- [agenda](/word/agenda)：議題、議事日程
+- [assignment](/word/assignment)：割り当て、任務
 
 <!-- cvid: aid38_bid48 -->

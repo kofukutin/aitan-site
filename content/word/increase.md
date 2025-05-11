@@ -97,7 +97,7 @@ TOEICでは「増加する」「増やす」という意味で、主にビジネ
 ## 🤔  rise との違いは？
 
 - **increase**：数量や程度が「増える」「増やす」こと全般に使う。目的語をとって「～を増やす」と言える。
-- **[rise](/rise)**：主に「（自動的に）上昇する」「上がる」という意味で、目的語をとらない。
+- **[rise](/word/rise)**：主に「（自動的に）上昇する」「上がる」という意味で、目的語をとらない。
 
 increaseは「数値や量を意図的に増やす」場合にも使えますが、riseは「自然に上がる」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ increaseは「数値や量を意図的に増やす」場合にも使えますが
 
 ## 🧩 あわせて覚えたい
 
-- [decrease](/decrease)：減少する、減らす
-- [expand](/expand)：拡大する、広げる
+- [decrease](/word/decrease)：減少する、減らす
+- [expand](/word/expand)：拡大する、広げる
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/improve)：改善する、良くする
-- [reduce](/reduce)：減らす
+- [improve](/word/improve)：改善する、良くする
+- [reduce](/word/reduce)：減らす
 
 <!-- cvid: aid16_bid15 -->

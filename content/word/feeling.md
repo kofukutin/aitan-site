@@ -97,7 +97,7 @@ TOEICでは会話や意見交換の場面で「気持ち」や「感覚」を表
 ## 🤔  emotion との違いは？
 
 - **feeling**：日常的な気持ちや感覚、比較的軽い感情も含む
-- **[emotion](/emotion)**：より強く深い感情、心理的な動きを指す
+- **[emotion](/word/emotion)**：より強く深い感情、心理的な動きを指す
 
 「feeling」は日常のちょっとした気持ちや感覚も表せますが、「emotion」は心の奥深くから湧き上がる強い感情に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは会話や意見交換の場面で「気持ち」や「感覚」を表
 
 ## 🧩 あわせて覚えたい
 
-- [opinion](/opinion)：意見
-- [sensation](/sensation)：感覚、知覚
+- [opinion](/word/opinion)：意見
+- [sensation](/word/sensation)：感覚、知覚
 
 ---
 
 ## 📖 できればこれも
 
-- [thought](/thought)：考え、思考
-- [mood](/mood)：気分、雰囲気
+- [thought](/word/thought)：考え、思考
+- [mood](/word/mood)：気分、雰囲気
 
 <!-- cvid: aid24_bid40 -->

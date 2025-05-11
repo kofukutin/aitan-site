@@ -97,7 +97,7 @@ TOEICでは、科学や技術、教育関連の長文や説明文で見かける
 ## 🤔  arithmetic との違いは？
 
 - **mathematical**：数学全般や理論、抽象的な内容にも使える幅広い形容詞
-- **[arithmetic](/arithmetic)**：主に「算数」「計算」に関する具体的な内容に使う形容詞
+- **[arithmetic](/word/arithmetic)**：主に「算数」「計算」に関する具体的な内容に使う形容詞
 
 **mathematical**は数学全体や理論的な話題に使い、**arithmetic**は計算や数の操作など、より基本的で具体的な算数に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、科学や技術、教育関連の長文や説明文で見かける
 
 ## 🧩 あわせて覚えたい
 
-- [scientific](/scientific)：科学的な
-- [theoretical](/theoretical)：理論的な
+- [scientific](/word/scientific)：科学的な
+- [theoretical](/word/theoretical)：理論的な
 
 ---
 
 ## 📖 できればこれも
 
-- [logical](/logical)：論理的な
-- [statistical](/statistical)：統計的な
+- [logical](/word/logical)：論理的な
+- [statistical](/word/statistical)：統計的な
 
 <!-- cvid: aid40_bid29 -->

@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「増加している」「成長している」
 ## 🤔  increasing との違いは？
 
 - **growing**：自然な成長や徐々に増えている様子を強調
-- **[increasing](/increasing)**：数量や程度が単純に増加していることを強調
+- **[increasing](/word/increasing)**：数量や程度が単純に増加していることを強調
 
 「growing」は発展や成長のニュアンスがあり、「increasing」は単に数や量が増えることに焦点を当てます。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「増加している」「成長している」
 
 ## 🧩 あわせて覚えたい
 
-- [expanding](/expanding)：拡大している
-- [developing](/developing)：発展している
+- [expanding](/word/expanding)：拡大している
+- [developing](/word/developing)：発展している
 
 ---
 
 ## 📖 できればこれも
 
-- [rising](/rising)：上昇している
-- [improving](/improving)：改善している
+- [rising](/word/rising)：上昇している
+- [improving](/word/improving)：改善している
 
 <!-- cvid: aid33_bid37 -->

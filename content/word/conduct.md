@@ -97,7 +97,7 @@ TOEICでは「調査を実施する」「会議を行う」などの意味で、
 ## 🤔  manage との違いは？
 
 - **conduct**：調査や会議などを「実施する」「進行する」意味で、ややフォーマル。
-- **[manage](/manage)**：物事や人を「管理する」「うまく扱う」意味で、幅広い場面で使う。
+- **[manage](/word/manage)**：物事や人を「管理する」「うまく扱う」意味で、幅広い場面で使う。
 
 conductは「何かを計画的に行う」ニュアンスが強く、manageは「うまくやりくりする」「管理する」場面で使います。
 
@@ -105,14 +105,14 @@ conductは「何かを計画的に行う」ニュアンスが強く、manageは�
 
 ## 🧩 あわせて覚えたい
 
-- [supervise](/supervise)：監督する、指導する
-- [organize](/organize)：整理する、計画する
+- [supervise](/word/supervise)：監督する、指導する
+- [organize](/word/organize)：整理する、計画する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/arrange)：手配する、準備する
-- [lead](/lead)：導く、指導する
+- [arrange](/word/arrange)：手配する、準備する
+- [lead](/word/lead)：導く、指導する
 
 <!-- cvid: aid44_bid44 -->

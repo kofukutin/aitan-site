@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、果物や飲み物の説明として
 ## 🤔  lemon との違いは？
 
 - **lime**：緑色で小さめの柑橘類。酸味が強く、料理や飲み物によく使われる。
-- **[lemon](/lemon)**：黄色でやや大きめの柑橘類。酸味はあるが、ライムよりややマイルド。
+- **[lemon](/word/lemon)**：黄色でやや大きめの柑橘類。酸味はあるが、ライムよりややマイルド。
 
 limeは緑色でより酸味が強く、lemonは黄色でやや甘みがあるなど、色や味、用途に違いがあります。
 
@@ -105,14 +105,14 @@ limeは緑色でより酸味が強く、lemonは黄色でやや甘みがある�
 
 ## 🧩 あわせて覚えたい
 
-- [orange](/orange)：オレンジ（柑橘類の一種）
-- [grapefruit](/grapefruit)：グレープフルーツ（大きめの柑橘類）
+- [orange](/word/orange)：オレンジ（柑橘類の一種）
+- [grapefruit](/word/grapefruit)：グレープフルーツ（大きめの柑橘類）
 
 ---
 
 ## 📖 できればこれも
 
-- [lemonade](/lemonade)：レモネード（レモンの飲み物）
-- [fruit](/fruit)：果物
+- [lemonade](/word/lemonade)：レモネード（レモンの飲み物）
+- [fruit](/word/fruit)：果物
 
 <!-- cvid: aid11_bid42 -->

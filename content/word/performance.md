@@ -97,7 +97,7 @@ TOEICではビジネスの成果や業績、またはイベントの上演など
 ## 🤔  achievement との違いは？
 
 - **performance**：実際の行動や活動の「成果」や「実績」、または「演奏」「上演」などの行為自体を指す
-- **[achievement](/achievement)**：努力の結果として得られた「達成」「功績」を指す
+- **[achievement](/word/achievement)**：努力の結果として得られた「達成」「功績」を指す
 
 performanceは過程や行動の質・結果に焦点があり、achievementは目標を達成した「到達点」に重点があります。
 
@@ -105,14 +105,14 @@ performanceは過程や行動の質・結果に焦点があり、achievementは�
 
 ## 🧩 あわせて覚えたい
 
-- [result](/result)：結果
-- [presentation](/presentation)：発表、プレゼンテーション
+- [result](/word/result)：結果
+- [presentation](/word/presentation)：発表、プレゼンテーション
 
 ---
 
 ## 📖 できればこれも
 
-- [efficiency](/efficiency)：効率
-- [progress](/progress)：進歩
+- [efficiency](/word/efficiency)：効率
+- [progress](/word/progress)：進歩
 
 <!-- cvid: aid44_bid47 -->

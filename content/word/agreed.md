@@ -97,7 +97,7 @@ TOEICでは会議やビジネスのやりとりで「合意事項」や「同意
 ## 🤔  accepted との違いは？
 
 - **agreed**：複数人や組織が話し合いの上で「合意した」「同意した」状態を表す。
-- **[accepted](/accepted)**：受け入れられた、承認されたという意味で、必ずしも話し合いによる合意を含まない。
+- **[accepted](/word/accepted)**：受け入れられた、承認されたという意味で、必ずしも話し合いによる合意を含まない。
 
 「agreed」は協議や交渉の結果としての合意を強調し、「accepted」は単に受け入れられた事実を表します。
 
@@ -105,14 +105,14 @@ TOEICでは会議やビジネスのやりとりで「合意事項」や「同意
 
 ## 🧩 あわせて覚えたい
 
-- [approved](/approved)：承認された
-- [confirmed](/confirmed)：確認された
+- [approved](/word/approved)：承認された
+- [confirmed](/word/confirmed)：確認された
 
 ---
 
 ## 📖 できればこれも
 
-- [final](/final)：最終の
-- [pending](/pending)：保留中の
+- [final](/word/final)：最終の
+- [pending](/word/pending)：保留中の
 
 <!-- cvid: aid09_bid08 -->

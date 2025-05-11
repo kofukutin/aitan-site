@@ -97,7 +97,7 @@ TOEICではITやビジネス文書で「protected area」「protected file」な
 ## 🤔  secure との違いは？
 
 - **protected**：外部からの危険や不正から守られている状態を強調
-- **[secure](/secure)**：安全であること、危険がないことを強調
+- **[secure](/word/secure)**：安全であること、危険がないことを強調
 
 「protected」は「何かによって守られている」ニュアンスが強く、secureは「安全で安心できる」状態を指します。
 
@@ -105,14 +105,14 @@ TOEICではITやビジネス文書で「protected area」「protected file」な
 
 ## 🧩 あわせて覚えたい
 
-- [restricted](/restricted)：制限された
-- [confidential](/confidential)：機密の
+- [restricted](/word/restricted)：制限された
+- [confidential](/word/confidential)：機密の
 
 ---
 
 ## 📖 できればこれも
 
-- [accessible](/accessible)：アクセス可能な
-- [authorized](/authorized)：認可された
+- [accessible](/word/accessible)：アクセス可能な
+- [authorized](/word/authorized)：認可された
 
 <!-- cvid: aid03_bid41 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、人物の写真や肖像画を
 ## 🤔  photograph との違いは？
 
 - **portrait**：人物を主に描いた絵や写真、またはその表現
-- **[photograph](/photograph)**：写真全般（人物・風景・物など問わず）
+- **[photograph](/word/photograph)**：写真全般（人物・風景・物など問わず）
 
 portraitは「人物」に焦点を当てた表現で、photographは被写体を問わず写真全般を指します。
 
@@ -105,14 +105,14 @@ portraitは「人物」に焦点を当てた表現で、photographは被写体�
 
 ## 🧩 あわせて覚えたい
 
-- [landscape](/landscape)：風景画、風景写真
-- [profile](/profile)：横顔、人物紹介
+- [landscape](/word/landscape)：風景画、風景写真
+- [profile](/word/profile)：横顔、人物紹介
 
 ---
 
 ## 📖 できればこれも
 
-- [picture](/picture)：絵、写真、画像
-- [drawing](/drawing)：線画、スケッチ
+- [picture](/word/picture)：絵、写真、画像
+- [drawing](/word/drawing)：線画、スケッチ
 
 <!-- cvid: aid45_bid03 -->

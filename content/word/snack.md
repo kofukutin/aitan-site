@@ -97,7 +97,7 @@ TOEICでは会議や休憩、イベントの案内などで「軽食が出ます
 ## 🤔  refreshment との違いは？
 
 - **snack**：小腹を満たすための軽食やおやつ。カジュアルな場面でよく使う。
-- **[refreshment](/refreshment)**：飲み物や軽食全般を指し、フォーマルな場面や案内で使われやすい。
+- **[refreshment](/word/refreshment)**：飲み物や軽食全般を指し、フォーマルな場面や案内で使われやすい。
 
 snackは「おやつ感」が強く、refreshmentは「飲み物も含む軽い飲食物」という広い意味で、フォーマルな印象があります。
 
@@ -105,14 +105,14 @@ snackは「おやつ感」が強く、refreshmentは「飲み物も含む軽い�
 
 ## 🧩 あわせて覚えたい
 
-- [meal](/meal)：食事
-- [treat](/treat)：ごちそう、おやつ
+- [meal](/word/meal)：食事
+- [treat](/word/treat)：ごちそう、おやつ
 
 ---
 
 ## 📖 できればこれも
 
-- [lunch](/lunch)：昼食
-- [breakfast](/breakfast)：朝食
+- [lunch](/word/lunch)：昼食
+- [breakfast](/word/breakfast)：朝食
 
 <!-- cvid: aid07_bid03 -->

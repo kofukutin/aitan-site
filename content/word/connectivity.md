@@ -97,7 +97,7 @@ ITやビジネスの文脈で、ネットワークやシステムの説明文中
 ## 🤔  connection との違いは？
 
 - **connectivity**：ネットワークやシステムなどの「接続性」や「つながりやすさ」を表す
-- **[connection](/connection)**：物理的・人的な「つながり」や「接続」そのものを指す
+- **[connection](/word/connection)**：物理的・人的な「つながり」や「接続」そのものを指す
 
 connectivityは「どれだけつながりやすいか」という性質を表し、connectionは「実際のつながり」や「接続点」を指します。
 
@@ -105,14 +105,14 @@ connectivityは「どれだけつながりやすいか」という性質を表�
 
 ## 🧩 あわせて覚えたい
 
-- [network](/network)：ネットワーク、通信網
-- [access](/access)：アクセス、接続すること
+- [network](/word/network)：ネットワーク、通信網
+- [access](/word/access)：アクセス、接続すること
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/device)：機器、デバイス
-- [signal](/signal)：信号、電波
+- [device](/word/device)：機器、デバイス
+- [signal](/word/signal)：信号、電波
 
 <!-- cvid: aid29_bid19 -->

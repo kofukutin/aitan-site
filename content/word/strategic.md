@@ -97,7 +97,7 @@ TOEICではビジネス文書や会議の議事録、企業戦略に関する長
 ## 🤔  tactical との違いは？
 
 - **strategic**：全体の目標や長期的な計画に関わる「戦略的な」
-- **[tactical](/tactical)**：具体的な方法や短期的な手段に関わる「戦術的な」
+- **[tactical](/word/tactical)**：具体的な方法や短期的な手段に関わる「戦術的な」
 
 strategicは「大きな方向性や長期的な視点」、tacticalは「具体的な手段や短期的な行動」に使い分けます。
 
@@ -105,14 +105,14 @@ strategicは「大きな方向性や長期的な視点」、tacticalは「具体
 
 ## 🧩 あわせて覚えたい
 
-- [plan](/plan)：計画
-- [policy](/policy)：方針
+- [plan](/word/plan)：計画
+- [policy](/word/policy)：方針
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/efficient)：効率的な
-- [objective](/objective)：目標、目的
+- [efficient](/word/efficient)：効率的な
+- [objective](/word/objective)：目標、目的
 
 <!-- cvid: aid08_bid19 -->

@@ -97,7 +97,7 @@ TOEICでは会議やビジネスの場面で「新しい制度や商品を導入
 ## 🤔  presented との違いは？
 
 - **introduced**：新しいものや人を初めて知らせたり導入したりすること
-- **[presented](/presented)**：情報や物を正式に提示・発表すること
+- **[presented](/word/presented)**：情報や物を正式に提示・発表すること
 
 「introduced」は「初めて登場させる・導入する」ニュアンスが強く、「presented」は「見せる・発表する」ことに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは会議やビジネスの場面で「新しい制度や商品を導入
 
 ## 🧩 あわせて覚えたい
 
-- [launch](/launch)：（新商品などを）発売する、開始する
-- [announce](/announce)：発表する、公表する
+- [launch](/word/launch)：（新商品などを）発売する、開始する
+- [announce](/word/announce)：発表する、公表する
 
 ---
 
 ## 📖 できればこれも
 
-- [explain](/explain)：説明する
-- [suggest](/suggest)：提案する
+- [explain](/word/explain)：説明する
+- [suggest](/word/suggest)：提案する
 
 <!-- cvid: aid46_bid39 -->

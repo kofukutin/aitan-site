@@ -103,14 +103,14 @@ mustは「自分がそう思うから絶対必要」と感じる時に使い、h
 
 ## 🧩 あわせて覚えたい
 
-- [should](/should)：～すべき（義務だがmustより弱い）
-- [need](/need)：～する必要がある
+- [should](/word/should)：～すべき（義務だがmustより弱い）
+- [need](/word/need)：～する必要がある
 
 ---
 
 ## 📖 できればこれも
 
-- [may](/may)：～かもしれない、～してもよい
-- [can](/can)：～できる
+- [may](/word/may)：～かもしれない、～してもよい
+- [can](/word/can)：～できる
 
 <!-- cvid: aid19_bid45 -->

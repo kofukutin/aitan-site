@@ -97,7 +97,7 @@ TOEICでは会議や調査、プロジェクトの進行など、ビジネスシ
 ## 🤔  leading との違いは？
 
 - **conducting**：全体をまとめて進行・実施することに重点がある
-- **[leading](/leading)**：先頭に立って導く、リーダーシップを発揮することに重点がある
+- **[leading](/word/leading)**：先頭に立って導く、リーダーシップを発揮することに重点がある
 
 conductingは「運営・進行・実施」に焦点があり、leadingは「先導・指導」に焦点があります。
 
@@ -105,14 +105,14 @@ conductingは「運営・進行・実施」に焦点があり、leadingは「先
 
 ## 🧩 あわせて覚えたい
 
-- [manage](/manage)：管理する、運営する
-- [supervise](/supervise)：監督する、指導する
+- [manage](/word/manage)：管理する、運営する
+- [supervise](/word/supervise)：監督する、指導する
 
 ---
 
 ## 📖 できればこれも
 
-- [organize](/organize)：組織する、まとめる
-- [coordinate](/coordinate)：調整する、連携する
+- [organize](/word/organize)：組織する、まとめる
+- [coordinate](/word/coordinate)：調整する、連携する
 
 <!-- cvid: aid46_bid39 -->

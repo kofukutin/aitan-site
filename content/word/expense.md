@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やメール、経費精算に関する話題
 ## 🤔  cost との違いは？
 
 - **expense**：主にビジネスや会計で使われる「費用」「出費」を指し、公式なニュアンスが強い。
-- **[cost](/cost)**：一般的に「かかるお金・コスト」を指し、日常会話からビジネスまで幅広く使われる。
+- **[cost](/word/cost)**：一般的に「かかるお金・コスト」を指し、日常会話からビジネスまで幅広く使われる。
 
 expenseは経費や会計処理などフォーマルな場面で使われることが多く、costはより広い意味で「かかるお金」全般に使われます。
 
@@ -105,14 +105,14 @@ expenseは経費や会計処理などフォーマルな場面で使われるこ�
 
 ## 🧩 あわせて覚えたい
 
-- [expenditure](/expenditure)：支出、出費
-- [income](/income)：収入
+- [expenditure](/word/expenditure)：支出、出費
+- [income](/word/income)：収入
 
 ---
 
 ## 📖 できればこれも
 
-- [budget](/budget)：予算
-- [receipt](/receipt)：領収書
+- [budget](/word/budget)：予算
+- [receipt](/word/receipt)：領収書
 
 <!-- cvid: aid31_bid41 -->

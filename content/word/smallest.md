@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写や、比較・最上級を問う文法問
 ## 🤔  least との違いは？
 
 - **smallest**：大きさや量が「最も小さい」ことを表す最上級の形容詞。
-- **[least](/least)**：程度や重要性などが「最も少ない」「最も低い」ことを表す形容詞・副詞。
+- **[least](/word/least)**：程度や重要性などが「最も少ない」「最も低い」ことを表す形容詞・副詞。
 
 smallestは物理的な大きさや数量に使い、leastは抽象的な程度や重要性などに使います。
 
@@ -105,14 +105,14 @@ smallestは物理的な大きさや数量に使い、leastは抽象的な程度�
 
 ## 🧩 あわせて覚えたい
 
-- [tiny](/tiny)：とても小さい
-- [minor](/minor)：重要でない、小さい（規模や重要性が小さい）
+- [tiny](/word/tiny)：とても小さい
+- [minor](/word/minor)：重要でない、小さい（規模や重要性が小さい）
 
 ---
 
 ## 📖 できればこれも
 
-- [shortest](/shortest)：最も短い
-- [largest](/largest)：最も大きい
+- [shortest](/word/shortest)：最も短い
+- [largest](/word/largest)：最も大きい
 
 <!-- cvid: aid03_bid27 -->

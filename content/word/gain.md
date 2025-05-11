@@ -98,7 +98,7 @@ gainはTOEICの語彙問題やビジネス文脈で頻出です。特に「利�
 ## 🤔  obtain との違いは？
 
 - **gain**：努力や変化を通じて得る、増やす（成果・利益・知識など幅広い対象）
-- **[obtain](/obtain)**：主に「手続きや方法によって手に入れる」、ややフォーマル
+- **[obtain](/word/obtain)**：主に「手続きや方法によって手に入れる」、ややフォーマル
 
 gainは「成長」や「進歩」のニュアンスがあり、obtainは「入手」や「取得」といった事務的な場面で使われることが多いです。
 
@@ -106,14 +106,14 @@ gainは「成長」や「進歩」のニュアンスがあり、obtainは「入�
 
 ## 🧩 あわせて覚えたい
 
-- [lose](/lose)：失う
-- [acquire](/acquire)：（努力して）習得する
+- [lose](/word/lose)：失う
+- [acquire](/word/acquire)：（努力して）習得する
 
 ---
 
 ## 📖 できればこれも
 
-- [achieve](/achieve)：達成する
-- [improve](/improve)：改善する
+- [achieve](/word/achieve)：達成する
+- [improve](/word/improve)：改善する
 
 <!-- cvid: aid09_bid17 -->

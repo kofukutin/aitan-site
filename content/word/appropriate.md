@@ -98,7 +98,7 @@ TOEICではPart 5の語彙問題や、ビジネスメール文中で「適切な
 ## 🤔  proper との違いは？
 
 - **appropriate**：状況や目的に合っていて「適切な」「ふさわしい」
-- **[proper](/proper)**：社会的・道徳的に「正しい」「きちんとした」
+- **[proper](/word/proper)**：社会的・道徳的に「正しい」「きちんとした」
 
 「appropriate」は状況や目的への適合性を重視し、「proper」は社会的規範やマナーに合っていることを強調します。
 
@@ -106,14 +106,14 @@ TOEICではPart 5の語彙問題や、ビジネスメール文中で「適切な
 
 ## 🧩 あわせて覚えたい
 
-- [suitable](/suitable)：適している、合っている
-- [inappropriate](/inappropriate)：不適切な
+- [suitable](/word/suitable)：適している、合っている
+- [inappropriate](/word/inappropriate)：不適切な
 
 ---
 
 ## 📖 できればこれも
 
-- [adequate](/adequate)：十分な、適切な
-- [relevant](/relevant)：関連する、適切な
+- [adequate](/word/adequate)：十分な、適切な
+- [relevant](/word/relevant)：関連する、適切な
 
 <!-- cvid: aid09_bid10 -->

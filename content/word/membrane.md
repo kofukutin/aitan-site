@@ -96,7 +96,7 @@ TOEICでは科学や医療、技術系の長文で登場することが多く、
 ## 🤔  layer との違いは？
 
 - **membrane**：生物や物質の内部・外部を覆う薄い膜や仕切り
-- **[layer](/layer)**：層、重なり。厚さや重なりを強調し、膜状でなくても使う
+- **[layer](/word/layer)**：層、重なり。厚さや重なりを強調し、膜状でなくても使う
 
 membraneは主に生物や科学分野で「膜」という意味で使われ、layerは「層」として幅広い場面で使われます。
 
@@ -104,14 +104,14 @@ membraneは主に生物や科学分野で「膜」という意味で使われ、
 
 ## 🧩 あわせて覚えたい
 
-- [barrier](/barrier)：障壁、バリア
-- [tissue](/tissue)：組織（生物の細胞の集まり）
+- [barrier](/word/barrier)：障壁、バリア
+- [tissue](/word/tissue)：組織（生物の細胞の集まり）
 
 ---
 
 ## 📖 できればこれも
 
-- [organ](/organ)：器官、臓器
-- [structure](/structure)：構造、仕組み
+- [organ](/word/organ)：器官、臓器
+- [structure](/word/structure)：構造、仕組み
 
 <!-- cvid: aid04_bid32 -->

@@ -97,7 +97,7 @@ TOEICでは都市インフラや環境問題、建設関連の説明文で登場
 ## 🤔  drain との違いは？
 
 - **sewer**：都市や建物の汚水・雨水を運ぶ地下の大きな下水道
-- **[drain](/drain)**：水を排出するための溝や小さな排水管
+- **[drain](/word/drain)**：水を排出するための溝や小さな排水管
 
 sewerは大規模な下水道全体を指し、drainは道路や建物の排水口など小規模な排水路を指します。
 
@@ -105,14 +105,14 @@ sewerは大規模な下水道全体を指し、drainは道路や建物の排水�
 
 ## 🧩 あわせて覚えたい
 
-- [pipeline](/pipeline)：パイプライン、配管
-- [wastewater](/wastewater)：廃水、汚水
+- [pipeline](/word/pipeline)：パイプライン、配管
+- [wastewater](/word/wastewater)：廃水、汚水
 
 ---
 
 ## 📖 できればこれも
 
-- [garbage](/garbage)：ごみ
-- [pipe](/pipe)：管、パイプ
+- [garbage](/word/garbage)：ごみ
+- [pipe](/word/pipe)：管、パイプ
 
 <!-- cvid: aid17_bid20 -->

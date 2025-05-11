@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、スポーツや遊びの場面を説
 ## 🤔  sphere との違いは？
 
 - **ball**：スポーツや遊びで使う「ボール」、または球状の物体
-- **[sphere](/sphere)**：数学や科学で使う「球体」、形状そのもの
+- **[sphere](/word/sphere)**：数学や科学で使う「球体」、形状そのもの
 
 ballは実際に使う物体や遊具を指し、sphereは「球体」という抽象的・学術的な形状を表します。
 
@@ -105,14 +105,14 @@ ballは実際に使う物体や遊具を指し、sphereは「球体」という�
 
 ## 🧩 あわせて覚えたい
 
-- [circle](/circle)：円、丸
-- [cube](/cube)：立方体
+- [circle](/word/circle)：円、丸
+- [cube](/word/cube)：立方体
 
 ---
 
 ## 📖 できればこれも
 
-- [game](/game)：ゲーム、試合
-- [team](/team)：チーム
+- [game](/word/game)：ゲーム、試合
+- [team](/word/team)：チーム
 
 <!-- cvid: aid37_bid16 -->

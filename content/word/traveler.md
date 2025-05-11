@@ -97,7 +97,7 @@ TOEICでは空港やホテル、旅行関連の長文や案内文でよく登場
 ## 🤔  tourist との違いは？
 
 - **traveler**：旅行者全般を指し、観光・出張・冒険など幅広い目的で旅をする人。
-- **[tourist](/tourist)**：観光目的で旅をする人。
+- **[tourist](/word/tourist)**：観光目的で旅をする人。
 
 travelerは「旅をする人」全般、touristは「観光客」として使い分けます。出張や長期滞在の場合はtravelerが自然です。
 
@@ -105,14 +105,14 @@ travelerは「旅をする人」全般、touristは「観光客」として使�
 
 ## 🧩 あわせて覚えたい
 
-- [commuter](/commuter)：通勤者
-- [passenger](/passenger)：乗客
+- [commuter](/word/commuter)：通勤者
+- [passenger](/word/passenger)：乗客
 
 ---
 
 ## 📖 できればこれも
 
-- [journey](/journey)：旅、道のり
-- [trip](/trip)：（短期間の）旅行
+- [journey](/word/journey)：旅、道のり
+- [trip](/word/trip)：（短期間の）旅行
 
 <!-- cvid: aid49_bid04 -->

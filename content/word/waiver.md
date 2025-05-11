@@ -97,7 +97,7 @@ Please submit the waiver form to HR by Friday.
 ## 🤔  exemption との違いは？
 
 - **waiver**：自発的に権利や請求を放棄すること、またはその証書
-- **[exemption](/exemption)**：義務や規則からの免除、免責
+- **[exemption](/word/exemption)**：義務や規則からの免除、免責
 
 waiverは「自分の権利を放棄する」ニュアンスが強く、exemptionは「外部から免除される」意味合いが中心です。
 
@@ -105,14 +105,14 @@ waiverは「自分の権利を放棄する」ニュアンスが強く、exemptio
 
 ## 🧩 あわせて覚えたい
 
-- [consent](/consent)：同意、承諾
-- [release](/release)：解除、解放
+- [consent](/word/consent)：同意、承諾
+- [release](/word/release)：解除、解放
 
 ---
 
 ## 📖 できればこれも
 
-- [clause](/clause)：条項、節
-- [agreement](/agreement)：合意、契約
+- [clause](/word/clause)：条項、節
+- [agreement](/word/agreement)：合意、契約
 
 <!-- cvid: aid17_bid03 -->

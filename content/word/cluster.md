@@ -97,7 +97,7 @@ clusterはITやビジネス分野の説明文や記事で見かけることが�
 ## 🤔  group との違いは？
 
 - **cluster**：同種のものが密集している集まりや群れ
-- **[group](/group)**：種類や密集度に関係なく、何かのまとまり
+- **[group](/word/group)**：種類や密集度に関係なく、何かのまとまり
 
 clusterは「密集している」ニュアンスが強く、groupは単なる「集まり」として幅広く使われます。
 
@@ -105,14 +105,14 @@ clusterは「密集している」ニュアンスが強く、groupは単なる�
 
 ## 🧩 あわせて覚えたい
 
-- [collection](/collection)：収集物、集めたもの
-- [array](/array)：配列、整然と並んだもの
+- [collection](/word/collection)：収集物、集めたもの
+- [array](/word/array)：配列、整然と並んだもの
 
 ---
 
 ## 📖 できればこれも
 
-- [network](/network)：ネットワーク、網状のつながり
-- [segment](/segment)：部分、区分
+- [network](/word/network)：ネットワーク、網状のつながり
+- [segment](/word/segment)：部分、区分
 
 <!-- cvid: aid46_bid04 -->

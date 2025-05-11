@@ -97,7 +97,7 @@ TOEICでは、研究や技術、製品説明などの長文で「scientific」�
 ## 🤔  academic との違いは？
 
 - **scientific**：科学の方法や原則に基づく、科学的な
-- **[academic](/academic)**：学問の、教育や研究に関する
+- **[academic](/word/academic)**：学問の、教育や研究に関する
 
 scientificは「科学の方法や実験・データ」に焦点があり、academicは「学校教育や学問全般」に関する広い意味で使われます。
 
@@ -105,14 +105,14 @@ scientificは「科学の方法や実験・データ」に焦点があり、acad
 
 ## 🧩 あわせて覚えたい
 
-- [technological](/technological)：技術の、技術的な
-- [empirical](/empirical)：経験や実験に基づく
+- [technological](/word/technological)：技術の、技術的な
+- [empirical](/word/empirical)：経験や実験に基づく
 
 ---
 
 ## 📖 できればこれも
 
-- [logical](/logical)：論理的な
-- [theory](/theory)：理論
+- [logical](/word/logical)：論理的な
+- [theory](/word/theory)：理論
 
 <!-- cvid: aid05_bid36 -->

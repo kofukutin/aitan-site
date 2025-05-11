@@ -97,7 +97,7 @@ TOEICでは会議やメール、電話での「依頼内容」や「リクエス
 ## 🤔  require との違いは？
 
 - **request**：丁寧に「依頼」や「お願い」をすること
-- **[require](/require)**：必要条件として「要求」すること
+- **[require](/word/require)**：必要条件として「要求」すること
 
 requestは相手の意思を尊重しつつ頼むニュアンス、requireは義務や必須条件として強く求めるニュアンスです。
 
@@ -105,14 +105,14 @@ requestは相手の意思を尊重しつつ頼むニュアンス、requireは義
 
 ## 🧩 あわせて覚えたい
 
-- [demand](/demand)：強く要求すること
-- [suggestion](/suggestion)：提案、提言
+- [demand](/word/demand)：強く要求すること
+- [suggestion](/word/suggestion)：提案、提言
 
 ---
 
 ## 📖 できればこれも
 
-- [offer](/offer)：申し出、提案
-- [proposal](/proposal)：提案書、計画案
+- [offer](/word/offer)：申し出、提案
+- [proposal](/word/proposal)：提案書、計画案
 
 <!-- cvid: aid19_bid45 -->

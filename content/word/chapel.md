@@ -97,7 +97,7 @@ The wedding ceremony will be held in the chapel.
 ## 🤔  church との違いは？
 
 - **chapel**：教会や施設内の小規模な礼拝堂、特定目的の礼拝所
-- **[church](/church)**：一般的な教会、宗教活動の中心となる建物
+- **[church](/word/church)**：一般的な教会、宗教活動の中心となる建物
 
 chapelはchurchの一部や付属施設として使われることが多く、churchは地域の宗教活動の中心的な建物を指します。
 
@@ -105,14 +105,14 @@ chapelはchurchの一部や付属施設として使われることが多く、ch
 
 ## 🧩 あわせて覚えたい
 
-- [cathedral](/cathedral)：大聖堂
-- [temple](/temple)：寺院
+- [cathedral](/word/cathedral)：大聖堂
+- [temple](/word/temple)：寺院
 
 ---
 
 ## 📖 できればこれも
 
-- [museum](/museum)：博物館
-- [gallery](/gallery)：美術館
+- [museum](/word/museum)：博物館
+- [gallery](/word/gallery)：美術館
 
 <!-- cvid: aid25_bid46 -->

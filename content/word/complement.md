@@ -97,7 +97,7 @@ TOEICでは、complementは「補完するもの」「補語」といった意�
 ## 🤔  supplement との違いは？
 
 - **complement**：何かを完全にするために加えられる「補完物」
-- **[supplement](/supplement)**：不足を補うために追加される「補助・追加物」
+- **[supplement](/word/supplement)**：不足を補うために追加される「補助・追加物」
 
 complementは「全体をより良くするために調和して加わるもの」、supplementは「足りない部分を埋めるために追加するもの」という違いがあります。
 
@@ -105,14 +105,14 @@ complementは「全体をより良くするために調和して加わるもの�
 
 ## 🧩 あわせて覚えたい
 
-- [enhancement](/enhancement)：強化、向上
-- [contrast](/contrast)：対比、対照
+- [enhancement](/word/enhancement)：強化、向上
+- [contrast](/word/contrast)：対比、対照
 
 ---
 
 ## 📖 できればこれも
 
-- [component](/component)：構成要素、部品
-- [attribute](/attribute)：属性、特性
+- [component](/word/component)：構成要素、部品
+- [attribute](/word/attribute)：属性、特性
 
 <!-- cvid: aid18_bid20 -->

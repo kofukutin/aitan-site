@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、建物や敷地の説明として登
 ## 🤔  garden との違いは？
 
 - **yard**：家や建物の周りの空き地や敷地全体を指す（特にアメリカ英語）。
-- **[garden](/garden)**：花や野菜などを育てる「庭」を指す（特にイギリス英語）。
+- **[garden](/word/garden)**：花や野菜などを育てる「庭」を指す（特にイギリス英語）。
 
 yardは一般的な「敷地」や「庭」を広く指し、gardenは植物を育てる目的の庭を意味します。
 
@@ -105,14 +105,14 @@ yardは一般的な「敷地」や「庭」を広く指し、gardenは植物を�
 
 ## 🧩 あわせて覚えたい
 
-- [lawn](/lawn)：芝生
-- [courtyard](/courtyard)：中庭
+- [lawn](/word/lawn)：芝生
+- [courtyard](/word/courtyard)：中庭
 
 ---
 
 ## 📖 できればこれも
 
-- [fence](/fence)：フェンス、囲い
-- [garage](/garage)：車庫
+- [fence](/word/fence)：フェンス、囲い
+- [garage](/word/garage)：車庫
 
 <!-- cvid: aid46_bid06 -->

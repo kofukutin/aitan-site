@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「答え」「返事」として頻出します
 ## 🤔  reply との違いは？
 
 - **answer**：質問や問題に対する「答え」や「正解」を意味し、内容の正誤や解決を重視します。
-- **[reply](/reply)**：返事や応答そのものを指し、内容の正誤は問わず、やりとりの行為自体に焦点があります。
+- **[reply](/word/reply)**：返事や応答そのものを指し、内容の正誤は問わず、やりとりの行為自体に焦点があります。
 
 「answer」は正しい内容や解決策を求める場面で使い、「reply」は単なる返事や応答のやりとりに使います。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「答え」「返事」として頻出します
 
 ## 🧩 あわせて覚えたい
 
-- [solution](/solution)：解決策
-- [response](/response)：反応、返答
+- [solution](/word/solution)：解決策
+- [response](/word/response)：反応、返答
 
 ---
 
 ## 📖 できればこれも
 
-- [question](/question)：質問
-- [ask](/ask)：尋ねる
+- [question](/word/question)：質問
+- [ask](/word/ask)：尋ねる
 
 <!-- cvid: aid43_bid09 -->

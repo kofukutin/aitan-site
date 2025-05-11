@@ -97,7 +97,7 @@ TOEICではITやビジネス文書の説明文で「generated」がよく登場�
 ## 🤔  created との違いは？
 
 - **generated**：自動的・機械的に「生成された」「発生した」
-- **[created](/created)**：人の意図や工夫で「作られた」「創造された」
+- **[created](/word/created)**：人の意図や工夫で「作られた」「創造された」
 
 「generated」はシステムやプロセスによる自動生成に使われ、「created」は人の手や発想による創造に使われます。
 
@@ -105,14 +105,14 @@ TOEICではITやビジネス文書の説明文で「generated」がよく登場�
 
 ## 🧩 あわせて覚えたい
 
-- [produce](/produce)：生産する、作り出す
-- [output](/output)：出力、成果物
+- [produce](/word/produce)：生産する、作り出す
+- [output](/word/output)：出力、成果物
 
 ---
 
 ## 📖 できればこれも
 
-- [automated](/automated)：自動化された
-- [processed](/processed)：処理された
+- [automated](/word/automated)：自動化された
+- [processed](/word/processed)：処理された
 
 <!-- cvid: aid29_bid20 -->

@@ -97,7 +97,7 @@ encouragingは会議やビジネスの会話文で、前向きな状況や人の
 ## 🤔  supportive との違いは？
 
 - **encouraging**：励みになる、勇気づける（前向きな気持ちを与える）
-- **[supportive](/supportive)**：支える、協力的な（助けたり支援したりする態度）
+- **[supportive](/word/supportive)**：支える、協力的な（助けたり支援したりする態度）
 
 encouragingは「勇気や元気を与える」ニュアンスが強く、supportiveは「実際に支えたり助けたりする」姿勢を表します。
 
@@ -105,14 +105,14 @@ encouragingは「勇気や元気を与える」ニュアンスが強く、suppor
 
 ## 🧩 あわせて覚えたい
 
-- [discouraging](/discouraging)：がっかりさせる、気をくじく
-- [motivating](/motivating)：やる気を起こさせる
+- [discouraging](/word/discouraging)：がっかりさせる、気をくじく
+- [motivating](/word/motivating)：やる気を起こさせる
 
 ---
 
 ## 📖 できればこれも
 
-- [confident](/confident)：自信がある
-- [optimistic](/optimistic)：楽観的な
+- [confident](/word/confident)：自信がある
+- [optimistic](/word/optimistic)：楽観的な
 
 <!-- cvid: aid47_bid16 -->

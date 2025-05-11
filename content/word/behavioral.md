@@ -97,7 +97,7 @@ TOEICでは、ビジネスや科学分野の長文で「behavioral research」�
 ## 🤔  psychological との違いは？
 
 - **behavioral**：行動やふるまい自体に関する
-- **[psychological](/psychological)**：心理や精神状態に関する
+- **[psychological](/word/psychological)**：心理や精神状態に関する
 
 「behavioral」は外から観察できる行動に焦点を当て、「psychological」は内面の心や精神状態に焦点を当てます。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネスや科学分野の長文で「behavioral research」�
 
 ## 🧩 あわせて覚えたい
 
-- [habit](/habit)：習慣
-- [conduct](/conduct)：行い、品行
+- [habit](/word/habit)：習慣
+- [conduct](/word/conduct)：行い、品行
 
 ---
 
 ## 📖 できればこれも
 
-- [cognitive](/cognitive)：認知の、認識に関する
-- [emotional](/emotional)：感情の、感情に関する
+- [cognitive](/word/cognitive)：認知の、認識に関する
+- [emotional](/word/emotional)：感情の、感情に関する
 
 <!-- cvid: aid06_bid05 -->

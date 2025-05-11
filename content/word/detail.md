@@ -97,7 +97,7 @@ TOEICでは「in detail（詳細に）」や「for further details（詳細は�
 ## 🤔  specification との違いは？
 
 - **detail**：細かい部分や個々の情報、全体を構成する小さな要素
-- **[specification](/specification)**：仕様書、技術的な条件や要件をまとめたもの
+- **[specification](/word/specification)**：仕様書、技術的な条件や要件をまとめたもの
 
 「detail」は一般的な細部や情報を指し、「specification」は特に技術や製品の仕様・条件を正式にまとめた文書や内容を指します。
 
@@ -105,14 +105,14 @@ TOEICでは「in detail（詳細に）」や「for further details（詳細は�
 
 ## 🧩 あわせて覚えたい
 
-- [outline](/outline)：概要、要点
-- [summary](/summary)：要約、まとめ
+- [outline](/word/outline)：概要、要点
+- [summary](/word/summary)：要約、まとめ
 
 ---
 
 ## 📖 できればこれも
 
-- [item](/item)：項目、品目
-- [aspect](/aspect)：側面、観点
+- [item](/word/item)：項目、品目
+- [aspect](/word/aspect)：側面、観点
 
 <!-- cvid: aid31_bid20 -->

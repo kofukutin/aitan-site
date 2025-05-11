@@ -97,7 +97,7 @@ TOEICではメールやビジネス文書の中で「問い合わせ」や「質
 ## 🤔  question との違いは？
 
 - **query**：フォーマルで、特にビジネスやIT分野での「問い合わせ」「照会」に使う
-- **[question](/question)**：一般的な「質問」。日常会話からビジネスまで幅広く使う
+- **[question](/word/question)**：一般的な「質問」。日常会話からビジネスまで幅広く使う
 
 queryは公式な場や書面で使われることが多く、questionは口語的で幅広い場面に適します。
 
@@ -105,14 +105,14 @@ queryは公式な場や書面で使われることが多く、questionは口語�
 
 ## 🧩 あわせて覚えたい
 
-- [inquiry](/inquiry)：問い合わせ、照会
-- [request](/request)：依頼、要請
+- [inquiry](/word/inquiry)：問い合わせ、照会
+- [request](/word/request)：依頼、要請
 
 ---
 
 ## 📖 できればこれも
 
-- [response](/response)：返答、応答
-- [issue](/issue)：問題、課題
+- [response](/word/response)：返答、応答
+- [issue](/word/issue)：問題、課題
 
 <!-- cvid: aid26_bid21 -->

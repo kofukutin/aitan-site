@@ -97,7 +97,7 @@ TOEICではビジネス文書や交渉に関する長文でよく登場します
 ## 🤔  negotiate との違いは？
 
 - **compromise**：お互いに譲歩して合意点を見つけること
-- **[negotiate](/negotiate)**：交渉して条件を決めること
+- **[negotiate](/word/negotiate)**：交渉して条件を決めること
 
 compromiseは「譲り合いによる合意」に焦点があり、negotiateは「交渉の過程」自体を指します。
 
@@ -105,14 +105,14 @@ compromiseは「譲り合いによる合意」に焦点があり、negotiateは�
 
 ## 🧩 あわせて覚えたい
 
-- [agreement](/agreement)：合意、契約
-- [concession](/concession)：譲歩
+- [agreement](/word/agreement)：合意、契約
+- [concession](/word/concession)：譲歩
 
 ---
 
 ## 📖 できればこれも
 
-- [settlement](/settlement)：解決、和解
-- [deal](/deal)：取引、合意
+- [settlement](/word/settlement)：解決、和解
+- [deal](/word/deal)：取引、合意
 
 <!-- cvid: aid17_bid16 -->

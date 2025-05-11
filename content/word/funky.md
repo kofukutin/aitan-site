@@ -97,7 +97,7 @@ TOEICでは、広告や観光案内、商品説明などで「funky」が使わ�
 ## 🤔  unique との違いは？
 
 - **funky**：独特で個性的、かっこよさや変わった雰囲気を含むカジュアルな表現
-- **[unique](/unique)**：唯一無二で他にない、フォーマルでも使える
+- **[unique](/word/unique)**：唯一無二で他にない、フォーマルでも使える
 
 「funky」はポジティブなカジュアルさやおしゃれ感を含みますが、「unique」は単に「他にない」という意味で、必ずしもかっこよさやおしゃれさを含みません。
 
@@ -105,14 +105,14 @@ TOEICでは、広告や観光案内、商品説明などで「funky」が使わ�
 
 ## 🧩 あわせて覚えたい
 
-- [stylish](/stylish)：おしゃれな
-- [eccentric](/eccentric)：風変わりな、奇抜な
+- [stylish](/word/stylish)：おしゃれな
+- [eccentric](/word/eccentric)：風変わりな、奇抜な
 
 ---
 
 ## 📖 できればこれも
 
-- [trendy](/trendy)：流行の
-- [colorful](/colorful)：カラフルな
+- [trendy](/word/trendy)：流行の
+- [colorful](/word/colorful)：カラフルな
 
 <!-- cvid: aid26_bid34 -->

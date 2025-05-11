@@ -97,7 +97,7 @@ TOEICでは、政治や法律に関する記事や公式文書の中でparliamen
 ## 🤔  legislative との違いは？
 
 - **parliamentary**：議会そのものや議会制度に直接関係することを表す
-- **[legislative](/legislative)**：法律の制定や立法活動に関することを表す
+- **[legislative](/word/legislative)**：法律の制定や立法活動に関することを表す
 
 parliamentaryは「議会」という組織や制度に焦点を当て、legislativeは「法律を作る」という機能や活動に焦点を当てます。
 
@@ -105,14 +105,14 @@ parliamentaryは「議会」という組織や制度に焦点を当て、legisla
 
 ## 🧩 あわせて覚えたい
 
-- [executive](/executive)：行政の、執行の
-- [congressional](/congressional)：（米国の）議会の
+- [executive](/word/executive)：行政の、執行の
+- [congressional](/word/congressional)：（米国の）議会の
 
 ---
 
 ## 📖 できればこれも
 
-- [constitutional](/constitutional)：憲法の
-- [judicial](/judicial)：司法の
+- [constitutional](/word/constitutional)：憲法の
+- [judicial](/word/judicial)：司法の
 
 <!-- cvid: aid28_bid04 -->

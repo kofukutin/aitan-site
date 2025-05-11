@@ -97,7 +97,7 @@ Please leave your luggage at the reception.
 ## 🤔  baggage との違いは？
 
 - **luggage**：主にイギリス英語で使われる「手荷物」
-- **[baggage](/baggage)**：主にアメリカ英語で使われる「手荷物」
+- **[baggage](/word/baggage)**：主にアメリカ英語で使われる「手荷物」
 
 luggageはイギリス英語、baggageはアメリカ英語で使われることが多いですが、意味はほぼ同じです。空港や旅行の場面で使い分けられます。
 
@@ -105,14 +105,14 @@ luggageはイギリス英語、baggageはアメリカ英語で使われること
 
 ## 🧩 あわせて覚えたい
 
-- [suitcase](/suitcase)：スーツケース
-- [belonging](/belonging)：所持品
+- [suitcase](/word/suitcase)：スーツケース
+- [belonging](/word/belonging)：所持品
 
 ---
 
 ## 📖 できればこれも
 
-- [passport](/passport)：パスポート
-- [ticket](/ticket)：チケット
+- [passport](/word/passport)：パスポート
+- [ticket](/word/ticket)：チケット
 
 <!-- cvid: aid00_bid04 -->

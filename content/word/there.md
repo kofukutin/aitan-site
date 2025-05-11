@@ -93,7 +93,7 @@ TOEICではPart 2の応答問題や、場所・存在を尋ねる会話で頻出
 ## 🤔  here との違いは？
 
 - **there**：話し手から離れた場所や、存在を示すときに使う
-- **[here](/here)**：話し手の近くや「ここ」を指す
+- **[here](/word/here)**：話し手の近くや「ここ」を指す
 
 「there」は「そこ・あそこ」など話し手から離れた場所や、存在を表すときに使い、「here」は話し手の近くを指します。
 
@@ -101,14 +101,14 @@ TOEICではPart 2の応答問題や、場所・存在を尋ねる会話で頻出
 
 ## 🧩 あわせて覚えたい
 
-- [over there](/over_there)：あちらに、向こうに
-- [everywhere](/everywhere)：どこでも、あらゆる場所で
+- [over there](/word/over_there)：あちらに、向こうに
+- [everywhere](/word/everywhere)：どこでも、あらゆる場所で
 
 ---
 
 ## 📖 できればこれも
 
-- [then](/then)：そのとき、それから
-- [where](/where)：どこ、どこで
+- [then](/word/then)：そのとき、それから
+- [where](/word/where)：どこ、どこで
 
 <!-- cvid: aid17_bid49 -->

@@ -97,7 +97,7 @@ gloryはTOEICの長文読解（Part 7）で、歴史や成功談、表彰に関�
 ## 🤔  honor との違いは？
 
 - **glory**：偉業や成功によって得られる輝かしい栄光や名誉を強調する。
-- **[honor](/honor)**：道徳的な「名誉」や「尊敬」、義務感に基づく評価を表す。
+- **[honor](/word/honor)**：道徳的な「名誉」や「尊敬」、義務感に基づく評価を表す。
 
 gloryは「輝かしい成果」や「称賛される状態」に重点があり、honorは「人格的な尊敬」や「義務感」に重きを置きます。
 
@@ -105,14 +105,14 @@ gloryは「輝かしい成果」や「称賛される状態」に重点があり
 
 ## 🧩 あわせて覚えたい
 
-- [fame](/fame)：名声、有名であること
-- [shame](/shame)：恥、不名誉
+- [fame](/word/fame)：名声、有名であること
+- [shame](/word/shame)：恥、不名誉
 
 ---
 
 ## 📖 できればこれも
 
-- [pride](/pride)：誇り、自尊心
-- [achievement](/achievement)：業績、達成
+- [pride](/word/pride)：誇り、自尊心
+- [achievement](/word/achievement)：業績、達成
 
 <!-- cvid: aid06_bid37 -->

@@ -97,7 +97,7 @@ TOEICでは会議やイベントの案内、スケジュール調整などの場
 ## 🤔  location との違いは？
 
 - **venue**：イベントや集まりのための「会場」「開催地」
-- **[location](/location)**：単なる「場所」「位置」
+- **[location](/word/location)**：単なる「場所」「位置」
 
 venueは特定の目的（イベントや集会）がある場所を指し、locationは広く「場所」全般を意味します。
 
@@ -105,14 +105,14 @@ venueは特定の目的（イベントや集会）がある場所を指し、loc
 
 ## 🧩 あわせて覚えたい
 
-- [site](/site)：用地、現場
-- [facility](/facility)：施設、設備
+- [site](/word/site)：用地、現場
+- [facility](/word/facility)：施設、設備
 
 ---
 
 ## 📖 できればこれも
 
-- [event](/event)：イベント、出来事
-- [conference](/conference)：会議、協議会
+- [event](/word/event)：イベント、出来事
+- [conference](/word/conference)：会議、協議会
 
 <!-- cvid: aid36_bid36 -->

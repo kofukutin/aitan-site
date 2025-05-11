@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「補助的な役割」や「サポート業務
 ## 🤔  assisting との違いは？
 
 - **supporting**：主役や中心を支える補助的な役割や立場を表す。
-- **[assisting](/assisting)**：直接的に手伝ったり補助したりする行為を強調。
+- **[assisting](/word/assisting)**：直接的に手伝ったり補助したりする行為を強調。
 
 supportingは「裏方」や「補佐役」といった立場を表し、assistingは「実際に手伝う動作」に焦点を当てます。
 
@@ -105,14 +105,14 @@ supportingは「裏方」や「補佐役」といった立場を表し、assisti
 
 ## 🧩 あわせて覚えたい
 
-- [main](/main)：主な、中心の
-- [secondary](/secondary)：二次的な、補助的な
+- [main](/word/main)：主な、中心の
+- [secondary](/word/secondary)：二次的な、補助的な
 
 ---
 
 ## 📖 できればこれも
 
-- [helpful](/helpful)：役に立つ
-- [relevant](/relevant)：関連する
+- [helpful](/word/helpful)：役に立つ
+- [relevant](/word/relevant)：関連する
 
 <!-- cvid: aid28_bid20 -->

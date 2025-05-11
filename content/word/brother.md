@@ -97,7 +97,7 @@ TOEICでは主に家族や人物を説明する写真描写問題で登場しま
 ## 🤔  sibling との違いは？
 
 - **brother**：男性のきょうだい（兄または弟）を指す。
-- **[sibling](/sibling)**：男女問わず「きょうだい全体」を指す。
+- **[sibling](/word/sibling)**：男女問わず「きょうだい全体」を指す。
 
 brotherは男性限定、siblingは性別を問わず使える点が大きな違いです。
 
@@ -105,14 +105,14 @@ brotherは男性限定、siblingは性別を問わず使える点が大きな違
 
 ## 🧩 あわせて覚えたい
 
-- [sister](/sister)：姉、妹
-- [cousin](/cousin)：いとこ
+- [sister](/word/sister)：姉、妹
+- [cousin](/word/cousin)：いとこ
 
 ---
 
 ## 📖 できればこれも
 
-- [parent](/parent)：親
-- [uncle](/uncle)：おじ
+- [parent](/word/parent)：親
+- [uncle](/word/uncle)：おじ
 
 <!-- cvid: aid39_bid18 -->

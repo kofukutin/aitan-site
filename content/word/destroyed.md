@@ -98,7 +98,7 @@ TOEICでは、事故やトラブル、災害などの場面で「destroyed」が
 ## 🤔  damaged との違いは？
 
 - **destroyed**：完全に壊れて元に戻せない状態
-- **[damaged](/damaged)**：一部が損傷したが、修復可能な状態
+- **[damaged](/word/damaged)**：一部が損傷したが、修復可能な状態
 
 destroyedは「全壊」や「壊滅」に近く、damagedは「部分的な損傷」を表します。被害の度合いが大きく異なります。
 
@@ -106,14 +106,14 @@ destroyedは「全壊」や「壊滅」に近く、damagedは「部分的な損�
 
 ## 🧩 あわせて覚えたい
 
-- [ruined](/ruined)：台無しになった、荒廃した
-- [broken](/broken)：壊れた、割れた
+- [ruined](/word/ruined)：台無しになった、荒廃した
+- [broken](/word/broken)：壊れた、割れた
 
 ---
 
 ## 📖 できればこれも
 
-- [damaging](/damaging)：損害を与える、有害な
-- [repaired](/repaired)：修理された
+- [damaging](/word/damaging)：損害を与える、有害な
+- [repaired](/word/repaired)：修理された
 
 <!-- cvid: aid22_bid18 -->

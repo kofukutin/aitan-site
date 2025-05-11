@@ -97,7 +97,7 @@ TOEICでは、企業の歴史や創業者の功績、社会的な影響につい
 ## 🤔  inheritance との違いは？
 
 - **legacy**：過去から受け継がれた財産や影響、伝統など幅広く使う
-- **[inheritance](/inheritance)**：主に法的・物理的な「相続財産」を指す
+- **[inheritance](/word/inheritance)**：主に法的・物理的な「相続財産」を指す
 
 legacyは形のない影響や文化にも使えるのに対し、inheritanceは主にお金や土地など具体的な財産に限定されます。
 
@@ -105,14 +105,14 @@ legacyは形のない影響や文化にも使えるのに対し、inheritanceは
 
 ## 🧩 あわせて覚えたい
 
-- [heritage](/heritage)：文化的遺産、伝統
-- [tradition](/tradition)：伝統、しきたり
+- [heritage](/word/heritage)：文化的遺産、伝統
+- [tradition](/word/tradition)：伝統、しきたり
 
 ---
 
 ## 📖 できればこれも
 
-- [asset](/asset)：資産、財産
-- [donation](/donation)：寄付、贈与
+- [asset](/word/asset)：資産、財産
+- [donation](/word/donation)：寄付、贈与
 
 <!-- cvid: aid14_bid03 -->

@@ -96,7 +96,7 @@ The laboratory analyzed the serum samples for antibodies.
 ## 🤔  plasma との違いは？
 
 - **serum**：血液が凝固した後に残る液体部分（凝固因子を含まない）
-- **[plasma](/plasma)**：血液が凝固する前の液体成分（凝固因子を含む）
+- **[plasma](/word/plasma)**：血液が凝固する前の液体成分（凝固因子を含む）
 
 serumは凝固因子を除いた液体、plasmaは凝固因子を含む液体で、医療現場では使い分けられます。
 
@@ -104,14 +104,14 @@ serumは凝固因子を除いた液体、plasmaは凝固因子を含む液体で
 
 ## 🧩 あわせて覚えたい
 
-- [antibody](/antibody)：抗体
-- [vaccine](/vaccine)：ワクチン
+- [antibody](/word/antibody)：抗体
+- [vaccine](/word/vaccine)：ワクチン
 
 ---
 
 ## 📖 できればこれも
 
-- [tissue](/tissue)：組織
-- [cell](/cell)：細胞
+- [tissue](/word/tissue)：組織
+- [cell](/word/cell)：細胞
 
 <!-- cvid: aid37_bid16 -->

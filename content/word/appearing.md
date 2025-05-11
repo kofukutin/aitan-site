@@ -97,7 +97,7 @@ TOEICでは会議やイベントへの「出席」や「出演」を表す文脈
 ## 🤔  attending との違いは？
 
 - **appearing**：現れる、出演する、公式な場に姿を見せるニュアンス
-- **[attending](/attending)**：出席する、参加する（単にその場にいることを強調）
+- **[attending](/word/attending)**：出席する、参加する（単にその場にいることを強調）
 
 appearingは「姿を現す」「公式に登場する」など存在感や注目を集める場面で使われ、attendingは「参加」「出席」としてより一般的・形式的な場面で使われます。
 
@@ -105,14 +105,14 @@ appearingは「姿を現す」「公式に登場する」など存在感や注�
 
 ## 🧩 あわせて覚えたい
 
-- [disappear](/disappear)：消える、見えなくなる
-- [show](/show)：見せる、現れる
+- [disappear](/word/disappear)：消える、見えなくなる
+- [show](/word/show)：見せる、現れる
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/present)：出席する、提示する
-- [participate](/participate)：参加する
+- [present](/word/present)：出席する、提示する
+- [participate](/word/participate)：参加する
 
 <!-- cvid: aid05_bid17 -->

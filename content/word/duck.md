@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で「アヒル」や「水辺の動物」
 ## 🤔  avoid との違いは？
 
 - **duck**：物理的に身をかがめて避ける、またはアヒル（鳥）を指す
-- **[avoid](/avoid)**：危険や問題などを意識的に避ける
+- **[avoid](/word/avoid)**：危険や問題などを意識的に避ける
 
 duckは「身を低くして避ける」など動作が伴う場合に使い、avoidは「問題や危険を避ける」など広い意味で使います。
 
@@ -106,14 +106,14 @@ duckは「身を低くして避ける」など動作が伴う場合に使い、a
 
 ## 🧩 あわせて覚えたい
 
-- [goose](/goose)：ガチョウ
-- [dodge](/dodge)：素早く身をかわす
+- [goose](/word/goose)：ガチョウ
+- [dodge](/word/dodge)：素早く身をかわす
 
 ---
 
 ## 📖 できればこれも
 
-- [chicken](/chicken)：ニワトリ
-- [jump](/jump)：跳ぶ
+- [chicken](/word/chicken)：ニワトリ
+- [jump](/word/jump)：跳ぶ
 
 <!-- cvid: aid18_bid08 -->

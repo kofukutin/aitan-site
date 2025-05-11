@@ -97,7 +97,7 @@ testingはITやビジネス関連の文脈で名詞として出題されるこ�
 ## 🤔  examination との違いは？
 
 - **testing**：機能や性能などを調べるための「試験」「検査」。実際の動作確認やチェックに重点。
-- **[examination](/examination)**：知識や能力を評価する「試験」「検査」。特に学力テストや健康診断など評価目的が強い。
+- **[examination](/word/examination)**：知識や能力を評価する「試験」「検査」。特に学力テストや健康診断など評価目的が強い。
 
 testingは実際に動かしてチェックする場面で使い、examinationは評価や診断の意味合いが強いです。
 
@@ -105,14 +105,14 @@ testingは実際に動かしてチェックする場面で使い、examination�
 
 ## 🧩 あわせて覚えたい
 
-- [assessment](/assessment)：評価、査定
-- [inspection](/inspection)：検査、視察
+- [assessment](/word/assessment)：評価、査定
+- [inspection](/word/inspection)：検査、視察
 
 ---
 
 ## 📖 できればこれも
 
-- [experiment](/experiment)：実験
-- [trial](/trial)：試み、試用
+- [experiment](/word/experiment)：実験
+- [trial](/word/trial)：試み、試用
 
 <!-- cvid: aid21_bid06 -->

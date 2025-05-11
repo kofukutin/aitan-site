@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文読解で、アートやビジネス、建築な
 ## 🤔  modern との違いは？
 
 - **contemporary**：同じ時代に存在する、現代の（特に他と同時期であることを強調）
-- **[modern](/modern)**：現代的な、新しい（伝統的でないことや最新であることを強調）
+- **[modern](/word/modern)**：現代的な、新しい（伝統的でないことや最新であることを強調）
 
 contemporaryは「同時代性」や「今の時代」を強調し、modernは「新しさ」や「革新性」を強調する点が異なります。
 
@@ -105,14 +105,14 @@ contemporaryは「同時代性」や「今の時代」を強調し、modernは�
 
 ## 🧩 あわせて覚えたい
 
-- [current](/current)：現在の、今の
-- [classic](/classic)：古典的な、伝統的な
+- [current](/word/current)：現在の、今の
+- [classic](/word/classic)：古典的な、伝統的な
 
 ---
 
 ## 📖 できればこれも
 
-- [recent](/recent)：最近の
-- [traditional](/traditional)：伝統的な
+- [recent](/word/recent)：最近の
+- [traditional](/word/traditional)：伝統的な
 
 <!-- cvid: aid03_bid24 -->

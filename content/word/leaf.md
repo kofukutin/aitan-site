@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、植物や自然の描写として登
 ## 🤔  foliage との違いは？
 
 - **leaf**：個々の「葉」や一枚一枚の葉っぱを指す
-- **[foliage](/foliage)**：木や植物全体の「葉（葉の集合体）」を指す
+- **[foliage](/word/foliage)**：木や植物全体の「葉（葉の集合体）」を指す
 
 leafは一枚ずつの葉、foliageは木全体や茂みの葉のまとまりを表します。
 
@@ -105,14 +105,14 @@ leafは一枚ずつの葉、foliageは木全体や茂みの葉のまとまりを
 
 ## 🧩 あわせて覚えたい
 
-- [branch](/branch)：枝
-- [petal](/petal)：花びら
+- [branch](/word/branch)：枝
+- [petal](/word/petal)：花びら
 
 ---
 
 ## 📖 できればこれも
 
-- [root](/root)：根
-- [flower](/flower)：花
+- [root](/word/root)：根
+- [flower](/word/flower)：花
 
 <!-- cvid: aid42_bid12 -->

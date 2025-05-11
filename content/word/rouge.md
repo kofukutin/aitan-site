@@ -97,7 +97,7 @@ TOEICでは化粧品や美容関連の広告や案内文で見かけることが
 ## 🤔  blush との違いは？
 
 - **rouge**：主に頬や唇に塗る赤系の化粧品全般を指すフォーマルな表現。
-- **[blush](/blush)**：特に頬紅（チーク）を指し、日常的でカジュアルな表現。
+- **[blush](/word/blush)**：特に頬紅（チーク）を指し、日常的でカジュアルな表現。
 
 rougeはフランス語由来でややフォーマル、blushは英語で日常的に使われます。
 
@@ -105,14 +105,14 @@ rougeはフランス語由来でややフォーマル、blushは英語で日常�
 
 ## 🧩 あわせて覚えたい
 
-- [lipstick](/lipstick)：口紅
-- [powder](/powder)：フェイスパウダー
+- [lipstick](/word/lipstick)：口紅
+- [powder](/word/powder)：フェイスパウダー
 
 ---
 
 ## 📖 できればこれも
 
-- [perfume](/perfume)：香水
-- [cosmetic](/cosmetic)：化粧品
+- [perfume](/word/perfume)：香水
+- [cosmetic](/word/cosmetic)：化粧品
 
 <!-- cvid: aid20_bid13 -->

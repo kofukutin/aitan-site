@@ -97,7 +97,7 @@ TOEICでは、求人広告や社内通知、製品説明などで「認定」「
 ## 🤔  certificate との違いは？
 
 - **certification**：公式な認定や資格認定の「行為」や「制度」、またはその証明書全体を指す
-- **[certificate](/certificate)**：個別の「証明書」や「修了証」など、物理的な書類自体を指す
+- **[certificate](/word/certificate)**：個別の「証明書」や「修了証」など、物理的な書類自体を指す
 
 certificationは「認定制度」や「資格認定」という広い意味で使われ、certificateは実際に手にする証明書そのものを指します。
 
@@ -105,14 +105,14 @@ certificationは「認定制度」や「資格認定」という広い意味で�
 
 ## 🧩 あわせて覚えたい
 
-- [approval](/approval)：承認、許可
-- [authorization](/authorization)：認可、権限付与
+- [approval](/word/approval)：承認、許可
+- [authorization](/word/authorization)：認可、権限付与
 
 ---
 
 ## 📖 できればこれも
 
-- [qualification](/qualification)：資格、能力
-- [license](/license)：免許、許可証
+- [qualification](/word/qualification)：資格、能力
+- [license](/word/license)：免許、許可証
 
 <!-- cvid: aid16_bid22 -->

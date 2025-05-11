@@ -97,7 +97,7 @@ TOEICでは主に記事やレポート、スピーチ文などで「偉業」や
 ## 🤔  achievement との違いは？
 
 - **feat**：困難なことを成し遂げた「偉業」や「妙技」を強調する。
-- **[achievement](/achievement)**：努力や計画によって達成した「成果」や「達成」を幅広く指す。
+- **[achievement](/word/achievement)**：努力や計画によって達成した「成果」や「達成」を幅広く指す。
 
 「feat」は特に難易度やすごさに焦点を当てるのに対し、「achievement」は努力や目標達成そのものを指します。
 
@@ -105,14 +105,14 @@ TOEICでは主に記事やレポート、スピーチ文などで「偉業」や
 
 ## 🧩 あわせて覚えたい
 
-- [challenge](/challenge)：挑戦、課題
-- [failure](/failure)：失敗
+- [challenge](/word/challenge)：挑戦、課題
+- [failure](/word/failure)：失敗
 
 ---
 
 ## 📖 できればこれも
 
-- [honor](/honor)：名誉、栄誉
-- [success](/success)：成功
+- [honor](/word/honor)：名誉、栄誉
+- [success](/word/success)：成功
 
 <!-- cvid: aid39_bid48 -->

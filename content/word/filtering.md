@@ -97,7 +97,7 @@ filteringはITやビジネスの説明文、特にデータ処理やセキュリ
 ## 🤔  screening との違いは？
 
 - **filtering**：基準に従って不要なものを除外し、必要なものだけを残す選別やろ過。
-- **[screening](/screening)**：基準に基づき人や物を調査・審査してふるい分けること。
+- **[screening](/word/screening)**：基準に基づき人や物を調査・審査してふるい分けること。
 
 filteringは「物理的・データ的な選別」に多く使われ、screeningは「人や応募書類などの審査・検査」に使われることが多いです。
 
@@ -105,14 +105,14 @@ filteringは「物理的・データ的な選別」に多く使われ、screenin
 
 ## 🧩 あわせて覚えたい
 
-- [exclusion](/exclusion)：除外、排除
-- [selection](/selection)：選択、選抜
+- [exclusion](/word/exclusion)：除外、排除
+- [selection](/word/selection)：選択、選抜
 
 ---
 
 ## 📖 できればこれも
 
-- [processing](/processing)：処理、加工
-- [sorting](/sorting)：分類、仕分け
+- [processing](/word/processing)：処理、加工
+- [sorting](/word/sorting)：分類、仕分け
 
 <!-- cvid: aid44_bid46 -->

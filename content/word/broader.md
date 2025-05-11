@@ -97,7 +97,7 @@ TOEICでは、記事やビジネス文書で「より広い視点」「幅広い
 ## 🤔  wider との違いは？
 
 - **broader**：範囲や視野、内容が「より広い」「幅広い」
-- **[wider](/wider)**：物理的な幅や範囲が「より広い」「より幅がある」
+- **[wider](/word/wider)**：物理的な幅や範囲が「より広い」「より幅がある」
 
 「broader」は抽象的な範囲や考え方にも使えますが、「wider」は主に物理的な幅や範囲に使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、記事やビジネス文書で「より広い視点」「幅広い
 
 ## 🧩 あわせて覚えたい
 
-- [general](/general)：一般的な、全体的な
-- [comprehensive](/comprehensive)：包括的な、広範囲にわたる
+- [general](/word/general)：一般的な、全体的な
+- [comprehensive](/word/comprehensive)：包括的な、広範囲にわたる
 
 ---
 
 ## 📖 できればこれも
 
-- [narrower](/narrower)：より狭い
-- [extensive](/extensive)：広範囲の
+- [narrower](/word/narrower)：より狭い
+- [extensive](/word/extensive)：広範囲の
 
 <!-- cvid: aid43_bid30 -->

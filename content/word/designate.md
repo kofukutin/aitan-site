@@ -97,7 +97,7 @@ TOEICでは「役職や担当者を正式に指名する」文脈で出題され
 ## 🤔  appoint との違いは？
 
 - **designate**：公式に「指名・指定」するが、実際の就任や開始は後になることが多い
-- **[appoint](/appoint)**：役職や任務に「正式に任命」し、その場で権限や責任が発生する
+- **[appoint](/word/appoint)**：役職や任務に「正式に任命」し、その場で権限や責任が発生する
 
 designateは「これからその役割になる」と指し示す時に使い、appointは「今この瞬間から任命する」ニュアンスです。
 
@@ -105,14 +105,14 @@ designateは「これからその役割になる」と指し示す時に使い�
 
 ## 🧩 あわせて覚えたい
 
-- [assign](/assign)：割り当てる、任命する
-- [nominate](/nominate)：推薦する、指名する
+- [assign](/word/assign)：割り当てる、任命する
+- [nominate](/word/nominate)：推薦する、指名する
 
 ---
 
 ## 📖 できればこれも
 
-- [authorize](/authorize)：権限を与える
-- [specify](/specify)：明確に指定する
+- [authorize](/word/authorize)：権限を与える
+- [specify](/word/specify)：明確に指定する
 
 <!-- cvid: aid42_bid24 -->

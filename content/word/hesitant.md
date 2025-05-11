@@ -97,7 +97,7 @@ TOEICでは、会議やビジネスシーンでの態度や感情を表す語彙
 ## 🤔  reluctant との違いは？
 
 - **hesitant**：自信がなかったり、迷いがあってためらう気持ちを表す
-- **[reluctant](/reluctant)**：気が進まない、嫌々ながらする気持ちを表す
+- **[reluctant](/word/reluctant)**：気が進まない、嫌々ながらする気持ちを表す
 
 「hesitant」は迷いや不安から行動をためらう場合に使い、「reluctant」はやりたくない気持ちが強い場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、会議やビジネスシーンでの態度や感情を表す語彙
 
 ## 🧩 あわせて覚えたい
 
-- [confident](/confident)：自信がある
-- [uncertain](/uncertain)：不確かな、はっきりしない
+- [confident](/word/confident)：自信がある
+- [uncertain](/word/uncertain)：不確かな、はっきりしない
 
 ---
 
 ## 📖 できればこれも
 
-- [doubtful](/doubtful)：疑わしい、疑っている
-- [cautious](/cautious)：用心深い、慎重な
+- [doubtful](/word/doubtful)：疑わしい、疑っている
+- [cautious](/word/cautious)：用心深い、慎重な
 
 <!-- cvid: aid30_bid30 -->

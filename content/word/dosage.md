@@ -97,7 +97,7 @@ Please check the dosage instructions before administering the drug.
 ## 🤔  dose との違いは？
 
 - **dosage**：薬の「総投与量」や「服用量・用法」全体を指すフォーマルな表現
-- **[dose](/dose)**：薬の「1回分の量」を指す、より具体的な単位
+- **[dose](/word/dose)**：薬の「1回分の量」を指す、より具体的な単位
 
 dosageは全体の量や投与計画を示し、doseは1回ごとの量を指します。医療現場では使い分けが重要です。
 
@@ -105,14 +105,14 @@ dosageは全体の量や投与計画を示し、doseは1回ごとの量を指し
 
 ## 🧩 あわせて覚えたい
 
-- [prescription](/prescription)：処方箋
-- [administration](/administration)：投与、管理
+- [prescription](/word/prescription)：処方箋
+- [administration](/word/administration)：投与、管理
 
 ---
 
 ## 📖 できればこれも
 
-- [prescribe](/prescribe)：処方する
-- [treatment](/treatment)：治療
+- [prescribe](/word/prescribe)：処方する
+- [treatment](/word/treatment)：治療
 
 <!-- cvid: aid29_bid11 -->

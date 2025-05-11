@@ -97,7 +97,7 @@ TOEICでは法務関連の長文や記事、契約書の説明文などで見か
 ## 🤔  legal との違いは？
 
 - **judicial**：裁判や司法制度に直接関わること
-- **[legal](/legal)**：法律に関すること全般、合法・違法の区別
+- **[legal](/word/legal)**：法律に関すること全般、合法・違法の区別
 
 judicialは「裁判所や裁判手続き」に特化した語で、legalは「法律に関すること」全般を指します。
 
@@ -105,14 +105,14 @@ judicialは「裁判所や裁判手続き」に特化した語で、legalは「�
 
 ## 🧩 あわせて覚えたい
 
-- [legislative](/legislative)：立法の、法律制定の
-- [court](/court)：裁判所
+- [legislative](/word/legislative)：立法の、法律制定の
+- [court](/word/court)：裁判所
 
 ---
 
 ## 📖 できればこれも
 
-- [verdict](/verdict)：評決、判決
-- [trial](/trial)：裁判、公判
+- [verdict](/word/verdict)：評決、判決
+- [trial](/word/trial)：裁判、公判
 
 <!-- cvid: aid11_bid29 -->

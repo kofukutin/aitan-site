@@ -97,7 +97,7 @@ posingは、TOEICの会話パートで「ふりをする」「なりすます」
 ## 🤔  pretending との違いは？
 
 - **posing**：外見や態度で「ふりをする」「なりすます」ことに重点がある
-- **[pretending](/pretending)**：実際にはそうでないことを「装う」「ふりをする」こと全般
+- **[pretending](/word/pretending)**：実際にはそうでないことを「装う」「ふりをする」こと全般
 
 posingは特に外見や態度、役割になりすます場合に使い、pretendingは気持ちや行動全般の「ふり」に幅広く使います。
 
@@ -105,14 +105,14 @@ posingは特に外見や態度、役割になりすます場合に使い、prete
 
 ## 🧩 あわせて覚えたい
 
-- [imitate](/imitate)：まねる、模倣する
-- [disguise](/disguise)：変装する、偽る
+- [imitate](/word/imitate)：まねる、模倣する
+- [disguise](/word/disguise)：変装する、偽る
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/present)：提示する、見せる
-- [assume](/assume)：（役割などを）引き受ける、仮定する
+- [present](/word/present)：提示する、見せる
+- [assume](/word/assume)：（役割などを）引き受ける、仮定する
 
 <!-- cvid: aid44_bid17 -->

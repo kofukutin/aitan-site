@@ -97,7 +97,7 @@ TOEICでは、書類提出やオフィス業務に関する文脈で名詞とし
 ## 🤔  submission との違いは？
 
 - **filing**：書類の提出や整理という「手続き」や「作業」に焦点がある
-- **[submission](/submission)**：提出「そのもの」や「提出物」に焦点がある
+- **[submission](/word/submission)**：提出「そのもの」や「提出物」に焦点がある
 
 filingは「提出する行為や作業」を指し、submissionは「提出されたもの」や「提出する行為自体」を強調します。
 
@@ -105,14 +105,14 @@ filingは「提出する行為や作業」を指し、submissionは「提出さ�
 
 ## 🧩 あわせて覚えたい
 
-- [application](/application)：申請、応募
-- [document](/document)：書類、文書
+- [application](/word/application)：申請、応募
+- [document](/word/document)：書類、文書
 
 ---
 
 ## 📖 できればこれも
 
-- [record](/record)：記録、記録する
-- [form](/form)：用紙、フォーム
+- [record](/word/record)：記録、記録する
+- [form](/word/form)：用紙、フォーム
 
 <!-- cvid: aid41_bid47 -->

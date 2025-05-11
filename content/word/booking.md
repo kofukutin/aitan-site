@@ -97,7 +97,7 @@ TOEICではホテルや出張、旅行関連のメールや案内文でよく登
 ## 🤔  reservation との違いは？
 
 - **booking**：主に旅行やレストラン、ホテルなどの予約に使われる。
-- **[reservation](/reservation)**：より広く使われ、会議室や席の確保などにも使える。
+- **[reservation](/word/reservation)**：より広く使われ、会議室や席の確保などにも使える。
 
 bookingはイギリス英語でよく使われ、reservationはアメリカ英語で一般的です。意味は似ていますが、使われる場面や地域に違いがあります。
 
@@ -105,13 +105,13 @@ bookingはイギリス英語でよく使われ、reservationはアメリカ英�
 
 ## 🧩 あわせて覚えたい
 
-- [appointment](/appointment)：（人と会う）約束、予約
-- [cancellation](/cancellation)：キャンセル、取り消し
+- [appointment](/word/appointment)：（人と会う）約束、予約
+- [cancellation](/word/cancellation)：キャンセル、取り消し
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/schedule)：予定、スケジュール
-- [confirmation](/confirmation)：確認、確定
+- [schedule](/word/schedule)：予定、スケジュール
+- [confirmation](/word/confirmation)：確認、確定
 <!-- cvid: aid17_bid24 -->

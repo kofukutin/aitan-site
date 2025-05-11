@@ -96,7 +96,7 @@ We had a beer after the meeting.
 ## 🤔  ale との違いは？
 
 - **beer**：ビール全般を指す一般的な言葉
-- **[ale](/ale)**：ビールの一種で、上面発酵で作られる香り高いビール
+- **[ale](/word/ale)**：ビールの一種で、上面発酵で作られる香り高いビール
 
 beerは広く「ビール全体」を指し、aleはその中の一種（特に伝統的なイギリスのビール）を指します。
 
@@ -104,14 +104,14 @@ beerは広く「ビール全体」を指し、aleはその中の一種（特に�
 
 ## 🧩 あわせて覚えたい
 
-- [wine](/wine)：ワイン（ぶどう酒）
-- [liquor](/liquor)：蒸留酒、アルコール飲料
+- [wine](/word/wine)：ワイン（ぶどう酒）
+- [liquor](/word/liquor)：蒸留酒、アルコール飲料
 
 ---
 
 ## 📖 できればこれも
 
-- [juice](/juice)：ジュース
-- [coffee](/coffee)：コーヒー
+- [juice](/word/juice)：ジュース
+- [coffee](/word/coffee)：コーヒー
 
 <!-- cvid: aid26_bid10 -->

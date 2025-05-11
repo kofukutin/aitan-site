@@ -97,7 +97,7 @@ TOEICでは、環境や産業、資源に関する長文や説明文で登場す
 ## 🤔  extraction との違いは？
 
 - **mining**：鉱石や資源を地中から掘り出すこと、鉱業全体を指す
-- **[extraction](/extraction)**：何かを取り出す行為全般（鉱業以外にも使う）
+- **[extraction](/word/extraction)**：何かを取り出す行為全般（鉱業以外にも使う）
 
 miningは主に鉱山や地下資源に限定されるのに対し、extractionは「抽出」全般に使われ、石油やデータなど幅広い対象に使われます。
 
@@ -105,14 +105,14 @@ miningは主に鉱山や地下資源に限定されるのに対し、extraction�
 
 ## 🧩 あわせて覚えたい
 
-- [drilling](/drilling)：掘削、穴をあけること
-- [refining](/refining)：精製、純度を高めること
+- [drilling](/word/drilling)：掘削、穴をあけること
+- [refining](/word/refining)：精製、純度を高めること
 
 ---
 
 ## 📖 できればこれも
 
-- [resource](/resource)：資源
-- [industry](/industry)：産業
+- [resource](/word/resource)：資源
+- [industry](/word/industry)：産業
 
 <!-- cvid: aid10_bid31 -->

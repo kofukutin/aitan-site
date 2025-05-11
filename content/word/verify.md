@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やメールで「情報を確認する」「
 ## 🤔  confirm との違いは？
 
 - **verify**：証拠や手順を使って「正しいかどうかを検証・証明する」ニュアンス
-- **[confirm](/confirm)**：すでに知っていることや予定などを「再確認・承認する」ニュアンス
+- **[confirm](/word/confirm)**：すでに知っていることや予定などを「再確認・承認する」ニュアンス
 
 verifyは「本当に正しいかどうかを調べる」場合に使い、confirmは「間違いないことを再度確認する」場面で使います。
 
@@ -105,14 +105,14 @@ verifyは「本当に正しいかどうかを調べる」場合に使い、confi
 
 ## 🧩 あわせて覚えたい
 
-- [validate](/validate)：有効性を確認する、認証する
-- [prove](/prove)：証明する、立証する
+- [validate](/word/validate)：有効性を確認する、認証する
+- [prove](/word/prove)：証明する、立証する
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/approve)：承認する、認可する
-- [inspect](/inspect)：検査する、調査する
+- [approve](/word/approve)：承認する、認可する
+- [inspect](/word/inspect)：検査する、調査する
 
 <!-- cvid: aid13_bid21 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「自転車」や「バイク」に関
 ## 🤔  bicycle との違いは？
 
 - **bike**：カジュアルな言い方で「自転車」や「バイク」を指す
-- **[bicycle](/bicycle)**：よりフォーマルで「自転車」のみを指す
+- **[bicycle](/word/bicycle)**：よりフォーマルで「自転車」のみを指す
 
 bikeは日常会話でよく使われ、bicycleはやや堅い表現や正式な場面で使われます。
 
@@ -105,14 +105,14 @@ bikeは日常会話でよく使われ、bicycleはやや堅い表現や正式な
 
 ## 🧩 あわせて覚えたい
 
-- [motorcycle](/motorcycle)：オートバイ
-- [scooter](/scooter)：スクーター（小型バイク）
+- [motorcycle](/word/motorcycle)：オートバイ
+- [scooter](/word/scooter)：スクーター（小型バイク）
 
 ---
 
 ## 📖 できればこれも
 
-- [car](/car)：車
-- [bus](/bus)：バス
+- [car](/word/car)：車
+- [bus](/word/bus)：バス
 
 <!-- cvid: aid10_bid19 -->

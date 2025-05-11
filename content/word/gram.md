@@ -97,7 +97,7 @@ TOEICでは、商品の説明や仕様、数量に関する文脈で登場する
 ## 🤔  kilogram との違いは？
 
 - **gram**：重さの単位で、1グラムはとても軽い（1000分の1キログラム）。
-- **[kilogram](/kilogram)**：重さの単位で、1キログラムは1000グラムに相当する。
+- **[kilogram](/word/kilogram)**：重さの単位で、1キログラムは1000グラムに相当する。
 
 gramは小さな重さを表すとき、kilogramはより大きな重さを表すときに使います。
 
@@ -105,14 +105,14 @@ gramは小さな重さを表すとき、kilogramはより大きな重さを表�
 
 ## 🧩 あわせて覚えたい
 
-- [ounce](/ounce)：オンス（ヤード・ポンド法の重さの単位）
-- [liter](/liter)：リットル（容量の単位）
+- [ounce](/word/ounce)：オンス（ヤード・ポンド法の重さの単位）
+- [liter](/word/liter)：リットル（容量の単位）
 
 ---
 
 ## 📖 できればこれも
 
-- [meter](/meter)：メートル（長さの単位）
-- [centimeter](/centimeter)：センチメートル（長さの単位）
+- [meter](/word/meter)：メートル（長さの単位）
+- [centimeter](/word/centimeter)：センチメートル（長さの単位）
 
 <!-- cvid: aid05_bid23 -->

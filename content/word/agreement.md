@@ -98,7 +98,7 @@ TOEICでは契約書やビジネス文書、メールなどで頻出します。
 ## 🤔  contract との違いは？
 
 - **agreement**：合意や協定全般を指し、口頭や書面どちらにも使える。
-- **[contract](/contract)**：法的拘束力のある正式な契約書を指す。
+- **[contract](/word/contract)**：法的拘束力のある正式な契約書を指す。
 
 agreementは幅広い「合意」を表し、contractは特に法的効力のある「契約書」に限定されます。
 
@@ -106,14 +106,14 @@ agreementは幅広い「合意」を表し、contractは特に法的効力のあ
 
 ## 🧩 あわせて覚えたい
 
-- [consensus](/consensus)：意見の一致、総意
-- [disagreement](/disagreement)：不一致、意見の相違
+- [consensus](/word/consensus)：意見の一致、総意
+- [disagreement](/word/disagreement)：不一致、意見の相違
 
 ---
 
 ## 📖 できればこれも
 
-- [arrangement](/arrangement)：取り決め、準備
-- [approval](/approval)：承認、許可
+- [arrangement](/word/arrangement)：取り決め、準備
+- [approval](/word/approval)：承認、許可
 
 <!-- cvid: aid41_bid36 -->

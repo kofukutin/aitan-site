@@ -97,7 +97,7 @@ TOEICではPart 7の長文やメール文中で「同僚」「仲間」として
 ## 🤔  colleague との違いは？
 
 - **fellow**：カジュアルに「仲間」「同僚」「やつ」など幅広く使える。
-- **[colleague](/colleague)**：フォーマルに「職場の同僚」を指す。
+- **[colleague](/word/colleague)**：フォーマルに「職場の同僚」を指す。
 
 fellowは親しみやすい表現で、職場以外の仲間にも使えますが、colleagueは職場限定でフォーマルな響きがあります。
 
@@ -105,14 +105,14 @@ fellowは親しみやすい表現で、職場以外の仲間にも使えます�
 
 ## 🧩 あわせて覚えたい
 
-- [peer](/peer)：同じ地位や年齢の仲間
-- [companion](/companion)：一緒に行動する相手、連れ
+- [peer](/word/peer)：同じ地位や年齢の仲間
+- [companion](/word/companion)：一緒に行動する相手、連れ
 
 ---
 
 ## 📖 できればこれも
 
-- [member](/member)：メンバー、構成員
-- [partner](/partner)：相棒、パートナー
+- [member](/word/member)：メンバー、構成員
+- [partner](/word/partner)：相棒、パートナー
 
 <!-- cvid: aid01_bid14 -->

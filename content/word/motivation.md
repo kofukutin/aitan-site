@@ -97,7 +97,7 @@ motivationはTOEICの長文読解（Part 7）で、社員のやる気や職場�
 ## 🤔  incentive との違いは？
 
 - **motivation**：内面的なやる気や意欲、行動の理由
-- **[incentive](/incentive)**：外部から与えられる報酬や刺激
+- **[incentive](/word/incentive)**：外部から与えられる報酬や刺激
 
 motivationは自分の内側から湧き上がる気持ちを指し、incentiveはボーナスや特典など外部から与えられる動機付けを指します。
 
@@ -105,14 +105,14 @@ motivationは自分の内側から湧き上がる気持ちを指し、incentive�
 
 ## 🧩 あわせて覚えたい
 
-- [enthusiasm](/enthusiasm)：熱意、情熱
-- [goal](/goal)：目標
+- [enthusiasm](/word/enthusiasm)：熱意、情熱
+- [goal](/word/goal)：目標
 
 ---
 
 ## 📖 できればこれも
 
-- [inspire](/inspire)：刺激を与える、やる気にさせる
-- [achievement](/achievement)：達成、成果
+- [inspire](/word/inspire)：刺激を与える、やる気にさせる
+- [achievement](/word/achievement)：達成、成果
 
 <!-- cvid: aid12_bid43 -->

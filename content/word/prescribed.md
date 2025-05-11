@@ -97,7 +97,7 @@ TOEICでは医療やビジネスの文書、手順書などで「prescribed proc
 ## 🤔  recommended との違いは？
 
 - **prescribed**：権威や規則によって「正式に定められた」「処方された」
-- **[recommended](/recommended)**：推奨された、勧められた
+- **[recommended](/word/recommended)**：推奨された、勧められた
 
 prescribedは「必ず守るべき」ニュアンスが強く、recommendedは「守ると良い」程度の柔らかい表現です。
 
@@ -105,14 +105,14 @@ prescribedは「必ず守るべき」ニュアンスが強く、recommendedは�
 
 ## 🧩 あわせて覚えたい
 
-- [mandatory](/mandatory)：義務的な、強制の
-- [authorized](/authorized)：公認の、許可された
+- [mandatory](/word/mandatory)：義務的な、強制の
+- [authorized](/word/authorized)：公認の、許可された
 
 ---
 
 ## 📖 できればこれも
 
-- [prohibited](/prohibited)：禁止された
-- [approved](/approved)：承認された
+- [prohibited](/word/prohibited)：禁止された
+- [approved](/word/approved)：承認された
 
 <!-- cvid: aid20_bid21 -->

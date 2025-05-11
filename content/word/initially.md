@@ -93,7 +93,7 @@ TOEICでは会議や計画の説明、手順の流れを示す文脈で「最初
 ## 🤔  originally との違いは？
 
 - **initially**：物事の「最初の段階で」「初めに」
-- **[originally](/originally)**：もともと、当初は（その後変化があったことを暗示）
+- **[originally](/word/originally)**：もともと、当初は（その後変化があったことを暗示）
 
 initiallyは「始まりの時点」を客観的に示し、originallyは「もともとはそうだったが今は違う」ニュアンスが強いです。
 
@@ -101,14 +101,14 @@ initiallyは「始まりの時点」を客観的に示し、originallyは「も�
 
 ## 🧩 あわせて覚えたい
 
-- [eventually](/eventually)：最終的に
-- [temporarily](/temporarily)：一時的に
+- [eventually](/word/eventually)：最終的に
+- [temporarily](/word/temporarily)：一時的に
 
 ---
 
 ## 📖 できればこれも
 
-- [finally](/finally)：ついに、最後に
-- [recently](/recently)：最近
+- [finally](/word/finally)：ついに、最後に
+- [recently](/word/recently)：最近
 
 <!-- cvid: aid11_bid28 -->

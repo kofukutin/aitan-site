@@ -97,7 +97,7 @@ TOEICでは、契約書や規則、組織の説明文などで「governing body�
 ## 🤔  controlling との違いは？
 
 - **governing**：組織や制度などを公式に統治・管理するニュアンス
-- **[controlling](/controlling)**：より広く「制御する」「管理する」意味で、公式性は問わない
+- **[controlling](/word/controlling)**：より広く「制御する」「管理する」意味で、公式性は問わない
 
 「governing」は法律や組織などの公式な枠組みで使われることが多く、「controlling」は日常的な管理や制御にも使えます。
 
@@ -105,14 +105,14 @@ TOEICでは、契約書や規則、組織の説明文などで「governing body�
 
 ## 🧩 あわせて覚えたい
 
-- [regulating](/regulating)：規制する、調整する
-- [administrative](/administrative)：管理の、行政の
+- [regulating](/word/regulating)：規制する、調整する
+- [administrative](/word/administrative)：管理の、行政の
 
 ---
 
 ## 📖 できればこれも
 
-- [legislative](/legislative)：立法の
-- [executive](/executive)：執行の、経営の
+- [legislative](/word/legislative)：立法の
+- [executive](/word/executive)：執行の、経営の
 
 <!-- cvid: aid24_bid34 -->

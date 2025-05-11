@@ -97,7 +97,7 @@ TOEICでは、施設や交通、イベントなどの混雑状況を説明する
 ## 🤔  congest との違いは？
 
 - **overcrowd**：人や物が多すぎて「過密にする」「混雑させる」という意味で、主に人や物の数に焦点を当てる。
-- **[congest](/congest)**：交通や流れを「詰まらせる」「渋滞させる」という意味で、流れや通行の妨げに焦点を当てる。
+- **[congest](/word/congest)**：交通や流れを「詰まらせる」「渋滞させる」という意味で、流れや通行の妨げに焦点を当てる。
 
 overcrowdは「人数や物が多すぎる」こと、congestは「流れが妨げられる」ことに主眼があります。
 
@@ -105,14 +105,14 @@ overcrowdは「人数や物が多すぎる」こと、congestは「流れが妨�
 
 ## 🧩 あわせて覚えたい
 
-- [evacuate](/evacuate)：避難させる
-- [populate](/populate)：住まわせる、人口を増やす
+- [evacuate](/word/evacuate)：避難させる
+- [populate](/word/populate)：住まわせる、人口を増やす
 
 ---
 
 ## 📖 できればこれも
 
-- [overwhelm](/overwhelm)：圧倒する
-- [overflow](/overflow)：あふれる
+- [overwhelm](/word/overwhelm)：圧倒する
+- [overflow](/word/overflow)：あふれる
 
 <!-- cvid: aid49_bid46 -->

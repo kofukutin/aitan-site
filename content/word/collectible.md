@@ -96,7 +96,7 @@ TOEICでは、商品説明や広告、ビジネスメールなどで collectible
 ## 🤔  collection との違いは？
 
 - **collectible**：収集の対象となる個々のアイテムや品物
-- **[collection](/collection)**：集められた品々の集まりやコレクション全体
+- **[collection](/word/collection)**：集められた品々の集まりやコレクション全体
 
 collectible は「1つ1つの収集品」、collection は「集めたもの全体」を指すので、使い分けに注意しましょう。
 
@@ -104,14 +104,14 @@ collectible は「1つ1つの収集品」、collection は「集めたもの全�
 
 ## 🧩 あわせて覚えたい
 
-- [souvenir](/souvenir)：お土産、記念品
-- [memorabilia](/memorabilia)：記念品、思い出の品
+- [souvenir](/word/souvenir)：お土産、記念品
+- [memorabilia](/word/memorabilia)：記念品、思い出の品
 
 ---
 
 ## 📖 できればこれも
 
-- [valuable](/valuable)：価値のある
-- [auction](/auction)：オークション、競売
+- [valuable](/word/valuable)：価値のある
+- [auction](/word/auction)：オークション、競売
 
 <!-- cvid: aid42_bid09 -->

@@ -97,7 +97,7 @@ TOEICでは、形容詞として「separated rooms（別々の部屋）」や「
 ## 🤔  divided との違いは？
 
 - **separated**：物理的・心理的に「分かれている」「離れている」状態を表す。
-- **[divided](/divided)**：何かを「分割する」「区切る」など、意図的に分けるニュアンスが強い。
+- **[divided](/word/divided)**：何かを「分割する」「区切る」など、意図的に分けるニュアンスが強い。
 
 separatedは「自然に離れている」や「状態として分かれている」ことを表し、dividedは「意図的に分けた」や「区切った」ことを強調します。
 
@@ -105,14 +105,14 @@ separatedは「自然に離れている」や「状態として分かれてい�
 
 ## 🧩 あわせて覚えたい
 
-- [isolated](/isolated)：孤立した、隔離された
-- [connected](/connected)：つながった、接続された
+- [isolated](/word/isolated)：孤立した、隔離された
+- [connected](/word/connected)：つながった、接続された
 
 ---
 
 ## 📖 できればこれも
 
-- [attached](/attached)：取り付けられた、付属の
-- [apart](/apart)：離れて、別々に
+- [attached](/word/attached)：取り付けられた、付属の
+- [apart](/word/apart)：離れて、別々に
 
 <!-- cvid: aid26_bid08 -->

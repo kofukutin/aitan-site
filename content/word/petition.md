@@ -97,7 +97,7 @@ TOEICではPart 7の長文やEメール、掲示文などで「petition」が登
 ## 🤔  request との違いは？
 
 - **petition**：多くの人が署名する正式な「嘆願書」や「申し立て」を指し、フォーマルで集団的なニュアンスが強い。
-- **[request](/request)**：個人や少人数が行う「依頼」や「要請」で、日常的かつ幅広い場面で使われる。
+- **[request](/word/request)**：個人や少人数が行う「依頼」や「要請」で、日常的かつ幅広い場面で使われる。
 
 petitionは公的・集団的な要望、requestは個人レベルの依頼に使い分けます。
 
@@ -105,14 +105,14 @@ petitionは公的・集団的な要望、requestは個人レベルの依頼に�
 
 ## 🧩 あわせて覚えたい
 
-- [appeal](/appeal)：訴え、上訴
-- [proposal](/proposal)：提案
+- [appeal](/word/appeal)：訴え、上訴
+- [proposal](/word/proposal)：提案
 
 ---
 
 ## 📖 できればこれも
 
-- [application](/application)：申請、応募
-- [complaint](/complaint)：苦情、申し立て
+- [application](/word/application)：申請、応募
+- [complaint](/word/complaint)：苦情、申し立て
 
 <!-- cvid: aid17_bid22 -->

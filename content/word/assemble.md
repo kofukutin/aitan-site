@@ -97,7 +97,7 @@ TOEICでは「人が集まる」「部品を組み立てる」などの文脈で
 ## 🤔  gather との違いは？
 
 - **assemble**：目的や計画のもとに人や物を集める、または部品を組み立てる
-- **[gather](/gather)**：自然に集まる、または広く集める
+- **[gather](/word/gather)**：自然に集まる、または広く集める
 
 「assemble」は計画的・組織的に集める・組み立てる場合に使い、「gather」は人や物が自然に集まる場合や、ざっくりと集める場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは「人が集まる」「部品を組み立てる」などの文脈で
 
 ## 🧩 あわせて覚えたい
 
-- [collect](/collect)：集める（広く物を集めるニュアンス）
-- [disperse](/disperse)：散らす、分散させる（対義語）
+- [collect](/word/collect)：集める（広く物を集めるニュアンス）
+- [disperse](/word/disperse)：散らす、分散させる（対義語）
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/arrange)：手配する、整える
-- [install](/install)：設置する、取り付ける
+- [arrange](/word/arrange)：手配する、整える
+- [install](/word/install)：設置する、取り付ける
 
 <!-- cvid: aid43_bid15 -->

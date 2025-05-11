@@ -97,7 +97,7 @@ TOEICでは申込書やメール、会話文などで頻繁に登場し、基本
 ## 🤔  title との違いは？
 
 - **name**：人や物の「名前」や「氏名」を指す。
-- **[title](/title)**：役職名や肩書き、作品名など「称号」や「タイトル」を指す。
+- **[title](/word/title)**：役職名や肩書き、作品名など「称号」や「タイトル」を指す。
 
 「name」は個人や物の識別名、「title」は役職や作品の名称など特定の肩書きや題名を表します。
 
@@ -105,14 +105,14 @@ TOEICでは申込書やメール、会話文などで頻繁に登場し、基本
 
 ## 🧩 あわせて覚えたい
 
-- [nickname](/nickname)：あだ名、ニックネーム
-- [brand](/brand)：ブランド、商標
+- [nickname](/word/nickname)：あだ名、ニックネーム
+- [brand](/word/brand)：ブランド、商標
 
 ---
 
 ## 📖 できればこれも
 
-- [address](/address)：住所
-- [company](/company)：会社
+- [address](/word/address)：住所
+- [company](/word/company)：会社
 
 <!-- cvid: aid09_bid23 -->

@@ -98,7 +98,7 @@ TOEICでは、ビジネス文書や会議の場面で「過剰なコスト」「
 ## 🤔  extreme との違いは？
 
 - **excessive**：基準や適量を超えて「やりすぎ」「多すぎ」と否定的に表現する
-- **[extreme](/extreme)**：極端・極度であることを強調し、良い意味・悪い意味どちらにも使える
+- **[extreme](/word/extreme)**：極端・極度であることを強調し、良い意味・悪い意味どちらにも使える
 
 excessiveは「必要以上で困る」ニュアンス、extremeは「極端である」こと自体を強調します。
 
@@ -106,14 +106,14 @@ excessiveは「必要以上で困る」ニュアンス、extremeは「極端で�
 
 ## 🧩 あわせて覚えたい
 
-- [moderate](/moderate)：適度な、穏やかな
-- [surplus](/surplus)：余剰、黒字
+- [moderate](/word/moderate)：適度な、穏やかな
+- [surplus](/word/surplus)：余剰、黒字
 
 ---
 
 ## 📖 できればこれも
 
-- [sufficient](/sufficient)：十分な
-- [adequate](/adequate)：適切な、十分な
+- [sufficient](/word/sufficient)：十分な
+- [adequate](/word/adequate)：適切な、十分な
 
 <!-- cvid: aid20_bid41 -->

@@ -98,7 +98,7 @@ TOEICでは求人や採用、申請に関する文脈で頻出します。特に
 ## 🤔  candidate との違いは？
 
 - **applicant**：何かに正式に申し込んだ人（応募者、申請者）
-- **[candidate](/candidate)**：候補者（選ばれる可能性がある人）
+- **[candidate](/word/candidate)**：候補者（選ばれる可能性がある人）
 
 applicantは「申し込んだ人」、candidateは「選考対象となる候補者」という違いがあります。応募した時点ではapplicant、選考が進むとcandidateと呼ばれることが多いです。
 
@@ -106,14 +106,14 @@ applicantは「申し込んだ人」、candidateは「選考対象となる候�
 
 ## 🧩 あわせて覚えたい
 
-- [recruit](/recruit)：新入社員、採用する
-- [employee](/employee)：従業員
+- [recruit](/word/recruit)：新入社員、採用する
+- [employee](/word/employee)：従業員
 
 ---
 
 ## 📖 できればこれも
 
-- [application](/application)：申請、応募
-- [interview](/interview)：面接
+- [application](/word/application)：申請、応募
+- [interview](/word/interview)：面接
 
 <!-- cvid: aid16_bid35 -->

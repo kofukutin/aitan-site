@@ -97,7 +97,7 @@ legislativeはTOEICの長文読解（Part 7）で、法律や規則、政府関�
 ## 🤔  executive との違いは？
 
 - **legislative**：法律を作ることや立法機関に関する
-- **[executive](/executive)**：行政の、実行する側に関する
+- **[executive](/word/executive)**：行政の、実行する側に関する
 
 legislativeは「法律を作る側」、executiveは「法律を実行・運用する側」を指し、政府の役割分担で使い分けます。
 
@@ -105,14 +105,14 @@ legislativeは「法律を作る側」、executiveは「法律を実行・運用
 
 ## 🧩 あわせて覚えたい
 
-- [judicial](/judicial)：司法の、裁判の
-- [statute](/statute)：制定法、法律
+- [judicial](/word/judicial)：司法の、裁判の
+- [statute](/word/statute)：制定法、法律
 
 ---
 
 ## 📖 できればこれも
 
-- [legal](/legal)：法律の、合法の
-- [regulation](/regulation)：規則、規制
+- [legal](/word/legal)：法律の、合法の
+- [regulation](/word/regulation)：規則、規制
 
 <!-- cvid: aid06_bid23 -->

@@ -97,7 +97,7 @@ TOEICでは、趣味や職業の違い、専門性に関する文脈で登場す
 ## 🤔  novice との違いは？
 
 - **amateur**：趣味や興味で行う素人、非専門家
-- **[novice](/novice)**：初心者、経験が浅い人
+- **[novice](/word/novice)**：初心者、経験が浅い人
 
 amateurは「趣味でやっている人」というニュアンスが強く、noviceは「始めたばかりの人」「経験が浅い人」を指します。
 
@@ -105,14 +105,14 @@ amateurは「趣味でやっている人」というニュアンスが強く、n
 
 ## 🧩 あわせて覚えたい
 
-- [professional](/professional)：プロ、専門家
-- [beginner](/beginner)：初心者
+- [professional](/word/professional)：プロ、専門家
+- [beginner](/word/beginner)：初心者
 
 ---
 
 ## 📖 できればこれも
 
-- [expert](/expert)：熟練者、専門家
-- [skill](/skill)：技能、スキル
+- [expert](/word/expert)：熟練者、専門家
+- [skill](/word/skill)：技能、スキル
 
 <!-- cvid: aid34_bid36 -->

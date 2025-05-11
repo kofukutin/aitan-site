@@ -97,7 +97,7 @@ municipalはTOEICの長文読解や説明文で、市や自治体に関する内
 ## 🤔  public との違いは？
 
 - **municipal**：市や町など地方自治体に関する、公的な
-- **[public](/public)**：一般の人々の、公衆の、公共の
+- **[public](/word/public)**：一般の人々の、公衆の、公共の
 
 municipalは「自治体運営」や「市町村レベル」に限定されるのに対し、publicは「広く一般の人々」や「公共全般」を指します。
 
@@ -105,15 +105,15 @@ municipalは「自治体運営」や「市町村レベル」に限定される�
 
 ## 🧩 あわせて覚えたい
 
-- [governmental](/governmental)：政府の、行政の
-- [local](/local)：地域の、地元の
+- [governmental](/word/governmental)：政府の、行政の
+- [local](/word/local)：地域の、地元の
 
 ---
 
 ## 📖 できればこれも
 
-- [regional](/regional)：地域の、地方の
-- [urban](/urban)：都市の
+- [regional](/word/regional)：地域の、地方の
+- [urban](/word/urban)：都市の
 
 
 <!-- cvid: aid00_bid48 -->

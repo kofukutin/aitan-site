@@ -97,7 +97,7 @@ TOEICではビジネスやプロジェクトに関する長文で、複数企業
 ## 🤔  alliance との違いは？
 
 - **consortium**：特定の目的のために結成された企業や団体の連合体
-- **[alliance](/alliance)**：より広い意味での同盟や提携関係
+- **[alliance](/word/alliance)**：より広い意味での同盟や提携関係
 
 consortiumは実務的・事業的な協力体制を強調し、allianceは政治的・経済的な幅広い提携を指すことが多いです。
 
@@ -105,14 +105,14 @@ consortiumは実務的・事業的な協力体制を強調し、allianceは政�
 
 ## 🧩 あわせて覚えたい
 
-- [partnership](/partnership)：パートナーシップ、協力関係
-- [syndicate](/syndicate)：企業連合、シンジケート
+- [partnership](/word/partnership)：パートナーシップ、協力関係
+- [syndicate](/word/syndicate)：企業連合、シンジケート
 
 ---
 
 ## 📖 できればこれも
 
-- [committee](/committee)：委員会
-- [association](/association)：協会、団体
+- [committee](/word/committee)：委員会
+- [association](/word/association)：協会、団体
 
 <!-- cvid: aid03_bid35 -->

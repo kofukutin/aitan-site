@@ -97,7 +97,7 @@ TOEICでは文法や語彙問題で「短縮形」や「収縮」という意味
 ## 🤔  abbreviation との違いは？
 
 - **contraction**：2語以上を短縮して1語にまとめることや、物理的な収縮を指す。
-- **[abbreviation](/abbreviation)**：単語や語句を短く省略した形（例："etc."は"et cetera"の略）。
+- **[abbreviation](/word/abbreviation)**：単語や語句を短く省略した形（例："etc."は"et cetera"の略）。
 
 contractionは主に単語や表現を短縮して1語にする場合や物理的な縮小に使い、abbreviationは単語やフレーズを頭文字などで省略する場合に使います。
 
@@ -105,14 +105,14 @@ contractionは主に単語や表現を短縮して1語にする場合や物理�
 
 ## 🧩 あわせて覚えたい
 
-- [expansion](/expansion)：拡大、膨張
-- [reduction](/reduction)：削減、縮小
+- [expansion](/word/expansion)：拡大、膨張
+- [reduction](/word/reduction)：削減、縮小
 
 ---
 
 ## 📖 できればこれも
 
-- [expansion](/expansion)：拡大、膨張
-- [summary](/summary)：要約
+- [expansion](/word/expansion)：拡大、膨張
+- [summary](/word/summary)：要約
 
 <!-- cvid: aid42_bid09 -->

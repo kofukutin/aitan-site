@@ -97,7 +97,7 @@ TOEICでは、製品のサイズや容量、技術的な説明文で「cubic」�
 ## 🤔  square との違いは？
 
 - **cubic**：立方体の形や体積（3乗）を表す
-- **[square](/square)**：正方形や面積（2乗）を表す
+- **[square](/word/square)**：正方形や面積（2乗）を表す
 
 「cubic」は体積や立体の形を、「square」は面積や平面の形を表すときに使い分けます。
 
@@ -105,14 +105,14 @@ TOEICでは、製品のサイズや容量、技術的な説明文で「cubic」�
 
 ## 🧩 あわせて覚えたい
 
-- [volume](/volume)：体積
-- [rectangular](/rectangular)：長方形の、長方体の
+- [volume](/word/volume)：体積
+- [rectangular](/word/rectangular)：長方形の、長方体の
 
 ---
 
 ## 📖 できればこれも
 
-- [cylinder](/cylinder)：円柱
-- [sphere](/sphere)：球体
+- [cylinder](/word/cylinder)：円柱
+- [sphere](/word/sphere)：球体
 
 <!-- cvid: aid38_bid26 -->

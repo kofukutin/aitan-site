@@ -97,7 +97,7 @@ TOEICでは、形容詞の語彙問題や、否定的な意味を問う文脈で
 ## 🤔  mean との違いは？
 
 - **nasty**：不快さや意地悪さ、汚さ、危険さなど幅広い否定的な意味を持つ
-- **[mean](/mean)**：意地悪・冷たい性格や行動を指す
+- **[mean](/word/mean)**：意地悪・冷たい性格や行動を指す
 
 「nasty」は状況や物にも使え、より広い否定的なニュアンスを持ちますが、「mean」は主に人の性格や行動の「意地悪さ」に限定されます。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞の語彙問題や、否定的な意味を問う文脈で
 
 ## 🧩 あわせて覚えたい
 
-- [rude](/rude)：失礼な
-- [unpleasant](/unpleasant)：不快な
+- [rude](/word/rude)：失礼な
+- [unpleasant](/word/unpleasant)：不快な
 
 ---
 
 ## 📖 できればこれも
 
-- [harsh](/harsh)：厳しい、辛辣な
-- [polite](/polite)：礼儀正しい
+- [harsh](/word/harsh)：厳しい、辛辣な
+- [polite](/word/polite)：礼儀正しい
 
 <!-- cvid: aid11_bid15 -->

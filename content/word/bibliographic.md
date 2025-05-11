@@ -97,7 +97,7 @@ TOEICでは主にPart 7の学術的な記事やレポート、参考文献リス
 ## 🤔  bibliographical との違いは？
 
 - **bibliographic**：書誌に関する、書誌情報の（やや実務的・限定的）
-- **[bibliographical](/bibliographical)**：書誌学の、書誌に関する（より学問的・広範囲）
+- **[bibliographical](/word/bibliographical)**：書誌学の、書誌に関する（より学問的・広範囲）
 
 どちらも「書誌の」という意味ですが、bibliographicは実際の文献リストや情報整理に、bibliographicalは学問的な書誌学全般や研究分野に使われる傾向があります。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 7の学術的な記事やレポート、参考文献リス
 
 ## 🧩 あわせて覚えたい
 
-- [reference](/reference)：参照、参考文献
-- [citation](/citation)：引用、引用文
+- [reference](/word/reference)：参照、参考文献
+- [citation](/word/citation)：引用、引用文
 
 ---
 
 ## 📖 できればこれも
 
-- [academic](/academic)：学問の、学術的な
-- [literary](/literary)：文学の、文芸の
+- [academic](/word/academic)：学問の、学術的な
+- [literary](/word/literary)：文学の、文芸の
 
 <!-- cvid: aid36_bid27 -->

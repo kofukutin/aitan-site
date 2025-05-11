@@ -97,7 +97,7 @@ TOEICでは観光や文化紹介、エンタメ関連の記事や広告文で登
 ## 🤔  cartoon との違いは？
 
 - **anime**：日本発祥のアニメーション作品やそのスタイルを指す
-- **[cartoon](/cartoon)**：西洋のアニメや漫画、風刺画など幅広く指す
+- **[cartoon](/word/cartoon)**：西洋のアニメや漫画、風刺画など幅広く指す
 
 animeは日本独自のアニメーション文化を強調する時に使い、cartoonはより一般的なアニメや漫画全般を指します。
 
@@ -105,14 +105,14 @@ animeは日本独自のアニメーション文化を強調する時に使い、
 
 ## 🧩 あわせて覚えたい
 
-- [manga](/manga)：日本の漫画、コミック
-- [animation](/animation)：アニメーション、動画制作
+- [manga](/word/manga)：日本の漫画、コミック
+- [animation](/word/animation)：アニメーション、動画制作
 
 ---
 
 ## 📖 できればこれも
 
-- [comic](/comic)：漫画、コミック
-- [character](/character)：キャラクター、登場人物
+- [comic](/word/comic)：漫画、コミック
+- [character](/word/character)：キャラクター、登場人物
 
 <!-- cvid: aid13_bid33 -->

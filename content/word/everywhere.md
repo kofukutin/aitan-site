@@ -93,7 +93,7 @@ TOEICでは会話や説明文で「どこでも」「あらゆる場所で」と
 ## 🤔  anywhere との違いは？
 
 - **everywhere**：あらゆる場所で、どこでも（全体を強調）
-- **[anywhere](/anywhere)**：どこか、どこでも（場所を特定せず、否定文や疑問文でよく使う）
+- **[anywhere](/word/anywhere)**：どこか、どこでも（場所を特定せず、否定文や疑問文でよく使う）
 
 everywhereは「すべての場所」を指し、anywhereは「どこか」「どこでも」と幅広く使えますが、特に否定文や疑問文で使われる点が異なります。
 
@@ -101,14 +101,14 @@ everywhereは「すべての場所」を指し、anywhereは「どこか」「�
 
 ## 🧩 あわせて覚えたい
 
-- [nowhere](/nowhere)：どこにも～ない
-- [somewhere](/somewhere)：どこかで
+- [nowhere](/word/nowhere)：どこにも～ない
+- [somewhere](/word/somewhere)：どこかで
 
 ---
 
 ## 📖 できればこれも
 
-- [always](/always)：いつも
-- [anyone](/anyone)：誰でも
+- [always](/word/always)：いつも
+- [anyone](/word/anyone)：誰でも
 
 <!-- cvid: aid41_bid16 -->

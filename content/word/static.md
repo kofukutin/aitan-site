@@ -97,7 +97,7 @@ ITや技術関連の説明文や仕様書で見かけることが多い単語で
 ## 🤔  stationary との違いは？
 
 - **static**：動きや変化がない状態、特に技術やIT分野で「静的な」として使われる
-- **[stationary](/stationary)**：物理的に「動かない」「静止している」状態を指す
+- **[stationary](/word/stationary)**：物理的に「動かない」「静止している」状態を指す
 
 staticは「変化しない性質」や「一定であること」に焦点があり、stationaryは「物理的にその場から動かない」ことを強調します。
 
@@ -105,14 +105,14 @@ staticは「変化しない性質」や「一定であること」に焦点が�
 
 ## 🧩 あわせて覚えたい
 
-- [dynamic](/dynamic)：動的な、変化する
-- [stable](/stable)：安定した、しっかりした
+- [dynamic](/word/dynamic)：動的な、変化する
+- [stable](/word/stable)：安定した、しっかりした
 
 ---
 
 ## 📖 できればこれも
 
-- [manual](/manual)：手動の、手引き
-- [digital](/digital)：デジタルの、電子的な
+- [manual](/word/manual)：手動の、手引き
+- [digital](/word/digital)：デジタルの、電子的な
 
 <!-- cvid: aid02_bid41 -->

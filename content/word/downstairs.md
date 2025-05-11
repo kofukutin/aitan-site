@@ -93,7 +93,7 @@ TOEICでは主にPart 1の写真描写問題で、建物内の位置や人の動
 ## 🤔  below との違いは？
 
 - **downstairs**：建物内で「下の階へ」「下の階で」という意味
-- **[below](/below)**：ある基準より「下に」「下方に」という位置関係を表す
+- **[below](/word/below)**：ある基準より「下に」「下方に」という位置関係を表す
 
 downstairsは建物の階層移動に使い、belowは物や場所の上下関係全般に使います。
 
@@ -101,14 +101,14 @@ downstairsは建物の階層移動に使い、belowは物や場所の上下関�
 
 ## 🧩 あわせて覚えたい
 
-- [upstairs](/upstairs)：上の階へ、上の階で
-- [downward](/downward)：下向きに、下方へ
+- [upstairs](/word/upstairs)：上の階へ、上の階で
+- [downward](/word/downward)：下向きに、下方へ
 
 ---
 
 ## 📖 できればこれも
 
-- [outside](/outside)：外で、外へ
-- [inside](/inside)：中で、中へ
+- [outside](/word/outside)：外で、外へ
+- [inside](/word/inside)：中で、中へ
 
 <!-- cvid: aid37_bid39 -->

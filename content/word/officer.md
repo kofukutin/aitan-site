@@ -97,7 +97,7 @@ TOEICでは、会社の役員や警察官などの意味で、メールや記事
 ## 🤔  official との違いは？
 
 - **officer**：組織や会社の役員・幹部、または警察官などの職務に就く人
-- **[official](/official)**：公的な立場の人、または「公式の」という形容詞
+- **[official](/word/official)**：公的な立場の人、または「公式の」という形容詞
 
 officerは組織内で責任ある役職や警察官を指し、officialは政府や団体の「公務員」や「公式の」という意味で使われます。
 
@@ -105,14 +105,14 @@ officerは組織内で責任ある役職や警察官を指し、officialは政�
 
 ## 🧩 あわせて覚えたい
 
-- [manager](/manager)：管理職、マネージャー
-- [executive](/executive)：重役、経営幹部
+- [manager](/word/manager)：管理職、マネージャー
+- [executive](/word/executive)：重役、経営幹部
 
 ---
 
 ## 📖 できればこれも
 
-- [employee](/employee)：従業員
-- [supervisor](/supervisor)：監督者、上司
+- [employee](/word/employee)：従業員
+- [supervisor](/word/supervisor)：監督者、上司
 
 <!-- cvid: aid38_bid16 -->

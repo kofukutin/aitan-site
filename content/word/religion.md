@@ -97,7 +97,7 @@ TOEICでは、宗教に関する話題や文化的背景を説明する長文や
 ## 🤔  faith との違いは？
 
 - **religion**：組織的な信仰体系や宗教そのものを指す
-- **[faith](/faith)**：個人の信仰心や信念を指す
+- **[faith](/word/faith)**：個人の信仰心や信念を指す
 
 religionは制度や集団としての宗教を表し、faithは個人の心の中の信仰や信念を強調します。
 
@@ -105,14 +105,14 @@ religionは制度や集団としての宗教を表し、faithは個人の心の�
 
 ## 🧩 あわせて覚えたい
 
-- [belief](/belief)：信念、信仰
-- [philosophy](/philosophy)：哲学、人生観
+- [belief](/word/belief)：信念、信仰
+- [philosophy](/word/philosophy)：哲学、人生観
 
 ---
 
 ## 📖 できればこれも
 
-- [culture](/culture)：文化
-- [tradition](/tradition)：伝統
+- [culture](/word/culture)：文化
+- [tradition](/word/tradition)：伝統
 
 <!-- cvid: aid19_bid21 -->

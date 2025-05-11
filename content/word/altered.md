@@ -98,7 +98,7 @@ TOEICでは、書類や計画の「変更」を表す文脈で出題されるこ
 ## 🤔  modified との違いは？
 
 - **altered**：元のものに手を加えて「変更された」状態。変化の程度は大小問わない。
-- **[modified](/modified)**：目的や条件に合わせて「調整・修正された」状態。より意図的・部分的な変更を示すことが多い。
+- **[modified](/word/modified)**：目的や条件に合わせて「調整・修正された」状態。より意図的・部分的な変更を示すことが多い。
 
 「altered」は単に変わったことを指し、「modified」は目的や用途に合わせて調整したニュアンスが強いです。
 
@@ -106,14 +106,14 @@ TOEICでは、書類や計画の「変更」を表す文脈で出題されるこ
 
 ## 🧩 あわせて覚えたい
 
-- [adjusted](/adjusted)：調整された
-- [unchanged](/unchanged)：変わっていない
+- [adjusted](/word/adjusted)：調整された
+- [unchanged](/word/unchanged)：変わっていない
 
 ---
 
 ## 📖 できればこれも
 
-- [amended](/amended)：修正された（特に文書や法律など）
-- [updated](/updated)：最新の状態にされた
+- [amended](/word/amended)：修正された（特に文書や法律など）
+- [updated](/word/updated)：最新の状態にされた
 
 <!-- cvid: aid05_bid32 -->

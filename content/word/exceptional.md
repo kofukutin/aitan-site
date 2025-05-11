@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や評価文で「exceptional performance（卓�
 ## 🤔  outstanding との違いは？
 
 - **exceptional**：例外的なほど優れている、特別である
-- **[outstanding](/outstanding)**：目立って優れている、傑出している
+- **[outstanding](/word/outstanding)**：目立って優れている、傑出している
 
 「exceptional」は「普通では考えられないほど特別」というニュアンスが強く、「outstanding」は「他と比べて目立つほど優れている」という意味で使い分けます。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネス文書や評価文で「exceptional performance（卓�
 
 ## 🧩 あわせて覚えたい
 
-- [ordinary](/ordinary)：普通の、平凡な
-- [remarkable](/remarkable)：注目すべき、著しい
+- [ordinary](/word/ordinary)：普通の、平凡な
+- [remarkable](/word/remarkable)：注目すべき、著しい
 
 ---
 
 ## 📖 できればこれも
 
-- [excellent](/excellent)：非常に優れた
-- [unique](/unique)：唯一無二の、独特な
+- [excellent](/word/excellent)：非常に優れた
+- [unique](/word/unique)：唯一無二の、独特な
 
 <!-- cvid: aid28_bid34 -->

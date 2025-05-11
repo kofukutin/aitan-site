@@ -97,7 +97,7 @@ TOEICでは、ITやビジネス文書の中で「保存された」「救われ�
 ## 🤔  stored との違いは？
 
 - **saved**：主に「保存した」「救った」という意味で、特にデータやファイルを意識的に保存した場合に使う。
-- **[stored](/stored)**：物やデータを「保管した」「蓄えた」という意味で、長期間しまっておくニュアンスが強い。
+- **[stored](/word/stored)**：物やデータを「保管した」「蓄えた」という意味で、長期間しまっておくニュアンスが強い。
 
 savedは「今すぐ使うために保存する」イメージ、storedは「しばらく保管しておく」イメージです。
 
@@ -105,14 +105,14 @@ savedは「今すぐ使うために保存する」イメージ、storedは「し
 
 ## 🧩 あわせて覚えたい
 
-- [protect](/protect)：守る、保護する
-- [backup](/backup)：バックアップ、予備
+- [protect](/word/protect)：守る、保護する
+- [backup](/word/backup)：バックアップ、予備
 
 ---
 
 ## 📖 できればこれも
 
-- [delete](/delete)：削除する
-- [update](/update)：更新する
+- [delete](/word/delete)：削除する
+- [update](/word/update)：更新する
 
 <!-- cvid: aid11_bid37 -->

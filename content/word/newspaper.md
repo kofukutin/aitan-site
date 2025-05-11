@@ -97,7 +97,7 @@ TOEICではPart 7の長文読解で、記事や広告、案内文などの文脈
 ## 🤔  magazine との違いは？
 
 - **newspaper**：日々のニュースや時事情報を主に伝える印刷物
-- **[magazine](/magazine)**：特定のテーマや趣味、専門分野に特化した定期刊行物
+- **[magazine](/word/magazine)**：特定のテーマや趣味、専門分野に特化した定期刊行物
 
 newspaperは速報性や時事性が重視されるのに対し、magazineは特集や連載など深掘りした内容が多い点が異なります。
 
@@ -105,14 +105,14 @@ newspaperは速報性や時事性が重視されるのに対し、magazineは特
 
 ## 🧩 あわせて覚えたい
 
-- [article](/article)：記事
-- [journal](/journal)：学術誌、日誌
+- [article](/word/article)：記事
+- [journal](/word/journal)：学術誌、日誌
 
 ---
 
 ## 📖 できればこれも
 
-- [report](/report)：報告書、レポート
-- [editor](/editor)：編集者
+- [report](/word/report)：報告書、レポート
+- [editor](/word/editor)：編集者
 
 <!-- cvid: aid24_bid25 -->

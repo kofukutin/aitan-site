@@ -97,7 +97,7 @@ TOEICでは建物の説明や案内、部屋の場所を尋ねる会話で登場
 ## 🤔  cellar との違いは？
 
 - **basement**：建物の地下にある部屋全般。居住や多目的利用も含む。
-- **[cellar](/cellar)**：主にワインや食料の貯蔵用の地下室。
+- **[cellar](/word/cellar)**：主にワインや食料の貯蔵用の地下室。
 
 basementは一般的な地下室全体を指し、cellarは特に貯蔵目的の地下室を指す点が異なります。
 
@@ -105,14 +105,14 @@ basementは一般的な地下室全体を指し、cellarは特に貯蔵目的の
 
 ## 🧩 あわせて覚えたい
 
-- [attic](/attic)：屋根裏部屋
-- [garage](/garage)：車庫
+- [attic](/word/attic)：屋根裏部屋
+- [garage](/word/garage)：車庫
 
 ---
 
 ## 📖 できればこれも
 
-- [floor](/floor)：階、床
-- [elevator](/elevator)：エレベーター
+- [floor](/word/floor)：階、床
+- [elevator](/word/elevator)：エレベーター
 
 <!-- cvid: aid19_bid38 -->

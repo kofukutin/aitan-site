@@ -97,7 +97,7 @@ TOEICでは「good luck」「bad luck」などの形で、日常的な表現や�
 ## 🤔  fortune との違いは？
 
 - **luck**：日常的な「運」や「偶然」を指し、良い場合も悪い場合も使う。
-- **[fortune](/fortune)**：よりフォーマルで「運命」や「財産」「大きな幸運」を指すことが多い。
+- **[fortune](/word/fortune)**：よりフォーマルで「運命」や「財産」「大きな幸運」を指すことが多い。
 
 「luck」はカジュアルで日常的な運、「fortune」は大きな幸運や運命的な出来事に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは「good luck」「bad luck」などの形で、日常的な表現や�
 
 ## 🧩 あわせて覚えたい
 
-- [chance](/chance)：偶然、機会
-- [risk](/risk)：危険、リスク
+- [chance](/word/chance)：偶然、機会
+- [risk](/word/risk)：危険、リスク
 
 ---
 
 ## 📖 できればこれも
 
-- [chance](/chance)：偶然、機会
-- [risk](/risk)：危険、リスク
+- [chance](/word/chance)：偶然、機会
+- [risk](/word/risk)：危険、リスク
 
 <!-- cvid: aid27_bid48 -->

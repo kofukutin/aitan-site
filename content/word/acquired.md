@@ -97,7 +97,7 @@ TOEICでは「acquired skills（習得したスキル）」や「acquired knowle
 ## 🤔  learned との違いは？
 
 - **acquired**：経験や努力によって「身につけた」「後天的な」という意味を強調
-- **[learned](/learned)**：学習や勉強によって「学んだ」「知識がある」という意味
+- **[learned](/word/learned)**：学習や勉強によって「学んだ」「知識がある」という意味
 
 acquiredは「生まれつきではなく、後から得た」ことを強調し、learnedは「学習によって知識や技術を得た」ことに焦点があります。
 
@@ -105,14 +105,14 @@ acquiredは「生まれつきではなく、後から得た」ことを強調し
 
 ## 🧩 あわせて覚えたい
 
-- [inherent](/inherent)：生まれつきの、固有の
-- [obtain](/obtain)：得る、手に入れる
+- [inherent](/word/inherent)：生まれつきの、固有の
+- [obtain](/word/obtain)：得る、手に入れる
 
 ---
 
 ## 📖 できればこれも
 
-- [required](/required)：必要とされる、必須の
-- [achieve](/achieve)：達成する、成し遂げる
+- [required](/word/required)：必要とされる、必須の
+- [achieve](/word/achieve)：達成する、成し遂げる
 
 <!-- cvid: aid16_bid24 -->

@@ -97,7 +97,7 @@ TOEICではビジネス記事や社内メールなどで、特定分野の「専
 ## 🤔  expert との違いは？
 
 - **guru**：カリスマ性や指導的立場を持つ専門家、影響力が強い
-- **[expert](/expert)**：知識や技術が非常に高い専門家
+- **[expert](/word/expert)**：知識や技術が非常に高い専門家
 
 guruは「人々を導く存在」「カリスマ的な影響力」を強調し、expertは純粋に知識や技術の高さを指します。
 
@@ -105,14 +105,14 @@ guruは「人々を導く存在」「カリスマ的な影響力」を強調し�
 
 ## 🧩 あわせて覚えたい
 
-- [mentor](/mentor)：指導者、助言者
-- [novice](/novice)：初心者
+- [mentor](/word/mentor)：指導者、助言者
+- [novice](/word/novice)：初心者
 
 ---
 
 ## 📖 できればこれも
 
-- [consultant](/consultant)：コンサルタント、相談役
-- [advisor](/advisor)：助言者、アドバイザー
+- [consultant](/word/consultant)：コンサルタント、相談役
+- [advisor](/word/advisor)：助言者、アドバイザー
 
 <!-- cvid: aid21_bid38 -->

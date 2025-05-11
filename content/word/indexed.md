@@ -97,7 +97,7 @@ TOEICではITやビジネス文書の説明部分で「indexed」が使われる
 ## 🤔  listed との違いは？
 
 - **indexed**：検索や整理のために体系的に分類・索引化された状態
-- **[listed](/listed)**：単にリストや一覧に載せられた状態
+- **[listed](/word/listed)**：単にリストや一覧に載せられた状態
 
 「indexed」は検索性や体系的な整理を強調し、「listed」は単に名前や項目が並んでいるだけのニュアンスです。
 
@@ -105,14 +105,14 @@ TOEICではITやビジネス文書の説明部分で「indexed」が使われる
 
 ## 🧩 あわせて覚えたい
 
-- [cataloged](/cataloged)：カタログ化された、分類された
-- [organized](/organized)：整理された
+- [cataloged](/word/cataloged)：カタログ化された、分類された
+- [organized](/word/organized)：整理された
 
 ---
 
 ## 📖 できればこれも
 
-- [sorted](/sorted)：並べ替えられた
-- [referenced](/referenced)：参照された
+- [sorted](/word/sorted)：並べ替えられた
+- [referenced](/word/referenced)：参照された
 
 <!-- cvid: aid38_bid33 -->

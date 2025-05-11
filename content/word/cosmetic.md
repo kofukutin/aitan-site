@@ -97,7 +97,7 @@ TOEICでは、広告や商品説明、ビジネスメールなどで「cosmetic�
 ## 🤔  makeup との違いは？
 
 - **cosmetic**：化粧品全般や美容目的の製品を指し、ややフォーマルな響き。
-- **[makeup](/makeup)**：主に顔に使う化粧品や「メイクそのもの」を指し、カジュアルな場面でよく使う。
+- **[makeup](/word/makeup)**：主に顔に使う化粧品や「メイクそのもの」を指し、カジュアルな場面でよく使う。
 
 「cosmetic」は製品や業界全体を指すことが多く、「makeup」は実際の化粧や顔に塗るものを指すことが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、広告や商品説明、ビジネスメールなどで「cosmetic�
 
 ## 🧩 あわせて覚えたい
 
-- [skincare](/skincare)：スキンケア、肌の手入れ
-- [ointment](/ointment)：軟膏、塗り薬
+- [skincare](/word/skincare)：スキンケア、肌の手入れ
+- [ointment](/word/ointment)：軟膏、塗り薬
 
 ---
 
 ## 📖 できればこれも
 
-- [pharmaceutical](/pharmaceutical)：医薬品、薬剤
-- [fragrance](/fragrance)：香り、香水
+- [pharmaceutical](/word/pharmaceutical)：医薬品、薬剤
+- [fragrance](/word/fragrance)：香り、香水
 
 <!-- cvid: aid27_bid13 -->

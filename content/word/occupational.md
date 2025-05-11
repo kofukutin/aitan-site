@@ -97,7 +97,7 @@ TOEICでは、職場環境や安全、健康に関する長文や案内文でよ
 ## 🤔  professional との違いは？
 
 - **occupational**：職業や仕事に「関する」ことを表す形容詞
-- **[professional](/professional)**：専門的・職業的であること、または専門職の人を指す
+- **[professional](/word/professional)**：専門的・職業的であること、または専門職の人を指す
 
 **occupational**は「職業に関する（一般的な）」という意味で使い、**professional**は「専門的な」「プロとしての」というニュアンスで、より専門性や資格を強調します。
 
@@ -105,14 +105,14 @@ TOEICでは、職場環境や安全、健康に関する長文や案内文でよ
 
 ## 🧩 あわせて覚えたい
 
-- [vocational](/vocational)：職業訓練の、職業に関する
-- [industrial](/industrial)：産業の、工業の
+- [vocational](/word/vocational)：職業訓練の、職業に関する
+- [industrial](/word/industrial)：産業の、工業の
 
 ---
 
 ## 📖 できればこれも
 
-- [corporate](/corporate)：企業の、法人の
-- [managerial](/managerial)：管理職の、経営の
+- [corporate](/word/corporate)：企業の、法人の
+- [managerial](/word/managerial)：管理職の、経営の
 
 <!-- cvid: aid05_bid42 -->

@@ -97,7 +97,7 @@ TOEICでは医療や健康に関する長文やEメール、案内文などで�
 ## 🤔  client との違いは？
 
 - **patient**：医療機関で診察や治療を受ける「患者」
-- **[client](/client)**：サービスや助言を受ける「顧客」「依頼人」
+- **[client](/word/client)**：サービスや助言を受ける「顧客」「依頼人」
 
 patientは医療現場で使われ、clientは法律・ビジネス・サービス業など幅広い分野で使われます。
 
@@ -105,14 +105,14 @@ patientは医療現場で使われ、clientは法律・ビジネス・サービ�
 
 ## 🧩 あわせて覚えたい
 
-- [doctor](/doctor)：医者
-- [treatment](/treatment)：治療
+- [doctor](/word/doctor)：医者
+- [treatment](/word/treatment)：治療
 
 ---
 
 ## 📖 できればこれも
 
-- [hospital](/hospital)：病院
-- [appointment](/appointment)：予約
+- [hospital](/word/hospital)：病院
+- [appointment](/word/appointment)：予約
 
 <!-- cvid: aid03_bid11 -->

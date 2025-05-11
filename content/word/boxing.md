@@ -97,7 +97,7 @@ TOEICではスポーツやイベント紹介の記事、広告文などで見か
 ## 🤔  wrestling との違いは？
 
 - **boxing**：グローブを着用し、パンチのみで戦う格闘技。
-- **[wrestling](/wrestling)**：組み技や投げ技を使う格闘技。
+- **[wrestling](/word/wrestling)**：組み技や投げ技を使う格闘技。
 
 boxingは主にパンチで勝敗を競うスポーツ、wrestlingは体を組み合わせて投げたり押さえ込んだりする点が大きく異なります。
 
@@ -105,14 +105,14 @@ boxingは主にパンチで勝敗を競うスポーツ、wrestlingは体を組�
 
 ## 🧩 あわせて覚えたい
 
-- [match](/match)：試合
-- [athlete](/athlete)：運動選手
+- [match](/word/match)：試合
+- [athlete](/word/athlete)：運動選手
 
 ---
 
 ## 📖 できればこれも
 
-- [swimming](/swimming)：水泳
-- [tennis](/tennis)：テニス
+- [swimming](/word/swimming)：水泳
+- [tennis](/word/tennis)：テニス
 
 <!-- cvid: aid06_bid45 -->

@@ -97,7 +97,7 @@ strongerは、比較や提案、意見交換の場面でよく登場します。
 ## 🤔  more powerful との違いは？
 
 - **stronger**：物理的・精神的な強さや、意見・組織など幅広い「強さ」の比較に使う。
-- **[more powerful](/more_powerful)**：特に「影響力」「権力」「エネルギー」などの強さを強調する。
+- **[more powerful](/word/more_powerful)**：特に「影響力」「権力」「エネルギー」などの強さを強調する。
 
 strongerは一般的な「強さ」の比較に使い、more powerfulは「力・影響力・パワー」の強さをより強調したいときに使います。
 
@@ -105,14 +105,14 @@ strongerは一般的な「強さ」の比較に使い、more powerfulは「力�
 
 ## 🧩 あわせて覚えたい
 
-- [tough](/tough)：たくましい、困難に強い
-- [weak](/weak)：弱い
+- [tough](/word/tough)：たくましい、困難に強い
+- [weak](/word/weak)：弱い
 
 ---
 
 ## 📖 できればこれも
 
-- [faster](/faster)：より速い
-- [better](/better)：より良い
+- [faster](/word/faster)：より速い
+- [better](/word/better)：より良い
 
 <!-- cvid: aid19_bid48 -->

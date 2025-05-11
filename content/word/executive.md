@@ -97,7 +97,7 @@ executiveはTOEICのビジネス文書やEメール、会議記録などで頻�
 ## 🤔  manager との違いは？
 
 - **executive**：企業や組織の上層部にいる重役・経営幹部を指す
-- **[manager](/manager)**：部門やチームの管理職で、現場の運営や人の管理を主に担当する
+- **[manager](/word/manager)**：部門やチームの管理職で、現場の運営や人の管理を主に担当する
 
 executiveは会社全体の方針決定など大きな責任を持つ役職、managerは現場の管理や運営を担う役職という違いがあります。
 
@@ -105,14 +105,14 @@ executiveは会社全体の方針決定など大きな責任を持つ役職、ma
 
 ## 🧩 あわせて覚えたい
 
-- [officer](/officer)：役員、幹部
-- [director](/director)：取締役、部長
+- [officer](/word/officer)：役員、幹部
+- [director](/word/director)：取締役、部長
 
 ---
 
 ## 📖 できればこれも
 
-- [committee](/committee)：委員会
-- [supervisor](/supervisor)：監督者、指導者
+- [committee](/word/committee)：委員会
+- [supervisor](/word/supervisor)：監督者、指導者
 
 <!-- cvid: aid28_bid30 -->

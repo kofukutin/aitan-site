@@ -97,7 +97,7 @@ TOEICでは、メールや書類のやり取り、連絡事項の伝達などで
 ## 🤔  send との違いは？
 
 - **sent**：sendの過去形・過去分詞。「送った」「送られた」という完了や過去の意味を持つ。
-- **[send](/send)**：原形。「送る」という現在や未来の動作を表す。
+- **[send](/word/send)**：原形。「送る」という現在や未来の動作を表す。
 
 sentは過去や完了の文脈で使い、sendは現在や未来の動作を表します。
 
@@ -105,14 +105,14 @@ sentは過去や完了の文脈で使い、sendは現在や未来の動作を表
 
 ## 🧩 あわせて覚えたい
 
-- [deliver](/deliver)：配達する、届ける
-- [receive](/receive)：受け取る
+- [deliver](/word/deliver)：配達する、届ける
+- [receive](/word/receive)：受け取る
 
 ---
 
 ## 📖 できればこれも
 
-- [bring](/bring)：持ってくる
-- [mail](/mail)：郵送する
+- [bring](/word/bring)：持ってくる
+- [mail](/word/mail)：郵送する
 
 <!-- cvid: aid08_bid45 -->

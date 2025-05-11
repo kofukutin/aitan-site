@@ -97,7 +97,7 @@ TOEICでは「basic skills（基礎的なスキル）」や「basic information�
 ## 🤔  fundamental との違いは？
 
 - **basic**：物事の初歩や土台、最低限必要なものを指す
-- **[fundamental](/fundamental)**：根本的で最も重要な本質や原理を指す
+- **[fundamental](/word/fundamental)**：根本的で最も重要な本質や原理を指す
 
 「basic」は「初歩的」「最低限必要」な意味合いが強く、「fundamental」は「根本的」「本質的」な重要性を強調します。
 
@@ -105,14 +105,14 @@ TOEICでは「basic skills（基礎的なスキル）」や「basic information�
 
 ## 🧩 あわせて覚えたい
 
-- [elementary](/elementary)：初歩的な、基本的な
-- [essential](/essential)：不可欠な、絶対必要な
+- [elementary](/word/elementary)：初歩的な、基本的な
+- [essential](/word/essential)：不可欠な、絶対必要な
 
 ---
 
 ## 📖 できればこれも
 
-- [simple](/simple)：簡単な、単純な
-- [primary](/primary)：主要な、第一の
+- [simple](/word/simple)：簡単な、単純な
+- [primary](/word/primary)：主要な、第一の
 
 <!-- cvid: aid22_bid35 -->

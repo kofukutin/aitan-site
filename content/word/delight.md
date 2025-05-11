@@ -98,7 +98,7 @@ TOEICでは会話や説明文で「喜び」や「満足」を表現する際に
 ## 🤔  pleasure との違いは？
 
 - **delight**：強い喜びや歓喜、心からのうれしさを表す。
-- **[pleasure](/pleasure)**：一般的な「楽しみ」や「満足感」を表し、delightよりもやや控えめ。
+- **[pleasure](/word/pleasure)**：一般的な「楽しみ」や「満足感」を表し、delightよりもやや控えめ。
 
 delightは「心が躍るほどの強い喜び」、pleasureは「穏やかな楽しさや満足感」といったニュアンスの違いがあります。
 
@@ -106,14 +106,14 @@ delightは「心が躍るほどの強い喜び」、pleasureは「穏やかな�
 
 ## 🧩 あわせて覚えたい
 
-- [joy](/joy)：純粋な喜び、幸せ
-- [disappointment](/disappointment)：失望、がっかり
+- [joy](/word/joy)：純粋な喜び、幸せ
+- [disappointment](/word/disappointment)：失望、がっかり
 
 ---
 
 ## 📖 できればこれも
 
-- [satisfy](/satisfy)：満足させる
-- [enjoy](/enjoy)：楽しむ
+- [satisfy](/word/satisfy)：満足させる
+- [enjoy](/word/enjoy)：楽しむ
 
 <!-- cvid: aid18_bid44 -->

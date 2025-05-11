@@ -98,7 +98,7 @@ TOEICでは「private room」「private lesson」など、形容詞として名�
 ## 🤔  personal との違いは？
 
 - **private**：他人に公開されていない、非公開の、個人所有の
-- **[personal](/personal)**：個人に直接関係する、個人的な
+- **[personal](/word/personal)**：個人に直接関係する、個人的な
 
 「private」は「他人に見せない」「公的でない」ことを強調し、「personal」は「自分自身に関係する」ことを強調します。
 
@@ -106,14 +106,14 @@ TOEICでは「private room」「private lesson」など、形容詞として名�
 
 ## 🧩 あわせて覚えたい
 
-- [public](/public)：公の、公開の
-- [confidential](/confidential)：機密の、内密の
+- [public](/word/public)：公の、公開の
+- [confidential](/word/confidential)：機密の、内密の
 
 ---
 
 ## 📖 できればこれも
 
-- [official](/official)：公式の、公的な
-- [individual](/individual)：個人の、個々の
+- [official](/word/official)：公式の、公的な
+- [individual](/word/individual)：個人の、個々の
 
 <!-- cvid: aid38_bid44 -->

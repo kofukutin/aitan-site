@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で自動車の部品として登場しま
 ## 🤔  fender との違いは？
 
 - **bumper**：車の前後にある衝撃吸収用の部品
-- **[fender](/fender)**：車輪の上にある泥よけや保護カバー
+- **[fender](/word/fender)**：車輪の上にある泥よけや保護カバー
 
 bumperは衝突時のダメージを和らげる部品、fenderはタイヤ周りの泥よけや保護カバーを指します。用途と位置が異なります。
 
@@ -105,14 +105,14 @@ bumperは衝突時のダメージを和らげる部品、fenderはタイヤ周�
 
 ## 🧩 あわせて覚えたい
 
-- [shield](/shield)：盾、防御するもの
-- [guard](/guard)：守るもの、ガード
+- [shield](/word/shield)：盾、防御するもの
+- [guard](/word/guard)：守るもの、ガード
 
 ---
 
 ## 📖 できればこれも
 
-- [mirror](/mirror)：鏡、ミラー
-- [license](/license)：免許、許可証
+- [mirror](/word/mirror)：鏡、ミラー
+- [license](/word/license)：免許、許可証
 
 <!-- cvid: aid23_bid13 -->

@@ -97,7 +97,7 @@ TOEICでは、福利厚生や人事関連、医療・健康に関する長文で
 ## 🤔  consultation との違いは？
 
 - **counseling**：心理的・精神的なサポートや助言を専門家が行うこと
-- **[consultation](/consultation)**：専門家への相談全般（医療・法律・ビジネスなど幅広い）
+- **[consultation](/word/consultation)**：専門家への相談全般（医療・法律・ビジネスなど幅広い）
 
 counselingは主に心のケアや個人の悩みに焦点を当て、consultationは幅広い分野での専門的な意見を求める場面で使います。
 
@@ -105,14 +105,14 @@ counselingは主に心のケアや個人の悩みに焦点を当て、consultati
 
 ## 🧩 あわせて覚えたい
 
-- [therapy](/therapy)：治療、療法
-- [advice](/advice)：助言、アドバイス
+- [therapy](/word/therapy)：治療、療法
+- [advice](/word/advice)：助言、アドバイス
 
 ---
 
 ## 📖 できればこれも
 
-- [session](/session)：（カウンセリングなどの）セッション、会合
-- [guidance](/guidance)：指導、案内
+- [session](/word/session)：（カウンセリングなどの）セッション、会合
+- [guidance](/word/guidance)：指導、案内
 
 <!-- cvid: aid39_bid04 -->

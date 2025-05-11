@@ -96,7 +96,7 @@ TOEICでは主にPart 1の写真描写で、家族や人物を説明する場面
 ## 🤔  girl との違いは？
 
 - **daughter**：親から見た「娘」
-- **[girl](/girl)**：年齢や関係に関係なく「女の子」
+- **[girl](/word/girl)**：年齢や関係に関係なく「女の子」
 
 「daughter」は家族関係を示す語で、親子のつながりを強調します。「girl」は単に性別や年齢層を指すだけで、家族関係は含みません。
 
@@ -104,14 +104,14 @@ TOEICでは主にPart 1の写真描写で、家族や人物を説明する場面
 
 ## 🧩 あわせて覚えたい
 
-- [son](/son)：息子
-- [mother](/mother)：母
+- [son](/word/son)：息子
+- [mother](/word/mother)：母
 
 ---
 
 ## 📖 できればこれも
 
-- [sister](/sister)：姉妹
-- [family](/family)：家族
+- [sister](/word/sister)：姉妹
+- [family](/word/family)：家族
 
 <!-- cvid: aid20_bid21 -->

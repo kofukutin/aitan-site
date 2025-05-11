@@ -97,7 +97,7 @@ TOEICでは「会議やイベントが開催された」という文脈でよく
 ## 🤔  organize との違いは？
 
 - **held**：会議やイベントなどを「開催した」「実施した」という事実を表す。
-- **[organize](/organize)**：会議やイベントを「企画・準備する」ことに重点がある。
+- **[organize](/word/organize)**：会議やイベントを「企画・準備する」ことに重点がある。
 
 「held」は実際にイベントが行われたことを示し、「organize」はその準備や計画に焦点を当てます。
 
@@ -105,14 +105,14 @@ TOEICでは「会議やイベントが開催された」という文脈でよく
 
 ## 🧩 あわせて覚えたい
 
-- [host](/host)：主催する、開催する
-- [attend](/attend)：出席する
+- [host](/word/host)：主催する、開催する
+- [attend](/word/attend)：出席する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/arrange)：手配する、準備する
-- [schedule](/schedule)：予定する、スケジュールを組む
+- [arrange](/word/arrange)：手配する、準備する
+- [schedule](/word/schedule)：予定する、スケジュールを組む
 
 <!-- cvid: aid29_bid06 -->

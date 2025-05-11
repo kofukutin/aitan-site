@@ -97,7 +97,7 @@ TOEICでは電話対応や内線案内の場面で出題されることが多い
 ## 🤔  call との違いは？
 
 - **dial**：電話番号を入力・回す動作に焦点
-- **[call](/call)**：電話をかける行為全体
+- **[call](/word/call)**：電話をかける行為全体
 
 「dial」は番号を押す・回す操作に特化し、「call」は通話そのものを指します。
 
@@ -105,14 +105,14 @@ TOEICでは電話対応や内線案内の場面で出題されることが多い
 
 ## 🧩 あわせて覚えたい
 
-- [connect](/connect)：接続する
-- [hang_up](/hang_up)：電話を切る
+- [connect](/word/connect)：接続する
+- [hang_up](/word/hang_up)：電話を切る
 
 ---
 
 ## 📖 できればこれも
 
-- [press](/press)：（ボタンを）押す
-- [answer](/answer)：（電話に）出る
+- [press](/word/press)：（ボタンを）押す
+- [answer](/word/answer)：（電話に）出る
 
 <!-- cvid: aid42_bid09 -->

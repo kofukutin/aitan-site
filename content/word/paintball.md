@@ -97,7 +97,7 @@ The company organized a paintball event for team building.
 ## 🤔  airsoft との違いは？
 
 - **paintball**：塗料入りの弾を撃ち合うスポーツやその弾自体。
-- **[airsoft](/airsoft)**：プラスチック弾を使うサバイバルゲーム。
+- **[airsoft](/word/airsoft)**：プラスチック弾を使うサバイバルゲーム。
 
 paintballは色が付く弾でヒットが分かりやすく、airsoftはよりリアルな銃とプラスチック弾を使う点が異なります。
 
@@ -105,14 +105,14 @@ paintballは色が付く弾でヒットが分かりやすく、airsoftはより�
 
 ## 🧩 あわせて覚えたい
 
-- [laser tag](/laser_tag)：赤外線を使ったサバイバルゲーム
-- [recreation](/recreation)：レクリエーション、娯楽
+- [laser tag](/word/laser_tag)：赤外線を使ったサバイバルゲーム
+- [recreation](/word/recreation)：レクリエーション、娯楽
 
 ---
 
 ## 📖 できればこれも
 
-- [bowling](/bowling)：ボウリング
-- [hiking](/hiking)：ハイキング
+- [bowling](/word/bowling)：ボウリング
+- [hiking](/word/hiking)：ハイキング
 
 <!-- cvid: aid37_bid14 -->

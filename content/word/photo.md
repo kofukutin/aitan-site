@@ -97,7 +97,7 @@ TOEICのPart 1（写真描写問題）で頻出。写真や画像に関する指
 ## 🤔  picture との違いは？
 
 - **photo**：カメラで撮影した「写真」を指すカジュアルな単語
-- **[picture](/picture)**：写真だけでなく絵やイラストなど「画像全般」を指す
+- **[picture](/word/picture)**：写真だけでなく絵やイラストなど「画像全般」を指す
 
 photoは「カメラで撮った写真」に限定されるのに対し、pictureは絵やイラストも含む幅広い意味で使われます。
 
@@ -105,14 +105,14 @@ photoは「カメラで撮った写真」に限定されるのに対し、pictur
 
 ## 🧩 あわせて覚えたい
 
-- [image](/image)：画像、映像
-- [snapshot](/snapshot)：スナップ写真、瞬間写真
+- [image](/word/image)：画像、映像
+- [snapshot](/word/snapshot)：スナップ写真、瞬間写真
 
 ---
 
 ## 📖 できればこれも
 
-- [camera](/camera)：カメラ、撮影機器
-- [album](/album)：アルバム、写真集
+- [camera](/word/camera)：カメラ、撮影機器
+- [album](/word/album)：アルバム、写真集
 
 <!-- cvid: aid06_bid10 -->

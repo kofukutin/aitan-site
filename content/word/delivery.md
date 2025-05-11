@@ -97,7 +97,7 @@ TOEICでは納品や配達に関するメールや案内文で頻出します。
 ## 🤔  shipment との違いは？
 
 - **delivery**：配達や引き渡しの「到着」や「受け取り」に重点がある
-- **[shipment](/shipment)**：商品の「発送」や「出荷」に重点がある
+- **[shipment](/word/shipment)**：商品の「発送」や「出荷」に重点がある
 
 deliveryは「届くこと」、shipmentは「送り出すこと」に焦点があり、使い分けが必要です。
 
@@ -105,14 +105,14 @@ deliveryは「届くこと」、shipmentは「送り出すこと」に焦点が�
 
 ## 🧩 あわせて覚えたい
 
-- [distribution](/distribution)：流通、分配
-- [dispatch](/dispatch)：発送、派遣
+- [distribution](/word/distribution)：流通、分配
+- [dispatch](/word/dispatch)：発送、派遣
 
 ---
 
 ## 📖 できればこれも
 
-- [order](/order)：注文
-- [invoice](/invoice)：請求書
+- [order](/word/order)：注文
+- [invoice](/word/invoice)：請求書
 
 <!-- cvid: aid48_bid25 -->

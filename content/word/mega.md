@@ -97,7 +97,7 @@ Our company just landed a mega deal with a global client.
 ## 🤔  massive との違いは？
 
 - **mega**：カジュアルで「超～」「とても大きい」という強調表現。主に会話や広告、IT分野で使われる。
-- **[massive](/massive)**：物理的・数量的に「巨大な」「大規模な」という意味で、ややフォーマル。
+- **[massive](/word/massive)**：物理的・数量的に「巨大な」「大規模な」という意味で、ややフォーマル。
 
 「mega」は感情やインパクトを強調したいときに使い、「massive」は客観的に大きさや規模を表現したいときに使います。
 
@@ -105,14 +105,14 @@ Our company just landed a mega deal with a global client.
 
 ## 🧩 あわせて覚えたい
 
-- [huge](/huge)：とても大きい
-- [gigantic](/gigantic)：巨大な
+- [huge](/word/huge)：とても大きい
+- [gigantic](/word/gigantic)：巨大な
 
 ---
 
 ## 📖 できればこれも
 
-- [micro](/micro)：とても小さい、微小な
-- [mini](/mini)：小型の、ミニサイズの
+- [micro](/word/micro)：とても小さい、微小な
+- [mini](/word/mini)：小型の、ミニサイズの
 
 <!-- cvid: aid30_bid22 -->

@@ -97,7 +97,7 @@ The patient's lung function has improved after the treatment.
 ## 🤔  liver との違いは？
 
 - **lung**：呼吸をつかさどる「肺」
-- **[liver](/liver)**：消化や解毒をつかさどる「肝臓」
+- **[liver](/word/liver)**：消化や解毒をつかさどる「肝臓」
 
 lungは呼吸に関わる臓器、liverは消化や解毒に関わる臓器で、役割が大きく異なります。
 
@@ -105,14 +105,14 @@ lungは呼吸に関わる臓器、liverは消化や解毒に関わる臓器で�
 
 ## 🧩 あわせて覚えたい
 
-- [heart](/heart)：心臓
-- [respiration](/respiration)：呼吸
+- [heart](/word/heart)：心臓
+- [respiration](/word/respiration)：呼吸
 
 ---
 
 ## 📖 できればこれも
 
-- [stomach](/stomach)：胃
-- [breath](/breath)：呼吸、息
+- [stomach](/word/stomach)：胃
+- [breath](/word/breath)：呼吸、息
 
 <!-- cvid: aid22_bid36 -->

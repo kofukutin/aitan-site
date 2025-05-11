@@ -97,7 +97,7 @@ TOEICでは「be supposed to ～」の形で、義務や予定、期待を表す
 ## 🤔  expected との違いは？
 
 - **supposed**：本来そうすることになっている、義務や予定を強調
-- **[expected](/expected)**：期待されている、予想されている
+- **[expected](/word/expected)**：期待されている、予想されている
 
 supposedは「ルールや決まりでそうすることになっている」ニュアンスが強く、expectedは「周囲がそうなるだろうと期待している」意味合いが強いです。
 
@@ -105,14 +105,14 @@ supposedは「ルールや決まりでそうすることになっている」ニ
 
 ## 🧩 あわせて覚えたい
 
-- [required](/required)：必要とされている、義務付けられている
-- [intended](/intended)：意図された、予定された
+- [required](/word/required)：必要とされている、義務付けられている
+- [intended](/word/intended)：意図された、予定された
 
 ---
 
 ## 📖 できればこれも
 
-- [responsible](/responsible)：責任がある
-- [scheduled](/scheduled)：予定されている
+- [responsible](/word/responsible)：責任がある
+- [scheduled](/word/scheduled)：予定されている
 
 <!-- cvid: aid11_bid05 -->

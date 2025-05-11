@@ -97,7 +97,7 @@ TOEICではスポーツイベントや趣味、文化紹介の記事で登場す
 ## 🤔  boxing との違いは？
 
 - **wrestling**：組み合って相手を倒す格闘技やスポーツ
-- **[boxing](/boxing)**：グローブを使い、パンチのみで戦う格闘技
+- **[boxing](/word/boxing)**：グローブを使い、パンチのみで戦う格闘技
 
 wrestlingは体全体を使って組み合う競技、boxingは主にパンチで戦う競技という違いがあります。
 
@@ -105,14 +105,14 @@ wrestlingは体全体を使って組み合う競技、boxingは主にパンチ�
 
 ## 🧩 あわせて覚えたい
 
-- [martial art](/martial_art)：武道、格闘技
-- [tournament](/tournament)：トーナメント、大会
+- [martial art](/word/martial_art)：武道、格闘技
+- [tournament](/word/tournament)：トーナメント、大会
 
 ---
 
 ## 📖 できればこれも
 
-- [athlete](/athlete)：運動選手
-- [competition](/competition)：競技、コンテスト
+- [athlete](/word/athlete)：運動選手
+- [competition](/word/competition)：競技、コンテスト
 
 <!-- cvid: aid08_bid03 -->

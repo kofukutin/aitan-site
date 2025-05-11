@@ -96,7 +96,7 @@ TOEICでは主に説明文や製品仕様、科学・技術関連の長文で登
 ## 🤔  bronze との違いは？
 
 - **copper**：純粋な金属の銅を指す
-- **[bronze](/bronze)**：銅とスズなどの合金で「青銅」を指す
+- **[bronze](/word/bronze)**：銅とスズなどの合金で「青銅」を指す
 
 copperは単体の金属、bronzeは複数の金属を混ぜた合金という違いがあります。
 
@@ -104,14 +104,14 @@ copperは単体の金属、bronzeは複数の金属を混ぜた合金という�
 
 ## 🧩 あわせて覚えたい
 
-- [iron](/iron)：鉄
-- [wire](/wire)：針金、ワイヤー
+- [iron](/word/iron)：鉄
+- [wire](/word/wire)：針金、ワイヤー
 
 ---
 
 ## 📖 できればこれも
 
-- [metal](/metal)：金属
-- [silver](/silver)：銀
+- [metal](/word/metal)：金属
+- [silver](/word/silver)：銀
 
 <!-- cvid: aid19_bid27 -->

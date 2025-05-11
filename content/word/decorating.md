@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、部屋やオフィスの装飾
 ## 🤔  furnishing との違いは？
 
 - **decorating**：部屋や空間を美しく飾ること、壁紙やペンキ、装飾品などを使う
-- **[furnishing](/furnishing)**：家具やカーテンなどを配置して部屋を整えること
+- **[furnishing](/word/furnishing)**：家具やカーテンなどを配置して部屋を整えること
 
 decoratingは「見た目を美しくする装飾」に重点があり、furnishingは「家具などを置いて実用的に整える」ことに重点があります。
 
@@ -105,14 +105,14 @@ decoratingは「見た目を美しくする装飾」に重点があり、furnish
 
 ## 🧩 あわせて覚えたい
 
-- [renovate](/renovate)：改装する
-- [paint](/paint)：ペンキを塗る
+- [renovate](/word/renovate)：改装する
+- [paint](/word/paint)：ペンキを塗る
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/arrange)：配置する、整える
-- [organize](/organize)：整理する、まとめる
+- [arrange](/word/arrange)：配置する、整える
+- [organize](/word/organize)：整理する、まとめる
 
 <!-- cvid: aid03_bid03 -->

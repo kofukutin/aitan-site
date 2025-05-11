@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、服装や持ち物を説明す
 ## 🤔  muffler との違いは？
 
 - **scarf**：ファッションや防寒用の首に巻く布全般を指す。
-- **[muffler](/muffler)**：特に防寒目的で使う厚手のマフラー。
+- **[muffler](/word/muffler)**：特に防寒目的で使う厚手のマフラー。
 
 scarfはおしゃれ用も含め幅広く使われ、mufflerは防寒用の厚手のものに限定される傾向があります。
 
@@ -105,14 +105,14 @@ scarfはおしゃれ用も含め幅広く使われ、mufflerは防寒用の厚�
 
 ## 🧩 あわせて覚えたい
 
-- [shawl](/shawl)：肩掛け、ショール
-- [bandana](/bandana)：バンダナ、頭や首に巻く三角形や四角形の布
+- [shawl](/word/shawl)：肩掛け、ショール
+- [bandana](/word/bandana)：バンダナ、頭や首に巻く三角形や四角形の布
 
 ---
 
 ## 📖 できればこれも
 
-- [glove](/glove)：手袋
-- [hat](/hat)：帽子
+- [glove](/word/glove)：手袋
+- [hat](/word/hat)：帽子
 
 <!-- cvid: aid11_bid37 -->

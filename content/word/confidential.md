@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やEメール、社内通知などで「confi
 ## 🤔  secret との違いは？
 
 - **confidential**：主にビジネスや公的な場面で使われる「機密の」「内密の」
-- **[secret](/secret)**：一般的に「秘密の」「隠された」という広い意味
+- **[secret](/word/secret)**：一般的に「秘密の」「隠された」という広い意味
 
 confidentialは「信頼して預けられた機密情報」などフォーマルな場面で使い、secretは日常的な「秘密」にも幅広く使います。
 
@@ -105,14 +105,14 @@ confidentialは「信頼して預けられた機密情報」などフォーマ�
 
 ## 🧩 あわせて覚えたい
 
-- [classified](/classified)：（公的に）機密扱いの
-- [private](/private)：個人的な、私的な
+- [classified](/word/classified)：（公的に）機密扱いの
+- [private](/word/private)：個人的な、私的な
 
 ---
 
 ## 📖 できればこれも
 
-- [official](/official)：公式の、公的な
-- [sensitive](/sensitive)：（情報が）取り扱い注意の
+- [official](/word/official)：公式の、公的な
+- [sensitive](/word/sensitive)：（情報が）取り扱い注意の
 
 <!-- cvid: aid25_bid25 -->

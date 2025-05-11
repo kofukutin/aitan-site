@@ -98,7 +98,7 @@ TOEICでは感情や状態を表す形容詞として、選択肢や短文の中
 ## 🤔  alone との違いは？
 
 - **lonely**：寂しさや孤独感を感じている状態
-- **[alone](/alone)**：物理的に一人でいる状態（寂しいかどうかは問わない）
+- **[alone](/word/alone)**：物理的に一人でいる状態（寂しいかどうかは問わない）
 
 lonelyは「寂しい」という感情を含みますが、aloneは単に「一人でいる」ことを表し、感情は含みません。
 
@@ -106,14 +106,14 @@ lonelyは「寂しい」という感情を含みますが、aloneは単に「一
 
 ## 🧩 あわせて覚えたい
 
-- [isolated](/isolated)：孤立した、隔離された
-- [solitary](/solitary)：ひとりぼっちの、単独の
+- [isolated](/word/isolated)：孤立した、隔離された
+- [solitary](/word/solitary)：ひとりぼっちの、単独の
 
 ---
 
 ## 📖 できればこれも
 
-- [sad](/sad)：悲しい
-- [quiet](/quiet)：静かな
+- [sad](/word/sad)：悲しい
+- [quiet](/word/quiet)：静かな
 
 <!-- cvid: aid34_bid01 -->

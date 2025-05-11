@@ -97,7 +97,7 @@ outputはITやビジネスの文脈で、成果や生産量、データの出力
 ## 🤔  production との違いは？
 
 - **output**：機械や人が生み出す「出力」や「成果物」、特にITや工業分野で使われる
-- **[production](/production)**：生産活動そのものや生産量、製造過程全体を指す
+- **[production](/word/production)**：生産活動そのものや生産量、製造過程全体を指す
 
 outputは「外に出されたもの・成果物」に焦点があり、productionは「生産活動やその過程」に重点があります。
 
@@ -105,14 +105,14 @@ outputは「外に出されたもの・成果物」に焦点があり、producti
 
 ## 🧩 あわせて覚えたい
 
-- [input](/input)：入力、インプット
-- [result](/result)：結果、成果
+- [input](/word/input)：入力、インプット
+- [result](/word/result)：結果、成果
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/process)：過程、プロセス
-- [function](/function)：機能、働き
+- [process](/word/process)：過程、プロセス
+- [function](/word/function)：機能、働き
 
 <!-- cvid: aid43_bid12 -->

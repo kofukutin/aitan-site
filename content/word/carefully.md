@@ -97,7 +97,7 @@ TOEICでは副詞の使い分けや語形変化の問題で頻出です。特に
 ## 🤔  cautiously との違いは？
 
 - **carefully**：注意深く、丁寧に（一般的な注意や配慮を強調）
-- **[cautiously](/cautiously)**：用心深く、警戒して（危険やリスクを意識した慎重さ）
+- **[cautiously](/word/cautiously)**：用心深く、警戒して（危険やリスクを意識した慎重さ）
 
 「carefully」は広く「注意深く」物事を行う場合に使い、「cautiously」は特に危険やリスクを避けるための慎重さを表します。
 
@@ -105,14 +105,14 @@ TOEICでは副詞の使い分けや語形変化の問題で頻出です。特に
 
 ## 🧩 あわせて覚えたい
 
-- [thoroughly](/thoroughly)：徹底的に
-- [quickly](/quickly)：素早く
+- [thoroughly](/word/thoroughly)：徹底的に
+- [quickly](/word/quickly)：素早く
 
 ---
 
 ## 📖 できればこれも
 
-- [slowly](/slowly)：ゆっくりと
-- [gently](/gently)：やさしく
+- [slowly](/word/slowly)：ゆっくりと
+- [gently](/word/gently)：やさしく
 
 <!-- cvid: aid31_bid47 -->

@@ -97,7 +97,7 @@ TOEICでは空港や出張、旅行の場面でよく登場します。特にフ
 ## 🤔  trip との違いは？
 
 - **flight**：飛行機での移動や航空便そのものを指す
-- **[trip](/trip)**：旅行や出張などの「移動全体」を指す
+- **[trip](/word/trip)**：旅行や出張などの「移動全体」を指す
 
 flightは「飛行機での移動」や「便」に限定され、tripは交通手段を問わず「旅行全体」を表します。
 
@@ -105,14 +105,14 @@ flightは「飛行機での移動」や「便」に限定され、tripは交通�
 
 ## 🧩 あわせて覚えたい
 
-- [journey](/journey)：旅、長い移動
-- [departure](/departure)：出発
+- [journey](/word/journey)：旅、長い移動
+- [departure](/word/departure)：出発
 
 ---
 
 ## 📖 できればこれも
 
-- [ticket](/ticket)：切符、チケット
-- [airport](/airport)：空港
+- [ticket](/word/ticket)：切符、チケット
+- [airport](/word/airport)：空港
 
 <!-- cvid: aid17_bid47 -->

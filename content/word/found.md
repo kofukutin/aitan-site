@@ -97,7 +97,7 @@ TOEICでは設立や創設に関する文脈で、動詞としてのfoundが選�
 ## 🤔  establish との違いは？
 
 - **found**：組織や制度などを「最初に作る」「設立する」ことに特化したフォーマルな表現
-- **[establish](/establish)**：設立だけでなく、「確立する」「地位を築く」など幅広い意味で使える
+- **[establish](/word/establish)**：設立だけでなく、「確立する」「地位を築く」など幅広い意味で使える
 
 foundは「ゼロから新しく作る」ニュアンスが強く、establishは「制度や関係をしっかり築く」など幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ foundは「ゼロから新しく作る」ニュアンスが強く、establishは
 
 ## 🧩 あわせて覚えたい
 
-- [launch](/launch)：（新事業などを）開始する
-- [abolish](/abolish)：廃止する
+- [launch](/word/launch)：（新事業などを）開始する
+- [abolish](/word/abolish)：廃止する
 
 ---
 
 ## 📖 できればこれも
 
-- [organize](/organize)：組織する、まとめる
-- [create](/create)：創造する、作り出す
+- [organize](/word/organize)：組織する、まとめる
+- [create](/word/create)：創造する、作り出す
 
 <!-- cvid: aid13_bid11 -->

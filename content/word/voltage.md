@@ -97,7 +97,7 @@ TOEICでは、技術系や製品仕様の説明文で見かけることが多い
 ## 🤔  current との違いは？
 
 - **voltage**：電気を流そうとする力の大きさ（電圧）
-- **[current](/current)**：実際に流れる電気の量（電流）
+- **[current](/word/current)**：実際に流れる電気の量（電流）
 
 voltageは「押し出す力」、currentは「流れる量」を表し、電気回路の説明で役割が異なります。
 
@@ -105,14 +105,14 @@ voltageは「押し出す力」、currentは「流れる量」を表し、電気
 
 ## 🧩 あわせて覚えたい
 
-- [power](/power)：電力、エネルギー
-- [resistance](/resistance)：抵抗（電気の流れにくさ）
+- [power](/word/power)：電力、エネルギー
+- [resistance](/word/resistance)：抵抗（電気の流れにくさ）
 
 ---
 
 ## 📖 できればこれも
 
-- [circuit](/circuit)：回路
-- [device](/device)：装置、機器
+- [circuit](/word/circuit)：回路
+- [device](/word/device)：装置、機器
 
 <!-- cvid: aid11_bid25 -->

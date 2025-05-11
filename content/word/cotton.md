@@ -96,7 +96,7 @@ TOEICでは衣類や素材、商品の説明などで登場することが多い
 ## 🤔  fabric との違いは？
 
 - **cotton**：綿という素材そのものや綿花を指す。
-- **[fabric](/fabric)**：布地全般を指し、素材は綿・ウール・ポリエステルなどさまざま。
+- **[fabric](/word/fabric)**：布地全般を指し、素材は綿・ウール・ポリエステルなどさまざま。
 
 cottonは「綿」という特定の素材を指しますが、fabricは素材を問わず「布地」全般を表します。
 
@@ -104,14 +104,14 @@ cottonは「綿」という特定の素材を指しますが、fabricは素材�
 
 ## 🧩 あわせて覚えたい
 
-- [wool](/wool)：羊毛、ウール
-- [silk](/silk)：絹、シルク
+- [wool](/word/wool)：羊毛、ウール
+- [silk](/word/silk)：絹、シルク
 
 ---
 
 ## 📖 できればこれも
 
-- [thread](/thread)：糸
-- [material](/material)：材料、素材
+- [thread](/word/thread)：糸
+- [material](/word/material)：材料、素材
 
 <!-- cvid: aid45_bid09 -->

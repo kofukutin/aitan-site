@@ -97,7 +97,7 @@ TOEICでは、オフィスや会議、機器の操作に関する会話で登場
 ## 🤔  tape との違いは？
 
 - **cassette**：ケースに入った録音・再生用のテープ媒体
-- **[tape](/tape)**：テープ全般（カセット以外の巻き取り式テープも含む）
+- **[tape](/word/tape)**：テープ全般（カセット以外の巻き取り式テープも含む）
 
 cassetteは「ケース入りのテープ」を指し、tapeは「テープ」全般を指します。カセットテープはtapeの一種ですが、tapeはより広い意味です。
 
@@ -105,14 +105,14 @@ cassetteは「ケース入りのテープ」を指し、tapeは「テープ」�
 
 ## 🧩 あわせて覚えたい
 
-- [disk](/disk)：ディスク、円盤型の記録媒体
-- [player](/player)：再生機、プレーヤー
+- [disk](/word/disk)：ディスク、円盤型の記録媒体
+- [player](/word/player)：再生機、プレーヤー
 
 ---
 
 ## 📖 できればこれも
 
-- [record](/record)：記録する、録音する
-- [device](/device)：装置、機器
+- [record](/word/record)：記録する、録音する
+- [device](/word/device)：装置、機器
 
 <!-- cvid: aid29_bid02 -->

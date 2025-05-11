@@ -97,7 +97,7 @@ TOEICでは主に科学や健康に関する長文で「amino acid」などの�
 ## 🤔  protein との違いは？
 
 - **amino**：アミノ基を含むことを示す形容詞で、主に「amino acid」などの語で使う
-- **[protein](/protein)**：タンパク質そのものを指す名詞
+- **[protein](/word/protein)**：タンパク質そのものを指す名詞
 
 aminoは「アミノ基を持つ」という性質を表し、proteinは「タンパク質」という物質自体を指します。
 
@@ -105,14 +105,14 @@ aminoは「アミノ基を持つ」という性質を表し、proteinは「タ�
 
 ## 🧩 あわせて覚えたい
 
-- [acid](/acid)：酸
-- [enzyme](/enzyme)：酵素
+- [acid](/word/acid)：酸
+- [enzyme](/word/enzyme)：酵素
 
 ---
 
 ## 📖 できればこれも
 
-- [molecule](/molecule)：分子
-- [compound](/compound)：化合物
+- [molecule](/word/molecule)：分子
+- [compound](/word/compound)：化合物
 
 <!-- cvid: aid34_bid20 -->

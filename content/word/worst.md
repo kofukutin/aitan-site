@@ -97,7 +97,7 @@ TOEICでは比較級・最上級の文法問題や、状況説明で「最悪の
 ## 🤔  least との違いは？
 
 - **worst**：最も悪い、最悪の
-- **[least](/least)**：最も少ない、最小の
+- **[least](/word/least)**：最も少ない、最小の
 
 「worst」は「悪さ」の程度が一番高い場合に使い、「least」は量や程度が一番少ない場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは比較級・最上級の文法問題や、状況説明で「最悪の
 
 ## 🧩 あわせて覚えたい
 
-- [bad](/bad)：悪い
-- [terrible](/terrible)：ひどい、恐ろしい
+- [bad](/word/bad)：悪い
+- [terrible](/word/terrible)：ひどい、恐ろしい
 
 ---
 
 ## 📖 できればこれも
 
-- [better](/better)：より良い
-- [best](/best)：最も良い
+- [better](/word/better)：より良い
+- [best](/word/best)：最も良い
 
 <!-- cvid: aid40_bid13 -->

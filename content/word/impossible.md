@@ -97,7 +97,7 @@ TOEICでは「possible」と対比して出題されることが多く、否定�
 ## 🤔  difficult との違いは？
 
 - **impossible**：絶対にできない、不可能な
-- **[difficult](/difficult)**：難しいが、可能である
+- **[difficult](/word/difficult)**：難しいが、可能である
 
 impossibleは「絶対に無理」と断言する時に使い、difficultは「難しいがやればできる」場合に使います。
 
@@ -105,14 +105,14 @@ impossibleは「絶対に無理」と断言する時に使い、difficultは「�
 
 ## 🧩 あわせて覚えたい
 
-- [possible](/possible)：可能な
-- [unlikely](/unlikely)：起こりそうにない
+- [possible](/word/possible)：可能な
+- [unlikely](/word/unlikely)：起こりそうにない
 
 ---
 
 ## 📖 できればこれも
 
-- [necessary](/necessary)：必要な
-- [essential](/essential)：不可欠な
+- [necessary](/word/necessary)：必要な
+- [essential](/word/essential)：不可欠な
 
 <!-- cvid: aid04_bid42 -->

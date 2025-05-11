@@ -97,7 +97,7 @@ TOEICでは観光や家族向けイベント、施設案内などの文脈で登
 ## 🤔  aquarium との違いは？
 
 - **zoo**：陸上や空中の動物を中心に展示する施設
-- **[aquarium](/aquarium)**：魚や水生生物を中心に展示する施設
+- **[aquarium](/word/aquarium)**：魚や水生生物を中心に展示する施設
 
 zooは主に哺乳類や鳥などの動物を扱い、aquariumは魚や海の生き物を扱う点が異なります。
 
@@ -105,14 +105,14 @@ zooは主に哺乳類や鳥などの動物を扱い、aquariumは魚や海の生
 
 ## 🧩 あわせて覚えたい
 
-- [park](/park)：公園
-- [museum](/museum)：博物館
+- [park](/word/park)：公園
+- [museum](/word/museum)：博物館
 
 ---
 
 ## 📖 できればこれも
 
-- [animal](/animal)：動物
-- [garden](/garden)：庭
+- [animal](/word/animal)：動物
+- [garden](/word/garden)：庭
 
 <!-- cvid: aid41_bid31 -->

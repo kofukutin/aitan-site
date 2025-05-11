@@ -97,7 +97,7 @@ TOEICでは、施設やサービスの説明、アカウントの状態などで
 ## 🤔  handicapped との違いは？
 
 - **disabled**：障害のある（より中立的・現代的な表現）
-- **[handicapped](/handicapped)**：障害のある（やや古い表現、時に差別的とされる）
+- **[handicapped](/word/handicapped)**：障害のある（やや古い表現、時に差別的とされる）
 
 「disabled」は現代英語で推奨される表現で、より配慮のある言い方です。「handicapped」は古い表現で、公式文書や公共の場では避けられる傾向があります。
 
@@ -105,14 +105,14 @@ TOEICでは、施設やサービスの説明、アカウントの状態などで
 
 ## 🧩 あわせて覚えたい
 
-- [accessible](/accessible)：利用しやすい、アクセス可能な
-- [impairment](/impairment)：機能障害、損傷
+- [accessible](/word/accessible)：利用しやすい、アクセス可能な
+- [impairment](/word/impairment)：機能障害、損傷
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/available)：利用できる、入手できる
-- [damaged](/damaged)：損傷した、壊れた
+- [available](/word/available)：利用できる、入手できる
+- [damaged](/word/damaged)：損傷した、壊れた
 
 <!-- cvid: aid21_bid31 -->

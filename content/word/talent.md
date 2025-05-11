@@ -97,7 +97,7 @@ TOEICでは「才能」「有能な人材」といった意味で、採用や人
 ## 🤔  skill との違いは？
 
 - **talent**：生まれつきや自然に備わった才能や素質
-- **[skill](/skill)**：訓練や経験によって身につけた技術や能力
+- **[skill](/word/skill)**：訓練や経験によって身につけた技術や能力
 
 talentは「先天的な能力」、skillは「後天的に習得した技術」という違いがあります。
 
@@ -105,14 +105,14 @@ talentは「先天的な能力」、skillは「後天的に習得した技術」
 
 ## 🧩 あわせて覚えたい
 
-- [ability](/ability)：能力、できる力
-- [gift](/gift)：天賦の才能、特別な才能
+- [ability](/word/ability)：能力、できる力
+- [gift](/word/gift)：天賦の才能、特別な才能
 
 ---
 
 ## 📖 できればこれも
 
-- [strength](/strength)：強み、長所
-- [potential](/potential)：潜在能力、可能性
+- [strength](/word/strength)：強み、長所
+- [potential](/word/potential)：潜在能力、可能性
 
 <!-- cvid: aid34_bid36 -->

@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で、物や服の色を説明する際に
 ## 🤔  gold との違いは？
 
 - **yellow**：一般的な「黄色」を表す色の名前。
-- **[gold](/gold)**：金色、または金属の金を指し、黄色よりも輝きや高級感がある色。
+- **[gold](/word/gold)**：金色、または金属の金を指し、黄色よりも輝きや高級感がある色。
 
 yellowは純粋な黄色を指し、goldは金属的な輝きや豪華さを含む色を表します。
 
@@ -106,14 +106,14 @@ yellowは純粋な黄色を指し、goldは金属的な輝きや豪華さを含�
 
 ## 🧩 あわせて覚えたい
 
-- [green](/green)：緑色
-- [bright](/bright)：明るい
+- [green](/word/green)：緑色
+- [bright](/word/bright)：明るい
 
 ---
 
 ## 📖 できればこれも
 
-- [red](/red)：赤色
-- [blue](/blue)：青色
+- [red](/word/red)：赤色
+- [blue](/word/blue)：青色
 
 <!-- cvid: aid21_bid33 -->

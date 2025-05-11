@@ -97,7 +97,7 @@ TOEICでは、動詞の現在分詞や動名詞の形で「adding」が文法問
 ## 🤔  attaching との違いは？
 
 - **adding**：新しいものを加えて全体を増やす・広げるニュアンス
-- **[attaching](/attaching)**：物理的・書類的に「くっつける」「添付する」ニュアンス
+- **[attaching](/word/attaching)**：物理的・書類的に「くっつける」「添付する」ニュアンス
 
 「adding」は内容や数量を増やす場合に使い、「attaching」は何かを物理的・形式的に付ける場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、動詞の現在分詞や動名詞の形で「adding」が文法問
 
 ## 🧩 あわせて覚えたい
 
-- [include](/include)：含める、含む
-- [subtract](/subtract)：引く、差し引く
+- [include](/word/include)：含める、含む
+- [subtract](/word/subtract)：引く、差し引く
 
 ---
 
 ## 📖 できればこれも
 
-- [combine](/combine)：組み合わせる、結合する
-- [increase](/increase)：増やす、増加する
+- [combine](/word/combine)：組み合わせる、結合する
+- [increase](/word/increase)：増やす、増加する
 
 <!-- cvid: aid35_bid18 -->

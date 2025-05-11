@@ -97,7 +97,7 @@ TOEICでは音楽やイベントに関する長文や広告文で登場するこ
 ## 🤔  electronic との違いは？
 
 - **techno**：電子音を使った特定の音楽ジャンル
-- **[electronic](/electronic)**：電子機器や電子音楽全般を指す形容詞
+- **[electronic](/word/electronic)**：電子機器や電子音楽全般を指す形容詞
 
 technoは音楽ジャンル名、electronicはより広く「電子的なもの」全般を指します。
 
@@ -105,14 +105,14 @@ technoは音楽ジャンル名、electronicはより広く「電子的なもの�
 
 ## 🧩 あわせて覚えたい
 
-- [music](/music)：音楽
-- [genre](/genre)：ジャンル、種類
+- [music](/word/music)：音楽
+- [genre](/word/genre)：ジャンル、種類
 
 ---
 
 ## 📖 できればこれも
 
-- [pop](/pop)：ポップ（音楽ジャンル）
-- [digital](/digital)：デジタルの
+- [pop](/word/pop)：ポップ（音楽ジャンル）
+- [digital](/word/digital)：デジタルの
 
 <!-- cvid: aid38_bid12 -->

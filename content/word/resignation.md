@@ -98,7 +98,7 @@ TOEICでは、メールや社内通知、ビジネス文書の中で「辞職」
 ## 🤔  retirement との違いは？
 
 - **resignation**：自分の意思で辞職・辞任すること（年齢や定年に関係なく使う）
-- **[retirement](/retirement)**：定年や長年の勤務の後に引退・退職すること
+- **[retirement](/word/retirement)**：定年や長年の勤務の後に引退・退職すること
 
 resignationは「辞職・辞任」として幅広い年齢や理由で使われますが、retirementは主に「定年退職」や「引退」に使われます。
 
@@ -106,14 +106,14 @@ resignationは「辞職・辞任」として幅広い年齢や理由で使われ
 
 ## 🧩 あわせて覚えたい
 
-- [dismissal](/dismissal)：解雇、免職
-- [appointment](/appointment)：任命、役職への就任
+- [dismissal](/word/dismissal)：解雇、免職
+- [appointment](/word/appointment)：任命、役職への就任
 
 ---
 
 ## 📖 できればこれも
 
-- [promotion](/promotion)：昇進
-- [transfer](/transfer)：異動
+- [promotion](/word/promotion)：昇進
+- [transfer](/word/transfer)：異動
 
 <!-- cvid: aid46_bid06 -->

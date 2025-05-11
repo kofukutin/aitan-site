@@ -97,7 +97,7 @@ TOEICでは歴史や観光、科学分野の長文で「colony」が登場する
 ## 🤔  settlement との違いは？
 
 - **colony**：他国の支配下にある植民地や、同種の生物の集団を指す
-- **[settlement](/settlement)**：新しく定住した場所や開拓地を指す
+- **[settlement](/word/settlement)**：新しく定住した場所や開拓地を指す
 
 「colony」は支配や集団性のニュアンスが強く、「settlement」は単に人が住み始めた場所を表します。
 
@@ -105,14 +105,14 @@ TOEICでは歴史や観光、科学分野の長文で「colony」が登場する
 
 ## 🧩 あわせて覚えたい
 
-- [territory](/territory)：領土、領域
-- [community](/community)：共同体、地域社会
+- [territory](/word/territory)：領土、領域
+- [community](/word/community)：共同体、地域社会
 
 ---
 
 ## 📖 できればこれも
 
-- [empire](/empire)：帝国
-- [inhabitant](/inhabitant)：住民
+- [empire](/word/empire)：帝国
+- [inhabitant](/word/inhabitant)：住民
 
 <!-- cvid: aid07_bid41 -->

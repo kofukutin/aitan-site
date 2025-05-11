@@ -97,7 +97,7 @@ TOEICでは観光や歴史、国際関係の長文で「kingdom」が登場す�
 ## 🤔  empire との違いは？
 
 - **kingdom**：王や女王が治める国や領域
-- **[empire](/empire)**：皇帝が支配する複数の国や広大な領域
+- **[empire](/word/empire)**：皇帝が支配する複数の国や広大な領域
 
 kingdomは「王国」、empireは「帝国」で、支配者の違いや規模の大きさで使い分けます。
 
@@ -105,14 +105,14 @@ kingdomは「王国」、empireは「帝国」で、支配者の違いや規模�
 
 ## 🧩 あわせて覚えたい
 
-- [republic](/republic)：共和国（国民が主権を持つ国）
-- [monarchy](/monarchy)：君主制（王や女王が統治する政治体制）
+- [republic](/word/republic)：共和国（国民が主権を持つ国）
+- [monarchy](/word/monarchy)：君主制（王や女王が統治する政治体制）
 
 ---
 
 ## 📖 できればこれも
 
-- [nation](/nation)：国家、国民
-- [state](/state)：州、国家
+- [nation](/word/nation)：国家、国民
+- [state](/word/state)：州、国家
 
 <!-- cvid: aid10_bid36 -->

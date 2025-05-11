@@ -96,7 +96,7 @@ TOEICではITやデジタルコミュニケーションに関する長文で見�
 ## 🤔  icon との違いは？
 
 - **avatar**：ユーザー自身を象徴するキャラクターや画像
-- **[icon](/icon)**：機能やアプリを示す小さな画像や記号
+- **[icon](/word/icon)**：機能やアプリを示す小さな画像や記号
 
 avatarは「人」や「分身」を表し、iconは「機能」や「アプリ」を表す点が異なります。
 
@@ -104,14 +104,14 @@ avatarは「人」や「分身」を表し、iconは「機能」や「アプリ�
 
 ## 🧩 あわせて覚えたい
 
-- [profile](/profile)：プロフィール、人物紹介
-- [representation](/representation)：表現、表象
+- [profile](/word/profile)：プロフィール、人物紹介
+- [representation](/word/representation)：表現、表象
 
 ---
 
 ## 📖 できればこれも
 
-- [virtual](/virtual)：仮想の、バーチャルな
-- [platform](/platform)：プラットフォーム、基盤
+- [virtual](/word/virtual)：仮想の、バーチャルな
+- [platform](/word/platform)：プラットフォーム、基盤
 
 <!-- cvid: aid03_bid26 -->

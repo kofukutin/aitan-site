@@ -97,7 +97,7 @@ TOEICではジムや健康、日常生活の話題で会話文中に登場する
 ## 🤔  exercise との違いは？
 
 - **workout**：特に計画的な運動やトレーニングのセッションを指すカジュアルな表現
-- **[exercise](/exercise)**：運動全般や個々のエクササイズ動作を指し、ややフォーマルで幅広い意味
+- **[exercise](/word/exercise)**：運動全般や個々のエクササイズ動作を指し、ややフォーマルで幅広い意味
 
 workoutは「ジムでのトレーニング」などまとまった運動を指し、exerciseは「運動全般」や「腕立て伏せなど個々の動作」にも使えます。
 
@@ -105,14 +105,14 @@ workoutは「ジムでのトレーニング」などまとまった運動を指�
 
 ## 🧩 あわせて覚えたい
 
-- [training](/training)：訓練、トレーニング
-- [routine](/routine)：決まった手順、日課
+- [training](/word/training)：訓練、トレーニング
+- [routine](/word/routine)：決まった手順、日課
 
 ---
 
 ## 📖 できればこれも
 
-- [session](/session)：（活動の）時間、集まり
-- [practice](/practice)：練習、実践
+- [session](/word/session)：（活動の）時間、集まり
+- [practice](/word/practice)：練習、実践
 
 <!-- cvid: aid17_bid35 -->

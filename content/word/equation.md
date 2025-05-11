@@ -97,7 +97,7 @@ TOEICでは主に科学や技術、ビジネスの説明文で登場します。
 ## 🤔  formula との違いは？
 
 - **equation**：等しいことを示す「方程式」や「等式」
-- **[formula](/formula)**：計算方法や「公式」、決まった手順
+- **[formula](/word/formula)**：計算方法や「公式」、決まった手順
 
 equationは「=」で結ばれた等式を指し、formulaは計算や手順のルール自体を指します。
 
@@ -105,14 +105,14 @@ equationは「=」で結ばれた等式を指し、formulaは計算や手順の�
 
 ## 🧩 あわせて覚えたい
 
-- [solution](/solution)：解答、解決策
-- [expression](/expression)：式、表現
+- [solution](/word/solution)：解答、解決策
+- [expression](/word/expression)：式、表現
 
 ---
 
 ## 📖 できればこれも
 
-- [theory](/theory)：理論
-- [method](/method)：方法
+- [theory](/word/theory)：理論
+- [method](/word/method)：方法
 
 <!-- cvid: aid24_bid29 -->

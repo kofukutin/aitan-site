@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写や、日常生活に関する会話文でよく
 ## 🤔  house との違いは？
 
 - **home**：家族や心の拠り所としての「家」「家庭」を指す
-- **[house](/house)**：建物としての「家」「住宅」を指す
+- **[house](/word/house)**：建物としての「家」「住宅」を指す
 
 **home**は感情や家族のつながりを含む「家庭」、**house**は物理的な建物としての「家」を表します。
 
@@ -105,14 +105,14 @@ TOEICではPart 1の写真描写や、日常生活に関する会話文でよく
 
 ## 🧩 あわせて覚えたい
 
-- [residence](/residence)：住居、居住地
-- [apartment](/apartment)：アパート、マンション
+- [residence](/word/residence)：住居、居住地
+- [apartment](/word/apartment)：アパート、マンション
 
 ---
 
 ## 📖 できればこれも
 
-- [family](/family)：家族
-- [room](/room)：部屋
+- [family](/word/family)：家族
+- [room](/word/room)：部屋
 
 <!-- cvid: aid12_bid06 -->

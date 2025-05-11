@@ -97,7 +97,7 @@ TOEICでは指示や依頼、緊急対応の場面で「すぐに」という意
 ## 🤔  instantly との違いは？
 
 - **immediately**：何かの直後に、間をおかずにすぐ
-- **[instantly](/instantly)**：一瞬で、瞬時に
+- **[instantly](/word/instantly)**：一瞬で、瞬時に
 
 「immediately」は「間をおかずにすぐ」という意味で、行動や出来事の直後に使います。「instantly」は「一瞬で」「瞬時に」と、よりスピード感や即時性が強調されます。
 
@@ -105,14 +105,14 @@ TOEICでは指示や依頼、緊急対応の場面で「すぐに」という意
 
 ## 🧩 あわせて覚えたい
 
-- [promptly](/promptly)：迅速に、すぐに
-- [shortly](/shortly)：まもなく、すぐに
+- [promptly](/word/promptly)：迅速に、すぐに
+- [shortly](/word/shortly)：まもなく、すぐに
 
 ---
 
 ## 📖 できればこれも
 
-- [soon](/soon)：まもなく、すぐに
-- [directly](/directly)：すぐに、直接に
+- [soon](/word/soon)：まもなく、すぐに
+- [directly](/word/directly)：すぐに、直接に
 
 <!-- cvid: aid17_bid35 -->

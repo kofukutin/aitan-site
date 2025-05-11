@@ -97,7 +97,7 @@ TOEICでは「保護する」「守る」という意味で、主にPart 5の語
 ## 🤔  defend との違いは？
 
 - **protect**：危険や損害から守る・保護する
-- **[defend](/defend)**：攻撃や非難から防御する・守る
+- **[defend](/word/defend)**：攻撃や非難から防御する・守る
 
 protectは「一般的な保護」、defendは「攻撃や批判に対して積極的に防御する」ニュアンスがあります。
 
@@ -105,14 +105,14 @@ protectは「一般的な保護」、defendは「攻撃や批判に対して積�
 
 ## 🧩 あわせて覚えたい
 
-- [guard](/guard)：見張る、警備する
-- [preserve](/preserve)：保存する、保護する
+- [guard](/word/guard)：見張る、警備する
+- [preserve](/word/preserve)：保存する、保護する
 
 ---
 
 ## 📖 できればこれも
 
-- [prevent](/prevent)：防ぐ、予防する
-- [support](/support)：支える、支援する
+- [prevent](/word/prevent)：防ぐ、予防する
+- [support](/word/support)：支える、支援する
 
 <!-- cvid: aid05_bid27 -->

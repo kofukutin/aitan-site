@@ -97,7 +97,7 @@ TOEICでは、ITやオフィス業務に関連する文脈で「typing」が出�
 ## 🤔  input との違いは？
 
 - **typing**：キーボードなどで文字を入力する動作や技術を指す
-- **[input](/input)**：情報やデータそのもの、または入力する行為全般を指す
+- **[input](/word/input)**：情報やデータそのもの、または入力する行為全般を指す
 
 typingは「文字を打つ行為」に特化し、inputは「入力される情報や行為全般」を広く指します。
 
@@ -105,14 +105,14 @@ typingは「文字を打つ行為」に特化し、inputは「入力される情
 
 ## 🧩 あわせて覚えたい
 
-- [keyboard](/keyboard)：キーボード
-- [text](/text)：テキスト、文章
+- [keyboard](/word/keyboard)：キーボード
+- [text](/word/text)：テキスト、文章
 
 ---
 
 ## 📖 できればこれも
 
-- [edit](/edit)：編集する
-- [print](/print)：印刷する
+- [edit](/word/edit)：編集する
+- [print](/word/print)：印刷する
 
 <!-- cvid: aid07_bid06 -->

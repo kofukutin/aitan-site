@@ -97,7 +97,7 @@ TOEICでは主にビジネスや法務関連の長文、規約や組織の説明
 ## 🤔  regulation との違いは？
 
 - **constitution**：国や組織の根本的な原則や仕組みを定める「憲法」「規約」
-- **[regulation](/regulation)**：具体的な行動や手続きを定める「規則」「規制」
+- **[regulation](/word/regulation)**：具体的な行動や手続きを定める「規則」「規制」
 
 constitutionは全体の枠組みや基本方針を示し、regulationはその中での細かなルールや手続きを定めます。
 
@@ -105,14 +105,14 @@ constitutionは全体の枠組みや基本方針を示し、regulationはその�
 
 ## 🧩 あわせて覚えたい
 
-- [law](/law)：法律、法
-- [charter](/charter)：憲章、設立趣意書
+- [law](/word/law)：法律、法
+- [charter](/word/charter)：憲章、設立趣意書
 
 ---
 
 ## 📖 できればこれも
 
-- [amendment](/amendment)：修正、改正
-- [clause](/clause)：条項、節
+- [amendment](/word/amendment)：修正、改正
+- [clause](/word/clause)：条項、節
 
 <!-- cvid: aid46_bid02 -->

@@ -97,7 +97,7 @@ collectingは、TOEICの会話パートで「資料を集める」「情報を�
 ## 🤔  gathering との違いは？
 
 - **collecting**：目的を持って体系的に集めることを強調
-- **[gathering](/gathering)**：人や物を広く集める、または自然に集まることを強調
+- **[gathering](/word/gathering)**：人や物を広く集める、または自然に集まることを強調
 
 collectingは計画的・意図的な収集、gatheringはより広範で自然な集まりや集合を指します。
 
@@ -105,14 +105,14 @@ collectingは計画的・意図的な収集、gatheringはより広範で自然�
 
 ## 🧩 あわせて覚えたい
 
-- [assemble](/assemble)：組み立てる、集める
-- [accumulate](/accumulate)：蓄積する、積み上げる
+- [assemble](/word/assemble)：組み立てる、集める
+- [accumulate](/word/accumulate)：蓄積する、積み上げる
 
 ---
 
 ## 📖 できればこれも
 
-- [organize](/organize)：整理する、まとめる
-- [sort](/sort)：分類する、仕分ける
+- [organize](/word/organize)：整理する、まとめる
+- [sort](/word/sort)：分類する、仕分ける
 
 <!-- cvid: aid07_bid17 -->

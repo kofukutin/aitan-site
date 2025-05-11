@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「何かを指し示す」「言及する」場
 ## 🤔  mentioning との違いは？
 
 - **referring**：何かを指し示して言及する、参照する
-- **[mentioning](/mentioning)**：単に名前や事柄を口に出して言及する
+- **[mentioning](/word/mentioning)**：単に名前や事柄を口に出して言及する
 
 referringは「具体的に何かを指し示す」ニュアンスがあり、mentioningは「軽く触れる・名前を出す」程度の意味です。
 
@@ -105,14 +105,14 @@ referringは「具体的に何かを指し示す」ニュアンスがあり、me
 
 ## 🧩 あわせて覚えたい
 
-- [indicate](/indicate)：示す、指し示す
-- [recommend](/recommend)：推薦する、勧める
+- [indicate](/word/indicate)：示す、指し示す
+- [recommend](/word/recommend)：推薦する、勧める
 
 ---
 
 ## 📖 できればこれも
 
-- [suggest](/suggest)：提案する、示唆する
-- [describe](/describe)：説明する、描写する
+- [suggest](/word/suggest)：提案する、示唆する
+- [describe](/word/describe)：説明する、描写する
 
 <!-- cvid: aid26_bid37 -->

@@ -97,7 +97,7 @@ rootは「根本的な原因」や「起源」として、文脈理解や語彙�
 ## 🤔  origin との違いは？
 
 - **root**：物事の根本や原因、土台を強調
-- **[origin](/origin)**：物事の出発点や発祥地を強調
+- **[origin](/word/origin)**：物事の出発点や発祥地を強調
 
 rootは「根本的な部分」や「原因」に焦点を当て、originは「始まり」や「出所」に重点があります。
 
@@ -105,14 +105,14 @@ rootは「根本的な部分」や「原因」に焦点を当て、originは「�
 
 ## 🧩 あわせて覚えたい
 
-- [basis](/basis)：基礎、根拠
-- [source](/source)：源、出所
+- [basis](/word/basis)：基礎、根拠
+- [source](/word/source)：源、出所
 
 ---
 
 ## 📖 できればこれも
 
-- [branch](/branch)：枝、支店
-- [cause](/cause)：原因
+- [branch](/word/branch)：枝、支店
+- [cause](/word/cause)：原因
 
 <!-- cvid: aid45_bid29 -->

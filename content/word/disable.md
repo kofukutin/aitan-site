@@ -97,7 +97,7 @@ ITやビジネスの設定・操作説明文で頻出です。特に「enable」
 ## 🤔  deactivate との違いは？
 
 - **disable**：一時的・恒久的に「使えなくする」「無効にする」こと全般
-- **[deactivate](/deactivate)**：一時的に「作動を止める」「非アクティブにする」こと
+- **[deactivate](/word/deactivate)**：一時的に「作動を止める」「非アクティブにする」こと
 
 disableは「機能を完全に止める」ニュアンスがあり、deactivateは「一時的にオフにする」場面で使われます。
 
@@ -105,14 +105,14 @@ disableは「機能を完全に止める」ニュアンスがあり、deactivate
 
 ## 🧩 あわせて覚えたい
 
-- [enable](/enable)：有効にする、可能にする
-- [block](/block)：遮断する、妨げる
+- [enable](/word/enable)：有効にする、可能にする
+- [block](/word/block)：遮断する、妨げる
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/install)：インストールする、設置する
-- [update](/update)：更新する、アップデートする
+- [install](/word/install)：インストールする、設置する
+- [update](/word/update)：更新する、アップデートする
 
 <!-- cvid: aid06_bid34 -->

@@ -97,7 +97,7 @@ TOEICでは、compared to/with の形で「～と比べて」として頻出し�
 ## 🤔  contrast との違いは？
 
 - **compared**：2つ以上のものを並べて違いや共通点を見つける「比較された」という意味。
-- **[contrast](/contrast)**：2つ以上のものの「違い・対照」を強調する。
+- **[contrast](/word/contrast)**：2つ以上のものの「違い・対照」を強調する。
 
 comparedは単に比べること全般に使い、contrastは違いを際立たせて説明したいときに使います。
 
@@ -105,14 +105,14 @@ comparedは単に比べること全般に使い、contrastは違いを際立た�
 
 ## 🧩 あわせて覚えたい
 
-- [resemble](/resemble)：似ている
-- [differ](/differ)：異なる
+- [resemble](/word/resemble)：似ている
+- [differ](/word/differ)：異なる
 
 ---
 
 ## 📖 できればこれも
 
-- [relate](/relate)：関連づける
-- [associate](/associate)：結びつける
+- [relate](/word/relate)：関連づける
+- [associate](/word/associate)：結びつける
 
 <!-- cvid: aid27_bid16 -->

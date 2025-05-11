@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や記事、報告書の文脈で「発表す
 ## 🤔  release との違いは？
 
 - **publish**：本や記事、公式な情報を世の中に発表・出版すること。
-- **[release](/release)**：新商品や映画、情報などを「解禁する」「リリースする」こと。
+- **[release](/word/release)**：新商品や映画、情報などを「解禁する」「リリースする」こと。
 
 publishは特に書籍や論文など「出版物」に使われ、releaseは幅広く「新しいものを世に出す」場面で使われます。
 
@@ -105,14 +105,14 @@ publishは特に書籍や論文など「出版物」に使われ、releaseは幅
 
 ## 🧩 あわせて覚えたい
 
-- [announce](/announce)：発表する、告知する
-- [distribute](/distribute)：配布する、分配する
+- [announce](/word/announce)：発表する、告知する
+- [distribute](/word/distribute)：配布する、分配する
 
 ---
 
 ## 📖 できればこれも
 
-- [edit](/edit)：編集する
-- [submit](/submit)：提出する
+- [edit](/word/edit)：編集する
+- [submit](/word/submit)：提出する
 
 <!-- cvid: aid33_bid34 -->

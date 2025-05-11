@@ -97,7 +97,7 @@ TOEICでは「書類を提出する」「申請する」などの意味で、主
 ## 🤔  sending との違いは？
 
 - **submitting**：正式に書類や課題などを「提出する」ことを強調
-- **[sending](/sending)**：物や情報を「送る」一般的な表現
+- **[sending](/word/sending)**：物や情報を「送る」一般的な表現
 
 submittingは「公式な提出」や「承認を求める提出」に使われ、sendingは単に「送る」動作全般に使われます。
 
@@ -105,14 +105,14 @@ submittingは「公式な提出」や「承認を求める提出」に使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [approve](/approve)：承認する
-- [reject](/reject)：却下する
+- [approve](/word/approve)：承認する
+- [reject](/word/reject)：却下する
 
 ---
 
 ## 📖 できればこれも
 
-- [attach](/attach)：添付する
-- [review](/review)：見直す、確認する
+- [attach](/word/attach)：添付する
+- [review](/word/review)：見直す、確認する
 
 <!-- cvid: aid19_bid32 -->

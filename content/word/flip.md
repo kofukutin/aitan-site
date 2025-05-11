@@ -97,7 +97,7 @@ TOEICでは、写真描写問題で「何かをひっくり返す」「ページ
 ## 🤔  turn との違いは？
 
 - **flip**：素早く軽くひっくり返す、はじく動作
-- **[turn](/turn)**：回す、向きを変えるなど幅広い「回転」動作
+- **[turn](/word/turn)**：回す、向きを変えるなど幅広い「回転」動作
 
 flipは一瞬で裏返す・はじくなどの軽快な動作、turnはゆっくり回す・方向を変えるなど幅広い動作に使います。
 
@@ -105,14 +105,14 @@ flipは一瞬で裏返す・はじくなどの軽快な動作、turnはゆっく
 
 ## 🧩 あわせて覚えたい
 
-- [toss](/toss)：軽く投げる
-- [rotate](/rotate)：回転させる
+- [toss](/word/toss)：軽く投げる
+- [rotate](/word/rotate)：回転させる
 
 ---
 
 ## 📖 できればこれも
 
-- [press](/press)：押す
-- [switch](/switch)：切り替える
+- [press](/word/press)：押す
+- [switch](/word/switch)：切り替える
 
 <!-- cvid: aid02_bid32 -->

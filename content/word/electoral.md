@@ -97,7 +97,7 @@ TOEICでは、政治や社会に関する記事や説明文で「electoral syste
 ## 🤔  election との違いは？
 
 - **electoral**：選挙に関する（形容詞）。例：electoral system（選挙制度）
-- **[election](/election)**：選挙そのもの（名詞）。例：presidential election（大統領選挙）
+- **[election](/word/election)**：選挙そのもの（名詞）。例：presidential election（大統領選挙）
 
 electoralは「選挙に関する性質や制度」を形容し、electionは「選挙という出来事や行為」自体を指します。
 
@@ -105,14 +105,14 @@ electoralは「選挙に関する性質や制度」を形容し、electionは「
 
 ## 🧩 あわせて覚えたい
 
-- [vote](/vote)：投票する、投票
-- [candidate](/candidate)：候補者
+- [vote](/word/vote)：投票する、投票
+- [candidate](/word/candidate)：候補者
 
 ---
 
 ## 📖 できればこれも
 
-- [legislative](/legislative)：立法の、法律の
-- [political](/political)：政治の、政治に関する
+- [legislative](/word/legislative)：立法の、法律の
+- [political](/word/political)：政治の、政治に関する
 
 <!-- cvid: aid10_bid05 -->

@@ -97,7 +97,7 @@ TOEICでは、記事やレポート、ビジネス文書の中で「現実」「
 ## 🤔  fact との違いは？
 
 - **reality**：現実そのものや現実の状態を指す
-- **[fact](/fact)**：証拠や根拠に基づく「事実」を指す
+- **[fact](/word/fact)**：証拠や根拠に基づく「事実」を指す
 
 realityは「現実世界」や「現状」といった広い意味で使われ、factは「証明できる事実」に限定されます。
 
@@ -105,14 +105,14 @@ realityは「現実世界」や「現状」といった広い意味で使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [illusion](/illusion)：幻想、錯覚
-- [truth](/truth)：真実
+- [illusion](/word/illusion)：幻想、錯覚
+- [truth](/word/truth)：真実
 
 ---
 
 ## 📖 できればこれも
 
-- [actuality](/actuality)：実際、現実
-- [situation](/situation)：状況、事態
+- [actuality](/word/actuality)：実際、現実
+- [situation](/word/situation)：状況、事態
 
 <!-- cvid: aid25_bid31 -->

@@ -98,7 +98,7 @@ TOEICでは、形容詞として「sudden change（急な変化）」や「sudde
 ## 🤔  abrupt との違いは？
 
 - **sudden**：予告なく急に起こることを幅広く表す
-- **[abrupt](/abrupt)**：唐突で不意打ちのような、ややネガティブな印象を与える
+- **[abrupt](/word/abrupt)**：唐突で不意打ちのような、ややネガティブな印象を与える
 
 「sudden」は単に「急な」「突然の」という意味ですが、「abrupt」は「ぶっきらぼう」「無愛想」など、より衝撃的・不自然な印象を含みます。
 
@@ -106,14 +106,14 @@ TOEICでは、形容詞として「sudden change（急な変化）」や「sudde
 
 ## 🧩 あわせて覚えたい
 
-- [unexpected](/unexpected)：予期しない
-- [immediate](/immediate)：即時の、すぐの
+- [unexpected](/word/unexpected)：予期しない
+- [immediate](/word/immediate)：即時の、すぐの
 
 ---
 
 ## 📖 できればこれも
 
-- [quick](/quick)：速い、素早い
-- [rapid](/rapid)：急速な
+- [quick](/word/quick)：速い、素早い
+- [rapid](/word/rapid)：急速な
 
 <!-- cvid: aid20_bid18 -->

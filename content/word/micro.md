@@ -97,7 +97,7 @@ TOEICでは、科学技術や製品説明の文脈で「micro」が登場する�
 ## 🤔  miniature との違いは？
 
 - **micro**：非常に小さい、微細な（特に科学的・技術的な文脈で使う）
-- **[miniature](/miniature)**：小型の、縮小した（実物の小型版や模型に使う）
+- **[miniature](/word/miniature)**：小型の、縮小した（実物の小型版や模型に使う）
 
 「micro」は主にサイズやスケールの小ささを科学的に表現するのに対し、「miniature」は本物の縮小版や模型などに使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、科学技術や製品説明の文脈で「micro」が登場する�
 
 ## 🧩 あわせて覚えたい
 
-- [macro](/macro)：大きい、巨視的な
-- [tiny](/tiny)：とても小さい
+- [macro](/word/macro)：大きい、巨視的な
+- [tiny](/word/tiny)：とても小さい
 
 ---
 
 ## 📖 できればこれも
 
-- [nano](/nano)：ナノ（極めて小さい単位）
-- [small](/small)：小さい
+- [nano](/word/nano)：ナノ（極めて小さい単位）
+- [small](/word/small)：小さい
 
 <!-- cvid: aid25_bid16 -->

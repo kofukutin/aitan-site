@@ -97,7 +97,7 @@ TOEICでは、メールや通知文、会議案内などで「confirmed」がよ
 ## 🤔  verified との違いは？
 
 - **confirmed**：公式に認められ、確定したことを強調
-- **[verified](/verified)**：事実や情報が正しいと検証されたことを強調
+- **[verified](/word/verified)**：事実や情報が正しいと検証されたことを強調
 
 「confirmed」は予定や決定事項が正式に認められた場合に使い、「verified」は情報やデータの正確性が確認された場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、メールや通知文、会議案内などで「confirmed」がよ
 
 ## 🧩 あわせて覚えたい
 
-- [approved](/approved)：承認された
-- [pending](/pending)：保留中の
+- [approved](/word/approved)：承認された
+- [pending](/word/pending)：保留中の
 
 ---
 
 ## 📖 できればこれも
 
-- [scheduled](/scheduled)：予定された
-- [notified](/notified)：通知された
+- [scheduled](/word/scheduled)：予定された
+- [notified](/word/notified)：通知された
 
 <!-- cvid: aid04_bid41 -->

@@ -97,7 +97,7 @@ TOEICでは「抵抗する」「我慢する」という意味で、ビジネス
 ## 🤔  refuse との違いは？
 
 - **resist**：誘惑や圧力などに「抵抗する」「我慢する」
-- **[refuse](/refuse)**：申し出や要求などを「断る」「拒否する」
+- **[refuse](/word/refuse)**：申し出や要求などを「断る」「拒否する」
 
 resistは内面的・物理的な抵抗や我慢を表し、refuseは相手の要求や提案をはっきり断る時に使います。
 
@@ -105,14 +105,14 @@ resistは内面的・物理的な抵抗や我慢を表し、refuseは相手の�
 
 ## 🧩 あわせて覚えたい
 
-- [yield](/yield)：屈する、譲る
-- [endure](/endure)：耐える、我慢する
+- [yield](/word/yield)：屈する、譲る
+- [endure](/word/endure)：耐える、我慢する
 
 ---
 
 ## 📖 できればこれも
 
-- [oppose](/oppose)：反対する
-- [reject](/reject)：拒絶する
+- [oppose](/word/oppose)：反対する
+- [reject](/word/reject)：拒絶する
 
 <!-- cvid: aid12_bid40 -->

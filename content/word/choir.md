@@ -97,7 +97,7 @@ TOEICでは、学校やイベント、文化活動を扱う長文読解パート
 ## 🤔  chorus との違いは？
 
 - **choir**：宗教的・公式な場で歌う合唱団や聖歌隊を指すことが多い
-- **[chorus](/chorus)**：合唱そのものや、歌のサビ部分、または合唱団全体を指すこともある
+- **[chorus](/word/chorus)**：合唱そのものや、歌のサビ部分、または合唱団全体を指すこともある
 
 choirは特にグループとしての「合唱団」を強調し、chorusは「合唱」や「サビ」など幅広い意味で使われます。
 
@@ -105,13 +105,13 @@ choirは特にグループとしての「合唱団」を強調し、chorusは「
 
 ## 🧩 あわせて覚えたい
 
-- [solo](/solo)：独唱、ソロ
-- [orchestra](/orchestra)：オーケストラ、管弦楽団
+- [solo](/word/solo)：独唱、ソロ
+- [orchestra](/word/orchestra)：オーケストラ、管弦楽団
 
 ---
 
 ## 📖 できればこれも
 
-- [audience](/audience)：観客
-- [performance](/performance)：公演、演奏
+- [audience](/word/audience)：観客
+- [performance](/word/performance)：公演、演奏
 <!-- cvid: aid40_bid38 -->

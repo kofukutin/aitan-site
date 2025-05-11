@@ -97,7 +97,7 @@ TOEICでは、ダイバーシティや職場環境に関する長文や記事で
 ## 🤔  sex との違いは？
 
 - **gender**：社会的・文化的な性別や役割を指す
-- **[sex](/sex)**：生物学的な性（男性・女性など）を指す
+- **[sex](/word/sex)**：生物学的な性（男性・女性など）を指す
 
 genderは社会的な側面、sexは生物学的な側面を表すため、文脈によって使い分けが必要です。
 
@@ -105,14 +105,14 @@ genderは社会的な側面、sexは生物学的な側面を表すため、文�
 
 ## 🧩 あわせて覚えたい
 
-- [equality](/equality)：平等
-- [diversity](/diversity)：多様性
+- [equality](/word/equality)：平等
+- [diversity](/word/diversity)：多様性
 
 ---
 
 ## 📖 できればこれも
 
-- [role](/role)：役割
-- [identity](/identity)：アイデンティティ
+- [role](/word/role)：役割
+- [identity](/word/identity)：アイデンティティ
 
 <!-- cvid: aid31_bid15 -->

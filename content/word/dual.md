@@ -99,7 +99,7 @@ dualはTOEICの文法・語彙問題で、特にビジネスや技術関連の�
 ## 🤔  double との違いは？
 
 - **dual**：2つの性質や機能が同時に存在することを強調
-- **[double](/double)**：数量や大きさが「2倍」であることを強調
+- **[double](/word/double)**：数量や大きさが「2倍」であることを強調
 
 dualは「二重性」や「二元性」に焦点を当て、doubleは「量やサイズが2倍」であることに使います。
 
@@ -107,14 +107,14 @@ dualは「二重性」や「二元性」に焦点を当て、doubleは「量や�
 
 ## 🧩 あわせて覚えたい
 
-- [single](/single)：単一の、1つの
-- [multiple](/multiple)：複数の
+- [single](/word/single)：単一の、1つの
+- [multiple](/word/multiple)：複数の
 
 ---
 
 ## 📖 できればこれも
 
-- [unique](/unique)：唯一の、独特な
-- [parallel](/parallel)：平行な、同時進行の
+- [unique](/word/unique)：唯一の、独特な
+- [parallel](/word/parallel)：平行な、同時進行の
 
 <!-- cvid: aid19_bid31 -->

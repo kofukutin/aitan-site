@@ -97,7 +97,7 @@ TOEICでは会議や業務の進め方、参加姿勢を問う文脈でよく登
 ## 🤔  proactively との違いは？
 
 - **actively**：積極的に、活発に行動すること
-- **[proactively](/proactively)**：先を見越して主体的に行動すること
+- **[proactively](/word/proactively)**：先を見越して主体的に行動すること
 
 activelyは「積極的に」動くこと全般を指し、proactivelyは「予測して先回りする」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ activelyは「積極的に」動くこと全般を指し、proactivelyは「予�
 
 ## 🧩 あわせて覚えたい
 
-- [passively](/passively)：受け身で、消極的に
-- [energetically](/energetically)：精力的に、元気よく
+- [passively](/word/passively)：受け身で、消極的に
+- [energetically](/word/energetically)：精力的に、元気よく
 
 ---
 
 ## 📖 できればこれも
 
-- [efficiently](/efficiently)：効率的に
-- [regularly](/regularly)：定期的に
+- [efficiently](/word/efficiently)：効率的に
+- [regularly](/word/regularly)：定期的に
 
 <!-- cvid: aid33_bid08 -->

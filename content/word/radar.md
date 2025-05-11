@@ -96,7 +96,7 @@ TOEICでは空港や交通、技術関連の記事や説明文で見かけるこ
 ## 🤔  sonar との違いは？
 
 - **radar**：電波を使って空中や地上の物体を探知・測定する装置や技術。
-- **[sonar](/sonar)**：音波を使って水中の物体を探知・測定する装置や技術。
+- **[sonar](/word/sonar)**：音波を使って水中の物体を探知・測定する装置や技術。
 
 radarは主に空港や天気予報、交通分野で使われ、sonarは潜水艦や魚群探知など水中で使われます。
 
@@ -104,14 +104,14 @@ radarは主に空港や天気予報、交通分野で使われ、sonarは潜水�
 
 ## 🧩 あわせて覚えたい
 
-- [sensor](/sensor)：センサー、感知器
-- [detector](/detector)：探知機、検出器
+- [sensor](/word/sensor)：センサー、感知器
+- [detector](/word/detector)：探知機、検出器
 
 ---
 
 ## 📖 できればこれも
 
-- [signal](/signal)：信号、合図
-- [device](/device)：装置、機器
+- [signal](/word/signal)：信号、合図
+- [device](/word/device)：装置、機器
 
 <!-- cvid: aid37_bid44 -->

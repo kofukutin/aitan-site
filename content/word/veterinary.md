@@ -97,7 +97,7 @@ TOEICでは、動物病院やペット関連の長文、広告、案内文など
 ## 🤔  medical との違いは？
 
 - **veterinary**：動物の医療や治療に関する
-- **[medical](/medical)**：人間の医療や治療に関する
+- **[medical](/word/medical)**：人間の医療や治療に関する
 
 veterinaryは動物専門、medicalは主に人間の医療に使われます。文脈で対象が異なるので注意しましょう。
 
@@ -105,14 +105,14 @@ veterinaryは動物専門、medicalは主に人間の医療に使われます。
 
 ## 🧩 あわせて覚えたい
 
-- [clinical](/clinical)：臨床の、診療の
-- [animal](/animal)：動物
+- [clinical](/word/clinical)：臨床の、診療の
+- [animal](/word/animal)：動物
 
 ---
 
 ## 📖 できればこれも
 
-- [surgical](/surgical)：外科の、手術の
-- [pharmaceutical](/pharmaceutical)：製薬の、薬学の
+- [surgical](/word/surgical)：外科の、手術の
+- [pharmaceutical](/word/pharmaceutical)：製薬の、薬学の
 
 <!-- cvid: aid42_bid23 -->

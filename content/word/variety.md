@@ -97,7 +97,7 @@ TOEICでは、商品やサービスの説明文、広告、案内文などで「
 ## 🤔  diversity との違いは？
 
 - **variety**：同じカテゴリー内での「いろいろな種類」や「バリエーション」を強調。
-- **[diversity](/diversity)**：人種や文化などの「多様性」や「幅広さ」を強調。
+- **[diversity](/word/diversity)**：人種や文化などの「多様性」や「幅広さ」を強調。
 
 varietyは「選択肢の多さ」や「種類の豊富さ」に焦点があり、diversityは「違いそのもの」や「多様な背景」に重点があります。
 
@@ -105,14 +105,14 @@ varietyは「選択肢の多さ」や「種類の豊富さ」に焦点があり�
 
 ## 🧩 あわせて覚えたい
 
-- [range](/range)：範囲、幅
-- [selection](/selection)：選択肢、品揃え
+- [range](/word/range)：範囲、幅
+- [selection](/word/selection)：選択肢、品揃え
 
 ---
 
 ## 📖 できればこれも
 
-- [option](/option)：選択肢
-- [category](/category)：カテゴリー、分類
+- [option](/word/option)：選択肢
+- [category](/word/category)：カテゴリー、分類
 
 <!-- cvid: aid24_bid14 -->

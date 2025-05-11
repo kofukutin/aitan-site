@@ -97,7 +97,7 @@ The conference will be held at the historic castle downtown.
 ## 🤔  palace との違いは？
 
 - **castle**：防御や権力の象徴として建てられた「城」や「要塞」
-- **[palace](/palace)**：王族や高官が住む「宮殿」、主に豪華さや居住性を重視
+- **[palace](/word/palace)**：王族や高官が住む「宮殿」、主に豪華さや居住性を重視
 
 castleは防御目的の堅牢な建物、palaceは豪華さや居住性を重視した建物で、用途や雰囲気が異なります。
 
@@ -105,14 +105,14 @@ castleは防御目的の堅牢な建物、palaceは豪華さや居住性を重�
 
 ## 🧩 あわせて覚えたい
 
-- [fortress](/fortress)：要塞、防御のための堅固な建物
-- [tower](/tower)：塔、高くそびえる建物
+- [fortress](/word/fortress)：要塞、防御のための堅固な建物
+- [tower](/word/tower)：塔、高くそびえる建物
 
 ---
 
 ## 📖 できればこれも
 
-- [bridge](/bridge)：橋
-- [museum](/museum)：博物館
+- [bridge](/word/bridge)：橋
+- [museum](/word/museum)：博物館
 
 <!-- cvid: aid18_bid05 -->

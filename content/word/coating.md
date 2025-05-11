@@ -97,7 +97,7 @@ TOEICでは製品説明や技術文書、マニュアルなどで「表面処理
 ## 🤔  layer との違いは？
 
 - **coating**：物の表面に塗ったり貼ったりしてできる「覆い」や「膜」を指す。
-- **[layer](/layer)**：積み重なった「層」や「重なり」を広く指す。
+- **[layer](/word/layer)**：積み重なった「層」や「重なり」を広く指す。
 
 coatingは主に表面を覆う目的の膜や塗装に使い、layerは複数の層や段階的な重なり全般に使います。
 
@@ -105,14 +105,14 @@ coatingは主に表面を覆う目的の膜や塗装に使い、layerは複数�
 
 ## 🧩 あわせて覚えたい
 
-- [surface](/surface)：表面
-- [film](/film)：薄い膜
+- [surface](/word/surface)：表面
+- [film](/word/film)：薄い膜
 
 ---
 
 ## 📖 できればこれも
 
-- [cover](/cover)：覆う
-- [protect](/protect)：守る
+- [cover](/word/cover)：覆う
+- [protect](/word/protect)：守る
 
 <!-- cvid: aid28_bid29 -->

@@ -97,7 +97,7 @@ organizationalは、TOEICの長文読解（Part 7）で「組織の方針」や�
 ## 🤔  organizationally との違いは？
 
 - **organizational**：組織の、組織に関する（形容詞）
-- **[organizationally](/organizationally)**：組織的に（副詞）
+- **[organizationally](/word/organizationally)**：組織的に（副詞）
 
 organizationalは名詞を修飾し「組織の～」という意味、organizationallyは動詞や形容詞を修飾し「組織的に」という方法や様子を表します。
 
@@ -105,14 +105,14 @@ organizationalは名詞を修飾し「組織の～」という意味、organizat
 
 ## 🧩 あわせて覚えたい
 
-- [corporate](/corporate)：企業の、法人の
-- [administrative](/administrative)：管理の、運営の
+- [corporate](/word/corporate)：企業の、法人の
+- [administrative](/word/administrative)：管理の、運営の
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/efficient)：効率的な
-- [structural](/structural)：構造上の
+- [efficient](/word/efficient)：効率的な
+- [structural](/word/structural)：構造上の
 
 <!-- cvid: aid38_bid00 -->

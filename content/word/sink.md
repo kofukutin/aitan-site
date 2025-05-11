@@ -97,7 +97,7 @@ sinkはTOEICのPart 1で、物が沈む様子や「流し台（名詞）」と�
 ## 🤔  submerge との違いは？
 
 - **sink**：自然に沈む、または沈める（重さや事故などで下に落ちるイメージ）
-- **[submerge](/submerge)**：完全に水中に沈める、覆う（意図的・全面的に水中に入れるニュアンス）
+- **[submerge](/word/submerge)**：完全に水中に沈める、覆う（意図的・全面的に水中に入れるニュアンス）
 
 sinkは自然に沈む動作に使い、submergeは意図的に完全に水中に入れる場合に使います。
 
@@ -105,14 +105,14 @@ sinkは自然に沈む動作に使い、submergeは意図的に完全に水中�
 
 ## 🧩 あわせて覚えたい
 
-- [float](/float)：浮かぶ
-- [drown](/drown)：溺れる
+- [float](/word/float)：浮かぶ
+- [drown](/word/drown)：溺れる
 
 ---
 
 ## 📖 できればこれも
 
-- [drop](/drop)：落とす
-- [fall](/fall)：落ちる
+- [drop](/word/drop)：落とす
+- [fall](/word/fall)：落ちる
 
 <!-- cvid: aid06_bid31 -->

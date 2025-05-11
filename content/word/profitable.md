@@ -97,7 +97,7 @@ TOEICではPart 5の語彙問題で頻出し、ビジネス文脈で「利益が
 ## 🤔  beneficial との違いは？
 
 - **profitable**：金銭的な利益が出る、もうかる
-- **[beneficial](/beneficial)**：有益な、役立つ（必ずしも金銭的でなくてもよい）
+- **[beneficial](/word/beneficial)**：有益な、役立つ（必ずしも金銭的でなくてもよい）
 
 profitableは「お金がもうかる」ことに特化し、beneficialは「役に立つ」「有益」という広い意味で使われます。
 
@@ -105,14 +105,14 @@ profitableは「お金がもうかる」ことに特化し、beneficialは「役
 
 ## 🧩 あわせて覚えたい
 
-- [unprofitable](/unprofitable)：利益が出ない
-- [lucrative](/lucrative)：もうかる、儲かる（profitableより口語的）
+- [unprofitable](/word/unprofitable)：利益が出ない
+- [lucrative](/word/lucrative)：もうかる、儲かる（profitableより口語的）
 
 ---
 
 ## 📖 できればこれも
 
-- [productive](/productive)：生産的な、成果を生む
-- [efficient](/efficient)：効率的な
+- [productive](/word/productive)：生産的な、成果を生む
+- [efficient](/word/efficient)：効率的な
 
 <!-- cvid: aid16_bid40 -->

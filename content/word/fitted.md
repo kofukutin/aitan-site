@@ -97,7 +97,7 @@ TOEICでは「fitted」が形容詞として「ぴったり合った」「適し
 ## 🤔  tailored との違いは？
 
 - **fitted**：体や物にぴったり合う、既製品でも使える
-- **[tailored](/tailored)**：特に「仕立てられた」「個人仕様の」という意味が強い
+- **[tailored](/word/tailored)**：特に「仕立てられた」「個人仕様の」という意味が強い
 
 fittedは「ぴったり合う」ことに重点があり、tailoredは「個人や目的に合わせて特別に作られた」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ fittedは「ぴったり合う」ことに重点があり、tailoredは「個人
 
 ## 🧩 あわせて覚えたい
 
-- [suitable](/suitable)：適した、ふさわしい
-- [loose](/loose)：ゆるい、ゆったりした
+- [suitable](/word/suitable)：適した、ふさわしい
+- [loose](/word/loose)：ゆるい、ゆったりした
 
 ---
 
 ## 📖 できればこれも
 
-- [tight](/tight)：きつい、ぴったりした
-- [custom](/custom)：特注の、カスタムの
+- [tight](/word/tight)：きつい、ぴったりした
+- [custom](/word/custom)：特注の、カスタムの
 
 <!-- cvid: aid11_bid02 -->

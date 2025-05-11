@@ -97,7 +97,7 @@ ITや技術系の説明文、製品仕様の記述で頻出します。特に「
 ## 🤔  installed との違いは？
 
 - **embedded**：何かの内部にしっかりと組み込まれている、内蔵された
-- **[installed](/installed)**：設置・インストールされた（外部から追加された）
+- **[installed](/word/installed)**：設置・インストールされた（外部から追加された）
 
 「embedded」は最初から内部に組み込まれているニュアンスが強く、「installed」は後から設置・導入されたことを表します。
 
@@ -105,14 +105,14 @@ ITや技術系の説明文、製品仕様の記述で頻出します。特に「
 
 ## 🧩 あわせて覚えたい
 
-- [integrated](/integrated)：統合された、組み込まれた
-- [detached](/detached)：分離した、切り離された
+- [integrated](/word/integrated)：統合された、組み込まれた
+- [detached](/word/detached)：分離した、切り離された
 
 ---
 
 ## 📖 できればこれも
 
-- [automated](/automated)：自動化された
-- [configured](/configured)：設定された
+- [automated](/word/automated)：自動化された
+- [configured](/word/configured)：設定された
 
 <!-- cvid: aid42_bid34 -->

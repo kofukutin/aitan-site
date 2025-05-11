@@ -97,7 +97,7 @@ TOEICでは、製品説明や仕様書、広告文などでhandheldが登場す�
 ## 🤔  portable との違いは？
 
 - **handheld**：手で持って操作できるほど小型であることを強調
-- **[portable](/portable)**：持ち運びができる（携帯可能）ことを強調
+- **[portable](/word/portable)**：持ち運びができる（携帯可能）ことを強調
 
 handheldは「手で持って使う」ことに重点があり、portableは「持ち運びができる」ことに重点があります。handheldの方がより小型で、操作時も手で持つイメージです。
 
@@ -105,14 +105,14 @@ handheldは「手で持って使う」ことに重点があり、portableは「�
 
 ## 🧩 あわせて覚えたい
 
-- [mobile](/mobile)：移動可能な、携帯電話
-- [compact](/compact)：小型の、コンパクトな
+- [mobile](/word/mobile)：移動可能な、携帯電話
+- [compact](/word/compact)：小型の、コンパクトな
 
 ---
 
 ## 📖 できればこれも
 
-- [wireless](/wireless)：無線の
-- [device](/device)：装置、機器
+- [wireless](/word/wireless)：無線の
+- [device](/word/device)：装置、機器
 
 <!-- cvid: aid09_bid24 -->

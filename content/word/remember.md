@@ -97,7 +97,7 @@ TOEICでは会話や指示の中で「覚えている」「忘れないで」と
 ## 🤔  recall との違いは？
 
 - **remember**：日常的に「覚えている」「思い出す」と幅広く使う
-- **[recall](/recall)**：ややフォーマルで「意識して思い出す」「記憶を呼び起こす」
+- **[recall](/word/recall)**：ややフォーマルで「意識して思い出す」「記憶を呼び起こす」
 
 rememberは普段の会話やビジネスで自然に使われ、recallは少し意識的・正式な場面で使われることが多いです。
 
@@ -105,14 +105,14 @@ rememberは普段の会話やビジネスで自然に使われ、recallは少し
 
 ## 🧩 あわせて覚えたい
 
-- [forget](/forget)：忘れる
-- [remind](/remind)：思い出させる
+- [forget](/word/forget)：忘れる
+- [remind](/word/remind)：思い出させる
 
 ---
 
 ## 📖 できればこれも
 
-- [remind](/remind)：思い出させる
-- [forget](/forget)：忘れる
+- [remind](/word/remind)：思い出させる
+- [forget](/word/forget)：忘れる
 
 <!-- cvid: aid10_bid23 -->

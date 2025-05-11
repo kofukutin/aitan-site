@@ -98,7 +98,7 @@ TOEICでは、旅行や観光、宿泊施設に関する長文や広告、案内
 ## 🤔  hotel との違いは？
 
 - **resort**：観光やレジャー施設が集まる大型の行楽地や複合施設
-- **[hotel](/hotel)**：宿泊を主目的とした施設
+- **[hotel](/word/hotel)**：宿泊を主目的とした施設
 
 resortは宿泊だけでなく、レジャーやアクティビティも楽しめる場所を指し、hotelは主に「泊まる場所」として使われます。
 
@@ -106,14 +106,14 @@ resortは宿泊だけでなく、レジャーやアクティビティも楽し�
 
 ## 🧩 あわせて覚えたい
 
-- [destination](/destination)：目的地
-- [accommodation](/accommodation)：宿泊施設
+- [destination](/word/destination)：目的地
+- [accommodation](/word/accommodation)：宿泊施設
 
 ---
 
 ## 📖 できればこれも
 
-- [facility](/facility)：施設
-- [attraction](/attraction)：観光名所
+- [facility](/word/facility)：施設
+- [attraction](/word/attraction)：観光名所
 
 <!-- cvid: aid41_bid38 -->

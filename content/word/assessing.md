@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や会議の文脈で「assessing」が動詞と
 ## 🤔  evaluating との違いは？
 
 - **assessing**：価値や状況を判断・査定することに重点がある
-- **[evaluating](/evaluating)**：より詳細に分析し、価値や効果を評価することに重点がある
+- **[evaluating](/word/evaluating)**：より詳細に分析し、価値や効果を評価することに重点がある
 
 「assessing」は全体的な評価や査定、「evaluating」は細かく分析して評価するニュアンスがあります。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネス文書や会議の文脈で「assessing」が動詞と
 
 ## 🧩 あわせて覚えたい
 
-- [estimate](/estimate)：見積もる、概算する
-- [measure](/measure)：測定する、評価する
+- [estimate](/word/estimate)：見積もる、概算する
+- [measure](/word/measure)：測定する、評価する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyzing](/analyzing)：分析する
-- [review](/review)：見直す、再検討する
+- [analyzing](/word/analyzing)：分析する
+- [review](/word/review)：見直す、再検討する
 
 <!-- cvid: aid35_bid25 -->

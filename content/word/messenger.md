@@ -97,7 +97,7 @@ TOEICでは、社内の連絡や書類の受け渡しなど、ビジネスシー
 ## 🤔  courier との違いは？
 
 - **messenger**：人やサービスとして「伝言・物を届ける人」を広く指す
-- **[courier](/courier)**：特に「急送便」や「専門の配達人」を指す
+- **[courier](/word/courier)**：特に「急送便」や「専門の配達人」を指す
 
 messengerは一般的な伝言役や配達人、courierはより専門的・迅速な配達サービスに使われます。
 
@@ -105,14 +105,14 @@ messengerは一般的な伝言役や配達人、courierはより専門的・迅�
 
 ## 🧩 あわせて覚えたい
 
-- [delivery](/delivery)：配達、配送
-- [notification](/notification)：通知、お知らせ
+- [delivery](/word/delivery)：配達、配送
+- [notification](/word/notification)：通知、お知らせ
 
 ---
 
 ## 📖 できればこれも
 
-- [message](/message)：メッセージ、伝言
-- [sender](/sender)：送信者、差出人
+- [message](/word/message)：メッセージ、伝言
+- [sender](/word/sender)：送信者、差出人
 
 <!-- cvid: aid45_bid28 -->

@@ -97,7 +97,7 @@ TOEICでは、形容詞の語彙問題や、習慣・傾向を表す文脈で出
 ## 🤔  usual との違いは？
 
 - **habitual**：習慣として繰り返される、個人や集団の行動に焦点
-- **[usual](/usual)**：一般的・普通であること、広く一般的な傾向
+- **[usual](/word/usual)**：一般的・普通であること、広く一般的な傾向
 
 「habitual」は個人や特定の集団の繰り返される行動に使い、「usual」は一般的・標準的なことに使います。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞の語彙問題や、習慣・傾向を表す文脈で出
 
 ## 🧩 あわせて覚えたい
 
-- [customary](/customary)：慣習的な、伝統的な
-- [occasional](/occasional)：時々の、たまの
+- [customary](/word/customary)：慣習的な、伝統的な
+- [occasional](/word/occasional)：時々の、たまの
 
 ---
 
 ## 📖 できればこれも
 
-- [frequent](/frequent)：頻繁な
-- [routine](/routine)：決まりきった、日課の
+- [frequent](/word/frequent)：頻繁な
+- [routine](/word/routine)：決まりきった、日課の
 
 <!-- cvid: aid28_bid40 -->

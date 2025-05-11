@@ -93,7 +93,7 @@ TOEICでは、メールや記事などの長文中で「同様に」「同じく
 ## 🤔  similarly との違いは？
 
 - **likewise**：前述や相手の発言に「同じく」「同様に」と返すときや、2つの事柄の類似性を述べるときに使う。
-- **[similarly](/similarly)**：2つ以上の事柄の「類似点」を説明的に述べるときに使う。
+- **[similarly](/word/similarly)**：2つ以上の事柄の「類似点」を説明的に述べるときに使う。
 
 likewiseは会話や返答で「私も同じです」と返すニュアンスが強く、similarlyは説明文で「同様に」と論理的に並列する際に使います。
 
@@ -101,14 +101,14 @@ likewiseは会話や返答で「私も同じです」と返すニュアンスが
 
 ## 🧩 あわせて覚えたい
 
-- [also](/also)：～もまた
-- [however](/however)：しかしながら
+- [also](/word/also)：～もまた
+- [however](/word/however)：しかしながら
 
 ---
 
 ## 📖 できればこれも
 
-- [therefore](/therefore)：それゆえに
-- [meanwhile](/meanwhile)：その間に
+- [therefore](/word/therefore)：それゆえに
+- [meanwhile](/word/meanwhile)：その間に
 
 <!-- cvid: aid21_bid16 -->

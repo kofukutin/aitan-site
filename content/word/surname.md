@@ -106,13 +106,13 @@ surnameはイギリス英語や公式文書でよく使われ、family nameは�
 ## 🧩 あわせて覚えたい
 
 - [given name](/given name)：名（ファーストネーム）
-- [initial](/initial)：頭文字
+- [initial](/word/initial)：頭文字
 
 ---
 
 ## 📖 できればこれも
 
-- [signature](/signature)：署名
-- [address](/address)：住所
+- [signature](/word/signature)：署名
+- [address](/word/address)：住所
 
 <!-- cvid: aid06_bid36 -->

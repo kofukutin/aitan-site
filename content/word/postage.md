@@ -97,7 +97,7 @@ TOEICでは請求書や案内文、注文書などの説明文でよく見かけ
 ## 🤔  shipping との違いは？
 
 - **postage**：郵便で送る際の料金を指す
-- **[shipping](/shipping)**：配送全般の送料や運送を指す
+- **[shipping](/word/shipping)**：配送全般の送料や運送を指す
 
 postageは主に郵便物の料金、shippingは宅配便や貨物など広い範囲の配送・送料に使います。
 
@@ -105,14 +105,14 @@ postageは主に郵便物の料金、shippingは宅配便や貨物など広い�
 
 ## 🧩 あわせて覚えたい
 
-- [fee](/fee)：料金、手数料
-- [mail](/mail)：郵便、手紙
+- [fee](/word/fee)：料金、手数料
+- [mail](/word/mail)：郵便、手紙
 
 ---
 
 ## 📖 できればこれも
 
-- [envelope](/envelope)：封筒
-- [parcel](/parcel)：小包
+- [envelope](/word/envelope)：封筒
+- [parcel](/word/parcel)：小包
 
 <!-- cvid: aid04_bid34 -->

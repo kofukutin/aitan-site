@@ -97,7 +97,7 @@ TOEICでは「a sheet of paper」や「information sheet」など、書類や用
 ## 🤔  paper との違いは？
 
 - **sheet**：一枚の紙や布など「薄くて平らな一枚」を強調
-- **[paper](/paper)**：紙そのもの、または「新聞」「レポート」など幅広い意味
+- **[paper](/word/paper)**：紙そのもの、または「新聞」「レポート」など幅広い意味
 
 sheetは「一枚」という数量や形状を意識する時に使い、paperは素材や文書全般を指します。
 
@@ -105,14 +105,14 @@ sheetは「一枚」という数量や形状を意識する時に使い、paper�
 
 ## 🧩 あわせて覚えたい
 
-- [form](/form)：用紙、書式
-- [document](/document)：文書、書類
+- [form](/word/form)：用紙、書式
+- [document](/word/document)：文書、書類
 
 ---
 
 ## 📖 できればこれも
 
-- [file](/file)：ファイル、書類
-- [note](/note)：メモ、ノート
+- [file](/word/file)：ファイル、書類
+- [note](/word/note)：メモ、ノート
 
 <!-- cvid: aid02_bid48 -->

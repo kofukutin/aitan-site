@@ -97,7 +97,7 @@ TOEICでは主に名詞として「茎」「幹」の意味や、動詞で「～
 ## 🤔  root との違いは？
 
 - **stem**：植物の地上部分で葉や花を支える「茎」や「幹」。
-- **[root](/root)**：植物の地下部分で水や栄養を吸収する「根」。
+- **[root](/word/root)**：植物の地下部分で水や栄養を吸収する「根」。
 
 stemは植物の上部を支える部分、rootは地下で支える部分と役割が異なります。
 
@@ -105,14 +105,14 @@ stemは植物の上部を支える部分、rootは地下で支える部分と役
 
 ## 🧩 あわせて覚えたい
 
-- [branch](/branch)：枝
-- [leaf](/leaf)：葉
+- [branch](/word/branch)：枝
+- [leaf](/word/leaf)：葉
 
 ---
 
 ## 📖 できればこれも
 
-- [seed](/seed)：種
-- [bark](/bark)：樹皮
+- [seed](/word/seed)：種
+- [bark](/word/bark)：樹皮
 
 <!-- cvid: aid18_bid12 -->

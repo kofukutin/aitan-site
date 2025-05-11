@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で「壁を塗っている」「ペンキ
 ## 🤔  draw との違いは？
 
 - **paint**：ペンキや絵の具などで色を塗る、または絵を描く
-- **[draw](/draw)**：鉛筆やペンなどで線を引いて絵や図を描く
+- **[draw](/word/draw)**：鉛筆やペンなどで線を引いて絵や図を描く
 
 paintは「色を塗る」ことや「絵の具で描く」ことに重点があり、drawは「線で描く」ことに重点があります。
 
@@ -106,14 +106,14 @@ paintは「色を塗る」ことや「絵の具で描く」ことに重点があ
 
 ## 🧩 あわせて覚えたい
 
-- [decorate](/decorate)：飾る、装飾する
-- [cover](/cover)：覆う、カバーする
+- [decorate](/word/decorate)：飾る、装飾する
+- [cover](/word/cover)：覆う、カバーする
 
 ---
 
 ## 📖 できればこれも
 
-- [brush](/brush)：ブラシ、筆
-- [color](/color)：色、色を塗る
+- [brush](/word/brush)：ブラシ、筆
+- [color](/word/color)：色、色を塗る
 
 <!-- cvid: aid37_bid35 -->

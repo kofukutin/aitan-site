@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、駅やショッピングモールの
 ## 🤔  elevator との違いは？
 
 - **escalator**：階段状で人が立ったまま自動で上下する装置
-- **[elevator](/elevator)**：箱型の中に人や物が入り、上下に移動する装置
+- **[elevator](/word/elevator)**：箱型の中に人や物が入り、上下に移動する装置
 
 escalatorは階段タイプ、elevatorは箱型で、移動方法や使われる場面が異なります。
 
@@ -105,14 +105,14 @@ escalatorは階段タイプ、elevatorは箱型で、移動方法や使われる
 
 ## 🧩 あわせて覚えたい
 
-- [staircase](/staircase)：階段
-- [conveyor belt](/conveyor_belt)：ベルトコンベア
+- [staircase](/word/staircase)：階段
+- [conveyor belt](/word/conveyor_belt)：ベルトコンベア
 
 ---
 
 ## 📖 できればこれも
 
-- [entrance](/entrance)：入口
-- [corridor](/corridor)：廊下
+- [entrance](/word/entrance)：入口
+- [corridor](/word/corridor)：廊下
 
 <!-- cvid: aid45_bid11 -->

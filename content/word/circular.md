@@ -97,7 +97,7 @@ TOEICでは形容詞として「円形の」「循環する」の意味で出題
 ## 🤔  round との違いは？
 
 - **circular**：円形の、または循環する（形や動きが円に近いことを強調）
-- **[round](/round)**：丸い、球状の（立体的な丸さや、ざっくりとした「丸い」形を表す）
+- **[round](/word/round)**：丸い、球状の（立体的な丸さや、ざっくりとした「丸い」形を表す）
 
 circularは「円（平面）」や「循環」を強調し、roundは「丸い（立体）」や「球状」にも使われます。
 
@@ -105,14 +105,14 @@ circularは「円（平面）」や「循環」を強調し、roundは「丸い�
 
 ## 🧩 あわせて覚えたい
 
-- [rectangular](/rectangular)：長方形の
-- [spiral](/spiral)：らせん状の
+- [rectangular](/word/rectangular)：長方形の
+- [spiral](/word/spiral)：らせん状の
 
 ---
 
 ## 📖 できればこれも
 
-- [linear](/linear)：直線の
-- [oval](/oval)：楕円形の
+- [linear](/word/linear)：直線の
+- [oval](/word/oval)：楕円形の
 
 <!-- cvid: aid36_bid47 -->

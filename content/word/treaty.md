@@ -97,7 +97,7 @@ treatyはTOEICの長文読解パートで、国際関係やビジネス契約に
 ## 🤔  agreement との違いは？
 
 - **treaty**：国や団体間で結ばれる公式な条約・協定
-- **[agreement](/agreement)**：一般的な合意や取り決め、契約
+- **[agreement](/word/agreement)**：一般的な合意や取り決め、契約
 
 treatyは国際的・法的な重みがあり、agreementはより広く日常的な合意や契約にも使われます。
 
@@ -105,15 +105,15 @@ treatyは国際的・法的な重みがあり、agreementはより広く日常�
 
 ## 🧩 あわせて覚えたい
 
-- [contract](/contract)：契約（法的拘束力のある取り決め）
-- [negotiation](/negotiation)：交渉（合意に至るための話し合い）
+- [contract](/word/contract)：契約（法的拘束力のある取り決め）
+- [negotiation](/word/negotiation)：交渉（合意に至るための話し合い）
 
 ---
 
 ## 📖 できればこれも
 
-- [clause](/clause)：条項（契約や条約の一部となる文）
-- [settlement](/settlement)：和解、解決（争いごとの解決策）
+- [clause](/word/clause)：条項（契約や条約の一部となる文）
+- [settlement](/word/settlement)：和解、解決（争いごとの解決策）
 
 ---
 <!-- cvid: aid49_bid07 -->

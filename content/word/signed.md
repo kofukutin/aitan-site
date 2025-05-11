@@ -97,7 +97,7 @@ TOEICでは、契約書や申請書などビジネス文書の文脈で「signed
 ## 🤔  authorized との違いは？
 
 - **signed**：署名がされている状態を強調
-- **[authorized](/authorized)**：正式な許可や権限が与えられていることを強調
+- **[authorized](/word/authorized)**：正式な許可や権限が与えられていることを強調
 
 signedは「署名がある」こと自体を指し、authorizedは「正式に認可された」ことを指します。署名があっても、必ずしも認可されているとは限りません。
 
@@ -105,14 +105,14 @@ signedは「署名がある」こと自体を指し、authorizedは「正式に�
 
 ## 🧩 あわせて覚えたい
 
-- [approved](/approved)：承認された
-- [stamped](/stamped)：押印された
+- [approved](/word/approved)：承認された
+- [stamped](/word/stamped)：押印された
 
 ---
 
 ## 📖 できればこれも
 
-- [sealed](/sealed)：封印された
-- [noted](/noted)：記載された
+- [sealed](/word/sealed)：封印された
+- [noted](/word/noted)：記載された
 
 <!-- cvid: aid27_bid05 -->

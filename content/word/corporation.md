@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や記事、会社案内などで頻出しま
 ## 🤔  company との違いは？
 
 - **corporation**：法律上の法人格を持つ大規模な株式会社を指すことが多い
-- **[company](/company)**：規模や形態を問わず、会社全般を指す一般的な語
+- **[company](/word/company)**：規模や形態を問わず、会社全般を指す一般的な語
 
 corporationは特に法的な意味合いが強く、大企業や株式会社に限定されることが多いですが、companyは小規模な会社や団体にも広く使われます。
 
@@ -105,14 +105,14 @@ corporationは特に法的な意味合いが強く、大企業や株式会社に
 
 ## 🧩 あわせて覚えたい
 
-- [firm](/firm)：（主に小規模な）会社、事務所
-- [enterprise](/enterprise)：企業、事業（やや堅い表現）
+- [firm](/word/firm)：（主に小規模な）会社、事務所
+- [enterprise](/word/enterprise)：企業、事業（やや堅い表現）
 
 ---
 
 ## 📖 できればこれも
 
-- [subsidiary](/subsidiary)：子会社
-- [shareholder](/shareholder)：株主
+- [subsidiary](/word/subsidiary)：子会社
+- [shareholder](/word/shareholder)：株主
 
 <!-- cvid: aid11_bid00 -->

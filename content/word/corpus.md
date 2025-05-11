@@ -97,7 +97,7 @@ TOEICではITや言語学関連の長文や説明文で見かけることがあ�
 ## 🤔  database との違いは？
 
 - **corpus**：主に言語データや文章の集まりを指し、研究や分析目的で使われる
-- **[database](/database)**：あらゆる種類のデータを体系的に保存・管理する仕組み
+- **[database](/word/database)**：あらゆる種類のデータを体系的に保存・管理する仕組み
 
 corpusは「言語資料集」に特化し、databaseはより広範なデータ全般を扱う点が異なります。
 
@@ -105,14 +105,14 @@ corpusは「言語資料集」に特化し、databaseはより広範なデータ
 
 ## 🧩 あわせて覚えたい
 
-- [archive](/archive)：記録保管所、アーカイブ
-- [collection](/collection)：収集物、コレクション
+- [archive](/word/archive)：記録保管所、アーカイブ
+- [collection](/word/collection)：収集物、コレクション
 
 ---
 
 ## 📖 できればこれも
 
-- [dataset](/dataset)：データセット、データの集まり
-- [text](/text)：テキスト、文章
+- [dataset](/word/dataset)：データセット、データの集まり
+- [text](/word/text)：テキスト、文章
 
 <!-- cvid: aid48_bid33 -->

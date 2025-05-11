@@ -97,7 +97,7 @@ backは会話や指示の中で「戻る」「返す」などの意味で頻出�
 ## 🤔  return との違いは？
 
 - **back**：元の場所や状態に「戻る」ことをカジュアルに表現
-- **[return](/return)**：ややフォーマルで「返す」「戻る」を表す
+- **[return](/word/return)**：ややフォーマルで「返す」「戻る」を表す
 
 backは日常会話でよく使われ、returnはビジネスや書き言葉で使われることが多いです。
 
@@ -105,14 +105,14 @@ backは日常会話でよく使われ、returnはビジネスや書き言葉で�
 
 ## 🧩 あわせて覚えたい
 
-- [forward](/forward)：前方へ
-- [again](/again)：再び
+- [forward](/word/forward)：前方へ
+- [again](/word/again)：再び
 
 ---
 
 ## 📖 できればこれも
 
-- [away](/away)：離れて
-- [behind](/behind)：後ろに
+- [away](/word/away)：離れて
+- [behind](/word/behind)：後ろに
 
 <!-- cvid: aid30_bid41 -->

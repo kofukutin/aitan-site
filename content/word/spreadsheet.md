@@ -97,7 +97,7 @@ ITやビジネス関連の長文やメール、指示文でよく登場します
 ## 🤔  worksheet との違いは？
 
 - **spreadsheet**：表計算ソフト全体やファイルそのものを指す
-- **[worksheet](/worksheet)**：spreadsheet内の1枚のシート（タブ）を指す
+- **[worksheet](/word/worksheet)**：spreadsheet内の1枚のシート（タブ）を指す
 
 spreadsheetは全体、worksheetはその中の1ページというイメージで使い分けます。
 
@@ -105,14 +105,14 @@ spreadsheetは全体、worksheetはその中の1ページというイメージ�
 
 ## 🧩 あわせて覚えたい
 
-- [database](/database)：データベース、情報の集まり
-- [document](/document)：文書、書類
+- [database](/word/database)：データベース、情報の集まり
+- [document](/word/document)：文書、書類
 
 ---
 
 ## 📖 できればこれも
 
-- [formula](/formula)：数式、計算式
-- [cell](/cell)：セル、表の1マス
+- [formula](/word/formula)：数式、計算式
+- [cell](/word/cell)：セル、表の1マス
 
 <!-- cvid: aid37_bid09 -->

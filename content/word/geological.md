@@ -97,7 +97,7 @@ TOEICでは、科学や環境に関する長文や記事で見かけることが
 ## 🤔  geographic との違いは？
 
 - **geological**：地質学や地層・岩石など地球の構造に関する
-- **[geographic](/geographic)**：地理的な位置や範囲、地図上の特徴に関する
+- **[geographic](/word/geographic)**：地理的な位置や範囲、地図上の特徴に関する
 
 geologicalは「地質」に、geographicは「地理」に関する点で使い分けます。
 
@@ -105,14 +105,14 @@ geologicalは「地質」に、geographicは「地理」に関する点で使い
 
 ## 🧩 あわせて覚えたい
 
-- [mineral](/mineral)：鉱物
-- [tectonic](/tectonic)：地殻構造の、構造の
+- [mineral](/word/mineral)：鉱物
+- [tectonic](/word/tectonic)：地殻構造の、構造の
 
 ---
 
 ## 📖 できればこれも
 
-- [geologist](/geologist)：地質学者
-- [geography](/geography)：地理学
+- [geologist](/word/geologist)：地質学者
+- [geography](/word/geography)：地理学
 
 <!-- cvid: aid02_bid44 -->

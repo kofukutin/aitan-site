@@ -97,7 +97,7 @@ ITやビジネス文書の操作説明でよく出題されます。特に「フ
 ## 🤔  remove との違いは？
 
 - **delete**：データや情報を完全に消去する、特にIT分野でよく使う
-- **[remove](/remove)**：物理的・抽象的に「取り除く」、必ずしも消去とは限らない
+- **[remove](/word/remove)**：物理的・抽象的に「取り除く」、必ずしも消去とは限らない
 
 deleteは「消して元に戻せない」イメージ、removeは「場所からどかす」など幅広い場面で使います。
 
@@ -105,14 +105,14 @@ deleteは「消して元に戻せない」イメージ、removeは「場所か�
 
 ## 🧩 あわせて覚えたい
 
-- [erase](/erase)：消す、書いたものを消去する
-- [insert](/insert)：挿入する、差し込む
+- [erase](/word/erase)：消す、書いたものを消去する
+- [insert](/word/insert)：挿入する、差し込む
 
 ---
 
 ## 📖 できればこれも
 
-- [edit](/edit)：編集する
-- [update](/update)：更新する
+- [edit](/word/edit)：編集する
+- [update](/word/update)：更新する
 
 <!-- cvid: aid40_bid24 -->

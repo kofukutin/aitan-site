@@ -97,7 +97,7 @@ nudistはTOEICの長文読解（Part 7）で、観光やリゾート施設の案
 ## 🤔  naturist との違いは？
 
 - **nudist**：裸でいることを好む人、特にレジャーや趣味としての意味合いが強い。
-- **[naturist](/naturist)**：nudistとほぼ同義だが、より自然との調和や哲学的な側面を強調する。
+- **[naturist](/word/naturist)**：nudistとほぼ同義だが、より自然との調和や哲学的な側面を強調する。
 
 nudistは「裸でいること自体」を指しやすく、naturistは「自然との一体感」や思想的な意味合いが強いです。
 
@@ -105,14 +105,14 @@ nudistは「裸でいること自体」を指しやすく、naturistは「自然
 
 ## 🧩 あわせて覚えたい
 
-- [clothing optional](/clothing_optional)：衣服の着用が任意であること
-- [beach](/beach)：海辺、ビーチ
+- [clothing optional](/word/clothing_optional)：衣服の着用が任意であること
+- [beach](/word/beach)：海辺、ビーチ
 
 ---
 
 ## 📖 できればこれも
 
-- [resort](/resort)：リゾート、行楽地
-- [swimsuit](/swimsuit)：水着
+- [resort](/word/resort)：リゾート、行楽地
+- [swimsuit](/word/swimsuit)：水着
 
 <!-- cvid: aid27_bid31 -->

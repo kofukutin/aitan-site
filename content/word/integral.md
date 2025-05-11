@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やレポート、説明文などで「不可欠
 ## 🤔  essential との違いは？
 
 - **integral**：全体を構成するのに欠かせない、組み込まれている不可欠な
-- **[essential](/essential)**：絶対に必要な、生命線となるような
+- **[essential](/word/essential)**：絶対に必要な、生命線となるような
 
 integralは「全体の一部として不可欠」という構造的なニュアンスが強く、essentialは「絶対に必要」という重要性を強調します。
 
@@ -105,14 +105,14 @@ integralは「全体の一部として不可欠」という構造的なニュア
 
 ## 🧩 あわせて覚えたい
 
-- [indispensable](/indispensable)：絶対に欠かせない
-- [component](/component)：構成要素、部品
+- [indispensable](/word/indispensable)：絶対に欠かせない
+- [component](/word/component)：構成要素、部品
 
 ---
 
 ## 📖 できればこれも
 
-- [fundamental](/fundamental)：基本的な、根本的な
-- [crucial](/crucial)：極めて重要な
+- [fundamental](/word/fundamental)：基本的な、根本的な
+- [crucial](/word/crucial)：極めて重要な
 
 <!-- cvid: aid41_bid33 -->

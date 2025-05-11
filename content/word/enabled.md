@@ -97,7 +97,7 @@ IT関連やビジネス文書の説明文で、機能やサービスの状態を
 ## 🤔  allowed との違いは？
 
 - **enabled**：機能やサービスが「有効化されている」「使える状態になっている」
-- **[allowed](/allowed)**：行為やアクセスが「許可されている」
+- **[allowed](/word/allowed)**：行為やアクセスが「許可されている」
 
 enabledは設定や機能の状態、allowedは人や行為の許可に使う点が異なります。
 
@@ -105,14 +105,14 @@ enabledは設定や機能の状態、allowedは人や行為の許可に使う点
 
 ## 🧩 あわせて覚えたい
 
-- [disabled](/disabled)：無効になっている
-- [activate](/activate)：有効化する
+- [disabled](/word/disabled)：無効になっている
+- [activate](/word/activate)：有効化する
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/available)：利用可能な
-- [accessible](/accessible)：アクセスできる
+- [available](/word/available)：利用可能な
+- [accessible](/word/accessible)：アクセスできる
 
 <!-- cvid: aid02_bid40 -->

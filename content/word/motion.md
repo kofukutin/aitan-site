@@ -97,7 +97,7 @@ TOEICでは会議やビジネスシーンで「動議」「提案」として出
 ## 🤔  movement との違いは？
 
 - **motion**：動き全般や会議での「動議」を表すフォーマルな語。
-- **[movement](/movement)**：物理的な「動き」や社会的な「運動」を指す。
+- **[movement](/word/movement)**：物理的な「動き」や社会的な「運動」を指す。
 
 motionは抽象的な「動き」や公式な「提案」に使い、movementは実際の動作や大きな流れ・運動に使われます。
 
@@ -105,14 +105,14 @@ motionは抽象的な「動き」や公式な「提案」に使い、movementは
 
 ## 🧩 あわせて覚えたい
 
-- [proposal](/proposal)：提案
-- [gesture](/gesture)：身振り、ジェスチャー
+- [proposal](/word/proposal)：提案
+- [gesture](/word/gesture)：身振り、ジェスチャー
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/process)：過程、手順
-- [action](/action)：行動、実行
+- [process](/word/process)：過程、手順
+- [action](/word/action)：行動、実行
 
 <!-- cvid: aid37_bid24 -->

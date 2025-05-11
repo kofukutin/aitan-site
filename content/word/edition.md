@@ -97,7 +97,7 @@ TOEICでは、書籍や報告書、雑誌などの案内文や広告、メール
 ## 🤔  version との違いは？
 
 - **edition**：出版物や印刷物の「版」「刷」を指し、特定の発行回や改訂を強調します。
-- **[version](/version)**：ソフトウェアや製品、考え方など幅広いものの「バージョン」「型」を指します。
+- **[version](/word/version)**：ソフトウェアや製品、考え方など幅広いものの「バージョン」「型」を指します。
 
 「edition」は主に書籍や雑誌など出版物に使われ、「version」はソフトウェアや商品、アイデアの違いに使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、書籍や報告書、雑誌などの案内文や広告、メール
 
 ## 🧩 あわせて覚えたい
 
-- [issue](/issue)：（雑誌などの）号、発行物
-- [publication](/publication)：出版物、発行
+- [issue](/word/issue)：（雑誌などの）号、発行物
+- [publication](/word/publication)：出版物、発行
 
 ---
 
 ## 📖 できればこれも
 
-- [editor](/editor)：編集者
-- [release](/release)：発売、公開
+- [editor](/word/editor)：編集者
+- [release](/word/release)：発売、公開
 
 <!-- cvid: aid49_bid31 -->

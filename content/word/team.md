@@ -97,7 +97,7 @@ TOEICでは会議やプロジェクトの話題で頻出し、部署やグルー
 ## 🤔  group との違いは？
 
 - **team**：共通の目標に向かって協力する集団
-- **[group](/group)**：目的や関係性を問わず集まった人々
+- **[group](/word/group)**：目的や関係性を問わず集まった人々
 
 teamは「協力・連携」が強調されるのに対し、groupは単なる「集まり」で目的や結束力は問いません。
 
@@ -105,14 +105,14 @@ teamは「協力・連携」が強調されるのに対し、groupは単なる�
 
 ## 🧩 あわせて覚えたい
 
-- [department](/department)：部門、部署
-- [committee](/committee)：委員会
+- [department](/word/department)：部門、部署
+- [committee](/word/committee)：委員会
 
 ---
 
 ## 📖 できればこれも
 
-- [project](/project)：プロジェクト、計画
-- [member](/member)：メンバー、構成員
+- [project](/word/project)：プロジェクト、計画
+- [member](/word/member)：メンバー、構成員
 
 <!-- cvid: aid21_bid07 -->

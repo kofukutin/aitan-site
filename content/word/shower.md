@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で、浴室やジムの設備、天候の
 ## 🤔  bath との違いは？
 
 - **shower**：立ったまま水を浴びて体を洗うことや、その設備
-- **[bath](/bath)**：湯船に浸かる入浴や、その浴槽
+- **[bath](/word/bath)**：湯船に浸かる入浴や、その浴槽
 
 showerは短時間で体を洗うイメージ、bathはリラックスや温まるために湯船に浸かるイメージです。
 
@@ -106,14 +106,14 @@ showerは短時間で体を洗うイメージ、bathはリラックスや温ま�
 
 ## 🧩 あわせて覚えたい
 
-- [rain](/rain)：雨
-- [spray](/spray)：噴霧、スプレー
+- [rain](/word/rain)：雨
+- [spray](/word/spray)：噴霧、スプレー
 
 ---
 
 ## 📖 できればこれも
 
-- [bathroom](/bathroom)：浴室、トイレ
-- [towel](/towel)：タオル
+- [bathroom](/word/bathroom)：浴室、トイレ
+- [towel](/word/towel)：タオル
 
 <!-- cvid: aid09_bid10 -->

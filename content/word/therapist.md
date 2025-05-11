@@ -97,7 +97,7 @@ The company offers sessions with a therapist for employees.
 ## 🤔  counselor との違いは？
 
 - **therapist**：治療やリハビリなど、専門的な治療行為を行う人
-- **[counselor](/counselor)**：主に助言やカウンセリングを行う人
+- **[counselor](/word/counselor)**：主に助言やカウンセリングを行う人
 
 therapistは治療やリハビリの専門家、counselorは相談や助言が中心で、治療行為は行いません。
 
@@ -105,14 +105,14 @@ therapistは治療やリハビリの専門家、counselorは相談や助言が�
 
 ## 🧩 あわせて覚えたい
 
-- [psychologist](/psychologist)：心理学者、心理士
-- [doctor](/doctor)：医師
+- [psychologist](/word/psychologist)：心理学者、心理士
+- [doctor](/word/doctor)：医師
 
 ---
 
 ## 📖 できればこれも
 
-- [therapy](/therapy)：治療、療法
-- [patient](/patient)：患者
+- [therapy](/word/therapy)：治療、療法
+- [patient](/word/patient)：患者
 
 <!-- cvid: aid37_bid01 -->

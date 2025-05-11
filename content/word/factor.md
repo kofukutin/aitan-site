@@ -97,7 +97,7 @@ TOEICでは、ビジネスや経済に関する文脈で「要因」「要素」
 ## 🤔  element との違いは？
 
 - **factor**：結果や状況に影響を与える「要因」「原因」として使う
-- **[element](/element)**：全体を構成する「要素」「成分」として使う
+- **[element](/word/element)**：全体を構成する「要素」「成分」として使う
 
 factorは「結果に影響するもの」、elementは「構成する一部」というニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ factorは「結果に影響するもの」、elementは「構成する一部」�
 
 ## 🧩 あわせて覚えたい
 
-- [reason](/reason)：理由、原因
-- [component](/component)：部品、構成要素
+- [reason](/word/reason)：理由、原因
+- [component](/word/component)：部品、構成要素
 
 ---
 
 ## 📖 できればこれも
 
-- [cause](/cause)：原因
-- [aspect](/aspect)：側面、観点
+- [cause](/word/cause)：原因
+- [aspect](/word/aspect)：側面、観点
 
 <!-- cvid: aid30_bid23 -->

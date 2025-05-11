@@ -97,7 +97,7 @@ TOEICでは「waste disposal（廃棄物処理）」や「at your disposal（自
 ## 🤔  removal との違いは？
 
 - **disposal**：不要なものや有害なものを「処分」「廃棄」すること
-- **[removal](/removal)**：何かを「取り除く」「移動させる」こと
+- **[removal](/word/removal)**：何かを「取り除く」「移動させる」こと
 
 disposalは「最終的に捨てる・処分する」ニュアンスが強く、removalは単に「取り除く」や「移動する」場合にも使われます。
 
@@ -105,14 +105,14 @@ disposalは「最終的に捨てる・処分する」ニュアンスが強く、
 
 ## 🧩 あわせて覚えたい
 
-- [elimination](/elimination)：排除、除去
-- [retention](/retention)：保持、維持
+- [elimination](/word/elimination)：排除、除去
+- [retention](/word/retention)：保持、維持
 
 ---
 
 ## 📖 できればこれも
 
-- [asset](/asset)：資産
-- [distribution](/distribution)：分配、配布
+- [asset](/word/asset)：資産
+- [distribution](/word/distribution)：分配、配布
 
 <!-- cvid: aid32_bid29 -->

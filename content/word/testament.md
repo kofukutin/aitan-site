@@ -97,7 +97,7 @@ testamentはTOEICの長文読解パートで、契約や遺言、証拠に関す
 ## 🤔  will との違いは？
 
 - **testament**：証拠や証し、または法的な「遺言書」を指すフォーマルな語。
-- **[will](/will)**：日常的な「意志」や「遺言書」を指すが、testamentよりカジュアル。
+- **[will](/word/will)**：日常的な「意志」や「遺言書」を指すが、testamentよりカジュアル。
 
 testamentは特に法的な文書や証拠としての意味が強く、willは日常会話や一般的な遺言書に使われます。
 
@@ -105,14 +105,14 @@ testamentは特に法的な文書や証拠としての意味が強く、willは�
 
 ## 🧩 あわせて覚えたい
 
-- [evidence](/evidence)：証拠
-- [legacy](/legacy)：遺産、受け継がれたもの
+- [evidence](/word/evidence)：証拠
+- [legacy](/word/legacy)：遺産、受け継がれたもの
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/contract)：契約
-- [document](/document)：書類
+- [contract](/word/contract)：契約
+- [document](/word/document)：書類
 
 <!-- cvid: aid22_bid13 -->

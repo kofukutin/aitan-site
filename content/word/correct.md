@@ -97,7 +97,7 @@ TOEICでは、文法や語彙の正誤を問う問題で頻出です。正しい
 ## 🤔  accurate との違いは？
 
 - **correct**：間違いがなく、基準や事実に合っていることを強調
-- **[accurate](/accurate)**：細部まで正確で、誤差がないことを強調
+- **[accurate](/word/accurate)**：細部まで正確で、誤差がないことを強調
 
 correctは「正しい・誤りがない」こと、accurateは「細部まで正確で精度が高い」ことに重点があります。
 
@@ -105,14 +105,14 @@ correctは「正しい・誤りがない」こと、accurateは「細部まで�
 
 ## 🧩 あわせて覚えたい
 
-- [incorrect](/incorrect)：間違っている
-- [exact](/exact)：ぴったり正確な
+- [incorrect](/word/incorrect)：間違っている
+- [exact](/word/exact)：ぴったり正確な
 
 ---
 
 ## 📖 できればこれも
 
-- [proper](/proper)：適切な
-- [precise](/precise)：厳密な、精密な
+- [proper](/word/proper)：適切な
+- [precise](/word/precise)：厳密な、精密な
 
 <!-- cvid: aid26_bid40 -->

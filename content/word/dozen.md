@@ -97,7 +97,7 @@ TOEICでは、数量や単位を問う文脈で「a dozen」「dozens of」の�
 ## 🤔  score との違いは？
 
 - **dozen**：12個・12人のまとまりを表す単位
-- **[score](/score)**：20個・20人のまとまりを表す単位
+- **[score](/word/score)**：20個・20人のまとまりを表す単位
 
 dozenは「12」、scoreは「20」と、まとまる数が異なります。日常的にはdozenの方がよく使われます。
 
@@ -105,14 +105,14 @@ dozenは「12」、scoreは「20」と、まとまる数が異なります。日
 
 ## 🧩 あわせて覚えたい
 
-- [pair](/pair)：ペア、2つ1組
-- [bunch](/bunch)：束、房、まとまり
+- [pair](/word/pair)：ペア、2つ1組
+- [bunch](/word/bunch)：束、房、まとまり
 
 ---
 
 ## 📖 できればこれも
 
-- [several](/several)：いくつかの
-- [couple](/couple)：2つ、2人、カップル
+- [several](/word/several)：いくつかの
+- [couple](/word/couple)：2つ、2人、カップル
 
 <!-- cvid: aid03_bid38 -->

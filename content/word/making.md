@@ -97,7 +97,7 @@ TOEICでは「decision making（意思決定）」や「in the process of making
 ## 🤔  production との違いは？
 
 - **making**：作る「行為」や「過程」に焦点を当てる
-- **[production](/production)**：大量生産や工業的な「生産」に焦点を当てる
+- **[production](/word/production)**：大量生産や工業的な「生産」に焦点を当てる
 
 「making」は個人や小規模な作成にも使えますが、「production」は工場やビジネスの大規模な生産に使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは「decision making（意思決定）」や「in the process of making
 
 ## 🧩 あわせて覚えたい
 
-- [creation](/creation)：創造、創作
-- [manufacture](/manufacture)：製造（特に機械による大量生産）
+- [creation](/word/creation)：創造、創作
+- [manufacture](/word/manufacture)：製造（特に機械による大量生産）
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/process)：過程、プロセス
-- [development](/development)：開発、発展
+- [process](/word/process)：過程、プロセス
+- [development](/word/development)：開発、発展
 
 <!-- cvid: aid21_bid27 -->

@@ -97,7 +97,7 @@ TOEICでは、観光やショッピング、展示会などの長文で「antiqu
 ## 🤔  vintage との違いは？
 
 - **antique**：100年以上前の価値ある骨董品や美術品を指す。
-- **[vintage](/vintage)**：特定の年代の高品質な品やワイン、またはレトロな雰囲気のものを指す。
+- **[vintage](/word/vintage)**：特定の年代の高品質な品やワイン、またはレトロな雰囲気のものを指す。
 
 antiqueは「非常に古く価値があるもの」、vintageは「年代物で味わいがあるもの」と使い分けます。
 
@@ -105,14 +105,14 @@ antiqueは「非常に古く価値があるもの」、vintageは「年代物で
 
 ## 🧩 あわせて覚えたい
 
-- [modern](/modern)：現代的な、現代の
-- [collectible](/collectible)：収集価値のあるもの
+- [modern](/word/modern)：現代的な、現代の
+- [collectible](/word/collectible)：収集価値のあるもの
 
 ---
 
 ## 📖 できればこれも
 
-- [artifact](/artifact)：人工遺物、工芸品
-- [heritage](/heritage)：遺産、伝統
+- [artifact](/word/artifact)：人工遺物、工芸品
+- [heritage](/word/heritage)：遺産、伝統
 
 <!-- cvid: aid32_bid07 -->

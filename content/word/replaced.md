@@ -97,7 +97,7 @@ TOEICでは「be replaced by/with」など受動態でよく出題され、文�
 ## 🤔  substitute との違いは？
 
 - **replaced**：元のものを新しいものに入れ替えることを強調
-- **[substitute](/substitute)**：代用品を使う、または一時的に代理を立てるニュアンス
+- **[substitute](/word/substitute)**：代用品を使う、または一時的に代理を立てるニュアンス
 
 「replaced」は完全に入れ替わる場合に使い、「substitute」は一時的・部分的な代用や代理の意味合いが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは「be replaced by/with」など受動態でよく出題され、文�
 
 ## 🧩 あわせて覚えたい
 
-- [remove](/remove)：取り除く
-- [restore](/restore)：元に戻す
+- [remove](/word/remove)：取り除く
+- [restore](/word/restore)：元に戻す
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/update)：更新する
-- [install](/install)：設置する
+- [update](/word/update)：更新する
+- [install](/word/install)：設置する
 
 <!-- cvid: aid09_bid31 -->

@@ -97,7 +97,7 @@ TOEICでは、雇用や労働に関する記事や案内文で「unemployed」�
 ## 🤔  jobless との違いは？
 
 - **unemployed**：公式・統計的な場面で使われる「失業中の」
-- **[jobless](/jobless)**：ややカジュアルで、単に「仕事がない」状態
+- **[jobless](/word/jobless)**：ややカジュアルで、単に「仕事がない」状態
 
 「unemployed」は公的な書類やニュースなどで使われることが多く、「jobless」は日常会話やくだけた表現で使われやすいです。
 
@@ -105,14 +105,14 @@ TOEICでは、雇用や労働に関する記事や案内文で「unemployed」�
 
 ## 🧩 あわせて覚えたい
 
-- [employed](/employed)：雇用されている
-- [unemployment](/unemployment)：失業（名詞）
+- [employed](/word/employed)：雇用されている
+- [unemployment](/word/unemployment)：失業（名詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [retired](/retired)：退職した、引退した
-- [hire](/hire)：雇う
+- [retired](/word/retired)：退職した、引退した
+- [hire](/word/hire)：雇う
 
 <!-- cvid: aid08_bid10 -->

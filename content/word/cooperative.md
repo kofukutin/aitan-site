@@ -97,7 +97,7 @@ TOEICでは、チームワークや協力を問う文脈で形容詞として出
 ## 🤔  collaborative との違いは？
 
 - **cooperative**：協力的な態度や姿勢を表し、他人と助け合う意志が強調される
-- **[collaborative](/collaborative)**：共同作業や共同制作など、複数人で一緒に何かを作り上げるニュアンスが強い
+- **[collaborative](/word/collaborative)**：共同作業や共同制作など、複数人で一緒に何かを作り上げるニュアンスが強い
 
 cooperativeは「協力的な態度」、collaborativeは「共同作業そのもの」に焦点がある点が異なります。
 
@@ -105,14 +105,14 @@ cooperativeは「協力的な態度」、collaborativeは「共同作業その�
 
 ## 🧩 あわせて覚えたい
 
-- [independent](/independent)：独立した、自立した
-- [supportive](/supportive)：支援的な、助けになる
+- [independent](/word/independent)：独立した、自立した
+- [supportive](/word/supportive)：支援的な、助けになる
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/efficient)：効率的な
-- [productive](/productive)：生産的な
+- [efficient](/word/efficient)：効率的な
+- [productive](/word/productive)：生産的な
 
 <!-- cvid: aid22_bid40 -->

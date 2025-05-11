@@ -97,7 +97,7 @@ leisureはTOEICの長文読解（Part 7）で、余暇活動や福利厚生、�
 ## 🤔  vacation との違いは？
 
 - **leisure**：日常の中で自由に使える「余暇」や「ひま」を指す
-- **[vacation](/vacation)**：まとまった休暇や旅行など、仕事や学校を離れて過ごす「休暇」を指す
+- **[vacation](/word/vacation)**：まとまった休暇や旅行など、仕事や学校を離れて過ごす「休暇」を指す
 
 leisureは日常的な自由時間、vacationは特別な休みや旅行に使われます。
 
@@ -105,14 +105,14 @@ leisureは日常的な自由時間、vacationは特別な休みや旅行に使�
 
 ## 🧩 あわせて覚えたい
 
-- [recreation](/recreation)：気晴らし、娯楽
-- [work](/work)：仕事、労働
+- [recreation](/word/recreation)：気晴らし、娯楽
+- [work](/word/work)：仕事、労働
 
 ---
 
 ## 📖 できればこれも
 
-- [hobby](/hobby)：趣味
-- [activity](/activity)：活動
+- [hobby](/word/hobby)：趣味
+- [activity](/word/activity)：活動
 
 <!-- cvid: aid28_bid41 -->

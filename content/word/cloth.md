@@ -97,7 +97,7 @@ TOEICでは、clothは主に製品説明や素材に関する文脈で出題さ�
 ## 🤔  fabric との違いは？
 
 - **cloth**：衣服や日用品に使う「布」や「生地」を指す、やや具体的な表現
-- **[fabric](/fabric)**：織物・編み物などの「生地」全般を指し、工業的・素材的なニュアンスが強い
+- **[fabric](/word/fabric)**：織物・編み物などの「生地」全般を指し、工業的・素材的なニュアンスが強い
 
 clothは日常的な「布」や「ふきん」など具体的な用途に使われ、fabricは素材や構造に注目した専門的な場面で使われます。
 
@@ -105,14 +105,14 @@ clothは日常的な「布」や「ふきん」など具体的な用途に使わ
 
 ## 🧩 あわせて覚えたい
 
-- [material](/material)：材料、素材
-- [garment](/garment)：衣服
+- [material](/word/material)：材料、素材
+- [garment](/word/garment)：衣服
 
 ---
 
 ## 📖 できればこれも
 
-- [thread](/thread)：糸
-- [towel](/towel)：タオル
+- [thread](/word/thread)：糸
+- [towel](/word/towel)：タオル
 
 <!-- cvid: aid35_bid39 -->

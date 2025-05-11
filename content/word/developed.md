@@ -97,7 +97,7 @@ TOEICでは、国や地域、技術、ビジネス戦略などが「発展して
 ## 🤔  advanced との違いは？
 
 - **developed**：十分に発展し、成熟した状態を表す
-- **[advanced](/advanced)**：高度で進んだ、最先端の状態を表す
+- **[advanced](/word/advanced)**：高度で進んだ、最先端の状態を表す
 
 developedは「成長しきった」「成熟した」ニュアンス、advancedは「技術やレベルが非常に高い」「最先端」という違いがあります。
 
@@ -105,14 +105,14 @@ developedは「成長しきった」「成熟した」ニュアンス、advanced
 
 ## 🧩 あわせて覚えたい
 
-- [undeveloped](/undeveloped)：未発展の、開発されていない
-- [mature](/mature)：成熟した、十分に成長した
+- [undeveloped](/word/undeveloped)：未発展の、開発されていない
+- [mature](/word/mature)：成熟した、十分に成長した
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/efficient)：効率的な
-- [expand](/expand)：拡大する、広げる
+- [efficient](/word/efficient)：効率的な
+- [expand](/word/expand)：拡大する、広げる
 
 <!-- cvid: aid04_bid16 -->

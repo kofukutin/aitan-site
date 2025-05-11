@@ -97,7 +97,7 @@ TOEICでは会議やビジネスのやりとりで「意見」や「コメント
 ## 🤔  remark との違いは？
 
 - **comment**：一般的な意見や感想、批評を幅広く指す。
-- **[remark](/remark)**：その場で気づいたことや短い発言、所感を表す。
+- **[remark](/word/remark)**：その場で気づいたことや短い発言、所感を表す。
 
 commentは内容や長さを問わず幅広い意見に使えますが、remarkは一言や短い発言、気づきなどに使われることが多いです。
 
@@ -105,14 +105,14 @@ commentは内容や長さを問わず幅広い意見に使えますが、remark�
 
 ## 🧩 あわせて覚えたい
 
-- [feedback](/feedback)：フィードバック、評価
-- [opinion](/opinion)：意見、考え
+- [feedback](/word/feedback)：フィードバック、評価
+- [opinion](/word/opinion)：意見、考え
 
 ---
 
 ## 📖 できればこれも
 
-- [suggestion](/suggestion)：提案、助言
-- [statement](/statement)：声明、発言
+- [suggestion](/word/suggestion)：提案、助言
+- [statement](/word/statement)：声明、発言
 
 <!-- cvid: aid05_bid01 -->

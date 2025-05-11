@@ -96,7 +96,7 @@ TOEICでは、オフィスやビジネスシーンの語彙として文房具の
 ## 🤔  office supply との違いは？
 
 - **stationery**：主に紙や封筒、ペンなど「書くための文房具」を指す
-- **[office supply](/office_supply)**：文房具に加え、コピー機やファイルなどオフィスで使う備品全般を指す
+- **[office supply](/word/office_supply)**：文房具に加え、コピー機やファイルなどオフィスで使う備品全般を指す
 
 stationeryは「書く・手紙を書く」ための道具に限定されるのに対し、office supplyはオフィスで使うあらゆる備品を広く含みます。
 
@@ -104,14 +104,14 @@ stationeryは「書く・手紙を書く」ための道具に限定されるの�
 
 ## 🧩 あわせて覚えたい
 
-- [equipment](/equipment)：機器、装置
-- [material](/material)：材料、資材
+- [equipment](/word/equipment)：機器、装置
+- [material](/word/material)：材料、資材
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/document)：書類、文書
-- [envelope](/envelope)：封筒
+- [document](/word/document)：書類、文書
+- [envelope](/word/envelope)：封筒
 
 <!-- cvid: aid41_bid30 -->

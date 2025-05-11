@@ -97,7 +97,7 @@ TOEICでは、記事やメール文中で「謎めいた状況」や「詳細が
 ## 🤔  secret との違いは？
 
 - **mysterious**：理由や正体がわからず、謎めいた様子を表す
-- **[secret](/secret)**：他人に知られていない、隠されたことを表す
+- **[secret](/word/secret)**：他人に知られていない、隠されたことを表す
 
 「mysterious」は説明がつかない不思議さ、「secret」は意図的に隠されていることに使います。
 
@@ -105,14 +105,14 @@ TOEICでは、記事やメール文中で「謎めいた状況」や「詳細が
 
 ## 🧩 あわせて覚えたい
 
-- [uncertain](/uncertain)：不確かな、はっきりしない
-- [strange](/strange)：奇妙な、変な
+- [uncertain](/word/uncertain)：不確かな、はっきりしない
+- [strange](/word/strange)：奇妙な、変な
 
 ---
 
 ## 📖 できればこれも
 
-- [curious](/curious)：好奇心の強い、不思議な
-- [unknown](/unknown)：未知の、知られていない
+- [curious](/word/curious)：好奇心の強い、不思議な
+- [unknown](/word/unknown)：未知の、知られていない
 
 <!-- cvid: aid02_bid02 -->

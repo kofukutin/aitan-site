@@ -97,7 +97,7 @@ TOEICではPart 5を中心に、「指示」「説明書」「手順」などの
 ## 🤔  direction との違いは？
 
 - **instruction**：具体的な手順や方法、やり方を詳しく伝える指示
-- **[direction](/direction)**：進むべき方向や方針、または道順などを示す指示
+- **[direction](/word/direction)**：進むべき方向や方針、または道順などを示す指示
 
 instructionは「やり方」や「操作方法」など細かい内容を伝える時に使い、directionは「進む方向」や「全体の方針」を示す時に使います。
 
@@ -105,14 +105,14 @@ instructionは「やり方」や「操作方法」など細かい内容を伝え
 
 ## 🧩 あわせて覚えたい
 
-- [guideline](/guideline)：指針、ガイドライン
-- [order](/order)：命令、注文
+- [guideline](/word/guideline)：指針、ガイドライン
+- [order](/word/order)：命令、注文
 
 ---
 
 ## 📖 できればこれも
 
-- [manual](/manual)：マニュアル、取扱説明書
-- [procedure](/procedure)：手順、手続き
+- [manual](/word/manual)：マニュアル、取扱説明書
+- [procedure](/word/procedure)：手順、手続き
 
 <!-- cvid: aid13_bid30 -->

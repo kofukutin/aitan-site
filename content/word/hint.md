@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「ヒントを与える」「ほのめかす」
 ## 🤔  clue との違いは？
 
 - **hint**：やんわりとしたヒントやほのめかし、直接的でない手がかり
-- **[clue](/clue)**：決定的な手がかりや証拠、問題解決の糸口
+- **[clue](/word/clue)**：決定的な手がかりや証拠、問題解決の糸口
 
 hintは「ちょっとした助け」や「遠回しな示唆」、clueは「謎を解くための重要な情報」として使い分けます。
 
@@ -105,14 +105,14 @@ hintは「ちょっとした助け」や「遠回しな示唆」、clueは「謎
 
 ## 🧩 あわせて覚えたい
 
-- [suggestion](/suggestion)：提案、示唆
-- [tip](/tip)：コツ、アドバイス
+- [suggestion](/word/suggestion)：提案、示唆
+- [tip](/word/tip)：コツ、アドバイス
 
 ---
 
 ## 📖 できればこれも
 
-- [advice](/advice)：助言
-- [sign](/sign)：兆し、しるし
+- [advice](/word/advice)：助言
+- [sign](/word/sign)：兆し、しるし
 
 <!-- cvid: aid16_bid35 -->

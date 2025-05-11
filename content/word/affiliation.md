@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やメール、申込書などで「所属」や
 ## 🤔  association との違いは？
 
 - **affiliation**：組織や団体への「所属」や「提携」という公式な関係を強調する語。
-- **[association](/association)**：団体そのものや「協会」、または人や物の「連想・関係」も広く表す語。
+- **[association](/word/association)**：団体そのものや「協会」、または人や物の「連想・関係」も広く表す語。
 
 affiliationは「どこに属しているか」という立場やつながりを示すのに使い、associationは団体名や「関係性」全般を幅広く指します。
 
@@ -105,14 +105,14 @@ affiliationは「どこに属しているか」という立場やつながりを
 
 ## 🧩 あわせて覚えたい
 
-- [membership](/membership)：会員資格、会員であること
-- [partnership](/partnership)：提携、協力関係
+- [membership](/word/membership)：会員資格、会員であること
+- [partnership](/word/partnership)：提携、協力関係
 
 ---
 
 ## 📖 できればこれも
 
-- [authorization](/authorization)：許可、認可
-- [collaboration](/collaboration)：協力、共同作業
+- [authorization](/word/authorization)：許可、認可
+- [collaboration](/word/collaboration)：協力、共同作業
 
 <!-- cvid: aid47_bid15 -->

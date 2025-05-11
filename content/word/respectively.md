@@ -93,7 +93,7 @@ TOEICの長文読解パートで、データや複数の項目を順に説明す
 ## 🤔  individually との違いは？
 
 - **respectively**：前に述べた複数のものに「順番に対応して」それぞれ当てはまることを表す
-- **[individually](/individually)**：一つ一つ「個別に」「単独で」という意味
+- **[individually](/word/individually)**：一つ一つ「個別に」「単独で」という意味
 
 respectivelyは「順番に対応する」ことを強調し、individuallyは「一つずつ分けて」扱うニュアンスです。
 
@@ -101,14 +101,14 @@ respectivelyは「順番に対応する」ことを強調し、individuallyは�
 
 ## 🧩 あわせて覚えたい
 
-- [separately](/separately)：別々に、分けて
-- [collectively](/collectively)：まとめて、集団で
+- [separately](/word/separately)：別々に、分けて
+- [collectively](/word/collectively)：まとめて、集団で
 
 ---
 
 ## 📖 できればこれも
 
-- [simultaneously](/simultaneously)：同時に
-- [alternately](/alternately)：交互に
+- [simultaneously](/word/simultaneously)：同時に
+- [alternately](/word/alternately)：交互に
 
 <!-- cvid: aid35_bid26 -->

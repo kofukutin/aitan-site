@@ -97,7 +97,7 @@ TOEICでは、空港や国際ビジネス、法務関連の長文や案内文で
 ## 🤔  emigration との違いは？
 
 - **immigration**：他国から自国へ「入ってくる」移民や入国管理
-- **[emigration](/emigration)**：自国から他国へ「出ていく」移民
+- **[emigration](/word/emigration)**：自国から他国へ「出ていく」移民
 
 immigrationは「入国」、emigrationは「出国」と方向が逆なので、使い分けに注意しましょう。
 
@@ -105,14 +105,14 @@ immigrationは「入国」、emigrationは「出国」と方向が逆なので�
 
 ## 🧩 あわせて覚えたい
 
-- [visa](/visa)：ビザ、査証
-- [citizenship](/citizenship)：市民権、国籍
+- [visa](/word/visa)：ビザ、査証
+- [citizenship](/word/citizenship)：市民権、国籍
 
 ---
 
 ## 📖 できればこれも
 
-- [customs](/customs)：税関
-- [passport](/passport)：パスポート
+- [customs](/word/customs)：税関
+- [passport](/word/passport)：パスポート
 
 <!-- cvid: aid31_bid05 -->

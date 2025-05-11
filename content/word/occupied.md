@@ -97,7 +97,7 @@ TOEICでは会議室や席の「使用中」や、人が「忙しい」状態を
 ## 🤔  busy との違いは？
 
 - **occupied**：場所や人が「ふさがっている」「使用中」の状態を表す。
-- **[busy](/busy)**：人やスケジュールが「忙しい」状態を表す。
+- **[busy](/word/busy)**：人やスケジュールが「忙しい」状態を表す。
 
 occupiedは「場所・物・人が何かで埋まっている」こと、busyは「人や予定が多忙である」ことに使い分けます。
 
@@ -105,14 +105,14 @@ occupiedは「場所・物・人が何かで埋まっている」こと、busy�
 
 ## 🧩 あわせて覚えたい
 
-- [vacant](/vacant)：空いている、使用されていない
-- [engaged](/engaged)：（電話・席などが）使用中の
+- [vacant](/word/vacant)：空いている、使用されていない
+- [engaged](/word/engaged)：（電話・席などが）使用中の
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/available)：利用できる、手が空いている
-- [absent](/absent)：不在の、欠席の
+- [available](/word/available)：利用できる、手が空いている
+- [absent](/word/absent)：不在の、欠席の
 
 <!-- cvid: aid07_bid35 -->

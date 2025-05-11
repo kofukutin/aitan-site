@@ -97,7 +97,7 @@ TOEICでは、refinedはビジネス文書や説明文で「洗練された」�
 ## 🤔  sophisticated との違いは？
 
 - **refined**：上品さや純度の高さ、細部まで磨かれていることを強調
-- **[sophisticated](/sophisticated)**：高度な知識や技術、複雑さ、現代的な洗練を強調
+- **[sophisticated](/word/sophisticated)**：高度な知識や技術、複雑さ、現代的な洗練を強調
 
 refinedは「上品で無駄がない」印象、sophisticatedは「複雑で高度な」印象を与えます。
 
@@ -105,14 +105,14 @@ refinedは「上品で無駄がない」印象、sophisticatedは「複雑で高
 
 ## 🧩 あわせて覚えたい
 
-- [crude](/crude)：粗野な、未加工の
-- [elegant](/elegant)：優雅な、上品な
+- [crude](/word/crude)：粗野な、未加工の
+- [elegant](/word/elegant)：優雅な、上品な
 
 ---
 
 ## 📖 できればこれも
 
-- [precise](/precise)：正確な
-- [polished](/polished)：磨かれた、洗練された
+- [precise](/word/precise)：正確な
+- [polished](/word/polished)：磨かれた、洗練された
 
 <!-- cvid: aid24_bid41 -->

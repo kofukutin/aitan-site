@@ -97,7 +97,7 @@ TOEICでは、ニュース記事や会社の発表文などで「公表された
 ## 🤔  launched との違いは？
 
 - **released**：公表・発売・解放など「世に出す」全般に使える
-- **[launched](/launched)**：新商品やサービスの「開始」「立ち上げ」に特化
+- **[launched](/word/launched)**：新商品やサービスの「開始」「立ち上げ」に特化
 
 releasedは幅広く「公開・発表」全般に使えますが、launchedは特に新しいものを「始める」「立ち上げる」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ releasedは幅広く「公開・発表」全般に使えますが、launchedは�
 
 ## 🧩 あわせて覚えたい
 
-- [publish](/publish)：出版する、公表する
-- [disclose](/disclose)：開示する、明らかにする
+- [publish](/word/publish)：出版する、公表する
+- [disclose](/word/disclose)：開示する、明らかにする
 
 ---
 
 ## 📖 できればこれも
 
-- [announce](/announce)：発表する
-- [update](/update)：更新する
+- [announce](/word/announce)：発表する
+- [update](/word/update)：更新する
 
 <!-- cvid: aid09_bid20 -->

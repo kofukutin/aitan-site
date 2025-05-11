@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や会議の文脈で「評価する」とい
 ## 🤔  assess との違いは？
 
 - **evaluate**：価値や効果を総合的に評価する
-- **[assess](/assess)**：金額や損害、状況などを査定・評価する
+- **[assess](/word/assess)**：金額や損害、状況などを査定・評価する
 
 evaluateは全体的な価値や効果を判断する時に使い、assessは金額や損害など具体的な数値や状況を査定する時に使います。
 
@@ -105,14 +105,14 @@ evaluateは全体的な価値や効果を判断する時に使い、assessは金
 
 ## 🧩 あわせて覚えたい
 
-- [estimate](/estimate)：見積もる、概算する
-- [judge](/judge)：判断する、裁く
+- [estimate](/word/estimate)：見積もる、概算する
+- [judge](/word/judge)：判断する、裁く
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/analyze)：分析する
-- [review](/review)：見直す、再検討する
+- [analyze](/word/analyze)：分析する
+- [review](/word/review)：見直す、再検討する
 
 <!-- cvid: aid39_bid24 -->

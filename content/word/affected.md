@@ -97,7 +97,7 @@ TOEICでは「be affected by ～」の形で、受動態や原因を表す表現
 ## 🤔  influenced との違いは？
 
 - **affected**：外部からの影響で変化した状態や、わざとらしさを表す
-- **[influenced](/influenced)**：主に考え方や行動が他者や出来事によって左右されたことを強調
+- **[influenced](/word/influenced)**：主に考え方や行動が他者や出来事によって左右されたことを強調
 
 affectedは「結果として変化した状態」に焦点があり、influencedは「影響を受けて考えや行動が変わった過程」に重点があります。
 
@@ -105,14 +105,14 @@ affectedは「結果として変化した状態」に焦点があり、influence
 
 ## 🧩 あわせて覚えたい
 
-- [unaffected](/unaffected)：影響を受けていない
-- [impacted](/impacted)：（強い）影響を受けた
+- [unaffected](/word/unaffected)：影響を受けていない
+- [impacted](/word/impacted)：（強い）影響を受けた
 
 ---
 
 ## 📖 できればこれも
 
-- [effective](/effective)：効果的な
-- [influential](/influential)：影響力のある
+- [effective](/word/effective)：効果的な
+- [influential](/word/influential)：影響力のある
 
 <!-- cvid: aid47_bid23 -->

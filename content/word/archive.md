@@ -97,7 +97,7 @@ TOEICではITやビジネス文書の保存、管理に関する説明文やメ�
 ## 🤔  storage との違いは？
 
 - **archive**：長期間保存するための記録や保管所、特に重要なものに使う
-- **[storage](/storage)**：一般的な「保管・保存」全般、特に重要性は問わない
+- **[storage](/word/storage)**：一般的な「保管・保存」全般、特に重要性は問わない
 
 archiveは歴史的・公式な記録やデータの長期保存に使われ、storageは日常的な物やデータの一時的・広範な保管に使われます。
 
@@ -105,14 +105,14 @@ archiveは歴史的・公式な記録やデータの長期保存に使われ、s
 
 ## 🧩 あわせて覚えたい
 
-- [record](/record)：記録、記載
-- [repository](/repository)：保管場所、貯蔵庫
+- [record](/word/record)：記録、記載
+- [repository](/word/repository)：保管場所、貯蔵庫
 
 ---
 
 ## 📖 できればこれも
 
-- [backup](/backup)：バックアップ、予備のデータ
-- [document](/document)：文書、書類
+- [backup](/word/backup)：バックアップ、予備のデータ
+- [document](/word/document)：文書、書類
 
 <!-- cvid: aid19_bid43 -->

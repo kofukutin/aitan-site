@@ -97,7 +97,7 @@ TOEICではPart 7の長文読解で、情報の関連性や適切さを問う文
 ## 🤔  appropriate との違いは？
 
 - **relevant**：今の話題や状況に直接関係がある
-- **[appropriate](/appropriate)**：状況や目的に「ふさわしい」「適切な」
+- **[appropriate](/word/appropriate)**：状況や目的に「ふさわしい」「適切な」
 
 relevantは「関係性の有無」に焦点があり、appropriateは「合っているかどうか（適切さ）」に重点があります。
 
@@ -105,14 +105,14 @@ relevantは「関係性の有無」に焦点があり、appropriateは「合っ�
 
 ## 🧩 あわせて覚えたい
 
-- [irrelevant](/irrelevant)：無関係な
-- [pertinent](/pertinent)：適切な、関連する
+- [irrelevant](/word/irrelevant)：無関係な
+- [pertinent](/word/pertinent)：適切な、関連する
 
 ---
 
 ## 📖 できればこれも
 
-- [essential](/essential)：不可欠な、重要な
-- [significant](/significant)：重要な、意味のある
+- [essential](/word/essential)：不可欠な、重要な
+- [significant](/word/significant)：重要な、意味のある
 
 <!-- cvid: aid22_bid13 -->

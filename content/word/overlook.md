@@ -97,7 +97,7 @@ TOEICでは「見落とす」「見逃す」の意味で、文法や語彙問題
 ## 🤔  ignore との違いは？
 
 - **overlook**：うっかり見落とす、気づかずに通り過ぎる
-- **[ignore](/ignore)**：意図的に無視する、気づいていても相手にしない
+- **[ignore](/word/ignore)**：意図的に無視する、気づいていても相手にしない
 
 overlookは「気づかずに見逃す」ニュアンス、ignoreは「わざと無視する」ニュアンスです。
 
@@ -105,14 +105,14 @@ overlookは「気づかずに見逃す」ニュアンス、ignoreは「わざと
 
 ## 🧩 あわせて覚えたい
 
-- [notice](/notice)：気づく、注意する
-- [miss](/miss)：逃す、見逃す
+- [notice](/word/notice)：気づく、注意する
+- [miss](/word/miss)：逃す、見逃す
 
 ---
 
 ## 📖 できればこれも
 
-- [review](/review)：見直す、再検討する
-- [examine](/examine)：調べる、検査する
+- [review](/word/review)：見直す、再検討する
+- [examine](/word/examine)：調べる、検査する
 
 <!-- cvid: aid21_bid26 -->

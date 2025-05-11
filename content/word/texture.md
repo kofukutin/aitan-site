@@ -97,7 +97,7 @@ TOEICでは主に製品説明や広告文、ビジネスメールなどで「質
 ## 🤔  fabric との違いは？
 
 - **texture**：物の表面の手触りや質感、または構成を表す
-- **[fabric](/fabric)**：布地や織物そのもの、または構造を表す
+- **[fabric](/word/fabric)**：布地や織物そのもの、または構造を表す
 
 textureは「触った感じ」や「見た目のきめ」に焦点があり、fabricは「素材そのもの」や「布地」を指します。
 
@@ -105,14 +105,14 @@ textureは「触った感じ」や「見た目のきめ」に焦点があり、f
 
 ## 🧩 あわせて覚えたい
 
-- [surface](/surface)：表面
-- [pattern](/pattern)：模様、パターン
+- [surface](/word/surface)：表面
+- [pattern](/word/pattern)：模様、パターン
 
 ---
 
 ## 📖 できればこれも
 
-- [material](/material)：材料、素材
-- [feature](/feature)：特徴、特性
+- [material](/word/material)：材料、素材
+- [feature](/word/feature)：特徴、特性
 
 <!-- cvid: aid00_bid48 -->

@@ -97,7 +97,7 @@ TOEICでは、efficientlyは主にPart 5の副詞選択問題や、業務の進�
 ## 🤔  effectively との違いは？
 
 - **efficiently**：無駄なく、手際よく、効率的に
-- **[effectively](/effectively)**：効果的に、うまく
+- **[effectively](/word/effectively)**：効果的に、うまく
 
 efficientlyは「資源や時間を無駄なく使う」ことに重点があり、effectivelyは「目的を達成する・効果を上げる」ことに重点があります。
 
@@ -105,14 +105,14 @@ efficientlyは「資源や時間を無駄なく使う」ことに重点があり
 
 ## 🧩 あわせて覚えたい
 
-- [quickly](/quickly)：速く
-- [smoothly](/smoothly)：スムーズに、円滑に
+- [quickly](/word/quickly)：速く
+- [smoothly](/word/smoothly)：スムーズに、円滑に
 
 ---
 
 ## 📖 できればこれも
 
-- [accurately](/accurately)：正確に
-- [properly](/properly)：適切に
+- [accurately](/word/accurately)：正確に
+- [properly](/word/properly)：適切に
 
 <!-- cvid: aid17_bid19 -->

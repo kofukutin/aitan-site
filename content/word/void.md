@@ -99,7 +99,7 @@ TOEICでは契約書や規約などの長文で「無効」「空白」などの
 ## 🤔  blank との違いは？
 
 - **void**：空虚・無効（法律や契約などで効力がない状態や、心の空白など抽象的な「空」を表す）
-- **[blank](/blank)**：空欄・白紙（物理的に何も書かれていないスペースや用紙を指す）
+- **[blank](/word/blank)**：空欄・白紙（物理的に何も書かれていないスペースや用紙を指す）
 
 voidは抽象的・法的な「無効」「空虚」に使い、blankは具体的な「空欄」「白紙」に使います。
 
@@ -107,14 +107,14 @@ voidは抽象的・法的な「無効」「空虚」に使い、blankは具体�
 
 ## 🧩 あわせて覚えたい
 
-- [null](/null)：無効、値がない
-- [invalid](/invalid)：無効な、効力がない
+- [null](/word/null)：無効、値がない
+- [invalid](/word/invalid)：無効な、効力がない
 
 ---
 
 ## 📖 できればこれも
 
-- [clause](/clause)：条項、節
-- [contract](/contract)：契約
+- [clause](/word/clause)：条項、節
+- [contract](/word/contract)：契約
 
 <!-- cvid: aid38_bid37 -->

@@ -98,7 +98,7 @@ TOEICでは、ITやビジネスの場面で「情報を探す」「資料を検�
 ## 🤔  seek との違いは？
 
 - **search**：具体的な場所や情報を探す、調べる
-- **[seek](/seek)**：目的や答えなど抽象的なものを求める
+- **[seek](/word/seek)**：目的や答えなど抽象的なものを求める
 
 searchは物や情報など「目に見えるもの」を探すときに使い、seekは「助け」「機会」など目に見えないものを求めるときに使います。
 
@@ -106,14 +106,14 @@ searchは物や情報など「目に見えるもの」を探すときに使い�
 
 ## 🧩 あわせて覚えたい
 
-- [explore](/explore)：探検する、詳しく調べる
-- [investigate](/investigate)：（事件などを）調査する
+- [explore](/word/explore)：探検する、詳しく調べる
+- [investigate](/word/investigate)：（事件などを）調査する
 
 ---
 
 ## 📖 できればこれも
 
-- [find](/find)：見つける
-- [look for](/look_for)：～を探す
+- [find](/word/find)：見つける
+- [look for](/word/look_for)：～を探す
 
 <!-- cvid: aid42_bid49 -->

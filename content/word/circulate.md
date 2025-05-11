@@ -97,7 +97,7 @@ TOEICでは、会議やオフィスでの「資料を回覧する」「情報を
 ## 🤔  distribute との違いは？
 
 - **circulate**：情報や物を「順番に回す」「循環させる」ニュアンス
-- **[distribute](/distribute)**：物や情報を「分配する」「配布する」ニュアンス
+- **[distribute](/word/distribute)**：物や情報を「分配する」「配布する」ニュアンス
 
 circulateは「回覧」や「循環」のイメージが強く、distributeは「一斉に配る」イメージです。
 
@@ -105,14 +105,14 @@ circulateは「回覧」や「循環」のイメージが強く、distributeは�
 
 ## 🧩 あわせて覚えたい
 
-- [spread](/spread)：広げる、広まる
-- [gather](/gather)：集める
+- [spread](/word/spread)：広げる、広まる
+- [gather](/word/gather)：集める
 
 ---
 
 ## 📖 できればこれも
 
-- [announce](/announce)：発表する
-- [inform](/inform)：知らせる
+- [announce](/word/announce)：発表する
+- [inform](/word/inform)：知らせる
 
 <!-- cvid: aid07_bid28 -->

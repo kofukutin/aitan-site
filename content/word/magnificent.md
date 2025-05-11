@@ -97,7 +97,7 @@ TOEICでは観光案内やイベント紹介、建物の説明などで「magnif
 ## 🤔  splendid との違いは？
 
 - **magnificent**：規模や美しさ、壮大さが際立つものに使う
-- **[splendid](/splendid)**：素晴らしい、見事な（ややカジュアルで幅広く使える）
+- **[splendid](/word/splendid)**：素晴らしい、見事な（ややカジュアルで幅広く使える）
 
 「magnificent」は特に壮大さや圧倒的な美しさを強調したいときに使い、「splendid」は日常的な「素晴らしい」にも使えます。
 
@@ -105,14 +105,14 @@ TOEICでは観光案内やイベント紹介、建物の説明などで「magnif
 
 ## 🧩 あわせて覚えたい
 
-- [majestic](/majestic)：威厳がある、堂々とした
-- [grand](/grand)：壮大な、豪華な
+- [majestic](/word/majestic)：威厳がある、堂々とした
+- [grand](/word/grand)：壮大な、豪華な
 
 ---
 
 ## 📖 できればこれも
 
-- [impressive](/impressive)：印象的な
-- [remarkable](/remarkable)：注目すべき、驚くべき
+- [impressive](/word/impressive)：印象的な
+- [remarkable](/word/remarkable)：注目すべき、驚くべき
 
 <!-- cvid: aid35_bid13 -->

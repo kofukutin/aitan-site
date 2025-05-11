@@ -97,7 +97,7 @@ TOEICでは主に長文読解や広告文、説明文などで「想像力」や
 ## 🤔  creativity との違いは？
 
 - **imagination**：現実にないものを頭の中で思い描く力や行為
-- **[creativity](/creativity)**：新しいものを生み出す創造性や独創性
+- **[creativity](/word/creativity)**：新しいものを生み出す創造性や独創性
 
 imaginationは「思い描く力」、creativityは「実際に新しいものを生み出す力」といった違いがあります。
 
@@ -105,14 +105,14 @@ imaginationは「思い描く力」、creativityは「実際に新しいもの�
 
 ## 🧩 あわせて覚えたい
 
-- [fantasy](/fantasy)：空想、幻想
-- [inspiration](/inspiration)：ひらめき、刺激
+- [fantasy](/word/fantasy)：空想、幻想
+- [inspiration](/word/inspiration)：ひらめき、刺激
 
 ---
 
 ## 📖 できればこれも
 
-- [memory](/memory)：記憶、思い出
-- [invention](/invention)：発明、考案
+- [memory](/word/memory)：記憶、思い出
+- [invention](/word/invention)：発明、考案
 
 <!-- cvid: aid31_bid15 -->

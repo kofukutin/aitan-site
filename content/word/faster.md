@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「より速く」という比較の表現とし
 ## 🤔  quicker との違いは？
 
 - **faster**：スピードが「より速い」ことを表す比較級
-- **[quicker](/quicker)**：時間や反応が「より早い」ことを表す比較級
+- **[quicker](/word/quicker)**：時間や反応が「より早い」ことを表す比較級
 
 fasterは物理的なスピードに重点があり、quickerは時間や反応の早さに使われることが多いです。
 
@@ -105,14 +105,14 @@ fasterは物理的なスピードに重点があり、quickerは時間や反応�
 
 ## 🧩 あわせて覚えたい
 
-- [slowly](/slowly)：ゆっくりと
-- [rapidly](/rapidly)：急速に
+- [slowly](/word/slowly)：ゆっくりと
+- [rapidly](/word/rapidly)：急速に
 
 ---
 
 ## 📖 できればこれも
 
-- [earlier](/earlier)：より早く（時間的に）
-- [harder](/harder)：より一生懸命に
+- [earlier](/word/earlier)：より早く（時間的に）
+- [harder](/word/harder)：より一生懸命に
 
 <!-- cvid: aid47_bid16 -->

@@ -97,7 +97,7 @@ TOEICでは観光や文化紹介、ホテル・寺院の案内文などで登場
 ## 🤔  meditation との違いは？
 
 - **zen**：仏教の一派や、その精神・修行法、または落ち着いた心の状態を指す。
-- **[meditation](/meditation)**：瞑想全般を指し、宗教や方法を問わず幅広く使われる。
+- **[meditation](/word/meditation)**：瞑想全般を指し、宗教や方法を問わず幅広く使われる。
 
 zenは仏教の禅宗やその精神性に特化した言葉で、meditationは一般的な「瞑想」を意味します。
 
@@ -105,14 +105,14 @@ zenは仏教の禅宗やその精神性に特化した言葉で、meditationは�
 
 ## 🧩 あわせて覚えたい
 
-- [buddhism](/buddhism)：仏教
-- [mindfulness](/mindfulness)：マインドフルネス、今この瞬間に意識を向けること
+- [buddhism](/word/buddhism)：仏教
+- [mindfulness](/word/mindfulness)：マインドフルネス、今この瞬間に意識を向けること
 
 ---
 
 ## 📖 できればこれも
 
-- [temple](/temple)：寺院
-- [spiritual](/spiritual)：精神的な、霊的な
+- [temple](/word/temple)：寺院
+- [spiritual](/word/spiritual)：精神的な、霊的な
 
 <!-- cvid: aid31_bid08 -->

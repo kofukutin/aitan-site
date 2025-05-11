@@ -97,7 +97,7 @@ TOEICでは主にPart 7のビジネス記事や業界紹介文で、自動車産
 ## 🤔  automobile との違いは？
 
 - **automotive**：自動車に関する（形容詞）、自動車産業や技術など幅広く使う
-- **[automobile](/automobile)**：自動車そのもの（名詞）、車両を指す
+- **[automobile](/word/automobile)**：自動車そのもの（名詞）、車両を指す
 
 automotiveは「自動車関連の分野や技術」を表し、automobileは「車そのもの」を指します。
 
@@ -105,14 +105,14 @@ automotiveは「自動車関連の分野や技術」を表し、automobileは「
 
 ## 🧩 あわせて覚えたい
 
-- [vehicle](/vehicle)：乗り物、車両
-- [transportation](/transportation)：輸送、交通
+- [vehicle](/word/vehicle)：乗り物、車両
+- [transportation](/word/transportation)：輸送、交通
 
 ---
 
 ## 📖 できればこれも
 
-- [mechanical](/mechanical)：機械の、機械的な
-- [industrial](/industrial)：産業の、工業の
+- [mechanical](/word/mechanical)：機械の、機械的な
+- [industrial](/word/industrial)：産業の、工業の
 
 <!-- cvid: aid23_bid34 -->

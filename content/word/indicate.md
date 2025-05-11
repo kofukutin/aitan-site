@@ -97,7 +97,7 @@ TOEICでは、主に文法や語彙問題で「示す」「指し示す」とい
 ## 🤔  suggest との違いは？
 
 - **indicate**：客観的な事実や証拠をもとに「はっきり示す」
-- **[suggest](/suggest)**：直接的ではなく「ほのめかす」「暗示する」
+- **[suggest](/word/suggest)**：直接的ではなく「ほのめかす」「暗示する」
 
 indicateはデータやサインなど明確な根拠がある場合に使い、suggestはやや曖昧で推測的なニュアンスがあります。
 
@@ -105,14 +105,14 @@ indicateはデータやサインなど明確な根拠がある場合に使い、
 
 ## 🧩 あわせて覚えたい
 
-- [show](/show)：見せる、示す
-- [demonstrate](/demonstrate)：実証する、明らかにする
+- [show](/word/show)：見せる、示す
+- [demonstrate](/word/demonstrate)：実証する、明らかにする
 
 ---
 
 ## 📖 できればこれも
 
-- [imply](/imply)：暗に意味する
-- [point](/point)：指し示す
+- [imply](/word/imply)：暗に意味する
+- [point](/word/point)：指し示す
 
 <!-- cvid: aid28_bid12 -->

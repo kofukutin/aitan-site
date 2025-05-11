@@ -97,7 +97,7 @@ TOEICでは医療や健康、科学系の記事や説明文で見かけること
 ## 🤔  digestion との違いは？
 
 - **metabolism**：体内でのエネルギー変換や物質の合成・分解など、広い意味での「代謝」全般。
-- **[digestion](/digestion)**：食べ物を体内で分解し、吸収できる形にする「消化」プロセス。
+- **[digestion](/word/digestion)**：食べ物を体内で分解し、吸収できる形にする「消化」プロセス。
 
 metabolismは体全体の化学反応を指し、digestionは食べ物の分解に限定されます。
 
@@ -105,14 +105,14 @@ metabolismは体全体の化学反応を指し、digestionは食べ物の分解�
 
 ## 🧩 あわせて覚えたい
 
-- [anabolism](/anabolism)：同化作用（代謝の一部で、物質を合成するプロセス）
-- [catabolism](/catabolism)：異化作用（代謝の一部で、物質を分解するプロセス）
+- [anabolism](/word/anabolism)：同化作用（代謝の一部で、物質を合成するプロセス）
+- [catabolism](/word/catabolism)：異化作用（代謝の一部で、物質を分解するプロセス）
 
 ---
 
 ## 📖 できればこれも
 
-- [nutrient](/nutrient)：栄養素
-- [enzyme](/enzyme)：酵素
+- [nutrient](/word/nutrient)：栄養素
+- [enzyme](/word/enzyme)：酵素
 
 <!-- cvid: aid17_bid03 -->

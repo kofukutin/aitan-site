@@ -98,7 +98,7 @@ TOEICでは「予約する」の意味で会話や説明文に頻出します。
 ## 🤔  reserve との違いは？
 
 - **book**：主にホテルやレストラン、チケットなどを「予約する」時に使う。
-- **[reserve](/reserve)**：よりフォーマルで、席や部屋、権利など幅広い「確保・予約」に使う。
+- **[reserve](/word/reserve)**：よりフォーマルで、席や部屋、権利など幅広い「確保・予約」に使う。
 
 bookは日常的な予約、reserveはやや形式的・公式な場面で使われることが多いです。
 
@@ -106,14 +106,14 @@ bookは日常的な予約、reserveはやや形式的・公式な場面で使わ
 
 ## 🧩 あわせて覚えたい
 
-- [magazine](/magazine)：雑誌
-- [cancel](/cancel)：取り消す、キャンセルする
+- [magazine](/word/magazine)：雑誌
+- [cancel](/word/cancel)：取り消す、キャンセルする
 
 ---
 
 ## 📖 できればこれも
 
-- [note](/note)：メモ、覚え書き
-- [order](/order)：注文する、注文
+- [note](/word/note)：メモ、覚え書き
+- [order](/word/order)：注文する、注文
 
 <!-- cvid: aid29_bid25 -->

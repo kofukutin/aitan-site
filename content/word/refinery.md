@@ -97,7 +97,7 @@ TOEICでは主にビジネスや産業に関する長文で登場し、工場や
 ## 🤔  factory との違いは？
 
 - **refinery**：原材料を精製して純度を高める工場
-- **[factory](/factory)**：一般的に製品を製造する工場
+- **[factory](/word/factory)**：一般的に製品を製造する工場
 
 refineryは「精製」に特化した工場を指し、factoryはあらゆる製品の製造工場を広く指します。
 
@@ -105,14 +105,14 @@ refineryは「精製」に特化した工場を指し、factoryはあらゆる�
 
 ## 🧩 あわせて覚えたい
 
-- [plant](/plant)：工場、発電所
-- [mill](/mill)：製粉所、工場
+- [plant](/word/plant)：工場、発電所
+- [mill](/word/mill)：製粉所、工場
 
 ---
 
 ## 📖 できればこれも
 
-- [extract](/extract)：抽出する
-- [process](/process)：加工する、処理する
+- [extract](/word/extract)：抽出する
+- [process](/word/process)：加工する、処理する
 
 <!-- cvid: aid23_bid45 -->

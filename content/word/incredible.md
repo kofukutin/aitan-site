@@ -97,7 +97,7 @@ TOEICでは形容詞の語彙問題や、ポジティブな評価を表す表現
 ## 🤔  unbelievable との違いは？
 
 - **incredible**：主に「素晴らしい」「驚くべき」といった肯定的な意味で使われることが多い。
-- **[unbelievable](/unbelievable)**：信じがたいほど「ありえない」「現実離れしている」というニュアンスが強く、肯定・否定どちらにも使える。
+- **[unbelievable](/word/unbelievable)**：信じがたいほど「ありえない」「現実離れしている」というニュアンスが強く、肯定・否定どちらにも使える。
 
 incredibleはポジティブな驚きを表すのに対し、unbelievableは良い意味でも悪い意味でも「信じがたい」状況全般に使われます。
 
@@ -105,14 +105,14 @@ incredibleはポジティブな驚きを表すのに対し、unbelievableは良�
 
 ## 🧩 あわせて覚えたい
 
-- [amazing](/amazing)：驚くほど素晴らしい
-- [impossible](/impossible)：不可能な
+- [amazing](/word/amazing)：驚くほど素晴らしい
+- [impossible](/word/impossible)：不可能な
 
 ---
 
 ## 📖 できればこれも
 
-- [remarkable](/remarkable)：注目すべき、並外れた
-- [fantastic](/fantastic)：素晴らしい、すごい
+- [remarkable](/word/remarkable)：注目すべき、並外れた
+- [fantastic](/word/fantastic)：素晴らしい、すごい
 
 <!-- cvid: aid21_bid29 -->

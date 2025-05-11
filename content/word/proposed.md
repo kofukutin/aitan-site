@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や会議の議事録などで「proposed change
 ## 🤔  suggested との違いは？
 
 - **proposed**：正式に提案された、計画として提示された
-- **[suggested](/suggested)**：提案されたが、より控えめ・非公式なニュアンス
+- **[suggested](/word/suggested)**：提案されたが、より控えめ・非公式なニュアンス
 
 proposedは公式な場での提案や計画に使われ、suggestedはカジュアルな提案やアイデアに使われます。
 
@@ -105,14 +105,14 @@ proposedは公式な場での提案や計画に使われ、suggestedはカジュ
 
 ## 🧩 あわせて覚えたい
 
-- [planned](/planned)：計画された
-- [approved](/approved)：承認された
+- [planned](/word/planned)：計画された
+- [approved](/word/approved)：承認された
 
 ---
 
 ## 📖 できればこれも
 
-- [scheduled](/scheduled)：予定された
-- [intended](/intended)：意図された
+- [scheduled](/word/scheduled)：予定された
+- [intended](/word/intended)：意図された
 
 <!-- cvid: aid09_bid33 -->

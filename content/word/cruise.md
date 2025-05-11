@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、船や車が「ゆっくり進んで
 ## 🤔  sail との違いは？
 
 - **cruise**：ゆっくりと一定の速度で進む、観光や楽しみのために船旅をするニュアンス
-- **[sail](/sail)**：帆船で進む、または単に「船で進む」一般的な動作
+- **[sail](/word/sail)**：帆船で進む、または単に「船で進む」一般的な動作
 
 cruiseは「のんびり進む」「観光目的」のニュアンスが強く、sailは「帆を使って進む」や「船で移動する」動作自体を指します。
 
@@ -105,14 +105,14 @@ cruiseは「のんびり進む」「観光目的」のニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [travel](/travel)：旅行する
-- [voyage](/voyage)：長い船旅、航海
+- [travel](/word/travel)：旅行する
+- [voyage](/word/voyage)：長い船旅、航海
 
 ---
 
 ## 📖 できればこれも
 
-- [explore](/explore)：探検する
-- [journey](/journey)：旅、道のり
+- [explore](/word/explore)：探検する
+- [journey](/word/journey)：旅、道のり
 
 <!-- cvid: aid19_bid35 -->

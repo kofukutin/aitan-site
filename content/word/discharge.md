@@ -97,7 +97,7 @@ The company was fined for discharging waste into the river.
 ## 🤔  release との違いは？
 
 - **discharge**：義務や責任、病院・軍隊などから「正式に解放する」「退院・除隊させる」など、フォーマルな場面で使う。
-- **[release](/release)**：一般的に「解放する」「公開する」「リリースする」など幅広く使える。
+- **[release](/word/release)**：一般的に「解放する」「公開する」「リリースする」など幅広く使える。
 
 dischargeは特定の義務や施設からの解放に使われ、releaseはより広い意味で「自由にする」「公開する」などに使われます。
 
@@ -105,14 +105,14 @@ dischargeは特定の義務や施設からの解放に使われ、releaseはよ�
 
 ## 🧩 あわせて覚えたい
 
-- [admit](/admit)：入院させる、認める
-- [dismiss](/dismiss)：解雇する、解散させる
+- [admit](/word/admit)：入院させる、認める
+- [dismiss](/word/dismiss)：解雇する、解散させる
 
 ---
 
 ## 📖 できればこれも
 
-- [prescribe](/prescribe)：処方する
-- [transfer](/transfer)：移す、転送する
+- [prescribe](/word/prescribe)：処方する
+- [transfer](/word/transfer)：移す、転送する
 
 <!-- cvid: aid19_bid00 -->

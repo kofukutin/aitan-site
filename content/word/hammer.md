@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、工具や作業の場面で登場し
 ## 🤔  mallet との違いは？
 
 - **hammer**：金属製の頭部を持つ一般的な金づち。釘打ちや解体など幅広く使う。
-- **[mallet](/mallet)**：木やゴムなど柔らかい素材の頭部を持つハンマー。傷をつけたくない作業や木工で使う。
+- **[mallet](/word/mallet)**：木やゴムなど柔らかい素材の頭部を持つハンマー。傷をつけたくない作業や木工で使う。
 
 hammerは硬いものを打つのに適し、malletは柔らかい打撃が必要な場面で使い分けます。
 
@@ -105,14 +105,14 @@ hammerは硬いものを打つのに適し、malletは柔らかい打撃が必�
 
 ## 🧩 あわせて覚えたい
 
-- [tool](/tool)：道具、工具
-- [nail](/nail)：釘
+- [tool](/word/tool)：道具、工具
+- [nail](/word/nail)：釘
 
 ---
 
 ## 📖 できればこれも
 
-- [screwdriver](/screwdriver)：ドライバー、ねじ回し
-- [wrench](/wrench)：レンチ、スパナ
+- [screwdriver](/word/screwdriver)：ドライバー、ねじ回し
+- [wrench](/word/wrench)：レンチ、スパナ
 
 <!-- cvid: aid02_bid23 -->

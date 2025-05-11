@@ -97,7 +97,7 @@ adaptationは、ビジネス文書や説明文で「適応」「適合」の意�
 ## 🤔  adjustment との違いは？
 
 - **adaptation**：環境や状況に合わせて変化・適応すること、または原作を別の形に作り変えること
-- **[adjustment](/adjustment)**：微調整や小さな修正を加えること
+- **[adjustment](/word/adjustment)**：微調整や小さな修正を加えること
 
 adaptationは大きな変化や新しい状況への適応に使い、adjustmentは細かい調整や修正に使います。
 
@@ -105,14 +105,14 @@ adaptationは大きな変化や新しい状況への適応に使い、adjustment
 
 ## 🧩 あわせて覚えたい
 
-- [modification](/modification)：修正、変更
-- [conversion](/conversion)：転換、変換
+- [modification](/word/modification)：修正、変更
+- [conversion](/word/conversion)：転換、変換
 
 ---
 
 ## 📖 できればこれも
 
-- [adoption](/adoption)：採用、導入
-- [transition](/transition)：移行、変化
+- [adoption](/word/adoption)：採用、導入
+- [transition](/word/transition)：移行、変化
 
 <!-- cvid: aid06_bid37 -->

@@ -99,7 +99,7 @@ We need a larger meeting room for the event.
 ## 🤔  bigger との違いは？
 
 - **larger**：サイズや規模が「より大きい」と客観的に表現する語。フォーマルな場面や数量・面積などにも使われやすい。
-- **[bigger](/bigger)**：サイズや体積が「より大きい」とカジュアルに表現する語。主に物理的な大きさや子どもの会話で使われやすい。
+- **[bigger](/word/bigger)**：サイズや体積が「より大きい」とカジュアルに表現する語。主に物理的な大きさや子どもの会話で使われやすい。
 
 「larger」はビジネスや説明などフォーマルな場面で使われやすく、「bigger」は日常会話や子ども同士の会話でよく使われます。
 
@@ -107,14 +107,14 @@ We need a larger meeting room for the event.
 
 ## 🧩 あわせて覚えたい
 
-- [greater](/greater)：より大きい（数量・程度がより多い）
-- [smaller](/smaller)：より小さい
+- [greater](/word/greater)：より大きい（数量・程度がより多い）
+- [smaller](/word/smaller)：より小さい
 
 ---
 
 ## 📖 できればこれも
 
-- [longer](/longer)：より長い
-- [wider](/wider)：より広い
+- [longer](/word/longer)：より長い
+- [wider](/word/wider)：より広い
 
 <!-- cvid: aid12_bid11 -->

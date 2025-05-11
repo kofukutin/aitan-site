@@ -98,7 +98,7 @@ TOEICでは、会話やメール文で「謝罪」を表す表現として頻出
 ## 🤔  excuse との違いは？
 
 - **apology**：自分の非や迷惑を認めて正式に謝ること
-- **[excuse](/excuse)**：言い訳や理由を述べて自分を正当化すること
+- **[excuse](/word/excuse)**：言い訳や理由を述べて自分を正当化すること
 
 apologyは「心から謝る」ニュアンスが強く、excuseは「言い訳」や「理由説明」に近い使い方です。
 
@@ -106,14 +106,14 @@ apologyは「心から謝る」ニュアンスが強く、excuseは「言い訳�
 
 ## 🧩 あわせて覚えたい
 
-- [regret](/regret)：後悔、残念に思う気持ち
-- [admission](/admission)：認めること、入場
+- [regret](/word/regret)：後悔、残念に思う気持ち
+- [admission](/word/admission)：認めること、入場
 
 ---
 
 ## 📖 できればこれも
 
-- [promise](/promise)：約束
-- [request](/request)：依頼、要請
+- [promise](/word/promise)：約束
+- [request](/word/request)：依頼、要請
 
 <!-- cvid: aid47_bid40 -->

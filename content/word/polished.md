@@ -97,7 +97,7 @@ TOEICでは、文章やプレゼン、製品などの「完成度」や「洗練
 ## 🤔  refined との違いは？
 
 - **polished**：見た目や内容が磨かれていて、完成度が高い・洗練されている
-- **[refined](/refined)**：より上品で、細部まで改良・改善されている
+- **[refined](/word/refined)**：より上品で、細部まで改良・改善されている
 
 「polished」は外見や印象の良さ、仕上がりの美しさを強調し、「refined」は改良や上品さ、細やかな配慮を強調します。
 
@@ -105,14 +105,14 @@ TOEICでは、文章やプレゼン、製品などの「完成度」や「洗練
 
 ## 🧩 あわせて覚えたい
 
-- [sophisticated](/sophisticated)：高度で洗練された
-- [rough](/rough)：粗い、未完成の
+- [sophisticated](/word/sophisticated)：高度で洗練された
+- [rough](/word/rough)：粗い、未完成の
 
 ---
 
 ## 📖 できればこれも
 
-- [impressive](/impressive)：印象的な
-- [elegant](/elegant)：上品な、優雅な
+- [impressive](/word/impressive)：印象的な
+- [elegant](/word/elegant)：上品な、優雅な
 
 <!-- cvid: aid45_bid39 -->

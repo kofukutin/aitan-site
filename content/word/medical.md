@@ -97,7 +97,7 @@ TOEICでは、医療や健康に関する記事や案内文、証明書などの
 ## 🤔  clinical との違いは？
 
 - **medical**：医療全般や医学に関する広い意味で使う
-- **[clinical](/clinical)**：臨床（実際の患者を扱う現場）に特化した意味
+- **[clinical](/word/clinical)**：臨床（実際の患者を扱う現場）に特化した意味
 
 **medical**は医療や医学全体を指し、**clinical**は特に患者の診察や治療など現場での実践的な医療を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、医療や健康に関する記事や案内文、証明書などの
 
 ## 🧩 あわせて覚えたい
 
-- [surgical](/surgical)：外科の、手術の
-- [health](/health)：健康、健康状態
+- [surgical](/word/surgical)：外科の、手術の
+- [health](/word/health)：健康、健康状態
 
 ---
 
 ## 📖 できればこれも
 
-- [patient](/patient)：患者
-- [treatment](/treatment)：治療
+- [patient](/word/patient)：患者
+- [treatment](/word/treatment)：治療
 
 <!-- cvid: aid40_bid33 -->

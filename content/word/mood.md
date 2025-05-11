@@ -97,7 +97,7 @@ TOEICでは会議や職場の雰囲気、個人の気分について話す場面
 ## 🤔  atmosphere との違いは？
 
 - **mood**：人や場の「気分」や「雰囲気」を指し、感情的なニュアンスが強い。
-- **[atmosphere](/atmosphere)**：場所や状況の「空気感」「雰囲気」を広く表し、物理的・抽象的な場面両方で使う。
+- **[atmosphere](/word/atmosphere)**：場所や状況の「空気感」「雰囲気」を広く表し、物理的・抽象的な場面両方で使う。
 
 moodは主に感情や心理的な状態に焦点を当て、atmosphereは空間全体の雰囲気や環境を表すときに使います。
 
@@ -105,14 +105,14 @@ moodは主に感情や心理的な状態に焦点を当て、atmosphereは空間
 
 ## 🧩 あわせて覚えたい
 
-- [emotion](/emotion)：感情、情緒
-- [tone](/tone)：口調、雰囲気
+- [emotion](/word/emotion)：感情、情緒
+- [tone](/word/tone)：口調、雰囲気
 
 ---
 
 ## 📖 できればこれも
 
-- [attitude](/attitude)：態度、考え方
-- [spirit](/spirit)：精神、気分
+- [attitude](/word/attitude)：態度、考え方
+- [spirit](/word/spirit)：精神、気分
 
 <!-- cvid: aid09_bid23 -->

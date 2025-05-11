@@ -97,7 +97,7 @@ Please report directly to the project commander.
 ## 🤔  captain との違いは？
 
 - **commander**：軍隊や組織で部隊全体を指揮する役職や人
-- **[captain](/captain)**：チームや船、飛行機などの「長」やリーダー
+- **[captain](/word/captain)**：チームや船、飛行機などの「長」やリーダー
 
 commanderはより広い範囲や上位の指揮官を指し、captainは特定のチームや乗り物の責任者に使われます。
 
@@ -105,14 +105,14 @@ commanderはより広い範囲や上位の指揮官を指し、captainは特定�
 
 ## 🧩 あわせて覚えたい
 
-- [officer](/officer)：士官、役員
-- [general](/general)：将軍、総司令官
+- [officer](/word/officer)：士官、役員
+- [general](/word/general)：将軍、総司令官
 
 ---
 
 ## 📖 できればこれも
 
-- [command](/command)：命令、指揮
-- [supervisor](/supervisor)：監督者、上司
+- [command](/word/command)：命令、指揮
+- [supervisor](/word/supervisor)：監督者、上司
 
 <!-- cvid: aid35_bid32 -->

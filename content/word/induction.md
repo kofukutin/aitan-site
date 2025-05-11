@@ -97,7 +97,7 @@ TOEICでは主に人事や研修、入社手続きに関する長文で見かけ
 ## 🤔  orientation との違いは？
 
 - **induction**：新しい職場や組織に入る際の公式な導入や就任、入社時研修を指す。
-- **[orientation](/orientation)**：新しい環境や制度に慣れるための説明や案内、オリエンテーション。
+- **[orientation](/word/orientation)**：新しい環境や制度に慣れるための説明や案内、オリエンテーション。
 
 inductionはよりフォーマルで公式な「就任」や「導入」の意味が強く、orientationは「慣れるための説明会」など幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ inductionはよりフォーマルで公式な「就任」や「導入」の意�
 
 ## 🧩 あわせて覚えたい
 
-- [initiation](/initiation)：開始、加入式
-- [appointment](/appointment)：任命、指名
+- [initiation](/word/initiation)：開始、加入式
+- [appointment](/word/appointment)：任命、指名
 
 ---
 
 ## 📖 できればこれも
 
-- [procedure](/procedure)：手順、手続き
-- [introduction](/introduction)：紹介、導入
+- [procedure](/word/procedure)：手順、手続き
+- [introduction](/word/introduction)：紹介、導入
 
 <!-- cvid: aid13_bid28 -->

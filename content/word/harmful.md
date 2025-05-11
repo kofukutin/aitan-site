@@ -97,7 +97,7 @@ TOEICでは環境問題や健康、製品の安全性に関する長文でよく
 ## 🤔  dangerous との違いは？
 
 - **harmful**：害や悪影響を与える（結果に注目）
-- **[dangerous](/dangerous)**：危険な、危害を加える可能性がある（リスクや状況に注目）
+- **[dangerous](/word/dangerous)**：危険な、危害を加える可能性がある（リスクや状況に注目）
 
 **harmful** は「実際に害を及ぼす」ことに焦点があり、**dangerous** は「危険性やリスクがある」ことに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは環境問題や健康、製品の安全性に関する長文でよく
 
 ## 🧩 あわせて覚えたい
 
-- [beneficial](/beneficial)：有益な、ためになる
-- [toxic](/toxic)：有毒な、毒性のある
+- [beneficial](/word/beneficial)：有益な、ためになる
+- [toxic](/word/toxic)：有毒な、毒性のある
 
 ---
 
 ## 📖 できればこれも
 
-- [harmless](/harmless)：無害な
-- [risk](/risk)：危険、リスク
+- [harmless](/word/harmless)：無害な
+- [risk](/word/risk)：危険、リスク
 
 <!-- cvid: aid14_bid35 -->

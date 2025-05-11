@@ -93,7 +93,7 @@ TOEICでは主にPart 7の長文やメール文で、情報源や根拠を示す
 ## 🤔  depending との違いは？
 
 - **according**：「～によれば」「～に従って」と情報源や基準を示す
-- **[depending](/depending)**：「～次第で」「～によって変わる」と条件や状況の変化を示す
+- **[depending](/word/depending)**：「～次第で」「～によって変わる」と条件や状況の変化を示す
 
 "according" は情報や事実の根拠を示すのに使い、"depending" は状況や条件による変化を表します。
 
@@ -101,14 +101,14 @@ TOEICでは主にPart 7の長文やメール文で、情報源や根拠を示す
 
 ## 🧩 あわせて覚えたい
 
-- [based on](/based_on)：～に基づいて
-- [refer](/refer)：参照する
+- [based on](/word/based_on)：～に基づいて
+- [refer](/word/refer)：参照する
 
 ---
 
 ## 📖 できればこれも
 
-- [therefore](/therefore)：それゆえに
-- [however](/however)：しかしながら
+- [therefore](/word/therefore)：それゆえに
+- [however](/word/however)：しかしながら
 
 <!-- cvid: aid28_bid13 -->

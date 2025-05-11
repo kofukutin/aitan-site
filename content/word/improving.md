@@ -97,7 +97,7 @@ TOEICでは「improving」は進行形や分詞構文でよく出題され、改
 ## 🤔  enhancing との違いは？
 
 - **improving**：全体的に良くする、向上させる
-- **[enhancing](/enhancing)**：価値や質を高める、強化する
+- **[enhancing](/word/enhancing)**：価値や質を高める、強化する
 
 「improving」は幅広く「改善」全般に使い、「enhancing」は特に価値や魅力を「高める」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは「improving」は進行形や分詞構文でよく出題され、改
 
 ## 🧩 あわせて覚えたい
 
-- [develop](/develop)：発展させる、開発する
-- [upgrade](/upgrade)：（機能や性能を）グレードアップする
+- [develop](/word/develop)：発展させる、開発する
+- [upgrade](/word/upgrade)：（機能や性能を）グレードアップする
 
 ---
 
 ## 📖 できればこれも
 
-- [increase](/increase)：増やす、増加する
-- [progress](/progress)：進歩する、前進する
+- [increase](/word/increase)：増やす、増加する
+- [progress](/word/progress)：進歩する、前進する
 
 <!-- cvid: aid30_bid06 -->

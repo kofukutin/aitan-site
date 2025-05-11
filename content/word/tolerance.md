@@ -97,7 +97,7 @@ toleranceは、TOEICの長文読解パートで「多様性」や「職場文化
 ## 🤔  acceptance との違いは？
 
 - **tolerance**：違いを「我慢して受け入れる」ニュアンスが強い
-- **[acceptance](/acceptance)**：違いを「積極的に受け入れる」ニュアンス
+- **[acceptance](/word/acceptance)**：違いを「積極的に受け入れる」ニュアンス
 
 toleranceは「仕方なく許す」感覚があり、acceptanceは「心から認める」前向きな受け入れを表します。
 
@@ -105,14 +105,14 @@ toleranceは「仕方なく許す」感覚があり、acceptanceは「心から�
 
 ## 🧩 あわせて覚えたい
 
-- [intolerance](/intolerance)：不寛容、許容しないこと
-- [patience](/patience)：忍耐、我慢
+- [intolerance](/word/intolerance)：不寛容、許容しないこと
+- [patience](/word/patience)：忍耐、我慢
 
 ---
 
 ## 📖 できればこれも
 
-- [diversity](/diversity)：多様性
-- [respect](/respect)：尊重、敬意
+- [diversity](/word/diversity)：多様性
+- [respect](/word/respect)：尊重、敬意
 
 <!-- cvid: aid07_bid36 -->

@@ -97,7 +97,7 @@ TOEICのPart 7（長文読解）で、会社や人物が何かを「代表した
 ## 🤔  showed との違いは？
 
 - **represented**：何かを象徴的・抽象的に「表す」「代表する」意味が強い
-- **[showed](/showed)**：単に「見せる」「示す」という直接的な意味
+- **[showed](/word/showed)**：単に「見せる」「示す」という直接的な意味
 
 representedは「象徴」や「代理」のニュアンスがあり、showedは単に見せる・提示する場合に使います。
 
@@ -105,14 +105,14 @@ representedは「象徴」や「代理」のニュアンスがあり、showedは
 
 ## 🧩 あわせて覚えたい
 
-- [indicate](/indicate)：指し示す、示す
-- [symbolize](/symbolize)：象徴する
+- [indicate](/word/indicate)：指し示す、示す
+- [symbolize](/word/symbolize)：象徴する
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/present)：提示する、発表する
-- [demonstrate](/demonstrate)：実演する、証明する
+- [present](/word/present)：提示する、発表する
+- [demonstrate](/word/demonstrate)：実演する、証明する
 
 <!-- cvid: aid02_bid25 -->

@@ -97,7 +97,7 @@ TOEICのPart 7で、イベントや結果、商品などが「anticipated」と�
 ## 🤔  expected との違いは？
 
 - **anticipated**：事前に強く期待・予想されている（ややフォーマル）
-- **[expected](/expected)**：一般的に予想されている（より幅広く使える）
+- **[expected](/word/expected)**：一般的に予想されている（より幅広く使える）
 
 「anticipated」は「期待感」や「待ち望む」ニュアンスが強く、公式な場面で使われやすいのに対し、「expected」は単に「予想される」という意味で日常的にも幅広く使われます。
 
@@ -105,14 +105,14 @@ TOEICのPart 7で、イベントや結果、商品などが「anticipated」と�
 
 ## 🧩 あわせて覚えたい
 
-- [predict](/predict)：予測する
-- [unexpected](/unexpected)：予想外の
+- [predict](/word/predict)：予測する
+- [unexpected](/word/unexpected)：予想外の
 
 ---
 
 ## 📖 できればこれも
 
-- [scheduled](/scheduled)：予定された
-- [planned](/planned)：計画された
+- [scheduled](/word/scheduled)：予定された
+- [planned](/word/planned)：計画された
 
 <!-- cvid: aid25_bid41 -->

@@ -97,7 +97,7 @@ TOEICでは医療や健康、職場のハラスメントに関する説明文や
 ## 🤔  physically との違いは？
 
 - **sexually**：性的な面や性に関することを表す副詞
-- **[physically](/physically)**：身体的な面や肉体に関することを表す副詞
+- **[physically](/word/physically)**：身体的な面や肉体に関することを表す副詞
 
 sexuallyは「性」に関する内容、physicallyは「身体」や「肉体」に関する内容を表します。文脈によって指す範囲が異なります。
 
@@ -105,14 +105,14 @@ sexuallyは「性」に関する内容、physicallyは「身体」や「肉体�
 
 ## 🧩 あわせて覚えたい
 
-- [emotionally](/emotionally)：感情的に
-- [reproductively](/reproductively)：生殖的に
+- [emotionally](/word/emotionally)：感情的に
+- [reproductively](/word/reproductively)：生殖的に
 
 ---
 
 ## 📖 できればこれも
 
-- [gender](/gender)：性別
-- [sexual](/sexual)：性的な
+- [gender](/word/gender)：性別
+- [sexual](/word/sexual)：性的な
 
 <!-- cvid: aid19_bid34 -->

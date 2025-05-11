@@ -93,7 +93,7 @@ TOEICでは、前置詞の使い分けや「～に反対して」という意味
 ## 🤔  opposite との違いは？
 
 - **against**：物理的・抽象的に「～に接して」「～に反対して」
-- **[opposite](/opposite)**：位置的に「～の向かい側に」
+- **[opposite](/word/opposite)**：位置的に「～の向かい側に」
 
 againstは「接触」や「反対」のニュアンス、oppositeは「向かい合う位置」のニュアンスで使い分けます。
 
@@ -101,14 +101,14 @@ againstは「接触」や「反対」のニュアンス、oppositeは「向か�
 
 ## 🧩 あわせて覚えたい
 
-- [beside](/beside)：～のそばに
-- [versus](/versus)：～対、～に対して（対立）
+- [beside](/word/beside)：～のそばに
+- [versus](/word/versus)：～対、～に対して（対立）
 
 ---
 
 ## 📖 できればこれも
 
-- [among](/among)：～の間で
-- [toward](/toward)：～の方へ
+- [among](/word/among)：～の間で
+- [toward](/word/toward)：～の方へ
 
 <!-- cvid: aid24_bid01 -->

@@ -96,7 +96,7 @@ IT関連やソフトウェアの利用規約、製品紹介文などで見かけ
 ## 🤔  freeware との違いは？
 
 - **shareware**：一定期間無料で試用でき、継続利用には料金が必要なソフトウェア
-- **[freeware](/freeware)**：完全に無料で利用できるソフトウェア
+- **[freeware](/word/freeware)**：完全に無料で利用できるソフトウェア
 
 sharewareは「試用後に有料」、freewareは「最初から最後まで無料」という違いがあります。
 
@@ -104,14 +104,14 @@ sharewareは「試用後に有料」、freewareは「最初から最後まで無
 
 ## 🧩 あわせて覚えたい
 
-- [trial](/trial)：試用、体験版
-- [license](/license)：ライセンス、使用許可
+- [trial](/word/trial)：試用、体験版
+- [license](/word/license)：ライセンス、使用許可
 
 ---
 
 ## 📖 できればこれも
 
-- [software](/software)：ソフトウェア、プログラム
-- [update](/update)：更新、アップデート
+- [software](/word/software)：ソフトウェア、プログラム
+- [update](/word/update)：更新、アップデート
 
 <!-- cvid: aid02_bid49 -->

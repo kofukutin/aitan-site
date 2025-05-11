@@ -97,7 +97,7 @@ TOEICでは主に科学技術や医療関連の記事、AI技術の説明文な�
 ## 🤔  nervous との違いは？
 
 - **neural**：神経そのものや神経系に関する（医学・科学的な文脈）
-- **[nervous](/nervous)**：神経質な、緊張した、または神経系に関する（より広い意味）
+- **[nervous](/word/nervous)**：神経質な、緊張した、または神経系に関する（より広い意味）
 
 neuralは「神経の構造や機能」に限定され、nervousは「緊張した」など感情面や「神経系の」という広い意味で使われます。
 
@@ -105,14 +105,14 @@ neuralは「神経の構造や機能」に限定され、nervousは「緊張し�
 
 ## 🧩 あわせて覚えたい
 
-- [cerebral](/cerebral)：大脳の、脳の
-- [neurological](/neurological)：神経学の、神経系の
+- [cerebral](/word/cerebral)：大脳の、脳の
+- [neurological](/word/neurological)：神経学の、神経系の
 
 ---
 
 ## 📖 できればこれも
 
-- [cognitive](/cognitive)：認知の、認識の
-- [biological](/biological)：生物学的な
+- [cognitive](/word/cognitive)：認知の、認識の
+- [biological](/word/biological)：生物学的な
 
 <!-- cvid: aid27_bid45 -->

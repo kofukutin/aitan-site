@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、オフィスや部屋の備品とし
 ## 🤔  speaker との違いは？
 
 - **stereo**：左右2つ以上のスピーカーを使った音響装置やその方式を指す
-- **[speaker](/speaker)**：音を出すための個々の装置や部品を指す
+- **[speaker](/word/speaker)**：音を出すための個々の装置や部品を指す
 
 stereoは「立体的な音響システム全体」、speakerは「音を出す部品や装置単体」を意味します。
 
@@ -105,14 +105,14 @@ stereoは「立体的な音響システム全体」、speakerは「音を出す�
 
 ## 🧩 あわせて覚えたい
 
-- [headphone](/headphone)：ヘッドホン（耳に装着して音を聴く装置）
-- [microphone](/microphone)：マイクロフォン（音を拾う装置）
+- [headphone](/word/headphone)：ヘッドホン（耳に装着して音を聴く装置）
+- [microphone](/word/microphone)：マイクロフォン（音を拾う装置）
 
 ---
 
 ## 📖 できればこれも
 
-- [radio](/radio)：ラジオ（音声放送受信機）
-- [television](/television)：テレビ（映像・音声放送受信機）
+- [radio](/word/radio)：ラジオ（音声放送受信機）
+- [television](/word/television)：テレビ（映像・音声放送受信機）
 
 <!-- cvid: aid00_bid31 -->

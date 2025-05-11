@@ -97,7 +97,7 @@ TOEICでは、コンサートやイベント、ラジオ番組などの会話で
 ## 🤔  music との違いは？
 
 - **song**：歌詞とメロディがある「歌」や「歌曲」を指す
-- **[music](/music)**：音楽全般や音の芸術を指す
+- **[music](/word/music)**：音楽全般や音の芸術を指す
 
 songは「1曲の歌」や「特定の歌」を表し、musicはジャンルや音楽全体を指します。
 
@@ -105,14 +105,14 @@ songは「1曲の歌」や「特定の歌」を表し、musicはジャンルや�
 
 ## 🧩 あわせて覚えたい
 
-- [melody](/melody)：旋律、メロディ
-- [anthem](/anthem)：賛歌、国歌
+- [melody](/word/melody)：旋律、メロディ
+- [anthem](/word/anthem)：賛歌、国歌
 
 ---
 
 ## 📖 できればこれも
 
-- [poem](/poem)：詩
-- [story](/story)：物語
+- [poem](/word/poem)：詩
+- [story](/word/story)：物語
 
 <!-- cvid: aid14_bid43 -->

@@ -97,7 +97,7 @@ TOEICでは主にキッチンや実験室の写真描写で登場し、火を使
 ## 🤔  stove との違いは？
 
 - **burner**：火を出す部分や燃焼装置そのものを指す
-- **[stove](/stove)**：調理や暖房用の「ストーブ」「コンロ」全体を指す
+- **[stove](/word/stove)**：調理や暖房用の「ストーブ」「コンロ」全体を指す
 
 burnerはstoveの一部（火口やバーナー）を指し、stoveは全体の装置を指します。
 
@@ -105,14 +105,14 @@ burnerはstoveの一部（火口やバーナー）を指し、stoveは全体の�
 
 ## 🧩 あわせて覚えたい
 
-- [heater](/heater)：ヒーター、暖房器具
-- [oven](/oven)：オーブン、焼き物用の加熱装置
+- [heater](/word/heater)：ヒーター、暖房器具
+- [oven](/word/oven)：オーブン、焼き物用の加熱装置
 
 ---
 
 ## 📖 できればこれも
 
-- [switch](/switch)：スイッチ、切り替え装置
-- [plug](/plug)：プラグ、差し込み口
+- [switch](/word/switch)：スイッチ、切り替え装置
+- [plug](/word/plug)：プラグ、差し込み口
 
 <!-- cvid: aid02_bid18 -->

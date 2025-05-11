@@ -97,7 +97,7 @@ toeはTOEICのPart 1で、人物の動作や服装の説明で出題されるこ
 ## 🤔  finger との違いは？
 
 - **toe**：足の指、つま先
-- **[finger](/finger)**：手の指
+- **[finger](/word/finger)**：手の指
 
 toeは足、fingerは手の指を指します。体の部位が異なるので使い分けに注意しましょう。
 
@@ -105,14 +105,14 @@ toeは足、fingerは手の指を指します。体の部位が異なるので�
 
 ## 🧩 あわせて覚えたい
 
-- [heel](/heel)：かかと
-- [nail](/nail)：爪
+- [heel](/word/heel)：かかと
+- [nail](/word/nail)：爪
 
 ---
 
 ## 📖 できればこれも
 
-- [foot](/foot)：足
-- [hand](/hand)：手
+- [foot](/word/foot)：足
+- [hand](/word/hand)：手
 
 <!-- cvid: aid23_bid08 -->

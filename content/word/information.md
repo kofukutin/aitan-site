@@ -97,7 +97,7 @@ TOEICでは案内文やメール、報告書などで頻出し、特に「ご案
 ## 🤔  data との違いは？
 
 - **information**：整理されて意味を持つ「情報」
-- **[data](/data)**：観測や測定などで得られた「生データ」
+- **[data](/word/data)**：観測や測定などで得られた「生データ」
 
 informationは「意味のある情報」、dataは「まだ解釈されていない事実や数値」を指します。
 
@@ -105,14 +105,14 @@ informationは「意味のある情報」、dataは「まだ解釈されてい�
 
 ## 🧩 あわせて覚えたい
 
-- [knowledge](/knowledge)：知識
-- [detail](/detail)：詳細
+- [knowledge](/word/knowledge)：知識
+- [detail](/word/detail)：詳細
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/document)：文書
-- [report](/report)：報告書
+- [document](/word/document)：文書
+- [report](/word/report)：報告書
 
 <!-- cvid: aid29_bid06 -->

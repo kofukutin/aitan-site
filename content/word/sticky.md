@@ -97,7 +97,7 @@ TOEICでは、物の状態や性質を問う形容詞問題で出題されるこ
 ## 🤔  adhesive との違いは？
 
 - **sticky**：ねばねばして自然にくっつく、または扱いにくい状態も表す
-- **[adhesive](/adhesive)**：接着剤のように「接着するためのもの」や「接着性のある」という意味
+- **[adhesive](/word/adhesive)**：接着剤のように「接着するためのもの」や「接着性のある」という意味
 
 stickyは物の表面や感触に使い、adhesiveは「接着剤」や「接着力があるもの」に限定されます。
 
@@ -105,14 +105,14 @@ stickyは物の表面や感触に使い、adhesiveは「接着剤」や「接着
 
 ## 🧩 あわせて覚えたい
 
-- [slippery](/slippery)：すべりやすい
-- [tacky](/tacky)：べたべたした、安っぽい
+- [slippery](/word/slippery)：すべりやすい
+- [tacky](/word/tacky)：べたべたした、安っぽい
 
 ---
 
 ## 📖 できればこれも
 
-- [smooth](/smooth)：なめらかな
-- [moist](/moist)：しめった、湿った
+- [smooth](/word/smooth)：なめらかな
+- [moist](/word/moist)：しめった、湿った
 
 <!-- cvid: aid41_bid37 -->

@@ -97,7 +97,7 @@ TOEICでは会話や説明文で、感動や高評価を表現する際によく
 ## 🤔  surprising との違いは？
 
 - **amazing**：とても素晴らしくて感動する、強い驚きを含む
-- **[surprising](/surprising)**：予想外で驚く、必ずしも良い意味とは限らない
+- **[surprising](/word/surprising)**：予想外で驚く、必ずしも良い意味とは限らない
 
 amazingは「感動するほど素晴らしい」ニュアンスが強く、surprisingは「予想外で驚く」ことに重点があります。
 
@@ -105,14 +105,14 @@ amazingは「感動するほど素晴らしい」ニュアンスが強く、surp
 
 ## 🧩 あわせて覚えたい
 
-- [wonderful](/wonderful)：素晴らしい
-- [ordinary](/ordinary)：普通の
+- [wonderful](/word/wonderful)：素晴らしい
+- [ordinary](/word/ordinary)：普通の
 
 ---
 
 ## 📖 できればこれも
 
-- [exciting](/exciting)：わくわくさせる
-- [impressive](/impressive)：印象的な
+- [exciting](/word/exciting)：わくわくさせる
+- [impressive](/word/impressive)：印象的な
 
 <!-- cvid: aid02_bid33 -->

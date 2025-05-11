@@ -97,7 +97,7 @@ TOEICでは観光や文化紹介、企業の歴史などの文脈でよく登場
 ## 🤔  custom との違いは？
 
 - **tradition**：長い間受け継がれてきた文化的・社会的な習慣や行事
-- **[custom](/custom)**：特定の集団や地域で行われる慣習やしきたり
+- **[custom](/word/custom)**：特定の集団や地域で行われる慣習やしきたり
 
 traditionは世代を超えて続く大きな文化的習慣、customは日常的な行動や地域ごとのしきたりに使われます。
 
@@ -105,14 +105,14 @@ traditionは世代を超えて続く大きな文化的習慣、customは日常�
 
 ## 🧩 あわせて覚えたい
 
-- [heritage](/heritage)：遺産、受け継がれたもの
-- [innovation](/innovation)：革新、新しいこと
+- [heritage](/word/heritage)：遺産、受け継がれたもの
+- [innovation](/word/innovation)：革新、新しいこと
 
 ---
 
 ## 📖 できればこれも
 
-- [culture](/culture)：文化
-- [ceremony](/ceremony)：式典、儀式
+- [culture](/word/culture)：文化
+- [ceremony](/word/ceremony)：式典、儀式
 
 <!-- cvid: aid01_bid49 -->

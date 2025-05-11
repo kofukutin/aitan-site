@@ -97,7 +97,7 @@ TOEICでは会議やイベントの出席、存在感について話す場面で
 ## 🤔  attendance との違いは？
 
 - **presence**：その場に「いること」や「存在感」を強調するフォーマルな表現
-- **[attendance](/attendance)**：出席という「行為」や「人数」を客観的に表す
+- **[attendance](/word/attendance)**：出席という「行為」や「人数」を客観的に表す
 
 presenceは「その人がいること自体」や「雰囲気」にも使われ、attendanceは「出席の有無」や「出席者数」など事務的な場面で使われます。
 
@@ -105,14 +105,14 @@ presenceは「その人がいること自体」や「雰囲気」にも使われ
 
 ## 🧩 あわせて覚えたい
 
-- [absence](/absence)：不在、欠席
-- [appearance](/appearance)：外見、出現
+- [absence](/word/absence)：不在、欠席
+- [appearance](/word/appearance)：外見、出現
 
 ---
 
 ## 📖 できればこれも
 
-- [participation](/participation)：参加
-- [involvement](/involvement)：関与
+- [participation](/word/participation)：参加
+- [involvement](/word/involvement)：関与
 
 <!-- cvid: aid08_bid21 -->

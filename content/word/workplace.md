@@ -97,7 +97,7 @@ TOEICでは、職場環境や労働条件、従業員向けのお知らせなど
 ## 🤔  office との違いは？
 
 - **workplace**：職場全般（オフィス・工場・店舗などすべて含む）
-- **[office](/office)**：主に事務所やオフィスビルなどの「オフィス」を指す
+- **[office](/word/office)**：主に事務所やオフィスビルなどの「オフィス」を指す
 
 **workplace**は働く場所全体を指し、**office**はその中でも事務作業をする場所に限定されます。
 
@@ -105,14 +105,14 @@ TOEICでは、職場環境や労働条件、従業員向けのお知らせなど
 
 ## 🧩 あわせて覚えたい
 
-- [factory](/factory)：工場
-- [workforce](/workforce)：労働力、従業員全体
+- [factory](/word/factory)：工場
+- [workforce](/word/workforce)：労働力、従業員全体
 
 ---
 
 ## 📖 できればこれも
 
-- [employee](/employee)：従業員
-- [department](/department)：部門、部署
+- [employee](/word/employee)：従業員
+- [department](/word/department)：部門、部署
 
 <!-- cvid: aid29_bid16 -->

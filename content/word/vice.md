@@ -97,7 +97,7 @@ TOEICでは新聞記事やビジネス文書の中で、社会問題や倫理に
 ## 🤔  crime との違いは？
 
 - **vice**：道徳的・社会的に悪いとされる習慣や行為全般（必ずしも法律違反とは限らない）
-- **[crime](/crime)**：法律に違反する行為、犯罪
+- **[crime](/word/crime)**：法律に違反する行為、犯罪
 
 viceは「悪徳」や「悪習」といった道徳的な悪さを指し、crimeは明確に法律違反の行為を指します。
 
@@ -105,14 +105,14 @@ viceは「悪徳」や「悪習」といった道徳的な悪さを指し、crim
 
 ## 🧩 あわせて覚えたい
 
-- [virtue](/virtue)：美徳、善行
-- [sin](/sin)：罪（宗教的・道徳的な意味での罪）
+- [virtue](/word/virtue)：美徳、善行
+- [sin](/word/sin)：罪（宗教的・道徳的な意味での罪）
 
 ---
 
 ## 📖 できればこれも
 
-- [illegal](/illegal)：違法の
-- [penalty](/penalty)：罰、刑罰
+- [illegal](/word/illegal)：違法の
+- [penalty](/word/penalty)：罰、刑罰
 
 <!-- cvid: aid23_bid00 -->

@@ -97,7 +97,7 @@ TOEICでは会話文や説明文で「素晴らしい」「とても良い」と
 ## 🤔  wonderful との違いは？
 
 - **fantastic**：カジュアルで感情を強く込めて「すごい！」「最高！」と伝えるときに使う。
-- **[wonderful](/wonderful)**：ややフォーマルで「素晴らしい」「感動的」と丁寧に褒めるときに使う。
+- **[wonderful](/word/wonderful)**：ややフォーマルで「素晴らしい」「感動的」と丁寧に褒めるときに使う。
 
 fantasticは友人同士やカジュアルな場面で感情を込めて使い、wonderfulはビジネスやフォーマルな場面でも使いやすい表現です。
 
@@ -105,14 +105,14 @@ fantasticは友人同士やカジュアルな場面で感情を込めて使い�
 
 ## 🧩 あわせて覚えたい
 
-- [amazing](/amazing)：驚くほど素晴らしい
-- [unbelievable](/unbelievable)：信じられないほどすごい
+- [amazing](/word/amazing)：驚くほど素晴らしい
+- [unbelievable](/word/unbelievable)：信じられないほどすごい
 
 ---
 
 ## 📖 できればこれも
 
-- [excellent](/excellent)：非常に優れた
-- [incredible](/incredible)：信じられないほど素晴らしい
+- [excellent](/word/excellent)：非常に優れた
+- [incredible](/word/incredible)：信じられないほど素晴らしい
 
 <!-- cvid: aid06_bid24 -->

@@ -97,7 +97,7 @@ TOEICではPart 7の長文やEメール文中で「出張」や「旅行」に�
 ## 🤔  trip との違いは？
 
 - **traveling**：移動や旅行という「行為」や「過程」全体を指す
-- **[trip](/trip)**：特定の「旅行」や「外出」という具体的な出来事を指す
+- **[trip](/word/trip)**：特定の「旅行」や「外出」という具体的な出来事を指す
 
 travelingは「移動すること」自体に焦点があり、tripは「旅行」という一回ごとの出来事に使います。
 
@@ -105,14 +105,14 @@ travelingは「移動すること」自体に焦点があり、tripは「旅行�
 
 ## 🧩 あわせて覚えたい
 
-- [journey](/journey)：長い旅、旅程
-- [commute](/commute)：通勤・通学
+- [journey](/word/journey)：長い旅、旅程
+- [commute](/word/commute)：通勤・通学
 
 ---
 
 ## 📖 できればこれも
 
-- [flight](/flight)：飛行機の便
-- [luggage](/luggage)：旅行かばん、荷物
+- [flight](/word/flight)：飛行機の便
+- [luggage](/word/luggage)：旅行かばん、荷物
 
 <!-- cvid: aid25_bid19 -->

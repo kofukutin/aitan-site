@@ -97,7 +97,7 @@ enableはTOEICのPart 5で「～を可能にする」という意味で頻出し
 ## 🤔  allow との違いは？
 
 - **enable**：積極的に「できる状態にする」「可能にする」
-- **[allow](/allow)**：単に「許可する」「妨げない」
+- **[allow](/word/allow)**：単に「許可する」「妨げない」
 
 enableは「新しい機能や仕組みが何かを可能にする」場合に使い、allowは「許可・容認」の意味で使い分けます。
 
@@ -105,14 +105,14 @@ enableは「新しい機能や仕組みが何かを可能にする」場合に�
 
 ## 🧩 あわせて覚えたい
 
-- [empower](/empower)：権限を与える、力を与える
-- [facilitate](/facilitate)：円滑に進める、促進する
+- [empower](/word/empower)：権限を与える、力を与える
+- [facilitate](/word/facilitate)：円滑に進める、促進する
 
 ---
 
 ## 📖 できればこれも
 
-- [activate](/activate)：作動させる、有効にする
-- [support](/support)：支援する、支える
+- [activate](/word/activate)：作動させる、有効にする
+- [support](/word/support)：支援する、支える
 
 <!-- cvid: aid13_bid03 -->

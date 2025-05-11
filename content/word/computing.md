@@ -97,7 +97,7 @@ ITやテクノロジー関連の記事や説明文で登場することが多い
 ## 🤔  calculation との違いは？
 
 - **computing**：コンピュータを使った情報処理や計算全般、またはその分野
-- **[calculation](/calculation)**：特定の計算や算出作業そのもの
+- **[calculation](/word/calculation)**：特定の計算や算出作業そのもの
 
 computingはITやテクノロジー分野全体を指すことが多く、calculationは「計算」という個々の作業を指します。
 
@@ -105,14 +105,14 @@ computingはITやテクノロジー分野全体を指すことが多く、calcul
 
 ## 🧩 あわせて覚えたい
 
-- [processing](/processing)：処理、加工
-- [hardware](/hardware)：ハードウェア、機器
+- [processing](/word/processing)：処理、加工
+- [hardware](/word/hardware)：ハードウェア、機器
 
 ---
 
 ## 📖 できればこれも
 
-- [software](/software)：ソフトウェア、プログラム
-- [network](/network)：ネットワーク、通信網
+- [software](/word/software)：ソフトウェア、プログラム
+- [network](/word/network)：ネットワーク、通信網
 
 <!-- cvid: aid05_bid44 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、動物や農場のシーンで登場
 ## 🤔  chicken との違いは？
 
 - **chick**：生まれたばかりのひよこや幼い鳥を指す
-- **[chicken](/chicken)**：成長したニワトリ全般や鶏肉を指す
+- **[chicken](/word/chicken)**：成長したニワトリ全般や鶏肉を指す
 
 chickは「ひよこ」、chickenは「成鳥」や「鶏肉」として使い分けます。
 
@@ -105,14 +105,14 @@ chickは「ひよこ」、chickenは「成鳥」や「鶏肉」として使い�
 
 ## 🧩 あわせて覚えたい
 
-- [duckling](/duckling)：アヒルのひな
-- [hen](/hen)：雌鶏
+- [duckling](/word/duckling)：アヒルのひな
+- [hen](/word/hen)：雌鶏
 
 ---
 
 ## 📖 できればこれも
 
-- [kitten](/kitten)：子猫
-- [puppy](/puppy)：子犬
+- [kitten](/word/kitten)：子猫
+- [puppy](/word/puppy)：子犬
 
 <!-- cvid: aid18_bid14 -->

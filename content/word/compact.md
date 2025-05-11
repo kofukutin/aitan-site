@@ -97,7 +97,7 @@ TOEICでは、製品説明や要約、効率性を強調する文脈で形容詞
 ## 🤔  concise との違いは？
 
 - **compact**：小型で無駄がなく、必要なものが詰まっている様子や簡潔さを表す。
-- **[concise](/concise)**：言葉や文章が簡潔で、余計な部分がないことを強調する。
+- **[concise](/word/concise)**：言葉や文章が簡潔で、余計な部分がないことを強調する。
 
 compactは物理的なサイズや内容の密度にも使えますが、conciseは主に言葉や文章の「簡潔さ」に限定されます。
 
@@ -105,14 +105,14 @@ compactは物理的なサイズや内容の密度にも使えますが、concise
 
 ## 🧩 あわせて覚えたい
 
-- [dense](/dense)：密集した、濃い
-- [bulky](/bulky)：かさばった、大きくて扱いにくい
+- [dense](/word/dense)：密集した、濃い
+- [bulky](/word/bulky)：かさばった、大きくて扱いにくい
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/efficient)：効率的な
-- [portable](/portable)：持ち運びできる
+- [efficient](/word/efficient)：効率的な
+- [portable](/word/portable)：持ち運びできる
 
 <!-- cvid: aid11_bid22 -->

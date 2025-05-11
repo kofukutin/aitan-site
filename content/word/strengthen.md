@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や会議の文脈で「強化する」「強め
 ## 🤔  reinforce との違いは？
 
 - **strengthen**：広く「強くする」「強化する」という意味で、物理的・抽象的な対象どちらにも使える。
-- **[reinforce](/reinforce)**：特に「補強する」「追加して強くする」というニュアンスが強く、物理的な補強や証拠・意見の補強などに使われやすい。
+- **[reinforce](/word/reinforce)**：特に「補強する」「追加して強くする」というニュアンスが強く、物理的な補強や証拠・意見の補強などに使われやすい。
 
 strengthenは全般的な強化、reinforceは「補助的にさらに強くする」イメージです。
 
@@ -105,14 +105,14 @@ strengthenは全般的な強化、reinforceは「補助的にさらに強くす�
 
 ## 🧩 あわせて覚えたい
 
-- [weaken](/weaken)：弱める、弱くする
-- [enhance](/enhance)：高める、向上させる
+- [weaken](/word/weaken)：弱める、弱くする
+- [enhance](/word/enhance)：高める、向上させる
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/improve)：改善する、良くする
-- [support](/support)：支える、支援する
+- [improve](/word/improve)：改善する、良くする
+- [support](/word/support)：支える、支援する
 
 <!-- cvid: aid05_bid12 -->

@@ -97,7 +97,7 @@ TOEICでは、電話会議やビデオ会議の案内、IT関連の説明文で�
 ## 🤔  meeting との違いは？
 
 - **conferencing**：遠隔地同士でIT機器を使って会議を行うこと
-- **[meeting](/meeting)**：対面・オンライン問わず、集まって話し合う一般的な会議
+- **[meeting](/word/meeting)**：対面・オンライン問わず、集まって話し合う一般的な会議
 
 conferencingは特に「オンライン」や「電話」など、物理的に離れた場所をつなぐ会議に使われる点がmeetingと異なります。
 
@@ -105,14 +105,14 @@ conferencingは特に「オンライン」や「電話」など、物理的に�
 
 ## 🧩 あわせて覚えたい
 
-- [webinar](/webinar)：ウェブ上で行うセミナー
-- [discussion](/discussion)：討論、話し合い
+- [webinar](/word/webinar)：ウェブ上で行うセミナー
+- [discussion](/word/discussion)：討論、話し合い
 
 ---
 
 ## 📖 できればこれも
 
-- [conference](/conference)：会議、大会
-- [presentation](/presentation)：発表、プレゼン
+- [conference](/word/conference)：会議、大会
+- [presentation](/word/presentation)：発表、プレゼン
 
 <!-- cvid: aid10_bid41 -->

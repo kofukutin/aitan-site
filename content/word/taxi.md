@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、交通手段や移動の場面
 ## 🤔  cab との違いは？
 
 - **taxi**：一般的・標準的な表現で、世界中で通じる。
-- **[cab](/cab)**：主にアメリカやイギリスで使われるややカジュアルな言い方。
+- **[cab](/word/cab)**：主にアメリカやイギリスで使われるややカジュアルな言い方。
 
 taxiはフォーマル・標準的、cabは口語的で親しみやすいニュアンスがあります。
 
@@ -105,14 +105,14 @@ taxiはフォーマル・標準的、cabは口語的で親しみやすいニュ�
 
 ## 🧩 あわせて覚えたい
 
-- [bus](/bus)：バス
-- [train](/train)：電車
+- [bus](/word/bus)：バス
+- [train](/word/train)：電車
 
 ---
 
 ## 📖 できればこれも
 
-- [airport](/airport)：空港
-- [station](/station)：駅
+- [airport](/word/airport)：空港
+- [station](/word/station)：駅
 
 <!-- cvid: aid16_bid28 -->

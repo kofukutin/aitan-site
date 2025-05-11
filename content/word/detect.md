@@ -97,7 +97,7 @@ TOEICではITやセキュリティ、品質管理などの文脈で「detect」�
 ## 🤔  discover との違いは？
 
 - **detect**：隠れていたり目立たないものを「検出する」「感知する」ニュアンス
-- **[discover](/discover)**：新しいものや未知のものを「発見する」ニュアンス
+- **[discover](/word/discover)**：新しいものや未知のものを「発見する」ニュアンス
 
 detectは機械や感覚で見つける場合が多く、discoverは知識や経験で新しい事実を見つける時に使います。
 
@@ -105,14 +105,14 @@ detectは機械や感覚で見つける場合が多く、discoverは知識や経
 
 ## 🧩 あわせて覚えたい
 
-- [identify](/identify)：特定する、識別する
-- [notice](/notice)：気づく、注意する
+- [identify](/word/identify)：特定する、識別する
+- [notice](/word/notice)：気づく、注意する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/analyze)：分析する
-- [monitor](/monitor)：監視する
+- [analyze](/word/analyze)：分析する
+- [monitor](/word/monitor)：監視する
 
 <!-- cvid: aid17_bid08 -->

@@ -97,7 +97,7 @@ The departure of the flight has been delayed.
 ## 🤔  leave との違いは？
 
 - **departure**：フォーマルで「出発」「離脱」という出来事や時刻を指す名詞
-- **[leave](/leave)**：動詞で「去る」「出発する」、または名詞で「休暇」など幅広い意味
+- **[leave](/word/leave)**：動詞で「去る」「出発する」、または名詞で「休暇」など幅広い意味
 
 departureは主に交通機関や公式な場面で使われ、leaveは日常的な「去る」動作や「休暇」を表します。
 
@@ -105,14 +105,14 @@ departureは主に交通機関や公式な場面で使われ、leaveは日常的
 
 ## 🧩 あわせて覚えたい
 
-- [arrival](/arrival)：到着
-- [exit](/exit)：出口、退場
+- [arrival](/word/arrival)：到着
+- [exit](/word/exit)：出口、退場
 
 ---
 
 ## 📖 できればこれも
 
-- [destination](/destination)：目的地
-- [schedule](/schedule)：予定、スケジュール
+- [destination](/word/destination)：目的地
+- [schedule](/word/schedule)：予定、スケジュール
 
 <!-- cvid: aid05_bid11 -->

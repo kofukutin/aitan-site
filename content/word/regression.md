@@ -97,7 +97,7 @@ TOEICでは主に科学的・ビジネス的な文脈で「回帰分析」や「
 ## 🤔  deterioration との違いは？
 
 - **regression**：以前の状態や悪い状態に「戻る」こと、または統計の「回帰」
-- **[deterioration](/deterioration)**：徐々に「悪化する」こと
+- **[deterioration](/word/deterioration)**：徐々に「悪化する」こと
 
 regressionは「元に戻る」ニュアンスが強く、deteriorationは単純な悪化や劣化を指します。
 
@@ -105,14 +105,14 @@ regressionは「元に戻る」ニュアンスが強く、deteriorationは単純
 
 ## 🧩 あわせて覚えたい
 
-- [progression](/progression)：進行、前進
-- [recession](/recession)：景気後退、不況
+- [progression](/word/progression)：進行、前進
+- [recession](/word/recession)：景気後退、不況
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/analysis)：分析
-- [correlation](/correlation)：相関関係
+- [analysis](/word/analysis)：分析
+- [correlation](/word/correlation)：相関関係
 
 <!-- cvid: aid34_bid07 -->

@@ -97,7 +97,7 @@ TOEICではビジネス文書や手紙の同封物を指す語として頻出し
 ## 🤔  attachment との違いは？
 
 - **enclosure**：手紙や書類に「同封」される物、または物理的に囲まれた場所
-- **[attachment](/attachment)**：メールなどに「添付」されるファイルや資料
+- **[attachment](/word/attachment)**：メールなどに「添付」されるファイルや資料
 
 enclosureは紙の手紙や物理的な同封物に使い、attachmentは主に電子メールの添付ファイルに使います。
 
@@ -105,14 +105,14 @@ enclosureは紙の手紙や物理的な同封物に使い、attachmentは主に�
 
 ## 🧩 あわせて覚えたい
 
-- [insert](/insert)：挿入物、差し込み
-- [container](/container)：容器、入れ物
+- [insert](/word/insert)：挿入物、差し込み
+- [container](/word/container)：容器、入れ物
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/document)：書類、文書
-- [package](/package)：小包、パッケージ
+- [document](/word/document)：書類、文書
+- [package](/word/package)：小包、パッケージ
 
 <!-- cvid: aid47_bid13 -->

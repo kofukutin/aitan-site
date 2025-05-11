@@ -97,7 +97,7 @@ TOEICでは「最終的な決定」「最終報告」など、ビジネス文書
 ## 🤔  ultimate との違いは？
 
 - **final**：順序や段階の「最後」、終わりの意味が強い
-- **[ultimate](/ultimate)**：最終的・究極的で「最高度」「根本的」な意味も含む
+- **[ultimate](/word/ultimate)**：最終的・究極的で「最高度」「根本的」な意味も含む
 
 「final」は単に順番の最後や終わりを指し、「ultimate」は最終段階でありつつ、究極・最高レベルのニュアンスも含みます。
 
@@ -105,14 +105,14 @@ TOEICでは「最終的な決定」「最終報告」など、ビジネス文書
 
 ## 🧩 あわせて覚えたい
 
-- [temporary](/temporary)：一時的な
-- [definite](/definite)：明確な、確定した
+- [temporary](/word/temporary)：一時的な
+- [definite](/word/definite)：明確な、確定した
 
 ---
 
 ## 📖 できればこれも
 
-- [initial](/initial)：最初の
-- [previous](/previous)：前の
+- [initial](/word/initial)：最初の
+- [previous](/word/previous)：前の
 
 <!-- cvid: aid49_bid07 -->

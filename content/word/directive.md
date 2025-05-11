@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や社内通知、公式なメール文など
 ## 🤔  instruction との違いは？
 
 - **directive**：上位者や組織から出される公式な「指令」や「命令」
-- **[instruction](/instruction)**：具体的な「手順」や「指示」、ややカジュアルで詳細な説明
+- **[instruction](/word/instruction)**：具体的な「手順」や「指示」、ややカジュアルで詳細な説明
 
 directiveは組織的・公式な命令に使われ、instructionは具体的なやり方や手順の説明に使われます。
 
@@ -105,14 +105,14 @@ directiveは組織的・公式な命令に使われ、instructionは具体的な
 
 ## 🧩 あわせて覚えたい
 
-- [order](/order)：命令、注文
-- [guideline](/guideline)：指針、ガイドライン
+- [order](/word/order)：命令、注文
+- [guideline](/word/guideline)：指針、ガイドライン
 
 ---
 
 ## 📖 できればこれも
 
-- [regulation](/regulation)：規則、規制
-- [policy](/policy)：方針、ポリシー
+- [regulation](/word/regulation)：規則、規制
+- [policy](/word/policy)：方針、ポリシー
 
 <!-- cvid: aid20_bid40 -->

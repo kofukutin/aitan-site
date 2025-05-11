@@ -97,7 +97,7 @@ TOEICでは保険やサービス内容の説明、ニュース記事などで「
 ## 🤔  insurance との違いは？
 
 - **coverage**：補償や報道など「範囲」「及ぶ部分」を強調
-- **[insurance](/insurance)**：保険そのもの、保険契約や制度を指す
+- **[insurance](/word/insurance)**：保険そのもの、保険契約や制度を指す
 
 coverageは「どこまで守られるか」「どこまで報道されるか」という範囲に焦点があり、insuranceは「保険」という仕組み自体を指します。
 
@@ -105,14 +105,14 @@ coverageは「どこまで守られるか」「どこまで報道されるか」
 
 ## 🧩 あわせて覚えたい
 
-- [protection](/protection)：保護、守ること
-- [policy](/policy)：保険証券、方針
+- [protection](/word/protection)：保護、守ること
+- [policy](/word/policy)：保険証券、方針
 
 ---
 
 ## 📖 できればこれも
 
-- [claim](/claim)：（保険の）請求
-- [benefit](/benefit)：給付、利益
+- [claim](/word/claim)：（保険の）請求
+- [benefit](/word/benefit)：給付、利益
 
 <!-- cvid: aid15_bid01 -->

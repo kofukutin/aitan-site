@@ -98,7 +98,7 @@ TOEICでは、文法や語彙の正確さを問う問題で頻出します。特
 ## 🤔  properly との違いは？
 
 - **correctly**：間違いなく正しい方法・答えで
-- **[properly](/properly)**：適切な方法・状況にふさわしく
+- **[properly](/word/properly)**：適切な方法・状況にふさわしく
 
 correctlyは「正解・正誤」に焦点があり、properlyは「状況に合った適切さ」に重点があります。
 
@@ -106,14 +106,14 @@ correctlyは「正解・正誤」に焦点があり、properlyは「状況に合
 
 ## 🧩 あわせて覚えたい
 
-- [accurately](/accurately)：正確に
-- [incorrectly](/incorrectly)：間違って
+- [accurately](/word/accurately)：正確に
+- [incorrectly](/word/incorrectly)：間違って
 
 ---
 
 ## 📖 できればこれも
 
-- [clearly](/clearly)：はっきりと
-- [quickly](/quickly)：素早く
+- [clearly](/word/clearly)：はっきりと
+- [quickly](/word/quickly)：素早く
 
 <!-- cvid: aid03_bid49 -->

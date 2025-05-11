@@ -97,7 +97,7 @@ honestはTOEICの語彙問題や人物の性格を問う文脈でよく出題さ
 ## 🤔  sincere との違いは？
 
 - **honest**：うそをつかず、事実や本音を率直に伝えることを強調。
-- **[sincere](/sincere)**：心からの気持ちや誠意がこもっていることを強調。
+- **[sincere](/word/sincere)**：心からの気持ちや誠意がこもっていることを強調。
 
 honestは「正直さ」、sincereは「心からの誠実さ」に重点があり、honestは事実を隠さない態度、sincereは気持ちや思いの純粋さを表します。
 
@@ -105,14 +105,14 @@ honestは「正直さ」、sincereは「心からの誠実さ」に重点があ�
 
 ## 🧩 あわせて覚えたい
 
-- [dishonest](/dishonest)：不正直な
-- [frank](/frank)：率直な
+- [dishonest](/word/dishonest)：不正直な
+- [frank](/word/frank)：率直な
 
 ---
 
 ## 📖 できればこれも
 
-- [polite](/polite)：礼儀正しい
-- [reliable](/reliable)：信頼できる
+- [polite](/word/polite)：礼儀正しい
+- [reliable](/word/reliable)：信頼できる
 
 <!-- cvid: aid20_bid02 -->

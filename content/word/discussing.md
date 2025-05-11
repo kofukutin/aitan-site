@@ -97,7 +97,7 @@ TOEICでは会議や打ち合わせの場面で「discussing」がよく登場�
 ## 🤔  talk との違いは？
 
 - **discussing**：特定のテーマについて詳しく話し合う、議論する
-- **[talk](/talk)**：一般的に話す、会話する
+- **[talk](/word/talk)**：一般的に話す、会話する
 
 discussingは「議題」や「問題」など具体的なテーマについて深く話し合う時に使い、talkはもっとカジュアルに「話す」全般に使います。
 
@@ -105,14 +105,14 @@ discussingは「議題」や「問題」など具体的なテーマについて�
 
 ## 🧩 あわせて覚えたい
 
-- [debate](/debate)：討論する、議論する
-- [negotiate](/negotiate)：交渉する
+- [debate](/word/debate)：討論する、議論する
+- [negotiate](/word/negotiate)：交渉する
 
 ---
 
 ## 📖 できればこれも
 
-- [explain](/explain)：説明する
-- [describe](/describe)：描写する、説明する
+- [explain](/word/explain)：説明する
+- [describe](/word/describe)：描写する、説明する
 
 <!-- cvid: aid03_bid39 -->

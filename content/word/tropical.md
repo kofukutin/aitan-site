@@ -97,7 +97,7 @@ tropicalはTOEICの長文読解（Part 7）で、気候や地域、観光、環�
 ## 🤔  subtropical との違いは？
 
 - **tropical**：熱帯の、赤道に近い高温多湿な地域を指す
-- **[subtropical](/subtropical)**：亜熱帯の、熱帯と温帯の間に位置するやや温暖な地域を指す
+- **[subtropical](/word/subtropical)**：亜熱帯の、熱帯と温帯の間に位置するやや温暖な地域を指す
 
 tropicalはより赤道に近い高温多湿な地域、subtropicalはその外側のやや温暖な地域を表します。
 
@@ -105,14 +105,14 @@ tropicalはより赤道に近い高温多湿な地域、subtropicalはその外�
 
 ## 🧩 あわせて覚えたい
 
-- [temperate](/temperate)：温帯の、温暖な
-- [humid](/humid)：湿度の高い、湿った
+- [temperate](/word/temperate)：温帯の、温暖な
+- [humid](/word/humid)：湿度の高い、湿った
 
 ---
 
 ## 📖 できればこれも
 
-- [rainforest](/rainforest)：熱帯雨林
-- [climate](/climate)：気候
+- [rainforest](/word/rainforest)：熱帯雨林
+- [climate](/word/climate)：気候
 
 <!-- cvid: aid25_bid13 -->

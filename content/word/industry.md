@@ -98,7 +98,7 @@ TOEICでは主にPart 7の長文やビジネス関連の会話で、業界や産
 ## 🤔  factory との違いは？
 
 - **industry**：経済活動としての「産業」や「業界」全体を指す
-- **[factory](/factory)**：製品を実際に作る「工場」という建物や場所
+- **[factory](/word/factory)**：製品を実際に作る「工場」という建物や場所
 
 industryは広い意味で経済分野や業界全体を指し、factoryは製造現場そのものを指します。
 
@@ -106,14 +106,14 @@ industryは広い意味で経済分野や業界全体を指し、factoryは製�
 
 ## 🧩 あわせて覚えたい
 
-- [company](/company)：会社、企業
-- [sector](/sector)：（経済の）部門、分野
+- [company](/word/company)：会社、企業
+- [sector](/word/sector)：（経済の）部門、分野
 
 ---
 
 ## 📖 できればこれも
 
-- [business](/business)：ビジネス、事業
-- [market](/market)：市場、マーケット
+- [business](/word/business)：ビジネス、事業
+- [market](/word/market)：市場、マーケット
 
 <!-- cvid: aid14_bid00 -->

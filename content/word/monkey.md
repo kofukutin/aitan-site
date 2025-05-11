@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、動物園や自然の写真に
 ## 🤔  ape との違いは？
 
 - **monkey**：しっぽのあるサル全般を指し、木登りやいたずら好きなイメージが強い。
-- **[ape](/ape)**：しっぽのない大型のサル（ゴリラ・チンパンジーなど）を指し、知能が高いイメージ。
+- **[ape](/word/ape)**：しっぽのない大型のサル（ゴリラ・チンパンジーなど）を指し、知能が高いイメージ。
 
 monkeyは一般的なサル、apeはしっぽがなく知能の高い大型サルを指すので、動物園や自然の話題で使い分けましょう。
 
@@ -105,14 +105,14 @@ monkeyは一般的なサル、apeはしっぽがなく知能の高い大型サ�
 
 ## 🧩 あわせて覚えたい
 
-- [baboon](/baboon)：ヒヒ（大型のサルの一種）
-- [chimpanzee](/chimpanzee)：チンパンジー（知能の高いサル）
+- [baboon](/word/baboon)：ヒヒ（大型のサルの一種）
+- [chimpanzee](/word/chimpanzee)：チンパンジー（知能の高いサル）
 
 ---
 
 ## 📖 できればこれも
 
-- [zebra](/zebra)：シマウマ
-- [elephant](/elephant)：ゾウ
+- [zebra](/word/zebra)：シマウマ
+- [elephant](/word/elephant)：ゾウ
 
 <!-- cvid: aid47_bid34 -->

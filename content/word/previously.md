@@ -96,7 +96,7 @@ TOEICのPart 7で、過去の出来事や手続きの説明、履歴書やビジ
 ## 🤔  before との違いは？
 
 - **previously**：過去のある時点より「以前に」「それより前に」という意味で、フォーマルな文脈で使われやすい。
-- **[before](/before)**：単純に「～の前に」「以前に」という意味で、口語・文語どちらでも幅広く使われる。
+- **[before](/word/before)**：単純に「～の前に」「以前に」という意味で、口語・文語どちらでも幅広く使われる。
 
 previouslyは特に書き言葉やビジネス文書で「過去のある時点より前」を強調したいときに使い、beforeはより一般的な表現です。
 
@@ -104,14 +104,14 @@ previouslyは特に書き言葉やビジネス文書で「過去のある時点�
 
 ## 🧩 あわせて覚えたい
 
-- [formerly](/formerly)：以前は、かつて
-- [recently](/recently)：最近
+- [formerly](/word/formerly)：以前は、かつて
+- [recently](/word/recently)：最近
 
 ---
 
 ## 📖 できればこれも
 
-- [currently](/currently)：現在は
-- [eventually](/eventually)：最終的に
+- [currently](/word/currently)：現在は
+- [eventually](/word/eventually)：最終的に
 
 <!-- cvid: aid21_bid26 -->

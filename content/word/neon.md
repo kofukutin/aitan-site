@@ -97,7 +97,7 @@ TOEICでは、都市や広告、科学に関する長文や説明文で「neon s
 ## 🤔  fluorescent との違いは？
 
 - **neon**：ネオンガスやネオンサインなど、明るくカラフルな光を出すものを指す。
-- **[fluorescent](/fluorescent)**：蛍光灯や蛍光色など、蛍光現象による明るい光を指す。
+- **[fluorescent](/word/fluorescent)**：蛍光灯や蛍光色など、蛍光現象による明るい光を指す。
 
 neonは主にガスやサインの光、fluorescentは蛍光灯や蛍光色など化学的な発光に使います。
 
@@ -105,14 +105,14 @@ neonは主にガスやサインの光、fluorescentは蛍光灯や蛍光色な�
 
 ## 🧩 あわせて覚えたい
 
-- [argon](/argon)：アルゴン（化学元素、ネオンと同じ希ガス）
-- [sign](/sign)：看板、標識
+- [argon](/word/argon)：アルゴン（化学元素、ネオンと同じ希ガス）
+- [sign](/word/sign)：看板、標識
 
 ---
 
 ## 📖 できればこれも
 
-- [laser](/laser)：レーザー（強い光線を出す装置）
-- [lamp](/lamp)：ランプ、照明器具
+- [laser](/word/laser)：レーザー（強い光線を出す装置）
+- [lamp](/word/lamp)：ランプ、照明器具
 
 <!-- cvid: aid24_bid17 -->

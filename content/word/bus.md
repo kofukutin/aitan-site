@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、バス停やバスに乗る場
 ## 🤔  coach との違いは？
 
 - **bus**：都市や町の中を走る一般的なバス
-- **[coach](/coach)**：長距離移動用の大型バス
+- **[coach](/word/coach)**：長距離移動用の大型バス
 
 busは短距離・市内移動用、coachは長距離や観光用で使われることが多いです。
 
@@ -105,14 +105,14 @@ busは短距離・市内移動用、coachは長距離や観光用で使われる
 
 ## 🧩 あわせて覚えたい
 
-- [train](/train)：電車
-- [taxi](/taxi)：タクシー
+- [train](/word/train)：電車
+- [taxi](/word/taxi)：タクシー
 
 ---
 
 ## 📖 できればこれも
 
-- [station](/station)：駅
-- [route](/route)：路線
+- [station](/word/station)：駅
+- [route](/word/route)：路線
 
 <!-- cvid: aid47_bid16 -->

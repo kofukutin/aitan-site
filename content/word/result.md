@@ -97,7 +97,7 @@ TOEICでは「結果」「成績」「成果」などの意味で頻出し、特
 ## 🤔  outcome との違いは？
 
 - **result**：一般的な「結果」や「成績」を幅広く指す
-- **[outcome](/outcome)**：特定のプロセスや出来事の「最終的な結末・成果」を強調
+- **[outcome](/word/outcome)**：特定のプロセスや出来事の「最終的な結末・成果」を強調
 
 「result」は日常的な結果全般に使えますが、「outcome」は特にプロセスや議論の末に得られる最終的な結論や成果に使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは「結果」「成績」「成果」などの意味で頻出し、特
 
 ## 🧩 あわせて覚えたい
 
-- [consequence](/consequence)：（主に悪い）結果、影響
-- [effect](/effect)：効果、影響
+- [consequence](/word/consequence)：（主に悪い）結果、影響
+- [effect](/word/effect)：効果、影響
 
 ---
 
 ## 📖 できればこれも
 
-- [cause](/cause)：原因
-- [factor](/factor)：要因
+- [cause](/word/cause)：原因
+- [factor](/word/factor)：要因
 
 <!-- cvid: aid37_bid40 -->

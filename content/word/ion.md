@@ -97,7 +97,7 @@ TOEICでは科学や技術系の説明文で登場することがあり、特に
 ## 🤔  atom との違いは？
 
 - **ion**：電荷を持つ原子や分子
-- **[atom](/atom)**：物質を構成する最小単位で、電荷を持たないことが多い
+- **[atom](/word/atom)**：物質を構成する最小単位で、電荷を持たないことが多い
 
 ionは電気的な性質を持つ粒子、atomは中性の基本粒子という違いがあります。
 
@@ -105,14 +105,14 @@ ionは電気的な性質を持つ粒子、atomは中性の基本粒子という�
 
 ## 🧩 あわせて覚えたい
 
-- [molecule](/molecule)：分子（複数の原子が結合した粒子）
-- [electron](/electron)：電子（原子を構成する微粒子）
+- [molecule](/word/molecule)：分子（複数の原子が結合した粒子）
+- [electron](/word/electron)：電子（原子を構成する微粒子）
 
 ---
 
 ## 📖 できればこれも
 
-- [compound](/compound)：化合物（2種類以上の元素が結合した物質）
-- [element](/element)：元素（物質を構成する基本的な成分）
+- [compound](/word/compound)：化合物（2種類以上の元素が結合した物質）
+- [element](/word/element)：元素（物質を構成する基本的な成分）
 
 <!-- cvid: aid28_bid05 -->

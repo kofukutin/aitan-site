@@ -98,7 +98,7 @@ aloneは会話文や説明文で「ひとりで」「単独で」という意味
 ## 🤔  lonely との違いは？
 
 - **alone**：物理的に「ひとりで」「単独で」いることを表す
-- **[lonely](/lonely)**：ひとりでいることによる「寂しさ」「孤独感」を表す
+- **[lonely](/word/lonely)**：ひとりでいることによる「寂しさ」「孤独感」を表す
 
 aloneは事実としての「ひとり」、lonelyは感情的な「寂しさ」を強調します。
 
@@ -106,14 +106,14 @@ aloneは事実としての「ひとり」、lonelyは感情的な「寂しさ」
 
 ## 🧩 あわせて覚えたい
 
-- [independent](/independent)：自立した
-- [single](/single)：独身の、ひとつの
+- [independent](/word/independent)：自立した
+- [single](/word/single)：独身の、ひとつの
 
 ---
 
 ## 📖 できればこれも
 
-- [together](/together)：一緒に
-- [apart](/apart)：離れて
+- [together](/word/together)：一緒に
+- [apart](/word/apart)：離れて
 
 <!-- cvid: aid09_bid38 -->

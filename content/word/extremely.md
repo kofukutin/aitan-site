@@ -97,7 +97,7 @@ TOEICでは、形容詞や他の副詞を強調する目的でよく出題され
 ## 🤔  highly との違いは？
 
 - **extremely**：程度が非常に高いことを強く強調する副詞。感情や状況の強さを表すときによく使う。
-- **[highly](/highly)**：評価や価値、能力などを高く評価するニュアンスで使う副詞。
+- **[highly](/word/highly)**：評価や価値、能力などを高く評価するニュアンスで使う副詞。
 
 extremelyは「極端に」「非常に」と強調したいときに使い、highlyは「高く評価されている」など評価や価値を表すときに使います。
 
@@ -105,14 +105,14 @@ extremelyは「極端に」「非常に」と強調したいときに使い、hi
 
 ## 🧩 あわせて覚えたい
 
-- [very](/very)：とても（程度を表す一般的な副詞）
-- [utterly](/utterly)：まったく、完全に（否定的な意味で使われやすい）
+- [very](/word/very)：とても（程度を表す一般的な副詞）
+- [utterly](/word/utterly)：まったく、完全に（否定的な意味で使われやすい）
 
 ---
 
 ## 📖 できればこれも
 
-- [absolutely](/absolutely)：絶対に、完全に
-- [particularly](/particularly)：特に、とりわけ
+- [absolutely](/word/absolutely)：絶対に、完全に
+- [particularly](/word/particularly)：特に、とりわけ
 
 <!-- cvid: aid41_bid00 -->

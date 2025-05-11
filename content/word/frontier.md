@@ -97,7 +97,7 @@ frontierはTOEICの長文読解や説明文で、比喩的に「最先端分野�
 ## 🤔  border との違いは？
 
 - **frontier**：国境や未開拓分野、最先端という抽象的な意味も持つ
-- **[border](/border)**：物理的な境界線や国境を指す
+- **[border](/word/border)**：物理的な境界線や国境を指す
 
 frontierは「新しい挑戦の場」や「最先端」の意味で使われることが多く、borderは単に「線」や「境界」を表します。
 
@@ -105,14 +105,14 @@ frontierは「新しい挑戦の場」や「最先端」の意味で使われる
 
 ## 🧩 あわせて覚えたい
 
-- [boundary](/boundary)：境界、限界
-- [limit](/limit)：限界、制限
+- [boundary](/word/boundary)：境界、限界
+- [limit](/word/limit)：限界、制限
 
 ---
 
 ## 📖 できればこれも
 
-- [territory](/territory)：領土、領域
-- [region](/region)：地域、地方
+- [territory](/word/territory)：領土、領域
+- [region](/word/region)：地域、地方
 
 <!-- cvid: aid36_bid06 -->

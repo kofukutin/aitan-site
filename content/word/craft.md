@@ -97,7 +97,7 @@ TOEICでは、職人技や手工芸、専門的な技術に関連する文脈で
 ## 🤔  skill との違いは？
 
 - **craft**：特に手作業や伝統的な職人技、手工芸の技術を指す
-- **[skill](/skill)**：一般的な能力や技術、専門知識全般を指す
+- **[skill](/word/skill)**：一般的な能力や技術、専門知識全般を指す
 
 craftは「手作業や伝統的な技術」に焦点があり、skillはより広く「能力」全般を表します。
 
@@ -105,14 +105,14 @@ craftは「手作業や伝統的な技術」に焦点があり、skillはより�
 
 ## 🧩 あわせて覚えたい
 
-- [artisan](/artisan)：職人、熟練工
-- [manufacture](/manufacture)：製造、製作
+- [artisan](/word/artisan)：職人、熟練工
+- [manufacture](/word/manufacture)：製造、製作
 
 ---
 
 ## 📖 できればこれも
 
-- [design](/design)：設計、デザイン
-- [tool](/tool)：道具、ツール
+- [design](/word/design)：設計、デザイン
+- [tool](/word/tool)：道具、ツール
 
 <!-- cvid: aid09_bid07 -->

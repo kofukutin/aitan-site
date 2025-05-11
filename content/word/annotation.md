@@ -97,7 +97,7 @@ TOEICではITやビジネス文書、マニュアルの説明部分で「annotat
 ## 🤔  comment との違いは？
 
 - **annotation**：主に専門的な文書や図表に付ける説明的な「注釈」
-- **[comment](/comment)**：意見や感想など幅広い「コメント」
+- **[comment](/word/comment)**：意見や感想など幅広い「コメント」
 
 annotationは客観的な説明や補足に使われ、commentは主観的な意見や感想に使われることが多いです。
 
@@ -105,14 +105,14 @@ annotationは客観的な説明や補足に使われ、commentは主観的な意
 
 ## 🧩 あわせて覚えたい
 
-- [remark](/remark)：発言、意見
-- [note](/note)：メモ、覚え書き
+- [remark](/word/remark)：発言、意見
+- [note](/word/note)：メモ、覚え書き
 
 ---
 
 ## 📖 できればこれも
 
-- [instruction](/instruction)：指示、説明
-- [description](/description)：記述、説明
+- [instruction](/word/instruction)：指示、説明
+- [description](/word/description)：記述、説明
 
 <!-- cvid: aid14_bid29 -->

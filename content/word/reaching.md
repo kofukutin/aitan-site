@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「到達する」「手を伸ばす」などの
 ## 🤔  approaching との違いは？
 
 - **reaching**：物理的・比喩的に「到達する」「手を伸ばす」動作や状態を表す。
-- **[approaching](/approaching)**：何かに「近づく」「接近する」ことを表す。
+- **[approaching](/word/approaching)**：何かに「近づく」「接近する」ことを表す。
 
 reachingは「目標や物に実際に届く」ニュアンス、approachingは「まだ到達していないが近づいている」ニュアンスです。
 
@@ -105,14 +105,14 @@ reachingは「目標や物に実際に届く」ニュアンス、approachingは�
 
 ## 🧩 あわせて覚えたい
 
-- [contact](/contact)：連絡する、接触する
-- [achieve](/achieve)：達成する
+- [contact](/word/contact)：連絡する、接触する
+- [achieve](/word/achieve)：達成する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrive](/arrive)：到着する
-- [extend](/extend)：伸ばす、広げる
+- [arrive](/word/arrive)：到着する
+- [extend](/word/extend)：伸ばす、広げる
 
 <!-- cvid: aid12_bid48 -->

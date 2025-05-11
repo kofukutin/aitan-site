@@ -97,7 +97,7 @@ TOEICでは「rare opportunity（めったにない機会）」や「rarely（�
 ## 🤔  unusual との違いは？
 
 - **rare**：めったに起こらない、数が少ない
-- **[unusual](/unusual)**：普通でない、変わっている
+- **[unusual](/word/unusual)**：普通でない、変わっている
 
 **rare**は「頻度が低い」「希少」という意味が強く、**unusual**は「普通とは違う」「変わっている」というニュアンスが中心です。
 
@@ -105,14 +105,14 @@ TOEICでは「rare opportunity（めったにない機会）」や「rarely（�
 
 ## 🧩 あわせて覚えたい
 
-- [common](/common)：一般的な、よくある
-- [unique](/unique)：唯一の、独特な
+- [common](/word/common)：一般的な、よくある
+- [unique](/word/unique)：唯一の、独特な
 
 ---
 
 ## 📖 できればこれも
 
-- [frequent](/frequent)：頻繁な
-- [typical](/typical)：典型的な
+- [frequent](/word/frequent)：頻繁な
+- [typical](/word/typical)：典型的な
 
 <!-- cvid: aid28_bid02 -->

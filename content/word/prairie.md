@@ -97,7 +97,7 @@ TOEICでは環境や地理に関する長文や説明文で登場することが
 ## 🤔  grassland との違いは？
 
 - **prairie**：特に北アメリカの広大な天然草原を指す。
-- **[grassland](/grassland)**：世界中の草地全般を指し、地域や気候を問わない。
+- **[grassland](/word/grassland)**：世界中の草地全般を指し、地域や気候を問わない。
 
 prairieは北米特有の大草原を指し、grasslandはより広い意味で使われます。
 
@@ -105,14 +105,14 @@ prairieは北米特有の大草原を指し、grasslandはより広い意味で�
 
 ## 🧩 あわせて覚えたい
 
-- [savanna](/savanna)：サバンナ（熱帯・亜熱帯の草原）
-- [meadow](/meadow)：草地、牧草地
+- [savanna](/word/savanna)：サバンナ（熱帯・亜熱帯の草原）
+- [meadow](/word/meadow)：草地、牧草地
 
 ---
 
 ## 📖 できればこれも
 
-- [forest](/forest)：森林
-- [valley](/valley)：谷、渓谷
+- [forest](/word/forest)：森林
+- [valley](/word/valley)：谷、渓谷
 
 <!-- cvid: aid00_bid22 -->

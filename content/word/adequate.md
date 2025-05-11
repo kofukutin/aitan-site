@@ -97,7 +97,7 @@ TOEICでは「十分な」「適切な」という意味で、品質や数量、
 ## 🤔  sufficient との違いは？
 
 - **adequate**：必要最低限は満たしている、まあまあ十分
-- **[sufficient](/sufficient)**：必要条件を完全に満たす、十分
+- **[sufficient](/word/sufficient)**：必要条件を完全に満たす、十分
 
 adequateは「最低限OK」というニュアンスで、sufficientは「完全に十分」という強さがあります。
 
@@ -105,14 +105,14 @@ adequateは「最低限OK」というニュアンスで、sufficientは「完全
 
 ## 🧩 あわせて覚えたい
 
-- [insufficient](/insufficient)：不十分な
-- [appropriate](/appropriate)：適切な
+- [insufficient](/word/insufficient)：不十分な
+- [appropriate](/word/appropriate)：適切な
 
 ---
 
 ## 📖 できればこれも
 
-- [relevant](/relevant)：関連がある
-- [efficient](/efficient)：効率的な
+- [relevant](/word/relevant)：関連がある
+- [efficient](/word/efficient)：効率的な
 
 <!-- cvid: aid30_bid33 -->

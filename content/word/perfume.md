@@ -97,7 +97,7 @@ TOEICでは、商品説明や広告、ホテルのアメニティ紹介などで
 ## 🤔  fragrance との違いは？
 
 - **perfume**：主に「香水」や人工的に作られたよい香りを指す。
-- **[fragrance](/fragrance)**：自然な花や果物などの「芳香」「香り」を広く指す。
+- **[fragrance](/word/fragrance)**：自然な花や果物などの「芳香」「香り」を広く指す。
 
 perfumeは身につける香水や製品の香りに使われ、fragranceは自然な香りや全般的なよい香りに使われます。
 
@@ -105,14 +105,14 @@ perfumeは身につける香水や製品の香りに使われ、fragranceは自�
 
 ## 🧩 あわせて覚えたい
 
-- [scent](/scent)：（よい）香り、におい
-- [odor](/odor)：（しばしば不快な）におい
+- [scent](/word/scent)：（よい）香り、におい
+- [odor](/word/odor)：（しばしば不快な）におい
 
 ---
 
 ## 📖 できればこれも
 
-- [cosmetic](/cosmetic)：化粧品
-- [aroma](/aroma)：芳香、よい香り
+- [cosmetic](/word/cosmetic)：化粧品
+- [aroma](/word/aroma)：芳香、よい香り
 
 <!-- cvid: aid17_bid47 -->

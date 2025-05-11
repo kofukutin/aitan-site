@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や契約関連の長文で登場し、建設
 ## 🤔  construction との違いは？
 
 - **contracting**：契約すること、請負うこと、または請負業そのもの
-- **[construction](/construction)**：建設、建築という「物理的な作業」や「建物そのもの」
+- **[construction](/word/construction)**：建設、建築という「物理的な作業」や「建物そのもの」
 
 contractingは「契約」や「請負業務」に焦点があり、constructionは「建設作業」や「建物」に焦点があります。
 
@@ -105,14 +105,14 @@ contractingは「契約」や「請負業務」に焦点があり、construction
 
 ## 🧩 あわせて覚えたい
 
-- [expand](/expand)：拡大する、広げる
-- [agreement](/agreement)：合意、契約
+- [expand](/word/expand)：拡大する、広げる
+- [agreement](/word/agreement)：合意、契約
 
 ---
 
 ## 📖 できればこれも
 
-- [negotiate](/negotiate)：交渉する
-- [sign](/sign)：署名する、契約する
+- [negotiate](/word/negotiate)：交渉する
+- [sign](/word/sign)：署名する、契約する
 
 <!-- cvid: aid05_bid46 -->

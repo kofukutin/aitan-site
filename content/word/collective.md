@@ -98,7 +98,7 @@ collectiveはTOEICの長文読解パートで、組織やチームの方針、�
 ## 🤔  corporate との違いは？
 
 - **collective**：集団やグループ全体の行動や意見を強調する語。
-- **[corporate](/corporate)**：企業や法人に関する、会社組織としての性質を表す語。
+- **[corporate](/word/corporate)**：企業や法人に関する、会社組織としての性質を表す語。
 
 collectiveは「みんなで」「共同で」というニュアンスが強く、corporateは「会社として」「法人として」の意味合いが中心です。
 
@@ -106,14 +106,14 @@ collectiveは「みんなで」「共同で」というニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [individual](/individual)：個人の、個々の
-- [collaborative](/collaborative)：協力的な、共同の
+- [individual](/word/individual)：個人の、個々の
+- [collaborative](/word/collaborative)：協力的な、共同の
 
 ---
 
 ## 📖 できればこれも
 
-- [joint](/joint)：共同の、連携した
-- [mutual](/mutual)：相互の、共通の
+- [joint](/word/joint)：共同の、連携した
+- [mutual](/word/mutual)：相互の、共通の
 
 <!-- cvid: aid29_bid17 -->

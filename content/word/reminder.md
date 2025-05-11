@@ -96,7 +96,7 @@ TOEICではメールや通知文、社内連絡などで「reminder」が頻出�
 ## 🤔  notice との違いは？
 
 - **reminder**：何かを思い出させるための通知やメモ
-- **[notice](/notice)**：公式な通知や掲示、注意書き
+- **[notice](/word/notice)**：公式な通知や掲示、注意書き
 
 「reminder」は個人的・補助的な「思い出し用の通知」に使い、「notice」は公式な告知や注意喚起に使います。
 
@@ -104,14 +104,14 @@ TOEICではメールや通知文、社内連絡などで「reminder」が頻出�
 
 ## 🧩 あわせて覚えたい
 
-- [alert](/alert)：警告、注意喚起
-- [notification](/notification)：通知、お知らせ
+- [alert](/word/alert)：警告、注意喚起
+- [notification](/word/notification)：通知、お知らせ
 
 ---
 
 ## 📖 できればこれも
 
-- [appointment](/appointment)：予約、約束
-- [memo](/memo)：メモ、覚え書き
+- [appointment](/word/appointment)：予約、約束
+- [memo](/word/memo)：メモ、覚え書き
 
 <!-- cvid: aid26_bid36 -->

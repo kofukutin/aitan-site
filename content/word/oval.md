@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で、物の形状を説明する際に出
 ## 🤔  ellipse との違いは？
 
 - **oval**：卵形や楕円形を指し、日常的な形の説明に幅広く使える。
-- **[ellipse](/ellipse)**：数学的な「楕円」を指し、より専門的・厳密な形状に使われる。
+- **[ellipse](/word/ellipse)**：数学的な「楕円」を指し、より専門的・厳密な形状に使われる。
 
 ovalは一般的な形の説明に使われ、ellipseは数学や図形の分野で使われることが多いです。
 
@@ -106,14 +106,14 @@ ovalは一般的な形の説明に使われ、ellipseは数学や図形の分野
 
 ## 🧩 あわせて覚えたい
 
-- [circle](/circle)：円
-- [sphere](/sphere)：球体
+- [circle](/word/circle)：円
+- [sphere](/word/sphere)：球体
 
 ---
 
 ## 📖 できればこれも
 
-- [round](/round)：丸い
-- [rectangular](/rectangular)：長方形の
+- [round](/word/round)：丸い
+- [rectangular](/word/rectangular)：長方形の
 
 <!-- cvid: aid38_bid11 -->

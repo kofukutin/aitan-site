@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「要するに」「基本的には」とまと
 ## 🤔  essentially との違いは？
 
 - **basically**：大まかに言うと、ざっくりとした説明や要点を述べるときに使う
-- **[essentially](/essentially)**：本質的に、根本的な性質や特徴を強調したいときに使う
+- **[essentially](/word/essentially)**：本質的に、根本的な性質や特徴を強調したいときに使う
 
 basicallyは「ざっくりまとめる」ニュアンス、essentiallyは「本質や根本」を強調する点が異なります。
 
@@ -105,14 +105,14 @@ basicallyは「ざっくりまとめる」ニュアンス、essentiallyは「本
 
 ## 🧩 あわせて覚えたい
 
-- [fundamentally](/fundamentally)：根本的に
-- [simply](/simply)：単純に
+- [fundamentally](/word/fundamentally)：根本的に
+- [simply](/word/simply)：単純に
 
 ---
 
 ## 📖 できればこれも
 
-- [actually](/actually)：実は、実際に
-- [generally](/generally)：一般的に
+- [actually](/word/actually)：実は、実際に
+- [generally](/word/generally)：一般的に
 
 <!-- cvid: aid31_bid34 -->

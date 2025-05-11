@@ -97,7 +97,7 @@ tunaはTOEICのレストランや食事、観光に関する長文で登場す�
 ## 🤔  salmon との違いは？
 
 - **tuna**：マグロ。赤身で味が濃く、寿司や刺身、缶詰などで使われる。
-- **[salmon](/salmon)**：サケ。オレンジ色の身で、焼き魚や寿司、スモークサーモンなどに使われる。
+- **[salmon](/word/salmon)**：サケ。オレンジ色の身で、焼き魚や寿司、スモークサーモンなどに使われる。
 
 tunaは赤身の大型魚、salmonは脂ののったオレンジ色の魚で、料理や味わいが異なります。
 
@@ -105,14 +105,14 @@ tunaは赤身の大型魚、salmonは脂ののったオレンジ色の魚で、�
 
 ## 🧩 あわせて覚えたい
 
-- [sardine](/sardine)：イワシ
-- [shrimp](/shrimp)：エビ
+- [sardine](/word/sardine)：イワシ
+- [shrimp](/word/shrimp)：エビ
 
 ---
 
 ## 📖 できればこれも
 
-- [crab](/crab)：カニ
-- [octopus](/octopus)：タコ
+- [crab](/word/crab)：カニ
+- [octopus](/word/octopus)：タコ
 
 <!-- cvid: aid24_bid33 -->

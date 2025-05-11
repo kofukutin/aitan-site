@@ -105,14 +105,14 @@ nightmareは現実のつらい体験にも使えるが、bad dreamは睡眠中�
 
 ## 🧩 あわせて覚えたい
 
-- [terror](/terror)：強い恐怖
-- [fantasy](/fantasy)：空想、幻想
+- [terror](/word/terror)：強い恐怖
+- [fantasy](/word/fantasy)：空想、幻想
 
 ---
 
 ## 📖 できればこれも
 
-- [dream](/dream)：夢
-- [fear](/fear)：恐れ、不安
+- [dream](/word/dream)：夢
+- [fear](/word/fear)：恐れ、不安
 
 <!-- cvid: aid04_bid43 -->

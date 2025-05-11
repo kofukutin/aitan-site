@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人物が歯を見せている場面
 ## 🤔  teeth との違いは？
 
 - **tooth**：1本の歯を指す単数形
-- **[teeth](/teeth)**：2本以上の歯を指す複数形
+- **[teeth](/word/teeth)**：2本以上の歯を指す複数形
 
 toothは1本だけの歯、teethは複数本の歯を表します。文脈に応じて使い分けましょう。
 
@@ -105,14 +105,14 @@ toothは1本だけの歯、teethは複数本の歯を表します。文脈に応
 
 ## 🧩 あわせて覚えたい
 
-- [gum](/gum)：歯ぐき
-- [dentist](/dentist)：歯科医
+- [gum](/word/gum)：歯ぐき
+- [dentist](/word/dentist)：歯科医
 
 ---
 
 ## 📖 できればこれも
 
-- [mouth](/mouth)：口
-- [brush](/brush)：ブラシ、磨く
+- [mouth](/word/mouth)：口
+- [brush](/word/brush)：ブラシ、磨く
 
 <!-- cvid: aid34_bid05 -->

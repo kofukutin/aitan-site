@@ -97,7 +97,7 @@ TOEICでは、案内文やイベント情報、ビジネス記事などで「sym
 ## 🤔  conference との違いは？
 
 - **symposium**：特定のテーマについて専門家が発表・討論する公開会合
-- **[conference](/conference)**：より広範な議題や目的で行われる大規模な会議
+- **[conference](/word/conference)**：より広範な議題や目的で行われる大規模な会議
 
 symposiumは討論や発表が中心で、conferenceは複数のセッションや議題を含む大規模な会議を指すことが多いです。
 
@@ -105,14 +105,14 @@ symposiumは討論や発表が中心で、conferenceは複数のセッション�
 
 ## 🧩 あわせて覚えたい
 
-- [seminar](/seminar)：少人数で行う講義や研究会
-- [workshop](/workshop)：実践的な作業や体験を重視した研修会
+- [seminar](/word/seminar)：少人数で行う講義や研究会
+- [workshop](/word/workshop)：実践的な作業や体験を重視した研修会
 
 ---
 
 ## 📖 できればこれも
 
-- [forum](/forum)：公開討論会、意見交換の場
-- [panel](/panel)：討論会、または討論する人々のグループ
+- [forum](/word/forum)：公開討論会、意見交換の場
+- [panel](/word/panel)：討論会、または討論する人々のグループ
 
 <!-- cvid: aid46_bid10 -->

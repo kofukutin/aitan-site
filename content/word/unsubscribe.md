@@ -97,7 +97,7 @@ TOEICでは主にメールやウェブサービスの案内文、利用規約な
 ## 🤔  cancel との違いは？
 
 - **unsubscribe**：主にメール配信やサービス登録の「解除」を意味する
-- **[cancel](/cancel)**：予約や注文、予定など「取り消す」全般に使う
+- **[cancel](/word/cancel)**：予約や注文、予定など「取り消す」全般に使う
 
 unsubscribeは「配信や登録をやめる」ことに特化し、cancelはより広い「取り消し」に使います。
 
@@ -105,14 +105,14 @@ unsubscribeは「配信や登録をやめる」ことに特化し、cancelはよ
 
 ## 🧩 あわせて覚えたい
 
-- [subscribe](/subscribe)：登録する、購読する
-- [register](/register)：登録する、記録する
+- [subscribe](/word/subscribe)：登録する、購読する
+- [register](/word/register)：登録する、記録する
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/update)：更新する
-- [remove](/remove)：削除する
+- [update](/word/update)：更新する
+- [remove](/word/remove)：削除する
 
 <!-- cvid: aid37_bid33 -->

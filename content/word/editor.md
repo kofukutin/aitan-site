@@ -97,7 +97,7 @@ TOEICでは、記事や出版物、社内報などの文脈で「editor」が登
 ## 🤔  publisher との違いは？
 
 - **editor**：内容を編集・管理する人
-- **[publisher](/publisher)**：出版や発行を担当する会社や人
+- **[publisher](/word/publisher)**：出版や発行を担当する会社や人
 
 editorは文章や記事の内容を整える役割、publisherは本や雑誌を実際に世に出す役割です。
 
@@ -105,14 +105,14 @@ editorは文章や記事の内容を整える役割、publisherは本や雑誌�
 
 ## 🧩 あわせて覚えたい
 
-- [author](/author)：著者、書き手
-- [reviewer](/reviewer)：査読者、批評家
+- [author](/word/author)：著者、書き手
+- [reviewer](/word/reviewer)：査読者、批評家
 
 ---
 
 ## 📖 できればこれも
 
-- [edit](/edit)：編集する
-- [edition](/edition)：版、エディション
+- [edit](/word/edit)：編集する
+- [edition](/word/edition)：版、エディション
 
 <!-- cvid: aid42_bid07 -->

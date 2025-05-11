@@ -97,7 +97,7 @@ TOEICではPart 5を中心に、ビジネス文書や会議の文脈で「改善
 ## 🤔  progress との違いは？
 
 - **improvement**：何かが「より良くなること」「改善・改良」を強調
-- **[progress](/progress)**：物事が「前進・進行」すること自体を強調
+- **[progress](/word/progress)**：物事が「前進・進行」すること自体を強調
 
 improvementは「質が良くなる」点に重点があり、progressは「進み続ける」ことに重点があります。
 
@@ -105,14 +105,14 @@ improvementは「質が良くなる」点に重点があり、progressは「進�
 
 ## 🧩 あわせて覚えたい
 
-- [development](/development)：発展、開発
-- [enhancement](/enhancement)：強化、向上
+- [development](/word/development)：発展、開発
+- [enhancement](/word/enhancement)：強化、向上
 
 ---
 
 ## 📖 できればこれも
 
-- [increase](/increase)：増加、増える
-- [growth](/growth)：成長、増大
+- [increase](/word/increase)：増加、増える
+- [growth](/word/growth)：成長、増大
 
 <!-- cvid: aid28_bid21 -->

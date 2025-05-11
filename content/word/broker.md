@@ -97,7 +97,7 @@ TOEICでは主に金融や不動産、ビジネス取引に関する長文やE�
 ## 🤔  agent との違いは？
 
 - **broker**：売り手と買い手の間に立ち、取引を仲介する人や会社
-- **[agent](/agent)**：代理人として誰かのために行動する人
+- **[agent](/word/agent)**：代理人として誰かのために行動する人
 
 brokerは「取引の仲介役」、agentは「依頼人の代理人」としての役割が強い点が異なります。
 
@@ -105,14 +105,14 @@ brokerは「取引の仲介役」、agentは「依頼人の代理人」として
 
 ## 🧩 あわせて覚えたい
 
-- [dealer](/dealer)：販売業者、ディーラー
-- [intermediary](/intermediary)：仲介者、媒介者
+- [dealer](/word/dealer)：販売業者、ディーラー
+- [intermediary](/word/intermediary)：仲介者、媒介者
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/client)：顧客、依頼人
-- [transaction](/transaction)：取引、商談
+- [client](/word/client)：顧客、依頼人
+- [transaction](/word/transaction)：取引、商談
 
 <!-- cvid: aid36_bid29 -->

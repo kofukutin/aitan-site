@@ -97,7 +97,7 @@ TOEICでは、劇やテレビ番組、イベント紹介などの文脈で登場
 ## 🤔  play との違いは？
 
 - **drama**：物語性や感情の起伏が強い「劇」や「ドラマ」を指す。
-- **[play](/play)**：舞台で上演される「劇」全般や、子どもが遊ぶ「遊び」も意味する。
+- **[play](/word/play)**：舞台で上演される「劇」全般や、子どもが遊ぶ「遊び」も意味する。
 
 dramaは特に感情やストーリー性を重視した劇に使われ、playはより広く演劇や遊び全般に使われます。
 
@@ -105,14 +105,14 @@ dramaは特に感情やストーリー性を重視した劇に使われ、play�
 
 ## 🧩 あわせて覚えたい
 
-- [comedy](/comedy)：喜劇
-- [tragedy](/tragedy)：悲劇
+- [comedy](/word/comedy)：喜劇
+- [tragedy](/word/tragedy)：悲劇
 
 ---
 
 ## 📖 できればこれも
 
-- [theater](/theater)：劇場、演劇
-- [scene](/scene)：場面、シーン
+- [theater](/word/theater)：劇場、演劇
+- [scene](/word/scene)：場面、シーン
 
 <!-- cvid: aid20_bid36 -->

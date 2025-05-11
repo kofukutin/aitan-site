@@ -98,7 +98,7 @@ TOEICではIT関連のメールや説明文、指示文などで頻出します�
 ## 🤔  install との違いは？
 
 - **download**：インターネットなどからファイルやデータを自分の端末に取り込むこと。
-- **[install](/install)**：取り込んだファイルやソフトを端末に「インストール（導入・設定）」すること。
+- **[install](/word/install)**：取り込んだファイルやソフトを端末に「インストール（導入・設定）」すること。
 
 downloadは「取り込む」段階、installは「使えるように設定する」段階で使い分けます。
 
@@ -106,14 +106,14 @@ downloadは「取り込む」段階、installは「使えるように設定す�
 
 ## 🧩 あわせて覚えたい
 
-- [upload](/upload)：（データを）アップロードする
-- [transfer](/transfer)：（データなどを）転送する
+- [upload](/word/upload)：（データを）アップロードする
+- [transfer](/word/transfer)：（データなどを）転送する
 
 ---
 
 ## 📖 できればこれも
 
-- [attach](/attach)：（ファイルを）添付する
-- [save](/save)：保存する
+- [attach](/word/attach)：（ファイルを）添付する
+- [save](/word/save)：保存する
 
 <!-- cvid: aid45_bid29 -->

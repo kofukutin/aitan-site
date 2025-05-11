@@ -97,7 +97,7 @@ TOEICでは、イベント告知や広告、ウェブサイトの説明文など
 ## 🤔  flag との違いは？
 
 - **banner**：横長の布や画像で、広告やイベント告知などに使われる。
-- **[flag](/flag)**：国や団体を象徴する旗で、形や用途がより広い。
+- **[flag](/word/flag)**：国や団体を象徴する旗で、形や用途がより広い。
 
 bannerは主に宣伝やメッセージ表示用、flagは国や組織の象徴として使われる点が異なります。
 
@@ -105,14 +105,14 @@ bannerは主に宣伝やメッセージ表示用、flagは国や組織の象徴�
 
 ## 🧩 あわせて覚えたい
 
-- [poster](/poster)：ポスター、掲示用の紙
-- [headline](/headline)：見出し、タイトル
+- [poster](/word/poster)：ポスター、掲示用の紙
+- [headline](/word/headline)：見出し、タイトル
 
 ---
 
 ## 📖 できればこれも
 
-- [sign](/sign)：標識、看板
-- [logo](/logo)：ロゴ、商標
+- [sign](/word/sign)：標識、看板
+- [logo](/word/logo)：ロゴ、商標
 
 <!-- cvid: aid48_bid41 -->

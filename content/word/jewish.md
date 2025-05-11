@@ -112,7 +112,7 @@ TOEICでは、文化や宗教に関する説明文や紹介文で見かけるこ
 
 ## 📖 できればこれも
 
-- [religious](/religious)：宗教的な
-- [cultural](/cultural)：文化的な
+- [religious](/word/religious)：宗教的な
+- [cultural](/word/cultural)：文化的な
 
 <!-- cvid: aid09_bid18 -->

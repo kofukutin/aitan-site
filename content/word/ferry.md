@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、港や船のシーンで登場する
 ## 🤔  ship との違いは？
 
 - **ferry**：人や車などを短距離で定期的に運ぶ船
-- **[ship](/ship)**：大型の船全般、貨物船や客船など幅広い用途
+- **[ship](/word/ship)**：大型の船全般、貨物船や客船など幅広い用途
 
 ferryは「定期的な渡し船」に特化し、shipは「大型船」全般を指します。ferryは移動手段、shipは船そのものの大きさや種類を強調します。
 
@@ -105,14 +105,14 @@ ferryは「定期的な渡し船」に特化し、shipは「大型船」全般�
 
 ## 🧩 あわせて覚えたい
 
-- [boat](/boat)：小型のボート、手漕ぎやモーター付きの小舟
-- [harbor](/harbor)：港、船が停泊する場所
+- [boat](/word/boat)：小型のボート、手漕ぎやモーター付きの小舟
+- [harbor](/word/harbor)：港、船が停泊する場所
 
 ---
 
 ## 📖 できればこれも
 
-- [bridge](/bridge)：橋
-- [train](/train)：列車
+- [bridge](/word/bridge)：橋
+- [train](/word/train)：列車
 
 <!-- cvid: aid29_bid06 -->

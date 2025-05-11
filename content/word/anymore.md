@@ -94,7 +94,7 @@ TOEICでは否定文の副詞として、anymoreとany longerの使い分けや�
 ## 🤔  any longer との違いは？
 
 - **anymore**：主にアメリカ英語で使われ、「もはや～ない」という意味の否定文で使う。
-- **[any longer](/any_longer)**：イギリス英語でもよく使われ、意味は同じだがややフォーマル。
+- **[any longer](/word/any_longer)**：イギリス英語でもよく使われ、意味は同じだがややフォーマル。
 
 anymoreはカジュアルな響きでアメリカ英語中心、any longerはややフォーマルでイギリス英語でも一般的です。
 
@@ -102,14 +102,14 @@ anymoreはカジュアルな響きでアメリカ英語中心、any longerはや
 
 ## 🧩 あわせて覚えたい
 
-- [still](/still)：まだ、今でも
-- [yet](/yet)：まだ（否定文）、もう（疑問文）
+- [still](/word/still)：まだ、今でも
+- [yet](/word/yet)：まだ（否定文）、もう（疑問文）
 
 ---
 
 ## 📖 できればこれも
 
-- [already](/already)：すでに
-- [soon](/soon)：まもなく
+- [already](/word/already)：すでに
+- [soon](/word/soon)：まもなく
 
 <!-- cvid: aid19_bid05 -->

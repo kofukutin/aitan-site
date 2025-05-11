@@ -97,7 +97,7 @@ TOEICでは、保険や安全管理、事故報告などの文脈で「injury」
 ## 🤔  wound との違いは？
 
 - **injury**：事故やスポーツなどによる広い意味での「けが・損傷」
-- **[wound](/wound)**：特に切り傷や刺し傷など、皮膚が切れた「傷」
+- **[wound](/word/wound)**：特に切り傷や刺し傷など、皮膚が切れた「傷」
 
 injuryは広く体の損傷全般を指しますが、woundは主に皮膚が切れたり刺されたりした場合に使われます。
 
@@ -105,14 +105,14 @@ injuryは広く体の損傷全般を指しますが、woundは主に皮膚が切
 
 ## 🧩 あわせて覚えたい
 
-- [accident](/accident)：事故
-- [illness](/illness)：病気
+- [accident](/word/accident)：事故
+- [illness](/word/illness)：病気
 
 ---
 
 ## 📖 できればこれも
 
-- [damage](/damage)：損害、損傷
-- [pain](/pain)：痛み
+- [damage](/word/damage)：損害、損傷
+- [pain](/word/pain)：痛み
 
 <!-- cvid: aid20_bid13 -->

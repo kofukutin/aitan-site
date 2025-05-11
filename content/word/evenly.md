@@ -97,7 +97,7 @@ TOEICでは「均等に分ける」「むらなく広げる」といった意味
 ## 🤔  equally との違いは？
 
 - **evenly**：物理的・数量的に「むらなく」「均等に」分けたり広げたりするニュアンス
-- **[equally](/equally)**：抽象的・法的に「平等に」「同じように」扱うニュアンス
+- **[equally](/word/equally)**：抽象的・法的に「平等に」「同じように」扱うニュアンス
 
 evenlyは「面積や量を均等に分ける」など物理的な分配に使われやすく、equallyは「権利や機会を平等に」など抽象的な場面で使われます。
 
@@ -105,14 +105,14 @@ evenlyは「面積や量を均等に分ける」など物理的な分配に使�
 
 ## 🧩 あわせて覚えたい
 
-- [fairly](/fairly)：公平に、かなり
-- [smoothly](/smoothly)：スムーズに、円滑に
+- [fairly](/word/fairly)：公平に、かなり
+- [smoothly](/word/smoothly)：スムーズに、円滑に
 
 ---
 
 ## 📖 できればこれも
 
-- [slightly](/slightly)：わずかに
-- [regularly](/regularly)：定期的に
+- [slightly](/word/slightly)：わずかに
+- [regularly](/word/regularly)：定期的に
 
 <!-- cvid: aid06_bid34 -->

@@ -97,7 +97,7 @@ TOEICでは観光やレジャー、イベント紹介などの文脈で登場す
 ## 🤔  card との違いは？
 
 - **poker**：トランプを使った特定のゲーム名
-- **[card](/card)**：カードそのものやカードゲーム全般
+- **[card](/word/card)**：カードそのものやカードゲーム全般
 
 pokerはゲーム名、cardはカード自体や他のカードゲームも含む広い意味です。
 
@@ -105,14 +105,14 @@ pokerはゲーム名、cardはカード自体や他のカードゲームも含�
 
 ## 🧩 あわせて覚えたい
 
-- [blackjack](/blackjack)：ブラックジャック（トランプゲームの一種）
-- [dealer](/dealer)：ディーラー（カードを配る人）
+- [blackjack](/word/blackjack)：ブラックジャック（トランプゲームの一種）
+- [dealer](/word/dealer)：ディーラー（カードを配る人）
 
 ---
 
 ## 📖 できればこれも
 
-- [casino](/casino)：カジノ（賭博場）
-- [chip](/chip)：チップ（賭けに使うコイン）
+- [casino](/word/casino)：カジノ（賭博場）
+- [chip](/word/chip)：チップ（賭けに使うコイン）
 
 <!-- cvid: aid05_bid15 -->

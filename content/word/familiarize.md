@@ -97,7 +97,7 @@ TOEICでは、業務手順や新しいシステムへの「慣れ」や「習熟
 ## 🤔  acquaint との違いは？
 
 - **familiarize**：自分や他人を「慣れさせる」「習熟させる」ことに重点がある
-- **[acquaint](/acquaint)**：何かを「知らせる」「紹介する」ことに重点がある
+- **[acquaint](/word/acquaint)**：何かを「知らせる」「紹介する」ことに重点がある
 
 familiarizeは「十分に慣れる・使いこなせる」までを含み、acquaintは「初めて知る・触れる」段階で使います。
 
@@ -105,14 +105,14 @@ familiarizeは「十分に慣れる・使いこなせる」までを含み、acq
 
 ## 🧩 あわせて覚えたい
 
-- [introduce](/introduce)：紹介する
-- [adapt](/adapt)：適応する、順応する
+- [introduce](/word/introduce)：紹介する
+- [adapt](/word/adapt)：適応する、順応する
 
 ---
 
 ## 📖 できればこれも
 
-- [notify](/notify)：通知する、知らせる
-- [clarify](/clarify)：明確にする、はっきりさせる
+- [notify](/word/notify)：通知する、知らせる
+- [clarify](/word/clarify)：明確にする、はっきりさせる
 
 <!-- cvid: aid10_bid40 -->

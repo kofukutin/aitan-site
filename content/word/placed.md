@@ -97,7 +97,7 @@ TOEICでは、動詞の時制や受動態、語彙の使い分けを問う文法
 ## 🤔  put との違いは？
 
 - **placed**：意図的・丁寧に特定の場所に置くニュアンス
-- **[put](/put)**：もっとカジュアルで「ただ置く」イメージ
+- **[put](/word/put)**：もっとカジュアルで「ただ置く」イメージ
 
 「placed」はフォーマルで丁寧な印象があり、ビジネスや公式な場面でよく使われます。「put」は日常的で幅広く使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、動詞の時制や受動態、語彙の使い分けを問う文法
 
 ## 🧩 あわせて覚えたい
 
-- [arrange](/arrange)：整える、配置する
-- [remove](/remove)：取り除く
+- [arrange](/word/arrange)：整える、配置する
+- [remove](/word/remove)：取り除く
 
 ---
 
 ## 📖 できればこれも
 
-- [order](/order)：注文する、命じる
-- [submit](/submit)：提出する
+- [order](/word/order)：注文する、命じる
+- [submit](/word/submit)：提出する
 
 <!-- cvid: aid42_bid06 -->

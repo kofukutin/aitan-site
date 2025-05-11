@@ -97,7 +97,7 @@ TOEICでは、選択肢や代案を問う文脈で頻出します。特に会議
 ## 🤔  option との違いは？
 
 - **alternative**：既存のものとは異なる「別の選択肢」や「代案」を強調
-- **[option](/option)**：複数ある中の「選択肢」の一つという意味で幅広く使う
+- **[option](/word/option)**：複数ある中の「選択肢」の一つという意味で幅広く使う
 
 alternativeは「今とは違う案」を示す時に使い、optionは単に選べるもの全般を指します。
 
@@ -105,14 +105,14 @@ alternativeは「今とは違う案」を示す時に使い、optionは単に選
 
 ## 🧩 あわせて覚えたい
 
-- [choice](/choice)：選択、選ぶこと
-- [substitute](/substitute)：代用品、代理人
+- [choice](/word/choice)：選択、選ぶこと
+- [substitute](/word/substitute)：代用品、代理人
 
 ---
 
 ## 📖 できればこれも
 
-- [approach](/approach)：取り組み方、アプローチ
-- [solution](/solution)：解決策
+- [approach](/word/approach)：取り組み方、アプローチ
+- [solution](/word/solution)：解決策
 
 <!-- cvid: aid08_bid14 -->

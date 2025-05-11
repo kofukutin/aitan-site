@@ -97,7 +97,7 @@ TOEICでは主に契約や雇用、サービスの「終了」に関する文脈
 ## 🤔  finish との違いは？
 
 - **terminate**：フォーマルに「正式に終わらせる」「打ち切る」という意味で使う
-- **[finish](/finish)**：一般的に「終える」「仕上げる」と幅広く使う
+- **[finish](/word/finish)**：一般的に「終える」「仕上げる」と幅広く使う
 
 terminateは契約や雇用など公式なものの終了に使われ、finishは日常的な作業や行動の完了に使われます。
 
@@ -105,14 +105,14 @@ terminateは契約や雇用など公式なものの終了に使われ、finish�
 
 ## 🧩 あわせて覚えたい
 
-- [cease](/cease)：やめる、中止する
-- [cancel](/cancel)：取り消す、中止する
+- [cease](/word/cease)：やめる、中止する
+- [cancel](/word/cancel)：取り消す、中止する
 
 ---
 
 ## 📖 できればこれも
 
-- [resign](/resign)：辞職する、辞める
-- [approve](/approve)：承認する、認める
+- [resign](/word/resign)：辞職する、辞める
+- [approve](/word/approve)：承認する、認める
 
 <!-- cvid: aid40_bid02 -->

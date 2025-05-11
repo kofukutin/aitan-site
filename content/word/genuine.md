@@ -97,7 +97,7 @@ TOEICでは「本物の」「誠実な」という意味で形容詞として出
 ## 🤔  authentic との違いは？
 
 - **genuine**：本物であることや、誠実さ・偽りのなさを強調する
-- **[authentic](/authentic)**：真正であること、公式・伝統に基づく本物であることを強調する
+- **[authentic](/word/authentic)**：真正であること、公式・伝統に基づく本物であることを強調する
 
 genuineは「心からの」「偽りのない」という人の気持ちや物の本質に使われ、authenticは「公式に認められた本物」や「伝統的な本物」に使われます。
 
@@ -105,14 +105,14 @@ genuineは「心からの」「偽りのない」という人の気持ちや物�
 
 ## 🧩 あわせて覚えたい
 
-- [fake](/fake)：偽物、偽の
-- [sincere](/sincere)：誠実な、心からの
+- [fake](/word/fake)：偽物、偽の
+- [sincere](/word/sincere)：誠実な、心からの
 
 ---
 
 ## 📖 できればこれも
 
-- [honest](/honest)：正直な
-- [original](/original)：独自の、原作の
+- [honest](/word/honest)：正直な
+- [original](/word/original)：独自の、原作の
 
 <!-- cvid: aid23_bid48 -->

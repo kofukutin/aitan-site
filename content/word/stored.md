@@ -97,7 +97,7 @@ TOEICでは「be stored」など受動態でよく出題され、ITやビジネ�
 ## 🤔  saved との違いは？
 
 - **stored**：物やデータを一定期間、安全な場所に保管・保存することを強調
-- **[saved](/saved)**：データやお金などを「守る」「取っておく」ニュアンスが強い
+- **[saved](/word/saved)**：データやお金などを「守る」「取っておく」ニュアンスが強い
 
 storedは「しまっておく」「保管する」イメージ、savedは「失わないように守る」「節約する」などの意味合いが強いです。
 
@@ -105,14 +105,14 @@ storedは「しまっておく」「保管する」イメージ、savedは「失
 
 ## 🧩 あわせて覚えたい
 
-- [archive](/archive)：（長期的に）保管する、アーカイブする
-- [retrieve](/retrieve)：取り出す、回収する
+- [archive](/word/archive)：（長期的に）保管する、アーカイブする
+- [retrieve](/word/retrieve)：取り出す、回収する
 
 ---
 
 ## 📖 できればこれも
 
-- [record](/record)：記録する
-- [upload](/upload)：アップロードする
+- [record](/word/record)：記録する
+- [upload](/word/upload)：アップロードする
 
 <!-- cvid: aid38_bid35 -->

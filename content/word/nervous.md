@@ -97,7 +97,7 @@ TOEICでは、面接やプレゼン、初対面の場面などで「緊張して
 ## 🤔  anxious との違いは？
 
 - **nervous**：何かを前にして緊張したり、落ち着かない気持ちを表す
-- **[anxious](/anxious)**：将来への不安や心配が強い状態を表す
+- **[anxious](/word/anxious)**：将来への不安や心配が強い状態を表す
 
 nervousは「今この瞬間の緊張」、anxiousは「先のことへの不安」に使われることが多いです。
 
@@ -105,14 +105,14 @@ nervousは「今この瞬間の緊張」、anxiousは「先のことへの不安
 
 ## 🧩 あわせて覚えたい
 
-- [calm](/calm)：落ち着いた
-- [confident](/confident)：自信がある
+- [calm](/word/calm)：落ち着いた
+- [confident](/word/confident)：自信がある
 
 ---
 
 ## 📖 できればこれも
 
-- [worried](/worried)：心配している
-- [relaxed](/relaxed)：リラックスした
+- [worried](/word/worried)：心配している
+- [relaxed](/word/relaxed)：リラックスした
 
 <!-- cvid: aid26_bid43 -->

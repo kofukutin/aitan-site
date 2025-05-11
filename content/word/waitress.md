@@ -97,7 +97,7 @@ TOEICのPart 1で、レストランやカフェの写真説明でよく登場し
 ## 🤔  server との違いは？
 
 - **waitress**：女性の給仕を指すカジュアルな表現
-- **[server](/server)**：性別を問わず使える中立的な給仕の呼び方
+- **[server](/word/server)**：性別を問わず使える中立的な給仕の呼び方
 
 「waitress」は女性限定ですが、「server」は性別を問わず使えるため、近年はより一般的です。
 
@@ -105,14 +105,14 @@ TOEICのPart 1で、レストランやカフェの写真説明でよく登場し
 
 ## 🧩 あわせて覚えたい
 
-- [waiter](/waiter)：男性の給仕
-- [attendant](/attendant)：案内係、付き添い人
+- [waiter](/word/waiter)：男性の給仕
+- [attendant](/word/attendant)：案内係、付き添い人
 
 ---
 
 ## 📖 できればこれも
 
-- [customer](/customer)：客、顧客
-- [menu](/menu)：メニュー、献立
+- [customer](/word/customer)：客、顧客
+- [menu](/word/menu)：メニュー、献立
 
 <!-- cvid: aid25_bid47 -->

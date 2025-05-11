@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やレポート、メールの中で「分析結
 ## 🤔  examination との違いは？
 
 - **analysis**：物事を細かく分解して本質や原因を明らかにする「分析」。
-- **[examination](/examination)**：物事を詳しく調べる「検査」「調査」。
+- **[examination](/word/examination)**：物事を詳しく調べる「検査」「調査」。
 
 analysisは「分解して深く考察する」ニュアンスが強く、examinationは「全体を詳しく調べる」イメージです。
 
@@ -105,14 +105,14 @@ analysisは「分解して深く考察する」ニュアンスが強く、examin
 
 ## 🧩 あわせて覚えたい
 
-- [synthesis](/synthesis)：統合、総合
-- [assessment](/assessment)：評価、査定
+- [synthesis](/word/synthesis)：統合、総合
+- [assessment](/word/assessment)：評価、査定
 
 ---
 
 ## 📖 できればこれも
 
-- [report](/report)：報告書、レポート
-- [research](/research)：研究、調査
+- [report](/word/report)：報告書、レポート
+- [research](/word/research)：研究、調査
 
 <!-- cvid: aid34_bid19 -->

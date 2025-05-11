@@ -97,7 +97,7 @@ TOEICではレストランや食事、観光の会話でよく登場します。
 ## 🤔  tasty との違いは？
 
 - **delicious**：とてもおいしい、絶品の（強い賞賛の気持ちを込めて使う）
-- **[tasty](/tasty)**：おいしい（カジュアルで、味が良いことを表す）
+- **[tasty](/word/tasty)**：おいしい（カジュアルで、味が良いことを表す）
 
 deliciousは「絶品」「格別」といった強い褒め言葉、tastyは「おいしいけど絶賛まではいかない」カジュアルな表現です。
 
@@ -105,14 +105,14 @@ deliciousは「絶品」「格別」といった強い褒め言葉、tastyは「
 
 ## 🧩 あわせて覚えたい
 
-- [flavorful](/flavorful)：風味豊かな
-- [bland](/bland)：味気ない、薄味の
+- [flavorful](/word/flavorful)：風味豊かな
+- [bland](/word/bland)：味気ない、薄味の
 
 ---
 
 ## 📖 できればこれも
 
-- [fresh](/fresh)：新鮮な
-- [sweet](/sweet)：甘い
+- [fresh](/word/fresh)：新鮮な
+- [sweet](/word/sweet)：甘い
 
 <!-- cvid: aid04_bid19 -->

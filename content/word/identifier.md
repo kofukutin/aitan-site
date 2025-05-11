@@ -97,7 +97,7 @@ ITやビジネス文書の説明文で、システムやデータ管理に関す
 ## 🤔  indicator との違いは？
 
 - **identifier**：何かを特定・識別するための名前や記号
-- **[indicator](/indicator)**：何かを示す指標やサイン
+- **[indicator](/word/indicator)**：何かを示す指標やサイン
 
 identifierは「区別・特定」に重点があり、indicatorは「状態や変化を示す」意味で使われます。
 
@@ -105,14 +105,14 @@ identifierは「区別・特定」に重点があり、indicatorは「状態や�
 
 ## 🧩 あわせて覚えたい
 
-- [label](/label)：ラベル、表示名
-- [token](/token)：トークン、認証用の文字列
+- [label](/word/label)：ラベル、表示名
+- [token](/word/token)：トークン、認証用の文字列
 
 ---
 
 ## 📖 できればこれも
 
-- [variable](/variable)：変数
-- [attribute](/attribute)：属性
+- [variable](/word/variable)：変数
+- [attribute](/word/attribute)：属性
 
 <!-- cvid: aid36_bid47 -->

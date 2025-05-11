@@ -97,7 +97,7 @@ TOEICでは会話やビジネスシーンで「会った」「面談した」な
 ## 🤔  encounter との違いは？
 
 - **met**：人と会う・出会う（カジュアル・日常的）
-- **[encounter](/encounter)**：偶然や予期せず出会う（ややフォーマル・堅い）
+- **[encounter](/word/encounter)**：偶然や予期せず出会う（ややフォーマル・堅い）
 
 metは日常的な「会う」に使い、encounterは思いがけない出会いやフォーマルな場面で使われます。
 
@@ -105,14 +105,14 @@ metは日常的な「会う」に使い、encounterは思いがけない出会�
 
 ## 🧩 あわせて覚えたい
 
-- [greet](/greet)：あいさつする
-- [join](/join)：参加する
+- [greet](/word/greet)：あいさつする
+- [join](/word/join)：参加する
 
 ---
 
 ## 📖 できればこれも
 
-- [discuss](/discuss)：話し合う
-- [arrange](/arrange)：手配する
+- [discuss](/word/discuss)：話し合う
+- [arrange](/word/arrange)：手配する
 
 <!-- cvid: aid28_bid02 -->

@@ -96,7 +96,7 @@ TOEICでは主に食品や農業、貿易に関する長文で登場します。
 ## 🤔  grain との違いは？
 
 - **corn**：主にアメリカ英語で「トウモロコシ」、イギリス英語では「穀物全般」
-- **[grain](/grain)**：穀物全般やその粒を指す
+- **[grain](/word/grain)**：穀物全般やその粒を指す
 
 cornはアメリカではトウモロコシを指し、grainは小麦や米なども含む「穀物全般」を意味します。
 
@@ -104,14 +104,14 @@ cornはアメリカではトウモロコシを指し、grainは小麦や米な�
 
 ## 🧩 あわせて覚えたい
 
-- [wheat](/wheat)：小麦
-- [maize](/maize)：（主に英国で）トウモロコシ
+- [wheat](/word/wheat)：小麦
+- [maize](/word/maize)：（主に英国で）トウモロコシ
 
 ---
 
 ## 📖 できればこれも
 
-- [rice](/rice)：米
-- [vegetable](/vegetable)：野菜
+- [rice](/word/rice)：米
+- [vegetable](/word/vegetable)：野菜
 
 <!-- cvid: aid01_bid11 -->

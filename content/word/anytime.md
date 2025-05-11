@@ -93,7 +93,7 @@ TOEICでは、電話対応や案内、依頼への返答など、柔軟な対応
 ## 🤔  whenever との違いは？
 
 - **anytime**：「いつでも」「どんな時でも」という意味で、単独で使いやすいカジュアルな副詞。
-- **[whenever](/whenever)**：「～する時はいつでも」という意味で、接続詞として文をつなぐ役割がある。
+- **[whenever](/word/whenever)**：「～する時はいつでも」という意味で、接続詞として文をつなぐ役割がある。
 
 anytimeは単独で「いつでも」と言いたい時に使い、wheneverは「～する時はいつでも」と文をつなげたい時に使います。
 
@@ -101,14 +101,14 @@ anytimeは単独で「いつでも」と言いたい時に使い、wheneverは�
 
 ## 🧩 あわせて覚えたい
 
-- [always](/always)：いつも
-- [sometimes](/sometimes)：ときどき
+- [always](/word/always)：いつも
+- [sometimes](/word/sometimes)：ときどき
 
 ---
 
 ## 📖 できればこれも
 
-- [anywhere](/anywhere)：どこでも
-- [anyone](/anyone)：誰でも
+- [anywhere](/word/anywhere)：どこでも
+- [anyone](/word/anyone)：誰でも
 
 <!-- cvid: aid19_bid32 -->

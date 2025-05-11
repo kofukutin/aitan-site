@@ -97,7 +97,7 @@ TOEICでは主に科学や研究、製品開発に関する長文や記事で登
 ## 🤔  chemical との違いは？
 
 - **chemistry**：化学という学問や、人間関係の相性を表す
-- **[chemical](/chemical)**：化学物質、または「化学の」という形容詞
+- **[chemical](/word/chemical)**：化学物質、または「化学の」という形容詞
 
 chemistryは「学問」や「相性」といった抽象的な意味で使い、chemicalは具体的な物質や性質を指します。
 
@@ -105,14 +105,14 @@ chemistryは「学問」や「相性」といった抽象的な意味で使い�
 
 ## 🧩 あわせて覚えたい
 
-- [biology](/biology)：生物学
-- [physics](/physics)：物理学
+- [biology](/word/biology)：生物学
+- [physics](/word/physics)：物理学
 
 ---
 
 ## 📖 できればこれも
 
-- [laboratory](/laboratory)：実験室
-- [experiment](/experiment)：実験
+- [laboratory](/word/laboratory)：実験室
+- [experiment](/word/experiment)：実験
 
 <!-- cvid: aid45_bid28 -->

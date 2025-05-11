@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、公園や街路樹などの場
 ## 🤔  plant との違いは？
 
 - **tree**：幹があり、比較的大きな「木」を指す
-- **[plant](/plant)**：草花や木など、すべての「植物」を指す
+- **[plant](/word/plant)**：草花や木など、すべての「植物」を指す
 
 treeは「木」限定、plantは「植物」全般を指すので、木以外の小さな草花などにはplantを使います。
 
@@ -105,14 +105,14 @@ treeは「木」限定、plantは「植物」全般を指すので、木以外�
 
 ## 🧩 あわせて覚えたい
 
-- [forest](/forest)：森
-- [bush](/bush)：低木、茂み
+- [forest](/word/forest)：森
+- [bush](/word/bush)：低木、茂み
 
 ---
 
 ## 📖 できればこれも
 
-- [flower](/flower)：花
-- [leaf](/leaf)：葉
+- [flower](/word/flower)：花
+- [leaf](/word/leaf)：葉
 
 <!-- cvid: aid39_bid30 -->

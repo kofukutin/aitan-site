@@ -97,7 +97,7 @@ TOEICの長文読解パートで、書籍やマニュアルの構成説明、指
 ## 🤔  section との違いは？
 
 - **chapter**：本や文書の大きな区切り（章）を指す
-- **[section](/section)**：章よりも小さい「節」や「部分」を指す
+- **[section](/word/section)**：章よりも小さい「節」や「部分」を指す
 
 chapterは本の主要な区切り、sectionはその中の細かい部分や項目を表します。
 
@@ -105,14 +105,14 @@ chapterは本の主要な区切り、sectionはその中の細かい部分や項
 
 ## 🧩 あわせて覚えたい
 
-- [paragraph](/paragraph)：段落
-- [volume](/volume)：（本の）巻
+- [paragraph](/word/paragraph)：段落
+- [volume](/word/volume)：（本の）巻
 
 ---
 
 ## 📖 できればこれも
 
-- [topic](/topic)：話題、テーマ
-- [summary](/summary)：要約
+- [topic](/word/topic)：話題、テーマ
+- [summary](/word/summary)：要約
 
 <!-- cvid: aid47_bid15 -->

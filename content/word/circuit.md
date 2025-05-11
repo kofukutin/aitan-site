@@ -97,7 +97,7 @@ TOEICではITや電子機器、設備の説明文で「circuit」が登場する
 ## 🤔  route との違いは？
 
 - **circuit**：回路や一周するコース、巡回路など「円形・循環」のニュアンスが強い
-- **[route](/route)**：出発点から目的地までの「道順」「経路」を指す
+- **[route](/word/route)**：出発点から目的地までの「道順」「経路」を指す
 
 circuitは「ぐるっと回る」イメージ、routeは「AからBへの道筋」という直線的なイメージで使い分けます。
 
@@ -105,14 +105,14 @@ circuitは「ぐるっと回る」イメージ、routeは「AからBへの道筋
 
 ## 🧩 あわせて覚えたい
 
-- [network](/network)：ネットワーク、網状のつながり
-- [loop](/loop)：輪、ループ、繰り返し
+- [network](/word/network)：ネットワーク、網状のつながり
+- [loop](/word/loop)：輪、ループ、繰り返し
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/device)：装置、機器
-- [system](/system)：システム、体系
+- [device](/word/device)：装置、機器
+- [system](/word/system)：システム、体系
 
 <!-- cvid: aid26_bid05 -->

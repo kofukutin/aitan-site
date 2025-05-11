@@ -98,7 +98,7 @@ imperativeは、TOEICの文法や語彙問題で「必須」「緊急性」を�
 ## 🤔  mandatory との違いは？
 
 - **imperative**：絶対に必要で、緊急性や重要性が強調される
-- **[mandatory](/mandatory)**：法的・規則的に「義務付けられている」
+- **[mandatory](/word/mandatory)**：法的・規則的に「義務付けられている」
 
 imperativeは「重要性・緊急性」に重点があり、mandatoryは「規則や法律による義務」で使い分けます。
 
@@ -106,14 +106,14 @@ imperativeは「重要性・緊急性」に重点があり、mandatoryは「規�
 
 ## 🧩 あわせて覚えたい
 
-- [optional](/optional)：任意の、選択できる
-- [urgent](/urgent)：緊急の、急を要する
+- [optional](/word/optional)：任意の、選択できる
+- [urgent](/word/urgent)：緊急の、急を要する
 
 ---
 
 ## 📖 できればこれも
 
-- [essential](/essential)：不可欠な、非常に重要な
-- [crucial](/crucial)：極めて重要な
+- [essential](/word/essential)：不可欠な、非常に重要な
+- [crucial](/word/crucial)：極めて重要な
 
 <!-- cvid: aid46_bid25 -->

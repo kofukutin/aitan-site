@@ -97,7 +97,7 @@ TOEICでは、空所補充や文法問題で「必要とされる」という意
 ## 🤔  necessary との違いは？
 
 - **needed**：必要とされている、今求められている状態を強調
-- **[necessary](/necessary)**：絶対に必要な、不可欠な
+- **[necessary](/word/necessary)**：絶対に必要な、不可欠な
 
 **needed**は「今まさに必要とされている」ニュアンスがあり、**necessary**は「絶対に欠かせない」という強さや必然性を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、空所補充や文法問題で「必要とされる」という意
 
 ## 🧩 あわせて覚えたい
 
-- [required](/required)：要求される、必須の
-- [optional](/optional)：任意の、選択できる
+- [required](/word/required)：要求される、必須の
+- [optional](/word/optional)：任意の、選択できる
 
 ---
 
 ## 📖 できればこれも
 
-- [essential](/essential)：不可欠な、極めて重要な
-- [available](/available)：利用できる、入手できる
+- [essential](/word/essential)：不可欠な、極めて重要な
+- [available](/word/available)：利用できる、入手できる
 
 <!-- cvid: aid45_bid13 -->

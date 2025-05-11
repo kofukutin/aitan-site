@@ -97,7 +97,7 @@ TOEICでは会話やスピーキング能力に関連する設問や説明文で
 ## 🤔  conversation との違いは？
 
 - **speaking**：話すこと、話す能力や行為そのものを指す
-- **[conversation](/conversation)**：2人以上の人が交わす会話
+- **[conversation](/word/conversation)**：2人以上の人が交わす会話
 
 speakingは「話す力」や「話す行為」に焦点があり、conversationは「人と人とのやりとり」に重点があります。
 
@@ -105,14 +105,14 @@ speakingは「話す力」や「話す行為」に焦点があり、conversation
 
 ## 🧩 あわせて覚えたい
 
-- [speech](/speech)：スピーチ、演説
-- [listening](/listening)：聞くこと、リスニング
+- [speech](/word/speech)：スピーチ、演説
+- [listening](/word/listening)：聞くこと、リスニング
 
 ---
 
 ## 📖 できればこれも
 
-- [reading](/reading)：読むこと、リーディング
-- [discussion](/discussion)：討論、話し合い
+- [reading](/word/reading)：読むこと、リーディング
+- [discussion](/word/discussion)：討論、話し合い
 
 <!-- cvid: aid36_bid29 -->

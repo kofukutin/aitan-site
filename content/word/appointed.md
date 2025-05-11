@@ -97,7 +97,7 @@ TOEICでは「appointed manager（任命されたマネージャー）」のよ�
 ## 🤔  assigned との違いは？
 
 - **appointed**：公式に任命・指名された（特に役職や責任者に使う）
-- **[assigned](/assigned)**：割り当てられた、担当にされた（仕事やタスクに使う）
+- **[assigned](/word/assigned)**：割り当てられた、担当にされた（仕事やタスクに使う）
 
 「appointed」は役職や地位など公式な任命に使い、「assigned」は仕事やタスクなどの割り当てに使います。
 
@@ -105,14 +105,14 @@ TOEICでは「appointed manager（任命されたマネージャー）」のよ�
 
 ## 🧩 あわせて覚えたい
 
-- [designated](/designated)：指定された
-- [elected](/elected)：選出された
+- [designated](/word/designated)：指定された
+- [elected](/word/elected)：選出された
 
 ---
 
 ## 📖 できればこれも
 
-- [responsible](/responsible)：責任がある
-- [qualified](/qualified)：資格がある
+- [responsible](/word/responsible)：責任がある
+- [qualified](/word/qualified)：資格がある
 
 <!-- cvid: aid17_bid14 -->

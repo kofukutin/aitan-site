@@ -97,7 +97,7 @@ tightは、TOEICの文法・語彙問題で「厳しいスケジュール」や�
 ## 🤔  strict との違いは？
 
 - **tight**：物理的・時間的に「きつい」「余裕がない」状態を表す
-- **[strict](/strict)**：規則やルールが「厳しい」ことを表す
+- **[strict](/word/strict)**：規則やルールが「厳しい」ことを表す
 
 tightは「物理的・時間的な余裕のなさ」、strictは「規則や態度の厳しさ」に使い分けます。
 
@@ -105,14 +105,14 @@ tightは「物理的・時間的な余裕のなさ」、strictは「規則や態
 
 ## 🧩 あわせて覚えたい
 
-- [loose](/loose)：ゆるい、緩んだ
-- [firm](/firm)：堅い、しっかりした
+- [loose](/word/loose)：ゆるい、緩んだ
+- [firm](/word/firm)：堅い、しっかりした
 
 ---
 
 ## 📖 できればこれも
 
-- [narrow](/narrow)：狭い
-- [close](/close)：近い、接近した
+- [narrow](/word/narrow)：狭い
+- [close](/word/close)：近い、接近した
 
 <!-- cvid: aid19_bid03 -->

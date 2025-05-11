@@ -97,7 +97,7 @@ IT関連やマニュアル、サポート業務の説明文で頻出します。
 ## 🤔  debugging との違いは？
 
 - **troubleshooting**：問題の原因を特定し、解決策を探す一連の作業全体を指す
-- **[debugging](/debugging)**：主にプログラムのバグ（不具合）を見つけて修正する作業
+- **[debugging](/word/debugging)**：主にプログラムのバグ（不具合）を見つけて修正する作業
 
 troubleshootingは幅広い問題解決全般に使われ、debuggingはソフトウェアのバグ修正に特化しています。
 
@@ -105,14 +105,14 @@ troubleshootingは幅広い問題解決全般に使われ、debuggingはソフ�
 
 ## 🧩 あわせて覚えたい
 
-- [maintenance](/maintenance)：保守、メンテナンス
-- [repair](/repair)：修理
+- [maintenance](/word/maintenance)：保守、メンテナンス
+- [repair](/word/repair)：修理
 
 ---
 
 ## 📖 できればこれも
 
-- [installation](/installation)：インストール、設置
-- [configuration](/configuration)：設定、構成
+- [installation](/word/installation)：インストール、設置
+- [configuration](/word/configuration)：設定、構成
 
 <!-- cvid: aid30_bid31 -->

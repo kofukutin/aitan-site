@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、荷物ラックやコートラック
 ## 🤔  shelf との違いは？
 
 - **rack**：物を掛けたり並べたりするための台や棚。フックや仕切りがあることが多い。
-- **[shelf](/shelf)**：壁や家具に取り付けられた平らな棚板。主に物を置くため。
+- **[shelf](/word/shelf)**：壁や家具に取り付けられた平らな棚板。主に物を置くため。
 
 rackは「掛ける・並べる」用途が強く、shelfは「置く」用途が中心です。
 
@@ -105,14 +105,14 @@ rackは「掛ける・並べる」用途が強く、shelfは「置く」用途�
 
 ## 🧩 あわせて覚えたい
 
-- [hanger](/hanger)：ハンガー、衣類を掛ける道具
-- [cabinet](/cabinet)：キャビネット、収納棚
+- [hanger](/word/hanger)：ハンガー、衣類を掛ける道具
+- [cabinet](/word/cabinet)：キャビネット、収納棚
 
 ---
 
 ## 📖 できればこれも
 
-- [drawer](/drawer)：引き出し
-- [bin](/bin)：箱、容器
+- [drawer](/word/drawer)：引き出し
+- [bin](/word/bin)：箱、容器
 
 <!-- cvid: aid31_bid18 -->

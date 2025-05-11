@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やメール文で「発送する」「派遣す
 ## 🤔  sent との違いは？
 
 - **dispatched**：公式・業務的に「派遣した」「発送した」というフォーマルな表現
-- **[sent](/sent)**：一般的に「送った」という幅広い意味で使われるカジュアルな表現
+- **[sent](/word/sent)**：一般的に「送った」という幅広い意味で使われるカジュアルな表現
 
 dispatchedはビジネスや公式な場面で使われ、sentは日常的な「送る」全般に使われます。
 
@@ -105,14 +105,14 @@ dispatchedはビジネスや公式な場面で使われ、sentは日常的な「
 
 ## 🧩 あわせて覚えたい
 
-- [deliver](/deliver)：配達する、届ける
-- [assign](/assign)：割り当てる、任命する
+- [deliver](/word/deliver)：配達する、届ける
+- [assign](/word/assign)：割り当てる、任命する
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/submit)：提出する
-- [notify](/notify)：通知する
+- [submit](/word/submit)：提出する
+- [notify](/word/notify)：通知する
 
 <!-- cvid: aid12_bid14 -->

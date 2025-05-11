@@ -98,7 +98,7 @@ TOEICでは農業や環境、ビジネスの文脈で「収穫する」「集め
 ## 🤔  gather との違いは？
 
 - **harvest**：作物や成果などを「収穫する」「刈り取る」など、特に農業や比喩的な成果に使う
-- **[gather](/gather)**：広く「集める」「寄せ集める」など、物や人など対象を問わず使う
+- **[gather](/word/gather)**：広く「集める」「寄せ集める」など、物や人など対象を問わず使う
 
 harvestは主に農作物や成果物の収穫に使い、gatherは人や情報など幅広い対象を集めるときに使います。
 
@@ -106,14 +106,14 @@ harvestは主に農作物や成果物の収穫に使い、gatherは人や情報�
 
 ## 🧩 あわせて覚えたい
 
-- [plant](/plant)：植える、植物
-- [collect](/collect)：集める
+- [plant](/word/plant)：植える、植物
+- [collect](/word/collect)：集める
 
 ---
 
 ## 📖 できればこれも
 
-- [grow](/grow)：育てる、成長する
-- [produce](/produce)：生産する、作り出す
+- [grow](/word/grow)：育てる、成長する
+- [produce](/word/produce)：生産する、作り出す
 
 <!-- cvid: aid26_bid04 -->

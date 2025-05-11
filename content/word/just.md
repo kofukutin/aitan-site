@@ -93,7 +93,7 @@ Could you wait just a moment?
 ## 🤔  only との違いは？
 
 - **just**：強調や「ちょうど」「たった今」「単に」など幅広い意味で使う
-- **[only](/only)**：「唯一」「ただ～だけ」と限定する意味が強い
+- **[only](/word/only)**：「唯一」「ただ～だけ」と限定する意味が強い
 
 justは状況やタイミングの強調、onlyは数量や範囲の限定に使い分けます。
 
@@ -101,14 +101,14 @@ justは状況やタイミングの強調、onlyは数量や範囲の限定に使
 
 ## 🧩 あわせて覚えたい
 
-- [simply](/simply)：単純に、ただ
-- [exactly](/exactly)：正確に、まさに
+- [simply](/word/simply)：単純に、ただ
+- [exactly](/word/exactly)：正確に、まさに
 
 ---
 
 ## 📖 できればこれも
 
-- [already](/already)：すでに
-- [still](/still)：まだ
+- [already](/word/already)：すでに
+- [still](/word/still)：まだ
 
 <!-- cvid: aid31_bid27 -->

@@ -97,7 +97,7 @@ TOEICでは、商品やサービスの分類、アンケートや申込書の選
 ## 🤔  type との違いは？
 
 - **category**：共通の特徴でまとめた「部類」や「分類」を指す
-- **[type](/type)**：性質や形状などの「種類」「型」を指す
+- **[type](/word/type)**：性質や形状などの「種類」「型」を指す
 
 categoryは大きな枠組みや分類に使い、typeはその中の具体的な種類や型に使うことが多いです。
 
@@ -105,14 +105,14 @@ categoryは大きな枠組みや分類に使い、typeはその中の具体的�
 
 ## 🧩 あわせて覚えたい
 
-- [class](/class)：（共通点による）クラス、等級
-- [group](/group)：集団、グループ
+- [class](/word/class)：（共通点による）クラス、等級
+- [group](/word/group)：集団、グループ
 
 ---
 
 ## 📖 できればこれも
 
-- [section](/section)：区分、セクション
-- [item](/item)：項目、アイテム
+- [section](/word/section)：区分、セクション
+- [item](/word/item)：項目、アイテム
 
 <!-- cvid: aid27_bid33 -->

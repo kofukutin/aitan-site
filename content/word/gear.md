@@ -97,7 +97,7 @@ TOEICでは会議や作業現場、説明の場面で「gear」が「機材」�
 ## 🤔  equipment との違いは？
 
 - **gear**：特定の目的や活動に使う道具や装備、または機械の歯車
-- **[equipment](/equipment)**：一般的に必要な装置や設備、集合的な機材
+- **[equipment](/word/equipment)**：一般的に必要な装置や設備、集合的な機材
 
 gearは個々の道具や装備品、または機械の部品（歯車）を指すことが多く、equipmentは全体的な設備や機材一式を指します。
 
@@ -105,14 +105,14 @@ gearは個々の道具や装備品、または機械の部品（歯車）を指�
 
 ## 🧩 あわせて覚えたい
 
-- [tool](/tool)：道具、工具
-- [device](/device)：装置、機器
+- [tool](/word/tool)：道具、工具
+- [device](/word/device)：装置、機器
 
 ---
 
 ## 📖 できればこれも
 
-- [tool](/tool)：道具、工具
-- [device](/device)：装置、機器
+- [tool](/word/tool)：道具、工具
+- [device](/word/device)：装置、機器
 
 <!-- cvid: aid00_bid06 -->

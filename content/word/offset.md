@@ -97,7 +97,7 @@ TOEICでは、主にビジネス文脈で「コストやリスクを相殺する
 ## 🤔  compensate との違いは？
 
 - **offset**：主に数値や損失などを「相殺する」「埋め合わせる」意味で使う
-- **[compensate](/compensate)**：損失や被害に対して「補償する」「報酬を与える」意味が強い
+- **[compensate](/word/compensate)**：損失や被害に対して「補償する」「報酬を与える」意味が強い
 
 offsetはバランスを取るために何かを打ち消すニュアンス、compensateは損失を埋めるために何かを与えるニュアンスです。
 
@@ -105,14 +105,14 @@ offsetはバランスを取るために何かを打ち消すニュアンス、co
 
 ## 🧩 あわせて覚えたい
 
-- [counteract](/counteract)：（悪影響などを）打ち消す
-- [balance](/balance)：バランスを取る、釣り合わせる
+- [counteract](/word/counteract)：（悪影響などを）打ち消す
+- [balance](/word/balance)：バランスを取る、釣り合わせる
 
 ---
 
 ## 📖 できればこれも
 
-- [adjust](/adjust)：調整する
-- [reduce](/reduce)：減らす
+- [adjust](/word/adjust)：調整する
+- [reduce](/word/reduce)：減らす
 
 <!-- cvid: aid22_bid15 -->

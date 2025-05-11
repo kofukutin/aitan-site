@@ -97,7 +97,7 @@ termは契約や期間、条件に関する文脈でPart 5によく出題され�
 ## 🤔  period との違いは？
 
 - **term**：特定の目的や契約などで区切られた「期間」や「用語」「条件」を指す
-- **[period](/period)**：単に「一定の時間の長さ」や「時期」を表す
+- **[period](/word/period)**：単に「一定の時間の長さ」や「時期」を表す
 
 termは学校の学期や契約期間、専門用語など限定的・目的的な区切りを強調し、periodは時間的な長さや歴史的な時代など幅広く使います。
 
@@ -105,14 +105,14 @@ termは学校の学期や契約期間、専門用語など限定的・目的的�
 
 ## 🧩 あわせて覚えたい
 
-- [condition](/condition)：条件
-- [phrase](/phrase)：句、言い回し
+- [condition](/word/condition)：条件
+- [phrase](/word/phrase)：句、言い回し
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/contract)：契約
-- [agreement](/agreement)：合意、協定
+- [contract](/word/contract)：契約
+- [agreement](/word/agreement)：合意、協定
 
 <!-- cvid: aid11_bid48 -->

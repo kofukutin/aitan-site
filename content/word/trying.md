@@ -97,7 +97,7 @@ TOEICでは、形容詞として「困難な」「つらい」という意味で
 ## 🤔  challenging との違いは？
 
 - **trying**：精神的・肉体的に耐えるのがつらい、我慢を強いられる
-- **[challenging](/challenging)**：やりがいがある、挑戦的で難しいが前向きなニュアンス
+- **[challenging](/word/challenging)**：やりがいがある、挑戦的で難しいが前向きなニュアンス
 
 「trying」は主にネガティブな困難さ、「challenging」は前向きな挑戦や成長の機会を含む点が異なります。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞として「困難な」「つらい」という意味で
 
 ## 🧩 あわせて覚えたい
 
-- [difficult](/difficult)：難しい
-- [tough](/tough)：厳しい、手ごわい
+- [difficult](/word/difficult)：難しい
+- [tough](/word/tough)：厳しい、手ごわい
 
 ---
 
 ## 📖 できればこれも
 
-- [annoying](/annoying)：イライラさせる
-- [demanding](/demanding)：要求が多い、きつい
+- [annoying](/word/annoying)：イライラさせる
+- [demanding](/word/demanding)：要求が多い、きつい
 
 <!-- cvid: aid19_bid39 -->

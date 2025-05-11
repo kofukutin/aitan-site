@@ -97,7 +97,7 @@ leftは会話や説明文で「残っている」「左側の」としてよく�
 ## 🤔  remain との違いは？
 
 - **left**：「残っている」「左の」という状態や位置を表す形容詞
-- **[remain](/remain)**：「残る」「とどまる」という動作を表す動詞
+- **[remain](/word/remain)**：「残る」「とどまる」という動作を表す動詞
 
 leftは状態や位置を表し、remainは動作やプロセスを表します。
 
@@ -105,14 +105,14 @@ leftは状態や位置を表し、remainは動作やプロセスを表します�
 
 ## 🧩 あわせて覚えたい
 
-- [depart](/depart)：出発する、去る
-- [stay](/stay)：滞在する、とどまる
+- [depart](/word/depart)：出発する、去る
+- [stay](/word/stay)：滞在する、とどまる
 
 ---
 
 ## 📖 できればこれも
 
-- [right](/right)：右、右側の
-- [available](/available)：利用できる、手に入る
+- [right](/word/right)：右、右側の
+- [available](/word/available)：利用できる、手に入る
 
 <!-- cvid: aid27_bid33 -->

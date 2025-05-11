@@ -97,7 +97,7 @@ TOEICでは「解決策」や「提案」としてsolutionが頻出します。�
 ## 🤔  answer との違いは？
 
 - **solution**：問題や困難に対する「解決策」や「方法」を指す
-- **[answer](/answer)**：質問や疑問に対する「答え」を指す
+- **[answer](/word/answer)**：質問や疑問に対する「答え」を指す
 
 solutionは「問題解決のための方法」に重点があり、answerは「問いへの返答」に使われます。
 
@@ -105,14 +105,14 @@ solutionは「問題解決のための方法」に重点があり、answerは「
 
 ## 🧩 あわせて覚えたい
 
-- [remedy](/remedy)：改善策、治療法
-- [proposal](/proposal)：提案
+- [remedy](/word/remedy)：改善策、治療法
+- [proposal](/word/proposal)：提案
 
 ---
 
 ## 📖 できればこれも
 
-- [method](/method)：方法
-- [result](/result)：結果
+- [method](/word/method)：方法
+- [result](/word/result)：結果
 
 <!-- cvid: aid11_bid36 -->

@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「買った」「購入した」という過去
 ## 🤔  purchased との違いは？
 
 - **bought**：日常的な「買った」「購入した」を表すカジュアルな表現
-- **[purchased](/purchased)**：ややフォーマルで、ビジネスや書面で使われやすい「購入した」
+- **[purchased](/word/purchased)**：ややフォーマルで、ビジネスや書面で使われやすい「購入した」
 
 boughtは普段の会話でよく使われ、purchasedはビジネスや公式な場面で使われることが多いです。
 
@@ -105,14 +105,14 @@ boughtは普段の会話でよく使われ、purchasedはビジネスや公式�
 
 ## 🧩 あわせて覚えたい
 
-- [sell](/sell)：売る
-- [order](/order)：注文する
+- [sell](/word/sell)：売る
+- [order](/word/order)：注文する
 
 ---
 
 ## 📖 できればこれも
 
-- [pay](/pay)：支払う
-- [bring](/bring)：持ってくる
+- [pay](/word/pay)：支払う
+- [bring](/word/bring)：持ってくる
 
 <!-- cvid: aid12_bid32 -->

@@ -97,7 +97,7 @@ TOEICでは、宅配便の追跡やビジネス文書のやり取りに関する
 ## 🤔  delivery との違いは？
 
 - **courier**：配達人や宅配業者そのもの、または特使を指す
-- **[delivery](/delivery)**：配達という「行為」や「配達物」を指す
+- **[delivery](/word/delivery)**：配達という「行為」や「配達物」を指す
 
 courierは「人」や「業者」に焦点があり、deliveryは「配達」という動作や結果に焦点があります。
 
@@ -105,14 +105,14 @@ courierは「人」や「業者」に焦点があり、deliveryは「配達」�
 
 ## 🧩 あわせて覚えたい
 
-- [messenger](/messenger)：使者、伝令
-- [shipment](/shipment)：発送、出荷
+- [messenger](/word/messenger)：使者、伝令
+- [shipment](/word/shipment)：発送、出荷
 
 ---
 
 ## 📖 できればこれも
 
-- [parcel](/parcel)：小包
-- [dispatch](/dispatch)：発送、派遣
+- [parcel](/word/parcel)：小包
+- [dispatch](/word/dispatch)：発送、派遣
 
 <!-- cvid: aid48_bid01 -->

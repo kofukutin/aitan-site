@@ -97,7 +97,7 @@ The city will host an international carnival next month.
 ## 🤔  festival との違いは？
 
 - **carnival**：仮装やパレードなど、特に派手で陽気な祭りを指すことが多い。
-- **[festival](/festival)**：宗教的・文化的な行事全般を指し、静かなものから賑やかなものまで幅広い。
+- **[festival](/word/festival)**：宗教的・文化的な行事全般を指し、静かなものから賑やかなものまで幅広い。
 
 carnivalは特に仮装やパレードなどの「にぎやかさ」が強調される祭り、festivalはより広い意味で使われます。
 
@@ -105,14 +105,14 @@ carnivalは特に仮装やパレードなどの「にぎやかさ」が強調さ
 
 ## 🧩 あわせて覚えたい
 
-- [parade](/parade)：パレード、行進
-- [celebration](/celebration)：祝賀、祝い
+- [parade](/word/parade)：パレード、行進
+- [celebration](/word/celebration)：祝賀、祝い
 
 ---
 
 ## 📖 できればこれも
 
-- [parade](/parade)：パレード、行進
-- [event](/event)：イベント、出来事
+- [parade](/word/parade)：パレード、行進
+- [event](/word/event)：イベント、出来事
 
 <!-- cvid: aid05_bid22 -->

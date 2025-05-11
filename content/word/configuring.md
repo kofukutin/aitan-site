@@ -97,7 +97,7 @@ TOEICではIT関連の説明文やマニュアル、業務手順の中で「conf
 ## 🤔  setting との違いは？
 
 - **configuring**：システムや機器の詳細な設定や構成を行うこと
-- **[setting](/setting)**：一般的な「設定」や「調整」を指し、幅広い場面で使われる
+- **[setting](/word/setting)**：一般的な「設定」や「調整」を指し、幅広い場面で使われる
 
 「configuring」は専門的・技術的な場面で使われ、より細かく調整するニュアンスがありますが、「setting」は日常的な設定全般に使われます。
 
@@ -105,14 +105,14 @@ TOEICではIT関連の説明文やマニュアル、業務手順の中で「conf
 
 ## 🧩 あわせて覚えたい
 
-- [install](/install)：インストールする
-- [customize](/customize)：カスタマイズする、好みに合わせて変更する
+- [install](/word/install)：インストールする
+- [customize](/word/customize)：カスタマイズする、好みに合わせて変更する
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/update)：更新する
-- [adjust](/adjust)：調整する
+- [update](/word/update)：更新する
+- [adjust](/word/adjust)：調整する
 
 <!-- cvid: aid49_bid09 -->

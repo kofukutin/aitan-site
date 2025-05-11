@@ -97,7 +97,7 @@ ITやビジネスの会話で「ネットに接続していない」「直接会
 ## 🤔  online との違いは？
 
 - **offline**：ネットワークに接続していない、または直接対面で行うこと
-- **[online](/online)**：ネットワークに接続している、インターネット上で行うこと
+- **[online](/word/online)**：ネットワークに接続している、インターネット上で行うこと
 
 offlineは「接続していない」状態、onlineは「接続している」状態を指し、ITやビジネスで対になる言葉です。
 
@@ -105,14 +105,14 @@ offlineは「接続していない」状態、onlineは「接続している」�
 
 ## 🧩 あわせて覚えたい
 
-- [disconnect](/disconnect)：切断する、接続を解除する
-- [remote](/remote)：遠隔の、リモートの
+- [disconnect](/word/disconnect)：切断する、接続を解除する
+- [remote](/word/remote)：遠隔の、リモートの
 
 ---
 
 ## 📖 できればこれも
 
-- [download](/download)：ダウンロードする
-- [network](/network)：ネットワーク、通信網
+- [download](/word/download)：ダウンロードする
+- [network](/word/network)：ネットワーク、通信網
 
 <!-- cvid: aid02_bid12 -->

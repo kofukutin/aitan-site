@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写問題で頻出です。車の動作や位置を
 ## 🤔  vehicle との違いは？
 
 - **car**：一般的な自家用車や乗用車を指す。
-- **[vehicle](/vehicle)**：車両全般（自動車、バス、トラックなど）を指すより広い言葉。
+- **[vehicle](/word/vehicle)**：車両全般（自動車、バス、トラックなど）を指すより広い言葉。
 
 carは「自動車」として最もよく使われ、vehicleは「乗り物」全般を指すフォーマルな表現です。
 
@@ -105,14 +105,14 @@ carは「自動車」として最もよく使われ、vehicleは「乗り物」�
 
 ## 🧩 あわせて覚えたい
 
-- [bus](/bus)：バス
-- [train](/train)：電車
+- [bus](/word/bus)：バス
+- [train](/word/train)：電車
 
 ---
 
 ## 📖 できればこれも
 
-- [bike](/bike)：自転車、バイク
-- [road](/road)：道路
+- [bike](/word/bike)：自転車、バイク
+- [road](/word/road)：道路
 
 <!-- cvid: aid45_bid47 -->

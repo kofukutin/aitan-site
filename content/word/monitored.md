@@ -97,7 +97,7 @@ TOEICでは、ITやビジネスの現場で「監視された」「チェック�
 ## 🤔  supervised との違いは？
 
 - **monitored**：状況や動作を注意深く観察・監視することに重点がある
-- **[supervised](/supervised)**：指導や管理の意味合いが強く、必要に応じて介入する
+- **[supervised](/word/supervised)**：指導や管理の意味合いが強く、必要に応じて介入する
 
 「monitored」は見守る・監視することに重点があり、「supervised」は指導や管理、必要なときに手助けするニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは、ITやビジネスの現場で「監視された」「チェック�
 
 ## 🧩 あわせて覚えたい
 
-- [observe](/observe)：観察する
-- [inspect](/inspect)：検査する
+- [observe](/word/observe)：観察する
+- [inspect](/word/inspect)：検査する
 
 ---
 
 ## 📖 できればこれも
 
-- [track](/track)：追跡する
-- [check](/check)：確認する
+- [track](/word/track)：追跡する
+- [check](/word/check)：確認する
 
 <!-- cvid: aid41_bid46 -->

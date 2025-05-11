@@ -96,7 +96,7 @@ IT関連のメールや案内文、セキュリティに関する説明文で出
 ## 🤔  firewall との違いは？
 
 - **antivirus**：ウイルスやマルウェアを検出・除去するソフトウェア
-- **[firewall](/firewall)**：外部からの不正アクセスや通信を防ぐためのシステム
+- **[firewall](/word/firewall)**：外部からの不正アクセスや通信を防ぐためのシステム
 
 antivirusはウイルス対策、firewallはネットワークの出入り口を守る役割で、守る対象や仕組みが異なります。
 
@@ -104,14 +104,14 @@ antivirusはウイルス対策、firewallはネットワークの出入り口を
 
 ## 🧩 あわせて覚えたい
 
-- [malware](/malware)：悪意のあるソフトウェア
-- [scan](/scan)：（ウイルスなどを）スキャンする、調べる
+- [malware](/word/malware)：悪意のあるソフトウェア
+- [scan](/word/scan)：（ウイルスなどを）スキャンする、調べる
 
 ---
 
 ## 📖 できればこれも
 
-- [software](/software)：ソフトウェア、プログラム
-- [update](/update)：更新する、アップデートする
+- [software](/word/software)：ソフトウェア、プログラム
+- [update](/word/update)：更新する、アップデートする
 
 <!-- cvid: aid31_bid27 -->

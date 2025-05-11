@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、洗面器や流域などの物や地
 ## 🤔  bowl との違いは？
 
 - **basin**：水をためるための浅くて広い容器や流域を指す
-- **[bowl](/bowl)**：主に食べ物を入れるための深めの器
+- **[bowl](/word/bowl)**：主に食べ物を入れるための深めの器
 
 basinは洗面や地形など幅広い用途で使われますが、bowlは食事用の器に限定されることが多いです。
 
@@ -105,14 +105,14 @@ basinは洗面や地形など幅広い用途で使われますが、bowlは食�
 
 ## 🧩 あわせて覚えたい
 
-- [sink](/sink)：流し、シンク
-- [valley](/valley)：谷、渓谷
+- [sink](/word/sink)：流し、シンク
+- [valley](/word/valley)：谷、渓谷
 
 ---
 
 ## 📖 できればこれも
 
-- [bucket](/bucket)：バケツ
-- [plate](/plate)：皿
+- [bucket](/word/bucket)：バケツ
+- [plate](/word/plate)：皿
 
 <!-- cvid: aid02_bid35 -->

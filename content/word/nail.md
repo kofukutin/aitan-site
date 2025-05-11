@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「くぎ」や「爪」を指す場面
 ## 🤔  screw との違いは？
 
 - **nail**：頭が平らでねじ山がなく、ハンマーで打ち込む「くぎ」や「爪」。
-- **[screw](/screw)**：ねじ山があり、ドライバーで回して留める「ねじ」。
+- **[screw](/word/screw)**：ねじ山があり、ドライバーで回して留める「ねじ」。
 
 nailはハンマーで打つ「くぎ」や「爪」を指し、screwはドライバーで回す「ねじ」を指します。用途や工具が異なります。
 
@@ -105,14 +105,14 @@ nailはハンマーで打つ「くぎ」や「爪」を指し、screwはドラ�
 
 ## 🧩 あわせて覚えたい
 
-- [hammer](/hammer)：ハンマー、金づち
-- [finger](/finger)：指
+- [hammer](/word/hammer)：ハンマー、金づち
+- [finger](/word/finger)：指
 
 ---
 
 ## 📖 できればこれも
 
-- [tool](/tool)：道具
-- [board](/board)：板
+- [tool](/word/tool)：道具
+- [board](/word/board)：板
 
 <!-- cvid: aid10_bid36 -->

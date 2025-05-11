@@ -97,7 +97,7 @@ TOEICでは、reluctantは「be reluctant to ～」の形で頻出し、やん�
 ## 🤔  unwilling との違いは？
 
 - **reluctant**：気が進まないが、必要ならやるという消極的な態度
-- **[unwilling](/unwilling)**：強く「やりたくない」「拒否したい」という意思
+- **[unwilling](/word/unwilling)**：強く「やりたくない」「拒否したい」という意思
 
 reluctantは「しぶしぶ」「消極的」なニュアンス、unwillingは「断固拒否」や強い否定の気持ちを表します。
 
@@ -105,14 +105,14 @@ reluctantは「しぶしぶ」「消極的」なニュアンス、unwillingは�
 
 ## 🧩 あわせて覚えたい
 
-- [eager](/eager)：熱心な、やる気満々の
-- [hesitant](/hesitant)：ためらっている、躊躇している
+- [eager](/word/eager)：熱心な、やる気満々の
+- [hesitant](/word/hesitant)：ためらっている、躊躇している
 
 ---
 
 ## 📖 できればこれも
 
-- [willing](/willing)：進んで～する気がある
-- [anxious](/anxious)：心配している、切望している
+- [willing](/word/willing)：進んで～する気がある
+- [anxious](/word/anxious)：心配している、切望している
 
 <!-- cvid: aid24_bid30 -->

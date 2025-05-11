@@ -97,7 +97,7 @@ TOEICでは、案内文や記事、説明文などで「一連の～」「シリ
 ## 🤔  sequence との違いは？
 
 - **series**：同じテーマや目的で続くものの集まり、順番は必ずしも重要でない
-- **[sequence](/sequence)**：順序や順番が特に重要な連続
+- **[sequence](/word/sequence)**：順序や順番が特に重要な連続
 
 seriesは「テレビシリーズ」「講演シリーズ」など、内容やテーマの連続性を重視しますが、sequenceは「順番通り」「順序が大切」な場合に使います。
 
@@ -105,14 +105,14 @@ seriesは「テレビシリーズ」「講演シリーズ」など、内容や�
 
 ## 🧩 あわせて覚えたい
 
-- [set](/set)：セット、一式
-- [chain](/chain)：連鎖、つながり
+- [set](/word/set)：セット、一式
+- [chain](/word/chain)：連鎖、つながり
 
 ---
 
 ## 📖 できればこれも
 
-- [episode](/episode)：（シリーズの）1話、エピソード
-- [collection](/collection)：コレクション、収集物
+- [episode](/word/episode)：（シリーズの）1話、エピソード
+- [collection](/word/collection)：コレクション、収集物
 
 <!-- cvid: aid32_bid33 -->

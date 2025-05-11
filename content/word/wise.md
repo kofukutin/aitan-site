@@ -97,7 +97,7 @@ wiseはPart 5の語彙問題で「賢い」「分別のある」などの意味�
 ## 🤔  smart との違いは？
 
 - **wise**：経験や知識に基づき、正しい判断ができる「賢い」
-- **[smart](/smart)**：頭の回転が速い、機転が利く「頭が良い」
+- **[smart](/word/smart)**：頭の回転が速い、機転が利く「頭が良い」
 
 wiseは人生経験や深い理解から来る賢さ、smartは瞬時の判断や知識の豊富さを強調します。
 
@@ -105,14 +105,14 @@ wiseは人生経験や深い理解から来る賢さ、smartは瞬時の判断�
 
 ## 🧩 あわせて覚えたい
 
-- [foolish](/foolish)：愚かな
-- [prudent](/prudent)：慎重な、用心深い
+- [foolish](/word/foolish)：愚かな
+- [prudent](/word/prudent)：慎重な、用心深い
 
 ---
 
 ## 📖 できればこれも
 
-- [clever](/clever)：賢い、器用な
-- [careful](/careful)：注意深い
+- [clever](/word/clever)：賢い、器用な
+- [careful](/word/careful)：注意深い
 
 <!-- cvid: aid11_bid48 -->

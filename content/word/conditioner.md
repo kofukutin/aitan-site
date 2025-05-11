@@ -97,7 +97,7 @@ TOEICではホテルや日用品の説明、アメニティ紹介などで見か
 ## 🤔  treatment との違いは？
 
 - **conditioner**：髪や衣類などの状態を良くするための製品
-- **[treatment](/treatment)**：髪や肌などへの特別なケアや処置
+- **[treatment](/word/treatment)**：髪や肌などへの特別なケアや処置
 
 conditionerは日常的なケア用品、treatmentはより集中的・特別なケアや処置を指すことが多いです。
 
@@ -105,14 +105,14 @@ conditionerは日常的なケア用品、treatmentはより集中的・特別な
 
 ## 🧩 あわせて覚えたい
 
-- [moisturizer](/moisturizer)：保湿剤
-- [shampoo](/shampoo)：シャンプー
+- [moisturizer](/word/moisturizer)：保湿剤
+- [shampoo](/word/shampoo)：シャンプー
 
 ---
 
 ## 📖 できればこれも
 
-- [lotion](/lotion)：ローション、化粧水
-- [detergent](/detergent)：洗剤
+- [lotion](/word/lotion)：ローション、化粧水
+- [detergent](/word/detergent)：洗剤
 
 <!-- cvid: aid06_bid07 -->

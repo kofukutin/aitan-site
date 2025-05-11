@@ -97,7 +97,7 @@ TOEICでは環境問題や品質管理、食品安全などの文脈で出題さ
 ## 🤔  pollution との違いは？
 
 - **contamination**：特定の物質や場所に有害・不純なものが混入すること
-- **[pollution](/pollution)**：環境全体への広範な汚染や公害
+- **[pollution](/word/pollution)**：環境全体への広範な汚染や公害
 
 contaminationは「混入」や「局所的な汚染」に焦点があり、pollutionは「大気・水・土壌など広い範囲の環境汚染」を指します。
 
@@ -105,14 +105,14 @@ contaminationは「混入」や「局所的な汚染」に焦点があり、poll
 
 ## 🧩 あわせて覚えたい
 
-- [purity](/purity)：純度、清浄
-- [infection](/infection)：感染、伝染
+- [purity](/word/purity)：純度、清浄
+- [infection](/word/infection)：感染、伝染
 
 ---
 
 ## 📖 できればこれも
 
-- [hazard](/hazard)：危険、有害要因
-- [waste](/waste)：廃棄物、無駄
+- [hazard](/word/hazard)：危険、有害要因
+- [waste](/word/waste)：廃棄物、無駄
 
 <!-- cvid: aid24_bid25 -->

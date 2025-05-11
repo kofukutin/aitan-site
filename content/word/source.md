@@ -97,7 +97,7 @@ TOEICでは、記事やビジネス文書で「情報源」や「供給元」と
 ## 🤔  origin との違いは？
 
 - **source**：情報や物の「出どころ」「供給元」を指す
-- **[origin](/origin)**：「起源」「発祥地」など、物事の始まりや根本を指す
+- **[origin](/word/origin)**：「起源」「発祥地」など、物事の始まりや根本を指す
 
 sourceは「どこから来たか」「誰が提供したか」など現実的な供給元に使い、originは歴史的・根本的な始まりや由来に使います。
 
@@ -105,14 +105,14 @@ sourceは「どこから来たか」「誰が提供したか」など現実的�
 
 ## 🧩 あわせて覚えたい
 
-- [resource](/resource)：資源、供給源
-- [reference](/reference)：参照、参考文献
+- [resource](/word/resource)：資源、供給源
+- [reference](/word/reference)：参照、参考文献
 
 ---
 
 ## 📖 できればこれも
 
-- [supply](/supply)：供給、供給する
-- [cause](/cause)：原因、引き起こす
+- [supply](/word/supply)：供給、供給する
+- [cause](/word/cause)：原因、引き起こす
 
 <!-- cvid: aid18_bid18 -->

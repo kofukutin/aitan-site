@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文や記事、専門的な説明文で「分野」
 ## 🤔  domain との違いは？
 
 - **realm**：抽象的・専門的な「分野」「領域」や「王国」を指し、ややフォーマル。
-- **[domain](/domain)**：主に「活動・知識の範囲」「インターネットのドメイン」など、より広く一般的な「領域」。
+- **[domain](/word/domain)**：主に「活動・知識の範囲」「インターネットのドメイン」など、より広く一般的な「領域」。
 
 realmは特定の専門分野や抽象的な世界観を強調する時に使い、domainはより一般的な範囲や分野に幅広く使われます。
 
@@ -105,14 +105,14 @@ realmは特定の専門分野や抽象的な世界観を強調する時に使い
 
 ## 🧩 あわせて覚えたい
 
-- [field](/field)：分野、領域
-- [territory](/territory)：領土、縄張り
+- [field](/word/field)：分野、領域
+- [territory](/word/territory)：領土、縄張り
 
 ---
 
 ## 📖 できればこれも
 
-- [sector](/sector)：部門、分野
-- [sphere](/sphere)：範囲、領域
+- [sector](/word/sector)：部門、分野
+- [sphere](/word/sphere)：範囲、領域
 
 <!-- cvid: aid24_bid41 -->

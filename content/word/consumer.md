@@ -97,7 +97,7 @@ TOEICでは広告やビジネス文書、アンケート結果などで「consum
 ## 🤔  customer との違いは？
 
 - **consumer**：商品やサービスを実際に使う「消費者」
-- **[customer](/customer)**：商品やサービスを「購入する人」
+- **[customer](/word/customer)**：商品やサービスを「購入する人」
 
 「consumer」は使う人、「customer」は買う人を指し、両者が一致しない場合もあります（例：親がcustomer、子どもがconsumer）。
 
@@ -105,14 +105,14 @@ TOEICでは広告やビジネス文書、アンケート結果などで「consum
 
 ## 🧩 あわせて覚えたい
 
-- [client](/client)：依頼人、顧客（特にサービス業で使う）
-- [producer](/producer)：生産者、製造者
+- [client](/word/client)：依頼人、顧客（特にサービス業で使う）
+- [producer](/word/producer)：生産者、製造者
 
 ---
 
 ## 📖 できればこれも
 
-- [supplier](/supplier)：供給者、納入業者
-- [purchase](/purchase)：購入、買うこと
+- [supplier](/word/supplier)：供給者、納入業者
+- [purchase](/word/purchase)：購入、買うこと
 
 <!-- cvid: aid25_bid21 -->

@@ -97,7 +97,7 @@ TOEICでは「規律」「訓練」「分野」といった意味で、文脈に
 ## 🤔  control との違いは？
 
 - **discipline**：自分や集団がルールや規律を守ること、または訓練やしつけの意味もある
-- **[control](/control)**：何かを管理・支配すること、操作すること
+- **[control](/word/control)**：何かを管理・支配すること、操作すること
 
 disciplineは「自発的・内面的な規律」や「訓練」に重点があり、controlは「外部からの管理・操作」に重点があります。
 
@@ -105,14 +105,14 @@ disciplineは「自発的・内面的な規律」や「訓練」に重点があ�
 
 ## 🧩 あわせて覚えたい
 
-- [order](/order)：秩序、順序
-- [regulation](/regulation)：規則、規制
+- [order](/word/order)：秩序、順序
+- [regulation](/word/regulation)：規則、規制
 
 ---
 
 ## 📖 できればこれも
 
-- [method](/method)：方法
-- [policy](/policy)：方針
+- [method](/word/method)：方法
+- [policy](/word/policy)：方針
 
 <!-- cvid: aid27_bid09 -->

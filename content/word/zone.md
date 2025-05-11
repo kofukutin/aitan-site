@@ -97,7 +97,7 @@ TOEICでは、都市や施設の説明、案内文などで「zone」がよく�
 ## 🤔  area との違いは？
 
 - **zone**：特定の目的や機能で区切られた区域
-- **[area](/area)**：広い意味での「場所」や「範囲」
+- **[area](/word/area)**：広い意味での「場所」や「範囲」
 
 zoneは「用途やルールで区切られた場所」に使い、areaは単に「場所」や「範囲」を指します。
 
@@ -105,14 +105,14 @@ zoneは「用途やルールで区切られた場所」に使い、areaは単に
 
 ## 🧩 あわせて覚えたい
 
-- [region](/region)：（広い）地域、地方
-- [section](/section)：（全体の中の）部分、区画
+- [region](/word/region)：（広い）地域、地方
+- [section](/word/section)：（全体の中の）部分、区画
 
 ---
 
 ## 📖 できればこれも
 
-- [district](/district)：行政上の地区、区域
-- [sector](/sector)：（産業・経済などの）部門、分野
+- [district](/word/district)：行政上の地区、区域
+- [sector](/word/sector)：（産業・経済などの）部門、分野
 
 <!-- cvid: aid04_bid08 -->

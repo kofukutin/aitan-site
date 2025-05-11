@@ -97,7 +97,7 @@ TOEICでは主に「相続する」「受け継ぐ」という意味で、文法
 ## 🤔  passed との違いは？
 
 - **inherited**：財産や特徴などを「受け継いだ」「相続した」という意味で、主にフォーマルな場面で使う。
-- **[passed](/passed)**：物や情報などを「渡した」「通過した」という意味で、より広い場面で使う。
+- **[passed](/word/passed)**：物や情報などを「渡した」「通過した」という意味で、より広い場面で使う。
 
 「inherited」は主に遺産や遺伝的特徴など、前の世代から自然に受け継ぐ場合に使い、「passed」は人が意図的に何かを渡す場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは主に「相続する」「受け継ぐ」という意味で、文法
 
 ## 🧩 あわせて覚えたい
 
-- [acquire](/acquire)：（努力して）手に入れる
-- [transfer](/transfer)：移す、譲渡する
+- [acquire](/word/acquire)：（努力して）手に入れる
+- [transfer](/word/transfer)：移す、譲渡する
 
 ---
 
 ## 📖 できればこれも
 
-- [receive](/receive)：受け取る
-- [obtain](/obtain)：（努力して）得る
+- [receive](/word/receive)：受け取る
+- [obtain](/word/obtain)：（努力して）得る
 
 <!-- cvid: aid10_bid15 -->

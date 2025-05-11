@@ -97,7 +97,7 @@ TOEICでは、製品説明やビジネス文書で「繊細な」「壊れやす
 ## 🤔  fragile との違いは？
 
 - **delicate**：繊細で壊れやすい、または微妙で注意が必要な状態
-- **[fragile](/fragile)**：物理的に壊れやすい、もろい
+- **[fragile](/word/fragile)**：物理的に壊れやすい、もろい
 
 delicateは「注意深く扱うべき繊細さ」や「感情・状況の微妙さ」にも使えるが、fragileは主に「物が壊れやすい」ことに限定されます。
 
@@ -105,14 +105,14 @@ delicateは「注意深く扱うべき繊細さ」や「感情・状況の微妙
 
 ## 🧩 あわせて覚えたい
 
-- [sensitive](/sensitive)：敏感な、感受性の強い
-- [subtle](/subtle)：微妙な、わずかな
+- [sensitive](/word/sensitive)：敏感な、感受性の強い
+- [subtle](/word/subtle)：微妙な、わずかな
 
 ---
 
 ## 📖 できればこれも
 
-- [complex](/complex)：複雑な
-- [precise](/precise)：正確な
+- [complex](/word/complex)：複雑な
+- [precise](/word/precise)：正確な
 
 <!-- cvid: aid26_bid29 -->

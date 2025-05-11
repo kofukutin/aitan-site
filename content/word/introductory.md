@@ -97,7 +97,7 @@ TOEICでは、案内文やコース説明、商品紹介などの文脈で「int
 ## 🤔  preliminary との違いは？
 
 - **introductory**：導入や入門、最初の説明・案内など「始まり」に焦点を当てる
-- **[preliminary](/preliminary)**：本番や本格的なものの前段階・予備的なもの
+- **[preliminary](/word/preliminary)**：本番や本格的なものの前段階・予備的なもの
 
 **introductory**は「これから本格的に始めるための最初の部分」に使い、**preliminary**は「本番前の準備や予備段階」に使われます。introductoryは「入門・導入」、preliminaryは「予備・下準備」のニュアンスです。
 
@@ -105,14 +105,14 @@ TOEICでは、案内文やコース説明、商品紹介などの文脈で「int
 
 ## 🧩 あわせて覚えたい
 
-- [initial](/initial)：初期の、最初の
-- [basic](/basic)：基本的な
+- [initial](/word/initial)：初期の、最初の
+- [basic](/word/basic)：基本的な
 
 ---
 
 ## 📖 できればこれも
 
-- [fundamental](/fundamental)：根本的な、基礎的な
-- [elementary](/elementary)：初歩的な、基礎の
+- [fundamental](/word/fundamental)：根本的な、基礎的な
+- [elementary](/word/elementary)：初歩的な、基礎の
 
 <!-- cvid: aid13_bid29 -->

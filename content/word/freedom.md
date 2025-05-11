@@ -97,7 +97,7 @@ TOEICでは主に長文読解やスピーチ文で「自由」や「権利」に
 ## 🤔  liberty との違いは？
 
 - **freedom**：個人の行動や考えが制限されていない状態の「自由」
-- **[liberty](/liberty)**：法律や社会的な権利として認められた「自由」
+- **[liberty](/word/liberty)**：法律や社会的な権利として認められた「自由」
 
 freedomは日常的・感覚的な「自由」を指し、libertyは法的・社会的な「権利としての自由」を強調する場面で使われます。
 
@@ -105,14 +105,14 @@ freedomは日常的・感覚的な「自由」を指し、libertyは法的・社
 
 ## 🧩 あわせて覚えたい
 
-- [independence](/independence)：独立、自立
-- [restriction](/restriction)：制限、規制
+- [independence](/word/independence)：独立、自立
+- [restriction](/word/restriction)：制限、規制
 
 ---
 
 ## 📖 できればこれも
 
-- [right](/right)：権利
-- [justice](/justice)：正義、公正
+- [right](/word/right)：権利
+- [justice](/word/justice)：正義、公正
 
 <!-- cvid: aid15_bid46 -->

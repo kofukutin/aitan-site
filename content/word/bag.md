@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「かばんを持つ」「袋を運ぶ
 ## 🤔  backpack との違いは？
 
 - **bag**：袋やかばん全般を指す幅広い言葉
-- **[backpack](/backpack)**：背負うタイプのリュックサック
+- **[backpack](/word/backpack)**：背負うタイプのリュックサック
 
 bagは「袋」「かばん」全体を指し、backpackは特に背中に背負うリュック型のかばんを指します。
 
@@ -105,14 +105,14 @@ bagは「袋」「かばん」全体を指し、backpackは特に背中に背負
 
 ## 🧩 あわせて覚えたい
 
-- [case](/case)：ケース、入れ物
-- [suitcase](/suitcase)：スーツケース、旅行かばん
+- [case](/word/case)：ケース、入れ物
+- [suitcase](/word/suitcase)：スーツケース、旅行かばん
 
 ---
 
 ## 📖 できればこれも
 
-- [box](/box)：箱
-- [pocket](/pocket)：ポケット
+- [box](/word/box)：箱
+- [pocket](/word/pocket)：ポケット
 
 <!-- cvid: aid35_bid23 -->

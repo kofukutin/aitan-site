@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やメールの中で「不適切な行動」や
 ## 🤔  improper との違いは？
 
 - **inappropriate**：状況や場面に合わず「ふさわしくない」「不適切な」
-- **[improper](/improper)**：規則や基準に反して「不正な」「不作法な」
+- **[improper](/word/improper)**：規則や基準に反して「不正な」「不作法な」
 
 inappropriateは「場にそぐわない」ニュアンス、improperは「ルールやマナー違反」の意味合いが強いです。
 
@@ -105,14 +105,14 @@ inappropriateは「場にそぐわない」ニュアンス、improperは「ル�
 
 ## 🧩 あわせて覚えたい
 
-- [suitable](/suitable)：適切な、ふさわしい
-- [unacceptable](/unacceptable)：受け入れられない
+- [suitable](/word/suitable)：適切な、ふさわしい
+- [unacceptable](/word/unacceptable)：受け入れられない
 
 ---
 
 ## 📖 できればこれも
 
-- [relevant](/relevant)：関連がある
-- [adequate](/adequate)：十分な、適切な
+- [relevant](/word/relevant)：関連がある
+- [adequate](/word/adequate)：十分な、適切な
 
 <!-- cvid: aid30_bid03 -->

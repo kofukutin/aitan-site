@@ -97,7 +97,7 @@ TOEICでは、addressedは「問題に対処する」「懸念に対応する」
 ## 🤔  solved との違いは？
 
 - **addressed**：問題や課題に「対処した」「取り組んだ」
-- **[solved](/solved)**：問題を「解決した」「答えを出した」
+- **[solved](/word/solved)**：問題を「解決した」「答えを出した」
 
 addressedは「対応した」段階で、必ずしも解決まで至っていない場合にも使えますが、solvedは「完全に解決した」場合に使います。
 
@@ -105,14 +105,14 @@ addressedは「対応した」段階で、必ずしも解決まで至ってい�
 
 ## 🧩 あわせて覚えたい
 
-- [handle](/handle)：扱う、処理する
-- [ignore](/ignore)：無視する
+- [handle](/word/handle)：扱う、処理する
+- [ignore](/word/ignore)：無視する
 
 ---
 
 ## 📖 できればこれも
 
-- [discuss](/discuss)：議論する
-- [mention](/mention)：言及する
+- [discuss](/word/discuss)：議論する
+- [mention](/word/mention)：言及する
 
 <!-- cvid: aid14_bid01 -->

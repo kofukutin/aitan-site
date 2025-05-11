@@ -98,7 +98,7 @@ TOEICでは、道案内や移動に関する会話、説明文で「cross」が�
 ## 🤔  pass との違いは？
 
 - **cross**：道や川などを「横切る」「渡る」ことを強調
-- **[pass](/pass)**：物や人のそばを「通り過ぎる」「追い越す」ことを強調
+- **[pass](/word/pass)**：物や人のそばを「通り過ぎる」「追い越す」ことを強調
 
 crossは「線や障害物を横断する」動作、passは「何かの横を通り抜ける」動作に使い分けます。
 
@@ -106,14 +106,14 @@ crossは「線や障害物を横断する」動作、passは「何かの横を�
 
 ## 🧩 あわせて覚えたい
 
-- [overcome](/overcome)：克服する
-- [intersect](/intersect)：交差する
+- [overcome](/word/overcome)：克服する
+- [intersect](/word/intersect)：交差する
 
 ---
 
 ## 📖 できればこれも
 
-- [move](/move)：動く、移動する
-- [reach](/reach)：到達する
+- [move](/word/move)：動く、移動する
+- [reach](/word/reach)：到達する
 
 <!-- cvid: aid09_bid47 -->

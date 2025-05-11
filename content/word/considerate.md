@@ -97,7 +97,7 @@ TOEICでは、人物の性格や職場でのマナーを問う文脈で出題さ
 ## 🤔  thoughtful との違いは？
 
 - **considerate**：他人の気持ちや立場に配慮して行動する
-- **[thoughtful](/thoughtful)**：よく考えている、または思いやりがある
+- **[thoughtful](/word/thoughtful)**：よく考えている、または思いやりがある
 
 **considerate**は「他人への配慮」に重点があり、**thoughtful**は「深く考える」や「気配りができる」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは、人物の性格や職場でのマナーを問う文脈で出題さ
 
 ## 🧩 あわせて覚えたい
 
-- [selfish](/selfish)：自己中心的な
-- [polite](/polite)：礼儀正しい
+- [selfish](/word/selfish)：自己中心的な
+- [polite](/word/polite)：礼儀正しい
 
 ---
 
 ## 📖 できればこれも
 
-- [generous](/generous)：気前がよい
-- [patient](/patient)：我慢強い
+- [generous](/word/generous)：気前がよい
+- [patient](/word/patient)：我慢強い
 
 <!-- cvid: aid28_bid40 -->

@@ -97,7 +97,7 @@ ITやデザイン、建築関連の説明文や仕様書で出題されること
 ## 🤔  depiction との違いは？
 
 - **rendering**：技術的・芸術的な「表現」「描写」、特にITやアートでの具体的なアウトプットに使う
-- **[depiction](/depiction)**：物事や場面を「描写」すること、説明や絵画など幅広い文脈で使う
+- **[depiction](/word/depiction)**：物事や場面を「描写」すること、説明や絵画など幅広い文脈で使う
 
 renderingは「実際に形にする」ニュアンスが強く、depictionは「説明や描写」に重点があります。
 
@@ -105,14 +105,14 @@ renderingは「実際に形にする」ニュアンスが強く、depictionは�
 
 ## 🧩 あわせて覚えたい
 
-- [interpretation](/interpretation)：解釈
-- [illustration](/illustration)：図解、イラスト
+- [interpretation](/word/interpretation)：解釈
+- [illustration](/word/illustration)：図解、イラスト
 
 ---
 
 ## 📖 できればこれも
 
-- [output](/output)：出力、成果物
-- [conversion](/conversion)：変換
+- [output](/word/output)：出力、成果物
+- [conversion](/word/conversion)：変換
 
 <!-- cvid: aid02_bid24 -->

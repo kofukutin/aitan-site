@@ -97,7 +97,7 @@ The hotel was too dear for our budget.
 ## 🤔  expensive との違いは？
 
 - **dear**：親しみや愛情を込めた呼びかけや、「高価な」という意味もあるがややフォーマル・古風。
-- **[expensive](/expensive)**：単に「値段が高い」という意味で、感情的なニュアンスはない。
+- **[expensive](/word/expensive)**：単に「値段が高い」という意味で、感情的なニュアンスはない。
 
 dearは人への呼びかけや愛情表現にも使われますが、expensiveは物の値段が高い場合のみ使います。
 
@@ -105,14 +105,14 @@ dearは人への呼びかけや愛情表現にも使われますが、expensive�
 
 ## 🧩 あわせて覚えたい
 
-- [cheap](/cheap)：安い
-- [beloved](/beloved)：最愛の、大切な
+- [cheap](/word/cheap)：安い
+- [beloved](/word/beloved)：最愛の、大切な
 
 ---
 
 ## 📖 できればこれも
 
-- [kind](/kind)：親切な
-- [polite](/polite)：礼儀正しい
+- [kind](/word/kind)：親切な
+- [polite](/word/polite)：礼儀正しい
 
 <!-- cvid: aid28_bid13 -->

@@ -97,7 +97,7 @@ TOEICでは、依頼や感謝を表すメールや手紙の文面でよく出題
 ## 🤔  thankful との違いは？
 
 - **grateful**：誰かの親切や具体的な行為に対して感謝している気持ちを表す
-- **[thankful](/thankful)**：困難を乗り越えたことや無事であることに対する安堵や感謝の気持ちを表す
+- **[thankful](/word/thankful)**：困難を乗り越えたことや無事であることに対する安堵や感謝の気持ちを表す
 
 gratefulは「人や行為」に対する感謝、thankfulは「状況や結果」に対する感謝で使い分けます。
 
@@ -105,14 +105,14 @@ gratefulは「人や行為」に対する感謝、thankfulは「状況や結果�
 
 ## 🧩 あわせて覚えたい
 
-- [appreciate](/appreciate)：感謝する、ありがたく思う（動詞）
-- [gratitude](/gratitude)：感謝（名詞）
+- [appreciate](/word/appreciate)：感謝する、ありがたく思う（動詞）
+- [gratitude](/word/gratitude)：感謝（名詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [polite](/polite)：礼儀正しい（形容詞）
-- [generous](/generous)：寛大な、気前の良い（形容詞）
+- [polite](/word/polite)：礼儀正しい（形容詞）
+- [generous](/word/generous)：寛大な、気前の良い（形容詞）
 
 <!-- cvid: aid45_bid19 -->

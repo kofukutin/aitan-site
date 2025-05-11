@@ -93,7 +93,7 @@ TOEICではPart 7の長文やEメール文中で「他の場所」「他の部�
 ## 🤔  somewhere との違いは？
 
 - **elsewhere**：今いる場所以外の「他のどこか」
-- **[somewhere](/somewhere)**：どこか（特定しない場所）
+- **[somewhere](/word/somewhere)**：どこか（特定しない場所）
 
 elsewhereは「今ここ以外の場所」を強調し、somewhereは単に「どこか」を指します。
 
@@ -101,14 +101,14 @@ elsewhereは「今ここ以外の場所」を強調し、somewhereは単に「�
 
 ## 🧩 あわせて覚えたい
 
-- [anywhere](/anywhere)：どこでも、どこか
-- [nowhere](/nowhere)：どこにも～ない
+- [anywhere](/word/anywhere)：どこでも、どこか
+- [nowhere](/word/nowhere)：どこにも～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [besides](/besides)：そのほかに、加えて
-- [otherwise](/otherwise)：さもなければ、別の方法で
+- [besides](/word/besides)：そのほかに、加えて
+- [otherwise](/word/otherwise)：さもなければ、別の方法で
 
 <!-- cvid: aid45_bid09 -->

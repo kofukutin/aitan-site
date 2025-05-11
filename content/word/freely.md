@@ -97,7 +97,7 @@ Employees are encouraged to share their ideas freely during meetings.
 ## 🤔  independently との違いは？
 
 - **freely**：制限や妨げがなく、自由に行うことを強調
-- **[independently](/independently)**：他人や他のものに頼らず、独立して行うことを強調
+- **[independently](/word/independently)**：他人や他のものに頼らず、独立して行うことを強調
 
 「freely」は「自由に」「気軽に」という雰囲気で、外部からの制限がないことを示しますが、「independently」は「自分ひとりで」「独立して」というニュアンスが強いです。
 
@@ -105,14 +105,14 @@ Employees are encouraged to share their ideas freely during meetings.
 
 ## 🧩 あわせて覚えたい
 
-- [openly](/openly)：率直に、隠さずに
-- [voluntarily](/voluntarily)：自発的に、進んで
+- [openly](/word/openly)：率直に、隠さずに
+- [voluntarily](/word/voluntarily)：自発的に、進んで
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/quickly)：素早く
-- [easily](/easily)：簡単に
+- [quickly](/word/quickly)：素早く
+- [easily](/word/easily)：簡単に
 
 <!-- cvid: aid34_bid35 -->

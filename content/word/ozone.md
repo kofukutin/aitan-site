@@ -96,7 +96,7 @@ The company is working on reducing emissions that damage the ozone layer.
 ## 🤔  oxygen との違いは？
 
 - **ozone**：酸素原子3つからなる気体で、主に成層圏に存在し紫外線を吸収する。
-- **[oxygen](/oxygen)**：酸素原子2つからなる気体で、呼吸や燃焼に不可欠。
+- **[oxygen](/word/oxygen)**：酸素原子2つからなる気体で、呼吸や燃焼に不可欠。
 
 ozoneは特殊な酸素分子で、主に大気の保護機能に関わるのに対し、oxygenは私たちが呼吸する通常の酸素です。
 
@@ -104,14 +104,14 @@ ozoneは特殊な酸素分子で、主に大気の保護機能に関わるのに
 
 ## 🧩 あわせて覚えたい
 
-- [pollution](/pollution)：汚染
-- [layer](/layer)：層
+- [pollution](/word/pollution)：汚染
+- [layer](/word/layer)：層
 
 ---
 
 ## 📖 できればこれも
 
-- [climate](/climate)：気候
-- [atmosphere](/atmosphere)：大気
+- [climate](/word/climate)：気候
+- [atmosphere](/word/atmosphere)：大気
 
 <!-- cvid: aid25_bid43 -->

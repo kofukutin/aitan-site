@@ -97,7 +97,7 @@ TOEICでは、形容詞の語彙問題や文脈判断で「必要か不要か」
 ## 🤔  redundant との違いは？
 
 - **unnecessary**：必要がなく、なくても困らないものや行動
-- **[redundant](/redundant)**：余分で重複している、あっても意味が重なっているもの
+- **[redundant](/word/redundant)**：余分で重複している、あっても意味が重なっているもの
 
 unnecessaryは「そもそも必要ない」こと、redundantは「すでにあるものと重複して無駄」というニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ unnecessaryは「そもそも必要ない」こと、redundantは「すでにあ
 
 ## 🧩 あわせて覚えたい
 
-- [essential](/essential)：不可欠な、絶対必要な
-- [optional](/optional)：任意の、選択できる
+- [essential](/word/essential)：不可欠な、絶対必要な
+- [optional](/word/optional)：任意の、選択できる
 
 ---
 
 ## 📖 できればこれも
 
-- [inevitable](/inevitable)：避けられない
-- [relevant](/relevant)：関連がある
+- [inevitable](/word/inevitable)：避けられない
+- [relevant](/word/relevant)：関連がある
 
 <!-- cvid: aid07_bid24 -->

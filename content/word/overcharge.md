@@ -97,7 +97,7 @@ TOEICでは請求書やクレーム対応の文脈で出題されることが多
 ## 🤔  charge との違いは？
 
 - **overcharge**：本来よりも高く請求する、過剰請求する
-- **[charge](/charge)**：料金を請求する（中立的な意味）
+- **[charge](/word/charge)**：料金を請求する（中立的な意味）
 
 「overcharge」は「不当に高い金額を請求する」否定的な意味ですが、「charge」は単に「請求する」で、金額の多寡や正当性には触れません。
 
@@ -105,14 +105,14 @@ TOEICでは請求書やクレーム対応の文脈で出題されることが多
 
 ## 🧩 あわせて覚えたい
 
-- [refund](/refund)：返金、払い戻し
-- [undercharge](/undercharge)：請求額が少なすぎる、安く請求する
+- [refund](/word/refund)：返金、払い戻し
+- [undercharge](/word/undercharge)：請求額が少なすぎる、安く請求する
 
 ---
 
 ## 📖 できればこれも
 
-- [bill](/bill)：請求書
-- [invoice](/invoice)：送り状、請求書
+- [bill](/word/bill)：請求書
+- [invoice](/word/invoice)：送り状、請求書
 
 <!-- cvid: aid13_bid42 -->

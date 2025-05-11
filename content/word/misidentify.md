@@ -97,7 +97,7 @@ TOEICでは、科学的な説明やビジネス文書の中で「誤認」や「
 ## 🤔  mistake との違いは？
 
 - **misidentify**：人や物を「誤って識別する」「間違ったものと認識する」こと
-- **[mistake](/mistake)**：広く「間違える」「誤る」こと全般
+- **[mistake](/word/mistake)**：広く「間違える」「誤る」こと全般
 
 misidentifyは「誰か・何かを別のものと誤認する」場面で使い、mistakeは内容や行動など幅広い「間違い」に使います。
 
@@ -105,14 +105,14 @@ misidentifyは「誰か・何かを別のものと誤認する」場面で使い
 
 ## 🧩 あわせて覚えたい
 
-- [recognize](/recognize)：認識する、見分ける
-- [misinterpret](/misinterpret)：誤解する、誤って解釈する
+- [recognize](/word/recognize)：認識する、見分ける
+- [misinterpret](/word/misinterpret)：誤解する、誤って解釈する
 
 ---
 
 ## 📖 できればこれも
 
-- [detect](/detect)：発見する、検出する
-- [analyze](/analyze)：分析する
+- [detect](/word/detect)：発見する、検出する
+- [analyze](/word/analyze)：分析する
 
 <!-- cvid: aid38_bid30 -->

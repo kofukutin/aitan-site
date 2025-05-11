@@ -97,7 +97,7 @@ TOEICでは、形容詞として「pressing issue（差し迫った問題）」�
 ## 🤔  urgent との違いは？
 
 - **pressing**：今すぐ対応が必要なほど「差し迫った」状態を強調する。
-- **[urgent](/urgent)**：緊急性が高く、すぐに行動が求められる状況を表す。
+- **[urgent](/word/urgent)**：緊急性が高く、すぐに行動が求められる状況を表す。
 
 pressingは「強く迫ってくる」ニュアンスがあり、urgentよりも「今すぐ」の切迫感をやや強調する場面で使われます。
 
@@ -105,14 +105,14 @@ pressingは「強く迫ってくる」ニュアンスがあり、urgentよりも
 
 ## 🧩 あわせて覚えたい
 
-- [immediate](/immediate)：即時の、すぐの
-- [critical](/critical)：重大な、危機的な
+- [immediate](/word/immediate)：即時の、すぐの
+- [critical](/word/critical)：重大な、危機的な
 
 ---
 
 ## 📖 できればこれも
 
-- [essential](/essential)：不可欠な、非常に重要な
-- [important](/important)：重要な
+- [essential](/word/essential)：不可欠な、非常に重要な
+- [important](/word/important)：重要な
 
 <!-- cvid: aid19_bid24 -->

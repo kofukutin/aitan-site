@@ -97,7 +97,7 @@ TOEICでは、主にビジネス文書やメールの中で「不十分な資源
 ## 🤔  inadequate との違いは？
 
 - **insufficient**：数量や程度が「足りない」「不足している」ことを強調
-- **[inadequate](/inadequate)**：目的や基準に「適していない」「不適切である」ことを強調
+- **[inadequate](/word/inadequate)**：目的や基準に「適していない」「不適切である」ことを強調
 
 insufficientは「量的な不足」、inadequateは「質や適合性の不足」に焦点があります。
 
@@ -105,14 +105,14 @@ insufficientは「量的な不足」、inadequateは「質や適合性の不足�
 
 ## 🧩 あわせて覚えたい
 
-- [sufficient](/sufficient)：十分な
-- [scarce](/scarce)：乏しい、希少な
+- [sufficient](/word/sufficient)：十分な
+- [scarce](/word/scarce)：乏しい、希少な
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/efficient)：効率的な
-- [excessive](/excessive)：過度な
+- [efficient](/word/efficient)：効率的な
+- [excessive](/word/excessive)：過度な
 
 <!-- cvid: aid12_bid05 -->

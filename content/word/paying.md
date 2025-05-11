@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「支払い中」「支払っている最中」
 ## 🤔  spending との違いは？
 
 - **paying**：お金を「支払う」動作そのものを強調
-- **[spending](/spending)**：お金や時間を「使う」こと全般を指す
+- **[spending](/word/spending)**：お金や時間を「使う」こと全般を指す
 
 payingは「支払い」という行為自体に焦点があり、spendingは「消費」や「費やす」こと全体を表します。
 
@@ -105,14 +105,14 @@ payingは「支払い」という行為自体に焦点があり、spendingは「
 
 ## 🧩 あわせて覚えたい
 
-- [receive](/receive)：受け取る
-- [charge](/charge)：請求する
+- [receive](/word/receive)：受け取る
+- [charge](/word/charge)：請求する
 
 ---
 
 ## 📖 できればこれも
 
-- [buy](/buy)：買う
-- [cost](/cost)：（費用が）かかる
+- [buy](/word/buy)：買う
+- [cost](/word/cost)：（費用が）かかる
 
 <!-- cvid: aid02_bid42 -->

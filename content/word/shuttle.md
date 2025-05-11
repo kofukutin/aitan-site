@@ -97,7 +97,7 @@ TOEICでは、空港やホテル、オフィス間の移動手段として案内
 ## 🤔  commute との違いは？
 
 - **shuttle**：2地点間を定期的に往復する乗り物やサービス
-- **[commute](/commute)**：通勤・通学など、日常的に移動する行為
+- **[commute](/word/commute)**：通勤・通学など、日常的に移動する行為
 
 shuttleは「乗り物やサービス」自体を指し、commuteは「移動する行為」を指します。shuttleでcommuteする、という使い方も可能です。
 
@@ -105,14 +105,14 @@ shuttleは「乗り物やサービス」自体を指し、commuteは「移動す
 
 ## 🧩 あわせて覚えたい
 
-- [transfer](/transfer)：乗り換え、移動
-- [route](/route)：経路、ルート
+- [transfer](/word/transfer)：乗り換え、移動
+- [route](/word/route)：経路、ルート
 
 ---
 
 ## 📖 できればこれも
 
-- [vehicle](/vehicle)：乗り物
-- [station](/station)：駅
+- [vehicle](/word/vehicle)：乗り物
+- [station](/word/station)：駅
 
 <!-- cvid: aid05_bid29 -->

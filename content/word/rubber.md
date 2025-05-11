@@ -97,7 +97,7 @@ TOEICでは素材や日用品、オフィス用品の説明文で登場するこ
 ## 🤔  eraser との違いは？
 
 - **rubber**：イギリス英語で「消しゴム」、または「ゴム素材」全般を指す。
-- **[eraser](/eraser)**：アメリカ英語で「消しゴム」を指す。
+- **[eraser](/word/eraser)**：アメリカ英語で「消しゴム」を指す。
 
 rubberはイギリス英語で消しゴム、eraserはアメリカ英語で消しゴムを意味します。アメリカ英語でrubberと言うと「ゴム素材」や他の意味になるので注意が必要です。
 
@@ -105,14 +105,14 @@ rubberはイギリス英語で消しゴム、eraserはアメリカ英語で消�
 
 ## 🧩 あわせて覚えたい
 
-- [plastic](/plastic)：プラスチック
-- [glove](/glove)：手袋
+- [plastic](/word/plastic)：プラスチック
+- [glove](/word/glove)：手袋
 
 ---
 
 ## 📖 できればこれも
 
-- [metal](/metal)：金属
-- [pencil](/pencil)：鉛筆
+- [metal](/word/metal)：金属
+- [pencil](/word/pencil)：鉛筆
 
 <!-- cvid: aid13_bid06 -->

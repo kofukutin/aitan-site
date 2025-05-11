@@ -97,7 +97,7 @@ TOEICでは、図表やプレゼン資料、広告などの説明文で「visual
 ## 🤔  optical との違いは？
 
 - **visual**：視覚や見た目に関する一般的な表現
-- **[optical](/optical)**：光学的、レンズや視力など科学的・技術的な意味合いが強い
+- **[optical](/word/optical)**：光学的、レンズや視力など科学的・技術的な意味合いが強い
 
 「visual」は見た目や視覚的な印象全般に使い、「optical」は光やレンズ、視力など科学・技術分野で使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、図表やプレゼン資料、広告などの説明文で「visual
 
 ## 🧩 あわせて覚えたい
 
-- [auditory](/auditory)：聴覚の、耳で感じる
-- [graphic](/graphic)：図や画像の、図解の
+- [auditory](/word/auditory)：聴覚の、耳で感じる
+- [graphic](/word/graphic)：図や画像の、図解の
 
 ---
 
 ## 📖 できればこれも
 
-- [visible](/visible)：目に見える
-- [image](/image)：画像、映像
+- [visible](/word/visible)：目に見える
+- [image](/word/image)：画像、映像
 
 <!-- cvid: aid28_bid03 -->

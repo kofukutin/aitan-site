@@ -97,7 +97,7 @@ TOEICでは医療やビジネスのトラブル報告、FAQなどで「再発す
 ## 🤔  repeat との違いは？
 
 - **recur**：自然現象や問題などが「（何度も）再発する」「周期的に起こる」ことを強調
-- **[repeat](/repeat)**：人為的・意図的に「繰り返す」、単純な反復
+- **[repeat](/word/repeat)**：人為的・意図的に「繰り返す」、単純な反復
 
 recurは「自然にまた起こる」ニュアンスが強く、repeatは「意図的な繰り返し」や「動作の反復」に使われます。
 
@@ -105,14 +105,14 @@ recurは「自然にまた起こる」ニュアンスが強く、repeatは「意
 
 ## 🧩 あわせて覚えたい
 
-- [occur](/occur)：起こる、発生する
-- [persist](/persist)：持続する、しつこく続く
+- [occur](/word/occur)：起こる、発生する
+- [persist](/word/persist)：持続する、しつこく続く
 
 ---
 
 ## 📖 できればこれも
 
-- [recover](/recover)：回復する
-- [reduce](/reduce)：減らす
+- [recover](/word/recover)：回復する
+- [reduce](/word/reduce)：減らす
 
 <!-- cvid: aid02_bid26 -->

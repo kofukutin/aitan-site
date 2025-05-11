@@ -97,7 +97,7 @@ TOEICではビジネス文書や社内メール、求人広告などで「創造
 ## 🤔  innovation との違いは？
 
 - **creativity**：新しいアイデアや独自の発想力そのもの
-- **[innovation](/innovation)**：新しいアイデアを実際に形にして社会に変化をもたらすこと
+- **[innovation](/word/innovation)**：新しいアイデアを実際に形にして社会に変化をもたらすこと
 
 creativityは「生み出す力」、innovationは「実際に新しいものを導入・実現すること」という違いがあります。
 
@@ -105,14 +105,14 @@ creativityは「生み出す力」、innovationは「実際に新しいものを
 
 ## 🧩 あわせて覚えたい
 
-- [imagination](/imagination)：想像力
-- [originality](/originality)：独自性、独創性
+- [imagination](/word/imagination)：想像力
+- [originality](/word/originality)：独自性、独創性
 
 ---
 
 ## 📖 できればこれも
 
-- [inspiration](/inspiration)：ひらめき、刺激
-- [solution](/solution)：解決策
+- [inspiration](/word/inspiration)：ひらめき、刺激
+- [solution](/word/solution)：解決策
 
 <!-- cvid: aid16_bid39 -->

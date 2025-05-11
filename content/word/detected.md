@@ -97,7 +97,7 @@ TOEICではITや品質管理、セキュリティ関連の説明文で「detecte
 ## 🤔  discovered との違いは？
 
 - **detected**：機械や技術、注意深い観察によって「検出する」「発見する」
-- **[discovered](/discovered)**：新しいものや未知のものを「発見する」
+- **[discovered](/word/discovered)**：新しいものや未知のものを「発見する」
 
 detectedは「見えにくいものを見つける」ニュアンスが強く、discoveredは「新しいものを発見する」場面で使われます。
 
@@ -105,14 +105,14 @@ detectedは「見えにくいものを見つける」ニュアンスが強く、
 
 ## 🧩 あわせて覚えたい
 
-- [identify](/identify)：特定する、識別する
-- [notice](/notice)：気づく、注目する
+- [identify](/word/identify)：特定する、識別する
+- [notice](/word/notice)：気づく、注目する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/analyze)：分析する
-- [monitor](/monitor)：監視する
+- [analyze](/word/analyze)：分析する
+- [monitor](/word/monitor)：監視する
 
 <!-- cvid: aid40_bid49 -->

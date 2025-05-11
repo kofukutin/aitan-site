@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や記事の中で「発行部数」や「流
 ## 🤔  distribution との違いは？
 
 - **circulation**：循環や発行部数など「回る・巡る」ニュアンスが強い
-- **[distribution](/distribution)**：分配や配布など「広く分け与える」ニュアンスが強い
+- **[distribution](/word/distribution)**：分配や配布など「広く分け与える」ニュアンスが強い
 
 circulationは「ぐるぐる回る」「定期的に巡る」イメージ、distributionは「一方向に配る」イメージです。
 
@@ -105,14 +105,14 @@ circulationは「ぐるぐる回る」「定期的に巡る」イメージ、dis
 
 ## 🧩 あわせて覚えたい
 
-- [flow](/flow)：流れ
-- [exchange](/exchange)：交換
+- [flow](/word/flow)：流れ
+- [exchange](/word/exchange)：交換
 
 ---
 
 ## 📖 できればこれも
 
-- [publication](/publication)：出版物、発行
-- [subscription](/subscription)：購読、加入
+- [publication](/word/publication)：出版物、発行
+- [subscription](/word/subscription)：購読、加入
 
 <!-- cvid: aid48_bid37 -->

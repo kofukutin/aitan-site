@@ -97,7 +97,7 @@ slotはTOEICの会話パートで「予約枠」や「空き時間」として�
 ## 🤔  schedule との違いは？
 
 - **slot**：決められた「枠」や「空き時間」を指す
-- **[schedule](/schedule)**：全体の「予定表」や「スケジュール」を指す
+- **[schedule](/word/schedule)**：全体の「予定表」や「スケジュール」を指す
 
 slotは「予定の中の1つの枠」や「空き時間」を強調し、scheduleは全体の計画や流れを指します。
 
@@ -105,14 +105,14 @@ slotは「予定の中の1つの枠」や「空き時間」を強調し、schedu
 
 ## 🧩 あわせて覚えたい
 
-- [appointment](/appointment)：予約、約束
-- [gap](/gap)：隙間、空白
+- [appointment](/word/appointment)：予約、約束
+- [gap](/word/gap)：隙間、空白
 
 ---
 
 ## 📖 できればこれも
 
-- [shift](/shift)：勤務時間、交代制
-- [period](/period)：期間、時限
+- [shift](/word/shift)：勤務時間、交代制
+- [period](/word/period)：期間、時限
 
 <!-- cvid: aid13_bid07 -->

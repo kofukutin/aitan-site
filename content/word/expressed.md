@@ -97,7 +97,7 @@ TOEICでは、契約や意見、要望などが「明示された」「表現さ
 ## 🤔  stated との違いは？
 
 - **expressed**：はっきりと表現された、明示された（特に感情や意見、契約内容などが明確に示されている場合に使う）
-- **[stated](/stated)**：述べられた、記載された（単に言葉や文章で述べられたことを指す）
+- **[stated](/word/stated)**：述べられた、記載された（単に言葉や文章で述べられたことを指す）
 
 expressedは「感情や意図が明確に表現された」ニュアンスが強く、statedは「事実や内容が述べられた」ことに重点があります。
 
@@ -105,14 +105,14 @@ expressedは「感情や意図が明確に表現された」ニュアンスが�
 
 ## 🧩 あわせて覚えたい
 
-- [implied](/implied)：暗示された、ほのめかされた
-- [explicit](/explicit)：明確な、はっきりした
+- [implied](/word/implied)：暗示された、ほのめかされた
+- [explicit](/word/explicit)：明確な、はっきりした
 
 ---
 
 ## 📖 できればこれも
 
-- [express](/express)：表現する、述べる
-- [explicit](/explicit)：明確な、はっきりした
+- [express](/word/express)：表現する、述べる
+- [explicit](/word/explicit)：明確な、はっきりした
 
 <!-- cvid: aid11_bid28 -->

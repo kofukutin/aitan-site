@@ -97,7 +97,7 @@ TOEICでは主に長文読解や法務関連の文脈で「文」や「判決」
 ## 🤔  verdict との違いは？
 
 - **sentence**：文、または裁判での「判決」（特に刑罰の内容）
-- **[verdict](/verdict)**：陪審員や裁判官による「評決」（有罪・無罪などの判断）
+- **[verdict](/word/verdict)**：陪審員や裁判官による「評決」（有罪・無罪などの判断）
 
 sentenceは「文」や「刑罰の内容」を指し、verdictは「有罪・無罪などの判断結果」を指します。
 
@@ -105,14 +105,14 @@ sentenceは「文」や「刑罰の内容」を指し、verdictは「有罪・�
 
 ## 🧩 あわせて覚えたい
 
-- [judgment](/judgment)：判断、判決
-- [statement](/statement)：声明、陳述
+- [judgment](/word/judgment)：判断、判決
+- [statement](/word/statement)：声明、陳述
 
 ---
 
 ## 📖 できればこれも
 
-- [paragraph](/paragraph)：段落
-- [decision](/decision)：決定、判断
+- [paragraph](/word/paragraph)：段落
+- [decision](/word/decision)：決定、判断
 
 <!-- cvid: aid32_bid02 -->

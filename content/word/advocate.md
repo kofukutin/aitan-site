@@ -97,7 +97,7 @@ TOEICでは、ビジネスや社会問題に関する長文の中で「advocate�
 ## 🤔  support との違いは？
 
 - **advocate**：積極的に主張・提唱して支持する（特にフォーマルな場面で使う）
-- **[support](/support)**：広く「支える」「支持する」意味で、日常的にも使う
+- **[support](/word/support)**：広く「支える」「支持する」意味で、日常的にも使う
 
 「advocate」は自分の意見や立場を強く押し出して主張する時に使い、「support」は単に賛成・支援する場合にも使えます。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネスや社会問題に関する長文の中で「advocate�
 
 ## 🧩 あわせて覚えたい
 
-- [oppose](/oppose)：反対する
-- [recommend](/recommend)：推薦する、勧める
+- [oppose](/word/oppose)：反対する
+- [recommend](/word/recommend)：推薦する、勧める
 
 ---
 
 ## 📖 できればこれも
 
-- [promote](/promote)：促進する、推進する
-- [encourage](/encourage)：励ます、促す
+- [promote](/word/promote)：促進する、推進する
+- [encourage](/word/encourage)：励ます、促す
 
 <!-- cvid: aid00_bid15 -->

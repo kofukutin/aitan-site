@@ -97,7 +97,7 @@ TOEICでは「solve a problem」や「solve an issue」など、問題解決の�
 ## 🤔  resolve との違いは？
 
 - **solve**：具体的な問題やパズルなどを「解く」「解決する」時に使う
-- **[resolve](/resolve)**：対立やトラブルなど、やや抽象的・複雑な問題を「解決する」時に使う
+- **[resolve](/word/resolve)**：対立やトラブルなど、やや抽象的・複雑な問題を「解決する」時に使う
 
 「solve」は数学やパズルなど明確な答えがある問題に、「resolve」は人間関係や紛争など複雑な問題に使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは「solve a problem」や「solve an issue」など、問題解決の�
 
 ## 🧩 あわせて覚えたい
 
-- [fix](/fix)：修理する、直す
-- [address](/address)：（問題などに）対処する
+- [fix](/word/fix)：修理する、直す
+- [address](/word/address)：（問題などに）対処する
 
 ---
 
 ## 📖 できればこれも
 
-- [answer](/answer)：答える、答え
-- [handle](/handle)：扱う、対処する
+- [answer](/word/answer)：答える、答え
+- [handle](/word/handle)：扱う、対処する
 
 <!-- cvid: aid48_bid26 -->

@@ -97,7 +97,7 @@ TOEICではITやビジネス文書の中で「データにアクセスする」�
 ## 🤔  approached との違いは？
 
 - **accessed**：ITや情報、場所などに「到達して利用できる状態にした」ことを表す
-- **[approached](/approached)**：物理的・心理的に「近づいた」「接近した」ことを表す
+- **[approached](/word/approached)**：物理的・心理的に「近づいた」「接近した」ことを表す
 
 「accessed」は主にデータやシステムなどに「アクセスして利用した」場合に使い、「approached」は人や場所などに「近づいた」場合に使います。
 
@@ -105,14 +105,14 @@ TOEICではITやビジネス文書の中で「データにアクセスする」�
 
 ## 🧩 あわせて覚えたい
 
-- [retrieve](/retrieve)：（データなどを）取り出す
-- [enter](/enter)：入力する、入る
+- [retrieve](/word/retrieve)：（データなどを）取り出す
+- [enter](/word/enter)：入力する、入る
 
 ---
 
 ## 📖 できればこれも
 
-- [download](/download)：ダウンロードする
-- [upload](/upload)：アップロードする
+- [download](/word/download)：ダウンロードする
+- [upload](/word/upload)：アップロードする
 
 <!-- cvid: aid49_bid20 -->

@@ -97,7 +97,7 @@ TOEICでは、ITやビジネス分野の長文読解問題で「technological」
 ## 🤔  technical との違いは？
 
 - **technological**：科学技術や最新技術に関する
-- **[technical](/technical)**：専門的・技術的な（細かい手順や知識に関する）
+- **[technical](/word/technical)**：専門的・技術的な（細かい手順や知識に関する）
 
 「technological」は主に科学技術やイノベーションなど広い意味での技術に使われ、「technical」は専門的な手順や知識、細かい技術面に焦点を当てます。
 
@@ -105,14 +105,14 @@ TOEICでは、ITやビジネス分野の長文読解問題で「technological」
 
 ## 🧩 あわせて覚えたい
 
-- [scientific](/scientific)：科学の、科学的な
-- [innovative](/innovative)：革新的な
+- [scientific](/word/scientific)：科学の、科学的な
+- [innovative](/word/innovative)：革新的な
 
 ---
 
 ## 📖 できればこれも
 
-- [digital](/digital)：デジタルの
-- [mechanical](/mechanical)：機械の、機械的な
+- [digital](/word/digital)：デジタルの
+- [mechanical](/word/mechanical)：機械の、機械的な
 
 <!-- cvid: aid15_bid19 -->

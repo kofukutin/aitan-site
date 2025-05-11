@@ -97,7 +97,7 @@ ITやビジネス文書、メールの説明文で「header」は頻出です。
 ## 🤔  heading との違いは？
 
 - **header**：文書やウェブページの上部欄や情報部分
-- **[heading](/heading)**：章や段落のタイトル、見出し
+- **[heading](/word/heading)**：章や段落のタイトル、見出し
 
 headerは「上部の情報欄」全体を指し、headingは「タイトルや見出し」そのものを指します。
 
@@ -105,14 +105,14 @@ headerは「上部の情報欄」全体を指し、headingは「タイトルや�
 
 ## 🧩 あわせて覚えたい
 
-- [footer](/footer)：フッター、下部欄
-- [title](/title)：タイトル、題名
+- [footer](/word/footer)：フッター、下部欄
+- [title](/word/title)：タイトル、題名
 
 ---
 
 ## 📖 できればこれも
 
-- [subject](/subject)：件名、主題
-- [section](/section)：区分、セクション
+- [subject](/word/subject)：件名、主題
+- [section](/word/section)：区分、セクション
 
 <!-- cvid: aid06_bid06 -->

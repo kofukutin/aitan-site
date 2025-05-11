@@ -97,7 +97,7 @@ temporalはTOEICの長文読解や科学・技術系の文章でまれに登場�
 ## 🤔  temporary との違いは？
 
 - **temporal**：時間に関する、時間的な
-- **[temporary](/temporary)**：一時的な、仮の
+- **[temporary](/word/temporary)**：一時的な、仮の
 
 temporalは「時間そのものや時間の流れに関する」意味で、temporaryは「短期間だけ続く」という意味です。temporalは科学や哲学で、temporaryは日常的な「仮の」や「臨時の」に使われます。
 
@@ -105,14 +105,14 @@ temporalは「時間そのものや時間の流れに関する」意味で、tem
 
 ## 🧩 あわせて覚えたい
 
-- [permanent](/permanent)：永続的な、恒久的な
-- [chronological](/chronological)：年代順の、時系列の
+- [permanent](/word/permanent)：永続的な、恒久的な
+- [chronological](/word/chronological)：年代順の、時系列の
 
 ---
 
 ## 📖 できればこれも
 
-- [spatial](/spatial)：空間の、空間的な
-- [transient](/transient)：一時的な、つかの間の
+- [spatial](/word/spatial)：空間の、空間的な
+- [transient](/word/transient)：一時的な、つかの間の
 
 <!-- cvid: aid00_bid02 -->

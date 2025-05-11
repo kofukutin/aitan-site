@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写や、施設案内・指示の場面でよ
 ## 🤔  lot との違いは？
 
 - **parking**：駐車すること、または駐車場全体を指すこともある
-- **[lot](/lot)**：特に「駐車場（parking lot）」のように、区画された土地やスペースを指す
+- **[lot](/word/lot)**：特に「駐車場（parking lot）」のように、区画された土地やスペースを指す
 
 「parking」は行為や場所全体を指し、「lot」は区画されたスペースや土地を強調します。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写や、施設案内・指示の場面でよ
 
 ## 🧩 あわせて覚えたい
 
-- [garage](/garage)：車庫、ガレージ
-- [permit](/permit)：許可証
+- [garage](/word/garage)：車庫、ガレージ
+- [permit](/word/permit)：許可証
 
 ---
 
 ## 📖 できればこれも
 
-- [ticket](/ticket)：（駐車）券、切符
-- [space](/space)：スペース、空き（駐車スペースなど）
+- [ticket](/word/ticket)：（駐車）券、切符
+- [space](/word/space)：スペース、空き（駐車スペースなど）
 
 <!-- cvid: aid47_bid23 -->

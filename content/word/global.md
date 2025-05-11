@@ -97,7 +97,7 @@ TOEICではビジネスや経済、環境問題などの文脈で「global」が
 ## 🤔  international との違いは？
 
 - **global**：世界全体・地球規模で広がることを強調
-- **[international](/international)**：国と国の間、複数の国にまたがることを強調
+- **[international](/word/international)**：国と国の間、複数の国にまたがることを強調
 
 「global」は地球全体や全世界を対象にするニュアンスが強く、「international」は国際間や複数国の関係に焦点を当てます。
 
@@ -105,14 +105,14 @@ TOEICではビジネスや経済、環境問題などの文脈で「global」が
 
 ## 🧩 あわせて覚えたい
 
-- [domestic](/domestic)：国内の
-- [universal](/universal)：普遍的な
+- [domestic](/word/domestic)：国内の
+- [universal](/word/universal)：普遍的な
 
 ---
 
 ## 📖 できればこれも
 
-- [local](/local)：地域の
-- [regional](/regional)：地方の
+- [local](/word/local)：地域の
+- [regional](/word/regional)：地方の
 
 <!-- cvid: aid05_bid11 -->

@@ -97,7 +97,7 @@ TOEICでは「avoid doing（～するのを避ける）」の形で頻出です�
 ## 🤔  prevent との違いは？
 
 - **avoid**：自分の行動で「～を避ける」「～しないようにする」
-- **[prevent](/prevent)**：何かが起こるのを「防ぐ」「阻止する」
+- **[prevent](/word/prevent)**：何かが起こるのを「防ぐ」「阻止する」
 
 avoidは自分が直接行動を変えて避ける場合に使い、preventは出来事や他人の行動を未然に防ぐ場合に使います。
 
@@ -105,14 +105,14 @@ avoidは自分が直接行動を変えて避ける場合に使い、preventは�
 
 ## 🧩 あわせて覚えたい
 
-- [escape](/escape)：逃げる、脱出する
-- [ignore](/ignore)：無視する
+- [escape](/word/escape)：逃げる、脱出する
+- [ignore](/word/ignore)：無視する
 
 ---
 
 ## 📖 できればこれも
 
-- [refuse](/refuse)：断る
-- [deny](/deny)：否定する
+- [refuse](/word/refuse)：断る
+- [deny](/word/deny)：否定する
 
 <!-- cvid: aid31_bid36 -->

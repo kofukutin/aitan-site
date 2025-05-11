@@ -97,7 +97,7 @@ TOEICでは、買い物やサービスに関する会話で「florist」が登�
 ## 🤔  flower shop との違いは？
 
 - **florist**：花屋や花屋の店員を指し、職業や店舗の両方に使える。
-- **[flower shop](/flower_shop)**：花を売るお店そのものを指す表現。
+- **[flower shop](/word/flower_shop)**：花を売るお店そのものを指す表現。
 
 floristは人や店の両方に使えますが、flower shopは「お店」限定です。
 
@@ -105,14 +105,14 @@ floristは人や店の両方に使えますが、flower shopは「お店」限�
 
 ## 🧩 あわせて覚えたい
 
-- [bouquet](/bouquet)：花束
-- [gardener](/gardener)：庭師
+- [bouquet](/word/bouquet)：花束
+- [gardener](/word/gardener)：庭師
 
 ---
 
 ## 📖 できればこれも
 
-- [bakery](/bakery)：パン屋
-- [pharmacy](/pharmacy)：薬局
+- [bakery](/word/bakery)：パン屋
+- [pharmacy](/word/pharmacy)：薬局
 
 <!-- cvid: aid10_bid10 -->

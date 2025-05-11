@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や会議の終了、契約の締結、結論
 ## 🤔  finish との違いは？
 
 - **conclude**：フォーマルに「終える」「結論を出す」「締結する」など、まとめて締めくくるニュアンス。
-- **[finish](/finish)**：日常的に「終わる」「終える」を表し、作業や行動の完了に幅広く使う。
+- **[finish](/word/finish)**：日常的に「終わる」「終える」を表し、作業や行動の完了に幅広く使う。
 
 concludeは会議や契約、議論などを正式に締めくくる時に使い、finishは単純な作業や行動の終了に使います。
 
@@ -105,14 +105,14 @@ concludeは会議や契約、議論などを正式に締めくくる時に使い
 
 ## 🧩 あわせて覚えたい
 
-- [terminate](/terminate)：（正式に）終わらせる、打ち切る
-- [summarize](/summarize)：要約する
+- [terminate](/word/terminate)：（正式に）終わらせる、打ち切る
+- [summarize](/word/summarize)：要約する
 
 ---
 
 ## 📖 できればこれも
 
-- [assume](/assume)：仮定する、引き受ける
-- [determine](/determine)：決定する、判断する
+- [assume](/word/assume)：仮定する、引き受ける
+- [determine](/word/determine)：決定する、判断する
 
 <!-- cvid: aid45_bid39 -->

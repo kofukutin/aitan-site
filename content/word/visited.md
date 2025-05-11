@@ -97,7 +97,7 @@ TOEICでは、過去の行動や訪問先について尋ねる会話文で頻出
 ## 🤔  went との違いは？
 
 - **visited**：目的地を「訪問した」「会いに行った」ことを強調
-- **[went](/went)**：「行った」だけで、訪問や目的は特に強調しない
+- **[went](/word/went)**：「行った」だけで、訪問や目的は特に強調しない
 
 visitedは「誰かに会いに行く」「見学する」など、目的や訪問のニュアンスが強いですが、wentは単に「移動した」ことを表します。
 
@@ -105,14 +105,14 @@ visitedは「誰かに会いに行く」「見学する」など、目的や訪�
 
 ## 🧩 あわせて覚えたい
 
-- [explore](/explore)：探検する、詳しく調べる
-- [stay](/stay)：滞在する
+- [explore](/word/explore)：探検する、詳しく調べる
+- [stay](/word/stay)：滞在する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrive](/arrive)：到着する
-- [travel](/travel)：旅行する
+- [arrive](/word/arrive)：到着する
+- [travel](/word/travel)：旅行する
 
 <!-- cvid: aid45_bid33 -->

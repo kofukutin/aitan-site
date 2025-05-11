@@ -97,7 +97,7 @@ TOEICでは、分詞構文や形容詞的用法として「containing」が名�
 ## 🤔  including との違いは？
 
 - **containing**：物理的・具体的に「中に含んでいる」ことを強調
-- **[including](/including)**：全体の一部として「～を含めて」という意味で、範囲や例示に使う
+- **[including](/word/including)**：全体の一部として「～を含めて」という意味で、範囲や例示に使う
 
 「containing」は実際に中に入っている状態を指し、「including」はリストや範囲の一部として含めるニュアンスです。
 
@@ -105,14 +105,14 @@ TOEICでは、分詞構文や形容詞的用法として「containing」が名�
 
 ## 🧩 あわせて覚えたい
 
-- [exclude](/exclude)：除外する
-- [consist](/consist)：構成される
+- [exclude](/word/exclude)：除外する
+- [consist](/word/consist)：構成される
 
 ---
 
 ## 📖 できればこれも
 
-- [involve](/involve)：関与する、含む
-- [cover](/cover)：覆う、含む
+- [involve](/word/involve)：関与する、含む
+- [cover](/word/cover)：覆う、含む
 
 <!-- cvid: aid02_bid27 -->

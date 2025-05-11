@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、物や作業の説明として登場
 ## 🤔  cord との違いは？
 
 - **rope**：太くて丈夫な「ロープ」や「綱」を指し、重い物を縛ったり吊るしたりするのに使う。
-- **[cord](/cord)**：ropeより細めで、電気コードや細いひもなど幅広い用途に使われる。
+- **[cord](/word/cord)**：ropeより細めで、電気コードや細いひもなど幅広い用途に使われる。
 
 ropeは主に太くて強度が必要な場面、cordは比較的細くて柔軟なひもや電線などに使われます。
 
@@ -105,14 +105,14 @@ ropeは主に太くて強度が必要な場面、cordは比較的細くて柔軟
 
 ## 🧩 あわせて覚えたい
 
-- [string](/string)：ひも、糸（ropeやcordより細い）
-- [chain](/chain)：鎖（金属製の連なったもの）
+- [string](/word/string)：ひも、糸（ropeやcordより細い）
+- [chain](/word/chain)：鎖（金属製の連なったもの）
 
 ---
 
 ## 📖 できればこれも
 
-- [ladder](/ladder)：はしご
-- [hook](/hook)：フック、かぎ
+- [ladder](/word/ladder)：はしご
+- [hook](/word/hook)：フック、かぎ
 
 <!-- cvid: aid10_bid14 -->

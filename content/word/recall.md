@@ -97,7 +97,7 @@ TOEICでは会議やビジネスの会話で「思い出す」「回収する」
 ## 🤔  remember との違いは？
 
 - **recall**：意識的に努力して思い出す、ややフォーマル
-- **[remember](/remember)**：自然に覚えている、カジュアル
+- **[remember](/word/remember)**：自然に覚えている、カジュアル
 
 recallは「記憶をたどって思い出す」ニュアンスがあり、rememberは「覚えている」状態を指します。
 
@@ -105,14 +105,14 @@ recallは「記憶をたどって思い出す」ニュアンスがあり、remem
 
 ## 🧩 あわせて覚えたい
 
-- [remind](/remind)：思い出させる
-- [retrieve](/retrieve)：（情報などを）取り出す
+- [remind](/word/remind)：思い出させる
+- [retrieve](/word/retrieve)：（情報などを）取り出す
 
 ---
 
 ## 📖 できればこれも
 
-- [review](/review)：復習する、見直す
-- [mention](/mention)：言及する
+- [review](/word/review)：復習する、見直す
+- [mention](/word/mention)：言及する
 
 <!-- cvid: aid47_bid31 -->

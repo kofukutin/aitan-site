@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、作業員やスポーツ選手がヘ
 ## 🤔  hat との違いは？
 
 - **helmet**：頭部を守るための硬い帽子。安全や防護が目的。
-- **[hat](/hat)**：一般的な帽子。日よけやファッション目的が多い。
+- **[hat](/word/hat)**：一般的な帽子。日よけやファッション目的が多い。
 
 helmetは「保護用」、hatは「日常用・装飾用」と使い分けます。
 
@@ -105,14 +105,14 @@ helmetは「保護用」、hatは「日常用・装飾用」と使い分けま�
 
 ## 🧩 あわせて覚えたい
 
-- [cap](/cap)：つば付きの軽い帽子
-- [gear](/gear)：装備、道具
+- [cap](/word/cap)：つば付きの軽い帽子
+- [gear](/word/gear)：装備、道具
 
 ---
 
 ## 📖 できればこれも
 
-- [glove](/glove)：手袋
-- [uniform](/uniform)：制服
+- [glove](/word/glove)：手袋
+- [uniform](/word/uniform)：制服
 
 <!-- cvid: aid46_bid42 -->

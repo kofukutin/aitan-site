@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やメール、記事などで「地位」「評
 ## 🤔  status との違いは？
 
 - **standing**：社会的な評価や長期的な地位を強調
-- **[status](/status)**：現在の状況や立場、公式な身分を表す
+- **[status](/word/status)**：現在の状況や立場、公式な身分を表す
 
 **standing**は「評判」や「社会的評価」に重点があり、**status**は「現時点での状態」や「公式な立場」を指すことが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネス文書やメール、記事などで「地位」「評
 
 ## 🧩 あわせて覚えたい
 
-- [reputation](/reputation)：評判、名声
-- [position](/position)：職位、役職
+- [reputation](/word/reputation)：評判、名声
+- [position](/word/position)：職位、役職
 
 ---
 
 ## 📖 できればこれも
 
-- [authority](/authority)：権威、権限
-- [rank](/rank)：階級、順位
+- [authority](/word/authority)：権威、権限
+- [rank](/word/rank)：階級、順位
 
 <!-- cvid: aid00_bid29 -->

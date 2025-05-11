@@ -98,7 +98,7 @@ TOEICでは、トラブルや緊急事態、混乱した状況を説明する文
 ## 🤔  confusion との違いは？
 
 - **chaos**：秩序が完全に失われた大混乱や無秩序の状態
-- **[confusion](/confusion)**：混乱や困惑、物事がはっきりしない状態
+- **[confusion](/word/confusion)**：混乱や困惑、物事がはっきりしない状態
 
 chaosは「手がつけられないほどの大混乱」、confusionは「頭の中や状況がごちゃごちゃしている」程度の混乱を指します。
 
@@ -106,14 +106,14 @@ chaosは「手がつけられないほどの大混乱」、confusionは「頭の
 
 ## 🧩 あわせて覚えたい
 
-- [order](/order)：秩序、順序
-- [disorder](/disorder)：無秩序、混乱
+- [order](/word/order)：秩序、順序
+- [disorder](/word/disorder)：無秩序、混乱
 
 ---
 
 ## 📖 できればこれも
 
-- [crisis](/crisis)：危機
-- [incident](/incident)：出来事、事件
+- [crisis](/word/crisis)：危機
+- [incident](/word/incident)：出来事、事件
 
 <!-- cvid: aid41_bid14 -->

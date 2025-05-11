@@ -97,7 +97,7 @@ TOEICでは、会話や説明文で「誇りに思う」「自信を持ってい
 ## 🤔  arrogant との違いは？
 
 - **proud**：自分や他人の成果を誇りに思う、前向きな意味で使われる
-- **[arrogant](/arrogant)**：他人を見下すような「傲慢な」態度を指す
+- **[arrogant](/word/arrogant)**：他人を見下すような「傲慢な」態度を指す
 
 proudはポジティブな誇りや自信を表しますが、arrogantはネガティブな「うぬぼれ」や「横柄さ」を意味します。
 
@@ -105,14 +105,14 @@ proudはポジティブな誇りや自信を表しますが、arrogantはネガ�
 
 ## 🧩 あわせて覚えたい
 
-- [confident](/confident)：自信がある
-- [humble](/humble)：謙虚な
+- [confident](/word/confident)：自信がある
+- [humble](/word/humble)：謙虚な
 
 ---
 
 ## 📖 できればこれも
 
-- [confident](/confident)：自信がある
-- [responsible](/responsible)：責任感がある
+- [confident](/word/confident)：自信がある
+- [responsible](/word/responsible)：責任感がある
 
 <!-- cvid: aid20_bid41 -->

@@ -97,7 +97,7 @@ TOEICでは「Given that ～」や「given circumstances」など、条件や前
 ## 🤔  granted との違いは？
 
 - **given**：前提や条件として「与えられた」「仮定された」という意味で使う
-- **[granted](/granted)**：「当然のことと認めて」「仮に～だとしても」という譲歩の意味で使う
+- **[granted](/word/granted)**：「当然のことと認めて」「仮に～だとしても」という譲歩の意味で使う
 
 givenは「前提条件」や「状況」を示すのに対し、grantedは「認めた上で」「譲歩して」というニュアンスで使い分けます。
 
@@ -105,14 +105,14 @@ givenは「前提条件」や「状況」を示すのに対し、grantedは「�
 
 ## 🧩 あわせて覚えたい
 
-- [assumed](/assumed)：仮定された
-- [provided](/provided)：もし～ならば（条件を表す）
+- [assumed](/word/assumed)：仮定された
+- [provided](/word/provided)：もし～ならば（条件を表す）
 
 ---
 
 ## 📖 できればこれも
 
-- [particular](/particular)：特定の
-- [specific](/specific)：具体的な
+- [particular](/word/particular)：特定の
+- [specific](/word/specific)：具体的な
 
 <!-- cvid: aid23_bid45 -->

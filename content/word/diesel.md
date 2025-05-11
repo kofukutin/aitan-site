@@ -97,7 +97,7 @@ TOEICでは、交通やエネルギー、環境に関する会話や説明文で
 ## 🤔  gasoline との違いは？
 
 - **diesel**：主にトラックやバスなど大型車両で使われる燃料やエンジン
-- **[gasoline](/gasoline)**：主に乗用車で使われるガソリン（燃料）
+- **[gasoline](/word/gasoline)**：主に乗用車で使われるガソリン（燃料）
 
 dieselはディーゼルエンジン用の燃料や車を指し、gasolineは一般的なガソリン車の燃料を指します。
 
@@ -105,14 +105,14 @@ dieselはディーゼルエンジン用の燃料や車を指し、gasolineは一
 
 ## 🧩 あわせて覚えたい
 
-- [petrol](/petrol)：イギリス英語で「ガソリン」
-- [engine](/engine)：エンジン、機関
+- [petrol](/word/petrol)：イギリス英語で「ガソリン」
+- [engine](/word/engine)：エンジン、機関
 
 ---
 
 ## 📖 できればこれも
 
-- [fuel](/fuel)：燃料
-- [vehicle](/vehicle)：車両
+- [fuel](/word/fuel)：燃料
+- [vehicle](/word/vehicle)：車両
 
 <!-- cvid: aid13_bid10 -->

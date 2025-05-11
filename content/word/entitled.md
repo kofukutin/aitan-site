@@ -96,7 +96,7 @@ TOEICでは主にPart 7のメールや案内文で「権利がある」「資格
 ## 🤔  eligible との違いは？
 
 - **entitled**：正式に権利や資格が与えられていることを強調
-- **[eligible](/eligible)**：条件を満たして「資格がある」状態
+- **[eligible](/word/eligible)**：条件を満たして「資格がある」状態
 
 「entitled」はすでに権利が与えられている場合に使い、「eligible」は条件を満たして資格があるが、まだ権利が与えられていない場合に使います。
 
@@ -104,14 +104,14 @@ TOEICでは主にPart 7のメールや案内文で「権利がある」「資格
 
 ## 🧩 あわせて覚えたい
 
-- [authorized](/authorized)：正式に許可された
-- [qualified](/qualified)：資格を持った
+- [authorized](/word/authorized)：正式に許可された
+- [qualified](/word/qualified)：資格を持った
 
 ---
 
 ## 📖 できればこれも
 
-- [permitted](/permitted)：許可された
-- [applicable](/applicable)：該当する、適用できる
+- [permitted](/word/permitted)：許可された
+- [applicable](/word/applicable)：該当する、適用できる
 
 <!-- cvid: aid03_bid00 -->

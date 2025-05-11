@@ -97,7 +97,7 @@ TOEICでは「給料を上げる」「資金を集める」「手を挙げる」
 ## 🤔  increase との違いは？
 
 - **raise**：誰かが意図的に「上げる」「増やす」ことを表す
-- **[increase](/increase)**：数量やレベルが「増える」「増加する」ことを表す（自動詞・他動詞両方あり）
+- **[increase](/word/increase)**：数量やレベルが「増える」「増加する」ことを表す（自動詞・他動詞両方あり）
 
 raiseは「人が何かを上げる」動作を強調し、increaseは「自然に増える」「増加する」状態や変化を表します。
 
@@ -105,14 +105,14 @@ raiseは「人が何かを上げる」動作を強調し、increaseは「自然�
 
 ## 🧩 あわせて覚えたい
 
-- [promote](/promote)：昇進させる、促進する
-- [lower](/lower)：下げる、減らす
+- [promote](/word/promote)：昇進させる、促進する
+- [lower](/word/lower)：下げる、減らす
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/improve)：改善する、良くする
-- [expand](/expand)：拡大する、広げる
+- [improve](/word/improve)：改善する、良くする
+- [expand](/word/expand)：拡大する、広げる
 
 <!-- cvid: aid30_bid05 -->

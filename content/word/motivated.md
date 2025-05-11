@@ -97,7 +97,7 @@ TOEICでは、応募者の人物像や職場での姿勢を表す形容詞とし
 ## 🤔  ambitious との違いは？
 
 - **motivated**：やる気や意欲が高く、何かを達成しようと積極的に行動する様子。
-- **[ambitious](/ambitious)**：大きな目標や野心を持ち、それを達成しようとする姿勢。
+- **[ambitious](/word/ambitious)**：大きな目標や野心を持ち、それを達成しようとする姿勢。
 
 motivatedは「今やる気がある」状態を強調し、ambitiousは「大きな夢や目標を持つ」ことに重点があります。
 
@@ -105,14 +105,14 @@ motivatedは「今やる気がある」状態を強調し、ambitiousは「大�
 
 ## 🧩 あわせて覚えたい
 
-- [enthusiastic](/enthusiastic)：熱心な、熱意のある
-- [inspired](/inspired)：刺激を受けた、ひらめきを得た
+- [enthusiastic](/word/enthusiastic)：熱心な、熱意のある
+- [inspired](/word/inspired)：刺激を受けた、ひらめきを得た
 
 ---
 
 ## 📖 できればこれも
 
-- [dedicated](/dedicated)：献身的な、熱心な
-- [productive](/productive)：生産的な、成果を上げる
+- [dedicated](/word/dedicated)：献身的な、熱心な
+- [productive](/word/productive)：生産的な、成果を上げる
 
 <!-- cvid: aid38_bid18 -->

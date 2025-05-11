@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や案内文で「regional office（地域事務
 ## 🤔  local との違いは？
 
 - **regional**：特定の広めの地域や地方全体に関する
-- **[local](/local)**：ごく狭い範囲や地元に関する
+- **[local](/word/local)**：ごく狭い範囲や地元に関する
 
 **regional**は「関東地方」「関西地方」など広めの地域を指すのに対し、**local**は「この町」「この近所」などより狭い範囲や地元を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネス文書や案内文で「regional office（地域事務
 
 ## 🧩 あわせて覚えたい
 
-- [national](/national)：国の、全国的な
-- [international](/international)：国際的な
+- [national](/word/national)：国の、全国的な
+- [international](/word/international)：国際的な
 
 ---
 
 ## 📖 できればこれも
 
-- [domestic](/domestic)：国内の
-- [area](/area)：地域、区域
+- [domestic](/word/domestic)：国内の
+- [area](/word/area)：地域、区域
 
 <!-- cvid: aid03_bid21 -->

@@ -97,7 +97,7 @@ TOEICでは、指示や数値、手順などを「正確に」伝える文脈で
 ## 🤔  exactly との違いは？
 
 - **precisely**：細部まで正確であることを強調し、ややフォーマルな響き。
-- **[exactly](/exactly)**：ピッタリ一致することや「その通り」と返答する際にも使う、よりカジュアルな表現。
+- **[exactly](/word/exactly)**：ピッタリ一致することや「その通り」と返答する際にも使う、よりカジュアルな表現。
 
 preciselyは「細かい点まで正確」というニュアンスが強く、exactlyは「一致・同意」の意味でも幅広く使われます。
 
@@ -105,14 +105,14 @@ preciselyは「細かい点まで正確」というニュアンスが強く、ex
 
 ## 🧩 あわせて覚えたい
 
-- [accurately](/accurately)：正確に
-- [approximately](/approximately)：おおよそ
+- [accurately](/word/accurately)：正確に
+- [approximately](/word/approximately)：おおよそ
 
 ---
 
 ## 📖 できればこれも
 
-- [specifically](/specifically)：具体的に
-- [clearly](/clearly)：はっきりと
+- [specifically](/word/specifically)：具体的に
+- [clearly](/word/clearly)：はっきりと
 
 <!-- cvid: aid20_bid35 -->

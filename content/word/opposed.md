@@ -97,7 +97,7 @@ TOEICでは「be opposed to ～」の形で頻出し、反対の立場や意見�
 ## 🤔  against との違いは？
 
 - **opposed**：意見や立場として「反対している」ことを強調する形容詞
-- **[against](/against)**：物理的・抽象的に「～に対して」「～に反して」という広い意味の前置詞
+- **[against](/word/against)**：物理的・抽象的に「～に対して」「～に反して」という広い意味の前置詞
 
 **opposed**は主に意見や立場の対立を表し、「be opposed to ～」の形で使われます。**against**はより広く使われ、物理的な接触や抽象的な反対など幅広い意味を持ちます。
 
@@ -105,14 +105,14 @@ TOEICでは「be opposed to ～」の形で頻出し、反対の立場や意見�
 
 ## 🧩 あわせて覚えたい
 
-- [resistant](/resistant)：抵抗する、耐性がある
-- [supportive](/supportive)：支持する、支援的な
+- [resistant](/word/resistant)：抵抗する、耐性がある
+- [supportive](/word/supportive)：支持する、支援的な
 
 ---
 
 ## 📖 できればこれも
 
-- [contrary](/contrary)：反対の、逆の
-- [approve](/approve)：賛成する、承認する
+- [contrary](/word/contrary)：反対の、逆の
+- [approve](/word/approve)：賛成する、承認する
 
 <!-- cvid: aid35_bid32 -->

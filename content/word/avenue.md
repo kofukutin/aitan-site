@@ -96,7 +96,7 @@ TOEICでは主に地図や写真描写で「通り名」として登場します
 ## 🤔  street との違いは？
 
 - **avenue**：都市の中の広くてまっすぐな大通りや並木道、または比喩的に「手段」も表す
-- **[street](/street)**：一般的な「通り」「道路」を指し、広さや格式は問わない
+- **[street](/word/street)**：一般的な「通り」「道路」を指し、広さや格式は問わない
 
 avenueは特に都市計画で幅広く整備された道や、比喩的な「方法」を指すこともありますが、streetはもっと一般的な「通り」です。
 
@@ -104,14 +104,14 @@ avenueは特に都市計画で幅広く整備された道や、比喩的な「�
 
 ## 🧩 あわせて覚えたい
 
-- [boulevard](/boulevard)：広い並木道、大通り
-- [route](/route)：道、経路、ルート
+- [boulevard](/word/boulevard)：広い並木道、大通り
+- [route](/word/route)：道、経路、ルート
 
 ---
 
 ## 📖 できればこれも
 
-- [block](/block)：街区、一区画
-- [corner](/corner)：角、曲がり角
+- [block](/word/block)：街区、一区画
+- [corner](/word/corner)：角、曲がり角
 
 <!-- cvid: aid27_bid21 -->

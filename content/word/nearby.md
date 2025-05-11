@@ -93,7 +93,7 @@ TOEICでは主にPart 1の写真描写や、場所の説明でよく登場しま
 ## 🤔  close との違いは？
 
 - **nearby**：物理的に「すぐ近くに」「近くで」という意味で、場所や位置を強調。
-- **[close](/close)**：距離が「近い」こと全般を表し、形容詞や副詞として使われる。
+- **[close](/word/close)**：距離が「近い」こと全般を表し、形容詞や副詞として使われる。
 
 nearbyは「近くの場所にある」ことを具体的に示し、closeは「距離が近い」ことを広く表します。
 
@@ -101,14 +101,14 @@ nearbyは「近くの場所にある」ことを具体的に示し、closeは「
 
 ## 🧩 あわせて覚えたい
 
-- [adjacent](/adjacent)：隣接した、すぐ隣の
-- [neighbor](/neighbor)：隣人、近所の人
+- [adjacent](/word/adjacent)：隣接した、すぐ隣の
+- [neighbor](/word/neighbor)：隣人、近所の人
 
 ---
 
 ## 📖 できればこれも
 
-- [around](/around)：周囲に、あたりに
-- [beside](/beside)：～のそばに
+- [around](/word/around)：周囲に、あたりに
+- [beside](/word/beside)：～のそばに
 
 <!-- cvid: aid23_bid42 -->

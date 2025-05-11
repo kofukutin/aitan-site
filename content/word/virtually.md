@@ -97,7 +97,7 @@ virtuallyはTOEICの長文読解パートで「ほとんど」「実質的に」
 ## 🤔  practically との違いは？
 
 - **virtually**：実際には完全ではないが、ほぼそうである状態を強調
-- **[practically](/practically)**：実用的・現実的な観点から「ほとんど」「実際に」を強調
+- **[practically](/word/practically)**：実用的・現実的な観点から「ほとんど」「実際に」を強調
 
 virtuallyは「理論上・事実上ほぼそうである」ニュアンス、practicallyは「実用面・現実的に見てほぼそうである」違いがあります。
 
@@ -105,14 +105,14 @@ virtuallyは「理論上・事実上ほぼそうである」ニュアンス、pr
 
 ## 🧩 あわせて覚えたい
 
-- [literally](/literally)：文字通り、本当に
-- [actually](/actually)：実際に、現実に
+- [literally](/word/literally)：文字通り、本当に
+- [actually](/word/actually)：実際に、現実に
 
 ---
 
 ## 📖 できればこれも
 
-- [approximately](/approximately)：おおよそ、約
-- [essentially](/essentially)：本質的に、基本的に
+- [approximately](/word/approximately)：おおよそ、約
+- [essentially](/word/essentially)：本質的に、基本的に
 
 <!-- cvid: aid37_bid24 -->

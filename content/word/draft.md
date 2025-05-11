@@ -97,7 +97,7 @@ TOEICでは、契約書や提案書などビジネス文書の「下書き」「
 ## 🤔  outline との違いは？
 
 - **draft**：下書きや草案。内容がある程度具体的に書かれている未完成の文書。
-- **[outline](/outline)**：概要や要点のみを箇条書きしたもの。詳細は含まれない。
+- **[outline](/word/outline)**：概要や要点のみを箇条書きしたもの。詳細は含まれない。
 
 draftは文章や計画の「たたき台」として使われ、outlineは「骨組み」や「要点整理」に使われます。
 
@@ -105,14 +105,14 @@ draftは文章や計画の「たたき台」として使われ、outlineは「�
 
 ## 🧩 あわせて覚えたい
 
-- [proposal](/proposal)：提案書
-- [revision](/revision)：修正、改訂
+- [proposal](/word/proposal)：提案書
+- [revision](/word/revision)：修正、改訂
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/document)：文書
-- [report](/report)：報告書
+- [document](/word/document)：文書
+- [report](/word/report)：報告書
 
 <!-- cvid: aid25_bid48 -->

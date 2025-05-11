@@ -97,7 +97,7 @@ TOEICではビジネス文脈で「生産性向上」や「効率化」に関連
 ## 🤔  efficiency との違いは？
 
 - **productivity**：一定の資源や時間でどれだけ多くの成果を出せるか（生産量の多さ）を重視。
-- **[efficiency](/efficiency)**：無駄なく効率的に作業を進めること（効率の良さ）を重視。
+- **[efficiency](/word/efficiency)**：無駄なく効率的に作業を進めること（効率の良さ）を重視。
 
 productivityは「どれだけ多く作れるか」、efficiencyは「どれだけ無駄なく作れるか」という違いがあります。
 
@@ -105,14 +105,14 @@ productivityは「どれだけ多く作れるか」、efficiencyは「どれだ�
 
 ## 🧩 あわせて覚えたい
 
-- [output](/output)：成果、出力
-- [performance](/performance)：業績、パフォーマンス
+- [output](/word/output)：成果、出力
+- [performance](/word/performance)：業績、パフォーマンス
 
 ---
 
 ## 📖 できればこれも
 
-- [profit](/profit)：利益
-- [quality](/quality)：品質
+- [profit](/word/profit)：利益
+- [quality](/word/quality)：品質
 
 <!-- cvid: aid02_bid29 -->

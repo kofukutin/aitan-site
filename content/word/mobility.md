@@ -97,7 +97,7 @@ mobilityはTOEICのPart 7で、職場の異動や人材の流動性、技術の�
 ## 🤔  flexibility との違いは？
 
 - **mobility**：物理的・社会的な「移動」や「流動性」を強調
-- **[flexibility](/flexibility)**：状況への「柔軟な対応」や「適応力」を強調
+- **[flexibility](/word/flexibility)**：状況への「柔軟な対応」や「適応力」を強調
 
 mobilityは「動けること」「移動できること」に焦点があり、flexibilityは「変化に応じて対応できる柔軟さ」に重点があります。
 
@@ -105,14 +105,14 @@ mobilityは「動けること」「移動できること」に焦点があり、
 
 ## 🧩 あわせて覚えたい
 
-- [transfer](/transfer)：転勤、移動
-- [movement](/movement)：動き、移動
+- [transfer](/word/transfer)：転勤、移動
+- [movement](/word/movement)：動き、移動
 
 ---
 
 ## 📖 できればこれも
 
-- [relocation](/relocation)：（職場などの）移転、引越し
-- [adaptability](/adaptability)：適応力、順応性
+- [relocation](/word/relocation)：（職場などの）移転、引越し
+- [adaptability](/word/adaptability)：適応力、順応性
 
 <!-- cvid: aid31_bid00 -->

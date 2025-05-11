@@ -97,7 +97,7 @@ TOEICでは、健康や美容、食品関連の記事や広告文でherbalが登
 ## 🤔  medicinal との違いは？
 
 - **herbal**：ハーブや薬草に由来する、またはそれを使った
-- **[medicinal](/medicinal)**：薬効のある、治療目的の
+- **[medicinal](/word/medicinal)**：薬効のある、治療目的の
 
 herbalは「ハーブ由来」に焦点があり、medicinalは「治療や薬効」に重点があります。
 
@@ -105,14 +105,14 @@ herbalは「ハーブ由来」に焦点があり、medicinalは「治療や薬�
 
 ## 🧩 あわせて覚えたい
 
-- [botanical](/botanical)：植物の、植物由来の
-- [natural](/natural)：自然の、天然の
+- [botanical](/word/botanical)：植物の、植物由来の
+- [natural](/word/natural)：自然の、天然の
 
 ---
 
 ## 📖 できればこれも
 
-- [organic](/organic)：有機の、オーガニックの
-- [remedy](/remedy)：治療法、改善策
+- [organic](/word/organic)：有機の、オーガニックの
+- [remedy](/word/remedy)：治療法、改善策
 
 <!-- cvid: aid48_bid00 -->

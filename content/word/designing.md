@@ -97,7 +97,7 @@ TOEICでは主にPart 6の長文穴埋めや、IT・ビジネス関連の文脈�
 ## 🤔  planning との違いは？
 
 - **designing**：具体的な形や機能を考えて設計・デザインすること
-- **[planning](/planning)**：全体の計画や段取りを立てること
+- **[planning](/word/planning)**：全体の計画や段取りを立てること
 
 designingは「どう作るか」「どんな形にするか」に重点があり、planningは「何をいつどう進めるか」といった全体の流れや準備に重点があります。
 
@@ -105,14 +105,14 @@ designingは「どう作るか」「どんな形にするか」に重点があ�
 
 ## 🧩 あわせて覚えたい
 
-- [draft](/draft)：下書き、草案
-- [creation](/creation)：創造、作成
+- [draft](/word/draft)：下書き、草案
+- [creation](/word/creation)：創造、作成
 
 ---
 
 ## 📖 できればこれも
 
-- [development](/development)：開発、発展
-- [arrangement](/arrangement)：手配、準備
+- [development](/word/development)：開発、発展
+- [arrangement](/word/arrangement)：手配、準備
 
 <!-- cvid: aid27_bid39 -->

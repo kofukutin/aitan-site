@@ -97,7 +97,7 @@ TOEICでは「seek」の過去形・過去分詞として空欄補充や語彙�
 ## 🤔  searched との違いは？
 
 - **sought**：目的を持って積極的に「探し求めた」
-- **[searched](/searched)**：物理的・情報的に「探した」「調べた」
+- **[searched](/word/searched)**：物理的・情報的に「探した」「調べた」
 
 soughtは「何かを得るために努力して探す」ニュアンスがあり、searchedは「場所や情報を探す・調べる」意味で使われます。
 
@@ -105,14 +105,14 @@ soughtは「何かを得るために努力して探す」ニュアンスがあ�
 
 ## 🧩 あわせて覚えたい
 
-- [request](/request)：要請する、頼む
-- [pursue](/pursue)：追いかける、追求する
+- [request](/word/request)：要請する、頼む
+- [pursue](/word/pursue)：追いかける、追求する
 
 ---
 
 ## 📖 できればこれも
 
-- [obtain](/obtain)：手に入れる、獲得する
-- [apply](/apply)：申し込む、適用する
+- [obtain](/word/obtain)：手に入れる、獲得する
+- [apply](/word/apply)：申し込む、適用する
 
 <!-- cvid: aid26_bid46 -->

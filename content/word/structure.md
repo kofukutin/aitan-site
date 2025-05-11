@@ -98,7 +98,7 @@ TOEICでは、組織やシステム、建物の「構造」や「仕組み」を
 ## 🤔  framework との違いは？
 
 - **structure**：物理的・抽象的な「構造」や「仕組み」全般を指す
-- **[framework](/framework)**：枠組みや骨組み、基本的な構成要素を強調
+- **[framework](/word/framework)**：枠組みや骨組み、基本的な構成要素を強調
 
 structureは全体の構成や仕組みを広く指し、frameworkはその中でも「枠組み」や「骨組み」といった基盤部分に焦点を当てます。
 
@@ -106,14 +106,14 @@ structureは全体の構成や仕組みを広く指し、frameworkはその中�
 
 ## 🧩 あわせて覚えたい
 
-- [organization](/organization)：組織、団体
-- [system](/system)：体系、制度、システム
+- [organization](/word/organization)：組織、団体
+- [system](/word/system)：体系、制度、システム
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/process)：過程、手順
-- [method](/method)：方法、やり方
+- [process](/word/process)：過程、手順
+- [method](/word/method)：方法、やり方
 
 <!-- cvid: aid09_bid05 -->

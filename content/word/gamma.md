@@ -96,7 +96,7 @@ TOEICでは科学や技術関連の説明文や記事で見かけることがあ
 ## 🤔  wavelength との違いは？
 
 - **gamma**：ギリシャ文字やガンマ線など、記号や放射線を指す。
-- **[wavelength](/wavelength)**：波長、波の長さを表す科学用語。
+- **[wavelength](/word/wavelength)**：波長、波の長さを表す科学用語。
 
 gammaは主に記号や放射線の種類を指し、wavelengthは波の長さそのものを表します。
 
@@ -104,14 +104,14 @@ gammaは主に記号や放射線の種類を指し、wavelengthは波の長さ�
 
 ## 🧩 あわせて覚えたい
 
-- [radiation](/radiation)：放射線、放射
-- [photon](/photon)：光子、光の粒子
+- [radiation](/word/radiation)：放射線、放射
+- [photon](/word/photon)：光子、光の粒子
 
 ---
 
 ## 📖 できればこれも
 
-- [spectrum](/spectrum)：スペクトル、波長範囲
-- [frequency](/frequency)：周波数
+- [spectrum](/word/spectrum)：スペクトル、波長範囲
+- [frequency](/word/frequency)：周波数
 
 <!-- cvid: aid20_bid16 -->

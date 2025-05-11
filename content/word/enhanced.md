@@ -97,7 +97,7 @@ TOEICでは、製品やサービスの説明文、広告、社内通知などで
 ## 🤔  improved との違いは？
 
 - **enhanced**：もともとあるものをさらに強化・高度化したニュアンス
-- **[improved](/improved)**：全体的に良くなった、改善されたという意味
+- **[improved](/word/improved)**：全体的に良くなった、改善されたという意味
 
 「enhanced」は特定の機能や性能が強化された場合に使われ、「improved」は全体的な改善や向上を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、製品やサービスの説明文、広告、社内通知などで
 
 ## 🧩 あわせて覚えたい
 
-- [upgrade](/upgrade)：アップグレードする、格上げする
-- [boost](/boost)：高める、増加させる
+- [upgrade](/word/upgrade)：アップグレードする、格上げする
+- [boost](/word/boost)：高める、増加させる
 
 ---
 
 ## 📖 できればこれも
 
-- [advanced](/advanced)：先進的な、進んだ
-- [expand](/expand)：拡大する、広げる
+- [advanced](/word/advanced)：先進的な、進んだ
+- [expand](/word/expand)：拡大する、広げる
 
 <!-- cvid: aid03_bid08 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、冬のレジャーやスポーツの
 ## 🤔  snowboarding との違いは？
 
 - **skiing**：スキー板を両足に履いて滑るスポーツ
-- **[snowboarding](/snowboarding)**：スノーボード（1枚板）に両足を固定して滑るスポーツ
+- **[snowboarding](/word/snowboarding)**：スノーボード（1枚板）に両足を固定して滑るスポーツ
 
 skiingは2本の板を使い、snowboardingは1枚のボードを使う点が大きな違いです。
 
@@ -105,14 +105,14 @@ skiingは2本の板を使い、snowboardingは1枚のボードを使う点が大
 
 ## 🧩 あわせて覚えたい
 
-- [skateboarding](/skateboarding)：スケートボードを使うスポーツ
-- [hiking](/hiking)：ハイキング、山歩き
+- [skateboarding](/word/skateboarding)：スケートボードを使うスポーツ
+- [hiking](/word/hiking)：ハイキング、山歩き
 
 ---
 
 ## 📖 できればこれも
 
-- [swimming](/swimming)：水泳
-- [cycling](/cycling)：サイクリング、自転車に乗ること
+- [swimming](/word/swimming)：水泳
+- [cycling](/word/cycling)：サイクリング、自転車に乗ること
 
 <!-- cvid: aid47_bid47 -->

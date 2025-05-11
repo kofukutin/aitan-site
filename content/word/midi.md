@@ -97,7 +97,7 @@ TOEICではITや音楽関連の説明文や仕様書などで登場すること�
 ## 🤔  audio との違いは？
 
 - **midi**：電子楽器間で音楽データをやりとりするためのデジタル規格
-- **[audio](/audio)**：音そのものや音声データ全般を指す
+- **[audio](/word/audio)**：音そのものや音声データ全般を指す
 
 midiは「音楽情報のデータ規格」、audioは「実際の音や音声データ」を指す点が異なります。
 
@@ -105,14 +105,14 @@ midiは「音楽情報のデータ規格」、audioは「実際の音や音声�
 
 ## 🧩 あわせて覚えたい
 
-- [synthesizer](/synthesizer)：シンセサイザー（電子楽器の一種）
-- [protocol](/protocol)：通信規約、プロトコル
+- [synthesizer](/word/synthesizer)：シンセサイザー（電子楽器の一種）
+- [protocol](/word/protocol)：通信規約、プロトコル
 
 ---
 
 ## 📖 できればこれも
 
-- [format](/format)：形式、フォーマット
-- [signal](/signal)：信号、シグナル
+- [format](/word/format)：形式、フォーマット
+- [signal](/word/signal)：信号、シグナル
 
 <!-- cvid: aid25_bid46 -->

@@ -97,7 +97,7 @@ TOEICではPart 7の長文やメール文中で「関連する情報」「関係
 ## 🤔  relevant との違いは？
 
 - **related**：何かと関係・つながりがあることを広く表す
-- **[relevant](/relevant)**：今の話題や目的に直接関係があることを強調
+- **[relevant](/word/relevant)**：今の話題や目的に直接関係があることを強調
 
 relatedは「関係がある」こと全般を指し、relevantは「今まさに重要な関係がある」ことを強調します。
 
@@ -105,14 +105,14 @@ relatedは「関係がある」こと全般を指し、relevantは「今まさ�
 
 ## 🧩 あわせて覚えたい
 
-- [unrelated](/unrelated)：無関係の
-- [associated](/associated)：関連した、結びついた
+- [unrelated](/word/unrelated)：無関係の
+- [associated](/word/associated)：関連した、結びついた
 
 ---
 
 ## 📖 できればこれも
 
-- [connected](/connected)：つながった、接続された
-- [similar](/similar)：似ている
+- [connected](/word/connected)：つながった、接続された
+- [similar](/word/similar)：似ている
 
 <!-- cvid: aid09_bid49 -->

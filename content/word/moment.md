@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「少しの間」「今この瞬間」などの
 ## 🤔  instant との違いは？
 
 - **moment**：ある出来事や感情が生じる「短い時間」や「特定の瞬間」を表す。
-- **[instant](/instant)**：ほとんど時間がかからない「即時」や「一瞬」を強調する。
+- **[instant](/word/instant)**：ほとんど時間がかからない「即時」や「一瞬」を強調する。
 
 momentは「ちょっとの間」や「特別な瞬間」にも使えますが、instantは「即座に」「一瞬で」というスピード感を強調します。
 
@@ -105,14 +105,14 @@ momentは「ちょっとの間」や「特別な瞬間」にも使えますが�
 
 ## 🧩 あわせて覚えたい
 
-- [period](/period)：期間、一定の時間
-- [occasion](/occasion)：特別な時、場合
+- [period](/word/period)：期間、一定の時間
+- [occasion](/word/occasion)：特別な時、場合
 
 ---
 
 ## 📖 できればこれも
 
-- [minute](/minute)：分、短い時間
-- [second](/second)：秒、ごく短い時間
+- [minute](/word/minute)：分、短い時間
+- [second](/word/second)：秒、ごく短い時間
 
 <!-- cvid: aid21_bid06 -->

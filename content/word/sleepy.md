@@ -97,7 +97,7 @@ TOEICでは、会話文や日常的なシーンで「眠い」という感情や
 ## 🤔  drowsy との違いは？
 
 - **sleepy**：単純に「眠い」「眠気を感じている」状態を表すカジュアルな表現。
-- **[drowsy](/drowsy)**：眠気でぼんやりしている、意識がもうろうとした状態を表すややフォーマルな表現。
+- **[drowsy](/word/drowsy)**：眠気でぼんやりしている、意識がもうろうとした状態を表すややフォーマルな表現。
 
 sleepyは日常的な「眠い」に使い、drowsyは薬の副作用や長時間の運転などで「意識がぼんやりする」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ sleepyは日常的な「眠い」に使い、drowsyは薬の副作用や長時�
 
 ## 🧩 あわせて覚えたい
 
-- [awake](/awake)：目が覚めている
-- [tired](/tired)：疲れている
+- [awake](/word/awake)：目が覚めている
+- [tired](/word/tired)：疲れている
 
 ---
 
 ## 📖 できればこれも
 
-- [hungry](/hungry)：お腹がすいた
-- [thirsty](/thirsty)：のどが渇いた
+- [hungry](/word/hungry)：お腹がすいた
+- [thirsty](/word/thirsty)：のどが渇いた
 
 <!-- cvid: aid29_bid38 -->

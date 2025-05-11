@@ -97,7 +97,7 @@ TOEICでは店舗やオフィスの会話や案内文でよく登場します。
 ## 🤔  receptionist との違いは？
 
 - **clerk**：店やオフィスで接客や事務をする人全般
-- **[receptionist](/receptionist)**：受付専任のスタッフ
+- **[receptionist](/word/receptionist)**：受付専任のスタッフ
 
 clerkは幅広い事務・接客職を指しますが、receptionistは来客対応や電話応対など受付業務に特化しています。
 
@@ -105,14 +105,14 @@ clerkは幅広い事務・接客職を指しますが、receptionistは来客対
 
 ## 🧩 あわせて覚えたい
 
-- [cashier](/cashier)：レジ係
-- [assistant](/assistant)：助手、補佐
+- [cashier](/word/cashier)：レジ係
+- [assistant](/word/assistant)：助手、補佐
 
 ---
 
 ## 📖 できればこれも
 
-- [manager](/manager)：管理職、マネージャー
-- [customer](/customer)：顧客、客
+- [manager](/word/manager)：管理職、マネージャー
+- [customer](/word/customer)：顧客、客
 
 <!-- cvid: aid28_bid06 -->

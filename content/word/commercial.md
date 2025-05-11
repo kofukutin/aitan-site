@@ -97,7 +97,7 @@ TOEICでは、広告やビジネス関連のリスニング問題で頻出しま
 ## 🤔  advertisement との違いは？
 
 - **commercial**：テレビやラジオなどの放送広告を指す
-- **[advertisement](/advertisement)**：広告全般（紙・ネット・放送など）を指す
+- **[advertisement](/word/advertisement)**：広告全般（紙・ネット・放送など）を指す
 
 commercialは主に放送メディアの広告、advertisementは媒体を問わず幅広い広告を指します。
 
@@ -105,14 +105,14 @@ commercialは主に放送メディアの広告、advertisementは媒体を問わ
 
 ## 🧩 あわせて覚えたい
 
-- [sponsor](/sponsor)：スポンサー、広告主
-- [promotion](/promotion)：販促、プロモーション
+- [sponsor](/word/sponsor)：スポンサー、広告主
+- [promotion](/word/promotion)：販促、プロモーション
 
 ---
 
 ## 📖 できればこれも
 
-- [broadcast](/broadcast)：放送する
-- [campaign](/campaign)：キャンペーン、運動
+- [broadcast](/word/broadcast)：放送する
+- [campaign](/word/campaign)：キャンペーン、運動
 
 <!-- cvid: aid36_bid15 -->

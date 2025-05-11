@@ -97,7 +97,7 @@ TOEICでは契約書や同意書、社内規定などの文書で頻出します
 ## 🤔  approval との違いは？
 
 - **consent**：正式な許可や同意を強調し、特に法的・倫理的な場面で使われる
-- **[approval](/approval)**：承認や賛成の意味で、より広く一般的な許可や評価にも使われる
+- **[approval](/word/approval)**：承認や賛成の意味で、より広く一般的な許可や評価にも使われる
 
 consentは「許可を与える」というニュアンスが強く、approvalは「評価して認める」イメージです。
 
@@ -105,14 +105,14 @@ consentは「許可を与える」というニュアンスが強く、approval�
 
 ## 🧩 あわせて覚えたい
 
-- [permission](/permission)：許可
-- [agreement](/agreement)：合意
+- [permission](/word/permission)：許可
+- [agreement](/word/agreement)：合意
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/contract)：契約
-- [authorize](/authorize)：許可する
+- [contract](/word/contract)：契約
+- [authorize](/word/authorize)：許可する
 
 <!-- cvid: aid19_bid48 -->

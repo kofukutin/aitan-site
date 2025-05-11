@@ -97,7 +97,7 @@ kidはTOEICのリスニングパートで、カジュアルな会話や家族に
 ## 🤔  child との違いは？
 
 - **kid**：カジュアルな「子ども」の言い方。日常会話でよく使う。
-- **[child](/child)**：フォーマルまたは一般的な「子ども」。書き言葉や公式な場面で使う。
+- **[child](/word/child)**：フォーマルまたは一般的な「子ども」。書き言葉や公式な場面で使う。
 
 kidは親しみやすい響きで、childはやや堅め・正式な印象です。
 
@@ -105,14 +105,14 @@ kidは親しみやすい響きで、childはやや堅め・正式な印象です
 
 ## 🧩 あわせて覚えたい
 
-- [teenager](/teenager)：10代の若者
-- [adult](/adult)：大人
+- [teenager](/word/teenager)：10代の若者
+- [adult](/word/adult)：大人
 
 ---
 
 ## 📖 できればこれも
 
-- [baby](/baby)：赤ちゃん
-- [parent](/parent)：親
+- [baby](/word/baby)：赤ちゃん
+- [parent](/word/parent)：親
 
 <!-- cvid: aid29_bid11 -->

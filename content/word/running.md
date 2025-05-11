@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で「走っている」「運営してい
 ## 🤔  jogging との違いは？
 
 - **running**：速さや競技性を問わず「走ること」全般を指す。
-- **[jogging](/jogging)**：健康や軽い運動目的の「ゆっくり走ること」。
+- **[jogging](/word/jogging)**：健康や軽い運動目的の「ゆっくり走ること」。
 
 runningは速さや目的を問わず幅広く使われますが、joggingは「軽い運動」としてのランニングに限定されます。
 
@@ -106,14 +106,14 @@ runningは速さや目的を問わず幅広く使われますが、joggingは「
 
 ## 🧩 あわせて覚えたい
 
-- [race](/race)：競走、レース
-- [operation](/operation)：運営、操作
+- [race](/word/race)：競走、レース
+- [operation](/word/operation)：運営、操作
 
 ---
 
 ## 📖 できればこれも
 
-- [walking](/walking)：歩くこと
-- [exercise](/exercise)：運動
+- [walking](/word/walking)：歩くこと
+- [exercise](/word/exercise)：運動
 
 <!-- cvid: aid10_bid00 -->

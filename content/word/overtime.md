@@ -97,7 +97,7 @@ TOEICでは、勤務条件や給与に関する長文やEメール文面で「ov
 ## 🤔  extra との違いは？
 
 - **overtime**：決められた勤務時間を超えて働くことや、その時間・手当を指す
-- **[extra](/extra)**：追加の、余分の、という広い意味で使われる
+- **[extra](/word/extra)**：追加の、余分の、という広い意味で使われる
 
 overtimeは「労働時間」に特化した表現ですが、extraは「追加の」という意味で幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ overtimeは「労働時間」に特化した表現ですが、extraは「追加�
 
 ## 🧩 あわせて覚えたい
 
-- [bonus](/bonus)：賞与、ボーナス
-- [shift](/shift)：勤務時間、シフト
+- [bonus](/word/bonus)：賞与、ボーナス
+- [shift](/word/shift)：勤務時間、シフト
 
 ---
 
 ## 📖 できればこれも
 
-- [salary](/salary)：給料
-- [schedule](/schedule)：予定、スケジュール
+- [salary](/word/salary)：給料
+- [schedule](/word/schedule)：予定、スケジュール
 
 <!-- cvid: aid28_bid48 -->

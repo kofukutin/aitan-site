@@ -97,7 +97,7 @@ TOEICでは新聞記事や報告書などの長文で、事件や事故の説明
 ## 🤔  murder との違いは？
 
 - **killing**：殺害全般を指し、事故や戦争など犯罪以外の文脈でも使える。
-- **[murder](/murder)**：法律上の「殺人罪」や故意の殺人を指し、より限定的で重い意味。
+- **[murder](/word/murder)**：法律上の「殺人罪」や故意の殺人を指し、より限定的で重い意味。
 
 killingは広い意味での「殺すこと」ですが、murderは「計画的・故意の殺人」という犯罪性が強調されます。
 
@@ -105,14 +105,14 @@ killingは広い意味での「殺すこと」ですが、murderは「計画的�
 
 ## 🧩 あわせて覚えたい
 
-- [homicide](/homicide)：殺人（特に法律用語）
-- [crime](/crime)：犯罪
+- [homicide](/word/homicide)：殺人（特に法律用語）
+- [crime](/word/crime)：犯罪
 
 ---
 
 ## 📖 できればこれも
 
-- [injury](/injury)：けが、負傷
-- [accident](/accident)：事故
+- [injury](/word/injury)：けが、負傷
+- [accident](/word/accident)：事故
 
 <!-- cvid: aid02_bid29 -->

@@ -97,7 +97,7 @@ TOEICでは広告やEメール、案内文などで「割引」「値引き」�
 ## 🤔  reduction との違いは？
 
 - **discount**：主に価格や料金の「割引」「値引き」を意味し、買い物や販売の場面で使われる。
-- **[reduction](/reduction)**：広く「減少」「削減」を意味し、価格以外にも数量や規模の縮小など幅広く使われる。
+- **[reduction](/word/reduction)**：広く「減少」「削減」を意味し、価格以外にも数量や規模の縮小など幅広く使われる。
 
 discountは「値段が下がる」ことに特化し、reductionは「何かが減る」全般に使われます。
 
@@ -105,14 +105,14 @@ discountは「値段が下がる」ことに特化し、reductionは「何かが
 
 ## 🧩 あわせて覚えたい
 
-- [rebate](/rebate)：払い戻し、リベート
-- [premium](/premium)：割増料金、保険料
+- [rebate](/word/rebate)：払い戻し、リベート
+- [premium](/word/premium)：割増料金、保険料
 
 ---
 
 ## 📖 できればこれも
 
-- [offer](/offer)：提供する、申し出
-- [coupon](/coupon)：クーポン、割引券
+- [offer](/word/offer)：提供する、申し出
+- [coupon](/word/coupon)：クーポン、割引券
 
 <!-- cvid: aid49_bid15 -->

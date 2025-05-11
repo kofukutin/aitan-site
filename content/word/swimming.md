@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で「泳いでいる」「プールで泳ぐ
 ## 🤔  bathing との違いは？
 
 - **swimming**：泳ぐこと、水泳（運動や趣味として泳ぐことを指す）
-- **[bathing](/bathing)**：水浴び、入浴（泳ぐことよりも水に浸かることや体を洗うことを指す）
+- **[bathing](/word/bathing)**：水浴び、入浴（泳ぐことよりも水に浸かることや体を洗うことを指す）
 
 swimmingは「泳ぐ」という運動やスポーツを強調し、bathingは「水に入る」「体を洗う」などリラックスや衛生目的で使われます。
 
@@ -105,14 +105,14 @@ swimmingは「泳ぐ」という運動やスポーツを強調し、bathingは�
 
 ## 🧩 あわせて覚えたい
 
-- [diving](/diving)：潜水、ダイビング
-- [surfing](/surfing)：サーフィン
+- [diving](/word/diving)：潜水、ダイビング
+- [surfing](/word/surfing)：サーフィン
 
 ---
 
 ## 📖 できればこれも
 
-- [running](/running)：走ること、ランニング
-- [cycling](/cycling)：自転車に乗ること、サイクリング
+- [running](/word/running)：走ること、ランニング
+- [cycling](/word/cycling)：自転車に乗ること、サイクリング
 
 <!-- cvid: aid48_bid45 -->

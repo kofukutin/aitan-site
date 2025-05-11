@@ -93,7 +93,7 @@ TOEICでは会話や説明文で「ほとんど～」「もう少しで～」と
 ## 🤔  almost との違いは？
 
 - **nearly**：数量や程度が基準に「ほぼ」達していることをやや客観的に表す
-- **[almost](/almost)**：主観的な感覚や印象で「ほとんど」と言いたいときに幅広く使う
+- **[almost](/word/almost)**：主観的な感覚や印象で「ほとんど」と言いたいときに幅広く使う
 
 「nearly」は数字や事実に近いときに使われやすく、「almost」は気持ちや感覚的な「ほとんど」にも使えます。
 
@@ -101,14 +101,14 @@ TOEICでは会話や説明文で「ほとんど～」「もう少しで～」と
 
 ## 🧩 あわせて覚えたい
 
-- [barely](/barely)：かろうじて、ほとんど～ない
-- [hardly](/hardly)：ほとんど～ない
+- [barely](/word/barely)：かろうじて、ほとんど～ない
+- [hardly](/word/hardly)：ほとんど～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [approximately](/approximately)：おおよそ、約
-- [roughly](/roughly)：ざっと、だいたい
+- [approximately](/word/approximately)：おおよそ、約
+- [roughly](/word/roughly)：ざっと、だいたい
 
 <!-- cvid: aid10_bid03 -->

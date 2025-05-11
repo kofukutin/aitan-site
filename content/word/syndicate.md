@@ -97,7 +97,7 @@ TOEICではビジネス記事や金融関連の長文で、企業連合や共同
 ## 🤔  consortium との違いは？
 
 - **syndicate**：特定の目的のために一時的・限定的に結成される企業連合や組合。
-- **[consortium](/consortium)**：より大規模で長期的な共同事業体や連合体。
+- **[consortium](/word/consortium)**：より大規模で長期的な共同事業体や連合体。
 
 syndicateは短期的・特定目的の連携、consortiumは長期的・広範な協力体制を指す点が異なります。
 
@@ -105,14 +105,14 @@ syndicateは短期的・特定目的の連携、consortiumは長期的・広範�
 
 ## 🧩 あわせて覚えたい
 
-- [cartel](/cartel)：企業連合（特に価格協定などを行う組織）
-- [alliance](/alliance)：同盟、提携
+- [cartel](/word/cartel)：企業連合（特に価格協定などを行う組織）
+- [alliance](/word/alliance)：同盟、提携
 
 ---
 
 ## 📖 できればこれも
 
-- [corporation](/corporation)：株式会社、法人
-- [association](/association)：協会、団体
+- [corporation](/word/corporation)：株式会社、法人
+- [association](/word/association)：協会、団体
 
 <!-- cvid: aid25_bid03 -->

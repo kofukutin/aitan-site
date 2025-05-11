@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、農場や工事現場の情景とし
 ## 🤔  truck との違いは？
 
 - **tractor**：農作業や工事現場で使う「牽引車」や「トラクター」
-- **[truck](/truck)**：荷物を運ぶための「トラック」
+- **[truck](/word/truck)**：荷物を運ぶための「トラック」
 
 tractorは主に引っ張る作業用車両、truckは荷物を運搬する車両という違いがあります。
 
@@ -105,14 +105,14 @@ tractorは主に引っ張る作業用車両、truckは荷物を運搬する車�
 
 ## 🧩 あわせて覚えたい
 
-- [combine](/combine)：コンバイン（収穫用の農業機械）
-- [plow](/plow)：すき（畑を耕す農具）
+- [combine](/word/combine)：コンバイン（収穫用の農業機械）
+- [plow](/word/plow)：すき（畑を耕す農具）
 
 ---
 
 ## 📖 できればこれも
 
-- [harvest](/harvest)：収穫する
-- [field](/field)：畑、野原
+- [harvest](/word/harvest)：収穫する
+- [field](/word/field)：畑、野原
 
 <!-- cvid: aid20_bid26 -->

@@ -96,7 +96,7 @@ TOEICでは、inexperienceはビジネス文書や人事関連の文脈で「経
 ## 🤔  ignorance との違いは？
 
 - **inexperience**：経験が足りないこと、未熟さ
-- **[ignorance](/ignorance)**：知識や情報がないこと、無知
+- **[ignorance](/word/ignorance)**：知識や情報がないこと、無知
 
 inexperienceは「経験の有無」に焦点があり、ignoranceは「知識や情報の有無」に焦点があります。たとえば、経験はあるが知識がない場合や、その逆もあり得ます。
 
@@ -104,14 +104,14 @@ inexperienceは「経験の有無」に焦点があり、ignoranceは「知識�
 
 ## 🧩 あわせて覚えたい
 
-- [expertise](/expertise)：専門知識、熟練
-- [novice](/novice)：初心者
+- [expertise](/word/expertise)：専門知識、熟練
+- [novice](/word/novice)：初心者
 
 ---
 
 ## 📖 できればこれも
 
-- [skill](/skill)：技能、スキル
-- [ability](/ability)：能力
+- [skill](/word/skill)：技能、スキル
+- [ability](/word/ability)：能力
 
 <!-- cvid: aid46_bid48 -->

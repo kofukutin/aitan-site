@@ -96,7 +96,7 @@ TOEICでは、学校や教育に関する長文や案内文でよく登場しま
 ## 🤔  pupil との違いは？
 
 - **student**：一般的に学校や大学で学ぶ人全般を指す。
-- **[pupil](/pupil)**：特に小学校や中学校の児童・生徒を指すことが多い。
+- **[pupil](/word/pupil)**：特に小学校や中学校の児童・生徒を指すことが多い。
 
 studentは年齢や学年を問わず幅広く使われますが、pupilは主に子どもや初等・中等教育の生徒に使われます。
 
@@ -104,14 +104,14 @@ studentは年齢や学年を問わず幅広く使われますが、pupilは主�
 
 ## 🧩 あわせて覚えたい
 
-- [teacher](/teacher)：先生、教師
-- [classmate](/classmate)：クラスメート、同級生
+- [teacher](/word/teacher)：先生、教師
+- [classmate](/word/classmate)：クラスメート、同級生
 
 ---
 
 ## 📖 できればこれも
 
-- [school](/school)：学校
-- [study](/study)：勉強する
+- [school](/word/school)：学校
+- [study](/word/study)：勉強する
 
 <!-- cvid: aid09_bid18 -->

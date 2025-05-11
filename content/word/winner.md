@@ -97,7 +97,7 @@ TOEICでは、コンテストや抽選、ビジネスイベントの会話で「
 ## 🤔  champion との違いは？
 
 - **winner**：試合や抽選などで「勝った人」「受賞者」を広く指す
-- **[champion](/champion)**：大会や競技で「優勝者」「チャンピオン」として称えられる人
+- **[champion](/word/champion)**：大会や競技で「優勝者」「チャンピオン」として称えられる人
 
 winnerは単に「勝った人」全般に使われますが、championは特に大会や競技での「頂点に立った人」に使われ、より称賛のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ winnerは単に「勝った人」全般に使われますが、championは特に
 
 ## 🧩 あわせて覚えたい
 
-- [loser](/loser)：敗者
-- [victor](/victor)：勝利者（ややフォーマル）
+- [loser](/word/loser)：敗者
+- [victor](/word/victor)：勝利者（ややフォーマル）
 
 ---
 
 ## 📖 できればこれも
 
-- [prize](/prize)：賞、賞品
-- [contest](/contest)：コンテスト、競争
+- [prize](/word/prize)：賞、賞品
+- [contest](/word/contest)：コンテスト、競争
 
 <!-- cvid: aid33_bid49 -->

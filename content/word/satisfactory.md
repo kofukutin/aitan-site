@@ -98,7 +98,7 @@ TOEICでは、評価や基準を表す文脈で「satisfactory」が選択肢に
 ## 🤔  sufficient との違いは？
 
 - **satisfactory**：期待や基準を満たしていて「満足できる」状態
-- **[sufficient](/sufficient)**：必要な量や条件を「十分に満たしている」状態
+- **[sufficient](/word/sufficient)**：必要な量や条件を「十分に満たしている」状態
 
 「satisfactory」は主観的な満足感や評価を含みますが、「sufficient」は客観的に必要条件を満たしていることに重点があります。
 
@@ -106,14 +106,14 @@ TOEICでは、評価や基準を表す文脈で「satisfactory」が選択肢に
 
 ## 🧩 あわせて覚えたい
 
-- [acceptable](/acceptable)：受け入れられる、許容できる
-- [unsatisfactory](/unsatisfactory)：不満足な、満足できない
+- [acceptable](/word/acceptable)：受け入れられる、許容できる
+- [unsatisfactory](/word/unsatisfactory)：不満足な、満足できない
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/efficient)：効率的な
-- [adequate](/adequate)：十分な、適切な
+- [efficient](/word/efficient)：効率的な
+- [adequate](/word/adequate)：十分な、適切な
 
 <!-- cvid: aid17_bid00 -->

@@ -97,7 +97,7 @@ citizenはTOEICの長文読解パートで、社会や法律、行政に関す�
 ## 🤔  resident との違いは？
 
 - **citizen**：国籍や市民権を持つ人を指し、法律上の権利や義務がある。
-- **[resident](/resident)**：その場所に住んでいる人全般を指し、国籍や市民権の有無は問わない。
+- **[resident](/word/resident)**：その場所に住んでいる人全般を指し、国籍や市民権の有無は問わない。
 
 citizenは「国民・市民」としての立場を強調し、residentは「居住者」としての事実を表します。
 
@@ -105,14 +105,14 @@ citizenは「国民・市民」としての立場を強調し、residentは「�
 
 ## 🧩 あわせて覚えたい
 
-- [national](/national)：国民
-- [foreigner](/foreigner)：外国人
+- [national](/word/national)：国民
+- [foreigner](/word/foreigner)：外国人
 
 ---
 
 ## 📖 できればこれも
 
-- [community](/community)：地域社会、共同体
-- [population](/population)：人口
+- [community](/word/community)：地域社会、共同体
+- [population](/word/population)：人口
 
 <!-- cvid: aid07_bid07 -->

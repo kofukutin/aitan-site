@@ -97,7 +97,7 @@ TOEICでは「rank」は人や物の順位や地位を表す文脈でよく出�
 ## 🤔  grade との違いは？
 
 - **rank**：順位や序列、地位を表す
-- **[grade](/grade)**：成績や等級、品質のレベルを表す
+- **[grade](/word/grade)**：成績や等級、品質のレベルを表す
 
 「rank」は順位や序列、「grade」は評価や等級の意味で使い分けます。
 
@@ -105,14 +105,14 @@ TOEICでは「rank」は人や物の順位や地位を表す文脈でよく出�
 
 ## 🧩 あわせて覚えたい
 
-- [position](/position)：位置、役職
-- [status](/status)：社会的地位、身分
+- [position](/word/position)：位置、役職
+- [status](/word/status)：社会的地位、身分
 
 ---
 
 ## 📖 できればこれも
 
-- [level](/level)：レベル、段階
-- [score](/score)：得点、スコア
+- [level](/word/level)：レベル、段階
+- [score](/word/score)：得点、スコア
 
 <!-- cvid: aid12_bid43 -->

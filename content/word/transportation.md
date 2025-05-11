@@ -97,7 +97,7 @@ TOEICでは、交通手段や移動に関する案内・説明文でよく登場
 ## 🤔  transit との違いは？
 
 - **transportation**：人や物を運ぶ手段や行為全体、交通機関も含む
-- **[transit](/transit)**：通過・乗り継ぎ・一時的な移動の意味が強い
+- **[transit](/word/transit)**：通過・乗り継ぎ・一時的な移動の意味が強い
 
 transportationは「移動手段・輸送全般」を指し、transitは「通過」や「乗り換え」など一時的な移動に特化しています。
 
@@ -105,14 +105,14 @@ transportationは「移動手段・輸送全般」を指し、transitは「通�
 
 ## 🧩 あわせて覚えたい
 
-- [shipment](/shipment)：発送、出荷
-- [delivery](/delivery)：配達、配送
+- [shipment](/word/shipment)：発送、出荷
+- [delivery](/word/delivery)：配達、配送
 
 ---
 
 ## 📖 できればこれも
 
-- [vehicle](/vehicle)：車両、乗り物
-- [route](/route)：経路、道順
+- [vehicle](/word/vehicle)：車両、乗り物
+- [route](/word/route)：経路、道順
 
 <!-- cvid: aid00_bid31 -->

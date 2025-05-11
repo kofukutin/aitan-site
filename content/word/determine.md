@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や会議の文脈で「決定する」「特定
 ## 🤔  decide との違いは？
 
 - **determine**：客観的・論理的に「決定する」「特定する」ニュアンスが強い
-- **[decide](/decide)**：主観的・個人的に「決める」「決断する」意味が強い
+- **[decide](/word/decide)**：主観的・個人的に「決める」「決断する」意味が強い
 
 determineは分析や調査の結果として決める場合に使い、decideは自分の意志や気持ちで決める場合に使います。
 
@@ -105,14 +105,14 @@ determineは分析や調査の結果として決める場合に使い、decide�
 
 ## 🧩 あわせて覚えたい
 
-- [identify](/identify)：特定する、識別する
-- [conclude](/conclude)：結論を出す、終える
+- [identify](/word/identify)：特定する、識別する
+- [conclude](/word/conclude)：結論を出す、終える
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/analyze)：分析する
-- [assess](/assess)：評価する
+- [analyze](/word/analyze)：分析する
+- [assess](/word/assess)：評価する
 
 <!-- cvid: aid36_bid22 -->

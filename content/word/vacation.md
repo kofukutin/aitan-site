@@ -97,7 +97,7 @@ TOEICでは、旅行や休暇の予定、同僚の不在など日常的な会話
 ## 🤔  holiday との違いは？
 
 - **vacation**：アメリカ英語で「長めの休暇」や「バケーション」を指す。
-- **[holiday](/holiday)**：イギリス英語で「休暇」や「祝日」を指し、短期・長期どちらにも使う。
+- **[holiday](/word/holiday)**：イギリス英語で「休暇」や「祝日」を指し、短期・長期どちらにも使う。
 
 vacationは主にアメリカで使われ、長期の休みや旅行に使われます。holidayはイギリスで一般的で、祝日や短い休みも含みます。
 
@@ -105,14 +105,14 @@ vacationは主にアメリカで使われ、長期の休みや旅行に使われ
 
 ## 🧩 あわせて覚えたい
 
-- [trip](/trip)：旅行、旅
-- [leave](/leave)：休暇、休職
+- [trip](/word/trip)：旅行、旅
+- [leave](/word/leave)：休暇、休職
 
 ---
 
 ## 📖 できればこれも
 
-- [travel](/travel)：旅行する
-- [journey](/journey)：旅、道のり
+- [travel](/word/travel)：旅行する
+- [journey](/word/journey)：旅、道のり
 
 <!-- cvid: aid22_bid10 -->

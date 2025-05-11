@@ -93,7 +93,7 @@ howeverはTOEICの長文読解パートで逆接の接続副詞として頻出�
 ## 🤔  nevertheless との違いは？
 
 - **however**：前文と逆の内容を述べるときに使い、ややフォーマルで論理的な印象。
-- **[nevertheless](/nevertheless)**：逆接の意味は同じだが、「それにもかかわらず」と強調したいときに使う。
+- **[nevertheless](/word/nevertheless)**：逆接の意味は同じだが、「それにもかかわらず」と強調したいときに使う。
 
 howeverは論理的なつながりを示す一般的な逆接、neverthelessは「それでもなお」と強調したい場面で使い分けます。
 
@@ -101,14 +101,14 @@ howeverは論理的なつながりを示す一般的な逆接、neverthelessは�
 
 ## 🧩 あわせて覚えたい
 
-- [but](/but)：しかし（カジュアルな逆接）
-- [although](/although)：～だけれども（接続詞）
+- [but](/word/but)：しかし（カジュアルな逆接）
+- [although](/word/although)：～だけれども（接続詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [therefore](/therefore)：それゆえに
-- [furthermore](/furthermore)：さらに
+- [therefore](/word/therefore)：それゆえに
+- [furthermore](/word/furthermore)：さらに
 
 <!-- cvid: aid12_bid45 -->

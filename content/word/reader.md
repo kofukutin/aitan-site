@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文問題で「読者」や「読む人」として
 ## 🤔  audience との違いは？
 
 - **reader**：本や記事など「読む人」や「読者」を指す
-- **[audience](/audience)**：講演や演奏など「聞く人」「観客」を指す
+- **[audience](/word/audience)**：講演や演奏など「聞く人」「観客」を指す
 
 「reader」は文字情報を読む人、「audience」は話やパフォーマンスを聞いたり観たりする人を指します。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 7の長文問題で「読者」や「読む人」として
 
 ## 🧩 あわせて覚えたい
 
-- [editor](/editor)：編集者
-- [subscriber](/subscriber)：購読者
+- [editor](/word/editor)：編集者
+- [subscriber](/word/subscriber)：購読者
 
 ---
 
 ## 📖 できればこれも
 
-- [author](/author)：著者
-- [viewer](/viewer)：視聴者
+- [author](/word/author)：著者
+- [viewer](/word/viewer)：視聴者
 
 <!-- cvid: aid19_bid49 -->

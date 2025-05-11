@@ -97,7 +97,7 @@ TOEICでは、文章の修正や書き換えに関する設問でよく登場し
 ## 🤔  revise との違いは？
 
 - **rewrite**：文章や内容を大きく書き直す、根本的に作り直すニュアンス
-- **[revise](/revise)**：内容を修正・訂正する、部分的に直すニュアンス
+- **[revise](/word/revise)**：内容を修正・訂正する、部分的に直すニュアンス
 
 rewriteは「一から書き直す」イメージ、reviseは「部分的に修正する」イメージです。
 
@@ -105,14 +105,14 @@ rewriteは「一から書き直す」イメージ、reviseは「部分的に修�
 
 ## 🧩 あわせて覚えたい
 
-- [edit](/edit)：編集する
-- [modify](/modify)：修正する、変更する
+- [edit](/word/edit)：編集する
+- [modify](/word/modify)：修正する、変更する
 
 ---
 
 ## 📖 できればこれも
 
-- [summarize](/summarize)：要約する
-- [proofread](/proofread)：校正する
+- [summarize](/word/summarize)：要約する
+- [proofread](/word/proofread)：校正する
 
 <!-- cvid: aid30_bid27 -->

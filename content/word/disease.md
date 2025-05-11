@@ -96,7 +96,7 @@ TOEICでは医療や健康に関する記事や説明文でよく登場します
 ## 🤔  illness との違いは？
 
 - **disease**：医学的に特定された病気や疾患を指し、原因や症状が明確な場合に使う
-- **[illness](/illness)**：体調不良や病気全般を広く指し、医学的な診断がなくても使える
+- **[illness](/word/illness)**：体調不良や病気全般を広く指し、医学的な診断がなくても使える
 
 diseaseは「診断された病気」、illnessは「体調不良」や「病気全般」といったニュアンスの違いがあります。
 
@@ -104,14 +104,14 @@ diseaseは「診断された病気」、illnessは「体調不良」や「病気
 
 ## 🧩 あわせて覚えたい
 
-- [infection](/infection)：感染症
-- [disorder](/disorder)：障害、機能不全
+- [infection](/word/infection)：感染症
+- [disorder](/word/disorder)：障害、機能不全
 
 ---
 
 ## 📖 できればこれも
 
-- [symptom](/symptom)：症状
-- [treatment](/treatment)：治療
+- [symptom](/word/symptom)：症状
+- [treatment](/word/treatment)：治療
 
 <!-- cvid: aid31_bid48 -->

@@ -97,7 +97,7 @@ TOEICでは、観光案内や科学系の記事などで「生き物」や「動
 ## 🤔  animal との違いは？
 
 - **creature**：生き物全般や想像上の存在も含む幅広い表現
-- **[animal](/animal)**：現実世界の動物（特に人間以外）を指す
+- **[animal](/word/animal)**：現実世界の動物（特に人間以外）を指す
 
 「creature」は空想上の生物や虫、小さな生き物にも使えますが、「animal」は現実の動物に限定されることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、観光案内や科学系の記事などで「生き物」や「動
 
 ## 🧩 あわせて覚えたい
 
-- [organism](/organism)：有機体、生物
-- [monster](/monster)：怪物、モンスター
+- [organism](/word/organism)：有機体、生物
+- [monster](/word/monster)：怪物、モンスター
 
 ---
 
 ## 📖 できればこれも
 
-- [feature](/feature)：特徴、特性
-- [nature](/nature)：自然、本質
+- [feature](/word/feature)：特徴、特性
+- [nature](/word/nature)：自然、本質
 
 <!-- cvid: aid07_bid40 -->

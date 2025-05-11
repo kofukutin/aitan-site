@@ -97,7 +97,7 @@ The company developed a new type of insulin for diabetes patients.
 ## 🤔  hormone との違いは？
 
 - **insulin**：血糖値を下げる働きを持つ特定のホルモン
-- **[hormone](/hormone)**：体内のさまざまな機能を調整する化学物質全般
+- **[hormone](/word/hormone)**：体内のさまざまな機能を調整する化学物質全般
 
 insulinはhormoneの一種ですが、hormoneは成長や代謝など幅広い働きを持つ物質全体を指します。
 
@@ -105,14 +105,14 @@ insulinはhormoneの一種ですが、hormoneは成長や代謝など幅広い�
 
 ## 🧩 あわせて覚えたい
 
-- [glucose](/glucose)：ブドウ糖
-- [diabetes](/diabetes)：糖尿病
+- [glucose](/word/glucose)：ブドウ糖
+- [diabetes](/word/diabetes)：糖尿病
 
 ---
 
 ## 📖 できればこれも
 
-- [vaccine](/vaccine)：ワクチン
-- [therapy](/therapy)：治療法
+- [vaccine](/word/vaccine)：ワクチン
+- [therapy](/word/therapy)：治療法
 
 <!-- cvid: aid36_bid00 -->

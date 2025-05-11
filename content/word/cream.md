@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、食品や医薬品、化粧品の場
 ## 🤔  lotion との違いは？
 
 - **cream**：乳脂肪や薬・化粧品などの「クリーム状のもの」。やや濃厚で油分が多い。
-- **[lotion](/lotion)**：液体に近い「ローション」。さらっとしていて水分が多い。
+- **[lotion](/word/lotion)**：液体に近い「ローション」。さらっとしていて水分が多い。
 
 creamは油分が多くしっとりした質感、lotionは水分が多くさっぱりした質感で、保湿や塗布の目的によって使い分けます。
 
@@ -105,14 +105,14 @@ creamは油分が多くしっとりした質感、lotionは水分が多くさっ
 
 ## 🧩 あわせて覚えたい
 
-- [ointment](/ointment)：軟膏（薬用の塗り薬）
-- [butter](/butter)：バター（乳製品）
+- [ointment](/word/ointment)：軟膏（薬用の塗り薬）
+- [butter](/word/butter)：バター（乳製品）
 
 ---
 
 ## 📖 できればこれも
 
-- [milk](/milk)：牛乳
-- [cheese](/cheese)：チーズ
+- [milk](/word/milk)：牛乳
+- [cheese](/word/cheese)：チーズ
 
 <!-- cvid: aid38_bid06 -->

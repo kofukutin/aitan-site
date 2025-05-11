@@ -98,7 +98,7 @@ TOEICでは「費用を請求する」「権利を主張する」などの意味
 ## 🤔  request との違いは？
 
 - **claim**：自分の権利として当然だと主張して要求する
-- **[request](/request)**：丁寧に頼む、お願いする
+- **[request](/word/request)**：丁寧に頼む、お願いする
 
 claimは「当然の権利」として強く主張するニュアンスがあり、requestは相手に配慮した丁寧な依頼です。
 
@@ -106,14 +106,14 @@ claimは「当然の権利」として強く主張するニュアンスがあり
 
 ## 🧩 あわせて覚えたい
 
-- [assert](/assert)：断言する、強く主張する
-- [deny](/deny)：否定する、拒否する
+- [assert](/word/assert)：断言する、強く主張する
+- [deny](/word/deny)：否定する、拒否する
 
 ---
 
 ## 📖 できればこれも
 
-- [apply](/apply)：申し込む、申請する
-- [submit](/submit)：提出する
+- [apply](/word/apply)：申し込む、申請する
+- [submit](/word/submit)：提出する
 
 <!-- cvid: aid16_bid37 -->

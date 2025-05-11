@@ -97,7 +97,7 @@ TOEICでは、売上や業績、景気などが「rebound（回復する）」�
 ## 🤔  recover との違いは？
 
 - **rebound**：跳ね返るように勢いよく回復する、元の状態に戻る
-- **[recover](/recover)**：失ったものや健康・状態を徐々に取り戻す
+- **[recover](/word/recover)**：失ったものや健康・状態を徐々に取り戻す
 
 「rebound」は一時的な落ち込みから勢いよく戻るイメージ、「recover」は時間をかけてじっくり回復するイメージです。
 
@@ -105,14 +105,14 @@ TOEICでは、売上や業績、景気などが「rebound（回復する）」�
 
 ## 🧩 あわせて覚えたい
 
-- [decline](/decline)：減少する、下落する
-- [bounce](/bounce)：跳ね返る、弾む
+- [decline](/word/decline)：減少する、下落する
+- [bounce](/word/bounce)：跳ね返る、弾む
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/improve)：改善する、良くなる
-- [decrease](/decrease)：減少する
+- [improve](/word/improve)：改善する、良くなる
+- [decrease](/word/decrease)：減少する
 
 <!-- cvid: aid28_bid12 -->

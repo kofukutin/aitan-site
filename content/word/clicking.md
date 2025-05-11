@@ -97,7 +97,7 @@ IT関連の説明や指示で「clicking」が使われることが多く、パ�
 ## 🤔  pressing との違いは？
 
 - **clicking**：マウスやボタンを「カチッ」と押す動作や音を表す。
-- **[pressing](/pressing)**：ボタンや物を「押す」動作全般を表し、音や一瞬の動作には限らない。
+- **[pressing](/word/pressing)**：ボタンや物を「押す」動作全般を表し、音や一瞬の動作には限らない。
 
 clickingは「カチッ」という短い動作や音に焦点があり、pressingは押し続ける動作や力を入れる場面で使います。
 
@@ -105,14 +105,14 @@ clickingは「カチッ」という短い動作や音に焦点があり、pressi
 
 ## 🧩 あわせて覚えたい
 
-- [double click](/double_click)：ダブルクリック（素早く2回クリックすること）
-- [tap](/tap)：（軽く）たたく、スマホ画面をタップする
+- [double click](/word/double_click)：ダブルクリック（素早く2回クリックすること）
+- [tap](/word/tap)：（軽く）たたく、スマホ画面をタップする
 
 ---
 
 ## 📖 できればこれも
 
-- [scroll](/scroll)：スクロールする、画面を上下に動かす
-- [select](/select)：選択する
+- [scroll](/word/scroll)：スクロールする、画面を上下に動かす
+- [select](/word/select)：選択する
 
 <!-- cvid: aid08_bid47 -->

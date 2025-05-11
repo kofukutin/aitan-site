@@ -99,7 +99,7 @@ TOEICでは、ホテルや出張、旅行などの場面で「滞在する」「
 ## 🤔  remained との違いは？
 
 - **stayed**：場所や状態に「とどまる」「滞在する」ことを表す。
-- **[remained](/remained)**：変化せず「そのままでいる」「残る」ことを強調。
+- **[remained](/word/remained)**：変化せず「そのままでいる」「残る」ことを強調。
 
 stayedは物理的な場所や短期間の滞在に使われ、remainedは状態や状況が変わらないことに使われます。
 
@@ -107,14 +107,14 @@ stayedは物理的な場所や短期間の滞在に使われ、remainedは状態
 
 ## 🧩 あわせて覚えたい
 
-- [leave](/leave)：去る、出発する
-- [visit](/visit)：訪れる
+- [leave](/word/leave)：去る、出発する
+- [visit](/word/visit)：訪れる
 
 ---
 
 ## 📖 できればこれも
 
-- [arrive](/arrive)：到着する
-- [wait](/wait)：待つ
+- [arrive](/word/arrive)：到着する
+- [wait](/word/wait)：待つ
 
 <!-- cvid: aid33_bid35 -->

@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や契約書などで「依存」「頼るこ
 ## 🤔  dependence との違いは？
 
 - **reliance**：ややフォーマルで、積極的に「頼る」ニュアンスが強い
-- **[dependence](/dependence)**：より広く「依存」や「頼る状態」を指し、消極的な意味合いも含む
+- **[dependence](/word/dependence)**：より広く「依存」や「頼る状態」を指し、消極的な意味合いも含む
 
 relianceは「信頼して頼る」前向きな場面で使われやすく、dependenceは「依存症」などネガティブな文脈にも使われます。
 
@@ -105,14 +105,14 @@ relianceは「信頼して頼る」前向きな場面で使われやすく、dep
 
 ## 🧩 あわせて覚えたい
 
-- [independence](/independence)：独立、自立
-- [trust](/trust)：信頼
+- [independence](/word/independence)：独立、自立
+- [trust](/word/trust)：信頼
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/reliable)：信頼できる
-- [confidence](/confidence)：自信、信頼
+- [reliable](/word/reliable)：信頼できる
+- [confidence](/word/confidence)：自信、信頼
 
 <!-- cvid: aid23_bid05 -->

@@ -97,7 +97,7 @@ TOEICでは「communication skills」「language skills」など、履歴書や�
 ## 🤔  ability との違いは？
 
 - **skill**：訓練や経験によって身につけた具体的な技術や能力
-- **[ability](/ability)**：生まれつきや全般的な「できる力」、潜在的な能力
+- **[ability](/word/ability)**：生まれつきや全般的な「できる力」、潜在的な能力
 
 skillは「実際に使える技術」、abilityは「できる素質や可能性」といった違いがあります。
 
@@ -105,14 +105,14 @@ skillは「実際に使える技術」、abilityは「できる素質や可能�
 
 ## 🧩 あわせて覚えたい
 
-- [talent](/talent)：生まれつきの才能
-- [expertise](/expertise)：専門的な知識や技術
+- [talent](/word/talent)：生まれつきの才能
+- [expertise](/word/expertise)：専門的な知識や技術
 
 ---
 
 ## 📖 できればこれも
 
-- [experience](/experience)：経験
-- [knowledge](/knowledge)：知識
+- [experience](/word/experience)：経験
+- [knowledge](/word/knowledge)：知識
 
 <!-- cvid: aid32_bid14 -->

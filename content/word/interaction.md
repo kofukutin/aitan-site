@@ -97,7 +97,7 @@ TOEICでは会議やチームワーク、顧客対応などの場面で「やり
 ## 🤔  communication との違いは？
 
 - **interaction**：双方向のやりとりや影響し合うことに重点がある
-- **[communication](/communication)**：情報や気持ちを伝えること自体に重点がある
+- **[communication](/word/communication)**：情報や気持ちを伝えること自体に重点がある
 
 interactionは「互いに影響し合う」ニュアンスが強く、communicationは「伝達」そのものに焦点があります。
 
@@ -105,14 +105,14 @@ interactionは「互いに影響し合う」ニュアンスが強く、communica
 
 ## 🧩 あわせて覚えたい
 
-- [collaboration](/collaboration)：協力、共同作業
-- [response](/response)：返答、反応
+- [collaboration](/word/collaboration)：協力、共同作業
+- [response](/word/response)：返答、反応
 
 ---
 
 ## 📖 できればこれも
 
-- [feedback](/feedback)：意見、フィードバック
-- [discussion](/discussion)：議論、話し合い
+- [feedback](/word/feedback)：意見、フィードバック
+- [discussion](/word/discussion)：議論、話し合い
 
 <!-- cvid: aid13_bid48 -->

@@ -97,7 +97,7 @@ TOEICでは、書類やレポート、申請書などが「不完全」「未完
 ## 🤔  unfinished との違いは？
 
 - **incomplete**：必要な部分や要素が欠けていて「完全でない」状態を強調
-- **[unfinished](/unfinished)**：作業やプロセスが「まだ終わっていない」状態を強調
+- **[unfinished](/word/unfinished)**：作業やプロセスが「まだ終わっていない」状態を強調
 
 「incomplete」は必要な情報や部分が抜けていることに焦点があり、「unfinished」は単に作業が終わっていないことを指します。
 
@@ -105,14 +105,14 @@ TOEICでは、書類やレポート、申請書などが「不完全」「未完
 
 ## 🧩 あわせて覚えたい
 
-- [partial](/partial)：部分的な
-- [deficient](/deficient)：不足している
+- [partial](/word/partial)：部分的な
+- [deficient](/word/deficient)：不足している
 
 ---
 
 ## 📖 できればこれも
 
-- [accurate](/accurate)：正確な
-- [sufficient](/sufficient)：十分な
+- [accurate](/word/accurate)：正確な
+- [sufficient](/word/sufficient)：十分な
 
 <!-- cvid: aid26_bid06 -->

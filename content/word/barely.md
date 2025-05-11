@@ -93,7 +93,7 @@ TOEICでは会話や説明文で「ギリギリ」「ほとんど～ない」と
 ## 🤔  hardly との違いは？
 
 - **barely**：かろうじて、ギリギリ達成したことを強調
-- **[hardly](/hardly)**：ほとんど～ない（達成できなかったニュアンスが強い）
+- **[hardly](/word/hardly)**：ほとんど～ない（達成できなかったニュアンスが強い）
 
 barelyは「最低限達成した」ことを示し、hardlyは「ほぼ達成できなかった」ことを表します。
 
@@ -101,14 +101,14 @@ barelyは「最低限達成した」ことを示し、hardlyは「ほぼ達成�
 
 ## 🧩 あわせて覚えたい
 
-- [scarcely](/scarcely)：ほとんど～ない（barelyとほぼ同じ意味）
-- [almost](/almost)：ほとんど（肯定的な意味で「もう少しで」）
+- [scarcely](/word/scarcely)：ほとんど～ない（barelyとほぼ同じ意味）
+- [almost](/word/almost)：ほとんど（肯定的な意味で「もう少しで」）
 
 ---
 
 ## 📖 できればこれも
 
-- [nearly](/nearly)：ほとんど、もう少しで
-- [rarely](/rarely)：めったに～ない
+- [nearly](/word/nearly)：ほとんど、もう少しで
+- [rarely](/word/rarely)：めったに～ない
 
 <!-- cvid: aid37_bid11 -->

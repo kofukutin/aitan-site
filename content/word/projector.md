@@ -97,7 +97,7 @@ TOEICでは会議やプレゼンテーションの説明文、アナウンスな
 ## 🤔  screen との違いは？
 
 - **projector**：映像や画像を投影する機械
-- **[screen](/screen)**：投影された映像を映し出す「スクリーン」や「画面」
+- **[screen](/word/screen)**：投影された映像を映し出す「スクリーン」や「画面」
 
 projectorは「投影する装置」、screenは「投影されたものを映す面」を指し、役割が異なります。
 
@@ -105,14 +105,14 @@ projectorは「投影する装置」、screenは「投影されたものを映�
 
 ## 🧩 あわせて覚えたい
 
-- [display](/display)：表示装置、ディスプレイ
-- [monitor](/monitor)：モニター、画面
+- [display](/word/display)：表示装置、ディスプレイ
+- [monitor](/word/monitor)：モニター、画面
 
 ---
 
 ## 📖 できればこれも
 
-- [presentation](/presentation)：プレゼンテーション、発表
-- [pointer](/pointer)：指示棒、ポインター
+- [presentation](/word/presentation)：プレゼンテーション、発表
+- [pointer](/word/pointer)：指示棒、ポインター
 
 <!-- cvid: aid31_bid32 -->

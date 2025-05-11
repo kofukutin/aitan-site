@@ -94,7 +94,7 @@ TOEICでは会話や説明文で「推測」や「予測」を表す際によく
 ## 🤔  likely との違いは？
 
 - **probably**：話し手の主観で「おそらく」「たぶん」と推測する時に使う副詞
-- **[likely](/likely)**：客観的な状況や根拠から「～しそうだ」と述べる形容詞
+- **[likely](/word/likely)**：客観的な状況や根拠から「～しそうだ」と述べる形容詞
 
 probablyは話し手の予想や感覚を表し、likelyは状況や事実に基づく可能性を述べる時に使います。
 
@@ -102,14 +102,14 @@ probablyは話し手の予想や感覚を表し、likelyは状況や事実に基
 
 ## 🧩 あわせて覚えたい
 
-- [possibly](/possibly)：もしかすると（確率は低め）
-- [certainly](/certainly)：確かに、きっと（確信度が高い）
+- [possibly](/word/possibly)：もしかすると（確率は低め）
+- [certainly](/word/certainly)：確かに、きっと（確信度が高い）
 
 ---
 
 ## 📖 できればこれも
 
-- [maybe](/maybe)：もしかしたら
-- [surely](/surely)：きっと、確かに
+- [maybe](/word/maybe)：もしかしたら
+- [surely](/word/surely)：きっと、確かに
 
 <!-- cvid: aid34_bid23 -->

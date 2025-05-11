@@ -99,7 +99,7 @@ TOEICでは、数量や割合を問う文脈で「half」がよく登場しま�
 ## 🤔  part との違いは？
 
 - **half**：全体の2分の1、きっちり半分を指す
-- **[part](/part)**：一部分、全体の中のどこかの一部を指す
+- **[part](/word/part)**：一部分、全体の中のどこかの一部を指す
 
 「half」は正確に半分を示しますが、「part」はどのくらいの割合かは特定せず、漠然と一部を表します。
 
@@ -107,14 +107,14 @@ TOEICでは、数量や割合を問う文脈で「half」がよく登場しま�
 
 ## 🧩 あわせて覚えたい
 
-- [quarter](/quarter)：4分の1
-- [portion](/portion)：分け前、取り分
+- [quarter](/word/quarter)：4分の1
+- [portion](/word/portion)：分け前、取り分
 
 ---
 
 ## 📖 できればこれも
 
-- [double](/double)：2倍
-- [total](/total)：合計
+- [double](/word/double)：2倍
+- [total](/word/total)：合計
 
 <!-- cvid: aid16_bid45 -->

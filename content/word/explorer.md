@@ -97,7 +97,7 @@ TOEICでは、歴史や観光、科学分野の長文で「explorer」が登場�
 ## 🤔  adventurer との違いは？
 
 - **explorer**：未知の場所や分野を調査・発見することを目的とした探検家
-- **[adventurer](/adventurer)**：冒険やスリルを求めて危険なことに挑む人
+- **[adventurer](/word/adventurer)**：冒険やスリルを求めて危険なことに挑む人
 
 explorerは「調査・発見」が主な目的ですが、adventurerは「冒険やスリル」を求める点が異なります。
 
@@ -105,14 +105,14 @@ explorerは「調査・発見」が主な目的ですが、adventurerは「冒�
 
 ## 🧩 あわせて覚えたい
 
-- [pioneer](/pioneer)：開拓者、先駆者
-- [researcher](/researcher)：研究者
+- [pioneer](/word/pioneer)：開拓者、先駆者
+- [researcher](/word/researcher)：研究者
 
 ---
 
 ## 📖 できればこれも
 
-- [explore](/explore)：探検する、調査する
-- [discovery](/discovery)：発見
+- [explore](/word/explore)：探検する、調査する
+- [discovery](/word/discovery)：発見
 
 <!-- cvid: aid31_bid18 -->

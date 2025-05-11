@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やEメール、社内通知などで「classifi
 ## 🤔  confidential との違いは？
 
 - **classified**：政府や組織によって「公式に機密指定された」情報や文書に使う
-- **[confidential](/confidential)**：一般的に「秘密」「内密」にすべき内容に使う
+- **[confidential](/word/confidential)**：一般的に「秘密」「内密」にすべき内容に使う
 
 classifiedは「機密レベルが公式に定められている」ニュアンスが強く、confidentialは「個人や組織内で秘密にしたい」広い意味で使われます。
 
@@ -105,14 +105,14 @@ classifiedは「機密レベルが公式に定められている」ニュアン�
 
 ## 🧩 あわせて覚えたい
 
-- [public](/public)：公開の、一般の
-- [restricted](/restricted)：制限された、限定の
+- [public](/word/public)：公開の、一般の
+- [restricted](/word/restricted)：制限された、限定の
 
 ---
 
 ## 📖 できればこれも
 
-- [sensitive](/sensitive)：取り扱い注意の、機密性の高い
-- [secure](/secure)：安全な、厳重な
+- [sensitive](/word/sensitive)：取り扱い注意の、機密性の高い
+- [secure](/word/secure)：安全な、厳重な
 
 <!-- cvid: aid12_bid00 -->

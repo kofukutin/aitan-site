@@ -97,7 +97,7 @@ spiteはTOEICの長文読解パートで、人物の感情や人間関係を描�
 ## 🤔  malice との違いは？
 
 - **spite**：比較的軽い悪意や意地悪な気持ちを指し、日常的な嫌がらせにも使われる。
-- **[malice](/malice)**：より強い悪意や害意を持ち、法的・深刻な場面で使われることが多い。
+- **[malice](/word/malice)**：より強い悪意や害意を持ち、法的・深刻な場面で使われることが多い。
 
 spiteは「ちょっとした意地悪」も含みますが、maliceは「本気で害を与えたい」という強い悪意を表します。
 
@@ -105,14 +105,14 @@ spiteは「ちょっとした意地悪」も含みますが、maliceは「本気
 
 ## 🧩 あわせて覚えたい
 
-- [resentment](/resentment)：憤り、恨み
-- [grudge](/grudge)：恨み、遺恨
+- [resentment](/word/resentment)：憤り、恨み
+- [grudge](/word/grudge)：恨み、遺恨
 
 ---
 
 ## 📖 できればこれも
 
-- [envy](/envy)：うらやみ、嫉妬
-- [anger](/anger)：怒り
+- [envy](/word/envy)：うらやみ、嫉妬
+- [anger](/word/anger)：怒り
 
 <!-- cvid: aid13_bid02 -->

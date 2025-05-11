@@ -97,7 +97,7 @@ TOEICでは、予算や資源の配分、業務の割り当てに関する文脈
 ## 🤔  assign との違いは？
 
 - **allocate**：資源や予算などを「配分・割り当てる」ことに重点がある
-- **[assign](/assign)**：仕事や役割などを「任命・割り当てる」ことに重点がある
+- **[assign](/word/assign)**：仕事や役割などを「任命・割り当てる」ことに重点がある
 
 allocateは主に物や資源の分配、assignは人やタスクの割り当てに使われる点が異なります。
 
@@ -105,14 +105,14 @@ allocateは主に物や資源の分配、assignは人やタスクの割り当て
 
 ## 🧩 あわせて覚えたい
 
-- [distribute](/distribute)：分配する、配布する
-- [reserve](/reserve)：予約する、取っておく
+- [distribute](/word/distribute)：分配する、配布する
+- [reserve](/word/reserve)：予約する、取っておく
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/approve)：承認する
-- [submit](/submit)：提出する
+- [approve](/word/approve)：承認する
+- [submit](/word/submit)：提出する
 
 <!-- cvid: aid40_bid45 -->

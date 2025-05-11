@@ -97,7 +97,7 @@ TOEICでは、通勤や移動に関する記事や案内文でよく登場しま
 ## 🤔  passenger との違いは？
 
 - **commuter**：主に通勤・通学のために定期的に移動する人
-- **[passenger](/passenger)**：乗り物に乗っている人全般（目的は問わない）
+- **[passenger](/word/passenger)**：乗り物に乗っている人全般（目的は問わない）
 
 commuterは「通勤・通学目的の利用者」、passengerは「乗客」全般を指し、目的や頻度の違いがあります。
 
@@ -105,14 +105,14 @@ commuterは「通勤・通学目的の利用者」、passengerは「乗客」全
 
 ## 🧩 あわせて覚えたい
 
-- [employee](/employee)：従業員
-- [resident](/resident)：居住者
+- [employee](/word/employee)：従業員
+- [resident](/word/resident)：居住者
 
 ---
 
 ## 📖 できればこれも
 
-- [commute](/commute)：通勤する
-- [commuting](/commuting)：通勤（名詞・形容詞）
+- [commute](/word/commute)：通勤する
+- [commuting](/word/commuting)：通勤（名詞・形容詞）
 
 <!-- cvid: aid31_bid27 -->

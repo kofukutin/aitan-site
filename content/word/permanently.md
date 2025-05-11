@@ -98,7 +98,7 @@ TOEICでは「temporarily（仮に）」との対比や、動詞と組み合わ�
 ## 🤔  forever との違いは？
 
 - **permanently**：一度決まったら変わらない、元に戻らないことを強調する「永久に」
-- **[forever](/forever)**：時間的に「ずっと」「永遠に」という意味で、感情や口語的な場面でも使う
+- **[forever](/word/forever)**：時間的に「ずっと」「永遠に」という意味で、感情や口語的な場面でも使う
 
 「permanently」は公式・事務的な場面で「恒久的に変化しない」ことを強調し、「forever」は日常会話や感情表現で「いつまでも続く」ニュアンスが強いです。
 
@@ -106,14 +106,14 @@ TOEICでは「temporarily（仮に）」との対比や、動詞と組み合わ�
 
 ## 🧩 あわせて覚えたい
 
-- [temporarily](/temporarily)：一時的に
-- [constantly](/constantly)：絶えず、常に
+- [temporarily](/word/temporarily)：一時的に
+- [constantly](/word/constantly)：絶えず、常に
 
 ---
 
 ## 📖 できればこれも
 
-- [frequently](/frequently)：頻繁に
-- [immediately](/immediately)：すぐに
+- [frequently](/word/frequently)：頻繁に
+- [immediately](/word/immediately)：すぐに
 
 <!-- cvid: aid44_bid34 -->

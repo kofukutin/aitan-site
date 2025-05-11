@@ -98,7 +98,7 @@ TOEICでは、文中で「何かを作り出す」場面や、進行中のプロ
 ## 🤔  making との違いは？
 
 - **creating**：新しく何かを生み出す、創造する
-- **[making](/making)**：材料や既存のものを使って作る、製作する
+- **[making](/word/making)**：材料や既存のものを使って作る、製作する
 
 「creating」はゼロから新しいものを生み出すイメージ、「making」は既存の材料やアイデアを使って作るイメージです。
 
@@ -106,14 +106,14 @@ TOEICでは、文中で「何かを作り出す」場面や、進行中のプロ
 
 ## 🧩 あわせて覚えたい
 
-- [develop](/develop)：開発する、発展させる
-- [design](/design)：設計する、デザインする
+- [develop](/word/develop)：開発する、発展させる
+- [design](/word/design)：設計する、デザインする
 
 ---
 
 ## 📖 できればこれも
 
-- [produce](/produce)：生産する、作り出す
-- [build](/build)：建てる、築く
+- [produce](/word/produce)：生産する、作り出す
+- [build](/word/build)：建てる、築く
 
 <!-- cvid: aid05_bid29 -->

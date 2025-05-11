@@ -97,7 +97,7 @@ TOEICではITや自動車、機械関連の説明文や仕様書で見かける�
 ## 🤔  frame との違いは？
 
 - **chassis**：機械や車などの「本体構造」「土台部分」を指す専門用語
-- **[frame](/frame)**：枠組みや骨組み全般を指し、より広い意味で使われる
+- **[frame](/word/frame)**：枠組みや骨組み全般を指し、より広い意味で使われる
 
 chassisは特に機械や車の基礎部分に限定されるのに対し、frameは窓枠や写真立てなど幅広い「枠組み」に使われます。
 
@@ -105,14 +105,14 @@ chassisは特に機械や車の基礎部分に限定されるのに対し、fram
 
 ## 🧩 あわせて覚えたい
 
-- [body](/body)：本体、車体
-- [structure](/structure)：構造、仕組み
+- [body](/word/body)：本体、車体
+- [structure](/word/structure)：構造、仕組み
 
 ---
 
 ## 📖 できればこれも
 
-- [component](/component)：部品、構成要素
-- [device](/device)：装置、機器
+- [component](/word/component)：部品、構成要素
+- [device](/word/device)：装置、機器
 
 <!-- cvid: aid38_bid02 -->

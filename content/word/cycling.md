@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写で「自転車に乗っている人」などの
 ## 🤔  riding との違いは？
 
 - **cycling**：自転車に乗ること、サイクリング
-- **[riding](/riding)**：乗り物や動物に乗ること全般
+- **[riding](/word/riding)**：乗り物や動物に乗ること全般
 
 cyclingは「自転車」に限定されるのに対し、ridingは馬やバイクなど他の乗り物にも使われます。
 
@@ -105,14 +105,14 @@ cyclingは「自転車」に限定されるのに対し、ridingは馬やバイ�
 
 ## 🧩 あわせて覚えたい
 
-- [walking](/walking)：歩くこと、徒歩
-- [commute](/commute)：通勤・通学する
+- [walking](/word/walking)：歩くこと、徒歩
+- [commute](/word/commute)：通勤・通学する
 
 ---
 
 ## 📖 できればこれも
 
-- [swimming](/swimming)：泳ぐこと
-- [hiking](/hiking)：ハイキング、山歩き
+- [swimming](/word/swimming)：泳ぐこと
+- [hiking](/word/hiking)：ハイキング、山歩き
 
 <!-- cvid: aid16_bid19 -->

@@ -97,7 +97,7 @@ TOEICでは書籍や出版物に関する話題で、hardcoverやmagazineなど�
 ## 🤔  hardcover との違いは？
 
 - **paperback**：紙の表紙で作られた本。軽くて安価。
-- **[hardcover](/hardcover)**：厚いボール紙などで作られた堅い表紙の本。高価で丈夫。
+- **[hardcover](/word/hardcover)**：厚いボール紙などで作られた堅い表紙の本。高価で丈夫。
 
 paperbackは持ち運びやすさや価格重視、hardcoverは保存性や高級感重視の場面で使い分けます。
 
@@ -105,14 +105,14 @@ paperbackは持ち運びやすさや価格重視、hardcoverは保存性や高�
 
 ## 🧩 あわせて覚えたい
 
-- [magazine](/magazine)：雑誌
-- [brochure](/brochure)：パンフレット
+- [magazine](/word/magazine)：雑誌
+- [brochure](/word/brochure)：パンフレット
 
 ---
 
 ## 📖 できればこれも
 
-- [novel](/novel)：小説
-- [author](/author)：著者
+- [novel](/word/novel)：小説
+- [author](/word/author)：著者
 
 <!-- cvid: aid30_bid27 -->

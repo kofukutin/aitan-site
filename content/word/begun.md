@@ -97,7 +97,7 @@ TOEICでは、動詞の時制や語形変化を問う文法問題で頻出しま
 ## 🤔  started との違いは？
 
 - **begun**：beginの過去分詞形で、ややフォーマルな響き。始まりの動作やプロセスの開始を強調。
-- **[started](/started)**：startの過去分詞形で、よりカジュアルかつ広い場面で使われる。
+- **[started](/word/started)**：startの過去分詞形で、よりカジュアルかつ広い場面で使われる。
 
 begunは「物事の始まり」に重点を置き、startedは「何かを始める行為」や「機械などの作動開始」にもよく使われます。
 
@@ -105,14 +105,14 @@ begunは「物事の始まり」に重点を置き、startedは「何かを始�
 
 ## 🧩 あわせて覚えたい
 
-- [commence](/commence)：開始する（フォーマルな表現）
-- [finish](/finish)：終える、終わる
+- [commence](/word/commence)：開始する（フォーマルな表現）
+- [finish](/word/finish)：終える、終わる
 
 ---
 
 ## 📖 できればこれも
 
-- [begin](/begin)：始める（原形）
-- [complete](/complete)：完了する、終える
+- [begin](/word/begin)：始める（原形）
+- [complete](/word/complete)：完了する、終える
 
 <!-- cvid: aid06_bid31 -->

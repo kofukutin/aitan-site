@@ -97,7 +97,7 @@ TOEICでは健康や福利厚生、企業の従業員向けサービスの説明
 ## 🤔  health との違いは？
 
 - **wellness**：心身のバランスや生活の質も含めた積極的な健康
-- **[health](/health)**：病気でない状態や一般的な健康
+- **[health](/word/health)**：病気でない状態や一般的な健康
 
 wellnessは「より良い状態を目指す健康」、healthは「病気でないこと・健康そのもの」を指します。
 
@@ -105,14 +105,14 @@ wellnessは「より良い状態を目指す健康」、healthは「病気でな
 
 ## 🧩 あわせて覚えたい
 
-- [fitness](/fitness)：体力、フィットネス
-- [illness](/illness)：病気
+- [fitness](/word/fitness)：体力、フィットネス
+- [illness](/word/illness)：病気
 
 ---
 
 ## 📖 できればこれも
 
-- [nutrition](/nutrition)：栄養
-- [therapy](/therapy)：治療、セラピー
+- [nutrition](/word/nutrition)：栄養
+- [therapy](/word/therapy)：治療、セラピー
 
 <!-- cvid: aid20_bid27 -->

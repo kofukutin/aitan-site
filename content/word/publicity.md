@@ -97,7 +97,7 @@ TOEICでは広告文や記事、ビジネスメールなどで「宣伝」「知
 ## 🤔  advertisement との違いは？
 
 - **publicity**：宣伝活動や注目そのもの（無料・有料問わず幅広い）
-- **[advertisement](/advertisement)**：広告（有料で出す具体的な広告物）
+- **[advertisement](/word/advertisement)**：広告（有料で出す具体的な広告物）
 
 publicityは「世間の注目」や「宣伝活動全般」を指し、advertisementは「広告」という具体的な媒体や広告物を意味します。
 
@@ -105,14 +105,14 @@ publicityは「世間の注目」や「宣伝活動全般」を指し、advertis
 
 ## 🧩 あわせて覚えたい
 
-- [promotion](/promotion)：販促、販売促進
-- [reputation](/reputation)：評判、名声
+- [promotion](/word/promotion)：販促、販売促進
+- [reputation](/word/reputation)：評判、名声
 
 ---
 
 ## 📖 できればこれも
 
-- [campaign](/campaign)：キャンペーン、宣伝活動
-- [announcement](/announcement)：発表、告知
+- [campaign](/word/campaign)：キャンペーン、宣伝活動
+- [announcement](/word/announcement)：発表、告知
 
 <!-- cvid: aid04_bid25 -->

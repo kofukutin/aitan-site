@@ -97,7 +97,7 @@ TOEICでは受動態や過去分詞の形で「～と見なされる」「～と
 ## 🤔  regarded との違いは？
 
 - **viewed**：ある視点や立場から「～と見なす」「～と考える」という意味で、やや客観的・中立的。
-- **[regarded](/regarded)**：「～とみなす」「～と考える」という意味だが、やや評価や敬意を含むことが多い。
+- **[regarded](/word/regarded)**：「～とみなす」「～と考える」という意味だが、やや評価や敬意を含むことが多い。
 
 「viewed」は単に見方や立場を示すのに対し、「regarded」は評価や感情が込められることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは受動態や過去分詞の形で「～と見なされる」「～と
 
 ## 🧩 あわせて覚えたい
 
-- [consider](/consider)：考慮する、～と見なす
-- [observe](/observe)：観察する、気づく
+- [consider](/word/consider)：考慮する、～と見なす
+- [observe](/word/observe)：観察する、気づく
 
 ---
 
 ## 📖 できればこれも
 
-- [noticed](/noticed)：気づいた
-- [recognized](/recognized)：認識した、見分けた
+- [noticed](/word/noticed)：気づいた
+- [recognized](/word/recognized)：認識した、見分けた
 
 <!-- cvid: aid41_bid48 -->

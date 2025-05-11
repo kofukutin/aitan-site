@@ -97,7 +97,7 @@ TOEICでは主に説明文や専門的な文章で見かけることが多く、
 ## 🤔  automatic との違いは？
 
 - **reflexive**：自分自身に向かう反射的・無意識的な動作や感情を表す
-- **[automatic](/automatic)**：機械的・自動的に行われることを表す
+- **[automatic](/word/automatic)**：機械的・自動的に行われることを表す
 
 「reflexive」は人や動物の無意識な反応に使われ、「automatic」は機械や手順などの自動的な動作に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主に説明文や専門的な文章で見かけることが多く、
 
 ## 🧩 あわせて覚えたい
 
-- [instinctive](/instinctive)：本能的な、直感的な
-- [deliberate](/deliberate)：意図的な、慎重な
+- [instinctive](/word/instinctive)：本能的な、直感的な
+- [deliberate](/word/deliberate)：意図的な、慎重な
 
 ---
 
 ## 📖 できればこれも
 
-- [reciprocal](/reciprocal)：相互の、互いの
-- [responsive](/responsive)：反応が良い、すぐ反応する
+- [reciprocal](/word/reciprocal)：相互の、互いの
+- [responsive](/word/responsive)：反応が良い、すぐ反応する
 
 <!-- cvid: aid06_bid41 -->

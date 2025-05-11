@@ -97,7 +97,7 @@ toolはITやビジネス分野の語彙問題でよく出題されます。特�
 ## 🤔  device との違いは？
 
 - **tool**：作業や目的のために使う道具や手段全般。物理的・ソフトウェア両方に使える。
-- **[device](/device)**：特定の機能や目的を持つ機械的・電子的な装置。
+- **[device](/word/device)**：特定の機能や目的を持つ機械的・電子的な装置。
 
 toolは「手段」や「方法」も含めて幅広く使われますが、deviceは主に機械や電子機器など具体的な装置を指します。
 
@@ -105,14 +105,14 @@ toolは「手段」や「方法」も含めて幅広く使われますが、devi
 
 ## 🧩 あわせて覚えたい
 
-- [equipment](/equipment)：設備、備品
-- [instrument](/instrument)：精密な器具、楽器
+- [equipment](/word/equipment)：設備、備品
+- [instrument](/word/instrument)：精密な器具、楽器
 
 ---
 
 ## 📖 できればこれも
 
-- [machine](/machine)：機械
-- [resource](/resource)：資源、手段
+- [machine](/word/machine)：機械
+- [resource](/word/resource)：資源、手段
 
 <!-- cvid: aid42_bid48 -->

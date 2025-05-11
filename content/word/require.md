@@ -97,7 +97,7 @@ requireはTOEICの文法・語彙問題で頻出し、特に「be required to do
 ## 🤔  demand との違いは？
 
 - **require**：必要条件や義務として「必要とする」「要求する」
-- **[demand](/demand)**：強く「要求する」、断固とした主張
+- **[demand](/word/demand)**：強く「要求する」、断固とした主張
 
 requireは客観的・フォーマルに「必要とする」場合に使い、demandは感情や強い圧力を伴って「要求する」場合に使います。
 
@@ -105,14 +105,14 @@ requireは客観的・フォーマルに「必要とする」場合に使い、d
 
 ## 🧩 あわせて覚えたい
 
-- [request](/request)：依頼する、要請する
-- [necessitate](/necessitate)：～を必要とする（より堅い表現）
+- [request](/word/request)：依頼する、要請する
+- [necessitate](/word/necessitate)：～を必要とする（より堅い表現）
 
 ---
 
 ## 📖 できればこれも
 
-- [obtain](/obtain)：得る、手に入れる
-- [permit](/permit)：許可する
+- [obtain](/word/obtain)：得る、手に入れる
+- [permit](/word/permit)：許可する
 
 <!-- cvid: aid04_bid05 -->

@@ -96,7 +96,7 @@ TOEICでは、教育や研修に関する長文や案内文で「workbook」が�
 ## 🤔  textbook との違いは？
 
 - **workbook**：練習問題や課題が中心の本。自分で書き込んで使うことが多い。
-- **[textbook](/textbook)**：教科書。知識や理論を説明する本で、練習問題は少なめ。
+- **[textbook](/word/textbook)**：教科書。知識や理論を説明する本で、練習問題は少なめ。
 
 workbookは「練習用」、textbookは「知識を学ぶ用」と使い分けます。
 
@@ -104,14 +104,14 @@ workbookは「練習用」、textbookは「知識を学ぶ用」と使い分け�
 
 ## 🧩 あわせて覚えたい
 
-- [exercise](/exercise)：練習問題、運動
-- [worksheet](/worksheet)：ワークシート、課題用紙
+- [exercise](/word/exercise)：練習問題、運動
+- [worksheet](/word/worksheet)：ワークシート、課題用紙
 
 ---
 
 ## 📖 できればこれも
 
-- [notebook](/notebook)：ノート
-- [assignment](/assignment)：課題
+- [notebook](/word/notebook)：ノート
+- [assignment](/word/assignment)：課題
 
 <!-- cvid: aid07_bid00 -->

@@ -97,7 +97,7 @@ TOEICでは、経済やビジネスに関する長文や記事で「wealth」が
 ## 🤔  fortune との違いは？
 
 - **wealth**：主に経済的な「富」や「財産」を指し、客観的な資産の多さを表す。
-- **[fortune](/fortune)**：財産だけでなく「運」や「幸運」の意味もあり、やや幅広いニュアンス。
+- **[fortune](/word/fortune)**：財産だけでなく「運」や「幸運」の意味もあり、やや幅広いニュアンス。
 
 wealthは具体的な資産や経済的豊かさを強調し、fortuneは財産に加えて運や偶然の要素も含みます。
 
@@ -105,14 +105,14 @@ wealthは具体的な資産や経済的豊かさを強調し、fortuneは財産�
 
 ## 🧩 あわせて覚えたい
 
-- [poverty](/poverty)：貧困、貧しさ
-- [asset](/asset)：資産、財産
+- [poverty](/word/poverty)：貧困、貧しさ
+- [asset](/word/asset)：資産、財産
 
 ---
 
 ## 📖 できればこれも
 
-- [income](/income)：収入
-- [property](/property)：所有物、不動産
+- [income](/word/income)：収入
+- [property](/word/property)：所有物、不動産
 
 <!-- cvid: aid36_bid36 -->

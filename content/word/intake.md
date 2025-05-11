@@ -97,7 +97,7 @@ The daily intake of vitamin C is listed on the label.
 ## 🤔  consumption との違いは？
 
 - **intake**：体内や機械など「中に取り入れること・量」にフォーカス
-- **[consumption](/consumption)**：消費・消耗全般（使い切ること）にフォーカス
+- **[consumption](/word/consumption)**：消費・消耗全般（使い切ること）にフォーカス
 
 intakeは「取り入れる量」に重点があり、consumptionは「使ってなくなること」に重点があります。
 
@@ -105,14 +105,14 @@ intakeは「取り入れる量」に重点があり、consumptionは「使って
 
 ## 🧩 あわせて覚えたい
 
-- [output](/output)：出力、排出
-- [absorption](/absorption)：吸収
+- [output](/word/output)：出力、排出
+- [absorption](/word/absorption)：吸収
 
 ---
 
 ## 📖 できればこれも
 
-- [dose](/dose)：（薬などの）服用量
-- [nutrition](/nutrition)：栄養
+- [dose](/word/dose)：（薬などの）服用量
+- [nutrition](/word/nutrition)：栄養
 
 <!-- cvid: aid23_bid02 -->

@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、火や炎が写っている場面で出
 ## 🤔  blaze との違いは？
 
 - **flame**：炎そのものや小さな火の明るい部分を指す。
-- **[blaze](/blaze)**：大きく激しく燃える炎や火災を指す。
+- **[blaze](/word/blaze)**：大きく激しく燃える炎や火災を指す。
 
 flameは炎の一部や小規模な火に使い、blazeは大規模で勢いのある火事や炎に使います。
 
@@ -105,14 +105,14 @@ flameは炎の一部や小規模な火に使い、blazeは大規模で勢いの�
 
 ## 🧩 あわせて覚えたい
 
-- [spark](/spark)：火花
-- [smoke](/smoke)：煙
+- [spark](/word/spark)：火花
+- [smoke](/word/smoke)：煙
 
 ---
 
 ## 📖 できればこれも
 
-- [burn](/burn)：燃える
-- [heat](/heat)：熱
+- [burn](/word/burn)：燃える
+- [heat](/word/heat)：熱
 
 <!-- cvid: aid48_bid31 -->

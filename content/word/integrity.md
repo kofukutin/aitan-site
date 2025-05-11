@@ -97,7 +97,7 @@ TOEICでは企業理念や倫理に関する長文、ビジネス文書で「誠
 ## 🤔  honesty との違いは？
 
 - **integrity**：道徳的な強さや一貫した誠実さを強調
-- **[honesty](/honesty)**：嘘をつかない、正直であることを強調
+- **[honesty](/word/honesty)**：嘘をつかない、正直であることを強調
 
 integrityは「信念を守る高潔さ」まで含み、honestyは「嘘をつかない素直さ」に焦点があります。
 
@@ -105,14 +105,14 @@ integrityは「信念を守る高潔さ」まで含み、honestyは「嘘をつ�
 
 ## 🧩 あわせて覚えたい
 
-- [morality](/morality)：道徳、倫理
-- [corruption](/corruption)：腐敗、不正
+- [morality](/word/morality)：道徳、倫理
+- [corruption](/word/corruption)：腐敗、不正
 
 ---
 
 ## 📖 できればこれも
 
-- [ethics](/ethics)：倫理、道徳規範
-- [reputation](/reputation)：評判、名声
+- [ethics](/word/ethics)：倫理、道徳規範
+- [reputation](/word/reputation)：評判、名声
 
 <!-- cvid: aid48_bid22 -->

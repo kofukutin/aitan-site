@@ -97,7 +97,7 @@ TOEICでは科学や教育に関する長文や記事で見かけることがあ
 ## 🤔  astrology との違いは？
 
 - **astronomy**：宇宙や天体を科学的に研究する学問
-- **[astrology](/astrology)**：星や惑星の動きから人の運勢などを占う学問（占星術）
+- **[astrology](/word/astrology)**：星や惑星の動きから人の運勢などを占う学問（占星術）
 
 astronomyは科学的な分野、astrologyは占い的な分野で、意味も使われる場面も大きく異なります。
 
@@ -105,14 +105,14 @@ astronomyは科学的な分野、astrologyは占い的な分野で、意味も�
 
 ## 🧩 あわせて覚えたい
 
-- [physics](/physics)：物理学
-- [cosmos](/cosmos)：宇宙
+- [physics](/word/physics)：物理学
+- [cosmos](/word/cosmos)：宇宙
 
 ---
 
 ## 📖 できればこれも
 
-- [telescope](/telescope)：望遠鏡
-- [planet](/planet)：惑星
+- [telescope](/word/telescope)：望遠鏡
+- [planet](/word/planet)：惑星
 
 <!-- cvid: aid32_bid32 -->

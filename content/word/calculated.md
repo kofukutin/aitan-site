@@ -97,7 +97,7 @@ TOEICではビジネス文書やメール、記事などで「計画的な」「
 ## 🤔  deliberate との違いは？
 
 - **calculated**：結果や影響を考慮して周到に計画された、意図的な
-- **[deliberate](/deliberate)**：慎重に考えた上での、故意の
+- **[deliberate](/word/deliberate)**：慎重に考えた上での、故意の
 
 calculatedは「損得や結果を見越して計画的に行う」ニュアンスが強く、deliberateは「慎重に考えてから行う」点が異なります。
 
@@ -105,14 +105,14 @@ calculatedは「損得や結果を見越して計画的に行う」ニュアン�
 
 ## 🧩 あわせて覚えたい
 
-- [intentional](/intentional)：意図的な
-- [accidental](/accidental)：偶然の
+- [intentional](/word/intentional)：意図的な
+- [accidental](/word/accidental)：偶然の
 
 ---
 
 ## 📖 できればこれも
 
-- [strategic](/strategic)：戦略的な
-- [methodical](/methodical)：組織的な、几帳面な
+- [strategic](/word/strategic)：戦略的な
+- [methodical](/word/methodical)：組織的な、几帳面な
 
 <!-- cvid: aid32_bid20 -->

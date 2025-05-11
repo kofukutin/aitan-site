@@ -97,7 +97,7 @@ TOEICでは、テストや評価、業績などの文脈で「得点する」「
 ## 🤔  achieved との違いは？
 
 - **scored**：試験や試合などで「点数を取る」「得点する」ことを表す。
-- **[achieved](/achieved)**：目標や結果を「達成する」「成し遂げる」ことを表す。
+- **[achieved](/word/achieved)**：目標や結果を「達成する」「成し遂げる」ことを表す。
 
 scoredは「点数」や「得点」に直接関係する場合に使い、achievedはより広い意味で「目標達成」や「成功」に使います。
 
@@ -105,14 +105,14 @@ scoredは「点数」や「得点」に直接関係する場合に使い、achie
 
 ## 🧩 あわせて覚えたい
 
-- [win](/win)：勝つ、勝利する
-- [gain](/gain)：得る、獲得する
+- [win](/word/win)：勝つ、勝利する
+- [gain](/word/gain)：得る、獲得する
 
 ---
 
 ## 📖 できればこれも
 
-- [mark](/mark)：点数、評価
-- [record](/record)：記録、記録する
+- [mark](/word/mark)：点数、評価
+- [record](/word/record)：記録、記録する
 
 <!-- cvid: aid03_bid32 -->

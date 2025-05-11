@@ -97,7 +97,7 @@ TOEICでは主に国際機関や大規模組織の案内文・メール・公式
 ## 🤔  office との違いは？
 
 - **secretariat**：組織や団体の「事務局」「事務総局」など、管理・運営を担う部署を指すフォーマルな語。
-- **[office](/office)**：一般的な「オフィス」「事務所」「部署」など広い意味で使われる語。
+- **[office](/word/office)**：一般的な「オフィス」「事務所」「部署」など広い意味で使われる語。
 
 secretariatは特に国際機関や大規模組織の中で、公式な事務局を指す時に使われます。officeはより一般的で、場所や部署全般を表します。
 
@@ -105,14 +105,14 @@ secretariatは特に国際機関や大規模組織の中で、公式な事務局
 
 ## 🧩 あわせて覚えたい
 
-- [department](/department)：部門、部署
-- [committee](/committee)：委員会
+- [department](/word/department)：部門、部署
+- [committee](/word/committee)：委員会
 
 ---
 
 ## 📖 できればこれも
 
-- [administration](/administration)：管理部、運営
-- [division](/division)：部門、課
+- [administration](/word/administration)：管理部、運営
+- [division](/word/division)：部門、課
 
 <!-- cvid: aid47_bid25 -->

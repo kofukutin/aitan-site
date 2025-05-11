@@ -97,7 +97,7 @@ TOEICでは、経済やビジネスの状況説明、健康や品質の変化を
 ## 🤔  decline との違いは？
 
 - **deteriorate**：徐々に悪化する、質や状態が下がる
-- **[decline](/decline)**：減少する、下落する（数量や規模が下がる）
+- **[decline](/word/decline)**：減少する、下落する（数量や規模が下がる）
 
 deteriorateは「質や状態の悪化」に重点があり、declineは「数値や規模の減少」に使われることが多いです。
 
@@ -105,14 +105,14 @@ deteriorateは「質や状態の悪化」に重点があり、declineは「数�
 
 ## 🧩 あわせて覚えたい
 
-- [improve](/improve)：改善する、良くなる
-- [worsen](/worsen)：さらに悪くする、悪化させる
+- [improve](/word/improve)：改善する、良くなる
+- [worsen](/word/worsen)：さらに悪くする、悪化させる
 
 ---
 
 ## 📖 できればこれも
 
-- [damage](/damage)：損害を与える、損傷
-- [recover](/recover)：回復する、取り戻す
+- [damage](/word/damage)：損害を与える、損傷
+- [recover](/word/recover)：回復する、取り戻す
 
 <!-- cvid: aid13_bid33 -->

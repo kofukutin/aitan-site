@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や記事の中で「影響」という意味で
 ## 🤔  influence との違いは？
 
 - **impact**：強くはっきりとした影響や衝撃を表す
-- **[influence](/influence)**：じわじわと及ぼす影響や作用を表す
+- **[influence](/word/influence)**：じわじわと及ぼす影響や作用を表す
 
 impactは「一度に強く与える影響」、influenceは「時間をかけて及ぼす影響」というニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ impactは「一度に強く与える影響」、influenceは「時間をかけ�
 
 ## 🧩 あわせて覚えたい
 
-- [effect](/effect)：効果、結果
-- [consequence](/consequence)：（主に悪い）結果
+- [effect](/word/effect)：効果、結果
+- [consequence](/word/consequence)：（主に悪い）結果
 
 ---
 
 ## 📖 できればこれも
 
-- [result](/result)：結果
-- [affect](/affect)：影響を与える（動詞）
+- [result](/word/result)：結果
+- [affect](/word/affect)：影響を与える（動詞）
 
 <!-- cvid: aid20_bid20 -->

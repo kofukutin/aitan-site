@@ -97,7 +97,7 @@ TOEICではITやビジネスの文脈で「ソフトをインストールする�
 ## 🤔  set up との違いは？
 
 - **install**：ソフトや機器を正式に設置・導入すること
-- **[set up](/set_up)**：準備や設定をして使える状態にすること
+- **[set up](/word/set_up)**：準備や設定をして使える状態にすること
 
 installは「インストール作業」や「据え付け」に特化し、set upはより広く「準備・設定」全般に使います。
 
@@ -105,14 +105,14 @@ installは「インストール作業」や「据え付け」に特化し、set 
 
 ## 🧩 あわせて覚えたい
 
-- [uninstall](/uninstall)：アンインストールする、削除する
-- [configure](/configure)：設定する、構成する
+- [uninstall](/word/uninstall)：アンインストールする、削除する
+- [configure](/word/configure)：設定する、構成する
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/update)：更新する
-- [download](/download)：ダウンロードする
+- [update](/word/update)：更新する
+- [download](/word/download)：ダウンロードする
 
 <!-- cvid: aid47_bid42 -->

@@ -97,7 +97,7 @@ TOEICではビジネス文書や人事関連の長文で「評価」「査定」
 ## 🤔  evaluation との違いは？
 
 - **appraisal**：価値や能力を専門的・公式に評価すること
-- **[evaluation](/evaluation)**：広く一般的な評価や判断
+- **[evaluation](/word/evaluation)**：広く一般的な評価や判断
 
 appraisalは特にビジネスや専門分野での公式な評価に使われ、evaluationは日常的な評価や判断にも幅広く使われます。
 
@@ -105,14 +105,14 @@ appraisalは特にビジネスや専門分野での公式な評価に使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [assessment](/assessment)：評価、査定（より分析的な評価）
-- [estimate](/estimate)：見積もり、概算（数値的な予測や評価）
+- [assessment](/word/assessment)：評価、査定（より分析的な評価）
+- [estimate](/word/estimate)：見積もり、概算（数値的な予測や評価）
 
 ---
 
 ## 📖 できればこれも
 
-- [feedback](/feedback)：フィードバック、意見
-- [review](/review)：再検討、見直し
+- [feedback](/word/feedback)：フィードバック、意見
+- [review](/word/review)：再検討、見直し
 
 <!-- cvid: aid23_bid47 -->

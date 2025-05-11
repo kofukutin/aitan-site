@@ -97,7 +97,7 @@ TOEICでは健康や医療に関する案内文やメール、レストランの
 ## 🤔  intolerance との違いは？
 
 - **allergy**：体の免疫反応による過敏症（例：花粉症、食物アレルギー）
-- **[intolerance](/intolerance)**：体が特定の物質をうまく処理できない状態（例：乳糖不耐症）
+- **[intolerance](/word/intolerance)**：体が特定の物質をうまく処理できない状態（例：乳糖不耐症）
 
 allergyは免疫系の反応による症状、intoleranceは消化や代謝の問題による不快感や症状を指します。
 
@@ -105,14 +105,14 @@ allergyは免疫系の反応による症状、intoleranceは消化や代謝の�
 
 ## 🧩 あわせて覚えたい
 
-- [symptom](/symptom)：症状
-- [reaction](/reaction)：反応
+- [symptom](/word/symptom)：症状
+- [reaction](/word/reaction)：反応
 
 ---
 
 ## 📖 できればこれも
 
-- [disease](/disease)：病気
-- [medicine](/medicine)：薬
+- [disease](/word/disease)：病気
+- [medicine](/word/medicine)：薬
 
 <!-- cvid: aid15_bid38 -->

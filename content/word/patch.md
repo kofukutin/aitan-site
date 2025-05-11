@@ -97,7 +97,7 @@ ITやビジネス文書で「patch」は、ソフトウェアの修正やアッ�
 ## 🤔  repair との違いは？
 
 - **patch**：部分的な修正や継ぎ当て、小規模な修正プログラム
-- **[repair](/repair)**：壊れたものを直す、全体的な修理
+- **[repair](/word/repair)**：壊れたものを直す、全体的な修理
 
 patchは「一部を補う」ニュアンスが強く、repairは「全体を直す」意味で使われます。
 
@@ -105,14 +105,14 @@ patchは「一部を補う」ニュアンスが強く、repairは「全体を直
 
 ## 🧩 あわせて覚えたい
 
-- [update](/update)：更新、アップデート
-- [fix](/fix)：修理、修正
+- [update](/word/update)：更新、アップデート
+- [fix](/word/fix)：修理、修正
 
 ---
 
 ## 📖 できればこれも
 
-- [bug](/bug)：バグ、不具合
-- [version](/version)：バージョン、型
+- [bug](/word/bug)：バグ、不具合
+- [version](/word/version)：バージョン、型
 
 <!-- cvid: aid34_bid24 -->

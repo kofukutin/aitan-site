@@ -97,7 +97,7 @@ The new aquarium exhibit will open next month.
 ## 🤔  zoo との違いは？
 
 - **aquarium**：水生生物を中心に展示する施設や水槽
-- **[zoo](/zoo)**：主に陸上動物を展示する動物園
+- **[zoo](/word/zoo)**：主に陸上動物を展示する動物園
 
 aquariumは魚や水中の生き物、zooは陸上や空の動物を展示する施設で、展示される生物の種類が異なります。
 
@@ -105,14 +105,14 @@ aquariumは魚や水中の生き物、zooは陸上や空の動物を展示する
 
 ## 🧩 あわせて覚えたい
 
-- [tank](/tank)：水槽
-- [exhibit](/exhibit)：展示、展示物
+- [tank](/word/tank)：水槽
+- [exhibit](/word/exhibit)：展示、展示物
 
 ---
 
 ## 📖 できればこれも
 
-- [museum](/museum)：博物館
-- [gallery](/gallery)：美術館、ギャラリー
+- [museum](/word/museum)：博物館
+- [gallery](/word/gallery)：美術館、ギャラリー
 
 <!-- cvid: aid16_bid31 -->

@@ -97,7 +97,7 @@ biteは会話文や説明文で、食事や動作の描写として出題され�
 ## 🤔  chew との違いは？
 
 - **bite**：歯で「かむ」「かじる」動作の始まりや一口を表す
-- **[chew](/chew)**：かんだ後、口の中でよく「かむ」「咀嚼する」動作
+- **[chew](/word/chew)**：かんだ後、口の中でよく「かむ」「咀嚼する」動作
 
 biteは「かむ」瞬間や一口の動作、chewは「よくかむ」「咀嚼する」継続的な動作を表します。
 
@@ -105,14 +105,14 @@ biteは「かむ」瞬間や一口の動作、chewは「よくかむ」「咀嚼
 
 ## 🧩 あわせて覚えたい
 
-- [swallow](/swallow)：飲み込む
-- [nibble](/nibble)：少しずつかじる
+- [swallow](/word/swallow)：飲み込む
+- [nibble](/word/nibble)：少しずつかじる
 
 ---
 
 ## 📖 できればこれも
 
-- [cut](/cut)：切る
-- [taste](/taste)：味わう
+- [cut](/word/cut)：切る
+- [taste](/word/taste)：味わう
 
 <!-- cvid: aid42_bid20 -->

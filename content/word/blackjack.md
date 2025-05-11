@@ -97,7 +97,7 @@ The casino offers blackjack tables for guests.
 ## 🤔  poker との違いは？
 
 - **blackjack**：21に近い数字を目指すカードゲーム。プレイヤー対ディーラーで進行。
-- **[poker](/poker)**：役を作って勝負するカードゲーム。複数のプレイヤー同士で競う。
+- **[poker](/word/poker)**：役を作って勝負するカードゲーム。複数のプレイヤー同士で競う。
 
 blackjackはディーラーと1対1で勝負するのが特徴ですが、pokerは他のプレイヤーと駆け引きを楽しむゲームです。
 
@@ -105,14 +105,14 @@ blackjackはディーラーと1対1で勝負するのが特徴ですが、poker�
 
 ## 🧩 あわせて覚えたい
 
-- [dealer](/dealer)：ディーラー（カジノなどでカードを配る人）
-- [casino](/casino)：カジノ（賭博場）
+- [dealer](/word/dealer)：ディーラー（カジノなどでカードを配る人）
+- [casino](/word/casino)：カジノ（賭博場）
 
 ---
 
 ## 📖 できればこれも
 
-- [roulette](/roulette)：ルーレット（カジノのゲームの一種）
-- [slot](/slot)：スロット（スロットマシン、カジノの遊具）
+- [roulette](/word/roulette)：ルーレット（カジノのゲームの一種）
+- [slot](/word/slot)：スロット（スロットマシン、カジノの遊具）
 
 <!-- cvid: aid34_bid37 -->

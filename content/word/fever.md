@@ -97,7 +97,7 @@ She couldn't come to work because of a high fever.
 ## 🤔  temperature との違いは？
 
 - **fever**：病気による「発熱」「熱」のこと
-- **[temperature](/temperature)**：体温そのものや温度全般
+- **[temperature](/word/temperature)**：体温そのものや温度全般
 
 feverは「病気で熱がある」状態を指し、temperatureは単に「体温」や「温度」を表します。
 
@@ -105,14 +105,14 @@ feverは「病気で熱がある」状態を指し、temperatureは単に「体�
 
 ## 🧩 あわせて覚えたい
 
-- [illness](/illness)：病気
-- [infection](/infection)：感染
+- [illness](/word/illness)：病気
+- [infection](/word/infection)：感染
 
 ---
 
 ## 📖 できればこれも
 
-- [cough](/cough)：咳
-- [headache](/headache)：頭痛
+- [cough](/word/cough)：咳
+- [headache](/word/headache)：頭痛
 
 <!-- cvid: aid10_bid06 -->

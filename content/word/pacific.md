@@ -97,7 +97,7 @@ TOEICでは主に長文読解や記事、スピーチ文で「平和的な」「
 ## 🤔  peaceful との違いは？
 
 - **pacific**：争いを避ける、平和をもたらす（ややフォーマル・抽象的）
-- **[peaceful](/peaceful)**：穏やかで静かな、平和な（より日常的・具体的）
+- **[peaceful](/word/peaceful)**：穏やかで静かな、平和な（より日常的・具体的）
 
 pacificは「平和を作る・維持する」意志や性質を強調し、peacefulは「静かで落ち着いた状態」を表します。
 
@@ -105,14 +105,14 @@ pacificは「平和を作る・維持する」意志や性質を強調し、peac
 
 ## 🧩 あわせて覚えたい
 
-- [calm](/calm)：穏やかな、落ち着いた
-- [aggressive](/aggressive)：攻撃的な
+- [calm](/word/calm)：穏やかな、落ち着いた
+- [aggressive](/word/aggressive)：攻撃的な
 
 ---
 
 ## 📖 できればこれも
 
-- [tranquil](/tranquil)：静かな、落ち着いた
-- [serene](/serene)：穏やかな、晴れやかな
+- [tranquil](/word/tranquil)：静かな、落ち着いた
+- [serene](/word/serene)：穏やかな、晴れやかな
 
 <!-- cvid: aid09_bid48 -->

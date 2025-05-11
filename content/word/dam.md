@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、ダムや水辺の風景を説明す
 ## 🤔  reservoir との違いは？
 
 - **dam**：水をせき止めるための構造物や堤防
-- **[reservoir](/reservoir)**：貯水池やため池（ダムによってできる水のたまり場）
+- **[reservoir](/word/reservoir)**：貯水池やため池（ダムによってできる水のたまり場）
 
 damは「せき止める建造物」、reservoirは「せき止められてできた水の貯蔵場所」を指します。
 
@@ -105,14 +105,14 @@ damは「せき止める建造物」、reservoirは「せき止められてで�
 
 ## 🧩 あわせて覚えたい
 
-- [barrier](/barrier)：障壁、バリア
-- [canal](/canal)：運河
+- [barrier](/word/barrier)：障壁、バリア
+- [canal](/word/canal)：運河
 
 ---
 
 ## 📖 できればこれも
 
-- [bridge](/bridge)：橋
-- [river](/river)：川
+- [bridge](/word/bridge)：橋
+- [river](/word/river)：川
 
 <!-- cvid: aid20_bid38 -->

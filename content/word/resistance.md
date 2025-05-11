@@ -97,7 +97,7 @@ TOEICでは、ビジネスの変化や新しい方針への「抵抗」や、製
 ## 🤔  opposition との違いは？
 
 - **resistance**：物理的・精神的な「抵抗」や「耐性」を表し、受け入れずに立ち向かうニュアンスが強い。
-- **[opposition](/opposition)**：意見や立場の「反対」「対立」を意味し、組織や集団の対立にも使われる。
+- **[opposition](/word/opposition)**：意見や立場の「反対」「対立」を意味し、組織や集団の対立にも使われる。
 
 resistanceは「力や変化に対して粘り強く立ち向かう」イメージ、oppositionは「意見や立場の違いによる対立」を表します。
 
@@ -105,14 +105,14 @@ resistanceは「力や変化に対して粘り強く立ち向かう」イメー�
 
 ## 🧩 あわせて覚えたい
 
-- [obstacle](/obstacle)：障害、妨げ
-- [acceptance](/acceptance)：受け入れ、承認
+- [obstacle](/word/obstacle)：障害、妨げ
+- [acceptance](/word/acceptance)：受け入れ、承認
 
 ---
 
 ## 📖 できればこれも
 
-- [pressure](/pressure)：圧力、プレッシャー
-- [barrier](/barrier)：障壁、バリア
+- [pressure](/word/pressure)：圧力、プレッシャー
+- [barrier](/word/barrier)：障壁、バリア
 
 <!-- cvid: aid16_bid44 -->

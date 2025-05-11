@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写問題で「人々が～している」といっ
 ## 🤔  person との違いは？
 
 - **people**：複数の人々をまとめて指す一般的な表現
-- **[person](/person)**：個々の「人」を指す単数形
+- **[person](/word/person)**：個々の「人」を指す単数形
 
 「people」は「人々」と複数をまとめて表現するのに使い、「person」は「1人の人」を指します。人数を数えるときは「one person, two people」となります。
 
@@ -105,14 +105,14 @@ TOEICではPart 1の写真描写問題で「人々が～している」といっ
 
 ## 🧩 あわせて覚えたい
 
-- [staff](/staff)：職員、スタッフ
-- [employee](/employee)：従業員
+- [staff](/word/staff)：職員、スタッフ
+- [employee](/word/employee)：従業員
 
 ---
 
 ## 📖 できればこれも
 
-- [group](/group)：集団、グループ
-- [team](/team)：チーム、団体
+- [group](/word/group)：集団、グループ
+- [team](/word/team)：チーム、団体
 
 <!-- cvid: aid11_bid17 -->

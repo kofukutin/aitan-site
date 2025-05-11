@@ -98,7 +98,7 @@ TOEICでは、歴史や社会、文化に関する長文や記事で登場する
 ## 🤔  culture との違いは？
 
 - **civilization**：技術や制度、社会構造などを含む高度な社会全体を指す
-- **[culture](/culture)**：芸術、習慣、価値観など人々の生活様式や精神的側面を指す
+- **[culture](/word/culture)**：芸術、習慣、価値観など人々の生活様式や精神的側面を指す
 
 civilizationは社会の物質的・制度的な発展に焦点を当て、cultureは人々の考え方や生活様式など精神的な側面に重点を置きます。
 
@@ -106,14 +106,14 @@ civilizationは社会の物質的・制度的な発展に焦点を当て、cultu
 
 ## 🧩 あわせて覚えたい
 
-- [society](/society)：社会、共同体
-- [barbarism](/barbarism)：未開、野蛮
+- [society](/word/society)：社会、共同体
+- [barbarism](/word/barbarism)：未開、野蛮
 
 ---
 
 ## 📖 できればこれも
 
-- [heritage](/heritage)：遺産、伝統
-- [tradition](/tradition)：伝統、慣習
+- [heritage](/word/heritage)：遺産、伝統
+- [tradition](/word/tradition)：伝統、慣習
 
 <!-- cvid: aid10_bid00 -->

@@ -97,7 +97,7 @@ TOEICでは、工業製品や生産工程を説明する文脈でよく登場し
 ## 🤔  produced との違いは？
 
 - **manufactured**：工場や機械で大量生産された、人工的に作られた
-- **[produced](/produced)**：生産された（方法を問わず広く使う）
+- **[produced](/word/produced)**：生産された（方法を問わず広く使う）
 
 manufacturedは「工業的・人工的な大量生産」に特化し、producedは「生産された」という広い意味で使われます。
 
@@ -105,14 +105,14 @@ manufacturedは「工業的・人工的な大量生産」に特化し、produced
 
 ## 🧩 あわせて覚えたい
 
-- [artificial](/artificial)：人工的な
-- [handmade](/handmade)：手作りの
+- [artificial](/word/artificial)：人工的な
+- [handmade](/word/handmade)：手作りの
 
 ---
 
 ## 📖 できればこれも
 
-- [assembled](/assembled)：組み立てられた
-- [processed](/processed)：加工された
+- [assembled](/word/assembled)：組み立てられた
+- [processed](/word/processed)：加工された
 
 <!-- cvid: aid16_bid28 -->

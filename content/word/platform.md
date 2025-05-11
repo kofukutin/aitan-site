@@ -97,7 +97,7 @@ TOEICでは駅の「ホーム」やIT関連の「プラットフォーム」と�
 ## 🤔  stage との違いは？
 
 - **platform**：物理的な台やITの基盤、意見表明の場など幅広い「土台」の意味
-- **[stage](/stage)**：演劇の「舞台」や物事の「段階」を指す
+- **[stage](/word/stage)**：演劇の「舞台」や物事の「段階」を指す
 
 platformは「支える土台」や「基盤」として使われ、stageは「見せる場所」や「進行の段階」を表します。
 
@@ -105,14 +105,14 @@ platformは「支える土台」や「基盤」として使われ、stageは「�
 
 ## 🧩 あわせて覚えたい
 
-- [basis](/basis)：基礎、根拠
-- [framework](/framework)：枠組み、構造
+- [basis](/word/basis)：基礎、根拠
+- [framework](/word/framework)：枠組み、構造
 
 ---
 
 ## 📖 できればこれも
 
-- [system](/system)：システム、仕組み
-- [device](/device)：装置、デバイス
+- [system](/word/system)：システム、仕組み
+- [device](/word/device)：装置、デバイス
 
 <!-- cvid: aid04_bid29 -->

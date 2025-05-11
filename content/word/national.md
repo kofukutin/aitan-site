@@ -97,7 +97,7 @@ TOEICでは「national holiday」「national policy」など、形容詞とし�
 ## 🤔  international との違いは？
 
 - **national**：国や国家レベル、国内のことを指す
-- **[international](/international)**：国と国の間、国際的なことを指す
+- **[international](/word/international)**：国と国の間、国際的なことを指す
 
 national は「国内」や「国家」に関する内容、international は「複数の国」や「国際的な関係」に関する内容で使い分けます。
 
@@ -105,14 +105,14 @@ national は「国内」や「国家」に関する内容、international は「
 
 ## 🧩 あわせて覚えたい
 
-- [domestic](/domestic)：国内の、家庭の
-- [local](/local)：地域の、地元の
+- [domestic](/word/domestic)：国内の、家庭の
+- [local](/word/local)：地域の、地元の
 
 ---
 
 ## 📖 できればこれも
 
-- [public](/public)：公共の、公の
-- [official](/official)：公式の、公的な
+- [public](/word/public)：公共の、公の
+- [official](/word/official)：公式の、公的な
 
 <!-- cvid: aid46_bid17 -->

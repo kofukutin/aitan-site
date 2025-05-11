@@ -97,7 +97,7 @@ TOEICでは主にメールや記事、説明文などで「表現」「言い回
 ## 🤔  phrase との違いは？
 
 - **expression**：考えや感情の「表現」全般、言葉・表情・しぐさなど幅広く使う
-- **[phrase](/phrase)**：特定の「言い回し」や「語句」に限定される
+- **[phrase](/word/phrase)**：特定の「言い回し」や「語句」に限定される
 
 expressionは言葉だけでなく、顔や態度なども含めた広い「表現」を指しますが、phraseは「決まった言い回し」や「短い語句」に限定されます。
 
@@ -105,14 +105,14 @@ expressionは言葉だけでなく、顔や態度なども含めた広い「表�
 
 ## 🧩 あわせて覚えたい
 
-- [statement](/statement)：声明、発言
-- [gesture](/gesture)：身ぶり、ジェスチャー
+- [statement](/word/statement)：声明、発言
+- [gesture](/word/gesture)：身ぶり、ジェスチャー
 
 ---
 
 ## 📖 できればこれも
 
-- [impression](/impression)：印象
-- [emotion](/emotion)：感情
+- [impression](/word/impression)：印象
+- [emotion](/word/emotion)：感情
 
 <!-- cvid: aid32_bid15 -->

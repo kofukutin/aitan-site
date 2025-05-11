@@ -97,7 +97,7 @@ actingは、TOEICの長文読解パートで「代理の～」や「演技」と
 ## 🤔  performance との違いは？
 
 - **acting**：演技、または一時的な代理（役職）を指す
-- **[performance](/performance)**：演技や公演そのもの、または業績・成果を指す
+- **[performance](/word/performance)**：演技や公演そのもの、または業績・成果を指す
 
 actingは「演じる行為」や「代理の役職」を表し、performanceは「演技の内容」や「成果」を表します。actingは「役割を担うこと」、performanceは「その結果や内容」に焦点があります。
 
@@ -105,14 +105,14 @@ actingは「演じる行為」や「代理の役職」を表し、performanceは
 
 ## 🧩 あわせて覚えたい
 
-- [substitute](/substitute)：代理人、代用品
-- [temporary](/temporary)：一時的な
+- [substitute](/word/substitute)：代理人、代用品
+- [temporary](/word/temporary)：一時的な
 
 ---
 
 ## 📖 できればこれも
 
-- [role](/role)：役割、役
-- [director](/director)：部長、監督
+- [role](/word/role)：役割、役
+- [director](/word/director)：部長、監督
 
 <!-- cvid: aid15_bid07 -->

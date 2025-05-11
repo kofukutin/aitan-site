@@ -97,7 +97,7 @@ TOEICでは、科学や環境に関する説明文や記事で「mercury」が�
 ## 🤔  silver との違いは？
 
 - **mercury**：常温で液体の金属「水銀」や惑星・神名を指す。
-- **[silver](/silver)**：常温で固体の貴金属「銀」を指す。
+- **[silver](/word/silver)**：常温で固体の貴金属「銀」を指す。
 
 mercuryは液体の金属で毒性があり、科学や環境の話題で使われますが、silverは装飾品や通貨など幅広い用途のある固体金属です。
 
@@ -105,14 +105,14 @@ mercuryは液体の金属で毒性があり、科学や環境の話題で使わ�
 
 ## 🧩 あわせて覚えたい
 
-- [thermometer](/thermometer)：温度計
-- [element](/element)：元素
+- [thermometer](/word/thermometer)：温度計
+- [element](/word/element)：元素
 
 ---
 
 ## 📖 できればこれも
 
-- [copper](/copper)：銅（金属元素）
-- [lead](/lead)：鉛（金属元素）
+- [copper](/word/copper)：銅（金属元素）
+- [lead](/word/lead)：鉛（金属元素）
 
 <!-- cvid: aid48_bid31 -->

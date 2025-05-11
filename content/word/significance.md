@@ -97,7 +97,7 @@ TOEICでは、レポートやメール、記事などの長文中で「重要性
 ## 🤔  importance との違いは？
 
 - **significance**：表面的な重要性だけでなく、背後にある意義や深い意味も含む
-- **[importance](/importance)**：物事の価値や優先度など、広く「重要さ」を表す
+- **[importance](/word/importance)**：物事の価値や優先度など、広く「重要さ」を表す
 
 significanceは「意味合い」や「象徴的な価値」も含むニュアンスがあり、importanceは単純な「重要度」を指すことが多いです。
 
@@ -105,14 +105,14 @@ significanceは「意味合い」や「象徴的な価値」も含むニュア�
 
 ## 🧩 あわせて覚えたい
 
-- [meaning](/meaning)：意味
-- [value](/value)：価値
+- [meaning](/word/meaning)：意味
+- [value](/word/value)：価値
 
 ---
 
 ## 📖 できればこれも
 
-- [impact](/impact)：影響
-- [consequence](/consequence)：結果
+- [impact](/word/impact)：影響
+- [consequence](/word/consequence)：結果
 
 <!-- cvid: aid17_bid27 -->

@@ -96,7 +96,7 @@ TOEICでは、寸法やサイズを問う設問や、仕様書・説明文の中
 ## 🤔  inch との違いは？
 
 - **centimeter**：メートル法の長さの単位（1cm＝1/100メートル）
-- **[inch](/inch)**：ヤード・ポンド法の長さの単位（1インチ＝約2.54cm）
+- **[inch](/word/inch)**：ヤード・ポンド法の長さの単位（1インチ＝約2.54cm）
 
 centimeterは主に日本やヨーロッパなどメートル法を使う国で使われ、inchはアメリカなどヤード・ポンド法を使う国で使われます。
 
@@ -104,14 +104,14 @@ centimeterは主に日本やヨーロッパなどメートル法を使う国で�
 
 ## 🧩 あわせて覚えたい
 
-- [meter](/meter)：メートル（長さの基本単位）
-- [millimeter](/millimeter)：ミリメートル（1/1000メートル）
+- [meter](/word/meter)：メートル（長さの基本単位）
+- [millimeter](/word/millimeter)：ミリメートル（1/1000メートル）
 
 ---
 
 ## 📖 できればこれも
 
-- [length](/length)：長さ
-- [measure](/measure)：測る
+- [length](/word/length)：長さ
+- [measure](/word/measure)：測る
 
 <!-- cvid: aid16_bid24 -->

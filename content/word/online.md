@@ -98,7 +98,7 @@ TOEICでは、メールや案内文、広告などで「online」の表現が頻
 ## 🤔  offline との違いは？
 
 - **online**：インターネットやネットワークに接続された状態や、その場で利用できることを表す。
-- **[offline](/offline)**：ネットワークに接続されていない状態や、インターネットを使わないことを表す。
+- **[offline](/word/offline)**：ネットワークに接続されていない状態や、インターネットを使わないことを表す。
 
 「online」はネットにつながっている状態、「offline」はつながっていない状態を指し、イベントやサービスの提供方法の違いを表現できます。
 
@@ -106,14 +106,14 @@ TOEICでは、メールや案内文、広告などで「online」の表現が頻
 
 ## 🧩 あわせて覚えたい
 
-- [digital](/digital)：デジタルの、電子的な
-- [remote](/remote)：遠隔の、リモートの
+- [digital](/word/digital)：デジタルの、電子的な
+- [remote](/word/remote)：遠隔の、リモートの
 
 ---
 
 ## 📖 できればこれも
 
-- [website](/website)：ウェブサイト、ホームページ
-- [access](/access)：アクセスする、利用する
+- [website](/word/website)：ウェブサイト、ホームページ
+- [access](/word/access)：アクセスする、利用する
 
 <!-- cvid: aid45_bid08 -->

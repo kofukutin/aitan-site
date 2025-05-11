@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「飛行機が滑走路にいる」な
 ## 🤔  aircraft との違いは？
 
 - **airplane**：エンジン付きの「飛行機」を指し、主に乗客や貨物を運ぶ機体。
-- **[aircraft](/aircraft)**：飛行機だけでなく、ヘリコプターや気球など空を飛ぶすべての航空機を指す総称。
+- **[aircraft](/word/aircraft)**：飛行機だけでなく、ヘリコプターや気球など空を飛ぶすべての航空機を指す総称。
 
 airplaneは「飛行機」に限定されますが、aircraftは空を飛ぶ乗り物全般を指すため、より広い意味で使われます。
 
@@ -105,14 +105,14 @@ airplaneは「飛行機」に限定されますが、aircraftは空を飛ぶ乗�
 
 ## 🧩 あわせて覚えたい
 
-- [helicopter](/helicopter)：ヘリコプター
-- [airport](/airport)：空港
+- [helicopter](/word/helicopter)：ヘリコプター
+- [airport](/word/airport)：空港
 
 ---
 
 ## 📖 できればこれも
 
-- [train](/train)：列車
-- [flight](/flight)：（飛行機の）便
+- [train](/word/train)：列車
+- [flight](/word/flight)：（飛行機の）便
 
 <!-- cvid: aid39_bid01 -->

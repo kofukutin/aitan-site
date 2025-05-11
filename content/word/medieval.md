@@ -97,7 +97,7 @@ TOEICでは歴史や文化に関する長文や説明文で見かけることが
 ## 🤔  ancient との違いは？
 
 - **medieval**：中世（主に西洋の5～15世紀）に関する
-- **[ancient](/ancient)**：古代（中世よりも前、特にギリシャ・ローマなど）に関する
+- **[ancient](/word/ancient)**：古代（中世よりも前、特にギリシャ・ローマなど）に関する
 
 medievalは「中世」、ancientは「古代」と時代が異なります。歴史の時代区分で使い分けましょう。
 
@@ -105,15 +105,15 @@ medievalは「中世」、ancientは「古代」と時代が異なります。�
 
 ## 🧩 あわせて覚えたい
 
-- [modern](/modern)：現代の
-- [renaissance](/renaissance)：ルネサンス（文芸復興）の
+- [modern](/word/modern)：現代の
+- [renaissance](/word/renaissance)：ルネサンス（文芸復興）の
 
 ---
 
 ## 📖 できればこれも
 
-- [historic](/historic)：歴史的に重要な
-- [classical](/classical)：古典的な、古代ギリシャ・ローマの
+- [historic](/word/historic)：歴史的に重要な
+- [classical](/word/classical)：古典的な、古代ギリシャ・ローマの
 
 
 <!-- cvid: aid16_bid21 -->

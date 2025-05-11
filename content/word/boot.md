@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人物の服装や持ち物として
 ## 🤔  shoe との違いは？
 
 - **boot**：足首より上まで覆う靴や長靴
-- **[shoe](/shoe)**：足を覆う一般的な靴（足首まで）
+- **[shoe](/word/shoe)**：足を覆う一般的な靴（足首まで）
 
 bootは足首より上を覆うため、雨や雪、作業用など特別な用途で使われることが多く、shoeは日常的な靴全般を指します。
 
@@ -105,14 +105,14 @@ bootは足首より上を覆うため、雨や雪、作業用など特別な用�
 
 ## 🧩 あわせて覚えたい
 
-- [sneaker](/sneaker)：運動靴
-- [slipper](/slipper)：室内履き、スリッパ
+- [sneaker](/word/sneaker)：運動靴
+- [slipper](/word/slipper)：室内履き、スリッパ
 
 ---
 
 ## 📖 できればこれも
 
-- [coat](/coat)：コート、上着
-- [hat](/hat)：帽子
+- [coat](/word/coat)：コート、上着
+- [hat](/word/hat)：帽子
 
 <!-- cvid: aid37_bid00 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、作業現場やオフィスの備品
 ## 🤔  toolkit との違いは？
 
 - **toolbox**：物理的な「工具箱」や道具を入れる箱を指す。
-- **[toolkit](/toolkit)**：道具一式やツールのセット、またはソフトウェアの機能セットを指す。
+- **[toolkit](/word/toolkit)**：道具一式やツールのセット、またはソフトウェアの機能セットを指す。
 
 toolboxは「箱」という入れ物自体を強調し、toolkitは「道具のセット」や「機能のまとまり」を指します。
 
@@ -105,14 +105,14 @@ toolboxは「箱」という入れ物自体を強調し、toolkitは「道具の
 
 ## 🧩 あわせて覚えたい
 
-- [container](/container)：容器、入れ物
-- [equipment](/equipment)：装置、備品
+- [container](/word/container)：容器、入れ物
+- [equipment](/word/equipment)：装置、備品
 
 ---
 
 ## 📖 できればこれも
 
-- [drawer](/drawer)：引き出し
-- [shelf](/shelf)：棚
+- [drawer](/word/drawer)：引き出し
+- [shelf](/word/shelf)：棚
 
 <!-- cvid: aid22_bid18 -->

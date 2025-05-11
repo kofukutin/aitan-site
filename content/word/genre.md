@@ -97,7 +97,7 @@ TOEICでは、記事やレポート、広告文などの長文中で「ジャン
 ## 🤔  category との違いは？
 
 - **genre**：芸術や文学などの「ジャンル」「様式」を指すフォーマルな語
-- **[category](/category)**：より広い意味で「カテゴリー」「分類」を指し、日常的な分野にも使える
+- **[category](/word/category)**：より広い意味で「カテゴリー」「分類」を指し、日常的な分野にも使える
 
 genreは主に芸術や文化的な分野で使われ、categoryはあらゆる物事の分類に幅広く使われます。
 
@@ -105,14 +105,14 @@ genreは主に芸術や文化的な分野で使われ、categoryはあらゆる�
 
 ## 🧩 あわせて覚えたい
 
-- [type](/type)：種類、型
-- [style](/style)：様式、スタイル
+- [type](/word/type)：種類、型
+- [style](/word/style)：様式、スタイル
 
 ---
 
 ## 📖 できればこれも
 
-- [topic](/topic)：話題、テーマ
-- [subject](/subject)：主題、科目
+- [topic](/word/topic)：話題、テーマ
+- [subject](/word/subject)：主題、科目
 
 <!-- cvid: aid16_bid38 -->

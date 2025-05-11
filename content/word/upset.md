@@ -97,7 +97,7 @@ TOEICでは会議やビジネスのやりとりで、感情や状況の変化を
 ## 🤔  disturb との違いは？
 
 - **upset**：感情や状況を大きく乱す、動揺させる
-- **[disturb](/disturb)**：邪魔をする、静けさや集中を妨げる
+- **[disturb](/word/disturb)**：邪魔をする、静けさや集中を妨げる
 
 upsetは感情や計画などを大きく乱すニュアンスがあり、disturbは主に物理的・精神的な「妨害」に使われます。
 
@@ -105,14 +105,14 @@ upsetは感情や計画などを大きく乱すニュアンスがあり、distur
 
 ## 🧩 あわせて覚えたい
 
-- [calm](/calm)：落ち着かせる、静める
-- [annoy](/annoy)：イライラさせる、困らせる
+- [calm](/word/calm)：落ち着かせる、静める
+- [annoy](/word/annoy)：イライラさせる、困らせる
 
 ---
 
 ## 📖 できればこれも
 
-- [confuse](/confuse)：混乱させる
-- [interrupt](/interrupt)：中断する、邪魔をする
+- [confuse](/word/confuse)：混乱させる
+- [interrupt](/word/interrupt)：中断する、邪魔をする
 
 <!-- cvid: aid25_bid24 -->

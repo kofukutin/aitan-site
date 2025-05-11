@@ -97,7 +97,7 @@ TOEICでは主にオフィスや工場の写真描写で、棚や装置の取り
 ## 🤔  shelf との違いは？
 
 - **bracket**：棚や機器などを支えるための金具や、区分・括弧の意味
-- **[shelf](/shelf)**：物を置くための「棚」そのもの
+- **[shelf](/word/shelf)**：物を置くための「棚」そのもの
 
 bracketは「支える部品」や「区分」を指し、shelfは実際に物を置く「棚」を指します。設置や構造の説明で使い分けます。
 
@@ -105,14 +105,14 @@ bracketは「支える部品」や「区分」を指し、shelfは実際に物�
 
 ## 🧩 あわせて覚えたい
 
-- [support](/support)：支え、支持物
-- [frame](/frame)：枠、骨組み
+- [support](/word/support)：支え、支持物
+- [frame](/word/frame)：枠、骨組み
 
 ---
 
 ## 📖 できればこれも
 
-- [hook](/hook)：フック、掛け金具
-- [panel](/panel)：パネル、板
+- [hook](/word/hook)：フック、掛け金具
+- [panel](/word/panel)：パネル、板
 
 <!-- cvid: aid17_bid12 -->

@@ -97,7 +97,7 @@ TOEICでは、vacateは「退去する」「空ける」という意味で、主
 ## 🤔  evacuate との違いは？
 
 - **vacate**：自発的・指示により「場所や地位を空ける」「立ち退く」
-- **[evacuate](/evacuate)**：緊急時や危険時に「避難する」「退避させる」
+- **[evacuate](/word/evacuate)**：緊急時や危険時に「避難する」「退避させる」
 
 vacateは日常的・業務的な「空ける」に使い、evacuateは災害や緊急時の「避難」に使います。
 
@@ -105,14 +105,14 @@ vacateは日常的・業務的な「空ける」に使い、evacuateは災害や
 
 ## 🧩 あわせて覚えたい
 
-- [occupy](/occupy)：占める、占領する
-- [resign](/resign)：辞職する、辞任する
+- [occupy](/word/occupy)：占める、占領する
+- [resign](/word/resign)：辞職する、辞任する
 
 ---
 
 ## 📖 できればこれも
 
-- [transfer](/transfer)：移す、転勤する
-- [remove](/remove)：取り除く、移動させる
+- [transfer](/word/transfer)：移す、転勤する
+- [remove](/word/remove)：取り除く、移動させる
 
 <!-- cvid: aid43_bid11 -->

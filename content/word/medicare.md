@@ -96,7 +96,7 @@ TOEICでは医療や保険に関する説明文や案内文で登場すること
 ## 🤔  medicaid との違いは？
 
 - **medicare**：アメリカの高齢者や障害者向けの公的医療保険制度
-- **[medicaid](/medicaid)**：アメリカの低所得者向けの公的医療扶助制度
+- **[medicaid](/word/medicaid)**：アメリカの低所得者向けの公的医療扶助制度
 
 medicareは主に高齢者や障害者が対象ですが、medicaidは所得の低い人々が対象です。
 
@@ -104,14 +104,14 @@ medicareは主に高齢者や障害者が対象ですが、medicaidは所得の�
 
 ## 🧩 あわせて覚えたい
 
-- [insurance](/insurance)：保険
-- [coverage](/coverage)：補償範囲
+- [insurance](/word/insurance)：保険
+- [coverage](/word/coverage)：補償範囲
 
 ---
 
 ## 📖 できればこれも
 
-- [prescription](/prescription)：処方箋
-- [benefit](/benefit)：給付、利益
+- [prescription](/word/prescription)：処方箋
+- [benefit](/word/benefit)：給付、利益
 
 <!-- cvid: aid20_bid27 -->

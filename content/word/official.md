@@ -98,7 +98,7 @@ TOEICでは、公式文書や発表、通知などの長文読解問題で頻出
 ## 🤔  formal との違いは？
 
 - **official**：政府や組織などの「公式な」「公的な」ものに使う
-- **[formal](/formal)**：形式や礼儀に従った「フォーマルな」「格式ばった」ものに使う
+- **[formal](/word/formal)**：形式や礼儀に従った「フォーマルな」「格式ばった」ものに使う
 
 「official」は組織や権威による「公式性」を強調し、「formal」はマナーやルールに従った「形式的」な場面で使います。
 
@@ -106,14 +106,14 @@ TOEICでは、公式文書や発表、通知などの長文読解問題で頻出
 
 ## 🧩 あわせて覚えたい
 
-- [authorized](/authorized)：権限のある、認可された
-- [unofficial](/unofficial)：非公式の
+- [authorized](/word/authorized)：権限のある、認可された
+- [unofficial](/word/unofficial)：非公式の
 
 ---
 
 ## 📖 できればこれも
 
-- [legal](/legal)：法律の、合法の
-- [public](/public)：公の、公的な
+- [legal](/word/legal)：法律の、合法の
+- [public](/word/public)：公の、公的な
 
 <!-- cvid: aid49_bid10 -->

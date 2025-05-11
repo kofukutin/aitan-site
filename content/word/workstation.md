@@ -96,7 +96,7 @@ IT関連やオフィス環境を説明する文脈で登場しやすく、特に
 ## 🤔  desktop との違いは？
 
 - **workstation**：専門的な作業や業務用の高性能コンピュータや作業スペース
-- **[desktop](/desktop)**：一般的な卓上型パソコンやそのデスクトップ画面
+- **[desktop](/word/desktop)**：一般的な卓上型パソコンやそのデスクトップ画面
 
 workstationは主に専門職向けの高性能機器や作業場所を指し、desktopは一般的なパソコンやその画面を指します。
 
@@ -104,14 +104,14 @@ workstationは主に専門職向けの高性能機器や作業場所を指し、
 
 ## 🧩 あわせて覚えたい
 
-- [terminal](/terminal)：端末、コンピュータへの入力装置
-- [server](/server)：サーバー、ネットワーク上でサービスを提供するコンピュータ
+- [terminal](/word/terminal)：端末、コンピュータへの入力装置
+- [server](/word/server)：サーバー、ネットワーク上でサービスを提供するコンピュータ
 
 ---
 
 ## 📖 できればこれも
 
-- [hardware](/hardware)：ハードウェア、コンピュータの物理的部品
-- [device](/device)：デバイス、装置や機器
+- [hardware](/word/hardware)：ハードウェア、コンピュータの物理的部品
+- [device](/word/device)：デバイス、装置や機器
 
 <!-- cvid: aid24_bid48 -->

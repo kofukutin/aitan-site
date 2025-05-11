@@ -96,7 +96,7 @@ TOEICでは「いくつかの」という数量表現として、空所補充や
 ## 🤔  various との違いは？
 
 - **several**：いくつかの（数が3つ以上で、種類よりも「数」に注目）
-- **[various](/various)**：さまざまな（種類やバリエーションに注目）
+- **[various](/word/various)**：さまざまな（種類やバリエーションに注目）
 
 severalは「数の多さ」に焦点を当て、variousは「種類の多さ・多様性」に焦点を当てます。
 
@@ -104,14 +104,14 @@ severalは「数の多さ」に焦点を当て、variousは「種類の多さ・
 
 ## 🧩 あわせて覚えたい
 
-- [few](/few)：少しの（ほとんどない、という否定的なニュアンス）
-- [numerous](/numerous)：非常に多くの
+- [few](/word/few)：少しの（ほとんどない、という否定的なニュアンス）
+- [numerous](/word/numerous)：非常に多くの
 
 ---
 
 ## 📖 できればこれも
 
-- [each](/each)：それぞれの
-- [another](/another)：もう一つの、別の
+- [each](/word/each)：それぞれの
+- [another](/word/another)：もう一つの、別の
 
 <!-- cvid: aid41_bid20 -->

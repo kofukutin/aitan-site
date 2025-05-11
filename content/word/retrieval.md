@@ -97,7 +97,7 @@ retrievalはITやビジネス文書の中で、データや情報の「検索」
 ## 🤔  recovery との違いは？
 
 - **retrieval**：主に情報や物を「検索・取り出す」ことに焦点
-- **[recovery](/recovery)**：失ったものを「回復・復旧」することに焦点
+- **[recovery](/word/recovery)**：失ったものを「回復・復旧」することに焦点
 
 retrievalは「探して取り出す」ニュアンス、recoveryは「失ったものを元に戻す」ニュアンスで使い分けます。
 
@@ -105,14 +105,14 @@ retrievalは「探して取り出す」ニュアンス、recoveryは「失った
 
 ## 🧩 あわせて覚えたい
 
-- [extraction](/extraction)：抽出、取り出し
-- [access](/access)：アクセス、接近
+- [extraction](/word/extraction)：抽出、取り出し
+- [access](/word/access)：アクセス、接近
 
 ---
 
 ## 📖 できればこれも
 
-- [archive](/archive)：保管、アーカイブ
-- [storage](/storage)：保存、保管
+- [archive](/word/archive)：保管、アーカイブ
+- [storage](/word/storage)：保存、保管
 
 <!-- cvid: aid17_bid14 -->

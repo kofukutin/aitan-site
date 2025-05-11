@@ -97,7 +97,7 @@ TOEICでは、商品の梱包や発送、オフィスでの備品管理などの
 ## 🤔  box との違いは？
 
 - **carton**：紙や厚紙でできた箱や容器を指す
-- **[box](/box)**：素材や大きさを問わず、一般的な「箱」を指す
+- **[box](/word/box)**：素材や大きさを問わず、一般的な「箱」を指す
 
 「carton」は主に紙製の箱やパックに限定されるのに対し、「box」は木製・金属製など素材を問わず幅広い箱を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、商品の梱包や発送、オフィスでの備品管理などの
 
 ## 🧩 あわせて覚えたい
 
-- [container](/container)：容器、入れ物
-- [package](/package)：包装、荷物
+- [container](/word/container)：容器、入れ物
+- [package](/word/package)：包装、荷物
 
 ---
 
 ## 📖 できればこれも
 
-- [envelope](/envelope)：封筒
-- [bottle](/bottle)：ボトル、瓶
+- [envelope](/word/envelope)：封筒
+- [bottle](/word/bottle)：ボトル、瓶
 
 <!-- cvid: aid38_bid29 -->

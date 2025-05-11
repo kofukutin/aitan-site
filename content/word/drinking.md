@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「飲み物を飲む」「飲酒」に関する
 ## 🤔  alcohol との違いは？
 
 - **drinking**：飲む行為や飲酒そのものを指す
-- **[alcohol](/alcohol)**：アルコールという物質や飲み物自体を指す
+- **[alcohol](/word/alcohol)**：アルコールという物質や飲み物自体を指す
 
 drinkingは「行為」、alcoholは「物質・飲み物」として使い分けます。
 
@@ -105,14 +105,14 @@ drinkingは「行為」、alcoholは「物質・飲み物」として使い分�
 
 ## 🧩 あわせて覚えたい
 
-- [beverage](/beverage)：飲み物（特にソフトドリンク）
-- [sobriety](/sobriety)：しらふ、禁酒
+- [beverage](/word/beverage)：飲み物（特にソフトドリンク）
+- [sobriety](/word/sobriety)：しらふ、禁酒
 
 ---
 
 ## 📖 できればこれも
 
-- [smoking](/smoking)：喫煙
-- [eating](/eating)：食べること
+- [smoking](/word/smoking)：喫煙
+- [eating](/word/eating)：食べること
 
 <!-- cvid: aid21_bid03 -->

@@ -93,7 +93,7 @@ TOEICでは主にPart 7のフォーマルなメールや通知文で見かける
 ## 🤔  while との違いは？
 
 - **whilst**：ややフォーマル・イギリス英語で使われる「～する間」「～である一方で」
-- **[while](/while)**：アメリカ英語で一般的な「～する間」「～である一方で」
+- **[while](/word/while)**：アメリカ英語で一般的な「～する間」「～である一方で」
 
 whilstは主にイギリス英語やフォーマルな文書で使われ、whileはアメリカ英語や日常会話で広く使われます。
 
@@ -101,14 +101,14 @@ whilstは主にイギリス英語やフォーマルな文書で使われ、while
 
 ## 🧩 あわせて覚えたい
 
-- [although](/although)：～だけれども（譲歩を表す接続詞）
-- [whereas](/whereas)：～であるのに対して（対比を表す接続詞）
+- [although](/word/although)：～だけれども（譲歩を表す接続詞）
+- [whereas](/word/whereas)：～であるのに対して（対比を表す接続詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [however](/however)：しかしながら
-- [meanwhile](/meanwhile)：その間に
+- [however](/word/however)：しかしながら
+- [meanwhile](/word/meanwhile)：その間に
 
 <!-- cvid: aid19_bid28 -->

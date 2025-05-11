@@ -97,7 +97,7 @@ TOEICではITやオフィス業務の文脈で「copying」が出題されるこ
 ## 🤔  duplication との違いは？
 
 - **copying**：一般的な「写す」「コピーする」行為全般を指す
-- **[duplication](/duplication)**：特に「正確に複製する」「二重化する」ニュアンスが強い
+- **[duplication](/word/duplication)**：特に「正確に複製する」「二重化する」ニュアンスが強い
 
 copyingは日常的なコピーや写しに広く使われますが、duplicationは「完全な複製」や「二重化」といった技術的・厳密な場面で使われます。
 
@@ -105,14 +105,14 @@ copyingは日常的なコピーや写しに広く使われますが、duplicatio
 
 ## 🧩 あわせて覚えたい
 
-- [imitation](/imitation)：模倣、まね
-- [replication](/replication)：再現、複製
+- [imitation](/word/imitation)：模倣、まね
+- [replication](/word/replication)：再現、複製
 
 ---
 
 ## 📖 できればこれも
 
-- [printer](/printer)：プリンター、印刷機
-- [scan](/scan)：スキャンする、読み取る
+- [printer](/word/printer)：プリンター、印刷機
+- [scan](/word/scan)：スキャンする、読み取る
 
 <!-- cvid: aid18_bid28 -->

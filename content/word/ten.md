@@ -97,7 +97,7 @@ TOEICでは数字や時刻、数量を表す場面で頻出します。特にリ
 ## 🤔  decade との違いは？
 
 - **ten**：単純に「10」という数や物の数を表す
-- **[decade](/decade)**：「10年間」という期間を表す
+- **[decade](/word/decade)**：「10年間」という期間を表す
 
 「ten」は数そのもの、「decade」は10年という時間のまとまりを指します。
 
@@ -105,14 +105,14 @@ TOEICでは数字や時刻、数量を表す場面で頻出します。特にリ
 
 ## 🧩 あわせて覚えたい
 
-- [dozen](/dozen)：12（ダース）
-- [hundred](/hundred)：100
+- [dozen](/word/dozen)：12（ダース）
+- [hundred](/word/hundred)：100
 
 ---
 
 ## 📖 できればこれも
 
-- [eleven](/eleven)：11
-- [twenty](/twenty)：20
+- [eleven](/word/eleven)：11
+- [twenty](/word/twenty)：20
 
 <!-- cvid: aid24_bid06 -->

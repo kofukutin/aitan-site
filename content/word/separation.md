@@ -97,7 +97,7 @@ TOEICでは「分離」「区別」「別居」などの意味で、ビジネス
 ## 🤔  division との違いは？
 
 - **separation**：物や人が物理的・感情的に「分かれる」「離れる」ことを強調
-- **[division](/division)**：全体を「部分や部門に分ける」こと、または「区分」を強調
+- **[division](/word/division)**：全体を「部分や部門に分ける」こと、または「区分」を強調
 
 separationは「離れる」「切り離す」ニュアンスが強く、divisionは「分割」「区分」など構造的な分け方に使われます。
 
@@ -105,14 +105,14 @@ separationは「離れる」「切り離す」ニュアンスが強く、divisio
 
 ## 🧩 あわせて覚えたい
 
-- [isolation](/isolation)：孤立、隔離
-- [connection](/connection)：つながり、接続
+- [isolation](/word/isolation)：孤立、隔離
+- [connection](/word/connection)：つながり、接続
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/agreement)：合意、契約
-- [departure](/departure)：出発、離脱
+- [agreement](/word/agreement)：合意、契約
+- [departure](/word/departure)：出発、離脱
 
 <!-- cvid: aid09_bid08 -->

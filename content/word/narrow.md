@@ -97,7 +97,7 @@ TOEICでは「narrow down（絞り込む）」の形や、形容詞として「�
 ## 🤔  thin との違いは？
 
 - **narrow**：幅が狭い、空間や範囲が小さい
-- **[thin](/thin)**：厚みや太さが薄い、細い
+- **[thin](/word/thin)**：厚みや太さが薄い、細い
 
 narrowは「幅」に注目し、thinは「厚み」や「太さ」に注目します。道や範囲にはnarrow、人や物の厚みにはthinを使います。
 
@@ -105,14 +105,14 @@ narrowは「幅」に注目し、thinは「厚み」や「太さ」に注目し�
 
 ## 🧩 あわせて覚えたい
 
-- [broad](/broad)：広い
-- [tight](/tight)：きつい、ぴったりした
+- [broad](/word/broad)：広い
+- [tight](/word/tight)：きつい、ぴったりした
 
 ---
 
 ## 📖 できればこれも
 
-- [wide](/wide)：広い
-- [deep](/deep)：深い
+- [wide](/word/wide)：広い
+- [deep](/word/deep)：深い
 
 <!-- cvid: aid41_bid47 -->

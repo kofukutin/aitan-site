@@ -97,7 +97,7 @@ TOEICでは「昇進させる」「促進する」「宣伝する」などの意
 ## 🤔  encourage との違いは？
 
 - **promote**：積極的に何かを進めたり、昇進させたり、宣伝したりする意味が強い
-- **[encourage](/encourage)**：励ます、勇気づける、気持ちを後押しする意味が中心
+- **[encourage](/word/encourage)**：励ます、勇気づける、気持ちを後押しする意味が中心
 
 promoteは行動や物事を「前に進める」ニュアンスがあり、encourageは主に人の気持ちや行動を「後押しする」場面で使います。
 
@@ -105,14 +105,14 @@ promoteは行動や物事を「前に進める」ニュアンスがあり、enco
 
 ## 🧩 あわせて覚えたい
 
-- [demote](/demote)：降格させる
-- [advertise](/advertise)：広告する、宣伝する
+- [demote](/word/demote)：降格させる
+- [advertise](/word/advertise)：広告する、宣伝する
 
 ---
 
 ## 📖 できればこれも
 
-- [advance](/advance)：進める、前進させる
-- [support](/support)：支援する、支える
+- [advance](/word/advance)：進める、前進させる
+- [support](/word/support)：支援する、支える
 
 <!-- cvid: aid26_bid33 -->

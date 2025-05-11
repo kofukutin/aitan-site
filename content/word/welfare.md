@@ -97,7 +97,7 @@ welfareはTOEICの長文読解（Part 7）で、社会問題や企業の福利�
 ## 🤔  benefit との違いは？
 
 - **welfare**：社会全体や集団の幸福・福祉を指すフォーマルな語。
-- **[benefit](/benefit)**：個人や集団が得る利益・恩恵を幅広く指す語。
+- **[benefit](/word/benefit)**：個人や集団が得る利益・恩恵を幅広く指す語。
 
 welfareは「社会的な幸福や福祉」に焦点があり、benefitは「具体的な利益や恩恵」に使われます。
 
@@ -105,14 +105,14 @@ welfareは「社会的な幸福や福祉」に焦点があり、benefitは「具
 
 ## 🧩 あわせて覚えたい
 
-- [wellbeing](/wellbeing)：心身の健康・幸福
-- [subsidy](/subsidy)：補助金、助成金
+- [wellbeing](/word/wellbeing)：心身の健康・幸福
+- [subsidy](/word/subsidy)：補助金、助成金
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/policy)：政策、方針
-- [insurance](/insurance)：保険
+- [policy](/word/policy)：政策、方針
+- [insurance](/word/insurance)：保険
 
 <!-- cvid: aid08_bid41 -->

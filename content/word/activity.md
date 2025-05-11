@@ -97,7 +97,7 @@ TOEICでは会議やビジネスの場面で「活動内容」や「イベント
 ## 🤔  action との違いは？
 
 - **activity**：継続的・集団的な「活動」や「行動全体」を指す
-- **[action](/action)**：個々の「行動」や「動作」、または決断的な一歩を指す
+- **[action](/word/action)**：個々の「行動」や「動作」、または決断的な一歩を指す
 
 activityは「何かをしている状態」や「まとまりのある活動」を表し、actionは「一つ一つの具体的な行動」や「決断的な動き」に使われます。
 
@@ -105,14 +105,14 @@ activityは「何かをしている状態」や「まとまりのある活動」
 
 ## 🧩 あわせて覚えたい
 
-- [event](/event)：出来事、行事
-- [project](/project)：計画、プロジェクト
+- [event](/word/event)：出来事、行事
+- [project](/word/project)：計画、プロジェクト
 
 ---
 
 ## 📖 できればこれも
 
-- [task](/task)：課題、仕事
-- [operation](/operation)：作業、運用
+- [task](/word/task)：課題、仕事
+- [operation](/word/operation)：作業、運用
 
 <!-- cvid: aid43_bid06 -->

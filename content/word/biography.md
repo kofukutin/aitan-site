@@ -97,7 +97,7 @@ TOEICでは、人物紹介や記事、書籍紹介の文脈でbiographyが登場
 ## 🤔  autobiography との違いは？
 
 - **biography**：他人が書いた伝記。他者の人生をまとめたもの。
-- **[autobiography](/autobiography)**：自分自身が書いた自伝。
+- **[autobiography](/word/autobiography)**：自分自身が書いた自伝。
 
 biographyは「他人が書く伝記」、autobiographyは「自分で書く自伝」と、書き手が誰かで使い分けます。
 
@@ -105,14 +105,14 @@ biographyは「他人が書く伝記」、autobiographyは「自分で書く自�
 
 ## 🧩 あわせて覚えたい
 
-- [memoir](/memoir)：回想録、思い出話
-- [profile](/profile)：人物紹介、プロフィール
+- [memoir](/word/memoir)：回想録、思い出話
+- [profile](/word/profile)：人物紹介、プロフィール
 
 ---
 
 ## 📖 できればこれも
 
-- [novel](/novel)：小説
-- [history](/history)：歴史
+- [novel](/word/novel)：小説
+- [history](/word/history)：歴史
 
 <!-- cvid: aid29_bid27 -->

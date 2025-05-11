@@ -97,7 +97,7 @@ TOEICでは会議や電話の内容、インタビューなどの音声データ
 ## 🤔  transcription との違いは？
 
 - **recording**：音声や映像などを機械で記録した「録音・録画」そのもの
-- **[transcription](/transcription)**：録音や録画された内容を「文字起こし」したもの
+- **[transcription](/word/transcription)**：録音や録画された内容を「文字起こし」したもの
 
 recordingは実際の音声や映像データ、transcriptionはその内容を文字にした文書を指します。
 
@@ -105,14 +105,14 @@ recordingは実際の音声や映像データ、transcriptionはその内容を�
 
 ## 🧩 あわせて覚えたい
 
-- [audio](/audio)：音声、音響
-- [footage](/footage)：（映像の）記録、フィルム
+- [audio](/word/audio)：音声、音響
+- [footage](/word/footage)：（映像の）記録、フィルム
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/device)：装置、機器
-- [file](/file)：ファイル、書類
+- [device](/word/device)：装置、機器
+- [file](/word/file)：ファイル、書類
 
 <!-- cvid: aid49_bid15 -->

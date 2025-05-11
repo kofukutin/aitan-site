@@ -97,7 +97,7 @@ TOEICでは、電話やメールでのやり取り、問い合わせの場面で
 ## 🤔  reaching との違いは？
 
 - **contacting**：相手に連絡を取る、意思を伝えるためにアクションを起こすこと
-- **[reaching](/reaching)**：物理的・心理的に「到達する」「届く」こと
+- **[reaching](/word/reaching)**：物理的・心理的に「到達する」「届く」こと
 
 contactingは「連絡する」という意図的な行動を表し、reachingは「到達する」「届く」という結果や状態を強調します。
 
@@ -105,14 +105,14 @@ contactingは「連絡する」という意図的な行動を表し、reaching�
 
 ## 🧩 あわせて覚えたい
 
-- [notify](/notify)：通知する、知らせる
-- [inform](/inform)：情報を伝える、知らせる
+- [notify](/word/notify)：通知する、知らせる
+- [inform](/word/inform)：情報を伝える、知らせる
 
 ---
 
 ## 📖 できればこれも
 
-- [call](/call)：電話する
-- [reply](/reply)：返事をする
+- [call](/word/call)：電話する
+- [reply](/word/reply)：返事をする
 
 <!-- cvid: aid34_bid13 -->

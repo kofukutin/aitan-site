@@ -97,7 +97,7 @@ Our company has a long history of dealing with overseas clients.
 ## 🤔  transaction との違いは？
 
 - **dealing**：人や会社とのやりとりや取引全般を幅広く指す
-- **[transaction](/transaction)**：特に「商取引」「金融取引」など、個々の具体的な取引を指す
+- **[transaction](/word/transaction)**：特に「商取引」「金融取引」など、個々の具体的な取引を指す
 
 dealingは人間関係ややりとり全般にも使えますが、transactionは主にお金や契約が関わる具体的な取引に限定されます。
 
@@ -105,14 +105,14 @@ dealingは人間関係ややりとり全般にも使えますが、transaction�
 
 ## 🧩 あわせて覚えたい
 
-- [negotiation](/negotiation)：交渉
-- [agreement](/agreement)：合意、契約
+- [negotiation](/word/negotiation)：交渉
+- [agreement](/word/agreement)：合意、契約
 
 ---
 
 ## 📖 できればこれも
 
-- [bargain](/bargain)：値引き交渉、特価品
-- [arrangement](/arrangement)：取り決め、調整
+- [bargain](/word/bargain)：値引き交渉、特価品
+- [arrangement](/word/arrangement)：取り決め、調整
 
 <!-- cvid: aid05_bid22 -->

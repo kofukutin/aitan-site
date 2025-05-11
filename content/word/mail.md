@@ -97,7 +97,7 @@ TOEICでは、ビジネスメールや郵便物に関する長文問題でよく
 ## 🤔  post との違いは？
 
 - **mail**：アメリカ英語で「郵便」「郵便物」「メール」を指す。
-- **[post](/post)**：イギリス英語で「郵便」「郵便物」を指す。
+- **[post](/word/post)**：イギリス英語で「郵便」「郵便物」を指す。
 
 mailはアメリカ英語でよく使われ、postはイギリス英語で使われます。どちらも「郵便」の意味ですが、地域によって使い分けられます。
 
@@ -105,14 +105,14 @@ mailはアメリカ英語でよく使われ、postはイギリス英語で使わ
 
 ## 🧩 あわせて覚えたい
 
-- [letter](/letter)：手紙
-- [package](/package)：小包
+- [letter](/word/letter)：手紙
+- [package](/word/package)：小包
 
 ---
 
 ## 📖 できればこれも
 
-- [send](/send)：送る
-- [receive](/receive)：受け取る
+- [send](/word/send)：送る
+- [receive](/word/receive)：受け取る
 
 <!-- cvid: aid18_bid11 -->

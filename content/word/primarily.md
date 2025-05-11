@@ -97,7 +97,7 @@ TOEICでは説明文や報告書、案内文などで「主に」「第一に」
 ## 🤔  mainly との違いは？
 
 - **primarily**：よりフォーマルで、中心的・最重要な要素を強調する
-- **[mainly](/mainly)**：カジュアルで、単に「大部分は」「主に」という意味
+- **[mainly](/word/mainly)**：カジュアルで、単に「大部分は」「主に」という意味
 
 「primarily」は公式文書やビジネス文脈で使われやすく、より「第一の目的」や「最重要点」を強調します。対して「mainly」は日常会話でよく使われ、ニュアンスはやや軽めです。
 
@@ -105,14 +105,14 @@ TOEICでは説明文や報告書、案内文などで「主に」「第一に」
 
 ## 🧩 あわせて覚えたい
 
-- [chiefly](/chiefly)：主として、主に
-- [secondarily](/secondarily)：第二に、二次的に
+- [chiefly](/word/chiefly)：主として、主に
+- [secondarily](/word/secondarily)：第二に、二次的に
 
 ---
 
 ## 📖 できればこれも
 
-- [particularly](/particularly)：特に、とりわけ
-- [significantly](/significantly)：著しく、かなり
+- [particularly](/word/particularly)：特に、とりわけ
+- [significantly](/word/significantly)：著しく、かなり
 
 <!-- cvid: aid29_bid48 -->

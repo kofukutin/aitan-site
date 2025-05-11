@@ -97,7 +97,7 @@ TOEICでは、メールや案内文、ビジネス文書の中で「郵送」や
 ## 🤔  shipment との違いは？
 
 - **mailing**：主に郵便物や書類などを郵送すること・郵送物を指す
-- **[shipment](/shipment)**：貨物や商品などの「発送」「出荷」を指し、規模が大きい場合や物流で使われる
+- **[shipment](/word/shipment)**：貨物や商品などの「発送」「出荷」を指し、規模が大きい場合や物流で使われる
 
 mailingは手紙や書類など比較的小さなものの郵送に使われ、shipmentは商品や荷物など大きなものの発送・出荷に使われます。
 
@@ -105,14 +105,14 @@ mailingは手紙や書類など比較的小さなものの郵送に使われ、s
 
 ## 🧩 あわせて覚えたい
 
-- [delivery](/delivery)：配達、配送
-- [correspondence](/correspondence)：通信、文書のやりとり
+- [delivery](/word/delivery)：配達、配送
+- [correspondence](/word/correspondence)：通信、文書のやりとり
 
 ---
 
 ## 📖 できればこれも
 
-- [envelope](/envelope)：封筒
-- [postage](/postage)：郵便料金
+- [envelope](/word/envelope)：封筒
+- [postage](/word/postage)：郵便料金
 
 <!-- cvid: aid11_bid34 -->

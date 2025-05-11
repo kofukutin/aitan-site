@@ -97,7 +97,7 @@ TOEICでは「a piece of information」や「a piece of advice」など、可算
 ## 🤔  part との違いは？
 
 - **piece**：全体から切り離された「ひとつの部分」や「断片」「作品」など、物理的・抽象的な「一片」を強調
-- **[part](/part)**：全体を構成する「部分」「役割」など、構造的・機能的な「一部」を強調
+- **[part](/word/part)**：全体を構成する「部分」「役割」など、構造的・機能的な「一部」を強調
 
 pieceは「切り離された一つ分」や「作品」といった具体的な単位感があり、partは「全体の構成要素」としての役割や位置を意識します。
 
@@ -105,14 +105,14 @@ pieceは「切り離された一つ分」や「作品」といった具体的な
 
 ## 🧩 あわせて覚えたい
 
-- [fragment](/fragment)：断片、破片
-- [item](/item)：品目、項目
+- [fragment](/word/fragment)：断片、破片
+- [item](/word/item)：品目、項目
 
 ---
 
 ## 📖 できればこれも
 
-- [sheet](/sheet)：（紙などの）1枚
-- [portion](/portion)：（食べ物などの）1人前、分け前
+- [sheet](/word/sheet)：（紙などの）1枚
+- [portion](/word/portion)：（食べ物などの）1人前、分け前
 
 <!-- cvid: aid24_bid45 -->

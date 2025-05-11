@@ -97,7 +97,7 @@ TOEICでは主にPart 5の文法・語彙問題で、動詞の適切な形や意
 ## 🤔  occur との違いは？
 
 - **arising**：自然に発生する、特に原因や背景がある場合に使う
-- **[occur](/occur)**：出来事や事故などが「起こる」「発生する」ときに広く使う
+- **[occur](/word/occur)**：出来事や事故などが「起こる」「発生する」ときに広く使う
 
 arisingは「何かから生じる」ニュアンスが強く、occurは単に「起こる」という意味でより幅広く使われます。
 
@@ -105,14 +105,14 @@ arisingは「何かから生じる」ニュアンスが強く、occurは単に�
 
 ## 🧩 あわせて覚えたい
 
-- [emerge](/emerge)：現れる、出現する
-- [result](/result)：結果として生じる
+- [emerge](/word/emerge)：現れる、出現する
+- [result](/word/result)：結果として生じる
 
 ---
 
 ## 📖 できればこれも
 
-- [appear](/appear)：現れる、姿を見せる
-- [develop](/develop)：発展する、発生する
+- [appear](/word/appear)：現れる、姿を見せる
+- [develop](/word/develop)：発展する、発生する
 
 <!-- cvid: aid44_bid13 -->

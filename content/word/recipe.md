@@ -97,7 +97,7 @@ TOEICでは、メールや記事、広告文などで料理のレシピや「成
 ## 🤔  instruction との違いは？
 
 - **recipe**：料理や成功のための「手順」や「秘訣」を指す、ややカジュアルな語。
-- **[instruction](/instruction)**：一般的な「指示」「説明書」「手順書」など幅広い場面で使うフォーマルな語。
+- **[instruction](/word/instruction)**：一般的な「指示」「説明書」「手順書」など幅広い場面で使うフォーマルな語。
 
 recipeは主に料理や比喩的な成功法則に使い、instructionは機械や作業全般の手順・説明に使います。
 
@@ -105,14 +105,14 @@ recipeは主に料理や比喩的な成功法則に使い、instructionは機械
 
 ## 🧩 あわせて覚えたい
 
-- [formula](/formula)：公式、決まった方法
-- [method](/method)：方法、やり方
+- [formula](/word/formula)：公式、決まった方法
+- [method](/word/method)：方法、やり方
 
 ---
 
 ## 📖 できればこれも
 
-- [ingredient](/ingredient)：材料、成分
-- [procedure](/procedure)：手順、手続き
+- [ingredient](/word/ingredient)：材料、成分
+- [procedure](/word/procedure)：手順、手続き
 
 <!-- cvid: aid39_bid48 -->

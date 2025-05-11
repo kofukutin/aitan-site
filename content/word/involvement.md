@@ -97,7 +97,7 @@ TOEICでは会議やプロジェクトの話題で「関与」「参加」の意
 ## 🤔  participation との違いは？
 
 - **involvement**：単なる参加だけでなく、積極的な関与や影響も含む幅広い意味。
-- **[participation](/participation)**：主に「参加すること」自体を指し、関与の深さは問わない。
+- **[participation](/word/participation)**：主に「参加すること」自体を指し、関与の深さは問わない。
 
 involvementは「どれだけ深く関わったか」まで含意し、participationは「出席・参加したかどうか」に重点があります。
 
@@ -105,14 +105,14 @@ involvementは「どれだけ深く関わったか」まで含意し、participa
 
 ## 🧩 あわせて覚えたい
 
-- [engagement](/engagement)：積極的な関与、取り組み
-- [exclusion](/exclusion)：除外、排除
+- [engagement](/word/engagement)：積極的な関与、取り組み
+- [exclusion](/word/exclusion)：除外、排除
 
 ---
 
 ## 📖 できればこれも
 
-- [commitment](/commitment)：約束、献身
-- [contribution](/contribution)：貢献、寄与
+- [commitment](/word/commitment)：約束、献身
+- [contribution](/word/contribution)：貢献、寄与
 
 <!-- cvid: aid29_bid17 -->

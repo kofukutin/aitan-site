@@ -97,7 +97,7 @@ TOEICでは「練習問題」や「運動」という意味で出題されるこ
 ## 🤔  practice との違いは？
 
 - **exercise**：運動や練習問題など、具体的な活動や課題を指す
-- **[practice](/practice)**：繰り返し行う練習や習慣、実践を指す
+- **[practice](/word/practice)**：繰り返し行う練習や習慣、実践を指す
 
 exerciseは「個々の運動や問題」といった具体的なもの、practiceは「繰り返し行う行為」や「習慣」として使い分けます。
 
@@ -105,14 +105,14 @@ exerciseは「個々の運動や問題」といった具体的なもの、practi
 
 ## 🧩 あわせて覚えたい
 
-- [training](/training)：訓練、トレーニング
-- [task](/task)：課題、仕事
+- [training](/word/training)：訓練、トレーニング
+- [task](/word/task)：課題、仕事
 
 ---
 
 ## 📖 できればこれも
 
-- [activity](/activity)：活動
-- [lesson](/lesson)：授業、課題
+- [activity](/word/activity)：活動
+- [lesson](/word/lesson)：授業、課題
 
 <!-- cvid: aid33_bid45 -->

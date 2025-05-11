@@ -97,7 +97,7 @@ TOEICの長文読解パートで、未知の内容や新しい状況を説明す
 ## 🤔  unknown との違いは？
 
 - **unfamiliar**：なじみがなく、経験や知識がないことを強調
-- **[unknown](/unknown)**：まったく知られていない、情報が存在しないことを強調
+- **[unknown](/word/unknown)**：まったく知られていない、情報が存在しないことを強調
 
 「unfamiliar」は「見たことはあるがよく知らない」ニュアンス、「unknown」は「全く情報がない」ニュアンスです。
 
@@ -105,14 +105,14 @@ TOEICの長文読解パートで、未知の内容や新しい状況を説明す
 
 ## 🧩 あわせて覚えたい
 
-- [strange](/strange)：奇妙な、見慣れない
-- [foreign](/foreign)：外国の、異質な
+- [strange](/word/strange)：奇妙な、見慣れない
+- [foreign](/word/foreign)：外国の、異質な
 
 ---
 
 ## 📖 できればこれも
 
-- [familiar](/familiar)：よく知っている、なじみのある
-- [typical](/typical)：典型的な、代表的な
+- [familiar](/word/familiar)：よく知っている、なじみのある
+- [typical](/word/typical)：典型的な、代表的な
 
 <!-- cvid: aid37_bid14 -->

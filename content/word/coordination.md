@@ -97,7 +97,7 @@ TOEICでは、部門間の調整やプロジェクト管理に関する文脈で
 ## 🤔  collaboration との違いは？
 
 - **coordination**：複数の人や組織がうまく連携するように「調整」すること
-- **[collaboration](/collaboration)**：複数の人が「協力」して一緒に何かを作り上げること
+- **[collaboration](/word/collaboration)**：複数の人が「協力」して一緒に何かを作り上げること
 
 coordinationは「調整役」や「連携の仕組み」に重点があり、collaborationは「共同作業」や「協力そのもの」に重点があります。
 
@@ -105,14 +105,14 @@ coordinationは「調整役」や「連携の仕組み」に重点があり、co
 
 ## 🧩 あわせて覚えたい
 
-- [organization](/organization)：組織、整理
-- [arrangement](/arrangement)：取り決め、準備
+- [organization](/word/organization)：組織、整理
+- [arrangement](/word/arrangement)：取り決め、準備
 
 ---
 
 ## 📖 できればこれも
 
-- [cooperation](/cooperation)：協力
-- [management](/management)：管理
+- [cooperation](/word/cooperation)：協力
+- [management](/word/management)：管理
 
 <!-- cvid: aid20_bid24 -->

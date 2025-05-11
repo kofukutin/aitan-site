@@ -97,7 +97,7 @@ TOEICでは映画やイベントの「上映」や、ビジネスでの「成果
 ## 🤔  screening との違いは？
 
 - **showing**：映画や作品の「上映」「展示」や、成果・成績の「見せ方」を幅広く指す
-- **[screening](/screening)**：特に映画や映像作品の「上映」「試写」を指す
+- **[screening](/word/screening)**：特に映画や映像作品の「上映」「試写」を指す
 
 「showing」は展示や成果発表など幅広い「見せる場面」に使えますが、「screening」は映画や映像の上映に限定されることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは映画やイベントの「上映」や、ビジネスでの「成果
 
 ## 🧩 あわせて覚えたい
 
-- [presentation](/presentation)：発表、プレゼンテーション
-- [demonstration](/demonstration)：実演、デモ
+- [presentation](/word/presentation)：発表、プレゼンテーション
+- [demonstration](/word/demonstration)：実演、デモ
 
 ---
 
 ## 📖 できればこれも
 
-- [display](/display)：展示、陳列
-- [exhibition](/exhibition)：展示会、展覧会
+- [display](/word/display)：展示、陳列
+- [exhibition](/word/exhibition)：展示会、展覧会
 
 <!-- cvid: aid08_bid28 -->

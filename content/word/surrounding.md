@@ -97,7 +97,7 @@ TOEICでは、場所や状況の説明、案内文などで「surrounding area�
 ## 🤔  environment との違いは？
 
 - **surrounding**：周囲の、周辺の（形容詞。物や場所を直接修飾）
-- **[environment](/environment)**：環境（名詞。人や物を取り巻く全体的な状況）
+- **[environment](/word/environment)**：環境（名詞。人や物を取り巻く全体的な状況）
 
 surroundingは「周囲の建物」「周辺地域」のように具体的な物や場所を修飾し、environmentは「自然環境」や「職場環境」など広い意味で使います。
 
@@ -105,14 +105,14 @@ surroundingは「周囲の建物」「周辺地域」のように具体的な物
 
 ## 🧩 あわせて覚えたい
 
-- [neighbor](/neighbor)：隣人、近くの人
-- [area](/area)：地域、区域
+- [neighbor](/word/neighbor)：隣人、近くの人
+- [area](/word/area)：地域、区域
 
 ---
 
 ## 📖 できればこれも
 
-- [nearby](/nearby)：近くの
-- [adjacent](/adjacent)：隣接した
+- [nearby](/word/nearby)：近くの
+- [adjacent](/word/adjacent)：隣接した
 
 <!-- cvid: aid29_bid33 -->

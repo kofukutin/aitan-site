@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や社内規定、報告書などで登場し
 ## 🤔  responsibility との違いは？
 
 - **accountability**：自分の行動や決定について他者に説明する義務や責任
-- **[responsibility](/responsibility)**：任務や義務としての責任、やるべきこと
+- **[responsibility](/word/responsibility)**：任務や義務としての責任、やるべきこと
 
 accountabilityは「説明する責任」、responsibilityは「やるべきことへの責任」と使い分けます。
 
@@ -105,14 +105,14 @@ accountabilityは「説明する責任」、responsibilityは「やるべきこ�
 
 ## 🧩 あわせて覚えたい
 
-- [liability](/liability)：法的責任、負債
-- [transparency](/transparency)：透明性、明確さ
+- [liability](/word/liability)：法的責任、負債
+- [transparency](/word/transparency)：透明性、明確さ
 
 ---
 
 ## 📖 できればこれも
 
-- [compliance](/compliance)：法令順守
-- [integrity](/integrity)：誠実さ、高潔さ
+- [compliance](/word/compliance)：法令順守
+- [integrity](/word/integrity)：誠実さ、高潔さ
 
 <!-- cvid: aid10_bid02 -->

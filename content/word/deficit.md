@@ -97,7 +97,7 @@ TOEICでは主にビジネスや経済関連の長文で「赤字」や「不足
 ## 🤔  shortage との違いは？
 
 - **deficit**：主に財務や数量で「赤字」「不足額」として使われるフォーマルな表現
-- **[shortage](/shortage)**：物資や人手など「不足」全般に使われるややカジュアルな表現
+- **[shortage](/word/shortage)**：物資や人手など「不足」全般に使われるややカジュアルな表現
 
 deficitは特にお金や数量の「赤字・不足額」に限定されるのに対し、shortageは物や人など幅広い「不足」に使われます。
 
@@ -105,14 +105,14 @@ deficitは特にお金や数量の「赤字・不足額」に限定されるの�
 
 ## 🧩 あわせて覚えたい
 
-- [surplus](/surplus)：黒字、余剰
-- [debt](/debt)：借金、負債
+- [surplus](/word/surplus)：黒字、余剰
+- [debt](/word/debt)：借金、負債
 
 ---
 
 ## 📖 できればこれも
 
-- [revenue](/revenue)：収益
-- [expense](/expense)：費用
+- [revenue](/word/revenue)：収益
+- [expense](/word/expense)：費用
 
 <!-- cvid: aid22_bid34 -->

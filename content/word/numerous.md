@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文やビジネス文書で「多数の」「多く
 ## 🤔  many との違いは？
 
 - **numerous**：非常に多いことをややフォーマルに強調する表現
-- **[many](/many)**：一般的に「多くの」と幅広く使えるカジュアルな表現
+- **[many](/word/many)**：一般的に「多くの」と幅広く使えるカジュアルな表現
 
 numerousは書き言葉やフォーマルな場面で「非常に多い」と強調したいときに使い、manyは日常会話など幅広い場面で使います。
 
@@ -105,14 +105,14 @@ numerousは書き言葉やフォーマルな場面で「非常に多い」と強
 
 ## 🧩 あわせて覚えたい
 
-- [several](/several)：いくつかの
-- [countless](/countless)：数えきれないほど多い
+- [several](/word/several)：いくつかの
+- [countless](/word/countless)：数えきれないほど多い
 
 ---
 
 ## 📖 できればこれも
 
-- [various](/various)：さまざまな
-- [multiple](/multiple)：複数の
+- [various](/word/various)：さまざまな
+- [multiple](/word/multiple)：複数の
 
 <!-- cvid: aid21_bid36 -->

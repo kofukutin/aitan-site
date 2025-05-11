@@ -97,7 +97,7 @@ TOEICでは、アメリカのビジネスや行政に関する説明文やお知
 ## 🤔  nationwide との違いは？
 
 - **statewide**：州全体の、州全域で
-- **[nationwide](/nationwide)**：全国的な、全国で
+- **[nationwide](/word/nationwide)**：全国的な、全国で
 
 statewideは「州」という行政単位全体を指し、nationwideは「国全体」を指します。アメリカなど州制度のある国で特に使い分けられます。
 
@@ -105,14 +105,14 @@ statewideは「州」という行政単位全体を指し、nationwideは「国�
 
 ## 🧩 あわせて覚えたい
 
-- [regional](/regional)：地域の、地方の
-- [local](/local)：地元の、地域の
+- [regional](/word/regional)：地域の、地方の
+- [local](/word/local)：地元の、地域の
 
 ---
 
 ## 📖 できればこれも
 
-- [federal](/federal)：連邦の、連邦政府の
-- [municipal](/municipal)：市の、自治体の
+- [federal](/word/federal)：連邦の、連邦政府の
+- [municipal](/word/municipal)：市の、自治体の
 
 <!-- cvid: aid23_bid08 -->

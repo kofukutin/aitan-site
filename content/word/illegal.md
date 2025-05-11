@@ -97,7 +97,7 @@ TOEICでは、契約や規則、法的な話題で「illegal」が形容詞と�
 ## 🤔  unlawful との違いは？
 
 - **illegal**：法律で明確に禁止されていることに使う
-- **[unlawful](/unlawful)**：法律や規則に反しているが、必ずしも刑事罰の対象とは限らない
+- **[unlawful](/word/unlawful)**：法律や規則に反しているが、必ずしも刑事罰の対象とは限らない
 
 「illegal」は刑事罰や明確な法的禁止に重点があり、「unlawful」はより広く「法に反する」行為全般に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、契約や規則、法的な話題で「illegal」が形容詞と�
 
 ## 🧩 あわせて覚えたい
 
-- [legal](/legal)：合法の、法律にかなった
-- [prohibited](/prohibited)：禁止された
+- [legal](/word/legal)：合法の、法律にかなった
+- [prohibited](/word/prohibited)：禁止された
 
 ---
 
 ## 📖 できればこれも
 
-- [legitimate](/legitimate)：正当な、合法の
-- [ban](/ban)：禁止する
+- [legitimate](/word/legitimate)：正当な、合法の
+- [ban](/word/ban)：禁止する
 
 <!-- cvid: aid23_bid47 -->

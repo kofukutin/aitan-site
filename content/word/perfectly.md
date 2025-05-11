@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「完全に」「問題なく」という意味
 ## 🤔  exactly との違いは？
 
 - **perfectly**：欠点なく、理想的に、完全に
-- **[exactly](/exactly)**：正確に、ぴったりと
+- **[exactly](/word/exactly)**：正確に、ぴったりと
 
 「perfectly」は「理想的な状態」「欠点がない」ことを強調し、「exactly」は「数値や事実がぴったり一致する」ことを強調します。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「完全に」「問題なく」という意味
 
 ## 🧩 あわせて覚えたい
 
-- [completely](/completely)：完全に、すっかり
-- [flawless](/flawless)：欠点のない、完璧な
+- [completely](/word/completely)：完全に、すっかり
+- [flawless](/word/flawless)：欠点のない、完璧な
 
 ---
 
 ## 📖 できればこれも
 
-- [absolutely](/absolutely)：まったく、完全に
-- [precisely](/precisely)：正確に、ちょうど
+- [absolutely](/word/absolutely)：まったく、完全に
+- [precisely](/word/precisely)：正確に、ちょうど
 
 <!-- cvid: aid11_bid18 -->

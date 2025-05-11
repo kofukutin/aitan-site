@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、服装や身だしなみを説明す
 ## 🤔  tights との違いは？
 
 - **pantyhose**：主にアメリカ英語で使われる、薄手で透け感のあるパンティストッキング。
-- **[tights](/tights)**：主にイギリス英語で使われ、厚手のものやカラフルなものも含む。
+- **[tights](/word/tights)**：主にイギリス英語で使われ、厚手のものやカラフルなものも含む。
 
 pantyhoseは薄手でフォーマルな場面向き、tightsは厚手でカジュアルや防寒にも使われます。
 
@@ -105,14 +105,14 @@ pantyhoseは薄手でフォーマルな場面向き、tightsは厚手でカジ�
 
 ## 🧩 あわせて覚えたい
 
-- [stocking](/stocking)：ストッキング（太ももまでの長さの薄手の靴下）
-- [leggings](/leggings)：レギンス（足首まである厚手の伸縮性のある衣類）
+- [stocking](/word/stocking)：ストッキング（太ももまでの長さの薄手の靴下）
+- [leggings](/word/leggings)：レギンス（足首まである厚手の伸縮性のある衣類）
 
 ---
 
 ## 📖 できればこれも
 
-- [skirt](/skirt)：スカート
-- [blouse](/blouse)：ブラウス
+- [skirt](/word/skirt)：スカート
+- [blouse](/word/blouse)：ブラウス
 
 <!-- cvid: aid03_bid20 -->

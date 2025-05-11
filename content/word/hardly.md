@@ -94,7 +94,7 @@ TOEICでは否定的な意味を持つ副詞として、文法問題や語彙問
 ## 🤔  rarely との違いは？
 
 - **hardly**：ほとんど～ない（否定的な意味が強く、頻度や程度を強調）
-- **[rarely](/rarely)**：めったに～しない（頻度が非常に低いことを表す）
+- **[rarely](/word/rarely)**：めったに～しない（頻度が非常に低いことを表す）
 
 hardlyは「ほとんど～ない」と程度の低さを強調し、rarelyは「めったに～しない」と頻度の低さを表します。
 
@@ -102,14 +102,14 @@ hardlyは「ほとんど～ない」と程度の低さを強調し、rarelyは�
 
 ## 🧩 あわせて覚えたい
 
-- [barely](/barely)：かろうじて、ほとんど～ない
-- [scarcely](/scarcely)：ほとんど～ない、かろうじて
+- [barely](/word/barely)：かろうじて、ほとんど～ない
+- [scarcely](/word/scarcely)：ほとんど～ない、かろうじて
 
 ---
 
 ## 📖 できればこれも
 
-- [almost](/almost)：ほとんど
-- [frequently](/frequently)：頻繁に
+- [almost](/word/almost)：ほとんど
+- [frequently](/word/frequently)：頻繁に
 
 <!-- cvid: aid21_bid30 -->

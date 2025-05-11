@@ -97,7 +97,7 @@ TOEICでは説明文や技術的な文章で「仕組み」や「機構」を説
 ## 🤔  device との違いは？
 
 - **mechanism**：仕組みや構造、動作の原理に焦点を当てる
-- **[device](/device)**：具体的な道具や装置そのものを指す
+- **[device](/word/device)**：具体的な道具や装置そのものを指す
 
 mechanismは「どう動くか・どう機能するか」という仕組みや原理を表し、deviceは「実際の道具や機器」を指します。
 
@@ -105,14 +105,14 @@ mechanismは「どう動くか・どう機能するか」という仕組みや�
 
 ## 🧩 あわせて覚えたい
 
-- [system](/system)：体系、システム
-- [structure](/structure)：構造、組織
+- [system](/word/system)：体系、システム
+- [structure](/word/structure)：構造、組織
 
 ---
 
 ## 📖 できればこれも
 
-- [function](/function)：機能、働き
-- [component](/component)：構成要素、部品
+- [function](/word/function)：機能、働き
+- [component](/word/component)：構成要素、部品
 
 <!-- cvid: aid18_bid14 -->

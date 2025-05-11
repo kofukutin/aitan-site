@@ -93,7 +93,7 @@ TOEICでは会話や説明文で「ふつうは」「たいてい」と頻度を
 ## 🤔  generally との違いは？
 
 - **usually**：個人や状況において「たいてい」「ふつうは」と頻度を表す。
-- **[generally](/generally)**：広く一般的に「概して」「おおむね」と全体的な傾向を表す。
+- **[generally](/word/generally)**：広く一般的に「概して」「おおむね」と全体的な傾向を表す。
 
 usuallyは個人や具体的なケースでの「ふつう」を、generallyは社会全体や広い範囲での「一般的に」を表します。
 
@@ -101,14 +101,14 @@ usuallyは個人や具体的なケースでの「ふつう」を、generallyは�
 
 ## 🧩 あわせて覚えたい
 
-- [often](/often)：しばしば
-- [rarely](/rarely)：めったに～ない
+- [often](/word/often)：しばしば
+- [rarely](/word/rarely)：めったに～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [sometimes](/sometimes)：ときどき
-- [frequently](/frequently)：頻繁に
+- [sometimes](/word/sometimes)：ときどき
+- [frequently](/word/frequently)：頻繁に
 
 <!-- cvid: aid48_bid46 -->

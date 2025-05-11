@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、山道を歩く人やアウトドア
 ## 🤔  trekking との違いは？
 
 - **hiking**：比較的短時間・気軽な山歩きや自然散策を指す
-- **[trekking](/trekking)**：より長距離・長期間で本格的な山歩きや冒険的な徒歩旅行を指す
+- **[trekking](/word/trekking)**：より長距離・長期間で本格的な山歩きや冒険的な徒歩旅行を指す
 
 hikingは日帰りや軽い装備での散策、trekkingは数日かけて山や自然を歩く冒険的な活動に使われます。
 
@@ -105,14 +105,14 @@ hikingは日帰りや軽い装備での散策、trekkingは数日かけて山や
 
 ## 🧩 あわせて覚えたい
 
-- [climbing](/climbing)：登山、クライミング
-- [walking](/walking)：歩くこと、散歩
+- [climbing](/word/climbing)：登山、クライミング
+- [walking](/word/walking)：歩くこと、散歩
 
 ---
 
 ## 📖 できればこれも
 
-- [picnic](/picnic)：ピクニック、野外での食事
-- [camping](/camping)：キャンプ、野営
+- [picnic](/word/picnic)：ピクニック、野外での食事
+- [camping](/word/camping)：キャンプ、野営
 
 <!-- cvid: aid40_bid21 -->

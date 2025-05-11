@@ -97,7 +97,7 @@ TOEICではPart 7の長文読解で、記事やエピソード紹介の文脈で
 ## 🤔  history との違いは？
 
 - **story**：出来事や想像上の「物語」「話」を指す
-- **[history](/history)**：実際に起きた「歴史」「経歴」を指す
+- **[history](/word/history)**：実際に起きた「歴史」「経歴」を指す
 
 storyはフィクションや個人的なエピソードにも使えますが、historyは事実に基づく過去の出来事に使います。
 
@@ -105,14 +105,14 @@ storyはフィクションや個人的なエピソードにも使えますが、
 
 ## 🧩 あわせて覚えたい
 
-- [tale](/tale)：（伝説やおとぎ話などの）物語
-- [novel](/novel)：小説
+- [tale](/word/tale)：（伝説やおとぎ話などの）物語
+- [novel](/word/novel)：小説
 
 ---
 
 ## 📖 できればこれも
 
-- [article](/article)：記事
-- [report](/report)：報告、レポート
+- [article](/word/article)：記事
+- [report](/word/report)：報告、レポート
 
 <!-- cvid: aid12_bid39 -->

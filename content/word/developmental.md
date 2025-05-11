@@ -97,7 +97,7 @@ TOEICでは、教育や人材育成、子どもの成長に関する長文や説
 ## 🤔  development との違いは？
 
 - **developmental**：発達や発展に関する、発展のための（形容詞）
-- **[development](/development)**：発展、発達、開発（名詞）
+- **[development](/word/development)**：発展、発達、開発（名詞）
 
 「developmental」は「発達に関する」という性質や目的を表す形容詞、「development」はそのもの自体（発展・発達）を指す名詞です。
 
@@ -105,14 +105,14 @@ TOEICでは、教育や人材育成、子どもの成長に関する長文や説
 
 ## 🧩 あわせて覚えたい
 
-- [growth](/growth)：成長、発育
-- [mature](/mature)：成熟した、成長した
+- [growth](/word/growth)：成長、発育
+- [mature](/word/mature)：成熟した、成長した
 
 ---
 
 ## 📖 できればこれも
 
-- [educational](/educational)：教育の、教育的な
-- [instructional](/instructional)：指導の、教育用の
+- [educational](/word/educational)：教育の、教育的な
+- [instructional](/word/instructional)：指導の、教育用の
 
 <!-- cvid: aid01_bid34 -->

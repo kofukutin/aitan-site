@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、花や庭園のシーンでよく登
 ## 🤔  blossom との違いは？
 
 - **flower**：植物の「花」全般や切り花、観賞用の花を指す一般的な単語。
-- **[blossom](/blossom)**：特に果樹や木に咲く「花」や「開花」の状態を指す。
+- **[blossom](/word/blossom)**：特に果樹や木に咲く「花」や「開花」の状態を指す。
 
 flowerは日常的な「花」全般、blossomは開花や果樹の花など特定の場面で使い分けます。
 
@@ -105,14 +105,14 @@ flowerは日常的な「花」全般、blossomは開花や果樹の花など特�
 
 ## 🧩 あわせて覚えたい
 
-- [plant](/plant)：植物
-- [petal](/petal)：花びら
+- [plant](/word/plant)：植物
+- [petal](/word/petal)：花びら
 
 ---
 
 ## 📖 できればこれも
 
-- [leaf](/leaf)：葉
-- [tree](/tree)：木
+- [leaf](/word/leaf)：葉
+- [tree](/word/tree)：木
 
 <!-- cvid: aid31_bid33 -->

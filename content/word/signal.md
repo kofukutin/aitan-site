@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「合図」「信号」として使われるこ
 ## 🤔  sign との違いは？
 
 - **signal**：意図的に何かを伝えるための合図や信号
-- **[sign](/sign)**：一般的なしるしや標識、兆候
+- **[sign](/word/sign)**：一般的なしるしや標識、兆候
 
 signalは「動作や装置で伝える合図」、signは「目に見えるしるしやサイン」として使い分けます。
 
@@ -105,14 +105,14 @@ signalは「動作や装置で伝える合図」、signは「目に見えるし�
 
 ## 🧩 あわせて覚えたい
 
-- [indication](/indication)：兆候、指示
-- [alert](/alert)：警報、注意喚起
+- [indication](/word/indication)：兆候、指示
+- [alert](/word/alert)：警報、注意喚起
 
 ---
 
 ## 📖 できればこれも
 
-- [message](/message)：伝言、メッセージ
-- [notice](/notice)：通知、お知らせ
+- [message](/word/message)：伝言、メッセージ
+- [notice](/word/notice)：通知、お知らせ
 
 <!-- cvid: aid18_bid37 -->

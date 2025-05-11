@@ -97,7 +97,7 @@ TOEICでは、衣類や素材に関する説明文や広告で見かけること
 ## 🤔  nylon との違いは？
 
 - **polyester**：主に衣類や布製品に使われる合成繊維で、しわになりにくく乾きやすい特徴がある。
-- **[nylon](/nylon)**：耐久性や伸縮性に優れた合成繊維で、ストッキングやロープなどにも使われる。
+- **[nylon](/word/nylon)**：耐久性や伸縮性に優れた合成繊維で、ストッキングやロープなどにも使われる。
 
 polyesterはしわになりにくさや速乾性が特徴で、nylonは強度や伸縮性が求められる製品に多く使われます。
 
@@ -105,14 +105,14 @@ polyesterはしわになりにくさや速乾性が特徴で、nylonは強度や
 
 ## 🧩 あわせて覚えたい
 
-- [cotton](/cotton)：綿、天然繊維
-- [fabric](/fabric)：布地、織物
+- [cotton](/word/cotton)：綿、天然繊維
+- [fabric](/word/fabric)：布地、織物
 
 ---
 
 ## 📖 できればこれも
 
-- [fiber](/fiber)：繊維
-- [material](/material)：材料、素材
+- [fiber](/word/fiber)：繊維
+- [material](/word/material)：材料、素材
 
 <!-- cvid: aid03_bid34 -->

@@ -97,7 +97,7 @@ TOEICでは観光や地域紹介の記事、案内文などで登場すること
 ## 🤔  town との違いは？
 
 - **village**：都市や町よりも小さく、田舎の「村」を指す。
-- **[town](/town)**：villageより大きく、cityより小さい「町」を指す。
+- **[town](/word/town)**：villageより大きく、cityより小さい「町」を指す。
 
 villageは人口が少なく自然が多い場所、townは商業施設や公共サービスがあるやや大きめの集落を指します。
 
@@ -105,14 +105,14 @@ villageは人口が少なく自然が多い場所、townは商業施設や公共
 
 ## 🧩 あわせて覚えたい
 
-- [city](/city)：都市、大都市
-- [countryside](/countryside)：田舎、農村地帯
+- [city](/word/city)：都市、大都市
+- [countryside](/word/countryside)：田舎、農村地帯
 
 ---
 
 ## 📖 できればこれも
 
-- [neighbor](/neighbor)：隣人、近所の人
-- [community](/community)：地域社会、共同体
+- [neighbor](/word/neighbor)：隣人、近所の人
+- [community](/word/community)：地域社会、共同体
 
 <!-- cvid: aid45_bid37 -->

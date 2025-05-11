@@ -98,7 +98,7 @@ TOEICでは契約やサービスの説明、保証内容の記述などでよく
 ## 🤔  assure との違いは？
 
 - **guarantee**：結果や約束を「確実に守る」と強く保証するニュアンス
-- **[assure](/assure)**：相手の不安を和らげるために「安心させる」ときに使う
+- **[assure](/word/assure)**：相手の不安を和らげるために「安心させる」ときに使う
 
 guaranteeは「実際の結果や返金などを約束」する時に使い、assureは「気持ちを安心させる」時に使います。
 
@@ -106,14 +106,14 @@ guaranteeは「実際の結果や返金などを約束」する時に使い、as
 
 ## 🧩 あわせて覚えたい
 
-- [warranty](/warranty)：保証書、製品保証
-- [promise](/promise)：約束する
+- [warranty](/word/warranty)：保証書、製品保証
+- [promise](/word/promise)：約束する
 
 ---
 
 ## 📖 できればこれも
 
-- [ensure](/ensure)：確実にする
-- [confirm](/confirm)：確認する
+- [ensure](/word/ensure)：確実にする
+- [confirm](/word/confirm)：確認する
 
 <!-- cvid: aid10_bid18 -->

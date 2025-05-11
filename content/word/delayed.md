@@ -97,7 +97,7 @@ TOEICでは、交通機関や会議、納品の遅れなど、ビジネスシー
 ## 🤔  postponed との違いは？
 
 - **delayed**：予定より遅れている、進行中のものが遅延している
-- **[postponed](/postponed)**：予定そのものを後日に変更した
+- **[postponed](/word/postponed)**：予定そのものを後日に変更した
 
 delayedは「すでに始まっているものが遅れる」場合に使い、postponedは「予定自体を後ろにずらす」場合に使います。
 
@@ -105,14 +105,14 @@ delayedは「すでに始まっているものが遅れる」場合に使い、p
 
 ## 🧩 あわせて覚えたい
 
-- [canceled](/canceled)：中止された
-- [rescheduled](/rescheduled)：再調整された、予定変更された
+- [canceled](/word/canceled)：中止された
+- [rescheduled](/word/rescheduled)：再調整された、予定変更された
 
 ---
 
 ## 📖 できればこれも
 
-- [late](/late)：遅い、遅れて
-- [pending](/pending)：未決定の、保留中の
+- [late](/word/late)：遅い、遅れて
+- [pending](/word/pending)：未決定の、保留中の
 
 <!-- cvid: aid11_bid05 -->

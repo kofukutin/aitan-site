@@ -96,7 +96,7 @@ TOEICでは経済やビジネスの話題で、景気や業績の変化を説明
 ## 🤔  recession との違いは？
 
 - **downturn**：景気や業績などが下向きになること。期間や規模は限定されない。
-- **[recession](/recession)**：景気後退。経済全体が長期間にわたり悪化すること。
+- **[recession](/word/recession)**：景気後退。経済全体が長期間にわたり悪化すること。
 
 downturnは一時的・部分的な下落も含みますが、recessionはより深刻で長期的な経済の後退を指します。
 
@@ -104,14 +104,14 @@ downturnは一時的・部分的な下落も含みますが、recessionはより
 
 ## 🧩 あわせて覚えたい
 
-- [slump](/slump)：不景気、急激な落ち込み
-- [boom](/boom)：好景気、急成長
+- [slump](/word/slump)：不景気、急激な落ち込み
+- [boom](/word/boom)：好景気、急成長
 
 ---
 
 ## 📖 できればこれも
 
-- [decline](/decline)：減少、下落
-- [recovery](/recovery)：回復
+- [decline](/word/decline)：減少、下落
+- [recovery](/word/recovery)：回復
 
 <!-- cvid: aid46_bid38 -->

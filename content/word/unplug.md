@@ -97,7 +97,7 @@ TOEICでは、オフィスや家庭での機器の取り扱いに関する会話
 ## 🤔  disconnect との違いは？
 
 - **unplug**：物理的にプラグを抜く、電源を切る
-- **[disconnect](/disconnect)**：接続を切る（物理・ネットワーク両方に使える）
+- **[disconnect](/word/disconnect)**：接続を切る（物理・ネットワーク両方に使える）
 
 unplugは主にコンセントや電源コードなど「物理的な接続」を外す場合に使い、disconnectはネットワークやシステムなど「広い意味での接続解除」にも使えます。
 
@@ -105,14 +105,14 @@ unplugは主にコンセントや電源コードなど「物理的な接続」�
 
 ## 🧩 あわせて覚えたい
 
-- [plug](/plug)：プラグ、差し込む
-- [connect](/connect)：つなぐ、接続する
+- [plug](/word/plug)：プラグ、差し込む
+- [connect](/word/connect)：つなぐ、接続する
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/install)：インストールする、設置する
-- [restart](/restart)：再起動する
+- [install](/word/install)：インストールする、設置する
+- [restart](/word/restart)：再起動する
 
 <!-- cvid: aid29_bid13 -->

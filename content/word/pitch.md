@@ -97,7 +97,7 @@ TOEICでは、プレゼンや営業の場面で「pitch」が「売り込み」�
 ## 🤔  proposal との違いは？
 
 - **pitch**：短く簡潔に売り込む提案やプレゼン
-- **[proposal](/proposal)**：正式な文書や計画としての提案
+- **[proposal](/word/proposal)**：正式な文書や計画としての提案
 
 pitchは口頭や短時間で行う売り込みに使われ、proposalは書類や詳細な計画として提出する提案に使われます。
 
@@ -105,14 +105,14 @@ pitchは口頭や短時間で行う売り込みに使われ、proposalは書類�
 
 ## 🧩 あわせて覚えたい
 
-- [presentation](/presentation)：発表、プレゼンテーション
-- [offer](/offer)：申し出、提案
+- [presentation](/word/presentation)：発表、プレゼンテーション
+- [offer](/word/offer)：申し出、提案
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/plan)：計画
-- [idea](/idea)：アイデア、考え
+- [plan](/word/plan)：計画
+- [idea](/word/idea)：アイデア、考え
 
 <!-- cvid: aid19_bid33 -->

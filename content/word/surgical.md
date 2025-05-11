@@ -97,7 +97,7 @@ The hospital has advanced surgical equipment.
 ## 🤔  medical との違いは？
 
 - **surgical**：外科や手術に直接関係することを表す
-- **[medical](/medical)**：医療全般や医学に関することを広く表す
+- **[medical](/word/medical)**：医療全般や医学に関することを広く表す
 
 surgicalは「外科的な」「手術の」と限定的に使い、medicalは「医療の」「医学の」とより広い意味で使われます。
 
@@ -105,14 +105,14 @@ surgicalは「外科的な」「手術の」と限定的に使い、medicalは�
 
 ## 🧩 あわせて覚えたい
 
-- [operation](/operation)：手術
-- [clinical](/clinical)：臨床の、診療の
+- [operation](/word/operation)：手術
+- [clinical](/word/clinical)：臨床の、診療の
 
 ---
 
 ## 📖 できればこれも
 
-- [therapy](/therapy)：治療、療法
-- [procedure](/procedure)：手順、処置
+- [therapy](/word/therapy)：治療、療法
+- [procedure](/word/procedure)：手順、処置
 
 <!-- cvid: aid36_bid11 -->

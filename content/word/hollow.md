@@ -97,7 +97,7 @@ TOEICでは、物理的な「空洞」や比喩的な「うわべだけ」の意
 ## 🤔  empty との違いは？
 
 - **hollow**：中が空洞で、外側だけが残っている状態や、うわべだけの意味もある
-- **[empty](/empty)**：中身がまったくない、何も入っていない状態
+- **[empty](/word/empty)**：中身がまったくない、何も入っていない状態
 
 hollowは「中が抜けている」ことに重点があり、emptyは「何も入っていない」ことに重点があります。hollowは物の構造や感情表現にも使われます。
 
@@ -105,14 +105,14 @@ hollowは「中が抜けている」ことに重点があり、emptyは「何も
 
 ## 🧩 あわせて覚えたい
 
-- [solid](/solid)：固体の、しっかりした
-- [vacant](/vacant)：空いている、使用されていない
+- [solid](/word/solid)：固体の、しっかりした
+- [vacant](/word/vacant)：空いている、使用されていない
 
 ---
 
 ## 📖 できればこれも
 
-- [shallow](/shallow)：浅い
-- [deep](/deep)：深い
+- [shallow](/word/shallow)：浅い
+- [deep](/word/deep)：深い
 
 <!-- cvid: aid21_bid12 -->

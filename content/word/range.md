@@ -98,7 +98,7 @@ TOEICでは、商品の種類やサービスの幅、価格帯など「範囲」
 ## 🤔  scope との違いは？
 
 - **range**：数量や種類、距離などの「広がり」や「幅」を表す
-- **[scope](/scope)**：活動や責任、調査などの「範囲」「領域」を表す
+- **[scope](/word/scope)**：活動や責任、調査などの「範囲」「領域」を表す
 
 「range」は物理的・数量的な広がり、「scope」は抽象的な活動や責任の範囲に使うことが多いです。
 
@@ -106,14 +106,14 @@ TOEICでは、商品の種類やサービスの幅、価格帯など「範囲」
 
 ## 🧩 あわせて覚えたい
 
-- [variety](/variety)：多様性、種類
-- [limit](/limit)：限界、制限
+- [variety](/word/variety)：多様性、種類
+- [limit](/word/limit)：限界、制限
 
 ---
 
 ## 📖 できればこれも
 
-- [area](/area)：区域、分野
-- [extent](/extent)：範囲、程度
+- [area](/word/area)：区域、分野
+- [extent](/word/extent)：範囲、程度
 
 <!-- cvid: aid18_bid11 -->

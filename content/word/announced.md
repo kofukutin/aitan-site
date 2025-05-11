@@ -97,7 +97,7 @@ TOEICでは会議やビジネスの場面で「発表する」「告知する」
 ## 🤔  informed との違いは？
 
 - **announced**：公式に広く発表する、告知する
-- **[informed](/informed)**：個別に知らせる、情報を伝える
+- **[informed](/word/informed)**：個別に知らせる、情報を伝える
 
 announcedは多くの人に向けて公式に発表する場合に使い、informedは特定の相手に情報を伝えるときに使います。
 
@@ -105,14 +105,14 @@ announcedは多くの人に向けて公式に発表する場合に使い、infor
 
 ## 🧩 あわせて覚えたい
 
-- [declare](/declare)：宣言する、公表する
-- [notify](/notify)：通知する、知らせる
+- [declare](/word/declare)：宣言する、公表する
+- [notify](/word/notify)：通知する、知らせる
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/confirm)：確認する、確かめる
-- [report](/report)：報告する、伝える
+- [confirm](/word/confirm)：確認する、確かめる
+- [report](/word/report)：報告する、伝える
 
 <!-- cvid: aid30_bid37 -->

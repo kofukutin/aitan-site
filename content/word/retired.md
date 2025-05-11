@@ -97,7 +97,7 @@ TOEICでは、人物紹介や経歴説明、福利厚生に関する文脈でよ
 ## 🤔  resigned との違いは？
 
 - **retired**：定年や長年の勤務の後に「引退した」「退職した」という意味で使う。
-- **[resigned](/resigned)**：自分の意思や事情で「辞職した」「辞任した」という意味。
+- **[resigned](/word/resigned)**：自分の意思や事情で「辞職した」「辞任した」という意味。
 
 「retired」は年齢や勤続年数による自然な退職、「resigned」は自分の意思や理由による辞職を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、人物紹介や経歴説明、福利厚生に関する文脈でよ
 
 ## 🧩 あわせて覚えたい
 
-- [pension](/pension)：年金
-- [unemployed](/unemployed)：失業中の
+- [pension](/word/pension)：年金
+- [unemployed](/word/unemployed)：失業中の
 
 ---
 
 ## 📖 できればこれも
 
-- [former](/former)：前の、かつての
-- [experienced](/experienced)：経験豊富な
+- [former](/word/former)：前の、かつての
+- [experienced](/word/experienced)：経験豊富な
 
 <!-- cvid: aid28_bid01 -->

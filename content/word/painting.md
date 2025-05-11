@@ -97,7 +97,7 @@ TOEICのPart 1（写真描写）で、絵画や壁の装飾を説明する場面
 ## 🤔  picture との違いは？
 
 - **painting**：絵の具やペンキで描かれた「絵画」や「塗装」を指す
-- **[picture](/picture)**：写真・絵・イラストなど「画像」全般を指す
+- **[picture](/word/picture)**：写真・絵・イラストなど「画像」全般を指す
 
 **painting**は「絵の具で描かれた芸術作品」に限定されることが多いですが、**picture**は写真やイラストなど幅広い「画像・絵」を指します。
 
@@ -105,14 +105,14 @@ TOEICのPart 1（写真描写）で、絵画や壁の装飾を説明する場面
 
 ## 🧩 あわせて覚えたい
 
-- [drawing](/drawing)：線画、デッサン
-- [sculpture](/sculpture)：彫刻
+- [drawing](/word/drawing)：線画、デッサン
+- [sculpture](/word/sculpture)：彫刻
 
 ---
 
 ## 📖 できればこれも
 
-- [artist](/artist)：芸術家
-- [gallery](/gallery)：美術館、画廊
+- [artist](/word/artist)：芸術家
+- [gallery](/word/gallery)：美術館、画廊
 
 <!-- cvid: aid17_bid22 -->

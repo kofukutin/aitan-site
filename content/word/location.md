@@ -97,7 +97,7 @@ TOEICでは、オフィスや店舗の「場所」や「所在地」に関する
 ## 🤔  site との違いは？
 
 - **location**：一般的な「場所」や「位置」を指す
-- **[site](/site)**：建設現場や特定の用途の「用地」を指すことが多い
+- **[site](/word/site)**：建設現場や特定の用途の「用地」を指すことが多い
 
 locationは広く「場所」を表し、siteは「建設現場」や「特定目的の敷地」に限定されることが多いです。
 
@@ -105,14 +105,14 @@ locationは広く「場所」を表し、siteは「建設現場」や「特定�
 
 ## 🧩 あわせて覚えたい
 
-- [venue](/venue)：（イベントなどの）会場
-- [address](/address)：住所
+- [venue](/word/venue)：（イベントなどの）会場
+- [address](/word/address)：住所
 
 ---
 
 ## 📖 できればこれも
 
-- [area](/area)：区域、地域
-- [position](/position)：位置、場所
+- [area](/word/area)：区域、地域
+- [position](/word/position)：位置、場所
 
 <!-- cvid: aid40_bid26 -->

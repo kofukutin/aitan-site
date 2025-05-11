@@ -97,7 +97,7 @@ TOEICでは電話対応や会議の出欠、予約状況など「利用できな
 ## 🤔  absent との違いは？
 
 - **unavailable**：利用できない、応対できない（理由は不明な場合も多い）
-- **[absent](/absent)**：物理的にその場にいない、不在
+- **[absent](/word/absent)**：物理的にその場にいない、不在
 
 unavailable は「応答できない」「使えない」など幅広い状況で使われ、absent は「その場にいない」ことを強調します。
 
@@ -105,14 +105,14 @@ unavailable は「応答できない」「使えない」など幅広い状況�
 
 ## 🧩 あわせて覚えたい
 
-- [accessible](/accessible)：利用できる、アクセスできる
-- [vacant](/vacant)：空いている、空席の
+- [accessible](/word/accessible)：利用できる、アクセスできる
+- [vacant](/word/vacant)：空いている、空席の
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/available)：利用できる、手が空いている
-- [occupied](/occupied)：使用中の、ふさがっている
+- [available](/word/available)：利用できる、手が空いている
+- [occupied](/word/occupied)：使用中の、ふさがっている
 
 <!-- cvid: aid21_bid09 -->

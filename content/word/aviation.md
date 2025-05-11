@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文や記事、業界説明などで「航空業界
 ## 🤔  aerospace との違いは？
 
 - **aviation**：飛行機や航空機による飛行、航空業界全般を指す
-- **[aerospace](/aerospace)**：航空（大気圏内）と宇宙（大気圏外）を含む広い分野
+- **[aerospace](/word/aerospace)**：航空（大気圏内）と宇宙（大気圏外）を含む広い分野
 
 aviationは「飛行機や航空機」に限定されるのに対し、aerospaceは宇宙開発も含むより広い分野を指します。
 
@@ -105,14 +105,14 @@ aviationは「飛行機や航空機」に限定されるのに対し、aerospace
 
 ## 🧩 あわせて覚えたい
 
-- [airline](/airline)：航空会社
-- [pilot](/pilot)：パイロット、操縦士
+- [airline](/word/airline)：航空会社
+- [pilot](/word/pilot)：パイロット、操縦士
 
 ---
 
 ## 📖 できればこれも
 
-- [navigation](/navigation)：航行、ナビゲーション
-- [airport](/airport)：空港
+- [navigation](/word/navigation)：航行、ナビゲーション
+- [airport](/word/airport)：空港
 
 <!-- cvid: aid21_bid37 -->

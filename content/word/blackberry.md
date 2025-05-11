@@ -97,7 +97,7 @@ TOEICでは、観光や食事、自然に関する長文や広告、メニュー
 ## 🤔  raspberry との違いは？
 
 - **blackberry**：黒紫色で甘酸っぱい果実。粒が大きめで、やや固めの食感。
-- **[raspberry](/raspberry)**：赤色でやや酸味が強い果実。粒が細かく、柔らかい食感。
+- **[raspberry](/word/raspberry)**：赤色でやや酸味が強い果実。粒が細かく、柔らかい食感。
 
 blackberryは黒くて大きめ、raspberryは赤くて小粒で酸味が強いという違いがあります。
 
@@ -105,14 +105,14 @@ blackberryは黒くて大きめ、raspberryは赤くて小粒で酸味が強い�
 
 ## 🧩 あわせて覚えたい
 
-- [blueberry](/blueberry)：ブルーベリー（青紫色の小さな果実）
-- [strawberry](/strawberry)：イチゴ（赤くて甘い果実）
+- [blueberry](/word/blueberry)：ブルーベリー（青紫色の小さな果実）
+- [strawberry](/word/strawberry)：イチゴ（赤くて甘い果実）
 
 ---
 
 ## 📖 できればこれも
 
-- [grape](/grape)：ブドウ
-- [cherry](/cherry)：サクランボ
+- [grape](/word/grape)：ブドウ
+- [cherry](/word/cherry)：サクランボ
 
 <!-- cvid: aid35_bid21 -->

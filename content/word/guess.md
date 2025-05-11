@@ -98,7 +98,7 @@ TOEICでは、会話の中で「推測する」「当てる」という意味で
 ## 🤔  estimate との違いは？
 
 - **guess**：根拠がほとんどない直感的な推測
-- **[estimate](/estimate)**：ある程度の根拠やデータに基づいた見積もり・推定
+- **[estimate](/word/estimate)**：ある程度の根拠やデータに基づいた見積もり・推定
 
 guessは「当てずっぽう」に近く、estimateは「計算や情報をもとにした推定」という違いがあります。
 
@@ -106,14 +106,14 @@ guessは「当てずっぽう」に近く、estimateは「計算や情報をも�
 
 ## 🧩 あわせて覚えたい
 
-- [suppose](/suppose)：仮定する、思う
-- [assume](/assume)：仮定する、当然と思う
+- [suppose](/word/suppose)：仮定する、思う
+- [assume](/word/assume)：仮定する、当然と思う
 
 ---
 
 ## 📖 できればこれも
 
-- [predict](/predict)：予測する
-- [think](/think)：考える
+- [predict](/word/predict)：予測する
+- [think](/word/think)：考える
 
 <!-- cvid: aid41_bid48 -->

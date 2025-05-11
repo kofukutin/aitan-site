@@ -98,7 +98,7 @@ TOEICでは災害や社会問題、動物保護などの記事や案内文で出
 ## 🤔  refuge との違いは？
 
 - **shelter**：物理的な「避難所」や「保護」を幅広く指す
-- **[refuge](/refuge)**：危険や困難から逃れる「安全な場所」や「心の拠り所」
+- **[refuge](/word/refuge)**：危険や困難から逃れる「安全な場所」や「心の拠り所」
 
 shelterは実際の建物や場所を指すことが多く、refugeは精神的な安心や逃げ場の意味合いが強いです。
 
@@ -106,14 +106,14 @@ shelterは実際の建物や場所を指すことが多く、refugeは精神的�
 
 ## 🧩 あわせて覚えたい
 
-- [protection](/protection)：保護、防御
-- [cover](/cover)：覆い、カバー
+- [protection](/word/protection)：保護、防御
+- [cover](/word/cover)：覆い、カバー
 
 ---
 
 ## 📖 できればこれも
 
-- [safety](/safety)：安全
-- [rescue](/rescue)：救助
+- [safety](/word/safety)：安全
+- [rescue](/word/rescue)：救助
 
 <!-- cvid: aid01_bid06 -->

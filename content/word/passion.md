@@ -97,7 +97,7 @@ TOEICではPart 7の長文やメール文、スピーチ文などで「熱意」
 ## 🤔  enthusiasm との違いは？
 
 - **passion**：強い感情や夢中になる気持ちを表し、時に感情的な熱さを含む
-- **[enthusiasm](/enthusiasm)**：前向きな興味や積極性を表し、passionよりもやや理性的・穏やかな印象
+- **[enthusiasm](/word/enthusiasm)**：前向きな興味や積極性を表し、passionよりもやや理性的・穏やかな印象
 
 passionは「燃えるような情熱」、enthusiasmは「前向きなやる気・好奇心」といったニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ passionは「燃えるような情熱」、enthusiasmは「前向きなやる気
 
 ## 🧩 あわせて覚えたい
 
-- [interest](/interest)：興味
-- [devotion](/devotion)：献身、深い愛情
+- [interest](/word/interest)：興味
+- [devotion](/word/devotion)：献身、深い愛情
 
 ---
 
 ## 📖 できればこれも
 
-- [motivation](/motivation)：動機、やる気
-- [goal](/goal)：目標
+- [motivation](/word/motivation)：動機、やる気
+- [goal](/word/goal)：目標
 
 <!-- cvid: aid05_bid33 -->

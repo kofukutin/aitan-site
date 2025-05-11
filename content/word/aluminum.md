@@ -96,7 +96,7 @@ TOEICでは工場や製造、建築などの場面で素材として登場する
 ## 🤔  metal との違いは？
 
 - **aluminum**：アルミニウムという特定の金属元素を指す
-- **[metal](/metal)**：金属全般を指す一般的な言葉
+- **[metal](/word/metal)**：金属全般を指す一般的な言葉
 
 aluminumは「アルミニウム」という特定の金属を指し、metalは鉄や銅なども含む広い意味で使われます。
 
@@ -104,14 +104,14 @@ aluminumは「アルミニウム」という特定の金属を指し、metalは�
 
 ## 🧩 あわせて覚えたい
 
-- [copper](/copper)：銅（金属元素）
-- [plastic](/plastic)：プラスチック（合成樹脂）
+- [copper](/word/copper)：銅（金属元素）
+- [plastic](/word/plastic)：プラスチック（合成樹脂）
 
 ---
 
 ## 📖 できればこれも
 
-- [iron](/iron)：鉄（金属元素）
-- [material](/material)：材料、素材
+- [iron](/word/iron)：鉄（金属元素）
+- [material](/word/material)：材料、素材
 
 <!-- cvid: aid05_bid31 -->

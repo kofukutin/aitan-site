@@ -97,7 +97,7 @@ TOEICでは、商品説明やカタログ、広告文などで「pendant」が�
 ## 🤔  necklace との違いは？
 
 - **pendant**：ネックレスなどにぶら下げる飾りそのものを指す。
-- **[necklace](/necklace)**：首にかけるチェーンやひも全体（ペンダント部分を含むこともある）を指す。
+- **[necklace](/word/necklace)**：首にかけるチェーンやひも全体（ペンダント部分を含むこともある）を指す。
 
 pendantは「飾り部分」、necklaceは「首飾り全体」を指すので、使い分けに注意しましょう。
 
@@ -105,14 +105,14 @@ pendantは「飾り部分」、necklaceは「首飾り全体」を指すので�
 
 ## 🧩 あわせて覚えたい
 
-- [brooch](/brooch)：ブローチ（衣服につける飾り）
-- [charm](/charm)：チャーム（小さな飾り、アクセサリー）
+- [brooch](/word/brooch)：ブローチ（衣服につける飾り）
+- [charm](/word/charm)：チャーム（小さな飾り、アクセサリー）
 
 ---
 
 ## 📖 できればこれも
 
-- [bracelet](/bracelet)：ブレスレット（腕輪）
-- [ring](/ring)：指輪
+- [bracelet](/word/bracelet)：ブレスレット（腕輪）
+- [ring](/word/ring)：指輪
 
 <!-- cvid: aid22_bid20 -->

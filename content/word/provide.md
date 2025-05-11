@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「提供する」「用意する」という意
 ## 🤔  supply との違いは？
 
 - **provide**：必要なものを「用意して与える」ニュアンスが強い
-- **[supply](/supply)**：物資や商品などを「大量に供給する」イメージ
+- **[supply](/word/supply)**：物資や商品などを「大量に供給する」イメージ
 
 provideは「準備して与える」ことに重点があり、supplyは「物資などを継続的・大量に送る」場面で使われます。
 
@@ -105,14 +105,14 @@ provideは「準備して与える」ことに重点があり、supplyは「物�
 
 ## 🧩 あわせて覚えたい
 
-- [offer](/offer)：申し出る、提供する
-- [grant](/grant)：（公式に）与える、許可する
+- [offer](/word/offer)：申し出る、提供する
+- [grant](/word/grant)：（公式に）与える、許可する
 
 ---
 
 ## 📖 できればこれも
 
-- [prepare](/prepare)：準備する
-- [deliver](/deliver)：配達する、届ける
+- [prepare](/word/prepare)：準備する
+- [deliver](/word/deliver)：配達する、届ける
 
 <!-- cvid: aid00_bid30 -->

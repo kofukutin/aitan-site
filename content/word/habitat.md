@@ -97,7 +97,7 @@ TOEICでは環境問題や生態系に関する長文でよく登場します。
 ## 🤔  environment との違いは？
 
 - **habitat**：特定の生物が自然に生息・生育する場所や環境
-- **[environment](/environment)**：より広い意味での「環境」全般（自然・社会・周囲の状況など）
+- **[environment](/word/environment)**：より広い意味での「環境」全般（自然・社会・周囲の状況など）
 
 habitatは「生き物の住処」に特化し、environmentは「周囲の環境」全体を指します。
 
@@ -105,14 +105,14 @@ habitatは「生き物の住処」に特化し、environmentは「周囲の環�
 
 ## 🧩 あわせて覚えたい
 
-- [ecosystem](/ecosystem)：生態系
-- [dwelling](/dwelling)：住居、住まい
+- [ecosystem](/word/ecosystem)：生態系
+- [dwelling](/word/dwelling)：住居、住まい
 
 ---
 
 ## 📖 できればこれも
 
-- [species](/species)：種（しゅ）、生物種
-- [conservation](/conservation)：保護、保存
+- [species](/word/species)：種（しゅ）、生物種
+- [conservation](/word/conservation)：保護、保存
 
 <!-- cvid: aid23_bid05 -->

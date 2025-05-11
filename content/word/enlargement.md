@@ -97,7 +97,7 @@ TOEICでは、enlargementは主にビジネスや施設の拡張、写真の拡�
 ## 🤔  expansion との違いは？
 
 - **enlargement**：物理的・具体的な「拡大」「拡張」によく使われる。
-- **[expansion](/expansion)**：範囲や規模の「拡大」「発展」など、より抽象的・広範囲な成長にも使われる。
+- **[expansion](/word/expansion)**：範囲や規模の「拡大」「発展」など、より抽象的・広範囲な成長にも使われる。
 
 enlargementは目に見える大きさの変化に、expansionは事業や市場など抽象的な広がりにも使われる点が異なります。
 
@@ -105,14 +105,14 @@ enlargementは目に見える大きさの変化に、expansionは事業や市場
 
 ## 🧩 あわせて覚えたい
 
-- [reduction](/reduction)：縮小、削減
-- [extension](/extension)：延長、拡張
+- [reduction](/word/reduction)：縮小、削減
+- [extension](/word/extension)：延長、拡張
 
 ---
 
 ## 📖 できればこれも
 
-- [increase](/increase)：増加
-- [growth](/growth)：成長、発展
+- [increase](/word/increase)：増加
+- [growth](/word/growth)：成長、発展
 
 <!-- cvid: aid11_bid28 -->

@@ -97,7 +97,7 @@ resetはITやビジネスの設定変更、トラブル対応の会話でよく�
 ## 🤔  restart との違いは？
 
 - **reset**：完全に初期状態に戻す、設定やデータを消去して最初からやり直すニュアンス
-- **[restart](/restart)**：一度止めてから再び動かす、再起動する意味
+- **[restart](/word/restart)**：一度止めてから再び動かす、再起動する意味
 
 resetは「ゼロからやり直す」イメージ、restartは「一時停止して再開する」イメージです。
 
@@ -105,14 +105,14 @@ resetは「ゼロからやり直す」イメージ、restartは「一時停止�
 
 ## 🧩 あわせて覚えたい
 
-- [initialize](/initialize)：初期化する
-- [restore](/restore)：元の状態に戻す
+- [initialize](/word/initialize)：初期化する
+- [restore](/word/restore)：元の状態に戻す
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/update)：更新する
-- [install](/install)：インストールする
+- [update](/word/update)：更新する
+- [install](/word/install)：インストールする
 
 <!-- cvid: aid14_bid27 -->

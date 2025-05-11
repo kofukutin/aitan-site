@@ -97,7 +97,7 @@ TOEICでは科学やビジネスの説明文、レポートなどで「変動」
 ## 🤔  flow との違いは？
 
 - **flux**：絶え間ない変化や流動的な状態を強調するフォーマルな語
-- **[flow](/flow)**：水や空気などの「流れ」や、物事のスムーズな進行を表す一般的な語
+- **[flow](/word/flow)**：水や空気などの「流れ」や、物事のスムーズな進行を表す一般的な語
 
 「flux」は変化や不安定さに焦点があり、「flow」は連続性や滑らかさを表します。
 
@@ -105,14 +105,14 @@ TOEICでは科学やビジネスの説明文、レポートなどで「変動」
 
 ## 🧩 あわせて覚えたい
 
-- [transition](/transition)：移行、変化
-- [stability](/stability)：安定
+- [transition](/word/transition)：移行、変化
+- [stability](/word/stability)：安定
 
 ---
 
 ## 📖 できればこれも
 
-- [phase](/phase)：段階、局面
-- [trend](/trend)：傾向、流行
+- [phase](/word/phase)：段階、局面
+- [trend](/word/trend)：傾向、流行
 
 <!-- cvid: aid08_bid49 -->

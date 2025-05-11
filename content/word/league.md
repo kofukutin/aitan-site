@@ -97,7 +97,7 @@ TOEICでは主にスポーツやビジネスの団体名、組織の説明文な
 ## 🤔  association との違いは？
 
 - **league**：共通の目的で結ばれた団体や連盟、特にスポーツやビジネスで使われることが多い
-- **[association](/association)**：共通の関心や目的を持つ人々の集まり、より広い意味で使われる
+- **[association](/word/association)**：共通の関心や目的を持つ人々の集まり、より広い意味で使われる
 
 leagueは「競技」や「ビジネスの連盟」など組織的な結びつきが強調され、associationは「趣味の会」など幅広い集まりにも使われます。
 
@@ -105,14 +105,14 @@ leagueは「競技」や「ビジネスの連盟」など組織的な結びつ�
 
 ## 🧩 あわせて覚えたい
 
-- [union](/union)：労働組合、連合
-- [division](/division)：部門、区分
+- [union](/word/union)：労働組合、連合
+- [division](/word/division)：部門、区分
 
 ---
 
 ## 📖 できればこれも
 
-- [team](/team)：チーム、団体
-- [group](/group)：グループ、集団
+- [team](/word/team)：チーム、団体
+- [group](/word/group)：グループ、集団
 
 <!-- cvid: aid13_bid22 -->

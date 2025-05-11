@@ -97,7 +97,7 @@ TOEICでは会議や予定調整の場面で「calendar」がよく登場しま�
 ## 🤔  schedule との違いは？
 
 - **calendar**：日付やイベントを一覧できる「カレンダー」や「暦」そのもの
-- **[schedule](/schedule)**：予定や計画を時系列でまとめた「スケジュール」や「予定表」
+- **[schedule](/word/schedule)**：予定や計画を時系列でまとめた「スケジュール」や「予定表」
 
 calendarは日付やイベントの記録・確認に使い、scheduleは具体的な予定や計画の流れを示すときに使います。
 
@@ -105,14 +105,14 @@ calendarは日付やイベントの記録・確認に使い、scheduleは具体�
 
 ## 🧩 あわせて覚えたい
 
-- [appointment](/appointment)：予約、約束
-- [deadline](/deadline)：締め切り
+- [appointment](/word/appointment)：予約、約束
+- [deadline](/word/deadline)：締め切り
 
 ---
 
 ## 📖 できればこれも
 
-- [event](/event)：行事、イベント
-- [plan](/plan)：計画、プラン
+- [event](/word/event)：行事、イベント
+- [plan](/word/plan)：計画、プラン
 
 <!-- cvid: aid17_bid07 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、太陽や照明、物が光ってい
 ## 🤔  glow との違いは？
 
 - **shine**：強くはっきりと光る、外からの光源も含む
-- **[glow](/glow)**：やわらかく内側から発するように光る
+- **[glow](/word/glow)**：やわらかく内側から発するように光る
 
 shineは太陽やライトのように明るく輝く場合に使い、glowは夜光塗料や炭火のようにほのかに光る場合に使います。
 
@@ -105,14 +105,14 @@ shineは太陽やライトのように明るく輝く場合に使い、glowは�
 
 ## 🧩 あわせて覚えたい
 
-- [reflect](/reflect)：反射する
-- [sparkle](/sparkle)：きらきら輝く
+- [reflect](/word/reflect)：反射する
+- [sparkle](/word/sparkle)：きらきら輝く
 
 ---
 
 ## 📖 できればこれも
 
-- [polish](/polish)：磨く
-- [bright](/bright)：明るい
+- [polish](/word/polish)：磨く
+- [bright](/word/bright)：明るい
 
 <!-- cvid: aid27_bid22 -->

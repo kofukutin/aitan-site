@@ -97,7 +97,7 @@ TOEICでは会議や交渉、スポーツの話題で「相手」や「対立者
 ## 🤔  rival との違いは？
 
 - **opponent**：試合や議論などで直接対立する「相手」「敵」
-- **[rival](/rival)**：長期的に競い合う「ライバル」「競争相手」
+- **[rival](/word/rival)**：長期的に競い合う「ライバル」「競争相手」
 
 「opponent」は一時的な対戦相手や敵を指し、「rival」は継続的に競い合う関係を表します。
 
@@ -105,14 +105,14 @@ TOEICでは会議や交渉、スポーツの話題で「相手」や「対立者
 
 ## 🧩 あわせて覚えたい
 
-- [supporter](/supporter)：支持者、応援者
-- [competitor](/competitor)：競争相手、競技者
+- [supporter](/word/supporter)：支持者、応援者
+- [competitor](/word/competitor)：競争相手、競技者
 
 ---
 
 ## 📖 できればこれも
 
-- [debate](/debate)：討論、議論
-- [contest](/contest)：競争、コンテスト
+- [debate](/word/debate)：討論、議論
+- [contest](/word/contest)：競争、コンテスト
 
 <!-- cvid: aid19_bid14 -->

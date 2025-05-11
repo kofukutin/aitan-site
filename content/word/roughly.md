@@ -98,7 +98,7 @@ TOEICでは、数値や期間、金額などを「おおよそ」で示す場面
 ## 🤔  approximately との違いは？
 
 - **roughly**：ざっくり・おおよそ（ややカジュアルで幅が広い）
-- **[approximately](/approximately)**：ほぼ正確に・おおよそ（ややフォーマルで正確さを意識）
+- **[approximately](/word/approximately)**：ほぼ正確に・おおよそ（ややフォーマルで正確さを意識）
 
 roughlyは「ざっくり」「だいたい」といった感覚的な表現、approximatelyは「ほぼ正確に」という印象で、ビジネスや公式な場面で使われやすいです。
 
@@ -106,14 +106,14 @@ roughlyは「ざっくり」「だいたい」といった感覚的な表現、a
 
 ## 🧩 あわせて覚えたい
 
-- [about](/about)：約、おおよそ
-- [nearly](/nearly)：ほとんど、ほぼ
+- [about](/word/about)：約、おおよそ
+- [nearly](/word/nearly)：ほとんど、ほぼ
 
 ---
 
 ## 📖 できればこれも
 
-- [almost](/almost)：ほとんど
-- [mainly](/mainly)：主に
+- [almost](/word/almost)：ほとんど
+- [mainly](/word/mainly)：主に
 
 <!-- cvid: aid33_bid15 -->

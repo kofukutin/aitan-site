@@ -97,7 +97,7 @@ TOEICでは、企業の合併や組織再編、業務の効率化に関する長
 ## 🤔  integration との違いは？
 
 - **consolidation**：複数のものをまとめて強化・安定させること、特に組織や資産の統合に使う
-- **[integration](/integration)**：異なるものを一体化・融合させること、システムや文化の融合にも使う
+- **[integration](/word/integration)**：異なるものを一体化・融合させること、システムや文化の融合にも使う
 
 consolidationは「強化・安定」のニュアンスが強く、integrationは「異質なものの一体化」に重点があります。
 
@@ -105,14 +105,14 @@ consolidationは「強化・安定」のニュアンスが強く、integration�
 
 ## 🧩 あわせて覚えたい
 
-- [merger](/merger)：合併
-- [unification](/unification)：統一、一本化
+- [merger](/word/merger)：合併
+- [unification](/word/unification)：統一、一本化
 
 ---
 
 ## 📖 できればこれも
 
-- [acquisition](/acquisition)：買収
-- [restructuring](/restructuring)：再編成
+- [acquisition](/word/acquisition)：買収
+- [restructuring](/word/restructuring)：再編成
 
 <!-- cvid: aid44_bid20 -->

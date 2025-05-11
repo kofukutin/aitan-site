@@ -98,7 +98,7 @@ TOEICでは、会話やメール文で「うれしい」「満足している」
 ## 🤔  satisfied との違いは？
 
 - **pleased**：うれしい気持ちや満足感をややカジュアルに表現する
-- **[satisfied](/satisfied)**：期待や基準が満たされた「納得」「満足」をややフォーマルに表現する
+- **[satisfied](/word/satisfied)**：期待や基準が満たされた「納得」「満足」をややフォーマルに表現する
 
 「pleased」は感情的な喜びや好意的な気持ちを表し、「satisfied」は要求や条件が満たされたときの冷静な満足感を表します。
 
@@ -106,14 +106,14 @@ TOEICでは、会話やメール文で「うれしい」「満足している」
 
 ## 🧩 あわせて覚えたい
 
-- [delighted](/delighted)：とても喜んでいる
-- [displeased](/displeased)：不満である、腹を立てている
+- [delighted](/word/delighted)：とても喜んでいる
+- [displeased](/word/displeased)：不満である、腹を立てている
 
 ---
 
 ## 📖 できればこれも
 
-- [happy](/happy)：幸せな、うれしい
-- [content](/content)：満ち足りている、満足している
+- [happy](/word/happy)：幸せな、うれしい
+- [content](/word/content)：満ち足りている、満足している
 
 <!-- cvid: aid33_bid05 -->

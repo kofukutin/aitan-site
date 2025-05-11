@@ -97,7 +97,7 @@ TOEICでは、書類や情報のやり取りに関する文脈で「requested」
 ## 🤔  required との違いは？
 
 - **requested**：誰かに「依頼された」「求められた」という意味で、必ずしも義務ではない。
-- **[required](/required)**：義務的に「必要とされる」「必須の」という意味。
+- **[required](/word/required)**：義務的に「必要とされる」「必須の」という意味。
 
 「requested」は依頼や要望に基づくニュアンスがあり、「required」は規則やルールによる必須事項を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、書類や情報のやり取りに関する文脈で「requested」
 
 ## 🧩 あわせて覚えたい
 
-- [optional](/optional)：任意の、選択できる
-- [mandatory](/mandatory)：義務的な、強制の
+- [optional](/word/optional)：任意の、選択できる
+- [mandatory](/word/mandatory)：義務的な、強制の
 
 ---
 
 ## 📖 できればこれも
 
-- [attached](/attached)：添付された
-- [approved](/approved)：承認された
+- [attached](/word/attached)：添付された
+- [approved](/word/approved)：承認された
 
 <!-- cvid: aid27_bid41 -->

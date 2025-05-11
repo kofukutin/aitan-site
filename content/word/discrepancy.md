@@ -96,7 +96,7 @@ TOEICでは主にビジネス文書や報告書の中で、データや記録の
 ## 🤔  inconsistency との違いは？
 
 - **discrepancy**：主に数字や事実、記録などの「客観的な不一致・食い違い」を指す
-- **[inconsistency](/inconsistency)**：言動や態度、論理などの「一貫性のなさ・矛盾」を指す
+- **[inconsistency](/word/inconsistency)**：言動や態度、論理などの「一貫性のなさ・矛盾」を指す
 
 discrepancyは客観的なデータや記録の違いに使い、inconsistencyは考えや行動の一貫性のなさに使います。
 
@@ -104,14 +104,14 @@ discrepancyは客観的なデータや記録の違いに使い、inconsistency�
 
 ## 🧩 あわせて覚えたい
 
-- [conflict](/conflict)：対立、衝突
-- [agreement](/agreement)：一致、合意
+- [conflict](/word/conflict)：対立、衝突
+- [agreement](/word/agreement)：一致、合意
 
 ---
 
 ## 📖 できればこれも
 
-- [deviation](/deviation)：逸脱、ずれ
-- [variance](/variance)：変動、ばらつき
+- [deviation](/word/deviation)：逸脱、ずれ
+- [variance](/word/variance)：変動、ばらつき
 
 <!-- cvid: aid33_bid36 -->

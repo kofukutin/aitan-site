@@ -97,7 +97,7 @@ TOEICでは会話やインタビューの中で「夢」や「将来の目標」
 ## 🤔  hope との違いは？
 
 - **dream**：実現したい理想や将来の大きな目標、または眠っているときに見る夢を指す。
-- **[hope](/hope)**：実現を期待する気持ちや願いを表す。
+- **[hope](/word/hope)**：実現を期待する気持ちや願いを表す。
 
 dreamは「心に描く理想像」や「大きな目標」に使われ、hopeは「叶うことを期待する現実的な願い」に使われます。
 
@@ -105,14 +105,14 @@ dreamは「心に描く理想像」や「大きな目標」に使われ、hope�
 
 ## 🧩 あわせて覚えたい
 
-- [goal](/goal)：目標、到達点
-- [nightmare](/nightmare)：悪夢
+- [goal](/word/goal)：目標、到達点
+- [nightmare](/word/nightmare)：悪夢
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/plan)：計画
-- [wish](/wish)：願い、希望
+- [plan](/word/plan)：計画
+- [wish](/word/wish)：願い、希望
 
 <!-- cvid: aid18_bid21 -->

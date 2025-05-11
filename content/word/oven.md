@@ -96,7 +96,7 @@ TOEICでは主にPart 1の写真描写で、キッチンや調理場面の説明
 ## 🤔  stove との違いは？
 
 - **oven**：箱型で食材を中に入れて焼く調理器具
-- **[stove](/stove)**：鍋やフライパンを上に置いて加熱するコンロ
+- **[stove](/word/stove)**：鍋やフライパンを上に置いて加熱するコンロ
 
 ovenは食材を内部で焼くのに使い、stoveは鍋やフライパンを上に置いて加熱する点が異なります。
 
@@ -104,14 +104,14 @@ ovenは食材を内部で焼くのに使い、stoveは鍋やフライパンを�
 
 ## 🧩 あわせて覚えたい
 
-- [microwave](/microwave)：電子レンジ
-- [grill](/grill)：焼き網、グリル
+- [microwave](/word/microwave)：電子レンジ
+- [grill](/word/grill)：焼き網、グリル
 
 ---
 
 ## 📖 できればこれも
 
-- [kitchen](/kitchen)：キッチン、台所
-- [bake](/bake)：焼く（動詞）
+- [kitchen](/word/kitchen)：キッチン、台所
+- [bake](/word/bake)：焼く（動詞）
 
 <!-- cvid: aid07_bid06 -->

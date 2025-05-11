@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やメール、記事などで「並外れた成
 ## 🤔  exceptional との違いは？
 
 - **extraordinary**：普通では考えられないほど優れている、または異常である
-- **[exceptional](/exceptional)**：例外的に優れている、特に優秀である
+- **[exceptional](/word/exceptional)**：例外的に優れている、特に優秀である
 
 extraordinaryは「並外れている」こと全般に使え、良い意味・悪い意味どちらにも使えますが、exceptionalは「例外的に優れている」という肯定的な意味で使われることが多いです。
 
@@ -105,14 +105,14 @@ extraordinaryは「並外れている」こと全般に使え、良い意味・�
 
 ## 🧩 あわせて覚えたい
 
-- [ordinary](/ordinary)：普通の、平凡な
-- [remarkable](/remarkable)：注目すべき、著しい
+- [ordinary](/word/ordinary)：普通の、平凡な
+- [remarkable](/word/remarkable)：注目すべき、著しい
 
 ---
 
 ## 📖 できればこれも
 
-- [outstanding](/outstanding)：傑出した、際立った
-- [unique](/unique)：唯一の、独特な
+- [outstanding](/word/outstanding)：傑出した、際立った
+- [unique](/word/unique)：唯一の、独特な
 
 <!-- cvid: aid32_bid21 -->

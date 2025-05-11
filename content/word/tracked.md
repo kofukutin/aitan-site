@@ -97,7 +97,7 @@ TOEICでは、荷物の追跡や業務の進捗管理など、ITやビジネス�
 ## 🤔  traced との違いは？
 
 - **tracked**：継続的に追跡したり、進捗や動きを記録したりするニュアンス
-- **[traced](/traced)**：何かの「痕跡」や「原因」をたどって突き止めるニュアンス
+- **[traced](/word/traced)**：何かの「痕跡」や「原因」をたどって突き止めるニュアンス
 
 trackedは「ずっと追いかけて管理する」イメージ、tracedは「過去の経路や原因を探し出す」イメージです。
 
@@ -105,14 +105,14 @@ trackedは「ずっと追いかけて管理する」イメージ、tracedは「�
 
 ## 🧩 あわせて覚えたい
 
-- [monitor](/monitor)：監視する、見守る
-- [follow](/follow)：ついていく、従う
+- [monitor](/word/monitor)：監視する、見守る
+- [follow](/word/follow)：ついていく、従う
 
 ---
 
 ## 📖 できればこれも
 
-- [record](/record)：記録する
-- [update](/update)：更新する
+- [record](/word/record)：記録する
+- [update](/word/update)：更新する
 
 <!-- cvid: aid22_bid20 -->

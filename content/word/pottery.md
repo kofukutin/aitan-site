@@ -97,7 +97,7 @@ The museum is hosting a pottery exhibition next month.
 ## 🤔  ceramics との違いは？
 
 - **pottery**：日常的な陶器や陶芸作品、またその技術全般を指す。
-- **[ceramics](/ceramics)**：より広く、陶磁器全般やその科学・技術分野も含む。
+- **[ceramics](/word/ceramics)**：より広く、陶磁器全般やその科学・技術分野も含む。
 
 potteryは主に手作りや芸術的な陶器を指し、ceramicsは工業製品や学問分野も含めた広い意味で使われます。
 
@@ -105,14 +105,14 @@ potteryは主に手作りや芸術的な陶器を指し、ceramicsは工業製�
 
 ## 🧩 あわせて覚えたい
 
-- [sculpture](/sculpture)：彫刻
-- [porcelain](/porcelain)：磁器
+- [sculpture](/word/sculpture)：彫刻
+- [porcelain](/word/porcelain)：磁器
 
 ---
 
 ## 📖 できればこれも
 
-- [clay](/clay)：粘土
-- [vase](/vase)：花瓶
+- [clay](/word/clay)：粘土
+- [vase](/word/vase)：花瓶
 
 <!-- cvid: aid29_bid21 -->

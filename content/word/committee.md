@@ -97,7 +97,7 @@ committeeはTOEICの長文読解（Part 7）で、会社や団体の組織構成
 ## 🤔  board との違いは？
 
 - **committee**：特定の目的や課題のために集められた委員会
-- **[board](/board)**：会社や団体の経営・監督を行う取締役会や理事会
+- **[board](/word/board)**：会社や団体の経営・監督を行う取締役会や理事会
 
 committeeは一時的・限定的な課題に取り組む小規模な集団、boardは組織の意思決定や監督を担う常設の上位機関です。
 
@@ -105,14 +105,14 @@ committeeは一時的・限定的な課題に取り組む小規模な集団、bo
 
 ## 🧩 あわせて覚えたい
 
-- [council](/council)：評議会、協議会
-- [panel](/panel)：専門家などによる審査団・討論グループ
+- [council](/word/council)：評議会、協議会
+- [panel](/word/panel)：専門家などによる審査団・討論グループ
 
 ---
 
 ## 📖 できればこれも
 
-- [conference](/conference)：会議、協議会
-- [agenda](/agenda)：議題、議事日程
+- [conference](/word/conference)：会議、協議会
+- [agenda](/word/agenda)：議題、議事日程
 
 <!-- cvid: aid21_bid10 -->

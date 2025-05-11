@@ -97,7 +97,7 @@ TOEICではビジネス文書やメール、財務報告などで「income」が
 ## 🤔  revenue との違いは？
 
 - **income**：個人や企業が得る「収入」「所得」全般を指す。
-- **[revenue](/revenue)**：主に企業の「売上高」「総収益」を指し、経費控除前の金額。
+- **[revenue](/word/revenue)**：主に企業の「売上高」「総収益」を指し、経費控除前の金額。
 
 incomeは個人・企業どちらにも使えますが、revenueは企業の売上や事業収入に限定されることが多いです。
 
@@ -105,14 +105,14 @@ incomeは個人・企業どちらにも使えますが、revenueは企業の売�
 
 ## 🧩 あわせて覚えたい
 
-- [profit](/profit)：利益（収入から経費を引いた残り）
-- [salary](/salary)：給料（定期的に支払われる報酬）
+- [profit](/word/profit)：利益（収入から経費を引いた残り）
+- [salary](/word/salary)：給料（定期的に支払われる報酬）
 
 ---
 
 ## 📖 できればこれも
 
-- [expense](/expense)：費用、支出
-- [cost](/cost)：コスト、費用
+- [expense](/word/expense)：費用、支出
+- [cost](/word/cost)：コスト、費用
 
 <!-- cvid: aid27_bid38 -->

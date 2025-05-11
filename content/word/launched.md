@@ -97,7 +97,7 @@ TOEICでは新商品やサービスの開始、プロジェクトの立ち上げ
 ## 🤔  started との違いは？
 
 - **launched**：新しい事業や製品などを「正式に始めた」「世に送り出した」というフォーマルなニュアンス
-- **[started](/started)**：単に「始めた」という一般的な表現
+- **[started](/word/started)**：単に「始めた」という一般的な表現
 
 「launched」は特に新規事業や商品、プロジェクトなどを公式に始める場面で使われ、「started」よりもフォーマルで強調的です。
 
@@ -105,14 +105,14 @@ TOEICでは新商品やサービスの開始、プロジェクトの立ち上げ
 
 ## 🧩 あわせて覚えたい
 
-- [initiate](/initiate)：（正式に）開始する
-- [introduce](/introduce)：導入する、紹介する
+- [initiate](/word/initiate)：（正式に）開始する
+- [introduce](/word/introduce)：導入する、紹介する
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/present)：発表する、提示する
-- [announce](/announce)：発表する、公表する
+- [present](/word/present)：発表する、提示する
+- [announce](/word/announce)：発表する、公表する
 
 <!-- cvid: aid11_bid03 -->

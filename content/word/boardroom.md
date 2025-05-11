@@ -97,7 +97,7 @@ TOEICでは会社の組織や会議に関する長文やEメールで登場し�
 ## 🤔  meeting room との違いは？
 
 - **boardroom**：取締役会や経営陣の会議専用の部屋
-- **[meeting room](/meeting_room)**：一般的な会議や打ち合わせ用の部屋
+- **[meeting room](/word/meeting_room)**：一般的な会議や打ち合わせ用の部屋
 
 boardroomは特に役員会など重要な会議のための部屋を指し、meeting roomはより幅広い用途の会議室を指します。
 
@@ -105,14 +105,14 @@ boardroomは特に役員会など重要な会議のための部屋を指し、me
 
 ## 🧩 あわせて覚えたい
 
-- [conference room](/conference_room)：会議室（大人数向けの会議やセミナー用）
-- [office](/office)：オフィス、事務所
+- [conference room](/word/conference_room)：会議室（大人数向けの会議やセミナー用）
+- [office](/word/office)：オフィス、事務所
 
 ---
 
 ## 📖 できればこれも
 
-- [agenda](/agenda)：議題、会議の予定表
-- [committee](/committee)：委員会
+- [agenda](/word/agenda)：議題、会議の予定表
+- [committee](/word/committee)：委員会
 
 <!-- cvid: aid24_bid29 -->

@@ -97,7 +97,7 @@ TOEICでは、健康状態やデータの復旧、損失からの回復などの
 ## 🤔  restored との違いは？
 
 - **recovered**：失ったものや健康などが「元に戻った」「回復した」状態を表す。
-- **[restored](/restored)**：修復や復元によって「元の状態に戻された」ことを強調する。
+- **[restored](/word/restored)**：修復や復元によって「元の状態に戻された」ことを強調する。
 
 「recovered」は自然な回復や取り戻しに使われ、「restored」は修理や手を加えて元に戻す場合に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、健康状態やデータの復旧、損失からの回復などの
 
 ## 🧩 あわせて覚えたい
 
-- [healed](/healed)：（傷や病気が）治った
-- [retrieved](/retrieved)：取り戻された、回収された
+- [healed](/word/healed)：（傷や病気が）治った
+- [retrieved](/word/retrieved)：取り戻された、回収された
 
 ---
 
 ## 📖 できればこれも
 
-- [injured](/injured)：けがをした
-- [damaged](/damaged)：損傷した
+- [injured](/word/injured)：けがをした
+- [damaged](/word/damaged)：損傷した
 
 <!-- cvid: aid44_bid13 -->

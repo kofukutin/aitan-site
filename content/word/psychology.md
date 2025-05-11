@@ -97,7 +97,7 @@ TOEICでは、大学や教育、職場の研修などの長文で「心理学」
 ## 🤔  psychiatry との違いは？
 
 - **psychology**：心や行動の仕組みを科学的に研究する学問
-- **[psychiatry](/psychiatry)**：精神疾患の診断・治療を行う医学分野
+- **[psychiatry](/word/psychiatry)**：精神疾患の診断・治療を行う医学分野
 
 psychologyは心の仕組み全般を研究する学問で、psychiatryは医師が精神疾患を治療する医学分野です。
 
@@ -105,14 +105,14 @@ psychologyは心の仕組み全般を研究する学問で、psychiatryは医師
 
 ## 🧩 あわせて覚えたい
 
-- [behavior](/behavior)：行動、ふるまい
-- [emotion](/emotion)：感情
+- [behavior](/word/behavior)：行動、ふるまい
+- [emotion](/word/emotion)：感情
 
 ---
 
 ## 📖 できればこれも
 
-- [philosophy](/philosophy)：哲学
-- [sociology](/sociology)：社会学
+- [philosophy](/word/philosophy)：哲学
+- [sociology](/word/sociology)：社会学
 
 <!-- cvid: aid32_bid25 -->

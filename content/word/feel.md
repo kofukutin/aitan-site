@@ -97,7 +97,7 @@ TOEICでは、感情や意見を述べる場面でよく登場します。特に
 ## 🤔  sense との違いは？
 
 - **feel**：自分の感覚や感情を直接「感じる」「思う」ときに使う
-- **[sense](/sense)**：五感や直感で「察知する」「気づく」ときに使う
+- **[sense](/word/sense)**：五感や直感で「察知する」「気づく」ときに使う
 
 feelは主観的な感覚や感情に、senseは客観的な知覚や直感に使われることが多いです。
 
@@ -105,14 +105,14 @@ feelは主観的な感覚や感情に、senseは客観的な知覚や直感に�
 
 ## 🧩 あわせて覚えたい
 
-- [touch](/touch)：触れる、接触する
-- [perceive](/perceive)：知覚する、認識する
+- [touch](/word/touch)：触れる、接触する
+- [perceive](/word/perceive)：知覚する、認識する
 
 ---
 
 ## 📖 できればこれも
 
-- [think](/think)：考える、思う
-- [believe](/believe)：信じる、思う
+- [think](/word/think)：考える、思う
+- [believe](/word/believe)：信じる、思う
 
 <!-- cvid: aid01_bid34 -->

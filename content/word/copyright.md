@@ -97,7 +97,7 @@ TOEICでは、契約書やウェブサイトの利用規約、出版物の説明
 ## 🤔  patent との違いは？
 
 - **copyright**：本・音楽・映画などの創作物の権利を守る
-- **[patent](/patent)**：発明や新技術などの独占的な権利を守る
+- **[patent](/word/patent)**：発明や新技術などの独占的な権利を守る
 
 copyrightは「表現された作品」に、patentは「新しいアイデアや技術」に使われます。守る対象が異なります。
 
@@ -105,14 +105,14 @@ copyrightは「表現された作品」に、patentは「新しいアイデア�
 
 ## 🧩 あわせて覚えたい
 
-- [trademark](/trademark)：商標、ブランド名やロゴの権利
-- [license](/license)：許可、使用権
+- [trademark](/word/trademark)：商標、ブランド名やロゴの権利
+- [license](/word/license)：許可、使用権
 
 ---
 
 ## 📖 できればこれも
 
-- [permission](/permission)：許可
-- [document](/document)：文書、書類
+- [permission](/word/permission)：許可
+- [document](/word/document)：文書、書類
 
 <!-- cvid: aid44_bid14 -->

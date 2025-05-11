@@ -97,7 +97,7 @@ TOEICではアメリカの通貨や日常的な金額表現の文脈で、特に
 ## 🤔  dime との違いは？
 
 - **nickel**：アメリカ・カナダの5セント硬貨、または金属のニッケル
-- **[dime](/dime)**：アメリカ・カナダの10セント硬貨
+- **[dime](/word/dime)**：アメリカ・カナダの10セント硬貨
 
 nickelは5セント、dimeは10セントの硬貨を指し、金額や会話の文脈で使い分けます。
 
@@ -105,14 +105,14 @@ nickelは5セント、dimeは10セントの硬貨を指し、金額や会話の�
 
 ## 🧩 あわせて覚えたい
 
-- [quarter](/quarter)：25セント硬貨
-- [coin](/coin)：硬貨
+- [quarter](/word/quarter)：25セント硬貨
+- [coin](/word/coin)：硬貨
 
 ---
 
 ## 📖 できればこれも
 
-- [penny](/penny)：1セント硬貨
-- [currency](/currency)：通貨
+- [penny](/word/penny)：1セント硬貨
+- [currency](/word/currency)：通貨
 
 <!-- cvid: aid33_bid44 -->

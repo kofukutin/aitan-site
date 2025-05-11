@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「人気がある」「よく選ばれている
 ## 🤔  famous との違いは？
 
 - **popular**：多くの人に好かれている、親しまれている
-- **[famous](/famous)**：有名である（知られているが、必ずしも好かれているとは限らない）
+- **[famous](/word/famous)**：有名である（知られているが、必ずしも好かれているとは限らない）
 
 popularは「好かれている」ことがポイントですが、famousは「広く知られている」ことに重点があります。
 
@@ -105,14 +105,14 @@ popularは「好かれている」ことがポイントですが、famousは「�
 
 ## 🧩 あわせて覚えたい
 
-- [common](/common)：一般的な、よくある
-- [trendy](/trendy)：流行の、最新の
+- [common](/word/common)：一般的な、よくある
+- [trendy](/word/trendy)：流行の、最新の
 
 ---
 
 ## 📖 できればこれも
 
-- [familiar](/familiar)：よく知られている、親しい
-- [well_known](/well_known)：よく知られている
+- [familiar](/word/familiar)：よく知られている、親しい
+- [well_known](/word/well_known)：よく知られている
 
 <!-- cvid: aid04_bid49 -->

@@ -97,7 +97,7 @@ TOEICでは主に大学や教育機関をテーマにした長文で登場する
 ## 🤔  square との違いは？
 
 - **quad**：大学や学校の建物に囲まれた四角い中庭を指すカジュアルな表現
-- **[square](/square)**：都市の広場や四角い形そのものを指す一般的な単語
+- **[square](/word/square)**：都市の広場や四角い形そのものを指す一般的な単語
 
 quadは教育機関の中庭に特化した言い方で、squareは街中の広場や形状全般に使います。
 
@@ -105,14 +105,14 @@ quadは教育機関の中庭に特化した言い方で、squareは街中の広�
 
 ## 🧩 あわせて覚えたい
 
-- [courtyard](/courtyard)：建物に囲まれた中庭
-- [campus](/campus)：大学などの敷地
+- [courtyard](/word/courtyard)：建物に囲まれた中庭
+- [campus](/word/campus)：大学などの敷地
 
 ---
 
 ## 📖 できればこれも
 
-- [hall](/hall)：ホール、会館
-- [lawn](/lawn)：芝生
+- [hall](/word/hall)：ホール、会館
+- [lawn](/word/lawn)：芝生
 
 <!-- cvid: aid09_bid47 -->

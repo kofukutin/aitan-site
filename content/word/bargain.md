@@ -97,7 +97,7 @@ TOEICでは広告やEメール、店舗案内などの長文で「bargain」が�
 ## 🤔  discount との違いは？
 
 - **bargain**：通常より安く買える「お買い得品」や「掘り出し物」を指す。
-- **[discount](/discount)**：価格から差し引かれる「割引」そのものを指す。
+- **[discount](/word/discount)**：価格から差し引かれる「割引」そのものを指す。
 
 bargainは「商品や取引そのものがお得」であることを強調し、discountは「値引き」という行為や金額に焦点を当てます。
 
@@ -105,14 +105,14 @@ bargainは「商品や取引そのものがお得」であることを強調し�
 
 ## 🧩 あわせて覚えたい
 
-- [deal](/deal)：取引、契約
-- [negotiation](/negotiation)：交渉
+- [deal](/word/deal)：取引、契約
+- [negotiation](/word/negotiation)：交渉
 
 ---
 
 ## 📖 できればこれも
 
-- [sale](/sale)：セール、特売
-- [offer](/offer)：提案、特典
+- [sale](/word/sale)：セール、特売
+- [offer](/word/offer)：提案、特典
 
 <!-- cvid: aid01_bid19 -->

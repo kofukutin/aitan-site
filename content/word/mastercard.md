@@ -104,14 +104,14 @@ mastercardはcredit cardの一種で、ブランド名として限定的に使�
 
 ## 🧩 あわせて覚えたい
 
-- [visa](/visa)：ビザ（もう一つの国際的クレジットカードブランド）
+- [visa](/word/visa)：ビザ（もう一つの国際的クレジットカードブランド）
 - [debit card](/debit card)：デビットカード（銀行口座から即時引き落としされるカード）
 
 ---
 
 ## 📖 できればこれも
 
-- [payment](/payment)：支払い
-- [transaction](/transaction)：取引
+- [payment](/word/payment)：支払い
+- [transaction](/word/transaction)：取引
 
 <!-- cvid: aid04_bid13 -->

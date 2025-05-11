@@ -97,7 +97,7 @@ TOEICでは、調査や分析に関する長文やレポートで「sampling」�
 ## 🤔  selection との違いは？
 
 - **sampling**：全体から一部を抽出して調査・分析すること
-- **[selection](/selection)**：複数の中から選ぶこと自体や選ばれたもの
+- **[selection](/word/selection)**：複数の中から選ぶこと自体や選ばれたもの
 
 samplingは「調査や分析のために一部を抜き出す」ニュアンスが強く、selectionは「選択そのもの」に重点があります。
 
@@ -105,14 +105,14 @@ samplingは「調査や分析のために一部を抜き出す」ニュアンス
 
 ## 🧩 あわせて覚えたい
 
-- [survey](/survey)：調査、アンケート
-- [analysis](/analysis)：分析
+- [survey](/word/survey)：調査、アンケート
+- [analysis](/word/analysis)：分析
 
 ---
 
 ## 📖 できればこれも
 
-- [experiment](/experiment)：実験
-- [data](/data)：データ
+- [experiment](/word/experiment)：実験
+- [data](/word/data)：データ
 
 <!-- cvid: aid49_bid48 -->

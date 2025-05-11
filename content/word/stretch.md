@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人が体を伸ばしている場面
 ## 🤔  extend との違いは？
 
 - **stretch**：物理的に引っ張って伸ばす、体や物を広げるニュアンス
-- **[extend](/extend)**：範囲・期間・長さなどを「延長する」「拡大する」ニュアンス
+- **[extend](/word/extend)**：範囲・期間・長さなどを「延長する」「拡大する」ニュアンス
 
 stretchは「引っ張って伸ばす」動作や感覚的な広がり、extendは「期間や範囲を公式に延長・拡大する」場面で使い分けます。
 
@@ -105,14 +105,14 @@ stretchは「引っ張って伸ばす」動作や感覚的な広がり、extend�
 
 ## 🧩 あわせて覚えたい
 
-- [expand](/expand)：拡大する、広げる
-- [contract](/contract)：縮む、縮小する
+- [expand](/word/expand)：拡大する、広げる
+- [contract](/word/contract)：縮む、縮小する
 
 ---
 
 ## 📖 できればこれも
 
-- [bend](/bend)：曲げる
-- [reach](/reach)：手を伸ばす、届く
+- [bend](/word/bend)：曲げる
+- [reach](/word/reach)：手を伸ばす、届く
 
 <!-- cvid: aid23_bid37 -->

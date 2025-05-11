@@ -97,7 +97,7 @@ TOEICでは日付や予定、スケジュールの説明で頻出します。特
 ## 🤔  weekday との違いは？
 
 - **Monday**：特定の曜日「月曜日」を指す
-- **[weekday](/weekday)**：月曜から金曜までの「平日」をまとめて指す
+- **[weekday](/word/weekday)**：月曜から金曜までの「平日」をまとめて指す
 
 Mondayは週の中の特定の日、weekdayは土日以外の平日全体を指します。
 
@@ -113,6 +113,6 @@ Mondayは週の中の特定の日、weekdayは土日以外の平日全体を指�
 ## 📖 できればこれも
 
 - [Tuesday](/Tuesday)：火曜日
-- [holiday](/holiday)：祝日
+- [holiday](/word/holiday)：祝日
 
 <!-- cvid: aid27_bid02 -->

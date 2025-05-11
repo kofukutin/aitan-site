@@ -97,7 +97,7 @@ TOEICでは、形容詞として「colored paper（色紙）」や「colored ima
 ## 🤔  colorful との違いは？
 
 - **colored**：色がついている、着色された（単に色がある状態を表す）
-- **[colorful](/colorful)**：カラフルな、色とりどりの（多くの色が使われていて鮮やかな印象）
+- **[colorful](/word/colorful)**：カラフルな、色とりどりの（多くの色が使われていて鮮やかな印象）
 
 coloredは「色がついている」こと自体を指し、colorfulは「多彩で鮮やか」な印象を強調します。
 
@@ -105,14 +105,14 @@ coloredは「色がついている」こと自体を指し、colorfulは「多�
 
 ## 🧩 あわせて覚えたい
 
-- [painted](/painted)：塗装された、ペンキが塗られた
-- [dyed](/dyed)：染められた
+- [painted](/word/painted)：塗装された、ペンキが塗られた
+- [dyed](/word/dyed)：染められた
 
 ---
 
 ## 📖 できればこれも
 
-- [colorless](/colorless)：無色の
-- [bright](/bright)：明るい、鮮やかな
+- [colorless](/word/colorless)：無色の
+- [bright](/word/bright)：明るい、鮮やかな
 
 <!-- cvid: aid07_bid00 -->

@@ -102,13 +102,13 @@ Julyは夏の前半、Augustは夏の後半を指し、季節感や行事のタ�
 ## 🧩 あわせて覚えたい
 
 - [June](/June)：6月
-- [summer](/summer)：夏
+- [summer](/word/summer)：夏
 
 ---
 
 ## 📖 できればこれも
 
 - [January](/January)：1月
-- [holiday](/holiday)：休日
+- [holiday](/word/holiday)：休日
 
 <!-- cvid: aid02_bid39 -->

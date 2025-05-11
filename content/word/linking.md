@@ -97,7 +97,7 @@ TOEICではITやビジネス文脈で「linking」が名詞として出題され
 ## 🤔  connection との違いは？
 
 - **linking**：物や情報などを「つなげる行為」や「つなげている状態」を強調
-- **[connection](/connection)**：つながっている「関係」や「接続そのもの」を指す
+- **[connection](/word/connection)**：つながっている「関係」や「接続そのもの」を指す
 
 linkingは「つなげる動作や過程」に焦点があり、connectionは「つながった結果や関係性」を表します。
 
@@ -105,14 +105,14 @@ linkingは「つなげる動作や過程」に焦点があり、connectionは「
 
 ## 🧩 あわせて覚えたい
 
-- [association](/association)：関連、連想
-- [integration](/integration)：統合、統一
+- [association](/word/association)：関連、連想
+- [integration](/word/integration)：統合、統一
 
 ---
 
 ## 📖 できればこれも
 
-- [relation](/relation)：関係、関連
-- [combination](/combination)：組み合わせ、結合
+- [relation](/word/relation)：関係、関連
+- [combination](/word/combination)：組み合わせ、結合
 
 <!-- cvid: aid11_bid11 -->

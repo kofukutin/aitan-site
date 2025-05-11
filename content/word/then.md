@@ -93,7 +93,7 @@ thenは会話や説明の流れを示す語として、TOEICのリスニング�
 ## 🤔  next との違いは？
 
 - **then**：出来事や動作の「その時」「それから」を自然につなげる副詞
-- **[next](/next)**：順序やリストの「次に」を強調する副詞
+- **[next](/word/next)**：順序やリストの「次に」を強調する副詞
 
 thenは会話やストーリーの流れで自然に使われ、nextは順番やリストを意識した場面で使われます。
 
@@ -101,14 +101,14 @@ thenは会話やストーリーの流れで自然に使われ、nextは順番や
 
 ## 🧩 あわせて覚えたい
 
-- [afterward](/afterward)：その後で
-- [finally](/finally)：最後に
+- [afterward](/word/afterward)：その後で
+- [finally](/word/finally)：最後に
 
 ---
 
 ## 📖 できればこれも
 
-- [soon](/soon)：まもなく
-- [later](/later)：あとで
+- [soon](/word/soon)：まもなく
+- [later](/word/later)：あとで
 
 <!-- cvid: aid29_bid12 -->

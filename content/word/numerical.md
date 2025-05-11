@@ -97,7 +97,7 @@ TOEICでは、データや統計、分析に関する長文や説明文で「num
 ## 🤔  quantitative との違いは？
 
 - **numerical**：数字そのもの、または数字で表されることに焦点を当てる
-- **[quantitative](/quantitative)**：数量や量的な側面、測定できることに焦点を当てる
+- **[quantitative](/word/quantitative)**：数量や量的な側面、測定できることに焦点を当てる
 
 numericalは「数字で表現されている」ことを強調し、quantitativeは「量として測定できる」ことを強調します。
 
@@ -105,14 +105,14 @@ numericalは「数字で表現されている」ことを強調し、quantitativ
 
 ## 🧩 あわせて覚えたい
 
-- [digital](/digital)：デジタルの、数字で表す
-- [statistical](/statistical)：統計の、統計的な
+- [digital](/word/digital)：デジタルの、数字で表す
+- [statistical](/word/statistical)：統計の、統計的な
 
 ---
 
 ## 📖 できればこれも
 
-- [figure](/figure)：数字、図
-- [statistic](/statistic)：統計値、統計データ
+- [figure](/word/figure)：数字、図
+- [statistic](/word/statistic)：統計値、統計データ
 
 <!-- cvid: aid45_bid10 -->

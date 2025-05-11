@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や記事の中で「保守的な戦略」「控
 ## 🤔  cautious との違いは？
 
 - **conservative**：伝統や現状維持を重視し、変化を避ける姿勢を表す
-- **[cautious](/cautious)**：危険やリスクを避けるために慎重な態度をとる
+- **[cautious](/word/cautious)**：危険やリスクを避けるために慎重な態度をとる
 
 conservativeは「変化を避ける」「伝統を守る」ニュアンスが強く、cautiousは「危険や失敗を避けるための慎重さ」に重点があります。
 
@@ -105,14 +105,14 @@ conservativeは「変化を避ける」「伝統を守る」ニュアンスが�
 
 ## 🧩 あわせて覚えたい
 
-- [radical](/radical)：急進的な、革新的な
-- [traditional](/traditional)：伝統的な
+- [radical](/word/radical)：急進的な、革新的な
+- [traditional](/word/traditional)：伝統的な
 
 ---
 
 ## 📖 できればこれも
 
-- [practical](/practical)：実用的な
-- [flexible](/flexible)：柔軟な
+- [practical](/word/practical)：実用的な
+- [flexible](/word/flexible)：柔軟な
 
 <!-- cvid: aid27_bid12 -->

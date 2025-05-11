@@ -93,7 +93,7 @@ TOEICでは、代名詞の使い分けや「none of＋複数名詞」の形で�
 ## 🤔  nothing との違いは？
 
 - **none**：前に出た名詞を受けて「その中のどれもない」と言う時に使う。
-- **[nothing](/nothing)**：物や事柄が「何もない」と言う時に使う。
+- **[nothing](/word/nothing)**：物や事柄が「何もない」と言う時に使う。
 
 noneは「none of the people」など具体的な集団や物の中から「ゼロ」を表すのに対し、nothingは「何も存在しない」という抽象的な意味で使います。
 
@@ -101,14 +101,14 @@ noneは「none of the people」など具体的な集団や物の中から「ゼ�
 
 ## 🧩 あわせて覚えたい
 
-- [neither](/neither)：どちらも～ない
-- [any](/any)：どれか、いくらか（否定文で「どれも～ない」）
+- [neither](/word/neither)：どちらも～ない
+- [any](/word/any)：どれか、いくらか（否定文で「どれも～ない」）
 
 ---
 
 ## 📖 できればこれも
 
-- [some](/some)：いくつかの
-- [all](/all)：すべての
+- [some](/word/some)：いくつかの
+- [all](/word/all)：すべての
 
 <!-- cvid: aid24_bid23 -->

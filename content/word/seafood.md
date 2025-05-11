@@ -96,7 +96,7 @@ TOEICではレストランや観光、食事に関する会話でよく登場し
 ## 🤔  shellfish との違いは？
 
 - **seafood**：魚や貝、エビ、カニなど海の食材全般を指す広い言葉
-- **[shellfish](/shellfish)**：貝類や甲殻類（エビ・カニなど）だけを指す
+- **[shellfish](/word/shellfish)**：貝類や甲殻類（エビ・カニなど）だけを指す
 
 seafoodは魚も含めた海の食材全体を指しますが、shellfishは貝や甲殻類だけを限定的に指します。
 
@@ -104,14 +104,14 @@ seafoodは魚も含めた海の食材全体を指しますが、shellfishは貝�
 
 ## 🧩 あわせて覚えたい
 
-- [fish](/fish)：魚
-- [crab](/crab)：カニ
+- [fish](/word/fish)：魚
+- [crab](/word/crab)：カニ
 
 ---
 
 ## 📖 できればこれも
 
-- [vegetable](/vegetable)：野菜
-- [dessert](/dessert)：デザート
+- [vegetable](/word/vegetable)：野菜
+- [dessert](/word/dessert)：デザート
 
 <!-- cvid: aid24_bid19 -->

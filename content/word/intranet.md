@@ -96,7 +96,7 @@ TOEICではIT関連の社内通知やマニュアル、メール文面などで�
 ## 🤔  extranet との違いは？
 
 - **intranet**：組織内部だけで利用される閉じたネットワーク
-- **[extranet](/extranet)**：取引先やパートナー企業など外部関係者にも一部開放されるネットワーク
+- **[extranet](/word/extranet)**：取引先やパートナー企業など外部関係者にも一部開放されるネットワーク
 
 intranetは完全に社内専用ですが、extranetは社外の特定ユーザーにもアクセス権を与える点が異なります。
 
@@ -104,15 +104,15 @@ intranetは完全に社内専用ですが、extranetは社外の特定ユーザ�
 
 ## 🧩 あわせて覚えたい
 
-- [network](/network)：ネットワーク、通信網
-- [firewall](/firewall)：ファイアウォール、ネットワークの安全装置
+- [network](/word/network)：ネットワーク、通信網
+- [firewall](/word/firewall)：ファイアウォール、ネットワークの安全装置
 
 ---
 
 ## 📖 できればこれも
 
-- [database](/database)：データベース、情報の集まり
-- [server](/server)：サーバー、ネットワーク上のサービス提供機
+- [database](/word/database)：データベース、情報の集まり
+- [server](/word/server)：サーバー、ネットワーク上のサービス提供機
 
 ---
 <!-- cvid: aid24_bid19 -->

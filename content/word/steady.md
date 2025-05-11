@@ -97,7 +97,7 @@ TOEICでは、売上や成績、進捗などが「安定している」「着実
 ## 🤔  stable との違いは？
 
 - **steady**：変化が少なく、着実に続く様子や進行の安定を強調
-- **[stable](/stable)**：外部からの影響を受けにくく、状態が崩れにくいことを強調
+- **[stable](/word/stable)**：外部からの影響を受けにくく、状態が崩れにくいことを強調
 
 「steady」は進行や成長などの「着実さ」に焦点があり、「stable」は状態や環境が「ぐらつかない」ことに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは、売上や成績、進捗などが「安定している」「着実
 
 ## 🧩 あわせて覚えたい
 
-- [constant](/constant)：絶え間ない、一定の
-- [reliable](/reliable)：信頼できる
+- [constant](/word/constant)：絶え間ない、一定の
+- [reliable](/word/reliable)：信頼できる
 
 ---
 
 ## 📖 できればこれも
 
-- [gradual](/gradual)：徐々の、段階的な
-- [secure](/secure)：安全な、しっかりした
+- [gradual](/word/gradual)：徐々の、段階的な
+- [secure](/word/secure)：安全な、しっかりした
 
 <!-- cvid: aid42_bid16 -->

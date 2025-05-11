@@ -97,7 +97,7 @@ TOEICでは環境や文化、社会問題に関する長文で「indigenous」�
 ## 🤔  native との違いは？
 
 - **indigenous**：その土地に元々存在する、自然発生的な（特に人や動植物に使う）
-- **[native](/native)**：生まれつきその土地に属する、または出身の（人・動植物・言語など幅広く使う）
+- **[native](/word/native)**：生まれつきその土地に属する、または出身の（人・動植物・言語など幅広く使う）
 
 indigenousは「先住」や「固有」のニュアンスが強く、nativeは「生まれつき」や「出身」の意味でより広く使われます。
 
@@ -105,14 +105,14 @@ indigenousは「先住」や「固有」のニュアンスが強く、nativeは�
 
 ## 🧩 あわせて覚えたい
 
-- [foreign](/foreign)：外国の、異国の
-- [aboriginal](/aboriginal)：（特にオーストラリアの）先住の、原住の
+- [foreign](/word/foreign)：外国の、異国の
+- [aboriginal](/word/aboriginal)：（特にオーストラリアの）先住の、原住の
 
 ---
 
 ## 📖 できればこれも
 
-- [domestic](/domestic)：国内の、家庭の
-- [local](/local)：地元の、地域の
+- [domestic](/word/domestic)：国内の、家庭の
+- [local](/word/local)：地元の、地域の
 
 <!-- cvid: aid42_bid36 -->

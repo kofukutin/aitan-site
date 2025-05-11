@@ -97,7 +97,7 @@ stuffはTOEICの会話パートで、日常的な物や持ち物、内容を指�
 ## 🤔  material との違いは？
 
 - **stuff**：名前を特定しない「もの」「こと」全般をカジュアルに指す
-- **[material](/material)**：製造や制作に使う「材料」「素材」を指すフォーマルな語
+- **[material](/word/material)**：製造や制作に使う「材料」「素材」を指すフォーマルな語
 
 stuffは日常的な「いろいろな物」をざっくり指すのに対し、materialは「原材料」や「素材」など具体的な用途や性質を意識して使います。
 
@@ -105,14 +105,14 @@ stuffは日常的な「いろいろな物」をざっくり指すのに対し、
 
 ## 🧩 あわせて覚えたい
 
-- [item](/item)：品目、個々の物
-- [equipment](/equipment)：機器、装備
+- [item](/word/item)：品目、個々の物
+- [equipment](/word/equipment)：機器、装備
 
 ---
 
 ## 📖 できればこれも
 
-- [thing](/thing)：物、事
-- [goods](/goods)：商品、品物
+- [thing](/word/thing)：物、事
+- [goods](/word/goods)：商品、品物
 
 <!-- cvid: aid01_bid36 -->

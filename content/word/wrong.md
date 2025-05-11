@@ -97,7 +97,7 @@ TOEICでは選択肢や会話文で「正しい・間違っている」を問う
 ## 🤔  incorrect との違いは？
 
 - **wrong**：日常的に「間違っている」「正しくない」と幅広く使う
-- **[incorrect](/incorrect)**：ややフォーマルで「正確でない」「規則に合わない」ときに使う
+- **[incorrect](/word/incorrect)**：ややフォーマルで「正確でない」「規則に合わない」ときに使う
 
 wrongは会話やカジュアルな場面でよく使い、incorrectはテストや公式な文書などで使われやすいです。
 
@@ -105,14 +105,14 @@ wrongは会話やカジュアルな場面でよく使い、incorrectはテスト
 
 ## 🧩 あわせて覚えたい
 
-- [mistake](/mistake)：間違い、誤り
-- [fault](/fault)：責任、過失
+- [mistake](/word/mistake)：間違い、誤り
+- [fault](/word/fault)：責任、過失
 
 ---
 
 ## 📖 できればこれも
 
-- [right](/right)：正しい
-- [error](/error)：エラー、誤り
+- [right](/word/right)：正しい
+- [error](/word/error)：エラー、誤り
 
 <!-- cvid: aid44_bid42 -->

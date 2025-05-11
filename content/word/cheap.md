@@ -97,7 +97,7 @@ cheapは価格やコストに関する文脈でPart 5によく出題されます
 ## 🤔  inexpensive との違いは？
 
 - **cheap**：安いが、時に「安っぽい」「質が低い」という否定的なニュアンスも含む
-- **[inexpensive](/inexpensive)**：安いが、質の悪さを含意せず、丁寧な表現
+- **[inexpensive](/word/inexpensive)**：安いが、質の悪さを含意せず、丁寧な表現
 
 cheapはカジュアルでやや否定的な響きがあり、inexpensiveはフォーマルで中立的な印象です。
 
@@ -105,14 +105,14 @@ cheapはカジュアルでやや否定的な響きがあり、inexpensiveはフ�
 
 ## 🧩 あわせて覚えたい
 
-- [expensive](/expensive)：高価な
-- [affordable](/affordable)：手頃な価格の
+- [expensive](/word/expensive)：高価な
+- [affordable](/word/affordable)：手頃な価格の
 
 ---
 
 ## 📖 できればこれも
 
-- [easy](/easy)：簡単な
-- [quick](/quick)：速い
+- [easy](/word/easy)：簡単な
+- [quick](/word/quick)：速い
 
 <!-- cvid: aid00_bid38 -->

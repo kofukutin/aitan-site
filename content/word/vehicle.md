@@ -97,7 +97,7 @@ TOEICでは、契約書や案内文、説明書などで「vehicle」が「車�
 ## 🤔  car との違いは？
 
 - **vehicle**：乗り物全般を指すフォーマルな言い方。車、バス、トラックなど幅広い。
-- **[car](/car)**：主に「自動車」「乗用車」を指すカジュアルな単語。
+- **[car](/word/car)**：主に「自動車」「乗用車」を指すカジュアルな単語。
 
 vehicleは「乗り物」全般、carは「自家用車」など特定の車種を指す点が異なります。
 
@@ -105,14 +105,14 @@ vehicleは「乗り物」全般、carは「自家用車」など特定の車種�
 
 ## 🧩 あわせて覚えたい
 
-- [transportation](/transportation)：交通、輸送
-- [automobile](/automobile)：自動車
+- [transportation](/word/transportation)：交通、輸送
+- [automobile](/word/automobile)：自動車
 
 ---
 
 ## 📖 できればこれも
 
-- [machine](/machine)：機械
-- [device](/device)：装置
+- [machine](/word/machine)：機械
+- [device](/word/device)：装置
 
 <!-- cvid: aid30_bid48 -->

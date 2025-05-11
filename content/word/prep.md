@@ -97,7 +97,7 @@ TOEICでは「preparation」や「prepare」と並んで、カジュアルな文
 ## 🤔  prepare との違いは？
 
 - **prep**：準備や予習そのもの（名詞）を指し、カジュアルな場面でよく使う。
-- **[prepare](/prepare)**：準備するという動作（動詞）を表す。
+- **[prepare](/word/prepare)**：準備するという動作（動詞）を表す。
 
 「prep」は名詞で「準備」という内容そのものを指し、「prepare」は「準備する」という行動を表します。使う場面や文法上の役割が異なります。
 
@@ -105,14 +105,14 @@ TOEICでは「preparation」や「prepare」と並んで、カジュアルな文
 
 ## 🧩 あわせて覚えたい
 
-- [review](/review)：復習
-- [practice](/practice)：練習
+- [review](/word/review)：復習
+- [practice](/word/practice)：練習
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/plan)：計画
-- [study](/study)：勉強
+- [plan](/word/plan)：計画
+- [study](/word/study)：勉強
 
 <!-- cvid: aid12_bid04 -->

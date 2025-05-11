@@ -97,7 +97,7 @@ TOEICでは広告や案内文、Eメールなどで「地域」や「近所」�
 ## 🤔  district との違いは？
 
 - **neighborhood**：住民の生活感がある「近所」「地域」
-- **[district](/district)**：行政区分や公式な「地区」「区域」
+- **[district](/word/district)**：行政区分や公式な「地区」「区域」
 
 「neighborhood」は日常生活で使う親しみのある地域、「district」は行政やビジネスで使う公式な区域を指します。
 
@@ -105,14 +105,14 @@ TOEICでは広告や案内文、Eメールなどで「地域」や「近所」�
 
 ## 🧩 あわせて覚えたい
 
-- [community](/community)：共同体、地域社会
-- [suburb](/suburb)：郊外
+- [community](/word/community)：共同体、地域社会
+- [suburb](/word/suburb)：郊外
 
 ---
 
 ## 📖 できればこれも
 
-- [area](/area)：区域、範囲
-- [block](/block)：街区、一区画
+- [area](/word/area)：区域、範囲
+- [block](/word/block)：街区、一区画
 
 <!-- cvid: aid48_bid42 -->

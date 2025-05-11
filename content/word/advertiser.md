@@ -97,7 +97,7 @@ TOEICでは広告文やビジネスメールの中で頻出し、広告主とし
 ## 🤔  sponsor との違いは？
 
 - **advertiser**：広告を出す人・企業（広告主）を指す
-- **[sponsor](/sponsor)**：スポンサー、資金提供者や後援者を指す
+- **[sponsor](/word/sponsor)**：スポンサー、資金提供者や後援者を指す
 
 advertiserは広告掲載の対価を支払う「広告主」、sponsorはイベントや番組などに資金提供する「スポンサー」で、目的や関わり方が異なります。
 
@@ -105,14 +105,14 @@ advertiserは広告掲載の対価を支払う「広告主」、sponsorはイベ
 
 ## 🧩 あわせて覚えたい
 
-- [client](/client)：顧客、取引先
-- [publisher](/publisher)：出版社、発行者
+- [client](/word/client)：顧客、取引先
+- [publisher](/word/publisher)：出版社、発行者
 
 ---
 
 ## 📖 できればこれも
 
-- [advertisement](/advertisement)：広告（名詞）
-- [agency](/agency)：代理店、仲介業者
+- [advertisement](/word/advertisement)：広告（名詞）
+- [agency](/word/agency)：代理店、仲介業者
 
 <!-- cvid: aid39_bid14 -->

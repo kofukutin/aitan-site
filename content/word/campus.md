@@ -97,7 +97,7 @@ TOEICでは大学や教育機関に関する会話や説明文でよく登場し
 ## 🤔  facility との違いは？
 
 - **campus**：大学や学校の敷地全体を指す
-- **[facility](/facility)**：建物や設備など個々の施設を指す
+- **[facility](/word/facility)**：建物や設備など個々の施設を指す
 
 campusは「大学の敷地全体」、facilityは「建物や設備」など個々の施設を指すため、使い分けが必要です。
 
@@ -105,14 +105,14 @@ campusは「大学の敷地全体」、facilityは「建物や設備」など個
 
 ## 🧩 あわせて覚えたい
 
-- [dormitory](/dormitory)：寮、学生寮
-- [lecture](/lecture)：講義
+- [dormitory](/word/dormitory)：寮、学生寮
+- [lecture](/word/lecture)：講義
 
 ---
 
 ## 📖 できればこれも
 
-- [library](/library)：図書館
-- [classroom](/classroom)：教室
+- [library](/word/library)：図書館
+- [classroom](/word/classroom)：教室
 
 <!-- cvid: aid37_bid30 -->

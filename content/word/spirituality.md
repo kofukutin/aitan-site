@@ -97,7 +97,7 @@ TOEICでは、教育や自己啓発、文化に関する長文や記事で見か
 ## 🤔  religion との違いは？
 
 - **spirituality**：宗教に限らず、心や精神の深い部分・生き方・価値観を指す
-- **[religion](/religion)**：特定の教義や儀式、組織を持つ「宗教」を指す
+- **[religion](/word/religion)**：特定の教義や儀式、組織を持つ「宗教」を指す
 
 spiritualityは個人の内面的な精神性や生き方に焦点を当て、religionは制度や集団としての宗教を指します。
 
@@ -105,14 +105,14 @@ spiritualityは個人の内面的な精神性や生き方に焦点を当て、re
 
 ## 🧩 あわせて覚えたい
 
-- [faith](/faith)：信仰、信念
-- [philosophy](/philosophy)：哲学、人生観
+- [faith](/word/faith)：信仰、信念
+- [philosophy](/word/philosophy)：哲学、人生観
 
 ---
 
 ## 📖 できればこれも
 
-- [belief](/belief)：信念、信じること
-- [culture](/culture)：文化
+- [belief](/word/belief)：信念、信じること
+- [culture](/word/culture)：文化
 
 <!-- cvid: aid46_bid07 -->

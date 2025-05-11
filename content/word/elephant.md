@@ -97,7 +97,7 @@ TOEICでは観光や動物園の案内、説明文などで登場することが
 ## 🤔  mammoth との違いは？
 
 - **elephant**：現存するゾウ。アフリカやアジアに生息する大型哺乳類。
-- **[mammoth](/mammoth)**：マンモス。氷河期に生息していた絶滅したゾウの仲間。
+- **[mammoth](/word/mammoth)**：マンモス。氷河期に生息していた絶滅したゾウの仲間。
 
 elephantは現在も生きているゾウを指し、mammothは太古に絶滅したゾウ科動物を指します。
 
@@ -105,14 +105,14 @@ elephantは現在も生きているゾウを指し、mammothは太古に絶滅�
 
 ## 🧩 あわせて覚えたい
 
-- [rhino](/rhino)：サイ
-- [giraffe](/giraffe)：キリン
+- [rhino](/word/rhino)：サイ
+- [giraffe](/word/giraffe)：キリン
 
 ---
 
 ## 📖 できればこれも
 
-- [zebra](/zebra)：シマウマ
-- [lion](/lion)：ライオン
+- [zebra](/word/zebra)：シマウマ
+- [lion](/word/lion)：ライオン
 
 <!-- cvid: aid12_bid07 -->

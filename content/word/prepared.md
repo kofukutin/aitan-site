@@ -97,7 +97,7 @@ TOEICでは会議やプレゼン、面接などの場面で「準備ができて
 ## 🤔  ready との違いは？
 
 - **prepared**：事前にしっかり準備や手配が済んでいる状態
-- **[ready](/ready)**：すぐに行動できる状態、心構えができている
+- **[ready](/word/ready)**：すぐに行動できる状態、心構えができている
 
 preparedは「計画的な準備」を強調し、readyは「今すぐ始められる状態」を表します。
 
@@ -105,14 +105,14 @@ preparedは「計画的な準備」を強調し、readyは「今すぐ始めら�
 
 ## 🧩 あわせて覚えたい
 
-- [arrange](/arrange)：手配する、整える
-- [organize](/organize)：整理する、まとめる
+- [arrange](/word/arrange)：手配する、整える
+- [organize](/word/organize)：整理する、まとめる
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/available)：利用できる、手が空いている
-- [scheduled](/scheduled)：予定されている
+- [available](/word/available)：利用できる、手が空いている
+- [scheduled](/word/scheduled)：予定されている
 
 <!-- cvid: aid32_bid42 -->

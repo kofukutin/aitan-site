@@ -98,7 +98,7 @@ TOEICでは主にビジネスや競争の文脈で「打ち負かす」「敗北
 ## 🤔  beat との違いは？
 
 - **defeat**：相手を完全に打ち負かす、公式な勝利を強調
-- **[beat](/beat)**：単に相手より優れる、カジュアルな「勝つ」
+- **[beat](/word/beat)**：単に相手より優れる、カジュアルな「勝つ」
 
 「defeat」はフォーマルで公式な場面や大きな勝負に使われやすく、「beat」は日常的な「勝つ」にも幅広く使われます。
 
@@ -106,14 +106,14 @@ TOEICでは主にビジネスや競争の文脈で「打ち負かす」「敗北
 
 ## 🧩 あわせて覚えたい
 
-- [win](/win)：勝つ
-- [lose](/lose)：負ける
+- [win](/word/win)：勝つ
+- [lose](/word/lose)：負ける
 
 ---
 
 ## 📖 できればこれも
 
-- [achieve](/achieve)：達成する
-- [overcome](/overcome)：克服する
+- [achieve](/word/achieve)：達成する
+- [overcome](/word/overcome)：克服する
 
 <!-- cvid: aid05_bid09 -->

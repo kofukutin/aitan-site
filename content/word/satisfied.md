@@ -98,7 +98,7 @@ TOEICでは「be satisfied with ～」の形で頻出し、満足度や評価を
 ## 🤔  content との違いは？
 
 - **satisfied**：期待や要求が十分に満たされて「満足している」状態
-- **[content](/content)**：大きな不満がなく「穏やかに満ち足りている」状態
+- **[content](/word/content)**：大きな不満がなく「穏やかに満ち足りている」状態
 
 satisfiedは「基準や期待をクリアした満足」、contentは「現状に不満がなく落ち着いている満足感」を表します。
 
@@ -106,14 +106,14 @@ satisfiedは「基準や期待をクリアした満足」、contentは「現状�
 
 ## 🧩 あわせて覚えたい
 
-- [dissatisfied](/dissatisfied)：不満足な
-- [pleased](/pleased)：うれしい、満足して
+- [dissatisfied](/word/dissatisfied)：不満足な
+- [pleased](/word/pleased)：うれしい、満足して
 
 ---
 
 ## 📖 できればこれも
 
-- [confident](/confident)：自信がある
-- [impressed](/impressed)：感銘を受けた
+- [confident](/word/confident)：自信がある
+- [impressed](/word/impressed)：感銘を受けた
 
 <!-- cvid: aid34_bid04 -->

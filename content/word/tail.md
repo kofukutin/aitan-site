@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、動物や物の「しっぽ」「端
 ## 🤔  trail との違いは？
 
 - **tail**：動物や物の「しっぽ」「端」を指す。
-- **[trail](/trail)**：道や足跡、引きずった跡などを指す。
+- **[trail](/word/trail)**：道や足跡、引きずった跡などを指す。
 
 tailは生き物や物体の末端部分、trailは道や跡など「続くもの」を表します。
 
@@ -105,14 +105,14 @@ tailは生き物や物体の末端部分、trailは道や跡など「続くも�
 
 ## 🧩 あわせて覚えたい
 
-- [wing](/wing)：翼
-- [fin](/fin)：ひれ
+- [wing](/word/wing)：翼
+- [fin](/word/fin)：ひれ
 
 ---
 
 ## 📖 できればこれも
 
-- [feather](/feather)：羽
-- [fur](/fur)：毛皮
+- [feather](/word/feather)：羽
+- [fur](/word/fur)：毛皮
 
 <!-- cvid: aid44_bid24 -->

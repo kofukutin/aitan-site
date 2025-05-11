@@ -98,7 +98,7 @@ TOEICでは、素材や製品の説明、環境問題の文脈でよく登場し
 ## 🤔  synthetic との違いは？
 
 - **plastic**：人工的な合成樹脂そのものや製品を指す
-- **[synthetic](/synthetic)**：人工的に合成されたもの全般（繊維・薬品など）を指す
+- **[synthetic](/word/synthetic)**：人工的に合成されたもの全般（繊維・薬品など）を指す
 
 plasticは主に素材や物体としての「プラスチック」を指し、syntheticは「人工的に合成された」という広い意味で使われます。
 
@@ -106,14 +106,14 @@ plasticは主に素材や物体としての「プラスチック」を指し、s
 
 ## 🧩 あわせて覚えたい
 
-- [material](/material)：材料、素材
-- [rubber](/rubber)：ゴム
+- [material](/word/material)：材料、素材
+- [rubber](/word/rubber)：ゴム
 
 ---
 
 ## 📖 できればこれも
 
-- [metal](/metal)：金属
-- [glass](/glass)：ガラス
+- [metal](/word/metal)：金属
+- [glass](/word/glass)：ガラス
 
 <!-- cvid: aid22_bid44 -->

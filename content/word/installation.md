@@ -97,7 +97,7 @@ TOEICではITやオフィス機器の設置、ソフトウェアのインスト�
 ## 🤔  setup との違いは？
 
 - **installation**：正式な設置やインストールの手順・作業を指し、ややフォーマル。
-- **[setup](/setup)**：準備や設定全般を指し、カジュアルで幅広い意味。
+- **[setup](/word/setup)**：準備や設定全般を指し、カジュアルで幅広い意味。
 
 installationは専門的・公式な場面で使われ、setupは日常的な準備や設定にも使われます。
 
@@ -105,14 +105,14 @@ installationは専門的・公式な場面で使われ、setupは日常的な準
 
 ## 🧩 あわせて覚えたい
 
-- [removal](/removal)：撤去、取り外し
-- [assembly](/assembly)：組み立て
+- [removal](/word/removal)：撤去、取り外し
+- [assembly](/word/assembly)：組み立て
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/device)：装置、機器
-- [maintenance](/maintenance)：保守、メンテナンス
+- [device](/word/device)：装置、機器
+- [maintenance](/word/maintenance)：保守、メンテナンス
 
 <!-- cvid: aid16_bid40 -->

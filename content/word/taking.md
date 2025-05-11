@@ -97,7 +97,7 @@ takingは会話や説明文で進行形や名詞的に頻出します。特に�
 ## 🤔  taking on との違いは？
 
 - **taking**：単に「取る」「持っていく」「受け入れる」などの動作や進行を表す。
-- **[taking on](/taking_on)**：「引き受ける」「（責任などを）担う」という意味で、より積極的に何かを受け持つニュアンス。
+- **[taking on](/word/taking_on)**：「引き受ける」「（責任などを）担う」という意味で、より積極的に何かを受け持つニュアンス。
 
 takingは一般的な動作や進行を表し、taking onは新しい仕事や責任を「引き受ける」時に使います。
 
@@ -105,14 +105,14 @@ takingは一般的な動作や進行を表し、taking onは新しい仕事や�
 
 ## 🧩 あわせて覚えたい
 
-- [accept](/accept)：受け入れる
-- [receive](/receive)：受け取る
+- [accept](/word/accept)：受け入れる
+- [receive](/word/receive)：受け取る
 
 ---
 
 ## 📖 できればこれも
 
-- [bring](/bring)：持ってくる
-- [get](/get)：得る、手に入れる
+- [bring](/word/bring)：持ってくる
+- [get](/word/get)：得る、手に入れる
 
 <!-- cvid: aid01_bid24 -->

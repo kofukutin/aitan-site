@@ -96,7 +96,7 @@ TOEICではコンサートやイベントの案内、文化施設の説明文な
 ## 🤔  band との違いは？
 
 - **orchestra**：クラシック音楽を中心に、多数の楽器奏者で構成される大規模な団体。
-- **[band](/band)**：ロックやジャズなど幅広いジャンルで使われ、小規模なグループにも用いられる。
+- **[band](/word/band)**：ロックやジャズなど幅広いジャンルで使われ、小規模なグループにも用いられる。
 
 orchestraは主にクラシック音楽の大人数編成、bandはジャンルや規模を問わず幅広く使われます。
 
@@ -104,14 +104,14 @@ orchestraは主にクラシック音楽の大人数編成、bandはジャンル�
 
 ## 🧩 あわせて覚えたい
 
-- [ensemble](/ensemble)：アンサンブル、小規模な合奏団
-- [choir](/choir)：合唱団
+- [ensemble](/word/ensemble)：アンサンブル、小規模な合奏団
+- [choir](/word/choir)：合唱団
 
 ---
 
 ## 📖 できればこれも
 
-- [concert](/concert)：コンサート、演奏会
-- [performance](/performance)：公演、演奏
+- [concert](/word/concert)：コンサート、演奏会
+- [performance](/word/performance)：公演、演奏
 
 <!-- cvid: aid21_bid28 -->

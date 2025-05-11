@@ -97,7 +97,7 @@ TOEICでは、環境やビジネス、科学関連の文脈で「energy」が頻
 ## 🤔  power との違いは？
 
 - **energy**：物理的なエネルギーや人の活力を指す。
-- **[power](/power)**：力、権力、電力など幅広く「力」を表す。
+- **[power](/word/power)**：力、権力、電力など幅広く「力」を表す。
 
 energyは「活動の源」や「元気」に焦点があり、powerは「能力」や「支配力」などより広い意味で使われます。
 
@@ -105,14 +105,14 @@ energyは「活動の源」や「元気」に焦点があり、powerは「能力
 
 ## 🧩 あわせて覚えたい
 
-- [strength](/strength)：強さ、力
-- [effort](/effort)：努力
+- [strength](/word/strength)：強さ、力
+- [effort](/word/effort)：努力
 
 ---
 
 ## 📖 できればこれも
 
-- [force](/force)：力、強制力
-- [resource](/resource)：資源、手段
+- [force](/word/force)：力、強制力
+- [resource](/word/resource)：資源、手段
 
 <!-- cvid: aid34_bid40 -->

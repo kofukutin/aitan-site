@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や評価レポートの文脈で「evaluated」
 ## 🤔  assessed との違いは？
 
 - **evaluated**：価値や効果を総合的・客観的に評価する
-- **[assessed](/assessed)**：主に金額やレベルなどを査定・算定する
+- **[assessed](/word/assessed)**：主に金額やレベルなどを査定・算定する
 
 「evaluated」は全体的な価値判断、「assessed」は数値や基準に基づく査定に使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネス文書や評価レポートの文脈で「evaluated」
 
 ## 🧩 あわせて覚えたい
 
-- [judge](/judge)：判断する
-- [estimate](/estimate)：見積もる
+- [judge](/word/judge)：判断する
+- [estimate](/word/estimate)：見積もる
 
 ---
 
 ## 📖 できればこれも
 
-- [review](/review)：見直す、再検討する
-- [analyze](/analyze)：分析する
+- [review](/word/review)：見直す、再検討する
+- [analyze](/word/analyze)：分析する
 
 <!-- cvid: aid34_bid20 -->

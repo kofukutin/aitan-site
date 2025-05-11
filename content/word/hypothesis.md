@@ -97,7 +97,7 @@ TOEICでは科学的な説明やビジネスの分析文で登場することが
 ## 🤔  theory との違いは？
 
 - **hypothesis**：まだ証明されていない仮説や前提
-- **[theory](/theory)**：十分な証拠や検証を経て確立された理論
+- **[theory](/word/theory)**：十分な証拠や検証を経て確立された理論
 
 hypothesisは「仮説」で、まだ検証段階の考えを指し、theoryは多くの証拠に基づき広く認められた「理論」を指します。
 
@@ -105,14 +105,14 @@ hypothesisは「仮説」で、まだ検証段階の考えを指し、theoryは�
 
 ## 🧩 あわせて覚えたい
 
-- [assumption](/assumption)：仮定、前提
-- [conclusion](/conclusion)：結論
+- [assumption](/word/assumption)：仮定、前提
+- [conclusion](/word/conclusion)：結論
 
 ---
 
 ## 📖 できればこれも
 
-- [evidence](/evidence)：証拠
-- [experiment](/experiment)：実験
+- [evidence](/word/evidence)：証拠
+- [experiment](/word/experiment)：実験
 
 <!-- cvid: aid29_bid06 -->

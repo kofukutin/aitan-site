@@ -97,7 +97,7 @@ Our resort offers scuba lessons for beginners.
 ## 🤔  snorkel との違いは？
 
 - **scuba**：タンクなどを使い、水中で長時間呼吸できる装置やダイビング活動。
-- **[snorkel](/snorkel)**：水面近くで呼吸するためのパイプ状の器具。
+- **[snorkel](/word/snorkel)**：水面近くで呼吸するためのパイプ状の器具。
 
 scubaは本格的な水中活動、snorkelは水面での簡単な呼吸補助に使います。
 
@@ -105,14 +105,14 @@ scubaは本格的な水中活動、snorkelは水面での簡単な呼吸補助�
 
 ## 🧩 あわせて覚えたい
 
-- [dive](/dive)：潜る、ダイビングする
-- [oxygen](/oxygen)：酸素
+- [dive](/word/dive)：潜る、ダイビングする
+- [oxygen](/word/oxygen)：酸素
 
 ---
 
 ## 📖 できればこれも
 
-- [beach](/beach)：浜辺、ビーチ
-- [swim](/swim)：泳ぐ
+- [beach](/word/beach)：浜辺、ビーチ
+- [swim](/word/swim)：泳ぐ
 
 <!-- cvid: aid04_bid13 -->

@@ -97,7 +97,7 @@ TOEICでは主にレポートや調査結果、分析に関する長文で出題
 ## 🤔  quantitative との違いは？
 
 - **statistical**：統計に関する、統計手法や統計データを扱う際に使う
-- **[quantitative](/quantitative)**：量的な、数量で表せるものに使う
+- **[quantitative](/word/quantitative)**：量的な、数量で表せるものに使う
 
 「statistical」は統計学や統計データに直接関係する場合に使い、「quantitative」は単に「数値で表せる」ことを指します。
 
@@ -105,14 +105,14 @@ TOEICでは主にレポートや調査結果、分析に関する長文で出題
 
 ## 🧩 あわせて覚えたい
 
-- [numerical](/numerical)：数値の、数字で表した
-- [analytical](/analytical)：分析的な
+- [numerical](/word/numerical)：数値の、数字で表した
+- [analytical](/word/analytical)：分析的な
 
 ---
 
 ## 📖 できればこれも
 
-- [statistic](/statistic)：統計値、統計資料
-- [analyze](/analyze)：分析する
+- [statistic](/word/statistic)：統計値、統計資料
+- [analyze](/word/analyze)：分析する
 
 <!-- cvid: aid43_bid02 -->

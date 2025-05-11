@@ -98,7 +98,7 @@ TOEICではPart 5の文法・語彙問題で「明記する」「指定する」
 ## 🤔  indicate との違いは？
 
 - **specify**：はっきりと具体的に内容や条件を示す
-- **[indicate](/indicate)**：指し示す、示唆する（必ずしも具体的でなくてもよい）
+- **[indicate](/word/indicate)**：指し示す、示唆する（必ずしも具体的でなくてもよい）
 
 specifyは「詳細まで明確に述べる」ニュアンスが強く、indicateは「方向性や存在を示す」程度で使われます。
 
@@ -106,14 +106,14 @@ specifyは「詳細まで明確に述べる」ニュアンスが強く、indicat
 
 ## 🧩 あわせて覚えたい
 
-- [detail](/detail)：詳細に述べる
-- [define](/define)：定義する
+- [detail](/word/detail)：詳細に述べる
+- [define](/word/define)：定義する
 
 ---
 
 ## 📖 できればこれも
 
-- [clarify](/clarify)：明確にする
-- [state](/state)：述べる
+- [clarify](/word/clarify)：明確にする
+- [state](/word/state)：述べる
 
 <!-- cvid: aid41_bid32 -->

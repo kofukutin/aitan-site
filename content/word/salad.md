@@ -97,7 +97,7 @@ TOEICでは主にレストランや食事の写真描写で登場します。料
 ## 🤔  vegetable との違いは？
 
 - **salad**：生野菜や果物などを混ぜて作る料理
-- **[vegetable](/vegetable)**：野菜そのもの
+- **[vegetable](/word/vegetable)**：野菜そのもの
 
 saladは料理名、vegetableは食材としての野菜を指します。サラダは複数の野菜や果物を組み合わせた料理です。
 
@@ -105,14 +105,14 @@ saladは料理名、vegetableは食材としての野菜を指します。サラ
 
 ## 🧩 あわせて覚えたい
 
-- [dish](/dish)：料理、皿
-- [fruit](/fruit)：果物
+- [dish](/word/dish)：料理、皿
+- [fruit](/word/fruit)：果物
 
 ---
 
 ## 📖 できればこれも
 
-- [soup](/soup)：スープ
-- [sandwich](/sandwich)：サンドイッチ
+- [soup](/word/soup)：スープ
+- [sandwich](/word/sandwich)：サンドイッチ
 
 <!-- cvid: aid21_bid14 -->

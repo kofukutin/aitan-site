@@ -97,7 +97,7 @@ TOEICでは医療や健康に関する長文や案内文でよく登場します
 ## 🤔  doctor との違いは？
 
 - **physician**：特に内科系の医師や診断・治療を行う医師を指し、フォーマルな表現。
-- **[doctor](/doctor)**：医師全般や博士号取得者にも使われ、より広い意味・カジュアルな表現。
+- **[doctor](/word/doctor)**：医師全般や博士号取得者にも使われ、より広い意味・カジュアルな表現。
 
 physicianは医療現場での専門的・フォーマルな言い方、doctorは日常会話や幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ physicianは医療現場での専門的・フォーマルな言い方、doctor�
 
 ## 🧩 あわせて覚えたい
 
-- [surgeon](/surgeon)：外科医
-- [nurse](/nurse)：看護師
+- [surgeon](/word/surgeon)：外科医
+- [nurse](/word/nurse)：看護師
 
 ---
 
 ## 📖 できればこれも
 
-- [patient](/patient)：患者
-- [clinic](/clinic)：診療所
+- [patient](/word/patient)：患者
+- [clinic](/word/clinic)：診療所
 
 <!-- cvid: aid16_bid10 -->

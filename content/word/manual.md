@@ -97,7 +97,7 @@ TOEICでは、製品の説明書や業務手順書などの文脈でよく登場
 ## 🤔  handbook との違いは？
 
 - **manual**：機械や作業の具体的な操作手順や使い方を詳しく説明する書類
-- **[handbook](/handbook)**：特定の分野や仕事全体の知識・ルールをまとめた手引き書
+- **[handbook](/word/handbook)**：特定の分野や仕事全体の知識・ルールをまとめた手引き書
 
 manualは「操作方法」や「手順」に特化し、handbookは「知識やガイドライン」全般をまとめたものに使われます。
 
@@ -105,14 +105,14 @@ manualは「操作方法」や「手順」に特化し、handbookは「知識や
 
 ## 🧩 あわせて覚えたい
 
-- [guide](/guide)：案内書、ガイド
-- [instruction](/instruction)：指示、説明
+- [guide](/word/guide)：案内書、ガイド
+- [instruction](/word/instruction)：指示、説明
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/document)：文書、書類
-- [procedure](/procedure)：手順、手続き
+- [document](/word/document)：文書、書類
+- [procedure](/word/procedure)：手順、手続き
 
 <!-- cvid: aid03_bid05 -->

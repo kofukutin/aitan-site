@@ -97,7 +97,7 @@ TOEICでは、achievementは目標達成や業績に関する文脈で名詞と�
 ## 🤔  accomplishment との違いは？
 
 - **achievement**：努力や困難を乗り越えて得た達成や業績
-- **[accomplishment](/accomplishment)**：比較的日常的・個人的な達成や特技
+- **[accomplishment](/word/accomplishment)**：比較的日常的・個人的な達成や特技
 
 achievementは大きな目標や困難を乗り越えた成果に使われることが多く、accomplishmentは日常的な達成やスキルにも幅広く使われます。
 
@@ -105,14 +105,14 @@ achievementは大きな目標や困難を乗り越えた成果に使われるこ
 
 ## 🧩 あわせて覚えたい
 
-- [success](/success)：成功
-- [failure](/failure)：失敗
+- [success](/word/success)：成功
+- [failure](/word/failure)：失敗
 
 ---
 
 ## 📖 できればこれも
 
-- [goal](/goal)：目標
-- [progress](/progress)：進歩
+- [goal](/word/goal)：目標
+- [progress](/word/progress)：進歩
 
 <!-- cvid: aid20_bid19 -->

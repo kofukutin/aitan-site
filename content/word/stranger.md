@@ -98,7 +98,7 @@ TOEICでは、会話文や説明文で「初めて会う人」「その場に慣
 ## 🤔  foreigner との違いは？
 
 - **stranger**：その場や集団にとって「見知らぬ人」「初対面の人」
-- **[foreigner](/foreigner)**：国籍や出身地が「外国」の人
+- **[foreigner](/word/foreigner)**：国籍や出身地が「外国」の人
 
 strangerは「知らない人」という広い意味で使い、国籍は関係ありません。foreignerは「外国人」という意味で、主に国や地域の違いを強調します。
 
@@ -106,14 +106,14 @@ strangerは「知らない人」という広い意味で使い、国籍は関係
 
 ## 🧩 あわせて覚えたい
 
-- [guest](/guest)：客、招待客
-- [acquaintance](/acquaintance)：知人、面識のある人
+- [guest](/word/guest)：客、招待客
+- [acquaintance](/word/acquaintance)：知人、面識のある人
 
 ---
 
 ## 📖 できればこれも
 
-- [neighbor](/neighbor)：隣人、近所の人
-- [visitor](/visitor)：訪問者、来客
+- [neighbor](/word/neighbor)：隣人、近所の人
+- [visitor](/word/visitor)：訪問者、来客
 
 <!-- cvid: aid23_bid32 -->

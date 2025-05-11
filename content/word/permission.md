@@ -97,7 +97,7 @@ permissionはTOEICのPart 5で「許可」「認可」を問う文脈で頻出�
 ## 🤔  approval との違いは？
 
 - **permission**：何かをするための「許可」や「認可」
-- **[approval](/approval)**：計画や提案などに対する「承認」や「賛成」
+- **[approval](/word/approval)**：計画や提案などに対する「承認」や「賛成」
 
 permissionは「行動を始めるための許可」、approvalは「計画や提案が認められること」と使い分けます。
 
@@ -105,14 +105,14 @@ permissionは「行動を始めるための許可」、approvalは「計画や�
 
 ## 🧩 あわせて覚えたい
 
-- [authorization](/authorization)：公式な認可、権限付与
-- [prohibition](/prohibition)：禁止、差し止め
+- [authorization](/word/authorization)：公式な認可、権限付与
+- [prohibition](/word/prohibition)：禁止、差し止め
 
 ---
 
 ## 📖 できればこれも
 
-- [request](/request)：依頼、要請
-- [access](/access)：アクセス、接近・利用権
+- [request](/word/request)：依頼、要請
+- [access](/word/access)：アクセス、接近・利用権
 
 <!-- cvid: aid49_bid35 -->

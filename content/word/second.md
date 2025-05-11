@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「2番目」「秒」の意味でよく登場�
 ## 🤔  another との違いは？
 
 - **second**：順序や時間の「2番目」「秒」を表す。
-- **[another](/another)**：もう一つ、別のものを表す。
+- **[another](/word/another)**：もう一つ、別のものを表す。
 
 **second**は順序や時間の明確な「2番目」に使い、**another**は「追加の1つ」や「別のもの」という意味で使い分けます。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「2番目」「秒」の意味でよく登場�
 
 ## 🧩 あわせて覚えたい
 
-- [minute](/minute)：分（時間の単位）
-- [moment](/moment)：瞬間
+- [minute](/word/minute)：分（時間の単位）
+- [moment](/word/moment)：瞬間
 
 ---
 
 ## 📖 できればこれも
 
-- [first](/first)：1番目
-- [third](/third)：3番目
+- [first](/word/first)：1番目
+- [third](/word/third)：3番目
 
 <!-- cvid: aid14_bid42 -->

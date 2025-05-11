@@ -98,7 +98,7 @@ TOEICでは、動作や出来事が繰り返される状況を説明する文脈
 ## 🤔  continuously との違いは？
 
 - **repeatedly**：何度も繰り返して（間隔をあけて）行われることを強調
-- **[continuously](/continuously)**：途切れずに連続して続くことを強調
+- **[continuously](/word/continuously)**：途切れずに連続して続くことを強調
 
 repeatedlyは「何度も繰り返す」こと、continuouslyは「途切れずに続く」ことを表し、動作の間に間隔があるかどうかが違いです。
 
@@ -106,14 +106,14 @@ repeatedlyは「何度も繰り返す」こと、continuouslyは「途切れず�
 
 ## 🧩 あわせて覚えたい
 
-- [frequently](/frequently)：頻繁に
-- [occasionally](/occasionally)：時々
+- [frequently](/word/frequently)：頻繁に
+- [occasionally](/word/occasionally)：時々
 
 ---
 
 ## 📖 できればこれも
 
-- [regularly](/regularly)：定期的に
-- [eventually](/eventually)：最終的に
+- [regularly](/word/regularly)：定期的に
+- [eventually](/word/eventually)：最終的に
 
 <!-- cvid: aid43_bid41 -->

@@ -97,7 +97,7 @@ TOEICでは、動名詞や現在分詞の文法問題で頻出です。手段や
 ## 🤔  utilizing との違いは？
 
 - **using**：一般的に「使う」「利用する」という意味で幅広く使われる。
-- **[utilizing](/utilizing)**：よりフォーマルで「有効活用する」「最大限に活かす」というニュアンスが強い。
+- **[utilizing](/word/utilizing)**：よりフォーマルで「有効活用する」「最大限に活かす」というニュアンスが強い。
 
 「using」は日常的な「使う」に対し、「utilizing」は資源や機会を効果的に活用する場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、動名詞や現在分詞の文法問題で頻出です。手段や
 
 ## 🧩 あわせて覚えたい
 
-- [employ](/employ)：（方法・手段などを）用いる
-- [apply](/apply)：（知識・技術などを）応用する
+- [employ](/word/employ)：（方法・手段などを）用いる
+- [apply](/word/apply)：（知識・技術などを）応用する
 
 ---
 
 ## 📖 できればこれも
 
-- [choose](/choose)：選ぶ
-- [operate](/operate)：操作する
+- [choose](/word/choose)：選ぶ
+- [operate](/word/operate)：操作する
 
 <!-- cvid: aid15_bid35 -->

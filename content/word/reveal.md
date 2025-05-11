@@ -97,7 +97,7 @@ TOEICのPart 7（長文読解）で、情報公開や発表、調査結果の説
 ## 🤔  disclose との違いは？
 
 - **reveal**：隠れていたものを明らかにする、見せる（やや感情的・幅広い場面で使う）
-- **[disclose](/disclose)**：公式・法的・ビジネス文脈で「情報を開示する」（よりフォーマルで限定的）
+- **[disclose](/word/disclose)**：公式・法的・ビジネス文脈で「情報を開示する」（よりフォーマルで限定的）
 
 revealは日常的にも使えますが、discloseは特に公式な情報公開や法的な開示に使われることが多いです。
 
@@ -105,14 +105,14 @@ revealは日常的にも使えますが、discloseは特に公式な情報公開
 
 ## 🧩 あわせて覚えたい
 
-- [hide](/hide)：隠す
-- [announce](/announce)：発表する
+- [hide](/word/hide)：隠す
+- [announce](/word/announce)：発表する
 
 ---
 
 ## 📖 できればこれも
 
-- [expose](/expose)：さらす、暴露する
-- [uncover](/uncover)：発見する、明らかにする
+- [expose](/word/expose)：さらす、暴露する
+- [uncover](/word/uncover)：発見する、明らかにする
 
 <!-- cvid: aid23_bid49 -->

@@ -97,7 +97,7 @@ TOEICでは、製品やサービスの説明文、広告、案内文などで「
 ## 🤔  intended との違いは？
 
 - **designed**：特定の目的や用途のために計画的に作られたことを強調
-- **[intended](/intended)**：意図された、狙いがあることを強調
+- **[intended](/word/intended)**：意図された、狙いがあることを強調
 
 「designed」は実際に設計や計画がなされている点を強調し、「intended」は目的や意図そのものを強調します。
 
@@ -105,14 +105,14 @@ TOEICでは、製品やサービスの説明文、広告、案内文などで「
 
 ## 🧩 あわせて覚えたい
 
-- [planned](/planned)：計画された
-- [custom](/custom)：特注の、カスタムの
+- [planned](/word/planned)：計画された
+- [custom](/word/custom)：特注の、カスタムの
 
 ---
 
 ## 📖 できればこれも
 
-- [created](/created)：作成された
-- [specified](/specified)：指定された
+- [created](/word/created)：作成された
+- [specified](/word/specified)：指定された
 
 <!-- cvid: aid23_bid10 -->

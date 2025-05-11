@@ -97,7 +97,7 @@ TOEICでは会話や説明文の中で「何かを渡した」「提供した」
 ## 🤔  provided との違いは？
 
 - **gave**：一般的に「与えた」「渡した」という広い意味で使う
-- **[provided](/provided)**：特に「必要なものを提供した」「供給した」というニュアンスが強い
+- **[provided](/word/provided)**：特に「必要なものを提供した」「供給した」というニュアンスが強い
 
 gaveは日常的な「渡す・与える」全般に使い、providedは「必要なものを用意して与える」などフォーマルな場面やビジネスで使われやすいです。
 
@@ -105,14 +105,14 @@ gaveは日常的な「渡す・与える」全般に使い、providedは「必�
 
 ## 🧩 あわせて覚えたい
 
-- [offer](/offer)：申し出る、提供する
-- [receive](/receive)：受け取る
+- [offer](/word/offer)：申し出る、提供する
+- [receive](/word/receive)：受け取る
 
 ---
 
 ## 📖 できればこれも
 
-- [send](/send)：送る
-- [bring](/bring)：持ってくる
+- [send](/word/send)：送る
+- [bring](/word/bring)：持ってくる
 
 <!-- cvid: aid18_bid12 -->

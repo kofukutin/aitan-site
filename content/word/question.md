@@ -97,7 +97,7 @@ TOEICでは会話や説明文の中で「質問」や「疑問点」を表す語
 ## 🤔  inquiry との違いは？
 
 - **question**：日常的な「質問」や「疑問」を幅広く指す。
-- **[inquiry](/inquiry)**：ややフォーマルで「調査」「問い合わせ」など深く調べるニュアンス。
+- **[inquiry](/word/inquiry)**：ややフォーマルで「調査」「問い合わせ」など深く調べるニュアンス。
 
 questionは日常会話やカジュアルな場面で使われ、inquiryはビジネスや公的な問い合わせ・調査に使われます。
 
@@ -105,14 +105,14 @@ questionは日常会話やカジュアルな場面で使われ、inquiryはビ�
 
 ## 🧩 あわせて覚えたい
 
-- [answer](/answer)：答え、回答
-- [problem](/problem)：問題、課題
+- [answer](/word/answer)：答え、回答
+- [problem](/word/problem)：問題、課題
 
 ---
 
 ## 📖 できればこれも
 
-- [issue](/issue)：（議論すべき）問題、争点
-- [topic](/topic)：話題、テーマ
+- [issue](/word/issue)：（議論すべき）問題、争点
+- [topic](/word/topic)：話題、テーマ
 
 <!-- cvid: aid15_bid26 -->

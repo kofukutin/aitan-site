@@ -97,7 +97,7 @@ TOEICでは、順序や順位を表す場面でPart 1やPart 2によく登場し
 ## 🤔  fifthly との違いは？
 
 - **fifth**：順序や分数の「5番目」「5分の1」を表す名詞・形容詞
-- **[fifthly](/fifthly)**：話の順序を示す「第5に」という副詞
+- **[fifthly](/word/fifthly)**：話の順序を示す「第5に」という副詞
 
 「fifth」は順位や順番そのものを表し、「fifthly」は話や説明の流れで「第5に」と述べるときに使います。
 
@@ -105,14 +105,14 @@ TOEICでは、順序や順位を表す場面でPart 1やPart 2によく登場し
 
 ## 🧩 あわせて覚えたい
 
-- [fourth](/fourth)：4番目、4分の1
-- [sixth](/sixth)：6番目、6分の1
+- [fourth](/word/fourth)：4番目、4分の1
+- [sixth](/word/sixth)：6番目、6分の1
 
 ---
 
 ## 📖 できればこれも
 
-- [third](/third)：3番目、3分の1
-- [seventh](/seventh)：7番目、7分の1
+- [third](/word/third)：3番目、3分の1
+- [seventh](/word/seventh)：7番目、7分の1
 
 <!-- cvid: aid11_bid28 -->

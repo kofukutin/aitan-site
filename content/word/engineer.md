@@ -97,7 +97,7 @@ TOEICではITや製造業の文脈で頻出し、求人広告や社内メール�
 ## 🤔  technician との違いは？
 
 - **engineer**：設計や開発など高度な専門知識を持つ技術者
-- **[technician](/technician)**：機器の操作や保守など実務的な技術者
+- **[technician](/word/technician)**：機器の操作や保守など実務的な技術者
 
 engineerは理論や設計など上流工程を担うことが多く、technicianは実際の作業やメンテナンスを担当することが多いです。
 
@@ -105,14 +105,14 @@ engineerは理論や設計など上流工程を担うことが多く、technicia
 
 ## 🧩 あわせて覚えたい
 
-- [developer](/developer)：開発者、プログラマー
-- [architect](/architect)：建築家、設計者
+- [developer](/word/developer)：開発者、プログラマー
+- [architect](/word/architect)：建築家、設計者
 
 ---
 
 ## 📖 できればこれも
 
-- [project](/project)：プロジェクト、計画
-- [system](/system)：システム、仕組み
+- [project](/word/project)：プロジェクト、計画
+- [system](/word/system)：システム、仕組み
 
 <!-- cvid: aid24_bid22 -->

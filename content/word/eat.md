@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「食事をとる」「昼食を食べる」な
 ## 🤔  consume との違いは？
 
 - **eat**：日常的に「食べる」という意味で、カジュアルな場面で使う。
-- **[consume](/consume)**：フォーマルで「消費する」「摂取する」など幅広い意味を持つ。
+- **[consume](/word/consume)**：フォーマルで「消費する」「摂取する」など幅広い意味を持つ。
 
 eatは日常会話で使う「食べる」、consumeはビジネスや科学的な文脈で「消費する」「摂取する」といった広い意味で使われます。
 
@@ -105,14 +105,14 @@ eatは日常会話で使う「食べる」、consumeはビジネスや科学的�
 
 ## 🧩 あわせて覚えたい
 
-- [devour](/devour)：がつがつ食べる
-- [chew](/chew)：噛む
+- [devour](/word/devour)：がつがつ食べる
+- [chew](/word/chew)：噛む
 
 ---
 
 ## 📖 できればこれも
 
-- [drink](/drink)：飲む
-- [taste](/taste)：味わう
+- [drink](/word/drink)：飲む
+- [taste](/word/taste)：味わう
 
 <!-- cvid: aid43_bid06 -->

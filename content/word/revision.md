@@ -97,7 +97,7 @@ revisionは、TOEICの文書修正や改訂に関する設問でよく見かけ�
 ## 🤔  review との違いは？
 
 - **revision**：修正や改訂、または（英）復習の意味で、内容を実際に直すニュアンスが強い
-- **[review](/review)**：見直しや再検討の意味で、評価やチェックのニュアンスが強い
+- **[review](/word/review)**：見直しや再検討の意味で、評価やチェックのニュアンスが強い
 
 revisionは「内容を変える・直す」こと、reviewは「内容を評価・確認する」ことが主な違いです。
 
@@ -105,14 +105,14 @@ revisionは「内容を変える・直す」こと、reviewは「内容を評価
 
 ## 🧩 あわせて覚えたい
 
-- [amendment](/amendment)：（文書などの）修正、改正
-- [correction](/correction)：訂正、修正
+- [amendment](/word/amendment)：（文書などの）修正、改正
+- [correction](/word/correction)：訂正、修正
 
 ---
 
 ## 📖 できればこれも
 
-- [edit](/edit)：編集する、手を加える
-- [update](/update)：最新の状態にする、更新する
+- [edit](/word/edit)：編集する、手を加える
+- [update](/word/update)：最新の状態にする、更新する
 
 <!-- cvid: aid49_bid21 -->

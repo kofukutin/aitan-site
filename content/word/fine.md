@@ -97,7 +97,7 @@ TOEICでは、規則違反や契約違反に関する通知やお知らせの文
 ## 🤔  penalty との違いは？
 
 - **fine**：法律や規則違反に対して科される「罰金」
-- **[penalty](/penalty)**：罰金だけでなく、広く「罰則」「ペナルティ」を指す
+- **[penalty](/word/penalty)**：罰金だけでなく、広く「罰則」「ペナルティ」を指す
 
 fineは「お金を支払う罰」に限定されるのに対し、penaltyは「出場停止」や「減点」など金銭以外の罰も含みます。
 
@@ -105,14 +105,14 @@ fineは「お金を支払う罰」に限定されるのに対し、penaltyは「
 
 ## 🧩 あわせて覚えたい
 
-- [fee](/fee)：料金、手数料
-- [charge](/charge)：請求、料金
+- [fee](/word/fee)：料金、手数料
+- [charge](/word/charge)：請求、料金
 
 ---
 
 ## 📖 できればこれも
 
-- [bill](/bill)：請求書
-- [cost](/cost)：費用
+- [bill](/word/bill)：請求書
+- [cost](/word/cost)：費用
 
 <!-- cvid: aid01_bid13 -->

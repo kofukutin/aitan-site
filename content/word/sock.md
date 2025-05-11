@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で、服装や持ち物の説明として
 ## 🤔  stocking との違いは？
 
 - **sock**：くるぶしやふくらはぎまでの短めの靴下
-- **[stocking](/stocking)**：膝上まである長い女性用ストッキング
+- **[stocking](/word/stocking)**：膝上まである長い女性用ストッキング
 
 sockは日常的な短い靴下、stockingは主に女性用の長い薄手の靴下を指し、用途や長さが異なります。
 
@@ -106,14 +106,14 @@ sockは日常的な短い靴下、stockingは主に女性用の長い薄手の�
 
 ## 🧩 あわせて覚えたい
 
-- [shoe](/shoe)：靴
-- [glove](/glove)：手袋
+- [shoe](/word/shoe)：靴
+- [glove](/word/glove)：手袋
 
 ---
 
 ## 📖 できればこれも
 
-- [shirt](/shirt)：シャツ
-- [scarf](/scarf)：マフラー
+- [shirt](/word/shirt)：シャツ
+- [scarf](/word/scarf)：マフラー
 
 <!-- cvid: aid03_bid39 -->

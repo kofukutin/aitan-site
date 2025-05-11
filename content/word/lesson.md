@@ -97,7 +97,7 @@ TOEICでは、学校や研修、語学教室などの案内文やメールで「
 ## 🤔  class との違いは？
 
 - **lesson**：1回ごとの授業や学習単位、または教訓を指す
-- **[class](/class)**：学校の「授業」や「クラス（集団）」全体を指す
+- **[class](/word/class)**：学校の「授業」や「クラス（集団）」全体を指す
 
 lessonは「1コマの授業」や「教訓」に使い、classは「科目の授業」や「クラス全体」を表します。
 
@@ -105,13 +105,13 @@ lessonは「1コマの授業」や「教訓」に使い、classは「科目の�
 
 ## 🧩 あわせて覚えたい
 
-- [lecture](/lecture)：（大学などの）講義
-- [tutorial](/tutorial)：個別指導、チュートリアル
+- [lecture](/word/lecture)：（大学などの）講義
+- [tutorial](/word/tutorial)：個別指導、チュートリアル
 
 ---
 
 ## 📖 できればこれも
 
-- [subject](/subject)：科目、主題
-- [chapter](/chapter)：章、区切り
+- [subject](/word/subject)：科目、主題
+- [chapter](/word/chapter)：章、区切り
 <!-- cvid: aid32_bid22 -->

@@ -97,7 +97,7 @@ TOEICではビジネスシーンの会話や説明文で「現在の状況」を
 ## 🤔  now との違いは？
 
 - **currently**：今の時点で継続している状態をややフォーマルに表現
-- **[now](/now)**：今この瞬間をカジュアルに表現
+- **[now](/word/now)**：今この瞬間をカジュアルに表現
 
 「currently」はビジネスや書き言葉で使われやすく、継続的な状況に焦点を当てます。「now」は日常会話で「今すぐ」のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICではビジネスシーンの会話や説明文で「現在の状況」を
 
 ## 🧩 あわせて覚えたい
 
-- [presently](/presently)：間もなく、現在
-- [temporarily](/temporarily)：一時的に
+- [presently](/word/presently)：間もなく、現在
+- [temporarily](/word/temporarily)：一時的に
 
 ---
 
 ## 📖 できればこれも
 
-- [recently](/recently)：最近
-- [soon](/soon)：まもなく
+- [recently](/word/recently)：最近
+- [soon](/word/soon)：まもなく
 
 <!-- cvid: aid43_bid15 -->

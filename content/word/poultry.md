@@ -95,7 +95,7 @@ TOEICでは農業や食品関連の記事や広告文で登場することがあ
 ## 🤔  livestock との違いは？
 
 - **poultry**：ニワトリやアヒルなど、食用や卵用の鳥類全般
-- **[livestock](/livestock)**：牛や豚、羊など、農場で飼育される哺乳類の家畜全般
+- **[livestock](/word/livestock)**：牛や豚、羊など、農場で飼育される哺乳類の家畜全般
 
 poultryは鳥類に限定され、livestockは主に哺乳類の家畜を指します。
 
@@ -103,14 +103,14 @@ poultryは鳥類に限定され、livestockは主に哺乳類の家畜を指し�
 
 ## 🧩 あわせて覚えたい
 
-- [meat](/meat)：肉、食肉
-- [cattle](/cattle)：牛（特に家畜としての牛）
+- [meat](/word/meat)：肉、食肉
+- [cattle](/word/cattle)：牛（特に家畜としての牛）
 
 ---
 
 ## 📖 できればこれも
 
-- [grain](/grain)：穀物
-- [dairy](/dairy)：乳製品、酪農
+- [grain](/word/grain)：穀物
+- [dairy](/word/dairy)：乳製品、酪農
 
 <!-- cvid: aid45_bid43 -->

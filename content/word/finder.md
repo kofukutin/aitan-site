@@ -97,7 +97,7 @@ ITやビジネス文書、説明書などで「finder」が登場することが
 ## 🤔  searcher との違いは？
 
 - **finder**：何かを見つける人・物、または装置やソフト名としても使う
-- **[searcher](/searcher)**：積極的に探し回る人、調査者
+- **[searcher](/word/searcher)**：積極的に探し回る人、調査者
 
 finderは「見つけること」に重点があり、searcherは「探す行為」に重点があります。
 
@@ -105,14 +105,14 @@ finderは「見つけること」に重点があり、searcherは「探す行為
 
 ## 🧩 あわせて覚えたい
 
-- [explorer](/explorer)：探検家、調査者
-- [locator](/locator)：位置を特定する装置・人
+- [explorer](/word/explorer)：探検家、調査者
+- [locator](/word/locator)：位置を特定する装置・人
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/device)：装置、機器
-- [viewer](/viewer)：見る人、閲覧ソフト
+- [device](/word/device)：装置、機器
+- [viewer](/word/viewer)：見る人、閲覧ソフト
 
 <!-- cvid: aid28_bid12 -->

@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や説明文で「活用する」「利用す
 ## 🤔  use との違いは？
 
 - **utilize**：特定の目的のために有効活用する（フォーマル）
-- **[use](/use)**：一般的に「使う」、日常的で幅広い意味
+- **[use](/word/use)**：一般的に「使う」、日常的で幅広い意味
 
 utilizeは「有効活用」「目的意識」を強調し、useはもっと広くカジュアルに「使う」という意味で使われます。
 
@@ -105,14 +105,14 @@ utilizeは「有効活用」「目的意識」を強調し、useはもっと広�
 
 ## 🧩 あわせて覚えたい
 
-- [employ](/employ)：（方法・手段などを）用いる
-- [exploit](/exploit)：（資源・機会などを）最大限に活用する
+- [employ](/word/employ)：（方法・手段などを）用いる
+- [exploit](/word/exploit)：（資源・機会などを）最大限に活用する
 
 ---
 
 ## 📖 できればこれも
 
-- [implement](/implement)：実行する、導入する
-- [apply](/apply)：適用する、応用する
+- [implement](/word/implement)：実行する、導入する
+- [apply](/word/apply)：適用する、応用する
 
 <!-- cvid: aid11_bid16 -->

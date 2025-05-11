@@ -97,7 +97,7 @@ TOEICでは、建物や施設の場所を説明する文脈で形容詞として
 ## 🤔  located との違いは？
 
 - **situated**：ややフォーマルで、特定の場所や状況に「位置している」と説明する際に使う。
-- **[located](/located)**：より一般的で、単に「場所にある」という意味で幅広く使われる。
+- **[located](/word/located)**：より一般的で、単に「場所にある」という意味で幅広く使われる。
 
 「situated」は公式な説明や書き言葉でよく使われ、「located」は日常会話や案内文など幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、建物や施設の場所を説明する文脈で形容詞として
 
 ## 🧩 あわせて覚えたい
 
-- [position](/position)：位置、立場
-- [surrounding](/surrounding)：周囲の、周辺の
+- [position](/word/position)：位置、立場
+- [surrounding](/word/surrounding)：周囲の、周辺の
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/available)：利用できる、手に入る
-- [convenient](/convenient)：便利な
+- [available](/word/available)：利用できる、手に入る
+- [convenient](/word/convenient)：便利な
 
 <!-- cvid: aid31_bid34 -->

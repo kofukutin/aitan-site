@@ -97,7 +97,7 @@ TOEICでは、製品やプロジェクトの説明文、広告、社内文書な
 ## 🤔  plan との違いは？
 
 - **design**：見た目や機能を考えた設計や図案、またはその過程。
-- **[plan](/plan)**：目的達成のための計画や手順。
+- **[plan](/word/plan)**：目的達成のための計画や手順。
 
 designは「形や構造を考えること」、planは「何をどう進めるかの計画」を指し、designは見た目や機能に重点があります。
 
@@ -105,14 +105,14 @@ designは「形や構造を考えること」、planは「何をどう進める�
 
 ## 🧩 あわせて覚えたい
 
-- [draft](/draft)：下書き、草案
-- [concept](/concept)：概念、コンセプト
+- [draft](/word/draft)：下書き、草案
+- [concept](/word/concept)：概念、コンセプト
 
 ---
 
 ## 📖 できればこれも
 
-- [project](/project)：計画、プロジェクト
-- [layout](/layout)：配置、レイアウト
+- [project](/word/project)：計画、プロジェクト
+- [layout](/word/layout)：配置、レイアウト
 
 <!-- cvid: aid13_bid49 -->

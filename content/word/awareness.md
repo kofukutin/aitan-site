@@ -97,7 +97,7 @@ TOEICでは、環境問題やビジネス上の注意喚起など、社会的な
 ## 🤔  consciousness との違いは？
 
 - **awareness**：何かに気づいていること、特定の事柄への認識や意識
-- **[consciousness](/consciousness)**：意識そのもの、目覚めている状態や自我
+- **[consciousness](/word/consciousness)**：意識そのもの、目覚めている状態や自我
 
 awarenessは「特定の物事への気づきや認識」を指し、consciousnessは「意識そのもの」や「正気・覚醒状態」を表します。
 
@@ -105,14 +105,14 @@ awarenessは「特定の物事への気づきや認識」を指し、consciousne
 
 ## 🧩 あわせて覚えたい
 
-- [ignorance](/ignorance)：無知、知らないこと
-- [recognition](/recognition)：認識、認めること
+- [ignorance](/word/ignorance)：無知、知らないこと
+- [recognition](/word/recognition)：認識、認めること
 
 ---
 
 ## 📖 できればこれも
 
-- [campaign](/campaign)：キャンペーン、運動
-- [knowledge](/knowledge)：知識
+- [campaign](/word/campaign)：キャンペーン、運動
+- [knowledge](/word/knowledge)：知識
 
 <!-- cvid: aid31_bid36 -->

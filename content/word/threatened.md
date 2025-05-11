@@ -97,7 +97,7 @@ TOEICでは環境問題やビジネスのリスク説明など、文章中で「
 ## 🤔  endangered との違いは？
 
 - **threatened**：脅威や危険にさらされている状態全般を指し、絶滅の危機だけでなく幅広い場面で使える。
-- **[endangered](/endangered)**：特に「絶滅の危機にある」動植物に限定して使われることが多い。
+- **[endangered](/word/endangered)**：特に「絶滅の危機にある」動植物に限定して使われることが多い。
 
 threatenedは一般的な「脅かされている」状態、endangeredは「絶滅寸前」の深刻な状況を強調します。
 
@@ -105,14 +105,14 @@ threatenedは一般的な「脅かされている」状態、endangeredは「絶
 
 ## 🧩 あわせて覚えたい
 
-- [protected](/protected)：保護された
-- [extinct](/extinct)：絶滅した
+- [protected](/word/protected)：保護された
+- [extinct](/word/extinct)：絶滅した
 
 ---
 
 ## 📖 できればこれも
 
-- [harmful](/harmful)：有害な
-- [preserve](/preserve)：保護する
+- [harmful](/word/harmful)：有害な
+- [preserve](/word/preserve)：保護する
 
 <!-- cvid: aid27_bid17 -->

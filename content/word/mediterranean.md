@@ -104,14 +104,14 @@ Mediterraneanは特定の海やその周辺地域を表し、Europeは大陸全�
 
 ## 🧩 あわせて覚えたい
 
-- [ocean](/ocean)：海洋、大洋
-- [coast](/coast)：海岸、沿岸
+- [ocean](/word/ocean)：海洋、大洋
+- [coast](/word/coast)：海岸、沿岸
 
 ---
 
 ## 📖 できればこれも
 
-- [continent](/continent)：大陸
-- [island](/island)：島
+- [continent](/word/continent)：大陸
+- [island](/word/island)：島
 
 <!-- cvid: aid41_bid31 -->

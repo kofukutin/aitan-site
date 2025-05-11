@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写や健康・医療に関する場面で出
 ## 🤔  breathe との違いは？
 
 - **breath**：息、呼吸（名詞）―「息そのもの」や「一回分の呼吸」を表す
-- **[breathe](/breathe)**：呼吸する（動詞）―「息をする」という動作を表す
+- **[breathe](/word/breathe)**：呼吸する（動詞）―「息をする」という動作を表す
 
 「breath」は名詞で「息」や「呼吸」そのものを指し、「breathe」は動詞で「息をする」という行為を表します。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写や健康・医療に関する場面で出
 
 ## 🧩 あわせて覚えたい
 
-- [inhale](/inhale)：吸い込む、息を吸う
-- [exhale](/exhale)：吐き出す、息を吐く
+- [inhale](/word/inhale)：吸い込む、息を吸う
+- [exhale](/word/exhale)：吐き出す、息を吐く
 
 ---
 
 ## 📖 できればこれも
 
-- [cough](/cough)：咳をする
-- [sneeze](/sneeze)：くしゃみをする
+- [cough](/word/cough)：咳をする
+- [sneeze](/word/sneeze)：くしゃみをする
 
 <!-- cvid: aid15_bid18 -->

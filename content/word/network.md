@@ -97,7 +97,7 @@ TOEICではITやビジネスの文脈で「network」が頻出します。特に
 ## 🤔  system との違いは？
 
 - **network**：複数の要素がつながってできた「網状の構造」や「つながり」を強調
-- **[system](/system)**：全体として機能する「仕組み」や「体系」を強調
+- **[system](/word/system)**：全体として機能する「仕組み」や「体系」を強調
 
 networkは「つながり」や「連携」に焦点があり、systemは「全体の仕組み」や「構造」に重点があります。
 
@@ -105,14 +105,14 @@ networkは「つながり」や「連携」に焦点があり、systemは「全�
 
 ## 🧩 あわせて覚えたい
 
-- [connection](/connection)：接続、つながり
-- [infrastructure](/infrastructure)：基盤、インフラ
+- [connection](/word/connection)：接続、つながり
+- [infrastructure](/word/infrastructure)：基盤、インフラ
 
 ---
 
 ## 📖 できればこれも
 
-- [database](/database)：データベース、情報の集まり
-- [platform](/platform)：プラットフォーム、基盤となる環境
+- [database](/word/database)：データベース、情報の集まり
+- [platform](/word/platform)：プラットフォーム、基盤となる環境
 
 <!-- cvid: aid24_bid22 -->

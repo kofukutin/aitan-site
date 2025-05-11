@@ -97,7 +97,7 @@ TOEICでは新商品やプロジェクトの開始、サービスの導入など
 ## 🤔  release との違いは？
 
 - **launch**：新しいものを正式に始める・世に出す
-- **[release](/release)**：何かを解放する、公開する
+- **[release](/word/release)**：何かを解放する、公開する
 
 launchは「始動・開始」のニュアンスが強く、releaseは「公開・解禁」の意味合いが中心です。新製品の「発売開始」ならlaunch、情報や映画の「公開」ならreleaseが自然です。
 
@@ -105,14 +105,14 @@ launchは「始動・開始」のニュアンスが強く、releaseは「公開�
 
 ## 🧩 あわせて覚えたい
 
-- [initiate](/initiate)：始める、開始する
-- [cancel](/cancel)：中止する
+- [initiate](/word/initiate)：始める、開始する
+- [cancel](/word/cancel)：中止する
 
 ---
 
 ## 📖 できればこれも
 
-- [promote](/promote)：促進する、宣伝する
-- [develop](/develop)：開発する
+- [promote](/word/promote)：促進する、宣伝する
+- [develop](/word/develop)：開発する
 
 <!-- cvid: aid36_bid42 -->

@@ -97,7 +97,7 @@ TOEICでは、受動的な意味を持つ形容詞として、文法問題や説
 ## 🤔  regulated との違いは？
 
 - **controlled**：意図的に管理・制御されている状態を広く表す
-- **[regulated](/regulated)**：法律やルールなどによって厳しく規制されている状態
+- **[regulated](/word/regulated)**：法律やルールなどによって厳しく規制されている状態
 
 controlledは一般的な管理や制御を指し、regulatedは特に外部の規則や法律による厳格な規制を強調します。
 
@@ -105,14 +105,14 @@ controlledは一般的な管理や制御を指し、regulatedは特に外部の�
 
 ## 🧩 あわせて覚えたい
 
-- [supervised](/supervised)：監督された
-- [monitored](/monitored)：監視された
+- [supervised](/word/supervised)：監督された
+- [monitored](/word/monitored)：監視された
 
 ---
 
 ## 📖 できればこれも
 
-- [limited](/limited)：制限された
-- [organized](/organized)：整理された
+- [limited](/word/limited)：制限された
+- [organized](/word/organized)：整理された
 
 <!-- cvid: aid25_bid40 -->

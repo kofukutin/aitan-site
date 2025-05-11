@@ -97,7 +97,7 @@ TOEICでは、主に文中で「違い」「対比」を表す名詞として出
 ## 🤔  compare との違いは？
 
 - **contrast**：2つ以上の物事の「違い」や「対比」を強調する
-- **[compare](/compare)**：2つ以上の物事を「比較」し、似ている点や違いの両方を見る
+- **[compare](/word/compare)**：2つ以上の物事を「比較」し、似ている点や違いの両方を見る
 
 contrastは「違い」に焦点を当て、compareは「違い」と「共通点」の両方を探すときに使います。
 
@@ -105,14 +105,14 @@ contrastは「違い」に焦点を当て、compareは「違い」と「共通�
 
 ## 🧩 あわせて覚えたい
 
-- [distinction](/distinction)：区別、差異
-- [similarity](/similarity)：類似点
+- [distinction](/word/distinction)：区別、差異
+- [similarity](/word/similarity)：類似点
 
 ---
 
 ## 📖 できればこれも
 
-- [difference](/difference)：違い
-- [comparison](/comparison)：比較
+- [difference](/word/difference)：違い
+- [comparison](/word/comparison)：比較
 
 <!-- cvid: aid25_bid15 -->

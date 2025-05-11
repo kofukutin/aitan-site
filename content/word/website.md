@@ -97,7 +97,7 @@ TOEICでは案内文や広告、Eメールの中で「website」が頻出しま�
 ## 🤔  homepage との違いは？
 
 - **website**：複数のページを含む「ウェブサイト全体」
-- **[homepage](/homepage)**：ウェブサイトの「最初のページ」や「トップページ」
+- **[homepage](/word/homepage)**：ウェブサイトの「最初のページ」や「トップページ」
 
 websiteは全体、homepageはその入り口や最初のページを指します。混同しやすいですが、案内や連絡先を伝えるときはwebsiteが一般的です。
 
@@ -105,14 +105,14 @@ websiteは全体、homepageはその入り口や最初のページを指しま�
 
 ## 🧩 あわせて覚えたい
 
-- [portal](/portal)：ポータルサイト（情報の玄関口となるサイト）
-- [domain](/domain)：ドメイン（ウェブサイトの住所となる部分）
+- [portal](/word/portal)：ポータルサイト（情報の玄関口となるサイト）
+- [domain](/word/domain)：ドメイン（ウェブサイトの住所となる部分）
 
 ---
 
 ## 📖 できればこれも
 
-- [browser](/browser)：ブラウザ（ウェブページを見るためのソフト）
-- [link](/link)：リンク（ウェブページ同士をつなぐもの）
+- [browser](/word/browser)：ブラウザ（ウェブページを見るためのソフト）
+- [link](/word/link)：リンク（ウェブページ同士をつなぐもの）
 
 <!-- cvid: aid07_bid08 -->

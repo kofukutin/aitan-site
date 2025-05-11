@@ -97,7 +97,7 @@ TOEICでは環境問題や企業の取り組みを扱う長文で頻出します
 ## 🤔  discharge との違いは？
 
 - **emission**：主にガスや光などの「排出」「放出」を指し、環境や科学の文脈で使われることが多い。
-- **[discharge](/discharge)**：液体や電気などの「放出」「排出」を広く指し、医療や工業など多様な場面で使われる。
+- **[discharge](/word/discharge)**：液体や電気などの「放出」「排出」を広く指し、医療や工業など多様な場面で使われる。
 
 emissionは環境問題や大気中への排出に特化したニュアンスが強く、dischargeはより幅広い「放出」に使われます。
 
@@ -105,14 +105,14 @@ emissionは環境問題や大気中への排出に特化したニュアンスが
 
 ## 🧩 あわせて覚えたい
 
-- [pollution](/pollution)：汚染
-- [exhaust](/exhaust)：排気ガス
+- [pollution](/word/pollution)：汚染
+- [exhaust](/word/exhaust)：排気ガス
 
 ---
 
 ## 📖 できればこれも
 
-- [substance](/substance)：物質
-- [release](/release)：放出、解放
+- [substance](/word/substance)：物質
+- [release](/word/release)：放出、解放
 
 <!-- cvid: aid11_bid10 -->

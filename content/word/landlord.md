@@ -97,7 +97,7 @@ TOEICでは賃貸契約や不動産に関する長文やEメールでよく登�
 ## 🤔  owner との違いは？
 
 - **landlord**：不動産を貸している「大家」「家主」
-- **[owner](/owner)**：物や不動産など何かの「所有者」全般
+- **[owner](/word/owner)**：物や不動産など何かの「所有者」全般
 
 landlordは「貸している人」に限定され、ownerは単に「持っている人」を指します。
 
@@ -105,14 +105,14 @@ landlordは「貸している人」に限定され、ownerは単に「持って�
 
 ## 🧩 あわせて覚えたい
 
-- [tenant](/tenant)：借り手、賃借人
-- [lease](/lease)：賃貸契約
+- [tenant](/word/tenant)：借り手、賃借人
+- [lease](/word/lease)：賃貸契約
 
 ---
 
 ## 📖 できればこれも
 
-- [rent](/rent)：家賃、賃貸する
-- [property](/property)：不動産、財産
+- [rent](/word/rent)：家賃、賃貸する
+- [property](/word/property)：不動産、財産
 
 <!-- cvid: aid15_bid28 -->

@@ -97,7 +97,7 @@ TOEICでは主に長文読解やビジネス文書の中で「要約する」「
 ## 🤔  summarize との違いは？
 
 - **digest**：内容をよく理解し、要点を吸収・要約する
-- **[summarize](/summarize)**：単純に短くまとめる、要約する
+- **[summarize](/word/summarize)**：単純に短くまとめる、要約する
 
 digestは「理解して自分のものにする」ニュアンスがあり、summarizeは「簡潔にまとめる」ことに重点があります。
 
@@ -105,14 +105,14 @@ digestは「理解して自分のものにする」ニュアンスがあり、su
 
 ## 🧩 あわせて覚えたい
 
-- [absorb](/absorb)：吸収する
-- [analyze](/analyze)：分析する
+- [absorb](/word/absorb)：吸収する
+- [analyze](/word/analyze)：分析する
 
 ---
 
 ## 📖 できればこれも
 
-- [interpret](/interpret)：解釈する
-- [review](/review)：見直す
+- [interpret](/word/interpret)：解釈する
+- [review](/word/review)：見直す
 
 <!-- cvid: aid08_bid31 -->

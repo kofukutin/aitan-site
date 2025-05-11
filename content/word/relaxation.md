@@ -97,7 +97,7 @@ TOEICでは、福利厚生や健康、ストレス管理に関する長文や案
 ## 🤔  rest との違いは？
 
 - **relaxation**：くつろいで心身をリフレッシュすること、または緊張や規則の緩和
-- **[rest](/rest)**：休息や睡眠など、活動を止めて体力を回復すること
+- **[rest](/word/rest)**：休息や睡眠など、活動を止めて体力を回復すること
 
 relaxationは「心身の緊張をほぐすこと」に重点があり、restは「体を休めること」に重点があります。
 
@@ -105,14 +105,14 @@ relaxationは「心身の緊張をほぐすこと」に重点があり、restは
 
 ## 🧩 あわせて覚えたい
 
-- [leisure](/leisure)：余暇、自由時間
-- [stress](/stress)：ストレス、緊張
+- [leisure](/word/leisure)：余暇、自由時間
+- [stress](/word/stress)：ストレス、緊張
 
 ---
 
 ## 📖 できればこれも
 
-- [comfort](/comfort)：快適さ、心地よさ
-- [break](/break)：休憩、中断
+- [comfort](/word/comfort)：快適さ、心地よさ
+- [break](/word/break)：休憩、中断
 
 <!-- cvid: aid09_bid01 -->

@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や会議の文脈で「最終決定する」
 ## 🤔  complete との違いは？
 
 - **finalize**：最終決定や仕上げの意味が強く、公式な手続きや合意に使われる。
-- **[complete](/complete)**：単に「終える」「完成させる」という広い意味で使われる。
+- **[complete](/word/complete)**：単に「終える」「完成させる」という広い意味で使われる。
 
 finalizeは「最終的に確定する」ニュアンスがあり、completeは「全ての作業を終える」ことに重点があります。
 
@@ -105,14 +105,14 @@ finalizeは「最終的に確定する」ニュアンスがあり、completeは�
 
 ## 🧩 あわせて覚えたい
 
-- [confirm](/confirm)：確認する、確定する
-- [approve](/approve)：承認する
+- [confirm](/word/confirm)：確認する、確定する
+- [approve](/word/approve)：承認する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/arrange)：手配する、準備する
-- [submit](/submit)：提出する
+- [arrange](/word/arrange)：手配する、準備する
+- [submit](/word/submit)：提出する
 
 <!-- cvid: aid31_bid14 -->

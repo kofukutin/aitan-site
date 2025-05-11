@@ -97,7 +97,7 @@ TOEICの長文読解パートで、説明文や比較、要約の中で「本質
 ## 🤔  basically との違いは？
 
 - **essentially**：本質や根本的な部分を強調して「本質的に」「根本的には」と言いたいときに使う
-- **[basically](/basically)**：細かい点を除いて「基本的に」「大まかに」と言いたいときに使う
+- **[basically](/word/basically)**：細かい点を除いて「基本的に」「大まかに」と言いたいときに使う
 
 「essentially」は物事の本質や根本に焦点を当てるのに対し、「basically」は細部を省略して大まかな特徴を述べるときに使います。
 
@@ -105,14 +105,14 @@ TOEICの長文読解パートで、説明文や比較、要約の中で「本質
 
 ## 🧩 あわせて覚えたい
 
-- [fundamentally](/fundamentally)：根本的に
-- [primarily](/primarily)：主に
+- [fundamentally](/word/fundamentally)：根本的に
+- [primarily](/word/primarily)：主に
 
 ---
 
 ## 📖 できればこれも
 
-- [significantly](/significantly)：著しく、かなり
-- [particularly](/particularly)：特に
+- [significantly](/word/significantly)：著しく、かなり
+- [particularly](/word/particularly)：特に
 
 <!-- cvid: aid38_bid13 -->

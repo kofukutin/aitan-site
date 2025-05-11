@@ -97,7 +97,7 @@ TOEICでは「easy to ～」や「an easy task」など、形容詞として頻�
 ## 🤔  simple との違いは？
 
 - **easy**：努力や苦労が少なく、やさしいこと
-- **[simple](/simple)**：構造や仕組みが複雑でなく、単純なこと
+- **[simple](/word/simple)**：構造や仕組みが複雑でなく、単純なこと
 
 「easy」は「やさしい」「苦労しない」という感覚、「simple」は「複雑でない」「単純」という構造的な違いを表します。
 
@@ -105,14 +105,14 @@ TOEICでは「easy to ～」や「an easy task」など、形容詞として頻�
 
 ## 🧩 あわせて覚えたい
 
-- [difficult](/difficult)：難しい
-- [comfortable](/comfortable)：快適な
+- [difficult](/word/difficult)：難しい
+- [comfortable](/word/comfortable)：快適な
 
 ---
 
 ## 📖 できればこれも
 
-- [hard](/hard)：難しい、固い
-- [quick](/quick)：速い
+- [hard](/word/hard)：難しい、固い
+- [quick](/word/quick)：速い
 
 <!-- cvid: aid11_bid09 -->

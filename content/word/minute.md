@@ -97,7 +97,7 @@ minuteはTOEICの会話や説明文で「時間の単位」として頻出しま
 ## 🤔  moment との違いは？
 
 - **minute**：60秒の「分」や、会議の「議事録」を表す。
-- **[moment](/moment)**：「瞬間」や「一時的な時点」を表す。
+- **[moment](/word/moment)**：「瞬間」や「一時的な時点」を表す。
 
 minuteは具体的な時間の長さや記録を指し、momentは一瞬や短い出来事を強調します。
 
@@ -105,14 +105,14 @@ minuteは具体的な時間の長さや記録を指し、momentは一瞬や短�
 
 ## 🧩 あわせて覚えたい
 
-- [second](/second)：秒（時間の単位）
-- [hour](/hour)：時間（60分）
+- [second](/word/second)：秒（時間の単位）
+- [hour](/word/hour)：時間（60分）
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/schedule)：予定、スケジュール
-- [appointment](/appointment)：予約、約束
+- [schedule](/word/schedule)：予定、スケジュール
+- [appointment](/word/appointment)：予約、約束
 
 <!-- cvid: aid08_bid01 -->

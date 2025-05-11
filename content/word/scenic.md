@@ -97,7 +97,7 @@ The hotel offers scenic views of the mountains.
 ## 🤔  picturesque との違いは？
 
 - **scenic**：自然や場所の「景色が美しい」「風光明媚な」ことを表す
-- **[picturesque](/picturesque)**：絵のように美しい、特に独特で印象的な美しさを強調
+- **[picturesque](/word/picturesque)**：絵のように美しい、特に独特で印象的な美しさを強調
 
 scenicは一般的な「景色の良さ」を表し、picturesqueは「絵になるような美しさ」や「趣のある美しさ」を強調します。
 
@@ -105,14 +105,14 @@ scenicは一般的な「景色の良さ」を表し、picturesqueは「絵にな
 
 ## 🧩 あわせて覚えたい
 
-- [spectacular](/spectacular)：壮観な、目を見張るような
-- [urban](/urban)：都会の、都市の
+- [spectacular](/word/spectacular)：壮観な、目を見張るような
+- [urban](/word/urban)：都会の、都市の
 
 ---
 
 ## 📖 できればこれも
 
-- [landscape](/landscape)：風景、景観
-- [attraction](/attraction)：観光名所、魅力
+- [landscape](/word/landscape)：風景、景観
+- [attraction](/word/attraction)：観光名所、魅力
 
 <!-- cvid: aid08_bid33 -->

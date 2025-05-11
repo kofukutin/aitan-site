@@ -97,7 +97,7 @@ TOEICではレストランやホテル、職場の福利厚生などの場面で
 ## 🤔  dish との違いは？
 
 - **meal**：朝食・昼食など「食事」全体を指す
-- **[dish](/dish)**：一皿の料理や特定の料理を指す
+- **[dish](/word/dish)**：一皿の料理や特定の料理を指す
 
 「meal」は食事のまとまり全体、「dish」はその中の一品や料理を指すので、使い分けに注意しましょう。
 
@@ -105,14 +105,14 @@ TOEICではレストランやホテル、職場の福利厚生などの場面で
 
 ## 🧩 あわせて覚えたい
 
-- [snack](/snack)：軽食、おやつ
-- [refreshment](/refreshment)：軽い飲食物、リフレッシュ用の飲み物や軽食
+- [snack](/word/snack)：軽食、おやつ
+- [refreshment](/word/refreshment)：軽い飲食物、リフレッシュ用の飲み物や軽食
 
 ---
 
 ## 📖 できればこれも
 
-- [breakfast](/breakfast)：朝食
-- [lunch](/lunch)：昼食
+- [breakfast](/word/breakfast)：朝食
+- [lunch](/word/lunch)：昼食
 
 <!-- cvid: aid17_bid15 -->

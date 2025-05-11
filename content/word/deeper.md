@@ -97,7 +97,7 @@ TOEICでは、会話や説明文で「さらに深く調べる」「より深い
 ## 🤔  further との違いは？
 
 - **deeper**：物理的・比喩的に「より深く」掘り下げることを強調
-- **[further](/further)**：距離や程度、進行など「さらに先へ」「もっと進んで」という広い意味
+- **[further](/word/further)**：距離や程度、進行など「さらに先へ」「もっと進んで」という広い意味
 
 「deeper」は深さや内容の濃さに焦点を当て、「further」は範囲や進行の「さらに先」を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、会話や説明文で「さらに深く調べる」「より深い
 
 ## 🧩 あわせて覚えたい
 
-- [profound](/profound)：深い、深遠な
-- [shallow](/shallow)：浅い
+- [profound](/word/profound)：深い、深遠な
+- [shallow](/word/shallow)：浅い
 
 ---
 
 ## 📖 できればこれも
 
-- [closer](/closer)：より近く
-- [higher](/higher)：より高く
+- [closer](/word/closer)：より近く
+- [higher](/word/higher)：より高く
 
 <!-- cvid: aid02_bid03 -->

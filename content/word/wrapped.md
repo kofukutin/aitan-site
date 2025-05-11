@@ -97,7 +97,7 @@ TOEICでは、商品の包装やプレゼント、食べ物の説明などで「
 ## 🤔  covered との違いは？
 
 - **wrapped**：何かでしっかり包まれている、包装されている状態
-- **[covered](/covered)**：何かが上にかぶさっている、覆われている状態
+- **[covered](/word/covered)**：何かが上にかぶさっている、覆われている状態
 
 「wrapped」は物全体が包まれているイメージ、「covered」は表面が覆われているだけの場合にも使います。
 
@@ -105,14 +105,14 @@ TOEICでは、商品の包装やプレゼント、食べ物の説明などで「
 
 ## 🧩 あわせて覚えたい
 
-- [enclosed](/enclosed)：囲まれた、同封された
-- [sealed](/sealed)：密封された、封がされた
+- [enclosed](/word/enclosed)：囲まれた、同封された
+- [sealed](/word/sealed)：密封された、封がされた
 
 ---
 
 ## 📖 できればこれも
 
-- [folded](/folded)：折りたたまれた
-- [packed](/packed)：詰められた、梱包された
+- [folded](/word/folded)：折りたたまれた
+- [packed](/word/packed)：詰められた、梱包された
 
 <!-- cvid: aid25_bid40 -->

@@ -97,7 +97,7 @@ TOEICでは主にメールや報告書、ニュース記事などの長文で「
 ## 🤔  incident との違いは？
 
 - **accident**：予期せず起こる事故や不運な出来事
-- **[incident](/incident)**：事件・出来事（事故以外も含む、ややフォーマル）
+- **[incident](/word/incident)**：事件・出来事（事故以外も含む、ややフォーマル）
 
 「accident」は主に不運な事故やケガなどを指し、「incident」は事件や出来事全般を幅広く表します。
 
@@ -105,14 +105,14 @@ TOEICでは主にメールや報告書、ニュース記事などの長文で「
 
 ## 🧩 あわせて覚えたい
 
-- [disaster](/disaster)：大災害、惨事
-- [mistake](/mistake)：間違い、誤り
+- [disaster](/word/disaster)：大災害、惨事
+- [mistake](/word/mistake)：間違い、誤り
 
 ---
 
 ## 📖 できればこれも
 
-- [damage](/damage)：損害、被害
-- [injury](/injury)：けが、負傷
+- [damage](/word/damage)：損害、被害
+- [injury](/word/injury)：けが、負傷
 
 <!-- cvid: aid15_bid28 -->

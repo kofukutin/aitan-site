@@ -97,7 +97,7 @@ memorialは、観光案内や歴史的な説明文、イベント案内などで
 ## 🤔  monument との違いは？
 
 - **memorial**：主に人や出来事を追悼・記念するための碑や施設
-- **[monument](/monument)**：歴史的・文化的に重要な建造物や記念碑全般
+- **[monument](/word/monument)**：歴史的・文化的に重要な建造物や記念碑全般
 
 memorialは「追悼」の意味合いが強く、monumentは「歴史的価値」や「偉業の記念」など幅広い対象に使われます。
 
@@ -105,14 +105,14 @@ memorialは「追悼」の意味合いが強く、monumentは「歴史的価値�
 
 ## 🧩 あわせて覚えたい
 
-- [tribute](/tribute)：賛辞、感謝や敬意を表すもの
-- [anniversary](/anniversary)：記念日
+- [tribute](/word/tribute)：賛辞、感謝や敬意を表すもの
+- [anniversary](/word/anniversary)：記念日
 
 ---
 
 ## 📖 できればこれも
 
-- [ceremony](/ceremony)：式典、儀式
-- [statue](/statue)：像、彫像
+- [ceremony](/word/ceremony)：式典、儀式
+- [statue](/word/statue)：像、彫像
 
 <!-- cvid: aid29_bid45 -->

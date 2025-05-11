@@ -97,7 +97,7 @@ TOEICでは、形容詞として「expanded team」「expanded services」など
 ## 🤔  extended との違いは？
 
 - **expanded**：もともとあったものが範囲や規模を広げて「拡大した」状態
-- **[extended](/extended)**：時間や長さ、期間などが「延長された」状態
+- **[extended](/word/extended)**：時間や長さ、期間などが「延長された」状態
 
 expandedは「広がる・大きくなる」イメージ、extendedは「長くなる・延びる」イメージで使い分けます。
 
@@ -105,14 +105,14 @@ expandedは「広がる・大きくなる」イメージ、extendedは「長く�
 
 ## 🧩 あわせて覚えたい
 
-- [broadened](/broadened)：広げられた、広くなった
-- [enlarged](/enlarged)：（物理的に）大きくなった、拡大された
+- [broadened](/word/broadened)：広げられた、広くなった
+- [enlarged](/word/enlarged)：（物理的に）大きくなった、拡大された
 
 ---
 
 ## 📖 できればこれも
 
-- [expand](/expand)：拡大する、広げる
-- [expansion](/expansion)：拡大、拡張
+- [expand](/word/expand)：拡大する、広げる
+- [expansion](/word/expansion)：拡大、拡張
 
 <!-- cvid: aid46_bid36 -->

@@ -97,7 +97,7 @@ TOEICでは、メールや記事、レポートなどの「文章」や「書く
 ## 🤔  composition との違いは？
 
 - **writing**：書くこと全般や書かれたもの全体を幅広く指す
-- **[composition](/composition)**：特に「作文」「構成された文章」など、まとまった文章や作品を指す
+- **[composition](/word/composition)**：特に「作文」「構成された文章」など、まとまった文章や作品を指す
 
 writingは「書く行為」や「書かれたもの」全般を表し、compositionは「まとまった作品」や「作文」など形式的な文章に使われます。
 
@@ -105,14 +105,14 @@ writingは「書く行為」や「書かれたもの」全般を表し、composi
 
 ## 🧩 あわせて覚えたい
 
-- [essay](/essay)：エッセイ、小論文
-- [manuscript](/manuscript)：原稿、手書き文書
+- [essay](/word/essay)：エッセイ、小論文
+- [manuscript](/word/manuscript)：原稿、手書き文書
 
 ---
 
 ## 📖 できればこれも
 
-- [reading](/reading)：読むこと、読解
-- [article](/article)：記事、論説
+- [reading](/word/reading)：読むこと、読解
+- [article](/word/article)：記事、論説
 
 <!-- cvid: aid01_bid35 -->

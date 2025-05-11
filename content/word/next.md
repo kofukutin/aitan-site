@@ -97,7 +97,7 @@ TOEICでは会議や予定、順番を説明する場面で頻出します。特
 ## 🤔  following との違いは？
 
 - **next**：今の直後や順番で「次の」「隣の」という意味で使う
-- **[following](/following)**：今の後に続くもの全体や「次の〜」という意味で、ややフォーマル
+- **[following](/word/following)**：今の後に続くもの全体や「次の〜」という意味で、ややフォーマル
 
 「next」は「すぐ次」のニュアンスが強く、日常会話やカジュアルな場面でよく使われます。「following」は書き言葉や案内文などで「次の〜」とややフォーマルに使われます。
 
@@ -105,14 +105,14 @@ TOEICでは会議や予定、順番を説明する場面で頻出します。特
 
 ## 🧩 あわせて覚えたい
 
-- [previous](/previous)：前の
-- [upcoming](/upcoming)：これから来る、近々の
+- [previous](/word/previous)：前の
+- [upcoming](/word/upcoming)：これから来る、近々の
 
 ---
 
 ## 📖 できればこれも
 
-- [last](/last)：最後の、前回の
-- [after](/after)：〜の後に
+- [last](/word/last)：最後の、前回の
+- [after](/word/after)：〜の後に
 
 <!-- cvid: aid12_bid42 -->

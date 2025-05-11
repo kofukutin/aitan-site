@@ -96,7 +96,7 @@ TOEICでは職場や学校のシーンで、食事や休憩場所の話題とし
 ## 🤔  canteen との違いは？
 
 - **cafeteria**：セルフサービス式の食堂や軽食堂を指し、特にアメリカ英語でよく使われます。
-- **[canteen](/canteen)**：主にイギリス英語で使われ、学校や職場の食堂を指しますが、軍隊の食堂や水筒の意味もあります。
+- **[canteen](/word/canteen)**：主にイギリス英語で使われ、学校や職場の食堂を指しますが、軍隊の食堂や水筒の意味もあります。
 
 cafeteriaはアメリカで一般的な表現、canteenはイギリスや軍隊で使われることが多い点が異なります。
 
@@ -104,14 +104,14 @@ cafeteriaはアメリカで一般的な表現、canteenはイギリスや軍隊�
 
 ## 🧩 あわせて覚えたい
 
-- [restaurant](/restaurant)：レストラン、飲食店
-- [dining hall](/dining_hall)：（大学や寮などの）大食堂
+- [restaurant](/word/restaurant)：レストラン、飲食店
+- [dining hall](/word/dining_hall)：（大学や寮などの）大食堂
 
 ---
 
 ## 📖 できればこれも
 
-- [lunch](/lunch)：昼食
-- [menu](/menu)：メニュー
+- [lunch](/word/lunch)：昼食
+- [menu](/word/menu)：メニュー
 
 <!-- cvid: aid07_bid13 -->

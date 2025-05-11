@@ -97,7 +97,7 @@ Please remember to take your pill after lunch.
 ## 🤔  tablet との違いは？
 
 - **pill**：一般的な丸薬や錠剤全般を指し、形や種類を問わず使われます。
-- **[tablet](/tablet)**：平たい円形の錠剤を特に指し、形状が限定されます。
+- **[tablet](/word/tablet)**：平たい円形の錠剤を特に指し、形状が限定されます。
 
 pillは薬の形状全般に使えますが、tabletは「平たい錠剤」に限定されるため、形に注目する場合は使い分けが必要です。
 
@@ -105,14 +105,14 @@ pillは薬の形状全般に使えますが、tabletは「平たい錠剤」に�
 
 ## 🧩 あわせて覚えたい
 
-- [capsule](/capsule)：カプセル（薬の一種で、ゼラチンなどで包まれたもの）
-- [medicine](/medicine)：薬（治療や予防のために使う一般的な薬）
+- [capsule](/word/capsule)：カプセル（薬の一種で、ゼラチンなどで包まれたもの）
+- [medicine](/word/medicine)：薬（治療や予防のために使う一般的な薬）
 
 ---
 
 ## 📖 できればこれも
 
-- [prescription](/prescription)：処方箋
-- [dose](/dose)：服用量
+- [prescription](/word/prescription)：処方箋
+- [dose](/word/dose)：服用量
 
 <!-- cvid: aid22_bid43 -->

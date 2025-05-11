@@ -105,14 +105,14 @@ TOEICでは、ホテルやイベントの案内、規約などで「adult」と�
 
 ## 🧩 あわせて覚えたい
 
-- [minor](/minor)：未成年
-- [adolescent](/adolescent)：思春期の人、青年
+- [minor](/word/minor)：未成年
+- [adolescent](/word/adolescent)：思春期の人、青年
 
 ---
 
 ## 📖 できればこれも
 
-- [child](/child)：子ども
-- [teenager](/teenager)：10代の若者
+- [child](/word/child)：子ども
+- [teenager](/word/teenager)：10代の若者
 
 <!-- cvid: aid21_bid00 -->

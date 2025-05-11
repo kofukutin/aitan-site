@@ -97,7 +97,7 @@ TOEICでは地図や道案内、交通に関する会話で出題されやすい
 ## 🤔  intersection との違いは？
 
 - **junction**：複数の道や線路などが合流・接続する場所全般
-- **[intersection](/intersection)**：主に道路同士が直角に交わる「交差点」
+- **[intersection](/word/intersection)**：主に道路同士が直角に交わる「交差点」
 
 junctionは「合流点」や「接続点」として幅広く使われ、intersectionは特に道路の「交差点」に限定されることが多いです。
 
@@ -105,14 +105,14 @@ junctionは「合流点」や「接続点」として幅広く使われ、inters
 
 ## 🧩 あわせて覚えたい
 
-- [connection](/connection)：接続、つながり
-- [crossroad](/crossroad)：十字路、岐路
+- [connection](/word/connection)：接続、つながり
+- [crossroad](/word/crossroad)：十字路、岐路
 
 ---
 
 ## 📖 できればこれも
 
-- [route](/route)：道、経路
-- [station](/station)：駅
+- [route](/word/route)：道、経路
+- [station](/word/station)：駅
 
 <!-- cvid: aid36_bid02 -->

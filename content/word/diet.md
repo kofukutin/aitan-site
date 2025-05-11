@@ -97,7 +97,7 @@ The company offers advice on diet and nutrition to employees.
 ## 🤔  nutrition との違いは？
 
 - **diet**：日常的な食事内容や、特定の目的のための食事制限を指す。
-- **[nutrition](/nutrition)**：食事から摂取する栄養素や栄養状態を指す。
+- **[nutrition](/word/nutrition)**：食事から摂取する栄養素や栄養状態を指す。
 
 「diet」は「何を食べるか」という食事内容に焦点があり、「nutrition」は「食事から得られる栄養」に焦点があります。
 
@@ -105,14 +105,14 @@ The company offers advice on diet and nutrition to employees.
 
 ## 🧩 あわせて覚えたい
 
-- [meal](/meal)：食事（1回分の食事）
-- [fast](/fast)：断食、絶食
+- [meal](/word/meal)：食事（1回分の食事）
+- [fast](/word/fast)：断食、絶食
 
 ---
 
 ## 📖 できればこれも
 
-- [exercise](/exercise)：運動
-- [habit](/habit)：習慣
+- [exercise](/word/exercise)：運動
+- [habit](/word/habit)：習慣
 
 <!-- cvid: aid34_bid42 -->

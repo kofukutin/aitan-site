@@ -97,7 +97,7 @@ TOEICでは、丁寧な依頼や控えめな質問表現として会話文でよ
 ## 🤔  thinking との違いは？
 
 - **wondering**：疑問や興味を持って「～かな」と考える
-- **[thinking](/thinking)**：単に「考えている」「思案している」
+- **[thinking](/word/thinking)**：単に「考えている」「思案している」
 
 **wondering** は「どうなんだろう？」と疑問や好奇心を含むニュアンス、**thinking** は単純に考えを巡らせている状態を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、丁寧な依頼や控えめな質問表現として会話文でよ
 
 ## 🧩 あわせて覚えたい
 
-- [consider](/consider)：よく考える、検討する
-- [doubt](/doubt)：疑う、疑念を持つ
+- [consider](/word/consider)：よく考える、検討する
+- [doubt](/word/doubt)：疑う、疑念を持つ
 
 ---
 
 ## 📖 できればこれも
 
-- [suppose](/suppose)：～だと思う、仮定する
-- [guess](/guess)：推測する、当てる
+- [suppose](/word/suppose)：～だと思う、仮定する
+- [guess](/word/guess)：推測する、当てる
 
 <!-- cvid: aid40_bid03 -->

@@ -97,7 +97,7 @@ pleaseはTOEICのリスニング（特にPart 2）で依頼や丁寧な表現と
 ## 🤔  satisfy との違いは？
 
 - **please**：人を喜ばせたり、気分を良くさせることに重点がある
-- **[satisfy](/satisfy)**：要求や条件を満たすことに重点がある
+- **[satisfy](/word/satisfy)**：要求や条件を満たすことに重点がある
 
 pleaseは感情面での「喜ばせる」、satisfyは「基準や条件を満たす」時に使います。
 
@@ -105,14 +105,14 @@ pleaseは感情面での「喜ばせる」、satisfyは「基準や条件を満�
 
 ## 🧩 あわせて覚えたい
 
-- [delight](/delight)：大いに喜ばせる
-- [annoy](/annoy)：いらいらさせる
+- [delight](/word/delight)：大いに喜ばせる
+- [annoy](/word/annoy)：いらいらさせる
 
 ---
 
 ## 📖 できればこれも
 
-- [prefer](/prefer)：より好む
-- [enjoy](/enjoy)：楽しむ
+- [prefer](/word/prefer)：より好む
+- [enjoy](/word/enjoy)：楽しむ
 
 <!-- cvid: aid23_bid18 -->

@@ -93,7 +93,7 @@ TOEICでは会話や説明文で「ゆっくり進む」「ゆっくり話す」
 ## 🤔  gradually との違いは？
 
 - **slowly**：単に「速度が遅い」「ゆっくりと」という意味。
-- **[gradually](/gradually)**：少しずつ段階的に進む、変化するという意味。
+- **[gradually](/word/gradually)**：少しずつ段階的に進む、変化するという意味。
 
 「slowly」は単にスピードが遅いことを表し、「gradually」は変化や進行が段階的であることを強調します。
 
@@ -101,14 +101,14 @@ TOEICでは会話や説明文で「ゆっくり進む」「ゆっくり話す」
 
 ## 🧩 あわせて覚えたい
 
-- [quickly](/quickly)：速く
-- [steadily](/steadily)：着実に
+- [quickly](/word/quickly)：速く
+- [steadily](/word/steadily)：着実に
 
 ---
 
 ## 📖 できればこれも
 
-- [carefully](/carefully)：注意深く
-- [easily](/easily)：簡単に
+- [carefully](/word/carefully)：注意深く
+- [easily](/word/easily)：簡単に
 
 <!-- cvid: aid49_bid28 -->

@@ -97,7 +97,7 @@ TOEICでは、手順やルールに従って「適切に」行うことを問う
 ## 🤔  correctly との違いは？
 
 - **properly**：状況やルールに合った「適切な」やり方で
-- **[correctly](/correctly)**：間違いなく「正確に」
+- **[correctly](/word/correctly)**：間違いなく「正確に」
 
 properlyは「ふさわしい方法で」という意味合いが強く、correctlyは「正しい答え・ミスがない」ことに重点があります。
 
@@ -105,14 +105,14 @@ properlyは「ふさわしい方法で」という意味合いが強く、correc
 
 ## 🧩 あわせて覚えたい
 
-- [appropriately](/appropriately)：適切に
-- [suitably](/suitably)：ふさわしく
+- [appropriately](/word/appropriately)：適切に
+- [suitably](/word/suitably)：ふさわしく
 
 ---
 
 ## 📖 できればこれも
 
-- [carefully](/carefully)：注意深く
-- [efficiently](/efficiently)：効率的に
+- [carefully](/word/carefully)：注意深く
+- [efficiently](/word/efficiently)：効率的に
 
 <!-- cvid: aid38_bid31 -->

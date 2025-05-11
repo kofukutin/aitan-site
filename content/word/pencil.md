@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、文房具やオフィスの備品と
 ## 🤔  pen との違いは？
 
 - **pencil**：芯を削って書く鉛筆。消しゴムで消せる。
-- **[pen](/pen)**：インクで書くペン。消しにくい。
+- **[pen](/word/pen)**：インクで書くペン。消しにくい。
 
 pencilは消しゴムで消せる鉛筆、penはインクで消せないペンを指し、用途や書き味が異なります。
 
@@ -105,14 +105,14 @@ pencilは消しゴムで消せる鉛筆、penはインクで消せないペン�
 
 ## 🧩 あわせて覚えたい
 
-- [eraser](/eraser)：消しゴム
-- [notebook](/notebook)：ノート
+- [eraser](/word/eraser)：消しゴム
+- [notebook](/word/notebook)：ノート
 
 ---
 
 ## 📖 できればこれも
 
-- [paper](/paper)：紙
-- [ruler](/ruler)：定規
+- [paper](/word/paper)：紙
+- [ruler](/word/ruler)：定規
 
 <!-- cvid: aid15_bid11 -->

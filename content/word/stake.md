@@ -97,7 +97,7 @@ TOEICではビジネス文書や記事で「出資」「持分」「利害関係
 ## 🤔  share との違いは？
 
 - **stake**：企業やプロジェクトなどへの「出資」「持分」「利害関係」を強調する表現
-- **[share](/share)**：会社の「株式」や「分け前」など、より具体的な「分けられた一部」を指す
+- **[share](/word/share)**：会社の「株式」や「分け前」など、より具体的な「分けられた一部」を指す
 
 stakeは「利害関係」や「出資額」など、全体に対する自分の関与や影響度を示すのに使い、shareは「株式」や「分け前」といった具体的な分割単位を指します。
 
@@ -105,14 +105,14 @@ stakeは「利害関係」や「出資額」など、全体に対する自分の
 
 ## 🧩 あわせて覚えたい
 
-- [investment](/investment)：投資
-- [interest](/interest)：利害、関心、（金融の）利息
+- [investment](/word/investment)：投資
+- [interest](/word/interest)：利害、関心、（金融の）利息
 
 ---
 
 ## 📖 できればこれも
 
-- [asset](/asset)：資産
-- [equity](/equity)：株式、自己資本
+- [asset](/word/asset)：資産
+- [equity](/word/equity)：株式、自己資本
 
 <!-- cvid: aid18_bid37 -->

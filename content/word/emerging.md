@@ -97,7 +97,7 @@ TOEICでは主にビジネスや経済に関する長文で「emerging markets�
 ## 🤔  growing との違いは？
 
 - **emerging**：新しく現れてきている、これから注目される段階
-- **[growing](/growing)**：すでに存在していて、規模や数が増えている
+- **[growing](/word/growing)**：すでに存在していて、規模や数が増えている
 
 「emerging」は「これから伸びる・現れたばかり」のニュアンスが強く、「growing」は「すでに存在していて成長中」という違いがあります。
 
@@ -105,14 +105,14 @@ TOEICでは主にビジネスや経済に関する長文で「emerging markets�
 
 ## 🧩 あわせて覚えたい
 
-- [developing](/developing)：発展途上の
-- [established](/established)：確立された
+- [developing](/word/developing)：発展途上の
+- [established](/word/established)：確立された
 
 ---
 
 ## 📖 できればこれも
 
-- [innovative](/innovative)：革新的な
-- [rapid](/rapid)：急速な
+- [innovative](/word/innovative)：革新的な
+- [rapid](/word/rapid)：急速な
 
 <!-- cvid: aid28_bid12 -->

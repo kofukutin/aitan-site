@@ -97,7 +97,7 @@ TOEICでは、専門的な業務や分野を説明する文脈でよく登場し
 ## 🤔  specific との違いは？
 
 - **specialized**：特定の分野や目的に特化している、専門的な
-- **[specific](/specific)**：明確に限定された、具体的な
+- **[specific](/word/specific)**：明確に限定された、具体的な
 
 「specialized」は専門性や特化性を強調し、「specific」は範囲や内容がはっきり決まっていることを表します。
 
@@ -105,14 +105,14 @@ TOEICでは、専門的な業務や分野を説明する文脈でよく登場し
 
 ## 🧩 あわせて覚えたい
 
-- [general](/general)：一般的な、全体的な
-- [expert](/expert)：専門家、熟練者
+- [general](/word/general)：一般的な、全体的な
+- [expert](/word/expert)：専門家、熟練者
 
 ---
 
 ## 📖 できればこれも
 
-- [technical](/technical)：技術的な
-- [advanced](/advanced)：高度な
+- [technical](/word/technical)：技術的な
+- [advanced](/word/advanced)：高度な
 
 <!-- cvid: aid42_bid31 -->

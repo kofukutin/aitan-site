@@ -96,7 +96,7 @@ TOEICではIT関連の説明やマニュアル、製品案内などで「disk」
 ## 🤔  disc との違いは？
 
 - **disk**：主にIT分野で使われる「ディスク」、ハードディスクやフロッピーディスクなど。
-- **[disc](/disc)**：CDやDVDなど音楽・映像メディア、またはイギリス英語で一般的な綴り。
+- **[disc](/word/disc)**：CDやDVDなど音楽・映像メディア、またはイギリス英語で一般的な綴り。
 
 diskはITやコンピュータ関連で使われることが多く、discは音楽CDやDVD、またはイギリス英語で一般的です。
 
@@ -104,14 +104,14 @@ diskはITやコンピュータ関連で使われることが多く、discは音�
 
 ## 🧩 あわせて覚えたい
 
-- [drive](/drive)：ドライブ、記憶装置
-- [storage](/storage)：保存、記憶媒体
+- [drive](/word/drive)：ドライブ、記憶装置
+- [storage](/word/storage)：保存、記憶媒体
 
 ---
 
 ## 📖 できればこれも
 
-- [file](/file)：ファイル、書類
-- [data](/data)：データ、情報
+- [file](/word/file)：ファイル、書類
+- [data](/word/data)：データ、情報
 
 <!-- cvid: aid04_bid30 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文読解で、学校や教育機関、または組
 ## 🤔  president との違いは？
 
 - **principal**：学校や組織の「主要な人物」や「校長」を指す。教育現場で特によく使う。
-- **[president](/president)**：会社や団体の「社長」「会長」など、組織のトップを指す。
+- **[president](/word/president)**：会社や団体の「社長」「会長」など、組織のトップを指す。
 
 principalは教育機関や一部の組織で使われ、presidentは企業や団体のトップに使われる点が異なります。
 
@@ -105,14 +105,14 @@ principalは教育機関や一部の組織で使われ、presidentは企業や�
 
 ## 🧩 あわせて覚えたい
 
-- [headmaster](/headmaster)：（主にイギリス英語で）校長
-- [manager](/manager)：管理職、マネージャー
+- [headmaster](/word/headmaster)：（主にイギリス英語で）校長
+- [manager](/word/manager)：管理職、マネージャー
 
 ---
 
 ## 📖 できればこれも
 
-- [faculty](/faculty)：（大学などの）教員、学部
-- [administrator](/administrator)：管理者、運営者
+- [faculty](/word/faculty)：（大学などの）教員、学部
+- [administrator](/word/administrator)：管理者、運営者
 
 <!-- cvid: aid38_bid22 -->

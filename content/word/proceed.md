@@ -97,7 +97,7 @@ TOEICでは会議や手続き、業務の進行に関する文脈でよく出題
 ## 🤔  continue との違いは？
 
 - **proceed**：何かを始めた後、次の段階や手順に「進む」「進行する」ことを強調。ややフォーマル。
-- **[continue](/continue)**：中断せず「続ける」「継続する」ことを表し、日常的で幅広く使う。
+- **[continue](/word/continue)**：中断せず「続ける」「継続する」ことを表し、日常的で幅広く使う。
 
 proceedは「次の段階へ進む」ニュアンスがあり、continueは「同じことを続ける」イメージです。
 
@@ -105,14 +105,14 @@ proceedは「次の段階へ進む」ニュアンスがあり、continueは「�
 
 ## 🧩 あわせて覚えたい
 
-- [advance](/advance)：前進する、進歩する
-- [halt](/halt)：停止する、止まる
+- [advance](/word/advance)：前進する、進歩する
+- [halt](/word/halt)：停止する、止まる
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/process)：過程、処理
-- [complete](/complete)：完了する、完成させる
+- [process](/word/process)：過程、処理
+- [complete](/word/complete)：完了する、完成させる
 
 <!-- cvid: aid02_bid01 -->

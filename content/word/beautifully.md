@@ -97,7 +97,7 @@ TOEICでは会話や説明文で、動作や成果を肯定的に評価する際
 ## 🤔  gracefully との違いは？
 
 - **beautifully**：見た目や仕上がりが美しい、または素晴らしい様子を幅広く表す
-- **[gracefully](/gracefully)**：動きや態度が優雅で上品な様子を強調
+- **[gracefully](/word/gracefully)**：動きや態度が優雅で上品な様子を強調
 
 beautifullyは「美しさ」全般に使えますが、gracefullyは特に「動きの優雅さ」や「上品さ」に焦点を当てます。
 
@@ -105,14 +105,14 @@ beautifullyは「美しさ」全般に使えますが、gracefullyは特に「�
 
 ## 🧩 あわせて覚えたい
 
-- [elegantly](/elegantly)：上品に、優雅に
-- [perfectly](/perfectly)：完璧に、申し分なく
+- [elegantly](/word/elegantly)：上品に、優雅に
+- [perfectly](/word/perfectly)：完璧に、申し分なく
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/quickly)：素早く
-- [carefully](/carefully)：注意深く
+- [quickly](/word/quickly)：素早く
+- [carefully](/word/carefully)：注意深く
 
 <!-- cvid: aid43_bid34 -->

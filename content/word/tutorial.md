@@ -96,7 +96,7 @@ TOEICでは、教育やIT関連の長文や説明文で「tutorial」が登場�
 ## 🤔  lecture との違いは？
 
 - **tutorial**：少人数や個別で行う実践的な指導や解説
-- **[lecture](/lecture)**：大人数向けの一方向的な講義
+- **[lecture](/word/lecture)**：大人数向けの一方向的な講義
 
 tutorialは実践や質問ができる双方向型、lectureは先生が一方的に話す形式が多いです。
 
@@ -104,14 +104,14 @@ tutorialは実践や質問ができる双方向型、lectureは先生が一方�
 
 ## 🧩 あわせて覚えたい
 
-- [workshop](/workshop)：体験型の講習会
-- [seminar](/seminar)：討論や発表を含む少人数の講義
+- [workshop](/word/workshop)：体験型の講習会
+- [seminar](/word/seminar)：討論や発表を含む少人数の講義
 
 ---
 
 ## 📖 できればこれも
 
-- [assignment](/assignment)：課題、宿題
-- [instructor](/instructor)：指導者、講師
+- [assignment](/word/assignment)：課題、宿題
+- [instructor](/word/instructor)：指導者、講師
 
 <!-- cvid: aid13_bid05 -->

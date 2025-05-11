@@ -97,7 +97,7 @@ TOEICでは主にオフィスやビジネスシーンの文脈で登場し、備
 ## 🤔  abacus との違いは？
 
 - **calculator**：電子的またはソフトウェアの計算機。現代的でボタン操作が特徴。
-- **[abacus](/abacus)**：そろばん。珠を動かして計算する伝統的な道具。
+- **[abacus](/word/abacus)**：そろばん。珠を動かして計算する伝統的な道具。
 
 calculatorは現代の電子機器、abacusは手動の伝統的な計算道具という違いがあります。
 
@@ -105,14 +105,14 @@ calculatorは現代の電子機器、abacusは手動の伝統的な計算道具�
 
 ## 🧩 あわせて覚えたい
 
-- [device](/device)：装置、機器
-- [computer](/computer)：コンピュータ、計算機
+- [device](/word/device)：装置、機器
+- [computer](/word/computer)：コンピュータ、計算機
 
 ---
 
 ## 📖 できればこれも
 
-- [keyboard](/keyboard)：キーボード
-- [printer](/printer)：プリンター
+- [keyboard](/word/keyboard)：キーボード
+- [printer](/word/printer)：プリンター
 
 <!-- cvid: aid26_bid05 -->

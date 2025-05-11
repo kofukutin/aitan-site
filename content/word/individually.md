@@ -97,7 +97,7 @@ TOEICでは説明文や指示文で「個別に対応する」「それぞれ別
 ## 🤔  separately との違いは？
 
 - **individually**：一人ひとり・一つひとつを強調して「個別に」
-- **[separately](/separately)**：まとめず「別々に」、分離のニュアンスが強い
+- **[separately](/word/separately)**：まとめず「別々に」、分離のニュアンスが強い
 
 individuallyは「個人や個体ごと」に焦点を当てるのに対し、separatelyは「一緒ではなく分けて」という分離の意味が中心です。
 
@@ -105,14 +105,14 @@ individuallyは「個人や個体ごと」に焦点を当てるのに対し、se
 
 ## 🧩 あわせて覚えたい
 
-- [personally](/personally)：個人的に、自分自身で
-- [collectively](/collectively)：集団で、まとめて
+- [personally](/word/personally)：個人的に、自分自身で
+- [collectively](/word/collectively)：集団で、まとめて
 
 ---
 
 ## 📖 できればこれも
 
-- [together](/together)：一緒に
-- [respectively](/respectively)：それぞれ、各々
+- [together](/word/together)：一緒に
+- [respectively](/word/respectively)：それぞれ、各々
 
 <!-- cvid: aid44_bid33 -->

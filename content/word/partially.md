@@ -93,7 +93,7 @@ TOEICでは、部分的な進行や限定的な状況を説明する文脈で出
 ## 🤔  partly との違いは？
 
 - **partially**：全体の一部だけ、限定的に（ややフォーマル）
-- **[partly](/partly)**：一部、ある程度（ややカジュアル）
+- **[partly](/word/partly)**：一部、ある程度（ややカジュアル）
 
 「partially」は「部分的に」という意味で、ややフォーマルな場面や限定的な状況で使われやすいのに対し、「partly」は日常的な「一部」「ある程度」というニュアンスで使われます。
 
@@ -101,14 +101,14 @@ TOEICでは、部分的な進行や限定的な状況を説明する文脈で出
 
 ## 🧩 あわせて覚えたい
 
-- [entirely](/entirely)：完全に
-- [incompletely](/incompletely)：不完全に
+- [entirely](/word/entirely)：完全に
+- [incompletely](/word/incompletely)：不完全に
 
 ---
 
 ## 📖 できればこれも
 
-- [completely](/completely)：完全に
-- [slightly](/slightly)：わずかに
+- [completely](/word/completely)：完全に
+- [slightly](/word/slightly)：わずかに
 
 <!-- cvid: aid09_bid35 -->

@@ -97,7 +97,7 @@ TOEICでは、書類やレポート、計画などを「見直す」「再検討
 ## 🤔  checked との違いは？
 
 - **reviewed**：全体を見直したり、評価・再検討したりするニュアンス
-- **[checked](/checked)**：主に間違いがないか確認する、点検するニュアンス
+- **[checked](/word/checked)**：主に間違いがないか確認する、点検するニュアンス
 
 **reviewed** は内容全体を評価・再検討する場合に使い、**checked** は主にミスや抜けがないかを確認する場面で使います。
 
@@ -105,14 +105,14 @@ TOEICでは、書類やレポート、計画などを「見直す」「再検討
 
 ## 🧩 あわせて覚えたい
 
-- [inspect](/inspect)：詳しく調べる、検査する
-- [approve](/approve)：承認する、認める
+- [inspect](/word/inspect)：詳しく調べる、検査する
+- [approve](/word/approve)：承認する、認める
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/submit)：提出する
-- [revise](/revise)：修正する、改訂する
+- [submit](/word/submit)：提出する
+- [revise](/word/revise)：修正する、改訂する
 
 <!-- cvid: aid35_bid29 -->

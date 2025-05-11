@@ -97,7 +97,7 @@ TOEICでは、時制や過去の出来事を説明する文脈でよく登場し
 ## 🤔  previous との違いは？
 
 - **past**：今より前の「過去」そのものや出来事を指す名詞。
-- **[previous](/previous)**：「直前の」「前の」といった、順序的に一つ前を指す形容詞。
+- **[previous](/word/previous)**：「直前の」「前の」といった、順序的に一つ前を指す形容詞。
 
 「past」は時間的な「過去」全体を指し、「previous」は何かの直前や一つ前を強調する時に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、時制や過去の出来事を説明する文脈でよく登場し
 
 ## 🧩 あわせて覚えたい
 
-- [history](/history)：歴史、経歴
-- [future](/future)：未来
+- [history](/word/history)：歴史、経歴
+- [future](/word/future)：未来
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/present)：現在
-- [recent](/recent)：最近の
+- [present](/word/present)：現在
+- [recent](/word/recent)：最近の
 
 <!-- cvid: aid02_bid14 -->

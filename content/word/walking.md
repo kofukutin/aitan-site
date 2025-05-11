@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写問題で「歩いている人」や「歩く様
 ## 🤔  strolling との違いは？
 
 - **walking**：一般的に「歩くこと」全般を指し、速さや目的を問わない中立的な表現。
-- **[strolling](/strolling)**：ゆっくりとぶらぶら歩くこと、散歩のようなリラックスした歩行。
+- **[strolling](/word/strolling)**：ゆっくりとぶらぶら歩くこと、散歩のようなリラックスした歩行。
 
 walkingは「歩く」という行為全体を指しますが、strollingは「のんびり歩く」ニュアンスが強く、気分や雰囲気を重視します。
 
@@ -105,14 +105,14 @@ walkingは「歩く」という行為全体を指しますが、strollingは「�
 
 ## 🧩 あわせて覚えたい
 
-- [running](/running)：走ること
-- [hiking](/hiking)：ハイキング、山歩き
+- [running](/word/running)：走ること
+- [hiking](/word/hiking)：ハイキング、山歩き
 
 ---
 
 ## 📖 できればこれも
 
-- [run](/run)：走る
-- [move](/move)：動く、移動する
+- [run](/word/run)：走る
+- [move](/word/move)：動く、移動する
 
 <!-- cvid: aid02_bid46 -->

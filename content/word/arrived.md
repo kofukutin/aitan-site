@@ -97,7 +97,7 @@ TOEICでは、到着や移動に関する会話や指示文で頻出します。
 ## 🤔  reached との違いは？
 
 - **arrived**：目的地に「到着した」ことを強調
-- **[reached](/reached)**：目的地や目標に「到達した」ことを幅広く表現
+- **[reached](/word/reached)**：目的地や目標に「到達した」ことを幅広く表現
 
 「arrived」は主に場所への到着を表し、「reached」は場所だけでなく目標や水準など抽象的な到達にも使えます。
 
@@ -105,14 +105,14 @@ TOEICでは、到着や移動に関する会話や指示文で頻出します。
 
 ## 🧩 あわせて覚えたい
 
-- [depart](/depart)：出発する
-- [come](/come)：来る
+- [depart](/word/depart)：出発する
+- [come](/word/come)：来る
 
 ---
 
 ## 📖 できればこれも
 
-- [leave](/leave)：去る、出発する
-- [return](/return)：戻る
+- [leave](/word/leave)：去る、出発する
+- [return](/word/return)：戻る
 
 <!-- cvid: aid14_bid28 -->

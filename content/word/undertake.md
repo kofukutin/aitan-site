@@ -97,7 +97,7 @@ TOEICでは主にPart 5で、契約や業務の説明文中に「undertake」が
 ## 🤔  assume との違いは？
 
 - **undertake**：責任や仕事などを「引き受けて実際に行動する」ことを強調
-- **[assume](/assume)**：責任や役割などを「引き受ける」だが、実際の行動よりも「地位や役割を持つこと」に重点
+- **[assume](/word/assume)**：責任や役割などを「引き受ける」だが、実際の行動よりも「地位や役割を持つこと」に重点
 
 undertakeは「実際に何かを始める・行う」ニュアンスが強く、assumeは「役割や責任を持つこと自体」に焦点があります。
 
@@ -105,14 +105,14 @@ undertakeは「実際に何かを始める・行う」ニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [attempt](/attempt)：試みる、挑戦する
-- [commit](/commit)：（責任などを）約束する、委ねる
+- [attempt](/word/attempt)：試みる、挑戦する
+- [commit](/word/commit)：（責任などを）約束する、委ねる
 
 ---
 
 ## 📖 できればこれも
 
-- [accomplish](/accomplish)：成し遂げる、達成する
-- [proceed](/proceed)：進む、続ける
+- [accomplish](/word/accomplish)：成し遂げる、達成する
+- [proceed](/word/proceed)：進む、続ける
 
 <!-- cvid: aid41_bid33 -->

@@ -97,7 +97,7 @@ TOEICでは「事業」「運営」「操作」などの意味で頻出します
 ## 🤔  procedure との違いは？
 
 - **operation**：実際の運営や活動、または手術など「動き」や「実行」に重点
-- **[procedure](/procedure)**：手順や方法など「順序立てたやり方」に重点
+- **[procedure](/word/procedure)**：手順や方法など「順序立てたやり方」に重点
 
 operationは「実際に動かすこと」、procedureは「やり方や手順」に焦点がある点が異なります。
 
@@ -105,14 +105,14 @@ operationは「実際に動かすこと」、procedureは「やり方や手順�
 
 ## 🧩 あわせて覚えたい
 
-- [transaction](/transaction)：取引、処理
-- [function](/function)：機能、役割
+- [transaction](/word/transaction)：取引、処理
+- [function](/word/function)：機能、役割
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/process)：過程、処理
-- [activity](/activity)：活動、行動
+- [process](/word/process)：過程、処理
+- [activity](/word/activity)：活動、行動
 
 <!-- cvid: aid18_bid35 -->

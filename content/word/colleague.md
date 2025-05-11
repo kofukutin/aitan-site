@@ -97,7 +97,7 @@ TOEICでは主にメールや社内文書、会議の議事録などで「同僚
 ## 🤔  coworker との違いは？
 
 - **colleague**：フォーマルで、専門職やオフィスワークなど幅広い職場で使われる「同僚」
-- **[coworker](/coworker)**：ややカジュアルで、特にアメリカ英語で一般的な「同僚」
+- **[coworker](/word/coworker)**：ややカジュアルで、特にアメリカ英語で一般的な「同僚」
 
 「colleague」は職場での協力関係や専門性を強調する場面で使われ、「coworker」はより日常的・カジュアルなニュアンスです。
 
@@ -105,14 +105,14 @@ TOEICでは主にメールや社内文書、会議の議事録などで「同僚
 
 ## 🧩 あわせて覚えたい
 
-- [associate](/associate)：仕事仲間、同僚
-- [supervisor](/supervisor)：上司、監督者
+- [associate](/word/associate)：仕事仲間、同僚
+- [supervisor](/word/supervisor)：上司、監督者
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/client)：顧客、取引先
-- [manager](/manager)：管理職、マネージャー
+- [client](/word/client)：顧客、取引先
+- [manager](/word/manager)：管理職、マネージャー
 
 <!-- cvid: aid36_bid14 -->

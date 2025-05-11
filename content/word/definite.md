@@ -97,7 +97,7 @@ TOEICでは、選択肢の形容詞問題や、明確さを問う文脈でよく
 ## 🤔  specific との違いは？
 
 - **definite**：曖昧さがなく、はっきりしていることを強調
-- **[specific](/specific)**：特定のものや詳細に焦点を当てる
+- **[specific](/word/specific)**：特定のものや詳細に焦点を当てる
 
 「definite」は「明確である」こと、「specific」は「特定の内容や詳細」に焦点を当てる点が異なります。
 
@@ -105,14 +105,14 @@ TOEICでは、選択肢の形容詞問題や、明確さを問う文脈でよく
 
 ## 🧩 あわせて覚えたい
 
-- [vague](/vague)：曖昧な
-- [certain](/certain)：確かな、ある特定の
+- [vague](/word/vague)：曖昧な
+- [certain](/word/certain)：確かな、ある特定の
 
 ---
 
 ## 📖 できればこれも
 
-- [precise](/precise)：正確な
-- [clear](/clear)：明確な
+- [precise](/word/precise)：正確な
+- [clear](/word/clear)：明確な
 
 <!-- cvid: aid23_bid48 -->

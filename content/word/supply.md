@@ -97,7 +97,7 @@ TOEICではビジネスや物流、在庫管理の文脈で頻出します。会
 ## 🤔  provide との違いは？
 
 - **supply**：必要なものを「供給」することや、その「在庫・物資」自体を指す。
-- **[provide](/provide)**：必要なものやサービスを「与える」「提供する」こと全般。
+- **[provide](/word/provide)**：必要なものやサービスを「与える」「提供する」こと全般。
 
 supplyは物資や在庫など「物」に焦点があり、provideは「サービス」や「情報」など幅広い対象に使われます。
 
@@ -105,14 +105,14 @@ supplyは物資や在庫など「物」に焦点があり、provideは「サー�
 
 ## 🧩 あわせて覚えたい
 
-- [demand](/demand)：需要、要求
-- [stock](/stock)：在庫、蓄え
+- [demand](/word/demand)：需要、要求
+- [stock](/word/stock)：在庫、蓄え
 
 ---
 
 ## 📖 できればこれも
 
-- [order](/order)：注文、注文する
-- [deliver](/deliver)：配達する、届ける
+- [order](/word/order)：注文、注文する
+- [deliver](/word/deliver)：配達する、届ける
 
 <!-- cvid: aid22_bid15 -->

@@ -97,7 +97,7 @@ TOEICでは主にメールやビジネス文書の中で「添付ファイル」
 ## 🤔  enclosure との違いは？
 
 - **attachment**：主にメールの「添付ファイル」や物理的な「付属物」を指す
-- **[enclosure](/enclosure)**：手紙や書類に同封する「同封物」を指す
+- **[enclosure](/word/enclosure)**：手紙や書類に同封する「同封物」を指す
 
 attachmentはデジタルや物理的な「取り付けられたもの」に幅広く使われ、enclosureは特に郵送や書類の「同封物」に限定されます。
 
@@ -105,14 +105,14 @@ attachmentはデジタルや物理的な「取り付けられたもの」に幅�
 
 ## 🧩 あわせて覚えたい
 
-- [document](/document)：文書、書類
-- [file](/file)：ファイル、書類
+- [document](/word/document)：文書、書類
+- [file](/word/file)：ファイル、書類
 
 ---
 
 ## 📖 できればこれも
 
-- [application](/application)：申請書、アプリケーション
-- [agreement](/agreement)：契約、合意
+- [application](/word/application)：申請書、アプリケーション
+- [agreement](/word/agreement)：契約、合意
 
 <!-- cvid: aid41_bid49 -->

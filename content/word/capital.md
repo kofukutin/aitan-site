@@ -97,7 +97,7 @@ TOEICでは主にビジネスや金融関連の長文で「資本」という意
 ## 🤔  asset との違いは？
 
 - **capital**：事業運営や投資のための元手となる資金や財産
-- **[asset](/asset)**：会社や個人が所有する価値ある資産全般
+- **[asset](/word/asset)**：会社や個人が所有する価値ある資産全般
 
 capitalは「運用や投資のための元手」としての資金を指し、assetは「土地・建物・機械」など広い意味での資産を指します。
 
@@ -105,14 +105,14 @@ capitalは「運用や投資のための元手」としての資金を指し、a
 
 ## 🧩 あわせて覚えたい
 
-- [fund](/fund)：資金、基金
-- [debt](/debt)：負債、借金
+- [fund](/word/fund)：資金、基金
+- [debt](/word/debt)：負債、借金
 
 ---
 
 ## 📖 できればこれも
 
-- [profit](/profit)：利益
-- [investment](/investment)：投資
+- [profit](/word/profit)：利益
+- [investment](/word/investment)：投資
 
 <!-- cvid: aid41_bid02 -->

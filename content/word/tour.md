@@ -97,7 +97,7 @@ The factory tour will start at 2 p.m.
 ## 🤔  trip との違いは？
 
 - **tour**：複数の場所を巡る計画的な観光や見学
-- **[trip](/trip)**：目的地への移動や短期間の旅行全般
+- **[trip](/word/trip)**：目的地への移動や短期間の旅行全般
 
 tourは「見学・観光で巡る」ニュアンス、tripは「移動や滞在を含む旅行」全般を指します。
 
@@ -105,14 +105,14 @@ tourは「見学・観光で巡る」ニュアンス、tripは「移動や滞在
 
 ## 🧩 あわせて覚えたい
 
-- [excursion](/excursion)：遠足、小旅行
-- [journey](/journey)：長い旅、道のり
+- [excursion](/word/excursion)：遠足、小旅行
+- [journey](/word/journey)：長い旅、道のり
 
 ---
 
 ## 📖 できればこれも
 
-- [guide](/guide)：案内人、ガイド
-- [visit](/visit)：訪問する、訪問
+- [guide](/word/guide)：案内人、ガイド
+- [visit](/word/visit)：訪問する、訪問
 
 <!-- cvid: aid44_bid18 -->

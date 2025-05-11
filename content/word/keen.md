@@ -97,7 +97,7 @@ TOEICでは「be keen to do（～したがっている）」や「keen interest�
 ## 🤔  eager との違いは？
 
 - **keen**：熱心さや関心が強いこと、または感覚が鋭いことを表す。
-- **[eager](/eager)**：何かを強く望んで待ちきれない気持ちを表す。
+- **[eager](/word/eager)**：何かを強く望んで待ちきれない気持ちを表す。
 
 keenは「意欲や興味が強い」ニュアンスで、eagerは「待ちきれないほどやりたい」気持ちの高ぶりを強調します。
 
@@ -105,14 +105,14 @@ keenは「意欲や興味が強い」ニュアンスで、eagerは「待ちき�
 
 ## 🧩 あわせて覚えたい
 
-- [reluctant](/reluctant)：気が進まない、しぶしぶの
-- [enthusiastic](/enthusiastic)：熱狂的な、非常に熱心な
+- [reluctant](/word/reluctant)：気が進まない、しぶしぶの
+- [enthusiastic](/word/enthusiastic)：熱狂的な、非常に熱心な
 
 ---
 
 ## 📖 できればこれも
 
-- [willing](/willing)：～する気がある、快く～する
-- [motivated](/motivated)：やる気がある、動機づけられた
+- [willing](/word/willing)：～する気がある、快く～する
+- [motivated](/word/motivated)：やる気がある、動機づけられた
 
 <!-- cvid: aid00_bid48 -->

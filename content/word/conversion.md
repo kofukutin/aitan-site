@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やIT関連の長文で「変換」「転換�
 ## 🤔  transformation との違いは？
 
 - **conversion**：用途や性質が変わる「変換」「転換」を意味し、実用的・機能的な変化に使われやすい。
-- **[transformation](/transformation)**：姿や形、性質が大きく変わる「変形」「変容」を意味し、より劇的・根本的な変化に使われる。
+- **[transformation](/word/transformation)**：姿や形、性質が大きく変わる「変形」「変容」を意味し、より劇的・根本的な変化に使われる。
 
 conversionは「AをBに変える」など具体的な変換に、transformationは「劇的な変化」や「進化」に使われることが多いです。
 
@@ -105,14 +105,14 @@ conversionは「AをBに変える」など具体的な変換に、transformation
 
 ## 🧩 あわせて覚えたい
 
-- [exchange](/exchange)：交換、両替
-- [adaptation](/adaptation)：適応、順応
+- [exchange](/word/exchange)：交換、両替
+- [adaptation](/word/adaptation)：適応、順応
 
 ---
 
 ## 📖 できればこれも
 
-- [transfer](/transfer)：移動、転送
-- [modification](/modification)：修正、変更
+- [transfer](/word/transfer)：移動、転送
+- [modification](/word/modification)：修正、変更
 
 <!-- cvid: aid30_bid38 -->

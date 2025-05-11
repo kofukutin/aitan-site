@@ -97,7 +97,7 @@ TOEICでは、物流や運搬、仕事量に関する会話や説明でよく登
 ## 🤔  cargo との違いは？
 
 - **load**：運ばれる荷物や積み荷全般、または比喩的な負担も指す
-- **[cargo](/cargo)**：特に船や飛行機などで運ばれる商業用の貨物
+- **[cargo](/word/cargo)**：特に船や飛行機などで運ばれる商業用の貨物
 
 loadは日常的な「荷物」や「負担」も含みますが、cargoは商業輸送の「貨物」に限定されます。
 
@@ -105,14 +105,14 @@ loadは日常的な「荷物」や「負担」も含みますが、cargoは商�
 
 ## 🧩 あわせて覚えたい
 
-- [burden](/burden)：重荷、負担
-- [shipment](/shipment)：発送、出荷
+- [burden](/word/burden)：重荷、負担
+- [shipment](/word/shipment)：発送、出荷
 
 ---
 
 ## 📖 できればこれも
 
-- [weight](/weight)：重さ、重量
-- [package](/package)：小包、パッケージ
+- [weight](/word/weight)：重さ、重量
+- [package](/word/package)：小包、パッケージ
 
 <!-- cvid: aid39_bid36 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 7の旅行案内や出張関連のメール、案内文で
 ## 🤔  schedule との違いは？
 
 - **itinerary**：旅行や出張などの「旅程表」「移動計画」を指し、訪問先や移動時間など詳細が含まれる。
-- **[schedule](/schedule)**：一般的な「予定表」「スケジュール」で、仕事や学校など幅広い場面で使う。
+- **[schedule](/word/schedule)**：一般的な「予定表」「スケジュール」で、仕事や学校など幅広い場面で使う。
 
 itineraryは旅行や移動に特化した計画表、scheduleは日常の予定全般に使います。
 
@@ -105,14 +105,14 @@ itineraryは旅行や移動に特化した計画表、scheduleは日常の予定
 
 ## 🧩 あわせて覚えたい
 
-- [route](/route)：経路、道筋
-- [agenda](/agenda)：議題、会議の予定表
+- [route](/word/route)：経路、道筋
+- [agenda](/word/agenda)：議題、会議の予定表
 
 ---
 
 ## 📖 できればこれも
 
-- [reservation](/reservation)：予約
-- [destination](/destination)：目的地
+- [reservation](/word/reservation)：予約
+- [destination](/word/destination)：目的地
 
 <!-- cvid: aid27_bid41 -->

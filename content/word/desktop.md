@@ -97,7 +97,7 @@ TOEICではIT機器やオフィス環境に関する会話や説明で登場し�
 ## 🤔  laptop との違いは？
 
 - **desktop**：机の上に据え置くタイプのパソコンや机の上自体を指す
-- **[laptop](/laptop)**：持ち運びできるノート型パソコン
+- **[laptop](/word/laptop)**：持ち運びできるノート型パソコン
 
 desktopは据え置き型、laptopは持ち運び型という違いがあり、用途や場面で使い分けます。
 
@@ -105,14 +105,14 @@ desktopは据え置き型、laptopは持ち運び型という違いがあり、�
 
 ## 🧩 あわせて覚えたい
 
-- [monitor](/monitor)：ディスプレイ、画面
-- [workstation](/workstation)：作業用の高性能コンピュータ
+- [monitor](/word/monitor)：ディスプレイ、画面
+- [workstation](/word/workstation)：作業用の高性能コンピュータ
 
 ---
 
 ## 📖 できればこれも
 
-- [keyboard](/keyboard)：キーボード
-- [screen](/screen)：画面
+- [keyboard](/word/keyboard)：キーボード
+- [screen](/word/screen)：画面
 
 <!-- cvid: aid44_bid17 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、食事やレストランの場面で
 ## 🤔  loaf との違いは？
 
 - **bread**：パン全体やパンという食品そのものを指す（不可算名詞）
-- **[loaf](/loaf)**：パン1本や1塊など、形のある「ひと塊」を指す（可算名詞）
+- **[loaf](/word/loaf)**：パン1本や1塊など、形のある「ひと塊」を指す（可算名詞）
 
 breadは「パン」という食べ物全体を表し、loafは「1本」「1個」といった具体的な形を表します。
 
@@ -105,14 +105,14 @@ breadは「パン」という食べ物全体を表し、loafは「1本」「1個
 
 ## 🧩 あわせて覚えたい
 
-- [rice](/rice)：米、ご飯
-- [pastry](/pastry)：ペストリー、焼き菓子
+- [rice](/word/rice)：米、ご飯
+- [pastry](/word/pastry)：ペストリー、焼き菓子
 
 ---
 
 ## 📖 できればこれも
 
-- [butter](/butter)：バター
-- [cheese](/cheese)：チーズ
+- [butter](/word/butter)：バター
+- [cheese](/word/cheese)：チーズ
 
 <!-- cvid: aid45_bid47 -->

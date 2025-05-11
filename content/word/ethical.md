@@ -97,7 +97,7 @@ TOEICでは企業の行動規範や社会的責任に関する長文で出題さ
 ## 🤔  moral との違いは？
 
 - **ethical**：社会的・職業的な規範やルールに従う「倫理的な」
-- **[moral](/moral)**：個人の善悪や良心に基づく「道徳的な」
+- **[moral](/word/moral)**：個人の善悪や良心に基づく「道徳的な」
 
 「ethical」は社会や組織のルールに沿った行動を指し、「moral」は個人の内面的な善悪の判断に重きを置きます。
 
@@ -105,14 +105,14 @@ TOEICでは企業の行動規範や社会的責任に関する長文で出題さ
 
 ## 🧩 あわせて覚えたい
 
-- [unethical](/unethical)：非倫理的な
-- [legal](/legal)：合法の、法律上の
+- [unethical](/word/unethical)：非倫理的な
+- [legal](/word/legal)：合法の、法律上の
 
 ---
 
 ## 📖 できればこれも
 
-- [responsible](/responsible)：責任がある
-- [honest](/honest)：正直な
+- [responsible](/word/responsible)：責任がある
+- [honest](/word/honest)：正直な
 
 <!-- cvid: aid11_bid39 -->

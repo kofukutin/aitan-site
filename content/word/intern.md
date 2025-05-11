@@ -97,7 +97,7 @@ TOEICでは求人広告や会社紹介、職務経歴書などの長文でよく
 ## 🤔  trainee との違いは？
 
 - **intern**：主に学生や若手が短期間、実務経験を積むために働く人
-- **[trainee](/trainee)**：特定のスキルや職務のために訓練を受けている人
+- **[trainee](/word/trainee)**：特定のスキルや職務のために訓練を受けている人
 
 internは「実務体験を目的とした一時的な職業体験生」、traineeは「新入社員や転職者など幅広い層が訓練を受ける人」として使い分けます。
 
@@ -105,14 +105,14 @@ internは「実務体験を目的とした一時的な職業体験生」、train
 
 ## 🧩 あわせて覚えたい
 
-- [apprentice](/apprentice)：見習い、徒弟
-- [mentor](/mentor)：指導者、助言者
+- [apprentice](/word/apprentice)：見習い、徒弟
+- [mentor](/word/mentor)：指導者、助言者
 
 ---
 
 ## 📖 できればこれも
 
-- [resume](/resume)：履歴書
-- [position](/position)：職、役職
+- [resume](/word/resume)：履歴書
+- [position](/word/position)：職、役職
 
 <!-- cvid: aid14_bid30 -->

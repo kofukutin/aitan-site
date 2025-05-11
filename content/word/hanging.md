@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、物が吊るされている様子を説
 ## 🤔  suspension との違いは？
 
 - **hanging**：物理的に何かを吊るすことや吊り下げられた物自体を指す。
-- **[suspension](/suspension)**：一時停止や中断の意味もあり、抽象的な「吊るす状態」も含む。
+- **[suspension](/word/suspension)**：一時停止や中断の意味もあり、抽象的な「吊るす状態」も含む。
 
 hangingは具体的な物や行為に使い、suspensionは抽象的・技術的な場面や「中断」の意味でも使われます。
 
@@ -105,14 +105,14 @@ hangingは具体的な物や行為に使い、suspensionは抽象的・技術的
 
 ## 🧩 あわせて覚えたい
 
-- [attachment](/attachment)：取り付け、付属品
-- [display](/display)：展示、陳列
+- [attachment](/word/attachment)：取り付け、付属品
+- [display](/word/display)：展示、陳列
 
 ---
 
 ## 📖 できればこれも
 
-- [arrangement](/arrangement)：配置、取り決め
-- [placement](/placement)：配置、設置
+- [arrangement](/word/arrangement)：配置、取り決め
+- [placement](/word/placement)：配置、設置
 
 <!-- cvid: aid02_bid09 -->

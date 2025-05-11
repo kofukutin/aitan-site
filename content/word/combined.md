@@ -98,7 +98,7 @@ TOEICでは、形容詞として「combined efforts（協力）」「combined to
 ## 🤔  joint との違いは？
 
 - **combined**：複数のものが合わさって一つになった状態を強調
-- **[joint](/joint)**：2者以上が「共同で」行う、または所有することを強調
+- **[joint](/word/joint)**：2者以上が「共同で」行う、または所有することを強調
 
 「combined」は結果として一つにまとまった状態、「joint」は協力や共同作業のニュアンスが強いです。
 
@@ -106,14 +106,14 @@ TOEICでは、形容詞として「combined efforts（協力）」「combined to
 
 ## 🧩 あわせて覚えたい
 
-- [collective](/collective)：集団の、共同の
-- [separate](/separate)：分かれた、別々の
+- [collective](/word/collective)：集団の、共同の
+- [separate](/word/separate)：分かれた、別々の
 
 ---
 
 ## 📖 できればこれも
 
-- [total](/total)：合計の、総計の
-- [shared](/shared)：共有の、共用の
+- [total](/word/total)：合計の、総計の
+- [shared](/word/shared)：共有の、共用の
 
 <!-- cvid: aid32_bid46 -->

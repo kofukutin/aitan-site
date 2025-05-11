@@ -97,7 +97,7 @@ accompaniedは、会議や出張、訪問などのビジネスシーンで「誰
 ## 🤔  attended との違いは？
 
 - **accompanied**：誰かと一緒に行動する、付き添う
-- **[attended](/attended)**：イベントや会議などに「出席する」
+- **[attended](/word/attended)**：イベントや会議などに「出席する」
 
 accompaniedは「誰かと一緒にいる」ことに重点があり、attendedは「参加・出席」そのものを表します。
 
@@ -105,14 +105,14 @@ accompaniedは「誰かと一緒にいる」ことに重点があり、attended�
 
 ## 🧩 あわせて覚えたい
 
-- [escort](/escort)：護衛する、付き添う
-- [join](/join)：加わる、参加する
+- [escort](/word/escort)：護衛する、付き添う
+- [join](/word/join)：加わる、参加する
 
 ---
 
 ## 📖 できればこれも
 
-- [assist](/assist)：手伝う、補助する
-- [guide](/guide)：案内する、導く
+- [assist](/word/assist)：手伝う、補助する
+- [guide](/word/guide)：案内する、導く
 
 <!-- cvid: aid25_bid12 -->

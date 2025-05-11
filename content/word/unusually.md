@@ -97,7 +97,7 @@ TOEICでは、文章中で「通常と異なる状況」や「例外的な出来
 ## 🤔  typically との違いは？
 
 - **unusually**：普通とは違う、例外的な様子を強調する
-- **[typically](/typically)**：典型的に、普通は、という意味で「一般的な傾向」を表す
+- **[typically](/word/typically)**：典型的に、普通は、という意味で「一般的な傾向」を表す
 
 unusuallyは「めったにない」「異常な」状況を指し、typicallyは「よくある」「普通の」状況を指します。
 
@@ -105,14 +105,14 @@ unusuallyは「めったにない」「異常な」状況を指し、typically�
 
 ## 🧩 あわせて覚えたい
 
-- [rarely](/rarely)：めったに～ない
-- [exceptionally](/exceptionally)：例外的に、非常に
+- [rarely](/word/rarely)：めったに～ない
+- [exceptionally](/word/exceptionally)：例外的に、非常に
 
 ---
 
 ## 📖 できればこれも
 
-- [normally](/normally)：普通は、通常は
-- [frequently](/frequently)：頻繁に
+- [normally](/word/normally)：普通は、通常は
+- [frequently](/word/frequently)：頻繁に
 
 <!-- cvid: aid22_bid46 -->

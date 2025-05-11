@@ -97,7 +97,7 @@ TOEICでは主にフォーマルな記事や通知文で見かけることがあ
 ## 🤔  marry との違いは？
 
 - **wed**：フォーマルで書き言葉やニュース記事で使われやすい「結婚する」。
-- **[marry](/marry)**：日常会話からフォーマルまで幅広く使える「結婚する」。
+- **[marry](/word/marry)**：日常会話からフォーマルまで幅広く使える「結婚する」。
 
 wedは格式ばった響きがあり、marryはより一般的で口語的にも使われます。
 
@@ -105,14 +105,14 @@ wedは格式ばった響きがあり、marryはより一般的で口語的にも
 
 ## 🧩 あわせて覚えたい
 
-- [divorce](/divorce)：離婚する
-- [engage](/engage)：婚約する
+- [divorce](/word/divorce)：離婚する
+- [engage](/word/engage)：婚約する
 
 ---
 
 ## 📖 できればこれも
 
-- [announce](/announce)：発表する
-- [invite](/invite)：招待する
+- [announce](/word/announce)：発表する
+- [invite](/word/invite)：招待する
 
 <!-- cvid: aid42_bid44 -->

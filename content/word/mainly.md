@@ -93,7 +93,7 @@ TOEICでは説明文やメール、案内文などで「主に～である」と
 ## 🤔  mostly との違いは？
 
 - **mainly**：中心や主な部分を強調して「主に」「大部分は」という意味。
-- **[mostly](/mostly)**：大部分・ほとんどを表し、数量や割合の多さを強調。
+- **[mostly](/word/mostly)**：大部分・ほとんどを表し、数量や割合の多さを強調。
 
 「mainly」は「中心となるもの」を、「mostly」は「全体のうち大部分」を強調する違いがあります。
 
@@ -101,14 +101,14 @@ TOEICでは説明文やメール、案内文などで「主に～である」と
 
 ## 🧩 あわせて覚えたい
 
-- [primarily](/primarily)：主として、第一に
-- [partly](/partly)：部分的に、一部は
+- [primarily](/word/primarily)：主として、第一に
+- [partly](/word/partly)：部分的に、一部は
 
 ---
 
 ## 📖 できればこれも
 
-- [especially](/especially)：特に、とりわけ
-- [generally](/generally)：一般的に、概して
+- [especially](/word/especially)：特に、とりわけ
+- [generally](/word/generally)：一般的に、概して
 
 <!-- cvid: aid00_bid10 -->

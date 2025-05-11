@@ -97,7 +97,7 @@ TOEICでは科学や環境に関する長文や記事で見かけることが多
 ## 🤔  arctic との違いは？
 
 - **polar**：極地全般や「極端な」という意味も含む幅広い形容詞
-- **[arctic](/arctic)**：特に「北極の」を指す限定的な形容詞
+- **[arctic](/word/arctic)**：特に「北極の」を指す限定的な形容詞
 
 「polar」は北極・南極の両方や、正反対・極端な意味でも使えますが、「arctic」は北極限定です。
 
@@ -105,14 +105,14 @@ TOEICでは科学や環境に関する長文や記事で見かけることが多
 
 ## 🧩 あわせて覚えたい
 
-- [equatorial](/equatorial)：赤道の
-- [antarctic](/antarctic)：南極の
+- [equatorial](/word/equatorial)：赤道の
+- [antarctic](/word/antarctic)：南極の
 
 ---
 
 ## 📖 できればこれも
 
-- [tropical](/tropical)：熱帯の
-- [glacier](/glacier)：氷河
+- [tropical](/word/tropical)：熱帯の
+- [glacier](/word/glacier)：氷河
 
 <!-- cvid: aid20_bid13 -->

@@ -97,7 +97,7 @@ TOEICでは、人物の性格や態度を表す文脈や、確信を持ってい
 ## 🤔  certain との違いは？
 
 - **confident**：自分の能力や判断に自信がある、積極的な気持ちを表す
-- **[certain](/certain)**：事実や状況について「確信している」、客観的な確実性を表す
+- **[certain](/word/certain)**：事実や状況について「確信している」、客観的な確実性を表す
 
 confidentは「自分の気持ちや能力への自信」、certainは「事実や情報の確実性」に焦点があります。
 
@@ -105,14 +105,14 @@ confidentは「自分の気持ちや能力への自信」、certainは「事実�
 
 ## 🧩 あわせて覚えたい
 
-- [assured](/assured)：自信に満ちた、保証された
-- [insecure](/insecure)：自信がない、不安な
+- [assured](/word/assured)：自信に満ちた、保証された
+- [insecure](/word/insecure)：自信がない、不安な
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/reliable)：信頼できる
-- [positive](/positive)：前向きな、自信のある
+- [reliable](/word/reliable)：信頼できる
+- [positive](/word/positive)：前向きな、自信のある
 
 <!-- cvid: aid21_bid18 -->

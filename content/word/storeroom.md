@@ -97,7 +97,7 @@ storeroomはTOEICの長文読解パートで、オフィスや店舗の説明文
 ## 🤔  warehouse との違いは？
 
 - **storeroom**：建物内の比較的小さな物置部屋や貯蔵室
-- **[warehouse](/warehouse)**：大規模な倉庫や物流用の建物
+- **[warehouse](/word/warehouse)**：大規模な倉庫や物流用の建物
 
 storeroomは家庭やオフィスの一室など小規模な保管場所、warehouseは企業や工場の大きな倉庫を指します。
 
@@ -105,14 +105,14 @@ storeroomは家庭やオフィスの一室など小規模な保管場所、wareh
 
 ## 🧩 あわせて覚えたい
 
-- [closet](/closet)：クローゼット、衣類などを収納する小部屋
-- [storage](/storage)：保管、貯蔵（名詞）
+- [closet](/word/closet)：クローゼット、衣類などを収納する小部屋
+- [storage](/word/storage)：保管、貯蔵（名詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [locker](/locker)：ロッカー、小型の個人用収納箱
-- [cabinet](/cabinet)：キャビネット、戸棚や収納棚
+- [locker](/word/locker)：ロッカー、小型の個人用収納箱
+- [cabinet](/word/cabinet)：キャビネット、戸棚や収納棚
 
 <!-- cvid: aid28_bid32 -->

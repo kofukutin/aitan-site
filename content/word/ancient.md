@@ -97,7 +97,7 @@ TOEICでは歴史や文化に関する長文や説明文で見かけることが
 ## 🤔  antique との違いは？
 
 - **ancient**：非常に昔の、特に歴史的に古いものに使う
-- **[antique](/antique)**：骨董品など「古くて価値のある物」に使う
+- **[antique](/word/antique)**：骨董品など「古くて価値のある物」に使う
 
 ancientは時代的に「非常に古い」ことを強調し、antiqueは「古くて価値がある物（家具・美術品など）」に限定して使います。
 
@@ -105,15 +105,15 @@ ancientは時代的に「非常に古い」ことを強調し、antiqueは「古
 
 ## 🧩 あわせて覚えたい
 
-- [modern](/modern)：現代の、新しい
-- [historic](/historic)：歴史的に重要な
+- [modern](/word/modern)：現代の、新しい
+- [historic](/word/historic)：歴史的に重要な
 
 ---
 
 ## 📖 できればこれも
 
-- [medieval](/medieval)：中世の
-- [classical](/classical)：古典的な、古代ギリシャ・ローマの
+- [medieval](/word/medieval)：中世の
+- [classical](/word/classical)：古典的な、古代ギリシャ・ローマの
 
 
 <!-- cvid: aid12_bid30 -->

@@ -98,7 +98,7 @@ TOEICでは、受動態や形容詞句として「aimed at ～」の形で出題
 ## 🤔  targeted との違いは？
 
 - **aimed**：特定の目的や対象に向けて意図された、一般的な「～向けの」
-- **[targeted](/targeted)**：より明確に「狙いを定めて選ばれた」「標的にされた」
+- **[targeted](/word/targeted)**：より明確に「狙いを定めて選ばれた」「標的にされた」
 
 「aimed」は広く「～向け」と説明する際に使い、「targeted」はより意図的・戦略的に選ばれたニュアンスが強いです。
 
@@ -106,14 +106,14 @@ TOEICでは、受動態や形容詞句として「aimed at ～」の形で出題
 
 ## 🧩 あわせて覚えたい
 
-- [intended](/intended)：意図された、～向けの
-- [directed](/directed)：向けられた、指示された
+- [intended](/word/intended)：意図された、～向けの
+- [directed](/word/directed)：向けられた、指示された
 
 ---
 
 ## 📖 できればこれも
 
-- [planned](/planned)：計画された
-- [focused](/focused)：集中した、重点を置いた
+- [planned](/word/planned)：計画された
+- [focused](/word/focused)：集中した、重点を置いた
 
 <!-- cvid: aid09_bid02 -->

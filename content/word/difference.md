@@ -97,7 +97,7 @@ TOEICでは、differenceは選択肢や文中で「違い」「差異」を問�
 ## 🤔  distinction との違いは？
 
 - **difference**：一般的な「違い」「差異」を幅広く表す
-- **[distinction](/distinction)**：明確な区別や識別、特別な違いを強調
+- **[distinction](/word/distinction)**：明確な区別や識別、特別な違いを強調
 
 differenceは単純な違いを指し、distinctionは「はっきりと区別できる違い」や「特別な特徴」を強調する場面で使われます。
 
@@ -105,14 +105,14 @@ differenceは単純な違いを指し、distinctionは「はっきりと区別�
 
 ## 🧩 あわせて覚えたい
 
-- [similarity](/similarity)：類似点、似ていること
-- [variation](/variation)：変化、バリエーション
+- [similarity](/word/similarity)：類似点、似ていること
+- [variation](/word/variation)：変化、バリエーション
 
 ---
 
 ## 📖 できればこれも
 
-- [variety](/variety)：多様性、種類
-- [contrast](/contrast)：対比、対照
+- [variety](/word/variety)：多様性、種類
+- [contrast](/word/contrast)：対比、対照
 
 <!-- cvid: aid26_bid25 -->

@@ -97,7 +97,7 @@ TOEICでは、電子機器や楽器の説明、会話の中で「tuner」が登�
 ## 🤔  adjuster との違いは？
 
 - **tuner**：主に周波数や音程などを合わせるための装置や人。
-- **[adjuster](/adjuster)**：広く「調整する人・装置」を指し、保険や機械など様々な分野で使う。
+- **[adjuster](/word/adjuster)**：広く「調整する人・装置」を指し、保険や機械など様々な分野で使う。
 
 tunerは音や周波数など特定の調整に使い、adjusterはより幅広い調整全般に使います。
 
@@ -105,14 +105,14 @@ tunerは音や周波数など特定の調整に使い、adjusterはより幅広�
 
 ## 🧩 あわせて覚えたい
 
-- [receiver](/receiver)：受信機
-- [controller](/controller)：制御装置
+- [receiver](/word/receiver)：受信機
+- [controller](/word/controller)：制御装置
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/device)：装置、機器
-- [switch](/switch)：スイッチ、切り替え装置
+- [device](/word/device)：装置、機器
+- [switch](/word/switch)：スイッチ、切り替え装置
 
 <!-- cvid: aid12_bid07 -->

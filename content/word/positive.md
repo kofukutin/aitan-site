@@ -97,7 +97,7 @@ TOEICでは、形容詞として「positive attitude（前向きな態度）」�
 ## 🤔  optimistic との違いは？
 
 - **positive**：現実的な状況でも前向き・肯定的な態度や考え方を表す
-- **[optimistic](/optimistic)**：将来や結果が良くなると楽観的に期待する気持ちを表す
+- **[optimistic](/word/optimistic)**：将来や結果が良くなると楽観的に期待する気持ちを表す
 
 **positive**は「前向き」「肯定的」で、現状を受け入れつつ良い面を見ようとする姿勢、**optimistic**は「楽観的」で、将来がうまくいくと信じる気持ちに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞として「positive attitude（前向きな態度）」�
 
 ## 🧩 あわせて覚えたい
 
-- [negative](/negative)：否定的な、消極的な
-- [constructive](/constructive)：建設的な、前向きな
+- [negative](/word/negative)：否定的な、消極的な
+- [constructive](/word/constructive)：建設的な、前向きな
 
 ---
 
 ## 📖 できればこれも
 
-- [active](/active)：積極的な、活動的な
-- [confident](/confident)：自信がある
+- [active](/word/active)：積極的な、活動的な
+- [confident](/word/confident)：自信がある
 
 <!-- cvid: aid20_bid31 -->

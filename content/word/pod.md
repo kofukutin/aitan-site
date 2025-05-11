@@ -97,7 +97,7 @@ ITやビジネス分野の説明文や、製品紹介などで見かけること
 ## 🤔  capsule との違いは？
 
 - **pod**：中身を包む「さや」や、IT分野で独立したユニットを指す
-- **[capsule](/capsule)**：薬や宇宙船などの「カプセル」、密閉された小さな容器
+- **[capsule](/word/capsule)**：薬や宇宙船などの「カプセル」、密閉された小さな容器
 
 「pod」は自然物やITのまとまりに使われ、「capsule」は密閉性や保護のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ ITやビジネス分野の説明文や、製品紹介などで見かけること
 
 ## 🧩 あわせて覚えたい
 
-- [container](/container)：容器、入れ物
-- [shell](/shell)：殻、外皮
+- [container](/word/container)：容器、入れ物
+- [shell](/word/shell)：殻、外皮
 
 ---
 
 ## 📖 できればこれも
 
-- [unit](/unit)：単位、ユニット
-- [module](/module)：構成要素、モジュール
+- [unit](/word/unit)：単位、ユニット
+- [module](/word/module)：構成要素、モジュール
 
 <!-- cvid: aid08_bid47 -->

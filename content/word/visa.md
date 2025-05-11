@@ -96,7 +96,7 @@ TOEICでは、旅行や出張、海外赴任に関する長文やEメール、�
 ## 🤔  permit との違いは？
 
 - **visa**：入国や滞在のための公式な許可証
-- **[permit](/permit)**：特定の行為（例：就労、運転など）を許可する証明書
+- **[permit](/word/permit)**：特定の行為（例：就労、運転など）を許可する証明書
 
 visaは主に国境を越える際の入国・滞在許可を指し、permitは就労や運転など特定の行為に対する許可証を指します。
 
@@ -104,14 +104,14 @@ visaは主に国境を越える際の入国・滞在許可を指し、permitは�
 
 ## 🧩 あわせて覚えたい
 
-- [passport](/passport)：パスポート、旅券
-- [authorization](/authorization)：許可、認可
+- [passport](/word/passport)：パスポート、旅券
+- [authorization](/word/authorization)：許可、認可
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/document)：書類、文書
-- [application](/application)：申請、応募
+- [document](/word/document)：書類、文書
+- [application](/word/application)：申請、応募
 
 <!-- cvid: aid26_bid01 -->

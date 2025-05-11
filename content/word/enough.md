@@ -99,7 +99,7 @@ TOEICでは、enoughは形容詞や副詞の位置、使い方を問う文法問
 ## 🤔  sufficient との違いは？
 
 - **enough**：必要な分だけあることをカジュアルに表現する。
-- **[sufficient](/sufficient)**：ややフォーマルで、必要条件を満たす「十分な」を表す。
+- **[sufficient](/word/sufficient)**：ややフォーマルで、必要条件を満たす「十分な」を表す。
 
 enoughは日常的で口語的、sufficientは書き言葉やビジネス文書などフォーマルな場面で使われます。
 
@@ -107,14 +107,14 @@ enoughは日常的で口語的、sufficientは書き言葉やビジネス文書�
 
 ## 🧩 あわせて覚えたい
 
-- [adequate](/adequate)：必要最低限の、十分な
-- [plenty](/plenty)：たくさん、十分以上
+- [adequate](/word/adequate)：必要最低限の、十分な
+- [plenty](/word/plenty)：たくさん、十分以上
 
 ---
 
 ## 📖 できればこれも
 
-- [almost](/almost)：ほとんど
-- [hardly](/hardly)：ほとんど～ない
+- [almost](/word/almost)：ほとんど
+- [hardly](/word/hardly)：ほとんど～ない
 
 <!-- cvid: aid22_bid33 -->

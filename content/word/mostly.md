@@ -93,7 +93,7 @@ TOEICでは会話や説明文で「主に」「大部分は」と割合を示す
 ## 🤔  mainly との違いは？
 
 - **mostly**：大部分・主に（割合や頻度のニュアンスが強い）
-- **[mainly](/mainly)**：主に（中心的な要素や主目的を強調）
+- **[mainly](/word/mainly)**：主に（中心的な要素や主目的を強調）
 
 「mostly」は「全体の大部分」「たいていの場合」に焦点を当てるのに対し、「mainly」は「主な要素・中心的な部分」を強調する時に使います。
 
@@ -101,14 +101,14 @@ TOEICでは会話や説明文で「主に」「大部分は」と割合を示す
 
 ## 🧩 あわせて覚えたい
 
-- [largely](/largely)：主に、大部分は
-- [partly](/partly)：部分的に、一部は
+- [largely](/word/largely)：主に、大部分は
+- [partly](/word/partly)：部分的に、一部は
 
 ---
 
 ## 📖 できればこれも
 
-- [almost](/almost)：ほとんど、ほぼ
-- [usually](/usually)：たいてい、普通は
+- [almost](/word/almost)：ほとんど、ほぼ
+- [usually](/word/usually)：たいてい、普通は
 
 <!-- cvid: aid36_bid07 -->

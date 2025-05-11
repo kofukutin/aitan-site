@@ -97,7 +97,7 @@ TOEICでは、案内文や招待状、ビジネスイベントの説明などで
 ## 🤔  lunch との違いは？
 
 - **luncheon**：フォーマルな昼食会や公式な昼食を指す
-- **[lunch](/lunch)**：日常的な昼食、カジュアルな食事
+- **[lunch](/word/lunch)**：日常的な昼食、カジュアルな食事
 
 「luncheon」は改まった場やビジネスイベントで使われ、「lunch」は普段の食事やカジュアルな場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、案内文や招待状、ビジネスイベントの説明などで
 
 ## 🧩 あわせて覚えたい
 
-- [banquet](/banquet)：宴会、祝宴
-- [reception](/reception)：歓迎会、レセプション
+- [banquet](/word/banquet)：宴会、祝宴
+- [reception](/word/reception)：歓迎会、レセプション
 
 ---
 
 ## 📖 できればこれも
 
-- [conference](/conference)：会議、協議会
-- [seminar](/seminar)：セミナー、講習会
+- [conference](/word/conference)：会議、協議会
+- [seminar](/word/seminar)：セミナー、講習会
 
 <!-- cvid: aid01_bid27 -->

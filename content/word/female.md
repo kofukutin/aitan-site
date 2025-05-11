@@ -98,7 +98,7 @@ TOEICでは、性別や属性を表す文脈で形容詞・名詞として出題
 ## 🤔  woman との違いは？
 
 - **female**：性別を表す中立的な表現。動物や職業名など幅広く使う。
-- **[woman](/woman)**：成人女性を指す具体的な名詞。人間に限定。
+- **[woman](/word/woman)**：成人女性を指す具体的な名詞。人間に限定。
 
 femaleは性別や属性を強調したいときに使い、womanは「女性」という個人や人間を指すときに使います。
 
@@ -106,14 +106,14 @@ femaleは性別や属性を強調したいときに使い、womanは「女性」
 
 ## 🧩 あわせて覚えたい
 
-- [male](/male)：男性の、雄の
-- [girl](/girl)：少女、女の子
+- [male](/word/male)：男性の、雄の
+- [girl](/word/girl)：少女、女の子
 
 ---
 
 ## 📖 できればこれも
 
-- [gender](/gender)：性別
-- [adult](/adult)：大人
+- [gender](/word/gender)：性別
+- [adult](/word/adult)：大人
 
 <!-- cvid: aid45_bid01 -->

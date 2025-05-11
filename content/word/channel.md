@@ -97,7 +97,7 @@ TOEICでは「連絡手段」や「テレビのチャンネル」など、会話
 ## 🤔  medium との違いは？
 
 - **channel**：情報やモノが流れる「経路」や「手段」、テレビ・ネットの「チャンネル」など幅広い意味。
-- **[medium](/medium)**：情報伝達や表現の「媒体」「手段」。channelより抽象的。
+- **[medium](/word/medium)**：情報伝達や表現の「媒体」「手段」。channelより抽象的。
 
 channelは「流れ」や「通り道」の具体性が強く、mediumは「媒体」としての性質や形式を強調します。
 
@@ -105,14 +105,14 @@ channelは「流れ」や「通り道」の具体性が強く、mediumは「媒�
 
 ## 🧩 あわせて覚えたい
 
-- [platform](/platform)：プラットフォーム、基盤となるサービスや仕組み
-- [route](/route)：道筋、経路
+- [platform](/word/platform)：プラットフォーム、基盤となるサービスや仕組み
+- [route](/word/route)：道筋、経路
 
 ---
 
 ## 📖 できればこれも
 
-- [network](/network)：ネットワーク、つながり
-- [device](/device)：デバイス、機器
+- [network](/word/network)：ネットワーク、つながり
+- [device](/word/device)：デバイス、機器
 
 <!-- cvid: aid22_bid21 -->

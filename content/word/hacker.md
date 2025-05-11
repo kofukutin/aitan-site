@@ -97,7 +97,7 @@ ITやセキュリティ関連の記事やメール文で登場することがあ
 ## 🤔  cracker との違いは？
 
 - **hacker**：システムやプログラムに精通し、改変や侵入を行う人。善意・悪意どちらも含む。
-- **[cracker](/cracker)**：主に悪意を持ってシステムに侵入し、破壊や盗みを行う人。
+- **[cracker](/word/cracker)**：主に悪意を持ってシステムに侵入し、破壊や盗みを行う人。
 
 hackerは広い意味で使われますが、crackerは明確に違法・悪意のある行為を指します。
 
@@ -105,14 +105,14 @@ hackerは広い意味で使われますが、crackerは明確に違法・悪意�
 
 ## 🧩 あわせて覚えたい
 
-- [programmer](/programmer)：プログラムを書く人
-- [intruder](/intruder)：侵入者
+- [programmer](/word/programmer)：プログラムを書く人
+- [intruder](/word/intruder)：侵入者
 
 ---
 
 ## 📖 できればこれも
 
-- [virus](/virus)：コンピュータウイルス
-- [password](/password)：パスワード
+- [virus](/word/virus)：コンピュータウイルス
+- [password](/word/password)：パスワード
 
 <!-- cvid: aid38_bid11 -->

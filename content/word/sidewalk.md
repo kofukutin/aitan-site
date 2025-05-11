@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、歩道を歩く人や歩道の
 ## 🤔  pavement との違いは？
 
 - **sidewalk**：アメリカ英語で「歩道」を意味し、車道の横の歩行者専用スペースを指す。
-- **[pavement](/pavement)**：イギリス英語で「歩道」を意味するが、アメリカ英語では「舗装路面」全般を指すこともある。
+- **[pavement](/word/pavement)**：イギリス英語で「歩道」を意味するが、アメリカ英語では「舗装路面」全般を指すこともある。
 
 sidewalkはアメリカで一般的、pavementはイギリスで一般的に使われます。国によって使い分けが必要です。
 
@@ -105,14 +105,14 @@ sidewalkはアメリカで一般的、pavementはイギリスで一般的に使�
 
 ## 🧩 あわせて覚えたい
 
-- [street](/street)：通り、道路
-- [crosswalk](/crosswalk)：横断歩道
+- [street](/word/street)：通り、道路
+- [crosswalk](/word/crosswalk)：横断歩道
 
 ---
 
 ## 📖 できればこれも
 
-- [road](/road)：道路
-- [corner](/corner)：角、曲がり角
+- [road](/word/road)：道路
+- [corner](/word/corner)：角、曲がり角
 
 <!-- cvid: aid38_bid07 -->

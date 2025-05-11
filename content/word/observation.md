@@ -97,7 +97,7 @@ TOEICでは、報告書やメール、科学的な説明文などで「観察」
 ## 🤔  inspection との違いは？
 
 - **observation**：注意深く見て気づきを得ること、またはその所見
-- **[inspection](/inspection)**：検査や点検など、基準に照らして詳しく調べること
+- **[inspection](/word/inspection)**：検査や点検など、基準に照らして詳しく調べること
 
 observationは「観察して気づきを得る」ニュアンスが強く、inspectionは「基準やルールに沿って調べる」場面で使われます。
 
@@ -105,14 +105,14 @@ observationは「観察して気づきを得る」ニュアンスが強く、ins
 
 ## 🧩 あわせて覚えたい
 
-- [analysis](/analysis)：分析
-- [remark](/remark)：意見、所見
+- [analysis](/word/analysis)：分析
+- [remark](/word/remark)：意見、所見
 
 ---
 
 ## 📖 できればこれも
 
-- [experiment](/experiment)：実験
-- [evidence](/evidence)：証拠
+- [experiment](/word/experiment)：実験
+- [evidence](/word/evidence)：証拠
 
 <!-- cvid: aid29_bid38 -->

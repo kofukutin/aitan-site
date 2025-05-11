@@ -97,7 +97,7 @@ wantingはTOEICの長文読解パートで、評価や説明文中に「不足�
 ## 🤔  lacking との違いは？
 
 - **wanting**：必要なものが「欠けている」「不十分な」と評価するややフォーマルな表現
-- **[lacking](/lacking)**：単純に「不足している」「欠けている」と述べる中立的な表現
+- **[lacking](/word/lacking)**：単純に「不足している」「欠けている」と述べる中立的な表現
 
 wantingは評価や批判のニュアンスが強く、lackingは事実として不足を述べる時に使います。
 
@@ -105,14 +105,14 @@ wantingは評価や批判のニュアンスが強く、lackingは事実として
 
 ## 🧩 あわせて覚えたい
 
-- [insufficient](/insufficient)：不十分な
-- [deficient](/deficient)：欠陥のある、不足している
+- [insufficient](/word/insufficient)：不十分な
+- [deficient](/word/deficient)：欠陥のある、不足している
 
 ---
 
 ## 📖 できればこれも
 
-- [adequate](/adequate)：十分な、適切な
-- [sufficient](/sufficient)：十分な
+- [adequate](/word/adequate)：十分な、適切な
+- [sufficient](/word/sufficient)：十分な
 
 <!-- cvid: aid00_bid34 -->

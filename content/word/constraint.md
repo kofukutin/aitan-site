@@ -97,7 +97,7 @@ TOEICではビジネス文書やEメール、報告書などで「制約条件�
 ## 🤔  restriction との違いは？
 
 - **constraint**：外部や状況による「制約」「抑制」など、自由を狭める条件や要因を指す
-- **[restriction](/restriction)**：主に「規則やルールによる制限」を意味し、公式な禁止や制約を強調
+- **[restriction](/word/restriction)**：主に「規則やルールによる制限」を意味し、公式な禁止や制約を強調
 
 constraintは状況やリソースなどの「やむを得ない制約」に使われ、restrictionは法律や規則など「明確な禁止・制限」に使われます。
 
@@ -105,14 +105,14 @@ constraintは状況やリソースなどの「やむを得ない制約」に使�
 
 ## 🧩 あわせて覚えたい
 
-- [limitation](/limitation)：限界、制限
-- [obstacle](/obstacle)：障害、妨げ
+- [limitation](/word/limitation)：限界、制限
+- [obstacle](/word/obstacle)：障害、妨げ
 
 ---
 
 ## 📖 できればこれも
 
-- [requirement](/requirement)：要件、必要条件
-- [condition](/condition)：条件、状況
+- [requirement](/word/requirement)：要件、必要条件
+- [condition](/word/condition)：条件、状況
 
 <!-- cvid: aid13_bid23 -->

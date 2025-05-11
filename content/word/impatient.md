@@ -97,7 +97,7 @@ TOEICでは、人物の性格や態度を表す形容詞として選択肢に出
 ## 🤔  eager との違いは？
 
 - **impatient**：待つことに我慢できず、イライラしたり焦ったりする気持ち
-- **[eager](/eager)**：何かを強く望んでワクワクしている、積極的な気持ち
+- **[eager](/word/eager)**：何かを強く望んでワクワクしている、積極的な気持ち
 
 impatientは「待てなくてイライラ」、eagerは「楽しみにして積極的」という感情の違いがあります。
 
@@ -105,14 +105,14 @@ impatientは「待てなくてイライラ」、eagerは「楽しみにして積
 
 ## 🧩 あわせて覚えたい
 
-- [patient](/patient)：我慢強い、辛抱強い
-- [restless](/restless)：落ち着きのない、そわそわした
+- [patient](/word/patient)：我慢強い、辛抱強い
+- [restless](/word/restless)：落ち着きのない、そわそわした
 
 ---
 
 ## 📖 できればこれも
 
-- [nervous](/nervous)：緊張している、不安な
-- [anxious](/anxious)：心配している、気がかりな
+- [nervous](/word/nervous)：緊張している、不安な
+- [anxious](/word/anxious)：心配している、気がかりな
 
 <!-- cvid: aid00_bid10 -->

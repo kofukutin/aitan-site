@@ -97,7 +97,7 @@ TOEICでは、addedは「added value（付加価値）」や「added cost（追�
 ## 🤔  additional との違いは？
 
 - **added**：すでに何かに「加えられた」ことを強調
-- **[additional](/additional)**：「追加の」「さらに」という意味で、これから加える可能性や追加分を示す
+- **[additional](/word/additional)**：「追加の」「さらに」という意味で、これから加える可能性や追加分を示す
 
 「added」は既に加えられた状態を表し、「additional」はこれから加えるものや追加分を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、addedは「added value（付加価値）」や「added cost（追�
 
 ## 🧩 あわせて覚えたい
 
-- [extra](/extra)：余分の、追加の
-- [supplementary](/supplementary)：補足の、追加の
+- [extra](/word/extra)：余分の、追加の
+- [supplementary](/word/supplementary)：補足の、追加の
 
 ---
 
 ## 📖 できればこれも
 
-- [attached](/attached)：添付された
-- [included](/included)：含まれた
+- [attached](/word/attached)：添付された
+- [included](/word/included)：含まれた
 
 <!-- cvid: aid41_bid03 -->

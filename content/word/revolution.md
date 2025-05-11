@@ -97,7 +97,7 @@ TOEICでは主にビジネスや技術革新、歴史的な変化を説明する
 ## 🤔  reform との違いは？
 
 - **revolution**：急激で根本的な変化や体制の転換を指す
-- **[reform](/reform)**：制度や仕組みの部分的な改善・改良を指す
+- **[reform](/word/reform)**：制度や仕組みの部分的な改善・改良を指す
 
 revolutionは「一気に大きく変える」ニュアンスが強く、reformは「徐々に良くする」イメージです。
 
@@ -105,14 +105,14 @@ revolutionは「一気に大きく変える」ニュアンスが強く、reform�
 
 ## 🧩 あわせて覚えたい
 
-- [evolution](/evolution)：進化、発展
-- [rebellion](/rebellion)：反乱、暴動
+- [evolution](/word/evolution)：進化、発展
+- [rebellion](/word/rebellion)：反乱、暴動
 
 ---
 
 ## 📖 できればこれも
 
-- [innovation](/innovation)：革新、新しい発明
-- [transition](/transition)：移行、変遷
+- [innovation](/word/innovation)：革新、新しい発明
+- [transition](/word/transition)：移行、変遷
 
 <!-- cvid: aid10_bid28 -->

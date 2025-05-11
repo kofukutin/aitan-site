@@ -97,7 +97,7 @@ TOEICでは、プレゼンやビジネスの場面で「強力な提案」「影
 ## 🤔  strong との違いは？
 
 - **powerful**：影響力や効果が大きい、力が強い
-- **[strong](/strong)**：物理的・精神的に「強い」、耐久性や体力など幅広く使う
+- **[strong](/word/strong)**：物理的・精神的に「強い」、耐久性や体力など幅広く使う
 
 powerfulは「影響力」や「効果の大きさ」に重点があり、strongは「強さ」や「丈夫さ」など幅広い「強い」に使います。
 
@@ -105,14 +105,14 @@ powerfulは「影響力」や「効果の大きさ」に重点があり、strong
 
 ## 🧩 あわせて覚えたい
 
-- [influential](/influential)：影響力のある
-- [weak](/weak)：弱い
+- [influential](/word/influential)：影響力のある
+- [weak](/word/weak)：弱い
 
 ---
 
 ## 📖 できればこれも
 
-- [effective](/effective)：効果的な
-- [efficient](/efficient)：効率的な
+- [effective](/word/effective)：効果的な
+- [efficient](/word/efficient)：効率的な
 
 <!-- cvid: aid02_bid35 -->

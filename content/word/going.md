@@ -97,7 +97,7 @@ TOEICでは、写真描写や会話文で「行く」「進行中」の意味で
 ## 🤔  leaving との違いは？
 
 - **going**：目的地に向かって「行く」「進んでいる」ことを表す
-- **[leaving](/leaving)**：今いる場所から「離れる」「出発する」ことを強調
+- **[leaving](/word/leaving)**：今いる場所から「離れる」「出発する」ことを強調
 
 「going」は目的地や進行中の動作に焦点があり、「leaving」は出発や別れの場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、写真描写や会話文で「行く」「進行中」の意味で
 
 ## 🧩 あわせて覚えたい
 
-- [arrive](/arrive)：到着する
-- [depart](/depart)：出発する
+- [arrive](/word/arrive)：到着する
+- [depart](/word/depart)：出発する
 
 ---
 
 ## 📖 できればこれも
 
-- [come](/come)：来る
-- [move](/move)：動く、引っ越す
+- [come](/word/come)：来る
+- [move](/word/move)：動く、引っ越す
 
 <!-- cvid: aid03_bid09 -->

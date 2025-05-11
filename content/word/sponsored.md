@@ -97,7 +97,7 @@ TOEICでは広告やイベント案内、ビジネス文書などで「sponsored
 ## 🤔  supported との違いは？
 
 - **sponsored**：スポンサーや企業などから金銭的・物質的な支援を受けていることを強調
-- **[supported](/supported)**：一般的な支援や後押し（精神的・物理的問わず）を広く表す
+- **[supported](/word/supported)**：一般的な支援や後押し（精神的・物理的問わず）を広く表す
 
 sponsoredは「スポンサーによる協賛・資金提供」に特化し、supportedは「支援全般」に使われます。
 
@@ -105,14 +105,14 @@ sponsoredは「スポンサーによる協賛・資金提供」に特化し、su
 
 ## 🧩 あわせて覚えたい
 
-- [funded](/funded)：資金提供された
-- [endorsed](/endorsed)：（公式に）推薦された
+- [funded](/word/funded)：資金提供された
+- [endorsed](/word/endorsed)：（公式に）推薦された
 
 ---
 
 ## 📖 できればこれも
 
-- [promoted](/promoted)：宣伝された、昇進した
-- [approved](/approved)：承認された
+- [promoted](/word/promoted)：宣伝された、昇進した
+- [approved](/word/approved)：承認された
 
 <!-- cvid: aid09_bid01 -->

@@ -97,7 +97,7 @@ TOEICでは、ビジネスの現場や販売シーンの会話で「showroom」�
 ## 🤔  display との違いは？
 
 - **showroom**：商品を実際に展示するための部屋やスペース
-- **[display](/display)**：商品や情報を見せるための展示そのもの、または展示する行為
+- **[display](/word/display)**：商品や情報を見せるための展示そのもの、または展示する行為
 
 「showroom」は物理的な場所を指し、「display」は展示そのものや展示方法を指します。showroomは主に店舗や会社の一部屋、displayはショーケースや棚など幅広く使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネスの現場や販売シーンの会話で「showroom」�
 
 ## 🧩 あわせて覚えたい
 
-- [exhibit](/exhibit)：展示品、展示する
-- [warehouse](/warehouse)：倉庫
+- [exhibit](/word/exhibit)：展示品、展示する
+- [warehouse](/word/warehouse)：倉庫
 
 ---
 
 ## 📖 できればこれも
 
-- [factory](/factory)：工場
-- [catalog](/catalog)：カタログ
+- [factory](/word/factory)：工場
+- [catalog](/word/catalog)：カタログ
 
 <!-- cvid: aid08_bid08 -->

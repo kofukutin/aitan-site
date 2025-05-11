@@ -97,7 +97,7 @@ TOEICでは主に新聞記事やビジネスニュースの文脈で「特ダネ
 ## 🤔  exclusive との違いは？
 
 - **scoop**：他より先に手に入れた特ダネやニュース
-- **[exclusive](/exclusive)**：独占的な、他では得られない情報や権利
+- **[exclusive](/word/exclusive)**：独占的な、他では得られない情報や権利
 
 「scoop」は"特ダネ"そのものを指し、「exclusive」は"独占的な"という性質を強調します。独占記事は「exclusive scoop」とも言えますが、ニュアンスが異なります。
 
@@ -105,14 +105,14 @@ TOEICでは主に新聞記事やビジネスニュースの文脈で「特ダネ
 
 ## 🧩 あわせて覚えたい
 
-- [headline](/headline)：見出し、ニュースのタイトル
-- [rumor](/rumor)：うわさ、風説
+- [headline](/word/headline)：見出し、ニュースのタイトル
+- [rumor](/word/rumor)：うわさ、風説
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/update)：最新情報、更新
-- [report](/report)：報告、レポート
+- [update](/word/update)：最新情報、更新
+- [report](/word/report)：報告、レポート
 
 <!-- cvid: aid48_bid37 -->

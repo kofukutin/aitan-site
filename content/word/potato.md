@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写問題で、食材や料理の説明として登
 ## 🤔  sweet potato との違いは？
 
 - **potato**：一般的なジャガイモ。白や黄色の中身で、主食や付け合わせに使われる。
-- **[sweet potato](/sweet_potato)**：サツマイモ。甘みが強く、デザートや焼き芋などに使われる。
+- **[sweet potato](/word/sweet_potato)**：サツマイモ。甘みが強く、デザートや焼き芋などに使われる。
 
 potatoは主に食事の主食や付け合わせとして使われ、sweet potatoは甘みがあるためお菓子や焼き芋などに使われることが多いです。
 
@@ -105,14 +105,14 @@ potatoは主に食事の主食や付け合わせとして使われ、sweet potat
 
 ## 🧩 あわせて覚えたい
 
-- [carrot](/carrot)：ニンジン
-- [tomato](/tomato)：トマト
+- [carrot](/word/carrot)：ニンジン
+- [tomato](/word/tomato)：トマト
 
 ---
 
 ## 📖 できればこれも
 
-- [vegetable](/vegetable)：野菜
-- [fruit](/fruit)：果物
+- [vegetable](/word/vegetable)：野菜
+- [fruit](/word/fruit)：果物
 
 <!-- cvid: aid08_bid19 -->

@@ -97,7 +97,7 @@ TOEICでは会議やイベント、ビジネスシーンで「主催者」や「
 ## 🤔  owner との違いは？
 
 - **host**：イベントや集まりを主催・もてなす人
-- **[owner](/owner)**：物や場所などの「所有者」
+- **[owner](/word/owner)**：物や場所などの「所有者」
 
 hostは「その場を取り仕切る人」、ownerは「所有権を持つ人」と使い分けます。イベントの主催者が必ずしも会場の所有者とは限りません。
 
@@ -105,14 +105,14 @@ hostは「その場を取り仕切る人」、ownerは「所有権を持つ人�
 
 ## 🧩 あわせて覚えたい
 
-- [guest](/guest)：招待客、ゲスト
-- [organizer](/organizer)：企画者、運営者
+- [guest](/word/guest)：招待客、ゲスト
+- [organizer](/word/organizer)：企画者、運営者
 
 ---
 
 ## 📖 できればこれも
 
-- [attendee](/attendee)：出席者
-- [participant](/participant)：参加者
+- [attendee](/word/attendee)：出席者
+- [participant](/word/participant)：参加者
 
 <!-- cvid: aid06_bid19 -->

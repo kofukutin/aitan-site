@@ -97,7 +97,7 @@ TOEICでは「銀行口座」「顧客アカウント」「説明・報告」な
 ## 🤔  report との違いは？
 
 - **account**：口座やアカウント、または出来事の説明・報告の意味で使う
-- **[report](/report)**：出来事や調査結果などをまとめた「報告書」「レポート」の意味
+- **[report](/word/report)**：出来事や調査結果などをまとめた「報告書」「レポート」の意味
 
 accountは「説明」や「口座」など幅広い意味で使われ、reportは主に文書としての「報告書」を指します。
 
@@ -105,14 +105,14 @@ accountは「説明」や「口座」など幅広い意味で使われ、report�
 
 ## 🧩 あわせて覚えたい
 
-- [statement](/statement)：明細書、声明
-- [invoice](/invoice)：請求書
+- [statement](/word/statement)：明細書、声明
+- [invoice](/word/invoice)：請求書
 
 ---
 
 ## 📖 できればこれも
 
-- [balance](/balance)：残高、バランス
-- [record](/record)：記録、記録する
+- [balance](/word/balance)：残高、バランス
+- [record](/word/record)：記録、記録する
 
 <!-- cvid: aid02_bid40 -->

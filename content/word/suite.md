@@ -97,7 +97,7 @@ TOEICではホテルやオフィス、IT関連の説明文で「suite」が登�
 ## 🤔  set との違いは？
 
 - **suite**：主に「一続きの部屋」や「関連する一式（特にフォーマル）」を指す
-- **[set](/set)**：一般的な「セット」「組」全般を指し、より幅広い用途
+- **[set](/word/set)**：一般的な「セット」「組」全般を指し、より幅広い用途
 
 「suite」はホテルやソフトウェアなど、まとまりや高級感を強調する場面で使われ、「set」は日常的な「セット」全般に使われます。
 
@@ -105,14 +105,14 @@ TOEICではホテルやオフィス、IT関連の説明文で「suite」が登�
 
 ## 🧩 あわせて覚えたい
 
-- [series](/series)：連続、シリーズ
-- [package](/package)：パッケージ、一括
+- [series](/word/series)：連続、シリーズ
+- [package](/word/package)：パッケージ、一括
 
 ---
 
 ## 📖 できればこれも
 
-- [facility](/facility)：施設、設備
-- [option](/option)：選択肢、オプション
+- [facility](/word/facility)：施設、設備
+- [option](/word/option)：選択肢、オプション
 
 <!-- cvid: aid00_bid23 -->

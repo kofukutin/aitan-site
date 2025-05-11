@@ -98,7 +98,7 @@ TOEICでは、商品や資料の「コレクション」、データや意見の
 ## 🤔  selection との違いは？
 
 - **collection**：集めたもの全体や収集活動を指す
-- **[selection](/selection)**：選ばれたもの、選択された一部を指す
+- **[selection](/word/selection)**：選ばれたもの、選択された一部を指す
 
 collectionは「集めること」や「集めた全体」を表し、selectionは「その中から選ばれた一部」に焦点を当てます。
 
@@ -106,14 +106,14 @@ collectionは「集めること」や「集めた全体」を表し、selection�
 
 ## 🧩 あわせて覚えたい
 
-- [assortment](/assortment)：さまざまな種類の集まり
-- [gathering](/gathering)：集会、集まり
+- [assortment](/word/assortment)：さまざまな種類の集まり
+- [gathering](/word/gathering)：集会、集まり
 
 ---
 
 ## 📖 できればこれも
 
-- [catalog](/catalog)：カタログ、目録
-- [inventory](/inventory)：在庫、棚卸し
+- [catalog](/word/catalog)：カタログ、目録
+- [inventory](/word/inventory)：在庫、棚卸し
 
 <!-- cvid: aid23_bid21 -->

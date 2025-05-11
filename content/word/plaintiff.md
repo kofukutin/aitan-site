@@ -97,7 +97,7 @@ TOEICでは契約や訴訟に関する長文問題で見かけることが多い
 ## 🤔  complainant との違いは？
 
 - **plaintiff**：主に民事訴訟で訴えを起こす「原告」を指す法的な用語。
-- **[complainant](/complainant)**：苦情や訴えを申し立てる人全般を指し、法廷外でも使われる。
+- **[complainant](/word/complainant)**：苦情や訴えを申し立てる人全般を指し、法廷外でも使われる。
 
 plaintiffは裁判の原告に限定されますが、complainantは警察や行政への苦情申立人など幅広く使われます。
 
@@ -105,14 +105,14 @@ plaintiffは裁判の原告に限定されますが、complainantは警察や行
 
 ## 🧩 あわせて覚えたい
 
-- [defendant](/defendant)：被告（訴えられる側）
-- [lawsuit](/lawsuit)：訴訟、裁判
+- [defendant](/word/defendant)：被告（訴えられる側）
+- [lawsuit](/word/lawsuit)：訴訟、裁判
 
 ---
 
 ## 📖 できればこれも
 
-- [verdict](/verdict)：評決、判決
-- [settlement](/settlement)：和解、解決
+- [verdict](/word/verdict)：評決、判決
+- [settlement](/word/settlement)：和解、解決
 
 <!-- cvid: aid03_bid34 -->

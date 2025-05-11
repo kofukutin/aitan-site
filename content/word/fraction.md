@@ -97,7 +97,7 @@ TOEICでは、統計や割合、データ分析に関する長文やグラフ説
 ## 🤔  portion との違いは？
 
 - **fraction**：全体の中の「ごく小さい部分」や「分数」を強調
-- **[portion](/portion)**：分けられた「一部分」や「割り当て」を意味し、量の大小は問わない
+- **[portion](/word/portion)**：分けられた「一部分」や「割り当て」を意味し、量の大小は問わない
 
 fractionは「全体のごく一部」や「細かい割合」を指すのに対し、portionは「分けられた部分」や「割り当てられた量」を表します。
 
@@ -105,14 +105,14 @@ fractionは「全体のごく一部」や「細かい割合」を指すのに対
 
 ## 🧩 あわせて覚えたい
 
-- [segment](/segment)：区分、部分
-- [percentage](/percentage)：割合、パーセンテージ
+- [segment](/word/segment)：区分、部分
+- [percentage](/word/percentage)：割合、パーセンテージ
 
 ---
 
 ## 📖 できればこれも
 
-- [ratio](/ratio)：比率
-- [section](/section)：区分、部分
+- [ratio](/word/ratio)：比率
+- [section](/word/section)：区分、部分
 
 <!-- cvid: aid40_bid26 -->

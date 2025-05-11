@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や会議の議事録、財務報告などで
 ## 🤔  fourth との違いは？
 
 - **quarter**：4分の1、四半期、25セント硬貨など「4つに分けた1つ」の意味
-- **[fourth](/fourth)**：順序としての「4番目」、または「4分の1」（主に序数）
+- **[fourth](/word/fourth)**：順序としての「4番目」、または「4分の1」（主に序数）
 
 quarterは「期間」や「部分」としての4分の1を表し、fourthは順序や並びを強調する時に使います。
 
@@ -105,14 +105,14 @@ quarterは「期間」や「部分」としての4分の1を表し、fourthは�
 
 ## 🧩 あわせて覚えたい
 
-- [half](/half)：2分の1、半分
-- [period](/period)：期間、時期
+- [half](/word/half)：2分の1、半分
+- [period](/word/period)：期間、時期
 
 ---
 
 ## 📖 できればこれも
 
-- [annual](/annual)：年1回の、年間の
-- [monthly](/monthly)：毎月の、月ごとの
+- [annual](/word/annual)：年1回の、年間の
+- [monthly](/word/monthly)：毎月の、月ごとの
 
 <!-- cvid: aid46_bid19 -->

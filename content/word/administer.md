@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や医療関連の長文で「管理する」
 ## 🤔  manage との違いは？
 
 - **administer**：公式・制度的に管理・運営する、または薬などを与える
-- **[manage](/manage)**：幅広く「管理する」「うまく扱う」など、日常的・実務的な場面で使う
+- **[manage](/word/manage)**：幅広く「管理する」「うまく扱う」など、日常的・実務的な場面で使う
 
 administerはフォーマルで制度や規則、医療などの「公式な管理」に使い、manageは日常的な「やりくり」や「運営」に幅広く使います。
 
@@ -105,14 +105,14 @@ administerはフォーマルで制度や規則、医療などの「公式な管�
 
 ## 🧩 あわせて覚えたい
 
-- [supervise](/supervise)：監督する、指導する
-- [execute](/execute)：実行する、遂行する
+- [supervise](/word/supervise)：監督する、指導する
+- [execute](/word/execute)：実行する、遂行する
 
 ---
 
 ## 📖 できればこれも
 
-- [regulate](/regulate)：規制する、調整する
-- [coordinate](/coordinate)：調整する、まとめる
+- [regulate](/word/regulate)：規制する、調整する
+- [coordinate](/word/coordinate)：調整する、まとめる
 
 <!-- cvid: aid06_bid15 -->

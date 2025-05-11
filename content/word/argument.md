@@ -97,7 +97,7 @@ TOEICでは会議や意見交換の場面で「argument」が使われること�
 ## 🤔  discussion との違いは？
 
 - **argument**：意見の対立や感情的な口論、または強い主張を指す
-- **[discussion](/discussion)**：意見交換や話し合い（対立や感情的な衝突は含まない）
+- **[discussion](/word/discussion)**：意見交換や話し合い（対立や感情的な衝突は含まない）
 
 argumentは対立や感情的なやりとりを含む場合が多いですが、discussionは冷静な意見交換を指します。
 
@@ -105,14 +105,14 @@ argumentは対立や感情的なやりとりを含む場合が多いですが、
 
 ## 🧩 あわせて覚えたい
 
-- [debate](/debate)：討論、公開討論
-- [reason](/reason)：理由、根拠
+- [debate](/word/debate)：討論、公開討論
+- [reason](/word/reason)：理由、根拠
 
 ---
 
 ## 📖 できればこれも
 
-- [opinion](/opinion)：意見
-- [suggestion](/suggestion)：提案
+- [opinion](/word/opinion)：意見
+- [suggestion](/word/suggestion)：提案
 
 <!-- cvid: aid48_bid48 -->

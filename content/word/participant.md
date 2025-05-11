@@ -98,7 +98,7 @@ TOEICでは会議やイベント、アンケートなどの文脈で「参加者
 ## 🤔  attendee との違いは？
 
 - **participant**：積極的に活動や議論に「参加する人」
-- **[attendee](/attendee)**：イベントや会議に「出席する人」
+- **[attendee](/word/attendee)**：イベントや会議に「出席する人」
 
 participantは「何かに関わって参加する」ニュアンスがあり、attendeeは「出席しているだけ」の場合にも使われます。
 
@@ -106,14 +106,14 @@ participantは「何かに関わって参加する」ニュアンスがあり、
 
 ## 🧩 あわせて覚えたい
 
-- [organizer](/organizer)：主催者
-- [contributor](/contributor)：貢献者
+- [organizer](/word/organizer)：主催者
+- [contributor](/word/contributor)：貢献者
 
 ---
 
 ## 📖 できればこれも
 
-- [audience](/audience)：聴衆
-- [member](/member)：メンバー、会員
+- [audience](/word/audience)：聴衆
+- [member](/word/member)：メンバー、会員
 
 <!-- cvid: aid14_bid21 -->

@@ -98,7 +98,7 @@ walkはTOEIC Part 1の写真描写問題でよく登場し、「歩いている�
 ## 🤔  stroll との違いは？
 
 - **walk**：目的地に向かって普通に歩く、移動手段としての「歩く」
-- **[stroll](/stroll)**：ゆっくりぶらぶら歩く、散歩する
+- **[stroll](/word/stroll)**：ゆっくりぶらぶら歩く、散歩する
 
 walkは「歩く」という基本的な動作全般を指し、strollは「のんびり歩く」「ぶらぶらする」といったリラックスしたニュアンスがあります。
 
@@ -106,14 +106,14 @@ walkは「歩く」という基本的な動作全般を指し、strollは「の�
 
 ## 🧩 あわせて覚えたい
 
-- [run](/run)：走る
-- [march](/march)：行進する
+- [run](/word/run)：走る
+- [march](/word/march)：行進する
 
 ---
 
 ## 📖 できればこれも
 
-- [stand](/stand)：立つ
-- [move](/move)：動く
+- [stand](/word/stand)：立つ
+- [move](/word/move)：動く
 
 <!-- cvid: aid20_bid36 -->

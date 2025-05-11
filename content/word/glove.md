@@ -97,7 +97,7 @@ gloveはTOEICのPart 1（写真描写問題）で、人物が手袋を着用し�
 ## 🤔  mitten との違いは？
 
 - **glove**：指がそれぞれ分かれている手袋
-- **[mitten](/mitten)**：親指だけ分かれ、他の指は一緒になっている手袋
+- **[mitten](/word/mitten)**：親指だけ分かれ、他の指は一緒になっている手袋
 
 gloveは細かい作業がしやすい指分かれタイプ、mittenは防寒重視で指がまとまっているタイプです。
 
@@ -105,14 +105,14 @@ gloveは細かい作業がしやすい指分かれタイプ、mittenは防寒重
 
 ## 🧩 あわせて覚えたい
 
-- [handkerchief](/handkerchief)：ハンカチ
-- [scarf](/scarf)：マフラー、スカーフ
+- [handkerchief](/word/handkerchief)：ハンカチ
+- [scarf](/word/scarf)：マフラー、スカーフ
 
 ---
 
 ## 📖 できればこれも
 
-- [hat](/hat)：帽子
-- [shoe](/shoe)：靴
+- [hat](/word/hat)：帽子
+- [shoe](/word/shoe)：靴
 
 <!-- cvid: aid28_bid32 -->

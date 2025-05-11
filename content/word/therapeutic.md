@@ -97,7 +97,7 @@ The company offers therapeutic services for employees under stress.
 ## 🤔  medical との違いは？
 
 - **therapeutic**：治療や癒しの効果に焦点を当てる
-- **[medical](/medical)**：医学や医療全般に関する
+- **[medical](/word/medical)**：医学や医療全般に関する
 
 **therapeutic**は「治療効果」や「癒し」に特化した表現で、**medical**はより広く「医学的な」意味で使われます。
 
@@ -105,14 +105,14 @@ The company offers therapeutic services for employees under stress.
 
 ## 🧩 あわせて覚えたい
 
-- [curative](/curative)：治療の、治癒力のある
-- [preventive](/preventive)：予防の、防止の
+- [curative](/word/curative)：治療の、治癒力のある
+- [preventive](/word/preventive)：予防の、防止の
 
 ---
 
 ## 📖 できればこれも
 
-- [clinical](/clinical)：臨床の、診療の
-- [remedy](/remedy)：治療法、改善策
+- [clinical](/word/clinical)：臨床の、診療の
+- [remedy](/word/remedy)：治療法、改善策
 
 <!-- cvid: aid44_bid41 -->

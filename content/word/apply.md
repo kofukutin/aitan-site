@@ -97,7 +97,7 @@ TOEICでは「apply for（応募する）」や「apply to（適用する）」�
 ## 🤔  request との違いは？
 
 - **apply**：正式な手続きや書類を通じて「応募・申請」する
-- **[request](/request)**：何かを「依頼・要請」する
+- **[request](/word/request)**：何かを「依頼・要請」する
 
 「apply」は制度や募集などに対して公式に申し込む場合に使い、「request」は単に何かを頼むときに使います。
 
@@ -105,14 +105,14 @@ TOEICでは「apply for（応募する）」や「apply to（適用する）」�
 
 ## 🧩 あわせて覚えたい
 
-- [submit](/submit)：提出する
-- [enroll](/enroll)：登録する、入学する
+- [submit](/word/submit)：提出する
+- [enroll](/word/enroll)：登録する、入学する
 
 ---
 
 ## 📖 できればこれも
 
-- [register](/register)：登録する
-- [seek](/seek)：探し求める
+- [register](/word/register)：登録する
+- [seek](/word/seek)：探し求める
 
 <!-- cvid: aid18_bid16 -->

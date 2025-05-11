@@ -97,7 +97,7 @@ TOEICでは契約書やビジネス文書の長文中で「条項」や「供給
 ## 🤔  supply との違いは？
 
 - **provision**：必要なものの供給や契約上の条項・規定を指すフォーマルな語
-- **[supply](/supply)**：物資やエネルギーなどの「供給」そのものを指し、日常的・ビジネス両方で使う
+- **[supply](/word/supply)**：物資やエネルギーなどの「供給」そのものを指し、日常的・ビジネス両方で使う
 
 provisionは「備え・規定」など抽象的な意味も持ち、supplyは具体的な物の供給に限定される点が異なります。
 
@@ -105,14 +105,14 @@ provisionは「備え・規定」など抽象的な意味も持ち、supplyは�
 
 ## 🧩 あわせて覚えたい
 
-- [clause](/clause)：（契約などの）条項
-- [arrangement](/arrangement)：取り決め、準備
+- [clause](/word/clause)：（契約などの）条項
+- [arrangement](/word/arrangement)：取り決め、準備
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/contract)：契約
-- [requirement](/requirement)：要件、必要条件
+- [contract](/word/contract)：契約
+- [requirement](/word/requirement)：要件、必要条件
 
 <!-- cvid: aid38_bid49 -->

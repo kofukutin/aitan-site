@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「地面を掘る」「作業員が掘
 ## 🤔  excavate との違いは？
 
 - **dig**：日常的に「掘る」、カジュアルで広い場面で使う
-- **[excavate](/excavate)**：考古学や工事などで「本格的に掘削する」、フォーマルな場面で使う
+- **[excavate](/word/excavate)**：考古学や工事などで「本格的に掘削する」、フォーマルな場面で使う
 
 digは庭や砂場など身近な場面で使われ、excavateは専門的・大規模な掘削に使われます。
 
@@ -105,14 +105,14 @@ digは庭や砂場など身近な場面で使われ、excavateは専門的・大
 
 ## 🧩 あわせて覚えたい
 
-- [bury](/bury)：埋める
-- [uncover](/uncover)：発掘する、明らかにする
+- [bury](/word/bury)：埋める
+- [uncover](/word/uncover)：発掘する、明らかにする
 
 ---
 
 ## 📖 できればこれも
 
-- [plant](/plant)：植える
-- [remove](/remove)：取り除く
+- [plant](/word/plant)：植える
+- [remove](/word/remove)：取り除く
 
 <!-- cvid: aid25_bid27 -->

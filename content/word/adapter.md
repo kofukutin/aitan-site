@@ -97,7 +97,7 @@ TOEICでは説明文や案内、機器の仕様書などで見かけることが
 ## 🤔  converter との違いは？
 
 - **adapter**：異なる機器や規格を物理的につなぐ装置
-- **[converter](/converter)**：電圧や信号などを変換する装置
+- **[converter](/word/converter)**：電圧や信号などを変換する装置
 
 adapterは「形や端子を合わせてつなぐ」イメージ、converterは「内容や形式を変換する」イメージです。
 
@@ -105,14 +105,14 @@ adapterは「形や端子を合わせてつなぐ」イメージ、converterは�
 
 ## 🧩 あわせて覚えたい
 
-- [connector](/connector)：接続部品、コネクタ
-- [device](/device)：装置、機器
+- [connector](/word/connector)：接続部品、コネクタ
+- [device](/word/device)：装置、機器
 
 ---
 
 ## 📖 できればこれも
 
-- [cable](/cable)：ケーブル、電線
-- [plug](/plug)：プラグ、差し込み口
+- [cable](/word/cable)：ケーブル、電線
+- [plug](/word/plug)：プラグ、差し込み口
 
 <!-- cvid: aid44_bid01 -->

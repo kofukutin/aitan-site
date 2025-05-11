@@ -97,7 +97,7 @@ TOEICでは、宅配や郵便、オフィスでのやりとりに関する長文
 ## 🤔  package との違いは？
 
 - **parcel**：郵便や宅配で送る「小包」を指し、ややフォーマルな響きがある。
-- **[package](/package)**：内容物や大きさを問わず「荷物」「パッケージ」と幅広く使われる。
+- **[package](/word/package)**：内容物や大きさを問わず「荷物」「パッケージ」と幅広く使われる。
 
 parcelは特に郵便や宅配便の「小包」に使われ、packageは箱や袋など広い意味での「荷物」に使われます。
 
@@ -105,14 +105,14 @@ parcelは特に郵便や宅配便の「小包」に使われ、packageは箱や�
 
 ## 🧩 あわせて覚えたい
 
-- [shipment](/shipment)：発送、出荷
-- [envelope](/envelope)：封筒
+- [shipment](/word/shipment)：発送、出荷
+- [envelope](/word/envelope)：封筒
 
 ---
 
 ## 📖 できればこれも
 
-- [mail](/mail)：郵便、手紙
-- [deliver](/deliver)：配達する
+- [mail](/word/mail)：郵便、手紙
+- [deliver](/word/deliver)：配達する
 
 <!-- cvid: aid09_bid13 -->

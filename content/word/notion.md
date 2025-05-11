@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や記事の中で「考え」「概念」とし
 ## 🤔  concept との違いは？
 
 - **notion**：漠然とした考えや個人的な意見、抽象的な概念を指す。
-- **[concept](/concept)**：より明確で体系的な「概念」や「考え方」を指す。
+- **[concept](/word/concept)**：より明確で体系的な「概念」や「考え方」を指す。
 
 notionは「なんとなく思っていること」や「個人的な考え」に近く、conceptは学問的・理論的に整理された「概念」に使われます。
 
@@ -105,14 +105,14 @@ notionは「なんとなく思っていること」や「個人的な考え」�
 
 ## 🧩 あわせて覚えたい
 
-- [idea](/idea)：アイデア、思いつき
-- [perception](/perception)：認識、知覚
+- [idea](/word/idea)：アイデア、思いつき
+- [perception](/word/perception)：認識、知覚
 
 ---
 
 ## 📖 できればこれも
 
-- [theory](/theory)：理論
-- [principle](/principle)：原理、原則
+- [theory](/word/theory)：理論
+- [principle](/word/principle)：原理、原則
 
 <!-- cvid: aid33_bid16 -->

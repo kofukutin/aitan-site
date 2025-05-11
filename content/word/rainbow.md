@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、自然や天候の描写として登
 ## 🤔  spectrum との違いは？
 
 - **rainbow**：雨上がりの空に現れる七色の弧（虹）や、その色の並びを指す。
-- **[spectrum](/spectrum)**：光や音などの連続した範囲、特に色の連なりを科学的に表す語。
+- **[spectrum](/word/spectrum)**：光や音などの連続した範囲、特に色の連なりを科学的に表す語。
 
 rainbowは主に自然現象や比喩表現で使われ、spectrumは科学的・技術的な文脈で使われます。
 
@@ -105,14 +105,14 @@ rainbowは主に自然現象や比喩表現で使われ、spectrumは科学的�
 
 ## 🧩 あわせて覚えたい
 
-- [arc](/arc)：弧、アーチ
-- [prism](/prism)：プリズム、光を分散させるガラス体
+- [arc](/word/arc)：弧、アーチ
+- [prism](/word/prism)：プリズム、光を分散させるガラス体
 
 ---
 
 ## 📖 できればこれも
 
-- [cloud](/cloud)：雲
-- [storm](/storm)：嵐
+- [cloud](/word/cloud)：雲
+- [storm](/word/storm)：嵐
 
 <!-- cvid: aid22_bid36 -->

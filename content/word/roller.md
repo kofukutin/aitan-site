@@ -97,7 +97,7 @@ TOEIC Part 1の写真描写で、工場やオフィス機器の説明時によ�
 ## 🤔  cylinder との違いは？
 
 - **roller**：転がしたり、塗ったりするための道具や部品
-- **[cylinder](/cylinder)**：円柱形の物体全般（道具に限らない）
+- **[cylinder](/word/cylinder)**：円柱形の物体全般（道具に限らない）
 
 rollerは「機能的な道具」として使われることが多く、cylinderは「形状」を指す一般的な単語です。
 
@@ -105,14 +105,14 @@ rollerは「機能的な道具」として使われることが多く、cylinder
 
 ## 🧩 あわせて覚えたい
 
-- [wheel](/wheel)：車輪
-- [brush](/brush)：ブラシ
+- [wheel](/word/wheel)：車輪
+- [brush](/word/brush)：ブラシ
 
 ---
 
 ## 📖 できればこれも
 
-- [handle](/handle)：取っ手
-- [machine](/machine)：機械
+- [handle](/word/handle)：取っ手
+- [machine](/word/machine)：機械
 
 <!-- cvid: aid19_bid31 -->

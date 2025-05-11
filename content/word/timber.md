@@ -97,7 +97,7 @@ TOEICでは、建築や環境、貿易に関する会話や説明文で「timber
 ## 🤔  lumber との違いは？
 
 - **timber**：建築用や加工前の木材、または立ち木を指す
-- **[lumber](/lumber)**：製材された木材（特に北米で使われる）
+- **[lumber](/word/lumber)**：製材された木材（特に北米で使われる）
 
 timberはイギリス英語でよく使われ、加工前の木材や立ち木も含みますが、lumberは主に北米で使われ、製材された木材を指します。
 
@@ -105,14 +105,14 @@ timberはイギリス英語でよく使われ、加工前の木材や立ち木�
 
 ## 🧩 あわせて覚えたい
 
-- [forest](/forest)：森林
-- [wood](/wood)：木、木材
+- [forest](/word/forest)：森林
+- [wood](/word/wood)：木、木材
 
 ---
 
 ## 📖 できればこれも
 
-- [log](/log)：丸太
-- [plant](/plant)：植物、工場
+- [log](/word/log)：丸太
+- [plant](/word/plant)：植物、工場
 
 <!-- cvid: aid08_bid42 -->

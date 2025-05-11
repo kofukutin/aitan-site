@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や規則説明の中で頻出します。特
 ## 🤔  conformity との違いは？
 
 - **compliance**：外部からの規則や命令に従うこと、特に義務や強制のニュアンスが強い
-- **[conformity](/conformity)**：集団や社会の基準・慣習に合わせること、内面的な同調や一体感のニュアンス
+- **[conformity](/word/conformity)**：集団や社会の基準・慣習に合わせること、内面的な同調や一体感のニュアンス
 
 complianceは「ルールや法律など明確な基準に従う」場合に使い、conformityは「周囲や社会の雰囲気・慣習に合わせる」場合に使います。
 
@@ -105,14 +105,14 @@ complianceは「ルールや法律など明確な基準に従う」場合に使�
 
 ## 🧩 あわせて覚えたい
 
-- [violation](/violation)：違反、反則
-- [regulation](/regulation)：規則、規制
+- [violation](/word/violation)：違反、反則
+- [regulation](/word/regulation)：規則、規制
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/policy)：方針、政策
-- [procedure](/procedure)：手順、手続き
+- [policy](/word/policy)：方針、政策
+- [procedure](/word/procedure)：手順、手続き
 
 <!-- cvid: aid08_bid46 -->

@@ -97,7 +97,7 @@ TOEICでは、業務の効率化や手順の説明など、ビジネスシーン
 ## 🤔  streamline との違いは？
 
 - **simplify**：複雑なものを単純に、分かりやすくすることに重点がある
-- **[streamline](/streamline)**：効率化や無駄を省いてスムーズにすることに重点がある
+- **[streamline](/word/streamline)**：効率化や無駄を省いてスムーズにすることに重点がある
 
 simplifyは「単純化」に焦点があり、streamlineは「効率化・合理化」に焦点があるため、目的やニュアンスが異なります。
 
@@ -105,14 +105,14 @@ simplifyは「単純化」に焦点があり、streamlineは「効率化・合�
 
 ## 🧩 あわせて覚えたい
 
-- [complicate](/complicate)：複雑にする
-- [clarify](/clarify)：明確にする
+- [complicate](/word/complicate)：複雑にする
+- [clarify](/word/clarify)：明確にする
 
 ---
 
 ## 📖 できればこれも
 
-- [adjust](/adjust)：調整する
-- [improve](/improve)：改善する
+- [adjust](/word/adjust)：調整する
+- [improve](/word/improve)：改善する
 
 <!-- cvid: aid18_bid05 -->

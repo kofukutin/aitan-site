@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や会議の文脈で「強化する」「補強
 ## 🤔  strengthen との違いは？
 
 - **reinforce**：物理的・抽象的なものを「補強する」「さらに強くする」ニュアンスが強い
-- **[strengthen](/strengthen)**：一般的に「強くする」「強化する」幅広い場面で使える
+- **[strengthen](/word/strengthen)**：一般的に「強くする」「強化する」幅広い場面で使える
 
 reinforceは「追加で補強する」イメージがあり、strengthenは単に「強くする」場合に使われます。
 
@@ -105,14 +105,14 @@ reinforceは「追加で補強する」イメージがあり、strengthenは単�
 
 ## 🧩 あわせて覚えたい
 
-- [support](/support)：支える、支持する
-- [undermine](/undermine)：弱体化させる
+- [support](/word/support)：支える、支持する
+- [undermine](/word/undermine)：弱体化させる
 
 ---
 
 ## 📖 できればこれも
 
-- [maintain](/maintain)：維持する
-- [improve](/improve)：改善する
+- [maintain](/word/maintain)：維持する
+- [improve](/word/improve)：改善する
 
 <!-- cvid: aid18_bid44 -->

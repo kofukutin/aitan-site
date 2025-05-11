@@ -97,7 +97,7 @@ The company owns a cottage for employee retreats.
 ## 🤔  cabin との違いは？
 
 - **cottage**：田舎やリゾート地の小さな家、かわいらしい雰囲気
-- **[cabin](/cabin)**：木造の小屋や山小屋、より素朴で簡素な建物
+- **[cabin](/word/cabin)**：木造の小屋や山小屋、より素朴で簡素な建物
 
 cottageは快適さや可愛らしさが強調されるのに対し、cabinはより質素で自然の中にある小屋というイメージです。
 
@@ -105,14 +105,14 @@ cottageは快適さや可愛らしさが強調されるのに対し、cabinは�
 
 ## 🧩 あわせて覚えたい
 
-- [villa](/villa)：高級な別荘
-- [bungalow](/bungalow)：平屋建ての家
+- [villa](/word/villa)：高級な別荘
+- [bungalow](/word/bungalow)：平屋建ての家
 
 ---
 
 ## 📖 できればこれも
 
-- [farm](/farm)：農場
-- [garden](/garden)：庭
+- [farm](/word/farm)：農場
+- [garden](/word/garden)：庭
 
 <!-- cvid: aid21_bid35 -->

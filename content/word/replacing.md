@@ -97,7 +97,7 @@ TOEICでは会議や業務連絡の場面で「交換する」「取り替える
 ## 🤔  substitute との違いは？
 
 - **replacing**：何かを別のものと取り替える動作そのものや進行中の状態を表す。
-- **[substitute](/substitute)**：代わりとなるもの・人を一時的または恒久的に使うことを強調。
+- **[substitute](/word/substitute)**：代わりとなるもの・人を一時的または恒久的に使うことを強調。
 
 replacingは「交換する動作」に焦点があり、substituteは「代用品・代理人」に焦点があります。
 
@@ -105,14 +105,14 @@ replacingは「交換する動作」に焦点があり、substituteは「代用�
 
 ## 🧩 あわせて覚えたい
 
-- [remove](/remove)：取り除く
-- [restore](/restore)：元に戻す
+- [remove](/word/remove)：取り除く
+- [restore](/word/restore)：元に戻す
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/install)：設置する、インストールする
-- [update](/update)：更新する
+- [install](/word/install)：設置する、インストールする
+- [update](/word/update)：更新する
 
 <!-- cvid: aid30_bid00 -->

@@ -97,7 +97,7 @@ TOEICでは主に文書や契約書、説明文の構成を問う問題で見か
 ## 🤔  section との違いは？
 
 - **subsection**：section（区分）の中のさらに細かい「小区分」や「小節」を指す。
-- **[section](/section)**：文書や本、規則などの「区分」「節」全体を指す。
+- **[section](/word/section)**：文書や本、規則などの「区分」「節」全体を指す。
 
 subsectionはsectionの一部で、より細かい単位を表します。全体の大きな区分がsection、その中の小さな区分がsubsectionです。
 
@@ -105,14 +105,14 @@ subsectionはsectionの一部で、より細かい単位を表します。全体
 
 ## 🧩 あわせて覚えたい
 
-- [clause](/clause)：（法律や契約書の）条項
-- [paragraph](/paragraph)：段落
+- [clause](/word/clause)：（法律や契約書の）条項
+- [paragraph](/word/paragraph)：段落
 
 ---
 
 ## 📖 できればこれも
 
-- [division](/division)：区分、分割
-- [segment](/segment)：部分、区切り
+- [division](/word/division)：区分、分割
+- [segment](/word/segment)：部分、区切り
 
 <!-- cvid: aid14_bid19 -->

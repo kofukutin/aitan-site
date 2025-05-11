@@ -96,7 +96,7 @@ TOEICではIT関連や資料作成の説明文で出題されることが多い�
 ## 🤔  typeface との違いは？
 
 - **font**：特定のサイズや太さなどを含む具体的な文字セット
-- **[typeface](/typeface)**：デザインとしての書体全体
+- **[typeface](/word/typeface)**：デザインとしての書体全体
 
 fontは「Arialの12ポイント太字」など具体的なスタイルを指し、typefaceは「Arial」などデザイン全体を指します。
 
@@ -104,13 +104,13 @@ fontは「Arialの12ポイント太字」など具体的なスタイルを指し
 
 ## 🧩 あわせて覚えたい
 
-- [format](/format)：書式、形式
-- [layout](/layout)：配置、レイアウト
+- [format](/word/format)：書式、形式
+- [layout](/word/layout)：配置、レイアウト
 
 ---
 
 ## 📖 できればこれも
 
-- [style](/style)：スタイル、様式
-- [design](/design)：デザイン、設計
+- [style](/word/style)：スタイル、様式
+- [design](/word/design)：デザイン、設計
 <!-- cvid: aid42_bid10 -->

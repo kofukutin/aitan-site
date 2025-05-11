@@ -97,7 +97,7 @@ TOEICでは契約書やビジネス文書、製品の利用規約などで頻出
 ## 🤔  permission との違いは？
 
 - **licensing**：公式な許可や認可を与える手続きや制度全体
-- **[permission](/permission)**：個人や組織からの「許可」や「承認」という意味
+- **[permission](/word/permission)**：個人や組織からの「許可」や「承認」という意味
 
 licensingは制度やビジネス上の認可手続きに使われ、permissionは日常的な「許可」に使われます。
 
@@ -105,14 +105,14 @@ licensingは制度やビジネス上の認可手続きに使われ、permission�
 
 ## 🧩 あわせて覚えたい
 
-- [authorization](/authorization)：権限付与、認可
-- [certification](/certification)：証明、認証
+- [authorization](/word/authorization)：権限付与、認可
+- [certification](/word/certification)：証明、認証
 
 ---
 
 ## 📖 できればこれも
 
-- [regulation](/regulation)：規則、規制
-- [approval](/approval)：承認、認可
+- [regulation](/word/regulation)：規則、規制
+- [approval](/word/approval)：承認、認可
 
 <!-- cvid: aid28_bid35 -->

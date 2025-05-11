@@ -98,7 +98,7 @@ TOEICでは職場の会話や指示、相談の場面でよく登場します。
 ## 🤔  colleague との違いは？
 
 - **coworker**：同じ職場で働く人。アメリカ英語でカジュアルな響き。
-- **[colleague](/colleague)**：同じ職場や業界の仲間。ややフォーマルでイギリス英語でもよく使う。
+- **[colleague](/word/colleague)**：同じ職場や業界の仲間。ややフォーマルでイギリス英語でもよく使う。
 
 coworkerは日常会話やカジュアルな職場でよく使われ、colleagueはフォーマルな場や書き言葉で使われることが多いです。
 
@@ -106,14 +106,14 @@ coworkerは日常会話やカジュアルな職場でよく使われ、colleague
 
 ## 🧩 あわせて覚えたい
 
-- [supervisor](/supervisor)：上司、監督者
-- [subordinate](/subordinate)：部下
+- [supervisor](/word/supervisor)：上司、監督者
+- [subordinate](/word/subordinate)：部下
 
 ---
 
 ## 📖 できればこれも
 
-- [manager](/manager)：管理職、マネージャー
-- [employee](/employee)：従業員
+- [manager](/word/manager)：管理職、マネージャー
+- [employee](/word/employee)：従業員
 
 <!-- cvid: aid30_bid43 -->

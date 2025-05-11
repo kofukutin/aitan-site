@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「退屈な会議」「つまらない仕事」
 ## 🤔  dull との違いは？
 
 - **boring**：人や物事が「退屈させる」性質を持つことを強調
-- **[dull](/dull)**：刺激や面白みがなく「単調」な印象を与える
+- **[dull](/word/dull)**：刺激や面白みがなく「単調」な印象を与える
 
 boringは「つまらなくて退屈させる」ことに重点があり、dullは「活気や変化がなく単調」なニュアンスです。
 
@@ -105,14 +105,14 @@ boringは「つまらなくて退屈させる」ことに重点があり、dull�
 
 ## 🧩 あわせて覚えたい
 
-- [exciting](/exciting)：わくわくさせる、刺激的な
-- [tedious](/tedious)：長くて退屈な、うんざりする
+- [exciting](/word/exciting)：わくわくさせる、刺激的な
+- [tedious](/word/tedious)：長くて退屈な、うんざりする
 
 ---
 
 ## 📖 できればこれも
 
-- [interesting](/interesting)：面白い、興味深い
-- [funny](/funny)：おかしい、面白い
+- [interesting](/word/interesting)：面白い、興味深い
+- [funny](/word/funny)：おかしい、面白い
 
 <!-- cvid: aid47_bid18 -->

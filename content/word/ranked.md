@@ -97,7 +97,7 @@ rankedは、TOEICの文法問題やビジネス文脈で「順位付けされた
 ## 🤔  classified との違いは？
 
 - **ranked**：順位や優劣をつけて並べること
-- **[classified](/classified)**：種類やカテゴリーごとに分類すること
+- **[classified](/word/classified)**：種類やカテゴリーごとに分類すること
 
 rankedは「順位付け」、classifiedは「分類」と、目的や基準が異なります。
 
@@ -105,14 +105,14 @@ rankedは「順位付け」、classifiedは「分類」と、目的や基準が�
 
 ## 🧩 あわせて覚えたい
 
-- [evaluate](/evaluate)：評価する
-- [order](/order)：順序づける
+- [evaluate](/word/evaluate)：評価する
+- [order](/word/order)：順序づける
 
 ---
 
 ## 📖 できればこれも
 
-- [listed](/listed)：リストに載せた
-- [graded](/graded)：等級分けした
+- [listed](/word/listed)：リストに載せた
+- [graded](/word/graded)：等級分けした
 
 <!-- cvid: aid08_bid46 -->

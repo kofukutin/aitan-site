@@ -97,7 +97,7 @@ TOEICでは、説明文やプレゼンテーションで「aerial view（空中�
 ## 🤔  airborne との違いは？
 
 - **aerial**：空中に関する、空中で行われる
-- **[airborne](/airborne)**：空中に浮かんでいる、空中を移動している
+- **[airborne](/word/airborne)**：空中に浮かんでいる、空中を移動している
 
 aerialは「空中に関する」広い意味で使われ、airborneは「空中に浮かんでいる」「空中を移動している」状態を強調します。
 
@@ -105,14 +105,14 @@ aerialは「空中に関する」広い意味で使われ、airborneは「空中
 
 ## 🧩 あわせて覚えたい
 
-- [terrestrial](/terrestrial)：地上の、陸上の
-- [aviation](/aviation)：航空、飛行
+- [terrestrial](/word/terrestrial)：地上の、陸上の
+- [aviation](/word/aviation)：航空、飛行
 
 ---
 
 ## 📖 できればこれも
 
-- [altitude](/altitude)：高度
-- [satellite](/satellite)：人工衛星
+- [altitude](/word/altitude)：高度
+- [satellite](/word/satellite)：人工衛星
 
 <!-- cvid: aid14_bid00 -->

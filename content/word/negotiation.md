@@ -97,7 +97,7 @@ TOEICではビジネスシーンの会話や説明文で頻出し、契約や条
 ## 🤔  discussion との違いは？
 
 - **negotiation**：合意や取引条件を決めるための正式な話し合い
-- **[discussion](/discussion)**：意見や情報を交換する一般的な話し合い
+- **[discussion](/word/discussion)**：意見や情報を交換する一般的な話し合い
 
 negotiationは「合意形成」や「条件調整」が目的で、discussionは幅広いテーマの意見交換に使われます。
 
@@ -105,14 +105,14 @@ negotiationは「合意形成」や「条件調整」が目的で、discussion�
 
 ## 🧩 あわせて覚えたい
 
-- [agreement](/agreement)：合意、契約
-- [compromise](/compromise)：妥協、譲歩
+- [agreement](/word/agreement)：合意、契約
+- [compromise](/word/compromise)：妥協、譲歩
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/contract)：契約
-- [proposal](/proposal)：提案
+- [contract](/word/contract)：契約
+- [proposal](/word/proposal)：提案
 
 <!-- cvid: aid21_bid27 -->

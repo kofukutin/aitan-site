@@ -97,7 +97,7 @@ TOEICでは日付や順位、手順を説明する文脈で序数として出題
 ## 🤔  seventhly との違いは？
 
 - **seventh**：順序や順位を表す「7番目の」「第7の」という意味の形容詞・名詞。
-- **[seventhly](/seventhly)**：列挙や説明で「第7に」と使う副詞。
+- **[seventhly](/word/seventhly)**：列挙や説明で「第7に」と使う副詞。
 
 seventhは物や人の順番を表し、seventhlyは説明や手順を列挙する際の「第7に」として使います。
 
@@ -105,14 +105,14 @@ seventhは物や人の順番を表し、seventhlyは説明や手順を列挙す�
 
 ## 🧩 あわせて覚えたい
 
-- [sixth](/sixth)：6番目の
-- [eighth](/eighth)：8番目の
+- [sixth](/word/sixth)：6番目の
+- [eighth](/word/eighth)：8番目の
 
 ---
 
 ## 📖 できればこれも
 
-- [tenth](/tenth)：10番目の
-- [twelfth](/twelfth)：12番目の
+- [tenth](/word/tenth)：10番目の
+- [twelfth](/word/twelfth)：12番目の
 
 <!-- cvid: aid32_bid05 -->

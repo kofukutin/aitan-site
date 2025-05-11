@@ -98,7 +98,7 @@ TOEICでは主にPart 7の長文や広告、案内文などで「映画」や「
 ## 🤔  movie との違いは？
 
 - **film**：イギリス英語でよく使われ、ややフォーマルな響きもある「映画」。
-- **[movie](/movie)**：アメリカ英語で一般的な「映画」。
+- **[movie](/word/movie)**：アメリカ英語で一般的な「映画」。
 
 filmはイギリス英語中心、movieはアメリカ英語中心で使われます。意味はほぼ同じですが、地域や場面によって使い分けられます。
 
@@ -106,14 +106,14 @@ filmはイギリス英語中心、movieはアメリカ英語中心で使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [documentary](/documentary)：ドキュメンタリー（記録映画）
-- [cinema](/cinema)：映画館、映画（イギリス英語）
+- [documentary](/word/documentary)：ドキュメンタリー（記録映画）
+- [cinema](/word/cinema)：映画館、映画（イギリス英語）
 
 ---
 
 ## 📖 できればこれも
 
-- [screen](/screen)：スクリーン、画面
-- [camera](/camera)：カメラ
+- [screen](/word/screen)：スクリーン、画面
+- [camera](/word/camera)：カメラ
 
 <!-- cvid: aid00_bid18 -->

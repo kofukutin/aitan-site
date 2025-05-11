@@ -97,7 +97,7 @@ TOEICでは主に長文読解で、出来事や方針が人や組織に与える
 ## 🤔  influencing との違いは？
 
 - **affecting**：感情や状況に強く作用し、感動や影響を与える様子
-- **[influencing](/influencing)**：主に行動や考え方に働きかけて変化を促すこと
+- **[influencing](/word/influencing)**：主に行動や考え方に働きかけて変化を促すこと
 
 「affecting」は感情面や心に響く影響を強調し、「influencing」は行動や意見の変化に焦点を当てます。
 
@@ -105,14 +105,14 @@ TOEICでは主に長文読解で、出来事や方針が人や組織に与える
 
 ## 🧩 あわせて覚えたい
 
-- [impactful](/impactful)：強い影響力がある
-- [touching](/touching)：感動的な
+- [impactful](/word/impactful)：強い影響力がある
+- [touching](/word/touching)：感動的な
 
 ---
 
 ## 📖 できればこれも
 
-- [effective](/effective)：効果的な
-- [influential](/influential)：影響力のある
+- [effective](/word/effective)：効果的な
+- [influential](/word/influential)：影響力のある
 
 <!-- cvid: aid06_bid39 -->

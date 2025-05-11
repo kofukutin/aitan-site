@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、犬や猫などのペットが登場
 ## 🤔  animal との違いは？
 
 - **pet**：家庭で飼われている愛玩動物
-- **[animal](/animal)**：動物全般（野生・家畜・ペットすべて含む）
+- **[animal](/word/animal)**：動物全般（野生・家畜・ペットすべて含む）
 
 petは「家で飼う動物」に限定され、animalは「生き物としての動物」全般を指します。
 
@@ -105,14 +105,14 @@ petは「家で飼う動物」に限定され、animalは「生き物として�
 
 ## 🧩 あわせて覚えたい
 
-- [owner](/owner)：飼い主
-- [feed](/feed)：（動詞）餌を与える
+- [owner](/word/owner)：飼い主
+- [feed](/word/feed)：（動詞）餌を与える
 
 ---
 
 ## 📖 できればこれも
 
-- [cat](/cat)：猫
-- [dog](/dog)：犬
+- [cat](/word/cat)：猫
+- [dog](/word/dog)：犬
 
 <!-- cvid: aid19_bid15 -->

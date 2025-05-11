@@ -97,7 +97,7 @@ TOEICでは科学や環境に関する長文や博物館の案内文などで登
 ## 🤔  remain との違いは？
 
 - **fossil**：長い年月を経て石化した生物の遺骸や痕跡（化石）
-- **[remain](/remain)**：残されたもの、遺物、遺体など広い意味で「残るもの」
+- **[remain](/word/remain)**：残されたもの、遺物、遺体など広い意味で「残るもの」
 
 fossilは「化石」という科学的な意味に限定されますが、remainは「残るもの」全般を指し、化石以外にも使われます。
 
@@ -105,14 +105,14 @@ fossilは「化石」という科学的な意味に限定されますが、remai
 
 ## 🧩 あわせて覚えたい
 
-- [dinosaur](/dinosaur)：恐竜
-- [mineral](/mineral)：鉱物
+- [dinosaur](/word/dinosaur)：恐竜
+- [mineral](/word/mineral)：鉱物
 
 ---
 
 ## 📖 できればこれも
 
-- [fossilize](/fossilize)：化石化する
-- [ancient](/ancient)：古代の
+- [fossilize](/word/fossilize)：化石化する
+- [ancient](/word/ancient)：古代の
 
 <!-- cvid: aid27_bid12 -->

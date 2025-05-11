@@ -97,7 +97,7 @@ TOEICでは会話の進行や、話している内容を問う設問でよく登
 ## 🤔  speaking との違いは？
 
 - **talking**：カジュアルな会話や日常的な「話す」行為を指す
-- **[speaking](/speaking)**：よりフォーマルで、発表やスピーチなど「話す」こと全般を指す
+- **[speaking](/word/speaking)**：よりフォーマルで、発表やスピーチなど「話す」こと全般を指す
 
 talkingは友人同士の会話などカジュアルな場面で使われ、speakingは公式な場やスピーチなどフォーマルな場面で使われることが多いです。
 
@@ -105,14 +105,14 @@ talkingは友人同士の会話などカジュアルな場面で使われ、spea
 
 ## 🧩 あわせて覚えたい
 
-- [chat](/chat)：おしゃべりする、雑談する
-- [discuss](/discuss)：議論する、話し合う
+- [chat](/word/chat)：おしゃべりする、雑談する
+- [discuss](/word/discuss)：議論する、話し合う
 
 ---
 
 ## 📖 できればこれも
 
-- [listen](/listen)：聞く、耳を傾ける
-- [say](/say)：言う、述べる
+- [listen](/word/listen)：聞く、耳を傾ける
+- [say](/word/say)：言う、述べる
 
 <!-- cvid: aid31_bid06 -->

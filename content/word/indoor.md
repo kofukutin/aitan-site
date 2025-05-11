@@ -97,7 +97,7 @@ TOEICでは、会議やイベント、施設の説明などで「indoor」が使
 ## 🤔  inside との違いは？
 
 - **indoor**：屋内の（形容詞）で、名詞の前に置いて「屋内の○○」と表現する
-- **[inside](/inside)**：中に、内部で（副詞・前置詞）で、動作や位置を表す
+- **[inside](/word/inside)**：中に、内部で（副詞・前置詞）で、動作や位置を表す
 
 「indoor」は名詞を修飾して「屋内の」と限定するのに対し、「inside」は場所や動作の位置を説明する時に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、会議やイベント、施設の説明などで「indoor」が使
 
 ## 🧩 あわせて覚えたい
 
-- [outdoor](/outdoor)：屋外の
-- [internal](/internal)：内部の、内側の
+- [outdoor](/word/outdoor)：屋外の
+- [internal](/word/internal)：内部の、内側の
 
 ---
 
 ## 📖 できればこれも
 
-- [outdoor](/outdoor)：屋外の
-- [internal](/internal)：内部の、内側の
+- [outdoor](/word/outdoor)：屋外の
+- [internal](/word/internal)：内部の、内側の
 
 <!-- cvid: aid24_bid36 -->

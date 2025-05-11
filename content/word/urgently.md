@@ -97,7 +97,7 @@ TOEICではメールや通知文などで「至急対応が必要」といった
 ## 🤔  immediately との違いは？
 
 - **urgently**：緊急性や重要性を強調して「急いで」「至急に」
-- **[immediately](/immediately)**：単に「すぐに」「直ちに」という時間的な即時性
+- **[immediately](/word/immediately)**：単に「すぐに」「直ちに」という時間的な即時性
 
 「urgently」は「重要だから急いで」というニュアンスがあり、「immediately」は単に時間的な速さを表します。
 
@@ -105,14 +105,14 @@ TOEICではメールや通知文などで「至急対応が必要」といった
 
 ## 🧩 あわせて覚えたい
 
-- [promptly](/promptly)：迅速に、すぐに
-- [eventually](/eventually)：最終的に、やがて
+- [promptly](/word/promptly)：迅速に、すぐに
+- [eventually](/word/eventually)：最終的に、やがて
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/quickly)：速く、素早く
-- [seriously](/seriously)：真剣に、深刻に
+- [quickly](/word/quickly)：速く、素早く
+- [seriously](/word/seriously)：真剣に、深刻に
 
 <!-- cvid: aid48_bid25 -->

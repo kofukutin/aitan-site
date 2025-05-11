@@ -97,7 +97,7 @@ TOEICでは会議やイベント、予約の中止を伝える場面でよく出
 ## 🤔  postponed との違いは？
 
 - **canceled**：完全に中止・取り消しになった
-- **[postponed](/postponed)**：延期された（後日に変更された）
+- **[postponed](/word/postponed)**：延期された（後日に変更された）
 
 canceledは「なくなる」、postponedは「後ろにずれる」イメージで、予定が消えるか残るかが大きな違いです。
 
@@ -105,14 +105,14 @@ canceledは「なくなる」、postponedは「後ろにずれる」イメージ
 
 ## 🧩 あわせて覚えたい
 
-- [reschedule](/reschedule)：再調整する、予定を変更する
-- [confirm](/confirm)：確認する
+- [reschedule](/word/reschedule)：再調整する、予定を変更する
+- [confirm](/word/confirm)：確認する
 
 ---
 
 ## 📖 できればこれも
 
-- [delay](/delay)：遅らせる、遅延させる
-- [approve](/approve)：承認する
+- [delay](/word/delay)：遅らせる、遅延させる
+- [approve](/word/approve)：承認する
 
 <!-- cvid: aid29_bid35 -->

@@ -96,7 +96,7 @@ TOEICでは案内文やビジネスメール、イベントのドレスコード
 ## 🤔  outfit との違いは？
 
 - **attire**：フォーマルやビジネスなど、場面にふさわしい格式ある服装を指す
-- **[outfit](/outfit)**：特定の目的や活動のための一式の服装（カジュアル含む）
+- **[outfit](/word/outfit)**：特定の目的や活動のための一式の服装（カジュアル含む）
 
 attireは格式や場面を意識した「服装」、outfitは「コーディネートされた一式の服」として日常的にも使われます。
 
@@ -104,14 +104,14 @@ attireは格式や場面を意識した「服装」、outfitは「コーディ�
 
 ## 🧩 あわせて覚えたい
 
-- [garment](/garment)：衣服（1着の服や布製品）
-- [apparel](/apparel)：衣料品（特に販売用の服全般）
+- [garment](/word/garment)：衣服（1着の服や布製品）
+- [apparel](/word/apparel)：衣料品（特に販売用の服全般）
 
 ---
 
 ## 📖 できればこれも
 
-- [attend](/attend)：出席する
-- [attendant](/attendant)：係員、付き添い人
+- [attend](/word/attend)：出席する
+- [attendant](/word/attendant)：係員、付き添い人
 
 <!-- cvid: aid27_bid44 -->

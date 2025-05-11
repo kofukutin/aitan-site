@@ -97,7 +97,7 @@ TOEICでは医療や社会問題を扱う長文でまれに登場します。フ
 ## 🤔  transgender との違いは？
 
 - **transsexual**：医学的な処置を受けて身体的な性別を変更した人を指す、ややフォーマルな表現。
-- **[transgender](/transgender)**：生まれた性別と異なる性自認を持つ人全般を指し、医学的処置の有無は問わない。
+- **[transgender](/word/transgender)**：生まれた性別と異なる性自認を持つ人全般を指し、医学的処置の有無は問わない。
 
 transsexualは医学的な側面を強調し、transgenderはより広い意味で使われます。
 
@@ -105,14 +105,14 @@ transsexualは医学的な側面を強調し、transgenderはより広い意味�
 
 ## 🧩 あわせて覚えたい
 
-- [cisgender](/cisgender)：生まれた性別と自認する性が一致する人
-- [transition](/transition)：性別移行、移行すること
+- [cisgender](/word/cisgender)：生まれた性別と自認する性が一致する人
+- [transition](/word/transition)：性別移行、移行すること
 
 ---
 
 ## 📖 できればこれも
 
-- [gender](/gender)：性、ジェンダー
-- [identity](/identity)：アイデンティティ、自己認識
+- [gender](/word/gender)：性、ジェンダー
+- [identity](/word/identity)：アイデンティティ、自己認識
 
 <!-- cvid: aid43_bid14 -->

@@ -94,7 +94,7 @@ TOEICでは、説明文や案内文などで「特に～」と強調する場面
 ## 🤔  particularly との違いは？
 
 - **especially**：何かを強調して「特に」「とりわけ」と言うときに使う、日常的で幅広い強調表現。
-- **[particularly](/particularly)**：ややフォーマルで、他と比べて際立っていることを強調する時に使う。
+- **[particularly](/word/particularly)**：ややフォーマルで、他と比べて際立っていることを強調する時に使う。
 
 「especially」は日常会話やビジネスで幅広く使われ、「particularly」はより限定的・専門的な強調に使われることが多いです。
 
@@ -102,14 +102,14 @@ TOEICでは、説明文や案内文などで「特に～」と強調する場面
 
 ## 🧩 あわせて覚えたい
 
-- [mainly](/mainly)：主に
-- [specifically](/specifically)：具体的に
+- [mainly](/word/mainly)：主に
+- [specifically](/word/specifically)：具体的に
 
 ---
 
 ## 📖 できればこれも
 
-- [mainly](/mainly)：主に
-- [mostly](/mostly)：ほとんど
+- [mainly](/word/mainly)：主に
+- [mostly](/word/mostly)：ほとんど
 
 <!-- cvid: aid25_bid30 -->

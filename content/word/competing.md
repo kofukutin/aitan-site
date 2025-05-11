@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や記事の中で「競合する企業」「
 ## 🤔  competitive との違いは？
 
 - **competing**：同じ目的をめぐって直接争っている、または対立している状態を表す。
-- **[competitive](/competitive)**：競争力がある、競争好きな、競争的な性質を持つことを表す。
+- **[competitive](/word/competitive)**：競争力がある、競争好きな、競争的な性質を持つことを表す。
 
 competingは「実際に競合している」状態、competitiveは「競争力がある・競争的な性質」を指します。
 
@@ -105,14 +105,14 @@ competingは「実際に競合している」状態、competitiveは「競争力
 
 ## 🧩 あわせて覚えたい
 
-- [rival](/rival)：ライバル、競争相手
-- [collaborative](/collaborative)：協力的な
+- [rival](/word/rival)：ライバル、競争相手
+- [collaborative](/word/collaborative)：協力的な
 
 ---
 
 ## 📖 できればこれも
 
-- [conflicting](/conflicting)：対立する、矛盾する
-- [cooperating](/cooperating)：協力している
+- [conflicting](/word/conflicting)：対立する、矛盾する
+- [cooperating](/word/cooperating)：協力している
 
 <!-- cvid: aid34_bid30 -->

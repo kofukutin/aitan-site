@@ -98,7 +98,7 @@ TOEICでは、ビジネスシーンでの「激しい競争」「強い関心」
 ## 🤔  severe との違いは？
 
 - **intense**：感情や状況などが「非常に強い」「激しい」ことを表す。
-- **[severe](/severe)**：主に「厳しい」「深刻な」「容赦ない」など、困難や厳しさを強調する。
+- **[severe](/word/severe)**：主に「厳しい」「深刻な」「容赦ない」など、困難や厳しさを強調する。
 
 「intense」は強さや激しさに焦点があり、「severe」は厳しさや深刻さに重点があります。
 
@@ -106,14 +106,14 @@ TOEICでは、ビジネスシーンでの「激しい競争」「強い関心」
 
 ## 🧩 あわせて覚えたい
 
-- [strong](/strong)：強い、力強い
-- [extreme](/extreme)：極端な、極度の
+- [strong](/word/strong)：強い、力強い
+- [extreme](/word/extreme)：極端な、極度の
 
 ---
 
 ## 📖 できればこれも
 
-- [intensive](/intensive)：集中的な、徹底的な
-- [keen](/keen)：熱心な、鋭い
+- [intensive](/word/intensive)：集中的な、徹底的な
+- [keen](/word/keen)：熱心な、鋭い
 
 <!-- cvid: aid13_bid46 -->

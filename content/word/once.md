@@ -93,7 +93,7 @@ onceは会話や説明文で「一度」「～したらすぐに」の意味で�
 ## 🤔  when との違いは？
 
 - **once**：「一度」「～したらすぐに」と、瞬間や条件成立を強調
-- **[when](/when)**：「～のとき」と、単に時点や期間を表す
+- **[when](/word/when)**：「～のとき」と、単に時点や期間を表す
 
 onceは「一度きり」や「条件成立直後」を強調し、whenは単なる時点や期間を表します。
 
@@ -101,14 +101,14 @@ onceは「一度きり」や「条件成立直後」を強調し、whenは単な
 
 ## 🧩 あわせて覚えたい
 
-- [formerly](/formerly)：以前は、かつて
-- [eventually](/eventually)：最終的に
+- [formerly](/word/formerly)：以前は、かつて
+- [eventually](/word/eventually)：最終的に
 
 ---
 
 ## 📖 できればこれも
 
-- [soon](/soon)：すぐに
-- [afterward](/afterward)：その後で
+- [soon](/word/soon)：すぐに
+- [afterward](/word/afterward)：その後で
 
 <!-- cvid: aid14_bid24 -->

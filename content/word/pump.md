@@ -97,7 +97,7 @@ TOEICでは、工場やオフィスの設備説明、トラブル対応の会話
 ## 🤔  pour との違いは？
 
 - **pump**：機械や装置を使って液体や気体を送り出す・くみ上げる
-- **[pour](/pour)**：液体を容器から注ぐ、流し込む
+- **[pour](/word/pour)**：液体を容器から注ぐ、流し込む
 
 pumpは「機械的に送り出す」ニュアンスがあり、pourは「手で注ぐ」など自然な流れを表します。
 
@@ -105,14 +105,14 @@ pumpは「機械的に送り出す」ニュアンスがあり、pourは「手で
 
 ## 🧩 あわせて覚えたい
 
-- [drain](/drain)：排出する、流し出す
-- [supply](/supply)：供給する
+- [drain](/word/drain)：排出する、流し出す
+- [supply](/word/supply)：供給する
 
 ---
 
 ## 📖 できればこれも
 
-- [fill](/fill)：満たす、いっぱいにする
-- [transfer](/transfer)：移す、移動させる
+- [fill](/word/fill)：満たす、いっぱいにする
+- [transfer](/word/transfer)：移す、移動させる
 
 <!-- cvid: aid46_bid47 -->

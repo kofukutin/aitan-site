@@ -97,7 +97,7 @@ TOEICでは社内文書や連絡事項の文脈でよく登場します。特に
 ## 🤔  note との違いは？
 
 - **memo**：ビジネスや職場で使う短い連絡文や覚え書き
-- **[note](/note)**：個人的なメモやちょっとした書き留め、授業ノートなど幅広く使う
+- **[note](/word/note)**：個人的なメモやちょっとした書き留め、授業ノートなど幅広く使う
 
 memoは主に職場やフォーマルな場面での連絡文、noteは日常的なメモや記録に使われます。
 
@@ -105,14 +105,14 @@ memoは主に職場やフォーマルな場面での連絡文、noteは日常的
 
 ## 🧩 あわせて覚えたい
 
-- [message](/message)：伝言、メッセージ
-- [reminder](/reminder)：リマインダー、思い出させるもの
+- [message](/word/message)：伝言、メッセージ
+- [reminder](/word/reminder)：リマインダー、思い出させるもの
 
 ---
 
 ## 📖 できればこれも
 
-- [report](/report)：報告書
-- [document](/document)：文書、書類
+- [report](/word/report)：報告書
+- [document](/word/document)：文書、書類
 
 <!-- cvid: aid14_bid29 -->

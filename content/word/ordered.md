@@ -97,7 +97,7 @@ TOEICでは、orderedは「秩序だった」「整理された」という意�
 ## 🤔  organized との違いは？
 
 - **ordered**：秩序や順序に従って整えられていることを強調
-- **[organized](/organized)**：計画的・効率的にまとめられていることを強調
+- **[organized](/word/organized)**：計画的・効率的にまとめられていることを強調
 
 「ordered」は順序やルールに沿って整然としている様子、「organized」は計画性や効率性を重視してまとめられている様子を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、orderedは「秩序だった」「整理された」という意�
 
 ## 🧩 あわせて覚えたい
 
-- [systematic](/systematic)：体系的な、組織的な
-- [arranged](/arranged)：配置された、整えられた
+- [systematic](/word/systematic)：体系的な、組織的な
+- [arranged](/word/arranged)：配置された、整えられた
 
 ---
 
 ## 📖 できればこれも
 
-- [regular](/regular)：規則正しい、定期的な
-- [neat](/neat)：きちんとした、整然とした
+- [regular](/word/regular)：規則正しい、定期的な
+- [neat](/word/neat)：きちんとした、整然とした
 
 <!-- cvid: aid21_bid37 -->

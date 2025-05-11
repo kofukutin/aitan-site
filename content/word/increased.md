@@ -97,7 +97,7 @@ TOEICでは、increaseの派生語として形容詞increasedが選択肢に出�
 ## 🤔  rising との違いは？
 
 - **increased**：すでに「増加した」状態を表す。過去と比べて増えたことが確定している。
-- **[rising](/rising)**：今まさに「増加しつつある」進行中の状態を表す。
+- **[rising](/word/rising)**：今まさに「増加しつつある」進行中の状態を表す。
 
 increasedは「増えた結果の状態」、risingは「今も増え続けている途中」を強調します。
 
@@ -105,14 +105,14 @@ increasedは「増えた結果の状態」、risingは「今も増え続けて�
 
 ## 🧩 あわせて覚えたい
 
-- [decreased](/decreased)：減少した
-- [additional](/additional)：追加の
+- [decreased](/word/decreased)：減少した
+- [additional](/word/additional)：追加の
 
 ---
 
 ## 📖 できればこれも
 
-- [reduced](/reduced)：減らされた
-- [improved](/improved)：改善された
+- [reduced](/word/reduced)：減らされた
+- [improved](/word/improved)：改善された
 
 <!-- cvid: aid17_bid01 -->

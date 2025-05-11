@@ -97,7 +97,7 @@ TOEICでは、会社や国の「慣習」や「規則」に関する説明文や
 ## 🤔  tradition との違いは？
 
 - **custom**：日常生活や社会で繰り返される具体的な慣習・習わし
-- **[tradition](/tradition)**：世代を超えて受け継がれる文化的・歴史的な伝統
+- **[tradition](/word/tradition)**：世代を超えて受け継がれる文化的・歴史的な伝統
 
 customは日常的な行動やマナーに焦点があり、traditionはより長い歴史や文化的背景を持つものに使われます。
 
@@ -105,14 +105,14 @@ customは日常的な行動やマナーに焦点があり、traditionはより�
 
 ## 🧩 あわせて覚えたい
 
-- [habit](/habit)：個人の習慣
-- [convention](/convention)：社会的な慣例・しきたり
+- [habit](/word/habit)：個人の習慣
+- [convention](/word/convention)：社会的な慣例・しきたり
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/policy)：方針、政策
-- [practice](/practice)：実践、慣行
+- [policy](/word/policy)：方針、政策
+- [practice](/word/practice)：実践、慣行
 
 <!-- cvid: aid27_bid25 -->

@@ -97,7 +97,7 @@ TOEICでは物語や観光案内、イベント紹介などの長文で登場す
 ## 🤔  wizard との違いは？
 
 - **witch**：主に女性の魔法使い、伝説や物語で「魔女」として描かれる
-- **[wizard](/wizard)**：主に男性の魔法使い、賢者や魔術師として描かれる
+- **[wizard](/word/wizard)**：主に男性の魔法使い、賢者や魔術師として描かれる
 
 「witch」は女性、「wizard」は男性の魔法使いを指すことが多く、物語やイメージで使い分けられます。
 
@@ -105,14 +105,14 @@ TOEICでは物語や観光案内、イベント紹介などの長文で登場す
 
 ## 🧩 あわせて覚えたい
 
-- [sorcerer](/sorcerer)：魔術師（特に男性の魔法使い）
-- [fairy](/fairy)：妖精
+- [sorcerer](/word/sorcerer)：魔術師（特に男性の魔法使い）
+- [fairy](/word/fairy)：妖精
 
 ---
 
 ## 📖 できればこれも
 
-- [ghost](/ghost)：幽霊
-- [monster](/monster)：怪物
+- [ghost](/word/ghost)：幽霊
+- [monster](/word/monster)：怪物
 
 <!-- cvid: aid13_bid20 -->

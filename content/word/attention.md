@@ -97,7 +97,7 @@ TOEICでは会議やアナウンス、注意喚起の場面で頻出します。
 ## 🤔  notice との違いは？
 
 - **attention**：意識的に集中して注意を向けること
-- **[notice](/notice)**：何かに気づくこと、見たり聞いたりして認識すること
+- **[notice](/word/notice)**：何かに気づくこと、見たり聞いたりして認識すること
 
 **attention**は自分の意志で意識を向ける場合に使い、**notice**は偶然や自然に気づく場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは会議やアナウンス、注意喚起の場面で頻出します。
 
 ## 🧩 あわせて覚えたい
 
-- [focus](/focus)：集中、焦点
-- [ignore](/ignore)：無視する
+- [focus](/word/focus)：集中、焦点
+- [ignore](/word/ignore)：無視する
 
 ---
 
 ## 📖 できればこれも
 
-- [interest](/interest)：興味、関心
-- [concentration](/concentration)：集中力
+- [interest](/word/interest)：興味、関心
+- [concentration](/word/concentration)：集中力
 
 <!-- cvid: aid49_bid46 -->

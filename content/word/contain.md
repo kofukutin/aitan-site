@@ -97,7 +97,7 @@ TOEICでは「書類や箱が何かを含む」「情報が含まれている」
 ## 🤔  include との違いは？
 
 - **contain**：物理的・抽象的に「中に含む」「収容する」ことを強調
-- **[include](/include)**：一部として「含める」「加える」ことを強調
+- **[include](/word/include)**：一部として「含める」「加える」ことを強調
 
 「contain」は"中身"や"収容"のニュアンスが強く、箱や文書などの中に何かが入っている場合に使います。「include」はリストやグループの一部として加える場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは「書類や箱が何かを含む」「情報が含まれている」
 
 ## 🧩 あわせて覚えたい
 
-- [consist](/consist)：成り立つ、構成される
-- [hold](/hold)：保持する、収容する
+- [consist](/word/consist)：成り立つ、構成される
+- [hold](/word/hold)：保持する、収容する
 
 ---
 
 ## 📖 できればこれも
 
-- [store](/store)：保存する、蓄える
-- [involve](/involve)：含む、関与させる
+- [store](/word/store)：保存する、蓄える
+- [involve](/word/involve)：含む、関与させる
 
 <!-- cvid: aid14_bid38 -->

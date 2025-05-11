@@ -97,7 +97,7 @@ TOEICでは社内文書やビジネスメールの読解問題で頻出します
 ## 🤔  note との違いは？
 
 - **memorandum**：ビジネスや法務で使う公式な覚書や連絡文書
-- **[note](/note)**：個人的なメモや短い記録、カジュアルな伝言
+- **[note](/word/note)**：個人的なメモや短い記録、カジュアルな伝言
 
 memorandumはフォーマルで公式な文書、noteは日常的・個人的なメモや伝言に使われます。
 
@@ -105,14 +105,14 @@ memorandumはフォーマルで公式な文書、noteは日常的・個人的な
 
 ## 🧩 あわせて覚えたい
 
-- [report](/report)：報告書、レポート
-- [contract](/contract)：契約書
+- [report](/word/report)：報告書、レポート
+- [contract](/word/contract)：契約書
 
 ---
 
 ## 📖 できればこれも
 
-- [agenda](/agenda)：議題、議事日程
-- [proposal](/proposal)：提案書
+- [agenda](/word/agenda)：議題、議事日程
+- [proposal](/word/proposal)：提案書
 
 <!-- cvid: aid23_bid05 -->

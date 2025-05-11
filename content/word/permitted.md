@@ -97,7 +97,7 @@ TOEICでは「permitted」は規則やルールに関する文脈で、受動態
 ## 🤔  allowed との違いは？
 
 - **permitted**：規則や権限によって正式に「許可された」というフォーマルな響き。
-- **[allowed](/allowed)**：より広く「許されている」「認められている」という意味で、カジュアルな場面でも使われる。
+- **[allowed](/word/allowed)**：より広く「許されている」「認められている」という意味で、カジュアルな場面でも使われる。
 
 「permitted」は公式なルールや規則に基づく許可を強調し、「allowed」は日常的な許可や一般的な容認に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは「permitted」は規則やルールに関する文脈で、受動態
 
 ## 🧩 あわせて覚えたい
 
-- [forbidden](/forbidden)：禁止された
-- [authorized](/authorized)：公認の、認可された
+- [forbidden](/word/forbidden)：禁止された
+- [authorized](/word/authorized)：公認の、認可された
 
 ---
 
 ## 📖 できればこれも
 
-- [required](/required)：必要とされる
-- [prohibited](/prohibited)：禁止された
+- [required](/word/required)：必要とされる
+- [prohibited](/word/prohibited)：禁止された
 
 <!-- cvid: aid35_bid13 -->

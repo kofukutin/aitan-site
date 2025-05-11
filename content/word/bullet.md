@@ -97,7 +97,7 @@ TOEICでは、説明文やマニュアル、プレゼン資料の指示などで
 ## 🤔  projectile との違いは？
 
 - **bullet**：銃やライフルから発射される金属製の弾丸、または箇条書きの記号。
-- **[projectile](/projectile)**：発射されて飛ぶ物体全般（弾丸、ミサイル、石など）。
+- **[projectile](/word/projectile)**：発射されて飛ぶ物体全般（弾丸、ミサイル、石など）。
 
 **bullet**は主に銃の弾丸や箇条書き記号を指し、**projectile**は「飛んでいくもの」全般を指すため、より広い意味で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、説明文やマニュアル、プレゼン資料の指示などで
 
 ## 🧩 あわせて覚えたい
 
-- [cartridge](/cartridge)：弾薬筒、カートリッジ
-- [shell](/shell)：砲弾、殻
+- [cartridge](/word/cartridge)：弾薬筒、カートリッジ
+- [shell](/word/shell)：砲弾、殻
 
 ---
 
 ## 📖 できればこれも
 
-- [target](/target)：標的、目標
-- [weapon](/weapon)：武器
+- [target](/word/target)：標的、目標
+- [weapon](/word/weapon)：武器
 
 <!-- cvid: aid22_bid18 -->

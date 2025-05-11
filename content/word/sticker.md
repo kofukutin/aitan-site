@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、物に貼られているものとして
 ## 🤔  label との違いは？
 
 - **sticker**：装飾や遊び、簡単な表示のために貼るシールやステッカー
-- **[label](/label)**：情報や説明、識別のために貼るラベル
+- **[label](/word/label)**：情報や説明、識別のために貼るラベル
 
 stickerは見た目や楽しさ重視、labelは内容や情報伝達が目的で使い分けます。
 
@@ -105,14 +105,14 @@ stickerは見た目や楽しさ重視、labelは内容や情報伝達が目的�
 
 ## 🧩 あわせて覚えたい
 
-- [stamp](/stamp)：切手、印
-- [badge](/badge)：バッジ、記章
+- [stamp](/word/stamp)：切手、印
+- [badge](/word/badge)：バッジ、記章
 
 ---
 
 ## 📖 できればこれも
 
-- [poster](/poster)：ポスター
-- [envelope](/envelope)：封筒
+- [poster](/word/poster)：ポスター
+- [envelope](/word/envelope)：封筒
 
 <!-- cvid: aid45_bid39 -->

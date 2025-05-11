@@ -97,7 +97,7 @@ TOEICでは「認める」「入場を許可する」の意味で、文法や語
 ## 🤔  confess との違いは？
 
 - **admit**：事実や過失をしぶしぶ、または公式に認めるときに使う
-- **[confess](/confess)**：罪や秘密などを自分から打ち明けるときに使う
+- **[confess](/word/confess)**：罪や秘密などを自分から打ち明けるときに使う
 
 admitは「認めざるを得ない」ニュアンスがあり、confessは「自発的に告白する」場面で使われます。
 
@@ -105,15 +105,15 @@ admitは「認めざるを得ない」ニュアンスがあり、confessは「�
 
 ## 🧩 あわせて覚えたい
 
-- [deny](/deny)：否定する、認めない
-- [accept](/accept)：受け入れる、承諾する
+- [deny](/word/deny)：否定する、認めない
+- [accept](/word/accept)：受け入れる、承諾する
 
 ---
 
 ## 📖 できればこれも
 
-- [allow](/allow)：許可する
-- [permit](/permit)：許可する（よりフォーマル）
+- [allow](/word/allow)：許可する
+- [permit](/word/permit)：許可する（よりフォーマル）
 
 
 <!-- cvid: aid37_bid39 -->

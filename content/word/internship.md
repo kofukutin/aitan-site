@@ -97,7 +97,7 @@ TOEICでは求人広告や会社紹介、応募要項などで頻出します。
 ## 🤔  apprenticeship との違いは？
 
 - **internship**：学生や若手が短期間、職場で実務経験を積む制度
-- **[apprenticeship](/apprenticeship)**：職人や専門職が長期間、技術を学ぶための見習い制度
+- **[apprenticeship](/word/apprenticeship)**：職人や専門職が長期間、技術を学ぶための見習い制度
 
 internshipは主にオフィスワークやホワイトカラー職で使われ、apprenticeshipは職人や技術職などで使われる点が異なります。
 
@@ -105,14 +105,14 @@ internshipは主にオフィスワークやホワイトカラー職で使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [trainee](/trainee)：研修生、訓練を受けている人
-- [placement](/placement)：職業体験、配置
+- [trainee](/word/trainee)：研修生、訓練を受けている人
+- [placement](/word/placement)：職業体験、配置
 
 ---
 
 ## 📖 できればこれも
 
-- [resume](/resume)：履歴書
-- [interview](/interview)：面接
+- [resume](/word/resume)：履歴書
+- [interview](/word/interview)：面接
 
 <!-- cvid: aid04_bid47 -->

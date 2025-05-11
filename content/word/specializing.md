@@ -97,7 +97,7 @@ TOEICでは、職業や会社の専門分野を説明する場面でよく登場
 ## 🤔  focusing との違いは？
 
 - **specializing**：特定分野に専門的に取り組むことを強調
-- **[focusing](/focusing)**：注意や意識を集中させることを強調
+- **[focusing](/word/focusing)**：注意や意識を集中させることを強調
 
 specializingは「専門性」や「特化」を表し、focusingは「集中」や「注意を向ける」ニュアンスです。
 
@@ -105,14 +105,14 @@ specializingは「専門性」や「特化」を表し、focusingは「集中」
 
 ## 🧩 あわせて覚えたい
 
-- [expertise](/expertise)：専門知識
-- [concentrate](/concentrate)：集中する
+- [expertise](/word/expertise)：専門知識
+- [concentrate](/word/concentrate)：集中する
 
 ---
 
 ## 📖 できればこれも
 
-- [manage](/manage)：管理する、運営する
-- [improve](/improve)：改善する
+- [manage](/word/manage)：管理する、運営する
+- [improve](/word/improve)：改善する
 
 <!-- cvid: aid17_bid45 -->

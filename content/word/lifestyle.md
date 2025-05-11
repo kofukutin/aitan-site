@@ -97,7 +97,7 @@ TOEICでは健康や働き方、商品紹介などの長文で「lifestyle」が
 ## 🤔  habit との違いは？
 
 - **lifestyle**：生活全体の様式や価値観、行動パターン
-- **[habit](/habit)**：個々の繰り返される習慣や癖
+- **[habit](/word/habit)**：個々の繰り返される習慣や癖
 
 「lifestyle」は人生全体の過ごし方や価値観を含みますが、「habit」は特定の行動や癖を指します。
 
@@ -105,14 +105,14 @@ TOEICでは健康や働き方、商品紹介などの長文で「lifestyle」が
 
 ## 🧩 あわせて覚えたい
 
-- [routine](/routine)：決まった手順や日課
-- [custom](/custom)：社会や文化の慣習
+- [routine](/word/routine)：決まった手順や日課
+- [custom](/word/custom)：社会や文化の慣習
 
 ---
 
 ## 📖 できればこれも
 
-- [diet](/diet)：食生活、食事
-- [activity](/activity)：活動、行動
+- [diet](/word/diet)：食生活、食事
+- [activity](/word/activity)：活動、行動
 
 <!-- cvid: aid05_bid09 -->

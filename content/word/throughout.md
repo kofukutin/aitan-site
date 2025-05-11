@@ -93,7 +93,7 @@ TOEICでは、期間や範囲を表す表現として会話や説明文で頻出
 ## 🤔  during との違いは？
 
 - **throughout**：期間や場所の「全体にわたって」ずっと、隅々まで
-- **[during](/during)**：特定の期間「の間に」、その期間のどこかで
+- **[during](/word/during)**：特定の期間「の間に」、その期間のどこかで
 
 throughoutは「始めから終わりまで」や「全体に広がる」ことを強調し、duringはその期間の一部でもOKという違いがあります。
 
@@ -101,14 +101,14 @@ throughoutは「始めから終わりまで」や「全体に広がる」こと�
 
 ## 🧩 あわせて覚えたい
 
-- [across](/across)：～を横切って、～中に
-- [within](/within)：～以内で、～の中で
+- [across](/word/across)：～を横切って、～中に
+- [within](/word/within)：～以内で、～の中で
 
 ---
 
 ## 📖 できればこれも
 
-- [among](/among)：～の間で（3つ以上のものに囲まれて）
-- [beyond](/beyond)：～を越えて、～の向こうに
+- [among](/word/among)：～の間で（3つ以上のものに囲まれて）
+- [beyond](/word/beyond)：～を越えて、～の向こうに
 
 <!-- cvid: aid07_bid33 -->

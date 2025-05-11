@@ -97,7 +97,7 @@ TOEICでは、ITやビジネス文書の説明文で「printable format」や「
 ## 🤔  printed との違いは？
 
 - **printable**：印刷できる状態や形式を表す
-- **[printed](/printed)**：すでに印刷されたものを表す
+- **[printed](/word/printed)**：すでに印刷されたものを表す
 
 「printable」は「これから印刷できる」「印刷に適している」こと、「printed」は「すでに印刷された」ことを指します。
 
@@ -105,14 +105,14 @@ TOEICでは、ITやビジネス文書の説明文で「printable format」や「
 
 ## 🧩 あわせて覚えたい
 
-- [digital](/digital)：デジタルの、電子的な
-- [scannable](/scannable)：スキャンできる
+- [digital](/word/digital)：デジタルの、電子的な
+- [scannable](/word/scannable)：スキャンできる
 
 ---
 
 ## 📖 できればこれも
 
-- [editable](/editable)：編集できる
-- [downloadable](/downloadable)：ダウンロードできる
+- [editable](/word/editable)：編集できる
+- [downloadable](/word/downloadable)：ダウンロードできる
 
 <!-- cvid: aid15_bid06 -->

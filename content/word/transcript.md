@@ -97,7 +97,7 @@ TOEICでは大学や会社への提出書類、または会議記録の文脈で
 ## 🤔  certificate との違いは？
 
 - **transcript**：成績や内容を詳細に記載した証明書や書き起こし文書
-- **[certificate](/certificate)**：資格や修了などを証明する公式な証明書
+- **[certificate](/word/certificate)**：資格や修了などを証明する公式な証明書
 
 transcriptは「内容や成績の詳細な記録」、certificateは「資格や修了そのものの証明」に使われます。
 
@@ -105,14 +105,14 @@ transcriptは「内容や成績の詳細な記録」、certificateは「資格�
 
 ## 🧩 あわせて覚えたい
 
-- [record](/record)：記録、記載
-- [diploma](/diploma)：卒業証書
+- [record](/word/record)：記録、記載
+- [diploma](/word/diploma)：卒業証書
 
 ---
 
 ## 📖 できればこれも
 
-- [application](/application)：申請書、応募
-- [document](/document)：文書、書類
+- [application](/word/application)：申請書、応募
+- [document](/word/document)：文書、書類
 
 <!-- cvid: aid06_bid43 -->

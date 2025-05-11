@@ -97,7 +97,7 @@ kickはTOEICのPart 1で、人物がサッカーボールなどを蹴ってい�
 ## 🤔  hit との違いは？
 
 - **kick**：足で蹴る動作を指す
-- **[hit](/hit)**：手や道具などでたたく・打つ動作を指す
+- **[hit](/word/hit)**：手や道具などでたたく・打つ動作を指す
 
 kickは「足で蹴る」、hitは「手や物で打つ」と使い分けます。
 
@@ -105,14 +105,14 @@ kickは「足で蹴る」、hitは「手や物で打つ」と使い分けます�
 
 ## 🧩 あわせて覚えたい
 
-- [push](/push)：押す
-- [throw](/throw)：投げる
+- [push](/word/push)：押す
+- [throw](/word/throw)：投げる
 
 ---
 
 ## 📖 できればこれも
 
-- [jump](/jump)：跳ぶ
-- [pull](/pull)：引く
+- [jump](/word/jump)：跳ぶ
+- [pull](/word/pull)：引く
 
 <!-- cvid: aid26_bid07 -->

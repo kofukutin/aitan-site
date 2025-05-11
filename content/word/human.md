@@ -98,7 +98,7 @@ TOEICでは、科学的な説明やビジネス文書で「human resources」な
 ## 🤔  person との違いは？
 
 - **human**：生物学的・種としての「人間」を指す
-- **[person](/person)**：個人や人格を持つ「人」を指す
+- **[person](/word/person)**：個人や人格を持つ「人」を指す
 
 「human」は人類全体や生物としての人間を強調し、「person」は個々の人や法的・社会的な個人を強調します。
 
@@ -106,14 +106,14 @@ TOEICでは、科学的な説明やビジネス文書で「human resources」な
 
 ## 🧩 あわせて覚えたい
 
-- [individual](/individual)：個人、個体
-- [animal](/animal)：動物
+- [individual](/word/individual)：個人、個体
+- [animal](/word/animal)：動物
 
 ---
 
 ## 📖 できればこれも
 
-- [body](/body)：体、身体
-- [nature](/nature)：自然、本質
+- [body](/word/body)：体、身体
+- [nature](/word/nature)：自然、本質
 
 <!-- cvid: aid12_bid20 -->

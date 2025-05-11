@@ -97,7 +97,7 @@ TOEICでは、技術やビジネスの文脈で「精度」や「正確さ」を
 ## 🤔  accuracy との違いは？
 
 - **precision**：細かい部分まで誤差が少なく、ぶれがない「精度」や「精密さ」
-- **[accuracy](/accuracy)**：目標や基準にどれだけ近いかという「正確さ」
+- **[accuracy](/word/accuracy)**：目標や基準にどれだけ近いかという「正確さ」
 
 precisionは「ばらつきが少ない」こと、accuracyは「正しい値に近い」ことを指します。例えば、的に矢を何本も同じ場所に当てるのがprecision、高得点の中心に近いのがaccuracyです。
 
@@ -105,14 +105,14 @@ precisionは「ばらつきが少ない」こと、accuracyは「正しい値に
 
 ## 🧩 あわせて覚えたい
 
-- [exactness](/exactness)：厳密さ、正確さ
-- [approximation](/approximation)：近似、概算
+- [exactness](/word/exactness)：厳密さ、正確さ
+- [approximation](/word/approximation)：近似、概算
 
 ---
 
 ## 📖 できればこれも
 
-- [measurement](/measurement)：測定、計測
-- [consistency](/consistency)：一貫性、安定性
+- [measurement](/word/measurement)：測定、計測
+- [consistency](/word/consistency)：一貫性、安定性
 
 <!-- cvid: aid07_bid25 -->

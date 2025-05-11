@@ -97,7 +97,7 @@ We are pressed to finish the project by Friday.
 ## 🤔  urgent との違いは？
 
 - **pressed**：時間や資源が足りず、余裕がない状態を表す
-- **[urgent](/urgent)**：緊急性が高く、すぐに対応が必要な状態
+- **[urgent](/word/urgent)**：緊急性が高く、すぐに対応が必要な状態
 
 「pressed」は「余裕がない」ことに焦点があり、「urgent」は「緊急性」に重点があります。
 
@@ -105,14 +105,14 @@ We are pressed to finish the project by Friday.
 
 ## 🧩 あわせて覚えたい
 
-- [tight](/tight)：（時間や予算が）きつい
-- [relaxed](/relaxed)：余裕がある、リラックスした
+- [tight](/word/tight)：（時間や予算が）きつい
+- [relaxed](/word/relaxed)：余裕がある、リラックスした
 
 ---
 
 ## 📖 できればこれも
 
-- [busy](/busy)：忙しい
-- [available](/available)：利用できる、空いている
+- [busy](/word/busy)：忙しい
+- [available](/word/available)：利用できる、空いている
 
 <!-- cvid: aid31_bid39 -->

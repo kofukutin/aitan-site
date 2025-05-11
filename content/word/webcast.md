@@ -97,7 +97,7 @@ TOEICでは、IT関連や社内イベントの案内文、告知メールなど�
 ## 🤔  livestream との違いは？
 
 - **webcast**：主にイベントや会議などをインターネットで配信する放送全般を指す。
-- **[livestream](/livestream)**：リアルタイムで生配信することに特化した表現。
+- **[livestream](/word/livestream)**：リアルタイムで生配信することに特化した表現。
 
 webcastは録画配信も含みますが、livestreamは「生中継」に限定される点が異なります。
 
@@ -105,14 +105,14 @@ webcastは録画配信も含みますが、livestreamは「生中継」に限定
 
 ## 🧩 あわせて覚えたい
 
-- [broadcast](/broadcast)：放送、電波やインターネットで広く配信すること
-- [webinar](/webinar)：ウェブ上で行うセミナー、オンラインセミナー
+- [broadcast](/word/broadcast)：放送、電波やインターネットで広く配信すること
+- [webinar](/word/webinar)：ウェブ上で行うセミナー、オンラインセミナー
 
 ---
 
 ## 📖 できればこれも
 
-- [download](/download)：ダウンロード、データを取り込むこと
-- [upload](/upload)：アップロード、データを送信すること
+- [download](/word/download)：ダウンロード、データを取り込むこと
+- [upload](/word/upload)：アップロード、データを送信すること
 
 <!-- cvid: aid43_bid16 -->

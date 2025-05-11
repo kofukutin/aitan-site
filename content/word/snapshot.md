@@ -97,7 +97,7 @@ ITやビジネスの文脈で「現状の記録」や「概要」を表す語と
 ## 🤔  screenshot との違いは？
 
 - **snapshot**：カメラやシステムで「ある瞬間の状態や概要」を記録したもの全般。
-- **[screenshot](/screenshot)**：パソコンやスマホ画面の「スクリーンショット（画面の画像）」。
+- **[screenshot](/word/screenshot)**：パソコンやスマホ画面の「スクリーンショット（画面の画像）」。
 
 snapshotは写真やデータの状態など幅広く使われ、screenshotは「画面の画像」に限定されます。
 
@@ -105,14 +105,14 @@ snapshotは写真やデータの状態など幅広く使われ、screenshotは�
 
 ## 🧩 あわせて覚えたい
 
-- [photo](/photo)：写真
-- [capture](/capture)：捕らえる、記録する
+- [photo](/word/photo)：写真
+- [capture](/word/capture)：捕らえる、記録する
 
 ---
 
 ## 📖 できればこれも
 
-- [image](/image)：画像、イメージ
-- [record](/record)：記録、記録する
+- [image](/word/image)：画像、イメージ
+- [record](/word/record)：記録、記録する
 
 <!-- cvid: aid38_bid34 -->

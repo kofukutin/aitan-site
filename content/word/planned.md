@@ -97,7 +97,7 @@ TOEICでは、形容詞として「planned event（計画されたイベント�
 ## 🤔  scheduled との違いは？
 
 - **planned**：あらかじめ計画された、意図的に準備された
-- **[scheduled](/scheduled)**：公式に日時が決められた、スケジュールに組み込まれた
+- **[scheduled](/word/scheduled)**：公式に日時が決められた、スケジュールに組み込まれた
 
 「planned」は計画や準備がなされていることを強調し、「scheduled」は具体的な日時やタイムテーブルに組み込まれていることを強調します。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞として「planned event（計画されたイベント�
 
 ## 🧩 あわせて覚えたい
 
-- [intentional](/intentional)：意図的な
-- [random](/random)：無作為な、偶然の
+- [intentional](/word/intentional)：意図的な
+- [random](/word/random)：無作為な、偶然の
 
 ---
 
 ## 📖 できればこれも
 
-- [organized](/organized)：組織された、整理された
-- [arranged](/arranged)：手配された、整えられた
+- [organized](/word/organized)：組織された、整理された
+- [arranged](/word/arranged)：手配された、整えられた
 
 <!-- cvid: aid05_bid21 -->

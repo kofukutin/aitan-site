@@ -97,7 +97,7 @@ TOEICでは「commit to ～」の形や「commit oneself to ～」など、約�
 ## 🤔  dedicate との違いは？
 
 - **commit**：自分の時間や労力を「約束して注ぐ」「専念する」ニュアンスが強い
-- **[dedicate](/dedicate)**：特定の目的や人のために「ささげる」「捧げる」意味が強い
+- **[dedicate](/word/dedicate)**：特定の目的や人のために「ささげる」「捧げる」意味が強い
 
 commitは「自分の意思で何かに深く関わる」イメージ、dedicateは「目的や対象に心を込めて捧げる」イメージです。
 
@@ -105,14 +105,14 @@ commitは「自分の意思で何かに深く関わる」イメージ、dedicate
 
 ## 🧩 あわせて覚えたい
 
-- [assign](/assign)：割り当てる、任命する
-- [promise](/promise)：約束する
+- [assign](/word/assign)：割り当てる、任命する
+- [promise](/word/promise)：約束する
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/approve)：承認する
-- [submit](/submit)：提出する
+- [approve](/word/approve)：承認する
+- [submit](/word/submit)：提出する
 
 <!-- cvid: aid16_bid16 -->

@@ -97,7 +97,7 @@ TOEICでは、記事やメール、案内文などの長文で「主題」や「
 ## 🤔  topic との違いは？
 
 - **theme**：全体を通して一貫する「主題」や「中心的な考え」
-- **[topic](/topic)**：会話や文章の「話題」「トピック」
+- **[topic](/word/topic)**：会話や文章の「話題」「トピック」
 
 themeは深い意味や全体の中心となる考えを指し、topicはその場その場の具体的な話題を指します。
 
@@ -105,14 +105,14 @@ themeは深い意味や全体の中心となる考えを指し、topicはその�
 
 ## 🧩 あわせて覚えたい
 
-- [subject](/subject)：科目、主題
-- [motif](/motif)：（芸術作品などの）モチーフ、主題
+- [subject](/word/subject)：科目、主題
+- [motif](/word/motif)：（芸術作品などの）モチーフ、主題
 
 ---
 
 ## 📖 できればこれも
 
-- [issue](/issue)：問題、論点
-- [concept](/concept)：概念、考え
+- [issue](/word/issue)：問題、論点
+- [concept](/word/concept)：概念、考え
 
 <!-- cvid: aid25_bid23 -->

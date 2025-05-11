@@ -98,7 +98,7 @@ TOEICでは、メールや社内文書、会話文などで「秘密」「機密
 ## 🤔  confidential との違いは？
 
 - **secret**：一般的な「秘密」や「隠されたこと」を幅広く指す
-- **[confidential](/confidential)**：特に「機密性が高い」「限られた人だけが知るべき」情報を指す
+- **[confidential](/word/confidential)**：特に「機密性が高い」「限られた人だけが知るべき」情報を指す
 
 「secret」は日常的な秘密からビジネスの機密まで幅広く使えますが、「confidential」はよりフォーマルで、主にビジネスや公的な場面で使われます。
 
@@ -106,14 +106,14 @@ TOEICでは、メールや社内文書、会話文などで「秘密」「機密
 
 ## 🧩 あわせて覚えたい
 
-- [mystery](/mystery)：謎、不思議なこと
-- [revelation](/revelation)：明らかにされたこと、暴露
+- [mystery](/word/mystery)：謎、不思議なこと
+- [revelation](/word/revelation)：明らかにされたこと、暴露
 
 ---
 
 ## 📖 できればこれも
 
-- [privacy](/privacy)：プライバシー、私生活
-- [hidden](/hidden)：隠された、見えない
+- [privacy](/word/privacy)：プライバシー、私生活
+- [hidden](/word/hidden)：隠された、見えない
 
 <!-- cvid: aid12_bid30 -->

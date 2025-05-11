@@ -97,7 +97,7 @@ TOEICでは観光や商品説明、プレゼンなどで「印象的」「素晴
 ## 🤔  impressive との違いは？
 
 - **stunning**：見た目や出来事があまりに美しく、圧倒されるほど素晴らしい
-- **[impressive](/impressive)**：人に強い印象や感銘を与える
+- **[impressive](/word/impressive)**：人に強い印象や感銘を与える
 
 stunningは「美しさや素晴らしさに圧倒される」感情が強く、impressiveは「感心する・印象に残る」ニュアンスが中心です。
 
@@ -105,14 +105,14 @@ stunningは「美しさや素晴らしさに圧倒される」感情が強く、
 
 ## 🧩 あわせて覚えたい
 
-- [gorgeous](/gorgeous)：とても美しい、華やかな
-- [ordinary](/ordinary)：普通の、平凡な
+- [gorgeous](/word/gorgeous)：とても美しい、華やかな
+- [ordinary](/word/ordinary)：普通の、平凡な
 
 ---
 
 ## 📖 できればこれも
 
-- [remarkable](/remarkable)：注目すべき、並外れた
-- [spectacular](/spectacular)：壮観な、目を見張るような
+- [remarkable](/word/remarkable)：注目すべき、並外れた
+- [spectacular](/word/spectacular)：壮観な、目を見張るような
 
 <!-- cvid: aid42_bid42 -->

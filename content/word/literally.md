@@ -93,7 +93,7 @@ TOEICでは、説明文や記事の中で「誇張ではなく事実である」
 ## 🤔  actually との違いは？
 
 - **literally**：比喩や誇張ではなく「本当に」「文字通り」という意味を強調する
-- **[actually](/actually)**：実際に、現実には、という意味で事実や真実を述べる
+- **[actually](/word/actually)**：実際に、現実には、という意味で事実や真実を述べる
 
 「literally」は「本当にその通り」という強調、「actually」は「思っていたことと違い実際はこう」というニュアンスの違いがあります。
 
@@ -101,14 +101,14 @@ TOEICでは、説明文や記事の中で「誇張ではなく事実である」
 
 ## 🧩 あわせて覚えたい
 
-- [figuratively](/figuratively)：比喩的に
-- [exactly](/exactly)：正確に、まさに
+- [figuratively](/word/figuratively)：比喩的に
+- [exactly](/word/exactly)：正確に、まさに
 
 ---
 
 ## 📖 できればこれも
 
-- [precisely](/precisely)：正確に、まさしく
-- [simply](/simply)：単純に、ただ
+- [precisely](/word/precisely)：正確に、まさしく
+- [simply](/word/simply)：単純に、ただ
 
 <!-- cvid: aid04_bid10 -->

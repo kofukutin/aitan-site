@@ -97,7 +97,7 @@ TOEICではビジネス文書や社内メール、記事などで「指導力」
 ## 🤔  management との違いは？
 
 - **leadership**：人を導く力や指導的役割そのもの
-- **[management](/management)**：組織や業務の管理・運営
+- **[management](/word/management)**：組織や業務の管理・運営
 
 leadershipは「人を動かす力」に焦点があり、managementは「業務や組織の管理・運営」に重点があります。
 
@@ -105,14 +105,14 @@ leadershipは「人を動かす力」に焦点があり、managementは「業務
 
 ## 🧩 あわせて覚えたい
 
-- [authority](/authority)：権威、権限
-- [guidance](/guidance)：指導、案内
+- [authority](/word/authority)：権威、権限
+- [guidance](/word/guidance)：指導、案内
 
 ---
 
 ## 📖 できればこれも
 
-- [influence](/influence)：影響力
-- [direction](/direction)：指示、方向
+- [influence](/word/influence)：影響力
+- [direction](/word/direction)：指示、方向
 
 <!-- cvid: aid35_bid38 -->

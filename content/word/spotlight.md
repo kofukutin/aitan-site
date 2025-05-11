@@ -97,7 +97,7 @@ TOEICでは、プレゼンやイベント紹介などで「注目」「脚光」
 ## 🤔  highlight との違いは？
 
 - **spotlight**：注目や脚光そのもの、またはスポットライトの光
-- **[highlight](/highlight)**：最も重要な部分、強調点
+- **[highlight](/word/highlight)**：最も重要な部分、強調点
 
 **spotlight**は「注目される状態」や「光を当てること」を指し、**highlight**は「最も目立つ部分」や「強調点」を意味します。場面によって使い分けましょう。
 
@@ -105,14 +105,14 @@ TOEICでは、プレゼンやイベント紹介などで「注目」「脚光」
 
 ## 🧩 あわせて覚えたい
 
-- [focus](/focus)：焦点、集中
-- [attention](/attention)：注意、注目
+- [focus](/word/focus)：焦点、集中
+- [attention](/word/attention)：注意、注目
 
 ---
 
 ## 📖 できればこれも
 
-- [presentation](/presentation)：発表、プレゼンテーション
-- [feature](/feature)：特徴、特集
+- [presentation](/word/presentation)：発表、プレゼンテーション
+- [feature](/word/feature)：特徴、特集
 
 <!-- cvid: aid20_bid37 -->

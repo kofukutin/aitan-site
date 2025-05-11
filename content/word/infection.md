@@ -97,7 +97,7 @@ The hospital is taking measures to prevent infection.
 ## 🤔  contamination との違いは？
 
 - **infection**：病原体が体内に入り、病気を引き起こすこと
-- **[contamination](/contamination)**：物や場所が有害なもの（細菌・化学物質など）で汚染されること
+- **[contamination](/word/contamination)**：物や場所が有害なもの（細菌・化学物質など）で汚染されること
 
 infectionは「体内での病気の発生」に焦点があり、contaminationは「外部の汚染」に使われます。
 
@@ -105,14 +105,14 @@ infectionは「体内での病気の発生」に焦点があり、contamination�
 
 ## 🧩 あわせて覚えたい
 
-- [disease](/disease)：病気
-- [virus](/virus)：ウイルス
+- [disease](/word/disease)：病気
+- [virus](/word/virus)：ウイルス
 
 ---
 
 ## 📖 できればこれも
 
-- [symptom](/symptom)：症状
-- [treatment](/treatment)：治療
+- [symptom](/word/symptom)：症状
+- [treatment](/word/treatment)：治療
 
 <!-- cvid: aid44_bid22 -->

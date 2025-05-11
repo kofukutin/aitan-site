@@ -97,7 +97,7 @@ TOEIC Part 1の写真描写問題で「何かを見ている」動作を表す�
 ## 🤔  looking との違いは？
 
 - **watching**：動きや変化をじっと見守る、観察する
-- **[looking](/looking)**：ただ視線を向ける、見る
+- **[looking](/word/looking)**：ただ視線を向ける、見る
 
 「watching」は動きや変化に注意を向けてじっと見る場合に使い、「looking」は単に視線を向けるだけのときに使います。
 
@@ -105,14 +105,14 @@ TOEIC Part 1の写真描写問題で「何かを見ている」動作を表す�
 
 ## 🧩 あわせて覚えたい
 
-- [observe](/observe)：観察する
-- [monitor](/monitor)：監視する、モニターする
+- [observe](/word/observe)：観察する
+- [monitor](/word/monitor)：監視する、モニターする
 
 ---
 
 ## 📖 できればこれも
 
-- [listen](/listen)：聞く
-- [see](/see)：見える、見る
+- [listen](/word/listen)：聞く
+- [see](/word/see)：見える、見る
 
 <!-- cvid: aid04_bid29 -->

@@ -98,7 +98,7 @@ TOEICでは、責任や原因を問う文脈で動詞・名詞ともによく出
 ## 🤔  criticize との違いは？
 
 - **blame**：悪い結果や問題の「責任」を特定の人や物に負わせて非難する。
-- **[criticize](/criticize)**：行動や考え方などを分析して「批判」する。
+- **[criticize](/word/criticize)**：行動や考え方などを分析して「批判」する。
 
 blameは「責任追及」に焦点があり、criticizeは「良し悪しを評価して指摘」するニュアンスです。
 
@@ -106,14 +106,14 @@ blameは「責任追及」に焦点があり、criticizeは「良し悪しを評
 
 ## 🧩 あわせて覚えたい
 
-- [praise](/praise)：称賛する
-- [accuse](/accuse)：告発する、非難する
+- [praise](/word/praise)：称賛する
+- [accuse](/word/accuse)：告発する、非難する
 
 ---
 
 ## 📖 できればこれも
 
-- [fault](/fault)：過失、責任
-- [complain](/complain)：不満を言う
+- [fault](/word/fault)：過失、責任
+- [complain](/word/complain)：不満を言う
 
 <!-- cvid: aid44_bid09 -->

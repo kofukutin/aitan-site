@@ -105,7 +105,7 @@ absoluteは、TOEICの文法・語彙問題で「絶対的な」「完全な」�
 ## 🤔  complete との違いは？
 
 - **absolute**：他と比較できないほど完全・無条件で、強い断定や制限のなさを強調する。
-- **[complete](/complete)**：必要なものがすべてそろっている「完全な」状態を表す。
+- **[complete](/word/complete)**：必要なものがすべてそろっている「完全な」状態を表す。
 
 absoluteは「絶対的」「無条件」のニュアンスが強く、completeは「不足がない」「全部そろっている」ことに重点があります。
 
@@ -113,14 +113,14 @@ absoluteは「絶対的」「無条件」のニュアンスが強く、complete�
 
 ## 🧩 あわせて覚えたい
 
-- [relative](/relative)：相対的な
-- [definite](/definite)：明確な、はっきりした
+- [relative](/word/relative)：相対的な
+- [definite](/word/definite)：明確な、はっきりした
 
 ---
 
 ## 📖 できればこれも
 
-- [entire](/entire)：全体の、全部の
-- [total](/total)：合計の、全体の
+- [entire](/word/entire)：全体の、全部の
+- [total](/word/total)：合計の、全体の
 
 <!-- cvid: aid37_bid10 -->

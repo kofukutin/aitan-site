@@ -97,7 +97,7 @@ TOEICのPart 1で、美術館や公園の写真描写問題によく登場しま
 ## 🤔  statue との違いは？
 
 - **sculpture**：彫刻全般や彫刻芸術を指し、抽象的な作品も含む
-- **[statue](/statue)**：特に人や動物などの像（立像）を指す
+- **[statue](/word/statue)**：特に人や動物などの像（立像）を指す
 
 sculptureはジャンルや作品全体を指し、statueは特定の形（像）を表します。
 
@@ -105,14 +105,14 @@ sculptureはジャンルや作品全体を指し、statueは特定の形（像�
 
 ## 🧩 あわせて覚えたい
 
-- [painting](/painting)：絵画
-- [carving](/carving)：彫刻（彫ること、彫刻作品）
+- [painting](/word/painting)：絵画
+- [carving](/word/carving)：彫刻（彫ること、彫刻作品）
 
 ---
 
 ## 📖 できればこれも
 
-- [gallery](/gallery)：美術館、画廊
-- [exhibit](/exhibit)：展示、展示品
+- [gallery](/word/gallery)：美術館、画廊
+- [exhibit](/word/exhibit)：展示、展示品
 
 <!-- cvid: aid48_bid14 -->

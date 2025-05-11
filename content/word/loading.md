@@ -97,7 +97,7 @@ TOEICでは主に物流や出荷、倉庫管理などの場面で「loading」�
 ## 🤔  shipment との違いは？
 
 - **loading**：荷物を積み込む作業やその過程
-- **[shipment](/shipment)**：出荷、発送そのものや発送された荷物
+- **[shipment](/word/shipment)**：出荷、発送そのものや発送された荷物
 
 loadingは「積み込み」という作業自体を指し、shipmentは「発送」や「出荷されたもの」を指します。
 
@@ -105,14 +105,14 @@ loadingは「積み込み」という作業自体を指し、shipmentは「発�
 
 ## 🧩 あわせて覚えたい
 
-- [unloading](/unloading)：荷下ろし、積み下ろし
-- [delivery](/delivery)：配達、配送
+- [unloading](/word/unloading)：荷下ろし、積み下ろし
+- [delivery](/word/delivery)：配達、配送
 
 ---
 
 ## 📖 できればこれも
 
-- [transport](/transport)：輸送、運搬
-- [cargo](/cargo)：貨物、積み荷
+- [transport](/word/transport)：輸送、運搬
+- [cargo](/word/cargo)：貨物、積み荷
 
 <!-- cvid: aid18_bid29 -->

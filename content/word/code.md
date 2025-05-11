@@ -97,7 +97,7 @@ TOEICではITやセキュリティ、規則に関する文脈で「code」がよ
 ## 🤔  password との違いは？
 
 - **code**：暗号や規則、またはプログラムの「コード」など幅広い意味で使う
-- **[password](/password)**：主に「パスワード（合言葉）」として使い、個人認証の意味が強い
+- **[password](/word/password)**：主に「パスワード（合言葉）」として使い、個人認証の意味が強い
 
 **code**は暗号や規則、プログラムなど幅広い場面で使われますが、**password**は主に認証やログイン時の「合言葉」として限定的に使われます。
 
@@ -105,14 +105,14 @@ TOEICではITやセキュリティ、規則に関する文脈で「code」がよ
 
 ## 🧩 あわせて覚えたい
 
-- [cipher](/cipher)：暗号、暗号文
-- [protocol](/protocol)：通信規約、手順
+- [cipher](/word/cipher)：暗号、暗号文
+- [protocol](/word/protocol)：通信規約、手順
 
 ---
 
 ## 📖 できればこれも
 
-- [data](/data)：データ、情報
-- [system](/system)：システム、仕組み
+- [data](/word/data)：データ、情報
+- [system](/word/system)：システム、仕組み
 
 <!-- cvid: aid09_bid27 -->

@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や広告、契約書などで「販売業者
 ## 🤔  distributor との違いは？
 
 - **dealer**：商品を仕入れて直接顧客に販売する業者や代理店
-- **[distributor](/distributor)**：メーカーと小売店・ディーラーの間で商品を広く流通させる卸売業者
+- **[distributor](/word/distributor)**：メーカーと小売店・ディーラーの間で商品を広く流通させる卸売業者
 
 dealerは「最終的に顧客に売る人・会社」、distributorは「流通経路の中間で商品を広く配る人・会社」という違いがあります。
 
@@ -105,14 +105,14 @@ dealerは「最終的に顧客に売る人・会社」、distributorは「流通
 
 ## 🧩 あわせて覚えたい
 
-- [retailer](/retailer)：小売業者
-- [supplier](/supplier)：供給業者
+- [retailer](/word/retailer)：小売業者
+- [supplier](/word/supplier)：供給業者
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/client)：顧客（特に法人顧客）
-- [customer](/customer)：顧客（一般消費者）
+- [client](/word/client)：顧客（特に法人顧客）
+- [customer](/word/customer)：顧客（一般消費者）
 
 <!-- cvid: aid34_bid41 -->

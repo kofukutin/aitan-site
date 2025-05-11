@@ -97,7 +97,7 @@ TOEICでは主に記事やビジネス文書、公式発表などの長文中で
 ## 🤔  executive との違いは？
 
 - **presidential**：大統領や大統領職に直接関係することを表す。
-- **[executive](/executive)**：経営幹部や執行権を持つ人・組織全般に関することを表す。
+- **[executive](/word/executive)**：経営幹部や執行権を持つ人・組織全般に関することを表す。
 
 presidentialは「大統領」に特化した形容詞ですが、executiveは企業や組織の「執行部」「経営陣」など幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ presidentialは「大統領」に特化した形容詞ですが、executiveは�
 
 ## 🧩 あわせて覚えたい
 
-- [official](/official)：公式の、公務員
-- [administrative](/administrative)：管理の、行政の
+- [official](/word/official)：公式の、公務員
+- [administrative](/word/administrative)：管理の、行政の
 
 ---
 
 ## 📖 できればこれも
 
-- [parliamentary](/parliamentary)：議会の、国会の
-- [legislative](/legislative)：立法の、法律制定の
+- [parliamentary](/word/parliamentary)：議会の、国会の
+- [legislative](/word/legislative)：立法の、法律制定の
 
 <!-- cvid: aid37_bid22 -->

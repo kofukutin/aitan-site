@@ -97,7 +97,7 @@ TOEICでは、役職や立場の変化を表す文脈で「former」がよく出
 ## 🤔  previous との違いは？
 
 - **former**：以前の、元の（特に役職や立場が過去にそうだったことを強調）
-- **[previous](/previous)**：直前の、前の（時間や順序的に一つ前のものを指す）
+- **[previous](/word/previous)**：直前の、前の（時間や順序的に一つ前のものを指す）
 
 「former」は「元社長」など過去の肩書きや立場に使い、「previous」は「前回の会議」など直前の出来事や物事に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、役職や立場の変化を表す文脈で「former」がよく出
 
 ## 🧩 あわせて覚えたい
 
-- [current](/current)：現在の
-- [ex](/ex)：元～（カジュアルな表現）
+- [current](/word/current)：現在の
+- [ex](/word/ex)：元～（カジュアルな表現）
 
 ---
 
 ## 📖 できればこれも
 
-- [latter](/latter)：後者の
-- [recent](/recent)：最近の
+- [latter](/word/latter)：後者の
+- [recent](/word/recent)：最近の
 
 <!-- cvid: aid48_bid28 -->

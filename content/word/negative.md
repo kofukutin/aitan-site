@@ -97,7 +97,7 @@ TOEICでは、意見や結果、影響などを表す文脈で頻出します。
 ## 🤔  pessimistic との違いは？
 
 - **negative**：物事や状況、意見などが「否定的」「悪い」と評価されるときに幅広く使う。
-- **[pessimistic](/pessimistic)**：将来や結果について「悲観的」「悪い方向に考える」気持ちを表す。
+- **[pessimistic](/word/pessimistic)**：将来や結果について「悲観的」「悪い方向に考える」気持ちを表す。
 
 「negative」は広く「否定的」「悪い」という意味で使われますが、「pessimistic」は特に未来や結果に対して悲観的な気持ちを持つ場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、意見や結果、影響などを表す文脈で頻出します。
 
 ## 🧩 あわせて覚えたい
 
-- [positive](/positive)：肯定的な、前向きな
-- [critical](/critical)：批判的な、重大な
+- [positive](/word/positive)：肯定的な、前向きな
+- [critical](/word/critical)：批判的な、重大な
 
 ---
 
 ## 📖 できればこれも
 
-- [neutral](/neutral)：中立的な
-- [constructive](/constructive)：建設的な
+- [neutral](/word/neutral)：中立的な
+- [constructive](/word/constructive)：建設的な
 
 <!-- cvid: aid25_bid35 -->

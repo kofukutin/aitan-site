@@ -97,7 +97,7 @@ TOEICのPart 1（写真描写）で「light」は、部屋やオフィスの照�
 ## 🤔  lamp との違いは？
 
 - **light**：部屋全体の明かりや光そのものを指す
-- **[lamp](/lamp)**：卓上ランプやスタンドなど、特定の照明器具を指す
+- **[lamp](/word/lamp)**：卓上ランプやスタンドなど、特定の照明器具を指す
 
 「light」は空間全体の明かりや自然光も含みますが、「lamp」は特定の照明器具を指す点が異なります。
 
@@ -105,14 +105,14 @@ TOEICのPart 1（写真描写）で「light」は、部屋やオフィスの照�
 
 ## 🧩 あわせて覚えたい
 
-- [dark](/dark)：暗闇、暗い
-- [bright](/bright)：明るい、輝いている
+- [dark](/word/dark)：暗闇、暗い
+- [bright](/word/bright)：明るい、輝いている
 
 ---
 
 ## 📖 できればこれも
 
-- [heavy](/heavy)：重い
-- [shine](/shine)：輝く、光る
+- [heavy](/word/heavy)：重い
+- [shine](/word/shine)：輝く、光る
 
 <!-- cvid: aid39_bid02 -->

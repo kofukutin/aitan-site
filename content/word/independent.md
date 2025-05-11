@@ -97,7 +97,7 @@ TOEICでは、形容詞として「independent opinion（独立した意見）�
 ## 🤔  autonomous との違いは？
 
 - **independent**：他に頼らず自分で考えたり行動したりする「独立した」「自立した」
-- **[autonomous](/autonomous)**：外部からの支配や制約を受けずに「自己決定できる」「自治の」
+- **[autonomous](/word/autonomous)**：外部からの支配や制約を受けずに「自己決定できる」「自治の」
 
 independentは「他に頼らない」広い意味で使われ、autonomousは「自分でルールや判断を下せる」組織や機械などに使われることが多いです。
 
@@ -105,14 +105,14 @@ independentは「他に頼らない」広い意味で使われ、autonomousは�
 
 ## 🧩 あわせて覚えたい
 
-- [reliable](/reliable)：信頼できる
-- [dependent](/dependent)：依存している
+- [reliable](/word/reliable)：信頼できる
+- [dependent](/word/dependent)：依存している
 
 ---
 
 ## 📖 できればこれも
 
-- [responsible](/responsible)：責任がある
-- [objective](/objective)：客観的な
+- [responsible](/word/responsible)：責任がある
+- [objective](/word/objective)：客観的な
 
 <!-- cvid: aid06_bid38 -->

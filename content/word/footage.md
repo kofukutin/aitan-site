@@ -97,7 +97,7 @@ TOEICではニュース記事やビジネス文書、報告書などの長文中
 ## 🤔  video との違いは？
 
 - **footage**：編集前や素材としての「映像」「動画」を指すことが多い
-- **[video](/video)**：完成した動画や映像作品、一般的な「ビデオ」
+- **[video](/word/video)**：完成した動画や映像作品、一般的な「ビデオ」
 
 footageは「素材」としての映像、videoは「完成品」や一般的な動画を指す点が異なります。
 
@@ -105,14 +105,14 @@ footageは「素材」としての映像、videoは「完成品」や一般的�
 
 ## 🧩 あわせて覚えたい
 
-- [clip](/clip)：短い映像、クリップ
-- [recording](/recording)：録音・録画されたもの
+- [clip](/word/clip)：短い映像、クリップ
+- [recording](/word/recording)：録音・録画されたもの
 
 ---
 
 ## 📖 できればこれも
 
-- [broadcast](/broadcast)：放送する
-- [edit](/edit)：編集する
+- [broadcast](/word/broadcast)：放送する
+- [edit](/word/edit)：編集する
 
 <!-- cvid: aid29_bid45 -->

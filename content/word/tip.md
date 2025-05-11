@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「ちょっとしたアドバイス」や「心
 ## 🤔  hint との違いは？
 
 - **tip**：実用的で具体的なアドバイスやコツを指す
-- **[hint](/hint)**：問題解決のヒントや手がかり、暗示的な助言
+- **[hint](/word/hint)**：問題解決のヒントや手がかり、暗示的な助言
 
 tipは「すぐに役立つアドバイス」、hintは「答えに近づくためのヒントや手がかり」として使い分けます。
 
@@ -105,14 +105,14 @@ tipは「すぐに役立つアドバイス」、hintは「答えに近づくた�
 
 ## 🧩 あわせて覚えたい
 
-- [advice](/advice)：助言、アドバイス
-- [suggestion](/suggestion)：提案、提言
+- [advice](/word/advice)：助言、アドバイス
+- [suggestion](/word/suggestion)：提案、提言
 
 ---
 
 ## 📖 できればこれも
 
-- [note](/note)：メモ、注意
-- [point](/point)：要点、ポイント
+- [note](/word/note)：メモ、注意
+- [point](/word/point)：要点、ポイント
 
 <!-- cvid: aid28_bid31 -->

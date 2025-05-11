@@ -97,7 +97,7 @@ TOEICでは形容詞の語彙問題や、強調表現として出題されるこ
 ## 🤔  powerful との違いは？
 
 - **mighty**：力強さや偉大さをやや誇張して表現する、文学的・感情的な響きがある
-- **[powerful](/powerful)**：現実的・客観的に「強い」「影響力がある」と表現する
+- **[powerful](/word/powerful)**：現実的・客観的に「強い」「影響力がある」と表現する
 
 「mighty」は感情や印象を強調したいとき、「powerful」は事実や能力を冷静に述べたいときに使い分けます。
 
@@ -105,14 +105,14 @@ TOEICでは形容詞の語彙問題や、強調表現として出題されるこ
 
 ## 🧩 あわせて覚えたい
 
-- [strong](/strong)：強い
-- [weak](/weak)：弱い
+- [strong](/word/strong)：強い
+- [weak](/word/weak)：弱い
 
 ---
 
 ## 📖 できればこれも
 
-- [brave](/brave)：勇敢な
-- [huge](/huge)：巨大な
+- [brave](/word/brave)：勇敢な
+- [huge](/word/huge)：巨大な
 
 <!-- cvid: aid30_bid37 -->

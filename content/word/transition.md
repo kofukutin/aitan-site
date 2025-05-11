@@ -97,7 +97,7 @@ transitionはTOEICの長文読解やビジネス文書で「移行」「変遷�
 ## 🤔  shift との違いは？
 
 - **transition**：段階的・計画的な「移行」や「変遷」を表すフォーマルな語。
-- **[shift](/shift)**：比較的カジュアルで、急な「変化」や「転換」を指すことが多い。
+- **[shift](/word/shift)**：比較的カジュアルで、急な「変化」や「転換」を指すことが多い。
 
 transitionは「プロセスとしての移行」を強調し、shiftは「瞬間的な変化」や「方向転換」に使われます。
 
@@ -105,14 +105,14 @@ transitionは「プロセスとしての移行」を強調し、shiftは「瞬�
 
 ## 🧩 あわせて覚えたい
 
-- [change](/change)：変化、変更
-- [conversion](/conversion)：転換、変換
+- [change](/word/change)：変化、変更
+- [conversion](/word/conversion)：転換、変換
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/process)：過程、プロセス
-- [phase](/phase)：段階、局面
+- [process](/word/process)：過程、プロセス
+- [phase](/word/phase)：段階、局面
 
 <!-- cvid: aid49_bid05 -->

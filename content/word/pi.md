@@ -96,7 +96,7 @@ TOEICでは科学や数学に関する説明文や記事で登場することが
 ## 🤔  circle との違いは？
 
 - **pi**：円周と直径の比率を表す数学定数
-- **[circle](/circle)**：円という図形そのもの
+- **[circle](/word/circle)**：円という図形そのもの
 
 piは数値や定数を指し、circleは形や図形を指します。数学の説明で混同しないよう注意しましょう。
 
@@ -104,14 +104,14 @@ piは数値や定数を指し、circleは形や図形を指します。数学の
 
 ## 🧩 あわせて覚えたい
 
-- [radius](/radius)：半径
-- [diameter](/diameter)：直径
+- [radius](/word/radius)：半径
+- [diameter](/word/diameter)：直径
 
 ---
 
 ## 📖 できればこれも
 
-- [formula](/formula)：公式
-- [ratio](/ratio)：比率
+- [formula](/word/formula)：公式
+- [ratio](/word/ratio)：比率
 
 <!-- cvid: aid41_bid33 -->

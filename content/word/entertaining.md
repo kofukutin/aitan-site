@@ -97,7 +97,7 @@ TOEICでは会話やプレゼン、イベントの説明などで「楽しい」
 ## 🤔  interesting との違いは？
 
 - **entertaining**：人を楽しませる、退屈させない
-- **[interesting](/interesting)**：興味を引く、関心を持たせる
+- **[interesting](/word/interesting)**：興味を引く、関心を持たせる
 
 entertainingは「楽しい」「面白い」と感じる体験に使い、interestingは「知的な興味」や「関心」を引くものに使います。
 
@@ -105,14 +105,14 @@ entertainingは「楽しい」「面白い」と感じる体験に使い、inter
 
 ## 🧩 あわせて覚えたい
 
-- [amusing](/amusing)：愉快な、面白い
-- [boring](/boring)：退屈な
+- [amusing](/word/amusing)：愉快な、面白い
+- [boring](/word/boring)：退屈な
 
 ---
 
 ## 📖 できればこれも
 
-- [informative](/informative)：有益な、ためになる
-- [enjoyable](/enjoyable)：楽しい、楽しめる
+- [informative](/word/informative)：有益な、ためになる
+- [enjoyable](/word/enjoyable)：楽しい、楽しめる
 
 <!-- cvid: aid37_bid38 -->

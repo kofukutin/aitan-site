@@ -97,7 +97,7 @@ TOEICでは、社会貢献やイベント案内の文脈で「volunteer」が登
 ## 🤔  participant との違いは？
 
 - **volunteer**：自発的に無償で活動する人
-- **[participant](/participant)**：イベントや活動に参加する人（自発性や無償かどうかは問わない）
+- **[participant](/word/participant)**：イベントや活動に参加する人（自発性や無償かどうかは問わない）
 
 「volunteer」は「自分から進んで手伝う人」、「participant」は「参加者」全般を指し、積極性や無償性のニュアンスが異なります。
 
@@ -105,14 +105,14 @@ TOEICでは、社会貢献やイベント案内の文脈で「volunteer」が登
 
 ## 🧩 あわせて覚えたい
 
-- [donor](/donor)：寄付者
-- [staff](/staff)：スタッフ、職員
+- [donor](/word/donor)：寄付者
+- [staff](/word/staff)：スタッフ、職員
 
 ---
 
 ## 📖 できればこれも
 
-- [charity](/charity)：慈善活動
-- [event](/event)：イベント
+- [charity](/word/charity)：慈善活動
+- [event](/word/event)：イベント
 
 <!-- cvid: aid09_bid19 -->

@@ -103,7 +103,7 @@ TOEICでは、留学や海外出張、国際的なビジネス展開などの文
 ## 🤔  overseas との違いは？
 
 - **abroad**：自国以外の「海外へ」「海外で」という意味で、主に動詞の後ろで副詞的に使う。
-- **[overseas](/overseas)**：海外の、海外へ（副詞・形容詞両方で使える）。ややフォーマルでビジネス文書にも多い。
+- **[overseas](/word/overseas)**：海外の、海外へ（副詞・形容詞両方で使える）。ややフォーマルでビジネス文書にも多い。
 
 abroadは会話やカジュアルな文脈でよく使われ、overseasは書き言葉やビジネスで使われることが多いです。
 
@@ -111,14 +111,14 @@ abroadは会話やカジュアルな文脈でよく使われ、overseasは書き
 
 ## 🧩 あわせて覚えたい
 
-- [foreign](/foreign)：外国の、外国人の
-- [domestic](/domestic)：国内の
+- [foreign](/word/foreign)：外国の、外国人の
+- [domestic](/word/domestic)：国内の
 
 ---
 
 ## 📖 できればこれも
 
-- [travel](/travel)：旅行する
-- [journey](/journey)：旅、道のり
+- [travel](/word/travel)：旅行する
+- [journey](/word/journey)：旅、道のり
 
 <!-- cvid: aid40_bid03 -->

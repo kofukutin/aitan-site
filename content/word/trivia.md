@@ -96,7 +96,7 @@ TOEICではPart 7の長文や記事、社内ニュースなどで雑学や豆知
 ## 🤔  detail との違いは？
 
 - **trivia**：重要ではない小さな事実や雑学
-- **[detail](/detail)**：物事の細部や詳細、重要な情報も含む
+- **[detail](/word/detail)**：物事の細部や詳細、重要な情報も含む
 
 triviaは「取るに足らない知識」や「雑学」を指し、detailは「細かい部分」や「詳細」を意味します。triviaはカジュアルな場面で使われることが多いです。
 
@@ -104,14 +104,14 @@ triviaは「取るに足らない知識」や「雑学」を指し、detailは�
 
 ## 🧩 あわせて覚えたい
 
-- [fact](/fact)：事実
-- [information](/information)：情報
+- [fact](/word/fact)：事実
+- [information](/word/information)：情報
 
 ---
 
 ## 📖 できればこれも
 
-- [quiz](/quiz)：クイズ
-- [topic](/topic)：話題
+- [quiz](/word/quiz)：クイズ
+- [topic](/word/topic)：話題
 
 <!-- cvid: aid20_bid01 -->

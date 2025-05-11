@@ -97,7 +97,7 @@ TOEICでは会議や職場の会話で頻出し、複数の職員やスタッフ
 ## 🤔  employee との違いは？
 
 - **staff**：組織や部署の「職員全体」「スタッフ集団」を指す
-- **[employee](/employee)**：雇用されている「個々の従業員」を指す
+- **[employee](/word/employee)**：雇用されている「個々の従業員」を指す
 
 staffは集団的なニュアンスが強く、employeeは個人を指す点が異なります。
 
@@ -105,14 +105,14 @@ staffは集団的なニュアンスが強く、employeeは個人を指す点が�
 
 ## 🧩 あわせて覚えたい
 
-- [personnel](/personnel)：人事部、職員（全体）
-- [manager](/manager)：管理職、マネージャー
+- [personnel](/word/personnel)：人事部、職員（全体）
+- [manager](/word/manager)：管理職、マネージャー
 
 ---
 
 ## 📖 できればこれも
 
-- [team](/team)：チーム、団体
-- [member](/member)：メンバー、構成員
+- [team](/word/team)：チーム、団体
+- [member](/word/member)：メンバー、構成員
 
 <!-- cvid: aid02_bid29 -->

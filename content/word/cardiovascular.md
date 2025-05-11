@@ -97,7 +97,7 @@ The company is developing a new drug for cardiovascular diseases.
 ## 🤔  circulatory との違いは？
 
 - **cardiovascular**：心臓と血管に直接関係することを指す
-- **[circulatory](/circulatory)**：血液やリンパなど体液の循環全体に関する
+- **[circulatory](/word/circulatory)**：血液やリンパなど体液の循環全体に関する
 
 cardiovascularは「心臓と血管」に限定されるのに対し、circulatoryは「循環系全体」を指し、より広い意味で使われます。
 
@@ -105,14 +105,14 @@ cardiovascularは「心臓と血管」に限定されるのに対し、circulato
 
 ## 🧩 あわせて覚えたい
 
-- [respiratory](/respiratory)：呼吸の、呼吸器の
-- [vascular](/vascular)：血管の
+- [respiratory](/word/respiratory)：呼吸の、呼吸器の
+- [vascular](/word/vascular)：血管の
 
 ---
 
 ## 📖 できればこれも
 
-- [neurological](/neurological)：神経の、神経系の
-- [digestive](/digestive)：消化の、消化器の
+- [neurological](/word/neurological)：神経の、神経系の
+- [digestive](/word/digestive)：消化の、消化器の
 
 <!-- cvid: aid13_bid42 -->

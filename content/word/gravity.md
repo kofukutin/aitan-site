@@ -97,7 +97,7 @@ TOEICでは科学や技術、または深刻な事態を説明する文脈で登
 ## 🤔  seriousness との違いは？
 
 - **gravity**：物理的な重力、または事態の深刻さ・重大さを強調するフォーマルな語
-- **[seriousness](/seriousness)**：深刻さ・真剣さを表す一般的な語
+- **[seriousness](/word/seriousness)**：深刻さ・真剣さを表す一般的な語
 
 gravityは特に「重み」や「重大性」を強調したいときや、物理的な「重力」を指すときに使います。seriousnessはより広く「真剣さ」や「深刻さ」を表します。
 
@@ -105,14 +105,14 @@ gravityは特に「重み」や「重大性」を強調したいときや、物�
 
 ## 🧩 あわせて覚えたい
 
-- [weight](/weight)：重さ、重要性
-- [levity](/levity)：軽率さ、軽さ
+- [weight](/word/weight)：重さ、重要性
+- [levity](/word/levity)：軽率さ、軽さ
 
 ---
 
 ## 📖 できればこれも
 
-- [mass](/mass)：質量
-- [force](/force)：力
+- [mass](/word/mass)：質量
+- [force](/word/force)：力
 
 <!-- cvid: aid18_bid17 -->

@@ -96,7 +96,7 @@ TOEICでは歴史や文化に関する長文や記事で見かけることが多
 ## 🤔  imperial との違いは？
 
 - **colonial**：植民地や植民地時代に関する
-- **[imperial](/imperial)**：帝国や皇帝に関する
+- **[imperial](/word/imperial)**：帝国や皇帝に関する
 
 「colonial」は植民地やその時代の特徴に焦点を当て、「imperial」は帝国や支配者側の権力・体制に焦点を当てます。
 
@@ -104,14 +104,14 @@ TOEICでは歴史や文化に関する長文や記事で見かけることが多
 
 ## 🧩 あわせて覚えたい
 
-- [colony](/colony)：植民地
-- [settler](/settler)：移住者、開拓者
+- [colony](/word/colony)：植民地
+- [settler](/word/settler)：移住者、開拓者
 
 ---
 
 ## 📖 できればこれも
 
-- [revolution](/revolution)：革命
-- [empire](/empire)：帝国
+- [revolution](/word/revolution)：革命
+- [empire](/word/empire)：帝国
 
 <!-- cvid: aid01_bid28 -->

@@ -97,7 +97,7 @@ We should not take every report as gospel.
 ## 🤔  doctrine との違いは？
 
 - **gospel**：キリスト教の福音や絶対的な真実、またはゴスペル音楽を指す
-- **[doctrine](/doctrine)**：宗教や組織の体系的な教義・教理
+- **[doctrine](/word/doctrine)**：宗教や組織の体系的な教義・教理
 
 gospelは「良い知らせ」や「音楽」としても使われ、doctrineは体系的な理論や教義に限定されます。
 
@@ -105,14 +105,14 @@ gospelは「良い知らせ」や「音楽」としても使われ、doctrineは
 
 ## 🧩 あわせて覚えたい
 
-- [sermon](/sermon)：説教、宗教的な講話
-- [hymn](/hymn)：賛美歌、宗教的な歌
+- [sermon](/word/sermon)：説教、宗教的な講話
+- [hymn](/word/hymn)：賛美歌、宗教的な歌
 
 ---
 
 ## 📖 できればこれも
 
-- [faith](/faith)：信仰、信念
-- [belief](/belief)：信じること、信念
+- [faith](/word/faith)：信仰、信念
+- [belief](/word/belief)：信じること、信念
 
 <!-- cvid: aid41_bid46 -->

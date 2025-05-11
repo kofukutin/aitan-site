@@ -97,7 +97,7 @@ TOEICでは、企業の多様性や文化的背景に関する説明文や記事
 ## 🤔  racial との違いは？
 
 - **ethnic**：文化や伝統、出自など民族集団に関するニュアンスが強い
-- **[racial](/racial)**：人種そのものや人種間の違いに焦点を当てる
+- **[racial](/word/racial)**：人種そのものや人種間の違いに焦点を当てる
 
 「ethnic」は文化や伝統など民族的な特徴に注目し、「racial」は肌の色や人種そのものに関する話題で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、企業の多様性や文化的背景に関する説明文や記事
 
 ## 🧩 あわせて覚えたい
 
-- [cultural](/cultural)：文化の、文化的な
-- [minority](/minority)：少数派、少数民族
+- [cultural](/word/cultural)：文化の、文化的な
+- [minority](/word/minority)：少数派、少数民族
 
 ---
 
 ## 📖 できればこれも
 
-- [diverse](/diverse)：多様な
-- [tradition](/tradition)：伝統
+- [diverse](/word/diverse)：多様な
+- [tradition](/word/tradition)：伝統
 
 <!-- cvid: aid01_bid05 -->

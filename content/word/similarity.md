@@ -97,7 +97,7 @@ TOEICでは、比較や分析、説明文などで「共通点」や「似てい
 ## 🤔  resemblance との違いは？
 
 - **similarity**：共通点や似ている部分を抽象的・全体的に表す
-- **[resemblance](/resemblance)**：外見や印象など、より具体的な「見た目の似ていること」を強調
+- **[resemblance](/word/resemblance)**：外見や印象など、より具体的な「見た目の似ていること」を強調
 
 similarityは性質や特徴など幅広い「類似性」を指し、resemblanceは主に外見や印象の「そっくりさ」に使われます。
 
@@ -105,14 +105,14 @@ similarityは性質や特徴など幅広い「類似性」を指し、resemblanc
 
 ## 🧩 あわせて覚えたい
 
-- [difference](/difference)：違い、相違点
-- [analogy](/analogy)：類推、類似
+- [difference](/word/difference)：違い、相違点
+- [analogy](/word/analogy)：類推、類似
 
 ---
 
 ## 📖 できればこれも
 
-- [comparison](/comparison)：比較
-- [likeness](/likeness)：類似、似ていること
+- [comparison](/word/comparison)：比較
+- [likeness](/word/likeness)：類似、似ていること
 
 <!-- cvid: aid21_bid26 -->

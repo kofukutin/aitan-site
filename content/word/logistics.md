@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やEメール、案内文などで「物流�
 ## 🤔  supply との違いは？
 
 - **logistics**：物資や人員などの全体的な流れや管理・調整の仕組み
-- **[supply](/supply)**：物資そのものや供給する行為
+- **[supply](/word/supply)**：物資そのものや供給する行為
 
 logisticsは「仕組み・段取り・管理」を指し、supplyは「物やサービスを供給すること」自体を指します。物流の全体像と、物の供給という部分的な違いがあります。
 
@@ -105,14 +105,14 @@ logisticsは「仕組み・段取り・管理」を指し、supplyは「物や�
 
 ## 🧩 あわせて覚えたい
 
-- [distribution](/distribution)：流通、配布
-- [operation](/operation)：運用、作業
+- [distribution](/word/distribution)：流通、配布
+- [operation](/word/operation)：運用、作業
 
 ---
 
 ## 📖 できればこれも
 
-- [shipment](/shipment)：出荷、発送
-- [inventory](/inventory)：在庫
+- [shipment](/word/shipment)：出荷、発送
+- [inventory](/word/inventory)：在庫
 
 <!-- cvid: aid28_bid40 -->

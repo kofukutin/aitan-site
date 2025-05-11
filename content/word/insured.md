@@ -97,7 +97,7 @@ TOEICでは保険や金融関連の長文で頻出し、契約書や案内文で
 ## 🤔  policyholder との違いは？
 
 - **insured**：保険の補償を受ける「被保険者」
-- **[policyholder](/policyholder)**：保険契約を結んだ「契約者」
+- **[policyholder](/word/policyholder)**：保険契約を結んだ「契約者」
 
 insuredは実際に保険の対象となる人、policyholderは契約書に名前がある人で、両者が同じ場合も異なる場合もあります。
 
@@ -105,14 +105,14 @@ insuredは実際に保険の対象となる人、policyholderは契約書に名�
 
 ## 🧩 あわせて覚えたい
 
-- [beneficiary](/beneficiary)：受取人（保険金などの受取人）
-- [premium](/premium)：保険料
+- [beneficiary](/word/beneficiary)：受取人（保険金などの受取人）
+- [premium](/word/premium)：保険料
 
 ---
 
 ## 📖 できればこれも
 
-- [coverage](/coverage)：補償範囲
-- [claim](/claim)：保険金請求
+- [coverage](/word/coverage)：補償範囲
+- [claim](/word/claim)：保険金請求
 
 <!-- cvid: aid12_bid43 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 7のビジネス文書や案内文で、公共料金やサ
 ## 🤔  convenience との違いは？
 
 - **utility**：実用性や公共サービス（電気・ガスなど）を指す
-- **[convenience](/convenience)**：便利さ、手軽さを指す
+- **[convenience](/word/convenience)**：便利さ、手軽さを指す
 
 utilityは「役立つこと」や「インフラサービス」に焦点があり、convenienceは「使いやすさ」や「手間がかからないこと」に重点があります。
 
@@ -105,14 +105,14 @@ utilityは「役立つこと」や「インフラサービス」に焦点があ�
 
 ## 🧩 あわせて覚えたい
 
-- [facility](/facility)：施設、設備
-- [necessity](/necessity)：必要性、必需品
+- [facility](/word/facility)：施設、設備
+- [necessity](/word/necessity)：必要性、必需品
 
 ---
 
 ## 📖 できればこれも
 
-- [function](/function)：機能、働き
-- [service](/service)：サービス、業務
+- [function](/word/function)：機能、働き
+- [service](/word/service)：サービス、業務
 
 <!-- cvid: aid31_bid17 -->

@@ -97,7 +97,7 @@ TOEICでは、科学やビジネス文書の説明文で「密集した」「濃
 ## 🤔  thick との違いは？
 
 - **dense**：物や人が「密集している」「密度が高い」ことを強調
-- **[thick](/thick)**：物理的な「厚み」や「幅」を強調
+- **[thick](/word/thick)**：物理的な「厚み」や「幅」を強調
 
 denseは「中身が詰まっている」ニュアンス、thickは「厚さ・太さ」を表す点が異なります。
 
@@ -105,14 +105,14 @@ denseは「中身が詰まっている」ニュアンス、thickは「厚さ・�
 
 ## 🧩 あわせて覚えたい
 
-- [compact](/compact)：ぎゅっと詰まった、コンパクトな
-- [sparse](/sparse)：まばらな、密度が低い
+- [compact](/word/compact)：ぎゅっと詰まった、コンパクトな
+- [sparse](/word/sparse)：まばらな、密度が低い
 
 ---
 
 ## 📖 できればこれも
 
-- [solid](/solid)：固体の、しっかりした
-- [concentrated](/concentrated)：集中した、濃縮された
+- [solid](/word/solid)：固体の、しっかりした
+- [concentrated](/word/concentrated)：集中した、濃縮された
 
 <!-- cvid: aid15_bid21 -->

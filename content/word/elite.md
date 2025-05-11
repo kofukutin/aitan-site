@@ -97,7 +97,7 @@ TOEICでは、ビジネスや教育、組織の説明文で「elite」が登場�
 ## 🤔  exclusive との違いは？
 
 - **elite**：選ばれた人々や集団そのものを指す
-- **[exclusive](/exclusive)**：限られた人だけが利用できる、排他的な
+- **[exclusive](/word/exclusive)**：限られた人だけが利用できる、排他的な
 
 eliteは「人」や「集団」に焦点があり、exclusiveは「物」や「サービス」などの「限られた利用」に焦点があります。
 
@@ -105,14 +105,14 @@ eliteは「人」や「集団」に焦点があり、exclusiveは「物」や「
 
 ## 🧩 あわせて覚えたい
 
-- [privileged](/privileged)：特権を持つ
-- [aristocrat](/aristocrat)：貴族、上流階級の人
+- [privileged](/word/privileged)：特権を持つ
+- [aristocrat](/word/aristocrat)：貴族、上流階級の人
 
 ---
 
 ## 📖 できればこれも
 
-- [prestige](/prestige)：名声、威信
-- [influential](/influential)：影響力のある
+- [prestige](/word/prestige)：名声、威信
+- [influential](/word/influential)：影響力のある
 
 <!-- cvid: aid09_bid34 -->

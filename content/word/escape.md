@@ -97,7 +97,7 @@ TOEICでは、トラブルや問題から「逃れる」「回避する」とい
 ## 🤔  avoid との違いは？
 
 - **escape**：すでに危険や困難な状況にいて、そこから抜け出すこと
-- **[avoid](/avoid)**：最初から危険や困難な状況に「近づかない・避ける」こと
+- **[avoid](/word/avoid)**：最初から危険や困難な状況に「近づかない・避ける」こと
 
 escapeは「すでに巻き込まれている状態からの脱出」、avoidは「最初から関わらないようにする」違いがあります。
 
@@ -105,14 +105,14 @@ escapeは「すでに巻き込まれている状態からの脱出」、avoidは
 
 ## 🧩 あわせて覚えたい
 
-- [flee](/flee)：急いで逃げる
-- [release](/release)：解放する
+- [flee](/word/flee)：急いで逃げる
+- [release](/word/release)：解放する
 
 ---
 
 ## 📖 できればこれも
 
-- [prevent](/prevent)：防ぐ、予防する
-- [miss](/miss)：逃す、見逃す
+- [prevent](/word/prevent)：防ぐ、予防する
+- [miss](/word/miss)：逃す、見逃す
 
 <!-- cvid: aid14_bid31 -->

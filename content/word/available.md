@@ -97,7 +97,7 @@ TOEICでは会議や電話対応、予約などの場面で「利用できる」
 ## 🤔  accessible との違いは？
 
 - **available**：利用できる、入手できる、（人が）手が空いている
-- **[accessible](/accessible)**：アクセスできる、到達できる、利用しやすい
+- **[accessible](/word/accessible)**：アクセスできる、到達できる、利用しやすい
 
 「available」は「使える状態」「手に入る状態」を指し、「accessible」は「物理的・技術的に到達できる」ことを強調します。
 
@@ -105,14 +105,14 @@ TOEICでは会議や電話対応、予約などの場面で「利用できる」
 
 ## 🧩 あわせて覚えたい
 
-- [vacant](/vacant)：空いている（特に部屋や席などに使う）
-- [unavailable](/unavailable)：利用できない、手が空いていない
+- [vacant](/word/vacant)：空いている（特に部屋や席などに使う）
+- [unavailable](/word/unavailable)：利用できない、手が空いていない
 
 ---
 
 ## 📖 できればこれも
 
-- [suitable](/suitable)：適している
-- [convenient](/convenient)：都合が良い、便利な
+- [suitable](/word/suitable)：適している
+- [convenient](/word/convenient)：都合が良い、便利な
 
 <!-- cvid: aid05_bid41 -->

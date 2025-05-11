@@ -97,7 +97,7 @@ spreadingは、会話や説明の中で「広がる」「拡散する」動作�
 ## 🤔  expanding との違いは？
 
 - **spreading**：範囲や影響が自然に広がることを強調
-- **[expanding](/expanding)**：規模や大きさが計画的・積極的に拡大することを強調
+- **[expanding](/word/expanding)**：規模や大きさが計画的・積極的に拡大することを強調
 
 spreadingは自然な広がりや拡散、expandingは意図的な拡大や成長を表す点が異なります。
 
@@ -105,14 +105,14 @@ spreadingは自然な広がりや拡散、expandingは意図的な拡大や成�
 
 ## 🧩 あわせて覚えたい
 
-- [distribute](/distribute)：配布する、分配する
-- [scatter](/scatter)：ばらまく、散らす
+- [distribute](/word/distribute)：配布する、分配する
+- [scatter](/word/scatter)：ばらまく、散らす
 
 ---
 
 ## 📖 できればこれも
 
-- [share](/share)：共有する、分け合う
-- [increase](/increase)：増加する、増やす
+- [share](/word/share)：共有する、分け合う
+- [increase](/word/increase)：増加する、増やす
 
 <!-- cvid: aid37_bid31 -->

@@ -97,7 +97,7 @@ TOEICでは、長文読解で「関与している人」や「複雑な手続き
 ## 🤔  complicated との違いは？
 
 - **involved**：関与している、または複雑である（関係性や構造に焦点）
-- **[complicated](/complicated)**：複雑で理解しにくい（主に難解さや複雑さに焦点）
+- **[complicated](/word/complicated)**：複雑で理解しにくい（主に難解さや複雑さに焦点）
 
 involvedは「関わっている」「入り組んでいる」ニュアンスがあり、complicatedは「複雑で難しい」ことに重点があります。
 
@@ -105,14 +105,14 @@ involvedは「関わっている」「入り組んでいる」ニュアンスが
 
 ## 🧩 あわせて覚えたい
 
-- [engaged](/engaged)：従事している、関わっている
-- [included](/included)：含まれている
+- [engaged](/word/engaged)：従事している、関わっている
+- [included](/word/included)：含まれている
 
 ---
 
 ## 📖 できればこれも
 
-- [concerned](/concerned)：関係している、心配している
-- [detailed](/detailed)：詳細な
+- [concerned](/word/concerned)：関係している、心配している
+- [detailed](/word/detailed)：詳細な
 
 <!-- cvid: aid47_bid09 -->

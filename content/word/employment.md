@@ -97,7 +97,7 @@ TOEICでは「雇用」「就業」に関する文脈で頻出し、employeeやe
 ## 🤔  recruitment との違いは？
 
 - **employment**：雇用そのものや、雇われて働く状態を指す
-- **[recruitment](/recruitment)**：新たに人を募集・採用する活動を指す
+- **[recruitment](/word/recruitment)**：新たに人を募集・採用する活動を指す
 
 employmentは「雇用状態」や「職」に焦点があり、recruitmentは「採用活動」や「募集」に焦点があります。
 
@@ -105,14 +105,14 @@ employmentは「雇用状態」や「職」に焦点があり、recruitmentは�
 
 ## 🧩 あわせて覚えたい
 
-- [unemployment](/unemployment)：失業、無職の状態
-- [occupation](/occupation)：職業、仕事
+- [unemployment](/word/unemployment)：失業、無職の状態
+- [occupation](/word/occupation)：職業、仕事
 
 ---
 
 ## 📖 できればこれも
 
-- [employee](/employee)：従業員
-- [position](/position)：職、役職
+- [employee](/word/employee)：従業員
+- [position](/word/position)：職、役職
 
 <!-- cvid: aid43_bid01 -->

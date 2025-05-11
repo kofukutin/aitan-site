@@ -97,7 +97,7 @@ TOEICでは主に不動産や遺産、資産管理に関する長文やビジネ
 ## 🤔  property との違いは？
 
 - **estate**：広い土地や建物、または遺産全体などまとまった不動産や財産を指すフォーマルな語。
-- **[property](/property)**：土地・建物・所有物など幅広く「財産」や「所有物」を指す一般的な語。
+- **[property](/word/property)**：土地・建物・所有物など幅広く「財産」や「所有物」を指す一般的な語。
 
 estateは特に広い土地や遺産全体などまとまった資産を指し、propertyはより広範な「所有物」や「財産」を意味します。
 
@@ -105,14 +105,14 @@ estateは特に広い土地や遺産全体などまとまった資産を指し�
 
 ## 🧩 あわせて覚えたい
 
-- [asset](/asset)：資産、財産
-- [inheritance](/inheritance)：相続財産、遺産
+- [asset](/word/asset)：資産、財産
+- [inheritance](/word/inheritance)：相続財産、遺産
 
 ---
 
 ## 📖 できればこれも
 
-- [fund](/fund)：資金、基金
-- [tenant](/tenant)：賃借人、借家人
+- [fund](/word/fund)：資金、基金
+- [tenant](/word/tenant)：賃借人、借家人
 
 <!-- cvid: aid36_bid48 -->

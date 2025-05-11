@@ -97,7 +97,7 @@ TOEICではビジネスメールや社内規定、福利厚生の説明文など
 ## 🤔  discount との違いは？
 
 - **allowance**：手当や割当、または特定の条件での値引きなど幅広い意味で使う
-- **[discount](/discount)**：主に商品の値引きや割引の意味で使う
+- **[discount](/word/discount)**：主に商品の値引きや割引の意味で使う
 
 allowanceは「支給される手当」や「許容量」など幅広い場面で使われ、discountは「価格を下げる」ことに特化しています。
 
@@ -105,14 +105,14 @@ allowanceは「支給される手当」や「許容量」など幅広い場面�
 
 ## 🧩 あわせて覚えたい
 
-- [bonus](/bonus)：賞与、ボーナス
-- [deduction](/deduction)：控除、差し引き
+- [bonus](/word/bonus)：賞与、ボーナス
+- [deduction](/word/deduction)：控除、差し引き
 
 ---
 
 ## 📖 できればこれも
 
-- [benefit](/benefit)：福利厚生、利益
-- [expense](/expense)：費用、出費
+- [benefit](/word/benefit)：福利厚生、利益
+- [expense](/word/expense)：費用、出費
 
 <!-- cvid: aid49_bid25 -->

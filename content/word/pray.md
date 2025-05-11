@@ -97,7 +97,7 @@ We pray for the success of this project.
 ## 🤔  wish との違いは？
 
 - **pray**：神や高次の存在に願いを込めて祈る、フォーマルで宗教的なニュアンスが強い
-- **[wish](/wish)**：単に「願う」「望む」という意味で、宗教的な意味合いはなくカジュアルにも使える
+- **[wish](/word/wish)**：単に「願う」「望む」という意味で、宗教的な意味合いはなくカジュアルにも使える
 
 prayは「祈る」行為そのものや宗教的な場面で使われ、wishは日常的な「願いごと」や希望を表すときに使います。
 
@@ -105,14 +105,14 @@ prayは「祈る」行為そのものや宗教的な場面で使われ、wishは
 
 ## 🧩 あわせて覚えたい
 
-- [bless](/bless)：祝福する、加護を祈る
-- [meditate](/meditate)：瞑想する
+- [bless](/word/bless)：祝福する、加護を祈る
+- [meditate](/word/meditate)：瞑想する
 
 ---
 
 ## 📖 できればこれも
 
-- [hope](/hope)：希望する、望む
-- [believe](/believe)：信じる
+- [hope](/word/hope)：希望する、望む
+- [believe](/word/believe)：信じる
 
 <!-- cvid: aid34_bid47 -->

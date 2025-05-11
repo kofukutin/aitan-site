@@ -97,7 +97,7 @@ TOEICでは、必要性や必需品を問う文脈で出題されることが多
 ## 🤔  need との違いは？
 
 - **necessity**：避けられないほど重要な「必要性」や「必需品」を指すフォーマルな表現
-- **[need](/need)**：日常的な「必要」「欲求」など幅広く使える一般的な単語
+- **[need](/word/need)**：日常的な「必要」「欲求」など幅広く使える一般的な単語
 
 necessityは客観的・絶対的な必要性を強調し、needは主観的・個人的な必要にも使えます。
 
@@ -105,14 +105,14 @@ necessityは客観的・絶対的な必要性を強調し、needは主観的・�
 
 ## 🧩 あわせて覚えたい
 
-- [requirement](/requirement)：要件、必要条件
-- [luxury](/luxury)：贅沢品
+- [requirement](/word/requirement)：要件、必要条件
+- [luxury](/word/luxury)：贅沢品
 
 ---
 
 ## 📖 できればこれも
 
-- [essential](/essential)：不可欠な、極めて重要な
-- [require](/require)：必要とする
+- [essential](/word/essential)：不可欠な、極めて重要な
+- [require](/word/require)：必要とする
 
 <!-- cvid: aid09_bid32 -->

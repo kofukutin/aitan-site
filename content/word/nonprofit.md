@@ -96,7 +96,7 @@ TOEICでは、ビジネスや社会貢献に関する長文やEメール文中�
 ## 🤔  charity との違いは？
 
 - **nonprofit**：利益を目的としない団体全般を指す
-- **[charity](/charity)**：主に慈善活動や寄付を目的とする団体
+- **[charity](/word/charity)**：主に慈善活動や寄付を目的とする団体
 
 「nonprofit」は幅広い非営利組織を指し、「charity」は特に慈善活動に特化した団体を指します。
 
@@ -104,14 +104,14 @@ TOEICでは、ビジネスや社会貢献に関する長文やEメール文中�
 
 ## 🧩 あわせて覚えたい
 
-- [corporation](/corporation)：法人、会社
-- [foundation](/foundation)：財団、設立
+- [corporation](/word/corporation)：法人、会社
+- [foundation](/word/foundation)：財団、設立
 
 ---
 
 ## 📖 できればこれも
 
-- [organization](/organization)：組織、団体
-- [volunteer](/volunteer)：ボランティア、志願者
+- [organization](/word/organization)：組織、団体
+- [volunteer](/word/volunteer)：ボランティア、志願者
 
 <!-- cvid: aid14_bid20 -->

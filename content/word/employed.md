@@ -97,7 +97,7 @@ TOEICでは「employed」「unemployed」などの形容詞が、文法や語彙
 ## 🤔  hired との違いは？
 
 - **employed**：現在雇用されている状態を表す形容詞
-- **[hired](/hired)**：雇われた瞬間や採用された事実を強調する語
+- **[hired](/word/hired)**：雇われた瞬間や採用された事実を強調する語
 
 「employed」は「今働いている」状態、「hired」は「採用された」事実や行為に焦点があります。
 
@@ -105,14 +105,14 @@ TOEICでは「employed」「unemployed」などの形容詞が、文法や語彙
 
 ## 🧩 あわせて覚えたい
 
-- [unemployed](/unemployed)：失業している
-- [employee](/employee)：従業員
+- [unemployed](/word/unemployed)：失業している
+- [employee](/word/employee)：従業員
 
 ---
 
 ## 📖 できればこれも
 
-- [applicant](/applicant)：応募者
-- [position](/position)：職、役職
+- [applicant](/word/applicant)：応募者
+- [position](/word/position)：職、役職
 
 <!-- cvid: aid49_bid30 -->

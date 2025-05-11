@@ -96,7 +96,7 @@ TOEICでは書籍や出版物の説明、注文、広告文などで「hardcover
 ## 🤔  paperback との違いは？
 
 - **hardcover**：厚い表紙で装丁された本。高級感や耐久性がある。
-- **[paperback](/paperback)**：柔らかい紙の表紙の本。軽くて安価。
+- **[paperback](/word/paperback)**：柔らかい紙の表紙の本。軽くて安価。
 
 hardcoverは主に贈答用や保存用、paperbackは持ち運びやすさ・価格重視で使い分けられます。
 
@@ -104,14 +104,14 @@ hardcoverは主に贈答用や保存用、paperbackは持ち運びやすさ・�
 
 ## 🧩 あわせて覚えたい
 
-- [edition](/edition)：版、エディション
-- [volume](/volume)：巻、冊
+- [edition](/word/edition)：版、エディション
+- [volume](/word/volume)：巻、冊
 
 ---
 
 ## 📖 できればこれも
 
-- [catalog](/catalog)：カタログ、目録
-- [manual](/manual)：マニュアル、手引き
+- [catalog](/word/catalog)：カタログ、目録
+- [manual](/word/manual)：マニュアル、手引き
 
 <!-- cvid: aid38_bid25 -->

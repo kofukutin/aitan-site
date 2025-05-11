@@ -97,7 +97,7 @@ TOEICでは、ITやビジネス文書で「ファイルや情報にタグを付�
 ## 🤔  labeled との違いは？
 
 - **tagged**：札やラベル、またはデジタル情報に「タグ」を付けることに重点がある
-- **[labeled](/labeled)**：主に「ラベル（表示）」を貼る、内容や名前を明示することに重点がある
+- **[labeled](/word/labeled)**：主に「ラベル（表示）」を貼る、内容や名前を明示することに重点がある
 
 「tagged」は物理的・デジタル的な「タグ付け」に幅広く使い、「labeled」は内容や名前を明確に示すラベル貼りに使います。
 
@@ -105,14 +105,14 @@ TOEICでは、ITやビジネス文書で「ファイルや情報にタグを付�
 
 ## 🧩 あわせて覚えたい
 
-- [mark](/mark)：印を付ける
-- [attach](/attach)：取り付ける、添付する
+- [mark](/word/mark)：印を付ける
+- [attach](/word/attach)：取り付ける、添付する
 
 ---
 
 ## 📖 できればこれも
 
-- [label](/label)：ラベルを貼る
-- [identify](/identify)：識別する
+- [label](/word/label)：ラベルを貼る
+- [identify](/word/identify)：識別する
 
 <!-- cvid: aid12_bid23 -->

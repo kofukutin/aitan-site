@@ -99,7 +99,7 @@ TOEICでは、会議やオフィスのシーンで「警報」や「目覚まし
 ## 🤔  alert との違いは？
 
 - **alarm**：危険や異常を知らせる装置や合図、または驚き・不安そのもの
-- **[alert](/alert)**：警戒や注意を促す通知や状態
+- **[alert](/word/alert)**：警戒や注意を促す通知や状態
 
 alarmは「警報装置」や「突然の驚き」に焦点があり、alertは「注意喚起」や「警戒状態」を指します。
 
@@ -107,14 +107,14 @@ alarmは「警報装置」や「突然の驚き」に焦点があり、alertは�
 
 ## 🧩 あわせて覚えたい
 
-- [warning](/warning)：警告、注意
-- [notification](/notification)：通知、お知らせ
+- [warning](/word/warning)：警告、注意
+- [notification](/word/notification)：通知、お知らせ
 
 ---
 
 ## 📖 できればこれも
 
-- [reminder](/reminder)：リマインダー、思い出させるもの
-- [signal](/signal)：信号、合図
+- [reminder](/word/reminder)：リマインダー、思い出させるもの
+- [signal](/word/signal)：信号、合図
 
 <!-- cvid: aid13_bid02 -->

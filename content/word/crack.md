@@ -97,7 +97,7 @@ TOEICでは、機械や設備のトラブル、商品の状態説明などで「
 ## 🤔  break との違いは？
 
 - **crack**：表面に細いひびや割れ目が入ること。完全に壊れるわけではない。
-- **[break](/break)**：物が完全に壊れる、バラバラになること。
+- **[break](/word/break)**：物が完全に壊れる、バラバラになること。
 
 crackは「ひび」や「割れ目」のような部分的な損傷、breakは「完全に壊れる」ニュアンスで使い分けます。
 
@@ -105,14 +105,14 @@ crackは「ひび」や「割れ目」のような部分的な損傷、breakは�
 
 ## 🧩 あわせて覚えたい
 
-- [split](/split)：割る、分裂する
-- [chip](/chip)：欠ける、かけら
+- [split](/word/split)：割る、分裂する
+- [chip](/word/chip)：欠ける、かけら
 
 ---
 
 ## 📖 できればこれも
 
-- [damage](/damage)：損傷を与える
-- [repair](/repair)：修理する
+- [damage](/word/damage)：損傷を与える
+- [repair](/word/repair)：修理する
 
 <!-- cvid: aid38_bid19 -->

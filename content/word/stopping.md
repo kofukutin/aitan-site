@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「停止」や「中断」を表す名詞とし
 ## 🤔  ceasing との違いは？
 
 - **stopping**：物理的・具体的な「停止」「中断」を表すことが多い
-- **[ceasing](/ceasing)**：より抽象的で「終わる」「やめる」という意味合いが強い
+- **[ceasing](/word/ceasing)**：より抽象的で「終わる」「やめる」という意味合いが強い
 
 stoppingは「動作や動きが止まる」など具体的な場面で使われ、ceasingは「活動や存在が終わる」など抽象的な終結に使われます。
 
@@ -105,14 +105,14 @@ stoppingは「動作や動きが止まる」など具体的な場面で使われ
 
 ## 🧩 あわせて覚えたい
 
-- [pause](/pause)：一時停止
-- [halt](/halt)：完全な停止
+- [pause](/word/pause)：一時停止
+- [halt](/word/halt)：完全な停止
 
 ---
 
 ## 📖 できればこれも
 
-- [starting](/starting)：開始
-- [delay](/delay)：遅延
+- [starting](/word/starting)：開始
+- [delay](/word/delay)：遅延
 
 <!-- cvid: aid15_bid03 -->

@@ -97,7 +97,7 @@ TOEICでは、現地でのサービスや地域限定の話題で使われるこ
 ## 🤔  regionally との違いは？
 
 - **locally**：特定の町や小さな地域など、より狭い範囲で「地元で」「現地で」という意味。
-- **[regionally](/regionally)**：広い地域や地方単位で「地域的に」という意味。
+- **[regionally](/word/regionally)**：広い地域や地方単位で「地域的に」という意味。
 
 locallyは「町」や「市」など狭い範囲、regionallyは「県」や「地方」など広い範囲を指す点が異なります。
 
@@ -105,14 +105,14 @@ locallyは「町」や「市」など狭い範囲、regionallyは「県」や「
 
 ## 🧩 あわせて覚えたい
 
-- [globally](/globally)：世界的に
-- [domestically](/domestically)：国内で
+- [globally](/word/globally)：世界的に
+- [domestically](/word/domestically)：国内で
 
 ---
 
 ## 📖 できればこれも
 
-- [nearby](/nearby)：近くに
-- [site](/site)：現場、場所
+- [nearby](/word/nearby)：近くに
+- [site](/word/site)：現場、場所
 
 <!-- cvid: aid45_bid34 -->

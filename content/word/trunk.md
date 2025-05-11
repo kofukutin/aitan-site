@@ -101,7 +101,7 @@ TOEICでは主にPart 1の写真描写で「車のトランク」や「木の幹
 ## 🤔  chest との違いは？
 
 - **trunk**：木の幹、車の荷物入れ、大きなかばん、象の鼻など「本体」や「中心部分」を指す。
-- **[chest](/chest)**：主に「胸」「収納箱」「金庫」など、体の部位や物を入れる箱を指す。
+- **[chest](/word/chest)**：主に「胸」「収納箱」「金庫」など、体の部位や物を入れる箱を指す。
 
 trunkは「本体」や「中心となる部分」に使われ、chestは「胸」や「物を入れる箱」に使われる点が異なります。
 
@@ -109,14 +109,14 @@ trunkは「本体」や「中心となる部分」に使われ、chestは「胸�
 
 ## 🧩 あわせて覚えたい
 
-- [suitcase](/suitcase)：スーツケース、旅行かばん
-- [branch](/branch)：枝、支店
+- [suitcase](/word/suitcase)：スーツケース、旅行かばん
+- [branch](/word/branch)：枝、支店
 
 ---
 
 ## 📖 できればこれも
 
-- [branch](/branch)：枝、支店
-- [case](/case)：ケース、箱、場合
+- [branch](/word/branch)：枝、支店
+- [case](/word/case)：ケース、箱、場合
 
 <!-- cvid: aid37_bid48 -->

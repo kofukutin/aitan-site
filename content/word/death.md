@@ -97,7 +97,7 @@ TOEICでは主に記事や報告書、医療・保険関連の長文で登場し
 ## 🤔  demise との違いは？
 
 - **death**：一般的な「死」「死亡」を表す最も広い語。
-- **[demise](/demise)**：ややフォーマルで、特に人の死や制度・組織の終焉にも使われる。
+- **[demise](/word/demise)**：ややフォーマルで、特に人の死や制度・組織の終焉にも使われる。
 
 deathは日常的・中立的な「死」を指し、demiseはフォーマルな場や比喩的な「終わり」にも使われます。
 
@@ -105,14 +105,14 @@ deathは日常的・中立的な「死」を指し、demiseはフォーマルな
 
 ## 🧩 あわせて覚えたい
 
-- [birth](/birth)：誕生
-- [fatality](/fatality)：（事故・災害などによる）死亡者
+- [birth](/word/birth)：誕生
+- [fatality](/word/fatality)：（事故・災害などによる）死亡者
 
 ---
 
 ## 📖 できればこれも
 
-- [disease](/disease)：病気
-- [injury](/injury)：けが
+- [disease](/word/disease)：病気
+- [injury](/word/injury)：けが
 
 <!-- cvid: aid22_bid23 -->

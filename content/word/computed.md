@@ -97,7 +97,7 @@ TOEICではITやビジネス文書、特にシステムやデータ処理の説�
 ## 🤔  calculated との違いは？
 
 - **computed**：主に数値やデータを機械的・数学的に計算した場合に使う
-- **[calculated](/calculated)**：計画的・意図的に計算した場合や、意図を持って算出した場合に使う
+- **[calculated](/word/calculated)**：計画的・意図的に計算した場合や、意図を持って算出した場合に使う
 
 「computed」は機械的・自動的な計算、「calculated」は人の意図や計画性が強調される点が異なります。
 
@@ -105,14 +105,14 @@ TOEICではITやビジネス文書、特にシステムやデータ処理の説�
 
 ## 🧩 あわせて覚えたい
 
-- [estimate](/estimate)：見積もる、推定する
-- [process](/process)：処理する、加工する
+- [estimate](/word/estimate)：見積もる、推定する
+- [process](/word/process)：処理する、加工する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/analyze)：分析する
-- [determine](/determine)：決定する、特定する
+- [analyze](/word/analyze)：分析する
+- [determine](/word/determine)：決定する、特定する
 
 <!-- cvid: aid08_bid10 -->

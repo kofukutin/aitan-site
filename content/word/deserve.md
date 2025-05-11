@@ -97,7 +97,7 @@ TOEICでは「deserve to do」や「deserve + 名詞」の形で、適切な動�
 ## 🤔  earn との違いは？
 
 - **deserve**：努力や状況から「～に値する」「ふさわしい」と評価されること
-- **[earn](/earn)**：働きや努力によって「実際に得る」「稼ぐ」こと
+- **[earn](/word/earn)**：働きや努力によって「実際に得る」「稼ぐ」こと
 
 deserveは「ふさわしい資格がある」ことを示し、earnは「実際に報酬や成果を得る」ことに重点があります。
 
@@ -105,14 +105,14 @@ deserveは「ふさわしい資格がある」ことを示し、earnは「実際
 
 ## 🧩 あわせて覚えたい
 
-- [receive](/receive)：受け取る
-- [reward](/reward)：報酬、褒美
+- [receive](/word/receive)：受け取る
+- [reward](/word/reward)：報酬、褒美
 
 ---
 
 ## 📖 できればこれも
 
-- [achieve](/achieve)：達成する
-- [obtain](/obtain)：手に入れる
+- [achieve](/word/achieve)：達成する
+- [obtain](/word/obtain)：手に入れる
 
 <!-- cvid: aid21_bid48 -->

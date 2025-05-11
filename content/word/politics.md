@@ -97,7 +97,7 @@ TOEICでは、新聞記事やビジネス文書の中で社会や組織の動き
 ## 🤔  policy との違いは？
 
 - **politics**：政治全般や政治活動、権力争いなど広い意味で使う
-- **[policy](/policy)**：特定の方針やルール、指針を指す
+- **[policy](/word/policy)**：特定の方針やルール、指針を指す
 
 politicsは「政治」という大きな枠組みや活動全体を指し、policyは「具体的な方針・ルール」を意味します。
 
@@ -105,14 +105,14 @@ politicsは「政治」という大きな枠組みや活動全体を指し、pol
 
 ## 🧩 あわせて覚えたい
 
-- [government](/government)：政府、政権
-- [diplomacy](/diplomacy)：外交
+- [government](/word/government)：政府、政権
+- [diplomacy](/word/diplomacy)：外交
 
 ---
 
 ## 📖 できればこれも
 
-- [election](/election)：選挙
-- [law](/law)：法律
+- [election](/word/election)：選挙
+- [law](/word/law)：法律
 
 <!-- cvid: aid20_bid41 -->

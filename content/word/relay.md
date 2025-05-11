@@ -97,7 +97,7 @@ TOEICでは会議やイベントの中継、情報伝達の文脈で出題され
 ## 🤔  transfer との違いは？
 
 - **relay**：中継や交代でつなぐこと、リレー競技や装置など
-- **[transfer](/transfer)**：移動・転送・譲渡など、あるものを別の場所や人に移すこと
+- **[transfer](/word/transfer)**：移動・転送・譲渡など、あるものを別の場所や人に移すこと
 
 relayは「つなぐ」「引き継ぐ」ニュアンスが強く、transferは「移す」「移動させる」意味が中心です。
 
@@ -105,14 +105,14 @@ relayは「つなぐ」「引き継ぐ」ニュアンスが強く、transferは�
 
 ## 🧩 あわせて覚えたい
 
-- [transmission](/transmission)：伝送、送信
-- [succession](/succession)：継承、連続
+- [transmission](/word/transmission)：伝送、送信
+- [succession](/word/succession)：継承、連続
 
 ---
 
 ## 📖 できればこれも
 
-- [circuit](/circuit)：回路
-- [switch](/switch)：スイッチ
+- [circuit](/word/circuit)：回路
+- [switch](/word/switch)：スイッチ
 
 <!-- cvid: aid23_bid43 -->

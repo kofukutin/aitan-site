@@ -97,7 +97,7 @@ TOEICでは会社組織や会議に関する長文でよく登場します。役
 ## 🤔  president との違いは？
 
 - **chairman**：会議や取締役会の議長・会長。主に会議の進行や組織の監督役。
-- **[president](/president)**：会社や団体の代表・社長。経営の最高責任者。
+- **[president](/word/president)**：会社や団体の代表・社長。経営の最高責任者。
 
 chairmanは会議や取締役会のトップ、presidentは会社全体のトップという違いがあります。
 
@@ -105,14 +105,14 @@ chairmanは会議や取締役会のトップ、presidentは会社全体のトッ
 
 ## 🧩 あわせて覚えたい
 
-- [director](/director)：取締役、監督
-- [moderator](/moderator)：司会者、調整役
+- [director](/word/director)：取締役、監督
+- [moderator](/word/moderator)：司会者、調整役
 
 ---
 
 ## 📖 できればこれも
 
-- [committee](/committee)：委員会
-- [board](/board)：取締役会、委員会
+- [committee](/word/committee)：委員会
+- [board](/word/board)：取締役会、委員会
 
 <!-- cvid: aid18_bid46 -->

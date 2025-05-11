@@ -97,7 +97,7 @@ TOEICではPart 7の広告文や案内文でよく登場します。短縮形な
 ## 🤔  advertisement との違いは？
 
 - **ad**：カジュアルで短い「広告」の言い方
-- **[advertisement](/advertisement)**：フォーマルで正式な「広告」
+- **[advertisement](/word/advertisement)**：フォーマルで正式な「広告」
 
 "ad" は会話や短い文章で使われ、"advertisement" はビジネス文書やフォーマルな場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICではPart 7の広告文や案内文でよく登場します。短縮形な
 
 ## 🧩 あわせて覚えたい
 
-- [commercial](/commercial)：（テレビ・ラジオの）コマーシャル
-- [promotion](/promotion)：販促、販売促進
+- [commercial](/word/commercial)：（テレビ・ラジオの）コマーシャル
+- [promotion](/word/promotion)：販促、販売促進
 
 ---
 
 ## 📖 できればこれも
 
-- [job](/job)：仕事
-- [sale](/sale)：セール、販売
+- [job](/word/job)：仕事
+- [sale](/word/sale)：セール、販売
 
 <!-- cvid: aid10_bid20 -->

@@ -97,7 +97,7 @@ TOEICでは「品質管理」や「サービスの質」など、ビジネス文
 ## 🤔  characteristic との違いは？
 
 - **quality**：物やサービスの「良し悪し」や「品質」を表す
-- **[characteristic](/characteristic)**：物や人の「特徴」「特性」を表す
+- **[characteristic](/word/characteristic)**：物や人の「特徴」「特性」を表す
 
 qualityは「優れているかどうか」などの評価に使い、characteristicは「そのものらしさ」や「特徴」を説明する時に使います。
 
@@ -105,14 +105,14 @@ qualityは「優れているかどうか」などの評価に使い、characteri
 
 ## 🧩 あわせて覚えたい
 
-- [feature](/feature)：特徴、機能
-- [value](/value)：価値
+- [feature](/word/feature)：特徴、機能
+- [value](/word/value)：価値
 
 ---
 
 ## 📖 できればこれも
 
-- [standard](/standard)：基準、標準
-- [condition](/condition)：状態、条件
+- [standard](/word/standard)：基準、標準
+- [condition](/word/condition)：状態、条件
 
 <!-- cvid: aid26_bid00 -->

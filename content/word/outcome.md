@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や会議記録、報告書などの長文読
 ## 🤔  result との違いは？
 
 - **outcome**：あるプロセスや出来事の「最終的な結末」や「成果」に焦点を当てる
-- **[result](/result)**：原因や行動から生じる「結果」全般を幅広く指す
+- **[result](/word/result)**：原因や行動から生じる「結果」全般を幅広く指す
 
 outcomeは「最終的な結末」に強調があり、resultは途中経過や小さな結果も含めて幅広く使われます。
 
@@ -105,14 +105,14 @@ outcomeは「最終的な結末」に強調があり、resultは途中経過や�
 
 ## 🧩 あわせて覚えたい
 
-- [consequence](/consequence)：（主に悪い）結果、影響
-- [effect](/effect)：効果、影響
+- [consequence](/word/consequence)：（主に悪い）結果、影響
+- [effect](/word/effect)：効果、影響
 
 ---
 
 ## 📖 できればこれも
 
-- [output](/output)：生産量、出力
-- [impact](/impact)：影響、衝撃
+- [output](/word/output)：生産量、出力
+- [impact](/word/impact)：影響、衝撃
 
 <!-- cvid: aid05_bid02 -->

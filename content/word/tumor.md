@@ -96,7 +96,7 @@ The report states that the tumor is benign and not life-threatening.
 ## 🤔  cancer との違いは？
 
 - **tumor**：体内にできる「腫瘍」全般（良性・悪性どちらも含む）
-- **[cancer](/cancer)**：悪性腫瘍、つまり「がん」のみを指す
+- **[cancer](/word/cancer)**：悪性腫瘍、つまり「がん」のみを指す
 
 tumorは必ずしも命に関わるものではありませんが、cancerは悪性で治療が必要な場合を指します。
 
@@ -104,14 +104,14 @@ tumorは必ずしも命に関わるものではありませんが、cancerは悪
 
 ## 🧩 あわせて覚えたい
 
-- [growth](/growth)：成長、腫瘍（医学用語で使われることも）
-- [benign](/benign)：良性の（腫瘍などが悪性でないこと）
+- [growth](/word/growth)：成長、腫瘍（医学用語で使われることも）
+- [benign](/word/benign)：良性の（腫瘍などが悪性でないこと）
 
 ---
 
 ## 📖 できればこれも
 
-- [disease](/disease)：病気
-- [symptom](/symptom)：症状
+- [disease](/word/disease)：病気
+- [symptom](/word/symptom)：症状
 
 <!-- cvid: aid30_bid36 -->

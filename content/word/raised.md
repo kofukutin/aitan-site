@@ -97,7 +97,7 @@ TOEICでは会議やビジネスの場面で「手を挙げる」「資金を集
 ## 🤔  lifted との違いは？
 
 - **raised**：物理的に上げるだけでなく、抽象的に「集める」「提起する」など幅広く使う
-- **[lifted](/lifted)**：主に物理的に「持ち上げる」「上昇させる」意味で使う
+- **[lifted](/word/lifted)**：主に物理的に「持ち上げる」「上昇させる」意味で使う
 
 raisedは「資金を集める」「問題を提起する」など抽象的な使い方も多いですが、liftedは主に物理的な動作に限定されます。
 
@@ -105,14 +105,14 @@ raisedは「資金を集める」「問題を提起する」など抽象的な�
 
 ## 🧩 あわせて覚えたい
 
-- [lower](/lower)：下げる、低くする
-- [increase](/increase)：増やす、増加させる
+- [lower](/word/lower)：下げる、低くする
+- [increase](/word/increase)：増やす、増加させる
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/present)：提示する、発表する
-- [offer](/offer)：提供する、申し出る
+- [present](/word/present)：提示する、発表する
+- [offer](/word/offer)：提供する、申し出る
 
 <!-- cvid: aid37_bid24 -->

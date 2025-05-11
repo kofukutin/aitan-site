@@ -97,7 +97,7 @@ seenは、完了形や受動態の文法問題で頻出します。seeの過去�
 ## 🤔  watched との違いは？
 
 - **seen**：ただ「見た」「目にした」という意味で、意識的に見るかどうかは問わない。
-- **[watched](/watched)**：意識して「じっと見る」「観察する」という意味。
+- **[watched](/word/watched)**：意識して「じっと見る」「観察する」という意味。
 
 seenは単に目に入った場合にも使えますが、watchedは注意深く見続けるニュアンスがあります。
 
@@ -105,14 +105,14 @@ seenは単に目に入った場合にも使えますが、watchedは注意深く
 
 ## 🧩 あわせて覚えたい
 
-- [look](/look)：見る（意識して視線を向ける）
-- [notice](/notice)：気づく、注意する
+- [look](/word/look)：見る（意識して視線を向ける）
+- [notice](/word/notice)：気づく、注意する
 
 ---
 
 ## 📖 できればこれも
 
-- [heard](/heard)：hearの過去分詞形、聞こえた
-- [shown](/shown)：showの過去分詞形、見せられた
+- [heard](/word/heard)：hearの過去分詞形、聞こえた
+- [shown](/word/shown)：showの過去分詞形、見せられた
 
 <!-- cvid: aid01_bid18 -->

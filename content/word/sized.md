@@ -97,7 +97,7 @@ TOEICでは、形容詞として他の語と組み合わせて「～サイズの
 ## 🤔  large との違いは？
 
 - **sized**：他の語と組み合わせて「～サイズの」と表現する形容詞
-- **[large](/large)**：単独で「大きい」という意味の形容詞
+- **[large](/word/large)**：単独で「大きい」という意味の形容詞
 
 **sized**は「medium-sized」や「custom-sized」のように他の語とセットで使い、「～の大きさの」と表現します。一方、**large**は単独で「大きい」と言いたいときに使います。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞として他の語と組み合わせて「～サイズの
 
 ## 🧩 あわせて覚えたい
 
-- [small](/small)：小さい
-- [medium](/medium)：中くらいの
+- [small](/word/small)：小さい
+- [medium](/word/medium)：中くらいの
 
 ---
 
 ## 📖 できればこれも
 
-- [length](/length)：長さ
-- [weight](/weight)：重さ
+- [length](/word/length)：長さ
+- [weight](/word/weight)：重さ
 
 <!-- cvid: aid38_bid06 -->

@@ -97,7 +97,7 @@ TOEICでは、形容詞の語彙問題や、文脈から「普通でない」「
 ## 🤔  unusual との違いは？
 
 - **strange**：普通と違っていて、少し不思議・奇妙な印象を与える
-- **[unusual](/unusual)**：めったにない、珍しい（必ずしも奇妙とは限らない）
+- **[unusual](/word/unusual)**：めったにない、珍しい（必ずしも奇妙とは限らない）
 
 「strange」は「変だな」と感じる主観的なニュアンスが強く、「unusual」は単に「珍しい」「普通でない」という客観的な意味合いが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞の語彙問題や、文脈から「普通でない」「
 
 ## 🧩 あわせて覚えたい
 
-- [odd](/odd)：変な、奇妙な
-- [familiar](/familiar)：よく知っている、なじみのある
+- [odd](/word/odd)：変な、奇妙な
+- [familiar](/word/familiar)：よく知っている、なじみのある
 
 ---
 
 ## 📖 できればこれも
 
-- [normal](/normal)：普通の
-- [peculiar](/peculiar)：独特な、特有の
+- [normal](/word/normal)：普通の
+- [peculiar](/word/peculiar)：独特な、特有の
 
 <!-- cvid: aid00_bid09 -->

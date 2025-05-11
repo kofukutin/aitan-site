@@ -98,7 +98,7 @@ TOEICでは契約やビジネス上のトラブル、意見の対立を扱う長
 ## 🤔  argue との違いは？
 
 - **dispute**：主にフォーマルな場で、事実や意見に対して異議を唱える・論争する
-- **[argue](/argue)**：日常的な口論から論理的な議論まで幅広く使われる
+- **[argue](/word/argue)**：日常的な口論から論理的な議論まで幅広く使われる
 
 disputeはビジネスや法的な対立など、より公式な場面で使われる傾向があり、argueは日常的な口論や議論にも使えます。
 
@@ -106,14 +106,14 @@ disputeはビジネスや法的な対立など、より公式な場面で使わ�
 
 ## 🧩 あわせて覚えたい
 
-- [debate](/debate)：討論する、討論
-- [conflict](/conflict)：対立、衝突
+- [debate](/word/debate)：討論する、討論
+- [conflict](/word/conflict)：対立、衝突
 
 ---
 
 ## 📖 できればこれも
 
-- [negotiate](/negotiate)：交渉する
-- [object](/object)：反対する、異議を唱える
+- [negotiate](/word/negotiate)：交渉する
+- [object](/word/object)：反対する、異議を唱える
 
 <!-- cvid: aid20_bid34 -->

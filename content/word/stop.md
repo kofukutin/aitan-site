@@ -97,7 +97,7 @@ stopはTOEICの会話パートで「作業を止める」「中断する」な�
 ## 🤔  quit との違いは？
 
 - **stop**：一時的・部分的に「止める」「やめる」ことが多い
-- **[quit](/quit)**：完全に「やめる」「辞める」ニュアンスが強い
+- **[quit](/word/quit)**：完全に「やめる」「辞める」ニュアンスが強い
 
 stopは「一時的に止める」や「中断する」場合にも使えますが、quitは「完全にやめる」「辞職する」など、より決定的な意味で使われます。
 
@@ -105,14 +105,14 @@ stopは「一時的に止める」や「中断する」場合にも使えます�
 
 ## 🧩 あわせて覚えたい
 
-- [continue](/continue)：続ける
-- [pause](/pause)：一時停止する
+- [continue](/word/continue)：続ける
+- [pause](/word/pause)：一時停止する
 
 ---
 
 ## 📖 できればこれも
 
-- [start](/start)：始める
-- [finish](/finish)：終える
+- [start](/word/start)：始める
+- [finish](/word/finish)：終える
 
 <!-- cvid: aid41_bid44 -->

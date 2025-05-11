@@ -97,7 +97,7 @@ TOEICでは、メールや案内文などの長文で、休暇やイベントの
 ## 🤔  holiday との違いは？
 
 - **Christmas**：12月25日の特定の祝日（クリスマス）を指す
-- **[holiday](/holiday)**：祝日や休暇全般を指す一般的な言葉
+- **[holiday](/word/holiday)**：祝日や休暇全般を指す一般的な言葉
 
 Christmasは特定の日を指し、holidayは広く休暇や祝日全体を指します。
 
@@ -106,13 +106,13 @@ Christmasは特定の日を指し、holidayは広く休暇や祝日全体を指�
 ## 🧩 あわせて覚えたい
 
 - [Easter](/Easter)：イースター（キリスト教の復活祭）
-- [festival](/festival)：祭り、祝祭
+- [festival](/word/festival)：祭り、祝祭
 
 ---
 
 ## 📖 できればこれも
 
-- [birthday](/birthday)：誕生日
-- [gift](/gift)：贈り物
+- [birthday](/word/birthday)：誕生日
+- [gift](/word/gift)：贈り物
 
 <!-- cvid: aid29_bid11 -->

@@ -97,7 +97,7 @@ TOEICでは、会話やメール文中で「お祝いの言葉」として登場
 ## 🤔  celebration との違いは？
 
 - **congratulation**：誰かの成功や幸運を祝う「おめでとう」の言葉や気持ち
-- **[celebration](/celebration)**：祝うための「行事」や「パーティー」など具体的なイベント
+- **[celebration](/word/celebration)**：祝うための「行事」や「パーティー」など具体的なイベント
 
 congratulationは「言葉」や「気持ち」を表し、celebrationは「イベント」や「行動」を指します。
 
@@ -105,14 +105,14 @@ congratulationは「言葉」や「気持ち」を表し、celebrationは「イ�
 
 ## 🧩 あわせて覚えたい
 
-- [compliment](/compliment)：賛辞、ほめ言葉
-- [praise](/praise)：称賛、ほめること
+- [compliment](/word/compliment)：賛辞、ほめ言葉
+- [praise](/word/praise)：称賛、ほめること
 
 ---
 
 ## 📖 できればこれも
 
-- [achievement](/achievement)：達成、業績
-- [appreciation](/appreciation)：感謝、評価
+- [achievement](/word/achievement)：達成、業績
+- [appreciation](/word/appreciation)：感謝、評価
 
 <!-- cvid: aid02_bid02 -->

@@ -97,7 +97,7 @@ TOEICのPart 7（長文読解）で、過去に言及された内容を指す表
 ## 🤔  refer との違いは？
 
 - **mentioned**：軽く言及する、名前を挙げる
-- **[refer](/refer)**：より詳細に「参照する」「言及する」
+- **[refer](/word/refer)**：より詳細に「参照する」「言及する」
 
 「mentioned」は単に名前を出す・触れる程度ですが、「refer」は情報源や詳細な説明に言及する際に使います。
 
@@ -105,14 +105,14 @@ TOEICのPart 7（長文読解）で、過去に言及された内容を指す表
 
 ## 🧩 あわせて覚えたい
 
-- [state](/state)：述べる、明言する
-- [indicate](/indicate)：示す、指し示す
+- [state](/word/state)：述べる、明言する
+- [indicate](/word/indicate)：示す、指し示す
 
 ---
 
 ## 📖 できればこれも
 
-- [describe](/describe)：説明する、描写する
-- [explain](/explain)：説明する、解説する
+- [describe](/word/describe)：説明する、描写する
+- [explain](/word/explain)：説明する、解説する
 
 <!-- cvid: aid26_bid37 -->

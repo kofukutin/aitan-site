@@ -105,14 +105,14 @@ TOEICではホテルやオフィスの「受付」や、イベントの「歓迎
 
 ## 🧩 あわせて覚えたい
 
-- [greeting](/greeting)：あいさつ
-- [banquet](/banquet)：宴会、祝宴
+- [greeting](/word/greeting)：あいさつ
+- [banquet](/word/banquet)：宴会、祝宴
 
 ---
 
 ## 📖 できればこれも
 
-- [reservation](/reservation)：予約
-- [lobby](/lobby)：ロビー
+- [reservation](/word/reservation)：予約
+- [lobby](/word/lobby)：ロビー
 
 <!-- cvid: aid44_bid44 -->

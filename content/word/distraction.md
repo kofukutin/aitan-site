@@ -97,7 +97,7 @@ distractionは会議や職場のシーンで「集中を妨げるもの」とし
 ## 🤔  interruption との違いは？
 
 - **distraction**：注意や集中をそらすもの・出来事
-- **[interruption](/interruption)**：進行中の行動や会話を一時的に中断させるもの
+- **[interruption](/word/interruption)**：進行中の行動や会話を一時的に中断させるもの
 
 distractionは「気が散る」こと全般を指し、interruptionは「中断」や「割り込み」といった一時的な停止を強調します。
 
@@ -105,14 +105,14 @@ distractionは「気が散る」こと全般を指し、interruptionは「中断
 
 ## 🧩 あわせて覚えたい
 
-- [focus](/focus)：集中、焦点
-- [disturbance](/disturbance)：妨害、騒ぎ
+- [focus](/word/focus)：集中、焦点
+- [disturbance](/word/disturbance)：妨害、騒ぎ
 
 ---
 
 ## 📖 できればこれも
 
-- [attention](/attention)：注意、注目
-- [concentration](/concentration)：集中力
+- [attention](/word/attention)：注意、注目
+- [concentration](/word/concentration)：集中力
 
 <!-- cvid: aid35_bid18 -->

@@ -93,7 +93,7 @@ TOEICでは文法問題で逆接の接続詞として頻出します。特に「
 ## 🤔  though との違いは？
 
 - **although**：ややフォーマルで、文頭や文中で使われる逆接の接続詞
-- **[though](/though)**：カジュアルで、文末にも使えることが多い
+- **[though](/word/though)**：カジュアルで、文末にも使えることが多い
 
 althoughは書き言葉やフォーマルな場面でよく使われ、thoughは会話やカジュアルな文で使われやすいです。
 
@@ -101,14 +101,14 @@ althoughは書き言葉やフォーマルな場面でよく使われ、thoughは
 
 ## 🧩 あわせて覚えたい
 
-- [however](/however)：しかしながら（副詞、文頭や文中で使う）
-- [nevertheless](/nevertheless)：それにもかかわらず（よりフォーマルな逆接）
+- [however](/word/however)：しかしながら（副詞、文頭や文中で使う）
+- [nevertheless](/word/nevertheless)：それにもかかわらず（よりフォーマルな逆接）
 
 ---
 
 ## 📖 できればこれも
 
-- [unless](/unless)：～でない限り（条件を表す接続詞）
-- [despite](/despite)：～にもかかわらず（前置詞）
+- [unless](/word/unless)：～でない限り（条件を表す接続詞）
+- [despite](/word/despite)：～にもかかわらず（前置詞）
 
 <!-- cvid: aid32_bid11 -->

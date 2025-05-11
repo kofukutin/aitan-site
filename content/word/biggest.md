@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「最も大きい」「最大の」という意
 ## 🤔  largest との違いは？
 
 - **biggest**：物理的な大きさや影響の大きさなど、カジュアルな場面で「最も大きい」と言うときによく使う。
-- **[largest](/largest)**：よりフォーマルで、面積・容量・規模など客観的な大きさを表すときに使う。
+- **[largest](/word/largest)**：よりフォーマルで、面積・容量・規模など客観的な大きさを表すときに使う。
 
 「biggest」は日常会話や感覚的な「大きさ」に、「largest」は公式な文書や統計など客観的な「最大」に使い分けます。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「最も大きい」「最大の」という意
 
 ## 🧩 あわせて覚えたい
 
-- [smallest](/smallest)：最も小さい
-- [major](/major)：主要な、重要な
+- [smallest](/word/smallest)：最も小さい
+- [major](/word/major)：主要な、重要な
 
 ---
 
 ## 📖 できればこれも
 
-- [smaller](/smaller)：より小さい
-- [greatest](/greatest)：最も偉大な、最大の
+- [smaller](/word/smaller)：より小さい
+- [greatest](/word/greatest)：最も偉大な、最大の
 
 <!-- cvid: aid26_bid23 -->

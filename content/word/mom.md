@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写や、家族に関する会話で登場し
 ## 🤔  mother との違いは？
 
 - **mom**：カジュアルで親しみやすい「お母さん」
-- **[mother](/mother)**：フォーマルまたは書き言葉で使う「母」
+- **[mother](/word/mother)**：フォーマルまたは書き言葉で使う「母」
 
 「mom」は日常会話や親しい間柄で使い、「mother」は改まった場面や書類、フォーマルな会話で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写や、家族に関する会話で登場し
 
 ## 🧩 あわせて覚えたい
 
-- [dad](/dad)：お父さん（カジュアル）
-- [parent](/parent)：親
+- [dad](/word/dad)：お父さん（カジュアル）
+- [parent](/word/parent)：親
 
 ---
 
 ## 📖 できればこれも
 
-- [child](/child)：子ども
-- [family](/family)：家族
+- [child](/word/child)：子ども
+- [family](/word/family)：家族
 
 <!-- cvid: aid36_bid09 -->

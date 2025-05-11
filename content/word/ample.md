@@ -97,7 +97,7 @@ TOEICでは「十分な」「豊富な」という意味で、空間・時間・
 ## 🤔  sufficient との違いは？
 
 - **ample**：必要以上に十分で、余裕や豊かさを感じさせる
-- **[sufficient](/sufficient)**：必要条件を満たす「十分な」、最低限のニュアンス
+- **[sufficient](/word/sufficient)**：必要条件を満たす「十分な」、最低限のニュアンス
 
 「ample」は「たっぷり」「余裕がある」印象で、「sufficient」は「必要なだけ」という控えめな印象です。
 
@@ -105,14 +105,14 @@ TOEICでは「十分な」「豊富な」という意味で、空間・時間・
 
 ## 🧩 あわせて覚えたい
 
-- [abundant](/abundant)：非常に豊富な、あり余るほどの
-- [scarce](/scarce)：乏しい、不足している
+- [abundant](/word/abundant)：非常に豊富な、あり余るほどの
+- [scarce](/word/scarce)：乏しい、不足している
 
 ---
 
 ## 📖 できればこれも
 
-- [adequate](/adequate)：適切な、十分な
-- [considerable](/considerable)：かなりの、相当な
+- [adequate](/word/adequate)：適切な、十分な
+- [considerable](/word/considerable)：かなりの、相当な
 
 <!-- cvid: aid38_bid24 -->

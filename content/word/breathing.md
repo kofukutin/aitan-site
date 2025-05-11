@@ -97,7 +97,7 @@ The patient's breathing became irregular during the night.
 ## 🤔  respiration との違いは？
 
 - **breathing**：日常的な「呼吸」、息を吸ったり吐いたりする行為全般
-- **[respiration](/respiration)**：生物学や医学で使われる「呼吸」、より専門的・フォーマル
+- **[respiration](/word/respiration)**：生物学や医学で使われる「呼吸」、より専門的・フォーマル
 
 breathingは日常会話や一般的な説明で使われ、respirationは医学や科学の文脈で使われることが多いです。
 
@@ -105,14 +105,14 @@ breathingは日常会話や一般的な説明で使われ、respirationは医学
 
 ## 🧩 あわせて覚えたい
 
-- [inhalation](/inhalation)：吸入、息を吸うこと
-- [exhalation](/exhalation)：呼気、息を吐くこと
+- [inhalation](/word/inhalation)：吸入、息を吸うこと
+- [exhalation](/word/exhalation)：呼気、息を吐くこと
 
 ---
 
 ## 📖 できればこれも
 
-- [heartbeat](/heartbeat)：心拍、鼓動
-- [pulse](/pulse)：脈拍
+- [heartbeat](/word/heartbeat)：心拍、鼓動
+- [pulse](/word/pulse)：脈拍
 
 <!-- cvid: aid37_bid12 -->

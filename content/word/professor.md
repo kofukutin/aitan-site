@@ -97,7 +97,7 @@ TOEICでは大学や教育機関をテーマにした長文で登場すること
 ## 🤔  lecturer との違いは？
 
 - **professor**：大学で教える「教授」。研究や教育の両方を担う正式な職位。
-- **[lecturer](/lecturer)**：大学などで講義を担当する「講師」。教授より職位が下の場合が多い。
+- **[lecturer](/word/lecturer)**：大学などで講義を担当する「講師」。教授より職位が下の場合が多い。
 
 professorは研究と教育の両方を行う正式な職位、lecturerは主に講義を担当する職位で、地位や役割に違いがあります。
 
@@ -105,14 +105,14 @@ professorは研究と教育の両方を行う正式な職位、lecturerは主に
 
 ## 🧩 あわせて覚えたい
 
-- [teacher](/teacher)：学校の先生
-- [researcher](/researcher)：研究者
+- [teacher](/word/teacher)：学校の先生
+- [researcher](/word/researcher)：研究者
 
 ---
 
 ## 📖 できればこれも
 
-- [student](/student)：学生
-- [university](/university)：大学
+- [student](/word/student)：学生
+- [university](/word/university)：大学
 
 <!-- cvid: aid10_bid34 -->

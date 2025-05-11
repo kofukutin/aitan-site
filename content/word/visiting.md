@@ -97,7 +97,7 @@ TOEICでは「visiting professor」や「visiting team」など、肩書きや�
 ## 🤔  visit との違いは？
 
 - **visiting**：一時的に訪問している、または来訪中の状態を表す形容詞
-- **[visit](/visit)**：訪れるという動作や行為そのもの（動詞・名詞）
+- **[visit](/word/visit)**：訪れるという動作や行為そのもの（動詞・名詞）
 
 「visiting」は状態や役割を表す形容詞、「visit」は行為や出来事そのものを指します。
 
@@ -105,14 +105,14 @@ TOEICでは「visiting professor」や「visiting team」など、肩書きや�
 
 ## 🧩 あわせて覚えたい
 
-- [guest](/guest)：客、ゲスト
-- [stay](/stay)：滞在する、滞在
+- [guest](/word/guest)：客、ゲスト
+- [stay](/word/stay)：滞在する、滞在
 
 ---
 
 ## 📖 できればこれも
 
-- [meeting](/meeting)：会議、打ち合わせ
-- [invitation](/invitation)：招待、招待状
+- [meeting](/word/meeting)：会議、打ち合わせ
+- [invitation](/word/invitation)：招待、招待状
 
 <!-- cvid: aid34_bid07 -->

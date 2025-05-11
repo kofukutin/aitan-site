@@ -97,7 +97,7 @@ TOEICでは、教育や説明に関する文脈で「elementary」が選択肢�
 ## 🤔  basic との違いは？
 
 - **elementary**：初歩的で、最も基礎的な段階を強調する
-- **[basic](/basic)**：必要最低限の基本や土台を指す
+- **[basic](/word/basic)**：必要最低限の基本や土台を指す
 
 elementaryは「入門レベル」や「最初の段階」を強調し、basicは「基礎」や「基本的な性質」を幅広く指します。
 
@@ -105,14 +105,14 @@ elementaryは「入門レベル」や「最初の段階」を強調し、basic�
 
 ## 🧩 あわせて覚えたい
 
-- [fundamental](/fundamental)：根本的な、基本的な
-- [advanced](/advanced)：上級の、進んだ
+- [fundamental](/word/fundamental)：根本的な、基本的な
+- [advanced](/word/advanced)：上級の、進んだ
 
 ---
 
 ## 📖 できればこれも
 
-- [primary](/primary)：第一の、主要な
-- [simple](/simple)：簡単な、単純な
+- [primary](/word/primary)：第一の、主要な
+- [simple](/word/simple)：簡単な、単純な
 
 <!-- cvid: aid11_bid42 -->

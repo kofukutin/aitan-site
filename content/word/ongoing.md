@@ -97,7 +97,7 @@ TOEICでは、会議や業務の進捗、現在進行中のプロジェクトな
 ## 🤔  continuous との違いは？
 
 - **ongoing**：今まさに進行中で、まだ終わっていない状態を強調
-- **[continuous](/continuous)**：途切れずに続いていることを強調
+- **[continuous](/word/continuous)**：途切れずに続いていることを強調
 
 「ongoing」は「現在進行中」に焦点があり、「continuous」は「中断なく続く」ことに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは、会議や業務の進捗、現在進行中のプロジェクトな
 
 ## 🧩 あわせて覚えたい
 
-- [current](/current)：現在の、今の
-- [pending](/pending)：未決の、保留中の
+- [current](/word/current)：現在の、今の
+- [pending](/word/pending)：未決の、保留中の
 
 ---
 
 ## 📖 できればこれも
 
-- [upcoming](/upcoming)：今後予定されている
-- [recent](/recent)：最近の
+- [upcoming](/word/upcoming)：今後予定されている
+- [recent](/word/recent)：最近の
 
 <!-- cvid: aid01_bid02 -->

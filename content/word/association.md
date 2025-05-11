@@ -97,7 +97,7 @@ associationは、TOEICの長文読解パートで「協会」や「団体」の�
 ## 🤔  organization との違いは？
 
 - **association**：共通の目的や関心で集まった人々の団体や協会
-- **[organization](/organization)**：組織全般（会社・団体など広い意味）
+- **[organization](/word/organization)**：組織全般（会社・団体など広い意味）
 
 associationは特定の目的や活動のための団体に使われ、organizationは会社や非営利団体など幅広い組織全般に使われます。
 
@@ -105,14 +105,14 @@ associationは特定の目的や活動のための団体に使われ、organizat
 
 ## 🧩 あわせて覚えたい
 
-- [union](/union)：労働組合、連合
-- [committee](/committee)：委員会
+- [union](/word/union)：労働組合、連合
+- [committee](/word/committee)：委員会
 
 ---
 
 ## 📖 できればこれも
 
-- [conference](/conference)：会議、協議会
-- [membership](/membership)：会員資格、会員数
+- [conference](/word/conference)：会議、協議会
+- [membership](/word/membership)：会員資格、会員数
 
 <!-- cvid: aid20_bid04 -->

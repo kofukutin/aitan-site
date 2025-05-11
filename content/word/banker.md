@@ -97,7 +97,7 @@ TOEICでは、金融やビジネス関連の長文や会話文で「banker」が
 ## 🤔  financier との違いは？
 
 - **banker**：銀行で働く人や銀行家を指す、より一般的な職業名。
-- **[financier](/financier)**：大規模な資金を動かす投資家や金融業界の大物を指すことが多い。
+- **[financier](/word/financier)**：大規模な資金を動かす投資家や金融業界の大物を指すことが多い。
 
 「banker」は銀行に直接勤務する人全般を指し、「financier」はより広い金融分野で大きな資金を扱う人に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、金融やビジネス関連の長文や会話文で「banker」が
 
 ## 🧩 あわせて覚えたい
 
-- [teller](/teller)：銀行の窓口係
-- [investor](/investor)：投資家
+- [teller](/word/teller)：銀行の窓口係
+- [investor](/word/investor)：投資家
 
 ---
 
 ## 📖 できればこれも
 
-- [accountant](/accountant)：会計士
-- [branch](/branch)：支店
+- [accountant](/word/accountant)：会計士
+- [branch](/word/branch)：支店
 
 <!-- cvid: aid12_bid45 -->

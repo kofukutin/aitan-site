@@ -97,7 +97,7 @@ TOEICでは「否定」「拒否」などの意味で名詞として出題され
 ## 🤔  refusal との違いは？
 
 - **denial**：事実や要求などを「認めない」「否定する」こと、心理的な否認も含む
-- **[refusal](/refusal)**：依頼や申し出などを「断る」「拒絶する」こと
+- **[refusal](/word/refusal)**：依頼や申し出などを「断る」「拒絶する」こと
 
 denialは「事実そのものを否定する」ニュアンスが強く、refusalは「申し出や依頼を断る」場面で使われます。
 
@@ -105,14 +105,14 @@ denialは「事実そのものを否定する」ニュアンスが強く、refus
 
 ## 🧩 あわせて覚えたい
 
-- [acceptance](/acceptance)：受け入れ、承諾
-- [rejection](/rejection)：拒絶、却下
+- [acceptance](/word/acceptance)：受け入れ、承諾
+- [rejection](/word/rejection)：拒絶、却下
 
 ---
 
 ## 📖 できればこれも
 
-- [approval](/approval)：承認、許可
-- [confirmation](/confirmation)：確認、承認
+- [approval](/word/approval)：承認、許可
+- [confirmation](/word/confirmation)：確認、承認
 
 <!-- cvid: aid42_bid04 -->

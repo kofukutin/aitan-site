@@ -97,7 +97,7 @@ TOEICではITやビジネス文書、パスワード設定などの場面で「d
 ## 🤔  figure との違いは？
 
 - **digit**：0～9の一桁の数字や桁数を指す
-- **[figure](/figure)**：数字全般や数値、図形、人物像など幅広い意味
+- **[figure](/word/figure)**：数字全般や数値、図形、人物像など幅広い意味
 
 digitは「一桁の数字」や「桁数」に限定して使い、figureは「数値」や「図」など幅広い意味で使います。
 
@@ -105,14 +105,14 @@ digitは「一桁の数字」や「桁数」に限定して使い、figureは「
 
 ## 🧩 あわせて覚えたい
 
-- [number](/number)：数、番号
-- [character](/character)：文字、記号
+- [number](/word/number)：数、番号
+- [character](/word/character)：文字、記号
 
 ---
 
 ## 📖 できればこれも
 
-- [code](/code)：コード、暗号
-- [symbol](/symbol)：記号、シンボル
+- [code](/word/code)：コード、暗号
+- [symbol](/word/symbol)：記号、シンボル
 
 <!-- cvid: aid34_bid14 -->

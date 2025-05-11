@@ -97,7 +97,7 @@ TOEICの長文読解や説明文で、意見や分析の根拠として「genera
 ## 🤔  stereotype との違いは？
 
 - **generalization**：個別の事例から全体に当てはめること、必ずしも偏見的ではない
-- **[stereotype](/stereotype)**：固定観念や偏見を含む一般化
+- **[stereotype](/word/stereotype)**：固定観念や偏見を含む一般化
 
 generalizationは中立的な「まとめ」ですが、stereotypeは偏見やネガティブな意味合いが強いです。
 
@@ -105,14 +105,14 @@ generalizationは中立的な「まとめ」ですが、stereotypeは偏見や�
 
 ## 🧩 あわせて覚えたい
 
-- [assumption](/assumption)：仮定、前提
-- [exception](/exception)：例外
+- [assumption](/word/assumption)：仮定、前提
+- [exception](/word/exception)：例外
 
 ---
 
 ## 📖 できればこれも
 
-- [concept](/concept)：概念
-- [summary](/summary)：要約
+- [concept](/word/concept)：概念
+- [summary](/word/summary)：要約
 
 <!-- cvid: aid01_bid08 -->

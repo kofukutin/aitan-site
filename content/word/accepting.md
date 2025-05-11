@@ -97,7 +97,7 @@ acceptingは、職場の多様性やチームワーク、社内文化に関す�
 ## 🤔  tolerant との違いは？
 
 - **accepting**：違いや変化を前向きに受け入れる姿勢を強調
-- **[tolerant](/tolerant)**：違いを「我慢して許容する」ニュアンスが強い
+- **[tolerant](/word/tolerant)**：違いを「我慢して許容する」ニュアンスが強い
 
 acceptingは積極的に受け入れる気持ち、tolerantは「仕方なく許す」ようなニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ acceptingは積極的に受け入れる気持ち、tolerantは「仕方なく許
 
 ## 🧩 あわせて覚えたい
 
-- [open minded](/open_minded)：偏見がなく柔軟な考え方を持つ
-- [receptive](/receptive)：新しい意見や提案を受け入れやすい
+- [open minded](/word/open_minded)：偏見がなく柔軟な考え方を持つ
+- [receptive](/word/receptive)：新しい意見や提案を受け入れやすい
 
 ---
 
 ## 📖 できればこれも
 
-- [flexible](/flexible)：柔軟な、適応力がある
-- [supportive](/supportive)：支援的な、協力的な
+- [flexible](/word/flexible)：柔軟な、適応力がある
+- [supportive](/word/supportive)：支援的な、協力的な
 
 <!-- cvid: aid30_bid20 -->

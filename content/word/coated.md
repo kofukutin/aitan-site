@@ -97,7 +97,7 @@ TOEICでは、製品説明や仕様、食品や部品の状態を説明する場
 ## 🤔  covered との違いは？
 
 - **coated**：薄い層や特定の物質で表面が覆われていることを強調
-- **[covered](/covered)**：何かで全体が覆われている状態を広く表す
+- **[covered](/word/covered)**：何かで全体が覆われている状態を広く表す
 
 「coated」は特に塗料や砂糖など、表面に薄く何かを塗ったり付着させたりする場合に使い、「covered」は布や雪などで全体が覆われている場合にも使います。
 
@@ -105,14 +105,14 @@ TOEICでは、製品説明や仕様、食品や部品の状態を説明する場
 
 ## 🧩 あわせて覚えたい
 
-- [layered](/layered)：層になった、重ねられた
-- [painted](/painted)：塗装された、ペンキが塗られた
+- [layered](/word/layered)：層になった、重ねられた
+- [painted](/word/painted)：塗装された、ペンキが塗られた
 
 ---
 
 ## 📖 できればこれも
 
-- [sealed](/sealed)：密封された
-- [wrapped](/wrapped)：包まれた
+- [sealed](/word/sealed)：密封された
+- [wrapped](/word/wrapped)：包まれた
 
 <!-- cvid: aid12_bid05 -->

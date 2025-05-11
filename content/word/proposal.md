@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やメール、会議資料などで「提案
 ## 🤔  suggestion との違いは？
 
 - **proposal**：正式な提案や企画書など、文書化されたフォーマルな提案
-- **[suggestion](/suggestion)**：気軽なアドバイスや意見、非公式な提案
+- **[suggestion](/word/suggestion)**：気軽なアドバイスや意見、非公式な提案
 
 proposalはビジネスや会議などで使う「正式な提案」、suggestionは日常会話や軽い場面での「ちょっとした提案」に使い分けます。
 
@@ -105,14 +105,14 @@ proposalはビジネスや会議などで使う「正式な提案」、suggestio
 
 ## 🧩 あわせて覚えたい
 
-- [offer](/offer)：申し出、オファー
-- [plan](/plan)：計画、案
+- [offer](/word/offer)：申し出、オファー
+- [plan](/word/plan)：計画、案
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/agreement)：合意、契約
-- [presentation](/presentation)：発表、プレゼン
+- [agreement](/word/agreement)：合意、契約
+- [presentation](/word/presentation)：発表、プレゼン
 
 <!-- cvid: aid36_bid12 -->

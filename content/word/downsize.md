@@ -96,7 +96,7 @@ TOEICでは、企業の経営方針や人事に関する記事やメールでよ
 ## 🤔  reduce との違いは？
 
 - **downsize**：主に会社や組織の規模・人員を減らすことを指す
-- **[reduce](/reduce)**：数量や程度などを一般的に減らす
+- **[reduce](/word/reduce)**：数量や程度などを一般的に減らす
 
 downsizeはビジネスでの「規模縮小」「リストラ」に特化した表現で、reduceはより幅広く「減らす」全般に使います。
 
@@ -104,14 +104,14 @@ downsizeはビジネスでの「規模縮小」「リストラ」に特化した
 
 ## 🧩 あわせて覚えたい
 
-- [layoff](/layoff)：一時解雇、リストラ
-- [streamline](/streamline)：効率化する、合理化する
+- [layoff](/word/layoff)：一時解雇、リストラ
+- [streamline](/word/streamline)：効率化する、合理化する
 
 ---
 
 ## 📖 できればこれも
 
-- [expand](/expand)：拡大する、広げる
-- [merge](/merge)：合併する、統合する
+- [expand](/word/expand)：拡大する、広げる
+- [merge](/word/merge)：合併する、統合する
 
 <!-- cvid: aid21_bid08 -->

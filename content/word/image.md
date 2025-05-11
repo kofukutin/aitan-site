@@ -97,7 +97,7 @@ TOEICでは主にITやビジネス文書、広告などで「画像」「イメ�
 ## 🤔  picture との違いは？
 
 - **image**：心に浮かぶイメージや印象、デジタル画像など幅広い意味で使う
-- **[picture](/picture)**：紙や画面に描かれた「絵」や「写真」など具体的なもの
+- **[picture](/word/picture)**：紙や画面に描かれた「絵」や「写真」など具体的なもの
 
 imageは抽象的な「印象」やデジタル画像にも使えますが、pictureは「写真」や「絵」など実際に目で見える具体的なものに使います。
 
@@ -105,14 +105,14 @@ imageは抽象的な「印象」やデジタル画像にも使えますが、pic
 
 ## 🧩 あわせて覚えたい
 
-- [photo](/photo)：写真
-- [impression](/impression)：印象
+- [photo](/word/photo)：写真
+- [impression](/word/impression)：印象
 
 ---
 
 ## 📖 できればこれも
 
-- [figure](/figure)：図、数字
-- [icon](/icon)：アイコン、象徴
+- [figure](/word/figure)：図、数字
+- [icon](/word/icon)：アイコン、象徴
 
 <!-- cvid: aid36_bid05 -->

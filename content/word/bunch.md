@@ -96,7 +96,7 @@ bunchは会話文や説明文で「まとまり」「束」として登場する
 ## 🤔  group との違いは？
 
 - **bunch**：同じ種類のものが集まった「束」「房」「まとまり」をカジュアルに表現
-- **[group](/group)**：人や物の「集団」「グループ」をややフォーマルに表現
+- **[group](/word/group)**：人や物の「集団」「グループ」をややフォーマルに表現
 
 bunchは日常的でくだけた印象、groupはより広くフォーマルな場面でも使えます。
 
@@ -104,14 +104,14 @@ bunchは日常的でくだけた印象、groupはより広くフォーマルな�
 
 ## 🧩 あわせて覚えたい
 
-- [bundle](/bundle)：束、包み
-- [collection](/collection)：収集、コレクション
+- [bundle](/word/bundle)：束、包み
+- [collection](/word/collection)：収集、コレクション
 
 ---
 
 ## 📖 できればこれも
 
-- [pile](/pile)：積み重ね、山
-- [set](/set)：セット、一式
+- [pile](/word/pile)：積み重ね、山
+- [set](/word/set)：セット、一式
 
 <!-- cvid: aid27_bid03 -->

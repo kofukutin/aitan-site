@@ -97,7 +97,7 @@ TOEICでは科学や技術、ビジネスの説明文で「compound」が登場�
 ## 🤔  mixture との違いは？
 
 - **compound**：異なる要素が化学的に結びついてできたもの（化合物など）
-- **[mixture](/mixture)**：異なるものが物理的に混ざっただけのもの（混合物）
+- **[mixture](/word/mixture)**：異なるものが物理的に混ざっただけのもの（混合物）
 
 compoundは成分同士が化学反応で結合しているのに対し、mixtureは単に混ざっているだけで、成分は元のままです。
 
@@ -105,14 +105,14 @@ compoundは成分同士が化学反応で結合しているのに対し、mixtur
 
 ## 🧩 あわせて覚えたい
 
-- [element](/element)：元素、要素
-- [solution](/solution)：溶液、解決策
+- [element](/word/element)：元素、要素
+- [solution](/word/solution)：溶液、解決策
 
 ---
 
 ## 📖 できればこれも
 
-- [formula](/formula)：式、公式
-- [substance](/substance)：物質、実体
+- [formula](/word/formula)：式、公式
+- [substance](/word/substance)：物質、実体
 
 <!-- cvid: aid20_bid41 -->

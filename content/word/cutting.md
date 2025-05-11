@@ -97,7 +97,7 @@ cuttingは、会話や説明文で「削減」「切断」などの意味で出�
 ## 🤔  trimming との違いは？
 
 - **cutting**：切ること全般や切り取ったもの、削減など幅広く使う
-- **[trimming](/trimming)**：余分な部分をきれいに整えるために少しだけ切ること
+- **[trimming](/word/trimming)**：余分な部分をきれいに整えるために少しだけ切ること
 
 cuttingは「切る」行為全般や「削減」にも使われますが、trimmingは「形を整えるために少しだけ切る」ニュアンスです。
 
@@ -105,14 +105,14 @@ cuttingは「切る」行為全般や「削減」にも使われますが、trim
 
 ## 🧩 あわせて覚えたい
 
-- [reduction](/reduction)：削減、減少
-- [slice](/slice)：薄切り、スライス
+- [reduction](/word/reduction)：削減、減少
+- [slice](/word/slice)：薄切り、スライス
 
 ---
 
 ## 📖 できればこれも
 
-- [edit](/edit)：編集する
-- [shaping](/shaping)：形作ること
+- [edit](/word/edit)：編集する
+- [shaping](/word/shaping)：形作ること
 
 <!-- cvid: aid01_bid17 -->

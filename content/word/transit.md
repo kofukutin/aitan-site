@@ -97,7 +97,7 @@ TOEICでは主にPart 7のメールや案内文、輸送・物流に関する長
 ## 🤔  transfer との違いは？
 
 - **transit**：物や人が場所を「通過」または「輸送」されること全般を指す
-- **[transfer](/transfer)**：物や人を「移す」「乗り換える」など、移動先への「移動・転送」自体を強調
+- **[transfer](/word/transfer)**：物や人を「移す」「乗り換える」など、移動先への「移動・転送」自体を強調
 
 transitは「通過」や「輸送」の過程全体を指し、transferは「移す」「乗り換える」など移動の行為自体に焦点があります。
 
@@ -105,14 +105,14 @@ transitは「通過」や「輸送」の過程全体を指し、transferは「�
 
 ## 🧩 あわせて覚えたい
 
-- [shipment](/shipment)：発送、出荷
-- [commute](/commute)：通勤する
+- [shipment](/word/shipment)：発送、出荷
+- [commute](/word/commute)：通勤する
 
 ---
 
 ## 📖 できればこれも
 
-- [route](/route)：経路、道筋
-- [cargo](/cargo)：貨物
+- [route](/word/route)：経路、道筋
+- [cargo](/word/cargo)：貨物
 
 <!-- cvid: aid22_bid26 -->

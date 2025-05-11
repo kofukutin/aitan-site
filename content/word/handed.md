@@ -99,7 +99,7 @@ handedはTOEICの会話パートで「書類を手渡す」「資料を渡す」
 ## 🤔  gave との違いは？
 
 - **handed**：手で直接渡すことを強調
-- **[gave](/gave)**：与える全般（手渡し以外も含む）
+- **[gave](/word/gave)**：与える全般（手渡し以外も含む）
 
 handedは「手で渡す」動作にフォーカスし、gaveは「与える」全般に使われます。
 
@@ -107,14 +107,14 @@ handedは「手で渡す」動作にフォーカスし、gaveは「与える」�
 
 ## 🧩 あわせて覚えたい
 
-- [deliver](/deliver)：配達する、届ける
-- [receive](/receive)：受け取る
+- [deliver](/word/deliver)：配達する、届ける
+- [receive](/word/receive)：受け取る
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/present)：贈る、提示する
-- [offer](/offer)：申し出る、提供する
+- [present](/word/present)：贈る、提示する
+- [offer](/word/offer)：申し出る、提供する
 
 <!-- cvid: aid31_bid07 -->

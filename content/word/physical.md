@@ -97,7 +97,7 @@ TOEICでは「physical examination（健康診断）」や「physical address（
 ## 🤔  material との違いは？
 
 - **physical**：目に見える実体がある、身体や物理的なものを指す
-- **[material](/material)**：物質そのもの、材料や素材を指す
+- **[material](/word/material)**：物質そのもの、材料や素材を指す
 
 「physical」は「実体があるかどうか」「身体や物理的な性質」に焦点があり、「material」は「何でできているか」「素材」に注目します。
 
@@ -105,14 +105,14 @@ TOEICでは「physical examination（健康診断）」や「physical address（
 
 ## 🧩 あわせて覚えたい
 
-- [mental](/mental)：精神的な、心の
-- [tangible](/tangible)：触れられる、明確な
+- [mental](/word/mental)：精神的な、心の
+- [tangible](/word/tangible)：触れられる、明確な
 
 ---
 
 ## 📖 できればこれも
 
-- [chemical](/chemical)：化学的な、化学物質
-- [practical](/practical)：実用的な、実際的な
+- [chemical](/word/chemical)：化学的な、化学物質
+- [practical](/word/practical)：実用的な、実際的な
 
 <!-- cvid: aid48_bid31 -->

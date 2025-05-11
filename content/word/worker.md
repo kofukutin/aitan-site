@@ -97,7 +97,7 @@ TOEICでは、工場やオフィスの場面で「worker」が従業員や作業
 ## 🤔  employee との違いは？
 
 - **worker**：現場作業員や肉体労働者を含む「働く人」全般を指す、やや広い表現。
-- **[employee](/employee)**：会社や組織に雇われている「従業員」を指し、雇用関係が明確。
+- **[employee](/word/employee)**：会社や組織に雇われている「従業員」を指し、雇用関係が明確。
 
 workerは「働く人」全体を指し、employeeは雇用契約のある従業員に限定されます。
 
@@ -105,14 +105,14 @@ workerは「働く人」全体を指し、employeeは雇用契約のある従業
 
 ## 🧩 あわせて覚えたい
 
-- [staff](/staff)：スタッフ、職員
-- [laborer](/laborer)：肉体労働者
+- [staff](/word/staff)：スタッフ、職員
+- [laborer](/word/laborer)：肉体労働者
 
 ---
 
 ## 📖 できればこれも
 
-- [manager](/manager)：管理職、マネージャー
-- [colleague](/colleague)：同僚
+- [manager](/word/manager)：管理職、マネージャー
+- [colleague](/word/colleague)：同僚
 
 <!-- cvid: aid21_bid25 -->

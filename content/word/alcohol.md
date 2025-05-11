@@ -97,7 +97,7 @@ TOEICでは健康や職場規則、飲食に関する長文や案内文で見か
 ## 🤔  liquor との違いは？
 
 - **alcohol**：アルコール成分全般や酒類全体を指す幅広い表現
-- **[liquor](/liquor)**：蒸留酒（ウイスキーやウォッカなど）を指すことが多い
+- **[liquor](/word/liquor)**：蒸留酒（ウイスキーやウォッカなど）を指すことが多い
 
 alcoholはビールやワインなども含む総称ですが、liquorは特に強い蒸留酒を指します。
 
@@ -105,14 +105,14 @@ alcoholはビールやワインなども含む総称ですが、liquorは特に�
 
 ## 🧩 あわせて覚えたい
 
-- [beer](/beer)：ビール
-- [wine](/wine)：ワイン
+- [beer](/word/beer)：ビール
+- [wine](/word/wine)：ワイン
 
 ---
 
 ## 📖 できればこれも
 
-- [caffeine](/caffeine)：カフェイン
-- [medicine](/medicine)：薬
+- [caffeine](/word/caffeine)：カフェイン
+- [medicine](/word/medicine)：薬
 
 <!-- cvid: aid09_bid36 -->

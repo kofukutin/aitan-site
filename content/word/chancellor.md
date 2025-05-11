@@ -96,7 +96,7 @@ The university chancellor will attend the international conference next week.
 ## 🤔  president との違いは？
 
 - **chancellor**：大学や政府の「総長」「首相」など、よりフォーマルで伝統的な役職名
-- **[president](/president)**：大学や企業の「学長」「社長」など、より一般的なトップの役職名
+- **[president](/word/president)**：大学や企業の「学長」「社長」など、より一般的なトップの役職名
 
 chancellorは伝統的な大学や一部の国の政府で使われ、presidentはより幅広い組織のトップに使われます。
 
@@ -104,14 +104,14 @@ chancellorは伝統的な大学や一部の国の政府で使われ、president�
 
 ## 🧩 あわせて覚えたい
 
-- [rector](/rector)：（大学の）学長、総長
-- [dean](/dean)：（大学の）学部長
+- [rector](/word/rector)：（大学の）学長、総長
+- [dean](/word/dean)：（大学の）学部長
 
 ---
 
 ## 📖 できればこれも
 
-- [minister](/minister)：大臣
-- [director](/director)：取締役、部長
+- [minister](/word/minister)：大臣
+- [director](/word/director)：取締役、部長
 
 <!-- cvid: aid46_bid03 -->

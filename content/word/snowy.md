@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で、天候や景色を説明する際に
 ## 🤔  frosty との違いは？
 
 - **snowy**：雪が降っている、または雪で覆われている状態を表す。
-- **[frosty](/frosty)**：霜が降りている、またはとても冷たい状態を表す。
+- **[frosty](/word/frosty)**：霜が降りている、またはとても冷たい状態を表す。
 
 「snowy」は雪そのものや雪景色を指し、「frosty」は霜や冷たさを強調します。
 
@@ -106,14 +106,14 @@ TOEICでは主にPart 1の写真描写で、天候や景色を説明する際に
 
 ## 🧩 あわせて覚えたい
 
-- [icy](/icy)：氷で覆われた、凍った
-- [chilly](/chilly)：ひんやりした、肌寒い
+- [icy](/word/icy)：氷で覆われた、凍った
+- [chilly](/word/chilly)：ひんやりした、肌寒い
 
 ---
 
 ## 📖 できればこれも
 
-- [rainy](/rainy)：雨の降る
-- [cloudy](/cloudy)：曇った
+- [rainy](/word/rainy)：雨の降る
+- [cloudy](/word/cloudy)：曇った
 
 <!-- cvid: aid32_bid45 -->

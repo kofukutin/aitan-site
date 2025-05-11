@@ -105,14 +105,14 @@ personallyは「気持ち・意見」や「自分でやること」を強調し�
 
 ## 🧩 あわせて覚えたい
 
-- [directly](/directly)：直接に
-- [officially](/officially)：公式に
+- [directly](/word/directly)：直接に
+- [officially](/word/officially)：公式に
 
 ---
 
 ## 📖 できればこれも
 
-- [actually](/actually)：実は、実際に
-- [honestly](/honestly)：正直に
+- [actually](/word/actually)：実は、実際に
+- [honestly](/word/honestly)：正直に
 
 <!-- cvid: aid41_bid22 -->

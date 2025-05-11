@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や公式な通知、会議記録などで「正
 ## 🤔  officially との違いは？
 
 - **formally**：形式や礼儀、決まった手順に従って「正式に」「形式的に」
-- **[officially](/officially)**：公式な立場や権限を持って「公式に」「公的に」
+- **[officially](/word/officially)**：公式な立場や権限を持って「公式に」「公的に」
 
 formallyは「形やマナー」に重点があり、officiallyは「権威や公的な認定」に重点があります。
 
@@ -105,14 +105,14 @@ formallyは「形やマナー」に重点があり、officiallyは「権威や�
 
 ## 🧩 あわせて覚えたい
 
-- [casually](/casually)：カジュアルに、気軽に
-- [informally](/informally)：非公式に、くだけて
+- [casually](/word/casually)：カジュアルに、気軽に
+- [informally](/word/informally)：非公式に、くだけて
 
 ---
 
 ## 📖 できればこれも
 
-- [briefly](/briefly)：簡潔に、手短に
-- [politely](/politely)：丁寧に、礼儀正しく
+- [briefly](/word/briefly)：簡潔に、手短に
+- [politely](/word/politely)：丁寧に、礼儀正しく
 
 <!-- cvid: aid11_bid45 -->

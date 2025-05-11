@@ -97,7 +97,7 @@ TOEICでは、形容詞の語彙問題や説明文で「見えない」「気づ
 ## 🤔  transparent との違いは？
 
 - **invisible**：目に見えない、存在が認識できない
-- **[transparent](/transparent)**：透明な、向こう側が見える
+- **[transparent](/word/transparent)**：透明な、向こう側が見える
 
 invisibleは「全く見えない」こと、transparentは「透明で見えるが存在はわかる」ことを表します。
 
@@ -105,14 +105,14 @@ invisibleは「全く見えない」こと、transparentは「透明で見える
 
 ## 🧩 あわせて覚えたい
 
-- [hidden](/hidden)：隠された、見えないようにされた
-- [unseen](/unseen)：見られていない、目に触れない
+- [hidden](/word/hidden)：隠された、見えないようにされた
+- [unseen](/word/unseen)：見られていない、目に触れない
 
 ---
 
 ## 📖 できればこれも
 
-- [visible](/visible)：目に見える
-- [apparent](/apparent)：明らかな、見たところ～らしい
+- [visible](/word/visible)：目に見える
+- [apparent](/word/apparent)：明らかな、見たところ～らしい
 
 <!-- cvid: aid37_bid32 -->

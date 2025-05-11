@@ -97,7 +97,7 @@ plentyは会話文や説明文で「十分な量」「たくさんある」と�
 ## 🤔  enough との違いは？
 
 - **plenty**：必要以上に十分な量、たっぷりあることを強調
-- **[enough](/enough)**：必要なだけの量、足りていることを示す
+- **[enough](/word/enough)**：必要なだけの量、足りていることを示す
 
 plentyは「余るほど十分」というニュアンスで、enoughは「必要条件を満たす」ことに重点があります。
 
@@ -105,14 +105,14 @@ plentyは「余るほど十分」というニュアンスで、enoughは「必�
 
 ## 🧩 あわせて覚えたい
 
-- [abundance](/abundance)：豊富、たくさんあること
-- [scarcity](/scarcity)：不足、欠乏
+- [abundance](/word/abundance)：豊富、たくさんあること
+- [scarcity](/word/scarcity)：不足、欠乏
 
 ---
 
 ## 📖 できればこれも
 
-- [amount](/amount)：量、総額
-- [sufficient](/sufficient)：十分な、足りている
+- [amount](/word/amount)：量、総額
+- [sufficient](/word/sufficient)：十分な、足りている
 
 <!-- cvid: aid37_bid47 -->

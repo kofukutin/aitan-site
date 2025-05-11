@@ -97,7 +97,7 @@ TOEICでは、昇進や達成などの場面で「お祝いの言葉」として
 ## 🤔  praise との違いは？
 
 - **congratulate**：相手の成功や幸運を祝って「おめでとう」と伝える
-- **[praise](/praise)**：相手の行動や成果を「称賛する」「ほめる」
+- **[praise](/word/praise)**：相手の行動や成果を「称賛する」「ほめる」
 
 congratulateは「祝福」の気持ちを伝えるとき、praiseは「称賛」や「評価」を伝えるときに使います。
 
@@ -105,14 +105,14 @@ congratulateは「祝福」の気持ちを伝えるとき、praiseは「称賛�
 
 ## 🧩 あわせて覚えたい
 
-- [compliment](/compliment)：ほめ言葉、賛辞
-- [celebrate](/celebrate)：祝う、記念する
+- [compliment](/word/compliment)：ほめ言葉、賛辞
+- [celebrate](/word/celebrate)：祝う、記念する
 
 ---
 
 ## 📖 できればこれも
 
-- [appreciate](/appreciate)：感謝する、評価する
-- [commend](/commend)：称賛する、推薦する
+- [appreciate](/word/appreciate)：感謝する、評価する
+- [commend](/word/commend)：称賛する、推薦する
 
 <!-- cvid: aid20_bid10 -->

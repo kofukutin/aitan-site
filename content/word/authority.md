@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や公式な通知、規則説明などで「権
 ## 🤔  power との違いは？
 
 - **authority**：公式に与えられた権限や権威、または当局を指す
-- **[power](/power)**：より広く「力」や「能力」を指し、物理的・精神的な力も含む
+- **[power](/word/power)**：より広く「力」や「能力」を指し、物理的・精神的な力も含む
 
 authorityは制度や役職などから与えられる「正当な権限」を強調し、powerは個人の影響力や能力など幅広い「力」を表します。
 
@@ -105,14 +105,14 @@ authorityは制度や役職などから与えられる「正当な権限」を�
 
 ## 🧩 あわせて覚えたい
 
-- [permission](/permission)：許可
-- [responsibility](/responsibility)：責任
+- [permission](/word/permission)：許可
+- [responsibility](/word/responsibility)：責任
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/policy)：方針
-- [committee](/committee)：委員会
+- [policy](/word/policy)：方針
+- [committee](/word/committee)：委員会
 
 <!-- cvid: aid14_bid12 -->

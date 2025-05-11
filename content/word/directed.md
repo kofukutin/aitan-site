@@ -97,7 +97,7 @@ TOEICでは会議や業務指示の場面で「directed」が使われること�
 ## 🤔  managed との違いは？
 
 - **directed**：指示や監督のもとで進められたことを強調
-- **[managed](/managed)**：管理や運営、全体のコントロールを強調
+- **[managed](/word/managed)**：管理や運営、全体のコントロールを強調
 
 「directed」は「方向づけ」や「指導」に焦点があり、「managed」は「運営」や「管理」のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは会議や業務指示の場面で「directed」が使われること�
 
 ## 🧩 あわせて覚えたい
 
-- [supervised](/supervised)：監督された
-- [guided](/guided)：案内された、導かれた
+- [supervised](/word/supervised)：監督された
+- [guided](/word/guided)：案内された、導かれた
 
 ---
 
 ## 📖 できればこれも
 
-- [organized](/organized)：組織された、整理された
-- [controlled](/controlled)：制御された、管理された
+- [organized](/word/organized)：組織された、整理された
+- [controlled](/word/controlled)：制御された、管理された
 
 <!-- cvid: aid15_bid34 -->

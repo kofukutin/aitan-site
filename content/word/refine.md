@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や製品説明、プロジェクト改善の
 ## 🤔  improve との違いは？
 
 - **refine**：細部までこだわって洗練・精密化するニュアンス
-- **[improve](/improve)**：全体的に良くする、一般的な「改善」
+- **[improve](/word/improve)**：全体的に良くする、一般的な「改善」
 
 refineは「さらに磨きをかける」「質を高める」など、より専門的・段階的な改良を表し、improveは幅広く「良くする」場合に使います。
 
@@ -105,14 +105,14 @@ refineは「さらに磨きをかける」「質を高める」など、より�
 
 ## 🧩 あわせて覚えたい
 
-- [polish](/polish)：磨く、仕上げる
-- [purify](/purify)：浄化する、純化する
+- [polish](/word/polish)：磨く、仕上げる
+- [purify](/word/purify)：浄化する、純化する
 
 ---
 
 ## 📖 できればこれも
 
-- [adjust](/adjust)：調整する
-- [modify](/modify)：修正する
+- [adjust](/word/adjust)：調整する
+- [modify](/word/modify)：修正する
 
 <!-- cvid: aid11_bid04 -->

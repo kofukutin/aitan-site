@@ -97,7 +97,7 @@ TOEICでは、会社や組織の制度変更、法律や規則の改正などの
 ## 🤔  improve との違いは？
 
 - **reform**：制度や仕組みなどを根本的に改めて良くする
-- **[improve](/improve)**：全体的に良くする、少しずつ向上させる
+- **[improve](/word/improve)**：全体的に良くする、少しずつ向上させる
 
 reformは「抜本的な改革」、improveは「徐々に良くする」といった違いがあり、reformの方が大きな変化や公的な場面で使われやすいです。
 
@@ -105,14 +105,14 @@ reformは「抜本的な改革」、improveは「徐々に良くする」とい�
 
 ## 🧩 あわせて覚えたい
 
-- [revise](/revise)：修正する、改訂する
-- [abolish](/abolish)：廃止する
+- [revise](/word/revise)：修正する、改訂する
+- [abolish](/word/abolish)：廃止する
 
 ---
 
 ## 📖 できればこれも
 
-- [amend](/amend)：修正する（特に法律や文書を）
-- [modify](/modify)：一部を変更する、修正する
+- [amend](/word/amend)：修正する（特に法律や文書を）
+- [modify](/word/modify)：一部を変更する、修正する
 
 <!-- cvid: aid23_bid14 -->

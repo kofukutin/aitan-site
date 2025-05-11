@@ -97,7 +97,7 @@ TOEICでは主に長文読解パートで、研究や調査、発見に関する
 ## 🤔  found との違いは？
 
 - **discovered**：未知のものや新しいものを発見したときに使う
-- **[found](/found)**：すでに存在していたものを偶然見つけたときに使う
+- **[found](/word/found)**：すでに存在していたものを偶然見つけたときに使う
 
 discoveredは「新発見」や「未知のもの」に強調があり、foundは「なくした物や既知の物を見つける」ニュアンスです。
 
@@ -105,14 +105,14 @@ discoveredは「新発見」や「未知のもの」に強調があり、found�
 
 ## 🧩 あわせて覚えたい
 
-- [invent](/invent)：発明する
-- [detect](/detect)：（隠れているものを）見つける、検出する
+- [invent](/word/invent)：発明する
+- [detect](/word/detect)：（隠れているものを）見つける、検出する
 
 ---
 
 ## 📖 できればこれも
 
-- [explore](/explore)：探検する、調査する
-- [reveal](/reveal)：明らかにする、公開する
+- [explore](/word/explore)：探検する、調査する
+- [reveal](/word/reveal)：明らかにする、公開する
 
 <!-- cvid: aid24_bid37 -->

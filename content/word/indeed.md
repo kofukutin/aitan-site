@@ -93,7 +93,7 @@ TOEICでは、説明文やメール文などで「強調」や「補足」の意
 ## 🤔  actually との違いは？
 
 - **indeed**：前の内容を強調したり、肯定的に補足したりするフォーマルな表現。
-- **[actually](/actually)**：実際には、という意味で、予想や事実と異なることをややカジュアルに伝える。
+- **[actually](/word/actually)**：実際には、という意味で、予想や事実と異なることをややカジュアルに伝える。
 
 indeedは「本当にそうだ」と強調する時、actuallyは「実は」「思っていたのと違う」と事実を訂正・補足する時に使います。
 
@@ -101,14 +101,14 @@ indeedは「本当にそうだ」と強調する時、actuallyは「実は」「
 
 ## 🧩 あわせて覚えたい
 
-- [certainly](/certainly)：確かに、もちろん
-- [truly](/truly)：本当に、心から
+- [certainly](/word/certainly)：確かに、もちろん
+- [truly](/word/truly)：本当に、心から
 
 ---
 
 ## 📖 できればこれも
 
-- [however](/however)：しかしながら
-- [therefore](/therefore)：それゆえに
+- [however](/word/however)：しかしながら
+- [therefore](/word/therefore)：それゆえに
 
 <!-- cvid: aid03_bid44 -->

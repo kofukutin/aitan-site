@@ -98,7 +98,7 @@ TOEICではPart 5の語彙・文法問題で頻出です。必要性や条件を
 ## 🤔  essential との違いは？
 
 - **necessary**：目的達成や状況に応じて「必要な」「欠かせない」
-- **[essential](/essential)**：絶対に欠かせない、本質的に必要な
+- **[essential](/word/essential)**：絶対に欠かせない、本質的に必要な
 
 **necessary**は状況や目的によって必要なものを指し、**essential**はそれがなければ成り立たないほど重要なものを指します。
 
@@ -106,14 +106,14 @@ TOEICではPart 5の語彙・文法問題で頻出です。必要性や条件を
 
 ## 🧩 あわせて覚えたい
 
-- [optional](/optional)：任意の、選択できる
-- [required](/required)：要求された、必須の
+- [optional](/word/optional)：任意の、選択できる
+- [required](/word/required)：要求された、必須の
 
 ---
 
 ## 📖 できればこれも
 
-- [important](/important)：重要な
-- [basic](/basic)：基本的な
+- [important](/word/important)：重要な
+- [basic](/word/basic)：基本的な
 
 <!-- cvid: aid12_bid43 -->

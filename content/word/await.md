@@ -97,7 +97,7 @@ TOEICでは主にPart 5で、フォーマルな「待つ」の表現として出
 ## 🤔  wait との違いは？
 
 - **await**：フォーマルで、目的語を直接取る「待つ」
-- **[wait](/wait)**：カジュアルで、「for」と一緒に使うことが多い
+- **[wait](/word/wait)**：カジュアルで、「for」と一緒に使うことが多い
 
 awaitはビジネスや公式文書でよく使われ、waitは日常会話で使われます。
 
@@ -105,14 +105,14 @@ awaitはビジネスや公式文書でよく使われ、waitは日常会話で�
 
 ## 🧩 あわせて覚えたい
 
-- [anticipate](/anticipate)：予期する、期待する
-- [delay](/delay)：遅らせる、延期する
+- [anticipate](/word/anticipate)：予期する、期待する
+- [delay](/word/delay)：遅らせる、延期する
 
 ---
 
 ## 📖 できればこれも
 
-- [respond](/respond)：返答する
-- [notify](/notify)：通知する
+- [respond](/word/respond)：返答する
+- [notify](/word/notify)：通知する
 
 <!-- cvid: aid40_bid14 -->

@@ -97,7 +97,7 @@ brokeはTOEICでは会話文やカジュアルなやりとりで見かけるこ�
 ## 🤔  bankrupt との違いは？
 
 - **broke**：個人が一時的に「お金がない」状態をカジュアルに表現
-- **[bankrupt](/bankrupt)**：法的に「破産した」状態を指し、個人・企業どちらにも使えるがフォーマル
+- **[bankrupt](/word/bankrupt)**：法的に「破産した」状態を指し、個人・企業どちらにも使えるがフォーマル
 
 brokeは日常会話で「今お金がない」と気軽に使い、bankruptは法的・深刻な破産を指します。
 
@@ -105,14 +105,14 @@ brokeは日常会話で「今お金がない」と気軽に使い、bankruptは�
 
 ## 🧩 あわせて覚えたい
 
-- [poor](/poor)：貧しい
-- [debt](/debt)：借金
+- [poor](/word/poor)：貧しい
+- [debt](/word/debt)：借金
 
 ---
 
 ## 📖 できればこれも
 
-- [rich](/rich)：裕福な
-- [afford](/afford)：～する余裕がある
+- [rich](/word/rich)：裕福な
+- [afford](/word/afford)：～する余裕がある
 
 <!-- cvid: aid49_bid13 -->

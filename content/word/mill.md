@@ -97,7 +97,7 @@ TOEICでは、工場や生産現場に関する会話や説明文で登場する
 ## 🤔  factory との違いは？
 
 - **mill**：伝統的な製粉所や、特定の素材を加工する比較的小規模な工場を指すことが多い
-- **[factory](/factory)**：あらゆる製品を大量生産する一般的な工場
+- **[factory](/word/factory)**：あらゆる製品を大量生産する一般的な工場
 
 millは特定の素材や伝統的な生産施設に使われることが多く、factoryは規模や種類を問わず一般的な工場全般に使われます。
 
@@ -105,14 +105,14 @@ millは特定の素材や伝統的な生産施設に使われることが多く�
 
 ## 🧩 あわせて覚えたい
 
-- [plant](/plant)：大規模な工場、プラント
-- [workshop](/workshop)：作業場、小規模な工房
+- [plant](/word/plant)：大規模な工場、プラント
+- [workshop](/word/workshop)：作業場、小規模な工房
 
 ---
 
 ## 📖 できればこれも
 
-- [warehouse](/warehouse)：倉庫
-- [produce](/produce)：生産する
+- [warehouse](/word/warehouse)：倉庫
+- [produce](/word/produce)：生産する
 
 <!-- cvid: aid14_bid28 -->

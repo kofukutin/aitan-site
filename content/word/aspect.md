@@ -97,7 +97,7 @@ TOEICでは、ビジネスや会議の文脈で「側面」「観点」として
 ## 🤔  perspective との違いは？
 
 - **aspect**：物事の一つの側面や要素、観点
-- **[perspective](/perspective)**：物事をどう見るかという「視点」や「考え方」
+- **[perspective](/word/perspective)**：物事をどう見るかという「視点」や「考え方」
 
 aspectは「部分的な側面」や「要素」に焦点を当て、perspectiveは「全体をどう捉えるか」という見方や立場に重点があります。
 
@@ -105,14 +105,14 @@ aspectは「部分的な側面」や「要素」に焦点を当て、perspective
 
 ## 🧩 あわせて覚えたい
 
-- [factor](/factor)：要因、要素
-- [feature](/feature)：特徴、特性
+- [factor](/word/factor)：要因、要素
+- [feature](/word/feature)：特徴、特性
 
 ---
 
 ## 📖 できればこれも
 
-- [detail](/detail)：詳細、細部
-- [element](/element)：要素、成分
+- [detail](/word/detail)：詳細、細部
+- [element](/word/element)：要素、成分
 
 <!-- cvid: aid37_bid48 -->

@@ -96,7 +96,7 @@ tournamentは、TOEICの案内文やイベント告知、社内報などで登�
 ## 🤔  competition との違いは？
 
 - **tournament**：勝ち抜き方式の大会やトーナメントを指す
-- **[competition](/competition)**：広く「競争」「競技会」全般を指す
+- **[competition](/word/competition)**：広く「競争」「競技会」全般を指す
 
 tournamentは複数の試合を通じて勝者を決める大会、competitionは形式を問わず競い合う場全般に使います。
 
@@ -104,14 +104,14 @@ tournamentは複数の試合を通じて勝者を決める大会、competition�
 
 ## 🧩 あわせて覚えたい
 
-- [match](/match)：試合、対戦
-- [league](/league)：リーグ戦、連盟
+- [match](/word/match)：試合、対戦
+- [league](/word/league)：リーグ戦、連盟
 
 ---
 
 ## 📖 できればこれも
 
-- [contest](/contest)：コンテスト、競技会
-- [event](/event)：イベント、行事
+- [contest](/word/contest)：コンテスト、競技会
+- [event](/word/event)：イベント、行事
 
 <!-- cvid: aid09_bid45 -->

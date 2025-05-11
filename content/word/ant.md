@@ -97,7 +97,7 @@ TOEICでは、自然や動物に関する長文や説明文で登場すること
 ## 🤔  insect との違いは？
 
 - **ant**：アリという特定の昆虫を指す
-- **[insect](/insect)**：昆虫全般を指す総称
+- **[insect](/word/insect)**：昆虫全般を指す総称
 
 antはinsectの一種ですが、antは「アリ」という特定の種類、insectは「昆虫全般」を意味します。
 
@@ -105,14 +105,14 @@ antはinsectの一種ですが、antは「アリ」という特定の種類、in
 
 ## 🧩 あわせて覚えたい
 
-- [bee](/bee)：ハチ
-- [colony](/colony)：群れ、集団
+- [bee](/word/bee)：ハチ
+- [colony](/word/colony)：群れ、集団
 
 ---
 
 ## 📖 できればこれも
 
-- [spider](/spider)：クモ
-- [bug](/bug)：虫（一般的な呼び方）
+- [spider](/word/spider)：クモ
+- [bug](/word/bug)：虫（一般的な呼び方）
 
 <!-- cvid: aid27_bid30 -->

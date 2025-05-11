@@ -97,7 +97,7 @@ TOEICでは会話やビジネスシーンで「嘘をつく」という意味で
 ## 🤔  deceiving との違いは？
 
 - **lying**：事実と異なることを言って「嘘をつく」こと。
-- **[deceiving](/deceiving)**：人をだます、欺くという広い意味。
+- **[deceiving](/word/deceiving)**：人をだます、欺くという広い意味。
 
 lyingは「嘘をつく」行為自体を指し、deceivingは嘘以外の方法も含めて人をだます場合に使います。
 
@@ -105,14 +105,14 @@ lyingは「嘘をつく」行為自体を指し、deceivingは嘘以外の方法
 
 ## 🧩 あわせて覚えたい
 
-- [truth](/truth)：真実
-- [cheat](/cheat)：不正をする、ごまかす
+- [truth](/word/truth)：真実
+- [cheat](/word/cheat)：不正をする、ごまかす
 
 ---
 
 ## 📖 できればこれも
 
-- [deny](/deny)：否定する
-- [admit](/admit)：認める
+- [deny](/word/deny)：否定する
+- [admit](/word/admit)：認める
 
 <!-- cvid: aid37_bid42 -->

@@ -97,7 +97,7 @@ TOEICではPart 7の長文読解で、アンケートや調査結果に関する
 ## 🤔  questionnaire との違いは？
 
 - **survey**：広い範囲の情報を集めるための調査やアンケート全体を指す
-- **[questionnaire](/questionnaire)**：質問項目そのもの、記入用紙やフォームを指す
+- **[questionnaire](/word/questionnaire)**：質問項目そのもの、記入用紙やフォームを指す
 
 surveyは調査活動全体や結果も含みますが、questionnaireは「質問票」自体を意味します。
 
@@ -105,14 +105,14 @@ surveyは調査活動全体や結果も含みますが、questionnaireは「質�
 
 ## 🧩 あわせて覚えたい
 
-- [inspection](/inspection)：検査、視察
-- [poll](/poll)：世論調査、投票
+- [inspection](/word/inspection)：検査、視察
+- [poll](/word/poll)：世論調査、投票
 
 ---
 
 ## 📖 できればこれも
 
-- [report](/report)：報告書、レポート
-- [analysis](/analysis)：分析
+- [report](/word/report)：報告書、レポート
+- [analysis](/word/analysis)：分析
 
 <!-- cvid: aid39_bid04 -->

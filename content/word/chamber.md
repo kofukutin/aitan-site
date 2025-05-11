@@ -96,7 +96,7 @@ TOEICでは、契約書や議事録、公式文書などで「会議室」「議
 ## 🤔  room との違いは？
 
 - **chamber**：特定の目的や公式な用途のための部屋、特に会議や議会などで使われる
-- **[room](/room)**：一般的な「部屋」、用途や格式を問わず幅広く使う
+- **[room](/word/room)**：一般的な「部屋」、用途や格式を問わず幅広く使う
 
 chamberは格式や用途が限定された部屋を指し、roomは日常的なあらゆる部屋に使えます。
 
@@ -104,14 +104,14 @@ chamberは格式や用途が限定された部屋を指し、roomは日常的な
 
 ## 🧩 あわせて覚えたい
 
-- [hall](/hall)：広間、ホール
-- [committee](/committee)：委員会
+- [hall](/word/hall)：広間、ホール
+- [committee](/word/committee)：委員会
 
 ---
 
 ## 📖 できればこれも
 
-- [court](/court)：法廷、裁判所
-- [council](/council)：評議会、協議会
+- [court](/word/court)：法廷、裁判所
+- [council](/word/council)：評議会、協議会
 
 <!-- cvid: aid00_bid37 -->

@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「選んだ」「拾った」などの意味で
 ## 🤔  selected との違いは？
 
 - **picked**：カジュアルに「選んだ」「摘んだ」など幅広く使う
-- **[selected](/selected)**：ややフォーマルで「慎重に選んだ」ニュアンス
+- **[selected](/word/selected)**：ややフォーマルで「慎重に選んだ」ニュアンス
 
 「picked」は日常的な選択や動作全般に使われ、「selected」は特に慎重に選んだ場合やフォーマルな場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「選んだ」「拾った」などの意味で
 
 ## 🧩 あわせて覚えたい
 
-- [choose](/choose)：選ぶ
-- [gather](/gather)：集める
+- [choose](/word/choose)：選ぶ
+- [gather](/word/gather)：集める
 
 ---
 
 ## 📖 できればこれも
 
-- [collect](/collect)：集める、収集する
-- [find](/find)：見つける
+- [collect](/word/collect)：集める、収集する
+- [find](/word/find)：見つける
 
 <!-- cvid: aid18_bid26 -->

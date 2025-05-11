@@ -97,7 +97,7 @@ TOEICでは「existing customers（既存顧客）」や「existing system（既
 ## 🤔  current との違いは？
 
 - **existing**：今すでに存在している、以前からある
-- **[current](/current)**：現在進行中の、今の
+- **[current](/word/current)**：現在進行中の、今の
 
 「existing」は「すでに存在しているもの」に焦点があり、「current」は「今まさに進行中・現在の状態」に重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは「existing customers（既存顧客）」や「existing system（既
 
 ## 🧩 あわせて覚えたい
 
-- [previous](/previous)：以前の、前の
-- [available](/available)：利用可能な、手に入る
+- [previous](/word/previous)：以前の、前の
+- [available](/word/available)：利用可能な、手に入る
 
 ---
 
 ## 📖 できればこれも
 
-- [active](/active)：活動中の、稼働している
-- [recent](/recent)：最近の
+- [active](/word/active)：活動中の、稼働している
+- [recent](/word/recent)：最近の
 
 <!-- cvid: aid39_bid10 -->

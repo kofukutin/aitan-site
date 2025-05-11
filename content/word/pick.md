@@ -97,7 +97,7 @@ TOEICでは会話や指示の中で「選ぶ」「取りに行く」といった
 ## 🤔  choose との違いは？
 
 - **pick**：カジュアルに「選ぶ」、直感的・素早い選択に使われやすい
-- **[choose](/choose)**：ややフォーマルで、慎重に選ぶニュアンスが強い
+- **[choose](/word/choose)**：ややフォーマルで、慎重に選ぶニュアンスが強い
 
 pickは日常的な「パッと選ぶ」場面で使い、chooseは選択に時間や理由が伴うときに使います。
 
@@ -105,14 +105,14 @@ pickは日常的な「パッと選ぶ」場面で使い、chooseは選択に時�
 
 ## 🧩 あわせて覚えたい
 
-- [select](/select)：慎重に選ぶ、選択する
-- [gather](/gather)：集める、寄せ集める
+- [select](/word/select)：慎重に選ぶ、選択する
+- [gather](/word/gather)：集める、寄せ集める
 
 ---
 
 ## 📖 できればこれも
 
-- [bring](/bring)：持ってくる
-- [collect](/collect)：集める、回収する
+- [bring](/word/bring)：持ってくる
+- [collect](/word/collect)：集める、回収する
 
 <!-- cvid: aid00_bid18 -->

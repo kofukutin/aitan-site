@@ -97,7 +97,7 @@ TOEICでは、会社の意思決定や選挙、会議の案内文などで「vot
 ## 🤔  election との違いは？
 
 - **voting**：投票という「行為」や「プロセス」に焦点を当てる
-- **[election](/election)**：選挙という「イベント」や「結果」に焦点を当てる
+- **[election](/word/election)**：選挙という「イベント」や「結果」に焦点を当てる
 
 votingは「投票すること」自体を指し、electionは「選挙」という出来事やその結果を指します。
 
@@ -105,14 +105,14 @@ votingは「投票すること」自体を指し、electionは「選挙」とい
 
 ## 🧩 あわせて覚えたい
 
-- [ballot](/ballot)：投票用紙、投票（名詞）
-- [poll](/poll)：世論調査、投票所（名詞）
+- [ballot](/word/ballot)：投票用紙、投票（名詞）
+- [poll](/word/poll)：世論調査、投票所（名詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/candidate)：候補者
-- [decision](/decision)：決定、判断
+- [candidate](/word/candidate)：候補者
+- [decision](/word/decision)：決定、判断
 
 <!-- cvid: aid14_bid34 -->

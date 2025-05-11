@@ -97,7 +97,7 @@ TOEICでは、会議や電話、プレゼンなどの場面で「話す」「発
 ## 🤔  talk との違いは？
 
 - **speak**：フォーマルな場面や「言語を話す」「演説する」などに使う
-- **[talk](/talk)**：カジュアルな会話や「誰かと話す」場面で使う
+- **[talk](/word/talk)**：カジュアルな会話や「誰かと話す」場面で使う
 
 speakは改まった場面や能力について述べるときに使い、talkは友人同士の会話などカジュアルなやりとりに使います。
 
@@ -105,14 +105,14 @@ speakは改まった場面や能力について述べるときに使い、talk�
 
 ## 🧩 あわせて覚えたい
 
-- [say](/say)：（言葉を）言う
-- [announce](/announce)：発表する、告知する
+- [say](/word/say)：（言葉を）言う
+- [announce](/word/announce)：発表する、告知する
 
 ---
 
 ## 📖 できればこれも
 
-- [discuss](/discuss)：議論する、話し合う
-- [explain](/explain)：説明する
+- [discuss](/word/discuss)：議論する、話し合う
+- [explain](/word/explain)：説明する
 
 <!-- cvid: aid10_bid17 -->

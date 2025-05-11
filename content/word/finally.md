@@ -93,7 +93,7 @@ TOEICでは会話や説明文で「ついに」「最終的に」と結果を述
 ## 🤔  eventually との違いは？
 
 - **finally**：長い時間や努力の末に「ついに」「やっと」と強調して結果を述べる
-- **[eventually](/eventually)**：過程や経過を経て「最終的に」「結局は」と述べる
+- **[eventually](/word/eventually)**：過程や経過を経て「最終的に」「結局は」と述べる
 
 finallyは「やっと」「待ちに待った」という感情が強く、eventuallyは単に「最終的に」という事実を述べるときに使います。
 
@@ -101,14 +101,14 @@ finallyは「やっと」「待ちに待った」という感情が強く、even
 
 ## 🧩 あわせて覚えたい
 
-- [ultimately](/ultimately)：最終的に
-- [at last](/at_last)：ついに、やっと
+- [ultimately](/word/ultimately)：最終的に
+- [at last](/word/at_last)：ついに、やっと
 
 ---
 
 ## 📖 できればこれも
 
-- [recently](/recently)：最近
-- [immediately](/immediately)：すぐに
+- [recently](/word/recently)：最近
+- [immediately](/word/immediately)：すぐに
 
 <!-- cvid: aid30_bid45 -->

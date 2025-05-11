@@ -97,7 +97,7 @@ TOEICでは主にPart 1の天気や屋外の写真描写で登場します。基
 ## 🤔  wet との違いは？
 
 - **rainy**：雨が降っている、雨の多い（天気や気候を表す）
-- **[wet](/wet)**：濡れている、水分を含んでいる（物や表面の状態を表す）
+- **[wet](/word/wet)**：濡れている、水分を含んでいる（物や表面の状態を表す）
 
 「rainy」は天気や気候について使い、「wet」は物や人が水で濡れている状態に使います。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の天気や屋外の写真描写で登場します。基
 
 ## 🧩 あわせて覚えたい
 
-- [sunny](/sunny)：晴れた
-- [cloudy](/cloudy)：曇った
+- [sunny](/word/sunny)：晴れた
+- [cloudy](/word/cloudy)：曇った
 
 ---
 
 ## 📖 できればこれも
 
-- [stormy](/stormy)：嵐の
-- [windy](/windy)：風の強い
+- [stormy](/word/stormy)：嵐の
+- [windy](/word/windy)：風の強い
 
 <!-- cvid: aid32_bid20 -->

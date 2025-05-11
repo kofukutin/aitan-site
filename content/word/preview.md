@@ -97,7 +97,7 @@ TOEICではITやビジネス文書、イベント案内などで「preview」が
 ## 🤔  review との違いは？
 
 - **preview**：事前に内容を確認する、予告や下見のニュアンス
-- **[review](/review)**：内容を見直す、評価・復習・再検討のニュアンス
+- **[review](/word/review)**：内容を見直す、評価・復習・再検討のニュアンス
 
 「preview」は「これから体験するものを前もって見る」イメージ、「review」は「終わったものを振り返る・評価する」イメージです。
 
@@ -105,14 +105,14 @@ TOEICではITやビジネス文書、イベント案内などで「preview」が
 
 ## 🧩 あわせて覚えたい
 
-- [summary](/summary)：要約、まとめ
-- [demonstration](/demonstration)：実演、デモ
+- [summary](/word/summary)：要約、まとめ
+- [demonstration](/word/demonstration)：実演、デモ
 
 ---
 
 ## 📖 できればこれも
 
-- [display](/display)：表示、展示
-- [introduction](/introduction)：紹介、導入
+- [display](/word/display)：表示、展示
+- [introduction](/word/introduction)：紹介、導入
 
 <!-- cvid: aid49_bid10 -->

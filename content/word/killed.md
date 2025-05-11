@@ -97,7 +97,7 @@ TOEICでは会話や説明文の中で、事故や出来事の説明として「
 ## 🤔  murdered との違いは？
 
 - **killed**：一般的に「殺した」「死なせた」という意味で、事故や戦争など幅広い場面で使う。
-- **[murdered](/murdered)**：法律的・道徳的に「殺人（故意に人を殺す）」の意味で使う。
+- **[murdered](/word/murdered)**：法律的・道徳的に「殺人（故意に人を殺す）」の意味で使う。
 
 killedは広い意味で使えますが、murderedは「犯罪としての殺人」に限定されます。
 
@@ -105,14 +105,14 @@ killedは広い意味で使えますが、murderedは「犯罪としての殺人
 
 ## 🧩 あわせて覚えたい
 
-- [injure](/injure)：傷つける、けがをさせる
-- [destroy](/destroy)：破壊する、壊す
+- [injure](/word/injure)：傷つける、けがをさせる
+- [destroy](/word/destroy)：破壊する、壊す
 
 ---
 
 ## 📖 できればこれも
 
-- [hurt](/hurt)：傷つける、痛める
-- [damage](/damage)：損害を与える、傷つける
+- [hurt](/word/hurt)：傷つける、痛める
+- [damage](/word/damage)：損害を与える、傷つける
 
 <!-- cvid: aid21_bid18 -->

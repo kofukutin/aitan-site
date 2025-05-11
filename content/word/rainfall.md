@@ -97,7 +97,7 @@ TOEICでは、環境や天候に関する記事やレポートの中で「rainfa
 ## 🤔  precipitation との違いは？
 
 - **rainfall**：雨だけの降水量を指す
-- **[precipitation](/precipitation)**：雨・雪・あられなどすべての降水現象を含む
+- **[precipitation](/word/precipitation)**：雨・雪・あられなどすべての降水現象を含む
 
 rainfallは「雨」に限定されるのに対し、precipitationは「降水全般」を指します。天気予報や科学的な文脈ではprecipitationの方が広い意味です。
 
@@ -105,14 +105,14 @@ rainfallは「雨」に限定されるのに対し、precipitationは「降水�
 
 ## 🧩 あわせて覚えたい
 
-- [drought](/drought)：干ばつ、長期間雨が降らないこと
-- [flood](/flood)：洪水
+- [drought](/word/drought)：干ばつ、長期間雨が降らないこと
+- [flood](/word/flood)：洪水
 
 ---
 
 ## 📖 できればこれも
 
-- [climate](/climate)：気候
-- [humidity](/humidity)：湿度
+- [climate](/word/climate)：気候
+- [humidity](/word/humidity)：湿度
 
 <!-- cvid: aid12_bid30 -->

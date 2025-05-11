@@ -97,7 +97,7 @@ ITや通信、医療関連の説明文や会話で出題されることが多い
 ## 🤔  transfer との違いは？
 
 - **transmit**：情報や信号、病気など「目に見えないもの」を送る・伝えるときに使う
-- **[transfer](/transfer)**：物や人、データなど「実体のあるもの」を移す・転送するときに使う
+- **[transfer](/word/transfer)**：物や人、データなど「実体のあるもの」を移す・転送するときに使う
 
 transmitは「伝達・送信」に重点があり、transferは「移動・転送」に重点があります。IT分野では両者の使い分けが特に重要です。
 
@@ -105,14 +105,14 @@ transmitは「伝達・送信」に重点があり、transferは「移動・転�
 
 ## 🧩 あわせて覚えたい
 
-- [convey](/convey)：（情報・感情などを）伝える
-- [broadcast](/broadcast)：（テレビ・ラジオで）放送する
+- [convey](/word/convey)：（情報・感情などを）伝える
+- [broadcast](/word/broadcast)：（テレビ・ラジオで）放送する
 
 ---
 
 ## 📖 できればこれも
 
-- [receive](/receive)：受け取る
-- [communicate](/communicate)：伝達する、意思疎通する
+- [receive](/word/receive)：受け取る
+- [communicate](/word/communicate)：伝達する、意思疎通する
 
 <!-- cvid: aid38_bid23 -->

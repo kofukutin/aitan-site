@@ -97,7 +97,7 @@ TOEICでは、ITやビジネス関連の文脈で「activated」が形容詞と�
 ## 🤔  enabled との違いは？
 
 - **activated**：何かが作動・有効化されて「動き始めた」状態
-- **[enabled](/enabled)**：機能や権限が「使える状態に設定された」こと
+- **[enabled](/word/enabled)**：機能や権限が「使える状態に設定された」こと
 
 「activated」は実際に動作が始まったニュアンスが強く、「enabled」は使える準備が整った状態を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、ITやビジネス関連の文脈で「activated」が形容詞と�
 
 ## 🧩 あわせて覚えたい
 
-- [deactivated](/deactivated)：無効化された、停止した
-- [operational](/operational)：稼働中の、運用可能な
+- [deactivated](/word/deactivated)：無効化された、停止した
+- [operational](/word/operational)：稼働中の、運用可能な
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/available)：利用可能な
-- [connected](/connected)：接続された
+- [available](/word/available)：利用可能な
+- [connected](/word/connected)：接続された
 
 <!-- cvid: aid33_bid08 -->

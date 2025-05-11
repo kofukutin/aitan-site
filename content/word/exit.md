@@ -97,7 +97,7 @@ TOEICでは、会話やアナウンスで「出口」や「退出」を指す場
 ## 🤔  leave との違いは？
 
 - **exit**：物理的な「出口」や「退場口」を指す名詞。
-- **[leave](/leave)**：その場を「去る」「離れる」という動作を表す動詞。
+- **[leave](/word/leave)**：その場を「去る」「離れる」という動作を表す動詞。
 
 exitは場所や建物の「出口」自体を指し、leaveは「出て行く」という行動を表します。
 
@@ -105,14 +105,14 @@ exitは場所や建物の「出口」自体を指し、leaveは「出て行く�
 
 ## 🧩 あわせて覚えたい
 
-- [entrance](/entrance)：入口
-- [depart](/depart)：出発する
+- [entrance](/word/entrance)：入口
+- [depart](/word/depart)：出発する
 
 ---
 
 ## 📖 できればこれも
 
-- [entry](/entry)：入場、入ること
-- [arrival](/arrival)：到着
+- [entry](/word/entry)：入場、入ること
+- [arrival](/word/arrival)：到着
 
 <!-- cvid: aid17_bid37 -->

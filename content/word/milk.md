@@ -97,7 +97,7 @@ TOEICでは主に写真描写や日常的な会話で登場し、飲み物や食
 ## 🤔  dairy との違いは？
 
 - **milk**：牛乳そのものや乳を指す
-- **[dairy](/dairy)**：乳製品全般や乳製品を扱う場所・産業を指す
+- **[dairy](/word/dairy)**：乳製品全般や乳製品を扱う場所・産業を指す
 
 milkは飲み物や原料としての「牛乳」を意味し、dairyはチーズやバターなど乳製品全体や乳製品工場・売り場を指します。
 
@@ -105,14 +105,14 @@ milkは飲み物や原料としての「牛乳」を意味し、dairyはチー�
 
 ## 🧩 あわせて覚えたい
 
-- [juice](/juice)：ジュース、果汁
-- [cheese](/cheese)：チーズ
+- [juice](/word/juice)：ジュース、果汁
+- [cheese](/word/cheese)：チーズ
 
 ---
 
 ## 📖 できればこれも
 
-- [bread](/bread)：パン
-- [egg](/egg)：卵
+- [bread](/word/bread)：パン
+- [egg](/word/egg)：卵
 
 <!-- cvid: aid07_bid44 -->

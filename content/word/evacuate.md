@@ -97,7 +97,7 @@ All employees must evacuate the office immediately in case of an earthquake.
 ## 🤔  escape との違いは？
 
 - **evacuate**：組織的・計画的に「避難する」「避難させる」
-- **[escape](/escape)**：自力で「逃げる」「脱出する」
+- **[escape](/word/escape)**：自力で「逃げる」「脱出する」
 
 evacuateは集団や指示に従って安全な場所へ移動する場合に使い、escapeは危険から自分で逃げるニュアンスです。
 
@@ -105,14 +105,14 @@ evacuateは集団や指示に従って安全な場所へ移動する場合に使
 
 ## 🧩 あわせて覚えたい
 
-- [abandon](/abandon)：見捨てる、放棄する
-- [relocate](/relocate)：移転する、移動する
+- [abandon](/word/abandon)：見捨てる、放棄する
+- [relocate](/word/relocate)：移転する、移動する
 
 ---
 
 ## 📖 できればこれも
 
-- [rescue](/rescue)：救助する
-- [shelter](/shelter)：避難所、避難する
+- [rescue](/word/rescue)：救助する
+- [shelter](/word/shelter)：避難所、避難する
 
 <!-- cvid: aid29_bid40 -->

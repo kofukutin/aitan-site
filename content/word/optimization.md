@@ -97,7 +97,7 @@ ITやビジネスの文脈で、システムやプロセスの改善に関する
 ## 🤔  improvement との違いは？
 
 - **optimization**：最適な状態や最大限の効率を目指して調整すること
-- **[improvement](/improvement)**：現状より良くすること全般
+- **[improvement](/word/improvement)**：現状より良くすること全般
 
 optimizationは「最も良い状態」を目指すニュアンスが強く、improvementは「少しでも良くする」幅広い改善に使われます。
 
@@ -105,14 +105,14 @@ optimizationは「最も良い状態」を目指すニュアンスが強く、im
 
 ## 🧩 あわせて覚えたい
 
-- [efficiency](/efficiency)：効率
-- [adjustment](/adjustment)：調整
+- [efficiency](/word/efficiency)：効率
+- [adjustment](/word/adjustment)：調整
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/analyze)：分析する
-- [maximize](/maximize)：最大化する
+- [analyze](/word/analyze)：分析する
+- [maximize](/word/maximize)：最大化する
 
 <!-- cvid: aid27_bid32 -->

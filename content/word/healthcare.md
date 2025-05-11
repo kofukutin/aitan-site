@@ -96,7 +96,7 @@ TOEICでは主にPart 7の長文や案内文、福利厚生の説明などで登
 ## 🤔  medical との違いは？
 
 - **healthcare**：医療サービスや健康管理全体を指す幅広い言葉
-- **[medical](/medical)**：医学や医療そのもの、または「医療の」という形容詞
+- **[medical](/word/medical)**：医学や医療そのもの、または「医療の」という形容詞
 
 healthcareは制度やサービス全体、medicalは「医学的」「医療の」といった限定的な意味で使い分けます。
 
@@ -104,14 +104,14 @@ healthcareは制度やサービス全体、medicalは「医学的」「医療の
 
 ## 🧩 あわせて覚えたい
 
-- [treatment](/treatment)：治療
-- [insurance](/insurance)：保険
+- [treatment](/word/treatment)：治療
+- [insurance](/word/insurance)：保険
 
 ---
 
 ## 📖 できればこれも
 
-- [medicine](/medicine)：薬、医学
-- [clinic](/clinic)：診療所
+- [medicine](/word/medicine)：薬、医学
+- [clinic](/word/clinic)：診療所
 
 <!-- cvid: aid02_bid47 -->

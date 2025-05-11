@@ -97,7 +97,7 @@ TOEICでは、日常会話やオフィスの設備に関する話題で「fan（
 ## 🤔  supporter との違いは？
 
 - **fan**：熱心な支持者や愛好者、または風を送る道具
-- **[supporter](/supporter)**：支援者、後援者
+- **[supporter](/word/supporter)**：支援者、後援者
 
 fanは「好きで応援する人」に使い、supporterは「積極的に支援・後援する人」に使います。supporterの方がややフォーマルで、経済的・物理的な支援も含みます。
 
@@ -105,14 +105,14 @@ fanは「好きで応援する人」に使い、supporterは「積極的に支�
 
 ## 🧩 あわせて覚えたい
 
-- [enthusiast](/enthusiast)：熱中している人、愛好家
-- [air_conditioner](/air_conditioner)：エアコン、空調機
+- [enthusiast](/word/enthusiast)：熱中している人、愛好家
+- [air_conditioner](/word/air_conditioner)：エアコン、空調機
 
 ---
 
 ## 📖 できればこれも
 
-- [team](/team)：チーム
-- [event](/event)：イベント
+- [team](/word/team)：チーム
+- [event](/word/event)：イベント
 
 <!-- cvid: aid29_bid23 -->

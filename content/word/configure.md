@@ -97,7 +97,7 @@ IT関連やビジネス文書の中で、システムや機器の設定に関す
 ## 🤔  set との違いは？
 
 - **configure**：システムや機器などを細かく設定・構成する
-- **[set](/set)**：一般的に「置く」「設定する」など幅広い意味で使う
+- **[set](/word/set)**：一般的に「置く」「設定する」など幅広い意味で使う
 
 configureは特にITや機械の詳細な設定に使い、setはもっと広い場面で使います。
 
@@ -105,14 +105,14 @@ configureは特にITや機械の詳細な設定に使い、setはもっと広い
 
 ## 🧩 あわせて覚えたい
 
-- [customize](/customize)：カスタマイズする、好みに合わせて変更する
-- [install](/install)：インストールする、設置する
+- [customize](/word/customize)：カスタマイズする、好みに合わせて変更する
+- [install](/word/install)：インストールする、設置する
 
 ---
 
 ## 📖 できればこれも
 
-- [adjust](/adjust)：調整する
-- [operate](/operate)：操作する
+- [adjust](/word/adjust)：調整する
+- [operate](/word/operate)：操作する
 
 <!-- cvid: aid24_bid41 -->

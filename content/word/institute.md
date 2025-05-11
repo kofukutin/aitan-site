@@ -97,7 +97,7 @@ TOEICでは、研究機関や教育機関、専門団体の名称や説明文で
 ## 🤔  organization との違いは？
 
 - **institute**：特定の目的（研究・教育など）のために設立された専門的な機関や団体
-- **[organization](/organization)**：目的や規模を問わず、あらゆる種類の組織全般
+- **[organization](/word/organization)**：目的や規模を問わず、あらゆる種類の組織全般
 
 instituteは「専門性・研究・教育」に特化した機関を指し、organizationは一般的な組織全体を広く指します。
 
@@ -105,14 +105,14 @@ instituteは「専門性・研究・教育」に特化した機関を指し、or
 
 ## 🧩 あわせて覚えたい
 
-- [foundation](/foundation)：財団、設立
-- [academy](/academy)：学会、専門学校
+- [foundation](/word/foundation)：財団、設立
+- [academy](/word/academy)：学会、専門学校
 
 ---
 
 ## 📖 できればこれも
 
-- [association](/association)：協会、団体
-- [committee](/committee)：委員会
+- [association](/word/association)：協会、団体
+- [committee](/word/committee)：委員会
 
 <!-- cvid: aid38_bid41 -->

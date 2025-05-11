@@ -96,7 +96,7 @@ Please ask the concierge if you need a taxi to the airport.
 ## 🤔  receptionist との違いは？
 
 - **concierge**：ホテルや高級施設で、ゲストの要望に応じて幅広いサービスや手配を行う専門スタッフ。
-- **[receptionist](/receptionist)**：受付で来客対応や電話応対などを行うスタッフ。
+- **[receptionist](/word/receptionist)**：受付で来客対応や電話応対などを行うスタッフ。
 
 conciergeは「おもてなし」や「特別な手配」に特化し、receptionistは主に受付業務や案内が中心です。
 
@@ -104,14 +104,14 @@ conciergeは「おもてなし」や「特別な手配」に特化し、receptio
 
 ## 🧩 あわせて覚えたい
 
-- [bellhop](/bellhop)：ホテルで荷物運びを担当するスタッフ
-- [doorman](/doorman)：ホテルやビルの出入口でドアの開閉や案内をするスタッフ
+- [bellhop](/word/bellhop)：ホテルで荷物運びを担当するスタッフ
+- [doorman](/word/doorman)：ホテルやビルの出入口でドアの開閉や案内をするスタッフ
 
 ---
 
 ## 📖 できればこれも
 
-- [lobby](/lobby)：ホテルやビルのロビー、玄関ホール
-- [reservation](/reservation)：予約
+- [lobby](/word/lobby)：ホテルやビルのロビー、玄関ホール
+- [reservation](/word/reservation)：予約
 
 <!-- cvid: aid38_bid23 -->

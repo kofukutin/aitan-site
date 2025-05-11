@@ -97,7 +97,7 @@ TOEICではPart 2などのリスニングで、カジュアルな会話表現と
 ## 🤔  friend との違いは？
 
 - **pal**：カジュアルで親しみやすい「友達」「仲間」
-- **[friend](/friend)**：一般的な「友人」、フォーマル・カジュアル両方で使える
+- **[friend](/word/friend)**：一般的な「友人」、フォーマル・カジュアル両方で使える
 
 palは特に親しい間柄やくだけた会話で使われ、friendはより広い意味で使われます。
 
@@ -105,14 +105,14 @@ palは特に親しい間柄やくだけた会話で使われ、friendはより�
 
 ## 🧩 あわせて覚えたい
 
-- [buddy](/buddy)：親しい友達、相棒
-- [acquaintance](/acquaintance)：知人、顔見知り
+- [buddy](/word/buddy)：親しい友達、相棒
+- [acquaintance](/word/acquaintance)：知人、顔見知り
 
 ---
 
 ## 📖 できればこれも
 
-- [mate](/mate)：仲間、友達（主にイギリス英語）
-- [partner](/partner)：相棒、パートナー
+- [mate](/word/mate)：仲間、友達（主にイギリス英語）
+- [partner](/word/partner)：相棒、パートナー
 
 <!-- cvid: aid31_bid44 -->

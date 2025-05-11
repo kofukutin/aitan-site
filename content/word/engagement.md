@@ -97,7 +97,7 @@ TOEICではビジネスメールや案内文で「予定」「約束」「関与
 ## 🤔  appointment との違いは？
 
 - **engagement**：フォーマルな約束や予定、または関与・参加を幅広く指す
-- **[appointment](/appointment)**：主に医者やビジネスなどの「（人と会う）予約・面会の約束」
+- **[appointment](/word/appointment)**：主に医者やビジネスなどの「（人と会う）予約・面会の約束」
 
 engagementは「関与」や「婚約」など幅広い意味で使われ、appointmentは「人と会うための予約」に限定されることが多いです。
 
@@ -105,14 +105,14 @@ engagementは「関与」や「婚約」など幅広い意味で使われ、appo
 
 ## 🧩 あわせて覚えたい
 
-- [commitment](/commitment)：約束、責任
-- [invitation](/invitation)：招待、招待状
+- [commitment](/word/commitment)：約束、責任
+- [invitation](/word/invitation)：招待、招待状
 
 ---
 
 ## 📖 できればこれも
 
-- [arrangement](/arrangement)：取り決め、準備
-- [participation](/participation)：参加
+- [arrangement](/word/arrangement)：取り決め、準備
+- [participation](/word/participation)：参加
 
 <!-- cvid: aid02_bid49 -->

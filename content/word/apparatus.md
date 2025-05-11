@@ -97,7 +97,7 @@ TOEICでは主に科学や技術、ビジネス文書の説明文やマニュア
 ## 🤔  equipment との違いは？
 
 - **apparatus**：特定の目的や機能のための装置や器具、または組織の仕組みを指し、ややフォーマルで専門的な場面で使われる。
-- **[equipment](/equipment)**：一般的な「機器・装備一式」を指し、日常的・広範囲に使われる。
+- **[equipment](/word/equipment)**：一般的な「機器・装備一式」を指し、日常的・広範囲に使われる。
 
 apparatusは科学や医療など専門的な分野で使われることが多く、equipmentはより広い意味で日常的に使われます。
 
@@ -105,14 +105,14 @@ apparatusは科学や医療など専門的な分野で使われることが多�
 
 ## 🧩 あわせて覚えたい
 
-- [device](/device)：装置、機器
-- [instrument](/instrument)：器具、計器
+- [device](/word/device)：装置、機器
+- [instrument](/word/instrument)：器具、計器
 
 ---
 
 ## 📖 できればこれも
 
-- [facility](/facility)：施設、設備
-- [tool](/tool)：道具、工具
+- [facility](/word/facility)：施設、設備
+- [tool](/word/tool)：道具、工具
 
 <!-- cvid: aid01_bid03 -->

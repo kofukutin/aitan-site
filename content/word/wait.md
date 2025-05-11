@@ -97,7 +97,7 @@ TOEICではPart 2の応答問題や指示文でよく登場します。基本的
 ## 🤔  expect との違いは？
 
 - **wait**：実際にその場で待機している状態を表す
-- **[expect](/expect)**：何かが起こると「予想・期待」している状態
+- **[expect](/word/expect)**：何かが起こると「予想・期待」している状態
 
 waitは「その場でじっと待つ」こと、expectは「心の中で期待する」ことに使い分けます。
 
@@ -105,14 +105,14 @@ waitは「その場でじっと待つ」こと、expectは「心の中で期待�
 
 ## 🧩 あわせて覚えたい
 
-- [delay](/delay)：遅らせる、延期する
-- [postpone](/postpone)：（予定を）後ろにずらす、延期する
+- [delay](/word/delay)：遅らせる、延期する
+- [postpone](/word/postpone)：（予定を）後ろにずらす、延期する
 
 ---
 
 ## 📖 できればこれも
 
-- [stay](/stay)：とどまる、滞在する
-- [hold](/hold)：持つ、保つ、開催する
+- [stay](/word/stay)：とどまる、滞在する
+- [hold](/word/hold)：持つ、保つ、開催する
 
 <!-- cvid: aid15_bid29 -->

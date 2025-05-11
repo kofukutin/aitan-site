@@ -97,7 +97,7 @@ TOEICでは「断る」「減少する」の両方の意味で出題されるこ
 ## 🤔  refused との違いは？
 
 - **declined**：丁寧・フォーマルに断る、または減少する
-- **[refused](/refused)**：強くはっきりと断る
+- **[refused](/word/refused)**：強くはっきりと断る
 
 declinedはやんわりとした断りや減少を表し、refusedは感情や意志が強く、きっぱりと拒否する場面で使います。
 
@@ -105,14 +105,14 @@ declinedはやんわりとした断りや減少を表し、refusedは感情や�
 
 ## 🧩 あわせて覚えたい
 
-- [reject](/reject)：拒絶する、却下する
-- [accept](/accept)：受け入れる
+- [reject](/word/reject)：拒絶する、却下する
+- [accept](/word/accept)：受け入れる
 
 ---
 
 ## 📖 できればこれも
 
-- [postpone](/postpone)：延期する
-- [approve](/approve)：承認する
+- [postpone](/word/postpone)：延期する
+- [approve](/word/approve)：承認する
 
 <!-- cvid: aid25_bid48 -->

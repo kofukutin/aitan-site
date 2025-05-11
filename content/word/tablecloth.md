@@ -96,7 +96,7 @@ TOEICのPart 1で、レストランやカフェの写真描写問題によく登
 ## 🤔  napkin との違いは？
 
 - **tablecloth**：テーブル全体を覆う布。主にテーブルの保護や装飾に使う。
-- **[napkin](/napkin)**：食事中に口や手を拭くための小さな布や紙。
+- **[napkin](/word/napkin)**：食事中に口や手を拭くための小さな布や紙。
 
 tableclothはテーブル全体を覆う大きな布、napkinは個人が使う小さな布や紙で、用途も大きさも異なります。
 
@@ -104,14 +104,14 @@ tableclothはテーブル全体を覆う大きな布、napkinは個人が使う�
 
 ## 🧩 あわせて覚えたい
 
-- [placemat](/placemat)：食器の下に敷く小さなマット
-- [curtain](/curtain)：窓や仕切りに使うカーテン
+- [placemat](/word/placemat)：食器の下に敷く小さなマット
+- [curtain](/word/curtain)：窓や仕切りに使うカーテン
 
 ---
 
 ## 📖 できればこれも
 
-- [dish](/dish)：皿
-- [fork](/fork)：フォーク
+- [dish](/word/dish)：皿
+- [fork](/word/fork)：フォーク
 
 <!-- cvid: aid14_bid39 -->

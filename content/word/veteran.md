@@ -97,7 +97,7 @@ TOEICでは、職場や業界での経験者を指す文脈や、退役軍人に
 ## 🤔  expert との違いは？
 
 - **veteran**：長い経験を持つ人、特に実務経験が豊富な人や退役軍人
-- **[expert](/expert)**：専門知識や技術に優れた人
+- **[expert](/word/expert)**：専門知識や技術に優れた人
 
 veteranは「長年の経験」に重きを置き、expertは「専門的な知識や技術」に焦点を当てます。
 
@@ -105,14 +105,14 @@ veteranは「長年の経験」に重きを置き、expertは「専門的な知�
 
 ## 🧩 あわせて覚えたい
 
-- [novice](/novice)：初心者
-- [professional](/professional)：専門職、プロ
+- [novice](/word/novice)：初心者
+- [professional](/word/professional)：専門職、プロ
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/candidate)：候補者
-- [manager](/manager)：管理職、マネージャー
+- [candidate](/word/candidate)：候補者
+- [manager](/word/manager)：管理職、マネージャー
 
 <!-- cvid: aid47_bid19 -->

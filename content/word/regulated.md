@@ -97,7 +97,7 @@ TOEICでは、ビジネスや法務関連の長文で「regulated industry（規
 ## 🤔  controlled との違いは？
 
 - **regulated**：法律やルールなどで公式に管理・規制されている
-- **[controlled](/controlled)**：一般的に管理・制御されている
+- **[controlled](/word/controlled)**：一般的に管理・制御されている
 
 regulatedは「外部のルールや法律による管理」、controlledは「誰かや何かによる一般的な管理・制御」という違いがあります。
 
@@ -105,14 +105,14 @@ regulatedは「外部のルールや法律による管理」、controlledは「�
 
 ## 🧩 あわせて覚えたい
 
-- [restricted](/restricted)：制限された
-- [supervised](/supervised)：監督された
+- [restricted](/word/restricted)：制限された
+- [supervised](/word/supervised)：監督された
 
 ---
 
 ## 📖 できればこれも
 
-- [authorized](/authorized)：認可された
-- [monitored](/monitored)：監視された
+- [authorized](/word/authorized)：認可された
+- [monitored](/word/monitored)：監視された
 
 <!-- cvid: aid26_bid03 -->

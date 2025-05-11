@@ -97,7 +97,7 @@ Regular breast exams are important for early detection.
 ## 🤔  chest との違いは？
 
 - **breast**：胸部、特に乳房を指すことが多い
-- **[chest](/chest)**：胸全体や胸郭を指し、男女問わず使う
+- **[chest](/word/chest)**：胸全体や胸郭を指し、男女問わず使う
 
 「breast」は主に女性の乳房や胸部を指し、医学や料理で使われます。「chest」は体の前面全体の胸部を表し、より広い意味で使われます。
 
@@ -105,14 +105,14 @@ Regular breast exams are important for early detection.
 
 ## 🧩 あわせて覚えたい
 
-- [lung](/lung)：肺
-- [heart](/heart)：心臓
+- [lung](/word/lung)：肺
+- [heart](/word/heart)：心臓
 
 ---
 
 ## 📖 できればこれも
 
-- [shoulder](/shoulder)：肩
-- [stomach](/stomach)：胃、お腹
+- [shoulder](/word/shoulder)：肩
+- [stomach](/word/stomach)：胃、お腹
 
 <!-- cvid: aid02_bid49 -->

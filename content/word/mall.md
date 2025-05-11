@@ -96,7 +96,7 @@ TOEICではショッピングや施設案内の会話でよく登場します。
 ## 🤔  shopping center との違いは？
 
 - **mall**：アメリカ英語で使われる大型のショッピング施設。屋内型が多い。
-- **[shopping center](/shopping_center)**：イギリス英語でよく使われ、屋外型や小規模な商業施設も含む。
+- **[shopping center](/word/shopping_center)**：イギリス英語でよく使われ、屋外型や小規模な商業施設も含む。
 
 「mall」はアメリカで一般的な表現で、屋内型の大規模施設を指すことが多いですが、「shopping center」はイギリスで使われ、規模や形態が幅広いです。
 
@@ -104,14 +104,14 @@ TOEICではショッピングや施設案内の会話でよく登場します。
 
 ## 🧩 あわせて覚えたい
 
-- [plaza](/plaza)：広場やショッピングエリア
-- [store](/store)：店舗、店
+- [plaza](/word/plaza)：広場やショッピングエリア
+- [store](/word/store)：店舗、店
 
 ---
 
 ## 📖 できればこれも
 
-- [market](/market)：市場、マーケット
-- [shop](/shop)：お店、ショップ
+- [market](/word/market)：市場、マーケット
+- [shop](/word/shop)：お店、ショップ
 
 <!-- cvid: aid24_bid20 -->

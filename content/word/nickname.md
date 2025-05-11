@@ -97,7 +97,7 @@ ITやビジネスの場面で、ユーザー名やアカウント名として使
 ## 🤔  alias との違いは？
 
 - **nickname**：親しみやすいあだ名や呼び名。カジュアルな場面で使う。
-- **[alias](/alias)**：本名以外の別名や偽名。フォーマル・公式な文脈や法的な場面で使う。
+- **[alias](/word/alias)**：本名以外の別名や偽名。フォーマル・公式な文脈や法的な場面で使う。
 
 nicknameは友人同士やSNSなどで使うカジュアルな呼び名、aliasは身元を隠す場合や正式な別名に使われます。
 
@@ -105,14 +105,14 @@ nicknameは友人同士やSNSなどで使うカジュアルな呼び名、alias�
 
 ## 🧩 あわせて覚えたい
 
-- [pseudonym](/pseudonym)：ペンネーム、偽名
-- [username](/username)：ユーザー名、ログイン名
+- [pseudonym](/word/pseudonym)：ペンネーム、偽名
+- [username](/word/username)：ユーザー名、ログイン名
 
 ---
 
 ## 📖 できればこれも
 
-- [profile](/profile)：プロフィール、人物紹介
-- [account](/account)：アカウント、口座
+- [profile](/word/profile)：プロフィール、人物紹介
+- [account](/word/account)：アカウント、口座
 
 <!-- cvid: aid01_bid37 -->

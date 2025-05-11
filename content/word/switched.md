@@ -98,7 +98,7 @@ TOEICでは、機器やシステムの「切り替え」や「変更」に関す
 ## 🤔  changed との違いは？
 
 - **switched**：何かを別のものに切り替える、交換するニュアンス
-- **[changed](/changed)**：一般的に「変える」「変更する」という幅広い意味
+- **[changed](/word/changed)**：一般的に「変える」「変更する」という幅広い意味
 
 switchedは「AからBへ切り替える」といった具体的な交換や移行に使われ、changedは内容や状態の変化全般に使われます。
 
@@ -106,14 +106,14 @@ switchedは「AからBへ切り替える」といった具体的な交換や移�
 
 ## 🧩 あわせて覚えたい
 
-- [replace](/replace)：取り替える、交換する
-- [convert](/convert)：変換する、転換する
+- [replace](/word/replace)：取り替える、交換する
+- [convert](/word/convert)：変換する、転換する
 
 ---
 
 ## 📖 できればこれも
 
-- [connect](/connect)：接続する、つなぐ
-- [update](/update)：更新する、新しくする
+- [connect](/word/connect)：接続する、つなぐ
+- [update](/word/update)：更新する、新しくする
 
 <!-- cvid: aid49_bid14 -->

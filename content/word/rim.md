@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、物の「ふち」や「輪」を説
 ## 🤔  edge との違いは？
 
 - **rim**：円形や曲線の物体の「ふち」や「輪」に使う
-- **[edge](/edge)**：直線的な「端」や「境界」に使う
+- **[edge](/word/edge)**：直線的な「端」や「境界」に使う
 
 rimはコップや車輪など丸い物の外周部分、edgeは紙やテーブルなど直線的な端に使い分けます。
 
@@ -105,14 +105,14 @@ rimはコップや車輪など丸い物の外周部分、edgeは紙やテーブ�
 
 ## 🧩 あわせて覚えたい
 
-- [border](/border)：境界、枠
-- [frame](/frame)：枠、骨組み
+- [border](/word/border)：境界、枠
+- [frame](/word/frame)：枠、骨組み
 
 ---
 
 ## 📖 できればこれも
 
-- [circle](/circle)：円、輪
-- [surface](/surface)：表面
+- [circle](/word/circle)：円、輪
+- [surface](/word/surface)：表面
 
 <!-- cvid: aid05_bid07 -->

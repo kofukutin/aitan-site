@@ -97,7 +97,7 @@ TOEICでは、所有権や財産に関する文脈で出題されることが多
 ## 🤔  property との違いは？
 
 - **possession**：実際に持っていることや持ち物そのものを指す
-- **[property](/property)**：主に土地や建物などの不動産や財産全般を指す
+- **[property](/word/property)**：主に土地や建物などの不動産や財産全般を指す
 
 「possession」は「今手元にあるもの」や「所有している状態」に焦点があり、「property」は法的な財産や不動産を指すことが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、所有権や財産に関する文脈で出題されることが多
 
 ## 🧩 あわせて覚えたい
 
-- [ownership](/ownership)：所有権
-- [asset](/asset)：資産
+- [ownership](/word/ownership)：所有権
+- [asset](/word/asset)：資産
 
 ---
 
 ## 📖 できればこれも
 
-- [obligation](/obligation)：義務
-- [liability](/liability)：負債
+- [obligation](/word/obligation)：義務
+- [liability](/word/liability)：負債
 
 <!-- cvid: aid30_bid03 -->

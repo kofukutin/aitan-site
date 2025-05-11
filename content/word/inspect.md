@@ -97,7 +97,7 @@ TOEICでは「inspect」は品質管理や安全点検、現場調査などの�
 ## 🤔  examine との違いは？
 
 - **inspect**：公式・業務的に細かく調べる、検査する
-- **[examine](/examine)**：詳しく観察・分析する、調査する
+- **[examine](/word/examine)**：詳しく観察・分析する、調査する
 
 「inspect」は公式な検査や点検など、業務的なニュアンスが強いのに対し、「examine」は学術的・医学的な調査や、じっくり観察する場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは「inspect」は品質管理や安全点検、現場調査などの�
 
 ## 🧩 あわせて覚えたい
 
-- [review](/review)：見直す、再調査する
-- [overlook](/overlook)：見落とす、見渡す
+- [review](/word/review)：見直す、再調査する
+- [overlook](/word/overlook)：見落とす、見渡す
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/approve)：承認する
-- [confirm](/confirm)：確認する
+- [approve](/word/approve)：承認する
+- [confirm](/word/confirm)：確認する
 
 <!-- cvid: aid22_bid45 -->

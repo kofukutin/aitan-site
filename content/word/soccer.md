@@ -96,7 +96,7 @@ TOEICでは、趣味やスポーツに関する話題や、イベント案内の
 ## 🤔  football との違いは？
 
 - **soccer**：アメリカやカナダで「サッカー」を指す言葉。
-- **[football](/football)**：イギリスや多くの国で「サッカー」を指すが、アメリカでは「アメリカンフットボール」を意味する。
+- **[football](/word/football)**：イギリスや多くの国で「サッカー」を指すが、アメリカでは「アメリカンフットボール」を意味する。
 
 アメリカ英語では「soccer」、イギリス英語では「football」と呼ぶのが一般的です。国によって指すスポーツが異なるので注意しましょう。
 
@@ -104,14 +104,14 @@ TOEICでは、趣味やスポーツに関する話題や、イベント案内の
 
 ## 🧩 あわせて覚えたい
 
-- [baseball](/baseball)：野球
-- [athlete](/athlete)：運動選手
+- [baseball](/word/baseball)：野球
+- [athlete](/word/athlete)：運動選手
 
 ---
 
 ## 📖 できればこれも
 
-- [basketball](/basketball)：バスケットボール
-- [coach](/coach)：コーチ、指導者
+- [basketball](/word/basketball)：バスケットボール
+- [coach](/word/coach)：コーチ、指導者
 
 <!-- cvid: aid38_bid30 -->

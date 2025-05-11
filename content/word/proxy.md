@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やIT関連の長文で「代理人」「委�
 ## 🤔  agent との違いは？
 
 - **proxy**：本人の代わりに一時的・限定的に行動する代理人や仕組み
-- **[agent](/agent)**：継続的・職業的に他者のために行動する代理人
+- **[agent](/word/agent)**：継続的・職業的に他者のために行動する代理人
 
 proxyは一時的・限定的な代理やITの中継役を指し、agentは職業的・継続的な代理人を指します。
 
@@ -105,14 +105,14 @@ proxyは一時的・限定的な代理やITの中継役を指し、agentは職�
 
 ## 🧩 あわせて覚えたい
 
-- [representative](/representative)：代表者、代理人
-- [delegate](/delegate)：代表者、使節
+- [representative](/word/representative)：代表者、代理人
+- [delegate](/word/delegate)：代表者、使節
 
 ---
 
 ## 📖 できればこれも
 
-- [server](/server)：サーバ、給仕
-- [authorize](/authorize)：権限を与える、許可する
+- [server](/word/server)：サーバ、給仕
+- [authorize](/word/authorize)：権限を与える、許可する
 
 <!-- cvid: aid25_bid18 -->

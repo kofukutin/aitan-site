@@ -97,7 +97,7 @@ TOEICではPart 7の広告や案内文、Eメールなどで「catalog」が商�
 ## 🤔  brochure との違いは？
 
 - **catalog**：商品や本などの一覧を体系的にまとめた冊子やリスト
-- **[brochure](/brochure)**：宣伝や案内を目的とした小冊子やパンフレット
+- **[brochure](/word/brochure)**：宣伝や案内を目的とした小冊子やパンフレット
 
 catalogは「一覧性・網羅性」が重視され、brochureは「宣伝・紹介」が主目的です。
 
@@ -105,14 +105,14 @@ catalogは「一覧性・網羅性」が重視され、brochureは「宣伝・�
 
 ## 🧩 あわせて覚えたい
 
-- [list](/list)：リスト、一覧
-- [inventory](/inventory)：在庫一覧、棚卸表
+- [list](/word/list)：リスト、一覧
+- [inventory](/word/inventory)：在庫一覧、棚卸表
 
 ---
 
 ## 📖 できればこれも
 
-- [manual](/manual)：取扱説明書
-- [leaflet](/leaflet)：チラシ、小冊子
+- [manual](/word/manual)：取扱説明書
+- [leaflet](/word/leaflet)：チラシ、小冊子
 
 <!-- cvid: aid32_bid22 -->

@@ -97,7 +97,7 @@ TOEICではPart 7の求人広告や社内通知などで「temp」が登場す�
 ## 🤔  substitute との違いは？
 
 - **temp**：短期間だけ雇われる臨時スタッフや派遣社員を指すカジュアルな言い方
-- **[substitute](/substitute)**：何かや誰かの「代わり」になる人や物を指し、状況や対象を問わず幅広く使う
+- **[substitute](/word/substitute)**：何かや誰かの「代わり」になる人や物を指し、状況や対象を問わず幅広く使う
 
 「temp」は主に雇用形態に焦点を当てた言葉で、職場で一時的に働く人を指します。「substitute」は「代役」「代理人」など、置き換えや代用の意味が強いです。
 
@@ -105,14 +105,14 @@ TOEICではPart 7の求人広告や社内通知などで「temp」が登場す�
 
 ## 🧩 あわせて覚えたい
 
-- [intern](/intern)：インターン、研修生
-- [contractor](/contractor)：契約社員、請負業者
+- [intern](/word/intern)：インターン、研修生
+- [contractor](/word/contractor)：契約社員、請負業者
 
 ---
 
 ## 📖 できればこれも
 
-- [staff](/staff)：スタッフ、職員
-- [employee](/employee)：従業員
+- [staff](/word/staff)：スタッフ、職員
+- [employee](/word/employee)：従業員
 
 <!-- cvid: aid03_bid15 -->

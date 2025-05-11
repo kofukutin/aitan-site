@@ -98,7 +98,7 @@ swapは会話文やビジネスシーンで「交換する」という意味で�
 ## 🤔  exchange との違いは？
 
 - **swap**：カジュアルに物や情報を「お互いに交換する」ニュアンスが強い
-- **[exchange](/exchange)**：ややフォーマルで、幅広く「交換する」「やり取りする」に使える
+- **[exchange](/word/exchange)**：ややフォーマルで、幅広く「交換する」「やり取りする」に使える
 
 swapは日常的な「取り替えっこ」や気軽な交換に使われ、exchangeはビジネスやフォーマルな場面でも使われます。
 
@@ -106,14 +106,14 @@ swapは日常的な「取り替えっこ」や気軽な交換に使われ、exch
 
 ## 🧩 あわせて覚えたい
 
-- [replace](/replace)：取り替える、差し替える
-- [trade](/trade)：取引する、売買する
+- [replace](/word/replace)：取り替える、差し替える
+- [trade](/word/trade)：取引する、売買する
 
 ---
 
 ## 📖 できればこれも
 
-- [share](/share)：共有する、分け合う
-- [switch](/switch)：切り替える、交換する
+- [share](/word/share)：共有する、分け合う
+- [switch](/word/switch)：切り替える、交換する
 
 <!-- cvid: aid20_bid27 -->

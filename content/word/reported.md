@@ -97,7 +97,7 @@ TOEICでは、メールや報告書、記事などで「報告された」「伝
 ## 🤔  announced との違いは？
 
 - **reported**：事実や出来事を客観的に「報告する」「伝える」意味が強い
-- **[announced](/announced)**：新しい情報や決定事項を「公式に発表する」意味が強い
+- **[announced](/word/announced)**：新しい情報や決定事項を「公式に発表する」意味が強い
 
 reportedは出来事や状況を伝える際に使い、announcedは新しい方針やイベントなどを公に発表する時に使います。
 
@@ -105,14 +105,14 @@ reportedは出来事や状況を伝える際に使い、announcedは新しい方
 
 ## 🧩 あわせて覚えたい
 
-- [inform](/inform)：知らせる、通知する
-- [notify](/notify)：正式に通知する
+- [inform](/word/inform)：知らせる、通知する
+- [notify](/word/notify)：正式に通知する
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/submit)：提出する
-- [confirm](/confirm)：確認する
+- [submit](/word/submit)：提出する
+- [confirm](/word/confirm)：確認する
 
 <!-- cvid: aid33_bid38 -->

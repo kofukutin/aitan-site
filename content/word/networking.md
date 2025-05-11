@@ -97,7 +97,7 @@ TOEICではビジネスイベントやキャリア関連の記事・メールで
 ## 🤔  connection との違いは？
 
 - **networking**：人脈作りや交流の「活動」や「プロセス」を指す
-- **[connection](/connection)**：人や物事の「つながり」や「関係」そのものを指す
+- **[connection](/word/connection)**：人や物事の「つながり」や「関係」そのものを指す
 
 networkingは「人脈を作る行動」、connectionは「できた人脈や関係性」を表します。
 
@@ -105,14 +105,14 @@ networkingは「人脈を作る行動」、connectionは「できた人脈や関
 
 ## 🧩 あわせて覚えたい
 
-- [collaboration](/collaboration)：協力、共同作業
-- [partnership](/partnership)：提携、協力関係
+- [collaboration](/word/collaboration)：協力、共同作業
+- [partnership](/word/partnership)：提携、協力関係
 
 ---
 
 ## 📖 できればこれも
 
-- [conference](/conference)：会議、学会
-- [seminar](/seminar)：セミナー、講習会
+- [conference](/word/conference)：会議、学会
+- [seminar](/word/seminar)：セミナー、講習会
 
 <!-- cvid: aid12_bid18 -->

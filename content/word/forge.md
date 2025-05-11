@@ -97,7 +97,7 @@ TOEICでは「関係を築く」「契約を結ぶ」などの意味でビジネ
 ## 🤔  fabricate との違いは？
 
 - **forge**：関係や契約を「築く」、または「偽造する」など幅広い意味で使う
-- **[fabricate](/fabricate)**：主に「でっちあげる」「偽造する」など、作り話や虚偽の作成に使う
+- **[fabricate](/word/fabricate)**：主に「でっちあげる」「偽造する」など、作り話や虚偽の作成に使う
 
 forgeは肯定的な「築く」と否定的な「偽造する」の両方の意味があり、fabricateは主に「嘘や偽りを作る」否定的な意味で使われます。
 
@@ -105,14 +105,14 @@ forgeは肯定的な「築く」と否定的な「偽造する」の両方の意
 
 ## 🧩 あわせて覚えたい
 
-- [counterfeit](/counterfeit)：偽造する、特にお金や商品に使う
-- [establish](/establish)：設立する、確立する
+- [counterfeit](/word/counterfeit)：偽造する、特にお金や商品に使う
+- [establish](/word/establish)：設立する、確立する
 
 ---
 
 ## 📖 できればこれも
 
-- [form](/form)：形作る、結成する
-- [create](/create)：創造する、作り出す
+- [form](/word/form)：形作る、結成する
+- [create](/word/create)：創造する、作り出す
 
 <!-- cvid: aid33_bid35 -->

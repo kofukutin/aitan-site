@@ -97,7 +97,7 @@ TOEICでは大学や教育機関、企業の福利厚生などに関する長文
 ## 🤔  grant との違いは？
 
 - **scholarship**：主に学生や研究者への学業・研究目的の金銭的支援。
-- **[grant](/grant)**：研究・事業・プロジェクトなど幅広い目的で与えられる助成金。
+- **[grant](/word/grant)**：研究・事業・プロジェクトなど幅広い目的で与えられる助成金。
 
 scholarshipは「学業・教育」に特化した支援、grantは「目的を問わない幅広い助成金」として使い分けます。
 
@@ -105,14 +105,14 @@ scholarshipは「学業・教育」に特化した支援、grantは「目的を�
 
 ## 🧩 あわせて覚えたい
 
-- [fellowship](/fellowship)：研究者や大学院生向けの奨学金・研究助成
-- [tuition](/tuition)：授業料
+- [fellowship](/word/fellowship)：研究者や大学院生向けの奨学金・研究助成
+- [tuition](/word/tuition)：授業料
 
 ---
 
 ## 📖 できればこれも
 
-- [degree](/degree)：学位
-- [application](/application)：申請書
+- [degree](/word/degree)：学位
+- [application](/word/application)：申請書
 
 <!-- cvid: aid38_bid41 -->

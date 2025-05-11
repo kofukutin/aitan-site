@@ -98,7 +98,7 @@ TOEICでは、企業文化やチームワーク、モチベーションに関す
 ## 🤔  mind との違いは？
 
 - **spirit**：気力や意気込み、魂など、感情や内面のエネルギーを表す。
-- **[mind](/mind)**：思考や知性、考え方など、理性的な心を表す。
+- **[mind](/word/mind)**：思考や知性、考え方など、理性的な心を表す。
 
 spiritは「やる気」や「団結力」など感情的・情熱的な側面、mindは「考える力」や「知性」など論理的な側面を強調します。
 
@@ -106,14 +106,14 @@ spiritは「やる気」や「団結力」など感情的・情熱的な側面�
 
 ## 🧩 あわせて覚えたい
 
-- [soul](/soul)：魂、精神（人間の本質や不滅の部分）
-- [enthusiasm](/enthusiasm)：熱意、情熱
+- [soul](/word/soul)：魂、精神（人間の本質や不滅の部分）
+- [enthusiasm](/word/enthusiasm)：熱意、情熱
 
 ---
 
 ## 📖 できればこれも
 
-- [attitude](/attitude)：態度、考え方
-- [motivation](/motivation)：動機、やる気
+- [attitude](/word/attitude)：態度、考え方
+- [motivation](/word/motivation)：動機、やる気
 
 <!-- cvid: aid30_bid01 -->

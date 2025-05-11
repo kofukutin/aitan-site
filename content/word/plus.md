@@ -93,7 +93,7 @@ TOEICでは、価格や数量の説明、条件を追加する場面でよく出
 ## 🤔  add との違いは？
 
 - **plus**：前置詞や接続詞として「～に加えて」「さらに」を表す。
-- **[add](/add)**：動詞で「加える」「足す」という動作を表す。
+- **[add](/word/add)**：動詞で「加える」「足す」という動作を表す。
 
 「plus」は名詞や数の前に置いて「～プラス～」と情報を追加する時に使い、「add」は実際に何かを加える動作や計算の時に使います。
 
@@ -101,14 +101,14 @@ TOEICでは、価格や数量の説明、条件を追加する場面でよく出
 
 ## 🧩 あわせて覚えたい
 
-- [minus](/minus)：マイナス、引く
-- [additional](/additional)：追加の、さらに
+- [minus](/word/minus)：マイナス、引く
+- [additional](/word/additional)：追加の、さらに
 
 ---
 
 ## 📖 できればこれも
 
-- [total](/total)：合計、総計
-- [include](/include)：含む、含める
+- [total](/word/total)：合計、総計
+- [include](/word/include)：含む、含める
 
 <!-- cvid: aid22_bid21 -->

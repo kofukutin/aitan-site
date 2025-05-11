@@ -97,7 +97,7 @@ TOEICの写真描写問題で「着ている」「身につけている」状態
 ## 🤔  putting on との違いは？
 
 - **wearing**：すでに身につけている状態を表す
-- **[putting on](/putting_on)**：今まさに身につける動作をしている
+- **[putting on](/word/putting_on)**：今まさに身につける動作をしている
 
 「wearing」は「着ている」状態、「putting on」は「今着ている最中」という動作の違いがあります。
 
@@ -105,14 +105,14 @@ TOEICの写真描写問題で「着ている」「身につけている」状態
 
 ## 🧩 あわせて覚えたい
 
-- [remove](/remove)：取り外す、外す
-- [carry](/carry)：運ぶ、持ち運ぶ
+- [remove](/word/remove)：取り外す、外す
+- [carry](/word/carry)：運ぶ、持ち運ぶ
 
 ---
 
 ## 📖 できればこれも
 
-- [hold](/hold)：持つ、握る
-- [bring](/bring)：持ってくる
+- [hold](/word/hold)：持つ、握る
+- [bring](/word/bring)：持ってくる
 
 <!-- cvid: aid19_bid22 -->

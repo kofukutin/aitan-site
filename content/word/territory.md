@@ -97,7 +97,7 @@ TOEICではビジネス文書やメール、記事などで「営業エリア」
 ## 🤔  region との違いは？
 
 - **territory**：特定の支配・管理・担当が及ぶ領域や範囲
-- **[region](/region)**：地理的・行政的な「地域」「地方」
+- **[region](/word/region)**：地理的・行政的な「地域」「地方」
 
 territoryは「誰かの支配や担当が及ぶ範囲」を強調し、regionは単なる地理的な区分を指します。
 
@@ -105,14 +105,14 @@ territoryは「誰かの支配や担当が及ぶ範囲」を強調し、region�
 
 ## 🧩 あわせて覚えたい
 
-- [area](/area)：面積、区域
-- [domain](/domain)：分野、領域
+- [area](/word/area)：面積、区域
+- [domain](/word/domain)：分野、領域
 
 ---
 
 ## 📖 できればこれも
 
-- [border](/border)：国境、境界
-- [district](/district)：地区、区域
+- [border](/word/border)：国境、境界
+- [district](/word/district)：地区、区域
 
 <!-- cvid: aid10_bid40 -->

@@ -97,7 +97,7 @@ TOEICでは、スケジュールや計画、方針の「調整」や「修正」
 ## 🤔  modification との違いは？
 
 - **adjustment**：状況に合わせて少し変える調整や修正
-- **[modification](/modification)**：元のものに手を加えて部分的に変更すること
+- **[modification](/word/modification)**：元のものに手を加えて部分的に変更すること
 
 adjustmentは微調整や適応のニュアンスが強く、modificationはより明確な変更や改造を指します。
 
@@ -105,14 +105,14 @@ adjustmentは微調整や適応のニュアンスが強く、modificationはよ�
 
 ## 🧩 あわせて覚えたい
 
-- [correction](/correction)：訂正、修正
-- [adaptation](/adaptation)：適応、順応
+- [correction](/word/correction)：訂正、修正
+- [adaptation](/word/adaptation)：適応、順応
 
 ---
 
 ## 📖 できればこれも
 
-- [arrangement](/arrangement)：手配、準備
-- [revision](/revision)：改訂、見直し
+- [arrangement](/word/arrangement)：手配、準備
+- [revision](/word/revision)：改訂、見直し
 
 <!-- cvid: aid12_bid45 -->

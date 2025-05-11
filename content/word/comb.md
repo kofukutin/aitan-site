@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「くしで髪をとかしている」
 ## 🤔  brush との違いは？
 
 - **comb**：細い歯が並んだ「くし」で、髪を整えるのに使う。
-- **[brush](/brush)**：毛がついた「ブラシ」で、髪や物を磨いたり掃除したりするのに使う。
+- **[brush](/word/brush)**：毛がついた「ブラシ」で、髪や物を磨いたり掃除したりするのに使う。
 
 combは髪をすっと整える道具、brushは髪をふんわりさせたり、広い面を磨いたりする道具です。
 
@@ -105,14 +105,14 @@ combは髪をすっと整える道具、brushは髪をふんわりさせたり�
 
 ## 🧩 あわせて覚えたい
 
-- [hair](/hair)：髪
-- [groom](/groom)：身だしなみを整える
+- [hair](/word/hair)：髪
+- [groom](/word/groom)：身だしなみを整える
 
 ---
 
 ## 📖 できればこれも
 
-- [mirror](/mirror)：鏡
-- [shampoo](/shampoo)：シャンプー
+- [mirror](/word/mirror)：鏡
+- [shampoo](/word/shampoo)：シャンプー
 
 <!-- cvid: aid48_bid29 -->

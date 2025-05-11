@@ -97,7 +97,7 @@ TOEICでは、映画や本の紹介文、広告などでthrillerが登場する�
 ## 🤔  mystery との違いは？
 
 - **thriller**：スリルや興奮を感じさせる物語や映画
-- **[mystery](/mystery)**：謎解きや秘密が中心の物語や映画
+- **[mystery](/word/mystery)**：謎解きや秘密が中心の物語や映画
 
 thrillerは「ドキドキ感」や「緊張感」に重点があり、mysteryは「謎解き」や「推理」に重点があります。
 
@@ -105,14 +105,14 @@ thrillerは「ドキドキ感」や「緊張感」に重点があり、mystery�
 
 ## 🧩 あわせて覚えたい
 
-- [horror](/horror)：恐怖をテーマにした作品
-- [suspense](/suspense)：緊張感や不安感を持たせる作品
+- [horror](/word/horror)：恐怖をテーマにした作品
+- [suspense](/word/suspense)：緊張感や不安感を持たせる作品
 
 ---
 
 ## 📖 できればこれも
 
-- [novel](/novel)：小説
-- [detective](/detective)：探偵
+- [novel](/word/novel)：小説
+- [detective](/word/detective)：探偵
 
 <!-- cvid: aid23_bid23 -->

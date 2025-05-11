@@ -97,7 +97,7 @@ TOEICでは「収容人数」「能力」「役割」などの意味で、文脈
 ## 🤔  ability との違いは？
 
 - **capacity**：最大限できること・入れられる量や能力を表すフォーマルな語
-- **[ability](/ability)**：個人の持つ具体的な能力やスキル
+- **[ability](/word/ability)**：個人の持つ具体的な能力やスキル
 
 「capacity」は「最大限の可能性」や「役割」など広い意味で使われ、「ability」は「実際の技術や才能」に焦点を当てます。
 
@@ -105,14 +105,14 @@ TOEICでは「収容人数」「能力」「役割」などの意味で、文脈
 
 ## 🧩 あわせて覚えたい
 
-- [limit](/limit)：限界、制限
-- [volume](/volume)：容積、量
+- [limit](/word/limit)：限界、制限
+- [volume](/word/volume)：容積、量
 
 ---
 
 ## 📖 できればこれも
 
-- [facility](/facility)：施設、設備
-- [efficiency](/efficiency)：効率、能率
+- [facility](/word/facility)：施設、設備
+- [efficiency](/word/efficiency)：効率、能率
 
 <!-- cvid: aid05_bid38 -->

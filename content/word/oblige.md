@@ -97,7 +97,7 @@ obligeはTOEICの文法・語彙問題で「義務づける」「～せざるを
 ## 🤔  require との違いは？
 
 - **oblige**：外部からの圧力や状況によって「やむを得ず～させる」「義務を課す」ニュアンスが強い
-- **[require](/require)**：必要条件として「～を要求する」「必要とする」意味で、より一般的
+- **[require](/word/require)**：必要条件として「～を要求する」「必要とする」意味で、より一般的
 
 obligeは「外部からの強制力」や「仕方なく従う」ニュアンスがあり、requireは「必要条件として求める」場合に使います。
 
@@ -105,14 +105,14 @@ obligeは「外部からの強制力」や「仕方なく従う」ニュアン�
 
 ## 🧩 あわせて覚えたい
 
-- [compel](/compel)：強制する
-- [permit](/permit)：許可する
+- [compel](/word/compel)：強制する
+- [permit](/word/permit)：許可する
 
 ---
 
 ## 📖 できればこれも
 
-- [enforce](/enforce)：施行する、実施する
-- [authorize](/authorize)：権限を与える
+- [enforce](/word/enforce)：施行する、実施する
+- [authorize](/word/authorize)：権限を与える
 
 <!-- cvid: aid47_bid32 -->

@@ -97,7 +97,7 @@ TOEICでは、メールや手紙、配送に関する長文で「address」が�
 ## 🤔  location との違いは？
 
 - **address**：郵便物や連絡のための「住所」「宛先」を指す
-- **[location](/location)**：地理的な「場所」「位置」を指す
+- **[location](/word/location)**：地理的な「場所」「位置」を指す
 
 addressは郵送や連絡のための正式な住所、locationは地図上の場所や位置を表します。
 
@@ -105,14 +105,14 @@ addressは郵送や連絡のための正式な住所、locationは地図上の�
 
 ## 🧩 あわせて覚えたい
 
-- [contact](/contact)：連絡先
-- [recipient](/recipient)：受取人
+- [contact](/word/contact)：連絡先
+- [recipient](/word/recipient)：受取人
 
 ---
 
 ## 📖 できればこれも
 
-- [mail](/mail)：郵便、手紙
-- [envelope](/envelope)：封筒
+- [mail](/word/mail)：郵便、手紙
+- [envelope](/word/envelope)：封筒
 
 <!-- cvid: aid33_bid24 -->

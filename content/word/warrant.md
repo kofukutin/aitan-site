@@ -97,7 +97,7 @@ TOEICでは主に法務やビジネス文書の中で「warrant」が登場し�
 ## 🤔  guarantee との違いは？
 
 - **warrant**：法的・公式な「令状」や「正当な理由」「保証」を意味し、特に根拠や権限を強調する。
-- **[guarantee](/guarantee)**：主に「保証（する）」の意味で、製品やサービスの品質・安全性などを約束する際に使う。
+- **[guarantee](/word/guarantee)**：主に「保証（する）」の意味で、製品やサービスの品質・安全性などを約束する際に使う。
 
 warrantは法的・公式な場面での「根拠」や「権限」を示し、guaranteeは一般的な「保証」や「約束」に使われます。
 
@@ -105,14 +105,14 @@ warrantは法的・公式な場面での「根拠」や「権限」を示し、g
 
 ## 🧩 あわせて覚えたい
 
-- [permit](/permit)：許可証、許可
-- [authorization](/authorization)：認可、権限付与
+- [permit](/word/permit)：許可証、許可
+- [authorization](/word/authorization)：認可、権限付与
 
 ---
 
 ## 📖 できればこれも
 
-- [evidence](/evidence)：証拠
-- [certificate](/certificate)：証明書
+- [evidence](/word/evidence)：証拠
+- [certificate](/word/certificate)：証明書
 
 <!-- cvid: aid30_bid45 -->

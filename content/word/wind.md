@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、天気や屋外の様子を説明する
 ## 🤔  breeze との違いは？
 
 - **wind**：空気の流れ全般を指し、強さに関係なく使える。
-- **[breeze](/breeze)**：やさしい・弱い風を指す。
+- **[breeze](/word/breeze)**：やさしい・弱い風を指す。
 
 「wind」は強い風も弱い風も含みますが、「breeze」は心地よい弱い風だけを表します。
 
@@ -105,14 +105,14 @@ TOEICでは主に写真描写問題で、天気や屋外の様子を説明する
 
 ## 🧩 あわせて覚えたい
 
-- [storm](/storm)：嵐、暴風
-- [air](/air)：空気
+- [storm](/word/storm)：嵐、暴風
+- [air](/word/air)：空気
 
 ---
 
 ## 📖 できればこれも
 
-- [rain](/rain)：雨
-- [cloud](/cloud)：雲
+- [rain](/word/rain)：雨
+- [cloud](/word/cloud)：雲
 
 <!-- cvid: aid02_bid48 -->

@@ -97,7 +97,7 @@ TOEICではホテルやレストランの案内、観光パンフレットなど
 ## 🤔  gourmet との違いは？
 
 - **culinary**：料理や調理そのものに関する形容詞
-- **[gourmet](/gourmet)**：美食家や高級料理を指す名詞・形容詞
+- **[gourmet](/word/gourmet)**：美食家や高級料理を指す名詞・形容詞
 
 「culinary」は料理や調理技術など広く料理分野全体を指し、「gourmet」は特に高級料理や美食家に焦点を当てます。
 
@@ -105,14 +105,14 @@ TOEICではホテルやレストランの案内、観光パンフレットなど
 
 ## 🧩 あわせて覚えたい
 
-- [edible](/edible)：食べられる
-- [cuisine](/cuisine)：料理（特定の国や地域の）
+- [edible](/word/edible)：食べられる
+- [cuisine](/word/cuisine)：料理（特定の国や地域の）
 
 ---
 
 ## 📖 できればこれも
 
-- [delicious](/delicious)：おいしい
-- [recipe](/recipe)：レシピ、調理法
+- [delicious](/word/delicious)：おいしい
+- [recipe](/word/recipe)：レシピ、調理法
 
 <!-- cvid: aid06_bid18 -->

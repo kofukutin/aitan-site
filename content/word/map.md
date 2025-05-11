@@ -97,7 +97,7 @@ TOEICでは、道案内や場所の説明、観光案内などの場面でよく
 ## 🤔  chart との違いは？
 
 - **map**：地理的な場所や位置関係を示す図
-- **[chart](/chart)**：データや情報を整理して示す図表
+- **[chart](/word/chart)**：データや情報を整理して示す図表
 
 mapは地形や場所を示すのに使い、chartは数値や情報の比較・分析に使います。
 
@@ -105,14 +105,14 @@ mapは地形や場所を示すのに使い、chartは数値や情報の比較・
 
 ## 🧩 あわせて覚えたい
 
-- [plan](/plan)：計画、案
-- [guide](/guide)：案内、ガイド
+- [plan](/word/plan)：計画、案
+- [guide](/word/guide)：案内、ガイド
 
 ---
 
 ## 📖 できればこれも
 
-- [route](/route)：道順、ルート
-- [area](/area)：地域、エリア
+- [route](/word/route)：道順、ルート
+- [area](/word/area)：地域、エリア
 
 <!-- cvid: aid27_bid24 -->

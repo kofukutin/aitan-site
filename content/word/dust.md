@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、部屋やオフィスの清掃、環
 ## 🤔  dirt との違いは？
 
 - **dust**：空気中や物の表面にたまる細かいほこりやちり
-- **[dirt](/dirt)**：土や泥、汚れ全般
+- **[dirt](/word/dirt)**：土や泥、汚れ全般
 
 dustは主に細かい粒子状のほこりを指し、dirtは土や泥、または広い意味での「汚れ」を指します。
 
@@ -105,14 +105,14 @@ dustは主に細かい粒子状のほこりを指し、dirtは土や泥、また
 
 ## 🧩 あわせて覚えたい
 
-- [powder](/powder)：粉、粉末
-- [ash](/ash)：灰
+- [powder](/word/powder)：粉、粉末
+- [ash](/word/ash)：灰
 
 ---
 
 ## 📖 できればこれも
 
-- [sand](/sand)：砂
-- [mud](/mud)：泥
+- [sand](/word/sand)：砂
+- [mud](/word/mud)：泥
 
 <!-- cvid: aid36_bid28 -->

@@ -96,7 +96,7 @@ TOEICでは、新聞記事やテレビ番組紹介などの長文で「documenta
 ## 🤔  report との違いは？
 
 - **documentary**：映像や音声で事実を記録・紹介する作品
-- **[report](/report)**：出来事や調査結果をまとめた文書や口頭の報告
+- **[report](/word/report)**：出来事や調査結果をまとめた文書や口頭の報告
 
 documentaryは主に映像やラジオなどのメディア作品、reportは文章や口頭での報告・レポートに使われます。
 
@@ -104,14 +104,14 @@ documentaryは主に映像やラジオなどのメディア作品、reportは文
 
 ## 🧩 あわせて覚えたい
 
-- [broadcast](/broadcast)：放送、放送する
-- [feature](/feature)：特集、特集する
+- [broadcast](/word/broadcast)：放送、放送する
+- [feature](/word/feature)：特集、特集する
 
 ---
 
 ## 📖 できればこれも
 
-- [editor](/editor)：編集者
-- [journalist](/journalist)：ジャーナリスト
+- [editor](/word/editor)：編集者
+- [journalist](/word/journalist)：ジャーナリスト
 
 <!-- cvid: aid27_bid17 -->

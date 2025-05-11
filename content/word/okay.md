@@ -97,7 +97,7 @@ okayは、TOEICのリスニング（特にPart 2）で「同意」や「承諾�
 ## 🤔  agree との違いは？
 
 - **okay**：カジュアルに「大丈夫」「OK」と伝える表現
-- **[agree](/agree)**：意見や提案に「賛成する」とややフォーマルに伝える
+- **[agree](/word/agree)**：意見や提案に「賛成する」とややフォーマルに伝える
 
 okayは気軽な同意や承諾、agreeは意見への賛成や同意をややフォーマルに表現します。
 
@@ -105,14 +105,14 @@ okayは気軽な同意や承諾、agreeは意見への賛成や同意をやや�
 
 ## 🧩 あわせて覚えたい
 
-- [fine](/fine)：元気な、問題ない
-- [approve](/approve)：承認する、認める
+- [fine](/word/fine)：元気な、問題ない
+- [approve](/word/approve)：承認する、認める
 
 ---
 
 ## 📖 できればこれも
 
-- [sure](/sure)：もちろん、いいですよ
-- [alright](/alright)：大丈夫、問題ない
+- [sure](/word/sure)：もちろん、いいですよ
+- [alright](/word/alright)：大丈夫、問題ない
 
 <!-- cvid: aid30_bid25 -->

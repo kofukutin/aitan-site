@@ -97,7 +97,7 @@ TOEICでは、ダイバーシティや人権、職場環境に関する長文で
 ## 🤔  equity との違いは？
 
 - **equality**：すべての人に同じものや機会を与える「平等」
-- **[equity](/equity)**：個々の状況や必要に応じて公正に扱う「公平」
+- **[equity](/word/equity)**：個々の状況や必要に応じて公正に扱う「公平」
 
 equalityは「全員に同じものを与える」こと、equityは「違いを考慮して公正に扱う」ことを指します。
 
@@ -105,14 +105,14 @@ equalityは「全員に同じものを与える」こと、equityは「違いを
 
 ## 🧩 あわせて覚えたい
 
-- [fairness](/fairness)：公正さ
-- [inequality](/inequality)：不平等
+- [fairness](/word/fairness)：公正さ
+- [inequality](/word/inequality)：不平等
 
 ---
 
 ## 📖 できればこれも
 
-- [diversity](/diversity)：多様性
-- [justice](/justice)：正義
+- [diversity](/word/diversity)：多様性
+- [justice](/word/justice)：正義
 
 <!-- cvid: aid39_bid11 -->

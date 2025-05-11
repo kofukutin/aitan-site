@@ -97,7 +97,7 @@ TOEICでは主に不動産広告や住居案内などの長文読解パートで
 ## 🤔  apartment との違いは？
 
 - **condo**：分譲型で各住戸が個人所有の集合住宅
-- **[apartment](/apartment)**：主に賃貸型の集合住宅
+- **[apartment](/word/apartment)**：主に賃貸型の集合住宅
 
 condoは「所有する」集合住宅、apartmentは「借りる」集合住宅という違いがあります。不動産広告や契約時に区別されます。
 
@@ -105,14 +105,14 @@ condoは「所有する」集合住宅、apartmentは「借りる」集合住宅
 
 ## 🧩 あわせて覚えたい
 
-- [house](/house)：一戸建て住宅
-- [suite](/suite)：スイートルーム、続き部屋
+- [house](/word/house)：一戸建て住宅
+- [suite](/word/suite)：スイートルーム、続き部屋
 
 ---
 
 ## 📖 できればこれも
 
-- [rent](/rent)：賃貸する、家賃
-- [lease](/lease)：賃貸契約、リースする
+- [rent](/word/rent)：賃貸する、家賃
+- [lease](/word/lease)：賃貸契約、リースする
 
 <!-- cvid: aid26_bid20 -->

@@ -97,7 +97,7 @@ beingは主に文法問題や語彙問題で、動名詞や名詞としての使
 ## 🤔  existence との違いは？
 
 - **being**：生きているものや意識を持つ存在を指すことが多い
-- **[existence](/existence)**：存在そのものや、抽象的な「あること」を指す
+- **[existence](/word/existence)**：存在そのものや、抽象的な「あること」を指す
 
 beingは「生き物」や「意識ある存在」に焦点を当てるのに対し、existenceは「存在」という状態や事実そのものを指します。
 
@@ -105,14 +105,14 @@ beingは「生き物」や「意識ある存在」に焦点を当てるのに対
 
 ## 🧩 あわせて覚えたい
 
-- [creature](/creature)：生き物、動物
-- [entity](/entity)：実体、存在
+- [creature](/word/creature)：生き物、動物
+- [entity](/word/entity)：実体、存在
 
 ---
 
 ## 📖 できればこれも
 
-- [exist](/exist)：存在する
-- [living](/living)：生きている、生活している
+- [exist](/word/exist)：存在する
+- [living](/word/living)：生きている、生活している
 
 <!-- cvid: aid34_bid32 -->

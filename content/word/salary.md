@@ -97,7 +97,7 @@ TOEICでは給与や雇用条件に関する文脈でよく出題されます。
 ## 🤔  wage との違いは？
 
 - **salary**：毎月や年単位で決まった額の給料（主にホワイトカラー職）
-- **[wage](/wage)**：時間給や日給など、働いた分だけ支払われる賃金（主にブルーカラー職）
+- **[wage](/word/wage)**：時間給や日給など、働いた分だけ支払われる賃金（主にブルーカラー職）
 
 salaryは安定した月給制、wageは時間や日数に応じて支払われる点が大きな違いです。
 
@@ -105,14 +105,14 @@ salaryは安定した月給制、wageは時間や日数に応じて支払われ�
 
 ## 🧩 あわせて覚えたい
 
-- [bonus](/bonus)：賞与、ボーナス
-- [income](/income)：収入、所得
+- [bonus](/word/bonus)：賞与、ボーナス
+- [income](/word/income)：収入、所得
 
 ---
 
 ## 📖 できればこれも
 
-- [position](/position)：職位、役職
-- [employee](/employee)：従業員
+- [position](/word/position)：職位、役職
+- [employee](/word/employee)：従業員
 
 <!-- cvid: aid02_bid25 -->

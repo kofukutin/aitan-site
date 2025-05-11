@@ -97,7 +97,7 @@ believedは、TOEICの文法問題や受動態表現でよく出題されます�
 ## 🤔  trusted との違いは？
 
 - **believed**：事実や情報を本当だと思う、信じる
-- **[trusted](/trusted)**：人や物を信用・信頼する
+- **[trusted](/word/trusted)**：人や物を信用・信頼する
 
 believedは「事実や情報を信じる」ニュアンスが強く、trustedは「人や物に対する信頼」を表します。
 
@@ -105,14 +105,14 @@ believedは「事実や情報を信じる」ニュアンスが強く、trusted�
 
 ## 🧩 あわせて覚えたい
 
-- [doubt](/doubt)：疑う
-- [assume](/assume)：仮定する、思い込む
+- [doubt](/word/doubt)：疑う
+- [assume](/word/assume)：仮定する、思い込む
 
 ---
 
 ## 📖 できればこれも
 
-- [consider](/consider)：よく考える、検討する
-- [suppose](/suppose)：思う、仮定する
+- [consider](/word/consider)：よく考える、検討する
+- [suppose](/word/suppose)：思う、仮定する
 
 <!-- cvid: aid49_bid42 -->

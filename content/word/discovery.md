@@ -97,7 +97,7 @@ TOEICでは主に科学やビジネスの文脈で「発見」や「新しい事
 ## 🤔  invention との違いは？
 
 - **discovery**：もともと存在していたものを見つけること
-- **[invention](/invention)**：新しく作り出すこと、発明
+- **[invention](/word/invention)**：新しく作り出すこと、発明
 
 discoveryは「自然界や既存のものを発見する」場合に使い、inventionは「人が新しく作り出す」場合に使います。
 
@@ -105,14 +105,14 @@ discoveryは「自然界や既存のものを発見する」場合に使い、in
 
 ## 🧩 あわせて覚えたい
 
-- [exploration](/exploration)：探検、調査
-- [revelation](/revelation)：意外な新事実、啓示
+- [exploration](/word/exploration)：探検、調査
+- [revelation](/word/revelation)：意外な新事実、啓示
 
 ---
 
 ## 📖 できればこれも
 
-- [experiment](/experiment)：実験
-- [research](/research)：研究
+- [experiment](/word/experiment)：実験
+- [research](/word/research)：研究
 
 <!-- cvid: aid43_bid27 -->

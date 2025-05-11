@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写問題で「腕を上げる」「腕に何かを
 ## 🤔  hand との違いは？
 
 - **arm**：肩から手首までの「腕」全体を指す
-- **[hand](/hand)**：手首から先の「手」を指す
+- **[hand](/word/hand)**：手首から先の「手」を指す
 
 armは「腕」全体、handは「手」の部分だけを指すので、動作や部位を正確に区別して使います。
 
@@ -105,14 +105,14 @@ armは「腕」全体、handは「手」の部分だけを指すので、動作�
 
 ## 🧩 あわせて覚えたい
 
-- [leg](/leg)：脚
-- [shoulder](/shoulder)：肩
+- [leg](/word/leg)：脚
+- [shoulder](/word/shoulder)：肩
 
 ---
 
 ## 📖 できればこれも
 
-- [foot](/foot)：足
-- [head](/head)：頭
+- [foot](/word/foot)：足
+- [head](/word/head)：頭
 
 <!-- cvid: aid25_bid47 -->

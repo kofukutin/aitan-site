@@ -97,7 +97,7 @@ TOEICでは会社紹介や業務内容の説明文、メール文などで頻出
 ## 🤔  bookkeeper との違いは？
 
 - **accountant**：財務諸表の作成や税務申告など、より専門的な会計業務を行う職業。
-- **[bookkeeper](/bookkeeper)**：日々の取引記録や帳簿付けなど、主に記録業務を担当する職業。
+- **[bookkeeper](/word/bookkeeper)**：日々の取引記録や帳簿付けなど、主に記録業務を担当する職業。
 
 accountantは高度な資格や知識が必要な場合が多く、bookkeeperは日常的な記帳業務が中心です。
 
@@ -105,14 +105,14 @@ accountantは高度な資格や知識が必要な場合が多く、bookkeeperは
 
 ## 🧩 あわせて覚えたい
 
-- [auditor](/auditor)：監査人、会計監査を行う人
-- [finance](/finance)：財務、金融
+- [auditor](/word/auditor)：監査人、会計監査を行う人
+- [finance](/word/finance)：財務、金融
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/client)：顧客、取引先
-- [manager](/manager)：管理職、マネージャー
+- [client](/word/client)：顧客、取引先
+- [manager](/word/manager)：管理職、マネージャー
 
 <!-- cvid: aid38_bid22 -->

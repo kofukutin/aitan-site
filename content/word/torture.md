@@ -97,7 +97,7 @@ tortureはTOEICの長文読解（Part 7）で、法務や人権に関する記�
 ## 🤔  torment との違いは？
 
 - **torture**：肉体的・精神的な激しい苦痛や拷問の行為自体を指す。法的・物理的なニュアンスが強い。
-- **[torment](/torment)**：精神的な苦しみや悩みを強調し、必ずしも物理的な拷問を意味しない。
+- **[torment](/word/torment)**：精神的な苦しみや悩みを強調し、必ずしも物理的な拷問を意味しない。
 
 tortureは実際の拷問や極端な苦痛に使われ、tormentは心の苦しみや長く続く悩みに使われます。
 
@@ -105,14 +105,14 @@ tortureは実際の拷問や極端な苦痛に使われ、tormentは心の苦し
 
 ## 🧩 あわせて覚えたい
 
-- [punishment](/punishment)：罰、処罰
-- [agony](/agony)：激しい苦痛、苦悶
+- [punishment](/word/punishment)：罰、処罰
+- [agony](/word/agony)：激しい苦痛、苦悶
 
 ---
 
 ## 📖 できればこれも
 
-- [abuse](/abuse)：虐待、乱用
-- [suffer](/suffer)：苦しむ
+- [abuse](/word/abuse)：虐待、乱用
+- [suffer](/word/suffer)：苦しむ
 
 <!-- cvid: aid48_bid37 -->

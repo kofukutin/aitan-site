@@ -97,7 +97,7 @@ TOEICでは会話文や依頼表現でよく登場します。ビジネスシー
 ## 🤔  benefit との違いは？
 
 - **favor**：個人的な「お願い」や「親切な行為」を指す
-- **[benefit](/benefit)**：利益や恩恵など、より広い意味で使われる
+- **[benefit](/word/benefit)**：利益や恩恵など、より広い意味で使われる
 
 favorは「頼みごと」や「親切」に焦点があり、benefitは「利益」や「恩恵」といった結果やメリットに重点があります。
 
@@ -105,14 +105,14 @@ favorは「頼みごと」や「親切」に焦点があり、benefitは「利�
 
 ## 🧩 あわせて覚えたい
 
-- [service](/service)：サービス、奉仕
-- [request](/request)：依頼、要請
+- [service](/word/service)：サービス、奉仕
+- [request](/word/request)：依頼、要請
 
 ---
 
 ## 📖 できればこれも
 
-- [support](/support)：支援、サポート
-- [offer](/offer)：申し出、提供
+- [support](/word/support)：支援、サポート
+- [offer](/word/offer)：申し出、提供
 
 <!-- cvid: aid05_bid29 -->

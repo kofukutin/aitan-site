@@ -97,7 +97,7 @@ The tournament will start at the first tee at 9 a.m.
 ## 🤔  peg との違いは？
 
 - **tee**：ゴルフでボールを乗せるための台やスタート地点。
-- **[peg](/peg)**：一般的な杭やピン、小さな棒。
+- **[peg](/word/peg)**：一般的な杭やピン、小さな棒。
 
 teeはゴルフ専用の用語で、pegは幅広く使われる一般的な「杭」や「ピン」を指します。
 
@@ -105,14 +105,14 @@ teeはゴルフ専用の用語で、pegは幅広く使われる一般的な「�
 
 ## 🧩 あわせて覚えたい
 
-- [ball](/ball)：ボール
-- [club](/club)：クラブ（ゴルフクラブ）
+- [ball](/word/ball)：ボール
+- [club](/word/club)：クラブ（ゴルフクラブ）
 
 ---
 
 ## 📖 できればこれも
 
-- [golf](/golf)：ゴルフ
-- [hole](/hole)：ホール（ゴルフのカップや穴）
+- [golf](/word/golf)：ゴルフ
+- [hole](/word/hole)：ホール（ゴルフのカップや穴）
 
 <!-- cvid: aid48_bid28 -->

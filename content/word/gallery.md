@@ -97,7 +97,7 @@ TOEICでは、観光案内やイベント情報、施設紹介などの長文で
 ## 🤔  museum との違いは？
 
 - **gallery**：主に芸術作品の展示室や美術館を指す
-- **[museum](/museum)**：芸術だけでなく歴史・科学など幅広い分野の展示施設
+- **[museum](/word/museum)**：芸術だけでなく歴史・科学など幅広い分野の展示施設
 
 galleryはアート中心、museumはより幅広い分野の展示に使われる点が異なります。
 
@@ -105,14 +105,14 @@ galleryはアート中心、museumはより幅広い分野の展示に使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [exhibition](/exhibition)：展示会、展覧会
-- [hall](/hall)：ホール、大広間
+- [exhibition](/word/exhibition)：展示会、展覧会
+- [hall](/word/hall)：ホール、大広間
 
 ---
 
 ## 📖 できればこれも
 
-- [exhibit](/exhibit)：展示する、展示品
-- [display](/display)：展示、陳列
+- [exhibit](/word/exhibit)：展示する、展示品
+- [display](/word/display)：展示、陳列
 
 <!-- cvid: aid38_bid32 -->

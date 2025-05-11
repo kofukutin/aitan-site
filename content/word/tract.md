@@ -97,7 +97,7 @@ The company purchased a large tract of land for the new factory.
 ## 🤔  region との違いは？
 
 - **tract**：広い土地の一区画や体内の器官系・管を指すフォーマルな語
-- **[region](/region)**：地理的・行政的な「地域」「領域」を幅広く指す一般的な語
+- **[region](/word/region)**：地理的・行政的な「地域」「領域」を幅広く指す一般的な語
 
 tractは「まとまった広い土地」や「体内の管状部分」に限定され、regionは「地域」全般に使われます。
 
@@ -105,14 +105,14 @@ tractは「まとまった広い土地」や「体内の管状部分」に限定
 
 ## 🧩 あわせて覚えたい
 
-- [organ](/organ)：器官、臓器
-- [system](/system)：体系、系統
+- [organ](/word/organ)：器官、臓器
+- [system](/word/system)：体系、系統
 
 ---
 
 ## 📖 できればこれも
 
-- [tissue](/tissue)：組織（生物学的な）
-- [section](/section)：区分、部分
+- [tissue](/word/tissue)：組織（生物学的な）
+- [section](/word/section)：区分、部分
 
 <!-- cvid: aid21_bid00 -->

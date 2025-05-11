@@ -97,7 +97,7 @@ The picking process must be accurate to avoid shipping errors.
 ## 🤔  selection との違いは？
 
 - **picking**：実際に物を選んで集める作業や摘み取りの行為を強調
-- **[selection](/selection)**：選択そのものや選ばれたものを指し、結果や選択肢に焦点
+- **[selection](/word/selection)**：選択そのものや選ばれたものを指し、結果や選択肢に焦点
 
 pickingは「作業」や「行為」に重点があり、selectionは「選ばれた結果」や「選択肢」に重点があります。
 
@@ -105,14 +105,14 @@ pickingは「作業」や「行為」に重点があり、selectionは「選ば�
 
 ## 🧩 あわせて覚えたい
 
-- [choice](/choice)：選択、選ぶこと
-- [packing](/packing)：梱包、荷造り
+- [choice](/word/choice)：選択、選ぶこと
+- [packing](/word/packing)：梱包、荷造り
 
 ---
 
 ## 📖 できればこれも
 
-- [shipment](/shipment)：出荷、発送
-- [delivery](/delivery)：配達、納品
+- [shipment](/word/shipment)：出荷、発送
+- [delivery](/word/delivery)：配達、納品
 
 <!-- cvid: aid34_bid44 -->

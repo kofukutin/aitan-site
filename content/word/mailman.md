@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、郵便配達員の動作や職
 ## 🤔  postman との違いは？
 
 - **mailman**：アメリカ英語で使われる「郵便配達員」。カジュアルな響き。
-- **[postman](/postman)**：イギリス英語で使われる「郵便配達員」。ややフォーマル。
+- **[postman](/word/postman)**：イギリス英語で使われる「郵便配達員」。ややフォーマル。
 
 mailmanはアメリカ、postmanはイギリスで主に使われ、意味は同じですが地域によって使い分けます。
 
@@ -105,14 +105,14 @@ mailmanはアメリカ、postmanはイギリスで主に使われ、意味は同
 
 ## 🧩 あわせて覚えたい
 
-- [courier](/courier)：宅配便の配達員
-- [delivery_person](/delivery_person)：配達員（性別問わず使える表現）
+- [courier](/word/courier)：宅配便の配達員
+- [delivery_person](/word/delivery_person)：配達員（性別問わず使える表現）
 
 ---
 
 ## 📖 できればこれも
 
-- [package](/package)：小包
-- [letter](/letter)：手紙
+- [package](/word/package)：小包
+- [letter](/word/letter)：手紙
 
 <!-- cvid: aid46_bid31 -->

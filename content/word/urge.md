@@ -98,7 +98,7 @@ TOEICでは会議やビジネスシーンで「強く勧める」「促す」場
 ## 🤔  encourage との違いは？
 
 - **urge**：強い気持ちで「ぜひ～してほしい」と強く促す
-- **[encourage](/encourage)**：やさしく励ましたり、勇気づけて「～したらどう？」と勧める
+- **[encourage](/word/encourage)**：やさしく励ましたり、勇気づけて「～したらどう？」と勧める
 
 urgeは「強く押す」イメージで、encourageは「背中をそっと押す」イメージです。強さや緊急性の度合いが異なります。
 
@@ -106,14 +106,14 @@ urgeは「強く押す」イメージで、encourageは「背中をそっと押�
 
 ## 🧩 あわせて覚えたい
 
-- [recommend](/recommend)：おすすめする、推薦する
-- [insist](/insist)：強く主張する
+- [recommend](/word/recommend)：おすすめする、推薦する
+- [insist](/word/insist)：強く主張する
 
 ---
 
 ## 📖 できればこれも
 
-- [advise](/advise)：助言する、忠告する
-- [suggest](/suggest)：提案する
+- [advise](/word/advise)：助言する、忠告する
+- [suggest](/word/suggest)：提案する
 
 <!-- cvid: aid41_bid03 -->

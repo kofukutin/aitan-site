@@ -97,7 +97,7 @@ TOEICでは、アナウンスやビジネスシーンの説明文で「conferenc
 ## 🤔  meeting との違いは？
 
 - **conference**：大人数や複数団体が集まる、比較的大規模でフォーマルな会議や大会
-- **[meeting](/meeting)**：少人数でも使え、日常的・カジュアルな「打ち合わせ」や「会合」
+- **[meeting](/word/meeting)**：少人数でも使え、日常的・カジュアルな「打ち合わせ」や「会合」
 
 conferenceは規模が大きく、公式な場面で使われることが多いのに対し、meetingは日常的な集まりや短時間の打ち合わせにも使われます。
 
@@ -105,14 +105,14 @@ conferenceは規模が大きく、公式な場面で使われることが多い�
 
 ## 🧩 あわせて覚えたい
 
-- [seminar](/seminar)：セミナー、講習会
-- [discussion](/discussion)：討論、話し合い
+- [seminar](/word/seminar)：セミナー、講習会
+- [discussion](/word/discussion)：討論、話し合い
 
 ---
 
 ## 📖 できればこれも
 
-- [presentation](/presentation)：発表、プレゼン
-- [session](/session)：（会議などの）集まり、セッション
+- [presentation](/word/presentation)：発表、プレゼン
+- [session](/word/session)：（会議などの）集まり、セッション
 
 <!-- cvid: aid15_bid08 -->

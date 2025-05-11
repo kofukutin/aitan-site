@@ -97,7 +97,7 @@ TOEICでは、図表やイラスト、資料説明の場面で「graphic」が�
 ## 🤔  illustration との違いは？
 
 - **graphic**：図や絵、視覚的なもの全般や生々しい描写を指す形容詞
-- **[illustration](/illustration)**：説明や例示のためのイラストや図解を指す名詞
+- **[illustration](/word/illustration)**：説明や例示のためのイラストや図解を指す名詞
 
 graphicは「視覚的なもの」や「生々しい描写」に幅広く使われ、illustrationは「説明用のイラストや図解」に特化しています。
 
@@ -105,14 +105,14 @@ graphicは「視覚的なもの」や「生々しい描写」に幅広く使わ�
 
 ## 🧩 あわせて覚えたい
 
-- [visual](/visual)：視覚的な、見える
-- [diagram](/diagram)：図、図解
+- [visual](/word/visual)：視覚的な、見える
+- [diagram](/word/diagram)：図、図解
 
 ---
 
 ## 📖 できればこれも
 
-- [visualize](/visualize)：視覚化する、イメージする
-- [design](/design)：設計する、デザインする
+- [visualize](/word/visualize)：視覚化する、イメージする
+- [design](/word/design)：設計する、デザインする
 
 <!-- cvid: aid49_bid09 -->

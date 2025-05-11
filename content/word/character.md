@@ -97,7 +97,7 @@ TOEICでは、物語やビジネス文書の中で「登場人物」や「性格
 ## 🤔  personality との違いは？
 
 - **character**：性格や特徴、または物語の登場人物や文字など幅広い意味で使う
-- **[personality](/personality)**：主に「個人の性格・個性」を指す
+- **[personality](/word/personality)**：主に「個人の性格・個性」を指す
 
 「character」は性格だけでなく、物語の登場人物やアルファベットの「文字」など多様な意味で使いますが、「personality」は人の個性や性格に限定されます。
 
@@ -105,14 +105,14 @@ TOEICでは、物語やビジネス文書の中で「登場人物」や「性格
 
 ## 🧩 あわせて覚えたい
 
-- [trait](/trait)：（人の）特性、特徴
-- [figure](/figure)：人物、数字、図形
+- [trait](/word/trait)：（人の）特性、特徴
+- [figure](/word/figure)：人物、数字、図形
 
 ---
 
 ## 📖 できればこれも
 
-- [feature](/feature)：特徴、特性
-- [role](/role)：役割、役目
+- [feature](/word/feature)：特徴、特性
+- [role](/word/role)：役割、役目
 
 <!-- cvid: aid31_bid11 -->

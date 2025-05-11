@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や記事で「mounting pressure」「mounting c
 ## 🤔  increasing との違いは？
 
 - **mounting**：特に問題やコストなどが「どんどん増えて深刻化している」ニュアンス
-- **[increasing](/increasing)**：単に「増加している」状態を幅広く表す
+- **[increasing](/word/increasing)**：単に「増加している」状態を幅広く表す
 
 「mounting」は悪化や深刻化のニュアンスが強く、increasingは中立的に数量や程度が増える場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネス文書や記事で「mounting pressure」「mounting c
 
 ## 🧩 あわせて覚えたい
 
-- [escalating](/escalating)：（状況や問題が）どんどん悪化する
-- [declining](/declining)：減少している、下落している
+- [escalating](/word/escalating)：（状況や問題が）どんどん悪化する
+- [declining](/word/declining)：減少している、下落している
 
 ---
 
 ## 📖 できればこれも
 
-- [growing](/growing)：（数や量が）増えている
-- [rising](/rising)：（価格や温度などが）上昇している
+- [growing](/word/growing)：（数や量が）増えている
+- [rising](/word/rising)：（価格や温度などが）上昇している
 
 <!-- cvid: aid38_bid45 -->

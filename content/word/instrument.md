@@ -97,7 +97,7 @@ TOEICでは、科学や技術、ビジネスの文脈で「器具」「計器」
 ## 🤔  tool との違いは？
 
 - **instrument**：精密な器具や計測器、または楽器を指す。専門的・フォーマルな場面で使うことが多い。
-- **[tool](/tool)**：一般的な道具や手段を指し、日常的・幅広い用途で使われる。
+- **[tool](/word/tool)**：一般的な道具や手段を指し、日常的・幅広い用途で使われる。
 
 instrumentは「専門性・精密さ」が強調されるのに対し、toolは「日常的な道具」や「手段」として幅広く使われます。
 
@@ -105,14 +105,14 @@ instrumentは「専門性・精密さ」が強調されるのに対し、toolは
 
 ## 🧩 あわせて覚えたい
 
-- [device](/device)：装置、機器
-- [apparatus](/apparatus)：装置、器具（特に実験や技術用）
+- [device](/word/device)：装置、機器
+- [apparatus](/word/apparatus)：装置、器具（特に実験や技術用）
 
 ---
 
 ## 📖 できればこれも
 
-- [equipment](/equipment)：設備、備品
-- [machine](/machine)：機械
+- [equipment](/word/equipment)：設備、備品
+- [machine](/word/machine)：機械
 
 <!-- cvid: aid13_bid11 -->

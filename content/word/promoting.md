@@ -97,7 +97,7 @@ TOEICでは、広告や社内通知、ビジネスメールなどで「促進す
 ## 🤔  advertising との違いは？
 
 - **promoting**：幅広く「推進する」「宣伝する」など積極的に広める意味
-- **[advertising](/advertising)**：主に「広告する」「宣伝活動を行う」という意味
+- **[advertising](/word/advertising)**：主に「広告する」「宣伝活動を行う」という意味
 
 promotingは宣伝だけでなく、全体的な推進や支援も含みますが、advertisingは広告活動に特化しています。
 
@@ -105,14 +105,14 @@ promotingは宣伝だけでなく、全体的な推進や支援も含みます�
 
 ## 🧩 あわせて覚えたい
 
-- [support](/support)：支援する、支持する
-- [encourage](/encourage)：励ます、促す
+- [support](/word/support)：支援する、支持する
+- [encourage](/word/encourage)：励ます、促す
 
 ---
 
 ## 📖 できればこれも
 
-- [recommend](/recommend)：推薦する、勧める
-- [suggest](/suggest)：提案する
+- [recommend](/word/recommend)：推薦する、勧める
+- [suggest](/word/suggest)：提案する
 
 <!-- cvid: aid25_bid40 -->

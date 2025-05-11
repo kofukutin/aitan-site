@@ -97,7 +97,7 @@ TOEICでは「economic」との使い分けを問う問題や、コスト削減�
 ## 🤔  economic との違いは？
 
 - **economical**：無駄がなく、節約できる・コストパフォーマンスが良い
-- **[economic](/economic)**：経済の、経済に関する
+- **[economic](/word/economic)**：経済の、経済に関する
 
 「economical」は「節約的」「お得」といった実用的な意味で使い、「economic」は「経済の成長」「経済政策」など広い経済全体に関する話題で使います。
 
@@ -105,14 +105,14 @@ TOEICでは「economic」との使い分けを問う問題や、コスト削減�
 
 ## 🧩 あわせて覚えたい
 
-- [efficient](/efficient)：効率的な
-- [wasteful](/wasteful)：無駄の多い
+- [efficient](/word/efficient)：効率的な
+- [wasteful](/word/wasteful)：無駄の多い
 
 ---
 
 ## 📖 できればこれも
 
-- [affordable](/affordable)：手頃な価格の
-- [practical](/practical)：実用的な
+- [affordable](/word/affordable)：手頃な価格の
+- [practical](/word/practical)：実用的な
 
 <!-- cvid: aid26_bid18 -->

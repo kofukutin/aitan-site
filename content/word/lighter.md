@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写問題で、物の名前として出題される
 ## 🤔  match との違いは？
 
 - **lighter**：ガスやオイルを使う再利用可能な火をつける道具
-- **[match](/match)**：使い捨ての木や紙の棒で、こすって火をつけるもの
+- **[match](/word/match)**：使い捨ての木や紙の棒で、こすって火をつけるもの
 
 lighterは繰り返し使える道具、matchは一度きりの使い捨てという違いがあります。
 
@@ -105,14 +105,14 @@ lighterは繰り返し使える道具、matchは一度きりの使い捨てと�
 
 ## 🧩 あわせて覚えたい
 
-- [candle](/candle)：ろうそく
-- [torch](/torch)：懐中電灯、たいまつ
+- [candle](/word/candle)：ろうそく
+- [torch](/word/torch)：懐中電灯、たいまつ
 
 ---
 
 ## 📖 できればこれも
 
-- [battery](/battery)：電池
-- [flashlight](/flashlight)：懐中電灯
+- [battery](/word/battery)：電池
+- [flashlight](/word/flashlight)：懐中電灯
 
 <!-- cvid: aid36_bid22 -->

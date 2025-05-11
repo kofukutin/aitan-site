@@ -97,7 +97,7 @@ TOEICでは主にビジネスや組織内の役職・任命に関する文脈で
 ## 🤔  appointment との違いは？
 
 - **designation**：公式な「指定」や「肩書き」を強調し、役職名や名称そのものを指すことも多い
-- **[appointment](/appointment)**：「任命」や「約束」の意味で、役職に就ける行為自体を指す
+- **[appointment](/word/appointment)**：「任命」や「約束」の意味で、役職に就ける行為自体を指す
 
 designationは「肩書き」や「名称」に焦点があり、appointmentは「任命する行為」や「面談の約束」など幅広い意味で使われます。
 
@@ -105,14 +105,14 @@ designationは「肩書き」や「名称」に焦点があり、appointmentは�
 
 ## 🧩 あわせて覚えたい
 
-- [nomination](/nomination)：推薦、指名
-- [title](/title)：肩書き、称号
+- [nomination](/word/nomination)：推薦、指名
+- [title](/word/title)：肩書き、称号
 
 ---
 
 ## 📖 できればこれも
 
-- [assignment](/assignment)：任務、割り当て
-- [position](/position)：職、地位
+- [assignment](/word/assignment)：任務、割り当て
+- [position](/word/position)：職、地位
 
 <!-- cvid: aid02_bid36 -->

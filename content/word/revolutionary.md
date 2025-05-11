@@ -97,7 +97,7 @@ TOEICでは主にPart 7のビジネス記事や製品紹介文で、「画期的
 ## 🤔  innovative との違いは？
 
 - **revolutionary**：従来を根本から覆すほどの「革命的な」変化や新しさを強調
-- **[innovative](/innovative)**：新しいアイデアや工夫がある「革新的な」状態を指す
+- **[innovative](/word/innovative)**：新しいアイデアや工夫がある「革新的な」状態を指す
 
 「revolutionary」は変化の大きさや衝撃度が強く、「innovative」は新規性や独自性を重視します。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 7のビジネス記事や製品紹介文で、「画期的
 
 ## 🧩 あわせて覚えたい
 
-- [radical](/radical)：急進的な、徹底的な
-- [conservative](/conservative)：保守的な
+- [radical](/word/radical)：急進的な、徹底的な
+- [conservative](/word/conservative)：保守的な
 
 ---
 
 ## 📖 できればこれも
 
-- [transformative](/transformative)：変革をもたらす
-- [groundbreaking](/groundbreaking)：画期的な
+- [transformative](/word/transformative)：変革をもたらす
+- [groundbreaking](/word/groundbreaking)：画期的な
 
 <!-- cvid: aid35_bid08 -->

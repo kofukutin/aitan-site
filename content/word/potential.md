@@ -97,7 +97,7 @@ TOEICでは「potential」は主に名詞・形容詞として、ビジネスの
 ## 🤔  possibility との違いは？
 
 - **potential**：将来の発展や成長の「可能性」や「潜在能力」を強調
-- **[possibility](/possibility)**：何かが起こる「見込み」や「選択肢」の存在を表す
+- **[possibility](/word/possibility)**：何かが起こる「見込み」や「選択肢」の存在を表す
 
 **potential**は「内に秘めた力」や「伸びしろ」に焦点を当てるのに対し、**possibility**は「起こりうるかどうか」という事実や選択肢の有無に注目します。
 
@@ -105,14 +105,14 @@ TOEICでは「potential」は主に名詞・形容詞として、ビジネスの
 
 ## 🧩 あわせて覚えたい
 
-- [capacity](/capacity)：能力、収容力
-- [risk](/risk)：リスク、危険性
+- [capacity](/word/capacity)：能力、収容力
+- [risk](/word/risk)：リスク、危険性
 
 ---
 
 ## 📖 できればこれも
 
-- [opportunity](/opportunity)：機会、チャンス
-- [ability](/ability)：能力、できること
+- [opportunity](/word/opportunity)：機会、チャンス
+- [ability](/word/ability)：能力、できること
 
 <!-- cvid: aid17_bid20 -->

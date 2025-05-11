@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文や説明文で、製品やサービスの「バ
 ## 🤔  variety との違いは？
 
 - **variation**：同じものの中での違いや変化、またはその具体的なパターン
-- **[variety](/variety)**：種類の多さや多様性そのもの
+- **[variety](/word/variety)**：種類の多さや多様性そのもの
 
 「variation」は「同じものの中での違い」や「変化のパターン」を指し、「variety」は「種類の豊富さ」や「多様性」を強調します。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 7の長文や説明文で、製品やサービスの「バ
 
 ## 🧩 あわせて覚えたい
 
-- [difference](/difference)：違い、相違
-- [modification](/modification)：修正、変更
+- [difference](/word/difference)：違い、相違
+- [modification](/word/modification)：修正、変更
 
 ---
 
 ## 📖 できればこれも
 
-- [option](/option)：選択肢
-- [change](/change)：変化
+- [option](/word/option)：選択肢
+- [change](/word/change)：変化
 
 <!-- cvid: aid23_bid16 -->

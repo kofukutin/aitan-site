@@ -97,7 +97,7 @@ TOEICでは医療や製品説明の文脈で「resistant to ～」の形で出�
 ## 🤔  immune との違いは？
 
 - **resistant**：外部からの影響や攻撃に「耐性がある」「影響を受けにくい」
-- **[immune](/immune)**：特定の病気や影響に「完全に免疫がある」「全く影響を受けない」
+- **[immune](/word/immune)**：特定の病気や影響に「完全に免疫がある」「全く影響を受けない」
 
 resistantは「ある程度防ぐ」ニュアンス、immuneは「完全に防ぐ」ニュアンスで使い分けます。
 
@@ -105,14 +105,14 @@ resistantは「ある程度防ぐ」ニュアンス、immuneは「完全に防�
 
 ## 🧩 あわせて覚えたい
 
-- [susceptible](/susceptible)：影響を受けやすい、感染しやすい
-- [durable](/durable)：耐久性がある、長持ちする
+- [susceptible](/word/susceptible)：影響を受けやすい、感染しやすい
+- [durable](/word/durable)：耐久性がある、長持ちする
 
 ---
 
 ## 📖 できればこれも
 
-- [effective](/effective)：効果的な
-- [prevent](/prevent)：防ぐ、予防する
+- [effective](/word/effective)：効果的な
+- [prevent](/word/prevent)：防ぐ、予防する
 
 <!-- cvid: aid28_bid22 -->

@@ -97,7 +97,7 @@ pantはTOEICの会話パートで、運動や急いだ場面の描写として�
 ## 🤔  gasp との違いは？
 
 - **pant**：運動や興奮で息が切れて「ハアハア」と呼吸すること。
-- **[gasp](/gasp)**：驚きや苦しさで「ハッ」と息を吸い込むこと。
+- **[gasp](/word/gasp)**：驚きや苦しさで「ハッ」と息を吸い込むこと。
 
 pantは継続的に荒く呼吸する様子、gaspは一瞬息を大きく吸い込む動作を表します。
 
@@ -105,14 +105,14 @@ pantは継続的に荒く呼吸する様子、gaspは一瞬息を大きく吸い
 
 ## 🧩 あわせて覚えたい
 
-- [breathe](/breathe)：呼吸する
-- [sigh](/sigh)：ため息をつく
+- [breathe](/word/breathe)：呼吸する
+- [sigh](/word/sigh)：ため息をつく
 
 ---
 
 ## 📖 できればこれも
 
-- [sweat](/sweat)：汗をかく
-- [run](/run)：走る
+- [sweat](/word/sweat)：汗をかく
+- [run](/word/run)：走る
 
 <!-- cvid: aid04_bid49 -->

@@ -97,7 +97,7 @@ TOEICでは、店舗やビジネスシーンの会話で「salesman」が登場�
 ## 🤔  clerk との違いは？
 
 - **salesman**：商品やサービスを積極的に販売する男性の販売員
-- **[clerk](/clerk)**：店やオフィスで事務やレジなど幅広い業務を行うスタッフ
+- **[clerk](/word/clerk)**：店やオフィスで事務やレジなど幅広い業務を行うスタッフ
 
 salesmanは「売ること」に特化した職種ですが、clerkは販売以外の事務や接客も含む幅広い役割を指します。
 
@@ -105,14 +105,14 @@ salesmanは「売ること」に特化した職種ですが、clerkは販売以�
 
 ## 🧩 あわせて覚えたい
 
-- [customer](/customer)：顧客、客
-- [manager](/manager)：管理者、マネージャー
+- [customer](/word/customer)：顧客、客
+- [manager](/word/manager)：管理者、マネージャー
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/client)：取引先、顧客
-- [buyer](/buyer)：買い手、購入者
+- [client](/word/client)：取引先、顧客
+- [buyer](/word/buyer)：買い手、購入者
 
 <!-- cvid: aid16_bid13 -->

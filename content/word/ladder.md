@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「はしごを使っている人」な
 ## 🤔  stairs との違いは？
 
 - **ladder**：2本の縦棒と横棒でできた「はしご」。持ち運びでき、垂直に近い角度で使う。
-- **[stairs](/stairs)**：建物内外に設置された「階段」。固定されていて、歩いて昇降する。
+- **[stairs](/word/stairs)**：建物内外に設置された「階段」。固定されていて、歩いて昇降する。
 
 ladderは持ち運びできる「はしご」、stairsは建物に固定された「階段」と覚えましょう。
 
@@ -105,14 +105,14 @@ ladderは持ち運びできる「はしご」、stairsは建物に固定され�
 
 ## 🧩 あわせて覚えたい
 
-- [escalator](/escalator)：エスカレーター
-- [elevator](/elevator)：エレベーター
+- [escalator](/word/escalator)：エスカレーター
+- [elevator](/word/elevator)：エレベーター
 
 ---
 
 ## 📖 できればこれも
 
-- [rope](/rope)：ロープ
-- [window](/window)：窓
+- [rope](/word/rope)：ロープ
+- [window](/word/window)：窓
 
 <!-- cvid: aid14_bid10 -->

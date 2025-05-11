@@ -97,7 +97,7 @@ TOEICでは、オフィスや施設の改装、修理に関する会話や説明
 ## 🤔  remodel との違いは？
 
 - **renovate**：古いものを新しくしたり、元の良い状態に戻すために修復・改装する
-- **[remodel](/remodel)**：形や構造を大きく変える、作り変える
+- **[remodel](/word/remodel)**：形や構造を大きく変える、作り変える
 
 renovateは「元の状態に近づけて新しくする」ニュアンスが強く、remodelは「用途やデザインを大きく変更する」場合に使われます。
 
@@ -105,14 +105,14 @@ renovateは「元の状態に近づけて新しくする」ニュアンスが強
 
 ## 🧩 あわせて覚えたい
 
-- [restore](/restore)：元の状態に戻す、修復する
-- [repair](/repair)：修理する、直す
+- [restore](/word/restore)：元の状態に戻す、修復する
+- [repair](/word/repair)：修理する、直す
 
 ---
 
 ## 📖 できればこれも
 
-- [expand](/expand)：拡張する、広げる
-- [upgrade](/upgrade)：グレードアップする、改良する
+- [expand](/word/expand)：拡張する、広げる
+- [upgrade](/word/upgrade)：グレードアップする、改良する
 
 <!-- cvid: aid13_bid13 -->

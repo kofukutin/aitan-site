@@ -97,7 +97,7 @@ TOEICでは法務や規則に関する長文や通知文でよく登場します
 ## 🤔  implementation との違いは？
 
 - **enforcement**：法律や規則を「守らせる」「強制する」こと
-- **[implementation](/implementation)**：計画や政策を「実行・導入する」こと
+- **[implementation](/word/implementation)**：計画や政策を「実行・導入する」こと
 
 enforcementは「強制力を伴う執行」、implementationは「計画的な実施」という違いがあります。
 
@@ -105,15 +105,15 @@ enforcementは「強制力を伴う執行」、implementationは「計画的な�
 
 ## 🧩 あわせて覚えたい
 
-- [regulation](/regulation)：規則、規制
-- [compliance](/compliance)：遵守、従うこと
+- [regulation](/word/regulation)：規則、規制
+- [compliance](/word/compliance)：遵守、従うこと
 
 ---
 
 ## 📖 できればこれも
 
-- [penalty](/penalty)：罰則、ペナルティ
-- [violation](/violation)：違反
+- [penalty](/word/penalty)：罰則、ペナルティ
+- [violation](/word/violation)：違反
 
 
 <!-- cvid: aid00_bid04 -->

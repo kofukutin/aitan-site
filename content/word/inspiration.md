@@ -97,7 +97,7 @@ TOEICでは、ビジネスメールや記事、プレゼン資料などで「ins
 ## 🤔  motivation との違いは？
 
 - **inspiration**：外部から受ける刺激やひらめき、創造力の源
-- **[motivation](/motivation)**：目標達成のための内面的なやる気や動機
+- **[motivation](/word/motivation)**：目標達成のための内面的なやる気や動機
 
 inspirationは「外から受ける刺激やアイデア」に重点があり、motivationは「自分の中から湧き上がるやる気」に重点があります。
 
@@ -105,14 +105,14 @@ inspirationは「外から受ける刺激やアイデア」に重点があり、
 
 ## 🧩 あわせて覚えたい
 
-- [idea](/idea)：アイデア、考え
-- [encouragement](/encouragement)：励まし、勇気づけ
+- [idea](/word/idea)：アイデア、考え
+- [encouragement](/word/encouragement)：励まし、勇気づけ
 
 ---
 
 ## 📖 できればこれも
 
-- [creativity](/creativity)：創造力
-- [imagination](/imagination)：想像力
+- [creativity](/word/creativity)：創造力
+- [imagination](/word/imagination)：想像力
 
 <!-- cvid: aid29_bid44 -->

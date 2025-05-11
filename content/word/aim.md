@@ -98,7 +98,7 @@ TOEICでは「目指す」「狙う」という意味で、目標設定や計画
 ## 🤔  goal との違いは？
 
 - **aim**：目指す、狙う（動作や意図を表す）
-- **[goal](/goal)**：目標、ゴール（達成したい具体的な結果）
+- **[goal](/word/goal)**：目標、ゴール（達成したい具体的な結果）
 
 aimは「目指す」という行動や意図を表し、goalは「達成したい具体的な目標」を指します。
 
@@ -106,14 +106,14 @@ aimは「目指す」という行動や意図を表し、goalは「達成した�
 
 ## 🧩 あわせて覚えたい
 
-- [target](/target)：的、目標
-- [intend](/intend)：意図する
+- [target](/word/target)：的、目標
+- [intend](/word/intend)：意図する
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/plan)：計画する
-- [achieve](/achieve)：達成する
+- [plan](/word/plan)：計画する
+- [achieve](/word/achieve)：達成する
 
 <!-- cvid: aid48_bid04 -->

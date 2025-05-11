@@ -97,7 +97,7 @@ TOEICではPart 2の会話応答や、Part 3・4の説明文中で「準備が�
 ## 🤔  prepared との違いは？
 
 - **ready**：今すぐ行動できる状態、気持ちも含めて「準備OK」
-- **[prepared](/prepared)**：計画的にしっかり準備した状態
+- **[prepared](/word/prepared)**：計画的にしっかり準備した状態
 
 「ready」は「今すぐできる」感覚的な準備、「prepared」は事前に計画的に用意したニュアンスがあります。
 
@@ -105,14 +105,14 @@ TOEICではPart 2の会話応答や、Part 3・4の説明文中で「準備が�
 
 ## 🧩 あわせて覚えたい
 
-- [available](/available)：利用できる、手が空いている
-- [willing](/willing)：～する気がある、進んで～する
+- [available](/word/available)：利用できる、手が空いている
+- [willing](/word/willing)：～する気がある、進んで～する
 
 ---
 
 ## 📖 できればこれも
 
-- [set](/set)：準備ができている、整っている
-- [fit](/fit)：適している、体調が良い
+- [set](/word/set)：準備ができている、整っている
+- [fit](/word/fit)：適している、体調が良い
 
 <!-- cvid: aid22_bid26 -->

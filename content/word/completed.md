@@ -97,7 +97,7 @@ TOEICでは、書類やタスクの状態を表す形容詞として頻出しま
 ## 🤔  finished との違いは？
 
 - **completed**：すべての手順や必要事項が正式に終わっていることを強調
-- **[finished](/finished)**：単に「終わった」「やり終えた」という意味で、日常的・カジュアルな場面で使われやすい
+- **[finished](/word/finished)**：単に「終わった」「やり終えた」という意味で、日常的・カジュアルな場面で使われやすい
 
 「completed」は公式文書やビジネスで「完全に完了した」ことを強調し、「finished」は日常的な「終わった」に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、書類やタスクの状態を表す形容詞として頻出しま
 
 ## 🧩 あわせて覚えたい
 
-- [incomplete](/incomplete)：未完成の
-- [accomplished](/accomplished)：成し遂げた、熟達した
+- [incomplete](/word/incomplete)：未完成の
+- [accomplished](/word/accomplished)：成し遂げた、熟達した
 
 ---
 
 ## 📖 できればこれも
 
-- [required](/required)：必要な、必須の
-- [approved](/approved)：承認された
+- [required](/word/required)：必要な、必須の
+- [approved](/word/approved)：承認された
 
 <!-- cvid: aid10_bid11 -->

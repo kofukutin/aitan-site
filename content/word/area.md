@@ -97,7 +97,7 @@ TOEICでは「地域」「分野」「面積」などの意味で頻出します
 ## 🤔  region との違いは？
 
 - **area**：比較的小さな範囲や特定の場所、または面積を指す
-- **[region](/region)**：広い地理的な地域や行政区分を指す
+- **[region](/word/region)**：広い地理的な地域や行政区分を指す
 
 areaは「建物内の一角」や「都市の一部」など狭い範囲にも使えますが、regionは「国の一部」など広い範囲に使います。
 
@@ -105,14 +105,14 @@ areaは「建物内の一角」や「都市の一部」など狭い範囲にも�
 
 ## 🧩 あわせて覚えたい
 
-- [field](/field)：分野、領域
-- [zone](/zone)：区画、区域
+- [field](/word/field)：分野、領域
+- [zone](/word/zone)：区画、区域
 
 ---
 
 ## 📖 できればこれも
 
-- [space](/space)：空間、スペース
-- [section](/section)：区分、部分
+- [space](/word/space)：空間、スペース
+- [section](/word/section)：区分、部分
 
 <!-- cvid: aid15_bid29 -->

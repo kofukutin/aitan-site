@@ -94,7 +94,7 @@ TOEICでは、動詞を修飾して「大いに」「非常に」と強調する
 ## 🤔  highly との違いは？
 
 - **greatly**：程度や量が「非常に」「大いに」で、主に動詞を修飾する。
-- **[highly](/highly)**：評価や質が「非常に高く」、形容詞や過去分詞を修飾することが多い。
+- **[highly](/word/highly)**：評価や質が「非常に高く」、形容詞や過去分詞を修飾することが多い。
 
 greatlyは「大きな程度で」という意味で動作や変化を強調し、highlyは「質や評価が高い」ことを強調します。
 
@@ -102,14 +102,14 @@ greatlyは「大きな程度で」という意味で動作や変化を強調し�
 
 ## 🧩 あわせて覚えたい
 
-- [significantly](/significantly)：著しく、かなり
-- [considerably](/considerably)：かなり、相当に
+- [significantly](/word/significantly)：著しく、かなり
+- [considerably](/word/considerably)：かなり、相当に
 
 ---
 
 ## 📖 できればこれも
 
-- [deeply](/deeply)：深く、非常に
-- [largely](/largely)：主に、大部分は
+- [deeply](/word/deeply)：深く、非常に
+- [largely](/word/largely)：主に、大部分は
 
 <!-- cvid: aid49_bid10 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「広場」や「正方形の物体」
 ## 🤔  plaza との違いは？
 
 - **square**：伝統的な「広場」や「正方形」の形を指すことが多い
-- **[plaza](/plaza)**：ショッピングモールや現代的な「広場」を指すことが多い
+- **[plaza](/word/plaza)**：ショッピングモールや現代的な「広場」を指すことが多い
 
 squareは歴史的な町の中心や、形が四角い場所を指すことが多く、plazaはより現代的・商業的な広場に使われます。
 
@@ -105,14 +105,14 @@ squareは歴史的な町の中心や、形が四角い場所を指すことが�
 
 ## 🧩 あわせて覚えたい
 
-- [circle](/circle)：円、サークル
-- [rectangle](/rectangle)：長方形
+- [circle](/word/circle)：円、サークル
+- [rectangle](/word/rectangle)：長方形
 
 ---
 
 ## 📖 できればこれも
 
-- [street](/street)：通り、道路
-- [park](/park)：公園
+- [street](/word/street)：通り、道路
+- [park](/word/park)：公園
 
 <!-- cvid: aid14_bid08 -->

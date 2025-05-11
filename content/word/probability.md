@@ -97,7 +97,7 @@ TOEICでは、統計や分析、リスク評価などの文脈で出題される
 ## 🤔  possibility との違いは？
 
 - **probability**：起こる「確率」や数値的な可能性を強調
-- **[possibility](/possibility)**：起こる「可能性」全般を広く指す
+- **[possibility](/word/possibility)**：起こる「可能性」全般を広く指す
 
 probabilityは「どれくらい起こりそうか」を具体的に示し、possibilityは「起こりうるかどうか」自体を表します。
 
@@ -105,14 +105,14 @@ probabilityは「どれくらい起こりそうか」を具体的に示し、pos
 
 ## 🧩 あわせて覚えたい
 
-- [likelihood](/likelihood)：見込み、可能性
-- [chance](/chance)：機会、見込み
+- [likelihood](/word/likelihood)：見込み、可能性
+- [chance](/word/chance)：機会、見込み
 
 ---
 
 ## 📖 できればこれも
 
-- [statistic](/statistic)：統計、統計値
-- [estimate](/estimate)：見積もり、推定
+- [statistic](/word/statistic)：統計、統計値
+- [estimate](/word/estimate)：見積もり、推定
 
 <!-- cvid: aid03_bid16 -->

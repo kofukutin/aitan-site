@@ -97,7 +97,7 @@ existenceはTOEICの長文読解（Part 7）で、抽象的な話題や説明文
 ## 🤔  presence との違いは？
 
 - **existence**：何かが「存在している」という事実や状態そのものを指す
-- **[presence](/presence)**：その場に「いる」「現れている」こと、目の前にあることを強調
+- **[presence](/word/presence)**：その場に「いる」「現れている」こと、目の前にあることを強調
 
 existenceは抽象的・哲学的な「存在」全般を指し、presenceは「その場にいる」「目の前にある」など具体的な現れ方を強調します。
 
@@ -105,14 +105,14 @@ existenceは抽象的・哲学的な「存在」全般を指し、presenceは「
 
 ## 🧩 あわせて覚えたい
 
-- [absence](/absence)：不在、存在しないこと
-- [reality](/reality)：現実、実際にあること
+- [absence](/word/absence)：不在、存在しないこと
+- [reality](/word/reality)：現実、実際にあること
 
 ---
 
 ## 📖 できればこれも
 
-- [survive](/survive)：生き残る
-- [occur](/occur)：起こる、発生する
+- [survive](/word/survive)：生き残る
+- [occur](/word/occur)：起こる、発生する
 
 <!-- cvid: aid42_bid16 -->

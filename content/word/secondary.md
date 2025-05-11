@@ -97,7 +97,7 @@ TOEICでは「primary」と対比して「secondary」が出題されること�
 ## 🤔  minor との違いは？
 
 - **secondary**：主要なものの次に位置する、補助的な
-- **[minor](/minor)**：重要度が低い、小さい、ささいな
+- **[minor](/word/minor)**：重要度が低い、小さい、ささいな
 
 **secondary**は「第一のものに次ぐ」という順序や役割の違いを強調し、**minor**は「重要性が低い」「小さい」といった程度の違いを表します。
 
@@ -105,14 +105,14 @@ TOEICでは「primary」と対比して「secondary」が出題されること�
 
 ## 🧩 あわせて覚えたい
 
-- [primary](/primary)：第一の、主要な
-- [supplementary](/supplementary)：補足的な、追加の
+- [primary](/word/primary)：第一の、主要な
+- [supplementary](/word/supplementary)：補足的な、追加の
 
 ---
 
 ## 📖 できればこれも
 
-- [elementary](/elementary)：初歩的な、基本的な
-- [major](/major)：主要な、重要な
+- [elementary](/word/elementary)：初歩的な、基本的な
+- [major](/word/major)：主要な、重要な
 
 <!-- cvid: aid41_bid23 -->

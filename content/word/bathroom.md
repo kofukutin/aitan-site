@@ -96,7 +96,7 @@ TOEICでは主にPart 1の写真描写や、施設案内の場面で出題され
 ## 🤔  restroom との違いは？
 
 - **bathroom**：家庭やホテルなどで使う「浴室」「トイレ」。カジュアルで日常的。
-- **[restroom](/restroom)**：公共施設で使う「トイレ」。ややフォーマル。
+- **[restroom](/word/restroom)**：公共施設で使う「トイレ」。ややフォーマル。
 
 bathroomは家庭やホテルなどプライベートな空間で使われることが多く、restroomは公共の場所で使われるフォーマルな表現です。
 
@@ -104,14 +104,14 @@ bathroomは家庭やホテルなどプライベートな空間で使われるこ
 
 ## 🧩 あわせて覚えたい
 
-- [toilet](/toilet)：便器、トイレ（イギリス英語で一般的）
-- [washroom](/washroom)：洗面所、トイレ（カナダ英語でよく使う）
+- [toilet](/word/toilet)：便器、トイレ（イギリス英語で一般的）
+- [washroom](/word/washroom)：洗面所、トイレ（カナダ英語でよく使う）
 
 ---
 
 ## 📖 できればこれも
 
-- [kitchen](/kitchen)：台所
-- [bedroom](/bedroom)：寝室
+- [kitchen](/word/kitchen)：台所
+- [bedroom](/word/bedroom)：寝室
 
 <!-- cvid: aid46_bid17 -->

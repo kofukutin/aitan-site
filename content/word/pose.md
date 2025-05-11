@@ -97,7 +97,7 @@ TOEICでは「pose a risk/problem」などの形で、問題やリスクを「�
 ## 🤔  present との違いは？
 
 - **pose**：問題やリスクなどを「提起する」「もたらす」
-- **[present](/present)**：情報やアイデアを「提示する」「発表する」
+- **[present](/word/present)**：情報やアイデアを「提示する」「発表する」
 
 「pose」は主に問題や危険などネガティブなものを持ち出す時に使い、「present」は中立的に情報や意見を示す時に使います。
 
@@ -105,14 +105,14 @@ TOEICでは「pose a risk/problem」などの形で、問題やリスクを「�
 
 ## 🧩 あわせて覚えたい
 
-- [suggest](/suggest)：提案する
-- [raise](/raise)：（問題などを）提起する
+- [suggest](/word/suggest)：提案する
+- [raise](/word/raise)：（問題などを）提起する
 
 ---
 
 ## 📖 できればこれも
 
-- [state](/state)：述べる
-- [indicate](/indicate)：示す
+- [state](/word/state)：述べる
+- [indicate](/word/indicate)：示す
 
 <!-- cvid: aid38_bid14 -->

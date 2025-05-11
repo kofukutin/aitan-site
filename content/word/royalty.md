@@ -97,7 +97,7 @@ royaltyはTOEICの長文読解パートで、契約や知的財産に関する�
 ## 🤔  fee との違いは？
 
 - **royalty**：知的財産や著作物の使用に対して継続的に支払う使用料・印税
-- **[fee](/fee)**：サービスや入場などに対して一度きり支払う料金
+- **[fee](/word/fee)**：サービスや入場などに対して一度きり支払う料金
 
 royaltyは「知的財産の利用」に特化した継続的な支払い、feeは「サービスや手数料」など幅広い一時的な支払いに使います。
 
@@ -105,14 +105,14 @@ royaltyは「知的財産の利用」に特化した継続的な支払い、fee�
 
 ## 🧩 あわせて覚えたい
 
-- [commission](/commission)：歩合、手数料
-- [license](/license)：許可、免許
+- [commission](/word/commission)：歩合、手数料
+- [license](/word/license)：許可、免許
 
 ---
 
 ## 📖 できればこれも
 
-- [patent](/patent)：特許
-- [revenue](/revenue)：収益
+- [patent](/word/patent)：特許
+- [revenue](/word/revenue)：収益
 
 <!-- cvid: aid43_bid48 -->

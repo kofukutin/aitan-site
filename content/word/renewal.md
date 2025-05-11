@@ -97,7 +97,7 @@ TOEICでは契約やサービスの「更新」に関するメールや案内文
 ## 🤔  extension との違いは？
 
 - **renewal**：期限が切れるものを「新たに更新」すること
-- **[extension](/extension)**：今ある期限や期間を「延長」すること
+- **[extension](/word/extension)**：今ある期限や期間を「延長」すること
 
 renewalは一度終わったものを再び有効にする場合、extensionは今の状態をそのまま長くする場合に使います。
 
@@ -105,14 +105,14 @@ renewalは一度終わったものを再び有効にする場合、extensionは�
 
 ## 🧩 あわせて覚えたい
 
-- [expiration](/expiration)：有効期限、満了
-- [update](/update)：更新、最新版にすること
+- [expiration](/word/expiration)：有効期限、満了
+- [update](/word/update)：更新、最新版にすること
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/contract)：契約
-- [subscription](/subscription)：購読、加入
+- [contract](/word/contract)：契約
+- [subscription](/word/subscription)：購読、加入
 
 <!-- cvid: aid40_bid14 -->

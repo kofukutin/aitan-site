@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、服や物の色を説明する際に
 ## 🤔  violet との違いは？
 
 - **purple**：一般的な紫色。赤みがかった紫から青みがかった紫まで幅広く指す。
-- **[violet](/violet)**：やや青みが強い紫色。虹の色や花の名前にも使われる。
+- **[violet](/word/violet)**：やや青みが強い紫色。虹の色や花の名前にも使われる。
 
 purpleは幅広い紫色を指し、violetはより青みが強い色や、自然界の特定の色を表すときに使われます。
 
@@ -105,14 +105,14 @@ purpleは幅広い紫色を指し、violetはより青みが強い色や、自�
 
 ## 🧩 あわせて覚えたい
 
-- [red](/red)：赤色
-- [blue](/blue)：青色
+- [red](/word/red)：赤色
+- [blue](/word/blue)：青色
 
 ---
 
 ## 📖 できればこれも
 
-- [green](/green)：緑色
-- [yellow](/yellow)：黄色
+- [green](/word/green)：緑色
+- [yellow](/word/yellow)：黄色
 
 <!-- cvid: aid30_bid19 -->

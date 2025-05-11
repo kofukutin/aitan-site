@@ -97,7 +97,7 @@ TOEICではPart 5を中心に、「追加の費用」「追加情報」などの
 ## 🤔  extra との違いは？
 
 - **additional**：既存のものに正式に「追加される」もの。ややフォーマル。
-- **[extra](/extra)**：必要以上や余分なもの、カジュアルな場面でよく使う。
+- **[extra](/word/extra)**：必要以上や余分なもの、カジュアルな場面でよく使う。
 
 「additional」はビジネスや公式な場面で「追加の」と丁寧に言いたいときに使い、「extra」は「余分」「おまけ」などカジュアルなニュアンスで使います。
 
@@ -105,14 +105,14 @@ TOEICではPart 5を中心に、「追加の費用」「追加情報」などの
 
 ## 🧩 あわせて覚えたい
 
-- [supplementary](/supplementary)：補足の、追加の
-- [optional](/optional)：任意の、選択できる
+- [supplementary](/word/supplementary)：補足の、追加の
+- [optional](/word/optional)：任意の、選択できる
 
 ---
 
 ## 📖 できればこれも
 
-- [necessary](/necessary)：必要な
-- [available](/available)：利用できる
+- [necessary](/word/necessary)：必要な
+- [available](/word/available)：利用できる
 
 <!-- cvid: aid32_bid18 -->

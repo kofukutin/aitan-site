@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やレポートの中で「分析した」とい
 ## 🤔  examined との違いは？
 
 - **analyzed**：細かく分けて論理的に調べる、分析する
-- **[examined](/examined)**：注意深く調べる、検査する
+- **[examined](/word/examined)**：注意深く調べる、検査する
 
 「analyzed」はデータや情報を論理的に分解して考察する時に使い、「examined」は物や状況を注意深く観察・点検する時に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネス文書やレポートの中で「分析した」とい
 
 ## 🧩 あわせて覚えたい
 
-- [investigate](/investigate)：詳しく調査する
-- [assess](/assess)：評価する、査定する
+- [investigate](/word/investigate)：詳しく調査する
+- [assess](/word/assess)：評価する、査定する
 
 ---
 
 ## 📖 できればこれも
 
-- [evaluate](/evaluate)：評価する
-- [review](/review)：見直す、再検討する
+- [evaluate](/word/evaluate)：評価する
+- [review](/word/review)：見直す、再検討する
 
 <!-- cvid: aid10_bid14 -->

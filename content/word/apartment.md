@@ -96,7 +96,7 @@ TOEICでは主にPart 1の写真描写問題で、建物や住居の説明とし
 ## 🤔  flat との違いは？
 
 - **apartment**：アメリカ英語で使われる「アパート」「マンション」
-- **[flat](/flat)**：イギリス英語で使われる「アパート」「マンション」
+- **[flat](/word/flat)**：イギリス英語で使われる「アパート」「マンション」
 
 apartmentはアメリカで一般的、flatはイギリスで使われる表現です。意味はほぼ同じですが、地域によって使い分けます。
 
@@ -104,14 +104,14 @@ apartmentはアメリカで一般的、flatはイギリスで使われる表現�
 
 ## 🧩 あわせて覚えたい
 
-- [condominium](/condominium)：分譲マンション
-- [suite](/suite)：スイートルーム、続き部屋
+- [condominium](/word/condominium)：分譲マンション
+- [suite](/word/suite)：スイートルーム、続き部屋
 
 ---
 
 ## 📖 できればこれも
 
-- [building](/building)：建物
-- [rent](/rent)：家賃、賃貸する
+- [building](/word/building)：建物
+- [rent](/word/rent)：家賃、賃貸する
 
 <!-- cvid: aid34_bid05 -->

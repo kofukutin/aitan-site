@@ -97,7 +97,7 @@ charmingは、ホテルや観光、サービス業の会話文で「感じのよ
 ## 🤔  attractive との違いは？
 
 - **charming**：人や物が「愛らしくて人を惹きつける」魅力を持つ
-- **[attractive](/attractive)**：外見や性質が「魅力的」「人を引きつける」
+- **[attractive](/word/attractive)**：外見や性質が「魅力的」「人を引きつける」
 
 charmingは「親しみやすさ」や「愛らしさ」を含む柔らかい魅力、attractiveは外見や能力など幅広い「魅力」を表します。
 
@@ -105,14 +105,14 @@ charmingは「親しみやすさ」や「愛らしさ」を含む柔らかい魅
 
 ## 🧩 あわせて覚えたい
 
-- [pleasant](/pleasant)：心地よい、感じのよい
-- [delightful](/delightful)：とても楽しい、愉快な
+- [pleasant](/word/pleasant)：心地よい、感じのよい
+- [delightful](/word/delightful)：とても楽しい、愉快な
 
 ---
 
 ## 📖 できればこれも
 
-- [friendly](/friendly)：親しみやすい、友好的な
-- [lovely](/lovely)：素敵な、かわいらしい
+- [friendly](/word/friendly)：親しみやすい、友好的な
+- [lovely](/word/lovely)：素敵な、かわいらしい
 
 <!-- cvid: aid24_bid40 -->

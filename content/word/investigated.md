@@ -97,7 +97,7 @@ TOEICでは、報告書やメール、ニュース記事などで「調査した
 ## 🤔  examined との違いは？
 
 - **investigated**：問題や事件などを詳しく調査・捜査した
-- **[examined](/examined)**：物や人、書類などを詳しく調べた
+- **[examined](/word/examined)**：物や人、書類などを詳しく調べた
 
 investigatedは「原因や事実を突き止めるための調査」、examinedは「細かく観察・点検する」という違いがあります。
 
@@ -105,14 +105,14 @@ investigatedは「原因や事実を突き止めるための調査」、examined
 
 ## 🧩 あわせて覚えたい
 
-- [inspect](/inspect)：点検する、検査する
-- [research](/research)：研究する、調査する（学術的）
+- [inspect](/word/inspect)：点検する、検査する
+- [research](/word/research)：研究する、調査する（学術的）
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/analyze)：分析する
-- [review](/review)：見直す、再検討する
+- [analyze](/word/analyze)：分析する
+- [review](/word/review)：見直す、再検討する
 
 <!-- cvid: aid02_bid28 -->

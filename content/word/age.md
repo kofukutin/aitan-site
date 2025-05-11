@@ -97,7 +97,7 @@ TOEICでは「年齢」や「時代」を問う文脈でよく出題されます
 ## 🤔  era との違いは？
 
 - **age**：人や物の年齢、または歴史上の時代を表す
-- **[era](/era)**：特徴的な出来事や人物によって区切られる「時代」
+- **[era](/word/era)**：特徴的な出来事や人物によって区切られる「時代」
 
 「age」は個人の年齢や広い意味での時代を指し、「era」は歴史的・社会的に特徴づけられる特定の時代を強調します。
 
@@ -105,13 +105,13 @@ TOEICでは「年齢」や「時代」を問う文脈でよく出題されます
 
 ## 🧩 あわせて覚えたい
 
-- [generation](/generation)：世代
-- [period](/period)：期間、時期
+- [generation](/word/generation)：世代
+- [period](/word/period)：期間、時期
 
 ---
 
 ## 📖 できればこれも
 
-- [date](/date)：日付
-- [stage](/stage)：段階、舞台
+- [date](/word/date)：日付
+- [stage](/word/stage)：段階、舞台
 <!-- cvid: aid14_bid02 -->

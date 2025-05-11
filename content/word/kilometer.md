@@ -97,7 +97,7 @@ TOEICでは、地図や距離を説明する場面で写真描写やリスニン
 ## 🤔  mile との違いは？
 
 - **kilometer**：メートル法の距離単位で、1,000メートルを表す。
-- **[mile](/mile)**：主にアメリカやイギリスで使われる距離単位で、約1,609メートル。
+- **[mile](/word/mile)**：主にアメリカやイギリスで使われる距離単位で、約1,609メートル。
 
 kilometerは国際的なメートル法、mileは主に英米圏で使われる単位なので、国や場面によって使い分けます。
 
@@ -105,14 +105,14 @@ kilometerは国際的なメートル法、mileは主に英米圏で使われる�
 
 ## 🧩 あわせて覚えたい
 
-- [meter](/meter)：メートル（長さの基本単位）
-- [centimeter](/centimeter)：センチメートル（1メートルの100分の1）
+- [meter](/word/meter)：メートル（長さの基本単位）
+- [centimeter](/word/centimeter)：センチメートル（1メートルの100分の1）
 
 ---
 
 ## 📖 できればこれも
 
-- [distance](/distance)：距離
-- [length](/length)：長さ
+- [distance](/word/distance)：距離
+- [length](/word/length)：長さ
 
 <!-- cvid: aid12_bid16 -->

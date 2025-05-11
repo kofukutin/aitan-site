@@ -99,7 +99,7 @@ TOEICでは、電話やメールでのやり取り、ビジネス上の連絡に
 ## 🤔  reached との違いは？
 
 - **contacted**：相手に連絡を取る、意思疎通を図ることを強調
-- **[reached](/reached)**：相手に「到達した」「つながった」ことを強調
+- **[reached](/word/reached)**：相手に「到達した」「つながった」ことを強調
 
 contactedは「連絡を取る行為」自体に重点があり、reachedは「実際に相手とつながった」結果に重点があります。
 
@@ -107,14 +107,14 @@ contactedは「連絡を取る行為」自体に重点があり、reachedは「�
 
 ## 🧩 あわせて覚えたい
 
-- [notify](/notify)：通知する、知らせる
-- [inform](/inform)：知らせる、情報を伝える
+- [notify](/word/notify)：通知する、知らせる
+- [inform](/word/inform)：知らせる、情報を伝える
 
 ---
 
 ## 📖 できればこれも
 
-- [respond](/respond)：返答する
-- [reply](/reply)：返事をする
+- [respond](/word/respond)：返答する
+- [reply](/word/reply)：返事をする
 
 <!-- cvid: aid08_bid35 -->

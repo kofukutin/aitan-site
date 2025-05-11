@@ -97,7 +97,7 @@ chargedは、会議や議論の場面で「感情的な」「緊張した」な�
 ## 🤔  energetic との違いは？
 
 - **charged**：感情や雰囲気が高ぶっている、緊張感がある
-- **[energetic](/energetic)**：エネルギッシュな、活力にあふれている
+- **[energetic](/word/energetic)**：エネルギッシュな、活力にあふれている
 
 chargedは「感情や空気がピリピリしている」など、強い影響や緊張感を表しますが、energeticは「元気がある」「活発」といったポジティブな活力を指します。
 
@@ -105,14 +105,14 @@ chargedは「感情や空気がピリピリしている」など、強い影響�
 
 ## 🧩 あわせて覚えたい
 
-- [neutral](/neutral)：中立的な、感情がこもっていない
-- [intense](/intense)：強烈な、激しい
+- [neutral](/word/neutral)：中立的な、感情がこもっていない
+- [intense](/word/intense)：強烈な、激しい
 
 ---
 
 ## 📖 できればこれも
 
-- [active](/active)：活動的な
-- [dynamic](/dynamic)：ダイナミックな、活発な
+- [active](/word/active)：活動的な
+- [dynamic](/word/dynamic)：ダイナミックな、活発な
 
 <!-- cvid: aid17_bid02 -->

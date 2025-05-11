@@ -97,7 +97,7 @@ TOEICでは、趣味や特定分野への情熱を表す文脈で登場するこ
 ## 🤔  fan との違いは？
 
 - **enthusiast**：特定の分野や活動に強い情熱を持つ人
-- **[fan](/fan)**：有名人やスポーツチームなどの「ファン」、ややカジュアルな表現
+- **[fan](/word/fan)**：有名人やスポーツチームなどの「ファン」、ややカジュアルな表現
 
 「enthusiast」は知識や情熱の深さを強調し、専門的な愛好家にも使われますが、「fan」はより広く一般的な支持者やファンに使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、趣味や特定分野への情熱を表す文脈で登場するこ
 
 ## 🧩 あわせて覚えたい
 
-- [amateur](/amateur)：アマチュア、素人
-- [professional](/professional)：プロ、専門家
+- [amateur](/word/amateur)：アマチュア、素人
+- [professional](/word/professional)：プロ、専門家
 
 ---
 
 ## 📖 できればこれも
 
-- [passion](/passion)：情熱
-- [dedicate](/dedicate)：捧げる、専念する
+- [passion](/word/passion)：情熱
+- [dedicate](/word/dedicate)：捧げる、専念する
 
 <!-- cvid: aid13_bid06 -->

@@ -97,7 +97,7 @@ TOEICでは、ビジネス文脈で「競争力のある」「競争が激しい
 ## 🤔  ambitious との違いは？
 
 - **competitive**：他者と競い合うことや、競争力があることを強調する
-- **[ambitious](/ambitious)**：目標や成功への強い意欲・野心を強調する
+- **[ambitious](/word/ambitious)**：目標や成功への強い意欲・野心を強調する
 
 competitiveは「他と比べて勝ちたい・負けたくない」気持ち、ambitiousは「高い目標を持ち、それを達成したい」気持ちに焦点があります。
 
@@ -105,14 +105,14 @@ competitiveは「他と比べて勝ちたい・負けたくない」気持ち、
 
 ## 🧩 あわせて覚えたい
 
-- [cooperative](/cooperative)：協力的な
-- [aggressive](/aggressive)：攻撃的な、積極的な
+- [cooperative](/word/cooperative)：協力的な
+- [aggressive](/word/aggressive)：攻撃的な、積極的な
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/efficient)：効率的な
-- [productive](/productive)：生産的な
+- [efficient](/word/efficient)：効率的な
+- [productive](/word/productive)：生産的な
 
 <!-- cvid: aid24_bid39 -->

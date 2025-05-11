@@ -97,7 +97,7 @@ TOEICでは「選択」「品揃え」「選考」などの意味で、名詞と
 ## 🤔  choice との違いは？
 
 - **selection**：選ぶ行為や選ばれたもの、または品揃えを指す
-- **[choice](/choice)**：選択肢そのものや、選んだ結果を強調
+- **[choice](/word/choice)**：選択肢そのものや、選んだ結果を強調
 
 **selection**は「選ぶ行為」や「選ばれたもの全体」「品揃え」に焦点があり、**choice**は「選択肢」や「選んだもの」をより個別に指します。
 
@@ -105,14 +105,14 @@ TOEICでは「選択」「品揃え」「選考」などの意味で、名詞と
 
 ## 🧩 あわせて覚えたい
 
-- [option](/option)：選択肢、オプション
-- [variety](/variety)：多様性、いろいろな種類
+- [option](/word/option)：選択肢、オプション
+- [variety](/word/variety)：多様性、いろいろな種類
 
 ---
 
 ## 📖 できればこれも
 
-- [decision](/decision)：決定、判断
-- [candidate](/candidate)：候補者
+- [decision](/word/decision)：決定、判断
+- [candidate](/word/candidate)：候補者
 
 <!-- cvid: aid30_bid11 -->

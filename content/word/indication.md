@@ -98,7 +98,7 @@ TOEICでは、報告書やメール、説明文などで「兆候」「指示」
 ## 🤔  sign との違いは？
 
 - **indication**：何かが起こる・存在することを示すフォーマルな「兆候」「指示」
-- **[sign](/sign)**：もっと広く「サイン」「標識」「合図」などカジュアルにも使える
+- **[sign](/word/sign)**：もっと広く「サイン」「標識」「合図」などカジュアルにも使える
 
 indicationは書類や説明文などフォーマルな場面で使われやすく、signは日常的な「合図」「標識」など幅広い意味で使われます。
 
@@ -106,14 +106,14 @@ indicationは書類や説明文などフォーマルな場面で使われやす�
 
 ## 🧩 あわせて覚えたい
 
-- [evidence](/evidence)：証拠
-- [suggestion](/suggestion)：提案、示唆
+- [evidence](/word/evidence)：証拠
+- [suggestion](/word/suggestion)：提案、示唆
 
 ---
 
 ## 📖 できればこれも
 
-- [instruction](/instruction)：指示、説明
-- [demonstration](/demonstration)：実演、証明
+- [instruction](/word/instruction)：指示、説明
+- [demonstration](/word/demonstration)：実演、証明
 
 <!-- cvid: aid25_bid02 -->

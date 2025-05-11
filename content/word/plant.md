@@ -97,7 +97,7 @@ TOEICでは「工場」「設備」という意味で会話や説明文に頻出
 ## 🤔  factory との違いは？
 
 - **plant**：大規模な工場や生産設備全体を指すことが多い
-- **[factory](/factory)**：一般的な「工場」、建物そのものを指す
+- **[factory](/word/factory)**：一般的な「工場」、建物そのものを指す
 
 plantは設備や敷地全体を含むニュアンスがあり、factoryは建物や製造現場そのものを指します。
 
@@ -105,14 +105,14 @@ plantは設備や敷地全体を含むニュアンスがあり、factoryは建�
 
 ## 🧩 あわせて覚えたい
 
-- [equipment](/equipment)：設備、装置
-- [machinery](/machinery)：機械類
+- [equipment](/word/equipment)：設備、装置
+- [machinery](/word/machinery)：機械類
 
 ---
 
 ## 📖 できればこれも
 
-- [office](/office)：事務所、オフィス
-- [branch](/branch)：支店、支社
+- [office](/word/office)：事務所、オフィス
+- [branch](/word/branch)：支店、支社
 
 <!-- cvid: aid22_bid35 -->

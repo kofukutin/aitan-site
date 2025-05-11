@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、屋外のシーンや建物の説明
 ## 🤔  terrace との違いは？
 
 - **patio**：建物の外にある舗装された屋外スペースで、主に地面と同じ高さにある。
-- **[terrace](/terrace)**：建物の外にある屋外スペースで、地面より高い位置や階段状になっていることも多い。
+- **[terrace](/word/terrace)**：建物の外にある屋外スペースで、地面より高い位置や階段状になっていることも多い。
 
 patioは主に地面と同じ高さの中庭やテラスを指し、terraceは階段状や高い場所にある屋外スペースを指すことが多いです。
 
@@ -105,14 +105,14 @@ patioは主に地面と同じ高さの中庭やテラスを指し、terraceは�
 
 ## 🧩 あわせて覚えたい
 
-- [balcony](/balcony)：建物の外壁から突き出したバルコニー
-- [garden](/garden)：庭
+- [balcony](/word/balcony)：建物の外壁から突き出したバルコニー
+- [garden](/word/garden)：庭
 
 ---
 
 ## 📖 できればこれも
 
-- [lawn](/lawn)：芝生
-- [porch](/porch)：玄関ポーチ
+- [lawn](/word/lawn)：芝生
+- [porch](/word/porch)：玄関ポーチ
 
 <!-- cvid: aid01_bid14 -->

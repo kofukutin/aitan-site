@@ -97,7 +97,7 @@ TOEICでは会議やイベントの主催に関する会話や説明でよく出
 ## 🤔  organize との違いは？
 
 - **hosted**：主催者としてイベントを開き、もてなすニュアンスが強い
-- **[organize](/organize)**：計画・準備・手配など「まとめる」ことに重点
+- **[organize](/word/organize)**：計画・準備・手配など「まとめる」ことに重点
 
 「hosted」は「主催者として迎える」イメージ、「organize」は「計画・準備を整える」ことに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは会議やイベントの主催に関する会話や説明でよく出
 
 ## 🧩 あわせて覚えたい
 
-- [invite](/invite)：招待する
-- [attend](/attend)：出席する
+- [invite](/word/invite)：招待する
+- [attend](/word/attend)：出席する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/arrange)：手配する、準備する
-- [manage](/manage)：管理する、運営する
+- [arrange](/word/arrange)：手配する、準備する
+- [manage](/word/manage)：管理する、運営する
 
 <!-- cvid: aid06_bid12 -->

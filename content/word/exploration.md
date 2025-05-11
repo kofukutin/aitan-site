@@ -97,7 +97,7 @@ TOEICでは主に科学やビジネス分野の長文で、未知の分野や新
 ## 🤔  investigation との違いは？
 
 - **exploration**：未知の場所や分野を積極的に探し求めること
-- **[investigation](/investigation)**：事件や問題などを詳しく調べること
+- **[investigation](/word/investigation)**：事件や問題などを詳しく調べること
 
 explorationは「新しいものを発見するための探検・調査」、investigationは「原因や事実を明らかにするための調査」という違いがあります。
 
@@ -105,14 +105,14 @@ explorationは「新しいものを発見するための探検・調査」、inv
 
 ## 🧩 あわせて覚えたい
 
-- [discovery](/discovery)：発見
-- [survey](/survey)：調査、測量
+- [discovery](/word/discovery)：発見
+- [survey](/word/survey)：調査、測量
 
 ---
 
 ## 📖 できればこれも
 
-- [experiment](/experiment)：実験
-- [analysis](/analysis)：分析
+- [experiment](/word/experiment)：実験
+- [analysis](/word/analysis)：分析
 
 <!-- cvid: aid26_bid46 -->

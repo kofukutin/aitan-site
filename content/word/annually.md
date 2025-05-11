@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や案内文などで「年に1回」「毎�
 ## 🤔  yearly との違いは？
 
 - **annually**：フォーマルで書き言葉的な「毎年」「年に1回」
-- **[yearly](/yearly)**：ややカジュアルで、形容詞としても使える「毎年の」「年ごとに」
+- **[yearly](/word/yearly)**：ややカジュアルで、形容詞としても使える「毎年の」「年ごとに」
 
 annuallyは主にビジネスや公式文書で使われ、yearlyは日常会話や広告など幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ annuallyは主にビジネスや公式文書で使われ、yearlyは日常会話
 
 ## 🧩 あわせて覚えたい
 
-- [monthly](/monthly)：毎月
-- [quarterly](/quarterly)：四半期ごとに
+- [monthly](/word/monthly)：毎月
+- [quarterly](/word/quarterly)：四半期ごとに
 
 ---
 
 ## 📖 できればこれも
 
-- [frequently](/frequently)：頻繁に
-- [regularly](/regularly)：定期的に
+- [frequently](/word/frequently)：頻繁に
+- [regularly](/word/regularly)：定期的に
 
 <!-- cvid: aid06_bid20 -->

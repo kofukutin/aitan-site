@@ -97,7 +97,7 @@ TOEICのPart 1（写真描写）で、部屋やオフィスの備品として「
 ## 🤔  light との違いは？
 
 - **lamp**：特定の照明器具そのものを指す
-- **[light](/light)**：光そのものや、照明全般を広く指す
+- **[light](/word/light)**：光そのものや、照明全般を広く指す
 
 lampは「物」としての照明器具、lightは「光」や「明かり」そのものや、照明全般を指します。
 
@@ -105,14 +105,14 @@ lampは「物」としての照明器具、lightは「光」や「明かり」�
 
 ## 🧩 あわせて覚えたい
 
-- [bulb](/bulb)：電球
-- [lantern](/lantern)：ランタン、携帯用照明
+- [bulb](/word/bulb)：電球
+- [lantern](/word/lantern)：ランタン、携帯用照明
 
 ---
 
 ## 📖 できればこれも
 
-- [desk](/desk)：机
-- [chair](/chair)：椅子
+- [desk](/word/desk)：机
+- [chair](/word/chair)：椅子
 
 <!-- cvid: aid23_bid21 -->

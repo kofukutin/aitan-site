@@ -97,7 +97,7 @@ TOEICでは契約書や証明書、調査結果の説明文などで「validity�
 ## 🤔  accuracy との違いは？
 
 - **validity**：妥当性・有効性（そのものが正当か、認められるか）
-- **[accuracy](/accuracy)**：正確さ（誤りがないこと、精度）
+- **[accuracy](/word/accuracy)**：正確さ（誤りがないこと、精度）
 
 validityは「有効かどうか」「認められるか」に焦点があり、accuracyは「どれだけ正確か」に重点があります。
 
@@ -105,14 +105,14 @@ validityは「有効かどうか」「認められるか」に焦点があり、
 
 ## 🧩 あわせて覚えたい
 
-- [legitimacy](/legitimacy)：合法性、正当性
-- [reliability](/reliability)：信頼性
+- [legitimacy](/word/legitimacy)：合法性、正当性
+- [reliability](/word/reliability)：信頼性
 
 ---
 
 ## 📖 できればこれも
 
-- [certificate](/certificate)：証明書
-- [approval](/approval)：承認
+- [certificate](/word/certificate)：証明書
+- [approval](/word/approval)：承認
 
 <!-- cvid: aid18_bid35 -->

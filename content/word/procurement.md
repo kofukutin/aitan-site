@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やEメール、契約書などの長文読�
 ## 🤔  purchase との違いは？
 
 - **procurement**：企業や組織による計画的・公式な調達活動全体を指すフォーマルな表現
-- **[purchase](/purchase)**：一般的な「購入」「買うこと」を意味し、個人・企業どちらにも使える
+- **[purchase](/word/purchase)**：一般的な「購入」「買うこと」を意味し、個人・企業どちらにも使える
 
 procurementは特にビジネスや公的機関での「調達プロセス」や「購買活動」を指し、purchaseは日常的な「買う」という意味で幅広く使われます。
 
@@ -105,14 +105,14 @@ procurementは特にビジネスや公的機関での「調達プロセス」や
 
 ## 🧩 あわせて覚えたい
 
-- [acquisition](/acquisition)：取得、獲得
-- [supply](/supply)：供給、支給
+- [acquisition](/word/acquisition)：取得、獲得
+- [supply](/word/supply)：供給、支給
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/contract)：契約
-- [invoice](/invoice)：請求書
+- [contract](/word/contract)：契約
+- [invoice](/word/invoice)：請求書
 
 <!-- cvid: aid21_bid40 -->

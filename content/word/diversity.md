@@ -97,7 +97,7 @@ TOEICでは、企業の方針や組織文化に関する長文で「diversity」
 ## 🤔  variety との違いは？
 
 - **diversity**：異なるものが共存している「多様性」や「幅広さ」を強調
-- **[variety](/variety)**：種類やバリエーションの「豊富さ」を表現
+- **[variety](/word/variety)**：種類やバリエーションの「豊富さ」を表現
 
 diversityは「違いが共存している状態」に重点があり、varietyは「選択肢や種類の多さ」に焦点があります。
 
@@ -105,14 +105,14 @@ diversityは「違いが共存している状態」に重点があり、variety�
 
 ## 🧩 あわせて覚えたい
 
-- [inclusion](/inclusion)：受け入れ・包摂
-- [difference](/difference)：違い
+- [inclusion](/word/inclusion)：受け入れ・包摂
+- [difference](/word/difference)：違い
 
 ---
 
 ## 📖 できればこれも
 
-- [equality](/equality)：平等
-- [culture](/culture)：文化
+- [equality](/word/equality)：平等
+- [culture](/word/culture)：文化
 
 <!-- cvid: aid05_bid08 -->

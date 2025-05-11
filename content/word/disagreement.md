@@ -97,7 +97,7 @@ disagreementは会議や交渉、意見交換の場面で出題されやすい�
 ## 🤔  conflict との違いは？
 
 - **disagreement**：意見や考え方の不一致、比較的軽い対立
-- **[conflict](/conflict)**：深刻な対立や衝突、感情的な争い
+- **[conflict](/word/conflict)**：深刻な対立や衝突、感情的な争い
 
 disagreementは日常的な意見の食い違いに使われ、conflictはより深刻で感情的な対立や争いを指します。
 
@@ -105,14 +105,14 @@ disagreementは日常的な意見の食い違いに使われ、conflictはより
 
 ## 🧩 あわせて覚えたい
 
-- [agreement](/agreement)：同意、合意
-- [debate](/debate)：討論、議論
+- [agreement](/word/agreement)：同意、合意
+- [debate](/word/debate)：討論、議論
 
 ---
 
 ## 📖 できればこれも
 
-- [discussion](/discussion)：話し合い、討議
-- [argument](/argument)：口論、議論
+- [discussion](/word/discussion)：話し合い、討議
+- [argument](/word/argument)：口論、議論
 
 <!-- cvid: aid01_bid31 -->

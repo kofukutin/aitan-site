@@ -96,7 +96,7 @@ TOEICでは「everyday」と「every day」の違いを問う問題や、日常�
 ## 🤔  daily との違いは？
 
 - **everyday**：日常的な、ありふれた（形容詞）
-- **[daily](/daily)**：毎日の、日々の（形容詞・副詞）
+- **[daily](/word/daily)**：毎日の、日々の（形容詞・副詞）
 
 「everyday」は「日常的な」「普段の」といった意味で、生活や物事のありふれた様子を表します。「daily」は「毎日行われる」「日ごとの」という意味で、頻度や周期を強調します。
 
@@ -104,14 +104,14 @@ TOEICでは「everyday」と「every day」の違いを問う問題や、日常�
 
 ## 🧩 あわせて覚えたい
 
-- [ordinary](/ordinary)：普通の、ありふれた
-- [routine](/routine)：決まりきった、日課の
+- [ordinary](/word/ordinary)：普通の、ありふれた
+- [routine](/word/routine)：決まりきった、日課の
 
 ---
 
 ## 📖 できればこれも
 
-- [usual](/usual)：いつもの、通常の
-- [common](/common)：一般的な、よくある
+- [usual](/word/usual)：いつもの、通常の
+- [common](/word/common)：一般的な、よくある
 
 <!-- cvid: aid08_bid25 -->

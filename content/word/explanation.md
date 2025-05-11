@@ -97,7 +97,7 @@ TOEICでは、メールや通知文、説明文などで「explanation」が理�
 ## 🤔  description との違いは？
 
 - **explanation**：理由や仕組みを「説明」することに重点がある
-- **[description](/description)**：特徴や様子を「描写・記述」することに重点がある
+- **[description](/word/description)**：特徴や様子を「描写・記述」することに重点がある
 
 「explanation」は物事の理由や背景を明らかにする説明、「description」は見た目や状態などを詳しく描写する時に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、メールや通知文、説明文などで「explanation」が理�
 
 ## 🧩 あわせて覚えたい
 
-- [clarification](/clarification)：明確化、はっきりさせること
-- [excuse](/excuse)：言い訳、弁解
+- [clarification](/word/clarification)：明確化、はっきりさせること
+- [excuse](/word/excuse)：言い訳、弁解
 
 ---
 
 ## 📖 できればこれも
 
-- [reason](/reason)：理由
-- [statement](/statement)：声明、述べたこと
+- [reason](/word/reason)：理由
+- [statement](/word/statement)：声明、述べたこと
 
 <!-- cvid: aid37_bid19 -->

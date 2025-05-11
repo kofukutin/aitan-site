@@ -97,7 +97,7 @@ ITやビジネス文書で「ファイルを圧縮する」意味で出題され
 ## 🤔  compress との違いは？
 
 - **zip**：主にIT分野で「ファイルを圧縮する」意味。カジュアルで具体的な圧縮形式（ZIPファイル）を指すことが多い。
-- **[compress](/compress)**：より一般的な「圧縮する」。ファイルだけでなく物理的な圧縮にも使える。
+- **[compress](/word/compress)**：より一般的な「圧縮する」。ファイルだけでなく物理的な圧縮にも使える。
 
 zipはITや日常会話で使われやすく、compressはより広い意味でフォーマルな場面でも使えます。
 
@@ -105,14 +105,14 @@ zipはITや日常会話で使われやすく、compressはより広い意味で�
 
 ## 🧩 あわせて覚えたい
 
-- [extract](/extract)：（圧縮ファイルを）解凍する
-- [attach](/attach)：添付する
+- [extract](/word/extract)：（圧縮ファイルを）解凍する
+- [attach](/word/attach)：添付する
 
 ---
 
 ## 📖 できればこれも
 
-- [save](/save)：保存する
-- [upload](/upload)：アップロードする
+- [save](/word/save)：保存する
+- [upload](/word/upload)：アップロードする
 
 <!-- cvid: aid13_bid19 -->

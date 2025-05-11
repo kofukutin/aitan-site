@@ -97,7 +97,7 @@ TOEICでは物語やエッセイ調の長文、または比喩表現で登場す
 ## 🤔  spirit との違いは？
 
 - **soul**：人間の本質や感情、死後も残るとされる「魂」を指す。
-- **[spirit](/spirit)**：気力や活力、または幽霊・精霊など幅広い「精神・霊」を指す。
+- **[spirit](/word/spirit)**：気力や活力、または幽霊・精霊など幅広い「精神・霊」を指す。
 
 soulは個人の内面や感情に焦点を当てるのに対し、spiritは元気や雰囲気、または超自然的な存在まで幅広く使われます。
 
@@ -105,14 +105,14 @@ soulは個人の内面や感情に焦点を当てるのに対し、spiritは元�
 
 ## 🧩 あわせて覚えたい
 
-- [mind](/mind)：心、知性
-- [body](/body)：体、身体
+- [mind](/word/mind)：心、知性
+- [body](/word/body)：体、身体
 
 ---
 
 ## 📖 できればこれも
 
-- [heart](/heart)：心、感情
-- [emotion](/emotion)：感情、情緒
+- [heart](/word/heart)：心、感情
+- [emotion](/word/emotion)：感情、情緒
 
 <!-- cvid: aid39_bid42 -->

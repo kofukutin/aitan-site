@@ -97,7 +97,7 @@ TOEICでは、ownershipはビジネス文書や契約関連の文脈で名詞と
 ## 🤔  possession との違いは？
 
 - **ownership**：法的・公式な「所有権」や「所有している状態」を強調
-- **[possession](/possession)**：実際に「持っていること」や「所持」を広く表す
+- **[possession](/word/possession)**：実際に「持っていること」や「所持」を広く表す
 
 ownershipは権利や登記など公式な所有を指し、possessionは単に手元にある・持っている状態も含みます。
 
@@ -105,14 +105,14 @@ ownershipは権利や登記など公式な所有を指し、possessionは単に�
 
 ## 🧩 あわせて覚えたい
 
-- [responsibility](/responsibility)：責任
-- [proprietor](/proprietor)：（特に小規模ビジネスの）所有者
+- [responsibility](/word/responsibility)：責任
+- [proprietor](/word/proprietor)：（特に小規模ビジネスの）所有者
 
 ---
 
 ## 📖 できればこれも
 
-- [asset](/asset)：資産
-- [liability](/liability)：負債
+- [asset](/word/asset)：資産
+- [liability](/word/liability)：負債
 
 <!-- cvid: aid48_bid49 -->

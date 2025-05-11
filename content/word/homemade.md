@@ -97,7 +97,7 @@ TOEICではカフェやレストラン、観光案内などの会話で「homema
 ## 🤔  handmade との違いは？
 
 - **homemade**：家庭で作られた、自家製の
-- **[handmade](/handmade)**：手作業で作られた、手作りの
+- **[handmade](/word/handmade)**：手作業で作られた、手作りの
 
 「homemade」は家庭で作られたことを強調し、特に食べ物に多く使います。「handmade」は手作業で作られたことを指し、工芸品やアクセサリーなど幅広い物に使います。
 
@@ -105,14 +105,14 @@ TOEICではカフェやレストラン、観光案内などの会話で「homema
 
 ## 🧩 あわせて覚えたい
 
-- [domestic](/domestic)：国内の、家庭の
-- [factory_made](/factory_made)：工場製の
+- [domestic](/word/domestic)：国内の、家庭の
+- [factory_made](/word/factory_made)：工場製の
 
 ---
 
 ## 📖 できればこれも
 
-- [fresh](/fresh)：新鮮な
-- [local](/local)：地元の
+- [fresh](/word/fresh)：新鮮な
+- [local](/word/local)：地元の
 
 <!-- cvid: aid00_bid02 -->

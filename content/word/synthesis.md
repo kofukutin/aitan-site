@@ -97,7 +97,7 @@ TOEICでは主に科学やビジネスの長文読解で、情報の統合や要
 ## 🤔  integration との違いは？
 
 - **synthesis**：異なる要素を組み合わせて新しいものや全体像を作り出すこと。
-- **[integration](/integration)**：異なるものを一体化・統合して全体にまとめること。
+- **[integration](/word/integration)**：異なるものを一体化・統合して全体にまとめること。
 
 synthesisは新しいものを生み出す創造的な「総合」、integrationは既存のものを一つにまとめる「統合」というニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ synthesisは新しいものを生み出す創造的な「総合」、integration
 
 ## 🧩 あわせて覚えたい
 
-- [analysis](/analysis)：分析、分解
-- [combination](/combination)：組み合わせ、結合
+- [analysis](/word/analysis)：分析、分解
+- [combination](/word/combination)：組み合わせ、結合
 
 ---
 
 ## 📖 できればこれも
 
-- [hypothesis](/hypothesis)：仮説
-- [theory](/theory)：理論
+- [hypothesis](/word/hypothesis)：仮説
+- [theory](/word/theory)：理論
 
 <!-- cvid: aid47_bid09 -->

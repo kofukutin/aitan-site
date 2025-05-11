@@ -97,7 +97,7 @@ TOEICでは主に長文読解や説明文で、文章やレポートの性質を
 ## 🤔  explanatory との違いは？
 
 - **descriptive**：物事をありのままに描写・記述する
-- **[explanatory](/explanatory)**：物事の理由や仕組みを説明する
+- **[explanatory](/word/explanatory)**：物事の理由や仕組みを説明する
 
 「descriptive」は見た目や特徴を詳しく伝えるとき、「explanatory」はなぜそうなるのか理由や背景を説明するときに使います。
 
@@ -105,14 +105,14 @@ TOEICでは主に長文読解や説明文で、文章やレポートの性質を
 
 ## 🧩 あわせて覚えたい
 
-- [narrative](/narrative)：物語の、物語的な
-- [analytical](/analytical)：分析的な
+- [narrative](/word/narrative)：物語の、物語的な
+- [analytical](/word/analytical)：分析的な
 
 ---
 
 ## 📖 できればこれも
 
-- [detailed](/detailed)：詳細な
-- [illustrative](/illustrative)：説明のための、例示的な
+- [detailed](/word/detailed)：詳細な
+- [illustrative](/word/illustrative)：説明のための、例示的な
 
 <!-- cvid: aid10_bid06 -->

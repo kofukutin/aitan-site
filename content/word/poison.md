@@ -97,7 +97,7 @@ TOEICでは、健康や環境、製品リコールなどの文脈で登場する
 ## 🤔  toxin との違いは？
 
 - **poison**：一般的に有害な物質や毒全般を指す。
-- **[toxin](/toxin)**：生物が作り出す天然の毒素を指す。
+- **[toxin](/word/toxin)**：生物が作り出す天然の毒素を指す。
 
 「poison」は人工・自然問わず広く「毒」を指しますが、「toxin」は細菌や動植物など生物由来の毒素に限定されます。
 
@@ -105,14 +105,14 @@ TOEICでは、健康や環境、製品リコールなどの文脈で登場する
 
 ## 🧩 あわせて覚えたい
 
-- [antidote](/antidote)：解毒剤
-- [venom](/venom)：（ヘビや昆虫などの）毒液
+- [antidote](/word/antidote)：解毒剤
+- [venom](/word/venom)：（ヘビや昆虫などの）毒液
 
 ---
 
 ## 📖 できればこれも
 
-- [harmful](/harmful)：有害な
-- [danger](/danger)：危険
+- [harmful](/word/harmful)：有害な
+- [danger](/word/danger)：危険
 
 <!-- cvid: aid01_bid16 -->

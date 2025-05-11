@@ -97,7 +97,7 @@ lockingはITや設備管理、セキュリティ関連の会話や説明文で�
 ## 🤔  fastening との違いは？
 
 - **locking**：鍵や装置で「ロックすること」「施錠」を指す
-- **[fastening](/fastening)**：ひもやボタンなどで「留めること」「固定すること」を指す
+- **[fastening](/word/fastening)**：ひもやボタンなどで「留めること」「固定すること」を指す
 
 lockingは「鍵」や「ロック機構」による施錠、fasteningは広く「何かを留める・固定する」場合に使います。
 
@@ -105,14 +105,14 @@ lockingは「鍵」や「ロック機構」による施錠、fasteningは広く�
 
 ## 🧩 あわせて覚えたい
 
-- [unlocking](/unlocking)：解錠、ロック解除
-- [securing](/securing)：確保、固定
+- [unlocking](/word/unlocking)：解錠、ロック解除
+- [securing](/word/securing)：確保、固定
 
 ---
 
 ## 📖 できればこれも
 
 - [locking mechanism](/locking mechanism)：ロック機構
-- [unlock](/unlock)：解錠する
+- [unlock](/word/unlock)：解錠する
 
 <!-- cvid: aid25_bid38 -->

@@ -97,7 +97,7 @@ TOEICでは科学や宇宙に関する記事や説明文で見かけることが
 ## 🤔  cosmos との違いは？
 
 - **universe**：科学的・物理的な「宇宙」全体を指すことが多い
-- **[cosmos](/cosmos)**：秩序や調和を強調した「宇宙」、詩的・哲学的な響きが強い
+- **[cosmos](/word/cosmos)**：秩序や調和を強調した「宇宙」、詩的・哲学的な響きが強い
 
 universeは物理的な宇宙全体を指すのに対し、cosmosは「秩序ある宇宙」や「調和」を強調した表現で、文学や哲学でよく使われます。
 
@@ -105,14 +105,14 @@ universeは物理的な宇宙全体を指すのに対し、cosmosは「秩序あ
 
 ## 🧩 あわせて覚えたい
 
-- [galaxy](/galaxy)：銀河
-- [space](/space)：宇宙空間
+- [galaxy](/word/galaxy)：銀河
+- [space](/word/space)：宇宙空間
 
 ---
 
 ## 📖 できればこれも
 
-- [planet](/planet)：惑星
-- [system](/system)：体系、システム
+- [planet](/word/planet)：惑星
+- [system](/word/system)：体系、システム
 
 <!-- cvid: aid49_bid25 -->

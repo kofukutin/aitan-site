@@ -97,7 +97,7 @@ semiはTOEICの語彙問題や説明文で、接頭辞として「半～」「�
 ## 🤔  partial との違いは？
 
 - **semi**：半分の、または半分に近い部分的な状態を表す
-- **[partial](/partial)**：一部の、全体の一部分であることを強調
+- **[partial](/word/partial)**：一部の、全体の一部分であることを強調
 
 semiは「半分」や「半～」の意味が強く、partialは「一部」や「部分的」という広い意味で使われます。
 
@@ -105,14 +105,14 @@ semiは「半分」や「半～」の意味が強く、partialは「一部」や
 
 ## 🧩 あわせて覚えたい
 
-- [half](/half)：半分
-- [quasi](/quasi)：準～、ほぼ～
+- [half](/word/half)：半分
+- [quasi](/word/quasi)：準～、ほぼ～
 
 ---
 
 ## 📖 できればこれも
 
-- [partial](/partial)：部分的な
-- [halfway](/halfway)：途中で、半分だけ
+- [partial](/word/partial)：部分的な
+- [halfway](/word/halfway)：途中で、半分だけ
 
 <!-- cvid: aid30_bid41 -->

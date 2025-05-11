@@ -97,7 +97,7 @@ shownは、TOEICの会話や説明文で受動態や完了形の一部として�
 ## 🤔  displayed との違いは？
 
 - **shown**：見せる・示す（一般的な「見せる」動作や結果に幅広く使う）
-- **[displayed](/displayed)**：展示する・表示する（特に「陳列」「画面表示」など目立つ形で見せる）
+- **[displayed](/word/displayed)**：展示する・表示する（特に「陳列」「画面表示」など目立つ形で見せる）
 
 shownは「見せる」全般に使えますが、displayedは「展示」「ディスプレイ」など、より目立つ形で見せる場合に使います。
 
@@ -105,14 +105,14 @@ shownは「見せる」全般に使えますが、displayedは「展示」「デ
 
 ## 🧩 あわせて覚えたい
 
-- [present](/present)：提示する、発表する
-- [indicate](/indicate)：指し示す、示す
+- [present](/word/present)：提示する、発表する
+- [indicate](/word/indicate)：指し示す、示す
 
 ---
 
 ## 📖 できればこれも
 
-- [prove](/prove)：証明する
-- [demonstrate](/demonstrate)：実演する、明示する
+- [prove](/word/prove)：証明する
+- [demonstrate](/word/demonstrate)：実演する、明示する
 
 <!-- cvid: aid04_bid18 -->

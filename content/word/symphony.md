@@ -97,7 +97,7 @@ TOEICでは観光案内やイベント情報、文化紹介の長文で登場す
 ## 🤔  orchestra との違いは？
 
 - **symphony**：複数楽章からなる大規模な交響曲、または交響楽団そのもの
-- **[orchestra](/orchestra)**：管弦楽団そのもの（演奏するグループ）
+- **[orchestra](/word/orchestra)**：管弦楽団そのもの（演奏するグループ）
 
 symphonyは「曲」または「交響楽団」の両方を指しますが、orchestraは「演奏する団体」だけを意味します。
 
@@ -105,14 +105,14 @@ symphonyは「曲」または「交響楽団」の両方を指しますが、orc
 
 ## 🧩 あわせて覚えたい
 
-- [concerto](/concerto)：協奏曲（独奏楽器とオーケストラのための楽曲）
-- [melody](/melody)：旋律、メロディー
+- [concerto](/word/concerto)：協奏曲（独奏楽器とオーケストラのための楽曲）
+- [melody](/word/melody)：旋律、メロディー
 
 ---
 
 ## 📖 できればこれも
 
-- [composer](/composer)：作曲家
-- [performance](/performance)：演奏、上演
+- [composer](/word/composer)：作曲家
+- [performance](/word/performance)：演奏、上演
 
 <!-- cvid: aid37_bid36 -->

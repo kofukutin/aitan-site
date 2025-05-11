@@ -97,7 +97,7 @@ TOEICでは職務経験や業務上の体験について問う場面でよく登
 ## 🤔  undergo との違いは？
 
 - **experience**：自分が体験し、そこから知識や感情を得ることに重点がある
-- **[undergo](/undergo)**：困難や変化などを「受ける」「経験する」ことに重点がある
+- **[undergo](/word/undergo)**：困難や変化などを「受ける」「経験する」ことに重点がある
 
 experienceは主観的な体験や学びに、undergoは外的な出来事やプロセスに使われます。
 
@@ -105,14 +105,14 @@ experienceは主観的な体験や学びに、undergoは外的な出来事やプ
 
 ## 🧩 あわせて覚えたい
 
-- [knowledge](/knowledge)：知識
-- [experiment](/experiment)：実験、試み
+- [knowledge](/word/knowledge)：知識
+- [experiment](/word/experiment)：実験、試み
 
 ---
 
 ## 📖 できればこれも
 
-- [skill](/skill)：技能、スキル
-- [practice](/practice)：練習、実践
+- [skill](/word/skill)：技能、スキル
+- [practice](/word/practice)：練習、実践
 
 <!-- cvid: aid15_bid29 -->

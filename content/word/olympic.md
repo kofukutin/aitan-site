@@ -97,7 +97,7 @@ TOEICでは、観光や国際イベント、都市紹介の記事などで「Oly
 ## 🤔  international との違いは？
 
 - **Olympic**：オリンピックに直接関係するものやイベントを指す
-- **[international](/international)**：国際的な、複数の国が関わる一般的な事柄を指す
+- **[international](/word/international)**：国際的な、複数の国が関わる一般的な事柄を指す
 
 Olympicは「オリンピック限定」、internationalは「国際的」全般に使われる点が異なります。
 
@@ -105,14 +105,14 @@ Olympicは「オリンピック限定」、internationalは「国際的」全般
 
 ## 🧩 あわせて覚えたい
 
-- [national](/national)：国の、国家の
-- [global](/global)：世界的な、地球規模の
+- [national](/word/national)：国の、国家の
+- [global](/word/global)：世界的な、地球規模の
 
 ---
 
 ## 📖 できればこれも
 
-- [official](/official)：公式の
-- [athlete](/athlete)：運動選手
+- [official](/word/official)：公式の
+- [athlete](/word/athlete)：運動選手
 
 <!-- cvid: aid03_bid05 -->

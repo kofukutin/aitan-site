@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、物の位置や説明として「bottom
 ## 🤔  base との違いは？
 
 - **bottom**：物や場所の一番下の部分、最下部
-- **[base](/base)**：土台、基礎、支える部分
+- **[base](/word/base)**：土台、基礎、支える部分
 
 「bottom」は単に「一番下」を指し、位置や順位に使います。「base」は何かを支える土台や基礎を指し、構造や抽象的な意味で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主に写真描写問題で、物の位置や説明として「bottom
 
 ## 🧩 あわせて覚えたい
 
-- [top](/top)：一番上、頂上
-- [surface](/surface)：表面
+- [top](/word/top)：一番上、頂上
+- [surface](/word/surface)：表面
 
 ---
 
 ## 📖 できればこれも
 
-- [edge](/edge)：端、へり
-- [side](/side)：側、側面
+- [edge](/word/edge)：端、へり
+- [side](/word/side)：側、側面
 
 <!-- cvid: aid39_bid25 -->

@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写や、食事・買い物の場面でよく登場
 ## 🤔  vegetable との違いは？
 
 - **fruit**：甘くて生で食べることが多い植物の実
-- **[vegetable](/vegetable)**：主に料理に使う野菜、甘くない植物の部分
+- **[vegetable](/word/vegetable)**：主に料理に使う野菜、甘くない植物の部分
 
 fruitはデザートやそのまま食べることが多い一方、vegetableは料理やサラダなどで使われることが多いです。
 
@@ -105,14 +105,14 @@ fruitはデザートやそのまま食べることが多い一方、vegetableは
 
 ## 🧩 あわせて覚えたい
 
-- [berry](/berry)：ベリー類、小さな果実
-- [harvest](/harvest)：収穫
+- [berry](/word/berry)：ベリー類、小さな果実
+- [harvest](/word/harvest)：収穫
 
 ---
 
 ## 📖 できればこれも
 
-- [juice](/juice)：ジュース、果汁
-- [apple](/apple)：りんご
+- [juice](/word/juice)：ジュース、果汁
+- [apple](/word/apple)：りんご
 
 <!-- cvid: aid49_bid26 -->

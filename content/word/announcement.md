@@ -97,7 +97,7 @@ TOEICでは、メールや掲示、社内通知などの長文中で「announcem
 ## 🤔  notice との違いは？
 
 - **announcement**：公式な発表やお知らせ。多くの場合、口頭や文書で広く伝える。
-- **[notice](/notice)**：掲示や短い文書での通知。注意喚起や情報提供が中心。
+- **[notice](/word/notice)**：掲示や短い文書での通知。注意喚起や情報提供が中心。
 
 **announcement**はイベントや新しい情報の発表など「広く知らせる」ニュアンスが強く、**notice**は掲示板などで「注意や情報を伝える」場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、メールや掲示、社内通知などの長文中で「announcem
 
 ## 🧩 あわせて覚えたい
 
-- [statement](/statement)：声明、発言
-- [notification](/notification)：通知、告知
+- [statement](/word/statement)：声明、発言
+- [notification](/word/notification)：通知、告知
 
 ---
 
 ## 📖 できればこれも
 
-- [agenda](/agenda)：議題、予定表
-- [proposal](/proposal)：提案、申し出
+- [agenda](/word/agenda)：議題、予定表
+- [proposal](/word/proposal)：提案、申し出
 
 <!-- cvid: aid45_bid41 -->

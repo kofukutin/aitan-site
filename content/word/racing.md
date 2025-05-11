@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、スポーツやイベントのシーン
 ## 🤔  competition との違いは？
 
 - **racing**：順位やスピードを競う「レース」や「競走」を指す。
-- **[competition](/competition)**：広く「競争」「大会」「コンテスト」など、勝敗を競うあらゆる場面で使う。
+- **[competition](/word/competition)**：広く「競争」「大会」「コンテスト」など、勝敗を競うあらゆる場面で使う。
 
 「racing」は特にスピードを競うスポーツやイベントに限定されるのに対し、「competition」は分野を問わず幅広い競争や大会に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主に写真描写問題で、スポーツやイベントのシーン
 
 ## 🧩 あわせて覚えたい
 
-- [race](/race)：競走、レース
-- [tournament](/tournament)：トーナメント、勝ち抜き戦
+- [race](/word/race)：競走、レース
+- [tournament](/word/tournament)：トーナメント、勝ち抜き戦
 
 ---
 
 ## 📖 できればこれも
 
-- [athlete](/athlete)：運動選手
-- [event](/event)：イベント、行事
+- [athlete](/word/athlete)：運動選手
+- [event](/word/event)：イベント、行事
 
 <!-- cvid: aid22_bid45 -->

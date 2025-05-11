@@ -97,7 +97,7 @@ TOEICでは、物流やオフィスの会話で「荷物を降ろす」場面で
 ## 🤔  discharge との違いは？
 
 - **unload**：主に荷物や積み荷を降ろすことを指す。
-- **[discharge](/discharge)**：荷物だけでなく、人や責任などを「解放・放出」する意味もある。
+- **[discharge](/word/discharge)**：荷物だけでなく、人や責任などを「解放・放出」する意味もある。
 
 unloadは物理的な荷物を降ろす場面で使い、dischargeはより広い意味で「放出・解放」全般に使われます。
 
@@ -105,14 +105,14 @@ unloadは物理的な荷物を降ろす場面で使い、dischargeはより広�
 
 ## 🧩 あわせて覚えたい
 
-- [load](/load)：積む、積み込む
-- [deliver](/deliver)：配達する、届ける
+- [load](/word/load)：積む、積み込む
+- [deliver](/word/deliver)：配達する、届ける
 
 ---
 
 ## 📖 できればこれも
 
-- [pack](/pack)：荷造りする
-- [ship](/ship)：発送する
+- [pack](/word/pack)：荷造りする
+- [ship](/word/ship)：発送する
 
 <!-- cvid: aid21_bid28 -->

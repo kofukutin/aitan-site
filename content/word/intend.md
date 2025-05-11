@@ -97,7 +97,7 @@ TOEICでは「intend to do（～するつもりだ）」の形で頻出し、計
 ## 🤔  plan との違いは？
 
 - **intend**：心の中で「～しよう」と決めている、意図している
-- **[plan](/plan)**：具体的な計画や段取りを立てる
+- **[plan](/word/plan)**：具体的な計画や段取りを立てる
 
 intendは「意思」や「意図」を強調し、planは「具体的な計画や準備」を強調します。
 
@@ -105,14 +105,14 @@ intendは「意思」や「意図」を強調し、planは「具体的な計画�
 
 ## 🧩 あわせて覚えたい
 
-- [aim](/aim)：狙う、目指す
-- [mean](/mean)：意味する、意図する
+- [aim](/word/aim)：狙う、目指す
+- [mean](/word/mean)：意味する、意図する
 
 ---
 
 ## 📖 できればこれも
 
-- [propose](/propose)：提案する
-- [suggest](/suggest)：提案する、示唆する
+- [propose](/word/propose)：提案する
+- [suggest](/word/suggest)：提案する、示唆する
 
 <!-- cvid: aid45_bid16 -->

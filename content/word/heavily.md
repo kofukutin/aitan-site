@@ -97,7 +97,7 @@ TOEICでは、天候や依存度、影響の強さなどを表す副詞として
 ## 🤔  strongly との違いは？
 
 - **heavily**：量や重さ、程度の強さを具体的に表す
-- **[strongly](/strongly)**：意見や感情、態度の強さを抽象的に表す
+- **[strongly](/word/strongly)**：意見や感情、態度の強さを抽象的に表す
 
 heavilyは物理的・数量的な「重さ」や「激しさ」に使い、stronglyは「意見」「支持」など抽象的な強さに使います。
 
@@ -105,14 +105,14 @@ heavilyは物理的・数量的な「重さ」や「激しさ」に使い、stro
 
 ## 🧩 あわせて覚えたい
 
-- [lightly](/lightly)：軽く、少しだけ
-- [intensely](/intensely)：強烈に、激しく
+- [lightly](/word/lightly)：軽く、少しだけ
+- [intensely](/word/intensely)：強烈に、激しく
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/quickly)：速く
-- [seriously](/seriously)：真剣に、本気で
+- [quickly](/word/quickly)：速く
+- [seriously](/word/seriously)：真剣に、本気で
 
 <!-- cvid: aid36_bid18 -->

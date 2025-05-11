@@ -97,7 +97,7 @@ TOEICでは会話や説明文中の時間表記で「min」が略語として登
 ## 🤔  minute との違いは？
 
 - **min**：minuteの略語で、主に数字と一緒にカジュアル・実用的に使う
-- **[minute](/minute)**：正式な単語で、会話や文章でそのまま使われる
+- **[minute](/word/minute)**：正式な単語で、会話や文章でそのまま使われる
 
 「min」は省略形で、特に数字や単位表記、メモなどで使われますが、「minute」は正式な単語として会話や文書で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文中の時間表記で「min」が略語として登
 
 ## 🧩 あわせて覚えたい
 
-- [second](/second)：秒
-- [hour](/hour)：時間
+- [second](/word/second)：秒
+- [hour](/word/hour)：時間
 
 ---
 
 ## 📖 できればこれも
 
-- [sec](/sec)：second（秒）の略
-- [hr](/hr)：hour（時間）の略
+- [sec](/word/sec)：second（秒）の略
+- [hr](/word/hr)：hour（時間）の略
 
 <!-- cvid: aid12_bid36 -->

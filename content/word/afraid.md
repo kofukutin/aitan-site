@@ -97,7 +97,7 @@ afraidは、TOEICの会話パートで「申し訳ないのですが」「恐れ
 ## 🤔  scared との違いは？
 
 - **afraid**：恐れや不安をやんわり伝える表現。丁寧な断りにも使う。
-- **[scared](/scared)**：突然の恐怖や驚きなど、より強い「怖い」気持ちを表す。
+- **[scared](/word/scared)**：突然の恐怖や驚きなど、より強い「怖い」気持ちを表す。
 
 afraidは丁寧な場面や心配・不安にも使われ、scaredは瞬間的な恐怖や驚きに使われます。
 
@@ -105,14 +105,14 @@ afraidは丁寧な場面や心配・不安にも使われ、scaredは瞬間的�
 
 ## 🧩 あわせて覚えたい
 
-- [nervous](/nervous)：緊張している
-- [confident](/confident)：自信がある
+- [nervous](/word/nervous)：緊張している
+- [confident](/word/confident)：自信がある
 
 ---
 
 ## 📖 できればこれも
 
-- [worried](/worried)：心配している
-- [anxious](/anxious)：不安な
+- [worried](/word/worried)：心配している
+- [anxious](/word/anxious)：不安な
 
 <!-- cvid: aid24_bid39 -->

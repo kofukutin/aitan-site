@@ -97,7 +97,7 @@ TOEICではホテル予約や出張案内、旅行関連の長文でよく登場
 ## 🤔  lodging との違いは？
 
 - **accommodation**：宿泊施設全般や便宜、適応など幅広い意味で使われるフォーマルな表現
-- **[lodging](/lodging)**：一時的な宿泊場所を指し、ややカジュアルで短期滞在のニュアンスが強い
+- **[lodging](/word/lodging)**：一時的な宿泊場所を指し、ややカジュアルで短期滞在のニュアンスが強い
 
 accommodationはホテルやアパートなど幅広い宿泊施設や便宜を指し、lodgingは特に短期の宿泊場所に限定される傾向があります。
 
@@ -105,14 +105,14 @@ accommodationはホテルやアパートなど幅広い宿泊施設や便宜を�
 
 ## 🧩 あわせて覚えたい
 
-- [facility](/facility)：施設、設備
-- [reservation](/reservation)：予約
+- [facility](/word/facility)：施設、設備
+- [reservation](/word/reservation)：予約
 
 ---
 
 ## 📖 できればこれも
 
-- [amenity](/amenity)：アメニティ、快適な設備
-- [transportation](/transportation)：交通機関
+- [amenity](/word/amenity)：アメニティ、快適な設備
+- [transportation](/word/transportation)：交通機関
 
 <!-- cvid: aid26_bid39 -->

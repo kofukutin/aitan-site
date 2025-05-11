@@ -93,7 +93,7 @@ TOEICではリスニングや会話文で頻出し、全員への呼びかけや
 ## 🤔  everybody との違いは？
 
 - **everyone**：ややフォーマルで書き言葉・話し言葉どちらでも使える
-- **[everybody](/everybody)**：カジュアルで話し言葉によく使われる
+- **[everybody](/word/everybody)**：カジュアルで話し言葉によく使われる
 
 everyoneはフォーマル・カジュアルどちらでも使えますが、everybodyはより口語的な響きがあります。
 
@@ -101,14 +101,14 @@ everyoneはフォーマル・カジュアルどちらでも使えますが、eve
 
 ## 🧩 あわせて覚えたい
 
-- [someone](/someone)：誰か
-- [anyone](/anyone)：誰でも、誰か
+- [someone](/word/someone)：誰か
+- [anyone](/word/anyone)：誰でも、誰か
 
 ---
 
 ## 📖 できればこれも
 
-- [everything](/everything)：すべてのこと
-- [anyone](/anyone)：誰でも、誰か
+- [everything](/word/everything)：すべてのこと
+- [anyone](/word/anyone)：誰でも、誰か
 
 <!-- cvid: aid16_bid26 -->

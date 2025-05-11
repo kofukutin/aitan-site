@@ -98,7 +98,7 @@ TOEICでは、説明文やマニュアル、IT関連の資料で「italic」が�
 ## 🤔  oblique との違いは？
 
 - **italic**：デザインとして右に傾けた、特にフォント名や強調に使う斜体。
-- **[oblique](/oblique)**：単に右に傾けた体裁で、デザイン的な特徴は少ない。
+- **[oblique](/word/oblique)**：単に右に傾けた体裁で、デザイン的な特徴は少ない。
 
 italicはフォント固有のデザインがあり、obliqueは通常の文字を機械的に傾けただけのものです。
 
@@ -106,14 +106,14 @@ italicはフォント固有のデザインがあり、obliqueは通常の文字�
 
 ## 🧩 あわせて覚えたい
 
-- [bold](/bold)：太字
-- [underline](/underline)：下線
+- [bold](/word/bold)：太字
+- [underline](/word/underline)：下線
 
 ---
 
 ## 📖 できればこれも
 
-- [font](/font)：フォント、書体
-- [typeface](/typeface)：書体、字体
+- [font](/word/font)：フォント、書体
+- [typeface](/word/typeface)：書体、字体
 
 <!-- cvid: aid16_bid36 -->

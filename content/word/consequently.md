@@ -93,7 +93,7 @@ TOEICの長文読解パートで、因果関係を示す接続副詞として頻
 ## 🤔  therefore との違いは？
 
 - **consequently**：前述の事実や出来事の「結果」として、ややフォーマルに使う
-- **[therefore](/therefore)**：理由や根拠から「したがって」と結論を述べる際に使う
+- **[therefore](/word/therefore)**：理由や根拠から「したがって」と結論を述べる際に使う
 
 consequentlyは出来事の「結果」を強調し、thereforeは論理的な「結論」を強調する場面で使い分けます。
 
@@ -101,14 +101,14 @@ consequentlyは出来事の「結果」を強調し、thereforeは論理的な�
 
 ## 🧩 あわせて覚えたい
 
-- [as a result](/as_a_result)：その結果
-- [thus](/thus)：したがって
+- [as a result](/word/as_a_result)：その結果
+- [thus](/word/thus)：したがって
 
 ---
 
 ## 📖 できればこれも
 
-- [however](/however)：しかしながら
-- [furthermore](/furthermore)：さらに
+- [however](/word/however)：しかしながら
+- [furthermore](/word/furthermore)：さらに
 
 <!-- cvid: aid12_bid28 -->

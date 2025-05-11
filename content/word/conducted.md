@@ -97,7 +97,7 @@ TOEICでは「conducted survey（調査を行った）」や「conducted intervi
 ## 🤔  performed との違いは？
 
 - **conducted**：公式・組織的に何かを「実施した」「行った」ときに使う
-- **[performed](/performed)**：任務や作業、芸などを「遂行した」「演じた」ときに使う
+- **[performed](/word/performed)**：任務や作業、芸などを「遂行した」「演じた」ときに使う
 
 conductedは調査や会議などの「実施」に、performedは作業やパフォーマンスの「遂行・実演」に使われる点が異なります。
 
@@ -105,14 +105,14 @@ conductedは調査や会議などの「実施」に、performedは作業やパ�
 
 ## 🧩 あわせて覚えたい
 
-- [manage](/manage)：管理する、運営する
-- [supervise](/supervise)：監督する、指導する
+- [manage](/word/manage)：管理する、運営する
+- [supervise](/word/supervise)：監督する、指導する
 
 ---
 
 ## 📖 できればこれも
 
-- [organize](/organize)：組織する、まとめる
-- [implement](/implement)：実行する、導入する
+- [organize](/word/organize)：組織する、まとめる
+- [implement](/word/implement)：実行する、導入する
 
 <!-- cvid: aid41_bid02 -->

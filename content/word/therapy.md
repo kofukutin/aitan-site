@@ -97,7 +97,7 @@ Physical therapy is recommended after surgery.
 ## 🤔  treatment との違いは？
 
 - **therapy**：特定の治療法や療法（リハビリ・カウンセリングなど）を指すことが多い
-- **[treatment](/treatment)**：治療全般や処置を広く指す
+- **[treatment](/word/treatment)**：治療全般や処置を広く指す
 
 therapyは「方法」に焦点があり、treatmentは「治療行為」全体を幅広く指します。
 
@@ -105,14 +105,14 @@ therapyは「方法」に焦点があり、treatmentは「治療行為」全体�
 
 ## 🧩 あわせて覚えたい
 
-- [counseling](/counseling)：カウンセリング、相談療法
-- [remedy](/remedy)：治療法、改善策
+- [counseling](/word/counseling)：カウンセリング、相談療法
+- [remedy](/word/remedy)：治療法、改善策
 
 ---
 
 ## 📖 できればこれも
 
-- [diagnosis](/diagnosis)：診断
-- [prescription](/prescription)：処方箋
+- [diagnosis](/word/diagnosis)：診断
+- [prescription](/word/prescription)：処方箋
 
 <!-- cvid: aid21_bid47 -->

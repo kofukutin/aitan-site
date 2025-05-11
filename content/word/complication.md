@@ -97,7 +97,7 @@ complicationは医療やビジネスの文脈で、問題や障害を表す語�
 ## 🤔  obstacle との違いは？
 
 - **complication**：予期せぬ問題や事態の複雑化、特に医療では「合併症」。
-- **[obstacle](/obstacle)**：物理的・心理的な「障害物」や「妨げ」。
+- **[obstacle](/word/obstacle)**：物理的・心理的な「障害物」や「妨げ」。
 
 complicationは状況が複雑になることや新たな問題の発生を指し、obstacleは進行を妨げる具体的な障害物を指します。
 
@@ -105,14 +105,14 @@ complicationは状況が複雑になることや新たな問題の発生を指�
 
 ## 🧩 あわせて覚えたい
 
-- [difficulty](/difficulty)：困難、難しさ
-- [solution](/solution)：解決策
+- [difficulty](/word/difficulty)：困難、難しさ
+- [solution](/word/solution)：解決策
 
 ---
 
 ## 📖 できればこれも
 
-- [condition](/condition)：状態、条件
-- [procedure](/procedure)：手順、処置
+- [condition](/word/condition)：状態、条件
+- [procedure](/word/procedure)：手順、処置
 
 <!-- cvid: aid04_bid43 -->

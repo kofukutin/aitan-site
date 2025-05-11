@@ -97,7 +97,7 @@ TOEICでは法務や責任に関する文脈で出題されることがあり、
 ## 🤔  responsible との違いは？
 
 - **guilty**：法律的な有罪や、悪いことをした罪悪感を表す。
-- **[responsible](/responsible)**：責任がある、義務があるという意味で、必ずしも悪い意味ではない。
+- **[responsible](/word/responsible)**：責任がある、義務があるという意味で、必ずしも悪い意味ではない。
 
 guiltyは「悪いことをした」という否定的な感情や法的判断に使い、responsibleは「役割や義務を果たす責任」に使います。
 
@@ -105,14 +105,14 @@ guiltyは「悪いことをした」という否定的な感情や法的判断�
 
 ## 🧩 あわせて覚えたい
 
-- [innocent](/innocent)：無罪の、潔白な
-- [blame](/blame)：責める、非難する
+- [innocent](/word/innocent)：無罪の、潔白な
+- [blame](/word/blame)：責める、非難する
 
 ---
 
 ## 📖 できればこれも
 
-- [illegal](/illegal)：違法の
-- [honest](/honest)：正直な
+- [illegal](/word/illegal)：違法の
+- [honest](/word/honest)：正直な
 
 <!-- cvid: aid29_bid35 -->

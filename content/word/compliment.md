@@ -97,7 +97,7 @@ TOEICでは会話やメール文で「ほめる」「感謝する」場面によ
 ## 🤔  praise との違いは？
 
 - **compliment**：個人の外見や行動など、日常的なことをほめるときに使う賛辞
-- **[praise](/praise)**：努力や成果など、よりフォーマルで大きな評価を表す
+- **[praise](/word/praise)**：努力や成果など、よりフォーマルで大きな評価を表す
 
 complimentはカジュアルな「ほめ言葉」、praiseは公式な「称賛」という違いがあります。
 
@@ -105,14 +105,14 @@ complimentはカジュアルな「ほめ言葉」、praiseは公式な「称賛�
 
 ## 🧩 あわせて覚えたい
 
-- [criticism](/criticism)：批判
-- [flatter](/flatter)：お世辞を言う
+- [criticism](/word/criticism)：批判
+- [flatter](/word/flatter)：お世辞を言う
 
 ---
 
 ## 📖 できればこれも
 
-- [recommendation](/recommendation)：推薦、推薦状
-- [comment](/comment)：コメント、意見
+- [recommendation](/word/recommendation)：推薦、推薦状
+- [comment](/word/comment)：コメント、意見
 
 <!-- cvid: aid27_bid20 -->

@@ -97,7 +97,7 @@ TOEICでは「不動産」「資産」「特性」などの意味で、主にビ
 ## 🤔  asset との違いは？
 
 - **property**：主に不動産や所有物、または物質の特性を指す
-- **[asset](/asset)**：企業や個人が持つ価値ある資産全般を指す
+- **[asset](/word/asset)**：企業や個人が持つ価値ある資産全般を指す
 
 propertyは「土地・建物」や「物の性質」に焦点があり、assetは「価値あるもの全般（現金・株式なども含む）」に使われます。
 
@@ -105,14 +105,14 @@ propertyは「土地・建物」や「物の性質」に焦点があり、asset�
 
 ## 🧩 あわせて覚えたい
 
-- [estate](/estate)：土地・地所・不動産
-- [possession](/possession)：所有物、所持
+- [estate](/word/estate)：土地・地所・不動産
+- [possession](/word/possession)：所有物、所持
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/contract)：契約
-- [facility](/facility)：施設
+- [contract](/word/contract)：契約
+- [facility](/word/facility)：施設
 
 <!-- cvid: aid22_bid01 -->

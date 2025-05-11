@@ -97,7 +97,7 @@ TOEICでは新聞や雑誌の記事文脈で「editorial」が登場しやすく
 ## 🤔  column との違いは？
 
 - **editorial**：編集者や新聞社の公式な意見・主張を述べる社説
-- **[column](/column)**：特定の執筆者が定期的に書くコラムや連載記事
+- **[column](/word/column)**：特定の執筆者が定期的に書くコラムや連載記事
 
 editorialは新聞社の立場を示す公式な論説、columnは個人の意見や話題を扱う連載記事という違いがあります。
 
@@ -105,14 +105,14 @@ editorialは新聞社の立場を示す公式な論説、columnは個人の意�
 
 ## 🧩 あわせて覚えたい
 
-- [article](/article)：記事、論説
-- [opinion](/opinion)：意見、見解
+- [article](/word/article)：記事、論説
+- [opinion](/word/opinion)：意見、見解
 
 ---
 
 ## 📖 できればこれも
 
-- [journal](/journal)：雑誌、専門誌
-- [publication](/publication)：出版物、刊行物
+- [journal](/word/journal)：雑誌、専門誌
+- [publication](/word/publication)：出版物、刊行物
 
 <!-- cvid: aid22_bid34 -->

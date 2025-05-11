@@ -97,7 +97,7 @@ TOEICではニュース記事や規則説明、社会問題に関する長文で
 ## 🤔  force との違いは？
 
 - **violence**：人や物に危害を加える「乱暴な力」や「暴力行為」を強調
-- **[force](/force)**：単に「力」や「強制力」全般を指し、必ずしも乱暴・危害の意味は含まない
+- **[force](/word/force)**：単に「力」や「強制力」全般を指し、必ずしも乱暴・危害の意味は含まない
 
 violenceは「危害を伴う乱暴な力」、forceは「物理的・抽象的な力」全般を指すため、感情や場面の強さが異なります。
 
@@ -105,14 +105,14 @@ violenceは「危害を伴う乱暴な力」、forceは「物理的・抽象的�
 
 ## 🧩 あわせて覚えたい
 
-- [aggression](/aggression)：攻撃性、侵略
-- [peace](/peace)：平和、安らぎ
+- [aggression](/word/aggression)：攻撃性、侵略
+- [peace](/word/peace)：平和、安らぎ
 
 ---
 
 ## 📖 できればこれも
 
-- [crime](/crime)：犯罪
-- [threat](/threat)：脅威、脅し
+- [crime](/word/crime)：犯罪
+- [threat](/word/threat)：脅威、脅し
 
 <!-- cvid: aid43_bid45 -->

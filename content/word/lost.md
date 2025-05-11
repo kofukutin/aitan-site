@@ -97,7 +97,7 @@ TOEICでは、道に迷う・物をなくす・情報が失われるなどの文
 ## 🤔  missing との違いは？
 
 - **lost**：自分が失った、または道に迷った状態を表す
-- **[missing](/missing)**：本来あるべきものが見当たらない状態を表す
+- **[missing](/word/missing)**：本来あるべきものが見当たらない状態を表す
 
 「lost」は自分が道に迷ったり、何かを失ったときに使い、「missing」は物や人が行方不明で見つからないときに使います。
 
@@ -105,14 +105,14 @@ TOEICでは、道に迷う・物をなくす・情報が失われるなどの文
 
 ## 🧩 あわせて覚えたい
 
-- [confused](/confused)：混乱した、困惑した
-- [found](/found)：見つかった
+- [confused](/word/confused)：混乱した、困惑した
+- [found](/word/found)：見つかった
 
 ---
 
 ## 📖 できればこれも
 
-- [late](/late)：遅れた
-- [absent](/absent)：不在の
+- [late](/word/late)：遅れた
+- [absent](/word/absent)：不在の
 
 <!-- cvid: aid48_bid17 -->

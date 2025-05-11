@@ -98,7 +98,7 @@ TOEICでは、会社や公共の「施設」についての説明や案内、利
 ## 🤔  equipment との違いは？
 
 - **facility**：建物や場所、または特定の目的のための「施設」や「設備全体」を指す
-- **[equipment](/equipment)**：道具や機械など「個々の機器・備品」を指す
+- **[equipment](/word/equipment)**：道具や機械など「個々の機器・備品」を指す
 
 facilityは「場所や建物」といった大きな単位、equipmentは「道具や装置」といった個々の物を指す点が異なります。
 
@@ -106,14 +106,14 @@ facilityは「場所や建物」といった大きな単位、equipmentは「道
 
 ## 🧩 あわせて覚えたい
 
-- [amenity](/amenity)：快適な設備、アメニティ
-- [infrastructure](/infrastructure)：社会基盤、インフラ
+- [amenity](/word/amenity)：快適な設備、アメニティ
+- [infrastructure](/word/infrastructure)：社会基盤、インフラ
 
 ---
 
 ## 📖 できればこれも
 
-- [resource](/resource)：資源、リソース
-- [service](/service)：サービス、業務
+- [resource](/word/resource)：資源、リソース
+- [service](/word/service)：サービス、業務
 
 <!-- cvid: aid37_bid23 -->

@@ -97,7 +97,7 @@ TOEICでは「purchase」の過去形・過去分詞として、ビジネス文�
 ## 🤔  bought との違いは？
 
 - **purchased**：フォーマルでビジネス文書や公式な場面で使われる「購入した」
-- **[bought](/bought)**：日常会話でよく使われる「買った」
+- **[bought](/word/bought)**：日常会話でよく使われる「買った」
 
 「purchased」は改まった表現で、契約や取引など公式な文脈で使われます。「bought」はカジュアルで日常的な買い物に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは「purchase」の過去形・過去分詞として、ビジネス文�
 
 ## 🧩 あわせて覚えたい
 
-- [acquire](/acquire)：（努力して）手に入れる
-- [order](/order)：注文する
+- [acquire](/word/acquire)：（努力して）手に入れる
+- [order](/word/order)：注文する
 
 ---
 
 ## 📖 できればこれも
 
-- [pay](/pay)：支払う
-- [receive](/receive)：受け取る
+- [pay](/word/pay)：支払う
+- [receive](/word/receive)：受け取る
 
 <!-- cvid: aid21_bid17 -->

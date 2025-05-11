@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で「場所」や「位置」を表す語と
 ## 🤔  stain との違いは？
 
 - **spot**：小さな点や特定の場所、またはしみ・斑点など広く使う
-- **[stain](/stain)**：主に「汚れ」「しみ」など消したい跡を指す
+- **[stain](/word/stain)**：主に「汚れ」「しみ」など消したい跡を指す
 
 spotは「場所」や「目印」としても使えますが、stainは「汚れ」として否定的な意味で使われることが多いです。
 
@@ -105,14 +105,14 @@ spotは「場所」や「目印」としても使えますが、stainは「汚�
 
 ## 🧩 あわせて覚えたい
 
-- [location](/location)：位置、場所
-- [mark](/mark)：印、記号
+- [location](/word/location)：位置、場所
+- [mark](/word/mark)：印、記号
 
 ---
 
 ## 📖 できればこれも
 
-- [site](/site)：用地、現場
-- [area](/area)：区域、範囲
+- [site](/word/site)：用地、現場
+- [area](/word/area)：区域、範囲
 
 <!-- cvid: aid22_bid07 -->

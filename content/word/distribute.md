@@ -97,7 +97,7 @@ TOEICでは「資料を配布する」「商品を流通させる」など、ビ
 ## 🤔  allocate との違いは？
 
 - **distribute**：複数の人や場所に「配る」「分配する」こと全般を表す
-- **[allocate](/allocate)**：特定の目的や用途のために「割り当てる」「配分する」ことを強調
+- **[allocate](/word/allocate)**：特定の目的や用途のために「割り当てる」「配分する」ことを強調
 
 distributeは広く「配る」イメージ、allocateは「目的に応じて割り当てる」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ distributeは広く「配る」イメージ、allocateは「目的に応じて�
 
 ## 🧩 あわせて覚えたい
 
-- [deliver](/deliver)：届ける、配達する
-- [collect](/collect)：集める
+- [deliver](/word/deliver)：届ける、配達する
+- [collect](/word/collect)：集める
 
 ---
 
 ## 📖 できればこれも
 
-- [supply](/supply)：供給する、提供する
-- [provide](/provide)：与える、提供する
+- [supply](/word/supply)：供給する、提供する
+- [provide](/word/provide)：与える、提供する
 
 <!-- cvid: aid41_bid35 -->

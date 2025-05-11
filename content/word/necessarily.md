@@ -97,7 +97,7 @@ TOEICでは否定文や条件文の中で「必ずしも～とは限らない」
 ## 🤔  always との違いは？
 
 - **necessarily**：必ずしも～とは限らない、必然的に
-- **[always](/always)**：いつも、常に
+- **[always](/word/always)**：いつも、常に
 
 **necessarily**は「必ずしもそうとは限らない」と限定的なニュアンスで使われ、**always**は「例外なく常に」という強い意味で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは否定文や条件文の中で「必ずしも～とは限らない」
 
 ## 🧩 あわせて覚えたい
 
-- [inevitably](/inevitably)：必然的に、避けられずに
-- [possibly](/possibly)：ひょっとすると、もしかすると
+- [inevitably](/word/inevitably)：必然的に、避けられずに
+- [possibly](/word/possibly)：ひょっとすると、もしかすると
 
 ---
 
 ## 📖 できればこれも
 
-- [essentially](/essentially)：本質的に
-- [particularly](/particularly)：特に
+- [essentially](/word/essentially)：本質的に
+- [particularly](/word/particularly)：特に
 
 <!-- cvid: aid04_bid15 -->

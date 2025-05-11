@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「参照する」「紹介する」といった
 ## 🤔  mention との違いは？
 
 - **refer**：何かに言及したり、資料や人に「参照・紹介」する意味で使う
-- **[mention](/mention)**：単に「名前や事柄を口にする」「軽く触れる」意味
+- **[mention](/word/mention)**：単に「名前や事柄を口にする」「軽く触れる」意味
 
 referは「詳しく説明したり、正式に案内する」ニュアンスがあり、mentionは「軽く触れる」程度の違いがあります。
 
@@ -105,14 +105,14 @@ referは「詳しく説明したり、正式に案内する」ニュアンスが
 
 ## 🧩 あわせて覚えたい
 
-- [recommend](/recommend)：推薦する、勧める
-- [consult](/consult)：相談する、意見を求める
+- [recommend](/word/recommend)：推薦する、勧める
+- [consult](/word/consult)：相談する、意見を求める
 
 ---
 
 ## 📖 できればこれも
 
-- [suggest](/suggest)：提案する
-- [indicate](/indicate)：示す、指し示す
+- [suggest](/word/suggest)：提案する
+- [indicate](/word/indicate)：示す、指し示す
 
 <!-- cvid: aid15_bid11 -->

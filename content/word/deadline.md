@@ -97,7 +97,7 @@ TOEICでは会議や業務連絡の会話文で「締め切り」や「納期」
 ## 🤔  due date との違いは？
 
 - **deadline**：厳格な「締め切り」や「最終期限」を強調する表現
-- **[due date](/due_date)**：支払いや提出などの「予定日」「期日」を表すやや柔らかい表現
+- **[due date](/word/due_date)**：支払いや提出などの「予定日」「期日」を表すやや柔らかい表現
 
 「deadline」は守らないと問題になる厳しい締め切り、「due date」は単に予定された日付というニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ TOEICでは会議や業務連絡の会話文で「締め切り」や「納期」
 
 ## 🧩 あわせて覚えたい
 
-- [extension](/extension)：延長、期限の延長
-- [milestone](/milestone)：節目、重要な進捗点
+- [extension](/word/extension)：延長、期限の延長
+- [milestone](/word/milestone)：節目、重要な進捗点
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/schedule)：予定、スケジュール
-- [appointment](/appointment)：予約、約束
+- [schedule](/word/schedule)：予定、スケジュール
+- [appointment](/word/appointment)：予約、約束
 
 <!-- cvid: aid21_bid04 -->

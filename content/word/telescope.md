@@ -97,7 +97,7 @@ The company donated a new telescope to the local school.
 ## 🤔  microscope との違いは？
 
 - **telescope**：遠くのものを拡大して見る道具（例：星や月）
-- **[microscope](/microscope)**：とても小さいものを拡大して見る道具（例：細胞や微生物）
+- **[microscope](/word/microscope)**：とても小さいものを拡大して見る道具（例：細胞や微生物）
 
 telescopeは「遠くを見る」ため、microscopeは「小さいものを見る」ために使います。用途がまったく異なります。
 
@@ -105,14 +105,14 @@ telescopeは「遠くを見る」ため、microscopeは「小さいものを見�
 
 ## 🧩 あわせて覚えたい
 
-- [binocular](/binocular)：双眼鏡（両目で使う携帯型の望遠鏡）
-- [satellite](/satellite)：人工衛星
+- [binocular](/word/binocular)：双眼鏡（両目で使う携帯型の望遠鏡）
+- [satellite](/word/satellite)：人工衛星
 
 ---
 
 ## 📖 できればこれも
 
-- [planet](/planet)：惑星
-- [observe](/observe)：観察する
+- [planet](/word/planet)：惑星
+- [observe](/word/observe)：観察する
 
 <!-- cvid: aid23_bid05 -->

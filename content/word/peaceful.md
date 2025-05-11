@@ -97,7 +97,7 @@ TOEICでは、形容詞の語彙問題や、文脈に合う形容詞を選ぶ問
 ## 🤔  calm との違いは？
 
 - **peaceful**：争いや混乱がなく、平和で穏やかな様子を表す。
-- **[calm](/calm)**：静かで落ち着いている状態、感情や天候にも使える。
+- **[calm](/word/calm)**：静かで落ち着いている状態、感情や天候にも使える。
 
 peacefulは「争いがない」ことに重点があり、calmは「静けさ」や「落ち着き」に重点があります。
 
@@ -105,14 +105,14 @@ peacefulは「争いがない」ことに重点があり、calmは「静けさ�
 
 ## 🧩 あわせて覚えたい
 
-- [quiet](/quiet)：静かな
-- [violent](/violent)：暴力的な、激しい
+- [quiet](/word/quiet)：静かな
+- [violent](/word/violent)：暴力的な、激しい
 
 ---
 
 ## 📖 できればこれも
 
-- [friendly](/friendly)：友好的な
-- [safe](/safe)：安全な
+- [friendly](/word/friendly)：友好的な
+- [safe](/word/safe)：安全な
 
 <!-- cvid: aid28_bid35 -->

@@ -97,7 +97,7 @@ TOEICでは会議やビジネスの場面で「人や商品を紹介する」「
 ## 🤔  present との違いは？
 
 - **introduce**：新しい人や物事を初めて場に登場させる、紹介する
-- **[present](/present)**：人前で説明・発表する、贈り物として渡す
+- **[present](/word/present)**：人前で説明・発表する、贈り物として渡す
 
 「introduce」は初対面や新規導入の場面で使い、「present」は情報や物を正式に提示・発表する時に使います。
 
@@ -105,14 +105,14 @@ TOEICでは会議やビジネスの場面で「人や商品を紹介する」「
 
 ## 🧩 あわせて覚えたい
 
-- [recommend](/recommend)：推薦する
-- [announce](/announce)：発表する
+- [recommend](/word/recommend)：推薦する
+- [announce](/word/announce)：発表する
 
 ---
 
 ## 📖 できればこれも
 
-- [explain](/explain)：説明する
-- [suggest](/suggest)：提案する
+- [explain](/word/explain)：説明する
+- [suggest](/word/suggest)：提案する
 
 <!-- cvid: aid12_bid14 -->

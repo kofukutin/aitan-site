@@ -97,7 +97,7 @@ TOEICでは、オフィスや部屋の改装・模様替えに関する会話や
 ## 🤔  renovate との違いは？
 
 - **redecorate**：主に壁紙やペンキ、家具の配置など「見た目」を新しくすること。
-- **[renovate](/renovate)**：古くなった建物や部屋を「修繕・改修」して機能や構造も新しくすること。
+- **[renovate](/word/renovate)**：古くなった建物や部屋を「修繕・改修」して機能や構造も新しくすること。
 
 redecorateは表面的な模様替え、renovateは構造的な修理や大規模な改修を指します。
 
@@ -105,14 +105,14 @@ redecorateは表面的な模様替え、renovateは構造的な修理や大規�
 
 ## 🧩 あわせて覚えたい
 
-- [paint](/paint)：ペンキを塗る
-- [furnish](/furnish)：家具を備え付ける
+- [paint](/word/paint)：ペンキを塗る
+- [furnish](/word/furnish)：家具を備え付ける
 
 ---
 
 ## 📖 できればこれも
 
-- [decorate](/decorate)：飾る、装飾する
-- [remodel](/remodel)：改築する、リフォームする
+- [decorate](/word/decorate)：飾る、装飾する
+- [remodel](/word/remodel)：改築する、リフォームする
 
 <!-- cvid: aid13_bid49 -->

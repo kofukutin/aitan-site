@@ -97,7 +97,7 @@ unemploymentはTOEICの長文読解パートで、経済や社会問題に関す
 ## 🤔  joblessness との違いは？
 
 - **unemployment**：経済や社会問題としての「失業」や「失業状態」を指す、ややフォーマルな表現。
-- **[joblessness](/joblessness)**：より日常的で、単に「仕事がない状態」を指す。
+- **[joblessness](/word/joblessness)**：より日常的で、単に「仕事がない状態」を指す。
 
 unemploymentは統計やニュースなどフォーマルな場面で使われやすく、joblessnessは日常会話やカジュアルな文脈で使われることが多いです。
 
@@ -105,14 +105,14 @@ unemploymentは統計やニュースなどフォーマルな場面で使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [employment](/employment)：雇用、就職
-- [recession](/recession)：不況
+- [employment](/word/employment)：雇用、就職
+- [recession](/word/recession)：不況
 
 ---
 
 ## 📖 できればこれも
 
-- [income](/income)：収入
-- [labor](/labor)：労働
+- [income](/word/income)：収入
+- [labor](/word/labor)：労働
 
 <!-- cvid: aid04_bid13 -->

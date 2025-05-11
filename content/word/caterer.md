@@ -97,7 +97,7 @@ TOEICでは、イベントや会議の案内文・メールなどで「caterer�
 ## 🤔  supplier との違いは？
 
 - **caterer**：料理や飲み物をイベントなどに提供する業者
-- **[supplier](/supplier)**：商品や原材料などを供給する業者全般
+- **[supplier](/word/supplier)**：商品や原材料などを供給する業者全般
 
 catererは主に食事や飲み物の提供に特化し、supplierは幅広い商品やサービスの供給者を指します。
 
@@ -105,14 +105,14 @@ catererは主に食事や飲み物の提供に特化し、supplierは幅広い�
 
 ## 🧩 あわせて覚えたい
 
-- [vendor](/vendor)：販売業者
-- [chef](/chef)：料理長、シェフ
+- [vendor](/word/vendor)：販売業者
+- [chef](/word/chef)：料理長、シェフ
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/client)：顧客、依頼人
-- [venue](/venue)：会場
+- [client](/word/client)：顧客、依頼人
+- [venue](/word/venue)：会場
 
 <!-- cvid: aid47_bid46 -->

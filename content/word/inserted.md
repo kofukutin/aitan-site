@@ -97,7 +97,7 @@ insertedはTOEICの文法問題やIT関連の説明文でよく見かけます�
 ## 🤔  input との違いは？
 
 - **inserted**：物理的・データ的に「中に差し込む」「挿入する」ことを強調
-- **[input](/input)**：主に「情報やデータを入力する」ことを指す
+- **[input](/word/input)**：主に「情報やデータを入力する」ことを指す
 
 insertedは「物を中に入れる」イメージが強く、inputは「情報やデータを入力する」場面で使われます。
 
@@ -105,14 +105,14 @@ insertedは「物を中に入れる」イメージが強く、inputは「情報�
 
 ## 🧩 あわせて覚えたい
 
-- [remove](/remove)：取り除く
-- [attach](/attach)：添付する
+- [remove](/word/remove)：取り除く
+- [attach](/word/attach)：添付する
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/update)：更新する
-- [replace](/replace)：交換する
+- [update](/word/update)：更新する
+- [replace](/word/replace)：交換する
 
 <!-- cvid: aid19_bid04 -->

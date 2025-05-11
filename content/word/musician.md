@@ -97,7 +97,7 @@ TOEICでは、コンサートやイベント紹介、人物紹介の記事など
 ## 🤔  composer との違いは？
 
 - **musician**：音楽を演奏したり、音楽活動をする人全般
-- **[composer](/composer)**：作曲家（音楽を作ることに特化した人）
+- **[composer](/word/composer)**：作曲家（音楽を作ることに特化した人）
 
 musicianは演奏者や歌手も含む広い意味ですが、composerは「作曲する人」に限定されます。
 
@@ -105,14 +105,14 @@ musicianは演奏者や歌手も含む広い意味ですが、composerは「作�
 
 ## 🧩 あわせて覚えたい
 
-- [performer](/performer)：演奏者、出演者
-- [artist](/artist)：芸術家、アーティスト
+- [performer](/word/performer)：演奏者、出演者
+- [artist](/word/artist)：芸術家、アーティスト
 
 ---
 
 ## 📖 できればこれも
 
-- [singer](/singer)：歌手
-- [band](/band)：バンド、楽団
+- [singer](/word/singer)：歌手
+- [band](/word/band)：バンド、楽団
 
 <!-- cvid: aid06_bid48 -->

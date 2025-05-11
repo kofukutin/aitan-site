@@ -97,7 +97,7 @@ TOEICでは、グラフや統計、変化を説明する文脈でよく登場し
 ## 🤔  significantly との違いは？
 
 - **dramatically**：劇的に、目立つほど大きく変化する
-- **[significantly](/significantly)**：かなり、重要なほどに
+- **[significantly](/word/significantly)**：かなり、重要なほどに
 
 dramaticallyは「見てすぐわかるほど大きな変化」を強調し、significantlyは「統計的・実質的に意味のある変化」を表します。
 
@@ -105,14 +105,14 @@ dramaticallyは「見てすぐわかるほど大きな変化」を強調し、si
 
 ## 🧩 あわせて覚えたい
 
-- [substantially](/substantially)：実質的に、大幅に
-- [slightly](/slightly)：わずかに、少し
+- [substantially](/word/substantially)：実質的に、大幅に
+- [slightly](/word/slightly)：わずかに、少し
 
 ---
 
 ## 📖 できればこれも
 
-- [rapidly](/rapidly)：急速に
-- [considerably](/considerably)：かなり、相当に
+- [rapidly](/word/rapidly)：急速に
+- [considerably](/word/considerably)：かなり、相当に
 
 <!-- cvid: aid03_bid04 -->

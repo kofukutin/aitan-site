@@ -97,7 +97,7 @@ TOEICでは会話や依頼、質問の場面で「asking」が頻出します。
 ## 🤔  requesting との違いは？
 
 - **asking**：一般的に「尋ねる」「頼む」ときに幅広く使うカジュアルな表現
-- **[requesting](/requesting)**：よりフォーマルで「正式に依頼する」ニュアンス
+- **[requesting](/word/requesting)**：よりフォーマルで「正式に依頼する」ニュアンス
 
 「asking」は日常的な質問やお願いに使い、「requesting」はビジネスや公式な場面での依頼に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは会話や依頼、質問の場面で「asking」が頻出します。
 
 ## 🧩 あわせて覚えたい
 
-- [inquire](/inquire)：問い合わせる、尋ねる（よりフォーマル）
-- [question](/question)：質問する、疑問を持つ
+- [inquire](/word/inquire)：問い合わせる、尋ねる（よりフォーマル）
+- [question](/word/question)：質問する、疑問を持つ
 
 ---
 
 ## 📖 できればこれも
 
-- [answer](/answer)：答える
-- [suggest](/suggest)：提案する
+- [answer](/word/answer)：答える
+- [suggest](/word/suggest)：提案する
 
 <!-- cvid: aid49_bid49 -->

@@ -97,7 +97,7 @@ civilianはTOEICの長文読解パートで、軍事や法務、社会問題に�
 ## 🤔  citizen との違いは？
 
 - **civilian**：軍人や警察官などではない「民間人」「一般市民」を指す
-- **[citizen](/citizen)**：国籍や市民権を持つ「市民」「国民」を指す
+- **[citizen](/word/citizen)**：国籍や市民権を持つ「市民」「国民」を指す
 
 civilianは「軍人でない人」という立場に焦点があり、citizenは「国や地域の構成員」という法的な意味合いが強いです。
 
@@ -105,14 +105,14 @@ civilianは「軍人でない人」という立場に焦点があり、citizen�
 
 ## 🧩 あわせて覚えたい
 
-- [soldier](/soldier)：兵士、軍人
-- [resident](/resident)：居住者、住民
+- [soldier](/word/soldier)：兵士、軍人
+- [resident](/word/resident)：居住者、住民
 
 ---
 
 ## 📖 できればこれも
 
-- [authority](/authority)：権限、当局
-- [official](/official)：職員、公務員
+- [authority](/word/authority)：権限、当局
+- [official](/word/official)：職員、公務員
 
 <!-- cvid: aid46_bid42 -->

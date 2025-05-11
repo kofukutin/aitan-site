@@ -97,7 +97,7 @@ TOEICでは、移動や行動を表す基本動詞の過去形としてPart 2の
 ## 🤔  went との違いは？
 
 - **walked**：歩いて移動したことを強調
-- **[went](/went)**：どんな手段でも「行った」ことを表す
+- **[went](/word/went)**：どんな手段でも「行った」ことを表す
 
 walkedは「歩く」という動作に限定されますが、wentは移動手段を問わず「行った」こと全般に使います。
 
@@ -105,14 +105,14 @@ walkedは「歩く」という動作に限定されますが、wentは移動手�
 
 ## 🧩 あわせて覚えたい
 
-- [run](/run)：走る
-- [stroll](/stroll)：ぶらぶら歩く、散歩する
+- [run](/word/run)：走る
+- [stroll](/word/stroll)：ぶらぶら歩く、散歩する
 
 ---
 
 ## 📖 できればこれも
 
-- [talked](/talked)：話した
-- [opened](/opened)：開けた
+- [talked](/word/talked)：話した
+- [opened](/word/opened)：開けた
 
 <!-- cvid: aid21_bid24 -->

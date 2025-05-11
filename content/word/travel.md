@@ -98,7 +98,7 @@ TOEICでは主にPart 7の長文やEメール文中で「出張」や「移動�
 ## 🤔  trip との違いは？
 
 - **travel**：移動や旅行そのものの行為や過程を表す
-- **[trip](/trip)**：特定の目的や期間のある「旅行」「出張」などの出来事を指す
+- **[trip](/word/trip)**：特定の目的や期間のある「旅行」「出張」などの出来事を指す
 
 travelは「移動する」という動作や過程に焦点があり、tripは「旅行」という出来事やイベント自体を指します。
 
@@ -106,14 +106,14 @@ travelは「移動する」という動作や過程に焦点があり、tripは�
 
 ## 🧩 あわせて覚えたい
 
-- [journey](/journey)：長い旅、旅程
-- [commute](/commute)：通勤・通学する
+- [journey](/word/journey)：長い旅、旅程
+- [commute](/word/commute)：通勤・通学する
 
 ---
 
 ## 📖 できればこれも
 
-- [visit](/visit)：訪れる
-- [explore](/explore)：探検する、調査する
+- [visit](/word/visit)：訪れる
+- [explore](/word/explore)：探検する、調査する
 
 <!-- cvid: aid07_bid28 -->

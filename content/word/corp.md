@@ -98,7 +98,7 @@ TOEICでは主にPart 7のビジネス文書やメール、会社案内などで
 ## 🤔  company との違いは？
 
 - **corp**：正式な会社名や法人名で使われる略語。フォーマルな印象。
-- **[company](/company)**：一般的な「会社」。日常会話や幅広い場面で使う。
+- **[company](/word/company)**：一般的な「会社」。日常会話や幅広い場面で使う。
 
 「corp」は主に正式名称や書類で使われ、日常会話では「company」がより一般的です。
 
@@ -106,14 +106,14 @@ TOEICでは主にPart 7のビジネス文書やメール、会社案内などで
 
 ## 🧩 あわせて覚えたい
 
-- [corporation](/corporation)：法人、株式会社
-- [firm](/firm)：会社、事務所（特に小規模や専門職の会社）
+- [corporation](/word/corporation)：法人、株式会社
+- [firm](/word/firm)：会社、事務所（特に小規模や専門職の会社）
 
 ---
 
 ## 📖 できればこれも
 
-- [branch](/branch)：支店、支社
-- [division](/division)：部門、部署
+- [branch](/word/branch)：支店、支社
+- [division](/word/division)：部門、部署
 
 <!-- cvid: aid31_bid18 -->

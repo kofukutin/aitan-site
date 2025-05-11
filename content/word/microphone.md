@@ -97,7 +97,7 @@ TOEICでは会議室やプレゼンの写真描写問題で「microphone」が�
 ## 🤔  speaker との違いは？
 
 - **microphone**：音を拾って電気信号に変換する装置（話す側で使う）
-- **[speaker](/speaker)**：電気信号を音に変換して出す装置（聞く側で使う）
+- **[speaker](/word/speaker)**：電気信号を音に変換して出す装置（聞く側で使う）
 
 microphoneは「声を拾う」側、speakerは「音を出す」側と、役割が正反対です。
 
@@ -105,14 +105,14 @@ microphoneは「声を拾う」側、speakerは「音を出す」側と、役割
 
 ## 🧩 あわせて覚えたい
 
-- [headset](/headset)：ヘッドホンとマイクが一体になった機器
-- [amplifier](/amplifier)：音を大きくする装置
+- [headset](/word/headset)：ヘッドホンとマイクが一体になった機器
+- [amplifier](/word/amplifier)：音を大きくする装置
 
 ---
 
 ## 📖 できればこれも
 
-- [camera](/camera)：カメラ、映像を撮る機器
-- [projector](/projector)：映像を投影する装置
+- [camera](/word/camera)：カメラ、映像を撮る機器
+- [projector](/word/projector)：映像を投影する装置
 
 <!-- cvid: aid42_bid07 -->

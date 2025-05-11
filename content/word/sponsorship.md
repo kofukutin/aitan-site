@@ -97,7 +97,7 @@ TOEICでは、ビジネスイベントやプロジェクトの案内文、広告
 ## 🤔  patronage との違いは？
 
 - **sponsorship**：企業や個人がイベントや活動を金銭的・物質的に支援すること
-- **[patronage](/patronage)**：主に芸術や事業などへの継続的な後援・保護
+- **[patronage](/word/patronage)**：主に芸術や事業などへの継続的な後援・保護
 
 sponsorshipはビジネスやイベントでの資金提供に使われ、patronageは文化・芸術などへの長期的な支援に使われることが多いです。
 
@@ -105,14 +105,14 @@ sponsorshipはビジネスやイベントでの資金提供に使われ、patron
 
 ## 🧩 あわせて覚えたい
 
-- [endorsement](/endorsement)：（有名人などによる）推薦、支持
-- [donation](/donation)：寄付、贈与
+- [endorsement](/word/endorsement)：（有名人などによる）推薦、支持
+- [donation](/word/donation)：寄付、贈与
 
 ---
 
 ## 📖 できればこれも
 
-- [partnership](/partnership)：提携、協力関係
-- [funding](/funding)：資金調達、資金供給
+- [partnership](/word/partnership)：提携、協力関係
+- [funding](/word/funding)：資金調達、資金供給
 
 <!-- cvid: aid02_bid23 -->

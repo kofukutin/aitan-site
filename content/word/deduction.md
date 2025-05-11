@@ -97,7 +97,7 @@ TOEICではビジネス文書や給与明細、契約書などで「控除」「
 ## 🤔  inference との違いは？
 
 - **deduction**：証拠や前提から論理的に結論を導くこと、または金額などを差し引くこと。
-- **[inference](/inference)**：観察や情報から推測・推論すること。
+- **[inference](/word/inference)**：観察や情報から推測・推論すること。
 
 deductionは「論理的な結論」や「差し引き」に重点があり、inferenceは「観察や情報からの推測」に重点があります。
 
@@ -105,14 +105,14 @@ deductionは「論理的な結論」や「差し引き」に重点があり、in
 
 ## 🧩 あわせて覚えたい
 
-- [assumption](/assumption)：仮定、前提
-- [reduction](/reduction)：削減、減少
+- [assumption](/word/assumption)：仮定、前提
+- [reduction](/word/reduction)：削減、減少
 
 ---
 
 ## 📖 できればこれも
 
-- [conclusion](/conclusion)：結論
-- [analysis](/analysis)：分析
+- [conclusion](/word/conclusion)：結論
+- [analysis](/word/analysis)：分析
 
 <!-- cvid: aid48_bid21 -->

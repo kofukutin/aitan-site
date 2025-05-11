@@ -97,7 +97,7 @@ TOEICでは農業や環境、経済に関する長文や記事で「crop」が�
 ## 🤔  harvest との違いは？
 
 - **crop**：畑や農場で育てられる「作物」や「収穫物」そのもの
-- **[harvest](/harvest)**：作物を「収穫する行為」や「収穫期」、または「収穫された量」
+- **[harvest](/word/harvest)**：作物を「収穫する行為」や「収穫期」、または「収穫された量」
 
 cropは「育てているもの」や「収穫されたもの」を指し、harvestは「収穫する行為」や「収穫の時期・量」を表します。
 
@@ -105,14 +105,14 @@ cropは「育てているもの」や「収穫されたもの」を指し、harv
 
 ## 🧩 あわせて覚えたい
 
-- [yield](/yield)：収穫量、生産高
-- [plantation](/plantation)：大規模農園
+- [yield](/word/yield)：収穫量、生産高
+- [plantation](/word/plantation)：大規模農園
 
 ---
 
 ## 📖 できればこれも
 
-- [soil](/soil)：土壌、土
-- [field](/field)：畑、野原
+- [soil](/word/soil)：土壌、土
+- [field](/word/field)：畑、野原
 
 <!-- cvid: aid34_bid41 -->

@@ -97,7 +97,7 @@ TOEICでは主にビジネスや会計に関する文脈で「控除する」「
 ## 🤔  subtract との違いは？
 
 - **deduct**：主にお金や数量をフォーマルに「差し引く」「控除する」
-- **[subtract](/subtract)**：数学的に「引く」「減算する」という意味で使われる
+- **[subtract](/word/subtract)**：数学的に「引く」「減算する」という意味で使われる
 
 deductはビジネスや会計などフォーマルな場面で使われ、subtractは計算や数学的な操作に使われることが多いです。
 
@@ -105,14 +105,14 @@ deductはビジネスや会計などフォーマルな場面で使われ、subtr
 
 ## 🧩 あわせて覚えたい
 
-- [withhold](/withhold)：差し控える、保留する
-- [refund](/refund)：返金、払い戻し
+- [withhold](/word/withhold)：差し控える、保留する
+- [refund](/word/refund)：返金、払い戻し
 
 ---
 
 ## 📖 できればこれも
 
-- [deposit](/deposit)：預金、預け入れ
-- [charge](/charge)：請求する、料金
+- [deposit](/word/deposit)：預金、預け入れ
+- [charge](/word/charge)：請求する、料金
 
 <!-- cvid: aid43_bid10 -->

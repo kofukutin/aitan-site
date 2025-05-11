@@ -98,7 +98,7 @@ TOEICでは、売上や価格、数値の変化を説明する場面でよく出
 ## 🤔  increase との違いは？
 
 - **rise**：自然に上がる、主語自身が上昇する
-- **[increase](/increase)**：数量や程度が増える、他動詞としても使える
+- **[increase](/word/increase)**：数量や程度が増える、他動詞としても使える
 
 riseは「自動的に上がる」動作を表し、increaseは「増やす」「増える」と数量の増加に焦点があります。
 
@@ -106,14 +106,14 @@ riseは「自動的に上がる」動作を表し、increaseは「増やす」�
 
 ## 🧩 あわせて覚えたい
 
-- [fall](/fall)：落ちる、下がる
-- [grow](/grow)：成長する、増大する
+- [fall](/word/fall)：落ちる、下がる
+- [grow](/word/grow)：成長する、増大する
 
 ---
 
 ## 📖 できればこれも
 
-- [raise](/raise)：上げる（他動詞）
-- [improve](/improve)：改善する、良くなる
+- [raise](/word/raise)：上げる（他動詞）
+- [improve](/word/improve)：改善する、良くなる
 
 <!-- cvid: aid43_bid44 -->

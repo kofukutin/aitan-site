@@ -97,7 +97,7 @@ IT関連のメールや説明文で「sync」は略語として登場するこ�
 ## 🤔  synchronize との違いは？
 
 - **sync**：カジュアルで短い表現。IT分野でよく使われる。
-- **[synchronize](/synchronize)**：フォーマルで正式な表現。書類や公式な場面で使われやすい。
+- **[synchronize](/word/synchronize)**：フォーマルで正式な表現。書類や公式な場面で使われやすい。
 
 syncは日常会話や実務でよく使われ、synchronizeはよりフォーマルな文書や技術文書で使われます。
 
@@ -105,14 +105,14 @@ syncは日常会話や実務でよく使われ、synchronizeはよりフォー�
 
 ## 🧩 あわせて覚えたい
 
-- [update](/update)：更新する
-- [backup](/backup)：バックアップする
+- [update](/word/update)：更新する
+- [backup](/word/backup)：バックアップする
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/install)：インストールする
-- [connect](/connect)：接続する
+- [install](/word/install)：インストールする
+- [connect](/word/connect)：接続する
 
 <!-- cvid: aid34_bid15 -->

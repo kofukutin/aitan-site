@@ -97,7 +97,7 @@ TOEICでは、科学や教育に関する長文や記事で登場することが
 ## 🤔  science との違いは？
 
 - **biology**：生物や生命現象を専門的に扱う学問
-- **[science](/science)**：自然科学全般を指し、物理・化学・生物など広い分野を含む
+- **[science](/word/science)**：自然科学全般を指し、物理・化学・生物など広い分野を含む
 
 biologyはscienceの中の一分野で、特に生き物や生命に関する内容に特化しています。
 
@@ -105,14 +105,14 @@ biologyはscienceの中の一分野で、特に生き物や生命に関する内
 
 ## 🧩 あわせて覚えたい
 
-- [chemistry](/chemistry)：化学
-- [ecology](/ecology)：生態学
+- [chemistry](/word/chemistry)：化学
+- [ecology](/word/ecology)：生態学
 
 ---
 
 ## 📖 できればこれも
 
-- [physics](/physics)：物理学
-- [laboratory](/laboratory)：実験室
+- [physics](/word/physics)：物理学
+- [laboratory](/word/laboratory)：実験室
 
 <!-- cvid: aid15_bid36 -->

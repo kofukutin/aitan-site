@@ -97,7 +97,7 @@ TOEICでは、記事やレポート、説明文などの長文読解パートで
 ## 🤔  story との違いは？
 
 - **narrative**：出来事や経験を順序立てて語る「物語」や「叙述」。背景や意図、視点を含むフォーマルな表現。
-- **[story](/story)**：日常的な「話」「物語」。必ずしも順序や背景説明を重視しないカジュアルな表現。
+- **[story](/word/story)**：日常的な「話」「物語」。必ずしも順序や背景説明を重視しないカジュアルな表現。
 
 narrativeは出来事の流れや背景、語り手の視点を重視するフォーマルな語で、storyはもっと気軽な「話」や「エピソード」に使われます。
 
@@ -105,14 +105,14 @@ narrativeは出来事の流れや背景、語り手の視点を重視するフ�
 
 ## 🧩 あわせて覚えたい
 
-- [account](/account)：説明、報告
-- [description](/description)：描写、記述
+- [account](/word/account)：説明、報告
+- [description](/word/description)：描写、記述
 
 ---
 
 ## 📖 できればこれも
 
-- [perspective](/perspective)：視点、観点
-- [summary](/summary)：要約
+- [perspective](/word/perspective)：視点、観点
+- [summary](/word/summary)：要約
 
 <!-- cvid: aid22_bid17 -->

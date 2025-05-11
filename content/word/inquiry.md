@@ -97,7 +97,7 @@ TOEICでは主にメールや案内文、ビジネス文書の中で「問い合
 ## 🤔  question との違いは？
 
 - **inquiry**：ビジネスやフォーマルな場面で使う「問い合わせ」「照会」
-- **[question](/question)**：日常的な「質問」や「疑問」
+- **[question](/word/question)**：日常的な「質問」や「疑問」
 
 inquiryは公式な場面や書面で使われることが多く、questionは会話やカジュアルな場面で幅広く使われます。
 
@@ -105,14 +105,14 @@ inquiryは公式な場面や書面で使われることが多く、questionは�
 
 ## 🧩 あわせて覚えたい
 
-- [investigation](/investigation)：調査、捜査
-- [request](/request)：依頼、要請
+- [investigation](/word/investigation)：調査、捜査
+- [request](/word/request)：依頼、要請
 
 ---
 
 ## 📖 できればこれも
 
-- [application](/application)：申請、応募
-- [proposal](/proposal)：提案
+- [application](/word/application)：申請、応募
+- [proposal](/word/proposal)：提案
 
 <!-- cvid: aid25_bid08 -->

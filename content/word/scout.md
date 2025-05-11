@@ -97,7 +97,7 @@ TOEICでは、採用や人材発掘、スポーツ関連の会話で登場する
 ## 🤔  recruit との違いは？
 
 - **scout**：才能や人材を積極的に探し出す人や行為
-- **[recruit](/recruit)**：新しい人材を募集・採用すること
+- **[recruit](/word/recruit)**：新しい人材を募集・採用すること
 
 scoutは「見つけ出す」「発掘する」ニュアンスが強く、recruitは「募集して迎え入れる」意味合いが中心です。
 
@@ -105,14 +105,14 @@ scoutは「見つけ出す」「発掘する」ニュアンスが強く、recrui
 
 ## 🧩 あわせて覚えたい
 
-- [talent](/talent)：才能、才能ある人
-- [agent](/agent)：代理人、仲介者
+- [talent](/word/talent)：才能、才能ある人
+- [agent](/word/agent)：代理人、仲介者
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/candidate)：候補者
-- [interview](/interview)：面接
+- [candidate](/word/candidate)：候補者
+- [interview](/word/interview)：面接
 
 <!-- cvid: aid43_bid13 -->

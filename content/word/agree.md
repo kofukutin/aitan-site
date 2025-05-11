@@ -97,7 +97,7 @@ We all agreed to the new schedule.
 ## 🤔  accept との違いは？
 
 - **agree**：他人の意見や提案に「同じ考えだ」と賛成すること
-- **[accept](/accept)**：提案や申し出などを「受け入れる」「承諾する」こと
+- **[accept](/word/accept)**：提案や申し出などを「受け入れる」「承諾する」こと
 
 agreeは「賛成」の気持ちを表し、acceptは「受け入れる」「承諾する」という行動に重点があります。
 
@@ -105,14 +105,14 @@ agreeは「賛成」の気持ちを表し、acceptは「受け入れる」「承
 
 ## 🧩 あわせて覚えたい
 
-- [consent](/consent)：（正式に）同意する
-- [disagree](/disagree)：同意しない、反対する
+- [consent](/word/consent)：（正式に）同意する
+- [disagree](/word/disagree)：同意しない、反対する
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/approve)：承認する、認める
-- [suggest](/suggest)：提案する
+- [approve](/word/approve)：承認する、認める
+- [suggest](/word/suggest)：提案する
 
 <!-- cvid: aid39_bid40 -->

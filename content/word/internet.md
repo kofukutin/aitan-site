@@ -97,7 +97,7 @@ TOEICでは、メールや案内文、説明文などで「internet」が頻出�
 ## 🤔  web との違いは？
 
 - **internet**：世界中のネットワークそのものを指す広い意味。
-- **[web](/web)**：インターネット上の情報閲覧サービス（ウェブサイトやページ）を指す。
+- **[web](/word/web)**：インターネット上の情報閲覧サービス（ウェブサイトやページ）を指す。
 
 internetはネットワーク全体、webはその上で動くサービスやページを指す点が異なります。
 
@@ -105,14 +105,14 @@ internetはネットワーク全体、webはその上で動くサービスやペ
 
 ## 🧩 あわせて覚えたい
 
-- [network](/network)：ネットワーク、通信網
-- [website](/website)：ウェブサイト、ホームページ
+- [network](/word/network)：ネットワーク、通信網
+- [website](/word/website)：ウェブサイト、ホームページ
 
 ---
 
 ## 📖 できればこれも
 
-- [email](/email)：電子メール
-- [browser](/browser)：ブラウザ、閲覧ソフト
+- [email](/word/email)：電子メール
+- [browser](/word/browser)：ブラウザ、閲覧ソフト
 
 <!-- cvid: aid15_bid09 -->

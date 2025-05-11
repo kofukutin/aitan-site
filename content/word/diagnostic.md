@@ -97,7 +97,7 @@ Our company uses diagnostic tools to identify system errors.
 ## 🤔  diagnosis との違いは？
 
 - **diagnostic**：診断に関する、診断用の（形容詞）
-- **[diagnosis](/diagnosis)**：診断（名詞）
+- **[diagnosis](/word/diagnosis)**：診断（名詞）
 
 diagnosticは「診断の」「診断に使う」といった形容詞で、diagnosisは「診断」という名詞です。たとえばdiagnostic test（診断テスト）、a diagnosis（診断）と使い分けます。
 
@@ -105,14 +105,14 @@ diagnosticは「診断の」「診断に使う」といった形容詞で、diag
 
 ## 🧩 あわせて覚えたい
 
-- [symptom](/symptom)：症状
-- [treatment](/treatment)：治療
+- [symptom](/word/symptom)：症状
+- [treatment](/word/treatment)：治療
 
 ---
 
 ## 📖 できればこれも
 
-- [clinical](/clinical)：臨床の
-- [prescription](/prescription)：処方箋
+- [clinical](/word/clinical)：臨床の
+- [prescription](/word/prescription)：処方箋
 
 <!-- cvid: aid22_bid04 -->

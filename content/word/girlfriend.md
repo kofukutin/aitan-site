@@ -97,7 +97,7 @@ TOEICでは日常会話や人物紹介の場面で出題されることがあり
 ## 🤔  partner との違いは？
 
 - **girlfriend**：恋愛関係にある女性をカジュアルに指す。
-- **[partner](/partner)**：性別を問わず恋人や配偶者、ビジネスの相棒など幅広く使うフォーマルな語。
+- **[partner](/word/partner)**：性別を問わず恋人や配偶者、ビジネスの相棒など幅広く使うフォーマルな語。
 
 girlfriendは「女性の恋人」に限定されカジュアルですが、partnerは性別や関係性を問わず幅広く使えるフォーマルな表現です。
 
@@ -105,14 +105,14 @@ girlfriendは「女性の恋人」に限定されカジュアルですが、part
 
 ## 🧩 あわせて覚えたい
 
-- [boyfriend](/boyfriend)：男性の恋人
-- [fiancee](/fiancee)：婚約者（女性）
+- [boyfriend](/word/boyfriend)：男性の恋人
+- [fiancee](/word/fiancee)：婚約者（女性）
 
 ---
 
 ## 📖 できればこれも
 
-- [boyfriend](/boyfriend)：男性の恋人
-- [couple](/couple)：カップル、恋人同士
+- [boyfriend](/word/boyfriend)：男性の恋人
+- [couple](/word/couple)：カップル、恋人同士
 
 <!-- cvid: aid11_bid06 -->

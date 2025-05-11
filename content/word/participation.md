@@ -97,7 +97,7 @@ TOEICでは、会議やプロジェクト、イベントなどの文脈で「参
 ## 🤔  involvement との違いは？
 
 - **participation**：実際に活動やイベントに「参加すること」を強調
-- **[involvement](/involvement)**：より広く「関与」「かかわり」を表し、必ずしも積極的な参加を意味しない
+- **[involvement](/word/involvement)**：より広く「関与」「かかわり」を表し、必ずしも積極的な参加を意味しない
 
 participationは「実際に行動して参加する」ニュアンスが強く、involvementは「関係している」「巻き込まれている」など幅広い関与を指します。
 
@@ -105,14 +105,14 @@ participationは「実際に行動して参加する」ニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [attendance](/attendance)：出席、出席者数
-- [contribution](/contribution)：貢献、寄付
+- [attendance](/word/attendance)：出席、出席者数
+- [contribution](/word/contribution)：貢献、寄付
 
 ---
 
 ## 📖 できればこれも
 
-- [participant](/participant)：参加者
-- [attendance](/attendance)：出席、出席者数
+- [participant](/word/participant)：参加者
+- [attendance](/word/attendance)：出席、出席者数
 
 <!-- cvid: aid44_bid02 -->

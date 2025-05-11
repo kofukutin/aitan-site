@@ -97,7 +97,7 @@ TOEICでは、consequenceはビジネス文書や説明文で「結果」「影�
 ## 🤔  result との違いは？
 
 - **consequence**：特に重要・深刻・好ましくない「結果」や「影響」を強調
-- **[result](/result)**：中立的な「結果」全般を指し、良い・悪いの区別はない
+- **[result](/word/result)**：中立的な「結果」全般を指し、良い・悪いの区別はない
 
 consequenceは「重大な結果」や「影響」を強調したいときに使い、resultは単に「結果」と言いたいときに使います。
 
@@ -105,14 +105,14 @@ consequenceは「重大な結果」や「影響」を強調したいときに使
 
 ## 🧩 あわせて覚えたい
 
-- [effect](/effect)：影響、効果
-- [outcome](/outcome)：（最終的な）結果
+- [effect](/word/effect)：影響、効果
+- [outcome](/word/outcome)：（最終的な）結果
 
 ---
 
 ## 📖 できればこれも
 
-- [impact](/impact)：影響、衝撃
-- [influence](/influence)：影響、作用
+- [impact](/word/impact)：影響、衝撃
+- [influence](/word/influence)：影響、作用
 
 <!-- cvid: aid28_bid11 -->

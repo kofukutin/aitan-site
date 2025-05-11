@@ -98,7 +98,7 @@ guardはTOEICの会話パートで「守る」「警備する」といった意�
 ## 🤔  protect との違いは？
 
 - **guard**：物理的・心理的に「見張って守る」ニュアンスが強い
-- **[protect](/protect)**：危険や損害から「守る」こと全般
+- **[protect](/word/protect)**：危険や損害から「守る」こと全般
 
 guardは「警戒して見張る」イメージ、protectは「危険から守る」広い意味で使われます。
 
@@ -106,14 +106,14 @@ guardは「警戒して見張る」イメージ、protectは「危険から守�
 
 ## 🧩 あわせて覚えたい
 
-- [defend](/defend)：（攻撃から）守る、防御する
-- [monitor](/monitor)：監視する、見守る
+- [defend](/word/defend)：（攻撃から）守る、防御する
+- [monitor](/word/monitor)：監視する、見守る
 
 ---
 
 ## 📖 できればこれも
 
-- [check](/check)：確認する、調べる
-- [watch](/watch)：じっと見る、見守る
+- [check](/word/check)：確認する、調べる
+- [watch](/word/watch)：じっと見る、見守る
 
 <!-- cvid: aid47_bid35 -->

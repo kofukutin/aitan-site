@@ -97,7 +97,7 @@ TOEICでは、書類やデータの修正・訂正に関する文脈で形容詞
 ## 🤔  fixed との違いは？
 
 - **corrected**：間違いが訂正・修正されて正しい状態になったことを強調
-- **[fixed](/fixed)**：壊れたものや不具合が「直された」ことを強調
+- **[fixed](/word/fixed)**：壊れたものや不具合が「直された」ことを強調
 
 「corrected」は誤りやミスが正しく直された場合に使い、「fixed」は物理的な修理や問題の解決に使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、書類やデータの修正・訂正に関する文脈で形容詞
 
 ## 🧩 あわせて覚えたい
 
-- [revised](/revised)：改訂された、見直された
-- [amended](/amended)：（文書などが）修正された、改正された
+- [revised](/word/revised)：改訂された、見直された
+- [amended](/word/amended)：（文書などが）修正された、改正された
 
 ---
 
 ## 📖 できればこれも
 
-- [accurate](/accurate)：正確な
-- [adjusted](/adjusted)：調整された
+- [accurate](/word/accurate)：正確な
+- [adjusted](/word/adjusted)：調整された
 
 <!-- cvid: aid32_bid00 -->

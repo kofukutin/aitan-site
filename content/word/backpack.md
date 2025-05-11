@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人物がリュックを背負って
 ## 🤔  rucksack との違いは？
 
 - **backpack**：アメリカ英語で一般的な「リュックサック」
-- **[rucksack](/rucksack)**：イギリス英語で使われる「リュックサック」
+- **[rucksack](/word/rucksack)**：イギリス英語で使われる「リュックサック」
 
 backpackはアメリカ英語でよく使われ、rucksackはイギリス英語でややフォーマルまたは登山用のニュアンスがあります。
 
@@ -105,14 +105,14 @@ backpackはアメリカ英語でよく使われ、rucksackはイギリス英語�
 
 ## 🧩 あわせて覚えたい
 
-- [suitcase](/suitcase)：スーツケース、旅行用の大きなかばん
-- [luggage](/luggage)：荷物、旅行かばん全般
+- [suitcase](/word/suitcase)：スーツケース、旅行用の大きなかばん
+- [luggage](/word/luggage)：荷物、旅行かばん全般
 
 ---
 
 ## 📖 できればこれも
 
-- [bag](/bag)：かばん、袋
-- [pocket](/pocket)：ポケット、衣服などの小さな入れ物
+- [bag](/word/bag)：かばん、袋
+- [pocket](/word/pocket)：ポケット、衣服などの小さな入れ物
 
 <!-- cvid: aid11_bid03 -->

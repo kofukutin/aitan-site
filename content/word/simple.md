@@ -97,7 +97,7 @@ TOEICでは、説明や手順、デザインなどが「シンプルである」
 ## 🤔  easy との違いは？
 
 - **simple**：構造や仕組みが「単純」「複雑でない」ことを強調
-- **[easy](/easy)**：やるのが「簡単」「努力がいらない」ことを強調
+- **[easy](/word/easy)**：やるのが「簡単」「努力がいらない」ことを強調
 
 「simple」は物事の構造や見た目が複雑でないこと、「easy」は実際に行うのが難しくないことに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは、説明や手順、デザインなどが「シンプルである」
 
 ## 🧩 あわせて覚えたい
 
-- [plain](/plain)：飾り気のない、質素な
-- [complicated](/complicated)：複雑な
+- [plain](/word/plain)：飾り気のない、質素な
+- [complicated](/word/complicated)：複雑な
 
 ---
 
 ## 📖 できればこれも
 
-- [basic](/basic)：基本的な
-- [clear](/clear)：明確な
+- [basic](/word/basic)：基本的な
+- [clear](/word/clear)：明確な
 
 <!-- cvid: aid39_bid43 -->

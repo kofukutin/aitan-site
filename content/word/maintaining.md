@@ -97,7 +97,7 @@ TOEICでは会議や業務の説明、設備管理などの文脈で「maintaini
 ## 🤔  keeping との違いは？
 
 - **maintaining**：一定の状態や品質を継続的に保つ、管理するニュアンス
-- **[keeping](/keeping)**：単に「持ち続ける」「保管する」など広い意味で使う
+- **[keeping](/word/keeping)**：単に「持ち続ける」「保管する」など広い意味で使う
 
 maintainingは「管理・維持」の意識が強く、keepingは「そのまま持っている」イメージです。
 
@@ -105,14 +105,14 @@ maintainingは「管理・維持」の意識が強く、keepingは「そのま�
 
 ## 🧩 あわせて覚えたい
 
-- [preserve](/preserve)：保存する、守る
-- [sustain](/sustain)：持続させる、支える
+- [preserve](/word/preserve)：保存する、守る
+- [sustain](/word/sustain)：持続させる、支える
 
 ---
 
 ## 📖 できればこれも
 
-- [improving](/improving)：改善すること
-- [operating](/operating)：運営すること
+- [improving](/word/improving)：改善すること
+- [operating](/word/operating)：運営すること
 
 <!-- cvid: aid08_bid45 -->

@@ -97,7 +97,7 @@ TOEICでは主に返品・返金に関するメールや案内文で登場しま
 ## 🤔  reimburse との違いは？
 
 - **refund**：商品やサービスの代金を返すこと。主に消費者向け。
-- **[reimburse](/reimburse)**：立て替えた費用や経費を返すこと。ビジネスや経費精算で使う。
+- **[reimburse](/word/reimburse)**：立て替えた費用や経費を返すこと。ビジネスや経費精算で使う。
 
 refundは「購入代金の返金」、reimburseは「経費や立て替え金の払い戻し」と使い分けます。
 
@@ -105,14 +105,14 @@ refundは「購入代金の返金」、reimburseは「経費や立て替え金�
 
 ## 🧩 あわせて覚えたい
 
-- [exchange](/exchange)：交換、取り替え
-- [compensation](/compensation)：補償、賠償
+- [exchange](/word/exchange)：交換、取り替え
+- [compensation](/word/compensation)：補償、賠償
 
 ---
 
 ## 📖 できればこれも
 
-- [receipt](/receipt)：領収書
-- [invoice](/invoice)：請求書
+- [receipt](/word/receipt)：領収書
+- [invoice](/word/invoice)：請求書
 
 <!-- cvid: aid18_bid11 -->

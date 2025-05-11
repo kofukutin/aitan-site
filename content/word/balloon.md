@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、パーティーやイベント、観
 ## 🤔  bubble との違いは？
 
 - **balloon**：空気やガスを入れて膨らませる「風船」や「気球」など、形が保たれるもの。
-- **[bubble](/bubble)**：水や液体の中にできる「泡」や、壊れやすい小さな球体。
+- **[bubble](/word/bubble)**：水や液体の中にできる「泡」や、壊れやすい小さな球体。
 
 balloonは形がしっかりしていて手で持てる風船、bubbleは水や石けんでできる壊れやすい泡を指します。
 
@@ -105,14 +105,14 @@ balloonは形がしっかりしていて手で持てる風船、bubbleは水や�
 
 ## 🧩 あわせて覚えたい
 
-- [airship](/airship)：飛行船
-- [parade](/parade)：パレード
+- [airship](/word/airship)：飛行船
+- [parade](/word/parade)：パレード
 
 ---
 
 ## 📖 できればこれも
 
-- [float](/float)：浮かぶ
-- [inflate](/inflate)：膨らませる
+- [float](/word/float)：浮かぶ
+- [inflate](/word/inflate)：膨らませる
 
 <!-- cvid: aid15_bid43 -->

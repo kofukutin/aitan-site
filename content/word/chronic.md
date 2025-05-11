@@ -97,7 +97,7 @@ The company is facing chronic financial problems.
 ## 🤔  persistent との違いは？
 
 - **chronic**：長期間続く、特に病気や問題が慢性的であることを強調
-- **[persistent](/persistent)**：しつこく続く、粘り強い、症状や行動がなかなか止まらないこと
+- **[persistent](/word/persistent)**：しつこく続く、粘り強い、症状や行動がなかなか止まらないこと
 
 「chronic」は特に医療や問題の長期化に使われ、「persistent」はしつこさや粘り強さに焦点があります。
 
@@ -105,14 +105,14 @@ The company is facing chronic financial problems.
 
 ## 🧩 あわせて覚えたい
 
-- [acute](/acute)：急性の、突然発症する
-- [terminal](/terminal)：末期の、治療が困難な
+- [acute](/word/acute)：急性の、突然発症する
+- [terminal](/word/terminal)：末期の、治療が困難な
 
 ---
 
 ## 📖 できればこれも
 
-- [symptom](/symptom)：症状
-- [treatment](/treatment)：治療
+- [symptom](/word/symptom)：症状
+- [treatment](/word/treatment)：治療
 
 <!-- cvid: aid07_bid18 -->

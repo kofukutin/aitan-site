@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や案内、規則説明などで頻出しま
 ## 🤔  process との違いは？
 
 - **procedure**：公式な手順や決まった方法、特にフォーマルな場面で使う
-- **[process](/process)**：物事の進行や流れ、一般的な過程
+- **[process](/word/process)**：物事の進行や流れ、一般的な過程
 
 procedureは「決められた手順」や「公式な方法」を強調し、processは「全体の流れ」や「進行」を指します。
 
@@ -105,14 +105,14 @@ procedureは「決められた手順」や「公式な方法」を強調し、pr
 
 ## 🧩 あわせて覚えたい
 
-- [protocol](/protocol)：規定、規約
-- [method](/method)：方法、やり方
+- [protocol](/word/protocol)：規定、規約
+- [method](/word/method)：方法、やり方
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/policy)：方針、政策
-- [instruction](/instruction)：指示、説明
+- [policy](/word/policy)：方針、政策
+- [instruction](/word/instruction)：指示、説明
 
 <!-- cvid: aid47_bid31 -->

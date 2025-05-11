@@ -97,7 +97,7 @@ TOEICでは会議やビジネスのやりとりで「問題」「案件」とし
 ## 🤔  issue との違いは？
 
 - **matter**：一般的な「事柄」「問題」「案件」など幅広く使える
-- **[issue](/issue)**：議論や解決が必要な「問題」「課題」に特化
+- **[issue](/word/issue)**：議論や解決が必要な「問題」「課題」に特化
 
 matterは広く「事柄」や「問題」を指し、issueは特に議論や解決を要する「課題」に使われます。
 
@@ -105,14 +105,14 @@ matterは広く「事柄」や「問題」を指し、issueは特に議論や解
 
 ## 🧩 あわせて覚えたい
 
-- [topic](/topic)：話題、テーマ
-- [subject](/subject)：主題、テーマ
+- [topic](/word/topic)：話題、テーマ
+- [subject](/word/subject)：主題、テーマ
 
 ---
 
 ## 📖 できればこれも
 
-- [case](/case)：事例、場合
-- [affair](/affair)：出来事、事件
+- [case](/word/case)：事例、場合
+- [affair](/word/affair)：出来事、事件
 
 <!-- cvid: aid34_bid37 -->

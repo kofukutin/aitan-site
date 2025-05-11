@@ -97,7 +97,7 @@ TOEICでは、建物や施設の取り壊し、または計画の否定に関す
 ## 🤔  destroy との違いは？
 
 - **demolish**：建物や構造物を意図的・計画的に取り壊す、または理論などを徹底的に打ち砕く
-- **[destroy](/destroy)**：物や抽象的なものを完全に壊す・破壊する（意図的でなくてもよい）
+- **[destroy](/word/destroy)**：物や抽象的なものを完全に壊す・破壊する（意図的でなくてもよい）
 
 demolishは「計画的な取り壊し」に重点があり、destroyは「完全な破壊」全般に使われます。
 
@@ -105,14 +105,14 @@ demolishは「計画的な取り壊し」に重点があり、destroyは「完�
 
 ## 🧩 あわせて覚えたい
 
-- [dismantle](/dismantle)：分解する、解体する
-- [ruin](/ruin)：台無しにする、破滅させる
+- [dismantle](/word/dismantle)：分解する、解体する
+- [ruin](/word/ruin)：台無しにする、破滅させる
 
 ---
 
 ## 📖 できればこれも
 
-- [construct](/construct)：建設する、組み立てる
-- [remove](/remove)：取り除く、撤去する
+- [construct](/word/construct)：建設する、組み立てる
+- [remove](/word/remove)：取り除く、撤去する
 
 <!-- cvid: aid38_bid24 -->

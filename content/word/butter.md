@@ -96,7 +96,7 @@ TOEICでは主に写真描写問題で、食事やキッチンの場面で登場
 ## 🤔  margarine との違いは？
 
 - **butter**：牛乳から作られる天然の乳製品。コクと風味が強い。
-- **[margarine](/margarine)**：植物油などから作られる人工的なスプレッド。バターより軽い味わい。
+- **[margarine](/word/margarine)**：植物油などから作られる人工的なスプレッド。バターより軽い味わい。
 
 butterは動物性、margarineは植物性が主で、健康志向や味の好みによって使い分けられます。
 
@@ -104,14 +104,14 @@ butterは動物性、margarineは植物性が主で、健康志向や味の好�
 
 ## 🧩 あわせて覚えたい
 
-- [cheese](/cheese)：チーズ（乳製品の一種）
-- [spread](/spread)：スプレッド（パンなどに塗る食品）
+- [cheese](/word/cheese)：チーズ（乳製品の一種）
+- [spread](/word/spread)：スプレッド（パンなどに塗る食品）
 
 ---
 
 ## 📖 できればこれも
 
-- [bread](/bread)：パン
-- [milk](/milk)：牛乳
+- [bread](/word/bread)：パン
+- [milk](/word/milk)：牛乳
 
 <!-- cvid: aid05_bid37 -->

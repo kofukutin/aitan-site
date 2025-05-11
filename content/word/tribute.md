@@ -97,7 +97,7 @@ TOEICでは、記事やスピーチ文、表彰に関する長文で「tribute�
 ## 🤔  compliment との違いは？
 
 - **tribute**：フォーマルな場面での敬意や感謝、功績を称える賛辞や記念行為
-- **[compliment](/compliment)**：日常的な褒め言葉や好意的なコメント
+- **[compliment](/word/compliment)**：日常的な褒め言葉や好意的なコメント
 
 tributeは公式な場や儀式で使われることが多く、complimentはカジュアルな会話での「褒め言葉」に使われます。
 
@@ -105,14 +105,14 @@ tributeは公式な場や儀式で使われることが多く、complimentはカ
 
 ## 🧩 あわせて覚えたい
 
-- [homage](/homage)：敬意、尊敬の意を表す行為
-- [donation](/donation)：寄付、贈与
+- [homage](/word/homage)：敬意、尊敬の意を表す行為
+- [donation](/word/donation)：寄付、贈与
 
 ---
 
 ## 📖 できればこれも
 
-- [honor](/honor)：名誉、敬意
-- [praise](/praise)：称賛、褒めること
+- [honor](/word/honor)：名誉、敬意
+- [praise](/word/praise)：称賛、褒めること
 
 <!-- cvid: aid13_bid25 -->

@@ -93,7 +93,7 @@ TOEICでは主にPart 1の写真描写問題で、人物や物の位置を説明
 ## 🤔  above との違いは？
 
 - **upstairs**：建物の「上の階」や「階上」を表すカジュアルな副詞
-- **[above](/above)**：物理的に「上方に」「上にある」ことを表す前置詞・副詞
+- **[above](/word/above)**：物理的に「上方に」「上にある」ことを表す前置詞・副詞
 
 upstairsは建物内の階層を指し、aboveは単純に上下関係や高さを表します。階段やフロアの話ならupstairs、位置関係ならaboveを使います。
 
@@ -101,14 +101,14 @@ upstairsは建物内の階層を指し、aboveは単純に上下関係や高さ�
 
 ## 🧩 あわせて覚えたい
 
-- [downstairs](/downstairs)：下の階へ、階下で
-- [overhead](/overhead)：頭上に、上方に
+- [downstairs](/word/downstairs)：下の階へ、階下で
+- [overhead](/word/overhead)：頭上に、上方に
 
 ---
 
 ## 📖 できればこれも
 
-- [inside](/inside)：中に、屋内で
-- [outside](/outside)：外に、屋外で
+- [inside](/word/inside)：中に、屋内で
+- [outside](/word/outside)：外に、屋外で
 
 <!-- cvid: aid45_bid27 -->

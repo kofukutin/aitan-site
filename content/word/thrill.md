@@ -97,7 +97,7 @@ thrillはTOEICの会話パートで、感情や印象を表す動詞として出
 ## 🤔  excite との違いは？
 
 - **thrill**：強い興奮や感動でぞくぞくさせる
-- **[excite](/excite)**：興味や期待でわくわくさせる
+- **[excite](/word/excite)**：興味や期待でわくわくさせる
 
 thrillは感情の高まりがより強く、心が震えるような感動やスリルを伴う場面で使われます。exciteはもう少し広く、単に「楽しみ」「期待」などの軽い興奮にも使えます。
 
@@ -105,14 +105,14 @@ thrillは感情の高まりがより強く、心が震えるような感動や�
 
 ## 🧩 あわせて覚えたい
 
-- [bore](/bore)：退屈させる
-- [amaze](/amaze)：驚かせる
+- [bore](/word/bore)：退屈させる
+- [amaze](/word/amaze)：驚かせる
 
 ---
 
 ## 📖 できればこれも
 
-- [impress](/impress)：感銘を与える
-- [delight](/delight)：大いに喜ばせる
+- [impress](/word/impress)：感銘を与える
+- [delight](/word/delight)：大いに喜ばせる
 
 <!-- cvid: aid48_bid02 -->

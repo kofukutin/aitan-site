@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や契約書、社内手続きの文脈で出
 ## 🤔  permit との違いは？
 
 - **authorize**：公式に権限や許可を与える（特に権威や責任を伴う場面で使う）
-- **[permit](/permit)**：一般的に「許可する」、日常的な許可や認可に幅広く使う
+- **[permit](/word/permit)**：一般的に「許可する」、日常的な許可や認可に幅広く使う
 
 **authorize**は「権限を与える」などフォーマルで公式な許可に使い、**permit**は日常的な「許可する」にも使える点が異なります。
 
@@ -105,14 +105,14 @@ TOEICでは主にビジネス文書や契約書、社内手続きの文脈で出
 
 ## 🧩 あわせて覚えたい
 
-- [approve](/approve)：承認する
-- [forbid](/forbid)：禁止する
+- [approve](/word/approve)：承認する
+- [forbid](/word/forbid)：禁止する
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/confirm)：確認する
-- [grant](/grant)：与える、許可する
+- [confirm](/word/confirm)：確認する
+- [grant](/word/grant)：与える、許可する
 
 <!-- cvid: aid07_bid20 -->

@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やレポート、メールなどで「情報
 ## 🤔  wisdom との違いは？
 
 - **intelligence**：物事を理解し、分析・判断する知能や知性、または情報。
-- **[wisdom](/wisdom)**：経験や知識に基づく「賢さ」や「分別」。
+- **[wisdom](/word/wisdom)**：経験や知識に基づく「賢さ」や「分別」。
 
 intelligenceは「頭の良さ」や「情報収集力」を指し、wisdomは「人生経験からくる賢さ」や「判断力」を表します。
 
@@ -105,14 +105,14 @@ intelligenceは「頭の良さ」や「情報収集力」を指し、wisdomは�
 
 ## 🧩 あわせて覚えたい
 
-- [knowledge](/knowledge)：知識
-- [insight](/insight)：洞察、見抜く力
+- [knowledge](/word/knowledge)：知識
+- [insight](/word/insight)：洞察、見抜く力
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/analysis)：分析
-- [strategy](/strategy)：戦略
+- [analysis](/word/analysis)：分析
+- [strategy](/word/strategy)：戦略
 
 <!-- cvid: aid46_bid20 -->

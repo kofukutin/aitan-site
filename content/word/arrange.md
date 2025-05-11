@@ -98,7 +98,7 @@ TOEICでは会議や出張、アポイントメントの手配など、ビジネ
 ## 🤔  organize との違いは？
 
 - **arrange**：物事を順序よく整える、手配する
-- **[organize](/organize)**：全体を計画的にまとめる、組織化する
+- **[organize](/word/organize)**：全体を計画的にまとめる、組織化する
 
 arrangeは「並べる・手配する」など具体的な配置や準備に使い、organizeは「全体を計画的にまとめる」や「組織化する」など、より広い範囲の管理や構成に使います。
 
@@ -106,14 +106,14 @@ arrangeは「並べる・手配する」など具体的な配置や準備に使�
 
 ## 🧩 あわせて覚えたい
 
-- [schedule](/schedule)：予定を立てる、スケジュールする
-- [prepare](/prepare)：準備する、用意する
+- [schedule](/word/schedule)：予定を立てる、スケジュールする
+- [prepare](/word/prepare)：準備する、用意する
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/plan)：計画する
-- [adjust](/adjust)：調整する
+- [plan](/word/plan)：計画する
+- [adjust](/word/adjust)：調整する
 
 <!-- cvid: aid29_bid08 -->

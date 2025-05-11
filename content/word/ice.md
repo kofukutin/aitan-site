@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、飲み物や冬の風景などの場面
 ## 🤔  snow との違いは？
 
 - **ice**：水が凍ってできた固体の「氷」
-- **[snow](/snow)**：空から降る「雪」
+- **[snow](/word/snow)**：空から降る「雪」
 
 iceは水が凍ってできる固体全般を指し、snowは空から降る白い雪を指します。氷は固まった水、雪は空から降る結晶です。
 
@@ -105,14 +105,14 @@ iceは水が凍ってできる固体全般を指し、snowは空から降る白�
 
 ## 🧩 あわせて覚えたい
 
-- [water](/water)：水
-- [frost](/frost)：霜
+- [water](/word/water)：水
+- [frost](/word/frost)：霜
 
 ---
 
 ## 📖 できればこれも
 
-- [cold](/cold)：冷たい、寒い
-- [glass](/glass)：ガラス、コップ
+- [cold](/word/cold)：冷たい、寒い
+- [glass](/word/glass)：ガラス、コップ
 
 <!-- cvid: aid06_bid34 -->

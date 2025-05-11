@@ -93,7 +93,7 @@ TOEICでは、文中での副詞の位置や、追加情報を伝える表現と
 ## 🤔  too との違いは？
 
 - **also**：文中や文頭で「～もまた」と追加情報を伝えるときに使う
-- **[too](/too)**：文末で「～もまた」と言うときに使う
+- **[too](/word/too)**：文末で「～もまた」と言うときに使う
 
 "also" は主に文中や文頭で使われ、ややフォーマルな印象です。"too" は文末で使われることが多く、カジュアルな場面でもよく使われます。
 
@@ -101,14 +101,14 @@ TOEICでは、文中での副詞の位置や、追加情報を伝える表現と
 
 ## 🧩 あわせて覚えたい
 
-- [additionally](/additionally)：さらに、そのうえ
-- [besides](/besides)：そのうえ、さらに
+- [additionally](/word/additionally)：さらに、そのうえ
+- [besides](/word/besides)：そのうえ、さらに
 
 ---
 
 ## 📖 できればこれも
 
-- [however](/however)：しかしながら
-- [either](/either)：～もまた（否定文で）
+- [however](/word/however)：しかしながら
+- [either](/word/either)：～もまた（否定文で）
 
 <!-- cvid: aid31_bid06 -->

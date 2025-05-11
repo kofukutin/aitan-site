@@ -93,7 +93,7 @@ TOEICでは主に文法やフォーマルな表現を問う問題で出題され
 ## 🤔  on との違いは？
 
 - **upon**：フォーマルで、出来事の直後や物理的な「上」を強調
-- **[on](/on)**：カジュアルで、場所や時間、状態の「上」に広く使う
+- **[on](/word/on)**：カジュアルで、場所や時間、状態の「上」に広く使う
 
 uponは書き言葉や公式な場面で使われ、onは日常会話や幅広い場面で使われます。
 
@@ -101,14 +101,14 @@ uponは書き言葉や公式な場面で使われ、onは日常会話や幅広�
 
 ## 🧩 あわせて覚えたい
 
-- [after](/after)：～の後に
-- [immediately](/immediately)：すぐに
+- [after](/word/after)：～の後に
+- [immediately](/word/immediately)：すぐに
 
 ---
 
 ## 📖 できればこれも
 
-- [during](/during)：～の間に
-- [before](/before)：～の前に
+- [during](/word/during)：～の間に
+- [before](/word/before)：～の前に
 
 <!-- cvid: aid29_bid46 -->

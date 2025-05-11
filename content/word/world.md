@@ -97,7 +97,7 @@ TOEICでは「世界」「国際的な」などの文脈で頻出し、特にビ
 ## 🤔  earth との違いは？
 
 - **world**：人々や社会を含めた「世界」や「世の中」を指すことが多い
-- **[earth](/earth)**：物理的な「地球」という惑星そのものを指す
+- **[earth](/word/earth)**：物理的な「地球」という惑星そのものを指す
 
 「world」は人や文化、社会も含めた広い意味で使われますが、「earth」は科学的・地理的な意味での地球を指します。
 
@@ -105,14 +105,14 @@ TOEICでは「世界」「国際的な」などの文脈で頻出し、特にビ
 
 ## 🧩 あわせて覚えたい
 
-- [universe](/universe)：宇宙
-- [society](/society)：社会
+- [universe](/word/universe)：宇宙
+- [society](/word/society)：社会
 
 ---
 
 ## 📖 できればこれも
 
-- [country](/country)：国
-- [global](/global)：世界的な
+- [country](/word/country)：国
+- [global](/word/global)：世界的な
 
 <!-- cvid: aid10_bid22 -->

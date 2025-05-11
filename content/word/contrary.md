@@ -97,7 +97,7 @@ TOEICでは、意見や事実の対立を表す文脈で出題されることが
 ## 🤔  opposite との違いは？
 
 - **contrary**：意見や事実、傾向などが「正反対」であることを強調する。
-- **[opposite](/opposite)**：物理的な位置や方向、または性質が「向かい合って反対」であることを表す。
+- **[opposite](/word/opposite)**：物理的な位置や方向、または性質が「向かい合って反対」であることを表す。
 
 contraryは抽象的な内容（意見・考え方など）に、oppositeは具体的な位置や物事の対比に使われることが多いです。
 
@@ -105,14 +105,14 @@ contraryは抽象的な内容（意見・考え方など）に、oppositeは具�
 
 ## 🧩 あわせて覚えたい
 
-- [reverse](/reverse)：逆、反対（名詞・形容詞）
-- [conflicting](/conflicting)：矛盾する、対立する（形容詞）
+- [reverse](/word/reverse)：逆、反対（名詞・形容詞）
+- [conflicting](/word/conflicting)：矛盾する、対立する（形容詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [consistent](/consistent)：一貫した、矛盾しない
-- [relevant](/relevant)：関連のある
+- [consistent](/word/consistent)：一貫した、矛盾しない
+- [relevant](/word/relevant)：関連のある
 
 <!-- cvid: aid09_bid13 -->

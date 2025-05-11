@@ -97,7 +97,7 @@ TOEICでは数字や数量を問う問題でよく登場します。特にリス
 ## 🤔  half dozen との違いは？
 
 - **six**：単純に「6」や「6個」を表す最も直接的な表現。
-- **[half dozen](/half_dozen)**：「6個」をややフォーマルまたは慣用的に表現する言い方。
+- **[half dozen](/word/half_dozen)**：「6個」をややフォーマルまたは慣用的に表現する言い方。
 
 sixは数字そのものを指し、half dozenは「1ダースの半分」というニュアンスで、やや数量感を強調したいときやフォーマルな場面で使われます。
 
@@ -105,14 +105,14 @@ sixは数字そのものを指し、half dozenは「1ダースの半分」とい
 
 ## 🧩 あわせて覚えたい
 
-- [seven](/seven)：7、7個
-- [sixth](/sixth)：6番目
+- [seven](/word/seven)：7、7個
+- [sixth](/word/sixth)：6番目
 
 ---
 
 ## 📖 できればこれも
 
-- [five](/five)：5、5個
-- [eight](/eight)：8、8個
+- [five](/word/five)：5、5個
+- [eight](/word/eight)：8、8個
 
 <!-- cvid: aid36_bid43 -->

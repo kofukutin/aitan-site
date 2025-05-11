@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や人事関連の文脈で「retain」が「雇
 ## 🤔  keep との違いは？
 
 - **retain**：フォーマルで「維持する」「保有し続ける」の意味。主にビジネスや公式文書で使われる。
-- **[keep](/keep)**：日常的で幅広く使われ、「持ち続ける」「保つ」などカジュアルな表現。
+- **[keep](/word/keep)**：日常的で幅広く使われ、「持ち続ける」「保つ」などカジュアルな表現。
 
 retainは形式的・公式な場面で使われ、keepは日常会話やカジュアルな場面で使われることが多いです。
 
@@ -105,14 +105,14 @@ retainは形式的・公式な場面で使われ、keepは日常会話やカジ�
 
 ## 🧩 あわせて覚えたい
 
-- [preserve](/preserve)：保存する、保護する
-- [dismiss](/dismiss)：解雇する、退ける
+- [preserve](/word/preserve)：保存する、保護する
+- [dismiss](/word/dismiss)：解雇する、退ける
 
 ---
 
 ## 📖 できればこれも
 
-- [maintain](/maintain)：維持する、保守する
-- [store](/store)：保存する、蓄える
+- [maintain](/word/maintain)：維持する、保守する
+- [store](/word/store)：保存する、蓄える
 
 <!-- cvid: aid41_bid25 -->

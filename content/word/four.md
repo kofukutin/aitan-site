@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写や、数を問う場面でよく登場します
 ## 🤔  fourth との違いは？
 
 - **four**：4という「数」そのものを表す
-- **[fourth](/fourth)**：4番目、順序を表す
+- **[fourth](/word/fourth)**：4番目、順序を表す
 
 「four」は数量、「fourth」は順序を表すので、使い分けに注意しましょう。
 
@@ -105,14 +105,14 @@ TOEICではPart 1の写真描写や、数を問う場面でよく登場します
 
 ## 🧩 あわせて覚えたい
 
-- [three](/three)：3
-- [five](/five)：5
+- [three](/word/three)：3
+- [five](/word/five)：5
 
 ---
 
 ## 📖 できればこれも
 
-- [second](/second)：2番目
-- [first](/first)：1番目
+- [second](/word/second)：2番目
+- [first](/word/first)：1番目
 
 <!-- cvid: aid35_bid43 -->

@@ -97,7 +97,7 @@ TOEICでは環境問題や安全管理に関する長文で「toxic」が登場�
 ## 🤔  poisonous との違いは？
 
 - **toxic**：化学的・医学的に「有毒な」「毒性のある」という意味で、物質や環境、抽象的なものにも使える。
-- **[poisonous](/poisonous)**：主に「食べる・触れると毒がある」もの（例：毒キノコ、ヘビ）に使う。
+- **[poisonous](/word/poisonous)**：主に「食べる・触れると毒がある」もの（例：毒キノコ、ヘビ）に使う。
 
 toxicは科学的・広範な毒性を指し、poisonousは直接的に「毒を持つ生物や物」に限定される傾向があります。
 
@@ -105,14 +105,14 @@ toxicは科学的・広範な毒性を指し、poisonousは直接的に「毒を
 
 ## 🧩 あわせて覚えたい
 
-- [hazardous](/hazardous)：危険な、有害な
-- [harmful](/harmful)：有害な、害を及ぼす
+- [hazardous](/word/hazardous)：危険な、有害な
+- [harmful](/word/harmful)：有害な、害を及ぼす
 
 ---
 
 ## 📖 できればこれも
 
-- [chemical](/chemical)：化学物質
-- [pollute](/pollute)：汚染する
+- [chemical](/word/chemical)：化学物質
+- [pollute](/word/pollute)：汚染する
 
 <!-- cvid: aid48_bid13 -->

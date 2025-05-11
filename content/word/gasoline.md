@@ -97,7 +97,7 @@ TOEICでは主に説明文や広告、案内文などで「燃料」や「車」
 ## 🤔  fuel との違いは？
 
 - **gasoline**：自動車用の液体燃料（主にアメリカ英語）
-- **[fuel](/fuel)**：燃料全般（液体・気体・固体すべて含む）
+- **[fuel](/word/fuel)**：燃料全般（液体・気体・固体すべて含む）
 
 gasolineは車用のガソリンを指し、fuelは広く「燃料」全般を指します。
 
@@ -105,14 +105,14 @@ gasolineは車用のガソリンを指し、fuelは広く「燃料」全般を�
 
 ## 🧩 あわせて覚えたい
 
-- [diesel](/diesel)：ディーゼル燃料
-- [petrol](/petrol)：ガソリン（イギリス英語）
+- [diesel](/word/diesel)：ディーゼル燃料
+- [petrol](/word/petrol)：ガソリン（イギリス英語）
 
 ---
 
 ## 📖 できればこれも
 
-- [engine](/engine)：エンジン
-- [vehicle](/vehicle)：車両
+- [engine](/word/engine)：エンジン
+- [vehicle](/word/vehicle)：車両
 
 <!-- cvid: aid41_bid05 -->

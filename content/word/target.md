@@ -97,7 +97,7 @@ TOEICではビジネスの目標や数値目標を表す文脈でよく出題さ
 ## 🤔  aim との違いは？
 
 - **target**：具体的な数値や達成すべき明確な目標、または狙いとなる対象
-- **[aim](/aim)**：やや抽象的な目的や意図、努力の方向性
+- **[aim](/word/aim)**：やや抽象的な目的や意図、努力の方向性
 
 targetは「売上目標」など具体的なゴールに使われ、aimは「目指すこと」や「意図」といった広い意味で使われます。
 
@@ -105,14 +105,14 @@ targetは「売上目標」など具体的なゴールに使われ、aimは「�
 
 ## 🧩 あわせて覚えたい
 
-- [goal](/goal)：最終的な到達点、ゴール
-- [objective](/objective)：達成すべき具体的な目的
+- [goal](/word/goal)：最終的な到達点、ゴール
+- [objective](/word/objective)：達成すべき具体的な目的
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/plan)：計画
-- [purpose](/purpose)：目的
+- [plan](/word/plan)：計画
+- [purpose](/word/purpose)：目的
 
 <!-- cvid: aid24_bid42 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、飛行機や会議室、スーパー
 ## 🤔  corridor との違いは？
 
 - **aisle**：座席や棚の間の「通路」
-- **[corridor](/corridor)**：建物内の「廊下」
+- **[corridor](/word/corridor)**：建物内の「廊下」
 
 aisleは劇場や飛行機、スーパーなどの座席や棚の間の通路を指し、corridorは建物内の部屋をつなぐ廊下を指します。
 
@@ -105,14 +105,14 @@ aisleは劇場や飛行機、スーパーなどの座席や棚の間の通路を
 
 ## 🧩 あわせて覚えたい
 
-- [row](/row)：列、並び
-- [passage](/passage)：通路、通過
+- [row](/word/row)：列、並び
+- [passage](/word/passage)：通路、通過
 
 ---
 
 ## 📖 できればこれも
 
-- [seat](/seat)：座席
-- [window](/window)：窓
+- [seat](/word/seat)：座席
+- [window](/word/window)：窓
 
 <!-- cvid: aid12_bid08 -->

@@ -97,7 +97,7 @@ TOEICでは、指示や案内文、ガイドラインなどで「suggested」が
 ## 🤔  recommended との違いは？
 
 - **suggested**：控えめに提案・推奨された（選択肢の一つとして示す）
-- **[recommended](/recommended)**：強く勧められた（より積極的な推奨）
+- **[recommended](/word/recommended)**：強く勧められた（より積極的な推奨）
 
 「suggested」は「よければどうぞ」という控えめなニュアンス、「recommended」は「これがベストです」と強く勧める時に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、指示や案内文、ガイドラインなどで「suggested」が
 
 ## 🧩 あわせて覚えたい
 
-- [proposed](/proposed)：提案された（より正式な提案）
-- [advised](/advised)：助言された、忠告された
+- [proposed](/word/proposed)：提案された（より正式な提案）
+- [advised](/word/advised)：助言された、忠告された
 
 ---
 
 ## 📖 できればこれも
 
-- [required](/required)：必須の
-- [optional](/optional)：任意の
+- [required](/word/required)：必須の
+- [optional](/word/optional)：任意の
 
 <!-- cvid: aid12_bid15 -->

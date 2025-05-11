@@ -97,7 +97,7 @@ TOEICでは「福利厚生」や「恩恵」「利益」などの意味で頻出
 ## 🤔  advantage との違いは？
 
 - **benefit**：一般的な「利益」「恩恵」や「手当」など幅広い良いことを指す
-- **[advantage](/advantage)**：他と比べて優れている点や有利な点を強調
+- **[advantage](/word/advantage)**：他と比べて優れている点や有利な点を強調
 
 benefitは「得られる良いこと」全般、advantageは「他より優れている点」に焦点があるため、使い分けが必要です。
 
@@ -105,14 +105,14 @@ benefitは「得られる良いこと」全般、advantageは「他より優れ�
 
 ## 🧩 あわせて覚えたい
 
-- [profit](/profit)：利益（金銭的な意味が強い）
-- [drawback](/drawback)：欠点、不利益
+- [profit](/word/profit)：利益（金銭的な意味が強い）
+- [drawback](/word/drawback)：欠点、不利益
 
 ---
 
 ## 📖 できればこれも
 
-- [cost](/cost)：費用、コスト
-- [service](/service)：サービス、業務
+- [cost](/word/cost)：費用、コスト
+- [service](/word/service)：サービス、業務
 
 <!-- cvid: aid31_bid29 -->

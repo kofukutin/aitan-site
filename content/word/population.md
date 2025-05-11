@@ -97,7 +97,7 @@ TOEICでは、統計や地域説明、ビジネスレポートなどで人口に
 ## 🤔  inhabitants との違いは？
 
 - **population**：ある地域や国に住む人々の「総数」や「集団」を表す。
-- **[inhabitants](/inhabitants)**：その地域に「住んでいる個々の人々」を指す。
+- **[inhabitants](/word/inhabitants)**：その地域に「住んでいる個々の人々」を指す。
 
 populationは「人数」や「集団」としてまとめて表現し、inhabitantsは「住民一人ひとり」に焦点を当てます。
 
@@ -105,14 +105,14 @@ populationは「人数」や「集団」としてまとめて表現し、inhabit
 
 ## 🧩 あわせて覚えたい
 
-- [demographic](/demographic)：人口統計の、人口統計学的な
-- [census](/census)：国勢調査
+- [demographic](/word/demographic)：人口統計の、人口統計学的な
+- [census](/word/census)：国勢調査
 
 ---
 
 ## 📖 できればこれも
 
-- [community](/community)：地域社会、共同体
-- [region](/region)：地域、地方
+- [community](/word/community)：地域社会、共同体
+- [region](/word/region)：地域、地方
 
 <!-- cvid: aid44_bid35 -->

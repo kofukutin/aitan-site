@@ -97,7 +97,7 @@ TOEICでは主にPart 7のビジネス文書や広告、契約書などで見か
 ## 🤔  sell との違いは？
 
 - **vend**：業者や自動販売機など、フォーマル・商業的な「販売」を指す
-- **[sell](/sell)**：一般的な「売る」、日常会話からビジネスまで幅広く使う
+- **[sell](/word/sell)**：一般的な「売る」、日常会話からビジネスまで幅広く使う
 
 「vend」は特にビジネスや機械的な販売に使われ、日常的な「売る」は「sell」が自然です。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 7のビジネス文書や広告、契約書などで見か
 
 ## 🧩 あわせて覚えたい
 
-- [retail](/retail)：小売する
-- [distribute](/distribute)：流通させる、配布する
+- [retail](/word/retail)：小売する
+- [distribute](/word/distribute)：流通させる、配布する
 
 ---
 
 ## 📖 できればこれも
 
-- [supply](/supply)：供給する
-- [purchase](/purchase)：購入する
+- [supply](/word/supply)：供給する
+- [purchase](/word/purchase)：購入する
 
 <!-- cvid: aid00_bid38 -->

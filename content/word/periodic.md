@@ -97,7 +97,7 @@ TOEICでは主にPart 7の説明文や報告書、案内文などで「定期的
 ## 🤔  regular との違いは？
 
 - **periodic**：一定の周期や間隔で繰り返されることを強調
-- **[regular](/regular)**：規則的であること、または決まったパターンであることを強調
+- **[regular](/word/regular)**：規則的であること、または決まったパターンであることを強調
 
 「periodic」は「周期性」や「サイクル」に焦点があり、科学的・技術的な文脈でよく使われます。「regular」は「規則正しい」「一定の間隔で」という広い意味で、日常的な場面でも使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 7の説明文や報告書、案内文などで「定期的
 
 ## 🧩 あわせて覚えたい
 
-- [occasional](/occasional)：時々の、たまの
-- [frequent](/frequent)：頻繁な
+- [occasional](/word/occasional)：時々の、たまの
+- [frequent](/word/frequent)：頻繁な
 
 ---
 
 ## 📖 できればこれも
 
-- [annual](/annual)：年1回の、毎年の
-- [interval](/interval)：間隔、休止期間
+- [annual](/word/annual)：年1回の、毎年の
+- [interval](/word/interval)：間隔、休止期間
 
 <!-- cvid: aid24_bid43 -->

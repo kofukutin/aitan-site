@@ -97,7 +97,7 @@ TOEICでは長文読解や説明文で、文脈や背景を問う設問でよく
 ## 🤔  situation との違いは？
 
 - **context**：言葉や出来事の背景や文脈、周囲の状況
-- **[situation](/situation)**：ある時点での具体的な状況や場面
+- **[situation](/word/situation)**：ある時点での具体的な状況や場面
 
 contextは「背景」や「文脈」といった広い意味で使われ、situationは「今この場」の具体的な状態を指します。
 
@@ -105,14 +105,14 @@ contextは「背景」や「文脈」といった広い意味で使われ、situ
 
 ## 🧩 あわせて覚えたい
 
-- [background](/background)：背景、経緯
-- [circumstance](/circumstance)：事情、状況
+- [background](/word/background)：背景、経緯
+- [circumstance](/word/circumstance)：事情、状況
 
 ---
 
 ## 📖 できればこれも
 
-- [detail](/detail)：詳細
-- [content](/content)：内容
+- [detail](/word/detail)：詳細
+- [content](/word/content)：内容
 
 <!-- cvid: aid15_bid28 -->

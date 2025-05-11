@@ -97,7 +97,7 @@ TOEICでは「限界」「範囲」などの意味で、文脈に応じて正し
 ## 🤔  limit との違いは？
 
 - **bound**：物理的・抽象的な「境界」や「限界」を示し、範囲の外に出られないニュアンスが強い
-- **[limit](/limit)**：数値や量など「制限」や「上限」を明確に示す
+- **[limit](/word/limit)**：数値や量など「制限」や「上限」を明確に示す
 
 boundは「枠」や「境界線」といったイメージで、limitは「数値的な制限」や「最大値」に焦点が当たります。
 
@@ -105,14 +105,14 @@ boundは「枠」や「境界線」といったイメージで、limitは「数�
 
 ## 🧩 あわせて覚えたい
 
-- [restriction](/restriction)：制限、規制
-- [border](/border)：国境、境界線
+- [restriction](/word/restriction)：制限、規制
+- [border](/word/border)：国境、境界線
 
 ---
 
 ## 📖 できればこれも
 
-- [range](/range)：範囲、幅
-- [scope](/scope)：範囲、領域
+- [range](/word/range)：範囲、幅
+- [scope](/word/scope)：範囲、領域
 
 <!-- cvid: aid38_bid28 -->

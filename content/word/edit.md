@@ -97,7 +97,7 @@ TOEICでは、メールや報告書の修正・編集に関する文脈でよく
 ## 🤔  revise との違いは？
 
 - **edit**：内容を整理・修正・編集すること全般を指す
-- **[revise](/revise)**：内容を見直して修正・改訂することに重点
+- **[revise](/word/revise)**：内容を見直して修正・改訂することに重点
 
 editは全体的な編集作業を指し、reviseは特に内容の見直しや改訂に焦点を当てます。
 
@@ -105,14 +105,14 @@ editは全体的な編集作業を指し、reviseは特に内容の見直しや�
 
 ## 🧩 あわせて覚えたい
 
-- [modify](/modify)：修正する、変更する
-- [publish](/publish)：出版する、発表する
+- [modify](/word/modify)：修正する、変更する
+- [publish](/word/publish)：出版する、発表する
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/update)：更新する
-- [delete](/delete)：削除する
+- [update](/word/update)：更新する
+- [delete](/word/delete)：削除する
 
 <!-- cvid: aid45_bid18 -->

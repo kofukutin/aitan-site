@@ -97,7 +97,7 @@ TOEICでは主にオフィスの写真描写問題で登場しやすい単語で
 ## 🤔  printer との違いは？
 
 - **photocopier**：紙の書類や画像をそのまま複写する機械（コピー機）
-- **[printer](/printer)**：デジタルデータを紙に印刷する機械（プリンター）
+- **[printer](/word/printer)**：デジタルデータを紙に印刷する機械（プリンター）
 
 photocopierは紙から紙へコピーするのに対し、printerはパソコンなどのデータを紙に印刷する点が異なります。
 
@@ -105,14 +105,14 @@ photocopierは紙から紙へコピーするのに対し、printerはパソコ�
 
 ## 🧩 あわせて覚えたい
 
-- [scanner](/scanner)：スキャナー（紙の画像や文書をデジタル化する機械）
-- [fax](/fax)：ファックス（文書を電話回線で送信する機械）
+- [scanner](/word/scanner)：スキャナー（紙の画像や文書をデジタル化する機械）
+- [fax](/word/fax)：ファックス（文書を電話回線で送信する機械）
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/document)：書類、文書
-- [machine](/machine)：機械
+- [document](/word/document)：書類、文書
+- [machine](/word/machine)：機械
 
 <!-- cvid: aid11_bid22 -->

@@ -98,7 +98,7 @@ TOEICでは、ビジネス文書や会議の場面で「慎重な判断」や「
 ## 🤔  careful との違いは？
 
 - **cautious**：危険やリスクを避けるために慎重な（特に予防的な態度）
-- **[careful](/careful)**：細かい部分まで注意深い（作業や行動の丁寧さ）
+- **[careful](/word/careful)**：細かい部分まで注意深い（作業や行動の丁寧さ）
 
 cautiousは「危険を避けるための慎重さ」、carefulは「細部まで気を配る丁寧さ」に重点があります。
 
@@ -106,14 +106,14 @@ cautiousは「危険を避けるための慎重さ」、carefulは「細部ま�
 
 ## 🧩 あわせて覚えたい
 
-- [reckless](/reckless)：無謀な、向こう見ずな
-- [prudent](/prudent)：分別のある、慎重な
+- [reckless](/word/reckless)：無謀な、向こう見ずな
+- [prudent](/word/prudent)：分別のある、慎重な
 
 ---
 
 ## 📖 できればこれも
 
-- [deliberate](/deliberate)：意図的な、慎重な
-- [alert](/alert)：油断のない、警戒した
+- [deliberate](/word/deliberate)：意図的な、慎重な
+- [alert](/word/alert)：油断のない、警戒した
 
 <!-- cvid: aid09_bid34 -->

@@ -97,7 +97,7 @@ TOEICでは、ビジネスシーンで「相談する」「専門家に意見を
 ## 🤔  advise との違いは？
 
 - **consult**：専門家や関係者に意見や助言を求めること
-- **[advise](/advise)**：助言や忠告を与えること
+- **[advise](/word/advise)**：助言や忠告を与えること
 
 consultは「相談する側」、adviseは「助言する側」に使うのが基本です。
 
@@ -105,14 +105,14 @@ consultは「相談する側」、adviseは「助言する側」に使うのが�
 
 ## 🧩 あわせて覚えたい
 
-- [refer](/refer)：参照する、言及する
-- [counsel](/counsel)：助言する、相談する
+- [refer](/word/refer)：参照する、言及する
+- [counsel](/word/counsel)：助言する、相談する
 
 ---
 
 ## 📖 できればこれも
 
-- [recommend](/recommend)：推薦する、勧める
-- [discuss](/discuss)：話し合う、議論する
+- [recommend](/word/recommend)：推薦する、勧める
+- [discuss](/word/discuss)：話し合う、議論する
 
 <!-- cvid: aid02_bid17 -->

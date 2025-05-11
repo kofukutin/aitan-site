@@ -93,7 +93,7 @@ TOEICでは、企業の沿革や人物紹介、変更事項の説明などでよ
 ## 🤔  previously との違いは？
 
 - **formerly**：過去のある時点でそうだったことを、ややフォーマルに表現
-- **[previously](/previously)**：単に「以前に」「前に」と時系列を示す
+- **[previously](/word/previously)**：単に「以前に」「前に」と時系列を示す
 
 「formerly」は特に立場や名称などが「かつてそうだった」と強調したいときに使い、よりフォーマルな響きがあります。「previously」は出来事や行動の時系列を説明する際に幅広く使われます。
 
@@ -101,14 +101,14 @@ TOEICでは、企業の沿革や人物紹介、変更事項の説明などでよ
 
 ## 🧩 あわせて覚えたい
 
-- [once](/once)：一度、かつて
-- [originally](/originally)：もともと、最初は
+- [once](/word/once)：一度、かつて
+- [originally](/word/originally)：もともと、最初は
 
 ---
 
 ## 📖 できればこれも
 
-- [currently](/currently)：現在は
-- [recently](/recently)：最近
+- [currently](/word/currently)：現在は
+- [recently](/word/recently)：最近
 
 <!-- cvid: aid44_bid24 -->

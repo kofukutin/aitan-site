@@ -98,7 +98,7 @@ TOEICではPart 5の文法・語彙問題で頻出です。選択や決定に関
 ## 🤔  determine との違いは？
 
 - **decide**：選択肢の中から「決める」「判断する」という意味で、日常的な決定に幅広く使う。
-- **[determine](/determine)**：より「原因や事実を突き止める」「明確に決定する」といった、ややフォーマルで分析的なニュアンス。
+- **[determine](/word/determine)**：より「原因や事実を突き止める」「明確に決定する」といった、ややフォーマルで分析的なニュアンス。
 
 decideは日常的な「決める」、determineは調査や分析を経て「確定する」場面で使い分けます。
 
@@ -106,14 +106,14 @@ decideは日常的な「決める」、determineは調査や分析を経て「�
 
 ## 🧩 あわせて覚えたい
 
-- [choose](/choose)：選ぶ
-- [settle](/settle)：解決する、落ち着かせる
+- [choose](/word/choose)：選ぶ
+- [settle](/word/settle)：解決する、落ち着かせる
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/plan)：計画する
-- [agree](/agree)：同意する
+- [plan](/word/plan)：計画する
+- [agree](/word/agree)：同意する
 
 <!-- cvid: aid28_bid39 -->

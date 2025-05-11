@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、食べ物やお土産の話題として
 ## 🤔  candy との違いは？
 
 - **chocolate**：カカオを主原料とした甘いお菓子全般を指す。
-- **[candy](/candy)**：砂糖を主原料とした飴やグミなど、広く甘いお菓子全般を指す。
+- **[candy](/word/candy)**：砂糖を主原料とした飴やグミなど、広く甘いお菓子全般を指す。
 
 chocolateはカカオベース、candyは砂糖ベースで、アメリカ英語ではchocolateもcandyの一種とされることがあります。
 
@@ -105,14 +105,14 @@ chocolateはカカオベース、candyは砂糖ベースで、アメリカ英語
 
 ## 🧩 あわせて覚えたい
 
-- [sweet](/sweet)：甘いもの、お菓子
-- [dessert](/dessert)：デザート、食後の甘いもの
+- [sweet](/word/sweet)：甘いもの、お菓子
+- [dessert](/word/dessert)：デザート、食後の甘いもの
 
 ---
 
 ## 📖 できればこれも
 
-- [cookie](/cookie)：クッキー、焼き菓子
-- [cake](/cake)：ケーキ
+- [cookie](/word/cookie)：クッキー、焼き菓子
+- [cake](/word/cake)：ケーキ
 
 <!-- cvid: aid04_bid12 -->

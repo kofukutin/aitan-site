@@ -97,7 +97,7 @@ TOEICでは会話や案内文で「喫煙」「禁煙」などの表現として
 ## 🤔  smoke との違いは？
 
 - **smoking**：喫煙という行為や状態を指す
-- **[smoke](/smoke)**：煙そのもの、または「たばこを吸う」という動詞
+- **[smoke](/word/smoke)**：煙そのもの、または「たばこを吸う」という動詞
 
 smokingは「喫煙」という行為や状態を表し、smokeは「煙」や「たばこを吸う」という動作や物質を指します。
 
@@ -105,14 +105,14 @@ smokingは「喫煙」という行為や状態を表し、smokeは「煙」や�
 
 ## 🧩 あわせて覚えたい
 
-- [cigarette](/cigarette)：たばこ
-- [non smoking](/non_smoking)：禁煙
+- [cigarette](/word/cigarette)：たばこ
+- [non smoking](/word/non_smoking)：禁煙
 
 ---
 
 ## 📖 できればこれも
 
-- [drinking](/drinking)：飲酒
-- [eating](/eating)：飲食
+- [drinking](/word/drinking)：飲酒
+- [eating](/word/eating)：飲食
 
 <!-- cvid: aid22_bid07 -->

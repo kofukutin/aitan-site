@@ -97,7 +97,7 @@ TOEICでは、観光や会社紹介、製品説明などで「有名な」とい
 ## 🤔  popular との違いは？
 
 - **famous**：多くの人に広く知られている、有名な
-- **[popular](/popular)**：多くの人に好かれている、人気がある
+- **[popular](/word/popular)**：多くの人に好かれている、人気がある
 
 famousは「知名度」に重点があり、popularは「人気・好かれていること」に重点があります。
 
@@ -105,14 +105,14 @@ famousは「知名度」に重点があり、popularは「人気・好かれて�
 
 ## 🧩 あわせて覚えたい
 
-- [well known](/well_known)：よく知られている
-- [legendary](/legendary)：伝説的な
+- [well known](/word/well_known)：よく知られている
+- [legendary](/word/legendary)：伝説的な
 
 ---
 
 ## 📖 できればこれも
 
-- [historic](/historic)：歴史的に有名な
-- [notable](/notable)：注目に値する、有名な
+- [historic](/word/historic)：歴史的に有名な
+- [notable](/word/notable)：注目に値する、有名な
 
 <!-- cvid: aid00_bid12 -->

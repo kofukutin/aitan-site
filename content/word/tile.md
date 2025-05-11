@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、床や壁の説明、建物の内装
 ## 🤔  slab との違いは？
 
 - **tile**：床や壁に使う薄くて小さい板状の建材
-- **[slab](/slab)**：大きくて厚い板（コンクリートや石など）
+- **[slab](/word/slab)**：大きくて厚い板（コンクリートや石など）
 
 tileは主に装飾や防水目的の小さな板、slabは構造材として使う大きな板を指します。
 
@@ -105,14 +105,14 @@ tileは主に装飾や防水目的の小さな板、slabは構造材として使
 
 ## 🧩 あわせて覚えたい
 
-- [brick](/brick)：レンガ
-- [panel](/panel)：パネル、板
+- [brick](/word/brick)：レンガ
+- [panel](/word/panel)：パネル、板
 
 ---
 
 ## 📖 できればこれも
 
-- [floor](/floor)：床
-- [roof](/roof)：屋根
+- [floor](/word/floor)：床
+- [roof](/word/roof)：屋根
 
 <!-- cvid: aid48_bid19 -->

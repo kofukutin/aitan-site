@@ -97,7 +97,7 @@ obligateはTOEICの文法・語彙問題（Part 5）で、契約や規則に関�
 ## 🤔  require との違いは？
 
 - **obligate**：法律や契約などで「義務を課す」「強制する」といったフォーマルな響きが強い
-- **[require](/require)**：必要条件として「要求する」「必要とする」など幅広く使える
+- **[require](/word/require)**：必要条件として「要求する」「必要とする」など幅広く使える
 
 obligateは「義務を負わせる」ニュアンスが強く、requireは「必要とする」一般的な要求に使われます。
 
@@ -105,14 +105,14 @@ obligateは「義務を負わせる」ニュアンスが強く、requireは「�
 
 ## 🧩 あわせて覚えたい
 
-- [compel](/compel)：強制する
-- [volunteer](/volunteer)：自発的に申し出る
+- [compel](/word/compel)：強制する
+- [volunteer](/word/volunteer)：自発的に申し出る
 
 ---
 
 ## 📖 できればこれも
 
-- [enforce](/enforce)：施行する、実施する
-- [mandate](/mandate)：命じる、義務づける
+- [enforce](/word/enforce)：施行する、実施する
+- [mandate](/word/mandate)：命じる、義務づける
 
 <!-- cvid: aid11_bid09 -->

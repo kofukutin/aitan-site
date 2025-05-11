@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写問題で「歌手」や「歌っている人」
 ## 🤔  musician との違いは？
 
 - **singer**：歌を歌うことを専門とする人
-- **[musician](/musician)**：楽器演奏や作曲など音楽全般に関わる人
+- **[musician](/word/musician)**：楽器演奏や作曲など音楽全般に関わる人
 
 singerは「歌う人」に限定されますが、musicianは楽器演奏者や作曲家など幅広い音楽家を指します。
 
@@ -105,14 +105,14 @@ singerは「歌う人」に限定されますが、musicianは楽器演奏者や
 
 ## 🧩 あわせて覚えたい
 
-- [performer](/performer)：演者、パフォーマー
-- [composer](/composer)：作曲家
+- [performer](/word/performer)：演者、パフォーマー
+- [composer](/word/composer)：作曲家
 
 ---
 
 ## 📖 できればこれも
 
-- [actor](/actor)：俳優
-- [artist](/artist)：芸術家、アーティスト
+- [actor](/word/actor)：俳優
+- [artist](/word/artist)：芸術家、アーティスト
 
 <!-- cvid: aid38_bid38 -->

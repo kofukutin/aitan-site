@@ -97,7 +97,7 @@ TOEICでは、会話や説明文の中で「応援する」「励ます」とい
 ## 🤔  applaud との違いは？
 
 - **cheer**：声を出して応援したり、元気づけたりすること
-- **[applaud](/applaud)**：拍手を送ること
+- **[applaud](/word/applaud)**：拍手を送ること
 
 cheerは声や掛け声で応援するニュアンスが強く、applaudは手を叩いて称賛する時に使います。
 
@@ -105,14 +105,14 @@ cheerは声や掛け声で応援するニュアンスが強く、applaudは手�
 
 ## 🧩 あわせて覚えたい
 
-- [encourage](/encourage)：励ます、勇気づける
-- [support](/support)：支援する、支える
+- [encourage](/word/encourage)：励ます、勇気づける
+- [support](/word/support)：支援する、支える
 
 ---
 
 ## 📖 できればこれも
 
-- [smile](/smile)：ほほえむ
-- [clap](/clap)：手をたたく
+- [smile](/word/smile)：ほほえむ
+- [clap](/word/clap)：手をたたく
 
 <!-- cvid: aid13_bid30 -->

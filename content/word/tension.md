@@ -97,7 +97,7 @@ tensionは会議や交渉、職場の人間関係など、ビジネスシーン�
 ## 🤔  stress との違いは？
 
 - **tension**：人間関係や場の「緊張感」や「張り詰めた状態」を表す。
-- **[stress](/stress)**：個人が感じる「ストレス」や「精神的負担」を表す。
+- **[stress](/word/stress)**：個人が感じる「ストレス」や「精神的負担」を表す。
 
 tensionは「場」や「人と人の間」のピリピリ感、stressは「個人の内面の負担」に使い分けます。
 
@@ -105,13 +105,13 @@ tensionは「場」や「人と人の間」のピリピリ感、stressは「個�
 
 ## 🧩 あわせて覚えたい
 
-- [conflict](/conflict)：対立、衝突
-- [relief](/relief)：安心、安堵
+- [conflict](/word/conflict)：対立、衝突
+- [relief](/word/relief)：安心、安堵
 
 ---
 
 ## 📖 できればこれも
 
-- [pressure](/pressure)：プレッシャー、圧力
-- [anxiety](/anxiety)：不安、心配
+- [pressure](/word/pressure)：プレッシャー、圧力
+- [anxiety](/word/anxiety)：不安、心配
 <!-- cvid: aid37_bid08 -->

@@ -97,7 +97,7 @@ TOEICではビジネスやプロジェクト管理、会社の資産に関する
 ## 🤔  asset との違いは？
 
 - **resource**：必要なときに使える資源や手段、人的・物的なもの全般
-- **[asset](/asset)**：価値のある資産や強み、特に財産や有形・無形の価値
+- **[asset](/word/asset)**：価値のある資産や強み、特に財産や有形・無形の価値
 
 resourceは「使えるもの」全般を指し、assetは「価値があるもの」「強み」としての資産に焦点を当てます。
 
@@ -105,14 +105,14 @@ resourceは「使えるもの」全般を指し、assetは「価値があるも�
 
 ## 🧩 あわせて覚えたい
 
-- [material](/material)：材料、原料
-- [fund](/fund)：資金
+- [material](/word/material)：材料、原料
+- [fund](/word/fund)：資金
 
 ---
 
 ## 📖 できればこれも
 
-- [supply](/supply)：供給、物資
-- [facility](/facility)：施設、設備
+- [supply](/word/supply)：供給、物資
+- [facility](/word/facility)：施設、設備
 
 <!-- cvid: aid14_bid31 -->

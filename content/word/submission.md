@@ -97,7 +97,7 @@ TOEICでは、書類やレポートの「提出」に関する文脈でよく出
 ## 🤔  proposal との違いは？
 
 - **submission**：提出そのもの、または提出されたものを指す
-- **[proposal](/proposal)**：提案内容や計画そのものを指す
+- **[proposal](/word/proposal)**：提案内容や計画そのものを指す
 
 submissionは「提出」という行為や提出物全般を指し、proposalは「提案」という内容自体を強調します。
 
@@ -105,14 +105,14 @@ submissionは「提出」という行為や提出物全般を指し、proposal�
 
 ## 🧩 あわせて覚えたい
 
-- [application](/application)：申請、応募
-- [acceptance](/acceptance)：受理、受け入れ
+- [application](/word/application)：申請、応募
+- [acceptance](/word/acceptance)：受理、受け入れ
 
 ---
 
 ## 📖 できればこれも
 
-- [approval](/approval)：承認
-- [document](/document)：書類
+- [approval](/word/approval)：承認
+- [document](/word/document)：書類
 
 <!-- cvid: aid44_bid11 -->

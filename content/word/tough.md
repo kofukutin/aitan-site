@@ -97,7 +97,7 @@ toughはTOEICの会話や説明文で「困難な状況」や「厳しい条件�
 ## 🤔  strict との違いは？
 
 - **tough**：困難さやたくましさ、物理的・精神的な「強さ」を表す
-- **[strict](/strict)**：規則やルールに「厳格」なことを表す
+- **[strict](/word/strict)**：規則やルールに「厳格」なことを表す
 
 toughは「困難に耐える」「打たれ強い」ニュアンス、strictは「規則や態度が厳しい」点で使い分けます。
 
@@ -105,14 +105,14 @@ toughは「困難に耐える」「打たれ強い」ニュアンス、strictは
 
 ## 🧩 あわせて覚えたい
 
-- [hard](/hard)：難しい、かたい
-- [resilient](/resilient)：回復力がある、しなやかな
+- [hard](/word/hard)：難しい、かたい
+- [resilient](/word/resilient)：回復力がある、しなやかな
 
 ---
 
 ## 📖 できればこれも
 
-- [strong](/strong)：強い
-- [firm](/firm)：堅い、しっかりした
+- [strong](/word/strong)：強い
+- [firm](/word/firm)：堅い、しっかりした
 
 <!-- cvid: aid47_bid13 -->

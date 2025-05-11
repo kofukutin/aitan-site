@@ -97,7 +97,7 @@ TOEICでは、ITやビジネス文書、手続きに関する長文中で「docu
 ## 🤔  manual との違いは？
 
 - **documentation**：複数の書類や資料一式、証拠書類など広い意味で使う
-- **[manual](/manual)**：特定の操作や手順を説明するための手引書
+- **[manual](/word/manual)**：特定の操作や手順を説明するための手引書
 
 documentationは全体的な資料や証拠書類を指し、manualは使い方や手順に特化した説明書を指します。
 
@@ -105,13 +105,13 @@ documentationは全体的な資料や証拠書類を指し、manualは使い方�
 
 ## 🧩 あわせて覚えたい
 
-- [certificate](/certificate)：証明書
-- [specification](/specification)：仕様書
+- [certificate](/word/certificate)：証明書
+- [specification](/word/specification)：仕様書
 
 ---
 
 ## 📖 できればこれも
 
-- [instruction](/instruction)：指示、説明
-- [procedure](/procedure)：手順、手続き
+- [instruction](/word/instruction)：指示、説明
+- [procedure](/word/procedure)：手順、手続き
 <!-- cvid: aid30_bid45 -->

@@ -97,7 +97,7 @@ TOEICでは、重さや数量を表す文脈で名詞として出題されるこ
 ## 🤔  pound との違いは？
 
 - **kilogram**：国際単位系（SI）で使われる重さの単位。1kg＝1,000g。
-- **[pound](/pound)**：主にアメリカやイギリスで使われる重さの単位。1ポンド＝約0.45kg。
+- **[pound](/word/pound)**：主にアメリカやイギリスで使われる重さの単位。1ポンド＝約0.45kg。
 
 kilogramは世界的な標準単位、poundは主に英米圏で使われる伝統的な単位です。
 
@@ -105,14 +105,14 @@ kilogramは世界的な標準単位、poundは主に英米圏で使われる伝�
 
 ## 🧩 あわせて覚えたい
 
-- [gram](/gram)：グラム（重さの単位、1kg＝1,000g）
-- [liter](/liter)：リットル（容量の単位）
+- [gram](/word/gram)：グラム（重さの単位、1kg＝1,000g）
+- [liter](/word/liter)：リットル（容量の単位）
 
 ---
 
 ## 📖 できればこれも
 
-- [meter](/meter)：メートル（長さの単位）
-- [centimeter](/centimeter)：センチメートル（長さの単位、1m＝100cm）
+- [meter](/word/meter)：メートル（長さの単位）
+- [centimeter](/word/centimeter)：センチメートル（長さの単位、1m＝100cm）
 
 <!-- cvid: aid45_bid30 -->

@@ -97,7 +97,7 @@ additionは、TOEICの文法・語彙問題で「追加」「加えること」�
 ## 🤔  supplement との違いは？
 
 - **addition**：単純に「加えること」「追加されたもの」を指す一般的な表現。
-- **[supplement](/supplement)**：不足を補うための「補足」「補助」というニュアンスが強い。
+- **[supplement](/word/supplement)**：不足を補うための「補足」「補助」というニュアンスが強い。
 
 additionは何かを単純に加える場合に使い、supplementは足りない部分を補う目的で加える場合に使います。
 
@@ -105,14 +105,14 @@ additionは何かを単純に加える場合に使い、supplementは足りな�
 
 ## 🧩 あわせて覚えたい
 
-- [increase](/increase)：増加、増やす
-- [subtraction](/subtraction)：引き算、減少
+- [increase](/word/increase)：増加、増やす
+- [subtraction](/word/subtraction)：引き算、減少
 
 ---
 
 ## 📖 できればこれも
 
-- [total](/total)：合計、総計
-- [extra](/extra)：追加の、余分の
+- [total](/word/total)：合計、総計
+- [extra](/word/extra)：追加の、余分の
 
 <!-- cvid: aid18_bid07 -->

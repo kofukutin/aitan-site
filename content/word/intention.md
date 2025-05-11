@@ -98,7 +98,7 @@ TOEICでは「意図」「意思」を問う文脈や、動詞intendとの語彙
 ## 🤔  purpose との違いは？
 
 - **intention**：何かをしようとする「意思」や「つもり」を強調
-- **[purpose](/purpose)**：行動や計画の「目的」や「理由」を強調
+- **[purpose](/word/purpose)**：行動や計画の「目的」や「理由」を強調
 
 intentionは「心の中の意思」、purposeは「行動の理由や目標」として使い分けます。
 
@@ -106,14 +106,14 @@ intentionは「心の中の意思」、purposeは「行動の理由や目標」�
 
 ## 🧩 あわせて覚えたい
 
-- [plan](/plan)：計画
-- [aim](/aim)：狙い、目標
+- [plan](/word/plan)：計画
+- [aim](/word/aim)：狙い、目標
 
 ---
 
 ## 📖 できればこれも
 
-- [objective](/objective)：目標、目的
-- [goal](/goal)：到達点、目標
+- [objective](/word/objective)：目標、目的
+- [goal](/word/goal)：到達点、目標
 
 <!-- cvid: aid32_bid12 -->

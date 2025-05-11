@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や証明書、公式な手続きに関する
 ## 🤔  verify との違いは？
 
 - **certify**：公式に証明・認定する（特に資格や書類など）
-- **[verify](/verify)**：事実や情報の正確さを確認する
+- **[verify](/word/verify)**：事実や情報の正確さを確認する
 
 certifyは「公式な証明・認定」に重点があり、verifyは「事実確認・検証」に重点があります。
 
@@ -105,14 +105,14 @@ certifyは「公式な証明・認定」に重点があり、verifyは「事実�
 
 ## 🧩 あわせて覚えたい
 
-- [authorize](/authorize)：権限を与える、認可する
-- [approve](/approve)：承認する、認める
+- [authorize](/word/authorize)：権限を与える、認可する
+- [approve](/word/approve)：承認する、認める
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/confirm)：確認する、確かめる
-- [issue](/issue)：発行する、発表する
+- [confirm](/word/confirm)：確認する、確かめる
+- [issue](/word/issue)：発行する、発表する
 
 <!-- cvid: aid08_bid43 -->

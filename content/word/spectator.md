@@ -97,7 +97,7 @@ TOEICではイベントやスポーツ、展示会などの説明文や案内文
 ## 🤔  audience との違いは？
 
 - **spectator**：スポーツやショーなど「見る」イベントの観客
-- **[audience](/audience)**：演劇やコンサートなど「聴く・見る」両方の観客
+- **[audience](/word/audience)**：演劇やコンサートなど「聴く・見る」両方の観客
 
 spectatorは主にスポーツやショーなど「見る」ことが中心の場面で使い、audienceは演劇や講演、コンサートなど「聴く」ことも含む観客全般に使います。
 
@@ -105,14 +105,14 @@ spectatorは主にスポーツやショーなど「見る」ことが中心の�
 
 ## 🧩 あわせて覚えたい
 
-- [viewer](/viewer)：テレビや動画などの視聴者
-- [participant](/participant)：参加者
+- [viewer](/word/viewer)：テレビや動画などの視聴者
+- [participant](/word/participant)：参加者
 
 ---
 
 ## 📖 できればこれも
 
-- [attendee](/attendee)：出席者、参加者
-- [observer](/observer)：観察者、立会人
+- [attendee](/word/attendee)：出席者、参加者
+- [observer](/word/observer)：観察者、立会人
 
 <!-- cvid: aid12_bid37 -->

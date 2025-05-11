@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や契約書、金融関連の長文で「def
 ## 🤔  postponed との違いは？
 
 - **deferred**：主にフォーマルな場面や金融・ビジネスで「計画的に後ろにずらす」ニュアンス
-- **[postponed](/postponed)**：日常的に「予定を後ろにずらす」一般的な表現
+- **[postponed](/word/postponed)**：日常的に「予定を後ろにずらす」一般的な表現
 
 deferredは計画的・制度的な延期に使われ、postponedは日常的な予定変更に幅広く使われます。
 
@@ -105,14 +105,14 @@ deferredは計画的・制度的な延期に使われ、postponedは日常的な
 
 ## 🧩 あわせて覚えたい
 
-- [delayed](/delayed)：遅れた、遅延した
-- [advance](/advance)：前進、前払い
+- [delayed](/word/delayed)：遅れた、遅延した
+- [advance](/word/advance)：前進、前払い
 
 ---
 
 ## 📖 できればこれも
 
-- [outstanding](/outstanding)：未払いの、未処理の
-- [pending](/pending)：未決定の、保留中の
+- [outstanding](/word/outstanding)：未払いの、未処理の
+- [pending](/word/pending)：未決定の、保留中の
 
 <!-- cvid: aid18_bid47 -->

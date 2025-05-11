@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文読解で、レポートや論文、記事の中
 ## 🤔  mentioned との違いは？
 
 - **cited**：証拠や例として正式に引用する、根拠を示すために挙げる
-- **[mentioned](/mentioned)**：単に言及する、軽く触れる
+- **[mentioned](/word/mentioned)**：単に言及する、軽く触れる
 
 citedは論文やレポートなどで根拠や証拠として正式に取り上げる場合に使い、mentionedは話題に出す・軽く触れる場合に使います。
 
@@ -105,14 +105,14 @@ citedは論文やレポートなどで根拠や証拠として正式に取り上
 
 ## 🧩 あわせて覚えたい
 
-- [quote](/quote)：直接引用する、言葉をそのまま抜き出す
-- [refer](/refer)：参照する、言及する
+- [quote](/word/quote)：直接引用する、言葉をそのまま抜き出す
+- [refer](/word/refer)：参照する、言及する
 
 ---
 
 ## 📖 できればこれも
 
-- [summarize](/summarize)：要約する
-- [highlight](/highlight)：強調する
+- [summarize](/word/summarize)：要約する
+- [highlight](/word/highlight)：強調する
 
 <!-- cvid: aid16_bid49 -->

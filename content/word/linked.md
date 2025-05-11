@@ -97,7 +97,7 @@ TOEICでは、主にITやビジネスの文脈で「linked to」「closely linke
 ## 🤔  connected との違いは？
 
 - **linked**：物理的・概念的に「つながっている」「関連している」ことを強調
-- **[connected](/connected)**：主に「物理的につながっている」「通信・ネットワークで接続されている」ことを強調
+- **[connected](/word/connected)**：主に「物理的につながっている」「通信・ネットワークで接続されている」ことを強調
 
 linkedは「関係性」や「関連性」にも使われ、connectedは「直接的な接続」や「通信」によく使われます。
 
@@ -105,14 +105,14 @@ linkedは「関係性」や「関連性」にも使われ、connectedは「直�
 
 ## 🧩 あわせて覚えたい
 
-- [associated](/associated)：関連した、関係のある
-- [attached](/attached)：添付された、付属した
+- [associated](/word/associated)：関連した、関係のある
+- [attached](/word/attached)：添付された、付属した
 
 ---
 
 ## 📖 できればこれも
 
-- [related](/related)：関係のある、関連した
-- [combined](/combined)：結合した、組み合わさった
+- [related](/word/related)：関係のある、関連した
+- [combined](/word/combined)：結合した、組み合わさった
 
 <!-- cvid: aid18_bid14 -->

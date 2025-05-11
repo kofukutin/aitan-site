@@ -97,7 +97,7 @@ TOEICでは、社員やサービスの「信頼性」を問う文脈で形容詞
 ## 🤔  reliable との違いは？
 
 - **dependable**：期待通りに行動し、頼りになることを強調
-- **[reliable](/reliable)**：一貫して信頼できる、裏切らないことを強調
+- **[reliable](/word/reliable)**：一貫して信頼できる、裏切らないことを強調
 
 「dependable」は「頼りにできる人・物」としての実用性や安心感をやや強調し、「reliable」は「信頼性・裏切らない安定感」をより強く表します。
 
@@ -105,14 +105,14 @@ TOEICでは、社員やサービスの「信頼性」を問う文脈で形容詞
 
 ## 🧩 あわせて覚えたい
 
-- [trustworthy](/trustworthy)：信用できる（誠実さや正直さを強調）
-- [consistent](/consistent)：一貫性がある、変わらない
+- [trustworthy](/word/trustworthy)：信用できる（誠実さや正直さを強調）
+- [consistent](/word/consistent)：一貫性がある、変わらない
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/efficient)：効率的な
-- [responsible](/responsible)：責任感がある
+- [efficient](/word/efficient)：効率的な
+- [responsible](/word/responsible)：責任感がある
 
 <!-- cvid: aid03_bid49 -->

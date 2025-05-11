@@ -97,7 +97,7 @@ TOEICでは会社組織や役職に関する長文やEメール文でよく登�
 ## 🤔  manager との違いは？
 
 - **director**：組織の方針や意思決定を担う上級役職や監督
-- **[manager](/manager)**：部門やチームの管理・運営を担当する管理職
+- **[manager](/word/manager)**：部門やチームの管理・運営を担当する管理職
 
 directorは会社全体や部門の「方向性」を決める立場、managerは現場の「運営・管理」を担う立場で使い分けます。
 
@@ -105,14 +105,14 @@ directorは会社全体や部門の「方向性」を決める立場、manager�
 
 ## 🧩 あわせて覚えたい
 
-- [executive](/executive)：経営幹部、重役
-- [supervisor](/supervisor)：監督者、現場責任者
+- [executive](/word/executive)：経営幹部、重役
+- [supervisor](/word/supervisor)：監督者、現場責任者
 
 ---
 
 ## 📖 できればこれも
 
-- [president](/president)：社長、会長
-- [officer](/officer)：役員、幹部
+- [president](/word/president)：社長、会長
+- [officer](/word/officer)：役員、幹部
 
 <!-- cvid: aid04_bid41 -->

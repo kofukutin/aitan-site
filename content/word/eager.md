@@ -97,7 +97,7 @@ TOEICでは、主に形容詞の語彙問題や文脈判断で出題されます
 ## 🤔  enthusiastic との違いは？
 
 - **eager**：何かを強く望んでいる、待ちきれない気持ち
-- **[enthusiastic](/enthusiastic)**：熱意や情熱をもって積極的に取り組む様子
+- **[enthusiastic](/word/enthusiastic)**：熱意や情熱をもって積極的に取り組む様子
 
 eagerは「これから何かをしたい」という期待感、enthusiasticは「すでに熱心に取り組んでいる」積極性の違いがあります。
 
@@ -105,15 +105,15 @@ eagerは「これから何かをしたい」という期待感、enthusiasticは
 
 ## 🧩 あわせて覚えたい
 
-- [reluctant](/reluctant)：気が進まない、しぶしぶの（対義語）
-- [keen](/keen)：熱心な、～したがっている（類義語）
+- [reluctant](/word/reluctant)：気が進まない、しぶしぶの（対義語）
+- [keen](/word/keen)：熱心な、～したがっている（類義語）
 
 ---
 
 ## 📖 できればこれも
 
-- [willing](/willing)：進んで～する気がある
-- [anxious](/anxious)：～したがっている、不安な
+- [willing](/word/willing)：進んで～する気がある
+- [anxious](/word/anxious)：～したがっている、不安な
 
 
 <!-- cvid: aid26_bid10 -->

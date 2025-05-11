@@ -97,7 +97,7 @@ TOEICでは、レポートやメール、記事などで「全体的に」「総
 ## 🤔  total との違いは？
 
 - **overall**：全体を見ての総合的な、全般的な
-- **[total](/total)**：合計の、総数の
+- **[total](/word/total)**：合計の、総数の
 
 overallは「全体を通しての印象や評価」に使い、totalは「数値や量の合計」に使います。
 
@@ -105,14 +105,14 @@ overallは「全体を通しての印象や評価」に使い、totalは「数�
 
 ## 🧩 あわせて覚えたい
 
-- [general](/general)：一般的な、全体的な
-- [summary](/summary)：要約、まとめ
+- [general](/word/general)：一般的な、全体的な
+- [summary](/word/summary)：要約、まとめ
 
 ---
 
 ## 📖 できればこれも
 
-- [entire](/entire)：全体の、全部の
-- [comprehensive](/comprehensive)：包括的な、広範囲の
+- [entire](/word/entire)：全体の、全部の
+- [comprehensive](/word/comprehensive)：包括的な、広範囲の
 
 <!-- cvid: aid33_bid42 -->

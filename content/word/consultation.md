@@ -97,7 +97,7 @@ TOEICではビジネス文書やEメール、案内文などで「相談」「�
 ## 🤔  meeting との違いは？
 
 - **consultation**：専門家や関係者と意見交換・助言を得るための「相談」「協議」
-- **[meeting](/meeting)**：目的や内容を問わず人が集まる「会議」「打ち合わせ」
+- **[meeting](/word/meeting)**：目的や内容を問わず人が集まる「会議」「打ち合わせ」
 
 consultationは「助言や意見を求める」ニュアンスが強く、meetingは単なる集まりや会議全般を指します。
 
@@ -105,14 +105,14 @@ consultationは「助言や意見を求める」ニュアンスが強く、meeti
 
 ## 🧩 あわせて覚えたい
 
-- [advice](/advice)：助言、アドバイス
-- [discussion](/discussion)：討論、話し合い
+- [advice](/word/advice)：助言、アドバイス
+- [discussion](/word/discussion)：討論、話し合い
 
 ---
 
 ## 📖 できればこれも
 
-- [conference](/conference)：会議、大会
-- [appointment](/appointment)：予約、約束
+- [conference](/word/conference)：会議、大会
+- [appointment](/word/appointment)：予約、約束
 
 <!-- cvid: aid02_bid01 -->

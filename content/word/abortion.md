@@ -104,7 +104,7 @@ TOEICでは医療や社会問題を扱う長文記事や説明文で見かける
 ## 🤔  miscarriage との違いは？
 
 - **abortion**：意図的に妊娠を中断する「人工中絶」を指すフォーマルな語。
-- **[miscarriage](/miscarriage)**：自然に妊娠が終わる「流産」を意味し、意図的ではない。
+- **[miscarriage](/word/miscarriage)**：自然に妊娠が終わる「流産」を意味し、意図的ではない。
 
 abortionは人為的な中絶、miscarriageは自然な流産と、原因やニュアンスが明確に異なります。
 
@@ -112,14 +112,14 @@ abortionは人為的な中絶、miscarriageは自然な流産と、原因やニ�
 
 ## 🧩 あわせて覚えたい
 
-- [termination](/termination)：終了、終結（特に妊娠の中絶を指す場合も）
-- [contraception](/contraception)：避妊
+- [termination](/word/termination)：終了、終結（特に妊娠の中絶を指す場合も）
+- [contraception](/word/contraception)：避妊
 
 ---
 
 ## 📖 できればこれも
 
-- [pregnancy](/pregnancy)：妊娠
-- [fertility](/fertility)：生殖能力
+- [pregnancy](/word/pregnancy)：妊娠
+- [fertility](/word/fertility)：生殖能力
 
 <!-- cvid: aid39_bid28 -->

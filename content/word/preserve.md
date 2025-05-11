@@ -97,7 +97,7 @@ TOEICでは環境保護や伝統維持に関する長文でよく登場します
 ## 🤔  conserve との違いは？
 
 - **preserve**：損なわれないように守る、元の状態を維持する
-- **[conserve](/conserve)**：資源やエネルギーなどを無駄遣いせず大切に使う
+- **[conserve](/word/conserve)**：資源やエネルギーなどを無駄遣いせず大切に使う
 
 preserveは「そのままの状態を保つ」ことに重点があり、conserveは「節約しながら大切に使う」ニュアンスがあります。
 
@@ -105,14 +105,14 @@ preserveは「そのままの状態を保つ」ことに重点があり、conser
 
 ## 🧩 あわせて覚えたい
 
-- [protect](/protect)：守る、防御する
-- [maintain](/maintain)：維持する、保つ
+- [protect](/word/protect)：守る、防御する
+- [maintain](/word/maintain)：維持する、保つ
 
 ---
 
 ## 📖 できればこれも
 
-- [restore](/restore)：元に戻す、修復する
-- [sustain](/sustain)：持続させる、支える
+- [restore](/word/restore)：元に戻す、修復する
+- [sustain](/word/sustain)：持続させる、支える
 
 <!-- cvid: aid01_bid01 -->

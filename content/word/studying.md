@@ -97,7 +97,7 @@ TOEICでは、動名詞や名詞句として「studying」が空所補充や文�
 ## 🤔  learning との違いは？
 
 - **studying**：本や資料を使って意識的に勉強すること
-- **[learning](/learning)**：経験や勉強を通じて知識やスキルを身につけること全般
+- **[learning](/word/learning)**：経験や勉強を通じて知識やスキルを身につけること全般
 
 「studying」は意図的な勉強や学習行為を強調し、「learning」はより広く自然な知識の習得も含みます。
 
@@ -105,14 +105,14 @@ TOEICでは、動名詞や名詞句として「studying」が空所補充や文�
 
 ## 🧩 あわせて覚えたい
 
-- [practice](/practice)：練習、実践
-- [review](/review)：復習、見直し
+- [practice](/word/practice)：練習、実践
+- [review](/word/review)：復習、見直し
 
 ---
 
 ## 📖 できればこれも
 
-- [training](/training)：訓練、トレーニング
-- [reading](/reading)：読書、読むこと
+- [training](/word/training)：訓練、トレーニング
+- [reading](/word/reading)：読書、読むこと
 
 <!-- cvid: aid32_bid20 -->

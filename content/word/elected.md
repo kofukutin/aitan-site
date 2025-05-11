@@ -97,7 +97,7 @@ TOEICでは、役職や委員会のメンバーが「選挙で選ばれた」こ
 ## 🤔  appointed との違いは？
 
 - **elected**：選挙や投票で選ばれた
-- **[appointed](/appointed)**：任命や指名によって選ばれた
+- **[appointed](/word/appointed)**：任命や指名によって選ばれた
 
 「elected」は投票などの民主的な手続きで選ばれる場合に使い、「appointed」は上司や組織による指名・任命で選ばれる場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、役職や委員会のメンバーが「選挙で選ばれた」こ
 
 ## 🧩 あわせて覚えたい
 
-- [chosen](/chosen)：選ばれた（一般的に選択された）
-- [selected](/selected)：選抜された、選ばれた
+- [chosen](/word/chosen)：選ばれた（一般的に選択された）
+- [selected](/word/selected)：選抜された、選ばれた
 
 ---
 
 ## 📖 できればこれも
 
-- [official](/official)：役人、公務員、公式の
-- [candidate](/candidate)：候補者
+- [official](/word/official)：役人、公務員、公式の
+- [candidate](/word/candidate)：候補者
 
 <!-- cvid: aid49_bid25 -->

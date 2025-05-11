@@ -97,7 +97,7 @@ The company policy prescribes the procedures for handling complaints.
 ## 🤔  recommend との違いは？
 
 - **prescribe**：医師や権威ある立場の人が「処方する」「規定する」ときに使うフォーマルな表現
-- **[recommend](/recommend)**：誰でも「勧める」「推薦する」ときに使える一般的な表現
+- **[recommend](/word/recommend)**：誰でも「勧める」「推薦する」ときに使える一般的な表現
 
 prescribeは専門家や規則が「必ず従うべきこと」を指示するニュアンスがあり、recommendは「提案・助言」程度の柔らかい表現です。
 
@@ -105,14 +105,14 @@ prescribeは専門家や規則が「必ず従うべきこと」を指示する�
 
 ## 🧩 あわせて覚えたい
 
-- [prohibit](/prohibit)：禁止する
-- [authorize](/authorize)：許可する
+- [prohibit](/word/prohibit)：禁止する
+- [authorize](/word/authorize)：許可する
 
 ---
 
 ## 📖 できればこれも
 
-- [diagnose](/diagnose)：診断する
-- [administer](/administer)：（薬などを）投与する
+- [diagnose](/word/diagnose)：診断する
+- [administer](/word/administer)：（薬などを）投与する
 
 <!-- cvid: aid18_bid34 -->

@@ -97,7 +97,7 @@ TOEICでは、調査報告や分析に関する長文で「quantitative analysis
 ## 🤔  qualitative との違いは？
 
 - **quantitative**：数量で測れる、数値化できる
-- **[qualitative](/qualitative)**：質的な、性質に関する
+- **[qualitative](/word/qualitative)**：質的な、性質に関する
 
 quantitativeは「数値や量」に注目し、qualitativeは「性質や質」に注目する点が大きな違いです。
 
@@ -105,14 +105,14 @@ quantitativeは「数値や量」に注目し、qualitativeは「性質や質」
 
 ## 🧩 あわせて覚えたい
 
-- [numerical](/numerical)：数値の、数字で表した
-- [measurable](/measurable)：測定できる、計量できる
+- [numerical](/word/numerical)：数値の、数字で表した
+- [measurable](/word/measurable)：測定できる、計量できる
 
 ---
 
 ## 📖 できればこれも
 
-- [statistical](/statistical)：統計の、統計的な
-- [empirical](/empirical)：経験に基づいた、実証的な
+- [statistical](/word/statistical)：統計の、統計的な
+- [empirical](/word/empirical)：経験に基づいた、実証的な
 
 <!-- cvid: aid45_bid21 -->

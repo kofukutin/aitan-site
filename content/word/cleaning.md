@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、掃除や清掃の場面を説明す
 ## 🤔  washing との違いは？
 
 - **cleaning**：掃除や清掃など、広く「きれいにすること」全般を指す
-- **[washing](/washing)**：主に「水で洗うこと」に限定される
+- **[washing](/word/washing)**：主に「水で洗うこと」に限定される
 
 cleaningはほこり取りや拭き掃除なども含みますが、washingは「水や洗剤で洗う」動作に特化しています。
 
@@ -105,14 +105,14 @@ cleaningはほこり取りや拭き掃除なども含みますが、washingは�
 
 ## 🧩 あわせて覚えたい
 
-- [maintenance](/maintenance)：メンテナンス、保守
-- [tidy](/tidy)：きちんと片付ける
+- [maintenance](/word/maintenance)：メンテナンス、保守
+- [tidy](/word/tidy)：きちんと片付ける
 
 ---
 
 ## 📖 できればこれも
 
-- [repair](/repair)：修理する
-- [organize](/organize)：整理する
+- [repair](/word/repair)：修理する
+- [organize](/word/organize)：整理する
 
 <!-- cvid: aid03_bid11 -->

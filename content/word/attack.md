@@ -97,7 +97,7 @@ TOEICでは、会話や説明文の中で「攻撃する」「非難する」と
 ## 🤔  assault との違いは？
 
 - **attack**：一般的な「攻撃する」「非難する」を幅広く表す
-- **[assault](/assault)**：法的・暴力的な「暴行」「襲撃」を強調
+- **[assault](/word/assault)**：法的・暴力的な「暴行」「襲撃」を強調
 
 attackは日常的な攻撃や批判にも使えますが、assaultはより深刻で暴力的なニュアンスが強いです。
 
@@ -105,14 +105,14 @@ attackは日常的な攻撃や批判にも使えますが、assaultはより深�
 
 ## 🧩 あわせて覚えたい
 
-- [defend](/defend)：守る、防御する
-- [criticize](/criticize)：批判する
+- [defend](/word/defend)：守る、防御する
+- [criticize](/word/criticize)：批判する
 
 ---
 
 ## 📖 できればこれも
 
-- [defeat](/defeat)：打ち負かす
-- [protect](/protect)：保護する
+- [defeat](/word/defeat)：打ち負かす
+- [protect](/word/protect)：保護する
 
 <!-- cvid: aid39_bid15 -->

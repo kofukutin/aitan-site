@@ -93,7 +93,7 @@ TOEICでは会話の応答や提案、意見をやんわり伝える場面でよ
 ## 🤔  perhaps との違いは？
 
 - **maybe**：カジュアルで日常会話向き。「たぶん」「もしかしたら」
-- **[perhaps](/perhaps)**：ややフォーマルで書き言葉や丁寧な場面向き。「もしかすると」「ひょっとすると」
+- **[perhaps](/word/perhaps)**：ややフォーマルで書き言葉や丁寧な場面向き。「もしかすると」「ひょっとすると」
 
 maybeは友人同士やカジュアルな会話でよく使われ、perhapsはビジネスやフォーマルな場面で使われることが多いです。
 
@@ -101,14 +101,14 @@ maybeは友人同士やカジュアルな会話でよく使われ、perhapsは�
 
 ## 🧩 あわせて覚えたい
 
-- [possibly](/possibly)：もしかすると（可能性は低め）
-- [probably](/probably)：おそらく（可能性は高め）
+- [possibly](/word/possibly)：もしかすると（可能性は低め）
+- [probably](/word/probably)：おそらく（可能性は高め）
 
 ---
 
 ## 📖 できればこれも
 
-- [certainly](/certainly)：確かに、もちろん
-- [actually](/actually)：実は、実際は
+- [certainly](/word/certainly)：確かに、もちろん
+- [actually](/word/actually)：実は、実際は
 
 <!-- cvid: aid44_bid18 -->

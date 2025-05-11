@@ -97,7 +97,7 @@ TOEICでは、建設や環境、都市インフラに関する説明文や記事
 ## 🤔  sewer との違いは？
 
 - **drainage**：水や液体を排出する仕組みや行為全体を指す
-- **[sewer](/sewer)**：排水を運ぶ下水管や下水道そのもの
+- **[sewer](/word/sewer)**：排水を運ぶ下水管や下水道そのもの
 
 drainageは排水の仕組みやシステム全体を指し、sewerは実際の下水管や下水道を意味します。drainageの方が広い概念です。
 
@@ -105,14 +105,14 @@ drainageは排水の仕組みやシステム全体を指し、sewerは実際の�
 
 ## 🧩 あわせて覚えたい
 
-- [irrigation](/irrigation)：灌漑（水を引くこと）
-- [filtration](/filtration)：ろ過、濾過
+- [irrigation](/word/irrigation)：灌漑（水を引くこと）
+- [filtration](/word/filtration)：ろ過、濾過
 
 ---
 
 ## 📖 できればこれも
 
-- [drain](/drain)：排水する、流し
-- [channel](/channel)：水路、通路
+- [drain](/word/drain)：排水する、流し
+- [channel](/word/channel)：水路、通路
 
 <!-- cvid: aid39_bid42 -->

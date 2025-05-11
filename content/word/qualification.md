@@ -97,7 +97,7 @@ TOEICでは求人広告や応募条件、履歴書に関する文脈でよく出
 ## 🤔  requirement との違いは？
 
 - **qualification**：資格や能力そのもの、または証明書
-- **[requirement](/requirement)**：必要条件や必須事項
+- **[requirement](/word/requirement)**：必要条件や必須事項
 
 qualificationは「持っているもの」、requirementは「求められる条件」という違いがあります。求人票では「requirements（必要条件）」の中に「qualifications（資格）」が含まれることが多いです。
 
@@ -105,14 +105,14 @@ qualificationは「持っているもの」、requirementは「求められる�
 
 ## 🧩 あわせて覚えたい
 
-- [certificate](/certificate)：証明書、修了証
-- [eligibility](/eligibility)：適格性、資格があること
+- [certificate](/word/certificate)：証明書、修了証
+- [eligibility](/word/eligibility)：適格性、資格があること
 
 ---
 
 ## 📖 できればこれも
 
-- [interview](/interview)：面接
-- [position](/position)：職、役職
+- [interview](/word/interview)：面接
+- [position](/word/position)：職、役職
 
 <!-- cvid: aid37_bid18 -->

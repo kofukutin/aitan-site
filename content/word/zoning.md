@@ -97,7 +97,7 @@ TOEICでは、不動産や都市計画、建設関連の長文やEメール、�
 ## 🤔  regulation との違いは？
 
 - **zoning**：都市や地域を用途ごとに分けて規制すること
-- **[regulation](/regulation)**：一般的な規則や規制全般
+- **[regulation](/word/regulation)**：一般的な規則や規制全般
 
 zoningは特に土地利用や都市計画に関する区域分けの規制を指し、regulationはより広く様々な分野の規則を指します。
 
@@ -105,14 +105,14 @@ zoningは特に土地利用や都市計画に関する区域分けの規制を�
 
 ## 🧩 あわせて覚えたい
 
-- [ordinance](/ordinance)：条例、地方自治体の規則
-- [restriction](/restriction)：制限、規制
+- [ordinance](/word/ordinance)：条例、地方自治体の規則
+- [restriction](/word/restriction)：制限、規制
 
 ---
 
 ## 📖 できればこれも
 
-- [permit](/permit)：許可、許可証
-- [approval](/approval)：承認、許可
+- [permit](/word/permit)：許可、許可証
+- [approval](/word/approval)：承認、許可
 
 <!-- cvid: aid21_bid17 -->

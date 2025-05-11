@@ -98,7 +98,7 @@ TOEICでは会話や説明文で「見せた」「示した」という意味で
 ## 🤔  displayed との違いは？
 
 - **showed**：誰かに何かを見せたり、情報や感情を示したりする一般的な表現。
-- **[displayed](/displayed)**：特に「展示する」「陳列する」など、物理的に見せるニュアンスが強い。
+- **[displayed](/word/displayed)**：特に「展示する」「陳列する」など、物理的に見せるニュアンスが強い。
 
 showedは日常的な「見せる・示す」に幅広く使えますが、displayedは「展示会で展示する」などフォーマルで物理的な場面に多いです。
 
@@ -106,14 +106,14 @@ showedは日常的な「見せる・示す」に幅広く使えますが、displ
 
 ## 🧩 あわせて覚えたい
 
-- [present](/present)：提示する、発表する
-- [demonstrate](/demonstrate)：実演する、証明する
+- [present](/word/present)：提示する、発表する
+- [demonstrate](/word/demonstrate)：実演する、証明する
 
 ---
 
 ## 📖 できればこれも
 
-- [explain](/explain)：説明する
-- [indicate](/indicate)：指し示す、示す
+- [explain](/word/explain)：説明する
+- [indicate](/word/indicate)：指し示す、示す
 
 <!-- cvid: aid47_bid22 -->

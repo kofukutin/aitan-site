@@ -98,7 +98,7 @@ TOEICでは主にPart 7の長文やビジネス文書で「目標の追求」や
 ## 🤔  chase との違いは？
 
 - **pursuit**：目標や理想など抽象的なものを「追求」する意味が強い。フォーマルな場面で使われやすい。
-- **[chase](/chase)**：物理的に「追いかける」「追跡する」意味が中心で、日常的・カジュアルな表現。
+- **[chase](/word/chase)**：物理的に「追いかける」「追跡する」意味が中心で、日常的・カジュアルな表現。
 
 pursuitは目標や夢など抽象的な「追求」に使い、chaseは人や物を実際に「追いかける」場面で使います。
 
@@ -106,14 +106,14 @@ pursuitは目標や夢など抽象的な「追求」に使い、chaseは人や�
 
 ## 🧩 あわせて覚えたい
 
-- [goal](/goal)：目標
-- [endeavor](/endeavor)：努力、試み
+- [goal](/word/goal)：目標
+- [endeavor](/word/endeavor)：努力、試み
 
 ---
 
 ## 📖 できればこれも
 
-- [objective](/objective)：目的、目標
-- [achievement](/achievement)：達成、業績
+- [objective](/word/objective)：目的、目標
+- [achievement](/word/achievement)：達成、業績
 
 <!-- cvid: aid07_bid31 -->

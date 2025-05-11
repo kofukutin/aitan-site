@@ -97,7 +97,7 @@ TOEICでは健康や職場のルール、生活習慣に関する長文や案内
 ## 🤔  tobacco との違いは？
 
 - **cigarette**：紙で巻かれた喫煙用のたばこ一本を指す
-- **[tobacco](/tobacco)**：たばこの葉や原料そのもの、またはたばこ製品全般を指す
+- **[tobacco](/word/tobacco)**：たばこの葉や原料そのもの、またはたばこ製品全般を指す
 
 cigaretteは「一本のたばこ」という具体的な形を指し、tobaccoは原料や製品全体を指します。
 
@@ -105,14 +105,14 @@ cigaretteは「一本のたばこ」という具体的な形を指し、tobacco�
 
 ## 🧩 あわせて覚えたい
 
-- [smoke](/smoke)：煙、喫煙する
-- [nicotine](/nicotine)：ニコチン（たばこに含まれる成分）
+- [smoke](/word/smoke)：煙、喫煙する
+- [nicotine](/word/nicotine)：ニコチン（たばこに含まれる成分）
 
 ---
 
 ## 📖 できればこれも
 
-- [alcohol](/alcohol)：アルコール、酒
-- [addict](/addict)：依存者、中毒者
+- [alcohol](/word/alcohol)：アルコール、酒
+- [addict](/word/addict)：依存者、中毒者
 
 <!-- cvid: aid49_bid45 -->

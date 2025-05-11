@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「忘れた」「忘れていた」という場
 ## 🤔  left との違いは？
 
 - **forgot**：記憶や意識の中で「忘れた」
-- **[left](/left)**：物理的に「置き忘れた」「残した」
+- **[left](/word/left)**：物理的に「置き忘れた」「残した」
 
 forgotは「頭の中で思い出せない」場合に使い、leftは「物をどこかに置いてきてしまった」など物理的な忘れ物に使います。
 
@@ -105,14 +105,14 @@ forgotは「頭の中で思い出せない」場合に使い、leftは「物を�
 
 ## 🧩 あわせて覚えたい
 
-- [remember](/remember)：覚えている、思い出す
-- [miss](/miss)：逃す、欠席する
+- [remember](/word/remember)：覚えている、思い出す
+- [miss](/word/miss)：逃す、欠席する
 
 ---
 
 ## 📖 できればこれも
 
-- [bring](/bring)：持ってくる
-- [lose](/lose)：失う、なくす
+- [bring](/word/bring)：持ってくる
+- [lose](/word/lose)：失う、なくす
 
 <!-- cvid: aid35_bid32 -->

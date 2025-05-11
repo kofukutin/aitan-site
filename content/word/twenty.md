@@ -97,7 +97,7 @@ TOEICでは、数や年齢、数量を問う問題で頻出します。特にリ
 ## 🤔  score との違いは？
 
 - **twenty**：具体的な数字「20」を表す一般的な単語。
-- **[score](/score)**：20個をまとめて表すやや古風な表現。現代英語ではあまり一般的でない。
+- **[score](/word/score)**：20個をまとめて表すやや古風な表現。現代英語ではあまり一般的でない。
 
 twentyは日常的な数字表現、scoreは文学的・歴史的な場面や特定の慣用句で使われます。
 
@@ -105,14 +105,14 @@ twentyは日常的な数字表現、scoreは文学的・歴史的な場面や特
 
 ## 🧩 あわせて覚えたい
 
-- [dozen](/dozen)：12個、1ダース
-- [hundred](/hundred)：100
+- [dozen](/word/dozen)：12個、1ダース
+- [hundred](/word/hundred)：100
 
 ---
 
 ## 📖 できればこれも
 
-- [thirty](/thirty)：30
-- [forty](/forty)：40
+- [thirty](/word/thirty)：30
+- [forty](/word/forty)：40
 
 <!-- cvid: aid21_bid20 -->

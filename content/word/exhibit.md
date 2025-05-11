@@ -98,7 +98,7 @@ TOEICでは展示会やイベント案内、ビジネス文書でよく出題さ
 ## 🤔  display との違いは？
 
 - **exhibit**：公式な場で人に見せるために展示する、または能力・感情などをはっきり示す
-- **[display](/display)**：広く「見せる」「陳列する」意味で、日常的・カジュアルな場面でも使う
+- **[display](/word/display)**：広く「見せる」「陳列する」意味で、日常的・カジュアルな場面でも使う
 
 exhibitはフォーマルな展示や公式な発表に使われ、displayは日常的な「見せる」「並べる」にも幅広く使われます。
 
@@ -106,14 +106,14 @@ exhibitはフォーマルな展示や公式な発表に使われ、displayは日
 
 ## 🧩 あわせて覚えたい
 
-- [present](/present)：提示する、発表する
-- [demonstrate](/demonstrate)：実演する、証明する
+- [present](/word/present)：提示する、発表する
+- [demonstrate](/word/demonstrate)：実演する、証明する
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/submit)：提出する
-- [feature](/feature)：特集する、特徴とする
+- [submit](/word/submit)：提出する
+- [feature](/word/feature)：特集する、特徴とする
 
 <!-- cvid: aid18_bid33 -->

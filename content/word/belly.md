@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人物の体の部位を説明する
 ## 🤔  stomach との違いは？
 
 - **belly**：カジュアルで日常的な「おなか」「腹」の意味。子どもや親しい間柄でよく使う。
-- **[stomach](/stomach)**：ややフォーマルで、医学的・生物学的な「胃」「腹部」の意味。
+- **[stomach](/word/stomach)**：ややフォーマルで、医学的・生物学的な「胃」「腹部」の意味。
 
 bellyはくだけた表現で、stomachはより正式・医学的な場面で使われます。
 
@@ -105,14 +105,14 @@ bellyはくだけた表現で、stomachはより正式・医学的な場面で�
 
 ## 🧩 あわせて覚えたい
 
-- [abdomen](/abdomen)：腹部（医学的な表現）
-- [waist](/waist)：腰、ウエスト
+- [abdomen](/word/abdomen)：腹部（医学的な表現）
+- [waist](/word/waist)：腰、ウエスト
 
 ---
 
 ## 📖 できればこれも
 
-- [chest](/chest)：胸
-- [back](/back)：背中
+- [chest](/word/chest)：胸
+- [back](/word/back)：背中
 
 <!-- cvid: aid20_bid28 -->

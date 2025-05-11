@@ -97,7 +97,7 @@ TOEICでは会議やイベント、セミナーなどの出席に関する会話
 ## 🤔  participate との違いは？
 
 - **attend**：単に「出席する」「その場にいる」ことを表す
-- **[participate](/participate)**：積極的に「参加する」「関与する」ことを表す
+- **[participate](/word/participate)**：積極的に「参加する」「関与する」ことを表す
 
 attendは「その場にいる」ことに重点があり、participateは「積極的に関わる」ニュアンスがあります。
 
@@ -105,14 +105,14 @@ attendは「その場にいる」ことに重点があり、participateは「積
 
 ## 🧩 あわせて覚えたい
 
-- [join](/join)：加わる、参加する
-- [absence](/absence)：欠席
+- [join](/word/join)：加わる、参加する
+- [absence](/word/absence)：欠席
 
 ---
 
 ## 📖 できればこれも
 
-- [arrive](/arrive)：到着する
-- [register](/register)：登録する
+- [arrive](/word/arrive)：到着する
+- [register](/word/register)：登録する
 
 <!-- cvid: aid06_bid31 -->

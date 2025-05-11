@@ -97,7 +97,7 @@ TOEICでは会議やイベントの案内、アナウンスで「refreshments wi
 ## 🤔  snack との違いは？
 
 - **refreshment**：会議やイベントなどで提供される軽食や飲み物、または気分転換そのものも指すフォーマルな表現。
-- **[snack](/snack)**：日常的に食べるおやつや間食を指し、カジュアルなニュアンス。
+- **[snack](/word/snack)**：日常的に食べるおやつや間食を指し、カジュアルなニュアンス。
 
 refreshmentはフォーマルな場や案内文で使われ、snackは日常的な軽食やおやつに使われます。
 
@@ -105,14 +105,14 @@ refreshmentはフォーマルな場や案内文で使われ、snackは日常的�
 
 ## 🧩 あわせて覚えたい
 
-- [beverage](/beverage)：飲み物
-- [meal](/meal)：食事
+- [beverage](/word/beverage)：飲み物
+- [meal](/word/meal)：食事
 
 ---
 
 ## 📖 できればこれも
 
-- [break](/break)：休憩
-- [serve](/serve)：提供する
+- [break](/word/break)：休憩
+- [serve](/word/serve)：提供する
 
 <!-- cvid: aid16_bid01 -->

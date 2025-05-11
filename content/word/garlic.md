@@ -96,7 +96,7 @@ TOEICではレストランのメニューやレシピ、食材説明などで登
 ## 🤔  onion との違いは？
 
 - **garlic**：香りが強く、主に香辛料や薬味として使われるニンニク。
-- **[onion](/onion)**：辛味や甘みがあり、主に野菜として使われるタマネギ。
+- **[onion](/word/onion)**：辛味や甘みがあり、主に野菜として使われるタマネギ。
 
 garlicは香りや風味づけが主な用途で、onionは料理のベースや具材として使われることが多いです。
 
@@ -104,14 +104,14 @@ garlicは香りや風味づけが主な用途で、onionは料理のベースや
 
 ## 🧩 あわせて覚えたい
 
-- [ginger](/ginger)：ショウガ
-- [herb](/herb)：ハーブ（香草）
+- [ginger](/word/ginger)：ショウガ
+- [herb](/word/herb)：ハーブ（香草）
 
 ---
 
 ## 📖 できればこれも
 
-- [pepper](/pepper)：コショウ
-- [salt](/salt)：塩
+- [pepper](/word/pepper)：コショウ
+- [salt](/word/salt)：塩
 
 <!-- cvid: aid02_bid36 -->

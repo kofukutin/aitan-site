@@ -100,7 +100,7 @@ TOEICではPart 1の写真描写問題で「look at」や「looking」などの�
 ## 🤔  see との違いは？
 
 - **look**：意識して目を向ける、見ようとする
-- **[see](/see)**：自然に目に入る、見える
+- **[see](/word/see)**：自然に目に入る、見える
 
 「look」は自分の意志で視線を向ける時に使い、「see」は意識しなくても目に入る時に使います。
 
@@ -108,14 +108,14 @@ TOEICではPart 1の写真描写問題で「look at」や「looking」などの�
 
 ## 🧩 あわせて覚えたい
 
-- [watch](/watch)：じっと見る、観察する
-- [glance](/glance)：ちらっと見る
+- [watch](/word/watch)：じっと見る、観察する
+- [glance](/word/glance)：ちらっと見る
 
 ---
 
 ## 📖 できればこれも
 
-- [find](/find)：見つける、発見する
-- [show](/show)：見せる、示す
+- [find](/word/find)：見つける、発見する
+- [show](/word/show)：見せる、示す
 
 <!-- cvid: aid14_bid02 -->

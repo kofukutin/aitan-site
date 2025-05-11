@@ -96,7 +96,7 @@ TOEICでは主にホテルやバスルームの写真描写で登場しやすい
 ## 🤔  detergent との違いは？
 
 - **soap**：主に体や手、食器などを洗うための「石けん」
-- **[detergent](/detergent)**：洗濯や食器洗いなどに使う「合成洗剤」
+- **[detergent](/word/detergent)**：洗濯や食器洗いなどに使う「合成洗剤」
 
 soapは自然由来の石けんを指し、detergentはより広範囲の合成洗剤を指します。洗濯や掃除にはdetergentが使われることが多いです。
 
@@ -104,14 +104,14 @@ soapは自然由来の石けんを指し、detergentはより広範囲の合成�
 
 ## 🧩 あわせて覚えたい
 
-- [shampoo](/shampoo)：シャンプー、髪を洗う洗剤
-- [lotion](/lotion)：ローション、化粧水
+- [shampoo](/word/shampoo)：シャンプー、髪を洗う洗剤
+- [lotion](/word/lotion)：ローション、化粧水
 
 ---
 
 ## 📖 できればこれも
 
-- [towel](/towel)：タオル
-- [shower](/shower)：シャワー
+- [towel](/word/towel)：タオル
+- [shower](/word/shower)：シャワー
 
 <!-- cvid: aid44_bid20 -->

@@ -97,7 +97,7 @@ subsidizeはTOEICの長文読解（Part 7）で、政府や企業の支援に関
 ## 🤔  sponsor との違いは？
 
 - **subsidize**：主に政府や公的機関が、公益性のある活動や事業に金銭的援助をする場合に使うフォーマルな表現。
-- **[sponsor](/sponsor)**：企業や個人がイベントや活動を支援する際に使い、宣伝や見返りを期待するニュアンスが強い。
+- **[sponsor](/word/sponsor)**：企業や個人がイベントや活動を支援する際に使い、宣伝や見返りを期待するニュアンスが強い。
 
 subsidizeは「公的な補助金」、sponsorは「宣伝や協賛を目的とした支援」と使い分けます。
 
@@ -105,14 +105,14 @@ subsidizeは「公的な補助金」、sponsorは「宣伝や協賛を目的と�
 
 ## 🧩 あわせて覚えたい
 
-- [fund](/fund)：資金を提供する
-- [support](/support)：支援する、応援する
+- [fund](/word/fund)：資金を提供する
+- [support](/word/support)：支援する、応援する
 
 ---
 
 ## 📖 できればこれも
 
-- [allocate](/allocate)：割り当てる、配分する
-- [grant](/grant)：（公式に）与える、許可する
+- [allocate](/word/allocate)：割り当てる、配分する
+- [grant](/word/grant)：（公式に）与える、許可する
 
 <!-- cvid: aid10_bid06 -->

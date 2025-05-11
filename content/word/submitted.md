@@ -97,7 +97,7 @@ TOEICでは、書類や申請書の提出に関する文脈で頻出します。
 ## 🤔  sent との違いは？
 
 - **submitted**：正式に提出する、特に書類や申請書などを公式に出す場合に使う
-- **[sent](/sent)**：単に「送る」の過去形・過去分詞で、物やメールなどを送る一般的な表現
+- **[sent](/word/sent)**：単に「送る」の過去形・過去分詞で、物やメールなどを送る一般的な表現
 
 「submitted」はフォーマルな提出、「sent」は広く何かを送る場合に使います。提出の公式さがポイントです。
 
@@ -105,14 +105,14 @@ TOEICでは、書類や申請書の提出に関する文脈で頻出します。
 
 ## 🧩 あわせて覚えたい
 
-- [apply](/apply)：申し込む、申請する
-- [approve](/approve)：承認する
+- [apply](/word/apply)：申し込む、申請する
+- [approve](/word/approve)：承認する
 
 ---
 
 ## 📖 できればこれも
 
-- [attach](/attach)：添付する
-- [receive](/receive)：受け取る
+- [attach](/word/attach)：添付する
+- [receive](/word/receive)：受け取る
 
 <!-- cvid: aid17_bid33 -->

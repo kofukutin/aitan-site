@@ -98,7 +98,7 @@ TOEICでは、経済や国際関係、社会問題などを扱う長文記事や
 ## 🤔  country との違いは？
 
 - **nation**：共通の政府や文化、歴史を持つ「国家」や「国民」を強調するフォーマルな語。
-- **[country](/country)**：地理的な「国」や「国土」を指し、日常的な表現。
+- **[country](/word/country)**：地理的な「国」や「国土」を指し、日常的な表現。
 
 nationは「国民」や「国家」としてのまとまりや抽象的な側面を強調し、countryは地理的な国そのものや場所を指すときに使います。
 
@@ -106,13 +106,13 @@ nationは「国民」や「国家」としてのまとまりや抽象的な側�
 
 ## 🧩 あわせて覚えたい
 
-- [state](/state)：（主に政治的な）国家、州
-- [republic](/republic)：共和国
+- [state](/word/state)：（主に政治的な）国家、州
+- [republic](/word/republic)：共和国
 
 ---
 
 ## 📖 できればこれも
 
-- [government](/government)：政府
-- [citizen](/citizen)：市民、国民
+- [government](/word/government)：政府
+- [citizen](/word/citizen)：市民、国民
 <!-- cvid: aid22_bid06 -->

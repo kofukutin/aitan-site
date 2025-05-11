@@ -97,7 +97,7 @@ TOEICでは「使い果たす」「疲れさせる」の意味で、文脈に合
 ## 🤔  deplete との違いは？
 
 - **exhaust**：完全に使い果たす、または人を極度に疲れさせる
-- **[deplete](/deplete)**：資源や物を徐々に減らす、枯渇させる
+- **[deplete](/word/deplete)**：資源や物を徐々に減らす、枯渇させる
 
 exhaustは「すべてを出し切る」ニュアンスが強く、人や物に幅広く使えますが、depleteは「徐々に減らす」意味で主に資源や物に使われます。
 
@@ -105,14 +105,14 @@ exhaustは「すべてを出し切る」ニュアンスが強く、人や物に�
 
 ## 🧩 あわせて覚えたい
 
-- [drain](/drain)：徐々に流出させる、消耗させる
-- [refresh](/refresh)：元気づける、回復させる
+- [drain](/word/drain)：徐々に流出させる、消耗させる
+- [refresh](/word/refresh)：元気づける、回復させる
 
 ---
 
 ## 📖 できればこれも
 
-- [consume](/consume)：消費する、使い尽くす
-- [recover](/recover)：回復する、取り戻す
+- [consume](/word/consume)：消費する、使い尽くす
+- [recover](/word/recover)：回復する、取り戻す
 
 <!-- cvid: aid32_bid45 -->

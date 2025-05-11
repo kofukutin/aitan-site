@@ -97,7 +97,7 @@ TOEICでは、ウェブサイトやアプリの説明、案内文などで「dow
 ## 🤔  available との違いは？
 
 - **downloadable**：ダウンロードできる状態であることを強調
-- **[available](/available)**：利用可能・入手可能という広い意味
+- **[available](/word/available)**：利用可能・入手可能という広い意味
 
 「downloadable」は「ダウンロードできる」という限定的な意味ですが、「available」は「利用できる」「手に入る」など幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、ウェブサイトやアプリの説明、案内文などで「dow
 
 ## 🧩 あわせて覚えたい
 
-- [online](/online)：オンラインの、インターネット上の
-- [attach](/attach)：添付する
+- [online](/word/online)：オンラインの、インターネット上の
+- [attach](/word/attach)：添付する
 
 ---
 
 ## 📖 できればこれも
 
-- [upload](/upload)：アップロードする
-- [install](/install)：インストールする
+- [upload](/word/upload)：アップロードする
+- [install](/word/install)：インストールする
 
 <!-- cvid: aid25_bid20 -->

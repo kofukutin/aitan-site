@@ -97,7 +97,7 @@ TOEICでは医療や科学分野の長文記事、報告書、メールなどで
 ## 🤔  diagnosis との違いは？
 
 - **pathology**：病気の原因や仕組み、病状そのものや病理学を指す
-- **[diagnosis](/diagnosis)**：診断、病気の特定や判断を指す
+- **[diagnosis](/word/diagnosis)**：診断、病気の特定や判断を指す
 
 pathologyは病気の「状態や学問」に焦点があり、diagnosisは「病名を特定する行為や結果」に使います。
 
@@ -105,14 +105,14 @@ pathologyは病気の「状態や学問」に焦点があり、diagnosisは「�
 
 ## 🧩 あわせて覚えたい
 
-- [symptom](/symptom)：症状
-- [treatment](/treatment)：治療
+- [symptom](/word/symptom)：症状
+- [treatment](/word/treatment)：治療
 
 ---
 
 ## 📖 できればこれも
 
-- [laboratory](/laboratory)：研究室、検査室
-- [disease](/disease)：病気
+- [laboratory](/word/laboratory)：研究室、検査室
+- [disease](/word/disease)：病気
 
 <!-- cvid: aid33_bid31 -->

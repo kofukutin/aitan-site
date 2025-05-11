@@ -97,7 +97,7 @@ shakeは会話や説明文で「振る」「握手する」などの意味で出
 ## 🤔  swing との違いは？
 
 - **shake**：素早く前後・上下に振る、または手を握る
-- **[swing](/swing)**：ゆっくり大きく振る、またはぶら下がって揺れる
+- **[swing](/word/swing)**：ゆっくり大きく振る、またはぶら下がって揺れる
 
 shakeは短く速い動き、swingはゆっくり大きな動きや振り子のような揺れを表します。
 
@@ -105,14 +105,14 @@ shakeは短く速い動き、swingはゆっくり大きな動きや振り子の�
 
 ## 🧩 あわせて覚えたい
 
-- [tremble](/tremble)：小刻みに震える
-- [nod](/nod)：うなずく
+- [tremble](/word/tremble)：小刻みに震える
+- [nod](/word/nod)：うなずく
 
 ---
 
 ## 📖 できればこれも
 
-- [wave](/wave)：手を振る
-- [move](/move)：動かす、動く
+- [wave](/word/wave)：手を振る
+- [move](/word/move)：動かす、動く
 
 <!-- cvid: aid28_bid33 -->

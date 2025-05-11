@@ -97,7 +97,7 @@ metricはビジネス文書やレポート、IT関連の長文でよく登場し
 ## 🤔  indicator との違いは？
 
 - **metric**：数値やデータで測定できる具体的な指標
-- **[indicator](/indicator)**：状況や傾向を示す一般的な「指標」や「兆候」
+- **[indicator](/word/indicator)**：状況や傾向を示す一般的な「指標」や「兆候」
 
 metricは「数値化できる明確な基準」、indicatorは「変化や傾向を示すサイン」として使い分けます。
 
@@ -105,14 +105,14 @@ metricは「数値化できる明確な基準」、indicatorは「変化や傾�
 
 ## 🧩 あわせて覚えたい
 
-- [benchmark](/benchmark)：基準、標準
-- [parameter](/parameter)：パラメータ、条件
+- [benchmark](/word/benchmark)：基準、標準
+- [parameter](/word/parameter)：パラメータ、条件
 
 ---
 
 ## 📖 できればこれも
 
-- [criteria](/criteria)：評価基準
-- [standard](/standard)：標準、基準
+- [criteria](/word/criteria)：評価基準
+- [standard](/word/standard)：標準、基準
 
 <!-- cvid: aid30_bid48 -->

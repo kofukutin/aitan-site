@@ -96,7 +96,7 @@ TOEICでは会議や相談の場面で「自信がない」「迷っている」
 ## 🤔  uncertain との違いは？
 
 - **unsure**：自分の気持ちや判断に自信がない、迷っている
-- **[uncertain](/uncertain)**：物事や状況がはっきりしない、不確実
+- **[uncertain](/word/uncertain)**：物事や状況がはっきりしない、不確実
 
 「unsure」は人の気持ちや態度に使い、「uncertain」は状況や事実が不明確なときに使います。
 
@@ -104,14 +104,14 @@ TOEICでは会議や相談の場面で「自信がない」「迷っている」
 
 ## 🧩 あわせて覚えたい
 
-- [confident](/confident)：自信がある
-- [hesitant](/hesitant)：ためらっている
+- [confident](/word/confident)：自信がある
+- [hesitant](/word/hesitant)：ためらっている
 
 ---
 
 ## 📖 できればこれも
 
-- [certain](/certain)：確信している
-- [doubtful](/doubtful)：疑わしい
+- [certain](/word/certain)：確信している
+- [doubtful](/word/doubtful)：疑わしい
 
 <!-- cvid: aid39_bid05 -->

@@ -93,7 +93,7 @@ TOEICでは文法や前置詞の使い分け問題で出題されることが多
 ## 🤔  despite との違いは？
 
 - **considering**：～を考慮すると、という前向きな評価や条件を示す
-- **[despite](/despite)**：～にもかかわらず、という逆接や困難を強調する
+- **[despite](/word/despite)**：～にもかかわらず、という逆接や困難を強調する
 
 「considering」は状況や条件を評価する際に使い、「despite」は逆境や障害を強調する時に使います。
 
@@ -101,14 +101,14 @@ TOEICでは文法や前置詞の使い分け問題で出題されることが多
 
 ## 🧩 あわせて覚えたい
 
-- [regarding](/regarding)：～に関して
-- [given](/given)：～を考慮すると
+- [regarding](/word/regarding)：～に関して
+- [given](/word/given)：～を考慮すると
 
 ---
 
 ## 📖 できればこれも
 
-- [according to](/according_to)：～によれば
-- [in addition](/in_addition)：さらに
+- [according to](/word/according_to)：～によれば
+- [in addition](/word/in_addition)：さらに
 
 <!-- cvid: aid19_bid37 -->

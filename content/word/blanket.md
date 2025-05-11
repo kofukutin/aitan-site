@@ -97,7 +97,7 @@ TOEICでは主にホテルや旅行、日常生活の写真描写で「blanket�
 ## 🤔  cover との違いは？
 
 - **blanket**：寝具として使う「毛布」や、何かを全面的に覆うもの。
-- **[cover](/cover)**：何かを覆う「カバー」「ふた」など、用途や形状を問わず幅広く使う。
+- **[cover](/word/cover)**：何かを覆う「カバー」「ふた」など、用途や形状を問わず幅広く使う。
 
 blanketは主に寝具や防寒用の「毛布」を指し、coverは「覆うもの」全般に使われます。
 
@@ -105,14 +105,14 @@ blanketは主に寝具や防寒用の「毛布」を指し、coverは「覆う�
 
 ## 🧩 あわせて覚えたい
 
-- [sheet](/sheet)：シーツ、薄い布
-- [quilt](/quilt)：キルト、綿入り掛け布団
+- [sheet](/word/sheet)：シーツ、薄い布
+- [quilt](/word/quilt)：キルト、綿入り掛け布団
 
 ---
 
 ## 📖 できればこれも
 
-- [pillow](/pillow)：枕
-- [cushion](/cushion)：クッション
+- [pillow](/word/pillow)：枕
+- [cushion](/word/cushion)：クッション
 
 <!-- cvid: aid37_bid35 -->

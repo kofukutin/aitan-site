@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やプロジェクト資料、建築関連の
 ## 🤔  plan との違いは？
 
 - **blueprint**：詳細で具体的な設計図や計画、特に実現のための手順が明確なもの
-- **[plan](/plan)**：目的や目標に向けた一般的な計画や案
+- **[plan](/word/plan)**：目的や目標に向けた一般的な計画や案
 
 blueprintは「実行のための詳細な設計図」、planは「幅広い意味での計画」として使い分けます。
 
@@ -105,14 +105,14 @@ blueprintは「実行のための詳細な設計図」、planは「幅広い意�
 
 ## 🧩 あわせて覚えたい
 
-- [design](/design)：設計、デザイン
-- [strategy](/strategy)：戦略
+- [design](/word/design)：設計、デザイン
+- [strategy](/word/strategy)：戦略
 
 ---
 
 ## 📖 できればこれも
 
-- [proposal](/proposal)：提案、計画案
-- [outline](/outline)：概要、要点
+- [proposal](/word/proposal)：提案、計画案
+- [outline](/word/outline)：概要、要点
 
 <!-- cvid: aid40_bid19 -->

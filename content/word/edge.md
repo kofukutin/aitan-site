@@ -97,7 +97,7 @@ TOEICでは、物の位置や場所の説明、または「競争上の優位性
 ## 🤔  border との違いは？
 
 - **edge**：物や場所の「端」「縁」など、物理的・比喩的な境界を幅広く指す
-- **[border](/border)**：国や地域など「領域の境界線」「国境」を主に指す
+- **[border](/word/border)**：国や地域など「領域の境界線」「国境」を主に指す
 
 edgeは一般的な「端」や「縁」に使い、borderは特に国やエリアの「境界線」に使います。
 
@@ -105,14 +105,14 @@ edgeは一般的な「端」や「縁」に使い、borderは特に国やエリ�
 
 ## 🧩 あわせて覚えたい
 
-- [margin](/margin)：余白、端
-- [corner](/corner)：角、隅
+- [margin](/word/margin)：余白、端
+- [corner](/word/corner)：角、隅
 
 ---
 
 ## 📖 できればこれも
 
-- [surface](/surface)：表面
-- [line](/line)：線
+- [surface](/word/surface)：表面
+- [line](/word/line)：線
 
 <!-- cvid: aid07_bid40 -->

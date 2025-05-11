@@ -97,7 +97,7 @@ TOEICでは、会話や説明文で「反映される」「映し出される」
 ## 🤔  mirrored との違いは？
 
 - **reflected**：光や像が自然に跳ね返って映る、または考えや感情が表れる
-- **[mirrored](/mirrored)**：鏡のようにそっくりそのまま映す、または完全に同じように再現する
+- **[mirrored](/word/mirrored)**：鏡のようにそっくりそのまま映す、または完全に同じように再現する
 
 reflectedは自然な現象や抽象的な「反映」にも使えますが、mirroredは「鏡のようにそっくり同じ」というニュアンスが強いです。
 
@@ -105,14 +105,14 @@ reflectedは自然な現象や抽象的な「反映」にも使えますが、mi
 
 ## 🧩 あわせて覚えたい
 
-- [absorb](/absorb)：吸収する
-- [indicate](/indicate)：示す、指し示す
+- [absorb](/word/absorb)：吸収する
+- [indicate](/word/indicate)：示す、指し示す
 
 ---
 
 ## 📖 できればこれも
 
-- [project](/project)：投影する、映し出す
-- [respond](/respond)：反応する、応答する
+- [project](/word/project)：投影する、映し出す
+- [respond](/word/respond)：反応する、応答する
 
 <!-- cvid: aid09_bid31 -->

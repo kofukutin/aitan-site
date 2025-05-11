@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やレポート、メールの中で「関連性
 ## 🤔  relation との違いは？
 
 - **relevance**：今の話題や目的にどれだけ関係が深いか、重要かを強調
-- **[relation](/relation)**：物事同士の一般的な「関係」や「つながり」を表す
+- **[relation](/word/relation)**：物事同士の一般的な「関係」や「つながり」を表す
 
 relevanceは「今この場面でどれだけ重要か・役立つか」に焦点があり、relationは単なる関係性やつながりを指します。
 
@@ -105,14 +105,14 @@ relevanceは「今この場面でどれだけ重要か・役立つか」に焦�
 
 ## 🧩 あわせて覚えたい
 
-- [irrelevance](/irrelevance)：無関係、重要でないこと
-- [pertinence](/pertinence)：適切さ、関連性
+- [irrelevance](/word/irrelevance)：無関係、重要でないこと
+- [pertinence](/word/pertinence)：適切さ、関連性
 
 ---
 
 ## 📖 できればこれも
 
-- [significance](/significance)：重要性
-- [connection](/connection)：つながり、関係
+- [significance](/word/significance)：重要性
+- [connection](/word/connection)：つながり、関係
 
 <!-- cvid: aid28_bid13 -->

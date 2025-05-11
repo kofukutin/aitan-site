@@ -93,7 +93,7 @@ thereafterはTOEICの長文読解パートで、時系列や手順の説明、�
 ## 🤔  subsequently との違いは？
 
 - **thereafter**：ある出来事や時点「以降ずっと」を表すフォーマルな副詞
-- **[subsequently](/subsequently)**：何かの「直後に続いて」起こることをやや堅く表す副詞
+- **[subsequently](/word/subsequently)**：何かの「直後に続いて」起こることをやや堅く表す副詞
 
 thereafterは「それ以降ずっと」のニュアンスが強く、subsequentlyは「その後すぐに起きた出来事」に焦点を当てます。
 
@@ -101,14 +101,14 @@ thereafterは「それ以降ずっと」のニュアンスが強く、subsequent
 
 ## 🧩 あわせて覚えたい
 
-- [previously](/previously)：以前に、かつて
-- [henceforth](/henceforth)：今後は、それ以降は
+- [previously](/word/previously)：以前に、かつて
+- [henceforth](/word/henceforth)：今後は、それ以降は
 
 ---
 
 ## 📖 できればこれも
 
-- [meanwhile](/meanwhile)：その間に
-- [consequently](/consequently)：その結果として
+- [meanwhile](/word/meanwhile)：その間に
+- [consequently](/word/consequently)：その結果として
 
 <!-- cvid: aid23_bid29 -->

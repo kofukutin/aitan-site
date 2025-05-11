@@ -98,7 +98,7 @@ TOEICでは「replacement」は人や物の「後任」「交換品」として�
 ## 🤔  substitute との違いは？
 
 - **replacement**：本来のものがなくなった後の「後任」や「交換品」に幅広く使う
-- **[substitute](/substitute)**：一時的・臨時の「代理」や「代用品」に使う
+- **[substitute](/word/substitute)**：一時的・臨時の「代理」や「代用品」に使う
 
 replacementは恒久的な「後任」や「交換品」にも使えますが、substituteは一時的な「代理」や「代用品」に使うことが多いです。
 
@@ -106,14 +106,14 @@ replacementは恒久的な「後任」や「交換品」にも使えますが、
 
 ## 🧩 あわせて覚えたい
 
-- [exchange](/exchange)：交換、取り替え
-- [removal](/removal)：除去、取り除くこと
+- [exchange](/word/exchange)：交換、取り替え
+- [removal](/word/removal)：除去、取り除くこと
 
 ---
 
 ## 📖 できればこれも
 
-- [appointment](/appointment)：任命、約束
-- [requirement](/requirement)：必要条件、要件
+- [appointment](/word/appointment)：任命、約束
+- [requirement](/word/requirement)：必要条件、要件
 
 <!-- cvid: aid02_bid27 -->

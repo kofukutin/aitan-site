@@ -97,7 +97,7 @@ TOEICでは、メールやレポート、記事の要約部分や、要点をま
 ## 🤔  overview との違いは？
 
 - **summary**：重要なポイントを簡潔にまとめた「要約」
-- **[overview](/overview)**：全体像や概要をざっと説明する「概観」
+- **[overview](/word/overview)**：全体像や概要をざっと説明する「概観」
 
 summaryは詳細を省いて要点だけを短くまとめるのに対し、overviewは全体の流れや構成をざっくり説明する時に使います。
 
@@ -105,14 +105,14 @@ summaryは詳細を省いて要点だけを短くまとめるのに対し、over
 
 ## 🧩 あわせて覚えたい
 
-- [outline](/outline)：概要、輪郭
-- [detail](/detail)：詳細、細部
+- [outline](/word/outline)：概要、輪郭
+- [detail](/word/detail)：詳細、細部
 
 ---
 
 ## 📖 できればこれも
 
-- [report](/report)：報告書、レポート
-- [conclusion](/conclusion)：結論
+- [report](/word/report)：報告書、レポート
+- [conclusion](/word/conclusion)：結論
 
 <!-- cvid: aid42_bid44 -->

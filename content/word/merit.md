@@ -97,7 +97,7 @@ TOEICでは「長所」「価値」「功績」などの意味で、選択肢や
 ## 🤔  advantage との違いは？
 
 - **merit**：本質的・内在的な長所や価値を強調するフォーマルな表現
-- **[advantage](/advantage)**：他と比べて有利な点や利点を表す、ややカジュアルな語
+- **[advantage](/word/advantage)**：他と比べて有利な点や利点を表す、ややカジュアルな語
 
 meritは「そのもの自体の良さ」、advantageは「他と比べて有利な点」に焦点を当てます。
 
@@ -105,14 +105,14 @@ meritは「そのもの自体の良さ」、advantageは「他と比べて有利
 
 ## 🧩 あわせて覚えたい
 
-- [demerit](/demerit)：短所、欠点
-- [benefit](/benefit)：利益、恩恵
+- [demerit](/word/demerit)：短所、欠点
+- [benefit](/word/benefit)：利益、恩恵
 
 ---
 
 ## 📖 できればこれも
 
-- [value](/value)：価値
-- [quality](/quality)：質、特性
+- [value](/word/value)：価値
+- [quality](/word/quality)：質、特性
 
 <!-- cvid: aid26_bid41 -->

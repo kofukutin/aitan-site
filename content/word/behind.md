@@ -93,7 +93,7 @@ TOEICでは主にPart 1の写真描写問題で、物の位置関係を説明す
 ## 🤔  after との違いは？
 
 - **behind**：位置や順序で「～の後ろに」「遅れて」を表す
-- **[after](/after)**：時間や順番で「～の後に」を表す
+- **[after](/word/after)**：時間や順番で「～の後に」を表す
 
 behindは物理的な位置や進捗の遅れを示すのに使い、afterは出来事や時間の順序を表すときに使います。
 
@@ -101,14 +101,14 @@ behindは物理的な位置や進捗の遅れを示すのに使い、afterは出
 
 ## 🧩 あわせて覚えたい
 
-- [under](/under)：～の下に
-- [beside](/beside)：～の横に
+- [under](/word/under)：～の下に
+- [beside](/word/beside)：～の横に
 
 ---
 
 ## 📖 できればこれも
 
 - [in front of](/in front of)：～の前に
-- [between](/between)：～の間に
+- [between](/word/between)：～の間に
 
 <!-- cvid: aid02_bid40 -->

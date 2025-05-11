@@ -97,7 +97,7 @@ TOEICでは法務や裁判に関する記事や、コンテストの審査に関
 ## 🤔  judge との違いは？
 
 - **jury**：複数人で構成される陪審員団や審査員団。集団で判断を下す。
-- **[judge](/judge)**：裁判官や審査員など、個人で判断を下す人。
+- **[judge](/word/judge)**：裁判官や審査員など、個人で判断を下す人。
 
 juryは集団で評決を出すのに対し、judgeは個人で最終判断を下す点が異なります。
 
@@ -105,14 +105,14 @@ juryは集団で評決を出すのに対し、judgeは個人で最終判断を�
 
 ## 🧩 あわせて覚えたい
 
-- [verdict](/verdict)：評決、判決
-- [trial](/trial)：裁判、公判
+- [verdict](/word/verdict)：評決、判決
+- [trial](/word/trial)：裁判、公判
 
 ---
 
 ## 📖 できればこれも
 
-- [court](/court)：法廷、裁判所
-- [evidence](/evidence)：証拠
+- [court](/word/court)：法廷、裁判所
+- [evidence](/word/evidence)：証拠
 
 <!-- cvid: aid44_bid28 -->

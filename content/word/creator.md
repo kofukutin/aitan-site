@@ -97,7 +97,7 @@ TOEICではITやビジネス分野の記事やメールで「creator」が登場
 ## 🤔  founder との違いは？
 
 - **creator**：何かを新しく作り出した人、特に作品やコンテンツの発案者
-- **[founder](/founder)**：会社や団体など組織を設立した人
+- **[founder](/word/founder)**：会社や団体など組織を設立した人
 
 「creator」は作品やアイデアの生みの親に使い、「founder」は会社や団体の設立者に限定されます。
 
@@ -105,14 +105,14 @@ TOEICではITやビジネス分野の記事やメールで「creator」が登場
 
 ## 🧩 あわせて覚えたい
 
-- [inventor](/inventor)：発明者
-- [originator](/originator)：創始者、起源となる人
+- [inventor](/word/inventor)：発明者
+- [originator](/word/originator)：創始者、起源となる人
 
 ---
 
 ## 📖 できればこれも
 
-- [designer](/designer)：デザイナー、設計者
-- [developer](/developer)：開発者
+- [designer](/word/designer)：デザイナー、設計者
+- [developer](/word/developer)：開発者
 
 <!-- cvid: aid02_bid25 -->

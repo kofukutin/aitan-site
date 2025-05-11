@@ -97,7 +97,7 @@ TOEICでは主に記事やレポート、ビジネス文書の中で、芸術や
 ## 🤔  magnificent との違いは？
 
 - **sublime**：精神的・芸術的に非常に高貴で感動を呼ぶ
-- **[magnificent](/magnificent)**：壮大で豪華、見た目や規模の大きさを強調
+- **[magnificent](/word/magnificent)**：壮大で豪華、見た目や規模の大きさを強調
 
 sublimeは心を打つほど高尚なものに使い、magnificentは主に外見や規模の素晴らしさを表します。
 
@@ -105,13 +105,13 @@ sublimeは心を打つほど高尚なものに使い、magnificentは主に外�
 
 ## 🧩 あわせて覚えたい
 
-- [majestic](/majestic)：威厳のある、堂々とした
-- [humble](/humble)：謙虚な、控えめな
+- [majestic](/word/majestic)：威厳のある、堂々とした
+- [humble](/word/humble)：謙虚な、控えめな
 
 ---
 
 ## 📖 できればこれも
 
-- [elegant](/elegant)：上品な、優雅な
-- [splendid](/splendid)：素晴らしい、華やかな
+- [elegant](/word/elegant)：上品な、優雅な
+- [splendid](/word/splendid)：素晴らしい、華やかな
 <!-- cvid: aid45_bid17 -->

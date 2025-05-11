@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「deal with」の過去形として頻出しま
 ## 🤔  handled との違いは？
 
 - **dealt**：問題や状況に対して「対処した」「扱った」という意味で、やや幅広いニュアンス。
-- **[handled](/handled)**：特に「手際よく処理した」「操作した」というニュアンスが強い。
+- **[handled](/word/handled)**：特に「手際よく処理した」「操作した」というニュアンスが強い。
 
 「dealt」は状況全体への対応、「handled」は具体的な処理や操作に焦点が当たる点が異なります。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「deal with」の過去形として頻出しま
 
 ## 🧩 あわせて覚えたい
 
-- [address](/address)：（問題などに）取り組む、対処する
-- [manage](/manage)：管理する、うまく扱う
+- [address](/word/address)：（問題などに）取り組む、対処する
+- [manage](/word/manage)：管理する、うまく扱う
 
 ---
 
 ## 📖 できればこれも
 
-- [sent](/sent)：送った（sendの過去形・過去分詞）
-- [received](/received)：受け取った（receiveの過去形・過去分詞）
+- [sent](/word/sent)：送った（sendの過去形・過去分詞）
+- [received](/word/received)：受け取った（receiveの過去形・過去分詞）
 
 <!-- cvid: aid25_bid43 -->

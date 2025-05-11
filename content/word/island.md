@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、風景や地理に関する説明と
 ## 🤔  isle との違いは？
 
 - **island**：一般的な「島」を指し、日常会話や正式な文書で広く使われる。
-- **[isle](/isle)**：詩的・文学的な表現や地名で使われることが多い、ややフォーマルな「島」。
+- **[isle](/word/isle)**：詩的・文学的な表現や地名で使われることが多い、ややフォーマルな「島」。
 
 islandは最も一般的な「島」の表現で、isleは詩的・文学的な響きや地名で使われることが多いです。
 
@@ -105,13 +105,13 @@ islandは最も一般的な「島」の表現で、isleは詩的・文学的な�
 
 ## 🧩 あわせて覚えたい
 
-- [peninsula](/peninsula)：半島
-- [continent](/continent)：大陸
+- [peninsula](/word/peninsula)：半島
+- [continent](/word/continent)：大陸
 
 ---
 
 ## 📖 できればこれも
 
-- [beach](/beach)：浜辺
-- [coast](/coast)：海岸
+- [beach](/word/beach)：浜辺
+- [coast](/word/coast)：海岸
 <!-- cvid: aid01_bid29 -->

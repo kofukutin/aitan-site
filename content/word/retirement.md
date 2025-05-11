@@ -97,7 +97,7 @@ TOEICでは、退職や定年に関するお知らせや案内文、メールな
 ## 🤔  resignation との違いは？
 
 - **retirement**：長年働いた後の「退職」や「引退」を指し、通常は定年などポジティブな意味合い。
-- **[resignation](/resignation)**：自分の意思で「辞職」すること。理由は問わず、ややフォーマルで中立的。
+- **[resignation](/word/resignation)**：自分の意思で「辞職」すること。理由は問わず、ややフォーマルで中立的。
 
 retirementは「引退」や「定年退職」のニュアンスが強く、resignationは「辞表を出して辞める」など幅広い理由の退職に使います。
 
@@ -105,14 +105,14 @@ retirementは「引退」や「定年退職」のニュアンスが強く、resi
 
 ## 🧩 あわせて覚えたい
 
-- [pension](/pension)：年金
-- [dismissal](/dismissal)：解雇
+- [pension](/word/pension)：年金
+- [dismissal](/word/dismissal)：解雇
 
 ---
 
 ## 📖 できればこれも
 
-- [promotion](/promotion)：昇進
-- [transfer](/transfer)：異動
+- [promotion](/word/promotion)：昇進
+- [transfer](/word/transfer)：異動
 
 <!-- cvid: aid45_bid44 -->

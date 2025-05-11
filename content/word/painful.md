@@ -97,7 +97,7 @@ It was a painful decision to let some employees go.
 ## 🤔  sore との違いは？
 
 - **painful**：痛みが強く、苦痛を強調する表現
-- **[sore](/sore)**：ヒリヒリ・ズキズキするような軽い痛みや炎症
+- **[sore](/word/sore)**：ヒリヒリ・ズキズキするような軽い痛みや炎症
 
 painfulは「強い痛み」や「精神的苦痛」にも使えますが、soreは「軽い痛み」や「炎症でヒリヒリする感じ」に使われます。
 
@@ -105,14 +105,14 @@ painfulは「強い痛み」や「精神的苦痛」にも使えますが、sore
 
 ## 🧩 あわせて覚えたい
 
-- [comfortable](/comfortable)：快適な
-- [ache](/ache)：うずくような痛み
+- [comfortable](/word/comfortable)：快適な
+- [ache](/word/ache)：うずくような痛み
 
 ---
 
 ## 📖 できればこれも
 
-- [hurt](/hurt)：痛む、傷つける
-- [injury](/injury)：けが、負傷
+- [hurt](/word/hurt)：痛む、傷つける
+- [injury](/word/injury)：けが、負傷
 
 <!-- cvid: aid29_bid33 -->

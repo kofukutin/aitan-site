@@ -97,7 +97,7 @@ TOEICでは会議やプレゼン、IT機器の説明などで「画面」「ス�
 ## 🤔  monitor との違いは？
 
 - **screen**：映像や情報を映し出す「画面」や「スクリーン」そのもの
-- **[monitor](/monitor)**：パソコンなどの「モニター（本体）」や「監視装置」
+- **[monitor](/word/monitor)**：パソコンなどの「モニター（本体）」や「監視装置」
 
 screenは映像が表示される「面」自体を指し、monitorは機器全体や監視装置を指します。
 
@@ -105,14 +105,14 @@ screenは映像が表示される「面」自体を指し、monitorは機器全�
 
 ## 🧩 あわせて覚えたい
 
-- [display](/display)：表示装置、ディスプレイ
-- [projector](/projector)：プロジェクター、映写機
+- [display](/word/display)：表示装置、ディスプレイ
+- [projector](/word/projector)：プロジェクター、映写機
 
 ---
 
 ## 📖 できればこれも
 
-- [keyboard](/keyboard)：キーボード
-- [device](/device)：装置、デバイス
+- [keyboard](/word/keyboard)：キーボード
+- [device](/word/device)：装置、デバイス
 
 <!-- cvid: aid21_bid34 -->

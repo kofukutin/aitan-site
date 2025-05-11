@@ -97,7 +97,7 @@ TOEICでは、求人広告やビジネス文書、案内文などで「agency」
 ## 🤔  organization との違いは？
 
 - **agency**：特定の業務やサービスを代理で行う会社・機関
-- **[organization](/organization)**：組織全般（会社・団体・機関など広い意味）
+- **[organization](/word/organization)**：組織全般（会社・団体・機関など広い意味）
 
 agencyは「代理」や「特定の目的を持つ機関」に焦点があり、organizationは「組織」という広い意味で使われます。
 
@@ -105,14 +105,14 @@ agencyは「代理」や「特定の目的を持つ機関」に焦点があり�
 
 ## 🧩 あわせて覚えたい
 
-- [branch](/branch)：支店、支部
-- [department](/department)：部門、部署
+- [branch](/word/branch)：支店、支部
+- [department](/word/department)：部門、部署
 
 ---
 
 ## 📖 できればこれも
 
-- [firm](/firm)：会社、事務所
-- [company](/company)：会社
+- [firm](/word/firm)：会社、事務所
+- [company](/word/company)：会社
 
 <!-- cvid: aid48_bid19 -->

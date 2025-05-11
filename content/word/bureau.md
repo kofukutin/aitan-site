@@ -97,7 +97,7 @@ TOEICでは、政府や企業の組織構造、案内文、公式文書などで
 ## 🤔  department との違いは？
 
 - **bureau**：主に政府や大きな組織の「局」「事務局」など、フォーマルで限定的な部署を指す。
-- **[department](/department)**：企業や組織内の「部門」「部署」全般を幅広く指す。
+- **[department](/word/department)**：企業や組織内の「部門」「部署」全般を幅広く指す。
 
 bureauは特に公的機関や大規模組織の一部として使われ、departmentは一般的な部署や部門に広く使われます。
 
@@ -105,14 +105,14 @@ bureauは特に公的機関や大規模組織の一部として使われ、depar
 
 ## 🧩 あわせて覚えたい
 
-- [agency](/agency)：代理店、機関
-- [division](/division)：部門、分割
+- [agency](/word/agency)：代理店、機関
+- [division](/word/division)：部門、分割
 
 ---
 
 ## 📖 できればこれも
 
-- [committee](/committee)：委員会
-- [section](/section)：部門、区分
+- [committee](/word/committee)：委員会
+- [section](/word/section)：部門、区分
 
 <!-- cvid: aid48_bid21 -->

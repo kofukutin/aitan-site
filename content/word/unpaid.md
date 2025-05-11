@@ -97,7 +97,7 @@ TOEICでは請求書や給与、契約に関する文脈で「unpaid」が形容
 ## 🤔  overdue との違いは？
 
 - **unpaid**：未払いの（支払いがまだ行われていない状態全般）
-- **[overdue](/overdue)**：期限を過ぎて未払いの（支払期限を過ぎている状態）
+- **[overdue](/word/overdue)**：期限を過ぎて未払いの（支払期限を過ぎている状態）
 
 「unpaid」は単に支払いが済んでいないことを指し、「overdue」は支払期限を過ぎている場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは請求書や給与、契約に関する文脈で「unpaid」が形容
 
 ## 🧩 あわせて覚えたい
 
-- [outstanding](/outstanding)：未払いの、未処理の
-- [payable](/payable)：支払うべき、支払可能な
+- [outstanding](/word/outstanding)：未払いの、未処理の
+- [payable](/word/payable)：支払うべき、支払可能な
 
 ---
 
 ## 📖 できればこれも
 
-- [pending](/pending)：未処理の、保留中の
-- [due](/due)：支払期日の、期限が来た
+- [pending](/word/pending)：未処理の、保留中の
+- [due](/word/due)：支払期日の、期限が来た
 
 <!-- cvid: aid01_bid44 -->

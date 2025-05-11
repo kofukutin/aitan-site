@@ -97,7 +97,7 @@ TOEICでは、統計やデータの説明、技術的な文章で「frequency」
 ## 🤔  rate との違いは？
 
 - **frequency**：一定期間内にどれだけ繰り返されるか（回数や周波数）を表す
-- **[rate](/rate)**：割合や比率、速度など「何かの基準に対する割合」を表す
+- **[rate](/word/rate)**：割合や比率、速度など「何かの基準に対する割合」を表す
 
 frequencyは「回数」や「繰り返し」に焦点があり、rateは「割合」や「速度」に焦点があります。
 
@@ -105,14 +105,14 @@ frequencyは「回数」や「繰り返し」に焦点があり、rateは「割�
 
 ## 🧩 あわせて覚えたい
 
-- [interval](/interval)：間隔、インターバル
-- [occurrence](/occurrence)：発生、出来事
+- [interval](/word/interval)：間隔、インターバル
+- [occurrence](/word/occurrence)：発生、出来事
 
 ---
 
 ## 📖 できればこれも
 
-- [quantity](/quantity)：量、数量
-- [duration](/duration)：継続時間、期間
+- [quantity](/word/quantity)：量、数量
+- [duration](/word/duration)：継続時間、期間
 
 <!-- cvid: aid30_bid16 -->

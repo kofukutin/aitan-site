@@ -97,7 +97,7 @@ TOEICでは、ビジネスシーンでの「情報交換」や「両替」「意
 ## 🤔  trade との違いは？
 
 - **exchange**：物や情報などをお互いにやりとりすること、両替も含む
-- **[trade](/trade)**：商業的な「取引」や「貿易」を指し、規模が大きい場合が多い
+- **[trade](/word/trade)**：商業的な「取引」や「貿易」を指し、規模が大きい場合が多い
 
 exchangeは対等なやりとりや両替など幅広く使われ、tradeは商業的な売買や国際取引に特化しています。
 
@@ -105,14 +105,14 @@ exchangeは対等なやりとりや両替など幅広く使われ、tradeは商�
 
 ## 🧩 あわせて覚えたい
 
-- [transaction](/transaction)：取引、売買
-- [swap](/swap)：（カジュアルな）交換
+- [transaction](/word/transaction)：取引、売買
+- [swap](/word/swap)：（カジュアルな）交換
 
 ---
 
 ## 📖 できればこれも
 
-- [deal](/deal)：取引、契約
-- [transfer](/transfer)：移転、譲渡
+- [deal](/word/deal)：取引、契約
+- [transfer](/word/transfer)：移転、譲渡
 
 <!-- cvid: aid23_bid35 -->

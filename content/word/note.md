@@ -97,7 +97,7 @@ TOEICでは「メモ」「注釈」「短い手紙」などの意味で、メー
 ## 🤔  notice との違いは？
 
 - **note**：個人的なメモや短い伝言、注釈などに使う。
-- **[notice](/notice)**：公式な掲示やお知らせ、注意書きに使う。
+- **[notice](/word/notice)**：公式な掲示やお知らせ、注意書きに使う。
 
 noteは自分や身近な人への短い記録、noticeは多くの人に向けた公式な通知や掲示に使われます。
 
@@ -105,14 +105,14 @@ noteは自分や身近な人への短い記録、noticeは多くの人に向け�
 
 ## 🧩 あわせて覚えたい
 
-- [memo](/memo)：簡単なメモ、覚え書き
-- [message](/message)：伝言、メッセージ
+- [memo](/word/memo)：簡単なメモ、覚え書き
+- [message](/word/message)：伝言、メッセージ
 
 ---
 
 ## 📖 できればこれも
 
-- [record](/record)：記録、記録する
-- [report](/report)：報告、報告書
+- [record](/word/record)：記録、記録する
+- [report](/word/report)：報告、報告書
 
 <!-- cvid: aid32_bid22 -->

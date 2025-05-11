@@ -97,7 +97,7 @@ TOEICでは、オフィスや製品の説明文、広告などで「decorative�
 ## 🤔  ornamental との違いは？
 
 - **decorative**：見た目を美しくするための、装飾目的の（一般的な装飾全般に使う）
-- **[ornamental](/ornamental)**：装飾用の（特に芸術的・伝統的な装飾や、実用性よりも美しさを強調する場合に使う）
+- **[ornamental](/word/ornamental)**：装飾用の（特に芸術的・伝統的な装飾や、実用性よりも美しさを強調する場合に使う）
 
 「decorative」は幅広い装飾に使えますが、「ornamental」はより芸術的・伝統的な装飾や、実用性がほとんどない飾りに使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、オフィスや製品の説明文、広告などで「decorative�
 
 ## 🧩 あわせて覚えたい
 
-- [functional](/functional)：機能的な、実用的な
-- [aesthetic](/aesthetic)：美的な、美学の
+- [functional](/word/functional)：機能的な、実用的な
+- [aesthetic](/word/aesthetic)：美的な、美学の
 
 ---
 
 ## 📖 できればこれも
 
-- [practical](/practical)：実用的な
-- [artistic](/artistic)：芸術的な
+- [practical](/word/practical)：実用的な
+- [artistic](/word/artistic)：芸術的な
 
 <!-- cvid: aid28_bid38 -->

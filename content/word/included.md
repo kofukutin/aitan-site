@@ -97,7 +97,7 @@ TOEICでは「料金に含まれている」「書類が同封されている」
 ## 🤔  contained との違いは？
 
 - **included**：全体の一部として「含まれている」ことを強調
-- **[contained](/contained)**：物理的・抽象的に「中に入っている」ことを強調
+- **[contained](/word/contained)**：物理的・抽象的に「中に入っている」ことを強調
 
 「included」はリストや料金などに「含まれている」ことを表し、「contained」は箱や容器など「中に入っている」ことを表します。
 
@@ -105,14 +105,14 @@ TOEICでは「料金に含まれている」「書類が同封されている」
 
 ## 🧩 あわせて覚えたい
 
-- [excluded](/excluded)：除外された
-- [attached](/attached)：添付された
+- [excluded](/word/excluded)：除外された
+- [attached](/word/attached)：添付された
 
 ---
 
 ## 📖 できればこれも
 
-- [provided](/provided)：提供された
-- [required](/required)：必要とされる
+- [provided](/word/provided)：提供された
+- [required](/word/required)：必要とされる
 
 <!-- cvid: aid31_bid44 -->

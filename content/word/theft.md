@@ -98,7 +98,7 @@ TOEICでは、盗難や犯罪に関する記事や通知文、報告書などで
 ## 🤔  robbery との違いは？
 
 - **theft**：暴力や脅しを伴わない「盗み」全般を指す。
-- **[robbery](/robbery)**：暴力や脅しを使って物を奪う「強盗」。
+- **[robbery](/word/robbery)**：暴力や脅しを使って物を奪う「強盗」。
 
 theftは静かに盗む行為、robberyは力や脅しを使う点が大きな違いです。
 
@@ -106,14 +106,14 @@ theftは静かに盗む行為、robberyは力や脅しを使う点が大きな�
 
 ## 🧩 あわせて覚えたい
 
-- [burglary](/burglary)：住居侵入窃盗
-- [fraud](/fraud)：詐欺
+- [burglary](/word/burglary)：住居侵入窃盗
+- [fraud](/word/fraud)：詐欺
 
 ---
 
 ## 📖 できればこれも
 
-- [crime](/crime)：犯罪
-- [damage](/damage)：損害
+- [crime](/word/crime)：犯罪
+- [damage](/word/damage)：損害
 
 <!-- cvid: aid39_bid34 -->

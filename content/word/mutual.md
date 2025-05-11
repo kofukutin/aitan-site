@@ -97,7 +97,7 @@ TOEICではビジネス文書や契約、会議の場面で「mutual understandi
 ## 🤔  reciprocal との違いは？
 
 - **mutual**：2者以上の間で「お互いに」や「共通して」持っていることを表す。
-- **[reciprocal](/reciprocal)**：より形式的で「相互に作用し合う」「お返しの」という意味が強い。
+- **[reciprocal](/word/reciprocal)**：より形式的で「相互に作用し合う」「お返しの」という意味が強い。
 
 mutualは「共通の友人」や「相互理解」など広く使われ、reciprocalは「相互作用」や「お返し」のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ mutualは「共通の友人」や「相互理解」など広く使われ、recip
 
 ## 🧩 あわせて覚えたい
 
-- [shared](/shared)：共有の、共通の
-- [common](/common)：共通の、一般的な
+- [shared](/word/shared)：共有の、共通の
+- [common](/word/common)：共通の、一般的な
 
 ---
 
 ## 📖 できればこれも
 
-- [joint](/joint)：共同の
-- [collective](/collective)：集団の、共同の
+- [joint](/word/joint)：共同の
+- [collective](/word/collective)：集団の、共同の
 
 <!-- cvid: aid47_bid01 -->

@@ -97,7 +97,7 @@ TOEICの写真描写問題で、ビジネスマンが持っているかばんと
 ## 🤔  suitcase との違いは？
 
 - **briefcase**：書類やノートPCなどを入れるビジネス用の薄型かばん
-- **[suitcase](/suitcase)**：衣類などを入れる旅行用のスーツケース
+- **[suitcase](/word/suitcase)**：衣類などを入れる旅行用のスーツケース
 
 briefcaseは主にビジネスシーンで使う書類かばん、suitcaseは旅行や出張で使う大きな荷物用かばんです。
 
@@ -105,14 +105,14 @@ briefcaseは主にビジネスシーンで使う書類かばん、suitcaseは旅
 
 ## 🧩 あわせて覚えたい
 
-- [portfolio](/portfolio)：書類や作品を入れる薄型ケース
-- [document](/document)：書類、文書
+- [portfolio](/word/portfolio)：書類や作品を入れる薄型ケース
+- [document](/word/document)：書類、文書
 
 ---
 
 ## 📖 できればこれも
 
-- [folder](/folder)：フォルダー、書類入れ
-- [envelope](/envelope)：封筒
+- [folder](/word/folder)：フォルダー、書類入れ
+- [envelope](/word/envelope)：封筒
 
 <!-- cvid: aid27_bid07 -->

@@ -97,7 +97,7 @@ TOEICでは趣味や余暇、教育に関する長文やEメール文中で登�
 ## 🤔  checkers との違いは？
 
 - **chess**：白黒の駒とキングを使い、戦略的に相手を詰ませるボードゲーム。
-- **[checkers](/checkers)**：同じくボード上で駒を動かすが、駒の動きやルールが異なるシンプルなゲーム。
+- **[checkers](/word/checkers)**：同じくボード上で駒を動かすが、駒の動きやルールが異なるシンプルなゲーム。
 
 chessはより複雑で戦略的なゲーム、checkersはルールが簡単で直感的なゲームです。
 
@@ -105,14 +105,14 @@ chessはより複雑で戦略的なゲーム、checkersはルールが簡単で�
 
 ## 🧩 あわせて覚えたい
 
-- [board game](/board_game)：ボードゲーム
-- [strategy](/strategy)：戦略
+- [board game](/word/board_game)：ボードゲーム
+- [strategy](/word/strategy)：戦略
 
 ---
 
 ## 📖 できればこれも
 
-- [puzzle](/puzzle)：パズル
-- [card](/card)：カード（カードゲーム）
+- [puzzle](/word/puzzle)：パズル
+- [card](/word/card)：カード（カードゲーム）
 
 <!-- cvid: aid08_bid25 -->

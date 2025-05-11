@@ -104,7 +104,7 @@ TOEICでは、職場でのハラスメントや規則違反、権限の乱用な
 ## 🤔  misuse との違いは？
 
 - **abuse**：意図的に悪用・虐待する、強い否定的ニュアンス
-- **[misuse](/misuse)**：誤って使う、または不適切に使う（悪意がない場合も含む）
+- **[misuse](/word/misuse)**：誤って使う、または不適切に使う（悪意がない場合も含む）
 
 abuseは「悪意ある乱用・虐待」、misuseは「間違った使い方」と、意図や悪質さの度合いが異なります。
 
@@ -112,14 +112,14 @@ abuseは「悪意ある乱用・虐待」、misuseは「間違った使い方」
 
 ## 🧩 あわせて覚えたい
 
-- [harm](/harm)：害、損害
-- [neglect](/neglect)：怠慢、無視
+- [harm](/word/harm)：害、損害
+- [neglect](/word/neglect)：怠慢、無視
 
 ---
 
 ## 📖 できればこれも
 
-- [violation](/violation)：違反、侵害
-- [fraud](/fraud)：詐欺、不正
+- [violation](/word/violation)：違反、侵害
+- [fraud](/word/fraud)：詐欺、不正
 
 <!-- cvid: aid16_bid17 -->

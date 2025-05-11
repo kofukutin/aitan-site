@@ -98,7 +98,7 @@ TOEICでは「具体的な」「明確な」という意味で形容詞として
 ## 🤔  specific との違いは？
 
 - **concrete**：抽象的でなく、実際に形や内容があることを強調
-- **[specific](/specific)**：範囲や内容が限定されていることを強調
+- **[specific](/word/specific)**：範囲や内容が限定されていることを強調
 
 concreteは「実体がある」「目に見える」ニュアンス、specificは「限定的」「詳細に特定された」ニュアンスです。
 
@@ -106,14 +106,14 @@ concreteは「実体がある」「目に見える」ニュアンス、specific�
 
 ## 🧩 あわせて覚えたい
 
-- [abstract](/abstract)：抽象的な
-- [tangible](/tangible)：触れられる、明確な
+- [abstract](/word/abstract)：抽象的な
+- [tangible](/word/tangible)：触れられる、明確な
 
 ---
 
 ## 📖 できればこれも
 
-- [precise](/precise)：正確な
-- [detail](/detail)：詳細
+- [precise](/word/precise)：正確な
+- [detail](/word/detail)：詳細
 
 <!-- cvid: aid14_bid13 -->

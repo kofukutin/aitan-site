@@ -96,7 +96,7 @@ TOEICでは広告や案内文、ビジネス文書で「全国的なサービス
 ## 🤔  throughout との違いは？
 
 - **nationwide**：全国の範囲で、国全体にわたって
-- **[throughout](/throughout)**：～の至る所に、～の間ずっと
+- **[throughout](/word/throughout)**：～の至る所に、～の間ずっと
 
 nationwideは「国全体」という範囲を強調し、throughoutは「場所や期間のすみずみまで」という広がりや継続を強調します。
 
@@ -104,14 +104,14 @@ nationwideは「国全体」という範囲を強調し、throughoutは「場所
 
 ## 🧩 あわせて覚えたい
 
-- [domestic](/domestic)：国内の
-- [international](/international)：国際的な
+- [domestic](/word/domestic)：国内の
+- [international](/word/international)：国際的な
 
 ---
 
 ## 📖 できればこれも
 
-- [region](/region)：地域
-- [local](/local)：地元の、地域の
+- [region](/word/region)：地域
+- [local](/word/local)：地元の、地域の
 
 <!-- cvid: aid39_bid34 -->

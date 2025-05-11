@@ -98,7 +98,7 @@ appearedはTOEICの会話文や説明文で「現れる」「～のように見�
 ## 🤔  seemed との違いは？
 
 - **appeared**：実際に目に見えて現れる、または見かけ上そう見える
-- **[seemed](/seemed)**：主観的な印象や感じ方を表す
+- **[seemed](/word/seemed)**：主観的な印象や感じ方を表す
 
 appearedは「実際に姿が見えた」や「外見上そう見える」ときに使い、seemedは「そう感じた」「印象としてそうだった」と主観的なニュアンスが強いです。
 
@@ -106,14 +106,14 @@ appearedは「実際に姿が見えた」や「外見上そう見える」とき
 
 ## 🧩 あわせて覚えたい
 
-- [emerged](/emerged)：現れた、出現した
-- [disappeared](/disappeared)：消えた、見えなくなった
+- [emerged](/word/emerged)：現れた、出現した
+- [disappeared](/word/disappeared)：消えた、見えなくなった
 
 ---
 
 ## 📖 できればこれも
 
-- [arrived](/arrived)：到着した
-- [occurred](/occurred)：起こった、発生した
+- [arrived](/word/arrived)：到着した
+- [occurred](/word/occurred)：起こった、発生した
 
 <!-- cvid: aid19_bid29 -->

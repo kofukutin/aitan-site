@@ -97,7 +97,7 @@ TOEICでは、証明書類や証拠を求める文脈でよく登場します。
 ## 🤔  evidence との違いは？
 
 - **proof**：決定的な証拠や証明、疑いなく真実と示すもの
-- **[evidence](/evidence)**：事実や主張を裏付けるための情報や手がかり
+- **[evidence](/word/evidence)**：事実や主張を裏付けるための情報や手がかり
 
 proofは「これで間違いない」と断言できる証拠、evidenceは「証拠となりうる情報や材料」というニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ proofは「これで間違いない」と断言できる証拠、evidenceは「�
 
 ## 🧩 あわせて覚えたい
 
-- [confirmation](/confirmation)：確認、確証
-- [verification](/verification)：検証、確認
+- [confirmation](/word/confirmation)：確認、確証
+- [verification](/word/verification)：検証、確認
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/document)：書類、文書
-- [certificate](/certificate)：証明書
+- [document](/word/document)：書類、文書
+- [certificate](/word/certificate)：証明書
 
 <!-- cvid: aid33_bid40 -->

@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「不快」「気まずい」状況を表す際
 ## 🤔  awkward との違いは？
 
 - **uncomfortable**：物理的・精神的に「不快」「居心地が悪い」状態全般を指す
-- **[awkward](/awkward)**：主に「気まずい」「ぎこちない」など、人間関係や場面の不自然さを強調
+- **[awkward](/word/awkward)**：主に「気まずい」「ぎこちない」など、人間関係や場面の不自然さを強調
 
 uncomfortableは広く「不快」な感覚全般に使い、awkwardは特に人間関係や場面の「気まずさ」「ぎこちなさ」に焦点を当てます。
 
@@ -105,14 +105,14 @@ uncomfortableは広く「不快」な感覚全般に使い、awkwardは特に人
 
 ## 🧩 あわせて覚えたい
 
-- [comfortable](/comfortable)：快適な
-- [uneasy](/uneasy)：不安な、落ち着かない
+- [comfortable](/word/comfortable)：快適な
+- [uneasy](/word/uneasy)：不安な、落ち着かない
 
 ---
 
 ## 📖 できればこれも
 
-- [nervous](/nervous)：緊張している
-- [relaxed](/relaxed)：くつろいだ
+- [nervous](/word/nervous)：緊張している
+- [relaxed](/word/relaxed)：くつろいだ
 
 <!-- cvid: aid26_bid15 -->

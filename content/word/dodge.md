@@ -98,7 +98,7 @@ TOEICでは会話文やビジネスシーンで、責任や質問を「うまく
 ## 🤔  avoid との違いは？
 
 - **dodge**：すばやく身をかわす、または巧妙にごまかして避けるニュアンス
-- **[avoid](/avoid)**：危険や問題などを意識的に避ける、一般的な「避ける」
+- **[avoid](/word/avoid)**：危険や問題などを意識的に避ける、一般的な「避ける」
 
 dodgeは「瞬間的・巧妙に避ける」イメージが強く、avoidは「意識的に近づかない」広い意味で使われます。
 
@@ -106,14 +106,14 @@ dodgeは「瞬間的・巧妙に避ける」イメージが強く、avoidは「�
 
 ## 🧩 あわせて覚えたい
 
-- [evade](/evade)：（巧妙に）逃れる、回避する
-- [confront](/confront)：立ち向かう、直面する
+- [evade](/word/evade)：（巧妙に）逃れる、回避する
+- [confront](/word/confront)：立ち向かう、直面する
 
 ---
 
 ## 📖 できればこれも
 
-- [escape](/escape)：逃げる、脱出する
-- [ignore](/ignore)：無視する
+- [escape](/word/escape)：逃げる、脱出する
+- [ignore](/word/ignore)：無視する
 
 <!-- cvid: aid18_bid48 -->

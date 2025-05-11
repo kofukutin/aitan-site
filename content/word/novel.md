@@ -97,7 +97,7 @@ TOEICのPart 7で、書籍や出版物に関する長文の中で「novel」が�
 ## 🤔  book との違いは？
 
 - **novel**：物語性のある長編フィクション（小説）を指す
-- **[book](/book)**：本全般（小説・教科書・辞書などすべて）を指す
+- **[book](/word/book)**：本全般（小説・教科書・辞書などすべて）を指す
 
 novelは「小説」というジャンルに限定されますが、bookはあらゆる種類の本を指します。
 
@@ -105,14 +105,14 @@ novelは「小説」というジャンルに限定されますが、bookはあ�
 
 ## 🧩 あわせて覚えたい
 
-- [story](/story)：物語、話
-- [fiction](/fiction)：フィクション、架空の物語
+- [story](/word/story)：物語、話
+- [fiction](/word/fiction)：フィクション、架空の物語
 
 ---
 
 ## 📖 できればこれも
 
-- [author](/author)：著者、作家
-- [chapter](/chapter)：章
+- [author](/word/author)：著者、作家
+- [chapter](/word/chapter)：章
 
 <!-- cvid: aid06_bid17 -->

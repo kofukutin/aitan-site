@@ -97,7 +97,7 @@ TOEICでは「例外」「除外」という意味で、規則や条件の説明
 ## 🤔  exclusion との違いは？
 
 - **exception**：一般的なルールや状況から外れる「例外」や「特別なケース」を指す。
-- **[exclusion](/exclusion)**：意図的に「除外すること」や「締め出し」を意味する。
+- **[exclusion](/word/exclusion)**：意図的に「除外すること」や「締め出し」を意味する。
 
 exceptionは「特別扱い」や「規則の例外」を表し、exclusionは「排除」や「含めないこと」に重点があります。
 
@@ -105,14 +105,14 @@ exceptionは「特別扱い」や「規則の例外」を表し、exclusionは�
 
 ## 🧩 あわせて覚えたい
 
-- [rule](/rule)：規則、ルール
-- [allowance](/allowance)：許容、手当
+- [rule](/word/rule)：規則、ルール
+- [allowance](/word/allowance)：許容、手当
 
 ---
 
 ## 📖 できればこれも
 
-- [condition](/condition)：条件
-- [restriction](/restriction)：制限
+- [condition](/word/condition)：条件
+- [restriction](/word/restriction)：制限
 
 <!-- cvid: aid21_bid27 -->

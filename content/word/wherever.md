@@ -93,7 +93,7 @@ TOEICでは会話や説明文で、場所を限定せずに何かを許可・提
 ## 🤔  anywhere との違いは？
 
 - **wherever**：どこで～しても（接続詞として文をつなぐ）
-- **[anywhere](/anywhere)**：どこでも（副詞として場所を表す）
+- **[anywhere](/word/anywhere)**：どこでも（副詞として場所を表す）
 
 whereverは文と文をつなぐ接続詞で、条件や範囲を強調します。anywhereは単独で場所を指す副詞です。
 
@@ -101,14 +101,14 @@ whereverは文と文をつなぐ接続詞で、条件や範囲を強調します
 
 ## 🧩 あわせて覚えたい
 
-- [whenever](/whenever)：いつでも
-- [everywhere](/everywhere)：どこでも（あらゆる場所で）
+- [whenever](/word/whenever)：いつでも
+- [everywhere](/word/everywhere)：どこでも（あらゆる場所で）
 
 ---
 
 ## 📖 できればこれも
 
-- [although](/although)：～だけれども
-- [unless](/unless)：～でない限り
+- [although](/word/although)：～だけれども
+- [unless](/word/unless)：～でない限り
 
 <!-- cvid: aid36_bid46 -->

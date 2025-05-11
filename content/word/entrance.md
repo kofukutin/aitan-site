@@ -97,7 +97,7 @@ TOEICでは建物や施設の写真描写問題で「入口」として頻出し
 ## 🤔  entry との違いは？
 
 - **entrance**：物理的な「入口」や「入場口」を指す
-- **[entry](/entry)**：入る行為や「記入」「参加」など抽象的な意味も持つ
+- **[entry](/word/entry)**：入る行為や「記入」「参加」など抽象的な意味も持つ
 
 entranceは「場所」としての入口、entryは「行為」や「記録」など幅広い意味で使われます。
 
@@ -105,14 +105,14 @@ entranceは「場所」としての入口、entryは「行為」や「記録」�
 
 ## 🧩 あわせて覚えたい
 
-- [exit](/exit)：出口
-- [admission](/admission)：入場、入学
+- [exit](/word/exit)：出口
+- [admission](/word/admission)：入場、入学
 
 ---
 
 ## 📖 できればこれも
 
-- [lobby](/lobby)：ロビー、玄関ホール
-- [hall](/hall)：ホール、広間
+- [lobby](/word/lobby)：ロビー、玄関ホール
+- [hall](/word/hall)：ホール、広間
 
 <!-- cvid: aid24_bid11 -->

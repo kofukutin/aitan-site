@@ -97,7 +97,7 @@ TOEICでは観光やレストラン、商品紹介などの長文で「珍しい
 ## 🤔  foreign との違いは？
 
 - **exotic**：異国的で珍しく、魅力的なニュアンスがある
-- **[foreign](/foreign)**：単に「外国の」「自国でない」という意味
+- **[foreign](/word/foreign)**：単に「外国の」「自国でない」という意味
 
 exoticは「珍しさ」や「魅力」を含みますが、foreignは単に「外国の」という事実を表します。
 
@@ -105,15 +105,15 @@ exoticは「珍しさ」や「魅力」を含みますが、foreignは単に「�
 
 ## 🧩 あわせて覚えたい
 
-- [unusual](/unusual)：珍しい、普通でない
-- [native](/native)：その土地の、土着の
+- [unusual](/word/unusual)：珍しい、普通でない
+- [native](/word/native)：その土地の、土着の
 
 ---
 
 ## 📖 できればこれも
 
-- [unique](/unique)：唯一の、独特な
-- [tropical](/tropical)：熱帯の
+- [unique](/word/unique)：唯一の、独特な
+- [tropical](/word/tropical)：熱帯の
 
 ---
 <!-- cvid: aid07_bid37 -->

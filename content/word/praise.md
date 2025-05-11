@@ -97,7 +97,7 @@ TOEICでは会議や職場でのやりとり、成果を認める場面でよく
 ## 🤔  compliment との違いは？
 
 - **praise**：行動や成果などを評価してほめること
-- **[compliment](/compliment)**：相手の外見や持ち物などに対する軽いほめ言葉
+- **[compliment](/word/compliment)**：相手の外見や持ち物などに対する軽いほめ言葉
 
 praiseは努力や成果など本質的な価値を認めてほめる時に使い、complimentは日常的なちょっとしたほめ言葉に使います。
 
@@ -105,14 +105,14 @@ praiseは努力や成果など本質的な価値を認めてほめる時に使�
 
 ## 🧩 あわせて覚えたい
 
-- [criticism](/criticism)：批判、非難
-- [admiration](/admiration)：感嘆、称賛
+- [criticism](/word/criticism)：批判、非難
+- [admiration](/word/admiration)：感嘆、称賛
 
 ---
 
 ## 📖 できればこれも
 
-- [reward](/reward)：報酬、褒美
-- [encourage](/encourage)：励ます
+- [reward](/word/reward)：報酬、褒美
+- [encourage](/word/encourage)：励ます
 
 <!-- cvid: aid45_bid49 -->

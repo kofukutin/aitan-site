@@ -97,7 +97,7 @@ The hostel offers free Wi-Fi and breakfast for guests.
 ## 🤔  hotel との違いは？
 
 - **hostel**：相部屋が多く、安価で簡素な宿泊施設。主に若者やバックパッカー向け。
-- **[hotel](/hotel)**：個室が基本で、設備やサービスが充実した一般的な宿泊施設。
+- **[hotel](/word/hotel)**：個室が基本で、設備やサービスが充実した一般的な宿泊施設。
 
 hostelは「安く泊まれる共同部屋中心の宿」、hotelは「個室で快適なサービス付きの宿」と覚えると区別しやすいです。
 
@@ -105,14 +105,14 @@ hostelは「安く泊まれる共同部屋中心の宿」、hotelは「個室で
 
 ## 🧩 あわせて覚えたい
 
-- [dormitory](/dormitory)：寮、共同生活のための建物
-- [guesthouse](/guesthouse)：小規模な宿泊施設、民宿
+- [dormitory](/word/dormitory)：寮、共同生活のための建物
+- [guesthouse](/word/guesthouse)：小規模な宿泊施設、民宿
 
 ---
 
 ## 📖 できればこれも
 
-- [lodge](/lodge)：山小屋、ロッジ
-- [inn](/inn)：旅館、宿屋
+- [lodge](/word/lodge)：山小屋、ロッジ
+- [inn](/word/inn)：旅館、宿屋
 
 <!-- cvid: aid31_bid13 -->

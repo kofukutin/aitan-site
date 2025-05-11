@@ -97,7 +97,7 @@ TOEICでは、役職や賞の候補者選出、推薦に関する文脈で出題
 ## 🤔  appointment との違いは？
 
 - **nomination**：候補者として指名・推薦すること（決定前の段階）
-- **[appointment](/appointment)**：正式に任命・就任させること（決定後の段階）
+- **[appointment](/word/appointment)**：正式に任命・就任させること（決定後の段階）
 
 nominationは「候補に挙げる」段階、appointmentは「実際に役職などに就ける」段階で使い分けます。
 
@@ -105,14 +105,14 @@ nominationは「候補に挙げる」段階、appointmentは「実際に役職�
 
 ## 🧩 あわせて覚えたい
 
-- [recommendation](/recommendation)：推薦、推薦状
-- [election](/election)：選挙、選出
+- [recommendation](/word/recommendation)：推薦、推薦状
+- [election](/word/election)：選挙、選出
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/candidate)：候補者
-- [selection](/selection)：選択、選抜
+- [candidate](/word/candidate)：候補者
+- [selection](/word/selection)：選択、選抜
 
 <!-- cvid: aid47_bid15 -->

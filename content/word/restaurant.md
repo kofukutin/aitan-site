@@ -97,7 +97,7 @@ TOEICでは会話や説明文で頻出し、場所や予定、予約などの文
 ## 🤔  cafeteria との違いは？
 
 - **restaurant**：一般的な飲食店。フルサービスや多様な料理を提供する。
-- **[cafeteria](/cafeteria)**：セルフサービス式の食堂やカフェテリア。
+- **[cafeteria](/word/cafeteria)**：セルフサービス式の食堂やカフェテリア。
 
 restaurantは注文を取りに来るスタッフがいることが多く、cafeteriaは自分で料理を選んで運ぶ形式が一般的です。
 
@@ -105,14 +105,14 @@ restaurantは注文を取りに来るスタッフがいることが多く、cafe
 
 ## 🧩 あわせて覚えたい
 
-- [diner](/diner)：アメリカのカジュアルな食堂
-- [bistro](/bistro)：小さなレストラン、ビストロ
+- [diner](/word/diner)：アメリカのカジュアルな食堂
+- [bistro](/word/bistro)：小さなレストラン、ビストロ
 
 ---
 
 ## 📖 できればこれも
 
-- [menu](/menu)：メニュー、献立表
-- [reservation](/reservation)：予約
+- [menu](/word/menu)：メニュー、献立表
+- [reservation](/word/reservation)：予約
 
 <!-- cvid: aid29_bid11 -->

@@ -97,7 +97,7 @@ TOEICでは、説明文やEメール、案内文などの読解問題で「dicti
 ## 🤔  glossary との違いは？
 
 - **dictionary**：単語や用語をアルファベット順に詳しく解説した本やデータベース
-- **[glossary](/glossary)**：特定の本や分野に出てくる専門用語の簡単な一覧
+- **[glossary](/word/glossary)**：特定の本や分野に出てくる専門用語の簡単な一覧
 
 dictionaryは幅広い単語を網羅的に解説しますが、glossaryは特定分野や本の中の専門用語を簡潔にまとめたリストです。
 
@@ -105,14 +105,14 @@ dictionaryは幅広い単語を網羅的に解説しますが、glossaryは特�
 
 ## 🧩 あわせて覚えたい
 
-- [encyclopedia](/encyclopedia)：百科事典
-- [thesaurus](/thesaurus)：類語辞典
+- [encyclopedia](/word/encyclopedia)：百科事典
+- [thesaurus](/word/thesaurus)：類語辞典
 
 ---
 
 ## 📖 できればこれも
 
-- [textbook](/textbook)：教科書
-- [reference](/reference)：参考文献、参照
+- [textbook](/word/textbook)：教科書
+- [reference](/word/reference)：参考文献、参照
 
 <!-- cvid: aid26_bid25 -->

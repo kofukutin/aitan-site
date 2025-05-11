@@ -97,7 +97,7 @@ The city's historic fort attracts many tourists every year.
 ## 🤔  fortress との違いは？
 
 - **fort**：比較的小規模な要塞や砦を指し、軍事的・歴史的な文脈で使われることが多い
-- **[fortress](/fortress)**：大規模で堅固な要塞を指し、より防御力が高い印象
+- **[fortress](/word/fortress)**：大規模で堅固な要塞を指し、より防御力が高い印象
 
 fortは小さめの防御施設、fortressは大きくて堅牢な要塞というニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ fortは小さめの防御施設、fortressは大きくて堅牢な要塞とい�
 
 ## 🧩 あわせて覚えたい
 
-- [castle](/castle)：城
-- [barracks](/barracks)：兵舎
+- [castle](/word/castle)：城
+- [barracks](/word/barracks)：兵舎
 
 ---
 
 ## 📖 できればこれも
 
-- [tower](/tower)：塔
-- [gate](/gate)：門
+- [tower](/word/tower)：塔
+- [gate](/word/gate)：門
 
 <!-- cvid: aid06_bid00 -->

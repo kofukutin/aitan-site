@@ -97,7 +97,7 @@ TOEICでは、職業団体や専門組織に関する記事やメール文中で
 ## 🤔  association との違いは？
 
 - **guild**：特定の職業や目的を持つ人々の団体、特に職人や専門職の組合に使う
-- **[association](/association)**：共通の関心や目的を持つ人々の一般的な団体
+- **[association](/word/association)**：共通の関心や目的を持つ人々の一般的な団体
 
 guildは職業や専門性に特化した団体に使われるのに対し、associationはより幅広い目的や関心の団体に使われます。
 
@@ -105,14 +105,14 @@ guildは職業や専門性に特化した団体に使われるのに対し、ass
 
 ## 🧩 あわせて覚えたい
 
-- [union](/union)：労働組合、連合
-- [organization](/organization)：組織、団体
+- [union](/word/union)：労働組合、連合
+- [organization](/word/organization)：組織、団体
 
 ---
 
 ## 📖 できればこれも
 
-- [committee](/committee)：委員会
-- [council](/council)：評議会、協議会
+- [committee](/word/committee)：委員会
+- [council](/word/council)：評議会、協議会
 
 <!-- cvid: aid43_bid46 -->

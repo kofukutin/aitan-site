@@ -97,7 +97,7 @@ TOEICでは、会社の財務状況や経済ニュース、ビジネス文書な
 ## 🤔  fiscal との違いは？
 
 - **financial**：お金や資金、財務全般に関する
-- **[fiscal](/fiscal)**：会計年度や政府の財政に関する
+- **[fiscal](/word/fiscal)**：会計年度や政府の財政に関する
 
 **financial**は広く「お金」に関すること全般を指しますが、**fiscal**は特に「会計年度」や「政府の財政」に限定して使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、会社の財務状況や経済ニュース、ビジネス文書な
 
 ## 🧩 あわせて覚えたい
 
-- [monetary](/monetary)：通貨の、金融の
-- [economic](/economic)：経済の、経済的な
+- [monetary](/word/monetary)：通貨の、金融の
+- [economic](/word/economic)：経済の、経済的な
 
 ---
 
 ## 📖 できればこれも
 
-- [investment](/investment)：投資
-- [budget](/budget)：予算
+- [investment](/word/investment)：投資
+- [budget](/word/budget)：予算
 
 <!-- cvid: aid34_bid39 -->

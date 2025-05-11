@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やメール、広告文などで「昇進」
 ## 🤔  advancement との違いは？
 
 - **promotion**：昇進や販促など、地位や売上などを「押し上げる」具体的な行動や出来事を指す
-- **[advancement](/advancement)**：進歩や発展など、より広い意味での「前進」や「向上」を指す
+- **[advancement](/word/advancement)**：進歩や発展など、より広い意味での「前進」や「向上」を指す
 
 promotionは会社での昇進や販促活動など具体的な場面で使い、advancementはキャリアや技術などの全体的な進歩に使います。
 
@@ -105,14 +105,14 @@ promotionは会社での昇進や販促活動など具体的な場面で使い�
 
 ## 🧩 あわせて覚えたい
 
-- [demotion](/demotion)：降格
-- [advertisement](/advertisement)：広告
+- [demotion](/word/demotion)：降格
+- [advertisement](/word/advertisement)：広告
 
 ---
 
 ## 📖 できればこれも
 
-- [bonus](/bonus)：ボーナス、賞与
-- [campaign](/campaign)：キャンペーン、運動
+- [bonus](/word/bonus)：ボーナス、賞与
+- [campaign](/word/campaign)：キャンペーン、運動
 
 <!-- cvid: aid47_bid07 -->

@@ -97,7 +97,7 @@ TOEICではビジネス記事や社内通知などで「merger」が頻出しま
 ## 🤔  acquisition との違いは？
 
 - **merger**：2社以上が対等な立場で1つに統合される合併
-- **[acquisition](/acquisition)**：一方の会社が他方を買収すること
+- **[acquisition](/word/acquisition)**：一方の会社が他方を買収すること
 
 mergerは「対等な合併」、acquisitionは「買収」と、主導権や力関係に違いがあります。
 
@@ -105,14 +105,14 @@ mergerは「対等な合併」、acquisitionは「買収」と、主導権や力
 
 ## 🧩 あわせて覚えたい
 
-- [alliance](/alliance)：提携、同盟
-- [integration](/integration)：統合、融合
+- [alliance](/word/alliance)：提携、同盟
+- [integration](/word/integration)：統合、融合
 
 ---
 
 ## 📖 できればこれも
 
-- [subsidiary](/subsidiary)：子会社
-- [partnership](/partnership)：提携、協力関係
+- [subsidiary](/word/subsidiary)：子会社
+- [partnership](/word/partnership)：提携、協力関係
 
 <!-- cvid: aid08_bid26 -->

@@ -97,7 +97,7 @@ TOEICでは請求書や会計、計算に関する文脈で「sum」が出題さ
 ## 🤔  total との違いは？
 
 - **sum**：数値や金額を足し合わせた合計、特に計算結果や金銭面で使うことが多い
-- **[total](/total)**：全体の総数や総量、数値以外にも幅広く使える
+- **[total](/word/total)**：全体の総数や総量、数値以外にも幅広く使える
 
 sumは計算や金額の合計に特化し、totalはより広い意味で「全体」を表します。
 
@@ -105,14 +105,14 @@ sumは計算や金額の合計に特化し、totalはより広い意味で「全
 
 ## 🧩 あわせて覚えたい
 
-- [amount](/amount)：量、金額
-- [balance](/balance)：残高、差額
+- [amount](/word/amount)：量、金額
+- [balance](/word/balance)：残高、差額
 
 ---
 
 ## 📖 できればこれも
 
-- [cost](/cost)：費用
-- [figure](/figure)：数字、金額
+- [cost](/word/cost)：費用
+- [figure](/word/figure)：数字、金額
 
 <!-- cvid: aid29_bid36 -->

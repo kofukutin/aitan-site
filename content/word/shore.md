@@ -97,7 +97,7 @@ shoreはTOEICのPart 1（写真描写）で、水辺や景色の説明として�
 ## 🤔  coast との違いは？
 
 - **shore**：水と陸の境界である「岸」や「岸辺」を指し、湖や川にも使える。
-- **[coast](/coast)**：特に「海岸線」や「沿岸地域」を指し、広い範囲の海沿いの土地を表す。
+- **[coast](/word/coast)**：特に「海岸線」や「沿岸地域」を指し、広い範囲の海沿いの土地を表す。
 
 shoreは水辺のすぐそばの陸地を指し、coastはより広い海沿いの地域や海岸線全体を指します。
 
@@ -105,14 +105,14 @@ shoreは水辺のすぐそばの陸地を指し、coastはより広い海沿い�
 
 ## 🧩 あわせて覚えたい
 
-- [beach](/beach)：砂浜
-- [bank](/bank)：川岸、土手
+- [beach](/word/beach)：砂浜
+- [bank](/word/bank)：川岸、土手
 
 ---
 
 ## 📖 できればこれも
 
-- [harbor](/harbor)：港
-- [island](/island)：島
+- [harbor](/word/harbor)：港
+- [island](/word/island)：島
 
 <!-- cvid: aid38_bid27 -->

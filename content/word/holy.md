@@ -97,7 +97,7 @@ The ceremony will be held at a holy site.
 ## 🤔  sacred との違いは？
 
 - **holy**：宗教的に神聖で、信仰の対象として特に敬われるものに使う。
-- **[sacred](/sacred)**：神聖であるが、宗教以外にも「大切に守るべきもの」にも使える。
+- **[sacred](/word/sacred)**：神聖であるが、宗教以外にも「大切に守るべきもの」にも使える。
 
 「holy」はより宗教的な意味合いが強く、「sacred」は宗教以外の大切なものにも幅広く使われます。
 
@@ -105,14 +105,14 @@ The ceremony will be held at a holy site.
 
 ## 🧩 あわせて覚えたい
 
-- [divine](/divine)：神の、神聖な
-- [profane](/profane)：不敬な、世俗的な
+- [divine](/word/divine)：神の、神聖な
+- [profane](/word/profane)：不敬な、世俗的な
 
 ---
 
 ## 📖 できればこれも
 
-- [spiritual](/spiritual)：精神的な、霊的な
-- [religious](/religious)：宗教の、信心深い
+- [spiritual](/word/spiritual)：精神的な、霊的な
+- [religious](/word/religious)：宗教の、信心深い
 
 <!-- cvid: aid39_bid36 -->

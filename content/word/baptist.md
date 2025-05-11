@@ -97,7 +97,7 @@ The baptist community organized a charity event.
 ## 🤔  protestant との違いは？
 
 - **baptist**：バプテスト教会の信者や教派を指し、洗礼を重視する特徴がある。
-- **[protestant](/protestant)**：キリスト教のプロテスタント全体を指し、バプテストもその一部。
+- **[protestant](/word/protestant)**：キリスト教のプロテスタント全体を指し、バプテストもその一部。
 
 baptistはprotestantの中の一つの教派で、特に洗礼の方法や信仰のスタイルに特徴があります。
 
@@ -105,14 +105,14 @@ baptistはprotestantの中の一つの教派で、特に洗礼の方法や信仰
 
 ## 🧩 あわせて覚えたい
 
-- [catholic](/catholic)：カトリック教会の信者、カトリック派
-- [minister](/minister)：（教会の）牧師、聖職者
+- [catholic](/word/catholic)：カトリック教会の信者、カトリック派
+- [minister](/word/minister)：（教会の）牧師、聖職者
 
 ---
 
 ## 📖 できればこれも
 
-- [sermon](/sermon)：説教
-- [worship](/worship)：礼拝
+- [sermon](/word/sermon)：説教
+- [worship](/word/worship)：礼拝
 
 <!-- cvid: aid14_bid45 -->

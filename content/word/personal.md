@@ -98,7 +98,7 @@ TOEICでは「personal information（個人情報）」や「personal items（�
 ## 🤔  private との違いは？
 
 - **personal**：個人に関する、個人的な
-- **[private](/private)**：他人に公開されていない、秘密の
+- **[private](/word/private)**：他人に公開されていない、秘密の
 
 「personal」は「自分自身や個人に関する」ことを指し、「private」は「他人に見せない・公開しない」ことを強調します。
 
@@ -106,14 +106,14 @@ TOEICでは「personal information（個人情報）」や「personal items（�
 
 ## 🧩 あわせて覚えたい
 
-- [individual](/individual)：個人の、個々の
-- [public](/public)：公共の、公の
+- [individual](/word/individual)：個人の、個々の
+- [public](/word/public)：公共の、公の
 
 ---
 
 ## 📖 できればこれも
 
-- [professional](/professional)：職業上の、専門的な
-- [official](/official)：公式の、公的な
+- [professional](/word/professional)：職業上の、専門的な
+- [official](/word/official)：公式の、公的な
 
 <!-- cvid: aid48_bid25 -->

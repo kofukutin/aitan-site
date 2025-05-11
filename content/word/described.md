@@ -97,7 +97,7 @@ TOEICでは、動詞の時制や受動態の文脈で「described」がよく出
 ## 🤔  explained との違いは？
 
 - **described**：特徴や様子を言葉で詳しく述べる
-- **[explained](/explained)**：理由や仕組みを分かりやすく説明する
+- **[explained](/word/explained)**：理由や仕組みを分かりやすく説明する
 
 「described」は見た目や状態などを描写する時に使い、「explained」は物事の理由や意味を明確に伝える時に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、動詞の時制や受動態の文脈で「described」がよく出
 
 ## 🧩 あわせて覚えたい
 
-- [illustrate](/illustrate)：例や図で説明する
-- [define](/define)：定義する、意味を明確にする
+- [illustrate](/word/illustrate)：例や図で説明する
+- [define](/word/define)：定義する、意味を明確にする
 
 ---
 
 ## 📖 できればこれも
 
-- [mention](/mention)：言及する
-- [report](/report)：報告する
+- [mention](/word/mention)：言及する
+- [report](/word/report)：報告する
 
 <!-- cvid: aid37_bid35 -->

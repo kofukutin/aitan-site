@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、公園や屋外での活動を説明
 ## 🤔  barbecue との違いは？
 
 - **picnic**：屋外で食事やレクリエーションを楽しむこと全般。特に料理方法は問わず、サンドイッチやお弁当など手軽な食事が多い。
-- **[barbecue](/barbecue)**：屋外で肉や野菜などを焼いて食べるイベント。調理方法が「焼く」に限定される。
+- **[barbecue](/word/barbecue)**：屋外で肉や野菜などを焼いて食べるイベント。調理方法が「焼く」に限定される。
 
 picnicは食事のスタイルや雰囲気を重視し、barbecueは調理方法（焼く）に焦点を当てます。
 
@@ -105,14 +105,14 @@ picnicは食事のスタイルや雰囲気を重視し、barbecueは調理方法
 
 ## 🧩 あわせて覚えたい
 
-- [excursion](/excursion)：遠足、小旅行
-- [outing](/outing)：外出、遠足
+- [excursion](/word/excursion)：遠足、小旅行
+- [outing](/word/outing)：外出、遠足
 
 ---
 
 ## 📖 できればこれも
 
-- [trip](/trip)：旅行
-- [lunch](/lunch)：昼食
+- [trip](/word/trip)：旅行
+- [lunch](/word/lunch)：昼食
 
 <!-- cvid: aid18_bid27 -->

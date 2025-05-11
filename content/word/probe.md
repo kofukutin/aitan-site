@@ -97,7 +97,7 @@ TOEICでは科学やビジネスの説明文、調査や分析に関する記事
 ## 🤔  investigate との違いは？
 
 - **probe**：特に科学的・技術的に「深く調べる」「探査機」など、フォーマルで専門的な調査を指す。
-- **[investigate](/investigate)**：一般的な「調査する」「捜査する」で、日常やビジネスでも幅広く使う。
+- **[investigate](/word/investigate)**：一般的な「調査する」「捜査する」で、日常やビジネスでも幅広く使う。
 
 probeは物理的・科学的な調査や機器を使った探査に多く使われ、investigateは事件や問題など幅広い調査に使われます。
 
@@ -105,14 +105,14 @@ probeは物理的・科学的な調査や機器を使った探査に多く使わ
 
 ## 🧩 あわせて覚えたい
 
-- [explore](/explore)：探検する、詳しく調べる
-- [inquiry](/inquiry)：問い合わせ、調査
+- [explore](/word/explore)：探検する、詳しく調べる
+- [inquiry](/word/inquiry)：問い合わせ、調査
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/analyze)：分析する
-- [detect](/detect)：発見する、検出する
+- [analyze](/word/analyze)：分析する
+- [detect](/word/detect)：発見する、検出する
 
 <!-- cvid: aid15_bid47 -->

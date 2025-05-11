@@ -97,7 +97,7 @@ TOEICでは「問題が解決された」「課題が解かれた」といった
 ## 🤔  resolved との違いは？
 
 - **solved**：主に「問題や謎を解決した」ときに使う、具体的な解決を強調。
-- **[resolved](/resolved)**：対立やトラブル、議論など「対人関係や状況の解決」によく使う。
+- **[resolved](/word/resolved)**：対立やトラブル、議論など「対人関係や状況の解決」によく使う。
 
 solvedはパズルや数学の問題など「答えがあるもの」に、resolvedは意見の不一致や紛争など「状況や対立」に使うことが多いです。
 
@@ -105,14 +105,14 @@ solvedはパズルや数学の問題など「答えがあるもの」に、resol
 
 ## 🧩 あわせて覚えたい
 
-- [fix](/fix)：修理する、直す
-- [address](/address)：（問題に）対処する
+- [fix](/word/fix)：修理する、直す
+- [address](/word/address)：（問題に）対処する
 
 ---
 
 ## 📖 できればこれも
 
-- [answer](/answer)：答える、答え
-- [explain](/explain)：説明する
+- [answer](/word/answer)：答える、答え
+- [explain](/word/explain)：説明する
 
 <!-- cvid: aid30_bid40 -->

@@ -97,7 +97,7 @@ TOEICではカフェやベーカリー、会議の軽食などの場面で登場
 ## 🤔  dessert との違いは？
 
 - **pastry**：パイやタルトなど、小麦粉生地を使った焼き菓子を指す
-- **[dessert](/dessert)**：食後に食べる甘いもの全般（アイスやゼリーも含む）
+- **[dessert](/word/dessert)**：食後に食べる甘いもの全般（アイスやゼリーも含む）
 
 pastryは焼き菓子に限定されますが、dessertは食後のデザート全般を指し、アイスやプリンなども含みます。
 
@@ -105,14 +105,14 @@ pastryは焼き菓子に限定されますが、dessertは食後のデザート�
 
 ## 🧩 あわせて覚えたい
 
-- [bread](/bread)：パン
-- [cake](/cake)：ケーキ
+- [bread](/word/bread)：パン
+- [cake](/word/cake)：ケーキ
 
 ---
 
 ## 📖 できればこれも
 
-- [bakery](/bakery)：パン屋、ベーカリー
-- [dough](/dough)：パンやペストリーの生地
+- [bakery](/word/bakery)：パン屋、ベーカリー
+- [dough](/word/dough)：パンやペストリーの生地
 
 <!-- cvid: aid32_bid14 -->

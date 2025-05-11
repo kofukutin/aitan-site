@@ -97,7 +97,7 @@ TOEICでは観光案内や美術館の説明文などで、建築様式や歴史
 ## 🤔  medieval との違いは？
 
 - **Gothic**：中世ヨーロッパの特定の建築・美術様式や雰囲気を指す
-- **[medieval](/medieval)**：中世そのもの、または中世時代に関する一般的な形容詞
+- **[medieval](/word/medieval)**：中世そのもの、または中世時代に関する一般的な形容詞
 
 Gothicは中世の中でも特に建築や芸術の様式を指し、medievalは時代全体や広い意味での「中世的」を表します。
 
@@ -106,13 +106,13 @@ Gothicは中世の中でも特に建築や芸術の様式を指し、medievalは
 ## 🧩 あわせて覚えたい
 
 - [Romanesque](/Romanesque)：ロマネスク様式（ゴシック以前の建築様式）
-- [baroque](/baroque)：バロック様式（ゴシック以降の華やかな建築・美術様式）
+- [baroque](/word/baroque)：バロック様式（ゴシック以降の華やかな建築・美術様式）
 
 ---
 
 ## 📖 できればこれも
 
-- [classic](/classic)：古典的な、伝統的な
-- [ancient](/ancient)：古代の、昔の
+- [classic](/word/classic)：古典的な、伝統的な
+- [ancient](/word/ancient)：古代の、昔の
 
 <!-- cvid: aid22_bid35 -->

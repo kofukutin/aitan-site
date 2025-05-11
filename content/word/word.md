@@ -97,7 +97,7 @@ TOEICではPart 5の文法・語彙問題でよく登場します。基本語彙
 ## 🤔  term との違いは？
 
 - **word**：一般的な「単語」や「言葉」を指す。
-- **[term](/term)**：特定の分野や状況で使われる「専門用語」や「期間」を指す。
+- **[term](/word/term)**：特定の分野や状況で使われる「専門用語」や「期間」を指す。
 
 wordは日常的な単語全般、termは専門的・限定的な意味で使われることが多いです。
 
@@ -105,14 +105,14 @@ wordは日常的な単語全般、termは専門的・限定的な意味で使わ
 
 ## 🧩 あわせて覚えたい
 
-- [phrase](/phrase)：句、フレーズ
-- [statement](/statement)：陳述、声明
+- [phrase](/word/phrase)：句、フレーズ
+- [statement](/word/statement)：陳述、声明
 
 ---
 
 ## 📖 できればこれも
 
-- [sentence](/sentence)：文
-- [letter](/letter)：文字
+- [sentence](/word/sentence)：文
+- [letter](/word/letter)：文字
 
 <!-- cvid: aid06_bid38 -->

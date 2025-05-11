@@ -97,7 +97,7 @@ TOEICでは「get rid of」の形で頻出し、不要なものを除去する�
 ## 🤔  remove との違いは？
 
 - **rid**：不要なものを「すっきり取り除く」「解放する」ニュアンスが強い
-- **[remove](/remove)**：物理的・抽象的に「取り除く」一般的な表現
+- **[remove](/word/remove)**：物理的・抽象的に「取り除く」一般的な表現
 
 「rid」は「get rid of」の形で使われ、邪魔なものや不要なものを完全に排除するイメージです。「remove」は単に取り除く動作を指します。
 
@@ -105,14 +105,14 @@ TOEICでは「get rid of」の形で頻出し、不要なものを除去する�
 
 ## 🧩 あわせて覚えたい
 
-- [eliminate](/eliminate)：（完全に）除去する、排除する
-- [discard](/discard)：不要なものを捨てる
+- [eliminate](/word/eliminate)：（完全に）除去する、排除する
+- [discard](/word/discard)：不要なものを捨てる
 
 ---
 
 ## 📖 できればこれも
 
-- [dispose](/dispose)：処分する、廃棄する
-- [replace](/replace)：取り替える、交換する
+- [dispose](/word/dispose)：処分する、廃棄する
+- [replace](/word/replace)：取り替える、交換する
 
 <!-- cvid: aid34_bid05 -->

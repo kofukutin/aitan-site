@@ -105,13 +105,13 @@ Novemberは秋の終わり、Decemberは年末や冬本番を表す点で使い�
 ## 🧩 あわせて覚えたい
 
 - [October](/October)：10月
-- [autumn](/autumn)：秋
+- [autumn](/word/autumn)：秋
 
 ---
 
 ## 📖 できればこれも
 
-- [calendar](/calendar)：カレンダー、暦
-- [holiday](/holiday)：休日
+- [calendar](/word/calendar)：カレンダー、暦
+- [holiday](/word/holiday)：休日
 
 <!-- cvid: aid41_bid44 -->

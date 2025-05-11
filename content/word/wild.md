@@ -97,7 +97,7 @@ TOEICでは自然や環境、動物に関する会話や説明文で「wild」�
 ## 🤔  untamed との違いは？
 
 - **wild**：自然のまま、制御されていない、荒々しい
-- **[untamed](/untamed)**：飼いならされていない、手つかずの
+- **[untamed](/word/untamed)**：飼いならされていない、手つかずの
 
 「wild」は自然のままの状態や荒々しさを広く表しますが、「untamed」は特に人の手で飼いならされていないことを強調します。
 
@@ -105,14 +105,14 @@ TOEICでは自然や環境、動物に関する会話や説明文で「wild」�
 
 ## 🧩 あわせて覚えたい
 
-- [domestic](/domestic)：飼いならされた、家庭の
-- [natural](/natural)：自然の、自然な
+- [domestic](/word/domestic)：飼いならされた、家庭の
+- [natural](/word/natural)：自然の、自然な
 
 ---
 
 ## 📖 できればこれも
 
-- [forest](/forest)：森
-- [animal](/animal)：動物
+- [forest](/word/forest)：森
+- [animal](/word/animal)：動物
 
 <!-- cvid: aid34_bid15 -->

@@ -97,7 +97,7 @@ TOEICでは、位置関係や意見の違いを表す文脈で「opposite」が�
 ## 🤔  contrary との違いは？
 
 - **opposite**：位置や性質が「正反対」で、物理的・抽象的な「向かい合う」関係を強調。
-- **[contrary](/contrary)**：主に「意見や性質が対立している」ことを表し、反論や対立のニュアンスが強い。
+- **[contrary](/word/contrary)**：主に「意見や性質が対立している」ことを表し、反論や対立のニュアンスが強い。
 
 「opposite」は物理的な位置や明確な正反対を指し、「contrary」は意見や態度など抽象的な対立に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、位置関係や意見の違いを表す文脈で「opposite」が�
 
 ## 🧩 あわせて覚えたい
 
-- [reverse](/reverse)：逆、反対
-- [adjacent](/adjacent)：隣接した
+- [reverse](/word/reverse)：逆、反対
+- [adjacent](/word/adjacent)：隣接した
 
 ---
 
 ## 📖 できればこれも
 
-- [similar](/similar)：似ている
-- [equal](/equal)：等しい
+- [similar](/word/similar)：似ている
+- [equal](/word/equal)：等しい
 
 <!-- cvid: aid20_bid36 -->

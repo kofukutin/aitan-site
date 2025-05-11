@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やEメール、請求書関連の長文で�
 ## 🤔  invoice との違いは？
 
 - **billing**：請求業務や請求全体の流れ・処理を指す
-- **[invoice](/invoice)**：個々の「請求書」そのものを指す
+- **[invoice](/word/invoice)**：個々の「請求書」そのものを指す
 
 billingは「請求する行為や業務全体」、invoiceは「実際の請求書」という違いがあります。
 
@@ -105,14 +105,14 @@ billingは「請求する行為や業務全体」、invoiceは「実際の請求
 
 ## 🧩 あわせて覚えたい
 
-- [payment](/payment)：支払い、支払金
-- [charge](/charge)：料金、請求額
+- [payment](/word/payment)：支払い、支払金
+- [charge](/word/charge)：料金、請求額
 
 ---
 
 ## 📖 できればこれも
 
-- [receipt](/receipt)：領収書
-- [statement](/statement)：明細書
+- [receipt](/word/receipt)：領収書
+- [statement](/word/statement)：明細書
 
 <!-- cvid: aid21_bid17 -->

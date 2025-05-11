@@ -97,7 +97,7 @@ TOEICでは、車や部屋、機器などの「レンタル」に関する会話
 ## 🤔  lease との違いは？
 
 - **rental**：短期間の賃貸やレンタル全般、物や料金そのものも指す
-- **[lease](/lease)**：長期間の賃貸契約やその契約書を指す
+- **[lease](/word/lease)**：長期間の賃貸契約やその契約書を指す
 
 「rental」は気軽なレンタルや短期の賃貸に使われ、「lease」は長期契約や正式な賃貸契約に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、車や部屋、機器などの「レンタル」に関する会話
 
 ## 🧩 あわせて覚えたい
 
-- [borrow](/borrow)：借りる（返却前提で一時的に使う）
-- [subscription](/subscription)：定期購読、定額利用
+- [borrow](/word/borrow)：借りる（返却前提で一時的に使う）
+- [subscription](/word/subscription)：定期購読、定額利用
 
 ---
 
 ## 📖 できればこれも
 
-- [reservation](/reservation)：予約
-- [deposit](/deposit)：保証金、預金
+- [reservation](/word/reservation)：予約
+- [deposit](/word/deposit)：保証金、預金
 
 <!-- cvid: aid02_bid36 -->

@@ -97,7 +97,7 @@ TOEICでは、趣味やスポーツイベントの話題で登場することが
 ## 🤔  softball との違いは？
 
 - **baseball**：バットと小さめの硬球を使い、広いフィールドで行う野球。
-- **[softball](/softball)**：やや大きくて柔らかいボールを使い、フィールドもやや狭いソフトボール。
+- **[softball](/word/softball)**：やや大きくて柔らかいボールを使い、フィールドもやや狭いソフトボール。
 
 baseballはより本格的で競技性が高く、softballはレクリエーションや女性向けスポーツとしても親しまれています。
 
@@ -105,14 +105,14 @@ baseballはより本格的で競技性が高く、softballはレクリエーシ�
 
 ## 🧩 あわせて覚えたい
 
-- [bat](/bat)：バット、野球の打撃用の棒
-- [pitcher](/pitcher)：投手、ピッチャー
+- [bat](/word/bat)：バット、野球の打撃用の棒
+- [pitcher](/word/pitcher)：投手、ピッチャー
 
 ---
 
 ## 📖 できればこれも
 
-- [soccer](/soccer)：サッカー
-- [basketball](/basketball)：バスケットボール
+- [soccer](/word/soccer)：サッカー
+- [basketball](/word/basketball)：バスケットボール
 
 <!-- cvid: aid02_bid04 -->

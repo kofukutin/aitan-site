@@ -97,7 +97,7 @@ TOEICでは、農業や環境、産業に関する長文や記事で出題され
 ## 🤔  farming との違いは？
 
 - **agricultural**：農業に関する（形容詞）。農業分野や農産物、農村など幅広く使う。
-- **[farming](/farming)**：農業（名詞）。実際の農作業や農業活動そのものを指す。
+- **[farming](/word/farming)**：農業（名詞）。実際の農作業や農業活動そのものを指す。
 
 「agricultural」は形容詞で幅広い農業関連の事柄に使い、「farming」は名詞で実際の農作業や営みを指します。
 
@@ -105,14 +105,14 @@ TOEICでは、農業や環境、産業に関する長文や記事で出題され
 
 ## 🧩 あわせて覚えたい
 
-- [industrial](/industrial)：産業の、工業の
-- [rural](/rural)：田舎の、農村の
+- [industrial](/word/industrial)：産業の、工業の
+- [rural](/word/rural)：田舎の、農村の
 
 ---
 
 ## 📖 できればこれも
 
-- [environmental](/environmental)：環境の
-- [economic](/economic)：経済の
+- [environmental](/word/environmental)：環境の
+- [economic](/word/economic)：経済の
 
 <!-- cvid: aid03_bid19 -->

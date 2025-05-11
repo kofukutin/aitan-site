@@ -97,7 +97,7 @@ TOEICでは「選択肢」「オプション」という意味で、設問や説
 ## 🤔  choice との違いは？
 
 - **option**：選択肢そのもの、選べるもの
-- **[choice](/choice)**：実際に選んだもの、または選ぶ行為
+- **[choice](/word/choice)**：実際に選んだもの、または選ぶ行為
 
 **option**は「選択肢」自体を指し、**choice**は「選ぶこと」や「選んだ結果」を強調します。
 
@@ -105,14 +105,14 @@ TOEICでは「選択肢」「オプション」という意味で、設問や説
 
 ## 🧩 あわせて覚えたい
 
-- [alternative](/alternative)：代替案、別の選択肢
-- [preference](/preference)：好み、優先されるもの
+- [alternative](/word/alternative)：代替案、別の選択肢
+- [preference](/word/preference)：好み、優先されるもの
 
 ---
 
 ## 📖 できればこれも
 
-- [select](/select)：選ぶ
-- [decision](/decision)：決定、判断
+- [select](/word/select)：選ぶ
+- [decision](/word/decision)：決定、判断
 
 <!-- cvid: aid35_bid32 -->

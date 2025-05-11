@@ -93,7 +93,7 @@ TOEICでは、理想的な条件や希望を述べる文脈で副詞として出
 ## 🤔  perfectly との違いは？
 
 - **ideally**：理想的な状況や希望をやんわり伝える
-- **[perfectly](/perfectly)**：完全に、申し分なくという意味で、現実に「完璧に」できていることを強調
+- **[perfectly](/word/perfectly)**：完全に、申し分なくという意味で、現実に「完璧に」できていることを強調
 
 ideallyは「理想としてはこうしたい」と現実とのギャップを含む場合に使い、perfectlyは「実際に完璧である」ことを表します。
 
@@ -101,14 +101,14 @@ ideallyは「理想としてはこうしたい」と現実とのギャップを�
 
 ## 🧩 あわせて覚えたい
 
-- [theoretically](/theoretically)：理論的には
-- [practically](/practically)：実際には
+- [theoretically](/word/theoretically)：理論的には
+- [practically](/word/practically)：実際には
 
 ---
 
 ## 📖 できればこれも
 
-- [typically](/typically)：典型的には
-- [generally](/generally)：一般的に
+- [typically](/word/typically)：典型的には
+- [generally](/word/generally)：一般的に
 
 <!-- cvid: aid28_bid46 -->

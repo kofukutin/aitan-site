@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やメールで「誤解を招く」「誤った
 ## 🤔  deceive との違いは？
 
 - **mislead**：意図的・無意識にかかわらず、相手を誤った方向に導くこと。
-- **[deceive](/deceive)**：意図的にだまして相手を信じ込ませること。
+- **[deceive](/word/deceive)**：意図的にだまして相手を信じ込ませること。
 
 misleadは「誤解させる」ニュアンスが強く、deceiveは「だまして信じ込ませる」意図がより明確です。
 
@@ -105,14 +105,14 @@ misleadは「誤解させる」ニュアンスが強く、deceiveは「だまし
 
 ## 🧩 あわせて覚えたい
 
-- [confuse](/confuse)：混乱させる
-- [clarify](/clarify)：明確にする
+- [confuse](/word/confuse)：混乱させる
+- [clarify](/word/clarify)：明確にする
 
 ---
 
 ## 📖 できればこれも
 
-- [distort](/distort)：歪める
-- [misinterpret](/misinterpret)：誤解する
+- [distort](/word/distort)：歪める
+- [misinterpret](/word/misinterpret)：誤解する
 
 <!-- cvid: aid47_bid36 -->

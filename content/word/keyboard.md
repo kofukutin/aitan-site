@@ -97,7 +97,7 @@ IT機器やオフィスの備品に関する会話や説明で登場すること
 ## 🤔  keypad との違いは？
 
 - **keyboard**：多くのキーが並ぶ入力装置全体（パソコンや楽器など）
-- **[keypad](/keypad)**：数字や少数のキーだけが並ぶ小型の入力装置
+- **[keypad](/word/keypad)**：数字や少数のキーだけが並ぶ小型の入力装置
 
 keyboardはフルサイズの入力装置、keypadは主に数字入力用などの小型装置を指します。
 
@@ -105,14 +105,14 @@ keyboardはフルサイズの入力装置、keypadは主に数字入力用など
 
 ## 🧩 あわせて覚えたい
 
-- [monitor](/monitor)：ディスプレイ、画面
-- [mouse](/mouse)：マウス（入力装置）
+- [monitor](/word/monitor)：ディスプレイ、画面
+- [mouse](/word/mouse)：マウス（入力装置）
 
 ---
 
 ## 📖 できればこれも
 
-- [screen](/screen)：画面
-- [button](/button)：ボタン
+- [screen](/word/screen)：画面
+- [button](/word/button)：ボタン
 
 <!-- cvid: aid11_bid10 -->

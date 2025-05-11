@@ -99,7 +99,7 @@ TOEICでは、交通や物流、IT機器の説明などで「port」が会話や
 ## 🤔  harbor との違いは？
 
 - **port**：商業用の大きな港やIT機器の接続口を指す
-- **[harbor](/harbor)**：船が安全に停泊できる自然の入り江や小さな港を指す
+- **[harbor](/word/harbor)**：船が安全に停泊できる自然の入り江や小さな港を指す
 
 「port」は商業的・物流的な機能を持つ大きな港やIT用語に使われ、「harbor」は自然の湾や小規模な港に使われます。
 
@@ -107,14 +107,14 @@ TOEICでは、交通や物流、IT機器の説明などで「port」が会話や
 
 ## 🧩 あわせて覚えたい
 
-- [terminal](/terminal)：終点、ターミナル
-- [dock](/dock)：埠頭、船着き場
+- [terminal](/word/terminal)：終点、ターミナル
+- [dock](/word/dock)：埠頭、船着き場
 
 ---
 
 ## 📖 できればこれも
 
-- [station](/station)：駅、拠点
-- [route](/route)：経路、ルート
+- [station](/word/station)：駅、拠点
+- [route](/word/route)：経路、ルート
 
 <!-- cvid: aid01_bid07 -->

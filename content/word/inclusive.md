@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文やビジネス文書で「inclusive policy（�
 ## 🤔  comprehensive との違いは？
 
 - **inclusive**：すべてを含み、誰も排除しない・多様性を受け入れる
-- **[comprehensive](/comprehensive)**：網羅的で、細部まで全体をカバーする
+- **[comprehensive](/word/comprehensive)**：網羅的で、細部まで全体をカバーする
 
 inclusiveは「人や要素を排除せず受け入れる」ニュアンスが強く、comprehensiveは「内容や範囲が広く、詳細まで含む」点が異なります。
 
@@ -105,14 +105,14 @@ inclusiveは「人や要素を排除せず受け入れる」ニュアンスが�
 
 ## 🧩 あわせて覚えたい
 
-- [exclusive](/exclusive)：排他的な、除外する
-- [diverse](/diverse)：多様な
+- [exclusive](/word/exclusive)：排他的な、除外する
+- [diverse](/word/diverse)：多様な
 
 ---
 
 ## 📖 できればこれも
 
-- [diversity](/diversity)：多様性
-- [collaborative](/collaborative)：協力的な
+- [diversity](/word/diversity)：多様性
+- [collaborative](/word/collaborative)：協力的な
 
 <!-- cvid: aid13_bid00 -->

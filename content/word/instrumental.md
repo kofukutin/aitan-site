@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やメールの中で「重要な役割を果
 ## 🤔  essential との違いは？
 
 - **instrumental**：何かを達成するのに「重要な役割を果たす」「手段となる」
-- **[essential](/essential)**：絶対に欠かせない、不可欠な
+- **[essential](/word/essential)**：絶対に欠かせない、不可欠な
 
 instrumentalは「成功や達成に大きく貢献する」ニュアンスで、essentialは「それがなければ成り立たない」ほどの必須性を表します。
 
@@ -105,14 +105,14 @@ instrumentalは「成功や達成に大きく貢献する」ニュアンスで�
 
 ## 🧩 あわせて覚えたい
 
-- [contributory](/contributory)：貢献する、寄与する
-- [incidental](/incidental)：付随的な、偶発的な
+- [contributory](/word/contributory)：貢献する、寄与する
+- [incidental](/word/incidental)：付随的な、偶発的な
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/significant)：重要な、意味のある
-- [crucial](/crucial)：極めて重要な、決定的な
+- [significant](/word/significant)：重要な、意味のある
+- [crucial](/word/crucial)：極めて重要な、決定的な
 
 <!-- cvid: aid09_bid01 -->

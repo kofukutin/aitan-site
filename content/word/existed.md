@@ -97,7 +97,7 @@ TOEICでは「exist」の過去形として、過去の事実や状態を説明�
 ## 🤔  lived との違いは？
 
 - **existed**：単に「存在した」「あった」という意味で、生命や活動に限らず幅広く使う。
-- **[lived](/lived)**：「生きていた」「生活していた」という意味で、主に人や動物など生命体に使う。
+- **[lived](/word/lived)**：「生きていた」「生活していた」という意味で、主に人や動物など生命体に使う。
 
 「existed」は物や概念にも使えるが、「lived」は生命のあるものに限定されます。
 
@@ -105,14 +105,14 @@ TOEICでは「exist」の過去形として、過去の事実や状態を説明�
 
 ## 🧩 あわせて覚えたい
 
-- [survive](/survive)：生き残る
-- [occur](/occur)：起こる、発生する
+- [survive](/word/survive)：生き残る
+- [occur](/word/occur)：起こる、発生する
 
 ---
 
 ## 📖 できればこれも
 
-- [appear](/appear)：現れる
-- [remain](/remain)：残る、留まる
+- [appear](/word/appear)：現れる
+- [remain](/word/remain)：残る、留まる
 
 <!-- cvid: aid08_bid13 -->

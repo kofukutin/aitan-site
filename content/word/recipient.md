@@ -97,7 +97,7 @@ TOEICではメールや通知文、ビジネス文書で「受取人」として
 ## 🤔  beneficiary との違いは？
 
 - **recipient**：何かを受け取る人全般（例：手紙、賞、メールなど）
-- **[beneficiary](/beneficiary)**：特に恩恵や利益、遺産などを受ける人
+- **[beneficiary](/word/beneficiary)**：特に恩恵や利益、遺産などを受ける人
 
 recipientは「受取人」として広く使われますが、beneficiaryは「利益や恩恵を受ける人」に限定されるため、法律や保険、遺産分野でよく使われます。
 
@@ -105,14 +105,14 @@ recipientは「受取人」として広く使われますが、beneficiaryは「
 
 ## 🧩 あわせて覚えたい
 
-- [sender](/sender)：送信者、送り主
-- [applicant](/applicant)：応募者、申請者
+- [sender](/word/sender)：送信者、送り主
+- [applicant](/word/applicant)：応募者、申請者
 
 ---
 
 ## 📖 できればこれも
 
-- [donor](/donor)：寄付者、提供者
-- [participant](/participant)：参加者
+- [donor](/word/donor)：寄付者、提供者
+- [participant](/word/participant)：参加者
 
 <!-- cvid: aid27_bid14 -->

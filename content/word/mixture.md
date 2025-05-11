@@ -97,7 +97,7 @@ TOEICでは、科学や製造、料理などの文脈で「混合物」として
 ## 🤔  combination との違いは？
 
 - **mixture**：物理的に混ざり合った「混合物」や「混ぜ合わせたもの」を指す。
-- **[combination](/combination)**：複数の要素が「組み合わさること」や「組み合わせ」を指し、必ずしも物理的に混ざる必要はない。
+- **[combination](/word/combination)**：複数の要素が「組み合わさること」や「組み合わせ」を指し、必ずしも物理的に混ざる必要はない。
 
 mixtureは実際に混ざったもの、combinationは要素の組み合わせや構成に重点があります。
 
@@ -105,14 +105,14 @@ mixtureは実際に混ざったもの、combinationは要素の組み合わせ�
 
 ## 🧩 あわせて覚えたい
 
-- [blend](/blend)：（なめらかに）混ぜる、混合物
-- [solution](/solution)：溶液、解決策
+- [blend](/word/blend)：（なめらかに）混ぜる、混合物
+- [solution](/word/solution)：溶液、解決策
 
 ---
 
 ## 📖 できればこれも
 
-- [substance](/substance)：物質、実体
-- [compound](/compound)：化合物、複合体
+- [substance](/word/substance)：物質、実体
+- [compound](/word/compound)：化合物、複合体
 
 <!-- cvid: aid28_bid05 -->

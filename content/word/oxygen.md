@@ -97,7 +97,7 @@ TOEICでは、科学や医療に関する長文や説明文で「oxygen」が登
 ## 🤔  air との違いは？
 
 - **oxygen**：空気中の成分の一つで、生物の呼吸や燃焼に不可欠な「酸素」そのものを指す。
-- **[air](/air)**：酸素・窒素などが混ざった「空気」全体を指す。
+- **[air](/word/air)**：酸素・窒素などが混ざった「空気」全体を指す。
 
 oxygenは空気の中の特定の成分（酸素）を指し、airはその全体（空気）を指します。呼吸や化学の話題では区別が重要です。
 
@@ -105,14 +105,14 @@ oxygenは空気の中の特定の成分（酸素）を指し、airはその全�
 
 ## 🧩 あわせて覚えたい
 
-- [hydrogen](/hydrogen)：水素（最も軽い気体）
-- [carbon dioxide](/carbon_dioxide)：二酸化炭素（呼吸や燃焼で発生する気体）
+- [hydrogen](/word/hydrogen)：水素（最も軽い気体）
+- [carbon dioxide](/word/carbon_dioxide)：二酸化炭素（呼吸や燃焼で発生する気体）
 
 ---
 
 ## 📖 できればこれも
 
-- [element](/element)：元素、要素
-- [gas](/gas)：気体
+- [element](/word/element)：元素、要素
+- [gas](/word/gas)：気体
 
 <!-- cvid: aid46_bid00 -->

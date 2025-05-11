@@ -97,7 +97,7 @@ TOEICでは「primary reason（主な理由）」や「primary objective（主�
 ## 🤔  main との違いは？
 
 - **primary**：最も重要・根本的・第一の
-- **[main](/main)**：主な、中心となる
+- **[main](/word/main)**：主な、中心となる
 
 「primary」は「最初」「最重要」「根本的」といったニュアンスが強く、順位や優先度を強調します。「main」は単に「主な」「中心の」という意味で、primaryほど順位や根本性を強調しません。
 
@@ -105,14 +105,14 @@ TOEICでは「primary reason（主な理由）」や「primary objective（主�
 
 ## 🧩 あわせて覚えたい
 
-- [principal](/principal)：主要な、最も重要な
-- [secondary](/secondary)：二次的な、補助的な
+- [principal](/word/principal)：主要な、最も重要な
+- [secondary](/word/secondary)：二次的な、補助的な
 
 ---
 
 ## 📖 できればこれも
 
-- [major](/major)：主要な、重要な
-- [essential](/essential)：不可欠な、本質的な
+- [major](/word/major)：主要な、重要な
+- [essential](/word/essential)：不可欠な、本質的な
 
 <!-- cvid: aid40_bid05 -->

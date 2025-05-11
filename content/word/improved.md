@@ -97,7 +97,7 @@ TOEICでは、製品やサービスの説明、業績の報告などで「improv
 ## 🤔  enhanced との違いは？
 
 - **improved**：以前より良くなった、改良された
-- **[enhanced](/enhanced)**：強化された、より高められた
+- **[enhanced](/word/enhanced)**：強化された、より高められた
 
 「improved」は一般的な改善や改良を指し、「enhanced」は特定の機能や特徴が強化された場合に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、製品やサービスの説明、業績の報告などで「improv
 
 ## 🧩 あわせて覚えたい
 
-- [better](/better)：より良い
-- [upgrade](/upgrade)：（名詞）アップグレード、（動詞）アップグレードする
+- [better](/word/better)：より良い
+- [upgrade](/word/upgrade)：（名詞）アップグレード、（動詞）アップグレードする
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/efficient)：効率的な
-- [effective](/effective)：効果的な
+- [efficient](/word/efficient)：効率的な
+- [effective](/word/effective)：効果的な
 
 <!-- cvid: aid02_bid24 -->

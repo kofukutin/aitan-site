@@ -97,7 +97,7 @@ TOEICでは、名詞や動詞のdefineとともに、形容詞definingも「決�
 ## 🤔  decisive との違いは？
 
 - **defining**：本質や特徴を決定づける、象徴的な
-- **[decisive](/decisive)**：決断力がある、決定的な（結果を左右する）
+- **[decisive](/word/decisive)**：決断力がある、決定的な（結果を左右する）
 
 definingは「そのものを特徴づける・象徴する」場面で使い、decisiveは「結果や判断を決定づける」場面で使います。
 
@@ -105,14 +105,14 @@ definingは「そのものを特徴づける・象徴する」場面で使い、
 
 ## 🧩 あわせて覚えたい
 
-- [determine](/determine)：決定する、決心する
-- [describe](/describe)：描写する、説明する
+- [determine](/word/determine)：決定する、決心する
+- [describe](/word/describe)：描写する、説明する
 
 ---
 
 ## 📖 できればこれも
 
-- [distinctive](/distinctive)：独特な、特徴的な
-- [crucial](/crucial)：極めて重要な
+- [distinctive](/word/distinctive)：独特な、特徴的な
+- [crucial](/word/crucial)：極めて重要な
 
 <!-- cvid: aid00_bid35 -->

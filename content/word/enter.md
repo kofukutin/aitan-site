@@ -97,7 +97,7 @@ TOEICでは「情報を入力する」「会議室に入る」など、ITやビ�
 ## 🤔  access との違いは？
 
 - **enter**：物理的・デジタル的な「中に入る」「入力する」動作を表す
-- **[access](/access)**：情報や場所などに「アクセスする」「利用する」ことを表す
+- **[access](/word/access)**：情報や場所などに「アクセスする」「利用する」ことを表す
 
 「enter」は実際に中へ入る・入力する動作、「access」は利用権や到達のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは「情報を入力する」「会議室に入る」など、ITやビ�
 
 ## 🧩 あわせて覚えたい
 
-- [exit](/exit)：出る、退出する
-- [join](/join)：参加する、加わる
+- [exit](/word/exit)：出る、退出する
+- [join](/word/join)：参加する、加わる
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/submit)：提出する
-- [register](/register)：登録する
+- [submit](/word/submit)：提出する
+- [register](/word/register)：登録する
 
 <!-- cvid: aid15_bid18 -->

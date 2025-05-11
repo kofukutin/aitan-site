@@ -98,7 +98,7 @@ TOEICでは会議やプロジェクトの進行、チームワークに関する
 ## 🤔  organized との違いは？
 
 - **coordinated**：複数の人や物事が連携・調整されている状態を強調
-- **[organized](/organized)**：秩序立って整理されていることを強調
+- **[organized](/word/organized)**：秩序立って整理されていることを強調
 
 「coordinated」は「連携・調整」に重点があり、「organized」は「整理整頓・計画性」に重点があります。
 
@@ -106,14 +106,14 @@ TOEICでは会議やプロジェクトの進行、チームワークに関する
 
 ## 🧩 あわせて覚えたい
 
-- [collaborative](/collaborative)：協力的な
-- [efficient](/efficient)：効率的な
+- [collaborative](/word/collaborative)：協力的な
+- [efficient](/word/efficient)：効率的な
 
 ---
 
 ## 📖 できればこれも
 
-- [cooperative](/cooperative)：協力的な
-- [systematic](/systematic)：体系的な
+- [cooperative](/word/cooperative)：協力的な
+- [systematic](/word/systematic)：体系的な
 
 <!-- cvid: aid36_bid09 -->

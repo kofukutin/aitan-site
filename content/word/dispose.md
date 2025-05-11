@@ -97,7 +97,7 @@ TOEICでは「dispose of ～（～を処分する）」の形で頻出し、特�
 ## 🤔  discard との違いは？
 
 - **dispose**：不要なものを正式に処分・廃棄する、または配置する意味もある
-- **[discard](/discard)**：不要なものを捨てる、手放す（よりカジュアル）
+- **[discard](/word/discard)**：不要なものを捨てる、手放す（よりカジュアル）
 
 「dispose」はフォーマルで手順やルールに従って処分するニュアンスが強く、「discard」は単純に不要なものを捨てる時に使います。
 
@@ -105,14 +105,14 @@ TOEICでは「dispose of ～（～を処分する）」の形で頻出し、特�
 
 ## 🧩 あわせて覚えたい
 
-- [retain](/retain)：保持する、保有する
-- [eliminate](/eliminate)：除去する、排除する
+- [retain](/word/retain)：保持する、保有する
+- [eliminate](/word/eliminate)：除去する、排除する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/arrange)：整える、手配する
-- [remove](/remove)：取り除く、除去する
+- [arrange](/word/arrange)：整える、手配する
+- [remove](/word/remove)：取り除く、除去する
 
 <!-- cvid: aid21_bid14 -->

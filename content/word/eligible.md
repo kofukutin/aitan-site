@@ -96,7 +96,7 @@ TOEICでは、応募資格や条件を問う文脈で頻出します。特に「
 ## 🤔  qualified との違いは？
 
 - **eligible**：条件や資格を満たして「～する権利がある」「適格な」
-- **[qualified](/qualified)**：必要な能力やスキルを持って「有資格の」「適任の」
+- **[qualified](/word/qualified)**：必要な能力やスキルを持って「有資格の」「適任の」
 
 eligibleは「条件を満たしている」ことに重点があり、qualifiedは「能力や経験が十分である」ことに重点があります。
 
@@ -104,14 +104,14 @@ eligibleは「条件を満たしている」ことに重点があり、qualified
 
 ## 🧩 あわせて覚えたい
 
-- [suitable](/suitable)：適している、ふさわしい
-- [ineligible](/ineligible)：資格がない、不適格な
+- [suitable](/word/suitable)：適している、ふさわしい
+- [ineligible](/word/ineligible)：資格がない、不適格な
 
 ---
 
 ## 📖 できればこれも
 
-- [applicant](/applicant)：応募者
-- [requirement](/requirement)：必要条件
+- [applicant](/word/applicant)：応募者
+- [requirement](/word/requirement)：必要条件
 
 <!-- cvid: aid06_bid34 -->

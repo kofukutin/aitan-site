@@ -97,7 +97,7 @@ ITや科学分野の語彙として出題されることがあり、文脈によ
 ## 🤔  case との違いは？
 
 - **shell**：自然物や物の外側を覆う「殻」「外皮」
-- **[case](/case)**：入れ物や容器、状況・事例
+- **[case](/word/case)**：入れ物や容器、状況・事例
 
 shellは「自然な外側の覆い」、caseは「人工的な入れ物」や「状況」を指す点が異なります。
 
@@ -105,14 +105,14 @@ shellは「自然な外側の覆い」、caseは「人工的な入れ物」や�
 
 ## 🧩 あわせて覚えたい
 
-- [cover](/cover)：覆うもの、カバー
-- [core](/core)：中心、芯
+- [cover](/word/cover)：覆うもの、カバー
+- [core](/word/core)：中心、芯
 
 ---
 
 ## 📖 できればこれも
 
-- [frame](/frame)：枠、骨組み
-- [layer](/layer)：層、重なり
+- [frame](/word/frame)：枠、骨組み
+- [layer](/word/layer)：層、重なり
 
 <!-- cvid: aid02_bid16 -->

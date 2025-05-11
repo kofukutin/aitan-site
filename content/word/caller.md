@@ -97,7 +97,7 @@ TOEICでは電話対応や会話のやりとりでよく登場します。特に
 ## 🤔  visitor との違いは？
 
 - **caller**：電話をかけてきた人、または訪問者（特に電話の文脈で使う）
-- **[visitor](/visitor)**：訪問者（実際に場所に来る人）
+- **[visitor](/word/visitor)**：訪問者（実際に場所に来る人）
 
 callerは電話の発信者を指すことが多く、visitorは実際に場所を訪れる人を指します。
 
@@ -105,14 +105,14 @@ callerは電話の発信者を指すことが多く、visitorは実際に場所�
 
 ## 🧩 あわせて覚えたい
 
-- [recipient](/recipient)：受信者、受取人
-- [participant](/participant)：参加者
+- [recipient](/word/recipient)：受信者、受取人
+- [participant](/word/participant)：参加者
 
 ---
 
 ## 📖 できればこれも
 
-- [message](/message)：伝言、メッセージ
-- [operator](/operator)：電話交換手、オペレーター
+- [message](/word/message)：伝言、メッセージ
+- [operator](/word/operator)：電話交換手、オペレーター
 
 <!-- cvid: aid44_bid43 -->

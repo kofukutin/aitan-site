@@ -97,7 +97,7 @@ TOEICでは大学やセミナー、研修など教育関連の長文や案内文
 ## 🤔  professor との違いは？
 
 - **lecturer**：大学や専門機関で講義を担当する講師。教授より職位が下の場合が多い。
-- **[professor](/professor)**：大学の正規教員で、研究や教育の両方を担う「教授」。
+- **[professor](/word/professor)**：大学の正規教員で、研究や教育の両方を担う「教授」。
 
 lecturerは主に授業や講演を行う人、professorは研究・教育の両方を担う上位職という違いがあります。
 
@@ -105,14 +105,14 @@ lecturerは主に授業や講演を行う人、professorは研究・教育の両
 
 ## 🧩 あわせて覚えたい
 
-- [instructor](/instructor)：指導者、インストラクター
-- [speaker](/speaker)：話し手、講演者
+- [instructor](/word/instructor)：指導者、インストラクター
+- [speaker](/word/speaker)：話し手、講演者
 
 ---
 
 ## 📖 できればこれも
 
-- [lecture](/lecture)：講義、講演
-- [audience](/audience)：聴衆、観客
+- [lecture](/word/lecture)：講義、講演
+- [audience](/word/audience)：聴衆、観客
 
 <!-- cvid: aid13_bid14 -->

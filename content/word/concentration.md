@@ -97,7 +97,7 @@ TOEICでは会議や業務中の「集中力」や「濃度」に関する話題
 ## 🤔  focus との違いは？
 
 - **concentration**：意識や注意を一つのことに集める「集中力」や「濃度」を表す。
-- **[focus](/focus)**：焦点・重点そのものや、意識を向ける対象を指す。
+- **[focus](/word/focus)**：焦点・重点そのものや、意識を向ける対象を指す。
 
 concentrationは「集中する力や状態」に重点があり、focusは「何に意識を向けるか」という対象や焦点に重点があります。
 
@@ -105,14 +105,14 @@ concentrationは「集中する力や状態」に重点があり、focusは「�
 
 ## 🧩 あわせて覚えたい
 
-- [attention](/attention)：注意、注目
-- [distraction](/distraction)：気を散らすもの、注意散漫
+- [attention](/word/attention)：注意、注目
+- [distraction](/word/distraction)：気を散らすもの、注意散漫
 
 ---
 
 ## 📖 できればこれも
 
-- [effort](/effort)：努力
-- [priority](/priority)：優先順位
+- [effort](/word/effort)：努力
+- [priority](/word/priority)：優先順位
 
 <!-- cvid: aid41_bid41 -->

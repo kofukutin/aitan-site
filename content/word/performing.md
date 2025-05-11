@@ -97,7 +97,7 @@ TOEICでは会議や業務の進捗、パフォーマンスに関する文脈で
 ## 🤔  working との違いは？
 
 - **performing**：任務や作業、または舞台での「実行」「演じる」にフォーカス
-- **[working](/working)**：単に「働いている」「作業している」という継続的な状態
+- **[working](/word/working)**：単に「働いている」「作業している」という継続的な状態
 
 performingは「成果を出す」「何かをやり遂げる」ニュアンスが強く、workingは「働いている」という広い意味で使われます。
 
@@ -105,14 +105,14 @@ performingは「成果を出す」「何かをやり遂げる」ニュアンス�
 
 ## 🧩 あわせて覚えたい
 
-- [execute](/execute)：実行する、遂行する
-- [conduct](/conduct)：実施する、指揮する
+- [execute](/word/execute)：実行する、遂行する
+- [conduct](/word/conduct)：実施する、指揮する
 
 ---
 
 ## 📖 できればこれも
 
-- [presenting](/presenting)：発表する、提示する
-- [handling](/handling)：扱う、処理する
+- [presenting](/word/presenting)：発表する、提示する
+- [handling](/word/handling)：扱う、処理する
 
 <!-- cvid: aid39_bid04 -->

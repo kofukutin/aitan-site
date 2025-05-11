@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で、船が水上を進んでいる場面
 ## 🤔  navigate との違いは？
 
 - **sail**：帆や船で水上を進むことに焦点がある
-- **[navigate](/navigate)**：航路を決めて進む、操縦するという意味が強い
+- **[navigate](/word/navigate)**：航路を決めて進む、操縦するという意味が強い
 
 sailは「船で進む」動作自体を指し、navigateは「進路を決めて操縦する」ニュアンスが強いです。
 
@@ -106,14 +106,14 @@ sailは「船で進む」動作自体を指し、navigateは「進路を決め�
 
 ## 🧩 あわせて覚えたい
 
-- [row](/row)：（オールで）漕ぐ
-- [cruise](/cruise)：巡航する、ゆっくり航行する
+- [row](/word/row)：（オールで）漕ぐ
+- [cruise](/word/cruise)：巡航する、ゆっくり航行する
 
 ---
 
 ## 📖 できればこれも
 
-- [float](/float)：浮かぶ、浮かせる
-- [travel](/travel)：旅行する、移動する
+- [float](/word/float)：浮かぶ、浮かせる
+- [travel](/word/travel)：旅行する、移動する
 
 <!-- cvid: aid13_bid40 -->

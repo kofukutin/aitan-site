@@ -97,7 +97,7 @@ TOEICでは、形容詞として「適切な」「ふさわしい」の意味で
 ## 🤔  suitable との違いは？
 
 - **fitting**：状況や目的にぴったり合っていて「ふさわしい」ニュアンス
-- **[suitable](/suitable)**：条件や用途に「適している」ニュアンス
+- **[suitable](/word/suitable)**：条件や用途に「適している」ニュアンス
 
 **fitting**は「その場にふさわしい」感情や雰囲気を重視し、**suitable**は「条件や目的に合う」実用的な適合を強調します。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞として「適切な」「ふさわしい」の意味で
 
 ## 🧩 あわせて覚えたい
 
-- [appropriate](/appropriate)：適切な、妥当な
-- [proper](/proper)：きちんとした、適切な
+- [appropriate](/word/appropriate)：適切な、妥当な
+- [proper](/word/proper)：きちんとした、適切な
 
 ---
 
 ## 📖 できればこれも
 
-- [relevant](/relevant)：関連する、適切な
-- [adequate](/adequate)：十分な、適切な
+- [relevant](/word/relevant)：関連する、適切な
+- [adequate](/word/adequate)：十分な、適切な
 
 <!-- cvid: aid39_bid44 -->

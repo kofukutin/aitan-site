@@ -97,7 +97,7 @@ TOEICではビジネスメールや通知文で「受領を認める」「事実
 ## 🤔  admit との違いは？
 
 - **acknowledge**：事実や相手の存在・依頼などをフォーマルに「認める」「受領を知らせる」
-- **[admit](/admit)**：自分の過失や罪などを「しぶしぶ認める」ニュアンスが強い
+- **[admit](/word/admit)**：自分の過失や罪などを「しぶしぶ認める」ニュアンスが強い
 
 acknowledgeはビジネスや公式な場面で使われ、admitは個人的な過ちや否定しにくい事実を認める時に使います。
 
@@ -105,14 +105,14 @@ acknowledgeはビジネスや公式な場面で使われ、admitは個人的な�
 
 ## 🧩 あわせて覚えたい
 
-- [recognize](/recognize)：見てそれとわかる、認識する
-- [deny](/deny)：否定する、認めない
+- [recognize](/word/recognize)：見てそれとわかる、認識する
+- [deny](/word/deny)：否定する、認めない
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/confirm)：確認する、確かめる
-- [respond](/respond)：返答する、応答する
+- [confirm](/word/confirm)：確認する、確かめる
+- [respond](/word/respond)：返答する、応答する
 
 <!-- cvid: aid17_bid33 -->

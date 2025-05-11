@@ -97,7 +97,7 @@ The museum will hold an exhibition about the history of the emperor.
 ## 🤔  king との違いは？
 
 - **emperor**：複数の国や広大な領土を支配する「皇帝」
-- **[king](/king)**：1つの国や地域を治める「王」
+- **[king](/word/king)**：1つの国や地域を治める「王」
 
 emperorはkingよりも広い範囲を支配し、より高い地位を表します。たとえば、kingは1国の王、emperorは複数の王を従える存在です。
 
@@ -105,14 +105,14 @@ emperorはkingよりも広い範囲を支配し、より高い地位を表しま
 
 ## 🧩 あわせて覚えたい
 
-- [monarch](/monarch)：君主、統治者
-- [empire](/empire)：帝国
+- [monarch](/word/monarch)：君主、統治者
+- [empire](/word/empire)：帝国
 
 ---
 
 ## 📖 できればこれも
 
-- [queen](/queen)：女王
-- [prince](/prince)：王子
+- [queen](/word/queen)：女王
+- [prince](/word/prince)：王子
 
 <!-- cvid: aid17_bid17 -->

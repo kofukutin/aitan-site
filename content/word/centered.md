@@ -97,7 +97,7 @@ TOEICでは、形容詞として「centered on ～（～に集中した）」や
 ## 🤔  focused との違いは？
 
 - **centered**：中心に置かれた、バランスが取れている
-- **[focused](/focused)**：集中している、注意が向いている
+- **[focused](/word/focused)**：集中している、注意が向いている
 
 centeredは「中心にある」「バランスが取れている」ニュアンスがあり、focusedは「特定の対象に意識や注意が向いている」ことを強調します。
 
@@ -105,14 +105,14 @@ centeredは「中心にある」「バランスが取れている」ニュアン
 
 ## 🧩 あわせて覚えたい
 
-- [balanced](/balanced)：バランスの取れた
-- [stable](/stable)：安定した
+- [balanced](/word/balanced)：バランスの取れた
+- [stable](/word/stable)：安定した
 
 ---
 
 ## 📖 できればこれも
 
-- [central](/central)：中心の、主要な
-- [organized](/organized)：整理された、組織的な
+- [central](/word/central)：中心の、主要な
+- [organized](/word/organized)：整理された、組織的な
 
 <!-- cvid: aid27_bid24 -->

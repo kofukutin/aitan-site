@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写や、旅行・買い物の場面で登場
 ## 🤔  lingerie との違いは？
 
 - **underwear**：男女問わず使える「下着」全般を指す一般的な表現
-- **[lingerie](/lingerie)**：主に女性用の装飾的な下着を指す
+- **[lingerie](/word/lingerie)**：主に女性用の装飾的な下着を指す
 
 underwearは日常的な下着全般、lingerieは女性用でデザイン性の高い下着に限定されます。
 
@@ -105,14 +105,14 @@ underwearは日常的な下着全般、lingerieは女性用でデザイン性の
 
 ## 🧩 あわせて覚えたい
 
-- [clothing](/clothing)：衣類、服
-- [outfit](/outfit)：服装、コーディネート
+- [clothing](/word/clothing)：衣類、服
+- [outfit](/word/outfit)：服装、コーディネート
 
 ---
 
 ## 📖 できればこれも
 
-- [sock](/sock)：靴下
-- [shirt](/shirt)：シャツ
+- [sock](/word/sock)：靴下
+- [shirt](/word/shirt)：シャツ
 
 <!-- cvid: aid30_bid27 -->

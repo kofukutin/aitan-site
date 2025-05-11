@@ -98,7 +98,7 @@ TOEICでは会話や説明文で「言及する」「触れる」といった意
 ## 🤔  refer との違いは？
 
 - **mention**：簡単に触れる、名前を挙げる
-- **[refer](/refer)**：より詳しく「参照する」「関連づけて述べる」
+- **[refer](/word/refer)**：より詳しく「参照する」「関連づけて述べる」
 
 mentionは「ちょっと言う」イメージ、referは「詳しく説明したり、関連づけて述べる」時に使います。
 
@@ -106,14 +106,14 @@ mentionは「ちょっと言う」イメージ、referは「詳しく説明し�
 
 ## 🧩 あわせて覚えたい
 
-- [state](/state)：述べる、明言する
-- [indicate](/indicate)：示す、指摘する
+- [state](/word/state)：述べる、明言する
+- [indicate](/word/indicate)：示す、指摘する
 
 ---
 
 ## 📖 できればこれも
 
-- [suggest](/suggest)：提案する、示唆する
-- [describe](/describe)：詳しく説明する
+- [suggest](/word/suggest)：提案する、示唆する
+- [describe](/word/describe)：詳しく説明する
 
 <!-- cvid: aid28_bid14 -->

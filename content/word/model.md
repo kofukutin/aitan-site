@@ -97,7 +97,7 @@ TOEICでは「ビジネスモデル」や「製品の模型」など、ビジネ
 ## 🤔  prototype との違いは？
 
 - **model**：見本や手本、縮小版としての模型や基準となるもの。
-- **[prototype](/prototype)**：試作品や初期段階の原型。
+- **[prototype](/word/prototype)**：試作品や初期段階の原型。
 
 modelは「見せるための完成度の高い見本」や「基準」として使われることが多く、prototypeは「実験や開発段階の試作品」を指します。
 
@@ -105,14 +105,14 @@ modelは「見せるための完成度の高い見本」や「基準」として
 
 ## 🧩 あわせて覚えたい
 
-- [sample](/sample)：見本、サンプル
-- [pattern](/pattern)：型、パターン
+- [sample](/word/sample)：見本、サンプル
+- [pattern](/word/pattern)：型、パターン
 
 ---
 
 ## 📖 できればこれも
 
-- [design](/design)：設計、デザイン
-- [plan](/plan)：計画、案
+- [design](/word/design)：設計、デザイン
+- [plan](/word/plan)：計画、案
 
 <!-- cvid: aid14_bid41 -->

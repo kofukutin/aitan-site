@@ -97,7 +97,7 @@ subはTOEICでは主に会話パートで、カジュアルな場面や教育現
 ## 🤔  substitute との違いは？
 
 - **sub**：カジュアルな口語表現で、特に学校やスポーツで「代理」「代理教師」を指す。
-- **[substitute](/substitute)**：よりフォーマルで幅広い場面で使われる「代理人」「代用品」。
+- **[substitute](/word/substitute)**：よりフォーマルで幅広い場面で使われる「代理人」「代用品」。
 
 subは日常会話やカジュアルな場面で使われ、substituteはフォーマルな文書や広い意味で使われます。
 
@@ -105,14 +105,14 @@ subは日常会話やカジュアルな場面で使われ、substituteはフォ�
 
 ## 🧩 あわせて覚えたい
 
-- [replacement](/replacement)：代わりの人・物
-- [backup](/backup)：予備、控え
+- [replacement](/word/replacement)：代わりの人・物
+- [backup](/word/backup)：予備、控え
 
 ---
 
 ## 📖 できればこれも
 
-- [coach](/coach)：コーチ、指導者
-- [tutor](/tutor)：家庭教師、個別指導者
+- [coach](/word/coach)：コーチ、指導者
+- [tutor](/word/tutor)：家庭教師、個別指導者
 
 <!-- cvid: aid16_bid48 -->

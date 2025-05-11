@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「箱を持つ」「箱に入れる」
 ## 🤔  case との違いは？
 
 - **box**：一般的な四角い箱や容器を指す
-- **[case](/case)**：箱以外にも「ケース」「入れ物」「事例」など幅広い意味
+- **[case](/word/case)**：箱以外にも「ケース」「入れ物」「事例」など幅広い意味
 
 「box」は物理的な箱に限定されるのに対し、「case」は入れ物全般や抽象的な「場合」「事例」など幅広い意味で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写で「箱を持つ」「箱に入れる」
 
 ## 🧩 あわせて覚えたい
 
-- [container](/container)：容器
-- [package](/package)：小包、包装
+- [container](/word/container)：容器
+- [package](/word/package)：小包、包装
 
 ---
 
 ## 📖 できればこれも
 
-- [bag](/bag)：袋
-- [envelope](/envelope)：封筒
+- [bag](/word/bag)：袋
+- [envelope](/word/envelope)：封筒
 
 <!-- cvid: aid19_bid31 -->

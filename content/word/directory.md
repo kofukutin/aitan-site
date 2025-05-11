@@ -97,7 +97,7 @@ TOEICではIT関連や会社案内、連絡先リストなどの文脈で出題�
 ## 🤔  folder との違いは？
 
 - **directory**：IT分野では「フォルダ」や「ディレクトリ」として、ファイルをまとめる場所全体を指す。一般的には「名簿」や「案内所」も意味する。
-- **[folder](/folder)**：主に「書類を入れるフォルダ」や「パソコン上のフォルダ」を指し、よりカジュアルで日常的な表現。
+- **[folder](/word/folder)**：主に「書類を入れるフォルダ」や「パソコン上のフォルダ」を指し、よりカジュアルで日常的な表現。
 
 directoryはややフォーマルで、ITや公式な文書で使われやすいのに対し、folderは日常会話やパソコン操作でよく使われます。
 
@@ -105,14 +105,14 @@ directoryはややフォーマルで、ITや公式な文書で使われやすい
 
 ## 🧩 あわせて覚えたい
 
-- [database](/database)：データベース、情報の集まり
-- [index](/index)：索引、目次
+- [database](/word/database)：データベース、情報の集まり
+- [index](/word/index)：索引、目次
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/document)：文書、書類
-- [manual](/manual)：マニュアル、手引き
+- [document](/word/document)：文書、書類
+- [manual](/word/manual)：マニュアル、手引き
 
 <!-- cvid: aid44_bid37 -->

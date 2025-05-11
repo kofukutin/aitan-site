@@ -97,7 +97,7 @@ TOEICでは、会話や説明文で「操縦する」「方向を決める」と
 ## 🤔  guide との違いは？
 
 - **steer**：物理的・比喩的に方向を操作したり導くニュアンス
-- **[guide](/guide)**：案内や助言を通じて導くニュアンス
+- **[guide](/word/guide)**：案内や助言を通じて導くニュアンス
 
 steerは「舵を取る」ように方向を決めて導くイメージ、guideは「案内人」のように寄り添って導くイメージです。
 
@@ -105,14 +105,14 @@ steerは「舵を取る」ように方向を決めて導くイメージ、guide�
 
 ## 🧩 あわせて覚えたい
 
-- [navigate](/navigate)：進路を決めて進む、操縦する
-- [control](/control)：制御する、管理する
+- [navigate](/word/navigate)：進路を決めて進む、操縦する
+- [control](/word/control)：制御する、管理する
 
 ---
 
 ## 📖 できればこれも
 
-- [operate](/operate)：操作する、運転する
-- [direct](/direct)：指示する、導く
+- [operate](/word/operate)：操作する、運転する
+- [direct](/word/direct)：指示する、導く
 
 <!-- cvid: aid03_bid11 -->

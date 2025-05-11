@@ -105,14 +105,14 @@ TOEICでは製品説明や仕様書、広告文などで「waterproof」が形�
 
 ## 🧩 あわせて覚えたい
 
-- [durable](/durable)：耐久性のある
-- [absorbent](/absorbent)：吸収性のある
+- [durable](/word/durable)：耐久性のある
+- [absorbent](/word/absorbent)：吸収性のある
 
 ---
 
 ## 📖 できればこれも
 
-- [protective](/protective)：保護用の
-- [moisture](/moisture)：湿気
+- [protective](/word/protective)：保護用の
+- [moisture](/word/moisture)：湿気
 
 <!-- cvid: aid47_bid35 -->

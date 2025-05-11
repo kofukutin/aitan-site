@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、物の特徴や状態を説明する際
 ## 🤔  dense との違いは？
 
 - **thick**：物理的な厚みや幅、液体・気体の濃さを表す
-- **[dense](/dense)**：密度が高い、ぎっしり詰まっていることを表す
+- **[dense](/word/dense)**：密度が高い、ぎっしり詰まっていることを表す
 
 thickは「厚さ」や「濃さ」に重点があり、denseは「中身が詰まっている」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ thickは「厚さ」や「濃さ」に重点があり、denseは「中身が詰�
 
 ## 🧩 あわせて覚えたい
 
-- [thin](/thin)：薄い、細い
-- [broad](/broad)：広い、幅広い
+- [thin](/word/thin)：薄い、細い
+- [broad](/word/broad)：広い、幅広い
 
 ---
 
 ## 📖 できればこれも
 
-- [wide](/wide)：広い
-- [heavy](/heavy)：重い
+- [wide](/word/wide)：広い
+- [heavy](/word/heavy)：重い
 
 <!-- cvid: aid24_bid13 -->

@@ -97,7 +97,7 @@ TOEICでは、契約や法的文書、会議の議事録などフォーマルな
 ## 🤔  process との違いは？
 
 - **proceeding**：公式な手続きや訴訟、会議の進行など、フォーマルな場面で使われる。
-- **[process](/process)**：一般的な「過程」や「手順」を指し、日常的・幅広い文脈で使われる。
+- **[process](/word/process)**：一般的な「過程」や「手順」を指し、日常的・幅広い文脈で使われる。
 
 proceedingは特に法的・公式な進行や手続きを強調し、processは広く一般的な流れや手順を表します。
 
@@ -105,14 +105,14 @@ proceedingは特に法的・公式な進行や手続きを強調し、processは
 
 ## 🧩 あわせて覚えたい
 
-- [litigation](/litigation)：訴訟
-- [hearing](/hearing)：審問、公聴会
+- [litigation](/word/litigation)：訴訟
+- [hearing](/word/hearing)：審問、公聴会
 
 ---
 
 ## 📖 できればこれも
 
-- [session](/session)：会議、集会
-- [agenda](/agenda)：議題、議事日程
+- [session](/word/session)：会議、集会
+- [agenda](/word/agenda)：議題、議事日程
 
 <!-- cvid: aid30_bid45 -->

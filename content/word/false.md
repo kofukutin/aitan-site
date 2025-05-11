@@ -97,7 +97,7 @@ TOEICでは、選択肢の形容詞として「false」が「true」と対にな
 ## 🤔  fake との違いは？
 
 - **false**：事実や正しさに反している、間違っている
-- **[fake](/fake)**：本物のふりをした偽物、見せかけ
+- **[fake](/word/fake)**：本物のふりをした偽物、見せかけ
 
 「false」は「正しくない」「事実と異なる」ことを指し、主に情報や答えなど無形のものに使います。「fake」は「偽物」「模造品」など、物や人のふりをする場合に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、選択肢の形容詞として「false」が「true」と対にな
 
 ## 🧩 あわせて覚えたい
 
-- [true](/true)：本当の、正しい
-- [incorrect](/incorrect)：不正確な、間違った
+- [true](/word/true)：本当の、正しい
+- [incorrect](/word/incorrect)：不正確な、間違った
 
 ---
 
 ## 📖 できればこれも
 
-- [wrong](/wrong)：間違った、誤った
-- [error](/error)：誤り、ミス
+- [wrong](/word/wrong)：間違った、誤った
+- [error](/word/error)：誤り、ミス
 
 <!-- cvid: aid30_bid00 -->

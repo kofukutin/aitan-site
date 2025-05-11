@@ -97,7 +97,7 @@ TOEICでは、表やグラフ、記事などで「ランキング」や「順位
 ## 🤔  rating との違いは？
 
 - **ranking**：順位や格付けそのものを指す
-- **[rating](/rating)**：評価点や評価値を指す
+- **[rating](/word/rating)**：評価点や評価値を指す
 
 「ranking」は順位や序列を表し、「rating」は点数や評価の度合いを表します。ランキングは順位付け、レーティングは評価点のイメージです。
 
@@ -105,14 +105,14 @@ TOEICでは、表やグラフ、記事などで「ランキング」や「順位
 
 ## 🧩 あわせて覚えたい
 
-- [position](/position)：位置、地位
-- [order](/order)：順序、順番
+- [position](/word/position)：位置、地位
+- [order](/word/order)：順序、順番
 
 ---
 
 ## 📖 できればこれも
 
-- [score](/score)：得点、スコア
-- [grade](/grade)：成績、等級
+- [score](/word/score)：得点、スコア
+- [grade](/word/grade)：成績、等級
 
 <!-- cvid: aid05_bid20 -->

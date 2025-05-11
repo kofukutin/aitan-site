@@ -97,7 +97,7 @@ TOEICでは、建物や部屋の位置関係を説明する文脈で出題され
 ## 🤔  next との違いは？
 
 - **adjacent**：物理的にすぐ隣接している（壁や境界を共有するイメージ）
-- **[next](/next)**：順番や並びで「次の」「隣の」など広く使える
+- **[next](/word/next)**：順番や並びで「次の」「隣の」など広く使える
 
 adjacentは「ぴったり隣接している」ことを強調し、nextは順序や並びの「次」や「隣」にも使えます。
 
@@ -105,14 +105,14 @@ adjacentは「ぴったり隣接している」ことを強調し、nextは順�
 
 ## 🧩 あわせて覚えたい
 
-- [near](/near)：近くの、近い
-- [adjoining](/adjoining)：隣接した、隣の
+- [near](/word/near)：近くの、近い
+- [adjoining](/word/adjoining)：隣接した、隣の
 
 ---
 
 ## 📖 できればこれも
 
-- [neighboring](/neighboring)：近隣の、隣接した
-- [close](/close)：近い、接近した
+- [neighboring](/word/neighboring)：近隣の、隣接した
+- [close](/word/close)：近い、接近した
 
 <!-- cvid: aid10_bid09 -->

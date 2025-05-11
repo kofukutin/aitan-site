@@ -96,7 +96,7 @@ TOEICではウェブサイトやIT関連の長文で登場することが多く�
 ## 🤔  administrator との違いは？
 
 - **webmaster**：ウェブサイトの運営・管理に特化した担当者
-- **[administrator](/administrator)**：システムやネットワーク全体の管理者
+- **[administrator](/word/administrator)**：システムやネットワーク全体の管理者
 
 webmasterは主にウェブサイトに関する業務を担当し、administratorはより広範なITシステム全体の管理を行います。
 
@@ -104,14 +104,14 @@ webmasterは主にウェブサイトに関する業務を担当し、administrat
 
 ## 🧩 あわせて覚えたい
 
-- [developer](/developer)：開発者、プログラムやシステムを作る人
-- [editor](/editor)：編集者、コンテンツの編集や校正を行う人
+- [developer](/word/developer)：開発者、プログラムやシステムを作る人
+- [editor](/word/editor)：編集者、コンテンツの編集や校正を行う人
 
 ---
 
 ## 📖 できればこれも
 
-- [website](/website)：ウェブサイト、インターネット上のページの集合
-- [server](/server)：サーバー、ネットワーク上でサービスを提供するコンピュータ
+- [website](/word/website)：ウェブサイト、インターネット上のページの集合
+- [server](/word/server)：サーバー、ネットワーク上でサービスを提供するコンピュータ
 
 <!-- cvid: aid30_bid44 -->

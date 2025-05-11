@@ -97,7 +97,7 @@ TOEICでは、ビジネスや経済の文脈で「dominant market」「dominant 
 ## 🤔  major との違いは？
 
 - **dominant**：他を圧倒して支配的・優勢であることを強調
-- **[major](/major)**：主な、重要な、規模が大きいことを表す
+- **[major](/word/major)**：主な、重要な、規模が大きいことを表す
 
 「dominant」は「他を圧倒している」ニュアンスが強く、「major」は「主な・大きな」程度の意味で、必ずしも他を支配しているとは限りません。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネスや経済の文脈で「dominant market」「dominant 
 
 ## 🧩 あわせて覚えたい
 
-- [superior](/superior)：より優れている、上位の
-- [subordinate](/subordinate)：従属している、下位の
+- [superior](/word/superior)：より優れている、上位の
+- [subordinate](/word/subordinate)：従属している、下位の
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/significant)：重要な、意味のある
-- [primary](/primary)：第一の、主要な
+- [significant](/word/significant)：重要な、意味のある
+- [primary](/word/primary)：第一の、主要な
 
 <!-- cvid: aid03_bid19 -->

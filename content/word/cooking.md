@@ -97,7 +97,7 @@ TOEICでは、ホテルやレストラン、日常生活の会話で「料理」
 ## 🤔  cuisine との違いは？
 
 - **cooking**：日常的な「料理」や「調理」の行為や技術を指すカジュアルな表現。
-- **[cuisine](/cuisine)**：特定の国や地域の「料理」「食文化」を指すフォーマルな表現。
+- **[cuisine](/word/cuisine)**：特定の国や地域の「料理」「食文化」を指すフォーマルな表現。
 
 cookingは家庭や日常の「料理すること」、cuisineは「フランス料理」などジャンルや文化としての料理を表します。
 
@@ -105,14 +105,14 @@ cookingは家庭や日常の「料理すること」、cuisineは「フランス
 
 ## 🧩 あわせて覚えたい
 
-- [recipe](/recipe)：レシピ、調理法
-- [bake](/bake)：焼く（特にパンやお菓子を）
+- [recipe](/word/recipe)：レシピ、調理法
+- [bake](/word/bake)：焼く（特にパンやお菓子を）
 
 ---
 
 ## 📖 できればこれも
 
-- [kitchen](/kitchen)：台所、キッチン
-- [meal](/meal)：食事
+- [kitchen](/word/kitchen)：台所、キッチン
+- [meal](/word/meal)：食事
 
 <!-- cvid: aid05_bid04 -->

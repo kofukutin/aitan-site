@@ -97,7 +97,7 @@ TOEICでは「imposed restrictions（課された制限）」や「imposed taxes
 ## 🤔  enforce との違いは？
 
 - **imposed**：上から一方的に義務や制限を「課す」「押しつける」ニュアンス
-- **[enforce](/enforce)**：既存のルールや法律を「実施する」「守らせる」ニュアンス
+- **[enforce](/word/enforce)**：既存のルールや法律を「実施する」「守らせる」ニュアンス
 
 「imposed」は新たに何かを課す場合に使い、「enforce」は既にある規則や法律を守らせる場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは「imposed restrictions（課された制限）」や「imposed taxes
 
 ## 🧩 あわせて覚えたい
 
-- [levy](/levy)：（税などを）課す
-- [lift](/lift)：（制限などを）解除する
+- [levy](/word/levy)：（税などを）課す
+- [lift](/word/lift)：（制限などを）解除する
 
 ---
 
 ## 📖 できればこれも
 
-- [restrict](/restrict)：制限する
-- [approve](/approve)：承認する
+- [restrict](/word/restrict)：制限する
+- [approve](/word/approve)：承認する
 
 <!-- cvid: aid30_bid24 -->

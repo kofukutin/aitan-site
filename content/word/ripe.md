@@ -97,7 +97,7 @@ TOEICでは、果物や市場などが「熟している」「適した状態で
 ## 🤔  mature との違いは？
 
 - **ripe**：主に果物や作物が「食べごろに熟した」状態を表す。
-- **[mature](/mature)**：人や動物、計画などが「十分に成長・発達した」状態を表す。
+- **[mature](/word/mature)**：人や動物、計画などが「十分に成長・発達した」状態を表す。
 
 「ripe」は食べ物や状況が「今が最適」というニュアンス、「mature」は人や物事の精神的・物理的な成長に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、果物や市場などが「熟している」「適した状態で
 
 ## 🧩 あわせて覚えたい
 
-- [raw](/raw)：生の、未加工の
-- [fresh](/fresh)：新鮮な
+- [raw](/word/raw)：生の、未加工の
+- [fresh](/word/fresh)：新鮮な
 
 ---
 
 ## 📖 できればこれも
 
-- [harvest](/harvest)：収穫する
-- [seasonal](/seasonal)：季節の、旬の
+- [harvest](/word/harvest)：収穫する
+- [seasonal](/word/seasonal)：季節の、旬の
 
 <!-- cvid: aid04_bid28 -->

@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「深い意味」「深い関係」など、物
 ## 🤔  profound との違いは？
 
 - **deep**：物理的な深さや、感情・議論などの「深さ」を幅広く表す。
-- **[profound](/profound)**：特に知識・感情・影響などが「非常に深い」「本質的で強い」ことを強調。
+- **[profound](/word/profound)**：特に知識・感情・影響などが「非常に深い」「本質的で強い」ことを強調。
 
 deepは日常的な「深い」全般に使えますが、profoundは「非常に奥深い」「本質的」な場合に限定されます。
 
@@ -105,14 +105,14 @@ deepは日常的な「深い」全般に使えますが、profoundは「非常�
 
 ## 🧩 あわせて覚えたい
 
-- [shallow](/shallow)：浅い
-- [thick](/thick)：厚い
+- [shallow](/word/shallow)：浅い
+- [thick](/word/thick)：厚い
 
 ---
 
 ## 📖 できればこれも
 
-- [wide](/wide)：広い
-- [broad](/broad)：幅広い
+- [wide](/word/wide)：広い
+- [broad](/word/broad)：幅広い
 
 <!-- cvid: aid36_bid49 -->

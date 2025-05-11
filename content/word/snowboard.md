@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、ウィンタースポーツや観光
 ## 🤔  ski との違いは？
 
 - **snowboard**：1枚の板に両足を固定して滑るウィンタースポーツやその板。
-- **[ski](/ski)**：2本の細長い板を両足に履いて滑るウィンタースポーツやその板。
+- **[ski](/word/ski)**：2本の細長い板を両足に履いて滑るウィンタースポーツやその板。
 
 snowboardは1枚板、skiは2枚板を使う点が大きな違いです。動きやスタイルも異なります。
 
@@ -105,14 +105,14 @@ snowboardは1枚板、skiは2枚板を使う点が大きな違いです。動き
 
 ## 🧩 あわせて覚えたい
 
-- [mountain](/mountain)：山
-- [resort](/resort)：リゾート、行楽地
+- [mountain](/word/mountain)：山
+- [resort](/word/resort)：リゾート、行楽地
 
 ---
 
 ## 📖 できればこれも
 
-- [helmet](/helmet)：ヘルメット
-- [goggles](/goggles)：ゴーグル
+- [helmet](/word/helmet)：ヘルメット
+- [goggles](/word/goggles)：ゴーグル
 
 <!-- cvid: aid37_bid25 -->

@@ -97,7 +97,7 @@ TOEICでは、オフィスや出張先での会話、備品の貸し借りなど
 ## 🤔  adapter との違いは？
 
 - **charger**：電子機器のバッテリーを充電する装置
-- **[adapter](/adapter)**：電源や端子の形状・規格を変換する装置
+- **[adapter](/word/adapter)**：電源や端子の形状・規格を変換する装置
 
 chargerは「充電するための機器」、adapterは「接続や電圧などを変換する機器」と使い分けます。
 
@@ -105,14 +105,14 @@ chargerは「充電するための機器」、adapterは「接続や電圧など
 
 ## 🧩 あわせて覚えたい
 
-- [battery](/battery)：バッテリー、電池
-- [cable](/cable)：ケーブル、配線
+- [battery](/word/battery)：バッテリー、電池
+- [cable](/word/cable)：ケーブル、配線
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/device)：機器、装置
-- [plug](/plug)：プラグ、差し込み口
+- [device](/word/device)：機器、装置
+- [plug](/word/plug)：プラグ、差し込み口
 
 <!-- cvid: aid44_bid13 -->

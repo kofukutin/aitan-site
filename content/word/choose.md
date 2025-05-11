@@ -97,7 +97,7 @@ TOEICでは「選ぶ」「決定する」という意味で、選択肢や意思
 ## 🤔  select との違いは？
 
 - **choose**：自分の好みや意思で選ぶ、日常的な「選ぶ」
-- **[select](/select)**：慎重に選ぶ、ややフォーマルで限定的な「選ぶ」
+- **[select](/word/select)**：慎重に選ぶ、ややフォーマルで限定的な「選ぶ」
 
 chooseはカジュアルで幅広い場面に使えますが、selectは「慎重に選び抜く」ニュアンスがあり、ビジネスやフォーマルな場面でよく使われます。
 
@@ -105,14 +105,14 @@ chooseはカジュアルで幅広い場面に使えますが、selectは「慎�
 
 ## 🧩 あわせて覚えたい
 
-- [decide](/decide)：決める、決定する
-- [pick](/pick)：（気軽に）選ぶ
+- [decide](/word/decide)：決める、決定する
+- [pick](/word/pick)：（気軽に）選ぶ
 
 ---
 
 ## 📖 できればこれも
 
-- [prefer](/prefer)：より好む
-- [decide](/decide)：決める
+- [prefer](/word/prefer)：より好む
+- [decide](/word/decide)：決める
 
 <!-- cvid: aid27_bid31 -->

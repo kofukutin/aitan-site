@@ -97,7 +97,7 @@ TOEICでは「人材のプール」「資金のプール」など、ビジネス
 ## 🤔  fund との違いは？
 
 - **pool**：人や資源・お金など「集めて一つにしたもの」全般に使える
-- **[fund](/fund)**：主に「お金の蓄え・基金」に限定される
+- **[fund](/word/fund)**：主に「お金の蓄え・基金」に限定される
 
 「pool」は人材や情報など幅広い「集まり」に使えますが、「fund」はお金に特化しています。
 
@@ -105,14 +105,14 @@ TOEICでは「人材のプール」「資金のプール」など、ビジネス
 
 ## 🧩 あわせて覚えたい
 
-- [resource](/resource)：資源、リソース
-- [collection](/collection)：収集、集めたもの
+- [resource](/word/resource)：資源、リソース
+- [collection](/word/collection)：収集、集めたもの
 
 ---
 
 ## 📖 できればこれも
 
-- [budget](/budget)：予算
-- [share](/share)：分け前、共有する
+- [budget](/word/budget)：予算
+- [share](/word/share)：分け前、共有する
 
 <!-- cvid: aid24_bid29 -->

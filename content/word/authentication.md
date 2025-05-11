@@ -97,7 +97,7 @@ IT関連やセキュリティに関する長文やメール、説明文で出題
 ## 🤔  verification との違いは？
 
 - **authentication**：本人であることを証明する認証
-- **[verification](/verification)**：情報や事実が正しいかどうかを確認する検証
+- **[verification](/word/verification)**：情報や事実が正しいかどうかを確認する検証
 
 authenticationは「本人確認」、verificationは「内容や事実の確認」と使い分けます。
 
@@ -105,14 +105,14 @@ authenticationは「本人確認」、verificationは「内容や事実の確認
 
 ## 🧩 あわせて覚えたい
 
-- [authorization](/authorization)：権限付与、認可
-- [identification](/identification)：身元確認、識別
+- [authorization](/word/authorization)：権限付与、認可
+- [identification](/word/identification)：身元確認、識別
 
 ---
 
 ## 📖 できればこれも
 
-- [certificate](/certificate)：証明書
-- [access](/access)：アクセス、接続
+- [certificate](/word/certificate)：証明書
+- [access](/word/access)：アクセス、接続
 
 <!-- cvid: aid48_bid01 -->

@@ -97,7 +97,7 @@ TOEICでは、動詞の時制や受動態、法的な文脈で「ruled」が出�
 ## 🤔  governed との違いは？
 
 - **ruled**：権力や法律によって支配・統治する、または裁判で決定する
-- **[governed](/governed)**：より広く「管理・統治する」、政策や規則でコントロールする
+- **[governed](/word/governed)**：より広く「管理・統治する」、政策や規則でコントロールする
 
 「ruled」は強い権力や裁判の決定に使われ、「governed」は一般的な管理や運営に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、動詞の時制や受動態、法的な文脈で「ruled」が出�
 
 ## 🧩 あわせて覚えたい
 
-- [control](/control)：制御する、管理する
-- [lead](/lead)：導く、指導する
+- [control](/word/control)：制御する、管理する
+- [lead](/word/lead)：導く、指導する
 
 ---
 
 ## 📖 できればこれも
 
-- [decide](/decide)：決定する
-- [manage](/manage)：管理する
+- [decide](/word/decide)：決定する
+- [manage](/word/manage)：管理する
 
 <!-- cvid: aid37_bid41 -->

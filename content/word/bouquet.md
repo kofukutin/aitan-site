@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、花束を持っている・受け取
 ## 🤔  bunch との違いは？
 
 - **bouquet**：主に花を美しくまとめた「花束」を指し、贈り物や特別な場面で使われるフォーマルな語。
-- **[bunch](/bunch)**：花だけでなく果物や鍵など、何かの「束・集まり」全般に使えるカジュアルな語。
+- **[bunch](/word/bunch)**：花だけでなく果物や鍵など、何かの「束・集まり」全般に使えるカジュアルな語。
 
 bouquetは特に花の贈り物や装飾に限定され、bunchはより幅広い物の集まりに使われます。
 
@@ -105,14 +105,14 @@ bouquetは特に花の贈り物や装飾に限定され、bunchはより幅広�
 
 ## 🧩 あわせて覚えたい
 
-- [arrangement](/arrangement)：アレンジメント、花の飾りつけ
-- [garland](/garland)：花輪、花冠
+- [arrangement](/word/arrangement)：アレンジメント、花の飾りつけ
+- [garland](/word/garland)：花輪、花冠
 
 ---
 
 ## 📖 できればこれも
 
-- [vase](/vase)：花瓶
-- [floral](/floral)：花の、花柄の
+- [vase](/word/vase)：花瓶
+- [floral](/word/floral)：花の、花柄の
 
 <!-- cvid: aid32_bid11 -->

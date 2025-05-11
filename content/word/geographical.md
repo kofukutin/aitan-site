@@ -97,7 +97,7 @@ TOEICでは、地理や地域に関する説明文や案内文で見かけるこ
 ## 🤔  geological との違いは？
 
 - **geographical**：地理や場所、地域の特徴に関する
-- **[geological](/geological)**：地質や岩石、地層など地球の構造に関する
+- **[geological](/word/geological)**：地質や岩石、地層など地球の構造に関する
 
 geographicalは「場所や地形」に、geologicalは「地質や岩石」に焦点を当てて使い分けます。
 
@@ -105,14 +105,14 @@ geographicalは「場所や地形」に、geologicalは「地質や岩石」に�
 
 ## 🧩 あわせて覚えたい
 
-- [topographical](/topographical)：地形の、地勢の
-- [regional](/regional)：地域の、地方の
+- [topographical](/word/topographical)：地形の、地勢の
+- [regional](/word/regional)：地域の、地方の
 
 ---
 
 ## 📖 できればこれも
 
-- [physical](/physical)：物理的な、身体の
-- [environmental](/environmental)：環境の、環境に関する
+- [physical](/word/physical)：物理的な、身体の
+- [environmental](/word/environmental)：環境の、環境に関する
 
 <!-- cvid: aid29_bid42 -->

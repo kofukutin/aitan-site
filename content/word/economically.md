@@ -97,7 +97,7 @@ TOEICの長文や記事、ビジネスレターで「経済的に」や「経済
 ## 🤔  financially との違いは？
 
 - **economically**：経済全体や経済活動に関して「経済的に」という広い意味。
-- **[financially](/financially)**：お金や財政状態に直接関わる「財政的に」「金銭的に」という意味。
+- **[financially](/word/financially)**：お金や財政状態に直接関わる「財政的に」「金銭的に」という意味。
 
 economicallyは経済全体や効率性など広い視点、financiallyはお金や資金繰りなど狭い財政面に焦点を当てます。
 
@@ -105,14 +105,14 @@ economicallyは経済全体や効率性など広い視点、financiallyはお金
 
 ## 🧩 あわせて覚えたい
 
-- [efficiently](/efficiently)：効率的に
-- [profitably](/profitably)：利益を上げて
+- [efficiently](/word/efficiently)：効率的に
+- [profitably](/word/profitably)：利益を上げて
 
 ---
 
 ## 📖 できればこれも
 
-- [economic](/economic)：経済の、経済に関する
-- [economical](/economical)：節約になる、経済的な
+- [economic](/word/economic)：経済の、経済に関する
+- [economical](/word/economical)：節約になる、経済的な
 
 <!-- cvid: aid46_bid03 -->

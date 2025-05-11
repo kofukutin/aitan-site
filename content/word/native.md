@@ -97,7 +97,7 @@ TOEICでは「native speaker」や「native language」など、言語や出身�
 ## 🤔  local との違いは？
 
 - **native**：生まれつきその土地に属する、母語話者の
-- **[local](/local)**：その地域に住んでいる、地元の
+- **[local](/word/local)**：その地域に住んでいる、地元の
 
 **native**は「生まれた場所」や「母語」といった先天的な要素を強調し、**local**は「現在その地域に住んでいる」ことを指します。
 
@@ -105,14 +105,14 @@ TOEICでは「native speaker」や「native language」など、言語や出身�
 
 ## 🧩 あわせて覚えたい
 
-- [foreigner](/foreigner)：外国人
-- [resident](/resident)：居住者
+- [foreigner](/word/foreigner)：外国人
+- [resident](/word/resident)：居住者
 
 ---
 
 ## 📖 できればこれも
 
-- [foreign](/foreign)：外国の
-- [traditional](/traditional)：伝統的な
+- [foreign](/word/foreign)：外国の
+- [traditional](/word/traditional)：伝統的な
 
 <!-- cvid: aid42_bid03 -->

@@ -97,7 +97,7 @@ TOEICでは、会社や組織の多様性、チーム構成、文化的背景な
 ## 🤔  various との違いは？
 
 - **diverse**：異なる種類が集まっていて、幅広い多様性があることを強調
-- **[various](/various)**：いくつかの異なる種類があることを表し、数や種類の違いに焦点
+- **[various](/word/various)**：いくつかの異なる種類があることを表し、数や種類の違いに焦点
 
 「diverse」は「幅広い違い」や「多様性」を強調し、文化や背景などの広がりを表現します。「various」は単に「いくつかの種類がある」ことを指します。
 
@@ -105,14 +105,14 @@ TOEICでは、会社や組織の多様性、チーム構成、文化的背景な
 
 ## 🧩 あわせて覚えたい
 
-- [different](/different)：異なる、違った
-- [distinct](/distinct)：はっきり異なる、明確に区別できる
+- [different](/word/different)：異なる、違った
+- [distinct](/word/distinct)：はっきり異なる、明確に区別できる
 
 ---
 
 ## 📖 できればこれも
 
-- [unique](/unique)：唯一の、独特な
-- [broad](/broad)：広い、幅広い
+- [unique](/word/unique)：唯一の、独特な
+- [broad](/word/broad)：広い、幅広い
 
 <!-- cvid: aid29_bid06 -->

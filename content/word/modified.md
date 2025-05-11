@@ -97,7 +97,7 @@ TOEICでは、書類や手順、契約などが「修正された」「変更さ
 ## 🤔  adjusted との違いは？
 
 - **modified**：元のものに手を加えて部分的に修正・変更した状態
-- **[adjusted](/adjusted)**：状況や条件に合わせて微調整・調節した状態
+- **[adjusted](/word/adjusted)**：状況や条件に合わせて微調整・調節した状態
 
 「modified」は内容や構造自体を変える場合に使い、「adjusted」は細かい調整や適応のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは、書類や手順、契約などが「修正された」「変更さ
 
 ## 🧩 あわせて覚えたい
 
-- [altered](/altered)：変更された、改変された
-- [revised](/revised)：改訂された、見直された
+- [altered](/word/altered)：変更された、改変された
+- [revised](/word/revised)：改訂された、見直された
 
 ---
 
 ## 📖 できればこれも
 
-- [customized](/customized)：カスタマイズされた、特注の
-- [updated](/updated)：更新された、新しくなった
+- [customized](/word/customized)：カスタマイズされた、特注の
+- [updated](/word/updated)：更新された、新しくなった
 
 <!-- cvid: aid44_bid00 -->

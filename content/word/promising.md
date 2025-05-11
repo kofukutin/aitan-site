@@ -97,7 +97,7 @@ TOEICでは、人物や計画の評価、将来性を表す文脈で形容詞と
 ## 🤔  hopeful との違いは？
 
 - **promising**：将来性があり、成功や良い結果が期待できる状態
-- **[hopeful](/hopeful)**：希望を持っている、または希望を感じさせる状態
+- **[hopeful](/word/hopeful)**：希望を持っている、または希望を感じさせる状態
 
 promisingは「客観的に見て有望」と評価する語で、hopefulは「主観的に希望を持つ」や「希望を与える」ニュアンスです。
 
@@ -105,14 +105,14 @@ promisingは「客観的に見て有望」と評価する語で、hopefulは「�
 
 ## 🧩 あわせて覚えたい
 
-- [potential](/potential)：潜在的な、可能性のある
-- [unpromising](/unpromising)：有望でない、見込みがない
+- [potential](/word/potential)：潜在的な、可能性のある
+- [unpromising](/word/unpromising)：有望でない、見込みがない
 
 ---
 
 ## 📖 できればこれも
 
-- [productive](/productive)：生産的な
-- [efficient](/efficient)：効率的な
+- [productive](/word/productive)：生産的な
+- [efficient](/word/efficient)：効率的な
 
 <!-- cvid: aid04_bid28 -->

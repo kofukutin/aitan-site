@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やEメール、プロジェクト説明な�
 ## 🤔  supervise との違いは？
 
 - **oversee**：全体を上から広く監督・統括するニュアンス
-- **[supervise](/supervise)**：現場で直接的に指導・監督するニュアンス
+- **[supervise](/word/supervise)**：現場で直接的に指導・監督するニュアンス
 
 overseeは「全体を見渡して管理する」イメージ、superviseは「現場で細かく指導・監督する」イメージです。
 
@@ -105,14 +105,14 @@ overseeは「全体を見渡して管理する」イメージ、superviseは「�
 
 ## 🧩 あわせて覚えたい
 
-- [manage](/manage)：管理する、運営する
-- [monitor](/monitor)：監視する、見守る
+- [manage](/word/manage)：管理する、運営する
+- [monitor](/word/monitor)：監視する、見守る
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/approve)：承認する
-- [coordinate](/coordinate)：調整する
+- [approve](/word/approve)：承認する
+- [coordinate](/word/coordinate)：調整する
 
 <!-- cvid: aid27_bid43 -->

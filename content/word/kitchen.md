@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、部屋や設備を説明する場面で
 ## 🤔  cafeteria との違いは？
 
 - **kitchen**：料理を作るための部屋やスペース
-- **[cafeteria](/cafeteria)**：セルフサービス式の食堂やカフェテリア
+- **[cafeteria](/word/cafeteria)**：セルフサービス式の食堂やカフェテリア
 
 kitchenは「調理する場所」、cafeteriaは「食事をとる場所」であり、用途と場所の性質が異なります。
 
@@ -105,14 +105,14 @@ kitchenは「調理する場所」、cafeteriaは「食事をとる場所」で�
 
 ## 🧩 あわせて覚えたい
 
-- [restaurant](/restaurant)：レストラン、飲食店
-- [pantry](/pantry)：食品貯蔵室、パントリー
+- [restaurant](/word/restaurant)：レストラン、飲食店
+- [pantry](/word/pantry)：食品貯蔵室、パントリー
 
 ---
 
 ## 📖 できればこれも
 
-- [dining room](/dining_room)：食堂、ダイニングルーム
-- [oven](/oven)：オーブン、かまど
+- [dining room](/word/dining_room)：食堂、ダイニングルーム
+- [oven](/word/oven)：オーブン、かまど
 
 <!-- cvid: aid34_bid15 -->

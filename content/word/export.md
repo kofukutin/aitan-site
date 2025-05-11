@@ -97,7 +97,7 @@ TOEICでは貿易やビジネス関連の記事やメール文でよく登場し
 ## 🤔  ship との違いは？
 
 - **export**：商品やサービスを「他国へ輸出する」ことを指す
-- **[ship](/ship)**：商品などを「発送する」「船で送る」ことを指す
+- **[ship](/word/ship)**：商品などを「発送する」「船で送る」ことを指す
 
 exportは国境を越えて商品を送り出す場合に使い、shipは国内外問わず「発送する」動作全般に使います。
 
@@ -105,14 +105,14 @@ exportは国境を越えて商品を送り出す場合に使い、shipは国内�
 
 ## 🧩 あわせて覚えたい
 
-- [import](/import)：輸入する
-- [deliver](/deliver)：配達する
+- [import](/word/import)：輸入する
+- [deliver](/word/deliver)：配達する
 
 ---
 
 ## 📖 できればこれも
 
-- [supply](/supply)：供給する
-- [transport](/transport)：輸送する
+- [supply](/word/supply)：供給する
+- [transport](/word/transport)：輸送する
 
 <!-- cvid: aid18_bid34 -->

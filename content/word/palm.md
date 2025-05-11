@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「手のひらに何かを持つ」な
 ## 🤔  hand との違いは？
 
 - **palm**：手のひら（指と手首の間の平らな部分）を指す
-- **[hand](/hand)**：手全体（指・手のひら・手首を含む）を指す
+- **[hand](/word/hand)**：手全体（指・手のひら・手首を含む）を指す
 
 palmは手のひら部分だけを限定して表現し、handは手全体を指すため、細かい部位を区別したいときに使い分けます。
 
@@ -105,14 +105,14 @@ palmは手のひら部分だけを限定して表現し、handは手全体を指
 
 ## 🧩 あわせて覚えたい
 
-- [finger](/finger)：指
-- [wrist](/wrist)：手首
+- [finger](/word/finger)：指
+- [wrist](/word/wrist)：手首
 
 ---
 
 ## 📖 できればこれも
 
-- [thumb](/thumb)：親指
-- [grip](/grip)：握る、握力
+- [thumb](/word/thumb)：親指
+- [grip](/word/grip)：握る、握力
 
 <!-- cvid: aid18_bid49 -->

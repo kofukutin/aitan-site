@@ -97,7 +97,7 @@ TOEICでは主にPart 7の広告やメール文で、サービスや商品が「
 ## 🤔  customized との違いは？
 
 - **personalized**：個人の好みや特徴に合わせて特別に調整された
-- **[customized](/customized)**：顧客や用途に合わせて仕様や内容を変更した
+- **[customized](/word/customized)**：顧客や用途に合わせて仕様や内容を変更した
 
 「personalized」は「個人」に焦点を当てた調整、「customized」は必ずしも個人でなく、用途や要望に合わせた調整を指します。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 7の広告やメール文で、サービスや商品が「
 
 ## 🧩 あわせて覚えたい
 
-- [individual](/individual)：個人の、個々の
-- [generic](/generic)：一般的な、汎用的な
+- [individual](/word/individual)：個人の、個々の
+- [generic](/word/generic)：一般的な、汎用的な
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/efficient)：効率的な
-- [specific](/specific)：特定の、具体的な
+- [efficient](/word/efficient)：効率的な
+- [specific](/word/specific)：特定の、具体的な
 
 <!-- cvid: aid02_bid17 -->

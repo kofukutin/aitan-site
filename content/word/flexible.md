@@ -97,7 +97,7 @@ TOEICでは、勤務条件や働き方、対応力などを表す文脈で「fle
 ## 🤔  adaptable との違いは？
 
 - **flexible**：状況や条件に応じて変化・対応できる、または物理的に曲げやすい
-- **[adaptable](/adaptable)**：新しい環境や状況に適応できる
+- **[adaptable](/word/adaptable)**：新しい環境や状況に適応できる
 
 flexibleは「柔軟に対応できる」ことに重点があり、adaptableは「新しい環境に適応できる」ことに重点があります。
 
@@ -105,14 +105,14 @@ flexibleは「柔軟に対応できる」ことに重点があり、adaptableは
 
 ## 🧩 あわせて覚えたい
 
-- [rigid](/rigid)：硬直した、柔軟性がない
-- [versatile](/versatile)：多才な、多用途の
+- [rigid](/word/rigid)：硬直した、柔軟性がない
+- [versatile](/word/versatile)：多才な、多用途の
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/efficient)：効率的な
-- [reliable](/reliable)：信頼できる
+- [efficient](/word/efficient)：効率的な
+- [reliable](/word/reliable)：信頼できる
 
 <!-- cvid: aid17_bid17 -->

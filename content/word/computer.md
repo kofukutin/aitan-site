@@ -97,7 +97,7 @@ TOEICでは、IT関連やオフィスの説明文、Eメールなどで頻出し
 ## 🤔  device との違いは？
 
 - **computer**：情報処理や計算を行う電子機器全般を指す。
-- **[device](/device)**：機器・装置全般を指し、コンピューター以外の電子機器も含む。
+- **[device](/word/device)**：機器・装置全般を指し、コンピューター以外の電子機器も含む。
 
 computerは主にパソコンやサーバーなど「計算・情報処理」に特化した機器を指し、deviceはスマートフォンやプリンターなど幅広い機器に使われます。
 
@@ -105,14 +105,14 @@ computerは主にパソコンやサーバーなど「計算・情報処理」に
 
 ## 🧩 あわせて覚えたい
 
-- [laptop](/laptop)：ノートパソコン
-- [server](/server)：サーバー（ネットワーク上でサービスを提供するコンピューター）
+- [laptop](/word/laptop)：ノートパソコン
+- [server](/word/server)：サーバー（ネットワーク上でサービスを提供するコンピューター）
 
 ---
 
 ## 📖 できればこれも
 
-- [keyboard](/keyboard)：キーボード
-- [monitor](/monitor)：モニター（画面）
+- [keyboard](/word/keyboard)：キーボード
+- [monitor](/word/monitor)：モニター（画面）
 
 <!-- cvid: aid16_bid38 -->

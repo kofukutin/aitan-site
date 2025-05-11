@@ -97,7 +97,7 @@ The trader executed several large transactions this morning.
 ## 🤔  broker との違いは？
 
 - **trader**：自分の資金や会社の資金で商品や金融商品を売買する人。
-- **[broker](/broker)**：売り手と買い手の間を仲介し、取引を成立させる人。
+- **[broker](/word/broker)**：売り手と買い手の間を仲介し、取引を成立させる人。
 
 traderは実際に売買を行う当事者で、brokerは取引の仲介役です。
 
@@ -105,14 +105,14 @@ traderは実際に売買を行う当事者で、brokerは取引の仲介役で�
 
 ## 🧩 あわせて覚えたい
 
-- [merchant](/merchant)：（特に商品を扱う）商人
-- [investor](/investor)：投資家
+- [merchant](/word/merchant)：（特に商品を扱う）商人
+- [investor](/word/investor)：投資家
 
 ---
 
 ## 📖 できればこれも
 
-- [dealer](/dealer)：販売業者、ディーラー
-- [client](/client)：顧客、クライアント
+- [dealer](/word/dealer)：販売業者、ディーラー
+- [client](/word/client)：顧客、クライアント
 
 <!-- cvid: aid38_bid02 -->

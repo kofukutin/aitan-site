@@ -97,7 +97,7 @@ TOEICでは経費精算や出張報告などのビジネス文書でよく登場
 ## 🤔  refund との違いは？
 
 - **reimburse**：誰かが立て替えた費用を後から返す（主にビジネスや経費精算で使用）
-- **[refund](/refund)**：購入した商品やサービスの代金を返金する（消費者と販売者の関係でよく使う）
+- **[refund](/word/refund)**：購入した商品やサービスの代金を返金する（消費者と販売者の関係でよく使う）
 
 reimburseは「立て替えたお金の返金」、refundは「購入代金の返金」と、使う場面や関係性が異なります。
 
@@ -105,14 +105,14 @@ reimburseは「立て替えたお金の返金」、refundは「購入代金の�
 
 ## 🧩 あわせて覚えたい
 
-- [compensate](/compensate)：補償する、埋め合わせる
-- [repay](/repay)：返済する、返金する
+- [compensate](/word/compensate)：補償する、埋め合わせる
+- [repay](/word/repay)：返済する、返金する
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/approve)：承認する
-- [submit](/submit)：提出する
+- [approve](/word/approve)：承認する
+- [submit](/word/submit)：提出する
 
 <!-- cvid: aid38_bid18 -->

@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「一部」「役割」「部品」などの意
 ## 🤔  portion との違いは？
 
 - **part**：全体の中の「部分」や「役割」を幅広く指す
-- **[portion](/portion)**：分けられた「一人分」「割り当て」など数量的な部分を強調
+- **[portion](/word/portion)**：分けられた「一人分」「割り当て」など数量的な部分を強調
 
 **part**は全体の構成要素や役割など広い意味で使われますが、**portion**は特に「分け前」「割り当て」など数量や配分を意識した場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「一部」「役割」「部品」などの意
 
 ## 🧩 あわせて覚えたい
 
-- [section](/section)：区分、セクション
-- [component](/component)：構成要素、部品
+- [section](/word/section)：区分、セクション
+- [component](/word/component)：構成要素、部品
 
 ---
 
 ## 📖 できればこれも
 
-- [piece](/piece)：一片、断片
-- [role](/role)：役割、役目
+- [piece](/word/piece)：一片、断片
+- [role](/word/role)：役割、役目
 
 <!-- cvid: aid16_bid26 -->

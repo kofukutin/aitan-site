@@ -97,7 +97,7 @@ The doctor needs a blood sample for the test.
 ## 🤔  plasma との違いは？
 
 - **blood**：血液全体を指し、赤血球・白血球・血漿などすべてを含む。
-- **[plasma](/plasma)**：血液中の液体成分（血漿）のみを指す。
+- **[plasma](/word/plasma)**：血液中の液体成分（血漿）のみを指す。
 
 bloodは「血液」全体、plasmaはその中の液体部分だけを意味します。医療現場では区別して使われます。
 
@@ -105,14 +105,14 @@ bloodは「血液」全体、plasmaはその中の液体部分だけを意味し
 
 ## 🧩 あわせて覚えたい
 
-- [vein](/vein)：静脈
-- [tissue](/tissue)：組織
+- [vein](/word/vein)：静脈
+- [tissue](/word/tissue)：組織
 
 ---
 
 ## 📖 できればこれも
 
-- [cell](/cell)：細胞
-- [organ](/organ)：臓器
+- [cell](/word/cell)：細胞
+- [organ](/word/organ)：臓器
 
 <!-- cvid: aid47_bid17 -->

@@ -97,7 +97,7 @@ TOEICでは契約や手続き、システム関連の文脈で「無効な」と
 ## 🤔  void との違いは？
 
 - **invalid**：正式に「無効」とされ、効力や認可がない状態
-- **[void](/void)**：法的・契約的に「無効」や「空白」を意味し、何も存在しないニュアンスが強い
+- **[void](/word/void)**：法的・契約的に「無効」や「空白」を意味し、何も存在しないニュアンスが強い
 
 invalidは「効力がない」ことを指し、voidは「完全に無効・空（から）」という法的な強さや絶対性を強調します。
 
@@ -105,14 +105,14 @@ invalidは「効力がない」ことを指し、voidは「完全に無効・空
 
 ## 🧩 あわせて覚えたい
 
-- [legitimate](/legitimate)：合法の、正当な
-- [incorrect](/incorrect)：正しくない、間違った
+- [legitimate](/word/legitimate)：合法の、正当な
+- [incorrect](/word/incorrect)：正しくない、間違った
 
 ---
 
 ## 📖 できればこれも
 
-- [valid](/valid)：有効な
-- [authorize](/authorize)：認可する、許可する
+- [valid](/word/valid)：有効な
+- [authorize](/word/authorize)：認可する、許可する
 
 <!-- cvid: aid20_bid16 -->

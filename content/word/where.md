@@ -101,14 +101,14 @@ TOEICではPart 2の疑問文や、会話の中で場所をたずねる表現と
 
 ## 🧩 あわせて覚えたい
 
-- [when](/when)：いつ（時をたずねる副詞）
-- [there](/there)：そこに、そこ（場所を指す副詞）
+- [when](/word/when)：いつ（時をたずねる副詞）
+- [there](/word/there)：そこに、そこ（場所を指す副詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [how](/how)：どのように
-- [which](/which)：どちら、どの
+- [how](/word/how)：どのように
+- [which](/word/which)：どちら、どの
 
 <!-- cvid: aid04_bid26 -->

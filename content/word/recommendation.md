@@ -97,7 +97,7 @@ TOEICでは、メールやビジネス文書、推薦状などの文脈でよく
 ## 🤔  suggestion との違いは？
 
 - **recommendation**：専門的・公式な立場からの「推薦」や「勧告」を意味し、ややフォーマル。
-- **[suggestion](/suggestion)**：気軽な「提案」や「助言」を意味し、カジュアルな場面でも使える。
+- **[suggestion](/word/suggestion)**：気軽な「提案」や「助言」を意味し、カジュアルな場面でも使える。
 
 recommendationは信頼性や権威を伴う場合が多く、suggestionは日常的なアドバイスや意見に使われます。
 
@@ -105,14 +105,14 @@ recommendationは信頼性や権威を伴う場合が多く、suggestionは日�
 
 ## 🧩 あわせて覚えたい
 
-- [reference](/reference)：参照、推薦（名詞）
-- [endorsement](/endorsement)：支持、承認（名詞）
+- [reference](/word/reference)：参照、推薦（名詞）
+- [endorsement](/word/endorsement)：支持、承認（名詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [advice](/advice)：助言、アドバイス（名詞）
-- [proposal](/proposal)：提案（名詞）
+- [advice](/word/advice)：助言、アドバイス（名詞）
+- [proposal](/word/proposal)：提案（名詞）
 
 <!-- cvid: aid08_bid38 -->

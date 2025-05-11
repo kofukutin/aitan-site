@@ -97,7 +97,7 @@ TOEICでは、報告書や調査、業務の進め方などで「徹底的な」
 ## 🤔  complete との違いは？
 
 - **thorough**：細部まで抜けなく徹底していることを強調
-- **[complete](/complete)**：全体が欠けずに「完成している」ことを強調
+- **[complete](/word/complete)**：全体が欠けずに「完成している」ことを強調
 
 thoroughは「細かい部分まで行き届いている」ニュアンス、completeは「全部そろっている・終わっている」ニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ thoroughは「細かい部分まで行き届いている」ニュアンス、com
 
 ## 🧩 あわせて覚えたい
 
-- [detailed](/detailed)：詳細な、細かい
-- [careful](/careful)：注意深い、慎重な
+- [detailed](/word/detailed)：詳細な、細かい
+- [careful](/word/careful)：注意深い、慎重な
 
 ---
 
 ## 📖 できればこれも
 
-- [precise](/precise)：正確な
-- [accurate](/accurate)：正確な、的確な
+- [precise](/word/precise)：正確な
+- [accurate](/word/accurate)：正確な、的確な
 
 <!-- cvid: aid20_bid48 -->

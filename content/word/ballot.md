@@ -97,7 +97,7 @@ TOEICでは選挙や意思決定に関する記事や通知文で登場しやす
 ## 🤔  vote との違いは？
 
 - **ballot**：投票用紙や投票そのもの（物や行為）を指す
-- **[vote](/vote)**：投票する行為や「票」（結果）を指す
+- **[vote](/word/vote)**：投票する行為や「票」（結果）を指す
 
 ballotは「紙」や「投票の仕組み」に焦点があり、voteは「意思表示」や「票数」に重点があります。
 
@@ -105,14 +105,14 @@ ballotは「紙」や「投票の仕組み」に焦点があり、voteは「意�
 
 ## 🧩 あわせて覚えたい
 
-- [election](/election)：選挙
-- [referendum](/referendum)：国民投票
+- [election](/word/election)：選挙
+- [referendum](/word/referendum)：国民投票
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/candidate)：候補者
-- [poll](/poll)：世論調査、投票所
+- [candidate](/word/candidate)：候補者
+- [poll](/word/poll)：世論調査、投票所
 
 <!-- cvid: aid12_bid01 -->

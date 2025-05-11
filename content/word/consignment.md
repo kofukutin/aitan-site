@@ -97,7 +97,7 @@ TOEICでは、納品書やビジネスメール、契約書などの文脈で「
 ## 🤔  shipment との違いは？
 
 - **consignment**：委託販売や委託品など「他者に預けて管理・販売してもらう」ニュアンスが強い
-- **[shipment](/shipment)**：単に「発送」「出荷」という意味で、委託のニュアンスはない
+- **[shipment](/word/shipment)**：単に「発送」「出荷」という意味で、委託のニュアンスはない
 
 consignmentは「委託」という取引形態を含みますが、shipmentは「物理的な発送・輸送」に焦点があります。
 
@@ -105,14 +105,14 @@ consignmentは「委託」という取引形態を含みますが、shipmentは�
 
 ## 🧩 あわせて覚えたい
 
-- [delivery](/delivery)：配達、配送
-- [inventory](/inventory)：在庫、棚卸し
+- [delivery](/word/delivery)：配達、配送
+- [inventory](/word/inventory)：在庫、棚卸し
 
 ---
 
 ## 📖 できればこれも
 
-- [invoice](/invoice)：請求書
-- [dispatch](/dispatch)：発送、派遣
+- [invoice](/word/invoice)：請求書
+- [dispatch](/word/dispatch)：発送、派遣
 
 <!-- cvid: aid12_bid23 -->

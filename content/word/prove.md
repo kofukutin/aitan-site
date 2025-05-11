@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や会議の文脈で「証明する」「立
 ## 🤔  verify との違いは？
 
 - **prove**：証拠や論理で「正しい」と証明する
-- **[verify](/verify)**：事実や情報が「正しいかどうかを確認する」
+- **[verify](/word/verify)**：事実や情報が「正しいかどうかを確認する」
 
 proveは「証明する」こと自体が目的で、verifyは「確認・検証」することが目的です。proveの方がより決定的な証拠や論理を伴う場面で使われます。
 
@@ -105,14 +105,14 @@ proveは「証明する」こと自体が目的で、verifyは「確認・検証
 
 ## 🧩 あわせて覚えたい
 
-- [demonstrate](/demonstrate)：実演する、明らかにする
-- [disprove](/disprove)：誤りを証明する、反証する
+- [demonstrate](/word/demonstrate)：実演する、明らかにする
+- [disprove](/word/disprove)：誤りを証明する、反証する
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/confirm)：確認する、確かめる
-- [establish](/establish)：確立する、立証する
+- [confirm](/word/confirm)：確認する、確かめる
+- [establish](/word/establish)：確立する、立証する
 
 <!-- cvid: aid47_bid14 -->

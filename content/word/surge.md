@@ -98,7 +98,7 @@ TOEICでは、売上や需要、価格などが「急増する」場面でよく
 ## 🤔  soar との違いは？
 
 - **surge**：短期間で急激に増える・高まることを強調する
-- **[soar](/soar)**：高く舞い上がるように、数値や価格がどんどん上昇すること
+- **[soar](/word/soar)**：高く舞い上がるように、数値や価格がどんどん上昇すること
 
 surgeは「一気に急増する」ニュアンスが強く、soarは「高く上がり続ける」イメージで使い分けます。
 
@@ -106,14 +106,14 @@ surgeは「一気に急増する」ニュアンスが強く、soarは「高く�
 
 ## 🧩 あわせて覚えたい
 
-- [decline](/decline)：減少する、下落する
-- [increase](/increase)：増加する、増える
+- [decline](/word/decline)：減少する、下落する
+- [increase](/word/increase)：増加する、増える
 
 ---
 
 ## 📖 できればこれも
 
-- [expand](/expand)：拡大する、広がる
-- [fluctuate](/fluctuate)：変動する、上下する
+- [expand](/word/expand)：拡大する、広がる
+- [fluctuate](/word/fluctuate)：変動する、上下する
 
 <!-- cvid: aid30_bid33 -->

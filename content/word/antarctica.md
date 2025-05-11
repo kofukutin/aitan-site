@@ -105,14 +105,14 @@ Antarcticaは南極大陸そのものを指し、Arcticは北極圏（主に海�
 
 ## 🧩 あわせて覚えたい
 
-- [continent](/continent)：大陸
-- [glacier](/glacier)：氷河
+- [continent](/word/continent)：大陸
+- [glacier](/word/glacier)：氷河
 
 ---
 
 ## 📖 できればこれも
 
-- [ocean](/ocean)：海洋
-- [island](/island)：島
+- [ocean](/word/ocean)：海洋
+- [island](/word/island)：島
 
 <!-- cvid: aid30_bid44 -->

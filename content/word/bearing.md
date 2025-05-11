@@ -97,7 +97,7 @@ TOEICでは「態度」「関係」「影響」の意味で出題されること
 ## 🤔  attitude との違いは？
 
 - **bearing**：外見や立ち居振る舞いから伝わる態度や雰囲気、または関係・影響
-- **[attitude](/attitude)**：考え方や気持ち、姿勢など内面的な態度
+- **[attitude](/word/attitude)**：考え方や気持ち、姿勢など内面的な態度
 
 「bearing」は見た目や振る舞いに表れる態度、「attitude」は心の持ち方や考え方を指します。
 
@@ -105,14 +105,14 @@ TOEICでは「態度」「関係」「影響」の意味で出題されること
 
 ## 🧩 あわせて覚えたい
 
-- [posture](/posture)：姿勢、体の構え
-- [demeanor](/demeanor)：物腰、ふるまい
+- [posture](/word/posture)：姿勢、体の構え
+- [demeanor](/word/demeanor)：物腰、ふるまい
 
 ---
 
 ## 📖 できればこれも
 
-- [conduct](/conduct)：行動、ふるまい
-- [stance](/stance)：立場、姿勢
+- [conduct](/word/conduct)：行動、ふるまい
+- [stance](/word/stance)：立場、姿勢
 
 <!-- cvid: aid44_bid22 -->

@@ -96,7 +96,7 @@ The conference will be held at the Grand Palace Hotel.
 ## 🤔  castle との違いは？
 
 - **palace**：王族や高位の人が住む豪華な宮殿。防御目的ではなく、居住や儀式用。
-- **[castle](/castle)**：防御のために建てられた城。堅牢で要塞的な建物。
+- **[castle](/word/castle)**：防御のために建てられた城。堅牢で要塞的な建物。
 
 palaceは「豪華さ・居住性」、castleは「防御・要塞性」に重点があります。
 
@@ -104,14 +104,14 @@ palaceは「豪華さ・居住性」、castleは「防御・要塞性」に重�
 
 ## 🧩 あわせて覚えたい
 
-- [mansion](/mansion)：大邸宅
-- [temple](/temple)：寺院
+- [mansion](/word/mansion)：大邸宅
+- [temple](/word/temple)：寺院
 
 ---
 
 ## 📖 できればこれも
 
-- [monument](/monument)：記念碑
-- [statue](/statue)：像
+- [monument](/word/monument)：記念碑
+- [statue](/word/statue)：像
 
 <!-- cvid: aid13_bid12 -->

@@ -97,7 +97,7 @@ TOEICでは、企業紹介や歴史、業界の説明文などで「pioneer」�
 ## 🤔  founder との違いは？
 
 - **pioneer**：新しい分野や方法を切り開いた人、先駆者
-- **[founder](/founder)**：組織や会社などを設立した人、創設者
+- **[founder](/word/founder)**：組織や会社などを設立した人、創設者
 
 pioneerは「新しい道を作った人」、founderは「組織や会社を作った人」と、焦点が異なります。
 
@@ -105,14 +105,14 @@ pioneerは「新しい道を作った人」、founderは「組織や会社を作
 
 ## 🧩 あわせて覚えたい
 
-- [innovator](/innovator)：革新者、新しいアイデアを生み出す人
-- [settler](/settler)：入植者、新しい土地に住み始めた人
+- [innovator](/word/innovator)：革新者、新しいアイデアを生み出す人
+- [settler](/word/settler)：入植者、新しい土地に住み始めた人
 
 ---
 
 ## 📖 できればこれも
 
-- [explorer](/explorer)：探検家
-- [inventor](/inventor)：発明家
+- [explorer](/word/explorer)：探検家
+- [inventor](/word/inventor)：発明家
 
 <!-- cvid: aid14_bid11 -->

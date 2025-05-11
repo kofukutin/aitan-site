@@ -97,7 +97,7 @@ TOEICでは、記事や広告文などで「有名」「名声」といった意
 ## 🤔  reputation との違いは？
 
 - **fame**：多くの人に知られている「名声」や「有名」であることを指す。
-- **[reputation](/reputation)**：人や企業に対する「評判」や「評価」を意味し、良い・悪いの両方に使える。
+- **[reputation](/word/reputation)**：人や企業に対する「評判」や「評価」を意味し、良い・悪いの両方に使える。
 
 fameは単に有名であること、reputationは人々が抱く評価や印象に焦点があります。
 
@@ -105,14 +105,14 @@ fameは単に有名であること、reputationは人々が抱く評価や印象
 
 ## 🧩 あわせて覚えたい
 
-- [celebrity](/celebrity)：有名人、著名人
-- [notoriety](/notoriety)：悪名、高い知名度（悪い意味で）
+- [celebrity](/word/celebrity)：有名人、著名人
+- [notoriety](/word/notoriety)：悪名、高い知名度（悪い意味で）
 
 ---
 
 ## 📖 できればこれも
 
-- [success](/success)：成功
-- [honor](/honor)：名誉
+- [success](/word/success)：成功
+- [honor](/word/honor)：名誉
 
 <!-- cvid: aid31_bid29 -->

@@ -97,7 +97,7 @@ TOEICでは、職場やチームの雰囲気、従業員満足度などを扱う
 ## 🤔  motivation との違いは？
 
 - **morale**：集団や組織全体の士気や意欲を表す
-- **[motivation](/motivation)**：個人のやる気や動機を表す
+- **[motivation](/word/motivation)**：個人のやる気や動機を表す
 
 moraleは「チーム全体の雰囲気ややる気」、motivationは「個人の内面的なやる気」に使い分けます。
 
@@ -105,14 +105,14 @@ moraleは「チーム全体の雰囲気ややる気」、motivationは「個人�
 
 ## 🧩 あわせて覚えたい
 
-- [enthusiasm](/enthusiasm)：熱意
-- [confidence](/confidence)：自信
+- [enthusiasm](/word/enthusiasm)：熱意
+- [confidence](/word/confidence)：自信
 
 ---
 
 ## 📖 できればこれも
 
-- [spirit](/spirit)：精神、気力
-- [attitude](/attitude)：態度、姿勢
+- [spirit](/word/spirit)：精神、気力
+- [attitude](/word/attitude)：態度、姿勢
 
 <!-- cvid: aid30_bid26 -->

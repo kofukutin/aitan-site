@@ -97,7 +97,7 @@ TOEICでは、職場やイベントの服装に関する会話や指示で出題
 ## 🤔  attire との違いは？
 
 - **outfit**：特定の場面や目的に合わせた一式の服装。カジュアルな響き。
-- **[attire](/attire)**：フォーマルな場面で使われる「服装」「装い」。
+- **[attire](/word/attire)**：フォーマルな場面で使われる「服装」「装い」。
 
 outfitは日常的・カジュアルな服装に使われ、attireはフォーマルや格式ある場面で使われることが多いです。
 
@@ -105,14 +105,14 @@ outfitは日常的・カジュアルな服装に使われ、attireはフォー�
 
 ## 🧩 あわせて覚えたい
 
-- [uniform](/uniform)：制服
-- [costume](/costume)：衣装、仮装
+- [uniform](/word/uniform)：制服
+- [costume](/word/costume)：衣装、仮装
 
 ---
 
 ## 📖 できればこれも
 
-- [suit](/suit)：スーツ
-- [accessory](/accessory)：アクセサリー
+- [suit](/word/suit)：スーツ
+- [accessory](/word/accessory)：アクセサリー
 
 <!-- cvid: aid43_bid03 -->

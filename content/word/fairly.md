@@ -93,7 +93,7 @@ TOEICでは副詞の意味や程度の違いを問う問題でよく出題され
 ## 🤔  quite との違いは？
 
 - **fairly**：やや控えめに「かなり」「まあまあ」と程度を表す。  
-- **[quite](/quite)**：より強く「とても」「完全に」と強調する。
+- **[quite](/word/quite)**：より強く「とても」「完全に」と強調する。
 
 fairlyは控えめなニュアンスで、quiteはより強い肯定や強調に使われます。
 
@@ -101,14 +101,14 @@ fairlyは控えめなニュアンスで、quiteはより強い肯定や強調に
 
 ## 🧩 あわせて覚えたい
 
-- [somewhat](/somewhat)：いくぶん、多少
-- [just](/just)：ちょうど、まさに
+- [somewhat](/word/somewhat)：いくぶん、多少
+- [just](/word/just)：ちょうど、まさに
 
 ---
 
 ## 📖 できればこれも
 
-- [almost](/almost)：ほとんど
-- [rather](/rather)：かなり、むしろ
+- [almost](/word/almost)：ほとんど
+- [rather](/word/rather)：かなり、むしろ
 
 <!-- cvid: aid25_bid04 -->

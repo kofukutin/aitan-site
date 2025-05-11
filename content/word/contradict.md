@@ -97,7 +97,7 @@ TOEICでは、会議や議論の文脈で「意見が食い違う」「反論す
 ## 🤔  deny との違いは？
 
 - **contradict**：他人の意見や発言に「それは違う」と反論したり、内容が食い違うことを指摘する。
-- **[deny](/deny)**：事実や申し立てを「否定する」「認めない」と主張する。
+- **[deny](/word/deny)**：事実や申し立てを「否定する」「認めない」と主張する。
 
 contradictは「反論」や「矛盾」を強調し、denyは「事実を否定」するニュアンスが強いです。
 
@@ -105,14 +105,14 @@ contradictは「反論」や「矛盾」を強調し、denyは「事実を否定
 
 ## 🧩 あわせて覚えたい
 
-- [oppose](/oppose)：反対する
-- [refute](/refute)：論破する、論拠を挙げて否定する
+- [oppose](/word/oppose)：反対する
+- [refute](/word/refute)：論破する、論拠を挙げて否定する
 
 ---
 
 ## 📖 できればこれも
 
-- [assert](/assert)：主張する
-- [object](/object)：反対する
+- [assert](/word/assert)：主張する
+- [object](/word/object)：反対する
 
 <!-- cvid: aid05_bid13 -->

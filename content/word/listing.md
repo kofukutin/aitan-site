@@ -97,7 +97,7 @@ TOEICではPart 7の広告や案内文、求人情報などで「listing」が�
 ## 🤔  inventory との違いは？
 
 - **listing**：特定の目的でまとめた「一覧」や「掲載情報」を指す。
-- **[inventory](/inventory)**：在庫や資産など、管理目的でまとめた「目録」「在庫表」を指す。
+- **[inventory](/word/inventory)**：在庫や資産など、管理目的でまとめた「目録」「在庫表」を指す。
 
 listingは広告や案内などで使う「掲載リスト」、inventoryは管理や会計で使う「在庫リスト」と使い分けます。
 
@@ -105,14 +105,14 @@ listingは広告や案内などで使う「掲載リスト」、inventoryは管�
 
 ## 🧩 あわせて覚えたい
 
-- [catalog](/catalog)：カタログ、商品目録
-- [schedule](/schedule)：予定表、スケジュール
+- [catalog](/word/catalog)：カタログ、商品目録
+- [schedule](/word/schedule)：予定表、スケジュール
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/document)：書類、文書
-- [record](/record)：記録、記載
+- [document](/word/document)：書類、文書
+- [record](/word/record)：記録、記載
 
 <!-- cvid: aid11_bid17 -->

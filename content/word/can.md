@@ -101,14 +101,14 @@ canは現在や一般的な能力・可能性に使い、be able toは時制や�
 
 ## 🧩 あわせて覚えたい
 
-- [may](/may)：～かもしれない、～してもよい
-- [must](/must)：～しなければならない
+- [may](/word/may)：～かもしれない、～してもよい
+- [must](/word/must)：～しなければならない
 
 ---
 
 ## 📖 できればこれも
 
-- [could](/could)：canの過去形・丁寧な依頼
-- [will](/will)：～するつもりだ、未来を表す
+- [could](/word/could)：canの過去形・丁寧な依頼
+- [will](/word/will)：～するつもりだ、未来を表す
 
 <!-- cvid: aid12_bid14 -->

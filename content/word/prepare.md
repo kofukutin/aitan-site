@@ -97,7 +97,7 @@ TOEICでは会議やプレゼン、業務準備などの場面で頻出します
 ## 🤔  arrange との違いは？
 
 - **prepare**：何かをするために必要な準備や用意をする
-- **[arrange](/arrange)**：物事をきちんと整える、手配する
+- **[arrange](/word/arrange)**：物事をきちんと整える、手配する
 
 prepareは「準備する」全般に使い、arrangeは「段取りをつける」「手配する」など、より整理や調整のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ prepareは「準備する」全般に使い、arrangeは「段取りをつける
 
 ## 🧩 あわせて覚えたい
 
-- [plan](/plan)：計画する
-- [organize](/organize)：整理する、まとめる
+- [plan](/word/plan)：計画する
+- [organize](/word/organize)：整理する、まとめる
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/schedule)：予定を立てる
-- [complete](/complete)：完了する
+- [schedule](/word/schedule)：予定を立てる
+- [complete](/word/complete)：完了する
 
 <!-- cvid: aid41_bid10 -->

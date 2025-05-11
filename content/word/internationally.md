@@ -97,7 +97,7 @@ TOEICでは、企業の活動やサービスが「国際的に」行われてい
 ## 🤔  globally との違いは？
 
 - **internationally**：国と国の間で、複数の国にまたがって
-- **[globally](/globally)**：地球規模で、全世界的に
+- **[globally](/word/globally)**：地球規模で、全世界的に
 
 「internationally」は国同士の関係や複数国間の活動に焦点があり、「globally」は地球全体や全世界を意識した広がりを表します。
 
@@ -105,14 +105,14 @@ TOEICでは、企業の活動やサービスが「国際的に」行われてい
 
 ## 🧩 あわせて覚えたい
 
-- [domestically](/domestically)：国内で
-- [abroad](/abroad)：海外で
+- [domestically](/word/domestically)：国内で
+- [abroad](/word/abroad)：海外で
 
 ---
 
 ## 📖 できればこれも
 
-- [international](/international)：国際的な
-- [nationwide](/nationwide)：全国的な
+- [international](/word/international)：国際的な
+- [nationwide](/word/nationwide)：全国的な
 
 <!-- cvid: aid07_bid04 -->

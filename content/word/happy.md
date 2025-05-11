@@ -97,7 +97,7 @@ TOEICではPart 5の語彙問題やメール文面などでよく登場します
 ## 🤔  glad との違いは？
 
 - **happy**：全体的な幸福感や満足感を表す。
-- **[glad](/glad)**：何か特定の出来事や知らせに対して「うれしい」と感じるときに使う。
+- **[glad](/word/glad)**：何か特定の出来事や知らせに対して「うれしい」と感じるときに使う。
 
 happyは長期的・広い意味での「幸せ」、gladは一時的・具体的な「うれしさ」に使い分けます。
 
@@ -105,14 +105,14 @@ happyは長期的・広い意味での「幸せ」、gladは一時的・具体�
 
 ## 🧩 あわせて覚えたい
 
-- [unhappy](/unhappy)：不幸せな、悲しい
-- [joyful](/joyful)：とても喜ばしい、うれしい
+- [unhappy](/word/unhappy)：不幸せな、悲しい
+- [joyful](/word/joyful)：とても喜ばしい、うれしい
 
 ---
 
 ## 📖 できればこれも
 
-- [sad](/sad)：悲しい
-- [excited](/excited)：わくわくした
+- [sad](/word/sad)：悲しい
+- [excited](/word/excited)：わくわくした
 
 <!-- cvid: aid49_bid45 -->

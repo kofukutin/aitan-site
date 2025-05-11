@@ -93,7 +93,7 @@ TOEICでは会議やプロジェクトの進捗を説明する場面でよく登
 ## 🤔  ongoing との違いは？
 
 - **underway**：すでに始まっていて進行中であることを強調
-- **[ongoing](/ongoing)**：継続的に続いている状態を表す
+- **[ongoing](/word/ongoing)**：継続的に続いている状態を表す
 
 「underway」は「始まったばかり」や「動き出した」ニュアンスがあり、「ongoing」は「継続中」の意味が強いです。
 
@@ -101,14 +101,14 @@ TOEICでは会議やプロジェクトの進捗を説明する場面でよく登
 
 ## 🧩 あわせて覚えたい
 
-- [commence](/commence)：開始する
-- [progress](/progress)：進行、進歩
+- [commence](/word/commence)：開始する
+- [progress](/word/progress)：進行、進歩
 
 ---
 
 ## 📖 できればこれも
 
-- [launch](/launch)：開始する、立ち上げる
-- [proceed](/proceed)：進む、続行する
+- [launch](/word/launch)：開始する、立ち上げる
+- [proceed](/word/proceed)：進む、続行する
 
 <!-- cvid: aid49_bid19 -->

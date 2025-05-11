@@ -98,7 +98,7 @@ TOEICではITやビジネス文書で「update」が頻出します。特にメ�
 ## 🤔  upgrade との違いは？
 
 - **update**：情報や内容を新しくする、最新状態にする
-- **[upgrade](/upgrade)**：性能や品質を上げてより良いものにする
+- **[upgrade](/word/upgrade)**：性能や品質を上げてより良いものにする
 
 updateは「新しい情報にする」ことに重点があり、upgradeは「より高いレベルや品質に引き上げる」ことに重点があります。
 
@@ -106,14 +106,14 @@ updateは「新しい情報にする」ことに重点があり、upgradeは「�
 
 ## 🧩 あわせて覚えたい
 
-- [renew](/renew)：（契約などを）更新する
-- [revise](/revise)：（文章や計画を）修正する
+- [renew](/word/renew)：（契約などを）更新する
+- [revise](/word/revise)：（文章や計画を）修正する
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/install)：インストールする
-- [edit](/edit)：編集する
+- [install](/word/install)：インストールする
+- [edit](/word/edit)：編集する
 
 <!-- cvid: aid01_bid18 -->

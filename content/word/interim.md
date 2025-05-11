@@ -96,7 +96,7 @@ TOEICではビジネス文書や報告書、組織変更の案内などで「int
 ## 🤔  temporary との違いは？
 
 - **interim**：正式なものが決まるまでの「暫定的」な期間や役職に使う
-- **[temporary](/temporary)**：期間限定で「一時的」なもの全般に使う
+- **[temporary](/word/temporary)**：期間限定で「一時的」なもの全般に使う
 
 「interim」は特に正式な決定や恒久的なものが決まるまでの「つなぎ」の意味が強く、temporaryは単に「短期間」の意味で幅広く使われます。
 
@@ -104,14 +104,14 @@ TOEICではビジネス文書や報告書、組織変更の案内などで「int
 
 ## 🧩 あわせて覚えたい
 
-- [permanent](/permanent)：恒久的な、永続的な
-- [provisional](/provisional)：仮の、暫定的な
+- [permanent](/word/permanent)：恒久的な、永続的な
+- [provisional](/word/provisional)：仮の、暫定的な
 
 ---
 
 ## 📖 できればこれも
 
-- [proceed](/proceed)：進む、進行する
-- [appoint](/appoint)：任命する
+- [proceed](/word/proceed)：進む、進行する
+- [appoint](/word/appoint)：任命する
 
 <!-- cvid: aid15_bid22 -->

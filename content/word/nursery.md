@@ -97,7 +97,7 @@ nurseryは、TOEICの長文読解（Part 7）で施設やサービスの説明�
 ## 🤔  kindergarten との違いは？
 
 - **nursery**：0～3歳程度の乳幼児を預かる保育園や託児所、または苗床の意味もある
-- **[kindergarten](/kindergarten)**：主に3～6歳の子どもが通う幼稚園
+- **[kindergarten](/word/kindergarten)**：主に3～6歳の子どもが通う幼稚園
 
 nurseryはより低年齢の子どもや植物の苗にも使われ、kindergartenは就学前の幼児教育施設に限定されます。
 
@@ -105,14 +105,14 @@ nurseryはより低年齢の子どもや植物の苗にも使われ、kindergart
 
 ## 🧩 あわせて覚えたい
 
-- [daycare](/daycare)：託児所、保育サービス
-- [infant](/infant)：乳児、幼児
+- [daycare](/word/daycare)：託児所、保育サービス
+- [infant](/word/infant)：乳児、幼児
 
 ---
 
 ## 📖 できればこれも
 
-- [toddler](/toddler)：よちよち歩きの幼児
-- [preschool](/preschool)：就学前教育、保育園・幼稚園
+- [toddler](/word/toddler)：よちよち歩きの幼児
+- [preschool](/word/preschool)：就学前教育、保育園・幼稚園
 
 <!-- cvid: aid16_bid35 -->

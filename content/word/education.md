@@ -97,7 +97,7 @@ TOEICでは、教育制度や研修、学歴に関する説明文や求人広告
 ## 🤔  training との違いは？
 
 - **education**：知識や教養を広く身につけるための体系的な学習や教育全般
-- **[training](/training)**：特定のスキルや実務能力を身につけるための訓練
+- **[training](/word/training)**：特定のスキルや実務能力を身につけるための訓練
 
 educationは幅広い知識や人格形成を目的とし、trainingは実践的な能力や技術の習得に特化しています。
 
@@ -105,14 +105,14 @@ educationは幅広い知識や人格形成を目的とし、trainingは実践的
 
 ## 🧩 あわせて覚えたい
 
-- [learning](/learning)：学習、習得
-- [instruction](/instruction)：指導、指示
+- [learning](/word/learning)：学習、習得
+- [instruction](/word/instruction)：指導、指示
 
 ---
 
 ## 📖 できればこれも
 
-- [degree](/degree)：学位、程度
-- [knowledge](/knowledge)：知識
+- [degree](/word/degree)：学位、程度
+- [knowledge](/word/knowledge)：知識
 
 <!-- cvid: aid42_bid09 -->

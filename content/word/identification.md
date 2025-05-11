@@ -97,7 +97,7 @@ TOEICでは、受付や本人確認、書類提出などの場面で頻出しま
 ## 🤔  verification との違いは？
 
 - **identification**：誰かや何かを特定・識別すること、または身分証明書そのもの
-- **[verification](/verification)**：情報や事実が正しいかどうかを確認・検証すること
+- **[verification](/word/verification)**：情報や事実が正しいかどうかを確認・検証すること
 
 identificationは「誰かを特定する」ことに重点があり、verificationは「情報の正確さを確認する」ことに重点があります。
 
@@ -105,13 +105,13 @@ identificationは「誰かを特定する」ことに重点があり、verificat
 
 ## 🧩 あわせて覚えたい
 
-- [authentication](/authentication)：認証、本人確認
-- [document](/document)：書類、文書
+- [authentication](/word/authentication)：認証、本人確認
+- [document](/word/document)：書類、文書
 
 ---
 
 ## 📖 できればこれも
 
-- [certificate](/certificate)：証明書
-- [authorization](/authorization)：認可、許可
+- [certificate](/word/certificate)：証明書
+- [authorization](/word/authorization)：認可、許可
 <!-- cvid: aid49_bid16 -->

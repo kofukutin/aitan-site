@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人物の外見を説明する際に
 ## 🤔  hairless との違いは？
 
 - **bald**：主に人の頭髪がない状態を表すカジュアルな表現
-- **[hairless](/hairless)**：毛がまったくない状態を指し、動物や物にも使われる
+- **[hairless](/word/hairless)**：毛がまったくない状態を指し、動物や物にも使われる
 
 「bald」は人の頭に使うのが一般的ですが、「hairless」は動物や物など広い対象に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写で、人物の外見を説明する際に
 
 ## 🧩 あわせて覚えたい
 
-- [shave](/shave)：ひげや髪をそる
-- [beard](/beard)：あごひげ
+- [shave](/word/shave)：ひげや髪をそる
+- [beard](/word/beard)：あごひげ
 
 ---
 
 ## 📖 できればこれも
 
-- [curly](/curly)：くるくるした、巻き毛の
-- [gray](/gray)：白髪の、灰色の
+- [curly](/word/curly)：くるくるした、巻き毛の
+- [gray](/word/gray)：白髪の、灰色の
 
 <!-- cvid: aid31_bid08 -->

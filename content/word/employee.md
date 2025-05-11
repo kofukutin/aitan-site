@@ -97,7 +97,7 @@ TOEICでは「employee」はPart 5の語彙問題や、会社の説明文で頻�
 ## 🤔  staff との違いは？
 
 - **employee**：会社や組織に雇われている個々の従業員を指す
-- **[staff](/staff)**：従業員全体や職員集団をまとめて指す
+- **[staff](/word/staff)**：従業員全体や職員集団をまとめて指す
 
 「employee」は一人ひとりの従業員を指し、「staff」は組織の職員全体やチームをまとめて表します。
 
@@ -105,14 +105,14 @@ TOEICでは「employee」はPart 5の語彙問題や、会社の説明文で頻�
 
 ## 🧩 あわせて覚えたい
 
-- [employer](/employer)：雇用主
-- [colleague](/colleague)：同僚
+- [employer](/word/employer)：雇用主
+- [colleague](/word/colleague)：同僚
 
 ---
 
 ## 📖 できればこれも
 
-- [manager](/manager)：管理職、マネージャー
-- [worker](/worker)：労働者、作業員
+- [manager](/word/manager)：管理職、マネージャー
+- [worker](/word/worker)：労働者、作業員
 
 <!-- cvid: aid17_bid40 -->

@@ -97,7 +97,7 @@ TOEICではホテルやイベント、ビジネスの場面で「guest」がよ�
 ## 🤔  visitor との違いは？
 
 - **guest**：招待された客や宿泊客、もてなされる人を指す
-- **[visitor](/visitor)**：訪問者全般（観光客や見学者など）を指す
+- **[visitor](/word/visitor)**：訪問者全般（観光客や見学者など）を指す
 
 guestは「もてなされる」ニュアンスが強く、visitorは単に「訪れる人」という意味で使われます。
 
@@ -105,14 +105,14 @@ guestは「もてなされる」ニュアンスが強く、visitorは単に「�
 
 ## 🧩 あわせて覚えたい
 
-- [host](/host)：主催者、もてなす人
-- [customer](/customer)：顧客、買い物客
+- [host](/word/host)：主催者、もてなす人
+- [customer](/word/customer)：顧客、買い物客
 
 ---
 
 ## 📖 できればこれも
 
-- [staff](/staff)：スタッフ、従業員
-- [client](/client)：依頼人、取引先
+- [staff](/word/staff)：スタッフ、従業員
+- [client](/word/client)：依頼人、取引先
 
 <!-- cvid: aid06_bid31 -->

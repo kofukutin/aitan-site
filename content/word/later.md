@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「後で」「のちほど」と予定や順序
 ## 🤔  after との違いは？
 
 - **later**：「今より後の時点で」「のちほど」という意味で、単独で副詞的に使う
-- **[after](/after)**：「～の後で」という意味で、前置詞や接続詞として使う
+- **[after](/word/after)**：「～の後で」という意味で、前置詞や接続詞として使う
 
 「later」は単独で「後で」と言うときに使い、「after」は必ず何かの出来事や時点を示して「～の後で」と使います。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「後で」「のちほど」と予定や順序
 
 ## 🧩 あわせて覚えたい
 
-- [soon](/soon)：すぐに、まもなく
-- [eventually](/eventually)：最終的に、やがて
+- [soon](/word/soon)：すぐに、まもなく
+- [eventually](/word/eventually)：最終的に、やがて
 
 ---
 
 ## 📖 できればこれも
 
-- [earlier](/earlier)：より早く、先に
-- [finally](/finally)：ついに、最終的に
+- [earlier](/word/earlier)：より早く、先に
+- [finally](/word/finally)：ついに、最終的に
 
 <!-- cvid: aid24_bid09 -->

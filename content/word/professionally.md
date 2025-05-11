@@ -97,7 +97,7 @@ TOEICではビジネスメールや案内文、職場のやりとりで「専門
 ## 🤔  properly との違いは？
 
 - **professionally**：専門家として、プロらしく、職業的に
-- **[properly](/properly)**：正しく、適切に
+- **[properly](/word/properly)**：正しく、適切に
 
 「professionally」は「専門的な態度やスキルで」というニュアンスが強く、仕事や職業上の場面で使われます。「properly」は「正しく」「きちんと」という一般的な適切さを表します。
 
@@ -105,14 +105,14 @@ TOEICではビジネスメールや案内文、職場のやりとりで「専門
 
 ## 🧩 あわせて覚えたい
 
-- [expertly](/expertly)：熟練して、巧みに
-- [amateur](/amateur)：素人、アマチュア
+- [expertly](/word/expertly)：熟練して、巧みに
+- [amateur](/word/amateur)：素人、アマチュア
 
 ---
 
 ## 📖 できればこれも
 
-- [efficiently](/efficiently)：効率的に
-- [formally](/formally)：正式に、形式的に
+- [efficiently](/word/efficiently)：効率的に
+- [formally](/word/formally)：正式に、形式的に
 
 <!-- cvid: aid41_bid08 -->

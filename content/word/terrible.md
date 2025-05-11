@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「悪い状況」や「問題」を表現する
 ## 🤔  awful との違いは？
 
 - **terrible**：ひどく悪い、恐ろしい（ややフォーマル・深刻な響き）
-- **[awful](/awful)**：とても悪い、ひどい（カジュアルで口語的）
+- **[awful](/word/awful)**：とても悪い、ひどい（カジュアルで口語的）
 
 terribleは深刻さや恐ろしさを強調する傾向があり、awfulは日常会話でよく使われるカジュアルな表現です。
 
@@ -105,14 +105,14 @@ terribleは深刻さや恐ろしさを強調する傾向があり、awfulは日�
 
 ## 🧩 あわせて覚えたい
 
-- [horrible](/horrible)：ぞっとするほどひどい
-- [excellent](/excellent)：素晴らしい、優れた
+- [horrible](/word/horrible)：ぞっとするほどひどい
+- [excellent](/word/excellent)：素晴らしい、優れた
 
 ---
 
 ## 📖 できればこれも
 
-- [wonderful](/wonderful)：素晴らしい
-- [bad](/bad)：悪い
+- [wonderful](/word/wonderful)：素晴らしい
+- [bad](/word/bad)：悪い
 
 <!-- cvid: aid33_bid20 -->

@@ -97,7 +97,7 @@ ITやショッピングの場面で「閲覧」「見て回る」という意味
 ## 🤔  searching との違いは？
 
 - **browsing**：目的なくいろいろ見て回ること
-- **[searching](/searching)**：特定のものを探して調べること
+- **[searching](/word/searching)**：特定のものを探して調べること
 
 browsingは「なんとなく見る」、searchingは「目的を持って探す」ときに使い分けます。
 
@@ -105,14 +105,14 @@ browsingは「なんとなく見る」、searchingは「目的を持って探す
 
 ## 🧩 あわせて覚えたい
 
-- [surfing](/surfing)：（ネットなどを）あちこち見ること
-- [scanning](/scanning)：ざっと目を通すこと
+- [surfing](/word/surfing)：（ネットなどを）あちこち見ること
+- [scanning](/word/scanning)：ざっと目を通すこと
 
 ---
 
 ## 📖 できればこれも
 
-- [download](/download)：ダウンロードする
-- [upload](/upload)：アップロードする
+- [download](/word/download)：ダウンロードする
+- [upload](/word/upload)：アップロードする
 
 <!-- cvid: aid11_bid04 -->

@@ -97,7 +97,7 @@ TOEICでは会議やプロジェクトの進行、イベント運営などの場
 ## 🤔  organize との違いは？
 
 - **coordinate**：複数の人や物事をうまく連携・調整することに重点がある
-- **[organize](/organize)**：物事を計画・整理してまとめることに重点がある
+- **[organize](/word/organize)**：物事を計画・整理してまとめることに重点がある
 
 coordinateは「関係者同士の動きを合わせる」ニュアンス、organizeは「全体を計画的に整える」ニュアンスがあります。
 
@@ -105,14 +105,14 @@ coordinateは「関係者同士の動きを合わせる」ニュアンス、orga
 
 ## 🧩 あわせて覚えたい
 
-- [collaborate](/collaborate)：協力する
-- [arrange](/arrange)：手配する、整える
+- [collaborate](/word/collaborate)：協力する
+- [arrange](/word/arrange)：手配する、整える
 
 ---
 
 ## 📖 できればこれも
 
-- [manage](/manage)：管理する
-- [supervise](/supervise)：監督する
+- [manage](/word/manage)：管理する
+- [supervise](/word/supervise)：監督する
 
 <!-- cvid: aid39_bid16 -->

@@ -97,7 +97,7 @@ TOEICでは「制限」「限度」などの意味で、契約や規則、時間
 ## 🤔  restrict との違いは？
 
 - **limit**：範囲や最大値・最小値など「境界」を示す
-- **[restrict](/restrict)**：行動や選択肢を「制限する」「制約する」
+- **[restrict](/word/restrict)**：行動や選択肢を「制限する」「制約する」
 
 limitは「物理的・数値的な限界」を表すことが多く、restrictは「自由や行動を制限する」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ limitは「物理的・数値的な限界」を表すことが多く、restrict�
 
 ## 🧩 あわせて覚えたい
 
-- [boundary](/boundary)：境界、限界
-- [maximum](/maximum)：最大値
+- [boundary](/word/boundary)：境界、限界
+- [maximum](/word/maximum)：最大値
 
 ---
 
 ## 📖 できればこれも
 
-- [rule](/rule)：規則、ルール
-- [quota](/quota)：割り当て、定数
+- [rule](/word/rule)：規則、ルール
+- [quota](/word/quota)：割り当て、定数
 
 <!-- cvid: aid23_bid35 -->

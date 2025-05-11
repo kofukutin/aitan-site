@@ -98,7 +98,7 @@ takerはTOEICの文法・語彙問題で「受験者」「引き受ける人」�
 ## 🤔  applicant との違いは？
 
 - **taker**：何かを受ける人、特に試験や申し出を受ける人
-- **[applicant](/applicant)**：応募者、申請者
+- **[applicant](/word/applicant)**：応募者、申請者
 
 takerは「受験者」や「引き受ける人」として幅広く使われますが、applicantは「応募する人」「申請者」として、主に仕事や学校などへの応募に限定されます。
 
@@ -106,14 +106,14 @@ takerは「受験者」や「引き受ける人」として幅広く使われま
 
 ## 🧩 あわせて覚えたい
 
-- [participant](/participant)：参加者
-- [receiver](/receiver)：受取人
+- [participant](/word/participant)：参加者
+- [receiver](/word/receiver)：受取人
 
 ---
 
 ## 📖 できればこれも
 
-- [giver](/giver)：与える人
-- [candidate](/candidate)：候補者
+- [giver](/word/giver)：与える人
+- [candidate](/word/candidate)：候補者
 
 <!-- cvid: aid01_bid29 -->

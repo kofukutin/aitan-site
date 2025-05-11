@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人の顔や体の部位を説明す
 ## 🤔  smell との違いは？
 
 - **nose**：顔にある「鼻」という体の部位
-- **[smell](/smell)**：におい、または「においをかぐ」という動作や感覚
+- **[smell](/word/smell)**：におい、または「においをかぐ」という動作や感覚
 
 noseは物理的な器官、smellは感覚やにおいそのものを指します。使う場面が異なります。
 
@@ -105,14 +105,14 @@ noseは物理的な器官、smellは感覚やにおいそのものを指しま�
 
 ## 🧩 あわせて覚えたい
 
-- [mouth](/mouth)：口
-- [ear](/ear)：耳
+- [mouth](/word/mouth)：口
+- [ear](/word/ear)：耳
 
 ---
 
 ## 📖 できればこれも
 
-- [face](/face)：顔
-- [eye](/eye)：目
+- [face](/word/face)：顔
+- [eye](/word/eye)：目
 
 <!-- cvid: aid46_bid08 -->

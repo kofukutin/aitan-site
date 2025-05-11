@@ -97,7 +97,7 @@ TOEICでは大学や教育機関の案内、スケジュール表などの長文
 ## 🤔  term との違いは？
 
 - **semester**：1年を2分割した「半年間の学期」を指す
-- **[term](/term)**：学期全般を指し、期間の長さは学校や国によって異なる
+- **[term](/word/term)**：学期全般を指し、期間の長さは学校や国によって異なる
 
 「semester」は特にアメリカで使われる半年間の学期、「term」はより広く「学期」全般を指します。イギリス英語では「term」が一般的です。
 
@@ -105,14 +105,14 @@ TOEICでは大学や教育機関の案内、スケジュール表などの長文
 
 ## 🧩 あわせて覚えたい
 
-- [quarter](/quarter)：4分の1学期（1年を4つに分けた期間）
-- [session](/session)：授業期間、会期
+- [quarter](/word/quarter)：4分の1学期（1年を4つに分けた期間）
+- [session](/word/session)：授業期間、会期
 
 ---
 
 ## 📖 できればこれも
 
-- [lecture](/lecture)：講義
-- [syllabus](/syllabus)：シラバス、講義概要
+- [lecture](/word/lecture)：講義
+- [syllabus](/word/syllabus)：シラバス、講義概要
 
 <!-- cvid: aid10_bid24 -->

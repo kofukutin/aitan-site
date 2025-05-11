@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文読解で、仕事や責任、コストなどの
 ## 🤔  load との違いは？
 
 - **burden**：精神的・物理的な「重荷」や「負担」を強調し、ネガティブなニュアンスが強い
-- **[load](/load)**：運ぶ「荷物」や「積み荷」など物理的な重さを中心に表す
+- **[load](/word/load)**：運ぶ「荷物」や「積み荷」など物理的な重さを中心に表す
 
 burdenは心や責任など目に見えない重さにも使われ、loadは主に物理的な重さや量に使われます。
 
@@ -105,14 +105,14 @@ burdenは心や責任など目に見えない重さにも使われ、loadは主�
 
 ## 🧩 あわせて覚えたい
 
-- [responsibility](/responsibility)：責任
-- [relief](/relief)：安心、軽減
+- [responsibility](/word/responsibility)：責任
+- [relief](/word/relief)：安心、軽減
 
 ---
 
 ## 📖 できればこれも
 
-- [duty](/duty)：義務
-- [obligation](/obligation)：責務、義務
+- [duty](/word/duty)：義務
+- [obligation](/word/obligation)：責務、義務
 
 <!-- cvid: aid04_bid45 -->

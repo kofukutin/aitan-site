@@ -97,7 +97,7 @@ TOEICでは健康や商品説明、広告文などで「vitamin」が登場す�
 ## 🤔  supplement との違いは？
 
 - **vitamin**：体に必要な微量栄養素の一種で、主にビタミン類を指す。
-- **[supplement](/supplement)**：ビタミンだけでなく、ミネラルやタンパク質など健康補助食品全般を指す。
+- **[supplement](/word/supplement)**：ビタミンだけでなく、ミネラルやタンパク質など健康補助食品全般を指す。
 
 vitaminは栄養素の種類を限定して指しますが、supplementは健康を補うための食品全般を広く指します。
 
@@ -105,14 +105,14 @@ vitaminは栄養素の種類を限定して指しますが、supplementは健康
 
 ## 🧩 あわせて覚えたい
 
-- [nutrient](/nutrient)：栄養素
-- [mineral](/mineral)：ミネラル（無機栄養素）
+- [nutrient](/word/nutrient)：栄養素
+- [mineral](/word/mineral)：ミネラル（無機栄養素）
 
 ---
 
 ## 📖 できればこれも
 
-- [protein](/protein)：タンパク質
-- [diet](/diet)：食事、ダイエット
+- [protein](/word/protein)：タンパク質
+- [diet](/word/diet)：食事、ダイエット
 
 <!-- cvid: aid21_bid17 -->

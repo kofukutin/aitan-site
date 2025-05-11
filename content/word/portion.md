@@ -97,7 +97,7 @@ TOEICでは、説明文やメール、案内文などで「一部」「分け前
 ## 🤔  section との違いは？
 
 - **portion**：全体の中の「分け前」「一人分」など、割り当てられた部分を強調
-- **[section](/section)**：物理的・構造的に区切られた「区画」「部分」
+- **[section](/word/section)**：物理的・構造的に区切られた「区画」「部分」
 
 portionは「分配」や「割り当て」のニュアンスがあり、sectionは「区切り」や「構造上の部分」を指します。
 
@@ -105,14 +105,14 @@ portionは「分配」や「割り当て」のニュアンスがあり、section
 
 ## 🧩 あわせて覚えたい
 
-- [share](/share)：分け前、取り分
-- [segment](/segment)：区切り、部分
+- [share](/word/share)：分け前、取り分
+- [segment](/word/segment)：区切り、部分
 
 ---
 
 ## 📖 できればこれも
 
-- [amount](/amount)：量、総計
-- [division](/division)：分割、部門
+- [amount](/word/amount)：量、総計
+- [division](/word/division)：分割、部門
 
 <!-- cvid: aid09_bid42 -->

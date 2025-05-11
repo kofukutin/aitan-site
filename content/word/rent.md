@@ -97,7 +97,7 @@ TOEICでは、部屋や車、オフィスなどの賃貸に関する会話や説
 ## 🤔  lease との違いは？
 
 - **rent**：比較的短期間や一時的な賃貸に使われることが多い。
-- **[lease](/lease)**：長期間・契約に基づく賃貸に使われる。
+- **[lease](/word/lease)**：長期間・契約に基づく賃貸に使われる。
 
 rentは「気軽に借りる」イメージ、leaseは「契約書を交わして長期間借りる」イメージです。
 
@@ -105,14 +105,14 @@ rentは「気軽に借りる」イメージ、leaseは「契約書を交わし�
 
 ## 🧩 あわせて覚えたい
 
-- [borrow](/borrow)：無料で借りる
-- [lend](/lend)：貸す
+- [borrow](/word/borrow)：無料で借りる
+- [lend](/word/lend)：貸す
 
 ---
 
 ## 📖 できればこれも
 
-- [hire](/hire)：（主に英）一時的に借りる、雇う
-- [purchase](/purchase)：購入する
+- [hire](/word/hire)：（主に英）一時的に借りる、雇う
+- [purchase](/word/purchase)：購入する
 
 <!-- cvid: aid38_bid37 -->

@@ -97,7 +97,7 @@ TOEICでは観光や娯楽、イベント紹介の記事や広告文で登場す
 ## 🤔  sing との違いは？
 
 - **karaoke**：カラオケ機器や場所で音楽に合わせて歌う娯楽やその行為。
-- **[sing](/sing)**：歌うという動作全般を指す一般的な動詞。
+- **[sing](/word/sing)**：歌うという動作全般を指す一般的な動詞。
 
 karaokeは「カラオケ」という特定の娯楽やスタイルを指し、singは単に「歌う」こと全般を表します。
 
@@ -105,14 +105,14 @@ karaokeは「カラオケ」という特定の娯楽やスタイルを指し、s
 
 ## 🧩 あわせて覚えたい
 
-- [performance](/performance)：演奏、上演
-- [entertainment](/entertainment)：娯楽、エンターテインメント
+- [performance](/word/performance)：演奏、上演
+- [entertainment](/word/entertainment)：娯楽、エンターテインメント
 
 ---
 
 ## 📖 できればこれも
 
-- [bar](/bar)：バー、酒場
-- [microphone](/microphone)：マイク
+- [bar](/word/bar)：バー、酒場
+- [microphone](/word/microphone)：マイク
 
 <!-- cvid: aid06_bid08 -->

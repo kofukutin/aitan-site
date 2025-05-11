@@ -97,7 +97,7 @@ TOEICではグラフや数値の変化、ビジネスレポートの説明文で
 ## 🤔  suddenly との違いは？
 
 - **sharply**：変化や違いが「急激で、はっきりしている」ことを強調
-- **[suddenly](/suddenly)**：出来事が「突然起こる」ことを強調
+- **[suddenly](/word/suddenly)**：出来事が「突然起こる」ことを強調
 
 sharplyは「変化の度合い・明確さ」に焦点があり、suddenlyは「予期せぬタイミング」に重点があります。
 
@@ -105,14 +105,14 @@ sharplyは「変化の度合い・明確さ」に焦点があり、suddenlyは�
 
 ## 🧩 あわせて覚えたい
 
-- [dramatically](/dramatically)：劇的に、大きく
-- [gradually](/gradually)：徐々に、だんだんと
+- [dramatically](/word/dramatically)：劇的に、大きく
+- [gradually](/word/gradually)：徐々に、だんだんと
 
 ---
 
 ## 📖 できればこれも
 
-- [rapidly](/rapidly)：急速に
-- [significantly](/significantly)：著しく、かなり
+- [rapidly](/word/rapidly)：急速に
+- [significantly](/word/significantly)：著しく、かなり
 
 <!-- cvid: aid30_bid34 -->

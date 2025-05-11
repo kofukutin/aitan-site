@@ -96,7 +96,7 @@ TOEICではプリンターやコピー機の説明書、オフィス機器の案
 ## 🤔  container との違いは？
 
 - **cartridge**：機械や装置にセットして使う、交換式の部品や容器
-- **[container](/container)**：一般的な「容器」全般（箱・缶・ボトルなど）
+- **[container](/word/container)**：一般的な「容器」全般（箱・缶・ボトルなど）
 
 cartridgeは特定の機器に装着して使う部品を指し、containerは中身を入れる一般的な容器を指します。
 
@@ -104,14 +104,14 @@ cartridgeは特定の機器に装着して使う部品を指し、containerは�
 
 ## 🧩 あわせて覚えたい
 
-- [cassette](/cassette)：カセット（テープやフィルターなどの交換式容器）
-- [refill](/refill)：詰め替え用（補充するための中身）
+- [cassette](/word/cassette)：カセット（テープやフィルターなどの交換式容器）
+- [refill](/word/refill)：詰め替え用（補充するための中身）
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/device)：装置、機器
-- [component](/component)：部品、構成要素
+- [device](/word/device)：装置、機器
+- [component](/word/component)：部品、構成要素
 
 <!-- cvid: aid27_bid12 -->

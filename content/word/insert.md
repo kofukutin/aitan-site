@@ -97,7 +97,7 @@ insertはTOEICの文法・語彙問題で、書類やデータの「挿入」に
 ## 🤔  input との違いは？
 
 - **insert**：物理的・データ的に「中に差し込む」「挿入する」ことを強調
-- **[input](/input)**：情報やデータを「入力する」ことを指し、操作や手続きのニュアンスが強い
+- **[input](/word/input)**：情報やデータを「入力する」ことを指し、操作や手続きのニュアンスが強い
 
 insertは「物を中に入れる」動作そのもの、inputは「情報を入力する」行為に使い分けます。
 
@@ -105,14 +105,14 @@ insertは「物を中に入れる」動作そのもの、inputは「情報を入
 
 ## 🧩 あわせて覚えたい
 
-- [remove](/remove)：取り除く、削除する
-- [embed](/embed)：埋め込む、組み込む
+- [remove](/word/remove)：取り除く、削除する
+- [embed](/word/embed)：埋め込む、組み込む
 
 ---
 
 ## 📖 できればこれも
 
-- [attach](/attach)：添付する、取り付ける
-- [replace](/replace)：取り替える、交換する
+- [attach](/word/attach)：添付する、取り付ける
+- [replace](/word/replace)：取り替える、交換する
 
 <!-- cvid: aid33_bid19 -->

@@ -97,7 +97,7 @@ TOEICでは、旅行やイベント、日常的な会話の場面で「同行者
 ## 🤔  colleague との違いは？
 
 - **companion**：一緒に行動したり時間を過ごす仲間や連れ。仕事以外でも使えるカジュアルな表現。
-- **[colleague](/colleague)**：職場の同僚。ビジネスや仕事の関係に限定されるフォーマルな表現。
+- **[colleague](/word/colleague)**：職場の同僚。ビジネスや仕事の関係に限定されるフォーマルな表現。
 
 companionはプライベートや旅行など幅広い場面で使えますが、colleagueは職場の同僚に限定されます。
 
@@ -105,14 +105,14 @@ companionはプライベートや旅行など幅広い場面で使えますが�
 
 ## 🧩 あわせて覚えたい
 
-- [partner](/partner)：パートナー、相棒
-- [acquaintance](/acquaintance)：知人
+- [partner](/word/partner)：パートナー、相棒
+- [acquaintance](/word/acquaintance)：知人
 
 ---
 
 ## 📖 できればこれも
 
-- [guest](/guest)：客、招待客
-- [neighbor](/neighbor)：隣人
+- [guest](/word/guest)：客、招待客
+- [neighbor](/word/neighbor)：隣人
 
 <!-- cvid: aid44_bid06 -->

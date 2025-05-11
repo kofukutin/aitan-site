@@ -97,7 +97,7 @@ TOEICでは、世代やエネルギーの「生成」など幅広い文脈で登
 ## 🤔  production との違いは？
 
 - **generation**：何かを「生み出すこと」や「世代」という意味で、特に自然発生や抽象的な生成に使われやすい。
-- **[production](/production)**：主に「生産」「製造」など、工場やビジネスでの具体的なモノづくりに使われる。
+- **[production](/word/production)**：主に「生産」「製造」など、工場やビジネスでの具体的なモノづくりに使われる。
 
 generationは「生み出す過程」や「世代交代」など幅広い意味で使われ、productionは「製品や物の生産」に特化しています。
 
@@ -105,14 +105,14 @@ generationは「生み出す過程」や「世代交代」など幅広い意味�
 
 ## 🧩 あわせて覚えたい
 
-- [innovation](/innovation)：革新、新しい発明
-- [ancestor](/ancestor)：祖先
+- [innovation](/word/innovation)：革新、新しい発明
+- [ancestor](/word/ancestor)：祖先
 
 ---
 
 ## 📖 できればこれも
 
-- [creation](/creation)：創造、創作
-- [development](/development)：発展、開発
+- [creation](/word/creation)：創造、創作
+- [development](/word/development)：発展、開発
 
 <!-- cvid: aid00_bid11 -->

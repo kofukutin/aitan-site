@@ -97,7 +97,7 @@ TOEICでは会議や職場での指示、案内、管理に関する文脈でよ
 ## 🤔  manage との違いは？
 
 - **direct**：具体的な指示や方向づけを行う、導く
-- **[manage](/manage)**：全体を管理・運営する、うまく扱う
+- **[manage](/word/manage)**：全体を管理・運営する、うまく扱う
 
 directは「どのように進めるかを指示する」ニュアンスが強く、manageは「全体をまとめて運営する」意味合いが強いです。
 
@@ -105,14 +105,14 @@ directは「どのように進めるかを指示する」ニュアンスが強�
 
 ## 🧩 あわせて覚えたい
 
-- [supervise](/supervise)：監督する、見守る
-- [lead](/lead)：率いる、導く
+- [supervise](/word/supervise)：監督する、見守る
+- [lead](/word/lead)：率いる、導く
 
 ---
 
 ## 📖 できればこれも
 
-- [control](/control)：制御する、管理する
-- [guide](/guide)：案内する、導く
+- [control](/word/control)：制御する、管理する
+- [guide](/word/guide)：案内する、導く
 
 <!-- cvid: aid39_bid09 -->

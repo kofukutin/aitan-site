@@ -93,7 +93,7 @@ aheadは会話文や指示文で「前もって」「先に」といった意味
 ## 🤔  forward との違いは？
 
 - **ahead**：位置や時間、計画の「先」「前方」を表す副詞。進行方向や未来に向かうニュアンスが強い。
-- **[forward](/forward)**：物理的な「前方」や「前進」を表し、動きや姿勢に重点がある。
+- **[forward](/word/forward)**：物理的な「前方」や「前進」を表し、動きや姿勢に重点がある。
 
 aheadは「これから」「先に」と時間的・抽象的な意味でも使えるが、forwardは主に動きや物理的な前進に使われます。
 
@@ -101,14 +101,14 @@ aheadは「これから」「先に」と時間的・抽象的な意味でも使
 
 ## 🧩 あわせて覚えたい
 
-- [beforehand](/beforehand)：前もって
-- [advance](/advance)：前進する、進める
+- [beforehand](/word/beforehand)：前もって
+- [advance](/word/advance)：前進する、進める
 
 ---
 
 ## 📖 できればこれも
 
-- [behind](/behind)：後ろに、遅れて
-- [beyond](/beyond)：～を越えて
+- [behind](/word/behind)：後ろに、遅れて
+- [beyond](/word/beyond)：～を越えて
 
 <!-- cvid: aid25_bid23 -->

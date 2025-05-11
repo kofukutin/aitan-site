@@ -97,7 +97,7 @@ TOEICでは医療や健康に関する長文や案内文でよく登場します
 ## 🤔  clinic との違いは？
 
 - **hospital**：大規模な医療施設で、入院や手術など幅広い治療が可能。
-- **[clinic](/clinic)**：小規模な診療所で、主に外来診療や軽い治療を行う。
+- **[clinic](/word/clinic)**：小規模な診療所で、主に外来診療や軽い治療を行う。
 
 hospitalは入院や専門的な治療が必要な場合に使われ、clinicは日常的な診察や軽い症状の治療に使われます。
 
@@ -105,14 +105,14 @@ hospitalは入院や専門的な治療が必要な場合に使われ、clinicは
 
 ## 🧩 あわせて覚えたい
 
-- [emergency](/emergency)：緊急事態、救急
-- [patient](/patient)：患者
+- [emergency](/word/emergency)：緊急事態、救急
+- [patient](/word/patient)：患者
 
 ---
 
 ## 📖 できればこれも
 
-- [medicine](/medicine)：薬、医学
-- [doctor](/doctor)：医者
+- [medicine](/word/medicine)：薬、医学
+- [doctor](/word/doctor)：医者
 
 <!-- cvid: aid11_bid15 -->

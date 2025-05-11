@@ -97,7 +97,7 @@ TOEICでは、契約や業務の条件、能力の限界などを表す文脈で
 ## 🤔  restriction との違いは？
 
 - **limitation**：自然な制約や能力・条件の限界を表すことが多い
-- **[restriction](/restriction)**：外部から課される「禁止・制限」など強制力のある制約
+- **[restriction](/word/restriction)**：外部から課される「禁止・制限」など強制力のある制約
 
 limitationは「本来の能力や条件による限界」にも使われ、restrictionは「ルールや規則による制限」に使われます。
 
@@ -105,14 +105,14 @@ limitationは「本来の能力や条件による限界」にも使われ、rest
 
 ## 🧩 あわせて覚えたい
 
-- [constraint](/constraint)：制約、強い制限
-- [advantage](/advantage)：利点、有利な点
+- [constraint](/word/constraint)：制約、強い制限
+- [advantage](/word/advantage)：利点、有利な点
 
 ---
 
 ## 📖 できればこれも
 
-- [requirement](/requirement)：要件、必要条件
-- [condition](/condition)：条件、状況
+- [requirement](/word/requirement)：要件、必要条件
+- [condition](/word/condition)：条件、状況
 
 <!-- cvid: aid21_bid06 -->

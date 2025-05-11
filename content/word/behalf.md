@@ -96,7 +96,7 @@ TOEICではビジネスメールや通知文など、フォーマルな文書で
 ## 🤔  favor との違いは？
 
 - **behalf**：誰かを代表して、または誰かの利益のために行動することを表すフォーマルな語。
-- **[favor](/favor)**：好意や親切、または「お願い」を意味し、カジュアルな場面でも使われる。
+- **[favor](/word/favor)**：好意や親切、または「お願い」を意味し、カジュアルな場面でも使われる。
 
 behalfは「代理・代表」の意味合いが強く、favorは「好意・お願い」の意味で使い分けます。
 
@@ -104,14 +104,14 @@ behalfは「代理・代表」の意味合いが強く、favorは「好意・お
 
 ## 🧩 あわせて覚えたい
 
-- [representative](/representative)：代表者、代理人
-- [proxy](/proxy)：代理人、委任状
+- [representative](/word/representative)：代表者、代理人
+- [proxy](/word/proxy)：代理人、委任状
 
 ---
 
 ## 📖 できればこれも
 
-- [benefit](/benefit)：利益、恩恵
-- [purpose](/purpose)：目的
+- [benefit](/word/benefit)：利益、恩恵
+- [purpose](/word/purpose)：目的
 
 <!-- cvid: aid21_bid09 -->

@@ -97,7 +97,7 @@ thresholdは、ビジネス文書や技術文書の中で「基準値」「限�
 ## 🤔  boundary との違いは？
 
 - **threshold**：何かが始まる「しきい値」や「基準点」を指す
-- **[boundary](/boundary)**：物理的・抽象的な「境界線」や「限界」を指す
+- **[boundary](/word/boundary)**：物理的・抽象的な「境界線」や「限界」を指す
 
 thresholdは「変化や動作が始まるポイント」、boundaryは「範囲や領域の端」を表します。
 
@@ -105,14 +105,14 @@ thresholdは「変化や動作が始まるポイント」、boundaryは「範囲
 
 ## 🧩 あわせて覚えたい
 
-- [limit](/limit)：限界、制限
-- [milestone](/milestone)：重要な節目、画期的な出来事
+- [limit](/word/limit)：限界、制限
+- [milestone](/word/milestone)：重要な節目、画期的な出来事
 
 ---
 
 ## 📖 できればこれも
 
-- [criteria](/criteria)：基準、判断のものさし
-- [margin](/margin)：余白、差、余裕
+- [criteria](/word/criteria)：基準、判断のものさし
+- [margin](/word/margin)：余白、差、余裕
 
 <!-- cvid: aid35_bid42 -->

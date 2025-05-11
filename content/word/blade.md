@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、ナイフや機械の部品、扇風機
 ## 🤔  edge との違いは？
 
 - **blade**：刃物の「刃」やプロペラの「羽根」など、薄くて平たい部分全体を指す。
-- **[edge](/edge)**：物の「端」や「縁」、特に鋭い部分や境界を指す。
+- **[edge](/word/edge)**：物の「端」や「縁」、特に鋭い部分や境界を指す。
 
 bladeは「全体の刃」や「羽根」などの部品名、edgeは「端」や「鋭い部分」として使い分けます。
 
@@ -105,14 +105,14 @@ bladeは「全体の刃」や「羽根」などの部品名、edgeは「端」�
 
 ## 🧩 あわせて覚えたい
 
-- [knife](/knife)：ナイフ、刃物
-- [leaf](/leaf)：（植物の）葉
+- [knife](/word/knife)：ナイフ、刃物
+- [leaf](/word/leaf)：（植物の）葉
 
 ---
 
 ## 📖 できればこれも
 
-- [handle](/handle)：取っ手、持ち手
-- [surface](/surface)：表面
+- [handle](/word/handle)：取っ手、持ち手
+- [surface](/word/surface)：表面
 
 <!-- cvid: aid08_bid34 -->

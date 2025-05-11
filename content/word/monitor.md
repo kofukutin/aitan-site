@@ -98,7 +98,7 @@ TOEICではITやビジネスの会話、システム管理や業務の進捗確�
 ## 🤔  supervise との違いは？
 
 - **monitor**：継続的に観察・監視して変化や問題をチェックする
-- **[supervise](/supervise)**：人や作業を直接管理・指導する
+- **[supervise](/word/supervise)**：人や作業を直接管理・指導する
 
 monitorは「見守る・観察する」イメージ、superviseは「指導・管理する」イメージで、責任や介入の度合いが異なります。
 
@@ -106,14 +106,14 @@ monitorは「見守る・観察する」イメージ、superviseは「指導・�
 
 ## 🧩 あわせて覚えたい
 
-- [observe](/observe)：観察する
-- [check](/check)：確認する
+- [observe](/word/observe)：観察する
+- [check](/word/check)：確認する
 
 ---
 
 ## 📖 できればこれも
 
-- [control](/control)：制御する
-- [track](/track)：追跡する
+- [control](/word/control)：制御する
+- [track](/word/track)：追跡する
 
 <!-- cvid: aid49_bid25 -->

@@ -97,7 +97,7 @@ TOEICでは「強み」「長所」「強さ」などの意味で、自己紹介
 ## 🤔  power との違いは？
 
 - **strength**：物理的・精神的な「強さ」や「長所」を表す。
-- **[power](/power)**：影響力や支配力、エネルギーなど幅広い「力」を表す。
+- **[power](/word/power)**：影響力や支配力、エネルギーなど幅広い「力」を表す。
 
 strengthは「個人の強み」や「物の強度」に使われ、powerは「権力」や「エネルギー」など抽象的・広範な力に使われます。
 
@@ -105,14 +105,14 @@ strengthは「個人の強み」や「物の強度」に使われ、powerは「�
 
 ## 🧩 あわせて覚えたい
 
-- [weakness](/weakness)：弱さ、短所
-- [advantage](/advantage)：有利、利点
+- [weakness](/word/weakness)：弱さ、短所
+- [advantage](/word/advantage)：有利、利点
 
 ---
 
 ## 📖 できればこれも
 
-- [ability](/ability)：能力
-- [effort](/effort)：努力
+- [ability](/word/ability)：能力
+- [effort](/word/effort)：努力
 
 <!-- cvid: aid17_bid28 -->

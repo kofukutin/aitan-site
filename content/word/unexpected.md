@@ -97,7 +97,7 @@ unexpectedは、TOEICの文法・語彙問題で「予期しない出来事」�
 ## 🤔  surprising との違いは？
 
 - **unexpected**：予想していなかった、計画外の
-- **[surprising](/surprising)**：驚くべき、意外な
+- **[surprising](/word/surprising)**：驚くべき、意外な
 
 unexpectedは「予想外であること」に重点があり、surprisingは「驚きを感じさせること」に重点があります。
 
@@ -105,14 +105,14 @@ unexpectedは「予想外であること」に重点があり、surprisingは「
 
 ## 🧩 あわせて覚えたい
 
-- [predictable](/predictable)：予測できる
-- [sudden](/sudden)：突然の
+- [predictable](/word/predictable)：予測できる
+- [sudden](/word/sudden)：突然の
 
 ---
 
 ## 📖 できればこれも
 
-- [accidental](/accidental)：偶然の、意図しない
-- [unusual](/unusual)：珍しい、普通でない
+- [accidental](/word/accidental)：偶然の、意図しない
+- [unusual](/word/unusual)：珍しい、普通でない
 
 <!-- cvid: aid26_bid03 -->

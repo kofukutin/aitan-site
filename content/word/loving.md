@@ -97,7 +97,7 @@ TOEICでは、人物の性格や態度を表す会話文や説明文で見かけ
 ## 🤔  affectionate との違いは？
 
 - **loving**：愛情を持って接する様子や態度を表す
-- **[affectionate](/affectionate)**：愛情表現が積極的で、スキンシップや言葉で示す様子
+- **[affectionate](/word/affectionate)**：愛情表現が積極的で、スキンシップや言葉で示す様子
 
 lovingは内面の愛情や思いやりを強調し、affectionateは外に表れる愛情表現を強調します。
 
@@ -105,14 +105,14 @@ lovingは内面の愛情や思いやりを強調し、affectionateは外に表�
 
 ## 🧩 あわせて覚えたい
 
-- [caring](/caring)：思いやりのある
-- [hostile](/hostile)：敵意のある
+- [caring](/word/caring)：思いやりのある
+- [hostile](/word/hostile)：敵意のある
 
 ---
 
 ## 📖 できればこれも
 
-- [friendly](/friendly)：親しみやすい
-- [gentle](/gentle)：優しい
+- [friendly](/word/friendly)：親しみやすい
+- [gentle](/word/gentle)：優しい
 
 <!-- cvid: aid04_bid07 -->

@@ -93,7 +93,7 @@ TOEICでは主にPart 7の広告や案内文などで「無料で」という意
 ## 🤔  free との違いは？
 
 - **gratis**：フォーマルな場面や書き言葉で「無料で」を表す副詞。
-- **[free](/free)**：日常的で幅広く使える「無料の」「自由な」などの形容詞・副詞。
+- **[free](/word/free)**：日常的で幅広く使える「無料の」「自由な」などの形容詞・副詞。
 
 「gratis」は特に書き言葉やビジネス文書で使われ、日常会話では「free」が一般的です。
 
@@ -101,14 +101,14 @@ TOEICでは主にPart 7の広告や案内文などで「無料で」という意
 
 ## 🧩 あわせて覚えたい
 
-- [complimentary](/complimentary)：無料の（特にサービスや贈り物として）
-- [charge](/charge)：料金、請求
+- [complimentary](/word/complimentary)：無料の（特にサービスや贈り物として）
+- [charge](/word/charge)：料金、請求
 
 ---
 
 ## 📖 できればこれも
 
-- [fee](/fee)：料金、手数料
-- [discount](/discount)：割引
+- [fee](/word/fee)：料金、手数料
+- [discount](/word/discount)：割引
 
 <!-- cvid: aid00_bid06 -->

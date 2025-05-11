@@ -97,7 +97,7 @@ TOEICでは契約書やビジネス上のトラブル解決に関する長文で
 ## 🤔  mediation との違いは？
 
 - **arbitration**：第三者が最終的な判断を下し、当事者はその決定に従う必要がある仲裁。
-- **[mediation](/mediation)**：第三者が話し合いを仲介するが、最終決定は当事者同士で行う調停。
+- **[mediation](/word/mediation)**：第三者が話し合いを仲介するが、最終決定は当事者同士で行う調停。
 
 arbitrationは「裁定型」、mediationは「話し合い型」の解決方法で、強制力の有無が大きな違いです。
 
@@ -105,14 +105,14 @@ arbitrationは「裁定型」、mediationは「話し合い型」の解決方法
 
 ## 🧩 あわせて覚えたい
 
-- [litigation](/litigation)：訴訟、裁判による解決
-- [settlement](/settlement)：和解、合意による解決
+- [litigation](/word/litigation)：訴訟、裁判による解決
+- [settlement](/word/settlement)：和解、合意による解決
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/contract)：契約
-- [agreement](/agreement)：合意、協定
+- [contract](/word/contract)：契約
+- [agreement](/word/agreement)：合意、協定
 
 <!-- cvid: aid33_bid24 -->

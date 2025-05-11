@@ -97,7 +97,7 @@ TOEICでは、イベントや施設案内、会場の説明などで登場する
 ## 🤔  stadium との違いは？
 
 - **arena**：屋内型の競技場やイベント会場を指すことが多い
-- **[stadium](/stadium)**：主に屋外型の大規模な競技場を指す
+- **[stadium](/word/stadium)**：主に屋外型の大規模な競技場を指す
 
 arenaは屋根付きの施設やコンサート会場にも使われ、stadiumは主に野外スポーツの会場に使われます。
 
@@ -105,14 +105,14 @@ arenaは屋根付きの施設やコンサート会場にも使われ、stadium�
 
 ## 🧩 あわせて覚えたい
 
-- [auditorium](/auditorium)：講堂、観客席付きのホール
-- [venue](/venue)：会場、開催地
+- [auditorium](/word/auditorium)：講堂、観客席付きのホール
+- [venue](/word/venue)：会場、開催地
 
 ---
 
 ## 📖 できればこれも
 
-- [theater](/theater)：劇場
-- [hall](/hall)：ホール、集会所
+- [theater](/word/theater)：劇場
+- [hall](/word/hall)：ホール、集会所
 
 <!-- cvid: aid49_bid07 -->

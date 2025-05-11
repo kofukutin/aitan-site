@@ -96,7 +96,7 @@ TOEICでは経済や金融に関する長文や記事、ビジネス文書で出
 ## 🤔  financial との違いは？
 
 - **monetary**：お金や通貨そのもの、金銭に直接関わる事柄を指す
-- **[financial](/financial)**：財務・金融全般、資金運用や経済活動全体に関わる
+- **[financial](/word/financial)**：財務・金融全般、資金運用や経済活動全体に関わる
 
 **monetary**は「お金そのもの」に焦点を当て、**financial**は「お金の流れや管理」など広い意味で使われます。
 
@@ -104,14 +104,14 @@ TOEICでは経済や金融に関する長文や記事、ビジネス文書で出
 
 ## 🧩 あわせて覚えたい
 
-- [fiscal](/fiscal)：財政の、国家の収支に関する
-- [economic](/economic)：経済の、経済に関する
+- [fiscal](/word/fiscal)：財政の、国家の収支に関する
+- [economic](/word/economic)：経済の、経済に関する
 
 ---
 
 ## 📖 できればこれも
 
-- [currency](/currency)：通貨
-- [asset](/asset)：資産
+- [currency](/word/currency)：通貨
+- [asset](/word/asset)：資産
 
 <!-- cvid: aid37_bid13 -->

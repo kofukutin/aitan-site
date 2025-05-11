@@ -97,7 +97,7 @@ TOEICでは、説明文やメール文中で「特に～」と強調する場面
 ## 🤔  especially との違いは？
 
 - **particularly**：他と比べて際立って強調したいときに使う
-- **[especially](/especially)**：多くの中から「特にこれ」と例示・限定したいときに使う
+- **[especially](/word/especially)**：多くの中から「特にこれ」と例示・限定したいときに使う
 
 **particularly**は「強調」に重点があり、**especially**は「例示・限定」に重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは、説明文やメール文中で「特に～」と強調する場面
 
 ## 🧩 あわせて覚えたい
 
-- [specifically](/specifically)：具体的に
-- [mainly](/mainly)：主に
+- [specifically](/word/specifically)：具体的に
+- [mainly](/word/mainly)：主に
 
 ---
 
 ## 📖 できればこれも
 
-- [mainly](/mainly)：主に
-- [significantly](/significantly)：著しく、大いに
+- [mainly](/word/mainly)：主に
+- [significantly](/word/significantly)：著しく、大いに
 
 <!-- cvid: aid07_bid44 -->

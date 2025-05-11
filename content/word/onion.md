@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、食材や料理の説明とし
 ## 🤔  garlic との違いは？
 
 - **onion**：丸くて層になった野菜で、辛味や甘みがあり、加熱や生で食べる。
-- **[garlic](/garlic)**：小さな房が集まった形で、強い香りと辛味が特徴。
+- **[garlic](/word/garlic)**：小さな房が集まった形で、強い香りと辛味が特徴。
 
 onionは料理のベースやサラダなど幅広く使われる一般的な野菜、garlicは香りづけや風味付けに使われる香味野菜です。
 
@@ -105,14 +105,14 @@ onionは料理のベースやサラダなど幅広く使われる一般的な野
 
 ## 🧩 あわせて覚えたい
 
-- [vegetable](/vegetable)：野菜
-- [potato](/potato)：ジャガイモ
+- [vegetable](/word/vegetable)：野菜
+- [potato](/word/potato)：ジャガイモ
 
 ---
 
 ## 📖 できればこれも
 
-- [carrot](/carrot)：ニンジン
-- [tomato](/tomato)：トマト
+- [carrot](/word/carrot)：ニンジン
+- [tomato](/word/tomato)：トマト
 
 <!-- cvid: aid28_bid07 -->

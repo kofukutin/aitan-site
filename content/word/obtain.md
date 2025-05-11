@@ -97,7 +97,7 @@ obtainはTOEICの文法・語彙問題で「得る」「取得する」の意味
 ## 🤔  acquire との違いは？
 
 - **obtain**：努力や手続きを経て何かを得る（ややフォーマル）
-- **[acquire](/acquire)**：知識・スキル・財産などを徐々に身につける、獲得する
+- **[acquire](/word/acquire)**：知識・スキル・財産などを徐々に身につける、獲得する
 
 obtainは「物理的・公式なものを得る」ニュアンスが強く、acquireは「経験や知識などを身につける」場合によく使われます。
 
@@ -105,14 +105,14 @@ obtainは「物理的・公式なものを得る」ニュアンスが強く、ac
 
 ## 🧩 あわせて覚えたい
 
-- [receive](/receive)：受け取る
-- [collect](/collect)：集める
+- [receive](/word/receive)：受け取る
+- [collect](/word/collect)：集める
 
 ---
 
 ## 📖 できればこれも
 
-- [require](/require)：必要とする
-- [submit](/submit)：提出する
+- [require](/word/require)：必要とする
+- [submit](/word/submit)：提出する
 
 <!-- cvid: aid31_bid29 -->

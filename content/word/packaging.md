@@ -97,7 +97,7 @@ TOEICでは商品の説明や出荷、マーケティング関連の長文でよ
 ## 🤔  wrapping との違いは？
 
 - **packaging**：商品全体のパッケージや包装材、デザイン全般を指す
-- **[wrapping](/wrapping)**：主に包む行為やラッピングペーパーなど、外側の「包み」に焦点
+- **[wrapping](/word/wrapping)**：主に包む行為やラッピングペーパーなど、外側の「包み」に焦点
 
 **packaging**は製品の外装やデザイン全体を指し、**wrapping**は贈り物などの「包む行為」や紙そのものを強調します。
 
@@ -105,14 +105,14 @@ TOEICでは商品の説明や出荷、マーケティング関連の長文でよ
 
 ## 🧩 あわせて覚えたい
 
-- [container](/container)：容器、入れ物
-- [label](/label)：ラベル、表示
+- [container](/word/container)：容器、入れ物
+- [label](/word/label)：ラベル、表示
 
 ---
 
 ## 📖 できればこれも
 
-- [shipment](/shipment)：出荷、発送
-- [product](/product)：製品、商品
+- [shipment](/word/shipment)：出荷、発送
+- [product](/word/product)：製品、商品
 
 <!-- cvid: aid04_bid13 -->

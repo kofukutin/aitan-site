@@ -97,7 +97,7 @@ TOEICでは、ニュース記事や法務関連の長文で登場することが
 ## 🤔  jail との違いは？
 
 - **prison**：長期間の刑罰を受けるための正式な刑務所
-- **[jail](/jail)**：短期間の拘留や未決囚を収容する施設
+- **[jail](/word/jail)**：短期間の拘留や未決囚を収容する施設
 
 prisonは重い犯罪や長期刑に使われ、jailは軽犯罪や裁判待ちの人に使われることが多いです。
 
@@ -105,14 +105,14 @@ prisonは重い犯罪や長期刑に使われ、jailは軽犯罪や裁判待ち�
 
 ## 🧩 あわせて覚えたい
 
-- [sentence](/sentence)：判決、刑
-- [guard](/guard)：警備員、看守
+- [sentence](/word/sentence)：判決、刑
+- [guard](/word/guard)：警備員、看守
 
 ---
 
 ## 📖 できればこれも
 
-- [court](/court)：裁判所
-- [law](/law)：法律
+- [court](/word/court)：裁判所
+- [law](/word/law)：法律
 
 <!-- cvid: aid41_bid01 -->

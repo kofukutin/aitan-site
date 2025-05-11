@@ -97,7 +97,7 @@ TOEICでは広告や商品説明、ビジネス文書で「apparel」が衣料�
 ## 🤔  garment との違いは？
 
 - **apparel**：衣類全般を指し、特にビジネスやフォーマルな文脈で使われる不可算名詞。
-- **[garment](/garment)**：一着ごとの「衣服」「衣類」を指し、可算名詞として使われる。
+- **[garment](/word/garment)**：一着ごとの「衣服」「衣類」を指し、可算名詞として使われる。
 
 apparelは「衣料品全体」や業界用語として使われるのに対し、garmentは個々の服や一着一着を指す点が異なります。
 
@@ -105,13 +105,13 @@ apparelは「衣料品全体」や業界用語として使われるのに対し�
 
 ## 🧩 あわせて覚えたい
 
-- [attire](/attire)：（フォーマルな）服装、装い
-- [outfit](/outfit)：（特定の目的の）服装、コーディネート
+- [attire](/word/attire)：（フォーマルな）服装、装い
+- [outfit](/word/outfit)：（特定の目的の）服装、コーディネート
 
 ---
 
 ## 📖 できればこれも
 
-- [merchandise](/merchandise)：商品、製品
-- [inventory](/inventory)：在庫、棚卸し
+- [merchandise](/word/merchandise)：商品、製品
+- [inventory](/word/inventory)：在庫、棚卸し
 <!-- cvid: aid29_bid22 -->

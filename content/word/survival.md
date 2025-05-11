@@ -97,7 +97,7 @@ TOEICでは、ビジネスや環境、企業の存続などの文脈でPart 7の
 ## 🤔  existence との違いは？
 
 - **survival**：困難や危機を乗り越えて「生き残ること」「存続」を強調
-- **[existence](/existence)**：単に「存在すること」「存在そのもの」を表す
+- **[existence](/word/existence)**：単に「存在すること」「存在そのもの」を表す
 
 survivalは「生き残る」という能動的なニュアンスがあり、existenceは「存在している状態」を指します。
 
@@ -105,14 +105,14 @@ survivalは「生き残る」という能動的なニュアンスがあり、exi
 
 ## 🧩 あわせて覚えたい
 
-- [endurance](/endurance)：忍耐、持久力
-- [extinction](/extinction)：絶滅
+- [endurance](/word/endurance)：忍耐、持久力
+- [extinction](/word/extinction)：絶滅
 
 ---
 
 ## 📖 できればこれも
 
-- [challenge](/challenge)：課題、挑戦
-- [risk](/risk)：危険、リスク
+- [challenge](/word/challenge)：課題、挑戦
+- [risk](/word/risk)：危険、リスク
 
 <!-- cvid: aid04_bid15 -->

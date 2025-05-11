@@ -93,7 +93,7 @@ TOEICでは、ビジネス文書や記事の中で「ますます～になって
 ## 🤔  gradually との違いは？
 
 - **increasingly**：程度や頻度が「ますます」増えていく様子を強調
-- **[gradually](/gradually)**：変化が「徐々に」進む様子を強調
+- **[gradually](/word/gradually)**：変化が「徐々に」進む様子を強調
 
 「increasingly」は変化の度合いが強まることに焦点があり、「gradually」は変化のスピードがゆっくりであることに焦点があります。
 
@@ -101,14 +101,14 @@ TOEICでは、ビジネス文書や記事の中で「ますます～になって
 
 ## 🧩 あわせて覚えたい
 
-- [rapidly](/rapidly)：急速に
-- [significantly](/significantly)：著しく
+- [rapidly](/word/rapidly)：急速に
+- [significantly](/word/significantly)：著しく
 
 ---
 
 ## 📖 できればこれも
 
-- [frequently](/frequently)：頻繁に
-- [eventually](/eventually)：最終的に
+- [frequently](/word/frequently)：頻繁に
+- [eventually](/word/eventually)：最終的に
 
 <!-- cvid: aid33_bid28 -->

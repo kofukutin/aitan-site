@@ -97,7 +97,7 @@ TOEICでは自動車や機械の販売に関するメールや案内文、契約
 ## 🤔  agency との違いは？
 
 - **dealership**：特定ブランドやメーカーの商品を販売する公認の代理店・ディーラー
-- **[agency](/agency)**：代理業務全般を行う会社や組織（広告代理店、人材紹介など幅広い）
+- **[agency](/word/agency)**：代理業務全般を行う会社や組織（広告代理店、人材紹介など幅広い）
 
 dealershipは主に「販売店」としての役割が強く、自動車など特定分野で使われますが、agencyは「代理業務」全般に使われ、分野が広いです。
 
@@ -105,14 +105,14 @@ dealershipは主に「販売店」としての役割が強く、自動車など�
 
 ## 🧩 あわせて覚えたい
 
-- [distributor](/distributor)：卸売業者、流通業者
-- [retailer](/retailer)：小売業者
+- [distributor](/word/distributor)：卸売業者、流通業者
+- [retailer](/word/retailer)：小売業者
 
 ---
 
 ## 📖 できればこれも
 
-- [supplier](/supplier)：供給業者、納入業者
-- [branch](/branch)：支店、支社
+- [supplier](/word/supplier)：供給業者、納入業者
+- [branch](/word/branch)：支店、支社
 
 <!-- cvid: aid23_bid49 -->

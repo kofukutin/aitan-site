@@ -97,7 +97,7 @@ treatedは、TOEICの会話や説明文で「対応された」「処理され�
 ## 🤔  handled との違いは？
 
 - **treated**：特定の方法や態度で「扱う」「処理する」「治療する」ことを強調
-- **[handled](/handled)**：問題や物事を「対処する」「取り扱う」ことを広く指す
+- **[handled](/word/handled)**：問題や物事を「対処する」「取り扱う」ことを広く指す
 
 treatedは「どのように扱ったか」「どんな処置をしたか」に焦点があり、handledは「うまく対処したかどうか」など処理全般に使われます。
 
@@ -105,14 +105,14 @@ treatedは「どのように扱ったか」「どんな処置をしたか」に�
 
 ## 🧩 あわせて覚えたい
 
-- [process](/process)：処理する、加工する
-- [cure](/cure)：治す、治療する
+- [process](/word/process)：処理する、加工する
+- [cure](/word/cure)：治す、治療する
 
 ---
 
 ## 📖 できればこれも
 
-- [manage](/manage)：管理する、うまく扱う
-- [deal](/deal)：対処する、扱う
+- [manage](/word/manage)：管理する、うまく扱う
+- [deal](/word/deal)：対処する、扱う
 
 <!-- cvid: aid19_bid24 -->

@@ -97,7 +97,7 @@ TOEICでは、専門家の意見や資格、役割を説明する文脈でよく
 ## 🤔  specialist との違いは？
 
 - **expert**：幅広い分野や実務経験に基づく専門家
-- **[specialist](/specialist)**：特定の狭い分野に特化した専門家
+- **[specialist](/word/specialist)**：特定の狭い分野に特化した専門家
 
 expertは経験や知識が豊富な「熟練者」全般を指し、specialistはより限定的な分野の専門家を強調します。
 
@@ -105,14 +105,14 @@ expertは経験や知識が豊富な「熟練者」全般を指し、specialist�
 
 ## 🧩 あわせて覚えたい
 
-- [amateur](/amateur)：素人、未経験者
-- [professional](/professional)：プロ、職業人
+- [amateur](/word/amateur)：素人、未経験者
+- [professional](/word/professional)：プロ、職業人
 
 ---
 
 ## 📖 できればこれも
 
-- [consultant](/consultant)：コンサルタント、相談役
-- [advisor](/advisor)：助言者、アドバイザー
+- [consultant](/word/consultant)：コンサルタント、相談役
+- [advisor](/word/advisor)：助言者、アドバイザー
 
 <!-- cvid: aid22_bid09 -->

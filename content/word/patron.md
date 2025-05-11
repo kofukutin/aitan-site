@@ -97,7 +97,7 @@ TOEICでは主にレストランや美術館、劇場などの案内文や広告
 ## 🤔  customer との違いは？
 
 - **patron**：お店や団体を継続的に支援する「常連客」や「後援者」を指し、ややフォーマル。
-- **[customer](/customer)**：商品やサービスを購入する「顧客」「客」全般を指し、一般的でカジュアル。
+- **[customer](/word/customer)**：商品やサービスを購入する「顧客」「客」全般を指し、一般的でカジュアル。
 
 patronは支援や愛顧のニュアンスが強く、customerは単なる取引相手として使われます。
 
@@ -105,14 +105,14 @@ patronは支援や愛顧のニュアンスが強く、customerは単なる取引
 
 ## 🧩 あわせて覚えたい
 
-- [sponsor](/sponsor)：スポンサー、資金提供者
-- [benefactor](/benefactor)：恩人、慈善事業の支援者
+- [sponsor](/word/sponsor)：スポンサー、資金提供者
+- [benefactor](/word/benefactor)：恩人、慈善事業の支援者
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/client)：依頼人、顧客（特に専門職の）
-- [donor](/donor)：寄付者、提供者
+- [client](/word/client)：依頼人、顧客（特に専門職の）
+- [donor](/word/donor)：寄付者、提供者
 
 <!-- cvid: aid04_bid36 -->

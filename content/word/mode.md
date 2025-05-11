@@ -97,7 +97,7 @@ TOEICではIT関連や機械の説明文、マニュアルなどで「mode」が
 ## 🤔  method との違いは？
 
 - **mode**：特定の状態や機能、様式を指す。機械やIT、設定などで使われやすい。
-- **[method](/method)**：物事を達成するための「方法」や「手順」を指す。
+- **[method](/word/method)**：物事を達成するための「方法」や「手順」を指す。
 
 「mode」は「状態」や「機能の切り替え」に焦点があり、「method」は「やり方」や「手順」に重点があります。
 
@@ -105,14 +105,14 @@ TOEICではIT関連や機械の説明文、マニュアルなどで「mode」が
 
 ## 🧩 あわせて覚えたい
 
-- [style](/style)：スタイル、やり方
-- [form](/form)：形、形式
+- [style](/word/style)：スタイル、やり方
+- [form](/word/form)：形、形式
 
 ---
 
 ## 📖 できればこれも
 
-- [system](/system)：システム、体系
-- [option](/option)：選択肢、オプション
+- [system](/word/system)：システム、体系
+- [option](/word/option)：選択肢、オプション
 
 <!-- cvid: aid34_bid34 -->

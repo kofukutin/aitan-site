@@ -97,7 +97,7 @@ TOEICでは「consecutive days（連続した日々）」や「consecutive years
 ## 🤔  successive との違いは？
 
 - **consecutive**：順番通りに間を空けず連続していることを強調
-- **[successive](/successive)**：順序よく続くが、必ずしも間が空いていないとは限らない
+- **[successive](/word/successive)**：順序よく続くが、必ずしも間が空いていないとは限らない
 
 consecutiveは「途切れずに続く」ことを強調し、successiveは「順番に続く」ことに重点があります。
 
@@ -105,14 +105,14 @@ consecutiveは「途切れずに続く」ことを強調し、successiveは「�
 
 ## 🧩 あわせて覚えたい
 
-- [continuous](/continuous)：継続的な、絶え間ない
-- [intermittent](/intermittent)：断続的な、時々途切れる
+- [continuous](/word/continuous)：継続的な、絶え間ない
+- [intermittent](/word/intermittent)：断続的な、時々途切れる
 
 ---
 
 ## 📖 できればこれも
 
-- [simultaneous](/simultaneous)：同時の
-- [subsequent](/subsequent)：その後の、次の
+- [simultaneous](/word/simultaneous)：同時の
+- [subsequent](/word/subsequent)：その後の、次の
 
 <!-- cvid: aid20_bid22 -->

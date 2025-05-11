@@ -97,7 +97,7 @@ TOEICでは「sort of（～の種類）」や「sort A by B（AをBで分類す�
 ## 🤔  type との違いは？
 
 - **sort**：日常的な「種類」「分類」を幅広く指す
-- **[type](/type)**：より形式的・技術的な「型」「タイプ」を指す
+- **[type](/word/type)**：より形式的・技術的な「型」「タイプ」を指す
 
 「sort」はざっくりとした分類や日常会話で使われ、「type」はより明確な区分や専門的な場面で使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは「sort of（～の種類）」や「sort A by B（AをBで分類す�
 
 ## 🧩 あわせて覚えたい
 
-- [category](/category)：カテゴリー、部門
-- [kind](/kind)：種類、タイプ
+- [category](/word/category)：カテゴリー、部門
+- [kind](/word/kind)：種類、タイプ
 
 ---
 
 ## 📖 できればこれも
 
-- [group](/group)：グループ、集団
-- [method](/method)：方法、やり方
+- [group](/word/group)：グループ、集団
+- [method](/word/method)：方法、やり方
 
 <!-- cvid: aid00_bid45 -->

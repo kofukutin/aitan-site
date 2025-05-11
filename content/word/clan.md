@@ -97,7 +97,7 @@ TOEICでは観光や文化紹介、歴史に関する長文で登場すること
 ## 🤔  tribe との違いは？
 
 - **clan**：血縁や共通の祖先を持つ比較的小規模な集団や一族
-- **[tribe](/tribe)**：文化や言語、伝統を共有するより大きな民族集団
+- **[tribe](/word/tribe)**：文化や言語、伝統を共有するより大きな民族集団
 
 clanは家族や親戚を中心とした集団、tribeはより広い社会的・文化的な集団を指します。
 
@@ -105,13 +105,13 @@ clanは家族や親戚を中心とした集団、tribeはより広い社会的�
 
 ## 🧩 あわせて覚えたい
 
-- [family](/family)：家族
-- [community](/community)：共同体、地域社会
+- [family](/word/family)：家族
+- [community](/word/community)：共同体、地域社会
 
 ---
 
 ## 📖 できればこれも
 
-- [ancestor](/ancestor)：祖先
-- [heritage](/heritage)：遺産、伝統
+- [ancestor](/word/ancestor)：祖先
+- [heritage](/word/heritage)：遺産、伝統
 <!-- cvid: aid21_bid37 -->

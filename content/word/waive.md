@@ -96,7 +96,7 @@ TOEICでは契約書や規約、案内文などで「手数料の免除」や「
 ## 🤔  relinquish との違いは？
 
 - **waive**：自分の権利や主張を進んで放棄する、または規則の適用を免除する
-- **[relinquish](/relinquish)**：何かを（しぶしぶ・完全に）手放す、譲る
+- **[relinquish](/word/relinquish)**：何かを（しぶしぶ・完全に）手放す、譲る
 
 waiveは主に権利や規則の「放棄・免除」に使い、relinquishは物や地位などを「手放す・譲る」ときに使います。
 
@@ -104,14 +104,14 @@ waiveは主に権利や規則の「放棄・免除」に使い、relinquishは�
 
 ## 🧩 あわせて覚えたい
 
-- [forgo](/forgo)：（自発的に）控える、断念する
-- [enforce](/enforce)：（法律・規則などを）施行する、実施する
+- [forgo](/word/forgo)：（自発的に）控える、断念する
+- [enforce](/word/enforce)：（法律・規則などを）施行する、実施する
 
 ---
 
 ## 📖 できればこれも
 
-- [consent](/consent)：同意する、承諾
-- [comply](/comply)：従う、応じる
+- [consent](/word/consent)：同意する、承諾
+- [comply](/word/comply)：従う、応じる
 
 <!-- cvid: aid18_bid12 -->

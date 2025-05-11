@@ -97,7 +97,7 @@ TOEICでは、衣類や作業内容に関する会話や説明で登場するこ
 ## 🤔  stitch との違いは？
 
 - **sew**：布や衣類を針と糸で縫い合わせる全体の動作を指す
-- **[stitch](/stitch)**：1回の針の動きや縫い目そのものを指す
+- **[stitch](/word/stitch)**：1回の針の動きや縫い目そのものを指す
 
 sewは「縫う」という行為全体、stitchは「縫い目」や「ひと針」の意味で、使い分けます。
 
@@ -105,14 +105,14 @@ sewは「縫う」という行為全体、stitchは「縫い目」や「ひと�
 
 ## 🧩 あわせて覚えたい
 
-- [repair](/repair)：修理する
-- [fabric](/fabric)：布、生地
+- [repair](/word/repair)：修理する
+- [fabric](/word/fabric)：布、生地
 
 ---
 
 ## 📖 できればこれも
 
-- [knit](/knit)：編む
-- [fix](/fix)：直す
+- [knit](/word/knit)：編む
+- [fix](/word/fix)：直す
 
 <!-- cvid: aid11_bid34 -->

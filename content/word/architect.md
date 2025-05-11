@@ -97,7 +97,7 @@ TOEICでは主に建築やオフィスの設計に関する長文やEメール�
 ## 🤔  designer との違いは？
 
 - **architect**：建物や構造物の設計を専門とする人
-- **[designer](/designer)**：服や製品、グラフィックなど幅広い分野のデザインをする人
+- **[designer](/word/designer)**：服や製品、グラフィックなど幅広い分野のデザインをする人
 
 architectは主に建築分野に特化し、designerはより広い分野で使われます。
 
@@ -105,14 +105,14 @@ architectは主に建築分野に特化し、designerはより広い分野で使
 
 ## 🧩 あわせて覚えたい
 
-- [engineer](/engineer)：技術者、エンジニア
-- [builder](/builder)：建設業者、建築作業員
+- [engineer](/word/engineer)：技術者、エンジニア
+- [builder](/word/builder)：建設業者、建築作業員
 
 ---
 
 ## 📖 できればこれも
 
-- [structure](/structure)：構造、建造物
-- [plan](/plan)：計画、設計
+- [structure](/word/structure)：構造、建造物
+- [plan](/word/plan)：計画、設計
 
 <!-- cvid: aid44_bid27 -->

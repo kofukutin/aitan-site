@@ -98,7 +98,7 @@ TOEICでは、メールやお知らせ、記事などで「最新の情報」「
 ## 🤔  recent との違いは？
 
 - **latest**：今現在で一番新しい、最も最近の
-- **[recent](/recent)**：最近の、過去に起きたが一番新しいとは限らない
+- **[recent](/word/recent)**：最近の、過去に起きたが一番新しいとは限らない
 
 「latest」は「今一番新しい」ことを強調し、「recent」は「最近の」全般を指します。
 
@@ -106,14 +106,14 @@ TOEICでは、メールやお知らせ、記事などで「最新の情報」「
 
 ## 🧩 あわせて覚えたい
 
-- [current](/current)：現在の、今の
-- [up to date](/up_to_date)：最新の、最新情報の
+- [current](/word/current)：現在の、今の
+- [up to date](/word/up_to_date)：最新の、最新情報の
 
 ---
 
 ## 📖 できればこれも
 
-- [modern](/modern)：現代的な、近代的な
-- [update](/update)：更新する、最新情報にする
+- [modern](/word/modern)：現代的な、近代的な
+- [update](/word/update)：更新する、最新情報にする
 
 <!-- cvid: aid15_bid11 -->

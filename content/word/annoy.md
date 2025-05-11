@@ -97,7 +97,7 @@ TOEICでは会話文や説明文で「迷惑をかける」「不快にさせる
 ## 🤔  bother との違いは？
 
 - **annoy**：相手を不快にしたり、いらいらさせるニュアンスが強い
-- **[bother](/bother)**：迷惑をかける、手間をかけさせる意味が中心
+- **[bother](/word/bother)**：迷惑をかける、手間をかけさせる意味が中心
 
 annoyは「感情的にイライラさせる」時に使い、botherは「手間や面倒をかける」場面で使われることが多いです。
 
@@ -105,14 +105,14 @@ annoyは「感情的にイライラさせる」時に使い、botherは「手間
 
 ## 🧩 あわせて覚えたい
 
-- [irritate](/irritate)：さらに強くいらだたせる
-- [disturb](/disturb)：邪魔をする、妨げる
+- [irritate](/word/irritate)：さらに強くいらだたせる
+- [disturb](/word/disturb)：邪魔をする、妨げる
 
 ---
 
 ## 📖 できればこれも
 
-- [interrupt](/interrupt)：話や作業を中断させる
-- [complain](/complain)：不満を言う
+- [interrupt](/word/interrupt)：話や作業を中断させる
+- [complain](/word/complain)：不満を言う
 
 <!-- cvid: aid21_bid27 -->

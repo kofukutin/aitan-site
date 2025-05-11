@@ -97,7 +97,7 @@ TOEICでは求人広告や自己紹介、面接の場面で頻出します。職
 ## 🤔  occupation との違いは？
 
 - **career**：人生を通じた職業上の経歴や道のり
-- **[occupation](/occupation)**：現在従事している職業や仕事
+- **[occupation](/word/occupation)**：現在従事している職業や仕事
 
 careerは「長期的な職業人生」全体を指し、occupationは「今の職業・職種」を意味します。
 
@@ -105,14 +105,14 @@ careerは「長期的な職業人生」全体を指し、occupationは「今の�
 
 ## 🧩 あわせて覚えたい
 
-- [profession](/profession)：専門的な職業
-- [job](/job)：仕事、職
+- [profession](/word/profession)：専門的な職業
+- [job](/word/job)：仕事、職
 
 ---
 
 ## 📖 できればこれも
 
-- [position](/position)：役職、地位
-- [resume](/resume)：履歴書
+- [position](/word/position)：役職、地位
+- [resume](/word/resume)：履歴書
 
 <!-- cvid: aid12_bid13 -->

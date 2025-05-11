@@ -97,7 +97,7 @@ TOEICではPart 7の広告や案内文、ビジネス文書でよく登場しま
 ## 🤔  leaflet との違いは？
 
 - **brochure**：数ページにわたる折りたたみ式の小冊子で、商品やサービスの詳細な案内に使われる。
-- **[leaflet](/leaflet)**：1枚もののチラシや簡単な案内で、情報量が少なく配布が手軽。
+- **[leaflet](/word/leaflet)**：1枚もののチラシや簡単な案内で、情報量が少なく配布が手軽。
 
 brochureは内容が詳しくフォーマルな印象、leafletは簡易的で配布重視の場面で使い分けます。
 
@@ -105,14 +105,14 @@ brochureは内容が詳しくフォーマルな印象、leafletは簡易的で�
 
 ## 🧩 あわせて覚えたい
 
-- [catalog](/catalog)：商品カタログ、一覧冊子
-- [pamphlet](/pamphlet)：案内パンフレット、小冊子
+- [catalog](/word/catalog)：商品カタログ、一覧冊子
+- [pamphlet](/word/pamphlet)：案内パンフレット、小冊子
 
 ---
 
 ## 📖 できればこれも
 
-- [manual](/manual)：取扱説明書
-- [flyer](/flyer)：チラシ、ビラ
+- [manual](/word/manual)：取扱説明書
+- [flyer](/word/flyer)：チラシ、ビラ
 
 <!-- cvid: aid46_bid16 -->

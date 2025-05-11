@@ -97,7 +97,7 @@ IT関連や業務効率化の文脈で、説明文やメール内で見かける
 ## 🤔  programming との違いは？
 
 - **scripting**：主に簡単な自動化や短い処理を書くことに使われる。
-- **[programming](/programming)**：より大規模で複雑なシステムやアプリ全体を作ること。
+- **[programming](/word/programming)**：より大規模で複雑なシステムやアプリ全体を作ること。
 
 scriptingは小規模な自動化や補助的な作業に、programmingは本格的なソフトウェア開発に使われることが多いです。
 
@@ -105,14 +105,14 @@ scriptingは小規模な自動化や補助的な作業に、programmingは本格
 
 ## 🧩 あわせて覚えたい
 
-- [automation](/automation)：自動化
-- [coding](/coding)：コーディング、プログラムを書くこと
+- [automation](/word/automation)：自動化
+- [coding](/word/coding)：コーディング、プログラムを書くこと
 
 ---
 
 ## 📖 できればこれも
 
-- [script](/script)：スクリプト、台本
-- [debugging](/debugging)：デバッグ、プログラムのバグ取り
+- [script](/word/script)：スクリプト、台本
+- [debugging](/word/debugging)：デバッグ、プログラムのバグ取り
 
 <!-- cvid: aid31_bid05 -->

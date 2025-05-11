@@ -98,7 +98,7 @@ TOEICでは「under the supervision of ～」や「require supervision」など�
 ## 🤔  management との違いは？
 
 - **supervision**：現場や人の活動を直接見守り、指導・監督すること
-- **[management](/management)**：組織やプロジェクト全体の運営・経営を指す
+- **[management](/word/management)**：組織やプロジェクト全体の運営・経営を指す
 
 supervisionは「現場での直接的な監督」、managementは「全体の運営や経営」といった広い意味で使い分けます。
 
@@ -106,14 +106,14 @@ supervisionは「現場での直接的な監督」、managementは「全体の�
 
 ## 🧩 あわせて覚えたい
 
-- [oversight](/oversight)：監督、見落とし
-- [guidance](/guidance)：指導、案内
+- [oversight](/word/oversight)：監督、見落とし
+- [guidance](/word/guidance)：指導、案内
 
 ---
 
 ## 📖 できればこれも
 
-- [monitor](/monitor)：監視する、見守る
-- [direction](/direction)：指示、指導
+- [monitor](/word/monitor)：監視する、見守る
+- [direction](/word/direction)：指示、指導
 
 <!-- cvid: aid06_bid42 -->

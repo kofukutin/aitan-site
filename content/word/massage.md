@@ -97,7 +97,7 @@ TOEICではホテルや健康、サービス関連の会話で「massage」が�
 ## 🤔  rub との違いは？
 
 - **massage**：専門的にもみほぐす施術やサービスを指す
-- **[rub](/rub)**：単にこする・さするという一般的な動作
+- **[rub](/word/rub)**：単にこする・さするという一般的な動作
 
 massageはリラックスや治療目的で専門的に行う施術、rubは日常的に何かをこする動作を指します。
 
@@ -105,14 +105,14 @@ massageはリラックスや治療目的で専門的に行う施術、rubは日�
 
 ## 🧩 あわせて覚えたい
 
-- [therapy](/therapy)：治療、セラピー
-- [relaxation](/relaxation)：リラックス、くつろぎ
+- [therapy](/word/therapy)：治療、セラピー
+- [relaxation](/word/relaxation)：リラックス、くつろぎ
 
 ---
 
 ## 📖 できればこれも
 
-- [treatment](/treatment)：治療、処置
-- [relieve](/relieve)：和らげる、軽減する
+- [treatment](/word/treatment)：治療、処置
+- [relieve](/word/relieve)：和らげる、軽減する
 
 <!-- cvid: aid42_bid07 -->

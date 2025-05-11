@@ -97,7 +97,7 @@ TOEICではITやビジネスの文脈で「電子機器」「装置」として�
 ## 🤔  equipment との違いは？
 
 - **device**：特定の目的のために設計された個々の装置や機器
-- **[equipment](/equipment)**：作業や活動に必要な道具や備品全体
+- **[equipment](/word/equipment)**：作業や活動に必要な道具や備品全体
 
 deviceは「1つ1つの装置」を指し、equipmentは「道具一式」や「備品全体」を指します。
 
@@ -105,14 +105,14 @@ deviceは「1つ1つの装置」を指し、equipmentは「道具一式」や「
 
 ## 🧩 あわせて覚えたい
 
-- [gadget](/gadget)：小型で便利な機器
-- [appliance](/appliance)：家庭用の電気製品
+- [gadget](/word/gadget)：小型で便利な機器
+- [appliance](/word/appliance)：家庭用の電気製品
 
 ---
 
 ## 📖 できればこれも
 
-- [tool](/tool)：道具、工具
-- [instrument](/instrument)：精密機器、楽器
+- [tool](/word/tool)：道具、工具
+- [instrument](/word/instrument)：精密機器、楽器
 
 <!-- cvid: aid03_bid10 -->

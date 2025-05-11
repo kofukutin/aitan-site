@@ -97,7 +97,7 @@ TOEICでは「得る」「増える」という意味で、主に動詞の過去
 ## 🤔  acquired との違いは？
 
 - **gained**：努力や行動の結果として得る、増える
-- **[acquired](/acquired)**：習得する、身につける（特に知識やスキル）
+- **[acquired](/word/acquired)**：習得する、身につける（特に知識やスキル）
 
 gainedは「増える・得る」という広い意味で使われ、acquiredは「習得する」など知識やスキルに特化して使われます。
 
@@ -105,14 +105,14 @@ gainedは「増える・得る」という広い意味で使われ、acquiredは
 
 ## 🧩 あわせて覚えたい
 
-- [lose](/lose)：失う
-- [earn](/earn)：稼ぐ、努力して得る
+- [lose](/word/lose)：失う
+- [earn](/word/earn)：稼ぐ、努力して得る
 
 ---
 
 ## 📖 できればこれも
 
-- [improved](/improved)：改善した、向上した
-- [achieve](/achieve)：達成する
+- [improved](/word/improved)：改善した、向上した
+- [achieve](/word/achieve)：達成する
 
 <!-- cvid: aid42_bid20 -->

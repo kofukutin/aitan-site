@@ -97,7 +97,7 @@ TOEICでは主にITやビジネス文書、製品案内などの長文中で「�
 ## 🤔  requirement との違いは？
 
 - **specification**：製品やシステムの詳細な設計内容や基準を明文化したもの
-- **[requirement](/requirement)**：必要条件や満たすべき最低限の要件
+- **[requirement](/word/requirement)**：必要条件や満たすべき最低限の要件
 
 specificationは「どう作るか・どんな内容か」を細かく示し、requirementは「何が必要か・どんな条件か」という大枠を示します。
 
@@ -105,14 +105,14 @@ specificationは「どう作るか・どんな内容か」を細かく示し、r
 
 ## 🧩 あわせて覚えたい
 
-- [standard](/standard)：基準、標準
-- [instruction](/instruction)：指示、説明書
+- [standard](/word/standard)：基準、標準
+- [instruction](/word/instruction)：指示、説明書
 
 ---
 
 ## 📖 できればこれも
 
-- [manual](/manual)：取扱説明書
-- [procedure](/procedure)：手順、手続き
+- [manual](/word/manual)：取扱説明書
+- [procedure](/word/procedure)：手順、手続き
 
 <!-- cvid: aid04_bid00 -->

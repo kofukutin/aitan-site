@@ -97,7 +97,7 @@ TOEICでは「否定する」「認めない」という意味で、主に文法
 ## 🤔  refuse との違いは？
 
 - **deny**：事実や申し出などを「否定する」「認めない」
-- **[refuse](/refuse)**：依頼や要求などを「断る」「拒否する」
+- **[refuse](/word/refuse)**：依頼や要求などを「断る」「拒否する」
 
 denyは「事実や申し出を認めない」ニュアンス、refuseは「何かをすること自体を断る」ニュアンスがあります。
 
@@ -105,14 +105,14 @@ denyは「事実や申し出を認めない」ニュアンス、refuseは「何�
 
 ## 🧩 あわせて覚えたい
 
-- [admit](/admit)：認める、入場を許可する
-- [reject](/reject)：拒絶する、却下する
+- [admit](/word/admit)：認める、入場を許可する
+- [reject](/word/reject)：拒絶する、却下する
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/confirm)：確認する、確定する
-- [approve](/approve)：承認する、賛成する
+- [confirm](/word/confirm)：確認する、確定する
+- [approve](/word/approve)：承認する、賛成する
 
 <!-- cvid: aid00_bid35 -->

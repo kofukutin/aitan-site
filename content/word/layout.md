@@ -97,7 +97,7 @@ TOEICでは主にメールや説明文、広告などで「配置」や「設計
 ## 🤔  design との違いは？
 
 - **layout**：物や情報の「配置」や「並び方」に焦点を当てる
-- **[design](/design)**：全体の「設計」や「意匠」、見た目や機能性も含む広い意味
+- **[design](/word/design)**：全体の「設計」や「意匠」、見た目や機能性も含む広い意味
 
 layoutは「どこに何を置くか」という配置の具体的な部分、designは全体の見た目やコンセプトまで含む点が異なります。
 
@@ -105,14 +105,14 @@ layoutは「どこに何を置くか」という配置の具体的な部分、de
 
 ## 🧩 あわせて覚えたい
 
-- [arrangement](/arrangement)：配置、整理
-- [structure](/structure)：構造、組織
+- [arrangement](/word/arrangement)：配置、整理
+- [structure](/word/structure)：構造、組織
 
 ---
 
 ## 📖 できればこれも
 
-- [format](/format)：書式、形式
-- [plan](/plan)：計画、案
+- [format](/word/format)：書式、形式
+- [plan](/word/plan)：計画、案
 
 <!-- cvid: aid46_bid26 -->

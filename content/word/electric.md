@@ -97,7 +97,7 @@ TOEICでは、製品説明や設備に関する文脈で「electric」がよく�
 ## 🤔  electronic との違いは？
 
 - **electric**：電気で動く、電気に関する（例：electric car, electric guitar）
-- **[electronic](/electronic)**：電子回路や電子技術を使った（例：electronic device, electronic mail）
+- **[electronic](/word/electronic)**：電子回路や電子技術を使った（例：electronic device, electronic mail）
 
 「electric」は電気そのものや電気で動くものに使い、「electronic」は電子回路やデジタル技術を使うものに使います。
 
@@ -105,14 +105,14 @@ TOEICでは、製品説明や設備に関する文脈で「electric」がよく�
 
 ## 🧩 あわせて覚えたい
 
-- [electrical](/electrical)：電気の（より広い意味で使う形容詞）
-- [battery](/battery)：電池
+- [electrical](/word/electrical)：電気の（より広い意味で使う形容詞）
+- [battery](/word/battery)：電池
 
 ---
 
 ## 📖 できればこれも
 
-- [automatic](/automatic)：自動の
-- [mechanical](/mechanical)：機械の
+- [automatic](/word/automatic)：自動の
+- [mechanical](/word/mechanical)：機械の
 
 <!-- cvid: aid46_bid06 -->

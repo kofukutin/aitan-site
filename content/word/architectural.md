@@ -96,7 +96,7 @@ TOEICでは建築や都市開発、設計に関する記事や説明文で見か
 ## 🤔  structural との違いは？
 
 - **architectural**：建築のデザインや様式、芸術的側面に関する
-- **[structural](/structural)**：構造的な、建物や物の構造や強度に関する
+- **[structural](/word/structural)**：構造的な、建物や物の構造や強度に関する
 
 **architectural** は美しさやデザイン、建築様式など芸術的・設計的な側面を指し、**structural** は安全性や強度など物理的な構造面を指します。
 
@@ -104,14 +104,14 @@ TOEICでは建築や都市開発、設計に関する記事や説明文で見か
 
 ## 🧩 あわせて覚えたい
 
-- [design](/design)：設計、デザイン
-- [construction](/construction)：建設、工事
+- [design](/word/design)：設計、デザイン
+- [construction](/word/construction)：建設、工事
 
 ---
 
 ## 📖 できればこれも
 
-- [architect](/architect)：建築家
-- [engineering](/engineering)：工学、エンジニアリング
+- [architect](/word/architect)：建築家
+- [engineering](/word/engineering)：工学、エンジニアリング
 
 <!-- cvid: aid26_bid42 -->

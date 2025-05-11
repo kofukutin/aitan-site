@@ -97,7 +97,7 @@ IT関連や社内コミュニケーションの文脈で、メールやチャッ
 ## 🤔  communication との違いは？
 
 - **messaging**：主にIT分野で「メッセージの送受信」やその機能を指す
-- **[communication](/communication)**：より広く「情報伝達」や「意思疎通」全般を指す
+- **[communication](/word/communication)**：より広く「情報伝達」や「意思疎通」全般を指す
 
 messagingはチャットやメールなど具体的なやり取りや機能に使い、communicationは会話やジェスチャーなども含む幅広い意味で使います。
 
@@ -105,14 +105,14 @@ messagingはチャットやメールなど具体的なやり取りや機能に�
 
 ## 🧩 あわせて覚えたい
 
-- [notification](/notification)：通知、お知らせ
-- [chat](/chat)：チャット、気軽な会話
+- [notification](/word/notification)：通知、お知らせ
+- [chat](/word/chat)：チャット、気軽な会話
 
 ---
 
 ## 📖 できればこれも
 
-- [message](/message)：メッセージ、伝言
-- [platform](/platform)：プラットフォーム、基盤となるシステム
+- [message](/word/message)：メッセージ、伝言
+- [platform](/word/platform)：プラットフォーム、基盤となるシステム
 
 <!-- cvid: aid03_bid14 -->

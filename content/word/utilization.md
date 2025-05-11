@@ -97,7 +97,7 @@ TOEICではビジネス文書や会議資料で「資源の活用」「設備の
 ## 🤔  usage との違いは？
 
 - **utilization**：効率的・有効な活用や運用を強調し、フォーマルな場面で使われる
-- **[usage](/usage)**：単なる「使い方」「使用量」など広く一般的な意味
+- **[usage](/word/usage)**：単なる「使い方」「使用量」など広く一般的な意味
 
 utilizationは「活用」「有効利用」といった積極的なニュアンスがあり、usageは日常的な「使い方」や「使用量」に使われます。
 
@@ -105,14 +105,14 @@ utilizationは「活用」「有効利用」といった積極的なニュアン
 
 ## 🧩 あわせて覚えたい
 
-- [application](/application)：応用、適用
-- [consumption](/consumption)：消費、消耗
+- [application](/word/application)：応用、適用
+- [consumption](/word/consumption)：消費、消耗
 
 ---
 
 ## 📖 できればこれも
 
-- [efficiency](/efficiency)：効率
-- [resource](/resource)：資源
+- [efficiency](/word/efficiency)：効率
+- [resource](/word/resource)：資源
 
 <!-- cvid: aid15_bid04 -->

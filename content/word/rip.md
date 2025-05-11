@@ -97,7 +97,7 @@ ripはTOEICの会話パートで、物が破れる・破る場面の表現とし
 ## 🤔  tear との違いは？
 
 - **rip**：勢いよく、または乱暴に引き裂くニュアンスが強い
-- **[tear](/tear)**：一般的に「破る」「裂ける」を表し、ripよりも幅広い状況で使える
+- **[tear](/word/tear)**：一般的に「破る」「裂ける」を表し、ripよりも幅広い状況で使える
 
 ripは力強く一気に破る感じ、tearは静かに・自然に破れる場合にも使えます。
 
@@ -105,14 +105,14 @@ ripは力強く一気に破る感じ、tearは静かに・自然に破れる場�
 
 ## 🧩 あわせて覚えたい
 
-- [cut](/cut)：切る
-- [break](/break)：壊す、割る
+- [cut](/word/cut)：切る
+- [break](/word/break)：壊す、割る
 
 ---
 
 ## 📖 できればこれも
 
-- [fold](/fold)：折る
-- [scratch](/scratch)：ひっかく
+- [fold](/word/fold)：折る
+- [scratch](/word/scratch)：ひっかく
 
 <!-- cvid: aid13_bid06 -->

@@ -97,7 +97,7 @@ TOEICでは店舗やサービスに関するメールや案内文、広告など
 ## 🤔  client との違いは？
 
 - **customer**：お店やサービスを利用する一般的な「顧客」「お客さん」
-- **[client](/client)**：専門的なサービス（法律・コンサルなど）を受ける「依頼人」「クライアント」
+- **[client](/word/client)**：専門的なサービス（法律・コンサルなど）を受ける「依頼人」「クライアント」
 
 customerは商品やサービスを購入する人全般、clientは専門職のサービスを受ける人に使います。
 
@@ -105,14 +105,14 @@ customerは商品やサービスを購入する人全般、clientは専門職の
 
 ## 🧩 あわせて覚えたい
 
-- [consumer](/consumer)：消費者（商品やサービスを実際に使う人）
-- [guest](/guest)：（ホテルやイベントなどの）来客、招待客
+- [consumer](/word/consumer)：消費者（商品やサービスを実際に使う人）
+- [guest](/word/guest)：（ホテルやイベントなどの）来客、招待客
 
 ---
 
 ## 📖 できればこれも
 
-- [employee](/employee)：従業員
-- [supplier](/supplier)：供給業者
+- [employee](/word/employee)：従業員
+- [supplier](/word/supplier)：供給業者
 
 <!-- cvid: aid05_bid22 -->

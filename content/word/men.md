@@ -97,7 +97,7 @@ TOEICのPart 1（写真描写）で、人物の数や性別を問う問題で頻
 ## 🤔  male との違いは？
 
 - **men**：人間の男性（複数）を指す一般的な名詞
-- **[male](/male)**：生物学的な「オス」や「男性」を表す形容詞・名詞
+- **[male](/word/male)**：生物学的な「オス」や「男性」を表す形容詞・名詞
 
 menは「人間の男性たち」を指し、maleは性別を強調する際や動物にも使われます。
 
@@ -105,14 +105,14 @@ menは「人間の男性たち」を指し、maleは性別を強調する際や�
 
 ## 🧩 あわせて覚えたい
 
-- [woman](/woman)：女性
-- [gentleman](/gentleman)：紳士、礼儀正しい男性
+- [woman](/word/woman)：女性
+- [gentleman](/word/gentleman)：紳士、礼儀正しい男性
 
 ---
 
 ## 📖 できればこれも
 
-- [person](/person)：人（男女問わず）
-- [boy](/boy)：少年、男の子
+- [person](/word/person)：人（男女問わず）
+- [boy](/word/boy)：少年、男の子
 
 <!-- cvid: aid31_bid29 -->

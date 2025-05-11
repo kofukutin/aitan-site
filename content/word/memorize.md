@@ -97,7 +97,7 @@ TOEICでは主にPart 5の語彙問題で出題されることが多く、学習
 ## 🤔  remember との違いは？
 
 - **memorize**：意識的に「覚える」「暗記する」ことを表す
-- **[remember](/remember)**：自然に「思い出す」「覚えている」ことを表す
+- **[remember](/word/remember)**：自然に「思い出す」「覚えている」ことを表す
 
 memorizeは「努力して記憶に入れる」ニュアンス、rememberは「記憶から呼び起こす」ニュアンスです。
 
@@ -105,14 +105,14 @@ memorizeは「努力して記憶に入れる」ニュアンス、rememberは「�
 
 ## 🧩 あわせて覚えたい
 
-- [recall](/recall)：思い出す、呼び戻す
-- [forget](/forget)：忘れる
+- [recall](/word/recall)：思い出す、呼び戻す
+- [forget](/word/forget)：忘れる
 
 ---
 
 ## 📖 できればこれも
 
-- [practice](/practice)：練習する
-- [review](/review)：復習する
+- [practice](/word/practice)：練習する
+- [review](/word/review)：復習する
 
 <!-- cvid: aid31_bid00 -->

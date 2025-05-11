@@ -97,7 +97,7 @@ TOEICでは、交通や出張、日常業務の話題で「運転」や「ドラ
 ## 🤔  operating との違いは？
 
 - **driving**：車やバスなどの「運転」を指す。
-- **[operating](/operating)**：機械や装置全般の「操作・運転」を指す。
+- **[operating](/word/operating)**：機械や装置全般の「操作・運転」を指す。
 
 drivingは主に乗り物の運転、operatingは機械や装置の操作に使われます。
 
@@ -105,14 +105,14 @@ drivingは主に乗り物の運転、operatingは機械や装置の操作に使�
 
 ## 🧩 あわせて覚えたい
 
-- [commuting](/commuting)：通勤
-- [steering](/steering)：操縦
+- [commuting](/word/commuting)：通勤
+- [steering](/word/steering)：操縦
 
 ---
 
 ## 📖 できればこれも
 
-- [traveling](/traveling)：旅行すること
-- [riding](/riding)：乗ること
+- [traveling](/word/traveling)：旅行すること
+- [riding](/word/riding)：乗ること
 
 <!-- cvid: aid26_bid47 -->

@@ -97,7 +97,7 @@ TOEICでは、リスニングパートで話者のなまりや発音の違いに
 ## 🤔  dialect との違いは？
 
 - **accent**：発音やイントネーションなど「話し方の特徴」を指す
-- **[dialect](/dialect)**：語彙や文法も含めた「地域特有の言葉遣い」を指す
+- **[dialect](/word/dialect)**：語彙や文法も含めた「地域特有の言葉遣い」を指す
 
 accentは主に「発音の違い」に焦点を当て、dialectは語彙や文法の違いも含む幅広い言語の違いを表します。
 
@@ -105,14 +105,14 @@ accentは主に「発音の違い」に焦点を当て、dialectは語彙や文�
 
 ## 🧩 あわせて覚えたい
 
-- [pronunciation](/pronunciation)：発音
-- [intonation](/intonation)：イントネーション、抑揚
+- [pronunciation](/word/pronunciation)：発音
+- [intonation](/word/intonation)：イントネーション、抑揚
 
 ---
 
 ## 📖 できればこれも
 
-- [phrase](/phrase)：句、言い回し
-- [expression](/expression)：表現
+- [phrase](/word/phrase)：句、言い回し
+- [expression](/word/expression)：表現
 
 <!-- cvid: aid22_bid25 -->

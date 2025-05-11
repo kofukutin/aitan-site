@@ -97,7 +97,7 @@ ITや技術系の説明文で「threaded」は、システムやアプリケー�
 ## 🤔  parallel との違いは？
 
 - **threaded**：複数のスレッド（処理単位）で動作する、またはねじ山がある
-- **[parallel](/parallel)**：複数の処理が同時に並行して行われる
+- **[parallel](/word/parallel)**：複数の処理が同時に並行して行われる
 
 「threaded」はプログラムや部品がスレッド（細い流れやねじ山）を持つことを強調し、「parallel」は複数の処理が同時進行すること自体を指します。
 
@@ -105,14 +105,14 @@ ITや技術系の説明文で「threaded」は、システムやアプリケー�
 
 ## 🧩 あわせて覚えたい
 
-- [concurrent](/concurrent)：同時に起こる、並行の
-- [sequential](/sequential)：連続的な、順次の
+- [concurrent](/word/concurrent)：同時に起こる、並行の
+- [sequential](/word/sequential)：連続的な、順次の
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/process)：処理、プロセス
-- [execute](/execute)：実行する
+- [process](/word/process)：処理、プロセス
+- [execute](/word/execute)：実行する
 
 <!-- cvid: aid21_bid45 -->

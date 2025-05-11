@@ -97,7 +97,7 @@ TOEICでは主に長文読解で「住民」「居住者」として登場し、
 ## 🤔  inhabitant との違いは？
 
 - **resident**：ある場所に住んでいる人（特に正式な住民や長期滞在者を指す）
-- **[inhabitant](/inhabitant)**：その場所に住む生物全般（人以外も含む）や、やや堅い表現
+- **[inhabitant](/word/inhabitant)**：その場所に住む生物全般（人以外も含む）や、やや堅い表現
 
 「resident」は現代英語で人間の住民を指すフォーマルな語で、行政やビジネス文書でよく使われます。「inhabitant」は動物や植物にも使え、やや書き言葉的です。
 
@@ -105,14 +105,14 @@ TOEICでは主に長文読解で「住民」「居住者」として登場し、
 
 ## 🧩 あわせて覚えたい
 
-- [tenant](/tenant)：賃借人、借家人
-- [citizen](/citizen)：市民、国民
+- [tenant](/word/tenant)：賃借人、借家人
+- [citizen](/word/citizen)：市民、国民
 
 ---
 
 ## 📖 できればこれも
 
-- [employee](/employee)：従業員
-- [visitor](/visitor)：訪問者
+- [employee](/word/employee)：従業員
+- [visitor](/word/visitor)：訪問者
 
 <!-- cvid: aid28_bid33 -->

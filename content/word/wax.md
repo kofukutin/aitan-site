@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、床や車、道具にワックスを
 ## 🤔  polish との違いは？
 
 - **wax**：ろうやワックスそのもの、またはワックスをかけること。
-- **[polish](/polish)**：つや出し剤や磨くこと全般。
+- **[polish](/word/polish)**：つや出し剤や磨くこと全般。
 
 waxは「ろう」や「ワックス」という物質自体や、それを使う行為に特化し、polishは「磨く」「つやを出す」行為全般やそのための製品を指します。
 
@@ -105,14 +105,14 @@ waxは「ろう」や「ワックス」という物質自体や、それを使�
 
 ## 🧩 あわせて覚えたい
 
-- [grease](/grease)：油脂、グリース
-- [varnish](/varnish)：ニス、ワニス
+- [grease](/word/grease)：油脂、グリース
+- [varnish](/word/varnish)：ニス、ワニス
 
 ---
 
 ## 📖 できればこれも
 
-- [glue](/glue)：接着剤
-- [paint](/paint)：ペンキ、塗料
+- [glue](/word/glue)：接着剤
+- [paint](/word/paint)：ペンキ、塗料
 
 <!-- cvid: aid36_bid14 -->

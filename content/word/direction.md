@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「道順」や「指示」の意味でよく出
 ## 🤔  instruction との違いは？
 
 - **direction**：方向や道順、または方針・指示全般を表す
-- **[instruction](/instruction)**：具体的な手順や操作方法など、細かい指示を表す
+- **[instruction](/word/instruction)**：具体的な手順や操作方法など、細かい指示を表す
 
 directionは「進むべき方向」や「全体的な指示」に使われ、instructionは「具体的なやり方」や「詳細な手順」に使われます。
 
@@ -105,14 +105,14 @@ directionは「進むべき方向」や「全体的な指示」に使われ、in
 
 ## 🧩 あわせて覚えたい
 
-- [guidance](/guidance)：指導、助言
-- [route](/route)：経路、道筋
+- [guidance](/word/guidance)：指導、助言
+- [route](/word/route)：経路、道筋
 
 ---
 
 ## 📖 できればこれも
 
-- [location](/location)：場所、位置
-- [destination](/destination)：目的地
+- [location](/word/location)：場所、位置
+- [destination](/word/destination)：目的地
 
 <!-- cvid: aid17_bid24 -->

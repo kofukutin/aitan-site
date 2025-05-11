@@ -97,7 +97,7 @@ TOEICでは電話応対や質問への返答場面でよく登場します。過
 ## 🤔  replied との違いは？
 
 - **answered**：質問や電話などに「答える」「返事をする」一般的な表現
-- **[replied](/replied)**：ややフォーマルで、特にメールや手紙など「文書で返事をする」ニュアンスが強い
+- **[replied](/word/replied)**：ややフォーマルで、特にメールや手紙など「文書で返事をする」ニュアンスが強い
 
 answeredは口頭・電話・メールなど幅広く使えますが、repliedは書面やフォーマルな返答に使われやすいです。
 
@@ -105,14 +105,14 @@ answeredは口頭・電話・メールなど幅広く使えますが、replied�
 
 ## 🧩 あわせて覚えたい
 
-- [responded](/responded)：反応した、応じた
-- [ignored](/ignored)：無視した
+- [responded](/word/responded)：反応した、応じた
+- [ignored](/word/ignored)：無視した
 
 ---
 
 ## 📖 できればこれも
 
-- [asked](/asked)：尋ねた
-- [explained](/explained)：説明した
+- [asked](/word/asked)：尋ねた
+- [explained](/word/explained)：説明した
 
 <!-- cvid: aid20_bid28 -->

@@ -97,7 +97,7 @@ TOEICでは、企業の人事や経営に関する記事、通知、メール文
 ## 🤔  dismissal との違いは？
 
 - **layoff**：会社都合による一時的・恒久的な解雇（経済的理由が多い）
-- **[dismissal](/dismissal)**：従業員の能力や規律違反など、個人の理由による解雇
+- **[dismissal](/word/dismissal)**：従業員の能力や規律違反など、個人の理由による解雇
 
 「layoff」は経営状況など会社側の都合で行われる解雇、「dismissal」は個人の問題や規則違反による解雇を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、企業の人事や経営に関する記事、通知、メール文
 
 ## 🧩 あわせて覚えたい
 
-- [furlough](/furlough)：一時帰休（無給または減給で一時的に職務を離れること）
-- [resignation](/resignation)：辞職、退職（自分の意思で会社を辞めること）
+- [furlough](/word/furlough)：一時帰休（無給または減給で一時的に職務を離れること）
+- [resignation](/word/resignation)：辞職、退職（自分の意思で会社を辞めること）
 
 ---
 
 ## 📖 できればこれも
 
-- [recruitment](/recruitment)：採用活動
-- [promotion](/promotion)：昇進
+- [recruitment](/word/recruitment)：採用活動
+- [promotion](/word/promotion)：昇進
 
 <!-- cvid: aid05_bid29 -->

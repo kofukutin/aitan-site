@@ -97,7 +97,7 @@ TOEICでは、受動態や原因を説明する文脈で「caused」がよく出
 ## 🤔  make との違いは？
 
 - **caused**：出来事や問題の「原因となった」ときに使う
-- **[make](/make)**：何かを「作る」「生み出す」など幅広い意味で使う
+- **[make](/word/make)**：何かを「作る」「生み出す」など幅広い意味で使う
 
 「caused」は主に出来事や問題の原因を説明する際に使い、「make」は物や状況を作り出す場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、受動態や原因を説明する文脈で「caused」がよく出
 
 ## 🧩 あわせて覚えたい
 
-- [trigger](/trigger)：引き金となる、誘発する
-- [prevent](/prevent)：防ぐ、妨げる
+- [trigger](/word/trigger)：引き金となる、誘発する
+- [prevent](/word/prevent)：防ぐ、妨げる
 
 ---
 
 ## 📖 できればこれも
 
-- [affect](/affect)：影響を与える
-- [result](/result)：結果となる
+- [affect](/word/affect)：影響を与える
+- [result](/word/result)：結果となる
 
 <!-- cvid: aid47_bid08 -->

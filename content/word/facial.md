@@ -97,7 +97,7 @@ TOEICでは、医療や美容、身体の部位に関する文脈で形容詞と
 ## 🤔  face との違いは？
 
 - **facial**：顔に関する（形容詞）、または顔のエステ（名詞）
-- **[face](/face)**：顔そのもの（名詞）
+- **[face](/word/face)**：顔そのもの（名詞）
 
 「facial」は「顔に関する」という形容詞や「フェイシャルエステ」という名詞で使い、「face」は「顔」という具体的な部位そのものを指します。
 
@@ -105,14 +105,14 @@ TOEICでは、医療や美容、身体の部位に関する文脈で形容詞と
 
 ## 🧩 あわせて覚えたい
 
-- [oral](/oral)：口の、口腔の
-- [skin](/skin)：皮膚、肌
+- [oral](/word/oral)：口の、口腔の
+- [skin](/word/skin)：皮膚、肌
 
 ---
 
 ## 📖 できればこれも
 
-- [physical](/physical)：身体の、物理的な
-- [visible](/visible)：目に見える
+- [physical](/word/physical)：身体の、物理的な
+- [visible](/word/visible)：目に見える
 
 <!-- cvid: aid14_bid28 -->

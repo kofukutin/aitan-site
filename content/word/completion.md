@@ -97,7 +97,7 @@ TOEICでは「the completion of ～」や「upon completion」など、名詞と
 ## 🤔  accomplishment との違いは？
 
 - **completion**：単に「終わること」「完了」という事実を表す。
-- **[accomplishment](/accomplishment)**：達成感や成果、誇りを伴う「成し遂げたこと」。
+- **[accomplishment](/word/accomplishment)**：達成感や成果、誇りを伴う「成し遂げたこと」。
 
 completionは中立的な「完了」、accomplishmentは努力や成功を強調した「達成」です。
 
@@ -105,14 +105,14 @@ completionは中立的な「完了」、accomplishmentは努力や成功を強�
 
 ## 🧩 あわせて覚えたい
 
-- [termination](/termination)：終了、終結
-- [progress](/progress)：進捗、進歩
+- [termination](/word/termination)：終了、終結
+- [progress](/word/progress)：進捗、進歩
 
 ---
 
 ## 📖 できればこれも
 
-- [requirement](/requirement)：要件、必要条件
-- [confirmation](/confirmation)：確認、承認
+- [requirement](/word/requirement)：要件、必要条件
+- [confirmation](/word/confirmation)：確認、承認
 
 <!-- cvid: aid28_bid22 -->

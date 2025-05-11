@@ -97,7 +97,7 @@ TOEICでは、マーケティングやビジネスレポートの文脈で「dem
 ## 🤔  population との違いは？
 
 - **demographic**：属性で区切った特定の集団や層
-- **[population](/population)**：ある地域や国の「全人口」
+- **[population](/word/population)**：ある地域や国の「全人口」
 
 demographicは「年齢層」「性別」などで区切った集団を指し、populationは「全体の人数や住民」を表します。
 
@@ -105,14 +105,14 @@ demographicは「年齢層」「性別」などで区切った集団を指し、
 
 ## 🧩 あわせて覚えたい
 
-- [segment](/segment)：区分、部分
-- [statistic](/statistic)：統計値
+- [segment](/word/segment)：区分、部分
+- [statistic](/word/statistic)：統計値
 
 ---
 
 ## 📖 できればこれも
 
-- [trend](/trend)：傾向
-- [survey](/survey)：調査
+- [trend](/word/trend)：傾向
+- [survey](/word/survey)：調査
 
 <!-- cvid: aid02_bid48 -->

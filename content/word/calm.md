@@ -97,7 +97,7 @@ calmは会話や説明文で「落ち着いた態度」や「静かな状況」�
 ## 🤔  quiet との違いは？
 
 - **calm**：心や状況が「落ち着いている」「動揺していない」ことを表す
-- **[quiet](/quiet)**：音や声が「静かである」ことを表す
+- **[quiet](/word/quiet)**：音や声が「静かである」ことを表す
 
 calmは感情や雰囲気の安定を示し、quietは物理的な音の少なさを指します。
 
@@ -105,14 +105,14 @@ calmは感情や雰囲気の安定を示し、quietは物理的な音の少な�
 
 ## 🧩 あわせて覚えたい
 
-- [relaxed](/relaxed)：リラックスした
-- [peaceful](/peaceful)：平和な、穏やかな
+- [relaxed](/word/relaxed)：リラックスした
+- [peaceful](/word/peaceful)：平和な、穏やかな
 
 ---
 
 ## 📖 できればこれも
 
-- [patient](/patient)：我慢強い
-- [gentle](/gentle)：優しい
+- [patient](/word/patient)：我慢強い
+- [gentle](/word/gentle)：優しい
 
 <!-- cvid: aid36_bid27 -->

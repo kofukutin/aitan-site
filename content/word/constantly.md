@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「継続的に」「絶えず」といった意
 ## 🤔  continually との違いは？
 
 - **constantly**：絶え間なく、ほぼ途切れずに続くニュアンス
-- **[continually](/continually)**：繰り返し何度も、間をあけて続くニュアンス
+- **[continually](/word/continually)**：繰り返し何度も、間をあけて続くニュアンス
 
 constantlyは「ずっと続いている」感覚、continuallyは「何度も繰り返すが間がある」感覚で使い分けます。
 
@@ -105,14 +105,14 @@ constantlyは「ずっと続いている」感覚、continuallyは「何度も�
 
 ## 🧩 あわせて覚えたい
 
-- [frequently](/frequently)：頻繁に
-- [occasionally](/occasionally)：時々
+- [frequently](/word/frequently)：頻繁に
+- [occasionally](/word/occasionally)：時々
 
 ---
 
 ## 📖 できればこれも
 
-- [regularly](/regularly)：定期的に
-- [repeatedly](/repeatedly)：繰り返し
+- [regularly](/word/regularly)：定期的に
+- [repeatedly](/word/repeatedly)：繰り返し
 
 <!-- cvid: aid08_bid22 -->

@@ -97,7 +97,7 @@ TOEICでは、電話や対面でのあいさつ表現としてPart2でよく出�
 ## 🤔  salutation との違いは？
 
 - **greeting**：日常的な「あいさつ」や「挨拶の言葉」を広く指す。
-- **[salutation](/salutation)**：手紙やメールの冒頭で使う形式的なあいさつや敬礼。
+- **[salutation](/word/salutation)**：手紙やメールの冒頭で使う形式的なあいさつや敬礼。
 
 greetingはカジュアル・フォーマル問わず使えますが、salutationは特に書き言葉やフォーマルな場面で使われます。
 
@@ -105,14 +105,14 @@ greetingはカジュアル・フォーマル問わず使えますが、salutatio
 
 ## 🧩 あわせて覚えたい
 
-- [farewell](/farewell)：別れのあいさつ
-- [introduction](/introduction)：紹介、導入
+- [farewell](/word/farewell)：別れのあいさつ
+- [introduction](/word/introduction)：紹介、導入
 
 ---
 
 ## 📖 できればこれも
 
-- [invitation](/invitation)：招待、招待状
-- [message](/message)：メッセージ、伝言
+- [invitation](/word/invitation)：招待、招待状
+- [message](/word/message)：メッセージ、伝言
 
 <!-- cvid: aid29_bid44 -->

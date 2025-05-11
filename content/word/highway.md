@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、道路や交通に関する場面で登
 ## 🤔  expressway との違いは？
 
 - **highway**：都市や地域を結ぶ主要な道路や高速道路全般を指す、やや広い意味。
-- **[expressway](/expressway)**：信号や交差点がなく、より高速で走れる自動車専用道路を指す。
+- **[expressway](/word/expressway)**：信号や交差点がなく、より高速で走れる自動車専用道路を指す。
 
 highwayは一般的な幹線道路も含みますが、expresswayは特に高速走行向けの道路を強調します。
 
@@ -105,14 +105,14 @@ highwayは一般的な幹線道路も含みますが、expresswayは特に高速
 
 ## 🧩 あわせて覚えたい
 
-- [road](/road)：道路、道
-- [freeway](/freeway)：無料の高速道路（主に米国西部で使用）
+- [road](/word/road)：道路、道
+- [freeway](/word/freeway)：無料の高速道路（主に米国西部で使用）
 
 ---
 
 ## 📖 できればこれも
 
-- [bridge](/bridge)：橋
-- [station](/station)：駅
+- [bridge](/word/bridge)：橋
+- [station](/word/station)：駅
 
 <!-- cvid: aid16_bid16 -->

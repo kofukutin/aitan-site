@@ -93,7 +93,7 @@ recentlyはTOEICの長文読解やメール文面でよく登場し、過去の�
 ## 🤔  lately との違いは？
 
 - **recently**：過去のある時点から現在に近い時期までの出来事を表す
-- **[lately](/lately)**：最近のある期間に繰り返し起こっていることや継続的な状態を表す
+- **[lately](/word/lately)**：最近のある期間に繰り返し起こっていることや継続的な状態を表す
 
 recentlyは「最近起こった出来事」に、latelyは「最近ずっと続いていること」に使われる傾向があります。
 
@@ -101,14 +101,14 @@ recentlyは「最近起こった出来事」に、latelyは「最近ずっと続
 
 ## 🧩 あわせて覚えたい
 
-- [currently](/currently)：現在、今のところ
-- [previously](/previously)：以前に、かつて
+- [currently](/word/currently)：現在、今のところ
+- [previously](/word/previously)：以前に、かつて
 
 ---
 
 ## 📖 できればこれも
 
-- [soon](/soon)：まもなく、すぐに
-- [immediately](/immediately)：ただちに、すぐに
+- [soon](/word/soon)：まもなく、すぐに
+- [immediately](/word/immediately)：ただちに、すぐに
 
 <!-- cvid: aid03_bid37 -->

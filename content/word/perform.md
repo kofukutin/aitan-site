@@ -97,7 +97,7 @@ TOEICでは「業務を実行する」「役割を果たす」などの意味で
 ## 🤔  execute との違いは？
 
 - **perform**：業務や作業、役割などを「実行する」「遂行する」意味で幅広く使う
-- **[execute](/execute)**：計画や命令、プログラムなどを「厳密に実行する」「実施する」意味が強い
+- **[execute](/word/execute)**：計画や命令、プログラムなどを「厳密に実行する」「実施する」意味が強い
 
 performは日常的な業務や演技など幅広い「実行」に使い、executeは特に計画や命令を正確に実行する場面で使われます。
 
@@ -105,14 +105,14 @@ performは日常的な業務や演技など幅広い「実行」に使い、exec
 
 ## 🧩 あわせて覚えたい
 
-- [conduct](/conduct)：（調査・業務などを）行う
-- [accomplish](/accomplish)：成し遂げる、達成する
+- [conduct](/word/conduct)：（調査・業務などを）行う
+- [accomplish](/word/accomplish)：成し遂げる、達成する
 
 ---
 
 ## 📖 できればこれも
 
-- [complete](/complete)：完了する、仕上げる
-- [carry out](/carry_out)：（計画などを）実行する
+- [complete](/word/complete)：完了する、仕上げる
+- [carry out](/word/carry_out)：（計画などを）実行する
 
 <!-- cvid: aid17_bid45 -->

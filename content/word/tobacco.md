@@ -97,7 +97,7 @@ tobaccoは、健康やビジネスに関する長文や広告、規則説明な�
 ## 🤔  cigarette との違いは？
 
 - **tobacco**：タバコの葉やタバコ製品全般を指す広い意味
-- **[cigarette](/cigarette)**：紙巻きタバコ（喫煙用に巻かれた製品）のみを指す
+- **[cigarette](/word/cigarette)**：紙巻きタバコ（喫煙用に巻かれた製品）のみを指す
 
 tobaccoは原料や全体を指し、cigaretteはその中の一つの製品（紙巻きタバコ）を指します。
 
@@ -105,14 +105,14 @@ tobaccoは原料や全体を指し、cigaretteはその中の一つの製品（�
 
 ## 🧩 あわせて覚えたい
 
-- [smoke](/smoke)：煙、喫煙する
-- [nicotine](/nicotine)：ニコチン（タバコに含まれる成分）
+- [smoke](/word/smoke)：煙、喫煙する
+- [nicotine](/word/nicotine)：ニコチン（タバコに含まれる成分）
 
 ---
 
 ## 📖 できればこれも
 
-- [alcohol](/alcohol)：アルコール、酒
-- [drug](/drug)：薬、薬物
+- [alcohol](/word/alcohol)：アルコール、酒
+- [drug](/word/drug)：薬、薬物
 
 <!-- cvid: aid12_bid11 -->

@@ -97,7 +97,7 @@ TOEICでは、ビジネスや業績評価の文脈で「excel」が動詞とし�
 ## 🤔  surpass との違いは？
 
 - **excel**：ある分野や活動で特に優れていることを表す。
-- **[surpass](/surpass)**：他人や基準を「上回る」「超える」ことを強調する。
+- **[surpass](/word/surpass)**：他人や基準を「上回る」「超える」ことを強調する。
 
 「excel」は自分の得意分野や能力の高さに焦点を当て、「surpass」は比較対象を明確にして「超える」ことを強調します。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネスや業績評価の文脈で「excel」が動詞とし�
 
 ## 🧩 あわせて覚えたい
 
-- [outperform](/outperform)：他よりも良い成績を出す
-- [achieve](/achieve)：達成する、成し遂げる
+- [outperform](/word/outperform)：他よりも良い成績を出す
+- [achieve](/word/achieve)：達成する、成し遂げる
 
 ---
 
 ## 📖 できればこれも
 
-- [accomplish](/accomplish)：やり遂げる、成し遂げる
-- [improve](/improve)：改善する、向上させる
+- [accomplish](/word/accomplish)：やり遂げる、成し遂げる
+- [improve](/word/improve)：改善する、向上させる
 
 <!-- cvid: aid34_bid48 -->

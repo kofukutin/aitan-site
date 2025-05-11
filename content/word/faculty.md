@@ -97,7 +97,7 @@ TOEICでは大学や教育機関に関する長文や案内文で「faculty」�
 ## 🤔  staff との違いは？
 
 - **faculty**：大学などの教育機関の「教員（教授陣）」や「学部」を指すフォーマルな語。
-- **[staff](/staff)**：一般的に「職員全体」を指し、教員以外の事務職員なども含む。
+- **[staff](/word/staff)**：一般的に「職員全体」を指し、教員以外の事務職員なども含む。
 
 facultyは教育機関の教員に限定されるのに対し、staffは教員以外も含めた全職員を指します。
 
@@ -105,14 +105,14 @@ facultyは教育機関の教員に限定されるのに対し、staffは教員�
 
 ## 🧩 あわせて覚えたい
 
-- [department](/department)：部門、学科
-- [ability](/ability)：能力
+- [department](/word/department)：部門、学科
+- [ability](/word/ability)：能力
 
 ---
 
 ## 📖 できればこれも
 
-- [committee](/committee)：委員会
-- [lecture](/lecture)：講義
+- [committee](/word/committee)：委員会
+- [lecture](/word/lecture)：講義
 
 <!-- cvid: aid26_bid40 -->

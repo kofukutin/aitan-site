@@ -97,7 +97,7 @@ TOEICでは広告や会社紹介、製品説明などで「世界的に」「世
 ## 🤔  global との違いは？
 
 - **worldwide**：世界中に広がっている、または世界のあらゆる場所で
-- **[global](/global)**：地球規模の、全世界に関わる
+- **[global](/word/global)**：地球規模の、全世界に関わる
 
 「worldwide」は「世界のどこでも」という広がりを強調し、「global」は「地球全体」や「全体的な規模・影響」を強調します。
 
@@ -105,14 +105,14 @@ TOEICでは広告や会社紹介、製品説明などで「世界的に」「世
 
 ## 🧩 あわせて覚えたい
 
-- [international](/international)：国際的な
-- [domestic](/domestic)：国内の
+- [international](/word/international)：国際的な
+- [domestic](/word/domestic)：国内の
 
 ---
 
 ## 📖 できればこれも
 
-- [nationwide](/nationwide)：全国的な
-- [regional](/regional)：地域の
+- [nationwide](/word/nationwide)：全国的な
+- [regional](/word/regional)：地域の
 
 <!-- cvid: aid33_bid25 -->

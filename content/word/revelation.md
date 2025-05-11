@@ -97,7 +97,7 @@ TOEICでは主に記事やレポート、ビジネス文書の中で「新事実
 ## 🤔  discovery との違いは？
 
 - **revelation**：今まで隠されていた重要な事実や情報が突然明らかになること。驚きや衝撃を伴うことが多い。
-- **[discovery](/discovery)**：新しいものや事実を発見すること。科学的・探究的なニュアンスが強い。
+- **[discovery](/word/discovery)**：新しいものや事実を発見すること。科学的・探究的なニュアンスが強い。
 
 revelationは「意外性」や「衝撃」を含み、discoveryは「探して見つける」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ revelationは「意外性」や「衝撃」を含み、discoveryは「探して�
 
 ## 🧩 あわせて覚えたい
 
-- [disclosure](/disclosure)：開示、暴露
-- [announcement](/announcement)：発表、告知
+- [disclosure](/word/disclosure)：開示、暴露
+- [announcement](/word/announcement)：発表、告知
 
 ---
 
 ## 📖 できればこれも
 
-- [insight](/insight)：洞察、見識
-- [exposure](/exposure)：暴露、さらすこと
+- [insight](/word/insight)：洞察、見識
+- [exposure](/word/exposure)：暴露、さらすこと
 
 <!-- cvid: aid37_bid40 -->

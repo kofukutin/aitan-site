@@ -97,7 +97,7 @@ TOEICでは、ビジネスの会話や電話でのやり取り、医療やサー
 ## 🤔  reservation との違いは？
 
 - **appointment**：人と会うための公式な約束や面会の予約
-- **[reservation](/reservation)**：席や部屋など「物」の予約
+- **[reservation](/word/reservation)**：席や部屋など「物」の予約
 
 appointmentは「人と会う」ことに重点があり、reservationは「場所や物を確保する」場合に使います。
 
@@ -105,14 +105,14 @@ appointmentは「人と会う」ことに重点があり、reservationは「場�
 
 ## 🧩 あわせて覚えたい
 
-- [interview](/interview)：面接、インタビュー
-- [schedule](/schedule)：予定、スケジュール
+- [interview](/word/interview)：面接、インタビュー
+- [schedule](/word/schedule)：予定、スケジュール
 
 ---
 
 ## 📖 できればこれも
 
-- [meeting](/meeting)：会議、打ち合わせ
-- [arrangement](/arrangement)：取り決め、準備
+- [meeting](/word/meeting)：会議、打ち合わせ
+- [arrangement](/word/arrangement)：取り決め、準備
 
 <!-- cvid: aid49_bid33 -->

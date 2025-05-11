@@ -97,7 +97,7 @@ TOEICでは、ビジネスレポートやプロジェクト管理、IT関連の�
 ## 🤔  benchmark との違いは？
 
 - **baseline**：評価や比較のための「基準値」「出発点」
-- **[benchmark](/benchmark)**：業界標準や目標となる「指標」「水準」
+- **[benchmark](/word/benchmark)**：業界標準や目標となる「指標」「水準」
 
 baselineは自分たちの現状や出発点を示すのに対し、benchmarkは他社や業界の標準・目標値と比較する際に使います。
 
@@ -105,14 +105,14 @@ baselineは自分たちの現状や出発点を示すのに対し、benchmarkは
 
 ## 🧩 あわせて覚えたい
 
-- [standard](/standard)：標準、基準
-- [criterion](/criterion)：判断基準、尺度
+- [standard](/word/standard)：標準、基準
+- [criterion](/word/criterion)：判断基準、尺度
 
 ---
 
 ## 📖 できればこれも
 
-- [framework](/framework)：枠組み、構造
-- [parameter](/parameter)：パラメータ、条件
+- [framework](/word/framework)：枠組み、構造
+- [parameter](/word/parameter)：パラメータ、条件
 
 <!-- cvid: aid21_bid22 -->

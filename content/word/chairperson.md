@@ -97,7 +97,7 @@ TOEICでは会議や委員会の場面で、進行役やまとめ役として登
 ## 🤔  president との違いは？
 
 - **chairperson**：会議や委員会の議長・司会者を指し、進行やまとめ役に重点がある
-- **[president](/president)**：組織や会社の「社長」「会長」など、トップの役職を指す
+- **[president](/word/president)**：組織や会社の「社長」「会長」など、トップの役職を指す
 
 chairpersonは会議の進行役、presidentは組織の最高責任者という違いがあります。
 
@@ -105,14 +105,14 @@ chairpersonは会議の進行役、presidentは組織の最高責任者という
 
 ## 🧩 あわせて覚えたい
 
-- [moderator](/moderator)：討論や会議の司会者
-- [director](/director)：取締役、指導者
+- [moderator](/word/moderator)：討論や会議の司会者
+- [director](/word/director)：取締役、指導者
 
 ---
 
 ## 📖 できればこれも
 
-- [committee](/committee)：委員会
-- [secretary](/secretary)：書記、秘書
+- [committee](/word/committee)：委員会
+- [secretary](/word/secretary)：書記、秘書
 
 <!-- cvid: aid39_bid34 -->

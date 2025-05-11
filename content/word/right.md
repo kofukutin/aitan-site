@@ -98,7 +98,7 @@ TOEICでは「権利」や「正しいこと」といった意味で名詞とし
 ## 🤔  correct との違いは？
 
 - **right**：権利や正しいこと、正当性を表す
-- **[correct](/correct)**：間違いがなく正確であることを表す
+- **[correct](/word/correct)**：間違いがなく正確であることを表す
 
 rightは「権利」や「正当性」に重点があり、correctは「誤りがない」ことに重点があります。
 
@@ -106,14 +106,14 @@ rightは「権利」や「正当性」に重点があり、correctは「誤り�
 
 ## 🧩 あわせて覚えたい
 
-- [privilege](/privilege)：特権、特別な権利
-- [duty](/duty)：義務
+- [privilege](/word/privilege)：特権、特別な権利
+- [duty](/word/duty)：義務
 
 ---
 
 ## 📖 できればこれも
 
-- [law](/law)：法律
-- [rule](/rule)：規則
+- [law](/word/law)：法律
+- [rule](/word/rule)：規則
 
 <!-- cvid: aid47_bid31 -->

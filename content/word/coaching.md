@@ -97,7 +97,7 @@ TOEICではビジネスシーンや人材育成に関する長文で「coaching�
 ## 🤔  training との違いは？
 
 - **coaching**：個人や少人数に合わせて目標達成をサポートする指導
-- **[training](/training)**：知識やスキルを体系的に教える訓練・研修
+- **[training](/word/training)**：知識やスキルを体系的に教える訓練・研修
 
 coachingは個別対応や成長支援に重点があり、trainingは集団向けのスキル習得や知識伝達が中心です。
 
@@ -105,14 +105,14 @@ coachingは個別対応や成長支援に重点があり、trainingは集団向�
 
 ## 🧩 あわせて覚えたい
 
-- [mentoring](/mentoring)：経験者が後輩を導く指導
-- [guidance](/guidance)：助言、指導
+- [mentoring](/word/mentoring)：経験者が後輩を導く指導
+- [guidance](/word/guidance)：助言、指導
 
 ---
 
 ## 📖 できればこれも
 
-- [consulting](/consulting)：コンサルティング、専門的助言
-- [advice](/advice)：助言、アドバイス
+- [consulting](/word/consulting)：コンサルティング、専門的助言
+- [advice](/word/advice)：助言、アドバイス
 
 <!-- cvid: aid11_bid32 -->

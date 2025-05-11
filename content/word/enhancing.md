@@ -97,7 +97,7 @@ TOEICでは、文章の流れや文脈に合う動詞として「enhancing」が
 ## 🤔  improve との違いは？
 
 - **enhancing**：もともと良いものをさらに高める、魅力や価値をアップさせる
-- **[improve](/improve)**：悪い・普通のものをより良くする、全体的な改善
+- **[improve](/word/improve)**：悪い・普通のものをより良くする、全体的な改善
 
 enhancingは「プラスアルファで良くする」イメージ、improveは「問題点を直して良くする」イメージです。
 
@@ -105,14 +105,14 @@ enhancingは「プラスアルファで良くする」イメージ、improveは�
 
 ## 🧩 あわせて覚えたい
 
-- [boost](/boost)：急激に高める、押し上げる
-- [strengthen](/strengthen)：強化する、より強くする
+- [boost](/word/boost)：急激に高める、押し上げる
+- [strengthen](/word/strengthen)：強化する、より強くする
 
 ---
 
 ## 📖 できればこれも
 
-- [expand](/expand)：拡大する、広げる
-- [upgrade](/upgrade)：グレードアップする、格上げする
+- [expand](/word/expand)：拡大する、広げる
+- [upgrade](/word/upgrade)：グレードアップする、格上げする
 
 <!-- cvid: aid14_bid00 -->

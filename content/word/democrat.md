@@ -97,7 +97,7 @@ TOEICでは、新聞記事やビジネス文書の中で政党や政治家の話
 ## 🤔  republican との違いは？
 
 - **democrat**：民主主義者、またはアメリカ民主党の支持者を指す。
-- **[republican](/republican)**：アメリカ共和党の支持者や共和主義者を指す。
+- **[republican](/word/republican)**：アメリカ共和党の支持者や共和主義者を指す。
 
 democratは民主党や民主主義を支持する人、republicanは共和党や共和主義を支持する人を表し、アメリカの二大政党の違いを示します。
 
@@ -105,14 +105,14 @@ democratは民主党や民主主義を支持する人、republicanは共和党�
 
 ## 🧩 あわせて覚えたい
 
-- [democracy](/democracy)：民主主義
-- [liberal](/liberal)：自由主義者、リベラル
+- [democracy](/word/democracy)：民主主義
+- [liberal](/word/liberal)：自由主義者、リベラル
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/candidate)：候補者
-- [election](/election)：選挙
+- [candidate](/word/candidate)：候補者
+- [election](/word/election)：選挙
 
 <!-- cvid: aid22_bid44 -->

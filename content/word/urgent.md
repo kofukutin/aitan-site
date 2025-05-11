@@ -97,7 +97,7 @@ TOEICでは主にメールや通知文、社内連絡などで「urgent」が登
 ## 🤔  important との違いは？
 
 - **urgent**：今すぐ対応が必要なほど差し迫っている
-- **[important](/important)**：重要だが、必ずしも緊急性はない
+- **[important](/word/important)**：重要だが、必ずしも緊急性はない
 
 urgentは「時間的な切迫感」があり、importantは「価値や重要性」を強調します。たとえば、urgentは「今すぐやるべき」、importantは「大切だが急ぎではない」場合に使い分けます。
 
@@ -105,14 +105,14 @@ urgentは「時間的な切迫感」があり、importantは「価値や重要�
 
 ## 🧩 あわせて覚えたい
 
-- [immediate](/immediate)：即時の、すぐの
-- [critical](/critical)：重大な、危機的な
+- [immediate](/word/immediate)：即時の、すぐの
+- [critical](/word/critical)：重大な、危機的な
 
 ---
 
 ## 📖 できればこれも
 
-- [essential](/essential)：不可欠な、絶対必要な
-- [priority](/priority)：優先事項、優先順位
+- [essential](/word/essential)：不可欠な、絶対必要な
+- [priority](/word/priority)：優先事項、優先順位
 
 <!-- cvid: aid01_bid21 -->

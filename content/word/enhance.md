@@ -97,7 +97,7 @@ TOEICではPart 5を中心に、ビジネス文脈で「高める」「強化す
 ## 🤔  improve との違いは？
 
 - **enhance**：もともと良いものをさらに高めたり、価値や魅力を強化するニュアンス
-- **[improve](/improve)**：悪い・普通の状態からより良くする、全体的に改善するニュアンス
+- **[improve](/word/improve)**：悪い・普通の状態からより良くする、全体的に改善するニュアンス
 
 enhanceは「質や価値を一段と引き上げる」イメージ、improveは「全体的に良くする」イメージで使い分けます。
 
@@ -105,14 +105,14 @@ enhanceは「質や価値を一段と引き上げる」イメージ、improveは
 
 ## 🧩 あわせて覚えたい
 
-- [boost](/boost)：押し上げる、促進する
-- [diminish](/diminish)：減少させる、弱める
+- [boost](/word/boost)：押し上げる、促進する
+- [diminish](/word/diminish)：減少させる、弱める
 
 ---
 
 ## 📖 できればこれも
 
-- [expand](/expand)：拡大する、広げる
-- [promote](/promote)：促進する、推進する
+- [expand](/word/expand)：拡大する、広げる
+- [promote](/word/promote)：促進する、推進する
 
 <!-- cvid: aid24_bid14 -->

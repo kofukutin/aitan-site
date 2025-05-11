@@ -97,7 +97,7 @@ TOEICでは主にPart 7のビジネス文書やお知らせ、広告文などで
 ## 🤔  bid との違いは？
 
 - **auction**：競売そのもの、イベントや仕組みを指す
-- **[bid](/bid)**：入札、値をつける行為やその金額
+- **[bid](/word/bid)**：入札、値をつける行為やその金額
 
 「auction」は競売という場や仕組みを指し、「bid」はその中で行われる入札や提示される金額を指します。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 7のビジネス文書やお知らせ、広告文などで
 
 ## 🧩 あわせて覚えたい
 
-- [sale](/sale)：販売、売却
-- [offer](/offer)：申し出、提案
+- [sale](/word/sale)：販売、売却
+- [offer](/word/offer)：申し出、提案
 
 ---
 
 ## 📖 できればこれも
 
-- [purchase](/purchase)：購入
-- [deal](/deal)：取引
+- [purchase](/word/purchase)：購入
+- [deal](/word/deal)：取引
 
 <!-- cvid: aid44_bid17 -->

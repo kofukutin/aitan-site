@@ -97,7 +97,7 @@ consoleはTOEICの会話パートで、誰かを励ましたり慰めたりす�
 ## 🤔  comfort との違いは？
 
 - **console**：悲しみや落ち込みに対してやさしく慰めるニュアンス
-- **[comfort](/comfort)**：物理的・精神的な安心感や快適さを与えるニュアンス
+- **[comfort](/word/comfort)**：物理的・精神的な安心感や快適さを与えるニュアンス
 
 consoleは「心の痛みや悲しみ」に寄り添うイメージ、comfortは「安心させる・快適にする」広い意味で使われます。
 
@@ -105,14 +105,14 @@ consoleは「心の痛みや悲しみ」に寄り添うイメージ、comfortは
 
 ## 🧩 あわせて覚えたい
 
-- [encourage](/encourage)：励ます、勇気づける
-- [reassure](/reassure)：安心させる、不安を取り除く
+- [encourage](/word/encourage)：励ます、勇気づける
+- [reassure](/word/reassure)：安心させる、不安を取り除く
 
 ---
 
 ## 📖 できればこれも
 
-- [advise](/advise)：助言する
-- [assist](/assist)：手伝う、補助する
+- [advise](/word/advise)：助言する
+- [assist](/word/assist)：手伝う、補助する
 
 <!-- cvid: aid24_bid25 -->

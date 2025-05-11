@@ -97,7 +97,7 @@ TOEICでは会議やスケジュール調整の場面で「timing」が使われ
 ## 🤔  schedule との違いは？
 
 - **timing**：出来事が起こる「時機」や「タイミング」、その良し悪しに注目
-- **[schedule](/schedule)**：予定や計画された「日程」「スケジュール」そのもの
+- **[schedule](/word/schedule)**：予定や計画された「日程」「スケジュール」そのもの
 
 **timing**は「いつ行うか」「その時点が適切か」に焦点があり、**schedule**は「計画された日程」自体を指します。
 
@@ -105,14 +105,14 @@ TOEICでは会議やスケジュール調整の場面で「timing」が使われ
 
 ## 🧩 あわせて覚えたい
 
-- [deadline](/deadline)：締め切り
-- [opportunity](/opportunity)：機会、チャンス
+- [deadline](/word/deadline)：締め切り
+- [opportunity](/word/opportunity)：機会、チャンス
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/plan)：計画
-- [moment](/moment)：瞬間、時点
+- [plan](/word/plan)：計画
+- [moment](/word/moment)：瞬間、時点
 
 <!-- cvid: aid45_bid07 -->

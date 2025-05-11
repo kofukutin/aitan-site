@@ -97,7 +97,7 @@ TOEICでは、ビジネスや社会的な問題を扱う長文読解で「crisis
 ## 🤔  emergency との違いは？
 
 - **crisis**：長期的・深刻な危機や重大な局面を指す
-- **[emergency](/emergency)**：突発的で即時の対応が必要な緊急事態
+- **[emergency](/word/emergency)**：突発的で即時の対応が必要な緊急事態
 
 crisisは「深刻な問題や転換点」に、emergencyは「今すぐ対処が必要な緊急事態」に使われます。
 
@@ -105,14 +105,14 @@ crisisは「深刻な問題や転換点」に、emergencyは「今すぐ対処�
 
 ## 🧩 あわせて覚えたい
 
-- [disaster](/disaster)：災害、大惨事
-- [turning_point](/turning_point)：転機、転換点
+- [disaster](/word/disaster)：災害、大惨事
+- [turning_point](/word/turning_point)：転機、転換点
 
 ---
 
 ## 📖 できればこれも
 
-- [issue](/issue)：問題、課題
-- [challenge](/challenge)：挑戦、難題
+- [issue](/word/issue)：問題、課題
+- [challenge](/word/challenge)：挑戦、難題
 
 <!-- cvid: aid47_bid12 -->

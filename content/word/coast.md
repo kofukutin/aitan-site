@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、海岸や沿岸の風景を説明する
 ## 🤔  shore との違いは？
 
 - **coast**：広い範囲の「海岸」や「沿岸」を指す
-- **[shore](/shore)**：水際の「岸辺」や「浜辺」を指す
+- **[shore](/word/shore)**：水際の「岸辺」や「浜辺」を指す
 
 coastは国や地域の長い海岸線全体を指すことが多く、shoreは水と陸が接する狭い部分（浜辺や岸辺）を表します。
 
@@ -105,14 +105,14 @@ coastは国や地域の長い海岸線全体を指すことが多く、shoreは�
 
 ## 🧩 あわせて覚えたい
 
-- [beach](/beach)：砂浜
-- [border](/border)：国境、境界
+- [beach](/word/beach)：砂浜
+- [border](/word/border)：国境、境界
 
 ---
 
 ## 📖 できればこれも
 
-- [harbor](/harbor)：港
-- [island](/island)：島
+- [harbor](/word/harbor)：港
+- [island](/word/island)：島
 
 <!-- cvid: aid49_bid49 -->

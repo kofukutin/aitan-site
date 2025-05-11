@@ -97,7 +97,7 @@ TOEICでは会議やディスカッションの場面で、意見の対立や主
 ## 🤔  discuss との違いは？
 
 - **argue**：意見の対立や感情的な言い争い、強い主張を含むことが多い
-- **[discuss](/discuss)**：冷静に話し合う、意見交換する
+- **[discuss](/word/discuss)**：冷静に話し合う、意見交換する
 
 argueは対立や感情が表に出る場面で使われ、discussは落ち着いて意見を交換する場面で使われます。
 
@@ -105,14 +105,14 @@ argueは対立や感情が表に出る場面で使われ、discussは落ち着�
 
 ## 🧩 あわせて覚えたい
 
-- [debate](/debate)：討論する、議論する
-- [insist](/insist)：強く主張する
+- [debate](/word/debate)：討論する、議論する
+- [insist](/word/insist)：強く主張する
 
 ---
 
 ## 📖 できればこれも
 
-- [explain](/explain)：説明する
-- [suggest](/suggest)：提案する
+- [explain](/word/explain)：説明する
+- [suggest](/word/suggest)：提案する
 
 <!-- cvid: aid08_bid43 -->

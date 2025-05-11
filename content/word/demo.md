@@ -97,7 +97,7 @@ TOEICでは、製品紹介やプレゼンテーションの場面で「demo」�
 ## 🤔  presentation との違いは？
 
 - **demo**：実際に動かして見せる「実演」や「デモ」に特化
-- **[presentation](/presentation)**：資料やスライドを使った「発表」全般
+- **[presentation](/word/presentation)**：資料やスライドを使った「発表」全般
 
 **demo**は実際に製品やサービスを動かして見せる場面で使い、**presentation**は説明や発表全般に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、製品紹介やプレゼンテーションの場面で「demo」�
 
 ## 🧩 あわせて覚えたい
 
-- [trial](/trial)：試用、試験
-- [sample](/sample)：見本、サンプル
+- [trial](/word/trial)：試用、試験
+- [sample](/word/sample)：見本、サンプル
 
 ---
 
 ## 📖 できればこれも
 
-- [feature](/feature)：特徴、機能
-- [launch](/launch)：開始、発売
+- [feature](/word/feature)：特徴、機能
+- [launch](/word/launch)：開始、発売
 
 <!-- cvid: aid37_bid22 -->

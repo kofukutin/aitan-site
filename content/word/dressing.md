@@ -97,7 +97,7 @@ TOEICでは、レストランやケータリング、医療現場の会話で「
 ## 🤔  sauce との違いは？
 
 - **dressing**：主にサラダなどにかける液体調味料や、包帯の意味。
-- **[sauce](/sauce)**：料理全般に使うソースで、加熱するものも多い。
+- **[sauce](/word/sauce)**：料理全般に使うソースで、加熱するものも多い。
 
 dressingはサラダなど冷たい料理に使うことが多く、sauceは温かい料理や幅広い用途で使われます。
 
@@ -105,14 +105,14 @@ dressingはサラダなど冷たい料理に使うことが多く、sauceは温�
 
 ## 🧩 あわせて覚えたい
 
-- [bandage](/bandage)：包帯
-- [seasoning](/seasoning)：調味料
+- [bandage](/word/bandage)：包帯
+- [seasoning](/word/seasoning)：調味料
 
 ---
 
 ## 📖 できればこれも
 
-- [salad](/salad)：サラダ
-- [recipe](/recipe)：レシピ
+- [salad](/word/salad)：サラダ
+- [recipe](/word/recipe)：レシピ
 
 <!-- cvid: aid24_bid48 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人や動物の体の部位を説明
 ## 🤔  skeleton との違いは？
 
 - **bone**：体を構成する1本1本の「骨」
-- **[skeleton](/skeleton)**：体全体の「骨格」や「骸骨」
+- **[skeleton](/word/skeleton)**：体全体の「骨格」や「骸骨」
 
 boneは個々の骨を指し、skeletonはそれらが組み合わさった全体構造を指します。
 
@@ -105,14 +105,14 @@ boneは個々の骨を指し、skeletonはそれらが組み合わさった全�
 
 ## 🧩 あわせて覚えたい
 
-- [muscle](/muscle)：筋肉
-- [joint](/joint)：関節
+- [muscle](/word/muscle)：筋肉
+- [joint](/word/joint)：関節
 
 ---
 
 ## 📖 できればこれも
 
-- [skin](/skin)：皮膚
-- [blood](/blood)：血液
+- [skin](/word/skin)：皮膚
+- [blood](/word/blood)：血液
 
 <!-- cvid: aid30_bid11 -->

@@ -97,7 +97,7 @@ TOEICでは会議やインタビューの記録、議事録などの文脈で登
 ## 🤔  translation との違いは？
 
 - **transcription**：音声や映像などをそのまま文字に書き起こすこと
-- **[translation](/translation)**：ある言語の内容を別の言語に訳すこと
+- **[translation](/word/translation)**：ある言語の内容を別の言語に訳すこと
 
 transcriptionは「書き起こし」、translationは「翻訳」と、目的や作業内容が異なります。transcriptionは言語を変えずに文字化、translationは言語を変えて意味を伝えます。
 
@@ -105,14 +105,14 @@ transcriptionは「書き起こし」、translationは「翻訳」と、目的�
 
 ## 🧩 あわせて覚えたい
 
-- [transcript](/transcript)：書き起こし文、記録
-- [dictation](/dictation)：聞き取り書き取り、ディクテーション
+- [transcript](/word/transcript)：書き起こし文、記録
+- [dictation](/word/dictation)：聞き取り書き取り、ディクテーション
 
 ---
 
 ## 📖 できればこれも
 
-- [summary](/summary)：要約
-- [interpretation](/interpretation)：通訳、解釈
+- [summary](/word/summary)：要約
+- [interpretation](/word/interpretation)：通訳、解釈
 
 <!-- cvid: aid37_bid26 -->

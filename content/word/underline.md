@@ -98,7 +98,7 @@ TOEICでは、指示や説明文で「強調する」「下線を引く」とい
 ## 🤔  emphasize との違いは？
 
 - **underline**：下線を引くことで視覚的に強調する、または明確に強調する
-- **[emphasize](/emphasize)**：言葉や行動で重要性を強調する
+- **[emphasize](/word/emphasize)**：言葉や行動で重要性を強調する
 
 「underline」は実際に下線を引くなど視覚的な強調に使い、「emphasize」は話し言葉や文章で重要性を強調する時に使います。
 
@@ -106,14 +106,14 @@ TOEICでは、指示や説明文で「強調する」「下線を引く」とい
 
 ## 🧩 あわせて覚えたい
 
-- [highlight](/highlight)：目立たせる、強調する
-- [stress](/stress)：強調する、力を入れて言う
+- [highlight](/word/highlight)：目立たせる、強調する
+- [stress](/word/stress)：強調する、力を入れて言う
 
 ---
 
 ## 📖 できればこれも
 
-- [note](/note)：メモする、注意する
-- [mark](/mark)：印をつける、記す
+- [note](/word/note)：メモする、注意する
+- [mark](/word/mark)：印をつける、記す
 
 <!-- cvid: aid07_bid46 -->

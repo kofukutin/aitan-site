@@ -98,7 +98,7 @@ TOEICでは会議やビジネスシーンで「仕事を任せる」「権限を
 ## 🤔  assign との違いは？
 
 - **delegate**：権限や責任を他人に委任する、任せる（特に上司が部下に）
-- **[assign](/assign)**：仕事や役割を割り当てる、指定する（必ずしも権限移譲ではない）
+- **[assign](/word/assign)**：仕事や役割を割り当てる、指定する（必ずしも権限移譲ではない）
 
 delegateは「自分の権限や責任ごと任せる」ニュアンスが強く、assignは単に「仕事や役割を割り当てる」意味で使われます。
 
@@ -106,14 +106,14 @@ delegateは「自分の権限や責任ごと任せる」ニュアンスが強く
 
 ## 🧩 あわせて覚えたい
 
-- [authorize](/authorize)：権限を与える
-- [representative](/representative)：代表者
+- [authorize](/word/authorize)：権限を与える
+- [representative](/word/representative)：代表者
 
 ---
 
 ## 📖 できればこれも
 
-- [supervise](/supervise)：監督する
-- [coordinate](/coordinate)：調整する
+- [supervise](/word/supervise)：監督する
+- [coordinate](/word/coordinate)：調整する
 
 <!-- cvid: aid30_bid14 -->

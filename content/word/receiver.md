@@ -97,7 +97,7 @@ TOEICでは電話対応や荷物の受け取りなど、ビジネスシーンの
 ## 🤔  recipient との違いは？
 
 - **receiver**：受信機や受話器、または受取人（やや広い意味）
-- **[recipient](/recipient)**：受取人（特にフォーマルで書類やメールの受取人）
+- **[recipient](/word/recipient)**：受取人（特にフォーマルで書類やメールの受取人）
 
 receiverは「機械」や「受話器」など物理的なものも指しますが、recipientは「受け取る人」に限定され、よりフォーマルな場面で使われます。
 
@@ -105,14 +105,14 @@ receiverは「機械」や「受話器」など物理的なものも指します
 
 ## 🧩 あわせて覚えたい
 
-- [transmitter](/transmitter)：送信機
-- [addressee](/addressee)：（手紙やメールの）宛先人
+- [transmitter](/word/transmitter)：送信機
+- [addressee](/word/addressee)：（手紙やメールの）宛先人
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/device)：装置、機器
-- [operator](/operator)：操作員、オペレーター
+- [device](/word/device)：装置、機器
+- [operator](/word/operator)：操作員、オペレーター
 
 <!-- cvid: aid43_bid20 -->

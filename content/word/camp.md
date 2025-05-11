@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で、アウトドアや旅行の場面で
 ## 🤔  tent との違いは？
 
 - **camp**：キャンプ全体やキャンプ場、野営地を指す。
-- **[tent](/tent)**：キャンプで使う「テント」という具体的な道具を指す。
+- **[tent](/word/tent)**：キャンプで使う「テント」という具体的な道具を指す。
 
 campは活動や場所全体、tentはその中の「テント」という物に限定されます。
 
@@ -106,14 +106,14 @@ campは活動や場所全体、tentはその中の「テント」という物に
 
 ## 🧩 あわせて覚えたい
 
-- [cabin](/cabin)：小屋、山小屋
-- [resort](/resort)：リゾート、行楽地
+- [cabin](/word/cabin)：小屋、山小屋
+- [resort](/word/resort)：リゾート、行楽地
 
 ---
 
 ## 📖 できればこれも
 
-- [trip](/trip)：旅行
-- [picnic](/picnic)：ピクニック
+- [trip](/word/trip)：旅行
+- [picnic](/word/picnic)：ピクニック
 
 <!-- cvid: aid02_bid19 -->

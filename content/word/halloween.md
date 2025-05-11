@@ -97,7 +97,7 @@ TOEICでは、イベントや季節行事を紹介するメールや案内文な
 ## 🤔  carnival との違いは？
 
 - **Halloween**：10月31日に行われる仮装やお菓子配りが特徴の行事
-- **[carnival](/carnival)**：仮装やパレードを含む祭りだが、時期や宗教的背景が異なる
+- **[carnival](/word/carnival)**：仮装やパレードを含む祭りだが、時期や宗教的背景が異なる
 
 Halloweenは主に秋の終わりに行われる西洋の伝統行事、carnivalはキリスト教の行事で春先に行われることが多いです。
 
@@ -105,14 +105,14 @@ Halloweenは主に秋の終わりに行われる西洋の伝統行事、carnival
 
 ## 🧩 あわせて覚えたい
 
-- [festival](/festival)：祭り、祝祭
-- [costume](/costume)：衣装、仮装
+- [festival](/word/festival)：祭り、祝祭
+- [costume](/word/costume)：衣装、仮装
 
 ---
 
 ## 📖 できればこれも
 
 - [Christmas](/Christmas)：クリスマス
-- [celebrate](/celebrate)：祝う
+- [celebrate](/word/celebrate)：祝う
 
 <!-- cvid: aid15_bid10 -->

@@ -98,7 +98,7 @@ TOEICでは、数値や条件を示す文脈で「maximum」がよく登場し�
 ## 🤔  optimum との違いは？
 
 - **maximum**：物理的・数値的な「最大限」「上限」を表す
-- **[optimum](/optimum)**：最適な、最も望ましい状態を表す
+- **[optimum](/word/optimum)**：最適な、最も望ましい状態を表す
 
 「maximum」は単に「一番大きい」や「上限」を指し、「optimum」は状況にとって最も良い（最適な）という意味で使い分けます。
 
@@ -106,14 +106,14 @@ TOEICでは、数値や条件を示す文脈で「maximum」がよく登場し�
 
 ## 🧩 あわせて覚えたい
 
-- [minimum](/minimum)：最小限、最小値
-- [limit](/limit)：限界、制限
+- [minimum](/word/minimum)：最小限、最小値
+- [limit](/word/limit)：限界、制限
 
 ---
 
 ## 📖 できればこれも
 
-- [average](/average)：平均
-- [capacity](/capacity)：容量、収容力
+- [average](/word/average)：平均
+- [capacity](/word/capacity)：容量、収容力
 
 <!-- cvid: aid13_bid27 -->

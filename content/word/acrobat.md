@@ -97,7 +97,7 @@ TOEICでは観光やイベント紹介の記事、サーカスの案内文など
 ## 🤔  gymnast との違いは？
 
 - **acrobat**：サーカスやショーで曲芸を披露する人
-- **[gymnast](/gymnast)**：体操競技の選手
+- **[gymnast](/word/gymnast)**：体操競技の選手
 
 acrobatは主にエンターテインメントやサーカスで観客を楽しませる人、gymnastはスポーツ競技として体操を行う選手を指します。
 
@@ -105,14 +105,14 @@ acrobatは主にエンターテインメントやサーカスで観客を楽し�
 
 ## 🧩 あわせて覚えたい
 
-- [performer](/performer)：演技者、出演者
-- [clown](/clown)：道化師
+- [performer](/word/performer)：演技者、出演者
+- [clown](/word/clown)：道化師
 
 ---
 
 ## 📖 できればこれも
 
-- [circus](/circus)：サーカス
-- [juggler](/juggler)：ジャグラー、曲芸師
+- [circus](/word/circus)：サーカス
+- [juggler](/word/juggler)：ジャグラー、曲芸師
 
 <!-- cvid: aid02_bid30 -->

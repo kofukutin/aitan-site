@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や規約、契約書などの長文で登場
 ## 🤔  rule との違いは？
 
 - **law**：国や社会全体で定められた公式な法律
-- **[rule](/rule)**：組織や集団内での規則・ルール
+- **[rule](/word/rule)**：組織や集団内での規則・ルール
 
 lawは国や州など公的な機関が定める「法律」を指し、ruleは学校や会社など特定の集団内の「規則」を指します。
 
@@ -105,14 +105,14 @@ lawは国や州など公的な機関が定める「法律」を指し、ruleは�
 
 ## 🧩 あわせて覚えたい
 
-- [regulation](/regulation)：規則、規制
-- [policy](/policy)：方針、政策
+- [regulation](/word/regulation)：規則、規制
+- [policy](/word/policy)：方針、政策
 
 ---
 
 ## 📖 できればこれも
 
-- [court](/court)：裁判所
-- [right](/right)：権利
+- [court](/word/court)：裁判所
+- [right](/word/right)：権利
 
 <!-- cvid: aid47_bid24 -->

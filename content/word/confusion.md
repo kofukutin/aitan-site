@@ -97,7 +97,7 @@ The new policy caused confusion among employees.
 ## 🤔  disorder との違いは？
 
 - **confusion**：頭の中や状況がごちゃごちゃしている「混乱」や「困惑」
-- **[disorder](/disorder)**：秩序や規則が乱れている「無秩序」や「障害」
+- **[disorder](/word/disorder)**：秩序や規則が乱れている「無秩序」や「障害」
 
 confusionは主に一時的な混乱や理解できない状態を指し、disorderはより深刻で長期的な混乱や障害を表します。
 
@@ -105,14 +105,14 @@ confusionは主に一時的な混乱や理解できない状態を指し、disor
 
 ## 🧩 あわせて覚えたい
 
-- [clarity](/clarity)：明確さ、はっきりしていること
-- [chaos](/chaos)：完全な混沌、無秩序
+- [clarity](/word/clarity)：明確さ、はっきりしていること
+- [chaos](/word/chaos)：完全な混沌、無秩序
 
 ---
 
 ## 📖 できればこれも
 
-- [concern](/concern)：心配、懸念
-- [conflict](/conflict)：対立、衝突
+- [concern](/word/concern)：心配、懸念
+- [conflict](/word/conflict)：対立、衝突
 
 <!-- cvid: aid23_bid29 -->

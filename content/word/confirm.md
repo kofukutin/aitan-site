@@ -97,7 +97,7 @@ TOEICでは、メールや通知文、予約確認などの文脈で頻出しま
 ## 🤔  verify との違いは？
 
 - **confirm**：事実や予定などを「確認して確かめる」「正式に認める」
-- **[verify](/verify)**：証拠や手順を使って「正しいかどうか検証する」
+- **[verify](/word/verify)**：証拠や手順を使って「正しいかどうか検証する」
 
 confirmは「承認」や「最終確認」のニュアンスが強く、verifyは「正確性や真偽を調べる」場面で使われます。
 
@@ -105,14 +105,14 @@ confirmは「承認」や「最終確認」のニュアンスが強く、verify�
 
 ## 🧩 あわせて覚えたい
 
-- [approve](/approve)：承認する
-- [acknowledge](/acknowledge)：受け取ったことを認める
+- [approve](/word/approve)：承認する
+- [acknowledge](/word/acknowledge)：受け取ったことを認める
 
 ---
 
 ## 📖 できればこれも
 
-- [notify](/notify)：通知する
-- [ensure](/ensure)：確実にする
+- [notify](/word/notify)：通知する
+- [ensure](/word/ensure)：確実にする
 
 <!-- cvid: aid04_bid26 -->

@@ -97,7 +97,7 @@ TOEICでは「移動する」「引っ越す」「予定を動かす」など、
 ## 🤔  transfer との違いは？
 
 - **move**：一般的に「動かす」「移動する」と幅広く使う
-- **[transfer](/transfer)**：特に「移す」「転送する」「異動する」など、より正式・限定的な移動
+- **[transfer](/word/transfer)**：特に「移す」「転送する」「異動する」など、より正式・限定的な移動
 
 moveは日常的な「動かす・移動する」に使い、transferは「部署異動」や「データ転送」など公式・専門的な場面で使います。
 
@@ -105,14 +105,14 @@ moveは日常的な「動かす・移動する」に使い、transferは「部�
 
 ## 🧩 あわせて覚えたい
 
-- [shift](/shift)：（位置・方向などを）変える、ずらす
-- [relocate](/relocate)：（職場や住居などを）移転する、引っ越す
+- [shift](/word/shift)：（位置・方向などを）変える、ずらす
+- [relocate](/word/relocate)：（職場や住居などを）移転する、引っ越す
 
 ---
 
 ## 📖 できればこれも
 
-- [change](/change)：変える、変更する
-- [arrange](/arrange)：手配する、整える
+- [change](/word/change)：変える、変更する
+- [arrange](/word/arrange)：手配する、整える
 
 <!-- cvid: aid34_bid29 -->

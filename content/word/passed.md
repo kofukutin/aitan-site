@@ -97,7 +97,7 @@ TOEICでは会議や試験、時間経過などの文脈で「passed」が使わ
 ## 🤔  went との違いは？
 
 - **passed**：何かを通り過ぎる、合格・承認される、時間が経過するなどの意味。
-- **[went](/went)**：「行く」の過去形で、場所の移動を表す。
+- **[went](/word/went)**：「行く」の過去形で、場所の移動を表す。
 
 「passed」は「通過」「合格」「承認」など幅広い意味で使われますが、「went」は単に「行く」という移動のみを指します。
 
@@ -105,14 +105,14 @@ TOEICでは会議や試験、時間経過などの文脈で「passed」が使わ
 
 ## 🧩 あわせて覚えたい
 
-- [fail](/fail)：失敗する、不合格になる
-- [approve](/approve)：承認する
+- [fail](/word/fail)：失敗する、不合格になる
+- [approve](/word/approve)：承認する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrive](/arrive)：到着する
-- [move](/move)：動く、移動する
+- [arrive](/word/arrive)：到着する
+- [move](/word/move)：動く、移動する
 
 <!-- cvid: aid13_bid07 -->

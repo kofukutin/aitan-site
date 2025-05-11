@@ -97,7 +97,7 @@ TOEICでは主に屋外シーンの写真描写や、旅行・観光に関する
 ## 🤔  sunblock との違いは？
 
 - **sunscreen**：紫外線を防ぐためのクリームやローション全般。UVカット効果は幅広い。
-- **[sunblock](/sunblock)**：より強力に紫外線を「遮断」するタイプ。物理的に肌を覆うイメージ。
+- **[sunblock](/word/sunblock)**：より強力に紫外線を「遮断」するタイプ。物理的に肌を覆うイメージ。
 
 sunscreenは一般的な日焼け止め全般を指し、sunblockは特に強力な遮断効果を持つ製品を指します。
 
@@ -105,14 +105,14 @@ sunscreenは一般的な日焼け止め全般を指し、sunblockは特に強力
 
 ## 🧩 あわせて覚えたい
 
-- [lotion](/lotion)：ローション、化粧水
-- [shade](/shade)：日陰、影
+- [lotion](/word/lotion)：ローション、化粧水
+- [shade](/word/shade)：日陰、影
 
 ---
 
 ## 📖 できればこれも
 
-- [umbrella](/umbrella)：傘
-- [towel](/towel)：タオル
+- [umbrella](/word/umbrella)：傘
+- [towel](/word/towel)：タオル
 
 <!-- cvid: aid07_bid46 -->

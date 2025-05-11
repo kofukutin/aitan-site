@@ -97,7 +97,7 @@ TOEICでは、オフィスや部屋の施錠に関する会話や指示でよく
 ## 🤔  closed との違いは？
 
 - **locked**：物理的に「鍵がかかっている」状態を強調
-- **[closed](/closed)**：単に「閉じている」状態（鍵がかかっているかは問わない）
+- **[closed](/word/closed)**：単に「閉じている」状態（鍵がかかっているかは問わない）
 
 lockedは「施錠されている」ことを明確に示し、closedは「開いていない」だけで鍵の有無は含みません。
 
@@ -105,14 +105,14 @@ lockedは「施錠されている」ことを明確に示し、closedは「開�
 
 ## 🧩 あわせて覚えたい
 
-- [secure](/secure)：安全な、しっかり固定された
-- [unlock](/unlock)：鍵を開ける
+- [secure](/word/secure)：安全な、しっかり固定された
+- [unlock](/word/unlock)：鍵を開ける
 
 ---
 
 ## 📖 できればこれも
 
-- [open](/open)：開いている
-- [shut](/shut)：閉じている
+- [open](/word/open)：開いている
+- [shut](/word/shut)：閉じている
 
 <!-- cvid: aid29_bid17 -->

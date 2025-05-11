@@ -98,7 +98,7 @@ TOEICでは、正確さや精度を問う文脈で頻出します。特に「acc
 ## 🤔  precisely との違いは？
 
 - **accurately**：誤りなく正確に、事実や基準に忠実に
-- **[precisely](/precisely)**：きわめて正確に、細部まで厳密に
+- **[precisely](/word/precisely)**：きわめて正確に、細部まで厳密に
 
 「accurately」は「正確さ」全般を表し、「precisely」は「細かい点まで厳密に」というニュアンスが強いです。日常的な「正確さ」ならaccurately、細部へのこだわりや厳密さを強調したいときはpreciselyを使います。
 
@@ -106,14 +106,14 @@ TOEICでは、正確さや精度を問う文脈で頻出します。特に「acc
 
 ## 🧩 あわせて覚えたい
 
-- [correctly](/correctly)：正しく、間違いなく
-- [exactly](/exactly)：まさに、ぴったりと
+- [correctly](/word/correctly)：正しく、間違いなく
+- [exactly](/word/exactly)：まさに、ぴったりと
 
 ---
 
 ## 📖 できればこれも
 
-- [carefully](/carefully)：注意深く
-- [clearly](/clearly)：はっきりと
+- [carefully](/word/carefully)：注意深く
+- [clearly](/word/clearly)：はっきりと
 
 <!-- cvid: aid00_bid04 -->

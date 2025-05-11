@@ -97,7 +97,7 @@ TOEICでは、オフィスや施設の清掃、メンテナンス、説明場面
 ## 🤔  sprinkle との違いは？
 
 - **spray**：液体や細かい粒子を霧状に噴射すること
-- **[sprinkle](/sprinkle)**：パラパラとまき散らすこと（主に固体の小さな粒）
+- **[sprinkle](/word/sprinkle)**：パラパラとまき散らすこと（主に固体の小さな粒）
 
 「spray」は液体や非常に細かい粒子を広範囲に噴射するイメージ、「sprinkle」は塩や砂糖などを少量ずつまくイメージです。
 
@@ -105,14 +105,14 @@ TOEICでは、オフィスや施設の清掃、メンテナンス、説明場面
 
 ## 🧩 あわせて覚えたい
 
-- [scatter](/scatter)：ばらまく、散らす
-- [mist](/mist)：霧状にする、霧
+- [scatter](/word/scatter)：ばらまく、散らす
+- [mist](/word/mist)：霧状にする、霧
 
 ---
 
 ## 📖 できればこれも
 
-- [pour](/pour)：注ぐ
-- [wipe](/wipe)：拭く
+- [pour](/word/pour)：注ぐ
+- [wipe](/word/wipe)：拭く
 
 <!-- cvid: aid38_bid23 -->

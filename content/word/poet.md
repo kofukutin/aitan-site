@@ -97,7 +97,7 @@ TOEICでは文学や文化に関する長文や記事で登場することがあ
 ## 🤔  author との違いは？
 
 - **poet**：詩を書く人、詩人
-- **[author](/author)**：本や記事などあらゆる文章の「著者」
+- **[author](/word/author)**：本や記事などあらゆる文章の「著者」
 
 poetは詩に特化した表現で、authorは小説や記事、論文など幅広い著作物の書き手を指します。
 
@@ -105,14 +105,14 @@ poetは詩に特化した表現で、authorは小説や記事、論文など幅�
 
 ## 🧩 あわせて覚えたい
 
-- [poetry](/poetry)：詩（文学作品としての詩）
-- [novelist](/novelist)：小説家
+- [poetry](/word/poetry)：詩（文学作品としての詩）
+- [novelist](/word/novelist)：小説家
 
 ---
 
 ## 📖 できればこれも
 
-- [artist](/artist)：芸術家
-- [writer](/writer)：書き手、作家
+- [artist](/word/artist)：芸術家
+- [writer](/word/writer)：書き手、作家
 
 <!-- cvid: aid48_bid49 -->

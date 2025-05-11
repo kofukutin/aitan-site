@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、部屋やオフィスの収納スペー
 ## 🤔  wardrobe との違いは？
 
 - **closet**：主にアメリカ英語で使われる、壁に作り付けの収納スペース。
-- **[wardrobe](/wardrobe)**：主にイギリス英語で使われる、独立した洋服ダンス。
+- **[wardrobe](/word/wardrobe)**：主にイギリス英語で使われる、独立した洋服ダンス。
 
 closetは部屋の一部として作り付けられている収納を指し、wardrobeは家具として独立している点が異なります。
 
@@ -105,14 +105,14 @@ closetは部屋の一部として作り付けられている収納を指し、wa
 
 ## 🧩 あわせて覚えたい
 
-- [cabinet](/cabinet)：戸棚、キャビネット
-- [drawer](/drawer)：引き出し
+- [cabinet](/word/cabinet)：戸棚、キャビネット
+- [drawer](/word/drawer)：引き出し
 
 ---
 
 ## 📖 できればこれも
 
-- [shelf](/shelf)：棚
-- [room](/room)：部屋
+- [shelf](/word/shelf)：棚
+- [room](/word/room)：部屋
 
 <!-- cvid: aid24_bid23 -->

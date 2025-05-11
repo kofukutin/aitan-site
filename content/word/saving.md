@@ -97,7 +97,7 @@ savingはTOEICの長文読解パートで、経済やビジネスの文脈で「
 ## 🤔  deposit との違いは？
 
 - **saving**：節約や貯蓄そのもの、または貯めたお金全体を指す
-- **[deposit](/deposit)**：銀行などに預け入れる「預金」「入金」という行為やその金額
+- **[deposit](/word/deposit)**：銀行などに預け入れる「預金」「入金」という行為やその金額
 
 savingは「貯めたお金」や「節約した分」を広く指し、depositは「銀行に預けた金額」や「預け入れ」という具体的な行為や金額を指します。
 
@@ -105,14 +105,14 @@ savingは「貯めたお金」や「節約した分」を広く指し、deposit�
 
 ## 🧩 あわせて覚えたい
 
-- [expenditure](/expenditure)：支出、出費
-- [budget](/budget)：予算
+- [expenditure](/word/expenditure)：支出、出費
+- [budget](/word/budget)：予算
 
 ---
 
 ## 📖 できればこれも
 
-- [expense](/expense)：費用、経費
-- [income](/income)：収入
+- [expense](/word/expense)：費用、経費
+- [income](/word/income)：収入
 
 <!-- cvid: aid40_bid35 -->

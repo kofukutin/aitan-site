@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、自然や屋外の風景を説明す
 ## 🤔  stream との違いは？
 
 - **creek**：主にアメリカ英語で使われる「小川」。川より小さく、自然の中の細い流れを指す。
-- **[stream](/stream)**：一般的に「小川」「流れ」を意味し、creekよりやや広い範囲の水の流れを指す。
+- **[stream](/word/stream)**：一般的に「小川」「流れ」を意味し、creekよりやや広い範囲の水の流れを指す。
 
 creekは特にアメリカ英語で使われる「小川」で、streamはより一般的な「流れ」や「小川」を指します。
 
@@ -105,14 +105,14 @@ creekは特にアメリカ英語で使われる「小川」で、streamはより
 
 ## 🧩 あわせて覚えたい
 
-- [river](/river)：川（creekより大きい流れ）
-- [brook](/brook)：小川（creekよりさらに小さいことが多い）
+- [river](/word/river)：川（creekより大きい流れ）
+- [brook](/word/brook)：小川（creekよりさらに小さいことが多い）
 
 ---
 
 ## 📖 できればこれも
 
-- [pond](/pond)：池
-- [valley](/valley)：谷
+- [pond](/word/pond)：池
+- [valley](/word/valley)：谷
 
 <!-- cvid: aid27_bid42 -->

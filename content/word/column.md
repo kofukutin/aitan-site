@@ -97,7 +97,7 @@ TOEICでは表やリスト、新聞記事の説明などで「column」がよく
 ## 🤔  row との違いは？
 
 - **column**：表やリストの「縦の列」、新聞・雑誌の「コラム欄」など
-- **[row](/row)**：表やリストの「横の行」
+- **[row](/word/row)**：表やリストの「横の行」
 
 columnは「縦方向」、rowは「横方向」を表し、表やリストで混同しやすいので注意が必要です。
 
@@ -105,14 +105,14 @@ columnは「縦方向」、rowは「横方向」を表し、表やリストで�
 
 ## 🧩 あわせて覚えたい
 
-- [section](/section)：区分、部分
-- [field](/field)：（データベースなどの）項目、分野
+- [section](/word/section)：区分、部分
+- [field](/word/field)：（データベースなどの）項目、分野
 
 ---
 
 ## 📖 できればこれも
 
-- [table](/table)：表、テーブル
-- [article](/article)：記事、論文
+- [table](/word/table)：表、テーブル
+- [article](/word/article)：記事、論文
 
 <!-- cvid: aid45_bid29 -->

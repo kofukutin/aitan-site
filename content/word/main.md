@@ -97,7 +97,7 @@ TOEICでは、案内や説明、ビジネス文書で「main office」「main re
 ## 🤔  major との違いは？
 
 - **main**：最も重要・中心となるものを指す
-- **[major](/major)**：大きな割合・規模・影響力を持つものを指す
+- **[major](/word/major)**：大きな割合・規模・影響力を持つものを指す
 
 「main」は「中心」「最重要」のニュアンスが強く、「major」は「大部分」「大きな影響力」を持つものに使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、案内や説明、ビジネス文書で「main office」「main re
 
 ## 🧩 あわせて覚えたい
 
-- [primary](/primary)：第一の、主要な
-- [central](/central)：中心の、重要な
+- [primary](/word/primary)：第一の、主要な
+- [central](/word/central)：中心の、重要な
 
 ---
 
 ## 📖 できればこれも
 
-- [basic](/basic)：基本的な
-- [essential](/essential)：不可欠な
+- [basic](/word/basic)：基本的な
+- [essential](/word/essential)：不可欠な
 
 <!-- cvid: aid45_bid20 -->

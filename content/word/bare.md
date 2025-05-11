@@ -97,7 +97,7 @@ TOEICでは「bare minimum」や「bare hands」など、慣用表現や形容�
 ## 🤔  naked との違いは？
 
 - **bare**：必要なもの以外がなく、覆いがない状態
-- **[naked](/naked)**：完全に何も身につけていない状態、特に人や体に使う
+- **[naked](/word/naked)**：完全に何も身につけていない状態、特に人や体に使う
 
 「bare」は「bare hands（素手）」のように部分的な「むき出し」や「最低限」を表し、「naked」は全体が完全に裸であるニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは「bare minimum」や「bare hands」など、慣用表現や形容�
 
 ## 🧩 あわせて覚えたい
 
-- [empty](/empty)：空の、中身がない
-- [exposed](/exposed)：さらされた、むき出しの
+- [empty](/word/empty)：空の、中身がない
+- [exposed](/word/exposed)：さらされた、むき出しの
 
 ---
 
 ## 📖 できればこれも
 
-- [plain](/plain)：無地の、飾り気のない
-- [blank](/blank)：空白の、白紙の
+- [plain](/word/plain)：無地の、飾り気のない
+- [blank](/word/blank)：空白の、白紙の
 
 <!-- cvid: aid03_bid42 -->

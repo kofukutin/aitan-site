@@ -97,7 +97,7 @@ TOEICでは「admit」の過去形・過去分詞として、文法問題や受�
 ## 🤔  allowed との違いは？
 
 - **admitted**：公式に認める、入場・入学などを許可する
-- **[allowed](/allowed)**：一般的に許可する、制限を設けずに認める
+- **[allowed](/word/allowed)**：一般的に許可する、制限を設けずに認める
 
 「admitted」は公式な場面や手続きでの「認める・受け入れる」に使い、「allowed」はもっと広く「許す・許可する」に使います。
 
@@ -105,14 +105,14 @@ TOEICでは「admit」の過去形・過去分詞として、文法問題や受�
 
 ## 🧩 あわせて覚えたい
 
-- [confess](/confess)：（罪や過失を）告白する
-- [accept](/accept)：受け入れる、承諾する
+- [confess](/word/confess)：（罪や過失を）告白する
+- [accept](/word/accept)：受け入れる、承諾する
 
 ---
 
 ## 📖 できればこれも
 
-- [denied](/denied)：否定した、拒否された
-- [approve](/approve)：承認する
+- [denied](/word/denied)：否定した、拒否された
+- [approve](/word/approve)：承認する
 
 <!-- cvid: aid38_bid24 -->

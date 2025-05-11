@@ -98,7 +98,7 @@ TOEICでは会話や説明文で「はっきりと肯定する」場面でよく
 ## 🤔  certainly との違いは？
 
 - **definitely**：強い確信や断言を表し、「絶対に」「間違いなく」というニュアンス。
-- **[certainly](/certainly)**：丁寧さや礼儀を含みつつ「確かに」「もちろん」と答えるときに使う。
+- **[certainly](/word/certainly)**：丁寧さや礼儀を含みつつ「確かに」「もちろん」と答えるときに使う。
 
 「definitely」はより強い自信や断言、「certainly」は丁寧な同意や承諾の場面で使い分けます。
 
@@ -106,14 +106,14 @@ TOEICでは会話や説明文で「はっきりと肯定する」場面でよく
 
 ## 🧩 あわせて覚えたい
 
-- [absolutely](/absolutely)：完全に、絶対に
-- [probably](/probably)：おそらく、たぶん
+- [absolutely](/word/absolutely)：完全に、絶対に
+- [probably](/word/probably)：おそらく、たぶん
 
 ---
 
 ## 📖 できればこれも
 
-- [clearly](/clearly)：はっきりと、明確に
-- [exactly](/exactly)：正確に、まさに
+- [clearly](/word/clearly)：はっきりと、明確に
+- [exactly](/word/exactly)：正確に、まさに
 
 <!-- cvid: aid15_bid37 -->

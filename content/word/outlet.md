@@ -97,7 +97,7 @@ TOEICでは主にショッピングやビジネス関連の長文で「販売店
 ## 🤔  store との違いは？
 
 - **outlet**：主にメーカー直営や割引販売を行う店舗、または出口・コンセントの意味もある
-- **[store](/store)**：一般的な「店」「小売店」を指す
+- **[store](/word/store)**：一般的な「店」「小売店」を指す
 
 outletは特に「直販店」「アウトレットモール」など限定的な店舗や、他の「出口」などの意味も持つ点でstoreと異なります。
 
@@ -105,14 +105,14 @@ outletは特に「直販店」「アウトレットモール」など限定的�
 
 ## 🧩 あわせて覚えたい
 
-- [branch](/branch)：支店、支社
-- [mall](/mall)：ショッピングモール
+- [branch](/word/branch)：支店、支社
+- [mall](/word/mall)：ショッピングモール
 
 ---
 
 ## 📖 できればこれも
 
-- [facility](/facility)：施設
-- [location](/location)：場所
+- [facility](/word/facility)：施設
+- [location](/word/location)：場所
 
 <!-- cvid: aid07_bid16 -->

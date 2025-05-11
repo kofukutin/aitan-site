@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、部屋や建物の内部を説
 ## 🤔  roof との違いは？
 
 - **ceiling**：部屋の内側から見える「天井」
-- **[roof](/roof)**：建物の外側を覆う「屋根」
+- **[roof](/word/roof)**：建物の外側を覆う「屋根」
 
 ceilingは室内から見上げる面、roofは建物全体を外から覆う部分を指します。
 
@@ -105,14 +105,14 @@ ceilingは室内から見上げる面、roofは建物全体を外から覆う部
 
 ## 🧩 あわせて覚えたい
 
-- [floor](/floor)：床
-- [wall](/wall)：壁
+- [floor](/word/floor)：床
+- [wall](/word/wall)：壁
 
 ---
 
 ## 📖 できればこれも
 
-- [window](/window)：窓
-- [door](/door)：ドア
+- [window](/word/window)：窓
+- [door](/word/door)：ドア
 
 <!-- cvid: aid06_bid43 -->

@@ -97,7 +97,7 @@ TOEICでは副詞の適切な使い方や、程度を表す表現として出題
 ## 🤔  fairly との違いは？
 
 - **reasonably**：理にかなった範囲で「ほどほどに」「無理なく」というニュアンス。
-- **[fairly](/fairly)**：やや肯定的で「かなり」「まあまあ」という意味合いが強い。
+- **[fairly](/word/fairly)**：やや肯定的で「かなり」「まあまあ」という意味合いが強い。
 
 reasonablyは「理性的・妥当な範囲で」という客観的な響きがあり、fairlyは「予想より良い・悪くない」といった主観的な評価が含まれます。
 
@@ -105,14 +105,14 @@ reasonablyは「理性的・妥当な範囲で」という客観的な響きが�
 
 ## 🧩 あわせて覚えたい
 
-- [adequately](/adequately)：十分に、適切に
-- [moderately](/moderately)：適度に、ほどほどに
+- [adequately](/word/adequately)：十分に、適切に
+- [moderately](/word/moderately)：適度に、ほどほどに
 
 ---
 
 ## 📖 できればこれも
 
-- [slightly](/slightly)：わずかに
-- [considerably](/considerably)：かなり、大いに
+- [slightly](/word/slightly)：わずかに
+- [considerably](/word/considerably)：かなり、大いに
 
 <!-- cvid: aid24_bid44 -->

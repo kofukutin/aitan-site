@@ -97,7 +97,7 @@ TOEICでは「問題」「課題」として頻出し、選択肢や設問文で
 ## 🤔  issue との違いは？
 
 - **problem**：困難やトラブルなど、解決すべき「問題」を指す一般的な語。
-- **[issue](/issue)**：議論や対応が必要な「課題」「論点」を指し、ややフォーマル。
+- **[issue](/word/issue)**：議論や対応が必要な「課題」「論点」を指し、ややフォーマル。
 
 problemは日常的なトラブルや困難に幅広く使い、issueはビジネスや議論の場で「課題」「論点」として使われることが多いです。
 
@@ -105,14 +105,14 @@ problemは日常的なトラブルや困難に幅広く使い、issueはビジ�
 
 ## 🧩 あわせて覚えたい
 
-- [solution](/solution)：解決策
-- [challenge](/challenge)：挑戦、難題
+- [solution](/word/solution)：解決策
+- [challenge](/word/challenge)：挑戦、難題
 
 ---
 
 ## 📖 できればこれも
 
-- [question](/question)：質問、疑問
-- [matter](/matter)：事柄、問題
+- [question](/word/question)：質問、疑問
+- [matter](/word/matter)：事柄、問題
 
 <!-- cvid: aid10_bid34 -->

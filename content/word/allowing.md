@@ -97,7 +97,7 @@ TOEICでは動詞の進行形や分詞構文として、文法問題で頻出し
 ## 🤔  permitting との違いは？
 
 - **allowing**：一般的に「許している」「可能にしている」と広く使う。
-- **[permitting](/permitting)**：ややフォーマルで、公式な許可や認可の場面で使われやすい。
+- **[permitting](/word/permitting)**：ややフォーマルで、公式な許可や認可の場面で使われやすい。
 
 「allowing」は日常的・広範囲に使われ、「permitting」は規則や権限に基づく許可に使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは動詞の進行形や分詞構文として、文法問題で頻出し
 
 ## 🧩 あわせて覚えたい
 
-- [enable](/enable)：可能にする
-- [forbid](/forbid)：禁止する
+- [enable](/word/enable)：可能にする
+- [forbid](/word/forbid)：禁止する
 
 ---
 
 ## 📖 できればこれも
 
-- [accept](/accept)：受け入れる
-- [approve](/approve)：承認する
+- [accept](/word/accept)：受け入れる
+- [approve](/word/approve)：承認する
 
 <!-- cvid: aid10_bid17 -->

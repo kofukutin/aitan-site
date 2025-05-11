@@ -98,7 +98,7 @@ TOEICではPart 2のリスニング応答問題で頻出です。指示や会話
 ## 🤔  hear との違いは？
 
 - **listen**：意識して耳を傾ける、集中して聞く
-- **[hear](/hear)**：自然に耳に入る、聞こえる
+- **[hear](/word/hear)**：自然に耳に入る、聞こえる
 
 listenは「自分の意思で注意して聞く」場合に使い、hearは「意識しなくても音が耳に入る」場合に使います。
 
@@ -106,14 +106,14 @@ listenは「自分の意思で注意して聞く」場合に使い、hearは「�
 
 ## 🧩 あわせて覚えたい
 
-- [attend](/attend)：注意を向ける、出席する
-- [ignore](/ignore)：無視する
+- [attend](/word/attend)：注意を向ける、出席する
+- [ignore](/word/ignore)：無視する
 
 ---
 
 ## 📖 できればこれも
 
-- [speak](/speak)：話す
-- [talk](/talk)：会話する
+- [speak](/word/speak)：話す
+- [talk](/word/talk)：会話する
 
 <!-- cvid: aid32_bid16 -->

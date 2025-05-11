@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、建物や住宅を説明する場面
 ## 🤔  home との違いは？
 
 - **house**：物理的な建物としての「家」
-- **[home](/home)**：家庭や心の拠り所としての「家」
+- **[home](/word/home)**：家庭や心の拠り所としての「家」
 
 「house」は建物そのものを指し、「home」は感情的なつながりや生活の場を強調します。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写で、建物や住宅を説明する場面
 
 ## 🧩 あわせて覚えたい
 
-- [building](/building)：建物
-- [apartment](/apartment)：アパート、マンション
+- [building](/word/building)：建物
+- [apartment](/word/apartment)：アパート、マンション
 
 ---
 
 ## 📖 できればこれも
 
-- [room](/room)：部屋
-- [office](/office)：オフィス、事務所
+- [room](/word/room)：部屋
+- [office](/word/office)：オフィス、事務所
 
 <!-- cvid: aid25_bid08 -->

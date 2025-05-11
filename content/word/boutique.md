@@ -97,7 +97,7 @@ TOEICではショッピングや店舗紹介、広告文などで見かけるこ
 ## 🤔  shop との違いは？
 
 - **boutique**：高級感や専門性のある小規模な店
-- **[shop](/shop)**：一般的な「店」。規模や高級感は問わない
+- **[shop](/word/shop)**：一般的な「店」。規模や高級感は問わない
 
 boutiqueは特別感や高級感を強調したいときに使い、shopは日用品店など幅広く使います。
 
@@ -105,14 +105,14 @@ boutiqueは特別感や高級感を強調したいときに使い、shopは日�
 
 ## 🧩 あわせて覚えたい
 
-- [store](/store)：（米）店、店舗
-- [mall](/mall)：ショッピングモール、大型商業施設
+- [store](/word/store)：（米）店、店舗
+- [mall](/word/mall)：ショッピングモール、大型商業施設
 
 ---
 
 ## 📖 できればこれも
 
-- [brand](/brand)：ブランド、銘柄
-- [fashion](/fashion)：ファッション、流行
+- [brand](/word/brand)：ブランド、銘柄
+- [fashion](/word/fashion)：ファッション、流行
 
 <!-- cvid: aid04_bid11 -->

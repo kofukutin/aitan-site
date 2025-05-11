@@ -97,7 +97,7 @@ TOEICでは「将来の計画」や「今後の展望」など、ビジネス文
 ## 🤔  prospect との違いは？
 
 - **future**：これからやってくる「未来」や「将来」という時間そのものを指す
-- **[prospect](/prospect)**：将来に対する「見通し」や「可能性」を指す
+- **[prospect](/word/prospect)**：将来に対する「見通し」や「可能性」を指す
 
 futureは単純に「これからの時期」を表し、prospectは「期待できること」や「予想されること」に焦点を当てます。
 
@@ -105,14 +105,14 @@ futureは単純に「これからの時期」を表し、prospectは「期待で
 
 ## 🧩 あわせて覚えたい
 
-- [past](/past)：過去
-- [opportunity](/opportunity)：機会
+- [past](/word/past)：過去
+- [opportunity](/word/opportunity)：機会
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/plan)：計画
-- [goal](/goal)：目標
+- [plan](/word/plan)：計画
+- [goal](/word/goal)：目標
 
 <!-- cvid: aid31_bid21 -->

@@ -97,7 +97,7 @@ TOEICでは、表彰や評価、品質に関する文脈で「excellence」が�
 ## 🤔  superiority との違いは？
 
 - **excellence**：優秀さや卓越性そのものを強調し、質や能力が非常に高いことを表す。
-- **[superiority](/superiority)**：他と比べて「優れている」「上回っている」という比較的な優越を表す。
+- **[superiority](/word/superiority)**：他と比べて「優れている」「上回っている」という比較的な優越を表す。
 
 「excellence」は絶対的な質の高さ、「superiority」は他との比較での優位性を表す点が異なります。
 
@@ -105,14 +105,14 @@ TOEICでは、表彰や評価、品質に関する文脈で「excellence」が�
 
 ## 🧩 あわせて覚えたい
 
-- [merit](/merit)：長所、価値
-- [distinction](/distinction)：優秀さ、卓越、区別
+- [merit](/word/merit)：長所、価値
+- [distinction](/word/distinction)：優秀さ、卓越、区別
 
 ---
 
 ## 📖 できればこれも
 
-- [achievement](/achievement)：業績、達成
-- [quality](/quality)：質、品質
+- [achievement](/word/achievement)：業績、達成
+- [quality](/word/quality)：質、品質
 
 <!-- cvid: aid16_bid44 -->

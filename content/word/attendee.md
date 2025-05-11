@@ -97,7 +97,7 @@ TOEICでは会議やセミナー、イベント案内の文書でよく登場し
 ## 🤔  participant との違いは？
 
 - **attendee**：会議やイベントなど「出席している人」をややフォーマルに表現
-- **[participant](/participant)**：活動や議論など「積極的に参加する人」を幅広く指す
+- **[participant](/word/participant)**：活動や議論など「積極的に参加する人」を幅広く指す
 
 attendeeは「その場にいる人」というニュアンスが強く、participantは「積極的に関わる人」という意味合いが強いです。
 
@@ -105,14 +105,14 @@ attendeeは「その場にいる人」というニュアンスが強く、partic
 
 ## 🧩 あわせて覚えたい
 
-- [organizer](/organizer)：主催者
-- [guest](/guest)：招待客
+- [organizer](/word/organizer)：主催者
+- [guest](/word/guest)：招待客
 
 ---
 
 ## 📖 できればこれも
 
-- [venue](/venue)：会場
-- [registration](/registration)：登録、受付
+- [venue](/word/venue)：会場
+- [registration](/word/registration)：登録、受付
 
 <!-- cvid: aid42_bid28 -->

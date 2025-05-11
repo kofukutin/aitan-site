@@ -97,7 +97,7 @@ TOEICでは主にPart 7の科学や教育に関する長文で登場します。
 ## 🤔  laboratory との違いは？
 
 - **lab**：カジュアルな「実験室」「研究室」
-- **[laboratory](/laboratory)**：フォーマルな「実験室」「研究所」
+- **[laboratory](/word/laboratory)**：フォーマルな「実験室」「研究所」
 
 labは日常会話やカジュアルな文脈で使われ、laboratoryは正式な書類やフォーマルな場面で使われます。
 
@@ -105,14 +105,14 @@ labは日常会話やカジュアルな文脈で使われ、laboratoryは正式�
 
 ## 🧩 あわせて覚えたい
 
-- [experiment](/experiment)：実験
-- [research](/research)：研究
+- [experiment](/word/experiment)：実験
+- [research](/word/research)：研究
 
 ---
 
 ## 📖 できればこれも
 
-- [test](/test)：テスト、試験
-- [project](/project)：プロジェクト、計画
+- [test](/word/test)：テスト、試験
+- [project](/word/project)：プロジェクト、計画
 
 <!-- cvid: aid42_bid13 -->

@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や社内メール、プロジェクト紹介
 ## 🤔  proposal との違いは？
 
 - **initiative**：自発的な行動や新しい取り組みそのもの、または主導権を意味する
-- **[proposal](/proposal)**：提案や申し出そのものを指す
+- **[proposal](/word/proposal)**：提案や申し出そのものを指す
 
 initiativeは「自分から進んで始める行動」や「新規プロジェクト」に重点があり、proposalは「案や計画を提案すること」に焦点があります。
 
@@ -105,14 +105,14 @@ initiativeは「自分から進んで始める行動」や「新規プロジェ�
 
 ## 🧩 あわせて覚えたい
 
-- [leadership](/leadership)：リーダーシップ、指導力
-- [plan](/plan)：計画、案
+- [leadership](/word/leadership)：リーダーシップ、指導力
+- [plan](/word/plan)：計画、案
 
 ---
 
 ## 📖 できればこれも
 
-- [strategy](/strategy)：戦略
-- [project](/project)：プロジェクト、計画
+- [strategy](/word/strategy)：戦略
+- [project](/word/project)：プロジェクト、計画
 
 <!-- cvid: aid08_bid16 -->

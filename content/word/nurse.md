@@ -97,7 +97,7 @@ The nurse will check your blood pressure.
 ## 🤔  caregiver との違いは？
 
 - **nurse**：医療資格を持ち、病院やクリニックで専門的なケアを行う人
-- **[caregiver](/caregiver)**：家庭や施設で高齢者や障害者などの世話をする人（資格不要の場合も多い）
+- **[caregiver](/word/caregiver)**：家庭や施設で高齢者や障害者などの世話をする人（資格不要の場合も多い）
 
 nurseは医療現場で専門的な知識・資格が必要ですが、caregiverは家庭や介護施設などで幅広く使われ、資格が不要な場合もあります。
 
@@ -105,14 +105,14 @@ nurseは医療現場で専門的な知識・資格が必要ですが、caregiver
 
 ## 🧩 あわせて覚えたい
 
-- [doctor](/doctor)：医師
-- [patient](/patient)：患者
+- [doctor](/word/doctor)：医師
+- [patient](/word/patient)：患者
 
 ---
 
 ## 📖 できればこれも
 
-- [clinic](/clinic)：クリニック、診療所
-- [hospital](/hospital)：病院
+- [clinic](/word/clinic)：クリニック、診療所
+- [hospital](/word/hospital)：病院
 
 <!-- cvid: aid12_bid26 -->

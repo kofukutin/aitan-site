@@ -97,7 +97,7 @@ TOEICでは、商品やサービスが顧客を「引きつける」場面や、
 ## 🤔  appeal との違いは？
 
 - **attract**：物理的・心理的に「引きつける」こと全般に使う
-- **[appeal](/appeal)**：感情や興味に「訴える」「魅力を感じさせる」ニュアンス
+- **[appeal](/word/appeal)**：感情や興味に「訴える」「魅力を感じさせる」ニュアンス
 
 attractは「引き寄せる」動作や現象全般に使い、appealは「心に訴える」「魅力を感じさせる」時に使います。
 
@@ -105,14 +105,14 @@ attractは「引き寄せる」動作や現象全般に使い、appealは「心�
 
 ## 🧩 あわせて覚えたい
 
-- [repel](/repel)：追い払う、寄せ付けない
-- [draw](/draw)：引く、引き寄せる
+- [repel](/word/repel)：追い払う、寄せ付けない
+- [draw](/word/draw)：引く、引き寄せる
 
 ---
 
 ## 📖 できればこれも
 
-- [invite](/invite)：招待する、誘う
-- [impress](/impress)：感銘を与える、印象づける
+- [invite](/word/invite)：招待する、誘う
+- [impress](/word/impress)：感銘を与える、印象づける
 
 <!-- cvid: aid42_bid12 -->

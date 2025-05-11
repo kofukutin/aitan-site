@@ -97,7 +97,7 @@ simulationはITやビジネスの文脈で、説明文や事例紹介の中で�
 ## 🤔  imitation との違いは？
 
 - **simulation**：現実の状況やシステムを再現・模擬すること
-- **[imitation](/imitation)**：外見や動作などをまねること、模倣
+- **[imitation](/word/imitation)**：外見や動作などをまねること、模倣
 
 simulationは仕組みやプロセス全体を再現するニュアンスがあり、imitationは見た目や行動を単純にまねる場合に使います。
 
@@ -105,14 +105,14 @@ simulationは仕組みやプロセス全体を再現するニュアンスがあ�
 
 ## 🧩 あわせて覚えたい
 
-- [model](/model)：模型、モデル
-- [replica](/replica)：複製、レプリカ
+- [model](/word/model)：模型、モデル
+- [replica](/word/replica)：複製、レプリカ
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/analysis)：分析
-- [experiment](/experiment)：実験
+- [analysis](/word/analysis)：分析
+- [experiment](/word/experiment)：実験
 
 <!-- cvid: aid37_bid09 -->

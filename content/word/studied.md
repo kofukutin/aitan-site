@@ -97,7 +97,7 @@ TOEICでは、形容詞として「意図的な」「計画的な」という意
 ## 🤔  deliberate との違いは？
 
 - **studied**：意図的で、計画的・わざとらしい印象を与える
-- **[deliberate](/deliberate)**：慎重に考えた上での、故意の
+- **[deliberate](/word/deliberate)**：慎重に考えた上での、故意の
 
 studiedは「わざとらしさ」や「演技的」なニュアンスが強く、deliberateは「慎重さ」や「故意」の意味が中心です。
 
@@ -105,14 +105,14 @@ studiedは「わざとらしさ」や「演技的」なニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [intentional](/intentional)：意図的な
-- [spontaneous](/spontaneous)：自然発生的な、無意識の
+- [intentional](/word/intentional)：意図的な
+- [spontaneous](/word/spontaneous)：自然発生的な、無意識の
 
 ---
 
 ## 📖 できればこれも
 
-- [academic](/academic)：学問的な、学業の
-- [methodical](/methodical)：組織的な、几帳面な
+- [academic](/word/academic)：学問的な、学業の
+- [methodical](/word/methodical)：組織的な、几帳面な
 
 <!-- cvid: aid12_bid25 -->

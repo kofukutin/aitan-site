@@ -97,7 +97,7 @@ legitimateはTOEICの長文読解やビジネス文書で、契約や規則、�
 ## 🤔  legal との違いは？
 
 - **legitimate**：法律や規則にかなっていて「正当な」「筋の通った」という意味。理由や説明、権利など幅広く使う。
-- **[legal](/legal)**：法律に関する、または法律で認められているという意味。より「法的」なニュアンスが強い。
+- **[legal](/word/legal)**：法律に関する、または法律で認められているという意味。より「法的」なニュアンスが強い。
 
 legitimateは「正当性」や「本物らしさ」にも使えますが、legalは「法律上の」に限定されます。
 
@@ -105,14 +105,14 @@ legitimateは「正当性」や「本物らしさ」にも使えますが、lega
 
 ## 🧩 あわせて覚えたい
 
-- [valid](/valid)：有効な、妥当な
-- [authentic](/authentic)：本物の、真正の
+- [valid](/word/valid)：有効な、妥当な
+- [authentic](/word/authentic)：本物の、真正の
 
 ---
 
 ## 📖 できればこれも
 
-- [authorize](/authorize)：権限を与える、認可する
-- [regulation](/regulation)：規則、規制
+- [authorize](/word/authorize)：権限を与える、認可する
+- [regulation](/word/regulation)：規則、規制
 
 <!-- cvid: aid19_bid28 -->

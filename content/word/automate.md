@@ -97,7 +97,7 @@ TOEICではITやビジネスの文脈で「自動化する」という意味で�
 ## 🤔  mechanize との違いは？
 
 - **automate**：機械やITを使って作業やプロセス全体を自動化すること
-- **[mechanize](/mechanize)**：機械化する（手作業を機械に置き換えることが中心）
+- **[mechanize](/word/mechanize)**：機械化する（手作業を機械に置き換えることが中心）
 
 automateは「自動で動く仕組みを作る」ニュアンスが強く、mechanizeは「人の手作業を機械に置き換える」ことに重点があります。
 
@@ -105,14 +105,14 @@ automateは「自動で動く仕組みを作る」ニュアンスが強く、mec
 
 ## 🧩 あわせて覚えたい
 
-- [manual](/manual)：手作業の、手動の
-- [streamline](/streamline)：合理化する、効率化する
+- [manual](/word/manual)：手作業の、手動の
+- [streamline](/word/streamline)：合理化する、効率化する
 
 ---
 
 ## 📖 できればこれも
 
-- [operate](/operate)：操作する、運転する
-- [install](/install)：設置する、インストールする
+- [operate](/word/operate)：操作する、運転する
+- [install](/word/install)：設置する、インストールする
 
 <!-- cvid: aid38_bid34 -->

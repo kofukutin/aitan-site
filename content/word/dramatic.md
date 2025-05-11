@@ -97,7 +97,7 @@ TOEICでは、グラフや数値の変化、ビジネスの成果などを強調
 ## 🤔  impressive との違いは？
 
 - **dramatic**：劇的で目立つ、変化や感情が大きいときに使う
-- **[impressive](/impressive)**：人に強い印象を与える、感心させる
+- **[impressive](/word/impressive)**：人に強い印象を与える、感心させる
 
 dramaticは「劇的な変化」など動きや感情の大きさを強調し、impressiveは「印象深い」「感心する」など受け手の感じ方に重点があります。
 
@@ -105,14 +105,14 @@ dramaticは「劇的な変化」など動きや感情の大きさを強調し、
 
 ## 🧩 あわせて覚えたい
 
-- [subtle](/subtle)：微妙な、目立たない
-- [theatrical](/theatrical)：演劇的な、芝居がかった
+- [subtle](/word/subtle)：微妙な、目立たない
+- [theatrical](/word/theatrical)：演劇的な、芝居がかった
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/significant)：重要な、かなりの
-- [remarkable](/remarkable)：注目すべき、著しい
+- [significant](/word/significant)：重要な、かなりの
+- [remarkable](/word/remarkable)：注目すべき、著しい
 
 <!-- cvid: aid02_bid09 -->

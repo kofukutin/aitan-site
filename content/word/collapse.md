@@ -97,7 +97,7 @@ The company collapsed due to financial problems.
 ## 🤔  fall との違いは？
 
 - **collapse**：急激に崩れる、組織や建物が一気に壊れる
-- **[fall](/fall)**：単に落ちる、倒れる（重力で下に動く）
+- **[fall](/word/fall)**：単に落ちる、倒れる（重力で下に動く）
 
 collapseは「突然の崩壊」や「機能停止」のニュアンスが強く、fallは「物理的に落ちる・倒れる」ときに使います。
 
@@ -105,14 +105,14 @@ collapseは「突然の崩壊」や「機能停止」のニュアンスが強く
 
 ## 🧩 あわせて覚えたい
 
-- [break_down](/break_down)：故障する、分解する
-- [crash](/crash)：激しく壊れる、衝突する
+- [break_down](/word/break_down)：故障する、分解する
+- [crash](/word/crash)：激しく壊れる、衝突する
 
 ---
 
 ## 📖 できればこれも
 
-- [fail](/fail)：失敗する、うまくいかない
-- [decline](/decline)：減少する、衰える
+- [fail](/word/fail)：失敗する、うまくいかない
+- [decline](/word/decline)：減少する、衰える
 
 <!-- cvid: aid36_bid47 -->

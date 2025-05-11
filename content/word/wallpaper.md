@@ -97,7 +97,7 @@ ITやオフィス環境、インテリア関連の長文やメール文で登場
 ## 🤔  background との違いは？
 
 - **wallpaper**：壁や画面の「装飾用の壁紙」や「背景画像」を指す
-- **[background](/background)**：一般的な「背景」全般を指し、画像以外にも使える
+- **[background](/word/background)**：一般的な「背景」全般を指し、画像以外にも使える
 
 wallpaperは主に装飾やデザイン目的の壁紙や画像に限定されますが、backgroundは背景全般を幅広く指します。
 
@@ -105,13 +105,13 @@ wallpaperは主に装飾やデザイン目的の壁紙や画像に限定され�
 
 ## 🧩 あわせて覚えたい
 
-- [screen](/screen)：画面、スクリーン
-- [pattern](/pattern)：模様、パターン
+- [screen](/word/screen)：画面、スクリーン
+- [pattern](/word/pattern)：模様、パターン
 
 ---
 
 ## 📖 できればこれも
 
-- [desktop](/desktop)：デスクトップ、パソコンの画面
-- [poster](/poster)：ポスター、掲示用の紙
+- [desktop](/word/desktop)：デスクトップ、パソコンの画面
+- [poster](/word/poster)：ポスター、掲示用の紙
 <!-- cvid: aid12_bid19 -->

@@ -98,7 +98,7 @@ TOEICではITや科学技術、製品説明の文脈で登場することが多�
 ## 🤔  copy との違いは？
 
 - **clone**：元と全く同じ遺伝子や機能を持つもの、またはその作成。
-- **[copy](/copy)**：元と似ているが、必ずしも完全一致ではない複製や写し。
+- **[copy](/word/copy)**：元と似ているが、必ずしも完全一致ではない複製や写し。
 
 cloneは「完全な同一性」に重点があり、copyは「似ているが違いがある場合」も含みます。
 
@@ -106,14 +106,14 @@ cloneは「完全な同一性」に重点があり、copyは「似ているが�
 
 ## 🧩 あわせて覚えたい
 
-- [replica](/replica)：精巧な複製品
-- [duplicate](/duplicate)：まったく同じもの、複製
+- [replica](/word/replica)：精巧な複製品
+- [duplicate](/word/duplicate)：まったく同じもの、複製
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/device)：装置、デバイス
-- [sample](/sample)：見本、サンプル
+- [device](/word/device)：装置、デバイス
+- [sample](/word/sample)：見本、サンプル
 
 <!-- cvid: aid24_bid11 -->

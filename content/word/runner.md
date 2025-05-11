@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「走っている人」や「競技者
 ## 🤔  athlete との違いは？
 
 - **runner**：走ることに特化した人、特に競走やジョギングをする人
-- **[athlete](/athlete)**：スポーツ全般の選手や運動選手
+- **[athlete](/word/athlete)**：スポーツ全般の選手や運動選手
 
 「runner」は走ることに限定されますが、「athlete」はサッカーや水泳など他のスポーツ選手も含みます。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写で「走っている人」や「競技者
 
 ## 🧩 あわせて覚えたい
 
-- [sprinter](/sprinter)：短距離走者
-- [jogger](/jogger)：ジョギングをする人
+- [sprinter](/word/sprinter)：短距離走者
+- [jogger](/word/jogger)：ジョギングをする人
 
 ---
 
 ## 📖 できればこれも
 
-- [race](/race)：競走、レース
-- [finish](/finish)：ゴールする、終える
+- [race](/word/race)：競走、レース
+- [finish](/word/finish)：ゴールする、終える
 
 <!-- cvid: aid15_bid21 -->

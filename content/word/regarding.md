@@ -93,7 +93,7 @@ TOEICでは主にPart 7のメールや案内文など、フォーマルな文章
 ## 🤔  about との違いは？
 
 - **regarding**：フォーマルな場面で「～に関して」と述べるときに使う
-- **[about](/about)**：カジュアル・フォーマル問わず幅広く「～について」と使える
+- **[about](/word/about)**：カジュアル・フォーマル問わず幅広く「～について」と使える
 
 regardingはビジネス文書や公式なメールでよく使われ、aboutは日常会話やカジュアルな場面でも使える点が異なります。
 
@@ -101,14 +101,14 @@ regardingはビジネス文書や公式なメールでよく使われ、aboutは
 
 ## 🧩 あわせて覚えたい
 
-- [concerning](/concerning)：～に関して（regardingとほぼ同じ意味だがやや堅い）
-- [with respect to](/with_respect_to)：～に関して（よりフォーマルな表現）
+- [concerning](/word/concerning)：～に関して（regardingとほぼ同じ意味だがやや堅い）
+- [with respect to](/word/with_respect_to)：～に関して（よりフォーマルな表現）
 
 ---
 
 ## 📖 できればこれも
 
-- [according to](/according_to)：～によれば
-- [despite](/despite)：～にもかかわらず
+- [according to](/word/according_to)：～によれば
+- [despite](/word/despite)：～にもかかわらず
 
 <!-- cvid: aid34_bid23 -->

@@ -97,7 +97,7 @@ TOEICでは、人物紹介や推薦文、ビジネス文書などで「respected
 ## 🤔  respectable との違いは？
 
 - **respected**：多くの人から尊敬されている、評価されている
-- **[respectable](/respectable)**：立派な、ちゃんとした、世間的に認められる
+- **[respectable](/word/respectable)**：立派な、ちゃんとした、世間的に認められる
 
 「respected」は他者からの評価や尊敬を強調し、「respectable」は「立派さ」や「社会的に認められる基準」を満たしていることを表します。
 
@@ -105,14 +105,14 @@ TOEICでは、人物紹介や推薦文、ビジネス文書などで「respected
 
 ## 🧩 あわせて覚えたい
 
-- [admired](/admired)：称賛されている
-- [honored](/honored)：名誉ある、光栄に思う
+- [admired](/word/admired)：称賛されている
+- [honored](/word/honored)：名誉ある、光栄に思う
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/reliable)：信頼できる
-- [qualified](/qualified)：資格のある、適任の
+- [reliable](/word/reliable)：信頼できる
+- [qualified](/word/qualified)：資格のある、適任の
 
 <!-- cvid: aid45_bid00 -->

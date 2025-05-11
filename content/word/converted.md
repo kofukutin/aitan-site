@@ -97,7 +97,7 @@ TOEICでは、書類やデータの「変換」や、施設の「用途変更」
 ## 🤔  transformed との違いは？
 
 - **converted**：用途や機能、信念などが「別のものに変えられた」ことを強調
-- **[transformed](/transformed)**：姿や性質が「劇的に変化した」ことを強調
+- **[transformed](/word/transformed)**：姿や性質が「劇的に変化した」ことを強調
 
 convertedは「目的や使い道が変わった」ニュアンス、transformedは「見た目や本質が大きく変わった」ニュアンスで使い分けます。
 
@@ -105,14 +105,14 @@ convertedは「目的や使い道が変わった」ニュアンス、transformed
 
 ## 🧩 あわせて覚えたい
 
-- [adapted](/adapted)：適応した、改作された
-- [revised](/revised)：修正された、改訂された
+- [adapted](/word/adapted)：適応した、改作された
+- [revised](/word/revised)：修正された、改訂された
 
 ---
 
 ## 📖 できればこれも
 
-- [updated](/updated)：更新された
-- [modified](/modified)：修正された
+- [updated](/word/updated)：更新された
+- [modified](/word/modified)：修正された
 
 <!-- cvid: aid22_bid06 -->

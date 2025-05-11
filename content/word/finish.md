@@ -97,7 +97,7 @@ TOEICでは「finish + 名詞」や「finish doing」の形で、動作の完了
 ## 🤔  complete との違いは？
 
 - **finish**：日常的な「終える」「やり終える」という意味で、カジュアルにも使える。
-- **[complete](/complete)**：フォーマルで「完全に仕上げる」「全て終わらせる」というニュアンスが強い。
+- **[complete](/word/complete)**：フォーマルで「完全に仕上げる」「全て終わらせる」というニュアンスが強い。
 
 finishは「作業を終える」など幅広く使えますが、completeは「全てを完璧に終わらせる」場面で使われやすいです。
 
@@ -105,14 +105,14 @@ finishは「作業を終える」など幅広く使えますが、completeは「
 
 ## 🧩 あわせて覚えたい
 
-- [end](/end)：終わる、終わり
-- [accomplish](/accomplish)：成し遂げる、達成する
+- [end](/word/end)：終わる、終わり
+- [accomplish](/word/accomplish)：成し遂げる、達成する
 
 ---
 
 ## 📖 できればこれも
 
-- [start](/start)：始める
-- [prepare](/prepare)：準備する
+- [start](/word/start)：始める
+- [prepare](/word/prepare)：準備する
 
 <!-- cvid: aid07_bid05 -->

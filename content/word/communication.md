@@ -97,7 +97,7 @@ TOEICでは会議やビジネスシーンの会話文で頻出し、情報伝達
 ## 🤔  conversation との違いは？
 
 - **communication**：情報や気持ちの伝達全般を指し、話す・書く・ジェスチャーなど幅広い手段を含む
-- **[conversation](/conversation)**：主に口頭での会話や対話を指す
+- **[conversation](/word/conversation)**：主に口頭での会話や対話を指す
 
 communicationは伝達手段全体を指し、conversationは「会話」という具体的なやりとりに限定されます。
 
@@ -105,14 +105,14 @@ communicationは伝達手段全体を指し、conversationは「会話」とい�
 
 ## 🧩 あわせて覚えたい
 
-- [discussion](/discussion)：討論、話し合い
-- [information](/information)：情報
+- [discussion](/word/discussion)：討論、話し合い
+- [information](/word/information)：情報
 
 ---
 
 ## 📖 できればこれも
 
-- [message](/message)：メッセージ、伝言
-- [presentation](/presentation)：発表、プレゼン
+- [message](/word/message)：メッセージ、伝言
+- [presentation](/word/presentation)：発表、プレゼン
 
 <!-- cvid: aid14_bid14 -->

@@ -97,7 +97,7 @@ The conference room was stuffed with chairs for the event.
 ## 🤔  filled との違いは？
 
 - **stuffed**：中身がぎっしり詰まっている、または満腹である（カジュアル）
-- **[filled](/filled)**：何かで満たされている（ややフォーマル・幅広い場面）
+- **[filled](/word/filled)**：何かで満たされている（ややフォーマル・幅広い場面）
 
 「stuffed」は特に料理や満腹感、ぬいぐるみなど「中に詰め込む」ニュアンスが強く、filledは「満たす」一般的な意味で使われます。
 
@@ -105,14 +105,14 @@ The conference room was stuffed with chairs for the event.
 
 ## 🧩 あわせて覚えたい
 
-- [full](/full)：いっぱいの、満ちた
-- [packed](/packed)：ぎっしり詰まった
+- [full](/word/full)：いっぱいの、満ちた
+- [packed](/word/packed)：ぎっしり詰まった
 
 ---
 
 ## 📖 できればこれも
 
-- [empty](/empty)：空の
-- [crowded](/crowded)：混雑した
+- [empty](/word/empty)：空の
+- [crowded](/word/crowded)：混雑した
 
 <!-- cvid: aid34_bid09 -->

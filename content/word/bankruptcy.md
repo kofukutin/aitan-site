@@ -97,7 +97,7 @@ TOEICでは主にビジネス記事や通知文、法的文書の中で登場し
 ## 🤔  insolvency との違いは？
 
 - **bankruptcy**：法的な破産手続きや状態を指し、公式な場面で使われる。
-- **[insolvency](/insolvency)**：支払い不能状態全般を指し、必ずしも法的手続きが伴うとは限らない。
+- **[insolvency](/word/insolvency)**：支払い不能状態全般を指し、必ずしも法的手続きが伴うとは限らない。
 
 bankruptcyは法的な破産宣告や手続きに重点があり、insolvencyは単に資金不足で支払い不能な状態を広く指します。
 
@@ -105,14 +105,14 @@ bankruptcyは法的な破産宣告や手続きに重点があり、insolvencyは
 
 ## 🧩 あわせて覚えたい
 
-- [liquidation](/liquidation)：清算、資産売却
-- [solvency](/solvency)：支払い能力、支払可能性
+- [liquidation](/word/liquidation)：清算、資産売却
+- [solvency](/word/solvency)：支払い能力、支払可能性
 
 ---
 
 ## 📖 できればこれも
 
-- [asset](/asset)：資産
-- [debt](/debt)：負債
+- [asset](/word/asset)：資産
+- [debt](/word/debt)：負債
 
 <!-- cvid: aid20_bid33 -->

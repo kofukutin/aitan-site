@@ -104,7 +104,7 @@ TOEICでは、教育機関や研修、専門学校に関する説明文や案内
 ## 🤔  institute との違いは？
 
 - **academy**：特定分野の教育や研究を行う機関・団体。芸術や科学など専門性が強い。
-- **[institute](/institute)**：研究や教育、技術開発などを行う組織。より広い分野や技術系にも使われる。
+- **[institute](/word/institute)**：研究や教育、技術開発などを行う組織。より広い分野や技術系にも使われる。
 
 academyは芸術や学問など専門的な教育機関に多く使われ、instituteは研究所や技術系の組織にも幅広く使われます。
 
@@ -112,14 +112,14 @@ academyは芸術や学問など専門的な教育機関に多く使われ、inst
 
 ## 🧩 あわせて覚えたい
 
-- [school](/school)：学校（一般的な教育機関）
-- [university](/university)：大学（高等教育機関）
+- [school](/word/school)：学校（一般的な教育機関）
+- [university](/word/university)：大学（高等教育機関）
 
 ---
 
 ## 📖 できればこれも
 
-- [faculty](/faculty)：学部、教授陣
-- [curriculum](/curriculum)：カリキュラム、教育課程
+- [faculty](/word/faculty)：学部、教授陣
+- [curriculum](/word/curriculum)：カリキュラム、教育課程
 
 <!-- cvid: aid34_bid10 -->

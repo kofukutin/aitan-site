@@ -97,7 +97,7 @@ TOEICでは「目標を追求する」「計画を進める」などの意味で
 ## 🤔  seek との違いは？
 
 - **pursue**：目標や夢などを「追い求めて努力し続ける」ニュアンスが強い
-- **[seek](/seek)**：何かを「探し求める」「得ようとする」一般的な表現
+- **[seek](/word/seek)**：何かを「探し求める」「得ようとする」一般的な表現
 
 pursueは「継続的な努力」や「計画的な追求」を表し、seekは「探す・求める」行為自体を広く指します。
 
@@ -105,14 +105,14 @@ pursueは「継続的な努力」や「計画的な追求」を表し、seekは�
 
 ## 🧩 あわせて覚えたい
 
-- [chase](/chase)：追いかける（物理的・比喩的に使う）
-- [abandon](/abandon)：放棄する、諦める
+- [chase](/word/chase)：追いかける（物理的・比喩的に使う）
+- [abandon](/word/abandon)：放棄する、諦める
 
 ---
 
 ## 📖 できればこれも
 
-- [achieve](/achieve)：達成する
-- [attempt](/attempt)：試みる、挑戦する
+- [achieve](/word/achieve)：達成する
+- [attempt](/word/attempt)：試みる、挑戦する
 
 <!-- cvid: aid25_bid14 -->

@@ -96,7 +96,7 @@ TOEICでは、商品説明や素材に関する文脈で「leather」が登場�
 ## 🤔  skin との違いは？
 
 - **leather**：動物の皮をなめして加工した素材。主に製品や衣類に使われる。
-- **[skin](/skin)**：動物や人の「皮膚」そのもの。加工前の状態や生物学的な意味で使う。
+- **[skin](/word/skin)**：動物や人の「皮膚」そのもの。加工前の状態や生物学的な意味で使う。
 
 leatherは加工された素材、skinは生き物の皮膚そのものを指し、用途や文脈が異なります。
 
@@ -104,14 +104,14 @@ leatherは加工された素材、skinは生き物の皮膚そのものを指し
 
 ## 🧩 あわせて覚えたい
 
-- [fabric](/fabric)：布地、織物
-- [fur](/fur)：（動物の）毛皮
+- [fabric](/word/fabric)：布地、織物
+- [fur](/word/fur)：（動物の）毛皮
 
 ---
 
 ## 📖 できればこれも
 
-- [cotton](/cotton)：綿、コットン
-- [material](/material)：材料、素材
+- [cotton](/word/cotton)：綿、コットン
+- [material](/word/material)：材料、素材
 
 <!-- cvid: aid35_bid26 -->

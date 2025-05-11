@@ -97,7 +97,7 @@ TOEICでは説明文や広告、案内文などで家電製品やオフィス機
 ## 🤔  device との違いは？
 
 - **appliance**：主に家庭やオフィスで使う電気・ガス製品や大型の器具を指す
-- **[device](/device)**：用途や大きさを問わず、道具や装置全般を広く指す
+- **[device](/word/device)**：用途や大きさを問わず、道具や装置全般を広く指す
 
 applianceは「家電」など実用的な大型機器に限定されることが多いですが、deviceは小型の電子機器や道具など幅広く使われます。
 
@@ -105,14 +105,14 @@ applianceは「家電」など実用的な大型機器に限定されること�
 
 ## 🧩 あわせて覚えたい
 
-- [equipment](/equipment)：設備、備品
-- [utensil](/utensil)：（特に台所の）用具、器具
+- [equipment](/word/equipment)：設備、備品
+- [utensil](/word/utensil)：（特に台所の）用具、器具
 
 ---
 
 ## 📖 できればこれも
 
-- [instrument](/instrument)：器具、計器
-- [gadget](/gadget)：小型機器、便利グッズ
+- [instrument](/word/instrument)：器具、計器
+- [gadget](/word/gadget)：小型機器、便利グッズ
 
 <!-- cvid: aid00_bid23 -->

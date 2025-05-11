@@ -98,7 +98,7 @@ TOEICでは、法律や社会問題、教育関連の記事や説明文で「juv
 ## 🤔  adolescent との違いは？
 
 - **juvenile**：法律やフォーマルな場面で使われる「未成年者」「少年少女」。
-- **[adolescent](/adolescent)**：思春期の若者を指し、医学・心理学や日常会話でも使われる。
+- **[adolescent](/word/adolescent)**：思春期の若者を指し、医学・心理学や日常会話でも使われる。
 
 「juvenile」は法律や制度、犯罪などの文脈で使われやすく、「adolescent」は成長や心理的な側面を強調する時に使われます。
 
@@ -106,15 +106,15 @@ TOEICでは、法律や社会問題、教育関連の記事や説明文で「juv
 
 ## 🧩 あわせて覚えたい
 
-- [minor](/minor)：未成年者
-- [youth](/youth)：若者、青年
+- [minor](/word/minor)：未成年者
+- [youth](/word/youth)：若者、青年
 
 ---
 
 ## 📖 できればこれも
 
-- [mature](/mature)：成熟した、大人びた
-- [child](/child)：子ども
+- [mature](/word/mature)：成熟した、大人びた
+- [child](/word/child)：子ども
 
 
 <!-- cvid: aid33_bid33 -->

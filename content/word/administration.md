@@ -97,7 +97,7 @@ TOEICでは会社や組織の説明、政府関連の話題などで頻出しま
 ## 🤔  management との違いは？
 
 - **administration**：組織や制度の運営・管理、または行政機関そのものを指すフォーマルな表現
-- **[management](/management)**：経営や人・業務の管理を幅広く指し、ビジネス現場でよく使われる
+- **[management](/word/management)**：経営や人・業務の管理を幅広く指し、ビジネス現場でよく使われる
 
 administrationは制度や組織全体の運営・行政に重点があり、managementは人や業務の具体的な管理・経営に重点があります。
 
@@ -105,14 +105,14 @@ administrationは制度や組織全体の運営・行政に重点があり、man
 
 ## 🧩 あわせて覚えたい
 
-- [supervision](/supervision)：監督、指導
-- [operation](/operation)：運営、作業
+- [supervision](/word/supervision)：監督、指導
+- [operation](/word/operation)：運営、作業
 
 ---
 
 ## 📖 できればこれも
 
-- [executive](/executive)：重役、経営幹部
-- [policy](/policy)：方針、政策
+- [executive](/word/executive)：重役、経営幹部
+- [policy](/word/policy)：方針、政策
 
 <!-- cvid: aid48_bid37 -->

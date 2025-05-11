@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や製品説明、広告などで「洗練さ
 ## 🤔  complex との違いは？
 
 - **sophisticated**：洗練されていて高度、技術や知識が進んでいるニュアンス
-- **[complex](/complex)**：複雑で入り組んでいる、単純でないという意味
+- **[complex](/word/complex)**：複雑で入り組んでいる、単純でないという意味
 
 「sophisticated」は「高度で洗練された」良い印象を与えるのに対し、「complex」は単に「複雑で難しい」ことを表します。
 
@@ -105,14 +105,14 @@ TOEICでは主にビジネス文書や製品説明、広告などで「洗練さ
 
 ## 🧩 あわせて覚えたい
 
-- [advanced](/advanced)：先進的な、進んだ
-- [refined](/refined)：上品な、洗練された
+- [advanced](/word/advanced)：先進的な、進んだ
+- [refined](/word/refined)：上品な、洗練された
 
 ---
 
 ## 📖 できればこれも
 
-- [elaborate](/elaborate)：手の込んだ、精巧な
-- [innovative](/innovative)：革新的な
+- [elaborate](/word/elaborate)：手の込んだ、精巧な
+- [innovative](/word/innovative)：革新的な
 
 <!-- cvid: aid04_bid32 -->

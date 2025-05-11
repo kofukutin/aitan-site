@@ -97,7 +97,7 @@ TOEICでは「傑出した」「未払いの」など複数の意味で出題さ
 ## 🤔  excellent との違いは？
 
 - **outstanding**：他と比べて特に目立って優れている、際立っている
-- **[excellent](/excellent)**：非常に優れている、質が高い
+- **[excellent](/word/excellent)**：非常に優れている、質が高い
 
 outstandingは「他と比べて際立っている」ニュアンスが強く、excellentは「質が高い」ことに重点があります。
 
@@ -105,14 +105,14 @@ outstandingは「他と比べて際立っている」ニュアンスが強く、
 
 ## 🧩 あわせて覚えたい
 
-- [remarkable](/remarkable)：注目すべき、著しい
-- [pending](/pending)：未決の、保留中の
+- [remarkable](/word/remarkable)：注目すべき、著しい
+- [pending](/word/pending)：未決の、保留中の
 
 ---
 
 ## 📖 できればこれも
 
-- [impressive](/impressive)：印象的な
-- [significant](/significant)：重要な、意味のある
+- [impressive](/word/impressive)：印象的な
+- [significant](/word/significant)：重要な、意味のある
 
 <!-- cvid: aid45_bid09 -->

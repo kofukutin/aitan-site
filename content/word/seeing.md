@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「会う」「見る」という進行形や名
 ## 🤔  looking との違いは？
 
 - **seeing**：意識せず自然に「見えている」「会っている」状態や、予定として「会うこと」を表す。
-- **[looking](/looking)**：意識的に「見る」「見ようとする」動作を表す。
+- **[looking](/word/looking)**：意識的に「見る」「見ようとする」動作を表す。
 
 「seeing」は自然に目に入る・会う場合に使い、「looking」は意図的に視線を向ける場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「会う」「見る」という進行形や名
 
 ## 🧩 あわせて覚えたい
 
-- [watching](/watching)：（動いているものを）じっと見る
-- [meeting](/meeting)：会うこと、会議
+- [watching](/word/watching)：（動いているものを）じっと見る
+- [meeting](/word/meeting)：会うこと、会議
 
 ---
 
 ## 📖 できればこれも
 
-- [hearing](/hearing)：聞くこと、聴覚
-- [talking](/talking)：話すこと
+- [hearing](/word/hearing)：聞くこと、聴覚
+- [talking](/word/talking)：話すこと
 
 <!-- cvid: aid07_bid37 -->

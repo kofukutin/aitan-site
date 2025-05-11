@@ -99,7 +99,7 @@ The meeting was shorter than expected.
 ## 🤔  less との違いは？
 
 - **shorter**：長さや時間、身長などが「より短い」「より低い」
-- **[less](/less)**：量や程度が「より少ない」「より低い」
+- **[less](/word/less)**：量や程度が「より少ない」「より低い」
 
 「shorter」は物理的な長さや時間、身長など具体的な比較に使い、「less」は抽象的な量や程度の比較に使います。
 
@@ -107,14 +107,14 @@ The meeting was shorter than expected.
 
 ## 🧩 あわせて覚えたい
 
-- [tall](/tall)：背が高い
-- [brief](/brief)：簡潔な、短時間の
+- [tall](/word/tall)：背が高い
+- [brief](/word/brief)：簡潔な、短時間の
 
 ---
 
 ## 📖 できればこれも
 
-- [longer](/longer)：より長い
-- [smaller](/smaller)：より小さい
+- [longer](/word/longer)：より長い
+- [smaller](/word/smaller)：より小さい
 
 <!-- cvid: aid15_bid27 -->

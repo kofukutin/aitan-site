@@ -97,7 +97,7 @@ TOEICでは、誰のものか・どこに属するかを尋ねる会話や、物
 ## 🤔  fit との違いは？
 
 - **belong**：自然に属している、所有や所属の関係を表す
-- **[fit](/fit)**：サイズや条件などに「合う」「適合する」
+- **[fit](/word/fit)**：サイズや条件などに「合う」「適合する」
 
 belongは「所属・所有」の関係、fitは「形や条件が合う」ことを表し、使い分けが必要です。
 
@@ -105,14 +105,14 @@ belongは「所属・所有」の関係、fitは「形や条件が合う」こ�
 
 ## 🧩 あわせて覚えたい
 
-- [own](/own)：所有する
-- [include](/include)：含む
+- [own](/word/own)：所有する
+- [include](/word/include)：含む
 
 ---
 
 ## 📖 できればこれも
 
-- [contain](/contain)：含む、入っている
-- [possess](/possess)：所有する
+- [contain](/word/contain)：含む、入っている
+- [possess](/word/possess)：所有する
 
 <!-- cvid: aid40_bid43 -->

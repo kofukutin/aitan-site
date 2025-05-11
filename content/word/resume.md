@@ -97,7 +97,7 @@ TOEICでは会議や業務の中断・再開に関する会話やアナウンス
 ## 🤔  continue との違いは？
 
 - **resume**：一度中断したものを再び始める
-- **[continue](/continue)**：中断せずにそのまま続ける
+- **[continue](/word/continue)**：中断せずにそのまま続ける
 
 resumeは「一時的な中断の後に再開する」ニュアンスがあり、continueは「途切れずに続ける」ことを表します。
 
@@ -105,14 +105,14 @@ resumeは「一時的な中断の後に再開する」ニュアンスがあり�
 
 ## 🧩 あわせて覚えたい
 
-- [restart](/restart)：再起動する、再び始める
-- [interrupt](/interrupt)：中断する、妨げる
+- [restart](/word/restart)：再起動する、再び始める
+- [interrupt](/word/interrupt)：中断する、妨げる
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/submit)：提出する
-- [attend](/attend)：出席する
+- [submit](/word/submit)：提出する
+- [attend](/word/attend)：出席する
 
 <!-- cvid: aid35_bid26 -->

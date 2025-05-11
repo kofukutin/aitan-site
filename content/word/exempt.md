@@ -97,7 +97,7 @@ TOEICでは、規則や条件、免除事項を説明する文脈でよく登場
 ## 🤔  exclude との違いは？
 
 - **exempt**：義務や規則などから「免除された」「適用外である」
-- **[exclude](/exclude)**：何かを「除外する」「含めない」
+- **[exclude](/word/exclude)**：何かを「除外する」「含めない」
 
 exemptは「本来含まれるべきものが特別に免除される」ニュアンス、excludeは「最初から範囲に入れない」ニュアンスです。
 
@@ -105,14 +105,14 @@ exemptは「本来含まれるべきものが特別に免除される」ニュ�
 
 ## 🧩 あわせて覚えたい
 
-- [liable](/liable)：責任がある、義務がある
-- [waive](/waive)：（権利・義務などを）放棄する
+- [liable](/word/liable)：責任がある、義務がある
+- [waive](/word/waive)：（権利・義務などを）放棄する
 
 ---
 
 ## 📖 できればこれも
 
-- [mandatory](/mandatory)：義務的な、強制の
-- [eligible](/eligible)：資格がある、適格な
+- [mandatory](/word/mandatory)：義務的な、強制の
+- [eligible](/word/eligible)：資格がある、適格な
 
 <!-- cvid: aid00_bid10 -->

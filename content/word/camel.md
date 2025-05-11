@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、動物や観光地のシーン
 ## 🤔  dromedary との違いは？
 
 - **camel**：ラクダ全般を指す一般的な言葉
-- **[dromedary](/dromedary)**：1つこぶのアラビアラクダを指す専門的な言葉
+- **[dromedary](/word/dromedary)**：1つこぶのアラビアラクダを指す専門的な言葉
 
 camelはラクダ全体を指しますが、dromedaryは特に1つこぶの種類を限定して表します。
 
@@ -105,14 +105,14 @@ camelはラクダ全体を指しますが、dromedaryは特に1つこぶの種�
 
 ## 🧩 あわせて覚えたい
 
-- [horse](/horse)：馬
-- [desert](/desert)：砂漠
+- [horse](/word/horse)：馬
+- [desert](/word/desert)：砂漠
 
 ---
 
 ## 📖 できればこれも
 
-- [donkey](/donkey)：ロバ
-- [elephant](/elephant)：ゾウ
+- [donkey](/word/donkey)：ロバ
+- [elephant](/word/elephant)：ゾウ
 
 <!-- cvid: aid12_bid27 -->

@@ -97,7 +97,7 @@ TOEICでは会話や説明文で頻出し、部署や役職の説明、指示や
 ## 🤔  supervisor との違いは？
 
 - **manager**：組織やチーム全体の運営・管理を担う責任者
-- **[supervisor](/supervisor)**：現場や作業の監督者、直接的な指導・監督を行う人
+- **[supervisor](/word/supervisor)**：現場や作業の監督者、直接的な指導・監督を行う人
 
 managerはより広い範囲の責任や意思決定権を持ち、supervisorは現場レベルでの監督や指導に特化しています。
 
@@ -105,14 +105,14 @@ managerはより広い範囲の責任や意思決定権を持ち、supervisorは
 
 ## 🧩 あわせて覚えたい
 
-- [director](/director)：取締役、部長
-- [employee](/employee)：従業員
+- [director](/word/director)：取締役、部長
+- [employee](/word/employee)：従業員
 
 ---
 
 ## 📖 できればこれも
 
-- [leader](/leader)：リーダー、指導者
-- [staff](/staff)：スタッフ、職員
+- [leader](/word/leader)：リーダー、指導者
+- [staff](/word/staff)：スタッフ、職員
 
 <!-- cvid: aid05_bid16 -->

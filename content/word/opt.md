@@ -97,7 +97,7 @@ TOEICではPart 5の語彙問題や、選択肢を示す文脈で出題される
 ## 🤔  choose との違いは？
 
 - **opt**：慎重に選択肢から選ぶ、ややフォーマル
-- **[choose](/choose)**：一般的に「選ぶ」、カジュアルでもフォーマルでも使える
+- **[choose](/word/choose)**：一般的に「選ぶ」、カジュアルでもフォーマルでも使える
 
 optは「複数の選択肢から意志をもって選ぶ」ニュアンスがあり、chooseよりもフォーマルな場面で使われます。
 
@@ -105,14 +105,14 @@ optは「複数の選択肢から意志をもって選ぶ」ニュアンスが�
 
 ## 🧩 あわせて覚えたい
 
-- [select](/select)：（選んで）選択する
-- [decline](/decline)：（申し出などを）断る
+- [select](/word/select)：（選んで）選択する
+- [decline](/word/decline)：（申し出などを）断る
 
 ---
 
 ## 📖 できればこれも
 
-- [prefer](/prefer)：より好む
-- [decide](/decide)：決める
+- [prefer](/word/prefer)：より好む
+- [decide](/word/decide)：決める
 
 <!-- cvid: aid46_bid28 -->

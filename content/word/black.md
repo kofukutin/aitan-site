@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、服や物の色を説明する際に
 ## 🤔  dark との違いは？
 
 - **black**：はっきりとした「黒色」を指す。
-- **[dark](/dark)**：黒に限らず「暗い色」「濃い色」を広く指す。
+- **[dark](/word/dark)**：黒に限らず「暗い色」「濃い色」を広く指す。
 
 blackは明確な黒色、darkは黒以外の暗い色にも使える点が異なります。
 
@@ -105,14 +105,14 @@ blackは明確な黒色、darkは黒以外の暗い色にも使える点が異�
 
 ## 🧩 あわせて覚えたい
 
-- [white](/white)：白い
-- [red](/red)：赤い
+- [white](/word/white)：白い
+- [red](/word/red)：赤い
 
 ---
 
 ## 📖 できればこれも
 
-- [blue](/blue)：青い
-- [gray](/gray)：灰色の
+- [blue](/word/blue)：青い
+- [gray](/word/gray)：灰色の
 
 <!-- cvid: aid10_bid12 -->

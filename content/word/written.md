@@ -97,7 +97,7 @@ TOEICでは「written notice（書面通知）」や「written consent（書面�
 ## 🤔  documented との違いは？
 
 - **written**：書かれた、書面の（単に「文字で表現された」ことを強調）
-- **[documented](/documented)**：文書化された、記録された（証拠や記録として正式に残されたニュアンス）
+- **[documented](/word/documented)**：文書化された、記録された（証拠や記録として正式に残されたニュアンス）
 
 writtenは「書かれている」こと自体を指し、documentedは「公式な記録として残されている」点が強調されます。
 
@@ -105,14 +105,14 @@ writtenは「書かれている」こと自体を指し、documentedは「公式
 
 ## 🧩 あわせて覚えたい
 
-- [oral](/oral)：口頭の
-- [typed](/typed)：タイプされた
+- [oral](/word/oral)：口頭の
+- [typed](/word/typed)：タイプされた
 
 ---
 
 ## 📖 できればこれも
 
-- [formal](/formal)：正式な
-- [recorded](/recorded)：記録された
+- [formal](/word/formal)：正式な
+- [recorded](/word/recorded)：記録された
 
 <!-- cvid: aid46_bid12 -->

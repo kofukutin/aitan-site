@@ -97,7 +97,7 @@ TOEICでは、ビジネスの流れや工程、経済活動の「サイクル」
 ## 🤔  period との違いは？
 
 - **cycle**：繰り返し起こる一連の流れや循環を強調
-- **[period](/period)**：特定の「期間」や「時期」を指す
+- **[period](/word/period)**：特定の「期間」や「時期」を指す
 
 cycleは「繰り返し」や「循環」のニュアンスがあり、periodは単なる「区切られた時間」を表します。
 
@@ -105,14 +105,14 @@ cycleは「繰り返し」や「循環」のニュアンスがあり、periodは
 
 ## 🧩 あわせて覚えたい
 
-- [sequence](/sequence)：順序、連続
-- [phase](/phase)：段階、局面
+- [sequence](/word/sequence)：順序、連続
+- [phase](/word/phase)：段階、局面
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/process)：過程、プロセス
-- [pattern](/pattern)：パターン、型
+- [process](/word/process)：過程、プロセス
+- [pattern](/word/pattern)：パターン、型
 
 <!-- cvid: aid47_bid21 -->

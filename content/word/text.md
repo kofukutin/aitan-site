@@ -97,7 +97,7 @@ TOEICではPart 7の長文問題やメール文、記事の中で「本文」「
 ## 🤔  document との違いは？
 
 - **text**：文章や本文そのもの、内容に焦点
-- **[document](/document)**：文書や書類という「ファイル」や「物」としての側面
+- **[document](/word/document)**：文書や書類という「ファイル」や「物」としての側面
 
 textは「中身の文章」に注目し、documentは「書類・ファイル」としての形や形式に注目します。
 
@@ -105,14 +105,14 @@ textは「中身の文章」に注目し、documentは「書類・ファイル�
 
 ## 🧩 あわせて覚えたい
 
-- [message](/message)：メッセージ、伝言
-- [paragraph](/paragraph)：段落
+- [message](/word/message)：メッセージ、伝言
+- [paragraph](/word/paragraph)：段落
 
 ---
 
 ## 📖 できればこれも
 
-- [note](/note)：メモ、短い記録
-- [letter](/letter)：手紙
+- [note](/word/note)：メモ、短い記録
+- [letter](/word/letter)：手紙
 
 <!-- cvid: aid42_bid10 -->

@@ -97,7 +97,7 @@ TOEICでは主に学術的な文章やビジネス文書の中で、引用や参
 ## 🤔  quotation との違いは？
 
 - **citation**：論文やレポートなどで出典を明示して引用すること、またはその記載。
-- **[quotation](/quotation)**：他人の言葉や文章をそのまま抜き出して使うこと、またはその部分。
+- **[quotation](/word/quotation)**：他人の言葉や文章をそのまま抜き出して使うこと、またはその部分。
 
 citationは出典や参考文献リストなど「引用の出所」を示す点が強調され、quotationは「実際に抜き出した言葉や文そのもの」を指します。
 
@@ -105,14 +105,14 @@ citationは出典や参考文献リストなど「引用の出所」を示す点
 
 ## 🧩 あわせて覚えたい
 
-- [reference](/reference)：参照、参考文献
-- [acknowledgment](/acknowledgment)：謝辞、認識
+- [reference](/word/reference)：参照、参考文献
+- [acknowledgment](/word/acknowledgment)：謝辞、認識
 
 ---
 
 ## 📖 できればこれも
 
-- [source](/source)：情報源、出典
-- [excerpt](/excerpt)：抜粋、引用部分
+- [source](/word/source)：情報源、出典
+- [excerpt](/word/excerpt)：抜粋、引用部分
 
 <!-- cvid: aid41_bid38 -->

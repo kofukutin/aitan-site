@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、果物や食べ物の説明として
 ## 🤔  fruit との違いは？
 
 - **apple**：特定の果物「りんご」を指す
-- **[fruit](/fruit)**：果物全般を指す
+- **[fruit](/word/fruit)**：果物全般を指す
 
 appleは「りんご」という具体的な果物、fruitは「果物全般」を意味します。使い分けに注意しましょう。
 
@@ -105,14 +105,14 @@ appleは「りんご」という具体的な果物、fruitは「果物全般」�
 
 ## 🧩 あわせて覚えたい
 
-- [banana](/banana)：バナナ
-- [orange](/orange)：オレンジ
+- [banana](/word/banana)：バナナ
+- [orange](/word/orange)：オレンジ
 
 ---
 
 ## 📖 できればこれも
 
-- [grape](/grape)：ぶどう
-- [pear](/pear)：洋なし
+- [grape](/word/grape)：ぶどう
+- [pear](/word/pear)：洋なし
 
 <!-- cvid: aid18_bid26 -->

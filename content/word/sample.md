@@ -97,7 +97,7 @@ TOEICでは、商品説明やビジネスメール、科学的な文脈で「sam
 ## 🤔  specimen との違いは？
 
 - **sample**：全体を代表する「見本」や「試料」。日常・ビジネスで幅広く使う。
-- **[specimen](/specimen)**：主に科学や医療分野で使う「標本」「検体」。
+- **[specimen](/word/specimen)**：主に科学や医療分野で使う「標本」「検体」。
 
 sampleは一般的な見本や試供品、specimenは研究や分析のための標本・検体という違いがあります。
 
@@ -105,14 +105,14 @@ sampleは一般的な見本や試供品、specimenは研究や分析のための
 
 ## 🧩 あわせて覚えたい
 
-- [example](/example)：例、実例
-- [prototype](/prototype)：試作品、原型
+- [example](/word/example)：例、実例
+- [prototype](/word/prototype)：試作品、原型
 
 ---
 
 ## 📖 できればこれも
 
-- [pattern](/pattern)：パターン、型
-- [model](/model)：模型、モデル
+- [pattern](/word/pattern)：パターン、型
+- [model](/word/model)：模型、モデル
 
 <!-- cvid: aid02_bid14 -->

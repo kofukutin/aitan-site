@@ -97,7 +97,7 @@ TOEICでは、履歴書や申込書、自己紹介などの文脈で「occupatio
 ## 🤔  job との違いは？
 
 - **occupation**：フォーマルな「職業」全般を指し、書類や面接などで使われる。
-- **[job](/job)**：日常的な「仕事」「職」を指し、カジュアルな場面でよく使う。
+- **[job](/word/job)**：日常的な「仕事」「職」を指し、カジュアルな場面でよく使う。
 
 occupationは職業全体や社会的な立場を表すのに対し、jobは具体的な仕事や職場を指すことが多いです。
 
@@ -105,14 +105,14 @@ occupationは職業全体や社会的な立場を表すのに対し、jobは具�
 
 ## 🧩 あわせて覚えたい
 
-- [profession](/profession)：専門的な職業
-- [position](/position)：役職、地位
+- [profession](/word/profession)：専門的な職業
+- [position](/word/position)：役職、地位
 
 ---
 
 ## 📖 できればこれも
 
-- [career](/career)：経歴、職業人生
-- [employment](/employment)：雇用、就職
+- [career](/word/career)：経歴、職業人生
+- [employment](/word/employment)：雇用、就職
 
 <!-- cvid: aid01_bid27 -->

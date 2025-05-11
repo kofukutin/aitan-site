@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や案内文、メールなどの長文中で
 ## 🤔  regularly との違いは？
 
 - **periodically**：一定の周期や間隔で、ややフォーマルな響き
-- **[regularly](/regularly)**：規則的に、習慣的に、やや幅広い意味
+- **[regularly](/word/regularly)**：規則的に、習慣的に、やや幅広い意味
 
 「periodically」は「周期的」「定期的」といった時間的な間隔を強調し、ややフォーマルな場面で使われます。「regularly」は「規則的」「習慣的」といったニュアンスが強く、日常的な行動にも幅広く使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主にビジネス文書や案内文、メールなどの長文中で
 
 ## 🧩 あわせて覚えたい
 
-- [occasionally](/occasionally)：時々、たまに
-- [frequently](/frequently)：頻繁に
+- [occasionally](/word/occasionally)：時々、たまに
+- [frequently](/word/frequently)：頻繁に
 
 ---
 
 ## 📖 できればこれも
 
-- [annually](/annually)：年に一度、毎年
-- [temporarily](/temporarily)：一時的に
+- [annually](/word/annually)：年に一度、毎年
+- [temporarily](/word/temporarily)：一時的に
 
 <!-- cvid: aid31_bid14 -->

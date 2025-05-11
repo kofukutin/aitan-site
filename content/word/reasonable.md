@@ -97,7 +97,7 @@ TOEICでは「reasonable price（手ごろな価格）」や「reasonable explan
 ## 🤔  rational との違いは？
 
 - **reasonable**：状況や常識に照らして「妥当」「納得できる」ことを表す
-- **[rational](/rational)**：論理的・理性的であることを強調
+- **[rational](/word/rational)**：論理的・理性的であることを強調
 
 reasonableは「現実的・常識的に納得できる」ニュアンス、rationalは「論理的・理論的に正しい」ことを重視します。
 
@@ -105,14 +105,14 @@ reasonableは「現実的・常識的に納得できる」ニュアンス、rati
 
 ## 🧩 あわせて覚えたい
 
-- [affordable](/affordable)：手ごろな（特に価格が払える範囲であること）
-- [logical](/logical)：論理的な、筋の通った
+- [affordable](/word/affordable)：手ごろな（特に価格が払える範囲であること）
+- [logical](/word/logical)：論理的な、筋の通った
 
 ---
 
 ## 📖 できればこれも
 
-- [practical](/practical)：実用的な、現実的な
-- [sensible](/sensible)：分別のある、賢明な
+- [practical](/word/practical)：実用的な、現実的な
+- [sensible](/word/sensible)：分別のある、賢明な
 
 <!-- cvid: aid29_bid26 -->

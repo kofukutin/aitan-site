@@ -97,7 +97,7 @@ TOEICでは会話やEメール文中で「楽しみにしている」「わく�
 ## 🤔  thrilled との違いは？
 
 - **excited**：楽しいことや期待で心が高ぶっている状態
-- **[thrilled](/thrilled)**：非常に強い喜びや感動でぞくぞくするほど興奮している状態
+- **[thrilled](/word/thrilled)**：非常に強い喜びや感動でぞくぞくするほど興奮している状態
 
 excitedは「わくわく」「楽しみ」など幅広い興奮に使い、thrilledはより強い感情や感動を表します。
 
@@ -105,14 +105,14 @@ excitedは「わくわく」「楽しみ」など幅広い興奮に使い、thri
 
 ## 🧩 あわせて覚えたい
 
-- [nervous](/nervous)：緊張した、不安な
-- [enthusiastic](/enthusiastic)：熱心な、熱中している
+- [nervous](/word/nervous)：緊張した、不安な
+- [enthusiastic](/word/enthusiastic)：熱心な、熱中している
 
 ---
 
 ## 📖 できればこれも
 
-- [interested](/interested)：興味がある
-- [amazed](/amazed)：驚いた、びっくりした
+- [interested](/word/interested)：興味がある
+- [amazed](/word/amazed)：驚いた、びっくりした
 
 <!-- cvid: aid22_bid15 -->

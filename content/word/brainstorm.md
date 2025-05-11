@@ -97,7 +97,7 @@ TOEICでは会議やチームワークの場面で「アイデアを出し合う
 ## 🤔  discuss との違いは？
 
 - **brainstorm**：自由にたくさんのアイデアを出し合うことに重点がある
-- **[discuss](/discuss)**：特定のテーマについて意見を交わし合うこと
+- **[discuss](/word/discuss)**：特定のテーマについて意見を交わし合うこと
 
 brainstormは「とにかく思いつく限り出す」イメージ、discussは「意見を交わして深める」イメージです。
 
@@ -105,14 +105,14 @@ brainstormは「とにかく思いつく限り出す」イメージ、discussは
 
 ## 🧩 あわせて覚えたい
 
-- [suggest](/suggest)：提案する
-- [collaborate](/collaborate)：協力する
+- [suggest](/word/suggest)：提案する
+- [collaborate](/word/collaborate)：協力する
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/plan)：計画する
-- [organize](/organize)：まとめる、整理する
+- [plan](/word/plan)：計画する
+- [organize](/word/organize)：まとめる、整理する
 
 <!-- cvid: aid03_bid35 -->

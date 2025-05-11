@@ -97,7 +97,7 @@ TOEICでは、企業の財務状況や経済記事の中で「bankrupt」が登�
 ## 🤔  insolvent との違いは？
 
 - **bankrupt**：法的に破産と認められた状態を指す。
-- **[insolvent](/insolvent)**：支払い能力がない状態全般を指し、必ずしも法的破産とは限らない。
+- **[insolvent](/word/insolvent)**：支払い能力がない状態全般を指し、必ずしも法的破産とは限らない。
 
 「bankrupt」は法律上の手続きが完了した破産、「insolvent」は単に資金不足で支払い不能な状態を広く指します。
 
@@ -105,14 +105,14 @@ TOEICでは、企業の財務状況や経済記事の中で「bankrupt」が登�
 
 ## 🧩 あわせて覚えたい
 
-- [solvent](/solvent)：支払い能力がある
-- [liquidate](/liquidate)：清算する
+- [solvent](/word/solvent)：支払い能力がある
+- [liquidate](/word/liquidate)：清算する
 
 ---
 
 ## 📖 できればこれも
 
-- [debt](/debt)：借金
-- [asset](/asset)：資産
+- [debt](/word/debt)：借金
+- [asset](/word/asset)：資産
 
 <!-- cvid: aid31_bid19 -->

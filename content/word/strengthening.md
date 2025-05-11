@@ -97,7 +97,7 @@ TOEICでは、名詞として「強化」「強めること」の意味で、文
 ## 🤔  reinforcement との違いは？
 
 - **strengthening**：強化する「行為」や「過程」に焦点を当てる
-- **[reinforcement](/reinforcement)**：補強・強化された「もの」や「手段」に焦点を当てる
+- **[reinforcement](/word/reinforcement)**：補強・強化された「もの」や「手段」に焦点を当てる
 
 strengtheningは「強くすること」という動作やプロセスを指し、reinforcementは「補強材」や「補強策」など具体的な手段や結果を指します。
 
@@ -105,14 +105,14 @@ strengtheningは「強くすること」という動作やプロセスを指し�
 
 ## 🧩 あわせて覚えたい
 
-- [improvement](/improvement)：改善、向上
-- [enhancement](/enhancement)：強化、向上
+- [improvement](/word/improvement)：改善、向上
+- [enhancement](/word/enhancement)：強化、向上
 
 ---
 
 ## 📖 できればこれも
 
-- [expansion](/expansion)：拡大、拡張
-- [development](/development)：発展、開発
+- [expansion](/word/expansion)：拡大、拡張
+- [development](/word/development)：発展、開発
 
 <!-- cvid: aid45_bid07 -->

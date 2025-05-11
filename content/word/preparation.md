@@ -97,7 +97,7 @@ TOEICでは会議やイベント、プロジェクトの準備に関する会話
 ## 🤔  arrangement との違いは？
 
 - **preparation**：何かを始める前に必要な準備や用意全般を指す
-- **[arrangement](/arrangement)**：具体的な手配や段取り、調整を指す
+- **[arrangement](/word/arrangement)**：具体的な手配や段取り、調整を指す
 
 preparationは全体的な「準備」に焦点を当て、arrangementは「手配」「調整」といった具体的な行動や計画に使われます。
 
@@ -105,14 +105,14 @@ preparationは全体的な「準備」に焦点を当て、arrangementは「手�
 
 ## 🧩 あわせて覚えたい
 
-- [plan](/plan)：計画
-- [organization](/organization)：組織、整理
+- [plan](/word/plan)：計画
+- [organization](/word/organization)：組織、整理
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/schedule)：予定、スケジュール
-- [procedure](/procedure)：手順、手続き
+- [schedule](/word/schedule)：予定、スケジュール
+- [procedure](/word/procedure)：手順、手続き
 
 <!-- cvid: aid08_bid19 -->

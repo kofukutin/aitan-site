@@ -97,7 +97,7 @@ TOEICでは会議やビジネスシーンで「行動」「措置」として頻
 ## 🤔  activity との違いは？
 
 - **action**：目的を持った具体的な「行動」や「措置」
-- **[activity](/activity)**：一般的な「活動」や「行為」、動き全般
+- **[activity](/word/activity)**：一般的な「活動」や「行為」、動き全般
 
 **action**は「何かを達成するための具体的な行動」、**activity**は「広い意味での活動や動き」を指します。
 
@@ -105,14 +105,14 @@ TOEICでは会議やビジネスシーンで「行動」「措置」として頻
 
 ## 🧩 あわせて覚えたい
 
-- [decision](/decision)：決定、判断
-- [measure](/measure)：対策、措置
+- [decision](/word/decision)：決定、判断
+- [measure](/word/measure)：対策、措置
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/plan)：計画
-- [process](/process)：過程、手順
+- [plan](/word/plan)：計画
+- [process](/word/process)：過程、手順
 
 <!-- cvid: aid20_bid37 -->

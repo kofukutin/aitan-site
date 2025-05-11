@@ -96,7 +96,7 @@ The new skincare product helps reduce acne.
 ## 🤔  pimple との違いは？
 
 - **acne**：医学的な「にきび」全般を指し、複数の吹き出物や慢性的な症状にも使う。
-- **[pimple](/pimple)**：単発の「にきび」や「吹き出物」をカジュアルに指す。
+- **[pimple](/word/pimple)**：単発の「にきび」や「吹き出物」をカジュアルに指す。
 
 acneは医学用語で広範囲や慢性的な症状に、pimpleは日常的に単発のにきびに使います。
 
@@ -104,14 +104,14 @@ acneは医学用語で広範囲や慢性的な症状に、pimpleは日常的に�
 
 ## 🧩 あわせて覚えたい
 
-- [rash](/rash)：発疹
-- [scar](/scar)：傷跡
+- [rash](/word/rash)：発疹
+- [scar](/word/scar)：傷跡
 
 ---
 
 ## 📖 できればこれも
 
-- [allergy](/allergy)：アレルギー
-- [treatment](/treatment)：治療
+- [allergy](/word/allergy)：アレルギー
+- [treatment](/word/treatment)：治療
 
 <!-- cvid: aid39_bid08 -->

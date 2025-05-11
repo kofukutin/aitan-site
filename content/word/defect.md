@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や品質管理に関する文脈で出題さ
 ## 🤔  flaw との違いは？
 
 - **defect**：主に製品やシステムなどの「機能的な欠陥」や「不良」を指す。
-- **[flaw](/flaw)**：性格や論理、物の「小さな傷」「弱点」など幅広く使われる。
+- **[flaw](/word/flaw)**：性格や論理、物の「小さな傷」「弱点」など幅広く使われる。
 
 defectは実用面での重大な欠陥、flawは小さな傷や抽象的な弱点にも使われます。
 
@@ -105,14 +105,14 @@ defectは実用面での重大な欠陥、flawは小さな傷や抽象的な弱�
 
 ## 🧩 あわせて覚えたい
 
-- [fault](/fault)：過失、責任、（機械などの）故障
-- [malfunction](/malfunction)：機能不全、故障
+- [fault](/word/fault)：過失、責任、（機械などの）故障
+- [malfunction](/word/malfunction)：機能不全、故障
 
 ---
 
 ## 📖 できればこれも
 
-- [error](/error)：誤り、ミス
-- [issue](/issue)：問題、課題
+- [error](/word/error)：誤り、ミス
+- [issue](/word/issue)：問題、課題
 
 <!-- cvid: aid29_bid22 -->

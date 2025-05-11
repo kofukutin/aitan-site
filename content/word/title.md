@@ -97,7 +97,7 @@ titleはTOEICのPart 5で「役職名」や「題名」を問う文脈でよく�
 ## 🤔  position との違いは？
 
 - **title**：役職名や肩書き、または本・映画などの題名を指す。
-- **[position](/position)**：組織内での「地位」や「役割」を指す。
+- **[position](/word/position)**：組織内での「地位」や「役割」を指す。
 
 titleは「名前」や「称号」に焦点があり、positionは「役割」や「立場」に重点があります。
 
@@ -105,14 +105,14 @@ titleは「名前」や「称号」に焦点があり、positionは「役割」�
 
 ## 🧩 あわせて覚えたい
 
-- [role](/role)：役割
-- [degree](/degree)：学位、程度
+- [role](/word/role)：役割
+- [degree](/word/degree)：学位、程度
 
 ---
 
 ## 📖 できればこれも
 
-- [subject](/subject)：主題、科目
-- [topic](/topic)：話題、トピック
+- [subject](/word/subject)：主題、科目
+- [topic](/word/topic)：話題、トピック
 
 <!-- cvid: aid25_bid04 -->

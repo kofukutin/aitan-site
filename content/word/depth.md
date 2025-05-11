@@ -97,7 +97,7 @@ TOEICでは、図表や説明文、仕様書などで「深さ」を表す語と
 ## 🤔  height との違いは？
 
 - **depth**：物の「深さ」や「奥行き」を表す
-- **[height](/height)**：物の「高さ」を表す
+- **[height](/word/height)**：物の「高さ」を表す
 
 depthは下方向や奥行きの長さ、heightは上方向への長さを指します。たとえばプールや箱の「深さ」はdepth、ビルや木の「高さ」はheightです。
 
@@ -105,14 +105,14 @@ depthは下方向や奥行きの長さ、heightは上方向への長さを指し
 
 ## 🧩 あわせて覚えたい
 
-- [width](/width)：幅
-- [length](/length)：長さ
+- [width](/word/width)：幅
+- [length](/word/length)：長さ
 
 ---
 
 ## 📖 できればこれも
 
-- [distance](/distance)：距離
-- [area](/area)：面積
+- [distance](/word/distance)：距離
+- [area](/word/area)：面積
 
 <!-- cvid: aid22_bid46 -->

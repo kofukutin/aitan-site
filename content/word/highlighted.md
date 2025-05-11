@@ -97,7 +97,7 @@ TOEICでは、文章中の重要事項やポイントを強調する文脈でよ
 ## 🤔  emphasized との違いは？
 
 - **highlighted**：視覚的・具体的に目立たせる、はっきり示す
-- **[emphasized](/emphasized)**：言葉や態度で強調する、重要性を訴える
+- **[emphasized](/word/emphasized)**：言葉や態度で強調する、重要性を訴える
 
 「highlighted」は色を付けたり目立たせたりする物理的な強調、「emphasized」は話し方や説明で重要性を伝えるときに使います。
 
@@ -105,14 +105,14 @@ TOEICでは、文章中の重要事項やポイントを強調する文脈でよ
 
 ## 🧩 あわせて覚えたい
 
-- [underline](/underline)：下線を引く、強調する
-- [ignore](/ignore)：無視する
+- [underline](/word/underline)：下線を引く、強調する
+- [ignore](/word/ignore)：無視する
 
 ---
 
 ## 📖 できればこれも
 
-- [presented](/presented)：提示した、発表した
-- [summarize](/summarize)：要約する
+- [presented](/word/presented)：提示した、発表した
+- [summarize](/word/summarize)：要約する
 
 <!-- cvid: aid10_bid17 -->

@@ -97,7 +97,7 @@ luxuryはTOEICの広告文や商品説明、ホテル・旅行関連の長文で
 ## 🤔  comfort との違いは？
 
 - **luxury**：必需品ではないが、特別な贅沢や豪華さを感じさせるもの
-- **[comfort](/comfort)**：快適さや心地よさを意味し、贅沢である必要はない
+- **[comfort](/word/comfort)**：快適さや心地よさを意味し、贅沢である必要はない
 
 luxuryは「なくても困らないが、あると特別に嬉しい贅沢品や体験」、comfortは「日常的な快適さや安心感」を指します。
 
@@ -105,14 +105,14 @@ luxuryは「なくても困らないが、あると特別に嬉しい贅沢品�
 
 ## 🧩 あわせて覚えたい
 
-- [necessity](/necessity)：必需品、必要なもの
-- [opulence](/opulence)：豪華さ、ぜいたくさ
+- [necessity](/word/necessity)：必需品、必要なもの
+- [opulence](/word/opulence)：豪華さ、ぜいたくさ
 
 ---
 
 ## 📖 できればこれも
 
-- [expensive](/expensive)：高価な
-- [afford](/afford)：（金銭的に）余裕がある
+- [expensive](/word/expensive)：高価な
+- [afford](/word/afford)：（金銭的に）余裕がある
 
 <!-- cvid: aid03_bid11 -->

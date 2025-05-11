@@ -97,7 +97,7 @@ TOEICではITやビジネス文書、説明文の中で「タグ」や「ラベ�
 ## 🤔  label との違いは？
 
 - **tag**：物や情報に付ける小さな札や目印、SNSのタグなど幅広く使う
-- **[label](/label)**：商品やファイルなどに貼る「ラベル」や「表示」
+- **[label](/word/label)**：商品やファイルなどに貼る「ラベル」や「表示」
 
 tagは目印や分類のための札やキーワード全般を指し、labelは主に説明や情報を記載したラベルや表示を意味します。
 
@@ -105,14 +105,14 @@ tagは目印や分類のための札やキーワード全般を指し、labelは
 
 ## 🧩 あわせて覚えたい
 
-- [hashtag](/hashtag)：SNSで使う「#」付きのタグ
-- [sticker](/sticker)：シール、貼るタイプのラベル
+- [hashtag](/word/hashtag)：SNSで使う「#」付きのタグ
+- [sticker](/word/sticker)：シール、貼るタイプのラベル
 
 ---
 
 ## 📖 できればこれも
 
-- [note](/note)：メモ、注記
-- [mark](/mark)：印、記号
+- [note](/word/note)：メモ、注記
+- [mark](/word/mark)：印、記号
 
 <!-- cvid: aid23_bid45 -->

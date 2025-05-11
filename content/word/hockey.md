@@ -97,7 +97,7 @@ TOEICではスポーツやレジャーに関する記事や広告文で登場す
 ## 🤔  ice hockey との違いは？
 
 - **hockey**：一般的にホッケー全般を指し、国によってはフィールドホッケーを意味することもある
-- **[ice hockey](/ice_hockey)**：氷上で行うアイスホッケーを明確に指す
+- **[ice hockey](/word/ice_hockey)**：氷上で行うアイスホッケーを明確に指す
 
 hockeyは文脈によって意味が変わるため、氷上のスポーツを強調したい場合はice hockeyを使います。
 
@@ -105,14 +105,14 @@ hockeyは文脈によって意味が変わるため、氷上のスポーツを�
 
 ## 🧩 あわせて覚えたい
 
-- [baseball](/baseball)：野球
-- [lacrosse](/lacrosse)：ラクロス
+- [baseball](/word/baseball)：野球
+- [lacrosse](/word/lacrosse)：ラクロス
 
 ---
 
 ## 📖 できればこれも
 
-- [soccer](/soccer)：サッカー
-- [basketball](/basketball)：バスケットボール
+- [soccer](/word/soccer)：サッカー
+- [basketball](/word/basketball)：バスケットボール
 
 <!-- cvid: aid43_bid36 -->

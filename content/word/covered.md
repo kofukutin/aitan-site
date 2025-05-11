@@ -97,7 +97,7 @@ TOEICでは、保険や費用、議題などが「カバーされているかど
 ## 🤔  included との違いは？
 
 - **covered**：覆われている、補償・範囲に含まれている（特に保険や費用など）
-- **[included](/included)**：単に「含まれている」（リストや範囲の一部）
+- **[included](/word/included)**：単に「含まれている」（リストや範囲の一部）
 
 coveredは「守られている」「補償されている」など、より積極的な保護や対応のニュアンスがありますが、includedは単に「リストや範囲に入っている」だけです。
 
@@ -105,14 +105,14 @@ coveredは「守られている」「補償されている」など、より積�
 
 ## 🧩 あわせて覚えたい
 
-- [excluded](/excluded)：除外された
-- [protected](/protected)：保護された
+- [excluded](/word/excluded)：除外された
+- [protected](/word/protected)：保護された
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/available)：利用できる
-- [required](/required)：必要な
+- [available](/word/available)：利用できる
+- [required](/word/required)：必要な
 
 <!-- cvid: aid22_bid18 -->

@@ -97,7 +97,7 @@ TOEICでは会話文や意見交換の中で、軽い非難や自己反省の表
 ## 🤔  stupid との違いは？
 
 - **dumb**：軽いニュアンスで「ばかな」「愚かな」と言うときに使う。ややカジュアル。
-- **[stupid](/stupid)**：より強く「頭が悪い」「愚かだ」と非難する表現。
+- **[stupid](/word/stupid)**：より強く「頭が悪い」「愚かだ」と非難する表現。
 
 「dumb」は冗談や軽い指摘で使われやすく、「stupid」はより直接的で強い否定のニュアンスがあります。
 
@@ -105,14 +105,14 @@ TOEICでは会話文や意見交換の中で、軽い非難や自己反省の表
 
 ## 🧩 あわせて覚えたい
 
-- [silent](/silent)：静かな、無言の
-- [clever](/clever)：賢い、頭の良い
+- [silent](/word/silent)：静かな、無言の
+- [clever](/word/clever)：賢い、頭の良い
 
 ---
 
 ## 📖 できればこれも
 
-- [smart](/smart)：賢い、頭の良い
-- [quiet](/quiet)：静かな
+- [smart](/word/smart)：賢い、頭の良い
+- [quiet](/word/quiet)：静かな
 
 <!-- cvid: aid27_bid14 -->

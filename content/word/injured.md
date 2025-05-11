@@ -97,7 +97,7 @@ TOEICでは、職場や事故、健康に関する会話や説明文で「injure
 ## 🤔  hurt との違いは？
 
 - **injured**：事故やスポーツなどで「けがをした」「負傷した」と医学的・物理的な傷に使う
-- **[hurt](/hurt)**：けがだけでなく、心の傷や軽い痛みなど幅広く使う
+- **[hurt](/word/hurt)**：けがだけでなく、心の傷や軽い痛みなど幅広く使う
 
 injuredは主に外傷や事故によるけがに限定されるのに対し、hurtは身体的・精神的な痛みの両方に使えます。
 
@@ -105,14 +105,14 @@ injuredは主に外傷や事故によるけがに限定されるのに対し、h
 
 ## 🧩 あわせて覚えたい
 
-- [wounded](/wounded)：（特に武器などによる）負傷した
-- [recover](/recover)：回復する
+- [wounded](/word/wounded)：（特に武器などによる）負傷した
+- [recover](/word/recover)：回復する
 
 ---
 
 ## 📖 できればこれも
 
-- [painful](/painful)：痛い、苦しい
-- [accident](/accident)：事故
+- [painful](/word/painful)：痛い、苦しい
+- [accident](/word/accident)：事故
 
 <!-- cvid: aid31_bid19 -->

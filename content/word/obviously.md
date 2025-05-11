@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「明らかに～だ」「当然～だ」と強
 ## 🤔  clearly との違いは？
 
 - **obviously**：誰が見ても明らか・当然だと強調する
-- **[clearly](/clearly)**：はっきりと、分かりやすく（主観的な説明や描写にも使う）
+- **[clearly](/word/clearly)**：はっきりと、分かりやすく（主観的な説明や描写にも使う）
 
 「obviously」は「当然だ」「言うまでもない」と強調するニュアンスが強く、感情や驚きを込めることもあります。「clearly」は単に「はっきりと」「明確に」と事実を述べるときに使います。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「明らかに～だ」「当然～だ」と強
 
 ## 🧩 あわせて覚えたい
 
-- [apparently](/apparently)：見たところ、どうやら
-- [evidently](/evidently)：明らかに、どうやら
+- [apparently](/word/apparently)：見たところ、どうやら
+- [evidently](/word/evidently)：明らかに、どうやら
 
 ---
 
 ## 📖 できればこれも
 
-- [probably](/probably)：おそらく
-- [definitely](/definitely)：確実に、間違いなく
+- [probably](/word/probably)：おそらく
+- [definitely](/word/definitely)：確実に、間違いなく
 
 <!-- cvid: aid37_bid28 -->

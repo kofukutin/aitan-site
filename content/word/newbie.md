@@ -97,7 +97,7 @@ TOEICではITやビジネスの文脈で、カジュアルな表現としてメ�
 ## 🤔  beginner との違いは？
 
 - **newbie**：カジュアルでネットやIT分野でよく使われる「初心者」
-- **[beginner](/beginner)**：一般的でフォーマル・カジュアル両方で使える「初心者」
+- **[beginner](/word/beginner)**：一般的でフォーマル・カジュアル両方で使える「初心者」
 
 newbieは親しみやすい響きで、特にネットや趣味のコミュニティで使われますが、beginnerはより広い場面で使えます。
 
@@ -105,14 +105,14 @@ newbieは親しみやすい響きで、特にネットや趣味のコミュニ�
 
 ## 🧩 あわせて覚えたい
 
-- [novice](/novice)：初心者（ややフォーマル）
-- [expert](/expert)：専門家、熟練者
+- [novice](/word/novice)：初心者（ややフォーマル）
+- [expert](/word/expert)：専門家、熟練者
 
 ---
 
 ## 📖 できればこれも
 
-- [mentor](/mentor)：指導者、助言者
-- [skill](/skill)：技能、スキル
+- [mentor](/word/mentor)：指導者、助言者
+- [skill](/word/skill)：技能、スキル
 
 <!-- cvid: aid24_bid29 -->

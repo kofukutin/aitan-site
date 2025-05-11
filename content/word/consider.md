@@ -97,7 +97,7 @@ TOEICではPart 5の文法・語彙問題で頻出し、「考慮する」「検
 ## 🤔  regard との違いは？
 
 - **consider**：よく考えて判断する、検討する
-- **[regard](/regard)**：～を（ある観点で）見なす、評価する
+- **[regard](/word/regard)**：～を（ある観点で）見なす、評価する
 
 considerは「じっくり考える・検討する」ニュアンスが強く、regardは「～と見なす・評価する」ときに使います。
 
@@ -105,14 +105,14 @@ considerは「じっくり考える・検討する」ニュアンスが強く、
 
 ## 🧩 あわせて覚えたい
 
-- [think](/think)：考える、思う
-- [deem](/deem)：～と見なす、判断する
+- [think](/word/think)：考える、思う
+- [deem](/word/deem)：～と見なす、判断する
 
 ---
 
 ## 📖 できればこれも
 
-- [suggest](/suggest)：提案する
-- [decide](/decide)：決定する
+- [suggest](/word/suggest)：提案する
+- [decide](/word/decide)：決定する
 
 <!-- cvid: aid44_bid49 -->

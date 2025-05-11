@@ -97,7 +97,7 @@ TOEICでは、ホテルやイベント、ビジネスの案内文や招待状な
 ## 🤔  party との違いは？
 
 - **banquet**：フォーマルで大規模な宴会や祝宴を指す
-- **[party](/party)**：カジュアルからフォーマルまで幅広い集まりを指し、必ずしも食事が中心とは限らない
+- **[party](/word/party)**：カジュアルからフォーマルまで幅広い集まりを指し、必ずしも食事が中心とは限らない
 
 banquetは格式のある食事会や式典で使われ、partyは友人同士の集まりなど幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ banquetは格式のある食事会や式典で使われ、partyは友人同士�
 
 ## 🧩 あわせて覚えたい
 
-- [reception](/reception)：（公式な）歓迎会、レセプション
-- [gathering](/gathering)：集まり、会合
+- [reception](/word/reception)：（公式な）歓迎会、レセプション
+- [gathering](/word/gathering)：集まり、会合
 
 ---
 
 ## 📖 できればこれも
 
-- [conference](/conference)：会議、協議会
-- [ceremony](/ceremony)：式典、儀式
+- [conference](/word/conference)：会議、協議会
+- [ceremony](/word/ceremony)：式典、儀式
 
 <!-- cvid: aid06_bid49 -->

@@ -97,7 +97,7 @@ TOEICでは、書類やパーツの分離・切り離しに関する文脈で出
 ## 🤔  separate との違いは？
 
 - **detach**：物理的・感情的に「切り離す」「取り外す」ことを強調
-- **[separate](/separate)**：2つ以上のものを「分ける」「区別する」ことを広く表す
+- **[separate](/word/separate)**：2つ以上のものを「分ける」「区別する」ことを広く表す
 
 detachは「一部を本体から切り離す」ニュアンスが強く、separateは「複数のものを分ける・区別する」場面で使います。
 
@@ -105,14 +105,14 @@ detachは「一部を本体から切り離す」ニュアンスが強く、separ
 
 ## 🧩 あわせて覚えたい
 
-- [attach](/attach)：取り付ける、添付する
-- [remove](/remove)：取り除く、除去する
+- [attach](/word/attach)：取り付ける、添付する
+- [remove](/word/remove)：取り除く、除去する
 
 ---
 
 ## 📖 できればこれも
 
-- [connect](/connect)：つなぐ、接続する
-- [distribute](/distribute)：配布する、分配する
+- [connect](/word/connect)：つなぐ、接続する
+- [distribute](/word/distribute)：配布する、分配する
 
 <!-- cvid: aid24_bid28 -->

@@ -97,7 +97,7 @@ TOEICでは説明文や手順書、IT関連の長文で「sequence」が使わ�
 ## 🤔  series との違いは？
 
 - **sequence**：特定の順序や手順に従って並んでいることを強調
-- **[series](/series)**：順序よりも「一連のもの」「連続したもの」というまとまりを強調
+- **[series](/word/series)**：順序よりも「一連のもの」「連続したもの」というまとまりを強調
 
 sequenceは「順番」や「手順」が重要な場面で使い、seriesは「関連するものが続く」ことに重点があります。
 
@@ -105,14 +105,14 @@ sequenceは「順番」や「手順」が重要な場面で使い、seriesは「
 
 ## 🧩 あわせて覚えたい
 
-- [order](/order)：順序、秩序
-- [succession](/succession)：連続、継承
+- [order](/word/order)：順序、秩序
+- [succession](/word/succession)：連続、継承
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/process)：過程、手順
-- [pattern](/pattern)：パターン、型
+- [process](/word/process)：過程、手順
+- [pattern](/word/pattern)：パターン、型
 
 <!-- cvid: aid09_bid40 -->

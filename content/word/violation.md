@@ -97,7 +97,7 @@ TOEICでは規則や契約、法律に関する文書やメールで「違反」
 ## 🤔  infringement との違いは？
 
 - **violation**：法律・規則・約束など幅広い「違反」「侵害」を指す。
-- **[infringement](/infringement)**：特に著作権や特許など知的財産権の「侵害」に使われる。
+- **[infringement](/word/infringement)**：特に著作権や特許など知的財産権の「侵害」に使われる。
 
 violationは一般的なルール違反全般に使われ、infringementは主に権利や法律の細かな侵害に限定される傾向があります。
 
@@ -105,14 +105,14 @@ violationは一般的なルール違反全般に使われ、infringementは主�
 
 ## 🧩 あわせて覚えたい
 
-- [breach](/breach)：（契約などの）違反、破棄
-- [compliance](/compliance)：順守、従うこと
+- [breach](/word/breach)：（契約などの）違反、破棄
+- [compliance](/word/compliance)：順守、従うこと
 
 ---
 
 ## 📖 できればこれも
 
-- [penalty](/penalty)：罰則、ペナルティ
-- [regulation](/regulation)：規則、規制
+- [penalty](/word/penalty)：罰則、ペナルティ
+- [regulation](/word/regulation)：規則、規制
 
 <!-- cvid: aid42_bid49 -->

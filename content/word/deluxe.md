@@ -96,7 +96,7 @@ TOEICではホテルや旅行、商品広告などの説明文で「deluxe room�
 ## 🤔  luxury との違いは？
 
 - **deluxe**：通常よりも高級で特別な仕様であることを表す形容詞。主に商品やサービスのグレードを説明する際に使う。
-- **[luxury](/luxury)**：贅沢そのものや贅沢品を指す名詞・形容詞。より抽象的で幅広い意味を持つ。
+- **[luxury](/word/luxury)**：贅沢そのものや贅沢品を指す名詞・形容詞。より抽象的で幅広い意味を持つ。
 
 deluxeは具体的な商品やサービスの「高級仕様」を強調し、luxuryは「贅沢さ」や「豪華さ」そのものを指します。
 
@@ -104,14 +104,14 @@ deluxeは具体的な商品やサービスの「高級仕様」を強調し、lu
 
 ## 🧩 あわせて覚えたい
 
-- [premium](/premium)：より高品質・高価格な
-- [standard](/standard)：標準的な、普通の
+- [premium](/word/premium)：より高品質・高価格な
+- [standard](/word/standard)：標準的な、普通の
 
 ---
 
 ## 📖 できればこれも
 
-- [elegant](/elegant)：上品な、優雅な
-- [exclusive](/exclusive)：限定の、特別な
+- [elegant](/word/elegant)：上品な、優雅な
+- [exclusive](/word/exclusive)：限定の、特別な
 
 <!-- cvid: aid28_bid27 -->

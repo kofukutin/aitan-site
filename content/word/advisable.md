@@ -97,7 +97,7 @@ TOEICではPart 5の語彙・文法問題で「～するのが望ましい」「
 ## 🤔  desirable との違いは？
 
 - **advisable**：状況的に「勧められる」「賢明である」と判断される場合に使う
-- **[desirable](/desirable)**：より「望ましい」「好ましい」といった積極的な価値判断を表す
+- **[desirable](/word/desirable)**：より「望ましい」「好ましい」といった積極的な価値判断を表す
 
 advisableは「助言として適切」というニュアンスが強く、desirableは「理想的・魅力的」という意味合いが強いです。
 
@@ -105,14 +105,14 @@ advisableは「助言として適切」というニュアンスが強く、desir
 
 ## 🧩 あわせて覚えたい
 
-- [mandatory](/mandatory)：義務的な、強制の
-- [optional](/optional)：任意の、選択できる
+- [mandatory](/word/mandatory)：義務的な、強制の
+- [optional](/word/optional)：任意の、選択できる
 
 ---
 
 ## 📖 できればこれも
 
-- [suitable](/suitable)：適切な、ふさわしい
-- [practical](/practical)：実用的な、現実的な
+- [suitable](/word/suitable)：適切な、ふさわしい
+- [practical](/word/practical)：実用的な、現実的な
 
 <!-- cvid: aid17_bid46 -->

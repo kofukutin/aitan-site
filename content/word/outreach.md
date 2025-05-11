@@ -97,7 +97,7 @@ TOEICでは、企業や団体の社会貢献活動や地域支援に関する記
 ## 🤔  approach との違いは？
 
 - **outreach**：特定の人々や地域に向けて支援やサービスを提供する活動
-- **[approach](/approach)**：問題や課題への取り組み方、接近方法
+- **[approach](/word/approach)**：問題や課題への取り組み方、接近方法
 
 outreachは「外部への積極的な支援活動」、approachは「物事への取り組み方や方法」を指し、目的やニュアンスが異なります。
 
@@ -105,14 +105,14 @@ outreachは「外部への積極的な支援活動」、approachは「物事へ�
 
 ## 🧩 あわせて覚えたい
 
-- [campaign](/campaign)：（特定の目的のための）運動、キャンペーン
-- [assistance](/assistance)：支援、援助
+- [campaign](/word/campaign)：（特定の目的のための）運動、キャンペーン
+- [assistance](/word/assistance)：支援、援助
 
 ---
 
 ## 📖 できればこれも
 
-- [initiative](/initiative)：新しい取り組み、主導権
-- [promotion](/promotion)：促進、販売促進活動
+- [initiative](/word/initiative)：新しい取り組み、主導権
+- [promotion](/word/promotion)：促進、販売促進活動
 
 <!-- cvid: aid06_bid12 -->

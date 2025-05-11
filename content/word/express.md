@@ -97,7 +97,7 @@ TOEICでは、意見や感情を述べる文脈で「express」がよく出題�
 ## 🤔  state との違いは？
 
 - **express**：自分の気持ちや考えを「表現する」「伝える」ことに重点がある
-- **[state](/state)**：事実や意見を「はっきり述べる」「明言する」ことに重点がある
+- **[state](/word/state)**：事実や意見を「はっきり述べる」「明言する」ことに重点がある
 
 「express」は感情や気持ちを含めて伝えるニュアンスが強く、「state」は客観的・公式に述べる場合に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、意見や感情を述べる文脈で「express」がよく出題�
 
 ## 🧩 あわせて覚えたい
 
-- [convey](/convey)：（考え・気持ちを）伝える
-- [imply](/imply)：暗に示す、ほのめかす
+- [convey](/word/convey)：（考え・気持ちを）伝える
+- [imply](/word/imply)：暗に示す、ほのめかす
 
 ---
 
 ## 📖 できればこれも
 
-- [mention](/mention)：言及する
-- [describe](/describe)：描写する、説明する
+- [mention](/word/mention)：言及する
+- [describe](/word/describe)：描写する、説明する
 
 <!-- cvid: aid47_bid43 -->

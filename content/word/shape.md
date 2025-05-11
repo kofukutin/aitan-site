@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、物や人の「形」や「姿」を
 ## 🤔  form との違いは？
 
 - **shape**：物の外見的な「形」や「輪郭」を指す。
-- **[form](/form)**：構造や配置、型など、より抽象的・全体的な「形態」を指す。
+- **[form](/word/form)**：構造や配置、型など、より抽象的・全体的な「形態」を指す。
 
 shapeは見た目の「形」に焦点を当て、formは構造や型など内面的な「形態」に使われます。
 
@@ -105,14 +105,14 @@ shapeは見た目の「形」に焦点を当て、formは構造や型など内�
 
 ## 🧩 あわせて覚えたい
 
-- [figure](/figure)：図形、姿
-- [outline](/outline)：輪郭、概要
+- [figure](/word/figure)：図形、姿
+- [outline](/word/outline)：輪郭、概要
 
 ---
 
 ## 📖 できればこれも
 
-- [size](/size)：大きさ、サイズ
-- [design](/design)：デザイン、設計
+- [size](/word/size)：大きさ、サイズ
+- [design](/word/design)：デザイン、設計
 
 <!-- cvid: aid40_bid23 -->

@@ -97,7 +97,7 @@ TOEICでは、形容詞「sufficient」とともに副詞「sufficiently」も�
 ## 🤔  adequately との違いは？
 
 - **sufficiently**：必要な基準や条件を「十分に」満たしていることを強調
-- **[adequately](/adequately)**：最低限または「適切に」満たしていることを表す
+- **[adequately](/word/adequately)**：最低限または「適切に」満たしていることを表す
 
 sufficientlyは「十分さ」に重点があり、adequatelyは「適切さ」や「最低限クリアしている」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ sufficientlyは「十分さ」に重点があり、adequatelyは「適切さ」�
 
 ## 🧩 あわせて覚えたい
 
-- [insufficiently](/insufficiently)：不十分に
-- [enough](/enough)：十分に
+- [insufficiently](/word/insufficiently)：不十分に
+- [enough](/word/enough)：十分に
 
 ---
 
 ## 📖 できればこれも
 
-- [considerably](/considerably)：かなり
-- [appropriately](/appropriately)：適切に
+- [considerably](/word/considerably)：かなり
+- [appropriately](/word/appropriately)：適切に
 
 <!-- cvid: aid10_bid05 -->

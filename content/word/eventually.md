@@ -97,7 +97,7 @@ TOEICでは長文読解や説明文で「最終的に」「やがて」といっ
 ## 🤔  finally との違いは？
 
 - **eventually**：長い時間や過程を経て「最終的に」「やがて」
-- **[finally](/finally)**：待ち望んだ末に「ついに」「とうとう」
+- **[finally](/word/finally)**：待ち望んだ末に「ついに」「とうとう」
 
 eventuallyは「時間や過程の末に自然とそうなる」ニュアンス、finallyは「待ち望んだ結果や強調したい結末」に使われます。
 
@@ -105,14 +105,14 @@ eventuallyは「時間や過程の末に自然とそうなる」ニュアンス�
 
 ## 🧩 あわせて覚えたい
 
-- [ultimately](/ultimately)：究極的には、最終的に
-- [gradually](/gradually)：徐々に、だんだんと
+- [ultimately](/word/ultimately)：究極的には、最終的に
+- [gradually](/word/gradually)：徐々に、だんだんと
 
 ---
 
 ## 📖 できればこれも
 
-- [recently](/recently)：最近
-- [immediately](/immediately)：すぐに、直ちに
+- [recently](/word/recently)：最近
+- [immediately](/word/immediately)：すぐに、直ちに
 
 <!-- cvid: aid28_bid19 -->

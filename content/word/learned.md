@@ -97,7 +97,7 @@ TOEICでは主に記事やレポート、スピーチ文などのフォーマル
 ## 🤔  knowledgeable との違いは？
 
 - **learned**：学問的で、深い知識や教養があることを強調
-- **[knowledgeable](/knowledgeable)**：幅広い分野についてよく知っていることを強調
+- **[knowledgeable](/word/knowledgeable)**：幅広い分野についてよく知っていることを強調
 
 「learned」は特に学問や研究などアカデミックな知識に強く、「knowledgeable」は実用的・一般的な知識にも使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主に記事やレポート、スピーチ文などのフォーマル
 
 ## 🧩 あわせて覚えたい
 
-- [scholarly](/scholarly)：学問的な、学者らしい
-- [educated](/educated)：教育を受けた、教養のある
+- [scholarly](/word/scholarly)：学問的な、学者らしい
+- [educated](/word/educated)：教育を受けた、教養のある
 
 ---
 
 ## 📖 できればこれも
 
-- [academic](/academic)：学問の、大学の
-- [intelligent](/intelligent)：知的な、頭の良い
+- [academic](/word/academic)：学問の、大学の
+- [intelligent](/word/intelligent)：知的な、頭の良い
 
 <!-- cvid: aid30_bid46 -->

@@ -97,7 +97,7 @@ sipはカフェやレストラン、日常の会話シーンを扱う問題で�
 ## 🤔  gulp との違いは？
 
 - **sip**：少しずつ、ゆっくりと飲む
-- **[gulp](/gulp)**：一気にごくごく飲む
+- **[gulp](/word/gulp)**：一気にごくごく飲む
 
 sipは味わいながら飲むイメージ、gulpは急いで大量に飲むイメージです。場面によって使い分けましょう。
 
@@ -105,14 +105,14 @@ sipは味わいながら飲むイメージ、gulpは急いで大量に飲むイ�
 
 ## 🧩 あわせて覚えたい
 
-- [taste](/taste)：味わう
-- [swallow](/swallow)：飲み込む
+- [taste](/word/taste)：味わう
+- [swallow](/word/swallow)：飲み込む
 
 ---
 
 ## 📖 できればこれも
 
-- [chew](/chew)：かむ
-- [bite](/bite)：かじる
+- [chew](/word/chew)：かむ
+- [bite](/word/bite)：かじる
 
 <!-- cvid: aid07_bid19 -->

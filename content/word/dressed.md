@@ -98,7 +98,7 @@ TOEICのPart 1（写真描写）で「服を着ている」「制服を着てい
 ## 🤔  clothed との違いは？
 
 - **dressed**：服を着ている状態や、特定の服装をしていることを表す。
-- **[clothed](/clothed)**：単に「衣服を身につけている」ことを強調し、ややフォーマル。
+- **[clothed](/word/clothed)**：単に「衣服を身につけている」ことを強調し、ややフォーマル。
 
 「dressed」は日常的な服装や特定のスタイルに使われ、「clothed」は衣服を着ているかどうか自体を強調する時に使います。
 
@@ -106,14 +106,14 @@ TOEICのPart 1（写真描写）で「服を着ている」「制服を着てい
 
 ## 🧩 あわせて覚えたい
 
-- [casual](/casual)：カジュアルな、普段着の
-- [formal](/formal)：フォーマルな、正式な
+- [casual](/word/casual)：カジュアルな、普段着の
+- [formal](/word/formal)：フォーマルな、正式な
 
 ---
 
 ## 📖 できればこれも
 
-- [wear](/wear)：着る、身につける
-- [attire](/attire)：服装、装い
+- [wear](/word/wear)：着る、身につける
+- [attire](/word/attire)：服装、装い
 
 <!-- cvid: aid28_bid22 -->

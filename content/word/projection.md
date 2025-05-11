@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や会議資料、報告書などで「予測
 ## 🤔  forecast との違いは？
 
 - **projection**：データや根拠に基づいた公式な予測・見積もり
-- **[forecast](/forecast)**：天気や売上などの「予報」「予想」全般
+- **[forecast](/word/forecast)**：天気や売上などの「予報」「予想」全般
 
 projectionは特にビジネスや公式な場面で使われ、forecastは日常的な予想や天気予報など幅広く使われます。
 
@@ -105,14 +105,14 @@ projectionは特にビジネスや公式な場面で使われ、forecastは日�
 
 ## 🧩 あわせて覚えたい
 
-- [estimate](/estimate)：見積もり、概算
-- [prediction](/prediction)：予言、予測
+- [estimate](/word/estimate)：見積もり、概算
+- [prediction](/word/prediction)：予言、予測
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/analysis)：分析
-- [assumption](/assumption)：仮定
+- [analysis](/word/analysis)：分析
+- [assumption](/word/assumption)：仮定
 
 <!-- cvid: aid33_bid26 -->

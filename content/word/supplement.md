@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や案内文の補足資料、健康や栄養に
 ## 🤔  complement との違いは？
 
 - **supplement**：足りない部分を「補う」ために追加するもの
-- **[complement](/complement)**：何かを「完全にする」「引き立てる」ために組み合わせるもの
+- **[complement](/word/complement)**：何かを「完全にする」「引き立てる」ために組み合わせるもの
 
 supplementは不足を埋めるニュアンス、complementは相性よく組み合わせて全体を引き立てるニュアンスです。
 
@@ -105,14 +105,14 @@ supplementは不足を埋めるニュアンス、complementは相性よく組み
 
 ## 🧩 あわせて覚えたい
 
-- [addition](/addition)：追加、加えること
-- [substitute](/substitute)：代用品、代わりのもの
+- [addition](/word/addition)：追加、加えること
+- [substitute](/word/substitute)：代用品、代わりのもの
 
 ---
 
 ## 📖 できればこれも
 
-- [summary](/summary)：要約
-- [manual](/manual)：手引き、マニュアル
+- [summary](/word/summary)：要約
+- [manual](/word/manual)：手引き、マニュアル
 
 <!-- cvid: aid07_bid32 -->

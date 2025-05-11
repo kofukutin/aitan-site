@@ -97,7 +97,7 @@ TOEICでは、会議やビジネスシーンで「情報を伝える」「意図
 ## 🤔  communicate との違いは？
 
 - **convey**：考えや感情、情報などを「伝える」「運ぶ」。ややフォーマルで、間接的な伝達やニュアンスを含む場合に使われやすい。
-- **[communicate](/communicate)**：情報や気持ちを「伝達する」「意思疎通する」。より広く一般的に使われ、双方向のやりとりも含む。
+- **[communicate](/word/communicate)**：情報や気持ちを「伝達する」「意思疎通する」。より広く一般的に使われ、双方向のやりとりも含む。
 
 conveyは「運ぶ・伝える」動作自体に焦点があり、communicateは「意思疎通」や「相互理解」に重きがあります。
 
@@ -105,14 +105,14 @@ conveyは「運ぶ・伝える」動作自体に焦点があり、communicateは
 
 ## 🧩 あわせて覚えたい
 
-- [transfer](/transfer)：移す、転送する
-- [express](/express)：表現する、述べる
+- [transfer](/word/transfer)：移す、転送する
+- [express](/word/express)：表現する、述べる
 
 ---
 
 ## 📖 できればこれも
 
-- [deliver](/deliver)：届ける、配達する
-- [inform](/inform)：知らせる、通知する
+- [deliver](/word/deliver)：届ける、配達する
+- [inform](/word/inform)：知らせる、通知する
 
 <!-- cvid: aid14_bid35 -->

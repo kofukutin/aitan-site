@@ -97,7 +97,7 @@ TOEICでは、記事や広告、インタビュー文などで「有名人」や
 ## 🤔  famous との違いは？
 
 - **celebrity**：有名人そのもの、特定の人物を指す
-- **[famous](/famous)**：有名な（形容詞）、人や物・事柄にも使える
+- **[famous](/word/famous)**：有名な（形容詞）、人や物・事柄にも使える
 
 celebrityは「有名な人」という名詞、famousは「有名な」という形容詞で、celebrityは人限定、famousは人・物・事柄すべてに使えます。
 
@@ -105,14 +105,14 @@ celebrityは「有名な人」という名詞、famousは「有名な」とい�
 
 ## 🧩 あわせて覚えたい
 
-- [star](/star)：スター、人気者
-- [notable](/notable)：著名な人、注目すべき人
+- [star](/word/star)：スター、人気者
+- [notable](/word/notable)：著名な人、注目すべき人
 
 ---
 
 ## 📖 できればこれも
 
-- [event](/event)：イベント、出来事
-- [public](/public)：公衆、一般の人々
+- [event](/word/event)：イベント、出来事
+- [public](/word/public)：公衆、一般の人々
 
 <!-- cvid: aid46_bid24 -->

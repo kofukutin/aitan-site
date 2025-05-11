@@ -97,7 +97,7 @@ TOEICでは、ITやオフィスの設備説明、修理や設置に関する会�
 ## 🤔  cable との違いは？
 
 - **wire**：金属製の細い線や電線を指し、単線や細いものにも使う。
-- **[cable](/cable)**：複数のwireを束ねた太いケーブルや、より大きな電線を指す。
+- **[cable](/word/cable)**：複数のwireを束ねた太いケーブルや、より大きな電線を指す。
 
 wireは細い単線や単純な電線、cableは複数のwireをまとめた太い線や複雑な配線に使われます。
 
@@ -105,14 +105,14 @@ wireは細い単線や単純な電線、cableは複数のwireをまとめた太�
 
 ## 🧩 あわせて覚えたい
 
-- [cord](/cord)：（電気）コード、ひも
-- [thread](/thread)：糸、細い線
+- [cord](/word/cord)：（電気）コード、ひも
+- [thread](/word/thread)：糸、細い線
 
 ---
 
 ## 📖 できればこれも
 
-- [plug](/plug)：プラグ、差し込み口
-- [device](/device)：装置、機器
+- [plug](/word/plug)：プラグ、差し込み口
+- [device](/word/device)：装置、機器
 
 <!-- cvid: aid31_bid09 -->

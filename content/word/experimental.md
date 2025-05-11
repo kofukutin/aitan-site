@@ -97,7 +97,7 @@ TOEICでは、科学や技術、ビジネスの説明文や記事で「experimen
 ## 🤔  trial との違いは？
 
 - **experimental**：実験や試験的な性質を持つ、まだ確立されていないものに使う
-- **[trial](/trial)**：試みや試用、裁判など「試すこと」自体やその期間を指す
+- **[trial](/word/trial)**：試みや試用、裁判など「試すこと」自体やその期間を指す
 
 experimentalは「実験的な性質」や「新しい方法を試す」ことに重点があり、trialは「試す行為」や「試用期間」など具体的な試み自体を指します。
 
@@ -105,14 +105,14 @@ experimentalは「実験的な性質」や「新しい方法を試す」こと�
 
 ## 🧩 あわせて覚えたい
 
-- [theoretical](/theoretical)：理論的な
-- [innovative](/innovative)：革新的な
+- [theoretical](/word/theoretical)：理論的な
+- [innovative](/word/innovative)：革新的な
 
 ---
 
 ## 📖 できればこれも
 
-- [hypothesis](/hypothesis)：仮説
-- [method](/method)：方法
+- [hypothesis](/word/hypothesis)：仮説
+- [method](/word/method)：方法
 
 <!-- cvid: aid47_bid40 -->

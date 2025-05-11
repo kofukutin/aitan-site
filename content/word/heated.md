@@ -97,7 +97,7 @@ heatedは、会議や議論の場面で感情が高ぶる様子を表す語と�
 ## 🤔  intense との違いは？
 
 - **heated**：感情や議論が「白熱した」「激しい」状態を表す。特に怒りや対立が伴う場面で使う。
-- **[intense](/intense)**：感情や活動などが「非常に強い」「極度の」状態を幅広く表す。
+- **[intense](/word/intense)**：感情や活動などが「非常に強い」「極度の」状態を幅広く表す。
 
 heatedは主に議論や感情の高ぶりに使い、intenseは状況や感情の強さ全般に使います。
 
@@ -105,14 +105,14 @@ heatedは主に議論や感情の高ぶりに使い、intenseは状況や感情�
 
 ## 🧩 あわせて覚えたい
 
-- [calm](/calm)：落ち着いた、冷静な
-- [argument](/argument)：議論、口論
+- [calm](/word/calm)：落ち着いた、冷静な
+- [argument](/word/argument)：議論、口論
 
 ---
 
 ## 📖 できればこれも
 
-- [serious](/serious)：深刻な、真剣な
-- [passionate](/passionate)：情熱的な
+- [serious](/word/serious)：深刻な、真剣な
+- [passionate](/word/passionate)：情熱的な
 
 <!-- cvid: aid49_bid48 -->

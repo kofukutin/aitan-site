@@ -97,7 +97,7 @@ TOEICでは旅行やビジネスの繁忙期、イベントの時期などを表
 ## 🤔  period との違いは？
 
 - **season**：自然の「季節」や、特定の活動が盛んな「時期」を表す
-- **[period](/period)**：始まりと終わりのある「期間」全般を表す
+- **[period](/word/period)**：始まりと終わりのある「期間」全般を表す
 
 seasonは春夏秋冬やイベントの「シーズン」など、繰り返し訪れる時期に使い、periodは特定の長さの「期間」全般に使います。
 
@@ -105,14 +105,14 @@ seasonは春夏秋冬やイベントの「シーズン」など、繰り返し�
 
 ## 🧩 あわせて覚えたい
 
-- [term](/term)：（一定の）期間、学期
-- [occasion](/occasion)：特別な時、出来事
+- [term](/word/term)：（一定の）期間、学期
+- [occasion](/word/occasion)：特別な時、出来事
 
 ---
 
 ## 📖 できればこれも
 
-- [weather](/weather)：天気
-- [event](/event)：出来事、イベント
+- [weather](/word/weather)：天気
+- [event](/word/event)：出来事、イベント
 
 <!-- cvid: aid36_bid23 -->

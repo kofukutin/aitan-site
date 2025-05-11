@@ -97,7 +97,7 @@ TOEICでは「the whole team（チーム全体）」や「the whole process（�
 ## 🤔  entire との違いは？
 
 - **whole**：日常的に「全体の」「まるごと」の意味で使い、やや口語的。
-- **[entire](/entire)**：よりフォーマルで「完全に全部」「一つ残らず」のニュアンスが強い。
+- **[entire](/word/entire)**：よりフォーマルで「完全に全部」「一つ残らず」のニュアンスが強い。
 
 wholeは会話やカジュアルな文脈でよく使われ、entireは書き言葉や強調したいときに使われます。
 
@@ -105,14 +105,14 @@ wholeは会話やカジュアルな文脈でよく使われ、entireは書き言
 
 ## 🧩 あわせて覚えたい
 
-- [partial](/partial)：部分的な
-- [complete](/complete)：完全な
+- [partial](/word/partial)：部分的な
+- [complete](/word/complete)：完全な
 
 ---
 
 ## 📖 できればこれも
 
-- [total](/total)：合計の、全体の
-- [full](/full)：いっぱいの、満ちた
+- [total](/word/total)：合計の、全体の
+- [full](/word/full)：いっぱいの、満ちた
 
 <!-- cvid: aid19_bid48 -->

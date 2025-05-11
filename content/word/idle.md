@@ -97,7 +97,7 @@ TOEICでは「機械が使われていない」「従業員が手持ち無沙汰
 ## 🤔  lazy との違いは？
 
 - **idle**：何もしていない、使われていない状態（人・物・時間すべてに使える）
-- **[lazy](/lazy)**：怠け者、やる気がない（主に人の性格や態度に使う）
+- **[lazy](/word/lazy)**：怠け者、やる気がない（主に人の性格や態度に使う）
 
 idleは「活動していない状態」を客観的に表し、lazyは「やる気がなくて怠けている」という否定的な性格や態度を指します。
 
@@ -105,14 +105,14 @@ idleは「活動していない状態」を客観的に表し、lazyは「やる
 
 ## 🧩 あわせて覚えたい
 
-- [active](/active)：活動的な、能動的な
-- [vacant](/vacant)：空いている、使用されていない
+- [active](/word/active)：活動的な、能動的な
+- [vacant](/word/vacant)：空いている、使用されていない
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/efficient)：効率的な
-- [productive](/productive)：生産的な
+- [efficient](/word/efficient)：効率的な
+- [productive](/word/productive)：生産的な
 
 <!-- cvid: aid21_bid44 -->

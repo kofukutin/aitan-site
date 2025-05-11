@@ -97,7 +97,7 @@ panicは、トラブルや緊急事態の会話で登場することがあり、
 ## 🤔  fear との違いは？
 
 - **panic**：突然の強い恐怖や混乱で、理性を失うような状態
-- **[fear](/fear)**：一般的な恐れや不安、持続的な感情
+- **[fear](/word/fear)**：一般的な恐れや不安、持続的な感情
 
 panicは突発的で制御できない恐怖、fearは広く一般的な恐れや不安を指します。
 
@@ -105,14 +105,14 @@ panicは突発的で制御できない恐怖、fearは広く一般的な恐れ�
 
 ## 🧩 あわせて覚えたい
 
-- [calm](/calm)：落ち着き、冷静
-- [anxiety](/anxiety)：不安、心配
+- [calm](/word/calm)：落ち着き、冷静
+- [anxiety](/word/anxiety)：不安、心配
 
 ---
 
 ## 📖 できればこれも
 
-- [stress](/stress)：ストレス、緊張
-- [worry](/worry)：心配、気がかり
+- [stress](/word/stress)：ストレス、緊張
+- [worry](/word/worry)：心配、気がかり
 
 <!-- cvid: aid45_bid01 -->

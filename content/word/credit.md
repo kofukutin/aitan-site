@@ -97,7 +97,7 @@ TOEICでは、銀行やビジネスの文脈で「信用」「預金」「クレ
 ## 🤔  trust との違いは？
 
 - **credit**：主に経済的な「信用」や「功績」の意味で使われる。
-- **[trust](/trust)**：人や組織への「信頼」や「信じる気持ち」を表す。
+- **[trust](/word/trust)**：人や組織への「信頼」や「信じる気持ち」を表す。
 
 creditはビジネスや金融の場面で使われることが多く、trustは人間関係や感情的な信頼に使われます。
 
@@ -105,13 +105,13 @@ creditはビジネスや金融の場面で使われることが多く、trustは
 
 ## 🧩 あわせて覚えたい
 
-- [debt](/debt)：借金、負債
-- [reputation](/reputation)：評判、名声
+- [debt](/word/debt)：借金、負債
+- [reputation](/word/reputation)：評判、名声
 
 ---
 
 ## 📖 できればこれも
 
-- [loan](/loan)：ローン、貸付
-- [account](/account)：口座、勘定
+- [loan](/word/loan)：ローン、貸付
+- [account](/word/account)：口座、勘定
 <!-- cvid: aid40_bid33 -->

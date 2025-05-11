@@ -97,7 +97,7 @@ TOEICではホテルやイベント会場の案内、会議やパーティーの
 ## 🤔  hall との違いは？
 
 - **ballroom**：舞踏会やダンスイベント用の広い部屋・ホール
-- **[hall](/hall)**：一般的な広間、会議室、講堂など幅広い用途の部屋
+- **[hall](/word/hall)**：一般的な広間、会議室、講堂など幅広い用途の部屋
 
 ballroomは特にダンスや舞踏会向けの豪華な部屋を指し、hallはより汎用的な広い部屋や建物の一部を指します。
 
@@ -105,14 +105,14 @@ ballroomは特にダンスや舞踏会向けの豪華な部屋を指し、hall�
 
 ## 🧩 あわせて覚えたい
 
-- [auditorium](/auditorium)：講堂、観客席付きの大ホール
-- [banquet_room](/banquet_room)：宴会場
+- [auditorium](/word/auditorium)：講堂、観客席付きの大ホール
+- [banquet_room](/word/banquet_room)：宴会場
 
 ---
 
 ## 📖 できればこれも
 
-- [stage](/stage)：舞台
-- [venue](/venue)：会場、開催地
+- [stage](/word/stage)：舞台
+- [venue](/word/venue)：会場、開催地
 
 <!-- cvid: aid43_bid36 -->

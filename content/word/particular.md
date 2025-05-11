@@ -97,7 +97,7 @@ TOEICでは「特定の」「こだわりのある」という意味で、選択
 ## 🤔  specific との違いは？
 
 - **particular**：全体の中から「特定のもの」「細かく区別されたもの」を強調する
-- **[specific](/specific)**：明確に限定された「具体的なもの」を指す
+- **[specific](/word/specific)**：明確に限定された「具体的なもの」を指す
 
 particularは「他と区別される特別なもの」に焦点があり、specificは「はっきり限定されたもの」に使います。
 
@@ -105,14 +105,14 @@ particularは「他と区別される特別なもの」に焦点があり、spec
 
 ## 🧩 あわせて覚えたい
 
-- [general](/general)：一般的な、全体的な
-- [detail](/detail)：詳細、細部
+- [general](/word/general)：一般的な、全体的な
+- [detail](/word/detail)：詳細、細部
 
 ---
 
 ## 📖 できればこれも
 
-- [certain](/certain)：ある特定の、確かな
-- [individual](/individual)：個々の、個人の
+- [certain](/word/certain)：ある特定の、確かな
+- [individual](/word/individual)：個々の、個人の
 
 <!-- cvid: aid00_bid31 -->

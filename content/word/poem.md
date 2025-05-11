@@ -97,7 +97,7 @@ TOEICでは、文学や文化に関する長文や記事の中で「poem」が�
 ## 🤔  poetry との違いは？
 
 - **poem**：1つ1つの「詩」や作品を指す
-- **[poetry](/poetry)**：詩という文学ジャンル全体や詩作そのものを指す
+- **[poetry](/word/poetry)**：詩という文学ジャンル全体や詩作そのものを指す
 
 poemは個別の作品、poetryはジャンルや詩全体を表します。
 
@@ -105,14 +105,14 @@ poemは個別の作品、poetryはジャンルや詩全体を表します。
 
 ## 🧩 あわせて覚えたい
 
-- [verse](/verse)：詩の一節、韻文
-- [prose](/prose)：散文、普通の文章
+- [verse](/word/verse)：詩の一節、韻文
+- [prose](/word/prose)：散文、普通の文章
 
 ---
 
 ## 📖 できればこれも
 
-- [story](/story)：物語
-- [novel](/novel)：小説
+- [story](/word/story)：物語
+- [novel](/word/novel)：小説
 
 <!-- cvid: aid48_bid42 -->

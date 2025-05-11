@@ -97,7 +97,7 @@ TOEICでは形容詞として「古い」「以前の」という意味で、比
 ## 🤔  ancient との違いは？
 
 - **old**：単に「古い」「年をとった」という意味で、日常的な物や人にも使える。
-- **[ancient](/ancient)**：非常に古い、歴史的に古代のものに使う。
+- **[ancient](/word/ancient)**：非常に古い、歴史的に古代のものに使う。
 
 **old**は一般的な「古さ」を表し、**ancient**は「太古」「歴史的に非常に古い」ものに限定して使います。
 
@@ -105,14 +105,14 @@ TOEICでは形容詞として「古い」「以前の」という意味で、比
 
 ## 🧩 あわせて覚えたい
 
-- [new](/new)：新しい
-- [former](/former)：以前の、前の
+- [new](/word/new)：新しい
+- [former](/word/former)：以前の、前の
 
 ---
 
 ## 📖 できればこれも
 
-- [young](/young)：若い
-- [recent](/recent)：最近の
+- [young](/word/young)：若い
+- [recent](/word/recent)：最近の
 
 <!-- cvid: aid18_bid07 -->

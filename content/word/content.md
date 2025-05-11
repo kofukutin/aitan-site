@@ -97,7 +97,7 @@ TOEICでは主にメールや記事、報告書などの長文中で「内容」
 ## 🤔  ingredient との違いは？
 
 - **content**：全体の「内容」や「中身」を指す
-- **[ingredient](/ingredient)**：料理や製品の「成分」「材料」を指す
+- **[ingredient](/word/ingredient)**：料理や製品の「成分」「材料」を指す
 
 contentは情報やデータの「中身」に、ingredientは食品や製品の「構成要素」に使います。
 
@@ -105,14 +105,14 @@ contentは情報やデータの「中身」に、ingredientは食品や製品の
 
 ## 🧩 あわせて覚えたい
 
-- [subject](/subject)：主題、テーマ
-- [summary](/summary)：要約、概要
+- [subject](/word/subject)：主題、テーマ
+- [summary](/word/summary)：要約、概要
 
 ---
 
 ## 📖 できればこれも
 
-- [detail](/detail)：詳細
-- [topic](/topic)：話題、トピック
+- [detail](/word/detail)：詳細
+- [topic](/word/topic)：話題、トピック
 
 <!-- cvid: aid18_bid35 -->

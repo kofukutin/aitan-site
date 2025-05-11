@@ -98,7 +98,7 @@ TOEICでは、事故やトラブル、緊急対応の会話や説明文で「res
 ## 🤔  save との違いは？
 
 - **rescue**：危険や困難な状況から直接的に救い出すことを強調
-- **[save](/save)**：広く「救う」「守る」意味で使え、物理的な救助以外にも適用
+- **[save](/word/save)**：広く「救う」「守る」意味で使え、物理的な救助以外にも適用
 
 rescueは緊急性や直接的な救出を表し、saveはより幅広い「救う」や「守る」場面で使われます。
 
@@ -106,14 +106,14 @@ rescueは緊急性や直接的な救出を表し、saveはより幅広い「救�
 
 ## 🧩 あわせて覚えたい
 
-- [recover](/recover)：回復する、取り戻す
-- [assist](/assist)：手伝う、援助する
+- [recover](/word/recover)：回復する、取り戻す
+- [assist](/word/assist)：手伝う、援助する
 
 ---
 
 ## 📖 できればこれも
 
-- [protect](/protect)：守る、防御する
-- [support](/support)：支える、支援する
+- [protect](/word/protect)：守る、防御する
+- [support](/word/support)：支える、支援する
 
 <!-- cvid: aid12_bid03 -->

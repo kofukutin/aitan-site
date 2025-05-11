@@ -97,7 +97,7 @@ TOEICではITや日常会話の場面で、動詞として使われることが�
 ## 🤔  search との違いは？
 
 - **google**：Google検索エンジンを使って調べることを指すカジュアルな表現
-- **[search](/search)**：一般的に「探す」「検索する」という意味で、よりフォーマルにも使える
+- **[search](/word/search)**：一般的に「探す」「検索する」という意味で、よりフォーマルにも使える
 
 「google」はGoogleを使う場合限定でカジュアル、「search」は幅広い場面で使えます。
 
@@ -105,14 +105,14 @@ TOEICではITや日常会話の場面で、動詞として使われることが�
 
 ## 🧩 あわせて覚えたい
 
-- [browse](/browse)：（ウェブサイトなどを）閲覧する
-- [look up](/look_up)：（辞書や資料で）調べる
+- [browse](/word/browse)：（ウェブサイトなどを）閲覧する
+- [look up](/word/look_up)：（辞書や資料で）調べる
 
 ---
 
 ## 📖 できればこれも
 
-- [download](/download)：ダウンロードする
-- [install](/install)：インストールする
+- [download](/word/download)：ダウンロードする
+- [install](/word/install)：インストールする
 
 <!-- cvid: aid18_bid26 -->

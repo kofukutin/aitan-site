@@ -97,7 +97,7 @@ TOEICでは、観光地の説明や歴史的な話題、または物や情報が
 ## 🤔  hidden との違いは？
 
 - **buried**：物理的に何かの下に埋められて見えなくなっている状態
-- **[hidden](/hidden)**：見えないように隠されている状態（物理的・抽象的どちらも可）
+- **[hidden](/word/hidden)**：見えないように隠されている状態（物理的・抽象的どちらも可）
 
 buriedは「土や物の下に埋まっている」など物理的なニュアンスが強く、hiddenは「隠されている」全般に使えます。
 
@@ -105,14 +105,14 @@ buriedは「土や物の下に埋まっている」など物理的なニュア�
 
 ## 🧩 あわせて覚えたい
 
-- [covered](/covered)：覆われた
-- [concealed](/concealed)：隠された
+- [covered](/word/covered)：覆われた
+- [concealed](/word/concealed)：隠された
 
 ---
 
 ## 📖 できればこれも
 
-- [located](/located)：位置している
-- [discovered](/discovered)：発見された
+- [located](/word/located)：位置している
+- [discovered](/word/discovered)：発見された
 
 <!-- cvid: aid27_bid22 -->

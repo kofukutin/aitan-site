@@ -97,7 +97,7 @@ TOEICでは「商品を返す」「電話をかけ直す」など、日常的な
 ## 🤔  refund との違いは？
 
 - **return**：物や人を元の場所に戻す、返却する
-- **[refund](/refund)**：支払ったお金を返金する
+- **[refund](/word/refund)**：支払ったお金を返金する
 
 「return」は物や人を元に戻すこと、「refund」はお金を返すことに使います。返却と返金で使い分けましょう。
 
@@ -105,14 +105,14 @@ TOEICでは「商品を返す」「電話をかけ直す」など、日常的な
 
 ## 🧩 あわせて覚えたい
 
-- [exchange](/exchange)：交換する
-- [send](/send)：送る
+- [exchange](/word/exchange)：交換する
+- [send](/word/send)：送る
 
 ---
 
 ## 📖 できればこれも
 
-- [receive](/receive)：受け取る
-- [deliver](/deliver)：配達する
+- [receive](/word/receive)：受け取る
+- [deliver](/word/deliver)：配達する
 
 <!-- cvid: aid15_bid39 -->

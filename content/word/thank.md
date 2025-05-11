@@ -97,7 +97,7 @@ thankはTOEICのリスニング（特にPart 2）で、感謝や返答の表現�
 ## 🤔  appreciate との違いは？
 
 - **thank**：相手に直接「ありがとう」と伝える動詞
-- **[appreciate](/appreciate)**：物事や行為に対して「ありがたく思う」「感謝する」と丁寧に表現する動詞
+- **[appreciate](/word/appreciate)**：物事や行為に対して「ありがたく思う」「感謝する」と丁寧に表現する動詞
 
 thankはカジュアルで直接的、appreciateはフォーマルで丁寧なニュアンスがあります。
 
@@ -105,14 +105,14 @@ thankはカジュアルで直接的、appreciateはフォーマルで丁寧な�
 
 ## 🧩 あわせて覚えたい
 
-- [praise](/praise)：称賛する
-- [congratulate](/congratulate)：祝う
+- [praise](/word/praise)：称賛する
+- [congratulate](/word/congratulate)：祝う
 
 ---
 
 ## 📖 できればこれも
 
-- [invite](/invite)：招待する
-- [greet](/greet)：挨拶する
+- [invite](/word/invite)：招待する
+- [greet](/word/greet)：挨拶する
 
 <!-- cvid: aid04_bid43 -->

@@ -97,7 +97,7 @@ TOEICでは、展示会や広告、文化イベントなどの文脈でartistが
 ## 🤔  designer との違いは？
 
 - **artist**：芸術的な作品を創作する人全般を指し、絵画や彫刻、音楽など幅広い分野に使われます。
-- **[designer](/designer)**：主にファッションやグラフィック、インテリアなど、実用的なデザインを手がける人を指します。
+- **[designer](/word/designer)**：主にファッションやグラフィック、インテリアなど、実用的なデザインを手がける人を指します。
 
 artistは芸術性や創造性を重視する職業全般、designerは機能性や実用性を重視したデザイン分野の専門家に使われます。
 
@@ -105,14 +105,14 @@ artistは芸術性や創造性を重視する職業全般、designerは機能性
 
 ## 🧩 あわせて覚えたい
 
-- [painter](/painter)：画家
-- [sculptor](/sculptor)：彫刻家
+- [painter](/word/painter)：画家
+- [sculptor](/word/sculptor)：彫刻家
 
 ---
 
 ## 📖 できればこれも
 
-- [musician](/musician)：音楽家
-- [writer](/writer)：作家
+- [musician](/word/musician)：音楽家
+- [writer](/word/writer)：作家
 
 <!-- cvid: aid38_bid40 -->

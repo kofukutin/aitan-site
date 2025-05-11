@@ -97,7 +97,7 @@ TOEICでは科学技術や宇宙開発に関する話題で登場することが
 ## 🤔  missile との違いは？
 
 - **rocket**：宇宙開発や科学用途の推進装置付きの乗り物や装置を指す。
-- **[missile](/missile)**：主に軍事目的で使われる誘導ミサイルを指す。
+- **[missile](/word/missile)**：主に軍事目的で使われる誘導ミサイルを指す。
 
 rocketは宇宙や科学の文脈で使われ、missileは兵器や軍事の文脈で使われます。
 
@@ -105,14 +105,14 @@ rocketは宇宙や科学の文脈で使われ、missileは兵器や軍事の文�
 
 ## 🧩 あわせて覚えたい
 
-- [satellite](/satellite)：人工衛星
-- [launch](/launch)：打ち上げる
+- [satellite](/word/satellite)：人工衛星
+- [launch](/word/launch)：打ち上げる
 
 ---
 
 ## 📖 できればこれも
 
-- [engine](/engine)：エンジン
-- [space](/space)：宇宙
+- [engine](/word/engine)：エンジン
+- [space](/word/space)：宇宙
 
 <!-- cvid: aid37_bid32 -->

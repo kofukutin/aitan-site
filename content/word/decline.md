@@ -97,7 +97,7 @@ declineはTOEICの長文読解パートで、売上や業績の減少、また�
 ## 🤔  decrease との違いは？
 
 - **decline**：数量や価値が徐々に減る、または丁寧に断るときに使うフォーマルな表現
-- **[decrease](/decrease)**：単純に「減る・減らす」という意味で、日常的にも使われる
+- **[decrease](/word/decrease)**：単純に「減る・減らす」という意味で、日常的にも使われる
 
 declineはフォーマルな場面や書き言葉で使われやすく、decreaseはより一般的で幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ declineはフォーマルな場面や書き言葉で使われやすく、decreas
 
 ## 🧩 あわせて覚えたい
 
-- [reject](/reject)：拒否する、却下する
-- [refuse](/refuse)：断る、拒む
+- [reject](/word/reject)：拒否する、却下する
+- [refuse](/word/refuse)：断る、拒む
 
 ---
 
 ## 📖 できればこれも
 
-- [reduce](/reduce)：減らす
-- [accept](/accept)：受け入れる
+- [reduce](/word/reduce)：減らす
+- [accept](/word/accept)：受け入れる
 
 <!-- cvid: aid24_bid01 -->

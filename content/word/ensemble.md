@@ -97,7 +97,7 @@ TOEICでは、コンサートやイベントの案内文、芸術関連の記事
 ## 🤔  group との違いは？
 
 - **ensemble**：音楽や演劇などで調和して活動する少人数のグループや合奏団を指す
-- **[group](/group)**：一般的に人や物の集まり全般を指す
+- **[group](/word/group)**：一般的に人や物の集まり全般を指す
 
 ensembleは特に芸術分野で「まとまり・調和」を強調し、groupはより広い意味で使われます。
 
@@ -105,14 +105,14 @@ ensembleは特に芸術分野で「まとまり・調和」を強調し、group�
 
 ## 🧩 あわせて覚えたい
 
-- [orchestra](/orchestra)：オーケストラ（大規模な管弦楽団）
-- [choir](/choir)：合唱団
+- [orchestra](/word/orchestra)：オーケストラ（大規模な管弦楽団）
+- [choir](/word/choir)：合唱団
 
 ---
 
 ## 📖 できればこれも
 
-- [performance](/performance)：演奏、上演
-- [audience](/audience)：観客、聴衆
+- [performance](/word/performance)：演奏、上演
+- [audience](/word/audience)：観客、聴衆
 
 <!-- cvid: aid42_bid12 -->

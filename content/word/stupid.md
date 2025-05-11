@@ -97,7 +97,7 @@ TOEICでは形容詞の語彙問題や、人物や行動の評価を問う文脈
 ## 🤔  silly との違いは？
 
 - **stupid**：知性や判断力が欠けている、強い否定的な意味。
-- **[silly](/silly)**：子どもっぽい、軽率で浅はかな印象だが、stupidほど強い否定ではない。
+- **[silly](/word/silly)**：子どもっぽい、軽率で浅はかな印象だが、stupidほど強い否定ではない。
 
 **stupid**は相手を強く非難する時に使い、**silly**は冗談や軽い失敗など、やや柔らかいニュアンスで使われます。
 
@@ -105,14 +105,14 @@ TOEICでは形容詞の語彙問題や、人物や行動の評価を問う文脈
 
 ## 🧩 あわせて覚えたい
 
-- [foolish](/foolish)：愚かな、分別のない
-- [clever](/clever)：賢い、頭の良い
+- [foolish](/word/foolish)：愚かな、分別のない
+- [clever](/word/clever)：賢い、頭の良い
 
 ---
 
 ## 📖 できればこれも
 
-- [smart](/smart)：頭の良い、賢い
-- [careless](/careless)：不注意な
+- [smart](/word/smart)：頭の良い、賢い
+- [careless](/word/careless)：不注意な
 
 <!-- cvid: aid03_bid17 -->

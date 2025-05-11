@@ -97,7 +97,7 @@ TOEICでは名詞の語彙問題や、形容詞importantとの使い分けでよ
 ## 🤔  significance との違いは？
 
 - **importance**：一般的な「重要性」や「大切さ」を幅広く表す
-- **[significance](/significance)**：特定の意味や影響の「意義」「意味深さ」を強調
+- **[significance](/word/significance)**：特定の意味や影響の「意義」「意味深さ」を強調
 
 importanceは広く「大切さ」を示し、significanceは「意味合い」や「深い理由」に焦点を当てます。
 
@@ -105,14 +105,14 @@ importanceは広く「大切さ」を示し、significanceは「意味合い」�
 
 ## 🧩 あわせて覚えたい
 
-- [priority](/priority)：優先順位
-- [trivial](/trivial)：ささいな、重要でない
+- [priority](/word/priority)：優先順位
+- [trivial](/word/trivial)：ささいな、重要でない
 
 ---
 
 ## 📖 できればこれも
 
-- [value](/value)：価値
-- [necessity](/necessity)：必要性
+- [value](/word/value)：価値
+- [necessity](/word/necessity)：必要性
 
 <!-- cvid: aid46_bid22 -->

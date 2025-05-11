@@ -97,7 +97,7 @@ TOEICでは、オフィスや工場の設備説明、IT関連の会話で「冷�
 ## 🤔  refrigeration との違いは？
 
 - **cooling**：一般的な「冷却」や「冷やすこと」を広く指す
-- **[refrigeration](/refrigeration)**：特に「冷蔵」や「冷凍」など、より低温で保存するための冷却を指す
+- **[refrigeration](/word/refrigeration)**：特に「冷蔵」や「冷凍」など、より低温で保存するための冷却を指す
 
 coolingは温度を下げる全般に使い、refrigerationは食品や薬品などを保存するための専門的な冷却に使われます。
 
@@ -105,14 +105,14 @@ coolingは温度を下げる全般に使い、refrigerationは食品や薬品な
 
 ## 🧩 あわせて覚えたい
 
-- [heating](/heating)：加熱、暖房
-- [ventilation](/ventilation)：換気
+- [heating](/word/heating)：加熱、暖房
+- [ventilation](/word/ventilation)：換気
 
 ---
 
 ## 📖 できればこれも
 
-- [temperature](/temperature)：温度
-- [system](/system)：システム、仕組み
+- [temperature](/word/temperature)：温度
+- [system](/word/system)：システム、仕組み
 
 <!-- cvid: aid48_bid39 -->

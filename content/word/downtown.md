@@ -97,7 +97,7 @@ TOEICでは、場所や移動に関する会話で「downtown」がよく登場�
 ## 🤔  city center との違いは？
 
 - **downtown**：アメリカ英語で「中心街」「繁華街」を指し、カジュアルな響きがある。
-- **[city center](/city_center)**：イギリス英語で「市の中心部」を意味し、ややフォーマル。
+- **[city center](/word/city_center)**：イギリス英語で「市の中心部」を意味し、ややフォーマル。
 
 「downtown」はアメリカで日常的に使われ、動詞や副詞としても使えるのに対し、「city center」はイギリス英語で主に名詞として使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、場所や移動に関する会話で「downtown」がよく登場�
 
 ## 🧩 あわせて覚えたい
 
-- [suburb](/suburb)：郊外
-- [uptown](/uptown)：高級住宅街、都市の北部
+- [suburb](/word/suburb)：郊外
+- [uptown](/word/uptown)：高級住宅街、都市の北部
 
 ---
 
 ## 📖 できればこれも
 
-- [nearby](/nearby)：近くに
-- [outside](/outside)：外で、外に
+- [nearby](/word/nearby)：近くに
+- [outside](/word/outside)：外で、外に
 
 <!-- cvid: aid16_bid40 -->

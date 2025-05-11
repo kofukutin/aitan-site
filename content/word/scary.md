@@ -97,7 +97,7 @@ TOEICでは会話や説明文の中で、感情や印象を述べる場面で出
 ## 🤔  frightening との違いは？
 
 - **scary**：カジュアルで日常的な「怖い」「びっくりするほど怖い」
-- **[frightening](/frightening)**：より強い恐怖やショックを与える「恐ろしい」
+- **[frightening](/word/frightening)**：より強い恐怖やショックを与える「恐ろしい」
 
 scaryは日常会話でよく使われる軽めの「怖い」、frighteningはより深刻で強い恐怖を表します。
 
@@ -105,14 +105,14 @@ scaryは日常会話でよく使われる軽めの「怖い」、frighteningは�
 
 ## 🧩 あわせて覚えたい
 
-- [afraid](/afraid)：怖がっている、恐れている（形容詞）
-- [creepy](/creepy)：気味が悪い、ぞっとする（形容詞）
+- [afraid](/word/afraid)：怖がっている、恐れている（形容詞）
+- [creepy](/word/creepy)：気味が悪い、ぞっとする（形容詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [brave](/brave)：勇敢な（形容詞）
-- [exciting](/exciting)：わくわくする（形容詞）
+- [brave](/word/brave)：勇敢な（形容詞）
+- [exciting](/word/exciting)：わくわくする（形容詞）
 
 <!-- cvid: aid32_bid09 -->

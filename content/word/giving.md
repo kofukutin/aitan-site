@@ -97,7 +97,7 @@ TOEICでは動詞の時制や分詞、動名詞の使い分けを問う文法問
 ## 🤔  grant との違いは？
 
 - **giving**：一般的に「与える」行為全般を幅広く表す。
-- **[grant](/grant)**：特に「権利・許可・奨学金などを正式に与える」ニュアンス。
+- **[grant](/word/grant)**：特に「権利・許可・奨学金などを正式に与える」ニュアンス。
 
 givingは日常的な「与える」動作全般に使い、grantは公式・特別な許可や権利を与える場合に使います。
 
@@ -105,14 +105,14 @@ givingは日常的な「与える」動作全般に使い、grantは公式・特
 
 ## 🧩 あわせて覚えたい
 
-- [offer](/offer)：申し出る、提供する
-- [provide](/provide)：供給する、提供する
+- [offer](/word/offer)：申し出る、提供する
+- [provide](/word/provide)：供給する、提供する
 
 ---
 
 ## 📖 できればこれも
 
-- [send](/send)：送る
-- [receive](/receive)：受け取る
+- [send](/word/send)：送る
+- [receive](/word/receive)：受け取る
 
 <!-- cvid: aid19_bid12 -->

@@ -93,7 +93,7 @@ TOEICでは条件を表す接続詞としてPart 5の文法問題でよく出題
 ## 🤔  as long as との違いは？
 
 - **provided**：フォーマルで、条件を強調したいときに使う
-- **[as long as](/as_long_as)**：カジュアルで、条件が満たされていればOKというニュアンス
+- **[as long as](/word/as_long_as)**：カジュアルで、条件が満たされていればOKというニュアンス
 
 providedはビジネスや公式な場面で使われやすく、as long asは日常会話でよく使われます。
 
@@ -101,14 +101,14 @@ providedはビジネスや公式な場面で使われやすく、as long asは�
 
 ## 🧩 あわせて覚えたい
 
-- [unless](/unless)：～でない限り
-- [in case](/in_case)：～の場合に備えて
+- [unless](/word/unless)：～でない限り
+- [in case](/word/in_case)：～の場合に備えて
 
 ---
 
 ## 📖 できればこれも
 
-- [suppose](/suppose)：もし～ならばと仮定する
-- [assuming](/assuming)：～と仮定して
+- [suppose](/word/suppose)：もし～ならばと仮定する
+- [assuming](/word/assuming)：～と仮定して
 
 <!-- cvid: aid11_bid02 -->

@@ -97,7 +97,7 @@ TOEICでは、過去分詞形の形容詞として空欄補充や文法問題で
 ## 🤔  overlooked との違いは？
 
 - **forgotten**：意識や記憶から抜け落ちて「忘れられた」状態
-- **[overlooked](/overlooked)**：注意不足や見落としによって「見過ごされた」状態
+- **[overlooked](/word/overlooked)**：注意不足や見落としによって「見過ごされた」状態
 
 「forgotten」は意図せず記憶から消えるニュアンス、「overlooked」は注意不足で気づかれないニュアンスです。
 
@@ -105,14 +105,14 @@ TOEICでは、過去分詞形の形容詞として空欄補充や文法問題で
 
 ## 🧩 あわせて覚えたい
 
-- [remember](/remember)：覚えている、思い出す
-- [ignore](/ignore)：無視する
+- [remember](/word/remember)：覚えている、思い出す
+- [ignore](/word/ignore)：無視する
 
 ---
 
 ## 📖 できればこれも
 
-- [missing](/missing)：行方不明の、欠けている
-- [neglected](/neglected)：放置された、無視された
+- [missing](/word/missing)：行方不明の、欠けている
+- [neglected](/word/neglected)：放置された、無視された
 
 <!-- cvid: aid24_bid41 -->

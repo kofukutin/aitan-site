@@ -97,7 +97,7 @@ TOEICでは「規則」「ルール」という意味で、社内規定や手順
 ## 🤔  regulation との違いは？
 
 - **rule**：一般的な「ルール」や「決まり」を幅広く指す
-- **[regulation](/regulation)**：公式な「規則」や「法令」など、より厳格で制度的なもの
+- **[regulation](/word/regulation)**：公式な「規則」や「法令」など、より厳格で制度的なもの
 
 ruleは日常的な決まりやスポーツのルールなど幅広く使われますが、regulationは法律や組織の正式な規則に使われることが多いです。
 
@@ -105,14 +105,14 @@ ruleは日常的な決まりやスポーツのルールなど幅広く使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [policy](/policy)：方針、政策
-- [law](/law)：法律
+- [policy](/word/policy)：方針、政策
+- [law](/word/law)：法律
 
 ---
 
 ## 📖 できればこれも
 
-- [order](/order)：命令、注文
-- [standard](/standard)：基準、標準
+- [order](/word/order)：命令、注文
+- [standard](/word/standard)：基準、標準
 
 <!-- cvid: aid21_bid03 -->

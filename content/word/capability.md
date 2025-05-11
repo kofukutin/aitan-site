@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や技術的な説明で「能力」「性能
 ## 🤔  ability との違いは？
 
 - **capability**：特定の目的や機能に対する「実行可能な能力」や「性能」を強調
-- **[ability](/ability)**：個人の持つ一般的な「能力」や「才能」を指す
+- **[ability](/word/ability)**：個人の持つ一般的な「能力」や「才能」を指す
 
 capabilityは組織・機械・システムなどの「できること」に焦点を当て、abilityは人の「できる力」や「才能」に使われることが多いです。
 
@@ -105,14 +105,14 @@ capabilityは組織・機械・システムなどの「できること」に焦�
 
 ## 🧩 あわせて覚えたい
 
-- [capacity](/capacity)：収容力、容量
-- [competence](/competence)：適性、力量
+- [capacity](/word/capacity)：収容力、容量
+- [competence](/word/competence)：適性、力量
 
 ---
 
 ## 📖 できればこれも
 
-- [potential](/potential)：潜在能力
-- [function](/function)：機能
+- [potential](/word/potential)：潜在能力
+- [function](/word/function)：機能
 
 <!-- cvid: aid24_bid10 -->

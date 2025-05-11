@@ -97,7 +97,7 @@ TOEICでは数字や数量を問う問題で頻出します。特に金額や人
 ## 🤔  thousand との違いは？
 
 - **hundred**：100や100個、100人などを表す基本的な数詞
-- **[thousand](/thousand)**：1,000や1,000個、1,000人などを表す数詞
+- **[thousand](/word/thousand)**：1,000や1,000個、1,000人などを表す数詞
 
 hundredは「100」、thousandは「1,000」と、表す数が異なります。どちらも数量を表すときに使いますが、規模が違います。
 
@@ -105,15 +105,15 @@ hundredは「100」、thousandは「1,000」と、表す数が異なります。
 
 ## 🧩 あわせて覚えたい
 
-- [dozen](/dozen)：12（ダース）
-- [score](/score)：20（スコア、20個）
+- [dozen](/word/dozen)：12（ダース）
+- [score](/word/score)：20（スコア、20個）
 
 ---
 
 ## 📖 できればこれも
 
-- [dozen](/dozen)：12（ダース）
-- [million](/million)：100万
+- [dozen](/word/dozen)：12（ダース）
+- [million](/word/million)：100万
 
 
 <!-- cvid: aid36_bid13 -->

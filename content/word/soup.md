@@ -96,7 +96,7 @@ TOEICでは主にPart 1の写真描写で、レストランや食事の場面で
 ## 🤔  stew との違いは？
 
 - **soup**：液体が多く、さらっとしたスープ料理
-- **[stew](/stew)**：具材が多く、煮込み料理としてとろみが強い
+- **[stew](/word/stew)**：具材が多く、煮込み料理としてとろみが強い
 
 soupは主に液体部分を楽しむ料理、stewは具材が主役で食べごたえがあります。
 
@@ -104,14 +104,14 @@ soupは主に液体部分を楽しむ料理、stewは具材が主役で食べご
 
 ## 🧩 あわせて覚えたい
 
-- [broth](/broth)：だし汁、薄いスープ
-- [salad](/salad)：サラダ、野菜料理
+- [broth](/word/broth)：だし汁、薄いスープ
+- [salad](/word/salad)：サラダ、野菜料理
 
 ---
 
 ## 📖 できればこれも
 
-- [bread](/bread)：パン
-- [noodle](/noodle)：めん類
+- [bread](/word/bread)：パン
+- [noodle](/word/noodle)：めん類
 
 <!-- cvid: aid42_bid45 -->

@@ -97,7 +97,7 @@ TOEICでは「決議」「決意」「解像度」など複数の意味で出題
 ## 🤔  determination との違いは？
 
 - **resolution**：公式な決議や強い決意、または画像の解像度を表すフォーマルな語。
-- **[determination](/determination)**：困難に負けない「意志の強さ」や「決断力」を表す語。
+- **[determination](/word/determination)**：困難に負けない「意志の強さ」や「決断力」を表す語。
 
 「resolution」は会議や公式な場面での「決議」や「決意」に使われやすく、「determination」は個人の内面的な「意志の強さ」に焦点が当たります。
 
@@ -105,14 +105,14 @@ TOEICでは「決議」「決意」「解像度」など複数の意味で出題
 
 ## 🧩 あわせて覚えたい
 
-- [decision](/decision)：決定、判断
-- [solution](/solution)：解決策
+- [decision](/word/decision)：決定、判断
+- [solution](/word/solution)：解決策
 
 ---
 
 ## 📖 できればこれも
 
-- [proposal](/proposal)：提案
-- [commitment](/commitment)：約束、献身
+- [proposal](/word/proposal)：提案
+- [commitment](/word/commitment)：約束、献身
 
 <!-- cvid: aid04_bid17 -->

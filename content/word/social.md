@@ -98,7 +98,7 @@ TOEICでは、会社のイベントや社会的な活動、福利厚生などの
 ## 🤔  sociable との違いは？
 
 - **social**：社会や集団、交流に関する幅広い意味で使う
-- **[sociable](/sociable)**：人付き合いが好き・社交的な性格を表す
+- **[sociable](/word/sociable)**：人付き合いが好き・社交的な性格を表す
 
 **social**は「社会的な」「交流の場」など広い意味で使い、**sociable**は「人と話すのが好き」という個人の性格に限定されます。
 
@@ -106,14 +106,14 @@ TOEICでは、会社のイベントや社会的な活動、福利厚生などの
 
 ## 🧩 あわせて覚えたい
 
-- [public](/public)：公共の、一般の
-- [community](/community)：共同体、地域社会
+- [public](/word/public)：公共の、一般の
+- [community](/word/community)：共同体、地域社会
 
 ---
 
 ## 📖 できればこれも
 
-- [formal](/formal)：正式な、フォーマルな
-- [cultural](/cultural)：文化の、文化的な
+- [formal](/word/formal)：正式な、フォーマルな
+- [cultural](/word/cultural)：文化の、文化的な
 
 <!-- cvid: aid40_bid42 -->

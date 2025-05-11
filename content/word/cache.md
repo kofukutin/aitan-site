@@ -97,7 +97,7 @@ IT関連やウェブサービスの説明文で「cache」は頻出です。特�
 ## 🤔  storage との違いは？
 
 - **cache**：一時的にデータを素早く取り出すための保存領域
-- **[storage](/storage)**：長期的・恒久的にデータを保存する場所
+- **[storage](/word/storage)**：長期的・恒久的にデータを保存する場所
 
 cacheは「一時的・高速アクセス用」、storageは「恒久的・大容量保存用」と使い分けます。
 
@@ -105,14 +105,14 @@ cacheは「一時的・高速アクセス用」、storageは「恒久的・大�
 
 ## 🧩 あわせて覚えたい
 
-- [memory](/memory)：記憶装置、メモリ
-- [archive](/archive)：保管庫、アーカイブ
+- [memory](/word/memory)：記憶装置、メモリ
+- [archive](/word/archive)：保管庫、アーカイブ
 
 ---
 
 ## 📖 できればこれも
 
-- [backup](/backup)：バックアップ、予備の保存
-- [server](/server)：サーバー、サービスを提供するコンピュータ
+- [backup](/word/backup)：バックアップ、予備の保存
+- [server](/word/server)：サーバー、サービスを提供するコンピュータ
 
 <!-- cvid: aid32_bid28 -->

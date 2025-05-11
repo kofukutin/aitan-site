@@ -99,7 +99,7 @@ TOEICでは会議や業務の進行状況を表す文脈でよく出題されま
 ## 🤔  easily との違いは？
 
 - **smoothly**：問題や障害なく、なめらかに・円滑に進むことを強調
-- **[easily](/easily)**：簡単に、努力せずにできることを強調
+- **[easily](/word/easily)**：簡単に、努力せずにできることを強調
 
 smoothlyは「引っかかりがない」「順調に進む」ことに焦点があり、easilyは「難しくない」「苦労せずできる」ことに焦点があります。
 
@@ -107,14 +107,14 @@ smoothlyは「引っかかりがない」「順調に進む」ことに焦点が
 
 ## 🧩 あわせて覚えたい
 
-- [efficiently](/efficiently)：効率的に
-- [seamlessly](/seamlessly)：途切れなく、シームレスに
+- [efficiently](/word/efficiently)：効率的に
+- [seamlessly](/word/seamlessly)：途切れなく、シームレスに
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/quickly)：速く
-- [carefully](/carefully)：注意深く
+- [quickly](/word/quickly)：速く
+- [carefully](/word/carefully)：注意深く
 
 <!-- cvid: aid09_bid19 -->

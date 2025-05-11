@@ -97,7 +97,7 @@ TOEICでは主にPart 7の説明文や技術系の文章で、複合素材や複
 ## 🤔  compound との違いは？
 
 - **composite**：異なる要素が組み合わさってできた「複合の」「合成の」
-- **[compound](/compound)**：2つ以上の要素が化学的・物理的に結合した「化合物」「複合体」
+- **[compound](/word/compound)**：2つ以上の要素が化学的・物理的に結合した「化合物」「複合体」
 
 compositeは構造や素材など幅広い分野で使われ、compoundは特に化学や薬品などで使われる傾向があります。
 
@@ -105,14 +105,14 @@ compositeは構造や素材など幅広い分野で使われ、compoundは特に
 
 ## 🧩 あわせて覚えたい
 
-- [mixture](/mixture)：混合物
-- [blend](/blend)：混ぜ合わせたもの、ブレンド
+- [mixture](/word/mixture)：混合物
+- [blend](/word/blend)：混ぜ合わせたもの、ブレンド
 
 ---
 
 ## 📖 できればこれも
 
-- [component](/component)：構成要素、部品
-- [structure](/structure)：構造、仕組み
+- [component](/word/component)：構成要素、部品
+- [structure](/word/structure)：構造、仕組み
 
 <!-- cvid: aid31_bid43 -->

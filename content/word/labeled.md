@@ -97,7 +97,7 @@ TOEICでは、書類や商品、サンプルなどの管理や説明に関する
 ## 🤔  tagged との違いは？
 
 - **labeled**：ラベルや説明書きが付いている状態を強調
-- **[tagged](/tagged)**：タグや目印が付けられている状態を強調
+- **[tagged](/word/tagged)**：タグや目印が付けられている状態を強調
 
 「labeled」は内容や情報が明記されたラベルが付いている場合に使い、「tagged」は単なる目印や識別用のタグが付いている場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、書類や商品、サンプルなどの管理や説明に関する
 
 ## 🧩 あわせて覚えたい
 
-- [marked](/marked)：印が付けられた
-- [identified](/identified)：識別された
+- [marked](/word/marked)：印が付けられた
+- [identified](/word/identified)：識別された
 
 ---
 
 ## 📖 できればこれも
 
-- [attached](/attached)：取り付けられた
-- [sealed](/sealed)：封がされた
+- [attached](/word/attached)：取り付けられた
+- [sealed](/word/sealed)：封がされた
 
 <!-- cvid: aid02_bid22 -->

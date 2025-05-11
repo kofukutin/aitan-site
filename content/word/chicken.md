@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、動物や食べ物の説明として
 ## 🤔  hen との違いは？
 
 - **chicken**：鶏全般や鶏肉を指す一般的な言葉
-- **[hen](/hen)**：特に卵を産む雌鶏のみを指す
+- **[hen](/word/hen)**：特に卵を産む雌鶏のみを指す
 
 chickenは鶏全体や鶏肉を広く指しますが、henは雌の鶏だけを意味します。
 
@@ -105,14 +105,14 @@ chickenは鶏全体や鶏肉を広く指しますが、henは雌の鶏だけを�
 
 ## 🧩 あわせて覚えたい
 
-- [rooster](/rooster)：雄鶏
-- [duck](/duck)：アヒル
+- [rooster](/word/rooster)：雄鶏
+- [duck](/word/duck)：アヒル
 
 ---
 
 ## 📖 できればこれも
 
-- [egg](/egg)：卵
-- [meat](/meat)：肉
+- [egg](/word/egg)：卵
+- [meat](/word/meat)：肉
 
 <!-- cvid: aid46_bid24 -->

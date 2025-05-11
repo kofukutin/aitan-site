@@ -97,7 +97,7 @@ TOEICでは主にビジネス文脈や金融用語として出題されること
 ## 🤔  flexible との違いは？
 
 - **convertible**：他の形や用途に「変換できる」ことを強調
-- **[flexible](/flexible)**：柔軟性があり「曲げたり調整できる」ことを強調
+- **[flexible](/word/flexible)**：柔軟性があり「曲げたり調整できる」ことを強調
 
 「convertible」は形や用途が根本的に変わる場合に使い、「flexible」は物理的・抽象的に柔軟であることを表します。
 
@@ -105,14 +105,14 @@ TOEICでは主にビジネス文脈や金融用語として出題されること
 
 ## 🧩 あわせて覚えたい
 
-- [adaptable](/adaptable)：適応できる
-- [irreversible](/irreversible)：元に戻せない、不可逆の
+- [adaptable](/word/adaptable)：適応できる
+- [irreversible](/word/irreversible)：元に戻せない、不可逆の
 
 ---
 
 ## 📖 できればこれも
 
-- [adjustable](/adjustable)：調整できる
-- [reversible](/reversible)：元に戻せる、可逆の
+- [adjustable](/word/adjustable)：調整できる
+- [reversible](/word/reversible)：元に戻せる、可逆の
 
 <!-- cvid: aid34_bid42 -->

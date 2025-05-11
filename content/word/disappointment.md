@@ -97,7 +97,7 @@ TOEICではメールやお知らせ文などで「失望」や「期待外れ」
 ## 🤔  regret との違いは？
 
 - **disappointment**：期待が裏切られたときの「失望」や「がっかり」
-- **[regret](/regret)**：自分の行動や選択を「後悔」する気持ち
+- **[regret](/word/regret)**：自分の行動や選択を「後悔」する気持ち
 
 disappointmentは「期待していたことが叶わなかった」時の感情、regretは「自分の判断や行動を悔やむ」時に使います。
 
@@ -105,14 +105,14 @@ disappointmentは「期待していたことが叶わなかった」時の感情
 
 ## 🧩 あわせて覚えたい
 
-- [satisfaction](/satisfaction)：満足
-- [frustration](/frustration)：欲求不満、いらだち
+- [satisfaction](/word/satisfaction)：満足
+- [frustration](/word/frustration)：欲求不満、いらだち
 
 ---
 
 ## 📖 できればこれも
 
-- [failure](/failure)：失敗
-- [success](/success)：成功
+- [failure](/word/failure)：失敗
+- [success](/word/success)：成功
 
 <!-- cvid: aid02_bid06 -->

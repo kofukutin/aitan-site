@@ -97,7 +97,7 @@ TOEICでは「adopted child（養子）」や「adopted policy（採用された
 ## 🤔  adapted との違いは？
 
 - **adopted**：正式に受け入れられた、養子になった
-- **[adapted](/adapted)**：適応した、改作された
+- **[adapted](/word/adapted)**：適応した、改作された
 
 「adopted」は「新しく取り入れた」「養子にした」など受け入れるニュアンス、「adapted」は「状況に合わせて変えた」というニュアンスです。
 
@@ -105,14 +105,14 @@ TOEICでは「adopted child（養子）」や「adopted policy（採用された
 
 ## 🧩 あわせて覚えたい
 
-- [foster](/foster)：里親の、育てる
-- [approve](/approve)：承認する
+- [foster](/word/foster)：里親の、育てる
+- [approve](/word/approve)：承認する
 
 ---
 
 ## 📖 できればこれも
 
-- [adopt](/adopt)：採用する、養子にする
-- [adapt](/adapt)：適応する、順応する
+- [adopt](/word/adopt)：採用する、養子にする
+- [adapt](/word/adapt)：適応する、順応する
 
 <!-- cvid: aid45_bid18 -->

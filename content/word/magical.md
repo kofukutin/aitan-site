@@ -97,7 +97,7 @@ TOEICでは観光やイベント、商品説明などで「magical atmosphere」
 ## 🤔  miraculous との違いは？
 
 - **magical**：魔法のように不思議で魅力的な様子や雰囲気を表す
-- **[miraculous](/miraculous)**：奇跡的で説明できないほど素晴らしい出来事を表す
+- **[miraculous](/word/miraculous)**：奇跡的で説明できないほど素晴らしい出来事を表す
 
 「magical」は雰囲気や体験の幻想的な魅力を、「miraculous」は現実ではありえないほどの奇跡や出来事を強調します。
 
@@ -105,14 +105,14 @@ TOEICでは観光やイベント、商品説明などで「magical atmosphere」
 
 ## 🧩 あわせて覚えたい
 
-- [enchanting](/enchanting)：うっとりさせるような、魅惑的な
-- [supernatural](/supernatural)：超自然的な、科学で説明できない
+- [enchanting](/word/enchanting)：うっとりさせるような、魅惑的な
+- [supernatural](/word/supernatural)：超自然的な、科学で説明できない
 
 ---
 
 ## 📖 できればこれも
 
-- [fantastic](/fantastic)：素晴らしい、空想的な
-- [mysterious](/mysterious)：神秘的な、謎めいた
+- [fantastic](/word/fantastic)：素晴らしい、空想的な
+- [mysterious](/word/mysterious)：神秘的な、謎めいた
 
 <!-- cvid: aid38_bid41 -->

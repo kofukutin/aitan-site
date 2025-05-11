@@ -96,7 +96,7 @@ TOEICでは主にPart 1の写真描写で、人物がレインコートを着て
 ## 🤔  umbrella との違いは？
 
 - **raincoat**：雨から体を守るために着る防水の上着
-- **[umbrella](/umbrella)**：雨や日差しを防ぐために手で持つ道具
+- **[umbrella](/word/umbrella)**：雨や日差しを防ぐために手で持つ道具
 
 raincoatは着るもので、両手が自由になるのが特徴ですが、umbrellaは手で持って使う点が異なります。
 
@@ -104,14 +104,14 @@ raincoatは着るもので、両手が自由になるのが特徴ですが、umb
 
 ## 🧩 あわせて覚えたい
 
-- [jacket](/jacket)：ジャケット、上着
-- [poncho](/poncho)：ポンチョ、頭からかぶるタイプの雨具
+- [jacket](/word/jacket)：ジャケット、上着
+- [poncho](/word/poncho)：ポンチョ、頭からかぶるタイプの雨具
 
 ---
 
 ## 📖 できればこれも
 
-- [boots](/boots)：ブーツ、長靴
-- [hat](/hat)：帽子
+- [boots](/word/boots)：ブーツ、長靴
+- [hat](/word/hat)：帽子
 
 <!-- cvid: aid33_bid12 -->

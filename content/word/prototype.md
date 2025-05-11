@@ -97,7 +97,7 @@ TOEICでは主にITや製造業の文脈で、製品開発やプロジェクト�
 ## 🤔  sample との違いは？
 
 - **prototype**：新しい製品やアイデアの「最初の試作品」や「原型」を指す
-- **[sample](/sample)**：製品や物の「見本」「サンプル」で、完成品の一部や例として使われる
+- **[sample](/word/sample)**：製品や物の「見本」「サンプル」で、完成品の一部や例として使われる
 
 prototypeは開発段階の「最初の形」、sampleは完成品の一部や例として配布・提示される点が異なります。
 
@@ -105,14 +105,14 @@ prototypeは開発段階の「最初の形」、sampleは完成品の一部や�
 
 ## 🧩 あわせて覚えたい
 
-- [model](/model)：模型、モデル
-- [blueprint](/blueprint)：設計図
+- [model](/word/model)：模型、モデル
+- [blueprint](/word/blueprint)：設計図
 
 ---
 
 ## 📖 できればこれも
 
-- [specification](/specification)：仕様書
-- [design](/design)：設計
+- [specification](/word/specification)：仕様書
+- [design](/word/design)：設計
 
 <!-- cvid: aid43_bid34 -->

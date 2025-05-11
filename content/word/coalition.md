@@ -97,7 +97,7 @@ TOEICではビジネスや政治、団体間の協力を扱う長文で見かけ
 ## 🤔  alliance との違いは？
 
 - **coalition**：共通の目的のために一時的に結成される連合や連立
-- **[alliance](/alliance)**：より長期的で公式な協力関係や同盟
+- **[alliance](/word/alliance)**：より長期的で公式な協力関係や同盟
 
 coalitionは一時的・目的限定の連合、allianceは長期的・公式な同盟というニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ coalitionは一時的・目的限定の連合、allianceは長期的・公式な
 
 ## 🧩 あわせて覚えたい
 
-- [union](/union)：組合、連合
-- [collaboration](/collaboration)：協力、共同作業
+- [union](/word/union)：組合、連合
+- [collaboration](/word/collaboration)：協力、共同作業
 
 ---
 
 ## 📖 できればこれも
 
-- [committee](/committee)：委員会
-- [partnership](/partnership)：提携、協力関係
+- [committee](/word/committee)：委員会
+- [partnership](/word/partnership)：提携、協力関係
 
 <!-- cvid: aid16_bid45 -->

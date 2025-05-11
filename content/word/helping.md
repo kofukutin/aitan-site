@@ -97,7 +97,7 @@ TOEICではレストランや食事のシーンで「一盛り」「おかわり
 ## 🤔  portion との違いは？
 
 - **helping**：食事の場面で「一盛り」「一皿分」として使う
-- **[portion](/portion)**：より広く「部分」「分け前」「一人分」などを表す
+- **[portion](/word/portion)**：より広く「部分」「分け前」「一人分」などを表す
 
 helpingは主に料理の取り分けに使い、portionは食べ物以外にも「一部」「割り当て」など幅広く使います。
 
@@ -105,14 +105,14 @@ helpingは主に料理の取り分けに使い、portionは食べ物以外にも
 
 ## 🧩 あわせて覚えたい
 
-- [serving](/serving)：（食事の）一人前
-- [dish](/dish)：料理、皿
+- [serving](/word/serving)：（食事の）一人前
+- [dish](/word/dish)：料理、皿
 
 ---
 
 ## 📖 できればこれも
 
-- [meal](/meal)：食事
-- [plate](/plate)：皿、一皿分
+- [meal](/word/meal)：食事
+- [plate](/word/plate)：皿、一皿分
 
 <!-- cvid: aid21_bid44 -->

@@ -97,7 +97,7 @@ TOEICでは指示文や説明文で「次の～」「以下の～」という意
 ## 🤔  after との違いは？
 
 - **following**：直後や順番で「次の」「以下の」と形容詞的に使う
-- **[after](/after)**：時間的な「～の後で」を表す前置詞や接続詞
+- **[after](/word/after)**：時間的な「～の後で」を表す前置詞や接続詞
 
 **following**は名詞の前に置いて「次の～」と限定するのに対し、**after**は出来事や時点の「後」を表すので、使い方や文中での役割が異なります。
 
@@ -105,14 +105,14 @@ TOEICでは指示文や説明文で「次の～」「以下の～」という意
 
 ## 🧩 あわせて覚えたい
 
-- [subsequent](/subsequent)：その後の、次に続く
-- [previous](/previous)：前の、以前の
+- [subsequent](/word/subsequent)：その後の、次に続く
+- [previous](/word/previous)：前の、以前の
 
 ---
 
 ## 📖 できればこれも
 
-- [prior](/prior)：前の、事前の
-- [immediately](/immediately)：すぐに、直ちに
+- [prior](/word/prior)：前の、事前の
+- [immediately](/word/immediately)：すぐに、直ちに
 
 <!-- cvid: aid05_bid45 -->

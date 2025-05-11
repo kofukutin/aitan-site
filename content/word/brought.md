@@ -98,7 +98,7 @@ TOEICでは会話や説明文で「持ってきた」「連れてきた」とい
 ## 🤔  took との違いは？
 
 - **brought**：話し手や目的地に「持ってきた」「連れてきた」
-- **[took](/took)**：話し手や出発地から「持っていった」「連れていった」
+- **[took](/word/took)**：話し手や出発地から「持っていった」「連れていった」
 
 broughtは「こちらへ持ってくる」、tookは「向こうへ持っていく」という方向性の違いがあります。
 
@@ -106,14 +106,14 @@ broughtは「こちらへ持ってくる」、tookは「向こうへ持ってい
 
 ## 🧩 あわせて覚えたい
 
-- [deliver](/deliver)：配達する、届ける
-- [fetch](/fetch)：取ってくる
+- [deliver](/word/deliver)：配達する、届ける
+- [fetch](/word/fetch)：取ってくる
 
 ---
 
 ## 📖 できればこれも
 
-- [send](/send)：送る
-- [receive](/receive)：受け取る
+- [send](/word/send)：送る
+- [receive](/word/receive)：受け取る
 
 <!-- cvid: aid43_bid16 -->

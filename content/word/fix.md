@@ -97,7 +97,7 @@ TOEICでは、会話や説明文で「修理する」「問題を解決する」
 ## 🤔  repair との違いは？
 
 - **fix**：日常的に「直す」「修理する」「問題を解決する」など幅広く使う。
-- **[repair](/repair)**：よりフォーマルで、専門的・技術的な「修理」に使う。
+- **[repair](/word/repair)**：よりフォーマルで、専門的・技術的な「修理」に使う。
 
 fixはカジュアルで幅広い場面に使えますが、repairは機械や設備など専門的な修理に使われることが多いです。
 
@@ -105,14 +105,14 @@ fixはカジュアルで幅広い場面に使えますが、repairは機械や�
 
 ## 🧩 あわせて覚えたい
 
-- [adjust](/adjust)：調整する
-- [install](/install)：設置する、インストールする
+- [adjust](/word/adjust)：調整する
+- [install](/word/install)：設置する、インストールする
 
 ---
 
 ## 📖 できればこれも
 
-- [check](/check)：確認する、調べる
-- [replace](/replace)：交換する
+- [check](/word/check)：確認する、調べる
+- [replace](/word/replace)：交換する
 
 <!-- cvid: aid40_bid22 -->

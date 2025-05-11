@@ -97,7 +97,7 @@ TOEICでは会議やビジネスシーンで「通訳する」「解釈する」
 ## 🤔  translated との違いは？
 
 - **interpreted**：話し言葉をその場で通訳したり、意味や意図を自分なりに解釈すること。
-- **[translated](/translated)**：文章や言葉を別の言語に書き換えること（主に書き言葉）。
+- **[translated](/word/translated)**：文章や言葉を別の言語に書き換えること（主に書き言葉）。
 
 interpretedは「口頭での通訳」や「意味の解釈」に使い、translatedは「文章の翻訳」に使う点が異なります。
 
@@ -105,14 +105,14 @@ interpretedは「口頭での通訳」や「意味の解釈」に使い、transl
 
 ## 🧩 あわせて覚えたい
 
-- [explain](/explain)：説明する
-- [clarify](/clarify)：明確にする
+- [explain](/word/explain)：説明する
+- [clarify](/word/clarify)：明確にする
 
 ---
 
 ## 📖 できればこれも
 
-- [summarize](/summarize)：要約する
-- [paraphrase](/paraphrase)：言い換える
+- [summarize](/word/summarize)：要約する
+- [paraphrase](/word/paraphrase)：言い換える
 
 <!-- cvid: aid33_bid16 -->

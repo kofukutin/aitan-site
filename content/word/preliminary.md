@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や会議の案内、調査報告などで「pre
 ## 🤔  tentative との違いは？
 
 - **preliminary**：本番や最終決定の前段階としての「予備的な」「準備の」
-- **[tentative](/tentative)**：仮の、一時的な、まだ確定していない
+- **[tentative](/word/tentative)**：仮の、一時的な、まだ確定していない
 
 preliminaryは「本格的なものの前の準備段階」を強調し、tentativeは「まだ確定していない」「変更の可能性がある」ことを強調します。
 
@@ -105,14 +105,14 @@ preliminaryは「本格的なものの前の準備段階」を強調し、tentat
 
 ## 🧩 あわせて覚えたい
 
-- [final](/final)：最終の、決定的な
-- [initial](/initial)：最初の、初期の
+- [final](/word/final)：最終の、決定的な
+- [initial](/word/initial)：最初の、初期の
 
 ---
 
 ## 📖 できればこれも
 
-- [prior](/prior)：前の、事前の
-- [primary](/primary)：主要な、第一の
+- [prior](/word/prior)：前の、事前の
+- [primary](/word/primary)：主要な、第一の
 
 <!-- cvid: aid13_bid19 -->

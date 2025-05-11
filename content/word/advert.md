@@ -98,7 +98,7 @@ TOEICでは主にPart 7の広告文や案内文で見かけます。アメリカ
 ## 🤔  advertisement との違いは？
 
 - **advert**：カジュアルで短い言い方。主にイギリス英語で使われる。
-- **[advertisement](/advertisement)**：よりフォーマルで、アメリカ英語でも一般的。
+- **[advertisement](/word/advertisement)**：よりフォーマルで、アメリカ英語でも一般的。
 
 「advert」は日常会話やカジュアルな場面で使われ、「advertisement」はビジネスや公式な文書でよく使われます。
 
@@ -106,14 +106,14 @@ TOEICでは主にPart 7の広告文や案内文で見かけます。アメリカ
 
 ## 🧩 あわせて覚えたい
 
-- [notice](/notice)：お知らせ、通知
-- [announcement](/announcement)：発表、告知
+- [notice](/word/notice)：お知らせ、通知
+- [announcement](/word/announcement)：発表、告知
 
 ---
 
 ## 📖 できればこれも
 
-- [brochure](/brochure)：パンフレット
-- [flyer](/flyer)：チラシ
+- [brochure](/word/brochure)：パンフレット
+- [flyer](/word/flyer)：チラシ
 
 <!-- cvid: aid39_bid36 -->

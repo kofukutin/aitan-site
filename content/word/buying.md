@@ -97,7 +97,7 @@ TOEICではビジネスシーンの会話や説明文で「buying decision（購
 ## 🤔  purchasing との違いは？
 
 - **buying**：日常的な「買うこと」や一般的な購買行為を指す。
-- **[purchasing](/purchasing)**：ビジネスや公式な場面で使われる「購入」「仕入れ」。
+- **[purchasing](/word/purchasing)**：ビジネスや公式な場面で使われる「購入」「仕入れ」。
 
 buyingはカジュアルからビジネスまで幅広く使えますが、purchasingはよりフォーマルで、会社の購買部門や取引などで使われることが多いです。
 
@@ -105,14 +105,14 @@ buyingはカジュアルからビジネスまで幅広く使えますが、purch
 
 ## 🧩 あわせて覚えたい
 
-- [selling](/selling)：販売、売ること
-- [order](/order)：注文
+- [selling](/word/selling)：販売、売ること
+- [order](/word/order)：注文
 
 ---
 
 ## 📖 できればこれも
 
-- [payment](/payment)：支払い
-- [cost](/cost)：費用
+- [payment](/word/payment)：支払い
+- [cost](/word/cost)：費用
 
 <!-- cvid: aid03_bid38 -->

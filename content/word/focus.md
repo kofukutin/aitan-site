@@ -97,7 +97,7 @@ TOEICでは会議や業務の場面で「集中する」「焦点を当てる」
 ## 🤔  concentrate との違いは？
 
 - **focus**：特定の対象や課題に意識や注意を向けること
-- **[concentrate](/concentrate)**：精神的・物理的な力を一点に集めること
+- **[concentrate](/word/concentrate)**：精神的・物理的な力を一点に集めること
 
 focusは「何に意識を向けるか」が明確なときに使い、concentrateは「気を散らさずに力を集める」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ focusは「何に意識を向けるか」が明確なときに使い、concentra
 
 ## 🧩 あわせて覚えたい
 
-- [emphasize](/emphasize)：強調する
-- [ignore](/ignore)：無視する
+- [emphasize](/word/emphasize)：強調する
+- [ignore](/word/ignore)：無視する
 
 ---
 
 ## 📖 できればこれも
 
-- [discuss](/discuss)：議論する
-- [prepare](/prepare)：準備する
+- [discuss](/word/discuss)：議論する
+- [prepare](/word/prepare)：準備する
 
 <!-- cvid: aid38_bid35 -->

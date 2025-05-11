@@ -97,7 +97,7 @@ appearはTOEICの会話や説明文で「現れる」「～のように見える
 ## 🤔  seem との違いは？
 
 - **appear**：実際に現れる、または見た目や印象で「～のように見える」
-- **[seem](/seem)**：主観的な印象や推測で「～のように思われる」
+- **[seem](/word/seem)**：主観的な印象や推測で「～のように思われる」
 
 appearは実際に目に見える変化や登場に使い、seemは見た目や状況からの推測に使います。
 
@@ -105,14 +105,14 @@ appearは実際に目に見える変化や登場に使い、seemは見た目や�
 
 ## 🧩 あわせて覚えたい
 
-- [emerge](/emerge)：現れる、出現する
-- [disappear](/disappear)：消える、見えなくなる
+- [emerge](/word/emerge)：現れる、出現する
+- [disappear](/word/disappear)：消える、見えなくなる
 
 ---
 
 ## 📖 できればこれも
 
-- [arrive](/arrive)：到着する
-- [show](/show)：見せる、示す
+- [arrive](/word/arrive)：到着する
+- [show](/word/show)：見せる、示す
 
 <!-- cvid: aid41_bid14 -->

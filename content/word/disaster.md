@@ -97,7 +97,7 @@ TOEICでは主にニュース記事やお知らせ文、災害対策に関する
 ## 🤔  accident との違いは？
 
 - **disaster**：大規模で深刻な被害や混乱をもたらす災害・惨事
-- **[accident](/accident)**：予期せぬ出来事や小規模な事故
+- **[accident](/word/accident)**：予期せぬ出来事や小規模な事故
 
 disasterは自然災害や大きな失敗など深刻な事態に使い、accidentは日常的な事故や小さなトラブルに使います。
 
@@ -105,14 +105,14 @@ disasterは自然災害や大きな失敗など深刻な事態に使い、accide
 
 ## 🧩 あわせて覚えたい
 
-- [catastrophe](/catastrophe)：大惨事、破滅的な出来事
-- [emergency](/emergency)：緊急事態
+- [catastrophe](/word/catastrophe)：大惨事、破滅的な出来事
+- [emergency](/word/emergency)：緊急事態
 
 ---
 
 ## 📖 できればこれも
 
-- [damage](/damage)：損害、被害
-- [crisis](/crisis)：危機、重大局面
+- [damage](/word/damage)：損害、被害
+- [crisis](/word/crisis)：危機、重大局面
 
 <!-- cvid: aid25_bid17 -->

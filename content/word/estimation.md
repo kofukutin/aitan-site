@@ -97,7 +97,7 @@ estimationはTOEICのビジネス文脈や会議資料、メール文中で「�
 ## 🤔  evaluation との違いは？
 
 - **estimation**：数量や費用などをおおよそ推定・見積もることに重点がある
-- **[evaluation](/evaluation)**：物事や人の価値・質を評価・判断することに重点がある
+- **[evaluation](/word/evaluation)**：物事や人の価値・質を評価・判断することに重点がある
 
 estimationは「数値や期間などの見積もり」、evaluationは「価値や成果の評価」と、目的や場面が異なります。
 
@@ -105,14 +105,14 @@ estimationは「数値や期間などの見積もり」、evaluationは「価値
 
 ## 🧩 あわせて覚えたい
 
-- [assessment](/assessment)：評価、査定
-- [guess](/guess)：推測、当て推量
+- [assessment](/word/assessment)：評価、査定
+- [guess](/word/guess)：推測、当て推量
 
 ---
 
 ## 📖 できればこれも
 
-- [estimate](/estimate)：見積もる、推定する
-- [calculation](/calculation)：計算、算出
+- [estimate](/word/estimate)：見積もる、推定する
+- [calculation](/word/calculation)：計算、算出
 
 <!-- cvid: aid27_bid49 -->

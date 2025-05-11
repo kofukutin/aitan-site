@@ -97,7 +97,7 @@ TOEICのPart 7で、ビジネス文書やレポートの中で「根本的な」
 ## 🤔  fundamental との違いは？
 
 - **underlying**：表面には見えないが、根底や背後にあるものを強調
-- **[fundamental](/fundamental)**：物事の基礎・基本となる重要な部分を強調
+- **[fundamental](/word/fundamental)**：物事の基礎・基本となる重要な部分を強調
 
 underlyingは「隠れた原因」や「背後にある要素」に焦点を当て、fundamentalは「最も重要な基礎・原則」に焦点を当てます。
 
@@ -105,14 +105,14 @@ underlyingは「隠れた原因」や「背後にある要素」に焦点を当�
 
 ## 🧩 あわせて覚えたい
 
-- [basic](/basic)：基本的な、初歩的な
-- [superficial](/superficial)：表面的な、うわべだけの
+- [basic](/word/basic)：基本的な、初歩的な
+- [superficial](/word/superficial)：表面的な、うわべだけの
 
 ---
 
 ## 📖 できればこれも
 
-- [primary](/primary)：主要な、第一の
-- [essential](/essential)：不可欠な、本質的な
+- [primary](/word/primary)：主要な、第一の
+- [essential](/word/essential)：不可欠な、本質的な
 
 <!-- cvid: aid46_bid41 -->

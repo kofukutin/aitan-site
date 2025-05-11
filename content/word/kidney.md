@@ -97,7 +97,7 @@ The patient needs a kidney transplant.
 ## 🤔  liver との違いは？
 
 - **kidney**：血液をろ過し、尿を作る臓器（腎臓）
-- **[liver](/liver)**：体内の解毒や代謝を担う臓器（肝臓）
+- **[liver](/word/liver)**：体内の解毒や代謝を担う臓器（肝臓）
 
 kidneyは主に老廃物の排出、liverは解毒や栄養素の代謝など役割が異なります。
 
@@ -105,14 +105,14 @@ kidneyは主に老廃物の排出、liverは解毒や栄養素の代謝など役
 
 ## 🧩 あわせて覚えたい
 
-- [bladder](/bladder)：膀胱（尿をためる臓器）
-- [organ](/organ)：臓器（体の中の器官全般）
+- [bladder](/word/bladder)：膀胱（尿をためる臓器）
+- [organ](/word/organ)：臓器（体の中の器官全般）
 
 ---
 
 ## 📖 できればこれも
 
-- [lung](/lung)：肺（呼吸を行う臓器）
-- [stomach](/stomach)：胃（食べ物を消化する臓器）
+- [lung](/word/lung)：肺（呼吸を行う臓器）
+- [stomach](/word/stomach)：胃（食べ物を消化する臓器）
 
 <!-- cvid: aid44_bid20 -->

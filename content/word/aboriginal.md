@@ -104,7 +104,7 @@ TOEICでは環境や文化、歴史に関する長文で「aboriginal」が登�
 ## 🤔  indigenous との違いは？
 
 - **aboriginal**：その土地に最初から存在する、特にオーストラリアの先住民や動植物に使われる
-- **[indigenous](/indigenous)**：その土地に自然に生息・存在する、より広く一般的に使われる
+- **[indigenous](/word/indigenous)**：その土地に自然に生息・存在する、より広く一般的に使われる
 
 aboriginalは特定地域や民族（特にオーストラリア）に限定されることが多く、indigenousは世界中の先住民や動植物に幅広く使われます。
 
@@ -112,14 +112,14 @@ aboriginalは特定地域や民族（特にオーストラリア）に限定さ�
 
 ## 🧩 あわせて覚えたい
 
-- [native](/native)：生まれつきの、その土地の
-- [primitive](/primitive)：原始的な、初期の
+- [native](/word/native)：生まれつきの、その土地の
+- [primitive](/word/primitive)：原始的な、初期の
 
 ---
 
 ## 📖 できればこれも
 
-- [ancestral](/ancestral)：祖先の、先祖伝来の
-- [tribal](/tribal)：部族の、部族社会の
+- [ancestral](/word/ancestral)：祖先の、先祖伝来の
+- [tribal](/word/tribal)：部族の、部族社会の
 
 <!-- cvid: aid48_bid34 -->

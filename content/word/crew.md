@@ -97,7 +97,7 @@ TOEICでは空港や交通機関、サービス業の会話で「crew」がよ�
 ## 🤔  staff との違いは？
 
 - **crew**：乗り物や特定の作業現場で働くグループ
-- **[staff](/staff)**：会社や組織全体の従業員
+- **[staff](/word/staff)**：会社や組織全体の従業員
 
 crewは飛行機や船などの「現場のチーム」に使い、staffはオフィスや店舗など幅広い従業員全体を指します。
 
@@ -105,14 +105,14 @@ crewは飛行機や船などの「現場のチーム」に使い、staffはオ�
 
 ## 🧩 あわせて覚えたい
 
-- [team](/team)：チーム、団体
-- [passenger](/passenger)：乗客
+- [team](/word/team)：チーム、団体
+- [passenger](/word/passenger)：乗客
 
 ---
 
 ## 📖 できればこれも
 
-- [flight](/flight)：飛行、便
-- [member](/member)：メンバー、構成員
+- [flight](/word/flight)：飛行、便
+- [member](/word/member)：メンバー、構成員
 
 <!-- cvid: aid02_bid24 -->

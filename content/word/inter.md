@@ -97,7 +97,7 @@ TOEICでは法務や正式な手続きに関する長文や契約書、新聞記
 ## 🤔  bury との違いは？
 
 - **inter**：正式な儀式や法律に則って遺体を埋葬する（フォーマル）
-- **[bury](/bury)**：一般的に何かを埋める、遺体以外にも幅広く使う（カジュアル）
+- **[bury](/word/bury)**：一般的に何かを埋める、遺体以外にも幅広く使う（カジュアル）
 
 interは特に「公式な埋葬」を指し、buryは日常的な「埋める」全般に使われます。
 
@@ -105,15 +105,15 @@ interは特に「公式な埋葬」を指し、buryは日常的な「埋める�
 
 ## 🧩 あわせて覚えたい
 
-- [cremate](/cremate)：火葬する
-- [entomb](/entomb)：墓に納める、埋葬する（特に墓や建物内に）
+- [cremate](/word/cremate)：火葬する
+- [entomb](/word/entomb)：墓に納める、埋葬する（特に墓や建物内に）
 
 ---
 
 ## 📖 できればこれも
 
-- [inherit](/inherit)：相続する
-- [decease](/decease)：死亡する（フォーマル）
+- [inherit](/word/inherit)：相続する
+- [decease](/word/decease)：死亡する（フォーマル）
 
 
 <!-- cvid: aid20_bid28 -->

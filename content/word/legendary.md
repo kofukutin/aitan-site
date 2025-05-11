@@ -97,7 +97,7 @@ TOEICでは主に記事やストーリー、人物紹介などの長文中で「
 ## 🤔  mythic との違いは？
 
 - **legendary**：実在した可能性が高い人物や出来事が「伝説的」として語られる場合に使うことが多い。
-- **[mythic](/mythic)**：神話や空想の世界に属する、現実離れしたものに使う。
+- **[mythic](/word/mythic)**：神話や空想の世界に属する、現実離れしたものに使う。
 
 legendaryは現実に存在したものが語り継がれて有名になった場合、mythicは神話や空想のように非現実的なものに使われます。
 
@@ -105,14 +105,14 @@ legendaryは現実に存在したものが語り継がれて有名になった�
 
 ## 🧩 あわせて覚えたい
 
-- [famous](/famous)：有名な
-- [notable](/notable)：注目すべき、著名な
+- [famous](/word/famous)：有名な
+- [notable](/word/notable)：注目すべき、著名な
 
 ---
 
 ## 📖 できればこれも
 
-- [remarkable](/remarkable)：注目すべき、並外れた
-- [historic](/historic)：歴史的に重要な
+- [remarkable](/word/remarkable)：注目すべき、並外れた
+- [historic](/word/historic)：歴史的に重要な
 
 <!-- cvid: aid31_bid32 -->

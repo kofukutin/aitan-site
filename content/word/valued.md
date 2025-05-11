@@ -97,7 +97,7 @@ TOEICでは、ビジネスメールや社内通知などで「valued customer（
 ## 🤔  valuable との違いは？
 
 - **valued**：大切にされている、重視されている（主に人や意見、関係に使う）
-- **[valuable](/valuable)**：価値が高い、有益な（主に物や情報に使う）
+- **[valuable](/word/valuable)**：価値が高い、有益な（主に物や情報に使う）
 
 「valued」は「大切に思われている」という気持ちや評価を表し、「valuable」は「実際の価値や有用性」に焦点を当てます。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネスメールや社内通知などで「valued customer（
 
 ## 🧩 あわせて覚えたい
 
-- [appreciated](/appreciated)：感謝されている
-- [respected](/respected)：尊敬されている
+- [appreciated](/word/appreciated)：感謝されている
+- [respected](/word/respected)：尊敬されている
 
 ---
 
 ## 📖 できればこれも
 
-- [essential](/essential)：不可欠な
-- [reliable](/reliable)：信頼できる
+- [essential](/word/essential)：不可欠な
+- [reliable](/word/reliable)：信頼できる
 
 <!-- cvid: aid00_bid20 -->

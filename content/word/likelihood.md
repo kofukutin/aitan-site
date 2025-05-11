@@ -97,7 +97,7 @@ TOEICでは主にPart 7の説明文やレポート、ビジネス文書で「可
 ## 🤔  probability との違いは？
 
 - **likelihood**：主観的・一般的な「可能性」や「見込み」を表し、ややフォーマル。
-- **[probability](/probability)**：数学的・統計的な「確率」を表し、数値化できる場合に使う。
+- **[probability](/word/probability)**：数学的・統計的な「確率」を表し、数値化できる場合に使う。
 
 likelihoodは日常やビジネスでの「起こりそうな感じ」を表し、probabilityは数値やデータに基づく確率を指します。
 
@@ -105,14 +105,14 @@ likelihoodは日常やビジネスでの「起こりそうな感じ」を表し�
 
 ## 🧩 あわせて覚えたい
 
-- [possibility](/possibility)：可能性、実現の余地
-- [certainty](/certainty)：確実性、確信
+- [possibility](/word/possibility)：可能性、実現の余地
+- [certainty](/word/certainty)：確実性、確信
 
 ---
 
 ## 📖 できればこれも
 
-- [consequence](/consequence)：結果、影響
-- [assumption](/assumption)：仮定、前提
+- [consequence](/word/consequence)：結果、影響
+- [assumption](/word/assumption)：仮定、前提
 
 <!-- cvid: aid32_bid48 -->

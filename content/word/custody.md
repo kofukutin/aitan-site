@@ -96,7 +96,7 @@ TOEICでは法務やビジネス文書、親権や管理に関する話題で登
 ## 🤔  detention との違いは？
 
 - **custody**：保護・管理・拘留・親権など幅広く「管理下に置く」意味
-- **[detention](/detention)**：主に「拘留」「留置」など自由を制限する意味
+- **[detention](/word/detention)**：主に「拘留」「留置」など自由を制限する意味
 
 custodyは親権や管理も含む広い意味ですが、detentionは「拘束・留置」に特化しています。
 
@@ -104,14 +104,14 @@ custodyは親権や管理も含む広い意味ですが、detentionは「拘束�
 
 ## 🧩 あわせて覚えたい
 
-- [guardianship](/guardianship)：後見、保護者としての権利
-- [arrest](/arrest)：逮捕
+- [guardianship](/word/guardianship)：後見、保護者としての権利
+- [arrest](/word/arrest)：逮捕
 
 ---
 
 ## 📖 できればこれも
 
-- [trial](/trial)：裁判、公判
-- [sentence](/sentence)：判決、刑
+- [trial](/word/trial)：裁判、公判
+- [sentence](/word/sentence)：判決、刑
 
 <!-- cvid: aid02_bid27 -->

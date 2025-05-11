@@ -97,7 +97,7 @@ TOEICでは会議やイベントの終了を表す場面でよく登場します
 ## 🤔  finished との違いは？
 
 - **ended**：単に「終わった」「終了した」という事実を表す。
-- **[finished](/finished)**：やるべきことを「やり終えた」「完成させた」という達成感がある。
+- **[finished](/word/finished)**：やるべきことを「やり終えた」「完成させた」という達成感がある。
 
 endedは出来事や状態の終了を示し、finishedは作業や課題をやり遂げたニュアンスが強いです。
 
@@ -105,14 +105,14 @@ endedは出来事や状態の終了を示し、finishedは作業や課題をや�
 
 ## 🧩 あわせて覚えたい
 
-- [terminate](/terminate)：正式に終わらせる、打ち切る
-- [conclude](/conclude)：締めくくる、結論づける
+- [terminate](/word/terminate)：正式に終わらせる、打ち切る
+- [conclude](/word/conclude)：締めくくる、結論づける
 
 ---
 
 ## 📖 できればこれも
 
-- [start](/start)：始める
-- [begin](/begin)：始まる、始める
+- [start](/word/start)：始める
+- [begin](/word/begin)：始まる、始める
 
 <!-- cvid: aid21_bid01 -->

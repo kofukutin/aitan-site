@@ -97,7 +97,7 @@ TOEICでは歴史や観光、展示に関する長文で登場することがあ
 ## 🤔  blade との違いは？
 
 - **sword**：柄（持ち手）と長い刃が一体となった「剣」全体を指す。
-- **[blade](/blade)**：刃物の「刃」部分のみを指し、剣以外にも使う。
+- **[blade](/word/blade)**：刃物の「刃」部分のみを指し、剣以外にも使う。
 
 swordは武器としての「剣」全体、bladeは「刃」そのものを意味し、knifeやscissorsにも使われます。
 
@@ -105,14 +105,14 @@ swordは武器としての「剣」全体、bladeは「刃」そのものを意�
 
 ## 🧩 あわせて覚えたい
 
-- [shield](/shield)：盾
-- [dagger](/dagger)：短剣
+- [shield](/word/shield)：盾
+- [dagger](/word/dagger)：短剣
 
 ---
 
 ## 📖 できればこれも
 
-- [armor](/armor)：鎧
-- [helmet](/helmet)：ヘルメット、かぶと
+- [armor](/word/armor)：鎧
+- [helmet](/word/helmet)：ヘルメット、かぶと
 
 <!-- cvid: aid13_bid35 -->

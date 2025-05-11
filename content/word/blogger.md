@@ -97,7 +97,7 @@ TOEICでは、ITやSNS、現代の働き方に関する長文やEメール文中
 ## 🤔  influencer との違いは？
 
 - **blogger**：主にブログで情報発信する人
-- **[influencer](/influencer)**：SNSなどで影響力を持つ人全般
+- **[influencer](/word/influencer)**：SNSなどで影響力を持つ人全般
 
 bloggerはブログ中心、influencerはSNS全般で影響力を持つ人を指し、活動の場が異なります。
 
@@ -105,14 +105,14 @@ bloggerはブログ中心、influencerはSNS全般で影響力を持つ人を指
 
 ## 🧩 あわせて覚えたい
 
-- [writer](/writer)：書き手、作家
-- [vlogger](/vlogger)：動画ブログを作る人
+- [writer](/word/writer)：書き手、作家
+- [vlogger](/word/vlogger)：動画ブログを作る人
 
 ---
 
 ## 📖 できればこれも
 
-- [website](/website)：ウェブサイト
-- [content](/content)：内容、コンテンツ
+- [website](/word/website)：ウェブサイト
+- [content](/word/content)：内容、コンテンツ
 
 <!-- cvid: aid03_bid18 -->

@@ -97,7 +97,7 @@ TOEICでは進行形や動名詞として、文法問題や文中の動作を表
 ## 🤔  contrasting との違いは？
 
 - **comparing**：2つ以上のものを比べて共通点や違いを探すこと全般
-- **[contrasting](/contrasting)**：2つ以上のものの「違い・対照」を強調して比べること
+- **[contrasting](/word/contrasting)**：2つ以上のものの「違い・対照」を強調して比べること
 
 comparingは広く「比べる」こと全般に使い、contrastingは特に「違い」に焦点を当てて強調したいときに使います。
 
@@ -105,14 +105,14 @@ comparingは広く「比べる」こと全般に使い、contrastingは特に「
 
 ## 🧩 あわせて覚えたい
 
-- [evaluate](/evaluate)：評価する
-- [analyze](/analyze)：分析する
+- [evaluate](/word/evaluate)：評価する
+- [analyze](/word/analyze)：分析する
 
 ---
 
 ## 📖 できればこれも
 
-- [compare](/compare)：比べる
-- [contrast](/contrast)：対照する
+- [compare](/word/compare)：比べる
+- [contrast](/word/contrast)：対照する
 
 <!-- cvid: aid33_bid04 -->

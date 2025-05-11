@@ -93,7 +93,7 @@ TOEICでは会議や打ち合わせ、業務連絡の場面で「事前に～す
 ## 🤔  in advance との違いは？
 
 - **beforehand**：ややフォーマルで、準備や通知など「事前に」行うこと全般に使う
-- **[in advance](/in_advance)**：より幅広く「前もって」「先に」という意味で使われる
+- **[in advance](/word/in_advance)**：より幅広く「前もって」「先に」という意味で使われる
 
 「beforehand」は準備や通知など、何かを計画的に前もって行うニュアンスが強く、「in advance」はより一般的に使われます。
 
@@ -101,14 +101,14 @@ TOEICでは会議や打ち合わせ、業務連絡の場面で「事前に～す
 
 ## 🧩 あわせて覚えたい
 
-- [previously](/previously)：以前に、前もって
-- [afterward](/afterward)：その後で
+- [previously](/word/previously)：以前に、前もって
+- [afterward](/word/afterward)：その後で
 
 ---
 
 ## 📖 できればこれも
 
-- [immediately](/immediately)：すぐに
-- [recently](/recently)：最近
+- [immediately](/word/immediately)：すぐに
+- [recently](/word/recently)：最近
 
 <!-- cvid: aid40_bid35 -->

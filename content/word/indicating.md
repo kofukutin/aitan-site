@@ -97,7 +97,7 @@ TOEICでは、動詞の適切な形（現在分詞や過去分詞）を問う文
 ## 🤔  showing との違いは？
 
 - **indicating**：明確に指し示す、サインや証拠で示す
-- **[showing](/showing)**：見せる、単に見えるようにする
+- **[showing](/word/showing)**：見せる、単に見えるようにする
 
 indicatingは「何かをはっきりと指し示す」ニュアンスがあり、showingは「見せる・表示する」といったより広い意味で使われます。
 
@@ -105,14 +105,14 @@ indicatingは「何かをはっきりと指し示す」ニュアンスがあり�
 
 ## 🧩 あわせて覚えたい
 
-- [suggest](/suggest)：提案する、示唆する
-- [imply](/imply)：暗に示す、ほのめかす
+- [suggest](/word/suggest)：提案する、示唆する
+- [imply](/word/imply)：暗に示す、ほのめかす
 
 ---
 
 ## 📖 できればこれも
 
-- [demonstrate](/demonstrate)：実演する、証明する
-- [point](/point)：指し示す
+- [demonstrate](/word/demonstrate)：実演する、証明する
+- [point](/word/point)：指し示す
 
 <!-- cvid: aid10_bid04 -->

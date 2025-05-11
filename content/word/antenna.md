@@ -98,7 +98,7 @@ TOEICでは、ITや通信機器に関する会話や説明文で「antenna」が
 ## 🤔  aerial との違いは？
 
 - **antenna**：主にアメリカ英語で使われる「アンテナ」全般。触角の意味もある。
-- **[aerial](/aerial)**：主にイギリス英語で使われる「アンテナ」。空中の、という意味もある。
+- **[aerial](/word/aerial)**：主にイギリス英語で使われる「アンテナ」。空中の、という意味もある。
 
 「antenna」はアメリカ英語で一般的ですが、「aerial」はイギリス英語でよく使われます。どちらも通信機器のアンテナを指しますが、使う地域によって異なります。
 
@@ -106,14 +106,14 @@ TOEICでは、ITや通信機器に関する会話や説明文で「antenna」が
 
 ## 🧩 あわせて覚えたい
 
-- [sensor](/sensor)：センサー、感知器
-- [receiver](/receiver)：受信機
+- [sensor](/word/sensor)：センサー、感知器
+- [receiver](/word/receiver)：受信機
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/device)：装置、機器
-- [signal](/signal)：信号、合図
+- [device](/word/device)：装置、機器
+- [signal](/word/signal)：信号、合図
 
 <!-- cvid: aid09_bid26 -->

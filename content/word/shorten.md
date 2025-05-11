@@ -97,7 +97,7 @@ TOEICでは「期間や文章、会議などを短くする」という文脈で
 ## 🤔  reduce との違いは？
 
 - **shorten**：長さや時間などを「短くする」「縮める」ことに特化した表現
-- **[reduce](/reduce)**：量や数、程度などを「減らす」全般に使える幅広い表現
+- **[reduce](/word/reduce)**：量や数、程度などを「減らす」全般に使える幅広い表現
 
 shortenは「長さ・期間」に焦点があり、reduceは「量・数・程度」など幅広い対象に使えます。
 
@@ -105,14 +105,14 @@ shortenは「長さ・期間」に焦点があり、reduceは「量・数・程�
 
 ## 🧩 あわせて覚えたい
 
-- [expand](/expand)：拡大する、広げる
-- [condense](/condense)：凝縮する、要約する
+- [expand](/word/expand)：拡大する、広げる
+- [condense](/word/condense)：凝縮する、要約する
 
 ---
 
 ## 📖 できればこれも
 
-- [lengthen](/lengthen)：長くする
-- [decrease](/decrease)：減少させる
+- [lengthen](/word/lengthen)：長くする
+- [decrease](/word/decrease)：減少させる
 
 <!-- cvid: aid24_bid25 -->

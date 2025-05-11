@@ -97,7 +97,7 @@ rememberedは、動詞の時制や受動態、語彙の使い分け問題でよ�
 ## 🤔  recalled との違いは？
 
 - **remembered**：自然に思い出したり、覚えていたことを表す。
-- **[recalled](/recalled)**：意識的に努力して思い出す、または公式な場面で「思い出す」と言うときに使う。
+- **[recalled](/word/recalled)**：意識的に努力して思い出す、または公式な場面で「思い出す」と言うときに使う。
 
 rememberedは日常的な「覚えていた」「思い出した」に使い、recalledはややフォーマルで「記憶をたどって思い出す」ニュアンスがあります。
 
@@ -105,14 +105,14 @@ rememberedは日常的な「覚えていた」「思い出した」に使い、r
 
 ## 🧩 あわせて覚えたい
 
-- [forget](/forget)：忘れる
-- [remind](/remind)：思い出させる
+- [forget](/word/forget)：忘れる
+- [remind](/word/remind)：思い出させる
 
 ---
 
 ## 📖 できればこれも
 
-- [noticed](/noticed)：気づいた
-- [realized](/realized)：理解した、悟った
+- [noticed](/word/noticed)：気づいた
+- [realized](/word/realized)：理解した、悟った
 
 <!-- cvid: aid33_bid21 -->

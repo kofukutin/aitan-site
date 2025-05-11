@@ -97,7 +97,7 @@ TOEICでは、職業やサービスに関する会話や説明文で登場する
 ## 🤔  technician との違いは？
 
 - **plumber**：水道や配管の修理・設置を専門とする職業。
-- **[technician](/technician)**：技術全般の専門職で、分野を問わず機械や設備のメンテナンスを行う人。
+- **[technician](/word/technician)**：技術全般の専門職で、分野を問わず機械や設備のメンテナンスを行う人。
 
 plumberは水回り専門、technicianは幅広い技術職を指す点が大きな違いです。
 
@@ -105,14 +105,14 @@ plumberは水回り専門、technicianは幅広い技術職を指す点が大き
 
 ## 🧩 あわせて覚えたい
 
-- [electrician](/electrician)：電気工事士、電気技師
-- [carpenter](/carpenter)：大工
+- [electrician](/word/electrician)：電気工事士、電気技師
+- [carpenter](/word/carpenter)：大工
 
 ---
 
 ## 📖 できればこれも
 
-- [repair](/repair)：修理する
-- [install](/install)：設置する
+- [repair](/word/repair)：修理する
+- [install](/word/install)：設置する
 
 <!-- cvid: aid36_bid01 -->

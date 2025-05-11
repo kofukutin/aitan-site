@@ -97,7 +97,7 @@ TOEICでは、ホテルやレストラン、ビジネス文書などで「vouche
 ## 🤔  coupon との違いは？
 
 - **voucher**：商品やサービスと引き換えられる正式な券や証明書。金額指定や特定用途が多い。
-- **[coupon](/coupon)**：割引や特典を受けるための券。主に値引きやサービス提供に使われる。
+- **[coupon](/word/coupon)**：割引や特典を受けるための券。主に値引きやサービス提供に使われる。
 
 voucherは「証明書」や「引換券」として公式な場面で使われることが多く、couponは主に割引や特典目的でカジュアルに使われます。
 
@@ -105,14 +105,14 @@ voucherは「証明書」や「引換券」として公式な場面で使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [receipt](/receipt)：領収書
-- [certificate](/certificate)：証明書
+- [receipt](/word/receipt)：領収書
+- [certificate](/word/certificate)：証明書
 
 ---
 
 ## 📖 できればこれも
 
-- [invoice](/invoice)：請求書
-- [ticket](/ticket)：チケット、入場券
+- [invoice](/word/invoice)：請求書
+- [ticket](/word/ticket)：チケット、入場券
 
 <!-- cvid: aid38_bid42 -->

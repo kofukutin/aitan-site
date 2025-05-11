@@ -97,7 +97,7 @@ TOEICでは人物描写や広告文、ストーリーの中で外見を説明す
 ## 🤔  brown との違いは？
 
 - **brunette**：濃い茶色の髪の女性を指す名詞
-- **[brown](/brown)**：色そのもの（茶色）を指す一般的な単語
+- **[brown](/word/brown)**：色そのもの（茶色）を指す一般的な単語
 
 「brunette」は人の髪色を表すときに使い、「brown」は色自体や物の色を表すときに使います。
 
@@ -105,15 +105,15 @@ TOEICでは人物描写や広告文、ストーリーの中で外見を説明す
 
 ## 🧩 あわせて覚えたい
 
-- [blonde](/blonde)：金髪の女性
-- [redhead](/redhead)：赤毛の人
+- [blonde](/word/blonde)：金髪の女性
+- [redhead](/word/redhead)：赤毛の人
 
 ---
 
 ## 📖 できればこれも
 
-- [fair](/fair)：色白の、明るい色の髪の
-- [tanned](/tanned)：日焼けした
+- [fair](/word/fair)：色白の、明るい色の髪の
+- [tanned](/word/tanned)：日焼けした
 
 
 <!-- cvid: aid09_bid21 -->

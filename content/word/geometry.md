@@ -97,7 +97,7 @@ TOEICでは教育や科学関連の記事、説明文で見かけることが多
 ## 🤔  trigonometry との違いは？
 
 - **geometry**：図形や空間全般の性質・関係を扱う数学分野
-- **[trigonometry](/trigonometry)**：三角形や三角関数に特化した数学分野
+- **[trigonometry](/word/trigonometry)**：三角形や三角関数に特化した数学分野
 
 geometryは広く図形全般を扱い、trigonometryは特に三角形や角度の計算に焦点を当てます。
 
@@ -105,14 +105,14 @@ geometryは広く図形全般を扱い、trigonometryは特に三角形や角度
 
 ## 🧩 あわせて覚えたい
 
-- [algebra](/algebra)：代数学（数式や方程式を扱う数学分野）
-- [calculus](/calculus)：微積分学（変化や傾きを扱う数学分野）
+- [algebra](/word/algebra)：代数学（数式や方程式を扱う数学分野）
+- [calculus](/word/calculus)：微積分学（変化や傾きを扱う数学分野）
 
 ---
 
 ## 📖 できればこれも
 
-- [diagram](/diagram)：図、図解
-- [formula](/formula)：公式、数式
+- [diagram](/word/diagram)：図、図解
+- [formula](/word/formula)：公式、数式
 
 <!-- cvid: aid10_bid08 -->

@@ -97,7 +97,7 @@ TOEICでは、求人広告や商品説明、条件提示などで「魅力的な
 ## 🤔  charming との違いは？
 
 - **attractive**：見た目や条件、提案など幅広く「人を惹きつける」魅力を表す
-- **[charming](/charming)**：主に人柄や雰囲気の「愛らしさ」「感じの良さ」を表す
+- **[charming](/word/charming)**：主に人柄や雰囲気の「愛らしさ」「感じの良さ」を表す
 
 attractiveは外見や条件など幅広い対象に使えますが、charmingは主に人の性格や雰囲気の温かさ・親しみやすさを強調します。
 
@@ -105,14 +105,14 @@ attractiveは外見や条件など幅広い対象に使えますが、charming�
 
 ## 🧩 あわせて覚えたい
 
-- [appealing](/appealing)：魅力的な、興味を引く
-- [unattractive](/unattractive)：魅力のない
+- [appealing](/word/appealing)：魅力的な、興味を引く
+- [unattractive](/word/unattractive)：魅力のない
 
 ---
 
 ## 📖 できればこれも
 
-- [impressive](/impressive)：印象的な
-- [creative](/creative)：創造的な
+- [impressive](/word/impressive)：印象的な
+- [creative](/word/creative)：創造的な
 
 <!-- cvid: aid13_bid02 -->

@@ -97,7 +97,7 @@ TOEICでは、attemptingは主に文法問題や語彙問題で進行形やto不
 ## 🤔  trying との違いは？
 
 - **attempting**：難しいことや成功が保証されないことに「挑戦する」「試みている」というフォーマルな響き。
-- **[trying](/trying)**：一般的に「やってみる」「試す」という意味で、カジュアルな場面でも使える。
+- **[trying](/word/trying)**：一般的に「やってみる」「試す」という意味で、カジュアルな場面でも使える。
 
 attemptingはtryingよりも「困難さ」や「真剣さ」が強調され、ビジネスやフォーマルな場面でよく使われます。
 
@@ -105,14 +105,14 @@ attemptingはtryingよりも「困難さ」や「真剣さ」が強調され、�
 
 ## 🧩 あわせて覚えたい
 
-- [endeavor](/endeavor)：努力する、試みる（より堅い表現）
-- [undertake](/undertake)：引き受ける、着手する
+- [endeavor](/word/endeavor)：努力する、試みる（より堅い表現）
+- [undertake](/word/undertake)：引き受ける、着手する
 
 ---
 
 ## 📖 できればこれも
 
-- [complete](/complete)：完了する、仕上げる
-- [achieve](/achieve)：達成する、成し遂げる
+- [complete](/word/complete)：完了する、仕上げる
+- [achieve](/word/achieve)：達成する、成し遂げる
 
 <!-- cvid: aid38_bid04 -->

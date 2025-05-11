@@ -96,7 +96,7 @@ TOEICでは、会社や部署の移転、従業員の転勤などビジネスシ
 ## 🤔  transfer との違いは？
 
 - **relocate**：場所や拠点そのものを移す、引っ越す
-- **[transfer](/transfer)**：人や物、権利などを「移す」「転送する」
+- **[transfer](/word/transfer)**：人や物、権利などを「移す」「転送する」
 
 relocateは「物理的な場所の移動」に特化し、transferは「人・物・データなど幅広い対象の移動」に使います。
 
@@ -104,14 +104,14 @@ relocateは「物理的な場所の移動」に特化し、transferは「人・�
 
 ## 🧩 あわせて覚えたい
 
-- [move](/move)：動く、引っ越す
-- [resettle](/resettle)：再定住する、再び住みつく
+- [move](/word/move)：動く、引っ越す
+- [resettle](/word/resettle)：再定住する、再び住みつく
 
 ---
 
 ## 📖 できればこれも
 
-- [assign](/assign)：割り当てる、任命する
-- [adjust](/adjust)：調整する、順応する
+- [assign](/word/assign)：割り当てる、任命する
+- [adjust](/word/adjust)：調整する、順応する
 
 <!-- cvid: aid02_bid41 -->

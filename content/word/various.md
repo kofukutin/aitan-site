@@ -97,7 +97,7 @@ TOEICでは、形容詞として名詞を修飾する語彙問題や、選択肢
 ## 🤔  several との違いは？
 
 - **various**：種類やタイプが多様であることを強調
-- **[several](/several)**：数がいくつか（3つ以上程度）あることを強調
+- **[several](/word/several)**：数がいくつか（3つ以上程度）あることを強調
 
 「various」は「多様性」「違い」に焦点があり、「several」は単に「数がいくつかある」ことを表します。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞として名詞を修飾する語彙問題や、選択肢
 
 ## 🧩 あわせて覚えたい
 
-- [diverse](/diverse)：多様な、異なる
-- [numerous](/numerous)：非常に多くの
+- [diverse](/word/diverse)：多様な、異なる
+- [numerous](/word/numerous)：非常に多くの
 
 ---
 
 ## 📖 できればこれも
 
-- [different](/different)：異なる、違った
-- [multiple](/multiple)：複数の
+- [different](/word/different)：異なる、違った
+- [multiple](/word/multiple)：複数の
 
 <!-- cvid: aid04_bid18 -->

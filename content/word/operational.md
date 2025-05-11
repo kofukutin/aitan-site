@@ -97,7 +97,7 @@ TOEICでは、機械やシステム、業務プロセスが「稼働している
 ## 🤔  functional との違いは？
 
 - **operational**：実際に運用・稼働している状態や、運用上の意味を強調
-- **[functional](/functional)**：機能が正常に働いていること、機能面にフォーカス
+- **[functional](/word/functional)**：機能が正常に働いていること、機能面にフォーカス
 
 「operational」は「現場で実際に使える・稼働している」ニュアンス、「functional」は「機能が備わっている・正常に働く」ことに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは、機械やシステム、業務プロセスが「稼働している
 
 ## 🧩 あわせて覚えたい
 
-- [inactive](/inactive)：稼働していない、活動していない
-- [maintenance](/maintenance)：保守、メンテナンス
+- [inactive](/word/inactive)：稼働していない、活動していない
+- [maintenance](/word/maintenance)：保守、メンテナンス
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/efficient)：効率的な
-- [procedure](/procedure)：手順、手続き
+- [efficient](/word/efficient)：効率的な
+- [procedure](/word/procedure)：手順、手続き
 
 <!-- cvid: aid34_bid24 -->

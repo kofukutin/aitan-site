@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、服装や工場設備の説明とし
 ## 🤔  strap との違いは？
 
 - **belt**：主に服や機械の「ベルト」「帯」を指す
-- **[strap](/strap)**：バッグや時計などの「ひも」「ストラップ」を指す
+- **[strap](/word/strap)**：バッグや時計などの「ひも」「ストラップ」を指す
 
 beltは腰や機械などを締める幅広い帯状のもの、strapは細長いひも状のものに使います。
 
@@ -105,14 +105,14 @@ beltは腰や機械などを締める幅広い帯状のもの、strapは細長�
 
 ## 🧩 あわせて覚えたい
 
-- [buckle](/buckle)：バックル、留め金
-- [sash](/sash)：たすき、肩からかける帯
+- [buckle](/word/buckle)：バックル、留め金
+- [sash](/word/sash)：たすき、肩からかける帯
 
 ---
 
 ## 📖 できればこれも
 
-- [shirt](/shirt)：シャツ
-- [pocket](/pocket)：ポケット
+- [shirt](/word/shirt)：シャツ
+- [pocket](/word/pocket)：ポケット
 
 <!-- cvid: aid04_bid22 -->

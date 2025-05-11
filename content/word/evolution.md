@@ -97,7 +97,7 @@ TOEICでは主に科学やビジネスの文脈で「進化」「発展」とい
 ## 🤔  development との違いは？
 
 - **evolution**：徐々に段階を経て進化・発展すること
-- **[development](/development)**：新しいものを作り出す、成長・発展すること
+- **[development](/word/development)**：新しいものを作り出す、成長・発展すること
 
 evolutionは「自然な変化や進化」のニュアンスが強く、developmentは「計画的な成長や開発」に使われます。
 
@@ -105,14 +105,14 @@ evolutionは「自然な変化や進化」のニュアンスが強く、developm
 
 ## 🧩 あわせて覚えたい
 
-- [revolution](/revolution)：革命、急激な変化
-- [adaptation](/adaptation)：適応、順応
+- [revolution](/word/revolution)：革命、急激な変化
+- [adaptation](/word/adaptation)：適応、順応
 
 ---
 
 ## 📖 できればこれも
 
-- [progress](/progress)：進歩、前進
-- [growth](/growth)：成長、増加
+- [progress](/word/progress)：進歩、前進
+- [growth](/word/growth)：成長、増加
 
 <!-- cvid: aid39_bid17 -->

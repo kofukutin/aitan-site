@@ -97,7 +97,7 @@ TOEICでは主に天候や自然現象を描写する写真問題で登場しま
 ## 🤔  thunder との違いは？
 
 - **lightning**：空に光る稲妻や雷そのもの（光の現象）
-- **[thunder](/thunder)**：雷の音（ゴロゴロという音）
+- **[thunder](/word/thunder)**：雷の音（ゴロゴロという音）
 
 lightningは「光」、thunderは「音」を指します。雷雨のときは両方がセットで現れますが、使い分けに注意しましょう。
 
@@ -105,14 +105,14 @@ lightningは「光」、thunderは「音」を指します。雷雨のときは�
 
 ## 🧩 あわせて覚えたい
 
-- [storm](/storm)：嵐
-- [flash](/flash)：閃光
+- [storm](/word/storm)：嵐
+- [flash](/word/flash)：閃光
 
 ---
 
 ## 📖 できればこれも
 
-- [rain](/rain)：雨
-- [cloud](/cloud)：雲
+- [rain](/word/rain)：雨
+- [cloud](/word/cloud)：雲
 
 <!-- cvid: aid14_bid44 -->

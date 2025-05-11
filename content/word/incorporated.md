@@ -97,7 +97,7 @@ TOEICでは会社名やビジネス文書で頻出します。特に社名の一
 ## 🤔  corporation との違いは？
 
 - **incorporated**：法人化された、株式会社の（形容詞として会社の状態を説明）
-- **[corporation](/corporation)**：法人、株式会社（名詞として会社そのものを指す）
+- **[corporation](/word/corporation)**：法人、株式会社（名詞として会社そのものを指す）
 
 「incorporated」は会社の形態や状態を説明し、「corporation」は会社そのものを指します。
 
@@ -105,14 +105,14 @@ TOEICでは会社名やビジネス文書で頻出します。特に社名の一
 
 ## 🧩 あわせて覚えたい
 
-- [limited](/limited)：有限責任の、有限会社の
-- [enterprise](/enterprise)：企業、事業
+- [limited](/word/limited)：有限責任の、有限会社の
+- [enterprise](/word/enterprise)：企業、事業
 
 ---
 
 ## 📖 できればこれも
 
-- [registered](/registered)：登録された
-- [established](/established)：設立された
+- [registered](/word/registered)：登録された
+- [established](/word/established)：設立された
 
 <!-- cvid: aid07_bid06 -->

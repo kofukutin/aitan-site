@@ -97,7 +97,7 @@ TOEICでは主に記事やビジネス文書、法務関連の長文で「有罪
 ## 🤔  confidence との違いは？
 
 - **conviction**：証拠や理由に裏付けられた強い確信や信念、または法的な「有罪判決」も指す
-- **[confidence](/confidence)**：自信や信頼、自己への信頼感を表す
+- **[confidence](/word/confidence)**：自信や信頼、自己への信頼感を表す
 
 convictionは「揺るぎない信念」や「法的な有罪判決」に使われ、confidenceは「自信」や「安心感」に使われます。
 
@@ -105,14 +105,14 @@ convictionは「揺るぎない信念」や「法的な有罪判決」に使わ�
 
 ## 🧩 あわせて覚えたい
 
-- [sentence](/sentence)：判決、刑
-- [belief](/belief)：信念、信条
+- [sentence](/word/sentence)：判決、刑
+- [belief](/word/belief)：信念、信条
 
 ---
 
 ## 📖 できればこれも
 
-- [evidence](/evidence)：証拠
-- [assurance](/assurance)：保証、自信
+- [evidence](/word/evidence)：証拠
+- [assurance](/word/assurance)：保証、自信
 
 <!-- cvid: aid35_bid43 -->

@@ -97,7 +97,7 @@ TOEICでは不動産や金融関連の長文、契約書や案内文でよく登
 ## 🤔  loan との違いは？
 
 - **mortgage**：不動産を担保にした長期ローンやその担保
-- **[loan](/loan)**：一般的な「貸付金」「ローン」全般
+- **[loan](/word/loan)**：一般的な「貸付金」「ローン」全般
 
 mortgageは主に家や土地などの不動産を担保にした特定のローンを指し、loanは目的や担保の有無を問わず幅広い貸付を指します。
 
@@ -105,14 +105,14 @@ mortgageは主に家や土地などの不動産を担保にした特定のロー
 
 ## 🧩 あわせて覚えたい
 
-- [debt](/debt)：借金、負債
-- [collateral](/collateral)：担保
+- [debt](/word/debt)：借金、負債
+- [collateral](/word/collateral)：担保
 
 ---
 
 ## 📖 できればこれも
 
-- [interest](/interest)：利息
-- [installment](/installment)：分割払い
+- [interest](/word/interest)：利息
+- [installment](/word/installment)：分割払い
 
 <!-- cvid: aid45_bid46 -->

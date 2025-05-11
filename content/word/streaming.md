@@ -97,7 +97,7 @@ ITやメディア関連の記事や広告文で登場しやすい単語です。
 ## 🤔  broadcasting との違いは？
 
 - **streaming**：インターネット経由でデータをリアルタイム再生すること
-- **[broadcasting](/broadcasting)**：テレビやラジオなどで広く同時に情報を送信すること
+- **[broadcasting](/word/broadcasting)**：テレビやラジオなどで広く同時に情報を送信すること
 
 streamingは主にネット上で個別にデータを受信・再生する場合に使い、broadcastingは電波などを使って一斉に配信する場合に使います。
 
@@ -105,14 +105,14 @@ streamingは主にネット上で個別にデータを受信・再生する場�
 
 ## 🧩 あわせて覚えたい
 
-- [download](/download)：ダウンロード、データを保存すること
-- [live](/live)：ライブ、生放送
+- [download](/word/download)：ダウンロード、データを保存すること
+- [live](/word/live)：ライブ、生放送
 
 ---
 
 ## 📖 できればこれも
 
-- [upload](/upload)：アップロード、データを送信すること
-- [platform](/platform)：プラットフォーム、基盤となるサービスやシステム
+- [upload](/word/upload)：アップロード、データを送信すること
+- [platform](/word/platform)：プラットフォーム、基盤となるサービスやシステム
 
 <!-- cvid: aid35_bid31 -->

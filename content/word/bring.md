@@ -97,7 +97,7 @@ TOEICでは会話や指示の中で「持ってくる」「連れてくる」と
 ## 🤔  take との違いは？
 
 - **bring**：話し手や目的地の方へ「持ってくる」「連れてくる」
-- **[take](/take)**：話し手や出発地から「持っていく」「連れていく」
+- **[take](/word/take)**：話し手や出発地から「持っていく」「連れていく」
 
 bringは「こちらへ」、takeは「向こうへ」という方向の違いがあります。
 
@@ -105,14 +105,14 @@ bringは「こちらへ」、takeは「向こうへ」という方向の違い�
 
 ## 🧩 あわせて覚えたい
 
-- [deliver](/deliver)：配達する、届ける
-- [fetch](/fetch)：取ってくる、迎えに行く
+- [deliver](/word/deliver)：配達する、届ける
+- [fetch](/word/fetch)：取ってくる、迎えに行く
 
 ---
 
 ## 📖 できればこれも
 
-- [send](/send)：送る
-- [carry](/carry)：運ぶ
+- [send](/word/send)：送る
+- [carry](/word/carry)：運ぶ
 
 <!-- cvid: aid22_bid48 -->

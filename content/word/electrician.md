@@ -97,7 +97,7 @@ TOEICでは、オフィスや建物の修理・メンテナンスに関する会
 ## 🤔  engineer との違いは？
 
 - **electrician**：電気配線や修理など、現場での電気作業を専門とする技術者
-- **[engineer](/engineer)**：設計や開発など、より広範な技術分野の専門家
+- **[engineer](/word/engineer)**：設計や開発など、より広範な技術分野の専門家
 
 electricianは主に現場作業を行う職人で、engineerは設計や計画など理論的な業務を担当する点が異なります。
 
@@ -105,14 +105,14 @@ electricianは主に現場作業を行う職人で、engineerは設計や計画�
 
 ## 🧩 あわせて覚えたい
 
-- [plumber](/plumber)：配管工、水道工
-- [technician](/technician)：技術者、専門職
+- [plumber](/word/plumber)：配管工、水道工
+- [technician](/word/technician)：技術者、専門職
 
 ---
 
 ## 📖 できればこれも
 
-- [carpenter](/carpenter)：大工
-- [mechanic](/mechanic)：整備士、機械工
+- [carpenter](/word/carpenter)：大工
+- [mechanic](/word/mechanic)：整備士、機械工
 
 <!-- cvid: aid02_bid05 -->

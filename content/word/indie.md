@@ -96,7 +96,7 @@ TOEICでは主にPart 7の広告や記事、Eメール文中で、音楽や映�
 ## 🤔  independent との違いは？
 
 - **indie**：主に音楽・映画・ゲームなどで「インディーズの」「独立系の」というカジュアルな表現。
-- **[independent](/independent)**：より広い意味で「独立した」「自立した」を表し、フォーマルな場面でも使われる。
+- **[independent](/word/independent)**：より広い意味で「独立した」「自立した」を表し、フォーマルな場面でも使われる。
 
 indieは特定の業界でカジュアルに使われるのに対し、independentは一般的・フォーマルな文脈でも幅広く使われます。
 
@@ -104,14 +104,14 @@ indieは特定の業界でカジュアルに使われるのに対し、independe
 
 ## 🧩 あわせて覚えたい
 
-- [mainstream](/mainstream)：主流の、一般的な
-- [alternative](/alternative)：代替の、既存とは異なる
+- [mainstream](/word/mainstream)：主流の、一般的な
+- [alternative](/word/alternative)：代替の、既存とは異なる
 
 ---
 
 ## 📖 できればこれも
 
-- [unique](/unique)：独自の、唯一の
-- [creative](/creative)：創造的な
+- [unique](/word/unique)：独自の、唯一の
+- [creative](/word/creative)：創造的な
 
 <!-- cvid: aid33_bid43 -->

@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「真剣に」「本気で」など、態度や
 ## 🤔  literally との違いは？
 
 - **seriously**：真剣に、本気で、冗談抜きで
-- **[literally](/literally)**：文字通り、本当に
+- **[literally](/word/literally)**：文字通り、本当に
 
 seriouslyは「冗談抜きで」「本気で」という気持ちや態度を強調しますが、literallyは「言葉通り」「誇張なしで」という意味で使われます。
 
@@ -105,14 +105,14 @@ seriouslyは「冗談抜きで」「本気で」という気持ちや態度を�
 
 ## 🧩 あわせて覚えたい
 
-- [earnestly](/earnestly)：熱心に、真面目に
-- [jokingly](/jokingly)：冗談で
+- [earnestly](/word/earnestly)：熱心に、真面目に
+- [jokingly](/word/jokingly)：冗談で
 
 ---
 
 ## 📖 できればこれも
 
-- [actually](/actually)：実際に、実は
-- [truly](/truly)：本当に、心から
+- [actually](/word/actually)：実際に、実は
+- [truly](/word/truly)：本当に、心から
 
 <!-- cvid: aid30_bid23 -->

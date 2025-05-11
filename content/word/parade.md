@@ -97,7 +97,7 @@ TOEICでは観光やイベント、地域紹介の記事や広告文で登場す
 ## 🤔  procession との違いは？
 
 - **parade**：祝いやイベントで多くの人がにぎやかに行進するパレード
-- **[procession](/procession)**：宗教的・儀式的な目的で静かに進む行列
+- **[procession](/word/procession)**：宗教的・儀式的な目的で静かに進む行列
 
 paradeは楽しい雰囲気やお祝いの場面で使われ、processionは厳かな儀式や宗教行事などフォーマルな行進に使われます。
 
@@ -105,14 +105,14 @@ paradeは楽しい雰囲気やお祝いの場面で使われ、processionは厳�
 
 ## 🧩 あわせて覚えたい
 
-- [festival](/festival)：祭り、フェスティバル
-- [ceremony](/ceremony)：式典、儀式
+- [festival](/word/festival)：祭り、フェスティバル
+- [ceremony](/word/ceremony)：式典、儀式
 
 ---
 
 ## 📖 できればこれも
 
-- [event](/event)：イベント、出来事
-- [celebrate](/celebrate)：祝う
+- [event](/word/event)：イベント、出来事
+- [celebrate](/word/celebrate)：祝う
 
 <!-- cvid: aid08_bid37 -->

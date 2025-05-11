@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、動物や農場のシーンで
 ## 🤔  cattle との違いは？
 
 - **cow**：雌のウシを指し、1頭ごとに数えられる。
-- **[cattle](/cattle)**：ウシ全般（雌雄問わず複数）をまとめて指す不可算名詞。
+- **[cattle](/word/cattle)**：ウシ全般（雌雄問わず複数）をまとめて指す不可算名詞。
 
 cowは個々の雌牛、cattleは群れや家畜としてのウシ全体を指す点が異なります。
 
@@ -105,14 +105,14 @@ cowは個々の雌牛、cattleは群れや家畜としてのウシ全体を指�
 
 ## 🧩 あわせて覚えたい
 
-- [bull](/bull)：雄牛
-- [calf](/calf)：子ウシ
+- [bull](/word/bull)：雄牛
+- [calf](/word/calf)：子ウシ
 
 ---
 
 ## 📖 できればこれも
 
-- [sheep](/sheep)：ヒツジ
-- [horse](/horse)：ウマ
+- [sheep](/word/sheep)：ヒツジ
+- [horse](/word/horse)：ウマ
 
 <!-- cvid: aid41_bid25 -->

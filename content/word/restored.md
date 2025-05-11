@@ -97,7 +97,7 @@ TOEICでは、建物やデータ、サービスなどが「修復された」「
 ## 🤔  repaired との違いは？
 
 - **restored**：元の状態や価値に「復元された」「修復された」
-- **[repaired](/repaired)**：壊れた部分が「修理された」
+- **[repaired](/word/repaired)**：壊れた部分が「修理された」
 
 restoredは「元の姿や価値を取り戻す」ニュアンスが強く、美術品や歴史的建造物などに使われます。repairedは単に壊れた部分を直す場合に使います。
 
@@ -105,14 +105,14 @@ restoredは「元の姿や価値を取り戻す」ニュアンスが強く、美
 
 ## 🧩 あわせて覚えたい
 
-- [renovated](/renovated)：改装された
-- [recover](/recover)：回復する、取り戻す
+- [renovated](/word/renovated)：改装された
+- [recover](/word/recover)：回復する、取り戻す
 
 ---
 
 ## 📖 できればこれも
 
-- [damaged](/damaged)：損傷した
-- [maintain](/maintain)：維持する
+- [damaged](/word/damaged)：損傷した
+- [maintain](/word/maintain)：維持する
 
 <!-- cvid: aid19_bid08 -->

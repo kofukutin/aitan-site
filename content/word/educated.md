@@ -97,7 +97,7 @@ TOEICでは、履歴書や人材募集、自己紹介などの文脈で「educat
 ## 🤔  knowledgeable との違いは？
 
 - **educated**：正式な教育や訓練を受けていることを強調
-- **[knowledgeable](/knowledgeable)**：特定分野についてよく知っていることを強調
+- **[knowledgeable](/word/knowledgeable)**：特定分野についてよく知っていることを強調
 
 educatedは「学歴」や「教育の有無」に焦点があり、knowledgeableは「知識の深さ・豊富さ」に重点があります。
 
@@ -105,14 +105,14 @@ educatedは「学歴」や「教育の有無」に焦点があり、knowledgeabl
 
 ## 🧩 あわせて覚えたい
 
-- [uneducated](/uneducated)：教育を受けていない
-- [qualified](/qualified)：資格のある、適任の
+- [uneducated](/word/uneducated)：教育を受けていない
+- [qualified](/word/qualified)：資格のある、適任の
 
 ---
 
 ## 📖 できればこれも
 
-- [academic](/academic)：学問的な、学業の
-- [intelligent](/intelligent)：知的な、頭の良い
+- [academic](/word/academic)：学問的な、学業の
+- [intelligent](/word/intelligent)：知的な、頭の良い
 
 <!-- cvid: aid07_bid41 -->

@@ -97,7 +97,7 @@ TOEICでは、依頼や感謝、協力を表す文脈で頻出します。特に
 ## 🤔  support との違いは？
 
 - **assistance**：具体的な「手助け」や「支援」をフォーマルに表現
-- **[support](/support)**：広く「支える」「支援する」意味で、精神的・物理的な支えも含む
+- **[support](/word/support)**：広く「支える」「支援する」意味で、精神的・物理的な支えも含む
 
 assistanceは実際の行動や手助けを強調し、supportは気持ちや全体的な支えも含めて幅広く使われます。
 
@@ -105,14 +105,14 @@ assistanceは実際の行動や手助けを強調し、supportは気持ちや全
 
 ## 🧩 あわせて覚えたい
 
-- [aid](/aid)：援助、救済
-- [cooperation](/cooperation)：協力
+- [aid](/word/aid)：援助、救済
+- [cooperation](/word/cooperation)：協力
 
 ---
 
 ## 📖 できればこれも
 
-- [advice](/advice)：助言
-- [guidance](/guidance)：指導
+- [advice](/word/advice)：助言
+- [guidance](/word/guidance)：指導
 
 <!-- cvid: aid31_bid03 -->

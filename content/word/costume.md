@@ -97,7 +97,7 @@ TOEICでは観光やイベント、文化紹介の記事や広告文で登場す
 ## 🤔  outfit との違いは？
 
 - **costume**：特別な目的やイベント、演劇などで着る衣装や仮装
-- **[outfit](/outfit)**：日常的な服装やコーディネート全体
+- **[outfit](/word/outfit)**：日常的な服装やコーディネート全体
 
 costumeは「非日常」や「特別な場」の衣装、outfitは普段着やその日の服装全体を指します。
 
@@ -105,14 +105,14 @@ costumeは「非日常」や「特別な場」の衣装、outfitは普段着や�
 
 ## 🧩 あわせて覚えたい
 
-- [uniform](/uniform)：制服、ユニフォーム
-- [attire](/attire)：（ややフォーマルな）服装
+- [uniform](/word/uniform)：制服、ユニフォーム
+- [attire](/word/attire)：（ややフォーマルな）服装
 
 ---
 
 ## 📖 できればこれも
 
-- [mask](/mask)：仮面、マスク
-- [festival](/festival)：祭り、フェスティバル
+- [mask](/word/mask)：仮面、マスク
+- [festival](/word/festival)：祭り、フェスティバル
 
 <!-- cvid: aid39_bid13 -->

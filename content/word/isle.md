@@ -97,7 +97,7 @@ TOEICでは観光や地理に関する長文や案内文で見かけることが
 ## 🤔  island との違いは？
 
 - **isle**：詩的・文学的、または地名で使われる「島」
-- **[island](/island)**：一般的な「島」、日常会話や説明で広く使う
+- **[island](/word/island)**：一般的な「島」、日常会話や説明で広く使う
 
 isleは文学的・フォーマルな響きがあり、islandは日常的・一般的な表現です。
 
@@ -105,14 +105,14 @@ isleは文学的・フォーマルな響きがあり、islandは日常的・一�
 
 ## 🧩 あわせて覚えたい
 
-- [peninsula](/peninsula)：半島
-- [archipelago](/archipelago)：群島、諸島
+- [peninsula](/word/peninsula)：半島
+- [archipelago](/word/archipelago)：群島、諸島
 
 ---
 
 ## 📖 できればこれも
 
-- [bay](/bay)：湾
-- [coast](/coast)：海岸
+- [bay](/word/bay)：湾
+- [coast](/word/coast)：海岸
 
 <!-- cvid: aid29_bid23 -->

@@ -97,7 +97,7 @@ TOEICでは「効果的な」「発効して」という意味で、主に文法
 ## 🤔  efficient との違いは？
 
 - **effective**：目的や期待した結果を達成できる、効果がある
-- **[efficient](/efficient)**：効率が良い、無駄がない
+- **[efficient](/word/efficient)**：効率が良い、無駄がない
 
 「effective」は「結果が出る」ことに重点があり、「efficient」は「手間や時間をかけず効率的に行う」ことに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは「効果的な」「発効して」という意味で、主に文法
 
 ## 🧩 あわせて覚えたい
 
-- [ineffective](/ineffective)：効果がない
-- [impact](/impact)：影響、効果
+- [ineffective](/word/ineffective)：効果がない
+- [impact](/word/impact)：影響、効果
 
 ---
 
 ## 📖 できればこれも
 
-- [efficiently](/efficiently)：効率的に
-- [practical](/practical)：実用的な
+- [efficiently](/word/efficiently)：効率的に
+- [practical](/word/practical)：実用的な
 
 <!-- cvid: aid37_bid47 -->

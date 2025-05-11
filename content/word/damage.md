@@ -97,7 +97,7 @@ TOEICでは、保険や事故、ビジネス上のトラブルに関する文脈
 ## 🤔  harm との違いは？
 
 - **damage**：物や財産などの具体的な損害・被害を指す
-- **[harm](/harm)**：人や動物、心身への害・悪影響を指す
+- **[harm](/word/harm)**：人や動物、心身への害・悪影響を指す
 
 damageは主に物理的・経済的な損害に使われ、harmは健康や感情など人への悪影響に使われることが多いです。
 
@@ -105,14 +105,14 @@ damageは主に物理的・経済的な損害に使われ、harmは健康や感�
 
 ## 🧩 あわせて覚えたい
 
-- [injury](/injury)：けが、負傷
-- [loss](/loss)：損失、失うこと
+- [injury](/word/injury)：けが、負傷
+- [loss](/word/loss)：損失、失うこと
 
 ---
 
 ## 📖 できればこれも
 
-- [repair](/repair)：修理する、修理
-- [cost](/cost)：費用、コスト
+- [repair](/word/repair)：修理する、修理
+- [cost](/word/cost)：費用、コスト
 
 <!-- cvid: aid17_bid14 -->

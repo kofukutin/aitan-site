@@ -97,7 +97,7 @@ The meeting began with a short prayer.
 ## 🤔  wish との違いは？
 
 - **prayer**：神や高次の存在に願いや感謝を伝える「祈り」
-- **[wish](/wish)**：個人的な願望や希望
+- **[wish](/word/wish)**：個人的な願望や希望
 
 prayerは宗教的・儀式的な「祈り」に使われ、wishは日常的な「願いごと」や「希望」に使われます。
 
@@ -105,14 +105,14 @@ prayerは宗教的・儀式的な「祈り」に使われ、wishは日常的な�
 
 ## 🧩 あわせて覚えたい
 
-- [blessing](/blessing)：祝福、恩恵
-- [meditation](/meditation)：瞑想
+- [blessing](/word/blessing)：祝福、恩恵
+- [meditation](/word/meditation)：瞑想
 
 ---
 
 ## 📖 できればこれも
 
-- [faith](/faith)：信仰、信頼
-- [belief](/belief)：信念、信じること
+- [faith](/word/faith)：信仰、信頼
+- [belief](/word/belief)：信念、信じること
 
 <!-- cvid: aid23_bid04 -->

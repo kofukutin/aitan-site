@@ -97,7 +97,7 @@ TOEICでは、製品や情報の「公開」「発表」「発売」に関する
 ## 🤔  launch との違いは？
 
 - **release**：公式に公開・発表・発売すること全般に使う
-- **[launch](/launch)**：新製品やサービスを「開始・立ち上げる」ことに特化
+- **[launch](/word/launch)**：新製品やサービスを「開始・立ち上げる」ことに特化
 
 releaseは「広く世に出す」ニュアンス、launchは「新しく始める・スタートさせる」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ releaseは「広く世に出す」ニュアンス、launchは「新しく始め�
 
 ## 🧩 あわせて覚えたい
 
-- [distribute](/distribute)：配布する、分配する
-- [publish](/publish)：出版する、発表する
+- [distribute](/word/distribute)：配布する、分配する
+- [publish](/word/publish)：出版する、発表する
 
 ---
 
 ## 📖 できればこれも
 
-- [announce](/announce)：発表する、知らせる
-- [deliver](/deliver)：届ける、配達する
+- [announce](/word/announce)：発表する、知らせる
+- [deliver](/word/deliver)：届ける、配達する
 
 <!-- cvid: aid49_bid42 -->

@@ -97,7 +97,7 @@ TOEICでは日常会話や予定調整の場面でよく登場します。特に
 ## 🤔  holiday との違いは？
 
 - **weekend**：毎週決まって訪れる「週末（土日）」を指す。
-- **[holiday](/holiday)**：祝日や特別な休暇日を指し、必ずしも週末とは限らない。
+- **[holiday](/word/holiday)**：祝日や特別な休暇日を指し、必ずしも週末とは限らない。
 
 「weekend」は毎週の土日、「holiday」は国の祝日や特別な休みなど幅広い意味で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは日常会話や予定調整の場面でよく登場します。特に
 
 ## 🧩 あわせて覚えたい
 
-- [weekday](/weekday)：平日
-- [vacation](/vacation)：長期休暇
+- [weekday](/word/weekday)：平日
+- [vacation](/word/vacation)：長期休暇
 
 ---
 
 ## 📖 できればこれも
 
-- [meeting](/meeting)：会議
-- [plan](/plan)：計画
+- [meeting](/word/meeting)：会議
+- [plan](/word/plan)：計画
 
 <!-- cvid: aid15_bid49 -->

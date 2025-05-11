@@ -96,7 +96,7 @@ TOEICでは、交通や移動に関する会話や説明文で「interstate」�
 ## 🤔  highway との違いは？
 
 - **interstate**：アメリカの州と州を結ぶ高速道路（Interstate Highway System）を指す。
-- **[highway](/highway)**：一般的な「幹線道路」や「高速道路」を指し、州内外を問わず広く使われる。
+- **[highway](/word/highway)**：一般的な「幹線道路」や「高速道路」を指し、州内外を問わず広く使われる。
 
 interstateは特にアメリカの州間高速道路網を指し、highwayはより広い意味で使われます。
 
@@ -104,14 +104,14 @@ interstateは特にアメリカの州間高速道路網を指し、highwayはよ
 
 ## 🧩 あわせて覚えたい
 
-- [expressway](/expressway)：都市部や郊外の高速道路
-- [route](/route)：道筋、経路
+- [expressway](/word/expressway)：都市部や郊外の高速道路
+- [route](/word/route)：道筋、経路
 
 ---
 
 ## 📖 できればこれも
 
-- [traffic](/traffic)：交通、交通量
-- [toll](/toll)：通行料
+- [traffic](/word/traffic)：交通、交通量
+- [toll](/word/toll)：通行料
 
 <!-- cvid: aid02_bid06 -->

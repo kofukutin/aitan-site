@@ -97,7 +97,7 @@ TOEICでは「資格を得る」「条件を満たす」という意味で、主
 ## 🤔  certify との違いは？
 
 - **qualify**：条件や基準を満たして「資格を得る」「資格を与える」
-- **[certify](/certify)**：公式に「認定する」「証明する」
+- **[certify](/word/certify)**：公式に「認定する」「証明する」
 
 「qualify」は自分や他人が条件を満たすことに重点があり、「certify」は第三者が公式に認定・証明する点が異なります。
 
@@ -105,14 +105,14 @@ TOEICでは「資格を得る」「条件を満たす」という意味で、主
 
 ## 🧩 あわせて覚えたい
 
-- [disqualify](/disqualify)：失格にする
-- [authorize](/authorize)：権限を与える
+- [disqualify](/word/disqualify)：失格にする
+- [authorize](/word/authorize)：権限を与える
 
 ---
 
 ## 📖 できればこれも
 
-- [apply](/apply)：申し込む
-- [require](/require)：要求する
+- [apply](/word/apply)：申し込む
+- [require](/word/require)：要求する
 
 <!-- cvid: aid32_bid11 -->

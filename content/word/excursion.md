@@ -96,7 +96,7 @@ TOEICでは観光やイベント案内、社内レクリエーションの文脈
 ## 🤔  trip との違いは？
 
 - **excursion**：短期間・日帰りの小旅行や遠足（特に団体でのレクリエーション）
-- **[trip](/trip)**：旅行全般（期間や目的は問わず幅広い）
+- **[trip](/word/trip)**：旅行全般（期間や目的は問わず幅広い）
 
 excursionは「団体での短い旅行」に特化し、tripは「旅行」全般に使えます。
 
@@ -104,14 +104,14 @@ excursionは「団体での短い旅行」に特化し、tripは「旅行」全�
 
 ## 🧩 あわせて覚えたい
 
-- [outing](/outing)：短い外出、遠足
-- [journey](/journey)：長い旅、道のり
+- [outing](/word/outing)：短い外出、遠足
+- [journey](/word/journey)：長い旅、道のり
 
 ---
 
 ## 📖 できればこれも
 
-- [destination](/destination)：目的地
-- [itinerary](/itinerary)：旅程、スケジュール
+- [destination](/word/destination)：目的地
+- [itinerary](/word/itinerary)：旅程、スケジュール
 
 <!-- cvid: aid15_bid35 -->

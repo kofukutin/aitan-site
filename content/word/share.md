@@ -98,7 +98,7 @@ TOEICでは会議やビジネスシーンで「情報を共有する」「資料
 ## 🤔  distribute との違いは？
 
 - **share**：自分の持っているものを他の人と一緒に使う・分け合う
-- **[distribute](/distribute)**：多くの人や場所に物を配る・分配する
+- **[distribute](/word/distribute)**：多くの人や場所に物を配る・分配する
 
 「share」は一緒に使う・共有するイメージ、「distribute」は広く配る・分配するイメージです。
 
@@ -106,14 +106,14 @@ TOEICでは会議やビジネスシーンで「情報を共有する」「資料
 
 ## 🧩 あわせて覚えたい
 
-- [divide](/divide)：分ける、分割する
-- [contribute](/contribute)：貢献する、寄付する
+- [divide](/word/divide)：分ける、分割する
+- [contribute](/word/contribute)：貢献する、寄付する
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/present)：提示する、発表する
-- [offer](/offer)：申し出る、提供する
+- [present](/word/present)：提示する、発表する
+- [offer](/word/offer)：申し出る、提供する
 
 <!-- cvid: aid35_bid32 -->

@@ -97,7 +97,7 @@ TOEICでは、grandは主に形容詞として「壮大な」「立派な」な�
 ## 🤔  magnificent との違いは？
 
 - **grand**：規模や雰囲気が大きく、威厳や格式を感じさせる「壮大な」「堂々とした」
-- **[magnificent](/magnificent)**：美しさや素晴らしさが際立つ「壮麗な」「壮観な」
+- **[magnificent](/word/magnificent)**：美しさや素晴らしさが際立つ「壮麗な」「壮観な」
 
 grandは「大きさ・威厳・格式」に重点があり、magnificentは「美しさ・素晴らしさ」に焦点があります。
 
@@ -105,14 +105,14 @@ grandは「大きさ・威厳・格式」に重点があり、magnificentは「�
 
 ## 🧩 あわせて覚えたい
 
-- [splendid](/splendid)：素晴らしい、華やかな
-- [humble](/humble)：控えめな、質素な
+- [splendid](/word/splendid)：素晴らしい、華やかな
+- [humble](/word/humble)：控えめな、質素な
 
 ---
 
 ## 📖 できればこれも
 
-- [formal](/formal)：正式な、格式ばった
-- [impressive](/impressive)：印象的な、感動的な
+- [formal](/word/formal)：正式な、格式ばった
+- [impressive](/word/impressive)：印象的な、感動的な
 
 <!-- cvid: aid47_bid29 -->

@@ -97,7 +97,7 @@ TOEICでは、サービスの料金説明やIT機器の利用に関する会話�
 ## 🤔  billing との違いは？
 
 - **charging**：課金や充電など、料金を請求する行為や電気を蓄えることを指す。
-- **[billing](/billing)**：請求書の発行や請求業務そのものを指す。
+- **[billing](/word/billing)**：請求書の発行や請求業務そのものを指す。
 
 chargingは「料金を課す・充電する」動作や状態に焦点があり、billingは「請求書作成や請求処理」といった事務的な手続きに重点があります。
 
@@ -105,14 +105,14 @@ chargingは「料金を課す・充電する」動作や状態に焦点があり
 
 ## 🧩 あわせて覚えたい
 
-- [payment](/payment)：支払い
-- [fee](/fee)：料金、手数料
+- [payment](/word/payment)：支払い
+- [fee](/word/fee)：料金、手数料
 
 ---
 
 ## 📖 できればこれも
 
-- [refund](/refund)：返金
-- [invoice](/invoice)：請求書
+- [refund](/word/refund)：返金
+- [invoice](/word/invoice)：請求書
 
 <!-- cvid: aid39_bid04 -->

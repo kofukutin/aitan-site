@@ -97,7 +97,7 @@ TOEICでは医療や技術、ビジネス文書の中で「抽出」や「摘出
 ## 🤔  removal との違いは？
 
 - **extraction**：何かを「引き抜く」「抽出する」ことに重点があり、特に物理的・科学的な場面で使われます。
-- **[removal](/removal)**：単に「取り除く」「除去する」こと全般を指し、方法や手段は問わない幅広い表現です。
+- **[removal](/word/removal)**：単に「取り除く」「除去する」こと全般を指し、方法や手段は問わない幅広い表現です。
 
 extractionは「引き出す・抜き取る」動作に焦点があり、removalは「取り除く」結果や状態に重点があります。
 
@@ -105,14 +105,14 @@ extractionは「引き出す・抜き取る」動作に焦点があり、removal
 
 ## 🧩 あわせて覚えたい
 
-- [insertion](/insertion)：挿入、差し込み
-- [collection](/collection)：収集、採取
+- [insertion](/word/insertion)：挿入、差し込み
+- [collection](/word/collection)：収集、採取
 
 ---
 
 ## 📖 できればこれも
 
-- [procedure](/procedure)：手順、処置
-- [treatment](/treatment)：治療、処置
+- [procedure](/word/procedure)：手順、処置
+- [treatment](/word/treatment)：治療、処置
 
 <!-- cvid: aid29_bid34 -->

@@ -97,7 +97,7 @@ TOEICでは、採用や選挙、賞の選考などの文脈で頻出します。
 ## 🤔  applicant との違いは？
 
 - **candidate**：選ばれる可能性のある「候補者」全般。選挙や賞、職など幅広く使う。
-- **[applicant](/applicant)**：主に「応募者」。特に仕事や学校などに正式に申し込んだ人。
+- **[applicant](/word/applicant)**：主に「応募者」。特に仕事や学校などに正式に申し込んだ人。
 
 candidateは「候補者」として幅広い場面で使われ、applicantは「応募手続きをした人」に限定されます。
 
@@ -105,14 +105,14 @@ candidateは「候補者」として幅広い場面で使われ、applicantは�
 
 ## 🧩 あわせて覚えたい
 
-- [nominee](/nominee)：（賞や役職などの）指名された人、ノミネートされた人
-- [contestant](/contestant)：（コンテストや競技の）参加者、出場者
+- [nominee](/word/nominee)：（賞や役職などの）指名された人、ノミネートされた人
+- [contestant](/word/contestant)：（コンテストや競技の）参加者、出場者
 
 ---
 
 ## 📖 できればこれも
 
-- [interview](/interview)：面接、インタビュー
-- [position](/position)：職、役職
+- [interview](/word/interview)：面接、インタビュー
+- [position](/word/position)：職、役職
 
 <!-- cvid: aid32_bid19 -->

@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や議論の中で「合理的な」「理性
 ## 🤔  reasonable との違いは？
 
 - **rational**：感情に左右されず、論理や理由に基づいていることを強調
-- **[reasonable](/reasonable)**：状況や常識に照らして「妥当」「納得できる」ことを強調
+- **[reasonable](/word/reasonable)**：状況や常識に照らして「妥当」「納得できる」ことを強調
 
 rationalは「論理的で筋が通っている」こと、reasonableは「現実的・常識的に見て納得できる」ことに重点があります。
 
@@ -105,14 +105,14 @@ rationalは「論理的で筋が通っている」こと、reasonableは「現�
 
 ## 🧩 あわせて覚えたい
 
-- [irrational](/irrational)：非合理的な、理性のない
-- [logical](/logical)：論理的な
+- [irrational](/word/irrational)：非合理的な、理性のない
+- [logical](/word/logical)：論理的な
 
 ---
 
 ## 📖 できればこれも
 
-- [objective](/objective)：客観的な
-- [practical](/practical)：実用的な
+- [objective](/word/objective)：客観的な
+- [practical](/word/practical)：実用的な
 
 <!-- cvid: aid28_bid40 -->

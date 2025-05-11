@@ -97,7 +97,7 @@ TOEICでは主に文法問題や語彙問題で、進行形や分詞構文とし
 ## 🤔  donating との違いは？
 
 - **contributing**：広く「貢献する」「役立つ」「寄稿する」など、さまざまな形で価値を加えること。
-- **[donating](/donating)**：主に「寄付する」「お金や物を無償で与える」ことに特化。
+- **[donating](/word/donating)**：主に「寄付する」「お金や物を無償で与える」ことに特化。
 
 contributingは幅広い貢献全般を指し、donatingは特に金銭や物品の寄付に限定される点が異なります。
 
@@ -105,14 +105,14 @@ contributingは幅広い貢献全般を指し、donatingは特に金銭や物品
 
 ## 🧩 あわせて覚えたい
 
-- [support](/support)：支援する、サポートする
-- [participate](/participate)：参加する
+- [support](/word/support)：支援する、サポートする
+- [participate](/word/participate)：参加する
 
 ---
 
 ## 📖 できればこれも
 
-- [collaborate](/collaborate)：協力する
-- [assist](/assist)：手伝う、補助する
+- [collaborate](/word/collaborate)：協力する
+- [assist](/word/assist)：手伝う、補助する
 
 <!-- cvid: aid10_bid07 -->

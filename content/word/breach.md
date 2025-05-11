@@ -97,7 +97,7 @@ TOEICでは契約書やビジネスメール、法的文書の中で「breach of
 ## 🤔  violation との違いは？
 
 - **breach**：契約や約束など、特定のルールや合意を破ることに強く使われる
-- **[violation](/violation)**：法律や規則など、広い範囲の「違反」に使われる
+- **[violation](/word/violation)**：法律や規則など、広い範囲の「違反」に使われる
 
 **breach**は主に契約や約束など「合意事項の破り」に焦点があり、**violation**は法律や規則など一般的な違反全般に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは契約書やビジネスメール、法的文書の中で「breach of
 
 ## 🧩 あわせて覚えたい
 
-- [compliance](/compliance)：法令遵守
-- [infringement](/infringement)：権利侵害
+- [compliance](/word/compliance)：法令遵守
+- [infringement](/word/infringement)：権利侵害
 
 ---
 
 ## 📖 できればこれも
 
-- [clause](/clause)：条項
-- [penalty](/penalty)：罰則
+- [clause](/word/clause)：条項
+- [penalty](/word/penalty)：罰則
 
 <!-- cvid: aid44_bid40 -->

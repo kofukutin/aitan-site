@@ -93,7 +93,7 @@ TOEICでは、前置詞の使い分けやフォーマルな表現として出題
 ## 🤔  under との違いは？
 
 - **beneath**：ややフォーマルで、物理的・抽象的な「下」に使う
-- **[under](/under)**：一般的で、物理的な「下」に幅広く使う
+- **[under](/word/under)**：一般的で、物理的な「下」に幅広く使う
 
 beneathはフォーマルな場面や比喩的な表現で使われやすく、underは日常的な物の位置関係に広く使われます。
 
@@ -101,14 +101,14 @@ beneathはフォーマルな場面や比喩的な表現で使われやすく、u
 
 ## 🧩 あわせて覚えたい
 
-- [below](/below)：～より下に（位置やレベル）
-- [above](/above)：～より上に
+- [below](/word/below)：～より下に（位置やレベル）
+- [above](/word/above)：～より上に
 
 ---
 
 ## 📖 できればこれも
 
-- [beside](/beside)：～のそばに
-- [between](/between)：～の間に
+- [beside](/word/beside)：～のそばに
+- [between](/word/between)：～の間に
 
 <!-- cvid: aid05_bid03 -->

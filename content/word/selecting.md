@@ -97,7 +97,7 @@ TOEICのPart 1（写真描写）で「何かを選んでいる」場面の描写
 ## 🤔  choosing との違いは？
 
 - **selecting**：基準や目的に沿って慎重に選ぶニュアンス
-- **[choosing](/choosing)**：より広く「選ぶ」、日常的でカジュアルな表現
+- **[choosing](/word/choosing)**：より広く「選ぶ」、日常的でカジュアルな表現
 
 selectingは「選抜」や「厳選」など、よりフォーマルで意図的な選択を表し、choosingは単純に「選ぶ」こと全般に使われます。
 
@@ -105,14 +105,14 @@ selectingは「選抜」や「厳選」など、よりフォーマルで意図�
 
 ## 🧩 あわせて覚えたい
 
-- [pick](/pick)：（気軽に）選ぶ
-- [reject](/reject)：拒否する、却下する
+- [pick](/word/pick)：（気軽に）選ぶ
+- [reject](/word/reject)：拒否する、却下する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/arrange)：手配する、整える
-- [prepare](/prepare)：準備する
+- [arrange](/word/arrange)：手配する、整える
+- [prepare](/word/prepare)：準備する
 
 <!-- cvid: aid33_bid44 -->

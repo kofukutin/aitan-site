@@ -98,7 +98,7 @@ TOEICでは「化粧品」や「構成」という意味で会話や説明文に
 ## 🤔  cosmetics との違いは？
 
 - **makeup**：日常的な「化粧」「メイク」を指し、会話でよく使う。
-- **[cosmetics](/cosmetics)**：化粧品そのものを指し、ややフォーマルで商品や成分の話題に多い。
+- **[cosmetics](/word/cosmetics)**：化粧品そのものを指し、ややフォーマルで商品や成分の話題に多い。
 
 makeupは実際の「化粧」や「メイクする行為」に焦点があり、cosmeticsは「化粧品」という物そのものを指します。
 
@@ -106,14 +106,14 @@ makeupは実際の「化粧」や「メイクする行為」に焦点があり�
 
 ## 🧩 あわせて覚えたい
 
-- [appearance](/appearance)：外見、見た目
-- [foundation](/foundation)：ファンデーション、基礎化粧品
+- [appearance](/word/appearance)：外見、見た目
+- [foundation](/word/foundation)：ファンデーション、基礎化粧品
 
 ---
 
 ## 📖 できればこれも
 
-- [outfit](/outfit)：服装、コーディネート
-- [accessory](/accessory)：アクセサリー、小物
+- [outfit](/word/outfit)：服装、コーディネート
+- [accessory](/word/accessory)：アクセサリー、小物
 
 <!-- cvid: aid48_bid30 -->

@@ -97,7 +97,7 @@ TOEICでは、形容詞の語彙問題や、文中で「役立つ」「有用な
 ## 🤔  helpful との違いは？
 
 - **useful**：物や情報、道具などが「役に立つ」「有用な」ことを表す。
-- **[helpful](/helpful)**：人や行動、または助言などが「助けになる」「親切な」ことを表す。
+- **[helpful](/word/helpful)**：人や行動、または助言などが「助けになる」「親切な」ことを表す。
 
 usefulは「実用的」「目的に合って役立つ」ニュアンス、helpfulは「助けてくれる」「親切で支援的」なニュアンスで使い分けます。
 
@@ -105,14 +105,14 @@ usefulは「実用的」「目的に合って役立つ」ニュアンス、helpf
 
 ## 🧩 あわせて覚えたい
 
-- [practical](/practical)：実用的な
-- [beneficial](/beneficial)：有益な
+- [practical](/word/practical)：実用的な
+- [beneficial](/word/beneficial)：有益な
 
 ---
 
 ## 📖 できればこれも
 
-- [convenient](/convenient)：便利な
-- [valuable](/valuable)：価値のある
+- [convenient](/word/convenient)：便利な
+- [valuable](/word/valuable)：価値のある
 
 <!-- cvid: aid28_bid36 -->

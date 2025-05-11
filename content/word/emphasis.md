@@ -97,7 +97,7 @@ TOEICでは「重点を置く」「強調する」といった意味で、主に
 ## 🤔  stress との違いは？
 
 - **emphasis**：特定の事柄や重要性を「強調」すること
-- **[stress](/stress)**：重要性や注意を「強く訴える」こと、または精神的な「ストレス」という意味もある
+- **[stress](/word/stress)**：重要性や注意を「強く訴える」こと、または精神的な「ストレス」という意味もある
 
 emphasisは「重点を置く」「特に強調する」というニュアンスがあり、stressは「強く主張する」または「精神的圧力」という意味も持ちます。
 
@@ -105,14 +105,14 @@ emphasisは「重点を置く」「特に強調する」というニュアンス
 
 ## 🧩 あわせて覚えたい
 
-- [highlight](/highlight)：強調する、目立たせる
-- [priority](/priority)：優先事項、優先順位
+- [highlight](/word/highlight)：強調する、目立たせる
+- [priority](/word/priority)：優先事項、優先順位
 
 ---
 
 ## 📖 できればこれも
 
-- [focus](/focus)：焦点、重点
-- [feature](/feature)：特徴、特集
+- [focus](/word/focus)：焦点、重点
+- [feature](/word/feature)：特徴、特集
 
 <!-- cvid: aid00_bid43 -->

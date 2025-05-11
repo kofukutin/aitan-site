@@ -97,7 +97,7 @@ TOEICでは、衣服や製造、趣味に関する長文や広告、求人情報
 ## 🤔  tailoring との違いは？
 
 - **sewing**：一般的な裁縫や縫い物全般を指す
-- **[tailoring](/tailoring)**：特に洋服の仕立てやオーダーメイドの服作りを指す
+- **[tailoring](/word/tailoring)**：特に洋服の仕立てやオーダーメイドの服作りを指す
 
 sewing は広く「縫うこと」全般を指しますが、tailoring は特にプロの仕立てや服のカスタマイズに使われます。
 
@@ -105,14 +105,14 @@ sewing は広く「縫うこと」全般を指しますが、tailoring は特に
 
 ## 🧩 あわせて覚えたい
 
-- [knitting](/knitting)：編み物
-- [embroidery](/embroidery)：刺繍
+- [knitting](/word/knitting)：編み物
+- [embroidery](/word/embroidery)：刺繍
 
 ---
 
 ## 📖 できればこれも
 
-- [fabric](/fabric)：布地
-- [needle](/needle)：針
+- [fabric](/word/fabric)：布地
+- [needle](/word/needle)：針
 
 <!-- cvid: aid40_bid08 -->

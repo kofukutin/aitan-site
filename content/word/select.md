@@ -97,7 +97,7 @@ TOEICではPart 5の語彙問題や指示文でよく出題されます。ビジ
 ## 🤔  choose との違いは？
 
 - **select**：基準や条件に基づいて慎重に選ぶ、ややフォーマル
-- **[choose](/choose)**：一般的に「選ぶ」、日常的で幅広く使える
+- **[choose](/word/choose)**：一般的に「選ぶ」、日常的で幅広く使える
 
 「select」は「選び抜く」ニュアンスがあり、ビジネスや公式な場面で使われやすいのに対し、「choose」はもっとカジュアルで日常的です。
 
@@ -105,14 +105,14 @@ TOEICではPart 5の語彙問題や指示文でよく出題されます。ビジ
 
 ## 🧩 あわせて覚えたい
 
-- [pick](/pick)：（気軽に）選ぶ
-- [appoint](/appoint)：（役職などに）任命する
+- [pick](/word/pick)：（気軽に）選ぶ
+- [appoint](/word/appoint)：（役職などに）任命する
 
 ---
 
 ## 📖 できればこれも
 
-- [decide](/decide)：決める
-- [prefer](/prefer)：より好む
+- [decide](/word/decide)：決める
+- [prefer](/word/prefer)：より好む
 
 <!-- cvid: aid14_bid42 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人の顔や動作を説明する際
 ## 🤔  opening との違いは？
 
 - **mouth**：人や動物の「口」、または容器・洞窟などの「入り口」
-- **[opening](/opening)**：何かの「開口部」や「始まり」を広く指す
+- **[opening](/word/opening)**：何かの「開口部」や「始まり」を広く指す
 
 mouthは生き物の口や特定の入り口に使い、openingは一般的な「開いている部分」全般に使います。
 
@@ -105,14 +105,14 @@ mouthは生き物の口や特定の入り口に使い、openingは一般的な�
 
 ## 🧩 あわせて覚えたい
 
-- [lip](/lip)：唇
-- [entrance](/entrance)：入り口
+- [lip](/word/lip)：唇
+- [entrance](/word/entrance)：入り口
 
 ---
 
 ## 📖 できればこれも
 
-- [face](/face)：顔
-- [eye](/eye)：目
+- [face](/word/face)：顔
+- [eye](/word/eye)：目
 
 <!-- cvid: aid27_bid23 -->

@@ -97,7 +97,7 @@ TOEICでは、保険やサービス、商品の説明文や広告などで「pre
 ## 🤔  luxury との違いは？
 
 - **premium**：追加料金や特典、付加価値を強調する言葉
-- **[luxury](/luxury)**：ぜいたく品や豪華さ自体を表す言葉
+- **[luxury](/word/luxury)**：ぜいたく品や豪華さ自体を表す言葉
 
 premiumは「通常より高い価値や料金」に焦点があり、luxuryは「ぜいたくで上質なもの」そのものを指します。
 
@@ -105,14 +105,14 @@ premiumは「通常より高い価値や料金」に焦点があり、luxuryは�
 
 ## 🧩 あわせて覚えたい
 
-- [fee](/fee)：料金、手数料
-- [discount](/discount)：割引
+- [fee](/word/fee)：料金、手数料
+- [discount](/word/discount)：割引
 
 ---
 
 ## 📖 できればこれも
 
-- [benefit](/benefit)：利益、恩恵
-- [option](/option)：選択肢
+- [benefit](/word/benefit)：利益、恩恵
+- [option](/word/option)：選択肢
 
 <!-- cvid: aid23_bid08 -->

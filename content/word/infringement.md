@@ -97,7 +97,7 @@ TOEICでは契約書や法務関連の長文、知的財産に関する記事で
 ## 🤔  violation との違いは？
 
 - **infringement**：主に権利や法律、契約などの「侵害」に使われるフォーマルな表現
-- **[violation](/violation)**：規則や法律、約束などの「違反」全般に使われるやや広い表現
+- **[violation](/word/violation)**：規則や法律、約束などの「違反」全般に使われるやや広い表現
 
 infringementは特に知的財産や権利の侵害に限定されることが多く、violationはより一般的な違反行為全般に使われます。
 
@@ -105,14 +105,14 @@ infringementは特に知的財産や権利の侵害に限定されることが�
 
 ## 🧩 あわせて覚えたい
 
-- [breach](/breach)：（契約などの）違反、破棄
-- [compliance](/compliance)：（規則などの）遵守
+- [breach](/word/breach)：（契約などの）違反、破棄
+- [compliance](/word/compliance)：（規則などの）遵守
 
 ---
 
 ## 📖 できればこれも
 
-- [litigation](/litigation)：訴訟
-- [penalty](/penalty)：罰則、罰金
+- [litigation](/word/litigation)：訴訟
+- [penalty](/word/penalty)：罰則、罰金
 
 <!-- cvid: aid04_bid17 -->

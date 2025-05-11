@@ -93,7 +93,7 @@ TOEICの長文読解パートで、出来事の順序や手順を説明する文
 ## 🤔  afterward との違いは？
 
 - **subsequently**：フォーマルで書き言葉向き。「その後、続いて」という意味で、論理的な流れや手順を説明する際に使う。
-- **[afterward](/afterward)**：カジュアルで話し言葉向き。「あとで、その後に」という意味で、日常会話でよく使う。
+- **[afterward](/word/afterward)**：カジュアルで話し言葉向き。「あとで、その後に」という意味で、日常会話でよく使う。
 
 subsequentlyはビジネスや公式な文書で使われ、afterwardは日常会話やカジュアルな場面で使われます。
 
@@ -101,14 +101,14 @@ subsequentlyはビジネスや公式な文書で使われ、afterwardは日常�
 
 ## 🧩 あわせて覚えたい
 
-- [previously](/previously)：以前に、前もって
-- [eventually](/eventually)：最終的に、やがて
+- [previously](/word/previously)：以前に、前もって
+- [eventually](/word/eventually)：最終的に、やがて
 
 ---
 
 ## 📖 できればこれも
 
-- [consequently](/consequently)：その結果として
-- [therefore](/therefore)：それゆえに、したがって
+- [consequently](/word/consequently)：その結果として
+- [therefore](/word/therefore)：それゆえに、したがって
 
 <!-- cvid: aid21_bid39 -->

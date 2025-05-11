@@ -97,7 +97,7 @@ deckはTOEICの写真描写問題で、船や建物の屋外スペースを説�
 ## 🤔  floor との違いは？
 
 - **deck**：船や屋外の平らなスペース、または建物のテラスなどを指す
-- **[floor](/floor)**：建物の「床」や「階」を指す
+- **[floor](/word/floor)**：建物の「床」や「階」を指す
 
 deckは主に屋外や乗り物の平らな部分、floorは建物内部の床や階層を表します。
 
@@ -105,14 +105,14 @@ deckは主に屋外や乗り物の平らな部分、floorは建物内部の床�
 
 ## 🧩 あわせて覚えたい
 
-- [balcony](/balcony)：バルコニー、建物の外に張り出した小さなスペース
-- [platform](/platform)：プラットフォーム、駅のホームや壇上
+- [balcony](/word/balcony)：バルコニー、建物の外に張り出した小さなスペース
+- [platform](/word/platform)：プラットフォーム、駅のホームや壇上
 
 ---
 
 ## 📖 できればこれも
 
-- [cabin](/cabin)：（船や飛行機の）客室、小屋
-- [bridge](/bridge)：（船の）操舵室、橋
+- [cabin](/word/cabin)：（船や飛行機の）客室、小屋
+- [bridge](/word/bridge)：（船の）操舵室、橋
 
 <!-- cvid: aid15_bid48 -->

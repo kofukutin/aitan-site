@@ -97,7 +97,7 @@ TOEICでは主にメールや通知文、契約書などで「キャンセル」
 ## 🤔  termination との違いは？
 
 - **cancellation**：予約や注文、イベントなどを「取り消す」「中止する」ことを指し、比較的軽いニュアンス。
-- **[termination](/termination)**：契約や雇用などを「終了」「打ち切り」することを指し、より正式・重大な場面で使われる。
+- **[termination](/word/termination)**：契約や雇用などを「終了」「打ち切り」することを指し、より正式・重大な場面で使われる。
 
 cancellationは日常的な予定や予約の取り消し、terminationは契約や雇用などの正式な終了に使い分けます。
 
@@ -105,14 +105,14 @@ cancellationは日常的な予定や予約の取り消し、terminationは契約
 
 ## 🧩 あわせて覚えたい
 
-- [postpone](/postpone)：延期する
-- [confirmation](/confirmation)：確認、承認
+- [postpone](/word/postpone)：延期する
+- [confirmation](/word/confirmation)：確認、承認
 
 ---
 
 ## 📖 できればこれも
 
-- [refund](/refund)：返金
-- [reservation](/reservation)：予約
+- [refund](/word/refund)：返金
+- [reservation](/word/reservation)：予約
 
 <!-- cvid: aid34_bid46 -->

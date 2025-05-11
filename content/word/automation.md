@@ -97,7 +97,7 @@ TOEICでは、工場やIT関連の文脈で「automation」が頻出します。
 ## 🤔  mechanization との違いは？
 
 - **automation**：機械やシステムによる自動化（人の手をほとんど必要としない）
-- **[mechanization](/mechanization)**：機械化（人の操作が一部必要な場合も多い）
+- **[mechanization](/word/mechanization)**：機械化（人の操作が一部必要な場合も多い）
 
 automationは完全な自動制御を指し、mechanizationは「手作業→機械作業」への移行を意味します。
 
@@ -105,14 +105,14 @@ automationは完全な自動制御を指し、mechanizationは「手作業→機
 
 ## 🧩 あわせて覚えたい
 
-- [robotics](/robotics)：ロボット工学
-- [manual](/manual)：手作業の、手動の
+- [robotics](/word/robotics)：ロボット工学
+- [manual](/word/manual)：手作業の、手動の
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/process)：工程、過程
-- [system](/system)：システム、仕組み
+- [process](/word/process)：工程、過程
+- [system](/word/system)：システム、仕組み
 
 <!-- cvid: aid37_bid24 -->

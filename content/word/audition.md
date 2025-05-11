@@ -97,7 +97,7 @@ TOEICでは、エンターテインメント業界や採用に関する会話で
 ## 🤔  interview との違いは？
 
 - **audition**：俳優や歌手などが実技を披露して選考される場
-- **[interview](/interview)**：一般的な仕事や学校などの面接
+- **[interview](/word/interview)**：一般的な仕事や学校などの面接
 
 auditionはパフォーマンス能力を見せる選考、interviewは会話や質疑応答による面接という違いがあります。
 
@@ -105,14 +105,14 @@ auditionはパフォーマンス能力を見せる選考、interviewは会話や
 
 ## 🧩 あわせて覚えたい
 
-- [rehearsal](/rehearsal)：リハーサル、本番前の練習
-- [performance](/performance)：公演、演技、パフォーマンス
+- [rehearsal](/word/rehearsal)：リハーサル、本番前の練習
+- [performance](/word/performance)：公演、演技、パフォーマンス
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/candidate)：候補者
-- [talent](/talent)：才能、才能ある人
+- [candidate](/word/candidate)：候補者
+- [talent](/word/talent)：才能、才能ある人
 
 <!-- cvid: aid43_bid44 -->

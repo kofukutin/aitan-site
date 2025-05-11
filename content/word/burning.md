@@ -97,7 +97,7 @@ TOEICでは、火災や緊急事態、または比喩的に「緊急の課題」
 ## 🤔  blazing との違いは？
 
 - **burning**：燃えている状態、または比喩的に「切実な」「緊急の」
-- **[blazing](/blazing)**：非常に激しく燃えている、まぶしいほど明るい
+- **[blazing](/word/blazing)**：非常に激しく燃えている、まぶしいほど明るい
 
 「burning」は一般的な「燃えている」状態や比喩的な強い感情・問題に使い、「blazing」はより激しく、勢いよく燃える様子や強い光を強調します。
 
@@ -105,14 +105,14 @@ TOEICでは、火災や緊急事態、または比喩的に「緊急の課題」
 
 ## 🧩 あわせて覚えたい
 
-- [flame](/flame)：炎
-- [ignite](/ignite)：点火する、火をつける
+- [flame](/word/flame)：炎
+- [ignite](/word/ignite)：点火する、火をつける
 
 ---
 
 ## 📖 できればこれも
 
-- [smoke](/smoke)：煙
-- [melt](/melt)：溶ける
+- [smoke](/word/smoke)：煙
+- [melt](/word/melt)：溶ける
 
 <!-- cvid: aid19_bid41 -->

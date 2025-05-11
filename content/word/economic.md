@@ -97,7 +97,7 @@ TOEICでは経済ニュースやビジネス記事、企業の報告書などで
 ## 🤔  economical との違いは？
 
 - **economic**：経済全体や経済活動に関する
-- **[economical](/economical)**：節約的な、無駄がない
+- **[economical](/word/economical)**：節約的な、無駄がない
 
 economicは「経済の」など広い意味で使い、economicalは「節約になる」「コスパが良い」といった意味で使い分けます。
 
@@ -105,14 +105,14 @@ economicは「経済の」など広い意味で使い、economicalは「節約�
 
 ## 🧩 あわせて覚えたい
 
-- [financial](/financial)：財政の、金融の
-- [commercial](/commercial)：商業の、商業的な
+- [financial](/word/financial)：財政の、金融の
+- [commercial](/word/commercial)：商業の、商業的な
 
 ---
 
 ## 📖 できればこれも
 
-- [finance](/finance)：財政、資金
-- [profit](/profit)：利益
+- [finance](/word/finance)：財政、資金
+- [profit](/word/profit)：利益
 
 <!-- cvid: aid15_bid12 -->

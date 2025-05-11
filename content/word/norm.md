@@ -97,7 +97,7 @@ TOEICでは、企業文化や社会的なルール、行動基準を説明する
 ## 🤔  standard との違いは？
 
 - **norm**：社会や集団で一般的に受け入れられている行動や考え方の基準
-- **[standard](/standard)**：品質や性能などを評価するための客観的な基準
+- **[standard](/word/standard)**：品質や性能などを評価するための客観的な基準
 
 normは「みんなが当然と思っているルール」、standardは「公式な基準や規格」といった違いがあります。
 
@@ -105,14 +105,14 @@ normは「みんなが当然と思っているルール」、standardは「公�
 
 ## 🧩 あわせて覚えたい
 
-- [custom](/custom)：慣習、習慣
-- [rule](/rule)：規則、ルール
+- [custom](/word/custom)：慣習、習慣
+- [rule](/word/rule)：規則、ルール
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/policy)：方針、政策
-- [principle](/principle)：原則、信条
+- [policy](/word/policy)：方針、政策
+- [principle](/word/principle)：原則、信条
 
 <!-- cvid: aid29_bid23 -->

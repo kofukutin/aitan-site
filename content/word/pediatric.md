@@ -97,7 +97,7 @@ The hospital opened a new pediatric department last year.
 ## 🤔  child との違いは？
 
 - **pediatric**：医療や専門分野で「小児科の」「子どもの医療に関する」という意味で使う
-- **[child](/child)**：一般的に「子ども」という意味で、年齢や立場を問わず幅広く使う
+- **[child](/word/child)**：一般的に「子ども」という意味で、年齢や立場を問わず幅広く使う
 
 pediatricは医療や専門的な文脈で限定的に使われ、childは日常的に「子ども」を指します。
 
@@ -105,14 +105,14 @@ pediatricは医療や専門的な文脈で限定的に使われ、childは日常
 
 ## 🧩 あわせて覚えたい
 
-- [adult](/adult)：大人
-- [infant](/infant)：乳児
+- [adult](/word/adult)：大人
+- [infant](/word/infant)：乳児
 
 ---
 
 ## 📖 できればこれも
 
-- [clinical](/clinical)：臨床の
-- [medical](/medical)：医療の
+- [clinical](/word/clinical)：臨床の
+- [medical](/word/medical)：医療の
 
 <!-- cvid: aid00_bid41 -->

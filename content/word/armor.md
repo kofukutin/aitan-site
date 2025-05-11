@@ -97,7 +97,7 @@ TOEICでは、軍事や技術、歴史に関する長文や説明文で登場す
 ## 🤔  shield との違いは？
 
 - **armor**：体全体や乗り物を守るためのよろい・装甲
-- **[shield](/shield)**：手に持って使う盾
+- **[shield](/word/shield)**：手に持って使う盾
 
 armorは全身や機械など広い範囲を守る防具、shieldは主に手で持って部分的に防御する道具です。
 
@@ -105,14 +105,14 @@ armorは全身や機械など広い範囲を守る防具、shieldは主に手で
 
 ## 🧩 あわせて覚えたい
 
-- [helmet](/helmet)：ヘルメット、頭部を守る防具
-- [protection](/protection)：保護、防御
+- [helmet](/word/helmet)：ヘルメット、頭部を守る防具
+- [protection](/word/protection)：保護、防御
 
 ---
 
 ## 📖 できればこれも
 
-- [weapon](/weapon)：武器
-- [defense](/defense)：防御
+- [weapon](/word/weapon)：武器
+- [defense](/word/defense)：防御
 
 <!-- cvid: aid48_bid49 -->

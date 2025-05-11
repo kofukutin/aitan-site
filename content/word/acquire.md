@@ -97,7 +97,7 @@ TOEICでは「知識やスキルを得る」「会社を買収する」などの
 ## 🤔  obtain との違いは？
 
 - **acquire**：努力や経験を通じて得る、身につける（フォーマル）
-- **[obtain](/obtain)**：一般的に手に入れる、入手する（ややフォーマル）
+- **[obtain](/word/obtain)**：一般的に手に入れる、入手する（ややフォーマル）
 
 acquireは「努力や過程を経て得る」ニュアンスが強く、obtainは「単に手に入れる」という意味で使われます。
 
@@ -105,14 +105,14 @@ acquireは「努力や過程を経て得る」ニュアンスが強く、obtain�
 
 ## 🧩 あわせて覚えたい
 
-- [purchase](/purchase)：購入する、買う
-- [inherit](/inherit)：相続する、受け継ぐ
+- [purchase](/word/purchase)：購入する、買う
+- [inherit](/word/inherit)：相続する、受け継ぐ
 
 ---
 
 ## 📖 できればこれも
 
-- [achieve](/achieve)：達成する、成し遂げる
-- [gain](/gain)：得る、獲得する
+- [achieve](/word/achieve)：達成する、成し遂げる
+- [gain](/word/gain)：得る、獲得する
 
 <!-- cvid: aid29_bid16 -->

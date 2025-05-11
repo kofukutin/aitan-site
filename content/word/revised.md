@@ -97,7 +97,7 @@ TOEICでは、主にビジネス文書やメールの中で「修正版」「改
 ## 🤔  updated との違いは？
 
 - **revised**：内容を見直して修正・改訂した（特に文書や計画など）
-- **[updated](/updated)**：最新情報にアップデートした、新しくした
+- **[updated](/word/updated)**：最新情報にアップデートした、新しくした
 
 「revised」は主に内容の見直しや修正を強調し、「updated」は新しい情報を追加したり最新状態にしたことを強調します。
 
@@ -105,14 +105,14 @@ TOEICでは、主にビジネス文書やメールの中で「修正版」「改
 
 ## 🧩 あわせて覚えたい
 
-- [amended](/amended)：（文書などが）修正された
-- [corrected](/corrected)：訂正された、正された
+- [amended](/word/amended)：（文書などが）修正された
+- [corrected](/word/corrected)：訂正された、正された
 
 ---
 
 ## 📖 できればこれも
 
-- [finalized](/finalized)：最終決定された
-- [modified](/modified)：変更された、修正された
+- [finalized](/word/finalized)：最終決定された
+- [modified](/word/modified)：変更された、修正された
 
 <!-- cvid: aid08_bid21 -->

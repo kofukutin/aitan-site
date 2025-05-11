@@ -98,7 +98,7 @@ TOEICでは、研修やコース、作業などが「集中的に」行われる
 ## 🤔  extensive との違いは？
 
 - **intensive**：短期間・狭い範囲で集中的に行う、力を入れる
-- **[extensive](/extensive)**：広範囲・長期間にわたる、広がりがある
+- **[extensive](/word/extensive)**：広範囲・長期間にわたる、広がりがある
 
 intensiveは「深さ・密度」に重点があり、extensiveは「広がり・範囲」に重点があります。
 
@@ -106,14 +106,14 @@ intensiveは「深さ・密度」に重点があり、extensiveは「広がり�
 
 ## 🧩 あわせて覚えたい
 
-- [concentrated](/concentrated)：濃縮された、集中した
-- [thorough](/thorough)：徹底的な、完全な
+- [concentrated](/word/concentrated)：濃縮された、集中した
+- [thorough](/word/thorough)：徹底的な、完全な
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/efficient)：効率的な
-- [focused](/focused)：集中した
+- [efficient](/word/efficient)：効率的な
+- [focused](/word/focused)：集中した
 
 <!-- cvid: aid21_bid09 -->

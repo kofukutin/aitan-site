@@ -97,7 +97,7 @@ TOEICでは、金属や素材、会員ランクなどの文脈でplatinumが登�
 ## 🤔  silver との違いは？
 
 - **platinum**：白金。銀よりも希少で高価な貴金属。宝飾品や高級サービスの象徴。
-- **[silver](/silver)**：銀。platinumより一般的で、やや安価な貴金属。
+- **[silver](/word/silver)**：銀。platinumより一般的で、やや安価な貴金属。
 
 platinumは高級感や希少性を強調する場面で使われ、silverはより一般的な金属や色として使われます。
 
@@ -105,14 +105,14 @@ platinumは高級感や希少性を強調する場面で使われ、silverはよ
 
 ## 🧩 あわせて覚えたい
 
-- [gold](/gold)：金。価値の高い貴金属。
-- [metal](/metal)：金属。鉄や銅なども含む一般的な用語。
+- [gold](/word/gold)：金。価値の高い貴金属。
+- [metal](/word/metal)：金属。鉄や銅なども含む一般的な用語。
 
 ---
 
 ## 📖 できればこれも
 
-- [diamond](/diamond)：ダイヤモンド。宝石の一種。
-- [precious](/precious)：貴重な。価値の高いものを表す形容詞。
+- [diamond](/word/diamond)：ダイヤモンド。宝石の一種。
+- [precious](/word/precious)：貴重な。価値の高いものを表す形容詞。
 
 <!-- cvid: aid49_bid23 -->

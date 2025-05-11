@@ -97,7 +97,7 @@ TOEICではビジネス文書や広告、Eメールの中で「小売業者」�
 ## 🤔  wholesaler との違いは？
 
 - **retailer**：消費者に直接商品を販売する小売業者
-- **[wholesaler](/wholesaler)**：小売業者などに大量に商品を売る卸売業者
+- **[wholesaler](/word/wholesaler)**：小売業者などに大量に商品を売る卸売業者
 
 retailerは一般消費者向け、wholesalerは主に小売業者向けに商品を販売する点が大きな違いです。
 
@@ -105,14 +105,14 @@ retailerは一般消費者向け、wholesalerは主に小売業者向けに商�
 
 ## 🧩 あわせて覚えたい
 
-- [distributor](/distributor)：流通業者、卸売業者
-- [customer](/customer)：顧客、買い手
+- [distributor](/word/distributor)：流通業者、卸売業者
+- [customer](/word/customer)：顧客、買い手
 
 ---
 
 ## 📖 できればこれも
 
-- [supplier](/supplier)：供給業者、納入業者
-- [vendor](/vendor)：売り手、販売業者
+- [supplier](/word/supplier)：供給業者、納入業者
+- [vendor](/word/vendor)：売り手、販売業者
 
 <!-- cvid: aid05_bid12 -->

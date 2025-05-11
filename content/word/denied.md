@@ -97,7 +97,7 @@ TOEICでは、申請や要求が「拒否された」「認められなかった
 ## 🤔  rejected との違いは？
 
 - **denied**：申請や要求などを「認めない」「拒否する」ことを表す。
-- **[rejected](/rejected)**：提案や申し出などを「却下する」「拒絶する」ことを表す。
+- **[rejected](/word/rejected)**：提案や申し出などを「却下する」「拒絶する」ことを表す。
 
 deniedは「認めない・受け入れない」ニュアンスが強く、rejectedは「はっきりと拒絶する」印象があります。
 
@@ -105,14 +105,14 @@ deniedは「認めない・受け入れない」ニュアンスが強く、rejec
 
 ## 🧩 あわせて覚えたい
 
-- [refuse](/refuse)：断る、拒む
-- [approve](/approve)：承認する
+- [refuse](/word/refuse)：断る、拒む
+- [approve](/word/approve)：承認する
 
 ---
 
 ## 📖 できればこれも
 
-- [accept](/accept)：受け入れる
-- [allow](/allow)：許可する
+- [accept](/word/accept)：受け入れる
+- [allow](/word/allow)：許可する
 
 <!-- cvid: aid23_bid45 -->

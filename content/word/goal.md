@@ -96,7 +96,7 @@ TOEICでは会議やビジネスの会話で「目標」「目的」としてよ
 ## 🤔  objective との違いは？
 
 - **goal**：最終的に達成したい「目標」や「ゴール」を指す
-- **[objective](/objective)**：達成すべき「具体的な目的」や「目標」（ややフォーマル）
+- **[objective](/word/objective)**：達成すべき「具体的な目的」や「目標」（ややフォーマル）
 
 goalは最終的な到達点や夢に使われ、objectiveは計画的・具体的な達成項目に使われます。
 
@@ -104,14 +104,14 @@ goalは最終的な到達点や夢に使われ、objectiveは計画的・具体�
 
 ## 🧩 あわせて覚えたい
 
-- [target](/target)：狙い、的
-- [purpose](/purpose)：目的、意図
+- [target](/word/target)：狙い、的
+- [purpose](/word/purpose)：目的、意図
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/plan)：計画
-- [result](/result)：結果
+- [plan](/word/plan)：計画
+- [result](/word/result)：結果
 
 <!-- cvid: aid24_bid47 -->

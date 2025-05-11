@@ -97,7 +97,7 @@ treatはTOEICの会話や説明文で「対応する」「治療する」など�
 ## 🤔  handle との違いは？
 
 - **treat**：人や物事を「ある方法で扱う」「治療する」「ごちそうする」など幅広い意味。
-- **[handle](/handle)**：主に「問題や物事をうまく処理する」「取り扱う」という実務的な意味。
+- **[handle](/word/handle)**：主に「問題や物事をうまく処理する」「取り扱う」という実務的な意味。
 
 treatは「態度・方法」に焦点があり、handleは「実際の処理・対処」に重点があります。
 
@@ -105,14 +105,14 @@ treatは「態度・方法」に焦点があり、handleは「実際の処理・
 
 ## 🧩 あわせて覚えたい
 
-- [deal](/deal)：対処する、取引する
-- [process](/process)：処理する、加工する
+- [deal](/word/deal)：対処する、取引する
+- [process](/word/process)：処理する、加工する
 
 ---
 
 ## 📖 できればこれも
 
-- [manage](/manage)：管理する、うまくやる
-- [approach](/approach)：取り組む、接近する
+- [manage](/word/manage)：管理する、うまくやる
+- [approach](/word/approach)：取り組む、接近する
 
 <!-- cvid: aid22_bid09 -->

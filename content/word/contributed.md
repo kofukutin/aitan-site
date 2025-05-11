@@ -97,7 +97,7 @@ TOEICでは「contribute」の過去形や過去分詞として、文法問題�
 ## 🤔  donate との違いは？
 
 - **contributed**：全体のために貢献したり、何かを提供したりする広い意味。
-- **[donate](/donate)**：主にお金や物を慈善目的で寄付する意味。
+- **[donate](/word/donate)**：主にお金や物を慈善目的で寄付する意味。
 
 「contributed」は幅広く「貢献する」「提供する」場面で使われますが、「donate」は特に慈善活動や寄付に限定される傾向があります。
 
@@ -105,14 +105,14 @@ TOEICでは「contribute」の過去形や過去分詞として、文法問題�
 
 ## 🧩 あわせて覚えたい
 
-- [support](/support)：支援する、サポートする
-- [provide](/provide)：提供する、供給する
+- [support](/word/support)：支援する、サポートする
+- [provide](/word/provide)：提供する、供給する
 
 ---
 
 ## 📖 できればこれも
 
-- [participate](/participate)：参加する
-- [assist](/assist)：手伝う、補助する
+- [participate](/word/participate)：参加する
+- [assist](/word/assist)：手伝う、補助する
 
 <!-- cvid: aid32_bid26 -->

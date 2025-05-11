@@ -97,7 +97,7 @@ TOEICでは、機械やシステムのトラブルに関する説明文やメー
 ## 🤔  breakdown との違いは？
 
 - **malfunction**：機械やシステムが正常に動作しないこと（フォーマル、技術的）
-- **[breakdown](/breakdown)**：完全な故障や停止（ややカジュアル、広い意味）
+- **[breakdown](/word/breakdown)**：完全な故障や停止（ややカジュアル、広い意味）
 
 「malfunction」は部分的な不具合や技術的な問題に使われ、「breakdown」は完全に動かなくなる場合や精神的な崩壊にも使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、機械やシステムのトラブルに関する説明文やメー
 
 ## 🧩 あわせて覚えたい
 
-- [failure](/failure)：失敗、故障
-- [defect](/defect)：欠陥、不良
+- [failure](/word/failure)：失敗、故障
+- [defect](/word/defect)：欠陥、不良
 
 ---
 
 ## 📖 できればこれも
 
-- [operate](/operate)：操作する、作動する
-- [repair](/repair)：修理する
+- [operate](/word/operate)：操作する、作動する
+- [repair](/word/repair)：修理する
 
 <!-- cvid: aid21_bid11 -->

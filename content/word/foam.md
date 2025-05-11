@@ -97,7 +97,7 @@ TOEICでは主に写真描写パートで、洗剤や梱包材、飲み物の泡
 ## 🤔  bubble との違いは？
 
 - **foam**：たくさんの小さな泡が集まった状態や発泡体を指す
-- **[bubble](/bubble)**：1つ1つの丸い泡や気泡を指す
+- **[bubble](/word/bubble)**：1つ1つの丸い泡や気泡を指す
 
 foamは集合的な「泡」や素材としての「発泡体」を表し、bubbleは個々の「泡」を指します。
 
@@ -105,14 +105,14 @@ foamは集合的な「泡」や素材としての「発泡体」を表し、bubb
 
 ## 🧩 あわせて覚えたい
 
-- [liquid](/liquid)：液体
-- [sponge](/sponge)：スポンジ
+- [liquid](/word/liquid)：液体
+- [sponge](/word/sponge)：スポンジ
 
 ---
 
 ## 📖 できればこれも
 
-- [steam](/steam)：蒸気
-- [powder](/powder)：粉末
+- [steam](/word/steam)：蒸気
+- [powder](/word/powder)：粉末
 
 <!-- cvid: aid22_bid25 -->

@@ -97,7 +97,7 @@ TOEICでは、人物の性格やプロジェクトの特徴を説明する文脈
 ## 🤔  eager との違いは？
 
 - **ambitious**：大きな目標や成功を強く望む、向上心がある
-- **[eager](/eager)**：何かをしたくてたまらない、熱心な
+- **[eager](/word/eager)**：何かをしたくてたまらない、熱心な
 
 ambitiousは「高い目標や成功を目指す意欲」を表し、eagerは「今すぐ何かをしたい強い気持ち」を表します。
 
@@ -105,14 +105,14 @@ ambitiousは「高い目標や成功を目指す意欲」を表し、eagerは「
 
 ## 🧩 あわせて覚えたい
 
-- [motivated](/motivated)：やる気がある
-- [aspire](/aspire)：強く望む、志す
+- [motivated](/word/motivated)：やる気がある
+- [aspire](/word/aspire)：強く望む、志す
 
 ---
 
 ## 📖 できればこれも
 
-- [confident](/confident)：自信がある
-- [determined](/determined)：決意している
+- [confident](/word/confident)：自信がある
+- [determined](/word/determined)：決意している
 
 <!-- cvid: aid23_bid22 -->

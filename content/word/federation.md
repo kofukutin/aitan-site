@@ -97,7 +97,7 @@ federationは、TOEICの長文読解パートで組織や団体の説明、国�
 ## 🤔  association との違いは？
 
 - **federation**：独立した団体や国が協力して作る「連邦」「連盟」など、より強い結びつきや公式な枠組みを持つ組織。
-- **[association](/association)**：共通の目的で集まる「協会」「団体」など、比較的ゆるやかな集まり。
+- **[association](/word/association)**：共通の目的で集まる「協会」「団体」など、比較的ゆるやかな集まり。
 
 federationは独立性を保ちつつ協力する公式な組織、associationは目的を共有する集まりで結びつきが比較的弱い点が異なります。
 
@@ -105,14 +105,14 @@ federationは独立性を保ちつつ協力する公式な組織、association�
 
 ## 🧩 あわせて覚えたい
 
-- [union](/union)：労働組合や連合
-- [confederation](/confederation)：連合、同盟（より緩やかな結びつき）
+- [union](/word/union)：労働組合や連合
+- [confederation](/word/confederation)：連合、同盟（より緩やかな結びつき）
 
 ---
 
 ## 📖 できればこれも
 
-- [organization](/organization)：組織、団体
-- [committee](/committee)：委員会
+- [organization](/word/organization)：組織、団体
+- [committee](/word/committee)：委員会
 
 <!-- cvid: aid01_bid00 -->

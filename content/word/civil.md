@@ -97,7 +97,7 @@ TOEICでは「民事」「市民」「礼儀正しい」などの意味で、法
 ## 🤔  polite との違いは？
 
 - **civil**：社会的・法律的な「市民の」「民間の」や、形式的な「礼儀正しい」を表す
-- **[polite](/polite)**：個人の態度や言動が「丁寧」「礼儀正しい」であることを表す
+- **[polite](/word/polite)**：個人の態度や言動が「丁寧」「礼儀正しい」であることを表す
 
 civilは社会や法律、形式的な礼儀に使われ、politeは個人の丁寧さや親しみを込めた礼儀に使われます。
 
@@ -105,14 +105,14 @@ civilは社会や法律、形式的な礼儀に使われ、politeは個人の丁
 
 ## 🧩 あわせて覚えたい
 
-- [legal](/legal)：法律の、合法の
-- [public](/public)：公共の、公衆の
+- [legal](/word/legal)：法律の、合法の
+- [public](/word/public)：公共の、公衆の
 
 ---
 
 ## 📖 できればこれも
 
-- [legal](/legal)：法律の、合法の
-- [public](/public)：公共の、公衆の
+- [legal](/word/legal)：法律の、合法の
+- [public](/word/public)：公共の、公衆の
 
 <!-- cvid: aid40_bid32 -->

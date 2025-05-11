@@ -103,7 +103,7 @@ TOEICでは「abide by（～に従う）」の形で規則や契約に関する�
 ## 🤔  tolerate との違いは？
 
 - **abide**：規則や決まりを守る、または（否定文で）我慢する
-- **[tolerate](/tolerate)**：嫌なことを「許容する」「耐える」
+- **[tolerate](/word/tolerate)**：嫌なことを「許容する」「耐える」
 
 abideは「規則・ルールに従う」意味が強く、tolerateは「嫌なことを我慢して受け入れる」ニュアンスです。
 
@@ -111,14 +111,14 @@ abideは「規則・ルールに従う」意味が強く、tolerateは「嫌な�
 
 ## 🧩 あわせて覚えたい
 
-- [comply](/comply)：（規則・命令に）従う
-- [obey](/obey)：（人や命令に）従う
+- [comply](/word/comply)：（規則・命令に）従う
+- [obey](/word/obey)：（人や命令に）従う
 
 ---
 
 ## 📖 できればこれも
 
-- [adhere](/adhere)：（規則・信念などを）固く守る
-- [conform](/conform)：（規則・慣習に）従う
+- [adhere](/word/adhere)：（規則・信念などを）固く守る
+- [conform](/word/conform)：（規則・慣習に）従う
 
 <!-- cvid: aid26_bid04 -->

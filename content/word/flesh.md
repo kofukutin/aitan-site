@@ -97,7 +97,7 @@ The report describes the impact of the disease on human flesh.
 ## 🤔  meat との違いは？
 
 - **flesh**：生きている体の「肉」や果物の「果肉」など、柔らかい部分全般を指す
-- **[meat](/meat)**：食用の「肉」を指し、料理や食品の文脈で使う
+- **[meat](/word/meat)**：食用の「肉」を指し、料理や食品の文脈で使う
 
 fleshは医学的・生物学的な文脈や比喩で使われ、meatは食べ物としての肉を表します。
 
@@ -105,14 +105,14 @@ fleshは医学的・生物学的な文脈や比喩で使われ、meatは食べ�
 
 ## 🧩 あわせて覚えたい
 
-- [skin](/skin)：皮膚
-- [muscle](/muscle)：筋肉
+- [skin](/word/skin)：皮膚
+- [muscle](/word/muscle)：筋肉
 
 ---
 
 ## 📖 できればこれも
 
-- [bone](/bone)：骨
-- [blood](/blood)：血
+- [bone](/word/bone)：骨
+- [blood](/word/blood)：血
 
 <!-- cvid: aid47_bid31 -->

@@ -97,7 +97,7 @@ Several employees are out with the flu.
 ## 🤔  cold との違いは？
 
 - **flu**：インフルエンザ。高熱や強い症状を伴うことが多い。
-- **[cold](/cold)**：風邪。fluよりも症状が軽いことが多い。
+- **[cold](/word/cold)**：風邪。fluよりも症状が軽いことが多い。
 
 fluは重いウイルス感染症、coldは一般的な風邪で、症状の重さや治療法が異なります。
 
@@ -105,14 +105,14 @@ fluは重いウイルス感染症、coldは一般的な風邪で、症状の重�
 
 ## 🧩 あわせて覚えたい
 
-- [virus](/virus)：ウイルス
-- [fever](/fever)：熱
+- [virus](/word/virus)：ウイルス
+- [fever](/word/fever)：熱
 
 ---
 
 ## 📖 できればこれも
 
-- [cough](/cough)：せき
-- [sneeze](/sneeze)：くしゃみ
+- [cough](/word/cough)：せき
+- [sneeze](/word/sneeze)：くしゃみ
 
 <!-- cvid: aid29_bid11 -->

@@ -97,7 +97,7 @@ saidは会話文や説明文で頻出し、発言内容を伝える場面でよ�
 ## 🤔  told との違いは？
 
 - **said**：「言った」「述べた」など、発言内容そのものに焦点
-- **[told](/told)**：「伝えた」「話した」など、相手（伝える相手）が明確
+- **[told](/word/told)**：「伝えた」「話した」など、相手（伝える相手）が明確
 
 saidは内容に重点を置き、toldは「誰に」伝えたかを強調します。
 
@@ -105,14 +105,14 @@ saidは内容に重点を置き、toldは「誰に」伝えたかを強調しま
 
 ## 🧩 あわせて覚えたい
 
-- [mention](/mention)：言及する
-- [state](/state)：述べる、明言する
+- [mention](/word/mention)：言及する
+- [state](/word/state)：述べる、明言する
 
 ---
 
 ## 📖 できればこれも
 
-- [speak](/speak)：話す
-- [report](/report)：報告する
+- [speak](/word/speak)：話す
+- [report](/word/report)：報告する
 
 <!-- cvid: aid00_bid41 -->

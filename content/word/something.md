@@ -93,7 +93,7 @@ TOEICではPart 2の応答問題や、Part 3・4の会話文でよく登場し�
 ## 🤔  anything との違いは？
 
 - **something**：肯定文や丁寧な疑問文で「何か」を表す
-- **[anything](/anything)**：否定文や疑問文で「何か」「何でも」を表す
+- **[anything](/word/anything)**：否定文や疑問文で「何か」「何でも」を表す
 
 somethingは「何かある」と前向きなニュアンス、anythingは「何でも」「何もない」と幅広く使われます。
 
@@ -101,14 +101,14 @@ somethingは「何かある」と前向きなニュアンス、anythingは「何
 
 ## 🧩 あわせて覚えたい
 
-- [nothing](/nothing)：何も～ない
-- [everything](/everything)：すべてのもの
+- [nothing](/word/nothing)：何も～ない
+- [everything](/word/everything)：すべてのもの
 
 ---
 
 ## 📖 できればこれも
 
-- [someone](/someone)：誰か
-- [anything](/anything)：何でも、何か
+- [someone](/word/someone)：誰か
+- [anything](/word/anything)：何でも、何か
 
 <!-- cvid: aid01_bid28 -->

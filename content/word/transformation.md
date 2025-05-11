@@ -97,7 +97,7 @@ TOEICではビジネスやIT分野の長文で「transformation」が使われ�
 ## 🤔  conversion との違いは？
 
 - **transformation**：質や本質が大きく変わる「変革」や「変身」を強調
-- **[conversion](/conversion)**：主に「用途や形式の変更」など、機能や状態の切り替えを指す
+- **[conversion](/word/conversion)**：主に「用途や形式の変更」など、機能や状態の切り替えを指す
 
 transformationは「根本的な変化」、conversionは「用途や形式の切り替え」といった違いがあります。
 
@@ -105,14 +105,14 @@ transformationは「根本的な変化」、conversionは「用途や形式の�
 
 ## 🧩 あわせて覚えたい
 
-- [innovation](/innovation)：革新、新しいアイデアや方法
-- [modification](/modification)：修正、部分的な変更
+- [innovation](/word/innovation)：革新、新しいアイデアや方法
+- [modification](/word/modification)：修正、部分的な変更
 
 ---
 
 ## 📖 できればこれも
 
-- [transition](/transition)：移行、変わり目
-- [adaptation](/adaptation)：適応、順応
+- [transition](/word/transition)：移行、変わり目
+- [adaptation](/word/adaptation)：適応、順応
 
 <!-- cvid: aid25_bid18 -->

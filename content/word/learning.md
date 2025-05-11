@@ -97,7 +97,7 @@ TOEICではPart 7の長文や説明文で「学習」「研修」などの意味
 ## 🤔  study との違いは？
 
 - **learning**：学ぶ「過程」や「状態」全体を指す
-- **[study](/study)**：特定の「勉強」や「研究」行為を指す
+- **[study](/word/study)**：特定の「勉強」や「研究」行為を指す
 
 「learning」は知識やスキルを身につける広い意味で使い、「study」は本や資料を使った具体的な勉強や研究を指します。
 
@@ -105,14 +105,14 @@ TOEICではPart 7の長文や説明文で「学習」「研修」などの意味
 
 ## 🧩 あわせて覚えたい
 
-- [knowledge](/knowledge)：知識
-- [education](/education)：教育
+- [knowledge](/word/knowledge)：知識
+- [education](/word/education)：教育
 
 ---
 
 ## 📖 できればこれも
 
-- [training](/training)：訓練、研修
-- [lesson](/lesson)：授業、レッスン
+- [training](/word/training)：訓練、研修
+- [lesson](/word/lesson)：授業、レッスン
 
 <!-- cvid: aid15_bid10 -->

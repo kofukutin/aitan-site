@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で「自転車に乗っている人」や
 ## 🤔  passenger との違いは？
 
 - **rider**：自転車・バイク・馬など「自分で乗る・操作する人」
-- **[passenger](/passenger)**：バス・電車・車など「運転せずに乗っている人」
+- **[passenger](/word/passenger)**：バス・電車・車など「運転せずに乗っている人」
 
 riderは「自分で運転・操作する乗り物の人」、passengerは「運転せずに乗っている人」に使います。
 
@@ -106,14 +106,14 @@ riderは「自分で運転・操作する乗り物の人」、passengerは「運
 
 ## 🧩 あわせて覚えたい
 
-- [driver](/driver)：運転手
-- [cyclist](/cyclist)：自転車に乗る人
+- [driver](/word/driver)：運転手
+- [cyclist](/word/cyclist)：自転車に乗る人
 
 ---
 
 ## 📖 できればこれも
 
-- [helmet](/helmet)：ヘルメット
-- [route](/route)：経路
+- [helmet](/word/helmet)：ヘルメット
+- [route](/word/route)：経路
 
 <!-- cvid: aid28_bid34 -->

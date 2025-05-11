@@ -96,7 +96,7 @@ TOEICでは、会話や説明文で「10年間」という期間を表す際に�
 ## 🤔  century との違いは？
 
 - **decade**：10年間を指す
-- **[century](/century)**：100年間を指す
+- **[century](/word/century)**：100年間を指す
 
 decadeは「10年」という比較的短い期間、centuryは「100年」という長い期間を表します。歴史や統計の文脈で使い分けます。
 
@@ -104,14 +104,14 @@ decadeは「10年」という比較的短い期間、centuryは「100年」と�
 
 ## 🧩 あわせて覚えたい
 
-- [year](/year)：年、1年間
-- [generation](/generation)：世代、おおよそ30年程度の期間
+- [year](/word/year)：年、1年間
+- [generation](/word/generation)：世代、おおよそ30年程度の期間
 
 ---
 
 ## 📖 できればこれも
 
-- [period](/period)：期間、時期
-- [annual](/annual)：年1回の、毎年の
+- [period](/word/period)：期間、時期
+- [annual](/word/annual)：年1回の、毎年の
 
 <!-- cvid: aid44_bid06 -->

@@ -97,7 +97,7 @@ TOEICでは、契約書やビジネス文書、旅行・移動手段の説明文
 ## 🤔  lease との違いは？
 
 - **charter**：船・飛行機・バスなどの「貸切」や、特別な権利を与える「憲章」を指す。
-- **[lease](/lease)**：主に土地や建物、車などの「賃貸契約」を指す。
+- **[lease](/word/lease)**：主に土地や建物、車などの「賃貸契約」を指す。
 
 charterは一時的な貸切や公式な許可文書に使われ、leaseは長期的な賃貸契約に使われます。
 
@@ -105,14 +105,14 @@ charterは一時的な貸切や公式な許可文書に使われ、leaseは長�
 
 ## 🧩 あわせて覚えたい
 
-- [license](/license)：免許、許可証
-- [permit](/permit)：許可、許可証
+- [license](/word/license)：免許、許可証
+- [permit](/word/permit)：許可、許可証
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/contract)：契約
-- [agreement](/agreement)：合意、協定
+- [contract](/word/contract)：契約
+- [agreement](/word/agreement)：合意、協定
 
 <!-- cvid: aid30_bid34 -->

@@ -97,7 +97,7 @@ TOEICではオフィスや会議の場面で、機器の説明やトラブル対
 ## 🤔  copier との違いは？
 
 - **printer**：コンピューターからのデータを紙に印刷する機械
-- **[copier](/copier)**：紙の書類をコピー（複製）する機械
+- **[copier](/word/copier)**：紙の書類をコピー（複製）する機械
 
 printerは主にデジタルデータを印刷し、copierは紙の書類を複製する点が異なります。
 
@@ -105,14 +105,14 @@ printerは主にデジタルデータを印刷し、copierは紙の書類を複�
 
 ## 🧩 あわせて覚えたい
 
-- [scanner](/scanner)：スキャナー（紙の文書をデジタル化する機械）
-- [device](/device)：装置、機器
+- [scanner](/word/scanner)：スキャナー（紙の文書をデジタル化する機械）
+- [device](/word/device)：装置、機器
 
 ---
 
 ## 📖 できればこれも
 
-- [monitor](/monitor)：モニター、画面
-- [keyboard](/keyboard)：キーボード
+- [monitor](/word/monitor)：モニター、画面
+- [keyboard](/word/keyboard)：キーボード
 
 <!-- cvid: aid03_bid12 -->

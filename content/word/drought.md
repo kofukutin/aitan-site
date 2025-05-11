@@ -96,7 +96,7 @@ TOEICでは環境問題や農業に関する長文で登場することが多い
 ## 🤔  famine との違いは？
 
 - **drought**：長期間の雨不足や水不足を指す自然現象
-- **[famine](/famine)**：食糧不足による飢饉や飢えの状態
+- **[famine](/word/famine)**：食糧不足による飢饉や飢えの状態
 
 droughtは主に気象や水に関する言葉で、famineは食糧不足による社会的な危機を指します。
 
@@ -104,14 +104,14 @@ droughtは主に気象や水に関する言葉で、famineは食糧不足によ�
 
 ## 🧩 あわせて覚えたい
 
-- [flood](/flood)：洪水
-- [arid](/arid)：乾燥した
+- [flood](/word/flood)：洪水
+- [arid](/word/arid)：乾燥した
 
 ---
 
 ## 📖 できればこれも
 
-- [climate](/climate)：気候
-- [disaster](/disaster)：災害
+- [climate](/word/climate)：気候
+- [disaster](/word/disaster)：災害
 
 <!-- cvid: aid03_bid16 -->

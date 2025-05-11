@@ -97,7 +97,7 @@ TOEICでは、機械や設備の故障、トラブルに関する会話や説明
 ## 🤔  damaged との違いは？
 
 - **broken**：完全に壊れて使えない、機能しない状態
-- **[damaged](/damaged)**：一部が損傷しているが、使える場合もある
+- **[damaged](/word/damaged)**：一部が損傷しているが、使える場合もある
 
 brokenは「完全に壊れて使えない」ニュアンスが強く、damagedは「損傷しているが使える可能性がある」点が異なります。
 
@@ -105,14 +105,14 @@ brokenは「完全に壊れて使えない」ニュアンスが強く、damaged�
 
 ## 🧩 あわせて覚えたい
 
-- [repaired](/repaired)：修理された
-- [faulty](/faulty)：欠陥のある
+- [repaired](/word/repaired)：修理された
+- [faulty](/word/faulty)：欠陥のある
 
 ---
 
 ## 📖 できればこれも
 
-- [fixed](/fixed)：修理された、直された
-- [cracked](/cracked)：ひびが入った
+- [fixed](/word/fixed)：修理された、直された
+- [cracked](/word/cracked)：ひびが入った
 
 <!-- cvid: aid27_bid43 -->

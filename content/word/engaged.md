@@ -97,7 +97,7 @@ TOEICでは「会議中」「話し中」などの意味で、電話応対や会
 ## 🤔  involved との違いは？
 
 - **engaged**：何かに積極的に関わっている、または忙しい・婚約している状態
-- **[involved](/involved)**：より広く「関与している」「巻き込まれている」状態
+- **[involved](/word/involved)**：より広く「関与している」「巻き込まれている」状態
 
 engagedは「積極的に関わる」「忙しい」ニュアンスが強く、involvedは「関係している」や「巻き込まれている」など受動的な場面でも使われます。
 
@@ -105,14 +105,14 @@ engagedは「積極的に関わる」「忙しい」ニュアンスが強く、i
 
 ## 🧩 あわせて覚えたい
 
-- [available](/available)：利用できる、手が空いている
-- [committed](/committed)：献身的な、専念している
+- [available](/word/available)：利用できる、手が空いている
+- [committed](/word/committed)：献身的な、専念している
 
 ---
 
 ## 📖 できればこれも
 
-- [occupied](/occupied)：ふさがっている、忙しい
-- [dedicated](/dedicated)：献身的な、専念している
+- [occupied](/word/occupied)：ふさがっている、忙しい
+- [dedicated](/word/dedicated)：献身的な、専念している
 
 <!-- cvid: aid45_bid12 -->

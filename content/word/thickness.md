@@ -97,7 +97,7 @@ TOEICでは、製品仕様や説明文で「厚さ」を問う文脈で出題さ
 ## 🤔  density との違いは？
 
 - **thickness**：物体や層の「厚さ」「厚み」を表す。
-- **[density](/density)**：物質の「密度」や「濃度」を表す。
+- **[density](/word/density)**：物質の「密度」や「濃度」を表す。
 
 thicknessは物理的な厚み、densityは物質がどれだけ詰まっているか（密度）を表すので、使い分けが必要です。
 
@@ -105,14 +105,14 @@ thicknessは物理的な厚み、densityは物質がどれだけ詰まってい�
 
 ## 🧩 あわせて覚えたい
 
-- [width](/width)：幅
-- [depth](/depth)：深さ
+- [width](/word/width)：幅
+- [depth](/word/depth)：深さ
 
 ---
 
 ## 📖 できればこれも
 
-- [length](/length)：長さ
-- [height](/height)：高さ
+- [length](/word/length)：長さ
+- [height](/word/height)：高さ
 
 <!-- cvid: aid48_bid36 -->

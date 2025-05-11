@@ -97,7 +97,7 @@ TOEICでは、レンタカーや出張、車の説明などの場面で「mileag
 ## 🤔  distance との違いは？
 
 - **mileage**：車や乗り物が実際に走った距離や燃費を表す
-- **[distance](/distance)**：2点間の物理的な距離や間隔を表す
+- **[distance](/word/distance)**：2点間の物理的な距離や間隔を表す
 
 mileageは主に車や乗り物の「走行距離」や「燃費」に使い、distanceは一般的な「距離」や「間隔」に使います。
 
@@ -105,14 +105,14 @@ mileageは主に車や乗り物の「走行距離」や「燃費」に使い、d
 
 ## 🧩 あわせて覚えたい
 
-- [fuel_efficiency](/fuel_efficiency)：燃費
-- [kilometer](/kilometer)：キロメートル（距離の単位）
+- [fuel_efficiency](/word/fuel_efficiency)：燃費
+- [kilometer](/word/kilometer)：キロメートル（距離の単位）
 
 ---
 
 ## 📖 できればこれも
 
-- [route](/route)：経路、ルート
-- [destination](/destination)：目的地
+- [route](/word/route)：経路、ルート
+- [destination](/word/destination)：目的地
 
 <!-- cvid: aid06_bid04 -->

@@ -97,7 +97,7 @@ TOEICでは、ニュース記事やビジネス文書の中で「国内の」「
 ## 🤔  internal との違いは？
 
 - **domestic**：国や家庭など「外」と対比して「国内の」「家庭の」を表す
-- **[internal](/internal)**：組織や物の「内部の」「内側の」を表す
+- **[internal](/word/internal)**：組織や物の「内部の」「内側の」を表す
 
 「domestic」は国や家庭などの外部と区別する際に使い、「internal」は組織や物の内側・内部構造を指すときに使います。
 
@@ -105,14 +105,14 @@ TOEICでは、ニュース記事やビジネス文書の中で「国内の」「
 
 ## 🧩 あわせて覚えたい
 
-- [foreign](/foreign)：外国の、海外の
-- [national](/national)：国家の、国民の
+- [foreign](/word/foreign)：外国の、海外の
+- [national](/word/national)：国家の、国民の
 
 ---
 
 ## 📖 できればこれも
 
-- [international](/international)：国際的な
-- [local](/local)：地域の、地元の
+- [international](/word/international)：国際的な
+- [local](/word/local)：地域の、地元の
 
 <!-- cvid: aid30_bid11 -->

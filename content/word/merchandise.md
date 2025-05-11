@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やEメール、広告などで「商品」�
 ## 🤔  goods との違いは？
 
 - **merchandise**：売買や流通の現場で使われるフォーマルな「商品」全般
-- **[goods](/goods)**：一般的な「品物」「商品」だが、ややカジュアルで幅広い物品に使う
+- **[goods](/word/goods)**：一般的な「品物」「商品」だが、ややカジュアルで幅広い物品に使う
 
 merchandiseはビジネスや商取引の文脈で使われ、goodsは日常的な「物品」や「商品」にも幅広く使われます。
 
@@ -105,14 +105,14 @@ merchandiseはビジネスや商取引の文脈で使われ、goodsは日常的�
 
 ## 🧩 あわせて覚えたい
 
-- [product](/product)：製品、商品（製造されたもの）
-- [inventory](/inventory)：在庫、棚卸資産
+- [product](/word/product)：製品、商品（製造されたもの）
+- [inventory](/word/inventory)：在庫、棚卸資産
 
 ---
 
 ## 📖 できればこれも
 
-- [shipment](/shipment)：出荷、発送
-- [supply](/supply)：供給、納入
+- [shipment](/word/shipment)：出荷、発送
+- [supply](/word/supply)：供給、納入
 
 <!-- cvid: aid11_bid03 -->

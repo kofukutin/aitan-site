@@ -98,7 +98,7 @@ TOEICでは主にビジネス文脈で「見積もる」「見積もり」とし
 ## 🤔  assess との違いは？
 
 - **estimate**：数量や金額などを「おおよそ見積もる」「ざっくり予測する」
-- **[assess](/assess)**：状況や価値などを「評価する」「査定する」
+- **[assess](/word/assess)**：状況や価値などを「評価する」「査定する」
 
 estimateは数値や量の予測、assessは価値や状況の評価に使われる点が異なります。
 
@@ -106,14 +106,14 @@ estimateは数値や量の予測、assessは価値や状況の評価に使われ
 
 ## 🧩 あわせて覚えたい
 
-- [calculate](/calculate)：計算する
-- [guess](/guess)：推測する
+- [calculate](/word/calculate)：計算する
+- [guess](/word/guess)：推測する
 
 ---
 
 ## 📖 できればこれも
 
-- [predict](/predict)：予測する
-- [measure](/measure)：測定する
+- [predict](/word/predict)：予測する
+- [measure](/word/measure)：測定する
 
 <!-- cvid: aid24_bid09 -->

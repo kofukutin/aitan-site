@@ -93,7 +93,7 @@ TOEICでは「among」と同じ意味で出題されることが多いですが�
 ## 🤔  among との違いは？
 
 - **amongst**：ややフォーマル・イギリス英語で使われる「～の間で」
-- **[among](/among)**：アメリカ英語やカジュアルな場面で一般的な「～の間で」
+- **[among](/word/among)**：アメリカ英語やカジュアルな場面で一般的な「～の間で」
 
 どちらも意味はほぼ同じですが、「amongst」はフォーマル・文語的、イギリス英語で好まれます。
 
@@ -101,14 +101,14 @@ TOEICでは「among」と同じ意味で出題されることが多いですが�
 
 ## 🧩 あわせて覚えたい
 
-- [between](/between)：2者の間で
-- [amid](/amid)：～の真っ只中で（状況や雰囲気の中で）
+- [between](/word/between)：2者の間で
+- [amid](/word/amid)：～の真っ只中で（状況や雰囲気の中で）
 
 ---
 
 ## 📖 できればこれも
 
-- [beside](/beside)：～のそばに
-- [within](/within)：～の内部に、～以内で
+- [beside](/word/beside)：～のそばに
+- [within](/word/within)：～の内部に、～以内で
 
 <!-- cvid: aid05_bid24 -->

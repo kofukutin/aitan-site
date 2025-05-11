@@ -97,7 +97,7 @@ TOEICでは「目的」「対象」などの意味で名詞として出題され
 ## 🤔  purpose との違いは？
 
 - **object**：具体的な「物体」や「目標」「目的」を指す。ややフォーマル。
-- **[purpose](/purpose)**：行動や存在の「理由」「意図」を強調する語。
+- **[purpose](/word/purpose)**：行動や存在の「理由」「意図」を強調する語。
 
 objectは「目標」や「物体」など幅広い意味で使われますが、purposeは「なぜそれをするのか」という理由や意図に焦点を当てます。
 
@@ -105,14 +105,14 @@ objectは「目標」や「物体」など幅広い意味で使われますが�
 
 ## 🧩 あわせて覚えたい
 
-- [item](/item)：品目、項目
-- [subject](/subject)：主題、科目
+- [item](/word/item)：品目、項目
+- [subject](/word/subject)：主題、科目
 
 ---
 
 ## 📖 できればこれも
 
-- [goal](/goal)：目標
-- [device](/device)：装置、デバイス
+- [goal](/word/goal)：目標
+- [device](/word/device)：装置、デバイス
 
 <!-- cvid: aid34_bid16 -->

@@ -97,7 +97,7 @@ TOEICでは「製品」「商品」として頻出し、特にビジネス文書
 ## 🤔  merchandise との違いは？
 
 - **product**：特定の製品や開発された商品を指すことが多い
-- **[merchandise](/merchandise)**：販売用の商品全般や在庫品を指す
+- **[merchandise](/word/merchandise)**：販売用の商品全般や在庫品を指す
 
 **product**は「開発された個々の製品」に焦点があり、**merchandise**は「売り物としての品物全般」を指します。
 
@@ -105,14 +105,14 @@ TOEICでは「製品」「商品」として頻出し、特にビジネス文書
 
 ## 🧩 あわせて覚えたい
 
-- [service](/service)：サービス、業務
-- [goods](/goods)：商品、物品
+- [service](/word/service)：サービス、業務
+- [goods](/word/goods)：商品、物品
 
 ---
 
 ## 📖 できればこれも
 
-- [project](/project)：計画、プロジェクト
-- [profit](/profit)：利益
+- [project](/word/project)：計画、プロジェクト
+- [profit](/word/profit)：利益
 
 <!-- cvid: aid39_bid16 -->

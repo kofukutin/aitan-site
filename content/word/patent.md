@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や法務関連の長文で登場し、特許
 ## 🤔  copyright との違いは？
 
 - **patent**：発明や技術に対する独占的な権利（特許）
-- **[copyright](/copyright)**：著作物（文章・音楽・絵など）に対する著作権
+- **[copyright](/word/copyright)**：著作物（文章・音楽・絵など）に対する著作権
 
 patentは「技術的なアイデアや発明」に、copyrightは「創作物」に適用される点が大きな違いです。
 
@@ -105,14 +105,14 @@ patentは「技術的なアイデアや発明」に、copyrightは「創作物�
 
 ## 🧩 あわせて覚えたい
 
-- [license](/license)：許可、認可
-- [invention](/invention)：発明
+- [license](/word/license)：許可、認可
+- [invention](/word/invention)：発明
 
 ---
 
 ## 📖 できればこれも
 
-- [trademark](/trademark)：商標
-- [approval](/approval)：承認
+- [trademark](/word/trademark)：商標
+- [approval](/word/approval)：承認
 
 <!-- cvid: aid06_bid05 -->

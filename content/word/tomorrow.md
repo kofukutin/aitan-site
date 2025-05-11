@@ -96,7 +96,7 @@ TOEICでは、予定やスケジュールに関する質問や応答でよく登
 ## 🤔  soon との違いは？
 
 - **tomorrow**：明日（翌日）を具体的に指す
-- **[soon](/soon)**：まもなく、近いうちに（具体的な時期は不明）
+- **[soon](/word/soon)**：まもなく、近いうちに（具体的な時期は不明）
 
 tomorrowは「明日」と日付がはっきりしているのに対し、soonは「近いうちに」と曖昧な表現です。
 
@@ -104,14 +104,14 @@ tomorrowは「明日」と日付がはっきりしているのに対し、soon�
 
 ## 🧩 あわせて覚えたい
 
-- [yesterday](/yesterday)：昨日
-- [today](/today)：今日
+- [yesterday](/word/yesterday)：昨日
+- [today](/word/today)：今日
 
 ---
 
 ## 📖 できればこれも
 
-- [tonight](/tonight)：今夜
-- [later](/later)：あとで
+- [tonight](/word/tonight)：今夜
+- [later](/word/later)：あとで
 
 <!-- cvid: aid05_bid43 -->

@@ -97,7 +97,7 @@ The company provides services for hearing-impaired customers.
 ## 🤔  disabled との違いは？
 
 - **impaired**：機能や能力が部分的に損なわれている状態を指す
-- **[disabled](/disabled)**：機能や能力が大きく失われ、日常生活に支障がある状態を指す
+- **[disabled](/word/disabled)**：機能や能力が大きく失われ、日常生活に支障がある状態を指す
 
 「impaired」は一部の機能が弱まっている場合に使い、「disabled」はより広範で重度の障害を指すことが多いです。
 
@@ -105,14 +105,14 @@ The company provides services for hearing-impaired customers.
 
 ## 🧩 あわせて覚えたい
 
-- [damaged](/damaged)：損傷した
-- [deficient](/deficient)：不足している、不十分な
+- [damaged](/word/damaged)：損傷した
+- [deficient](/word/deficient)：不足している、不十分な
 
 ---
 
 ## 📖 できればこれも
 
-- [chronic](/chronic)：慢性的な
-- [temporary](/temporary)：一時的な
+- [chronic](/word/chronic)：慢性的な
+- [temporary](/word/temporary)：一時的な
 
 <!-- cvid: aid47_bid00 -->

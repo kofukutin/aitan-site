@@ -97,7 +97,7 @@ TOEICではホテルや観光、ビジネスイベントの案内文などでよ
 ## 🤔  service との違いは？
 
 - **hospitality**：心のこもったもてなしや歓待
-- **[service](/service)**：業務的なサービスや提供される便宜
+- **[service](/word/service)**：業務的なサービスや提供される便宜
 
 hospitalityは「温かい気持ちや心遣い」を強調し、serviceは「業務としてのサービス提供」を指します。
 
@@ -105,14 +105,14 @@ hospitalityは「温かい気持ちや心遣い」を強調し、serviceは「�
 
 ## 🧩 あわせて覚えたい
 
-- [welcome](/welcome)：歓迎、迎えること
-- [generosity](/generosity)：寛大さ、気前の良さ
+- [welcome](/word/welcome)：歓迎、迎えること
+- [generosity](/word/generosity)：寛大さ、気前の良さ
 
 ---
 
 ## 📖 できればこれも
 
-- [guest](/guest)：客、ゲスト
-- [accommodation](/accommodation)：宿泊施設、宿泊
+- [guest](/word/guest)：客、ゲスト
+- [accommodation](/word/accommodation)：宿泊施設、宿泊
 
 <!-- cvid: aid28_bid46 -->

@@ -93,7 +93,7 @@ TOEICの長文問題や説明文で、条件や範囲を限定する際によく
 ## 🤔  except との違いは？
 
 - **excluding**：フォーマルな場面で「～を除いて」と範囲や条件を限定する際に使う
-- **[except](/except)**：日常的に「～以外」「～を除いて」と言うときに幅広く使う
+- **[except](/word/except)**：日常的に「～以外」「～を除いて」と言うときに幅広く使う
 
 「excluding」は書き言葉やビジネス文書でよく使われ、exceptは会話やカジュアルな文でも使える点が異なります。
 
@@ -101,14 +101,14 @@ TOEICの長文問題や説明文で、条件や範囲を限定する際によく
 
 ## 🧩 あわせて覚えたい
 
-- [besides](/besides)：～に加えて
-- [including](/including)：～を含めて
+- [besides](/word/besides)：～に加えて
+- [including](/word/including)：～を含めて
 
 ---
 
 ## 📖 できればこれも
 
-- [regarding](/regarding)：～に関して
-- [concerning](/concerning)：～について
+- [regarding](/word/regarding)：～に関して
+- [concerning](/word/concerning)：～について
 
 <!-- cvid: aid20_bid46 -->

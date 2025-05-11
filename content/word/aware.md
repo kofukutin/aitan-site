@@ -97,7 +97,7 @@ TOEICでは「be aware of」や「make someone aware」などの形で、状況�
 ## 🤔  conscious との違いは？
 
 - **aware**：外部の事実や状況に気づいていることを表す
-- **[conscious](/conscious)**：自分の感覚や内面、または意識がはっきりしている状態
+- **[conscious](/word/conscious)**：自分の感覚や内面、または意識がはっきりしている状態
 
 「aware」は外からの情報や状況に気づいている場合に使い、「conscious」は自分自身の意識や感覚に焦点を当てるときに使います。
 
@@ -105,14 +105,14 @@ TOEICでは「be aware of」や「make someone aware」などの形で、状況�
 
 ## 🧩 あわせて覚えたい
 
-- [ignorant](/ignorant)：無知の、気づいていない
-- [notice](/notice)：気づく、注目する
+- [ignorant](/word/ignorant)：無知の、気づいていない
+- [notice](/word/notice)：気づく、注目する
 
 ---
 
 ## 📖 できればこれも
 
-- [familiar](/familiar)：よく知っている、親しい
-- [concerned](/concerned)：心配している、関心がある
+- [familiar](/word/familiar)：よく知っている、親しい
+- [concerned](/word/concerned)：心配している、関心がある
 
 <!-- cvid: aid48_bid29 -->

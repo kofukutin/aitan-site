@@ -97,7 +97,7 @@ TOEICでは、農業や科学、ビジネスの分野での説明文や記事で
 ## 🤔  raising との違いは？
 
 - **breeding**：動物や植物を意図的に繁殖・育種することに重点がある
-- **[raising](/raising)**：動物や子どもなどを育てること全般を指し、繁殖だけでなく成長や世話も含む
+- **[raising](/word/raising)**：動物や子どもなどを育てること全般を指し、繁殖だけでなく成長や世話も含む
 
 breedingは「繁殖・品種改良」に特化した意味で、raisingは「育てる」全般に使われます。
 
@@ -105,14 +105,14 @@ breedingは「繁殖・品種改良」に特化した意味で、raisingは「�
 
 ## 🧩 あわせて覚えたい
 
-- [reproduction](/reproduction)：生殖、再生産
-- [cultivation](/cultivation)：栽培、耕作
+- [reproduction](/word/reproduction)：生殖、再生産
+- [cultivation](/word/cultivation)：栽培、耕作
 
 ---
 
 ## 📖 できればこれも
 
-- [genetics](/genetics)：遺伝学
-- [species](/species)：種（生物分類上の単位）
+- [genetics](/word/genetics)：遺伝学
+- [species](/word/species)：種（生物分類上の単位）
 
 <!-- cvid: aid41_bid00 -->

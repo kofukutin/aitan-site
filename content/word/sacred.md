@@ -97,7 +97,7 @@ Respect for sacred traditions is important in international business.
 ## 🤔  holy との違いは？
 
 - **sacred**：宗教的・精神的に「冒してはならないほど大切な」ものや場所に使う
-- **[holy](/holy)**：神や宗教そのものに直接関わる「聖なる」ものに使う
+- **[holy](/word/holy)**：神や宗教そのものに直接関わる「聖なる」ものに使う
 
 sacredは広く「尊い・神聖な」対象に使い、holyはより宗教的・神に直結したものに使う傾向があります。
 
@@ -105,14 +105,14 @@ sacredは広く「尊い・神聖な」対象に使い、holyはより宗教的�
 
 ## 🧩 あわせて覚えたい
 
-- [profane](/profane)：不敬な、神聖を汚す
-- [spiritual](/spiritual)：精神的な、霊的な
+- [profane](/word/profane)：不敬な、神聖を汚す
+- [spiritual](/word/spiritual)：精神的な、霊的な
 
 ---
 
 ## 📖 できればこれも
 
-- [religious](/religious)：宗教的な
-- [ceremony](/ceremony)：儀式
+- [religious](/word/religious)：宗教的な
+- [ceremony](/word/ceremony)：儀式
 
 <!-- cvid: aid43_bid36 -->

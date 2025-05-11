@@ -97,7 +97,7 @@ earningはTOEICのビジネス文書や報告書、メールなどでよく登�
 ## 🤔  income との違いは？
 
 - **earning**：働いて得た収入や稼ぎを指し、給与や事業収入など具体的な「稼いだ額」に焦点がある
-- **[income](/income)**：収入全般を指し、投資や年金なども含む幅広い意味
+- **[income](/word/income)**：収入全般を指し、投資や年金なども含む幅広い意味
 
 earningは「働いて得たお金」に限定されるのに対し、incomeは「すべての収入」を指すため、文脈によって使い分けます。
 
@@ -105,14 +105,14 @@ earningは「働いて得たお金」に限定されるのに対し、incomeは�
 
 ## 🧩 あわせて覚えたい
 
-- [profit](/profit)：利益（収入から費用を差し引いた残り）
-- [salary](/salary)：給料（定期的に支払われる賃金）
+- [profit](/word/profit)：利益（収入から費用を差し引いた残り）
+- [salary](/word/salary)：給料（定期的に支払われる賃金）
 
 ---
 
 ## 📖 できればこれも
 
-- [expense](/expense)：費用、支出
-- [revenue](/revenue)：総収入、売上高
+- [expense](/word/expense)：費用、支出
+- [revenue](/word/revenue)：総収入、売上高
 
 <!-- cvid: aid00_bid19 -->

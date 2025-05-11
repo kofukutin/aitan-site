@@ -97,7 +97,7 @@ TOEICではプレゼンや製品説明、手順の案内などでよく出題さ
 ## 🤔  explain との違いは？
 
 - **demonstrate**：実際に見せたり証拠を使って「証明・実演」する
-- **[explain](/explain)**：言葉で「説明」する
+- **[explain](/word/explain)**：言葉で「説明」する
 
 demonstrateは「やって見せる」ニュアンスが強く、explainは「言葉で詳しく説明する」場面で使います。
 
@@ -105,14 +105,14 @@ demonstrateは「やって見せる」ニュアンスが強く、explainは「�
 
 ## 🧩 あわせて覚えたい
 
-- [prove](/prove)：証明する
-- [show](/show)：見せる、示す
+- [prove](/word/prove)：証明する
+- [show](/word/show)：見せる、示す
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/present)：提示する、発表する
-- [illustrate](/illustrate)：例や図で説明する
+- [present](/word/present)：提示する、発表する
+- [illustrate](/word/illustrate)：例や図で説明する
 
 <!-- cvid: aid43_bid20 -->

@@ -97,7 +97,7 @@ TOEICでは主に社内規則や従業員ハンドブック、通知文などで
 ## 🤔  punitive との違いは？
 
 - **disciplinary**：規律や懲戒に関する、規則違反への処分を示す
-- **[punitive](/punitive)**：罰則的な、罰を与えること自体を強調
+- **[punitive](/word/punitive)**：罰則的な、罰を与えること自体を強調
 
 disciplinaryは「規律維持や懲戒のための処分」に焦点があり、punitiveは「罰を与えること自体」に重点があります。
 
@@ -105,14 +105,14 @@ disciplinaryは「規律維持や懲戒のための処分」に焦点があり�
 
 ## 🧩 あわせて覚えたい
 
-- [administrative](/administrative)：管理の、行政の
-- [regulation](/regulation)：規則、規制
+- [administrative](/word/administrative)：管理の、行政の
+- [regulation](/word/regulation)：規則、規制
 
 ---
 
 ## 📖 できればこれも
 
-- [mandatory](/mandatory)：義務的な、強制の
-- [violation](/violation)：違反、違反行為
+- [mandatory](/word/mandatory)：義務的な、強制の
+- [violation](/word/violation)：違反、違反行為
 
 <!-- cvid: aid26_bid22 -->

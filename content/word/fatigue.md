@@ -97,7 +97,7 @@ TOEICでは主に健康や労働環境、医療関連の長文で登場します
 ## 🤔  exhaustion との違いは？
 
 - **fatigue**：長時間の活動やストレスによる持続的な疲労や倦怠感を表す。
-- **[exhaustion](/exhaustion)**：極度の疲労や完全に力が尽きた状態を強調する。
+- **[exhaustion](/word/exhaustion)**：極度の疲労や完全に力が尽きた状態を強調する。
 
 fatigueは「慢性的な疲れ」、exhaustionは「限界まで疲れ切った状態」といった違いがあります。
 
@@ -105,14 +105,14 @@ fatigueは「慢性的な疲れ」、exhaustionは「限界まで疲れ切った
 
 ## 🧩 あわせて覚えたい
 
-- [tiredness](/tiredness)：疲れ（より一般的・カジュアルな表現）
-- [refreshment](/refreshment)：元気回復、リフレッシュ
+- [tiredness](/word/tiredness)：疲れ（より一般的・カジュアルな表現）
+- [refreshment](/word/refreshment)：元気回復、リフレッシュ
 
 ---
 
 ## 📖 できればこれも
 
-- [stress](/stress)：ストレス、緊張
-- [symptom](/symptom)：症状
+- [stress](/word/stress)：ストレス、緊張
+- [symptom](/word/symptom)：症状
 
 <!-- cvid: aid13_bid25 -->

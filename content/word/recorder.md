@@ -97,7 +97,7 @@ TOEICでは会議やインタビューの録音機器として登場すること
 ## 🤔  dictaphone との違いは？
 
 - **recorder**：一般的な録音機や記録装置全般、または楽器のリコーダーも指す
-- **[dictaphone](/dictaphone)**：主に口述録音専用の機器を指す
+- **[dictaphone](/word/dictaphone)**：主に口述録音専用の機器を指す
 
 recorderは幅広い記録装置や楽器を指しますが、dictaphoneは特に口述録音用の機器に限定されます。
 
@@ -105,14 +105,14 @@ recorderは幅広い記録装置や楽器を指しますが、dictaphoneは特�
 
 ## 🧩 あわせて覚えたい
 
-- [device](/device)：装置、機器
-- [transcriber](/transcriber)：書き起こしをする人・装置
+- [device](/word/device)：装置、機器
+- [transcriber](/word/transcriber)：書き起こしをする人・装置
 
 ---
 
 ## 📖 できればこれも
 
-- [microphone](/microphone)：マイク、音声を拾う装置
-- [projector](/projector)：映写機、プロジェクター
+- [microphone](/word/microphone)：マイク、音声を拾う装置
+- [projector](/word/projector)：映写機、プロジェクター
 
 <!-- cvid: aid30_bid05 -->

@@ -97,7 +97,7 @@ TOEICでは会議やビジネスのやりとり、交通機関の案内などで
 ## 🤔  postpone との違いは？
 
 - **delay**：予定より遅れることや進行の一時停止を表す名詞・動詞
-- **[postpone](/postpone)**：何かを意図的に後ろへ延期すること（動詞）
+- **[postpone](/word/postpone)**：何かを意図的に後ろへ延期すること（動詞）
 
 「delay」は予期せぬ遅れや自然発生的な遅延に使い、「postpone」は人が決めて予定を後ろにずらす場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは会議やビジネスのやりとり、交通機関の案内などで
 
 ## 🧩 あわせて覚えたい
 
-- [cancel](/cancel)：中止する
-- [reschedule](/reschedule)：予定を変更する
+- [cancel](/word/cancel)：中止する
+- [reschedule](/word/reschedule)：予定を変更する
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/schedule)：予定、スケジュール
-- [deadline](/deadline)：締め切り
+- [schedule](/word/schedule)：予定、スケジュール
+- [deadline](/word/deadline)：締め切り
 
 <!-- cvid: aid31_bid10 -->

@@ -97,7 +97,7 @@ TOEICでは、会議やプレゼン、設備説明などの場面で「amplifier
 ## 🤔  speaker との違いは？
 
 - **amplifier**：音や信号を「増幅する」装置
-- **[speaker](/speaker)**：増幅された音を「出す」装置
+- **[speaker](/word/speaker)**：増幅された音を「出す」装置
 
 amplifierは音や信号を大きくする役割、speakerはその大きくなった音を実際に出す役割です。両者はセットで使われることが多いですが、機能が異なります。
 
@@ -105,14 +105,14 @@ amplifierは音や信号を大きくする役割、speakerはその大きくな�
 
 ## 🧩 あわせて覚えたい
 
-- [microphone](/microphone)：音を電気信号に変える装置（マイク）
-- [receiver](/receiver)：信号や音を受信する装置
+- [microphone](/word/microphone)：音を電気信号に変える装置（マイク）
+- [receiver](/word/receiver)：信号や音を受信する装置
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/device)：装置、機器
-- [signal](/signal)：信号
+- [device](/word/device)：装置、機器
+- [signal](/word/signal)：信号
 
 <!-- cvid: aid27_bid04 -->

@@ -97,7 +97,7 @@ clarifyはTOEICの会議や説明の場面で、内容を明確にする意図�
 ## 🤔  explain との違いは？
 
 - **clarify**：あいまいな点や誤解を「明確にする」「はっきりさせる」
-- **[explain](/explain)**：物事を「説明する」、理由や仕組みを伝える
+- **[explain](/word/explain)**：物事を「説明する」、理由や仕組みを伝える
 
 clarifyは「すでにある情報をよりクリアにする」ニュアンスが強く、explainは「初めて内容を説明する」場面で使われます。
 
@@ -105,14 +105,14 @@ clarifyは「すでにある情報をよりクリアにする」ニュアンス�
 
 ## 🧩 あわせて覚えたい
 
-- [specify](/specify)：具体的に述べる
-- [elaborate](/elaborate)：詳しく述べる
+- [specify](/word/specify)：具体的に述べる
+- [elaborate](/word/elaborate)：詳しく述べる
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/confirm)：確認する
-- [summarize](/summarize)：要約する
+- [confirm](/word/confirm)：確認する
+- [summarize](/word/summarize)：要約する
 
 <!-- cvid: aid12_bid06 -->

@@ -104,7 +104,7 @@ TOEICでは「～する能力」「～できる力」として、空所補充や
 ## 🤔  skill との違いは？
 
 - **ability**：何かをする力や可能性、才能全般を指す。
-- **[skill](/skill)**：訓練や経験で身につけた「技術」「熟練」を指す。
+- **[skill](/word/skill)**：訓練や経験で身につけた「技術」「熟練」を指す。
 
 abilityは「できる力」全般、skillは「練習して身につけた技術」に使い分けます。
 
@@ -112,14 +112,14 @@ abilityは「できる力」全般、skillは「練習して身につけた技�
 
 ## 🧩 あわせて覚えたい
 
-- [talent](/talent)：生まれつきの才能
-- [capability](/capability)：実行可能性、実務的な能力
+- [talent](/word/talent)：生まれつきの才能
+- [capability](/word/capability)：実行可能性、実務的な能力
 
 ---
 
 ## 📖 できればこれも
 
-- [knowledge](/knowledge)：知識
-- [experience](/experience)：経験
+- [knowledge](/word/knowledge)：知識
+- [experience](/word/experience)：経験
 
 <!-- cvid: aid29_bid03 -->

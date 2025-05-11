@@ -97,7 +97,7 @@ TOEICでは「費用」や「コスト削減」など、ビジネス文脈で頻
 ## 🤔  expense との違いは？
 
 - **cost**：ある物やサービスにかかる総合的な費用やコスト
-- **[expense](/expense)**：主に経費や出費、特定の支出項目
+- **[expense](/word/expense)**：主に経費や出費、特定の支出項目
 
 「cost」は全体的な費用やコストを指し、「expense」は会計上の経費や個別の出費を指すことが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは「費用」や「コスト削減」など、ビジネス文脈で頻
 
 ## 🧩 あわせて覚えたい
 
-- [price](/price)：販売価格
-- [charge](/charge)：料金、手数料
+- [price](/word/price)：販売価格
+- [charge](/word/charge)：料金、手数料
 
 ---
 
 ## 📖 できればこれも
 
-- [fee](/fee)：（サービスなどの）料金
-- [budget](/budget)：予算
+- [fee](/word/fee)：（サービスなどの）料金
+- [budget](/word/budget)：予算
 
 <!-- cvid: aid12_bid48 -->

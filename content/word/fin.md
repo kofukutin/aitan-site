@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、魚や飛行機の部位を説明す
 ## 🤔  wing との違いは？
 
 - **fin**：魚や海洋生物の「ひれ」、または機械の安定板
-- **[wing](/wing)**：鳥や飛行機の「翼」
+- **[wing](/word/wing)**：鳥や飛行機の「翼」
 
 finは水中や空気中での安定や推進に使われる「ひれ」や「安定板」を指し、wingは主に飛行や浮力を得るための「翼」を指します。
 
@@ -105,14 +105,14 @@ finは水中や空気中での安定や推進に使われる「ひれ」や「�
 
 ## 🧩 あわせて覚えたい
 
-- [flipper](/flipper)：水かき（アザラシやイルカのひれ状の手足）
-- [tail](/tail)：尾、しっぽ
+- [flipper](/word/flipper)：水かき（アザラシやイルカのひれ状の手足）
+- [tail](/word/tail)：尾、しっぽ
 
 ---
 
 ## 📖 できればこれも
 
-- [scale](/scale)：うろこ
-- [feather](/feather)：羽根
+- [scale](/word/scale)：うろこ
+- [feather](/word/feather)：羽根
 
 <!-- cvid: aid41_bid10 -->

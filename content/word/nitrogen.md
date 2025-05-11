@@ -96,7 +96,7 @@ TOEICでは科学や環境に関する説明文や記事で登場することが
 ## 🤔  oxygen との違いは？
 
 - **nitrogen**：空気中に最も多く含まれる無色・無臭の気体で、主に肥料や工業用途に使われる。
-- **[oxygen](/oxygen)**：呼吸や燃焼に不可欠な気体で、空気中に約21%含まれる。
+- **[oxygen](/word/oxygen)**：呼吸や燃焼に不可欠な気体で、空気中に約21%含まれる。
 
 nitrogenは主に植物や工業用途で使われるのに対し、oxygenは生物の呼吸や燃焼に必要な気体です。
 
@@ -104,14 +104,14 @@ nitrogenは主に植物や工業用途で使われるのに対し、oxygenは生
 
 ## 🧩 あわせて覚えたい
 
-- [carbon dioxide](/carbon_dioxide)：二酸化炭素
-- [ammonia](/ammonia)：アンモニア
+- [carbon dioxide](/word/carbon_dioxide)：二酸化炭素
+- [ammonia](/word/ammonia)：アンモニア
 
 ---
 
 ## 📖 できればこれも
 
-- [element](/element)：元素
-- [compound](/compound)：化合物
+- [element](/word/element)：元素
+- [compound](/word/compound)：化合物
 
 <!-- cvid: aid21_bid20 -->

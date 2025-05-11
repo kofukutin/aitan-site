@@ -97,7 +97,7 @@ TOEICでは「服装」や「身につけているもの」に関する会話や
 ## 🤔  put on との違いは？
 
 - **wear**：すでに身につけている状態を表す
-- **[put on](/put_on)**：身につける動作そのものを表す
+- **[put on](/word/put_on)**：身につける動作そのものを表す
 
 wearは「着ている状態」、put onは「着る動作」を指します。たとえば「今Tシャツを着ている」はwear、「Tシャツを着るところ」はput onを使います。
 
@@ -105,14 +105,14 @@ wearは「着ている状態」、put onは「着る動作」を指します。�
 
 ## 🧩 あわせて覚えたい
 
-- [remove](/remove)：取り外す、取り去る
-- [carry](/carry)：運ぶ、持ち運ぶ
+- [remove](/word/remove)：取り外す、取り去る
+- [carry](/word/carry)：運ぶ、持ち運ぶ
 
 ---
 
 ## 📖 できればこれも
 
-- [bring](/bring)：持ってくる
-- [hold](/hold)：持つ、握る
+- [bring](/word/bring)：持ってくる
+- [hold](/word/hold)：持つ、握る
 
 <!-- cvid: aid26_bid00 -->

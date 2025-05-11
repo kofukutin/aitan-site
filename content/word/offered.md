@@ -97,7 +97,7 @@ TOEICでは「offered」は動詞の時制や受動態、またはビジネス�
 ## 🤔  provided との違いは？
 
 - **offered**：相手に何かを「申し出る」「提案する」ニュアンスが強い
-- **[provided](/provided)**：必要に応じて「供給する」「与える」意味が中心
+- **[provided](/word/provided)**：必要に応じて「供給する」「与える」意味が中心
 
 offeredは「どうですか？」と相手に差し出すイメージ、providedは「必要だから与える」イメージです。
 
@@ -105,14 +105,14 @@ offeredは「どうですか？」と相手に差し出すイメージ、provide
 
 ## 🧩 あわせて覚えたい
 
-- [suggest](/suggest)：提案する
-- [grant](/grant)：（権利・許可などを）与える
+- [suggest](/word/suggest)：提案する
+- [grant](/word/grant)：（権利・許可などを）与える
 
 ---
 
 ## 📖 できればこれも
 
-- [accept](/accept)：受け入れる
-- [present](/present)：提示する、贈る
+- [accept](/word/accept)：受け入れる
+- [present](/word/present)：提示する、贈る
 
 <!-- cvid: aid49_bid44 -->

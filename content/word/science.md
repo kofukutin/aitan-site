@@ -98,7 +98,7 @@ TOEICでは、科学技術や研究に関する記事や説明文でよく登場
 ## 🤔  technology との違いは？
 
 - **science**：自然や社会の法則・原理を探求する学問や活動
-- **[technology](/technology)**：科学の知識を応用して作られた技術や製品
+- **[technology](/word/technology)**：科学の知識を応用して作られた技術や製品
 
 scienceは「知識や理論の探求」、technologyは「その知識を使った実用的な技術や道具」を指します。
 
@@ -106,14 +106,14 @@ scienceは「知識や理論の探求」、technologyは「その知識を使っ
 
 ## 🧩 あわせて覚えたい
 
-- [research](/research)：研究、調査
-- [experiment](/experiment)：実験
+- [research](/word/research)：研究、調査
+- [experiment](/word/experiment)：実験
 
 ---
 
 ## 📖 できればこれも
 
-- [laboratory](/laboratory)：実験室、研究室
-- [theory](/theory)：理論
+- [laboratory](/word/laboratory)：実験室、研究室
+- [theory](/word/theory)：理論
 
 <!-- cvid: aid40_bid28 -->

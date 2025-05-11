@@ -97,7 +97,7 @@ TOEICでは職場の会話や人事に関する場面でよく登場します。
 ## 🤔  raised との違いは？
 
 - **promoted**：地位や役職が上がる（昇進する）ことを表す
-- **[raised](/raised)**：給料や価格など「金額が上がる」ことを表す
+- **[raised](/word/raised)**：給料や価格など「金額が上がる」ことを表す
 
 「promoted」は人の地位や役職の変化、「raised」は金額やレベルの上昇に使います。
 
@@ -105,14 +105,14 @@ TOEICでは職場の会話や人事に関する場面でよく登場します。
 
 ## 🧩 あわせて覚えたい
 
-- [demoted](/demoted)：降格した
-- [advance](/advance)：前進する、昇進する
+- [demoted](/word/demoted)：降格した
+- [advance](/word/advance)：前進する、昇進する
 
 ---
 
 ## 📖 できればこれも
 
-- [transfer](/transfer)：異動する、移す
-- [appoint](/appoint)：任命する
+- [transfer](/word/transfer)：異動する、移す
+- [appoint](/word/appoint)：任命する
 
 <!-- cvid: aid47_bid45 -->

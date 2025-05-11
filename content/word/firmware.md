@@ -96,7 +96,7 @@ TOEICではIT関連の説明文やマニュアル、製品仕様書などで見�
 ## 🤔  software との違いは？
 
 - **firmware**：機器に組み込まれた、基本動作を制御するソフトウェア
-- **[software](/software)**：パソコンや機器で動作するすべてのプログラム
+- **[software](/word/software)**：パソコンや機器で動作するすべてのプログラム
 
 firmwareはハードウェアに密接に組み込まれていて、通常のソフトウェアよりも更新や変更が難しい点が特徴です。
 
@@ -104,14 +104,14 @@ firmwareはハードウェアに密接に組み込まれていて、通常のソ
 
 ## 🧩 あわせて覚えたい
 
-- [hardware](/hardware)：ハードウェア、機械的な装置部分
-- [update](/update)：更新、アップデート
+- [hardware](/word/hardware)：ハードウェア、機械的な装置部分
+- [update](/word/update)：更新、アップデート
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/device)：装置、デバイス
-- [install](/install)：インストールする、導入する
+- [device](/word/device)：装置、デバイス
+- [install](/word/install)：インストールする、導入する
 
 <!-- cvid: aid32_bid46 -->

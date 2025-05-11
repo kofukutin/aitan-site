@@ -98,7 +98,7 @@ TOEICではアナウンスや会話の中で「警告」や「注意喚起」と
 ## 🤔  caution との違いは？
 
 - **warning**：危険や問題をはっきりと伝える「警告」や「注意」。
-- **[caution](/caution)**：慎重さや注意深さを促す「用心」「注意」。
+- **[caution](/word/caution)**：慎重さや注意深さを促す「用心」「注意」。
 
 **warning**は「危険があるから注意して！」と強く伝える時に使い、**caution**は「慎重に行動してね」とやや穏やかに注意を促す時に使います。
 
@@ -106,14 +106,14 @@ TOEICではアナウンスや会話の中で「警告」や「注意喚起」と
 
 ## 🧩 あわせて覚えたい
 
-- [alert](/alert)：警報、注意報
-- [notice](/notice)：通知、お知らせ
+- [alert](/word/alert)：警報、注意報
+- [notice](/word/notice)：通知、お知らせ
 
 ---
 
 ## 📖 できればこれも
 
-- [advice](/advice)：助言、アドバイス
-- [instruction](/instruction)：指示、説明
+- [advice](/word/advice)：助言、アドバイス
+- [instruction](/word/instruction)：指示、説明
 
 <!-- cvid: aid10_bid19 -->

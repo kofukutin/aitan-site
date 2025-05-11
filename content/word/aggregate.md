@@ -97,7 +97,7 @@ TOEICでは、統計やビジネスレポート、分析記事などで「aggreg
 ## 🤔  total との違いは？
 
 - **aggregate**：複数の要素をまとめた集合体や総計（特にフォーマル・ビジネス向き）
-- **[total](/total)**：単純な合計や総数（より一般的・カジュアル）
+- **[total](/word/total)**：単純な合計や総数（より一般的・カジュアル）
 
 aggregateは「個々のものを集めてできた全体」というニュアンスが強く、totalは単なる合計や総数を指す点で使い分けます。
 
@@ -105,14 +105,14 @@ aggregateは「個々のものを集めてできた全体」というニュア�
 
 ## 🧩 あわせて覚えたい
 
-- [sum](/sum)：合計、総額
-- [collection](/collection)：収集物、集まり
+- [sum](/word/sum)：合計、総額
+- [collection](/word/collection)：収集物、集まり
 
 ---
 
 ## 📖 できればこれも
 
-- [estimate](/estimate)：見積もり、推定
-- [figure](/figure)：数字、数値
+- [estimate](/word/estimate)：見積もり、推定
+- [figure](/word/figure)：数字、数値
 
 <!-- cvid: aid45_bid12 -->

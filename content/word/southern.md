@@ -97,7 +97,7 @@ TOEICでは地理や場所の説明、会社の支店や地域の話題でよく
 ## 🤔  southernmost との違いは？
 
 - **southern**：南の、南部の（広く南側を指す）
-- **[southernmost](/southernmost)**：最南端の（最も南に位置する）
+- **[southernmost](/word/southernmost)**：最南端の（最も南に位置する）
 
 「southern」は単に南側や南部を指しますが、「southernmost」は「最も南にある」という意味で、範囲の中で一番南を強調します。
 
@@ -105,14 +105,14 @@ TOEICでは地理や場所の説明、会社の支店や地域の話題でよく
 
 ## 🧩 あわせて覚えたい
 
-- [northern](/northern)：北の、北部の
-- [southernly](/southernly)：南方の、南向きの
+- [northern](/word/northern)：北の、北部の
+- [southernly](/word/southernly)：南方の、南向きの
 
 ---
 
 ## 📖 できればこれも
 
-- [eastern](/eastern)：東の、東部の
-- [western](/western)：西の、西部の
+- [eastern](/word/eastern)：東の、東部の
+- [western](/word/western)：西の、西部の
 
 <!-- cvid: aid38_bid46 -->

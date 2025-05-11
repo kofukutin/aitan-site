@@ -97,7 +97,7 @@ TOEICでは「advanced technology」「advanced course」など、技術やス�
 ## 🤔  sophisticated との違いは？
 
 - **advanced**：技術や知識などが「進んでいる」「上級の」「先進的な」ことを表す。
-- **[sophisticated](/sophisticated)**：洗練されていて複雑、または高度な知識や経験を持つことを表す。
+- **[sophisticated](/word/sophisticated)**：洗練されていて複雑、または高度な知識や経験を持つことを表す。
 
 「advanced」は単にレベルや段階が高いことを指し、「sophisticated」は洗練や複雑さ、経験の豊富さを強調します。
 
@@ -105,14 +105,14 @@ TOEICでは「advanced technology」「advanced course」など、技術やス�
 
 ## 🧩 あわせて覚えたい
 
-- [basic](/basic)：基本的な、初歩的な
-- [progress](/progress)：進歩、前進
+- [basic](/word/basic)：基本的な、初歩的な
+- [progress](/word/progress)：進歩、前進
 
 ---
 
 ## 📖 できればこれも
 
-- [complex](/complex)：複雑な
-- [improve](/improve)：改善する、向上させる
+- [complex](/word/complex)：複雑な
+- [improve](/word/improve)：改善する、向上させる
 
 <!-- cvid: aid10_bid45 -->

@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や説明文で「裁量」「自由度」の
 ## 🤔  freedom との違いは？
 
 - **latitude**：特定の範囲内での自由や裁量、許容される幅
-- **[freedom](/freedom)**：制限のない完全な自由
+- **[freedom](/word/freedom)**：制限のない完全な自由
 
 latitudeは「ある程度の幅・裁量」を示し、freedomは「束縛のない自由」を強調します。
 
@@ -105,14 +105,14 @@ latitudeは「ある程度の幅・裁量」を示し、freedomは「束縛の�
 
 ## 🧩 あわせて覚えたい
 
-- [margin](/margin)：余裕、余白
-- [restriction](/restriction)：制限
+- [margin](/word/margin)：余裕、余白
+- [restriction](/word/restriction)：制限
 
 ---
 
 ## 📖 できればこれも
 
-- [longitude](/longitude)：経度
-- [scope](/scope)：範囲、領域
+- [longitude](/word/longitude)：経度
+- [scope](/word/scope)：範囲、領域
 
 <!-- cvid: aid21_bid25 -->

@@ -98,7 +98,7 @@ TOEICでは会話文や説明文で「pretty」の副詞用法（かなり、け
 ## 🤔  beautiful との違いは？
 
 - **pretty**：かわいらしく親しみやすい印象を与えるカジュアルな表現
-- **[beautiful](/beautiful)**：よりフォーマルで「美しい」「見事な」といった強い美しさを表す
+- **[beautiful](/word/beautiful)**：よりフォーマルで「美しい」「見事な」といった強い美しさを表す
 
 prettyは「かわいい」「愛らしい」など親しみやすい美しさ、beautifulは「美しい」「見事な」といったより強く感動的な美しさを表します。
 
@@ -106,14 +106,14 @@ prettyは「かわいい」「愛らしい」など親しみやすい美しさ�
 
 ## 🧩 あわせて覚えたい
 
-- [cute](/cute)：かわいい、愛らしい
-- [handsome](/handsome)：ハンサムな、かっこいい（主に男性に使う）
+- [cute](/word/cute)：かわいい、愛らしい
+- [handsome](/word/handsome)：ハンサムな、かっこいい（主に男性に使う）
 
 ---
 
 ## 📖 できればこれも
 
-- [lovely](/lovely)：とてもかわいい、素敵な
-- [nice](/nice)：感じの良い、素敵な
+- [lovely](/word/lovely)：とてもかわいい、素敵な
+- [nice](/word/nice)：感じの良い、素敵な
 
 <!-- cvid: aid41_bid27 -->

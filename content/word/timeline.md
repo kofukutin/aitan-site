@@ -97,7 +97,7 @@ timelineは、プロジェクト管理や進行状況の説明など、ビジネ
 ## 🤔  schedule との違いは？
 
 - **timeline**：出来事や計画を時系列で視覚的に示す「時間軸」や「進行表」。
-- **[schedule](/schedule)**：予定や計画をリスト形式でまとめた「スケジュール」。
+- **[schedule](/word/schedule)**：予定や計画をリスト形式でまとめた「スケジュール」。
 
 timelineは流れや順序を強調し、scheduleは単なる予定の一覧や時間割を指します。
 
@@ -105,14 +105,14 @@ timelineは流れや順序を強調し、scheduleは単なる予定の一覧や�
 
 ## 🧩 あわせて覚えたい
 
-- [deadline](/deadline)：締め切り
-- [milestone](/milestone)：重要な節目
+- [deadline](/word/deadline)：締め切り
+- [milestone](/word/milestone)：重要な節目
 
 ---
 
 ## 📖 できればこれも
 
-- [progress](/progress)：進捗
-- [plan](/plan)：計画
+- [progress](/word/progress)：進捗
+- [plan](/word/plan)：計画
 
 <!-- cvid: aid06_bid35 -->

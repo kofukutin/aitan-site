@@ -97,7 +97,7 @@ TOEICでは、会社や施設の場所を説明する文脈で頻出します。
 ## 🤔  situated との違いは？
 
 - **located**：単に「場所にある」「位置している」と事実を述べる表現。
-- **[situated](/situated)**：ややフォーマルで、周囲の環境や状況との関係を強調したいときに使う。
+- **[situated](/word/situated)**：ややフォーマルで、周囲の環境や状況との関係を強調したいときに使う。
 
 「located」は場所の事実を淡々と伝えるのに対し、「situated」はその場所の特徴や環境を意識して説明したいときに使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、会社や施設の場所を説明する文脈で頻出します。
 
 ## 🧩 あわせて覚えたい
 
-- [position](/position)：位置、立場
-- [establish](/establish)：設立する、確立する
+- [position](/word/position)：位置、立場
+- [establish](/word/establish)：設立する、確立する
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/available)：利用できる、入手できる
-- [convenient](/convenient)：便利な
+- [available](/word/available)：利用できる、入手できる
+- [convenient](/word/convenient)：便利な
 
 <!-- cvid: aid37_bid41 -->

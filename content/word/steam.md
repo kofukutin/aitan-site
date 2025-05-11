@@ -97,7 +97,7 @@ TOEICでは工場や科学、調理などの説明場面で「steam」が使わ�
 ## 🤔  vapor との違いは？
 
 - **steam**：水が熱せられてできる「蒸気」。特に熱い水蒸気を指す。
-- **[vapor](/vapor)**：気体全般の「蒸気」。水以外の液体や、冷たい蒸気も含む。
+- **[vapor](/word/vapor)**：気体全般の「蒸気」。水以外の液体や、冷たい蒸気も含む。
 
 steamは主に熱い水蒸気を指し、vaporはより広い意味で使われます。
 
@@ -105,14 +105,14 @@ steamは主に熱い水蒸気を指し、vaporはより広い意味で使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [mist](/mist)：霧、細かい水滴
-- [smoke](/smoke)：煙
+- [mist](/word/mist)：霧、細かい水滴
+- [smoke](/word/smoke)：煙
 
 ---
 
 ## 📖 できればこれも
 
-- [boil](/boil)：沸騰する
-- [heat](/heat)：熱、加熱する
+- [boil](/word/boil)：沸騰する
+- [heat](/word/heat)：熱、加熱する
 
 <!-- cvid: aid28_bid05 -->

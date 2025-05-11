@@ -97,7 +97,7 @@ TOEICでは契約書やビジネス文書、知的財産に関する話題で登
 ## 🤔  copyright との違いは？
 
 - **trademark**：商品やサービスを他と区別するためのマークや名前
-- **[copyright](/copyright)**：著作物（文章・音楽・絵など）の権利
+- **[copyright](/word/copyright)**：著作物（文章・音楽・絵など）の権利
 
 trademarkはブランドやロゴなど「商標」に関する権利、copyrightは本や音楽など「著作物」に関する権利です。
 
@@ -105,14 +105,14 @@ trademarkはブランドやロゴなど「商標」に関する権利、copyrigh
 
 ## 🧩 あわせて覚えたい
 
-- [patent](/patent)：特許（発明や技術の独占権）
-- [logo](/logo)：ロゴ（企業やブランドを象徴する図案）
+- [patent](/word/patent)：特許（発明や技術の独占権）
+- [logo](/word/logo)：ロゴ（企業やブランドを象徴する図案）
 
 ---
 
 ## 📖 できればこれも
 
-- [license](/license)：許可、ライセンス
-- [register](/register)：登録する
+- [license](/word/license)：許可、ライセンス
+- [register](/word/register)：登録する
 
 <!-- cvid: aid19_bid28 -->

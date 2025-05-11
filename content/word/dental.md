@@ -97,7 +97,7 @@ TOEICでは、健康保険や医療サービスに関する長文や案内文で
 ## 🤔  oral との違いは？
 
 - **dental**：歯や歯科に直接関係することを表す
-- **[oral](/oral)**：口全体や口腔に関することを表す
+- **[oral](/word/oral)**：口全体や口腔に関することを表す
 
 「dental」は「歯」に特化した表現、「oral」は「口全体」に関する幅広い表現です。
 
@@ -105,14 +105,14 @@ TOEICでは、健康保険や医療サービスに関する長文や案内文で
 
 ## 🧩 あわせて覚えたい
 
-- [dentist](/dentist)：歯科医
-- [tooth](/tooth)：歯
+- [dentist](/word/dentist)：歯科医
+- [tooth](/word/tooth)：歯
 
 ---
 
 ## 📖 できればこれも
 
-- [medical](/medical)：医療の
-- [clinic](/clinic)：診療所
+- [medical](/word/medical)：医療の
+- [clinic](/word/clinic)：診療所
 
 <!-- cvid: aid05_bid22 -->

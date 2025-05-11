@@ -97,7 +97,7 @@ TOEICでは、証明書や認定証に関する書類やメールの中でよく
 ## 🤔  diploma との違いは？
 
 - **certificate**：特定のスキルやコース修了、資格取得などを証明する文書
-- **[diploma](/diploma)**：主に学校の卒業や学位取得を証明する文書
+- **[diploma](/word/diploma)**：主に学校の卒業や学位取得を証明する文書
 
 certificateは短期間のコースや特定の資格に使われ、diplomaは学校の卒業や学位取得に使われることが多いです。
 
@@ -105,14 +105,14 @@ certificateは短期間のコースや特定の資格に使われ、diplomaは�
 
 ## 🧩 あわせて覚えたい
 
-- [license](/license)：免許、許可証
-- [document](/document)：文書、書類
+- [license](/word/license)：免許、許可証
+- [document](/word/document)：文書、書類
 
 ---
 
 ## 📖 できればこれも
 
-- [application](/application)：申請、応募
-- [requirement](/requirement)：必要条件、要件
+- [application](/word/application)：申請、応募
+- [requirement](/word/requirement)：必要条件、要件
 
 <!-- cvid: aid26_bid47 -->

@@ -97,7 +97,7 @@ TOEICでは契約や法的な文脈、ビジネス上のトラブル解決に関
 ## 🤔  agreement との違いは？
 
 - **settlement**：争いごとや問題の「解決」「和解」など、特に対立の終結や法的な合意に使う
-- **[agreement](/agreement)**：一般的な「合意」「契約」など、広く使われる
+- **[agreement](/word/agreement)**：一般的な「合意」「契約」など、広く使われる
 
 settlementは対立や紛争の解決に重点があり、agreementは単なる合意や契約全般に使われます。
 
@@ -105,14 +105,14 @@ settlementは対立や紛争の解決に重点があり、agreementは単なる�
 
 ## 🧩 あわせて覚えたい
 
-- [dispute](/dispute)：紛争、争い
-- [resolution](/resolution)：解決、決議
+- [dispute](/word/dispute)：紛争、争い
+- [resolution](/word/resolution)：解決、決議
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/contract)：契約
-- [negotiation](/negotiation)：交渉
+- [contract](/word/contract)：契約
+- [negotiation](/word/negotiation)：交渉
 
 <!-- cvid: aid00_bid23 -->

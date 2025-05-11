@@ -97,7 +97,7 @@ TOEICでは「consist of ～」の形で、構成要素を説明する文脈で�
 ## 🤔  comprise との違いは？
 
 - **consist**：全体がどのような要素でできているかを説明する時に使う
-- **[comprise](/comprise)**：全体が何を含んでいるかをややフォーマルに述べる時に使う
+- **[comprise](/word/comprise)**：全体が何を含んでいるかをややフォーマルに述べる時に使う
 
 「consist」は「of」と必ずセットで使い、構成要素を説明しますが、「comprise」は「of」を使わずに目的語を直接取ります。
 
@@ -105,14 +105,14 @@ TOEICでは「consist of ～」の形で、構成要素を説明する文脈で�
 
 ## 🧩 あわせて覚えたい
 
-- [compose](/compose)：構成する、作曲する
-- [include](/include)：含む
+- [compose](/word/compose)：構成する、作曲する
+- [include](/word/include)：含む
 
 ---
 
 ## 📖 できればこれも
 
-- [contain](/contain)：含む、入っている
-- [involve](/involve)：含む、関与させる
+- [contain](/word/contain)：含む、入っている
+- [involve](/word/involve)：含む、関与させる
 
 <!-- cvid: aid30_bid14 -->

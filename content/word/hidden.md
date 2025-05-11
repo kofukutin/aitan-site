@@ -97,7 +97,7 @@ TOEICでは、形容詞として「hidden information（隠された情報）」
 ## 🤔  secret との違いは？
 
 - **hidden**：物理的・視覚的に「隠された」「見えない」状態を表す
-- **[secret](/secret)**：情報や内容が「秘密」である、他人に知られていない状態
+- **[secret](/word/secret)**：情報や内容が「秘密」である、他人に知られていない状態
 
 hiddenは「見えない」「隠されている」ことに重点があり、secretは「秘密にされている」「公にされていない」ことに重点があります。
 
@@ -105,14 +105,14 @@ hiddenは「見えない」「隠されている」ことに重点があり、se
 
 ## 🧩 あわせて覚えたい
 
-- [concealed](/concealed)：隠された（よりフォーマルな表現）
-- [visible](/visible)：見える、可視の
+- [concealed](/word/concealed)：隠された（よりフォーマルな表現）
+- [visible](/word/visible)：見える、可視の
 
 ---
 
 ## 📖 できればこれも
 
-- [obvious](/obvious)：明らかな
-- [unknown](/unknown)：未知の、知られていない
+- [obvious](/word/obvious)：明らかな
+- [unknown](/word/unknown)：未知の、知られていない
 
 <!-- cvid: aid22_bid40 -->

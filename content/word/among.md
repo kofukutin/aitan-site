@@ -93,7 +93,7 @@ amongは、TOEICの文法問題や前置詞の使い分け問題でよく出題�
 ## 🤔  between との違いは？
 
 - **among**：3つ以上の集団の中で、という意味で使う
-- **[between](/between)**：2つのものや人の間で、という意味で使う
+- **[between](/word/between)**：2つのものや人の間で、という意味で使う
 
 amongは「複数（3つ以上）の中で」、betweenは「2つの間で」と使い分けます。
 
@@ -101,15 +101,15 @@ amongは「複数（3つ以上）の中で」、betweenは「2つの間で」と
 
 ## 🧩 あわせて覚えたい
 
-- [within](/within)：～の内部で、～以内で
-- [throughout](/throughout)：～の至る所に、～の間中ずっと
+- [within](/word/within)：～の内部で、～以内で
+- [throughout](/word/throughout)：～の至る所に、～の間中ずっと
 
 ---
 
 ## 📖 できればこれも
 
-- [during](/during)：～の間に（期間を表す）
-- [across](/across)：～を横切って、～中に
+- [during](/word/during)：～の間に（期間を表す）
+- [across](/word/across)：～を横切って、～中に
 
 
 <!-- cvid: aid09_bid03 -->

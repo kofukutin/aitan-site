@@ -97,7 +97,7 @@ TOEICでは「承認」「認可」を問う文脈で頻出します。特にビ
 ## 🤔  permission との違いは？
 
 - **approval**：正式な承認や賛成を意味し、上司や組織など権限のある人が認めるニュアンスが強い
-- **[permission](/permission)**：許可、特に「してもよい」という許しを意味し、日常的な許可にも使われる
+- **[permission](/word/permission)**：許可、特に「してもよい」という許しを意味し、日常的な許可にも使われる
 
 approvalは「認める・賛成する」ニュアンス、permissionは「許す・してもよいと認める」ニュアンスの違いがあります。
 
@@ -105,13 +105,13 @@ approvalは「認める・賛成する」ニュアンス、permissionは「許�
 
 ## 🧩 あわせて覚えたい
 
-- [rejection](/rejection)：拒否、却下
-- [authorization](/authorization)：認可、許可
+- [rejection](/word/rejection)：拒否、却下
+- [authorization](/word/authorization)：認可、許可
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/agreement)：合意、同意
-- [confirmation](/confirmation)：確認、承認
+- [agreement](/word/agreement)：合意、同意
+- [confirmation](/word/confirmation)：確認、承認
 <!-- cvid: aid28_bid24 -->

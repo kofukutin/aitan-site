@@ -97,7 +97,7 @@ TOEICではビジネス文書やメールの中で「書類を同封する」と
 ## 🤔  attach との違いは？
 
 - **enclose**：封筒やパッケージの中に「同封する」「囲む」ニュアンス
-- **[attach](/attach)**：メールや文書などに「添付する」ニュアンス
+- **[attach](/word/attach)**：メールや文書などに「添付する」ニュアンス
 
 encloseは物理的に中に入れるイメージ、attachは何かにくっつける・添付するイメージで使い分けます。
 
@@ -105,14 +105,14 @@ encloseは物理的に中に入れるイメージ、attachは何かにくっつ�
 
 ## 🧩 あわせて覚えたい
 
-- [include](/include)：含む、含める
-- [surround](/surround)：囲む、取り囲む
+- [include](/word/include)：含む、含める
+- [surround](/word/surround)：囲む、取り囲む
 
 ---
 
 ## 📖 できればこれも
 
-- [contain](/contain)：含む、入っている
-- [insert](/insert)：挿入する、差し込む
+- [contain](/word/contain)：含む、入っている
+- [insert](/word/insert)：挿入する、差し込む
 
 <!-- cvid: aid42_bid14 -->

@@ -97,7 +97,7 @@ TOEICでは「fail to do（～し損なう）」の形で頻出です。否定�
 ## 🤔  miss との違いは？
 
 - **fail**：目標や期待に届かず「失敗する」「達成できない」ことを表す。
-- **[miss](/miss)**：機会や目標を「逃す」「取り損なう」ことを表す。
+- **[miss](/word/miss)**：機会や目標を「逃す」「取り損なう」ことを表す。
 
 failは「努力したが結果が出なかった」場合に使い、missは「チャンスやタイミングを逃した」場合に使います。
 
@@ -105,14 +105,14 @@ failは「努力したが結果が出なかった」場合に使い、missは「
 
 ## 🧩 あわせて覚えたい
 
-- [succeed](/succeed)：成功する
-- [error](/error)：誤り、ミス
+- [succeed](/word/succeed)：成功する
+- [error](/word/error)：誤り、ミス
 
 ---
 
 ## 📖 できればこれも
 
-- [attempt](/attempt)：試みる
-- [achieve](/achieve)：達成する
+- [attempt](/word/attempt)：試みる
+- [achieve](/word/achieve)：達成する
 
 <!-- cvid: aid34_bid39 -->

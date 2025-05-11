@@ -97,7 +97,7 @@ TOEICでは銀行や会計に関する説明文や明細書でよく登場しま
 ## 🤔  withdrawal との違いは？
 
 - **debit**：会計上の「借方」や口座からの引き落とし自体、またはその記録を指す
-- **[withdrawal](/withdrawal)**：現金の「引き出し」や資金の引き落としという動作自体を指す
+- **[withdrawal](/word/withdrawal)**：現金の「引き出し」や資金の引き落としという動作自体を指す
 
 debitは記録や会計用語として使われ、withdrawalは実際にお金を引き出す行為を強調します。
 
@@ -105,14 +105,14 @@ debitは記録や会計用語として使われ、withdrawalは実際にお金�
 
 ## 🧩 あわせて覚えたい
 
-- [credit](/credit)：貸方、預け入れ
-- [deposit](/deposit)：預金、預け入れ
+- [credit](/word/credit)：貸方、預け入れ
+- [deposit](/word/deposit)：預金、預け入れ
 
 ---
 
 ## 📖 できればこれも
 
-- [balance](/balance)：残高
-- [transaction](/transaction)：取引
+- [balance](/word/balance)：残高
+- [transaction](/word/transaction)：取引
 
 <!-- cvid: aid04_bid17 -->

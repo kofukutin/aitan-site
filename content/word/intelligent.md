@@ -97,7 +97,7 @@ TOEICでは、人物や製品の特徴を説明する文脈で形容詞として
 ## 🤔  smart との違いは？
 
 - **intelligent**：知識や論理的思考力が高い、知的な
-- **[smart](/smart)**：頭の回転が速い、機転が利く、または見た目が洗練されている
+- **[smart](/word/smart)**：頭の回転が速い、機転が利く、または見た目が洗練されている
 
 intelligentは「本質的な知性」や「論理的思考力」を強調し、smartは「機転」や「実用的な賢さ」、場合によっては「見た目の良さ」も含みます。
 
@@ -105,14 +105,14 @@ intelligentは「本質的な知性」や「論理的思考力」を強調し、
 
 ## 🧩 あわせて覚えたい
 
-- [clever](/clever)：賢い、要領が良い
-- [dull](/dull)：鈍い、頭の回転が遅い
+- [clever](/word/clever)：賢い、要領が良い
+- [dull](/word/dull)：鈍い、頭の回転が遅い
 
 ---
 
 ## 📖 できればこれも
 
-- [logical](/logical)：論理的な
-- [creative](/creative)：創造的な
+- [logical](/word/logical)：論理的な
+- [creative](/word/creative)：創造的な
 
 <!-- cvid: aid38_bid49 -->

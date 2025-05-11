@@ -97,7 +97,7 @@ TOEICでは、科学技術や通信に関する説明文や記事で「satellite
 ## 🤔  probe との違いは？
 
 - **satellite**：地球や惑星の周囲を回る「衛星」や、従属するものを指す。
-- **[probe](/probe)**：宇宙や深海などに送り込む「探査機」や「調査装置」を指す。
+- **[probe](/word/probe)**：宇宙や深海などに送り込む「探査機」や「調査装置」を指す。
 
 satelliteは「回るもの」「従属するもの」、probeは「調査・探査のために送り込む装置」という違いがあります。
 
@@ -105,14 +105,14 @@ satelliteは「回るもの」「従属するもの」、probeは「調査・探
 
 ## 🧩 あわせて覚えたい
 
-- [orbit](/orbit)：軌道、軌道を回る
-- [transmit](/transmit)：送信する、伝える
+- [orbit](/word/orbit)：軌道、軌道を回る
+- [transmit](/word/transmit)：送信する、伝える
 
 ---
 
 ## 📖 できればこれも
 
-- [launch](/launch)：打ち上げる、開始する
-- [device](/device)：装置、機器
+- [launch](/word/launch)：打ち上げる、開始する
+- [device](/word/device)：装置、機器
 
 <!-- cvid: aid38_bid47 -->

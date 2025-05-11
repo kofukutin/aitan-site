@@ -98,7 +98,7 @@ TOEICでは会議や予約、注文のやり取りで「cancel」が頻出しま
 ## 🤔  withdraw との違いは？
 
 - **cancel**：予定や予約、注文などを「取り消す」「中止する」
-- **[withdraw](/withdraw)**：申し込みや参加、資金などを「撤回する」「引き出す」
+- **[withdraw](/word/withdraw)**：申し込みや参加、資金などを「撤回する」「引き出す」
 
 cancelは「予定や手続きをなかったことにする」ニュアンス、withdrawは「自分の意思で引き下がる・取り下げる」ニュアンスがあります。
 
@@ -106,14 +106,14 @@ cancelは「予定や手続きをなかったことにする」ニュアンス�
 
 ## 🧩 あわせて覚えたい
 
-- [postpone](/postpone)：延期する
-- [approve](/approve)：承認する
+- [postpone](/word/postpone)：延期する
+- [approve](/word/approve)：承認する
 
 ---
 
 ## 📖 できればこれも
 
-- [reschedule](/reschedule)：予定を変更する
-- [confirm](/confirm)：確認する
+- [reschedule](/word/reschedule)：予定を変更する
+- [confirm](/word/confirm)：確認する
 
 <!-- cvid: aid26_bid09 -->

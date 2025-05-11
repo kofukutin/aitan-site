@@ -97,7 +97,7 @@ TOEICでは、オフィスや家庭のシーンで「テレビを見る」「テ
 ## 🤔  monitor との違いは？
 
 - **television**：映像と音声を受信・視聴する家庭用テレビや放送そのものを指す。
-- **[monitor](/monitor)**：コンピュータや機器の映像表示装置を指し、テレビ放送の受信機能は通常含まない。
+- **[monitor](/word/monitor)**：コンピュータや機器の映像表示装置を指し、テレビ放送の受信機能は通常含まない。
 
 televisionは主に家庭や娯楽用、monitorはパソコンや業務用の画面という違いがあります。
 
@@ -105,14 +105,14 @@ televisionは主に家庭や娯楽用、monitorはパソコンや業務用の画
 
 ## 🧩 あわせて覚えたい
 
-- [broadcast](/broadcast)：放送する
-- [screen](/screen)：画面
+- [broadcast](/word/broadcast)：放送する
+- [screen](/word/screen)：画面
 
 ---
 
 ## 📖 できればこれも
 
-- [radio](/radio)：ラジオ
-- [device](/device)：装置
+- [radio](/word/radio)：ラジオ
+- [device](/word/device)：装置
 
 <!-- cvid: aid49_bid46 -->

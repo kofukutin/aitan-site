@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「良い」「素晴らしい」といった意
 ## 🤔  excellent との違いは？
 
 - **great**：カジュアルで幅広く「すばらしい」「良い」と褒めるときに使う
-- **[excellent](/excellent)**：よりフォーマルで「非常に優れている」「申し分ない」と強調したいときに使う
+- **[excellent](/word/excellent)**：よりフォーマルで「非常に優れている」「申し分ない」と強調したいときに使う
 
 「great」は日常会話やビジネスでも気軽に使える褒め言葉ですが、「excellent」はより高い評価やフォーマルな場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「良い」「素晴らしい」といった意
 
 ## 🧩 あわせて覚えたい
 
-- [good](/good)：良い
-- [wonderful](/wonderful)：素晴らしい
+- [good](/word/good)：良い
+- [wonderful](/word/wonderful)：素晴らしい
 
 ---
 
 ## 📖 できればこれも
 
-- [amazing](/amazing)：驚くほど素晴らしい
-- [fantastic](/fantastic)：とても素晴らしい
+- [amazing](/word/amazing)：驚くほど素晴らしい
+- [fantastic](/word/fantastic)：とても素晴らしい
 
 <!-- cvid: aid26_bid12 -->

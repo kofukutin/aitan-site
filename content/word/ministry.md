@@ -97,7 +97,7 @@ TOEICでは政府機関や公式文書、ニュース記事などの長文でよ
 ## 🤔  department との違いは？
 
 - **ministry**：政府の「省」や「省庁」など、国レベルの公的機関を指すフォーマルな表現
-- **[department](/department)**：会社や組織内の「部門」「部署」や、米国の政府機関（Department of Stateなど）に使う
+- **[department](/word/department)**：会社や組織内の「部門」「部署」や、米国の政府機関（Department of Stateなど）に使う
 
 ministryは主にイギリスや他国の政府機関に使い、departmentは企業や米国の政府機関など幅広く使われます。
 
@@ -105,14 +105,14 @@ ministryは主にイギリスや他国の政府機関に使い、departmentは�
 
 ## 🧩 あわせて覚えたい
 
-- [agency](/agency)：（政府などの）機関、庁
-- [bureau](/bureau)：（政府の）局、部
+- [agency](/word/agency)：（政府などの）機関、庁
+- [bureau](/word/bureau)：（政府の）局、部
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/policy)：政策、方針
-- [committee](/committee)：委員会
+- [policy](/word/policy)：政策、方針
+- [committee](/word/committee)：委員会
 
 <!-- cvid: aid48_bid04 -->

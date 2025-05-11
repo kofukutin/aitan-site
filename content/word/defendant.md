@@ -97,7 +97,7 @@ TOEICでは契約書や法的文書、裁判に関する長文問題で見かけ
 ## 🤔  suspect との違いは？
 
 - **defendant**：裁判で訴えられている「被告人」や「被告」
-- **[suspect](/suspect)**：犯罪の「容疑者」、まだ正式に訴えられていない段階
+- **[suspect](/word/suspect)**：犯罪の「容疑者」、まだ正式に訴えられていない段階
 
 defendantは裁判で訴えられた人、suspectは犯罪の疑いをかけられている人で、法的な立場や段階が異なります。
 
@@ -105,14 +105,14 @@ defendantは裁判で訴えられた人、suspectは犯罪の疑いをかけら�
 
 ## 🧩 あわせて覚えたい
 
-- [plaintiff](/plaintiff)：原告（訴えを起こす側）
-- [accused](/accused)：被告人（刑事事件での被告）
+- [plaintiff](/word/plaintiff)：原告（訴えを起こす側）
+- [accused](/word/accused)：被告人（刑事事件での被告）
 
 ---
 
 ## 📖 できればこれも
 
-- [trial](/trial)：裁判、公判
-- [verdict](/verdict)：評決、判決
+- [trial](/word/trial)：裁判、公判
+- [verdict](/word/verdict)：評決、判決
 
 <!-- cvid: aid31_bid41 -->

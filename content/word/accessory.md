@@ -97,7 +97,7 @@ TOEICでは、主に製品説明やマニュアル、注文書などで「付属
 ## 🤔  equipment との違いは？
 
 - **accessory**：本体に付属する補助的なものや装飾品
-- **[equipment](/equipment)**：目的のために使う道具や機器全体
+- **[equipment](/word/equipment)**：目的のために使う道具や機器全体
 
 accessoryは「本体の補助・追加品」、equipmentは「必要な道具一式や装置」を指し、accessoryの方が範囲が狭くなります。
 
@@ -105,14 +105,14 @@ accessoryは「本体の補助・追加品」、equipmentは「必要な道具�
 
 ## 🧩 あわせて覚えたい
 
-- [attachment](/attachment)：添付物、付属品
-- [component](/component)：構成要素、部品
+- [attachment](/word/attachment)：添付物、付属品
+- [component](/word/component)：構成要素、部品
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/device)：装置、機器
-- [tool](/tool)：道具、ツール
+- [device](/word/device)：装置、機器
+- [tool](/word/tool)：道具、ツール
 
 <!-- cvid: aid01_bid30 -->

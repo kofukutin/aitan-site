@@ -96,7 +96,7 @@ TOEICでは科学や医療系の長文で登場することがあり、専門的
 ## 🤔  enzyme との違いは？
 
 - **kinase**：リン酸基を他の分子に付加する特定の酵素
-- **[enzyme](/enzyme)**：生体内のあらゆる化学反応を促進する酵素全般
+- **[enzyme](/word/enzyme)**：生体内のあらゆる化学反応を促進する酵素全般
 
 kinaseはenzymeの一種ですが、特にリン酸化反応を担う酵素を指します。enzymeはより広い意味で使われます。
 
@@ -104,14 +104,14 @@ kinaseはenzymeの一種ですが、特にリン酸化反応を担う酵素を�
 
 ## 🧩 あわせて覚えたい
 
-- [phosphatase](/phosphatase)：リン酸基を分子から除去する酵素
-- [substrate](/substrate)：酵素が作用する対象となる物質
+- [phosphatase](/word/phosphatase)：リン酸基を分子から除去する酵素
+- [substrate](/word/substrate)：酵素が作用する対象となる物質
 
 ---
 
 ## 📖 できればこれも
 
-- [protein](/protein)：タンパク質
-- [catalyst](/catalyst)：触媒
+- [protein](/word/protein)：タンパク質
+- [catalyst](/word/catalyst)：触媒
 
 <!-- cvid: aid07_bid48 -->

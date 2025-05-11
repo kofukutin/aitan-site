@@ -97,7 +97,7 @@ TOEICでは、説明文やメール文中で「精通」「慣れ」を表す語
 ## 🤔  knowledge との違いは？
 
 - **familiarity**：実際に触れたり経験したことで得た「親しみ」や「慣れ」「精通」を表す。
-- **[knowledge](/knowledge)**：学習や情報収集によって得た「知識」全般を指す。
+- **[knowledge](/word/knowledge)**：学習や情報収集によって得た「知識」全般を指す。
 
 familiarityは実体験や繰り返しによる「慣れ」に重点があり、knowledgeは知識そのものや理論的な理解を指します。
 
@@ -105,14 +105,14 @@ familiarityは実体験や繰り返しによる「慣れ」に重点があり、
 
 ## 🧩 あわせて覚えたい
 
-- [expertise](/expertise)：専門知識、熟練
-- [awareness](/awareness)：認識、気づき
+- [expertise](/word/expertise)：専門知識、熟練
+- [awareness](/word/awareness)：認識、気づき
 
 ---
 
 ## 📖 できればこれも
 
-- [acquaintance](/acquaintance)：知人、面識
-- [understanding](/understanding)：理解、把握
+- [acquaintance](/word/acquaintance)：知人、面識
+- [understanding](/word/understanding)：理解、把握
 
 <!-- cvid: aid19_bid12 -->

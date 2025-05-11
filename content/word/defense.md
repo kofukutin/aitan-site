@@ -97,7 +97,7 @@ TOEICではビジネスやIT関連の記事、または会社の方針説明な�
 ## 🤔  protection との違いは？
 
 - **defense**：攻撃や批判など「外からの脅威」に対して守る行為や仕組みを指す
-- **[protection](/protection)**：広く「危険や損害から守ること」全般を指す
+- **[protection](/word/protection)**：広く「危険や損害から守ること」全般を指す
 
 defenseは「防御のための行動や体制」に焦点があり、protectionは「安全を保つこと」自体に重点があります。
 
@@ -105,14 +105,14 @@ defenseは「防御のための行動や体制」に焦点があり、protection
 
 ## 🧩 あわせて覚えたい
 
-- [attack](/attack)：攻撃
-- [security](/security)：安全、警備
+- [attack](/word/attack)：攻撃
+- [security](/word/security)：安全、警備
 
 ---
 
 ## 📖 できればこれも
 
-- [strategy](/strategy)：戦略
-- [policy](/policy)：方針
+- [strategy](/word/strategy)：戦略
+- [policy](/word/policy)：方針
 
 <!-- cvid: aid17_bid04 -->

@@ -97,7 +97,7 @@ TOEICでは売買や契約に関する長文やEメール文中でよく登場�
 ## 🤔  vendor との違いは？
 
 - **seller**：一般的な「売り手」や「販売者」を指し、個人・企業どちらにも使える。
-- **[vendor](/vendor)**：特に「業者」「露店商」など、商品を販売するビジネス的な売り手を指すことが多い。
+- **[vendor](/word/vendor)**：特に「業者」「露店商」など、商品を販売するビジネス的な売り手を指すことが多い。
 
 sellerは広い意味で使われ、vendorはビジネスや特定の販売形態に焦点を当てる場合に使われます。
 
@@ -105,14 +105,14 @@ sellerは広い意味で使われ、vendorはビジネスや特定の販売形�
 
 ## 🧩 あわせて覚えたい
 
-- [buyer](/buyer)：買い手、購入者
-- [retailer](/retailer)：小売業者
+- [buyer](/word/buyer)：買い手、購入者
+- [retailer](/word/retailer)：小売業者
 
 ---
 
 ## 📖 できればこれも
 
-- [customer](/customer)：顧客
-- [supplier](/supplier)：供給者
+- [customer](/word/customer)：顧客
+- [supplier](/word/supplier)：供給者
 
 <!-- cvid: aid40_bid49 -->

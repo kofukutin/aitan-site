@@ -97,7 +97,7 @@ TOEICでは、研修や説明、教育に関する会話や説明文でよく登
 ## 🤔  instruct との違いは？
 
 - **teach**：知識や技能を幅広く教える、一般的な「教える」
-- **[instruct](/instruct)**：手順や方法などを具体的・公式に指示する「教える」
+- **[instruct](/word/instruct)**：手順や方法などを具体的・公式に指示する「教える」
 
 teachは日常的な「教える」に広く使われますが、instructは「指示」「手順説明」などフォーマルで限定的な場面に使われます。
 
@@ -105,14 +105,14 @@ teachは日常的な「教える」に広く使われますが、instructは「�
 
 ## 🧩 あわせて覚えたい
 
-- [educate](/educate)：教育する、知識を与える
-- [train](/train)：訓練する、技能を身につけさせる
+- [educate](/word/educate)：教育する、知識を与える
+- [train](/word/train)：訓練する、技能を身につけさせる
 
 ---
 
 ## 📖 できればこれも
 
-- [learn](/learn)：学ぶ、習得する
-- [explain](/explain)：説明する
+- [learn](/word/learn)：学ぶ、習得する
+- [explain](/word/explain)：説明する
 
 <!-- cvid: aid43_bid11 -->

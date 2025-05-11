@@ -97,7 +97,7 @@ TOEICではITやビジネスの文脈で「pipeline」が「工程」や「進�
 ## 🤔  process との違いは？
 
 - **pipeline**：一連の流れや工程、または物理的な配管を指す
-- **[process](/process)**：物事の進行や処理の「過程」「手順」を指す
+- **[process](/word/process)**：物事の進行や処理の「過程」「手順」を指す
 
 pipelineは「流れ」や「連続した工程」に重点があり、processは「手順」や「処理方法」に焦点を当てます。
 
@@ -105,14 +105,14 @@ pipelineは「流れ」や「連続した工程」に重点があり、process�
 
 ## 🧩 あわせて覚えたい
 
-- [channel](/channel)：通路、伝達経路
-- [workflow](/workflow)：作業の流れ、業務工程
+- [channel](/word/channel)：通路、伝達経路
+- [workflow](/word/workflow)：作業の流れ、業務工程
 
 ---
 
 ## 📖 できればこれも
 
-- [network](/network)：ネットワーク、通信網
-- [system](/system)：システム、体系
+- [network](/word/network)：ネットワーク、通信網
+- [system](/word/system)：システム、体系
 
 <!-- cvid: aid32_bid04 -->

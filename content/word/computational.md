@@ -97,7 +97,7 @@ TOEICではITや科学技術に関する長文や説明文で見かけること�
 ## 🤔  calculative との違いは？
 
 - **computational**：計算やコンピュータ処理に関する、技術的・科学的な文脈で使う
-- **[calculative](/calculative)**：打算的な、損得勘定をする（人の性格や態度に使う）
+- **[calculative](/word/calculative)**：打算的な、損得勘定をする（人の性格や態度に使う）
 
 **computational**は技術や科学の分野で「計算に関する」という意味で使われますが、**calculative**は「打算的」「計算高い」といった人の性格や態度を表します。
 
@@ -105,14 +105,14 @@ TOEICではITや科学技術に関する長文や説明文で見かけること�
 
 ## 🧩 あわせて覚えたい
 
-- [algorithm](/algorithm)：アルゴリズム、計算手順
-- [analytical](/analytical)：分析的な
+- [algorithm](/word/algorithm)：アルゴリズム、計算手順
+- [analytical](/word/analytical)：分析的な
 
 ---
 
 ## 📖 できればこれも
 
-- [digital](/digital)：デジタルの
-- [logical](/logical)：論理的な
+- [digital](/word/digital)：デジタルの
+- [logical](/word/logical)：論理的な
 
 <!-- cvid: aid21_bid28 -->

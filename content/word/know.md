@@ -97,7 +97,7 @@ TOEICでは会話や説明文で頻繁に登場し、基本的な動詞として
 ## 🤔  realize との違いは？
 
 - **know**：知識や情報として知っている状態を表す
-- **[realize](/realize)**：気づく、はっきり理解する（瞬間的な認識）
+- **[realize](/word/realize)**：気づく、はっきり理解する（瞬間的な認識）
 
 knowは「すでに知っている」こと、realizeは「その場で気づく」ことを表します。
 
@@ -105,14 +105,14 @@ knowは「すでに知っている」こと、realizeは「その場で気づく
 
 ## 🧩 あわせて覚えたい
 
-- [understand](/understand)：理解する
-- [recognize](/recognize)：見分ける、認識する
+- [understand](/word/understand)：理解する
+- [recognize](/word/recognize)：見分ける、認識する
 
 ---
 
 ## 📖 できればこれも
 
-- [learn](/learn)：学ぶ、習得する
-- [notice](/notice)：気づく
+- [learn](/word/learn)：学ぶ、習得する
+- [notice](/word/notice)：気づく
 
 <!-- cvid: aid11_bid44 -->

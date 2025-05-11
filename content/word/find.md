@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「見つける」「気づく」といった意
 ## 🤔  discover との違いは？
 
 - **find**：探していたものや偶然に「見つける」「発見する」
-- **[discover](/discover)**：新しいものや未知のことを「発見する」
+- **[discover](/word/discover)**：新しいものや未知のことを「発見する」
 
 findは日常的な「見つける」に広く使われ、discoverは特に新発見や研究などで使われることが多いです。
 
@@ -105,14 +105,14 @@ findは日常的な「見つける」に広く使われ、discoverは特に新�
 
 ## 🧩 あわせて覚えたい
 
-- [lose](/lose)：失う、なくす
-- [search](/search)：探す、検索する
+- [lose](/word/lose)：失う、なくす
+- [search](/word/search)：探す、検索する
 
 ---
 
 ## 📖 できればこれも
 
-- [choose](/choose)：選ぶ
-- [show](/show)：見せる、示す
+- [choose](/word/choose)：選ぶ
+- [show](/word/show)：見せる、示す
 
 <!-- cvid: aid15_bid45 -->

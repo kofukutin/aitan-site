@@ -97,7 +97,7 @@ TOEICでは、売買や取引に関する会話や説明文でよく登場しま
 ## 🤔  bought との違いは？
 
 - **sold**：売る側が「売った」ことを表す
-- **[bought](/bought)**：買う側が「買った」ことを表す
+- **[bought](/word/bought)**：買う側が「買った」ことを表す
 
 soldは「売る」側、boughtは「買う」側の立場を表すので、会話の視点が異なります。
 
@@ -105,14 +105,14 @@ soldは「売る」側、boughtは「買う」側の立場を表すので、会�
 
 ## 🧩 あわせて覚えたい
 
-- [offer](/offer)：提案する、申し出る
-- [purchase](/purchase)：購入する
+- [offer](/word/offer)：提案する、申し出る
+- [purchase](/word/purchase)：購入する
 
 ---
 
 ## 📖 できればこれも
 
-- [send](/send)：送る
-- [deliver](/deliver)：配達する
+- [send](/word/send)：送る
+- [deliver](/word/deliver)：配達する
 
 <!-- cvid: aid00_bid09 -->

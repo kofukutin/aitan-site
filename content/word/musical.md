@@ -98,7 +98,7 @@ TOEICでは、劇場やイベント、趣味に関する会話で「musical」�
 ## 🤔  concert との違いは？
 
 - **musical**：音楽を中心とした劇や「音楽の」という意味の形容詞。
-- **[concert](/concert)**：演奏会やコンサート（音楽のみのイベント）。
+- **[concert](/word/concert)**：演奏会やコンサート（音楽のみのイベント）。
 
 musicalは歌やダンスを含む舞台劇、concertは純粋な音楽演奏会を指します。
 
@@ -106,14 +106,14 @@ musicalは歌やダンスを含む舞台劇、concertは純粋な音楽演奏会
 
 ## 🧩 あわせて覚えたい
 
-- [theater](/theater)：劇場、演劇
-- [performance](/performance)：公演、演技
+- [theater](/word/theater)：劇場、演劇
+- [performance](/word/performance)：公演、演技
 
 ---
 
 ## 📖 できればこれも
 
-- [drama](/drama)：ドラマ、劇
-- [orchestra](/orchestra)：オーケストラ
+- [drama](/word/drama)：ドラマ、劇
+- [orchestra](/word/orchestra)：オーケストラ
 
 <!-- cvid: aid09_bid33 -->

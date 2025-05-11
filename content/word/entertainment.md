@@ -97,7 +97,7 @@ TOEICでは、ホテルやイベント、サービス業の案内文や広告な
 ## 🤔  recreation との違いは？
 
 - **entertainment**：人を楽しませるための娯楽やショー、イベントなどを指す
-- **[recreation](/recreation)**：気分転換や休養のための活動全般（スポーツや趣味など）を指す
+- **[recreation](/word/recreation)**：気分転換や休養のための活動全般（スポーツや趣味など）を指す
 
 entertainmentは「見て楽しむ」娯楽、recreationは「自分で体を動かす」気晴らしや余暇活動に使われます。
 
@@ -105,14 +105,14 @@ entertainmentは「見て楽しむ」娯楽、recreationは「自分で体を動
 
 ## 🧩 あわせて覚えたい
 
-- [amusement](/amusement)：楽しみ、娯楽（特に遊園地など）
-- [performance](/performance)：公演、演奏、パフォーマンス
+- [amusement](/word/amusement)：楽しみ、娯楽（特に遊園地など）
+- [performance](/word/performance)：公演、演奏、パフォーマンス
 
 ---
 
 ## 📖 できればこれも
 
-- [event](/event)：イベント、催し
-- [activity](/activity)：活動、行動
+- [event](/word/event)：イベント、催し
+- [activity](/word/activity)：活動、行動
 
 <!-- cvid: aid29_bid06 -->

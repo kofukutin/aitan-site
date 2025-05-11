@@ -97,7 +97,7 @@ TOEICでは会話や説明の中で「想像する」「思う」という意味
 ## 🤔  suppose との違いは？
 
 - **imagine**：頭の中で自由にイメージしたり、空想したりする時に使う
-- **[suppose](/suppose)**：何かを仮定したり、根拠をもとに「～だと思う」と推測する時に使う
+- **[suppose](/word/suppose)**：何かを仮定したり、根拠をもとに「～だと思う」と推測する時に使う
 
 imagineは自由な発想や空想に、supposeは根拠や前提に基づく推測に使われます。
 
@@ -105,14 +105,14 @@ imagineは自由な発想や空想に、supposeは根拠や前提に基づく推
 
 ## 🧩 あわせて覚えたい
 
-- [visualize](/visualize)：頭の中で視覚的に思い描く
-- [assume](/assume)：仮定する、当然と思う
+- [visualize](/word/visualize)：頭の中で視覚的に思い描く
+- [assume](/word/assume)：仮定する、当然と思う
 
 ---
 
 ## 📖 できればこれも
 
-- [consider](/consider)：よく考える、検討する
-- [guess](/guess)：推測する、当てる
+- [consider](/word/consider)：よく考える、検討する
+- [guess](/word/guess)：推測する、当てる
 
 <!-- cvid: aid47_bid16 -->

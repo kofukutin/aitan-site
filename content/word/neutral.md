@@ -97,7 +97,7 @@ neutralは、TOEICの長文読解パートで「中立的な立場」や「偏�
 ## 🤔  impartial との違いは？
 
 - **neutral**：どちらの側にも立たず、感情や立場を持たないこと
-- **[impartial](/impartial)**：公平で偏りがなく、どちらにも味方しないこと
+- **[impartial](/word/impartial)**：公平で偏りがなく、どちらにも味方しないこと
 
 neutralは「立場を持たない」ことに重点があり、impartialは「判断や扱いが公平である」ことに重点があります。
 
@@ -105,14 +105,14 @@ neutralは「立場を持たない」ことに重点があり、impartialは「�
 
 ## 🧩 あわせて覚えたい
 
-- [biased](/biased)：偏った
-- [objective](/objective)：客観的な
+- [biased](/word/biased)：偏った
+- [objective](/word/objective)：客観的な
 
 ---
 
 ## 📖 できればこれも
 
-- [fair](/fair)：公平な
-- [unbiased](/unbiased)：偏りのない
+- [fair](/word/fair)：公平な
+- [unbiased](/word/unbiased)：偏りのない
 
 <!-- cvid: aid29_bid04 -->

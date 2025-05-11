@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、牧場や農場の風景を説明す
 ## 🤔  farm との違いは？
 
 - **ranch**：牛や馬などの家畜を飼育する広大な牧場
-- **[farm](/farm)**：作物栽培や家畜飼育を行う一般的な農場
+- **[farm](/word/farm)**：作物栽培や家畜飼育を行う一般的な農場
 
 ranchは特に家畜の放牧を中心とした大規模な牧場を指し、farmは作物や家畜など幅広い農業全般を指します。
 
@@ -105,14 +105,14 @@ ranchは特に家畜の放牧を中心とした大規模な牧場を指し、far
 
 ## 🧩 あわせて覚えたい
 
-- [pasture](/pasture)：牧草地
-- [cattle](/cattle)：牛（家畜としての）
+- [pasture](/word/pasture)：牧草地
+- [cattle](/word/cattle)：牛（家畜としての）
 
 ---
 
 ## 📖 できればこれも
 
-- [barn](/barn)：納屋、家畜小屋
-- [field](/field)：畑、野原
+- [barn](/word/barn)：納屋、家畜小屋
+- [field](/word/field)：畑、野原
 
 <!-- cvid: aid33_bid46 -->

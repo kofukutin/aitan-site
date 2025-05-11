@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、キッチンやオフィスの備品
 ## 🤔  refrigerator との違いは？
 
 - **fridge**：カジュアルな「冷蔵庫」の言い方。日常会話でよく使う。
-- **[refrigerator](/refrigerator)**：フォーマルまたは正式な「冷蔵庫」。説明書やビジネス文書で使われやすい。
+- **[refrigerator](/word/refrigerator)**：フォーマルまたは正式な「冷蔵庫」。説明書やビジネス文書で使われやすい。
 
 fridgeはrefrigeratorの略で、親しい間柄や日常会話で使われますが、refrigeratorはよりフォーマルな場面や書き言葉で使われます。
 
@@ -105,14 +105,14 @@ fridgeはrefrigeratorの略で、親しい間柄や日常会話で使われま�
 
 ## 🧩 あわせて覚えたい
 
-- [freezer](/freezer)：冷凍庫
-- [microwave](/microwave)：電子レンジ
+- [freezer](/word/freezer)：冷凍庫
+- [microwave](/word/microwave)：電子レンジ
 
 ---
 
 ## 📖 できればこれも
 
-- [oven](/oven)：オーブン
-- [sink](/sink)：流し台
+- [oven](/word/oven)：オーブン
+- [sink](/word/sink)：流し台
 
 <!-- cvid: aid14_bid37 -->

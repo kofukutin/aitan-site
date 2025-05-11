@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や会議の中で「古い規則」「時代遅
 ## 🤔  obsolete との違いは？
 
 - **outdated**：現代の基準や最新のものに比べて古くなった、時代遅れの
-- **[obsolete](/obsolete)**：完全に使われなくなった、廃れた
+- **[obsolete](/word/obsolete)**：完全に使われなくなった、廃れた
 
 「outdated」は「まだ使えるが古い」ニュアンスで、日常やビジネスでよく使います。「obsolete」は「全く使われなくなった」など、より強い意味です。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネス文書や会議の中で「古い規則」「時代遅
 
 ## 🧩 あわせて覚えたい
 
-- [modern](/modern)：現代的な
-- [current](/current)：現在の、最新の
+- [modern](/word/modern)：現代的な
+- [current](/word/current)：現在の、最新の
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/update)：更新する、最新にする
-- [recent](/recent)：最近の
+- [update](/word/update)：更新する、最新にする
+- [recent](/word/recent)：最近の
 
 <!-- cvid: aid46_bid16 -->

@@ -97,7 +97,7 @@ clarityはTOEICの長文読解やビジネス文書で、説明や指示の「�
 ## 🤔  clearness との違いは？
 
 - **clarity**：主に抽象的な「明確さ」や「分かりやすさ」に使われ、フォーマルな印象が強い。
-- **[clearness](/clearness)**：物理的な「透明さ」や「はっきり見えること」にも使われ、ややカジュアル。
+- **[clearness](/word/clearness)**：物理的な「透明さ」や「はっきり見えること」にも使われ、ややカジュアル。
 
 clarityは説明や考えの明快さに、clearnessは見た目や天気など物理的な明瞭さに使われることが多いです。
 
@@ -105,14 +105,14 @@ clarityは説明や考えの明快さに、clearnessは見た目や天気など�
 
 ## 🧩 あわせて覚えたい
 
-- [precision](/precision)：正確さ
-- [ambiguity](/ambiguity)：あいまいさ
+- [precision](/word/precision)：正確さ
+- [ambiguity](/word/ambiguity)：あいまいさ
 
 ---
 
 ## 📖 できればこれも
 
-- [concise](/concise)：簡潔な
-- [transparency](/transparency)：透明性
+- [concise](/word/concise)：簡潔な
+- [transparency](/word/transparency)：透明性
 
 <!-- cvid: aid28_bid01 -->

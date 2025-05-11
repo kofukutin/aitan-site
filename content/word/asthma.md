@@ -97,7 +97,7 @@ The company's health plan covers asthma treatment.
 ## 🤔  allergy との違いは？
 
 - **asthma**：気道が炎症を起こし、呼吸困難を引き起こす慢性疾患。
-- **[allergy](/allergy)**：特定の物質に対する体の過敏反応全般。
+- **[allergy](/word/allergy)**：特定の物質に対する体の過敏反応全般。
 
 asthmaは呼吸器系の慢性疾患で、allergyは花粉や食べ物などへの体の反応全般を指します。
 
@@ -105,14 +105,14 @@ asthmaは呼吸器系の慢性疾患で、allergyは花粉や食べ物などへ�
 
 ## 🧩 あわせて覚えたい
 
-- [bronchitis](/bronchitis)：気管支炎
-- [pneumonia](/pneumonia)：肺炎
+- [bronchitis](/word/bronchitis)：気管支炎
+- [pneumonia](/word/pneumonia)：肺炎
 
 ---
 
 ## 📖 できればこれも
 
-- [symptom](/symptom)：症状
-- [treatment](/treatment)：治療
+- [symptom](/word/symptom)：症状
+- [treatment](/word/treatment)：治療
 
 <!-- cvid: aid32_bid39 -->

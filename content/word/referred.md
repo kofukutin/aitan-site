@@ -97,7 +97,7 @@ TOEICでは、referの過去形・過去分詞として「be referred to as」�
 ## 🤔  mentioned との違いは？
 
 - **referred**：何かを参照したり、他の人や部署に紹介・委ねたりする際に使う。
-- **[mentioned](/mentioned)**：単に話題として軽く触れる、言及する場合に使う。
+- **[mentioned](/word/mentioned)**：単に話題として軽く触れる、言及する場合に使う。
 
 referredは「紹介」「参照」「委託」などの意味合いが強く、mentionedは「ちょっと触れる」程度のニュアンスです。
 
@@ -105,14 +105,14 @@ referredは「紹介」「参照」「委託」などの意味合いが強く、
 
 ## 🧩 あわせて覚えたい
 
-- [recommend](/recommend)：推薦する、勧める
-- [consult](/consult)：相談する、助言を求める
+- [recommend](/word/recommend)：推薦する、勧める
+- [consult](/word/consult)：相談する、助言を求める
 
 ---
 
 ## 📖 できればこれも
 
-- [suggest](/suggest)：提案する
-- [indicate](/indicate)：示す、指し示す
+- [suggest](/word/suggest)：提案する
+- [indicate](/word/indicate)：示す、指し示す
 
 <!-- cvid: aid19_bid17 -->

@@ -97,7 +97,7 @@ TOEICでは主に歴史や出来事の記録、企業の沿革紹介などの文
 ## 🤔  record との違いは？
 
 - **chronicle**：出来事を年代順に詳細に記録したもの
-- **[record](/record)**：出来事や情報を記録したもの全般
+- **[record](/word/record)**：出来事や情報を記録したもの全般
 
 chronicleは特に「時系列で歴史的な出来事をまとめた記録」に使われ、recordはより広く「記録」全般に使われます。
 
@@ -105,14 +105,14 @@ chronicleは特に「時系列で歴史的な出来事をまとめた記録」�
 
 ## 🧩 あわせて覚えたい
 
-- [annal](/annal)：年代記、年ごとの記録
-- [journal](/journal)：日誌、雑誌
+- [annal](/word/annal)：年代記、年ごとの記録
+- [journal](/word/journal)：日誌、雑誌
 
 ---
 
 ## 📖 できればこれも
 
-- [archive](/archive)：公文書、記録保管所
-- [document](/document)：文書、記録
+- [archive](/word/archive)：公文書、記録保管所
+- [document](/word/document)：文書、記録
 
 <!-- cvid: aid33_bid17 -->

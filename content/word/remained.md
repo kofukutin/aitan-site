@@ -98,7 +98,7 @@ TOEICでは、remainの過去形remainedが空欄補充や時制の問題でよ�
 ## 🤔  stay との違いは？
 
 - **remained**：そのままの状態で残る、変わらずにいる（ややフォーマル）
-- **[stay](/stay)**：とどまる、滞在する（カジュアル・日常的）
+- **[stay](/word/stay)**：とどまる、滞在する（カジュアル・日常的）
 
 remainedは「変化せずにそのまま残る」ニュアンスが強く、stayは「場所にとどまる」「滞在する」ときに使います。
 
@@ -106,14 +106,14 @@ remainedは「変化せずにそのまま残る」ニュアンスが強く、sta
 
 ## 🧩 あわせて覚えたい
 
-- [leave](/leave)：去る、離れる
-- [persist](/persist)：持続する、粘り強く続く
+- [leave](/word/leave)：去る、離れる
+- [persist](/word/persist)：持続する、粘り強く続く
 
 ---
 
 ## 📖 できればこれも
 
-- [continue](/continue)：続ける、続く
-- [occur](/occur)：起こる、発生する
+- [continue](/word/continue)：続ける、続く
+- [occur](/word/occur)：起こる、発生する
 
 <!-- cvid: aid18_bid20 -->

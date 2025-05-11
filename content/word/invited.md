@@ -98,7 +98,7 @@ TOEICでは会議やイベントの案内、招待メールなどの場面でよ
 ## 🤔  asked との違いは？
 
 - **invited**：イベントや場所に「招待する」ことを表す
-- **[asked](/asked)**：何かを「頼む」「質問する」ことを表す
+- **[asked](/word/asked)**：何かを「頼む」「質問する」ことを表す
 
 「invited」は人を何かに呼ぶときに使い、「asked」は依頼や質問のときに使います。
 
@@ -106,14 +106,14 @@ TOEICでは会議やイベントの案内、招待メールなどの場面でよ
 
 ## 🧩 あわせて覚えたい
 
-- [welcome](/welcome)：歓迎する
-- [request](/request)：依頼する
+- [welcome](/word/welcome)：歓迎する
+- [request](/word/request)：依頼する
 
 ---
 
 ## 📖 できればこれも
 
-- [attend](/attend)：出席する
-- [join](/join)：参加する
+- [attend](/word/attend)：出席する
+- [join](/word/join)：参加する
 
 <!-- cvid: aid46_bid43 -->

@@ -97,7 +97,7 @@ miniatureは、観光地の説明や展示物の紹介、商品説明などで�
 ## 🤔  tiny との違いは？
 
 - **miniature**：実物を小さく再現した模型や、縮小版のもの
-- **[tiny](/tiny)**：とても小さい（サイズが小さいこと自体を強調）
+- **[tiny](/word/tiny)**：とても小さい（サイズが小さいこと自体を強調）
 
 miniatureは「模型」や「縮小版」として形や機能を保った小さいもの、tinyは単に「とても小さい」ことを表します。
 
@@ -105,14 +105,14 @@ miniatureは「模型」や「縮小版」として形や機能を保った小�
 
 ## 🧩 あわせて覚えたい
 
-- [model](/model)：模型、モデル
-- [replica](/replica)：複製、レプリカ
+- [model](/word/model)：模型、モデル
+- [replica](/word/replica)：複製、レプリカ
 
 ---
 
 ## 📖 できればこれも
 
-- [figurine](/figurine)：小さな人形、置物
-- [scale](/scale)：縮尺、スケール
+- [figurine](/word/figurine)：小さな人形、置物
+- [scale](/word/scale)：縮尺、スケール
 
 <!-- cvid: aid49_bid21 -->

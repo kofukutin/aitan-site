@@ -97,7 +97,7 @@ TOEICでは形容詞の語彙問題や、日常的な状況を説明する文脈
 ## 🤔  common との違いは？
 
 - **ordinary**：特別ではなく、ごく普通で目立たないことを強調
-- **[common](/common)**：多くの人や物に当てはまり、広く見られることを強調
+- **[common](/word/common)**：多くの人や物に当てはまり、広く見られることを強調
 
 「ordinary」は「平凡で特別感がない」こと、「common」は「よくある・一般的で多い」ことに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは形容詞の語彙問題や、日常的な状況を説明する文脈
 
 ## 🧩 あわせて覚えたい
 
-- [typical](/typical)：典型的な、代表的な
-- [unique](/unique)：唯一の、独特な
+- [typical](/word/typical)：典型的な、代表的な
+- [unique](/word/unique)：唯一の、独特な
 
 ---
 
 ## 📖 できればこれも
 
-- [usual](/usual)：いつもの、通常の
-- [average](/average)：平均的な、ごく普通の
+- [usual](/word/usual)：いつもの、通常の
+- [average](/word/average)：平均的な、ごく普通の
 
 <!-- cvid: aid21_bid22 -->

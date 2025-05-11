@@ -97,7 +97,7 @@ TOEICでは、adjustedは主に形容詞として「調整された」「修正�
 ## 🤔  modified との違いは？
 
 - **adjusted**：状況や目的に合わせて細かく調整された
-- **[modified](/modified)**：一部を変更・修正した
+- **[modified](/word/modified)**：一部を変更・修正した
 
 adjustedは「最適化のための調整」、modifiedは「部分的な変更」というニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ adjustedは「最適化のための調整」、modifiedは「部分的な変更�
 
 ## 🧩 あわせて覚えたい
 
-- [revised](/revised)：修正された、改訂された
-- [adapted](/adapted)：適応した、適合した
+- [revised](/word/revised)：修正された、改訂された
+- [adapted](/word/adapted)：適応した、適合した
 
 ---
 
 ## 📖 できればこれも
 
-- [accurate](/accurate)：正確な
-- [efficient](/efficient)：効率的な
+- [accurate](/word/accurate)：正確な
+- [efficient](/word/efficient)：効率的な
 
 <!-- cvid: aid03_bid35 -->

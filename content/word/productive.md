@@ -97,7 +97,7 @@ TOEICでは主にビジネス文脈で「productive meeting」や「productive e
 ## 🤔  efficient との違いは？
 
 - **productive**：成果や結果が多く出ることに重点がある
-- **[efficient](/efficient)**：無駄なく効率的に物事を進めることに重点がある
+- **[efficient](/word/efficient)**：無駄なく効率的に物事を進めることに重点がある
 
 productiveは「どれだけ多くの成果が出たか」に注目し、efficientは「どれだけ無駄なく効率的にできたか」に注目します。
 
@@ -105,14 +105,14 @@ productiveは「どれだけ多くの成果が出たか」に注目し、efficie
 
 ## 🧩 あわせて覚えたい
 
-- [fruitful](/fruitful)：実りの多い、有益な
-- [unproductive](/unproductive)：非生産的な、成果のない
+- [fruitful](/word/fruitful)：実りの多い、有益な
+- [unproductive](/word/unproductive)：非生産的な、成果のない
 
 ---
 
 ## 📖 できればこれも
 
-- [efficiently](/efficiently)：効率的に
-- [constructive](/constructive)：建設的な
+- [efficiently](/word/efficiently)：効率的に
+- [constructive](/word/constructive)：建設的な
 
 <!-- cvid: aid43_bid42 -->

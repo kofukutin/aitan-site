@@ -96,7 +96,7 @@ TOEICでは、ビジネスや社会的な「障壁」「妨げ」として頻出
 ## 🤔  obstacle との違いは？
 
 - **barrier**：物理的・心理的・制度的な「障壁」や「進行を妨げるもの」全般を指す
-- **[obstacle](/obstacle)**：主に「進行や達成を妨げる障害物・困難」を指す
+- **[obstacle](/word/obstacle)**：主に「進行や達成を妨げる障害物・困難」を指す
 
 barrierは「壁」のように進行を止めるもの全般、obstacleは「乗り越えるべき障害物」や「困難」に焦点があります。
 
@@ -104,14 +104,14 @@ barrierは「壁」のように進行を止めるもの全般、obstacleは「�
 
 ## 🧩 あわせて覚えたい
 
-- [hurdle](/hurdle)：（乗り越えるべき）ハードル、障害
-- [block](/block)：妨げ、障害物
+- [hurdle](/word/hurdle)：（乗り越えるべき）ハードル、障害
+- [block](/word/block)：妨げ、障害物
 
 ---
 
 ## 📖 できればこれも
 
-- [limit](/limit)：限界、制限
-- [restriction](/restriction)：制限、規制
+- [limit](/word/limit)：限界、制限
+- [restriction](/word/restriction)：制限、規制
 
 <!-- cvid: aid12_bid05 -->

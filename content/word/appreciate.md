@@ -97,7 +97,7 @@ TOEICでは、ビジネスシーンでの感謝や評価を表す表現として
 ## 🤔  value との違いは？
 
 - **appreciate**：感謝や価値を認める気持ちを丁寧に伝える
-- **[value](/value)**：価値を重視する、評価する
+- **[value](/word/value)**：価値を重視する、評価する
 
 appreciateは「感謝」や「理解」の気持ちを表すのに対し、valueは「重要視する」「評価する」といった意味で使われます。
 
@@ -105,14 +105,14 @@ appreciateは「感謝」や「理解」の気持ちを表すのに対し、valu
 
 ## 🧩 あわせて覚えたい
 
-- [recognize](/recognize)：認識する、認める
-- [thank](/thank)：感謝する
+- [recognize](/word/recognize)：認識する、認める
+- [thank](/word/thank)：感謝する
 
 ---
 
 ## 📖 できればこれも
 
-- [acknowledge](/acknowledge)：認める、受け取ったことを知らせる
-- [admire](/admire)：称賛する、感心する
+- [acknowledge](/word/acknowledge)：認める、受け取ったことを知らせる
+- [admire](/word/admire)：称賛する、感心する
 
 <!-- cvid: aid45_bid35 -->

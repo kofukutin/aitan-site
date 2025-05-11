@@ -97,7 +97,7 @@ TOEICでは「基礎」「設立」「財団」など複数の意味で出題さ
 ## 🤔  base との違いは？
 
 - **foundation**：物理的・抽象的な「土台」「基礎」や「設立」「財団」など幅広い意味で使う
-- **[base](/base)**：物理的な「底」「基部」や「拠点」など、より具体的な土台や出発点を指す
+- **[base](/word/base)**：物理的な「底」「基部」や「拠点」など、より具体的な土台や出発点を指す
 
 foundationは抽象的な「基礎」や組織の「設立」にも使えますが、baseは物理的な「底」や「拠点」に限定されることが多いです。
 
@@ -105,14 +105,14 @@ foundationは抽象的な「基礎」や組織の「設立」にも使えます�
 
 ## 🧩 あわせて覚えたい
 
-- [establishment](/establishment)：設立、創立
-- [groundwork](/groundwork)：下準備、基礎作業
+- [establishment](/word/establishment)：設立、創立
+- [groundwork](/word/groundwork)：下準備、基礎作業
 
 ---
 
 ## 📖 できればこれも
 
-- [principle](/principle)：原理、原則
-- [structure](/structure)：構造、仕組み
+- [principle](/word/principle)：原理、原則
+- [structure](/word/structure)：構造、仕組み
 
 <!-- cvid: aid29_bid44 -->

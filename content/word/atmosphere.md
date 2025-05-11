@@ -98,7 +98,7 @@ TOEICでは、会社や店舗の「雰囲気」や、環境問題に関する「
 ## 🤔  environment との違いは？
 
 - **atmosphere**：場所や状況の「雰囲気」や「大気」を指す。
-- **[environment](/environment)**：人や物を取り巻く「環境」全体を指す。
+- **[environment](/word/environment)**：人や物を取り巻く「環境」全体を指す。
 
 atmosphereは感覚的な「雰囲気」や科学的な「大気」に使い、environmentは物理的・社会的な「環境」全般に使います。
 
@@ -106,14 +106,14 @@ atmosphereは感覚的な「雰囲気」や科学的な「大気」に使い、e
 
 ## 🧩 あわせて覚えたい
 
-- [mood](/mood)：気分、雰囲気
-- [air](/air)：空気、雰囲気
+- [mood](/word/mood)：気分、雰囲気
+- [air](/word/air)：空気、雰囲気
 
 ---
 
 ## 📖 できればこれも
 
-- [climate](/climate)：気候、風土
-- [weather](/weather)：天気
+- [climate](/word/climate)：気候、風土
+- [weather](/word/weather)：天気
 
 <!-- cvid: aid13_bid07 -->

@@ -98,7 +98,7 @@ TOEICでは「店」や「保管する」という意味で会話や説明文に
 ## 🤔  shop との違いは？
 
 - **store**：アメリカ英語で「店」全般や「保管する」意味も持つ
-- **[shop](/shop)**：イギリス英語で「店」、特に小規模な店舗や専門店
+- **[shop](/word/shop)**：イギリス英語で「店」、特に小規模な店舗や専門店
 
 「store」はアメリカ英語で広く使われ、「shop」はイギリス英語でよく使われます。また、「store」は動詞で「保管する」という意味もありますが、「shop」にはありません。
 
@@ -106,14 +106,14 @@ TOEICでは「店」や「保管する」という意味で会話や説明文に
 
 ## 🧩 あわせて覚えたい
 
-- [warehouse](/warehouse)：倉庫
-- [inventory](/inventory)：在庫
+- [warehouse](/word/warehouse)：倉庫
+- [inventory](/word/inventory)：在庫
 
 ---
 
 ## 📖 できればこれも
 
-- [market](/market)：市場、マーケット
-- [stock](/stock)：在庫、株
+- [market](/word/market)：市場、マーケット
+- [stock](/word/stock)：在庫、株
 
 <!-- cvid: aid13_bid33 -->

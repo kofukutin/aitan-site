@@ -97,7 +97,7 @@ TOEICでは、配送や注文、商品説明などの文脈で「package」が�
 ## 🤔  parcel との違いは？
 
 - **package**：アメリカ英語で一般的な「小包」や「パッケージ」、内容物やセット商品にも使う。
-- **[parcel](/parcel)**：イギリス英語でよく使われる「小包」、主に郵便物としての荷物を指す。
+- **[parcel](/word/parcel)**：イギリス英語でよく使われる「小包」、主に郵便物としての荷物を指す。
 
 packageはアメリカ英語で幅広く使われ、parcelはイギリス英語で郵便の小包に特化して使われる傾向があります。
 
@@ -105,14 +105,14 @@ packageはアメリカ英語で幅広く使われ、parcelはイギリス英語�
 
 ## 🧩 あわせて覚えたい
 
-- [shipment](/shipment)：発送、出荷
-- [bundle](/bundle)：束、ひとまとめ
+- [shipment](/word/shipment)：発送、出荷
+- [bundle](/word/bundle)：束、ひとまとめ
 
 ---
 
 ## 📖 できればこれも
 
-- [envelope](/envelope)：封筒
-- [container](/container)：容器、コンテナ
+- [envelope](/word/envelope)：封筒
+- [container](/word/container)：容器、コンテナ
 
 <!-- cvid: aid15_bid15 -->

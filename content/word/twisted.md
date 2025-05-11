@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、物の形状や状態を説明する際
 ## 🤔  tangled との違いは？
 
 - **twisted**：物がねじれている、または考え方がひねくれている
-- **[tangled](/tangled)**：物が絡まってほどけない状態
+- **[tangled](/word/tangled)**：物が絡まってほどけない状態
 
 twistedは「ねじれ」や「ゆがみ」に焦点があり、tangledは「絡まり」に重点があります。
 
@@ -105,14 +105,14 @@ twistedは「ねじれ」や「ゆがみ」に焦点があり、tangledは「絡
 
 ## 🧩 あわせて覚えたい
 
-- [curved](/curved)：曲がった
-- [bent](/bent)：曲げられた
+- [curved](/word/curved)：曲がった
+- [bent](/word/bent)：曲げられた
 
 ---
 
 ## 📖 できればこれも
 
-- [straight](/straight)：まっすぐな
-- [spiral](/spiral)：らせん状の
+- [straight](/word/straight)：まっすぐな
+- [spiral](/word/spiral)：らせん状の
 
 <!-- cvid: aid16_bid45 -->

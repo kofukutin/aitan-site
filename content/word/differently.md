@@ -96,7 +96,7 @@ TOEICでは副詞の語形選択や、文中での使い方を問う問題で出
 ## 🤔  otherwise との違いは？
 
 - **differently**：何かを「異なる方法で」「違ったやり方で」行うことを表す。
-- **[otherwise](/otherwise)**：もしそうでなければ、または「別の方法で」という意味で、条件や結果を強調する。
+- **[otherwise](/word/otherwise)**：もしそうでなければ、または「別の方法で」という意味で、条件や結果を強調する。
 
 differentlyは単に「違ったやり方」を指し、otherwiseは「もしそうでなければ」や「別の場合には」といった条件や結果の違いを強調します。
 
@@ -104,14 +104,14 @@ differentlyは単に「違ったやり方」を指し、otherwiseは「もしそ
 
 ## 🧩 あわせて覚えたい
 
-- [variously](/variously)：さまざまに、いろいろと
-- [distinctly](/distinctly)：はっきりと、明確に
+- [variously](/word/variously)：さまざまに、いろいろと
+- [distinctly](/word/distinctly)：はっきりと、明確に
 
 ---
 
 ## 📖 できればこれも
 
-- [similarly](/similarly)：同様に
-- [separately](/separately)：別々に
+- [similarly](/word/similarly)：同様に
+- [separately](/word/separately)：別々に
 
 <!-- cvid: aid17_bid06 -->

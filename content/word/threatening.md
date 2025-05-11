@@ -97,7 +97,7 @@ threateningは、TOEICの長文読解（Part 7）で、メールや通知文、�
 ## 🤔  intimidating との違いは？
 
 - **threatening**：直接的に「危害を加えるぞ」と感じさせる、脅しのニュアンスが強い
-- **[intimidating](/intimidating)**：威圧感があり「怖い」と感じさせるが、必ずしも脅しとは限らない
+- **[intimidating](/word/intimidating)**：威圧感があり「怖い」と感じさせるが、必ずしも脅しとは限らない
 
 threateningは「危害を加える意図」を強く感じさせる時に使い、intimidatingは「圧倒されて怖い」と感じる場面で使います。
 
@@ -105,14 +105,14 @@ threateningは「危害を加える意図」を強く感じさせる時に使い
 
 ## 🧩 あわせて覚えたい
 
-- [dangerous](/dangerous)：危険な
-- [warning](/warning)：警告
+- [dangerous](/word/dangerous)：危険な
+- [warning](/word/warning)：警告
 
 ---
 
 ## 📖 できればこれも
 
-- [hostile](/hostile)：敵意のある
-- [aggressive](/aggressive)：攻撃的な
+- [hostile](/word/hostile)：敵意のある
+- [aggressive](/word/aggressive)：攻撃的な
 
 <!-- cvid: aid10_bid02 -->

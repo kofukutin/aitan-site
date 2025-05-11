@@ -97,7 +97,7 @@ TOEICでは、suspensionは「一時停止」「中断」「停職」などの�
 ## 🤔  postponement との違いは？
 
 - **suspension**：一時的な中断や停止、または停職など「活動を止める」ニュアンスが強い
-- **[postponement](/postponement)**：予定やイベントの「延期」、開始時期を後ろにずらす意味
+- **[postponement](/word/postponement)**：予定やイベントの「延期」、開始時期を後ろにずらす意味
 
 suspensionは「今行われているものを一時的に止める」イメージ、postponementは「これから始まる予定を後ろにずらす」イメージです。
 
@@ -105,14 +105,14 @@ suspensionは「今行われているものを一時的に止める」イメー�
 
 ## 🧩 あわせて覚えたい
 
-- [termination](/termination)：終了、打ち切り
-- [interruption](/interruption)：中断、妨害
+- [termination](/word/termination)：終了、打ち切り
+- [interruption](/word/interruption)：中断、妨害
 
 ---
 
 ## 📖 できればこれも
 
-- [resumption](/resumption)：再開
-- [delay](/delay)：遅延、遅れ
+- [resumption](/word/resumption)：再開
+- [delay](/word/delay)：遅延、遅れ
 
 <!-- cvid: aid47_bid20 -->

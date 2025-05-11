@@ -97,7 +97,7 @@ sillyは会話文やカジュアルなやりとりで登場することが多く
 ## 🤔  foolish との違いは？
 
 - **silly**：軽くて子どもっぽい、深刻でない「ばかげた」
-- **[foolish](/foolish)**：判断力がなく、もっと深刻な「愚かな」
+- **[foolish](/word/foolish)**：判断力がなく、もっと深刻な「愚かな」
 
 sillyは冗談や軽い失敗に使われ、foolishは重大なミスや無分別な行動に使われます。
 
@@ -105,14 +105,14 @@ sillyは冗談や軽い失敗に使われ、foolishは重大なミスや無分�
 
 ## 🧩 あわせて覚えたい
 
-- [ridiculous](/ridiculous)：ばかばかしい、滑稽な
-- [serious](/serious)：まじめな、深刻な
+- [ridiculous](/word/ridiculous)：ばかばかしい、滑稽な
+- [serious](/word/serious)：まじめな、深刻な
 
 ---
 
 ## 📖 できればこれも
 
-- [funny](/funny)：おかしい、面白い
-- [strange](/strange)：奇妙な、不思議な
+- [funny](/word/funny)：おかしい、面白い
+- [strange](/word/strange)：奇妙な、不思議な
 
 <!-- cvid: aid14_bid34 -->

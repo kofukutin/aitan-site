@@ -97,7 +97,7 @@ TOEICではPart 1やPart 2など、数や順番を問う場面で頻出します
 ## 🤔  couple との違いは？
 
 - **two**：正確に「2つ」「2人」を表す数字
-- **[couple](/couple)**：おおよそ2つ、2人、または「カップル（恋人同士）」の意味もある
+- **[couple](/word/couple)**：おおよそ2つ、2人、または「カップル（恋人同士）」の意味もある
 
 「two」は数量が正確ですが、「couple」は「2つ」または「2人」を指すこともありますが、時に「2～3」など曖昧な場合や、恋人同士を指す場合もあります。
 
@@ -105,14 +105,14 @@ TOEICではPart 1やPart 2など、数や順番を問う場面で頻出します
 
 ## 🧩 あわせて覚えたい
 
-- [second](/second)：2番目、秒
-- [pair](/pair)：一組、ペア
+- [second](/word/second)：2番目、秒
+- [pair](/word/pair)：一組、ペア
 
 ---
 
 ## 📖 できればこれも
 
-- [three](/three)：3、3つ
-- [first](/first)：1番目、最初
+- [three](/word/three)：3、3つ
+- [first](/word/first)：1番目、最初
 
 <!-- cvid: aid42_bid15 -->

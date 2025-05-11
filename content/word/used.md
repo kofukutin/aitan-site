@@ -98,7 +98,7 @@ TOEICでは「be used to ～」の形や「used car」など、慣れや中古�
 ## 🤔  accustomed との違いは？
 
 - **used**：日常的な「慣れている」や「中古の」という意味で幅広く使う。
-- **[accustomed](/accustomed)**：ややフォーマルで「習慣として身についている」ニュアンスが強い。
+- **[accustomed](/word/accustomed)**：ややフォーマルで「習慣として身についている」ニュアンスが強い。
 
 「used」はカジュアルな場面でも使えますが、「accustomed」はフォーマルな文書や丁寧な会話で使われることが多いです。
 
@@ -106,14 +106,14 @@ TOEICでは「be used to ～」の形や「used car」など、慣れや中古�
 
 ## 🧩 あわせて覚えたい
 
-- [familiar](/familiar)：よく知っている、親しい
-- [unused](/unused)：未使用の、使われていない
+- [familiar](/word/familiar)：よく知っている、親しい
+- [unused](/word/unused)：未使用の、使われていない
 
 ---
 
 ## 📖 できればこれも
 
-- [new](/new)：新しい
-- [secondhand](/secondhand)：中古の
+- [new](/word/new)：新しい
+- [secondhand](/word/secondhand)：中古の
 
 <!-- cvid: aid21_bid05 -->

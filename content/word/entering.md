@@ -97,7 +97,7 @@ TOEICでは、動名詞や現在分詞の形で文法問題によく出題され
 ## 🤔  joining との違いは？
 
 - **entering**：物理的・抽象的に「入る」「参加する」こと全般を表す
-- **[joining](/joining)**：グループや活動に「加わる」「一員になる」ことを強調
+- **[joining](/word/joining)**：グループや活動に「加わる」「一員になる」ことを強調
 
 **entering** は場所や状況に「入る」こと全般に使い、**joining** は「仲間入り」や「参加」を強調します。
 
@@ -105,14 +105,14 @@ TOEICでは、動名詞や現在分詞の形で文法問題によく出題され
 
 ## 🧩 あわせて覚えたい
 
-- [leave](/leave)：去る、離れる
-- [access](/access)：アクセスする、利用する
+- [leave](/word/leave)：去る、離れる
+- [access](/word/access)：アクセスする、利用する
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/submit)：提出する
-- [register](/register)：登録する
+- [submit](/word/submit)：提出する
+- [register](/word/register)：登録する
 
 <!-- cvid: aid22_bid38 -->

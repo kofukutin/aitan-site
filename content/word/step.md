@@ -97,7 +97,7 @@ TOEICでは会議や手順説明の場面で「step」がよく登場します�
 ## 🤔  measure との違いは？
 
 - **step**：物事を進めるための「一段階」や「手順」を表す
-- **[measure](/measure)**：問題解決や目的達成のための「対策」「措置」を表す
+- **[measure](/word/measure)**：問題解決や目的達成のための「対策」「措置」を表す
 
 「step」は順序や進行の一部を指し、「measure」は特定の目的のために取る具体的な行動や対策を指します。
 
@@ -105,14 +105,14 @@ TOEICでは会議や手順説明の場面で「step」がよく登場します�
 
 ## 🧩 あわせて覚えたい
 
-- [stage](/stage)：段階、ステージ
-- [procedure](/procedure)：手順、手続き
+- [stage](/word/stage)：段階、ステージ
+- [procedure](/word/procedure)：手順、手続き
 
 ---
 
 ## 📖 できればこれも
 
-- [move](/move)：動き、行動
-- [plan](/plan)：計画
+- [move](/word/move)：動き、行動
+- [plan](/word/plan)：計画
 
 <!-- cvid: aid30_bid27 -->

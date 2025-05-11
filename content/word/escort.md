@@ -97,7 +97,7 @@ escortは、ビジネスシーンでの案内や付き添いに関する会話�
 ## 🤔  accompany との違いは？
 
 - **escort**：安全や礼儀を意識して案内・付き添うニュアンス
-- **[accompany](/accompany)**：単に一緒に行動する、同行する
+- **[accompany](/word/accompany)**：単に一緒に行動する、同行する
 
 escortは「守る・案内する」意識が強く、accompanyは「一緒にいる」だけでフォーマル度や安全性のニュアンスは薄いです。
 
@@ -105,14 +105,14 @@ escortは「守る・案内する」意識が強く、accompanyは「一緒に�
 
 ## 🧩 あわせて覚えたい
 
-- [guide](/guide)：案内する、導く
-- [lead](/lead)：先導する、導く
+- [guide](/word/guide)：案内する、導く
+- [lead](/word/lead)：先導する、導く
 
 ---
 
 ## 📖 できればこれも
 
-- [assist](/assist)：手伝う、補助する
-- [support](/support)：支える、支援する
+- [assist](/word/assist)：手伝う、補助する
+- [support](/word/support)：支える、支援する
 
 <!-- cvid: aid46_bid45 -->

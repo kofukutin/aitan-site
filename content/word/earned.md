@@ -97,7 +97,7 @@ TOEICでは「earn」の過去形・過去分詞として、収入や評価を�
 ## 🤔  gained との違いは？
 
 - **earned**：努力や働きかけによって得る
-- **[gained](/gained)**：増加や進歩によって得る、幅広い「得る」
+- **[gained](/word/gained)**：増加や進歩によって得る、幅広い「得る」
 
 「earned」は「努力や労働の対価」として得る場合に使い、「gained」は経験や体重、知識など幅広い「増える・得る」に使います。
 
@@ -105,14 +105,14 @@ TOEICでは「earn」の過去形・過去分詞として、収入や評価を�
 
 ## 🧩 あわせて覚えたい
 
-- [receive](/receive)：受け取る
-- [deserve](/deserve)：値する
+- [receive](/word/receive)：受け取る
+- [deserve](/word/deserve)：値する
 
 ---
 
 ## 📖 できればこれも
 
-- [spent](/spent)：使った、費やした
-- [save](/save)：貯める、節約する
+- [spent](/word/spent)：使った、費やした
+- [save](/word/save)：貯める、節約する
 
 <!-- cvid: aid19_bid45 -->

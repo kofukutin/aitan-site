@@ -97,7 +97,7 @@ TOEICでは、IT機器や設備の説明、トラブル対応の会話で登場�
 ## 🤔  detector との違いは？
 
 - **sensor**：物理的な変化を感知し、信号として出力する装置
-- **[detector](/detector)**：特定の物質や現象の有無を検出する装置
+- **[detector](/word/detector)**：特定の物質や現象の有無を検出する装置
 
 sensorは幅広い物理的変化を感知する一般的な装置、detectorは特定のもの（例：金属、煙など）を検出する装置に使われます。
 
@@ -105,14 +105,14 @@ sensorは幅広い物理的変化を感知する一般的な装置、detectorは
 
 ## 🧩 あわせて覚えたい
 
-- [device](/device)：装置、機器
-- [gauge](/gauge)：計器、測定器
+- [device](/word/device)：装置、機器
+- [gauge](/word/gauge)：計器、測定器
 
 ---
 
 ## 📖 できればこれも
 
-- [monitor](/monitor)：監視する、モニター
-- [alarm](/alarm)：警報、アラーム
+- [monitor](/word/monitor)：監視する、モニター
+- [alarm](/word/alarm)：警報、アラーム
 
 <!-- cvid: aid17_bid45 -->

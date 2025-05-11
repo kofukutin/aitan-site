@@ -97,7 +97,7 @@ TOEICではITやビジネス分野の説明文や製品紹介で見かけるこ�
 ## 🤔  flexible との違いは？
 
 - **modular**：部品や要素が独立していて、組み合わせや交換ができる構造を強調
-- **[flexible](/flexible)**：柔軟性があり、状況や用途に応じて変化できることを強調
+- **[flexible](/word/flexible)**：柔軟性があり、状況や用途に応じて変化できることを強調
 
 「modular」は物理的・構造的な分割や組み合わせのしやすさを指し、「flexible」は用途や対応の幅広さ・柔軟さを指します。
 
@@ -105,14 +105,14 @@ TOEICではITやビジネス分野の説明文や製品紹介で見かけるこ�
 
 ## 🧩 あわせて覚えたい
 
-- [component](/component)：構成要素、部品
-- [integrated](/integrated)：統合された、一体化した
+- [component](/word/component)：構成要素、部品
+- [integrated](/word/integrated)：統合された、一体化した
 
 ---
 
 ## 📖 できればこれも
 
-- [customizable](/customizable)：カスタマイズ可能な
-- [adaptable](/adaptable)：適応できる、順応性のある
+- [customizable](/word/customizable)：カスタマイズ可能な
+- [adaptable](/word/adaptable)：適応できる、順応性のある
 
 <!-- cvid: aid03_bid10 -->

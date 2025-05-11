@@ -97,7 +97,7 @@ attendanceはTOEICの会議やイベントに関する文脈でよく出題さ�
 ## 🤔  participation との違いは？
 
 - **attendance**：単に「出席していること」や「出席者数」を指す
-- **[participation](/participation)**：積極的な「参加」や「関与」を指す
+- **[participation](/word/participation)**：積極的な「参加」や「関与」を指す
 
 attendanceはその場にいること自体を表し、participationは積極的に活動に関わることを強調します。
 
@@ -105,14 +105,14 @@ attendanceはその場にいること自体を表し、participationは積極的
 
 ## 🧩 あわせて覚えたい
 
-- [absence](/absence)：欠席
-- [presence](/presence)：出席、存在
+- [absence](/word/absence)：欠席
+- [presence](/word/presence)：出席、存在
 
 ---
 
 ## 📖 できればこれも
 
-- [attendee](/attendee)：出席者
-- [register](/register)：登録する、記録する
+- [attendee](/word/attendee)：出席者
+- [register](/word/register)：登録する、記録する
 
 <!-- cvid: aid08_bid34 -->

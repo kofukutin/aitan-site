@@ -93,7 +93,7 @@ TOEICでは主にPart 7のビジネス文書や案内文で、「～に関して
 ## 🤔  regarding との違いは？
 
 - **concerning**：ややフォーマルで、書き言葉やビジネス文書でよく使われる。「～に関して」
-- **[regarding](/regarding)**：同じく「～に関して」だが、concerningよりもさらにフォーマルな印象を与えることがある。
+- **[regarding](/word/regarding)**：同じく「～に関して」だが、concerningよりもさらにフォーマルな印象を与えることがある。
 
 どちらも「～について」という意味だが、regardingの方がより堅い印象で、concerningはやや柔らかいフォーマルさがあります。
 
@@ -101,14 +101,14 @@ TOEICでは主にPart 7のビジネス文書や案内文で、「～に関して
 
 ## 🧩 あわせて覚えたい
 
-- [about](/about)：～について（よりカジュアルな表現）
-- [with respect to](/with_respect_to)：～に関して（非常にフォーマルな表現）
+- [about](/word/about)：～について（よりカジュアルな表現）
+- [with respect to](/word/with_respect_to)：～に関して（非常にフォーマルな表現）
 
 ---
 
 ## 📖 できればこれも
 
-- [according to](/according_to)：～によれば
-- [despite](/despite)：～にもかかわらず
+- [according to](/word/according_to)：～によれば
+- [despite](/word/despite)：～にもかかわらず
 
 <!-- cvid: aid41_bid19 -->

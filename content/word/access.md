@@ -97,7 +97,7 @@ TOEICではITやビジネス文書、施設利用案内などで「access」が�
 ## 🤔  approach との違いは？
 
 - **access**：場所や情報などに「接近・利用」できることやその権利を表す。
-- **[approach](/approach)**：物理的・抽象的に「近づく方法」や「取り組み方」を指す。
+- **[approach](/word/approach)**：物理的・抽象的に「近づく方法」や「取り組み方」を指す。
 
 「access」は利用や接続の可否・権利に焦点があり、「approach」は方法や手段に重点があります。
 
@@ -105,14 +105,14 @@ TOEICではITやビジネス文書、施設利用案内などで「access」が�
 
 ## 🧩 あわせて覚えたい
 
-- [entry](/entry)：入場、参加
-- [permission](/permission)：許可
+- [entry](/word/entry)：入場、参加
+- [permission](/word/permission)：許可
 
 ---
 
 ## 📖 できればこれも
 
-- [account](/account)：アカウント、口座
-- [network](/network)：ネットワーク、通信網
+- [account](/word/account)：アカウント、口座
+- [network](/word/network)：ネットワーク、通信網
 
 <!-- cvid: aid07_bid13 -->

@@ -96,7 +96,7 @@ TOEICでは、法務や社会問題を扱う長文で「prisoner」が登場す�
 ## 🤔  inmate との違いは？
 
 - **prisoner**：犯罪や戦争などで拘束されている人全般を指す。
-- **[inmate](/inmate)**：刑務所や施設の「入所者」「同居人」を指し、特に刑務所の収容者を意味する。
+- **[inmate](/word/inmate)**：刑務所や施設の「入所者」「同居人」を指し、特に刑務所の収容者を意味する。
 
 prisonerは「囚人」「捕虜」など広く使われ、inmateは「刑務所の入所者」としてやや限定的・中立的な響きがあります。
 
@@ -104,14 +104,14 @@ prisonerは「囚人」「捕虜」など広く使われ、inmateは「刑務所
 
 ## 🧩 あわせて覚えたい
 
-- [criminal](/criminal)：犯罪者
-- [guard](/guard)：看守
+- [criminal](/word/criminal)：犯罪者
+- [guard](/word/guard)：看守
 
 ---
 
 ## 📖 できればこれも
 
-- [sentence](/sentence)：判決、刑
-- [arrest](/arrest)：逮捕
+- [sentence](/word/sentence)：判決、刑
+- [arrest](/word/arrest)：逮捕
 
 <!-- cvid: aid49_bid26 -->

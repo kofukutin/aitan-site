@@ -97,7 +97,7 @@ appealはTOEICの長文読解（Part 7）で、広告や案内文、ビジネス
 ## 🤔  request との違いは？
 
 - **appeal**：感情や理性に「訴えかける」、魅力を感じさせる
-- **[request](/request)**：具体的に「依頼する」「頼む」
+- **[request](/word/request)**：具体的に「依頼する」「頼む」
 
 appealは「心に響くように働きかける」ニュアンス、requestは「何かをしてほしいと直接頼む」ニュアンスです。
 
@@ -105,14 +105,14 @@ appealは「心に響くように働きかける」ニュアンス、requestは�
 
 ## 🧩 あわせて覚えたい
 
-- [attract](/attract)：引きつける、魅了する
-- [petition](/petition)：嘆願する、請願する
+- [attract](/word/attract)：引きつける、魅了する
+- [petition](/word/petition)：嘆願する、請願する
 
 ---
 
 ## 📖 できればこれも
 
-- [apply](/apply)：申し込む、適用する
-- [suggest](/suggest)：提案する
+- [apply](/word/apply)：申し込む、適用する
+- [suggest](/word/suggest)：提案する
 
 <!-- cvid: aid36_bid38 -->

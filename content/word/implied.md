@@ -97,7 +97,7 @@ TOEICの長文読解や契約書、ビジネス文書で「implied contract（�
 ## 🤔  inferred との違いは？
 
 - **implied**：はっきり言わずに「含ませる」「暗示する」ニュアンス
-- **[inferred](/inferred)**：証拠や情報から「推論する」「導き出す」ニュアンス
+- **[inferred](/word/inferred)**：証拠や情報から「推論する」「導き出す」ニュアンス
 
 impliedは「言外に含まれている」こと、inferredは「情報から自分で推測する」ことに重点があります。
 
@@ -105,14 +105,14 @@ impliedは「言外に含まれている」こと、inferredは「情報から�
 
 ## 🧩 あわせて覚えたい
 
-- [explicit](/explicit)：明示された、はっきりした
-- [suggest](/suggest)：提案する、示唆する
+- [explicit](/word/explicit)：明示された、はっきりした
+- [suggest](/word/suggest)：提案する、示唆する
 
 ---
 
 ## 📖 できればこれも
 
-- [assumed](/assumed)：仮定された、当然と考えられた
-- [indicate](/indicate)：示す、指し示す
+- [assumed](/word/assumed)：仮定された、当然と考えられた
+- [indicate](/word/indicate)：示す、指し示す
 
 <!-- cvid: aid02_bid05 -->

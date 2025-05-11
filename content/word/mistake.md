@@ -97,7 +97,7 @@ TOEICではPart 5を中心に、文法や語彙の選択肢として頻出しま
 ## 🤔  error との違いは？
 
 - **mistake**：うっかりや誤解など、日常的な「間違い」を幅広く指す
-- **[error](/error)**：よりフォーマルで、特に技術的・専門的な「誤り」を指す
+- **[error](/word/error)**：よりフォーマルで、特に技術的・専門的な「誤り」を指す
 
 mistakeは日常会話やカジュアルな場面で使われ、errorはビジネスやIT、学術分野などで使われることが多いです。
 
@@ -105,14 +105,14 @@ mistakeは日常会話やカジュアルな場面で使われ、errorはビジ�
 
 ## 🧩 あわせて覚えたい
 
-- [fault](/fault)：責任・過失
-- [blunder](/blunder)：重大なミス、大失敗
+- [fault](/word/fault)：責任・過失
+- [blunder](/word/blunder)：重大なミス、大失敗
 
 ---
 
 ## 📖 できればこれも
 
-- [problem](/problem)：問題、課題
-- [issue](/issue)：（議論すべき）問題、争点
+- [problem](/word/problem)：問題、課題
+- [issue](/word/issue)：（議論すべき）問題、争点
 
 <!-- cvid: aid25_bid48 -->

@@ -97,7 +97,7 @@ TOEICでは、組織や社会の変化、対立を扱う長文で「rebel」が�
 ## 🤔  protest との違いは？
 
 - **rebel**：体制や権威に反抗する人、または反抗者
-- **[protest](/protest)**：抗議する行為やその表明
+- **[protest](/word/protest)**：抗議する行為やその表明
 
 rebelは「反抗する人」自体を指し、protestは「抗議する行為」や「抗議活動」を指します。rebelは個人や集団の立場、protestは行動やイベントに焦点があります。
 
@@ -105,14 +105,14 @@ rebelは「反抗する人」自体を指し、protestは「抗議する行為�
 
 ## 🧩 あわせて覚えたい
 
-- [revolt](/revolt)：反乱、暴動
-- [conformist](/conformist)：体制順応者
+- [revolt](/word/revolt)：反乱、暴動
+- [conformist](/word/conformist)：体制順応者
 
 ---
 
 ## 📖 できればこれも
 
-- [revolt](/revolt)：反乱を起こす
-- [oppose](/oppose)：反対する
+- [revolt](/word/revolt)：反乱を起こす
+- [oppose](/word/oppose)：反対する
 
 <!-- cvid: aid44_bid04 -->

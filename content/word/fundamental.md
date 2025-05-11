@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や説明文で「基本的な」「根本的な
 ## 🤔  essential との違いは？
 
 - **fundamental**：物事の基礎や根本に関わる、土台となる重要性を強調
-- **[essential](/essential)**：絶対に必要な、欠かせないという意味での重要性
+- **[essential](/word/essential)**：絶対に必要な、欠かせないという意味での重要性
 
 「fundamental」は「土台・基礎」としての重要性、「essential」は「不可欠・必須」というニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネス文書や説明文で「基本的な」「根本的な
 
 ## 🧩 あわせて覚えたい
 
-- [basic](/basic)：基礎的な、初歩的な
-- [primary](/primary)：第一の、主要な
+- [basic](/word/basic)：基礎的な、初歩的な
+- [primary](/word/primary)：第一の、主要な
 
 ---
 
 ## 📖 できればこれも
 
-- [crucial](/crucial)：極めて重要な
-- [significant](/significant)：重要な、意味のある
+- [crucial](/word/crucial)：極めて重要な
+- [significant](/word/significant)：重要な、意味のある
 
 <!-- cvid: aid18_bid10 -->

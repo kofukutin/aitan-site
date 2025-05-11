@@ -97,7 +97,7 @@ TOEICでは記事やレポート、説明文の中で「解説」や「論評」
 ## 🤔  explanation との違いは？
 
 - **commentary**：出来事や文章などに対する解説や論評、意見を含む説明。
-- **[explanation](/explanation)**：物事の理由や仕組みを明確に説明すること。
+- **[explanation](/word/explanation)**：物事の理由や仕組みを明確に説明すること。
 
 commentaryは「意見や評価を交えた解説」、explanationは「事実や理由を明確に説明」する際に使い分けます。
 
@@ -105,14 +105,14 @@ commentaryは「意見や評価を交えた解説」、explanationは「事実�
 
 ## 🧩 あわせて覚えたい
 
-- [analysis](/analysis)：分析、詳細な検討
-- [review](/review)：批評、論評
+- [analysis](/word/analysis)：分析、詳細な検討
+- [review](/word/review)：批評、論評
 
 ---
 
 ## 📖 できればこれも
 
-- [summary](/summary)：要約
-- [description](/description)：説明、描写
+- [summary](/word/summary)：要約
+- [description](/word/description)：説明、描写
 
 <!-- cvid: aid03_bid31 -->

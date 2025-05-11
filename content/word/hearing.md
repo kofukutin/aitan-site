@@ -97,7 +97,7 @@ hearingはTOEICの長文読解パートで、法務やビジネス関連の記�
 ## 🤔  trial との違いは？
 
 - **hearing**：意見や証拠を聞くための比較的短い会合や公聴会
-- **[trial](/trial)**：裁判や審理など、判決を下すための正式な法的手続き
+- **[trial](/word/trial)**：裁判や審理など、判決を下すための正式な法的手続き
 
 hearingは「話を聞く場」に重点があり、trialは「判決を出すための正式な裁判」を指します。
 
@@ -105,14 +105,14 @@ hearingは「話を聞く場」に重点があり、trialは「判決を出す�
 
 ## 🧩 あわせて覚えたい
 
-- [testimony](/testimony)：証言
-- [session](/session)：会議、集会
+- [testimony](/word/testimony)：証言
+- [session](/word/session)：会議、集会
 
 ---
 
 ## 📖 できればこれも
 
-- [evidence](/evidence)：証拠
-- [decision](/decision)：決定
+- [evidence](/word/evidence)：証拠
+- [decision](/word/decision)：決定
 
 <!-- cvid: aid12_bid24 -->

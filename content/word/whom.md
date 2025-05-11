@@ -93,7 +93,7 @@ TOEICでは文法問題でwhoとwhomの使い分けを問う形で出題され�
 ## 🤔  who との違いは？
 
 - **whom**：目的格（「誰を」「誰に」）として使う。フォーマルな場面で多い。
-- **[who](/who)**：主格（「誰が」）として使う。日常会話でよく使われる。
+- **[who](/word/who)**：主格（「誰が」）として使う。日常会話でよく使われる。
 
 whomは文中で動作の「受け手」になる場合に使い、whoは「動作主」として使います。口語ではwhoで代用されることも多いですが、フォーマルな文や試験では区別が重要です。
 
@@ -101,14 +101,14 @@ whomは文中で動作の「受け手」になる場合に使い、whoは「動�
 
 ## 🧩 あわせて覚えたい
 
-- [whose](/whose)：誰の
-- [which](/which)：どちら、どの
+- [whose](/word/whose)：誰の
+- [which](/word/which)：どちら、どの
 
 ---
 
 ## 📖 できればこれも
 
-- [whoever](/whoever)：誰でも
-- [whomever](/whomever)：誰をでも
+- [whoever](/word/whoever)：誰でも
+- [whomever](/word/whomever)：誰をでも
 
 <!-- cvid: aid45_bid03 -->

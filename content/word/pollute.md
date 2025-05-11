@@ -97,7 +97,7 @@ TOEICでは環境問題や社会的責任に関する文脈で出題されるこ
 ## 🤔  contaminate との違いは？
 
 - **pollute**：主に環境全体を有害物質で汚染することを指す
-- **[contaminate](/contaminate)**：食品や水など特定のものに有害物質が混入することを指す
+- **[contaminate](/word/contaminate)**：食品や水など特定のものに有害物質が混入することを指す
 
 polluteは広い範囲や自然環境に使い、contaminateは食品や薬品など限定的な対象に使われることが多いです。
 
@@ -105,14 +105,14 @@ polluteは広い範囲や自然環境に使い、contaminateは食品や薬品�
 
 ## 🧩 あわせて覚えたい
 
-- [purify](/purify)：浄化する
-- [degrade](/degrade)：質を下げる、悪化させる
+- [purify](/word/purify)：浄化する
+- [degrade](/word/degrade)：質を下げる、悪化させる
 
 ---
 
 ## 📖 できればこれも
 
-- [protect](/protect)：守る、保護する
-- [damage](/damage)：損なう、傷つける
+- [protect](/word/protect)：守る、保護する
+- [damage](/word/damage)：損なう、傷つける
 
 <!-- cvid: aid24_bid30 -->

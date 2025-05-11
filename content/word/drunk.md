@@ -97,7 +97,7 @@ TOEICでは会話パートで「酔っている」状態を表す際に登場す
 ## 🤔  intoxicated との違いは？
 
 - **drunk**：カジュアルで日常的に使われる「酔っている」
-- **[intoxicated](/intoxicated)**：フォーマルで法律や医療の場面でも使われる「酔っている」
+- **[intoxicated](/word/intoxicated)**：フォーマルで法律や医療の場面でも使われる「酔っている」
 
 drunkは友人同士や日常会話でよく使われ、intoxicatedは公式な文書やフォーマルな場面で使われます。
 
@@ -105,14 +105,14 @@ drunkは友人同士や日常会話でよく使われ、intoxicatedは公式な�
 
 ## 🧩 あわせて覚えたい
 
-- [sober](/sober)：しらふの、酔っていない
-- [tipsy](/tipsy)：ほろ酔いの、少し酔った
+- [sober](/word/sober)：しらふの、酔っていない
+- [tipsy](/word/tipsy)：ほろ酔いの、少し酔った
 
 ---
 
 ## 📖 できればこれも
 
-- [sleepy](/sleepy)：眠い
-- [hungry](/hungry)：お腹がすいた
+- [sleepy](/word/sleepy)：眠い
+- [hungry](/word/hungry)：お腹がすいた
 
 <!-- cvid: aid11_bid12 -->

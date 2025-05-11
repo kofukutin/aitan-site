@@ -97,7 +97,7 @@ towerはTOEICの写真描写問題で、建物や風景を説明する際によ�
 ## 🤔  building との違いは？
 
 - **tower**：細長く高い建物や塔を指す
-- **[building](/building)**：一般的な建物全般を指す
+- **[building](/word/building)**：一般的な建物全般を指す
 
 towerは特に高さや細長さが強調される構造物に使われ、buildingはオフィスや住宅など広く一般的な建物に使われます。
 
@@ -105,14 +105,14 @@ towerは特に高さや細長さが強調される構造物に使われ、buildi
 
 ## 🧩 あわせて覚えたい
 
-- [skyscraper](/skyscraper)：超高層ビル
-- [monument](/monument)：記念碑、記念建造物
+- [skyscraper](/word/skyscraper)：超高層ビル
+- [monument](/word/monument)：記念碑、記念建造物
 
 ---
 
 ## 📖 できればこれも
 
-- [bridge](/bridge)：橋
-- [statue](/statue)：像
+- [bridge](/word/bridge)：橋
+- [statue](/word/statue)：像
 
 <!-- cvid: aid44_bid25 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、農作業や農場の場面でよく
 ## 🤔  rancher との違いは？
 
 - **farmer**：作物を育てたり家畜を飼う農業従事者全般
-- **[rancher](/rancher)**：主に広い土地で牛や馬など家畜を飼育する人
+- **[rancher](/word/rancher)**：主に広い土地で牛や馬など家畜を飼育する人
 
 farmerは作物・家畜どちらにも使えますが、rancherは特に家畜の飼育に特化した職業を指します。
 
@@ -105,14 +105,14 @@ farmerは作物・家畜どちらにも使えますが、rancherは特に家畜�
 
 ## 🧩 あわせて覚えたい
 
-- [agriculture](/agriculture)：農業
-- [gardener](/gardener)：庭師、園芸家
+- [agriculture](/word/agriculture)：農業
+- [gardener](/word/gardener)：庭師、園芸家
 
 ---
 
 ## 📖 できればこれも
 
-- [worker](/worker)：労働者
-- [driver](/driver)：運転手
+- [worker](/word/worker)：労働者
+- [driver](/word/driver)：運転手
 
 <!-- cvid: aid44_bid33 -->

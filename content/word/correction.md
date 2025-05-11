@@ -97,7 +97,7 @@ TOEICでは、書類やメールの訂正、修正依頼などの文脈でよく
 ## 🤔  revision との違いは？
 
 - **correction**：誤りやミスを「正す」ための訂正や修正
-- **[revision](/revision)**：内容全体を見直して「改訂・修正」すること
+- **[revision](/word/revision)**：内容全体を見直して「改訂・修正」すること
 
 correctionは主に間違いを直す場合、revisionは全体を見直して改善・改訂する場合に使います。
 
@@ -105,14 +105,14 @@ correctionは主に間違いを直す場合、revisionは全体を見直して�
 
 ## 🧩 あわせて覚えたい
 
-- [error](/error)：誤り、ミス
-- [adjustment](/adjustment)：調整、微調整
+- [error](/word/error)：誤り、ミス
+- [adjustment](/word/adjustment)：調整、微調整
 
 ---
 
 ## 📖 できればこれも
 
-- [edit](/edit)：編集する、手直しする
-- [improvement](/improvement)：改善、向上
+- [edit](/word/edit)：編集する、手直しする
+- [improvement](/word/improvement)：改善、向上
 
 <!-- cvid: aid41_bid24 -->

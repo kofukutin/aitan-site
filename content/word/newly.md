@@ -97,7 +97,7 @@ TOEICでは「newly hired（新しく雇われた）」や「newly opened（新�
 ## 🤔  recently との違いは？
 
 - **newly**：新しく何かが始まった・作られたことを強調
-- **[recently](/recently)**：最近（過去のある時点から現在まで）の出来事全般
+- **[recently](/word/recently)**：最近（過去のある時点から現在まで）の出来事全般
 
 newlyは「新たに～した」という変化や状態を強調し、recentlyは「最近」という時期を幅広く指します。
 
@@ -105,14 +105,14 @@ newlyは「新たに～した」という変化や状態を強調し、recently�
 
 ## 🧩 あわせて覚えたい
 
-- [fresh](/fresh)：新鮮な、新しい
-- [modern](/modern)：現代的な、最新の
+- [fresh](/word/fresh)：新鮮な、新しい
+- [modern](/word/modern)：現代的な、最新の
 
 ---
 
 ## 📖 できればこれも
 
-- [currently](/currently)：現在、今
-- [finally](/finally)：ついに、やっと
+- [currently](/word/currently)：現在、今
+- [finally](/word/finally)：ついに、やっと
 
 <!-- cvid: aid17_bid38 -->

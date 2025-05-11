@@ -97,7 +97,7 @@ TOEICでは教育やしつけに関する会話や説明文でまれに登場し
 ## 🤔  slap との違いは？
 
 - **spank**：しつけ目的でおしりをたたく
-- **[slap](/slap)**：顔や手などを平手でたたく
+- **[slap](/word/slap)**：顔や手などを平手でたたく
 
 spankは主に子どものおしりをしつけのためにたたく場合に使い、slapは顔や手など体の他の部分をたたくときに使います。
 
@@ -105,14 +105,14 @@ spankは主に子どものおしりをしつけのためにたたく場合に使
 
 ## 🧩 あわせて覚えたい
 
-- [punish](/punish)：罰する
-- [scold](/scold)：叱る
+- [punish](/word/punish)：罰する
+- [scold](/word/scold)：叱る
 
 ---
 
 ## 📖 できればこれも
 
-- [yell](/yell)：大声で叱る
-- [warn](/warn)：警告する
+- [yell](/word/yell)：大声で叱る
+- [warn](/word/warn)：警告する
 
 <!-- cvid: aid12_bid19 -->

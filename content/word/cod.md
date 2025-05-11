@@ -97,7 +97,7 @@ TOEICではレストランのメニューや観光案内、食品に関する長
 ## 🤔  haddock との違いは？
 
 - **cod**：タラ。白身で淡白な味わいの魚。フィッシュ＆チップスなどで有名。
-- **[haddock](/haddock)**：ハドック。タラに似ているが、やや小ぶりで燻製などにも使われる。
+- **[haddock](/word/haddock)**：ハドック。タラに似ているが、やや小ぶりで燻製などにも使われる。
 
 codは一般的なタラ全般を指し、haddockは特定の種類のタラで、料理や用途に違いがあります。
 
@@ -105,14 +105,14 @@ codは一般的なタラ全般を指し、haddockは特定の種類のタラで�
 
 ## 🧩 あわせて覚えたい
 
-- [salmon](/salmon)：サケ
-- [trout](/trout)：マス
+- [salmon](/word/salmon)：サケ
+- [trout](/word/trout)：マス
 
 ---
 
 ## 📖 できればこれも
 
-- [shrimp](/shrimp)：エビ
-- [crab](/crab)：カニ
+- [shrimp](/word/shrimp)：エビ
+- [crab](/word/crab)：カニ
 
 <!-- cvid: aid27_bid11 -->

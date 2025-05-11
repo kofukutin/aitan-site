@@ -97,7 +97,7 @@ TOEICでは会議や業務の話題で「focusing on ～」の形で頻出しま
 ## 🤔  concentrating との違いは？
 
 - **focusing**：特定の対象や目的に意識や注意を向けること。
-- **[concentrating](/concentrating)**：より強く意識を集めて他を排除するニュアンス。
+- **[concentrating](/word/concentrating)**：より強く意識を集めて他を排除するニュアンス。
 
 focusingは「焦点を合わせる」イメージで、concentratingは「他を遮断して一心に取り組む」印象です。
 
@@ -105,14 +105,14 @@ focusingは「焦点を合わせる」イメージで、concentratingは「他�
 
 ## 🧩 あわせて覚えたい
 
-- [ignore](/ignore)：無視する
-- [highlight](/highlight)：強調する
+- [ignore](/word/ignore)：無視する
+- [highlight](/word/highlight)：強調する
 
 ---
 
 ## 📖 できればこれも
 
-- [organizing](/organizing)：整理する
-- [discussing](/discussing)：議論する
+- [organizing](/word/organizing)：整理する
+- [discussing](/word/discussing)：議論する
 
 <!-- cvid: aid00_bid06 -->

@@ -97,7 +97,7 @@ TOEICでは会議や電話などで「注意がそれる」「集中できない
 ## 🤔  disturb との違いは？
 
 - **distract**：注意や集中を別の方向にそらすこと
-- **[disturb](/disturb)**：邪魔をして不快にさせたり、中断させたりすること
+- **[disturb](/word/disturb)**：邪魔をして不快にさせたり、中断させたりすること
 
 distractは「集中力を奪う」ニュアンス、disturbは「物理的・心理的に妨害する」ニュアンスがあります。
 
@@ -105,14 +105,14 @@ distractは「集中力を奪う」ニュアンス、disturbは「物理的・�
 
 ## 🧩 あわせて覚えたい
 
-- [interrupt](/interrupt)：話や作業を中断させる
-- [focus](/focus)：集中する、焦点を合わせる
+- [interrupt](/word/interrupt)：話や作業を中断させる
+- [focus](/word/focus)：集中する、焦点を合わせる
 
 ---
 
 ## 📖 できればこれも
 
-- [concentrate](/concentrate)：集中する
-- [divert](/divert)：（進路や注意を）そらす
+- [concentrate](/word/concentrate)：集中する
+- [divert](/word/divert)：（進路や注意を）そらす
 
 <!-- cvid: aid18_bid17 -->

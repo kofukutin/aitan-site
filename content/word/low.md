@@ -97,7 +97,7 @@ TOEICでは、価格や数値、レベルの高さ・低さを表す文脈で頻
 ## 🤔  short との違いは？
 
 - **low**：高さ・量・レベルなどが「低い」
-- **[short](/short)**：長さや時間が「短い」
+- **[short](/word/short)**：長さや時間が「短い」
 
 lowは「高さ・量・レベル」などの"程度"に使い、shortは「長さ・時間」など"距離や期間"に使います。
 
@@ -105,14 +105,14 @@ lowは「高さ・量・レベル」などの"程度"に使い、shortは「長�
 
 ## 🧩 あわせて覚えたい
 
-- [high](/high)：高い
-- [minimum](/minimum)：最小限、最低
+- [high](/word/high)：高い
+- [minimum](/word/minimum)：最小限、最低
 
 ---
 
 ## 📖 できればこれも
 
-- [cheap](/cheap)：安い
-- [slow](/slow)：遅い
+- [cheap](/word/cheap)：安い
+- [slow](/word/slow)：遅い
 
 <!-- cvid: aid42_bid08 -->

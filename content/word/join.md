@@ -99,7 +99,7 @@ joinはTOEICの会話パートで「会議に参加する」「一緒に行動�
 ## 🤔  participate との違いは？
 
 - **join**：グループや活動に「加わる」「参加する」こと全般を指す。  
-- **[participate](/participate)**：積極的に「参加する」「関与する」ことを強調。
+- **[participate](/word/participate)**：積極的に「参加する」「関与する」ことを強調。
 
 joinは「加わる」こと自体に重点があり、participateは「積極的に関わる」ニュアンスが強いです。
 
@@ -107,14 +107,14 @@ joinは「加わる」こと自体に重点があり、participateは「積極�
 
 ## 🧩 あわせて覚えたい
 
-- [attend](/attend)：出席する
-- [connect](/connect)：つなぐ、接続する
+- [attend](/word/attend)：出席する
+- [connect](/word/connect)：つなぐ、接続する
 
 ---
 
 ## 📖 できればこれも
 
-- [invite](/invite)：招待する
-- [register](/register)：登録する
+- [invite](/word/invite)：招待する
+- [register](/word/register)：登録する
 
 <!-- cvid: aid12_bid40 -->

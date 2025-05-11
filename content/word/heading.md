@@ -97,7 +97,7 @@ TOEICでは、メールやレポート、ウェブページの説明文などで
 ## 🤔  title との違いは？
 
 - **heading**：文章やセクションごとの「見出し」や「小見出し」
-- **[title](/title)**：本や記事全体の「タイトル」や「題名」
+- **[title](/word/title)**：本や記事全体の「タイトル」や「題名」
 
 headingは文書内の区切りや小さなまとまりの表題、titleは全体の名前や作品名に使います。
 
@@ -105,14 +105,14 @@ headingは文書内の区切りや小さなまとまりの表題、titleは全�
 
 ## 🧩 あわせて覚えたい
 
-- [caption](/caption)：写真や図の説明文
-- [subtitle](/subtitle)：副題、サブタイトル
+- [caption](/word/caption)：写真や図の説明文
+- [subtitle](/word/subtitle)：副題、サブタイトル
 
 ---
 
 ## 📖 できればこれも
 
-- [section](/section)：セクション、区分
-- [paragraph](/paragraph)：段落
+- [section](/word/section)：セクション、区分
+- [paragraph](/word/paragraph)：段落
 
 <!-- cvid: aid21_bid35 -->

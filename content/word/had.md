@@ -93,7 +93,7 @@ TOEICでは時制や完了形の文法問題で頻出です。haveの過去形�
 ## 🤔  have との違いは？
 
 - **had**：haveの過去形・過去分詞。過去の所有や経験、過去完了で使う。
-- **[have](/have)**：現在の所有や経験を表す基本形。
+- **[have](/word/have)**：現在の所有や経験を表す基本形。
 
 「had」は過去や完了の文脈で使い、「have」は現在の状態や習慣を表します。
 
@@ -101,14 +101,14 @@ TOEICでは時制や完了形の文法問題で頻出です。haveの過去形�
 
 ## 🧩 あわせて覚えたい
 
-- [has](/has)：haveの三人称単数現在形
-- [owned](/owned)：所有していた（ownの過去形・過去分詞）
+- [has](/word/has)：haveの三人称単数現在形
+- [owned](/word/owned)：所有していた（ownの過去形・過去分詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [did](/did)：doの過去形
-- [was](/was)：be動詞の過去形（主語がI, he, she, itのとき）
+- [did](/word/did)：doの過去形
+- [was](/word/was)：be動詞の過去形（主語がI, he, she, itのとき）
 
 <!-- cvid: aid43_bid31 -->

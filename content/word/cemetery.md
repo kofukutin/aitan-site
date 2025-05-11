@@ -97,7 +97,7 @@ The new cemetery will be constructed on the outskirts of the city.
 ## 🤔  graveyard との違いは？
 
 - **cemetery**：都市の外れなどにある大きく計画的な墓地
-- **[graveyard](/graveyard)**：教会の敷地内などにある比較的小さな墓地
+- **[graveyard](/word/graveyard)**：教会の敷地内などにある比較的小さな墓地
 
 cemeteryは一般的で広い墓地を指し、graveyardは教会に隣接した伝統的な墓地を指します。
 
@@ -105,14 +105,14 @@ cemeteryは一般的で広い墓地を指し、graveyardは教会に隣接した
 
 ## 🧩 あわせて覚えたい
 
-- [funeral](/funeral)：葬式
-- [memorial](/memorial)：記念碑、追悼
+- [funeral](/word/funeral)：葬式
+- [memorial](/word/memorial)：記念碑、追悼
 
 ---
 
 ## 📖 できればこれも
 
-- [monument](/monument)：記念碑
-- [statue](/statue)：像
+- [monument](/word/monument)：記念碑
+- [statue](/word/statue)：像
 
 <!-- cvid: aid00_bid11 -->

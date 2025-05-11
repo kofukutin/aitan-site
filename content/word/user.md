@@ -97,7 +97,7 @@ TOEICではITやサービス関連の長文、説明文で「user」が頻出し
 ## 🤔  customer との違いは？
 
 - **user**：サービスや製品を実際に使う人
-- **[customer](/customer)**：商品やサービスを購入する人
+- **[customer](/word/customer)**：商品やサービスを購入する人
 
 「user」は使う人、「customer」は買う人を指し、購入者と利用者が異なる場合もあります。
 
@@ -105,14 +105,14 @@ TOEICではITやサービス関連の長文、説明文で「user」が頻出し
 
 ## 🧩 あわせて覚えたい
 
-- [client](/client)：（サービス提供者側から見た）顧客、依頼人
-- [administrator](/administrator)：管理者、運営者
+- [client](/word/client)：（サービス提供者側から見た）顧客、依頼人
+- [administrator](/word/administrator)：管理者、運営者
 
 ---
 
 ## 📖 できればこれも
 
-- [account](/account)：アカウント、口座
-- [system](/system)：システム、仕組み
+- [account](/word/account)：アカウント、口座
+- [system](/word/system)：システム、仕組み
 
 <!-- cvid: aid16_bid13 -->

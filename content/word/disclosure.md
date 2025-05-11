@@ -96,7 +96,7 @@ TOEICでは契約書や会社の報告書、法的文書などで「情報開示
 ## 🤔  revelation との違いは？
 
 - **disclosure**：公式・法的・ビジネス文脈での「開示」「公開」
-- **[revelation](/revelation)**：驚きや意外性を伴う「新発見」「啓示」
+- **[revelation](/word/revelation)**：驚きや意外性を伴う「新発見」「啓示」
 
 disclosureは事務的・公式な場面で使われ、revelationは個人的な驚きや感情的な発見に使われます。
 
@@ -104,14 +104,14 @@ disclosureは事務的・公式な場面で使われ、revelationは個人的な
 
 ## 🧩 あわせて覚えたい
 
-- [confidentiality](/confidentiality)：機密性、秘密保持
-- [announcement](/announcement)：発表、告知
+- [confidentiality](/word/confidentiality)：機密性、秘密保持
+- [announcement](/word/announcement)：発表、告知
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/agreement)：合意、契約
-- [statement](/statement)：声明、明細書
+- [agreement](/word/agreement)：合意、契約
+- [statement](/word/statement)：声明、明細書
 
 <!-- cvid: aid25_bid16 -->

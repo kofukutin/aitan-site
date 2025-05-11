@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、鳥や動物の巣に関する場面
 ## 🤔  hive との違いは？
 
 - **nest**：鳥や昆虫などが作る一般的な「巣」や「住処」
-- **[hive](/hive)**：特にミツバチの「巣箱」や「蜂の巣」
+- **[hive](/word/hive)**：特にミツバチの「巣箱」や「蜂の巣」
 
 nestは幅広い生き物の巣に使えますが、hiveは主に蜂の巣やミツバチの巣箱に限定されます。
 
@@ -105,14 +105,14 @@ nestは幅広い生き物の巣に使えますが、hiveは主に蜂の巣やミ
 
 ## 🧩 あわせて覚えたい
 
-- [burrow](/burrow)：（動物の）穴、巣穴
-- [shelter](/shelter)：避難所、住まい
+- [burrow](/word/burrow)：（動物の）穴、巣穴
+- [shelter](/word/shelter)：避難所、住まい
 
 ---
 
 ## 📖 できればこれも
 
-- [branch](/branch)：枝
-- [leaf](/leaf)：葉
+- [branch](/word/branch)：枝
+- [leaf](/word/leaf)：葉
 
 <!-- cvid: aid26_bid18 -->

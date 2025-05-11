@@ -97,7 +97,7 @@ TOEICでは「extra charge（追加料金）」や「extra time（追加時間�
 ## 🤔  additional との違いは？
 
 - **extra**：必要以上・標準以上の「余分」「追加」のニュアンスが強く、カジュアルな場面でもよく使う。
-- **[additional](/additional)**：正式・フォーマルな「追加の」「付加的な」という意味で、書類やビジネス文書でよく使う。
+- **[additional](/word/additional)**：正式・フォーマルな「追加の」「付加的な」という意味で、書類やビジネス文書でよく使う。
 
 「extra」は日常的で柔らかい響き、「additional」はフォーマルで事務的な印象です。
 
@@ -105,14 +105,14 @@ TOEICでは「extra charge（追加料金）」や「extra time（追加時間�
 
 ## 🧩 あわせて覚えたい
 
-- [optional](/optional)：任意の、選択できる
-- [surplus](/surplus)：余剰、余り
+- [optional](/word/optional)：任意の、選択できる
+- [surplus](/word/surplus)：余剰、余り
 
 ---
 
 ## 📖 できればこれも
 
-- [bonus](/bonus)：ボーナス、特別手当
-- [spare](/spare)：予備の、余分の
+- [bonus](/word/bonus)：ボーナス、特別手当
+- [spare](/word/spare)：予備の、余分の
 
 <!-- cvid: aid45_bid22 -->

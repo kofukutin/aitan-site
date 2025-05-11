@@ -97,7 +97,7 @@ TOEICではPart 7の長文読解で、新聞や雑誌の記事、社内報など
 ## 🤔  essay との違いは？
 
 - **article**：新聞や雑誌などに掲載される客観的な記事や論説
-- **[essay](/essay)**：自分の意見や考えをまとめた比較的短い随筆・小論文
+- **[essay](/word/essay)**：自分の意見や考えをまとめた比較的短い随筆・小論文
 
 articleは事実や情報を伝えるための文章、essayは個人の意見や感想を述べる文章で、目的や文体が異なります。
 
@@ -105,14 +105,14 @@ articleは事実や情報を伝えるための文章、essayは個人の意見�
 
 ## 🧩 あわせて覚えたい
 
-- [report](/report)：報告書、レポート
-- [headline](/headline)：見出し
+- [report](/word/report)：報告書、レポート
+- [headline](/word/headline)：見出し
 
 ---
 
 ## 📖 できればこれも
 
-- [editor](/editor)：編集者
-- [journal](/journal)：雑誌、日誌
+- [editor](/word/editor)：編集者
+- [journal](/word/journal)：雑誌、日誌
 
 <!-- cvid: aid36_bid24 -->

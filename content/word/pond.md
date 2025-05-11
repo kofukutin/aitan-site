@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、池や公園の風景を説明
 ## 🤔  lake との違いは？
 
 - **pond**：小さな池や水たまりを指し、規模が小さい。
-- **[lake](/lake)**：大きな湖を指し、pondよりも広い水域。
+- **[lake](/word/lake)**：大きな湖を指し、pondよりも広い水域。
 
 pondは主に小規模な水域、lakeは大規模な水域を表す点が異なります。
 
@@ -105,14 +105,14 @@ pondは主に小規模な水域、lakeは大規模な水域を表す点が異な
 
 ## 🧩 あわせて覚えたい
 
-- [pool](/pool)：人工的なプールや小さな水たまり
-- [river](/river)：川
+- [pool](/word/pool)：人工的なプールや小さな水たまり
+- [river](/word/river)：川
 
 ---
 
 ## 📖 できればこれも
 
-- [forest](/forest)：森
-- [mountain](/mountain)：山
+- [forest](/word/forest)：森
+- [mountain](/word/mountain)：山
 
 <!-- cvid: aid13_bid13 -->

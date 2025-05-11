@@ -97,7 +97,7 @@ TOEICでは、広告や説明文、ビジネス文書などで「communication m
 ## 🤔  method との違いは？
 
 - **medium**：情報や物事を伝える「媒体」「手段」
-- **[method](/method)**：目的達成のための「方法」「やり方」
+- **[method](/word/method)**：目的達成のための「方法」「やり方」
 
 mediumは「伝達・表現のための媒体」に焦点があり、methodは「手順ややり方」に重点があります。
 
@@ -105,14 +105,14 @@ mediumは「伝達・表現のための媒体」に焦点があり、methodは�
 
 ## 🧩 あわせて覚えたい
 
-- [channel](/channel)：（情報などの）経路、チャンネル
-- [vehicle](/vehicle)：（考えや情報を伝える）手段、媒体
+- [channel](/word/channel)：（情報などの）経路、チャンネル
+- [vehicle](/word/vehicle)：（考えや情報を伝える）手段、媒体
 
 ---
 
 ## 📖 できればこれも
 
-- [material](/material)：材料、素材
-- [device](/device)：装置、機器
+- [material](/word/material)：材料、素材
+- [device](/word/device)：装置、機器
 
 <!-- cvid: aid44_bid01 -->

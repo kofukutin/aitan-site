@@ -97,7 +97,7 @@ TOEICでは、信念や価値観、企業理念などを表す文脈で出題さ
 ## 🤔  faith との違いは？
 
 - **belief**：個人の考えや信念、何かを本当だと信じる気持ち全般
-- **[faith](/faith)**：特に宗教的な「信仰」や、根拠のない強い信頼
+- **[faith](/word/faith)**：特に宗教的な「信仰」や、根拠のない強い信頼
 
 「belief」は広く一般的な信念や考えに使い、「faith」は宗教や根拠のない強い信頼に使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、信念や価値観、企業理念などを表す文脈で出題さ
 
 ## 🧩 あわせて覚えたい
 
-- [doubt](/doubt)：疑い、疑念
-- [opinion](/opinion)：意見、考え
+- [doubt](/word/doubt)：疑い、疑念
+- [opinion](/word/opinion)：意見、考え
 
 ---
 
 ## 📖 できればこれも
 
-- [trust](/trust)：信頼、信用
-- [value](/value)：価値、重要性
+- [trust](/word/trust)：信頼、信用
+- [value](/word/value)：価値、重要性
 
 <!-- cvid: aid13_bid33 -->

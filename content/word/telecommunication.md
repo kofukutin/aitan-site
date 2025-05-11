@@ -97,7 +97,7 @@ telecommunicationはTOEICの長文読解パートで、ITやビジネス関連�
 ## 🤔  communication との違いは？
 
 - **telecommunication**：電話やインターネットなど、技術を使った遠距離の通信
-- **[communication](/communication)**：話す・書くなど、広く「伝達」全般
+- **[communication](/word/communication)**：話す・書くなど、広く「伝達」全般
 
 telecommunicationは「技術を使った遠距離の通信」に限定され、communicationは人と人のやりとり全般を指します。
 
@@ -105,14 +105,14 @@ telecommunicationは「技術を使った遠距離の通信」に限定され、
 
 ## 🧩 あわせて覚えたい
 
-- [transmission](/transmission)：送信、伝達
-- [network](/network)：ネットワーク、通信網
+- [transmission](/word/transmission)：送信、伝達
+- [network](/word/network)：ネットワーク、通信網
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/device)：装置、機器
-- [signal](/signal)：信号、合図
+- [device](/word/device)：装置、機器
+- [signal](/word/signal)：信号、合図
 
 <!-- cvid: aid45_bid08 -->

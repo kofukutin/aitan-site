@@ -97,7 +97,7 @@ TOEICではPart 2の応答問題で「質問する」「依頼する」場面に
 ## 🤔  requested との違いは？
 
 - **asked**：質問したり、頼んだりする一般的な表現
-- **[requested](/requested)**：よりフォーマルに「正式に依頼する」ことを表す
+- **[requested](/word/requested)**：よりフォーマルに「正式に依頼する」ことを表す
 
 「asked」は日常的な頼みごとや質問に幅広く使われ、「requested」はビジネスや公式な場面での依頼に使われます。
 
@@ -105,14 +105,14 @@ TOEICではPart 2の応答問題で「質問する」「依頼する」場面に
 
 ## 🧩 あわせて覚えたい
 
-- [inquire](/inquire)：問い合わせる、尋ねる（より丁寧・フォーマル）
-- [answer](/answer)：答える、返事をする
+- [inquire](/word/inquire)：問い合わせる、尋ねる（より丁寧・フォーマル）
+- [answer](/word/answer)：答える、返事をする
 
 ---
 
 ## 📖 できればこれも
 
-- [tell](/tell)：伝える、話す
-- [say](/say)：言う
+- [tell](/word/tell)：伝える、話す
+- [say](/word/say)：言う
 
 <!-- cvid: aid03_bid15 -->

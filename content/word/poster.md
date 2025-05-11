@@ -97,7 +97,7 @@ TOEICでは広告やイベント案内、掲示物の説明文などでよく登
 ## 🤔  billboard との違いは？
 
 - **poster**：壁や屋内外に貼る比較的小型の印刷物
-- **[billboard](/billboard)**：屋外に設置される大型の広告板
+- **[billboard](/word/billboard)**：屋外に設置される大型の広告板
 
 posterは個人の部屋や店舗、イベント会場などで使われることが多く、billboardは道路沿いなどに設置される大きな広告板を指します。
 
@@ -105,15 +105,15 @@ posterは個人の部屋や店舗、イベント会場などで使われるこ�
 
 ## 🧩 あわせて覚えたい
 
-- [flyer](/flyer)：チラシ、配布用の印刷物
-- [banner](/banner)：横断幕、ウェブサイトのバナー広告
+- [flyer](/word/flyer)：チラシ、配布用の印刷物
+- [banner](/word/banner)：横断幕、ウェブサイトのバナー広告
 
 ---
 
 ## 📖 できればこれも
 
-- [brochure](/brochure)：パンフレット、小冊子
-- [advertisement](/advertisement)：広告、宣伝
+- [brochure](/word/brochure)：パンフレット、小冊子
+- [advertisement](/word/advertisement)：広告、宣伝
 
 
 <!-- cvid: aid11_bid04 -->

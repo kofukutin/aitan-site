@@ -97,7 +97,7 @@ touchedはPart 3の会話やメール文で、感謝や感動を表す表現と�
 ## 🤔  moved との違いは？
 
 - **touched**：やさしさや思いやりなど、心温まる感動を表す
-- **[moved](/moved)**：強い感情や深い感動を表す
+- **[moved](/word/moved)**：強い感情や深い感動を表す
 
 touchedは「ほっこり」や「じんわり」した感動、movedは「心を大きく揺さぶられる」ような強い感動に使われます。
 
@@ -105,14 +105,14 @@ touchedは「ほっこり」や「じんわり」した感動、movedは「心�
 
 ## 🧩 あわせて覚えたい
 
-- [impressed](/impressed)：感銘を受けた
-- [affected](/affected)：影響を受けた、感動した
+- [impressed](/word/impressed)：感銘を受けた
+- [affected](/word/affected)：影響を受けた、感動した
 
 ---
 
 ## 📖 できればこれも
 
-- [grateful](/grateful)：感謝している
-- [pleased](/pleased)：うれしい
+- [grateful](/word/grateful)：感謝している
+- [pleased](/word/pleased)：うれしい
 
 <!-- cvid: aid17_bid28 -->

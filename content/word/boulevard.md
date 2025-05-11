@@ -97,7 +97,7 @@ TOEICでは地名や住所、観光案内などの文脈で登場することが
 ## 🤔  avenue との違いは？
 
 - **boulevard**：広くて木が植えられた大通りや並木道を指す
-- **[avenue](/avenue)**：都市の主要道路や並木道だが、必ずしも広いとは限らない
+- **[avenue](/word/avenue)**：都市の主要道路や並木道だが、必ずしも広いとは限らない
 
 boulevardは特に幅が広く、景観が整えられた道を指すのに対し、avenueは一般的な主要道路や並木道を幅に関係なく指します。
 
@@ -105,14 +105,14 @@ boulevardは特に幅が広く、景観が整えられた道を指すのに対�
 
 ## 🧩 あわせて覚えたい
 
-- [street](/street)：通り、街路
-- [road](/road)：道路、道
+- [street](/word/street)：通り、街路
+- [road](/word/road)：道路、道
 
 ---
 
 ## 📖 できればこれも
 
-- [square](/square)：広場
-- [plaza](/plaza)：広場、プラザ
+- [square](/word/square)：広場
+- [plaza](/word/plaza)：広場、プラザ
 
 <!-- cvid: aid43_bid42 -->

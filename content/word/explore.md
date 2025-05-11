@@ -97,7 +97,7 @@ TOEICでは会議やビジネスの場面で「新しい方法を探る」「可
 ## 🤔  investigate との違いは？
 
 - **explore**：未知のものを積極的に探したり、幅広く調べるニュアンス
-- **[investigate](/investigate)**：原因や事実を詳しく調査・究明するニュアンス
+- **[investigate](/word/investigate)**：原因や事実を詳しく調査・究明するニュアンス
 
 exploreは新しい分野や可能性を「探る」イメージ、investigateは問題や事件などを「徹底的に調査する」イメージです。
 
@@ -105,14 +105,14 @@ exploreは新しい分野や可能性を「探る」イメージ、investigate�
 
 ## 🧩 あわせて覚えたい
 
-- [search](/search)：探す、検索する
-- [discover](/discover)：発見する
+- [search](/word/search)：探す、検索する
+- [discover](/word/discover)：発見する
 
 ---
 
 ## 📖 できればこれも
 
-- [examine](/examine)：詳しく調べる
-- [analyze](/analyze)：分析する
+- [examine](/word/examine)：詳しく調べる
+- [analyze](/word/analyze)：分析する
 
 <!-- cvid: aid10_bid26 -->

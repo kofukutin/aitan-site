@@ -97,7 +97,7 @@ TOEICでは、会話や説明文で「データを記録する」「市場を獲
 ## 🤔  seize との違いは？
 
 - **capture**：物理的・比喩的に「捕らえる」「記録する」など幅広く使う
-- **[seize](/seize)**：力強く急に「つかむ」「押収する」など、より強い行動を表す
+- **[seize](/word/seize)**：力強く急に「つかむ」「押収する」など、より強い行動を表す
 
 「capture」は写真やデータ、感情など形のないものにも使えますが、「seize」は主に物理的なものや機会を素早くつかむ場面で使います。
 
@@ -105,15 +105,15 @@ TOEICでは、会話や説明文で「データを記録する」「市場を獲
 
 ## 🧩 あわせて覚えたい
 
-- [record](/record)：記録する
-- [obtain](/obtain)：手に入れる
+- [record](/word/record)：記録する
+- [obtain](/word/obtain)：手に入れる
 
 ---
 
 ## 📖 できればこれも
 
-- [collect](/collect)：集める
-- [gather](/gather)：集める（人や物をまとめる）
+- [collect](/word/collect)：集める
+- [gather](/word/gather)：集める（人や物をまとめる）
 
 
 <!-- cvid: aid29_bid25 -->

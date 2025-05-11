@@ -104,7 +104,7 @@ TOEICでは、科学やビジネスの文脈で「吸収する」「取り込む
 ## 🤔  soak との違いは？
 
 - **absorb**：液体や情報などを「内部に取り込む・吸収する」イメージ。受動的・科学的な文脈で使われやすい。
-- **[soak](/soak)**：液体に「浸す」「びしょ濡れにする」など、表面からしみ込むニュアンスが強い。
+- **[soak](/word/soak)**：液体に「浸す」「びしょ濡れにする」など、表面からしみ込むニュアンスが強い。
 
 absorbは「中に取り込む」ことに重点があり、soakは「液体に浸してしみ込ませる」動作に重点があります。
 
@@ -112,14 +112,14 @@ absorbは「中に取り込む」ことに重点があり、soakは「液体に�
 
 ## 🧩 あわせて覚えたい
 
-- [digest](/digest)：消化する、理解する
-- [incorporate](/incorporate)：取り入れる、組み込む
+- [digest](/word/digest)：消化する、理解する
+- [incorporate](/word/incorporate)：取り入れる、組み込む
 
 ---
 
 ## 📖 できればこれも
 
-- [consume](/consume)：消費する
-- [retain](/retain)：保持する
+- [consume](/word/consume)：消費する
+- [retain](/word/retain)：保持する
 
 <!-- cvid: aid16_bid22 -->

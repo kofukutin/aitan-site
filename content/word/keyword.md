@@ -97,7 +97,7 @@ TOEICでは、ITやビジネス文書、説明文などで「keyword」が重要
 ## 🤔  clue との違いは？
 
 - **keyword**：文章や検索などで「重要な語句」や「中心となる言葉」を指す
-- **[clue](/clue)**：問題解決や謎解きの「手がかり」「ヒント」を指す
+- **[clue](/word/clue)**：問題解決や謎解きの「手がかり」「ヒント」を指す
 
 keywordは情報の要点や検索の中心となる語句、clueは何かを見つけ出すためのヒントや手がかりという違いがあります。
 
@@ -105,14 +105,14 @@ keywordは情報の要点や検索の中心となる語句、clueは何かを見
 
 ## 🧩 あわせて覚えたい
 
-- [password](/password)：パスワード、合言葉
-- [term](/term)：用語、期間
+- [password](/word/password)：パスワード、合言葉
+- [term](/word/term)：用語、期間
 
 ---
 
 ## 📖 できればこれも
 
-- [topic](/topic)：話題、テーマ
-- [phrase](/phrase)：語句、フレーズ
+- [topic](/word/topic)：話題、テーマ
+- [phrase](/word/phrase)：語句、フレーズ
 
 <!-- cvid: aid22_bid33 -->

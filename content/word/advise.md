@@ -97,7 +97,7 @@ TOEICでは、ビジネスシーンでの助言や指示、推奨事項を伝え
 ## 🤔  suggest との違いは？
 
 - **advise**：専門的・客観的な立場から、やや強めに「助言・忠告」する
-- **[suggest](/suggest)**：アイデアや選択肢を「提案」する、より柔らかい表現
+- **[suggest](/word/suggest)**：アイデアや選択肢を「提案」する、より柔らかい表現
 
 adviseは相手のためを思って積極的に助言するニュアンスがあり、suggestは選択肢の一つとして控えめに提案する時に使います。
 
@@ -105,14 +105,14 @@ adviseは相手のためを思って積極的に助言するニュアンスが�
 
 ## 🧩 あわせて覚えたい
 
-- [recommend](/recommend)：強く勧める、推薦する
-- [consult](/consult)：相談する、意見を求める
+- [recommend](/word/recommend)：強く勧める、推薦する
+- [consult](/word/consult)：相談する、意見を求める
 
 ---
 
 ## 📖 できればこれも
 
-- [notify](/notify)：通知する、知らせる
-- [inform](/inform)：知らせる、情報を伝える
+- [notify](/word/notify)：通知する、知らせる
+- [inform](/word/inform)：知らせる、情報を伝える
 
 <!-- cvid: aid43_bid03 -->

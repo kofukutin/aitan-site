@@ -97,7 +97,7 @@ cookbookはTOEICの長文読解パートで、レストランや観光、趣味�
 ## 🤔  recipe との違いは？
 
 - **cookbook**：複数のレシピがまとめられた「料理本」
-- **[recipe](/recipe)**：個々の「料理の作り方」「レシピ」
+- **[recipe](/word/recipe)**：個々の「料理の作り方」「レシピ」
 
 cookbookは本そのものを指し、recipeは本やネットなどに載っている個々の料理の手順を指します。
 
@@ -105,14 +105,14 @@ cookbookは本そのものを指し、recipeは本やネットなどに載って
 
 ## 🧩 あわせて覚えたい
 
-- [manual](/manual)：手引き書、マニュアル
-- [guide](/guide)：案内書、ガイド
+- [manual](/word/manual)：手引き書、マニュアル
+- [guide](/word/guide)：案内書、ガイド
 
 ---
 
 ## 📖 できればこれも
 
-- [kitchen](/kitchen)：台所、キッチン
-- [ingredient](/ingredient)：材料、成分
+- [kitchen](/word/kitchen)：台所、キッチン
+- [ingredient](/word/ingredient)：材料、成分
 
 <!-- cvid: aid49_bid24 -->

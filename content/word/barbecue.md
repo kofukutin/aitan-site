@@ -97,7 +97,7 @@ TOEICでは、パーティーやイベントの話題でbarbecueが登場する�
 ## 🤔  grill との違いは？
 
 - **barbecue**：屋外でみんなで楽しむバーベキューイベントや料理全体を指す
-- **[grill](/grill)**：焼き網やグリル機器、または焼く調理法自体を指す
+- **[grill](/word/grill)**：焼き網やグリル機器、または焼く調理法自体を指す
 
 barbecueはイベントや料理全体を表し、grillは調理器具や焼く行為そのものを指す点が異なります。
 
@@ -105,14 +105,14 @@ barbecueはイベントや料理全体を表し、grillは調理器具や焼く�
 
 ## 🧩 あわせて覚えたい
 
-- [roast](/roast)：オーブンなどで焼くこと
-- [picnic](/picnic)：屋外で食事を楽しむこと
+- [roast](/word/roast)：オーブンなどで焼くこと
+- [picnic](/word/picnic)：屋外で食事を楽しむこと
 
 ---
 
 ## 📖 できればこれも
 
-- [festival](/festival)：お祭り、フェスティバル
-- [gathering](/gathering)：集まり、会合
+- [festival](/word/festival)：お祭り、フェスティバル
+- [gathering](/word/gathering)：集まり、会合
 
 <!-- cvid: aid45_bid18 -->

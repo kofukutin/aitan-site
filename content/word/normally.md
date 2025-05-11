@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「通常は～だ」と状況を説明する際
 ## 🤔  usually との違いは？
 
 - **normally**：普通の状態や例外がない場合を強調して「通常は」と言うときに使う
-- **[usually](/usually)**：頻度が高いことを表し「たいていは」と言うときに使う
+- **[usually](/word/usually)**：頻度が高いことを表し「たいていは」と言うときに使う
 
 normallyは「本来そうであるべき状態」を意識し、usuallyは「よくあること・頻度」に焦点を当てます。
 
@@ -105,14 +105,14 @@ normallyは「本来そうであるべき状態」を意識し、usuallyは「�
 
 ## 🧩 あわせて覚えたい
 
-- [typically](/typically)：典型的に、たいてい
-- [generally](/generally)：一般的に
+- [typically](/word/typically)：典型的に、たいてい
+- [generally](/word/generally)：一般的に
 
 ---
 
 ## 📖 できればこれも
 
-- [regularly](/regularly)：定期的に
-- [frequently](/frequently)：頻繁に
+- [regularly](/word/regularly)：定期的に
+- [frequently](/word/frequently)：頻繁に
 
 <!-- cvid: aid39_bid06 -->

@@ -97,7 +97,7 @@ TOEICでは「規則違反」「契約違反」などの文脈で出題される
 ## 🤔  infringe との違いは？
 
 - **violate**：法律や規則、権利などを明確に破る・侵害することを幅広く表す
-- **[infringe](/infringe)**：特に権利や特許などの「侵害」に使われ、ややフォーマル
+- **[infringe](/word/infringe)**：特に権利や特許などの「侵害」に使われ、ややフォーマル
 
 **violate**は「ルールや法律を破る」全般に使えますが、**infringe**は「権利・特許の侵害」など限定的・フォーマルな場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは「規則違反」「契約違反」などの文脈で出題される
 
 ## 🧩 あわせて覚えたい
 
-- [comply](/comply)：従う、順守する
-- [breach](/breach)：違反、破ること
+- [comply](/word/comply)：従う、順守する
+- [breach](/word/breach)：違反、破ること
 
 ---
 
 ## 📖 できればこれも
 
-- [enforce](/enforce)：施行する、実施する
-- [prohibit](/prohibit)：禁止する
+- [enforce](/word/enforce)：施行する、実施する
+- [prohibit](/word/prohibit)：禁止する
 
 <!-- cvid: aid10_bid05 -->

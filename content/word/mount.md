@@ -97,7 +97,7 @@ ITや機械の設置に関する文脈で出題されることが多く、名詞
 ## 🤔  install との違いは？
 
 - **mount**：物理的にしっかりと取り付けたり、機器を設置するニュアンスが強い
-- **[install](/install)**：ソフトウェアや機器を「導入・インストール」する意味で、物理的な取り付け以外にも使える
+- **[install](/word/install)**：ソフトウェアや機器を「導入・インストール」する意味で、物理的な取り付け以外にも使える
 
 mountは「固定して設置する」イメージ、installは「使える状態にする」イメージで使い分けます。
 
@@ -105,14 +105,14 @@ mountは「固定して設置する」イメージ、installは「使える状�
 
 ## 🧩 あわせて覚えたい
 
-- [attach](/attach)：取り付ける、添付する
-- [assemble](/assemble)：組み立てる
+- [attach](/word/attach)：取り付ける、添付する
+- [assemble](/word/assemble)：組み立てる
 
 ---
 
 ## 📖 できればこれも
 
-- [operate](/operate)：操作する、動かす
-- [connect](/connect)：接続する
+- [operate](/word/operate)：操作する、動かす
+- [connect](/word/connect)：接続する
 
 <!-- cvid: aid18_bid17 -->

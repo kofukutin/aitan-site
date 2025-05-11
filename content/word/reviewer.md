@@ -97,7 +97,7 @@ TOEICでは、記事やレポート、製品レビューの文脈で「reviewer�
 ## 🤔  evaluator との違いは？
 
 - **reviewer**：主に記事や作品、製品などを評価・批評する人
-- **[evaluator](/evaluator)**：基準に従って客観的に評価・査定する人
+- **[evaluator](/word/evaluator)**：基準に従って客観的に評価・査定する人
 
 「reviewer」は批評や感想を述べるニュアンスが強く、「evaluator」は基準やルールに基づいて点数や価値を判断する場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、記事やレポート、製品レビューの文脈で「reviewer�
 
 ## 🧩 あわせて覚えたい
 
-- [critic](/critic)：批評家、評論家
-- [editor](/editor)：編集者
+- [critic](/word/critic)：批評家、評論家
+- [editor](/word/editor)：編集者
 
 ---
 
 ## 📖 できればこれも
 
-- [feedback](/feedback)：意見、フィードバック
-- [assessment](/assessment)：評価、査定
+- [feedback](/word/feedback)：意見、フィードバック
+- [assessment](/word/assessment)：評価、査定
 
 <!-- cvid: aid00_bid14 -->

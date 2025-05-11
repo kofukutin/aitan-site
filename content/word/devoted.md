@@ -97,7 +97,7 @@ TOEICでは、人物の性格や仕事への姿勢を表す形容詞として頻
 ## 🤔  dedicated との違いは？
 
 - **devoted**：強い愛情や忠誠心を持って、心から尽くすニュアンスが強い
-- **[dedicated](/dedicated)**：目的や仕事に対して熱心・真面目に取り組むニュアンスが強い
+- **[dedicated](/word/dedicated)**：目的や仕事に対して熱心・真面目に取り組むニュアンスが強い
 
 devotedは「人や物への深い愛情・忠誠心」を含み、dedicatedは「目標や仕事への熱心さ・責任感」を強調します。
 
@@ -105,14 +105,14 @@ devotedは「人や物への深い愛情・忠誠心」を含み、dedicatedは�
 
 ## 🧩 あわせて覚えたい
 
-- [loyal](/loyal)：忠実な、誠実な
-- [faithful](/faithful)：忠実な、信頼できる
+- [loyal](/word/loyal)：忠実な、誠実な
+- [faithful](/word/faithful)：忠実な、信頼できる
 
 ---
 
 ## 📖 できればこれも
 
-- [committed](/committed)：献身的な、真剣な
-- [enthusiastic](/enthusiastic)：熱心な、熱意のある
+- [committed](/word/committed)：献身的な、真剣な
+- [enthusiastic](/word/enthusiastic)：熱心な、熱意のある
 
 <!-- cvid: aid20_bid04 -->

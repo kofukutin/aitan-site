@@ -97,7 +97,7 @@ TOEICでは「代表する」「代理を務める」「象徴する」といっ
 ## 🤔  symbolize との違いは？
 
 - **represent**：具体的に「代表する」「代理を務める」「表現する」など幅広く使う
-- **[symbolize](/symbolize)**：抽象的に「象徴する」「シンボルとして表す」
+- **[symbolize](/word/symbolize)**：抽象的に「象徴する」「シンボルとして表す」
 
 「represent」は人や団体の代理や、何かを具体的に表現する場合に使い、「symbolize」は抽象的な意味や象徴的な表現に使います。
 
@@ -105,14 +105,14 @@ TOEICでは「代表する」「代理を務める」「象徴する」といっ
 
 ## 🧩 あわせて覚えたい
 
-- [delegate](/delegate)：代表者、代理人
-- [indicate](/indicate)：示す、指し示す
+- [delegate](/word/delegate)：代表者、代理人
+- [indicate](/word/indicate)：示す、指し示す
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/present)：提示する、発表する
-- [describe](/describe)：説明する、描写する
+- [present](/word/present)：提示する、発表する
+- [describe](/word/describe)：説明する、描写する
 
 <!-- cvid: aid21_bid25 -->

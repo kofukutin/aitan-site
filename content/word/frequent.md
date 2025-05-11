@@ -97,7 +97,7 @@ TOEICでは形容詞として「頻繁な」「よくある」という意味で
 ## 🤔  common との違いは？
 
 - **frequent**：短い間隔で何度も起こる、頻度が高い
-- **[common](/common)**：多くの人や場所で見られる、一般的な
+- **[common](/word/common)**：多くの人や場所で見られる、一般的な
 
 「frequent」は「回数・頻度」に焦点があり、「common」は「広く普及している・一般的」というニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ TOEICでは形容詞として「頻繁な」「よくある」という意味で
 
 ## 🧩 あわせて覚えたい
 
-- [occasional](/occasional)：時々の、たまの
-- [regular](/regular)：規則的な、定期的な
+- [occasional](/word/occasional)：時々の、たまの
+- [regular](/word/regular)：規則的な、定期的な
 
 ---
 
 ## 📖 できればこれも
 
-- [rare](/rare)：まれな、珍しい
-- [usual](/usual)：いつもの、通常の
+- [rare](/word/rare)：まれな、珍しい
+- [usual](/word/usual)：いつもの、通常の
 
 <!-- cvid: aid40_bid17 -->

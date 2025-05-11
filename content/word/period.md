@@ -97,7 +97,7 @@ TOEICでは主に「一定期間」「契約期間」などの意味で、メー
 ## 🤔  term との違いは？
 
 - **period**：特定の「期間」や「時期」を表し、始まりと終わりが明確な区切りを強調します。
-- **[term](/term)**：期間だけでなく「学期」「任期」「専門用語」など幅広い意味で使われます。
+- **[term](/word/term)**：期間だけでなく「学期」「任期」「専門用語」など幅広い意味で使われます。
 
 periodは「時間の長さ」に焦点があり、termは「期間」以外にも抽象的・専門的な意味を持ちます。
 
@@ -105,14 +105,14 @@ periodは「時間の長さ」に焦点があり、termは「期間」以外に�
 
 ## 🧩 あわせて覚えたい
 
-- [duration](/duration)：継続時間、持続期間
-- [interval](/interval)：間隔、休止期間
+- [duration](/word/duration)：継続時間、持続期間
+- [interval](/word/interval)：間隔、休止期間
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/schedule)：予定、スケジュール
-- [deadline](/deadline)：締め切り
+- [schedule](/word/schedule)：予定、スケジュール
+- [deadline](/word/deadline)：締め切り
 
 <!-- cvid: aid45_bid43 -->

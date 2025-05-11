@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、ショッピングカートや
 ## 🤔  trolley との違いは？
 
 - **cart**：主にアメリカ英語で使われる「カート」や「手押し車」全般。
-- **[trolley](/trolley)**：主にイギリス英語で使われる「カート」や「台車」。
+- **[trolley](/word/trolley)**：主にイギリス英語で使われる「カート」や「台車」。
 
 cartはアメリカ英語で、trolleyはイギリス英語で使われることが多く、意味は似ていますが地域によって使い分けられます。
 
@@ -105,14 +105,14 @@ cartはアメリカ英語で、trolleyはイギリス英語で使われること
 
 ## 🧩 あわせて覚えたい
 
-- [basket](/basket)：かご
-- [wagon](/wagon)：（大きな）荷馬車、ワゴン
+- [basket](/word/basket)：かご
+- [wagon](/word/wagon)：（大きな）荷馬車、ワゴン
 
 ---
 
 ## 📖 できればこれも
 
-- [box](/box)：箱
-- [bag](/bag)：袋
+- [box](/word/box)：箱
+- [bag](/word/bag)：袋
 
 <!-- cvid: aid28_bid48 -->

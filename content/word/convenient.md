@@ -97,7 +97,7 @@ TOEICでは、会話や説明文で「便利さ」や「都合の良さ」を尋
 ## 🤔  comfortable との違いは？
 
 - **convenient**：便利な、都合がよい（使いやすさやアクセスのしやすさを表す）
-- **[comfortable](/comfortable)**：快適な（心地よさや居心地の良さを表す）
+- **[comfortable](/word/comfortable)**：快適な（心地よさや居心地の良さを表す）
 
 「convenient」は利便性や都合の良さ、「comfortable」は快適さや心地よさを表し、使う場面や感じ方が異なります。
 
@@ -105,14 +105,14 @@ TOEICでは、会話や説明文で「便利さ」や「都合の良さ」を尋
 
 ## 🧩 あわせて覚えたい
 
-- [available](/available)：利用できる、手に入る
-- [accessible](/accessible)：アクセスしやすい、近づきやすい
+- [available](/word/available)：利用できる、手に入る
+- [accessible](/word/accessible)：アクセスしやすい、近づきやすい
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/efficient)：効率的な
-- [practical](/practical)：実用的な
+- [efficient](/word/efficient)：効率的な
+- [practical](/word/practical)：実用的な
 
 <!-- cvid: aid34_bid01 -->

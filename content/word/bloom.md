@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で、花や植物の説明として出題
 ## 🤔  blossom との違いは？
 
 - **bloom**：花が咲くこと全般や、開花の状態を指す
-- **[blossom](/blossom)**：特に果樹や木の花が咲くこと、または発展・成長のニュアンスが強い
+- **[blossom](/word/blossom)**：特に果樹や木の花が咲くこと、または発展・成長のニュアンスが強い
 
 bloomは一般的な「花が咲く」に使い、blossomは木や果樹の花や、物事が発展する様子に使われます。
 
@@ -106,14 +106,14 @@ bloomは一般的な「花が咲く」に使い、blossomは木や果樹の花�
 
 ## 🧩 あわせて覚えたい
 
-- [wither](/wither)：しおれる、枯れる
-- [flourish](/flourish)：繁栄する、活躍する
+- [wither](/word/wither)：しおれる、枯れる
+- [flourish](/word/flourish)：繁栄する、活躍する
 
 ---
 
 ## 📖 できればこれも
 
-- [grow](/grow)：成長する、育つ
-- [plant](/plant)：植物、植える
+- [grow](/word/grow)：成長する、育つ
+- [plant](/word/plant)：植物、植える
 
 <!-- cvid: aid15_bid47 -->

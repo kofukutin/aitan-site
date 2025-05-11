@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文やEメール、記事文中で「執筆者」�
 ## 🤔  author との違いは？
 
 - **writer**：文章を書く人全般、職業・趣味問わず幅広く使う
-- **[author](/author)**：本や論文などの「著者」、作品の創作者を強調
+- **[author](/word/author)**：本や論文などの「著者」、作品の創作者を強調
 
 writerは「書く人」全般を指し、authorは特に本や記事などの「著者」としての立場を強調します。
 
@@ -105,14 +105,14 @@ writerは「書く人」全般を指し、authorは特に本や記事などの�
 
 ## 🧩 あわせて覚えたい
 
-- [editor](/editor)：編集者
-- [journalist](/journalist)：新聞記者、ジャーナリスト
+- [editor](/word/editor)：編集者
+- [journalist](/word/journalist)：新聞記者、ジャーナリスト
 
 ---
 
 ## 📖 できればこれも
 
-- [editor](/editor)：編集者
-- [reporter](/reporter)：報道記者
+- [editor](/word/editor)：編集者
+- [reporter](/word/reporter)：報道記者
 
 <!-- cvid: aid10_bid40 -->

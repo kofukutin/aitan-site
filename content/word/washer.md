@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「洗濯機」や「ワッシャー（
 ## 🤔  washing machine との違いは？
 
 - **washer**：主にアメリカ英語で「洗濯機」を指し、口語的で短く言うときによく使う。部品の「ワッシャー」も意味する。
-- **[washing machine](/washing_machine)**：より正式で明確に「洗濯機」を指す表現。
+- **[washing machine](/word/washing_machine)**：より正式で明確に「洗濯機」を指す表現。
 
 washerはカジュアルな場面や短縮形として使われ、washing machineはフォーマルや説明的な場面で使われます。
 
@@ -105,14 +105,14 @@ washerはカジュアルな場面や短縮形として使われ、washing machin
 
 ## 🧩 あわせて覚えたい
 
-- [dryer](/dryer)：乾燥機
-- [laundry](/laundry)：洗濯物、洗濯
+- [dryer](/word/dryer)：乾燥機
+- [laundry](/word/laundry)：洗濯物、洗濯
 
 ---
 
 ## 📖 できればこれも
 
-- [sink](/sink)：流し台
-- [appliance](/appliance)：電化製品
+- [sink](/word/sink)：流し台
+- [appliance](/word/appliance)：電化製品
 
 <!-- cvid: aid23_bid28 -->

@@ -97,7 +97,7 @@ TOEICでは会話や説明文で、否定的な感情や状況を表す語とし
 ## 🤔  terrible との違いは？
 
 - **awful**：日常会話で「ひどい」「とても悪い」と感情を強調する時によく使う。
-- **[terrible](/terrible)**：より深刻で客観的な「恐ろしい」「ひどい」を表す。
+- **[terrible](/word/terrible)**：より深刻で客観的な「恐ろしい」「ひどい」を表す。
 
 「awful」は主観的な感情や驚きを込めて使うことが多く、「terrible」はより深刻で客観的な悪さを表現する時に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で、否定的な感情や状況を表す語とし
 
 ## 🧩 あわせて覚えたい
 
-- [horrible](/horrible)：ぞっとするほどひどい
-- [unpleasant](/unpleasant)：不快な
+- [horrible](/word/horrible)：ぞっとするほどひどい
+- [unpleasant](/word/unpleasant)：不快な
 
 ---
 
 ## 📖 できればこれも
 
-- [wonderful](/wonderful)：素晴らしい
-- [bad](/bad)：悪い
+- [wonderful](/word/wonderful)：素晴らしい
+- [bad](/word/bad)：悪い
 
 <!-- cvid: aid11_bid48 -->

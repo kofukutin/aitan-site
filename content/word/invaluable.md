@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やメール、レポートなどで「invaluabl
 ## 🤔  priceless との違いは？
 
 - **invaluable**：計り知れないほど価値がある、特に助けや経験などに使う
-- **[priceless](/priceless)**：値段がつけられないほど貴重、主に物や芸術品に使う
+- **[priceless](/word/priceless)**：値段がつけられないほど貴重、主に物や芸術品に使う
 
 「invaluable」は人の助けや経験など抽象的な価値に、「priceless」は美術品や思い出など具体的な物に使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネス文書やメール、レポートなどで「invaluabl
 
 ## 🧩 あわせて覚えたい
 
-- [valuable](/valuable)：価値のある、有益な
-- [worthless](/worthless)：価値のない
+- [valuable](/word/valuable)：価値のある、有益な
+- [worthless](/word/worthless)：価値のない
 
 ---
 
 ## 📖 できればこれも
 
-- [essential](/essential)：不可欠な、絶対必要な
-- [significant](/significant)：重要な、意味のある
+- [essential](/word/essential)：不可欠な、絶対必要な
+- [significant](/word/significant)：重要な、意味のある
 
 <!-- cvid: aid38_bid14 -->

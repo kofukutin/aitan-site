@@ -97,7 +97,7 @@ TOEICでは主にPart 1やPart 2で、数や時刻を問う問題で登場しま
 ## 🤔  twelve との違いは？
 
 - **eleven**：11、十一。10の次の数。
-- **[twelve](/twelve)**：12、十二。11の次の数。
+- **[twelve](/word/twelve)**：12、十二。11の次の数。
 
 elevenは「11」、twelveは「12」を表し、数字が1つ違います。時刻や数量で間違えやすいので注意しましょう。
 
@@ -105,14 +105,14 @@ elevenは「11」、twelveは「12」を表し、数字が1つ違います。時
 
 ## 🧩 あわせて覚えたい
 
-- [ten](/ten)：10、十
-- [thirteen](/thirteen)：13、十三
+- [ten](/word/ten)：10、十
+- [thirteen](/word/thirteen)：13、十三
 
 ---
 
 ## 📖 できればこれも
 
-- [twelve](/twelve)：12、十二
-- [ten](/ten)：10、十
+- [twelve](/word/twelve)：12、十二
+- [ten](/word/ten)：10、十
 
 <!-- cvid: aid08_bid23 -->

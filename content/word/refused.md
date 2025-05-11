@@ -98,7 +98,7 @@ TOEICでは、依頼や提案を断る場面の会話文でよく登場します
 ## 🤔  rejected との違いは？
 
 - **refused**：依頼や提案などを「断る」「拒否する」こと。主に人の意志で使う。
-- **[rejected](/rejected)**：申し出や申請、アイデアなどを「却下する」「不採用にする」こと。よりフォーマルで、書類や物事にも使う。
+- **[rejected](/word/rejected)**：申し出や申請、アイデアなどを「却下する」「不採用にする」こと。よりフォーマルで、書類や物事にも使う。
 
 refusedは「自分の意志で断る」ニュアンスが強く、rejectedは「審査や評価の結果、受け入れない」場面で使われます。
 
@@ -106,14 +106,14 @@ refusedは「自分の意志で断る」ニュアンスが強く、rejectedは�
 
 ## 🧩 あわせて覚えたい
 
-- [decline](/decline)：（丁寧に）断る
-- [accept](/accept)：受け入れる
+- [decline](/word/decline)：（丁寧に）断る
+- [accept](/word/accept)：受け入れる
 
 ---
 
 ## 📖 できればこれも
 
-- [agree](/agree)：同意する
-- [deny](/deny)：否定する
+- [agree](/word/agree)：同意する
+- [deny](/word/deny)：否定する
 
 <!-- cvid: aid01_bid37 -->

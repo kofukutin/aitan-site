@@ -97,7 +97,7 @@ TOEICでは、交通機関の時刻表やイベントのスケジュール表な
 ## 🤔  schedule との違いは？
 
 - **timetable**：決まった時間を表で示した「時間割」や「時刻表」
-- **[schedule](/schedule)**：予定や計画全般を指し、表形式でなくても使える
+- **[schedule](/word/schedule)**：予定や計画全般を指し、表形式でなくても使える
 
 timetableは学校や交通機関など、決まった時間が一覧になっている場合に使い、scheduleはより広く「予定」や「計画」に使います。
 
@@ -105,14 +105,14 @@ timetableは学校や交通機関など、決まった時間が一覧になっ�
 
 ## 🧩 あわせて覚えたい
 
-- [agenda](/agenda)：議題、会議の進行表
-- [calendar](/calendar)：カレンダー、予定表
+- [agenda](/word/agenda)：議題、会議の進行表
+- [calendar](/word/calendar)：カレンダー、予定表
 
 ---
 
 ## 📖 できればこれも
 
-- [appointment](/appointment)：予約、約束
-- [deadline](/deadline)：締め切り
+- [appointment](/word/appointment)：予約、約束
+- [deadline](/word/deadline)：締め切り
 
 <!-- cvid: aid07_bid38 -->

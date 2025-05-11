@@ -97,7 +97,7 @@ The pope delivered a speech about world peace.
 ## 🤔  bishop との違いは？
 
 - **pope**：カトリック教会の最高指導者
-- **[bishop](/bishop)**：教区を管理する高位聖職者
+- **[bishop](/word/bishop)**：教区を管理する高位聖職者
 
 popeはカトリック全体のトップ、bishopは地域ごとの指導者という違いがあります。
 
@@ -105,14 +105,14 @@ popeはカトリック全体のトップ、bishopは地域ごとの指導者と�
 
 ## 🧩 あわせて覚えたい
 
-- [priest](/priest)：司祭、神父
-- [clergy](/clergy)：聖職者（全体を指す）
+- [priest](/word/priest)：司祭、神父
+- [clergy](/word/clergy)：聖職者（全体を指す）
 
 ---
 
 ## 📖 できればこれも
 
-- [cathedral](/cathedral)：大聖堂
-- [religion](/religion)：宗教
+- [cathedral](/word/cathedral)：大聖堂
+- [religion](/word/religion)：宗教
 
 <!-- cvid: aid07_bid28 -->

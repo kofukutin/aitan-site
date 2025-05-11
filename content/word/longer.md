@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「より長い時間」「より長い距離」
 ## 🤔  further との違いは？
 
 - **longer**：物理的な長さや時間が「より長い」ことを表す
-- **[further](/further)**：距離や程度、進行の「さらに先」「もっと進んで」を表す
+- **[further](/word/further)**：距離や程度、進行の「さらに先」「もっと進んで」を表す
 
 「longer」は主に長さや時間の比較に使い、「further」は抽象的な進展や追加の意味で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「より長い時間」「より長い距離」
 
 ## 🧩 あわせて覚えたい
 
-- [shorter](/shorter)：より短い
-- [length](/length)：長さ
+- [shorter](/word/shorter)：より短い
+- [length](/word/length)：長さ
 
 ---
 
 ## 📖 できればこれも
 
-- [taller](/taller)：より背が高い
-- [deeper](/deeper)：より深い
+- [taller](/word/taller)：より背が高い
+- [deeper](/word/deeper)：より深い
 
 <!-- cvid: aid27_bid49 -->

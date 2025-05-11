@@ -99,7 +99,7 @@ TOEICでは会議やビジネスの会話文で、人物の態度や気持ちを
 ## 🤔  eager との違いは？
 
 - **enthusiastic**：熱意や情熱を持って積極的に行動する様子
-- **[eager](/eager)**：何かを強く望んで待ちきれない気持ち
+- **[eager](/word/eager)**：何かを強く望んで待ちきれない気持ち
 
 enthusiasticは「熱心で積極的な態度」、eagerは「何かをしたくてたまらない気持ち」を表し、enthusiasticの方が行動的なニュアンスが強いです。
 
@@ -107,14 +107,14 @@ enthusiasticは「熱心で積極的な態度」、eagerは「何かをしたく
 
 ## 🧩 あわせて覚えたい
 
-- [reluctant](/reluctant)：気が進まない、しぶしぶの
-- [passionate](/passionate)：情熱的な、熱烈な
+- [reluctant](/word/reluctant)：気が進まない、しぶしぶの
+- [passionate](/word/passionate)：情熱的な、熱烈な
 
 ---
 
 ## 📖 できればこれも
 
-- [motivated](/motivated)：やる気がある、動機づけられた
-- [dedicated](/dedicated)：献身的な、熱心な
+- [motivated](/word/motivated)：やる気がある、動機づけられた
+- [dedicated](/word/dedicated)：献身的な、熱心な
 
 <!-- cvid: aid32_bid41 -->

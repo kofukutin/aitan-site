@@ -97,7 +97,7 @@ TOEICでは主にPart 7のビジネス文書や広告、契約書などで見か
 ## 🤔  real estate との違いは？
 
 - **realty**：法律やビジネス文脈で使われるややフォーマルな「不動産」
-- **[real estate](/real_estate)**：日常会話からビジネスまで幅広く使われる「不動産」
+- **[real estate](/word/real_estate)**：日常会話からビジネスまで幅広く使われる「不動産」
 
 realtyは特に専門的・法的な場面で使われる傾向があり、real estateはより一般的な表現です。
 
@@ -105,14 +105,14 @@ realtyは特に専門的・法的な場面で使われる傾向があり、real 
 
 ## 🧩 あわせて覚えたい
 
-- [property](/property)：財産、所有物
-- [asset](/asset)：資産
+- [property](/word/property)：財産、所有物
+- [asset](/word/asset)：資産
 
 ---
 
 ## 📖 できればこれも
 
-- [mortgage](/mortgage)：住宅ローン
-- [lease](/lease)：賃貸契約
+- [mortgage](/word/mortgage)：住宅ローン
+- [lease](/word/lease)：賃貸契約
 
 <!-- cvid: aid39_bid37 -->

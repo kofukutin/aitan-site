@@ -97,7 +97,7 @@ TOEICでは「判断」「判決」などの意味で、文脈に合う名詞を
 ## 🤔  decision との違いは？
 
 - **judgment**：評価や経験に基づく「判断」や、法的な「判決」を指す
-- **[decision](/decision)**：選択肢から「決定」や「意思決定」をすること
+- **[decision](/word/decision)**：選択肢から「決定」や「意思決定」をすること
 
 judgmentは「評価・見極め」のニュアンスが強く、decisionは「選択・決定」の意味が中心です。
 
@@ -105,14 +105,14 @@ judgmentは「評価・見極め」のニュアンスが強く、decisionは「�
 
 ## 🧩 あわせて覚えたい
 
-- [verdict](/verdict)：（陪審員などの）評決、判決
-- [opinion](/opinion)：意見、見解
+- [verdict](/word/verdict)：（陪審員などの）評決、判決
+- [opinion](/word/opinion)：意見、見解
 
 ---
 
 ## 📖 できればこれも
 
-- [justice](/justice)：正義、公正
-- [assessment](/assessment)：評価、査定
+- [justice](/word/justice)：正義、公正
+- [assessment](/word/assessment)：評価、査定
 
 <!-- cvid: aid17_bid31 -->

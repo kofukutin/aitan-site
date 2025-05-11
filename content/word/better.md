@@ -99,7 +99,7 @@ TOEICでは比較級の文法問題や、より良い選択肢を問う文脈で
 ## 🤔  improve との違いは？
 
 - **better**：比較して「より良い」「もっと良く」という状態や動作を表す
-- **[improve](/improve)**：何かを「改善する」「良くする」という動作そのものを表す
+- **[improve](/word/improve)**：何かを「改善する」「良くする」という動作そのものを表す
 
 betterは状態や比較に使い、improveは変化や向上の行為自体を強調します。
 
@@ -107,14 +107,14 @@ betterは状態や比較に使い、improveは変化や向上の行為自体を�
 
 ## 🧩 あわせて覚えたい
 
-- [worse](/worse)：より悪い
-- [superior](/superior)：優れている
+- [worse](/word/worse)：より悪い
+- [superior](/word/superior)：優れている
 
 ---
 
 ## 📖 できればこれも
 
-- [best](/best)：最も良い
-- [good](/good)：良い
+- [best](/word/best)：最も良い
+- [good](/word/good)：良い
 
 <!-- cvid: aid45_bid17 -->

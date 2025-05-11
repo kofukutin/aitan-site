@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人物の特徴を説明する際に
 ## 🤔  ginger との違いは？
 
 - **redhead**：赤毛の人を指すカジュアルな名詞。やや中立的。
-- **[ginger](/ginger)**：イギリス英語で赤毛の人を指すが、時にからかいや親しみを込めて使われることも。
+- **[ginger](/word/ginger)**：イギリス英語で赤毛の人を指すが、時にからかいや親しみを込めて使われることも。
 
 「redhead」は外見の特徴をそのまま表す言葉ですが、「ginger」はイギリスで使われ、時に親しみや軽いからかいのニュアンスが含まれます。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写で、人物の特徴を説明する際に
 
 ## 🧩 あわせて覚えたい
 
-- [blonde](/blonde)：金髪の人
-- [brunette](/brunette)：茶色や黒髪の女性
+- [blonde](/word/blonde)：金髪の人
+- [brunette](/word/brunette)：茶色や黒髪の女性
 
 ---
 
 ## 📖 できればこれも
 
-- [freckle](/freckle)：そばかす
-- [curly](/curly)：巻き毛の
+- [freckle](/word/freckle)：そばかす
+- [curly](/word/curly)：巻き毛の
 
 <!-- cvid: aid30_bid12 -->

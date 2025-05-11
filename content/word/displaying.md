@@ -97,7 +97,7 @@ TOEICでは、ITやビジネスシーンで「情報を表示する」「資料�
 ## 🤔  showing との違いは？
 
 - **displaying**：情報や物を「見せる」「表示する」ことにフォーカスし、特にフォーマルやIT分野で使われやすい。
-- **[showing](/showing)**：より広く「見せる」「示す」全般に使われ、カジュアルな場面でも使える。
+- **[showing](/word/showing)**：より広く「見せる」「示す」全般に使われ、カジュアルな場面でも使える。
 
 displayingは「画面に表示する」「展示会で展示する」など、公式・技術的な場面で使われることが多く、showingは日常的な「見せる」全般に使われます。
 
@@ -105,14 +105,14 @@ displayingは「画面に表示する」「展示会で展示する」など、�
 
 ## 🧩 あわせて覚えたい
 
-- [presenting](/presenting)：発表する、提示する
-- [exhibiting](/exhibiting)：展示する、公開する
+- [presenting](/word/presenting)：発表する、提示する
+- [exhibiting](/word/exhibiting)：展示する、公開する
 
 ---
 
 ## 📖 できればこれも
 
-- [printing](/printing)：印刷する
-- [projecting](/projecting)：投影する
+- [printing](/word/printing)：印刷する
+- [projecting](/word/projecting)：投影する
 
 <!-- cvid: aid31_bid05 -->

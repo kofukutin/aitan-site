@@ -97,7 +97,7 @@ TOEICでは、商品の説明や仕様、数量を問う文脈で「liter」が�
 ## 🤔  gallon との違いは？
 
 - **liter**：メートル法の体積単位で、国際的に広く使われる（1リットル＝約1.06クォート）。
-- **[gallon](/gallon)**：主にアメリカやイギリスで使われる体積単位（1ガロン＝約3.8リットル（米）、約4.5リットル（英））。
+- **[gallon](/word/gallon)**：主にアメリカやイギリスで使われる体積単位（1ガロン＝約3.8リットル（米）、約4.5リットル（英））。
 
 literは国際標準の単位で、gallonは主に英米圏で使われる伝統的な単位です。
 
@@ -105,14 +105,14 @@ literは国際標準の単位で、gallonは主に英米圏で使われる伝統
 
 ## 🧩 あわせて覚えたい
 
-- [milliliter](/milliliter)：ミリリットル（1リットルの1/1000）
-- [cubic_meter](/cubic_meter)：立方メートル（体積の単位）
+- [milliliter](/word/milliliter)：ミリリットル（1リットルの1/1000）
+- [cubic_meter](/word/cubic_meter)：立方メートル（体積の単位）
 
 ---
 
 ## 📖 できればこれも
 
-- [meter](/meter)：メートル（長さの単位）
-- [kilogram](/kilogram)：キログラム（質量の単位）
+- [meter](/word/meter)：メートル（長さの単位）
+- [kilogram](/word/kilogram)：キログラム（質量の単位）
 
 <!-- cvid: aid13_bid43 -->

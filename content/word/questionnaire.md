@@ -97,7 +97,7 @@ TOEICではPart 7のメールや案内文、アンケート結果の説明など
 ## 🤔  survey との違いは？
 
 - **questionnaire**：質問が書かれた用紙やフォーム自体を指す
-- **[survey](/survey)**：調査全体や調査活動そのものを指す
+- **[survey](/word/survey)**：調査全体や調査活動そのものを指す
 
 questionnaireは「質問票」そのもの、surveyは「調査」という広い意味で使われます。
 
@@ -105,14 +105,14 @@ questionnaireは「質問票」そのもの、surveyは「調査」という広�
 
 ## 🧩 あわせて覚えたい
 
-- [form](/form)：用紙、書式
-- [application](/application)：申込書、申請
+- [form](/word/form)：用紙、書式
+- [application](/word/application)：申込書、申請
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/document)：書類
-- [feedback](/feedback)：意見、感想
+- [document](/word/document)：書類
+- [feedback](/word/feedback)：意見、感想
 
 <!-- cvid: aid14_bid14 -->

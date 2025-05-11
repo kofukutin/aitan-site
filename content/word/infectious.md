@@ -97,7 +97,7 @@ TOEICでは主に医療や健康に関する長文、または社内通知など
 ## 🤔  contagious との違いは？
 
 - **infectious**：病原体による感染性や、感情などが広がる性質を表す。
-- **[contagious](/contagious)**：主に「人から人へ直接うつる」性質を強調する。
+- **[contagious](/word/contagious)**：主に「人から人へ直接うつる」性質を強調する。
 
 infectiousは病気だけでなく感情や雰囲気にも使えますが、contagiousは特に「直接的な接触でうつる」場合に使われます。
 
@@ -105,14 +105,14 @@ infectiousは病気だけでなく感情や雰囲気にも使えますが、cont
 
 ## 🧩 あわせて覚えたい
 
-- [epidemic](/epidemic)：流行、伝染病
-- [transmit](/transmit)：伝える、伝染させる
+- [epidemic](/word/epidemic)：流行、伝染病
+- [transmit](/word/transmit)：伝える、伝染させる
 
 ---
 
 ## 📖 できればこれも
 
-- [immune](/immune)：免疫のある
-- [virus](/virus)：ウイルス
+- [immune](/word/immune)：免疫のある
+- [virus](/word/virus)：ウイルス
 
 <!-- cvid: aid46_bid36 -->

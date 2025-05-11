@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、天気や景色を説明する
 ## 🤔  overcast との違いは？
 
 - **cloudy**：雲が多く曇っている状態を幅広く表す。
-- **[overcast](/overcast)**：空全体が厚い雲で覆われている状態を強調。
+- **[overcast](/word/overcast)**：空全体が厚い雲で覆われている状態を強調。
 
 「cloudy」は単に雲が多い天気全般を指し、「overcast」は空が完全に雲で覆われて太陽が全く見えないような重い曇りを表します。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写問題で、天気や景色を説明する
 
 ## 🧩 あわせて覚えたい
 
-- [sunny](/sunny)：晴れた
-- [foggy](/foggy)：霧がかかった
+- [sunny](/word/sunny)：晴れた
+- [foggy](/word/foggy)：霧がかかった
 
 ---
 
 ## 📖 できればこれも
 
-- [rainy](/rainy)：雨の
-- [windy](/windy)：風の強い
+- [rainy](/word/rainy)：雨の
+- [windy](/word/windy)：風の強い
 
 <!-- cvid: aid31_bid22 -->

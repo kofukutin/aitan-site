@@ -97,7 +97,7 @@ TOEICでは「神経」や「勇気」の両方の意味で出題されること
 ## 🤔  courage との違いは？
 
 - **nerve**：一時的な勇気や度胸、または医学的な「神経」
-- **[courage](/courage)**：困難や危険に立ち向かう持続的な勇気
+- **[courage](/word/courage)**：困難や危険に立ち向かう持続的な勇気
 
 「nerve」は瞬間的な勇気や大胆さを指すことが多く、「courage」は長期的・根本的な勇気を表します。
 
@@ -105,14 +105,14 @@ TOEICでは「神経」や「勇気」の両方の意味で出題されること
 
 ## 🧩 あわせて覚えたい
 
-- [anxiety](/anxiety)：不安、心配
-- [confidence](/confidence)：自信
+- [anxiety](/word/anxiety)：不安、心配
+- [confidence](/word/confidence)：自信
 
 ---
 
 ## 📖 できればこれも
 
-- [muscle](/muscle)：筋肉
-- [stress](/stress)：ストレス
+- [muscle](/word/muscle)：筋肉
+- [stress](/word/stress)：ストレス
 
 <!-- cvid: aid44_bid27 -->

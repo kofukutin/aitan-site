@@ -97,7 +97,7 @@ TOEICでは「正当化する」「理由を説明する」といった文脈で
 ## 🤔  excuse との違いは？
 
 - **justify**：自分の行動や判断が「正しい」と論理的に説明・証明する
-- **[excuse](/excuse)**：自分の過ちや失敗を「許してもらうため」に理由を述べる
+- **[excuse](/word/excuse)**：自分の過ちや失敗を「許してもらうため」に理由を述べる
 
 justifyは「正当性の主張」、excuseは「言い訳・弁解」として使い分けます。
 
@@ -105,14 +105,14 @@ justifyは「正当性の主張」、excuseは「言い訳・弁解」として�
 
 ## 🧩 あわせて覚えたい
 
-- [defend](/defend)：（批判などから）守る、弁護する
-- [validate](/validate)：有効性を確認する、正当性を認める
+- [defend](/word/defend)：（批判などから）守る、弁護する
+- [validate](/word/validate)：有効性を確認する、正当性を認める
 
 ---
 
 ## 📖 できればこれも
 
-- [prove](/prove)：証明する
-- [explain](/explain)：説明する
+- [prove](/word/prove)：証明する
+- [explain](/word/explain)：説明する
 
 <!-- cvid: aid26_bid28 -->

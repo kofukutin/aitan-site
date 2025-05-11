@@ -97,7 +97,7 @@ TOEICではビジネスの契約や店舗運営に関する長文で出題され
 ## 🤔  license との違いは？
 
 - **franchise**：ブランドやビジネスモデルを使って店舗運営する権利・仕組み
-- **[license](/license)**：特定の活動や商品・サービスの提供を許可する一般的な許可証
+- **[license](/word/license)**：特定の活動や商品・サービスの提供を許可する一般的な許可証
 
 franchiseは「ブランドごとビジネスを展開する権利」、licenseは「特定の行為や商品に対する許可証」と使い分けます。
 
@@ -105,14 +105,14 @@ franchiseは「ブランドごとビジネスを展開する権利」、license�
 
 ## 🧩 あわせて覚えたい
 
-- [subsidiary](/subsidiary)：子会社
-- [branch](/branch)：支店
+- [subsidiary](/word/subsidiary)：子会社
+- [branch](/word/branch)：支店
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/contract)：契約
-- [agreement](/agreement)：合意
+- [contract](/word/contract)：契約
+- [agreement](/word/agreement)：合意
 
 <!-- cvid: aid12_bid38 -->

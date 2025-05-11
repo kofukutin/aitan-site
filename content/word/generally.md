@@ -97,7 +97,7 @@ TOEICでは文法や語彙の選択肢として頻出し、「一般的に」と
 ## 🤔  usually との違いは？
 
 - **generally**：全体的な傾向や広い範囲で「一般的に」と述べるときに使う
-- **[usually](/usually)**：個人や状況ごとの「たいてい」「ふつうは」といった頻度を表す
+- **[usually](/word/usually)**：個人や状況ごとの「たいてい」「ふつうは」といった頻度を表す
 
 「generally」は広い範囲や全体の傾向、「usually」は個人や具体的なケースの頻度に使い分けます。
 
@@ -105,14 +105,14 @@ TOEICでは文法や語彙の選択肢として頻出し、「一般的に」と
 
 ## 🧩 あわせて覚えたい
 
-- [typically](/typically)：典型的に、たいてい
-- [commonly](/commonly)：一般的に、よく
+- [typically](/word/typically)：典型的に、たいてい
+- [commonly](/word/commonly)：一般的に、よく
 
 ---
 
 ## 📖 できればこれも
 
-- [mainly](/mainly)：主に
-- [mostly](/mostly)：ほとんど、主として
+- [mainly](/word/mainly)：主に
+- [mostly](/word/mostly)：ほとんど、主として
 
 <!-- cvid: aid12_bid08 -->

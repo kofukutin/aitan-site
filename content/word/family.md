@@ -97,7 +97,7 @@ TOEICではPart 1やPart 2で、家族写真や家族に関する会話でよく
 ## 🤔  relative との違いは？
 
 - **family**：親や子どもなど、主に同居や密接な関係の家族全体を指す
-- **[relative](/relative)**：親戚・親類など、血縁や婚姻でつながる広い範囲の人を指す
+- **[relative](/word/relative)**：親戚・親類など、血縁や婚姻でつながる広い範囲の人を指す
 
 familyは「家族」という身近な集団を指し、relativeは「親戚」など家族以外も含む広い意味で使われます。
 
@@ -105,14 +105,14 @@ familyは「家族」という身近な集団を指し、relativeは「親戚」
 
 ## 🧩 あわせて覚えたい
 
-- [household](/household)：世帯、同じ家に住む人々
-- [parent](/parent)：親
+- [household](/word/household)：世帯、同じ家に住む人々
+- [parent](/word/parent)：親
 
 ---
 
 ## 📖 できればこれも
 
-- [friend](/friend)：友人
-- [neighbor](/neighbor)：隣人
+- [friend](/word/friend)：友人
+- [neighbor](/word/neighbor)：隣人
 
 <!-- cvid: aid49_bid35 -->

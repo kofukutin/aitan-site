@@ -97,7 +97,7 @@ TOEICでは「部分的な」「一部の」という意味で、選択肢や説
 ## 🤔  incomplete との違いは？
 
 - **partial**：全体の一部だけで「部分的な」「一部の」という意味
-- **[incomplete](/incomplete)**：必要なものがすべてそろっていない「不完全な」という意味
+- **[incomplete](/word/incomplete)**：必要なものがすべてそろっていない「不完全な」という意味
 
 「partial」は「全体の一部」というニュアンスがあり、「incomplete」は「必要なものが足りない」ことを強調します。
 
@@ -105,14 +105,14 @@ TOEICでは「部分的な」「一部の」という意味で、選択肢や説
 
 ## 🧩 あわせて覚えたい
 
-- [biased](/biased)：偏った、先入観のある
-- [entire](/entire)：全体の、全部の
+- [biased](/word/biased)：偏った、先入観のある
+- [entire](/word/entire)：全体の、全部の
 
 ---
 
 ## 📖 できればこれも
 
-- [overall](/overall)：全体的な
-- [specific](/specific)：具体的な
+- [overall](/word/overall)：全体的な
+- [specific](/word/specific)：具体的な
 
 <!-- cvid: aid42_bid18 -->

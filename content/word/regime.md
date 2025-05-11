@@ -97,7 +97,7 @@ TOEICでは主に記事やレポート、公式文書などの長文読解で登
 ## 🤔  government との違いは？
 
 - **regime**：特定の政治体制や政権、特に権威的・独裁的なニュアンスが強い
-- **[government](/government)**：一般的な「政府」や「行政」を指し、ニュートラルな表現
+- **[government](/word/government)**：一般的な「政府」や「行政」を指し、ニュートラルな表現
 
 regimeは「体制」や「政権交代」など、制度や支配の仕組みに焦点を当てる時に使い、governmentは日常的な「政府」全般を指します。
 
@@ -105,14 +105,14 @@ regimeは「体制」や「政権交代」など、制度や支配の仕組み�
 
 ## 🧩 あわせて覚えたい
 
-- [administration](/administration)：政権、行政
-- [authority](/authority)：権威、権限
+- [administration](/word/administration)：政権、行政
+- [authority](/word/authority)：権威、権限
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/policy)：政策、方針
-- [system](/system)：制度、仕組み
+- [policy](/word/policy)：政策、方針
+- [system](/word/system)：制度、仕組み
 
 <!-- cvid: aid21_bid11 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、洗濯物やクリーニング店の
 ## 🤔  washing との違いは？
 
 - **laundry**：洗濯物や洗濯そのもの、クリーニング店も指す
-- **[washing](/washing)**：洗う行為や洗濯物（特にイギリス英語で）
+- **[washing](/word/washing)**：洗う行為や洗濯物（特にイギリス英語で）
 
 laundryは洗濯物や洗濯全般を指し、washingは「洗うこと」や「洗濯物」を意味しますが、laundryの方がアメリカ英語で一般的です。
 
@@ -105,14 +105,14 @@ laundryは洗濯物や洗濯全般を指し、washingは「洗うこと」や「
 
 ## 🧩 あわせて覚えたい
 
-- [clothes](/clothes)：衣類
-- [dry_cleaning](/dry_cleaning)：ドライクリーニング、クリーニング店
+- [clothes](/word/clothes)：衣類
+- [dry_cleaning](/word/dry_cleaning)：ドライクリーニング、クリーニング店
 
 ---
 
 ## 📖 できればこれも
 
-- [basket](/basket)：かご
-- [towel](/towel)：タオル
+- [basket](/word/basket)：かご
+- [towel](/word/towel)：タオル
 
 <!-- cvid: aid43_bid29 -->

@@ -97,7 +97,7 @@ TOEICでは、会議やプレゼンテーション、説明の場面で「presen
 ## 🤔  proposing との違いは？
 
 - **presenting**：人前で何かを提示・発表すること
-- **[proposing](/proposing)**：提案する、何かを提案として持ちかけること
+- **[proposing](/word/proposing)**：提案する、何かを提案として持ちかけること
 
 「presenting」は情報や成果物を発表・紹介する場面で使い、「proposing」は新しいアイデアや計画を提案する時に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、会議やプレゼンテーション、説明の場面で「presen
 
 ## 🧩 あわせて覚えたい
 
-- [introduce](/introduce)：紹介する
-- [demonstrate](/demonstrate)：実演する、証明する
+- [introduce](/word/introduce)：紹介する
+- [demonstrate](/word/demonstrate)：実演する、証明する
 
 ---
 
 ## 📖 できればこれも
 
-- [explain](/explain)：説明する
-- [submit](/submit)：提出する
+- [explain](/word/explain)：説明する
+- [submit](/word/submit)：提出する
 
 <!-- cvid: aid25_bid45 -->

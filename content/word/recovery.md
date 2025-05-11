@@ -97,7 +97,7 @@ TOEICでは経済やビジネスの文脈で「景気回復」や「業績回復
 ## 🤔  restoration との違いは？
 
 - **recovery**：失ったものや状態を取り戻す「回復」や「復旧」全般を指す
-- **[restoration](/restoration)**：元の状態や姿に「修復・復元」することを強調
+- **[restoration](/word/restoration)**：元の状態や姿に「修復・復元」することを強調
 
 recoveryは広く「回復」を指し、restorationは特に元通りに「修復」するニュアンスが強いです。
 
@@ -105,14 +105,14 @@ recoveryは広く「回復」を指し、restorationは特に元通りに「修�
 
 ## 🧩 あわせて覚えたい
 
-- [setback](/setback)：挫折、後退
-- [improvement](/improvement)：改善、向上
+- [setback](/word/setback)：挫折、後退
+- [improvement](/word/improvement)：改善、向上
 
 ---
 
 ## 📖 できればこれも
 
-- [progress](/progress)：進歩、前進
-- [decline](/decline)：減少、衰退
+- [progress](/word/progress)：進歩、前進
+- [decline](/word/decline)：減少、衰退
 
 <!-- cvid: aid47_bid36 -->

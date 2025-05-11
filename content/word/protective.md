@@ -97,7 +97,7 @@ TOEICでは、protectiveは「protective gear（保護具）」や「protective 
 ## 🤔  preventive との違いは？
 
 - **protective**：危険や損害から「守る」ための性質や役割を強調
-- **[preventive](/preventive)**：問題や危険が「起こるのを未然に防ぐ」ための性質や役割
+- **[preventive](/word/preventive)**：問題や危険が「起こるのを未然に防ぐ」ための性質や役割
 
 protectiveは「すでにある危険から守る」イメージ、preventiveは「危険が起こる前に防ぐ」イメージです。
 
@@ -105,14 +105,14 @@ protectiveは「すでにある危険から守る」イメージ、preventiveは
 
 ## 🧩 あわせて覚えたい
 
-- [defensive](/defensive)：防御的な、守りの
-- [secure](/secure)：安全な、しっかりした
+- [defensive](/word/defensive)：防御的な、守りの
+- [secure](/word/secure)：安全な、しっかりした
 
 ---
 
 ## 📖 できればこれも
 
-- [protect](/protect)：守る、保護する
-- [safety](/safety)：安全
+- [protect](/word/protect)：守る、保護する
+- [safety](/word/safety)：安全
 
 <!-- cvid: aid29_bid18 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「風が吹く」「何かを吹き飛
 ## 🤔  burst との違いは？
 
 - **blow**：息や風で「吹く」「吹き飛ばす」動作を表す。
-- **[burst](/burst)**：急に破裂する、爆発する動作を表す。
+- **[burst](/word/burst)**：急に破裂する、爆発する動作を表す。
 
 blowは「風や息で何かを動かす」イメージ、burstは「中から急に破裂する」イメージで使い分けます。
 
@@ -105,14 +105,14 @@ blowは「風や息で何かを動かす」イメージ、burstは「中から�
 
 ## 🧩 あわせて覚えたい
 
-- [breeze](/breeze)：そよ風、微風
-- [explode](/explode)：爆発する
+- [breeze](/word/breeze)：そよ風、微風
+- [explode](/word/explode)：爆発する
 
 ---
 
 ## 📖 できればこれも
 
-- [break](/break)：壊す、壊れる
-- [crash](/crash)：衝突する、激突する
+- [break](/word/break)：壊す、壊れる
+- [crash](/word/crash)：衝突する、激突する
 
 <!-- cvid: aid00_bid04 -->

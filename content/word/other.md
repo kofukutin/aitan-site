@@ -97,7 +97,7 @@ TOEICでは「other」「another」「the other」などの使い分けを問う
 ## 🤔  another との違いは？
 
 - **other**：他の（複数や不特定のもの・人に使う）
-- **[another](/another)**：もう1つの、もう1人の（同じ種類の中で追加や別の1つを指す）
+- **[another](/word/another)**：もう1つの、もう1人の（同じ種類の中で追加や別の1つを指す）
 
 「other」は複数や不特定のものに、「another」は同じ種類の中で追加の1つに使います。
 
@@ -105,14 +105,14 @@ TOEICでは「other」「another」「the other」などの使い分けを問う
 
 ## 🧩 あわせて覚えたい
 
-- [different](/different)：異なる、違う
-- [else](/else)：他に、他の
+- [different](/word/different)：異なる、違う
+- [else](/word/else)：他に、他の
 
 ---
 
 ## 📖 できればこれも
 
-- [each](/each)：それぞれの
-- [every](/every)：すべての
+- [each](/word/each)：それぞれの
+- [every](/word/every)：すべての
 
 <!-- cvid: aid28_bid46 -->

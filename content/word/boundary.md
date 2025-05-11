@@ -97,7 +97,7 @@ TOEICでは、会社や部門の「境界」や、業務範囲の「限界」な
 ## 🤔  border との違いは？
 
 - **boundary**：物理的・抽象的な「境界」や「限界」を幅広く指す
-- **[border](/border)**：国や地域などの「国境」「境界線」といった物理的な線を強調
+- **[border](/word/border)**：国や地域などの「国境」「境界線」といった物理的な線を強調
 
 boundaryは抽象的な区切りや範囲にも使えますが、borderは主に地図上の線や国境など物理的な境界を指します。
 
@@ -105,14 +105,14 @@ boundaryは抽象的な区切りや範囲にも使えますが、borderは主に
 
 ## 🧩 あわせて覚えたい
 
-- [limit](/limit)：限界、制限
-- [barrier](/barrier)：障壁、バリア
+- [limit](/word/limit)：限界、制限
+- [barrier](/word/barrier)：障壁、バリア
 
 ---
 
 ## 📖 できればこれも
 
-- [restriction](/restriction)：制限、規制
-- [territory](/territory)：領土、領域
+- [restriction](/word/restriction)：制限、規制
+- [territory](/word/territory)：領土、領域
 
 <!-- cvid: aid25_bid05 -->

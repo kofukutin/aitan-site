@@ -97,7 +97,7 @@ TOEICでは、報告書やEメール、説明文などで「identified risks（�
 ## 🤔  recognized との違いは？
 
 - **identified**：誰・何であるかが明確に特定された状態
-- **[recognized](/recognized)**：見て知っているものだと気づく、認識する
+- **[recognized](/word/recognized)**：見て知っているものだと気づく、認識する
 
 「identified」は客観的に特定・識別されたことを強調し、「recognized」は以前から知っていたものだと気づくニュアンスがあります。
 
@@ -105,14 +105,14 @@ TOEICでは、報告書やEメール、説明文などで「identified risks（�
 
 ## 🧩 あわせて覚えたい
 
-- [confirmed](/confirmed)：確認された、確定した
-- [verified](/verified)：検証された、確認済みの
+- [confirmed](/word/confirmed)：確認された、確定した
+- [verified](/word/verified)：検証された、確認済みの
 
 ---
 
 ## 📖 できればこれも
 
-- [specified](/specified)：指定された、明記された
-- [classified](/classified)：分類された、機密扱いの
+- [specified](/word/specified)：指定された、明記された
+- [classified](/word/classified)：分類された、機密扱いの
 
 <!-- cvid: aid25_bid10 -->

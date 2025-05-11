@@ -97,7 +97,7 @@ TOEICでは、研究や開発に関する記事やメール、報告書などで
 ## 🤔  scientist との違いは？
 
 - **researcher**：研究活動を行う人全般（分野を問わず幅広い）
-- **[scientist](/scientist)**：主に自然科学分野の科学者
+- **[scientist](/word/scientist)**：主に自然科学分野の科学者
 
 「researcher」は分野を問わず研究する人全体を指し、「scientist」は特に科学分野の専門家を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、研究や開発に関する記事やメール、報告書などで
 
 ## 🧩 あわせて覚えたい
 
-- [analyst](/analyst)：分析者、データを解析する人
-- [investigator](/investigator)：調査員、捜査官
+- [analyst](/word/analyst)：分析者、データを解析する人
+- [investigator](/word/investigator)：調査員、捜査官
 
 ---
 
 ## 📖 できればこれも
 
-- [experiment](/experiment)：実験
-- [laboratory](/laboratory)：研究室
+- [experiment](/word/experiment)：実験
+- [laboratory](/word/laboratory)：研究室
 
 <!-- cvid: aid20_bid32 -->

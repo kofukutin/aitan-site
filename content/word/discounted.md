@@ -97,7 +97,7 @@ TOEICでは広告やメール、案内文などで「discounted price（割引�
 ## 🤔  reduced との違いは？
 
 - **discounted**：割引やセールなどで「値引きされた」ことを強調
-- **[reduced](/reduced)**：単に「減らされた」「少なくなった」状態全般を指す
+- **[reduced](/word/reduced)**：単に「減らされた」「少なくなった」状態全般を指す
 
 「discounted」は主に価格や料金が割引で安くなった場合に使い、「reduced」は価格以外にも量や数などが減った場合にも使います。
 
@@ -105,14 +105,14 @@ TOEICでは広告やメール、案内文などで「discounted price（割引�
 
 ## 🧩 あわせて覚えたい
 
-- [sale](/sale)：セール、特売
-- [promotion](/promotion)：販促、プロモーション
+- [sale](/word/sale)：セール、特売
+- [promotion](/word/promotion)：販促、プロモーション
 
 ---
 
 ## 📖 できればこれも
 
-- [affordable](/affordable)：手ごろな価格の
-- [bargain](/bargain)：お買い得品
+- [affordable](/word/affordable)：手ごろな価格の
+- [bargain](/word/bargain)：お買い得品
 
 <!-- cvid: aid43_bid31 -->

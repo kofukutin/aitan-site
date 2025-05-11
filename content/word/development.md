@@ -97,7 +97,7 @@ TOEICではビジネスやプロジェクトの進行、製品開発などの文
 ## 🤔  growth との違いは？
 
 - **development**：新しいものを作ったり、計画的に進歩・発展させること
-- **[growth](/growth)**：自然に大きくなったり増えたりすること
+- **[growth](/word/growth)**：自然に大きくなったり増えたりすること
 
 developmentは意図的・計画的な進展や開発に使われ、growthは自然な増加や成長に使われます。
 
@@ -105,14 +105,14 @@ developmentは意図的・計画的な進展や開発に使われ、growthは自
 
 ## 🧩 あわせて覚えたい
 
-- [progress](/progress)：進歩、前進
-- [improvement](/improvement)：改善、向上
+- [progress](/word/progress)：進歩、前進
+- [improvement](/word/improvement)：改善、向上
 
 ---
 
 ## 📖 できればこれも
 
-- [project](/project)：計画、プロジェクト
-- [plan](/plan)：計画、案
+- [project](/word/project)：計画、プロジェクト
+- [plan](/word/plan)：計画、案
 
 <!-- cvid: aid12_bid14 -->

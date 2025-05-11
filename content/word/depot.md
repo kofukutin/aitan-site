@@ -97,7 +97,7 @@ TOEICでは、物流や輸送、倉庫管理に関する説明文やEメール�
 ## 🤔  warehouse との違いは？
 
 - **depot**：一時的な保管や輸送拠点、発着所の意味も含む
-- **[warehouse](/warehouse)**：主に大規模な商品保管専用の建物
+- **[warehouse](/word/warehouse)**：主に大規模な商品保管専用の建物
 
 depotは「一時的な集積所」や「交通の発着所」としても使われ、warehouseは「長期保管のための倉庫」に特化しています。
 
@@ -105,14 +105,14 @@ depotは「一時的な集積所」や「交通の発着所」としても使わ
 
 ## 🧩 あわせて覚えたい
 
-- [terminal](/terminal)：終点、ターミナル（交通機関の発着場）
-- [station](/station)：駅、（特定の目的の）施設
+- [terminal](/word/terminal)：終点、ターミナル（交通機関の発着場）
+- [station](/word/station)：駅、（特定の目的の）施設
 
 ---
 
 ## 📖 できればこれも
 
-- [storage](/storage)：保管、貯蔵
-- [facility](/facility)：施設、設備
+- [storage](/word/storage)：保管、貯蔵
+- [facility](/word/facility)：施設、設備
 
 <!-- cvid: aid05_bid31 -->

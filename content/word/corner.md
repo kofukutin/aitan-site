@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、建物や部屋の「角」や「隅
 ## 🤔  edge との違いは？
 
 - **corner**：2つの面や道が交わる「角」や「隅」を指す
-- **[edge](/edge)**：物や場所の「端」「へり」を指す
+- **[edge](/word/edge)**：物や場所の「端」「へり」を指す
 
 cornerは「交わる点」や「曲がり角」、edgeは「外側の端」や「境界」を表すので、使い分けに注意しましょう。
 
@@ -105,14 +105,14 @@ cornerは「交わる点」や「曲がり角」、edgeは「外側の端」や�
 
 ## 🧩 あわせて覚えたい
 
-- [intersection](/intersection)：交差点
-- [side](/side)：側、側面
+- [intersection](/word/intersection)：交差点
+- [side](/word/side)：側、側面
 
 ---
 
 ## 📖 できればこれも
 
-- [block](/block)：街区、ブロック
-- [street](/street)：通り、道路
+- [block](/word/block)：街区、ブロック
+- [street](/word/street)：通り、道路
 
 <!-- cvid: aid23_bid39 -->

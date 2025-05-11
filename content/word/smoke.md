@@ -97,7 +97,7 @@ TOEICでは、火災や喫煙、環境問題などの話題で「smoke」が会�
 ## 🤔  steam との違いは？
 
 - **smoke**：物が燃えるときに出る煙。灰色や黒っぽいことが多い。
-- **[steam](/steam)**：水が熱せられてできる蒸気。白くて水分を多く含む。
+- **[steam](/word/steam)**：水が熱せられてできる蒸気。白くて水分を多く含む。
 
 smokeは「燃焼による煙」、steamは「水分の蒸気」と、発生源や見た目が異なります。
 
@@ -105,14 +105,14 @@ smokeは「燃焼による煙」、steamは「水分の蒸気」と、発生源�
 
 ## 🧩 あわせて覚えたい
 
-- [fog](/fog)：霧
-- [pollution](/pollution)：汚染
+- [fog](/word/fog)：霧
+- [pollution](/word/pollution)：汚染
 
 ---
 
 ## 📖 できればこれも
 
-- [fire](/fire)：火
-- [burn](/burn)：燃やす
+- [fire](/word/fire)：火
+- [burn](/word/burn)：燃やす
 
 <!-- cvid: aid38_bid48 -->

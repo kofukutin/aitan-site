@@ -97,7 +97,7 @@ TOEICでは「会議で会う」「取引先と会う」など、ビジネスシ
 ## 🤔  attend との違いは？
 
 - **meet**：人と直接会う、顔を合わせることに重点
-- **[attend](/attend)**：会議やイベントなどに「出席する」ことに重点
+- **[attend](/word/attend)**：会議やイベントなどに「出席する」ことに重点
 
 meetは「人と会う」こと自体を指し、attendは「イベントや会議に参加する」ことを表します。
 
@@ -105,14 +105,14 @@ meetは「人と会う」こと自体を指し、attendは「イベントや会�
 
 ## 🧩 あわせて覚えたい
 
-- [greet](/greet)：あいさつする
-- [encounter](/encounter)：偶然出会う、遭遇する
+- [greet](/word/greet)：あいさつする
+- [encounter](/word/encounter)：偶然出会う、遭遇する
 
 ---
 
 ## 📖 できればこれも
 
-- [discuss](/discuss)：話し合う、議論する
-- [arrange](/arrange)：手配する、準備する
+- [discuss](/word/discuss)：話し合う、議論する
+- [arrange](/word/arrange)：手配する、準備する
 
 <!-- cvid: aid28_bid47 -->

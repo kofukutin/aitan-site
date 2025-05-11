@@ -97,7 +97,7 @@ ITやビジネス分野の長文や説明文で、技術的な用語として出
 ## 🤔  procedure との違いは？
 
 - **algorithm**：問題解決のための明確な計算手順やルール
-- **[procedure](/procedure)**：一般的な手順や方法、作業の進め方
+- **[procedure](/word/procedure)**：一般的な手順や方法、作業の進め方
 
 algorithmは特に数学的・論理的な処理手順に使われ、procedureは幅広い作業や業務の手順に使われます。
 
@@ -105,14 +105,14 @@ algorithmは特に数学的・論理的な処理手順に使われ、procedure�
 
 ## 🧩 あわせて覚えたい
 
-- [formula](/formula)：公式、決まった方法
-- [method](/method)：方法、やり方
+- [formula](/word/formula)：公式、決まった方法
+- [method](/word/method)：方法、やり方
 
 ---
 
 ## 📖 できればこれも
 
-- [system](/system)：システム、体系
-- [process](/process)：過程、プロセス
+- [system](/word/system)：システム、体系
+- [process](/word/process)：過程、プロセス
 
 <!-- cvid: aid01_bid36 -->

@@ -93,7 +93,7 @@ TOEICでは、説明文やレポート、メール文などで「主に」「大
 ## 🤔  mostly との違いは？
 
 - **largely**：主に、大部分は（全体の大きな割合を強調）
-- **[mostly](/mostly)**：ほとんど、たいてい（頻度や割合をややカジュアルに表現）
+- **[mostly](/word/mostly)**：ほとんど、たいてい（頻度や割合をややカジュアルに表現）
 
 「largely」は全体の大きな部分や主な要因を強調する時に使い、「mostly」は日常的な「たいてい」「ほとんど」に近いニュアンスです。
 
@@ -101,14 +101,14 @@ TOEICでは、説明文やレポート、メール文などで「主に」「大
 
 ## 🧩 あわせて覚えたい
 
-- [mainly](/mainly)：主に
-- [partly](/partly)：部分的に
+- [mainly](/word/mainly)：主に
+- [partly](/word/partly)：部分的に
 
 ---
 
 ## 📖 できればこれも
 
-- [entirely](/entirely)：完全に
-- [partially](/partially)：一部は
+- [entirely](/word/entirely)：完全に
+- [partially](/word/partially)：一部は
 
 <!-- cvid: aid14_bid41 -->

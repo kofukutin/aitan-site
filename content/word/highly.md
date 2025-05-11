@@ -97,7 +97,7 @@ TOEICでは、形容詞や過去分詞を強調する副詞として頻出しま
 ## 🤔  very との違いは？
 
 - **highly**：評価や程度、能力などを「非常に」と強調する時に使う
-- **[very](/very)**：幅広い形容詞・副詞を「とても」と強調する一般的な副詞
+- **[very](/word/very)**：幅広い形容詞・副詞を「とても」と強調する一般的な副詞
 
 highlyは「skilled」「recommended」など評価や能力に関する語とよく組み合わせますが、veryは「tall」「beautiful」など幅広い語に使えます。
 
@@ -105,14 +105,14 @@ highlyは「skilled」「recommended」など評価や能力に関する語と�
 
 ## 🧩 あわせて覚えたい
 
-- [extremely](/extremely)：極めて、非常に
-- [barely](/barely)：かろうじて、ほとんど～ない
+- [extremely](/word/extremely)：極めて、非常に
+- [barely](/word/barely)：かろうじて、ほとんど～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [slightly](/slightly)：わずかに
-- [fairly](/fairly)：かなり、まあまあ
+- [slightly](/word/slightly)：わずかに
+- [fairly](/word/fairly)：かなり、まあまあ
 
 <!-- cvid: aid32_bid49 -->

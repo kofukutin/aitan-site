@@ -97,7 +97,7 @@ enhancementはTOEICのPart 6やPart 7で、製品やサービスの機能向上�
 ## 🤔  improvement との違いは？
 
 - **enhancement**：既存のものをさらに高めたり、機能を追加して質を向上させること
-- **[improvement](/improvement)**：全体的な改善や改良、良くすること全般
+- **[improvement](/word/improvement)**：全体的な改善や改良、良くすること全般
 
 enhancementは「強化」や「機能追加」など、より積極的な向上を指し、improvementは「改善」や「改良」といった広い意味で使われます。
 
@@ -105,14 +105,14 @@ enhancementは「強化」や「機能追加」など、より積極的な向上
 
 ## 🧩 あわせて覚えたい
 
-- [upgrade](/upgrade)：アップグレード、格上げ
-- [modification](/modification)：修正、変更
+- [upgrade](/word/upgrade)：アップグレード、格上げ
+- [modification](/word/modification)：修正、変更
 
 ---
 
 ## 📖 できればこれも
 
-- [expand](/expand)：拡大する、広げる
-- [feature](/feature)：特徴、機能
+- [expand](/word/expand)：拡大する、広げる
+- [feature](/word/feature)：特徴、機能
 
 <!-- cvid: aid13_bid00 -->

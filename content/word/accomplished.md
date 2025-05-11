@@ -97,7 +97,7 @@ TOEICでは主にPart 7の求人広告や人物紹介、推薦文などで「acc
 ## 🤔  skilled との違いは？
 
 - **accomplished**：実績や経験に裏打ちされた「熟達した」「卓越した」という意味で、フォーマルな場面でよく使われる。
-- **[skilled](/skilled)**：特定の技能や技術に「熟練した」「腕のある」という意味で、やや幅広く使われる。
+- **[skilled](/word/skilled)**：特定の技能や技術に「熟練した」「腕のある」という意味で、やや幅広く使われる。
 
 accomplishedは「成果や実績がある」ことを強調し、skilledは「技術や能力が高い」ことに焦点を当てます。
 
@@ -105,14 +105,14 @@ accomplishedは「成果や実績がある」ことを強調し、skilledは「�
 
 ## 🧩 あわせて覚えたい
 
-- [proficient](/proficient)：堪能な、熟練した
-- [incompetent](/incompetent)：無能な、能力がない
+- [proficient](/word/proficient)：堪能な、熟練した
+- [incompetent](/word/incompetent)：無能な、能力がない
 
 ---
 
 ## 📖 できればこれも
 
-- [qualified](/qualified)：資格のある、適任の
-- [talented](/talented)：才能のある
+- [qualified](/word/qualified)：資格のある、適任の
+- [talented](/word/talented)：才能のある
 
 <!-- cvid: aid35_bid09 -->

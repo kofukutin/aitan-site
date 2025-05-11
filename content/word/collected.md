@@ -97,7 +97,7 @@ TOEICでは、形容詞として「落ち着いた」「冷静な」という意
 ## 🤔  calm との違いは？
 
 - **collected**：感情をコントロールして冷静でいる様子を強調
-- **[calm](/calm)**：外見や気持ちが穏やかで静かな状態
+- **[calm](/word/calm)**：外見や気持ちが穏やかで静かな状態
 
 「collected」は特に困難な状況でも自分を保つニュアンスがあり、「calm」は単に穏やかな状態を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞として「落ち着いた」「冷静な」という意
 
 ## 🧩 あわせて覚えたい
 
-- [composed](/composed)：落ち着いた、冷静な
-- [agitated](/agitated)：動揺した、興奮した
+- [composed](/word/composed)：落ち着いた、冷静な
+- [agitated](/word/agitated)：動揺した、興奮した
 
 ---
 
 ## 📖 できればこれも
 
-- [confident](/confident)：自信がある
-- [organized](/organized)：整理された、計画的な
+- [confident](/word/confident)：自信がある
+- [organized](/word/organized)：整理された、計画的な
 
 <!-- cvid: aid28_bid01 -->

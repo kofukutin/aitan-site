@@ -98,7 +98,7 @@ TOEICでは「景色」や「意見」といった意味で会話や説明文に
 ## 🤔  sight との違いは？
 
 - **view**：景色や意見など、見えるものや考え方を幅広く表す
-- **[sight](/sight)**：目に見えるもの、特に印象的な光景や視力を指す
+- **[sight](/word/sight)**：目に見えるもの、特に印象的な光景や視力を指す
 
 「view」は景色や意見など抽象的な「見方」も含みますが、「sight」は「目に映るもの」や「視力」といったより直接的な意味で使われます。
 
@@ -106,14 +106,14 @@ TOEICでは「景色」や「意見」といった意味で会話や説明文に
 
 ## 🧩 あわせて覚えたい
 
-- [opinion](/opinion)：意見、考え
-- [scene](/scene)：場面、光景
+- [opinion](/word/opinion)：意見、考え
+- [scene](/word/scene)：場面、光景
 
 ---
 
 ## 📖 できればこれも
 
-- [vision](/vision)：視力、将来像
-- [aspect](/aspect)：側面、観点
+- [vision](/word/vision)：視力、将来像
+- [aspect](/word/aspect)：側面、観点
 
 <!-- cvid: aid22_bid16 -->

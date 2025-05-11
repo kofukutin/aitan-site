@@ -97,7 +97,7 @@ TOEICでは請求書や通知文、メールなどで「overdue payment（延滞
 ## 🤔  expired との違いは？
 
 - **overdue**：期限を過ぎてまだ完了していない（支払い・提出などが遅れている）状態
-- **[expired](/expired)**：有効期限が切れて効力がなくなった状態
+- **[expired](/word/expired)**：有効期限が切れて効力がなくなった状態
 
 「overdue」は「やるべきことがまだ終わっていない遅延」を指し、「expired」は「期限切れで効力が消滅した」ことを表します。
 
@@ -105,14 +105,14 @@ TOEICでは請求書や通知文、メールなどで「overdue payment（延滞
 
 ## 🧩 あわせて覚えたい
 
-- [delayed](/delayed)：遅れた、遅延した
-- [pending](/pending)：未処理の、保留中の
+- [delayed](/word/delayed)：遅れた、遅延した
+- [pending](/word/pending)：未処理の、保留中の
 
 ---
 
 ## 📖 できればこれも
 
-- [outstanding](/outstanding)：未払いの、未処理の
-- [unpaid](/unpaid)：未払いの
+- [outstanding](/word/outstanding)：未払いの、未処理の
+- [unpaid](/word/unpaid)：未払いの
 
 <!-- cvid: aid08_bid14 -->

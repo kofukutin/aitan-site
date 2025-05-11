@@ -97,7 +97,7 @@ TOEICでは動詞の時制や語形変化を問う文法問題でよく出題さ
 ## 🤔  selected との違いは？
 
 - **chose**：自分の意思で選んだ、という動作を強調
-- **[selected](/selected)**：基準や条件に従って選ばれた、ややフォーマル
+- **[selected](/word/selected)**：基準や条件に従って選ばれた、ややフォーマル
 
 choseは「自分で選んだ」動作を表し、selectedは「選抜された」「選定された」といった客観的・公式なニュアンスがあります。
 
@@ -105,14 +105,14 @@ choseは「自分で選んだ」動作を表し、selectedは「選抜された�
 
 ## 🧩 あわせて覚えたい
 
-- [pick](/pick)：（気軽に）選ぶ
-- [reject](/reject)：拒否する、断る
+- [pick](/word/pick)：（気軽に）選ぶ
+- [reject](/word/reject)：拒否する、断る
 
 ---
 
 ## 📖 できればこれも
 
-- [choose](/choose)：選ぶ（原形）
-- [decide](/decide)：決める
+- [choose](/word/choose)：選ぶ（原形）
+- [decide](/word/decide)：決める
 
 <!-- cvid: aid04_bid03 -->

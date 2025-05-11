@@ -97,7 +97,7 @@ The flight was delayed due to a thunderstorm.
 ## 🤔  lightning との違いは？
 
 - **thunderstorm**：雷と雨が同時に起こる嵐全体を指す
-- **[lightning](/lightning)**：空に光る「稲妻」そのものを指す
+- **[lightning](/word/lightning)**：空に光る「稲妻」そのものを指す
 
 thunderstormは天気の種類、lightningはその中の現象（稲妻）を表します。
 
@@ -105,14 +105,14 @@ thunderstormは天気の種類、lightningはその中の現象（稲妻）を�
 
 ## 🧩 あわせて覚えたい
 
-- [rain](/rain)：雨
-- [storm](/storm)：嵐
+- [rain](/word/rain)：雨
+- [storm](/word/storm)：嵐
 
 ---
 
 ## 📖 できればこれも
 
-- [flood](/flood)：洪水
-- [weather](/weather)：天気
+- [flood](/word/flood)：洪水
+- [weather](/word/weather)：天気
 
 <!-- cvid: aid26_bid16 -->

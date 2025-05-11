@@ -97,7 +97,7 @@ TOEICでは「問題を解決する」「対立を解消する」といった文
 ## 🤔  solve との違いは？
 
 - **resolve**：問題や対立を「最終的に解決する」、または「決意する」ニュアンスが強い
-- **[solve](/solve)**：数学的・論理的な「問題を解く」ことに重点
+- **[solve](/word/solve)**：数学的・論理的な「問題を解く」ことに重点
 
 「resolve」は人間関係や複雑な問題の「解決」に、solveはパズルや計算など「答えを出す」場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは「問題を解決する」「対立を解消する」といった文
 
 ## 🧩 あわせて覚えたい
 
-- [settle](/settle)：（争い・問題などを）解決する
-- [decide](/decide)：決定する
+- [settle](/word/settle)：（争い・問題などを）解決する
+- [decide](/word/decide)：決定する
 
 ---
 
 ## 📖 できればこれも
 
-- [address](/address)：（問題などに）対処する
-- [handle](/handle)：扱う、処理する
+- [address](/word/address)：（問題などに）対処する
+- [handle](/word/handle)：扱う、処理する
 
 <!-- cvid: aid16_bid17 -->

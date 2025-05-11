@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写で「テーブルの上に何かがある」な
 ## 🤔  desk との違いは？
 
 - **table**：食事や作業、会議などに使う「テーブル」や、情報をまとめた「表」を指す。
-- **[desk](/desk)**：主に勉強や仕事用の「机」を指し、引き出しが付いていることが多い。
+- **[desk](/word/desk)**：主に勉強や仕事用の「机」を指し、引き出しが付いていることが多い。
 
 tableは用途が幅広く、食事や会議、データの「表」にも使われますが、deskは個人作業用の「机」に限定されます。
 
@@ -105,14 +105,14 @@ tableは用途が幅広く、食事や会議、データの「表」にも使わ
 
 ## 🧩 あわせて覚えたい
 
-- [chair](/chair)：椅子
-- [document](/document)：書類
+- [chair](/word/chair)：椅子
+- [document](/word/document)：書類
 
 ---
 
 ## 📖 できればこれも
 
-- [board](/board)：板、会議
-- [meeting](/meeting)：会議
+- [board](/word/board)：板、会議
+- [meeting](/word/meeting)：会議
 
 <!-- cvid: aid40_bid35 -->

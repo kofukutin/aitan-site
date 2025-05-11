@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「影響を与える」という意味でよく
 ## 🤔  affected との違いは？
 
 - **influenced**：外部からの働きかけで考えや行動が変わることを強調
-- **[affected](/affected)**：何らかの出来事や状況によって変化や影響を受けることを強調
+- **[affected](/word/affected)**：何らかの出来事や状況によって変化や影響を受けることを強調
 
 「influenced」は意図的・積極的な働きかけによる変化、「affected」は出来事や状況による受動的な変化を表します。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「影響を与える」という意味でよく
 
 ## 🧩 あわせて覚えたい
 
-- [impact](/impact)：影響、衝撃
-- [persuade](/persuade)：説得する
+- [impact](/word/impact)：影響、衝撃
+- [persuade](/word/persuade)：説得する
 
 ---
 
 ## 📖 できればこれも
 
-- [encourage](/encourage)：励ます、促す
-- [determine](/determine)：決定する、決心する
+- [encourage](/word/encourage)：励ます、促す
+- [determine](/word/determine)：決定する、決心する
 
 <!-- cvid: aid43_bid26 -->

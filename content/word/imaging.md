@@ -97,7 +97,7 @@ Our company specializes in medical imaging solutions.
 ## 🤔  scanning との違いは？
 
 - **imaging**：画像を作り出す技術や行為全体を指す
-- **[scanning](/scanning)**：何かをスキャンして情報を読み取る行為
+- **[scanning](/word/scanning)**：何かをスキャンして情報を読み取る行為
 
 imagingは「画像化する技術やプロセス」全体を指し、scanningは「スキャンして読み取る動作」に焦点があります。
 
@@ -105,14 +105,14 @@ imagingは「画像化する技術やプロセス」全体を指し、scanning�
 
 ## 🧩 あわせて覚えたい
 
-- [diagnosis](/diagnosis)：診断
-- [visualization](/visualization)：可視化
+- [diagnosis](/word/diagnosis)：診断
+- [visualization](/word/visualization)：可視化
 
 ---
 
 ## 📖 できればこれも
 
-- [diagnose](/diagnose)：診断する
-- [visualize](/visualize)：可視化する
+- [diagnose](/word/diagnose)：診断する
+- [visualize](/word/visualize)：可視化する
 
 <!-- cvid: aid06_bid43 -->

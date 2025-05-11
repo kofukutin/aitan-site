@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やメールの中で「計画を実施する」
 ## 🤔  executed との違いは？
 
 - **implemented**：計画やシステムを現実に導入・実施すること
-- **[executed](/executed)**：命令や計画を「遂行する」「実行する」こと。法律や契約、処刑など幅広い場面で使う
+- **[executed](/word/executed)**：命令や計画を「遂行する」「実行する」こと。法律や契約、処刑など幅広い場面で使う
 
 「implemented」は主に計画やシステムの導入に使い、「executed」は命令や契約、タスクの遂行など幅広い実行に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネス文書やメールの中で「計画を実施する」
 
 ## 🧩 あわせて覚えたい
 
-- [enforce](/enforce)：（法律・規則などを）施行する
-- [apply](/apply)：適用する、応用する
+- [enforce](/word/enforce)：（法律・規則などを）施行する
+- [apply](/word/apply)：適用する、応用する
 
 ---
 
 ## 📖 できればこれも
 
-- [establish](/establish)：設立する、確立する
-- [improve](/improve)：改善する
+- [establish](/word/establish)：設立する、確立する
+- [improve](/word/improve)：改善する
 
 <!-- cvid: aid13_bid30 -->

@@ -97,7 +97,7 @@ headedは、会話文や説明文で「～に向かう」「～の責任者で�
 ## 🤔  lead との違いは？
 
 - **headed**：責任者やリーダーであること、または物理的にどこかへ向かうことを表す。
-- **[lead](/lead)**：率いる、導くという動作や役割を強調。
+- **[lead](/word/lead)**：率いる、導くという動作や役割を強調。
 
 headedは「肩書き」や「進行方向」に焦点があり、leadは「導く行為」や「指導力」に重点があります。
 
@@ -105,14 +105,14 @@ headedは「肩書き」や「進行方向」に焦点があり、leadは「導�
 
 ## 🧩 あわせて覚えたい
 
-- [manage](/manage)：管理する、運営する
-- [direct](/direct)：指揮する、指示する
+- [manage](/word/manage)：管理する、運営する
+- [direct](/word/direct)：指揮する、指示する
 
 ---
 
 ## 📖 できればこれも
 
-- [responsible](/responsible)：責任がある
-- [in_charge](/in_charge)：担当している
+- [responsible](/word/responsible)：責任がある
+- [in_charge](/word/in_charge)：担当している
 
 <!-- cvid: aid40_bid37 -->

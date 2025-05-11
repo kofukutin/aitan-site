@@ -97,7 +97,7 @@ TOEICでは「期限」「支払い」「提出」などの文脈で頻出しま
 ## 🤔  deadline との違いは？
 
 - **due**：期限が来ている、支払いや提出が必要な状態を表す形容詞
-- **[deadline](/deadline)**：締め切りそのもの（名詞）を指す
+- **[deadline](/word/deadline)**：締め切りそのもの（名詞）を指す
 
 「due」は「～が期限だ」と状態を表し、「deadline」は「締め切り日」という具体的な日時を指します。
 
@@ -105,14 +105,14 @@ TOEICでは「期限」「支払い」「提出」などの文脈で頻出しま
 
 ## 🧩 あわせて覚えたい
 
-- [overdue](/overdue)：期限を過ぎた
-- [expire](/expire)：有効期限が切れる
+- [overdue](/word/overdue)：期限を過ぎた
+- [expire](/word/expire)：有効期限が切れる
 
 ---
 
 ## 📖 できればこれも
 
-- [owe](/owe)：借りている、支払う義務がある
-- [submit](/submit)：提出する
+- [owe](/word/owe)：借りている、支払う義務がある
+- [submit](/word/submit)：提出する
 
 <!-- cvid: aid06_bid29 -->

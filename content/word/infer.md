@@ -97,7 +97,7 @@ TOEICの長文読解パートで、文脈や情報から結論を導く設問で
 ## 🤔  deduce との違いは？
 
 - **infer**：証拠や状況から一般的に推測・推論する
-- **[deduce](/deduce)**：論理的な手順や根拠に基づいて結論を導き出す
+- **[deduce](/word/deduce)**：論理的な手順や根拠に基づいて結論を導き出す
 
 inferは幅広い状況で使われ、deduceはより厳密な論理的推論に使われます。
 
@@ -105,14 +105,14 @@ inferは幅広い状況で使われ、deduceはより厳密な論理的推論に
 
 ## 🧩 あわせて覚えたい
 
-- [imply](/imply)：暗示する、ほのめかす
-- [conclude](/conclude)：結論を下す
+- [imply](/word/imply)：暗示する、ほのめかす
+- [conclude](/word/conclude)：結論を下す
 
 ---
 
 ## 📖 できればこれも
 
-- [assume](/assume)：仮定する、思い込む
-- [interpret](/interpret)：解釈する
+- [assume](/word/assume)：仮定する、思い込む
+- [interpret](/word/interpret)：解釈する
 
 <!-- cvid: aid16_bid23 -->

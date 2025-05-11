@@ -96,7 +96,7 @@ TOEICでは主にPart 1の写真描写で「ジョギングしている人」な
 ## 🤔  run との違いは？
 
 - **jog**：健康や運動のためにゆっくり走ること
-- **[run](/run)**：速く走る、競争や移動のために走ること
+- **[run](/word/run)**：速く走る、競争や移動のために走ること
 
 「jog」はリラックスしたペースで走る時に使い、「run」は速さや競争、移動など幅広い場面で使います。
 
@@ -104,14 +104,14 @@ TOEICでは主にPart 1の写真描写で「ジョギングしている人」な
 
 ## 🧩 あわせて覚えたい
 
-- [walk](/walk)：歩く
-- [dash](/dash)：突進する、急いで走る
+- [walk](/word/walk)：歩く
+- [dash](/word/dash)：突進する、急いで走る
 
 ---
 
 ## 📖 できればこれも
 
-- [stretch](/stretch)：ストレッチする、体を伸ばす
-- [exercise](/exercise)：運動する
+- [stretch](/word/stretch)：ストレッチする、体を伸ばす
+- [exercise](/word/exercise)：運動する
 
 <!-- cvid: aid42_bid06 -->

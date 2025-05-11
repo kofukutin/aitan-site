@@ -93,7 +93,7 @@ TOEICの長文読解やビジネス文書で、情報を追加する接続副詞
 ## 🤔  furthermore との違いは？
 
 - **moreover**：前述の内容に「さらに重要な情報」を加えるときに使う、ややフォーマルな副詞。
-- **[furthermore](/furthermore)**：同様に「さらに」を意味するが、moreoverよりもやや堅い印象で、論理的な文章やレポートでよく使われる。
+- **[furthermore](/word/furthermore)**：同様に「さらに」を意味するが、moreoverよりもやや堅い印象で、論理的な文章やレポートでよく使われる。
 
 両者とも「その上」「さらに」を意味しますが、moreoverは会話やビジネス文書でも使われ、furthermoreはより論文的・硬い印象があります。
 
@@ -101,14 +101,14 @@ TOEICの長文読解やビジネス文書で、情報を追加する接続副詞
 
 ## 🧩 あわせて覚えたい
 
-- [however](/however)：しかしながら
-- [besides](/besides)：そのうえ、さらに
+- [however](/word/however)：しかしながら
+- [besides](/word/besides)：そのうえ、さらに
 
 ---
 
 ## 📖 できればこれも
 
-- [therefore](/therefore)：それゆえに
-- [consequently](/consequently)：その結果として
+- [therefore](/word/therefore)：それゆえに
+- [consequently](/word/consequently)：その結果として
 
 <!-- cvid: aid45_bid15 -->

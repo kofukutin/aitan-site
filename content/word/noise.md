@@ -97,7 +97,7 @@ TOEICでは会議やオフィス、電話対応などで「騒音」や「雑音
 ## 🤔  sound との違いは？
 
 - **noise**：不快・邪魔な「騒音」「雑音」を指すことが多い
-- **[sound](/sound)**：中立的な「音」全般を指し、良い音・悪い音どちらにも使える
+- **[sound](/word/sound)**：中立的な「音」全般を指し、良い音・悪い音どちらにも使える
 
 noiseは「うるさい」「邪魔」といった否定的な場面で使われ、soundは単に「音」として幅広く使われます。
 
@@ -105,14 +105,14 @@ noiseは「うるさい」「邪魔」といった否定的な場面で使われ
 
 ## 🧩 あわせて覚えたい
 
-- [silence](/silence)：静けさ、沈黙
-- [disturbance](/disturbance)：妨害、騒動
+- [silence](/word/silence)：静けさ、沈黙
+- [disturbance](/word/disturbance)：妨害、騒動
 
 ---
 
 ## 📖 できればこれも
 
-- [voice](/voice)：声
-- [music](/music)：音楽
+- [voice](/word/voice)：声
+- [music](/word/music)：音楽
 
 <!-- cvid: aid31_bid48 -->

@@ -97,7 +97,7 @@ TOEICでは、申請や提案が「却下された」「拒否された」とい
 ## 🤔  declined との違いは？
 
 - **rejected**：強く「拒否された」「却下された」という意味で、相手の提案や申請をはっきり断るニュアンス。
-- **[declined](/declined)**：丁寧に「辞退する」「断る」という意味で、やんわりと断る印象。
+- **[declined](/word/declined)**：丁寧に「辞退する」「断る」という意味で、やんわりと断る印象。
 
 rejectedは相手の申し出や提案を明確に否定する時に使い、declinedは丁寧に断る場合に使われます。
 
@@ -105,14 +105,14 @@ rejectedは相手の申し出や提案を明確に否定する時に使い、dec
 
 ## 🧩 あわせて覚えたい
 
-- [accept](/accept)：受け入れる
-- [refuse](/refuse)：断る、拒む
+- [accept](/word/accept)：受け入れる
+- [refuse](/word/refuse)：断る、拒む
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/approve)：承認する
-- [deny](/deny)：否定する、拒否する
+- [approve](/word/approve)：承認する
+- [deny](/word/deny)：否定する、拒否する
 
 <!-- cvid: aid39_bid08 -->

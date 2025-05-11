@@ -97,7 +97,7 @@ TOEICでは、自己紹介や個人情報を尋ねる場面でよく登場しま
 ## 🤔  single との違いは？
 
 - **married**：結婚している状態を表す
-- **[single](/single)**：独身である状態を表す
+- **[single](/word/single)**：独身である状態を表す
 
 marriedは「既婚」、singleは「未婚・独身」と、婚姻状態が正反対です。
 
@@ -105,14 +105,14 @@ marriedは「既婚」、singleは「未婚・独身」と、婚姻状態が正�
 
 ## 🧩 あわせて覚えたい
 
-- [divorced](/divorced)：離婚している
-- [engaged](/engaged)：婚約している
+- [divorced](/word/divorced)：離婚している
+- [engaged](/word/engaged)：婚約している
 
 ---
 
 ## 📖 できればこれも
 
-- [marry](/marry)：結婚する
-- [wedding](/wedding)：結婚式
+- [marry](/word/marry)：結婚する
+- [wedding](/word/wedding)：結婚式
 
 <!-- cvid: aid42_bid40 -->

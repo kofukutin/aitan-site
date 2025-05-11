@@ -93,7 +93,7 @@ TOEICでは、日常的な習慣や業務の流れを説明する際によく登
 ## 🤔  usually との違いは？
 
 - **always**：例外なく「いつも」「必ず」行われることを表す
-- **[usually](/usually)**：大抵の場合にそうだが、例外もあることを表す
+- **[usually](/word/usually)**：大抵の場合にそうだが、例外もあることを表す
 
 alwaysは100%の頻度、usuallyは80～90%程度の頻度で使われる違いがあります。
 
@@ -101,14 +101,14 @@ alwaysは100%の頻度、usuallyは80～90%程度の頻度で使われる違い�
 
 ## 🧩 あわせて覚えたい
 
-- [constantly](/constantly)：絶えず、しょっちゅう
-- [never](/never)：決して～ない
+- [constantly](/word/constantly)：絶えず、しょっちゅう
+- [never](/word/never)：決して～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [often](/often)：しばしば
-- [sometimes](/sometimes)：ときどき
+- [often](/word/often)：しばしば
+- [sometimes](/word/sometimes)：ときどき
 
 <!-- cvid: aid48_bid37 -->

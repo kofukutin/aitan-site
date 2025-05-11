@@ -97,7 +97,7 @@ TOEICでは、ITやビジネス関連の文脈で「部品」「構成要素」�
 ## 🤔  element との違いは？
 
 - **component**：機械やシステムなど、全体を構成する「部品」「構成要素」に強調点がある
-- **[element](/element)**：より抽象的な「要素」「成分」や、化学の「元素」など幅広い意味で使う
+- **[element](/word/element)**：より抽象的な「要素」「成分」や、化学の「元素」など幅広い意味で使う
 
 componentは物理的・機能的な「部品」に焦点があり、elementは抽象的・基本的な「要素」に使われます。
 
@@ -105,13 +105,13 @@ componentは物理的・機能的な「部品」に焦点があり、elementは�
 
 ## 🧩 あわせて覚えたい
 
-- [module](/module)：モジュール、独立した構成単位
-- [part](/part)：部分、部品
+- [module](/word/module)：モジュール、独立した構成単位
+- [part](/word/part)：部分、部品
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/device)：装置、機器
-- [system](/system)：システム、体系
+- [device](/word/device)：装置、機器
+- [system](/word/system)：システム、体系
 <!-- cvid: aid44_bid21 -->

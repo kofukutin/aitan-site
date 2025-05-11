@@ -97,7 +97,7 @@ TOEICでは契約書や規約、ビジネス文書の中で「除外事項」や
 ## 🤔  exception との違いは？
 
 - **exclusion**：意図的に何かや誰かを排除・除外すること
-- **[exception](/exception)**：一般的な規則やルールから外れる「例外」
+- **[exception](/word/exception)**：一般的な規則やルールから外れる「例外」
 
 exclusionは「締め出し」や「排除」のニュアンスが強く、exceptionは「例外的に認める」や「特別扱い」の意味合いがあります。
 
@@ -105,14 +105,14 @@ exclusionは「締め出し」や「排除」のニュアンスが強く、excep
 
 ## 🧩 あわせて覚えたい
 
-- [ban](/ban)：禁止、締め出し
-- [admission](/admission)：入場、入学、受け入れ
+- [ban](/word/ban)：禁止、締め出し
+- [admission](/word/admission)：入場、入学、受け入れ
 
 ---
 
 ## 📖 できればこれも
 
-- [restriction](/restriction)：制限、限定
-- [inclusion](/inclusion)：包含、含めること
+- [restriction](/word/restriction)：制限、限定
+- [inclusion](/word/inclusion)：包含、含めること
 
 <!-- cvid: aid17_bid48 -->

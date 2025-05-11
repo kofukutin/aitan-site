@@ -97,7 +97,7 @@ TOEICのPart 7で契約書や案内文など、正式な文書の中で「stated
 ## 🤔  mentioned との違いは？
 
 - **stated**：はっきりと明記された、公式に述べられた
-- **[mentioned](/mentioned)**：軽く触れられた、言及された
+- **[mentioned](/word/mentioned)**：軽く触れられた、言及された
 
 「stated」は公式文書や契約などで明確に書かれている場合に使い、「mentioned」は話や文章の中で軽く触れられた場合に使います。
 
@@ -105,14 +105,14 @@ TOEICのPart 7で契約書や案内文など、正式な文書の中で「stated
 
 ## 🧩 あわせて覚えたい
 
-- [declared](/declared)：宣言された、公式に発表された
-- [specified](/specified)：特定された、明確に指定された
+- [declared](/word/declared)：宣言された、公式に発表された
+- [specified](/word/specified)：特定された、明確に指定された
 
 ---
 
 ## 📖 できればこれも
 
-- [written](/written)：書かれた、文書化された
-- [official](/official)：公式の、公的な
+- [written](/word/written)：書かれた、文書化された
+- [official](/word/official)：公式の、公的な
 
 <!-- cvid: aid42_bid41 -->

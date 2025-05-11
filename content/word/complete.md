@@ -98,7 +98,7 @@ TOEICでは「complete the form（用紙に記入する）」や「complete the 
 ## 🤔  finish との違いは？
 
 - **complete**：計画や作業などを「完全に仕上げる」「全て終わらせる」ニュアンス
-- **[finish](/finish)**：単に「終わる」「終える」という意味で、日常的な表現
+- **[finish](/word/finish)**：単に「終わる」「終える」という意味で、日常的な表現
 
 「complete」は「全てを満たして完了させる」フォーマルな響きがあり、「finish」は「終わる」こと自体に重点があります。
 
@@ -106,14 +106,14 @@ TOEICでは「complete the form（用紙に記入する）」や「complete the 
 
 ## 🧩 あわせて覚えたい
 
-- [accomplish](/accomplish)：成し遂げる
-- [incomplete](/incomplete)：不完全な
+- [accomplish](/word/accomplish)：成し遂げる
+- [incomplete](/word/incomplete)：不完全な
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/submit)：提出する
-- [prepare](/prepare)：準備する
+- [submit](/word/submit)：提出する
+- [prepare](/word/prepare)：準備する
 
 <!-- cvid: aid09_bid00 -->

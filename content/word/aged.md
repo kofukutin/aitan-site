@@ -97,7 +97,7 @@ TOEICでは、年齢制限や対象年齢を説明する文脈でよく登場し
 ## 🤔  elderly との違いは？
 
 - **aged**：年齢が～歳の、または年老いた（フォーマルで客観的な表現）
-- **[elderly](/elderly)**：高齢の（やや丁寧・敬意を含む表現）
+- **[elderly](/word/elderly)**：高齢の（やや丁寧・敬意を含む表現）
 
 「aged」は年齢を具体的に示すときや、客観的な説明で使われます。「elderly」は高齢者全般をやや敬意を込めて指すときに使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、年齢制限や対象年齢を説明する文脈でよく登場し
 
 ## 🧩 あわせて覚えたい
 
-- [senior](/senior)：高齢者、年上の人
-- [youth](/youth)：若者、青年
+- [senior](/word/senior)：高齢者、年上の人
+- [youth](/word/youth)：若者、青年
 
 ---
 
 ## 📖 できればこれも
 
-- [retired](/retired)：退職した
-- [experienced](/experienced)：経験豊富な
+- [retired](/word/retired)：退職した
+- [experienced](/word/experienced)：経験豊富な
 
 <!-- cvid: aid11_bid47 -->

@@ -97,7 +97,7 @@ thinkはTOEICの会話パートで頻出し、意見や提案を述べる場面�
 ## 🤔  consider との違いは？
 
 - **think**：直感的・日常的に「思う」「考える」ときに使う
-- **[consider](/consider)**：より慎重に「よく考える」「検討する」ときに使う
+- **[consider](/word/consider)**：より慎重に「よく考える」「検討する」ときに使う
 
 thinkは普段の意見やアイデアを述べるときに使い、considerは選択肢をじっくり検討する場面で使います。
 
@@ -105,14 +105,14 @@ thinkは普段の意見やアイデアを述べるときに使い、considerは�
 
 ## 🧩 あわせて覚えたい
 
-- [believe](/believe)：信じる
-- [guess](/guess)：推測する
+- [believe](/word/believe)：信じる
+- [guess](/word/guess)：推測する
 
 ---
 
 ## 📖 できればこれも
 
-- [know](/know)：知っている
-- [suppose](/suppose)：～だと思う
+- [know](/word/know)：知っている
+- [suppose](/word/suppose)：～だと思う
 
 <!-- cvid: aid24_bid01 -->

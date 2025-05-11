@@ -97,7 +97,7 @@ Please contact the housekeeper if you need extra towels.
 ## 🤔  maid との違いは？
 
 - **housekeeper**：家全体やホテルの部屋の管理・清掃を担当する人。責任範囲が広い。
-- **[maid](/maid)**：主に掃除や簡単な家事をする人。housekeeperより職務範囲が狭いことが多い。
+- **[maid](/word/maid)**：主に掃除や簡単な家事をする人。housekeeperより職務範囲が狭いことが多い。
 
 housekeeperは管理的な役割も含み、maidはより実務的な家事担当という違いがあります。
 
@@ -105,14 +105,14 @@ housekeeperは管理的な役割も含み、maidはより実務的な家事担�
 
 ## 🧩 あわせて覚えたい
 
-- [janitor](/janitor)：（ビルや学校の）用務員、清掃員
-- [butler](/butler)：執事、家令
+- [janitor](/word/janitor)：（ビルや学校の）用務員、清掃員
+- [butler](/word/butler)：執事、家令
 
 ---
 
 ## 📖 できればこれも
 
-- [guest](/guest)：客、宿泊客
-- [receptionist](/receptionist)：受付係
+- [guest](/word/guest)：客、宿泊客
+- [receptionist](/word/receptionist)：受付係
 
 <!-- cvid: aid06_bid05 -->

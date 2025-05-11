@@ -97,7 +97,7 @@ TOEICでは法務やビジネスの文脈で「無罪の」という意味で出
 ## 🤔  naive との違いは？
 
 - **innocent**：罪がない、または悪意がなく純粋であることを表す。
-- **[naive](/naive)**：世間知らずで経験が浅く、だまされやすい純粋さを表す。
+- **[naive](/word/naive)**：世間知らずで経験が浅く、だまされやすい純粋さを表す。
 
 innocentは「悪意や罪がない」ことに重点があり、naiveは「経験不足による純粋さや無知」に重点があります。
 
@@ -105,14 +105,14 @@ innocentは「悪意や罪がない」ことに重点があり、naiveは「経�
 
 ## 🧩 あわせて覚えたい
 
-- [guilty](/guilty)：有罪の、罪を犯した
-- [pure](/pure)：純粋な、混じりけのない
+- [guilty](/word/guilty)：有罪の、罪を犯した
+- [pure](/word/pure)：純粋な、混じりけのない
 
 ---
 
 ## 📖 できればこれも
 
-- [honest](/honest)：正直な
-- [sincere](/sincere)：誠実な
+- [honest](/word/honest)：正直な
+- [sincere](/word/sincere)：誠実な
 
 <!-- cvid: aid06_bid23 -->

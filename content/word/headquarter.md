@@ -98,7 +98,7 @@ TOEICでは主に長文読解パートで、企業や団体の所在地や組織
 ## 🤔  headquarters との違いは？
 
 - **headquarter**：本部を置く（動詞）、ややフォーマルで書き言葉中心
-- **[headquarters](/headquarters)**：本部（名詞）、最も一般的な表現
+- **[headquarters](/word/headquarters)**：本部（名詞）、最も一般的な表現
 
 "headquarter" は動詞で「本部を設ける」という動作を表し、"headquarters" は場所そのものを指す名詞です。日常的には名詞の "headquarters" が圧倒的に使われます。
 
@@ -106,14 +106,14 @@ TOEICでは主に長文読解パートで、企業や団体の所在地や組織
 
 ## 🧩 あわせて覚えたい
 
-- [branch](/branch)：支店、支部
-- [subsidiary](/subsidiary)：子会社
+- [branch](/word/branch)：支店、支部
+- [subsidiary](/word/subsidiary)：子会社
 
 ---
 
 ## 📖 できればこれも
 
-- [organize](/organize)：組織する、まとめる
-- [manage](/manage)：管理する、運営する
+- [organize](/word/organize)：組織する、まとめる
+- [manage](/word/manage)：管理する、運営する
 
 <!-- cvid: aid32_bid44 -->

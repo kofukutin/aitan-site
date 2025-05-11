@@ -97,7 +97,7 @@ TOEICでは会議やビジネスシーンで「問題点や人物を特定する
 ## 🤔  recognizing との違いは？
 
 - **identifying**：特徴や情報から「何かを特定する」「はっきり識別する」こと。
-- **[recognizing](/recognizing)**：見たり聞いたりして「知っていると気づく」「見覚えがある」と認識すること。
+- **[recognizing](/word/recognizing)**：見たり聞いたりして「知っていると気づく」「見覚えがある」と認識すること。
 
 identifyingは「誰・何かを明確に特定する」ニュアンスが強く、recognizingは「知っていると気づく」程度の認識にとどまります。
 
@@ -105,14 +105,14 @@ identifyingは「誰・何かを明確に特定する」ニュアンスが強く
 
 ## 🧩 あわせて覚えたい
 
-- [verify](/verify)：検証する、確認する
-- [distinguish](/distinguish)：区別する、見分ける
+- [verify](/word/verify)：検証する、確認する
+- [distinguish](/word/distinguish)：区別する、見分ける
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/confirm)：確認する、確かめる
-- [determine](/determine)：決定する、判断する
+- [confirm](/word/confirm)：確認する、確かめる
+- [determine](/word/determine)：決定する、判断する
 
 <!-- cvid: aid16_bid01 -->

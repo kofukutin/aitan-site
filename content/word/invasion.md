@@ -97,7 +97,7 @@ TOEICでは、ニュース記事や説明文で「invasion of privacy（プラ�
 ## 🤔  intrusion との違いは？
 
 - **invasion**：力や規模の大きな侵入・侵略、軍事や権利侵害にも使う
-- **[intrusion](/intrusion)**：不法・不適切な立ち入りや干渉、主に個人や小規模な場面で使う
+- **[intrusion](/word/intrusion)**：不法・不適切な立ち入りや干渉、主に個人や小規模な場面で使う
 
 invasionは大規模で強制的な侵入、intrusionはより個人的・控えめな侵入や干渉に使われます。
 
@@ -105,14 +105,14 @@ invasionは大規模で強制的な侵入、intrusionはより個人的・控え
 
 ## 🧩 あわせて覚えたい
 
-- [attack](/attack)：攻撃
-- [occupation](/occupation)：占領
+- [attack](/word/attack)：攻撃
+- [occupation](/word/occupation)：占領
 
 ---
 
 ## 📖 できればこれも
 
-- [conflict](/conflict)：対立、衝突
-- [violation](/violation)：違反、侵害
+- [conflict](/word/conflict)：対立、衝突
+- [violation](/word/violation)：違反、侵害
 
 <!-- cvid: aid42_bid40 -->

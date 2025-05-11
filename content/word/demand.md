@@ -97,7 +97,7 @@ TOEICではビジネスシーンの会話や説明文で「需要」や「要求
 ## 🤔  request との違いは？
 
 - **demand**：強く求める要求や需要。相手に圧力をかけるニュアンスがある。
-- **[request](/request)**：丁寧に頼む、控えめなお願い。
+- **[request](/word/request)**：丁寧に頼む、控えめなお願い。
 
 demandは「当然の権利」として強く求める時に使い、requestは丁寧にお願いする時に使います。
 
@@ -105,14 +105,14 @@ demandは「当然の権利」として強く求める時に使い、requestは�
 
 ## 🧩 あわせて覚えたい
 
-- [supply](/supply)：供給
-- [requirement](/requirement)：必要条件
+- [supply](/word/supply)：供給
+- [requirement](/word/requirement)：必要条件
 
 ---
 
 ## 📖 できればこれも
 
-- [offer](/offer)：申し出
-- [proposal](/proposal)：提案
+- [offer](/word/offer)：申し出
+- [proposal](/word/proposal)：提案
 
 <!-- cvid: aid40_bid09 -->

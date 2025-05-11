@@ -96,7 +96,7 @@ TOEICでは商品の容量や説明文、仕様書などでgallonが登場する
 ## 🤔  liter との違いは？
 
 - **gallon**：主にアメリカやイギリスで使われる液体の体積単位（約3.8Lまたは4.5L）
-- **[liter](/liter)**：国際的に使われるメートル法の体積単位（1L）
+- **[liter](/word/liter)**：国際的に使われるメートル法の体積単位（1L）
 
 gallonはヤード・ポンド法の単位で、アメリカやイギリスで主に使われますが、literは世界的に標準のメートル法単位です。
 
@@ -104,14 +104,14 @@ gallonはヤード・ポンド法の単位で、アメリカやイギリスで�
 
 ## 🧩 あわせて覚えたい
 
-- [quart](/quart)：クォート（gallonの1/4の体積単位）
-- [container](/container)：容器
+- [quart](/word/quart)：クォート（gallonの1/4の体積単位）
+- [container](/word/container)：容器
 
 ---
 
 ## 📖 できればこれも
 
-- [pound](/pound)：ポンド（重さの単位）
-- [dozen](/dozen)：ダース（12個の単位）
+- [pound](/word/pound)：ポンド（重さの単位）
+- [dozen](/word/dozen)：ダース（12個の単位）
 
 <!-- cvid: aid07_bid15 -->

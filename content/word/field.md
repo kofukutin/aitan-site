@@ -97,7 +97,7 @@ TOEICでは「専門分野」「現場」「フィールドワーク」などの
 ## 🤔  area との違いは？
 
 - **field**：専門分野や活動領域、または野原や現場を指す
-- **[area](/area)**：物理的な「区域」「範囲」や抽象的な「領域」を幅広く指す
+- **[area](/word/area)**：物理的な「区域」「範囲」や抽象的な「領域」を幅広く指す
 
 「field」は専門性や活動の現場を強調し、「area」は単に場所や範囲を表すときに使います。
 
@@ -105,14 +105,14 @@ TOEICでは「専門分野」「現場」「フィールドワーク」などの
 
 ## 🧩 あわせて覚えたい
 
-- [department](/department)：部門、部署
-- [sector](/sector)：（経済などの）部門、分野
+- [department](/word/department)：部門、部署
+- [sector](/word/sector)：（経済などの）部門、分野
 
 ---
 
 ## 📖 できればこれも
 
-- [project](/project)：プロジェクト、計画
-- [topic](/topic)：話題、テーマ
+- [project](/word/project)：プロジェクト、計画
+- [topic](/word/topic)：話題、テーマ
 
 <!-- cvid: aid24_bid10 -->

@@ -97,7 +97,7 @@ TOEICでは会議やイベントの主催、またはIT関連の文脈で「host
 ## 🤔  accommodation との違いは？
 
 - **hosting**：イベントやサービスの「主催」「提供」を意味する。
-- **[accommodation](/accommodation)**：宿泊施設や滞在場所を指す。
+- **[accommodation](/word/accommodation)**：宿泊施設や滞在場所を指す。
 
 hostingは「何かを主催・提供する行為」、accommodationは「宿泊場所」など物理的な場所を指す点が異なります。
 
@@ -105,14 +105,14 @@ hostingは「何かを主催・提供する行為」、accommodationは「宿泊
 
 ## 🧩 あわせて覚えたい
 
-- [server](/server)：サーバー、情報を提供するコンピュータ
-- [arrangement](/arrangement)：手配、準備
+- [server](/word/server)：サーバー、情報を提供するコンピュータ
+- [arrangement](/word/arrangement)：手配、準備
 
 ---
 
 ## 📖 できればこれも
 
-- [host](/host)：主催する、もてなす
-- [service](/service)：サービス、業務
+- [host](/word/host)：主催する、もてなす
+- [service](/word/service)：サービス、業務
 
 <!-- cvid: aid40_bid32 -->

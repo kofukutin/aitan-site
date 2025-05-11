@@ -98,7 +98,7 @@ TOEICでは主に新聞記事や法務関連の長文で登場し、事件や犯
 ## 🤔  kill との違いは？
 
 - **murder**：計画的・違法な殺人を指し、重い犯罪のニュアンスが強い
-- **[kill](/kill)**：殺す行為全般を指し、意図や違法性を問わない
+- **[kill](/word/kill)**：殺す行為全般を指し、意図や違法性を問わない
 
 「murder」は法律的・道徳的に重い罪を強調し、「kill」は広く「殺す」行為全般に使われます。
 
@@ -106,14 +106,14 @@ TOEICでは主に新聞記事や法務関連の長文で登場し、事件や犯
 
 ## 🧩 あわせて覚えたい
 
-- [crime](/crime)：犯罪
-- [assault](/assault)：暴行
+- [crime](/word/crime)：犯罪
+- [assault](/word/assault)：暴行
 
 ---
 
 ## 📖 できればこれも
 
-- [theft](/theft)：窃盗
-- [robbery](/robbery)：強盗
+- [theft](/word/theft)：窃盗
+- [robbery](/word/robbery)：強盗
 
 <!-- cvid: aid16_bid11 -->

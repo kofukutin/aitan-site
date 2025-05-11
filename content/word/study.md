@@ -98,7 +98,7 @@ TOEICでは「study」は基本的な語彙として、動詞・名詞ともに�
 ## 🤔  learn との違いは？
 
 - **study**：意識的に勉強する、学習する
-- **[learn](/learn)**：知識や技能を身につける、習得する
+- **[learn](/word/learn)**：知識や技能を身につける、習得する
 
 「study」は主に「勉強する行為」に焦点があり、「learn」は「身につける結果」に焦点があります。
 
@@ -106,14 +106,14 @@ TOEICでは「study」は基本的な語彙として、動詞・名詞ともに�
 
 ## 🧩 あわせて覚えたい
 
-- [review](/review)：復習する、見直す
-- [research](/research)：研究する、調査する
+- [review](/word/review)：復習する、見直す
+- [research](/word/research)：研究する、調査する
 
 ---
 
 ## 📖 できればこれも
 
-- [practice](/practice)：練習する
-- [prepare](/prepare)：準備する
+- [practice](/word/practice)：練習する
+- [prepare](/word/prepare)：準備する
 
 <!-- cvid: aid47_bid16 -->

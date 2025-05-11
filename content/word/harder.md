@@ -97,7 +97,7 @@ You need to work harder to meet the deadline.
 ## 🤔  more difficult との違いは？
 
 - **harder**：より難しい、またはより一生懸命な（カジュアルで幅広い場面で使う）
-- **[more difficult](/more_difficult)**：より困難な（ややフォーマルで「難しさ」に特化）
+- **[more difficult](/word/more_difficult)**：より困難な（ややフォーマルで「難しさ」に特化）
 
 harderは「難しさ」だけでなく「努力の度合い」にも使えますが、more difficultは「難しさ」に限定され、ややフォーマルな響きがあります。
 
@@ -105,14 +105,14 @@ harderは「難しさ」だけでなく「努力の度合い」にも使えま�
 
 ## 🧩 あわせて覚えたい
 
-- [tough](/tough)：骨の折れる、手ごわい
-- [easy](/easy)：簡単な
+- [tough](/word/tough)：骨の折れる、手ごわい
+- [easy](/word/easy)：簡単な
 
 ---
 
 ## 📖 できればこれも
 
-- [hard](/hard)：難しい、一生懸命な
-- [easier](/easier)：より簡単な
+- [hard](/word/hard)：難しい、一生懸命な
+- [easier](/word/easier)：より簡単な
 
 <!-- cvid: aid19_bid19 -->

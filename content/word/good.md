@@ -97,7 +97,7 @@ TOEICでは形容詞として「よい」「適切な」などの意味で頻出
 ## 🤔  nice との違いは？
 
 - **good**：質や能力が「よい」「優れている」と評価する言葉
-- **[nice](/nice)**：感じがよい、親切、丁寧など「好感」を表す言葉
+- **[nice](/word/nice)**：感じがよい、親切、丁寧など「好感」を表す言葉
 
 goodは客観的な「質の高さ」に使い、niceは「感じのよさ」や「親しみやすさ」に使います。
 
@@ -105,14 +105,14 @@ goodは客観的な「質の高さ」に使い、niceは「感じのよさ」や
 
 ## 🧩 あわせて覚えたい
 
-- [bad](/bad)：悪い
-- [excellent](/excellent)：非常に優れた
+- [bad](/word/bad)：悪い
+- [excellent](/word/excellent)：非常に優れた
 
 ---
 
 ## 📖 できればこれも
 
-- [great](/great)：素晴らしい
-- [well](/well)：上手に
+- [great](/word/great)：素晴らしい
+- [well](/word/well)：上手に
 
 <!-- cvid: aid20_bid26 -->

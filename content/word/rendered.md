@@ -97,7 +97,7 @@ TOEICでは、サービスやサポートが「提供された」「実施され
 ## 🤔  provided との違いは？
 
 - **rendered**：与える・表現する・描写する（特にサービスや情報、画像などを形にして提供するニュアンス）
-- **[provided](/provided)**：単に「提供する」「与える」（物やサービスを供給する一般的な表現）
+- **[provided](/word/provided)**：単に「提供する」「与える」（物やサービスを供給する一般的な表現）
 
 renderedは「形にして与える」「表現する」ニュアンスが強く、providedは「単に供給する」意味で使われます。
 
@@ -105,14 +105,14 @@ renderedは「形にして与える」「表現する」ニュアンスが強く
 
 ## 🧩 あわせて覚えたい
 
-- [deliver](/deliver)：配達する、届ける
-- [depict](/depict)：描写する、描く
+- [deliver](/word/deliver)：配達する、届ける
+- [depict](/word/depict)：描写する、描く
 
 ---
 
 ## 📖 できればこれも
 
-- [generate](/generate)：生み出す、発生させる
-- [supply](/supply)：供給する、提供する
+- [generate](/word/generate)：生み出す、発生させる
+- [supply](/word/supply)：供給する、提供する
 
 <!-- cvid: aid47_bid39 -->

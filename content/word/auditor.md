@@ -97,7 +97,7 @@ TOEICでは、監査報告や会計関連の文書、ビジネスメールなど
 ## 🤔  inspector との違いは？
 
 - **auditor**：会計や業務記録の正確性・適正性を調査する専門職
-- **[inspector](/inspector)**：現場や施設などを検査・点検する人
+- **[inspector](/word/inspector)**：現場や施設などを検査・点検する人
 
 auditorは主に書類や会計記録を調べるのに対し、inspectorは現場や設備の安全・状態を直接チェックする点が異なります。
 
@@ -105,14 +105,14 @@ auditorは主に書類や会計記録を調べるのに対し、inspectorは現�
 
 ## 🧩 あわせて覚えたい
 
-- [accountant](/accountant)：会計士、経理担当者
-- [reviewer](/reviewer)：審査者、評価者
+- [accountant](/word/accountant)：会計士、経理担当者
+- [reviewer](/word/reviewer)：審査者、評価者
 
 ---
 
 ## 📖 できればこれも
 
-- [audit](/audit)：監査する、監査
-- [committee](/committee)：委員会
+- [audit](/word/audit)：監査する、監査
+- [committee](/word/committee)：委員会
 
 <!-- cvid: aid49_bid19 -->

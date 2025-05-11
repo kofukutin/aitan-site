@@ -97,7 +97,7 @@ TOEICではITやビジネスの説明文で「自動的に処理される」な�
 ## 🤔  manually との違いは？
 
 - **automatically**：人の手を使わずに自動的に行われること
-- **[manually](/manually)**：人の手で手動で行うこと
+- **[manually](/word/manually)**：人の手で手動で行うこと
 
 automaticallyは「機械やシステムが自動で」、manuallyは「人が手作業で」という違いがあります。
 
@@ -105,14 +105,14 @@ automaticallyは「機械やシステムが自動で」、manuallyは「人が�
 
 ## 🧩 あわせて覚えたい
 
-- [mechanically](/mechanically)：機械的に
-- [instantly](/instantly)：即座に
+- [mechanically](/word/mechanically)：機械的に
+- [instantly](/word/instantly)：即座に
 
 ---
 
 ## 📖 できればこれも
 
-- [function](/function)：機能
-- [process](/process)：処理、過程
+- [function](/word/function)：機能
+- [process](/word/process)：処理、過程
 
 <!-- cvid: aid08_bid24 -->

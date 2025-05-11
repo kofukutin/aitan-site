@@ -97,7 +97,7 @@ TOEICでは「財産」「幸運」などの意味で名詞として出題され
 ## 🤔  luck との違いは？
 
 - **fortune**：運や幸運、または財産・大金を指すフォーマルな語。
-- **[luck](/luck)**：日常的な「運」や「幸運」を指し、カジュアルな場面でよく使う。
+- **[luck](/word/luck)**：日常的な「運」や「幸運」を指し、カジュアルな場面でよく使う。
 
 fortuneは「財産」や「大きな幸運」など幅広い意味で使われ、luckは日常的な「運の良さ」に限定されます。
 
@@ -105,14 +105,14 @@ fortuneは「財産」や「大きな幸運」など幅広い意味で使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [wealth](/wealth)：富、財産
-- [destiny](/destiny)：運命
+- [wealth](/word/wealth)：富、財産
+- [destiny](/word/destiny)：運命
 
 ---
 
 ## 📖 できればこれも
 
-- [success](/success)：成功
-- [opportunity](/opportunity)：機会
+- [success](/word/success)：成功
+- [opportunity](/word/opportunity)：機会
 
 <!-- cvid: aid06_bid22 -->

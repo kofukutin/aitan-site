@@ -93,7 +93,7 @@ TOEICでは会話や予定調整の場面で「sometime」が使われること�
 ## 🤔  someday との違いは？
 
 - **sometime**：未来や過去の「ある時点」をぼんやり指す。予定や提案で使われやすい。
-- **[someday](/someday)**：未来の「いつか」を指し、より漠然とした将来の希望や夢に使う。
+- **[someday](/word/someday)**：未来の「いつか」を指し、より漠然とした将来の希望や夢に使う。
 
 **sometime**は「来週のどこか」など比較的近い時期や具体的な期間内の「ある時」に使い、**someday**は「いつか（将来）」という遠い未来のニュアンスで使い分けます。
 
@@ -101,14 +101,14 @@ TOEICでは会話や予定調整の場面で「sometime」が使われること�
 
 ## 🧩 あわせて覚えたい
 
-- [occasionally](/occasionally)：ときどき、時折
-- [eventually](/eventually)：最終的に、やがて
+- [occasionally](/word/occasionally)：ときどき、時折
+- [eventually](/word/eventually)：最終的に、やがて
 
 ---
 
 ## 📖 できればこれも
 
-- [sometimes](/sometimes)：ときどき
-- [soon](/soon)：まもなく、すぐに
+- [sometimes](/word/sometimes)：ときどき
+- [soon](/word/soon)：まもなく、すぐに
 
 <!-- cvid: aid30_bid07 -->

@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やニュース記事で、サービスの中
 ## 🤔  interruption との違いは？
 
 - **disruption**：通常の流れや秩序が大きく妨げられたり、混乱・混沌が生じること
-- **[interruption](/interruption)**：一時的に中断されること、短い妨げ
+- **[interruption](/word/interruption)**：一時的に中断されること、短い妨げ
 
 disruptionは「大きな混乱」や「根本的な変化」を指し、interruptionは「一時的な中断」や「小さな妨げ」を意味します。
 
@@ -105,14 +105,14 @@ disruptionは「大きな混乱」や「根本的な変化」を指し、interru
 
 ## 🧩 あわせて覚えたい
 
-- [disturbance](/disturbance)：騒ぎ、妨害
-- [breakdown](/breakdown)：故障、崩壊
+- [disturbance](/word/disturbance)：騒ぎ、妨害
+- [breakdown](/word/breakdown)：故障、崩壊
 
 ---
 
 ## 📖 できればこれも
 
-- [obstacle](/obstacle)：障害、妨げ
-- [delay](/delay)：遅延、遅れ
+- [obstacle](/word/obstacle)：障害、妨げ
+- [delay](/word/delay)：遅延、遅れ
 
 <!-- cvid: aid19_bid23 -->

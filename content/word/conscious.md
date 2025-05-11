@@ -97,7 +97,7 @@ TOEICでは、形容詞として「意識している」「自覚的な」とい
 ## 🤔  aware との違いは？
 
 - **conscious**：自分の意識や注意を向けている状態、特に「意図的に気づいている」ニュアンスが強い
-- **[aware](/aware)**：何かに気づいている、知っているという広い意味で使われる
+- **[aware](/word/aware)**：何かに気づいている、知っているという広い意味で使われる
 
 「conscious」は自分の意志や注意を強く向けている場合に使い、「aware」は単に知っている・気づいている場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞として「意識している」「自覚的な」とい
 
 ## 🧩 あわせて覚えたい
 
-- [unconscious](/unconscious)：無意識の、意識を失った
-- [mindful](/mindful)：注意深い、意識している
+- [unconscious](/word/unconscious)：無意識の、意識を失った
+- [mindful](/word/mindful)：注意深い、意識している
 
 ---
 
 ## 📖 できればこれも
 
-- [concentrate](/concentrate)：集中する
-- [sensitive](/sensitive)：敏感な、繊細な
+- [concentrate](/word/concentrate)：集中する
+- [sensitive](/word/sensitive)：敏感な、繊細な
 
 <!-- cvid: aid00_bid10 -->

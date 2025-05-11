@@ -97,7 +97,7 @@ TOEICでは環境問題や科学技術に関する長文で「warming」が登�
 ## 🤔  heating との違いは？
 
 - **warming**：一般的に温度が上がることや、地球温暖化など広い意味で使う
-- **[heating](/heating)**：主に部屋や建物を暖房すること、暖房設備を指す
+- **[heating](/word/heating)**：主に部屋や建物を暖房すること、暖房設備を指す
 
 warmingは自然現象や全体的な温度上昇に使い、heatingは人工的な暖房や設備に使われます。
 
@@ -105,14 +105,14 @@ warmingは自然現象や全体的な温度上昇に使い、heatingは人工的
 
 ## 🧩 あわせて覚えたい
 
-- [cooling](/cooling)：冷却、冷やすこと
-- [temperature](/temperature)：温度
+- [cooling](/word/cooling)：冷却、冷やすこと
+- [temperature](/word/temperature)：温度
 
 ---
 
 ## 📖 できればこれも
 
-- [climate](/climate)：気候
-- [pollution](/pollution)：汚染
+- [climate](/word/climate)：気候
+- [pollution](/word/pollution)：汚染
 
 <!-- cvid: aid44_bid27 -->

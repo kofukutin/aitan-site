@@ -97,7 +97,7 @@ TOEICでは主に長文読解パートで、文章や登場人物の特徴説明
 ## 🤔  description との違いは？
 
 - **characterization**：人物や物事の性格・特徴を詳しく描写すること
-- **[description](/description)**：物事や状況を説明・描写すること全般
+- **[description](/word/description)**：物事や状況を説明・描写すること全般
 
 characterizationは特に「性格や特徴」に焦点を当てて描写する場合に使い、descriptionはより広く一般的な説明や描写に使います。
 
@@ -105,14 +105,14 @@ characterizationは特に「性格や特徴」に焦点を当てて描写する�
 
 ## 🧩 あわせて覚えたい
 
-- [portrayal](/portrayal)：描写、表現
-- [depiction](/depiction)：描写、描画
+- [portrayal](/word/portrayal)：描写、表現
+- [depiction](/word/depiction)：描写、描画
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/analysis)：分析
-- [interpretation](/interpretation)：解釈
+- [analysis](/word/analysis)：分析
+- [interpretation](/word/interpretation)：解釈
 
 <!-- cvid: aid06_bid46 -->

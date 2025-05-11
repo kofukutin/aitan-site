@@ -97,7 +97,7 @@ jointは「共同の」「接合部」などの意味で、ビジネスや技術
 ## 🤔  connection との違いは？
 
 - **joint**：2つ以上のものが物理的・組織的に「つながる部分」や「共同のもの」を指す。
-- **[connection](/connection)**：物事や人の「つながり」や「関係性」を広く表す。
+- **[connection](/word/connection)**：物事や人の「つながり」や「関係性」を広く表す。
 
 jointは「接合部」や「共同のもの」といった具体的な結びつきを表し、connectionは抽象的な「関係」や「つながり」を指します。
 
@@ -105,14 +105,14 @@ jointは「接合部」や「共同のもの」といった具体的な結びつ
 
 ## 🧩 あわせて覚えたい
 
-- [hinge](/hinge)：蝶番、回転軸
-- [collaboration](/collaboration)：協力、共同作業
+- [hinge](/word/hinge)：蝶番、回転軸
+- [collaboration](/word/collaboration)：協力、共同作業
 
 ---
 
 ## 📖 できればこれも
 
-- [link](/link)：つなぐもの、関連
-- [combine](/combine)：結合する、組み合わせる
+- [link](/word/link)：つなぐもの、関連
+- [combine](/word/combine)：結合する、組み合わせる
 
 <!-- cvid: aid03_bid29 -->

@@ -96,7 +96,7 @@ TOEICではITやテクノロジー関連の記事やメールで見かけるこ�
 ## 🤔  nerd との違いは？
 
 - **geek**：特定分野への情熱や知識を持つ人。最近は肯定的な意味合いも強い。
-- **[nerd](/nerd)**：学問や知識に没頭しがちで、社交性が低い印象を持たれることが多い。
+- **[nerd](/word/nerd)**：学問や知識に没頭しがちで、社交性が低い印象を持たれることが多い。
 
 geekは「好きなことに夢中な人」、nerdは「勉強や知識に偏った人」というイメージの違いがあります。
 
@@ -104,14 +104,14 @@ geekは「好きなことに夢中な人」、nerdは「勉強や知識に偏っ
 
 ## 🧩 あわせて覚えたい
 
-- [enthusiast](/enthusiast)：熱心な愛好家
-- [expert](/expert)：専門家
+- [enthusiast](/word/enthusiast)：熱心な愛好家
+- [expert](/word/expert)：専門家
 
 ---
 
 ## 📖 できればこれも
 
-- [trend](/trend)：流行、傾向
-- [skill](/skill)：技能、スキル
+- [trend](/word/trend)：流行、傾向
+- [skill](/word/skill)：技能、スキル
 
 <!-- cvid: aid23_bid29 -->

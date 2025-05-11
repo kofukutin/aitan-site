@@ -97,7 +97,7 @@ TOEICでは、品質管理や技術関連の文脈で「measurement」が名詞�
 ## 🤔  dimension との違いは？
 
 - **measurement**：測定する行為やその結果、または具体的な数値を指す
-- **[dimension](/dimension)**：物体の「縦・横・高さ」などの物理的な側面や次元を指す
+- **[dimension](/word/dimension)**：物体の「縦・横・高さ」などの物理的な側面や次元を指す
 
 measurementは「測ること」や「測った値」に焦点があり、dimensionは「長さ・幅・高さ」などの物理的な側面そのものを表します。
 
@@ -105,14 +105,14 @@ measurementは「測ること」や「測った値」に焦点があり、dimens
 
 ## 🧩 あわせて覚えたい
 
-- [evaluation](/evaluation)：評価、査定
-- [estimate](/estimate)：見積もり、推定
+- [evaluation](/word/evaluation)：評価、査定
+- [estimate](/word/estimate)：見積もり、推定
 
 ---
 
 ## 📖 できればこれも
 
-- [length](/length)：長さ
-- [amount](/amount)：量
+- [length](/word/length)：長さ
+- [amount](/word/amount)：量
 
 <!-- cvid: aid28_bid45 -->

@@ -97,7 +97,7 @@ TOEICでは会議やイベントの準備、業務の整理など、ビジネス
 ## 🤔  arranging との違いは？
 
 - **organizing**：全体を秩序立ててまとめたり、計画的に管理すること
-- **[arranging](/arranging)**：物や予定などを並べたり、配置したりすること
+- **[arranging](/word/arranging)**：物や予定などを並べたり、配置したりすること
 
 organizingは「全体を管理・準備する」ニュアンスが強く、arrangingは「順序や位置を決めて並べる」イメージです。
 
@@ -105,14 +105,14 @@ organizingは「全体を管理・準備する」ニュアンスが強く、arra
 
 ## 🧩 あわせて覚えたい
 
-- [manage](/manage)：管理する、運営する
-- [plan](/plan)：計画する
+- [manage](/word/manage)：管理する、運営する
+- [plan](/word/plan)：計画する
 
 ---
 
 ## 📖 できればこれも
 
-- [prepare](/prepare)：準備する
-- [schedule](/schedule)：予定を立てる
+- [prepare](/word/prepare)：準備する
+- [schedule](/word/schedule)：予定を立てる
 
 <!-- cvid: aid29_bid35 -->

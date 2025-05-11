@@ -98,7 +98,7 @@ TOEICでは「classic design（定番デザイン）」や「a classic mistake�
 ## 🤔  classical との違いは？
 
 - **classic**：時代を超えて評価される、典型的な、名作の
-- **[classical](/classical)**：古代ギリシャ・ローマやクラシック音楽など「古典的な」ものに限定
+- **[classical](/word/classical)**：古代ギリシャ・ローマやクラシック音楽など「古典的な」ものに限定
 
 classicは「定番」「名作」「模範的」といった広い意味で使われますが、classicalは「古典時代」「クラシック音楽」など歴史的・伝統的なものに限定されます。
 
@@ -106,14 +106,14 @@ classicは「定番」「名作」「模範的」といった広い意味で使�
 
 ## 🧩 あわせて覚えたい
 
-- [traditional](/traditional)：伝統的な
-- [modern](/modern)：現代的な
+- [traditional](/word/traditional)：伝統的な
+- [modern](/word/modern)：現代的な
 
 ---
 
 ## 📖 できればこれも
 
-- [typical](/typical)：典型的な
-- [unique](/unique)：唯一無二の
+- [typical](/word/typical)：典型的な
+- [unique](/word/unique)：唯一無二の
 
 <!-- cvid: aid39_bid10 -->

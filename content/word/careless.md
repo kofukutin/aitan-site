@@ -97,7 +97,7 @@ TOEICでは、形容詞の語彙問題や、注意・不注意に関する文脈
 ## 🤔  negligent との違いは？
 
 - **careless**：うっかりして注意が足りない、軽い不注意
-- **[negligent](/negligent)**：義務や責任を怠る重大な不注意
+- **[negligent](/word/negligent)**：義務や責任を怠る重大な不注意
 
 「careless」は日常的なうっかりや軽いミスに使い、「negligent」は職務怠慢など法的・社会的責任を問われる重大な不注意に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞の語彙問題や、注意・不注意に関する文脈
 
 ## 🧩 あわせて覚えたい
 
-- [attentive](/attentive)：注意深い
-- [thoughtless](/thoughtless)：思慮のない、配慮に欠ける
+- [attentive](/word/attentive)：注意深い
+- [thoughtless](/word/thoughtless)：思慮のない、配慮に欠ける
 
 ---
 
 ## 📖 できればこれも
 
-- [careful](/careful)：注意深い
-- [efficient](/efficient)：効率的な
+- [careful](/word/careful)：注意深い
+- [efficient](/word/efficient)：効率的な
 
 <!-- cvid: aid42_bid18 -->

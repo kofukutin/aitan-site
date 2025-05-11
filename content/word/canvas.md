@@ -98,7 +98,7 @@ TOEICでは、芸術や教育、素材に関する文脈で名詞として出題
 ## 🤔  cloth との違いは？
 
 - **canvas**：絵画やテントなどに使う厚手の布、特に「キャンバス地」
-- **[cloth](/cloth)**：一般的な布全般、素材としての「布」
+- **[cloth](/word/cloth)**：一般的な布全般、素材としての「布」
 
 canvasは特定の用途（絵画・帆布など）に使われる厚手の布を指し、clothは日常的な布全般を指します。
 
@@ -106,14 +106,14 @@ canvasは特定の用途（絵画・帆布など）に使われる厚手の布�
 
 ## 🧩 あわせて覚えたい
 
-- [painting](/painting)：絵画、絵
-- [tent](/tent)：テント
+- [painting](/word/painting)：絵画、絵
+- [tent](/word/tent)：テント
 
 ---
 
 ## 📖 できればこれも
 
-- [brush](/brush)：筆、ブラシ
-- [fabric](/fabric)：織物、生地
+- [brush](/word/brush)：筆、ブラシ
+- [fabric](/word/fabric)：織物、生地
 
 <!-- cvid: aid18_bid19 -->

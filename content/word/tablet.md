@@ -99,7 +99,7 @@ TOEICでは、IT機器や医薬品に関する説明文や広告で登場する�
 ## 🤔  pill との違いは？
 
 - **tablet**：錠剤（平たい形）やタブレット端末を指す
-- **[pill](/pill)**：一般的な「丸薬」「錠剤」を指す
+- **[pill](/word/pill)**：一般的な「丸薬」「錠剤」を指す
 
 tabletは「平たい錠剤」や「電子端末」を指し、pillは「丸い錠剤」など薬全般に使われます。IT機器の意味はtabletのみです。
 
@@ -107,14 +107,14 @@ tabletは「平たい錠剤」や「電子端末」を指し、pillは「丸い�
 
 ## 🧩 あわせて覚えたい
 
-- [device](/device)：装置、機器
-- [capsule](/capsule)：カプセル（薬の形状）
+- [device](/word/device)：装置、機器
+- [capsule](/word/capsule)：カプセル（薬の形状）
 
 ---
 
 ## 📖 できればこれも
 
-- [laptop](/laptop)：ノートパソコン
-- [monitor](/monitor)：モニター、画面
+- [laptop](/word/laptop)：ノートパソコン
+- [monitor](/word/monitor)：モニター、画面
 
 <!-- cvid: aid19_bid10 -->

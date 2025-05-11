@@ -97,7 +97,7 @@ The pastor will attend the community meeting next week.
 ## 🤔  priest との違いは？
 
 - **pastor**：プロテスタント教会の牧師や信者の指導者を指す
-- **[priest](/priest)**：カトリックや正教会などで使われる「司祭」「神父」
+- **[priest](/word/priest)**：カトリックや正教会などで使われる「司祭」「神父」
 
 pastorは主にプロテスタント系、priestはカトリックや正教会などで使われ、宗派によって役割や呼び方が異なります。
 
@@ -105,14 +105,14 @@ pastorは主にプロテスタント系、priestはカトリックや正教会�
 
 ## 🧩 あわせて覚えたい
 
-- [minister](/minister)：（プロテスタントの）聖職者、牧師
-- [clergy](/clergy)：聖職者（全体を指す総称）
+- [minister](/word/minister)：（プロテスタントの）聖職者、牧師
+- [clergy](/word/clergy)：聖職者（全体を指す総称）
 
 ---
 
 ## 📖 できればこれも
 
-- [sermon](/sermon)：説教
-- [worship](/worship)：礼拝
+- [sermon](/word/sermon)：説教
+- [worship](/word/worship)：礼拝
 
 <!-- cvid: aid06_bid12 -->

@@ -98,7 +98,7 @@ TOEICでは会話や説明文で「服装」や「着る」という意味で出
 ## 🤔  wear との違いは？
 
 - **dress**：服を着る・着せる（動作や行為に注目）
-- **[wear](/wear)**：服を身につけている状態
+- **[wear](/word/wear)**：服を身につけている状態
 
 dressは「着る」という動作や過程を表し、wearは「着ている」という状態を表します。たとえば「着替える」はdress、「着ている」はwearを使います。
 
@@ -106,14 +106,14 @@ dressは「着る」という動作や過程を表し、wearは「着ている�
 
 ## 🧩 あわせて覚えたい
 
-- [undress](/undress)：服を脱ぐ
-- [attire](/attire)：服装、装い
+- [undress](/word/undress)：服を脱ぐ
+- [attire](/word/attire)：服装、装い
 
 ---
 
 ## 📖 できればこれも
 
-- [put on](/put_on)：身につける、着る
-- [clothe](/clothe)：（人に）服を着せる
+- [put on](/word/put_on)：身につける、着る
+- [clothe](/word/clothe)：（人に）服を着せる
 
 <!-- cvid: aid12_bid26 -->

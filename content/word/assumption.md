@@ -97,7 +97,7 @@ assumptionはTOEICの文法・語彙問題で「仮定」「想定」という�
 ## 🤔  hypothesis との違いは？
 
 - **assumption**：証拠がなくても「当然そうだろう」と前提にすること
-- **[hypothesis](/hypothesis)**：検証や実験のために立てる「仮説」
+- **[hypothesis](/word/hypothesis)**：検証や実験のために立てる「仮説」
 
 assumptionは「証拠なしの前提」、hypothesisは「検証を前提とした仮説」として使い分けます。
 
@@ -105,14 +105,14 @@ assumptionは「証拠なしの前提」、hypothesisは「検証を前提とし
 
 ## 🧩 あわせて覚えたい
 
-- [presumption](/presumption)：推定、仮定（やや根拠が弱い）
-- [conclusion](/conclusion)：結論
+- [presumption](/word/presumption)：推定、仮定（やや根拠が弱い）
+- [conclusion](/word/conclusion)：結論
 
 ---
 
 ## 📖 できればこれも
 
-- [proposal](/proposal)：提案
-- [suggestion](/suggestion)：提案、助言
+- [proposal](/word/proposal)：提案
+- [suggestion](/word/suggestion)：提案、助言
 
 <!-- cvid: aid16_bid48 -->

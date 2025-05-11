@@ -97,7 +97,7 @@ ITやビジネス文書の中で「複製する」という意味で出題され
 ## 🤔  copy との違いは？
 
 - **duplicate**：まったく同じものを正確に複製する（特にフォーマル・技術的な場面で使用）
-- **[copy](/copy)**：一般的に「写す」「コピーする」。内容が同じなら多少の違いも許容される
+- **[copy](/word/copy)**：一般的に「写す」「コピーする」。内容が同じなら多少の違いも許容される
 
 duplicateは「完全な複製」に重点があり、copyは「写し」全般に使えます。
 
@@ -105,14 +105,14 @@ duplicateは「完全な複製」に重点があり、copyは「写し」全般�
 
 ## 🧩 あわせて覚えたい
 
-- [replicate](/replicate)：（実験・手順などを）再現する、複製する
-- [original](/original)：原本、オリジナル
+- [replicate](/word/replicate)：（実験・手順などを）再現する、複製する
+- [original](/word/original)：原本、オリジナル
 
 ---
 
 ## 📖 できればこれも
 
-- [transfer](/transfer)：移す、転送する
-- [distribute](/distribute)：配布する、分配する
+- [transfer](/word/transfer)：移す、転送する
+- [distribute](/word/distribute)：配布する、分配する
 
 <!-- cvid: aid27_bid21 -->

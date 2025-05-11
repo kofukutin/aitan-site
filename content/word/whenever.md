@@ -93,7 +93,7 @@ TOEICでは会話や指示文で「いつでも～」「～するたびに」と
 ## 🤔  when との違いは？
 
 - **whenever**：いつでも、どんな時でも（回数やタイミングが限定されない）
-- **[when](/when)**：特定の時、または一度きりのタイミング
+- **[when](/word/when)**：特定の時、または一度きりのタイミング
 
 wheneverは「何度でも・どんな時でも」という幅広いタイミングを表し、whenは「特定の時」を指します。
 
@@ -101,14 +101,14 @@ wheneverは「何度でも・どんな時でも」という幅広いタイミン
 
 ## 🧩 あわせて覚えたい
 
-- [wherever](/wherever)：どこでも
-- [however](/however)：どのようにでも
+- [wherever](/word/wherever)：どこでも
+- [however](/word/however)：どのようにでも
 
 ---
 
 ## 📖 できればこれも
 
-- [unless](/unless)：～でない限り
-- [although](/although)：～だけれども
+- [unless](/word/unless)：～でない限り
+- [although](/word/although)：～だけれども
 
 <!-- cvid: aid06_bid48 -->

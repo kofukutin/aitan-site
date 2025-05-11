@@ -97,7 +97,7 @@ Our company has a branch in northern Europe.
 ## 🤔  northern との違いは？
 
 - **northern**：北の、北部の（広い範囲や方向を指す形容詞）
-- **[northernmost](/northernmost)**：最北の（範囲の中で一番北に位置することを強調）
+- **[northernmost](/word/northernmost)**：最北の（範囲の中で一番北に位置することを強調）
 
 northernは単に「北の」という意味ですが、northernmostは「最も北にある」という最上級の意味で使い分けます。
 
@@ -105,14 +105,14 @@ northernは単に「北の」という意味ですが、northernmostは「最も
 
 ## 🧩 あわせて覚えたい
 
-- [southern](/southern)：南の、南部の
-- [northerly](/northerly)：北寄りの、北方の
+- [southern](/word/southern)：南の、南部の
+- [northerly](/word/northerly)：北寄りの、北方の
 
 ---
 
 ## 📖 できればこれも
 
-- [eastern](/eastern)：東の、東部の
-- [southern](/southern)：南の、南部の
+- [eastern](/word/eastern)：東の、東部の
+- [southern](/word/southern)：南の、南部の
 
 <!-- cvid: aid07_bid41 -->

@@ -97,7 +97,7 @@ IT関連や製品仕様の説明文で登場することがあり、特にディ
 ## 🤔  dot との違いは？
 
 - **pixel**：デジタル画像やディスプレイ上の最小単位の点
-- **[dot](/dot)**：紙や画面上の物理的・抽象的な「点」
+- **[dot](/word/dot)**：紙や画面上の物理的・抽象的な「点」
 
 pixelは主にデジタル画像やディスプレイの構成要素として使われ、dotはより広く「点」全般を指します。
 
@@ -105,14 +105,14 @@ pixelは主にデジタル画像やディスプレイの構成要素として使
 
 ## 🧩 あわせて覚えたい
 
-- [resolution](/resolution)：解像度
-- [display](/display)：ディスプレイ、表示装置
+- [resolution](/word/resolution)：解像度
+- [display](/word/display)：ディスプレイ、表示装置
 
 ---
 
 ## 📖 できればこれも
 
-- [screen](/screen)：画面
-- [monitor](/monitor)：モニター
+- [screen](/word/screen)：画面
+- [monitor](/word/monitor)：モニター
 
 <!-- cvid: aid30_bid14 -->

@@ -97,7 +97,7 @@ TOEICの長文読解パートで、意見や事実の食い違いを指摘する
 ## 🤔  inconsistency との違いは？
 
 - **contradiction**：明確に対立・両立しない矛盾や反論を指す
-- **[inconsistency](/inconsistency)**：一貫性がなく、細かな食い違いや不統一を指す
+- **[inconsistency](/word/inconsistency)**：一貫性がなく、細かな食い違いや不統一を指す
 
 contradictionは「真っ向からぶつかる矛盾」、inconsistencyは「細部のズレや統一感のなさ」を表します。
 
@@ -105,14 +105,14 @@ contradictionは「真っ向からぶつかる矛盾」、inconsistencyは「細
 
 ## 🧩 あわせて覚えたい
 
-- [conflict](/conflict)：対立、衝突
-- [paradox](/paradox)：逆説、矛盾しているようで成り立つ事柄
+- [conflict](/word/conflict)：対立、衝突
+- [paradox](/word/paradox)：逆説、矛盾しているようで成り立つ事柄
 
 ---
 
 ## 📖 できればこれも
 
-- [discrepancy](/discrepancy)：不一致、食い違い
-- [assertion](/assertion)：主張、断言
+- [discrepancy](/word/discrepancy)：不一致、食い違い
+- [assertion](/word/assertion)：主張、断言
 
 <!-- cvid: aid09_bid12 -->

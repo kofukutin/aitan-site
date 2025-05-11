@@ -97,7 +97,7 @@ TOEICでは日付や予定、スケジュールに関する会話や説明でよ
 ## 🤔  weekday との違いは？
 
 - **Friday**：特定の曜日「金曜日」を指す。
-- **[weekday](/weekday)**：月曜から金曜までの「平日」をまとめて指す。
+- **[weekday](/word/weekday)**：月曜から金曜までの「平日」をまとめて指す。
 
 Fridayは「金曜日」という特定の日を指し、weekdayは「平日全体」を指すので、使い分けに注意しましょう。
 
@@ -113,6 +113,6 @@ Fridayは「金曜日」という特定の日を指し、weekdayは「平日全�
 ## 📖 できればこれも
 
 - [Sunday](/Sunday)：日曜日
-- [holiday](/holiday)：祝日
+- [holiday](/word/holiday)：祝日
 
 <!-- cvid: aid12_bid04 -->

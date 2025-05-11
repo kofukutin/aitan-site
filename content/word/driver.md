@@ -97,7 +97,7 @@ TOEICでは交通や移動、IT関連の会話でよく登場します。特に�
 ## 🤔  operator との違いは？
 
 - **driver**：車やバスなどの運転手、またはIT分野の制御ソフト
-- **[operator](/operator)**：機械や装置を操作する人、電話交換手
+- **[operator](/word/operator)**：機械や装置を操作する人、電話交換手
 
 driverは主に「乗り物の運転手」を指し、operatorは「機械や装置を操作する人」全般を指します。
 
@@ -105,14 +105,14 @@ driverは主に「乗り物の運転手」を指し、operatorは「機械や装
 
 ## 🧩 あわせて覚えたい
 
-- [passenger](/passenger)：乗客
-- [conductor](/conductor)：車掌
+- [passenger](/word/passenger)：乗客
+- [conductor](/word/conductor)：車掌
 
 ---
 
 ## 📖 できればこれも
 
-- [vehicle](/vehicle)：車両、乗り物
-- [license](/license)：免許、許可証
+- [vehicle](/word/vehicle)：車両、乗り物
+- [license](/word/license)：免許、許可証
 
 <!-- cvid: aid36_bid00 -->

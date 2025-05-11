@@ -97,7 +97,7 @@ TOEICでは社会問題や経済に関する長文や記事で登場しやすい
 ## 🤔  shortage との違いは？
 
 - **poverty**：経済的・社会的な「貧困」や「困窮」を指す。
-- **[shortage](/shortage)**：物や資源など「不足」「欠乏」を指す。
+- **[shortage](/word/shortage)**：物や資源など「不足」「欠乏」を指す。
 
 povertyは主に人や社会の経済的な困窮を表し、shortageは特定の物や資源が足りない状況に使います。
 
@@ -105,14 +105,14 @@ povertyは主に人や社会の経済的な困窮を表し、shortageは特定�
 
 ## 🧩 あわせて覚えたい
 
-- [wealth](/wealth)：富、財産
-- [scarcity](/scarcity)：不足、希少
+- [wealth](/word/wealth)：富、財産
+- [scarcity](/word/scarcity)：不足、希少
 
 ---
 
 ## 📖 できればこれも
 
-- [income](/income)：収入
-- [crisis](/crisis)：危機
+- [income](/word/income)：収入
+- [crisis](/word/crisis)：危機
 
 <!-- cvid: aid23_bid30 -->

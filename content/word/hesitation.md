@@ -97,7 +97,7 @@ TOEICでは会議や電話応対など、ビジネスシーンで「ためらい
 ## 🤔  pause との違いは？
 
 - **hesitation**：気持ちや決断の「ためらい」「迷い」を表す
-- **[pause](/pause)**：動作や会話の「一時停止」「間」を表す
+- **[pause](/word/pause)**：動作や会話の「一時停止」「間」を表す
 
 hesitationは心理的な迷い、pauseは物理的な動作の中断を指します。
 
@@ -105,14 +105,14 @@ hesitationは心理的な迷い、pauseは物理的な動作の中断を指し�
 
 ## 🧩 あわせて覚えたい
 
-- [confidence](/confidence)：自信
-- [uncertainty](/uncertainty)：不確実さ、不安
+- [confidence](/word/confidence)：自信
+- [uncertainty](/word/uncertainty)：不確実さ、不安
 
 ---
 
 ## 📖 できればこれも
 
-- [doubt](/doubt)：疑い、疑念
-- [delay](/delay)：遅れ、延期
+- [doubt](/word/doubt)：疑い、疑念
+- [delay](/word/delay)：遅れ、延期
 
 <!-- cvid: aid38_bid08 -->

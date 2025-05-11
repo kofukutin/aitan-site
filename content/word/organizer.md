@@ -97,7 +97,7 @@ TOEICではイベントや会議の案内文、メール文などで「主催者
 ## 🤔  coordinator との違いは？
 
 - **organizer**：イベントや活動を主導し、全体をまとめる人
-- **[coordinator](/coordinator)**：複数の人や部署の間を調整し、連携を取る人
+- **[coordinator](/word/coordinator)**：複数の人や部署の間を調整し、連携を取る人
 
 organizerは「主催者・まとめ役」として全体を動かす立場、coordinatorは「調整役」として関係者をつなぐ役割に重点があります。
 
@@ -105,14 +105,14 @@ organizerは「主催者・まとめ役」として全体を動かす立場、co
 
 ## 🧩 あわせて覚えたい
 
-- [manager](/manager)：管理者、責任者
-- [planner](/planner)：計画者、企画担当者
+- [manager](/word/manager)：管理者、責任者
+- [planner](/word/planner)：計画者、企画担当者
 
 ---
 
 ## 📖 できればこれも
 
-- [participant](/participant)：参加者
-- [schedule](/schedule)：予定、スケジュール
+- [participant](/word/participant)：参加者
+- [schedule](/word/schedule)：予定、スケジュール
 
 <!-- cvid: aid35_bid04 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 7のビジネス文書や経費精算書などで「miscel
 ## 🤔  various との違いは？
 
 - **miscellaneous**：分類しにくいほど多様で雑多なものを指す
-- **[various](/various)**：いくつかの異なる種類があることを強調
+- **[various](/word/various)**：いくつかの異なる種類があることを強調
 
 miscellaneousは「ごちゃまぜ感」や「分類不能な多様さ」を表し、variousは「いくつかの異なる種類がある」ことをシンプルに示します。
 
@@ -105,14 +105,14 @@ miscellaneousは「ごちゃまぜ感」や「分類不能な多様さ」を表�
 
 ## 🧩 あわせて覚えたい
 
-- [assorted](/assorted)：より意図的に選ばれた「取り合わせの」
-- [diverse](/diverse)：多様な、幅広い
+- [assorted](/word/assorted)：より意図的に選ばれた「取り合わせの」
+- [diverse](/word/diverse)：多様な、幅広い
 
 ---
 
 ## 📖 できればこれも
 
-- [general](/general)：一般的な
-- [specific](/specific)：具体的な
+- [general](/word/general)：一般的な
+- [specific](/word/specific)：具体的な
 
 <!-- cvid: aid06_bid14 -->

@@ -97,7 +97,7 @@ attainはTOEICの語彙問題やビジネス文書で、目標や基準の「達
 ## 🤔  achieve との違いは？
 
 - **attain**：努力や時間をかけて目標や基準に到達する（ややフォーマル）
-- **[achieve](/achieve)**：目標や成功を成し遂げる（一般的・幅広い場面で使用）
+- **[achieve](/word/achieve)**：目標や成功を成し遂げる（一般的・幅広い場面で使用）
 
 attainは「到達点」や「基準」に手が届くニュアンスが強く、achieveは「成果を得る」や「成功する」など幅広い達成に使われます。
 
@@ -105,14 +105,14 @@ attainは「到達点」や「基準」に手が届くニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [accomplish](/accomplish)：やり遂げる、成し遂げる
-- [reach](/reach)：到達する、届く
+- [accomplish](/word/accomplish)：やり遂げる、成し遂げる
+- [reach](/word/reach)：到達する、届く
 
 ---
 
 ## 📖 できればこれも
 
-- [obtain](/obtain)：手に入れる、獲得する
-- [fulfill](/fulfill)：（義務・約束などを）果たす
+- [obtain](/word/obtain)：手に入れる、獲得する
+- [fulfill](/word/fulfill)：（義務・約束などを）果たす
 
 <!-- cvid: aid36_bid42 -->

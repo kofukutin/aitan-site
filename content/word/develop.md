@@ -97,7 +97,7 @@ TOEICではビジネスやプロジェクトの進行、製品開発などの文
 ## 🤔  improve との違いは？
 
 - **develop**：新しく作り出したり、段階的に発展させる
-- **[improve](/improve)**：既存のものをより良くする
+- **[improve](/word/improve)**：既存のものをより良くする
 
 「develop」はゼロから何かを生み出したり、成長させるニュアンスが強く、「improve」はすでにあるものの質を高める時に使います。
 
@@ -105,14 +105,14 @@ TOEICではビジネスやプロジェクトの進行、製品開発などの文
 
 ## 🧩 あわせて覚えたい
 
-- [create](/create)：作り出す
-- [expand](/expand)：拡大する
+- [create](/word/create)：作り出す
+- [expand](/word/expand)：拡大する
 
 ---
 
 ## 📖 できればこれも
 
-- [design](/design)：設計する
-- [plan](/plan)：計画する
+- [design](/word/design)：設計する
+- [plan](/word/plan)：計画する
 
 <!-- cvid: aid34_bid28 -->

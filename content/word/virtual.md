@@ -97,7 +97,7 @@ TOEICではITやビジネスの文脈で「virtual meeting」「virtual office�
 ## 🤔  digital との違いは？
 
 - **virtual**：実際には存在しないが、コンピューター上などで再現された「仮想の」
-- **[digital](/digital)**：デジタル技術やデータで表現された「デジタルの」
+- **[digital](/word/digital)**：デジタル技術やデータで表現された「デジタルの」
 
 「virtual」は「仮想空間」や「オンライン上の存在」を指し、「digital」は「デジタル技術やデータ形式」に焦点があります。
 
@@ -105,14 +105,14 @@ TOEICではITやビジネスの文脈で「virtual meeting」「virtual office�
 
 ## 🧩 あわせて覚えたい
 
-- [online](/online)：オンラインの、インターネット上の
-- [remote](/remote)：遠隔の、リモートの
+- [online](/word/online)：オンラインの、インターネット上の
+- [remote](/word/remote)：遠隔の、リモートの
 
 ---
 
 ## 📖 できればこれも
 
-- [actual](/actual)：実際の、現実の
-- [simulate](/simulate)：模擬する、シミュレートする
+- [actual](/word/actual)：実際の、現実の
+- [simulate](/word/simulate)：模擬する、シミュレートする
 
 <!-- cvid: aid43_bid37 -->

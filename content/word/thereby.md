@@ -93,7 +93,7 @@ therebyはTOEICの長文読解パートで、因果関係や結果を説明す�
 ## 🤔  therefore との違いは？
 
 - **thereby**：前の行動や事実「によって」何かが起こることを強調
-- **[therefore](/therefore)**：前の内容「だから」「したがって」と結論や結果を述べる
+- **[therefore](/word/therefore)**：前の内容「だから」「したがって」と結論や結果を述べる
 
 therebyは「手段や原因」を、thereforeは「結果や結論」を強調する点が異なります。
 
@@ -101,14 +101,14 @@ therebyは「手段や原因」を、thereforeは「結果や結論」を強調�
 
 ## 🧩 あわせて覚えたい
 
-- [thus](/thus)：それゆえに（フォーマルな因果表現）
-- [consequently](/consequently)：その結果として（やや堅い表現）
+- [thus](/word/thus)：それゆえに（フォーマルな因果表現）
+- [consequently](/word/consequently)：その結果として（やや堅い表現）
 
 ---
 
 ## 📖 できればこれも
 
-- [however](/however)：しかしながら
-- [furthermore](/furthermore)：さらに
+- [however](/word/however)：しかしながら
+- [furthermore](/word/furthermore)：さらに
 
 <!-- cvid: aid45_bid01 -->

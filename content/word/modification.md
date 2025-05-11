@@ -97,7 +97,7 @@ TOEICでは、書類や計画、仕様などの「修正」「変更」を表す
 ## 🤔  adjustment との違いは？
 
 - **modification**：もとのものに手を加えて部分的に変更・修正すること
-- **[adjustment](/adjustment)**：状況や条件に合わせて微調整すること
+- **[adjustment](/word/adjustment)**：状況や条件に合わせて微調整すること
 
 modificationは「内容や構造を変える」イメージが強く、adjustmentは「細かい調整」や「適応」のニュアンスが中心です。
 
@@ -105,14 +105,14 @@ modificationは「内容や構造を変える」イメージが強く、adjustme
 
 ## 🧩 あわせて覚えたい
 
-- [revision](/revision)：改訂、修正版
-- [alteration](/alteration)：変更、改変
+- [revision](/word/revision)：改訂、修正版
+- [alteration](/word/alteration)：変更、改変
 
 ---
 
 ## 📖 できればこれも
 
-- [amendment](/amendment)：修正、改正（特に法律や契約書で使う）
-- [update](/update)：更新、最新情報
+- [amendment](/word/amendment)：修正、改正（特に法律や契約書で使う）
+- [update](/word/update)：更新、最新情報
 
 <!-- cvid: aid47_bid33 -->

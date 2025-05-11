@@ -97,7 +97,7 @@ ITやインフラ関連の記事や説明文で「grid」はよく登場しま�
 ## 🤔  network との違いは？
 
 - **grid**：格子状や規則的に配置された構造、または配電網などの物理的・仮想的な網
-- **[network](/network)**：点と点がつながった「ネットワーク」全般（人脈・通信網など）
+- **[network](/word/network)**：点と点がつながった「ネットワーク」全般（人脈・通信網など）
 
 「grid」は規則的な構造や配電網など、秩序だった配置を強調しますが、「network」はつながりや関係性そのものを指します。
 
@@ -105,14 +105,14 @@ ITやインフラ関連の記事や説明文で「grid」はよく登場しま�
 
 ## 🧩 あわせて覚えたい
 
-- [matrix](/matrix)：行列、マトリックス（数学やITで使う格子状の構造）
-- [framework](/framework)：枠組み、構造
+- [matrix](/word/matrix)：行列、マトリックス（数学やITで使う格子状の構造）
+- [framework](/word/framework)：枠組み、構造
 
 ---
 
 ## 📖 できればこれも
 
-- [panel](/panel)：パネル、板、表示画面
-- [layout](/layout)：配置、レイアウト
+- [panel](/word/panel)：パネル、板、表示画面
+- [layout](/word/layout)：配置、レイアウト
 
 <!-- cvid: aid45_bid43 -->

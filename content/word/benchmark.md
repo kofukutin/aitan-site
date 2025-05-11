@@ -97,7 +97,7 @@ TOEICではビジネス文書やレポート、比較分析の場面で出題さ
 ## 🤔  standard との違いは？
 
 - **benchmark**：比較や評価のための具体的な基準や指標
-- **[standard](/standard)**：一般的・公式な標準や規格
+- **[standard](/word/standard)**：一般的・公式な標準や規格
 
 benchmarkは「比較・評価のための目安」として使われ、standardは「守るべき基準・規格」として使われます。
 
@@ -105,14 +105,14 @@ benchmarkは「比較・評価のための目安」として使われ、standard
 
 ## 🧩 あわせて覚えたい
 
-- [criterion](/criterion)：判断や評価のための基準
-- [reference](/reference)：参照、参考となるもの
+- [criterion](/word/criterion)：判断や評価のための基準
+- [reference](/word/reference)：参照、参考となるもの
 
 ---
 
 ## 📖 できればこれも
 
-- [target](/target)：目標、ターゲット
-- [indicator](/indicator)：指標、指示するもの
+- [target](/word/target)：目標、ターゲット
+- [indicator](/word/indicator)：指標、指示するもの
 
 <!-- cvid: aid01_bid33 -->

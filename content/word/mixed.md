@@ -97,7 +97,7 @@ TOEICでは「mixed results（さまざまな結果）」や「mixed reviews（�
 ## 🤔  combined との違いは？
 
 - **mixed**：異なるものが混ざり合っている状態や、さまざまな種類が一緒になっていることを表す。
-- **[combined](/combined)**：複数のものを意図的に組み合わせて一つにした状態を強調する。
+- **[combined](/word/combined)**：複数のものを意図的に組み合わせて一つにした状態を強調する。
 
 「mixed」は自然に混ざっている場合や種類の多さを示し、「combined」は目的を持って結合したニュアンスがあります。
 
@@ -105,14 +105,14 @@ TOEICでは「mixed results（さまざまな結果）」や「mixed reviews（�
 
 ## 🧩 あわせて覚えたい
 
-- [blended](/blended)：よく混ざった、調和した
-- [separate](/separate)：分かれた、別々の
+- [blended](/word/blended)：よく混ざった、調和した
+- [separate](/word/separate)：分かれた、別々の
 
 ---
 
 ## 📖 できればこれも
 
-- [various](/various)：さまざまな
-- [diverse](/diverse)：多様な
+- [various](/word/various)：さまざまな
+- [diverse](/word/diverse)：多様な
 
 <!-- cvid: aid13_bid01 -->

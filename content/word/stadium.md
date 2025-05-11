@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、建物や場所を説明する際に登
 ## 🤔  arena との違いは？
 
 - **stadium**：屋外の大規模な競技場やイベント会場を指す。
-- **[arena](/arena)**：屋内外問わず、観客席に囲まれた競技場やイベント会場を指す。
+- **[arena](/word/arena)**：屋内外問わず、観客席に囲まれた競技場やイベント会場を指す。
 
 stadiumは主に屋外で大規模なスポーツイベントに使われ、arenaは屋内外どちらにも使え、スポーツ以外のイベントにも幅広く用いられます。
 
@@ -105,14 +105,14 @@ stadiumは主に屋外で大規模なスポーツイベントに使われ、aren
 
 ## 🧩 あわせて覚えたい
 
-- [field](/field)：（スポーツなどの）フィールド、競技場
-- [gymnasium](/gymnasium)：体育館
+- [field](/word/field)：（スポーツなどの）フィールド、競技場
+- [gymnasium](/word/gymnasium)：体育館
 
 ---
 
 ## 📖 できればこれも
 
-- [museum](/museum)：博物館
-- [theater](/theater)：劇場
+- [museum](/word/museum)：博物館
+- [theater](/word/theater)：劇場
 
 <!-- cvid: aid20_bid06 -->

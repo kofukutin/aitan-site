@@ -97,7 +97,7 @@ figuredは会話文や意見を述べる場面でよく登場します。カジ�
 ## 🤔  thought との違いは？
 
 - **figured**：考えた結果、推測や判断をしたニュアンスが強い
-- **[thought](/thought)**：単純に「考えた」「思った」という意味で幅広く使う
+- **[thought](/word/thought)**：単純に「考えた」「思った」という意味で幅広く使う
 
 figuredは「理由や根拠があって推測した」感じ、thoughtは「自然に思った」場合に使います。
 
@@ -105,14 +105,14 @@ figuredは「理由や根拠があって推測した」感じ、thoughtは「自
 
 ## 🧩 あわせて覚えたい
 
-- [guess](/guess)：推測する
-- [assume](/assume)：仮定する、当然と思う
+- [guess](/word/guess)：推測する
+- [assume](/word/assume)：仮定する、当然と思う
 
 ---
 
 ## 📖 できればこれも
 
-- [decide](/decide)：決める
-- [realize](/realize)：気づく
+- [decide](/word/decide)：決める
+- [realize](/word/realize)：気づく
 
 <!-- cvid: aid13_bid33 -->

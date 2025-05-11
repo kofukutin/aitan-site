@@ -97,7 +97,7 @@ TOEICでは副詞の使い分けや語彙問題で出題されることが多く
 ## 🤔  continuously との違いは？
 
 - **continually**：間をあけて何度も繰り返し起こる
-- **[continuously](/continuously)**：途切れずにずっと続く
+- **[continuously](/word/continuously)**：途切れずにずっと続く
 
 continuallyは「断続的に」「繰り返し」、continuouslyは「途切れなく連続して」という違いがあります。
 
@@ -105,14 +105,14 @@ continuallyは「断続的に」「繰り返し」、continuouslyは「途切れ
 
 ## 🧩 あわせて覚えたい
 
-- [repeatedly](/repeatedly)：繰り返し
-- [frequently](/frequently)：頻繁に
+- [repeatedly](/word/repeatedly)：繰り返し
+- [frequently](/word/frequently)：頻繁に
 
 ---
 
 ## 📖 できればこれも
 
-- [eventually](/eventually)：最終的に
-- [occasionally](/occasionally)：時々
+- [eventually](/word/eventually)：最終的に
+- [occasionally](/word/occasionally)：時々
 
 <!-- cvid: aid32_bid29 -->

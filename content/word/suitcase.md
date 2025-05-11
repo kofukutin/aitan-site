@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、空港やホテルの場面で
 ## 🤔  luggage との違いは？
 
 - **suitcase**：取っ手付きの四角い旅行かばん（個別のかばんを指す）
-- **[luggage](/luggage)**：旅行用の荷物全体（集合的な意味）
+- **[luggage](/word/luggage)**：旅行用の荷物全体（集合的な意味）
 
 suitcaseは具体的な「かばん1つ」を指し、luggageは「荷物全体」をまとめて表します。
 
@@ -105,14 +105,14 @@ suitcaseは具体的な「かばん1つ」を指し、luggageは「荷物全体�
 
 ## 🧩 あわせて覚えたい
 
-- [bag](/bag)：かばん、袋
-- [briefcase](/briefcase)：書類かばん
+- [bag](/word/bag)：かばん、袋
+- [briefcase](/word/briefcase)：書類かばん
 
 ---
 
 ## 📖 できればこれも
 
-- [passport](/passport)：パスポート
-- [ticket](/ticket)：チケット
+- [passport](/word/passport)：パスポート
+- [ticket](/word/ticket)：チケット
 
 <!-- cvid: aid10_bid27 -->

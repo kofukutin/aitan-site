@@ -93,7 +93,7 @@ TOEICではリスニングや短い会話文で頻繁に登場し、頻度を表
 ## 🤔  frequently との違いは？
 
 - **often**：日常的によく起こることを表し、カジュアルな場面でも使いやすい。
-- **[frequently](/frequently)**：ややフォーマルで、頻度が高いことを強調したいときに使う。
+- **[frequently](/word/frequently)**：ややフォーマルで、頻度が高いことを強調したいときに使う。
 
 「often」は日常会話で自然に使われ、「frequently」は書き言葉やフォーマルな場面で頻度の高さを強調したいときに使われます。
 
@@ -101,14 +101,14 @@ TOEICではリスニングや短い会話文で頻繁に登場し、頻度を表
 
 ## 🧩 あわせて覚えたい
 
-- [sometimes](/sometimes)：ときどき
-- [rarely](/rarely)：めったに～ない
+- [sometimes](/word/sometimes)：ときどき
+- [rarely](/word/rarely)：めったに～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [usually](/usually)：たいてい、ふつうは
-- [occasionally](/occasionally)：たまに、ときおり
+- [usually](/word/usually)：たいてい、ふつうは
+- [occasionally](/word/occasionally)：たまに、ときおり
 
 <!-- cvid: aid16_bid25 -->

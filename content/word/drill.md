@@ -97,7 +97,7 @@ TOEICでは、職場や学校での訓練や安全対策の文脈で出題され
 ## 🤔  practice との違いは？
 
 - **drill**：特定の動作や手順を繰り返し訓練すること、またはその訓練自体。
-- **[practice](/practice)**：一般的な練習や習慣、幅広い活動に使う。
+- **[practice](/word/practice)**：一般的な練習や習慣、幅広い活動に使う。
 
 drillは「型通りに繰り返す訓練」、practiceは「幅広い練習や実践」に使い分けます。
 
@@ -105,14 +105,14 @@ drillは「型通りに繰り返す訓練」、practiceは「幅広い練習や�
 
 ## 🧩 あわせて覚えたい
 
-- [exercise](/exercise)：練習、運動
-- [routine](/routine)：決まった手順、日課
+- [exercise](/word/exercise)：練習、運動
+- [routine](/word/routine)：決まった手順、日課
 
 ---
 
 ## 📖 できればこれも
 
-- [task](/task)：課題、仕事
-- [method](/method)：方法、やり方
+- [task](/word/task)：課題、仕事
+- [method](/word/method)：方法、やり方
 
 <!-- cvid: aid09_bid38 -->

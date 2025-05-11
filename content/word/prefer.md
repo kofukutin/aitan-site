@@ -97,7 +97,7 @@ TOEICでは「prefer A to B」や「prefer to do」の形で頻出します。�
 ## 🤔  choose との違いは？
 
 - **prefer**：複数の中から「より好む」「むしろ～したい」と気持ちを表す
-- **[choose](/choose)**：選択肢から「選ぶ」「決定する」という行動を表す
+- **[choose](/word/choose)**：選択肢から「選ぶ」「決定する」という行動を表す
 
 preferは「どちらが好きか」という好みを示し、chooseは実際に選択する行為を指します。
 
@@ -105,14 +105,14 @@ preferは「どちらが好きか」という好みを示し、chooseは実際�
 
 ## 🧩 あわせて覚えたい
 
-- [select](/select)：選ぶ、選択する
-- [favor](/favor)：好む、ひいきする
+- [select](/word/select)：選ぶ、選択する
+- [favor](/word/favor)：好む、ひいきする
 
 ---
 
 ## 📖 できればこれも
 
-- [recommend](/recommend)：推薦する、勧める
-- [suggest](/suggest)：提案する、示唆する
+- [recommend](/word/recommend)：推薦する、勧める
+- [suggest](/word/suggest)：提案する、示唆する
 
 <!-- cvid: aid41_bid17 -->

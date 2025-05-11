@@ -97,7 +97,7 @@ TOEICでは主に図や写真の説明、ITやビジネス資料のレイアウ�
 ## 🤔  vertical との違いは？
 
 - **horizontal**：地面と平行な「水平の」「横の」
-- **[vertical](/vertical)**：地面に対して垂直な「垂直の」「縦の」
+- **[vertical](/word/vertical)**：地面に対して垂直な「垂直の」「縦の」
 
 horizontalは横方向、verticalは縦方向を指し、図やグラフの軸などで使い分けます。
 
@@ -105,14 +105,14 @@ horizontalは横方向、verticalは縦方向を指し、図やグラフの軸�
 
 ## 🧩 あわせて覚えたい
 
-- [parallel](/parallel)：平行な
-- [level](/level)：水平な、平らな
+- [parallel](/word/parallel)：平行な
+- [level](/word/level)：水平な、平らな
 
 ---
 
 ## 📖 できればこれも
 
-- [verticality](/verticality)：垂直性
-- [diagonal](/diagonal)：斜めの
+- [verticality](/word/verticality)：垂直性
+- [diagonal](/word/diagonal)：斜めの
 
 <!-- cvid: aid29_bid12 -->

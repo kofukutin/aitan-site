@@ -97,7 +97,7 @@ TOEICでは、政治や法務関連の長文や記事で登場することが多
 ## 🤔  representative との違いは？
 
 - **senator**：上院議員。主に上院（Senate）に所属する議員を指す。
-- **[representative](/representative)**：下院議員。主に下院（House of Representatives）の議員を指す。
+- **[representative](/word/representative)**：下院議員。主に下院（House of Representatives）の議員を指す。
 
 senatorは上院、representativeは下院の議員を表し、役割や所属する議会が異なります。
 
@@ -105,14 +105,14 @@ senatorは上院、representativeは下院の議員を表し、役割や所属�
 
 ## 🧩 あわせて覚えたい
 
-- [congress](/congress)：（米国の）議会
-- [parliament](/parliament)：（英国などの）議会
+- [congress](/word/congress)：（米国の）議会
+- [parliament](/word/parliament)：（英国などの）議会
 
 ---
 
 ## 📖 できればこれも
 
-- [mayor](/mayor)：市長
-- [governor](/governor)：州知事
+- [mayor](/word/mayor)：市長
+- [governor](/word/governor)：州知事
 
 <!-- cvid: aid45_bid43 -->

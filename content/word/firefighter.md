@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写で、制服姿や現場の様子とともに登
 ## 🤔  fireman との違いは？
 
 - **firefighter**：性別を問わず使える現代的な「消防士」
-- **[fireman](/fireman)**：伝統的な表現で、男性消防士を指すことが多い
+- **[fireman](/word/fireman)**：伝統的な表現で、男性消防士を指すことが多い
 
 firefighterはジェンダーニュートラルな表現で、現代英語ではこちらが一般的です。firemanはやや古い表現です。
 
@@ -105,14 +105,14 @@ firefighterはジェンダーニュートラルな表現で、現代英語では
 
 ## 🧩 あわせて覚えたい
 
-- [police officer](/police_officer)：警察官
-- [paramedic](/paramedic)：救急救命士
+- [police officer](/word/police_officer)：警察官
+- [paramedic](/word/paramedic)：救急救命士
 
 ---
 
 ## 📖 できればこれも
 
-- [rescue](/rescue)：救助する
-- [emergency](/emergency)：緊急事態
+- [rescue](/word/rescue)：救助する
+- [emergency](/word/emergency)：緊急事態
 
 <!-- cvid: aid48_bid15 -->

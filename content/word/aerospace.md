@@ -96,7 +96,7 @@ TOEICでは、科学技術や産業分野の説明文や記事で見かけるこ
 ## 🤔  aviation との違いは？
 
 - **aerospace**：航空と宇宙の両方を含む分野や空間
-- **[aviation](/aviation)**：航空（飛行機や飛行に関する分野）のみ
+- **[aviation](/word/aviation)**：航空（飛行機や飛行に関する分野）のみ
 
 aerospaceは宇宙も含む広い分野を指し、aviationは主に大気圏内の航空に限定されます。
 
@@ -104,14 +104,14 @@ aerospaceは宇宙も含む広い分野を指し、aviationは主に大気圏内
 
 ## 🧩 あわせて覚えたい
 
-- [astronautics](/astronautics)：宇宙航行学
-- [satellite](/satellite)：人工衛星
+- [astronautics](/word/astronautics)：宇宙航行学
+- [satellite](/word/satellite)：人工衛星
 
 ---
 
 ## 📖 できればこれも
 
-- [orbit](/orbit)：軌道
-- [launch](/launch)：打ち上げる
+- [orbit](/word/orbit)：軌道
+- [launch](/word/launch)：打ち上げる
 
 <!-- cvid: aid00_bid13 -->

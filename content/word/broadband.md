@@ -104,14 +104,14 @@ broadbandは通信技術の種類を示し、high-speedは速度そのものを�
 
 ## 🧩 あわせて覚えたい
 
-- [fiber](/fiber)：光ファイバー（高速通信回線の一種）
-- [modem](/modem)：モデム（通信機器）
+- [fiber](/word/fiber)：光ファイバー（高速通信回線の一種）
+- [modem](/word/modem)：モデム（通信機器）
 
 ---
 
 ## 📖 できればこれも
 
-- [network](/network)：ネットワーク、通信網
-- [wireless](/wireless)：無線の
+- [network](/word/network)：ネットワーク、通信網
+- [wireless](/word/wireless)：無線の
 
 <!-- cvid: aid08_bid42 -->

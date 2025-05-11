@@ -93,7 +93,7 @@ TOEICでは、写真描写問題で「道沿い」「壁沿い」などの位置
 ## 🤔  beside との違いは？
 
 - **along**：道や川など「長いものに沿って」進む・並ぶ
-- **[beside](/beside)**：～の「横に」「そばに」
+- **[beside](/word/beside)**：～の「横に」「そばに」
 
 alongは「線状のものに沿って」のニュアンス、besideは「すぐ横・隣」という位置関係を表します。
 
@@ -101,14 +101,14 @@ alongは「線状のものに沿って」のニュアンス、besideは「すぐ
 
 ## 🧩 あわせて覚えたい
 
-- [across](/across)：～を横切って
-- [through](/through)：～を通り抜けて
+- [across](/word/across)：～を横切って
+- [through](/word/through)：～を通り抜けて
 
 ---
 
 ## 📖 できればこれも
 
-- [around](/around)：～の周りを
-- [toward](/toward)：～の方へ
+- [around](/word/around)：～の周りを
+- [toward](/word/toward)：～の方へ
 
 <!-- cvid: aid03_bid02 -->

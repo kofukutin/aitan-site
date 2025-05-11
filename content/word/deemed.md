@@ -97,7 +97,7 @@ TOEICでは主にPart 5の文法・語彙問題で、フォーマルな文書や
 ## 🤔  consider との違いは？
 
 - **deemed**：公式・客観的に「～と見なす」「判断される」
-- **[consider](/consider)**：主観的に「～と考える」「検討する」
+- **[consider](/word/consider)**：主観的に「～と考える」「検討する」
 
 **deemed**は法律やビジネスなどフォーマルな場面で「公式に判断される」ニュアンスが強く、**consider**は個人の意見や思考を表すときに使います。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 5の文法・語彙問題で、フォーマルな文書や
 
 ## 🧩 あわせて覚えたい
 
-- [regard](/regard)：～と見なす、評価する
-- [assume](/assume)：仮定する、思い込む
+- [regard](/word/regard)：～と見なす、評価する
+- [assume](/word/assume)：仮定する、思い込む
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/approve)：承認する
-- [determine](/determine)：決定する、判断する
+- [approve](/word/approve)：承認する
+- [determine](/word/determine)：決定する、判断する
 
 <!-- cvid: aid01_bid16 -->

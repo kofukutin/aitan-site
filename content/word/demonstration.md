@@ -97,7 +97,7 @@ TOEICでは新製品の紹介や説明会、プレゼンテーションの場面
 ## 🤔  presentation との違いは？
 
 - **demonstration**：実際に見せて説明する「実演」や「デモ」、または抗議活動の「デモ行進」も指す
-- **[presentation](/presentation)**：資料やスライドを使って説明・発表する「プレゼンテーション」
+- **[presentation](/word/presentation)**：資料やスライドを使って説明・発表する「プレゼンテーション」
 
 demonstrationは「実際にやって見せる」ことに重点があり、presentationは「話して説明する」ことに重点があります。
 
@@ -105,14 +105,14 @@ demonstrationは「実際にやって見せる」ことに重点があり、pres
 
 ## 🧩 あわせて覚えたい
 
-- [exhibition](/exhibition)：展示会、展覧会
-- [protest](/protest)：抗議、抗議活動
+- [exhibition](/word/exhibition)：展示会、展覧会
+- [protest](/word/protest)：抗議、抗議活動
 
 ---
 
 ## 📖 できればこれも
 
-- [explanation](/explanation)：説明
-- [display](/display)：展示、表示
+- [explanation](/word/explanation)：説明
+- [display](/word/display)：展示、表示
 
 <!-- cvid: aid13_bid10 -->

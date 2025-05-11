@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「手伝う」「支援する」という意味
 ## 🤔  help との違いは？
 
 - **assist**：フォーマルで、公式な場面やビジネスで「手伝う」「補助する」ときに使う
-- **[help](/help)**：カジュアルで、日常的な「助ける」「手伝う」に広く使う
+- **[help](/word/help)**：カジュアルで、日常的な「助ける」「手伝う」に広く使う
 
 assistはhelpよりも丁寧で、特に職場や公式な状況で使われることが多いです。
 
@@ -105,14 +105,14 @@ assistはhelpよりも丁寧で、特に職場や公式な状況で使われる�
 
 ## 🧩 あわせて覚えたい
 
-- [support](/support)：支える、支援する
-- [facilitate](/facilitate)：円滑に進める、促進する
+- [support](/word/support)：支える、支援する
+- [facilitate](/word/facilitate)：円滑に進める、促進する
 
 ---
 
 ## 📖 できればこれも
 
-- [guide](/guide)：案内する、導く
-- [aid](/aid)：援助する、助ける
+- [guide](/word/guide)：案内する、導く
+- [aid](/word/aid)：援助する、助ける
 
 <!-- cvid: aid08_bid06 -->

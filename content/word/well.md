@@ -97,7 +97,7 @@ TOEICでは会話や応答文でよく登場し、相手の調子を尋ねたり
 ## 🤔  good との違いは？
 
 - **well**：動作や状態が「上手に」「よく」行われていることを表す副詞。
-- **[good](/good)**：人や物の性質・品質が「良い」ことを表す形容詞。
+- **[good](/word/good)**：人や物の性質・品質が「良い」ことを表す形容詞。
 
 wellは「どのように」行うか（副詞）、goodは「どんなものか」（形容詞）を表します。
 
@@ -105,14 +105,14 @@ wellは「どのように」行うか（副詞）、goodは「どんなものか
 
 ## 🧩 あわせて覚えたい
 
-- [bad](/bad)：悪い
-- [properly](/properly)：きちんと、適切に
+- [bad](/word/bad)：悪い
+- [properly](/word/properly)：きちんと、適切に
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/quickly)：速く
-- [often](/often)：しばしば
+- [quickly](/word/quickly)：速く
+- [often](/word/often)：しばしば
 
 <!-- cvid: aid09_bid11 -->

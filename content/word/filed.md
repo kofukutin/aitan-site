@@ -97,7 +97,7 @@ TOEICでは「書類を提出する」「申請する」という意味で、主
 ## 🤔  submitted との違いは？
 
 - **filed**：正式な書類や申請を「提出する」「記録する」ニュアンスが強い
-- **[submitted](/submitted)**：一般的に「提出する」全般に使える
+- **[submitted](/word/submitted)**：一般的に「提出する」全般に使える
 
 filedは特に公式な手続きや記録として残す場合に使われ、submittedはより広く「提出」全般に使われます。
 
@@ -105,14 +105,14 @@ filedは特に公式な手続きや記録として残す場合に使われ、sub
 
 ## 🧩 あわせて覚えたい
 
-- [register](/register)：登録する
-- [approve](/approve)：承認する
+- [register](/word/register)：登録する
+- [approve](/word/approve)：承認する
 
 ---
 
 ## 📖 できればこれも
 
-- [record](/record)：記録する
-- [apply](/apply)：申し込む
+- [record](/word/record)：記録する
+- [apply](/word/apply)：申し込む
 
 <!-- cvid: aid25_bid36 -->

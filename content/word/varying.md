@@ -97,7 +97,7 @@ TOEICでは「varying needs（さまざまなニーズ）」や「varying condit
 ## 🤔  various との違いは？
 
 - **varying**：変化し続けている、状況によって異なる
-- **[various](/various)**：いろいろな種類の、さまざまな
+- **[various](/word/various)**：いろいろな種類の、さまざまな
 
 「varying」は「変化している最中」や「一定でない状態」を強調し、「various」は「種類が多い」「多様な」といった静的な多様性を表します。
 
@@ -105,14 +105,14 @@ TOEICでは「varying needs（さまざまなニーズ）」や「varying condit
 
 ## 🧩 あわせて覚えたい
 
-- [diverse](/diverse)：多様な、異なる
-- [changeable](/changeable)：変わりやすい、変化しやすい
+- [diverse](/word/diverse)：多様な、異なる
+- [changeable](/word/changeable)：変わりやすい、変化しやすい
 
 ---
 
 ## 📖 できればこれも
 
-- [variable](/variable)：変わりやすい、変数
-- [different](/different)：異なる、違う
+- [variable](/word/variable)：変わりやすい、変数
+- [different](/word/different)：異なる、違う
 
 <!-- cvid: aid06_bid08 -->

@@ -97,7 +97,7 @@ TOEICではITやビジネス文書、セキュリティ関連の説明文で「s
 ## 🤔  safely との違いは？
 
 - **securely**：安全性や確実性、しっかり固定されていることを強調
-- **[safely](/safely)**：危険がない状態や無事であることを強調
+- **[safely](/word/safely)**：危険がない状態や無事であることを強調
 
 「securely」は物理的・情報的な「しっかり守られている」ニュアンスが強く、「safely」は「危険がない」「無事に」という意味合いが中心です。
 
@@ -105,14 +105,14 @@ TOEICではITやビジネス文書、セキュリティ関連の説明文で「s
 
 ## 🧩 あわせて覚えたい
 
-- [firmly](/firmly)：しっかりと、堅く
-- [confidentially](/confidentially)：内密に、秘密に
+- [firmly](/word/firmly)：しっかりと、堅く
+- [confidentially](/word/confidentially)：内密に、秘密に
 
 ---
 
 ## 📖 できればこれも
 
-- [efficiently](/efficiently)：効率的に
-- [properly](/properly)：適切に
+- [efficiently](/word/efficiently)：効率的に
+- [properly](/word/properly)：適切に
 
 <!-- cvid: aid14_bid04 -->

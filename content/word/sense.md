@@ -97,7 +97,7 @@ TOEICでは「sense of ～」の形や、「意味」「感覚」といった語
 ## 🤔  feeling との違いは？
 
 - **sense**：理性的・客観的な「感覚」や「分別」を表す
-- **[feeling](/feeling)**：主観的・感情的な「気持ち」や「感情」を表す
+- **[feeling](/word/feeling)**：主観的・感情的な「気持ち」や「感情」を表す
 
 **sense**は論理的な判断や五感など幅広い「感覚」に使い、**feeling**は心の中の感情や気持ちに使います。
 
@@ -105,14 +105,14 @@ TOEICでは「sense of ～」の形や、「意味」「感覚」といった語
 
 ## 🧩 あわせて覚えたい
 
-- [perception](/perception)：知覚、認識
-- [logic](/logic)：論理、道理
+- [perception](/word/perception)：知覚、認識
+- [logic](/word/logic)：論理、道理
 
 ---
 
 ## 📖 できればこれも
 
-- [reason](/reason)：理由、理性
-- [notion](/notion)：概念、考え
+- [reason](/word/reason)：理由、理性
+- [notion](/word/notion)：概念、考え
 
 <!-- cvid: aid41_bid10 -->

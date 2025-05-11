@@ -97,7 +97,7 @@ TOEICでは会社やホテルの案内文、Eメール、会話文などで「�
 ## 🤔  clerk との違いは？
 
 - **receptionist**：受付で来客や電話の応対を専門にする人
-- **[clerk](/clerk)**：事務や販売など幅広い業務を担当する係員
+- **[clerk](/word/clerk)**：事務や販売など幅広い業務を担当する係員
 
 receptionistは「受付専門」、clerkは「事務・販売など幅広い係員」として使い分けます。
 
@@ -105,14 +105,14 @@ receptionistは「受付専門」、clerkは「事務・販売など幅広い係
 
 ## 🧩 あわせて覚えたい
 
-- [secretary](/secretary)：秘書
-- [assistant](/assistant)：助手、補佐
+- [secretary](/word/secretary)：秘書
+- [assistant](/word/assistant)：助手、補佐
 
 ---
 
 ## 📖 できればこれも
 
-- [manager](/manager)：管理職、マネージャー
-- [customer](/customer)：顧客、お客さん
+- [manager](/word/manager)：管理職、マネージャー
+- [customer](/word/customer)：顧客、お客さん
 
 <!-- cvid: aid33_bid37 -->

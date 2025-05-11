@@ -97,7 +97,7 @@ TOEICではビジネスや物流、国際取引の場面で「transport」が使
 ## 🤔  transfer との違いは？
 
 - **transport**：物や人を物理的に運ぶこと、特に大量・長距離の輸送に使う
-- **[transfer](/transfer)**：物や人だけでなく、データや権利など「移す」全般に使える
+- **[transfer](/word/transfer)**：物や人だけでなく、データや権利など「移す」全般に使える
 
 transportは「運搬・輸送」に特化し、transferは「移動・転送」など幅広い意味で使われます。
 
@@ -105,14 +105,14 @@ transportは「運搬・輸送」に特化し、transferは「移動・転送」
 
 ## 🧩 あわせて覚えたい
 
-- [ship](/ship)：船で送る、発送する
-- [deliver](/deliver)：配達する、届ける
+- [ship](/word/ship)：船で送る、発送する
+- [deliver](/word/deliver)：配達する、届ける
 
 ---
 
 ## 📖 できればこれも
 
-- [export](/export)：輸出する
-- [import](/import)：輸入する
+- [export](/word/export)：輸出する
+- [import](/word/import)：輸入する
 
 <!-- cvid: aid41_bid45 -->

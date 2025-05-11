@@ -97,7 +97,7 @@ TOEICでは会議やビジネスメール、電話対応などで「知らせる
 ## 🤔  notify との違いは？
 
 - **inform**：必要な情報や詳細を伝える、ややフォーマル
-- **[notify](/notify)**：公式に通知する、やや事務的
+- **[notify](/word/notify)**：公式に通知する、やや事務的
 
 「inform」は相手に詳しく説明したり、背景を含めて知らせる時に使い、「notify」は公式な通知や連絡に使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは会議やビジネスメール、電話対応などで「知らせる
 
 ## 🧩 あわせて覚えたい
 
-- [advise](/advise)：助言する、忠告する
-- [report](/report)：報告する
+- [advise](/word/advise)：助言する、忠告する
+- [report](/word/report)：報告する
 
 ---
 
 ## 📖 できればこれも
 
-- [announce](/announce)：発表する、公表する
-- [explain](/explain)：説明する
+- [announce](/word/announce)：発表する、公表する
+- [explain](/word/explain)：説明する
 
 <!-- cvid: aid27_bid19 -->

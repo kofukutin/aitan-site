@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、庭や公園の場面で「雑草を
 ## 🤔  grass との違いは？
 
 - **weed**：望まれず自然に生えてくる「雑草」
-- **[grass](/grass)**：芝生や牧草などの「草」、一般的に好まれる植物
+- **[grass](/word/grass)**：芝生や牧草などの「草」、一般的に好まれる植物
 
 weedは「抜きたい草」、grassは「育てたい草」というイメージで使い分けます。
 
@@ -105,14 +105,14 @@ weedは「抜きたい草」、grassは「育てたい草」というイメー�
 
 ## 🧩 あわせて覚えたい
 
-- [flower](/flower)：花
-- [shrub](/shrub)：低木
+- [flower](/word/flower)：花
+- [shrub](/word/shrub)：低木
 
 ---
 
 ## 📖 できればこれも
 
-- [soil](/soil)：土
-- [plant](/plant)：植物
+- [soil](/word/soil)：土
+- [plant](/word/plant)：植物
 
 <!-- cvid: aid43_bid46 -->

@@ -97,7 +97,7 @@ TOEICでは、空港や旅行、移動に関する会話や説明文で「flying
 ## 🤔  flight との違いは？
 
 - **flying**：空中を飛んでいる状態や動作を表す形容詞
-- **[flight](/flight)**：飛行やフライトそのもの（名詞）
+- **[flight](/word/flight)**：飛行やフライトそのもの（名詞）
 
 「flying」は「飛んでいる」状態や様子を表現し、「flight」は「飛行」という出来事や便そのものを指します。
 
@@ -105,14 +105,14 @@ TOEICでは、空港や旅行、移動に関する会話や説明文で「flying
 
 ## 🧩 あわせて覚えたい
 
-- [airplane](/airplane)：飛行機
-- [pilot](/pilot)：操縦士
+- [airplane](/word/airplane)：飛行機
+- [pilot](/word/pilot)：操縦士
 
 ---
 
 ## 📖 できればこれも
 
-- [travel](/travel)：旅行する
-- [journey](/journey)：旅、道のり
+- [travel](/word/travel)：旅行する
+- [journey](/word/journey)：旅、道のり
 
 <!-- cvid: aid15_bid36 -->

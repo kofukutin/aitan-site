@@ -97,7 +97,7 @@ The company offers support during pregnancy.
 ## 🤔  maternity との違いは？
 
 - **pregnancy**：妊娠という状態そのものを指す医学的・フォーマルな単語
-- **[maternity](/maternity)**：母性や妊婦、出産に関すること全般を指し、衣類や休暇など幅広く使われる
+- **[maternity](/word/maternity)**：母性や妊婦、出産に関すること全般を指し、衣類や休暇など幅広く使われる
 
 pregnancyは「妊娠」という医学的な状態を指し、maternityは「母であること」や「妊婦向け」など幅広い意味で使われます。
 
@@ -105,14 +105,14 @@ pregnancyは「妊娠」という医学的な状態を指し、maternityは「�
 
 ## 🧩 あわせて覚えたい
 
-- [birth](/birth)：出産、誕生
-- [conception](/conception)：受胎、妊娠の始まり
+- [birth](/word/birth)：出産、誕生
+- [conception](/word/conception)：受胎、妊娠の始まり
 
 ---
 
 ## 📖 できればこれも
 
-- [delivery](/delivery)：出産、分娩
-- [infant](/infant)：乳児、幼児
+- [delivery](/word/delivery)：出産、分娩
+- [infant](/word/infant)：乳児、幼児
 
 <!-- cvid: aid37_bid28 -->

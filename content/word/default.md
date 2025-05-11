@@ -97,7 +97,7 @@ ITや金融関連の記事や説明文で「初期設定」「債務不履行」
 ## 🤔  failure との違いは？
 
 - **default**：初期設定、または債務不履行（支払いなどを怠ること）
-- **[failure](/failure)**：失敗、機能停止、うまくいかないこと
+- **[failure](/word/failure)**：失敗、機能停止、うまくいかないこと
 
 defaultは「標準値」や「約束を守らないこと」に使い、failureは「失敗」や「機能しないこと」に使います。
 
@@ -105,14 +105,14 @@ defaultは「標準値」や「約束を守らないこと」に使い、failure
 
 ## 🧩 あわせて覚えたい
 
-- [option](/option)：選択肢
-- [penalty](/penalty)：罰金、ペナルティ
+- [option](/word/option)：選択肢
+- [penalty](/word/penalty)：罰金、ペナルティ
 
 ---
 
 ## 📖 できればこれも
 
-- [setting](/setting)：設定
-- [preference](/preference)：好み、設定項目
+- [setting](/word/setting)：設定
+- [preference](/word/preference)：好み、設定項目
 
 <!-- cvid: aid12_bid27 -->

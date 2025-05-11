@@ -97,7 +97,7 @@ The company requires all employees to have a COVID-19 vaccine.
 ## 🤔  medicine との違いは？
 
 - **vaccine**：感染症を予防するために使う特別な医薬品
-- **[medicine](/medicine)**：病気の治療や症状の緩和に使う一般的な薬
+- **[medicine](/word/medicine)**：病気の治療や症状の緩和に使う一般的な薬
 
 vaccineは「予防」に特化した薬で、medicineは治療や症状緩和など幅広い意味で使われます。
 
@@ -105,14 +105,14 @@ vaccineは「予防」に特化した薬で、medicineは治療や症状緩和�
 
 ## 🧩 あわせて覚えたい
 
-- [immunity](/immunity)：免疫、病気に対する抵抗力
-- [virus](/virus)：ウイルス、感染症の原因となる微生物
+- [immunity](/word/immunity)：免疫、病気に対する抵抗力
+- [virus](/word/virus)：ウイルス、感染症の原因となる微生物
 
 ---
 
 ## 📖 できればこれも
 
-- [treatment](/treatment)：治療
-- [dose](/dose)：（薬やワクチンの）1回分、投与量
+- [treatment](/word/treatment)：治療
+- [dose](/word/dose)：（薬やワクチンの）1回分、投与量
 
 <!-- cvid: aid17_bid40 -->

@@ -97,7 +97,7 @@ TOEICでは、機械やサービスの説明、福祉やビジネスの場面で
 ## 🤔  supported との違いは？
 
 - **assisted**：補助や支援を受けている状態を強調し、特に技術や人的サポートが加わっている場合に使う。
-- **[supported](/supported)**：支えられている、支援されているという広い意味で使い、物理的・精神的なサポート全般を指す。
+- **[supported](/word/supported)**：支えられている、支援されているという広い意味で使い、物理的・精神的なサポート全般を指す。
 
 「assisted」は補助や手助けが具体的に加わっている状況で使い、「supported」はより広く「支えられている」状態全般に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、機械やサービスの説明、福祉やビジネスの場面で
 
 ## 🧩 あわせて覚えたい
 
-- [helpful](/helpful)：役に立つ、助けになる
-- [facilitated](/facilitated)：容易にされた、促進された
+- [helpful](/word/helpful)：役に立つ、助けになる
+- [facilitated](/word/facilitated)：容易にされた、促進された
 
 ---
 
 ## 📖 できればこれも
 
-- [automatic](/automatic)：自動の
-- [guided](/guided)：案内された、指導された
+- [automatic](/word/automatic)：自動の
+- [guided](/word/guided)：案内された、指導された
 
 <!-- cvid: aid19_bid47 -->

@@ -97,7 +97,7 @@ TOEICでは観光案内や歴史的な出来事を説明する長文でよく登
 ## 🤔  historical との違いは？
 
 - **historic**：歴史的に重要な、歴史に残る
-- **[historical](/historical)**：歴史に関する、歴史の
+- **[historical](/word/historical)**：歴史に関する、歴史の
 
 「historic」は「歴史的に重要な」という意味で、特別な出来事や場所に使います。「historical」は「歴史に関する」という広い意味で、重要性は問いません。
 
@@ -105,14 +105,14 @@ TOEICでは観光案内や歴史的な出来事を説明する長文でよく登
 
 ## 🧩 あわせて覚えたい
 
-- [ancient](/ancient)：古代の、昔の
-- [modern](/modern)：現代の、近代の
+- [ancient](/word/ancient)：古代の、昔の
+- [modern](/word/modern)：現代の、近代の
 
 ---
 
 ## 📖 できればこれも
 
-- [memorable](/memorable)：記憶に残る
-- [significant](/significant)：重要な
+- [memorable](/word/memorable)：記憶に残る
+- [significant](/word/significant)：重要な
 
 <!-- cvid: aid03_bid32 -->

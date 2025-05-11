@@ -97,7 +97,7 @@ TOEICでは、ホテルや会議室の「収容人数」や「要望への対応
 ## 🤔  adapt との違いは？
 
 - **accommodate**：人や物を受け入れて収容したり、要望に応じて便宜を図る
-- **[adapt](/adapt)**：状況や環境に合わせて自分や物事を変化させる
+- **[adapt](/word/adapt)**：状況や環境に合わせて自分や物事を変化させる
 
 「accommodate」は外部の要望や人に合わせて「受け入れる・対応する」イメージ、「adapt」は自分自身や物事が「変化する・適応する」イメージです。
 
@@ -105,14 +105,14 @@ TOEICでは、ホテルや会議室の「収容人数」や「要望への対応
 
 ## 🧩 あわせて覚えたい
 
-- [adjust](/adjust)：調整する、適応させる
-- [house](/house)：住まわせる、収容する
+- [adjust](/word/adjust)：調整する、適応させる
+- [house](/word/house)：住まわせる、収容する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/arrange)：手配する、整える
-- [facilitate](/facilitate)：容易にする、促進する
+- [arrange](/word/arrange)：手配する、整える
+- [facilitate](/word/facilitate)：容易にする、促進する
 
 <!-- cvid: aid12_bid24 -->

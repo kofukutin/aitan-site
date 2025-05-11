@@ -97,7 +97,7 @@ TOEICでは、社会問題や福祉関連の長文、寄付や支援に関する
 ## 🤔  poor との違いは？
 
 - **needy**：経済的・精神的に「助けや支援を必要としている」状態を強調
-- **[poor](/poor)**：単に「貧しい」「お金がない」状態を表す
+- **[poor](/word/poor)**：単に「貧しい」「お金がない」状態を表す
 
 「needy」は「支援を求めている」ニュアンスが強く、福祉や心理的な文脈でも使われます。「poor」は単なる経済状態を指すことが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、社会問題や福祉関連の長文、寄付や支援に関する
 
 ## 🧩 あわせて覚えたい
 
-- [impoverished](/impoverished)：極度に貧しい
-- [dependent](/dependent)：依存している、頼っている
+- [impoverished](/word/impoverished)：極度に貧しい
+- [dependent](/word/dependent)：依存している、頼っている
 
 ---
 
 ## 📖 できればこれも
 
-- [generous](/generous)：気前が良い、寛大な
-- [supportive](/supportive)：支援的な、協力的な
+- [generous](/word/generous)：気前が良い、寛大な
+- [supportive](/word/supportive)：支援的な、協力的な
 
 <!-- cvid: aid38_bid15 -->

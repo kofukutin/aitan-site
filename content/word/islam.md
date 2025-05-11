@@ -106,13 +106,13 @@ Islamは宗教名、Muslimはその信者を表します。たとえば「Islam 
 ## 🧩 あわせて覚えたい
 
 - [Christianity](/Christianity)：キリスト教
-- [mosque](/mosque)：モスク（イスラム教の礼拝所）
+- [mosque](/word/mosque)：モスク（イスラム教の礼拝所）
 
 ---
 
 ## 📖 できればこれも
 
 - [Buddhism](/Buddhism)：仏教
-- [religion](/religion)：宗教
+- [religion](/word/religion)：宗教
 
 <!-- cvid: aid04_bid17 -->

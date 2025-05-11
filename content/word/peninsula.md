@@ -97,7 +97,7 @@ The hotel is located on a peninsula with ocean views.
 ## 🤔  island との違いは？
 
 - **peninsula**：三方を海に囲まれ、陸地とつながっている「半島」
-- **[island](/island)**：四方を水に囲まれた「島」
+- **[island](/word/island)**：四方を水に囲まれた「島」
 
 peninsulaは陸地とつながっている点がislandと大きく異なります。islandは完全に水に囲まれています。
 
@@ -105,14 +105,14 @@ peninsulaは陸地とつながっている点がislandと大きく異なりま�
 
 ## 🧩 あわせて覚えたい
 
-- [cape](/cape)：岬
-- [mainland](/mainland)：本土
+- [cape](/word/cape)：岬
+- [mainland](/word/mainland)：本土
 
 ---
 
 ## 📖 できればこれも
 
-- [coast](/coast)：海岸
-- [bay](/bay)：湾
+- [coast](/word/coast)：海岸
+- [bay](/word/bay)：湾
 
 <!-- cvid: aid04_bid44 -->

@@ -97,7 +97,7 @@ becomingはTOEICの語彙問題で、服装や態度が「ふさわしい」「�
 ## 🤔  suitable との違いは？
 
 - **becoming**：見た目や態度が「似合う」「上品でふさわしい」という意味で、ややフォーマル。
-- **[suitable](/suitable)**：目的や条件に「適している」「合っている」という意味で、より一般的。
+- **[suitable](/word/suitable)**：目的や条件に「適している」「合っている」という意味で、より一般的。
 
 becomingは主に外見や態度に使い、suitableは幅広い状況や用途に使います。
 
@@ -105,14 +105,14 @@ becomingは主に外見や態度に使い、suitableは幅広い状況や用途�
 
 ## 🧩 あわせて覚えたい
 
-- [appropriate](/appropriate)：適切な、ふさわしい
-- [unbecoming](/unbecoming)：似合わない、不適切な
+- [appropriate](/word/appropriate)：適切な、ふさわしい
+- [unbecoming](/word/unbecoming)：似合わない、不適切な
 
 ---
 
 ## 📖 できればこれも
 
-- [attractive](/attractive)：魅力的な
-- [proper](/proper)：きちんとした、適切な
+- [attractive](/word/attractive)：魅力的な
+- [proper](/word/proper)：きちんとした、適切な
 
 <!-- cvid: aid37_bid10 -->

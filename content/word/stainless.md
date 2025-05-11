@@ -97,7 +97,7 @@ TOEICでは主に製品説明や仕様書などで「stainless steel」の形で
 ## 🤔  spotless との違いは？
 
 - **stainless**：汚れやさびがつかない、特に金属などの素材の性質を表す
-- **[spotless](/spotless)**：一点の汚れもない、非常にきれいな状態を強調
+- **[spotless](/word/spotless)**：一点の汚れもない、非常にきれいな状態を強調
 
 「stainless」は主に物質的・科学的な性質を指し、「spotless」は見た目や清潔さを強調する場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主に製品説明や仕様書などで「stainless steel」の形で
 
 ## 🧩 あわせて覚えたい
 
-- [rustproof](/rustproof)：さび止めの、さびにくい
-- [clean](/clean)：きれいな、清潔な
+- [rustproof](/word/rustproof)：さび止めの、さびにくい
+- [clean](/word/clean)：きれいな、清潔な
 
 ---
 
 ## 📖 できればこれも
 
-- [durable](/durable)：耐久性のある
-- [shiny](/shiny)：光沢のある、ぴかぴかの
+- [durable](/word/durable)：耐久性のある
+- [shiny](/word/shiny)：光沢のある、ぴかぴかの
 
 <!-- cvid: aid07_bid47 -->

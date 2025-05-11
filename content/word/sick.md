@@ -97,7 +97,7 @@ TOEICでは、体調不良や欠勤連絡などの場面でPart 2やPart 3に出
 ## 🤔  ill との違いは？
 
 - **sick**：カジュアルで、気分が悪い・吐き気がする場合にも使う
-- **[ill](/ill)**：ややフォーマルで、長期的・深刻な病気にも使う
+- **[ill](/word/ill)**：ややフォーマルで、長期的・深刻な病気にも使う
 
 sickは日常会話でよく使われ、illはフォーマルな文脈や医療現場で使われることが多いです。
 
@@ -105,14 +105,14 @@ sickは日常会話でよく使われ、illはフォーマルな文脈や医療�
 
 ## 🧩 あわせて覚えたい
 
-- [healthy](/healthy)：健康な
-- [nauseous](/nauseous)：吐き気がする
+- [healthy](/word/healthy)：健康な
+- [nauseous](/word/nauseous)：吐き気がする
 
 ---
 
 ## 📖 できればこれも
 
-- [hurt](/hurt)：けがをする、痛む
-- [pain](/pain)：痛み
+- [hurt](/word/hurt)：けがをする、痛む
+- [pain](/word/pain)：痛み
 
 <!-- cvid: aid18_bid19 -->

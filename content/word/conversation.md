@@ -97,7 +97,7 @@ TOEICではPart 3の会話問題で頻出し、日常的なやりとりやビジ
 ## 🤔  discussion との違いは？
 
 - **conversation**：日常的な会話や気軽なやりとりを指す
-- **[discussion](/discussion)**：意見交換や議論など、より深い話し合いを指す
+- **[discussion](/word/discussion)**：意見交換や議論など、より深い話し合いを指す
 
 conversationはリラックスした雰囲気の会話、discussionは意見や考えを深く交わす場面で使い分けます。
 
@@ -105,14 +105,14 @@ conversationはリラックスした雰囲気の会話、discussionは意見や�
 
 ## 🧩 あわせて覚えたい
 
-- [chat](/chat)：おしゃべり、雑談
-- [dialogue](/dialogue)：対話、会話（特に2人のやりとり）
+- [chat](/word/chat)：おしゃべり、雑談
+- [dialogue](/word/dialogue)：対話、会話（特に2人のやりとり）
 
 ---
 
 ## 📖 できればこれも
 
-- [meeting](/meeting)：会議、打ち合わせ
-- [talk](/talk)：話、会談
+- [meeting](/word/meeting)：会議、打ち合わせ
+- [talk](/word/talk)：話、会談
 
 <!-- cvid: aid06_bid26 -->

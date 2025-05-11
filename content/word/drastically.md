@@ -96,7 +96,7 @@ TOEICの長文読解パートで、変化や対策の大きさを強調する文
 ## 🤔  dramatically との違いは？
 
 - **drastically**：抜本的に、極端に（変化や行動の大きさ・徹底ぶりを強調）
-- **[dramatically](/dramatically)**：劇的に、印象的に（変化の度合いよりも、見た目や印象の強さを強調）
+- **[dramatically](/word/dramatically)**：劇的に、印象的に（変化の度合いよりも、見た目や印象の強さを強調）
 
 「drastically」は「根本的・極端な変化」に重点があり、「dramatically」は「印象的・劇的な変化」に重点があります。
 
@@ -104,14 +104,14 @@ TOEICの長文読解パートで、変化や対策の大きさを強調する文
 
 ## 🧩 あわせて覚えたい
 
-- [significantly](/significantly)：著しく、大幅に
-- [slightly](/slightly)：わずかに、少し
+- [significantly](/word/significantly)：著しく、大幅に
+- [slightly](/word/slightly)：わずかに、少し
 
 ---
 
 ## 📖 できればこれも
 
-- [significantly](/significantly)：著しく、大幅に
-- [considerably](/considerably)：かなり、相当に
+- [significantly](/word/significantly)：著しく、大幅に
+- [considerably](/word/considerably)：かなり、相当に
 
 <!-- cvid: aid29_bid34 -->

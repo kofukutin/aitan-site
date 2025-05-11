@@ -97,7 +97,7 @@ TOEICではITやビジネスの文脈で「カスタマイズする」「特注�
 ## 🤔  adapt との違いは？
 
 - **customize**：特定の人や目的に合わせて意図的に作り変える
-- **[adapt](/adapt)**：状況や環境に合わせて調整・適応させる
+- **[adapt](/word/adapt)**：状況や環境に合わせて調整・適応させる
 
 customizeは「個人の好みや要望に合わせて特別仕様にする」ニュアンスが強く、adaptは「変化する状況に合わせて柔軟に調整する」意味合いです。
 
@@ -105,14 +105,14 @@ customizeは「個人の好みや要望に合わせて特別仕様にする」�
 
 ## 🧩 あわせて覚えたい
 
-- [modify](/modify)：修正する、変更する
-- [personalize](/personalize)：個人向けにする、名入れする
+- [modify](/word/modify)：修正する、変更する
+- [personalize](/word/personalize)：個人向けにする、名入れする
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/install)：インストールする、設置する
-- [upgrade](/upgrade)：アップグレードする、性能を上げる
+- [install](/word/install)：インストールする、設置する
+- [upgrade](/word/upgrade)：アップグレードする、性能を上げる
 
 <!-- cvid: aid48_bid21 -->

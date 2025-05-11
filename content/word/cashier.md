@@ -97,7 +97,7 @@ TOEICでは主に店舗や銀行の写真描写問題で「cashier」が使わ�
 ## 🤔  teller との違いは？
 
 - **cashier**：店舗やレストランなどで会計を担当する人
-- **[teller](/teller)**：銀行の窓口で現金の出し入れを担当する人
+- **[teller](/word/teller)**：銀行の窓口で現金の出し入れを担当する人
 
 cashierは一般的なレジ係、tellerは銀行の窓口係と使い分けます。
 
@@ -105,14 +105,14 @@ cashierは一般的なレジ係、tellerは銀行の窓口係と使い分けま�
 
 ## 🧩 あわせて覚えたい
 
-- [clerk](/clerk)：店員、事務員
-- [counter](/counter)：カウンター、窓口
+- [clerk](/word/clerk)：店員、事務員
+- [counter](/word/counter)：カウンター、窓口
 
 ---
 
 ## 📖 できればこれも
 
-- [receipt](/receipt)：レシート、領収書
-- [customer](/customer)：顧客、客
+- [receipt](/word/receipt)：レシート、領収書
+- [customer](/word/customer)：顧客、客
 
 <!-- cvid: aid17_bid00 -->

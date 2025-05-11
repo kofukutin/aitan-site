@@ -97,7 +97,7 @@ TOEICでは、人物やサービスの評価、アドバイスやサポートに
 ## 🤔  useful との違いは？
 
 - **helpful**：人や物が「助けになる」「親切である」というニュアンスが強い
-- **[useful](/useful)**：物や情報が「便利」「有用」という意味で、実用性に重点
+- **[useful](/word/useful)**：物や情報が「便利」「有用」という意味で、実用性に重点
 
 helpfulは「親切さ」や「助けてくれる気持ち」に焦点があり、usefulは「実際に役立つかどうか」に重点があります。
 
@@ -105,14 +105,14 @@ helpfulは「親切さ」や「助けてくれる気持ち」に焦点があり�
 
 ## 🧩 あわせて覚えたい
 
-- [supportive](/supportive)：支えてくれる、励ましてくれる
-- [kind](/kind)：親切な、思いやりのある
+- [supportive](/word/supportive)：支えてくれる、励ましてくれる
+- [kind](/word/kind)：親切な、思いやりのある
 
 ---
 
 ## 📖 できればこれも
 
-- [friendly](/friendly)：友好的な、親しみやすい
-- [polite](/polite)：礼儀正しい
+- [friendly](/word/friendly)：友好的な、親しみやすい
+- [polite](/word/polite)：礼儀正しい
 
 <!-- cvid: aid41_bid13 -->

@@ -97,7 +97,7 @@ lettingはTOEICの長文読解パートで、不動産や契約に関する文�
 ## 🤔  rental との違いは？
 
 - **letting**：主にイギリス英語で、不動産などの賃貸や貸し出しの契約そのものを指す。
-- **[rental](/rental)**：アメリカ英語で一般的。物やサービスの「レンタル」全般に使われる。
+- **[rental](/word/rental)**：アメリカ英語で一般的。物やサービスの「レンタル」全般に使われる。
 
 lettingはイギリス英語で不動産の賃貸契約を指すのに対し、rentalはアメリカ英語で幅広い「レンタル」に使われます。
 
@@ -105,14 +105,14 @@ lettingはイギリス英語で不動産の賃貸契約を指すのに対し、r
 
 ## 🧩 あわせて覚えたい
 
-- [lease](/lease)：賃貸契約、リース
-- [tenant](/tenant)：借り手、賃借人
+- [lease](/word/lease)：賃貸契約、リース
+- [tenant](/word/tenant)：借り手、賃借人
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/agreement)：契約、合意
-- [property](/property)：不動産、財産
+- [agreement](/word/agreement)：契約、合意
+- [property](/word/property)：不動産、財産
 
 <!-- cvid: aid40_bid21 -->

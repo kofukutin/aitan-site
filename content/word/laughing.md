@@ -97,7 +97,7 @@ TOEICのPart 1（写真描写）で「笑っている人」を説明する際に
 ## 🤔  smile との違いは？
 
 - **laughing**：声を出して笑っている、より感情が表に出ている状態
-- **[smile](/smile)**：口元がほほえんでいるだけで、声は出さないことが多い
+- **[smile](/word/smile)**：口元がほほえんでいるだけで、声は出さないことが多い
 
 「laughing」は声を出して楽しそうに笑う様子、「smile」は静かに微笑む様子を表します。
 
@@ -105,14 +105,14 @@ TOEICのPart 1（写真描写）で「笑っている人」を説明する際に
 
 ## 🧩 あわせて覚えたい
 
-- [cry](/cry)：泣く
-- [giggle](/giggle)：くすくす笑う
+- [cry](/word/cry)：泣く
+- [giggle](/word/giggle)：くすくす笑う
 
 ---
 
 ## 📖 できればこれも
 
-- [enjoy](/enjoy)：楽しむ
-- [talk](/talk)：話す
+- [enjoy](/word/enjoy)：楽しむ
+- [talk](/word/talk)：話す
 
 <!-- cvid: aid02_bid04 -->

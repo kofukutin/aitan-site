@@ -97,7 +97,7 @@ TOEICでは、文法問題や語彙問題で「be removed from」などの形で
 ## 🤔  distant との違いは？
 
 - **removed**：物理的・心理的に「離れている」「関係が薄い」というフォーマルな表現。
-- **[distant](/distant)**：物理的・時間的・心理的な「距離がある」ことを幅広く表す。
+- **[distant](/word/distant)**：物理的・時間的・心理的な「距離がある」ことを幅広く表す。
 
 removedは「直接的な関係やつながりが薄い」ニュアンスが強く、distantは単純に距離や隔たりを表します。
 
@@ -105,14 +105,14 @@ removedは「直接的な関係やつながりが薄い」ニュアンスが強�
 
 ## 🧩 あわせて覚えたい
 
-- [absent](/absent)：不在の、いない
-- [separate](/separate)：分かれた、別々の
+- [absent](/word/absent)：不在の、いない
+- [separate](/word/separate)：分かれた、別々の
 
 ---
 
 ## 📖 できればこれも
 
-- [remote](/remote)：遠い、遠隔の
-- [isolated](/isolated)：孤立した、隔離された
+- [remote](/word/remote)：遠い、遠隔の
+- [isolated](/word/isolated)：孤立した、隔離された
 
 <!-- cvid: aid38_bid09 -->

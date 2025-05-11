@@ -97,7 +97,7 @@ TOEICでは、物を落とす・数値が下がるなどの状況説明やグラ
 ## 🤔  fell との違いは？
 
 - **dropped**：自分や他人が「落とす」動作や、数値・価格が「下がる」ことを表す
-- **[fell](/fell)**：物や人が「自然に落ちる」「倒れる」ことを表す
+- **[fell](/word/fell)**：物や人が「自然に落ちる」「倒れる」ことを表す
 
 **dropped** は「意図的・偶発的に落とす」や「減少させる」ニュアンスがあり、**fell** は「自然に落ちる・倒れる」動作に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、物を落とす・数値が下がるなどの状況説明やグラ
 
 ## 🧩 あわせて覚えたい
 
-- [decrease](/decrease)：減少する
-- [lose](/lose)：失う
+- [decrease](/word/decrease)：減少する
+- [lose](/word/lose)：失う
 
 ---
 
 ## 📖 できればこれも
 
-- [deliver](/deliver)：配達する、届ける
-- [send](/send)：送る
+- [deliver](/word/deliver)：配達する、届ける
+- [send](/word/send)：送る
 
 <!-- cvid: aid31_bid11 -->

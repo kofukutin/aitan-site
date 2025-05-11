@@ -104,14 +104,14 @@ resembleは書類や説明文などで使われ、look likeは日常会話でよ
 
 ## 🧩 あわせて覚えたい
 
-- [imitate](/imitate)：まねる、模倣する
-- [differ](/differ)：異なる、違う
+- [imitate](/word/imitate)：まねる、模倣する
+- [differ](/word/differ)：異なる、違う
 
 ---
 
 ## 📖 できればこれも
 
-- [compare](/compare)：比較する
-- [identify](/identify)：識別する、特定する
+- [compare](/word/compare)：比較する
+- [identify](/word/identify)：識別する、特定する
 
 <!-- cvid: aid36_bid31 -->

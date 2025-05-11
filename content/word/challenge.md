@@ -97,7 +97,7 @@ TOEICでは「課題」「困難」「挑戦」といった意味でビジネス
 ## 🤔  task との違いは？
 
 - **challenge**：困難さややりがいを含む課題・挑戦
-- **[task](/task)**：単なる作業や任務、難易度は問わない
+- **[task](/word/task)**：単なる作業や任務、難易度は問わない
 
 challengeは「乗り越えるべき困難」や「自分を試す機会」といった前向きなニュアンスがあり、taskは「やるべき作業」や「割り当てられた仕事」として使われます。
 
@@ -105,14 +105,14 @@ challengeは「乗り越えるべき困難」や「自分を試す機会」と�
 
 ## 🧩 あわせて覚えたい
 
-- [obstacle](/obstacle)：障害、妨げ
-- [opportunity](/opportunity)：機会、チャンス
+- [obstacle](/word/obstacle)：障害、妨げ
+- [opportunity](/word/opportunity)：機会、チャンス
 
 ---
 
 ## 📖 できればこれも
 
-- [goal](/goal)：目標
-- [project](/project)：計画、プロジェクト
+- [goal](/word/goal)：目標
+- [project](/word/project)：計画、プロジェクト
 
 <!-- cvid: aid33_bid11 -->

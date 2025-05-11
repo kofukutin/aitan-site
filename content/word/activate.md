@@ -97,7 +97,7 @@ activateはITやビジネス関連の文脈で、機能やサービスの「有�
 ## 🤔  enable との違いは？
 
 - **activate**：機能やシステムを「作動させる」「有効化する」ことに重点がある
-- **[enable](/enable)**：何かを「可能にする」「できる状態にする」ことに重点がある
+- **[enable](/word/enable)**：何かを「可能にする」「できる状態にする」ことに重点がある
 
 activateは「スイッチを入れて動かす」イメージ、enableは「条件を整えて可能にする」イメージです。
 
@@ -105,14 +105,14 @@ activateは「スイッチを入れて動かす」イメージ、enableは「条
 
 ## 🧩 あわせて覚えたい
 
-- [deactivate](/deactivate)：無効化する、停止する
-- [launch](/launch)：開始する、立ち上げる
+- [deactivate](/word/deactivate)：無効化する、停止する
+- [launch](/word/launch)：開始する、立ち上げる
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/install)：インストールする、設置する
-- [update](/update)：更新する、アップデートする
+- [install](/word/install)：インストールする、設置する
+- [update](/word/update)：更新する、アップデートする
 
 <!-- cvid: aid49_bid38 -->

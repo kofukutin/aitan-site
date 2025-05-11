@@ -97,7 +97,7 @@ TOEICでは、書類やプロジェクトの「初期段階」や「最初の対
 ## 🤔  original との違いは？
 
 - **initial**：物事の「最初の」「初期の」段階を強調
-- **[original](/original)**：元々の、変更されていない「原型」を強調
+- **[original](/word/original)**：元々の、変更されていない「原型」を強調
 
 **initial**は「始まりの段階」に焦点を当て、**original**は「元の形・状態」に焦点を当てます。
 
@@ -105,14 +105,14 @@ TOEICでは、書類やプロジェクトの「初期段階」や「最初の対
 
 ## 🧩 あわせて覚えたい
 
-- [preliminary](/preliminary)：予備の、準備の
-- [final](/final)：最終の
+- [preliminary](/word/preliminary)：予備の、準備の
+- [final](/word/final)：最終の
 
 ---
 
 ## 📖 できればこれも
 
-- [primary](/primary)：主要な、第一の
-- [basic](/basic)：基本的な
+- [primary](/word/primary)：主要な、第一の
+- [basic](/word/basic)：基本的な
 
 <!-- cvid: aid01_bid00 -->

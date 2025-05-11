@@ -97,7 +97,7 @@ TOEICでは会議やディスカッションの場面で「主張した」「議
 ## 🤔  insisted との違いは？
 
 - **argued**：理由や根拠を示しながら主張・議論する
-- **[insisted](/insisted)**：強く言い張る、譲らずに主張する
+- **[insisted](/word/insisted)**：強く言い張る、譲らずに主張する
 
 arguedは論理的に説明しながら意見を述べるニュアンスがあり、insistedは感情的に「どうしても譲らない」強い主張に使われます。
 
@@ -105,14 +105,14 @@ arguedは論理的に説明しながら意見を述べるニュアンスがあ�
 
 ## 🧩 あわせて覚えたい
 
-- [debate](/debate)：討論する、議論する
-- [discuss](/discuss)：話し合う、議論する
+- [debate](/word/debate)：討論する、議論する
+- [discuss](/word/discuss)：話し合う、議論する
 
 ---
 
 ## 📖 できればこれも
 
-- [claim](/claim)：主張する、要求する
-- [suggest](/suggest)：提案する、示唆する
+- [claim](/word/claim)：主張する、要求する
+- [suggest](/word/suggest)：提案する、示唆する
 
 <!-- cvid: aid44_bid26 -->

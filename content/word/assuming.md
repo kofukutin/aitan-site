@@ -93,7 +93,7 @@ TOEICでは条件を表す接続詞として、文法問題で選択肢に出る
 ## 🤔  suppose との違いは？
 
 - **assuming**：何かを前提として「もし～なら」と条件を提示する接続詞。
-- **[suppose](/suppose)**：仮定や提案の意味が強く、会話で「～だとしたらどう？」と使うことが多い。
+- **[suppose](/word/suppose)**：仮定や提案の意味が強く、会話で「～だとしたらどう？」と使うことが多い。
 
 assumingは条件文でフォーマルに使われ、supposeはカジュアルな仮定や提案に使われることが多いです。
 
@@ -101,14 +101,14 @@ assumingは条件文でフォーマルに使われ、supposeはカジュアル�
 
 ## 🧩 あわせて覚えたい
 
-- [provided](/provided)：もし～ならば（条件を表す接続詞）
-- [unless](/unless)：～でなければ（条件を表す接続詞）
+- [provided](/word/provided)：もし～ならば（条件を表す接続詞）
+- [unless](/word/unless)：～でなければ（条件を表す接続詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [although](/although)：～だけれども（譲歩を表す接続詞）
-- [even if](/even_if)：たとえ～でも（条件を強調する接続詞）
+- [although](/word/although)：～だけれども（譲歩を表す接続詞）
+- [even if](/word/even_if)：たとえ～でも（条件を強調する接続詞）
 
 <!-- cvid: aid32_bid19 -->

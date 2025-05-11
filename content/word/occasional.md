@@ -97,7 +97,7 @@ TOEICでは形容詞の語彙問題や、頻度を表す表現の選択肢とし
 ## 🤔  sometimes との違いは？
 
 - **occasional**：形容詞で「時々の」「たまの」という意味。名詞の前で使う。
-- **[sometimes](/sometimes)**：副詞で「時々」「ときおり」という意味。動詞や文全体を修飾する。
+- **[sometimes](/word/sometimes)**：副詞で「時々」「ときおり」という意味。動詞や文全体を修飾する。
 
 **occasional**は名詞を修飾し、「時々の会議」など物や人に使います。**sometimes**は動詞や文全体を修飾し、「時々行う」など動作に使います。
 
@@ -105,14 +105,14 @@ TOEICでは形容詞の語彙問題や、頻度を表す表現の選択肢とし
 
 ## 🧩 あわせて覚えたい
 
-- [frequent](/frequent)：頻繁な
-- [rare](/rare)：まれな
+- [frequent](/word/frequent)：頻繁な
+- [rare](/word/rare)：まれな
 
 ---
 
 ## 📖 できればこれも
 
-- [frequently](/frequently)：頻繁に
-- [periodic](/periodic)：定期的な
+- [frequently](/word/frequently)：頻繁に
+- [periodic](/word/periodic)：定期的な
 
 <!-- cvid: aid44_bid26 -->

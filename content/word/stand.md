@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「立っている」「立って作業
 ## 🤔  remain との違いは？
 
 - **stand**：物理的に「立つ」や「我慢する」の意味で使う
-- **[remain](/remain)**：ある状態のままで「とどまる」「残る」という意味
+- **[remain](/word/remain)**：ある状態のままで「とどまる」「残る」という意味
 
 standは動作や耐える気持ちを表し、remainは変化せずそのままの状態でいることを表します。
 
@@ -105,14 +105,14 @@ standは動作や耐える気持ちを表し、remainは変化せずそのまま
 
 ## 🧩 あわせて覚えたい
 
-- [sit](/sit)：座る
-- [endure](/endure)：耐える、我慢する
+- [sit](/word/sit)：座る
+- [endure](/word/endure)：耐える、我慢する
 
 ---
 
 ## 📖 できればこれも
 
-- [hold](/hold)：持つ、支える
-- [stay](/stay)：とどまる、滞在する
+- [hold](/word/hold)：持つ、支える
+- [stay](/word/stay)：とどまる、滞在する
 
 <!-- cvid: aid05_bid05 -->

@@ -97,7 +97,7 @@ TOEICではPart 5の文法・語彙問題で「prior to（～より前に）」�
 ## 🤔  previous との違いは？
 
 - **prior**：フォーマルで「事前の」「優先する」という意味。特に「prior to（～より前に）」の形で使われる。
-- **[previous](/previous)**：一般的に「前の」「直前の」という意味で、日常的な場面でも使われる。
+- **[previous](/word/previous)**：一般的に「前の」「直前の」という意味で、日常的な場面でも使われる。
 
 priorはフォーマルな文脈や優先順位を強調したいときに使い、previousは単に「前のもの」を指すときに使います。
 
@@ -105,14 +105,14 @@ priorはフォーマルな文脈や優先順位を強調したいときに使い
 
 ## 🧩 あわせて覚えたい
 
-- [former](/former)：以前の、元の
-- [subsequent](/subsequent)：その後の、次の
+- [former](/word/former)：以前の、元の
+- [subsequent](/word/subsequent)：その後の、次の
 
 ---
 
 ## 📖 できればこれも
 
-- [initial](/initial)：最初の
-- [subsequent](/subsequent)：その後の
+- [initial](/word/initial)：最初の
+- [subsequent](/word/subsequent)：その後の
 
 <!-- cvid: aid26_bid00 -->

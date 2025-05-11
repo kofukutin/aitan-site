@@ -97,7 +97,7 @@ TOEICでは歴史や文化、法律に関する長文や、フォーマルなス
 ## 🤔  master との違いは？
 
 - **lord**：貴族や領主など、社会的地位や権威を持つ支配者を指すフォーマルな語。
-- **[master](/master)**：技能や支配の意味が強く、主人や達人、指導者など幅広い場面で使われる。
+- **[master](/word/master)**：技能や支配の意味が強く、主人や達人、指導者など幅広い場面で使われる。
 
 lordは身分や称号を強調し、masterは技術や支配力、熟練度を強調します。
 
@@ -105,14 +105,14 @@ lordは身分や称号を強調し、masterは技術や支配力、熟練度を�
 
 ## 🧩 あわせて覚えたい
 
-- [servant](/servant)：召使い、使用人
-- [noble](/noble)：貴族、気高い人
+- [servant](/word/servant)：召使い、使用人
+- [noble](/word/noble)：貴族、気高い人
 
 ---
 
 ## 📖 できればこれも
 
-- [king](/king)：王
-- [owner](/owner)：所有者
+- [king](/word/king)：王
+- [owner](/word/owner)：所有者
 
 <!-- cvid: aid37_bid48 -->

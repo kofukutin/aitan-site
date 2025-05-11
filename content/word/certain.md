@@ -97,7 +97,7 @@ TOEICでは、文法問題や語彙問題で「確かな」「特定の」とい
 ## 🤔  sure との違いは？
 
 - **certain**：客観的・論理的に「確か」と言いたいときや、ややフォーマルな場面で使う。
-- **[sure](/sure)**：主観的な自信や気持ちを表し、カジュアルな場面でよく使う。
+- **[sure](/word/sure)**：主観的な自信や気持ちを表し、カジュアルな場面でよく使う。
 
 「certain」は根拠や証拠がある場合に使われやすく、「sure」は自分の感覚や気持ちに基づく自信を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、文法問題や語彙問題で「確かな」「特定の」とい
 
 ## 🧩 あわせて覚えたい
 
-- [definite](/definite)：明確な、はっきりした
-- [uncertain](/uncertain)：不確かな、不明確な
+- [definite](/word/definite)：明確な、はっきりした
+- [uncertain](/word/uncertain)：不確かな、不明確な
 
 ---
 
 ## 📖 できればこれも
 
-- [particular](/particular)：特定の
-- [specific](/specific)：具体的な、明確な
+- [particular](/word/particular)：特定の
+- [specific](/word/specific)：具体的な、明確な
 
 <!-- cvid: aid22_bid14 -->

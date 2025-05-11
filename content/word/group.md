@@ -98,7 +98,7 @@ TOEICでは会議やプロジェクト、チーム編成などの場面で「gro
 ## 🤔  team との違いは？
 
 - **group**：共通点や目的で集まった人や物の集まり全般を指す
-- **[team](/team)**：特定の目標達成のために協力し合う集団
+- **[team](/word/team)**：特定の目標達成のために協力し合う集団
 
 groupは単なる集まりも含みますが、teamは「協力して何かを成し遂げる」ニュアンスが強いです。
 
@@ -106,14 +106,14 @@ groupは単なる集まりも含みますが、teamは「協力して何かを�
 
 ## 🧩 あわせて覚えたい
 
-- [committee](/committee)：委員会、委員団
-- [organization](/organization)：組織、団体
+- [committee](/word/committee)：委員会、委員団
+- [organization](/word/organization)：組織、団体
 
 ---
 
 ## 📖 できればこれも
 
-- [member](/member)：メンバー、構成員
-- [project](/project)：プロジェクト、計画
+- [member](/word/member)：メンバー、構成員
+- [project](/word/project)：プロジェクト、計画
 
 <!-- cvid: aid43_bid19 -->
