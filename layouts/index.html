@@ -30,9 +30,10 @@
   <div class="top-counts-inner">
     <h2 class="top-counts-title">📊 カテゴリ別の記事数</h2>
     <ul>
-      <li>英単語： {{ len (where site.RegularPages "Section" "word") }} 記事</li>
+      <li>英単語： {{ len (where site.RegularPages "Section" "word") }} 記事。続々更新中♪</li>
       <li>長文読解： Coming Soon!</li>
     </ul>
+    （{{ now.Format "2006年1月2日" }} 現在）
   </div>
 </section>
 
