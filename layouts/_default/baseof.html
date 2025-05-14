@@ -4,6 +4,24 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <!-- Google Fonts 最適化 -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+
+  <!-- Critical CSS for .site-title -->
+  <style>
+    .site-title {
+      font-family: 'Noto Sans JP', sans-serif;
+      font-size: 1.6em;
+      font-weight: bold;
+      line-height: 1.5;
+      color: #333;
+      text-align: center;
+      margin-top: 1rem;
+    }
+  </style>
+
   {{ if eq .Params.robots "noindex" }}
     <meta name="robots" content="noindex">
   {{ end }}
@@ -32,24 +50,24 @@
   <meta name="twitter:title" content="{{ .Title }}｜あいたん！">
   <meta name="twitter:description" content="{{ .Params.description | plainify }}">
   <meta name="twitter:image" content="{{ with .Params.og_image }}{{ . }}{{ else }}https://ai-tan.jp/images/default-ogp.png{{ end }}">
-  
+
   <link rel="stylesheet" href="/css/base.css">
   {{ if not hugo.IsServer }}
-  <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VQ1MQLJM8G"></script>
+  <!-- Google Analytics (defer) -->
+  <script defer src="https://www.googletagmanager.com/gtag/js?id=G-VQ1MQLJM8G"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-  
-    gtag('config', 'G-VQ1MQLJM8G', {
-      anonymize_ip: true
+    window.addEventListener('DOMContentLoaded', function () {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-VQ1MQLJM8G', {
+        anonymize_ip: true
+      });
     });
   </script>
   {{ end }}
-    <link rel="icon" href="/favicon.ico">
-  </head>
-  
+  <link rel="icon" href="/favicon.ico">
+</head>
 
 <body>
   <header class="site-header">
@@ -60,8 +78,7 @@
       </a>
     </div>
   </header>
-  
-  
+
   <main class="fade-in">
     {{ block "main" . }}{{ end }}
   </main>
@@ -74,13 +91,13 @@
     <p>© あいたん！ All rights reserved.</p>
   </footer>
 
-{{ if eq .RelPermalink "/" }}
-  <script src="/js/search.js"></script>
-{{ end }}
+  {{ if eq .RelPermalink "/" }}
+    <script src="/js/search.js"></script>
+  {{ end }}
 
-{{ if and (eq .Kind "page") (eq .Section "word") }}
-  <script src="/js/tts.js" defer></script>
-{{ end }}
+  {{ if and (eq .Kind "page") (eq .Section "word") }}
+    <script src="/js/tts.js" defer></script>
+  {{ end }}
 
 </body>
 </html>
