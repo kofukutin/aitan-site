@@ -63,22 +63,6 @@
 
   <main class="fade-in">
     {{ block "main" . }}{{ end }}
-
-    <!-- 遅延影響を避けるため mainの後方に移動 -->
-    <section class="top-search">
-      <div class="top-search-inner">
-        <input
-          type="text"
-          id="searchBox"
-          placeholder="何を調べますか？"
-          inputmode="latin"
-          autocomplete="off"
-          autocapitalize="none"
-          spellcheck="false"
-        />
-        <ul id="resultsList"></ul>
-      </div>
-    </section>
   </main>
 
   <footer class="site-footer">
