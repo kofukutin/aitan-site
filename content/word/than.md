@@ -93,7 +93,7 @@ TOEICでは比較級の文法問題で頻出です。特に「more than」「les
 ## 🤔  rather との違いは？
 
 - **than**：2つを比較して「～よりも」と言うときに使う
-- **[rather](/word/rather)**：どちらかと言えば、という選択や好みを表す
+- **[rather](/word/rather/)**：どちらかと言えば、という選択や好みを表す
 
 「than」は単純な比較、「rather」は選択や好みをやや強調したいときに使います。
 
@@ -101,14 +101,14 @@ TOEICでは比較級の文法問題で頻出です。特に「more than」「les
 
 ## 🧩 あわせて覚えたい
 
-- [as](/word/as)：～と同じくらい
-- [while](/word/while)：～する間、～だけれども
+- [as](/word/as/)：～と同じくらい
+- [while](/word/while/)：～する間、～だけれども
 
 ---
 
 ## 📖 できればこれも
 
-- [because](/word/because)：なぜなら
-- [although](/word/although)：～だけれども
+- [because](/word/because/)：なぜなら
+- [although](/word/although/)：～だけれども
 
 <!-- cvid: aid37_bid14 -->

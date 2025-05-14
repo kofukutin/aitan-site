@@ -97,7 +97,7 @@ requiringは、主に動詞の形（現在分詞や進行形）を問う文法�
 ## 🤔  demanding との違いは？
 
 - **requiring**：何かを必要とする、求めている状態を表す動詞の進行形。
-- **[demanding](/word/demanding)**：要求が厳しい、負担が大きいという意味の形容詞。
+- **[demanding](/word/demanding/)**：要求が厳しい、負担が大きいという意味の形容詞。
 
 requiringは「必要としている」という事実を表し、demandingは「大変さ・厳しさ」に焦点を当てて使います。
 
@@ -105,14 +105,14 @@ requiringは「必要としている」という事実を表し、demandingは�
 
 ## 🧩 あわせて覚えたい
 
-- [request](/word/request)：依頼する、要請する
-- [necessitate](/word/necessitate)：必要とする、不可欠にする
+- [request](/word/request/)：依頼する、要請する
+- [necessitate](/word/necessitate/)：必要とする、不可欠にする
 
 ---
 
 ## 📖 できればこれも
 
-- [obligate](/word/obligate)：義務付ける
-- [involve](/word/involve)：含む、関与させる
+- [obligate](/word/obligate/)：義務付ける
+- [involve](/word/involve/)：含む、関与させる
 
 <!-- cvid: aid40_bid09 -->

@@ -97,7 +97,7 @@ achievedはTOEICの文法・語彙問題（Part 5）で、動詞の時制や語�
 ## 🤔  accomplished との違いは？
 
 - **achieved**：目標や結果を努力して達成したことを表す。
-- **[accomplished](/word/accomplished)**：特定のタスクや仕事を完了した、または高いスキルを持つ人にも使う。
+- **[accomplished](/word/accomplished/)**：特定のタスクや仕事を完了した、または高いスキルを持つ人にも使う。
 
 achievedは「目標や成果を得た」ことに重点があり、accomplishedは「任務や作業をやり遂げた」ことや「熟練した人」にも使われます。
 
@@ -105,14 +105,14 @@ achievedは「目標や成果を得た」ことに重点があり、accomplished
 
 ## 🧩 あわせて覚えたい
 
-- [attain](/word/attain)：（努力して）達成する
-- [fail](/word/fail)：失敗する
+- [attain](/word/attain/)：（努力して）達成する
+- [fail](/word/fail/)：失敗する
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/word/improve)：改善する
-- [complete](/word/complete)：完了する
+- [improve](/word/improve/)：改善する
+- [complete](/word/complete/)：完了する
 
 <!-- cvid: aid29_bid40 -->

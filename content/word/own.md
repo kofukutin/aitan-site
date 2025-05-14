@@ -98,7 +98,7 @@ TOEICでは「own」は所有や権利に関する文脈でよく出題されま
 ## 🤔  possess との違いは？
 
 - **own**：日常的な「所有する」。物や会社など具体的なものに使うことが多い。
-- **[possess](/word/possess)**：よりフォーマルで、法律的・抽象的な「所有する」に使われる。
+- **[possess](/word/possess/)**：よりフォーマルで、法律的・抽象的な「所有する」に使われる。
 
 「own」は日常会話やビジネスで広く使われ、「possess」はフォーマルな文書や法的な場面で使われることが多いです。
 
@@ -106,14 +106,14 @@ TOEICでは「own」は所有や権利に関する文脈でよく出題されま
 
 ## 🧩 あわせて覚えたい
 
-- [belong](/word/belong)：属する、所属する
-- [rent](/word/rent)：賃借りする、借りる
+- [belong](/word/belong/)：属する、所属する
+- [rent](/word/rent/)：賃借りする、借りる
 
 ---
 
 ## 📖 できればこれも
 
-- [borrow](/word/borrow)：借りる
-- [buy](/word/buy)：買う
+- [borrow](/word/borrow/)：借りる
+- [buy](/word/buy/)：買う
 
 <!-- cvid: aid03_bid29 -->

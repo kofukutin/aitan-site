@@ -97,7 +97,7 @@ IT関連やソフトウェアの説明文、メール、案内文などで見か
 ## 🤔  shareware との違いは？
 
 - **freeware**：無料で配布され、誰でも自由に使えるソフトウェア。
-- **[shareware](/word/shareware)**：試用は無料だが、継続利用や全機能利用には料金が必要なソフトウェア。
+- **[shareware](/word/shareware/)**：試用は無料だが、継続利用や全機能利用には料金が必要なソフトウェア。
 
 freewareは最初から最後まで無料ですが、sharewareは一定期間や機能制限付きで無料、その後は有料になる点が異なります。
 
@@ -105,14 +105,14 @@ freewareは最初から最後まで無料ですが、sharewareは一定期間や
 
 ## 🧩 あわせて覚えたい
 
-- [software](/word/software)：ソフトウェア、プログラム全般
-- [application](/word/application)：アプリケーション、応用プログラム
+- [software](/word/software/)：ソフトウェア、プログラム全般
+- [application](/word/application/)：アプリケーション、応用プログラム
 
 ---
 
 ## 📖 できればこれも
 
-- [hardware](/word/hardware)：ハードウェア、機械的な装置
-- [download](/word/download)：ダウンロード、データを取り込むこと
+- [hardware](/word/hardware/)：ハードウェア、機械的な装置
+- [download](/word/download/)：ダウンロード、データを取り込むこと
 
 <!-- cvid: aid31_bid03 -->

@@ -97,7 +97,7 @@ ITやオフィス設備の説明、会議室の案内などで「wired」はよ�
 ## 🤔  connected との違いは？
 
 - **wired**：物理的なワイヤーやケーブルでつながれている状態
-- **[connected](/word/connected)**：物理・無線を問わず「つながっている」状態全般
+- **[connected](/word/connected/)**：物理・無線を問わず「つながっている」状態全般
 
 「wired」は必ずケーブルなど物理的な接続を指しますが、「connected」はWi-Fiなど無線も含めて幅広く使われます。
 
@@ -105,14 +105,14 @@ ITやオフィス設備の説明、会議室の案内などで「wired」はよ�
 
 ## 🧩 あわせて覚えたい
 
-- [wireless](/word/wireless)：無線の
-- [cable](/word/cable)：ケーブル、電線
+- [wireless](/word/wireless/)：無線の
+- [cable](/word/cable/)：ケーブル、電線
 
 ---
 
 ## 📖 できればこれも
 
-- [digital](/word/digital)：デジタルの
-- [network](/word/network)：ネットワーク、通信網
+- [digital](/word/digital/)：デジタルの
+- [network](/word/network/)：ネットワーク、通信網
 
 <!-- cvid: aid23_bid32 -->

@@ -97,7 +97,7 @@ TOEICでは主にビジネスメールや通知文で頻出します。受動態
 ## 🤔  inform との違いは？
 
 - **notify**：公式・フォーマルに「通知する」「知らせる」
-- **[inform](/word/inform)**：やや広い意味で「知らせる」「情報を与える」
+- **[inform](/word/inform/)**：やや広い意味で「知らせる」「情報を与える」
 
 notifyは公式な通知や連絡に使われ、informは日常的な「知らせる」全般に使われます。
 
@@ -105,14 +105,14 @@ notifyは公式な通知や連絡に使われ、informは日常的な「知ら�
 
 ## 🧩 あわせて覚えたい
 
-- [announce](/word/announce)：（公式に）発表する
-- [report](/word/report)：報告する
+- [announce](/word/announce/)：（公式に）発表する
+- [report](/word/report/)：報告する
 
 ---
 
 ## 📖 できればこれも
 
-- [remind](/word/remind)：思い出させる
-- [advise](/word/advise)：助言する、通知する
+- [remind](/word/remind/)：思い出させる
+- [advise](/word/advise/)：助言する、通知する
 
 <!-- cvid: aid32_bid37 -->

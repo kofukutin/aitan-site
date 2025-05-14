@@ -98,7 +98,7 @@ TOEICでは、会話や説明文の中で「亡くなった」「死んだ」と
 ## 🤔  passed away との違いは？
 
 - **died**：直接的で中立的に「死んだ」と表現する
-- **[passed away](/word/passed_away)**：やんわりと「亡くなった」と表現する
+- **[passed away](/word/passed_away/)**：やんわりと「亡くなった」と表現する
 
 diedは事実をそのまま伝える表現、passed awayは丁寧でやわらかい言い方です。場面や相手によって使い分けましょう。
 
@@ -106,14 +106,14 @@ diedは事実をそのまま伝える表現、passed awayは丁寧でやわら�
 
 ## 🧩 あわせて覚えたい
 
-- [survive](/word/survive)：生き残る
-- [decease](/word/decease)：死去する（フォーマル）
+- [survive](/word/survive/)：生き残る
+- [decease](/word/decease/)：死去する（フォーマル）
 
 ---
 
 ## 📖 できればこれも
 
-- [kill](/word/kill)：殺す
-- [recover](/word/recover)：回復する
+- [kill](/word/kill/)：殺す
+- [recover](/word/recover/)：回復する
 
 <!-- cvid: aid47_bid45 -->

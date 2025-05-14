@@ -100,7 +100,7 @@ TOEICでは、説明文や指示文で「液体」や「液状のもの」を表
 ## 🤔  fluid との違いは？
 
 - **liquid**：水や油など、常温で液体の状態にあるものを指す。
-- **[fluid](/word/fluid)**：液体だけでなく気体も含む「流動体」を指す。
+- **[fluid](/word/fluid/)**：液体だけでなく気体も含む「流動体」を指す。
 
 liquidは「液体」に限定されますが、fluidは「流れる性質を持つもの」全般（液体＋気体）を指します。
 
@@ -108,14 +108,14 @@ liquidは「液体」に限定されますが、fluidは「流れる性質を持
 
 ## 🧩 あわせて覚えたい
 
-- [solid](/word/solid)：固体
-- [gas](/word/gas)：気体
+- [solid](/word/solid/)：固体
+- [gas](/word/gas/)：気体
 
 ---
 
 ## 📖 できればこれも
 
-- [mixture](/word/mixture)：混合物
-- [solution](/word/solution)：溶液
+- [mixture](/word/mixture/)：混合物
+- [solution](/word/solution/)：溶液
 
 <!-- cvid: aid41_bid19 -->

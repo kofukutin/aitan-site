@@ -97,7 +97,7 @@ TOEICでは「世界規模」や「地球儀」など、説明やプレゼンの
 ## 🤔  earth との違いは？
 
 - **globe**：地球儀や球体としての「地球」、または丸い物体を指す。
-- **[earth](/word/earth)**：人が住む「地球」そのものや土壌を指す。
+- **[earth](/word/earth/)**：人が住む「地球」そのものや土壌を指す。
 
 globeは形や模型としての地球、earthは実際の地球や大地を表します。
 
@@ -105,14 +105,14 @@ globeは形や模型としての地球、earthは実際の地球や大地を表�
 
 ## 🧩 あわせて覚えたい
 
-- [sphere](/word/sphere)：球体
-- [planet](/word/planet)：惑星
+- [sphere](/word/sphere/)：球体
+- [planet](/word/planet/)：惑星
 
 ---
 
 ## 📖 できればこれも
 
-- [map](/word/map)：地図
-- [world](/word/world)：世界
+- [map](/word/map/)：地図
+- [world](/word/world/)：世界
 
 <!-- cvid: aid07_bid04 -->

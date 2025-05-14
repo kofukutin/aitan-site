@@ -97,7 +97,7 @@ blinkはTOEICのPart 1で「人がまばたきしている」「ライトが点�
 ## 🤔  wink との違いは？
 
 - **blink**：無意識に両目をすばやく閉じて開ける（まばたきする）
-- **[wink](/word/wink)**：片目を意図的に閉じる（ウィンクする）
+- **[wink](/word/wink/)**：片目を意図的に閉じる（ウィンクする）
 
 blinkは自然なまばたきや光の点滅に使い、winkは合図や冗談など意図的な片目の動作に使います。
 
@@ -105,14 +105,14 @@ blinkは自然なまばたきや光の点滅に使い、winkは合図や冗談�
 
 ## 🧩 あわせて覚えたい
 
-- [stare](/word/stare)：じっと見つめる
-- [glance](/word/glance)：ちらっと見る
+- [stare](/word/stare/)：じっと見つめる
+- [glance](/word/glance/)：ちらっと見る
 
 ---
 
 ## 📖 できればこれも
 
-- [nod](/word/nod)：うなずく
-- [yawn](/word/yawn)：あくびをする
+- [nod](/word/nod/)：うなずく
+- [yawn](/word/yawn/)：あくびをする
 
 <!-- cvid: aid11_bid13 -->

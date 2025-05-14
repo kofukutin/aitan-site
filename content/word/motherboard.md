@@ -96,7 +96,7 @@ IT関連の説明文や製品仕様書で登場することが多い単語です
 ## 🤔  circuit board との違いは？
 
 - **motherboard**：コンピュータの中心となる主要な回路基板
-- **[circuit board](/word/circuit_board)**：電子機器全般で使われる一般的な回路基板
+- **[circuit board](/word/circuit_board/)**：電子機器全般で使われる一般的な回路基板
 
 motherboardはパソコンの中心基板を指し、circuit boardは幅広い電子機器の基板全般を指します。
 
@@ -104,14 +104,14 @@ motherboardはパソコンの中心基板を指し、circuit boardは幅広い�
 
 ## 🧩 あわせて覚えたい
 
-- [processor](/word/processor)：プロセッサー、CPU
-- [hardware](/word/hardware)：ハードウェア、機械的な装置
+- [processor](/word/processor/)：プロセッサー、CPU
+- [hardware](/word/hardware/)：ハードウェア、機械的な装置
 
 ---
 
 ## 📖 できればこれも
 
-- [component](/word/component)：部品、構成要素
-- [device](/word/device)：装置、デバイス
+- [component](/word/component/)：部品、構成要素
+- [device](/word/device/)：装置、デバイス
 
 <!-- cvid: aid25_bid36 -->

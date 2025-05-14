@@ -97,7 +97,7 @@ TOEICでは会議や業務の流れを説明する場面でよく登場します
 ## 🤔  proceed との違いは？
 
 - **continue**：中断せずにそのまま続ける、または再開する
-- **[proceed](/word/proceed)**：手順や段階を踏んで「進む」、次の行動に移る
+- **[proceed](/word/proceed/)**：手順や段階を踏んで「進む」、次の行動に移る
 
 continueは「今やっていることをそのまま続ける」イメージ、proceedは「次のステップに進む」ニュアンスです。
 
@@ -105,14 +105,14 @@ continueは「今やっていることをそのまま続ける」イメージ、
 
 ## 🧩 あわせて覚えたい
 
-- [stop](/word/stop)：止める、中止する
-- [maintain](/word/maintain)：維持する、保つ
+- [stop](/word/stop/)：止める、中止する
+- [maintain](/word/maintain/)：維持する、保つ
 
 ---
 
 ## 📖 できればこれも
 
-- [repeat](/word/repeat)：繰り返す
-- [extend](/word/extend)：延長する、広げる
+- [repeat](/word/repeat/)：繰り返す
+- [extend](/word/extend/)：延長する、広げる
 
 <!-- cvid: aid43_bid07 -->

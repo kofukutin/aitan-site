@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、建物内の様子や人の動
 ## 🤔  corridor との違いは？
 
 - **hallway**：家庭や学校、オフィスなど日常的な建物の「廊下」を指し、アメリカ英語でよく使われるカジュアルな表現。
-- **[corridor](/word/corridor)**：よりフォーマルで、ホテルや病院、オフィスビルなど公共性の高い建物の「廊下」を指すことが多い。
+- **[corridor](/word/corridor/)**：よりフォーマルで、ホテルや病院、オフィスビルなど公共性の高い建物の「廊下」を指すことが多い。
 
 hallwayはカジュアルで身近な場面、corridorはフォーマルまたは公共的な場面で使い分けます。
 
@@ -105,14 +105,14 @@ hallwayはカジュアルで身近な場面、corridorはフォーマルまた�
 
 ## 🧩 あわせて覚えたい
 
-- [entrance](/word/entrance)：入口
-- [lobby](/word/lobby)：ロビー、玄関ホール
+- [entrance](/word/entrance/)：入口
+- [lobby](/word/lobby/)：ロビー、玄関ホール
 
 ---
 
 ## 📖 できればこれも
 
-- [staircase](/word/staircase)：階段
-- [elevator](/word/elevator)：エレベーター
+- [staircase](/word/staircase/)：階段
+- [elevator](/word/elevator/)：エレベーター
 
 <!-- cvid: aid33_bid44 -->

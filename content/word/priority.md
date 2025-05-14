@@ -97,7 +97,7 @@ TOEICではビジネス文脈で「優先事項」「優先順位」として頻
 ## 🤔  preference との違いは？
 
 - **priority**：他よりも先に扱うべき重要なこと・もの
-- **[preference](/word/preference)**：好み、より好きなもの
+- **[preference](/word/preference/)**：好み、より好きなもの
 
 priorityは「重要度・優先度」を示し、preferenceは「好き嫌い・選好」を表します。優先順位を決める場面ではpriority、単なる好みを言うときはpreferenceを使います。
 
@@ -105,14 +105,14 @@ priorityは「重要度・優先度」を示し、preferenceは「好き嫌い�
 
 ## 🧩 あわせて覚えたい
 
-- [urgency](/word/urgency)：緊急性
-- [option](/word/option)：選択肢
+- [urgency](/word/urgency/)：緊急性
+- [option](/word/option/)：選択肢
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/word/schedule)：予定、スケジュール
-- [deadline](/word/deadline)：締め切り
+- [schedule](/word/schedule/)：予定、スケジュール
+- [deadline](/word/deadline/)：締め切り
 
 <!-- cvid: aid17_bid08 -->

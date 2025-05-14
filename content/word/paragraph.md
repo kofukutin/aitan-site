@@ -96,7 +96,7 @@ TOEICの長文読解パートで、設問や指示文によく登場します。
 ## 🤔  passage との違いは？
 
 - **paragraph**：文章の中の「段落」。1つの主題でまとまった短いまとまり。
-- **[passage](/word/passage)**：文章の「一節」や「抜粋」。複数段落や文章全体の一部を指すことが多い。
+- **[passage](/word/passage/)**：文章の「一節」や「抜粋」。複数段落や文章全体の一部を指すことが多い。
 
 paragraphは構造的な「段落」、passageは内容的な「一部分」として使い分けます。
 
@@ -104,14 +104,14 @@ paragraphは構造的な「段落」、passageは内容的な「一部分」と�
 
 ## 🧩 あわせて覚えたい
 
-- [sentence](/word/sentence)：文
-- [section](/word/section)：（本や文書の）節、区分
+- [sentence](/word/sentence/)：文
+- [section](/word/section/)：（本や文書の）節、区分
 
 ---
 
 ## 📖 できればこれも
 
-- [topic](/word/topic)：話題、主題
-- [summary](/word/summary)：要約
+- [topic](/word/topic/)：話題、主題
+- [summary](/word/summary/)：要約
 
 <!-- cvid: aid10_bid01 -->

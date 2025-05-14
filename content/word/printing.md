@@ -98,7 +98,7 @@ TOEICでは、会議やオフィスの場面で「印刷」や「印刷物」に
 ## 🤔  publication との違いは？
 
 - **printing**：印刷という行為や印刷物そのものを指す
-- **[publication](/word/publication)**：出版物や出版という行為を指す
+- **[publication](/word/publication/)**：出版物や出版という行為を指す
 
 printingは「印刷」という物理的な作業やその成果物を表し、publicationは「出版」や「発行」といった公に出す行為や出版物全体を指します。
 
@@ -106,14 +106,14 @@ printingは「印刷」という物理的な作業やその成果物を表し、
 
 ## 🧩 あわせて覚えたい
 
-- [copy](/word/copy)：コピー、複製
-- [press](/word/press)：印刷機、報道機関
+- [copy](/word/copy/)：コピー、複製
+- [press](/word/press/)：印刷機、報道機関
 
 ---
 
 ## 📖 できればこれも
 
-- [printer](/word/printer)：プリンター、印刷業者
-- [document](/word/document)：書類、文書
+- [printer](/word/printer/)：プリンター、印刷業者
+- [document](/word/document/)：書類、文書
 
 <!-- cvid: aid06_bid19 -->

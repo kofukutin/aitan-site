@@ -99,7 +99,7 @@ TOEICでは会議や工場、ビジネスの場面で「生産した」「作り
 ## 🤔  manufactured との違いは？
 
 - **produced**：広く「生産する」「作り出す」全般に使える
-- **[manufactured](/word/manufactured)**：特に「機械や工場で大量生産する」ニュアンス
+- **[manufactured](/word/manufactured/)**：特に「機械や工場で大量生産する」ニュアンス
 
 producedは自然なものやアイデア、製品など幅広く使えますが、manufacturedは工場などで機械的に大量生産する場合に限定されることが多いです。
 
@@ -107,14 +107,14 @@ producedは自然なものやアイデア、製品など幅広く使えますが
 
 ## 🧩 あわせて覚えたい
 
-- [create](/word/create)：創造する、作り出す
-- [supply](/word/supply)：供給する、提供する
+- [create](/word/create/)：創造する、作り出す
+- [supply](/word/supply/)：供給する、提供する
 
 ---
 
 ## 📖 できればこれも
 
-- [develop](/word/develop)：開発する、発展させる
-- [deliver](/word/deliver)：届ける、配達する
+- [develop](/word/develop/)：開発する、発展させる
+- [deliver](/word/deliver/)：届ける、配達する
 
 <!-- cvid: aid01_bid39 -->

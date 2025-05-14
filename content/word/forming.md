@@ -97,7 +97,7 @@ TOEICでは、チームやグループの結成、計画の立案などの文脈
 ## 🤔  shaping との違いは？
 
 - **forming**：何かを新しく作り出す、組織や計画などを「形作る」ことに重点。
-- **[shaping](/word/shaping)**：既存のものを「形に整える」「方向付ける」ニュアンスが強い。
+- **[shaping](/word/shaping/)**：既存のものを「形に整える」「方向付ける」ニュアンスが強い。
 
 formingはゼロから作るイメージ、shapingはできたものを調整・発展させるイメージです。
 
@@ -105,14 +105,14 @@ formingはゼロから作るイメージ、shapingはできたものを調整・
 
 ## 🧩 あわせて覚えたい
 
-- [create](/word/create)：作り出す
-- [assemble](/word/assemble)：組み立てる
+- [create](/word/create/)：作り出す
+- [assemble](/word/assemble/)：組み立てる
 
 ---
 
 ## 📖 できればこれも
 
-- [develop](/word/develop)：発展させる
-- [organize](/word/organize)：整理する、まとめる
+- [develop](/word/develop/)：発展させる
+- [organize](/word/organize/)：整理する、まとめる
 
 <!-- cvid: aid19_bid12 -->

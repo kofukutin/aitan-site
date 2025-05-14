@@ -97,7 +97,7 @@ TOEICでは、医療や社会問題、ビジネスの文脈で「aging populatio
 ## 🤔  elderly との違いは？
 
 - **aging**：老化や高齢化という「現象」や「過程」を指す
-- **[elderly](/word/elderly)**：高齢者という「人」を指す
+- **[elderly](/word/elderly/)**：高齢者という「人」を指す
 
 「aging」は状態や社会現象、「elderly」は高齢の人そのものを表します。
 
@@ -105,14 +105,14 @@ TOEICでは、医療や社会問題、ビジネスの文脈で「aging populatio
 
 ## 🧩 あわせて覚えたい
 
-- [senior](/word/senior)：高齢者、年長者
-- [youth](/word/youth)：若さ、青年期
+- [senior](/word/senior/)：高齢者、年長者
+- [youth](/word/youth/)：若さ、青年期
 
 ---
 
 ## 📖 できればこれも
 
-- [disease](/word/disease)：病気
-- [health](/word/health)：健康
+- [disease](/word/disease/)：病気
+- [health](/word/health/)：健康
 
 <!-- cvid: aid11_bid09 -->

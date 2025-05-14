@@ -97,7 +97,7 @@ pixはTOEIC公式問題ではあまり見かけませんが、カジュアルな
 ## 🤔  photo との違いは？
 
 - **pix**：カジュアルでネットや会話で使う「写真」の略語。主に複数形。
-- **[photo](/word/photo)**：一般的な「写真」。フォーマル・カジュアル両方で使える。
+- **[photo](/word/photo/)**：一般的な「写真」。フォーマル・カジュアル両方で使える。
 
 pixは友人同士やSNSなどカジュアルな場面で使われ、photoはフォーマルな文書や一般的な会話でも使えます。
 
@@ -105,14 +105,14 @@ pixは友人同士やSNSなどカジュアルな場面で使われ、photoはフ
 
 ## 🧩 あわせて覚えたい
 
-- [image](/word/image)：画像、イメージ
-- [snapshot](/word/snapshot)：スナップ写真、瞬間写真
+- [image](/word/image/)：画像、イメージ
+- [snapshot](/word/snapshot/)：スナップ写真、瞬間写真
 
 ---
 
 ## 📖 できればこれも
 
-- [pic](/word/pic)：写真（さらにカジュアルな略語）
-- [gallery](/word/gallery)：写真集、ギャラリー
+- [pic](/word/pic/)：写真（さらにカジュアルな略語）
+- [gallery](/word/gallery/)：写真集、ギャラリー
 
 <!-- cvid: aid15_bid24 -->

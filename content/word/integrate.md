@@ -97,7 +97,7 @@ TOEICでは、ビジネスやIT分野で「統合する」「組み込む」と�
 ## 🤔  combine との違いは？
 
 - **integrate**：異なるものを調和させて一体化・統合する
-- **[combine](/word/combine)**：単純に複数のものを組み合わせる
+- **[combine](/word/combine/)**：単純に複数のものを組み合わせる
 
 integrateは「全体の一部としてしっかり組み込む」ニュアンスがあり、combineは「混ぜる・合わせる」程度の意味で使われます。
 
@@ -105,14 +105,14 @@ integrateは「全体の一部としてしっかり組み込む」ニュアン�
 
 ## 🧩 あわせて覚えたい
 
-- [merge](/word/merge)：合併する、融合する
-- [incorporate](/word/incorporate)：組み入れる、取り入れる
+- [merge](/word/merge/)：合併する、融合する
+- [incorporate](/word/incorporate/)：組み入れる、取り入れる
 
 ---
 
 ## 📖 できればこれも
 
-- [implement](/word/implement)：実行する、導入する
-- [coordinate](/word/coordinate)：調整する、連携する
+- [implement](/word/implement/)：実行する、導入する
+- [coordinate](/word/coordinate/)：調整する、連携する
 
 <!-- cvid: aid43_bid21 -->

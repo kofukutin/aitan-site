@@ -98,7 +98,7 @@ TOEICでは「come into force（施行される）」や「force someone to do�
 ## 🤔  compel との違いは？
 
 - **force**：物理的・精神的な「力」や「強制力」を表す。  
-- **[compel](/word/compel)**：主に「道徳的・法的な理由でやむを得ず～させる」というニュアンス。
+- **[compel](/word/compel/)**：主に「道徳的・法的な理由でやむを得ず～させる」というニュアンス。
 
 forceは直接的な力や圧力で何かをさせる場合に使い、compelは内面的・外的な事情で「やむを得ず」行動させる時に使います。
 
@@ -106,14 +106,14 @@ forceは直接的な力や圧力で何かをさせる場合に使い、compelは
 
 ## 🧩 あわせて覚えたい
 
-- [power](/word/power)：権力、能力
-- [pressure](/word/pressure)：圧力、プレッシャー
+- [power](/word/power/)：権力、能力
+- [pressure](/word/pressure/)：圧力、プレッシャー
 
 ---
 
 ## 📖 できればこれも
 
-- [effect](/word/effect)：効果、影響
-- [impact](/word/impact)：衝撃、影響
+- [effect](/word/effect/)：効果、影響
+- [impact](/word/impact/)：衝撃、影響
 
 <!-- cvid: aid34_bid39 -->

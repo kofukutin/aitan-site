@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、部屋やオフィスの壁に
 ## 🤔  watch との違いは？
 
 - **clock**：壁や机などに設置する据え置き型の時計
-- **[watch](/word/watch)**：腕時計など、身につけて持ち歩く時計
+- **[watch](/word/watch/)**：腕時計など、身につけて持ち歩く時計
 
 clockは部屋や建物に設置する時計、watchは身につけて持ち歩く時計を指します。
 
@@ -105,14 +105,14 @@ clockは部屋や建物に設置する時計、watchは身につけて持ち歩�
 
 ## 🧩 あわせて覚えたい
 
-- [timer](/word/timer)：タイマー（時間を計測・通知する装置）
-- [alarm](/word/alarm)：アラーム（警報、目覚まし時計）
+- [timer](/word/timer/)：タイマー（時間を計測・通知する装置）
+- [alarm](/word/alarm/)：アラーム（警報、目覚まし時計）
 
 ---
 
 ## 📖 できればこれも
 
-- [calendar](/word/calendar)：カレンダー、日めくり
-- [bell](/word/bell)：ベル、鐘
+- [calendar](/word/calendar/)：カレンダー、日めくり
+- [bell](/word/bell/)：ベル、鐘
 
 <!-- cvid: aid33_bid40 -->

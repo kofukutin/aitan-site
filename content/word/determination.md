@@ -97,7 +97,7 @@ TOEICでは、名詞の語彙問題や文脈判断問題でよく出題されま
 ## 🤔  decision との違いは？
 
 - **determination**：強い意志や「やり抜く決意」を表す
-- **[decision](/word/decision)**：選択や判断そのものを指す
+- **[decision](/word/decision/)**：選択や判断そのものを指す
 
 determinationは「気持ちの強さ」や「不屈の心」に焦点があり、decisionは「選択・判断」という行為自体を指します。
 
@@ -105,14 +105,14 @@ determinationは「気持ちの強さ」や「不屈の心」に焦点があり�
 
 ## 🧩 あわせて覚えたい
 
-- [resolution](/word/resolution)：決意、解決
-- [hesitation](/word/hesitation)：ためらい
+- [resolution](/word/resolution/)：決意、解決
+- [hesitation](/word/hesitation/)：ためらい
 
 ---
 
 ## 📖 できればこれも
 
-- [motivation](/word/motivation)：動機、やる気
-- [commitment](/word/commitment)：約束、献身
+- [motivation](/word/motivation/)：動機、やる気
+- [commitment](/word/commitment/)：約束、献身
 
 <!-- cvid: aid14_bid01 -->

@@ -97,7 +97,7 @@ TOEICでは、スーパーや食品業界、農業関連の記事や広告文で
 ## 🤔  dairy farm との違いは？
 
 - **dairy**：乳製品、または乳製品を扱う場所
-- **[dairy farm](/word/dairy_farm)**：酪農場（牛乳を生産する農場）
+- **[dairy farm](/word/dairy_farm/)**：酪農場（牛乳を生産する農場）
 
 dairyは「乳製品」や「乳製品を扱う場所」を指し、dairy farmは牛乳を生産する「酪農場」を意味します。スーパーで買うのはdairy、牛がいるのはdairy farmです。
 
@@ -105,14 +105,14 @@ dairyは「乳製品」や「乳製品を扱う場所」を指し、dairy farm�
 
 ## 🧩 あわせて覚えたい
 
-- [milk](/word/milk)：牛乳
-- [cheese](/word/cheese)：チーズ
+- [milk](/word/milk/)：牛乳
+- [cheese](/word/cheese/)：チーズ
 
 ---
 
 ## 📖 できればこれも
 
-- [bakery](/word/bakery)：パン屋、パン製品
-- [grocery](/word/grocery)：食料品、食料品店
+- [bakery](/word/bakery/)：パン屋、パン製品
+- [grocery](/word/grocery/)：食料品、食料品店
 
 <!-- cvid: aid30_bid16 -->

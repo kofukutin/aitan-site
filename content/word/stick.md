@@ -97,7 +97,7 @@ stickはTOEICの会話パートで「貼る」「くっつける」などの意�
 ## 🤔  attach との違いは？
 
 - **stick**：カジュアルに「貼る」「くっつける」など物理的な接着を表す
-- **[attach](/word/attach)**：ややフォーマルで「添付する」「取り付ける」など幅広い意味
+- **[attach](/word/attach/)**：ややフォーマルで「添付する」「取り付ける」など幅広い意味
 
 stickは日常的な「貼る」「くっつける」に使い、attachは書類やメールの「添付」などフォーマルな場面や抽象的な「付加」にも使われます。
 
@@ -105,14 +105,14 @@ stickは日常的な「貼る」「くっつける」に使い、attachは書類
 
 ## 🧩 あわせて覚えたい
 
-- [remove](/word/remove)：取り除く
-- [insert](/word/insert)：挿入する
+- [remove](/word/remove/)：取り除く
+- [insert](/word/insert/)：挿入する
 
 ---
 
 ## 📖 できればこれも
 
-- [hold](/word/hold)：持つ、握る
-- [place](/word/place)：置く
+- [hold](/word/hold/)：持つ、握る
+- [place](/word/place/)：置く
 
 <!-- cvid: aid09_bid19 -->

@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「素晴らしい」「良い」という意味
 ## 🤔  amazing との違いは？
 
 - **wonderful**：驚くほど素晴らしい、心から良いと感じる
-- **[amazing](/word/amazing)**：驚きを伴うほどすごい、信じられないほど印象的
+- **[amazing](/word/amazing/)**：驚きを伴うほどすごい、信じられないほど印象的
 
 「wonderful」は温かみや感動を表すことが多く、「amazing」は驚きや意外性を強調します。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「素晴らしい」「良い」という意味
 
 ## 🧩 あわせて覚えたい
 
-- [fantastic](/word/fantastic)：とても素晴らしい、最高の
-- [terrible](/word/terrible)：ひどい、恐ろしい（対義語）
+- [fantastic](/word/fantastic/)：とても素晴らしい、最高の
+- [terrible](/word/terrible/)：ひどい、恐ろしい（対義語）
 
 ---
 
 ## 📖 できればこれも
 
-- [excellent](/word/excellent)：優れた、非常に良い
-- [pleasant](/word/pleasant)：快い、心地よい
+- [excellent](/word/excellent/)：優れた、非常に良い
+- [pleasant](/word/pleasant/)：快い、心地よい
 
 <!-- cvid: aid20_bid48 -->

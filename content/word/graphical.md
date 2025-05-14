@@ -97,7 +97,7 @@ ITやビジネス文書の中で、図やイラスト、インターフェース
 ## 🤔  visual との違いは？
 
 - **graphical**：図やイラスト、グラフなど「図式的・画像的」なものに特化して使う
-- **[visual](/word/visual)**：より広く「視覚的な」「見えるもの全般」に使う
+- **[visual](/word/visual/)**：より広く「視覚的な」「見えるもの全般」に使う
 
 graphicalは「図やグラフなどの図式的な表現」に焦点があり、visualは「視覚に関するもの全般」に使われます。
 
@@ -105,14 +105,14 @@ graphicalは「図やグラフなどの図式的な表現」に焦点があり�
 
 ## 🧩 あわせて覚えたい
 
-- [textual](/word/textual)：文章の、テキストの
-- [pictorial](/word/pictorial)：絵による、絵画的な
+- [textual](/word/textual/)：文章の、テキストの
+- [pictorial](/word/pictorial/)：絵による、絵画的な
 
 ---
 
 ## 📖 できればこれも
 
-- [graphic](/word/graphic)：図、イラスト
-- [diagram](/word/diagram)：図表、ダイアグラム
+- [graphic](/word/graphic/)：図、イラスト
+- [diagram](/word/diagram/)：図表、ダイアグラム
 
 <!-- cvid: aid29_bid38 -->

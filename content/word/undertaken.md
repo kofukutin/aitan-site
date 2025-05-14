@@ -97,7 +97,7 @@ TOEICでは、受動態や完了形で「has/have been undertaken」の形で出
 ## 🤔  performed との違いは？
 
 - **undertaken**：責任を持って何かに着手・引き受けたことを強調
-- **[performed](/word/performed)**：実際に行動や作業を「実行した」ことを強調
+- **[performed](/word/performed/)**：実際に行動や作業を「実行した」ことを強調
 
 「undertaken」は「始める・引き受ける」ニュアンスが強く、performedは「実際にやり遂げた」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは、受動態や完了形で「has/have been undertaken」の形で出
 
 ## 🧩 あわせて覚えたい
 
-- [attempt](/word/attempt)：試みる、挑戦する
-- [commit](/word/commit)：（責任をもって）取り組む、約束する
+- [attempt](/word/attempt/)：試みる、挑戦する
+- [commit](/word/commit/)：（責任をもって）取り組む、約束する
 
 ---
 
 ## 📖 できればこれも
 
-- [accomplish](/word/accomplish)：成し遂げる、達成する
-- [proceed](/word/proceed)：進む、続ける
+- [accomplish](/word/accomplish/)：成し遂げる、達成する
+- [proceed](/word/proceed/)：進む、続ける
 
 <!-- cvid: aid35_bid22 -->

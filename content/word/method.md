@@ -97,7 +97,7 @@ TOEICでは「方法」「手法」として、ビジネスや業務の進め方
 ## 🤔  approach との違いは？
 
 - **method**：体系的・計画的な「方法」や「手順」を強調
-- **[approach](/word/approach)**：問題への「取り組み方」や「姿勢」を強調
+- **[approach](/word/approach/)**：問題への「取り組み方」や「姿勢」を強調
 
 methodは具体的な手順ややり方、approachは考え方や全体的な取り組み方に重点があります。
 
@@ -105,14 +105,14 @@ methodは具体的な手順ややり方、approachは考え方や全体的な取
 
 ## 🧩 あわせて覚えたい
 
-- [procedure](/word/procedure)：手順、手続き
-- [system](/word/system)：体系、制度
+- [procedure](/word/procedure/)：手順、手続き
+- [system](/word/system/)：体系、制度
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process)：過程、工程
-- [strategy](/word/strategy)：戦略、方策
+- [process](/word/process/)：過程、工程
+- [strategy](/word/strategy/)：戦略、方策
 
 <!-- cvid: aid06_bid48 -->

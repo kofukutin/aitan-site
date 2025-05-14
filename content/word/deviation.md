@@ -97,7 +97,7 @@ TOEICでは、報告書や統計データの説明文で「deviation」が使わ
 ## 🤔  variance との違いは？
 
 - **deviation**：基準や標準からの「ずれ」や「逸脱」を個別に表す。
-- **[variance](/word/variance)**：データ全体の「ばらつき」や「分散」を統計的に表す。
+- **[variance](/word/variance/)**：データ全体の「ばらつき」や「分散」を統計的に表す。
 
 deviationは「1つ1つのずれ」に注目し、varianceは「全体のばらつき具合」を示します。
 
@@ -105,14 +105,14 @@ deviationは「1つ1つのずれ」に注目し、varianceは「全体のばら�
 
 ## 🧩 あわせて覚えたい
 
-- [anomaly](/word/anomaly)：異常、例外
-- [standard_deviation](/word/standard_deviation)：標準偏差（データのばらつきの指標）
+- [anomaly](/word/anomaly/)：異常、例外
+- [standard_deviation](/word/standard_deviation/)：標準偏差（データのばらつきの指標）
 
 ---
 
 ## 📖 できればこれも
 
-- [fluctuation](/word/fluctuation)：変動
-- [discrepancy](/word/discrepancy)：不一致、食い違い
+- [fluctuation](/word/fluctuation/)：変動
+- [discrepancy](/word/discrepancy/)：不一致、食い違い
 
 <!-- cvid: aid37_bid27 -->

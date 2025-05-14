@@ -97,7 +97,7 @@ oldestは比較級・最上級の文法問題や、年齢・歴史に関する�
 ## 🤔  eldest との違いは？
 
 - **oldest**：最も古い、最年長の（一般的な最上級表現。人・物どちらにも使える）
-- **[eldest](/word/eldest)**：最年長の（特に家族や兄弟姉妹の中で使われるフォーマルな表現）
+- **[eldest](/word/eldest/)**：最年長の（特に家族や兄弟姉妹の中で使われるフォーマルな表現）
 
 oldestは人にも物にも幅広く使えますが、eldestは主に家族内の最年長者を指すときに使われ、ややフォーマルです。
 
@@ -105,14 +105,14 @@ oldestは人にも物にも幅広く使えますが、eldestは主に家族内�
 
 ## 🧩 あわせて覚えたい
 
-- [ancient](/word/ancient)：非常に古い
-- [youngest](/word/youngest)：最も若い、最年少の
+- [ancient](/word/ancient/)：非常に古い
+- [youngest](/word/youngest/)：最も若い、最年少の
 
 ---
 
 ## 📖 できればこれも
 
-- [older](/word/older)：より年上の、より古い
-- [younger](/word/younger)：より若い、年下の
+- [older](/word/older/)：より年上の、より古い
+- [younger](/word/younger/)：より若い、年下の
 
 <!-- cvid: aid41_bid46 -->

@@ -97,7 +97,7 @@ ITやビジネスの場面で「ロック解除」や「アクセス権の付与
 ## 🤔  open との違いは？
 
 - **unlock**：鍵やロックを解除することに特化した表現
-- **[open](/word/open)**：ドアや窓などを「開ける」一般的な動作
+- **[open](/word/open/)**：ドアや窓などを「開ける」一般的な動作
 
 unlockは「鍵を開ける」や「制限を解除する」場合に使い、openは「物理的に開く」動作全般に使います。
 
@@ -105,14 +105,14 @@ unlockは「鍵を開ける」や「制限を解除する」場合に使い、op
 
 ## 🧩 あわせて覚えたい
 
-- [lock](/word/lock)：鍵をかける、ロックする
-- [release](/word/release)：解放する、リリースする
+- [lock](/word/lock/)：鍵をかける、ロックする
+- [release](/word/release/)：解放する、リリースする
 
 ---
 
 ## 📖 できればこれも
 
-- [enter](/word/enter)：入力する、入る
-- [access](/word/access)：アクセスする、接続する
+- [enter](/word/enter/)：入力する、入る
+- [access](/word/access/)：アクセスする、接続する
 
 <!-- cvid: aid38_bid10 -->

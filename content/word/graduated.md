@@ -97,7 +97,7 @@ TOEICでは履歴書や職歴、学歴を問う文脈でよく出題されます
 ## 🤔  completed との違いは？
 
 - **graduated**：学校やコースを「卒業した」ことを強調
-- **[completed](/word/completed)**：課題やコースなどを「完了した」ことを強調
+- **[completed](/word/completed/)**：課題やコースなどを「完了した」ことを強調
 
 graduatedは「学業の修了」に特化し、completedは「何かを終えた」全般に使います。
 
@@ -105,14 +105,14 @@ graduatedは「学業の修了」に特化し、completedは「何かを終え�
 
 ## 🧩 あわせて覚えたい
 
-- [enroll](/word/enroll)：入学する
-- [certificate](/word/certificate)：証明書
+- [enroll](/word/enroll/)：入学する
+- [certificate](/word/certificate/)：証明書
 
 ---
 
 ## 📖 できればこれも
 
-- [attend](/word/attend)：出席する
-- [achieve](/word/achieve)：達成する
+- [attend](/word/attend/)：出席する
+- [achieve](/word/achieve/)：達成する
 
 <!-- cvid: aid39_bid13 -->

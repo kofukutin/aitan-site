@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人や動物の体の部位として
 ## 🤔  throat との違いは？
 
 - **neck**：外側の「首」全体を指す
-- **[throat](/word/throat)**：首の内側の「のど」、食道や気道の部分
+- **[throat](/word/throat/)**：首の内側の「のど」、食道や気道の部分
 
 neckは外から見える首全体、throatは主に内側ののど部分を指します。
 
@@ -105,14 +105,14 @@ neckは外から見える首全体、throatは主に内側ののど部分を指�
 
 ## 🧩 あわせて覚えたい
 
-- [shoulder](/word/shoulder)：肩
-- [waist](/word/waist)：腰
+- [shoulder](/word/shoulder/)：肩
+- [waist](/word/waist/)：腰
 
 ---
 
 ## 📖 できればこれも
 
-- [arm](/word/arm)：腕
-- [back](/word/back)：背中
+- [arm](/word/arm/)：腕
+- [back](/word/back/)：背中
 
 <!-- cvid: aid29_bid42 -->

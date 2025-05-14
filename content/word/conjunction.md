@@ -93,7 +93,7 @@ TOEICでは文法問題で接続詞の使い分けや適切な選択肢として
 ## 🤔  transition との違いは？
 
 - **conjunction**：語や文、句を文法的に結びつける接続詞やその役割。
-- **[transition](/word/transition)**：話や文章の流れを滑らかにするためのつなぎ言葉や表現。
+- **[transition](/word/transition/)**：話や文章の流れを滑らかにするためのつなぎ言葉や表現。
 
 conjunctionは文法的な結合を担い、transitionは話題や段落の移り変わりを自然にする役割です。
 
@@ -101,14 +101,14 @@ conjunctionは文法的な結合を担い、transitionは話題や段落の移�
 
 ## 🧩 あわせて覚えたい
 
-- [preposition](/word/preposition)：前置詞（名詞や代名詞の前に置き、関係を示す語）
-- [however](/word/however)：しかしながら（逆接を表す副詞・接続副詞）
+- [preposition](/word/preposition/)：前置詞（名詞や代名詞の前に置き、関係を示す語）
+- [however](/word/however/)：しかしながら（逆接を表す副詞・接続副詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [clause](/word/clause)：節（主語と動詞を含む文の一部）
-- [phrase](/word/phrase)：句（意味を持つ語のまとまり、主語・動詞を含まないことが多い）
+- [clause](/word/clause/)：節（主語と動詞を含む文の一部）
+- [phrase](/word/phrase/)：句（意味を持つ語のまとまり、主語・動詞を含まないことが多い）
 
 <!-- cvid: aid42_bid23 -->

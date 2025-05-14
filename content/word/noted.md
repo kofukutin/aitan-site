@@ -97,7 +97,7 @@ TOEICでは、記事や案内文、人物紹介などで「noted」が使われ�
 ## 🤔  famous との違いは？
 
 - **noted**：特定の分野や理由で評価されている、フォーマルな「著名な」
-- **[famous](/word/famous)**：広く一般的に知られている「有名な」
+- **[famous](/word/famous/)**：広く一般的に知られている「有名な」
 
 notedは専門分野や業績で評価されている場合に使い、famousは単に多くの人に知られている場合に使います。
 
@@ -105,14 +105,14 @@ notedは専門分野や業績で評価されている場合に使い、famousは
 
 ## 🧩 あわせて覚えたい
 
-- [renowned](/word/renowned)：高く評価されている、名高い
-- [obscure](/word/obscure)：無名の、あまり知られていない
+- [renowned](/word/renowned/)：高く評価されている、名高い
+- [obscure](/word/obscure/)：無名の、あまり知られていない
 
 ---
 
 ## 📖 できればこれも
 
-- [distinguished](/word/distinguished)：優れた、際立った
-- [prominent](/word/prominent)：目立った、著名な
+- [distinguished](/word/distinguished/)：優れた、際立った
+- [prominent](/word/prominent/)：目立った、著名な
 
 <!-- cvid: aid33_bid28 -->

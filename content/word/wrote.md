@@ -97,7 +97,7 @@ wroteは、動詞の時制や文法問題でよく出題されます。特に過
 ## 🤔  composed との違いは？
 
 - **wrote**：一般的に「書いた」という意味で、手紙や文章など幅広く使う。
-- **[composed](/word/composed)**：特に「文章や音楽などを創作した」という意味で、ややフォーマル。
+- **[composed](/word/composed/)**：特に「文章や音楽などを創作した」という意味で、ややフォーマル。
 
 wroteは単に「書いた」ことを指し、composedは「構成して創作した」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ wroteは単に「書いた」ことを指し、composedは「構成して創作�
 
 ## 🧩 あわせて覚えたい
 
-- [recorded](/word/recorded)：記録した、録音した
-- [drafted](/word/drafted)：下書きした、草案を作成した
+- [recorded](/word/recorded/)：記録した、録音した
+- [drafted](/word/drafted/)：下書きした、草案を作成した
 
 ---
 
 ## 📖 できればこれも
 
-- [read](/word/read)：読む
-- [send](/word/send)：送る
+- [read](/word/read/)：読む
+- [send](/word/send/)：送る
 
 <!-- cvid: aid44_bid05 -->

@@ -97,7 +97,7 @@ TOEICでは、会議やオフィスでのやりとりの中で「書類をどこ
 ## 🤔  lose との違いは？
 
 - **misplace**：一時的にどこにあるか分からなくなる（置き間違える）
-- **[lose](/word/lose)**：完全に失う、なくす
+- **[lose](/word/lose/)**：完全に失う、なくす
 
 misplaceは「どこかに置いて見つからない」状態で、loseは「完全になくしてしまう」場合に使います。
 
@@ -105,14 +105,14 @@ misplaceは「どこかに置いて見つからない」状態で、loseは「�
 
 ## 🧩 あわせて覚えたい
 
-- [forget](/word/forget)：忘れる
-- [drop](/word/drop)：落とす
+- [forget](/word/forget/)：忘れる
+- [drop](/word/drop/)：落とす
 
 ---
 
 ## 📖 できればこれも
 
-- [locate](/word/locate)：見つける、位置を特定する
-- [find](/word/find)：見つける
+- [locate](/word/locate/)：見つける、位置を特定する
+- [find](/word/find/)：見つける
 
 <!-- cvid: aid01_bid46 -->

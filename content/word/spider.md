@@ -96,7 +96,7 @@ TOEICでは主にPart 1の写真描写で、動物や物の説明として登場
 ## 🤔  insect との違いは？
 
 - **spider**：8本脚のクモ。昆虫とは異なる分類。
-- **[insect](/word/insect)**：6本脚の昆虫全般。アリやハチなど。
+- **[insect](/word/insect/)**：6本脚の昆虫全般。アリやハチなど。
 
 spiderはクモ類（arachnid）で、insectは昆虫類。脚の数や体の構造が異なります。
 
@@ -104,14 +104,14 @@ spiderはクモ類（arachnid）で、insectは昆虫類。脚の数や体の構
 
 ## 🧩 あわせて覚えたい
 
-- [web](/word/web)：クモの巣
-- [arachnid](/word/arachnid)：クモ類（クモやサソリなど）
+- [web](/word/web/)：クモの巣
+- [arachnid](/word/arachnid/)：クモ類（クモやサソリなど）
 
 ---
 
 ## 📖 できればこれも
 
-- [ant](/word/ant)：アリ
-- [bee](/word/bee)：ハチ
+- [ant](/word/ant/)：アリ
+- [bee](/word/bee/)：ハチ
 
 <!-- cvid: aid14_bid30 -->

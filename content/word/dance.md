@@ -98,7 +98,7 @@ TOEICではイベントや余暇、観光に関する会話で「dance」が登�
 ## 🤔  perform との違いは？
 
 - **dance**：音楽に合わせて体を動かして踊ること。
-- **[perform](/word/perform)**：踊りだけでなく、歌や演技など広い意味で「演じる」「披露する」。
+- **[perform](/word/perform/)**：踊りだけでなく、歌や演技など広い意味で「演じる」「披露する」。
 
 danceは「踊る」ことに特化し、performは舞台でのあらゆるパフォーマンス全般に使われます。
 
@@ -106,14 +106,14 @@ danceは「踊る」ことに特化し、performは舞台でのあらゆるパ�
 
 ## 🧩 あわせて覚えたい
 
-- [sing](/word/sing)：歌う
-- [move](/word/move)：動く
+- [sing](/word/sing/)：歌う
+- [move](/word/move/)：動く
 
 ---
 
 ## 📖 できればこれも
 
-- [play](/word/play)：遊ぶ、演奏する
-- [enjoy](/word/enjoy)：楽しむ
+- [play](/word/play/)：遊ぶ、演奏する
+- [enjoy](/word/enjoy/)：楽しむ
 
 <!-- cvid: aid27_bid29 -->

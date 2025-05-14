@@ -97,7 +97,7 @@ TOEICではレストランやカフェの会話、またはIT関連の説明で�
 ## 🤔  list との違いは？
 
 - **menu**：主に飲食店やソフトウェアの選択肢一覧を指す
-- **[list](/word/list)**：一般的な項目の並びやリスト全般を指す
+- **[list](/word/list/)**：一般的な項目の並びやリスト全般を指す
 
 「menu」は料理や選択肢の一覧に特化し、「list」はより幅広い用途で使われます。
 
@@ -105,14 +105,14 @@ TOEICではレストランやカフェの会話、またはIT関連の説明で�
 
 ## 🧩 あわせて覚えたい
 
-- [catalog](/word/catalog)：商品やサービスの一覧
-- [option](/word/option)：選択肢、オプション
+- [catalog](/word/catalog/)：商品やサービスの一覧
+- [option](/word/option/)：選択肢、オプション
 
 ---
 
 ## 📖 できればこれも
 
-- [order](/word/order)：注文する、注文
-- [dish](/word/dish)：料理、皿
+- [order](/word/order/)：注文する、注文
+- [dish](/word/dish/)：料理、皿
 
 <!-- cvid: aid37_bid27 -->

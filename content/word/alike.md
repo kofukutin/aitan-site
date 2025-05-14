@@ -93,7 +93,7 @@ TOEICでは、主に比較や類似性を表す文脈で副詞として出題さ
 ## 🤔  similar との違いは？
 
 - **alike**：2つ以上のものが「互いに似ている」ことを強調し、主に補語や副詞的に使う
-- **[similar](/word/similar)**：何かが「～に似ている」と述べる形容詞で、名詞を修飾できる
+- **[similar](/word/similar/)**：何かが「～に似ている」と述べる形容詞で、名詞を修飾できる
 
 alikeは「A and B are alike」のように主語同士の類似を表し、similarは「A is similar to B」のように一方が他方に似ていることを表します。
 
@@ -101,14 +101,14 @@ alikeは「A and B are alike」のように主語同士の類似を表し、simi
 
 ## 🧩 あわせて覚えたい
 
-- [different](/word/different)：異なる
-- [identical](/word/identical)：全く同じ、同一の
+- [different](/word/different/)：異なる
+- [identical](/word/identical/)：全く同じ、同一の
 
 ---
 
 ## 📖 できればこれも
 
-- [equal](/word/equal)：等しい、同等の
-- [various](/word/various)：さまざまな
+- [equal](/word/equal/)：等しい、同等の
+- [various](/word/various/)：さまざまな
 
 <!-- cvid: aid31_bid12 -->

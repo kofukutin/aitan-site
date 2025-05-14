@@ -97,7 +97,7 @@ TOEICでは「標識」「合図」「署名」など複数の意味で出題さ
 ## 🤔  signal との違いは？
 
 - **sign**：目に見えるしるしや標識、または署名など幅広い「しるし」を指す
-- **[signal](/word/signal)**：特に「信号」や「合図」としての意味が強く、通信や交通などで使われる
+- **[signal](/word/signal/)**：特に「信号」や「合図」としての意味が強く、通信や交通などで使われる
 
 signは一般的な「しるし」や「標識」全般を指し、signalは特定の動作や通信での「合図」に使われます。
 
@@ -105,14 +105,14 @@ signは一般的な「しるし」や「標識」全般を指し、signalは特�
 
 ## 🧩 あわせて覚えたい
 
-- [indication](/word/indication)：兆候、指示
-- [notice](/word/notice)：通知、掲示
+- [indication](/word/indication/)：兆候、指示
+- [notice](/word/notice/)：通知、掲示
 
 ---
 
 ## 📖 できればこれも
 
-- [mark](/word/mark)：印、記号
-- [symbol](/word/symbol)：象徴、記号
+- [mark](/word/mark/)：印、記号
+- [symbol](/word/symbol/)：象徴、記号
 
 <!-- cvid: aid19_bid14 -->

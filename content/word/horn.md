@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、車や動物の角、楽器などの
 ## 🤔  trumpet との違いは？
 
 - **horn**：動物の角、車のクラクション、またはホルン（楽器）など幅広い意味で使う
-- **[trumpet](/word/trumpet)**：主に楽器の「トランペット」を指す
+- **[trumpet](/word/trumpet/)**：主に楽器の「トランペット」を指す
 
 hornは「角」や「警笛」など多用途ですが、trumpetは楽器限定で使われます。
 
@@ -105,14 +105,14 @@ hornは「角」や「警笛」など多用途ですが、trumpetは楽器限定
 
 ## 🧩 あわせて覚えたい
 
-- [alarm](/word/alarm)：警報、アラーム
-- [whistle](/word/whistle)：笛、ホイッスル
+- [alarm](/word/alarm/)：警報、アラーム
+- [whistle](/word/whistle/)：笛、ホイッスル
 
 ---
 
 ## 📖 できればこれも
 
-- [bell](/word/bell)：ベル、鈴
-- [signal](/word/signal)：信号、合図
+- [bell](/word/bell/)：ベル、鈴
+- [signal](/word/signal/)：信号、合図
 
 <!-- cvid: aid07_bid26 -->

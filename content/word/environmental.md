@@ -97,7 +97,7 @@ TOEICでは、環境問題や企業の社会的責任に関する長文や記事
 ## 🤔  ecological との違いは？
 
 - **environmental**：環境全般や人間活動による影響など広い意味で使う
-- **[ecological](/word/ecological)**：生態系や生物同士の関係など、より自然科学的な側面を強調
+- **[ecological](/word/ecological/)**：生態系や生物同士の関係など、より自然科学的な側面を強調
 
 「environmental」は社会や人間活動も含めた広い「環境」に関する話題で使い、「ecological」は動植物や生態系など自然科学的な文脈で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、環境問題や企業の社会的責任に関する長文や記事
 
 ## 🧩 あわせて覚えたい
 
-- [environment](/word/environment)：環境
-- [pollution](/word/pollution)：汚染
+- [environment](/word/environment/)：環境
+- [pollution](/word/pollution/)：汚染
 
 ---
 
 ## 📖 できればこれも
 
-- [sustainable](/word/sustainable)：持続可能な
-- [global](/word/global)：世界的な
+- [sustainable](/word/sustainable/)：持続可能な
+- [global](/word/global/)：世界的な
 
 <!-- cvid: aid13_bid14 -->

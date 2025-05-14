@@ -97,7 +97,7 @@ TOEICでは、服装や雰囲気、態度について説明する場面で出題
 ## 🤔  informal との違いは？
 
 - **casual**：気軽さや普段着、堅苦しくない雰囲気を表す
-- **[informal](/word/informal)**：公式でない、形式ばらない（やや広い意味）
+- **[informal](/word/informal/)**：公式でない、形式ばらない（やや広い意味）
 
 「casual」は服装や態度などの「気軽さ」に焦点があり、「informal」は「公式でない」こと全般に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、服装や雰囲気、態度について説明する場面で出題
 
 ## 🧩 あわせて覚えたい
 
-- [formal](/word/formal)：正式な、フォーマルな
-- [relaxed](/word/relaxed)：くつろいだ、リラックスした
+- [formal](/word/formal/)：正式な、フォーマルな
+- [relaxed](/word/relaxed/)：くつろいだ、リラックスした
 
 ---
 
 ## 📖 できればこれも
 
-- [comfortable](/word/comfortable)：快適な、心地よい
-- [friendly](/word/friendly)：親しみやすい、友好的な
+- [comfortable](/word/comfortable/)：快適な、心地よい
+- [friendly](/word/friendly/)：親しみやすい、友好的な
 
 <!-- cvid: aid06_bid04 -->

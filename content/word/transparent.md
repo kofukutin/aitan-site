@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や説明文で「透明性」や「明白さ」
 ## 🤔  clear との違いは？
 
 - **transparent**：物理的に「透けて見える」または比喩的に「隠しごとがないほど明白」
-- **[clear](/word/clear)**：曖昧さがなく「はっきりしている」、視界や説明が「明快」
+- **[clear](/word/clear/)**：曖昧さがなく「はっきりしている」、視界や説明が「明快」
 
 transparentは「中身が見える」「隠しごとがない」ニュアンスが強く、clearは「邪魔がなくて見やすい」「説明が分かりやすい」といった意味で使い分けます。
 
@@ -105,14 +105,14 @@ transparentは「中身が見える」「隠しごとがない」ニュアンス
 
 ## 🧩 あわせて覚えたい
 
-- [opaque](/word/opaque)：不透明な
-- [obvious](/word/obvious)：明らかな
+- [opaque](/word/opaque/)：不透明な
+- [obvious](/word/obvious/)：明らかな
 
 ---
 
 ## 📖 できればこれも
 
-- [visible](/word/visible)：目に見える
-- [accurate](/word/accurate)：正確な
+- [visible](/word/visible/)：目に見える
+- [accurate](/word/accurate/)：正確な
 
 <!-- cvid: aid09_bid19 -->

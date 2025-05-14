@@ -97,7 +97,7 @@ TOEICではPart 5を中心に、業務の効率化やサービス向上などの
 ## 🤔  enhance との違いは？
 
 - **improve**：全体的に良くする、一般的な「改善」
-- **[enhance](/word/enhance)**：価値や質を高める、より強調した「向上」
+- **[enhance](/word/enhance/)**：価値や質を高める、より強調した「向上」
 
 「improve」は幅広い改善に使われ、「enhance」は特定の機能や価値をより高める場合に使われます。
 
@@ -105,14 +105,14 @@ TOEICではPart 5を中心に、業務の効率化やサービス向上などの
 
 ## 🧩 あわせて覚えたい
 
-- [develop](/word/develop)：発展させる、開発する
-- [worsen](/word/worsen)：悪化させる、悪くなる
+- [develop](/word/develop/)：発展させる、開発する
+- [worsen](/word/worsen/)：悪化させる、悪くなる
 
 ---
 
 ## 📖 できればこれも
 
-- [increase](/word/increase)：増やす、増加する
-- [progress](/word/progress)：進歩する、前進する
+- [increase](/word/increase/)：増やす、増加する
+- [progress](/word/progress/)：進歩する、前進する
 
 <!-- cvid: aid49_bid00 -->

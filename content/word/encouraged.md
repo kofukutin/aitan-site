@@ -97,7 +97,7 @@ encouragedはPart 5の語彙・文法問題でよく見かけます。受動態�
 ## 🤔  motivated との違いは？
 
 - **encouraged**：外部から励まされて勇気や自信をもらった状態
-- **[motivated](/word/motivated)**：内面的にやる気や動機づけが高まった状態
+- **[motivated](/word/motivated/)**：内面的にやる気や動機づけが高まった状態
 
 encouragedは「誰かに背中を押されて元気が出た」ニュアンス、motivatedは「自分の中からやる気が湧いている」ニュアンスです。
 
@@ -105,14 +105,14 @@ encouragedは「誰かに背中を押されて元気が出た」ニュアンス�
 
 ## 🧩 あわせて覚えたい
 
-- [discouraged](/word/discouraged)：落ち込んだ、やる気をなくした
-- [support](/word/support)：支援、サポート
+- [discouraged](/word/discouraged/)：落ち込んだ、やる気をなくした
+- [support](/word/support/)：支援、サポート
 
 ---
 
 ## 📖 できればこれも
 
-- [confident](/word/confident)：自信がある
-- [inspired](/word/inspired)：刺激を受けた、感化された
+- [confident](/word/confident/)：自信がある
+- [inspired](/word/inspired/)：刺激を受けた、感化された
 
 <!-- cvid: aid03_bid25 -->

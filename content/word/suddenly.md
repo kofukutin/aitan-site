@@ -97,7 +97,7 @@ TOEICでは会話や説明文の中で、状況の急な変化を表す際によ
 ## 🤔  abruptly との違いは？
 
 - **suddenly**：予告なく、急に何かが起こることを幅広く表す。
-- **[abruptly](/word/abruptly)**：突然であると同時に、やや唐突・不自然な印象や、ぶっきらぼうなニュアンスを含む。
+- **[abruptly](/word/abruptly/)**：突然であると同時に、やや唐突・不自然な印象や、ぶっきらぼうなニュアンスを含む。
 
 suddenlyは単に「急に起こる」ことを表し、abruptlyは「唐突さ」や「不意打ち感」がより強調されます。
 
@@ -105,14 +105,14 @@ suddenlyは単に「急に起こる」ことを表し、abruptlyは「唐突さ�
 
 ## 🧩 あわせて覚えたい
 
-- [immediately](/word/immediately)：すぐに、直ちに
-- [unexpectedly](/word/unexpectedly)：思いがけなく、不意に
+- [immediately](/word/immediately/)：すぐに、直ちに
+- [unexpectedly](/word/unexpectedly/)：思いがけなく、不意に
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/word/quickly)：速く、すばやく
-- [instantly](/word/instantly)：即座に、すぐに
+- [quickly](/word/quickly/)：速く、すばやく
+- [instantly](/word/instantly/)：即座に、すぐに
 
 <!-- cvid: aid03_bid04 -->

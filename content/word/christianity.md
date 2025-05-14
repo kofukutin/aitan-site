@@ -97,7 +97,7 @@ TOEICでは、宗教や文化に関する長文や説明文で登場すること
 ## 🤔  religion との違いは？
 
 - **Christianity**：キリスト教という特定の宗教を指す
-- **[religion](/word/religion)**：宗教全般や信仰そのものを指す一般的な語
+- **[religion](/word/religion/)**：宗教全般や信仰そのものを指す一般的な語
 
 Christianityは具体的な宗教名、religionは広く宗教全体や信仰を表します。
 
@@ -106,13 +106,13 @@ Christianityは具体的な宗教名、religionは広く宗教全体や信仰を
 ## 🧩 あわせて覚えたい
 
 - [Judaism](/Judaism)：ユダヤ教
-- [church](/word/church)：教会
+- [church](/word/church/)：教会
 
 ---
 
 ## 📖 できればこれも
 
-- [belief](/word/belief)：信念、信仰
-- [faith](/word/faith)：信仰、信頼
+- [belief](/word/belief/)：信念、信仰
+- [faith](/word/faith/)：信仰、信頼
 
 <!-- cvid: aid19_bid37 -->

@@ -97,7 +97,7 @@ TOEICでは、記事やレビュー、ビジネスレポートなどで「高い
 ## 🤔  praise との違いは？
 
 - **acclaim**：多くの人や専門家からの公の称賛・絶賛を強調するフォーマルな表現
-- **[praise](/word/praise)**：一般的な「褒める」「称賛する」で、日常的な場面でも使える
+- **[praise](/word/praise/)**：一般的な「褒める」「称賛する」で、日常的な場面でも使える
 
 acclaimは公式な評価や大勢からの絶賛に使われ、praiseは個人間やカジュアルな褒め言葉にも幅広く使えます。
 
@@ -105,14 +105,14 @@ acclaimは公式な評価や大勢からの絶賛に使われ、praiseは個人�
 
 ## 🧩 あわせて覚えたい
 
-- [applause](/word/applause)：拍手喝采
-- [recognition](/word/recognition)：認知、評価
+- [applause](/word/applause/)：拍手喝采
+- [recognition](/word/recognition/)：認知、評価
 
 ---
 
 ## 📖 できればこれも
 
-- [honor](/word/honor)：名誉、栄誉
-- [award](/word/award)：賞、授与する
+- [honor](/word/honor/)：名誉、栄誉
+- [award](/word/award/)：賞、授与する
 
 <!-- cvid: aid41_bid03 -->

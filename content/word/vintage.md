@@ -97,7 +97,7 @@ TOEICでは、商品説明や広告文、Eメールなどで「vintage」が登�
 ## 🤔  antique との違いは？
 
 - **vintage**：特定の時代の高品質で価値のあるもの、主に20世紀以降のものに使われることが多い
-- **[antique](/word/antique)**：100年以上前の骨董品や美術品など、より古いものに使われる
+- **[antique](/word/antique/)**：100年以上前の骨董品や美術品など、より古いものに使われる
 
 「vintage」は比較的新しい年代物やファッション、車などに、「antique」はより歴史的価値のある古い物に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、商品説明や広告文、Eメールなどで「vintage」が登�
 
 ## 🧩 あわせて覚えたい
 
-- [retro](/word/retro)：懐かしい雰囲気の、昔風の
-- [classic](/word/classic)：古典的な、定番の
+- [retro](/word/retro/)：懐かしい雰囲気の、昔風の
+- [classic](/word/classic/)：古典的な、定番の
 
 ---
 
 ## 📖 できればこれも
 
-- [authentic](/word/authentic)：本物の、正真正銘の
-- [unique](/word/unique)：唯一の、独特な
+- [authentic](/word/authentic/)：本物の、正真正銘の
+- [unique](/word/unique/)：唯一の、独特な
 
 <!-- cvid: aid30_bid43 -->

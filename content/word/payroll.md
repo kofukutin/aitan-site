@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や人事関連の文脈で出題されます
 ## 🤔  salary との違いは？
 
 - **payroll**：従業員全体の給与名簿や総額を指す
-- **[salary](/word/salary)**：個人が受け取る月給・年俸を指す
+- **[salary](/word/salary/)**：個人が受け取る月給・年俸を指す
 
 payrollは会社全体の「支払いリスト」や「総額」、salaryは個人の「給料」という違いがあります。
 
@@ -105,14 +105,14 @@ payrollは会社全体の「支払いリスト」や「総額」、salaryは個�
 
 ## 🧩 あわせて覚えたい
 
-- [wage](/word/wage)：時給・日給など時間単位の賃金
-- [bonus](/word/bonus)：賞与、ボーナス
+- [wage](/word/wage/)：時給・日給など時間単位の賃金
+- [bonus](/word/bonus/)：賞与、ボーナス
 
 ---
 
 ## 📖 できればこれも
 
-- [invoice](/word/invoice)：請求書
-- [expense](/word/expense)：経費
+- [invoice](/word/invoice/)：請求書
+- [expense](/word/expense/)：経費
 
 <!-- cvid: aid09_bid42 -->

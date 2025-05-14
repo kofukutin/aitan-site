@@ -97,7 +97,7 @@ TOEICでは、物流やオフィスでのやり取り、納品・受領の場面
 ## 🤔  acceptance との違いは？
 
 - **receiving**：物や情報を実際に受け取る「受領」「受け取り作業」を指す
-- **[acceptance](/word/acceptance)**：受け入れること、承諾・受諾の意味が強い
+- **[acceptance](/word/acceptance/)**：受け入れること、承諾・受諾の意味が強い
 
 receivingは物理的な受け取りや物流現場で使われ、acceptanceは承認や同意など抽象的な「受け入れ」に使われます。
 
@@ -105,14 +105,14 @@ receivingは物理的な受け取りや物流現場で使われ、acceptanceは�
 
 ## 🧩 あわせて覚えたい
 
-- [delivery](/word/delivery)：配達、納品
-- [shipment](/word/shipment)：発送、出荷
+- [delivery](/word/delivery/)：配達、納品
+- [shipment](/word/shipment/)：発送、出荷
 
 ---
 
 ## 📖 できればこれも
 
-- [purchase](/word/purchase)：購入
-- [order](/word/order)：注文
+- [purchase](/word/purchase/)：購入
+- [order](/word/order/)：注文
 
 <!-- cvid: aid01_bid33 -->

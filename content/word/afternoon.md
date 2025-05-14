@@ -96,7 +96,7 @@ TOEICではPart 1やPart 2で、時間帯を表す語としてよく登場しま
 ## 🤔  evening との違いは？
 
 - **afternoon**：正午から夕方までの「午後」
-- **[evening](/word/evening)**：夕方から夜の始まりまでの「夕方・晩」
+- **[evening](/word/evening/)**：夕方から夜の始まりまでの「夕方・晩」
 
 afternoonは昼過ぎから夕方前まで、eveningは日が暮れてから夜の始まりまでを指します。
 
@@ -104,14 +104,14 @@ afternoonは昼過ぎから夕方前まで、eveningは日が暮れてから夜�
 
 ## 🧩 あわせて覚えたい
 
-- [morning](/word/morning)：朝、午前
-- [noon](/word/noon)：正午
+- [morning](/word/morning/)：朝、午前
+- [noon](/word/noon/)：正午
 
 ---
 
 ## 📖 できればこれも
 
-- [night](/word/night)：夜
-- [today](/word/today)：今日
+- [night](/word/night/)：夜
+- [today](/word/today/)：今日
 
 <!-- cvid: aid43_bid27 -->

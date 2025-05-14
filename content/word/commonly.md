@@ -97,7 +97,7 @@ TOEICでは説明文や案内文などで「一般的に」「よくあること
 ## 🤔  generally との違いは？
 
 - **commonly**：多くの場合に当てはまる「よくあること」「一般的に」という意味で、頻度や広がりに焦点。
-- **[generally](/word/generally)**：全体的な傾向や例外を除いた「概して」「大体は」という意味で、より幅広い一般論に使う。
+- **[generally](/word/generally/)**：全体的な傾向や例外を除いた「概して」「大体は」という意味で、より幅広い一般論に使う。
 
 「commonly」は「よく見かける」「多くの人が経験する」ことに重点があり、「generally」は「全体的に見て」「例外を除いて」というニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは説明文や案内文などで「一般的に」「よくあること
 
 ## 🧩 あわせて覚えたい
 
-- [frequently](/word/frequently)：頻繁に
-- [rarely](/word/rarely)：めったに～ない
+- [frequently](/word/frequently/)：頻繁に
+- [rarely](/word/rarely/)：めったに～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [typically](/word/typically)：典型的に、たいてい
-- [usually](/word/usually)：たいてい、普通は
+- [typically](/word/typically/)：典型的に、たいてい
+- [usually](/word/usually/)：たいてい、普通は
 
 <!-- cvid: aid37_bid42 -->

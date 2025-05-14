@@ -97,7 +97,7 @@ TOEICでは、ITやビジネスの文脈で「automated system」「automated pr
 ## 🤔  automatic との違いは？
 
 - **automated**：人の手を使わずに自動化された（特にシステムやプロセスに使う）
-- **[automatic](/word/automatic)**：自動的に動作する（機械や装置自体の性質を指す）
+- **[automatic](/word/automatic/)**：自動的に動作する（機械や装置自体の性質を指す）
 
 「automated」は人の作業を機械化したニュアンスが強く、プロセスやシステムに多用されます。「automatic」は機械や装置が自動で動く性質そのものを表します。
 
@@ -105,14 +105,14 @@ TOEICでは、ITやビジネスの文脈で「automated system」「automated pr
 
 ## 🧩 あわせて覚えたい
 
-- [manual](/word/manual)：手動の
-- [mechanized](/word/mechanized)：機械化された
+- [manual](/word/manual/)：手動の
+- [mechanized](/word/mechanized/)：機械化された
 
 ---
 
 ## 📖 できればこれも
 
-- [digital](/word/digital)：デジタルの
-- [electronic](/word/electronic)：電子の
+- [digital](/word/digital/)：デジタルの
+- [electronic](/word/electronic/)：電子の
 
 <!-- cvid: aid04_bid08 -->

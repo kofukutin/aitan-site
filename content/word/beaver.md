@@ -97,7 +97,7 @@ beaverはTOEICのPart 7で、自然や動物に関する説明文や記事で登
 ## 🤔  otter との違いは？
 
 - **beaver**：川や湖に住み、木をかじってダムや巣を作る大型のげっ歯類。
-- **[otter](/word/otter)**：水中で泳ぐのが得意な細長い体の動物で、主に魚を食べる。
+- **[otter](/word/otter/)**：水中で泳ぐのが得意な細長い体の動物で、主に魚を食べる。
 
 beaverはダム作りで有名な動物、otterは泳ぎや狩りが得意な水生哺乳類です。
 
@@ -105,14 +105,14 @@ beaverはダム作りで有名な動物、otterは泳ぎや狩りが得意な水
 
 ## 🧩 あわせて覚えたい
 
-- [dam](/word/dam)：ダム、堰
-- [rodent](/word/rodent)：げっ歯類
+- [dam](/word/dam/)：ダム、堰
+- [rodent](/word/rodent/)：げっ歯類
 
 ---
 
 ## 📖 できればこれも
 
-- [squirrel](/word/squirrel)：リス
-- [rabbit](/word/rabbit)：ウサギ
+- [squirrel](/word/squirrel/)：リス
+- [rabbit](/word/rabbit/)：ウサギ
 
 <!-- cvid: aid15_bid32 -->

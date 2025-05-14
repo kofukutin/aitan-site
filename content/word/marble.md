@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、建物や床材、彫刻などの説
 ## 🤔  stone との違いは？
 
 - **marble**：美しい模様のある大理石やビー玉を指す。
-- **[stone](/word/stone)**：一般的な「石」全般を指す。
+- **[stone](/word/stone/)**：一般的な「石」全般を指す。
 
 marbleは特定の種類の石（大理石）やビー玉に限定され、stoneは広くあらゆる石を指します。
 
@@ -105,14 +105,14 @@ marbleは特定の種類の石（大理石）やビー玉に限定され、stone
 
 ## 🧩 あわせて覚えたい
 
-- [granite](/word/granite)：花崗岩（かこうがん）、建築や墓石によく使われる石
-- [sculpture](/word/sculpture)：彫刻、彫像
+- [granite](/word/granite/)：花崗岩（かこうがん）、建築や墓石によく使われる石
+- [sculpture](/word/sculpture/)：彫刻、彫像
 
 ---
 
 ## 📖 できればこれも
 
-- [glass](/word/glass)：ガラス、コップ
-- [tile](/word/tile)：タイル、瓦
+- [glass](/word/glass/)：ガラス、コップ
+- [tile](/word/tile/)：タイル、瓦
 
 <!-- cvid: aid43_bid04 -->

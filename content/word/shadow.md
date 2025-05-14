@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人物や物の「影」を説明す
 ## 🤔  shade との違いは？
 
 - **shadow**：物体が光を遮ってできる「形のある影」
-- **[shade](/word/shade)**：日差しを避ける「日陰」や「涼しい場所」
+- **[shade](/word/shade/)**：日差しを避ける「日陰」や「涼しい場所」
 
 shadowは物の形がはっきり見える影、shadeは日差しを避けるための涼しい場所やその状態を指します。
 
@@ -105,14 +105,14 @@ shadowは物の形がはっきり見える影、shadeは日差しを避けるた
 
 ## 🧩 あわせて覚えたい
 
-- [reflection](/word/reflection)：反射、映像
-- [silhouette](/word/silhouette)：輪郭、シルエット
+- [reflection](/word/reflection/)：反射、映像
+- [silhouette](/word/silhouette/)：輪郭、シルエット
 
 ---
 
 ## 📖 できればこれも
 
-- [light](/word/light)：光
-- [image](/word/image)：画像、映像
+- [light](/word/light/)：光
+- [image](/word/image/)：画像、映像
 
 <!-- cvid: aid48_bid41 -->

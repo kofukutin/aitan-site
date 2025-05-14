@@ -97,7 +97,7 @@ TOEICでは、意見や提案、態度を強調する副詞として頻出しま
 ## 🤔  firmly との違いは？
 
 - **strongly**：感情や意見、態度などを「強く」「はっきり」と表現する
-- **[firmly](/word/firmly)**：物理的・精神的に「しっかりと」「堅く」動かない様子を表す
+- **[firmly](/word/firmly/)**：物理的・精神的に「しっかりと」「堅く」動かない様子を表す
 
 stronglyは気持ちや意見の強さを強調し、firmlyは「揺るがない」「しっかり固定された」ニュアンスで使い分けます。
 
@@ -105,14 +105,14 @@ stronglyは気持ちや意見の強さを強調し、firmlyは「揺るがない
 
 ## 🧩 あわせて覚えたい
 
-- [intensely](/word/intensely)：非常に強く、激しく
-- [vigorously](/word/vigorously)：精力的に、活発に
+- [intensely](/word/intensely/)：非常に強く、激しく
+- [vigorously](/word/vigorously/)：精力的に、活発に
 
 ---
 
 ## 📖 できればこれも
 
-- [clearly](/word/clearly)：はっきりと、明確に
-- [seriously](/word/seriously)：真剣に、本気で
+- [clearly](/word/clearly/)：はっきりと、明確に
+- [seriously](/word/seriously/)：真剣に、本気で
 
 <!-- cvid: aid49_bid25 -->

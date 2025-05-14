@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、自然や屋外のシーンに登場
 ## 🤔  moth との違いは？
 
 - **butterfly**：昼間に活動し、色鮮やかな羽を持つ蝶
-- **[moth](/word/moth)**：夜行性で、地味な色の羽を持つ蛾
+- **[moth](/word/moth/)**：夜行性で、地味な色の羽を持つ蛾
 
 butterflyは明るい時間に見かける美しい蝶、mothは夜に活動することが多い蛾を指します。
 
@@ -105,14 +105,14 @@ butterflyは明るい時間に見かける美しい蝶、mothは夜に活動す�
 
 ## 🧩 あわせて覚えたい
 
-- [insect](/word/insect)：昆虫
-- [caterpillar](/word/caterpillar)：（蝶や蛾の）幼虫、毛虫
+- [insect](/word/insect/)：昆虫
+- [caterpillar](/word/caterpillar/)：（蝶や蛾の）幼虫、毛虫
 
 ---
 
 ## 📖 できればこれも
 
-- [bee](/word/bee)：ハチ
-- [flower](/word/flower)：花
+- [bee](/word/bee/)：ハチ
+- [flower](/word/flower/)：花
 
 <!-- cvid: aid19_bid23 -->

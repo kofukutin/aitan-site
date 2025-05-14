@@ -98,7 +98,7 @@ TOEICでは主にメールや掲示、ウェブサイトの案内文などで「
 ## 🤔  information との違いは？
 
 - **info**：カジュアルな場面や口語・IT分野で使う「情報」の略語
-- **[information](/word/information)**：フォーマル・書き言葉で使う「情報」
+- **[information](/word/information/)**：フォーマル・書き言葉で使う「情報」
 
 「info」は親しい間柄や簡単なやりとり、掲示などで使われ、「information」はビジネス文書や公式な場面で使われます。
 
@@ -106,14 +106,14 @@ TOEICでは主にメールや掲示、ウェブサイトの案内文などで「
 
 ## 🧩 あわせて覚えたい
 
-- [detail](/word/detail)：詳細、細部
-- [data](/word/data)：データ、資料
+- [detail](/word/detail/)：詳細、細部
+- [data](/word/data/)：データ、資料
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/word/update)：更新、最新情報
-- [notice](/word/notice)：通知、お知らせ
+- [update](/word/update/)：更新、最新情報
+- [notice](/word/notice/)：通知、お知らせ
 
 <!-- cvid: aid07_bid23 -->

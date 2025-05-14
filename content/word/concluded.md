@@ -97,7 +97,7 @@ TOEICでは、会議や契約、議論の終了や結論を表す文脈でよく
 ## 🤔  decided との違いは？
 
 - **concluded**：議論や検討の末に「結論を下す」「終える」など、ややフォーマルで最終的な決定や終了を強調。
-- **[decided](/word/decided)**：単に「決めた」「決定した」という意味で、日常的な選択や判断にも使う。
+- **[decided](/word/decided/)**：単に「決めた」「決定した」という意味で、日常的な選択や判断にも使う。
 
 concludedは「まとめて終わらせる」ニュアンスが強く、decidedは「選択・決定」に焦点があります。
 
@@ -105,14 +105,14 @@ concludedは「まとめて終わらせる」ニュアンスが強く、decided�
 
 ## 🧩 あわせて覚えたい
 
-- [finalize](/word/finalize)：最終決定する、仕上げる
-- [terminate](/word/terminate)：終わらせる、終了する
+- [finalize](/word/finalize/)：最終決定する、仕上げる
+- [terminate](/word/terminate/)：終わらせる、終了する
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/word/confirm)：確認する、確かめる
-- [determine](/word/determine)：決定する、判断する
+- [confirm](/word/confirm/)：確認する、確かめる
+- [determine](/word/determine/)：決定する、判断する
 
 <!-- cvid: aid41_bid41 -->

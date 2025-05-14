@@ -97,7 +97,7 @@ TOEICでは名詞として「美しさ」や「長所」という意味で出題
 ## 🤔  pretty との違いは？
 
 - **beauty**：美しさそのものや美しい人・物を指す名詞
-- **[pretty](/word/pretty)**：見た目がかわいらしい・きれいなことを表す形容詞
+- **[pretty](/word/pretty/)**：見た目がかわいらしい・きれいなことを表す形容詞
 
 beautyは「美しさ」という抽象的な名詞、prettyは「かわいい」「きれい」と形容する形容詞で、使い方やニュアンスが異なります。
 
@@ -105,14 +105,14 @@ beautyは「美しさ」という抽象的な名詞、prettyは「かわいい�
 
 ## 🧩 あわせて覚えたい
 
-- [attractiveness](/word/attractiveness)：魅力、惹きつける力
-- [ugliness](/word/ugliness)：醜さ
+- [attractiveness](/word/attractiveness/)：魅力、惹きつける力
+- [ugliness](/word/ugliness/)：醜さ
 
 ---
 
 ## 📖 できればこれも
 
-- [charm](/word/charm)：魅力
-- [grace](/word/grace)：優雅さ
+- [charm](/word/charm/)：魅力
+- [grace](/word/grace/)：優雅さ
 
 <!-- cvid: aid39_bid02 -->

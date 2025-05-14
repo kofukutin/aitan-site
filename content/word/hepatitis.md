@@ -104,14 +104,14 @@ hepatitisは肝臓の炎症に限定されますが、liver diseaseは肝硬変�
 
 ## 🧩 あわせて覚えたい
 
-- [cirrhosis](/word/cirrhosis)：肝硬変
-- [jaundice](/word/jaundice)：黄疸
+- [cirrhosis](/word/cirrhosis/)：肝硬変
+- [jaundice](/word/jaundice/)：黄疸
 
 ---
 
 ## 📖 できればこれも
 
-- [infection](/word/infection)：感染症
-- [virus](/word/virus)：ウイルス
+- [infection](/word/infection/)：感染症
+- [virus](/word/virus/)：ウイルス
 
 <!-- cvid: aid39_bid03 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、ノートや道路、壁などに「
 ## 🤔  bordered との違いは？
 
 - **lined**：線が引かれている、または線で縁取られている状態
-- **[bordered](/word/bordered)**：縁や枠がある、囲まれている状態
+- **[bordered](/word/bordered/)**：縁や枠がある、囲まれている状態
 
 linedは「線が並んでいる」「罫線がある」など線そのものに注目し、borderedは「枠」や「縁取り」に注目します。
 
@@ -105,14 +105,14 @@ linedは「線が並んでいる」「罫線がある」など線そのものに
 
 ## 🧩 あわせて覚えたい
 
-- [striped](/word/striped)：しま模様の
-- [blank](/word/blank)：空白の、何も書かれていない
+- [striped](/word/striped/)：しま模様の
+- [blank](/word/blank/)：空白の、何も書かれていない
 
 ---
 
 ## 📖 できればこれも
 
-- [plain](/word/plain)：無地の、飾りのない
-- [patterned](/word/patterned)：模様入りの
+- [plain](/word/plain/)：無地の、飾りのない
+- [patterned](/word/patterned/)：模様入りの
 
 <!-- cvid: aid16_bid33 -->

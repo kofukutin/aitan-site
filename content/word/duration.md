@@ -98,7 +98,7 @@ TOEICでは契約書や案内文、イベント情報などで「期間」を表
 ## 🤔  period との違いは？
 
 - **duration**：何かが「続いている間の長さ」や「持続時間」に焦点を当てる
-- **[period](/word/period)**：特定の「期間」や「時期」そのものを指す
+- **[period](/word/period/)**：特定の「期間」や「時期」そのものを指す
 
 **duration**は「どれくらい続くか」という長さや持続性を強調し、**period**は「始まりと終わりがある区切られた期間」を指します。
 
@@ -106,14 +106,14 @@ TOEICでは契約書や案内文、イベント情報などで「期間」を表
 
 ## 🧩 あわせて覚えたい
 
-- [term](/word/term)：（特定の）期間、学期
-- [span](/word/span)：（ある範囲の）期間、長さ
+- [term](/word/term/)：（特定の）期間、学期
+- [span](/word/span/)：（ある範囲の）期間、長さ
 
 ---
 
 ## 📖 できればこれも
 
-- [extension](/word/extension)：延長、拡張
-- [deadline](/word/deadline)：締め切り
+- [extension](/word/extension/)：延長、拡張
+- [deadline](/word/deadline/)：締め切り
 
 <!-- cvid: aid28_bid40 -->

@@ -97,7 +97,7 @@ TOEICでは会話や案内文で「特別な行事」や「機会」を表す語
 ## 🤔  opportunity との違いは？
 
 - **occasion**：特別な出来事や行事、ある時・場合を指す
-- **[opportunity](/word/opportunity)**：何かをするための「好機」や「チャンス」を指す
+- **[opportunity](/word/opportunity/)**：何かをするための「好機」や「チャンス」を指す
 
 occasionは「イベント」や「特別な時」に焦点があり、opportunityは「何かを達成するための好機」に使います。
 
@@ -105,14 +105,14 @@ occasionは「イベント」や「特別な時」に焦点があり、opportuni
 
 ## 🧩 あわせて覚えたい
 
-- [event](/word/event)：出来事、行事
-- [incident](/word/incident)：（主に予期しない）出来事、事件
+- [event](/word/event/)：出来事、行事
+- [incident](/word/incident/)：（主に予期しない）出来事、事件
 
 ---
 
 ## 📖 できればこれも
 
-- [chance](/word/chance)：機会、チャンス
-- [situation](/word/situation)：状況、立場
+- [chance](/word/chance/)：機会、チャンス
+- [situation](/word/situation/)：状況、立場
 
 <!-- cvid: aid44_bid47 -->

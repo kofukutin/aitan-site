@@ -98,7 +98,7 @@ TOEICでは「会社」「企業」という意味で頻出し、社名や組織
 ## 🤔  corporation との違いは？
 
 - **company**：一般的な「会社」「企業」を幅広く指す
-- **[corporation](/word/corporation)**：法的に設立された大企業や法人を指す
+- **[corporation](/word/corporation/)**：法的に設立された大企業や法人を指す
 
 companyは中小企業から大企業まで幅広く使われますが、corporationは特に大規模で法的な法人組織を強調する時に使われます。
 
@@ -106,14 +106,14 @@ companyは中小企業から大企業まで幅広く使われますが、corpora
 
 ## 🧩 あわせて覚えたい
 
-- [firm](/word/firm)：事務所・会社（特に法律・会計などの専門職の会社）
-- [enterprise](/word/enterprise)：企業・事業（ややフォーマルで大規模な事業にも使う）
+- [firm](/word/firm/)：事務所・会社（特に法律・会計などの専門職の会社）
+- [enterprise](/word/enterprise/)：企業・事業（ややフォーマルで大規模な事業にも使う）
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client)：顧客、取引先
-- [branch](/word/branch)：支店、支社
+- [client](/word/client/)：顧客、取引先
+- [branch](/word/branch/)：支店、支社
 
 <!-- cvid: aid28_bid41 -->

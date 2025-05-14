@@ -96,7 +96,7 @@ TOEICでは「人事部」や「職員全体」を表す語としてPart 5やPar
 ## 🤔  staff との違いは？
 
 - **personnel**：組織の全職員や人事部を指すフォーマルな表現
-- **[staff](/word/staff)**：職員・スタッフ全体を指すややカジュアルな表現
+- **[staff](/word/staff/)**：職員・スタッフ全体を指すややカジュアルな表現
 
 personnelは特に「人事部」や「全職員」をフォーマルに指す時に使い、staffは日常的に「スタッフ全体」を表す時に使います。
 
@@ -104,14 +104,14 @@ personnelは特に「人事部」や「全職員」をフォーマルに指す�
 
 ## 🧩 あわせて覚えたい
 
-- [employee](/word/employee)：従業員、雇用されている人
-- [human resources](/word/human_resources)：人事部、人材管理
+- [employee](/word/employee/)：従業員、雇用されている人
+- [human resources](/word/human_resources/)：人事部、人材管理
 
 ---
 
 ## 📖 できればこれも
 
-- [department](/word/department)：部門、部署
-- [manager](/word/manager)：管理職、マネージャー
+- [department](/word/department/)：部門、部署
+- [manager](/word/manager/)：管理職、マネージャー
 
 <!-- cvid: aid03_bid06 -->

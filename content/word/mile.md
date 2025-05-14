@@ -97,7 +97,7 @@ TOEICでは地図や道案内、距離の説明などでmileが使われるこ�
 ## 🤔  kilometer との違いは？
 
 - **mile**：主にアメリカやイギリスで使われる長さの単位（約1.6km）
-- **[kilometer](/word/kilometer)**：メートル法の長さの単位（1km＝1000m）
+- **[kilometer](/word/kilometer/)**：メートル法の長さの単位（1km＝1000m）
 
 mileはヤード・ポンド法、kilometerはメートル法で使われる単位です。アメリカではmile、ほとんどの国ではkilometerが一般的です。
 
@@ -105,14 +105,14 @@ mileはヤード・ポンド法、kilometerはメートル法で使われる単�
 
 ## 🧩 あわせて覚えたい
 
-- [yard](/word/yard)：ヤード（約0.91メートル）
-- [distance](/word/distance)：距離
+- [yard](/word/yard/)：ヤード（約0.91メートル）
+- [distance](/word/distance/)：距離
 
 ---
 
 ## 📖 できればこれも
 
-- [meter](/word/meter)：メートル（長さの単位）
-- [route](/word/route)：道、ルート
+- [meter](/word/meter/)：メートル（長さの単位）
+- [route](/word/route/)：道、ルート
 
 <!-- cvid: aid19_bid08 -->

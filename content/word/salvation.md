@@ -96,7 +96,7 @@ TOEICでは宗教や抽象的なテーマの長文、または比喩的な表現
 ## 🤔  rescue との違いは？
 
 - **salvation**：精神的・宗教的な「救い」や抽象的な「救済」を表すフォーマルな語。
-- **[rescue](/word/rescue)**：物理的・具体的な「救助」や「救出」を指し、日常的にも使われる。
+- **[rescue](/word/rescue/)**：物理的・具体的な「救助」や「救出」を指し、日常的にも使われる。
 
 salvationは心や魂の救い、rescueは人や物を危険から助け出す具体的な行動を指します。
 
@@ -104,14 +104,14 @@ salvationは心や魂の救い、rescueは人や物を危険から助け出す�
 
 ## 🧩 あわせて覚えたい
 
-- [redemption](/word/redemption)：贖い、罪の償い
-- [deliverance](/word/deliverance)：救出、解放
+- [redemption](/word/redemption/)：贖い、罪の償い
+- [deliverance](/word/deliverance/)：救出、解放
 
 ---
 
 ## 📖 できればこれも
 
-- [faith](/word/faith)：信仰、信頼
-- [hope](/word/hope)：希望
+- [faith](/word/faith/)：信仰、信頼
+- [hope](/word/hope/)：希望
 
 <!-- cvid: aid49_bid20 -->

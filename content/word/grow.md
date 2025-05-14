@@ -97,7 +97,7 @@ TOEICでは、会社の成長や売上の増加、個人のスキルアップな
 ## 🤔  increase との違いは？
 
 - **grow**：自然に大きくなる、成長する、育てる（人や組織、植物など幅広い対象に使う）
-- **[increase](/word/increase)**：数量や程度が増加する（主に数値や量にフォーカス）
+- **[increase](/word/increase/)**：数量や程度が増加する（主に数値や量にフォーカス）
 
 growは「成長」や「発展」のニュアンスがあり、increaseは単純な「増加」に使われます。
 
@@ -105,14 +105,14 @@ growは「成長」や「発展」のニュアンスがあり、increaseは単�
 
 ## 🧩 あわせて覚えたい
 
-- [develop](/word/develop)：発展する、開発する
-- [expand](/word/expand)：拡大する、広げる
+- [develop](/word/develop/)：発展する、開発する
+- [expand](/word/expand/)：拡大する、広げる
 
 ---
 
 ## 📖 できればこれも
 
-- [raise](/word/raise)：上げる、育てる
-- [improve](/word/improve)：改善する、良くする
+- [raise](/word/raise/)：上げる、育てる
+- [improve](/word/improve/)：改善する、良くする
 
 <!-- cvid: aid18_bid18 -->

@@ -97,7 +97,7 @@ TOEICでは会議やプロジェクトの説明場面でよく登場します。
 ## 🤔  meeting との違いは？
 
 - **briefing**：短時間で要点や指示を伝える「事前説明」や「打ち合わせ」
-- **[meeting](/word/meeting)**：議論や情報共有など幅広い目的の「会議」
+- **[meeting](/word/meeting/)**：議論や情報共有など幅広い目的の「会議」
 
 briefingは主に「情報伝達」や「指示」に特化し、meetingは意見交換や議論も含む点が異なります。
 
@@ -105,14 +105,14 @@ briefingは主に「情報伝達」や「指示」に特化し、meetingは意�
 
 ## 🧩 あわせて覚えたい
 
-- [presentation](/word/presentation)：発表、プレゼンテーション
-- [report](/word/report)：報告、レポート
+- [presentation](/word/presentation/)：発表、プレゼンテーション
+- [report](/word/report/)：報告、レポート
 
 ---
 
 ## 📖 できればこれも
 
-- [summary](/word/summary)：要約、まとめ
-- [session](/word/session)：集まり、セッション
+- [summary](/word/summary/)：要約、まとめ
+- [session](/word/session/)：集まり、セッション
 
 <!-- cvid: aid08_bid24 -->

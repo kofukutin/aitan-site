@@ -97,7 +97,7 @@ TOEICでは、旅行や休暇、リフレッシュに関する会話文で登場
 ## 🤔  escape との違いは？
 
 - **getaway**：日常から離れる短い休暇や小旅行、または逃走
-- **[escape](/word/escape)**：危険や困難からの「脱出」「逃亡」
+- **[escape](/word/escape/)**：危険や困難からの「脱出」「逃亡」
 
 getawayは「リフレッシュ目的の旅行」や「逃走」の両方で使えますが、escapeは主に「危険から逃げる」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ getawayは「リフレッシュ目的の旅行」や「逃走」の両方で使�
 
 ## 🧩 あわせて覚えたい
 
-- [vacation](/word/vacation)：休暇
-- [retreat](/word/retreat)：静養地、隠れ家
+- [vacation](/word/vacation/)：休暇
+- [retreat](/word/retreat/)：静養地、隠れ家
 
 ---
 
 ## 📖 できればこれも
 
-- [trip](/word/trip)：旅行
-- [journey](/word/journey)：旅、道のり
+- [trip](/word/trip/)：旅行
+- [journey](/word/journey/)：旅、道のり
 
 <!-- cvid: aid24_bid04 -->

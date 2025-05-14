@@ -97,7 +97,7 @@ TOEICでは、注文確認メールや請求書、案内文などで「shipping�
 ## 🤔  delivery との違いは？
 
 - **shipping**：発送や出荷の「手続き・過程」全体を指す
-- **[delivery](/word/delivery)**：商品が「届けられること」「配達そのもの」を指す
+- **[delivery](/word/delivery/)**：商品が「届けられること」「配達そのもの」を指す
 
 **shipping**は「送り出す側」の視点で、発送準備や手続き全体を表します。**delivery**は「受け取る側」の視点で、実際に商品が届くことに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは、注文確認メールや請求書、案内文などで「shipping�
 
 ## 🧩 あわせて覚えたい
 
-- [transportation](/word/transportation)：輸送、運送
-- [freight](/word/freight)：貨物、運賃
+- [transportation](/word/transportation/)：輸送、運送
+- [freight](/word/freight/)：貨物、運賃
 
 ---
 
 ## 📖 できればこれも
 
-- [invoice](/word/invoice)：請求書
-- [order](/word/order)：注文
+- [invoice](/word/invoice/)：請求書
+- [order](/word/order/)：注文
 
 <!-- cvid: aid38_bid49 -->

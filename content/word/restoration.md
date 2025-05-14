@@ -97,7 +97,7 @@ restorationは、TOEICの長文読解や説明文で、建物やシステムの�
 ## 🤔  repair との違いは？
 
 - **restoration**：元の状態や価値に戻す「復元」「修復」
-- **[repair](/word/repair)**：壊れた部分を直す「修理」
+- **[repair](/word/repair/)**：壊れた部分を直す「修理」
 
 restorationは「元通りに戻す」ニュアンスが強く、美術品や歴史的建造物など価値あるものに使われやすいのに対し、repairは日常的な「修理」に幅広く使われます。
 
@@ -105,14 +105,14 @@ restorationは「元通りに戻す」ニュアンスが強く、美術品や歴
 
 ## 🧩 あわせて覚えたい
 
-- [renovation](/word/renovation)：改装、リノベーション
-- [preservation](/word/preservation)：保存、保護
+- [renovation](/word/renovation/)：改装、リノベーション
+- [preservation](/word/preservation/)：保存、保護
 
 ---
 
 ## 📖 できればこれも
 
-- [maintenance](/word/maintenance)：維持、メンテナンス
-- [replacement](/word/replacement)：交換、取り替え
+- [maintenance](/word/maintenance/)：維持、メンテナンス
+- [replacement](/word/replacement/)：交換、取り替え
 
 <!-- cvid: aid22_bid11 -->

@@ -93,7 +93,7 @@ TOEICでは会話の応答や説明で頻出し、特に「何もありません
 ## 🤔  anything との違いは？
 
 - **nothing**：「何も～ない」と断定的にゼロを表す
-- **[anything](/word/anything)**：「何か」「何でも」など、疑問文・否定文で使われる
+- **[anything](/word/anything/)**：「何か」「何でも」など、疑問文・否定文で使われる
 
 nothingは「全く何もない」と言い切る時に使い、anythingは「何か」「どれでも」と幅広く使われます。
 
@@ -101,14 +101,14 @@ nothingは「全く何もない」と言い切る時に使い、anythingは「�
 
 ## 🧩 あわせて覚えたい
 
-- [something](/word/something)：何か
-- [none](/word/none)：ひとつも～ない
+- [something](/word/something/)：何か
+- [none](/word/none/)：ひとつも～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [nobody](/word/nobody)：誰も～ない
-- [everyone](/word/everyone)：みんな、誰でも
+- [nobody](/word/nobody/)：誰も～ない
+- [everyone](/word/everyone/)：みんな、誰でも
 
 <!-- cvid: aid11_bid18 -->

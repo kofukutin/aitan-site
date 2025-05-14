@@ -97,7 +97,7 @@ TOEICでは環境や文化財の話題、企業の社会的責任（CSR）に関
 ## 🤔  conservation との違いは？
 
 - **preservation**：現状をそのまま損なわずに守ることに重点
-- **[conservation](/word/conservation)**：資源や環境を持続的に利用しながら守ること
+- **[conservation](/word/conservation/)**：資源や環境を持続的に利用しながら守ること
 
 preservationは「手を加えずに守る」ニュアンスが強く、conservationは「使いながら守る」イメージです。
 
@@ -105,14 +105,14 @@ preservationは「手を加えずに守る」ニュアンスが強く、conserva
 
 ## 🧩 あわせて覚えたい
 
-- [protection](/word/protection)：保護、防御
-- [restoration](/word/restoration)：修復、復元
+- [protection](/word/protection/)：保護、防御
+- [restoration](/word/restoration/)：修復、復元
 
 ---
 
 ## 📖 できればこれも
 
-- [maintenance](/word/maintenance)：維持、管理
-- [storage](/word/storage)：保管、貯蔵
+- [maintenance](/word/maintenance/)：維持、管理
+- [storage](/word/storage/)：保管、貯蔵
 
 <!-- cvid: aid46_bid24 -->

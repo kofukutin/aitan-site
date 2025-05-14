@@ -97,7 +97,7 @@ TOEICでは電話やメール、来客対応などの場面で「incoming call�
 ## 🤔  approaching との違いは？
 
 - **incoming**：外から中に入ってくる、到着する（着信・到着のニュアンスが強い）
-- **[approaching](/word/approaching)**：近づいてくる（まだ到着していない、接近中のニュアンス）
+- **[approaching](/word/approaching/)**：近づいてくる（まだ到着していない、接近中のニュアンス）
 
 **incoming**は「すでに中に入ってくる・到着する」ことを強調し、**approaching**は「まだ到着していないが近づいている」状態を表します。
 
@@ -105,14 +105,14 @@ TOEICでは電話やメール、来客対応などの場面で「incoming call�
 
 ## 🧩 あわせて覚えたい
 
-- [outgoing](/word/outgoing)：出ていく、発信の
-- [arrive](/word/arrive)：到着する
+- [outgoing](/word/outgoing/)：出ていく、発信の
+- [arrive](/word/arrive/)：到着する
 
 ---
 
 ## 📖 できればこれも
 
-- [upcoming](/word/upcoming)：これからやってくる、近々の
-- [current](/word/current)：現在の、今の
+- [upcoming](/word/upcoming/)：これからやってくる、近々の
+- [current](/word/current/)：現在の、今の
 
 <!-- cvid: aid07_bid46 -->

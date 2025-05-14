@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人物が傘を持っている場面
 ## 🤔  parasol との違いは？
 
 - **umbrella**：主に雨を防ぐための傘。日常的に使う。
-- **[parasol](/word/parasol)**：日差しを防ぐための傘。ビーチや屋外で使うことが多い。
+- **[parasol](/word/parasol/)**：日差しを防ぐための傘。ビーチや屋外で使うことが多い。
 
 umbrellaは雨用、parasolは日よけ用と使い分けます。
 
@@ -105,14 +105,14 @@ umbrellaは雨用、parasolは日よけ用と使い分けます。
 
 ## 🧩 あわせて覚えたい
 
-- [raincoat](/word/raincoat)：レインコート、雨合羽
-- [shelter](/word/shelter)：避難所、シェルター
+- [raincoat](/word/raincoat/)：レインコート、雨合羽
+- [shelter](/word/shelter/)：避難所、シェルター
 
 ---
 
 ## 📖 できればこれも
 
-- [bag](/word/bag)：かばん
-- [hat](/word/hat)：帽子
+- [bag](/word/bag/)：かばん
+- [hat](/word/hat/)：帽子
 
 <!-- cvid: aid30_bid06 -->

@@ -98,7 +98,7 @@ TOEICでは、フォーマルな「試みる」という意味で動詞・名詞
 ## 🤔  try との違いは？
 
 - **attempt**：フォーマルで計画的な「試みる」「挑戦する」
-- **[try](/word/try)**：日常的で幅広く使える「やってみる」「試す」
+- **[try](/word/try/)**：日常的で幅広く使える「やってみる」「試す」
 
 attemptは書き言葉やビジネスで使われ、tryはカジュアルな会話でよく使われます。
 
@@ -106,14 +106,14 @@ attemptは書き言葉やビジネスで使われ、tryはカジュアルな会�
 
 ## 🧩 あわせて覚えたい
 
-- [undertake](/word/undertake)：（責任を持って）引き受ける
-- [effort](/word/effort)：努力
+- [undertake](/word/undertake/)：（責任を持って）引き受ける
+- [effort](/word/effort/)：努力
 
 ---
 
 ## 📖 できればこれも
 
-- [achieve](/word/achieve)：達成する
-- [complete](/word/complete)：完了する
+- [achieve](/word/achieve/)：達成する
+- [complete](/word/complete/)：完了する
 
 <!-- cvid: aid20_bid10 -->

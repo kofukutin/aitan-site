@@ -97,7 +97,7 @@ TOEICでは、ビジネスや社会問題に関する長文で「抗議する」
 ## 🤔  object との違いは？
 
 - **protest**：強く公に反対や抗議の意思を表明する
-- **[object](/word/object)**：反対する、異議を唱える（やや形式的・控えめ）
+- **[object](/word/object/)**：反対する、異議を唱える（やや形式的・控えめ）
 
 protestは「声を上げて強く抗議する」ニュアンスがあり、objectは会議や議論で「反対意見を述べる」ときに使われます。
 
@@ -105,14 +105,14 @@ protestは「声を上げて強く抗議する」ニュアンスがあり、obje
 
 ## 🧩 あわせて覚えたい
 
-- [oppose](/word/oppose)：反対する
-- [approve](/word/approve)：賛成する、承認する
+- [oppose](/word/oppose/)：反対する
+- [approve](/word/approve/)：賛成する、承認する
 
 ---
 
 ## 📖 できればこれも
 
-- [complain](/word/complain)：不満を言う、苦情を言う
-- [argue](/word/argue)：主張する、議論する
+- [complain](/word/complain/)：不満を言う、苦情を言う
+- [argue](/word/argue/)：主張する、議論する
 
 <!-- cvid: aid32_bid31 -->

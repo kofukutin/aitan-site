@@ -97,7 +97,7 @@ TOEICでは「部署」「部門」「単位」など、ビジネスや教育の
 ## 🤔  section との違いは？
 
 - **unit**：全体の中の「まとまり」や「単位」として独立性が強い
-- **[section](/word/section)**：全体を「区切った部分」や「区画」という意味合いが強い
+- **[section](/word/section/)**：全体を「区切った部分」や「区画」という意味合いが強い
 
 unitは「機能的なまとまり」や「学習の単元」など、独立した一つのまとまりを指しますが、sectionは「全体を分割した一部分」というニュアンスが強いです。
 
@@ -105,14 +105,14 @@ unitは「機能的なまとまり」や「学習の単元」など、独立し�
 
 ## 🧩 あわせて覚えたい
 
-- [module](/word/module)：（全体の中の）構成要素、モジュール
-- [component](/word/component)：部品、構成要素
+- [module](/word/module/)：（全体の中の）構成要素、モジュール
+- [component](/word/component/)：部品、構成要素
 
 ---
 
 ## 📖 できればこれも
 
-- [item](/word/item)：項目、品目
-- [part](/word/part)：部分、役割
+- [item](/word/item/)：項目、品目
+- [part](/word/part/)：部分、役割
 
 <!-- cvid: aid49_bid33 -->

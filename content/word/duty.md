@@ -97,7 +97,7 @@ TOEICでは「職務」「義務」「関税」などの意味で、ビジネス
 ## 🤔  responsibility との違いは？
 
 - **duty**：社会的・職業的に課せられた義務や役割を強調
-- **[responsibility](/word/responsibility)**：自分が引き受けるべき責任や担当範囲を強調
+- **[responsibility](/word/responsibility/)**：自分が引き受けるべき責任や担当範囲を強調
 
 dutyは外部から与えられる「なすべきこと」、responsibilityは自分が担う「責任」のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ dutyは外部から与えられる「なすべきこと」、responsibilityは�
 
 ## 🧩 あわせて覚えたい
 
-- [obligation](/word/obligation)：法的・道徳的な義務
-- [task](/word/task)：具体的な作業・任務
+- [obligation](/word/obligation/)：法的・道徳的な義務
+- [task](/word/task/)：具体的な作業・任務
 
 ---
 
 ## 📖 できればこれも
 
-- [role](/word/role)：役割
-- [function](/word/function)：機能、役割
+- [role](/word/role/)：役割
+- [function](/word/function/)：機能、役割
 
 <!-- cvid: aid20_bid32 -->

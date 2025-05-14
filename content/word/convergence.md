@@ -97,7 +97,7 @@ TOEICではITやビジネス分野の長文で、異なる要素が一つにま�
 ## 🤔  integration との違いは？
 
 - **convergence**：異なるものが一つの方向や形にまとまること、特に動きや流れの「収束」に重点。
-- **[integration](/word/integration)**：異なるものを組み合わせて一体化・統合すること、構造やシステムの「統合」に重点。
+- **[integration](/word/integration/)**：異なるものを組み合わせて一体化・統合すること、構造やシステムの「統合」に重点。
 
 convergenceは「流れや傾向が一つに集まる」ニュアンス、integrationは「機能や構造が一体化する」ニュアンスです。
 
@@ -105,14 +105,14 @@ convergenceは「流れや傾向が一つに集まる」ニュアンス、integr
 
 ## 🧩 あわせて覚えたい
 
-- [divergence](/word/divergence)：分岐、発散
-- [merger](/word/merger)：合併、統合
+- [divergence](/word/divergence/)：分岐、発散
+- [merger](/word/merger/)：合併、統合
 
 ---
 
 ## 📖 できればこれも
 
-- [innovation](/word/innovation)：革新
-- [collaboration](/word/collaboration)：協力、共同作業
+- [innovation](/word/innovation/)：革新
+- [collaboration](/word/collaboration/)：協力、共同作業
 
 <!-- cvid: aid41_bid24 -->

@@ -97,7 +97,7 @@ TOEICでは、案内文やメール、社内通知などで「seminar」が頻�
 ## 🤔  workshop との違いは？
 
 - **seminar**：専門家や参加者が集まり、知識や情報を共有・議論する集まり
-- **[workshop](/word/workshop)**：実践的な作業や体験を重視した集まり
+- **[workshop](/word/workshop/)**：実践的な作業や体験を重視した集まり
 
 seminarは知識の共有や議論が中心ですが、workshopは実際に手を動かして学ぶ実践型の場です。
 
@@ -105,14 +105,14 @@ seminarは知識の共有や議論が中心ですが、workshopは実際に手�
 
 ## 🧩 あわせて覚えたい
 
-- [lecture](/word/lecture)：講義、授業
-- [conference](/word/conference)：会議、学会
+- [lecture](/word/lecture/)：講義、授業
+- [conference](/word/conference/)：会議、学会
 
 ---
 
 ## 📖 できればこれも
 
-- [meeting](/word/meeting)：会議、打ち合わせ
-- [presentation](/word/presentation)：発表、プレゼンテーション
+- [meeting](/word/meeting/)：会議、打ち合わせ
+- [presentation](/word/presentation/)：発表、プレゼンテーション
 
 <!-- cvid: aid34_bid17 -->

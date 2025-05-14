@@ -97,7 +97,7 @@ TOEICでは環境や自然に関する説明文や記事で見かけることが
 ## 🤔  plant との違いは？
 
 - **vegetation**：ある地域全体の植物や植生をまとめて指す
-- **[plant](/word/plant)**：個々の「植物」や「工場」を指す
+- **[plant](/word/plant/)**：個々の「植物」や「工場」を指す
 
 vegetationは「まとまった草木・緑」のイメージ、plantは「一つ一つの植物」を指す点が大きな違いです。
 
@@ -105,14 +105,14 @@ vegetationは「まとまった草木・緑」のイメージ、plantは「一�
 
 ## 🧩 あわせて覚えたい
 
-- [flora](/word/flora)：植物相、ある地域の全植物
-- [forest](/word/forest)：森林、森
+- [flora](/word/flora/)：植物相、ある地域の全植物
+- [forest](/word/forest/)：森林、森
 
 ---
 
 ## 📖 できればこれも
 
-- [habitat](/word/habitat)：生息地、居住地
-- [landscape](/word/landscape)：風景、景観
+- [habitat](/word/habitat/)：生息地、居住地
+- [landscape](/word/landscape/)：風景、景観
 
 <!-- cvid: aid18_bid42 -->

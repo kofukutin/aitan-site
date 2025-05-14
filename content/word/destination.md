@@ -97,7 +97,7 @@ TOEICでは空港や旅行、物流の会話でよく登場します。リスニ
 ## 🤔  goal との違いは？
 
 - **destination**：物理的な「目的地」や「到着地」を指す
-- **[goal](/word/goal)**：達成したい「目標」や「ゴール」を指す
+- **[goal](/word/goal/)**：達成したい「目標」や「ゴール」を指す
 
 destinationは実際に到達する場所、goalは達成したい目的や抽象的な目標を表します。
 
@@ -105,14 +105,14 @@ destinationは実際に到達する場所、goalは達成したい目的や抽�
 
 ## 🧩 あわせて覚えたい
 
-- [departure](/word/departure)：出発、出発地
-- [route](/word/route)：経路、道筋
+- [departure](/word/departure/)：出発、出発地
+- [route](/word/route/)：経路、道筋
 
 ---
 
 ## 📖 できればこれも
 
-- [journey](/word/journey)：旅、旅行
-- [arrival](/word/arrival)：到着
+- [journey](/word/journey/)：旅、旅行
+- [arrival](/word/arrival/)：到着
 
 <!-- cvid: aid06_bid15 -->

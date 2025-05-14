@@ -97,7 +97,7 @@ TOEICではITや技術系の説明文、仕様書、マニュアルなどで見�
 ## 🤔  criterion との違いは？
 
 - **parameter**：技術的・数値的な条件や変数、システムの設定値などを指す
-- **[criterion](/word/criterion)**：評価や判断のための基準・尺度を指す
+- **[criterion](/word/criterion/)**：評価や判断のための基準・尺度を指す
 
 parameterは主にITや科学で使われ、具体的な数値や設定値を示します。criterionは「合否の基準」など評価の物差しとして使われます。
 
@@ -105,14 +105,14 @@ parameterは主にITや科学で使われ、具体的な数値や設定値を示
 
 ## 🧩 あわせて覚えたい
 
-- [specification](/word/specification)：仕様、明細
-- [variable](/word/variable)：変数、変わりやすいもの
+- [specification](/word/specification/)：仕様、明細
+- [variable](/word/variable/)：変数、変わりやすいもの
 
 ---
 
 ## 📖 できればこれも
 
-- [function](/word/function)：関数、機能
-- [factor](/word/factor)：要因、要素
+- [function](/word/function/)：関数、機能
+- [factor](/word/factor/)：要因、要素
 
 <!-- cvid: aid12_bid41 -->

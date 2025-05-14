@@ -97,7 +97,7 @@ TOEICでは主にPart 7の説明文や記事、広告文などで「automobile�
 ## 🤔  car との違いは？
 
 - **automobile**：ややフォーマルで、技術・ビジネス文書や業界用語として使われる「自動車」
-- **[car](/word/car)**：日常会話で最も一般的に使われる「車」
+- **[car](/word/car/)**：日常会話で最も一般的に使われる「車」
 
 「automobile」は公式文書や業界用語で使われることが多く、「car」は日常的な会話やカジュアルな場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 7の説明文や記事、広告文などで「automobile�
 
 ## 🧩 あわせて覚えたい
 
-- [vehicle](/word/vehicle)：乗り物、車両
-- [transportation](/word/transportation)：交通、輸送
+- [vehicle](/word/vehicle/)：乗り物、車両
+- [transportation](/word/transportation/)：交通、輸送
 
 ---
 
 ## 📖 できればこれも
 
-- [engine](/word/engine)：エンジン
-- [factory](/word/factory)：工場
+- [engine](/word/engine/)：エンジン
+- [factory](/word/factory/)：工場
 
 <!-- cvid: aid11_bid28 -->

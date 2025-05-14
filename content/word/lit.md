@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「明かりがついている」「火
 ## 🤔  illuminated との違いは？
 
 - **lit**：日常的に「火をつけた」「明るくした」という意味で使うカジュアルな表現。
-- **[illuminated](/word/illuminated)**：よりフォーマルで「照らされた」「ライトアップされた」という意味。
+- **[illuminated](/word/illuminated/)**：よりフォーマルで「照らされた」「ライトアップされた」という意味。
 
 「lit」は日常会話や簡単な説明で使われ、「illuminated」は公式な文書や特別な場面で使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写で「明かりがついている」「火
 
 ## 🧩 あわせて覚えたい
 
-- [ignite](/word/ignite)：点火する、火をつける
-- [extinguish](/word/extinguish)：消す、消火する
+- [ignite](/word/ignite/)：点火する、火をつける
+- [extinguish](/word/extinguish/)：消す、消火する
 
 ---
 
 ## 📖 できればこれも
 
-- [burn](/word/burn)：燃える、燃やす
-- [shine](/word/shine)：輝く、光る
+- [burn](/word/burn/)：燃える、燃やす
+- [shine](/word/shine/)：輝く、光る
 
 <!-- cvid: aid12_bid38 -->

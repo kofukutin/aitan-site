@@ -93,7 +93,7 @@ TOEICでは会話や説明文で「AではなくBを選ぶ」といった選択�
 ## 🤔  rather との違いは？
 
 - **instead**：何かの代わりに別のものを選ぶことを強調
-- **[rather](/word/rather)**：どちらかといえば、という好みや比較をやんわり表現
+- **[rather](/word/rather/)**：どちらかといえば、という好みや比較をやんわり表現
 
 insteadは「AではなくB」と明確に代替を示すのに対し、ratherは「どちらかといえばB」と好みや傾向をやんわり伝えるときに使います。
 
@@ -101,14 +101,14 @@ insteadは「AではなくB」と明確に代替を示すのに対し、rather�
 
 ## 🧩 あわせて覚えたい
 
-- [alternatively](/word/alternatively)：その代わりに、あるいは
-- [substitute](/word/substitute)：代用品、代わりのもの
+- [alternatively](/word/alternatively/)：その代わりに、あるいは
+- [substitute](/word/substitute/)：代用品、代わりのもの
 
 ---
 
 ## 📖 できればこれも
 
-- [besides](/word/besides)：その上、さらに
-- [otherwise](/word/otherwise)：さもなければ、別の方法で
+- [besides](/word/besides/)：その上、さらに
+- [otherwise](/word/otherwise/)：さもなければ、別の方法で
 
 <!-- cvid: aid25_bid14 -->

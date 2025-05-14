@@ -97,7 +97,7 @@ TOEICではホテルやオフィス、賃貸物件の説明文や案内でよく
 ## 🤔  occupation との違いは？
 
 - **occupancy**：建物や部屋などの「占有」「入居」「稼働率」を表すフォーマルな名詞
-- **[occupation](/word/occupation)**：職業や「占領」「占拠」など、より広い意味で使われる名詞
+- **[occupation](/word/occupation/)**：職業や「占領」「占拠」など、より広い意味で使われる名詞
 
 **occupancy**は「場所が使われている状態」に特化し、**occupation**は「職業」や「占領」など幅広い意味で使われます。建物の稼働率や入居状況にはoccupancyを使います。
 
@@ -105,14 +105,14 @@ TOEICではホテルやオフィス、賃貸物件の説明文や案内でよく
 
 ## 🧩 あわせて覚えたい
 
-- [vacancy](/word/vacancy)：空室、空き
-- [tenant](/word/tenant)：賃借人、入居者
+- [vacancy](/word/vacancy/)：空室、空き
+- [tenant](/word/tenant/)：賃借人、入居者
 
 ---
 
 ## 📖 できればこれも
 
-- [lease](/word/lease)：賃貸契約
-- [facility](/word/facility)：施設
+- [lease](/word/lease/)：賃貸契約
+- [facility](/word/facility/)：施設
 
 <!-- cvid: aid32_bid00 -->

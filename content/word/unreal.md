@@ -97,7 +97,7 @@ TOEICでは、記事や広告、説明文などで「現実離れした」「信
 ## 🤔  imaginary との違いは？
 
 - **unreal**：現実ではない、現実離れしている（実際に存在しない・信じがたい）
-- **[imaginary](/word/imaginary)**：想像上の、頭の中で作り出した
+- **[imaginary](/word/imaginary/)**：想像上の、頭の中で作り出した
 
 unrealは「現実に存在しない」や「信じられないほどすごい」など現実とのギャップを強調し、imaginaryは「想像の産物」であることを強調します。
 
@@ -105,14 +105,14 @@ unrealは「現実に存在しない」や「信じられないほどすごい�
 
 ## 🧩 あわせて覚えたい
 
-- [genuine](/word/genuine)：本物の、正真正銘の
-- [fantastic](/word/fantastic)：素晴らしい、空想的な
+- [genuine](/word/genuine/)：本物の、正真正銘の
+- [fantastic](/word/fantastic/)：素晴らしい、空想的な
 
 ---
 
 ## 📖 できればこれも
 
-- [unlikely](/word/unlikely)：ありそうもない
-- [virtual](/word/virtual)：仮想の、事実上の
+- [unlikely](/word/unlikely/)：ありそうもない
+- [virtual](/word/virtual/)：仮想の、事実上の
 
 <!-- cvid: aid43_bid49 -->

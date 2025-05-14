@@ -97,7 +97,7 @@ TOEICではITやビジネスの文脈で「データを復元する」「サー�
 ## 🤔  recover との違いは？
 
 - **restore**：元の状態に「戻す」「修復する」ことに重点がある
-- **[recover](/word/recover)**：失ったものを「取り戻す」「回復する」ことに重点がある
+- **[recover](/word/recover/)**：失ったものを「取り戻す」「回復する」ことに重点がある
 
 restoreは「元通りにする」「修復する」ニュアンスが強く、recoverは「失ったものを再び得る」「健康やデータを回復する」場面で使われます。
 
@@ -105,14 +105,14 @@ restoreは「元通りにする」「修復する」ニュアンスが強く、r
 
 ## 🧩 あわせて覚えたい
 
-- [repair](/word/repair)：修理する、直す
-- [replace](/word/replace)：取り替える、交換する
+- [repair](/word/repair/)：修理する、直す
+- [replace](/word/replace/)：取り替える、交換する
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/word/update)：更新する
-- [maintain](/word/maintain)：維持する、保守する
+- [update](/word/update/)：更新する
+- [maintain](/word/maintain/)：維持する、保守する
 
 <!-- cvid: aid08_bid22 -->

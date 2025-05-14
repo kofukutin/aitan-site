@@ -97,7 +97,7 @@ TOEICでは広告や案内文、Eメールなどの長文で「割引券」や�
 ## 🤔  voucher との違いは？
 
 - **coupon**：主に割引や特典を受けるための券
-- **[voucher](/word/voucher)**：支払い証明や特定のサービス・商品と交換できる引換券
+- **[voucher](/word/voucher/)**：支払い証明や特定のサービス・商品と交換できる引換券
 
 couponは「割引」や「特典」に使われることが多く、voucherは「支払い証明」や「引換券」として使われる場面が多いです。
 
@@ -105,14 +105,14 @@ couponは「割引」や「特典」に使われることが多く、voucherは�
 
 ## 🧩 あわせて覚えたい
 
-- [discount](/word/discount)：割引
-- [ticket](/word/ticket)：チケット、入場券
+- [discount](/word/discount/)：割引
+- [ticket](/word/ticket/)：チケット、入場券
 
 ---
 
 ## 📖 できればこれも
 
-- [receipt](/word/receipt)：レシート、領収書
-- [offer](/word/offer)：特典、提案
+- [receipt](/word/receipt/)：レシート、領収書
+- [offer](/word/offer/)：特典、提案
 
 <!-- cvid: aid12_bid14 -->

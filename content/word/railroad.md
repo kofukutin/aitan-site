@@ -97,7 +97,7 @@ TOEICでは観光や交通、インフラに関する長文や案内文でrailro
 ## 🤔  railway との違いは？
 
 - **railroad**：主にアメリカ英語で使われる「鉄道」や「鉄道会社」。
-- **[railway](/word/railway)**：主にイギリス英語で使われる「鉄道」や「鉄道会社」。
+- **[railway](/word/railway/)**：主にイギリス英語で使われる「鉄道」や「鉄道会社」。
 
 railroadはアメリカ、railwayはイギリスやその他の国で使われることが多く、意味はほぼ同じですが地域による使い分けがあります。
 
@@ -105,14 +105,14 @@ railroadはアメリカ、railwayはイギリスやその他の国で使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [train](/word/train)：列車
-- [track](/word/track)：線路
+- [train](/word/train/)：列車
+- [track](/word/track/)：線路
 
 ---
 
 ## 📖 できればこれも
 
-- [station](/word/station)：駅
-- [platform](/word/platform)：ホーム
+- [station](/word/station/)：駅
+- [platform](/word/platform/)：ホーム
 
 <!-- cvid: aid15_bid30 -->

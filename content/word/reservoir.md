@@ -97,7 +97,7 @@ TOEICでは主に環境やインフラ、技術関連の説明文や記事で登
 ## 🤔  tank との違いは？
 
 - **reservoir**：主に自然または人工の大規模な貯水池や蓄積場所を指し、公共インフラや比喩的な「蓄積」にも使う。
-- **[tank](/word/tank)**：比較的小型で、液体やガスを保存・運搬する容器を指す。
+- **[tank](/word/tank/)**：比較的小型で、液体やガスを保存・運搬する容器を指す。
 
 reservoirは大規模で長期的な蓄積や自然・公共用途に使われるのに対し、tankは日常的・工業的な容器や設備を指します。
 
@@ -105,14 +105,14 @@ reservoirは大規模で長期的な蓄積や自然・公共用途に使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [dam](/word/dam)：ダム（川をせき止める構造物）
-- [container](/word/container)：容器、入れ物
+- [dam](/word/dam/)：ダム（川をせき止める構造物）
+- [container](/word/container/)：容器、入れ物
 
 ---
 
 ## 📖 できればこれも
 
-- [canal](/word/canal)：運河、水路
-- [pipeline](/word/pipeline)：パイプライン、導管
+- [canal](/word/canal/)：運河、水路
+- [pipeline](/word/pipeline/)：パイプライン、導管
 
 <!-- cvid: aid39_bid46 -->

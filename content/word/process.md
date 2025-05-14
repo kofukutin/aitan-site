@@ -97,7 +97,7 @@ TOEICではビジネス文脈で「手順」「工程」として頻出します
 ## 🤔  procedure との違いは？
 
 - **process**：全体の流れや一連の進行を指す
-- **[procedure](/word/procedure)**：細かい手順や規則的なやり方を指す
+- **[procedure](/word/procedure/)**：細かい手順や規則的なやり方を指す
 
 processは大まかな流れや進行全体、procedureは細かい手順や決まった方法に焦点があります。
 
@@ -105,14 +105,14 @@ processは大まかな流れや進行全体、procedureは細かい手順や決�
 
 ## 🧩 あわせて覚えたい
 
-- [method](/word/method)：方法、やり方
-- [progress](/word/progress)：進歩、進行
+- [method](/word/method/)：方法、やり方
+- [progress](/word/progress/)：進歩、進行
 
 ---
 
 ## 📖 できればこれも
 
-- [system](/word/system)：仕組み、体系
-- [project](/word/project)：計画、事業
+- [system](/word/system/)：仕組み、体系
+- [project](/word/project/)：計画、事業
 
 <!-- cvid: aid45_bid46 -->

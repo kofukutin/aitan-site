@@ -97,7 +97,7 @@ The new railway will improve transportation in the region.
 ## 🤔  railroad との違いは？
 
 - **railway**：主にイギリス英語で使われる「鉄道」。
-- **[railroad](/word/railroad)**：主にアメリカ英語で使われる「鉄道」。
+- **[railroad](/word/railroad/)**：主にアメリカ英語で使われる「鉄道」。
 
 railwayはイギリスや英連邦諸国で使われ、railroadはアメリカで使われるなど、地域による違いがあります。
 
@@ -105,14 +105,14 @@ railwayはイギリスや英連邦諸国で使われ、railroadはアメリカ�
 
 ## 🧩 あわせて覚えたい
 
-- [station](/word/station)：駅
-- [platform](/word/platform)：ホーム
+- [station](/word/station/)：駅
+- [platform](/word/platform/)：ホーム
 
 ---
 
 ## 📖 できればこれも
 
-- [train](/word/train)：列車
-- [ticket](/word/ticket)：切符
+- [train](/word/train/)：列車
+- [ticket](/word/ticket/)：切符
 
 <!-- cvid: aid09_bid29 -->

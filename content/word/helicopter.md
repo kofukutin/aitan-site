@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、乗り物や移動手段とし
 ## 🤔  airplane との違いは？
 
 - **helicopter**：垂直に離着陸でき、狭い場所でも飛行・ホバリングが可能な航空機。
-- **[airplane](/word/airplane)**：滑走路を使って離着陸する固定翼の飛行機。
+- **[airplane](/word/airplane/)**：滑走路を使って離着陸する固定翼の飛行機。
 
 helicopterはホバリングや垂直離着陸ができる点が、airplaneとの大きな違いです。
 
@@ -105,14 +105,14 @@ helicopterはホバリングや垂直離着陸ができる点が、airplaneと�
 
 ## 🧩 あわせて覚えたい
 
-- [drone](/word/drone)：無人航空機、ドローン
-- [pilot](/word/pilot)：操縦士、パイロット
+- [drone](/word/drone/)：無人航空機、ドローン
+- [pilot](/word/pilot/)：操縦士、パイロット
 
 ---
 
 ## 📖 できればこれも
 
-- [airport](/word/airport)：空港
-- [flight](/word/flight)：飛行、フライト
+- [airport](/word/airport/)：空港
+- [flight](/word/flight/)：飛行、フライト
 
 <!-- cvid: aid35_bid19 -->

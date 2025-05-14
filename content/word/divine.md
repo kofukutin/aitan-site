@@ -97,7 +97,7 @@ The speaker delivered a message of divine inspiration.
 ## 🤔  sacred との違いは？
 
 - **divine**：神に関する、神聖な、または比喩的に「極上の」
-- **[sacred](/word/sacred)**：宗教的に神聖な、冒してはならない
+- **[sacred](/word/sacred/)**：宗教的に神聖な、冒してはならない
 
 「divine」は「神そのもの」や「神の力」に直接関わるニュアンスが強く、比喩的に「素晴らしい」という意味でも使われます。一方「sacred」は「宗教的に守るべき神聖さ」に重点があります。
 
@@ -105,14 +105,14 @@ The speaker delivered a message of divine inspiration.
 
 ## 🧩 あわせて覚えたい
 
-- [holy](/word/holy)：聖なる、神聖な
-- [spiritual](/word/spiritual)：精神的な、霊的な
+- [holy](/word/holy/)：聖なる、神聖な
+- [spiritual](/word/spiritual/)：精神的な、霊的な
 
 ---
 
 ## 📖 できればこれも
 
-- [eternal](/word/eternal)：永遠の
-- [mysterious](/word/mysterious)：神秘的な
+- [eternal](/word/eternal/)：永遠の
+- [mysterious](/word/mysterious/)：神秘的な
 
 <!-- cvid: aid42_bid22 -->

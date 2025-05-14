@@ -97,7 +97,7 @@ TOEICでは、人物や成果、プレゼンなどを評価する文脈で頻出
 ## 🤔  remarkable との違いは？
 
 - **impressive**：強い印象や感動を与える様子
-- **[remarkable](/word/remarkable)**：注目に値する、特筆すべき
+- **[remarkable](/word/remarkable/)**：注目に値する、特筆すべき
 
 「impressive」は感情的なインパクトや感動を強調し、「remarkable」は珍しさや注目度に焦点を当てます。
 
@@ -105,14 +105,14 @@ TOEICでは、人物や成果、プレゼンなどを評価する文脈で頻出
 
 ## 🧩 あわせて覚えたい
 
-- [memorable](/word/memorable)：記憶に残る
-- [outstanding](/word/outstanding)：際立って優れた
+- [memorable](/word/memorable/)：記憶に残る
+- [outstanding](/word/outstanding/)：際立って優れた
 
 ---
 
 ## 📖 できればこれも
 
-- [effective](/word/effective)：効果的な
-- [efficient](/word/efficient)：効率的な
+- [effective](/word/effective/)：効果的な
+- [efficient](/word/efficient/)：効率的な
 
 <!-- cvid: aid02_bid08 -->

@@ -97,7 +97,7 @@ TOEICでは「装備する」「備え付ける」という意味で、主にオ
 ## 🤔  provide との違いは？
 
 - **equip**：必要な道具や装置を「装備する」「備え付ける」ことに特化した表現
-- **[provide](/word/provide)**：物やサービスなどを「提供する」「与える」という広い意味
+- **[provide](/word/provide/)**：物やサービスなどを「提供する」「与える」という広い意味
 
 equipは「物理的に何かを備え付ける」場合に使い、provideは「物・サービス・情報」など幅広く使えます。
 
@@ -105,14 +105,14 @@ equipは「物理的に何かを備え付ける」場合に使い、provideは�
 
 ## 🧩 あわせて覚えたい
 
-- [furnish](/word/furnish)：（家具などを）備え付ける
-- [install](/word/install)：（機器などを）設置する
+- [furnish](/word/furnish/)：（家具などを）備え付ける
+- [install](/word/install/)：（機器などを）設置する
 
 ---
 
 ## 📖 できればこれも
 
-- [supply](/word/supply)：供給する
-- [prepare](/word/prepare)：準備する
+- [supply](/word/supply/)：供給する
+- [prepare](/word/prepare/)：準備する
 
 <!-- cvid: aid27_bid42 -->

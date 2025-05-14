@@ -97,7 +97,7 @@ TOEICでは、人物やプロジェクトの「成熟度」や「分別」を問
 ## 🤔  adult との違いは？
 
 - **mature**：精神的・物理的に十分成長し、分別や落ち着きがあることを強調
-- **[adult](/word/adult)**：年齢的に大人であること、法的な意味での「成人」
+- **[adult](/word/adult/)**：年齢的に大人であること、法的な意味での「成人」
 
 matureは「中身が大人」「考え方や態度が成熟している」ことを指し、adultは単に年齢や法的な区分としての「大人」を表します。
 
@@ -105,14 +105,14 @@ matureは「中身が大人」「考え方や態度が成熟している」こ�
 
 ## 🧩 あわせて覚えたい
 
-- [immature](/word/immature)：未熟な、子供っぽい
-- [develop](/word/develop)：発達する、成長する
+- [immature](/word/immature/)：未熟な、子供っぽい
+- [develop](/word/develop/)：発達する、成長する
 
 ---
 
 ## 📖 できればこれも
 
-- [responsible](/word/responsible)：責任感のある
-- [professional](/word/professional)：専門的な、プロらしい
+- [responsible](/word/responsible/)：責任感のある
+- [professional](/word/professional/)：専門的な、プロらしい
 
 <!-- cvid: aid00_bid08 -->

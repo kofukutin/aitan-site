@@ -97,7 +97,7 @@ TOEICでは会議やIT関連の会話で「情報共有」「ファイル共有�
 ## 🤔  distribution との違いは？
 
 - **sharing**：何かを一緒に使ったり分け合ったりすること
-- **[distribution](/word/distribution)**：物や情報を広く配布・分配すること
+- **[distribution](/word/distribution/)**：物や情報を広く配布・分配すること
 
 sharingは「一緒に使う・分かち合う」ニュアンス、distributionは「広く配る・分配する」ニュアンスがあります。
 
@@ -105,14 +105,14 @@ sharingは「一緒に使う・分かち合う」ニュアンス、distribution�
 
 ## 🧩 あわせて覚えたい
 
-- [division](/word/division)：分割、分担
-- [collaboration](/word/collaboration)：協力、共同作業
+- [division](/word/division/)：分割、分担
+- [collaboration](/word/collaboration/)：協力、共同作業
 
 ---
 
 ## 📖 できればこれも
 
-- [access](/word/access)：アクセス、利用
-- [transfer](/word/transfer)：移動、転送
+- [access](/word/access/)：アクセス、利用
+- [transfer](/word/transfer/)：移動、転送
 
 <!-- cvid: aid35_bid41 -->

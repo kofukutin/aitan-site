@@ -97,7 +97,7 @@ IT機器やデジタルツールに関する説明文やマニュアルで登場
 ## 🤔  pen との違いは？
 
 - **stylus**：タブレットやデジタル画面用のペン型入力装置
-- **[pen](/word/pen)**：紙などにインクで書く一般的なペン
+- **[pen](/word/pen/)**：紙などにインクで書く一般的なペン
 
 stylusはデジタル機器専用、penは紙などアナログな媒体に使う点が大きな違いです。
 
@@ -105,14 +105,14 @@ stylusはデジタル機器専用、penは紙などアナログな媒体に使�
 
 ## 🧩 あわせて覚えたい
 
-- [pointer](/word/pointer)：ポインター、指示棒やマウスカーソル
-- [tablet](/word/tablet)：タブレット端末
+- [pointer](/word/pointer/)：ポインター、指示棒やマウスカーソル
+- [tablet](/word/tablet/)：タブレット端末
 
 ---
 
 ## 📖 できればこれも
 
-- [cursor](/word/cursor)：カーソル、画面上の入力位置を示す記号
-- [device](/word/device)：デバイス、機器や装置
+- [cursor](/word/cursor/)：カーソル、画面上の入力位置を示す記号
+- [device](/word/device/)：デバイス、機器や装置
 
 <!-- cvid: aid08_bid03 -->

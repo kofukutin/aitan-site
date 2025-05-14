@@ -97,7 +97,7 @@ TOEICでは契約書や規約、合意書などの文書で「binding」がよ�
 ## 🤔  contract との違いは？
 
 - **binding**：法的に拘束力がある状態や性質を表す形容詞
-- **[contract](/word/contract)**：契約そのもの（名詞）
+- **[contract](/word/contract/)**：契約そのもの（名詞）
 
 「binding」は契約や約束などが「効力を持つ」ことを強調し、「contract」はその効力を持つ「契約書」自体を指します。
 
@@ -105,14 +105,14 @@ TOEICでは契約書や規約、合意書などの文書で「binding」がよ�
 
 ## 🧩 あわせて覚えたい
 
-- [agreement](/word/agreement)：合意、協定
-- [obligation](/word/obligation)：義務
+- [agreement](/word/agreement/)：合意、協定
+- [obligation](/word/obligation/)：義務
 
 ---
 
 ## 📖 できればこれも
 
-- [valid](/word/valid)：有効な
-- [clause](/word/clause)：条項
+- [valid](/word/valid/)：有効な
+- [clause](/word/clause/)：条項
 
 <!-- cvid: aid06_bid18 -->

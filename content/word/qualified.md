@@ -97,7 +97,7 @@ TOEICでは、採用や応募条件、業務に必要な資格を問う文脈で
 ## 🤔  eligible との違いは？
 
 - **qualified**：必要な資格や能力を持っている
-- **[eligible](/word/eligible)**：条件を満たしていて「資格がある（権利がある）」
+- **[eligible](/word/eligible/)**：条件を満たしていて「資格がある（権利がある）」
 
 qualifiedは「能力や資格が備わっている」こと、eligibleは「条件を満たしていて選ばれる権利がある」ことを強調します。
 
@@ -105,14 +105,14 @@ qualifiedは「能力や資格が備わっている」こと、eligibleは「条
 
 ## 🧩 あわせて覚えたい
 
-- [competent](/word/competent)：有能な、能力がある
-- [unqualified](/word/unqualified)：資格がない、不適任な
+- [competent](/word/competent/)：有能な、能力がある
+- [unqualified](/word/unqualified/)：資格がない、不適任な
 
 ---
 
 ## 📖 できればこれも
 
-- [experienced](/word/experienced)：経験豊富な
-- [certified](/word/certified)：認定された、証明された
+- [experienced](/word/experienced/)：経験豊富な
+- [certified](/word/certified/)：認定された、証明された
 
 <!-- cvid: aid09_bid09 -->

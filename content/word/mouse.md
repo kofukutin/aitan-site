@@ -99,7 +99,7 @@ IT関連やオフィスの説明文で「mouse（マウス）」が登場する�
 ## 🤔  rat との違いは？
 
 - **mouse**：小型のネズミやパソコンのマウスを指す。
-- **[rat](/word/rat)**：mouseより大きいドブネズミなどを指す。
+- **[rat](/word/rat/)**：mouseより大きいドブネズミなどを指す。
 
 mouseは小さくて可愛らしい印象、ratは大きくて害獣のイメージが強いです。
 
@@ -107,14 +107,14 @@ mouseは小さくて可愛らしい印象、ratは大きくて害獣のイメー
 
 ## 🧩 あわせて覚えたい
 
-- [keyboard](/word/keyboard)：キーボード（パソコン入力装置）
-- [trackpad](/word/trackpad)：トラックパッド（ノートPCの指で操作する部分）
+- [keyboard](/word/keyboard/)：キーボード（パソコン入力装置）
+- [trackpad](/word/trackpad/)：トラックパッド（ノートPCの指で操作する部分）
 
 ---
 
 ## 📖 できればこれも
 
-- [screen](/word/screen)：画面
-- [monitor](/word/monitor)：モニター、ディスプレイ
+- [screen](/word/screen/)：画面
+- [monitor](/word/monitor/)：モニター、ディスプレイ
 
 <!-- cvid: aid06_bid32 -->

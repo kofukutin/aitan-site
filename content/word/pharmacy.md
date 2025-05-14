@@ -97,7 +97,7 @@ TOEICでは、病院や健康に関する長文や案内文で「pharmacy」が�
 ## 🤔  drugstore との違いは？
 
 - **pharmacy**：薬の調剤や処方箋の受付も行う「薬局」。ややフォーマル。
-- **[drugstore](/word/drugstore)**：日用品や雑貨も売る「ドラッグストア」。アメリカ英語でカジュアル。
+- **[drugstore](/word/drugstore/)**：日用品や雑貨も売る「ドラッグストア」。アメリカ英語でカジュアル。
 
 pharmacyは医療的な薬局を指し、drugstoreは薬以外の商品も扱う店舗を指すことが多いです。
 
@@ -105,14 +105,14 @@ pharmacyは医療的な薬局を指し、drugstoreは薬以外の商品も扱う
 
 ## 🧩 あわせて覚えたい
 
-- [prescription](/word/prescription)：処方箋
-- [chemist](/word/chemist)：薬剤師（イギリス英語で薬局の意味も）
+- [prescription](/word/prescription/)：処方箋
+- [chemist](/word/chemist/)：薬剤師（イギリス英語で薬局の意味も）
 
 ---
 
 ## 📖 できればこれも
 
-- [medicine](/word/medicine)：薬
-- [clinic](/word/clinic)：診療所
+- [medicine](/word/medicine/)：薬
+- [clinic](/word/clinic/)：診療所
 
 <!-- cvid: aid49_bid24 -->

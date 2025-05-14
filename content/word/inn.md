@@ -97,7 +97,7 @@ TOEICでは、宿泊施設や旅行に関する長文や広告、案内文で見
 ## 🤔  hotel との違いは？
 
 - **inn**：小規模で家庭的な雰囲気の宿や旅館を指す
-- **[hotel](/word/hotel)**：設備が整った一般的なホテルを指す
+- **[hotel](/word/hotel/)**：設備が整った一般的なホテルを指す
 
 innはアットホームで伝統的な雰囲気、hotelはより大規模でサービスが充実した施設を指すことが多いです。
 
@@ -105,14 +105,14 @@ innはアットホームで伝統的な雰囲気、hotelはより大規模でサ
 
 ## 🧩 あわせて覚えたい
 
-- [hostel](/word/hostel)：安価な宿泊施設、相部屋が多い
-- [lodge](/word/lodge)：山小屋やロッジ、自然の中の宿泊施設
+- [hostel](/word/hostel/)：安価な宿泊施設、相部屋が多い
+- [lodge](/word/lodge/)：山小屋やロッジ、自然の中の宿泊施設
 
 ---
 
 ## 📖 できればこれも
 
-- [guesthouse](/word/guesthouse)：ゲストハウス、民宿
-- [motel](/word/motel)：モーテル、車利用者向けの宿泊施設
+- [guesthouse](/word/guesthouse/)：ゲストハウス、民宿
+- [motel](/word/motel/)：モーテル、車利用者向けの宿泊施設
 
 <!-- cvid: aid36_bid48 -->

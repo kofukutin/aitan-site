@@ -98,7 +98,7 @@ TOEICでは会話や説明文で「自然に」「当然」といった流れを
 ## 🤔  automatically との違いは？
 
 - **naturally**：自然の流れや本来の性質で起こること
-- **[automatically](/word/automatically)**：機械的・自動的に起こること
+- **[automatically](/word/automatically/)**：機械的・自動的に起こること
 
 naturallyは「人や物の本来の性質や流れで」起こる場合に使い、automaticallyは「仕組みや装置によって自動的に」起こる場合に使います。
 
@@ -106,14 +106,14 @@ naturallyは「人や物の本来の性質や流れで」起こる場合に使�
 
 ## 🧩 あわせて覚えたい
 
-- [normally](/word/normally)：普通は、通常は
-- [artificially](/word/artificially)：人工的に
+- [normally](/word/normally/)：普通は、通常は
+- [artificially](/word/artificially/)：人工的に
 
 ---
 
 ## 📖 できればこれも
 
-- [actually](/word/actually)：実際に、実は
-- [especially](/word/especially)：特に
+- [actually](/word/actually/)：実際に、実は
+- [especially](/word/especially/)：特に
 
 <!-- cvid: aid49_bid09 -->

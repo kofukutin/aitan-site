@@ -97,7 +97,7 @@ TOEICでは主に健康や安全、リスク管理に関する長文や案内文
 ## 🤔  precaution との違いは？
 
 - **prevention**：悪いことが起こるのを事前に防ぐこと全般
-- **[precaution](/word/precaution)**：特定のリスクに備えて取る「用心」「予防策」
+- **[precaution](/word/precaution/)**：特定のリスクに備えて取る「用心」「予防策」
 
 preventionは広く「予防」全体を指し、precautionは「具体的な予防策」や「用心深い行動」を強調します。
 
@@ -105,14 +105,14 @@ preventionは広く「予防」全体を指し、precautionは「具体的な予
 
 ## 🧩 あわせて覚えたい
 
-- [protection](/word/protection)：保護、防御
-- [treatment](/word/treatment)：治療、処置
+- [protection](/word/protection/)：保護、防御
+- [treatment](/word/treatment/)：治療、処置
 
 ---
 
 ## 📖 できればこれも
 
-- [infection](/word/infection)：感染
-- [measure](/word/measure)：対策、手段
+- [infection](/word/infection/)：感染
+- [measure](/word/measure/)：対策、手段
 
 <!-- cvid: aid15_bid20 -->

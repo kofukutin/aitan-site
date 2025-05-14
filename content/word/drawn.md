@@ -97,7 +97,7 @@ drawnは、会話や説明文で「引かれた」「導き出された」など
 ## 🤔  pulled との違いは？
 
 - **drawn**：引く・描く・導き出すなど幅広い意味で使われる過去分詞
-- **[pulled](/word/pulled)**：物理的に「引っ張る」動作を表す過去分詞
+- **[pulled](/word/pulled/)**：物理的に「引っ張る」動作を表す過去分詞
 
 drawnは抽象的な「引く」や「導く」にも使われますが、pulledは主に物理的な動作に限定されます。
 
@@ -105,14 +105,14 @@ drawnは抽象的な「引く」や「導く」にも使われますが、pulled
 
 ## 🧩 あわせて覚えたい
 
-- [attract](/word/attract)：引きつける
-- [withdraw](/word/withdraw)：引き出す、撤回する
+- [attract](/word/attract/)：引きつける
+- [withdraw](/word/withdraw/)：引き出す、撤回する
 
 ---
 
 ## 📖 できればこれも
 
-- [written](/word/written)：書かれた
-- [taken](/word/taken)：取られた
+- [written](/word/written/)：書かれた
+- [taken](/word/taken/)：取られた
 
 <!-- cvid: aid10_bid46 -->

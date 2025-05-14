@@ -98,7 +98,7 @@ TOEICでは、選択肢の中で「明確な違い」や「区別」を表す文
 ## 🤔  different との違いは？
 
 - **distinct**：明確に区別できる、はっきり異なる
-- **[different](/word/different)**：単に「異なる」、違っている
+- **[different](/word/different/)**：単に「異なる」、違っている
 
 「distinct」は違いがはっきりしている場合に使い、「different」は単に違いがある場合に使います。
 
@@ -106,14 +106,14 @@ TOEICでは、選択肢の中で「明確な違い」や「区別」を表す文
 
 ## 🧩 あわせて覚えたい
 
-- [separate](/word/separate)：分かれた、別々の
-- [unique](/word/unique)：唯一の、独特な
+- [separate](/word/separate/)：分かれた、別々の
+- [unique](/word/unique/)：唯一の、独特な
 
 ---
 
 ## 📖 できればこれも
 
-- [specific](/word/specific)：具体的な、特定の
-- [definite](/word/definite)：明確な、確定した
+- [specific](/word/specific/)：具体的な、特定の
+- [definite](/word/definite/)：明確な、確定した
 
 <!-- cvid: aid23_bid18 -->

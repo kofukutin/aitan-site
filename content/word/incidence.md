@@ -97,7 +97,7 @@ incidenceはTOEICの長文読解（Part 7）で、医療や統計、ビジネス
 ## 🤔  occurrence との違いは？
 
 - **incidence**：一定期間・集団内での発生率や頻度を数量的に表す
-- **[occurrence](/word/occurrence)**：出来事が「起こること」自体やその事例を指す
+- **[occurrence](/word/occurrence/)**：出来事が「起こること」自体やその事例を指す
 
 incidenceは「どれくらい起きたか」という割合や頻度に焦点があり、occurrenceは「出来事そのもの」に注目します。
 
@@ -105,14 +105,14 @@ incidenceは「どれくらい起きたか」という割合や頻度に焦点�
 
 ## 🧩 あわせて覚えたい
 
-- [prevalence](/word/prevalence)：（病気などの）有病率、普及度
-- [frequency](/word/frequency)：頻度、回数
+- [prevalence](/word/prevalence/)：（病気などの）有病率、普及度
+- [frequency](/word/frequency/)：頻度、回数
 
 ---
 
 ## 📖 できればこれも
 
-- [rate](/word/rate)：割合、比率
-- [proportion](/word/proportion)：割合、部分
+- [rate](/word/rate/)：割合、比率
+- [proportion](/word/proportion/)：割合、部分
 
 <!-- cvid: aid45_bid16 -->

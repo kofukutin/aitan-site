@@ -97,7 +97,7 @@ TOEICでは、場所の説明や移動、指示の場面で「distance」が使�
 ## 🤔  interval との違いは？
 
 - **distance**：物理的な距離や空間的な隔たりを表す
-- **[interval](/word/interval)**：時間や空間の「区切り」「間隔」を表す
+- **[interval](/word/interval/)**：時間や空間の「区切り」「間隔」を表す
 
 distanceは主に「点Aから点Bまでの長さ」に使い、intervalは「2つの出来事や物の間の区切りや間隔」に使います。
 
@@ -105,14 +105,14 @@ distanceは主に「点Aから点Bまでの長さ」に使い、intervalは「2�
 
 ## 🧩 あわせて覚えたい
 
-- [proximity](/word/proximity)：近接、近いこと
-- [gap](/word/gap)：隙間、隔たり
+- [proximity](/word/proximity/)：近接、近いこと
+- [gap](/word/gap/)：隙間、隔たり
 
 ---
 
 ## 📖 できればこれも
 
-- [length](/word/length)：長さ
-- [range](/word/range)：範囲
+- [length](/word/length/)：長さ
+- [range](/word/range/)：範囲
 
 <!-- cvid: aid44_bid22 -->

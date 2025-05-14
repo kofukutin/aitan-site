@@ -97,7 +97,7 @@ TOEICではホテルやオフィス、公共施設の案内文や広告でよく
 ## 🤔  facility との違いは？
 
 - **amenity**：快適さや便利さを提供する付加的な設備やサービス
-- **[facility](/word/facility)**：建物や設備そのもの、機能的な施設
+- **[facility](/word/facility/)**：建物や設備そのもの、機能的な施設
 
 amenityは「快適さ・便利さを高めるもの」に焦点があり、facilityは「建物や設備そのもの」を指します。
 
@@ -105,14 +105,14 @@ amenityは「快適さ・便利さを高めるもの」に焦点があり、faci
 
 ## 🧩 あわせて覚えたい
 
-- [convenience](/word/convenience)：便利さ、便利なもの
-- [comfort](/word/comfort)：快適さ、心地よさ
+- [convenience](/word/convenience/)：便利さ、便利なもの
+- [comfort](/word/comfort/)：快適さ、心地よさ
 
 ---
 
 ## 📖 できればこれも
 
-- [accommodation](/word/accommodation)：宿泊施設、宿泊
-- [service](/word/service)：サービス、業務
+- [accommodation](/word/accommodation/)：宿泊施設、宿泊
+- [service](/word/service/)：サービス、業務
 
 <!-- cvid: aid05_bid49 -->

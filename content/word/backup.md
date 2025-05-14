@@ -97,7 +97,7 @@ TOEICではITやビジネス文書、Eメールの中で「backup」がデータ
 ## 🤔  support との違いは？
 
 - **backup**：予備や補助、データの複製など「代替・支援」の意味が強い
-- **[support](/word/support)**：精神的・物理的な「支援」「サポート」を幅広く指す
+- **[support](/word/support/)**：精神的・物理的な「支援」「サポート」を幅広く指す
 
 backupは「何かが使えなくなったときの代替」や「補助的なもの」を指すことが多く、supportは「助ける」「支える」という意味で人や物事への積極的な支援を表します。
 
@@ -105,14 +105,14 @@ backupは「何かが使えなくなったときの代替」や「補助的な�
 
 ## 🧩 あわせて覚えたい
 
-- [substitute](/word/substitute)：代用品、代理人
-- [restore](/word/restore)：復元する、元に戻す
+- [substitute](/word/substitute/)：代用品、代理人
+- [restore](/word/restore/)：復元する、元に戻す
 
 ---
 
 ## 📖 できればこれも
 
-- [file](/word/file)：ファイル、書類
-- [data](/word/data)：データ、情報
+- [file](/word/file/)：ファイル、書類
+- [data](/word/data/)：データ、情報
 
 <!-- cvid: aid20_bid34 -->

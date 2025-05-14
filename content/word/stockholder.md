@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や会社関連の長文で登場します。
 ## 🤔  shareholder との違いは？
 
 - **stockholder**：主にアメリカ英語で使われる「株主」
-- **[shareholder](/word/shareholder)**：主にイギリス英語で使われる「株主」
+- **[shareholder](/word/shareholder/)**：主にイギリス英語で使われる「株主」
 
 stockholderはアメリカ、shareholderはイギリスで一般的に使われますが、意味はほぼ同じです。
 
@@ -105,14 +105,14 @@ stockholderはアメリカ、shareholderはイギリスで一般的に使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [investor](/word/investor)：投資家
-- [stakeholder](/word/stakeholder)：利害関係者
+- [investor](/word/investor/)：投資家
+- [stakeholder](/word/stakeholder/)：利害関係者
 
 ---
 
 ## 📖 できればこれも
 
-- [dividend](/word/dividend)：配当
-- [equity](/word/equity)：株式資本
+- [dividend](/word/dividend/)：配当
+- [equity](/word/equity/)：株式資本
 
 <!-- cvid: aid47_bid01 -->

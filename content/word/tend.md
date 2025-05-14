@@ -97,7 +97,7 @@ tendはTOEICの文法・語彙問題で「tend to do（～する傾向がある�
 ## 🤔  incline との違いは？
 
 - **tend**：自然な傾向や習慣を表す
-- **[incline](/word/incline)**：ややフォーマルで「気持ちが傾く」「～したい気がする」など意志や感情の傾きを表す
+- **[incline](/word/incline/)**：ややフォーマルで「気持ちが傾く」「～したい気がする」など意志や感情の傾きを表す
 
 tendは日常的な「～しがち」という意味で使われ、inclineは「気持ちが～に傾く」といった意志や感情のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ tendは日常的な「～しがち」という意味で使われ、inclineは「
 
 ## 🧩 あわせて覚えたい
 
-- [care](/word/care)：気にかける、世話をする
-- [prefer](/word/prefer)：より好む
+- [care](/word/care/)：気にかける、世話をする
+- [prefer](/word/prefer/)：より好む
 
 ---
 
 ## 📖 できればこれも
 
-- [attempt](/word/attempt)：試みる
-- [manage](/word/manage)：なんとか～する
+- [attempt](/word/attempt/)：試みる
+- [manage](/word/manage/)：なんとか～する
 
 <!-- cvid: aid03_bid35 -->

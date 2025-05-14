@@ -98,7 +98,7 @@ TOEICでは、工事や建設現場、施設の説明などで頻出します。
 ## 🤔  building との違いは？
 
 - **construction**：建設という「行為」や「工事」、または「構造」を指す
-- **[building](/word/building)**：完成した「建物」そのものを指す
+- **[building](/word/building/)**：完成した「建物」そのものを指す
 
 constructionは「建てるプロセス」や「工事中の状態」を表し、buildingは「できあがった建物」を指します。
 
@@ -106,14 +106,14 @@ constructionは「建てるプロセス」や「工事中の状態」を表し�
 
 ## 🧩 あわせて覚えたい
 
-- [demolition](/word/demolition)：解体、取り壊し
-- [infrastructure](/word/infrastructure)：社会基盤、インフラ
+- [demolition](/word/demolition/)：解体、取り壊し
+- [infrastructure](/word/infrastructure/)：社会基盤、インフラ
 
 ---
 
 ## 📖 できればこれも
 
-- [project](/word/project)：計画、プロジェクト
-- [structure](/word/structure)：構造、建造物
+- [project](/word/project/)：計画、プロジェクト
+- [structure](/word/structure/)：構造、建造物
 
 <!-- cvid: aid38_bid39 -->

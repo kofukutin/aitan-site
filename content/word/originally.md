@@ -97,7 +97,7 @@ TOEICでは、企業の歴史や製品の起源などを説明する文脈でよ
 ## 🤔  initially との違いは？
 
 - **originally**：もともと、最初は（起源や出発点を強調）
-- **[initially](/word/initially)**：最初の段階で、当初（物事の始まりの時点を強調）
+- **[initially](/word/initially/)**：最初の段階で、当初（物事の始まりの時点を強調）
 
 「originally」は「もともとどうだったか」という起源や本来の状態を指し、「initially」は「最初の段階でどうだったか」という時系列の最初を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、企業の歴史や製品の起源などを説明する文脈でよ
 
 ## 🧩 あわせて覚えたい
 
-- [eventually](/word/eventually)：最終的に
-- [formerly](/word/formerly)：以前は
+- [eventually](/word/eventually/)：最終的に
+- [formerly](/word/formerly/)：以前は
 
 ---
 
 ## 📖 できればこれも
 
-- [recently](/word/recently)：最近
-- [finally](/word/finally)：ついに
+- [recently](/word/recently/)：最近
+- [finally](/word/finally/)：ついに
 
 <!-- cvid: aid38_bid19 -->

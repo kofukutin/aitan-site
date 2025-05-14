@@ -97,7 +97,7 @@ TOEICの長文読解パートで、変化の度合いや影響の大きさを説
 ## 🤔  significantly との違いは？
 
 - **substantially**：数量や程度が「かなり」「大幅に」増減したことや、本質的な変化を強調する。
-- **[significantly](/word/significantly)**：統計的・客観的に「有意な」「目立った」変化や差を強調する。
+- **[significantly](/word/significantly/)**：統計的・客観的に「有意な」「目立った」変化や差を強調する。
 
 substantiallyは「実質的・本質的な大きな変化」、significantlyは「統計的・客観的に意味のある変化」を表す点が異なります。
 
@@ -105,14 +105,14 @@ substantiallyは「実質的・本質的な大きな変化」、significantlyは
 
 ## 🧩 あわせて覚えたい
 
-- [considerably](/word/considerably)：かなり、相当に
-- [marginally](/word/marginally)：わずかに、ほんの少し
+- [considerably](/word/considerably/)：かなり、相当に
+- [marginally](/word/marginally/)：わずかに、ほんの少し
 
 ---
 
 ## 📖 できればこれも
 
-- [primarily](/word/primarily)：主に
-- [approximately](/word/approximately)：おおよそ、約
+- [primarily](/word/primarily/)：主に
+- [approximately](/word/approximately/)：おおよそ、約
 
 <!-- cvid: aid11_bid33 -->

@@ -97,7 +97,7 @@ TOEICでは「sensitive information（機密情報）」や「sensitive to chang
 ## 🤔  delicate との違いは？
 
 - **sensitive**：感情や刺激、状況に対して「敏感な」「感じやすい」
-- **[delicate](/word/delicate)**：物や状況が「壊れやすい」「繊細な」「微妙な」
+- **[delicate](/word/delicate/)**：物や状況が「壊れやすい」「繊細な」「微妙な」
 
 sensitiveは人や感情、情報などが外部の影響を受けやすい場合に使い、delicateは物理的・精神的に壊れやすい、または扱いが難しいものに使います。
 
@@ -105,14 +105,14 @@ sensitiveは人や感情、情報などが外部の影響を受けやすい場�
 
 ## 🧩 あわせて覚えたい
 
-- [insensitive](/word/insensitive)：鈍感な、無神経な
-- [responsive](/word/responsive)：反応が良い、すぐに応じる
+- [insensitive](/word/insensitive/)：鈍感な、無神経な
+- [responsive](/word/responsive/)：反応が良い、すぐに応じる
 
 ---
 
 ## 📖 できればこれも
 
-- [emotional](/word/emotional)：感情的な
-- [aware](/word/aware)：気づいている、意識している
+- [emotional](/word/emotional/)：感情的な
+- [aware](/word/aware/)：気づいている、意識している
 
 <!-- cvid: aid17_bid30 -->

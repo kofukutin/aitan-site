@@ -97,7 +97,7 @@ ITや技術系の長文やEメール文中で、業務内容やスキル説明�
 ## 🤔  programming との違いは？
 
 - **coding**：プログラム言語で実際にコードを書く作業や行為
-- **[programming](/word/programming)**：設計・構築・テストなども含む広い意味の「プログラミング」
+- **[programming](/word/programming/)**：設計・構築・テストなども含む広い意味の「プログラミング」
 
 「coding」は「書くこと」に特化し、「programming」は設計や全体の流れも含む幅広い意味で使われます。
 
@@ -105,14 +105,14 @@ ITや技術系の長文やEメール文中で、業務内容やスキル説明�
 
 ## 🧩 あわせて覚えたい
 
-- [debug](/word/debug)：バグを見つけて修正すること
-- [algorithm](/word/algorithm)：問題解決のための手順や計算方法
+- [debug](/word/debug/)：バグを見つけて修正すること
+- [algorithm](/word/algorithm/)：問題解決のための手順や計算方法
 
 ---
 
 ## 📖 できればこれも
 
-- [script](/word/script)：簡単なプログラムやスクリプト
-- [compile](/word/compile)：プログラムをコンピュータが実行できる形に変換すること
+- [script](/word/script/)：簡単なプログラムやスクリプト
+- [compile](/word/compile/)：プログラムをコンピュータが実行できる形に変換すること
 
 <!-- cvid: aid03_bid03 -->

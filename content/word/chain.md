@@ -97,7 +97,7 @@ TOEICでは「チェーン店」や「サプライチェーン」など、ビジ
 ## 🤔  series との違いは？
 
 - **chain**：物理的な鎖や、店舗・出来事など「つながり」を強調する連続・系列。
-- **[series](/word/series)**：順序や関連性のある「一連のもの」や「連続」を表す。
+- **[series](/word/series/)**：順序や関連性のある「一連のもの」や「連続」を表す。
 
 chainは「つながり」や「連鎖性」を重視し、seriesは「順序」や「続きもの」としての連続性を強調します。
 
@@ -105,14 +105,14 @@ chainは「つながり」や「連鎖性」を重視し、seriesは「順序」
 
 ## 🧩 あわせて覚えたい
 
-- [network](/word/network)：ネットワーク、網状のつながり
-- [link](/word/link)：リンク、つながり・関連
+- [network](/word/network/)：ネットワーク、網状のつながり
+- [link](/word/link/)：リンク、つながり・関連
 
 ---
 
 ## 📖 できればこれも
 
-- [branch](/word/branch)：支店、枝
-- [store](/word/store)：店、店舗
+- [branch](/word/branch/)：支店、枝
+- [store](/word/store/)：店、店舗
 
 <!-- cvid: aid43_bid18 -->

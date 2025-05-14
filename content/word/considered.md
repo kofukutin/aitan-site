@@ -97,7 +97,7 @@ TOEICでは、形容詞として「considered opinion（熟慮された意見）
 ## 🤔  regarded との違いは？
 
 - **considered**：よく考えられた、熟慮された（慎重に検討した結果を強調）
-- **[regarded](/word/regarded)**：みなされている、評価されている（他者からの評価や見方を強調）
+- **[regarded](/word/regarded/)**：みなされている、評価されている（他者からの評価や見方を強調）
 
 「considered」は自分や組織が熟慮した結果を表し、「regarded」は周囲からどう見られているかを表します。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞として「considered opinion（熟慮された意見）
 
 ## 🧩 あわせて覚えたい
 
-- [deliberate](/word/deliberate)：意図的な、慎重な
-- [thoughtful](/word/thoughtful)：思慮深い、配慮のある
+- [deliberate](/word/deliberate/)：意図的な、慎重な
+- [thoughtful](/word/thoughtful/)：思慮深い、配慮のある
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/word/significant)：重要な
-- [notable](/word/notable)：注目すべき
+- [significant](/word/significant/)：重要な
+- [notable](/word/notable/)：注目すべき
 
 <!-- cvid: aid10_bid41 -->

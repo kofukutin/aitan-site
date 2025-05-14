@@ -97,7 +97,7 @@ TOEICでは会議やビジネスの会話で「売上を伸ばす」「効率を
 ## 🤔  enhance との違いは？
 
 - **boost**：数量や効果を目に見えて「増やす」「高める」ニュアンスが強い
-- **[enhance](/word/enhance)**：質や価値を「向上させる」「強化する」意味で使う
+- **[enhance](/word/enhance/)**：質や価値を「向上させる」「強化する」意味で使う
 
 boostは「売上」「やる気」など数値や勢いを上げるときに使い、enhanceは「品質」「イメージ」など目に見えない価値を高めるときに使います。
 
@@ -105,14 +105,14 @@ boostは「売上」「やる気」など数値や勢いを上げるときに使
 
 ## 🧩 あわせて覚えたい
 
-- [increase](/word/increase)：増やす、増加する
-- [reduce](/word/reduce)：減らす
+- [increase](/word/increase/)：増やす、増加する
+- [reduce](/word/reduce/)：減らす
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/word/improve)：改善する、良くする
-- [support](/word/support)：支える、支援する
+- [improve](/word/improve/)：改善する、良くする
+- [support](/word/support/)：支える、支援する
 
 <!-- cvid: aid07_bid03 -->

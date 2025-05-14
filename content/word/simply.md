@@ -97,7 +97,7 @@ TOEICでは文を簡潔に言い換える問題や、説明をシンプルにす
 ## 🤔  just との違いは？
 
 - **simply**：複雑さを排除して「単純に」「簡単に」と強調したいときに使う。
-- **[just](/word/just)**：単に「～だけ」「ちょうど」など幅広い意味で使う。
+- **[just](/word/just/)**：単に「～だけ」「ちょうど」など幅広い意味で使う。
 
 simplyは「余計なことをせずに」というニュアンスが強く、justは「限定」や「強調」など幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ simplyは「余計なことをせずに」というニュアンスが強く、ju
 
 ## 🧩 あわせて覚えたい
 
-- [clearly](/word/clearly)：はっきりと
-- [easily](/word/easily)：簡単に
+- [clearly](/word/clearly/)：はっきりと
+- [easily](/word/easily/)：簡単に
 
 ---
 
 ## 📖 できればこれも
 
-- [mainly](/word/mainly)：主に
-- [quickly](/word/quickly)：素早く
+- [mainly](/word/mainly/)：主に
+- [quickly](/word/quickly/)：素早く
 
 <!-- cvid: aid31_bid20 -->

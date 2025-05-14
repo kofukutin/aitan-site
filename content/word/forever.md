@@ -93,7 +93,7 @@ TOEICでは会話文や説明文で「ずっと」「永遠に」といった意
 ## 🤔  permanently との違いは？
 
 - **forever**：感情や口語的な場面で「永遠に」「ずっと」を表す
-- **[permanently](/word/permanently)**：よりフォーマルで「恒久的に」「永久に」を表す
+- **[permanently](/word/permanently/)**：よりフォーマルで「恒久的に」「永久に」を表す
 
 「forever」は日常会話や感情表現で使われやすく、「permanently」は公式文書やビジネスでの恒久的な状態に使われます。
 
@@ -101,14 +101,14 @@ TOEICでは会話文や説明文で「ずっと」「永遠に」といった意
 
 ## 🧩 あわせて覚えたい
 
-- [constantly](/word/constantly)：絶えず、常に
-- [temporarily](/word/temporarily)：一時的に
+- [constantly](/word/constantly/)：絶えず、常に
+- [temporarily](/word/temporarily/)：一時的に
 
 ---
 
 ## 📖 できればこれも
 
-- [always](/word/always)：いつも
-- [eventually](/word/eventually)：最終的に
+- [always](/word/always/)：いつも
+- [eventually](/word/eventually/)：最終的に
 
 <!-- cvid: aid47_bid38 -->

@@ -97,7 +97,7 @@ TOEICでは、科学や医療、技術関連の記事や説明文で登場する
 ## 🤔  workshop との違いは？
 
 - **laboratory**：科学的な実験や研究を行うための施設や部屋
-- **[workshop](/word/workshop)**：作業場、または実技を学ぶ講習会
+- **[workshop](/word/workshop/)**：作業場、または実技を学ぶ講習会
 
 laboratoryは主に科学や研究の場を指し、workshopはものづくりや学習のための作業場や講習会を指します。
 
@@ -105,14 +105,14 @@ laboratoryは主に科学や研究の場を指し、workshopはものづくり�
 
 ## 🧩 あわせて覚えたい
 
-- [experiment](/word/experiment)：実験
-- [facility](/word/facility)：施設
+- [experiment](/word/experiment/)：実験
+- [facility](/word/facility/)：施設
 
 ---
 
 ## 📖 できればこれも
 
-- [research](/word/research)：研究
-- [equipment](/word/equipment)：機器、装置
+- [research](/word/research/)：研究
+- [equipment](/word/equipment/)：機器、装置
 
 <!-- cvid: aid07_bid01 -->

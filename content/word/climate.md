@@ -97,7 +97,7 @@ TOEICでは環境問題やビジネスの社会的責任に関する長文でよ
 ## 🤔  weather との違いは？
 
 - **climate**：長期間の天候の傾向や特徴
-- **[weather](/word/weather)**：その日の天気や短期間の気象
+- **[weather](/word/weather/)**：その日の天気や短期間の気象
 
 climateは「その地域の平均的な天候」、weatherは「今日や今の天気」を指します。
 
@@ -105,14 +105,14 @@ climateは「その地域の平均的な天候」、weatherは「今日や今の
 
 ## 🧩 あわせて覚えたい
 
-- [atmosphere](/word/atmosphere)：大気、雰囲気
-- [temperature](/word/temperature)：気温
+- [atmosphere](/word/atmosphere/)：大気、雰囲気
+- [temperature](/word/temperature/)：気温
 
 ---
 
 ## 📖 できればこれも
 
-- [environment](/word/environment)：環境
-- [season](/word/season)：季節
+- [environment](/word/environment/)：環境
+- [season](/word/season/)：季節
 
 <!-- cvid: aid48_bid29 -->

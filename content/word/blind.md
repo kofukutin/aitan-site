@@ -97,7 +97,7 @@ blindはTOEICの語彙問題で、比喩的な意味（気づかない、無知�
 ## 🤔  ignore との違いは？
 
 - **blind**：物理的・比喩的に「見えない」「気づかない」状態を表す
-- **[ignore](/word/ignore)**：意図的に「無視する」「気づいてもあえて対応しない」ことを表す
+- **[ignore](/word/ignore/)**：意図的に「無視する」「気づいてもあえて対応しない」ことを表す
 
 blindは「見えない・気づかない」状態で、意図は含みませんが、ignoreは「知っていて無視する」意図的な行動を指します。
 
@@ -105,14 +105,14 @@ blindは「見えない・気づかない」状態で、意図は含みません
 
 ## 🧩 あわせて覚えたい
 
-- [deaf](/word/deaf)：耳が聞こえない
-- [overlook](/word/overlook)：見落とす、見逃す
+- [deaf](/word/deaf/)：耳が聞こえない
+- [overlook](/word/overlook/)：見落とす、見逃す
 
 ---
 
 ## 📖 できればこれも
 
-- [silent](/word/silent)：静かな、黙っている
-- [aware](/word/aware)：気づいている
+- [silent](/word/silent/)：静かな、黙っている
+- [aware](/word/aware/)：気づいている
 
 <!-- cvid: aid34_bid30 -->

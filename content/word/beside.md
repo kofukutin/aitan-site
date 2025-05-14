@@ -103,14 +103,14 @@ besideは「横にある」ことを表し、next toは「ぴったり隣接し�
 
 ## 🧩 あわせて覚えたい
 
-- [near](/word/near)：近くに
-- [alongside](/word/alongside)：～と並んで、～の横に
+- [near](/word/near/)：近くに
+- [alongside](/word/alongside/)：～と並んで、～の横に
 
 ---
 
 ## 📖 できればこれも
 
-- [between](/word/between)：～の間に
-- [under](/word/under)：～の下に
+- [between](/word/between/)：～の間に
+- [under](/word/under/)：～の下に
 
 <!-- cvid: aid13_bid12 -->

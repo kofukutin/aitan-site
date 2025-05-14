@@ -97,7 +97,7 @@ TOEICでは、会議やイベントの準備、サービス提供に関する会
 ## 🤔  provide との違いは？
 
 - **cater**：特定のニーズや要望に合わせてサービスや飲食物を提供する
-- **[provide](/word/provide)**：一般的に物やサービスを「与える」「供給する」
+- **[provide](/word/provide/)**：一般的に物やサービスを「与える」「供給する」
 
 caterは「相手の要望に合わせて用意する」ニュアンスが強く、provideは単に「与える・供給する」という広い意味で使われます。
 
@@ -105,14 +105,14 @@ caterは「相手の要望に合わせて用意する」ニュアンスが強く
 
 ## 🧩 あわせて覚えたい
 
-- [supply](/word/supply)：供給する、支給する
-- [serve](/word/serve)：（食事などを）出す、サービスする
+- [supply](/word/supply/)：供給する、支給する
+- [serve](/word/serve/)：（食事などを）出す、サービスする
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange)：手配する、準備する
-- [organize](/word/organize)：組織する、まとめる
+- [arrange](/word/arrange/)：手配する、準備する
+- [organize](/word/organize/)：組織する、まとめる
 
 <!-- cvid: aid36_bid41 -->

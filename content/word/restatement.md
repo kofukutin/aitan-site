@@ -97,7 +97,7 @@ TOEICのPart 7で、文章の内容を別の表現で説明する設問や、報
 ## 🤔  paraphrase との違いは？
 
 - **restatement**：内容を明確にするために、同じ意味を別の言葉で再度述べること
-- **[paraphrase](/word/paraphrase)**：元の意味を保ちつつ、より簡単または異なる言い方に言い換えること
+- **[paraphrase](/word/paraphrase/)**：元の意味を保ちつつ、より簡単または異なる言い方に言い換えること
 
 restatementは「再度述べる」ことに重点があり、paraphraseは「言い換え」や「簡略化」に重点があります。
 
@@ -105,14 +105,14 @@ restatementは「再度述べる」ことに重点があり、paraphraseは「�
 
 ## 🧩 あわせて覚えたい
 
-- [summary](/word/summary)：要約
-- [clarification](/word/clarification)：明確化、説明
+- [summary](/word/summary/)：要約
+- [clarification](/word/clarification/)：明確化、説明
 
 ---
 
 ## 📖 できればこれも
 
-- [statement](/word/statement)：陳述、声明
-- [explanation](/word/explanation)：説明
+- [statement](/word/statement/)：陳述、声明
+- [explanation](/word/explanation/)：説明
 
 <!-- cvid: aid48_bid02 -->

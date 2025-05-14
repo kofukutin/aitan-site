@@ -97,7 +97,7 @@ TOEICでは会議やプロジェクト、チーム運営などの文脈で「lea
 ## 🤔  guide との違いは？
 
 - **lead**：集団や活動を率先して導く、リーダーシップを発揮するニュアンス
-- **[guide](/word/guide)**：案内役として道順や方法を示す、サポート的なニュアンス
+- **[guide](/word/guide/)**：案内役として道順や方法を示す、サポート的なニュアンス
 
 「lead」はリーダーとして全体を率いる場面で使い、「guide」は道案内や助言などサポート的な場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは会議やプロジェクト、チーム運営などの文脈で「lea
 
 ## 🧩 あわせて覚えたい
 
-- [manage](/word/manage)：管理する、運営する
-- [follow](/word/follow)：従う、ついていく
+- [manage](/word/manage/)：管理する、運営する
+- [follow](/word/follow/)：従う、ついていく
 
 ---
 
 ## 📖 できればこれも
 
-- [direct](/word/direct)：指揮する、指示する
-- [support](/word/support)：支援する、支える
+- [direct](/word/direct/)：指揮する、指示する
+- [support](/word/support/)：支援する、支える
 
 <!-- cvid: aid34_bid08 -->

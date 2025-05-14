@@ -98,7 +98,7 @@ TOEICでは、文書やメールの中で「統一された」「一体化した
 ## 🤔  integrated との違いは？
 
 - **unified**：もともと別々だったものが「1つにまとまった」状態を強調
-- **[integrated](/word/integrated)**：異なる要素が「組み合わさって機能している」状態を強調
+- **[integrated](/word/integrated/)**：異なる要素が「組み合わさって機能している」状態を強調
 
 unifiedは「統一感」や「一体感」に重点があり、integratedは「異なるものが調和して機能する」点に違いがあります。
 
@@ -106,14 +106,14 @@ unifiedは「統一感」や「一体感」に重点があり、integratedは「
 
 ## 🧩 あわせて覚えたい
 
-- [combine](/word/combine)：結合する、組み合わせる
-- [merge](/word/merge)：合併する、融合する
+- [combine](/word/combine/)：結合する、組み合わせる
+- [merge](/word/merge/)：合併する、融合する
 
 ---
 
 ## 📖 できればこれも
 
-- [consistent](/word/consistent)：一貫した、矛盾のない
-- [collaborate](/word/collaborate)：協力する、共同で行う
+- [consistent](/word/consistent/)：一貫した、矛盾のない
+- [collaborate](/word/collaborate/)：協力する、共同で行う
 
 <!-- cvid: aid06_bid18 -->

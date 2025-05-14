@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、道路やグラフの説明などに使
 ## 🤔  bend との違いは？
 
 - **curve**：なめらかに連続して曲がった線や形を指す。
-- **[bend](/word/bend)**：急に折れ曲がる部分や、曲げる動作そのものを指す。
+- **[bend](/word/bend/)**：急に折れ曲がる部分や、曲げる動作そのものを指す。
 
 curveは全体的な「曲線」や「カーブ」を表し、bendは「折れ曲がる点」や「曲げる動作」に焦点を当てます。
 
@@ -105,14 +105,14 @@ curveは全体的な「曲線」や「カーブ」を表し、bendは「折れ�
 
 ## 🧩 あわせて覚えたい
 
-- [line](/word/line)：線、直線
-- [arc](/word/arc)：弧、円弧
+- [line](/word/line/)：線、直線
+- [arc](/word/arc/)：弧、円弧
 
 ---
 
 ## 📖 できればこれも
 
-- [angle](/word/angle)：角度
-- [shape](/word/shape)：形、形状
+- [angle](/word/angle/)：角度
+- [shape](/word/shape/)：形、形状
 
 <!-- cvid: aid09_bid00 -->

@@ -97,7 +97,7 @@ TOEICでは環境問題やサステナビリティに関する記事や広告文
 ## 🤔  environmental との違いは？
 
 - **ecological**：生態系や生物同士の関係、自然環境全体に焦点を当てる
-- **[environmental](/word/environmental)**：環境全般や人間活動による影響に幅広く使う
+- **[environmental](/word/environmental/)**：環境全般や人間活動による影響に幅広く使う
 
 「ecological」は生態系や自然のバランスに特に注目する時に使い、「environmental」はより広く「環境」に関する話題全般に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは環境問題やサステナビリティに関する記事や広告文
 
 ## 🧩 あわせて覚えたい
 
-- [sustainable](/word/sustainable)：持続可能な
-- [biological](/word/biological)：生物学的な
+- [sustainable](/word/sustainable/)：持続可能な
+- [biological](/word/biological/)：生物学的な
 
 ---
 
 ## 📖 できればこれも
 
-- [ecosystem](/word/ecosystem)：生態系
-- [conservation](/word/conservation)：保護、保存
+- [ecosystem](/word/ecosystem/)：生態系
+- [conservation](/word/conservation/)：保護、保存
 
 <!-- cvid: aid09_bid22 -->

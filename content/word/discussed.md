@@ -97,7 +97,7 @@ TOEICでは会議やビジネスの会話文で「discussed」が頻出します
 ## 🤔  talk との違いは？
 
 - **discussed**：特定の話題について意見を交わし合った、議論した（フォーマル）
-- **[talk](/word/talk)**：一般的に話す、会話する（カジュアル）
+- **[talk](/word/talk/)**：一般的に話す、会話する（カジュアル）
 
 discussedは「議題」や「問題」など具体的なテーマについて深く話し合う時に使い、talkは日常的な会話や雑談にも幅広く使われます。
 
@@ -105,14 +105,14 @@ discussedは「議題」や「問題」など具体的なテーマについて�
 
 ## 🧩 あわせて覚えたい
 
-- [debate](/word/debate)：討論する、議論する
-- [mention](/word/mention)：言及する、軽く触れる
+- [debate](/word/debate/)：討論する、議論する
+- [mention](/word/mention/)：言及する、軽く触れる
 
 ---
 
 ## 📖 できればこれも
 
-- [explain](/word/explain)：説明する
-- [describe](/word/describe)：描写する、説明する
+- [explain](/word/explain/)：説明する
+- [describe](/word/describe/)：描写する、説明する
 
 <!-- cvid: aid36_bid33 -->

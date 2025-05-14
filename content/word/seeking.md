@@ -99,7 +99,7 @@ TOEICでは求人広告やビジネスシーンで「求めている」「募集
 ## 🤔  searching との違いは？
 
 - **seeking**：目的や目標を持って積極的に「探し求める」ニュアンス
-- **[searching](/word/searching)**：物理的・情報的に「探す」「調べる」動作に重点
+- **[searching](/word/searching/)**：物理的・情報的に「探す」「調べる」動作に重点
 
 seekingは「得たいもの・目標」が明確な場合に使い、searchingは「場所や情報を探す」動作自体に焦点があります。
 
@@ -107,14 +107,14 @@ seekingは「得たいもの・目標」が明確な場合に使い、searching�
 
 ## 🧩 あわせて覚えたい
 
-- [apply](/word/apply)：応募する、申し込む
-- [explore](/word/explore)：探検する、詳しく調べる
+- [apply](/word/apply/)：応募する、申し込む
+- [explore](/word/explore/)：探検する、詳しく調べる
 
 ---
 
 ## 📖 できればこれも
 
-- [offer](/word/offer)：提供する、申し出る
-- [request](/word/request)：依頼する、要請する
+- [offer](/word/offer/)：提供する、申し出る
+- [request](/word/request/)：依頼する、要請する
 
 <!-- cvid: aid45_bid06 -->

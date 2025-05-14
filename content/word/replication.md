@@ -97,7 +97,7 @@ ITや科学、ビジネス分野の説明文やマニュアルで出題される
 ## 🤔  duplication との違いは？
 
 - **replication**：主に科学やIT分野で「正確な複製」や「再現性」を強調する語。
-- **[duplication](/word/duplication)**：単に「コピー」や「重複」を意味し、必ずしも正確さや再現性は問わない。
+- **[duplication](/word/duplication/)**：単に「コピー」や「重複」を意味し、必ずしも正確さや再現性は問わない。
 
 replicationは「同じ結果を再現する」ニュアンスが強く、duplicationは「同じものを2つ作る」イメージです。
 
@@ -105,14 +105,14 @@ replicationは「同じ結果を再現する」ニュアンスが強く、duplic
 
 ## 🧩 あわせて覚えたい
 
-- [imitation](/word/imitation)：模倣、まね
-- [reproduction](/word/reproduction)：再生、複製、再現
+- [imitation](/word/imitation/)：模倣、まね
+- [reproduction](/word/reproduction/)：再生、複製、再現
 
 ---
 
 ## 📖 できればこれも
 
-- [transmission](/word/transmission)：伝達、送信
-- [simulation](/word/simulation)：模擬、シミュレーション
+- [transmission](/word/transmission/)：伝達、送信
+- [simulation](/word/simulation/)：模擬、シミュレーション
 
 <!-- cvid: aid06_bid23 -->

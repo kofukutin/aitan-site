@@ -97,7 +97,7 @@ TOEICでは、イベント案内や趣味に関する話題で登場すること
 ## 🤔  soccer との違いは？
 
 - **football**：主にイギリスや多くの国で「サッカー」を指す。
-- **[soccer](/word/soccer)**：アメリカやカナダで「サッカー」を指す。
+- **[soccer](/word/soccer/)**：アメリカやカナダで「サッカー」を指す。
 
 イギリス英語ではfootball、アメリカ英語ではsoccerが一般的に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、イベント案内や趣味に関する話題で登場すること
 
 ## 🧩 あわせて覚えたい
 
-- [baseball](/word/baseball)：野球
-- [basketball](/word/basketball)：バスケットボール
+- [baseball](/word/baseball/)：野球
+- [basketball](/word/basketball/)：バスケットボール
 
 ---
 
 ## 📖 できればこれも
 
-- [team](/word/team)：チーム
-- [player](/word/player)：選手
+- [team](/word/team/)：チーム
+- [player](/word/player/)：選手
 
 <!-- cvid: aid41_bid49 -->

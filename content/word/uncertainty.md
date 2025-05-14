@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やメール、記事などで「不確実性」
 ## 🤔  doubt との違いは？
 
 - **uncertainty**：状況や結果がどうなるかわからない「不確実さ」や「不透明さ」を表す。
-- **[doubt](/word/doubt)**：何かが正しいかどうか「疑う気持ち」や「疑念」を表す。
+- **[doubt](/word/doubt/)**：何かが正しいかどうか「疑う気持ち」や「疑念」を表す。
 
 uncertaintyは状況全体の不透明さ、doubtは特定の事実や意見に対する疑いを表す点が異なります。
 
@@ -105,14 +105,14 @@ uncertaintyは状況全体の不透明さ、doubtは特定の事実や意見に�
 
 ## 🧩 あわせて覚えたい
 
-- [confidence](/word/confidence)：自信、確信
-- [risk](/word/risk)：リスク、危険
+- [confidence](/word/confidence/)：自信、確信
+- [risk](/word/risk/)：リスク、危険
 
 ---
 
 ## 📖 できればこれも
 
-- [possibility](/word/possibility)：可能性
-- [assumption](/word/assumption)：仮定、想定
+- [possibility](/word/possibility/)：可能性
+- [assumption](/word/assumption/)：仮定、想定
 
 <!-- cvid: aid09_bid40 -->

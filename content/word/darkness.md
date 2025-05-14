@@ -97,7 +97,7 @@ TOEICでは、環境や状況描写、比喩表現の中で「暗闇」や「暗
 ## 🤔  shadow との違いは？
 
 - **darkness**：光がない状態そのものや、全体的な「暗闇」を指す。
-- **[shadow](/word/shadow)**：物体が光を遮ることでできる「影」を指す。
+- **[shadow](/word/shadow/)**：物体が光を遮ることでできる「影」を指す。
 
 「darkness」は空間全体の暗さや抽象的な暗闇を表し、「shadow」は物体によってできる部分的な影を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、環境や状況描写、比喩表現の中で「暗闇」や「暗
 
 ## 🧩 あわせて覚えたい
 
-- [light](/word/light)：光、明るさ
-- [gloom](/word/gloom)：薄暗がり、憂うつ
+- [light](/word/light/)：光、明るさ
+- [gloom](/word/gloom/)：薄暗がり、憂うつ
 
 ---
 
 ## 📖 できればこれも
 
-- [night](/word/night)：夜
-- [silence](/word/silence)：静けさ
+- [night](/word/night/)：夜
+- [silence](/word/silence/)：静けさ
 
 <!-- cvid: aid41_bid11 -->

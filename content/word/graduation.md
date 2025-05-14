@@ -97,7 +97,7 @@ TOEICでは、履歴書や自己紹介、学校関連の長文でよく登場し
 ## 🤔  commencement との違いは？
 
 - **graduation**：卒業や卒業式全般を指し、日常的にも幅広く使われる。
-- **[commencement](/word/commencement)**：主に「卒業式（特に式典）」を指し、アメリカ英語でフォーマルな場面で使われる。
+- **[commencement](/word/commencement/)**：主に「卒業式（特に式典）」を指し、アメリカ英語でフォーマルな場面で使われる。
 
 graduationは卒業そのものや式典の両方を指しますが、commencementは特に「卒業式」の式典そのものを強調します。
 
@@ -105,14 +105,14 @@ graduationは卒業そのものや式典の両方を指しますが、commenceme
 
 ## 🧩 あわせて覚えたい
 
-- [degree](/word/degree)：学位
-- [ceremony](/word/ceremony)：式典
+- [degree](/word/degree/)：学位
+- [ceremony](/word/ceremony/)：式典
 
 ---
 
 ## 📖 できればこれも
 
-- [diploma](/word/diploma)：卒業証書
-- [achievement](/word/achievement)：達成、業績
+- [diploma](/word/diploma/)：卒業証書
+- [achievement](/word/achievement/)：達成、業績
 
 <!-- cvid: aid38_bid19 -->

@@ -97,7 +97,7 @@ TOEICでは説明文やマニュアル、業務手順の解説などでよく登
 ## 🤔  method との違いは？
 
 - **technique**：専門的・実践的な「技術」や「手法」を指し、熟練やコツのニュアンスが強い。
-- **[method](/word/method)**：体系的・論理的な「方法」や「方式」を指し、手順やプロセスの意味が強い。
+- **[method](/word/method/)**：体系的・論理的な「方法」や「方式」を指し、手順やプロセスの意味が強い。
 
 techniqueは「どうやって上手にやるか」、methodは「どんな手順でやるか」に重点があります。
 
@@ -105,14 +105,14 @@ techniqueは「どうやって上手にやるか」、methodは「どんな手�
 
 ## 🧩 あわせて覚えたい
 
-- [skill](/word/skill)：技能、能力
-- [procedure](/word/procedure)：手順、手続き
+- [skill](/word/skill/)：技能、能力
+- [procedure](/word/procedure/)：手順、手続き
 
 ---
 
 ## 📖 できればこれも
 
-- [strategy](/word/strategy)：戦略
-- [approach](/word/approach)：取り組み方、アプローチ
+- [strategy](/word/strategy/)：戦略
+- [approach](/word/approach/)：取り組み方、アプローチ
 
 <!-- cvid: aid30_bid15 -->

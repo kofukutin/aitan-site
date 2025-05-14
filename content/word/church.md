@@ -98,7 +98,7 @@ TOEICでは観光案内やイベント情報、施設紹介などの文脈で登
 ## 🤔  cathedral との違いは？
 
 - **church**：一般的な教会や礼拝堂を指す
-- **[cathedral](/word/cathedral)**：司教座のある大聖堂を指し、規模や格式が高い
+- **[cathedral](/word/cathedral/)**：司教座のある大聖堂を指し、規模や格式が高い
 
 churchは広く「教会」を指しますが、cathedralは特に大きく格式のある「大聖堂」を意味し、宗教的な地位や建築規模が異なります。
 
@@ -106,14 +106,14 @@ churchは広く「教会」を指しますが、cathedralは特に大きく格�
 
 ## 🧩 あわせて覚えたい
 
-- [temple](/word/temple)：寺院（他宗教の礼拝所も含む）
-- [chapel](/word/chapel)：小礼拝堂、チャペル
+- [temple](/word/temple/)：寺院（他宗教の礼拝所も含む）
+- [chapel](/word/chapel/)：小礼拝堂、チャペル
 
 ---
 
 ## 📖 できればこれも
 
-- [museum](/word/museum)：博物館
-- [library](/word/library)：図書館
+- [museum](/word/museum/)：博物館
+- [library](/word/library/)：図書館
 
 <!-- cvid: aid45_bid37 -->

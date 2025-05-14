@@ -97,7 +97,7 @@ TOEICでは契約書や社内規定、ビジネス文書の中で「confidential
 ## 🤔  privacy との違いは？
 
 - **confidentiality**：特定の情報を第三者に漏らさず守ること、守秘義務のニュアンスが強い
-- **[privacy](/word/privacy)**：個人のプライバシーや私生活の権利、他人から干渉されない状態
+- **[privacy](/word/privacy/)**：個人のプライバシーや私生活の権利、他人から干渉されない状態
 
 confidentialityは「業務上知り得た情報を守る義務」、privacyは「個人の私的領域を守る権利」という違いがあります。
 
@@ -105,14 +105,14 @@ confidentialityは「業務上知り得た情報を守る義務」、privacyは�
 
 ## 🧩 あわせて覚えたい
 
-- [disclosure](/word/disclosure)：開示、公開
-- [secrecy](/word/secrecy)：秘密、内密
+- [disclosure](/word/disclosure/)：開示、公開
+- [secrecy](/word/secrecy/)：秘密、内密
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement)：契約、合意
-- [consent](/word/consent)：同意、承諾
+- [agreement](/word/agreement/)：契約、合意
+- [consent](/word/consent/)：同意、承諾
 
 <!-- cvid: aid10_bid34 -->

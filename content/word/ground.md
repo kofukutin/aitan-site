@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題（Part 1）で「地面」や「土地」と
 ## 🤔  floor との違いは？
 
 - **ground**：屋外の地面や土地、または抽象的な「基盤・根拠」
-- **[floor](/word/floor)**：建物や部屋の「床」
+- **[floor](/word/floor/)**：建物や部屋の「床」
 
 groundは屋外や自然の地面、または抽象的な基盤を指し、floorは建物内の床を指します。
 
@@ -105,14 +105,14 @@ groundは屋外や自然の地面、または抽象的な基盤を指し、floor
 
 ## 🧩 あわせて覚えたい
 
-- [soil](/word/soil)：土、土壌
-- [surface](/word/surface)：表面
+- [soil](/word/soil/)：土、土壌
+- [surface](/word/surface/)：表面
 
 ---
 
 ## 📖 できればこれも
 
-- [earth](/word/earth)：地球、地面
-- [land](/word/land)：陸地、土地
+- [earth](/word/earth/)：地球、地面
+- [land](/word/land/)：陸地、土地
 
 <!-- cvid: aid08_bid07 -->

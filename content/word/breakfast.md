@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写や、ホテル・レストランの場面
 ## 🤔  brunch との違いは？
 
 - **breakfast**：1日の最初に食べる「朝食」
-- **[brunch](/word/brunch)**：朝食と昼食を兼ねた遅めの食事
+- **[brunch](/word/brunch/)**：朝食と昼食を兼ねた遅めの食事
 
 breakfastは朝早く食べる食事、brunchは朝食と昼食の間に食べる遅めの食事です。
 
@@ -105,14 +105,14 @@ breakfastは朝早く食べる食事、brunchは朝食と昼食の間に食べ�
 
 ## 🧩 あわせて覚えたい
 
-- [dinner](/word/dinner)：夕食
-- [meal](/word/meal)：食事
+- [dinner](/word/dinner/)：夕食
+- [meal](/word/meal/)：食事
 
 ---
 
 ## 📖 できればこれも
 
-- [lunch](/word/lunch)：昼食
-- [snack](/word/snack)：軽食
+- [lunch](/word/lunch/)：昼食
+- [snack](/word/snack/)：軽食
 
 <!-- cvid: aid02_bid03 -->

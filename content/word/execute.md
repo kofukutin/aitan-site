@@ -97,7 +97,7 @@ TOEICでは主にビジネスやIT関連の文脈で「実行する」という�
 ## 🤔  implement との違いは？
 
 - **execute**：計画や命令などを「実際に行動に移して実行する」ことを強調
-- **[implement](/word/implement)**：計画や方針を「具体的な形にして実現する」ことを強調
+- **[implement](/word/implement/)**：計画や方針を「具体的な形にして実現する」ことを強調
 
 「execute」は命令やプログラムなどをそのまま実行するニュアンスが強く、「implement」は計画を現実化するための準備や手順も含みます。
 
@@ -105,14 +105,14 @@ TOEICでは主にビジネスやIT関連の文脈で「実行する」という�
 
 ## 🧩 あわせて覚えたい
 
-- [perform](/word/perform)：（任務・作業などを）行う
-- [abort](/word/abort)：中止する、途中でやめる
+- [perform](/word/perform/)：（任務・作業などを）行う
+- [abort](/word/abort/)：中止する、途中でやめる
 
 ---
 
 ## 📖 できればこれも
 
-- [operate](/word/operate)：操作する、運営する
-- [accomplish](/word/accomplish)：成し遂げる、達成する
+- [operate](/word/operate/)：操作する、運営する
+- [accomplish](/word/accomplish/)：成し遂げる、達成する
 
 <!-- cvid: aid00_bid39 -->

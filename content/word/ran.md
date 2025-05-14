@@ -97,7 +97,7 @@ TOEICでは「走る」だけでなく「運営する」「担当する」の意
 ## 🤔  managed との違いは？
 
 - **ran**：運営や管理を「実際に動かした」「担当した」ニュアンスが強い
-- **[managed](/word/managed)**：管理や運営を「コントロールした」「うまくまとめた」ニュアンスが強い
+- **[managed](/word/managed/)**：管理や運営を「コントロールした」「うまくまとめた」ニュアンスが強い
 
 ranは「自分が主導して動かした」感じ、managedは「全体をまとめて管理した」感じで使い分けます。
 
@@ -105,14 +105,14 @@ ranは「自分が主導して動かした」感じ、managedは「全体をま�
 
 ## 🧩 あわせて覚えたい
 
-- [operate](/word/operate)：操作する、運営する
-- [lead](/word/lead)：導く、指導する
+- [operate](/word/operate/)：操作する、運営する
+- [lead](/word/lead/)：導く、指導する
 
 ---
 
 ## 📖 できればこれも
 
-- [walked](/word/walked)：歩いた
-- [organized](/word/organized)：整理した、まとめた
+- [walked](/word/walked/)：歩いた
+- [organized](/word/organized/)：整理した、まとめた
 
 <!-- cvid: aid40_bid36 -->

@@ -97,7 +97,7 @@ TOEICでは「be capable of ～」の形で頻出し、能力や適性を問う�
 ## 🤔  able との違いは？
 
 - **capable**：特定のことをする能力や適性があることを強調
-- **[able](/word/able)**：一般的に「～できる」という可能性や実行力を表す
+- **[able](/word/able/)**：一般的に「～できる」という可能性や実行力を表す
 
 capableは「十分な能力や適性がある」ニュアンスが強く、ableは「単に可能である」ことを表します。
 
@@ -105,14 +105,14 @@ capableは「十分な能力や適性がある」ニュアンスが強く、able
 
 ## 🧩 あわせて覚えたい
 
-- [competent](/word/competent)：有能な、適任の
-- [incapable](/word/incapable)：能力がない、できない
+- [competent](/word/competent/)：有能な、適任の
+- [incapable](/word/incapable/)：能力がない、できない
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [qualified](/word/qualified)：資格のある、適任の
+- [efficient](/word/efficient/)：効率的な
+- [qualified](/word/qualified/)：資格のある、適任の
 
 <!-- cvid: aid14_bid47 -->

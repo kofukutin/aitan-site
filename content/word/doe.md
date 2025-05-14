@@ -97,7 +97,7 @@ TOEICでは自然や動物に関する長文や記事で登場することがあ
 ## 🤔  deer との違いは？
 
 - **doe**：雌のシカやウサギなど、特にメスを指す
-- **[deer](/word/deer)**：シカ全般（性別問わず）を指す
+- **[deer](/word/deer/)**：シカ全般（性別問わず）を指す
 
 doeは性別を限定して「雌」を強調するのに対し、deerは性別を問わずシカ全体を指します。
 
@@ -105,14 +105,14 @@ doeは性別を限定して「雌」を強調するのに対し、deerは性別�
 
 ## 🧩 あわせて覚えたい
 
-- [stag](/word/stag)：雄鹿
-- [fawn](/word/fawn)：子鹿
+- [stag](/word/stag/)：雄鹿
+- [fawn](/word/fawn/)：子鹿
 
 ---
 
 ## 📖 できればこれも
 
-- [fox](/word/fox)：キツネ
-- [hare](/word/hare)：ノウサギ
+- [fox](/word/fox/)：キツネ
+- [hare](/word/hare/)：ノウサギ
 
 <!-- cvid: aid38_bid45 -->

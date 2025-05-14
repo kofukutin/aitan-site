@@ -97,7 +97,7 @@ Our new branch will open in the southwest region next year.
 ## 🤔  southeast との違いは？
 
 - **southwest**：南西、南西部
-- **[southeast](/word/southeast)**：南東、南東部
+- **[southeast](/word/southeast/)**：南東、南東部
 
 「southwest」は「南西」、一方「southeast」は「南東」を指し、地図や方角で使い分けます。
 
@@ -105,14 +105,14 @@ Our new branch will open in the southwest region next year.
 
 ## 🧩 あわせて覚えたい
 
-- [northwest](/word/northwest)：北西
-- [south](/word/south)：南
+- [northwest](/word/northwest/)：北西
+- [south](/word/south/)：南
 
 ---
 
 ## 📖 できればこれも
 
-- [northeast](/word/northeast)：北東
-- [direction](/word/direction)：方向
+- [northeast](/word/northeast/)：北東
+- [direction](/word/direction/)：方向
 
 <!-- cvid: aid13_bid45 -->

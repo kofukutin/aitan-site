@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やEメール、報告書などで「予算�
 ## 🤔  estimate との違いは？
 
 - **budget**：実際に使うお金の計画やその金額
-- **[estimate](/word/estimate)**：見積もり、だいたいの金額や数量を予測したもの
+- **[estimate](/word/estimate/)**：見積もり、だいたいの金額や数量を予測したもの
 
 budgetは「決められた予算」、estimateは「予想や見積もり」で、確定度や使う場面が異なります。
 
@@ -105,14 +105,14 @@ budgetは「決められた予算」、estimateは「予想や見積もり」で
 
 ## 🧩 あわせて覚えたい
 
-- [expense](/word/expense)：費用、出費
-- [revenue](/word/revenue)：収入、売上
+- [expense](/word/expense/)：費用、出費
+- [revenue](/word/revenue/)：収入、売上
 
 ---
 
 ## 📖 できればこれも
 
-- [cost](/word/cost)：費用、コスト
-- [plan](/word/plan)：計画
+- [cost](/word/cost/)：費用、コスト
+- [plan](/word/plan/)：計画
 
 <!-- cvid: aid39_bid30 -->

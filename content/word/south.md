@@ -97,7 +97,7 @@ Our new branch is located in the south of the city.
 ## 🤔  southern との違いは？
 
 - **south**：名詞で「南」「南方」や「南部」を指す。
-- **[southern](/word/southern)**：形容詞で「南の」「南部の」という意味。
+- **[southern](/word/southern/)**：形容詞で「南の」「南部の」という意味。
 
 「south」は場所や方角そのものを指し、「southern」はその方角に位置するものを形容します。
 
@@ -105,14 +105,14 @@ Our new branch is located in the south of the city.
 
 ## 🧩 あわせて覚えたい
 
-- [north](/word/north)：北、北方
-- [east](/word/east)：東、東方
+- [north](/word/north/)：北、北方
+- [east](/word/east/)：東、東方
 
 ---
 
 ## 📖 できればこれも
 
-- [west](/word/west)：西、西方
-- [direction](/word/direction)：方向
+- [west](/word/west/)：西、西方
+- [direction](/word/direction/)：方向
 
 <!-- cvid: aid28_bid23 -->

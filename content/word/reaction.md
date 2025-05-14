@@ -97,7 +97,7 @@ TOEICでは、メールや記事、説明文などで「反応」や「応答」
 ## 🤔  response との違いは？
 
 - **reaction**：感情や身体的な「反応」、または化学反応など幅広い意味で使う
-- **[response](/word/response)**：質問や刺激などに対する「返答」「応答」に特化
+- **[response](/word/response/)**：質問や刺激などに対する「返答」「応答」に特化
 
 reactionは感情や体の動き、科学的な現象など幅広い「反応」に使い、responseは主に言葉や行動で返す「応答」に使います。
 
@@ -105,14 +105,14 @@ reactionは感情や体の動き、科学的な現象など幅広い「反応」
 
 ## 🧩 あわせて覚えたい
 
-- [effect](/word/effect)：効果、影響
-- [stimulus](/word/stimulus)：刺激
+- [effect](/word/effect/)：効果、影響
+- [stimulus](/word/stimulus/)：刺激
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process)：過程、プロセス
-- [result](/word/result)：結果
+- [process](/word/process/)：過程、プロセス
+- [result](/word/result/)：結果
 
 <!-- cvid: aid47_bid21 -->

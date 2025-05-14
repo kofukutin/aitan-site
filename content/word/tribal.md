@@ -97,7 +97,7 @@ tribalはTOEICの長文読解や説明文で、文化や観光、地域社会に
 ## 🤔  ethnic との違いは？
 
 - **tribal**：特定の部族や小規模な民族集団に関する
-- **[ethnic](/word/ethnic)**：民族全体や人種的な特徴に関する
+- **[ethnic](/word/ethnic/)**：民族全体や人種的な特徴に関する
 
 tribalは「部族」という小さな集団に焦点を当てるのに対し、ethnicはより広い「民族」や「人種」全体を指すときに使います。
 
@@ -105,14 +105,14 @@ tribalは「部族」という小さな集団に焦点を当てるのに対し�
 
 ## 🧩 あわせて覚えたい
 
-- [indigenous](/word/indigenous)：先住の、土着の
-- [clan](/word/clan)：一族、氏族
+- [indigenous](/word/indigenous/)：先住の、土着の
+- [clan](/word/clan/)：一族、氏族
 
 ---
 
 ## 📖 できればこれも
 
-- [cultural](/word/cultural)：文化の
-- [ancestral](/word/ancestral)：先祖の、祖先伝来の
+- [cultural](/word/cultural/)：文化の
+- [ancestral](/word/ancestral/)：先祖の、祖先伝来の
 
 <!-- cvid: aid48_bid14 -->

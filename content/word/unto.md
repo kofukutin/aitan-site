@@ -93,7 +93,7 @@ TOEICでは非常に稀にしか登場せず、主に古い文書や引用文、
 ## 🤔  until との違いは？
 
 - **unto**：古風・文語的に「～へ」「～に対して」を表す前置詞
-- **[until](/word/until)**：「～まで（ずっと）」という時間的な終点を表す前置詞・接続詞
+- **[until](/word/until/)**：「～まで（ずっと）」という時間的な終点を表す前置詞・接続詞
 
 untoは方向や対象を示すのに使われ、untilは時間の終わりを示す点で使い分けます。
 
@@ -101,14 +101,14 @@ untoは方向や対象を示すのに使われ、untilは時間の終わりを�
 
 ## 🧩 あわせて覚えたい
 
-- [toward](/word/toward)：～の方へ（方向を示す前置詞）
-- [upon](/word/upon)：～の上に、～するとすぐに（フォーマルな前置詞）
+- [toward](/word/toward/)：～の方へ（方向を示す前置詞）
+- [upon](/word/upon/)：～の上に、～するとすぐに（フォーマルな前置詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [within](/word/within)：～以内に、～の中で
-- [throughout](/word/throughout)：～の間ずっと、～の至る所に
+- [within](/word/within/)：～以内に、～の中で
+- [throughout](/word/throughout/)：～の間ずっと、～の至る所に
 
 <!-- cvid: aid45_bid07 -->

@@ -97,7 +97,7 @@ TOEICでは会社や制度の設立、関係の確立などビジネス文脈で
 ## 🤔  found との違いは？
 
 - **establish**：制度・組織・関係などを「設立する」「確立する」全般に使うフォーマルな語
-- **[found](/word/found)**：特に会社や組織を「創設する」「創業する」意味で使い、創始者のニュアンスが強い
+- **[found](/word/found/)**：特に会社や組織を「創設する」「創業する」意味で使い、創始者のニュアンスが強い
 
 establishは幅広く「しっかり作る」イメージ、foundは「最初に立ち上げる」創業者的な意味合いが強いです。
 
@@ -105,14 +105,14 @@ establishは幅広く「しっかり作る」イメージ、foundは「最初に
 
 ## 🧩 あわせて覚えたい
 
-- [launch](/word/launch)：（新事業・製品などを）開始する
-- [abolish](/word/abolish)：廃止する
+- [launch](/word/launch/)：（新事業・製品などを）開始する
+- [abolish](/word/abolish/)：廃止する
 
 ---
 
 ## 📖 できればこれも
 
-- [organize](/word/organize)：組織する、まとめる
-- [maintain](/word/maintain)：維持する
+- [organize](/word/organize/)：組織する、まとめる
+- [maintain](/word/maintain/)：維持する
 
 <!-- cvid: aid35_bid27 -->

@@ -97,7 +97,7 @@ TOEICでは日常会話や職場でのちょっとしたやりとりの中で出
 ## 🤔  sleep との違いは？
 
 - **nap**：短時間のうたた寝や昼寝を指し、日中に少しだけ眠ること。
-- **[sleep](/word/sleep)**：夜間の本格的な睡眠や、長時間の眠り全般を指す。
+- **[sleep](/word/sleep/)**：夜間の本格的な睡眠や、長時間の眠り全般を指す。
 
 napは「ちょっと横になる」感覚で、sleepは「しっかり眠る」イメージです。使い分けに注意しましょう。
 
@@ -105,14 +105,14 @@ napは「ちょっと横になる」感覚で、sleepは「しっかり眠る」
 
 ## 🧩 あわせて覚えたい
 
-- [rest](/word/rest)：休息、休憩
-- [doze](/word/doze)：うとうとする、まどろむ
+- [rest](/word/rest/)：休息、休憩
+- [doze](/word/doze/)：うとうとする、まどろむ
 
 ---
 
 ## 📖 できればこれも
 
-- [break](/word/break)：休憩
-- [relax](/word/relax)：くつろぐ
+- [break](/word/break/)：休憩
+- [relax](/word/relax/)：くつろぐ
 
 <!-- cvid: aid34_bid40 -->

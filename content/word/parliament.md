@@ -96,7 +96,7 @@ TOEICでは、国際ニュースやビジネス文書、公式な案内文など
 ## 🤔  congress との違いは？
 
 - **parliament**：主にイギリスや英連邦諸国の「議会」を指し、上下両院制が一般的です。
-- **[congress](/word/congress)**：主にアメリカの「連邦議会」を指し、上院と下院から成ります。
+- **[congress](/word/congress/)**：主にアメリカの「連邦議会」を指し、上院と下院から成ります。
 
 parliamentはイギリス型の議会制度、congressはアメリカ型の議会制度を指す点が大きな違いです。
 
@@ -104,14 +104,14 @@ parliamentはイギリス型の議会制度、congressはアメリカ型の議�
 
 ## 🧩 あわせて覚えたい
 
-- [assembly](/word/assembly)：集会、議会
-- [legislation](/word/legislation)：法律、立法
+- [assembly](/word/assembly/)：集会、議会
+- [legislation](/word/legislation/)：法律、立法
 
 ---
 
 ## 📖 できればこれも
 
-- [constitution](/word/constitution)：憲法
-- [minister](/word/minister)：大臣
+- [constitution](/word/constitution/)：憲法
+- [minister](/word/minister/)：大臣
 
 <!-- cvid: aid38_bid43 -->

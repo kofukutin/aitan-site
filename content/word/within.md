@@ -93,7 +93,7 @@ TOEICでは「～以内に」「～の範囲で」といった意味で、納期
 ## 🤔  inside との違いは？
 
 - **within**：範囲や期間の「～以内に」「～の内部で」と抽象的にも使える
-- **[inside](/word/inside)**：物理的な「内側」「内部」に限定される
+- **[inside](/word/inside/)**：物理的な「内側」「内部」に限定される
 
 「within」は時間や抽象的な範囲にも使えますが、「inside」は物理的な空間の内側に限定されます。
 
@@ -101,15 +101,15 @@ TOEICでは「～以内に」「～の範囲で」といった意味で、納期
 
 ## 🧩 あわせて覚えたい
 
-- [beyond](/word/beyond)：～を越えて、～の向こうに
-- [throughout](/word/throughout)：～の至る所に、～の間ずっと
+- [beyond](/word/beyond/)：～を越えて、～の向こうに
+- [throughout](/word/throughout/)：～の至る所に、～の間ずっと
 
 ---
 
 ## 📖 できればこれも
 
-- [during](/word/during)：～の間に
-- [among](/word/among)：～の間で、～の中の
+- [during](/word/during/)：～の間に
+- [among](/word/among/)：～の間で、～の中の
 
 
 <!-- cvid: aid23_bid29 -->

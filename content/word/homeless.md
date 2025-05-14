@@ -97,7 +97,7 @@ TOEICでは社会問題やニュース記事の文脈で登場することが多
 ## 🤔  poor との違いは？
 
 - **homeless**：住む家がない状態や人を指す
-- **[poor](/word/poor)**：貧しい、経済的に困窮している
+- **[poor](/word/poor/)**：貧しい、経済的に困窮している
 
 「homeless」は家がないことに特化した表現で、「poor」はお金がない広い意味で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは社会問題やニュース記事の文脈で登場することが多
 
 ## 🧩 あわせて覚えたい
 
-- [unemployed](/word/unemployed)：失業中の
-- [shelter](/word/shelter)：避難所、シェルター
+- [unemployed](/word/unemployed/)：失業中の
+- [shelter](/word/shelter/)：避難所、シェルター
 
 ---
 
 ## 📖 できればこれも
 
-- [hungry](/word/hungry)：空腹の
-- [lonely](/word/lonely)：孤独な
+- [hungry](/word/hungry/)：空腹の
+- [lonely](/word/lonely/)：孤独な
 
 <!-- cvid: aid21_bid36 -->

@@ -93,7 +93,7 @@ TOEICでは、比較や対比を表す表現としてPart 5の文法・語彙問
 ## 🤔  different との違いは？
 
 - **unlike**：前置詞として「～と違って」と2つのものを直接比較する時に使う
-- **[different](/word/different)**：「異なる」という形容詞で、be動詞などと一緒に使う
+- **[different](/word/different/)**：「異なる」という形容詞で、be動詞などと一緒に使う
 
 unlikeは前置詞で名詞の前に置き、differentは形容詞でbe動詞などと組み合わせて使います。
 
@@ -101,14 +101,14 @@ unlikeは前置詞で名詞の前に置き、differentは形容詞でbe動詞な
 
 ## 🧩 あわせて覚えたい
 
-- [similar](/word/similar)：似ている
-- [opposite](/word/opposite)：反対の、正反対の
+- [similar](/word/similar/)：似ている
+- [opposite](/word/opposite/)：反対の、正反対の
 
 ---
 
 ## 📖 できればこれも
 
-- [except](/word/except)：～を除いて
-- [besides](/word/besides)：～に加えて
+- [except](/word/except/)：～を除いて
+- [besides](/word/besides/)：～に加えて
 
 <!-- cvid: aid37_bid01 -->

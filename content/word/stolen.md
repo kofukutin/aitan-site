@@ -97,7 +97,7 @@ TOEICでは、盗難や紛失に関する会話や説明文で「stolen」が使
 ## 🤔  robbed との違いは？
 
 - **stolen**：物が盗まれた状態を表す（物が主語）
-- **[robbed](/word/robbed)**：人や場所が強盗にあった状態を表す（人・場所が主語）
+- **[robbed](/word/robbed/)**：人や場所が強盗にあった状態を表す（人・場所が主語）
 
 「stolen」は盗まれた「物」に使い、「robbed」は被害にあった「人」や「場所」に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、盗難や紛失に関する会話や説明文で「stolen」が使
 
 ## 🧩 あわせて覚えたい
 
-- [lost](/word/lost)：失われた、なくした
-- [missing](/word/missing)：行方不明の、見つからない
+- [lost](/word/lost/)：失われた、なくした
+- [missing](/word/missing/)：行方不明の、見つからない
 
 ---
 
 ## 📖 できればこれも
 
-- [broken](/word/broken)：壊れた
-- [damaged](/word/damaged)：損傷した
+- [broken](/word/broken/)：壊れた
+- [damaged](/word/damaged/)：損傷した
 
 <!-- cvid: aid15_bid05 -->

@@ -97,7 +97,7 @@ TOEICでは主に科学的・ビジネス的な文脈で「有限の」「限り
 ## 🤔  limited との違いは？
 
 - **finite**：物理的・数学的に「無限ではない」「終わりがある」ことを強調
-- **[limited](/word/limited)**：範囲や量が「制限されている」「制約がある」ことを強調
+- **[limited](/word/limited/)**：範囲や量が「制限されている」「制約がある」ことを強調
 
 「finite」は絶対的な終わりや限界がある場合に使い、「limited」は外部要因や規則による制限を強調します。
 
@@ -105,14 +105,14 @@ TOEICでは主に科学的・ビジネス的な文脈で「有限の」「限り
 
 ## 🧩 あわせて覚えたい
 
-- [infinite](/word/infinite)：無限の
-- [restricted](/word/restricted)：制限された
+- [infinite](/word/infinite/)：無限の
+- [restricted](/word/restricted/)：制限された
 
 ---
 
 ## 📖 できればこれも
 
-- [precise](/word/precise)：正確な
-- [definite](/word/definite)：明確な
+- [precise](/word/precise/)：正確な
+- [definite](/word/definite/)：明確な
 
 <!-- cvid: aid05_bid25 -->

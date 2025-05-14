@@ -97,7 +97,7 @@ TOEICではSNSやメール文面などカジュアルなやりとりを扱う問
 ## 🤔  photo との違いは？
 
 - **pic**：カジュアルな「写真」の言い方。SNSや会話でよく使う。
-- **[photo](/word/photo)**：ややフォーマルで一般的な「写真」。
+- **[photo](/word/photo/)**：ややフォーマルで一般的な「写真」。
 
 「pic」は友達同士やネット上で使う軽い表現、「photo」は日常会話からビジネスまで幅広く使えます。
 
@@ -105,14 +105,14 @@ TOEICではSNSやメール文面などカジュアルなやりとりを扱う問
 
 ## 🧩 あわせて覚えたい
 
-- [snapshot](/word/snapshot)：スナップ写真、瞬間写真
-- [image](/word/image)：画像、イメージ
+- [snapshot](/word/snapshot/)：スナップ写真、瞬間写真
+- [image](/word/image/)：画像、イメージ
 
 ---
 
 ## 📖 できればこれも
 
-- [chat](/word/chat)：おしゃべり、チャット
-- [post](/word/post)：投稿する、投稿
+- [chat](/word/chat/)：おしゃべり、チャット
+- [post](/word/post/)：投稿する、投稿
 
 <!-- cvid: aid31_bid14 -->

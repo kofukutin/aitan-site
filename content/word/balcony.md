@@ -96,7 +96,7 @@ TOEICでは主にPart 1の写真描写問題で、建物や部屋の説明とし
 ## 🤔  terrace との違いは？
 
 - **balcony**：建物の上階から突き出した小さな屋外スペース
-- **[terrace](/word/terrace)**：地面や建物の1階部分にある広めの屋外スペース
+- **[terrace](/word/terrace/)**：地面や建物の1階部分にある広めの屋外スペース
 
 balconyは主に上階にあり、手すり付きで小規模なのが特徴。terraceは地面や1階にあり、広くて開放的なスペースを指します。
 
@@ -104,14 +104,14 @@ balconyは主に上階にあり、手すり付きで小規模なのが特徴。t
 
 ## 🧩 あわせて覚えたい
 
-- [veranda](/word/veranda)：建物の側面に沿った屋根付きの縁側
-- [patio](/word/patio)：家の裏庭などにある舗装された屋外スペース
+- [veranda](/word/veranda/)：建物の側面に沿った屋根付きの縁側
+- [patio](/word/patio/)：家の裏庭などにある舗装された屋外スペース
 
 ---
 
 ## 📖 できればこれも
 
-- [window](/word/window)：窓
-- [roof](/word/roof)：屋根
+- [window](/word/window/)：窓
+- [roof](/word/roof/)：屋根
 
 <!-- cvid: aid22_bid47 -->

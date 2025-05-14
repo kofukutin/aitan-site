@@ -96,7 +96,7 @@ TOEICでは科学的な説明やニュース記事、ビジネスレポートの
 ## 🤔  scale との違いは？
 
 - **magnitude**：物理的・抽象的な「大きさ」や「規模」、特に強さや重要度を強調
-- **[scale](/word/scale)**：全体的な「規模」や「範囲」、段階や比率の意味も持つ
+- **[scale](/word/scale/)**：全体的な「規模」や「範囲」、段階や比率の意味も持つ
 
 magnitudeは「大きさ」や「強さ」に焦点を当て、scaleは「範囲」や「段階」を示すときに使い分けます。
 
@@ -104,14 +104,14 @@ magnitudeは「大きさ」や「強さ」に焦点を当て、scaleは「範囲
 
 ## 🧩 あわせて覚えたい
 
-- [intensity](/word/intensity)：強度、激しさ
-- [extent](/word/extent)：範囲、広がり
+- [intensity](/word/intensity/)：強度、激しさ
+- [extent](/word/extent/)：範囲、広がり
 
 ---
 
 ## 📖 できればこれも
 
-- [dimension](/word/dimension)：寸法、側面
-- [quantity](/word/quantity)：量、分量
+- [dimension](/word/dimension/)：寸法、側面
+- [quantity](/word/quantity/)：量、分量
 
 <!-- cvid: aid49_bid39 -->

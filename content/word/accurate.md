@@ -97,7 +97,7 @@ TOEICでは、報告書やデータ、説明文などで「正確な」という
 ## 🤔  precise との違いは？
 
 - **accurate**：誤りがなく、事実や基準に合っていることを強調
-- **[precise](/word/precise)**：細部まで「厳密」であること、曖昧さがないことを強調
+- **[precise](/word/precise/)**：細部まで「厳密」であること、曖昧さがないことを強調
 
 accurateは「正確さ」全般を指し、preciseは「細かい部分まで厳密である」ことに重点があります。
 
@@ -105,14 +105,14 @@ accurateは「正確さ」全般を指し、preciseは「細かい部分まで�
 
 ## 🧩 あわせて覚えたい
 
-- [correct](/word/correct)：正しい、間違いがない
-- [exact](/word/exact)：ぴったり合っている、まさにその通りの
+- [correct](/word/correct/)：正しい、間違いがない
+- [exact](/word/exact/)：ぴったり合っている、まさにその通りの
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/word/reliable)：信頼できる
-- [detailed](/word/detailed)：詳細な
+- [reliable](/word/reliable/)：信頼できる
+- [detailed](/word/detailed/)：詳細な
 
 <!-- cvid: aid17_bid25 -->

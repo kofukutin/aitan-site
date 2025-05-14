@@ -97,7 +97,7 @@ TOEICでは、会話や説明文で「観察した」「気づいた」という
 ## 🤔  noticed との違いは？
 
 - **observed**：注意深く観察したり、記録したりするニュアンスが強い
-- **[noticed](/word/noticed)**：ふと気づく、目に留まるというニュアンスが強い
+- **[noticed](/word/noticed/)**：ふと気づく、目に留まるというニュアンスが強い
 
 observedは意図的・客観的に見る場合に使い、noticedは偶然や自然に気づく場合に使います。
 
@@ -105,14 +105,14 @@ observedは意図的・客観的に見る場合に使い、noticedは偶然や�
 
 ## 🧩 あわせて覚えたい
 
-- [monitor](/word/monitor)：監視する、継続的に見守る
-- [detect](/word/detect)：発見する、検出する
+- [monitor](/word/monitor/)：監視する、継続的に見守る
+- [detect](/word/detect/)：発見する、検出する
 
 ---
 
 ## 📖 できればこれも
 
-- [record](/word/record)：記録する
-- [analyze](/word/analyze)：分析する
+- [record](/word/record/)：記録する
+- [analyze](/word/analyze/)：分析する
 
 <!-- cvid: aid07_bid18 -->

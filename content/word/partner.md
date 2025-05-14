@@ -97,7 +97,7 @@ TOEICではビジネスの会話や協力関係を表す場面でよく登場し
 ## 🤔  colleague との違いは？
 
 - **partner**：一緒に何かを行う相手や共同経営者、協力者を指す。
-- **[colleague](/word/colleague)**：同じ職場や組織で働く「同僚」を指す。
+- **[colleague](/word/colleague/)**：同じ職場や組織で働く「同僚」を指す。
 
 partnerは「協力して何かを成し遂げる相手」、colleagueは「職場の同僚」として使い分けます。
 
@@ -105,14 +105,14 @@ partnerは「協力して何かを成し遂げる相手」、colleagueは「職�
 
 ## 🧩 あわせて覚えたい
 
-- [associate](/word/associate)：仕事上の仲間、同僚
-- [companion](/word/companion)：同行者、仲間
+- [associate](/word/associate/)：仕事上の仲間、同僚
+- [companion](/word/companion/)：同行者、仲間
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client)：顧客、取引先
-- [team](/word/team)：チーム、団体
+- [client](/word/client/)：顧客、取引先
+- [team](/word/team/)：チーム、団体
 
 <!-- cvid: aid01_bid27 -->

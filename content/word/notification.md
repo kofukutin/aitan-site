@@ -97,7 +97,7 @@ TOEICではメールや社内連絡、アプリの説明文などで「notificat
 ## 🤔  announcement との違いは？
 
 - **notification**：個別の出来事や変更を知らせる「通知」「お知らせ」
-- **[announcement](/word/announcement)**：公式な「発表」や「告知」
+- **[announcement](/word/announcement/)**：公式な「発表」や「告知」
 
 notificationは個人や特定の相手に向けた通知、announcementは多くの人に向けた公式な発表という違いがあります。
 
@@ -105,14 +105,14 @@ notificationは個人や特定の相手に向けた通知、announcementは多�
 
 ## 🧩 あわせて覚えたい
 
-- [alert](/word/alert)：警告、注意喚起
-- [reminder](/word/reminder)：リマインダー、思い出させるもの
+- [alert](/word/alert/)：警告、注意喚起
+- [reminder](/word/reminder/)：リマインダー、思い出させるもの
 
 ---
 
 ## 📖 できればこれも
 
-- [message](/word/message)：メッセージ、伝言
-- [update](/word/update)：更新、最新情報
+- [message](/word/message/)：メッセージ、伝言
+- [update](/word/update/)：更新、最新情報
 
 <!-- cvid: aid03_bid49 -->

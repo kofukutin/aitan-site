@@ -97,7 +97,7 @@ TOEICでは、ビジネスや社会的なイベントの文脈で「rally」が�
 ## 🤔  assembly との違いは？
 
 - **rally**：共通の目的や目標のために人々が集まる集会や、落ち込んだ後の回復を指す。
-- **[assembly](/word/assembly)**：公式な会議や定期的な集まりを指し、学校や会社などで使われることが多い。
+- **[assembly](/word/assembly/)**：公式な会議や定期的な集まりを指し、学校や会社などで使われることが多い。
 
 rallyは感情や目的を強調した集まり、assemblyは形式的・公式な集まりに使われます。
 
@@ -105,14 +105,14 @@ rallyは感情や目的を強調した集まり、assemblyは形式的・公式�
 
 ## 🧩 あわせて覚えたい
 
-- [demonstration](/word/demonstration)：デモ、抗議活動
-- [conference](/word/conference)：会議、協議会
+- [demonstration](/word/demonstration/)：デモ、抗議活動
+- [conference](/word/conference/)：会議、協議会
 
 ---
 
 ## 📖 できればこれも
 
-- [campaign](/word/campaign)：運動、キャンペーン
-- [gathering](/word/gathering)：集まり、会合
+- [campaign](/word/campaign/)：運動、キャンペーン
+- [gathering](/word/gathering/)：集まり、会合
 
 <!-- cvid: aid30_bid11 -->

@@ -93,7 +93,7 @@ TOEICではPart 2のリスニングで「だれが～したか」を尋ねる疑
 ## 🤔  whom との違いは？
 
 - **who**：主語として「だれが」と尋ねるときに使う
-- **[whom](/word/whom)**：目的語として「だれを」「だれに」と尋ねるときに使う
+- **[whom](/word/whom/)**：目的語として「だれを」「だれに」と尋ねるときに使う
 
 whoは主語、whomは目的語で使い分けます。会話ではwhoが圧倒的に多く使われます。
 
@@ -101,14 +101,14 @@ whoは主語、whomは目的語で使い分けます。会話ではwhoが圧倒�
 
 ## 🧩 あわせて覚えたい
 
-- [which](/word/which)：どちら、どれ（選択肢から尋ねるとき）
-- [whose](/word/whose)：だれの（所有を尋ねるとき）
+- [which](/word/which/)：どちら、どれ（選択肢から尋ねるとき）
+- [whose](/word/whose/)：だれの（所有を尋ねるとき）
 
 ---
 
 ## 📖 できればこれも
 
-- [what](/word/what)：何
-- [where](/word/where)：どこ
+- [what](/word/what/)：何
+- [where](/word/where/)：どこ
 
 <!-- cvid: aid38_bid42 -->

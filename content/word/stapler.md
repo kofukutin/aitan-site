@@ -97,7 +97,7 @@ TOEICでは主にオフィスの写真描写問題で登場しやすい単語で
 ## 🤔  staple との違いは？
 
 - **stapler**：紙を留めるための道具（ホッチキス）
-- **[staple](/word/staple)**：ホッチキスの針、または針で留める動作
+- **[staple](/word/staple/)**：ホッチキスの針、または針で留める動作
 
 staplerは道具そのもの、stapleはその道具で使う「針」や「留める」という動作を指します。
 
@@ -105,14 +105,14 @@ staplerは道具そのもの、stapleはその道具で使う「針」や「留�
 
 ## 🧩 あわせて覚えたい
 
-- [clip](/word/clip)：クリップ（紙を挟む文房具）
-- [binder](/word/binder)：バインダー（書類をまとめるファイル）
+- [clip](/word/clip/)：クリップ（紙を挟む文房具）
+- [binder](/word/binder/)：バインダー（書類をまとめるファイル）
 
 ---
 
 ## 📖 できればこれも
 
-- [scissors](/word/scissors)：はさみ
-- [envelope](/word/envelope)：封筒
+- [scissors](/word/scissors/)：はさみ
+- [envelope](/word/envelope/)：封筒
 
 <!-- cvid: aid37_bid10 -->

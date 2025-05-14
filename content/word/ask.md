@@ -97,7 +97,7 @@ TOEICでは会話や依頼、質問の場面で頻繁に登場します。基本
 ## 🤔  request との違いは？
 
 - **ask**：カジュアルに「尋ねる」「頼む」ときに使う
-- **[request](/word/request)**：よりフォーマルに「正式に依頼する」ときに使う
+- **[request](/word/request/)**：よりフォーマルに「正式に依頼する」ときに使う
 
 askは日常的なお願いや質問に使い、requestはビジネスや公式な場面で使われることが多いです。
 
@@ -105,14 +105,14 @@ askは日常的なお願いや質問に使い、requestはビジネスや公式�
 
 ## 🧩 あわせて覚えたい
 
-- [inquire](/word/inquire)：問い合わせる（より丁寧・フォーマル）
-- [answer](/word/answer)：答える
+- [inquire](/word/inquire/)：問い合わせる（より丁寧・フォーマル）
+- [answer](/word/answer/)：答える
 
 ---
 
 ## 📖 できればこれも
 
-- [tell](/word/tell)：伝える、話す
-- [say](/word/say)：言う
+- [tell](/word/tell/)：伝える、話す
+- [say](/word/say/)：言う
 
 <!-- cvid: aid47_bid18 -->

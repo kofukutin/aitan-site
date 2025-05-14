@@ -97,7 +97,7 @@ TOEICでは会話や説明文の中で「気づく」「理解する」という
 ## 🤔  noticed との違いは？
 
 - **realized**：頭の中で「理解した」「はっきり認識した」という意味が強い
-- **[noticed](/word/noticed)**：目や耳など感覚で「気づいた」という意味が強い
+- **[noticed](/word/noticed/)**：目や耳など感覚で「気づいた」という意味が強い
 
 realizedは「考えて理解する」ニュアンス、noticedは「見たり聞いたりして気づく」ニュアンスがあります。
 
@@ -105,14 +105,14 @@ realizedは「考えて理解する」ニュアンス、noticedは「見たり�
 
 ## 🧩 あわせて覚えたい
 
-- [understand](/word/understand)：理解する
-- [recognize](/word/recognize)：見分ける、認識する
+- [understand](/word/understand/)：理解する
+- [recognize](/word/recognize/)：見分ける、認識する
 
 ---
 
 ## 📖 できればこれも
 
-- [remember](/word/remember)：覚えている、思い出す
-- [find](/word/find)：見つける、気づく
+- [remember](/word/remember/)：覚えている、思い出す
+- [find](/word/find/)：見つける、気づく
 
 <!-- cvid: aid21_bid39 -->

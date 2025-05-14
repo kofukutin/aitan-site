@@ -97,7 +97,7 @@ ITやビジネスの会話で「切り替え」や「変更」の意味で出題
 ## 🤔  changing との違いは？
 
 - **switching**：特定のものから別のものへ「切り替える」ことに焦点がある
-- **[changing](/word/changing)**：単に「変える」「変更する」全般を指す
+- **[changing](/word/changing/)**：単に「変える」「変更する」全般を指す
 
 switchingは「AからBへ切り替える」など明確な対象間の移動を強調し、changingは内容や状態の変化全般に使われます。
 
@@ -105,14 +105,14 @@ switchingは「AからBへ切り替える」など明確な対象間の移動を
 
 ## 🧩 あわせて覚えたい
 
-- [transition](/word/transition)：移行、変遷
-- [replacement](/word/replacement)：交換、取り替え
+- [transition](/word/transition/)：移行、変遷
+- [replacement](/word/replacement/)：交換、取り替え
 
 ---
 
 ## 📖 できればこれも
 
-- [connection](/word/connection)：接続、つながり
-- [network](/word/network)：ネットワーク、通信網
+- [connection](/word/connection/)：接続、つながり
+- [network](/word/network/)：ネットワーク、通信網
 
 <!-- cvid: aid10_bid32 -->

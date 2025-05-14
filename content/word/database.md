@@ -97,7 +97,7 @@ IT関連やビジネス文書、説明文でよく登場します。特にシス
 ## 🤔  data との違いは？
 
 - **database**：整理・管理された大量のデータの集まりやシステム
-- **[data](/word/data)**：個々の情報や数値そのもの
+- **[data](/word/data/)**：個々の情報や数値そのもの
 
 databaseは「データをまとめて管理する場所や仕組み」、dataは「その中身の情報」を指します。
 
@@ -105,14 +105,14 @@ databaseは「データをまとめて管理する場所や仕組み」、data�
 
 ## 🧩 あわせて覚えたい
 
-- [server](/word/server)：サーバー、データやサービスを提供するコンピュータ
-- [spreadsheet](/word/spreadsheet)：表計算ソフト、データを表形式で管理するツール
+- [server](/word/server/)：サーバー、データやサービスを提供するコンピュータ
+- [spreadsheet](/word/spreadsheet/)：表計算ソフト、データを表形式で管理するツール
 
 ---
 
 ## 📖 できればこれも
 
-- [network](/word/network)：ネットワーク、複数のコンピュータをつなぐ仕組み
-- [system](/word/system)：システム、複数の要素が組み合わさった仕組み
+- [network](/word/network/)：ネットワーク、複数のコンピュータをつなぐ仕組み
+- [system](/word/system/)：システム、複数の要素が組み合わさった仕組み
 
 <!-- cvid: aid16_bid45 -->

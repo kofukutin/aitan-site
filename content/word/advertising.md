@@ -97,7 +97,7 @@ TOEICでは広告文やビジネス関連の長文で頻出します。広告活
 ## 🤔  advertisement との違いは？
 
 - **advertising**：広告活動や広告業界全体を指す（不可算名詞）
-- **[advertisement](/word/advertisement)**：個々の広告（広告物）を指す（可算名詞）
+- **[advertisement](/word/advertisement/)**：個々の広告（広告物）を指す（可算名詞）
 
 advertisingは「広告活動」や「広告業界」といった広い意味、advertisementは「1つ1つの広告物」を指します。
 
@@ -105,14 +105,14 @@ advertisingは「広告活動」や「広告業界」といった広い意味、
 
 ## 🧩 あわせて覚えたい
 
-- [promotion](/word/promotion)：販促活動、販売促進
-- [publicity](/word/publicity)：宣伝、知名度
+- [promotion](/word/promotion/)：販促活動、販売促進
+- [publicity](/word/publicity/)：宣伝、知名度
 
 ---
 
 ## 📖 できればこれも
 
-- [marketing](/word/marketing)：マーケティング、販売戦略
-- [campaign](/word/campaign)：キャンペーン、運動
+- [marketing](/word/marketing/)：マーケティング、販売戦略
+- [campaign](/word/campaign/)：キャンペーン、運動
 
 <!-- cvid: aid11_bid18 -->

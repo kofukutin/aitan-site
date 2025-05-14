@@ -96,7 +96,7 @@ TOEICのPart 7（長文読解）で、複数の人や部署が「それぞれ」
 ## 🤔  individual との違いは？
 
 - **respective**：複数の人や物に対して「それぞれの」「各自の」とまとめて言うときに使う
-- **[individual](/word/individual)**：一人ひとり、または個々のものを強調する
+- **[individual](/word/individual/)**：一人ひとり、または個々のものを強調する
 
 **respective**は「それぞれのA、B、C」とまとめて言うときに使い、**individual**は「個々の」「一人ひとりの」と個別性を強調したいときに使います。
 
@@ -104,14 +104,14 @@ TOEICのPart 7（長文読解）で、複数の人や部署が「それぞれ」
 
 ## 🧩 あわせて覚えたい
 
-- [separate](/word/separate)：別々の、分かれた
-- [collective](/word/collective)：集団の、共同の
+- [separate](/word/separate/)：別々の、分かれた
+- [collective](/word/collective/)：集団の、共同の
 
 ---
 
 ## 📖 できればこれも
 
-- [relevant](/word/relevant)：関連する
-- [specific](/word/specific)：特定の、具体的な
+- [relevant](/word/relevant/)：関連する
+- [specific](/word/specific/)：特定の、具体的な
 
 <!-- cvid: aid14_bid28 -->

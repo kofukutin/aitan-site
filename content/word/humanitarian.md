@@ -98,7 +98,7 @@ TOEICでは、国際的な支援活動や社会貢献に関する記事・メー
 ## 🤔  philanthropic との違いは？
 
 - **humanitarian**：人道的な、苦しむ人を助けることに重点を置く
-- **[philanthropic](/word/philanthropic)**：慈善的な、主に寄付や社会貢献活動に重点を置く
+- **[philanthropic](/word/philanthropic/)**：慈善的な、主に寄付や社会貢献活動に重点を置く
 
 humanitarianは「困っている人を直接助ける行動や考え方」に焦点があり、philanthropicは「お金や資源を使って社会全体のために貢献する」ニュアンスが強いです。
 
@@ -106,13 +106,13 @@ humanitarianは「困っている人を直接助ける行動や考え方」に�
 
 ## 🧩 あわせて覚えたい
 
-- [charitable](/word/charitable)：慈善的な、寛大な
-- [compassionate](/word/compassionate)：思いやりのある、情け深い
+- [charitable](/word/charitable/)：慈善的な、寛大な
+- [compassionate](/word/compassionate/)：思いやりのある、情け深い
 
 ---
 
 ## 📖 できればこれも
 
-- [ethical](/word/ethical)：倫理的な、道徳的な
-- [generous](/word/generous)：気前のよい、寛大な
+- [ethical](/word/ethical/)：倫理的な、道徳的な
+- [generous](/word/generous/)：気前のよい、寛大な
 <!-- cvid: aid26_bid48 -->

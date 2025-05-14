@@ -97,7 +97,7 @@ TOEICでは主に長文読解や観光・イベント紹介などの文脈で、
 ## 🤔  zombie との違いは？
 
 - **vampire**：吸血鬼。知性があり、人間の血を吸う伝説上の存在。
-- **[zombie](/word/zombie)**：ゾンビ。死者が蘇り、意識がなく人を襲う存在。
+- **[zombie](/word/zombie/)**：ゾンビ。死者が蘇り、意識がなく人を襲う存在。
 
 vampireは知的で魅力的なキャラクターとして描かれることが多いのに対し、zombieは意識がなく本能的に動く点が大きな違いです。
 
@@ -105,14 +105,14 @@ vampireは知的で魅力的なキャラクターとして描かれることが�
 
 ## 🧩 あわせて覚えたい
 
-- [ghost](/word/ghost)：幽霊
-- [bat](/word/bat)：コウモリ
+- [ghost](/word/ghost/)：幽霊
+- [bat](/word/bat/)：コウモリ
 
 ---
 
 ## 📖 できればこれも
 
-- [witch](/word/witch)：魔女
-- [monster](/word/monster)：怪物
+- [witch](/word/witch/)：魔女
+- [monster](/word/monster/)：怪物
 
 <!-- cvid: aid45_bid00 -->

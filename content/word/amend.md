@@ -97,7 +97,7 @@ TOEICでは主に契約書や規則、法律関連の文脈で出題されるこ
 ## 🤔  revise との違いは？
 
 - **amend**：主に法律や規則、公式文書などを「より良くするために修正・改正する」ことを指す
-- **[revise](/word/revise)**：内容全体を見直して「修正・改訂する」ことを広く指し、エッセイや計画などにも使う
+- **[revise](/word/revise/)**：内容全体を見直して「修正・改訂する」ことを広く指し、エッセイや計画などにも使う
 
 amendはフォーマルで限定的な修正、reviseは幅広い内容の見直しや修正に使われます。
 
@@ -105,14 +105,14 @@ amendはフォーマルで限定的な修正、reviseは幅広い内容の見直
 
 ## 🧩 あわせて覚えたい
 
-- [modify](/word/modify)：（部分的に）変更する
-- [approve](/word/approve)：承認する
+- [modify](/word/modify/)：（部分的に）変更する
+- [approve](/word/approve/)：承認する
 
 ---
 
 ## 📖 できればこれも
 
-- [enact](/word/enact)：（法律などを）制定する
-- [adjust](/word/adjust)：調整する
+- [enact](/word/enact/)：（法律などを）制定する
+- [adjust](/word/adjust/)：調整する
 
 <!-- cvid: aid26_bid11 -->

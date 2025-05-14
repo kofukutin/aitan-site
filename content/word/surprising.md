@@ -97,7 +97,7 @@ TOEICでは、形容詞の語彙問題や文脈判断でよく出題されます
 ## 🤔  unexpected との違いは？
 
 - **surprising**：予想外で驚きを感じることを強調する。
-- **[unexpected](/word/unexpected)**：単に予想していなかったことを表す。
+- **[unexpected](/word/unexpected/)**：単に予想していなかったことを表す。
 
 「surprising」は「驚き」の感情を含みますが、「unexpected」は感情よりも「予想外だった」事実に重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞の語彙問題や文脈判断でよく出題されます
 
 ## 🧩 あわせて覚えたい
 
-- [amazing](/word/amazing)：とても驚くべき、素晴らしい
-- [predictable](/word/predictable)：予測できる、意外性がない
+- [amazing](/word/amazing/)：とても驚くべき、素晴らしい
+- [predictable](/word/predictable/)：予測できる、意外性がない
 
 ---
 
 ## 📖 できればこれも
 
-- [interesting](/word/interesting)：興味深い
-- [shocking](/word/shocking)：衝撃的な
+- [interesting](/word/interesting/)：興味深い
+- [shocking](/word/shocking/)：衝撃的な
 
 <!-- cvid: aid46_bid06 -->

@@ -97,7 +97,7 @@ We need a wider range of products to compete.
 ## 🤔  broader との違いは？
 
 - **wider**：物理的な幅や範囲が「より広い」ことを表す。
-- **[broader](/word/broader)**：幅だけでなく、内容や視野など「より広範囲・多様」な意味合いが強い。
+- **[broader](/word/broader/)**：幅だけでなく、内容や視野など「より広範囲・多様」な意味合いが強い。
 
 widerは主に物理的な幅や具体的な範囲に使い、broaderは抽象的な意味や多様性を強調する時に使います。
 
@@ -105,14 +105,14 @@ widerは主に物理的な幅や具体的な範囲に使い、broaderは抽象�
 
 ## 🧩 あわせて覚えたい
 
-- [narrow](/word/narrow)：狭い
-- [expand](/word/expand)：拡大する
+- [narrow](/word/narrow/)：狭い
+- [expand](/word/expand/)：拡大する
 
 ---
 
 ## 📖 できればこれも
 
-- [deeper](/word/deeper)：より深い
-- [higher](/word/higher)：より高い
+- [deeper](/word/deeper/)：より深い
+- [higher](/word/higher/)：より高い
 
 <!-- cvid: aid45_bid44 -->

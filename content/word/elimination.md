@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や会議の文脈で「排除」「削減」
 ## 🤔  removal との違いは？
 
 - **elimination**：不要なものや障害を「徹底的に排除・削減」するニュアンス
-- **[removal](/word/removal)**：単に「取り除く」「移動させる」など広い意味
+- **[removal](/word/removal/)**：単に「取り除く」「移動させる」など広い意味
 
 eliminationは「完全に排除する」強い意味合いがあり、removalは「どかす・取り去る」といった一般的な除去を指します。
 
@@ -105,14 +105,14 @@ eliminationは「完全に排除する」強い意味合いがあり、removal�
 
 ## 🧩 あわせて覚えたい
 
-- [exclusion](/word/exclusion)：除外、締め出し
-- [addition](/word/addition)：追加、加えること
+- [exclusion](/word/exclusion/)：除外、締め出し
+- [addition](/word/addition/)：追加、加えること
 
 ---
 
 ## 📖 できればこれも
 
-- [selection](/word/selection)：選択、選ばれたもの
-- [reduction](/word/reduction)：削減、減少
+- [selection](/word/selection/)：選択、選ばれたもの
+- [reduction](/word/reduction/)：削減、減少
 
 <!-- cvid: aid34_bid37 -->

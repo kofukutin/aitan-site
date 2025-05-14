@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、オフィスや工場のシーンで
 ## 🤔  box との違いは？
 
 - **bin**：収納やごみ捨てなど、特定の用途の容器や箱を指すことが多い
-- **[box](/word/box)**：一般的な箱全般を指し、用途は限定されない
+- **[box](/word/box/)**：一般的な箱全般を指し、用途は限定されない
 
 「bin」はごみ箱や収納箱など用途が明確な容器に使われることが多く、「box」は形状や用途を問わず幅広く使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写で、オフィスや工場のシーンで
 
 ## 🧩 あわせて覚えたい
 
-- [container](/word/container)：容器、入れ物
-- [basket](/word/basket)：かご、バスケット
+- [container](/word/container/)：容器、入れ物
+- [basket](/word/basket/)：かご、バスケット
 
 ---
 
 ## 📖 できればこれも
 
-- [shelf](/word/shelf)：棚
-- [drawer](/word/drawer)：引き出し
+- [shelf](/word/shelf/)：棚
+- [drawer](/word/drawer/)：引き出し
 
 <!-- cvid: aid40_bid46 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、鏡や反射を説明する際
 ## 🤔  reflect との違いは？
 
 - **mirror**：物理的な「鏡」や、何かをそのまま映すもの
-- **[reflect](/word/reflect)**：光や像を「反射する」動作や現象
+- **[reflect](/word/reflect/)**：光や像を「反射する」動作や現象
 
 mirrorは「物」としての鏡や、比喩的にそっくり映すものを指し、reflectは「反射する」という動作や現象を表します。
 
@@ -105,14 +105,14 @@ mirrorは「物」としての鏡や、比喩的にそっくり映すものを�
 
 ## 🧩 あわせて覚えたい
 
-- [glass](/word/glass)：ガラス
-- [image](/word/image)：像、イメージ
+- [glass](/word/glass/)：ガラス
+- [image](/word/image/)：像、イメージ
 
 ---
 
 ## 📖 できればこれも
 
-- [window](/word/window)：窓
-- [surface](/word/surface)：表面
+- [window](/word/window/)：窓
+- [surface](/word/surface/)：表面
 
 <!-- cvid: aid17_bid02 -->

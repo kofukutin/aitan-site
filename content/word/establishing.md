@@ -97,7 +97,7 @@ TOEICでは、会社や組織の設立、ルールや関係の確立など、ビ
 ## 🤔  founding との違いは？
 
 - **establishing**：しっかりと基盤を作り、制度や関係を確立すること
-- **[founding](/word/founding)**：主に会社や組織などを「創設する」ことに特化
+- **[founding](/word/founding/)**：主に会社や組織などを「創設する」ことに特化
 
 establishingは幅広く「確立する」意味で使われ、foundingは「創業・創設」といった始まりに特化しています。
 
@@ -105,14 +105,14 @@ establishingは幅広く「確立する」意味で使われ、foundingは「創
 
 ## 🧩 あわせて覚えたい
 
-- [launch](/word/launch)：（新事業などを）開始する
-- [organize](/word/organize)：組織する、まとめる
+- [launch](/word/launch/)：（新事業などを）開始する
+- [organize](/word/organize/)：組織する、まとめる
 
 ---
 
 ## 📖 できればこれも
 
-- [implement](/word/implement)：実行する、導入する
-- [maintain](/word/maintain)：維持する、保つ
+- [implement](/word/implement/)：実行する、導入する
+- [maintain](/word/maintain/)：維持する、保つ
 
 <!-- cvid: aid21_bid47 -->

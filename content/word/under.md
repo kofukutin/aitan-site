@@ -93,7 +93,7 @@ TOEICでは主に写真描写や説明文で、物の位置関係や条件を表
 ## 🤔  below との違いは？
 
 - **under**：物理的・抽象的に「下にある」ことを幅広く表す
-- **[below](/word/below)**：基準線や高さより「下側」にあることを強調
+- **[below](/word/below/)**：基準線や高さより「下側」にあることを強調
 
 underは「真下」や「支配下」など幅広い意味で使われますが、belowは「高さ・レベルが下」というニュアンスが強いです。
 
@@ -101,14 +101,14 @@ underは「真下」や「支配下」など幅広い意味で使われますが
 
 ## 🧩 あわせて覚えたい
 
-- [over](/word/over)：～の上に
-- [beneath](/word/beneath)：～の真下に（ややフォーマル）
+- [over](/word/over/)：～の上に
+- [beneath](/word/beneath/)：～の真下に（ややフォーマル）
 
 ---
 
 ## 📖 できればこれも
 
-- [between](/word/between)：～の間に
-- [beside](/word/beside)：～のそばに
+- [between](/word/between/)：～の間に
+- [beside](/word/beside/)：～のそばに
 
 <!-- cvid: aid45_bid38 -->

@@ -98,7 +98,7 @@ TOEICでは、長文読解や説明文の中で「paraphrase」の意味や使�
 ## 🤔  rephrase との違いは？
 
 - **paraphrase**：元の意味を保ちながら、別の言葉や表現で言い換えること。
-- **[rephrase](/word/rephrase)**：主に表現や言い回しを変えることに重点があり、必ずしも簡単にするとは限らない。
+- **[rephrase](/word/rephrase/)**：主に表現や言い回しを変えることに重点があり、必ずしも簡単にするとは限らない。
 
 「paraphrase」は説明や理解を助けるための言い換え、「rephrase」は単に言い回しを変える場合にも使われます。
 
@@ -106,14 +106,14 @@ TOEICでは、長文読解や説明文の中で「paraphrase」の意味や使�
 
 ## 🧩 あわせて覚えたい
 
-- [summarize](/word/summarize)：要約する
-- [quote](/word/quote)：引用する
+- [summarize](/word/summarize/)：要約する
+- [quote](/word/quote/)：引用する
 
 ---
 
 ## 📖 できればこれも
 
-- [interpret](/word/interpret)：解釈する
-- [clarify](/word/clarify)：明確にする
+- [interpret](/word/interpret/)：解釈する
+- [clarify](/word/clarify/)：明確にする
 
 <!-- cvid: aid07_bid00 -->

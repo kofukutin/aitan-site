@@ -97,7 +97,7 @@ TOEICでは工場やオフィスの設備、IT関連の話題でよく登場し�
 ## 🤔  device との違いは？
 
 - **machine**：動力や仕組みで自動的に作業を行う「機械」
-- **[device](/word/device)**：特定の目的のために設計された「装置」や「器具」
+- **[device](/word/device/)**：特定の目的のために設計された「装置」や「器具」
 
 machineは動く部品や動力を持つ大型の機械を指すことが多く、deviceは小型で電子機器など幅広い装置に使われます。
 
@@ -105,14 +105,14 @@ machineは動く部品や動力を持つ大型の機械を指すことが多く�
 
 ## 🧩 あわせて覚えたい
 
-- [equipment](/word/equipment)：設備、備品
-- [appliance](/word/appliance)：家庭用電化製品
+- [equipment](/word/equipment/)：設備、備品
+- [appliance](/word/appliance/)：家庭用電化製品
 
 ---
 
 ## 📖 できればこれも
 
-- [tool](/word/tool)：道具、工具
-- [system](/word/system)：システム、仕組み
+- [tool](/word/tool/)：道具、工具
+- [system](/word/system/)：システム、仕組み
 
 <!-- cvid: aid42_bid09 -->

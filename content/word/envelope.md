@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や郵送に関する文脈で「envelope」が�
 ## 🤔  package との違いは？
 
 - **envelope**：手紙や書類を入れる薄い紙製の封筒
-- **[package](/word/package)**：箱や厚手の袋など、物品を梱包するための容器
+- **[package](/word/package/)**：箱や厚手の袋など、物品を梱包するための容器
 
 envelopeは主に紙の書類や手紙用、packageは大きな物や商品など幅広い梱包に使われます。
 
@@ -105,14 +105,14 @@ envelopeは主に紙の書類や手紙用、packageは大きな物や商品な�
 
 ## 🧩 あわせて覚えたい
 
-- [letter](/word/letter)：手紙
-- [document](/word/document)：書類
+- [letter](/word/letter/)：手紙
+- [document](/word/document/)：書類
 
 ---
 
 ## 📖 できればこれも
 
-- [stamp](/word/stamp)：切手
-- [mail](/word/mail)：郵便、郵送する
+- [stamp](/word/stamp/)：切手
+- [mail](/word/mail/)：郵便、郵送する
 
 <!-- cvid: aid36_bid36 -->

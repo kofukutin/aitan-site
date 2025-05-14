@@ -97,7 +97,7 @@ TOEICでは「区画」「まとまった時間」「障害物」など複数の
 ## 🤔  obstacle との違いは？
 
 - **block**：物理的・抽象的な「塊」や「障害物」、区画など幅広く使う
-- **[obstacle](/word/obstacle)**：主に「障害物」「困難」の意味で、進行や達成を妨げるもの
+- **[obstacle](/word/obstacle/)**：主に「障害物」「困難」の意味で、進行や達成を妨げるもの
 
 blockは「区画」や「まとまり」など中立的な意味も持ちますが、obstacleは「妨げるもの」という否定的なニュアンスが強いです。
 
@@ -105,14 +105,14 @@ blockは「区画」や「まとまり」など中立的な意味も持ちます
 
 ## 🧩 あわせて覚えたい
 
-- [barrier](/word/barrier)：障壁、バリア
-- [section](/word/section)：区分、部分
+- [barrier](/word/barrier/)：障壁、バリア
+- [section](/word/section/)：区分、部分
 
 ---
 
 ## 📖 できればこれも
 
-- [area](/word/area)：区域、範囲
-- [item](/word/item)：項目、品目
+- [area](/word/area/)：区域、範囲
+- [item](/word/item/)：項目、品目
 
 <!-- cvid: aid21_bid06 -->

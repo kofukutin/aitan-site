@@ -97,7 +97,7 @@ TOEICでは、公式文書やビジネスメール、規則説明などで「gov
 ## 🤔  official との違いは？
 
 - **governmental**：政府に関する、政府の
-- **[official](/word/official)**：公式の、公的な
+- **[official](/word/official/)**：公式の、公的な
 
 「governmental」は「政府そのものや政府機関に関する」ことを指し、「official」は「正式な」「公的な」という広い意味で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、公式文書やビジネスメール、規則説明などで「gov
 
 ## 🧩 あわせて覚えたい
 
-- [public](/word/public)：公共の、一般の
-- [administrative](/word/administrative)：管理の、行政の
+- [public](/word/public/)：公共の、一般の
+- [administrative](/word/administrative/)：管理の、行政の
 
 ---
 
 ## 📖 できればこれも
 
-- [political](/word/political)：政治の、政治に関する
-- [federal](/word/federal)：連邦の、連邦政府の
+- [political](/word/political/)：政治の、政治に関する
+- [federal](/word/federal/)：連邦の、連邦政府の
 
 <!-- cvid: aid00_bid26 -->

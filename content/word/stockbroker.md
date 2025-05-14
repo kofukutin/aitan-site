@@ -97,7 +97,7 @@ TOEICでは金融や投資関連の長文やEメール、案内文などで登�
 ## 🤔  dealer との違いは？
 
 - **stockbroker**：顧客の代理で株式や証券を売買する仲介人
-- **[dealer](/word/dealer)**：自らの名義で金融商品や商品を売買する業者
+- **[dealer](/word/dealer/)**：自らの名義で金融商品や商品を売買する業者
 
 stockbrokerは顧客の注文を市場に取り次ぐ仲介役ですが、dealerは自分の資金で売買を行う点が異なります。
 
@@ -105,14 +105,14 @@ stockbrokerは顧客の注文を市場に取り次ぐ仲介役ですが、dealer
 
 ## 🧩 あわせて覚えたい
 
-- [investor](/word/investor)：投資家
-- [analyst](/word/analyst)：分析者、アナリスト
+- [investor](/word/investor/)：投資家
+- [analyst](/word/analyst/)：分析者、アナリスト
 
 ---
 
 ## 📖 できればこれも
 
-- [shareholder](/word/shareholder)：株主
-- [portfolio](/word/portfolio)：（金融）資産構成、ポートフォリオ
+- [shareholder](/word/shareholder/)：株主
+- [portfolio](/word/portfolio/)：（金融）資産構成、ポートフォリオ
 
 <!-- cvid: aid46_bid18 -->

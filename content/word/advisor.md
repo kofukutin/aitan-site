@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やEメール、案内文などでadvisorが登�
 ## 🤔  consultant との違いは？
 
 - **advisor**：主に継続的に助言や指導を行う人
-- **[consultant](/word/consultant)**：専門的な知識をもとに、特定の課題やプロジェクトに対して助言を行う人
+- **[consultant](/word/consultant/)**：専門的な知識をもとに、特定の課題やプロジェクトに対して助言を行う人
 
 advisorは長期的な関係で助言を続ける場合が多く、consultantは特定の問題解決やプロジェクト単位で関わることが多いです。
 
@@ -105,14 +105,14 @@ advisorは長期的な関係で助言を続ける場合が多く、consultantは
 
 ## 🧩 あわせて覚えたい
 
-- [mentor](/word/mentor)：指導者、助言者
-- [supervisor](/word/supervisor)：監督者、指導者
+- [mentor](/word/mentor/)：指導者、助言者
+- [supervisor](/word/supervisor/)：監督者、指導者
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client)：顧客、依頼人
-- [manager](/word/manager)：管理者、マネージャー
+- [client](/word/client/)：顧客、依頼人
+- [manager](/word/manager/)：管理者、マネージャー
 
 <!-- cvid: aid42_bid05 -->

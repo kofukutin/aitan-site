@@ -97,7 +97,7 @@ She gave her best shot during the presentation.
 ## 🤔  attempt との違いは？
 
 - **shot**：カジュアルに「試しにやってみる」「挑戦」の意味で使う
-- **[attempt](/word/attempt)**：ややフォーマルで「努力して試みる」という意味
+- **[attempt](/word/attempt/)**：ややフォーマルで「努力して試みる」という意味
 
 shotは日常会話で気軽な挑戦や試しに使い、attemptは真剣な努力や公式な場面で使われます。
 
@@ -105,14 +105,14 @@ shotは日常会話で気軽な挑戦や試しに使い、attemptは真剣な努
 
 ## 🧩 あわせて覚えたい
 
-- [try](/word/try)：試す、やってみる
-- [chance](/word/chance)：機会、チャンス
+- [try](/word/try/)：試す、やってみる
+- [chance](/word/chance/)：機会、チャンス
 
 ---
 
 ## 📖 できればこれも
 
-- [goal](/word/goal)：目標、ゴール
-- [risk](/word/risk)：リスク、危険
+- [goal](/word/goal/)：目標、ゴール
+- [risk](/word/risk/)：リスク、危険
 
 <!-- cvid: aid04_bid40 -->

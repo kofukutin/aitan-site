@@ -97,7 +97,7 @@ TOEICでは、会話や説明文で「情報を供給する」「食事を与え
 ## 🤔  supply との違いは？
 
 - **feed**：食べ物や情報などを直接与える・投入するニュアンス
-- **[supply](/word/supply)**：必要なものを供給・提供する、ややフォーマルな印象
+- **[supply](/word/supply/)**：必要なものを供給・提供する、ややフォーマルな印象
 
 feedは「直接的に与える」イメージが強く、supplyは「必要に応じて供給する」場面で使われます。
 
@@ -105,14 +105,14 @@ feedは「直接的に与える」イメージが強く、supplyは「必要に�
 
 ## 🧩 あわせて覚えたい
 
-- [nourish](/word/nourish)：栄養を与える
-- [provide](/word/provide)：提供する
+- [nourish](/word/nourish/)：栄養を与える
+- [provide](/word/provide/)：提供する
 
 ---
 
 ## 📖 できればこれも
 
-- [deliver](/word/deliver)：配達する、届ける
-- [receive](/word/receive)：受け取る
+- [deliver](/word/deliver/)：配達する、届ける
+- [receive](/word/receive/)：受け取る
 
 <!-- cvid: aid45_bid03 -->

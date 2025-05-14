@@ -97,7 +97,7 @@ TOEICでは、展示や説明文、観光案内などで「replica」が登場�
 ## 🤔  imitation との違いは？
 
 - **replica**：オリジナルとほぼ同じように正確に再現された複製品
-- **[imitation](/word/imitation)**：本物に似せて作った模造品（質や忠実度は問わない）
+- **[imitation](/word/imitation/)**：本物に似せて作った模造品（質や忠実度は問わない）
 
 replicaは「忠実な再現」に重点があり、imitationは「似せて作ったもの」全般を指します。
 
@@ -105,14 +105,14 @@ replicaは「忠実な再現」に重点があり、imitationは「似せて作�
 
 ## 🧩 あわせて覚えたい
 
-- [copy](/word/copy)：コピー、写し
-- [original](/word/original)：原物、本物
+- [copy](/word/copy/)：コピー、写し
+- [original](/word/original/)：原物、本物
 
 ---
 
 ## 📖 できればこれも
 
-- [artifact](/word/artifact)：工芸品、人工遺物
-- [exhibit](/word/exhibit)：展示物
+- [artifact](/word/artifact/)：工芸品、人工遺物
+- [exhibit](/word/exhibit/)：展示物
 
 <!-- cvid: aid13_bid22 -->

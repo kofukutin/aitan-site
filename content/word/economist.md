@@ -97,7 +97,7 @@ TOEICでは記事やビジネスレポート、経済ニュースの中で登場
 ## 🤔  analyst との違いは？
 
 - **economist**：経済全般を専門的に分析・研究する人
-- **[analyst](/word/analyst)**：特定分野（経済・金融・データなど）の分析を行う人
+- **[analyst](/word/analyst/)**：特定分野（経済・金融・データなど）の分析を行う人
 
 economistは経済学の専門家で、analystは経済以外の分野も含めて幅広く分析を行う職業です。
 
@@ -105,14 +105,14 @@ economistは経済学の専門家で、analystは経済以外の分野も含め�
 
 ## 🧩 あわせて覚えたい
 
-- [consultant](/word/consultant)：コンサルタント、専門的な助言をする人
-- [accountant](/word/accountant)：会計士、会計業務の専門家
+- [consultant](/word/consultant/)：コンサルタント、専門的な助言をする人
+- [accountant](/word/accountant/)：会計士、会計業務の専門家
 
 ---
 
 ## 📖 できればこれも
 
-- [economy](/word/economy)：経済
-- [finance](/word/finance)：財務、金融
+- [economy](/word/economy/)：経済
+- [finance](/word/finance/)：財務、金融
 
 <!-- cvid: aid42_bid38 -->

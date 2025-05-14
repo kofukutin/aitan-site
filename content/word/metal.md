@@ -97,7 +97,7 @@ TOEICでは、製品説明や素材に関する文脈で「metal」が登場す�
 ## 🤔  steel との違いは？
 
 - **metal**：金属全般を指す一般的な言葉
-- **[steel](/word/steel)**：鉄を主成分とした「鋼（はがね）」という特定の金属
+- **[steel](/word/steel/)**：鉄を主成分とした「鋼（はがね）」という特定の金属
 
 metalは広い意味で使い、steelはその中の一種（鉄を主成分とした合金）を指します。
 
@@ -105,14 +105,14 @@ metalは広い意味で使い、steelはその中の一種（鉄を主成分と�
 
 ## 🧩 あわせて覚えたい
 
-- [alloy](/word/alloy)：合金（金属を2種類以上混ぜたもの）
-- [plastic](/word/plastic)：プラスチック（合成樹脂）
+- [alloy](/word/alloy/)：合金（金属を2種類以上混ぜたもの）
+- [plastic](/word/plastic/)：プラスチック（合成樹脂）
 
 ---
 
 ## 📖 できればこれも
 
-- [material](/word/material)：材料、素材
-- [iron](/word/iron)：鉄（金属の一種）
+- [material](/word/material/)：材料、素材
+- [iron](/word/iron/)：鉄（金属の一種）
 
 <!-- cvid: aid48_bid07 -->

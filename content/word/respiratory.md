@@ -97,7 +97,7 @@ The company developed a new drug for respiratory diseases.
 ## 🤔  pulmonary との違いは？
 
 - **respiratory**：呼吸全体や呼吸に関するものを指す
-- **[pulmonary](/word/pulmonary)**：肺そのものや肺に直接関係するものを指す
+- **[pulmonary](/word/pulmonary/)**：肺そのものや肺に直接関係するものを指す
 
 respiratoryは呼吸全般、pulmonaryは肺に限定して使われる点が異なります。
 
@@ -105,14 +105,14 @@ respiratoryは呼吸全般、pulmonaryは肺に限定して使われる点が異
 
 ## 🧩 あわせて覚えたい
 
-- [digestive](/word/digestive)：消化の、消化に関する
-- [circulatory](/word/circulatory)：循環の、循環器系の
+- [digestive](/word/digestive/)：消化の、消化に関する
+- [circulatory](/word/circulatory/)：循環の、循環器系の
 
 ---
 
 ## 📖 できればこれも
 
-- [infection](/word/infection)：感染、感染症
-- [symptom](/word/symptom)：症状
+- [infection](/word/infection/)：感染、感染症
+- [symptom](/word/symptom/)：症状
 
 <!-- cvid: aid34_bid09 -->

@@ -97,7 +97,7 @@ TOEICでは、ビジネスや金融に関する長文やEメール、案内文�
 ## 🤔  finance との違いは？
 
 - **fund**：特定の目的のために集められた資金や基金
-- **[finance](/word/finance)**：資金全般や財務管理、金融活動そのもの
+- **[finance](/word/finance/)**：資金全般や財務管理、金融活動そのもの
 
 「fund」は目的が明確な資金や基金を指し、「finance」はお金の流れや管理全般を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネスや金融に関する長文やEメール、案内文�
 
 ## 🧩 あわせて覚えたい
 
-- [grant](/word/grant)：助成金、補助金
-- [budget](/word/budget)：予算
+- [grant](/word/grant/)：助成金、補助金
+- [budget](/word/budget/)：予算
 
 ---
 
 ## 📖 できればこれも
 
-- [loan](/word/loan)：ローン、融資
-- [capital](/word/capital)：資本、元手
+- [loan](/word/loan/)：ローン、融資
+- [capital](/word/capital/)：資本、元手
 
 <!-- cvid: aid37_bid14 -->

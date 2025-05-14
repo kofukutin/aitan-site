@@ -97,7 +97,7 @@ TOEICでは教育やしつけに関する会話や説明文でまれに登場し
 ## 🤔  punishment との違いは？
 
 - **spanking**：しつけや罰として「おしりをたたくこと」という具体的な行為
-- **[punishment](/word/punishment)**：罰全般を指し、内容は問わない
+- **[punishment](/word/punishment/)**：罰全般を指し、内容は問わない
 
 spankingは罰の中でも特に「おしりをたたく」ことに限定され、punishmentは広くあらゆる罰を指します。
 
@@ -105,14 +105,14 @@ spankingは罰の中でも特に「おしりをたたく」ことに限定され
 
 ## 🧩 あわせて覚えたい
 
-- [discipline](/word/discipline)：しつけ、規律
-- [reward](/word/reward)：ごほうび、報酬
+- [discipline](/word/discipline/)：しつけ、規律
+- [reward](/word/reward/)：ごほうび、報酬
 
 ---
 
 ## 📖 できればこれも
 
-- [scolding](/word/scolding)：叱ること
-- [praise](/word/praise)：ほめること
+- [scolding](/word/scolding/)：叱ること
+- [praise](/word/praise/)：ほめること
 
 <!-- cvid: aid32_bid47 -->

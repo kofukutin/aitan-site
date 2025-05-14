@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、テーブルの上や手に持
 ## 🤔  cup との違いは？
 
 - **mug**：取っ手があり、容量が大きめのカップ。主に温かい飲み物用。
-- **[cup](/word/cup)**：取っ手付きだが、mugより小さく、紅茶やコーヒー用の一般的なカップ。
+- **[cup](/word/cup/)**：取っ手付きだが、mugより小さく、紅茶やコーヒー用の一般的なカップ。
 
 mugは大きめでカジュアルな印象、cupは小ぶりでフォーマルな場でも使われます。
 
@@ -105,14 +105,14 @@ mugは大きめでカジュアルな印象、cupは小ぶりでフォーマル�
 
 ## 🧩 あわせて覚えたい
 
-- [glass](/word/glass)：ガラス製のコップ
-- [bottle](/word/bottle)：ボトル、瓶
+- [glass](/word/glass/)：ガラス製のコップ
+- [bottle](/word/bottle/)：ボトル、瓶
 
 ---
 
 ## 📖 できればこれも
 
-- [plate](/word/plate)：皿
-- [bowl](/word/bowl)：ボウル、深皿
+- [plate](/word/plate/)：皿
+- [bowl](/word/bowl/)：ボウル、深皿
 
 <!-- cvid: aid49_bid48 -->

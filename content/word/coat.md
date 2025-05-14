@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人物がコートを着ている場
 ## 🤔  jacket との違いは？
 
 - **coat**：丈が長めで、寒さや雨風を防ぐための上着全般
-- **[jacket](/word/jacket)**：丈が短めで、軽めの上着やジャケット
+- **[jacket](/word/jacket/)**：丈が短めで、軽めの上着やジャケット
 
 coatは防寒や防雨のための長めの上着、jacketはより短く軽い上着を指すことが多いです。
 
@@ -105,14 +105,14 @@ coatは防寒や防雨のための長めの上着、jacketはより短く軽い�
 
 ## 🧩 あわせて覚えたい
 
-- [suit](/word/suit)：スーツ、上下揃いの服
-- [sweater](/word/sweater)：セーター、編み物の上着
+- [suit](/word/suit/)：スーツ、上下揃いの服
+- [sweater](/word/sweater/)：セーター、編み物の上着
 
 ---
 
 ## 📖 できればこれも
 
-- [shirt](/word/shirt)：シャツ
-- [pants](/word/pants)：ズボン
+- [shirt](/word/shirt/)：シャツ
+- [pants](/word/pants/)：ズボン
 
 <!-- cvid: aid25_bid05 -->

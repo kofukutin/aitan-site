@@ -97,7 +97,7 @@ quantumはTOEICの科学系や技術系の長文で見かけることがあり�
 ## 🤔  amount との違いは？
 
 - **quantum**：まとまった量、特に科学や技術で使われる最小単位や飛躍的変化を表す
-- **[amount](/word/amount)**：一般的な「量」や「総量」を表し、日常的・ビジネス的な文脈で幅広く使う
+- **[amount](/word/amount/)**：一般的な「量」や「総量」を表し、日常的・ビジネス的な文脈で幅広く使う
 
 quantumは専門的・フォーマルな場面で使われ、amountは日常的な「量」を表すときに使います。
 
@@ -105,14 +105,14 @@ quantumは専門的・フォーマルな場面で使われ、amountは日常的�
 
 ## 🧩 あわせて覚えたい
 
-- [quantity](/word/quantity)：数量、分量
-- [portion](/word/portion)：部分、分け前
+- [quantity](/word/quantity/)：数量、分量
+- [portion](/word/portion/)：部分、分け前
 
 ---
 
 ## 📖 できればこれも
 
-- [theory](/word/theory)：理論
-- [element](/word/element)：要素、元素
+- [theory](/word/theory/)：理論
+- [element](/word/element/)：要素、元素
 
 <!-- cvid: aid19_bid05 -->

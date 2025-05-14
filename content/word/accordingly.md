@@ -93,7 +93,7 @@ accordinglyはTOEICの長文読解パートで、因果関係や手順の説明�
 ## 🤔  therefore との違いは？
 
 - **accordingly**：前述の状況や条件に「応じて」「それに従って」という意味合いが強い
-- **[therefore](/word/therefore)**：理由や原因から「したがって」「それゆえに」と結論を述べる
+- **[therefore](/word/therefore/)**：理由や原因から「したがって」「それゆえに」と結論を述べる
 
 accordinglyは状況への対応や行動の変化を示すときに使い、thereforeは論理的な結論や結果を述べるときに使います。
 
@@ -101,14 +101,14 @@ accordinglyは状況への対応や行動の変化を示すときに使い、the
 
 ## 🧩 あわせて覚えたい
 
-- [consequently](/word/consequently)：その結果として
-- [thus](/word/thus)：このようにして、それゆえに
+- [consequently](/word/consequently/)：その結果として
+- [thus](/word/thus/)：このようにして、それゆえに
 
 ---
 
 ## 📖 できればこれも
 
-- [consequently](/word/consequently)：その結果として
-- [hence](/word/hence)：それゆえに
+- [consequently](/word/consequently/)：その結果として
+- [hence](/word/hence/)：それゆえに
 
 <!-- cvid: aid17_bid03 -->

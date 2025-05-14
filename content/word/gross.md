@@ -97,7 +97,7 @@ The company's gross profit increased by 10% this year.
 ## 🤔  net との違いは？
 
 - **gross**：控除前の総額や全体の量を表す
-- **[net](/word/net)**：控除後の純額や実質的な量を表す
+- **[net](/word/net/)**：控除後の純額や実質的な量を表す
 
 grossは「全体の金額」、netは「必要経費などを差し引いた後の金額」を指します。
 
@@ -105,14 +105,14 @@ grossは「全体の金額」、netは「必要経費などを差し引いた後
 
 ## 🧩 あわせて覚えたい
 
-- [total](/word/total)：合計、総計
-- [deduct](/word/deduct)：差し引く、控除する
+- [total](/word/total/)：合計、総計
+- [deduct](/word/deduct/)：差し引く、控除する
 
 ---
 
 ## 📖 できればこれも
 
-- [revenue](/word/revenue)：収益、売上
-- [profit](/word/profit)：利益
+- [revenue](/word/revenue/)：収益、売上
+- [profit](/word/profit/)：利益
 
 <!-- cvid: aid34_bid04 -->

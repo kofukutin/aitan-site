@@ -93,7 +93,7 @@ TOEICでは会話や説明文で「どうにかして」「理由は不明だが
 ## 🤔  anyway との違いは？
 
 - **somehow**：方法や理由は不明だが「なんとか」「どうにかして」という意味。
-- **[anyway](/word/anyway)**：理由や状況に関係なく「とにかく」「いずれにせよ」という意味。
+- **[anyway](/word/anyway/)**：理由や状況に関係なく「とにかく」「いずれにせよ」という意味。
 
 somehowは「方法は分からないが結果は出た」とき、anywayは「状況に関係なく行動する」ときに使います。
 
@@ -101,14 +101,14 @@ somehowは「方法は分からないが結果は出た」とき、anywayは「�
 
 ## 🧩 あわせて覚えたい
 
-- [nevertheless](/word/nevertheless)：それにもかかわらず
-- [therefore](/word/therefore)：それゆえに
+- [nevertheless](/word/nevertheless/)：それにもかかわらず
+- [therefore](/word/therefore/)：それゆえに
 
 ---
 
 ## 📖 できればこれも
 
-- [perhaps](/word/perhaps)：もしかすると
-- [actually](/word/actually)：実は
+- [perhaps](/word/perhaps/)：もしかすると
+- [actually](/word/actually/)：実は
 
 <!-- cvid: aid14_bid10 -->

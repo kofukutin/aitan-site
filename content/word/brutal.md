@@ -97,7 +97,7 @@ TOEICでは、厳しい状況や容赦ない評価などを説明する文脈で
 ## 🤔  cruel との違いは？
 
 - **brutal**：物理的・精神的に極めて過酷で容赦ない様子を強調する。
-- **[cruel](/word/cruel)**：他人に苦痛を与えることを楽しむ、意図的な残酷さを表す。
+- **[cruel](/word/cruel/)**：他人に苦痛を与えることを楽しむ、意図的な残酷さを表す。
 
 brutalは状況や行動の激しさ・過酷さに重点があり、cruelは「意図的な悪意」を含む点が異なります。
 
@@ -105,14 +105,14 @@ brutalは状況や行動の激しさ・過酷さに重点があり、cruelは「
 
 ## 🧩 あわせて覚えたい
 
-- [harsh](/word/harsh)：厳しい、過酷な
-- [gentle](/word/gentle)：優しい、穏やかな
+- [harsh](/word/harsh/)：厳しい、過酷な
+- [gentle](/word/gentle/)：優しい、穏やかな
 
 ---
 
 ## 📖 できればこれも
 
-- [severe](/word/severe)：深刻な、厳しい
-- [tough](/word/tough)：困難な、たくましい
+- [severe](/word/severe/)：深刻な、厳しい
+- [tough](/word/tough/)：困難な、たくましい
 
 <!-- cvid: aid47_bid00 -->

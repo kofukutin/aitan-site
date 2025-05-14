@@ -97,7 +97,7 @@ TOEICでは統計データやグラフの説明文で見かけることが多い
 ## 🤔  average との違いは？
 
 - **median**：データを小さい順に並べたときの真ん中の値
-- **[average](/word/average)**：データの合計を個数で割った「平均値」
+- **[average](/word/average/)**：データの合計を個数で割った「平均値」
 
 medianは極端な値（外れ値）の影響を受けにくいのが特徴で、averageは全体のバランスを示します。
 
@@ -105,14 +105,14 @@ medianは極端な値（外れ値）の影響を受けにくいのが特徴で�
 
 ## 🧩 あわせて覚えたい
 
-- [mode](/word/mode)：最頻値（最もよく現れる値）
-- [mean](/word/mean)：算術平均（一般的な平均値）
+- [mode](/word/mode/)：最頻値（最もよく現れる値）
+- [mean](/word/mean/)：算術平均（一般的な平均値）
 
 ---
 
 ## 📖 できればこれも
 
-- [percentile](/word/percentile)：パーセンタイル（百分位）
-- [ratio](/word/ratio)：比率
+- [percentile](/word/percentile/)：パーセンタイル（百分位）
+- [ratio](/word/ratio/)：比率
 
 <!-- cvid: aid37_bid41 -->

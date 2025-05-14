@@ -93,7 +93,7 @@ TOEICでは会話や説明の中で「わきに置く」「脇に寄る」とい
 ## 🤔  apart との違いは？
 
 - **aside**：物理的・比喩的に「脇に」「わきへ」よける、または話題を一時的に外すニュアンス
-- **[apart](/word/apart)**：完全に「離れて」「別々に」分離するニュアンス
+- **[apart](/word/apart/)**：完全に「離れて」「別々に」分離するニュアンス
 
 asideは「一時的に脇に置く」感覚、apartは「完全に分ける」感覚で使い分けます。
 
@@ -101,14 +101,14 @@ asideは「一時的に脇に置く」感覚、apartは「完全に分ける」�
 
 ## 🧩 あわせて覚えたい
 
-- [away](/word/away)：離れて
-- [beside](/word/beside)：～のそばに
+- [away](/word/away/)：離れて
+- [beside](/word/beside/)：～のそばに
 
 ---
 
 ## 📖 できればこれも
 
-- [along](/word/along)：～に沿って
-- [across](/word/across)：～を横切って
+- [along](/word/along/)：～に沿って
+- [across](/word/across/)：～を横切って
 
 <!-- cvid: aid11_bid37 -->

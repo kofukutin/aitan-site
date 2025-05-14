@@ -97,7 +97,7 @@ TOEICではビジネスメールや通知文などで「手続きを早める」
 ## 🤔  accelerate との違いは？
 
 - **expedite**：手続きや作業などを「迅速に処理する」「促進する」（フォーマル・ビジネス向き）
-- **[accelerate](/word/accelerate)**：速度や進行を「加速する」「速める」（一般的・技術的な場面も多い）
+- **[accelerate](/word/accelerate/)**：速度や進行を「加速する」「速める」（一般的・技術的な場面も多い）
 
 expediteは「手続きや業務を早める」など事務的・公式な場面で使われ、accelerateは「物理的な速度や進行」を速める場合に幅広く使われます。
 
@@ -105,14 +105,14 @@ expediteは「手続きや業務を早める」など事務的・公式な場面
 
 ## 🧩 あわせて覚えたい
 
-- [delay](/word/delay)：遅らせる、延期する
-- [facilitate](/word/facilitate)：容易にする、促進する
+- [delay](/word/delay/)：遅らせる、延期する
+- [facilitate](/word/facilitate/)：容易にする、促進する
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process)：処理する、過程
-- [submit](/word/submit)：提出する
+- [process](/word/process/)：処理する、過程
+- [submit](/word/submit/)：提出する
 
 <!-- cvid: aid23_bid23 -->

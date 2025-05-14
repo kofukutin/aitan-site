@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、動物や農場のシーンと
 ## 🤔  pony との違いは？
 
 - **horse**：一般的な馬。体が大きく、乗馬や農作業、レースなど幅広く使われる。
-- **[pony](/word/pony)**：小型の馬。体高が低く、子ども向けの乗馬やペットとして使われる。
+- **[pony](/word/pony/)**：小型の馬。体高が低く、子ども向けの乗馬やペットとして使われる。
 
 horseは標準的な馬全般を指し、ponyは特に体が小さい種類の馬を指します。
 
@@ -105,14 +105,14 @@ horseは標準的な馬全般を指し、ponyは特に体が小さい種類の�
 
 ## 🧩 あわせて覚えたい
 
-- [donkey](/word/donkey)：ロバ（馬に似た家畜動物）
-- [stable](/word/stable)：馬小屋
+- [donkey](/word/donkey/)：ロバ（馬に似た家畜動物）
+- [stable](/word/stable/)：馬小屋
 
 ---
 
 ## 📖 できればこれも
 
-- [cow](/word/cow)：牛
-- [sheep](/word/sheep)：羊
+- [cow](/word/cow/)：牛
+- [sheep](/word/sheep/)：羊
 
 <!-- cvid: aid19_bid20 -->

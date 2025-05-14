@@ -97,7 +97,7 @@ TOEICでは職種や役割を問う問題でよく登場します。特にビジ
 ## 🤔  manager との違いは？
 
 - **coordinator**：主に関係者の調整や連携を担当し、全体の流れを整える役割。
-- **[manager](/word/manager)**：組織やチームの運営・管理を担い、意思決定や責任も負う役割。
+- **[manager](/word/manager/)**：組織やチームの運営・管理を担い、意思決定や責任も負う役割。
 
 coordinatorは「調整役」、managerは「管理職・責任者」という違いがあり、coordinatorは指示よりも調整に重点があります。
 
@@ -105,14 +105,14 @@ coordinatorは「調整役」、managerは「管理職・責任者」という�
 
 ## 🧩 あわせて覚えたい
 
-- [organizer](/word/organizer)：主催者、企画者
-- [assistant](/word/assistant)：助手、アシスタント
+- [organizer](/word/organizer/)：主催者、企画者
+- [assistant](/word/assistant/)：助手、アシスタント
 
 ---
 
 ## 📖 できればこれも
 
-- [supervisor](/word/supervisor)：監督者、指導者
-- [director](/word/director)：部長、指導者
+- [supervisor](/word/supervisor/)：監督者、指導者
+- [director](/word/director/)：部長、指導者
 
 <!-- cvid: aid46_bid49 -->

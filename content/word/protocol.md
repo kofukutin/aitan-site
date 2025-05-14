@@ -97,7 +97,7 @@ ITやビジネスの文脈で、手順や規約、通信ルールとして登場
 ## 🤔  procedure との違いは？
 
 - **protocol**：公式な手順や規約、特にITや外交で使われる
-- **[procedure](/word/procedure)**：一般的な手順や方法
+- **[procedure](/word/procedure/)**：一般的な手順や方法
 
 protocolは「公式性」や「厳格なルール」を強調し、procedureは日常的な手順や流れを指します。
 
@@ -105,14 +105,14 @@ protocolは「公式性」や「厳格なルール」を強調し、procedureは
 
 ## 🧩 あわせて覚えたい
 
-- [guideline](/word/guideline)：指針、ガイドライン
-- [standard](/word/standard)：基準、標準
+- [guideline](/word/guideline/)：指針、ガイドライン
+- [standard](/word/standard/)：基準、標準
 
 ---
 
 ## 📖 できればこれも
 
-- [manual](/word/manual)：手引き、マニュアル
-- [policy](/word/policy)：方針、ポリシー
+- [manual](/word/manual/)：手引き、マニュアル
+- [policy](/word/policy/)：方針、ポリシー
 
 <!-- cvid: aid18_bid41 -->

@@ -97,7 +97,7 @@ TOEICのPart 7（長文読解）で、人物や会社の「印象」について
 ## 🤔  impact との違いは？
 
 - **impression**：人や物事に対して受ける「印象」や「感想」
-- **[impact](/word/impact)**：出来事や行動が与える「影響」や「衝撃」
+- **[impact](/word/impact/)**：出来事や行動が与える「影響」や「衝撃」
 
 impressionは主観的な「感じ方」、impactは客観的な「影響の大きさ」を表します。
 
@@ -105,14 +105,14 @@ impressionは主観的な「感じ方」、impactは客観的な「影響の大�
 
 ## 🧩 あわせて覚えたい
 
-- [opinion](/word/opinion)：意見
-- [perception](/word/perception)：認識、知覚
+- [opinion](/word/opinion/)：意見
+- [perception](/word/perception/)：認識、知覚
 
 ---
 
 ## 📖 できればこれも
 
-- [influence](/word/influence)：影響
-- [effect](/word/effect)：効果、影響
+- [influence](/word/influence/)：影響
+- [effect](/word/effect/)：効果、影響
 
 <!-- cvid: aid01_bid47 -->

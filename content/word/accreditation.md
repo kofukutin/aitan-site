@@ -97,7 +97,7 @@ TOEICでは主にPart 7のビジネス文書や教育・医療関連の長文で
 ## 🤔  certification との違いは？
 
 - **accreditation**：組織やプログラム全体が基準を満たしていると公式に認められること
-- **[certification](/word/certification)**：個人や製品などが特定の基準や資格を満たしていると証明されること
+- **[certification](/word/certification/)**：個人や製品などが特定の基準や資格を満たしていると証明されること
 
 accreditationは団体や制度全体の「認定」、certificationは個人や物の「資格・証明」に使い分けます。
 
@@ -105,14 +105,14 @@ accreditationは団体や制度全体の「認定」、certificationは個人や
 
 ## 🧩 あわせて覚えたい
 
-- [authorization](/word/authorization)：許可、認可
-- [approval](/word/approval)：承認、許可
+- [authorization](/word/authorization/)：許可、認可
+- [approval](/word/approval/)：承認、許可
 
 ---
 
 ## 📖 できればこれも
 
-- [credential](/word/credential)：資格、証明書
-- [endorsement](/word/endorsement)：（公式な）承認、支持
+- [credential](/word/credential/)：資格、証明書
+- [endorsement](/word/endorsement/)：（公式な）承認、支持
 
 <!-- cvid: aid43_bid08 -->

@@ -97,7 +97,7 @@ TOEICでは、伝統的な方法や考え方を説明する文脈でよく出題
 ## 🤔  conventional との違いは？
 
 - **traditional**：長い歴史や文化に根ざした「伝統的な」ものを指す
-- **[conventional](/word/conventional)**：一般的・慣習的で「型にはまった」ものを指す
+- **[conventional](/word/conventional/)**：一般的・慣習的で「型にはまった」ものを指す
 
 traditionalは歴史や文化の重みを感じさせる表現、conventionalは「普通」「一般的」といったニュアンスで使い分けます。
 
@@ -105,14 +105,14 @@ traditionalは歴史や文化の重みを感じさせる表現、conventionalは
 
 ## 🧩 あわせて覚えたい
 
-- [modern](/word/modern)：現代的な、新しい
-- [custom](/word/custom)：習慣、慣習
+- [modern](/word/modern/)：現代的な、新しい
+- [custom](/word/custom/)：習慣、慣習
 
 ---
 
 ## 📖 できればこれも
 
-- [typical](/word/typical)：典型的な
-- [classic](/word/classic)：古典的な、代表的な
+- [typical](/word/typical/)：典型的な
+- [classic](/word/classic/)：古典的な、代表的な
 
 <!-- cvid: aid09_bid01 -->

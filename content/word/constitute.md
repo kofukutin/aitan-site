@@ -97,7 +97,7 @@ TOEICでは、フォーマルな文脈やビジネス文書で「構成する」
 ## 🤔  compose との違いは？
 
 - **constitute**：個々の要素が集まって全体を「構成する」「成す」ことを強調
-- **[compose](/word/compose)**：要素を組み合わせて「作り上げる」「構成する」ことを強調
+- **[compose](/word/compose/)**：要素を組み合わせて「作り上げる」「構成する」ことを強調
 
 constituteは「全体を成す要素」としての役割を強調し、composeは「要素を組み合わせて作る」行為自体に焦点があります。
 
@@ -105,14 +105,14 @@ constituteは「全体を成す要素」としての役割を強調し、compose
 
 ## 🧩 あわせて覚えたい
 
-- [establish](/word/establish)：設立する、確立する
-- [form](/word/form)：形作る、組織する
+- [establish](/word/establish/)：設立する、確立する
+- [form](/word/form/)：形作る、組織する
 
 ---
 
 ## 📖 できればこれも
 
-- [define](/word/define)：定義する
-- [represent](/word/represent)：代表する、表す
+- [define](/word/define/)：定義する
+- [represent](/word/represent/)：代表する、表す
 
 <!-- cvid: aid44_bid32 -->

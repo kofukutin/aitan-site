@@ -97,7 +97,7 @@ sharedはTOEICの会話パートで「共有スペース」「共用設備」な
 ## 🤔  common との違いは？
 
 - **shared**：複数人で一緒に使う・持つことを強調
-- **[common](/word/common)**：広く一般的である、または複数人に共通していることを強調
+- **[common](/word/common/)**：広く一般的である、または複数人に共通していることを強調
 
 sharedは「共用」「共有」の具体的な物や空間に使い、commonは「共通点」や「一般的な特徴」に使います。
 
@@ -105,14 +105,14 @@ sharedは「共用」「共有」の具体的な物や空間に使い、common�
 
 ## 🧩 あわせて覚えたい
 
-- [joint](/word/joint)：共同の、連携した
-- [individual](/word/individual)：個別の、個人の
+- [joint](/word/joint/)：共同の、連携した
+- [individual](/word/individual/)：個別の、個人の
 
 ---
 
 ## 📖 できればこれも
 
-- [public](/word/public)：公共の
-- [private](/word/private)：個人の、私的な
+- [public](/word/public/)：公共の
+- [private](/word/private/)：個人の、私的な
 
 <!-- cvid: aid42_bid00 -->

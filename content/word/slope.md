@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、地形や建物の説明として「slo
 ## 🤔  incline との違いは？
 
 - **slope**：自然や人工の「坂」「斜面」など、物理的な傾き全般を指す。
-- **[incline](/word/incline)**：ややフォーマルで、傾斜そのものや傾ける動作を指すことが多い。
+- **[incline](/word/incline/)**：ややフォーマルで、傾斜そのものや傾ける動作を指すことが多い。
 
 slopeは日常的な坂や斜面に使い、inclineは技術的・抽象的な「傾き」にも使われます。
 
@@ -105,14 +105,14 @@ slopeは日常的な坂や斜面に使い、inclineは技術的・抽象的な�
 
 ## 🧩 あわせて覚えたい
 
-- [hill](/word/hill)：丘、小高い山
-- [gradient](/word/gradient)：勾配、傾斜度
+- [hill](/word/hill/)：丘、小高い山
+- [gradient](/word/gradient/)：勾配、傾斜度
 
 ---
 
 ## 📖 できればこれも
 
-- [curve](/word/curve)：曲線、カーブ
-- [surface](/word/surface)：表面
+- [curve](/word/curve/)：曲線、カーブ
+- [surface](/word/surface/)：表面
 
 <!-- cvid: aid42_bid11 -->

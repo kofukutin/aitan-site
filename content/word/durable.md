@@ -97,7 +97,7 @@ TOEICでは、製品説明や品質に関する文脈で「durable」がよく�
 ## 🤔  sturdy との違いは？
 
 - **durable**：長期間使っても壊れにくい、耐久性が高い
-- **[sturdy](/word/sturdy)**：頑丈で壊れにくい、しっかりした
+- **[sturdy](/word/sturdy/)**：頑丈で壊れにくい、しっかりした
 
 「durable」は「長持ちすること」に重点があり、「sturdy」は「物理的に頑丈で壊れにくいこと」に重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは、製品説明や品質に関する文脈で「durable」がよく�
 
 ## 🧩 あわせて覚えたい
 
-- [fragile](/word/fragile)：壊れやすい
-- [reliable](/word/reliable)：信頼できる
+- [fragile](/word/fragile/)：壊れやすい
+- [reliable](/word/reliable/)：信頼できる
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [flexible](/word/flexible)：柔軟な
+- [efficient](/word/efficient/)：効率的な
+- [flexible](/word/flexible/)：柔軟な
 
 <!-- cvid: aid10_bid47 -->

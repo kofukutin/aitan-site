@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文やEメール文中で、教育現場や研修�
 ## 🤔  instructor との違いは？
 
 - **teacher**：主に学校や塾などで生徒に幅広い知識や技能を教える人
-- **[instructor](/word/instructor)**：特定の技能や実技を指導する人
+- **[instructor](/word/instructor/)**：特定の技能や実技を指導する人
 
 teacherは一般的な「先生」で、instructorはスポーツや運転など専門的な指導者に使われることが多いです。
 
@@ -105,14 +105,14 @@ teacherは一般的な「先生」で、instructorはスポーツや運転など
 
 ## 🧩 あわせて覚えたい
 
-- [student](/word/student)：生徒、学生
-- [professor](/word/professor)：大学教授
+- [student](/word/student/)：生徒、学生
+- [professor](/word/professor/)：大学教授
 
 ---
 
 ## 📖 できればこれも
 
-- [lesson](/word/lesson)：授業、レッスン
-- [classroom](/word/classroom)：教室
+- [lesson](/word/lesson/)：授業、レッスン
+- [classroom](/word/classroom/)：教室
 
 <!-- cvid: aid21_bid05 -->

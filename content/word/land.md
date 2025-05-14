@@ -97,7 +97,7 @@ TOEICでは空港や旅行、ビジネスシーンの会話で「着陸する」
 ## 🤔  arrive との違いは？
 
 - **land**：主に飛行機や船が「着陸する」「到着する」ときに使う
-- **[arrive](/word/arrive)**：人や物が「到着する」一般的な表現
+- **[arrive](/word/arrive/)**：人や物が「到着する」一般的な表現
 
 landは乗り物が目的地に到着する動作に特化し、arriveは人や物すべての到着に幅広く使えます。
 
@@ -105,14 +105,14 @@ landは乗り物が目的地に到着する動作に特化し、arriveは人や�
 
 ## 🧩 あわせて覚えたい
 
-- [depart](/word/depart)：出発する
-- [touch_down](/word/touch_down)：着地する（特に飛行機で）
+- [depart](/word/depart/)：出発する
+- [touch_down](/word/touch_down/)：着地する（特に飛行機で）
 
 ---
 
 ## 📖 できればこれも
 
-- [board](/word/board)：乗り込む
-- [leave](/word/leave)：出発する
+- [board](/word/board/)：乗り込む
+- [leave](/word/leave/)：出発する
 
 <!-- cvid: aid04_bid31 -->

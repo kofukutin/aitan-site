@@ -97,7 +97,7 @@ TOEICでは主に動物園やペットショップの写真描写で「cage」�
 ## 🤔  enclosure との違いは？
 
 - **cage**：金属や木の枠でできた「おり」や「かご」。主に動物や鳥を閉じ込める小さめの囲い。
-- **[enclosure](/word/enclosure)**：広い範囲を囲った「囲い」や「柵」。動物園の大型動物用スペースなど。
+- **[enclosure](/word/enclosure/)**：広い範囲を囲った「囲い」や「柵」。動物園の大型動物用スペースなど。
 
 cageは小型動物や鳥などを閉じ込める「おり」、enclosureはより広いスペースを囲った「囲い」を指します。
 
@@ -105,14 +105,14 @@ cageは小型動物や鳥などを閉じ込める「おり」、enclosureはよ�
 
 ## 🧩 あわせて覚えたい
 
-- [pen](/word/pen)：家畜などを囲う「囲い」
-- [prison](/word/prison)：人を閉じ込める「刑務所」
+- [pen](/word/pen/)：家畜などを囲う「囲い」
+- [prison](/word/prison/)：人を閉じ込める「刑務所」
 
 ---
 
 ## 📖 できればこれも
 
-- [zoo](/word/zoo)：動物園
-- [animal](/word/animal)：動物
+- [zoo](/word/zoo/)：動物園
+- [animal](/word/animal/)：動物
 
 <!-- cvid: aid24_bid14 -->

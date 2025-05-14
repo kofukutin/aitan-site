@@ -97,7 +97,7 @@ TOEICでは、選択肢の形容詞問題や、文脈から「意義深い」「
 ## 🤔  significant との違いは？
 
 - **meaningful**：主観的に「意味がある」「やりがいがある」と感じるときに使う
-- **[significant](/word/significant)**：客観的に「重要」「大きな影響がある」と評価されるときに使う
+- **[significant](/word/significant/)**：客観的に「重要」「大きな影響がある」と評価されるときに使う
 
 「meaningful」は個人の感情や価値観に基づく意義、「significant」は事実やデータに基づく重要性を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、選択肢の形容詞問題や、文脈から「意義深い」「
 
 ## 🧩 あわせて覚えたい
 
-- [worthwhile](/word/worthwhile)：やりがいのある、価値のある
-- [purposeful](/word/purposeful)：目的のある、意図的な
+- [worthwhile](/word/worthwhile/)：やりがいのある、価値のある
+- [purposeful](/word/purposeful/)：目的のある、意図的な
 
 ---
 
 ## 📖 できればこれも
 
-- [effective](/word/effective)：効果的な
-- [relevant](/word/relevant)：関連のある
+- [effective](/word/effective/)：効果的な
+- [relevant](/word/relevant/)：関連のある
 
 <!-- cvid: aid17_bid09 -->

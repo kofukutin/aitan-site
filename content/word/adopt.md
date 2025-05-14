@@ -97,7 +97,7 @@ TOEICでは「新しい方針や方法を採用する」という意味で、文
 ## 🤔  adapt との違いは？
 
 - **adopt**：新しいものを「採用する」「取り入れる」ことや、子どもを「養子にする」こと。
-- **[adapt](/word/adapt)**：状況や環境に「適応させる」「順応する」こと。
+- **[adapt](/word/adapt/)**：状況や環境に「適応させる」「順応する」こと。
 
 「adopt」は新しいものを自分のものとして受け入れる場合に使い、「adapt」は変化に合わせて調整する場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは「新しい方針や方法を採用する」という意味で、文
 
 ## 🧩 あわせて覚えたい
 
-- [approve](/word/approve)：承認する
-- [accept](/word/accept)：受け入れる
+- [approve](/word/approve/)：承認する
+- [accept](/word/accept/)：受け入れる
 
 ---
 
 ## 📖 できればこれも
 
-- [implement](/word/implement)：実行する、導入する
-- [select](/word/select)：選ぶ
+- [implement](/word/implement/)：実行する、導入する
+- [select](/word/select/)：選ぶ
 
 <!-- cvid: aid39_bid46 -->

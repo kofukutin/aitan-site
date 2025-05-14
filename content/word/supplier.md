@@ -97,7 +97,7 @@ TOEICではビジネス文脈で頻出し、契約や納品、発注に関する
 ## 🤔  vendor との違いは？
 
 - **supplier**：商品やサービスを供給する業者全般を指し、製造元や卸売業者も含む。
-- **[vendor](/word/vendor)**：特に販売者や小売業者を指し、売ることに重点がある。
+- **[vendor](/word/vendor/)**：特に販売者や小売業者を指し、売ることに重点がある。
 
 「supplier」は供給の役割、「vendor」は販売の役割に焦点があるため、ビジネス文脈で使い分けが必要です。
 
@@ -105,14 +105,14 @@ TOEICではビジネス文脈で頻出し、契約や納品、発注に関する
 
 ## 🧩 あわせて覚えたい
 
-- [distributor](/word/distributor)：流通業者、卸売業者
-- [manufacturer](/word/manufacturer)：製造業者、メーカー
+- [distributor](/word/distributor/)：流通業者、卸売業者
+- [manufacturer](/word/manufacturer/)：製造業者、メーカー
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client)：顧客、取引先
-- [customer](/word/customer)：顧客、購入者
+- [client](/word/client/)：顧客、取引先
+- [customer](/word/customer/)：顧客、購入者
 
 <!-- cvid: aid27_bid04 -->

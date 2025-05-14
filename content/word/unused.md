@@ -97,7 +97,7 @@ TOEICでは、形容詞として「未使用の」「使われていない」と
 ## 🤔  untouched との違いは？
 
 - **unused**：使われていない、未使用の
-- **[untouched](/word/untouched)**：手つかずの、全く触れられていない
+- **[untouched](/word/untouched/)**：手つかずの、全く触れられていない
 
 「unused」は「使われていない」ことに重点があり、物や資源が利用されていない状態を指します。「untouched」は「全く手を加えられていない」「そのままの状態」というニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞として「未使用の」「使われていない」と
 
 ## 🧩 あわせて覚えたい
 
-- [used](/word/used)：使われた、使用済みの
-- [vacant](/word/vacant)：空いている、空席の
+- [used](/word/used/)：使われた、使用済みの
+- [vacant](/word/vacant/)：空いている、空席の
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/word/available)：利用できる、手に入る
-- [empty](/word/empty)：空の、中身がない
+- [available](/word/available/)：利用できる、手に入る
+- [empty](/word/empty/)：空の、中身がない
 
 <!-- cvid: aid27_bid11 -->

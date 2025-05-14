@@ -97,7 +97,7 @@ TOEICでは「成功」「成果」といった意味で、ビジネス文書や
 ## 🤔  achievement との違いは？
 
 - **success**：目標を達成して得られる「成功」や「良い結果」全般を指す。
-- **[achievement](/word/achievement)**：努力や時間をかけて成し遂げた「達成」「業績」を強調する。
+- **[achievement](/word/achievement/)**：努力や時間をかけて成し遂げた「達成」「業績」を強調する。
 
 successは結果や状態に重点があり、achievementは努力や過程を経て得た成果に焦点を当てます。
 
@@ -105,14 +105,14 @@ successは結果や状態に重点があり、achievementは努力や過程を�
 
 ## 🧩 あわせて覚えたい
 
-- [failure](/word/failure)：失敗
-- [progress](/word/progress)：進歩
+- [failure](/word/failure/)：失敗
+- [progress](/word/progress/)：進歩
 
 ---
 
 ## 📖 できればこれも
 
-- [goal](/word/goal)：目標
-- [result](/word/result)：結果
+- [goal](/word/goal/)：目標
+- [result](/word/result/)：結果
 
 <!-- cvid: aid20_bid48 -->

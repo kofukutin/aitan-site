@@ -93,7 +93,7 @@ TOEICでは会話や説明文で「すべて」「全部」とまとめて指す
 ## 🤔  anything との違いは？
 
 - **everything**：すべてのもの、何もかも
-- **[anything](/word/anything)**：どれか一つでも、何でも
+- **[anything](/word/anything/)**：どれか一つでも、何でも
 
 everythingは「全体」を指し、anythingは「どれでもよい」「何か一つでも」という意味で、選択肢や可能性を表すときに使います。
 
@@ -101,14 +101,14 @@ everythingは「全体」を指し、anythingは「どれでもよい」「何�
 
 ## 🧩 あわせて覚えたい
 
-- [nothing](/word/nothing)：何も～ない
-- [something](/word/something)：何か、あるもの
+- [nothing](/word/nothing/)：何も～ない
+- [something](/word/something/)：何か、あるもの
 
 ---
 
 ## 📖 できればこれも
 
-- [everyone](/word/everyone)：みんな、全員
-- [everywhere](/word/everywhere)：どこでも、至る所
+- [everyone](/word/everyone/)：みんな、全員
+- [everywhere](/word/everywhere/)：どこでも、至る所
 
 <!-- cvid: aid06_bid47 -->

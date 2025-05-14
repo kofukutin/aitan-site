@@ -97,7 +97,7 @@ TOEICでは主にビジネスや金融関連の長文で登場し、会社や政
 ## 🤔  finance との違いは？
 
 - **treasury**：国や組織の資金管理部門や国庫そのものを指す
-- **[finance](/word/finance)**：資金、財政、金融全般を指す
+- **[finance](/word/finance/)**：資金、財政、金融全般を指す
 
 treasuryは「管理部門」や「国庫」といった具体的な組織や場所を指すことが多く、financeは「お金の流れ」や「金融活動」全般を表します。
 
@@ -105,14 +105,14 @@ treasuryは「管理部門」や「国庫」といった具体的な組織や場
 
 ## 🧩 あわせて覚えたい
 
-- [budget](/word/budget)：予算
-- [fund](/word/fund)：資金
+- [budget](/word/budget/)：予算
+- [fund](/word/fund/)：資金
 
 ---
 
 ## 📖 できればこれも
 
-- [asset](/word/asset)：資産
-- [revenue](/word/revenue)：収益
+- [asset](/word/asset/)：資産
+- [revenue](/word/revenue/)：収益
 
 <!-- cvid: aid09_bid00 -->

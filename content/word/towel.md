@@ -97,7 +97,7 @@ towelはTOEICのPart 1で、ホテルやジム、バスルームの写真描写�
 ## 🤔  napkin との違いは？
 
 - **towel**：水分を拭き取るための大きめの布。主にバスルームやスポーツ、ビーチなどで使う。
-- **[napkin](/word/napkin)**：食事中に口や手を拭くための小さな布や紙。
+- **[napkin](/word/napkin/)**：食事中に口や手を拭くための小さな布や紙。
 
 towelは体や手などを拭くために使い、napkinは食事の際に使う点が大きな違いです。
 
@@ -105,14 +105,14 @@ towelは体や手などを拭くために使い、napkinは食事の際に使う
 
 ## 🧩 あわせて覚えたい
 
-- [blanket](/word/blanket)：毛布
-- [sheet](/word/sheet)：シーツ
+- [blanket](/word/blanket/)：毛布
+- [sheet](/word/sheet/)：シーツ
 
 ---
 
 ## 📖 できればこれも
 
-- [pillow](/word/pillow)：枕
-- [soap](/word/soap)：石けん
+- [pillow](/word/pillow/)：枕
+- [soap](/word/soap/)：石けん
 
 <!-- cvid: aid27_bid25 -->

@@ -97,7 +97,7 @@ TOEICでは、記事や案内文、社内報などの文脈で「periodical」�
 ## 🤔  magazine との違いは？
 
 - **periodical**：定期的に発行される刊行物全般（学術誌や業界誌なども含む）
-- **[magazine](/word/magazine)**：主に一般向けの雑誌
+- **[magazine](/word/magazine/)**：主に一般向けの雑誌
 
 「periodical」は学術誌や業界誌なども含む広い意味ですが、「magazine」は一般向けの雑誌を指すことが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、記事や案内文、社内報などの文脈で「periodical」�
 
 ## 🧩 あわせて覚えたい
 
-- [journal](/word/journal)：学術誌、専門誌
-- [newsletter](/word/newsletter)：会報、ニュースレター
+- [journal](/word/journal/)：学術誌、専門誌
+- [newsletter](/word/newsletter/)：会報、ニュースレター
 
 ---
 
 ## 📖 できればこれも
 
-- [publication](/word/publication)：出版物、刊行物
-- [article](/word/article)：記事、論文
+- [publication](/word/publication/)：出版物、刊行物
+- [article](/word/article/)：記事、論文
 
 <!-- cvid: aid36_bid33 -->

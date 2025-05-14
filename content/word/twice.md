@@ -93,7 +93,7 @@ twiceはTOEICの会話パートで、回数や頻度を尋ねたり説明した�
 ## 🤔  double との違いは？
 
 - **twice**：回数や頻度が「2回」「2度」であることを表す。
-- **[double](/word/double)**：数量や大きさが「2倍」であることを表す。
+- **[double](/word/double/)**：数量や大きさが「2倍」であることを表す。
 
 twiceは「何回？」と聞かれたときの答え、doubleは「どれくらいの量？」と聞かれたときの答えに使います。
 
@@ -101,14 +101,14 @@ twiceは「何回？」と聞かれたときの答え、doubleは「どれくら
 
 ## 🧩 あわせて覚えたい
 
-- [once](/word/once)：1回、1度
-- [half](/word/half)：半分
+- [once](/word/once/)：1回、1度
+- [half](/word/half/)：半分
 
 ---
 
 ## 📖 できればこれも
 
-- [again](/word/again)：再び、もう一度
-- [quickly](/word/quickly)：速く
+- [again](/word/again/)：再び、もう一度
+- [quickly](/word/quickly/)：速く
 
 <!-- cvid: aid13_bid43 -->

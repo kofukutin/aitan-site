@@ -97,7 +97,7 @@ TOEICでは広告文やビジネスメール、案内文などで頻出します
 ## 🤔  promote との違いは？
 
 - **advertise**：主に広告や宣伝媒体を使って広く知らせることに重点がある
-- **[promote](/word/promote)**：宣伝だけでなく、販売促進や地位向上など幅広い意味で使われる
+- **[promote](/word/promote/)**：宣伝だけでなく、販売促進や地位向上など幅広い意味で使われる
 
 advertiseは「広告する」ことに特化し、promoteは「売り込む・促進する」などより広い活動を指します。
 
@@ -105,14 +105,14 @@ advertiseは「広告する」ことに特化し、promoteは「売り込む・�
 
 ## 🧩 あわせて覚えたい
 
-- [announce](/word/announce)：発表する、告知する
-- [publicize](/word/publicize)：公表する、広く知らせる
+- [announce](/word/announce/)：発表する、告知する
+- [publicize](/word/publicize/)：公表する、広く知らせる
 
 ---
 
 ## 📖 できればこれも
 
-- [market](/word/market)：売り込む、販売する
-- [inform](/word/inform)：知らせる、通知する
+- [market](/word/market/)：売り込む、販売する
+- [inform](/word/inform/)：知らせる、通知する
 
 <!-- cvid: aid43_bid20 -->

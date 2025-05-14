@@ -97,7 +97,7 @@ TOEICでは医療や健康に関する説明文や記事で登場することが
 ## 🤔  enzyme との違いは？
 
 - **hormone**：体内で作られ、他の器官に信号を送る化学物質
-- **[enzyme](/word/enzyme)**：体内の化学反応を促進するたんぱく質
+- **[enzyme](/word/enzyme/)**：体内の化学反応を促進するたんぱく質
 
 hormoneは体の調整役、enzymeは化学反応の触媒という役割の違いがあります。
 
@@ -105,14 +105,14 @@ hormoneは体の調整役、enzymeは化学反応の触媒という役割の違�
 
 ## 🧩 あわせて覚えたい
 
-- [protein](/word/protein)：たんぱく質
-- [receptor](/word/receptor)：受容体
+- [protein](/word/protein/)：たんぱく質
+- [receptor](/word/receptor/)：受容体
 
 ---
 
 ## 📖 できればこれも
 
-- [cell](/word/cell)：細胞
-- [tissue](/word/tissue)：組織
+- [cell](/word/cell/)：細胞
+- [tissue](/word/tissue/)：組織
 
 <!-- cvid: aid18_bid07 -->

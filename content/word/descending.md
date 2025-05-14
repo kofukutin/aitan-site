@@ -97,7 +97,7 @@ TOEICでは、表やリストの説明、手順書などで「降順」「下り
 ## 🤔  decreasing との違いは？
 
 - **descending**：順序や位置が「上から下へ」進むこと、特に並び順や物理的な動きに使う
-- **[decreasing](/word/decreasing)**：数値や量が「減少する」ことに焦点を当てる
+- **[decreasing](/word/decreasing/)**：数値や量が「減少する」ことに焦点を当てる
 
 descendingは「順序や位置の下り」を表し、decreasingは「数や量が減る」ことを表します。たとえば、リストの並び順はdescending、売上の減少はdecreasingを使います。
 
@@ -105,14 +105,14 @@ descendingは「順序や位置の下り」を表し、decreasingは「数や量
 
 ## 🧩 あわせて覚えたい
 
-- [ascending](/word/ascending)：上昇する、昇順の
-- [reduce](/word/reduce)：減らす
+- [ascending](/word/ascending/)：上昇する、昇順の
+- [reduce](/word/reduce/)：減らす
 
 ---
 
 ## 📖 できればこれも
 
-- [decline](/word/decline)：減少する、下落する
-- [lower](/word/lower)：下げる、低くする
+- [decline](/word/decline/)：減少する、下落する
+- [lower](/word/lower/)：下げる、低くする
 
 <!-- cvid: aid25_bid20 -->

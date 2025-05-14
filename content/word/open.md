@@ -97,7 +97,7 @@ openはTOEICのリスニングや指示文で頻出し、特にドアや会議�
 ## 🤔  unlock との違いは？
 
 - **open**：ドアや箱などを「開ける」、またはお店やイベントを「始める」
-- **[unlock](/word/unlock)**：鍵を「解除する」、ロックを「外す」
+- **[unlock](/word/unlock/)**：鍵を「解除する」、ロックを「外す」
 
 openは「開ける」動作全般に使い、unlockは「鍵を外して開けられる状態にする」ことに特化しています。
 
@@ -105,14 +105,14 @@ openは「開ける」動作全般に使い、unlockは「鍵を外して開け�
 
 ## 🧩 あわせて覚えたい
 
-- [close](/word/close)：閉める、閉じる
-- [start](/word/start)：始める
+- [close](/word/close/)：閉める、閉じる
+- [start](/word/start/)：始める
 
 ---
 
 ## 📖 できればこれも
 
-- [begin](/word/begin)：始める
-- [enter](/word/enter)：入る
+- [begin](/word/begin/)：始める
+- [enter](/word/enter/)：入る
 
 <!-- cvid: aid09_bid22 -->

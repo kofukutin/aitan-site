@@ -97,7 +97,7 @@ wisdomはTOEICの長文読解やスピーチ文で、判断力や賢明さを表
 ## 🤔  knowledge との違いは？
 
 - **wisdom**：経験や知識をもとに正しく判断する力や賢明さ
-- **[knowledge](/word/knowledge)**：知識そのもの、情報や事実の蓄積
+- **[knowledge](/word/knowledge/)**：知識そのもの、情報や事実の蓄積
 
 wisdomは「知識を活かして賢く判断する力」、knowledgeは「知っている内容や情報」を指します。
 
@@ -105,14 +105,14 @@ wisdomは「知識を活かして賢く判断する力」、knowledgeは「知�
 
 ## 🧩 あわせて覚えたい
 
-- [insight](/word/insight)：洞察、物事の本質を見抜く力
-- [foolishness](/word/foolishness)：愚かさ、賢明でないこと
+- [insight](/word/insight/)：洞察、物事の本質を見抜く力
+- [foolishness](/word/foolishness/)：愚かさ、賢明でないこと
 
 ---
 
 ## 📖 できればこれも
 
-- [advice](/word/advice)：助言、アドバイス
-- [intelligence](/word/intelligence)：知能、知性
+- [advice](/word/advice/)：助言、アドバイス
+- [intelligence](/word/intelligence/)：知能、知性
 
 <!-- cvid: aid43_bid43 -->

@@ -97,7 +97,7 @@ IT関連やデジタル操作を説明する文脈で出題されることが多
 ## 🤔  swipe との違いは？
 
 - **scroll**：画面やページを連続的に上下・左右に動かす操作
-- **[swipe](/word/swipe)**：指やマウスで一度払うように動かす操作
+- **[swipe](/word/swipe/)**：指やマウスで一度払うように動かす操作
 
 scrollは長いページやリストを「連続的に動かす」イメージ、swipeは「一回の動きで切り替える」イメージです。
 
@@ -105,14 +105,14 @@ scrollは長いページやリストを「連続的に動かす」イメージ�
 
 ## 🧩 あわせて覚えたい
 
-- [click](/word/click)：クリックする
-- [browse](/word/browse)：閲覧する
+- [click](/word/click/)：クリックする
+- [browse](/word/browse/)：閲覧する
 
 ---
 
 ## 📖 できればこれも
 
-- [type](/word/type)：入力する
-- [select](/word/select)：選択する
+- [type](/word/type/)：入力する
+- [select](/word/select/)：選択する
 
 <!-- cvid: aid45_bid00 -->

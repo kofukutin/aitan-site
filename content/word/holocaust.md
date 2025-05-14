@@ -96,7 +96,7 @@ TOEICでは歴史や社会問題を扱う長文読解でまれに登場します
 ## 🤔  genocide との違いは？
 
 - **holocaust**：特定の大規模な虐殺、特にナチスによるユダヤ人大量虐殺を指すことが多い。
-- **[genocide](/word/genocide)**：人種・民族・宗教など特定の集団を意図的に絶滅させる行為全般。
+- **[genocide](/word/genocide/)**：人種・民族・宗教など特定の集団を意図的に絶滅させる行為全般。
 
 holocaustは歴史的な特定事件を指す場合が多く、genocideはより広く一般的な集団虐殺を指します。
 
@@ -104,14 +104,14 @@ holocaustは歴史的な特定事件を指す場合が多く、genocideはより
 
 ## 🧩 あわせて覚えたい
 
-- [massacre](/word/massacre)：虐殺、集団殺害
-- [catastrophe](/word/catastrophe)：大惨事、破局
+- [massacre](/word/massacre/)：虐殺、集団殺害
+- [catastrophe](/word/catastrophe/)：大惨事、破局
 
 ---
 
 ## 📖 できればこれも
 
-- [tragedy](/word/tragedy)：悲劇、惨事
-- [atrocity](/word/atrocity)：残虐行為、非道な行為
+- [tragedy](/word/tragedy/)：悲劇、惨事
+- [atrocity](/word/atrocity/)：残虐行為、非道な行為
 
 <!-- cvid: aid49_bid47 -->

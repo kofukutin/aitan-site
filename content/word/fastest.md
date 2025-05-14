@@ -97,7 +97,7 @@ TOEICでは、比較や最上級を使ったスピードや効率に関する会
 ## 🤔  quickest との違いは？
 
 - **fastest**：物理的なスピードや移動の「最も速い」を表す
-- **[quickest](/word/quickest)**：動作や反応の「最も素早い」「最短時間で」を表す
+- **[quickest](/word/quickest/)**：動作や反応の「最も素早い」「最短時間で」を表す
 
 fastestは「速さ」そのもの、quickestは「所要時間の短さ」や「手早さ」に重点があります。
 
@@ -105,14 +105,14 @@ fastestは「速さ」そのもの、quickestは「所要時間の短さ」や�
 
 ## 🧩 あわせて覚えたい
 
-- [slow](/word/slow)：遅い
-- [rapid](/word/rapid)：急速な、素早い
+- [slow](/word/slow/)：遅い
+- [rapid](/word/rapid/)：急速な、素早い
 
 ---
 
 ## 📖 できればこれも
 
-- [early](/word/early)：早い（時間的に）
-- [efficient](/word/efficient)：効率的な
+- [early](/word/early/)：早い（時間的に）
+- [efficient](/word/efficient/)：効率的な
 
 <!-- cvid: aid45_bid42 -->

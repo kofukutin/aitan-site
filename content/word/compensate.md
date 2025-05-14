@@ -97,7 +97,7 @@ TOEICでは主にビジネスシーンでの「補償」「報酬」の意味で
 ## 🤔  reimburse との違いは？
 
 - **compensate**：損失や労働などに対して広く「補償する」「埋め合わせる」意味で使う
-- **[reimburse](/word/reimburse)**：実際に支払った費用を「返金・払い戻しする」意味が中心
+- **[reimburse](/word/reimburse/)**：実際に支払った費用を「返金・払い戻しする」意味が中心
 
 compensateは損失や労力全般への補償に使い、reimburseは「立て替えたお金の返金」に限定されることが多いです。
 
@@ -105,14 +105,14 @@ compensateは損失や労力全般への補償に使い、reimburseは「立て�
 
 ## 🧩 あわせて覚えたい
 
-- [offset](/word/offset)：相殺する、埋め合わせる
-- [reward](/word/reward)：報酬を与える
+- [offset](/word/offset/)：相殺する、埋め合わせる
+- [reward](/word/reward/)：報酬を与える
 
 ---
 
 ## 📖 できればこれも
 
-- [deduct](/word/deduct)：差し引く、控除する
-- [refund](/word/refund)：返金する
+- [deduct](/word/deduct/)：差し引く、控除する
+- [refund](/word/refund/)：返金する
 
 <!-- cvid: aid40_bid08 -->

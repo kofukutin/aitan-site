@@ -97,7 +97,7 @@ TOEICでは、観光や広告、イベント紹介などの長文で「photograp
 ## 🤔  photogenic との違いは？
 
 - **photographic**：写真の、写真に関する
-- **[photogenic](/word/photogenic)**：写真写りが良い
+- **[photogenic](/word/photogenic/)**：写真写りが良い
 
 「photographic」は写真や写真撮影そのものに関する形容詞ですが、「photogenic」は「写真写りが良い」という人物や物の見た目の良さを表します。
 
@@ -105,14 +105,14 @@ TOEICでは、観光や広告、イベント紹介などの長文で「photograp
 
 ## 🧩 あわせて覚えたい
 
-- [photography](/word/photography)：写真術、写真撮影
-- [camera](/word/camera)：カメラ、写真機
+- [photography](/word/photography/)：写真術、写真撮影
+- [camera](/word/camera/)：カメラ、写真機
 
 ---
 
 ## 📖 できればこれも
 
-- [visual](/word/visual)：視覚の、見える
-- [artistic](/word/artistic)：芸術的な
+- [visual](/word/visual/)：視覚の、見える
+- [artistic](/word/artistic/)：芸術的な
 
 <!-- cvid: aid48_bid01 -->

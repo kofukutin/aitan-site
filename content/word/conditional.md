@@ -97,7 +97,7 @@ TOEICでは契約やビジネス文書、規約などで「条件付きの」と
 ## 🤔  provisional との違いは？
 
 - **conditional**：条件が満たされた場合のみ有効であることを強調
-- **[provisional](/word/provisional)**：仮の、一時的な、最終決定前の状態
+- **[provisional](/word/provisional/)**：仮の、一時的な、最終決定前の状態
 
 「conditional」は「条件付きであること」を明確に示し、「provisional」は「仮の」や「暫定的な」意味で、条件の有無にかかわらず一時的な性質を表します。
 
@@ -105,14 +105,14 @@ TOEICでは契約やビジネス文書、規約などで「条件付きの」と
 
 ## 🧩 あわせて覚えたい
 
-- [absolute](/word/absolute)：絶対的な、無条件の
-- [contingent](/word/contingent)：～次第の、条件付きの
+- [absolute](/word/absolute/)：絶対的な、無条件の
+- [contingent](/word/contingent/)：～次第の、条件付きの
 
 ---
 
 ## 📖 できればこれも
 
-- [mandatory](/word/mandatory)：義務的な、強制の
-- [tentative](/word/tentative)：仮の、暫定的な
+- [mandatory](/word/mandatory/)：義務的な、強制の
+- [tentative](/word/tentative/)：仮の、暫定的な
 
 <!-- cvid: aid20_bid03 -->

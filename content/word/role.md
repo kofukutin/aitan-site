@@ -96,7 +96,7 @@ TOEICでは会議やプロジェクトの会話で「役割」や「担当」を
 ## 🤔  position との違いは？
 
 - **role**：果たすべき「役割」や「任務」を指す
-- **[position](/word/position)**：組織内での「地位」や「職位」を指す
+- **[position](/word/position/)**：組織内での「地位」や「職位」を指す
 
 「role」は何をするか、「position」はどの立場かを表します。たとえば「manager」というpositionでも、実際に担うroleは会社によって異なります。
 
@@ -104,14 +104,14 @@ TOEICでは会議やプロジェクトの会話で「役割」や「担当」を
 
 ## 🧩 あわせて覚えたい
 
-- [function](/word/function)：機能、役割
-- [duty](/word/duty)：義務、職務
+- [function](/word/function/)：機能、役割
+- [duty](/word/duty/)：義務、職務
 
 ---
 
 ## 📖 できればこれも
 
-- [responsibility](/word/responsibility)：責任、担当
-- [task](/word/task)：課題、仕事
+- [responsibility](/word/responsibility/)：責任、担当
+- [task](/word/task/)：課題、仕事
 
 <!-- cvid: aid14_bid15 -->

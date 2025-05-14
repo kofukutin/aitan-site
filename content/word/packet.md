@@ -97,7 +97,7 @@ ITや郵送、商品説明などの文脈で登場しやすく、特に説明文
 ## 🤔  package との違いは？
 
 - **packet**：小さな袋や小分けパック、ITではデータの小単位
-- **[package](/word/package)**：大きめの箱や荷物、またはソフトウェアのパッケージ
+- **[package](/word/package/)**：大きめの箱や荷物、またはソフトウェアのパッケージ
 
 packetは「小さくまとめたもの」や「データの単位」に使い、packageは「大きな荷物」や「一式」に使います。
 
@@ -105,14 +105,14 @@ packetは「小さくまとめたもの」や「データの単位」に使い�
 
 ## 🧩 あわせて覚えたい
 
-- [envelope](/word/envelope)：封筒
-- [parcel](/word/parcel)：小包、荷物
+- [envelope](/word/envelope/)：封筒
+- [parcel](/word/parcel/)：小包、荷物
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document)：書類
-- [folder](/word/folder)：フォルダー、書類入れ
+- [document](/word/document/)：書類
+- [folder](/word/folder/)：フォルダー、書類入れ
 
 <!-- cvid: aid18_bid21 -->

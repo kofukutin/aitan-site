@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写や、家族構成を説明する場面で
 ## 🤔  spouse との違いは？
 
 - **wife**：結婚している女性（妻）を指す、最も一般的な単語
-- **[spouse](/word/spouse)**：配偶者（男女問わず）を指すフォーマルな単語
+- **[spouse](/word/spouse/)**：配偶者（男女問わず）を指すフォーマルな単語
 
 wifeは「妻」と限定されるのに対し、spouseは「配偶者」として男女どちらにも使え、よりフォーマルな場面で使われます。
 
@@ -105,14 +105,14 @@ wifeは「妻」と限定されるのに対し、spouseは「配偶者」とし�
 
 ## 🧩 あわせて覚えたい
 
-- [husband](/word/husband)：夫
-- [bride](/word/bride)：花嫁
+- [husband](/word/husband/)：夫
+- [bride](/word/bride/)：花嫁
 
 ---
 
 ## 📖 できればこれも
 
-- [husband](/word/husband)：夫
-- [family](/word/family)：家族
+- [husband](/word/husband/)：夫
+- [family](/word/family/)：家族
 
 <!-- cvid: aid46_bid00 -->

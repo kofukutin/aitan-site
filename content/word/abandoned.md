@@ -104,7 +104,7 @@ TOEICでは、abandonedは主に建物やプロジェクト、物が「放棄さ
 ## 🤔  deserted との違いは？
 
 - **abandoned**：人や管理者が意図的に見捨てて放置されたニュアンスが強い
-- **[deserted](/word/deserted)**：一時的・偶発的に「誰もいない」「人気がない」状態を表す
+- **[deserted](/word/deserted/)**：一時的・偶発的に「誰もいない」「人気がない」状態を表す
 
 abandonedは「所有者が捨てた」否定的な意味合いが強く、desertedは「一時的に人がいない」など状況的な空虚さを表します。
 
@@ -112,14 +112,14 @@ abandonedは「所有者が捨てた」否定的な意味合いが強く、deser
 
 ## 🧩 あわせて覚えたい
 
-- [neglected](/word/neglected)：無視された、手入れされていない
-- [vacant](/word/vacant)：空いている、空の
+- [neglected](/word/neglected/)：無視された、手入れされていない
+- [vacant](/word/vacant/)：空いている、空の
 
 ---
 
 ## 📖 できればこれも
 
-- [damaged](/word/damaged)：損傷した
-- [ruined](/word/ruined)：壊れた、荒廃した
+- [damaged](/word/damaged/)：損傷した
+- [ruined](/word/ruined/)：壊れた、荒廃した
 
 <!-- cvid: aid21_bid46 -->

@@ -97,7 +97,7 @@ TOEICでは、学術的な記事やビジネス文書の中で「conceptual fram
 ## 🤔  theoretical との違いは？
 
 - **conceptual**：概念やアイデアそのものに関する、抽象的な
-- **[theoretical](/word/theoretical)**：理論上の、理論的な
+- **[theoretical](/word/theoretical/)**：理論上の、理論的な
 
 「conceptual」はアイデアや枠組みなどの「概念」に焦点を当てますが、「theoretical」は理論や学説など、体系的な理論に基づくことを強調します。
 
@@ -105,14 +105,14 @@ TOEICでは、学術的な記事やビジネス文書の中で「conceptual fram
 
 ## 🧩 あわせて覚えたい
 
-- [practical](/word/practical)：実践的な、実用的な
-- [abstract](/word/abstract)：抽象的な
+- [practical](/word/practical/)：実践的な、実用的な
+- [abstract](/word/abstract/)：抽象的な
 
 ---
 
 ## 📖 できればこれも
 
-- [logical](/word/logical)：論理的な
-- [analytical](/word/analytical)：分析的な
+- [logical](/word/logical/)：論理的な
+- [analytical](/word/analytical/)：分析的な
 
 <!-- cvid: aid29_bid26 -->

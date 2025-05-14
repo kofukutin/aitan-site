@@ -97,7 +97,7 @@ TOEICでは、試験や評価、システムの説明文で「scoring」が使�
 ## 🤔  grading との違いは？
 
 - **scoring**：点数やスコアをつけること自体やその過程を指す
-- **[grading](/word/grading)**：評価や成績（A, B, Cなど）をつけること
+- **[grading](/word/grading/)**：評価や成績（A, B, Cなど）をつけること
 
 「scoring」は数値的な点数付け、「grading」はランクや評価を与えることに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは、試験や評価、システムの説明文で「scoring」が使�
 
 ## 🧩 あわせて覚えたい
 
-- [evaluation](/word/evaluation)：評価、査定
-- [assessment](/word/assessment)：評価、判定
+- [evaluation](/word/evaluation/)：評価、査定
+- [assessment](/word/assessment/)：評価、判定
 
 ---
 
 ## 📖 できればこれも
 
-- [marking](/word/marking)：採点、印をつけること
-- [ranking](/word/ranking)：順位付け、ランク付け
+- [marking](/word/marking/)：採点、印をつけること
+- [ranking](/word/ranking/)：順位付け、ランク付け
 
 <!-- cvid: aid18_bid46 -->

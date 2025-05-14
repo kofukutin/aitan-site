@@ -97,7 +97,7 @@ TOEICでは「原因」「理由」として名詞・動詞ともによく出題
 ## 🤔  reason との違いは？
 
 - **cause**：出来事や結果を直接引き起こす「原因」
-- **[reason](/word/reason)**：人の考えや説明としての「理由」
+- **[reason](/word/reason/)**：人の考えや説明としての「理由」
 
 causeは客観的な出来事の「原因」、reasonは人が説明する「理由」や動機に使われることが多いです。
 
@@ -105,14 +105,14 @@ causeは客観的な出来事の「原因」、reasonは人が説明する「理
 
 ## 🧩 あわせて覚えたい
 
-- [effect](/word/effect)：結果、影響
-- [factor](/word/factor)：要因、要素
+- [effect](/word/effect/)：結果、影響
+- [factor](/word/factor/)：要因、要素
 
 ---
 
 ## 📖 できればこれも
 
-- [result](/word/result)：結果
-- [purpose](/word/purpose)：目的
+- [result](/word/result/)：結果
+- [purpose](/word/purpose/)：目的
 
 <!-- cvid: aid45_bid38 -->

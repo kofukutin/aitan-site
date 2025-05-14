@@ -97,7 +97,7 @@ TOEICでは主に数字や数量を問う問題で出題されます。リスニ
 ## 🤔  half との違いは？
 
 - **fifty**：具体的に「50」という数を表す。
-- **[half](/word/half)**：全体の「半分」を表す。
+- **[half](/word/half/)**：全体の「半分」を表す。
 
 fiftyは明確な数値、halfは割合や分量を表すときに使います。
 
@@ -105,14 +105,14 @@ fiftyは明確な数値、halfは割合や分量を表すときに使います�
 
 ## 🧩 あわせて覚えたい
 
-- [hundred](/word/hundred)：100
-- [quarter](/word/quarter)：4分の1、15分
+- [hundred](/word/hundred/)：100
+- [quarter](/word/quarter/)：4分の1、15分
 
 ---
 
 ## 📖 できればこれも
 
-- [forty](/word/forty)：40
-- [sixty](/word/sixty)：60
+- [forty](/word/forty/)：40
+- [sixty](/word/sixty/)：60
 
 <!-- cvid: aid28_bid11 -->

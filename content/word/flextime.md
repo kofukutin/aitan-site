@@ -96,7 +96,7 @@ TOEICでは人事制度や働き方に関する長文やEメール、社内通�
 ## 🤔  telework との違いは？
 
 - **flextime**：勤務時間を柔軟に選べる制度
-- **[telework](/word/telework)**：自宅など会社以外の場所で働くこと
+- **[telework](/word/telework/)**：自宅など会社以外の場所で働くこと
 
 flextimeは「いつ働くか」の柔軟性、teleworkは「どこで働くか」の柔軟性に重点があります。
 
@@ -104,14 +104,14 @@ flextimeは「いつ働くか」の柔軟性、teleworkは「どこで働くか�
 
 ## 🧩 あわせて覚えたい
 
-- [shift](/word/shift)：勤務シフト、交代制
-- [overtime](/word/overtime)：残業
+- [shift](/word/shift/)：勤務シフト、交代制
+- [overtime](/word/overtime/)：残業
 
 ---
 
 ## 📖 できればこれも
 
-- [remote](/word/remote)：遠隔の、リモートワークの
-- [schedule](/word/schedule)：予定、スケジュール
+- [remote](/word/remote/)：遠隔の、リモートワークの
+- [schedule](/word/schedule/)：予定、スケジュール
 
 <!-- cvid: aid05_bid31 -->

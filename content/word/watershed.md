@@ -96,7 +96,7 @@ TOEICでは主に記事やレポート、スピーチ文などで比喩的な「
 ## 🤔  turning point との違いは？
 
 - **watershed**：歴史や人生の「重大な分岐点」や「転機」をややフォーマルに表現
-- **[turning point](/word/turning_point)**：物事の流れが変わる「転機」「転換点」をカジュアルにも使える
+- **[turning point](/word/turning_point/)**：物事の流れが変わる「転機」「転換点」をカジュアルにも使える
 
 watershedは歴史的・社会的な大きな変化や分岐点に使われることが多く、turning pointは日常的な変化や個人の出来事にも幅広く使えます。
 
@@ -104,14 +104,14 @@ watershedは歴史的・社会的な大きな変化や分岐点に使われる�
 
 ## 🧩 あわせて覚えたい
 
-- [milestone](/word/milestone)：重要な出来事・節目
-- [boundary](/word/boundary)：境界、限界
+- [milestone](/word/milestone/)：重要な出来事・節目
+- [boundary](/word/boundary/)：境界、限界
 
 ---
 
 ## 📖 できればこれも
 
-- [landmark](/word/landmark)：画期的な出来事、目印
-- [threshold](/word/threshold)：入り口、始まり、閾値
+- [landmark](/word/landmark/)：画期的な出来事、目印
+- [threshold](/word/threshold/)：入り口、始まり、閾値
 
 <!-- cvid: aid32_bid25 -->

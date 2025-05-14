@@ -97,7 +97,7 @@ TOEICでは、メールやお知らせ文などで謝罪や案内の表現とし
 ## 🤔  trouble との違いは？
 
 - **inconvenience**：主に「不便さ」や「迷惑」を丁寧に表現するフォーマルな言い方
-- **[trouble](/word/trouble)**：より広く「問題」「困難」「トラブル」全般を指し、カジュアルな場面でも使う
+- **[trouble](/word/trouble/)**：より広く「問題」「困難」「トラブル」全般を指し、カジュアルな場面でも使う
 
 inconvenienceは謝罪や案内など丁寧な場面で使われ、troubleは日常的な問題や困難にも幅広く使われます。
 
@@ -105,14 +105,14 @@ inconvenienceは謝罪や案内など丁寧な場面で使われ、troubleは日
 
 ## 🧩 あわせて覚えたい
 
-- [disturbance](/word/disturbance)：妨害、邪魔
-- [comfort](/word/comfort)：快適さ、安心
+- [disturbance](/word/disturbance/)：妨害、邪魔
+- [comfort](/word/comfort/)：快適さ、安心
 
 ---
 
 ## 📖 できればこれも
 
-- [delay](/word/delay)：遅れ、延期
-- [issue](/word/issue)：問題、課題
+- [delay](/word/delay/)：遅れ、延期
+- [issue](/word/issue/)：問題、課題
 
 <!-- cvid: aid05_bid10 -->

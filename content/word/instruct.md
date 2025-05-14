@@ -97,7 +97,7 @@ TOEICでは、主に指示や命令に関する文脈で出題されることが
 ## 🤔  order との違いは？
 
 - **instruct**：ややフォーマルで、手順や方法を丁寧に指示・教えるニュアンス
-- **[order](/word/order)**：命令的で、強い権限や上下関係を感じさせる
+- **[order](/word/order/)**：命令的で、強い権限や上下関係を感じさせる
 
 instructは「教える・指示する」ニュアンスがあり、orderは「命令する」色合いが強いです。
 
@@ -105,14 +105,14 @@ instructは「教える・指示する」ニュアンスがあり、orderは「�
 
 ## 🧩 あわせて覚えたい
 
-- [advise](/word/advise)：助言する、忠告する
-- [command](/word/command)：命令する（特に軍隊や強い権限で）
+- [advise](/word/advise/)：助言する、忠告する
+- [command](/word/command/)：命令する（特に軍隊や強い権限で）
 
 ---
 
 ## 📖 できればこれも
 
-- [notify](/word/notify)：通知する、知らせる
-- [direct](/word/direct)：指示する、管理する
+- [notify](/word/notify/)：通知する、知らせる
+- [direct](/word/direct/)：指示する、管理する
 
 <!-- cvid: aid43_bid36 -->

@@ -98,7 +98,7 @@ TOEICの長文読解パートで「迅速に」「容易に」「進んで」と
 ## 🤔  easily との違いは？
 
 - **readily**：ためらいや障害なく、進んで・すぐに・快く
-- **[easily](/word/easily)**：困難がなく、簡単に
+- **[easily](/word/easily/)**：困難がなく、簡単に
 
 readilyは「進んで」「快く」といった積極的なニュアンスがあり、easilyは単に「難しくない」という意味で使われます。
 
@@ -106,14 +106,14 @@ readilyは「進んで」「快く」といった積極的なニュアンスが�
 
 ## 🧩 あわせて覚えたい
 
-- [promptly](/word/promptly)：即座に、迅速に
-- [reluctantly](/word/reluctantly)：しぶしぶ、いやいやながら
+- [promptly](/word/promptly/)：即座に、迅速に
+- [reluctantly](/word/reluctantly/)：しぶしぶ、いやいやながら
 
 ---
 
 ## 📖 できればこれも
 
-- [frequently](/word/frequently)：頻繁に
-- [efficiently](/word/efficiently)：効率的に
+- [frequently](/word/frequently/)：頻繁に
+- [efficiently](/word/efficiently/)：効率的に
 
 <!-- cvid: aid00_bid44 -->

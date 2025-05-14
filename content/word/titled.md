@@ -97,7 +97,7 @@ TOEICでは主にPart 7の文書や記事の説明文で、書類や本のタイ
 ## 🤔  entitled との違いは？
 
 - **titled**：「～というタイトルの」「題名が～である」
-- **[entitled](/word/entitled)**：「～と題された」「～する権利がある」
+- **[entitled](/word/entitled/)**：「～と題された」「～する権利がある」
 
 「titled」は単にタイトル名を示すだけですが、「entitled」はタイトルを与えられた、または「～する権利がある」という意味も持ちます。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 7の文書や記事の説明文で、書類や本のタイ
 
 ## 🧩 あわせて覚えたい
 
-- [named](/word/named)：～という名前の
-- [label](/word/label)：ラベル、表示
+- [named](/word/named/)：～という名前の
+- [label](/word/label/)：ラベル、表示
 
 ---
 
 ## 📖 できればこれも
 
-- [published](/word/published)：出版された
-- [authored](/word/authored)：著した、執筆した
+- [published](/word/published/)：出版された
+- [authored](/word/authored/)：著した、執筆した
 
 <!-- cvid: aid25_bid24 -->

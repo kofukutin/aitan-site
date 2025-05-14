@@ -97,7 +97,7 @@ TOEICでは「remove」や「take off」との使い分けを問う語彙問題�
 ## 🤔  remove との違いは？
 
 - **strip**：表面から何かをはぎ取る、むく、取り除く（特に層やカバーなど）
-- **[remove](/word/remove)**：一般的に「取り除く」「除去する」
+- **[remove](/word/remove/)**：一般的に「取り除く」「除去する」
 
 stripは「表面を覆うものをはがす」ニュアンスが強く、removeはもっと広く「取り除く」全般に使われます。
 
@@ -105,14 +105,14 @@ stripは「表面を覆うものをはがす」ニュアンスが強く、remove
 
 ## 🧩 あわせて覚えたい
 
-- [peel](/word/peel)：皮をむく、はがす
-- [attach](/word/attach)：取り付ける、付ける
+- [peel](/word/peel/)：皮をむく、はがす
+- [attach](/word/attach/)：取り付ける、付ける
 
 ---
 
 ## 📖 できればこれも
 
-- [replace](/word/replace)：取り替える、交換する
-- [cover](/word/cover)：覆う、カバーする
+- [replace](/word/replace/)：取り替える、交換する
+- [cover](/word/cover/)：覆う、カバーする
 
 <!-- cvid: aid16_bid35 -->

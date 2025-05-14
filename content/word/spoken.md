@@ -97,7 +97,7 @@ spokenは、TOEICの会話パートで「話し言葉」「口頭での説明」
 ## 🤔  verbal との違いは？
 
 - **spoken**：話し言葉の、口頭の（書き言葉と対比して使う）
-- **[verbal](/word/verbal)**：言葉による、口頭の（書き言葉も含めて「言語的」な意味もある）
+- **[verbal](/word/verbal/)**：言葉による、口頭の（書き言葉も含めて「言語的」な意味もある）
 
 spokenは「話し言葉」に限定されますが、verbalは「言葉による」全般を指し、書き言葉も含む場合があります。
 
@@ -105,14 +105,14 @@ spokenは「話し言葉」に限定されますが、verbalは「言葉によ�
 
 ## 🧩 あわせて覚えたい
 
-- [oral](/word/oral)：口頭の、口述の
-- [written](/word/written)：書かれた、書き言葉の
+- [oral](/word/oral/)：口頭の、口述の
+- [written](/word/written/)：書かれた、書き言葉の
 
 ---
 
 ## 📖 できればこれも
 
-- [written](/word/written)：書かれた、書き言葉の
-- [formal](/word/formal)：形式ばった、フォーマルな
+- [written](/word/written/)：書かれた、書き言葉の
+- [formal](/word/formal/)：形式ばった、フォーマルな
 
 <!-- cvid: aid49_bid31 -->

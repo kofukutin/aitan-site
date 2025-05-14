@@ -97,7 +97,7 @@ TOEICでは、ITやビジネスの文脈で「program」が研修やイベント
 ## 🤔  schedule との違いは？
 
 - **program**：一連の内容や計画、番組、ソフトウェアなど幅広い意味で使う
-- **[schedule](/word/schedule)**：予定表や時間割など、日時や順序を示すもの
+- **[schedule](/word/schedule/)**：予定表や時間割など、日時や順序を示すもの
 
 「program」は内容や中身に焦点があり、「schedule」は時間や順序に焦点があります。
 
@@ -105,14 +105,14 @@ TOEICでは、ITやビジネスの文脈で「program」が研修やイベント
 
 ## 🧩 あわせて覚えたい
 
-- [plan](/word/plan)：計画、案
-- [project](/word/project)：プロジェクト、事業
+- [plan](/word/plan/)：計画、案
+- [project](/word/project/)：プロジェクト、事業
 
 ---
 
 ## 📖 できればこれも
 
-- [system](/word/system)：システム、体系
-- [application](/word/application)：アプリケーション、応用
+- [system](/word/system/)：システム、体系
+- [application](/word/application/)：アプリケーション、応用
 
 <!-- cvid: aid26_bid46 -->

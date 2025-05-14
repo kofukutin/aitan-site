@@ -97,7 +97,7 @@ TOEICでは「辞める」「中止する」という意味で、主に動詞と
 ## 🤔  resign との違いは？
 
 - **quit**：カジュアルに「やめる」「辞める」と言うときに使う。仕事以外にも幅広く使える。
-- **[resign](/word/resign)**：フォーマルに「辞職する」「辞任する」と言うときに使う。
+- **[resign](/word/resign/)**：フォーマルに「辞職する」「辞任する」と言うときに使う。
 
 「quit」は日常会話やカジュアルな場面で幅広く使われ、「resign」はビジネスや公式な場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは「辞める」「中止する」という意味で、主に動詞と
 
 ## 🧩 あわせて覚えたい
 
-- [stop](/word/stop)：止める、中止する
-- [leave](/word/leave)：去る、離れる
+- [stop](/word/stop/)：止める、中止する
+- [leave](/word/leave/)：去る、離れる
 
 ---
 
 ## 📖 できればこれも
 
-- [retire](/word/retire)：退職する、引退する
-- [dismiss](/word/dismiss)：解雇する、退ける
+- [retire](/word/retire/)：退職する、引退する
+- [dismiss](/word/dismiss/)：解雇する、退ける
 
 <!-- cvid: aid16_bid02 -->

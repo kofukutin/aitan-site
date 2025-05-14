@@ -97,7 +97,7 @@ TOEICでは、求人広告や職業紹介、ビジネス文書などで「profes
 ## 🤔  occupation との違いは？
 
 - **profession**：専門的な知識や資格を必要とする職業
-- **[occupation](/word/occupation)**：一般的な「職業」「仕事」全般
+- **[occupation](/word/occupation/)**：一般的な「職業」「仕事」全般
 
 professionは医師や弁護士など専門性の高い職業を指し、occupationはアルバイトや事務職なども含む広い意味で使われます。
 
@@ -105,14 +105,14 @@ professionは医師や弁護士など専門性の高い職業を指し、occupat
 
 ## 🧩 あわせて覚えたい
 
-- [career](/word/career)：経歴、職業人生
-- [vocation](/word/vocation)：天職、使命感を持つ職業
+- [career](/word/career/)：経歴、職業人生
+- [vocation](/word/vocation/)：天職、使命感を持つ職業
 
 ---
 
 ## 📖 できればこれも
 
-- [expert](/word/expert)：専門家
-- [specialist](/word/specialist)：専門家、スペシャリスト
+- [expert](/word/expert/)：専門家
+- [specialist](/word/specialist/)：専門家、スペシャリスト
 
 <!-- cvid: aid48_bid30 -->

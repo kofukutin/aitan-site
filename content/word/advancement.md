@@ -97,7 +97,7 @@ TOEICでは主にビジネスシーンでの「昇進」や「進歩」の意味
 ## 🤔  promotion との違いは？
 
 - **advancement**：全体的な進歩や昇進、発展を幅広く表すフォーマルな語。
-- **[promotion](/word/promotion)**：特に職場での「昇進」や「販促活動」を指す。
+- **[promotion](/word/promotion/)**：特に職場での「昇進」や「販促活動」を指す。
 
 advancementは個人や物事の全体的な進歩や発展を指し、promotionは主に職場での昇進や商品の販促活動など、より具体的な場面で使われます。
 
@@ -105,14 +105,14 @@ advancementは個人や物事の全体的な進歩や発展を指し、promotion
 
 ## 🧩 あわせて覚えたい
 
-- [progress](/word/progress)：進歩、前進
-- [development](/word/development)：発展、開発
+- [progress](/word/progress/)：進歩、前進
+- [development](/word/development/)：発展、開発
 
 ---
 
 ## 📖 できればこれも
 
-- [achievement](/word/achievement)：達成、業績
-- [improvement](/word/improvement)：改善、向上
+- [achievement](/word/achievement/)：達成、業績
+- [improvement](/word/improvement/)：改善、向上
 
 <!-- cvid: aid42_bid42 -->

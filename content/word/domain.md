@@ -97,7 +97,7 @@ TOEICでは主にITやビジネスの専門分野、またはインターネッ�
 ## 🤔  field との違いは？
 
 - **domain**：専門性や権威、支配が及ぶ「領域」「分野」をややフォーマルに表現
-- **[field](/word/field)**：より一般的な「分野」「現場」「活動領域」を幅広く表現
+- **[field](/word/field/)**：より一般的な「分野」「現場」「活動領域」を幅広く表現
 
 domainは専門性や権威が強調される場面で使われ、fieldは日常的・広範な分野に使われます。
 
@@ -105,14 +105,14 @@ domainは専門性や権威が強調される場面で使われ、fieldは日常
 
 ## 🧩 あわせて覚えたい
 
-- [area](/word/area)：範囲、分野
-- [realm](/word/realm)：領域、分野（やや文学的）
+- [area](/word/area/)：範囲、分野
+- [realm](/word/realm/)：領域、分野（やや文学的）
 
 ---
 
 ## 📖 できればこれも
 
-- [sector](/word/sector)：部門、分野
-- [category](/word/category)：カテゴリー、分類
+- [sector](/word/sector/)：部門、分野
+- [category](/word/category/)：カテゴリー、分類
 
 <!-- cvid: aid16_bid32 -->

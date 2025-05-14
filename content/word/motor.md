@@ -97,7 +97,7 @@ TOEICでは、工場やオフィスの設備、製品説明などで「motor」�
 ## 🤔  engine との違いは？
 
 - **motor**：電気や燃料などで動く「動力装置」全般。特に電動モーターを指すことが多い。
-- **[engine](/word/engine)**：主に燃料（ガソリン・ディーゼルなど）で動く「エンジン」を指し、車や飛行機など大型機械に使われる。
+- **[engine](/word/engine/)**：主に燃料（ガソリン・ディーゼルなど）で動く「エンジン」を指し、車や飛行機など大型機械に使われる。
 
 motorは電気で動く装置に多く使われ、engineは燃焼による動力装置に使われる点が大きな違いです。
 
@@ -105,14 +105,14 @@ motorは電気で動く装置に多く使われ、engineは燃焼による動力
 
 ## 🧩 あわせて覚えたい
 
-- [machine](/word/machine)：機械、装置
-- [device](/word/device)：装置、機器
+- [machine](/word/machine/)：機械、装置
+- [device](/word/device/)：装置、機器
 
 ---
 
 ## 📖 できればこれも
 
-- [circuit](/word/circuit)：回路
-- [battery](/word/battery)：電池
+- [circuit](/word/circuit/)：回路
+- [battery](/word/battery/)：電池
 
 <!-- cvid: aid13_bid11 -->

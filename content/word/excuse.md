@@ -97,7 +97,7 @@ TOEICでは会話やメール文中で「言い訳」や「理由」を述べる
 ## 🤔  apology との違いは？
 
 - **excuse**：自分の行動を正当化する「言い訳」や「口実」
-- **[apology](/word/apology)**：自分の非を認めて「謝罪」すること
+- **[apology](/word/apology/)**：自分の非を認めて「謝罪」すること
 
 excuseは「理由を述べて許しを求める」ニュアンスが強く、apologyは「心から謝る」気持ちを表します。
 
@@ -105,14 +105,14 @@ excuseは「理由を述べて許しを求める」ニュアンスが強く、ap
 
 ## 🧩 あわせて覚えたい
 
-- [reason](/word/reason)：理由
-- [justification](/word/justification)：正当化、弁明
+- [reason](/word/reason/)：理由
+- [justification](/word/justification/)：正当化、弁明
 
 ---
 
 ## 📖 できればこれも
 
-- [permission](/word/permission)：許可
-- [request](/word/request)：依頼
+- [permission](/word/permission/)：許可
+- [request](/word/request/)：依頼
 
 <!-- cvid: aid25_bid35 -->

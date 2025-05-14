@@ -97,7 +97,7 @@ TOEICでは、ビジネスや日常の所有関係を表す場面でよく登場
 ## 🤔  holder との違いは？
 
 - **owner**：何かを法的・実質的に所有している人
-- **[holder](/word/holder)**：何かを一時的・形式的に持っている人
+- **[holder](/word/holder/)**：何かを一時的・形式的に持っている人
 
 ownerは「所有権」を持つ人、holderは「保持者」であり、所有権がない場合もあります。
 
@@ -105,14 +105,14 @@ ownerは「所有権」を持つ人、holderは「保持者」であり、所有
 
 ## 🧩 あわせて覚えたい
 
-- [tenant](/word/tenant)：賃借人、借りている人
-- [proprietor](/word/proprietor)：（特に小規模な）経営者、所有者
+- [tenant](/word/tenant/)：賃借人、借りている人
+- [proprietor](/word/proprietor/)：（特に小規模な）経営者、所有者
 
 ---
 
 ## 📖 できればこれも
 
-- [manager](/word/manager)：管理者、マネージャー
-- [employee](/word/employee)：従業員
+- [manager](/word/manager/)：管理者、マネージャー
+- [employee](/word/employee/)：従業員
 
 <!-- cvid: aid29_bid45 -->

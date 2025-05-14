@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やニュース記事の中で「企業買収
 ## 🤔  purchase との違いは？
 
 - **acquisition**：企業や大きなものの「獲得」「買収」に使われるフォーマルな表現
-- **[purchase](/word/purchase)**：日常的な「購入」「買うこと」を指し、物品やサービスにも広く使う
+- **[purchase](/word/purchase/)**：日常的な「購入」「買うこと」を指し、物品やサービスにも広く使う
 
 acquisitionは特にビジネスやフォーマルな場面で使われ、purchaseは日常的な買い物や取引全般に使われます。
 
@@ -105,14 +105,14 @@ acquisitionは特にビジネスやフォーマルな場面で使われ、purcha
 
 ## 🧩 あわせて覚えたい
 
-- [merger](/word/merger)：合併
-- [takeover](/word/takeover)：乗っ取り、買収
+- [merger](/word/merger/)：合併
+- [takeover](/word/takeover/)：乗っ取り、買収
 
 ---
 
 ## 📖 できればこれも
 
-- [asset](/word/asset)：資産
-- [investment](/word/investment)：投資
+- [asset](/word/asset/)：資産
+- [investment](/word/investment/)：投資
 
 <!-- cvid: aid25_bid45 -->

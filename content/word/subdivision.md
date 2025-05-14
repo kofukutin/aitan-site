@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や不動産関連の説明文で登場し、
 ## 🤔  section との違いは？
 
 - **subdivision**：全体をさらに細かく分けた部分や区画、またはその行為を強調。
-- **[section](/word/section)**：全体の中の「区分」「部分」として一般的に使われる。
+- **[section](/word/section/)**：全体の中の「区分」「部分」として一般的に使われる。
 
 subdivisionは「細分化」や「分割された小さな単位」を強調し、sectionは単なる「区分」や「部分」を指す点で使い分けます。
 
@@ -105,14 +105,14 @@ subdivisionは「細分化」や「分割された小さな単位」を強調し
 
 ## 🧩 あわせて覚えたい
 
-- [department](/word/department)：部門、部署
-- [division](/word/division)：部門、分割
+- [department](/word/department/)：部門、部署
+- [division](/word/division/)：部門、分割
 
 ---
 
 ## 📖 できればこれも
 
-- [category](/word/category)：カテゴリー、分類
-- [segment](/word/segment)：区分、部分
+- [category](/word/category/)：カテゴリー、分類
+- [segment](/word/segment/)：区分、部分
 
 <!-- cvid: aid49_bid07 -->

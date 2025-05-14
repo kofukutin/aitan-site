@@ -97,7 +97,7 @@ runはTOEICの会話パートで「運営する」「作動する」などの意
 ## 🤔  operate との違いは？
 
 - **run**：運営や管理、または走る・作動するなど幅広い意味で使う
-- **[operate](/word/operate)**：機械やシステムを操作・運転する意味が中心
+- **[operate](/word/operate/)**：機械やシステムを操作・運転する意味が中心
 
 runは人や組織が「全体を動かす・管理する」ニュアンスが強く、operateは「機械や装置を直接操作する」場面で使います。
 
@@ -105,14 +105,14 @@ runは人や組織が「全体を動かす・管理する」ニュアンスが�
 
 ## 🧩 あわせて覚えたい
 
-- [manage](/word/manage)：管理する、運営する
-- [control](/word/control)：制御する、管理する
+- [manage](/word/manage/)：管理する、運営する
+- [control](/word/control/)：制御する、管理する
 
 ---
 
 ## 📖 できればこれも
 
-- [move](/word/move)：動く、動かす
-- [lead](/word/lead)：導く、率いる
+- [move](/word/move/)：動く、動かす
+- [lead](/word/lead/)：導く、率いる
 
 <!-- cvid: aid47_bid48 -->

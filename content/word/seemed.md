@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「～のようだった」と状況を推測す
 ## 🤔  appeared との違いは？
 
 - **seemed**：実際にどうかは分からないが、そう感じた・思われたことを表す。
-- **[appeared](/word/appeared)**：外見や状況から「見た目上そうだった」とより客観的に述べる。
+- **[appeared](/word/appeared/)**：外見や状況から「見た目上そうだった」とより客観的に述べる。
 
 seemedは主観的な印象、appearedは外見や状況からの客観的な判断に使われます。
 
@@ -105,14 +105,14 @@ seemedは主観的な印象、appearedは外見や状況からの客観的な判
 
 ## 🧩 あわせて覚えたい
 
-- [look](/word/look)：～のように見える
-- [sound](/word/sound)：～のように聞こえる
+- [look](/word/look/)：～のように見える
+- [sound](/word/sound/)：～のように聞こえる
 
 ---
 
 ## 📖 できればこれも
 
-- [felt](/word/felt)：～と感じた
-- [thought](/word/thought)：～と思った
+- [felt](/word/felt/)：～と感じた
+- [thought](/word/thought/)：～と思った
 
 <!-- cvid: aid33_bid47 -->

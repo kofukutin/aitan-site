@@ -97,7 +97,7 @@ throwingはTOEICのPart 1（写真描写）で、人が何かを投げている�
 ## 🤔  pitching との違いは？
 
 - **throwing**：一般的に物を手で投げる動作全般を指す。
-- **[pitching](/word/pitching)**：特に野球などで「投球する」「ピッチャーとして投げる」意味で使われる。
+- **[pitching](/word/pitching/)**：特に野球などで「投球する」「ピッチャーとして投げる」意味で使われる。
 
 throwingは日常的な「投げる」全般、pitchingはスポーツや特定の場面での「投球」に限定されることが多いです。
 
@@ -105,14 +105,14 @@ throwingは日常的な「投げる」全般、pitchingはスポーツや特定�
 
 ## 🧩 あわせて覚えたい
 
-- [toss](/word/toss)：軽く投げる
-- [catch](/word/catch)：つかむ、受け取る
+- [toss](/word/toss/)：軽く投げる
+- [catch](/word/catch/)：つかむ、受け取る
 
 ---
 
 ## 📖 できればこれも
 
-- [drop](/word/drop)：落とす
-- [grab](/word/grab)：つかむ
+- [drop](/word/drop/)：落とす
+- [grab](/word/grab/)：つかむ
 
 <!-- cvid: aid10_bid23 -->

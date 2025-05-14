@@ -97,7 +97,7 @@ TOEICでは、新聞記事やビジネス上のトラブルを扱う長文で「
 ## 🤔  set up との違いは？
 
 - **framed**：無実の人に罪を着せる、濡れ衣を着せる
-- **[set up](/word/set_up)**：罠にはめる、計画的に陥れる
+- **[set up](/word/set_up/)**：罠にはめる、計画的に陥れる
 
 framedは「罪を着せる」ことに特化し、set upはより広く「罠にかける」「陥れる」意味で使われます。
 
@@ -105,14 +105,14 @@ framedは「罪を着せる」ことに特化し、set upはより広く「罠�
 
 ## 🧩 あわせて覚えたい
 
-- [accuse](/word/accuse)：告発する、非難する
-- [blame](/word/blame)：責める、非難する
+- [accuse](/word/accuse/)：告発する、非難する
+- [blame](/word/blame/)：責める、非難する
 
 ---
 
 ## 📖 できればこれも
 
-- [charge](/word/charge)：告発する、責任を問う
-- [suspect](/word/suspect)：疑う、容疑をかける
+- [charge](/word/charge/)：告発する、責任を問う
+- [suspect](/word/suspect/)：疑う、容疑をかける
 
 <!-- cvid: aid01_bid37 -->

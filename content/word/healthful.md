@@ -97,7 +97,7 @@ TOEICでは主に健康や食生活、福利厚生などの説明文や広告で
 ## 🤔  healthy との違いは？
 
 - **healthful**：健康によい（特に食べ物や環境などが健康を促進する場合に使う）
-- **[healthy](/word/healthy)**：健康な（人や動物などの健康状態を表す場合が多い）
+- **[healthy](/word/healthy/)**：健康な（人や動物などの健康状態を表す場合が多い）
 
 **healthful**は「健康によい性質」を持つ物や環境に使い、**healthy**は「健康な状態」にある人や動物、または物にも使えますが、日常会話ではhealthyの方が一般的です。
 
@@ -105,14 +105,14 @@ TOEICでは主に健康や食生活、福利厚生などの説明文や広告で
 
 ## 🧩 あわせて覚えたい
 
-- [beneficial](/word/beneficial)：有益な
-- [nutritious](/word/nutritious)：栄養のある
+- [beneficial](/word/beneficial/)：有益な
+- [nutritious](/word/nutritious/)：栄養のある
 
 ---
 
 ## 📖 できればこれも
 
-- [medical](/word/medical)：医療の
-- [physical](/word/physical)：身体の
+- [medical](/word/medical/)：医療の
+- [physical](/word/physical/)：身体の
 
 <!-- cvid: aid49_bid29 -->

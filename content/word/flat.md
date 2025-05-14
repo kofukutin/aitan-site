@@ -97,7 +97,7 @@ TOEICではイギリス英語の表現として登場することがあり、特
 ## 🤔  apartment との違いは？
 
 - **flat**：イギリス英語で「アパート」「マンション」を指す。
-- **[apartment](/word/apartment)**：アメリカ英語で「アパート」「マンション」を指す。
+- **[apartment](/word/apartment/)**：アメリカ英語で「アパート」「マンション」を指す。
 
 flatはイギリス英語圏、apartmentはアメリカ英語圏で使われるため、地域によって使い分けが必要です。
 
@@ -105,14 +105,14 @@ flatはイギリス英語圏、apartmentはアメリカ英語圏で使われる�
 
 ## 🧩 あわせて覚えたい
 
-- [floor](/word/floor)：階、フロア
-- [suite](/word/suite)：スイートルーム、続き部屋
+- [floor](/word/floor/)：階、フロア
+- [suite](/word/suite/)：スイートルーム、続き部屋
 
 ---
 
 ## 📖 できればこれも
 
-- [rent](/word/rent)：家賃、賃貸する
-- [lease](/word/lease)：賃貸契約、賃貸する
+- [rent](/word/rent/)：家賃、賃貸する
+- [lease](/word/lease/)：賃貸契約、賃貸する
 
 <!-- cvid: aid24_bid21 -->

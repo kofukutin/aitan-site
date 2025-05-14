@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や財務報告、会社紹介などで「資
 ## 🤔  property との違いは？
 
 - **asset**：企業や個人が持つ価値あるもの全般や強みを指す
-- **[property](/word/property)**：主に土地や建物などの不動産、または所有物全般を指す
+- **[property](/word/property/)**：主に土地や建物などの不動産、または所有物全般を指す
 
 assetは会計やビジネスで使われる「資産」や「強み」に重点があり、propertyは物理的な所有物や不動産を指すことが多いです。
 
@@ -105,14 +105,14 @@ assetは会計やビジネスで使われる「資産」や「強み」に重点
 
 ## 🧩 あわせて覚えたい
 
-- [liability](/word/liability)：負債、責任
-- [resource](/word/resource)：資源、手段
+- [liability](/word/liability/)：負債、責任
+- [resource](/word/resource/)：資源、手段
 
 ---
 
 ## 📖 できればこれも
 
-- [capital](/word/capital)：資本、元金
-- [fund](/word/fund)：資金、基金
+- [capital](/word/capital/)：資本、元金
+- [fund](/word/fund/)：資金、基金
 
 <!-- cvid: aid28_bid46 -->

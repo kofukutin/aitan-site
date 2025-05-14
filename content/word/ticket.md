@@ -97,7 +97,7 @@ TOEICでは、イベント案内や旅行、出張関連の長文で「ticket」
 ## 🤔  receipt との違いは？
 
 - **ticket**：イベントや乗り物などの「入場券」「乗車券」など、サービスや権利を得るための券。
-- **[receipt](/word/receipt)**：購入や支払いを証明する「領収書」。
+- **[receipt](/word/receipt/)**：購入や支払いを証明する「領収書」。
 
 ticketは「何かに入る・利用するための券」、receiptは「お金を払った証明書」として使い分けます。
 
@@ -105,14 +105,14 @@ ticketは「何かに入る・利用するための券」、receiptは「お金�
 
 ## 🧩 あわせて覚えたい
 
-- [voucher](/word/voucher)：引換券、クーポン
-- [invitation](/word/invitation)：招待状
+- [voucher](/word/voucher/)：引換券、クーポン
+- [invitation](/word/invitation/)：招待状
 
 ---
 
 ## 📖 できればこれも
 
-- [reservation](/word/reservation)：予約
-- [schedule](/word/schedule)：予定、スケジュール
+- [reservation](/word/reservation/)：予約
+- [schedule](/word/schedule/)：予定、スケジュール
 
 <!-- cvid: aid01_bid19 -->

@@ -97,7 +97,7 @@ TOEICでは「resulted in ～」の形で、原因と結果を説明する文脈
 ## 🤔  led との違いは？
 
 - **resulted**：何かの結果として自然に生じたことを表す
-- **[led](/word/led)**：意図的・能動的に導いたことを表す
+- **[led](/word/led/)**：意図的・能動的に導いたことを表す
 
 「resulted」は原因から自然に生じた結果を示し、「led」は誰かや何かが積極的に導いた場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは「resulted in ～」の形で、原因と結果を説明する文脈
 
 ## 🧩 あわせて覚えたい
 
-- [cause](/word/cause)：原因、引き起こす
-- [follow](/word/follow)：続く、従う
+- [cause](/word/cause/)：原因、引き起こす
+- [follow](/word/follow/)：続く、従う
 
 ---
 
 ## 📖 できればこれも
 
-- [occur](/word/occur)：起こる、生じる
-- [affect](/word/affect)：影響を与える
+- [occur](/word/occur/)：起こる、生じる
+- [affect](/word/affect/)：影響を与える
 
 <!-- cvid: aid00_bid36 -->

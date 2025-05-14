@@ -97,7 +97,7 @@ TOEICでは「安定した経済」「安定した成長」など、ビジネス
 ## 🤔  steady との違いは？
 
 - **stable**：外部からの影響を受けず、変化が少なく安定している状態
-- **[steady](/word/steady)**：着実で途切れず、一定のペースやリズムで続く状態
+- **[steady](/word/steady/)**：着実で途切れず、一定のペースやリズムで続く状態
 
 stableは「揺るがない」「変わらない」ことに重点があり、steadyは「継続性」や「一貫性」に重点があります。
 
@@ -105,14 +105,14 @@ stableは「揺るがない」「変わらない」ことに重点があり、st
 
 ## 🧩 あわせて覚えたい
 
-- [secure](/word/secure)：安全な、しっかりした
-- [volatile](/word/volatile)：不安定な、変わりやすい
+- [secure](/word/secure/)：安全な、しっかりした
+- [volatile](/word/volatile/)：不安定な、変わりやすい
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/word/reliable)：信頼できる
-- [consistent](/word/consistent)：一貫した
+- [reliable](/word/reliable/)：信頼できる
+- [consistent](/word/consistent/)：一貫した
 
 <!-- cvid: aid17_bid45 -->

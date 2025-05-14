@@ -97,7 +97,7 @@ TOEICではビジネス文書やEメール、会社紹介などで consulting �
 ## 🤔  advice との違いは？
 
 - **consulting**：専門家による助言や指導、コンサルタント業務全体を指す
-- **[advice](/word/advice)**：一般的な「助言」「アドバイス」を意味し、専門性は問わない
+- **[advice](/word/advice/)**：一般的な「助言」「アドバイス」を意味し、専門性は問わない
 
 consulting はビジネスや専門分野での体系的な助言やサービスを指し、advice は日常的なアドバイスや提案にも使えます。
 
@@ -105,14 +105,14 @@ consulting はビジネスや専門分野での体系的な助言やサービス
 
 ## 🧩 あわせて覚えたい
 
-- [consultation](/word/consultation)：相談、協議
-- [counsel](/word/counsel)：助言、法律相談
+- [consultation](/word/consultation/)：相談、協議
+- [counsel](/word/counsel/)：助言、法律相談
 
 ---
 
 ## 📖 できればこれも
 
-- [strategy](/word/strategy)：戦略
-- [proposal](/word/proposal)：提案
+- [strategy](/word/strategy/)：戦略
+- [proposal](/word/proposal/)：提案
 
 <!-- cvid: aid27_bid26 -->

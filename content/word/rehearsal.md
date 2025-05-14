@@ -97,7 +97,7 @@ TOEICでは会議やプレゼン、イベント準備の会話で「リハーサ
 ## 🤔  practice との違いは？
 
 - **rehearsal**：本番を想定したリハーサルや予行演習
-- **[practice](/word/practice)**：一般的な練習や訓練
+- **[practice](/word/practice/)**：一般的な練習や訓練
 
 rehearsalは本番に近い形で流れを確認する「予行演習」に使い、practiceは技術や能力を高めるための「練習」全般に使います。
 
@@ -105,14 +105,14 @@ rehearsalは本番に近い形で流れを確認する「予行演習」に使�
 
 ## 🧩 あわせて覚えたい
 
-- [performance](/word/performance)：本番の演技・公演
-- [preparation](/word/preparation)：準備、用意
+- [performance](/word/performance/)：本番の演技・公演
+- [preparation](/word/preparation/)：準備、用意
 
 ---
 
 ## 📖 できればこれも
 
-- [presentation](/word/presentation)：発表、プレゼン
-- [meeting](/word/meeting)：会議
+- [presentation](/word/presentation/)：発表、プレゼン
+- [meeting](/word/meeting/)：会議
 
 <!-- cvid: aid01_bid14 -->

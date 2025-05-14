@@ -97,7 +97,7 @@ TOEICのPart 1（写真描写問題）で、人が何かを指し示している
 ## 🤔  indicating との違いは？
 
 - **pointing**：指や物で物理的に方向や対象を示すこと
-- **[indicating](/word/indicating)**：言葉やジェスチャーなどで示唆・指摘すること
+- **[indicating](/word/indicating/)**：言葉やジェスチャーなどで示唆・指摘すること
 
 pointingは実際に指や物で「見える形」で示すのに対し、indicatingは言葉やサインなど幅広い方法で「示す」場合に使います。
 
@@ -105,14 +105,14 @@ pointingは実際に指や物で「見える形」で示すのに対し、indica
 
 ## 🧩 あわせて覚えたい
 
-- [gesture](/word/gesture)：身ぶり、ジェスチャー
-- [show](/word/show)：見せる、示す
+- [gesture](/word/gesture/)：身ぶり、ジェスチャー
+- [show](/word/show/)：見せる、示す
 
 ---
 
 ## 📖 できればこれも
 
-- [wave](/word/wave)：手を振る
-- [nod](/word/nod)：うなずく
+- [wave](/word/wave/)：手を振る
+- [nod](/word/nod/)：うなずく
 
 <!-- cvid: aid02_bid26 -->

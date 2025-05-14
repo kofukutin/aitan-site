@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や会議資料の中で「計算」「見積も
 ## 🤔  computation との違いは？
 
 - **calculation**：日常的な計算や見積もり、判断のための算出に幅広く使う
-- **[computation](/word/computation)**：より専門的・理論的な計算やコンピュータによる演算に使う
+- **[computation](/word/computation/)**：より専門的・理論的な計算やコンピュータによる演算に使う
 
 calculationは日常やビジネスの「計算」に広く使われ、computationは科学的・技術的な「計算処理」に使われることが多いです。
 
@@ -105,14 +105,14 @@ calculationは日常やビジネスの「計算」に広く使われ、computati
 
 ## 🧩 あわせて覚えたい
 
-- [estimate](/word/estimate)：見積もり、概算
-- [assessment](/word/assessment)：評価、査定
+- [estimate](/word/estimate/)：見積もり、概算
+- [assessment](/word/assessment/)：評価、査定
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze)：分析する
-- [formula](/word/formula)：公式、式
+- [analyze](/word/analyze/)：分析する
+- [formula](/word/formula/)：公式、式
 
 <!-- cvid: aid40_bid18 -->

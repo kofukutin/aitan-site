@@ -97,7 +97,7 @@ TOEICでは大学やイベント、施設の「入場」「入学」「許可」
 ## 🤔  entrance との違いは？
 
 - **admission**：入場・入学など「許可」や「受け入れ」の意味が強い
-- **[entrance](/word/entrance)**：物理的な「入り口」や「入ること」を指す
+- **[entrance](/word/entrance/)**：物理的な「入り口」や「入ること」を指す
 
 admissionは「入ることを許される」や「受け入れられる」ニュアンスがあり、entranceは単に「入口」や「入る動作」を表します。
 
@@ -105,14 +105,14 @@ admissionは「入ることを許される」や「受け入れられる」ニ�
 
 ## 🧩 あわせて覚えたい
 
-- [acceptance](/word/acceptance)：受け入れ、合格
-- [permission](/word/permission)：許可
+- [acceptance](/word/acceptance/)：受け入れ、合格
+- [permission](/word/permission/)：許可
 
 ---
 
 ## 📖 できればこれも
 
-- [application](/word/application)：申請、応募
-- [enrollment](/word/enrollment)：登録、入学
+- [application](/word/application/)：申請、応募
+- [enrollment](/word/enrollment/)：登録、入学
 
 <!-- cvid: aid34_bid47 -->

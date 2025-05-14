@@ -97,7 +97,7 @@ TOEICでは契約書や規則、税金関連の長文で「免除」「適用除
 ## 🤔  exception との違いは？
 
 - **exemption**：義務や規則などから「免除されること」「適用除外」
-- **[exception](/word/exception)**：一般的な規則やパターンから外れる「例外」
+- **[exception](/word/exception/)**：一般的な規則やパターンから外れる「例外」
 
 exemptionは「本来しなければならないことを免除される」場合に使い、exceptionは「通常とは違う特別なケース」を指します。
 
@@ -105,14 +105,14 @@ exemptionは「本来しなければならないことを免除される」場�
 
 ## 🧩 あわせて覚えたい
 
-- [waiver](/word/waiver)：権利放棄、免除
-- [deduction](/word/deduction)：控除、差し引き
+- [waiver](/word/waiver/)：権利放棄、免除
+- [deduction](/word/deduction/)：控除、差し引き
 
 ---
 
 ## 📖 できればこれも
 
-- [regulation](/word/regulation)：規則、規制
-- [permission](/word/permission)：許可
+- [regulation](/word/regulation/)：規則、規制
+- [permission](/word/permission/)：許可
 
 <!-- cvid: aid23_bid33 -->

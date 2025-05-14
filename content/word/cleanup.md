@@ -98,7 +98,7 @@ TOEICでは、オフィスやイベント後の片付け、清掃活動の話題
 ## 🤔  cleaning との違いは？
 
 - **cleanup**：大がかりな掃除や片付け、特定のイベントや活動としての清掃
-- **[cleaning](/word/cleaning)**：日常的な掃除や清掃全般
+- **[cleaning](/word/cleaning/)**：日常的な掃除や清掃全般
 
 cleanupは「一斉清掃」や「大掃除」など、特別な片付けを指すことが多く、cleaningは日常的な掃除全般を表します。
 
@@ -106,14 +106,14 @@ cleanupは「一斉清掃」や「大掃除」など、特別な片付けを指�
 
 ## 🧩 あわせて覚えたい
 
-- [organize](/word/organize)：整理する、まとめる
-- [maintenance](/word/maintenance)：維持、保守
+- [organize](/word/organize/)：整理する、まとめる
+- [maintenance](/word/maintenance/)：維持、保守
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange)：整える、手配する
-- [tidy](/word/tidy)：きちんと片付ける
+- [arrange](/word/arrange/)：整える、手配する
+- [tidy](/word/tidy/)：きちんと片付ける
 
 <!-- cvid: aid28_bid28 -->

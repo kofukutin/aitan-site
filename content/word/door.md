@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、部屋や建物の「ドア」
 ## 🤔  entrance との違いは？
 
 - **door**：物理的な「ドア」や「扉」そのものを指す
-- **[entrance](/word/entrance)**：建物や部屋への「入り口」全体を指す
+- **[entrance](/word/entrance/)**：建物や部屋への「入り口」全体を指す
 
 doorは開閉できる板状の部分、entranceは出入りする場所全体を指します。
 
@@ -105,14 +105,14 @@ doorは開閉できる板状の部分、entranceは出入りする場所全体�
 
 ## 🧩 あわせて覚えたい
 
-- [window](/word/window)：窓
-- [gate](/word/gate)：門
+- [window](/word/window/)：窓
+- [gate](/word/gate/)：門
 
 ---
 
 ## 📖 できればこれも
 
-- [room](/word/room)：部屋
-- [floor](/word/floor)：床、階
+- [room](/word/room/)：部屋
+- [floor](/word/floor/)：床、階
 
 <!-- cvid: aid01_bid47 -->

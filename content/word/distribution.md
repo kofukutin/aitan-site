@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や案内文、メールなどで「流通」
 ## 🤔  allocation との違いは？
 
 - **distribution**：物や情報を広く分けて届けること、流通や配布の全体的な動きに重点。
-- **[allocation](/word/allocation)**：資源や予算などを特定の目的や場所に割り当てること。
+- **[allocation](/word/allocation/)**：資源や予算などを特定の目的や場所に割り当てること。
 
 distributionは「広く行き渡らせる」ニュアンスがあり、allocationは「割り当てる」「配分する」など、より計画的・限定的な分配を指します。
 
@@ -105,14 +105,14 @@ distributionは「広く行き渡らせる」ニュアンスがあり、allocati
 
 ## 🧩 あわせて覚えたい
 
-- [delivery](/word/delivery)：配達、配送
-- [supply](/word/supply)：供給、支給
+- [delivery](/word/delivery/)：配達、配送
+- [supply](/word/supply/)：供給、支給
 
 ---
 
 ## 📖 できればこれも
 
-- [shipment](/word/shipment)：発送、出荷
-- [circulation](/word/circulation)：流通、循環
+- [shipment](/word/shipment/)：発送、出荷
+- [circulation](/word/circulation/)：流通、循環
 
 <!-- cvid: aid10_bid13 -->

@@ -97,7 +97,7 @@ TOEICでは主に説明文やビジネス文書で、数量や時間を示す際
 ## 🤔  roughly との違いは？
 
 - **approximately**：フォーマルで、数字や時間などを「おおよそ」と丁寧に表現する
-- **[roughly](/word/roughly)**：カジュアルで、ざっくりと「だいたい」と伝える
+- **[roughly](/word/roughly/)**：カジュアルで、ざっくりと「だいたい」と伝える
 
 「approximately」はビジネスや公式な場面で使われやすく、「roughly」は日常会話などでラフに使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主に説明文やビジネス文書で、数量や時間を示す際
 
 ## 🧩 あわせて覚えたい
 
-- [about](/word/about)：約、おおよそ
-- [exactly](/word/exactly)：正確に、ぴったり
+- [about](/word/about/)：約、おおよそ
+- [exactly](/word/exactly/)：正確に、ぴったり
 
 ---
 
 ## 📖 できればこれも
 
-- [estimate](/word/estimate)：見積もる、推定する
-- [nearly](/word/nearly)：ほとんど、ほぼ
+- [estimate](/word/estimate/)：見積もる、推定する
+- [nearly](/word/nearly/)：ほとんど、ほぼ
 
 <!-- cvid: aid04_bid13 -->

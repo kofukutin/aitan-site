@@ -97,7 +97,7 @@ TOEICでは、retainedは主に文法問題やビジネス文脈で「保持す�
 ## 🤔  kept との違いは？
 
 - **retained**：フォーマルで「維持する」「保持する」の意味。特に意図的に残すニュアンスが強い。
-- **[kept](/word/kept)**：よりカジュアルで「持ち続ける」「保管する」など広い意味で使われる。
+- **[kept](/word/kept/)**：よりカジュアルで「持ち続ける」「保管する」など広い意味で使われる。
 
 retainedはビジネスや公式文書でよく使われ、keptは日常的な「持っている」「取っておく」に幅広く使われます。
 
@@ -105,14 +105,14 @@ retainedはビジネスや公式文書でよく使われ、keptは日常的な�
 
 ## 🧩 あわせて覚えたい
 
-- [preserve](/word/preserve)：保存する、守る
-- [dismiss](/word/dismiss)：解雇する、退ける
+- [preserve](/word/preserve/)：保存する、守る
+- [dismiss](/word/dismiss/)：解雇する、退ける
 
 ---
 
 ## 📖 できればこれも
 
-- [maintain](/word/maintain)：維持する、保つ
-- [store](/word/store)：保管する、蓄える
+- [maintain](/word/maintain/)：維持する、保つ
+- [store](/word/store/)：保管する、蓄える
 
 <!-- cvid: aid17_bid49 -->

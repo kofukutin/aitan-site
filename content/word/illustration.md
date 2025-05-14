@@ -97,7 +97,7 @@ TOEICでは、説明文やマニュアル、広告などで「図解」や「イ
 ## 🤔  example との違いは？
 
 - **illustration**：図やイラスト、または具体的な例で説明すること
-- **[example](/word/example)**：一般的な「例」や「実例」
+- **[example](/word/example/)**：一般的な「例」や「実例」
 
 illustrationは視覚的な図や絵、または説明のための具体例を指し、exampleは単なる「例」や「サンプル」を意味します。
 
@@ -105,14 +105,14 @@ illustrationは視覚的な図や絵、または説明のための具体例を�
 
 ## 🧩 あわせて覚えたい
 
-- [diagram](/word/diagram)：図、図表
-- [explanation](/word/explanation)：説明
+- [diagram](/word/diagram/)：図、図表
+- [explanation](/word/explanation/)：説明
 
 ---
 
 ## 📖 できればこれも
 
-- [description](/word/description)：説明、記述
-- [figure](/word/figure)：図、図形
+- [description](/word/description/)：説明、記述
+- [figure](/word/figure/)：図、図形
 
 <!-- cvid: aid19_bid16 -->

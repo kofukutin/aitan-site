@@ -97,7 +97,7 @@ TOEICでは、受動態や過去分詞の形容詞的用法として「returned 
 ## 🤔  refunded との違いは？
 
 - **returned**：返却された、元に戻された状態を表す
-- **[refunded](/word/refunded)**：返金された、お金が戻された状態を表す
+- **[refunded](/word/refunded/)**：返金された、お金が戻された状態を表す
 
 「returned」は物や書類が元に戻ること、「refunded」は支払ったお金が戻ることを指します。
 
@@ -105,14 +105,14 @@ TOEICでは、受動態や過去分詞の形容詞的用法として「returned 
 
 ## 🧩 あわせて覚えたい
 
-- [exchange](/word/exchange)：交換する、交換
-- [receive](/word/receive)：受け取る
+- [exchange](/word/exchange/)：交換する、交換
+- [receive](/word/receive/)：受け取る
 
 ---
 
 ## 📖 できればこれも
 
-- [damaged](/word/damaged)：損傷した
-- [shipped](/word/shipped)：発送された
+- [damaged](/word/damaged/)：損傷した
+- [shipped](/word/shipped/)：発送された
 
 <!-- cvid: aid38_bid40 -->

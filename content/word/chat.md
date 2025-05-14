@@ -99,7 +99,7 @@ TOEICでは、日常的な会話やIT関連の文脈で「chat」が登場する
 ## 🤔  talk との違いは？
 
 - **chat**：気軽でカジュアルな雑談やおしゃべりを指す
-- **[talk](/word/talk)**：内容や目的を問わず「話す」「会話する」全般に使える
+- **[talk](/word/talk/)**：内容や目的を問わず「話す」「会話する」全般に使える
 
 「chat」は友達同士の軽い会話やオンラインのやりとりに使い、「talk」はより広い場面で使えます。
 
@@ -107,14 +107,14 @@ TOEICでは、日常的な会話やIT関連の文脈で「chat」が登場する
 
 ## 🧩 あわせて覚えたい
 
-- [discuss](/word/discuss)：議論する、話し合う
-- [converse](/word/converse)：（ややフォーマルに）会話する
+- [discuss](/word/discuss/)：議論する、話し合う
+- [converse](/word/converse/)：（ややフォーマルに）会話する
 
 ---
 
 ## 📖 できればこれも
 
-- [message](/word/message)：メッセージを送る
-- [call](/word/call)：電話をかける
+- [message](/word/message/)：メッセージを送る
+- [call](/word/call/)：電話をかける
 
 <!-- cvid: aid40_bid31 -->

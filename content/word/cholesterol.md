@@ -97,7 +97,7 @@ TOEICでは健康や医療に関する長文や記事、説明文で登場する
 ## 🤔  fat との違いは？
 
 - **cholesterol**：血液や細胞内に存在する脂質の一種で、主に健康診断や医療の文脈で使われる。
-- **[fat](/word/fat)**：一般的な「脂肪」で、体内に蓄積されるエネルギー源や食品中の脂質全般を指す。
+- **[fat](/word/fat/)**：一般的な「脂肪」で、体内に蓄積されるエネルギー源や食品中の脂質全般を指す。
 
 cholesterolは体内の脂質の一種で、特に健康診断や血液検査で注目されますが、fatは体に蓄積される脂肪や食品中の脂質全般を指します。
 
@@ -105,14 +105,14 @@ cholesterolは体内の脂質の一種で、特に健康診断や血液検査で
 
 ## 🧩 あわせて覚えたい
 
-- [triglyceride](/word/triglyceride)：中性脂肪
-- [artery](/word/artery)：動脈
+- [triglyceride](/word/triglyceride/)：中性脂肪
+- [artery](/word/artery/)：動脈
 
 ---
 
 ## 📖 できればこれも
 
-- [protein](/word/protein)：たんぱく質
-- [vitamin](/word/vitamin)：ビタミン
+- [protein](/word/protein/)：たんぱく質
+- [vitamin](/word/vitamin/)：ビタミン
 
 <!-- cvid: aid31_bid00 -->

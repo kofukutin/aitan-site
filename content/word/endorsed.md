@@ -97,7 +97,7 @@ TOEICのPart 7で、書類や提案、契約書などが「endorsed（承認さ�
 ## 🤔  approved との違いは？
 
 - **endorsed**：公式に支持・承認された（特に権威ある立場からの支持を強調）
-- **[approved](/word/approved)**：一般的に承認された、許可された
+- **[approved](/word/approved/)**：一般的に承認された、許可された
 
 「endorsed」は特定の人物や団体が積極的に支持・推薦したニュアンスが強く、「approved」は単に許可・承認されたという意味で使われます。
 
@@ -105,14 +105,14 @@ TOEICのPart 7で、書類や提案、契約書などが「endorsed（承認さ�
 
 ## 🧩 あわせて覚えたい
 
-- [rejected](/word/rejected)：却下された
-- [authorized](/word/authorized)：権限を与えられた、認可された
+- [rejected](/word/rejected/)：却下された
+- [authorized](/word/authorized/)：権限を与えられた、認可された
 
 ---
 
 ## 📖 できればこれも
 
-- [confirmed](/word/confirmed)：確認された、確定した
-- [recommended](/word/recommended)：推薦された
+- [confirmed](/word/confirmed/)：確認された、確定した
+- [recommended](/word/recommended/)：推薦された
 
 <!-- cvid: aid35_bid01 -->

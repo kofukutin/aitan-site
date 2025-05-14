@@ -96,7 +96,7 @@ TOEICでは主にPart 1の写真描写で「靴ひも」や「レース生地」
 ## 🤔  string との違いは？
 
 - **lace**：装飾的なレース布や靴ひもなど、用途や素材に特徴がある
-- **[string](/word/string)**：単なる「ひも」や「糸」で、装飾性は問わない
+- **[string](/word/string/)**：単なる「ひも」や「糸」で、装飾性は問わない
 
 laceは装飾や特定の用途（靴ひも・衣服のレース）に使われ、stringは一般的な「ひも」として幅広く使われます。
 
@@ -104,14 +104,14 @@ laceは装飾や特定の用途（靴ひも・衣服のレース）に使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [ribbon](/word/ribbon)：リボン、飾り用の帯状の布
-- [cord](/word/cord)：太めのひも、コード
+- [ribbon](/word/ribbon/)：リボン、飾り用の帯状の布
+- [cord](/word/cord/)：太めのひも、コード
 
 ---
 
 ## 📖 できればこれも
 
-- [fabric](/word/fabric)：布地、織物
-- [thread](/word/thread)：糸
+- [fabric](/word/fabric/)：布地、織物
+- [thread](/word/thread/)：糸
 
 <!-- cvid: aid14_bid25 -->

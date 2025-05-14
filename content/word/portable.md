@@ -97,7 +97,7 @@ TOEICでは、電子機器やビジネス用品の説明文で「portable」が�
 ## 🤔  mobile との違いは？
 
 - **portable**：持ち運びができる、携帯用の（物理的に移動できることを強調）
-- **[mobile](/word/mobile)**：移動できる、可動式の（移動性や動きやすさを強調）
+- **[mobile](/word/mobile/)**：移動できる、可動式の（移動性や動きやすさを強調）
 
 「portable」は主に持ち運びやすさや軽さに焦点を当て、「mobile」は移動できる性質や可動性に重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは、電子機器やビジネス用品の説明文で「portable」が�
 
 ## 🧩 あわせて覚えたい
 
-- [compact](/word/compact)：小型の、コンパクトな
-- [handy](/word/handy)：便利な、手軽な
+- [compact](/word/compact/)：小型の、コンパクトな
+- [handy](/word/handy/)：便利な、手軽な
 
 ---
 
 ## 📖 できればこれも
 
-- [convenient](/word/convenient)：便利な
-- [light](/word/light)：軽い
+- [convenient](/word/convenient/)：便利な
+- [light](/word/light/)：軽い
 
 <!-- cvid: aid07_bid21 -->

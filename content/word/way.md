@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「方法」「道順」などの意味で頻出
 ## 🤔  method との違いは？
 
 - **way**：日常的で幅広く使える「方法」「やり方」「道」
-- **[method](/word/method)**：体系的・論理的な「方法」「手法」
+- **[method](/word/method/)**：体系的・論理的な「方法」「手法」
 
 **way**はカジュアルで柔軟な「やり方」全般に使い、**method**は科学的・計画的な「手法」に限定されることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「方法」「道順」などの意味で頻出
 
 ## 🧩 あわせて覚えたい
 
-- [route](/word/route)：経路、道筋
-- [approach](/word/approach)：取り組み方、アプローチ
+- [route](/word/route/)：経路、道筋
+- [approach](/word/approach/)：取り組み方、アプローチ
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/word/plan)：計画
-- [means](/word/means)：手段
+- [plan](/word/plan/)：計画
+- [means](/word/means/)：手段
 
 <!-- cvid: aid00_bid09 -->

@@ -97,7 +97,7 @@ TOEICでは比較級の文法問題や、数値・レベルの比較を問う場
 ## 🤔  taller との違いは？
 
 - **higher**：高さ・レベル・数値など「より高い」全般に使う
-- **[taller](/word/taller)**：人や物の「背が高い」など、主に縦方向の長さに使う
+- **[taller](/word/taller/)**：人や物の「背が高い」など、主に縦方向の長さに使う
 
 higherは抽象的な高さやレベルにも使えますが、tallerは主に人や物の物理的な「背の高さ」に限定されます。
 
@@ -105,14 +105,14 @@ higherは抽象的な高さやレベルにも使えますが、tallerは主に�
 
 ## 🧩 あわせて覚えたい
 
-- [lower](/word/lower)：より低い
-- [increase](/word/increase)：増加する
+- [lower](/word/lower/)：より低い
+- [increase](/word/increase/)：増加する
 
 ---
 
 ## 📖 できればこれも
 
-- [deeper](/word/deeper)：より深い
-- [broader](/word/broader)：より広い
+- [deeper](/word/deeper/)：より深い
+- [broader](/word/broader/)：より広い
 
 <!-- cvid: aid48_bid26 -->

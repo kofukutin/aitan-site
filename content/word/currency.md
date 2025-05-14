@@ -97,7 +97,7 @@ currencyは、金融や国際取引、旅行に関する長文や説明文でよ
 ## 🤔  money との違いは？
 
 - **currency**：国や地域で公式に使われる「通貨」（円・ドルなど）を指す
-- **[money](/word/money)**：広く「お金」全般を指し、通貨以外も含む
+- **[money](/word/money/)**：広く「お金」全般を指し、通貨以外も含む
 
 currencyは「通貨の種類」に焦点があり、moneyは「お金」そのものや財産全般を表します。
 
@@ -105,14 +105,14 @@ currencyは「通貨の種類」に焦点があり、moneyは「お金」その�
 
 ## 🧩 あわせて覚えたい
 
-- [exchange](/word/exchange)：交換、両替
-- [coin](/word/coin)：硬貨
+- [exchange](/word/exchange/)：交換、両替
+- [coin](/word/coin/)：硬貨
 
 ---
 
 ## 📖 できればこれも
 
-- [deposit](/word/deposit)：預金、預け入れ
-- [account](/word/account)：口座
+- [deposit](/word/deposit/)：預金、預け入れ
+- [account](/word/account/)：口座
 
 <!-- cvid: aid04_bid19 -->

@@ -97,7 +97,7 @@ TOEICでは、会社や人物の「経歴」や「履歴」、または歴史的
 ## 🤔  record との違いは？
 
 - **history**：過去の出来事の流れや背景全体を指す
-- **[record](/word/record)**：出来事やデータを記録したもの、証拠として残すもの
+- **[record](/word/record/)**：出来事やデータを記録したもの、証拠として残すもの
 
 historyは「全体の流れ」や「背景」を表し、recordは「個別の記録」や「証拠」として残す点が異なります。
 
@@ -105,14 +105,14 @@ historyは「全体の流れ」や「背景」を表し、recordは「個別の�
 
 ## 🧩 あわせて覚えたい
 
-- [chronicle](/word/chronicle)：年代記、出来事を年代順に記した記録
-- [biography](/word/biography)：伝記、人物の生涯を記したもの
+- [chronicle](/word/chronicle/)：年代記、出来事を年代順に記した記録
+- [biography](/word/biography/)：伝記、人物の生涯を記したもの
 
 ---
 
 ## 📖 できればこれも
 
-- [event](/word/event)：出来事、行事
-- [story](/word/story)：物語、話
+- [event](/word/event/)：出来事、行事
+- [story](/word/story/)：物語、話
 
 <!-- cvid: aid24_bid39 -->

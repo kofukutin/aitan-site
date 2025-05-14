@@ -97,7 +97,7 @@ TOEICでは、プレゼンや発表、成果を伝える場面で「proudly」�
 ## 🤔  confidently との違いは？
 
 - **proudly**：誇りや達成感を持って堂々と行動する様子
-- **[confidently](/word/confidently)**：自信を持って、ためらいなく行動する様子
+- **[confidently](/word/confidently/)**：自信を持って、ためらいなく行動する様子
 
 proudlyは「誇り」や「達成感」に焦点があり、confidentlyは「自信」や「確信」に重点があります。
 
@@ -105,14 +105,14 @@ proudlyは「誇り」や「達成感」に焦点があり、confidentlyは「�
 
 ## 🧩 あわせて覚えたい
 
-- [humbly](/word/humbly)：謙虚に
-- [modestly](/word/modestly)：控えめに
+- [humbly](/word/humbly/)：謙虚に
+- [modestly](/word/modestly/)：控えめに
 
 ---
 
 ## 📖 できればこれも
 
-- [successfully](/word/successfully)：うまく、成功して
-- [clearly](/word/clearly)：はっきりと
+- [successfully](/word/successfully/)：うまく、成功して
+- [clearly](/word/clearly/)：はっきりと
 
 <!-- cvid: aid31_bid19 -->

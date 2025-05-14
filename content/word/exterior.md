@@ -97,7 +97,7 @@ TOEICでは建物や製品の説明文、広告、案内文などで「exterior�
 ## 🤔  surface との違いは？
 
 - **exterior**：建物や物の「外部」「外観」など、全体の外側を指すフォーマルな表現。
-- **[surface](/word/surface)**：物の「表面」や「外面」など、触れる部分や見える部分を指す一般的な単語。
+- **[surface](/word/surface/)**：物の「表面」や「外面」など、触れる部分や見える部分を指す一般的な単語。
 
 exteriorは全体の外側や外観を強調し、surfaceは物体の表面や外皮など、より限定的な部分を指します。
 
@@ -105,14 +105,14 @@ exteriorは全体の外側や外観を強調し、surfaceは物体の表面や�
 
 ## 🧩 あわせて覚えたい
 
-- [interior](/word/interior)：内部、内装
-- [facade](/word/facade)：（建物の）正面、外観
+- [interior](/word/interior/)：内部、内装
+- [facade](/word/facade/)：（建物の）正面、外観
 
 ---
 
 ## 📖 できればこれも
 
-- [structure](/word/structure)：構造、建造物
-- [appearance](/word/appearance)：見た目、外観
+- [structure](/word/structure/)：構造、建造物
+- [appearance](/word/appearance/)：見た目、外観
 
 <!-- cvid: aid14_bid21 -->

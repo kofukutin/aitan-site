@@ -97,7 +97,7 @@ TOEICではビジネス文書やメール、案内文などで「国際的な」
 ## 🤔  global との違いは？
 
 - **international**：国と国の間、複数の国が関わることを強調
-- **[global](/word/global)**：地球規模、全世界的な広がりを強調
+- **[global](/word/global/)**：地球規模、全世界的な広がりを強調
 
 **international**は「国際間のやりとり」など国同士の関係に焦点があり、**global**は「世界全体」「地球規模」の広がりを表します。
 
@@ -105,14 +105,14 @@ TOEICではビジネス文書やメール、案内文などで「国際的な」
 
 ## 🧩 あわせて覚えたい
 
-- [domestic](/word/domestic)：国内の
-- [overseas](/word/overseas)：海外の、海外へ
+- [domestic](/word/domestic/)：国内の
+- [overseas](/word/overseas/)：海外の、海外へ
 
 ---
 
 ## 📖 できればこれも
 
-- [national](/word/national)：国の、国家の
-- [local](/word/local)：地域の、地元の
+- [national](/word/national/)：国の、国家の
+- [local](/word/local/)：地域の、地元の
 
 <!-- cvid: aid18_bid07 -->

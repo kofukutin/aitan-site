@@ -97,7 +97,7 @@ TOEICでは科学的な説明やビジネスのトレンド紹介など、やや
 ## 🤔  event との違いは？
 
 - **phenomenon**：観察や分析の対象となる現象・事象（特に科学的・社会的）
-- **[event](/word/event)**：出来事や行事など、特定の出来事全般
+- **[event](/word/event/)**：出来事や行事など、特定の出来事全般
 
 phenomenonは「現象」として客観的に観察されるものに使い、eventは「出来事」や「イベント」など幅広い場面で使います。
 
@@ -105,14 +105,14 @@ phenomenonは「現象」として客観的に観察されるものに使い、e
 
 ## 🧩 あわせて覚えたい
 
-- [occurrence](/word/occurrence)：出来事、発生
-- [anomaly](/word/anomaly)：異常、例外的な現象
+- [occurrence](/word/occurrence/)：出来事、発生
+- [anomaly](/word/anomaly/)：異常、例外的な現象
 
 ---
 
 ## 📖 できればこれも
 
-- [hypothesis](/word/hypothesis)：仮説
-- [theory](/word/theory)：理論
+- [hypothesis](/word/hypothesis/)：仮説
+- [theory](/word/theory/)：理論
 
 <!-- cvid: aid03_bid27 -->

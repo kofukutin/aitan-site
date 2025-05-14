@@ -97,7 +97,7 @@ spareはTOEICの会話パートで「予備の」「余分の」といった意�
 ## 🤔  extra との違いは？
 
 - **spare**：必要なときのために取っておく「予備の」「余分の」
-- **[extra](/word/extra)**：通常より多い「追加の」「余分の」
+- **[extra](/word/extra/)**：通常より多い「追加の」「余分の」
 
 spareは「予備」として取っておくニュアンスが強く、extraは「追加で余分にある」ことを表します。
 
@@ -105,14 +105,14 @@ spareは「予備」として取っておくニュアンスが強く、extraは�
 
 ## 🧩 あわせて覚えたい
 
-- [reserve](/word/reserve)：予備、蓄え
-- [available](/word/available)：利用できる、手が空いている
+- [reserve](/word/reserve/)：予備、蓄え
+- [available](/word/available/)：利用できる、手が空いている
 
 ---
 
 ## 📖 できればこれも
 
-- [empty](/word/empty)：空の、空いている
-- [free](/word/free)：自由な、空いている
+- [empty](/word/empty/)：空の、空いている
+- [free](/word/free/)：自由な、空いている
 
 <!-- cvid: aid33_bid24 -->

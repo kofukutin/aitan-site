@@ -98,7 +98,7 @@ triggerはITやビジネスの文脈で「引き起こす」という意味で�
 ## 🤔  cause との違いは？
 
 - **trigger**：何かのきっかけや刺激によって出来事や反応を引き起こすニュアンス
-- **[cause](/word/cause)**：より広く「原因となる」「引き起こす」という意味
+- **[cause](/word/cause/)**：より広く「原因となる」「引き起こす」という意味
 
 triggerは「きっかけ」や「引き金」として使われ、causeは単純に「原因」として使われることが多いです。
 
@@ -106,14 +106,14 @@ triggerは「きっかけ」や「引き金」として使われ、causeは単�
 
 ## 🧩 あわせて覚えたい
 
-- [initiate](/word/initiate)：開始する、始める
-- [prevent](/word/prevent)：防ぐ、妨げる
+- [initiate](/word/initiate/)：開始する、始める
+- [prevent](/word/prevent/)：防ぐ、妨げる
 
 ---
 
 ## 📖 できればこれも
 
-- [activate](/word/activate)：作動させる、有効にする
-- [affect](/word/affect)：影響を与える
+- [activate](/word/activate/)：作動させる、有効にする
+- [affect](/word/affect/)：影響を与える
 
 <!-- cvid: aid04_bid29 -->

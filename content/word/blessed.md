@@ -97,7 +97,7 @@ TOEICでは、感謝やポジティブな状況を表す文脈で形容詞とし
 ## 🤔  fortunate との違いは？
 
 - **blessed**：神や運命などから恵まれている、ありがたいと感じる
-- **[fortunate](/word/fortunate)**：偶然や運によって幸運な
+- **[fortunate](/word/fortunate/)**：偶然や運によって幸運な
 
 blessedは「感謝」や「神聖さ」を含むニュアンスがあり、fortunateは単に「運が良い」という意味で使われます。
 
@@ -105,14 +105,14 @@ blessedは「感謝」や「神聖さ」を含むニュアンスがあり、fort
 
 ## 🧩 あわせて覚えたい
 
-- [grateful](/word/grateful)：感謝している
-- [holy](/word/holy)：神聖な
+- [grateful](/word/grateful/)：感謝している
+- [holy](/word/holy/)：神聖な
 
 ---
 
 ## 📖 できればこれも
 
-- [thankful](/word/thankful)：ありがたく思う
-- [lucky](/word/lucky)：運が良い
+- [thankful](/word/thankful/)：ありがたく思う
+- [lucky](/word/lucky/)：運が良い
 
 <!-- cvid: aid18_bid43 -->

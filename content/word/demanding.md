@@ -97,7 +97,7 @@ TOEICでは、仕事や上司、タスクの難しさを表現する文脈で頻
 ## 🤔  challenging との違いは？
 
 - **demanding**：要求が多く、負担やストレスが大きいニュアンス
-- **[challenging](/word/challenging)**：やりがいがあり、困難だが前向きな印象
+- **[challenging](/word/challenging/)**：やりがいがあり、困難だが前向きな印象
 
 demandingは「大変で疲れる」印象が強く、challengingは「成長できる前向きな困難」を表します。
 
@@ -105,14 +105,14 @@ demandingは「大変で疲れる」印象が強く、challengingは「成長で
 
 ## 🧩 あわせて覚えたい
 
-- [strict](/word/strict)：厳格な、厳しい
-- [exacting](/word/exacting)：厳しい要求をする、厳格な
+- [strict](/word/strict/)：厳格な、厳しい
+- [exacting](/word/exacting/)：厳しい要求をする、厳格な
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [productive](/word/productive)：生産的な
+- [efficient](/word/efficient/)：効率的な
+- [productive](/word/productive/)：生産的な
 
 <!-- cvid: aid04_bid07 -->

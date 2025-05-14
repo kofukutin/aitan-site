@@ -97,7 +97,7 @@ TOEICでは、ホテルやイベント、旅行、日常会話のシーンで「
 ## 🤔  marriage との違いは？
 
 - **wedding**：結婚式というイベントや儀式そのもの
-- **[marriage](/word/marriage)**：結婚という状態や結婚生活
+- **[marriage](/word/marriage/)**：結婚という状態や結婚生活
 
 「wedding」は一度きりの式やパーティーを指し、「marriage」はその後の結婚生活や関係を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、ホテルやイベント、旅行、日常会話のシーンで「
 
 ## 🧩 あわせて覚えたい
 
-- [ceremony](/word/ceremony)：式典、儀式
-- [anniversary](/word/anniversary)：記念日
+- [ceremony](/word/ceremony/)：式典、儀式
+- [anniversary](/word/anniversary/)：記念日
 
 ---
 
 ## 📖 できればこれも
 
-- [party](/word/party)：パーティー、集まり
-- [event](/word/event)：イベント、出来事
+- [party](/word/party/)：パーティー、集まり
+- [event](/word/event/)：イベント、出来事
 
 <!-- cvid: aid10_bid47 -->

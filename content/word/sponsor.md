@@ -97,7 +97,7 @@ TOEICでは、イベントやプロジェクトの案内文・広告・メール
 ## 🤔  patron との違いは？
 
 - **sponsor**：主に資金や物品を提供してイベントや活動を支援する人・企業
-- **[patron](/word/patron)**：芸術・文化・団体などを継続的に支援する後援者
+- **[patron](/word/patron/)**：芸術・文化・団体などを継続的に支援する後援者
 
 sponsorは特定のイベントやプロジェクトへの支援に使われ、patronは長期的・文化的な支援者に使われることが多いです。
 
@@ -105,14 +105,14 @@ sponsorは特定のイベントやプロジェクトへの支援に使われ、p
 
 ## 🧩 あわせて覚えたい
 
-- [donor](/word/donor)：寄付者、提供者
-- [supporter](/word/supporter)：支援者、応援者
+- [donor](/word/donor/)：寄付者、提供者
+- [supporter](/word/supporter/)：支援者、応援者
 
 ---
 
 ## 📖 できればこれも
 
-- [fund](/word/fund)：資金、基金
-- [advertiser](/word/advertiser)：広告主
+- [fund](/word/fund/)：資金、基金
+- [advertiser](/word/advertiser/)：広告主
 
 <!-- cvid: aid15_bid44 -->

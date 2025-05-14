@@ -97,7 +97,7 @@ TOEICでは、国際関係や歴史、法律に関する長文や記事で見か
 ## 🤔  federation との違いは？
 
 - **commonwealth**：共通の利益や歴史的なつながりを持つ国家や共同体を指すことが多い。
-- **[federation](/word/federation)**：複数の州や国が統一された政府のもとに連合する仕組みを指す。
+- **[federation](/word/federation/)**：複数の州や国が統一された政府のもとに連合する仕組みを指す。
 
 commonwealthは歴史的・文化的な結びつきや象徴的な意味合いが強く、federationは政治的・制度的な連合体を指します。
 
@@ -105,14 +105,14 @@ commonwealthは歴史的・文化的な結びつきや象徴的な意味合い�
 
 ## 🧩 あわせて覚えたい
 
-- [republic](/word/republic)：共和国、国民が主権を持つ国家
-- [colony](/word/colony)：植民地、他国に支配されている地域
+- [republic](/word/republic/)：共和国、国民が主権を持つ国家
+- [colony](/word/colony/)：植民地、他国に支配されている地域
 
 ---
 
 ## 📖 できればこれも
 
-- [constitution](/word/constitution)：憲法、基本法
-- [sovereignty](/word/sovereignty)：主権、国家の独立権
+- [constitution](/word/constitution/)：憲法、基本法
+- [sovereignty](/word/sovereignty/)：主権、国家の独立権
 
 <!-- cvid: aid16_bid06 -->

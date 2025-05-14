@@ -97,7 +97,7 @@ TOEICではプレゼンや会議、イベントの場面で「audience」がよ�
 ## 🤔  spectator との違いは？
 
 - **audience**：舞台や講演、テレビなどを「聞いたり見たりする」聴衆・観客の集団
-- **[spectator](/word/spectator)**：スポーツやイベントなどを「見る」観客
+- **[spectator](/word/spectator/)**：スポーツやイベントなどを「見る」観客
 
 audienceは「聞く・見る」両方に使え、フォーマルな場面や室内イベントでよく使われます。spectatorは主にスポーツや屋外イベントの「見る」観客に使われます。
 
@@ -105,14 +105,14 @@ audienceは「聞く・見る」両方に使え、フォーマルな場面や室
 
 ## 🧩 あわせて覚えたい
 
-- [listener](/word/listener)：聞き手
-- [participant](/word/participant)：参加者
+- [listener](/word/listener/)：聞き手
+- [participant](/word/participant/)：参加者
 
 ---
 
 ## 📖 できればこれも
 
-- [presentation](/word/presentation)：プレゼンテーション
-- [lecture](/word/lecture)：講義
+- [presentation](/word/presentation/)：プレゼンテーション
+- [lecture](/word/lecture/)：講義
 
 <!-- cvid: aid25_bid25 -->

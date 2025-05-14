@@ -97,7 +97,7 @@ spiritualは、TOEICの長文読解（Part 7）で、価値観や自己啓発、
 ## 🤔  religious との違いは？
 
 - **spiritual**：宗教に限らず、心や魂、精神的な側面全般を指す
-- **[religious](/word/religious)**：宗教や信仰に直接関係する
+- **[religious](/word/religious/)**：宗教や信仰に直接関係する
 
 spiritualは宗教に限らず広く精神的なことを指しますが、religiousは宗教や信仰そのものに関わる場合に使います。
 
@@ -105,14 +105,14 @@ spiritualは宗教に限らず広く精神的なことを指しますが、relig
 
 ## 🧩 あわせて覚えたい
 
-- [mental](/word/mental)：精神の、心の
-- [physical](/word/physical)：身体の、物理的な
+- [mental](/word/mental/)：精神の、心の
+- [physical](/word/physical/)：身体の、物理的な
 
 ---
 
 ## 📖 できればこれも
 
-- [emotional](/word/emotional)：感情の、感情的な
-- [cultural](/word/cultural)：文化の、文化的な
+- [emotional](/word/emotional/)：感情の、感情的な
+- [cultural](/word/cultural/)：文化の、文化的な
 
 <!-- cvid: aid16_bid13 -->

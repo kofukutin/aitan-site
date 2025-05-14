@@ -97,7 +97,7 @@ TOEICではPart 5を中心に、ビジネスや教育現場での「課題」「
 ## 🤔  task との違いは？
 
 - **assignment**：与えられた課題や宿題、特定の目的で割り当てられた仕事
-- **[task](/word/task)**：一般的な「作業」「仕事」、大きさや内容は問わない
+- **[task](/word/task/)**：一般的な「作業」「仕事」、大きさや内容は問わない
 
 assignmentは「誰かから与えられた課題」という意味合いが強く、taskは「やるべき作業」全般を指します。
 
@@ -105,14 +105,14 @@ assignmentは「誰かから与えられた課題」という意味合いが強�
 
 ## 🧩 あわせて覚えたい
 
-- [homework](/word/homework)：宿題
-- [project](/word/project)：プロジェクト、研究課題
+- [homework](/word/homework/)：宿題
+- [project](/word/project/)：プロジェクト、研究課題
 
 ---
 
 ## 📖 できればこれも
 
-- [report](/word/report)：レポート、報告書
-- [presentation](/word/presentation)：プレゼンテーション、発表
+- [report](/word/report/)：レポート、報告書
+- [presentation](/word/presentation/)：プレゼンテーション、発表
 
 <!-- cvid: aid23_bid09 -->

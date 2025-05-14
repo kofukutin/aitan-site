@@ -97,7 +97,7 @@ TOEICでは、過去の経験や居住地について話す会話文でよく登
 ## 🤔  experienced との違いは？
 
 - **lived**：住んだ、暮らした、生きた（場所や生活の経験を表す）
-- **[experienced](/word/experienced)**：経験した（出来事やスキルなど幅広い経験を表す）
+- **[experienced](/word/experienced/)**：経験した（出来事やスキルなど幅広い経験を表す）
 
 livedは「どこに住んだか」「どんな生活をしたか」に焦点があり、experiencedは「何を経験したか」という出来事や能力に焦点があります。
 
@@ -105,14 +105,14 @@ livedは「どこに住んだか」「どんな生活をしたか」に焦点が
 
 ## 🧩 あわせて覚えたい
 
-- [reside](/word/reside)：居住する（ややフォーマルな表現）
-- [survive](/word/survive)：生き残る、切り抜ける
+- [reside](/word/reside/)：居住する（ややフォーマルな表現）
+- [survive](/word/survive/)：生き残る、切り抜ける
 
 ---
 
 ## 📖 できればこれも
 
-- [stay](/word/stay)：滞在する
-- [work](/word/work)：働く
+- [stay](/word/stay/)：滞在する
+- [work](/word/work/)：働く
 
 <!-- cvid: aid18_bid34 -->

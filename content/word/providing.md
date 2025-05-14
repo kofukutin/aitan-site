@@ -93,7 +93,7 @@ TOEICでは条件を表す接続詞としてPart 5の文法問題でよく出題
 ## 🤔  if との違いは？
 
 - **providing**：ややフォーマルで「～という条件で」と強調したいときに使う
-- **[if](/word/if)**：最も一般的な「もし～ならば」の接続詞で、カジュアルからフォーマルまで幅広く使う
+- **[if](/word/if/)**：最も一般的な「もし～ならば」の接続詞で、カジュアルからフォーマルまで幅広く使う
 
 providingはifよりも条件を強調したいときや、ビジネス・公式な文書で使われる傾向があります。
 
@@ -101,15 +101,15 @@ providingはifよりも条件を強調したいときや、ビジネス・公式
 
 ## 🧩 あわせて覚えたい
 
-- [unless](/word/unless)：～でない限り
-- [suppose](/word/suppose)：もし～と仮定すると
+- [unless](/word/unless/)：～でない限り
+- [suppose](/word/suppose/)：もし～と仮定すると
 
 ---
 
 ## 📖 できればこれも
 
-- [provided](/word/provided)：もし～ならば（providingと同じ意味で使える）
-- [as long as](/word/as_long_as)：～する限り、～であるなら
+- [provided](/word/provided/)：もし～ならば（providingと同じ意味で使える）
+- [as long as](/word/as_long_as/)：～する限り、～であるなら
 
 
 <!-- cvid: aid09_bid29 -->

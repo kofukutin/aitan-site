@@ -97,7 +97,7 @@ TOEICでは、会議や業務手順に関する文脈で「checklist」が頻出
 ## 🤔  schedule との違いは？
 
 - **checklist**：やるべきことや確認事項をリスト化したもの
-- **[schedule](/word/schedule)**：予定や時間割など、時間に沿った計画表
+- **[schedule](/word/schedule/)**：予定や時間割など、時間に沿った計画表
 
 checklistは「やること・確認事項の一覧」、scheduleは「時間や順序に沿った予定表」という違いがあります。
 
@@ -105,14 +105,14 @@ checklistは「やること・確認事項の一覧」、scheduleは「時間や
 
 ## 🧩 あわせて覚えたい
 
-- [inventory](/word/inventory)：在庫、棚卸し
-- [procedure](/word/procedure)：手順、手続き
+- [inventory](/word/inventory/)：在庫、棚卸し
+- [procedure](/word/procedure/)：手順、手続き
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document)：書類、文書
-- [agenda](/word/agenda)：議題、会議の予定表
+- [document](/word/document/)：書類、文書
+- [agenda](/word/agenda/)：議題、会議の予定表
 
 <!-- cvid: aid03_bid44 -->

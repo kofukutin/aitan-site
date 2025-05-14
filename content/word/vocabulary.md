@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文や説明文で「語彙」や「単語集」と
 ## 🤔  glossary との違いは？
 
 - **vocabulary**：ある言語や分野で使われる単語の集まりや語彙全体
-- **[glossary](/word/glossary)**：特定の本や分野に関する用語集・用語解説リスト
+- **[glossary](/word/glossary/)**：特定の本や分野に関する用語集・用語解説リスト
 
 vocabularyは一般的な語彙全体を指し、glossaryは特定のテーマや本に限定した用語集を指します。
 
@@ -105,14 +105,14 @@ vocabularyは一般的な語彙全体を指し、glossaryは特定のテーマ�
 
 ## 🧩 あわせて覚えたい
 
-- [terminology](/word/terminology)：専門用語
-- [lexicon](/word/lexicon)：辞書、語彙集
+- [terminology](/word/terminology/)：専門用語
+- [lexicon](/word/lexicon/)：辞書、語彙集
 
 ---
 
 ## 📖 できればこれも
 
-- [phrase](/word/phrase)：句、フレーズ
-- [definition](/word/definition)：定義
+- [phrase](/word/phrase/)：句、フレーズ
+- [definition](/word/definition/)：定義
 
 <!-- cvid: aid37_bid14 -->

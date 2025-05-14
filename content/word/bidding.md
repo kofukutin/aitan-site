@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や契約関連の長文で「bidding」が�
 ## 🤔  auction との違いは？
 
 - **bidding**：入札やせりの「行為」や「過程」を指す
-- **[auction](/word/auction)**：入札やせりが行われる「イベント」や「場」を指す
+- **[auction](/word/auction/)**：入札やせりが行われる「イベント」や「場」を指す
 
 biddingは「入札すること」自体を表し、auctionはその入札が行われる「オークション」というイベントや場を指します。
 
@@ -105,14 +105,14 @@ biddingは「入札すること」自体を表し、auctionはその入札が行
 
 ## 🧩 あわせて覚えたい
 
-- [tender](/word/tender)：入札（特に公共事業などの正式な入札）
-- [proposal](/word/proposal)：提案、申し出
+- [tender](/word/tender/)：入札（特に公共事業などの正式な入札）
+- [proposal](/word/proposal/)：提案、申し出
 
 ---
 
 ## 📖 できればこれも
 
-- [bid](/word/bid)：入札する、入札
-- [offer](/word/offer)：申し出、提案
+- [bid](/word/bid/)：入札する、入札
+- [offer](/word/offer/)：申し出、提案
 
 <!-- cvid: aid01_bid47 -->

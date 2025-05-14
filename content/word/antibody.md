@@ -96,7 +96,7 @@ The laboratory is testing for the presence of antibodies in the blood samples.
 ## 🤔  vaccine との違いは？
 
 - **antibody**：体内で作られる「抗体」、異物を攻撃するたんぱく質
-- **[vaccine](/word/vaccine)**：病気の予防のために体外から投与される「ワクチン」
+- **[vaccine](/word/vaccine/)**：病気の予防のために体外から投与される「ワクチン」
 
 antibodyは体の中で自然に作られる防御物質、vaccineは病気を防ぐために注射などで体に入れる薬です。
 
@@ -104,14 +104,14 @@ antibodyは体の中で自然に作られる防御物質、vaccineは病気を�
 
 ## 🧩 あわせて覚えたい
 
-- [antigen](/word/antigen)：抗原（抗体が反応する異物）
-- [immunity](/word/immunity)：免疫（病気に対する抵抗力）
+- [antigen](/word/antigen/)：抗原（抗体が反応する異物）
+- [immunity](/word/immunity/)：免疫（病気に対する抵抗力）
 
 ---
 
 ## 📖 できればこれも
 
-- [virus](/word/virus)：ウイルス（感染症の原因となる微生物）
-- [bacteria](/word/bacteria)：細菌（病気や発酵の原因となる微生物）
+- [virus](/word/virus/)：ウイルス（感染症の原因となる微生物）
+- [bacteria](/word/bacteria/)：細菌（病気や発酵の原因となる微生物）
 
 <!-- cvid: aid26_bid45 -->

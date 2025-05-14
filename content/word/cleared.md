@@ -97,7 +97,7 @@ TOEICでは、会議やビジネスのやりとりで「承認された」「手
 ## 🤔  approved との違いは？
 
 - **cleared**：障害や手続き、審査などを「通過した」「クリアした」ことを強調
-- **[approved](/word/approved)**：公式に「承認された」「認可された」ことを強調
+- **[approved](/word/approved/)**：公式に「承認された」「認可された」ことを強調
 
 「cleared」は障害物や手続きの完了に重点があり、「approved」は権限者による正式な承認に重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは、会議やビジネスのやりとりで「承認された」「手
 
 ## 🧩 あわせて覚えたい
 
-- [authorize](/word/authorize)：権限を与える、許可する
-- [permit](/word/permit)：許可する
+- [authorize](/word/authorize/)：権限を与える、許可する
+- [permit](/word/permit/)：許可する
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/word/confirm)：確認する
-- [process](/word/process)：処理する
+- [confirm](/word/confirm/)：確認する
+- [process](/word/process/)：処理する
 
 <!-- cvid: aid41_bid30 -->

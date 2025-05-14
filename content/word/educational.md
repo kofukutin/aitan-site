@@ -97,7 +97,7 @@ TOEICでは、教育プログラムや研修、セミナーの案内文・説明
 ## 🤔  academic との違いは？
 
 - **educational**：教育に関する、教育的な（実際の教育活動や学びに役立つものに使う）
-- **[academic](/word/academic)**：学問の、学術的な（理論や研究、学校の成績などに使う）
+- **[academic](/word/academic/)**：学問の、学術的な（理論や研究、学校の成績などに使う）
 
 **educational**は実際の教育活動や学びの効果に焦点を当て、**academic**は学問や理論、学校の成績などより形式的・研究的な側面を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、教育プログラムや研修、セミナーの案内文・説明
 
 ## 🧩 あわせて覚えたい
 
-- [instructional](/word/instructional)：指導の、教育の
-- [informative](/word/informative)：有益な、情報を与える
+- [instructional](/word/instructional/)：指導の、教育の
+- [informative](/word/informative/)：有益な、情報を与える
 
 ---
 
 ## 📖 できればこれも
 
-- [educate](/word/educate)：教育する
-- [education](/word/education)：教育
+- [educate](/word/educate/)：教育する
+- [education](/word/education/)：教育
 
 <!-- cvid: aid49_bid38 -->

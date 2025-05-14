@@ -97,7 +97,7 @@ TOEICでは科学や環境に関する長文や記事で登場することが多
 ## 🤔  star との違いは？
 
 - **planet**：恒星の周りを回る天体（惑星）
-- **[star](/word/star)**：自ら光を放つ天体（恒星）
+- **[star](/word/star/)**：自ら光を放つ天体（恒星）
 
 planetは太陽のように自ら光らず、恒星の周りを回る天体を指します。starは自ら光る天体です。
 
@@ -105,14 +105,14 @@ planetは太陽のように自ら光らず、恒星の周りを回る天体を�
 
 ## 🧩 あわせて覚えたい
 
-- [satellite](/word/satellite)：衛星（惑星の周りを回る天体）
-- [galaxy](/word/galaxy)：銀河（多くの星や惑星が集まった巨大な天体集団）
+- [satellite](/word/satellite/)：衛星（惑星の周りを回る天体）
+- [galaxy](/word/galaxy/)：銀河（多くの星や惑星が集まった巨大な天体集団）
 
 ---
 
 ## 📖 できればこれも
 
-- [moon](/word/moon)：月、衛星
-- [universe](/word/universe)：宇宙
+- [moon](/word/moon/)：月、衛星
+- [universe](/word/universe/)：宇宙
 
 <!-- cvid: aid45_bid22 -->

@@ -97,7 +97,7 @@ crudeはTOEICの長文読解や説明文で、特に「crude oil（原油）」�
 ## 🤔  raw との違いは？
 
 - **crude**：加工や洗練がされていない、粗雑な（特に物質やアイデアに使う）
-- **[raw](/word/raw)**：生の、未加工の（特に食材や素材に使う）
+- **[raw](/word/raw/)**：生の、未加工の（特に食材や素材に使う）
 
 crudeは「粗雑さ」や「未完成さ」に焦点があり、rawは「自然のまま」「生の状態」に重点があります。
 
@@ -105,14 +105,14 @@ crudeは「粗雑さ」や「未完成さ」に焦点があり、rawは「自然
 
 ## 🧩 あわせて覚えたい
 
-- [refined](/word/refined)：精製された、洗練された
-- [unpolished](/word/unpolished)：磨かれていない、未完成の
+- [refined](/word/refined/)：精製された、洗練された
+- [unpolished](/word/unpolished/)：磨かれていない、未完成の
 
 ---
 
 ## 📖 できればこれも
 
-- [rough](/word/rough)：ざらざらした、荒い
-- [basic](/word/basic)：基本的な、基礎の
+- [rough](/word/rough/)：ざらざらした、荒い
+- [basic](/word/basic/)：基本的な、基礎の
 
 <!-- cvid: aid35_bid32 -->

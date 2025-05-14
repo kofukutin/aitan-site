@@ -97,7 +97,7 @@ TOEICでは、社会問題や企業の社会的責任（CSR）などの文脈で
 ## 🤔  community との違いは？
 
 - **society**：国や地域など広い範囲の「社会」全体を指す
-- **[community](/word/community)**：地域や趣味など、共通点でつながる「集団」
+- **[community](/word/community/)**：地域や趣味など、共通点でつながる「集団」
 
 societyは大きな枠組みの社会全体、communityは小規模な集団やコミュニティを表します。
 
@@ -105,14 +105,14 @@ societyは大きな枠組みの社会全体、communityは小規模な集団や�
 
 ## 🧩 あわせて覚えたい
 
-- [organization](/word/organization)：組織、団体
-- [culture](/word/culture)：文化
+- [organization](/word/organization/)：組織、団体
+- [culture](/word/culture/)：文化
 
 ---
 
 ## 📖 できればこれも
 
-- [system](/word/system)：制度、仕組み
-- [group](/word/group)：集団、グループ
+- [system](/word/system/)：制度、仕組み
+- [group](/word/group/)：集団、グループ
 
 <!-- cvid: aid36_bid12 -->

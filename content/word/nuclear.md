@@ -97,7 +97,7 @@ TOEICでは、エネルギーや環境、科学技術に関する長文や記事
 ## 🤔  atomic との違いは？
 
 - **nuclear**：核（原子核）や原子力、核兵器など「核」に直接関係することを表す。
-- **[atomic](/word/atomic)**：原子そのものや原子レベルの現象に関することを表す。
+- **[atomic](/word/atomic/)**：原子そのものや原子レベルの現象に関することを表す。
 
 nuclearは「核エネルギー」や「核兵器」など、より大きなスケールや応用面で使われ、atomicは「原子構造」や「原子時計」など科学的・物理的な文脈で使われます。
 
@@ -105,14 +105,14 @@ nuclearは「核エネルギー」や「核兵器」など、より大きなス�
 
 ## 🧩 あわせて覚えたい
 
-- [radiation](/word/radiation)：放射線、放射能
-- [reactor](/word/reactor)：原子炉
+- [radiation](/word/radiation/)：放射線、放射能
+- [reactor](/word/reactor/)：原子炉
 
 ---
 
 ## 📖 できればこれも
 
-- [chemical](/word/chemical)：化学の、化学物質
-- [energy](/word/energy)：エネルギー
+- [chemical](/word/chemical/)：化学の、化学物質
+- [energy](/word/energy/)：エネルギー
 
 <!-- cvid: aid29_bid04 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「ベッド」や「寝ている人」
 ## 🤔  couch との違いは？
 
 - **bed**：寝るための家具、ベッド。
-- **[couch](/word/couch)**：座るための長椅子、ソファ。
+- **[couch](/word/couch/)**：座るための長椅子、ソファ。
 
 bedは主に寝るために使う家具、couchは座るための家具で、リビングなどに置かれます。
 
@@ -105,14 +105,14 @@ bedは主に寝るために使う家具、couchは座るための家具で、リ
 
 ## 🧩 あわせて覚えたい
 
-- [sofa](/word/sofa)：ソファ、長椅子
-- [mattress](/word/mattress)：マットレス、ベッドの上に敷くクッション部分
+- [sofa](/word/sofa/)：ソファ、長椅子
+- [mattress](/word/mattress/)：マットレス、ベッドの上に敷くクッション部分
 
 ---
 
 ## 📖 できればこれも
 
-- [chair](/word/chair)：椅子
-- [table](/word/table)：テーブル、机
+- [chair](/word/chair/)：椅子
+- [table](/word/table/)：テーブル、机
 
 <!-- cvid: aid45_bid06 -->

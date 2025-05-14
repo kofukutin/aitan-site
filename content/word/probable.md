@@ -97,7 +97,7 @@ probableはTOEICの文法・語彙問題（Part 5）で、選択肢の一つと�
 ## 🤔  likely との違いは？
 
 - **probable**：根拠があり「かなり起こりそう」と客観的に判断する時に使うフォーマルな表現
-- **[likely](/word/likely)**：日常的に「起こりそう」と広く使える、ややカジュアルな表現
+- **[likely](/word/likely/)**：日常的に「起こりそう」と広く使える、ややカジュアルな表現
 
 probableは書き言葉やビジネスでよく使われ、likelyは会話でもよく使われます。
 
@@ -105,14 +105,14 @@ probableは書き言葉やビジネスでよく使われ、likelyは会話でも
 
 ## 🧩 あわせて覚えたい
 
-- [possible](/word/possible)：可能性がある
-- [unlikely](/word/unlikely)：起こりそうにない
+- [possible](/word/possible/)：可能性がある
+- [unlikely](/word/unlikely/)：起こりそうにない
 
 ---
 
 ## 📖 できればこれも
 
-- [possible](/word/possible)：可能性がある
-- [certain](/word/certain)：確実な
+- [possible](/word/possible/)：可能性がある
+- [certain](/word/certain/)：確実な
 
 <!-- cvid: aid29_bid29 -->

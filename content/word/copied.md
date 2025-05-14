@@ -97,7 +97,7 @@ TOEICでは主にITやビジネス文書の説明文で、ファイルやデー�
 ## 🤔  duplicated との違いは？
 
 - **copied**：一般的に「そのまま写す」「複製する」ことを幅広く表す
-- **[duplicated](/word/duplicated)**：特に「まったく同じものを2つ以上作る」ニュアンスが強い
+- **[duplicated](/word/duplicated/)**：特に「まったく同じものを2つ以上作る」ニュアンスが強い
 
 copiedは日常的な「コピー」に広く使われますが、duplicatedは「完全な複製」や「二重化」など、より厳密な一致や技術的な場面で使われることが多いです。
 
@@ -105,14 +105,14 @@ copiedは日常的な「コピー」に広く使われますが、duplicatedは�
 
 ## 🧩 あわせて覚えたい
 
-- [paste](/word/paste)：貼り付ける
-- [scan](/word/scan)：スキャンする、読み取る
+- [paste](/word/paste/)：貼り付ける
+- [scan](/word/scan/)：スキャンする、読み取る
 
 ---
 
 ## 📖 できればこれも
 
-- [print](/word/print)：印刷する
-- [save](/word/save)：保存する
+- [print](/word/print/)：印刷する
+- [save](/word/save/)：保存する
 
 <!-- cvid: aid24_bid29 -->

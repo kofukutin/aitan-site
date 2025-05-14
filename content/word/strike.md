@@ -97,7 +97,7 @@ TOEICでは「ストライキをする」「影響を与える」などの意味
 ## 🤔  hit との違いは？
 
 - **strike**：強く意図的に打つ、または影響を与える意味が強い
-- **[hit](/word/hit)**：単に何かに当たる・ぶつかるという意味が中心
+- **[hit](/word/hit/)**：単に何かに当たる・ぶつかるという意味が中心
 
 「strike」は意図的で力強い動作や、抽象的な影響（災害・ストライキ）にも使われますが、「hit」は物理的に当たる場合が多いです。
 
@@ -105,14 +105,14 @@ TOEICでは「ストライキをする」「影響を与える」などの意味
 
 ## 🧩 あわせて覚えたい
 
-- [attack](/word/attack)：攻撃する
-- [protest](/word/protest)：抗議する
+- [attack](/word/attack/)：攻撃する
+- [protest](/word/protest/)：抗議する
 
 ---
 
 ## 📖 できればこれも
 
-- [affect](/word/affect)：影響を与える
-- [deal](/word/deal)：対処する、扱う
+- [affect](/word/affect/)：影響を与える
+- [deal](/word/deal/)：対処する、扱う
 
 <!-- cvid: aid02_bid33 -->

@@ -96,7 +96,7 @@ TOEICではIT関連の説明や製品案内、業務手順の文脈でよく登�
 ## 🤔  application との違いは？
 
 - **software**：コンピュータを動かすためのプログラム全般を指す広い言葉。
-- **[application](/word/application)**：特定の目的のために使う個別のソフトウェア（例：ワープロや表計算ソフト）。
+- **[application](/word/application/)**：特定の目的のために使う個別のソフトウェア（例：ワープロや表計算ソフト）。
 
 softwareは全体を指し、applicationはその中の一部（特定の用途のプログラム）を指します。
 
@@ -104,14 +104,14 @@ softwareは全体を指し、applicationはその中の一部（特定の用途�
 
 ## 🧩 あわせて覚えたい
 
-- [hardware](/word/hardware)：ハードウェア（物理的な機械部分）
-- [program](/word/program)：プログラム（命令の集まり、ソフトウェアの一種）
+- [hardware](/word/hardware/)：ハードウェア（物理的な機械部分）
+- [program](/word/program/)：プログラム（命令の集まり、ソフトウェアの一種）
 
 ---
 
 ## 📖 できればこれも
 
-- [system](/word/system)：システム（複数の要素が組み合わさった仕組み）
-- [device](/word/device)：デバイス（機器、装置）
+- [system](/word/system/)：システム（複数の要素が組み合わさった仕組み）
+- [device](/word/device/)：デバイス（機器、装置）
 
 <!-- cvid: aid40_bid13 -->

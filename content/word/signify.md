@@ -97,7 +97,7 @@ TOEICでは、文章中で「何を意味するか」「何を示すか」を問
 ## 🤔  indicate との違いは？
 
 - **signify**：何かの「意味」や「象徴」を表すときに使う、ややフォーマルな語。
-- **[indicate](/word/indicate)**：事実や情報を「指し示す」「明らかにする」ときに使う、より一般的な語。
+- **[indicate](/word/indicate/)**：事実や情報を「指し示す」「明らかにする」ときに使う、より一般的な語。
 
 signifyは抽象的・象徴的な意味を表すのに対し、indicateは具体的な事実やデータを指し示すときに使われます。
 
@@ -105,14 +105,14 @@ signifyは抽象的・象徴的な意味を表すのに対し、indicateは具�
 
 ## 🧩 あわせて覚えたい
 
-- [imply](/word/imply)：暗に示す、ほのめかす
-- [represent](/word/represent)：表す、代表する
+- [imply](/word/imply/)：暗に示す、ほのめかす
+- [represent](/word/represent/)：表す、代表する
 
 ---
 
 ## 📖 できればこれも
 
-- [demonstrate](/word/demonstrate)：実証する、示す
-- [express](/word/express)：表現する、述べる
+- [demonstrate](/word/demonstrate/)：実証する、示す
+- [express](/word/express/)：表現する、述べる
 
 <!-- cvid: aid08_bid03 -->

@@ -99,7 +99,7 @@ TOEICでは、否定的な意味合いの文脈や、推測・意見を述べる
 ## 🤔  suspect との違いは？
 
 - **doubt**：本当かどうか信じられない、疑う気持ちが強い
-- **[suspect](/word/suspect)**：何かが本当・正しいと「思う」「推測する」ニュアンス
+- **[suspect](/word/suspect/)**：何かが本当・正しいと「思う」「推測する」ニュアンス
 
 doubtは「信じられない・否定的に疑う」気持ち、suspectは「何かが本当だと推測する」前向きな疑いの違いがあります。
 
@@ -107,14 +107,14 @@ doubtは「信じられない・否定的に疑う」気持ち、suspectは「�
 
 ## 🧩 あわせて覚えたい
 
-- [trust](/word/trust)：信じる、信用する
-- [question](/word/question)：質問する、疑問に思う
+- [trust](/word/trust/)：信じる、信用する
+- [question](/word/question/)：質問する、疑問に思う
 
 ---
 
 ## 📖 できればこれも
 
-- [believe](/word/believe)：信じる
-- [wonder](/word/wonder)：～かしらと思う、疑問に思う
+- [believe](/word/believe/)：信じる
+- [wonder](/word/wonder/)：～かしらと思う、疑問に思う
 
 <!-- cvid: aid06_bid07 -->

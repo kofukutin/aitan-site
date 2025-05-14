@@ -96,7 +96,7 @@ TOEICでは健康や衣料、素材に関する説明文や広告で見かける
 ## 🤔  thread との違いは？
 
 - **fiber**：繊維そのものや食物繊維など、細い糸状の物質全般を指す
-- **[thread](/word/thread)**：縫い物などに使う「糸」や、会話・議論の「筋道」を指す
+- **[thread](/word/thread/)**：縫い物などに使う「糸」や、会話・議論の「筋道」を指す
 
 fiberは物質的な「繊維」全般、threadは「糸」や「話の流れ」など用途や比喩的な意味で使い分けます。
 
@@ -104,14 +104,14 @@ fiberは物質的な「繊維」全般、threadは「糸」や「話の流れ」
 
 ## 🧩 あわせて覚えたい
 
-- [fabric](/word/fabric)：布、生地
-- [grain](/word/grain)：粒、穀物
+- [fabric](/word/fabric/)：布、生地
+- [grain](/word/grain/)：粒、穀物
 
 ---
 
 ## 📖 できればこれも
 
-- [material](/word/material)：材料、素材
-- [texture](/word/texture)：手触り、質感
+- [material](/word/material/)：材料、素材
+- [texture](/word/texture/)：手触り、質感
 
 <!-- cvid: aid01_bid30 -->

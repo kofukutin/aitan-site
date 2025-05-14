@@ -93,7 +93,7 @@ TOEICでは会話や説明文で「正確に」「まさにその通り」とい
 ## 🤔  precisely との違いは？
 
 - **exactly**：日常会話でもよく使われ、「まさに」「その通り」と強調したい時に使う。
-- **[precisely](/word/precisely)**：よりフォーマルで、細かい点まで「正確に」と言いたい時に使う。
+- **[precisely](/word/precisely/)**：よりフォーマルで、細かい点まで「正確に」と言いたい時に使う。
 
 「exactly」はカジュアルな場面でも使えますが、「precisely」はフォーマルな文書や専門的な説明で使われることが多いです。
 
@@ -101,14 +101,14 @@ TOEICでは会話や説明文で「正確に」「まさにその通り」とい
 
 ## 🧩 あわせて覚えたい
 
-- [accurately](/word/accurately)：正確に
-- [approximately](/word/approximately)：おおよそ、だいたい
+- [accurately](/word/accurately/)：正確に
+- [approximately](/word/approximately/)：おおよそ、だいたい
 
 ---
 
 ## 📖 できればこれも
 
-- [almost](/word/almost)：ほとんど
-- [completely](/word/completely)：完全に
+- [almost](/word/almost/)：ほとんど
+- [completely](/word/completely/)：完全に
 
 <!-- cvid: aid16_bid28 -->

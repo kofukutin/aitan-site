@@ -97,7 +97,7 @@ TOEICでは、設備やIT関連の説明文やマニュアルで「wiring」が�
 ## 🤔  circuit との違いは？
 
 - **wiring**：建物や機械の中の配線そのものや配線作業を指す
-- **[circuit](/word/circuit)**：電気が流れる回路や経路そのものを指す
+- **[circuit](/word/circuit/)**：電気が流れる回路や経路そのものを指す
 
 wiringは「物理的な配線」、circuitは「電気の流れる経路」として使い分けます。
 
@@ -105,14 +105,14 @@ wiringは「物理的な配線」、circuitは「電気の流れる経路」と�
 
 ## 🧩 あわせて覚えたい
 
-- [installation](/word/installation)：設置、取り付け
-- [connection](/word/connection)：接続
+- [installation](/word/installation/)：設置、取り付け
+- [connection](/word/connection/)：接続
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device)：装置、機器
-- [equipment](/word/equipment)：設備、備品
+- [device](/word/device/)：装置、機器
+- [equipment](/word/equipment/)：設備、備品
 
 <!-- cvid: aid13_bid02 -->

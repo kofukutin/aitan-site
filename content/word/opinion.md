@@ -97,7 +97,7 @@ TOEICでは、メールや記事、アンケートなどで「意見を述べる
 ## 🤔  view との違いは？
 
 - **opinion**：主観的な意見や判断、個人の考えを表す。
-- **[view](/word/view)**：物事の見方や観点、やや客観的な立場や広い視点を表す。
+- **[view](/word/view/)**：物事の見方や観点、やや客観的な立場や広い視点を表す。
 
 opinionは「自分の意見」、viewは「物事の見方・観点」として使い分けます。
 
@@ -105,14 +105,14 @@ opinionは「自分の意見」、viewは「物事の見方・観点」として
 
 ## 🧩 あわせて覚えたい
 
-- [advice](/word/advice)：助言、アドバイス
-- [decision](/word/decision)：決定、判断
+- [advice](/word/advice/)：助言、アドバイス
+- [decision](/word/decision/)：決定、判断
 
 ---
 
 ## 📖 できればこれも
 
-- [suggestion](/word/suggestion)：提案
-- [comment](/word/comment)：コメント、意見
+- [suggestion](/word/suggestion/)：提案
+- [comment](/word/comment/)：コメント、意見
 
 <!-- cvid: aid35_bid44 -->

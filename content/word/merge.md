@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やニュース記事の中で、企業の合
 ## 🤔  combine との違いは？
 
 - **merge**：2つ以上のものが一体化して区別がつかなくなるイメージ
-- **[combine](/word/combine)**：複数のものを単に一緒にする、混ぜ合わせるイメージ
+- **[combine](/word/combine/)**：複数のものを単に一緒にする、混ぜ合わせるイメージ
 
 mergeは「完全に一つになる」ニュアンスが強く、combineは「一緒にする」程度の幅広い使い方ができます。
 
@@ -105,14 +105,14 @@ mergeは「完全に一つになる」ニュアンスが強く、combineは「�
 
 ## 🧩 あわせて覚えたい
 
-- [integrate](/word/integrate)：統合する、組み入れる
-- [separate](/word/separate)：分ける、分離する
+- [integrate](/word/integrate/)：統合する、組み入れる
+- [separate](/word/separate/)：分ける、分離する
 
 ---
 
 ## 📖 できればこれも
 
-- [acquire](/word/acquire)：獲得する、買収する
-- [unite](/word/unite)：団結する、結合する
+- [acquire](/word/acquire/)：獲得する、買収する
+- [unite](/word/unite/)：団結する、結合する
 
 <!-- cvid: aid04_bid46 -->

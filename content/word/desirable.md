@@ -97,7 +97,7 @@ TOEICでは求人広告やビジネス文書で「望ましい条件」を表す
 ## 🤔  preferable との違いは？
 
 - **desirable**：一般的に「望ましい」「魅力的」と感じられるものに使う。
-- **[preferable](/word/preferable)**：複数の選択肢の中で「より好ましい」「むしろ望ましい」と比較して使う。
+- **[preferable](/word/preferable/)**：複数の選択肢の中で「より好ましい」「むしろ望ましい」と比較して使う。
 
 desirableは絶対的な価値や魅力を表し、preferableは比較して「より良い」ことを強調します。
 
@@ -105,14 +105,14 @@ desirableは絶対的な価値や魅力を表し、preferableは比較して「�
 
 ## 🧩 あわせて覚えたい
 
-- [essential](/word/essential)：不可欠な、絶対必要な
-- [attractive](/word/attractive)：魅力的な
+- [essential](/word/essential/)：不可欠な、絶対必要な
+- [attractive](/word/attractive/)：魅力的な
 
 ---
 
 ## 📖 できればこれも
 
-- [qualified](/word/qualified)：資格のある、適任の
-- [suitable](/word/suitable)：適切な、ふさわしい
+- [qualified](/word/qualified/)：資格のある、適任の
+- [suitable](/word/suitable/)：適切な、ふさわしい
 
 <!-- cvid: aid16_bid49 -->

@@ -97,7 +97,7 @@ TOEICでは、福利厚生や施設紹介、従業員向けの案内文などで
 ## 🤔  leisure との違いは？
 
 - **recreation**：積極的に楽しむための活動や気晴らしを指す
-- **[leisure](/word/leisure)**：自由時間や余暇そのものを指し、活動内容は問わない
+- **[leisure](/word/leisure/)**：自由時間や余暇そのものを指し、活動内容は問わない
 
 recreationは「何かをして楽しむ」ことに重点があり、leisureは「自由に使える時間」自体を表します。
 
@@ -105,14 +105,14 @@ recreationは「何かをして楽しむ」ことに重点があり、leisureは
 
 ## 🧩 あわせて覚えたい
 
-- [entertainment](/word/entertainment)：娯楽、エンターテインメント
-- [work](/word/work)：仕事、労働
+- [entertainment](/word/entertainment/)：娯楽、エンターテインメント
+- [work](/word/work/)：仕事、労働
 
 ---
 
 ## 📖 できればこれも
 
-- [activity](/word/activity)：活動、行動
-- [facility](/word/facility)：施設、設備
+- [activity](/word/activity/)：活動、行動
+- [facility](/word/facility/)：施設、設備
 
 <!-- cvid: aid36_bid07 -->

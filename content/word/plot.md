@@ -97,7 +97,7 @@ TOEICでは主に長文読解で、物語や計画、土地の区画などの文
 ## 🤔  plan との違いは？
 
 - **plot**：物語の筋や構成、または土地の区画・計画を指す
-- **[plan](/word/plan)**：目的達成のための具体的な計画や案
+- **[plan](/word/plan/)**：目的達成のための具体的な計画や案
 
 plotは特に物語やストーリーの流れ、または土地の区画に使われ、planは日常的な計画全般に使われます。
 
@@ -105,14 +105,14 @@ plotは特に物語やストーリーの流れ、または土地の区画に使�
 
 ## 🧩 あわせて覚えたい
 
-- [scheme](/word/scheme)：計画、策略
-- [storyline](/word/storyline)：物語の筋
+- [scheme](/word/scheme/)：計画、策略
+- [storyline](/word/storyline/)：物語の筋
 
 ---
 
 ## 📖 できればこれも
 
-- [chart](/word/chart)：図表、グラフ
-- [outline](/word/outline)：概要、要点
+- [chart](/word/chart/)：図表、グラフ
+- [outline](/word/outline/)：概要、要点
 
 <!-- cvid: aid18_bid00 -->

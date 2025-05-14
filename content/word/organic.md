@@ -97,7 +97,7 @@ TOEICでは、食品や製品の広告、説明文、環境に関する記事で
 ## 🤔  natural との違いは？
 
 - **organic**：化学肥料や農薬を使わずに育てられた「有機」のものや、生命体に関するものを指す。
-- **[natural](/word/natural)**：人工的な加工や添加がされていない「自然のまま」のものを指す。
+- **[natural](/word/natural/)**：人工的な加工や添加がされていない「自然のまま」のものを指す。
 
 「organic」は特に農業や食品で「有機認証」など明確な基準がある場合に使われ、「natural」はより広く「自然なもの」全般に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、食品や製品の広告、説明文、環境に関する記事で
 
 ## 🧩 あわせて覚えたい
 
-- [synthetic](/word/synthetic)：合成の、人工的な
-- [biological](/word/biological)：生物学的な、生命に関する
+- [synthetic](/word/synthetic/)：合成の、人工的な
+- [biological](/word/biological/)：生物学的な、生命に関する
 
 ---
 
 ## 📖 できればこれも
 
-- [chemical](/word/chemical)：化学的な、化学物質
-- [ecological](/word/ecological)：生態学的な、環境に関する
+- [chemical](/word/chemical/)：化学的な、化学物質
+- [ecological](/word/ecological/)：生態学的な、環境に関する
 
 <!-- cvid: aid21_bid24 -->

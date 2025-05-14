@@ -97,7 +97,7 @@ TOEICでは、順序や日付、割合を説明する場面でよく出題され
 ## 🤔  quarter との違いは？
 
 - **fourth**：順序や割合で「4番目」「4分の1」を表す。
-- **[quarter](/word/quarter)**：主に「4分の1」や「四半期」を表す。
+- **[quarter](/word/quarter/)**：主に「4分の1」や「四半期」を表す。
 
 fourthは順序や順位にも使えますが、quarterは主に「4分の1」やビジネスの「四半期」に使われます。
 
@@ -105,14 +105,14 @@ fourthは順序や順位にも使えますが、quarterは主に「4分の1」�
 
 ## 🧩 あわせて覚えたい
 
-- [third](/word/third)：3番目、3分の1
-- [fifth](/word/fifth)：5番目、5分の1
+- [third](/word/third/)：3番目、3分の1
+- [fifth](/word/fifth/)：5番目、5分の1
 
 ---
 
 ## 📖 できればこれも
 
-- [second](/word/second)：2番目、2分の1
-- [sixth](/word/sixth)：6番目、6分の1
+- [second](/word/second/)：2番目、2分の1
+- [sixth](/word/sixth/)：6番目、6分の1
 
 <!-- cvid: aid28_bid24 -->

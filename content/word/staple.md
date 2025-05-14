@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や記事で「主要な商品」「必需品」
 ## 🤔  staple food との違いは？
 
 - **staple**：主食や主要な商品、必需品など幅広く使える
-- **[staple food](/word/staple_food)**：特に「主食」を明確に指す表現
+- **[staple food](/word/staple_food/)**：特に「主食」を明確に指す表現
 
 「staple」は食品以外にも使えますが、「staple food」は食べ物の主食に限定されます。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネス文書や記事で「主要な商品」「必需品」
 
 ## 🧩 あわせて覚えたい
 
-- [commodity](/word/commodity)：商品、日用品
-- [necessity](/word/necessity)：必需品、必要なもの
+- [commodity](/word/commodity/)：商品、日用品
+- [necessity](/word/necessity/)：必需品、必要なもの
 
 ---
 
 ## 📖 できればこれも
 
-- [supply](/word/supply)：供給、供給する
-- [stock](/word/stock)：在庫、蓄える
+- [supply](/word/supply/)：供給、供給する
+- [stock](/word/stock/)：在庫、蓄える
 
 <!-- cvid: aid05_bid11 -->

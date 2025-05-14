@@ -97,7 +97,7 @@ TOEICでは主に教育や評価に関する文脈で出題されます。成績
 ## 🤔  score との違いは？
 
 - **grade**：成績や評価、学年など広い意味で使う
-- **[score](/word/score)**：テストや試合の「点数」に特化
+- **[score](/word/score/)**：テストや試合の「点数」に特化
 
 gradeは「A」「B」などの評価や学年にも使えますが、scoreは主に数値の点数を指します。
 
@@ -105,14 +105,14 @@ gradeは「A」「B」などの評価や学年にも使えますが、scoreは�
 
 ## 🧩 あわせて覚えたい
 
-- [mark](/word/mark)：点数、印
-- [rank](/word/rank)：順位、ランク
+- [mark](/word/mark/)：点数、印
+- [rank](/word/rank/)：順位、ランク
 
 ---
 
 ## 📖 できればこれも
 
-- [level](/word/level)：レベル、段階
-- [class](/word/class)：クラス、学級
+- [level](/word/level/)：レベル、段階
+- [class](/word/class/)：クラス、学級
 
 <!-- cvid: aid03_bid06 -->

@@ -105,14 +105,14 @@ presidentは組織の代表や象徴的なリーダーを指すことが多く�
 
 ## 🧩 あわせて覚えたい
 
-- [chairperson](/word/chairperson)：議長、会長
-- [manager](/word/manager)：管理職、マネージャー
+- [chairperson](/word/chairperson/)：議長、会長
+- [manager](/word/manager/)：管理職、マネージャー
 
 ---
 
 ## 📖 できればこれも
 
-- [director](/word/director)：取締役、部長
-- [executive](/word/executive)：重役、幹部
+- [director](/word/director/)：取締役、部長
+- [executive](/word/executive/)：重役、幹部
 
 <!-- cvid: aid14_bid49 -->

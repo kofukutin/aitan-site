@@ -97,7 +97,7 @@ TOEICでは「一時的な対応」や「仮の措置」を説明する文脈で
 ## 🤔  provisionally との違いは？
 
 - **temporarily**：一時的に、期間が限定されていることを強調
-- **[provisionally](/word/provisionally)**：仮に、正式決定までの暫定的な状態
+- **[provisionally](/word/provisionally/)**：仮に、正式決定までの暫定的な状態
 
 temporarilyは「時間的な短さ」に焦点があり、provisionallyは「最終決定前の仮の状態」に重点があります。
 
@@ -105,13 +105,13 @@ temporarilyは「時間的な短さ」に焦点があり、provisionallyは「�
 
 ## 🧩 あわせて覚えたい
 
-- [permanently](/word/permanently)：永久に、ずっと
-- [briefly](/word/briefly)：短時間、少しの間
+- [permanently](/word/permanently/)：永久に、ずっと
+- [briefly](/word/briefly/)：短時間、少しの間
 
 ---
 
 ## 📖 できればこれも
 
-- [occasionally](/word/occasionally)：時々
-- [immediately](/word/immediately)：すぐに
+- [occasionally](/word/occasionally/)：時々
+- [immediately](/word/immediately/)：すぐに
 <!-- cvid: aid24_bid46 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、動物や農場のシーンと
 ## 🤔  sheep との違いは？
 
 - **goat**：角とひげがあり、活発でよく登ったりするヤギ。
-- **[sheep](/word/sheep)**：ふわふわの毛が特徴で、おとなしいヒツジ。
+- **[sheep](/word/sheep/)**：ふわふわの毛が特徴で、おとなしいヒツジ。
 
 goatは角やひげがあり活発な印象、sheepは毛が多くおとなしい印象で、見た目や性格が異なります。
 
@@ -105,14 +105,14 @@ goatは角やひげがあり活発な印象、sheepは毛が多くおとなし�
 
 ## 🧩 あわせて覚えたい
 
-- [cow](/word/cow)：ウシ
-- [horse](/word/horse)：ウマ
+- [cow](/word/cow/)：ウシ
+- [horse](/word/horse/)：ウマ
 
 ---
 
 ## 📖 できればこれも
 
-- [sheep](/word/sheep)：ヒツジ
-- [pig](/word/pig)：ブタ
+- [sheep](/word/sheep/)：ヒツジ
+- [pig](/word/pig/)：ブタ
 
 <!-- cvid: aid18_bid33 -->

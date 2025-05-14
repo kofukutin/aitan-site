@@ -97,7 +97,7 @@ TOEICでは、ITやメディア関連の記事や広告文で「animation」が�
 ## 🤔  cartoon との違いは？
 
 - **animation**：静止画に動きをつけた映像や技術、またはその作品全般
-- **[cartoon](/word/cartoon)**：主に静止画の漫画や風刺画、または短編アニメ作品
+- **[cartoon](/word/cartoon/)**：主に静止画の漫画や風刺画、または短編アニメ作品
 
 animationは「動き」に重点があり、cartoonは「漫画」や「短編アニメ」など静止画やコミカルな作品を指すことが多いです。
 
@@ -105,14 +105,14 @@ animationは「動き」に重点があり、cartoonは「漫画」や「短編�
 
 ## 🧩 あわせて覚えたい
 
-- [illustration](/word/illustration)：イラスト、挿絵
-- [motion](/word/motion)：動き、運動
+- [illustration](/word/illustration/)：イラスト、挿絵
+- [motion](/word/motion/)：動き、運動
 
 ---
 
 ## 📖 できればこれも
 
-- [graphic](/word/graphic)：図、グラフィック
-- [effect](/word/effect)：効果、影響
+- [graphic](/word/graphic/)：図、グラフィック
+- [effect](/word/effect/)：効果、影響
 
 <!-- cvid: aid05_bid13 -->

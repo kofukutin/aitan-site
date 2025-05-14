@@ -98,7 +98,7 @@ TOEICでは会話の流れや過去の出来事を説明する場面でよく出
 ## 🤔  found との違いは？
 
 - **knew**：過去に「知っていた」「分かっていた」ことを表す。
-- **[found](/word/found)**：何かを「見つけた」「発見した」ことを表す。
+- **[found](/word/found/)**：何かを「見つけた」「発見した」ことを表す。
 
 knew は知識や情報を持っていた状態、found は新たに発見した行為を表します。
 
@@ -106,13 +106,13 @@ knew は知識や情報を持っていた状態、found は新たに発見した
 
 ## 🧩 あわせて覚えたい
 
-- [realize](/word/realize)：気づく、悟る
-- [understand](/word/understand)：理解する
+- [realize](/word/realize/)：気づく、悟る
+- [understand](/word/understand/)：理解する
 
 ---
 
 ## 📖 できればこれも
 
-- [think](/word/think)：考える
-- [learn](/word/learn)：学ぶ、知る
+- [think](/word/think/)：考える
+- [learn](/word/learn/)：学ぶ、知る
 <!-- cvid: aid45_bid18 -->

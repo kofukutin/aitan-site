@@ -97,7 +97,7 @@ TOEICでは、手順や出来事の順序を問う文脈で出題されること
 ## 🤔  lead との違いは？
 
 - **precede**：順序や時間的に「前に来る」「先立つ」
-- **[lead](/word/lead)**：導く、率いる、案内する
+- **[lead](/word/lead/)**：導く、率いる、案内する
 
 「precede」は単に順番や時間の前後関係を表し、「lead」は人や物事を導く・指導するニュアンスがあります。
 
@@ -105,14 +105,14 @@ TOEICでは、手順や出来事の順序を問う文脈で出題されること
 
 ## 🧩 あわせて覚えたい
 
-- [follow](/word/follow)：～の後に続く
-- [anticipate](/word/anticipate)：予期する、先回りする
+- [follow](/word/follow/)：～の後に続く
+- [anticipate](/word/anticipate/)：予期する、先回りする
 
 ---
 
 ## 📖 できればこれも
 
-- [succeed](/word/succeed)：～の後に続く、継ぐ
-- [initiate](/word/initiate)：開始する、始める
+- [succeed](/word/succeed/)：～の後に続く、継ぐ
+- [initiate](/word/initiate/)：開始する、始める
 
 <!-- cvid: aid14_bid37 -->

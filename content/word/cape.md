@@ -98,7 +98,7 @@ The hotel offers a stunning view of the cape.
 ## 🤔  peninsula との違いは？
 
 - **cape**：海や湖に細長く突き出した「岬」
-- **[peninsula](/word/peninsula)**：三方を水に囲まれた「半島」
+- **[peninsula](/word/peninsula/)**：三方を水に囲まれた「半島」
 
 「cape」は先端が細く突き出した地形、「peninsula」はより大きく陸地が水に囲まれている地形を指します。
 
@@ -106,14 +106,14 @@ The hotel offers a stunning view of the cape.
 
 ## 🧩 あわせて覚えたい
 
-- [island](/word/island)：島
-- [bay](/word/bay)：湾
+- [island](/word/island/)：島
+- [bay](/word/bay/)：湾
 
 ---
 
 ## 📖 できればこれも
 
-- [coast](/word/coast)：海岸
-- [harbor](/word/harbor)：港
+- [coast](/word/coast/)：海岸
+- [harbor](/word/harbor/)：港
 
 <!-- cvid: aid42_bid00 -->

@@ -98,7 +98,7 @@ TOEICでは「契約の条件」や「機械の状態」など、ビジネス文
 ## 🤔  term との違いは？
 
 - **condition**：状態や契約などの「条件」を幅広く指す
-- **[term](/word/term)**：契約の「期間」や「専門用語」など、より限定的な意味
+- **[term](/word/term/)**：契約の「期間」や「専門用語」など、より限定的な意味
 
 conditionは「状態」や「条件」として広く使われますが、termは「期間」や「用語」など限定的な場面で使われます。
 
@@ -106,15 +106,15 @@ conditionは「状態」や「条件」として広く使われますが、term�
 
 ## 🧩 あわせて覚えたい
 
-- [requirement](/word/requirement)：要求事項、必要条件
-- [circumstance](/word/circumstance)：状況、事情
+- [requirement](/word/requirement/)：要求事項、必要条件
+- [circumstance](/word/circumstance/)：状況、事情
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement)：合意、契約
-- [contract](/word/contract)：契約書、契約
+- [agreement](/word/agreement/)：合意、契約
+- [contract](/word/contract/)：契約書、契約
 
 
 <!-- cvid: aid26_bid09 -->

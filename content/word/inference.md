@@ -97,7 +97,7 @@ TOEICの長文読解問題で、文章から推論を求める設問や、推論
 ## 🤔  deduction との違いは？
 
 - **inference**：観察や証拠から論理的に導き出す推論全般
-- **[deduction](/word/deduction)**：一般的な原理から個別の事例を論理的に導く「演繹」
+- **[deduction](/word/deduction/)**：一般的な原理から個別の事例を論理的に導く「演繹」
 
 inferenceは広く「推論」全般を指しますが、deductionは特に「演繹的推論（一般→個別）」を意味します。
 
@@ -105,14 +105,14 @@ inferenceは広く「推論」全般を指しますが、deductionは特に「�
 
 ## 🧩 あわせて覚えたい
 
-- [assumption](/word/assumption)：仮定、前提
-- [conclusion](/word/conclusion)：結論
+- [assumption](/word/assumption/)：仮定、前提
+- [conclusion](/word/conclusion/)：結論
 
 ---
 
 ## 📖 できればこれも
 
-- [evidence](/word/evidence)：証拠、根拠
-- [analysis](/word/analysis)：分析
+- [evidence](/word/evidence/)：証拠、根拠
+- [analysis](/word/analysis/)：分析
 
 <!-- cvid: aid31_bid23 -->

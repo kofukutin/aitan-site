@@ -105,14 +105,14 @@ Atlanticはヨーロッパとアメリカ大陸の間の「大西洋」、Pacifi
 
 ## 🧩 あわせて覚えたい
 
-- [ocean](/word/ocean)：海、海洋
-- [coast](/word/coast)：海岸、沿岸
+- [ocean](/word/ocean/)：海、海洋
+- [coast](/word/coast/)：海岸、沿岸
 
 ---
 
 ## 📖 できればこれも
 
-- [southern](/word/southern)：南の、南部の
-- [eastern](/word/eastern)：東の、東部の
+- [southern](/word/southern/)：南の、南部の
+- [eastern](/word/eastern/)：東の、東部の
 
 <!-- cvid: aid41_bid01 -->

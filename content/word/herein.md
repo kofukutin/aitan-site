@@ -93,7 +93,7 @@ TOEICでは主にPart 7の契約書や公式文書の読解問題で見かけま
 ## 🤔  hereby との違いは？
 
 - **herein**：この文書・契約書の中に（内容や範囲を指す）
-- **[hereby](/word/hereby)**：これによって（行為や宣言を指す）
+- **[hereby](/word/hereby/)**：これによって（行為や宣言を指す）
 
 「herein」は文書内の内容や範囲を示し、「hereby」はその文書によって何かを行うことを表します。
 
@@ -101,14 +101,14 @@ TOEICでは主にPart 7の契約書や公式文書の読解問題で見かけま
 
 ## 🧩 あわせて覚えたい
 
-- [therein](/word/therein)：その中に（別の文書や場所の中に）
-- [wherein](/word/wherein)：その中で（どこで、どの点で）
+- [therein](/word/therein/)：その中に（別の文書や場所の中に）
+- [wherein](/word/wherein/)：その中で（どこで、どの点で）
 
 ---
 
 ## 📖 できればこれも
 
-- [thereby](/word/thereby)：それによって
-- [hereto](/word/hereto)：これに関して
+- [thereby](/word/thereby/)：それによって
+- [hereto](/word/hereto/)：これに関して
 
 <!-- cvid: aid04_bid28 -->

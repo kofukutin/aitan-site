@@ -97,7 +97,7 @@ TOEICでは、人物の性格や態度を表す形容詞として頻出します
 ## 🤔  resolute との違いは？
 
 - **determined**：自分の意志や目標に向かって強く決意している様子
-- **[resolute](/word/resolute)**：困難に直面しても揺るがない、断固とした態度
+- **[resolute](/word/resolute/)**：困難に直面しても揺るがない、断固とした態度
 
 「determined」は目標や行動に対する強い意志を表し、「resolute」は外部からの圧力や困難にも屈しない断固たる姿勢を強調します。
 
@@ -105,14 +105,14 @@ TOEICでは、人物の性格や態度を表す形容詞として頻出します
 
 ## 🧩 あわせて覚えたい
 
-- [persistent](/word/persistent)：粘り強い、あきらめない
-- [hesitant](/word/hesitant)：ためらいがちな、躊躇している
+- [persistent](/word/persistent/)：粘り強い、あきらめない
+- [hesitant](/word/hesitant/)：ためらいがちな、躊躇している
 
 ---
 
 ## 📖 できればこれも
 
-- [confident](/word/confident)：自信がある
-- [ambitious](/word/ambitious)：野心的な
+- [confident](/word/confident/)：自信がある
+- [ambitious](/word/ambitious/)：野心的な
 
 <!-- cvid: aid00_bid00 -->

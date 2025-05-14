@@ -97,7 +97,7 @@ TOEICでは主にITや動物に関する長文や説明文で登場すること�
 ## 🤔  snake との違いは？
 
 - **python**：ニシキヘビ（特定の大型ヘビ）やプログラミング言語を指す
-- **[snake](/word/snake)**：ヘビ全般を指す一般的な単語
+- **[snake](/word/snake/)**：ヘビ全般を指す一般的な単語
 
 pythonは特定の種類や用途（言語名）に使われ、snakeは広くヘビ全体を指します。
 
@@ -105,14 +105,14 @@ pythonは特定の種類や用途（言語名）に使われ、snakeは広くヘ
 
 ## 🧩 あわせて覚えたい
 
-- [anaconda](/word/anaconda)：アナコンダ（大型のヘビ）
-- [cobra](/word/cobra)：コブラ（毒ヘビの一種）
+- [anaconda](/word/anaconda/)：アナコンダ（大型のヘビ）
+- [cobra](/word/cobra/)：コブラ（毒ヘビの一種）
 
 ---
 
 ## 📖 できればこれも
 
-- [program](/word/program)：プログラム、番組
-- [language](/word/language)：言語
+- [program](/word/program/)：プログラム、番組
+- [language](/word/language/)：言語
 
 <!-- cvid: aid36_bid16 -->

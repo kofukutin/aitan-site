@@ -97,7 +97,7 @@ TOEICでは比較級・最上級の文法問題や、会社・製品の規模を
 ## 🤔  biggest との違いは？
 
 - **largest**：サイズや規模が「最も大きい」ことをややフォーマルに表現
-- **[biggest](/word/biggest)**：カジュアルに「一番大きい」「最大の」を表現
+- **[biggest](/word/biggest/)**：カジュアルに「一番大きい」「最大の」を表現
 
 「largest」はビジネスや公式な場面でよく使われ、「biggest」は日常会話やくだけた表現で使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは比較級・最上級の文法問題や、会社・製品の規模を
 
 ## 🧩 あわせて覚えたい
 
-- [smallest](/word/smallest)：最も小さい
-- [major](/word/major)：主要な、重要な
+- [smallest](/word/smallest/)：最も小さい
+- [major](/word/major/)：主要な、重要な
 
 ---
 
 ## 📖 できればこれも
 
-- [longest](/word/longest)：最も長い
-- [highest](/word/highest)：最も高い
+- [longest](/word/longest/)：最も長い
+- [highest](/word/highest/)：最も高い
 
 <!-- cvid: aid31_bid29 -->

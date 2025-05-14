@@ -97,7 +97,7 @@ TOEICでは主に長文読解パートで、記事やメールの中で「普通
 ## 🤔  strange との違いは？
 
 - **bizarre**：普通では考えられないほど極端に奇妙・異様な
-- **[strange](/word/strange)**：一般的に「変だな」と感じる程度の奇妙さ
+- **[strange](/word/strange/)**：一般的に「変だな」と感じる程度の奇妙さ
 
 bizarreはstrangeよりも強い違和感や異様さを表し、見た目や行動が極端に変わっている場合に使います。
 
@@ -105,14 +105,14 @@ bizarreはstrangeよりも強い違和感や異様さを表し、見た目や行
 
 ## 🧩 あわせて覚えたい
 
-- [peculiar](/word/peculiar)：独特な、風変わりな
-- [normal](/word/normal)：普通の、標準的な
+- [peculiar](/word/peculiar/)：独特な、風変わりな
+- [normal](/word/normal/)：普通の、標準的な
 
 ---
 
 ## 📖 できればこれも
 
-- [unique](/word/unique)：唯一の、独特な
-- [odd](/word/odd)：変な、奇妙な
+- [unique](/word/unique/)：唯一の、独特な
+- [odd](/word/odd/)：変な、奇妙な
 
 <!-- cvid: aid27_bid37 -->

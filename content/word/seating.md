@@ -97,7 +97,7 @@ TOEICでは会議室やイベント、交通機関などの座席数や配置に
 ## 🤔  seat との違いは？
 
 - **seating**：座席全体や配置、座席数を指す
-- **[seat](/word/seat)**：個々の「席」や「座る場所」を指す
+- **[seat](/word/seat/)**：個々の「席」や「座る場所」を指す
 
 seatingは「全体の座席」や「座席の配置」を表し、seatは「1つ1つの席」や「座る場所」を指します。会場全体の話ならseating、個別の席ならseatを使います。
 
@@ -105,14 +105,14 @@ seatingは「全体の座席」や「座席の配置」を表し、seatは「1�
 
 ## 🧩 あわせて覚えたい
 
-- [capacity](/word/capacity)：収容人数、容量
-- [arrangement](/word/arrangement)：配置、取り決め
+- [capacity](/word/capacity/)：収容人数、容量
+- [arrangement](/word/arrangement/)：配置、取り決め
 
 ---
 
 ## 📖 できればこれも
 
-- [reservation](/word/reservation)：予約
-- [audience](/word/audience)：観客、聴衆
+- [reservation](/word/reservation/)：予約
+- [audience](/word/audience/)：観客、聴衆
 
 <!-- cvid: aid21_bid40 -->

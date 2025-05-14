@@ -96,7 +96,7 @@ TOEICではPart 7の長文読解で、雑誌記事や広告の文脈でよく登
 ## 🤔  journal との違いは？
 
 - **magazine**：一般向けの雑誌。写真や記事が多く、娯楽や情報提供が主目的。
-- **[journal](/word/journal)**：専門的・学術的な内容が中心の定期刊行物。
+- **[journal](/word/journal/)**：専門的・学術的な内容が中心の定期刊行物。
 
 magazineは幅広い読者向け、journalは専門家や研究者向けに使われることが多いです。
 
@@ -104,14 +104,14 @@ magazineは幅広い読者向け、journalは専門家や研究者向けに使�
 
 ## 🧩 あわせて覚えたい
 
-- [newspaper](/word/newspaper)：新聞
-- [brochure](/word/brochure)：パンフレット
+- [newspaper](/word/newspaper/)：新聞
+- [brochure](/word/brochure/)：パンフレット
 
 ---
 
 ## 📖 できればこれも
 
-- [article](/word/article)：記事
-- [editor](/word/editor)：編集者
+- [article](/word/article/)：記事
+- [editor](/word/editor/)：編集者
 
 <!-- cvid: aid34_bid02 -->

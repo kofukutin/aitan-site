@@ -97,7 +97,7 @@ TOEICでは会話文やカジュアルなやり取りで「面白い」「変だ
 ## 🤔  humorous との違いは？
 
 - **funny**：カジュアルで「笑える」「おかしい」「変な」という意味を持つ
-- **[humorous](/word/humorous)**：ややフォーマルで「ユーモアのある」「上品に面白い」という意味
+- **[humorous](/word/humorous/)**：ややフォーマルで「ユーモアのある」「上品に面白い」という意味
 
 「funny」は日常会話でよく使われ、くだけた印象。「humorous」は文章やフォーマルな場面で使われやすく、知的なユーモアを表します。
 
@@ -105,14 +105,14 @@ TOEICでは会話文やカジュアルなやり取りで「面白い」「変だ
 
 ## 🧩 あわせて覚えたい
 
-- [strange](/word/strange)：奇妙な、変な
-- [amusing](/word/amusing)：面白い、愉快な
+- [strange](/word/strange/)：奇妙な、変な
+- [amusing](/word/amusing/)：面白い、愉快な
 
 ---
 
 ## 📖 できればこれも
 
-- [happy](/word/happy)：幸せな、うれしい
-- [strange](/word/strange)：奇妙な、変な
+- [happy](/word/happy/)：幸せな、うれしい
+- [strange](/word/strange/)：奇妙な、変な
 
 <!-- cvid: aid10_bid12 -->

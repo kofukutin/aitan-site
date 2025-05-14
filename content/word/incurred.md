@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や会計関連の文脈で「費用を被る
 ## 🤔  occurred との違いは？
 
 - **incurred**：自分の行動や状況によって「費用・損失・責任などを被る、負う」
-- **[occurred](/word/occurred)**：出来事や事故などが「起こる、発生する」
+- **[occurred](/word/occurred/)**：出来事や事故などが「起こる、発生する」
 
 incurredは「自分に降りかかる」ニュアンスがあり、occurredは単に出来事が発生することを指します。
 
@@ -105,14 +105,14 @@ incurredは「自分に降りかかる」ニュアンスがあり、occurredは�
 
 ## 🧩 あわせて覚えたい
 
-- [suffer](/word/suffer)：（損害・損失などを）被る
-- [generate](/word/generate)：生み出す、発生させる
+- [suffer](/word/suffer/)：（損害・損失などを）被る
+- [generate](/word/generate/)：生み出す、発生させる
 
 ---
 
 ## 📖 できればこれも
 
-- [acquire](/word/acquire)：獲得する、手に入れる
-- [settle](/word/settle)：精算する、解決する
+- [acquire](/word/acquire/)：獲得する、手に入れる
+- [settle](/word/settle/)：精算する、解決する
 
 <!-- cvid: aid39_bid49 -->

@@ -97,7 +97,7 @@ TOEICでは主に長文読解パートで、物語や私的なメールの中で
 ## 🤔  partner との違いは？
 
 - **lover**：恋愛感情を持つ相手や愛人を指し、やや私的・情熱的なニュアンス。
-- **[partner](/word/partner)**：恋人・配偶者・ビジネスパートナーなど幅広く使え、より中立的・フォーマル。
+- **[partner](/word/partner/)**：恋人・配偶者・ビジネスパートナーなど幅広く使え、より中立的・フォーマル。
 
 「lover」は恋愛感情や情熱を強調し、「partner」は関係性や立場を広く表します。
 
@@ -105,14 +105,14 @@ TOEICでは主に長文読解パートで、物語や私的なメールの中で
 
 ## 🧩 あわせて覚えたい
 
-- [spouse](/word/spouse)：配偶者
-- [crush](/word/crush)：片思いの相手
+- [spouse](/word/spouse/)：配偶者
+- [crush](/word/crush/)：片思いの相手
 
 ---
 
 ## 📖 できればこれも
 
-- [couple](/word/couple)：カップル、2人組
-- [relationship](/word/relationship)：関係、交際
+- [couple](/word/couple/)：カップル、2人組
+- [relationship](/word/relationship/)：関係、交際
 
 <!-- cvid: aid48_bid47 -->

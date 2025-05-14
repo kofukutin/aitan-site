@@ -97,7 +97,7 @@ spillはTOEICのPart 1で、飲み物や液体がこぼれている場面の描�
 ## 🤔  pour との違いは？
 
 - **spill**：意図せずに液体や粉をこぼすこと
-- **[pour](/word/pour)**：意図的に液体を注ぐこと
+- **[pour](/word/pour/)**：意図的に液体を注ぐこと
 
 spillは「うっかりこぼす」ニュアンス、pourは「注ぐ」動作を意図的に行う点が異なります。
 
@@ -105,14 +105,14 @@ spillは「うっかりこぼす」ニュアンス、pourは「注ぐ」動作�
 
 ## 🧩 あわせて覚えたい
 
-- [leak](/word/leak)：液体や気体が漏れる
-- [scatter](/word/scatter)：ばらまく、散らす
+- [leak](/word/leak/)：液体や気体が漏れる
+- [scatter](/word/scatter/)：ばらまく、散らす
 
 ---
 
 ## 📖 できればこれも
 
-- [drop](/word/drop)：落とす
-- [break](/word/break)：壊す
+- [drop](/word/drop/)：落とす
+- [break](/word/break/)：壊す
 
 <!-- cvid: aid08_bid08 -->

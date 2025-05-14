@@ -97,7 +97,7 @@ TOEICでは、reduce の進行形や動名詞として reducing が文法問題�
 ## 🤔  decreasing との違いは？
 
 - **reducing**：全体の量や規模を小さくすることに幅広く使う
-- **[decreasing](/word/decreasing)**：数値や割合が「下がる」「減少する」ことに焦点
+- **[decreasing](/word/decreasing/)**：数値や割合が「下がる」「減少する」ことに焦点
 
 reducing は「意図的に減らす」ニュアンスが強く、decreasing は「自然に減る」「数値が下がる」場面で使われやすいです。
 
@@ -105,14 +105,14 @@ reducing は「意図的に減らす」ニュアンスが強く、decreasing は
 
 ## 🧩 あわせて覚えたい
 
-- [diminish](/word/diminish)：（価値・重要性などが）減少する
-- [cut](/word/cut)：（コストや数量を）切り詰める、削減する
+- [diminish](/word/diminish/)：（価値・重要性などが）減少する
+- [cut](/word/cut/)：（コストや数量を）切り詰める、削減する
 
 ---
 
 ## 📖 できればこれも
 
-- [increase](/word/increase)：増やす、増加する
-- [lower](/word/lower)：下げる、低くする
+- [increase](/word/increase/)：増やす、増加する
+- [lower](/word/lower/)：下げる、低くする
 
 <!-- cvid: aid01_bid23 -->

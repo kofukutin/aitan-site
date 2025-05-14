@@ -97,7 +97,7 @@ TOEICでは、機械やシステムの説明、製品紹介などで「powered b
 ## 🤔  operated との違いは？
 
 - **powered**：何によって動いているか（動力源）を強調
-- **[operated](/word/operated)**：誰や何が操作・運転しているか、動作の主体を強調
+- **[operated](/word/operated/)**：誰や何が操作・運転しているか、動作の主体を強調
 
 「powered」はエネルギー源や仕組みに注目し、「operated」は操作や運転の行為そのものに注目します。
 
@@ -105,14 +105,14 @@ TOEICでは、機械やシステムの説明、製品紹介などで「powered b
 
 ## 🧩 あわせて覚えたい
 
-- [automatic](/word/automatic)：自動の
-- [manual](/word/manual)：手動の
+- [automatic](/word/automatic/)：自動の
+- [manual](/word/manual/)：手動の
 
 ---
 
 ## 📖 できればこれも
 
-- [connected](/word/connected)：接続された
-- [enabled](/word/enabled)：有効化された
+- [connected](/word/connected/)：接続された
+- [enabled](/word/enabled/)：有効化された
 
 <!-- cvid: aid12_bid44 -->

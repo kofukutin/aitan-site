@@ -97,7 +97,7 @@ TOEICでは、スピーチや手紙、記事などの長文中で「感動的な
 ## 🤔  touching との違いは？
 
 - **moving**：感情を強く揺さぶるような感動を与える
-- **[touching](/word/touching)**：やさしく心にしみるような感動を与える
+- **[touching](/word/touching/)**：やさしく心にしみるような感動を与える
 
 「moving」はより強い感情の動きを表し、「touching」はやさしく心に響くニュアンスです。
 
@@ -105,14 +105,14 @@ TOEICでは、スピーチや手紙、記事などの長文中で「感動的な
 
 ## 🧩 あわせて覚えたい
 
-- [impressive](/word/impressive)：印象的な
-- [emotional](/word/emotional)：感情的な
+- [impressive](/word/impressive/)：印象的な
+- [emotional](/word/emotional/)：感情的な
 
 ---
 
 ## 📖 できればこれも
 
-- [exciting](/word/exciting)：わくわくさせる
-- [inspiring](/word/inspiring)：刺激を与える、鼓舞する
+- [exciting](/word/exciting/)：わくわくさせる
+- [inspiring](/word/inspiring/)：刺激を与える、鼓舞する
 
 <!-- cvid: aid03_bid30 -->

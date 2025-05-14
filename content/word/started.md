@@ -97,7 +97,7 @@ TOEICでは会議や業務の開始、プロジェクトの始動など、ビジ
 ## 🤔  began との違いは？
 
 - **started**：一般的に「始めた」「開始した」と幅広く使う
-- **[began](/word/began)**：ややフォーマルで、物事の始まりを強調したいときに使う
+- **[began](/word/began/)**：ややフォーマルで、物事の始まりを強調したいときに使う
 
 「started」は日常会話やビジネスで幅広く使われ、「began」は少し硬い印象や物語的な場面で使われやすいです。
 
@@ -105,14 +105,14 @@ TOEICでは会議や業務の開始、プロジェクトの始動など、ビジ
 
 ## 🧩 あわせて覚えたい
 
-- [launch](/word/launch)：（新製品などを）開始する、立ち上げる
-- [finish](/word/finish)：終える、終わる
+- [launch](/word/launch/)：（新製品などを）開始する、立ち上げる
+- [finish](/word/finish/)：終える、終わる
 
 ---
 
 ## 📖 できればこれも
 
-- [open](/word/open)：開ける、始める
-- [create](/word/create)：作る、創造する
+- [open](/word/open/)：開ける、始める
+- [create](/word/create/)：作る、創造する
 
 <!-- cvid: aid02_bid25 -->

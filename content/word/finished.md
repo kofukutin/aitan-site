@@ -97,7 +97,7 @@ TOEICでは、動詞の過去分詞形が形容詞として使われるパター
 ## 🤔  completed との違いは？
 
 - **finished**：日常的に「終わった」「完了した」と広く使う。
-- **[completed](/word/completed)**：よりフォーマルで「完全に仕上がった」「全ての工程が終わった」ニュアンス。
+- **[completed](/word/completed/)**：よりフォーマルで「完全に仕上がった」「全ての工程が終わった」ニュアンス。
 
 「finished」はカジュアルな場面でも使えますが、「completed」はビジネスや公式な文書で「完全に終わった」ことを強調したいときに使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、動詞の過去分詞形が形容詞として使われるパター
 
 ## 🧩 あわせて覚えたい
 
-- [incomplete](/word/incomplete)：未完成の
-- [done](/word/done)：終わった（カジュアルな表現）
+- [incomplete](/word/incomplete/)：未完成の
+- [done](/word/done/)：終わった（カジュアルな表現）
 
 ---
 
 ## 📖 できればこれも
 
-- [ready](/word/ready)：準備ができた
-- [prepared](/word/prepared)：用意された、準備ができた
+- [ready](/word/ready/)：準備ができた
+- [prepared](/word/prepared/)：用意された、準備ができた
 
 <!-- cvid: aid11_bid33 -->

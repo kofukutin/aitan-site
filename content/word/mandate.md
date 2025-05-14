@@ -97,7 +97,7 @@ mandateはTOEICの長文読解パートで、契約や方針、公式な指示�
 ## 🤔  order との違いは？
 
 - **mandate**：公式な権限や上位機関からの命令・指令を強調
-- **[order](/word/order)**：日常的な「命令」「注文」など幅広く使える
+- **[order](/word/order/)**：日常的な「命令」「注文」など幅広く使える
 
 mandateは特にフォーマルな場面や組織的な権限を伴う命令に使われ、orderは日常会話やビジネスで幅広く使われます。
 
@@ -105,14 +105,14 @@ mandateは特にフォーマルな場面や組織的な権限を伴う命令に�
 
 ## 🧩 あわせて覚えたい
 
-- [authorization](/word/authorization)：許可、認可
-- [directive](/word/directive)：指令、指示
+- [authorization](/word/authorization/)：許可、認可
+- [directive](/word/directive/)：指令、指示
 
 ---
 
 ## 📖 できればこれも
 
-- [regulation](/word/regulation)：規則、規制
-- [requirement](/word/requirement)：要件、必要条件
+- [regulation](/word/regulation/)：規則、規制
+- [requirement](/word/requirement/)：要件、必要条件
 
 <!-- cvid: aid24_bid19 -->

@@ -97,7 +97,7 @@ TOEICでは映画やイベントの案内文、広告、記事などで「初公
 ## 🤔  debut との違いは？
 
 - **premiere**：映画や演劇、音楽などの「初公開」「初演」に使うフォーマルな表現
-- **[debut](/word/debut)**：人や作品が「初登場」すること全般に使えるやや幅広い表現
+- **[debut](/word/debut/)**：人や作品が「初登場」すること全般に使えるやや幅広い表現
 
 premiereは主に作品やイベントの「初公開」に限定され、debutは人や物の「初登場」全般に使えます。
 
@@ -105,14 +105,14 @@ premiereは主に作品やイベントの「初公開」に限定され、debut�
 
 ## 🧩 あわせて覚えたい
 
-- [release](/word/release)：公開、発売
-- [opening](/word/opening)：開幕、開始
+- [release](/word/release/)：公開、発売
+- [opening](/word/opening/)：開幕、開始
 
 ---
 
 ## 📖 できればこれも
 
-- [performance](/word/performance)：公演、演奏
-- [event](/word/event)：イベント、行事
+- [performance](/word/performance/)：公演、演奏
+- [event](/word/event/)：イベント、行事
 
 <!-- cvid: aid00_bid39 -->

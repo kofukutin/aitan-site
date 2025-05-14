@@ -97,7 +97,7 @@ TOEICでは主に広告やビジネス文書、メールの中で「返金」「
 ## 🤔  discount との違いは？
 
 - **rebate**：購入後に申請して受け取る払い戻しや割戻し。
-- **[discount](/word/discount)**：購入時にその場で適用される値引き。
+- **[discount](/word/discount/)**：購入時にその場で適用される値引き。
 
 rebateは「後から返金」、discountは「その場で値引き」と使い分けます。
 
@@ -105,14 +105,14 @@ rebateは「後から返金」、discountは「その場で値引き」と使い
 
 ## 🧩 あわせて覚えたい
 
-- [refund](/word/refund)：返金、払い戻し
-- [deduction](/word/deduction)：控除、差し引き
+- [refund](/word/refund/)：返金、払い戻し
+- [deduction](/word/deduction/)：控除、差し引き
 
 ---
 
 ## 📖 できればこれも
 
-- [invoice](/word/invoice)：請求書
-- [receipt](/word/receipt)：領収書
+- [invoice](/word/invoice/)：請求書
+- [receipt](/word/receipt/)：領収書
 
 <!-- cvid: aid35_bid43 -->

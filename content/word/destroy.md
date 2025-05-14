@@ -98,7 +98,7 @@ TOEICでは、destroyは「計画や建物を壊す」「データを消去す�
 ## 🤔  damage との違いは？
 
 - **destroy**：完全に壊す、元に戻せないほど破壊する
-- **[damage](/word/damage)**：一部を損傷させる、傷つける
+- **[damage](/word/damage/)**：一部を損傷させる、傷つける
 
 destroyは「完全に壊す」イメージ、damageは「一部を傷つける」イメージで、被害の度合いが異なります。
 
@@ -106,14 +106,14 @@ destroyは「完全に壊す」イメージ、damageは「一部を傷つける�
 
 ## 🧩 あわせて覚えたい
 
-- [ruin](/word/ruin)：台無しにする、破滅させる
-- [demolish](/word/demolish)：（建物などを）取り壊す
+- [ruin](/word/ruin/)：台無しにする、破滅させる
+- [demolish](/word/demolish/)：（建物などを）取り壊す
 
 ---
 
 ## 📖 できればこれも
 
-- [break](/word/break)：壊す
-- [remove](/word/remove)：取り除く
+- [break](/word/break/)：壊す
+- [remove](/word/remove/)：取り除く
 
 <!-- cvid: aid15_bid04 -->

@@ -97,7 +97,7 @@ TOEICでは、物の数え方や備品の説明、日常的な会話でよく出
 ## 🤔  couple との違いは？
 
 - **pair**：2つで1組になっている物や人を指す（機能的なまとまり）。
-- **[couple](/word/couple)**：2つ、または2人（特に恋人や夫婦など親しい関係）を指す。
+- **[couple](/word/couple/)**：2つ、または2人（特に恋人や夫婦など親しい関係）を指す。
 
 pairは「セット」としての機能や形を重視し、coupleは「2つ・2人」という数や関係性を強調します。
 
@@ -105,14 +105,14 @@ pairは「セット」としての機能や形を重視し、coupleは「2つ・
 
 ## 🧩 あわせて覚えたい
 
-- [set](/word/set)：セット、一式
-- [single](/word/single)：単一、1つ
+- [set](/word/set/)：セット、一式
+- [single](/word/single/)：単一、1つ
 
 ---
 
 ## 📖 できればこれも
 
-- [item](/word/item)：品目、項目
-- [group](/word/group)：集団、グループ
+- [item](/word/item/)：品目、項目
+- [group](/word/group/)：集団、グループ
 
 <!-- cvid: aid17_bid45 -->

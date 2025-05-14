@@ -96,7 +96,7 @@ TOEICでは、図書館や資料、情報検索に関する長文やEメール�
 ## 🤔  dictionary との違いは？
 
 - **encyclopedia**：幅広い分野の知識や情報を詳しく解説する本
-- **[dictionary](/word/dictionary)**：単語の意味や用法、発音などを説明する本
+- **[dictionary](/word/dictionary/)**：単語の意味や用法、発音などを説明する本
 
 encyclopediaは知識全般を深く解説し、dictionaryは単語や語句の意味・使い方に特化しています。
 
@@ -104,14 +104,14 @@ encyclopediaは知識全般を深く解説し、dictionaryは単語や語句の�
 
 ## 🧩 あわせて覚えたい
 
-- [reference](/word/reference)：参考資料、参照
-- [manual](/word/manual)：手引き、マニュアル
+- [reference](/word/reference/)：参考資料、参照
+- [manual](/word/manual/)：手引き、マニュアル
 
 ---
 
 ## 📖 できればこれも
 
-- [journal](/word/journal)：学術誌、日誌
-- [article](/word/article)：記事、論文
+- [journal](/word/journal/)：学術誌、日誌
+- [article](/word/article/)：記事、論文
 
 <!-- cvid: aid28_bid29 -->

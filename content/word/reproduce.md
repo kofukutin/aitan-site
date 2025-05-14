@@ -97,7 +97,7 @@ TOEICでは主に科学や技術、ビジネス文書の説明文で「再現す
 ## 🤔  duplicate との違いは？
 
 - **reproduce**：再現する、複製する、または生物が繁殖する
-- **[duplicate](/word/duplicate)**：まったく同じものを複製する、コピーする
+- **[duplicate](/word/duplicate/)**：まったく同じものを複製する、コピーする
 
 reproduceは「現象や結果を再現する」「生物が増える」など幅広い意味で使われますが、duplicateは「書類やデータなどをそのままコピーする」場合に限定されます。
 
@@ -105,14 +105,14 @@ reproduceは「現象や結果を再現する」「生物が増える」など�
 
 ## 🧩 あわせて覚えたい
 
-- [replicate](/word/replicate)：（実験・手順などを）再現する、複製する
-- [generate](/word/generate)：生み出す、発生させる
+- [replicate](/word/replicate/)：（実験・手順などを）再現する、複製する
+- [generate](/word/generate/)：生み出す、発生させる
 
 ---
 
 ## 📖 できればこれも
 
-- [restore](/word/restore)：元に戻す、修復する
-- [assemble](/word/assemble)：組み立てる、集める
+- [restore](/word/restore/)：元に戻す、修復する
+- [assemble](/word/assemble/)：組み立てる、集める
 
 <!-- cvid: aid21_bid41 -->

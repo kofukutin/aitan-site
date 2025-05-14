@@ -97,7 +97,7 @@ TOEICでは子どもやペット、カジュアルな会話の場面で出題さ
 ## 🤔  mischievous との違いは？
 
 - **naughty**：主に子どもやペットの「いたずら好き」「やんちゃ」を表すカジュアルな言葉。
-- **[mischievous](/word/mischievous)**：いたずら好きで、時に人を困らせるような行動をするニュアンスが強い。
+- **[mischievous](/word/mischievous/)**：いたずら好きで、時に人を困らせるような行動をするニュアンスが強い。
 
 naughtyは「ルールを破る」「やんちゃ」という意味合いが強く、mischievousは「人をからかう」「悪ふざけ」のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ naughtyは「ルールを破る」「やんちゃ」という意味合いが強�
 
 ## 🧩 あわせて覚えたい
 
-- [polite](/word/polite)：礼儀正しい
-- [cheeky](/word/cheeky)：生意気な、ずうずうしい
+- [polite](/word/polite/)：礼儀正しい
+- [cheeky](/word/cheeky/)：生意気な、ずうずうしい
 
 ---
 
 ## 📖 できればこれも
 
-- [rude](/word/rude)：失礼な
-- [polite](/word/polite)：礼儀正しい
+- [rude](/word/rude/)：失礼な
+- [polite](/word/polite/)：礼儀正しい
 
 <!-- cvid: aid01_bid19 -->

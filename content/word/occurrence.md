@@ -97,7 +97,7 @@ TOEICでは主に長文読解パートで、出来事や発生した事象を説
 ## 🤔  incident との違いは？
 
 - **occurrence**：出来事や発生そのものを広く指し、良いこと・悪いこと両方に使える。
-- **[incident](/word/incident)**：主に「事件」や「事故」など、予期しない・好ましくない出来事を指す。
+- **[incident](/word/incident/)**：主に「事件」や「事故」など、予期しない・好ましくない出来事を指す。
 
 occurrenceは中立的な「発生・出来事」全般、incidentは特に問題やトラブルなどネガティブな出来事に使われます。
 
@@ -105,14 +105,14 @@ occurrenceは中立的な「発生・出来事」全般、incidentは特に問�
 
 ## 🧩 あわせて覚えたい
 
-- [event](/word/event)：出来事、行事
-- [phenomenon](/word/phenomenon)：現象
+- [event](/word/event/)：出来事、行事
+- [phenomenon](/word/phenomenon/)：現象
 
 ---
 
 ## 📖 できればこれも
 
-- [situation](/word/situation)：状況
-- [issue](/word/issue)：問題
+- [situation](/word/situation/)：状況
+- [issue](/word/issue/)：問題
 
 <!-- cvid: aid15_bid12 -->

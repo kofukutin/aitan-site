@@ -97,7 +97,7 @@ TOEICでは、物語や記事、メール文の「結末」や「締めくくり
 ## 🤔  conclusion との違いは？
 
 - **ending**：物語や出来事の「終わり」「結末」を指し、感情やストーリー性を含むことが多い。
-- **[conclusion](/word/conclusion)**：議論やレポートなどの「結論」「締めくくり」を指し、論理的・形式的なニュアンスが強い。
+- **[conclusion](/word/conclusion/)**：議論やレポートなどの「結論」「締めくくり」を指し、論理的・形式的なニュアンスが強い。
 
 endingはストーリーや出来事のラストに、conclusionは論理的なまとめや結論に使われます。
 
@@ -105,14 +105,14 @@ endingはストーリーや出来事のラストに、conclusionは論理的な�
 
 ## 🧩 あわせて覚えたい
 
-- [finale](/word/finale)：（演劇やイベントなどの）フィナーレ、最後の場面
-- [outcome](/word/outcome)：（出来事や行動の）結果、成り行き
+- [finale](/word/finale/)：（演劇やイベントなどの）フィナーレ、最後の場面
+- [outcome](/word/outcome/)：（出来事や行動の）結果、成り行き
 
 ---
 
 ## 📖 できればこれも
 
-- [beginning](/word/beginning)：始まり、開始
-- [result](/word/result)：結果、成果
+- [beginning](/word/beginning/)：始まり、開始
+- [result](/word/result/)：結果、成果
 
 <!-- cvid: aid13_bid47 -->

@@ -97,7 +97,7 @@ TOEICでは「従事する」「関与する」「雇う」などの意味で、
 ## 🤔  participate との違いは？
 
 - **engage**：積極的に関与する、従事する、雇うなど幅広い意味で使われる
-- **[participate](/word/participate)**：参加する（特にイベントや活動に加わること）
+- **[participate](/word/participate/)**：参加する（特にイベントや活動に加わること）
 
 engageは「深く関わる」「積極的に従事する」ニュアンスがあり、participateは「参加する」こと自体を指します。
 
@@ -105,14 +105,14 @@ engageは「深く関わる」「積極的に従事する」ニュアンスが�
 
 ## 🧩 あわせて覚えたい
 
-- [involve](/word/involve)：巻き込む、関与させる
-- [hire](/word/hire)：雇う
+- [involve](/word/involve/)：巻き込む、関与させる
+- [hire](/word/hire/)：雇う
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange)：手配する、準備する
-- [attend](/word/attend)：出席する、参加する
+- [arrange](/word/arrange/)：手配する、準備する
+- [attend](/word/attend/)：出席する、参加する
 
 <!-- cvid: aid09_bid46 -->

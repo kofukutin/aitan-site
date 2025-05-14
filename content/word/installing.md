@@ -97,7 +97,7 @@ installingは、IT関連の会話や説明文でよく登場します。特に�
 ## 🤔  setting up との違いは？
 
 - **installing**：主にソフトや機器を「インストール・設置」すること
-- **[setting up](/word/setting_up)**：初期設定や準備全般を行うこと
+- **[setting up](/word/setting_up/)**：初期設定や準備全般を行うこと
 
 installingは「導入・設置」そのもの、setting upは「使えるように準備する」作業全体を指します。
 
@@ -105,14 +105,14 @@ installingは「導入・設置」そのもの、setting upは「使えるよう
 
 ## 🧩 あわせて覚えたい
 
-- [remove](/word/remove)：取り除く、削除する
-- [update](/word/update)：更新する
+- [remove](/word/remove/)：取り除く、削除する
+- [update](/word/update/)：更新する
 
 ---
 
 ## 📖 できればこれも
 
-- [download](/word/download)：ダウンロードする
-- [configure](/word/configure)：設定する
+- [download](/word/download/)：ダウンロードする
+- [configure](/word/configure/)：設定する
 
 <!-- cvid: aid15_bid37 -->

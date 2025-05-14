@@ -97,7 +97,7 @@ TOEICでは、荷物や建物の寸法、身長などを問う文脈で出題さ
 ## 🤔  altitude との違いは？
 
 - **height**：物や人の高さ、身長、地面からの高さなど一般的な「高さ」
-- **[altitude](/word/altitude)**：海抜や地表からの「高度」、特に飛行機や山などの高さ
+- **[altitude](/word/altitude/)**：海抜や地表からの「高度」、特に飛行機や山などの高さ
 
 heightは日常的な「高さ」全般に使い、altitudeは特に地表や海抜からの「高度」に限定して使います。
 
@@ -105,14 +105,14 @@ heightは日常的な「高さ」全般に使い、altitudeは特に地表や海
 
 ## 🧩 あわせて覚えたい
 
-- [depth](/word/depth)：深さ
-- [length](/word/length)：長さ
+- [depth](/word/depth/)：深さ
+- [length](/word/length/)：長さ
 
 ---
 
 ## 📖 できればこれも
 
-- [width](/word/width)：幅
-- [size](/word/size)：大きさ
+- [width](/word/width/)：幅
+- [size](/word/size/)：大きさ
 
 <!-- cvid: aid43_bid45 -->

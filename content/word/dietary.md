@@ -97,7 +97,7 @@ TOEICでは健康や医療、イベント案内などの長文で「dietary rest
 ## 🤔  nutrition との違いは？
 
 - **dietary**：食事や食生活に関する（形容詞）
-- **[nutrition](/word/nutrition)**：栄養、栄養摂取（名詞）
+- **[nutrition](/word/nutrition/)**：栄養、栄養摂取（名詞）
 
 **dietary**は「食事内容や食生活」に焦点を当てる形容詞で、**nutrition**は「栄養そのもの」や「栄養摂取」を指す名詞です。食事の制限や方針を述べるときはdietary、栄養素や健康効果を述べるときはnutritionを使います。
 
@@ -105,14 +105,14 @@ TOEICでは健康や医療、イベント案内などの長文で「dietary rest
 
 ## 🧩 あわせて覚えたい
 
-- [nutritious](/word/nutritious)：栄養のある（形容詞）
-- [allergy](/word/allergy)：アレルギー（名詞）
+- [nutritious](/word/nutritious/)：栄養のある（形容詞）
+- [allergy](/word/allergy/)：アレルギー（名詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [medical](/word/medical)：医療の、医学の（形容詞）
-- [healthy](/word/healthy)：健康的な（形容詞）
+- [medical](/word/medical/)：医療の、医学の（形容詞）
+- [healthy](/word/healthy/)：健康的な（形容詞）
 
 <!-- cvid: aid07_bid08 -->

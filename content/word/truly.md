@@ -97,7 +97,7 @@ trulyはPart 5の語彙問題で、感情や事実を強調する副詞として
 ## 🤔  really との違いは？
 
 - **truly**：事実や感情をフォーマルに強調する
-- **[really](/word/really)**：カジュアルに「本当に」「実際に」と強調する
+- **[really](/word/really/)**：カジュアルに「本当に」「実際に」と強調する
 
 trulyはフォーマルな場面や感謝・信念を強調する時に使われ、reallyは日常会話で幅広く使われます。
 
@@ -105,14 +105,14 @@ trulyはフォーマルな場面や感謝・信念を強調する時に使われ
 
 ## 🧩 あわせて覚えたい
 
-- [genuinely](/word/genuinely)：心から、本当に
-- [honestly](/word/honestly)：正直に、率直に
+- [genuinely](/word/genuinely/)：心から、本当に
+- [honestly](/word/honestly/)：正直に、率直に
 
 ---
 
 ## 📖 できればこれも
 
-- [actually](/word/actually)：実際に、実は
-- [sincerely](/word/sincerely)：心から、誠実に
+- [actually](/word/actually/)：実際に、実は
+- [sincerely](/word/sincerely/)：心から、誠実に
 
 <!-- cvid: aid02_bid09 -->

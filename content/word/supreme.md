@@ -97,7 +97,7 @@ TOEICでは、会社の理念や方針、製品の品質などを強調する文
 ## 🤔  ultimate との違いは？
 
 - **supreme**：他と比べて最も優れている、権威や価値が最上位であることを強調
-- **[ultimate](/word/ultimate)**：最終的な、究極の、最後の段階や目標を強調
+- **[ultimate](/word/ultimate/)**：最終的な、究極の、最後の段階や目標を強調
 
 supremeは「他を圧倒するほど最高」であること、ultimateは「最終的な到達点や究極の状態」であることを表します。
 
@@ -105,14 +105,14 @@ supremeは「他を圧倒するほど最高」であること、ultimateは「�
 
 ## 🧩 あわせて覚えたい
 
-- [paramount](/word/paramount)：最重要の、最高位の
-- [inferior](/word/inferior)：劣った、下位の
+- [paramount](/word/paramount/)：最重要の、最高位の
+- [inferior](/word/inferior/)：劣った、下位の
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/word/significant)：重要な
-- [essential](/word/essential)：不可欠な、非常に重要な
+- [significant](/word/significant/)：重要な
+- [essential](/word/essential/)：不可欠な、非常に重要な
 
 <!-- cvid: aid06_bid25 -->

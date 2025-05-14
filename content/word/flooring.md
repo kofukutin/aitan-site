@@ -97,7 +97,7 @@ TOEICではオフィスや建物の改装、修理に関する会話や説明で
 ## 🤔  floor との違いは？
 
 - **flooring**：床に使う材料や床張りそのもの
-- **[floor](/word/floor)**：建物や部屋の「床」そのもの、または階
+- **[floor](/word/floor/)**：建物や部屋の「床」そのもの、または階
 
 flooringは「床材」や「床張り」を指し、floorは「床」や「階」として物理的な場所を表します。
 
@@ -105,14 +105,14 @@ flooringは「床材」や「床張り」を指し、floorは「床」や「階�
 
 ## 🧩 あわせて覚えたい
 
-- [carpet](/word/carpet)：カーペット、じゅうたん
-- [tile](/word/tile)：タイル、敷き瓦
+- [carpet](/word/carpet/)：カーペット、じゅうたん
+- [tile](/word/tile/)：タイル、敷き瓦
 
 ---
 
 ## 📖 できればこれも
 
-- [ceiling](/word/ceiling)：天井
-- [wall](/word/wall)：壁
+- [ceiling](/word/ceiling/)：天井
+- [wall](/word/wall/)：壁
 
 <!-- cvid: aid18_bid04 -->

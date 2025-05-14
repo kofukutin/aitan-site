@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「驚いた反応」を表す場面でよく登
 ## 🤔  amazed との違いは？
 
 - **surprised**：予想外の出来事に「驚いた」状態を表す一般的な言葉
-- **[amazed](/word/amazed)**：非常に強い驚きや感動を表し、「圧倒されるほど驚いた」ニュアンス
+- **[amazed](/word/amazed/)**：非常に強い驚きや感動を表し、「圧倒されるほど驚いた」ニュアンス
 
 surprisedは日常的な驚き、amazedはより強い感情や感動を伴う驚きに使います。
 
@@ -105,14 +105,14 @@ surprisedは日常的な驚き、amazedはより強い感情や感動を伴う�
 
 ## 🧩 あわせて覚えたい
 
-- [shocked](/word/shocked)：ショックを受けた、強い衝撃を受けた
-- [expected](/word/expected)：予想された、期待された
+- [shocked](/word/shocked/)：ショックを受けた、強い衝撃を受けた
+- [expected](/word/expected/)：予想された、期待された
 
 ---
 
 ## 📖 できればこれも
 
-- [excited](/word/excited)：わくわくした、興奮した
-- [confused](/word/confused)：混乱した、戸惑った
+- [excited](/word/excited/)：わくわくした、興奮した
+- [confused](/word/confused/)：混乱した、戸惑った
 
 <!-- cvid: aid31_bid41 -->

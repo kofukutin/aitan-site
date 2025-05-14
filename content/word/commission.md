@@ -97,7 +97,7 @@ TOEICではビジネス文書や契約書、Eメールなどで「手数料」�
 ## 🤔  fee との違いは？
 
 - **commission**：売上や成果に応じて支払われる手数料や、特定の任務を持つ委員会を指す
-- **[fee](/word/fee)**：サービスや入場などに対して支払う料金・費用
+- **[fee](/word/fee/)**：サービスや入場などに対して支払う料金・費用
 
 commissionは「成果報酬型」や「委員会」の意味があり、feeは「サービス利用料」など幅広い料金に使われます。
 
@@ -105,14 +105,14 @@ commissionは「成果報酬型」や「委員会」の意味があり、feeは�
 
 ## 🧩 あわせて覚えたい
 
-- [bonus](/word/bonus)：特別手当、賞与
-- [committee](/word/committee)：委員会
+- [bonus](/word/bonus/)：特別手当、賞与
+- [committee](/word/committee/)：委員会
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract)：契約
-- [agreement](/word/agreement)：合意、協定
+- [contract](/word/contract/)：契約
+- [agreement](/word/agreement/)：合意、協定
 
 <!-- cvid: aid33_bid05 -->

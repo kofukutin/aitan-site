@@ -97,7 +97,7 @@ TOEICでは主にPart 5の文法・語彙問題で、採用や人事関連の文
 ## 🤔  hiring との違いは？
 
 - **recruiting**：人材を集めて応募を促す「採用活動」全体を指す
-- **[hiring](/word/hiring)**：実際に「雇う」「採用する」行為そのもの
+- **[hiring](/word/hiring/)**：実際に「雇う」「採用する」行為そのもの
 
 recruitingは募集から選考までの広い活動を指し、hiringは最終的な雇用決定の場面で使われます。
 
@@ -105,14 +105,14 @@ recruitingは募集から選考までの広い活動を指し、hiringは最終�
 
 ## 🧩 あわせて覚えたい
 
-- [interview](/word/interview)：面接、インタビュー
-- [headhunt](/word/headhunt)：ヘッドハンティングする（優秀な人材を積極的に引き抜く）
+- [interview](/word/interview/)：面接、インタビュー
+- [headhunt](/word/headhunt/)：ヘッドハンティングする（優秀な人材を積極的に引き抜く）
 
 ---
 
 ## 📖 できればこれも
 
-- [apply](/word/apply)：応募する、申し込む
-- [employ](/word/employ)：雇う、採用する
+- [apply](/word/apply/)：応募する、申し込む
+- [employ](/word/employ/)：雇う、採用する
 
 <!-- cvid: aid08_bid06 -->

@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、ビルやオフィスの場面でよく
 ## 🤔  lift との違いは？
 
 - **elevator**：アメリカ英語で「エレベーター」を指す。
-- **[lift](/word/lift)**：イギリス英語で「エレベーター」を指す。
+- **[lift](/word/lift/)**：イギリス英語で「エレベーター」を指す。
 
 アメリカではelevator、イギリスではliftが一般的に使われます。意味は同じですが、地域によって使い分けましょう。
 
@@ -105,14 +105,14 @@ TOEICでは主に写真描写問題で、ビルやオフィスの場面でよく
 
 ## 🧩 あわせて覚えたい
 
-- [escalator](/word/escalator)：エスカレーター
-- [stairs](/word/stairs)：階段
+- [escalator](/word/escalator/)：エスカレーター
+- [stairs](/word/stairs/)：階段
 
 ---
 
 ## 📖 できればこれも
 
-- [building](/word/building)：建物
-- [floor](/word/floor)：階
+- [building](/word/building/)：建物
+- [floor](/word/floor/)：階
 
 <!-- cvid: aid04_bid41 -->

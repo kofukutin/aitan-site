@@ -98,7 +98,7 @@ Please clap to welcome our guest speaker.
 ## 🤔  applaud との違いは？
 
 - **clap**：手をたたいて拍手する、カジュアルな表現
-- **[applaud](/word/applaud)**：よりフォーマルで「称賛して拍手する」という意味
+- **[applaud](/word/applaud/)**：よりフォーマルで「称賛して拍手する」という意味
 
 clapは日常的な拍手、applaudは賞賛や公式な場での拍手に使われることが多いです。
 
@@ -106,14 +106,14 @@ clapは日常的な拍手、applaudは賞賛や公式な場での拍手に使わ
 
 ## 🧩 あわせて覚えたい
 
-- [cheer](/word/cheer)：声援を送る
-- [praise](/word/praise)：称賛する
+- [cheer](/word/cheer/)：声援を送る
+- [praise](/word/praise/)：称賛する
 
 ---
 
 ## 📖 できればこれも
 
-- [smile](/word/smile)：ほほえむ
-- [wave](/word/wave)：手を振る
+- [smile](/word/smile/)：ほほえむ
+- [wave](/word/wave/)：手を振る
 
 <!-- cvid: aid09_bid06 -->

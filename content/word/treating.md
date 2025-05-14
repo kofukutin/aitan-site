@@ -97,7 +97,7 @@ The doctor is treating the patient for a cold.
 ## 🤔  handling との違いは？
 
 - **treating**：人や物事を特定の方法で扱う、または治療することを強調
-- **[handling](/word/handling)**：物理的・実務的に「取り扱う」「処理する」ことを強調
+- **[handling](/word/handling/)**：物理的・実務的に「取り扱う」「処理する」ことを強調
 
 treatingは「接し方」や「治療」のニュアンスがあり、handlingは「操作」や「管理」の意味合いが強いです。
 
@@ -105,14 +105,14 @@ treatingは「接し方」や「治療」のニュアンスがあり、handling�
 
 ## 🧩 あわせて覚えたい
 
-- [cure](/word/cure)：治す、治療する
-- [process](/word/process)：処理する、加工する
+- [cure](/word/cure/)：治す、治療する
+- [process](/word/process/)：処理する、加工する
 
 ---
 
 ## 📖 できればこれも
 
-- [examine](/word/examine)：調べる、診察する
-- [manage](/word/manage)：管理する、うまく扱う
+- [examine](/word/examine/)：調べる、診察する
+- [manage](/word/manage/)：管理する、うまく扱う
 
 <!-- cvid: aid28_bid46 -->

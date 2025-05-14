@@ -93,7 +93,7 @@ TOEICでは、疑問文や否定文、条件文で「だれか」「だれでも
 ## 🤔  someone との違いは？
 
 - **anyone**：だれでも／だれか（疑問文・否定文・条件文で使う）
-- **[someone](/word/someone)**：だれか（肯定文や申し出・依頼で使う）
+- **[someone](/word/someone/)**：だれか（肯定文や申し出・依頼で使う）
 
 anyoneは「だれでも」「だれか」と幅広く使い、特に疑問文や否定文で使われます。someoneは「特定はしないが、だれか一人」というニュアンスで、肯定文や申し出に使います。
 
@@ -101,14 +101,14 @@ anyoneは「だれでも」「だれか」と幅広く使い、特に疑問文�
 
 ## 🧩 あわせて覚えたい
 
-- [anybody](/word/anybody)：anyoneと同じ意味で、より口語的
-- [everyone](/word/everyone)：みんな、全員
+- [anybody](/word/anybody/)：anyoneと同じ意味で、より口語的
+- [everyone](/word/everyone/)：みんな、全員
 
 ---
 
 ## 📖 できればこれも
 
-- [anything](/word/anything)：何でも、何か
-- [everyone](/word/everyone)：みんな、全員
+- [anything](/word/anything/)：何でも、何か
+- [everyone](/word/everyone/)：みんな、全員
 
 <!-- cvid: aid02_bid01 -->

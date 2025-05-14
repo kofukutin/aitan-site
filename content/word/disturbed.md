@@ -97,7 +97,7 @@ TOEICでは、メールや通知文、報告書などで「disturbed」が「妨
 ## 🤔  upset との違いは？
 
 - **disturbed**：外部からの妨害や出来事で心が乱され、不安や混乱を感じる状態。
-- **[upset](/word/upset)**：主に感情的に動揺したり、怒ったり、悲しんだりする状態。
+- **[upset](/word/upset/)**：主に感情的に動揺したり、怒ったり、悲しんだりする状態。
 
 disturbedは「外的要因による心の乱れ」や「精神的な不安定さ」を強調し、upsetは「感情的な動揺」や「気分の落ち込み」に焦点を当てます。
 
@@ -105,14 +105,14 @@ disturbedは「外的要因による心の乱れ」や「精神的な不安定�
 
 ## 🧩 あわせて覚えたい
 
-- [calm](/word/calm)：落ち着いた、冷静な
-- [anxious](/word/anxious)：不安な、心配している
+- [calm](/word/calm/)：落ち着いた、冷静な
+- [anxious](/word/anxious/)：不安な、心配している
 
 ---
 
 ## 📖 できればこれも
 
-- [confused](/word/confused)：混乱した
-- [concerned](/word/concerned)：心配している
+- [confused](/word/confused/)：混乱した
+- [concerned](/word/concerned/)：心配している
 
 <!-- cvid: aid05_bid02 -->

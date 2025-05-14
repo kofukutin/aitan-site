@@ -97,7 +97,7 @@ TOEICでは、家族や教育、施設案内などの文脈でchildが登場し�
 ## 🤔  kid との違いは？
 
 - **child**：ややフォーマルで、公式な場や文章で使われる「子ども」
-- **[kid](/word/kid)**：カジュアルな会話で使われる「子ども」
+- **[kid](/word/kid/)**：カジュアルな会話で使われる「子ども」
 
 childはフォーマルな響きがあり、kidは日常会話や親しい間柄でよく使われます。
 
@@ -105,14 +105,14 @@ childはフォーマルな響きがあり、kidは日常会話や親しい間柄
 
 ## 🧩 あわせて覚えたい
 
-- [adult](/word/adult)：大人
-- [infant](/word/infant)：乳児
+- [adult](/word/adult/)：大人
+- [infant](/word/infant/)：乳児
 
 ---
 
 ## 📖 できればこれも
 
-- [parent](/word/parent)：親
-- [student](/word/student)：生徒
+- [parent](/word/parent/)：親
+- [student](/word/student/)：生徒
 
 <!-- cvid: aid41_bid22 -->

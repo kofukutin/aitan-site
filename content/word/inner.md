@@ -97,7 +97,7 @@ TOEICでは、部品や構造の説明、または抽象的な「内面」につ
 ## 🤔  internal との違いは？
 
 - **inner**：物理的・心理的な「内側」「内面」を幅広く表す。日常的な表現にも使う。
-- **[internal](/word/internal)**：よりフォーマルで、組織やシステムなど「内部的」「内在的」な意味合いが強い。
+- **[internal](/word/internal/)**：よりフォーマルで、組織やシステムなど「内部的」「内在的」な意味合いが強い。
 
 「inner」は感情や心、物の内側など幅広く使えるのに対し、「internal」は組織や機械、制度などの「内部」に限定されることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、部品や構造の説明、または抽象的な「内面」につ
 
 ## 🧩 あわせて覚えたい
 
-- [outer](/word/outer)：外側の
-- [inside](/word/inside)：内側、内部
+- [outer](/word/outer/)：外側の
+- [inside](/word/inside/)：内側、内部
 
 ---
 
 ## 📖 できればこれも
 
-- [external](/word/external)：外部の、外側の
-- [interior](/word/interior)：内部、内装
+- [external](/word/external/)：外部の、外側の
+- [interior](/word/interior/)：内部、内装
 
 <!-- cvid: aid33_bid45 -->

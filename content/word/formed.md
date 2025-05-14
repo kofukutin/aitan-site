@@ -97,7 +97,7 @@ TOEICでは、受動態や過去分詞として「be formed」「has formed」�
 ## 🤔  created との違いは？
 
 - **formed**：形や組織など、構造や枠組みを作ることに重点がある
-- **[created](/word/created)**：新しいものを生み出す、創造することに重点がある
+- **[created](/word/created/)**：新しいものを生み出す、創造することに重点がある
 
 「formed」は形や組織の成立に、「created」はゼロから新しいものを生み出すニュアンスに使い分けます。
 
@@ -105,14 +105,14 @@ TOEICでは、受動態や過去分詞として「be formed」「has formed」�
 
 ## 🧩 あわせて覚えたい
 
-- [establish](/word/establish)：設立する、確立する
-- [develop](/word/develop)：発展させる、開発する
+- [establish](/word/establish/)：設立する、確立する
+- [develop](/word/develop/)：発展させる、開発する
 
 ---
 
 ## 📖 できればこれも
 
-- [organize](/word/organize)：組織する、まとめる
-- [build](/word/build)：建てる、築く
+- [organize](/word/organize/)：組織する、まとめる
+- [build](/word/build/)：建てる、築く
 
 <!-- cvid: aid10_bid26 -->

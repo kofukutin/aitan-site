@@ -97,7 +97,7 @@ TOEICでは、記事や報告書、案内文などの長文中で「published」
 ## 🤔  released との違いは？
 
 - **published**：本や記事、公式な文書などが「出版・公表」されたことを強調
-- **[released](/word/released)**：情報や製品、映画などが「解禁・発売」されたことを強調
+- **[released](/word/released/)**：情報や製品、映画などが「解禁・発売」されたことを強調
 
 「published」は主に書かれたものや公式文書の公開に使い、「released」は幅広く新製品や映画、情報の解禁などに使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、記事や報告書、案内文などの長文中で「published」
 
 ## 🧩 あわせて覚えたい
 
-- [announce](/word/announce)：発表する
-- [issue](/word/issue)：発行する、発布する
+- [announce](/word/announce/)：発表する
+- [issue](/word/issue/)：発行する、発布する
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/word/submit)：提出する
-- [approve](/word/approve)：承認する
+- [submit](/word/submit/)：提出する
+- [approve](/word/approve/)：承認する
 
 <!-- cvid: aid24_bid42 -->

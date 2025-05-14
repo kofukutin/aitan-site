@@ -97,7 +97,7 @@ TOEICでは会議や説明の場面で「観察する」「守る」という意
 ## 🤔  notice との違いは？
 
 - **observe**：注意深く観察する、または規則などを守る（フォーマル）
-- **[notice](/word/notice)**：何かに気づく、目に留まる（カジュアル）
+- **[notice](/word/notice/)**：何かに気づく、目に留まる（カジュアル）
 
 observeは意識的・計画的にじっくり見る場合や、ルールを守る意味で使われますが、noticeは「ふと気づく」といった自然な発見に使われます。
 
@@ -105,14 +105,14 @@ observeは意識的・計画的にじっくり見る場合や、ルールを守�
 
 ## 🧩 あわせて覚えたい
 
-- [monitor](/word/monitor)：監視する、継続的に観察する
-- [ignore](/word/ignore)：無視する
+- [monitor](/word/monitor/)：監視する、継続的に観察する
+- [ignore](/word/ignore/)：無視する
 
 ---
 
 ## 📖 できればこれも
 
-- [examine](/word/examine)：詳しく調べる
-- [inspect](/word/inspect)：点検する、検査する
+- [examine](/word/examine/)：詳しく調べる
+- [inspect](/word/inspect/)：点検する、検査する
 
 <!-- cvid: aid42_bid21 -->

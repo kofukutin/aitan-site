@@ -97,7 +97,7 @@ interruptは会議や電話、説明の途中で何かが割り込む場面で�
 ## 🤔  disturb との違いは？
 
 - **interrupt**：進行中の行動や会話を一時的に止める、割り込む
-- **[disturb](/word/disturb)**：静けさや集中を乱す、気を散らす
+- **[disturb](/word/disturb/)**：静けさや集中を乱す、気を散らす
 
 interruptは「流れを止める」イメージ、disturbは「気を散らす・乱す」イメージで、会話や作業の中断にはinterruptが適切です。
 
@@ -105,14 +105,14 @@ interruptは「流れを止める」イメージ、disturbは「気を散らす�
 
 ## 🧩 あわせて覚えたい
 
-- [resume](/word/resume)：再開する
-- [pause](/word/pause)：一時停止する
+- [resume](/word/resume/)：再開する
+- [pause](/word/pause/)：一時停止する
 
 ---
 
 ## 📖 できればこれも
 
-- [delay](/word/delay)：遅らせる
-- [postpone](/word/postpone)：延期する
+- [delay](/word/delay/)：遅らせる
+- [postpone](/word/postpone/)：延期する
 
 <!-- cvid: aid14_bid16 -->

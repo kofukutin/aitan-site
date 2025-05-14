@@ -97,7 +97,7 @@ TOEICでは、アンケート結果や商品レビュー、サービスの評価
 ## 🤔  evaluation との違いは？
 
 - **rating**：数値やランクで表される「評価点」「格付け」
-- **[evaluation](/word/evaluation)**：全体的な「評価」「査定」（数値化されないことも多い）
+- **[evaluation](/word/evaluation/)**：全体的な「評価」「査定」（数値化されないことも多い）
 
 ratingは点数や星など具体的な評価値、evaluationは総合的な判断や評価そのものを指します。
 
@@ -105,14 +105,14 @@ ratingは点数や星など具体的な評価値、evaluationは総合的な判�
 
 ## 🧩 あわせて覚えたい
 
-- [score](/word/score)：点数、得点
-- [assessment](/word/assessment)：査定、評価
+- [score](/word/score/)：点数、得点
+- [assessment](/word/assessment/)：査定、評価
 
 ---
 
 ## 📖 できればこれも
 
-- [review](/word/review)：レビュー、批評
-- [grade](/word/grade)：成績、等級
+- [review](/word/review/)：レビュー、批評
+- [grade](/word/grade/)：成績、等級
 
 <!-- cvid: aid35_bid14 -->

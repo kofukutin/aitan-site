@@ -97,7 +97,7 @@ TOEICではビジネス文書や契約書、Eメールなどで頻出し、流�
 ## 🤔  wholesaler との違いは？
 
 - **distributor**：メーカーと小売店の間で商品を流通・配給する業者
-- **[wholesaler](/word/wholesaler)**：商品を大量に仕入れて小売店などに販売する卸売業者
+- **[wholesaler](/word/wholesaler/)**：商品を大量に仕入れて小売店などに販売する卸売業者
 
 distributorは流通や配給の役割が強く、wholesalerは「大量仕入れ・販売」に特化しています。
 
@@ -105,14 +105,14 @@ distributorは流通や配給の役割が強く、wholesalerは「大量仕入�
 
 ## 🧩 あわせて覚えたい
 
-- [retailer](/word/retailer)：小売業者、消費者に直接販売する業者
-- [supplier](/word/supplier)：供給業者、商品やサービスを提供する会社
+- [retailer](/word/retailer/)：小売業者、消費者に直接販売する業者
+- [supplier](/word/supplier/)：供給業者、商品やサービスを提供する会社
 
 ---
 
 ## 📖 できればこれも
 
-- [manufacturer](/word/manufacturer)：製造業者、メーカー
-- [client](/word/client)：顧客、取引先
+- [manufacturer](/word/manufacturer/)：製造業者、メーカー
+- [client](/word/client/)：顧客、取引先
 
 <!-- cvid: aid26_bid10 -->

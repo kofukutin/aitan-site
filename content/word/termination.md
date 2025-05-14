@@ -99,7 +99,7 @@ terminationは契約や雇用に関する文脈でPart 5やPart 7によく出題
 ## 🤔  cancellation との違いは？
 
 - **termination**：契約や雇用などの「正式な終了」「打ち切り」を指し、手続きや合意に基づくことが多い。
-- **[cancellation](/word/cancellation)**：予約やイベントなどの「取り消し」「キャンセル」を指し、開始前に無効にするニュアンスが強い。
+- **[cancellation](/word/cancellation/)**：予約やイベントなどの「取り消し」「キャンセル」を指し、開始前に無効にするニュアンスが強い。
 
 terminationは「すでに始まっているものを終わらせる」イメージ、cancellationは「始まる前に取り消す」イメージです。
 
@@ -107,15 +107,15 @@ terminationは「すでに始まっているものを終わらせる」イメー
 
 ## 🧩 あわせて覚えたい
 
-- [expiration](/word/expiration)：満了、期限切れ
-- [completion](/word/completion)：完了、完成
+- [expiration](/word/expiration/)：満了、期限切れ
+- [completion](/word/completion/)：完了、完成
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement)：契約、合意
-- [contract](/word/contract)：契約書、契約
+- [agreement](/word/agreement/)：契約、合意
+- [contract](/word/contract/)：契約書、契約
 
 ---
 <!-- cvid: aid15_bid45 -->

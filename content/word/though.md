@@ -94,7 +94,7 @@ TOEICでは文法問題や文脈判断で頻出します。特に「although」�
 ## 🤔  although との違いは？
 
 - **though**：カジュアルで会話的、文中・文末どちらでも使える
-- **[although](/word/although)**：ややフォーマルで主に文頭や文中に使う
+- **[although](/word/although/)**：ややフォーマルで主に文頭や文中に使う
 
 thoughは日常会話やカジュアルな文でよく使われ、althoughはフォーマルな文書やスピーチで使われる傾向があります。
 
@@ -102,14 +102,14 @@ thoughは日常会話やカジュアルな文でよく使われ、althoughはフ
 
 ## 🧩 あわせて覚えたい
 
-- [however](/word/however)：しかしながら（文頭・文中で使う逆接）
-- [even if](/word/even_if)：たとえ～でも（仮定の逆接）
+- [however](/word/however/)：しかしながら（文頭・文中で使う逆接）
+- [even if](/word/even_if/)：たとえ～でも（仮定の逆接）
 
 ---
 
 ## 📖 できればこれも
 
-- [unless](/word/unless)：～でなければ
-- [despite](/word/despite)：～にもかかわらず
+- [unless](/word/unless/)：～でなければ
+- [despite](/word/despite/)：～にもかかわらず
 
 <!-- cvid: aid28_bid18 -->

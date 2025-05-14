@@ -97,7 +97,7 @@ TOEICでは、説明や理由付け、議論の流れを問う文脈で「logica
 ## 🤔  rational との違いは？
 
 - **logical**：論理的で筋道が通っていることを強調
-- **[rational](/word/rational)**：合理的で感情に流されず理性に基づくことを強調
+- **[rational](/word/rational/)**：合理的で感情に流されず理性に基づくことを強調
 
 「logical」は理屈や論理の流れに沿っていること、「rational」は感情ではなく理性や合理性を重視する点が違います。
 
@@ -105,14 +105,14 @@ TOEICでは、説明や理由付け、議論の流れを問う文脈で「logica
 
 ## 🧩 あわせて覚えたい
 
-- [illogical](/word/illogical)：非論理的な
-- [analytical](/word/analytical)：分析的な
+- [illogical](/word/illogical/)：非論理的な
+- [analytical](/word/analytical/)：分析的な
 
 ---
 
 ## 📖 できればこれも
 
-- [reasonable](/word/reasonable)：妥当な、合理的な
-- [systematic](/word/systematic)：体系的な
+- [reasonable](/word/reasonable/)：妥当な、合理的な
+- [systematic](/word/systematic/)：体系的な
 
 <!-- cvid: aid06_bid49 -->

@@ -97,7 +97,7 @@ TOEICでは、メールや記事、案内文などの長文中で「女性たち
 ## 🤔  ladies との違いは？
 
 - **women**：年齢や立場を問わず「女性たち」を指す一般的な表現
-- **[ladies](/word/ladies)**：丁寧・フォーマルな場面や呼びかけで使われる「ご婦人方」
+- **[ladies](/word/ladies/)**：丁寧・フォーマルな場面や呼びかけで使われる「ご婦人方」
 
 womenは中立的な表現で、ladiesは礼儀正しい呼びかけや案内表示などで使われます。
 
@@ -105,14 +105,14 @@ womenは中立的な表現で、ladiesは礼儀正しい呼びかけや案内表
 
 ## 🧩 あわせて覚えたい
 
-- [girl](/word/girl)：少女、女の子
-- [man](/word/man)：男性
+- [girl](/word/girl/)：少女、女の子
+- [man](/word/man/)：男性
 
 ---
 
 ## 📖 できればこれも
 
-- [child](/word/child)：子ども
-- [person](/word/person)：人
+- [child](/word/child/)：子ども
+- [person](/word/person/)：人
 
 <!-- cvid: aid45_bid04 -->

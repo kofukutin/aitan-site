@@ -97,7 +97,7 @@ TOEICでは会議や提案、意見交換の文脈でよく登場します。選
 ## 🤔  concept との違いは？
 
 - **idea**：具体的な考えやひらめき、提案を指すことが多い
-- **[concept](/word/concept)**：抽象的な概念や理論的な枠組みを指す
+- **[concept](/word/concept/)**：抽象的な概念や理論的な枠組みを指す
 
 「idea」は日常的な「思いつき」や「提案」に使われ、「concept」はより抽象的で理論的な内容に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは会議や提案、意見交換の文脈でよく登場します。選
 
 ## 🧩 あわせて覚えたい
 
-- [notion](/word/notion)：漠然とした考え、観念
-- [plan](/word/plan)：計画、案
+- [notion](/word/notion/)：漠然とした考え、観念
+- [plan](/word/plan/)：計画、案
 
 ---
 
 ## 📖 できればこれも
 
-- [opinion](/word/opinion)：意見
-- [suggestion](/word/suggestion)：提案
+- [opinion](/word/opinion/)：意見
+- [suggestion](/word/suggestion/)：提案
 
 <!-- cvid: aid32_bid04 -->

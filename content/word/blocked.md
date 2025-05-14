@@ -97,7 +97,7 @@ blockedは、TOEICの会話や説明文で「通路がふさがれている」�
 ## 🤔  closed との違いは？
 
 - **blocked**：物理的・技術的に「ふさがれて通れない」「妨げられている」状態
-- **[closed](/word/closed)**：通常の「閉まっている」「営業していない」状態
+- **[closed](/word/closed/)**：通常の「閉まっている」「営業していない」状態
 
 blockedは障害物や制限による「通れない・使えない」ニュアンスが強く、closedは単に「閉じている」や「営業していない」ことを表します。
 
@@ -105,14 +105,14 @@ blockedは障害物や制限による「通れない・使えない」ニュア�
 
 ## 🧩 あわせて覚えたい
 
-- [obstructed](/word/obstructed)：（障害物などで）妨げられた
-- [accessible](/word/accessible)：アクセスできる、利用可能な
+- [obstructed](/word/obstructed/)：（障害物などで）妨げられた
+- [accessible](/word/accessible/)：アクセスできる、利用可能な
 
 ---
 
 ## 📖 できればこれも
 
-- [locked](/word/locked)：鍵がかかっている
-- [available](/word/available)：利用できる、手に入る
+- [locked](/word/locked/)：鍵がかかっている
+- [available](/word/available/)：利用できる、手に入る
 
 <!-- cvid: aid11_bid26 -->

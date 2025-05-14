@@ -97,7 +97,7 @@ TOEICでは主にビジネスの効率や業務改善に関する文脈で出題
 ## 🤔  ineffective との違いは？
 
 - **inefficient**：効率が悪く、無駄が多いことを強調
-- **[ineffective](/word/ineffective)**：効果がなく、目的を達成できないことを強調
+- **[ineffective](/word/ineffective/)**：効果がなく、目的を達成できないことを強調
 
 「inefficient」は手間や時間がかかる点、「ineffective」は結果が出ない点に重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは主にビジネスの効率や業務改善に関する文脈で出題
 
 ## 🧩 あわせて覚えたい
 
-- [efficient](/word/efficient)：効率的な
-- [wasteful](/word/wasteful)：無駄の多い
+- [efficient](/word/efficient/)：効率的な
+- [wasteful](/word/wasteful/)：無駄の多い
 
 ---
 
 ## 📖 できればこれも
 
-- [productive](/word/productive)：生産的な
-- [unproductive](/word/unproductive)：非生産的な
+- [productive](/word/productive/)：生産的な
+- [unproductive](/word/unproductive/)：非生産的な
 
 <!-- cvid: aid03_bid09 -->

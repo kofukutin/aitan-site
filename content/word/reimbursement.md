@@ -97,7 +97,7 @@ TOEICでは経費精算や医療費の返金など、ビジネス文書や案内
 ## 🤔  refund との違いは？
 
 - **reimbursement**：立て替えた費用や経費の精算・払い戻し
-- **[refund](/word/refund)**：購入品やサービスの返金
+- **[refund](/word/refund/)**：購入品やサービスの返金
 
 reimbursementは「誰かが一時的に支払ったお金を後から返す」場合に使い、refundは「商品やサービスの代金を返す」場合に使います。
 
@@ -105,14 +105,14 @@ reimbursementは「誰かが一時的に支払ったお金を後から返す」�
 
 ## 🧩 あわせて覚えたい
 
-- [compensation](/word/compensation)：補償、賠償
-- [allowance](/word/allowance)：手当、支給額
+- [compensation](/word/compensation/)：補償、賠償
+- [allowance](/word/allowance/)：手当、支給額
 
 ---
 
 ## 📖 できればこれも
 
-- [expense](/word/expense)：費用、出費
-- [invoice](/word/invoice)：請求書
+- [expense](/word/expense/)：費用、出費
+- [invoice](/word/invoice/)：請求書
 
 <!-- cvid: aid13_bid36 -->

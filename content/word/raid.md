@@ -97,7 +97,7 @@ TOEICではニュース記事やビジネス文書の中で、警察の手入れ
 ## 🤔  attack との違いは？
 
 - **raid**：計画的で突然の襲撃や手入れを指し、警察や軍などが行うことが多い
-- **[attack](/word/attack)**：一般的な「攻撃」で、暴力的な行為全般を広く指す
+- **[attack](/word/attack/)**：一般的な「攻撃」で、暴力的な行為全般を広く指す
 
 raidは「奇襲」や「手入れ」のように、計画性や突然性が強調され、attackはより広く「攻撃」全般に使われます。
 
@@ -105,14 +105,14 @@ raidは「奇襲」や「手入れ」のように、計画性や突然性が強�
 
 ## 🧩 あわせて覚えたい
 
-- [inspection](/word/inspection)：検査、視察
-- [robbery](/word/robbery)：強盗
+- [inspection](/word/inspection/)：検査、視察
+- [robbery](/word/robbery/)：強盗
 
 ---
 
 ## 📖 できればこれも
 
-- [arrest](/word/arrest)：逮捕
-- [search](/word/search)：捜索
+- [arrest](/word/arrest/)：逮捕
+- [search](/word/search/)：捜索
 
 <!-- cvid: aid05_bid36 -->

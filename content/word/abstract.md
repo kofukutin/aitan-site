@@ -104,7 +104,7 @@ TOEICでは主にPart 7の学術系やビジネス文書の要約部分で出題
 ## 🤔  summary との違いは？
 
 - **abstract**：主に論文やレポートの冒頭に置かれる「要旨」「概要」。学術的でフォーマルな場面で使う。
-- **[summary](/word/summary)**：内容全体の「まとめ」や「要約」。ビジネスや日常でも幅広く使う。
+- **[summary](/word/summary/)**：内容全体の「まとめ」や「要約」。ビジネスや日常でも幅広く使う。
 
 abstractは学術的な文脈で使われ、summaryはより一般的な要約やまとめに使われます。
 
@@ -112,14 +112,14 @@ abstractは学術的な文脈で使われ、summaryはより一般的な要約�
 
 ## 🧩 あわせて覚えたい
 
-- [outline](/word/outline)：概要、輪郭
-- [concept](/word/concept)：概念、考え
+- [outline](/word/outline/)：概要、輪郭
+- [concept](/word/concept/)：概念、考え
 
 ---
 
 ## 📖 できればこれも
 
-- [theory](/word/theory)：理論
-- [introduction](/word/introduction)：導入、序論
+- [theory](/word/theory/)：理論
+- [introduction](/word/introduction/)：導入、序論
 
 <!-- cvid: aid46_bid03 -->

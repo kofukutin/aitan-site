@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「何かが回っている」場面で
 ## 🤔  rotate との違いは？
 
 - **spin**：素早くくるくる回る、軸を中心に高速で回転するニュアンス
-- **[rotate](/word/rotate)**：ゆっくり・規則的に回転する、機械や部品の動きにも使う
+- **[rotate](/word/rotate/)**：ゆっくり・規則的に回転する、機械や部品の動きにも使う
 
 spinはスピード感や軽快さがあり、rotateは機械的・規則的な回転を表します。
 
@@ -105,14 +105,14 @@ spinはスピード感や軽快さがあり、rotateは機械的・規則的な�
 
 ## 🧩 あわせて覚えたい
 
-- [twist](/word/twist)：ねじる、ひねる
-- [turn](/word/turn)：向きを変える、回す
+- [twist](/word/twist/)：ねじる、ひねる
+- [turn](/word/turn/)：向きを変える、回す
 
 ---
 
 ## 📖 できればこれも
 
-- [flip](/word/flip)：パッと裏返す、はじく
-- [roll](/word/roll)：転がす、巻く
+- [flip](/word/flip/)：パッと裏返す、はじく
+- [roll](/word/roll/)：転がす、巻く
 
 <!-- cvid: aid00_bid32 -->

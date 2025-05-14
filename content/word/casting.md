@@ -97,7 +97,7 @@ TOEICでは、映画や広告、製造業の文脈で「casting」が登場す�
 ## 🤔  molding との違いは？
 
 - **casting**：型に流し込んで成形する「鋳造」や、役を割り当てる「配役決定」
-- **[molding](/word/molding)**：型に押し当てて形を作る「成形」
+- **[molding](/word/molding/)**：型に押し当てて形を作る「成形」
 
 castingは液体や溶けた材料を型に流し込む方法、moldingは材料を型に押し当てて形を作る方法で、工法や使われる場面が異なります。
 
@@ -105,14 +105,14 @@ castingは液体や溶けた材料を型に流し込む方法、moldingは材料
 
 ## 🧩 あわせて覚えたい
 
-- [audition](/word/audition)：オーディション、出演者選考
-- [production](/word/production)：制作、製造
+- [audition](/word/audition/)：オーディション、出演者選考
+- [production](/word/production/)：制作、製造
 
 ---
 
 ## 📖 できればこれも
 
-- [manufacture](/word/manufacture)：製造する
-- [selection](/word/selection)：選択、選抜
+- [manufacture](/word/manufacture/)：製造する
+- [selection](/word/selection/)：選択、選抜
 
 <!-- cvid: aid49_bid15 -->

@@ -98,7 +98,7 @@ TOEICでは「be faced with」や「faced challenges」など、状況説明や�
 ## 🤔  encounter との違いは？
 
 - **faced**：困難や問題などに「直面した」「向き合った」という意味で、受け身や状況説明で使われやすい。
-- **[encounter](/word/encounter)**：偶然や予期せず「出会う」「遭遇する」という意味で、ややフォーマル。
+- **[encounter](/word/encounter/)**：偶然や予期せず「出会う」「遭遇する」という意味で、ややフォーマル。
 
 facedは「避けられない問題に向き合う」ニュアンス、encounterは「思いがけず出会う」ニュアンスがあります。
 
@@ -106,14 +106,14 @@ facedは「避けられない問題に向き合う」ニュアンス、encounter
 
 ## 🧩 あわせて覚えたい
 
-- [confront](/word/confront)：（困難などに）立ち向かう
-- [deal_with](/word/deal_with)：（問題などを）対処する
+- [confront](/word/confront/)：（困難などに）立ち向かう
+- [deal_with](/word/deal_with/)：（問題などを）対処する
 
 ---
 
 ## 📖 できればこれも
 
-- [handle](/word/handle)：扱う、対処する
-- [address](/word/address)：（問題などに）取り組む
+- [handle](/word/handle/)：扱う、対処する
+- [address](/word/address/)：（問題などに）取り組む
 
 <!-- cvid: aid49_bid26 -->

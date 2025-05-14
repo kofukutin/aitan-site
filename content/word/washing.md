@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写問題で「洗濯」や「洗っている様子
 ## 🤔  laundry との違いは？
 
 - **washing**：洗うこと全般や洗濯物（特にイギリス英語でよく使う）
-- **[laundry](/word/laundry)**：洗濯物やクリーニング店（アメリカ英語で一般的）
+- **[laundry](/word/laundry/)**：洗濯物やクリーニング店（アメリカ英語で一般的）
 
 washingは「洗う行為」や「洗濯物」全般を指し、laundryは主に「洗濯物」や「クリーニング店」を意味します。イギリス英語ではwashing、アメリカ英語ではlaundryがよく使われます。
 
@@ -105,14 +105,14 @@ washingは「洗う行為」や「洗濯物」全般を指し、laundryは主に
 
 ## 🧩 あわせて覚えたい
 
-- [cleaning](/word/cleaning)：掃除、清掃
-- [dishwashing](/word/dishwashing)：食器洗い
+- [cleaning](/word/cleaning/)：掃除、清掃
+- [dishwashing](/word/dishwashing/)：食器洗い
 
 ---
 
 ## 📖 できればこれも
 
-- [drying](/word/drying)：乾燥、乾かすこと
-- [ironing](/word/ironing)：アイロンがけ
+- [drying](/word/drying/)：乾燥、乾かすこと
+- [ironing](/word/ironing/)：アイロンがけ
 
 <!-- cvid: aid20_bid26 -->

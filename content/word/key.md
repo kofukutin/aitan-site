@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「鍵」「重要なポイント」として頻
 ## 🤔  clue との違いは？
 
 - **key**：問題解決や成功の「決定的な要素」「カギ」となるもの
-- **[clue](/word/clue)**：謎や問題を解くための「手がかり」「ヒント」
+- **[clue](/word/clue/)**：謎や問題を解くための「手がかり」「ヒント」
 
 keyは「最も重要な要素」、clueは「解決に近づくためのヒント」という違いがあります。
 
@@ -105,14 +105,14 @@ keyは「最も重要な要素」、clueは「解決に近づくためのヒン�
 
 ## 🧩 あわせて覚えたい
 
-- [password](/word/password)：パスワード、合言葉
-- [solution](/word/solution)：解決策、答え
+- [password](/word/password/)：パスワード、合言葉
+- [solution](/word/solution/)：解決策、答え
 
 ---
 
 ## 📖 できればこれも
 
-- [lock](/word/lock)：錠、ロック
-- [main](/word/main)：主な、主要な
+- [lock](/word/lock/)：錠、ロック
+- [main](/word/main/)：主な、主要な
 
 <!-- cvid: aid07_bid12 -->

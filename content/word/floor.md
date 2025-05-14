@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「床」や「階」を説明する場
 ## 🤔  ground との違いは？
 
 - **floor**：建物の中の「床」や「階」を指す
-- **[ground](/word/ground)**：屋外の「地面」や「土地」を指す
+- **[ground](/word/ground/)**：屋外の「地面」や「土地」を指す
 
 floorは室内や建物内で使い、groundは屋外や自然の地面を指します。使い分けに注意しましょう。
 
@@ -105,14 +105,14 @@ floorは室内や建物内で使い、groundは屋外や自然の地面を指し
 
 ## 🧩 あわせて覚えたい
 
-- [ceiling](/word/ceiling)：天井
-- [carpet](/word/carpet)：カーペット、じゅうたん
+- [ceiling](/word/ceiling/)：天井
+- [carpet](/word/carpet/)：カーペット、じゅうたん
 
 ---
 
 ## 📖 できればこれも
 
-- [wall](/word/wall)：壁
-- [room](/word/room)：部屋
+- [wall](/word/wall/)：壁
+- [room](/word/room/)：部屋
 
 <!-- cvid: aid07_bid27 -->

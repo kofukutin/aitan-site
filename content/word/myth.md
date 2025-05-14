@@ -97,7 +97,7 @@ TOEICでは、読み物や説明文の中で「神話」や「誤解」といっ
 ## 🤔  legend との違いは？
 
 - **myth**：神話や根拠のない通説、誤解を含む話
-- **[legend](/word/legend)**：歴史的事実に基づくこともある伝説や英雄譚
+- **[legend](/word/legend/)**：歴史的事実に基づくこともある伝説や英雄譚
 
 mythは事実かどうかに関係なく広く信じられている話や誤解を指し、legendは特定の人物や出来事にまつわる伝説的な物語を指します。
 
@@ -105,14 +105,14 @@ mythは事実かどうかに関係なく広く信じられている話や誤解�
 
 ## 🧩 あわせて覚えたい
 
-- [fable](/word/fable)：教訓を含む寓話
-- [fact](/word/fact)：事実
+- [fable](/word/fable/)：教訓を含む寓話
+- [fact](/word/fact/)：事実
 
 ---
 
 ## 📖 できればこれも
 
-- [story](/word/story)：物語、話
-- [belief](/word/belief)：信念、信じていること
+- [story](/word/story/)：物語、話
+- [belief](/word/belief/)：信念、信じていること
 
 <!-- cvid: aid22_bid17 -->

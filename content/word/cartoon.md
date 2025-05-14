@@ -97,7 +97,7 @@ TOEICでは、雑誌や広告、記事の内容説明などでcartoonが登場�
 ## 🤔  animation との違いは？
 
 - **cartoon**：主に漫画やアニメ作品そのもの、特に子ども向けや風刺画を指す
-- **[animation](/word/animation)**：アニメーション技術や映像全般を指し、cartoonより広い意味
+- **[animation](/word/animation/)**：アニメーション技術や映像全般を指し、cartoonより広い意味
 
 cartoonは作品や絵そのもの、animationは動かす技術やジャンル全体を指します。
 
@@ -105,14 +105,14 @@ cartoonは作品や絵そのもの、animationは動かす技術やジャンル�
 
 ## 🧩 あわせて覚えたい
 
-- [comic](/word/comic)：コミック、漫画本
-- [sketch](/word/sketch)：スケッチ、素描
+- [comic](/word/comic/)：コミック、漫画本
+- [sketch](/word/sketch/)：スケッチ、素描
 
 ---
 
 ## 📖 できればこれも
 
-- [poster](/word/poster)：ポスター、掲示用の大きな紙
-- [magazine](/word/magazine)：雑誌
+- [poster](/word/poster/)：ポスター、掲示用の大きな紙
+- [magazine](/word/magazine/)：雑誌
 
 <!-- cvid: aid07_bid18 -->

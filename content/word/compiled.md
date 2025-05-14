@@ -97,7 +97,7 @@ TOEICでは、報告書やデータ、資料を「まとめる」「編集する
 ## 🤔  collected との違いは？
 
 - **compiled**：集めた情報を整理・編集して一つにまとめる
-- **[collected](/word/collected)**：単に集める、集まった状態
+- **[collected](/word/collected/)**：単に集める、集まった状態
 
 compiledは「編集・整理してまとめる」ニュアンスがあり、collectedは「集める」だけで編集や整理の意味は含みません。
 
@@ -105,14 +105,14 @@ compiledは「編集・整理してまとめる」ニュアンスがあり、col
 
 ## 🧩 あわせて覚えたい
 
-- [assemble](/word/assemble)：集めて組み立てる
-- [edit](/word/edit)：編集する
+- [assemble](/word/assemble/)：集めて組み立てる
+- [edit](/word/edit/)：編集する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze)：分析する
-- [summarize](/word/summarize)：要約する
+- [analyze](/word/analyze/)：分析する
+- [summarize](/word/summarize/)：要約する
 
 <!-- cvid: aid39_bid36 -->

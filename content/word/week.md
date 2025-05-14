@@ -97,7 +97,7 @@ TOEICでは日付やスケジュール、予定を尋ねる場面で頻出しま
 ## 🤔  weekday との違いは？
 
 - **week**：7日間の「週」全体を指す
-- **[weekday](/word/weekday)**：月曜から金曜までの「平日」を指す
+- **[weekday](/word/weekday/)**：月曜から金曜までの「平日」を指す
 
 **week**は日曜から土曜までの1週間全体を表しますが、**weekday**は「平日」だけを指し、土日を含みません。
 
@@ -105,14 +105,14 @@ TOEICでは日付やスケジュール、予定を尋ねる場面で頻出しま
 
 ## 🧩 あわせて覚えたい
 
-- [month](/word/month)：月、1か月
-- [weekend](/word/weekend)：週末（土日）
+- [month](/word/month/)：月、1か月
+- [weekend](/word/weekend/)：週末（土日）
 
 ---
 
 ## 📖 できればこれも
 
-- [day](/word/day)：日、1日
-- [hour](/word/hour)：時間、1時間
+- [day](/word/day/)：日、1日
+- [hour](/word/hour/)：時間、1時間
 
 <!-- cvid: aid16_bid48 -->

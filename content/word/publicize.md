@@ -97,7 +97,7 @@ TOEICでは、広告やお知らせ、プレスリリースなどの文脈でよ
 ## 🤔  announce との違いは？
 
 - **publicize**：広く一般に知らせる、宣伝する（特に多くの人に向けて積極的に広めるニュアンス）
-- **[announce](/word/announce)**：公式に発表する（内容を伝えること自体が主目的）
+- **[announce](/word/announce/)**：公式に発表する（内容を伝えること自体が主目的）
 
 publicizeは「広く知ってもらう」ことに重点があり、announceは「公式に発表する」ことに重点があります。
 
@@ -105,14 +105,14 @@ publicizeは「広く知ってもらう」ことに重点があり、announceは
 
 ## 🧩 あわせて覚えたい
 
-- [promote](/word/promote)：促進する、宣伝する
-- [advertise](/word/advertise)：広告する、宣伝する
+- [promote](/word/promote/)：促進する、宣伝する
+- [advertise](/word/advertise/)：広告する、宣伝する
 
 ---
 
 ## 📖 できればこれも
 
-- [inform](/word/inform)：知らせる、通知する
-- [notify](/word/notify)：正式に通知する
+- [inform](/word/inform/)：知らせる、通知する
+- [notify](/word/notify/)：正式に通知する
 
 <!-- cvid: aid13_bid34 -->

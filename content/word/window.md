@@ -97,7 +97,7 @@ TOEICでは、会議室やオフィスの描写、IT関連の説明でよく登�
 ## 🤔  opportunity との違いは？
 
 - **window**：短い期間や限定された機会を強調する
-- **[opportunity](/word/opportunity)**：一般的な「機会」や「チャンス」を表す
+- **[opportunity](/word/opportunity/)**：一般的な「機会」や「チャンス」を表す
 
 windowは「限られた時間枠」や「一時的なチャンス」を指し、opportunityはより広く使える「機会」です。
 
@@ -105,14 +105,14 @@ windowは「限られた時間枠」や「一時的なチャンス」を指し�
 
 ## 🧩 あわせて覚えたい
 
-- [door](/word/door)：ドア、扉
-- [screen](/word/screen)：画面、スクリーン
+- [door](/word/door/)：ドア、扉
+- [screen](/word/screen/)：画面、スクリーン
 
 ---
 
 ## 📖 できればこれも
 
-- [room](/word/room)：部屋、空間
-- [table](/word/table)：テーブル、机
+- [room](/word/room/)：部屋、空間
+- [table](/word/table/)：テーブル、机
 
 <!-- cvid: aid16_bid38 -->

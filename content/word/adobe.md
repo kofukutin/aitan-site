@@ -96,7 +96,7 @@ TOEICでは環境や建築に関する長文や説明文で登場することが
 ## 🤔  brick との違いは？
 
 - **adobe**：粘土とわらを混ぜて天日で乾かした「日干しれんが」やその建物を指す。
-- **[brick](/word/brick)**：焼いて固めた「れんが」。一般的な建築材料。
+- **[brick](/word/brick/)**：焼いて固めた「れんが」。一般的な建築材料。
 
 adobeは焼かずに乾燥させる伝統的な素材、brickは高温で焼成する現代的な建材という違いがあります。
 
@@ -104,14 +104,14 @@ adobeは焼かずに乾燥させる伝統的な素材、brickは高温で焼成�
 
 ## 🧩 あわせて覚えたい
 
-- [clay](/word/clay)：粘土
-- [mud](/word/mud)：泥
+- [clay](/word/clay/)：粘土
+- [mud](/word/mud/)：泥
 
 ---
 
 ## 📖 できればこれも
 
-- [straw](/word/straw)：わら
-- [plaster](/word/plaster)：しっくい、塗り壁材
+- [straw](/word/straw/)：わら
+- [plaster](/word/plaster/)：しっくい、塗り壁材
 
 <!-- cvid: aid31_bid32 -->

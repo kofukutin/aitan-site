@@ -97,7 +97,7 @@ TOEICではビジネス文書や会議の議事録、提案書などで頻出し
 ## 🤔  tactic との違いは？
 
 - **strategy**：大きな目標を達成するための全体的な計画や方針
-- **[tactic](/word/tactic)**：戦略を実現するための具体的な方法や手段
+- **[tactic](/word/tactic/)**：戦略を実現するための具体的な方法や手段
 
 strategyは「全体像」、tacticは「個々の手段」という違いがあります。たとえば、strategyが「試合に勝つための計画」なら、tacticは「パスを多用する」などの具体的な動きです。
 
@@ -105,14 +105,14 @@ strategyは「全体像」、tacticは「個々の手段」という違いがあ
 
 ## 🧩 あわせて覚えたい
 
-- [plan](/word/plan)：計画
-- [policy](/word/policy)：方針
+- [plan](/word/plan/)：計画
+- [policy](/word/policy/)：方針
 
 ---
 
 ## 📖 できればこれも
 
-- [objective](/word/objective)：目的、目標
-- [goal](/word/goal)：目標
+- [objective](/word/objective/)：目的、目標
+- [goal](/word/goal/)：目標
 
 <!-- cvid: aid45_bid09 -->

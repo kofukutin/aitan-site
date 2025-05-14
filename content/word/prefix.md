@@ -97,7 +97,7 @@ TOEICでは語形成や単語の構造に関する問題で出題されること
 ## 🤔  preposition との違いは？
 
 - **prefix**：単語の先頭につけて意味を変える「接頭辞」
-- **[preposition](/word/preposition)**：名詞や代名詞の前に置いて関係を示す「前置詞」
+- **[preposition](/word/preposition/)**：名詞や代名詞の前に置いて関係を示す「前置詞」
 
 「prefix」は単語の一部として意味を変える役割ですが、「preposition」は文法的に語句同士の関係を示す語です。
 
@@ -105,14 +105,14 @@ TOEICでは語形成や単語の構造に関する問題で出題されること
 
 ## 🧩 あわせて覚えたい
 
-- [suffix](/word/suffix)：接尾辞（単語の語尾につく部分）
-- [affix](/word/affix)：接辞（接頭辞・接尾辞などの総称）
+- [suffix](/word/suffix/)：接尾辞（単語の語尾につく部分）
+- [affix](/word/affix/)：接辞（接頭辞・接尾辞などの総称）
 
 ---
 
 ## 📖 できればこれも
 
-- [root](/word/root)：語根、単語の基本部分
-- [term](/word/term)：用語、専門語
+- [root](/word/root/)：語根、単語の基本部分
+- [term](/word/term/)：用語、専門語
 
 <!-- cvid: aid44_bid22 -->

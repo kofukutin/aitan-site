@@ -97,7 +97,7 @@ TOEICでは「荷造りする」「詰める」という意味で、旅行や出
 ## 🤔  package との違いは？
 
 - **pack**：物を詰める、荷造りする動作を表す動詞
-- **[package](/word/package)**：箱や袋などの「包装・パッケージ」そのもの（名詞）や「包装する」（動詞）
+- **[package](/word/package/)**：箱や袋などの「包装・パッケージ」そのもの（名詞）や「包装する」（動詞）
 
 packは「詰める」という行為、packageは「包装されたもの」や「包装すること」に焦点があります。
 
@@ -105,14 +105,14 @@ packは「詰める」という行為、packageは「包装されたもの」や
 
 ## 🧩 あわせて覚えたい
 
-- [unpack](/word/unpack)：荷ほどきする
-- [wrap](/word/wrap)：包む
+- [unpack](/word/unpack/)：荷ほどきする
+- [wrap](/word/wrap/)：包む
 
 ---
 
 ## 📖 できればこれも
 
-- [prepare](/word/prepare)：準備する
-- [carry](/word/carry)：運ぶ
+- [prepare](/word/prepare/)：準備する
+- [carry](/word/carry/)：運ぶ
 
 <!-- cvid: aid25_bid20 -->

@@ -97,7 +97,7 @@ TOEICでは、公式文書やビジネスメール、組織図などで役職名
 ## 🤔  director との違いは？
 
 - **commissioner**：特定の分野や地域を統括する委員・長官・理事など、任命された責任者を指すフォーマルな語。
-- **[director](/word/director)**：会社や団体の部門・部署などの「部長」「取締役」など、管理職全般を指す語。
+- **[director](/word/director/)**：会社や団体の部門・部署などの「部長」「取締役」など、管理職全般を指す語。
 
 commissionerは公的機関や委員会などで使われることが多く、directorは企業や組織の管理職に広く使われます。
 
@@ -105,14 +105,14 @@ commissionerは公的機関や委員会などで使われることが多く、di
 
 ## 🧩 あわせて覚えたい
 
-- [supervisor](/word/supervisor)：監督者、現場責任者
-- [officer](/word/officer)：役員、幹部、警官
+- [supervisor](/word/supervisor/)：監督者、現場責任者
+- [officer](/word/officer/)：役員、幹部、警官
 
 ---
 
 ## 📖 できればこれも
 
-- [committee](/word/committee)：委員会
-- [executive](/word/executive)：重役、経営幹部
+- [committee](/word/committee/)：委員会
+- [executive](/word/executive/)：重役、経営幹部
 
 <!-- cvid: aid39_bid47 -->

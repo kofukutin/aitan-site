@@ -97,7 +97,7 @@ TOEICでは、会議やプレゼン、機器の説明などで「audio」が音�
 ## 🤔  sound との違いは？
 
 - **audio**：録音・再生・送信される「音声」や「音響」を指す
-- **[sound](/word/sound)**：自然界の「音」全般や物理的な音を広く指す
+- **[sound](/word/sound/)**：自然界の「音」全般や物理的な音を広く指す
 
 audioは機械やメディアを通じて扱う音声に使われ、soundは日常のあらゆる「音」に使われます。
 
@@ -105,14 +105,14 @@ audioは機械やメディアを通じて扱う音声に使われ、soundは日�
 
 ## 🧩 あわせて覚えたい
 
-- [voice](/word/voice)：声、話し声
-- [recording](/word/recording)：録音、記録
+- [voice](/word/voice/)：声、話し声
+- [recording](/word/recording/)：録音、記録
 
 ---
 
 ## 📖 できればこれも
 
-- [video](/word/video)：映像、ビデオ
-- [visual](/word/visual)：視覚的な、見えるもの
+- [video](/word/video/)：映像、ビデオ
+- [visual](/word/visual/)：視覚的な、見えるもの
 
 <!-- cvid: aid11_bid33 -->

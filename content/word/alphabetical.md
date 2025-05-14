@@ -97,7 +97,7 @@ TOEICでは、書類やリストの並び順を説明する文脈で出題され
 ## 🤔  numerical との違いは？
 
 - **alphabetical**：アルファベット順の
-- **[numerical](/word/numerical)**：数字順の
+- **[numerical](/word/numerical/)**：数字順の
 
 「alphabetical」は文字の順、「numerical」は数字の順を表し、リストやデータの並び方を区別する際に使い分けます。
 
@@ -105,14 +105,14 @@ TOEICでは、書類やリストの並び順を説明する文脈で出題され
 
 ## 🧩 あわせて覚えたい
 
-- [sequential](/word/sequential)：順序通りの、連続した
-- [chronological](/word/chronological)：年代順の
+- [sequential](/word/sequential/)：順序通りの、連続した
+- [chronological](/word/chronological/)：年代順の
 
 ---
 
 ## 📖 できればこれも
 
-- [manual](/word/manual)：手動の、手引き
-- [logical](/word/logical)：論理的な
+- [manual](/word/manual/)：手動の、手引き
+- [logical](/word/logical/)：論理的な
 
 <!-- cvid: aid18_bid19 -->

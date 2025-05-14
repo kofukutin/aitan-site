@@ -97,7 +97,7 @@ TOEICでは、家系や歴史、研究に関する長文や記事で見かける
 ## 🤔  ancestry との違いは？
 
 - **genealogy**：家系や血統の「系図」や「研究」を指し、家族のつながりを体系的に示す言葉。
-- **[ancestry](/word/ancestry)**：先祖や血統そのもの、ルーツを指す言葉。
+- **[ancestry](/word/ancestry/)**：先祖や血統そのもの、ルーツを指す言葉。
 
 genealogyは「系図」や「家系図」といった記録や研究に重点があり、ancestryは「先祖」や「血統」という実体そのものを表します。
 
@@ -105,14 +105,14 @@ genealogyは「系図」や「家系図」といった記録や研究に重点�
 
 ## 🧩 あわせて覚えたい
 
-- [lineage](/word/lineage)：血統、家系
-- [descendant](/word/descendant)：子孫
+- [lineage](/word/lineage/)：血統、家系
+- [descendant](/word/descendant/)：子孫
 
 ---
 
 ## 📖 できればこれも
 
-- [heritage](/word/heritage)：遺産、伝統
-- [origin](/word/origin)：起源、由来
+- [heritage](/word/heritage/)：遺産、伝統
+- [origin](/word/origin/)：起源、由来
 
 <!-- cvid: aid00_bid10 -->

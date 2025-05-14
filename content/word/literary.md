@@ -97,7 +97,7 @@ TOEICでは、文学作品や出版、教育関連の記事や広告文で見か
 ## 🤔  academic との違いは？
 
 - **literary**：文学に関する、文学的な
-- **[academic](/word/academic)**：学問の、学術的な
+- **[academic](/word/academic/)**：学問の、学術的な
 
 literaryは「文学」に特化した表現で、詩や小説などの芸術的な文章に使われます。academicは「学問全般」に関する広い意味で、理系・文系問わず教育や研究に関わる場面で使われます。
 
@@ -105,14 +105,14 @@ literaryは「文学」に特化した表現で、詩や小説などの芸術的
 
 ## 🧩 あわせて覚えたい
 
-- [artistic](/word/artistic)：芸術的な
-- [fiction](/word/fiction)：フィクション、小説
+- [artistic](/word/artistic/)：芸術的な
+- [fiction](/word/fiction/)：フィクション、小説
 
 ---
 
 ## 📖 できればこれも
 
-- [literal](/word/literal)：文字通りの
-- [editor](/word/editor)：編集者
+- [literal](/word/literal/)：文字通りの
+- [editor](/word/editor/)：編集者
 
 <!-- cvid: aid02_bid09 -->

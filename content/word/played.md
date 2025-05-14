@@ -99,7 +99,7 @@ TOEICでは、写真描写や会話文で「play」の過去形としてよく�
 ## 🤔  performed との違いは？
 
 - **played**：遊ぶ・演奏する・試合をするなど幅広い「プレイ」を表す
-- **[performed](/word/performed)**：演奏や演技など「披露する」「実演する」意味が強い
+- **[performed](/word/performed/)**：演奏や演技など「披露する」「実演する」意味が強い
 
 「played」はカジュアルに遊びやスポーツ、楽器演奏など幅広く使い、「performed」は舞台や公式な場での演奏・演技などフォーマルな場面で使われます。
 
@@ -107,14 +107,14 @@ TOEICでは、写真描写や会話文で「play」の過去形としてよく�
 
 ## 🧩 あわせて覚えたい
 
-- [practice](/word/practice)：練習する
-- [compete](/word/compete)：競争する
+- [practice](/word/practice/)：練習する
+- [compete](/word/compete/)：競争する
 
 ---
 
 ## 📖 できればこれも
 
-- [work](/word/work)：働く
-- [study](/word/study)：勉強する
+- [work](/word/work/)：働く
+- [study](/word/study/)：勉強する
 
 <!-- cvid: aid21_bid19 -->

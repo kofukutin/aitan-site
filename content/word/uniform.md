@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「制服を着ている」などの場
 ## 🤔  outfit との違いは？
 
 - **uniform**：決まったデザインの制服やユニフォーム
-- **[outfit](/word/outfit)**：特定の目的や場面に合わせた服装全体
+- **[outfit](/word/outfit/)**：特定の目的や場面に合わせた服装全体
 
 uniformは「決められた制服」、outfitは「コーディネートされた服装」や「一式の服」を指し、uniformの方が統一感や規則性が強いです。
 
@@ -105,14 +105,14 @@ uniformは「決められた制服」、outfitは「コーディネートされ�
 
 ## 🧩 あわせて覚えたい
 
-- [costume](/word/costume)：衣装、仮装
-- [attire](/word/attire)：（フォーマルな）服装
+- [costume](/word/costume/)：衣装、仮装
+- [attire](/word/attire/)：（フォーマルな）服装
 
 ---
 
 ## 📖 できればこれも
 
-- [suit](/word/suit)：スーツ
-- [clothing](/word/clothing)：衣類
+- [suit](/word/suit/)：スーツ
+- [clothing](/word/clothing/)：衣類
 
 <!-- cvid: aid31_bid12 -->

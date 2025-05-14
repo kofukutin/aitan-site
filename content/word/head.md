@@ -97,7 +97,7 @@ TOEICでは「部門の責任者」や「会議の議長」など、組織内の
 ## 🤔  leader との違いは？
 
 - **head**：公式な組織や部門の「責任者」「長」を指すことが多い
-- **[leader](/word/leader)**：集団を率いる「リーダー」全般を指し、公式・非公式どちらにも使える
+- **[leader](/word/leader/)**：集団を率いる「リーダー」全般を指し、公式・非公式どちらにも使える
 
 headは役職や肩書きとして使われることが多く、leaderは影響力や率先力を強調する場面で使われます。
 
@@ -105,14 +105,14 @@ headは役職や肩書きとして使われることが多く、leaderは影響�
 
 ## 🧩 あわせて覚えたい
 
-- [chief](/word/chief)：（組織の）長、最高責任者
-- [manager](/word/manager)：管理職、マネージャー
+- [chief](/word/chief/)：（組織の）長、最高責任者
+- [manager](/word/manager/)：管理職、マネージャー
 
 ---
 
 ## 📖 できればこれも
 
-- [chair](/word/chair)：議長、委員長
-- [director](/word/director)：取締役、部長
+- [chair](/word/chair/)：議長、委員長
+- [director](/word/director/)：取締役、部長
 
 <!-- cvid: aid34_bid02 -->

@@ -96,7 +96,7 @@ TOEICでは主にPart 1の写真描写問題で、容器や箱の「ふた」を
 ## 🤔  cover との違いは？
 
 - **lid**：容器や箱などの「ふた」そのものを指す
-- **[cover](/word/cover)**：覆うもの全般（布やカバーなど広い意味）
+- **[cover](/word/cover/)**：覆うもの全般（布やカバーなど広い意味）
 
 **lid**は主に容器や箱の「ふた」に限定されますが、**cover**は本や布団など、広く「覆うもの」全般を指します。
 
@@ -104,14 +104,14 @@ TOEICでは主にPart 1の写真描写問題で、容器や箱の「ふた」を
 
 ## 🧩 あわせて覚えたい
 
-- [cap](/word/cap)：（びん・ペンなどの）キャップ、ふた
-- [container](/word/container)：容器
+- [cap](/word/cap/)：（びん・ペンなどの）キャップ、ふた
+- [container](/word/container/)：容器
 
 ---
 
 ## 📖 できればこれも
 
-- [box](/word/box)：箱
-- [bottle](/word/bottle)：ボトル、瓶
+- [box](/word/box/)：箱
+- [bottle](/word/bottle/)：ボトル、瓶
 
 <!-- cvid: aid25_bid18 -->

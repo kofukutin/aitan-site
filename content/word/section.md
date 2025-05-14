@@ -97,7 +97,7 @@ TOEICでは主に長文読解や説明文で「部門」「区分」「節」な
 ## 🤔  part との違いは？
 
 - **section**：全体を明確に区切った「区分」「部門」「節」など、構造的なまとまりを強調。
-- **[part](/word/part)**：全体の「一部」「部分」として、必ずしも明確な区切りや構造を持たない場合にも使う。
+- **[part](/word/part/)**：全体の「一部」「部分」として、必ずしも明確な区切りや構造を持たない場合にも使う。
 
 sectionは組織や文書などで明確に分けられたまとまりを指し、partはより広く「一部分」として使われます。
 
@@ -105,14 +105,14 @@ sectionは組織や文書などで明確に分けられたまとまりを指し�
 
 ## 🧩 あわせて覚えたい
 
-- [division](/word/division)：分割、部門
-- [segment](/word/segment)：区切り、部分
+- [division](/word/division/)：分割、部門
+- [segment](/word/segment/)：区切り、部分
 
 ---
 
 ## 📖 できればこれも
 
-- [chapter](/word/chapter)：（本などの）章
-- [paragraph](/word/paragraph)：段落
+- [chapter](/word/chapter/)：（本などの）章
+- [paragraph](/word/paragraph/)：段落
 
 <!-- cvid: aid05_bid27 -->

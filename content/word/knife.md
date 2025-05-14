@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、テーブルの上や調理場面な
 ## 🤔  scissors との違いは？
 
 - **knife**：物を切るための刃物全般。特に食事や調理、工作で使う。
-- **[scissors](/word/scissors)**：2枚の刃で紙や布などを挟んで切る道具。
+- **[scissors](/word/scissors/)**：2枚の刃で紙や布などを挟んで切る道具。
 
 knifeは「押し切る」動作、scissorsは「挟み切る」動作という違いがあります。
 
@@ -105,14 +105,14 @@ knifeは「押し切る」動作、scissorsは「挟み切る」動作という�
 
 ## 🧩 あわせて覚えたい
 
-- [fork](/word/fork)：フォーク（食事用の道具）
-- [blade](/word/blade)：刃、刀身
+- [fork](/word/fork/)：フォーク（食事用の道具）
+- [blade](/word/blade/)：刃、刀身
 
 ---
 
 ## 📖 できればこれも
 
-- [spoon](/word/spoon)：スプーン
-- [plate](/word/plate)：皿
+- [spoon](/word/spoon/)：スプーン
+- [plate](/word/plate/)：皿
 
 <!-- cvid: aid02_bid18 -->

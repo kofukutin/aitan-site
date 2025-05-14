@@ -97,7 +97,7 @@ TOEICでは主にビジネスや経済に関する長文で登場し、特に貿
 ## 🤔  product との違いは？
 
 - **commodity**：主に原材料や農産物など、市場で広く取引される標準化された商品
-- **[product](/word/product)**：製造・加工された製品全般
+- **[product](/word/product/)**：製造・加工された製品全般
 
 commodityは「原材料」や「一次産品」に特化し、productは「完成品」や「製品」全般を指します。
 
@@ -105,14 +105,14 @@ commodityは「原材料」や「一次産品」に特化し、productは「完�
 
 ## 🧩 あわせて覚えたい
 
-- [merchandise](/word/merchandise)：商品、製品（売買される品物全般）
-- [asset](/word/asset)：資産（企業や個人が所有する価値あるもの）
+- [merchandise](/word/merchandise/)：商品、製品（売買される品物全般）
+- [asset](/word/asset/)：資産（企業や個人が所有する価値あるもの）
 
 ---
 
 ## 📖 できればこれも
 
-- [inventory](/word/inventory)：在庫、棚卸資産
-- [goods](/word/goods)：商品、品物
+- [inventory](/word/inventory/)：在庫、棚卸資産
+- [goods](/word/goods/)：商品、品物
 
 <!-- cvid: aid46_bid16 -->

@@ -97,7 +97,7 @@ TOEICでは文書作成や説明文の中で「省略する」「抜かす」と
 ## 🤔  skip との違いは？
 
 - **omit**：意図的またはうっかり何かを省略・除外する（ややフォーマル）
-- **[skip](/word/skip)**：順番や手順を飛ばす、抜かす（カジュアル）
+- **[skip](/word/skip/)**：順番や手順を飛ばす、抜かす（カジュアル）
 
 omitは書類や説明などで「省略する」時に使い、skipは「順番を飛ばす」「飛ばして進む」など日常的な場面で使います。
 
@@ -105,14 +105,14 @@ omitは書類や説明などで「省略する」時に使い、skipは「順番
 
 ## 🧩 あわせて覚えたい
 
-- [exclude](/word/exclude)：除外する
-- [delete](/word/delete)：削除する
+- [exclude](/word/exclude/)：除外する
+- [delete](/word/delete/)：削除する
 
 ---
 
 ## 📖 できればこれも
 
-- [remove](/word/remove)：取り除く
-- [ignore](/word/ignore)：無視する
+- [remove](/word/remove/)：取り除く
+- [ignore](/word/ignore/)：無視する
 
 <!-- cvid: aid20_bid39 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、水泳やプール、海のシ
 ## 🤔  float との違いは？
 
 - **swim**：手足を使って水中を進む「泳ぐ」
-- **[float](/word/float)**：水に浮かぶ、浮かせる
+- **[float](/word/float/)**：水に浮かぶ、浮かせる
 
 swimは「泳ぐ」動作そのものを指し、floatは「浮かぶ」状態を表します。泳げなくてもfloatはできますが、swimは自分で動くことが必要です。
 
@@ -105,14 +105,14 @@ swimは「泳ぐ」動作そのものを指し、floatは「浮かぶ」状態�
 
 ## 🧩 あわせて覚えたい
 
-- [dive](/word/dive)：潜る
-- [sink](/word/sink)：沈む
+- [dive](/word/dive/)：潜る
+- [sink](/word/sink/)：沈む
 
 ---
 
 ## 📖 できればこれも
 
-- [run](/word/run)：走る
-- [walk](/word/walk)：歩く
+- [run](/word/run/)：走る
+- [walk](/word/walk/)：歩く
 
 <!-- cvid: aid44_bid42 -->

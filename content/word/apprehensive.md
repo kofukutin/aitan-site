@@ -97,7 +97,7 @@ TOEICでは、社内の変化や新しいプロジェクトに対する従業員
 ## 🤔  anxious との違いは？
 
 - **apprehensive**：これから起こることに対して不安や心配を感じる
-- **[anxious](/word/anxious)**：強い不安や心配、または「～したい」という切望も表す
+- **[anxious](/word/anxious/)**：強い不安や心配、または「～したい」という切望も表す
 
 apprehensiveは「悪いことが起きそう」という予感を含む不安、anxiousはより強い不安や緊張、または期待を含む場合もあります。
 
@@ -105,14 +105,14 @@ apprehensiveは「悪いことが起きそう」という予感を含む不安�
 
 ## 🧩 あわせて覚えたい
 
-- [confident](/word/confident)：自信がある
-- [concerned](/word/concerned)：心配している、関心がある
+- [confident](/word/confident/)：自信がある
+- [concerned](/word/concerned/)：心配している、関心がある
 
 ---
 
 ## 📖 できればこれも
 
-- [reluctant](/word/reluctant)：気が進まない、しぶしぶの
-- [optimistic](/word/optimistic)：楽観的な
+- [reluctant](/word/reluctant/)：気が進まない、しぶしぶの
+- [optimistic](/word/optimistic/)：楽観的な
 
 <!-- cvid: aid01_bid18 -->

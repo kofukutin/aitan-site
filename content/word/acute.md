@@ -97,7 +97,7 @@ TOEICでは医療やビジネスの文脈で「急性の」「深刻な」とい
 ## 🤔  severe との違いは？
 
 - **acute**：短期間で急激に現れる、鋭い・急性の
-- **[severe](/word/severe)**：程度が非常に強い、厳しい・重度の
+- **[severe](/word/severe/)**：程度が非常に強い、厳しい・重度の
 
 acuteは「急性」や「鋭さ」に重点があり、severeは「深刻さ」や「厳しさ」に重点があります。医療ではacuteは「急性」、severeは「重症」と訳されることが多いです。
 
@@ -105,13 +105,13 @@ acuteは「急性」や「鋭さ」に重点があり、severeは「深刻さ」
 
 ## 🧩 あわせて覚えたい
 
-- [chronic](/word/chronic)：慢性的な、長期にわたる
-- [intense](/word/intense)：強烈な、非常に強い
+- [chronic](/word/chronic/)：慢性的な、長期にわたる
+- [intense](/word/intense/)：強烈な、非常に強い
 
 ---
 
 ## 📖 できればこれも
 
-- [critical](/word/critical)：危機的な、重大な
-- [urgent](/word/urgent)：緊急の、差し迫った
+- [critical](/word/critical/)：危機的な、重大な
+- [urgent](/word/urgent/)：緊急の、差し迫った
 <!-- cvid: aid04_bid21 -->

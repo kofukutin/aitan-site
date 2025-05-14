@@ -97,7 +97,7 @@ drawingはTOEICの写真描写問題（Part 1）で、人物が「絵を描い�
 ## 🤔  sketch との違いは？
 
 - **drawing**：完成度の高い絵や図、設計図など幅広く使える
-- **[sketch](/word/sketch)**：下書きやラフなスケッチ、素早く描いたもの
+- **[sketch](/word/sketch/)**：下書きやラフなスケッチ、素早く描いたもの
 
 drawingは完成品や正式な図面にも使われますが、sketchはアイデア段階やラフな下書きに使われることが多いです。
 
@@ -105,14 +105,14 @@ drawingは完成品や正式な図面にも使われますが、sketchはアイ�
 
 ## 🧩 あわせて覚えたい
 
-- [painting](/word/painting)：絵画（絵の具で描いたもの）
-- [diagram](/word/diagram)：図、図解（構造や関係を示す図）
+- [painting](/word/painting/)：絵画（絵の具で描いたもの）
+- [diagram](/word/diagram/)：図、図解（構造や関係を示す図）
 
 ---
 
 ## 📖 できればこれも
 
-- [design](/word/design)：設計、デザイン
-- [plan](/word/plan)：計画、案
+- [design](/word/design/)：設計、デザイン
+- [plan](/word/plan/)：計画、案
 
 <!-- cvid: aid28_bid35 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、農場や農作業の場面で登場
 ## 🤔  ranch との違いは？
 
 - **farm**：作物や家畜を育てる一般的な農場
-- **[ranch](/word/ranch)**：特に牛や馬などの家畜を広い土地で飼育する牧場
+- **[ranch](/word/ranch/)**：特に牛や馬などの家畜を広い土地で飼育する牧場
 
 farmは作物・家畜どちらにも使えますが、ranchは主に家畜の大規模飼育に使われます。
 
@@ -105,14 +105,14 @@ farmは作物・家畜どちらにも使えますが、ranchは主に家畜の�
 
 ## 🧩 あわせて覚えたい
 
-- [field](/word/field)：畑、野原
-- [garden](/word/garden)：庭、園芸用の庭
+- [field](/word/field/)：畑、野原
+- [garden](/word/garden/)：庭、園芸用の庭
 
 ---
 
 ## 📖 できればこれも
 
-- [village](/word/village)：村
-- [market](/word/market)：市場
+- [village](/word/village/)：村
+- [market](/word/market/)：市場
 
 <!-- cvid: aid33_bid19 -->

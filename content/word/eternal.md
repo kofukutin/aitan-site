@@ -97,7 +97,7 @@ TOEICでは主に長文読解や記事、スピーチ文などで「永遠の」
 ## 🤔  permanent との違いは？
 
 - **eternal**：終わりがなく、永遠に続くことを強調するフォーマルな表現
-- **[permanent](/word/permanent)**：長期間続くが、必ずしも「永遠」ではなく「恒久的」「半永久的」な意味
+- **[permanent](/word/permanent/)**：長期間続くが、必ずしも「永遠」ではなく「恒久的」「半永久的」な意味
 
 eternalは「絶対に終わらない」ニュアンスが強く、permanentは「長く続くが、いつかは終わる可能性もある」点で使い分けます。
 
@@ -105,14 +105,14 @@ eternalは「絶対に終わらない」ニュアンスが強く、permanentは�
 
 ## 🧩 あわせて覚えたい
 
-- [temporary](/word/temporary)：一時的な
-- [infinite](/word/infinite)：無限の
+- [temporary](/word/temporary/)：一時的な
+- [infinite](/word/infinite/)：無限の
 
 ---
 
 ## 📖 できればこれも
 
-- [infinite](/word/infinite)：無限の
-- [timeless](/word/timeless)：時代を超えた、永遠の
+- [infinite](/word/infinite/)：無限の
+- [timeless](/word/timeless/)：時代を超えた、永遠の
 
 <!-- cvid: aid26_bid18 -->

@@ -97,7 +97,7 @@ TOEICでは主にニュース記事や公式文書の中で「大臣」や「省
 ## 🤔  secretary との違いは？
 
 - **minister**：政府の「大臣」や教会の「牧師」を指すフォーマルな役職名。
-- **[secretary](/word/secretary)**：政府の「長官」や「秘書」など、組織の管理職や補佐役を指す。
+- **[secretary](/word/secretary/)**：政府の「長官」や「秘書」など、組織の管理職や補佐役を指す。
 
 ministerは政策決定や宗教指導の役職、secretaryは管理や補佐の役割で使い分けます。
 
@@ -105,14 +105,14 @@ ministerは政策決定や宗教指導の役職、secretaryは管理や補佐の
 
 ## 🧩 あわせて覚えたい
 
-- [ambassador](/word/ambassador)：大使
-- [official](/word/official)：役人、公務員
+- [ambassador](/word/ambassador/)：大使
+- [official](/word/official/)：役人、公務員
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy)：政策、方針
-- [committee](/word/committee)：委員会
+- [policy](/word/policy/)：政策、方針
+- [committee](/word/committee/)：委員会
 
 <!-- cvid: aid19_bid32 -->

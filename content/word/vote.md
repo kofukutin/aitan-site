@@ -98,7 +98,7 @@ TOEICでは会議や意思決定の場面で「vote」が動詞・名詞とも�
 ## 🤔  elect との違いは？
 
 - **vote**：投票という行為そのものや、意思表示をすることに焦点がある
-- **[elect](/word/elect)**：投票などの手段で「選ぶ」「選出する」ことに焦点がある
+- **[elect](/word/elect/)**：投票などの手段で「選ぶ」「選出する」ことに焦点がある
 
 voteは「投票する」動作、electは「選挙などで選ぶ」結果に重点があります。
 
@@ -106,14 +106,14 @@ voteは「投票する」動作、electは「選挙などで選ぶ」結果に�
 
 ## 🧩 あわせて覚えたい
 
-- [choose](/word/choose)：選ぶ
-- [approve](/word/approve)：承認する
+- [choose](/word/choose/)：選ぶ
+- [approve](/word/approve/)：承認する
 
 ---
 
 ## 📖 できればこれも
 
-- [decide](/word/decide)：決定する
-- [suggest](/word/suggest)：提案する
+- [decide](/word/decide/)：決定する
+- [suggest](/word/suggest/)：提案する
 
 <!-- cvid: aid18_bid05 -->

@@ -97,7 +97,7 @@ TOEICでは「automatic」は機械やシステムの説明、業務プロセス
 ## 🤔  automated との違いは？
 
 - **automatic**：人の操作なしで自動的に動作する（例：automatic door）
-- **[automated](/word/automated)**：人の手作業を排除し、システムや機械によって自動化された（例：automated process）
+- **[automated](/word/automated/)**：人の手作業を排除し、システムや機械によって自動化された（例：automated process）
 
 「automatic」は機械や装置そのものが自動で動くこと、「automated」は人の作業をシステム化して自動化したことを強調します。
 
@@ -105,14 +105,14 @@ TOEICでは「automatic」は機械やシステムの説明、業務プロセス
 
 ## 🧩 あわせて覚えたい
 
-- [manual](/word/manual)：手動の
-- [mechanical](/word/mechanical)：機械の、機械的な
+- [manual](/word/manual/)：手動の
+- [mechanical](/word/mechanical/)：機械の、機械的な
 
 ---
 
 ## 📖 できればこれも
 
-- [electronic](/word/electronic)：電子の、電子的な
-- [digital](/word/digital)：デジタルの
+- [electronic](/word/electronic/)：電子の、電子的な
+- [digital](/word/digital/)：デジタルの
 
 <!-- cvid: aid02_bid45 -->

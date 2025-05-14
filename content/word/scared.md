@@ -97,7 +97,7 @@ scaredは会話文や感情を表す場面で出題されることが多い単�
 ## 🤔  afraid との違いは？
 
 - **scared**：カジュアルで一時的な「怖い」「びっくりした」気持ちを表す。
-- **[afraid](/word/afraid)**：ややフォーマルで、心配や不安も含む「怖い」「恐れている」気持ちを表す。
+- **[afraid](/word/afraid/)**：ややフォーマルで、心配や不安も含む「怖い」「恐れている」気持ちを表す。
 
 scaredは日常会話でよく使われ、afraidは少し丁寧な場面や文章でも使われます。
 
@@ -105,14 +105,14 @@ scaredは日常会話でよく使われ、afraidは少し丁寧な場面や文�
 
 ## 🧩 あわせて覚えたい
 
-- [frightened](/word/frightened)：強い恐怖を感じている
-- [brave](/word/brave)：勇敢な、怖がらない
+- [frightened](/word/frightened/)：強い恐怖を感じている
+- [brave](/word/brave/)：勇敢な、怖がらない
 
 ---
 
 ## 📖 できればこれも
 
-- [nervous](/word/nervous)：緊張している、不安な
-- [excited](/word/excited)：わくわくしている、興奮している
+- [nervous](/word/nervous/)：緊張している、不安な
+- [excited](/word/excited/)：わくわくしている、興奮している
 
 <!-- cvid: aid12_bid42 -->

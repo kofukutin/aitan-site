@@ -97,7 +97,7 @@ TOEICでは比較級の文法問題や、説明文中で「より簡単な方法
 ## 🤔  simpler との違いは？
 
 - **easier**：より簡単な、やさしい（難易度や手間が少ないことを強調）
-- **[simpler](/word/simpler)**：より単純な（構造や仕組みが複雑でないことを強調）
+- **[simpler](/word/simpler/)**：より単純な（構造や仕組みが複雑でないことを強調）
 
 easierは「やりやすさ・難易度の低さ」、simplerは「構造や内容の単純さ」に重点があります。
 
@@ -105,14 +105,14 @@ easierは「やりやすさ・難易度の低さ」、simplerは「構造や内�
 
 ## 🧩 あわせて覚えたい
 
-- [difficult](/word/difficult)：難しい
-- [convenient](/word/convenient)：便利な
+- [difficult](/word/difficult/)：難しい
+- [convenient](/word/convenient/)：便利な
 
 ---
 
 ## 📖 できればこれも
 
-- [harder](/word/harder)：より難しい
-- [faster](/word/faster)：より速い
+- [harder](/word/harder/)：より難しい
+- [faster](/word/faster/)：より速い
 
 <!-- cvid: aid32_bid44 -->

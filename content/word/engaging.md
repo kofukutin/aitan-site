@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文や広告、説明文で「魅力的な」「人
 ## 🤔  attractive との違いは？
 
 - **engaging**：人の興味や関心を引きつけ、親しみやすさや引き込まれる魅力を強調する。
-- **[attractive](/word/attractive)**：見た目や性質が魅力的であることを広く表す。
+- **[attractive](/word/attractive/)**：見た目や性質が魅力的であることを広く表す。
 
 engagingは「思わず関わりたくなる」「引き込まれる」ような魅力、attractiveは「外見や特徴が魅力的」というニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ engagingは「思わず関わりたくなる」「引き込まれる」ような
 
 ## 🧩 あわせて覚えたい
 
-- [charming](/word/charming)：愛嬌がある、魅力的な
-- [boring](/word/boring)：退屈な
+- [charming](/word/charming/)：愛嬌がある、魅力的な
+- [boring](/word/boring/)：退屈な
 
 ---
 
 ## 📖 できればこれも
 
-- [enthusiastic](/word/enthusiastic)：熱心な
-- [impressive](/word/impressive)：印象的な
+- [enthusiastic](/word/enthusiastic/)：熱心な
+- [impressive](/word/impressive/)：印象的な
 
 <!-- cvid: aid11_bid18 -->

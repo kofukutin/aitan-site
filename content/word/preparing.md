@@ -97,7 +97,7 @@ TOEICでは会議や業務の準備、日常業務の流れを説明する場面
 ## 🤔  planning との違いは？
 
 - **preparing**：実際に準備や用意を進めている状態
-- **[planning](/word/planning)**：計画を立てている段階、まだ実行には移していない
+- **[planning](/word/planning/)**：計画を立てている段階、まだ実行には移していない
 
 preparing は「実際に手を動かして準備している」ニュアンス、planning は「どうするか考えて計画を立てている」段階の違いがあります。
 
@@ -105,14 +105,14 @@ preparing は「実際に手を動かして準備している」ニュアンス�
 
 ## 🧩 あわせて覚えたい
 
-- [arrange](/word/arrange)：手配する、整える
-- [organize](/word/organize)：整理する、まとめる
+- [arrange](/word/arrange/)：手配する、整える
+- [organize](/word/organize/)：整理する、まとめる
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/word/schedule)：予定を立てる、スケジュールする
-- [arrange](/word/arrange)：手配する、準備する
+- [schedule](/word/schedule/)：予定を立てる、スケジュールする
+- [arrange](/word/arrange/)：手配する、準備する
 
 <!-- cvid: aid12_bid43 -->

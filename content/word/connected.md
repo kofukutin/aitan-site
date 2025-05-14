@@ -97,7 +97,7 @@ TOEICではITやビジネスの会話で「ネットワークにつながって�
 ## 🤔  related との違いは？
 
 - **connected**：物理的・論理的につながっている、直接的な結びつきがある
-- **[related](/word/related)**：関係があるが、必ずしも直接つながっているとは限らない
+- **[related](/word/related/)**：関係があるが、必ずしも直接つながっているとは限らない
 
 connectedは「直接つながっている」イメージ、relatedは「何らかの関係がある」イメージです。
 
@@ -105,14 +105,14 @@ connectedは「直接つながっている」イメージ、relatedは「何ら�
 
 ## 🧩 あわせて覚えたい
 
-- [separate](/word/separate)：分かれている、別々の
-- [attached](/word/attached)：取り付けられた、付属の
+- [separate](/word/separate/)：分かれている、別々の
+- [attached](/word/attached/)：取り付けられた、付属の
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/word/available)：利用できる、手に入る
-- [active](/word/active)：活動している、作動中の
+- [available](/word/available/)：利用できる、手に入る
+- [active](/word/active/)：活動している、作動中の
 
 <!-- cvid: aid01_bid11 -->

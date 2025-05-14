@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や説明文で「vast experience（豊富な経
 ## 🤔  huge との違いは？
 
 - **vast**：面積や数量、規模が非常に大きく、広がりや圧倒的なスケール感を強調するフォーマルな語。
-- **[huge](/word/huge)**：単純に「とても大きい」「巨大な」という意味で、カジュアルな場面でもよく使われる。
+- **[huge](/word/huge/)**：単純に「とても大きい」「巨大な」という意味で、カジュアルな場面でもよく使われる。
 
 「vast」は広がりや範囲の大きさを強調し、ややフォーマルな印象。「huge」は大きさそのものを強調し、日常会話でもよく使います。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネス文書や説明文で「vast experience（豊富な経
 
 ## 🧩 あわせて覚えたい
 
-- [enormous](/word/enormous)：非常に大きい、莫大な
-- [tiny](/word/tiny)：とても小さい
+- [enormous](/word/enormous/)：非常に大きい、莫大な
+- [tiny](/word/tiny/)：とても小さい
 
 ---
 
 ## 📖 できればこれも
 
-- [broad](/word/broad)：広い、幅広い
-- [extensive](/word/extensive)：広範囲にわたる
+- [broad](/word/broad/)：広い、幅広い
+- [extensive](/word/extensive/)：広範囲にわたる
 
 <!-- cvid: aid37_bid19 -->

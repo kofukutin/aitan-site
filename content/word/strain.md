@@ -97,7 +97,7 @@ TOEICでは「負担」「緊張」といった意味で、ビジネス文書や
 ## 🤔  stress との違いは？
 
 - **strain**：長期間にわたる負担や、物理的・精神的な「緊張」「重圧」を強調。
-- **[stress](/word/stress)**：日常的な「ストレス」や「圧力」全般を幅広く指す。
+- **[stress](/word/stress/)**：日常的な「ストレス」や「圧力」全般を幅広く指す。
 
 strainは「無理がかかっている状態」や「限界に近い負担」を表し、stressは「一般的なストレス」や「圧力」を指す点で使い分けます。
 
@@ -105,14 +105,14 @@ strainは「無理がかかっている状態」や「限界に近い負担」�
 
 ## 🧩 あわせて覚えたい
 
-- [burden](/word/burden)：重荷、負担
-- [tension](/word/tension)：緊張、張りつめた状態
+- [burden](/word/burden/)：重荷、負担
+- [tension](/word/tension/)：緊張、張りつめた状態
 
 ---
 
 ## 📖 できればこれも
 
-- [pressure](/word/pressure)：圧力、プレッシャー
-- [load](/word/load)：荷重、負担
+- [pressure](/word/pressure/)：圧力、プレッシャー
+- [load](/word/load/)：荷重、負担
 
 <!-- cvid: aid18_bid37 -->

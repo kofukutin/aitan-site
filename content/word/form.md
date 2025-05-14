@@ -97,7 +97,7 @@ TOEICでは「申込用紙」「書式」などの意味で頻出します。書
 ## 🤔  format との違いは？
 
 - **form**：形や用紙、記入するための書式を指す
-- **[format](/word/format)**：情報や文書の配置・構成など「形式」や「書式設定」を指す
+- **[format](/word/format/)**：情報や文書の配置・構成など「形式」や「書式設定」を指す
 
 「form」は実際に記入する用紙や、物の形そのものを指し、「format」は情報や文書の配置・構成などの「形式」を表します。
 
@@ -105,14 +105,14 @@ TOEICでは「申込用紙」「書式」などの意味で頻出します。書
 
 ## 🧩 あわせて覚えたい
 
-- [application](/word/application)：申込書、応募
-- [document](/word/document)：文書、書類
+- [application](/word/application/)：申込書、応募
+- [document](/word/document/)：文書、書類
 
 ---
 
 ## 📖 できればこれも
 
-- [file](/word/file)：ファイル、書類
-- [shape](/word/shape)：形、外形
+- [file](/word/file/)：ファイル、書類
+- [shape](/word/shape/)：形、外形
 
 <!-- cvid: aid27_bid40 -->

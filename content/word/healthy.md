@@ -97,7 +97,7 @@ TOEICでは、健康や福利厚生、食事に関する文脈で形容詞とし
 ## 🤔  fit との違いは？
 
 - **healthy**：病気がなく、体や心が健やかな状態を表す。
-- **[fit](/word/fit)**：運動能力が高く、体力や筋力が十分な状態を表す。
+- **[fit](/word/fit/)**：運動能力が高く、体力や筋力が十分な状態を表す。
 
 healthyは「健康そのもの」を指し、fitは「運動や体力面での良好さ」を強調します。
 
@@ -105,14 +105,14 @@ healthyは「健康そのもの」を指し、fitは「運動や体力面での�
 
 ## 🧩 あわせて覚えたい
 
-- [sick](/word/sick)：病気の
-- [well](/word/well)：元気な、健康な
+- [sick](/word/sick/)：病気の
+- [well](/word/well/)：元気な、健康な
 
 ---
 
 ## 📖 できればこれも
 
-- [active](/word/active)：活動的な
-- [strong](/word/strong)：強い
+- [active](/word/active/)：活動的な
+- [strong](/word/strong/)：強い
 
 <!-- cvid: aid12_bid33 -->

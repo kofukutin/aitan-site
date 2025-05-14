@@ -97,7 +97,7 @@ TOEICでは、オフィスや家庭の機器説明、会話の中で「cordless 
 ## 🤔  wireless との違いは？
 
 - **cordless**：電源コードがなく、バッテリーなどで動作する（例：cordless phone）
-- **[wireless](/word/wireless)**：無線通信でデータをやりとりする（例：wireless internet）
+- **[wireless](/word/wireless/)**：無線通信でデータをやりとりする（例：wireless internet）
 
 「cordless」は主に電源コードの有無に注目し、「wireless」は通信手段が無線であることに注目します。
 
@@ -105,14 +105,14 @@ TOEICでは、オフィスや家庭の機器説明、会話の中で「cordless 
 
 ## 🧩 あわせて覚えたい
 
-- [portable](/word/portable)：持ち運びできる
-- [rechargeable](/word/rechargeable)：充電式の
+- [portable](/word/portable/)：持ち運びできる
+- [rechargeable](/word/rechargeable/)：充電式の
 
 ---
 
 ## 📖 できればこれも
 
-- [digital](/word/digital)：デジタルの
-- [manual](/word/manual)：手動の
+- [digital](/word/digital/)：デジタルの
+- [manual](/word/manual/)：手動の
 
 <!-- cvid: aid45_bid44 -->

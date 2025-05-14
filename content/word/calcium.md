@@ -97,7 +97,7 @@ TOEICでは健康や栄養に関する記事や広告文で登場することが
 ## 🤔  mineral との違いは？
 
 - **calcium**：骨や歯などに必要な特定のミネラル成分
-- **[mineral](/word/mineral)**：カルシウムを含む、体に必要な無機質全般
+- **[mineral](/word/mineral/)**：カルシウムを含む、体に必要な無機質全般
 
 calciumはmineralの一種で、mineralはカルシウム以外にも多くの種類があります。
 
@@ -105,14 +105,14 @@ calciumはmineralの一種で、mineralはカルシウム以外にも多くの�
 
 ## 🧩 あわせて覚えたい
 
-- [vitamin](/word/vitamin)：ビタミン（体に必要な有機栄養素）
-- [phosphorus](/word/phosphorus)：リン（骨や歯の構成成分となるミネラル）
+- [vitamin](/word/vitamin/)：ビタミン（体に必要な有機栄養素）
+- [phosphorus](/word/phosphorus/)：リン（骨や歯の構成成分となるミネラル）
 
 ---
 
 ## 📖 できればこれも
 
-- [protein](/word/protein)：たんぱく質（体を作る栄養素）
-- [iron](/word/iron)：鉄分（血液に必要なミネラル）
+- [protein](/word/protein/)：たんぱく質（体を作る栄養素）
+- [iron](/word/iron/)：鉄分（血液に必要なミネラル）
 
 <!-- cvid: aid13_bid45 -->

@@ -98,7 +98,7 @@ TOEICでは主に電話対応や連絡に関する会話文で登場します。
 ## 🤔  phone との違いは？
 
 - **telephone**：ややフォーマルで、ビジネスや公式な場面で使われやすい
-- **[phone](/word/phone)**：カジュアルで、日常会話でよく使われる
+- **[phone](/word/phone/)**：カジュアルで、日常会話でよく使われる
 
 「telephone」は正式な言い方で、「phone」は省略形として親しい間柄やカジュアルな場面で使われます。
 
@@ -106,14 +106,14 @@ TOEICでは主に電話対応や連絡に関する会話文で登場します。
 
 ## 🧩 あわせて覚えたい
 
-- [call](/word/call)：電話をかける、呼ぶ
-- [receiver](/word/receiver)：受話器
+- [call](/word/call/)：電話をかける、呼ぶ
+- [receiver](/word/receiver/)：受話器
 
 ---
 
 ## 📖 できればこれも
 
-- [message](/word/message)：メッセージ、伝言
-- [contact](/word/contact)：連絡する
+- [message](/word/message/)：メッセージ、伝言
+- [contact](/word/contact/)：連絡する
 
 <!-- cvid: aid14_bid37 -->

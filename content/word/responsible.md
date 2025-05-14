@@ -98,7 +98,7 @@ TOEICでは「be responsible for ～」の形で頻出し、担当や責任の�
 ## 🤔  accountable との違いは？
 
 - **responsible**：一般的に「責任がある」「担当している」という広い意味で使う
-- **[accountable](/word/accountable)**：説明責任や結果に対して「説明する義務がある」ニュアンスが強い
+- **[accountable](/word/accountable/)**：説明責任や結果に対して「説明する義務がある」ニュアンスが強い
 
 responsibleは日常的な責任や担当に、accountableは「説明責任」や「最終的な責任」を強調したいときに使い分けます。
 
@@ -106,14 +106,14 @@ responsibleは日常的な責任や担当に、accountableは「説明責任」�
 
 ## 🧩 あわせて覚えたい
 
-- [liable](/word/liable)：法的責任がある
-- [in_charge](/word/in_charge)：担当している、責任者である
+- [liable](/word/liable/)：法的責任がある
+- [in_charge](/word/in_charge/)：担当している、責任者である
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/word/reliable)：信頼できる
-- [responsive](/word/responsive)：反応が早い、すぐ対応する
+- [reliable](/word/reliable/)：信頼できる
+- [responsive](/word/responsive/)：反応が早い、すぐ対応する
 
 <!-- cvid: aid09_bid37 -->

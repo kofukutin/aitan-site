@@ -97,7 +97,7 @@ grownは会話や説明文で「成長した」「大人の」といった意味
 ## 🤔  mature との違いは？
 
 - **grown**：成長して大人になった、物理的・年齢的な成長を強調
-- **[mature](/word/mature)**：成熟した、精神的・感情的な成長や完成度を強調
+- **[mature](/word/mature/)**：成熟した、精神的・感情的な成長や完成度を強調
 
 grownは主に年齢や体の成長を指し、matureは精神面や性格の成熟を表すときに使います。
 
@@ -105,14 +105,14 @@ grownは主に年齢や体の成長を指し、matureは精神面や性格の成
 
 ## 🧩 あわせて覚えたい
 
-- [adult](/word/adult)：大人
-- [developed](/word/developed)：発達した
+- [adult](/word/adult/)：大人
+- [developed](/word/developed/)：発達した
 
 ---
 
 ## 📖 できればこれも
 
-- [grownup](/word/grownup)：大人（口語的表現）
-- [grow](/word/grow)：成長する
+- [grownup](/word/grownup/)：大人（口語的表現）
+- [grow](/word/grow/)：成長する
 
 <!-- cvid: aid02_bid42 -->

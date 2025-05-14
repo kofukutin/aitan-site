@@ -97,7 +97,7 @@ TOEICでは、ダイバーシティや職場環境に関する長文やEメー�
 ## 🤔  integration との違いは？
 
 - **inclusion**：多様な人や要素を受け入れて一体化することに重点がある
-- **[integration](/word/integration)**：異なるものを統合し、全体として機能させることに重点がある
+- **[integration](/word/integration/)**：異なるものを統合し、全体として機能させることに重点がある
 
 inclusionは「受け入れること」に重きを置き、integrationは「一体化・統合して機能させること」に重きを置きます。
 
@@ -105,14 +105,14 @@ inclusionは「受け入れること」に重きを置き、integrationは「一
 
 ## 🧩 あわせて覚えたい
 
-- [exclusion](/word/exclusion)：排除、除外
-- [diversity](/word/diversity)：多様性
+- [exclusion](/word/exclusion/)：排除、除外
+- [diversity](/word/diversity/)：多様性
 
 ---
 
 ## 📖 できればこれも
 
-- [participation](/word/participation)：参加
-- [collaboration](/word/collaboration)：協力
+- [participation](/word/participation/)：参加
+- [collaboration](/word/collaboration/)：協力
 
 <!-- cvid: aid08_bid23 -->

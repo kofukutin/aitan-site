@@ -97,7 +97,7 @@ TOEICでは映画やエンタメ関連の記事や広告文で登場すること
 ## 🤔  actor との違いは？
 
 - **actress**：女性の俳優を指す伝統的な表現
-- **[actor](/word/actor)**：本来は男性俳優だが、近年は性別を問わず使われる
+- **[actor](/word/actor/)**：本来は男性俳優だが、近年は性別を問わず使われる
 
 「actress」は女性限定、「actor」は性別を問わず使われることが増えています。
 
@@ -105,14 +105,14 @@ TOEICでは映画やエンタメ関連の記事や広告文で登場すること
 
 ## 🧩 あわせて覚えたい
 
-- [performer](/word/performer)：演者、パフォーマー
-- [celebrity](/word/celebrity)：有名人
+- [performer](/word/performer/)：演者、パフォーマー
+- [celebrity](/word/celebrity/)：有名人
 
 ---
 
 ## 📖 できればこれも
 
-- [director](/word/director)：監督
-- [audience](/word/audience)：観客
+- [director](/word/director/)：監督
+- [audience](/word/audience/)：観客
 
 <!-- cvid: aid07_bid46 -->

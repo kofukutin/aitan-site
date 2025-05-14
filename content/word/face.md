@@ -99,7 +99,7 @@ TOEICでは会議やビジネスの場面で「問題に直面する」「課題
 ## 🤔  confront との違いは？
 
 - **face**：困難や問題に直面する、向き合う（やや中立的）
-- **[confront](/word/confront)**：困難や相手に立ち向かう、対決する（より強い・積極的なニュアンス）
+- **[confront](/word/confront/)**：困難や相手に立ち向かう、対決する（より強い・積極的なニュアンス）
 
 「face」は単に「直面する」ことを表し、「confront」は「立ち向かう」「対決する」といった強い意志や対立のニュアンスがあります。
 
@@ -107,15 +107,15 @@ TOEICでは会議やビジネスの場面で「問題に直面する」「課題
 
 ## 🧩 あわせて覚えたい
 
-- [deal](/word/deal)：対処する、扱う
-- [avoid](/word/avoid)：避ける
+- [deal](/word/deal/)：対処する、扱う
+- [avoid](/word/avoid/)：避ける
 
 ---
 
 ## 📖 できればこれも
 
-- [handle](/word/handle)：扱う、処理する
-- [address](/word/address)：（問題などに）取り組む
+- [handle](/word/handle/)：扱う、処理する
+- [address](/word/address/)：（問題などに）取り組む
 
 
 <!-- cvid: aid25_bid25 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で「建物」や「ビル」を説
 ## 🤔  structure との違いは？
 
 - **building**：人が使うための建物全般を指す、日常的な単語。
-- **[structure](/word/structure)**：建物だけでなく、橋や塔など「構造物」全般を指すややフォーマルな単語。
+- **[structure](/word/structure/)**：建物だけでなく、橋や塔など「構造物」全般を指すややフォーマルな単語。
 
 buildingは「人が入る建物」に限定されるのに対し、structureは用途や規模を問わず幅広い人工物に使われます。
 
@@ -105,14 +105,14 @@ buildingは「人が入る建物」に限定されるのに対し、structureは
 
 ## 🧩 あわせて覚えたい
 
-- [facility](/word/facility)：施設、設備
-- [construction](/word/construction)：建設、建造物
+- [facility](/word/facility/)：施設、設備
+- [construction](/word/construction/)：建設、建造物
 
 ---
 
 ## 📖 できればこれも
 
-- [floor](/word/floor)：階、床
-- [office](/word/office)：事務所、オフィス
+- [floor](/word/floor/)：階、床
+- [office](/word/office/)：事務所、オフィス
 
 <!-- cvid: aid16_bid44 -->

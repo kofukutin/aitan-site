@@ -97,7 +97,7 @@ TOEICでは、人物描写やイベントの説明、ビジネスシーンでの
 ## 🤔  outlook との違いは？
 
 - **appearance**：外見や見た目、または現れることを指す
-- **[outlook](/word/outlook)**：物事の見通し、将来の展望、または考え方を指す
+- **[outlook](/word/outlook/)**：物事の見通し、将来の展望、または考え方を指す
 
 appearanceは「見た目」や「登場」に焦点があり、outlookは「将来の見通し」や「考え方」に使われます。
 
@@ -105,14 +105,14 @@ appearanceは「見た目」や「登場」に焦点があり、outlookは「将
 
 ## 🧩 あわせて覚えたい
 
-- [disappearance](/word/disappearance)：消失、失踪
-- [impression](/word/impression)：印象
+- [disappearance](/word/disappearance/)：消失、失踪
+- [impression](/word/impression/)：印象
 
 ---
 
 ## 📖 できればこれも
 
-- [attitude](/word/attitude)：態度、考え方
-- [behavior](/word/behavior)：行動、ふるまい
+- [attitude](/word/attitude/)：態度、考え方
+- [behavior](/word/behavior/)：行動、ふるまい
 
 <!-- cvid: aid13_bid46 -->

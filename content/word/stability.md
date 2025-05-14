@@ -97,7 +97,7 @@ TOEICではビジネスや経済、組織運営に関する文脈で「安定性
 ## 🤔  security との違いは？
 
 - **stability**：変化せず安定している状態や持続性を強調
-- **[security](/word/security)**：安全・防護・危険がないことを強調
+- **[security](/word/security/)**：安全・防護・危険がないことを強調
 
 stabilityは「揺るがない・変わらない」こと、securityは「危険がない・守られている」ことに重点があります。
 
@@ -105,14 +105,14 @@ stabilityは「揺るがない・変わらない」こと、securityは「危険
 
 ## 🧩 あわせて覚えたい
 
-- [instability](/word/instability)：不安定、安定していないこと
-- [consistency](/word/consistency)：一貫性、矛盾がないこと
+- [instability](/word/instability/)：不安定、安定していないこと
+- [consistency](/word/consistency/)：一貫性、矛盾がないこと
 
 ---
 
 ## 📖 できればこれも
 
-- [steady](/word/steady)：安定した、着実な
-- [balance](/word/balance)：バランス、均衡
+- [steady](/word/steady/)：安定した、着実な
+- [balance](/word/balance/)：バランス、均衡
 
 <!-- cvid: aid09_bid46 -->

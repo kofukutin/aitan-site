@@ -97,7 +97,7 @@ TOEICでは、比較級・最上級の形容詞を問う文法問題や、最新
 ## 🤔  latest との違いは？
 
 - **newest**：物理的・時間的に「一番新しい」もの全般を指す
-- **[latest](/word/latest)**：最新の情報や出来事、アップデートなど「直近の」ものを強調
+- **[latest](/word/latest/)**：最新の情報や出来事、アップデートなど「直近の」ものを強調
 
 newestは物や人など幅広く使えますが、latestはニュースや情報、アップデートなど時系列の「直近」に特に使われます。
 
@@ -105,14 +105,14 @@ newestは物や人など幅広く使えますが、latestはニュースや情�
 
 ## 🧩 あわせて覚えたい
 
-- [recent](/word/recent)：最近の
-- [modern](/word/modern)：現代的な、近代的な
+- [recent](/word/recent/)：最近の
+- [modern](/word/modern/)：現代的な、近代的な
 
 ---
 
 ## 📖 できればこれも
 
-- [oldest](/word/oldest)：最も古い
-- [current](/word/current)：現在の
+- [oldest](/word/oldest/)：最も古い
+- [current](/word/current/)：現在の
 
 <!-- cvid: aid28_bid10 -->

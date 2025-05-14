@@ -97,7 +97,7 @@ TOEICでは、文の意味を強調したり、動詞や形容詞を修飾する
 ## 🤔  totally との違いは？
 
 - **completely**：100%の状態で「完全に」「すっかり」と強調する。
-- **[totally](/word/totally)**：ややカジュアルで「まったく」「完全に」と強調する。
+- **[totally](/word/totally/)**：ややカジュアルで「まったく」「完全に」と強調する。
 
 completelyはフォーマルな場面でも使え、客観的な「完全さ」を表します。totallyは会話やカジュアルな文脈でよく使われ、主観的な驚きや強調のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ completelyはフォーマルな場面でも使え、客観的な「完全さ」�
 
 ## 🧩 あわせて覚えたい
 
-- [partially](/word/partially)：部分的に
-- [entirely](/word/entirely)：完全に、全体的に
+- [partially](/word/partially/)：部分的に
+- [entirely](/word/entirely/)：完全に、全体的に
 
 ---
 
 ## 📖 できればこれも
 
-- [absolutely](/word/absolutely)：絶対に、完全に
-- [almost](/word/almost)：ほとんど、ほぼ
+- [absolutely](/word/absolutely/)：絶対に、完全に
+- [almost](/word/almost/)：ほとんど、ほぼ
 
 <!-- cvid: aid37_bid37 -->

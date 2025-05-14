@@ -97,7 +97,7 @@ TOEICでは、新聞記事や社内メールなどで「controversial decision�
 ## 🤔  debatable との違いは？
 
 - **controversial**：多くの人の間で強い意見の対立や論争を引き起こす
-- **[debatable](/word/debatable)**：議論の余地があるが、必ずしも強い対立を含まない
+- **[debatable](/word/debatable/)**：議論の余地があるが、必ずしも強い対立を含まない
 
 controversialは「感情的な対立」や「社会的な物議」を強調し、debatableは「論理的に議論できる」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ controversialは「感情的な対立」や「社会的な物議」を強調し�
 
 ## 🧩 あわせて覚えたい
 
-- [contentious](/word/contentious)：論争好きな、議論を呼ぶ
-- [uncontroversial](/word/uncontroversial)：物議を醸さない、異論のない
+- [contentious](/word/contentious/)：論争好きな、議論を呼ぶ
+- [uncontroversial](/word/uncontroversial/)：物議を醸さない、異論のない
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/word/significant)：重要な
-- [relevant](/word/relevant)：関連がある
+- [significant](/word/significant/)：重要な
+- [relevant](/word/relevant/)：関連がある
 
 <!-- cvid: aid49_bid33 -->

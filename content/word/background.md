@@ -97,7 +97,7 @@ TOEICでは、面接や自己紹介、職歴・学歴に関する会話で頻出
 ## 🤔  experience との違いは？
 
 - **background**：学歴や職歴など、過去の全体的な経歴や環境を指す
-- **[experience](/word/experience)**：特定の出来事や実際に体験したことを指す
+- **[experience](/word/experience/)**：特定の出来事や実際に体験したことを指す
 
 backgroundは「どんな環境・経歴を持っているか」という広い意味で使い、experienceは「実際に何を経験したか」という具体的な体験を表します。
 
@@ -105,14 +105,14 @@ backgroundは「どんな環境・経歴を持っているか」という広い�
 
 ## 🧩 あわせて覚えたい
 
-- [qualification](/word/qualification)：資格、能力
-- [history](/word/history)：歴史、履歴
+- [qualification](/word/qualification/)：資格、能力
+- [history](/word/history/)：歴史、履歴
 
 ---
 
 ## 📖 できればこれも
 
-- [skill](/word/skill)：技能、スキル
-- [career](/word/career)：職業、経歴
+- [skill](/word/skill/)：技能、スキル
+- [career](/word/career/)：職業、経歴
 
 <!-- cvid: aid27_bid32 -->

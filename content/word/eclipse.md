@@ -97,7 +97,7 @@ TOEICでは科学や天文に関する記事や、比喩的な表現で登場す
 ## 🤔  occultation との違いは？
 
 - **eclipse**：天体が他の天体を部分的または完全に隠す現象。日食・月食や比喩的な「影を薄くする」意味もある。
-- **[occultation](/word/occultation)**：天体が他の天体や星を完全に隠す現象。より専門的・限定的な用語。
+- **[occultation](/word/occultation/)**：天体が他の天体や星を完全に隠す現象。より専門的・限定的な用語。
 
 eclipseは一般的な「食」全般や比喩にも使われますが、occultationは主に天文学で「完全に隠れる」現象に限定されます。
 
@@ -105,14 +105,14 @@ eclipseは一般的な「食」全般や比喩にも使われますが、occulta
 
 ## 🧩 あわせて覚えたい
 
-- [obscuration](/word/obscuration)：遮蔽、覆い隠すこと
-- [transit](/word/transit)：（天体の）通過
+- [obscuration](/word/obscuration/)：遮蔽、覆い隠すこと
+- [transit](/word/transit/)：（天体の）通過
 
 ---
 
 ## 📖 できればこれも
 
-- [orbit](/word/orbit)：軌道
-- [phenomenon](/word/phenomenon)：現象
+- [orbit](/word/orbit/)：軌道
+- [phenomenon](/word/phenomenon/)：現象
 
 <!-- cvid: aid26_bid42 -->

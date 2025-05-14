@@ -99,7 +99,7 @@ ITや通信分野の長文やEメール、案内文で見かけることが多�
 ## 🤔  telecommunications との違いは？
 
 - **telephony**：電話による音声通信やその技術に特化した用語
-- **[telecommunications](/word/telecommunications)**：電話だけでなく、インターネットやテレビなど広範な通信全般
+- **[telecommunications](/word/telecommunications/)**：電話だけでなく、インターネットやテレビなど広範な通信全般
 
 telephonyは「電話」に限定されるのに対し、telecommunicationsはより広い通信分野全体を指します。
 
@@ -107,14 +107,14 @@ telephonyは「電話」に限定されるのに対し、telecommunicationsは�
 
 ## 🧩 あわせて覚えたい
 
-- [network](/word/network)：ネットワーク、通信網
-- [infrastructure](/word/infrastructure)：インフラ、基盤設備
+- [network](/word/network/)：ネットワーク、通信網
+- [infrastructure](/word/infrastructure/)：インフラ、基盤設備
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device)：機器、装置
-- [signal](/word/signal)：信号、合図
+- [device](/word/device/)：機器、装置
+- [signal](/word/signal/)：信号、合図
 
 <!-- cvid: aid35_bid10 -->

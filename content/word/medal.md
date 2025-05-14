@@ -97,7 +97,7 @@ TOEICでは表彰や受賞に関する文脈で登場することがあり、名
 ## 🤔  award との違いは？
 
 - **medal**：金属製の記章や賞牌など、形のある「メダル」を指す。
-- **[award](/word/award)**：賞そのものや表彰全般を指し、形のないものも含む。
+- **[award](/word/award/)**：賞そのものや表彰全般を指し、形のないものも含む。
 
 medalは具体的な物体としての賞、awardは広く「賞」や「表彰」を意味します。
 
@@ -105,14 +105,14 @@ medalは具体的な物体としての賞、awardは広く「賞」や「表彰�
 
 ## 🧩 あわせて覚えたい
 
-- [trophy](/word/trophy)：トロフィー、優勝杯
-- [certificate](/word/certificate)：証明書、認定証
+- [trophy](/word/trophy/)：トロフィー、優勝杯
+- [certificate](/word/certificate/)：証明書、認定証
 
 ---
 
 ## 📖 できればこれも
 
-- [prize](/word/prize)：賞、賞品
-- [honor](/word/honor)：名誉、栄誉
+- [prize](/word/prize/)：賞、賞品
+- [honor](/word/honor/)：名誉、栄誉
 
 <!-- cvid: aid48_bid27 -->

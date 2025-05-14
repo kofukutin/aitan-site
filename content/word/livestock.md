@@ -97,7 +97,7 @@ TOEICでは農業や環境、貿易に関する長文や記事で登場するこ
 ## 🤔  cattle との違いは？
 
 - **livestock**：牛・豚・羊など農場で飼う家畜全般
-- **[cattle](/word/cattle)**：牛のみを指す
+- **[cattle](/word/cattle/)**：牛のみを指す
 
 livestockは家畜全体を指し、cattleは牛だけを意味します。豚や羊なども含めたい場合はlivestockを使います。
 
@@ -105,14 +105,14 @@ livestockは家畜全体を指し、cattleは牛だけを意味します。豚�
 
 ## 🧩 あわせて覚えたい
 
-- [poultry](/word/poultry)：家禽（ニワトリやアヒルなど）
-- [crop](/word/crop)：作物
+- [poultry](/word/poultry/)：家禽（ニワトリやアヒルなど）
+- [crop](/word/crop/)：作物
 
 ---
 
 ## 📖 できればこれも
 
-- [harvest](/word/harvest)：収穫
-- [agriculture](/word/agriculture)：農業
+- [harvest](/word/harvest/)：収穫
+- [agriculture](/word/agriculture/)：農業
 
 <!-- cvid: aid08_bid25 -->

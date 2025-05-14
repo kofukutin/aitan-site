@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で「旗」や「目印」として登場し
 ## 🤔  banner との違いは？
 
 - **flag**：国や団体の象徴となる「旗」、または目印としての旗
-- **[banner](/word/banner)**：横長の「横断幕」や「垂れ幕」
+- **[banner](/word/banner/)**：横長の「横断幕」や「垂れ幕」
 
 flagはポールに掲げる布状の旗を指し、bannerはイベントや広告で使う横長の幕を指します。
 
@@ -105,14 +105,14 @@ flagはポールに掲げる布状の旗を指し、bannerはイベントや広�
 
 ## 🧩 あわせて覚えたい
 
-- [signal](/word/signal)：信号、合図
-- [mark](/word/mark)：印、記号
+- [signal](/word/signal/)：信号、合図
+- [mark](/word/mark/)：印、記号
 
 ---
 
 ## 📖 できればこれも
 
-- [sign](/word/sign)：標識、看板
-- [label](/word/label)：ラベル、表示
+- [sign](/word/sign/)：標識、看板
+- [label](/word/label/)：ラベル、表示
 
 <!-- cvid: aid29_bid22 -->

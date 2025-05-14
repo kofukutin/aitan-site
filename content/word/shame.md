@@ -97,7 +97,7 @@ TOEICでは「残念なこと」「恥」という意味で名詞として出題
 ## 🤔  embarrassment との違いは？
 
 - **shame**：道徳的・社会的な「恥」や「残念」を強く表す。
-- **[embarrassment](/word/embarrassment)**：一時的な「気まずさ」や「恥ずかしさ」を表す。
+- **[embarrassment](/word/embarrassment/)**：一時的な「気まずさ」や「恥ずかしさ」を表す。
 
 shameは「自分の行動に対する深い恥」や「残念な気持ち」に使い、embarrassmentは「ちょっとした気まずさ」や「軽い恥ずかしさ」に使います。
 
@@ -105,14 +105,14 @@ shameは「自分の行動に対する深い恥」や「残念な気持ち」に
 
 ## 🧩 あわせて覚えたい
 
-- [guilt](/word/guilt)：罪悪感
-- [pride](/word/pride)：誇り
+- [guilt](/word/guilt/)：罪悪感
+- [pride](/word/pride/)：誇り
 
 ---
 
 ## 📖 できればこれも
 
-- [regret](/word/regret)：後悔
-- [honor](/word/honor)：名誉
+- [regret](/word/regret/)：後悔
+- [honor](/word/honor/)：名誉
 
 <!-- cvid: aid06_bid03 -->

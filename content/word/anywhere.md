@@ -93,7 +93,7 @@ TOEICでは疑問文や否定文での場所の表現として頻出します。
 ## 🤔  somewhere との違いは？
 
 - **anywhere**：疑問文・否定文で「どこにも」「どこかに」、肯定文で「どこでも」
-- **[somewhere](/word/somewhere)**：肯定文で「どこかに」「どこかで」
+- **[somewhere](/word/somewhere/)**：肯定文で「どこかに」「どこかで」
 
 anywhereは主に疑問文や否定文で使われ、somewhereは肯定文で使われる点が大きな違いです。
 
@@ -101,14 +101,14 @@ anywhereは主に疑問文や否定文で使われ、somewhereは肯定文で使
 
 ## 🧩 あわせて覚えたい
 
-- [nowhere](/word/nowhere)：どこにも～ない
-- [everywhere](/word/everywhere)：どこでも、いたるところで
+- [nowhere](/word/nowhere/)：どこにも～ない
+- [everywhere](/word/everywhere/)：どこでも、いたるところで
 
 ---
 
 ## 📖 できればこれも
 
-- [anyone](/word/anyone)：誰でも、誰か
-- [anything](/word/anything)：何でも、何か
+- [anyone](/word/anyone/)：誰でも、誰か
+- [anything](/word/anything/)：何でも、何か
 
 <!-- cvid: aid35_bid29 -->

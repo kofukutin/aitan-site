@@ -96,7 +96,7 @@ TOEICでは展示会やイベント、オフィスのシーンで「booth」が�
 ## 🤔  stall との違いは？
 
 - **booth**：仕切られたスペースや仮設の売り場、展示会やレストランなどで使う
-- **[stall](/word/stall)**：屋台や露店など、より簡易的な売り場や小さな店舗
+- **[stall](/word/stall/)**：屋台や露店など、より簡易的な売り場や小さな店舗
 
 boothは屋内外問わず「仕切りのあるスペース」に使い、stallは市場や屋外の「屋台・露店」に使うことが多いです。
 
@@ -104,14 +104,14 @@ boothは屋内外問わず「仕切りのあるスペース」に使い、stall�
 
 ## 🧩 あわせて覚えたい
 
-- [counter](/word/counter)：カウンター、窓口
-- [cubicle](/word/cubicle)：（オフィスの）仕切られた小部屋
+- [counter](/word/counter/)：カウンター、窓口
+- [cubicle](/word/cubicle/)：（オフィスの）仕切られた小部屋
 
 ---
 
 ## 📖 できればこれも
 
-- [desk](/word/desk)：机、デスク
-- [stand](/word/stand)：売店、スタンド
+- [desk](/word/desk/)：机、デスク
+- [stand](/word/stand/)：売店、スタンド
 
 <!-- cvid: aid14_bid03 -->

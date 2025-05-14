@@ -97,7 +97,7 @@ TOEICでは、営業時間やスケジュール、活動時間帯の説明など
 ## 🤔  daylight との違いは？
 
 - **daytime**：昼間という「時間帯」を指す
-- **[daylight](/word/daylight)**：太陽の「光」や「明るさ」を指す
+- **[daylight](/word/daylight/)**：太陽の「光」や「明るさ」を指す
 
 「daytime」は時間帯、「daylight」は光そのものを表すので、使い分けに注意しましょう。
 
@@ -105,14 +105,14 @@ TOEICでは、営業時間やスケジュール、活動時間帯の説明など
 
 ## 🧩 あわせて覚えたい
 
-- [nighttime](/word/nighttime)：夜間、夜の時間帯
-- [afternoon](/word/afternoon)：午後
+- [nighttime](/word/nighttime/)：夜間、夜の時間帯
+- [afternoon](/word/afternoon/)：午後
 
 ---
 
 ## 📖 できればこれも
 
-- [evening](/word/evening)：夕方、晩
-- [morning](/word/morning)：朝
+- [evening](/word/evening/)：夕方、晩
+- [morning](/word/morning/)：朝
 
 <!-- cvid: aid15_bid46 -->

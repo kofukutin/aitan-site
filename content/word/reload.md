@@ -97,7 +97,7 @@ reloadはIT関連の会話や説明文で、ページやデータの再読み込
 ## 🤔  refresh との違いは？
 
 - **reload**：ページやデータを「完全に再読み込み」する、または物理的に再装填する意味が強い
-- **[refresh](/word/refresh)**：画面や内容を「最新の状態に更新」する意味が強い
+- **[refresh](/word/refresh/)**：画面や内容を「最新の状態に更新」する意味が強い
 
 reloadは「最初から読み直す」ニュアンス、refreshは「内容を新しくする」ニュアンスがあります。
 
@@ -105,14 +105,14 @@ reloadは「最初から読み直す」ニュアンス、refreshは「内容を�
 
 ## 🧩 あわせて覚えたい
 
-- [restart](/word/restart)：再起動する
-- [update](/word/update)：更新する
+- [restart](/word/restart/)：再起動する
+- [update](/word/update/)：更新する
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install)：インストールする
-- [reset](/word/reset)：リセットする
+- [install](/word/install/)：インストールする
+- [reset](/word/reset/)：リセットする
 
 <!-- cvid: aid01_bid09 -->

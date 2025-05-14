@@ -97,7 +97,7 @@ TOEICでは、説明文やレポートなどで「A, coupled with B」の形で�
 ## 🤔  combined との違いは？
 
 - **coupled**：2つ以上の要素が「結びついて」影響し合うことを強調
-- **[combined](/word/combined)**：単に「一緒になった」「合計された」という意味
+- **[combined](/word/combined/)**：単に「一緒になった」「合計された」という意味
 
 coupledは「相互作用」や「影響し合う」ニュアンスがあり、combinedは「単純な合算・統合」を表します。
 
@@ -105,14 +105,14 @@ coupledは「相互作用」や「影響し合う」ニュアンスがあり、c
 
 ## 🧩 あわせて覚えたい
 
-- [linked](/word/linked)：つながった、関連した
-- [attached](/word/attached)：取り付けられた、添付された
+- [linked](/word/linked/)：つながった、関連した
+- [attached](/word/attached/)：取り付けられた、添付された
 
 ---
 
 ## 📖 できればこれも
 
-- [associated](/word/associated)：関連した
-- [connected](/word/connected)：接続された、つながった
+- [associated](/word/associated/)：関連した
+- [connected](/word/connected/)：接続された、つながった
 
 <!-- cvid: aid16_bid21 -->

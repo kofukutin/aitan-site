@@ -97,7 +97,7 @@ TOEICでは、銀行や金融に関する長文や広告、案内文で「saver�
 ## 🤔  investor との違いは？
 
 - **saver**：お金を貯めることや節約を重視する人
-- **[investor](/word/investor)**：お金を投資して増やそうとする人
+- **[investor](/word/investor/)**：お金を投資して増やそうとする人
 
 「saver」は主に貯金や節約を目的とし、「investor」はリスクを取って資産を増やすことを目的とします。
 
@@ -105,14 +105,14 @@ TOEICでは、銀行や金融に関する長文や広告、案内文で「saver�
 
 ## 🧩 あわせて覚えたい
 
-- [spender](/word/spender)：浪費家、お金を使う人
-- [deposit](/word/deposit)：預金、預け入れ
+- [spender](/word/spender/)：浪費家、お金を使う人
+- [deposit](/word/deposit/)：預金、預け入れ
 
 ---
 
 ## 📖 できればこれも
 
-- [account](/word/account)：口座
-- [fund](/word/fund)：資金、基金
+- [account](/word/account/)：口座
+- [fund](/word/fund/)：資金、基金
 
 <!-- cvid: aid43_bid24 -->

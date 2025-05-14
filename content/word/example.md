@@ -97,7 +97,7 @@ TOEICでは、文法や語彙問題で「例を挙げる」「例として」と
 ## 🤔  sample との違いは？
 
 - **example**：説明や証明のために挙げる「例」や「手本」
-- **[sample](/word/sample)**：全体の中から抜き出した「見本」や「試供品」
+- **[sample](/word/sample/)**：全体の中から抜き出した「見本」や「試供品」
 
 exampleは説明や理解のための具体例、sampleは品質や特徴を示すための一部や見本という違いがあります。
 
@@ -105,14 +105,14 @@ exampleは説明や理解のための具体例、sampleは品質や特徴を示�
 
 ## 🧩 あわせて覚えたい
 
-- [instance](/word/instance)：具体的な事例
-- [model](/word/model)：模範、手本
+- [instance](/word/instance/)：具体的な事例
+- [model](/word/model/)：模範、手本
 
 ---
 
 ## 📖 できればこれも
 
-- [case](/word/case)：事例、場合
-- [pattern](/word/pattern)：パターン、型
+- [case](/word/case/)：事例、場合
+- [pattern](/word/pattern/)：パターン、型
 
 <!-- cvid: aid02_bid03 -->

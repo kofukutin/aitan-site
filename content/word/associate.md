@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「関連づける」「結びつける」とい
 ## 🤔  colleague との違いは？
 
 - **associate**：何かを他のものと関連づける、または一緒に働く人（名詞の場合）も指す
-- **[colleague](/word/colleague)**：職場の同僚、仕事仲間
+- **[colleague](/word/colleague/)**：職場の同僚、仕事仲間
 
 associateは「関連づける」という動詞の意味が中心ですが、名詞では「仲間」「共同経営者」なども指します。colleagueは「同じ職場の同僚」に限定されます。
 
@@ -105,14 +105,14 @@ associateは「関連づける」という動詞の意味が中心ですが、�
 
 ## 🧩 あわせて覚えたい
 
-- [connect](/word/connect)：つなぐ、接続する
-- [partner](/word/partner)：パートナー、共同経営者
+- [connect](/word/connect/)：つなぐ、接続する
+- [partner](/word/partner/)：パートナー、共同経営者
 
 ---
 
 ## 📖 できればこれも
 
-- [collaborate](/word/collaborate)：協力する、共同で行う
-- [refer](/word/refer)：言及する、参照する
+- [collaborate](/word/collaborate/)：協力する、共同で行う
+- [refer](/word/refer/)：言及する、参照する
 
 <!-- cvid: aid01_bid25 -->

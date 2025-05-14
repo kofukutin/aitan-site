@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「飛行機」や「空港」の場面
 ## 🤔  airplane との違いは？
 
 - **jet**：ジェットエンジンで飛ぶ飛行機や噴射を指す
-- **[airplane](/word/airplane)**：一般的な「飛行機」全般を指す
+- **[airplane](/word/airplane/)**：一般的な「飛行機」全般を指す
 
 jetは特にジェットエンジン搭載の高速な飛行機を指し、airplaneはプロペラ機なども含む広い意味で使われます。
 
@@ -105,14 +105,14 @@ jetは特にジェットエンジン搭載の高速な飛行機を指し、airpl
 
 ## 🧩 あわせて覚えたい
 
-- [flight](/word/flight)：飛行、フライト
-- [helicopter](/word/helicopter)：ヘリコプター
+- [flight](/word/flight/)：飛行、フライト
+- [helicopter](/word/helicopter/)：ヘリコプター
 
 ---
 
 ## 📖 できればこれも
 
-- [pilot](/word/pilot)：パイロット、操縦士
-- [airport](/word/airport)：空港
+- [pilot](/word/pilot/)：パイロット、操縦士
+- [airport](/word/airport/)：空港
 
 <!-- cvid: aid48_bid33 -->

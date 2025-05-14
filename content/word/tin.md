@@ -97,7 +97,7 @@ TOEICでは主に説明文や製品紹介などで「金属のスズ」や「缶
 ## 🤔  can との違いは？
 
 - **tin**：イギリス英語で「缶」、または金属の「スズ」
-- **[can](/word/can)**：アメリカ英語で「缶」、または「できる」という助動詞
+- **[can](/word/can/)**：アメリカ英語で「缶」、または「できる」という助動詞
 
 tinはイギリス英語で缶を指し、金属名としても使われますが、canはアメリカ英語で缶を指し、助動詞としても使われます。
 
@@ -105,14 +105,14 @@ tinはイギリス英語で缶を指し、金属名としても使われます�
 
 ## 🧩 あわせて覚えたい
 
-- [aluminum](/word/aluminum)：アルミニウム（金属）
-- [metal](/word/metal)：金属
+- [aluminum](/word/aluminum/)：アルミニウム（金属）
+- [metal](/word/metal/)：金属
 
 ---
 
 ## 📖 できればこれも
 
-- [iron](/word/iron)：鉄
-- [copper](/word/copper)：銅
+- [iron](/word/iron/)：鉄
+- [copper](/word/copper/)：銅
 
 <!-- cvid: aid44_bid34 -->

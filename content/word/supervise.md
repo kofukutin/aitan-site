@@ -97,7 +97,7 @@ TOEICでは主に職場やプロジェクトの管理・指導に関する会話
 ## 🤔  manage との違いは？
 
 - **supervise**：現場で直接見守り、指導やチェックを行うニュアンス
-- **[manage](/word/manage)**：全体を運営・管理し、計画や意思決定も含む広い意味
+- **[manage](/word/manage/)**：全体を運営・管理し、計画や意思決定も含む広い意味
 
 superviseは「現場での監督・指導」に重点があり、manageは「組織や業務全体の運営・管理」に使われます。
 
@@ -105,14 +105,14 @@ superviseは「現場での監督・指導」に重点があり、manageは「�
 
 ## 🧩 あわせて覚えたい
 
-- [oversee](/word/oversee)：（広い範囲を）監督する
-- [monitor](/word/monitor)：（状況や進捗を）監視する
+- [oversee](/word/oversee/)：（広い範囲を）監督する
+- [monitor](/word/monitor/)：（状況や進捗を）監視する
 
 ---
 
 ## 📖 できればこれも
 
-- [coordinate](/word/coordinate)：調整する
-- [organize](/word/organize)：組織する、まとめる
+- [coordinate](/word/coordinate/)：調整する
+- [organize](/word/organize/)：組織する、まとめる
 
 <!-- cvid: aid21_bid38 -->

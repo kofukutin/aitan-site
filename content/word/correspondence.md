@@ -98,7 +98,7 @@ TOEICでは主にビジネス文書やメールのやりとりに関する設問
 ## 🤔  communication との違いは？
 
 - **correspondence**：主に手紙やメールなどの「文書によるやりとり」や「一致・対応」を指すフォーマルな表現
-- **[communication](/word/communication)**：情報や気持ちの「伝達・意思疎通」全般を指し、口頭・文書・非言語も含む幅広い意味
+- **[communication](/word/communication/)**：情報や気持ちの「伝達・意思疎通」全般を指し、口頭・文書・非言語も含む幅広い意味
 
 correspondenceは書面やメールなどのやりとりに限定されることが多いですが、communicationは話す・書く・ジェスチャーなど広い範囲で使われます。
 
@@ -106,14 +106,14 @@ correspondenceは書面やメールなどのやりとりに限定されること
 
 ## 🧩 あわせて覚えたい
 
-- [letter](/word/letter)：手紙
-- [memo](/word/memo)：メモ、社内文書
+- [letter](/word/letter/)：手紙
+- [memo](/word/memo/)：メモ、社内文書
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document)：文書、書類
-- [inquiry](/word/inquiry)：問い合わせ
+- [document](/word/document/)：文書、書類
+- [inquiry](/word/inquiry/)：問い合わせ
 
 <!-- cvid: aid44_bid17 -->

@@ -97,7 +97,7 @@ TOEICでは記事やビジネス文書、公式発表などで「政治的な」
 ## 🤔  governmental との違いは？
 
 - **political**：政治全般や政治的な意図・立場に関する
-- **[governmental](/word/governmental)**：政府そのものや行政機関に関する
+- **[governmental](/word/governmental/)**：政府そのものや行政機関に関する
 
 **political**は「政治的な立場・活動・意見」など幅広い文脈で使われ、**governmental**は「政府の」「行政の」と組織や制度に直接関わる場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは記事やビジネス文書、公式発表などで「政治的な」
 
 ## 🧩 あわせて覚えたい
 
-- [diplomatic](/word/diplomatic)：外交の、外交的な
-- [partisan](/word/partisan)：党派的な、特定の政党を支持する
+- [diplomatic](/word/diplomatic/)：外交の、外交的な
+- [partisan](/word/partisan/)：党派的な、特定の政党を支持する
 
 ---
 
 ## 📖 できればこれも
 
-- [economic](/word/economic)：経済の、経済に関する
-- [legal](/word/legal)：法律の、法的な
+- [economic](/word/economic/)：経済の、経済に関する
+- [legal](/word/legal/)：法律の、法的な
 
 <!-- cvid: aid15_bid47 -->

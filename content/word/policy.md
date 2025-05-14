@@ -97,7 +97,7 @@ TOEICでは主にPart 7のビジネス文書や案内文で「方針」「規定
 ## 🤔  rule との違いは？
 
 - **policy**：組織や団体が定める全体的な方針や指針
-- **[rule](/word/rule)**：具体的な行動や手順を定める「規則」
+- **[rule](/word/rule/)**：具体的な行動や手順を定める「規則」
 
 policyは「大きな方向性」や「原則」を示し、ruleは「守るべき細かい決まり」を指します。policyが全体像、ruleが具体的なルールです。
 
@@ -105,14 +105,14 @@ policyは「大きな方向性」や「原則」を示し、ruleは「守るべ�
 
 ## 🧩 あわせて覚えたい
 
-- [guideline](/word/guideline)：指針、ガイドライン
-- [strategy](/word/strategy)：戦略
+- [guideline](/word/guideline/)：指針、ガイドライン
+- [strategy](/word/strategy/)：戦略
 
 ---
 
 ## 📖 できればこれも
 
-- [procedure](/word/procedure)：手順、手続き
-- [regulation](/word/regulation)：規則、規制
+- [procedure](/word/procedure/)：手順、手続き
+- [regulation](/word/regulation/)：規則、規制
 
 <!-- cvid: aid15_bid42 -->

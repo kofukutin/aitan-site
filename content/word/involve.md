@@ -97,7 +97,7 @@ TOEICでは「含む」「関与する」という意味で、主に文法や語
 ## 🤔  include との違いは？
 
 - **involve**：何かを含み、さらに積極的な関与や影響を示す
-- **[include](/word/include)**：単に一部として含む、関与のニュアンスは弱い
+- **[include](/word/include/)**：単に一部として含む、関与のニュアンスは弱い
 
 involveは「巻き込む」「関与させる」など、より深い関わりや影響を表しますが、includeは単に「含む」という意味で使われます。
 
@@ -105,14 +105,14 @@ involveは「巻き込む」「関与させる」など、より深い関わり�
 
 ## 🧩 あわせて覚えたい
 
-- [require](/word/require)：必要とする
-- [engage](/word/engage)：従事させる、関与させる
+- [require](/word/require/)：必要とする
+- [engage](/word/engage/)：従事させる、関与させる
 
 ---
 
 ## 📖 できればこれも
 
-- [affect](/word/affect)：影響を与える
-- [relate](/word/relate)：関係する
+- [affect](/word/affect/)：影響を与える
+- [relate](/word/relate/)：関係する
 
 <!-- cvid: aid48_bid33 -->

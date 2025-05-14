@@ -96,7 +96,7 @@ TOEICでは主にビーチやプールの写真描写問題で登場しやすい
 ## 🤔  swimsuit との違いは？
 
 - **bikini**：上下が分かれた女性用の水着で、露出が多いのが特徴。
-- **[swimsuit](/word/swimsuit)**：一般的な水着全般を指し、ワンピース型やビキニ型など幅広い。
+- **[swimsuit](/word/swimsuit/)**：一般的な水着全般を指し、ワンピース型やビキニ型など幅広い。
 
 bikiniは特に上下分かれた露出の多い水着を指し、swimsuitはより広い意味で使われます。
 
@@ -104,14 +104,14 @@ bikiniは特に上下分かれた露出の多い水着を指し、swimsuitはよ
 
 ## 🧩 あわせて覚えたい
 
-- [trunks](/word/trunks)：男性用の水泳パンツ
-- [beachwear](/word/beachwear)：ビーチで着る服全般
+- [trunks](/word/trunks/)：男性用の水泳パンツ
+- [beachwear](/word/beachwear/)：ビーチで着る服全般
 
 ---
 
 ## 📖 できればこれも
 
-- [sand](/word/sand)：砂
-- [pool](/word/pool)：プール
+- [sand](/word/sand/)：砂
+- [pool](/word/pool/)：プール
 
 <!-- cvid: aid11_bid04 -->

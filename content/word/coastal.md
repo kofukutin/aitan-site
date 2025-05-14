@@ -97,7 +97,7 @@ TOEICでは、観光や環境、地理に関する長文や広告、説明文で
 ## 🤔  marine との違いは？
 
 - **coastal**：海岸や沿岸に関する、陸地と海の境界付近を指す
-- **[marine](/word/marine)**：海そのものや海に生息するものに関する
+- **[marine](/word/marine/)**：海そのものや海に生息するものに関する
 
 「coastal」は海岸線やその近くの地域を指し、「marine」は海自体や海洋生物など海に直接関係するものを指します。
 
@@ -105,14 +105,14 @@ TOEICでは、観光や環境、地理に関する長文や広告、説明文で
 
 ## 🧩 あわせて覚えたい
 
-- [inland](/word/inland)：内陸の
-- [shore](/word/shore)：岸、岸辺
+- [inland](/word/inland/)：内陸の
+- [shore](/word/shore/)：岸、岸辺
 
 ---
 
 ## 📖 できればこれも
 
-- [mountainous](/word/mountainous)：山の多い
-- [rural](/word/rural)：田舎の
+- [mountainous](/word/mountainous/)：山の多い
+- [rural](/word/rural/)：田舎の
 
 <!-- cvid: aid09_bid33 -->

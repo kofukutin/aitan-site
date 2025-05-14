@@ -105,14 +105,14 @@ integerはマイナスの数も含みますが、whole numberは通常マイナ�
 
 ## 🧩 あわせて覚えたい
 
-- [fraction](/word/fraction)：分数
-- [decimal](/word/decimal)：小数
+- [fraction](/word/fraction/)：分数
+- [decimal](/word/decimal/)：小数
 
 ---
 
 ## 📖 できればこれも
 
-- [variable](/word/variable)：変数
-- [value](/word/value)：値
+- [variable](/word/variable/)：変数
+- [value](/word/value/)：値
 
 <!-- cvid: aid41_bid30 -->

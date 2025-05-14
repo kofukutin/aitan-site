@@ -97,7 +97,7 @@ IT関連の英文や技術系のメール、説明文で略語として登場す
 ## 🤔  library との違いは？
 
 - **lib**：IT分野で使われる「library」の略語。カジュアルで技術者同士の会話や文書でよく使う。
-- **[library](/word/library)**：正式な単語で、IT以外にも「図書館」など幅広い意味を持つ。
+- **[library](/word/library/)**：正式な単語で、IT以外にも「図書館」など幅広い意味を持つ。
 
 libは主にIT技術者の間で使われる略語で、libraryはよりフォーマルかつ一般的な表現です。
 
@@ -105,14 +105,14 @@ libは主にIT技術者の間で使われる略語で、libraryはよりフォ�
 
 ## 🧩 あわせて覚えたい
 
-- [module](/word/module)：モジュール、部品
-- [framework](/word/framework)：枠組み、フレームワーク
+- [module](/word/module/)：モジュール、部品
+- [framework](/word/framework/)：枠組み、フレームワーク
 
 ---
 
 ## 📖 できればこれも
 
-- [script](/word/script)：スクリプト、簡単なプログラム
-- [package](/word/package)：パッケージ、まとめられたソフトウェア部品
+- [script](/word/script/)：スクリプト、簡単なプログラム
+- [package](/word/package/)：パッケージ、まとめられたソフトウェア部品
 
 <!-- cvid: aid21_bid24 -->

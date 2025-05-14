@@ -97,7 +97,7 @@ TOEICではダイバーシティや職場の多様性に関する長文で見か
 ## 🤔  gay との違いは？
 
 - **lesbian**：女性の同性愛者を指す言葉
-- **[gay](/word/gay)**：主に男性の同性愛者を指すが、広く同性愛者全体を指す場合もある
+- **[gay](/word/gay/)**：主に男性の同性愛者を指すが、広く同性愛者全体を指す場合もある
 
 lesbianは女性限定、gayは男性や全体を指す場合があり、使い分けが必要です。
 
@@ -105,14 +105,14 @@ lesbianは女性限定、gayは男性や全体を指す場合があり、使い�
 
 ## 🧩 あわせて覚えたい
 
-- [bisexual](/word/bisexual)：両性愛者
-- [heterosexual](/word/heterosexual)：異性愛者
+- [bisexual](/word/bisexual/)：両性愛者
+- [heterosexual](/word/heterosexual/)：異性愛者
 
 ---
 
 ## 📖 できればこれも
 
-- [transgender](/word/transgender)：トランスジェンダー（性自認が出生時の性別と異なる人）
-- [queer](/word/queer)：性的マイノリティ全般を指す言葉
+- [transgender](/word/transgender/)：トランスジェンダー（性自認が出生時の性別と異なる人）
+- [queer](/word/queer/)：性的マイノリティ全般を指す言葉
 
 <!-- cvid: aid02_bid36 -->

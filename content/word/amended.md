@@ -97,7 +97,7 @@ TOEICでは主に契約書や規則、公式文書の修正に関する文脈で
 ## 🤔  revised との違いは？
 
 - **amended**：主に法律や規則、契約など公式な文書を部分的に修正・改正したことを表す。
-- **[revised](/word/revised)**：内容全体を見直して修正・改訂する場合に使われ、書類や計画、原稿など幅広く使われる。
+- **[revised](/word/revised/)**：内容全体を見直して修正・改訂する場合に使われ、書類や計画、原稿など幅広く使われる。
 
 amendedは「公式な文書の一部を正す」イメージ、revisedは「全体を見直して手直しする」イメージです。
 
@@ -105,14 +105,14 @@ amendedは「公式な文書の一部を正す」イメージ、revisedは「全
 
 ## 🧩 あわせて覚えたい
 
-- [modify](/word/modify)：変更する、修正する
-- [approve](/word/approve)：承認する
+- [modify](/word/modify/)：変更する、修正する
+- [approve](/word/approve/)：承認する
 
 ---
 
 ## 📖 できればこれも
 
-- [adjust](/word/adjust)：調整する
-- [update](/word/update)：更新する
+- [adjust](/word/adjust/)：調整する
+- [update](/word/update/)：更新する
 
 <!-- cvid: aid35_bid36 -->

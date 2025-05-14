@@ -97,7 +97,7 @@ TOEICでは「極端な状況」「極端な対策」など、程度の大きさ
 ## 🤔  excessive との違いは？
 
 - **extreme**：普通の範囲を大きく超えて「極端な」「非常な」ことを強調する。
-- **[excessive](/word/excessive)**：必要以上で「過度な」「やりすぎの」と否定的なニュアンスが強い。
+- **[excessive](/word/excessive/)**：必要以上で「過度な」「やりすぎの」と否定的なニュアンスが強い。
 
 extremeは良い意味・悪い意味どちらにも使えますが、excessiveは「やりすぎ」「度を越して悪い」という否定的な場面で使われます。
 
@@ -105,14 +105,14 @@ extremeは良い意味・悪い意味どちらにも使えますが、excessive�
 
 ## 🧩 あわせて覚えたい
 
-- [radical](/word/radical)：急進的な、根本的な
-- [moderate](/word/moderate)：適度な、穏やかな
+- [radical](/word/radical/)：急進的な、根本的な
+- [moderate](/word/moderate/)：適度な、穏やかな
 
 ---
 
 ## 📖 できればこれも
 
-- [severe](/word/severe)：厳しい、深刻な
-- [intense](/word/intense)：強烈な、激しい
+- [severe](/word/severe/)：厳しい、深刻な
+- [intense](/word/intense/)：強烈な、激しい
 
 <!-- cvid: aid45_bid21 -->

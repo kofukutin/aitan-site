@@ -97,7 +97,7 @@ TOEICでは、動詞の時制や受動態、過去分詞としての使い方を
 ## 🤔  calculated との違いは？
 
 - **counted**：実際に一つずつ数えたり、単純な合計を出すときに使う
-- **[calculated](/word/calculated)**：計算式や方法を使って数値を求めるときに使う
+- **[calculated](/word/calculated/)**：計算式や方法を使って数値を求めるときに使う
 
 countedは「数を順に数える」イメージ、calculatedは「計算式や方法で求める」イメージです。
 
@@ -105,14 +105,14 @@ countedは「数を順に数える」イメージ、calculatedは「計算式や
 
 ## 🧩 あわせて覚えたい
 
-- [estimate](/word/estimate)：見積もる、推定する
-- [measure](/word/measure)：測る、計測する
+- [estimate](/word/estimate/)：見積もる、推定する
+- [measure](/word/measure/)：測る、計測する
 
 ---
 
 ## 📖 できればこれも
 
-- [add](/word/add)：加える、足す
-- [record](/word/record)：記録する
+- [add](/word/add/)：加える、足す
+- [record](/word/record/)：記録する
 
 <!-- cvid: aid32_bid49 -->

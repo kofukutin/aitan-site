@@ -97,7 +97,7 @@ TOEICでは、法務やビジネス文書の中で「ruling」が判決や裁定
 ## 🤔  judgment との違いは？
 
 - **ruling**：裁判所や権威ある機関による公式な決定や裁定を指す
-- **[judgment](/word/judgment)**：判断、評価、または裁判所の判決全般を指す
+- **[judgment](/word/judgment/)**：判断、評価、または裁判所の判決全般を指す
 
 「ruling」は特に公式な決定や裁定に焦点があり、「judgment」はより広く「判断」や「評価」も含みます。
 
@@ -105,14 +105,14 @@ TOEICでは、法務やビジネス文書の中で「ruling」が判決や裁定
 
 ## 🧩 あわせて覚えたい
 
-- [decision](/word/decision)：決定、判断
-- [verdict](/word/verdict)：（陪審員などの）評決
+- [decision](/word/decision/)：決定、判断
+- [verdict](/word/verdict/)：（陪審員などの）評決
 
 ---
 
 ## 📖 できればこれも
 
-- [regulation](/word/regulation)：規則、規制
-- [policy](/word/policy)：方針、政策
+- [regulation](/word/regulation/)：規則、規制
+- [policy](/word/policy/)：方針、政策
 
 <!-- cvid: aid06_bid41 -->

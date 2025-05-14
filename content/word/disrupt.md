@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やメール、ニュース記事などで「
 ## 🤔  disturb との違いは？
 
 - **disrupt**：流れや秩序を大きく壊す、業務やシステムなどを一時的に止める
-- **[disturb](/word/disturb)**：人や状況を軽く邪魔する、気を散らす
+- **[disturb](/word/disturb/)**：人や状況を軽く邪魔する、気を散らす
 
 disruptは「大きな混乱や中断」を強調し、disturbは「軽い妨害や気を散らす」程度のニュアンスです。
 
@@ -105,14 +105,14 @@ disruptは「大きな混乱や中断」を強調し、disturbは「軽い妨害
 
 ## 🧩 あわせて覚えたい
 
-- [interrupt](/word/interrupt)：（会話や作業などを）さえぎる
-- [resume](/word/resume)：再開する
+- [interrupt](/word/interrupt/)：（会話や作業などを）さえぎる
+- [resume](/word/resume/)：再開する
 
 ---
 
 ## 📖 できればこれも
 
-- [postpone](/word/postpone)：延期する
-- [cancel](/word/cancel)：中止する
+- [postpone](/word/postpone/)：延期する
+- [cancel](/word/cancel/)：中止する
 
 <!-- cvid: aid35_bid37 -->

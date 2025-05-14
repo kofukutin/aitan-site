@@ -98,7 +98,7 @@ TOEICでは、形容詞として「わずかな変化」「小さな違い」な
 ## 🤔  subtle との違いは？
 
 - **slight**：量や程度が「とても小さい」「わずか」で、主に物理的・数量的な違いを表す。
-- **[subtle](/word/subtle)**：目立たない・微妙な違い、感覚的・抽象的なニュアンスを含む。
+- **[subtle](/word/subtle/)**：目立たない・微妙な違い、感覚的・抽象的なニュアンスを含む。
 
 slightは「数値や大きさが小さい」ことに焦点があり、subtleは「気づきにくい」「微妙な」違いを強調します。
 
@@ -106,14 +106,14 @@ slightは「数値や大きさが小さい」ことに焦点があり、subtle�
 
 ## 🧩 あわせて覚えたい
 
-- [minor](/word/minor)：小さい、重要でない
-- [negligible](/word/negligible)：無視できるほど小さい
+- [minor](/word/minor/)：小さい、重要でない
+- [negligible](/word/negligible/)：無視できるほど小さい
 
 ---
 
 ## 📖 できればこれも
 
-- [tiny](/word/tiny)：とても小さい
-- [barely](/word/barely)：かろうじて、ほとんど～ない
+- [tiny](/word/tiny/)：とても小さい
+- [barely](/word/barely/)：かろうじて、ほとんど～ない
 
 <!-- cvid: aid18_bid46 -->

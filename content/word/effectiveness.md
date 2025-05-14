@@ -97,7 +97,7 @@ effectivenessは、TOEICの文法や語彙問題で「効果」「有効性」�
 ## 🤔  efficiency との違いは？
 
 - **effectiveness**：目的をどれだけ達成できるか（効果・有効性）
-- **[efficiency](/word/efficiency)**：どれだけ無駄なく効率的にできるか（効率）
+- **[efficiency](/word/efficiency/)**：どれだけ無駄なく効率的にできるか（効率）
 
 effectivenessは「成果が出るかどうか」、efficiencyは「手間や時間をかけずにできるか」に重点があります。
 
@@ -105,14 +105,14 @@ effectivenessは「成果が出るかどうか」、efficiencyは「手間や時
 
 ## 🧩 あわせて覚えたい
 
-- [impact](/word/impact)：影響、インパクト
-- [validity](/word/validity)：妥当性、有効性
+- [impact](/word/impact/)：影響、インパクト
+- [validity](/word/validity/)：妥当性、有効性
 
 ---
 
 ## 📖 できればこれも
 
-- [productivity](/word/productivity)：生産性
-- [performance](/word/performance)：業績、成果
+- [productivity](/word/productivity/)：生産性
+- [performance](/word/performance/)：業績、成果
 
 <!-- cvid: aid24_bid42 -->

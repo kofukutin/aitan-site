@@ -97,7 +97,7 @@ TOEICでは説明文やグラフの読み取り問題で、人口密度やデー
 ## 🤔  concentration との違いは？
 
 - **density**：一定の空間にどれだけ詰まっているか（物理的な密度）
-- **[concentration](/word/concentration)**：特定の成分や要素がどれだけ集まっているか（濃度・集中）
+- **[concentration](/word/concentration/)**：特定の成分や要素がどれだけ集まっているか（濃度・集中）
 
 densityは物質や人口などの「物理的な密度」を表し、concentrationは液体の濃度や注意力の集中など「集まり具合・濃さ」を表します。
 
@@ -105,14 +105,14 @@ densityは物質や人口などの「物理的な密度」を表し、concentrat
 
 ## 🧩 あわせて覚えたい
 
-- [thickness](/word/thickness)：厚さ
-- [mass](/word/mass)：質量
+- [thickness](/word/thickness/)：厚さ
+- [mass](/word/mass/)：質量
 
 ---
 
 ## 📖 できればこれも
 
-- [volume](/word/volume)：体積
-- [pressure](/word/pressure)：圧力
+- [volume](/word/volume/)：体積
+- [pressure](/word/pressure/)：圧力
 
 <!-- cvid: aid10_bid04 -->

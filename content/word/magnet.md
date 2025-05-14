@@ -97,7 +97,7 @@ TOEICでは科学や技術に関する説明文や、比喩的な表現で「mag
 ## 🤔  attract との違いは？
 
 - **magnet**：物理的な「磁石」や、比喩的に「人や物を強く引きつけるもの」を指す名詞。
-- **[attract](/word/attract)**：引きつける、魅了するという動詞。
+- **[attract](/word/attract/)**：引きつける、魅了するという動詞。
 
 magnetは「引きつける力そのものや物」を表し、attractは「引きつける」という動作を表します。
 
@@ -105,14 +105,14 @@ magnetは「引きつける力そのものや物」を表し、attractは「引�
 
 ## 🧩 あわせて覚えたい
 
-- [repel](/word/repel)：はじく、寄せ付けない
-- [metal](/word/metal)：金属
+- [repel](/word/repel/)：はじく、寄せ付けない
+- [metal](/word/metal/)：金属
 
 ---
 
 ## 📖 できればこれも
 
-- [electricity](/word/electricity)：電気
-- [device](/word/device)：装置
+- [electricity](/word/electricity/)：電気
+- [device](/word/device/)：装置
 
 <!-- cvid: aid29_bid00 -->

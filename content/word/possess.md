@@ -97,7 +97,7 @@ TOEICでは主にPart 5の語彙問題や、フォーマルな文脈で「所有
 ## 🤔  own との違いは？
 
 - **possess**：フォーマルで「所有する」、特に能力や性質にも使う
-- **[own](/word/own)**：日常的で「自分のものとして持つ」、主に物理的な所有
+- **[own](/word/own/)**：日常的で「自分のものとして持つ」、主に物理的な所有
 
 possessは能力や資格など抽象的なものにも使え、ownは主に物や土地など具体的な所有に使われます。
 
@@ -105,14 +105,14 @@ possessは能力や資格など抽象的なものにも使え、ownは主に物�
 
 ## 🧩 あわせて覚えたい
 
-- [acquire](/word/acquire)：獲得する、手に入れる
-- [retain](/word/retain)：保持する、持ち続ける
+- [acquire](/word/acquire/)：獲得する、手に入れる
+- [retain](/word/retain/)：保持する、持ち続ける
 
 ---
 
 ## 📖 できればこれも
 
-- [obtain](/word/obtain)：得る、手に入れる
-- [hold](/word/hold)：持つ、保持する
+- [obtain](/word/obtain/)：得る、手に入れる
+- [hold](/word/hold/)：持つ、保持する
 
 <!-- cvid: aid28_bid23 -->

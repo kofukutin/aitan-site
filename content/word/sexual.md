@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文や規則説明、職場のポリシー文書な
 ## 🤔  erotic との違いは？
 
 - **sexual**：性に関する、性的な（広い意味で使う）
-- **[erotic](/word/erotic)**：官能的な、性的興奮を誘う（感情や雰囲気が強い）
+- **[erotic](/word/erotic/)**：官能的な、性的興奮を誘う（感情や雰囲気が強い）
 
 sexualは性や性別、性行為など幅広い文脈で使われますが、eroticは「官能的」「性的に刺激的」というニュアンスが強く、日常会話やビジネスではあまり使いません。
 
@@ -105,14 +105,14 @@ sexualは性や性別、性行為など幅広い文脈で使われますが、er
 
 ## 🧩 あわせて覚えたい
 
-- [gender](/word/gender)：性別
-- [romantic](/word/romantic)：恋愛の、ロマンチックな
+- [gender](/word/gender/)：性別
+- [romantic](/word/romantic/)：恋愛の、ロマンチックな
 
 ---
 
 ## 📖 できればこれも
 
-- [physical](/word/physical)：身体的な
-- [emotional](/word/emotional)：感情的な
+- [physical](/word/physical/)：身体的な
+- [emotional](/word/emotional/)：感情的な
 
 <!-- cvid: aid27_bid19 -->

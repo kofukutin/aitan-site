@@ -97,7 +97,7 @@ sendingは、TOEICの文法・語彙問題で動詞sendの名詞形として出�
 ## 🤔  shipment との違いは？
 
 - **sending**：送る行為全般や送信そのものを幅広く指す
-- **[shipment](/word/shipment)**：特に「貨物の発送」「出荷」など物流・配送に特化
+- **[shipment](/word/shipment/)**：特に「貨物の発送」「出荷」など物流・配送に特化
 
 sendingは「送る」という動作全体を指し、shipmentは「商品や荷物の発送・出荷」に限定される点が異なります。
 
@@ -105,14 +105,14 @@ sendingは「送る」という動作全体を指し、shipmentは「商品や�
 
 ## 🧩 あわせて覚えたい
 
-- [delivery](/word/delivery)：配達、配送
-- [dispatch](/word/dispatch)：発送、派遣
+- [delivery](/word/delivery/)：配達、配送
+- [dispatch](/word/dispatch/)：発送、派遣
 
 ---
 
 ## 📖 できればこれも
 
-- [receiving](/word/receiving)：受け取り
-- [transfer](/word/transfer)：移動、転送
+- [receiving](/word/receiving/)：受け取り
+- [transfer](/word/transfer/)：移動、転送
 
 <!-- cvid: aid06_bid48 -->

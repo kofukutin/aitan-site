@@ -97,7 +97,7 @@ TOEICでは、メールやお知らせ文などで「お悔やみ」や「励ま
 ## 🤔  empathy との違いは？
 
 - **sympathy**：相手の気持ちを「かわいそう」と思い、外側から寄り添う感情。
-- **[empathy](/word/empathy)**：相手の立場になって「自分ごと」として感じる深い共感。
+- **[empathy](/word/empathy/)**：相手の立場になって「自分ごと」として感じる深い共感。
 
 sympathyは「同情」、empathyは「感情移入」といった違いがあり、empathyの方がより深く相手の気持ちを理解するニュアンスです。
 
@@ -105,14 +105,14 @@ sympathyは「同情」、empathyは「感情移入」といった違いがあ�
 
 ## 🧩 あわせて覚えたい
 
-- [compassion](/word/compassion)：思いやり、深い同情
-- [indifference](/word/indifference)：無関心
+- [compassion](/word/compassion/)：思いやり、深い同情
+- [indifference](/word/indifference/)：無関心
 
 ---
 
 ## 📖 できればこれも
 
-- [support](/word/support)：支援、サポート
-- [concern](/word/concern)：心配、関心
+- [support](/word/support/)：支援、サポート
+- [concern](/word/concern/)：心配、関心
 
 <!-- cvid: aid41_bid28 -->

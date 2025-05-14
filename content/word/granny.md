@@ -96,7 +96,7 @@ TOEICでは家族や人物を表す写真描写問題で、ごくまれに登場
 ## 🤔  grandmother との違いは？
 
 - **granny**：親しみやすくカジュアルに「おばあちゃん」と呼ぶときに使う
-- **[grandmother](/word/grandmother)**：フォーマルで正式な「祖母」
+- **[grandmother](/word/grandmother/)**：フォーマルで正式な「祖母」
 
 grannyは家族や親しい間柄で使う愛称、grandmotherは書類やフォーマルな場面で使います。
 
@@ -104,14 +104,14 @@ grannyは家族や親しい間柄で使う愛称、grandmotherは書類やフォ
 
 ## 🧩 あわせて覚えたい
 
-- [grandpa](/word/grandpa)：おじいちゃん
-- [aunt](/word/aunt)：おば
+- [grandpa](/word/grandpa/)：おじいちゃん
+- [aunt](/word/aunt/)：おば
 
 ---
 
 ## 📖 できればこれも
 
-- [mom](/word/mom)：お母さん
-- [dad](/word/dad)：お父さん
+- [mom](/word/mom/)：お母さん
+- [dad](/word/dad/)：お父さん
 
 <!-- cvid: aid23_bid22 -->

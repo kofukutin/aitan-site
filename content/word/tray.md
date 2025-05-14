@@ -96,7 +96,7 @@ TOEICでは主にPart 1の写真描写で、カフェやオフィスの場面で
 ## 🤔  plate との違いは？
 
 - **tray**：物を運ぶための平らな容器や盆
-- **[plate](/word/plate)**：主に食べ物を盛るための平らな皿
+- **[plate](/word/plate/)**：主に食べ物を盛るための平らな皿
 
 trayは複数の物をまとめて運ぶ用途が中心で、plateは食事用の皿として使われます。
 
@@ -104,14 +104,14 @@ trayは複数の物をまとめて運ぶ用途が中心で、plateは食事用�
 
 ## 🧩 あわせて覚えたい
 
-- [basket](/word/basket)：かご、バスケット
-- [container](/word/container)：容器、入れ物
+- [basket](/word/basket/)：かご、バスケット
+- [container](/word/container/)：容器、入れ物
 
 ---
 
 ## 📖 できればこれも
 
-- [cup](/word/cup)：カップ、茶わん
-- [dish](/word/dish)：皿、料理
+- [cup](/word/cup/)：カップ、茶わん
+- [dish](/word/dish/)：皿、料理
 
 <!-- cvid: aid34_bid39 -->

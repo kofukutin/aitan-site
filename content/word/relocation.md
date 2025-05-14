@@ -97,7 +97,7 @@ TOEICでは、社内異動やオフィス移転、転勤に関するメールや
 ## 🤔  transfer との違いは？
 
 - **relocation**：物理的な場所の移動や転勤・引っ越しを強調
-- **[transfer](/word/transfer)**：職務や役割の変更、または資金・データの移動など幅広い「移す」行為
+- **[transfer](/word/transfer/)**：職務や役割の変更、または資金・データの移動など幅広い「移す」行為
 
 relocationは「場所が変わる」ことに重点があり、transferは「役割や所有権などの移動」も含めて幅広く使われます。
 
@@ -105,14 +105,14 @@ relocationは「場所が変わる」ことに重点があり、transferは「�
 
 ## 🧩 あわせて覚えたい
 
-- [move](/word/move)：動く、引っ越す
-- [assignment](/word/assignment)：任務、配属
+- [move](/word/move/)：動く、引っ越す
+- [assignment](/word/assignment/)：任務、配属
 
 ---
 
 ## 📖 できればこれも
 
-- [promotion](/word/promotion)：昇進
-- [appointment](/word/appointment)：任命、指名
+- [promotion](/word/promotion/)：昇進
+- [appointment](/word/appointment/)：任命、指名
 
 <!-- cvid: aid34_bid01 -->

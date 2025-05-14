@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写や、食事・買い物の場面で登場
 ## 🤔  fruit との違いは？
 
 - **vegetable**：食用の葉・根・茎などの野菜全般を指す
-- **[fruit](/word/fruit)**：果物、植物の実で甘みがあるものを指す
+- **[fruit](/word/fruit/)**：果物、植物の実で甘みがあるものを指す
 
 vegetableは主に食事の副菜や料理に使われる野菜、fruitはデザートやそのまま食べる甘い果物を指します。
 
@@ -105,14 +105,14 @@ vegetableは主に食事の副菜や料理に使われる野菜、fruitはデザ
 
 ## 🧩 あわせて覚えたい
 
-- [plant](/word/plant)：植物
-- [salad](/word/salad)：サラダ、野菜を使った料理
+- [plant](/word/plant/)：植物
+- [salad](/word/salad/)：サラダ、野菜を使った料理
 
 ---
 
 ## 📖 できればこれも
 
-- [fruit](/word/fruit)：果物
-- [plant](/word/plant)：植物
+- [fruit](/word/fruit/)：果物
+- [plant](/word/plant/)：植物
 
 <!-- cvid: aid19_bid03 -->

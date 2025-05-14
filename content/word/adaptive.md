@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やIT関連の長文で、変化に対応で�
 ## 🤔  flexible との違いは？
 
 - **adaptive**：状況や環境の変化に合わせて自分自身を変えられる性質
-- **[flexible](/word/flexible)**：柔軟で、必要に応じて対応や調整ができる性質
+- **[flexible](/word/flexible/)**：柔軟で、必要に応じて対応や調整ができる性質
 
 「adaptive」は変化に積極的に適応するニュアンスが強く、「flexible」は柔軟性や融通が利くことに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは主にビジネス文書やIT関連の長文で、変化に対応で�
 
 ## 🧩 あわせて覚えたい
 
-- [adjustable](/word/adjustable)：調整可能な
-- [resistant](/word/resistant)：耐性がある、抵抗力がある
+- [adjustable](/word/adjustable/)：調整可能な
+- [resistant](/word/resistant/)：耐性がある、抵抗力がある
 
 ---
 
 ## 📖 できればこれも
 
-- [responsive](/word/responsive)：反応が早い、応答性のある
-- [efficient](/word/efficient)：効率的な
+- [responsive](/word/responsive/)：反応が早い、応答性のある
+- [efficient](/word/efficient/)：効率的な
 
 <!-- cvid: aid47_bid30 -->

@@ -97,7 +97,7 @@ TOEICではPart 5の語彙問題で「促す」「引き起こす」という意
 ## 🤔  encourage との違いは？
 
 - **prompt**：何かのきっかけや刺激で「行動を促す」「引き起こす」ニュアンスが強い
-- **[encourage](/word/encourage)**：自信や勇気を与えて「励ます」「勇気づける」意味が中心
+- **[encourage](/word/encourage/)**：自信や勇気を与えて「励ます」「勇気づける」意味が中心
 
 promptは外部からの刺激や出来事が行動を引き起こす場合に使い、encourageは気持ちを後押しする場合に使います。
 
@@ -105,14 +105,14 @@ promptは外部からの刺激や出来事が行動を引き起こす場合に�
 
 ## 🧩 あわせて覚えたい
 
-- [urge](/word/urge)：強く促す、せき立てる
-- [remind](/word/remind)：思い出させる、注意を促す
+- [urge](/word/urge/)：強く促す、せき立てる
+- [remind](/word/remind/)：思い出させる、注意を促す
 
 ---
 
 ## 📖 できればこれも
 
-- [motivate](/word/motivate)：やる気を起こさせる
-- [stimulate](/word/stimulate)：刺激する、活性化する
+- [motivate](/word/motivate/)：やる気を起こさせる
+- [stimulate](/word/stimulate/)：刺激する、活性化する
 
 <!-- cvid: aid29_bid09 -->

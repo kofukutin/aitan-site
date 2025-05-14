@@ -97,7 +97,7 @@ TOEICではビジネスやプロジェクトに関する長文やメール、案
 ## 🤔  investment との違いは？
 
 - **funding**：特定の目的のために集められる資金やその調達行為
-- **[investment](/word/investment)**：利益やリターンを期待してお金や資源を投じること
+- **[investment](/word/investment/)**：利益やリターンを期待してお金や資源を投じること
 
 fundingは「資金を集める・提供すること」に重点があり、investmentは「利益を得るためにお金を使うこと」に重点があります。
 
@@ -105,14 +105,14 @@ fundingは「資金を集める・提供すること」に重点があり、inve
 
 ## 🧩 あわせて覚えたい
 
-- [grant](/word/grant)：助成金、補助金
-- [budget](/word/budget)：予算
+- [grant](/word/grant/)：助成金、補助金
+- [budget](/word/budget/)：予算
 
 ---
 
 ## 📖 できればこれも
 
-- [finance](/word/finance)：財務、資金管理
-- [donation](/word/donation)：寄付
+- [finance](/word/finance/)：財務、資金管理
+- [donation](/word/donation/)：寄付
 
 <!-- cvid: aid32_bid08 -->

@@ -97,7 +97,7 @@ TOEICではPart 7の長文やメール文、記事などで「貢献」「寄付
 ## 🤔  donation との違いは？
 
 - **contribution**：貢献全般や寄付、役立つ行為・ものを幅広く指す
-- **[donation](/word/donation)**：主にお金や物品などの「寄付」に限定される
+- **[donation](/word/donation/)**：主にお金や物品などの「寄付」に限定される
 
 contributionは「貢献」や「寄与」など幅広い意味で使われますが、donationは特に慈善活動などでの「寄付」に限定される点が異なります。
 
@@ -105,14 +105,14 @@ contributionは「貢献」や「寄与」など幅広い意味で使われま�
 
 ## 🧩 あわせて覚えたい
 
-- [input](/word/input)：意見、入力、提供
-- [support](/word/support)：支援、サポート
+- [input](/word/input/)：意見、入力、提供
+- [support](/word/support/)：支援、サポート
 
 ---
 
 ## 📖 できればこれも
 
-- [participation](/word/participation)：参加
-- [effort](/word/effort)：努力
+- [participation](/word/participation/)：参加
+- [effort](/word/effort/)：努力
 
 <!-- cvid: aid34_bid42 -->

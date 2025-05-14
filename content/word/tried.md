@@ -97,7 +97,7 @@ triedは、TOEICの文法問題や時制の選択肢でよく登場します。�
 ## 🤔  attempted との違いは？
 
 - **tried**：一般的に「試みた」「やってみた」という意味で、日常的な行動にも幅広く使う。
-- **[attempted](/word/attempted)**：ややフォーマルで「努力して試みた」「挑戦した」というニュアンスが強い。
+- **[attempted](/word/attempted/)**：ややフォーマルで「努力して試みた」「挑戦した」というニュアンスが強い。
 
 triedは日常的な「やってみた」にも使えますが、attemptedは少し堅めで、難しいことや正式な場面で使われやすいです。
 
@@ -105,14 +105,14 @@ triedは日常的な「やってみた」にも使えますが、attemptedは少
 
 ## 🧩 あわせて覚えたい
 
-- [test](/word/test)：テストする、試験する
-- [challenge](/word/challenge)：挑戦する、難題に取り組む
+- [test](/word/test/)：テストする、試験する
+- [challenge](/word/challenge/)：挑戦する、難題に取り組む
 
 ---
 
 ## 📖 できればこれも
 
-- [use](/word/use)：使う
-- [practice](/word/practice)：練習する
+- [use](/word/use/)：使う
+- [practice](/word/practice/)：練習する
 
 <!-- cvid: aid17_bid40 -->

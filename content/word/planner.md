@@ -97,7 +97,7 @@ TOEICでは、職業や役割、またはスケジュール帳の意味で出題
 ## 🤔  organizer との違いは？
 
 - **planner**：計画を立てる人、または予定を書き込む手帳
-- **[organizer](/word/organizer)**：イベントや物事をまとめて実行する人、または整理用の道具
+- **[organizer](/word/organizer/)**：イベントや物事をまとめて実行する人、または整理用の道具
 
 plannerは「計画を立てる」ことに重点があり、organizerは「まとめて実行・整理する」ことに重点があります。
 
@@ -105,14 +105,14 @@ plannerは「計画を立てる」ことに重点があり、organizerは「ま�
 
 ## 🧩 あわせて覚えたい
 
-- [schedule](/word/schedule)：予定、スケジュール
-- [agenda](/word/agenda)：議題、議事日程
+- [schedule](/word/schedule/)：予定、スケジュール
+- [agenda](/word/agenda/)：議題、議事日程
 
 ---
 
 ## 📖 できればこれも
 
-- [project](/word/project)：プロジェクト、計画
-- [manager](/word/manager)：管理者、マネージャー
+- [project](/word/project/)：プロジェクト、計画
+- [manager](/word/manager/)：管理者、マネージャー
 
 <!-- cvid: aid01_bid30 -->

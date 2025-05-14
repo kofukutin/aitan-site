@@ -97,7 +97,7 @@ TOEICではITやビジネスの文脈で「入力」「意見」として出題�
 ## 🤔  supply との違いは？
 
 - **input**：情報や意見、データなど「中に入れるもの」や「入力」を指す
-- **[supply](/word/supply)**：物資やエネルギーなど「供給するもの」「補給」を指す
+- **[supply](/word/supply/)**：物資やエネルギーなど「供給するもの」「補給」を指す
 
 inputは主に情報やデータ、意見など無形のものに使われ、supplyは物理的な物や資源の供給に使われます。
 
@@ -105,14 +105,14 @@ inputは主に情報やデータ、意見など無形のものに使われ、sup
 
 ## 🧩 あわせて覚えたい
 
-- [output](/word/output)：出力、成果
-- [data](/word/data)：データ、資料
+- [output](/word/output/)：出力、成果
+- [data](/word/data/)：データ、資料
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process)：過程、処理
-- [device](/word/device)：装置、デバイス
+- [process](/word/process/)：過程、処理
+- [device](/word/device/)：装置、デバイス
 
 <!-- cvid: aid30_bid34 -->

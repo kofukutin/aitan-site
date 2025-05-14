@@ -97,7 +97,7 @@ TOEICでは、文書やメールの内容説明で「明らかな」「見たと
 ## 🤔  obvious との違いは？
 
 - **apparent**：見た目や状況から「明らかに見える」「一見してそう思える」
-- **[obvious](/word/obvious)**：誰が見ても疑いなく「明白な」「はっきりした」
+- **[obvious](/word/obvious/)**：誰が見ても疑いなく「明白な」「はっきりした」
 
 apparentは「見た目上そう見える」場合にも使い、obviousは「誰が見ても明らか」な場合に使います。
 
@@ -105,14 +105,14 @@ apparentは「見た目上そう見える」場合にも使い、obviousは「�
 
 ## 🧩 あわせて覚えたい
 
-- [evident](/word/evident)：証拠や理由があって明らかな
-- [seem](/word/seem)：〜のように見える、思われる
+- [evident](/word/evident/)：証拠や理由があって明らかな
+- [seem](/word/seem/)：〜のように見える、思われる
 
 ---
 
 ## 📖 できればこれも
 
-- [visible](/word/visible)：目に見える
-- [clear](/word/clear)：はっきりした、明確な
+- [visible](/word/visible/)：目に見える
+- [clear](/word/clear/)：はっきりした、明確な
 
 <!-- cvid: aid26_bid40 -->

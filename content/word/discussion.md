@@ -97,7 +97,7 @@ TOEICでは会議やビジネスシーンの会話文で頻出します。特に
 ## 🤔  conversation との違いは？
 
 - **discussion**：特定のテーマについて意見を出し合い、深く話し合うこと
-- **[conversation](/word/conversation)**：日常的な会話や雑談、テーマが決まっていない話
+- **[conversation](/word/conversation/)**：日常的な会話や雑談、テーマが決まっていない話
 
 discussionは「議題」や「目的」がある話し合い、conversationは気軽な会話や雑談に使われます。
 
@@ -105,14 +105,14 @@ discussionは「議題」や「目的」がある話し合い、conversationは�
 
 ## 🧩 あわせて覚えたい
 
-- [debate](/word/debate)：討論、ディベート（賛否に分かれて意見を戦わせること）
-- [negotiation](/word/negotiation)：交渉（条件や取引について話し合うこと）
+- [debate](/word/debate/)：討論、ディベート（賛否に分かれて意見を戦わせること）
+- [negotiation](/word/negotiation/)：交渉（条件や取引について話し合うこと）
 
 ---
 
 ## 📖 できればこれも
 
-- [topic](/word/topic)：話題、テーマ
-- [meeting](/word/meeting)：会議、打ち合わせ
+- [topic](/word/topic/)：話題、テーマ
+- [meeting](/word/meeting/)：会議、打ち合わせ
 
 <!-- cvid: aid12_bid39 -->

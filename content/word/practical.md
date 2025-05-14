@@ -97,7 +97,7 @@ TOEICでは「実用的な提案」「現実的な計画」など、ビジネス
 ## 🤔  pragmatic との違いは？
 
 - **practical**：実用的で現実的、理論よりも実際の効果や使いやすさを重視する
-- **[pragmatic](/word/pragmatic)**：実利や現実的な結果を重視し、柔軟に対応する
+- **[pragmatic](/word/pragmatic/)**：実利や現実的な結果を重視し、柔軟に対応する
 
 「practical」は「使いやすさ・実用性」に重点があり、「pragmatic」は「現実的な対応・実利的な判断」に重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは「実用的な提案」「現実的な計画」など、ビジネス
 
 ## 🧩 あわせて覚えたい
 
-- [theoretical](/word/theoretical)：理論的な
-- [efficient](/word/efficient)：効率的な
+- [theoretical](/word/theoretical/)：理論的な
+- [efficient](/word/efficient/)：効率的な
 
 ---
 
 ## 📖 できればこれも
 
-- [realistic](/word/realistic)：現実的な
-- [effective](/word/effective)：効果的な
+- [realistic](/word/realistic/)：現実的な
+- [effective](/word/effective/)：効果的な
 
 <!-- cvid: aid15_bid06 -->

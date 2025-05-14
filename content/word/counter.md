@@ -97,7 +97,7 @@ TOEICでは、空港や銀行、オフィスの受付などの場面で「counte
 ## 🤔  desk との違いは？
 
 - **counter**：店や銀行などの「カウンター」「窓口」や、物を数える「計器」を指す
-- **[desk](/word/desk)**：主に「机」や「受付（デスク）」を指し、個人の作業スペースやオフィスの受付に使う
+- **[desk](/word/desk/)**：主に「机」や「受付（デスク）」を指し、個人の作業スペースやオフィスの受付に使う
 
 「counter」は接客やサービスの場で使われる台や窓口を指し、「desk」は個人の作業用の机やオフィスの受付に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、空港や銀行、オフィスの受付などの場面で「counte
 
 ## 🧩 あわせて覚えたい
 
-- [window](/word/window)：窓口、受付
-- [booth](/word/booth)：ブース、小部屋
+- [window](/word/window/)：窓口、受付
+- [booth](/word/booth/)：ブース、小部屋
 
 ---
 
 ## 📖 できればこれも
 
-- [register](/word/register)：レジ、登録する
-- [reception](/word/reception)：受付、歓迎会
+- [register](/word/register/)：レジ、登録する
+- [reception](/word/reception/)：受付、歓迎会
 
 <!-- cvid: aid16_bid42 -->

@@ -97,7 +97,7 @@ TOEICでは、メールや会議のやりとりで「間接的な表現」や「
 ## 🤔  implicit との違いは？
 
 - **indirect**：遠回しで、はっきり言わずに伝えること
-- **[implicit](/word/implicit)**：暗黙的で、言葉にせずとも含意されていること
+- **[implicit](/word/implicit/)**：暗黙的で、言葉にせずとも含意されていること
 
 indirectは「遠回しに表現する」ニュアンス、implicitは「言葉にしなくても含まれている」ニュアンスで、間接性の度合いや伝え方が異なります。
 
@@ -105,14 +105,14 @@ indirectは「遠回しに表現する」ニュアンス、implicitは「言葉�
 
 ## 🧩 あわせて覚えたい
 
-- [direct](/word/direct)：直接的な
-- [suggest](/word/suggest)：提案する、ほのめかす
+- [direct](/word/direct/)：直接的な
+- [suggest](/word/suggest/)：提案する、ほのめかす
 
 ---
 
 ## 📖 できればこれも
 
-- [explicit](/word/explicit)：明示的な、はっきりした
-- [indicate](/word/indicate)：示す、指し示す
+- [explicit](/word/explicit/)：明示的な、はっきりした
+- [indicate](/word/indicate/)：示す、指し示す
 
 <!-- cvid: aid47_bid27 -->

@@ -96,7 +96,7 @@ TOEICでは主にPart 1の写真描写で、木や自然の説明として登場
 ## 🤔  pine との違いは？
 
 - **cedar**：香りが良く、建材や家具によく使われるスギ類の木。
-- **[pine](/word/pine)**：マツ科の木で、松ぼっくりができるのが特徴。
+- **[pine](/word/pine/)**：マツ科の木で、松ぼっくりができるのが特徴。
 
 cedarはスギ科、pineはマツ科で、見た目や用途、香りが異なります。
 
@@ -104,14 +104,14 @@ cedarはスギ科、pineはマツ科で、見た目や用途、香りが異な�
 
 ## 🧩 あわせて覚えたい
 
-- [oak](/word/oak)：オーク、ブナ科の広葉樹
-- [spruce](/word/spruce)：トウヒ、針葉樹の一種
+- [oak](/word/oak/)：オーク、ブナ科の広葉樹
+- [spruce](/word/spruce/)：トウヒ、針葉樹の一種
 
 ---
 
 ## 📖 できればこれも
 
-- [forest](/word/forest)：森
-- [timber](/word/timber)：木材
+- [forest](/word/forest/)：森
+- [timber](/word/timber/)：木材
 
 <!-- cvid: aid01_bid31 -->

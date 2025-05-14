@@ -97,7 +97,7 @@ TOEICでは医療や事故、映画のレビューなどの長文で見かける
 ## 🤔  blood との違いは？
 
 - **gore**：血のりや血まみれの状態、特に暴力的な場面で使う
-- **[blood](/word/blood)**：血そのもの、医学的・一般的な意味
+- **[blood](/word/blood/)**：血そのもの、医学的・一般的な意味
 
 goreは「血のり」や「血まみれの状態」を強調し、主に残酷な場面や映画・小説で使われます。bloodは「血」そのものを指し、より広く一般的に使われます。
 
@@ -105,14 +105,14 @@ goreは「血のり」や「血まみれの状態」を強調し、主に残酷�
 
 ## 🧩 あわせて覚えたい
 
-- [wound](/word/wound)：傷
-- [injury](/word/injury)：けが
+- [wound](/word/wound/)：傷
+- [injury](/word/injury/)：けが
 
 ---
 
 ## 📖 できればこれも
 
-- [scar](/word/scar)：傷跡
-- [bruise](/word/bruise)：あざ
+- [scar](/word/scar/)：傷跡
+- [bruise](/word/bruise/)：あざ
 
 <!-- cvid: aid39_bid35 -->

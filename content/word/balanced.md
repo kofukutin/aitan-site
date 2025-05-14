@@ -97,7 +97,7 @@ TOEICでは、balancedは「balanced diet」「balanced approach」など、ビ�
 ## 🤔  stable との違いは？
 
 - **balanced**：バランスが取れていて偏りがない状態
-- **[stable](/word/stable)**：安定していて変動が少ない状態
+- **[stable](/word/stable/)**：安定していて変動が少ない状態
 
 balancedは「均等・公平・偏りがない」ことを強調し、stableは「変化が少なく安定している」ことを強調します。
 
@@ -105,14 +105,14 @@ balancedは「均等・公平・偏りがない」ことを強調し、stableは
 
 ## 🧩 あわせて覚えたい
 
-- [unbalanced](/word/unbalanced)：バランスの取れていない
-- [neutral](/word/neutral)：中立の、偏りのない
+- [unbalanced](/word/unbalanced/)：バランスの取れていない
+- [neutral](/word/neutral/)：中立の、偏りのない
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [organized](/word/organized)：整理された、組織的な
+- [efficient](/word/efficient/)：効率的な
+- [organized](/word/organized/)：整理された、組織的な
 
 <!-- cvid: aid23_bid22 -->

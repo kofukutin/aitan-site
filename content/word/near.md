@@ -93,7 +93,7 @@ TOEICでは主にPart 1の写真描写や、場所の説明で頻出します。
 ## 🤔  close との違いは？
 
 - **near**：距離的な「近くに」を表す一般的な前置詞
-- **[close](/word/close)**：より物理的・心理的な「近さ」を強調し、形容詞や副詞としても使われる
+- **[close](/word/close/)**：より物理的・心理的な「近さ」を強調し、形容詞や副詞としても使われる
 
 「near」は単に距離が近いことを表し、「close」はより密接な近さや関係性を強調する場面で使われます。
 
@@ -101,14 +101,14 @@ TOEICでは主にPart 1の写真描写や、場所の説明で頻出します。
 
 ## 🧩 あわせて覚えたい
 
-- [beside](/word/beside)：～の横に
-- [far](/word/far)：遠くに
+- [beside](/word/beside/)：～の横に
+- [far](/word/far/)：遠くに
 
 ---
 
 ## 📖 できればこれも
 
-- [around](/word/around)：～の周りに
-- [between](/word/between)：～の間に
+- [around](/word/around/)：～の周りに
+- [between](/word/between/)：～の間に
 
 <!-- cvid: aid33_bid38 -->

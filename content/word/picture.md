@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写問題で頻出です。写真やイラストを
 ## 🤔  photo との違いは？
 
 - **picture**：絵・写真・イラストなど広く「画像」を指す
-- **[photo](/word/photo)**：写真（カメラで撮ったもの）に限定
+- **[photo](/word/photo/)**：写真（カメラで撮ったもの）に限定
 
 pictureは「絵」や「イラスト」も含む広い意味ですが、photoは「写真」だけを指します。
 
@@ -105,14 +105,14 @@ pictureは「絵」や「イラスト」も含む広い意味ですが、photo�
 
 ## 🧩 あわせて覚えたい
 
-- [image](/word/image)：画像、映像
-- [painting](/word/painting)：絵画、ペイントされた絵
+- [image](/word/image/)：画像、映像
+- [painting](/word/painting/)：絵画、ペイントされた絵
 
 ---
 
 ## 📖 できればこれも
 
-- [draw](/word/draw)：描く
-- [scene](/word/scene)：場面、光景
+- [draw](/word/draw/)：描く
+- [scene](/word/scene/)：場面、光景
 
 <!-- cvid: aid38_bid05 -->

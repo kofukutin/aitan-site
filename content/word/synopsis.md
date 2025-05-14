@@ -96,7 +96,7 @@ TOEICのPart 7で、記事やレポートの要約部分や、内容説明の設
 ## 🤔  summary との違いは？
 
 - **synopsis**：主に書籍・映画・論文などの「全体像を簡潔にまとめたあらすじ・概要」。ややフォーマルで、内容の流れや構成を重視。
-- **[summary](/word/summary)**：一般的な「要約」。内容のポイントや重要事項を短くまとめる際に広く使われる。
+- **[summary](/word/summary/)**：一般的な「要約」。内容のポイントや重要事項を短くまとめる際に広く使われる。
 
 synopsisは物語や論文などの全体像を簡潔に伝えるときに使い、summaryは内容の要点や結論を短くまとめるときに使います。
 
@@ -104,14 +104,14 @@ synopsisは物語や論文などの全体像を簡潔に伝えるときに使い
 
 ## 🧩 あわせて覚えたい
 
-- [outline](/word/outline)：概要、輪郭（全体の構成や流れを示す）
-- [abstract](/word/abstract)：要旨、抄録（主に論文の要約）
+- [outline](/word/outline/)：概要、輪郭（全体の構成や流れを示す）
+- [abstract](/word/abstract/)：要旨、抄録（主に論文の要約）
 
 ---
 
 ## 📖 できればこれも
 
-- [overview](/word/overview)：概観、全体像
-- [introduction](/word/introduction)：導入、序論
+- [overview](/word/overview/)：概観、全体像
+- [introduction](/word/introduction/)：導入、序論
 
 <!-- cvid: aid06_bid35 -->

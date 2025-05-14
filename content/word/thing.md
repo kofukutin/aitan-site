@@ -97,7 +97,7 @@ thingはTOEICの文法・語彙問題で頻出し、特に「something」「anyt
 ## 🤔  object との違いは？
 
 - **thing**：物やこと全般を指し、抽象的な内容にも使える
-- **[object](/word/object)**：主に物体や具体的な「物」を指す
+- **[object](/word/object/)**：主に物体や具体的な「物」を指す
 
 thingは「こと」や「もの」など幅広い意味で使えますが、objectは「物体」や「目に見える物」に限定されることが多いです。
 
@@ -105,14 +105,14 @@ thingは「こと」や「もの」など幅広い意味で使えますが、obj
 
 ## 🧩 あわせて覚えたい
 
-- [item](/word/item)：品目、項目
-- [matter](/word/matter)：事柄、問題
+- [item](/word/item/)：品目、項目
+- [matter](/word/matter/)：事柄、問題
 
 ---
 
 ## 📖 できればこれも
 
-- [stuff](/word/stuff)：もの、こと（口語的）
-- [issue](/word/issue)：問題、課題
+- [stuff](/word/stuff/)：もの、こと（口語的）
+- [issue](/word/issue/)：問題、課題
 
 <!-- cvid: aid20_bid14 -->

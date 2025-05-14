@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やオークション、契約関連の長文で
 ## 🤔  applicant との違いは？
 
 - **bidder**：オークションや入札で「値をつけて参加する人」
-- **[applicant](/word/applicant)**：仕事や学校などに「応募する人」
+- **[applicant](/word/applicant/)**：仕事や学校などに「応募する人」
 
 bidderは「値段を提示して競う人」、applicantは「何かに応募する人」と、参加の目的や場面が異なります。
 
@@ -105,14 +105,14 @@ bidderは「値段を提示して競う人」、applicantは「何かに応募�
 
 ## 🧩 あわせて覚えたい
 
-- [auction](/word/auction)：オークション、競売
-- [tender](/word/tender)：入札（特に公共事業などの正式な入札）
+- [auction](/word/auction/)：オークション、競売
+- [tender](/word/tender/)：入札（特に公共事業などの正式な入札）
 
 ---
 
 ## 📖 できればこれも
 
-- [supplier](/word/supplier)：供給者、納入業者
-- [buyer](/word/buyer)：買い手、購入者
+- [supplier](/word/supplier/)：供給者、納入業者
+- [buyer](/word/buyer/)：買い手、購入者
 
 <!-- cvid: aid01_bid08 -->

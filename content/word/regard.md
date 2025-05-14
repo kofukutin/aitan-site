@@ -97,7 +97,7 @@ TOEICでは「regard A as B」の形や、フォーマルな文書で「consider
 ## 🤔  consider との違いは？
 
 - **regard**：ややフォーマルで、評価や見方を強調する際に使う
-- **[consider](/word/consider)**：一般的に「よく考える」「検討する」という意味で幅広く使う
+- **[consider](/word/consider/)**：一般的に「よく考える」「検討する」という意味で幅広く使う
 
 regardは「～とみなす」という評価的なニュアンスが強く、considerは「よく考える」「検討する」といった思考の過程を表します。
 
@@ -105,14 +105,14 @@ regardは「～とみなす」という評価的なニュアンスが強く、co
 
 ## 🧩 あわせて覚えたい
 
-- [ignore](/word/ignore)：無視する
-- [respect](/word/respect)：尊敬する
+- [ignore](/word/ignore/)：無視する
+- [respect](/word/respect/)：尊敬する
 
 ---
 
 ## 📖 できればこれも
 
-- [refer](/word/refer)：言及する
-- [recognize](/word/recognize)：認識する
+- [refer](/word/refer/)：言及する
+- [recognize](/word/recognize/)：認識する
 
 <!-- cvid: aid45_bid45 -->

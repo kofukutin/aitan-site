@@ -97,7 +97,7 @@ TOEICでは「含めない」「除外する」という意味で、主にビジ
 ## 🤔  omit との違いは？
 
 - **exclude**：意図的に「除外する」「締め出す」ニュアンスが強い
-- **[omit](/word/omit)**：うっかり・意図的どちらもあり、「省略する」「抜かす」という意味
+- **[omit](/word/omit/)**：うっかり・意図的どちらもあり、「省略する」「抜かす」という意味
 
 excludeは「最初から入れない」「排除する」意図が明確ですが、omitは「うっかり抜かす」場合や「省略する」場合にも使われます。
 
@@ -105,14 +105,14 @@ excludeは「最初から入れない」「排除する」意図が明確です�
 
 ## 🧩 あわせて覚えたい
 
-- [include](/word/include)：含める
-- [reject](/word/reject)：拒否する
+- [include](/word/include/)：含める
+- [reject](/word/reject/)：拒否する
 
 ---
 
 ## 📖 できればこれも
 
-- [prevent](/word/prevent)：防ぐ、妨げる
-- [remove](/word/remove)：取り除く
+- [prevent](/word/prevent/)：防ぐ、妨げる
+- [remove](/word/remove/)：取り除く
 
 <!-- cvid: aid11_bid24 -->

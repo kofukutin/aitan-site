@@ -97,7 +97,7 @@ TOEICでは形容詞の比較や反対語、簡単な評価表現として頻出
 ## 🤔  poor との違いは？
 
 - **bad**：一般的に「悪い」「よくない」と幅広く使う
-- **[poor](/word/poor)**：質や能力が「劣っている」「不十分」と評価する際に使う
+- **[poor](/word/poor/)**：質や能力が「劣っている」「不十分」と評価する際に使う
 
 badは広く「悪い」全般に使えますが、poorは「基準に達していない」「期待より下」といったニュアンスが強いです。
 
@@ -105,14 +105,14 @@ badは広く「悪い」全般に使えますが、poorは「基準に達して�
 
 ## 🧩 あわせて覚えたい
 
-- [good](/word/good)：良い
-- [terrible](/word/terrible)：ひどい、最悪の
+- [good](/word/good/)：良い
+- [terrible](/word/terrible/)：ひどい、最悪の
 
 ---
 
 ## 📖 できればこれも
 
-- [worse](/word/worse)：より悪い
-- [wrong](/word/wrong)：間違った
+- [worse](/word/worse/)：より悪い
+- [wrong](/word/wrong/)：間違った
 
 <!-- cvid: aid06_bid12 -->

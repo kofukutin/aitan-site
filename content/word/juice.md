@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、飲み物や食事の場面で登場
 ## 🤔  sauce との違いは？
 
 - **juice**：果物や野菜などからしぼった液体や飲み物の「ジュース」。
-- **[sauce](/word/sauce)**：料理にかける「ソース」や調味料の液体。
+- **[sauce](/word/sauce/)**：料理にかける「ソース」や調味料の液体。
 
 juiceは自然な素材から出る飲み物や汁を指し、sauceは料理の味付けや添えるための液体を指します。
 
@@ -105,14 +105,14 @@ juiceは自然な素材から出る飲み物や汁を指し、sauceは料理の�
 
 ## 🧩 あわせて覚えたい
 
-- [beverage](/word/beverage)：飲み物
-- [liquid](/word/liquid)：液体
+- [beverage](/word/beverage/)：飲み物
+- [liquid](/word/liquid/)：液体
 
 ---
 
 ## 📖 できればこれも
 
-- [milk](/word/milk)：牛乳
-- [soup](/word/soup)：スープ
+- [milk](/word/milk/)：牛乳
+- [soup](/word/soup/)：スープ
 
 <!-- cvid: aid25_bid30 -->

@@ -97,7 +97,7 @@ TOEICでは「equal opportunity（機会均等）」や「equal to（～に等�
 ## 🤔  equivalent との違いは？
 
 - **equal**：数量や価値、地位などが「まったく同じ」「等しい」ことを強調
-- **[equivalent](/word/equivalent)**：機能や効果、価値が「同等」であるが、必ずしも見た目や内容が同じとは限らない
+- **[equivalent](/word/equivalent/)**：機能や効果、価値が「同等」であるが、必ずしも見た目や内容が同じとは限らない
 
 equalは「完全に同じ」ことを指し、equivalentは「実質的に同じ価値や効果」を持つ場合に使います。
 
@@ -105,14 +105,14 @@ equalは「完全に同じ」ことを指し、equivalentは「実質的に同�
 
 ## 🧩 あわせて覚えたい
 
-- [unequal](/word/unequal)：等しくない、不平等な
-- [fair](/word/fair)：公平な、公正な
+- [unequal](/word/unequal/)：等しくない、不平等な
+- [fair](/word/fair/)：公平な、公正な
 
 ---
 
 ## 📖 できればこれも
 
-- [similar](/word/similar)：似ている
-- [even](/word/even)：平らな、均等な
+- [similar](/word/similar/)：似ている
+- [even](/word/even/)：平らな、均等な
 
 <!-- cvid: aid23_bid45 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人物がスケートボードに乗
 ## 🤔  scooter との違いは？
 
 - **skateboard**：足で地面を蹴って進む、板状の乗り物。ハンドルはない。
-- **[scooter](/word/scooter)**：ハンドルがついた立ち乗りの乗り物。足で地面を蹴って進む。
+- **[scooter](/word/scooter/)**：ハンドルがついた立ち乗りの乗り物。足で地面を蹴って進む。
 
 skateboardはハンドルがなくバランスを取る必要があり、scooterはハンドル付きで安定して進めます。どちらも遊具ですが、形や操作方法が異なります。
 
@@ -105,14 +105,14 @@ skateboardはハンドルがなくバランスを取る必要があり、scooter
 
 ## 🧩 あわせて覚えたい
 
-- [rollerblade](/word/rollerblade)：インラインスケート
-- [bicycle](/word/bicycle)：自転車
+- [rollerblade](/word/rollerblade/)：インラインスケート
+- [bicycle](/word/bicycle/)：自転車
 
 ---
 
 ## 📖 できればこれも
 
-- [helmet](/word/helmet)：ヘルメット
-- [park](/word/park)：公園
+- [helmet](/word/helmet/)：ヘルメット
+- [park](/word/park/)：公園
 
 <!-- cvid: aid47_bid01 -->

@@ -97,7 +97,7 @@ TOEICでは図書館や教育関連の長文で登場することが多く、職
 ## 🤔  clerk との違いは？
 
 - **librarian**：図書館で本の管理や利用者対応を専門に行う人
-- **[clerk](/word/clerk)**：一般的な事務や受付、販売などを担当する職員
+- **[clerk](/word/clerk/)**：一般的な事務や受付、販売などを担当する職員
 
 librarianは図書館に特化した専門職、clerkは幅広い業種で使われる一般職です。
 
@@ -105,14 +105,14 @@ librarianは図書館に特化した専門職、clerkは幅広い業種で使わ
 
 ## 🧩 あわせて覚えたい
 
-- [library](/word/library)：図書館
-- [catalog](/word/catalog)：目録、カタログ
+- [library](/word/library/)：図書館
+- [catalog](/word/catalog/)：目録、カタログ
 
 ---
 
 ## 📖 できればこれも
 
-- [teacher](/word/teacher)：教師
-- [assistant](/word/assistant)：助手
+- [teacher](/word/teacher/)：教師
+- [assistant](/word/assistant/)：助手
 
 <!-- cvid: aid37_bid39 -->

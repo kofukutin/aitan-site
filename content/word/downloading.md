@@ -97,7 +97,7 @@ IT関連の会話や説明文でよく登場します。ファイルのやり取
 ## 🤔  uploading との違いは？
 
 - **downloading**：外部（インターネットなど）から自分の端末にデータを取り込むこと
-- **[uploading](/word/uploading)**：自分の端末から外部（インターネットなど）にデータを送ること
+- **[uploading](/word/uploading/)**：自分の端末から外部（インターネットなど）にデータを送ること
 
 downloadingは「取り込む」、uploadingは「送り出す」という方向性の違いがあります。
 
@@ -105,14 +105,14 @@ downloadingは「取り込む」、uploadingは「送り出す」という方向
 
 ## 🧩 あわせて覚えたい
 
-- [installation](/word/installation)：インストール、設置
-- [transfer](/word/transfer)：転送、移動
+- [installation](/word/installation/)：インストール、設置
+- [transfer](/word/transfer/)：転送、移動
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/word/update)：更新、アップデート
-- [backup](/word/backup)：バックアップ、予備保存
+- [update](/word/update/)：更新、アップデート
+- [backup](/word/backup/)：バックアップ、予備保存
 
 <!-- cvid: aid49_bid04 -->

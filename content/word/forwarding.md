@@ -97,7 +97,7 @@ forwardingはTOEICのメール文や業務連絡、IT関連の長文でよく見
 ## 🤔  transfer との違いは？
 
 - **forwarding**：主に「転送」「送付」の意味で、メールや荷物などを別の場所や人に送ること。
-- **[transfer](/word/transfer)**：より広く「移す」「移動する」の意味で、人・物・データなどの移動全般に使う。
+- **[transfer](/word/transfer/)**：より広く「移す」「移動する」の意味で、人・物・データなどの移動全般に使う。
 
 forwardingは「一時的に送る」「中継する」ニュアンスが強く、transferは「完全に移す」場合に使われます。
 
@@ -105,14 +105,14 @@ forwardingは「一時的に送る」「中継する」ニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [redirect](/word/redirect)：（進路や宛先を）変更する、リダイレクトする
-- [delivery](/word/delivery)：配達、配送
+- [redirect](/word/redirect/)：（進路や宛先を）変更する、リダイレクトする
+- [delivery](/word/delivery/)：配達、配送
 
 ---
 
 ## 📖 できればこれも
 
-- [attachment](/word/attachment)：添付ファイル
-- [notification](/word/notification)：通知
+- [attachment](/word/attachment/)：添付ファイル
+- [notification](/word/notification/)：通知
 
 <!-- cvid: aid12_bid38 -->

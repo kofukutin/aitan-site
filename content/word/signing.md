@@ -97,7 +97,7 @@ TOEICでは契約や手続きに関する文脈で「signing」が名詞とし�
 ## 🤔  signature との違いは？
 
 - **signing**：署名する「行為」や「イベント」を指す
-- **[signature](/word/signature)**：署名そのもの（名前を書いたもの）を指す
+- **[signature](/word/signature/)**：署名そのもの（名前を書いたもの）を指す
 
 signingは「署名する動作やプロセス」、signatureは「書かれた名前」そのものを表します。契約の流れや書類の内容によって使い分けます。
 
@@ -105,14 +105,14 @@ signingは「署名する動作やプロセス」、signatureは「書かれた�
 
 ## 🧩 あわせて覚えたい
 
-- [approval](/word/approval)：承認
-- [agreement](/word/agreement)：合意、契約
+- [approval](/word/approval/)：承認
+- [agreement](/word/agreement/)：合意、契約
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract)：契約書
-- [document](/word/document)：書類
+- [contract](/word/contract/)：契約書
+- [document](/word/document/)：書類
 
 <!-- cvid: aid06_bid37 -->

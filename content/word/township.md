@@ -97,7 +97,7 @@ townshipはTOEICの長文読解（Part 7）で、行政区画や地域の説明�
 ## 🤔  district との違いは？
 
 - **township**：特定の行政区画や地方自治体を指し、主にアメリカや南アフリカなどで使われる。
-- **[district](/word/district)**：行政区や学区など、より広い意味での「区」を指し、用途が幅広い。
+- **[district](/word/district/)**：行政区や学区など、より広い意味での「区」を指し、用途が幅広い。
 
 townshipは特定の国や地域の行政単位に限定されることが多いですが、districtは一般的に「区」全般を指し、教育・行政・商業など幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ townshipは特定の国や地域の行政単位に限定されることが多い
 
 ## 🧩 あわせて覚えたい
 
-- [municipality](/word/municipality)：自治体、地方公共団体
-- [suburb](/word/suburb)：郊外
+- [municipality](/word/municipality/)：自治体、地方公共団体
+- [suburb](/word/suburb/)：郊外
 
 ---
 
 ## 📖 できればこれも
 
-- [province](/word/province)：州、地方
-- [county](/word/county)：郡
+- [province](/word/province/)：州、地方
+- [county](/word/county/)：郡
 
 <!-- cvid: aid02_bid12 -->

@@ -97,7 +97,7 @@ TOEICでは設備やシステムの説明、案内文などで頻出します。
 ## 🤔  repair との違いは？
 
 - **maintenance**：良い状態を保つための定期的な点検や保守
-- **[repair](/word/repair)**：壊れたものを直す「修理」
+- **[repair](/word/repair/)**：壊れたものを直す「修理」
 
 maintenanceは「壊れる前の予防」や「日常的な管理」に重点があり、repairは「故障後の修理」に使われます。
 
@@ -105,14 +105,14 @@ maintenanceは「壊れる前の予防」や「日常的な管理」に重点が
 
 ## 🧩 あわせて覚えたい
 
-- [inspection](/word/inspection)：点検、検査
-- [operation](/word/operation)：運転、操作
+- [inspection](/word/inspection/)：点検、検査
+- [operation](/word/operation/)：運転、操作
 
 ---
 
 ## 📖 できればこれも
 
-- [service](/word/service)：サービス、点検
-- [facility](/word/facility)：施設、設備
+- [service](/word/service/)：サービス、点検
+- [facility](/word/facility/)：施設、設備
 
 <!-- cvid: aid17_bid12 -->

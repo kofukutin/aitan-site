@@ -97,7 +97,7 @@ TOEICでは、会社の創立記念やイベント案内などの文脈で出題
 ## 🤔  commemoration との違いは？
 
 - **anniversary**：特定の出来事が起こった日から1年ごとに巡る「記念日」
-- **[commemoration](/word/commemoration)**：出来事や人物を記念する「式典」や「行事」
+- **[commemoration](/word/commemoration/)**：出来事や人物を記念する「式典」や「行事」
 
 **anniversary**は「日付」に焦点があり、**commemoration**は「記念する行為や式典」に重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは、会社の創立記念やイベント案内などの文脈で出題
 
 ## 🧩 あわせて覚えたい
 
-- [celebration](/word/celebration)：祝賀、祝い
-- [event](/word/event)：出来事、行事
+- [celebration](/word/celebration/)：祝賀、祝い
+- [event](/word/event/)：出来事、行事
 
 ---
 
 ## 📖 できればこれも
 
-- [occasion](/word/occasion)：特別な機会
-- [ceremony](/word/ceremony)：式典
+- [occasion](/word/occasion/)：特別な機会
+- [ceremony](/word/ceremony/)：式典
 
 <!-- cvid: aid18_bid43 -->

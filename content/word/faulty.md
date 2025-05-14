@@ -97,7 +97,7 @@ TOEICでは、製品や機械の不具合、品質管理に関する文脈で出
 ## 🤔  defective との違いは？
 
 - **faulty**：欠陥や誤りがあり、正常に機能しない状態を幅広く指す
-- **[defective](/word/defective)**：製品や部品などに「重大な欠陥」があることを強調
+- **[defective](/word/defective/)**：製品や部品などに「重大な欠陥」があることを強調
 
 「faulty」は一般的な不具合や誤りにも使えますが、「defective」は特に製品の品質検査や工業的な場面で「重大な欠陥」を強調する時に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、製品や機械の不具合、品質管理に関する文脈で出
 
 ## 🧩 あわせて覚えたい
 
-- [malfunction](/word/malfunction)：故障、不具合
-- [flaw](/word/flaw)：欠陥、傷
+- [malfunction](/word/malfunction/)：故障、不具合
+- [flaw](/word/flaw/)：欠陥、傷
 
 ---
 
 ## 📖 できればこれも
 
-- [broken](/word/broken)：壊れた
-- [incorrect](/word/incorrect)：間違った、不正確な
+- [broken](/word/broken/)：壊れた
+- [incorrect](/word/incorrect/)：間違った、不正確な
 
 <!-- cvid: aid42_bid21 -->

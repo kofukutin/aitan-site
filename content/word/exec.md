@@ -105,14 +105,14 @@ execは幹部全体を指すカジュアルな言い方で、CEOはその中で�
 
 ## 🧩 あわせて覚えたい
 
-- [manager](/word/manager)：管理職、マネージャー
-- [director](/word/director)：取締役、部長
+- [manager](/word/manager/)：管理職、マネージャー
+- [director](/word/director/)：取締役、部長
 
 ---
 
 ## 📖 できればこれも
 
-- [staff](/word/staff)：スタッフ、職員
-- [officer](/word/officer)：役員、幹部
+- [staff](/word/staff/)：スタッフ、職員
+- [officer](/word/officer/)：役員、幹部
 
 <!-- cvid: aid11_bid23 -->

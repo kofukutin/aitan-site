@@ -96,7 +96,7 @@ TOEICでは、図表や説明文、食品や植物に関する話題で「fig」
 ## 🤔  date との違いは？
 
 - **fig**：イチジクという果物やその木を指す。
-- **[date](/word/date)**：ナツメヤシの実や日付を指す。
+- **[date](/word/date/)**：ナツメヤシの実や日付を指す。
 
 figはイチジク、dateはナツメヤシの実や日付を意味し、どちらも果物ですが種類が異なります。
 
@@ -104,14 +104,14 @@ figはイチジク、dateはナツメヤシの実や日付を意味し、どち�
 
 ## 🧩 あわせて覚えたい
 
-- [grape](/word/grape)：ブドウ
-- [leaf](/word/leaf)：葉
+- [grape](/word/grape/)：ブドウ
+- [leaf](/word/leaf/)：葉
 
 ---
 
 ## 📖 できればこれも
 
-- [seed](/word/seed)：種
-- [fruit](/word/fruit)：果物
+- [seed](/word/seed/)：種
+- [fruit](/word/fruit/)：果物
 
 <!-- cvid: aid12_bid23 -->

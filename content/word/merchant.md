@@ -97,7 +97,7 @@ TOEICでは主にビジネスや取引に関する長文で登場し、業者や
 ## 🤔  retailer との違いは？
 
 - **merchant**：大規模な商人や業者、卸売・小売どちらにも使える
-- **[retailer](/word/retailer)**：消費者に直接販売する小売業者
+- **[retailer](/word/retailer/)**：消費者に直接販売する小売業者
 
 merchantは取引規模や業態を問わず使えますが、retailerは「小売業者」として消費者向け販売に限定されます。
 
@@ -105,14 +105,14 @@ merchantは取引規模や業態を問わず使えますが、retailerは「小�
 
 ## 🧩 あわせて覚えたい
 
-- [vendor](/word/vendor)：売り手、露天商
-- [customer](/word/customer)：顧客、客
+- [vendor](/word/vendor/)：売り手、露天商
+- [customer](/word/customer/)：顧客、客
 
 ---
 
 ## 📖 できればこれも
 
-- [supplier](/word/supplier)：供給業者、納入業者
-- [buyer](/word/buyer)：買い手、購入者
+- [supplier](/word/supplier/)：供給業者、納入業者
+- [buyer](/word/buyer/)：買い手、購入者
 
 <!-- cvid: aid02_bid47 -->

@@ -97,7 +97,7 @@ IT関連やセキュリティ対策の説明文で登場することが多く、
 ## 🤔  antivirus との違いは？
 
 - **firewall**：ネットワークへの不正アクセスや攻撃を防ぐ「壁」の役割
-- **[antivirus](/word/antivirus)**：ウイルスやマルウェアを検出・駆除するソフト
+- **[antivirus](/word/antivirus/)**：ウイルスやマルウェアを検出・駆除するソフト
 
 firewallは外部からの侵入を防ぐのが主な役割、antivirusは内部に入ったウイルスを見つけて除去する役割です。
 
@@ -105,14 +105,14 @@ firewallは外部からの侵入を防ぐのが主な役割、antivirusは内部
 
 ## 🧩 あわせて覚えたい
 
-- [security](/word/security)：安全、セキュリティ
-- [filter](/word/filter)：フィルター、ふるい分けるもの
+- [security](/word/security/)：安全、セキュリティ
+- [filter](/word/filter/)：フィルター、ふるい分けるもの
 
 ---
 
 ## 📖 できればこれも
 
-- [network](/word/network)：ネットワーク、通信網
-- [access](/word/access)：アクセス、接続すること
+- [network](/word/network/)：ネットワーク、通信網
+- [access](/word/access/)：アクセス、接続すること
 
 <!-- cvid: aid02_bid04 -->

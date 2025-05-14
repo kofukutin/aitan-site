@@ -97,7 +97,7 @@ IT関連の会話や説明文でよく出題されます。ファイルのやり
 ## 🤔  installed との違いは？
 
 - **downloaded**：インターネットなどからファイルを自分の端末に取り込んだ状態
-- **[installed](/word/installed)**：取り込んだファイルやアプリを端末に「インストール（設定・導入）」した状態
+- **[installed](/word/installed/)**：取り込んだファイルやアプリを端末に「インストール（設定・導入）」した状態
 
 downloadedは「取り込む」段階、installedは「使えるように設定する」段階を表します。
 
@@ -105,14 +105,14 @@ downloadedは「取り込む」段階、installedは「使えるように設定�
 
 ## 🧩 あわせて覚えたい
 
-- [upload](/word/upload)：アップロードする（データをネット上に送る）
-- [transfer](/word/transfer)：転送する（データやファイルを移す）
+- [upload](/word/upload/)：アップロードする（データをネット上に送る）
+- [transfer](/word/transfer/)：転送する（データやファイルを移す）
 
 ---
 
 ## 📖 できればこれも
 
-- [attach](/word/attach)：添付する
-- [save](/word/save)：保存する
+- [attach](/word/attach/)：添付する
+- [save](/word/save/)：保存する
 
 <!-- cvid: aid06_bid38 -->

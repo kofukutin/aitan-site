@@ -93,7 +93,7 @@ The project is almost finished.
 ## 🤔  nearly との違いは？
 
 - **almost**：日常的に幅広く使われ、「ほとんど」「もう少しで」という意味を持つ。
-- **[nearly](/word/nearly)**：意味は似ているが、ややフォーマルで数字や数量に使われやすい。
+- **[nearly](/word/nearly/)**：意味は似ているが、ややフォーマルで数字や数量に使われやすい。
 
 almostは会話やカジュアルな場面でよく使われ、nearlyはやや堅めで数量や統計に使われる傾向があります。
 
@@ -101,14 +101,14 @@ almostは会話やカジュアルな場面でよく使われ、nearlyはやや�
 
 ## 🧩 あわせて覚えたい
 
-- [barely](/word/barely)：かろうじて、ほとんど～ない
-- [hardly](/word/hardly)：ほとんど～ない
+- [barely](/word/barely/)：かろうじて、ほとんど～ない
+- [hardly](/word/hardly/)：ほとんど～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [already](/word/already)：すでに
-- [always](/word/always)：いつも
+- [already](/word/already/)：すでに
+- [always](/word/always/)：いつも
 
 <!-- cvid: aid48_bid33 -->

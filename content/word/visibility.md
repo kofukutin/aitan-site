@@ -97,7 +97,7 @@ TOEICではビジネス文書や報告書、IT関連の長文で「情報の可�
 ## 🤔  transparency との違いは？
 
 - **visibility**：物理的・情報的に「見えること」「見通し」「可視性」
-- **[transparency](/word/transparency)**：透明性、公明正大さ、隠しごとのなさ
+- **[transparency](/word/transparency/)**：透明性、公明正大さ、隠しごとのなさ
 
 visibilityは「どれだけ見えるか」「状況がどれだけ把握できるか」に重点があり、transparencyは「隠しごとがなく、すべてが明らかであること」に焦点があります。
 
@@ -105,14 +105,14 @@ visibilityは「どれだけ見えるか」「状況がどれだけ把握でき�
 
 ## 🧩 あわせて覚えたい
 
-- [obscurity](/word/obscurity)：不明瞭、曖昧さ
-- [clarity](/word/clarity)：明確さ、はっきりしていること
+- [obscurity](/word/obscurity/)：不明瞭、曖昧さ
+- [clarity](/word/clarity/)：明確さ、はっきりしていること
 
 ---
 
 ## 📖 できればこれも
 
-- [priority](/word/priority)：優先順位
-- [efficiency](/word/efficiency)：効率
+- [priority](/word/priority/)：優先順位
+- [efficiency](/word/efficiency/)：効率
 
 <!-- cvid: aid43_bid35 -->

@@ -97,7 +97,7 @@ refreshはITやビジネスの会話で「更新する」「気分転換する�
 ## 🤔  renew との違いは？
 
 - **refresh**：気分や画面などを「新しくする」「元気づける」意味で使う
-- **[renew](/word/renew)**：契約や有効期限などを「更新する」「延長する」意味で使う
+- **[renew](/word/renew/)**：契約や有効期限などを「更新する」「延長する」意味で使う
 
 refreshは一時的な回復や再読み込みに使い、renewは期間や契約などの正式な更新に使います。
 
@@ -105,14 +105,14 @@ refreshは一時的な回復や再読み込みに使い、renewは期間や契�
 
 ## 🧩 あわせて覚えたい
 
-- [update](/word/update)：最新の状態にする、更新する
-- [restore](/word/restore)：元の状態に戻す、回復させる
+- [update](/word/update/)：最新の状態にする、更新する
+- [restore](/word/restore/)：元の状態に戻す、回復させる
 
 ---
 
 ## 📖 できればこれも
 
-- [restart](/word/restart)：再起動する、再び始める
-- [revise](/word/revise)：修正する、見直す
+- [restart](/word/restart/)：再起動する、再び始める
+- [revise](/word/revise/)：修正する、見直す
 
 <!-- cvid: aid09_bid47 -->

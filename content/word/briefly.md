@@ -93,7 +93,7 @@ TOEICでは会議や説明の場面で「手短に」「簡潔に」と伝える
 ## 🤔  shortly との違いは？
 
 - **briefly**：短く・簡潔に（内容や説明の長さに注目）
-- **[shortly](/word/shortly)**：まもなく・すぐに（時間的な「すぐ」に注目）
+- **[shortly](/word/shortly/)**：まもなく・すぐに（時間的な「すぐ」に注目）
 
 briefly は「手短に説明する」など内容の長さや簡潔さを表し、shortly は「すぐに始まる」など時間的な近さを表します。
 
@@ -101,14 +101,14 @@ briefly は「手短に説明する」など内容の長さや簡潔さを表し
 
 ## 🧩 あわせて覚えたい
 
-- [summarize](/word/summarize)：要約する
-- [concise](/word/concise)：簡潔な
+- [summarize](/word/summarize/)：要約する
+- [concise](/word/concise/)：簡潔な
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/word/quickly)：素早く
-- [clearly](/word/clearly)：はっきりと
+- [quickly](/word/quickly/)：素早く
+- [clearly](/word/clearly/)：はっきりと
 
 <!-- cvid: aid13_bid49 -->

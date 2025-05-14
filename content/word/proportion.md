@@ -97,7 +97,7 @@ TOEICでは、統計やデータ、割合に関する説明文やレポートで
 ## 🤔  ratio との違いは？
 
 - **proportion**：全体に対する一部の割合やバランスを表す
-- **[ratio](/word/ratio)**：2つの数量の比率や関係を数値で表す
+- **[ratio](/word/ratio/)**：2つの数量の比率や関係を数値で表す
 
 proportionは全体の中での部分の割合やバランスを強調し、ratioは2つの数値の比較や関係を数値的に示すときに使います。
 
@@ -105,14 +105,14 @@ proportionは全体の中での部分の割合やバランスを強調し、rati
 
 ## 🧩 あわせて覚えたい
 
-- [percentage](/word/percentage)：パーセンテージ、百分率
-- [fraction](/word/fraction)：分数、部分
+- [percentage](/word/percentage/)：パーセンテージ、百分率
+- [fraction](/word/fraction/)：分数、部分
 
 ---
 
 ## 📖 できればこれも
 
-- [distribution](/word/distribution)：分布、配分
-- [portion](/word/portion)：部分、一部
+- [distribution](/word/distribution/)：分布、配分
+- [portion](/word/portion/)：部分、一部
 
 <!-- cvid: aid46_bid09 -->

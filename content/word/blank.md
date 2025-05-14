@@ -97,7 +97,7 @@ TOEICでは、文法や語彙の穴埋め問題で「blank」がよく登場し�
 ## 🤔  empty との違いは？
 
 - **blank**：書類やテストなどの「空欄」「白紙」を指す
-- **[empty](/word/empty)**：中身が入っていない「空の」状態を指す
+- **[empty](/word/empty/)**：中身が入っていない「空の」状態を指す
 
 「blank」は記入すべきスペースが何も書かれていない場合に使い、「empty」は容器や部屋などに中身がない場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、文法や語彙の穴埋め問題で「blank」がよく登場し�
 
 ## 🧩 あわせて覚えたい
 
-- [space](/word/space)：空間、スペース
-- [gap](/word/gap)：すき間、隔たり
+- [space](/word/space/)：空間、スペース
+- [gap](/word/gap/)：すき間、隔たり
 
 ---
 
 ## 📖 できればこれも
 
-- [form](/word/form)：用紙、書式
-- [sheet](/word/sheet)：紙、シート
+- [form](/word/form/)：用紙、書式
+- [sheet](/word/sheet/)：紙、シート
 
 <!-- cvid: aid47_bid16 -->

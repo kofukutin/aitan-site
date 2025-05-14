@@ -97,7 +97,7 @@ TOEICではホテルや部屋の写真描写で「mattress」が使われるこ�
 ## 🤔  bed との違いは？
 
 - **mattress**：ベッドの上に置く「寝るためのクッション部分」だけを指す
-- **[bed](/word/bed)**：フレームやマットレスなど「ベッド全体」を指す
+- **[bed](/word/bed/)**：フレームやマットレスなど「ベッド全体」を指す
 
 mattressは寝る部分そのもの、bedは家具全体を指すので、使い分けに注意しましょう。
 
@@ -105,14 +105,14 @@ mattressは寝る部分そのもの、bedは家具全体を指すので、使い
 
 ## 🧩 あわせて覚えたい
 
-- [pillow](/word/pillow)：枕
-- [blanket](/word/blanket)：毛布
+- [pillow](/word/pillow/)：枕
+- [blanket](/word/blanket/)：毛布
 
 ---
 
 ## 📖 できればこれも
 
-- [sofa](/word/sofa)：ソファ
-- [cushion](/word/cushion)：クッション
+- [sofa](/word/sofa/)：ソファ
+- [cushion](/word/cushion/)：クッション
 
 <!-- cvid: aid09_bid46 -->

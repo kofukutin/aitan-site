@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人物が身につけているアク
 ## 🤔  bangle との違いは？
 
 - **bracelet**：柔らかい素材やチェーン状のものも含む、手首につける装飾品全般。
-- **[bangle](/word/bangle)**：主に硬い素材でできた、丸くて開閉しない腕輪。
+- **[bangle](/word/bangle/)**：主に硬い素材でできた、丸くて開閉しない腕輪。
 
 braceletは幅広いタイプの腕輪を指しますが、bangleは特に硬くて丸いタイプの腕輪を指します。
 
@@ -105,14 +105,14 @@ braceletは幅広いタイプの腕輪を指しますが、bangleは特に硬く
 
 ## 🧩 あわせて覚えたい
 
-- [necklace](/word/necklace)：首飾り、ネックレス
-- [ring](/word/ring)：指輪
+- [necklace](/word/necklace/)：首飾り、ネックレス
+- [ring](/word/ring/)：指輪
 
 ---
 
 ## 📖 できればこれも
 
-- [jewelry](/word/jewelry)：宝石類、アクセサリー
-- [watch](/word/watch)：腕時計
+- [jewelry](/word/jewelry/)：宝石類、アクセサリー
+- [watch](/word/watch/)：腕時計
 
 <!-- cvid: aid20_bid46 -->

@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写問題で「指を指す」「指で触れる」
 ## 🤔  toe との違いは？
 
 - **finger**：手の指を指す
-- **[toe](/word/toe)**：足の指を指す
+- **[toe](/word/toe/)**：足の指を指す
 
 fingerは手の指、toeは足の指を表します。体の部位が異なるので使い分けに注意しましょう。
 
@@ -105,14 +105,14 @@ fingerは手の指、toeは足の指を表します。体の部位が異なる�
 
 ## 🧩 あわせて覚えたい
 
-- [hand](/word/hand)：手
-- [nail](/word/nail)：爪
+- [hand](/word/hand/)：手
+- [nail](/word/nail/)：爪
 
 ---
 
 ## 📖 できればこれも
 
-- [thumb](/word/thumb)：親指
-- [palm](/word/palm)：手のひら
+- [thumb](/word/thumb/)：親指
+- [palm](/word/palm/)：手のひら
 
 <!-- cvid: aid33_bid15 -->

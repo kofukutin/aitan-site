@@ -97,7 +97,7 @@ TOEICでは、音楽やテクノロジーに関する説明文や製品紹介で
 ## 🤔  monophonic との違いは？
 
 - **polyphonic**：複数の独立した音や旋律が同時に鳴る
-- **[monophonic](/word/monophonic)**：単一の旋律や音のみが鳴る
+- **[monophonic](/word/monophonic/)**：単一の旋律や音のみが鳴る
 
 polyphonicは「多声」、monophonicは「単声」を意味し、音楽や電子楽器の機能説明で対比されます。
 
@@ -105,15 +105,15 @@ polyphonicは「多声」、monophonicは「単声」を意味し、音楽や電
 
 ## 🧩 あわせて覚えたい
 
-- [harmonic](/word/harmonic)：和声の、調和した
-- [melodic](/word/melodic)：旋律の、美しい旋律の
+- [harmonic](/word/harmonic/)：和声の、調和した
+- [melodic](/word/melodic/)：旋律の、美しい旋律の
 
 ---
 
 ## 📖 できればこれも
 
-- [acoustic](/word/acoustic)：音響の、アコースティックの
-- [symphonic](/word/symphonic)：交響曲の、壮大な
+- [acoustic](/word/acoustic/)：音響の、アコースティックの
+- [symphonic](/word/symphonic/)：交響曲の、壮大な
 
 ---
 <!-- cvid: aid02_bid48 -->

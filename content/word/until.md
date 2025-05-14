@@ -93,7 +93,7 @@ TOEICでは会話や説明文で「～まで」と期間や期限を示す際に
 ## 🤔  by との違いは？
 
 - **until**：ある時点まで「継続」して何かが続くことを表す
-- **[by](/word/by)**：ある時点「までに」何かが完了することを表す
+- **[by](/word/by/)**：ある時点「までに」何かが完了することを表す
 
 untilは「その時点までずっと続く」イメージ、byは「その時点までに終わる」イメージで使い分けます。
 
@@ -101,14 +101,14 @@ untilは「その時点までずっと続く」イメージ、byは「その時�
 
 ## 🧩 あわせて覚えたい
 
-- [before](/word/before)：～より前に
-- [during](/word/during)：～の間に
+- [before](/word/before/)：～より前に
+- [during](/word/during/)：～の間に
 
 ---
 
 ## 📖 できればこれも
 
-- [after](/word/after)：～の後に
-- [since](/word/since)：～以来
+- [after](/word/after/)：～の後に
+- [since](/word/since/)：～以来
 
 <!-- cvid: aid35_bid45 -->

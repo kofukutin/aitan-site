@@ -97,7 +97,7 @@ TOEICでは環境問題やサステナビリティに関する長文で登場す
 ## 🤔  environment との違いは？
 
 - **ecology**：生物と環境の関係や生態系そのもの、またはその学問
-- **[environment](/word/environment)**：環境そのもの（自然・社会・周囲の状況など）
+- **[environment](/word/environment/)**：環境そのもの（自然・社会・周囲の状況など）
 
 ecologyは「生き物と環境のつながり」や「生態系」に焦点があり、environmentは「場所や状況としての環境」全般を指します。
 
@@ -105,14 +105,14 @@ ecologyは「生き物と環境のつながり」や「生態系」に焦点が�
 
 ## 🧩 あわせて覚えたい
 
-- [ecosystem](/word/ecosystem)：生態系（生物と環境が相互に関わるシステム）
-- [conservation](/word/conservation)：保護、保存（自然や資源を守ること）
+- [ecosystem](/word/ecosystem/)：生態系（生物と環境が相互に関わるシステム）
+- [conservation](/word/conservation/)：保護、保存（自然や資源を守ること）
 
 ---
 
 ## 📖 できればこれも
 
-- [biology](/word/biology)：生物学
-- [pollution](/word/pollution)：汚染
+- [biology](/word/biology/)：生物学
+- [pollution](/word/pollution/)：汚染
 
 <!-- cvid: aid10_bid19 -->

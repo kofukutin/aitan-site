@@ -97,7 +97,7 @@ TOEICでは主にPart 7のメールや掲示文、案内文などで「郵便」
 ## 🤔  mail との違いは？
 
 - **post**：イギリス英語で「郵便」「郵便物」、または掲示・投稿の意味もある
-- **[mail](/word/mail)**：アメリカ英語で「郵便」「郵便物」、電子メールの意味も強い
+- **[mail](/word/mail/)**：アメリカ英語で「郵便」「郵便物」、電子メールの意味も強い
 
 postはイギリス英語で使われることが多く、mailはアメリカ英語で一般的です。電子メールの場合はmailが主流です。
 
@@ -105,14 +105,14 @@ postはイギリス英語で使われることが多く、mailはアメリカ英
 
 ## 🧩 あわせて覚えたい
 
-- [notice](/word/notice)：お知らせ、通知
-- [message](/word/message)：メッセージ、伝言
+- [notice](/word/notice/)：お知らせ、通知
+- [message](/word/message/)：メッセージ、伝言
 
 ---
 
 ## 📖 できればこれも
 
-- [letter](/word/letter)：手紙
-- [package](/word/package)：小包
+- [letter](/word/letter/)：手紙
+- [package](/word/package/)：小包
 
 <!-- cvid: aid02_bid08 -->

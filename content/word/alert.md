@@ -98,7 +98,7 @@ TOEICでは「be alert to（～に注意している）」や「alert someone to
 ## 🤔  alarm との違いは？
 
 - **alert**：油断なく注意している状態や警戒心を表す
-- **[alarm](/word/alarm)**：危険を知らせる警報や、驚き・恐れの感情を表す
+- **[alarm](/word/alarm/)**：危険を知らせる警報や、驚き・恐れの感情を表す
 
 「alert」は冷静に注意を払うニュアンス、「alarm」は危険や恐怖を感じて慌てるニュアンスがあります。
 
@@ -106,14 +106,14 @@ TOEICでは「be alert to（～に注意している）」や「alert someone to
 
 ## 🧩 あわせて覚えたい
 
-- [attentive](/word/attentive)：注意深い、気配りができる
-- [cautious](/word/cautious)：用心深い、慎重な
+- [attentive](/word/attentive/)：注意深い、気配りができる
+- [cautious](/word/cautious/)：用心深い、慎重な
 
 ---
 
 ## 📖 できればこれも
 
-- [notify](/word/notify)：通知する、知らせる
-- [remind](/word/remind)：思い出させる、注意を促す
+- [notify](/word/notify/)：通知する、知らせる
+- [remind](/word/remind/)：思い出させる、注意を促す
 
 <!-- cvid: aid12_bid43 -->

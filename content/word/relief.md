@@ -97,7 +97,7 @@ TOEICでは、災害支援やストレス軽減、安心感などの文脈で登
 ## 🤔  comfort との違いは？
 
 - **relief**：苦痛や不安が和らいだときの「ほっとした安心感」や「救済」
-- **[comfort](/word/comfort)**：心地よさや物理的・精神的な「快適さ」
+- **[comfort](/word/comfort/)**：心地よさや物理的・精神的な「快適さ」
 
 reliefは「苦しみや不安から解放された安心感」、comfortは「心地よさや安らぎ」を指し、reliefの方が「苦痛からの解放」に重点があります。
 
@@ -105,14 +105,14 @@ reliefは「苦しみや不安から解放された安心感」、comfortは「�
 
 ## 🧩 あわせて覚えたい
 
-- [anxiety](/word/anxiety)：不安、心配
-- [assistance](/word/assistance)：援助、手助け
+- [anxiety](/word/anxiety/)：不安、心配
+- [assistance](/word/assistance/)：援助、手助け
 
 ---
 
 ## 📖 できればこれも
 
-- [support](/word/support)：支援、サポート
-- [aid](/word/aid)：援助、救援
+- [support](/word/support/)：支援、サポート
+- [aid](/word/aid/)：援助、救援
 
 <!-- cvid: aid35_bid30 -->

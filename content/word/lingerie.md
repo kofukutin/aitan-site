@@ -97,7 +97,7 @@ TOEICでは主に広告や商品説明、観光関連の長文で見かけるこ
 ## 🤔  underwear との違いは？
 
 - **lingerie**：主に女性用の高級で装飾的な下着を指すフォーマルな表現
-- **[underwear](/word/underwear)**：男女問わず下着全般を指す一般的な表現
+- **[underwear](/word/underwear/)**：男女問わず下着全般を指す一般的な表現
 
 lingerieは特に女性用でデザイン性や高級感を強調したいときに使い、underwearは日常的な下着全般を幅広く指します。
 
@@ -105,14 +105,14 @@ lingerieは特に女性用でデザイン性や高級感を強調したいとき
 
 ## 🧩 あわせて覚えたい
 
-- [nightwear](/word/nightwear)：寝間着、パジャマ
-- [apparel](/word/apparel)：衣類、服装
+- [nightwear](/word/nightwear/)：寝間着、パジャマ
+- [apparel](/word/apparel/)：衣類、服装
 
 ---
 
 ## 📖 できればこれも
 
-- [garment](/word/garment)：衣服、衣類
-- [attire](/word/attire)：服装、装い
+- [garment](/word/garment/)：衣服、衣類
+- [attire](/word/attire/)：服装、装い
 
 <!-- cvid: aid41_bid02 -->

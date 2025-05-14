@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、風景や観光地の説明と
 ## 🤔  hill との違いは？
 
 - **mountain**：標高が高く、規模の大きい「山」
-- **[hill](/word/hill)**：標高が低めでなだらかな「丘」
+- **[hill](/word/hill/)**：標高が低めでなだらかな「丘」
 
 mountainは高さや大きさを強調したいときに使い、hillは小さくてなだらかな地形に使います。
 
@@ -105,14 +105,14 @@ mountainは高さや大きさを強調したいときに使い、hillは小さ�
 
 ## 🧩 あわせて覚えたい
 
-- [valley](/word/valley)：谷、渓谷
-- [peak](/word/peak)：山頂、頂点
+- [valley](/word/valley/)：谷、渓谷
+- [peak](/word/peak/)：山頂、頂点
 
 ---
 
 ## 📖 できればこれも
 
-- [river](/word/river)：川
-- [forest](/word/forest)：森
+- [river](/word/river/)：川
+- [forest](/word/forest/)：森
 
 <!-- cvid: aid21_bid39 -->

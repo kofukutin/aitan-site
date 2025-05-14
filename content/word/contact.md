@@ -97,7 +97,7 @@ TOEICではメールや案内文、ビジネス文書で「連絡先」や「連
 ## 🤔  connect との違いは？
 
 - **contact**：連絡を取る、直接やり取りすることに重点
-- **[connect](/word/connect)**：物理的・心理的につなぐ、関係を築くことに重点
+- **[connect](/word/connect/)**：物理的・心理的につなぐ、関係を築くことに重点
 
 contactは「連絡する」「接触する」など直接的なやり取りを指し、connectは「つなぐ」「関係を築く」といった広い意味で使われます。
 
@@ -105,14 +105,14 @@ contactは「連絡する」「接触する」など直接的なやり取りを�
 
 ## 🧩 あわせて覚えたい
 
-- [communication](/word/communication)：コミュニケーション、意思疎通
-- [approach](/word/approach)：接近、取り組み方
+- [communication](/word/communication/)：コミュニケーション、意思疎通
+- [approach](/word/approach/)：接近、取り組み方
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client)：顧客、取引先
-- [message](/word/message)：メッセージ、伝言
+- [client](/word/client/)：顧客、取引先
+- [message](/word/message/)：メッセージ、伝言
 
 <!-- cvid: aid26_bid03 -->

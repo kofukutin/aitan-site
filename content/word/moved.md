@@ -97,7 +97,7 @@ TOEICでは会話やスピーチの中で「感動した」という気持ちを
 ## 🤔  touched との違いは？
 
 - **moved**：心が深く動かされて感動した状態を表す。
-- **[touched](/word/touched)**：やや控えめに「心に触れた」「ほっこりした」感情を表す。
+- **[touched](/word/touched/)**：やや控えめに「心に触れた」「ほっこりした」感情を表す。
 
 movedは強い感動や心の動きを表し、touchedは優しく心に響いたときに使います。
 
@@ -105,14 +105,14 @@ movedは強い感動や心の動きを表し、touchedは優しく心に響い�
 
 ## 🧩 あわせて覚えたい
 
-- [impressed](/word/impressed)：感銘を受けた
-- [inspired](/word/inspired)：刺激を受けた、触発された
+- [impressed](/word/impressed/)：感銘を受けた
+- [inspired](/word/inspired/)：刺激を受けた、触発された
 
 ---
 
 ## 📖 できればこれも
 
-- [excited](/word/excited)：わくわくした
-- [affected](/word/affected)：影響を受けた
+- [excited](/word/excited/)：わくわくした
+- [affected](/word/affected/)：影響を受けた
 
 <!-- cvid: aid43_bid00 -->

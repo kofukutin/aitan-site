@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、果物や食べ物の名前と
 ## 🤔  apple との違いは？
 
 - **banana**：黄色くて細長い果物。皮をむいて食べる。
-- **[apple](/word/apple)**：丸くて赤や緑の果物。皮ごと食べることも多い。
+- **[apple](/word/apple/)**：丸くて赤や緑の果物。皮ごと食べることも多い。
 
 bananaは柔らかく甘い果物、appleはシャキッとした食感で酸味や甘みがある果物です。
 
@@ -105,14 +105,14 @@ bananaは柔らかく甘い果物、appleはシャキッとした食感で酸味
 
 ## 🧩 あわせて覚えたい
 
-- [orange](/word/orange)：オレンジ（柑橘系の果物）
-- [fruit](/word/fruit)：果物
+- [orange](/word/orange/)：オレンジ（柑橘系の果物）
+- [fruit](/word/fruit/)：果物
 
 ---
 
 ## 📖 できればこれも
 
-- [grape](/word/grape)：ぶどう
-- [vegetable](/word/vegetable)：野菜
+- [grape](/word/grape/)：ぶどう
+- [vegetable](/word/vegetable/)：野菜
 
 <!-- cvid: aid48_bid17 -->

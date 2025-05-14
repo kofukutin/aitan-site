@@ -97,7 +97,7 @@ TOEICでは大学やビジネスの説明、プレゼンテーションの文脈
 ## 🤔  presentation との違いは？
 
 - **lecture**：知識や情報を一方的に伝える「講義」や「講演」
-- **[presentation](/word/presentation)**：資料やスライドを使い、説明や提案を行う「発表」
+- **[presentation](/word/presentation/)**：資料やスライドを使い、説明や提案を行う「発表」
 
 lectureは主に教育や学術の場で使われ、presentationはビジネスや会議など幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ lectureは主に教育や学術の場で使われ、presentationはビジネス�
 
 ## 🧩 あわせて覚えたい
 
-- [seminar](/word/seminar)：少人数で討論や質疑応答を行う講習会
-- [speech](/word/speech)：聴衆に向けて行う「スピーチ」や「演説」
+- [seminar](/word/seminar/)：少人数で討論や質疑応答を行う講習会
+- [speech](/word/speech/)：聴衆に向けて行う「スピーチ」や「演説」
 
 ---
 
 ## 📖 できればこれも
 
-- [course](/word/course)：一連の授業、課程
-- [lesson](/word/lesson)：授業、レッスン
+- [course](/word/course/)：一連の授業、課程
+- [lesson](/word/lesson/)：授業、レッスン
 
 <!-- cvid: aid08_bid49 -->

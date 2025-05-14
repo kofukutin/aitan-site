@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文や広告文、商品説明などで「目新し
 ## 🤔  innovation との違いは？
 
 - **novelty**：新しさや珍しさ、目新しいもの自体を指す
-- **[innovation](/word/innovation)**：革新、技術的・社会的な新しい仕組みや方法
+- **[innovation](/word/innovation/)**：革新、技術的・社会的な新しい仕組みや方法
 
 noveltyは「新しいこと」や「珍しいもの」自体を指し、innovationは「革新的な変化」や「新しい技術・方法」を強調します。
 
@@ -105,14 +105,14 @@ noveltyは「新しいこと」や「珍しいもの」自体を指し、innovat
 
 ## 🧩 あわせて覚えたい
 
-- [originality](/word/originality)：独創性
-- [tradition](/word/tradition)：伝統
+- [originality](/word/originality/)：独創性
+- [tradition](/word/tradition/)：伝統
 
 ---
 
 ## 📖 できればこれも
 
-- [trend](/word/trend)：流行、傾向
-- [feature](/word/feature)：特徴、特性
+- [trend](/word/trend/)：流行、傾向
+- [feature](/word/feature/)：特徴、特性
 
 <!-- cvid: aid45_bid04 -->

@@ -97,7 +97,7 @@ TOEICでは、ビジネスや社会問題に関する長文で「少数派」や
 ## 🤔  majority との違いは？
 
 - **minority**：全体の中で数が少ない側や集団
-- **[majority](/word/majority)**：全体の中で数が多い側や集団
+- **[majority](/word/majority/)**：全体の中で数が多い側や集団
 
 minorityは「少数派」、majorityは「多数派」を意味し、会議や投票などで意見の分かれを表すときに使い分けます。
 
@@ -105,14 +105,14 @@ minorityは「少数派」、majorityは「多数派」を意味し、会議や�
 
 ## 🧩 あわせて覚えたい
 
-- [diversity](/word/diversity)：多様性
-- [individual](/word/individual)：個人
+- [diversity](/word/diversity/)：多様性
+- [individual](/word/individual/)：個人
 
 ---
 
 ## 📖 できればこれも
 
-- [major](/word/major)：主要な、重要な
-- [option](/word/option)：選択肢
+- [major](/word/major/)：主要な、重要な
+- [option](/word/option/)：選択肢
 
 <!-- cvid: aid10_bid47 -->

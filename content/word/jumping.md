@@ -97,7 +97,7 @@ jumpingはTOEICのPart 1（写真描写）で、人がジャンプしている�
 ## 🤔  hopping との違いは？
 
 - **jumping**：両足で高く跳ぶ、または大きく跳ねる動作を指す。
-- **[hopping](/word/hopping)**：片足でぴょんぴょん跳ねる、または小刻みに跳ぶ動作。
+- **[hopping](/word/hopping/)**：片足でぴょんぴょん跳ねる、または小刻みに跳ぶ動作。
 
 jumpingは大きなジャンプや両足での跳躍に使い、hoppingは片足や小さな動きに使われます。
 
@@ -105,14 +105,14 @@ jumpingは大きなジャンプや両足での跳躍に使い、hoppingは片足
 
 ## 🧩 あわせて覚えたい
 
-- [leap](/word/leap)：大きく跳ぶ、跳躍する
-- [skip](/word/skip)：軽く跳ねながら進む
+- [leap](/word/leap/)：大きく跳ぶ、跳躍する
+- [skip](/word/skip/)：軽く跳ねながら進む
 
 ---
 
 ## 📖 できればこれも
 
-- [running](/word/running)：走ること
-- [climbing](/word/climbing)：登ること
+- [running](/word/running/)：走ること
+- [climbing](/word/climbing/)：登ること
 
 <!-- cvid: aid17_bid18 -->

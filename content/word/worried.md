@@ -97,7 +97,7 @@ She looked worried during the meeting.
 ## 🤔  concerned との違いは？
 
 - **worried**：悪いことが起こるのではと強く不安・心配している気持ち
-- **[concerned](/word/concerned)**：ややフォーマルで、気にかけている・配慮しているニュアンス
+- **[concerned](/word/concerned/)**：ややフォーマルで、気にかけている・配慮しているニュアンス
 
 worriedは感情的な不安や心配を強く表し、concernedはもう少し冷静で配慮や注意を含む表現です。
 
@@ -105,14 +105,14 @@ worriedは感情的な不安や心配を強く表し、concernedはもう少し�
 
 ## 🧩 あわせて覚えたい
 
-- [anxious](/word/anxious)：不安な、気がかりな
-- [relieved](/word/relieved)：ほっとした、安心した
+- [anxious](/word/anxious/)：不安な、気がかりな
+- [relieved](/word/relieved/)：ほっとした、安心した
 
 ---
 
 ## 📖 できればこれも
 
-- [nervous](/word/nervous)：緊張している、不安な
-- [upset](/word/upset)：動揺している、取り乱している
+- [nervous](/word/nervous/)：緊張している、不安な
+- [upset](/word/upset/)：動揺している、取り乱している
 
 <!-- cvid: aid19_bid42 -->

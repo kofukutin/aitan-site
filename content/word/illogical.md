@@ -97,7 +97,7 @@ TOEICでは主にPart 5の語彙問題で、logicalとの対比や否定的な�
 ## 🤔  unreasonable との違いは？
 
 - **illogical**：論理的でない、筋が通っていない
-- **[unreasonable](/word/unreasonable)**：理不尽な、合理的でない
+- **[unreasonable](/word/unreasonable/)**：理不尽な、合理的でない
 
 「illogical」は論理的な筋道がないことを指し、主に議論や説明の構造に注目します。「unreasonable」は感情や状況に対して「納得できない」「無理がある」といった意味で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 5の語彙問題で、logicalとの対比や否定的な�
 
 ## 🧩 あわせて覚えたい
 
-- [logical](/word/logical)：論理的な
-- [rational](/word/rational)：合理的な、理性的な
+- [logical](/word/logical/)：論理的な
+- [rational](/word/rational/)：合理的な、理性的な
 
 ---
 
 ## 📖 できればこれも
 
-- [reasonable](/word/reasonable)：合理的な、妥当な
-- [valid](/word/valid)：妥当な、有効な
+- [reasonable](/word/reasonable/)：合理的な、妥当な
+- [valid](/word/valid/)：妥当な、有効な
 
 <!-- cvid: aid45_bid29 -->

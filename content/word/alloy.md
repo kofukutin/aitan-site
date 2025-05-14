@@ -97,7 +97,7 @@ TOEICでは主に科学技術や製造業に関する長文や説明文で登場
 ## 🤔  mixture との違いは？
 
 - **alloy**：主に金属同士を混ぜてできた「合金」を指す
-- **[mixture](/word/mixture)**：金属に限らず、さまざまな物質の「混合物」を指す
+- **[mixture](/word/mixture/)**：金属に限らず、さまざまな物質の「混合物」を指す
 
 alloyは金属の専門用語で、mixtureはより広い意味で使われます。
 
@@ -105,14 +105,14 @@ alloyは金属の専門用語で、mixtureはより広い意味で使われま�
 
 ## 🧩 あわせて覚えたい
 
-- [compound](/word/compound)：化合物（異なる元素が化学的に結合したもの）
-- [blend](/word/blend)：ブレンド、混合（主に液体や粉末などの混ぜ合わせ）
+- [compound](/word/compound/)：化合物（異なる元素が化学的に結合したもの）
+- [blend](/word/blend/)：ブレンド、混合（主に液体や粉末などの混ぜ合わせ）
 
 ---
 
 ## 📖 できればこれも
 
-- [metal](/word/metal)：金属
-- [element](/word/element)：元素
+- [metal](/word/metal/)：金属
+- [element](/word/element/)：元素
 
 <!-- cvid: aid03_bid43 -->

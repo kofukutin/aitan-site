@@ -97,7 +97,7 @@ TOEICでは、科学や物流、医療関連の長文で「容器」や「船舶
 ## 🤔  container との違いは？
 
 - **vessel**：液体や気体を入れる容器、または船舶・体内の管など「運ぶ・入れる」役割が強調されるフォーマルな語。
-- **[container](/word/container)**：一般的な「容器」全般を指し、形や用途を問わず幅広く使われる。
+- **[container](/word/container/)**：一般的な「容器」全般を指し、形や用途を問わず幅広く使われる。
 
 vesselは特に液体や船、血管など「中身を運ぶ・流す」ニュアンスが強く、containerはより広い意味で「入れ物」全般に使われます。
 
@@ -105,14 +105,14 @@ vesselは特に液体や船、血管など「中身を運ぶ・流す」ニュ�
 
 ## 🧩 あわせて覚えたい
 
-- [tube](/word/tube)：管、チューブ
-- [craft](/word/craft)：船舶、小型船
+- [tube](/word/tube/)：管、チューブ
+- [craft](/word/craft/)：船舶、小型船
 
 ---
 
 ## 📖 できればこれも
 
-- [liquid](/word/liquid)：液体
-- [cargo](/word/cargo)：貨物
+- [liquid](/word/liquid/)：液体
+- [cargo](/word/cargo/)：貨物
 
 <!-- cvid: aid49_bid34 -->

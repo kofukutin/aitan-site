@@ -97,7 +97,7 @@ TOEICでは環境や科学、施設紹介などの長文で「atmospheric pressu
 ## 🤔  ambient との違いは？
 
 - **atmospheric**：大気に関する、または雰囲気のある（特に科学的・情緒的な文脈で使う）
-- **[ambient](/word/ambient)**：周囲の、環境の（一般的に「周囲全体に広がる」ニュアンス）
+- **[ambient](/word/ambient/)**：周囲の、環境の（一般的に「周囲全体に広がる」ニュアンス）
 
 atmosphericは「大気」や「特有の雰囲気」に焦点を当てるのに対し、ambientは「周囲全体に自然に存在する」ことを表します。
 
@@ -105,14 +105,14 @@ atmosphericは「大気」や「特有の雰囲気」に焦点を当てるのに
 
 ## 🧩 あわせて覚えたい
 
-- [climatic](/word/climatic)：気候の
-- [environmental](/word/environmental)：環境の
+- [climatic](/word/climatic/)：気候の
+- [environmental](/word/environmental/)：環境の
 
 ---
 
 ## 📖 できればこれも
 
-- [humid](/word/humid)：湿度の高い
-- [pollution](/word/pollution)：汚染
+- [humid](/word/humid/)：湿度の高い
+- [pollution](/word/pollution/)：汚染
 
 <!-- cvid: aid07_bid30 -->

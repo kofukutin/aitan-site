@@ -97,7 +97,7 @@ TOEICでは主に写真描写や場所の説明で登場しやすい単語です
 ## 🤔  city との違いは？
 
 - **town**：都市より小さめの「町」、親しみやすい規模の集落
-- **[city](/word/city)**：人口や規模が大きい「都市」、行政区分としても使われる
+- **[city](/word/city/)**：人口や規模が大きい「都市」、行政区分としても使われる
 
 townは小規模で親しみやすい町を指し、cityはより大きく発展した都市を表します。
 
@@ -105,14 +105,14 @@ townは小規模で親しみやすい町を指し、cityはより大きく発展
 
 ## 🧩 あわせて覚えたい
 
-- [village](/word/village)：村、小さな集落
-- [suburb](/word/suburb)：郊外、都市周辺の住宅地
+- [village](/word/village/)：村、小さな集落
+- [suburb](/word/suburb/)：郊外、都市周辺の住宅地
 
 ---
 
 ## 📖 できればこれも
 
-- [street](/word/street)：通り、道路
-- [area](/word/area)：地域、区域
+- [street](/word/street/)：通り、道路
+- [area](/word/area/)：地域、区域
 
 <!-- cvid: aid26_bid16 -->

@@ -97,7 +97,7 @@ TOEICでは会議やディスカッションの場面で、意見の相違や反
 ## 🤔  differ との違いは？
 
 - **disagree**：意見や考えに「反対する」「一致しない」と明確に表現する
-- **[differ](/word/differ)**：単に「異なる」「違う」と中立的に表現する
+- **[differ](/word/differ/)**：単に「異なる」「違う」と中立的に表現する
 
 disagreeは「反対」の意思を示すのに対し、differは単に違いがあることを述べるときに使います。
 
@@ -105,14 +105,14 @@ disagreeは「反対」の意思を示すのに対し、differは単に違いが
 
 ## 🧩 あわせて覚えたい
 
-- [agree](/word/agree)：同意する
-- [object](/word/object)：反対する（ややフォーマル）
+- [agree](/word/agree/)：同意する
+- [object](/word/object/)：反対する（ややフォーマル）
 
 ---
 
 ## 📖 できればこれも
 
-- [argue](/word/argue)：主張する、議論する
-- [approve](/word/approve)：承認する、賛成する
+- [argue](/word/argue/)：主張する、議論する
+- [approve](/word/approve/)：承認する、賛成する
 
 <!-- cvid: aid39_bid05 -->

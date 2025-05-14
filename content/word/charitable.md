@@ -97,7 +97,7 @@ TOEICでは、寄付や社会貢献に関する記事や案内文で見かける
 ## 🤔  generous との違いは？
 
 - **charitable**：困っている人や団体に対して慈善的・思いやりを持って助ける様子を強調
-- **[generous](/word/generous)**：物やお金、時間などを惜しみなく与える寛大さを表す
+- **[generous](/word/generous/)**：物やお金、時間などを惜しみなく与える寛大さを表す
 
 「charitable」は特に慈善活動や社会貢献の文脈で使われ、「generous」は日常的な寛大さや気前の良さにも幅広く使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、寄付や社会貢献に関する記事や案内文で見かける
 
 ## 🧩 あわせて覚えたい
 
-- [philanthropic](/word/philanthropic)：博愛主義の、慈善的な
-- [stingy](/word/stingy)：けちな、しみったれた
+- [philanthropic](/word/philanthropic/)：博愛主義の、慈善的な
+- [stingy](/word/stingy/)：けちな、しみったれた
 
 ---
 
 ## 📖 できればこれも
 
-- [donate](/word/donate)：寄付する
-- [fund](/word/fund)：資金、基金
+- [donate](/word/donate/)：寄付する
+- [fund](/word/fund/)：資金、基金
 
 <!-- cvid: aid01_bid27 -->

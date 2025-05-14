@@ -97,7 +97,7 @@ TOEICではビジネス文書やEメール、報告書などで頻出します�
 ## 🤔  bookkeeping との違いは？
 
 - **accounting**：お金の流れ全体を管理・分析する「会計」や「経理」のこと
-- **[bookkeeping](/word/bookkeeping)**：日々の取引を帳簿に記録する「簿記」のこと
+- **[bookkeeping](/word/bookkeeping/)**：日々の取引を帳簿に記録する「簿記」のこと
 
 accountingは財務分析や報告まで含む広い意味、bookkeepingは記録作業に特化しています。
 
@@ -105,14 +105,14 @@ accountingは財務分析や報告まで含む広い意味、bookkeepingは記�
 
 ## 🧩 あわせて覚えたい
 
-- [finance](/word/finance)：財務、金融
-- [audit](/word/audit)：監査
+- [finance](/word/finance/)：財務、金融
+- [audit](/word/audit/)：監査
 
 ---
 
 ## 📖 できればこれも
 
-- [statement](/word/statement)：明細書、報告書
-- [expense](/word/expense)：費用
+- [statement](/word/statement/)：明細書、報告書
+- [expense](/word/expense/)：費用
 
 <!-- cvid: aid10_bid42 -->

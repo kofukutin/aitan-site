@@ -97,7 +97,7 @@ TOEICでは自己紹介や人物説明の場面でよく出題されます。特
 ## 🤔  arise との違いは？
 
 - **born**：生まれる、出生や起源を表す
-- **[arise](/word/arise)**：発生する、問題や状況が起こる
+- **[arise](/word/arise/)**：発生する、問題や状況が起こる
 
 bornは人や物事の「誕生」に使い、ariseは出来事や問題が「発生する」場合に使います。
 
@@ -105,14 +105,14 @@ bornは人や物事の「誕生」に使い、ariseは出来事や問題が「�
 
 ## 🧩 あわせて覚えたい
 
-- [create](/word/create)：作り出す
-- [emerge](/word/emerge)：現れる
+- [create](/word/create/)：作り出す
+- [emerge](/word/emerge/)：現れる
 
 ---
 
 ## 📖 できればこれも
 
-- [raise](/word/raise)：育てる、上げる
-- [grow](/word/grow)：成長する
+- [raise](/word/raise/)：育てる、上げる
+- [grow](/word/grow/)：成長する
 
 <!-- cvid: aid34_bid16 -->

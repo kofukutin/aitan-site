@@ -97,7 +97,7 @@ TOEICでは医療や福利厚生、従業員サポートに関する長文で見
 ## 🤔  expectant との違いは？
 
 - **pregnant**：妊娠している状態を直接的に表す
-- **[expectant](/word/expectant)**：妊娠している人や、何かを待ち望んでいる人をやや婉曲に表す
+- **[expectant](/word/expectant/)**：妊娠している人や、何かを待ち望んでいる人をやや婉曲に表す
 
 「pregnant」は医学的・直接的な表現、「expectant」はややフォーマルで控えめな言い方や、期待している人全般にも使います。
 
@@ -105,14 +105,14 @@ TOEICでは医療や福利厚生、従業員サポートに関する長文で見
 
 ## 🧩 あわせて覚えたい
 
-- [fertile](/word/fertile)：肥沃な、妊娠しやすい
-- [infertile](/word/infertile)：不妊の
+- [fertile](/word/fertile/)：肥沃な、妊娠しやすい
+- [infertile](/word/infertile/)：不妊の
 
 ---
 
 ## 📖 できればこれも
 
-- [nurse](/word/nurse)：看護師
-- [patient](/word/patient)：患者
+- [nurse](/word/nurse/)：看護師
+- [patient](/word/patient/)：患者
 
 <!-- cvid: aid32_bid46 -->

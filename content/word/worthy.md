@@ -97,7 +97,7 @@ TOEICでは「worthy of ～」や「a worthy candidate」など、評価や価�
 ## 🤔  valuable との違いは？
 
 - **worthy**：何かに値する、ふさわしいという評価や資格を強調
-- **[valuable](/word/valuable)**：金銭的・実用的な価値が高いことを強調
+- **[valuable](/word/valuable/)**：金銭的・実用的な価値が高いことを強調
 
 worthyは「称賛・注目・努力などを受けるにふさわしい」という評価的な意味合いが強く、valuableは「有用性や金銭的価値」に重点があります。
 
@@ -105,14 +105,14 @@ worthyは「称賛・注目・努力などを受けるにふさわしい」と�
 
 ## 🧩 あわせて覚えたい
 
-- [deserving](/word/deserving)：～に値する、ふさわしい
-- [noteworthy](/word/noteworthy)：注目に値する、重要な
+- [deserving](/word/deserving/)：～に値する、ふさわしい
+- [noteworthy](/word/noteworthy/)：注目に値する、重要な
 
 ---
 
 ## 📖 できればこれも
 
-- [qualified](/word/qualified)：資格がある、適任の
-- [reliable](/word/reliable)：信頼できる
+- [qualified](/word/qualified/)：資格がある、適任の
+- [reliable](/word/reliable/)：信頼できる
 
 <!-- cvid: aid07_bid49 -->

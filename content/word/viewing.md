@@ -97,7 +97,7 @@ TOEICでは、物件の内覧や展示会の見学など、説明や案内の会
 ## 🤔  inspection との違いは？
 
 - **viewing**：見学や鑑賞、特に家や展示物などを「見ること」
-- **[inspection](/word/inspection)**：検査や点検、細かくチェックすること
+- **[inspection](/word/inspection/)**：検査や点検、細かくチェックすること
 
 「viewing」は主に見学や鑑賞の意味で使われ、楽しみや確認のニュアンスが強いですが、「inspection」は問題がないかを調べるための点検や検査の意味で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、物件の内覧や展示会の見学など、説明や案内の会
 
 ## 🧩 あわせて覚えたい
 
-- [tour](/word/tour)：見学、案内
-- [exhibition](/word/exhibition)：展示会
+- [tour](/word/tour/)：見学、案内
+- [exhibition](/word/exhibition/)：展示会
 
 ---
 
 ## 📖 できればこれも
 
-- [presentation](/word/presentation)：発表、プレゼン
-- [demonstration](/word/demonstration)：実演、デモ
+- [presentation](/word/presentation/)：発表、プレゼン
+- [demonstration](/word/demonstration/)：実演、デモ
 
 <!-- cvid: aid43_bid21 -->

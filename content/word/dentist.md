@@ -97,7 +97,7 @@ TOEICでは、健康や医療に関する会話や説明文でよく登場しま
 ## 🤔  doctor との違いは？
 
 - **dentist**：歯や口腔の治療を専門とする医師
-- **[doctor](/word/doctor)**：一般的な医師全般を指し、内科や外科など幅広い分野を含む
+- **[doctor](/word/doctor/)**：一般的な医師全般を指し、内科や外科など幅広い分野を含む
 
 dentistは歯科専門、doctorは医療全般を指すため、使い分けが必要です。
 
@@ -105,14 +105,14 @@ dentistは歯科専門、doctorは医療全般を指すため、使い分けが�
 
 ## 🧩 あわせて覚えたい
 
-- [hygienist](/word/hygienist)：歯科衛生士
-- [clinic](/word/clinic)：診療所、クリニック
+- [hygienist](/word/hygienist/)：歯科衛生士
+- [clinic](/word/clinic/)：診療所、クリニック
 
 ---
 
 ## 📖 できればこれも
 
-- [patient](/word/patient)：患者
-- [appointment](/word/appointment)：予約
+- [patient](/word/patient/)：患者
+- [appointment](/word/appointment/)：予約
 
 <!-- cvid: aid26_bid39 -->

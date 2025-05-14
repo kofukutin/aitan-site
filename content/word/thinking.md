@@ -97,7 +97,7 @@ TOEICでは、名詞として「考え方」「思考」という意味で出題
 ## 🤔  thought との違いは？
 
 - **thinking**：考え方や思考の過程、全体的な思考スタイルを指す
-- **[thought](/word/thought)**：個々の「考え」や「思いつき」、具体的な内容を指す
+- **[thought](/word/thought/)**：個々の「考え」や「思いつき」、具体的な内容を指す
 
 「thinking」は抽象的・全体的な思考や考え方を表し、「thought」は一つ一つの具体的な考えやアイデアを指します。
 
@@ -105,14 +105,14 @@ TOEICでは、名詞として「考え方」「思考」という意味で出題
 
 ## 🧩 あわせて覚えたい
 
-- [opinion](/word/opinion)：意見
-- [idea](/word/idea)：アイデア、発想
+- [opinion](/word/opinion/)：意見
+- [idea](/word/idea/)：アイデア、発想
 
 ---
 
 ## 📖 できればこれも
 
-- [decision](/word/decision)：決定、判断
-- [analysis](/word/analysis)：分析
+- [decision](/word/decision/)：決定、判断
+- [analysis](/word/analysis/)：分析
 
 <!-- cvid: aid39_bid00 -->

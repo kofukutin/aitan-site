@@ -97,7 +97,7 @@ TOEICでは、形容詞として「selected items（厳選商品）」や「sele
 ## 🤔  chosen との違いは？
 
 - **selected**：複数から基準に従って選ばれた、ややフォーマル
-- **[chosen](/word/chosen)**：選ばれた、特に意志や好みが強調される
+- **[chosen](/word/chosen/)**：選ばれた、特に意志や好みが強調される
 
 「selected」は客観的・基準的な選抜、「chosen」は主観的・個人的な選択を強調する場面で使い分けます。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞として「selected items（厳選商品）」や「sele
 
 ## 🧩 あわせて覚えたい
 
-- [optional](/word/optional)：選択できる、任意の
-- [appointed](/word/appointed)：任命された、指名された
+- [optional](/word/optional/)：選択できる、任意の
+- [appointed](/word/appointed/)：任命された、指名された
 
 ---
 
 ## 📖 できればこれも
 
-- [eligible](/word/eligible)：資格がある、適格な
-- [preferred](/word/preferred)：好ましい、優先される
+- [eligible](/word/eligible/)：資格がある、適格な
+- [preferred](/word/preferred/)：好ましい、優先される
 
 <!-- cvid: aid11_bid46 -->

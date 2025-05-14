@@ -97,7 +97,7 @@ TOEICでは「reliable」は人物やサービス、製品の評価を問う文�
 ## 🤔  trustworthy との違いは？
 
 - **reliable**：期待通りに行動する、頼りになる
-- **[trustworthy](/word/trustworthy)**：誠実で信用できる
+- **[trustworthy](/word/trustworthy/)**：誠実で信用できる
 
 「reliable」は実際の行動や結果に対して使い、「trustworthy」は人の誠実さや信用できる性格に重点を置きます。
 
@@ -105,14 +105,14 @@ TOEICでは「reliable」は人物やサービス、製品の評価を問う文�
 
 ## 🧩 あわせて覚えたい
 
-- [dependable](/word/dependable)：頼りになる
-- [unreliable](/word/unreliable)：信頼できない
+- [dependable](/word/dependable/)：頼りになる
+- [unreliable](/word/unreliable/)：信頼できない
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [responsible](/word/responsible)：責任感のある
+- [efficient](/word/efficient/)：効率的な
+- [responsible](/word/responsible/)：責任感のある
 
 <!-- cvid: aid15_bid18 -->

@@ -97,7 +97,7 @@ festivalは、TOEICの長文読解パートで地域イベントや観光案内�
 ## 🤔  event との違いは？
 
 - **festival**：特定の文化や伝統に基づく祝祭やお祭り
-- **[event](/word/event)**：出来事や行事全般（会議や試合なども含む）
+- **[event](/word/event/)**：出来事や行事全般（会議や試合なども含む）
 
 festivalは「お祭り」や「祝祭」といった楽しい集まりに限定されるのに対し、eventはもっと広く、あらゆる種類の出来事や行事を指します。
 
@@ -105,14 +105,14 @@ festivalは「お祭り」や「祝祭」といった楽しい集まりに限定
 
 ## 🧩 あわせて覚えたい
 
-- [celebration](/word/celebration)：祝賀、祝い
-- [parade](/word/parade)：パレード、行進
+- [celebration](/word/celebration/)：祝賀、祝い
+- [parade](/word/parade/)：パレード、行進
 
 ---
 
 ## 📖 できればこれも
 
-- [concert](/word/concert)：コンサート、音楽会
-- [ceremony](/word/ceremony)：式典、儀式
+- [concert](/word/concert/)：コンサート、音楽会
+- [ceremony](/word/ceremony/)：式典、儀式
 
 <!-- cvid: aid28_bid41 -->

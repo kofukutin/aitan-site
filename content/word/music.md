@@ -97,7 +97,7 @@ TOEICでは、カフェやホテル、イベントなど日常的な場面の会
 ## 🤔  song との違いは？
 
 - **music**：音楽全般や音のまとまりを指す広い意味
-- **[song](/word/song)**：歌詞がある「歌」や1曲ごとの作品
+- **[song](/word/song/)**：歌詞がある「歌」や1曲ごとの作品
 
 musicはジャンルや雰囲気など幅広く使い、songは「1曲」「歌」として具体的な作品を指します。
 
@@ -105,14 +105,14 @@ musicはジャンルや雰囲気など幅広く使い、songは「1曲」「歌�
 
 ## 🧩 あわせて覚えたい
 
-- [melody](/word/melody)：旋律、メロディー
-- [sound](/word/sound)：音、音響
+- [melody](/word/melody/)：旋律、メロディー
+- [sound](/word/sound/)：音、音響
 
 ---
 
 ## 📖 できればこれも
 
-- [movie](/word/movie)：映画
-- [art](/word/art)：芸術
+- [movie](/word/movie/)：映画
+- [art](/word/art/)：芸術
 
 <!-- cvid: aid38_bid04 -->

@@ -97,7 +97,7 @@ TOEICでは会議やビジネスの場面で「誰かを代表して出席する
 ## 🤔  presenting との違いは？
 
 - **representing**：誰かや組織を「代表して」行動すること
-- **[presenting](/word/presenting)**：何かを「提示する」「発表する」こと
+- **[presenting](/word/presenting/)**：何かを「提示する」「発表する」こと
 
 representingは「代理・代表」の意味が強く、presentingは「見せる・発表する」ことに重点があります。
 
@@ -105,14 +105,14 @@ representingは「代理・代表」の意味が強く、presentingは「見せ�
 
 ## 🧩 あわせて覚えたい
 
-- [delegate](/word/delegate)：代表者、代理人
-- [substitute](/word/substitute)：代理、代役
+- [delegate](/word/delegate/)：代表者、代理人
+- [substitute](/word/substitute/)：代理、代役
 
 ---
 
 ## 📖 できればこれも
 
-- [attending](/word/attending)：出席する
-- [participating](/word/participating)：参加する
+- [attending](/word/attending/)：出席する
+- [participating](/word/participating/)：参加する
 
 <!-- cvid: aid45_bid19 -->

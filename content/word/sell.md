@@ -97,7 +97,7 @@ TOEICではビジネスの売買や取引に関する会話で頻出します。
 ## 🤔  offer との違いは？
 
 - **sell**：実際に商品やサービスを「売る」ことを指します。
-- **[offer](/word/offer)**：商品やサービスを「提供する」「申し出る」ことを指します。
+- **[offer](/word/offer/)**：商品やサービスを「提供する」「申し出る」ことを指します。
 
 sellは「売買成立」を強調し、offerは「提案・提示」や「売る前の段階」を表します。
 
@@ -105,14 +105,14 @@ sellは「売買成立」を強調し、offerは「提案・提示」や「売�
 
 ## 🧩 あわせて覚えたい
 
-- [buy](/word/buy)：買う
-- [promote](/word/promote)：宣伝する、促進する
+- [buy](/word/buy/)：買う
+- [promote](/word/promote/)：宣伝する、促進する
 
 ---
 
 ## 📖 できればこれも
 
-- [purchase](/word/purchase)：購入する
-- [provide](/word/provide)：提供する
+- [purchase](/word/purchase/)：購入する
+- [provide](/word/provide/)：提供する
 
 <!-- cvid: aid01_bid30 -->

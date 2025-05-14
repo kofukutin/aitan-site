@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やマーケティング関連の長文で「
 ## 🤔  placement との違いは？
 
 - **positioning**：位置づけ、特に戦略的な配置や市場での立ち位置を強調
-- **[placement](/word/placement)**：単純な配置や設置、物理的な置き場所を指す
+- **[placement](/word/placement/)**：単純な配置や設置、物理的な置き場所を指す
 
 **positioning**は戦略やマーケティングなど抽象的・計画的な「位置づけ」に使い、**placement**は物理的な「配置」や「設置」に使います。
 
@@ -105,14 +105,14 @@ TOEICでは主にビジネス文書やマーケティング関連の長文で「
 
 ## 🧩 あわせて覚えたい
 
-- [arrangement](/word/arrangement)：配置、整頓
-- [strategy](/word/strategy)：戦略
+- [arrangement](/word/arrangement/)：配置、整頓
+- [strategy](/word/strategy/)：戦略
 
 ---
 
 ## 📖 できればこれも
 
-- [promotion](/word/promotion)：販売促進、昇進
-- [presentation](/word/presentation)：発表、プレゼンテーション
+- [promotion](/word/promotion/)：販売促進、昇進
+- [presentation](/word/presentation/)：発表、プレゼンテーション
 
 <!-- cvid: aid36_bid08 -->

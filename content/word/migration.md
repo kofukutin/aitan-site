@@ -97,7 +97,7 @@ migrationはTOEICの長文読解パートで、環境問題やIT分野の話題�
 ## 🤔  immigration との違いは？
 
 - **migration**：人や動物が場所を変える「移動」全般や現象を指す
-- **[immigration](/word/immigration)**：他国への「入国・移住」を特に指す
+- **[immigration](/word/immigration/)**：他国への「入国・移住」を特に指す
 
 migrationは広く「移動」や「渡り」を表し、immigrationは国境を越えて「入ってくる」移住に限定されます。
 
@@ -105,14 +105,14 @@ migrationは広く「移動」や「渡り」を表し、immigrationは国境を
 
 ## 🧩 あわせて覚えたい
 
-- [emigration](/word/emigration)：他国への移住（出ていくこと）
-- [relocation](/word/relocation)：（仕事や生活の）移転、転居
+- [emigration](/word/emigration/)：他国への移住（出ていくこと）
+- [relocation](/word/relocation/)：（仕事や生活の）移転、転居
 
 ---
 
 ## 📖 できればこれも
 
-- [habitat](/word/habitat)：生息地
-- [population](/word/population)：人口、個体数
+- [habitat](/word/habitat/)：生息地
+- [population](/word/population/)：人口、個体数
 
 <!-- cvid: aid26_bid47 -->

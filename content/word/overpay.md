@@ -97,7 +97,7 @@ TOEICでは、支払いに関する文脈や、過払い・未払いの状況説
 ## 🤔  pay との違いは？
 
 - **overpay**：必要以上に支払う、過払いする
-- **[pay](/word/pay)**：支払う（一般的な意味）
+- **[pay](/word/pay/)**：支払う（一般的な意味）
 
 「overpay」は「払いすぎる」という否定的なニュアンスがあり、通常の「支払う（pay）」とは異なり、金額が多すぎる場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、支払いに関する文脈や、過払い・未払いの状況説
 
 ## 🧩 あわせて覚えたい
 
-- [underpay](/word/underpay)：支払いが足りない、過小払いする
-- [refund](/word/refund)：返金、払い戻し
+- [underpay](/word/underpay/)：支払いが足りない、過小払いする
+- [refund](/word/refund/)：返金、払い戻し
 
 ---
 
 ## 📖 できればこれも
 
-- [charge](/word/charge)：請求する
-- [cost](/word/cost)：費用がかかる
+- [charge](/word/charge/)：請求する
+- [cost](/word/cost/)：費用がかかる
 
 <!-- cvid: aid35_bid24 -->

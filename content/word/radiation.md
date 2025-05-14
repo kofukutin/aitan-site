@@ -97,7 +97,7 @@ TOEICでは、科学技術や環境問題に関する長文や説明文で登場
 ## 🤔  emission との違いは？
 
 - **radiation**：エネルギーや粒子が空間に放出される現象やそのもの（特に放射線や熱、光など）。
-- **[emission](/word/emission)**：ガスや煙、光などが外部に排出・放出されること（特に環境問題や工場排出物で使う）。
+- **[emission](/word/emission/)**：ガスや煙、光などが外部に排出・放出されること（特に環境問題や工場排出物で使う）。
 
 radiationは主にエネルギーや放射線の拡散を指し、emissionは物質やガスなどの排出に使われます。
 
@@ -105,14 +105,14 @@ radiationは主にエネルギーや放射線の拡散を指し、emissionは物
 
 ## 🧩 あわせて覚えたい
 
-- [contamination](/word/contamination)：汚染
-- [exposure](/word/exposure)：被曝、さらされること
+- [contamination](/word/contamination/)：汚染
+- [exposure](/word/exposure/)：被曝、さらされること
 
 ---
 
 ## 📖 できればこれも
 
-- [atom](/word/atom)：原子
-- [energy](/word/energy)：エネルギー
+- [atom](/word/atom/)：原子
+- [energy](/word/energy/)：エネルギー
 
 <!-- cvid: aid22_bid18 -->

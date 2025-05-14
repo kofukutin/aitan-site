@@ -97,7 +97,7 @@ TOEICでは、物や設備の説明、指示、手順の中で「covering」が�
 ## 🤔  coating との違いは？
 
 - **covering**：物理的に何かを覆うもの全般（布・紙・カバーなど）
-- **[coating](/word/coating)**：主に表面に塗る薄い層（塗料・コーティング剤など）
+- **[coating](/word/coating/)**：主に表面に塗る薄い層（塗料・コーティング剤など）
 
 coveringは「覆うもの」全般に使えますが、coatingは「塗る」ことでできる薄い層に限定されることが多いです。
 
@@ -105,14 +105,14 @@ coveringは「覆うもの」全般に使えますが、coatingは「塗る」�
 
 ## 🧩 あわせて覚えたい
 
-- [protection](/word/protection)：保護
-- [layer](/word/layer)：層
+- [protection](/word/protection/)：保護
+- [layer](/word/layer/)：層
 
 ---
 
 ## 📖 できればこれも
 
-- [surface](/word/surface)：表面
-- [wrap](/word/wrap)：包む
+- [surface](/word/surface/)：表面
+- [wrap](/word/wrap/)：包む
 
 <!-- cvid: aid20_bid31 -->

@@ -107,13 +107,13 @@ freelanceは「自由契約で働く人」に特化し、self-employedは「自�
 
 ## 🧩 あわせて覚えたい
 
-- [contractor](/word/contractor)：請負業者、契約社員
-- [gig](/word/gig)：単発の仕事、短期の仕事
+- [contractor](/word/contractor/)：請負業者、契約社員
+- [gig](/word/gig/)：単発の仕事、短期の仕事
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client)：依頼主、顧客
-- [project](/word/project)：プロジェクト、計画
+- [client](/word/client/)：依頼主、顧客
+- [project](/word/project/)：プロジェクト、計画
 <!-- cvid: aid29_bid34 -->

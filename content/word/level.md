@@ -97,7 +97,7 @@ TOEICでは「skill level（スキルレベル）」や「service level（サー
 ## 🤔  grade との違いは？
 
 - **level**：能力や進捗などの「水準」「段階」を幅広く表す
-- **[grade](/word/grade)**：主に「成績」「評価点」など、点数や評価の意味が強い
+- **[grade](/word/grade/)**：主に「成績」「評価点」など、点数や評価の意味が強い
 
 「level」は能力や進行度の段階を示し、「grade」はテストや評価の点数・成績を指す場面で使い分けます。
 
@@ -105,14 +105,14 @@ TOEICでは「skill level（スキルレベル）」や「service level（サー
 
 ## 🧩 あわせて覚えたい
 
-- [stage](/word/stage)：段階、ステージ
-- [rank](/word/rank)：順位、階級
+- [stage](/word/stage/)：段階、ステージ
+- [rank](/word/rank/)：順位、階級
 
 ---
 
 ## 📖 できればこれも
 
-- [amount](/word/amount)：量、総額
-- [standard](/word/standard)：基準、標準
+- [amount](/word/amount/)：量、総額
+- [standard](/word/standard/)：基準、標準
 
 <!-- cvid: aid32_bid03 -->

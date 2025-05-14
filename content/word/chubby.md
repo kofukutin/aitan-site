@@ -97,7 +97,7 @@ chubbyはTOEICでは頻出単語ではありませんが、人物描写やキャ
 ## 🤔  plump との違いは？
 
 - **chubby**：主に子どもや動物、親しみを込めて「ぽっちゃり」「ふっくら」と表現するカジュアルな言葉。
-- **[plump](/word/plump)**：ややフォーマルで、健康的なふくらみや丸みを表す。
+- **[plump](/word/plump/)**：ややフォーマルで、健康的なふくらみや丸みを表す。
 
 chubbyは可愛らしさや親しみを込めて使うのに対し、plumpは健康的・上品な丸みを表現する時に使われます。
 
@@ -105,14 +105,14 @@ chubbyは可愛らしさや親しみを込めて使うのに対し、plumpは健
 
 ## 🧩 あわせて覚えたい
 
-- [slim](/word/slim)：ほっそりした
-- [fat](/word/fat)：太った
+- [slim](/word/slim/)：ほっそりした
+- [fat](/word/fat/)：太った
 
 ---
 
 ## 📖 できればこれも
 
-- [cute](/word/cute)：かわいい
-- [round](/word/round)：丸い
+- [cute](/word/cute/)：かわいい
+- [round](/word/round/)：丸い
 
 <!-- cvid: aid01_bid09 -->

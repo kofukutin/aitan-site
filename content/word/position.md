@@ -97,7 +97,7 @@ TOEICでは「職位」や「立場」、「位置」などの意味で頻出し
 ## 🤔  location との違いは？
 
 - **position**：物理的な「位置」だけでなく、組織内の「職位」や「立場」も表す
-- **[location](/word/location)**：物や人が存在する「場所」「所在地」を表す
+- **[location](/word/location/)**：物や人が存在する「場所」「所在地」を表す
 
 positionは抽象的な「役割」や「地位」にも使えますが、locationは具体的な「場所」だけに使います。
 
@@ -105,14 +105,14 @@ positionは抽象的な「役割」や「地位」にも使えますが、locati
 
 ## 🧩 あわせて覚えたい
 
-- [role](/word/role)：役割、役目
-- [status](/word/status)：地位、身分
+- [role](/word/role/)：役割、役目
+- [status](/word/status/)：地位、身分
 
 ---
 
 ## 📖 できればこれも
 
-- [department](/word/department)：部門、部署
-- [office](/word/office)：事務所、オフィス
+- [department](/word/department/)：部門、部署
+- [office](/word/office/)：事務所、オフィス
 
 <!-- cvid: aid20_bid32 -->

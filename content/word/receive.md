@@ -97,7 +97,7 @@ TOEICではメールや書類、荷物の「受け取り」に関する会話や
 ## 🤔  accept との違いは？
 
 - **receive**：物理的・形式的に「受け取る」ことを表す
-- **[accept](/word/accept)**：受け取ったものを「受け入れる」「承諾する」ニュアンス
+- **[accept](/word/accept/)**：受け取ったものを「受け入れる」「承諾する」ニュアンス
 
 receiveは単に物や情報を受け取る場合に使い、acceptはそれを認めたり同意したりする場合に使います。
 
@@ -105,14 +105,14 @@ receiveは単に物や情報を受け取る場合に使い、acceptはそれを�
 
 ## 🧩 あわせて覚えたい
 
-- [obtain](/word/obtain)：（努力して）手に入れる
-- [deliver](/word/deliver)：配達する、届ける
+- [obtain](/word/obtain/)：（努力して）手に入れる
+- [deliver](/word/deliver/)：配達する、届ける
 
 ---
 
 ## 📖 できればこれも
 
-- [send](/word/send)：送る
-- [reply](/word/reply)：返事をする
+- [send](/word/send/)：送る
+- [reply](/word/reply/)：返事をする
 
 <!-- cvid: aid42_bid00 -->

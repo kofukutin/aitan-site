@@ -97,7 +97,7 @@ TOEICでは求人広告や人事関連の長文、配置や配属に関する説
 ## 🤔  assignment との違いは？
 
 - **placement**：人や物を適切な場所や役割に配置・配属すること
-- **[assignment](/word/assignment)**：任務や課題、割り当てられた仕事
+- **[assignment](/word/assignment/)**：任務や課題、割り当てられた仕事
 
 placementは「どこに置くか・配属するか」に重点があり、assignmentは「何をするか・どんな仕事か」に重点があります。
 
@@ -105,14 +105,14 @@ placementは「どこに置くか・配属するか」に重点があり、assig
 
 ## 🧩 あわせて覚えたい
 
-- [allocation](/word/allocation)：割り当て、配分
-- [arrangement](/word/arrangement)：配置、取り決め
+- [allocation](/word/allocation/)：割り当て、配分
+- [arrangement](/word/arrangement/)：配置、取り決め
 
 ---
 
 ## 📖 できればこれも
 
-- [position](/word/position)：職、地位、位置
-- [appointment](/word/appointment)：任命、役職
+- [position](/word/position/)：職、地位、位置
+- [appointment](/word/appointment/)：任命、役職
 
 <!-- cvid: aid47_bid05 -->

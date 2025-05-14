@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やプレゼン資料、契約書などで「rep
 ## 🤔  description との違いは？
 
 - **representation**：何かを図や絵、行動などで「表現」したもの、または「代理・代表」すること
-- **[description](/word/description)**：言葉で「説明」や「描写」すること
+- **[description](/word/description/)**：言葉で「説明」や「描写」すること
 
 representationは視覚的・象徴的な表現や代理を指し、descriptionは言葉による説明や描写に使います。
 
@@ -105,14 +105,14 @@ representationは視覚的・象徴的な表現や代理を指し、description�
 
 ## 🧩 あわせて覚えたい
 
-- [depiction](/word/depiction)：描写、描画
-- [symbol](/word/symbol)：象徴、記号
+- [depiction](/word/depiction/)：描写、描画
+- [symbol](/word/symbol/)：象徴、記号
 
 ---
 
 ## 📖 できればこれも
 
-- [presentation](/word/presentation)：発表、提示
-- [illustration](/word/illustration)：イラスト、図解
+- [presentation](/word/presentation/)：発表、提示
+- [illustration](/word/illustration/)：イラスト、図解
 
 <!-- cvid: aid18_bid34 -->

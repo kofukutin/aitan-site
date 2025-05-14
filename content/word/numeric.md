@@ -97,7 +97,7 @@ numericはITやビジネス文書で「数値の」として出題されるこ�
 ## 🤔  numerical との違いは？
 
 - **numeric**：数字そのもの、または数字で表されたものを直接指す
-- **[numerical](/word/numerical)**：数値に関する、数値で表現された（より抽象的・広範囲）
+- **[numerical](/word/numerical/)**：数値に関する、数値で表現された（より抽象的・広範囲）
 
 numericは「数字のパスワード」など具体的な数字を指すときに使い、numericalは「数値的な分析」など抽象的・理論的な場面で使われます。
 
@@ -105,14 +105,14 @@ numericは「数字のパスワード」など具体的な数字を指すとき�
 
 ## 🧩 あわせて覚えたい
 
-- [digital](/word/digital)：デジタルの、数字で表現された
-- [alphabetic](/word/alphabetic)：アルファベットの、文字の
+- [digital](/word/digital/)：デジタルの、数字で表現された
+- [alphabetic](/word/alphabetic/)：アルファベットの、文字の
 
 ---
 
 ## 📖 できればこれも
 
-- [figure](/word/figure)：数字、図
-- [calculate](/word/calculate)：計算する
+- [figure](/word/figure/)：数字、図
+- [calculate](/word/calculate/)：計算する
 
 <!-- cvid: aid22_bid28 -->

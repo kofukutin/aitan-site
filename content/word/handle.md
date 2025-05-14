@@ -97,7 +97,7 @@ handleはTOEICの会話パートで「対応する」「処理する」という
 ## 🤔  deal との違いは？
 
 - **handle**：問題や仕事を「うまく処理する」「対応する」という意味で、やや幅広く使える。
-- **[deal](/word/deal)**：困難や課題に「対処する」「取り組む」というニュアンスが強い。
+- **[deal](/word/deal/)**：困難や課題に「対処する」「取り組む」というニュアンスが強い。
 
 handleは日常的な業務や物事の処理全般に使われ、dealは特に難しい問題や交渉などに使われることが多いです。
 
@@ -105,14 +105,14 @@ handleは日常的な業務や物事の処理全般に使われ、dealは特に�
 
 ## 🧩 あわせて覚えたい
 
-- [manage](/word/manage)：管理する、うまくやる
-- [process](/word/process)：処理する、手続きを進める
+- [manage](/word/manage/)：管理する、うまくやる
+- [process](/word/process/)：処理する、手続きを進める
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange)：手配する、整える
-- [organize](/word/organize)：整理する、まとめる
+- [arrange](/word/arrange/)：手配する、整える
+- [organize](/word/organize/)：整理する、まとめる
 
 <!-- cvid: aid44_bid25 -->

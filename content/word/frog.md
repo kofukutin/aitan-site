@@ -97,7 +97,7 @@ TOEICでは自然や動物に関する長文や説明文で登場することが
 ## 🤔  toad との違いは？
 
 - **frog**：一般的に体が細く、皮膚が滑らかなカエル
-- **[toad](/word/toad)**：体がずんぐりしていて、皮膚がざらざらしたヒキガエル
+- **[toad](/word/toad/)**：体がずんぐりしていて、皮膚がざらざらしたヒキガエル
 
 frogは水辺に多く、ジャンプ力が高いカエルを指し、toadは陸上に多く皮膚が乾燥しているヒキガエルを指します。
 
@@ -105,14 +105,14 @@ frogは水辺に多く、ジャンプ力が高いカエルを指し、toadは陸
 
 ## 🧩 あわせて覚えたい
 
-- [tadpole](/word/tadpole)：オタマジャクシ
-- [reptile](/word/reptile)：爬虫類
+- [tadpole](/word/tadpole/)：オタマジャクシ
+- [reptile](/word/reptile/)：爬虫類
 
 ---
 
 ## 📖 できればこれも
 
-- [snake](/word/snake)：ヘビ
-- [rabbit](/word/rabbit)：ウサギ
+- [snake](/word/snake/)：ヘビ
+- [rabbit](/word/rabbit/)：ウサギ
 
 <!-- cvid: aid16_bid35 -->

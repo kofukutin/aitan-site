@@ -97,7 +97,7 @@ TOEICでは会議や業務連絡の場面で「change」がよく登場します
 ## 🤔  alter との違いは？
 
 - **change**：全体的な「変化」や「変更」を幅広く表す。
-- **[alter](/word/alter)**：部分的・細かな「修正」や「手直し」を表す。
+- **[alter](/word/alter/)**：部分的・細かな「修正」や「手直し」を表す。
 
 changeは大きな変化から小さな変更まで幅広く使えますが、alterは「一部を少し変える」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ changeは大きな変化から小さな変更まで幅広く使えますが、al
 
 ## 🧩 あわせて覚えたい
 
-- [modify](/word/modify)：修正する、変更する
-- [transition](/word/transition)：移行、推移
+- [modify](/word/modify/)：修正する、変更する
+- [transition](/word/transition/)：移行、推移
 
 ---
 
 ## 📖 できればこれも
 
-- [shift](/word/shift)：移す、変える
-- [adjust](/word/adjust)：調整する、適応させる
+- [shift](/word/shift/)：移す、変える
+- [adjust](/word/adjust/)：調整する、適応させる
 
 <!-- cvid: aid39_bid43 -->

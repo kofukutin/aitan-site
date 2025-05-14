@@ -98,7 +98,7 @@ TOEICでは「数える」「重要とみなす」などの意味で、文法や
 ## 🤔  calculate との違いは？
 
 - **count**：一つ一つ順に数える、または単純な合計を出す
-- **[calculate](/word/calculate)**：計算式や方法を使って数値を求める
+- **[calculate](/word/calculate/)**：計算式や方法を使って数値を求める
 
 countは「1,2,3…」と順に数えるイメージ、calculateは計算式や複雑な計算を行うときに使います。
 
@@ -106,14 +106,14 @@ countは「1,2,3…」と順に数えるイメージ、calculateは計算式や�
 
 ## 🧩 あわせて覚えたい
 
-- [include](/word/include)：含める
-- [estimate](/word/estimate)：見積もる
+- [include](/word/include/)：含める
+- [estimate](/word/estimate/)：見積もる
 
 ---
 
 ## 📖 できればこれも
 
-- [check](/word/check)：確認する
-- [list](/word/list)：一覧にする
+- [check](/word/check/)：確認する
+- [list](/word/list/)：一覧にする
 
 <!-- cvid: aid44_bid45 -->

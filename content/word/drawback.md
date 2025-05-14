@@ -97,7 +97,7 @@ drawbackはTOEICの長文読解パートで、提案や計画の「欠点」や�
 ## 🤔  disadvantage との違いは？
 
 - **drawback**：主に計画や物事の「具体的な欠点・障害」をやや中立的に指す
-- **[disadvantage](/word/disadvantage)**：より広く「不利な点・弱点」を指し、競争や比較の場面で使われやすい
+- **[disadvantage](/word/disadvantage/)**：より広く「不利な点・弱点」を指し、競争や比較の場面で使われやすい
 
 drawbackは「何かの良い面とセットで出てくる具体的な難点」、disadvantageは「他と比べて劣る点」や「不利な状況」を強調する時に使います。
 
@@ -105,14 +105,14 @@ drawbackは「何かの良い面とセットで出てくる具体的な難点」
 
 ## 🧩 あわせて覚えたい
 
-- [benefit](/word/benefit)：利益、利点
-- [obstacle](/word/obstacle)：障害、妨げ
+- [benefit](/word/benefit/)：利益、利点
+- [obstacle](/word/obstacle/)：障害、妨げ
 
 ---
 
 ## 📖 できればこれも
 
-- [advantage](/word/advantage)：有利な点、利点
-- [issue](/word/issue)：問題、課題
+- [advantage](/word/advantage/)：有利な点、利点
+- [issue](/word/issue/)：問題、課題
 
 <!-- cvid: aid05_bid06 -->

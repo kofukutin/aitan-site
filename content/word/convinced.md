@@ -97,7 +97,7 @@ TOEICでは、be convinced that や be convinced of などの形で、確信や�
 ## 🤔  confident との違いは？
 
 - **convinced**：何かが本当だと強く信じている、納得している
-- **[confident](/word/confident)**：自分の能力や成功を信じている、自信がある
+- **[confident](/word/confident/)**：自分の能力や成功を信じている、自信がある
 
 convincedは「事実や情報について納得している」時に使い、confidentは「自分自身や自分の行動に自信がある」時に使います。
 
@@ -105,14 +105,14 @@ convincedは「事実や情報について納得している」時に使い、co
 
 ## 🧩 あわせて覚えたい
 
-- [doubtful](/word/doubtful)：疑わしい、確信が持てない
-- [persuaded](/word/persuaded)：説得された、納得した
+- [doubtful](/word/doubtful/)：疑わしい、確信が持てない
+- [persuaded](/word/persuaded/)：説得された、納得した
 
 ---
 
 ## 📖 できればこれも
 
-- [certain](/word/certain)：確信している、確かな
-- [assured](/word/assured)：自信がある、保証された
+- [certain](/word/certain/)：確信している、確かな
+- [assured](/word/assured/)：自信がある、保証された
 
 <!-- cvid: aid35_bid45 -->

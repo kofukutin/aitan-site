@@ -93,7 +93,7 @@ TOEICでは、電話やメール、アナウンスなどで「まもなく」「
 ## 🤔  soon との違いは？
 
 - **shortly**：まもなく（ややフォーマル、ビジネス文書やアナウンスで多用）
-- **[soon](/word/soon)**：まもなく（カジュアル、日常会話で幅広く使う）
+- **[soon](/word/soon/)**：まもなく（カジュアル、日常会話で幅広く使う）
 
 「shortly」はフォーマルな響きがあり、ビジネスや公式な場面で使われやすいのに対し、「soon」はよりカジュアルで日常的な表現です。
 
@@ -101,14 +101,14 @@ TOEICでは、電話やメール、アナウンスなどで「まもなく」「
 
 ## 🧩 あわせて覚えたい
 
-- [immediately](/word/immediately)：すぐに、即座に
-- [briefly](/word/briefly)：手短に、簡潔に
+- [immediately](/word/immediately/)：すぐに、即座に
+- [briefly](/word/briefly/)：手短に、簡潔に
 
 ---
 
 ## 📖 できればこれも
 
-- [currently](/word/currently)：現在、今のところ
-- [recently](/word/recently)：最近、近ごろ
+- [currently](/word/currently/)：現在、今のところ
+- [recently](/word/recently/)：最近、近ごろ
 
 <!-- cvid: aid40_bid40 -->

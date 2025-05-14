@@ -97,7 +97,7 @@ TOEICでは、会社や団体の役員選挙、政治関連の記事やお知ら
 ## 🤔  selection との違いは？
 
 - **election**：投票など公式な手続きで人を選ぶ「選挙」
-- **[selection](/word/selection)**：物や人を自由に「選択」すること
+- **[selection](/word/selection/)**：物や人を自由に「選択」すること
 
 electionは主に投票などの公式な選出に使い、selectionは広く一般的な「選ぶ」場面で使います。
 
@@ -105,14 +105,14 @@ electionは主に投票などの公式な選出に使い、selectionは広く一
 
 ## 🧩 あわせて覚えたい
 
-- [vote](/word/vote)：投票する、投票
-- [appointment](/word/appointment)：任命、指名
+- [vote](/word/vote/)：投票する、投票
+- [appointment](/word/appointment/)：任命、指名
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/word/candidate)：候補者
-- [campaign](/word/campaign)：選挙運動、キャンペーン
+- [candidate](/word/candidate/)：候補者
+- [campaign](/word/campaign/)：選挙運動、キャンペーン
 
 <!-- cvid: aid02_bid32 -->

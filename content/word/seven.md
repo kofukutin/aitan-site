@@ -97,7 +97,7 @@ TOEICでは主にPart 1やリスニングで、数や時刻を表す場面でよ
 ## 🤔  several との違いは？
 
 - **seven**：正確に「7つ」という数を表す
-- **[several](/word/several)**：おおよそ「いくつか」「数個」という不定の数を表す
+- **[several](/word/several/)**：おおよそ「いくつか」「数個」という不定の数を表す
 
 sevenは具体的な数字、severalははっきりしない複数を指す点が異なります。
 
@@ -105,14 +105,14 @@ sevenは具体的な数字、severalははっきりしない複数を指す点�
 
 ## 🧩 あわせて覚えたい
 
-- [eight](/word/eight)：8、八
-- [seventh](/word/seventh)：7番目
+- [eight](/word/eight/)：8、八
+- [seventh](/word/seventh/)：7番目
 
 ---
 
 ## 📖 できればこれも
 
-- [six](/word/six)：6、六
-- [twelve](/word/twelve)：12、十二
+- [six](/word/six/)：6、六
+- [twelve](/word/twelve/)：12、十二
 
 <!-- cvid: aid18_bid12 -->

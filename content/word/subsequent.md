@@ -97,7 +97,7 @@ TOEICでは主にPart 7の説明文やビジネスメールで、「その後の
 ## 🤔  following との違いは？
 
 - **subsequent**：何かの出来事や時点の「その後に続く」ことを、ややフォーマルに表現
-- **[following](/word/following)**：直後に続くものや人を指し、ややカジュアルで幅広く使える
+- **[following](/word/following/)**：直後に続くものや人を指し、ややカジュアルで幅広く使える
 
 「subsequent」は時系列や論理的な流れを強調し、フォーマルな文書で使われやすいのに対し、「following」は「次の」「以下の」といった意味で日常的にも使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 7の説明文やビジネスメールで、「その後の
 
 ## 🧩 あわせて覚えたい
 
-- [prior](/word/prior)：前の、以前の
-- [consequent](/word/consequent)：結果として生じる
+- [prior](/word/prior/)：前の、以前の
+- [consequent](/word/consequent/)：結果として生じる
 
 ---
 
 ## 📖 できればこれも
 
-- [previous](/word/previous)：前の、直前の
-- [consecutive](/word/consecutive)：連続した
+- [previous](/word/previous/)：前の、直前の
+- [consecutive](/word/consecutive/)：連続した
 
 <!-- cvid: aid34_bid02 -->

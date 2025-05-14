@@ -97,7 +97,7 @@ TOEICでは医療や健康に関する長文や案内文で登場しやすい単
 ## 🤔  recipe との違いは？
 
 - **prescription**：医師が出す「処方箋」や「処方」という意味で、医療現場で使われるフォーマルな単語。
-- **[recipe](/word/recipe)**：料理や飲み物の「レシピ」「作り方」という意味で、日常的・カジュアルな場面で使われます。
+- **[recipe](/word/recipe/)**：料理や飲み物の「レシピ」「作り方」という意味で、日常的・カジュアルな場面で使われます。
 
 prescriptionは医療の指示、recipeは料理の手順と、使う場面がまったく異なります。
 
@@ -105,14 +105,14 @@ prescriptionは医療の指示、recipeは料理の手順と、使う場面が�
 
 ## 🧩 あわせて覚えたい
 
-- [medication](/word/medication)：薬、投薬
-- [diagnosis](/word/diagnosis)：診断
+- [medication](/word/medication/)：薬、投薬
+- [diagnosis](/word/diagnosis/)：診断
 
 ---
 
 ## 📖 できればこれも
 
-- [appointment](/word/appointment)：予約、診察の予約
-- [treatment](/word/treatment)：治療
+- [appointment](/word/appointment/)：予約、診察の予約
+- [treatment](/word/treatment/)：治療
 
 <!-- cvid: aid26_bid30 -->

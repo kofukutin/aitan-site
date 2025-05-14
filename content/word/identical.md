@@ -97,7 +97,7 @@ TOEICでは、選択肢の中で「同一」「全く同じ」という意味を
 ## 🤔  similar との違いは？
 
 - **identical**：完全に同じ、一致している
-- **[similar](/word/similar)**：似ているが、完全に同じではない
+- **[similar](/word/similar/)**：似ているが、完全に同じではない
 
 identicalは「区別がつかないほど同じ」、similarは「部分的に似ているが違いもある」ときに使います。
 
@@ -105,14 +105,14 @@ identicalは「区別がつかないほど同じ」、similarは「部分的に�
 
 ## 🧩 あわせて覚えたい
 
-- [different](/word/different)：異なる、違う
-- [exact](/word/exact)：正確な、ぴったりの
+- [different](/word/different/)：異なる、違う
+- [exact](/word/exact/)：正確な、ぴったりの
 
 ---
 
 ## 📖 できればこれも
 
-- [precise](/word/precise)：正確な、精密な
-- [equal](/word/equal)：等しい、同等の
+- [precise](/word/precise/)：正確な、精密な
+- [equal](/word/equal/)：等しい、同等の
 
 <!-- cvid: aid32_bid21 -->

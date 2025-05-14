@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やメール、指示文などで「発送す
 ## 🤔  send との違いは？
 
 - **dispatch**：迅速かつ公式に「派遣する」「発送する」など、ややフォーマルな響き。
-- **[send](/word/send)**：一般的に「送る」。日常的で幅広い場面で使える。
+- **[send](/word/send/)**：一般的に「送る」。日常的で幅広い場面で使える。
 
 dispatchはビジネスや公的な場面で「急いで送る」「任務で派遣する」など、公式なニュアンスが強いのが特徴です。
 
@@ -105,14 +105,14 @@ dispatchはビジネスや公的な場面で「急いで送る」「任務で派
 
 ## 🧩 あわせて覚えたい
 
-- [deliver](/word/deliver)：配達する、届ける
-- [assign](/word/assign)：割り当てる、任命する
+- [deliver](/word/deliver/)：配達する、届ける
+- [assign](/word/assign/)：割り当てる、任命する
 
 ---
 
 ## 📖 できればこれも
 
-- [notify](/word/notify)：通知する
-- [transfer](/word/transfer)：移す、転送する
+- [notify](/word/notify/)：通知する
+- [transfer](/word/transfer/)：移す、転送する
 
 <!-- cvid: aid45_bid06 -->

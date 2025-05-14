@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、動物や実験の場面で登場す
 ## 🤔  mouse との違いは？
 
 - **rat**：大型のネズミを指し、都市部や実験動物としてよく使われます。
-- **[mouse](/word/mouse)**：小型のネズミを指し、家庭や自然の中でよく見られます。
+- **[mouse](/word/mouse/)**：小型のネズミを指し、家庭や自然の中でよく見られます。
 
 ratはmouseよりも大きく、見た目も異なります。mouseは可愛らしい印象、ratはやや不潔・害獣のイメージが強いです。
 
@@ -105,14 +105,14 @@ ratはmouseよりも大きく、見た目も異なります。mouseは可愛ら�
 
 ## 🧩 あわせて覚えたい
 
-- [hamster](/word/hamster)：ハムスター（小型のげっ歯類）
-- [pest](/word/pest)：害虫・害獣
+- [hamster](/word/hamster/)：ハムスター（小型のげっ歯類）
+- [pest](/word/pest/)：害虫・害獣
 
 ---
 
 ## 📖 できればこれも
 
-- [cat](/word/cat)：ネコ
-- [rabbit](/word/rabbit)：ウサギ
+- [cat](/word/cat/)：ネコ
+- [rabbit](/word/rabbit/)：ウサギ
 
 <!-- cvid: aid02_bid13 -->

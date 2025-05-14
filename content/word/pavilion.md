@@ -97,7 +97,7 @@ The company set up a pavilion at the international trade fair.
 ## 🤔  hall との違いは？
 
 - **pavilion**：公園や展示会場などの仮設・軽量な建物や休憩所
-- **[hall](/word/hall)**：大きな屋内空間や集会所、講堂など恒久的な建物
+- **[hall](/word/hall/)**：大きな屋内空間や集会所、講堂など恒久的な建物
 
 pavilionは一時的・屋外的な建物に使われ、hallは恒久的な大きな建物や室内空間に使われます。
 
@@ -105,14 +105,14 @@ pavilionは一時的・屋外的な建物に使われ、hallは恒久的な大�
 
 ## 🧩 あわせて覚えたい
 
-- [booth](/word/booth)：小さな展示ブース、屋台
-- [tent](/word/tent)：テント、仮設の布製建物
+- [booth](/word/booth/)：小さな展示ブース、屋台
+- [tent](/word/tent/)：テント、仮設の布製建物
 
 ---
 
 ## 📖 できればこれも
 
-- [exhibit](/word/exhibit)：展示、展示品
-- [structure](/word/structure)：構造物、建造物
+- [exhibit](/word/exhibit/)：展示、展示品
+- [structure](/word/structure/)：構造物、建造物
 
 <!-- cvid: aid04_bid32 -->

@@ -97,7 +97,7 @@ TOEICでは主に名詞として「欠点」「弱点」の意味で出題され
 ## 🤔  weakness との違いは？
 
 - **failing**：性格や能力などの「欠点」「弱点」をややフォーマルに表現
-- **[weakness](/word/weakness)**：一般的な「弱さ」「弱点」。身体的・精神的・物理的な弱さ全般
+- **[weakness](/word/weakness/)**：一般的な「弱さ」「弱点」。身体的・精神的・物理的な弱さ全般
 
 failingは特に性格や行動のマイナス面を指すことが多く、weaknessはより広い意味で使われます。
 
@@ -105,14 +105,14 @@ failingは特に性格や行動のマイナス面を指すことが多く、weak
 
 ## 🧩 あわせて覚えたい
 
-- [strength](/word/strength)：強み、長所
-- [defect](/word/defect)：欠陥、不具合
+- [strength](/word/strength/)：強み、長所
+- [defect](/word/defect/)：欠陥、不具合
 
 ---
 
 ## 📖 できればこれも
 
-- [shortcoming](/word/shortcoming)：短所、至らない点
-- [error](/word/error)：誤り、ミス
+- [shortcoming](/word/shortcoming/)：短所、至らない点
+- [error](/word/error/)：誤り、ミス
 
 <!-- cvid: aid47_bid41 -->

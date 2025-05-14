@@ -97,7 +97,7 @@ TOEICでは、説明文やメール文中で「難題」「課題」として登
 ## 🤔  riddle との違いは？
 
 - **puzzle**：頭を使って解く遊びや難問全般を指す
-- **[riddle](/word/riddle)**：言葉遊び的な「なぞなぞ」や、言葉で出される謎
+- **[riddle](/word/riddle/)**：言葉遊び的な「なぞなぞ」や、言葉で出される謎
 
 puzzleは物理的なパズルや抽象的な難問にも使えますが、riddleは主に言葉で出されるなぞなぞや謎かけに使われます。
 
@@ -105,14 +105,14 @@ puzzleは物理的なパズルや抽象的な難問にも使えますが、riddl
 
 ## 🧩 あわせて覚えたい
 
-- [problem](/word/problem)：問題、課題
-- [solution](/word/solution)：解決策
+- [problem](/word/problem/)：問題、課題
+- [solution](/word/solution/)：解決策
 
 ---
 
 ## 📖 できればこれも
 
-- [quiz](/word/quiz)：クイズ、問題
-- [challenge](/word/challenge)：挑戦、難題
+- [quiz](/word/quiz/)：クイズ、問題
+- [challenge](/word/challenge/)：挑戦、難題
 
 <!-- cvid: aid03_bid40 -->

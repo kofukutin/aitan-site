@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、服装や人物の説明とし
 ## 🤔  dress との違いは？
 
 - **skirt**：腰から下だけを覆う衣服
-- **[dress](/word/dress)**：上半身と下半身を一体で覆うワンピース型の衣服
+- **[dress](/word/dress/)**：上半身と下半身を一体で覆うワンピース型の衣服
 
 skirtは下半身のみ、dressは全身を覆う衣服で、着用シーンやデザインが異なります。
 
@@ -105,14 +105,14 @@ skirtは下半身のみ、dressは全身を覆う衣服で、着用シーンや�
 
 ## 🧩 あわせて覚えたい
 
-- [pants](/word/pants)：ズボン
-- [blouse](/word/blouse)：女性用のブラウス
+- [pants](/word/pants/)：ズボン
+- [blouse](/word/blouse/)：女性用のブラウス
 
 ---
 
 ## 📖 できればこれも
 
-- [shirt](/word/shirt)：シャツ
-- [jacket](/word/jacket)：ジャケット
+- [shirt](/word/shirt/)：シャツ
+- [jacket](/word/jacket/)：ジャケット
 
 <!-- cvid: aid01_bid24 -->

@@ -97,7 +97,7 @@ TOEICでは主にビジネスや技術関連の文脈で出題されます。名
 ## 🤔  innovation との違いは？
 
 - **invention**：まったく新しいものや技術を生み出すこと、またはその発明品。
-- **[innovation](/word/innovation)**：既存のものに新しい工夫や改良を加えること、革新。
+- **[innovation](/word/innovation/)**：既存のものに新しい工夫や改良を加えること、革新。
 
 inventionは「ゼロから生み出す」ニュアンスが強く、innovationは「改良・刷新」に重点があります。
 
@@ -105,15 +105,15 @@ inventionは「ゼロから生み出す」ニュアンスが強く、innovation�
 
 ## 🧩 あわせて覚えたい
 
-- [discovery](/word/discovery)：発見（すでに存在していたものを見つけること）
-- [creation](/word/creation)：創造（何かを作り出すこと全般）
+- [discovery](/word/discovery/)：発見（すでに存在していたものを見つけること）
+- [creation](/word/creation/)：創造（何かを作り出すこと全般）
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device)：装置、機器
-- [patent](/word/patent)：特許
+- [device](/word/device/)：装置、機器
+- [patent](/word/patent/)：特許
 
 
 <!-- cvid: aid39_bid05 -->

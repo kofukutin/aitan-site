@@ -97,7 +97,7 @@ TOEICでは、記事やメール文中で「真実」「事実」として使わ
 ## 🤔  fact との違いは？
 
 - **truth**：主観や価値観を含む「真実」や「本当のこと」
-- **[fact](/word/fact)**：証拠やデータで裏付けられる「事実」
+- **[fact](/word/fact/)**：証拠やデータで裏付けられる「事実」
 
 truthは「隠されていた本当のこと」や「誠実さ」を強調する場面で使われ、factは客観的なデータや証拠に基づく事実を指します。
 
@@ -105,14 +105,14 @@ truthは「隠されていた本当のこと」や「誠実さ」を強調する
 
 ## 🧩 あわせて覚えたい
 
-- [lie](/word/lie)：うそ、虚偽
-- [reality](/word/reality)：現実、実態
+- [lie](/word/lie/)：うそ、虚偽
+- [reality](/word/reality/)：現実、実態
 
 ---
 
 ## 📖 できればこれも
 
-- [evidence](/word/evidence)：証拠
-- [proof](/word/proof)：証明、証拠
+- [evidence](/word/evidence/)：証拠
+- [proof](/word/proof/)：証明、証拠
 
 <!-- cvid: aid40_bid37 -->

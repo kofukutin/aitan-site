@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「予想外の出来事」や「感情の動揺
 ## 🤔  surprise との違いは？
 
 - **shock**：強い衝撃や動揺、時にネガティブな驚きを表す。
-- **[surprise](/word/surprise)**：予想外の出来事による驚きで、必ずしもネガティブではない。
+- **[surprise](/word/surprise/)**：予想外の出来事による驚きで、必ずしもネガティブではない。
 
 shockは感情や状況に大きなインパクトがある場合に使い、surpriseは単なる驚きや意外性に使います。
 
@@ -105,14 +105,14 @@ shockは感情や状況に大きなインパクトがある場合に使い、sur
 
 ## 🧩 あわせて覚えたい
 
-- [trauma](/word/trauma)：心的外傷、トラウマ
-- [impact](/word/impact)：影響、衝撃
+- [trauma](/word/trauma/)：心的外傷、トラウマ
+- [impact](/word/impact/)：影響、衝撃
 
 ---
 
 ## 📖 できればこれも
 
-- [stress](/word/stress)：ストレス、緊張
-- [incident](/word/incident)：出来事、事件
+- [stress](/word/stress/)：ストレス、緊張
+- [incident](/word/incident/)：出来事、事件
 
 <!-- cvid: aid23_bid22 -->

@@ -97,7 +97,7 @@ slowはTOEICの会話パートで、進行やスピードについて話す場�
 ## 🤔  late との違いは？
 
 - **slow**：スピードが遅い、進みがゆっくり
-- **[late](/word/late)**：予定より遅れている、時間に遅い
+- **[late](/word/late/)**：予定より遅れている、時間に遅い
 
 slowは「速度」に焦点を当て、lateは「時間や締切に間に合わない」ことに焦点を当てます。
 
@@ -105,14 +105,14 @@ slowは「速度」に焦点を当て、lateは「時間や締切に間に合わ
 
 ## 🧩 あわせて覚えたい
 
-- [fast](/word/fast)：速い
-- [steady](/word/steady)：安定した、着実な
+- [fast](/word/fast/)：速い
+- [steady](/word/steady/)：安定した、着実な
 
 ---
 
 ## 📖 できればこれも
 
-- [quick](/word/quick)：素早い
-- [easy](/word/easy)：簡単な
+- [quick](/word/quick/)：素早い
+- [easy](/word/easy/)：簡単な
 
 <!-- cvid: aid05_bid36 -->

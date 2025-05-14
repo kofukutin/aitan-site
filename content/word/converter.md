@@ -97,7 +97,7 @@ TOEICではIT機器や電気製品の説明文、仕様書などでconverterが�
 ## 🤔  transformer との違いは？
 
 - **converter**：電気やデータなどの「形式や種類」を変換する装置やソフトウェア
-- **[transformer](/word/transformer)**：主に電圧や電流の「大きさ」を変える電気機器
+- **[transformer](/word/transformer/)**：主に電圧や電流の「大きさ」を変える電気機器
 
 converterは形式や種類の変換に幅広く使われ、transformerは電気の変圧に特化しています。
 
@@ -105,14 +105,14 @@ converterは形式や種類の変換に幅広く使われ、transformerは電気
 
 ## 🧩 あわせて覚えたい
 
-- [adapter](/word/adapter)：接続や形状を合わせるためのアダプター
-- [inverter](/word/inverter)：直流を交流に変換する装置
+- [adapter](/word/adapter/)：接続や形状を合わせるためのアダプター
+- [inverter](/word/inverter/)：直流を交流に変換する装置
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device)：装置、機器
-- [circuit](/word/circuit)：回路
+- [device](/word/device/)：装置、機器
+- [circuit](/word/circuit/)：回路
 
 <!-- cvid: aid39_bid28 -->

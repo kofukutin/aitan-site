@@ -97,7 +97,7 @@ TOEICでは請求書や契約、取引に関する文脈で頻出します。支
 ## 🤔  remittance との違いは？
 
 - **payment**：一般的な「支払い」や「支払金」を幅広く指す
-- **[remittance](/word/remittance)**：特に「送金」や「送金額」を指し、遠隔地への送金に使われやすい
+- **[remittance](/word/remittance/)**：特に「送金」や「送金額」を指し、遠隔地への送金に使われやすい
 
 **payment**は日常的な支払い全般に使い、**remittance**は銀行送金や海外送金などフォーマルな場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは請求書や契約、取引に関する文脈で頻出します。支
 
 ## 🧩 あわせて覚えたい
 
-- [refund](/word/refund)：返金、払い戻し
-- [fee](/word/fee)：料金、手数料
+- [refund](/word/refund/)：返金、払い戻し
+- [fee](/word/fee/)：料金、手数料
 
 ---
 
 ## 📖 できればこれも
 
-- [invoice](/word/invoice)：請求書
-- [charge](/word/charge)：請求、料金
+- [invoice](/word/invoice/)：請求書
+- [charge](/word/charge/)：請求、料金
 
 <!-- cvid: aid02_bid46 -->

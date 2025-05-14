@@ -98,7 +98,7 @@ TOEICでは「daily report」や「daily routine」など、日常業務や習�
 ## 🤔  everyday との違いは？
 
 - **daily**：毎日行われる、日々の（頻度や定期性を強調）
-- **[everyday](/word/everyday)**：日常的な、ありふれた（特別でないことを強調）
+- **[everyday](/word/everyday/)**：日常的な、ありふれた（特別でないことを強調）
 
 「daily」は「毎日必ず行うこと」に焦点があり、「everyday」は「日常的で特別でないこと」に使います。
 
@@ -106,14 +106,14 @@ TOEICでは「daily report」や「daily routine」など、日常業務や習�
 
 ## 🧩 あわせて覚えたい
 
-- [weekly](/word/weekly)：毎週の
-- [routine](/word/routine)：決まりきった手順、日課
+- [weekly](/word/weekly/)：毎週の
+- [routine](/word/routine/)：決まりきった手順、日課
 
 ---
 
 ## 📖 できればこれも
 
-- [regular](/word/regular)：定期的な
-- [usual](/word/usual)：いつもの、通常の
+- [regular](/word/regular/)：定期的な
+- [usual](/word/usual/)：いつもの、通常の
 
 <!-- cvid: aid03_bid33 -->

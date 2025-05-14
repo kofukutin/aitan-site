@@ -98,7 +98,7 @@ TOEICでは、空欄補充や語彙選択問題で「適切な」「ふさわし
 ## 🤔  appropriate との違いは？
 
 - **suitable**：目的や条件に合っている、ふさわしい
-- **[appropriate](/word/appropriate)**：状況やルールに照らして「適切な」
+- **[appropriate](/word/appropriate/)**：状況やルールに照らして「適切な」
 
 「suitable」は「合う・合っている」感覚が強く、個人や目的に合わせたニュアンスです。「appropriate」は社会的・一般的な基準に照らして「適切」と判断される場面で使います。
 
@@ -106,14 +106,14 @@ TOEICでは、空欄補充や語彙選択問題で「適切な」「ふさわし
 
 ## 🧩 あわせて覚えたい
 
-- [proper](/word/proper)：正しい、適切な
-- [unsuitable](/word/unsuitable)：不適切な、ふさわしくない
+- [proper](/word/proper/)：正しい、適切な
+- [unsuitable](/word/unsuitable/)：不適切な、ふさわしくない
 
 ---
 
 ## 📖 できればこれも
 
-- [convenient](/word/convenient)：都合がよい
-- [available](/word/available)：利用できる、手が空いている
+- [convenient](/word/convenient/)：都合がよい
+- [available](/word/available/)：利用できる、手が空いている
 
 <!-- cvid: aid07_bid36 -->

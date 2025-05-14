@@ -97,7 +97,7 @@ TOEICでは、ビジネスや市場分析、消費者動向などの文脈で「
 ## 🤔  tendency との違いは？
 
 - **trend**：社会や市場などで見られる明確な変化の方向性や流行
-- **[tendency](/word/tendency)**：個人や物事に見られる一般的な傾向や性質
+- **[tendency](/word/tendency/)**：個人や物事に見られる一般的な傾向や性質
 
 trendは「目に見える動き」や「流行」に焦点があり、tendencyは「内面的な傾向」や「性質」に使われます。
 
@@ -105,14 +105,14 @@ trendは「目に見える動き」や「流行」に焦点があり、tendency�
 
 ## 🧩 あわせて覚えたい
 
-- [fashion](/word/fashion)：流行、ファッション
-- [pattern](/word/pattern)：パターン、型、傾向
+- [fashion](/word/fashion/)：流行、ファッション
+- [pattern](/word/pattern/)：パターン、型、傾向
 
 ---
 
 ## 📖 できればこれも
 
-- [market](/word/market)：市場
-- [growth](/word/growth)：成長
+- [market](/word/market/)：市場
+- [growth](/word/growth/)：成長
 
 <!-- cvid: aid23_bid43 -->

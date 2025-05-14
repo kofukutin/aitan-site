@@ -99,7 +99,7 @@ TOEICでは「public transportation」「public event」など、形容詞とし
 ## 🤔  private との違いは？
 
 - **public**：多くの人に開かれている、公の
-- **[private](/word/private)**：個人の、非公開の
+- **[private](/word/private/)**：個人の、非公開の
 
 「public」は「誰でも利用できる・見られる」ことを強調し、「private」は「限られた人だけ・個人的」なことを表します。
 
@@ -107,14 +107,14 @@ TOEICでは「public transportation」「public event」など、形容詞とし
 
 ## 🧩 あわせて覚えたい
 
-- [official](/word/official)：公式の、公的な
-- [common](/word/common)：共通の、一般的な
+- [official](/word/official/)：公式の、公的な
+- [common](/word/common/)：共通の、一般的な
 
 ---
 
 ## 📖 できればこれも
 
-- [general](/word/general)：一般的な、全体の
-- [open](/word/open)：開かれた、公開の
+- [general](/word/general/)：一般的な、全体の
+- [open](/word/open/)：開かれた、公開の
 
 <!-- cvid: aid27_bid38 -->

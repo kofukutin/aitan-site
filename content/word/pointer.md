@@ -97,7 +97,7 @@ ITやビジネス文書、説明書などで「pointer」は頻出します。�
 ## 🤔  indicator との違いは？
 
 - **pointer**：物理的・視覚的に「指し示すもの」やIT用語の「ポインタ」
-- **[indicator](/word/indicator)**：状況や状態を「示すもの」「指標」
+- **[indicator](/word/indicator/)**：状況や状態を「示すもの」「指標」
 
 pointerは具体的な「指し示す道具や記号」、indicatorは抽象的な「指標やサイン」として使い分けます。
 
@@ -105,14 +105,14 @@ pointerは具体的な「指し示す道具や記号」、indicatorは抽象的�
 
 ## 🧩 あわせて覚えたい
 
-- [cursor](/word/cursor)：（画面上の）カーソル
-- [reference](/word/reference)：参照、参考
+- [cursor](/word/cursor/)：（画面上の）カーソル
+- [reference](/word/reference/)：参照、参考
 
 ---
 
 ## 📖 できればこれも
 
-- [function](/word/function)：機能、関数
-- [signal](/word/signal)：信号、合図
+- [function](/word/function/)：機能、関数
+- [signal](/word/signal/)：信号、合図
 
 <!-- cvid: aid10_bid39 -->

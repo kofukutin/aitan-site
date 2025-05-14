@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文や物語調の文章で「探求」「追求」
 ## 🤔  search との違いは？
 
 - **quest**：価値あるものを求めて努力する長い探求や冒険
-- **[search](/word/search)**：何かを見つけるための一般的な「捜索」や「検索」
+- **[search](/word/search/)**：何かを見つけるための一般的な「捜索」や「検索」
 
 questは困難や目的意識を伴う長い探求、searchは日常的な「探す」行為に使われます。
 
@@ -105,14 +105,14 @@ questは困難や目的意識を伴う長い探求、searchは日常的な「探
 
 ## 🧩 あわせて覚えたい
 
-- [mission](/word/mission)：使命、任務
-- [journey](/word/journey)：旅、道のり
+- [mission](/word/mission/)：使命、任務
+- [journey](/word/journey/)：旅、道のり
 
 ---
 
 ## 📖 できればこれも
 
-- [goal](/word/goal)：目標
-- [explore](/word/explore)：探検する、調査する
+- [goal](/word/goal/)：目標
+- [explore](/word/explore/)：探検する、調査する
 
 <!-- cvid: aid32_bid12 -->

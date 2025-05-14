@@ -97,7 +97,7 @@ TOEICでは会話や説明文の中で「感じた」「思った」という意
 ## 🤔  realized との違いは？
 
 - **felt**：自分の感情や体の感覚を「感じた」「思った」と表す。
-- **[realized](/word/realized)**：何かに「気づいた」「理解した」と表す。
+- **[realized](/word/realized/)**：何かに「気づいた」「理解した」と表す。
 
 「felt」は感情や感覚に焦点があり、「realized」は新しい事実や状況に気づいたときに使います。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文の中で「感じた」「思った」という意
 
 ## 🧩 あわせて覚えたい
 
-- [noticed](/word/noticed)：気づいた
-- [sensed](/word/sensed)：察知した、感知した
+- [noticed](/word/noticed/)：気づいた
+- [sensed](/word/sensed/)：察知した、感知した
 
 ---
 
 ## 📖 できればこれも
 
-- [thought](/word/thought)：考えた
-- [understood](/word/understood)：理解した
+- [thought](/word/thought/)：考えた
+- [understood](/word/understood/)：理解した
 
 <!-- cvid: aid47_bid00 -->

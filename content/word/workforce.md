@@ -96,7 +96,7 @@ TOEICでは、会社や組織の説明、雇用や人事に関する長文でよ
 ## 🤔  staff との違いは？
 
 - **workforce**：組織や国などの「労働力全体」「従業員全体」を指すフォーマルな表現
-- **[staff](/word/staff)**：会社や部署の「職員」「スタッフ」を指し、ややカジュアルで日常的
+- **[staff](/word/staff/)**：会社や部署の「職員」「スタッフ」を指し、ややカジュアルで日常的
 
 workforceは規模や全体像を強調したいときに使い、staffは日常的な職員や担当者を指すときに使います。
 
@@ -104,14 +104,14 @@ workforceは規模や全体像を強調したいときに使い、staffは日常
 
 ## 🧩 あわせて覚えたい
 
-- [employee](/word/employee)：従業員
-- [labor](/word/labor)：労働、労働力
+- [employee](/word/employee/)：従業員
+- [labor](/word/labor/)：労働、労働力
 
 ---
 
 ## 📖 できればこれも
 
-- [department](/word/department)：部門、部署
-- [management](/word/management)：経営陣、管理
+- [department](/word/department/)：部門、部署
+- [management](/word/management/)：経営陣、管理
 
 <!-- cvid: aid30_bid10 -->

@@ -97,7 +97,7 @@ TOEICではグラフや統計、売上報告などの長文で頻出します。
 ## 🤔  proportion との違いは？
 
 - **percentage**：全体に対する「パーセント（%）」で表す割合
-- **[proportion](/word/proportion)**：全体に対する「比率」や「部分」の意味で、必ずしも%で表すとは限らない
+- **[proportion](/word/proportion/)**：全体に対する「比率」や「部分」の意味で、必ずしも%で表すとは限らない
 
 percentageは数値を%で明示する時に使い、proportionは割合や比率を広く表現する時に使います。
 
@@ -105,14 +105,14 @@ percentageは数値を%で明示する時に使い、proportionは割合や比�
 
 ## 🧩 あわせて覚えたい
 
-- [rate](/word/rate)：比率、速度
-- [fraction](/word/fraction)：分数、部分
+- [rate](/word/rate/)：比率、速度
+- [fraction](/word/fraction/)：分数、部分
 
 ---
 
 ## 📖 できればこれも
 
-- [amount](/word/amount)：量、総額
-- [ratio](/word/ratio)：比率、割合
+- [amount](/word/amount/)：量、総額
+- [ratio](/word/ratio/)：比率、割合
 
 <!-- cvid: aid44_bid21 -->

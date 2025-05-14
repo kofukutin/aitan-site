@@ -97,7 +97,7 @@ TOEICでは、宗教に関する説明や多様性を扱う長文で見かける
 ## 🤔  spiritual との違いは？
 
 - **religious**：宗教や信仰そのものに関係する、または信心深い
-- **[spiritual](/word/spiritual)**：精神的・霊的なことに関係する、宗教に限らず心や魂に関わる
+- **[spiritual](/word/spiritual/)**：精神的・霊的なことに関係する、宗教に限らず心や魂に関わる
 
 religiousは宗教や信仰に直接関係する場合に使い、spiritualは宗教に限らず広く精神的な意味で使われます。
 
@@ -105,14 +105,14 @@ religiousは宗教や信仰に直接関係する場合に使い、spiritualは�
 
 ## 🧩 あわせて覚えたい
 
-- [secular](/word/secular)：世俗的な、宗教と関係のない
-- [faith](/word/faith)：信仰、信念
+- [secular](/word/secular/)：世俗的な、宗教と関係のない
+- [faith](/word/faith/)：信仰、信念
 
 ---
 
 ## 📖 できればこれも
 
-- [cultural](/word/cultural)：文化的な
-- [traditional](/word/traditional)：伝統的な
+- [cultural](/word/cultural/)：文化的な
+- [traditional](/word/traditional/)：伝統的な
 
 <!-- cvid: aid06_bid32 -->

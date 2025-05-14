@@ -98,7 +98,7 @@ TOEICでは、学校や研修、セミナーなどの案内文やメールで「
 ## 🤔  course との違いは？
 
 - **class**：1回ごとの授業や学級、集団を指す
-- **[course](/word/course)**：一連の授業やカリキュラム全体を指す
+- **[course](/word/course/)**：一連の授業やカリキュラム全体を指す
 
 classは「今日の英語の授業」や「このクラスの生徒」のように個々の授業や集団を指し、courseは「英語コース」のように複数回の授業をまとめた全体を表します。
 
@@ -106,14 +106,14 @@ classは「今日の英語の授業」や「このクラスの生徒」のよう
 
 ## 🧩 あわせて覚えたい
 
-- [lesson](/word/lesson)：個別の授業、レッスン
-- [lecture](/word/lecture)：講義（特に大学などでの大人数向け）
+- [lesson](/word/lesson/)：個別の授業、レッスン
+- [lecture](/word/lecture/)：講義（特に大学などでの大人数向け）
 
 ---
 
 ## 📖 できればこれも
 
-- [subject](/word/subject)：科目、テーマ
-- [teacher](/word/teacher)：教師、先生
+- [subject](/word/subject/)：科目、テーマ
+- [teacher](/word/teacher/)：教師、先生
 
 <!-- cvid: aid17_bid33 -->

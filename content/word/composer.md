@@ -97,7 +97,7 @@ TOEICでは、音楽や芸術に関する記事や説明文で登場すること
 ## 🤔  songwriter との違いは？
 
 - **composer**：主にクラシックや映画音楽など、楽曲全体を作る作曲家
-- **[songwriter](/word/songwriter)**：主にポップスやロックなど、歌詞とメロディを作る人
+- **[songwriter](/word/songwriter/)**：主にポップスやロックなど、歌詞とメロディを作る人
 
 composerは楽器のみの曲や大規模な音楽作品にも使われ、songwriterは歌もの中心で使われます。
 
@@ -105,14 +105,14 @@ composerは楽器のみの曲や大規模な音楽作品にも使われ、songwr
 
 ## 🧩 あわせて覚えたい
 
-- [conductor](/word/conductor)：指揮者
-- [musician](/word/musician)：音楽家
+- [conductor](/word/conductor/)：指揮者
+- [musician](/word/musician/)：音楽家
 
 ---
 
 ## 📖 できればこれも
 
-- [arranger](/word/arranger)：編曲者
-- [performer](/word/performer)：演奏者
+- [arranger](/word/arranger/)：編曲者
+- [performer](/word/performer/)：演奏者
 
 <!-- cvid: aid18_bid05 -->

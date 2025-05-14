@@ -97,7 +97,7 @@ TOEICでは会話文や感情を表す場面で出題されることが多いで
 ## 🤔  disappointed との違いは？
 
 - **sad**：一般的な「悲しい」気持ちを表す。
-- **[disappointed](/word/disappointed)**：期待が外れて「がっかりした」気持ちを表す。
+- **[disappointed](/word/disappointed/)**：期待が外れて「がっかりした」気持ちを表す。
 
 sadは広く「悲しい」感情全般に使い、disappointedは「期待していたのに…」という失望を含みます。
 
@@ -105,14 +105,14 @@ sadは広く「悲しい」感情全般に使い、disappointedは「期待し�
 
 ## 🧩 あわせて覚えたい
 
-- [happy](/word/happy)：幸せな、うれしい
-- [upset](/word/upset)：動揺した、取り乱した
+- [happy](/word/happy/)：幸せな、うれしい
+- [upset](/word/upset/)：動揺した、取り乱した
 
 ---
 
 ## 📖 できればこれも
 
-- [angry](/word/angry)：怒っている
-- [glad](/word/glad)：うれしい
+- [angry](/word/angry/)：怒っている
+- [glad](/word/glad/)：うれしい
 
 <!-- cvid: aid11_bid16 -->

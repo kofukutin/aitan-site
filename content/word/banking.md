@@ -97,7 +97,7 @@ TOEICでは主にPart 7のビジネス文書やEメール、案内文などで�
 ## 🤔  finance との違いは？
 
 - **banking**：銀行業務や銀行との取引を指す
-- **[finance](/word/finance)**：金融全般や資金管理、財務を指す
+- **[finance](/word/finance/)**：金融全般や資金管理、財務を指す
 
 bankingは銀行に特化した業務やサービス、financeはより広くお金の管理や経済活動全体を指します。
 
@@ -105,14 +105,14 @@ bankingは銀行に特化した業務やサービス、financeはより広くお
 
 ## 🧩 あわせて覚えたい
 
-- [loan](/word/loan)：ローン、貸付
-- [deposit](/word/deposit)：預金、預け入れ
+- [loan](/word/loan/)：ローン、貸付
+- [deposit](/word/deposit/)：預金、預け入れ
 
 ---
 
 ## 📖 できればこれも
 
-- [account](/word/account)：口座
-- [branch](/word/branch)：支店
+- [account](/word/account/)：口座
+- [branch](/word/branch/)：支店
 
 <!-- cvid: aid03_bid32 -->

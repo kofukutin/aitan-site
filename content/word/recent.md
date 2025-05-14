@@ -97,7 +97,7 @@ TOEICではメールや記事、報告書などの長文中で「recent changes�
 ## 🤔  current との違いは？
 
 - **recent**：過去の「最近」に起こったことや出来事を指す
-- **[current](/word/current)**：今まさに「現在進行中」のことや状況を指す
+- **[current](/word/current/)**：今まさに「現在進行中」のことや状況を指す
 
 「recent」は「少し前から今まで」の範囲、「current」は「今この瞬間」の状態を表します。
 
@@ -105,14 +105,14 @@ TOEICではメールや記事、報告書などの長文中で「recent changes�
 
 ## 🧩 あわせて覚えたい
 
-- [previous](/word/previous)：以前の、前の
-- [latest](/word/latest)：最新の
+- [previous](/word/previous/)：以前の、前の
+- [latest](/word/latest/)：最新の
 
 ---
 
 ## 📖 できればこれも
 
-- [modern](/word/modern)：現代的な、近代の
-- [former](/word/former)：かつての、前の
+- [modern](/word/modern/)：現代的な、近代の
+- [former](/word/former/)：かつての、前の
 
 <!-- cvid: aid30_bid01 -->

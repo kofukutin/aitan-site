@@ -97,7 +97,7 @@ IT関連やビジネス文書の中で「portal」は、ウェブサイトやサ
 ## 🤔  gateway との違いは？
 
 - **portal**：情報やサービスへの「入り口」としてのウェブサイトや物理的な門を指す
-- **[gateway](/word/gateway)**：物理的・比喩的に「通路」「出入り口」として使われ、ITではネットワークの接続点を指す
+- **[gateway](/word/gateway/)**：物理的・比喩的に「通路」「出入り口」として使われ、ITではネットワークの接続点を指す
 
 「portal」は主に情報やサービスの入り口（特にウェブサイト）を指し、「gateway」は物理的な通路やITの接続点など、より広い意味で使われます。
 
@@ -105,14 +105,14 @@ IT関連やビジネス文書の中で「portal」は、ウェブサイトやサ
 
 ## 🧩 あわせて覚えたい
 
-- [entrance](/word/entrance)：入口、出入り口
-- [homepage](/word/homepage)：ホームページ、ウェブサイトの最初のページ
+- [entrance](/word/entrance/)：入口、出入り口
+- [homepage](/word/homepage/)：ホームページ、ウェブサイトの最初のページ
 
 ---
 
 ## 📖 できればこれも
 
-- [platform](/word/platform)：基盤、プラットフォーム
-- [access](/word/access)：アクセス、接近・利用すること
+- [platform](/word/platform/)：基盤、プラットフォーム
+- [access](/word/access/)：アクセス、接近・利用すること
 
 <!-- cvid: aid10_bid36 -->

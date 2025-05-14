@@ -97,7 +97,7 @@ TOEICでは「foreign company（外国企業）」や「foreign currency（外�
 ## 🤔  overseas との違いは？
 
 - **foreign**：自国以外の、外来の（形容詞）
-- **[overseas](/word/overseas)**：海外の、海外へ（形容詞・副詞）
+- **[overseas](/word/overseas/)**：海外の、海外へ（形容詞・副詞）
 
 foreignは「自国以外の」という広い意味で使われ、overseasは「海を越えた場所＝海外」をより具体的に指します。たとえば「foreign language」は「外国語」全般ですが、「overseas trip」は「海外旅行」となります。
 
@@ -105,14 +105,14 @@ foreignは「自国以外の」という広い意味で使われ、overseasは�
 
 ## 🧩 あわせて覚えたい
 
-- [domestic](/word/domestic)：国内の
-- [international](/word/international)：国際的な
+- [domestic](/word/domestic/)：国内の
+- [international](/word/international/)：国際的な
 
 ---
 
 ## 📖 できればこれも
 
-- [local](/word/local)：地元の、地域の
-- [global](/word/global)：世界的な
+- [local](/word/local/)：地元の、地域の
+- [global](/word/global/)：世界的な
 
 <!-- cvid: aid37_bid35 -->

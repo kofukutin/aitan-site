@@ -97,7 +97,7 @@ TOEICでは、申込書や契約書、説明文などフォーマルな文脈で
 ## 🤔  house との違いは？
 
 - **residence**：フォーマルで「住居」「居住地」を指し、建物だけでなく「住んでいること」も含む。
-- **[house](/word/house)**：一般的な「家」「住宅」を指し、建物そのものの意味が強い。
+- **[house](/word/house/)**：一般的な「家」「住宅」を指し、建物そのものの意味が強い。
 
 「residence」は書類や公式な場面で使われ、「house」は日常会話でよく使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、申込書や契約書、説明文などフォーマルな文脈で
 
 ## 🧩 あわせて覚えたい
 
-- [dwelling](/word/dwelling)：住居（やや文語的）
-- [accommodation](/word/accommodation)：宿泊施設、住まい
+- [dwelling](/word/dwelling/)：住居（やや文語的）
+- [accommodation](/word/accommodation/)：宿泊施設、住まい
 
 ---
 
 ## 📖 できればこれも
 
-- [address](/word/address)：住所
-- [apartment](/word/apartment)：アパート、マンション
+- [address](/word/address/)：住所
+- [apartment](/word/apartment/)：アパート、マンション
 
 <!-- cvid: aid16_bid07 -->

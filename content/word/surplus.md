@@ -97,7 +97,7 @@ TOEICではビジネス文書や経済記事で「黒字」「余剰」の意味
 ## 🤔  excess との違いは？
 
 - **surplus**：主にビジネスや経済で「余剰」「黒字」など、計画や基準を超えた余りを指すフォーマルな語。
-- **[excess](/word/excess)**：一般的に「過剰」「余分」を表し、ネガティブなニュアンスや日常的な使い方が多い。
+- **[excess](/word/excess/)**：一般的に「過剰」「余分」を表し、ネガティブなニュアンスや日常的な使い方が多い。
 
 surplusは計画や基準に対しての「余り」に使われ、excessは「行き過ぎ」や「過度」の意味で使われることが多いです。
 
@@ -105,14 +105,14 @@ surplusは計画や基準に対しての「余り」に使われ、excessは「�
 
 ## 🧩 あわせて覚えたい
 
-- [deficit](/word/deficit)：赤字、不足
-- [shortage](/word/shortage)：不足、欠乏
+- [deficit](/word/deficit/)：赤字、不足
+- [shortage](/word/shortage/)：不足、欠乏
 
 ---
 
 ## 📖 できればこれも
 
-- [asset](/word/asset)：資産
-- [revenue](/word/revenue)：収益
+- [asset](/word/asset/)：資産
+- [revenue](/word/revenue/)：収益
 
 <!-- cvid: aid27_bid25 -->

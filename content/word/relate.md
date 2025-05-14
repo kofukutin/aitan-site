@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「関係づける」「関連がある」とい
 ## 🤔  associate との違いは？
 
 - **relate**：物事や人を「関係づける」「関連がある」と述べるときに使う。
-- **[associate](/word/associate)**：主に「連想する」「結びつけて考える」という意味で使う。
+- **[associate](/word/associate/)**：主に「連想する」「結びつけて考える」という意味で使う。
 
 relateは客観的な関係やつながりを示すのに対し、associateは主観的な連想やイメージを結びつける時に使います。
 
@@ -105,14 +105,14 @@ relateは客観的な関係やつながりを示すのに対し、associateは�
 
 ## 🧩 あわせて覚えたい
 
-- [connect](/word/connect)：つなぐ、接続する
-- [refer](/word/refer)：言及する、参照する
+- [connect](/word/connect/)：つなぐ、接続する
+- [refer](/word/refer/)：言及する、参照する
 
 ---
 
 ## 📖 できればこれも
 
-- [describe](/word/describe)：説明する、描写する
-- [explain](/word/explain)：説明する、明らかにする
+- [describe](/word/describe/)：説明する、描写する
+- [explain](/word/explain/)：説明する、明らかにする
 
 <!-- cvid: aid01_bid30 -->

@@ -96,7 +96,7 @@ The hotel offers a roulette table for its guests.
 ## 🤔  lottery との違いは？
 
 - **roulette**：カジノで円盤を回して当たりを決めるギャンブルゲーム。
-- **[lottery](/word/lottery)**：くじ引きや宝くじのように、無作為に当選者を決める仕組み。
+- **[lottery](/word/lottery/)**：くじ引きや宝くじのように、無作為に当選者を決める仕組み。
 
 rouletteは物理的な円盤を使ったゲームで、lotteryは紙や番号などで当選を決める点が異なります。
 
@@ -104,14 +104,14 @@ rouletteは物理的な円盤を使ったゲームで、lotteryは紙や番号�
 
 ## 🧩 あわせて覚えたい
 
-- [gamble](/word/gamble)：ギャンブルをする、賭け事をする
-- [casino](/word/casino)：カジノ、賭博場
+- [gamble](/word/gamble/)：ギャンブルをする、賭け事をする
+- [casino](/word/casino/)：カジノ、賭博場
 
 ---
 
 ## 📖 できればこれも
 
-- [poker](/word/poker)：ポーカー（トランプゲームの一種）
-- [bet](/word/bet)：賭け、賭ける
+- [poker](/word/poker/)：ポーカー（トランプゲームの一種）
+- [bet](/word/bet/)：賭け、賭ける
 
 <!-- cvid: aid48_bid17 -->

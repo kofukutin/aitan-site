@@ -97,7 +97,7 @@ TOEICでは、会話や説明文で「感心した」「印象を受けた」と
 ## 🤔  amazed との違いは？
 
 - **impressed**：何かに感心したり、良い印象を受けたときに使う
-- **[amazed](/word/amazed)**：非常に驚いた、びっくりしたときに使う
+- **[amazed](/word/amazed/)**：非常に驚いた、びっくりしたときに使う
 
 「impressed」はポジティブな評価や感心を表し、「amazed」は驚きや予想外の出来事に対する反応を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、会話や説明文で「感心した」「印象を受けた」と
 
 ## 🧩 あわせて覚えたい
 
-- [inspired](/word/inspired)：刺激を受けた、やる気になった
-- [unimpressed](/word/unimpressed)：感心しない、印象に残らない
+- [inspired](/word/inspired/)：刺激を受けた、やる気になった
+- [unimpressed](/word/unimpressed/)：感心しない、印象に残らない
 
 ---
 
 ## 📖 できればこれも
 
-- [satisfied](/word/satisfied)：満足した
-- [pleased](/word/pleased)：うれしい、満足した
+- [satisfied](/word/satisfied/)：満足した
+- [pleased](/word/pleased/)：うれしい、満足した
 
 <!-- cvid: aid02_bid18 -->

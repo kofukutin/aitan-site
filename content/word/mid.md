@@ -93,7 +93,7 @@ TOEICでは日付や期間を表す表現（mid-June, mid-yearなど）で出題
 ## 🤔  middle との違いは？
 
 - **mid**：期間や出来事の「中頃」「最中」を表す前置詞。  
-- **[middle](/word/middle)**：物理的・抽象的な「中央」「真ん中」を表す名詞・形容詞。
+- **[middle](/word/middle/)**：物理的・抽象的な「中央」「真ん中」を表す名詞・形容詞。
 
 midは「mid-June」など期間の中頃に使い、middleは「in the middle of the room」のように場所や物の中央に使います。
 
@@ -101,14 +101,14 @@ midは「mid-June」など期間の中頃に使い、middleは「in the middle o
 
 ## 🧩 あわせて覚えたい
 
-- [amid](/word/amid)：～の真っ只中に（前置詞）
-- [center](/word/center)：中心、中央（名詞）
+- [amid](/word/amid/)：～の真っ只中に（前置詞）
+- [center](/word/center/)：中心、中央（名詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [during](/word/during)：～の間に（前置詞）
-- [between](/word/between)：～の間で（前置詞）
+- [during](/word/during/)：～の間に（前置詞）
+- [between](/word/between/)：～の間で（前置詞）
 
 <!-- cvid: aid49_bid42 -->

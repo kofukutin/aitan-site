@@ -97,7 +97,7 @@ TOEICでは、ITや科学技術に関する説明文や製品紹介で「optical
 ## 🤔  visual との違いは？
 
 - **optical**：光や視覚の仕組み・技術に関する
-- **[visual](/word/visual)**：見えるもの、視覚的なもの全般
+- **[visual](/word/visual/)**：見えるもの、視覚的なもの全般
 
 opticalは科学的・技術的な「光学」に重点があり、visualは「見た目」や「視覚的な印象」に幅広く使われます。
 
@@ -105,14 +105,14 @@ opticalは科学的・技術的な「光学」に重点があり、visualは「�
 
 ## 🧩 あわせて覚えたい
 
-- [auditory](/word/auditory)：聴覚の
-- [lens](/word/lens)：レンズ
+- [auditory](/word/auditory/)：聴覚の
+- [lens](/word/lens/)：レンズ
 
 ---
 
 ## 📖 できればこれも
 
-- [visible](/word/visible)：目に見える
-- [digital](/word/digital)：デジタルの
+- [visible](/word/visible/)：目に見える
+- [digital](/word/digital/)：デジタルの
 
 <!-- cvid: aid34_bid34 -->

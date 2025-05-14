@@ -97,7 +97,7 @@ TOEICでは「注文」「発注」「命令」などの意味で、会話やビ
 ## 🤔  request との違いは？
 
 - **order**：ビジネスやレストランなどで「正式な注文」や「命令」を表す。
-- **[request](/word/request)**：丁寧に「依頼」や「お願い」をする時に使う。
+- **[request](/word/request/)**：丁寧に「依頼」や「お願い」をする時に使う。
 
 orderは権限や手続きに基づく「注文・命令」のニュアンスが強く、requestは相手に配慮した「お願い」の意味合いが強いです。
 
@@ -105,14 +105,14 @@ orderは権限や手続きに基づく「注文・命令」のニュアンスが
 
 ## 🧩 あわせて覚えたい
 
-- [command](/word/command)：命令、指示
-- [purchase](/word/purchase)：購入、仕入れ
+- [command](/word/command/)：命令、指示
+- [purchase](/word/purchase/)：購入、仕入れ
 
 ---
 
 ## 📖 できればこれも
 
-- [invoice](/word/invoice)：請求書
-- [arrange](/word/arrange)：手配する、整える
+- [invoice](/word/invoice/)：請求書
+- [arrange](/word/arrange/)：手配する、整える
 
 <!-- cvid: aid00_bid10 -->

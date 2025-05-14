@@ -97,7 +97,7 @@ TOEICでは、会議やオフィスの照明、人物の能力を表す文脈で
 ## 🤔  brilliant との違いは？
 
 - **bright**：光や色が明るい、または頭が良いことを表す一般的な形容詞
-- **[brilliant](/word/brilliant)**：非常に強く輝く、または際立って優秀・才能があることを強調
+- **[brilliant](/word/brilliant/)**：非常に強く輝く、または際立って優秀・才能があることを強調
 
 「bright」は日常的な「明るさ」や「賢さ」を表し、「brilliant」はより強調された「きらめき」や「卓越した才能」を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、会議やオフィスの照明、人物の能力を表す文脈で
 
 ## 🧩 あわせて覚えたい
 
-- [dull](/word/dull)：鈍い、明るくない
-- [smart](/word/smart)：賢い、頭が良い
+- [dull](/word/dull/)：鈍い、明るくない
+- [smart](/word/smart/)：賢い、頭が良い
 
 ---
 
 ## 📖 できればこれも
 
-- [clear](/word/clear)：はっきりした、明快な
-- [sharp](/word/sharp)：鋭い、頭の切れる
+- [clear](/word/clear/)：はっきりした、明快な
+- [sharp](/word/sharp/)：鋭い、頭の切れる
 
 <!-- cvid: aid41_bid24 -->

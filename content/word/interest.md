@@ -97,7 +97,7 @@ TOEICでは、金融やビジネス文書の中で「利子」や「関心」と
 ## 🤔  benefit との違いは？
 
 - **interest**：興味や関心、または金融の利子を指す
-- **[benefit](/word/benefit)**：利益や恩恵、手当などを指す
+- **[benefit](/word/benefit/)**：利益や恩恵、手当などを指す
 
 interestは「関心」や「お金の利子」に使い、benefitは「得られる良いこと」や「手当」に使います。
 
@@ -105,14 +105,14 @@ interestは「関心」や「お金の利子」に使い、benefitは「得ら�
 
 ## 🧩 あわせて覚えたい
 
-- [principal](/word/principal)：元金、校長
-- [curiosity](/word/curiosity)：好奇心
+- [principal](/word/principal/)：元金、校長
+- [curiosity](/word/curiosity/)：好奇心
 
 ---
 
 ## 📖 できればこれも
 
-- [profit](/word/profit)：利益
-- [attention](/word/attention)：注意、注目
+- [profit](/word/profit/)：利益
+- [attention](/word/attention/)：注意、注目
 
 <!-- cvid: aid21_bid30 -->

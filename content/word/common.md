@@ -97,7 +97,7 @@ TOEICでは「一般的な」「共通の」という意味で形容詞として
 ## 🤔  ordinary との違いは？
 
 - **common**：よく見かける、広く分布している、共通している
-- **[ordinary](/word/ordinary)**：特別ではない、平凡な、普通の
+- **[ordinary](/word/ordinary/)**：特別ではない、平凡な、普通の
 
 commonは「多くの人に当てはまる」「共有されている」ことを強調し、ordinaryは「特別ではない」「目立たない」ことを強調します。
 
@@ -105,14 +105,14 @@ commonは「多くの人に当てはまる」「共有されている」こと�
 
 ## 🧩 あわせて覚えたい
 
-- [typical](/word/typical)：典型的な、代表的な
-- [rare](/word/rare)：珍しい、まれな
+- [typical](/word/typical/)：典型的な、代表的な
+- [rare](/word/rare/)：珍しい、まれな
 
 ---
 
 ## 📖 できればこれも
 
-- [general](/word/general)：全体的な、一般的な
-- [usual](/word/usual)：いつもの、通常の
+- [general](/word/general/)：全体的な、一般的な
+- [usual](/word/usual/)：いつもの、通常の
 
 <!-- cvid: aid30_bid48 -->

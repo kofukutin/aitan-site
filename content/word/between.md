@@ -93,7 +93,7 @@ TOEICでは前置詞の使い分け問題で頻出です。特に「between」�
 ## 🤔  among との違いは？
 
 - **between**：2つ（または明確に区別できる複数）の間に使う
-- **[among](/word/among)**：3つ以上の集団やあいまいな複数の中に使う
+- **[among](/word/among/)**：3つ以上の集団やあいまいな複数の中に使う
 
 「between」は2者間や個別に区別できる対象に、「among」は3つ以上の集団や漠然とした複数に使います。
 
@@ -101,14 +101,14 @@ TOEICでは前置詞の使い分け問題で頻出です。特に「between」�
 
 ## 🧩 あわせて覚えたい
 
-- [beside](/word/beside)：～のそばに
-- [across](/word/across)：～を横切って
+- [beside](/word/beside/)：～のそばに
+- [across](/word/across/)：～を横切って
 
 ---
 
 ## 📖 できればこれも
 
-- [under](/word/under)：～の下に
-- [behind](/word/behind)：～の後ろに
+- [under](/word/under/)：～の下に
+- [behind](/word/behind/)：～の後ろに
 
 <!-- cvid: aid40_bid36 -->

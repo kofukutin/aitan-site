@@ -97,7 +97,7 @@ TOEICでは、環境や地理に関する話題で「desert」が登場するこ
 ## 🤔  abandon との違いは？
 
 - **desert**：雨が少なく乾燥した「砂漠」を指す名詞。
-- **[abandon](/word/abandon)**：何かを「見捨てる」「放棄する」という動詞。
+- **[abandon](/word/abandon/)**：何かを「見捨てる」「放棄する」という動詞。
 
 desertは場所や地形を表し、abandonは行動や状態を表します。
 
@@ -105,14 +105,14 @@ desertは場所や地形を表し、abandonは行動や状態を表します。
 
 ## 🧩 あわせて覚えたい
 
-- [oasis](/word/oasis)：オアシス（砂漠の中の水と緑のある場所）
-- [wilderness](/word/wilderness)：荒野、手つかずの自然地帯
+- [oasis](/word/oasis/)：オアシス（砂漠の中の水と緑のある場所）
+- [wilderness](/word/wilderness/)：荒野、手つかずの自然地帯
 
 ---
 
 ## 📖 できればこれも
 
-- [forest](/word/forest)：森林
-- [island](/word/island)：島
+- [forest](/word/forest/)：森林
+- [island](/word/island/)：島
 
 <!-- cvid: aid02_bid02 -->

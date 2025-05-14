@@ -97,7 +97,7 @@ TOEICでは副詞の語形選択や、動詞を修飾する表現として頻出
 ## 🤔  effectively との違いは？
 
 - **successfully**：成功して、望んだ結果を得て
-- **[effectively](/word/effectively)**：効果的に、効率よく
+- **[effectively](/word/effectively/)**：効果的に、効率よく
 
 「successfully」は「結果が成功した」ことに重点があり、「effectively」は「やり方や手段が効果的だった」ことに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは副詞の語形選択や、動詞を修飾する表現として頻出
 
 ## 🧩 あわせて覚えたい
 
-- [failure](/word/failure)：失敗
-- [achievement](/word/achievement)：達成、業績
+- [failure](/word/failure/)：失敗
+- [achievement](/word/achievement/)：達成、業績
 
 ---
 
 ## 📖 できればこれも
 
-- [efficiently](/word/efficiently)：効率的に
-- [finally](/word/finally)：ついに、最終的に
+- [efficiently](/word/efficiently/)：効率的に
+- [finally](/word/finally/)：ついに、最終的に
 
 <!-- cvid: aid13_bid42 -->

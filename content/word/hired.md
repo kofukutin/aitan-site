@@ -97,7 +97,7 @@ TOEICでは「be hired」や「get hired」など受動態でよく出題され�
 ## 🤔  employed との違いは？
 
 - **hired**：新たに雇われた、採用されたことを強調
-- **[employed](/word/employed)**：雇用されている状態全般を指す
+- **[employed](/word/employed/)**：雇用されている状態全般を指す
 
 「hired」は採用の瞬間や新規雇用を強調し、「employed」は雇用状態そのものを表します。
 
@@ -105,14 +105,14 @@ TOEICでは「be hired」や「get hired」など受動態でよく出題され�
 
 ## 🧩 あわせて覚えたい
 
-- [fire](/word/fire)：解雇する
-- [recruit](/word/recruit)：募集する、採用する
+- [fire](/word/fire/)：解雇する
+- [recruit](/word/recruit/)：募集する、採用する
 
 ---
 
 ## 📖 できればこれも
 
-- [apply](/word/apply)：応募する
-- [interview](/word/interview)：面接する・面接
+- [apply](/word/apply/)：応募する
+- [interview](/word/interview/)：面接する・面接
 
 <!-- cvid: aid22_bid25 -->

@@ -97,7 +97,7 @@ TOEICではビジネス文書やメール、明細書などの読解問題で頻
 ## 🤔  announcement との違いは？
 
 - **statement**：公式な発表や意見の表明、または明細書など幅広く使う
-- **[announcement](/word/announcement)**：新しい情報やニュースを公に知らせる発表
+- **[announcement](/word/announcement/)**：新しい情報やニュースを公に知らせる発表
 
 statementは内容の正確さや公式性を重視し、announcementは「知らせること」に重点があります。
 
@@ -105,14 +105,14 @@ statementは内容の正確さや公式性を重視し、announcementは「知�
 
 ## 🧩 あわせて覚えたい
 
-- [report](/word/report)：報告書、レポート
-- [comment](/word/comment)：コメント、意見
+- [report](/word/report/)：報告書、レポート
+- [comment](/word/comment/)：コメント、意見
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document)：文書、書類
-- [summary](/word/summary)：要約、まとめ
+- [document](/word/document/)：文書、書類
+- [summary](/word/summary/)：要約、まとめ
 
 <!-- cvid: aid03_bid31 -->

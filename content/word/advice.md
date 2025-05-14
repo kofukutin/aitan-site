@@ -97,7 +97,7 @@ TOEICではメールや案内文、ビジネス文書で「助言」や「提案
 ## 🤔  suggestion との違いは？
 
 - **advice**：相手のためを思ってする「助言」や「忠告」
-- **[suggestion](/word/suggestion)**：選択肢や案としての「提案」
+- **[suggestion](/word/suggestion/)**：選択肢や案としての「提案」
 
 adviceは「こうした方がいい」という親身な気持ちが強く、suggestionは「一つの案」として軽く提案するニュアンスです。
 
@@ -105,14 +105,14 @@ adviceは「こうした方がいい」という親身な気持ちが強く、su
 
 ## 🧩 あわせて覚えたい
 
-- [recommendation](/word/recommendation)：推薦、勧告
-- [guidance](/word/guidance)：指導、案内
+- [recommendation](/word/recommendation/)：推薦、勧告
+- [guidance](/word/guidance/)：指導、案内
 
 ---
 
 ## 📖 できればこれも
 
-- [opinion](/word/opinion)：意見
-- [information](/word/information)：情報
+- [opinion](/word/opinion/)：意見
+- [information](/word/information/)：情報
 
 <!-- cvid: aid33_bid06 -->

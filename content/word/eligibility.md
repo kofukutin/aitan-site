@@ -96,7 +96,7 @@ TOEICでは求人広告や応募条件、規則説明などでよく出題され
 ## 🤔  qualification との違いは？
 
 - **eligibility**：条件や基準を満たして「資格がある状態」
-- **[qualification](/word/qualification)**：資格証明や能力そのもの
+- **[qualification](/word/qualification/)**：資格証明や能力そのもの
 
 eligibilityは「資格があるかどうか」という状態や権利を指し、qualificationは「持っている資格・能力」自体を指します。
 
@@ -104,14 +104,14 @@ eligibilityは「資格があるかどうか」という状態や権利を指し
 
 ## 🧩 あわせて覚えたい
 
-- [requirement](/word/requirement)：必要条件
-- [entitlement](/word/entitlement)：権利、資格
+- [requirement](/word/requirement/)：必要条件
+- [entitlement](/word/entitlement/)：権利、資格
 
 ---
 
 ## 📖 できればこれも
 
-- [applicant](/word/applicant)：応募者
-- [criteria](/word/criteria)：基準
+- [applicant](/word/applicant/)：応募者
+- [criteria](/word/criteria/)：基準
 
 <!-- cvid: aid32_bid21 -->

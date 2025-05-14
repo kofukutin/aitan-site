@@ -97,7 +97,7 @@ TOEICでは、会社紹介や製品開発の文脈で「designer」が登場す�
 ## 🤔  creator との違いは？
 
 - **designer**：見た目や機能を計画・設計する人
-- **[creator](/word/creator)**：何かを最初に生み出す人、創造者
+- **[creator](/word/creator/)**：何かを最初に生み出す人、創造者
 
 designerは「設計・デザイン」に特化し、creatorは「創造」全般に使われます。
 
@@ -105,14 +105,14 @@ designerは「設計・デザイン」に特化し、creatorは「創造」全�
 
 ## 🧩 あわせて覚えたい
 
-- [architect](/word/architect)：建築家、設計者
-- [engineer](/word/engineer)：技術者、エンジニア
+- [architect](/word/architect/)：建築家、設計者
+- [engineer](/word/engineer/)：技術者、エンジニア
 
 ---
 
 ## 📖 できればこれも
 
-- [design](/word/design)：デザイン、設計（名詞・動詞）
-- [developer](/word/developer)：開発者
+- [design](/word/design/)：デザイン、設計（名詞・動詞）
+- [developer](/word/developer/)：開発者
 
 <!-- cvid: aid17_bid35 -->

@@ -96,7 +96,7 @@ TOEICでは、災害や安全対策に関する説明文やお知らせで登場
 ## 🤔  tremor との違いは？
 
 - **earthquake**：規模が大きく、被害をもたらす「地震」を指す。
-- **[tremor](/word/tremor)**：小さな揺れや前兆的な「微震」を指す。
+- **[tremor](/word/tremor/)**：小さな揺れや前兆的な「微震」を指す。
 
 earthquakeは大きな地震全般を指し、tremorは小規模な揺れや前触れの揺れを表します。
 
@@ -104,14 +104,14 @@ earthquakeは大きな地震全般を指し、tremorは小規模な揺れや前�
 
 ## 🧩 あわせて覚えたい
 
-- [disaster](/word/disaster)：災害
-- [aftershock](/word/aftershock)：余震
+- [disaster](/word/disaster/)：災害
+- [aftershock](/word/aftershock/)：余震
 
 ---
 
 ## 📖 できればこれも
 
-- [flood](/word/flood)：洪水
-- [volcano](/word/volcano)：火山
+- [flood](/word/flood/)：洪水
+- [volcano](/word/volcano/)：火山
 
 <!-- cvid: aid04_bid33 -->

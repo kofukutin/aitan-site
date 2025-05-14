@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、人や物を「持ち上げる
 ## 🤔  raise との違いは？
 
 - **lift**：物や人を物理的に持ち上げる動作に使う
-- **[raise](/word/raise)**：物理的にも抽象的にも「上げる」「高める」に使える
+- **[raise](/word/raise/)**：物理的にも抽象的にも「上げる」「高める」に使える
 
 liftは「持ち上げる」動作そのものに焦点があり、raiseは「位置やレベルを上げる」広い意味で使われます。
 
@@ -105,14 +105,14 @@ liftは「持ち上げる」動作そのものに焦点があり、raiseは「�
 
 ## 🧩 あわせて覚えたい
 
-- [lower](/word/lower)：下げる
-- [elevate](/word/elevate)：（地位・レベルなどを）高める、昇進させる
+- [lower](/word/lower/)：下げる
+- [elevate](/word/elevate/)：（地位・レベルなどを）高める、昇進させる
 
 ---
 
 ## 📖 できればこれも
 
-- [carry](/word/carry)：運ぶ
-- [move](/word/move)：動かす
+- [carry](/word/carry/)：運ぶ
+- [move](/word/move/)：動かす
 
 <!-- cvid: aid01_bid05 -->

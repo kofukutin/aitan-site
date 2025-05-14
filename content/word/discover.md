@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「新しい事実や問題点を発見する」
 ## 🤔  find との違いは？
 
 - **discover**：今まで知られていなかったものを新たに発見する
-- **[find](/word/find)**：探していたものや偶然に「見つける」
+- **[find](/word/find/)**：探していたものや偶然に「見つける」
 
 discoverは「未知のもの」「新しい事実」を明らかにするニュアンスが強く、findは「探していたものを見つける」や「偶然見つかる」といった日常的な発見に使われます。
 
@@ -105,14 +105,14 @@ discoverは「未知のもの」「新しい事実」を明らかにするニュ
 
 ## 🧩 あわせて覚えたい
 
-- [detect](/word/detect)：（隠れていたものを）見つける、検出する
-- [invent](/word/invent)：発明する、考案する
+- [detect](/word/detect/)：（隠れていたものを）見つける、検出する
+- [invent](/word/invent/)：発明する、考案する
 
 ---
 
 ## 📖 できればこれも
 
-- [explore](/word/explore)：探検する、調査する
-- [reveal](/word/reveal)：明らかにする、公開する
+- [explore](/word/explore/)：探検する、調査する
+- [reveal](/word/reveal/)：明らかにする、公開する
 
 <!-- cvid: aid43_bid36 -->

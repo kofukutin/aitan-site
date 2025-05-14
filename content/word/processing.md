@@ -97,7 +97,7 @@ TOEICではITやビジネス文書、工場の説明などで「processing」が
 ## 🤔  process との違いは？
 
 - **processing**：処理や加工という「作業」や「進行中の状態」を表す
-- **[process](/word/process)**：一連の「過程」や「手順」、または「処理する」という動詞
+- **[process](/word/process/)**：一連の「過程」や「手順」、または「処理する」という動詞
 
 processingは「実際に処理している作業や状態」を指し、processは「手順」や「流れ」そのものを指します。
 
@@ -105,14 +105,14 @@ processingは「実際に処理している作業や状態」を指し、process
 
 ## 🧩 あわせて覚えたい
 
-- [procedure](/word/procedure)：手順、手続き
-- [operation](/word/operation)：操作、運用
+- [procedure](/word/procedure/)：手順、手続き
+- [operation](/word/operation/)：操作、運用
 
 ---
 
 ## 📖 できればこれも
 
-- [input](/word/input)：入力
-- [output](/word/output)：出力
+- [input](/word/input/)：入力
+- [output](/word/output/)：出力
 
 <!-- cvid: aid03_bid23 -->

@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や法務関連の長文で、不正行為や
 ## 🤔  scam との違いは？
 
 - **fraud**：法律的・ビジネス的な「詐欺」や「不正行為」全般を指し、ややフォーマル。
-- **[scam](/word/scam)**：日常的な「詐欺」「だまし」を指し、カジュアルで小規模な詐欺にも使う。
+- **[scam](/word/scam/)**：日常的な「詐欺」「だまし」を指し、カジュアルで小規模な詐欺にも使う。
 
 fraudは法的な文脈や公式な場面で使われ、scamは日常会話やネット詐欺などカジュアルな場面でよく使われます。
 
@@ -105,14 +105,14 @@ fraudは法的な文脈や公式な場面で使われ、scamは日常会話や�
 
 ## 🧩 あわせて覚えたい
 
-- [deception](/word/deception)：だますこと、欺瞞
-- [theft](/word/theft)：窃盗、盗み
+- [deception](/word/deception/)：だますこと、欺瞞
+- [theft](/word/theft/)：窃盗、盗み
 
 ---
 
 ## 📖 できればこれも
 
-- [crime](/word/crime)：犯罪
-- [evidence](/word/evidence)：証拠
+- [crime](/word/crime/)：犯罪
+- [evidence](/word/evidence/)：証拠
 
 <!-- cvid: aid32_bid32 -->

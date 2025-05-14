@@ -97,7 +97,7 @@ Please remain seated until the landing is complete.
 ## 🤔  arrival との違いは？
 
 - **landing**：飛行機や船が地面や岸に到着する「着陸」「上陸」
-- **[arrival](/word/arrival)**：人や物が目的地に到着する「到着」
+- **[arrival](/word/arrival/)**：人や物が目的地に到着する「到着」
 
 landingは主に乗り物の「着陸」「上陸」に使われ、arrivalは人や物全般の「到着」に使われます。
 
@@ -105,14 +105,14 @@ landingは主に乗り物の「着陸」「上陸」に使われ、arrivalは人
 
 ## 🧩 あわせて覚えたい
 
-- [departure](/word/departure)：出発
-- [touchdown](/word/touchdown)：（飛行機の）着地
+- [departure](/word/departure/)：出発
+- [touchdown](/word/touchdown/)：（飛行機の）着地
 
 ---
 
 ## 📖 できればこれも
 
-- [flight](/word/flight)：飛行
-- [runway](/word/runway)：滑走路
+- [flight](/word/flight/)：飛行
+- [runway](/word/runway/)：滑走路
 
 <!-- cvid: aid18_bid14 -->

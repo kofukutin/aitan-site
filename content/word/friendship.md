@@ -99,7 +99,7 @@ TOEICでは、メールや記事、手紙などの長文読解で「友情」や
 ## 🤔  relationship との違いは？
 
 - **friendship**：友人同士の親しい関係や友情を強調
-- **[relationship](/word/relationship)**：人間関係全般（家族・恋人・仕事など）を広く指す
+- **[relationship](/word/relationship/)**：人間関係全般（家族・恋人・仕事など）を広く指す
 
 friendshipは「友情」に特化し、relationshipはより広い人間関係全般を表します。
 
@@ -107,14 +107,14 @@ friendshipは「友情」に特化し、relationshipはより広い人間関係�
 
 ## 🧩 あわせて覚えたい
 
-- [acquaintance](/word/acquaintance)：知人、面識のある人
-- [partnership](/word/partnership)：協力関係、提携
+- [acquaintance](/word/acquaintance/)：知人、面識のある人
+- [partnership](/word/partnership/)：協力関係、提携
 
 ---
 
 ## 📖 できればこれも
 
-- [neighbor](/word/neighbor)：隣人
-- [teamwork](/word/teamwork)：協力、チームワーク
+- [neighbor](/word/neighbor/)：隣人
+- [teamwork](/word/teamwork/)：協力、チームワーク
 
 <!-- cvid: aid42_bid48 -->

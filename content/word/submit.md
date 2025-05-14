@@ -97,7 +97,7 @@ TOEICでは「書類を提出する」「申請する」といった文脈で頻
 ## 🤔  hand in との違いは？
 
 - **submit**：フォーマルな場面で「正式に提出する」
-- **[hand in](/word/hand_in)**：カジュアルに「手渡しで提出する」
+- **[hand in](/word/hand_in/)**：カジュアルに「手渡しで提出する」
 
 「submit」はオンラインや書面など形式を問わず公式な提出に使い、「hand in」は先生や上司に直接手渡すイメージです。
 
@@ -105,14 +105,14 @@ TOEICでは「書類を提出する」「申請する」といった文脈で頻
 
 ## 🧩 あわせて覚えたい
 
-- [approve](/word/approve)：承認する
-- [reject](/word/reject)：却下する
+- [approve](/word/approve/)：承認する
+- [reject](/word/reject/)：却下する
 
 ---
 
 ## 📖 できればこれも
 
-- [apply](/word/apply)：申し込む
-- [review](/word/review)：見直す、審査する
+- [apply](/word/apply/)：申し込む
+- [review](/word/review/)：見直す、審査する
 
 <!-- cvid: aid04_bid12 -->

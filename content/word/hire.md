@@ -98,7 +98,7 @@ TOEICでは「雇う」「採用する」の意味で、求人や人事関連の
 ## 🤔  recruit との違いは？
 
 - **hire**：実際に人を雇い入れること
-- **[recruit](/word/recruit)**：人材を募集・勧誘すること
+- **[recruit](/word/recruit/)**：人材を募集・勧誘すること
 
 「hire」は採用決定後の「雇う」に重点があり、「recruit」は人を集める活動そのものを指します。
 
@@ -106,14 +106,14 @@ TOEICでは「雇う」「採用する」の意味で、求人や人事関連の
 
 ## 🧩 あわせて覚えたい
 
-- [fire](/word/fire)：解雇する
-- [employ](/word/employ)：雇用する（ややフォーマル）
+- [fire](/word/fire/)：解雇する
+- [employ](/word/employ/)：雇用する（ややフォーマル）
 
 ---
 
 ## 📖 できればこれも
 
-- [apply](/word/apply)：応募する
-- [interview](/word/interview)：面接する・面接
+- [apply](/word/apply/)：応募する
+- [interview](/word/interview/)：面接する・面接
 
 <!-- cvid: aid40_bid25 -->

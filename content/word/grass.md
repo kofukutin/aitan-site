@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、風景や建物の説明時に登場し
 ## 🤔  lawn との違いは？
 
 - **grass**：自然に生えている草や芝生全般を指す。
-- **[lawn](/word/lawn)**：手入れされた芝生、特に庭や公園の芝生を指す。
+- **[lawn](/word/lawn/)**：手入れされた芝生、特に庭や公園の芝生を指す。
 
 grassは広く「草」全般を指し、lawnは特に刈り揃えられた芝生を意味します。
 
@@ -105,14 +105,14 @@ grassは広く「草」全般を指し、lawnは特に刈り揃えられた芝�
 
 ## 🧩 あわせて覚えたい
 
-- [weed](/word/weed)：雑草
-- [field](/word/field)：野原、畑
+- [weed](/word/weed/)：雑草
+- [field](/word/field/)：野原、畑
 
 ---
 
 ## 📖 できればこれも
 
-- [tree](/word/tree)：木
-- [flower](/word/flower)：花
+- [tree](/word/tree/)：木
+- [flower](/word/flower/)：花
 
 <!-- cvid: aid04_bid24 -->

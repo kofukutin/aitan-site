@@ -97,7 +97,7 @@ TOEICでは観光や文化、企業の歴史紹介などの文脈で登場する
 ## 🤔  legacy との違いは？
 
 - **heritage**：文化や伝統など、世代を超えて受け継がれる有形・無形の遺産
-- **[legacy](/word/legacy)**：主に人や出来事が残した影響や功績、財産など
+- **[legacy](/word/legacy/)**：主に人や出来事が残した影響や功績、財産など
 
 heritageは伝統や文化など「形ある・ないもの」を広く指し、legacyは「人が残した影響や功績」に焦点を当てる点が異なります。
 
@@ -105,13 +105,13 @@ heritageは伝統や文化など「形ある・ないもの」を広く指し、
 
 ## 🧩 あわせて覚えたい
 
-- [tradition](/word/tradition)：伝統
-- [inheritance](/word/inheritance)：（財産などの）相続、遺産
+- [tradition](/word/tradition/)：伝統
+- [inheritance](/word/inheritance/)：（財産などの）相続、遺産
 
 ---
 
 ## 📖 できればこれも
 
-- [culture](/word/culture)：文化
-- [monument](/word/monument)：記念碑、遺跡
+- [culture](/word/culture/)：文化
+- [monument](/word/monument/)：記念碑、遺跡
 <!-- cvid: aid20_bid38 -->

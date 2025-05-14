@@ -97,7 +97,7 @@ TOEICではメールや通知文、会議資料などで「確認」「承認」
 ## 🤔  approval との違いは？
 
 - **confirmation**：事実や内容が正しいことを「確認」すること、またはその通知。
-- **[approval](/word/approval)**：提案や申請などを「承認」すること、許可を与えるニュアンス。
+- **[approval](/word/approval/)**：提案や申請などを「承認」すること、許可を与えるニュアンス。
 
 confirmationは「正しいかどうかを確かめる」意味が強く、approvalは「許可・賛成」の意味が強いです。
 
@@ -105,14 +105,14 @@ confirmationは「正しいかどうかを確かめる」意味が強く、appro
 
 ## 🧩 あわせて覚えたい
 
-- [verification](/word/verification)：検証、確認
-- [denial](/word/denial)：否定、拒否
+- [verification](/word/verification/)：検証、確認
+- [denial](/word/denial/)：否定、拒否
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement)：合意、契約
-- [notification](/word/notification)：通知、お知らせ
+- [agreement](/word/agreement/)：合意、契約
+- [notification](/word/notification/)：通知、お知らせ
 
 <!-- cvid: aid34_bid23 -->

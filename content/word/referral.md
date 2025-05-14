@@ -97,7 +97,7 @@ TOEICでは求人広告やビジネスメール、医療関連の長文で「紹
 ## 🤔  recommendation との違いは？
 
 - **referral**：人やサービスを「紹介」すること、または紹介された人・案件自体を指す
-- **[recommendation](/word/recommendation)**：推薦状や「推薦」の意見・評価を指す
+- **[recommendation](/word/recommendation/)**：推薦状や「推薦」の意見・評価を指す
 
 referralは「紹介（つなぐ）」に重点があり、recommendationは「推薦（評価）」に重点があります。ビジネスや医療の紹介はreferral、推薦状や意見はrecommendationを使います。
 
@@ -105,14 +105,14 @@ referralは「紹介（つなぐ）」に重点があり、recommendationは「�
 
 ## 🧩 あわせて覚えたい
 
-- [reference](/word/reference)：参照、推薦状
-- [introduction](/word/introduction)：紹介、導入
+- [reference](/word/reference/)：参照、推薦状
+- [introduction](/word/introduction/)：紹介、導入
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/word/candidate)：候補者
-- [appointment](/word/appointment)：予約、任命
+- [candidate](/word/candidate/)：候補者
+- [appointment](/word/appointment/)：予約、任命
 
 <!-- cvid: aid06_bid31 -->

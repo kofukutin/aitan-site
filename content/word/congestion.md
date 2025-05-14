@@ -97,7 +97,7 @@ TOEICでは交通や都市計画、医療分野の説明文やレポートで「
 ## 🤔  crowding との違いは？
 
 - **congestion**：主に交通や体内など「流れが滞る」混雑・渋滞を指し、ややフォーマル。
-- **[crowding](/word/crowding)**：人や物が「ぎゅうぎゅうに詰まる」状態を幅広く指し、日常的。
+- **[crowding](/word/crowding/)**：人や物が「ぎゅうぎゅうに詰まる」状態を幅広く指し、日常的。
 
 congestionは「流れが妨げられる」ニュアンスが強く、crowdingは単に「人や物が多すぎる」状況を表します。
 
@@ -105,14 +105,14 @@ congestionは「流れが妨げられる」ニュアンスが強く、crowding�
 
 ## 🧩 あわせて覚えたい
 
-- [blockage](/word/blockage)：障害物、詰まり
-- [traffic jam](/word/traffic_jam)：交通渋滞
+- [blockage](/word/blockage/)：障害物、詰まり
+- [traffic jam](/word/traffic_jam/)：交通渋滞
 
 ---
 
 ## 📖 できればこれも
 
-- [delay](/word/delay)：遅れ、遅延
-- [obstacle](/word/obstacle)：障害、妨げ
+- [delay](/word/delay/)：遅れ、遅延
+- [obstacle](/word/obstacle/)：障害、妨げ
 
 <!-- cvid: aid31_bid42 -->

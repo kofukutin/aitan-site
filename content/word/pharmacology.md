@@ -97,7 +97,7 @@ TOEICでは医療や科学分野の長文記事や求人情報で見かけるこ
 ## 🤔  pharmacy との違いは？
 
 - **pharmacology**：薬の働きや効果を研究する学問分野
-- **[pharmacy](/word/pharmacy)**：薬局、または薬剤学（薬の調合や販売）
+- **[pharmacy](/word/pharmacy/)**：薬局、または薬剤学（薬の調合や販売）
 
 pharmacologyは「薬理学」という学問を指し、pharmacyは「薬局」や「薬剤学」として実際の薬の調合や販売に関わる場面で使われます。
 
@@ -105,14 +105,14 @@ pharmacologyは「薬理学」という学問を指し、pharmacyは「薬局」
 
 ## 🧩 あわせて覚えたい
 
-- [toxicology](/word/toxicology)：毒物学（有害物質の作用を研究する学問）
-- [medicine](/word/medicine)：医学、薬（治療や健康に関する分野）
+- [toxicology](/word/toxicology/)：毒物学（有害物質の作用を研究する学問）
+- [medicine](/word/medicine/)：医学、薬（治療や健康に関する分野）
 
 ---
 
 ## 📖 できればこれも
 
-- [prescription](/word/prescription)：処方箋
-- [pharmaceutical](/word/pharmaceutical)：製薬の、薬剤の
+- [prescription](/word/prescription/)：処方箋
+- [pharmaceutical](/word/pharmaceutical/)：製薬の、薬剤の
 
 <!-- cvid: aid11_bid39 -->

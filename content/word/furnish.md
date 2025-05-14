@@ -97,7 +97,7 @@ TOEICでは、オフィスや部屋の設備、書類の提出など「何かを
 ## 🤔  provide との違いは？
 
 - **furnish**：特に家具や設備など「物理的なもの」を備え付ける、またはフォーマルに「提供する」意味で使う
-- **[provide](/word/provide)**：より広く「与える・提供する」全般に使え、物理的なもの・情報・サービスなど幅広い
+- **[provide](/word/provide/)**：より広く「与える・提供する」全般に使え、物理的なもの・情報・サービスなど幅広い
 
 furnishは「備え付ける」ニュアンスが強く、provideは「与える・供給する」全般に使える点が異なります。
 
@@ -105,14 +105,14 @@ furnishは「備え付ける」ニュアンスが強く、provideは「与える
 
 ## 🧩 あわせて覚えたい
 
-- [supply](/word/supply)：供給する、支給する
-- [equip](/word/equip)：装備する、備え付ける
+- [supply](/word/supply/)：供給する、支給する
+- [equip](/word/equip/)：装備する、備え付ける
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install)：設置する、取り付ける
-- [decorate](/word/decorate)：飾る、装飾する
+- [install](/word/install/)：設置する、取り付ける
+- [decorate](/word/decorate/)：飾る、装飾する
 
 <!-- cvid: aid06_bid04 -->

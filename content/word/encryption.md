@@ -97,7 +97,7 @@ ITやセキュリティ関連の説明文やEメールで見かけることが�
 ## 🤔  encoding との違いは？
 
 - **encryption**：情報を第三者に読まれないように暗号化すること
-- **[encoding](/word/encoding)**：情報を特定の形式や規則に従って変換すること（例：文字コード変換）
+- **[encoding](/word/encoding/)**：情報を特定の形式や規則に従って変換すること（例：文字コード変換）
 
 encryptionは「安全性・秘密保持」が目的ですが、encodingは「データの形式変換」が主な目的です。
 
@@ -105,14 +105,14 @@ encryptionは「安全性・秘密保持」が目的ですが、encodingは「�
 
 ## 🧩 あわせて覚えたい
 
-- [decryption](/word/decryption)：復号、暗号を元に戻すこと
-- [cipher](/word/cipher)：暗号、暗号方式
+- [decryption](/word/decryption/)：復号、暗号を元に戻すこと
+- [cipher](/word/cipher/)：暗号、暗号方式
 
 ---
 
 ## 📖 できればこれも
 
-- [authentication](/word/authentication)：認証、本人確認
-- [firewall](/word/firewall)：ファイアウォール、外部からの不正アクセスを防ぐ仕組み
+- [authentication](/word/authentication/)：認証、本人確認
+- [firewall](/word/firewall/)：ファイアウォール、外部からの不正アクセスを防ぐ仕組み
 
 <!-- cvid: aid14_bid42 -->

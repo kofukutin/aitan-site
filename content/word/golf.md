@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、ゴルフをしている場面や用具
 ## 🤔  baseball との違いは？
 
 - **golf**：クラブでボールを打ち、ホールに入れる個人スポーツ。
-- **[baseball](/word/baseball)**：バットとボールを使い、チームで得点を競うスポーツ。
+- **[baseball](/word/baseball/)**：バットとボールを使い、チームで得点を競うスポーツ。
 
 golfは個人競技で静かな環境が特徴ですが、baseballはチーム戦でダイナミックな動きが多いスポーツです。
 
@@ -105,14 +105,14 @@ golfは個人競技で静かな環境が特徴ですが、baseballはチーム�
 
 ## 🧩 あわせて覚えたい
 
-- [tennis](/word/tennis)：ラケットでボールを打ち合うスポーツ
-- [course](/word/course)：ゴルフなどの競技場、コース
+- [tennis](/word/tennis/)：ラケットでボールを打ち合うスポーツ
+- [course](/word/course/)：ゴルフなどの競技場、コース
 
 ---
 
 ## 📖 できればこれも
 
-- [club](/word/club)：ゴルフクラブ（道具）
-- [player](/word/player)：選手、プレイヤー
+- [club](/word/club/)：ゴルフクラブ（道具）
+- [player](/word/player/)：選手、プレイヤー
 
 <!-- cvid: aid00_bid16 -->

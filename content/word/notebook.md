@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、机の上に置かれている物と
 ## 🤔  laptop との違いは？
 
 - **notebook**：紙のノート、またはノートパソコンの両方の意味がある
-- **[laptop](/word/laptop)**：ノートパソコンのみを指す
+- **[laptop](/word/laptop/)**：ノートパソコンのみを指す
 
 notebookは「紙のノート」と「ノートパソコン」の両方の意味で使われますが、laptopは「ノートパソコン」だけを指します。
 
@@ -105,14 +105,14 @@ notebookは「紙のノート」と「ノートパソコン」の両方の意味
 
 ## 🧩 あわせて覚えたい
 
-- [journal](/word/journal)：日記、記録帳
-- [tablet](/word/tablet)：タブレット端末
+- [journal](/word/journal/)：日記、記録帳
+- [tablet](/word/tablet/)：タブレット端末
 
 ---
 
 ## 📖 できればこれも
 
-- [folder](/word/folder)：フォルダー、書類入れ
-- [document](/word/document)：書類、文書
+- [folder](/word/folder/)：フォルダー、書類入れ
+- [document](/word/document/)：書類、文書
 
 <!-- cvid: aid17_bid37 -->

@@ -97,7 +97,7 @@ sheerはTOEICの長文読解パートで、強調や純粋さを表す形容詞�
 ## 🤔  pure との違いは？
 
 - **sheer**：強調や極端さ、混じりけのなさを表し、「まったくの」「純粋な」「極端な」といった意味で使う。
-- **[pure](/word/pure)**：混じりけがない、純粋な性質そのものを表す。
+- **[pure](/word/pure/)**：混じりけがない、純粋な性質そのものを表す。
 
 sheerは「度合いの強さ」や「極端さ」を強調するのに対し、pureは「混じりけのなさ」や「本来の性質」に焦点を当てます。
 
@@ -105,14 +105,14 @@ sheerは「度合いの強さ」や「極端さ」を強調するのに対し、
 
 ## 🧩 あわせて覚えたい
 
-- [absolute](/word/absolute)：絶対的な、完全な
-- [transparent](/word/transparent)：透明な、明白な
+- [absolute](/word/absolute/)：絶対的な、完全な
+- [transparent](/word/transparent/)：透明な、明白な
 
 ---
 
 ## 📖 できればこれも
 
-- [mere](/word/mere)：単なる、ほんの
-- [utter](/word/utter)：全くの、完全な
+- [mere](/word/mere/)：単なる、ほんの
+- [utter](/word/utter/)：全くの、完全な
 
 <!-- cvid: aid37_bid04 -->

@@ -97,7 +97,7 @@ TOEICでは、メールや通知文、公式な書類の説明文などで「ver
 ## 🤔  confirmed との違いは？
 
 - **verified**：第三者や公式な手続きで「証明・確認された」ことを強調
-- **[confirmed](/word/confirmed)**：事実や予定などが「確定・承認された」ことを強調
+- **[confirmed](/word/confirmed/)**：事実や予定などが「確定・承認された」ことを強調
 
 「verified」は証拠や手続きによる厳密な確認、「confirmed」は決定や承認のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは、メールや通知文、公式な書類の説明文などで「ver
 
 ## 🧩 あわせて覚えたい
 
-- [authenticate](/word/authenticate)：本物であることを認証する
-- [validate](/word/validate)：有効性を確認する、妥当と認める
+- [authenticate](/word/authenticate/)：本物であることを認証する
+- [validate](/word/validate/)：有効性を確認する、妥当と認める
 
 ---
 
 ## 📖 できればこれも
 
-- [approved](/word/approved)：承認された
-- [certified](/word/certified)：認定された
+- [approved](/word/approved/)：承認された
+- [certified](/word/certified/)：認定された
 
 <!-- cvid: aid17_bid49 -->

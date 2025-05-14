@@ -97,7 +97,7 @@ TOEICでは、趣味やイベント、料理教室などの会話で baking が�
 ## 🤔  cooking との違いは？
 
 - **baking**：オーブンでパンやケーキなどを焼くことに特化した調理方法
-- **[cooking](/word/cooking)**：調理全般を指し、焼く・煮る・炒めるなどすべてを含む
+- **[cooking](/word/cooking/)**：調理全般を指し、焼く・煮る・炒めるなどすべてを含む
 
 bakingは「焼く」ことに限定され、cookingはより広い意味で使われます。
 
@@ -105,14 +105,14 @@ bakingは「焼く」ことに限定され、cookingはより広い意味で使�
 
 ## 🧩 あわせて覚えたい
 
-- [roasting](/word/roasting)：（肉や野菜などをオーブンで）焼くこと
-- [grilling](/word/grilling)：（直火やグリルで）焼くこと
+- [roasting](/word/roasting/)：（肉や野菜などをオーブンで）焼くこと
+- [grilling](/word/grilling/)：（直火やグリルで）焼くこと
 
 ---
 
 ## 📖 できればこれも
 
-- [oven](/word/oven)：オーブン
-- [recipe](/word/recipe)：レシピ、調理法
+- [oven](/word/oven/)：オーブン
+- [recipe](/word/recipe/)：レシピ、調理法
 
 <!-- cvid: aid28_bid35 -->

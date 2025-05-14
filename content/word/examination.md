@@ -98,7 +98,7 @@ TOEICでは「試験」「検査」「調査」などの意味で、選択肢や
 ## 🤔  test との違いは？
 
 - **examination**：よりフォーマルで、時間や範囲が広い「試験」「検査」に使われる
-- **[test](/word/test)**：日常的・カジュアルな「テスト」「小テスト」に使われる
+- **[test](/word/test/)**：日常的・カジュアルな「テスト」「小テスト」に使われる
 
 examinationは公式な場や大規模な評価に使われ、testは日常的な小テストや簡単なチェックに使われます。
 
@@ -106,14 +106,14 @@ examinationは公式な場や大規模な評価に使われ、testは日常的�
 
 ## 🧩 あわせて覚えたい
 
-- [assessment](/word/assessment)：評価、査定
-- [inspection](/word/inspection)：検査、点検
+- [assessment](/word/assessment/)：評価、査定
+- [inspection](/word/inspection/)：検査、点検
 
 ---
 
 ## 📖 できればこれも
 
-- [interview](/word/interview)：面接、インタビュー
-- [evaluation](/word/evaluation)：評価、判定
+- [interview](/word/interview/)：面接、インタビュー
+- [evaluation](/word/evaluation/)：評価、判定
 
 <!-- cvid: aid48_bid16 -->

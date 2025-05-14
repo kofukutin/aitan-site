@@ -98,7 +98,7 @@ TOEICでは、銀行での手続きや口座に関する会話、振込や支払
 ## 🤔  bench との違いは？
 
 - **bank**：お金を預けたり借りたりする「銀行」や、川の「土手」などを指す。
-- **[bench](/word/bench)**：座るための「ベンチ」や長椅子を指す。
+- **[bench](/word/bench/)**：座るための「ベンチ」や長椅子を指す。
 
 bankは金融機関や地形、benchは座る場所と、意味も使う場面も大きく異なります。
 
@@ -106,14 +106,14 @@ bankは金融機関や地形、benchは座る場所と、意味も使う場面�
 
 ## 🧩 あわせて覚えたい
 
-- [account](/word/account)：口座、アカウント
-- [loan](/word/loan)：ローン、貸付
+- [account](/word/account/)：口座、アカウント
+- [loan](/word/loan/)：ローン、貸付
 
 ---
 
 ## 📖 できればこれも
 
-- [branch](/word/branch)：支店、枝
-- [cash](/word/cash)：現金
+- [branch](/word/branch/)：支店、枝
+- [cash](/word/cash/)：現金
 
 <!-- cvid: aid11_bid23 -->

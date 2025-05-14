@@ -97,7 +97,7 @@ TOEICでは、見積もりや引用文の説明、ビジネスメールや契約
 ## 🤔  cited との違いは？
 
 - **quoted**：文章や発言をそのまま引用する、または価格などを提示する
-- **[cited](/word/cited)**：主に論拠や証拠として文献・例を挙げる
+- **[cited](/word/cited/)**：主に論拠や証拠として文献・例を挙げる
 
 **quoted**は「そのままの言葉を取り上げる」ニュアンスが強く、**cited**は「参考文献や証拠として挙げる」場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、見積もりや引用文の説明、ビジネスメールや契約
 
 ## 🧩 あわせて覚えたい
 
-- [mention](/word/mention)：言及する
-- [estimate](/word/estimate)：見積もる
+- [mention](/word/mention/)：言及する
+- [estimate](/word/estimate/)：見積もる
 
 ---
 
 ## 📖 できればこれも
 
-- [refer](/word/refer)：参照する、言及する
-- [state](/word/state)：述べる
+- [refer](/word/refer/)：参照する、言及する
+- [state](/word/state/)：述べる
 
 <!-- cvid: aid37_bid08 -->

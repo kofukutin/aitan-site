@@ -97,7 +97,7 @@ TOEICでは、公式な通知や公告、政府関連の文書を読む問題で
 ## 🤔  newspaper との違いは？
 
 - **gazette**：政府や公的機関が公式な情報を発表するための公報・官報
-- **[newspaper](/word/newspaper)**：一般的なニュースや記事を掲載する新聞
+- **[newspaper](/word/newspaper/)**：一般的なニュースや記事を掲載する新聞
 
 gazetteは公式な発表や公告に特化したフォーマルな媒体、newspaperは日常的なニュースや記事を幅広く扱う媒体です。
 
@@ -105,14 +105,14 @@ gazetteは公式な発表や公告に特化したフォーマルな媒体、news
 
 ## 🧩 あわせて覚えたい
 
-- [bulletin](/word/bulletin)：掲示、速報、短い公報
-- [journal](/word/journal)：雑誌、専門誌、日誌
+- [bulletin](/word/bulletin/)：掲示、速報、短い公報
+- [journal](/word/journal/)：雑誌、専門誌、日誌
 
 ---
 
 ## 📖 できればこれも
 
-- [brochure](/word/brochure)：パンフレット、小冊子
-- [newsletter](/word/newsletter)：会報、ニュースレター
+- [brochure](/word/brochure/)：パンフレット、小冊子
+- [newsletter](/word/newsletter/)：会報、ニュースレター
 
 <!-- cvid: aid43_bid25 -->

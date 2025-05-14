@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「誰がいつ出発するか」「退職する
 ## 🤔  departing との違いは？
 
 - **leaving**：日常的な「去る」「離れる」を幅広く表す。
-- **[departing](/word/departing)**：ややフォーマルで「出発する」「旅立つ」に特化。
+- **[departing](/word/departing/)**：ややフォーマルで「出発する」「旅立つ」に特化。
 
 「leaving」は日常会話やビジネスで広く使われ、「departing」は主に交通機関や公式な場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「誰がいつ出発するか」「退職する
 
 ## 🧩 あわせて覚えたい
 
-- [arrive](/word/arrive)：到着する
-- [quit](/word/quit)：辞める、やめる
+- [arrive](/word/arrive/)：到着する
+- [quit](/word/quit/)：辞める、やめる
 
 ---
 
 ## 📖 できればこれも
 
-- [return](/word/return)：戻る
-- [enter](/word/enter)：入る
+- [return](/word/return/)：戻る
+- [enter](/word/enter/)：入る
 
 <!-- cvid: aid25_bid08 -->

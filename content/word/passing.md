@@ -97,7 +97,7 @@ TOEICでは「通過」「合格」「可決」などの意味で名詞として
 ## 🤔  passing away との違いは？
 
 - **passing**：通過、合格、可決、死去など幅広い意味を持つ名詞。
-- **[passing away](/word/passing_away)**：主に「死去」という意味で使われるやわらかい表現。
+- **[passing away](/word/passing_away/)**：主に「死去」という意味で使われるやわらかい表現。
 
 passingは文脈によって意味が変わりますが、passing awayは「亡くなること」に限定され、より婉曲的な表現です。
 
@@ -105,14 +105,14 @@ passingは文脈によって意味が変わりますが、passing awayは「亡�
 
 ## 🧩 あわせて覚えたい
 
-- [approval](/word/approval)：承認、許可
-- [transition](/word/transition)：移行、変化
+- [approval](/word/approval/)：承認、許可
+- [transition](/word/transition/)：移行、変化
 
 ---
 
 ## 📖 できればこれも
 
-- [permit](/word/permit)：許可する、許可証
-- [process](/word/process)：過程、処理
+- [permit](/word/permit/)：許可する、許可証
+- [process](/word/process/)：過程、処理
 
 <!-- cvid: aid34_bid14 -->

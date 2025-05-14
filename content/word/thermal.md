@@ -97,7 +97,7 @@ TOEICでは、科学技術や製品説明の文脈でthermalが登場するこ�
 ## 🤔  hot との違いは？
 
 - **thermal**：熱に関する、熱による（科学的・技術的な文脈で使う）
-- **[hot](/word/hot)**：熱い、暑い（温度が高いことを直接表現）
+- **[hot](/word/hot/)**：熱い、暑い（温度が高いことを直接表現）
 
 thermalは「熱に関する性質や現象」を指し、hotは「実際に熱い・暑い」という感覚的な状態を表します。
 
@@ -105,14 +105,14 @@ thermalは「熱に関する性質や現象」を指し、hotは「実際に熱�
 
 ## 🧩 あわせて覚えたい
 
-- [temperature](/word/temperature)：温度
-- [insulate](/word/insulate)：断熱する
+- [temperature](/word/temperature/)：温度
+- [insulate](/word/insulate/)：断熱する
 
 ---
 
 ## 📖 できればこれも
 
-- [chemical](/word/chemical)：化学の、化学物質
-- [mechanical](/word/mechanical)：機械の、機械的な
+- [chemical](/word/chemical/)：化学の、化学物質
+- [mechanical](/word/mechanical/)：機械の、機械的な
 
 <!-- cvid: aid33_bid34 -->

@@ -97,7 +97,7 @@ TOEICではビジネス文脈で「利益を最大化する」「効率を最大
 ## 🤔  optimize との違いは？
 
 - **maximize**：できるだけ大きくする、最大限に引き上げる
-- **[optimize](/word/optimize)**：最適化する、最も良い状態に調整する
+- **[optimize](/word/optimize/)**：最適化する、最も良い状態に調整する
 
 maximizeは「とにかく最大にする」ことに重点があり、optimizeは「状況に応じて最も良いバランスにする」ニュアンスです。
 
@@ -105,14 +105,14 @@ maximizeは「とにかく最大にする」ことに重点があり、optimize�
 
 ## 🧩 あわせて覚えたい
 
-- [increase](/word/increase)：増やす
-- [reduce](/word/reduce)：減らす
+- [increase](/word/increase/)：増やす
+- [reduce](/word/reduce/)：減らす
 
 ---
 
 ## 📖 できればこれも
 
-- [minimize](/word/minimize)：最小限にする
-- [improve](/word/improve)：改善する
+- [minimize](/word/minimize/)：最小限にする
+- [improve](/word/improve/)：改善する
 
 <!-- cvid: aid38_bid29 -->

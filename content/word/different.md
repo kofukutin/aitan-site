@@ -97,7 +97,7 @@ TOEICでは、形容詞の語彙問題や比較表現の文脈でよく出題さ
 ## 🤔  various との違いは？
 
 - **different**：2つ以上のものが「互いに異なる」ことを強調
-- **[various](/word/various)**：多様な種類やバリエーションがあることを強調
+- **[various](/word/various/)**：多様な種類やバリエーションがあることを強調
 
 「different」は「違い」に焦点を当て、「various」は「多様性」や「いろいろある」ことに焦点を当てます。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞の語彙問題や比較表現の文脈でよく出題さ
 
 ## 🧩 あわせて覚えたい
 
-- [similar](/word/similar)：似ている
-- [distinct](/word/distinct)：はっきり異なる、明確に違う
+- [similar](/word/similar/)：似ている
+- [distinct](/word/distinct/)：はっきり異なる、明確に違う
 
 ---
 
 ## 📖 できればこれも
 
-- [unique](/word/unique)：唯一の、独特な
-- [another](/word/another)：もう一つの、別の
+- [unique](/word/unique/)：唯一の、独特な
+- [another](/word/another/)：もう一つの、別の
 
 <!-- cvid: aid28_bid26 -->

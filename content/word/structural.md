@@ -97,7 +97,7 @@ TOEICでは主に建築や組織の説明文、技術系の文脈で形容詞と
 ## 🤔  construction との違いは？
 
 - **structural**：構造そのものや構造上の性質・問題を表す形容詞
-- **[construction](/word/construction)**：建設や建造という行為やその過程、または建物自体を指す名詞
+- **[construction](/word/construction/)**：建設や建造という行為やその過程、または建物自体を指す名詞
 
 structuralは「構造的な特徴や問題」に焦点を当て、constructionは「建設する行為や物」に使います。
 
@@ -105,14 +105,14 @@ structuralは「構造的な特徴や問題」に焦点を当て、construction�
 
 ## 🧩 あわせて覚えたい
 
-- [framework](/word/framework)：枠組み、骨組み
-- [physical](/word/physical)：物理的な、身体の
+- [framework](/word/framework/)：枠組み、骨組み
+- [physical](/word/physical/)：物理的な、身体の
 
 ---
 
 ## 📖 できればこれも
 
-- [mechanical](/word/mechanical)：機械的な
-- [architectural](/word/architectural)：建築の、建築学の
+- [mechanical](/word/mechanical/)：機械的な
+- [architectural](/word/architectural/)：建築の、建築学の
 
 <!-- cvid: aid33_bid08 -->

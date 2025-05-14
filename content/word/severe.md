@@ -97,7 +97,7 @@ TOEICでは、規則や状況の「厳しさ」や「深刻さ」を表す文脈
 ## 🤔  harsh との違いは？
 
 - **severe**：深刻さや厳しさ、容赦のなさをフォーマルに表現する。
-- **[harsh](/word/harsh)**：感覚的に「荒々しい」「手厳しい」など、より感情的・直接的な厳しさを表す。
+- **[harsh](/word/harsh/)**：感覚的に「荒々しい」「手厳しい」など、より感情的・直接的な厳しさを表す。
 
 severeは状況や規則、問題の深刻さを冷静に述べる時に使い、harshは人や言動、環境が「きつい」「冷たい」と感じる時に使います。
 
@@ -105,14 +105,14 @@ severeは状況や規則、問題の深刻さを冷静に述べる時に使い�
 
 ## 🧩 あわせて覚えたい
 
-- [strict](/word/strict)：厳格な、厳しい（規則や人に対して使う）
-- [serious](/word/serious)：深刻な、重大な（問題や状況に使う）
+- [strict](/word/strict/)：厳格な、厳しい（規則や人に対して使う）
+- [serious](/word/serious/)：深刻な、重大な（問題や状況に使う）
 
 ---
 
 ## 📖 できればこれも
 
-- [intense](/word/intense)：強烈な、激しい
-- [critical](/word/critical)：重大な、危機的な
+- [intense](/word/intense/)：強烈な、激しい
+- [critical](/word/critical/)：重大な、危機的な
 
 <!-- cvid: aid35_bid47 -->

@@ -97,7 +97,7 @@ TOEICでは道案内や説明、または意見を率直に述べる場面で出
 ## 🤔  direct との違いは？
 
 - **straight**：物理的・比喩的に「曲がりのない」「率直な」
-- **[direct](/word/direct)**：目的地や対象に「直接向かう」「遠回りしない」
+- **[direct](/word/direct/)**：目的地や対象に「直接向かう」「遠回りしない」
 
 straightは「一直線」や「ごまかしのない」ニュアンス、directは「中間を挟まず直接的」という違いがあります。
 
@@ -105,14 +105,14 @@ straightは「一直線」や「ごまかしのない」ニュアンス、direct
 
 ## 🧩 あわせて覚えたい
 
-- [honest](/word/honest)：正直な
-- [vertical](/word/vertical)：垂直な
+- [honest](/word/honest/)：正直な
+- [vertical](/word/vertical/)：垂直な
 
 ---
 
 ## 📖 できればこれも
 
-- [clear](/word/clear)：明確な
-- [simple](/word/simple)：簡単な
+- [clear](/word/clear/)：明確な
+- [simple](/word/simple/)：簡単な
 
 <!-- cvid: aid14_bid16 -->

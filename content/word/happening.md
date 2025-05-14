@@ -97,7 +97,7 @@ TOEICでは会話や説明文の中で「出来事」や「何かが起こった
 ## 🤔  event との違いは？
 
 - **happening**：予期せず起こる出来事やちょっとした事件をカジュアルに表現
-- **[event](/word/event)**：公式・重要な出来事や行事を指すフォーマルな語
+- **[event](/word/event/)**：公式・重要な出来事や行事を指すフォーマルな語
 
 happeningは日常的で予想外の出来事に使い、eventは計画的・公式な場面や大きな出来事に使われます。
 
@@ -105,14 +105,14 @@ happeningは日常的で予想外の出来事に使い、eventは計画的・公
 
 ## 🧩 あわせて覚えたい
 
-- [incident](/word/incident)：（やや重大な）出来事、事件
-- [occasion](/word/occasion)：特別な機会、行事
+- [incident](/word/incident/)：（やや重大な）出来事、事件
+- [occasion](/word/occasion/)：特別な機会、行事
 
 ---
 
 ## 📖 できればこれも
 
-- [situation](/word/situation)：状況、立場
-- [activity](/word/activity)：活動、行動
+- [situation](/word/situation/)：状況、立場
+- [activity](/word/activity/)：活動、行動
 
 <!-- cvid: aid16_bid42 -->

@@ -97,7 +97,7 @@ looseはPart 5で形容詞の語彙や文法問題として出題されること
 ## 🤔  release との違いは？
 
 - **loose**：しっかり固定されていない、ゆるい状態を表す形容詞
-- **[release](/word/release)**：何かを解放する、自由にするという動詞
+- **[release](/word/release/)**：何かを解放する、自由にするという動詞
 
 looseは「物理的にゆるい」状態、releaseは「何かを解き放つ」動作を表します。
 
@@ -105,14 +105,14 @@ looseは「物理的にゆるい」状態、releaseは「何かを解き放つ�
 
 ## 🧩 あわせて覚えたい
 
-- [tight](/word/tight)：きつい、しっかりした
-- [relax](/word/relax)：くつろぐ、緩める
+- [tight](/word/tight/)：きつい、しっかりした
+- [relax](/word/relax/)：くつろぐ、緩める
 
 ---
 
 ## 📖 できればこれも
 
-- [firm](/word/firm)：堅い、しっかりした
-- [slack](/word/slack)：たるんだ、ゆるい
+- [firm](/word/firm/)：堅い、しっかりした
+- [slack](/word/slack/)：たるんだ、ゆるい
 
 <!-- cvid: aid17_bid33 -->

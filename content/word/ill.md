@@ -97,7 +97,7 @@ TOEICでは、体調や健康状態を尋ねる会話文で出題されること
 ## 🤔  sick との違いは？
 
 - **ill**：イギリス英語で「病気の」「体調が悪い」を表すややフォーマルな表現
-- **[sick](/word/sick)**：アメリカ英語で一般的な「病気の」、または「吐き気がする」も含む
+- **[sick](/word/sick/)**：アメリカ英語で一般的な「病気の」、または「吐き気がする」も含む
 
 illはイギリス英語でよく使われ、sickはアメリカ英語でよりカジュアルに使われます。
 
@@ -105,14 +105,14 @@ illはイギリス英語でよく使われ、sickはアメリカ英語でより�
 
 ## 🧩 あわせて覚えたい
 
-- [healthy](/word/healthy)：健康な
-- [disease](/word/disease)：病気（特に具体的な病名や疾患）
+- [healthy](/word/healthy/)：健康な
+- [disease](/word/disease/)：病気（特に具体的な病名や疾患）
 
 ---
 
 ## 📖 できればこれも
 
-- [injured](/word/injured)：けがをした
-- [weak](/word/weak)：弱い、体力がない
+- [injured](/word/injured/)：けがをした
+- [weak](/word/weak/)：弱い、体力がない
 
 <!-- cvid: aid10_bid02 -->

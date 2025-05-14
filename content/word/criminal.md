@@ -98,7 +98,7 @@ TOEICでは主に記事や説明文、法務関連の長文で登場します。
 ## 🤔  offender との違いは？
 
 - **criminal**：法律に違反し、罪を犯した人（犯罪者）を指す。
-- **[offender](/word/offender)**：違反者全般（犯罪に限らず規則違反も含む）を指す。
+- **[offender](/word/offender/)**：違反者全般（犯罪に限らず規則違反も含む）を指す。
 
 criminalは「犯罪者」として罪の重さや否定的なニュアンスが強く、offenderは「違反者」として幅広い違反行為に使われます。
 
@@ -106,14 +106,14 @@ criminalは「犯罪者」として罪の重さや否定的なニュアンスが
 
 ## 🧩 あわせて覚えたい
 
-- [victim](/word/victim)：被害者
-- [suspect](/word/suspect)：容疑者
+- [victim](/word/victim/)：被害者
+- [suspect](/word/suspect/)：容疑者
 
 ---
 
 ## 📖 できればこれも
 
-- [evidence](/word/evidence)：証拠
-- [trial](/word/trial)：裁判
+- [evidence](/word/evidence/)：証拠
+- [trial](/word/trial/)：裁判
 
 <!-- cvid: aid26_bid26 -->

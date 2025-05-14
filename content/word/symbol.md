@@ -97,7 +97,7 @@ TOEICでは、symbolはロゴやマーク、象徴的な意味を問う文脈で
 ## 🤔  sign との違いは？
 
 - **symbol**：抽象的な意味や概念を象徴する記号やマーク
-- **[sign](/word/sign)**：具体的な合図や標識、サイン
+- **[sign](/word/sign/)**：具体的な合図や標識、サイン
 
 symbolは「愛」や「平和」など抽象的なものを表すのに使い、signは「出口の標識」や「合図」など具体的なものに使います。
 
@@ -105,14 +105,14 @@ symbolは「愛」や「平和」など抽象的なものを表すのに使い�
 
 ## 🧩 あわせて覚えたい
 
-- [icon](/word/icon)：アイコン、象徴的な図
-- [mark](/word/mark)：印、記号
+- [icon](/word/icon/)：アイコン、象徴的な図
+- [mark](/word/mark/)：印、記号
 
 ---
 
 ## 📖 できればこれも
 
-- [figure](/word/figure)：図形、数字
-- [pattern](/word/pattern)：模様、パターン
+- [figure](/word/figure/)：図形、数字
+- [pattern](/word/pattern/)：模様、パターン
 
 <!-- cvid: aid35_bid46 -->

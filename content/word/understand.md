@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「理解する」「分かる」という意味
 ## 🤔  realize との違いは？
 
 - **understand**：言葉や状況、相手の気持ちなどを正しく把握すること
-- **[realize](/word/realize)**：気づく、はっきり認識すること
+- **[realize](/word/realize/)**：気づく、はっきり認識すること
 
 understandは「内容を理解する」こと、realizeは「今まで気づかなかったことに気づく」ニュアンスです。
 
@@ -105,14 +105,14 @@ understandは「内容を理解する」こと、realizeは「今まで気づか
 
 ## 🧩 あわせて覚えたい
 
-- [comprehend](/word/comprehend)：（難しいことを）完全に理解する
-- [misunderstand](/word/misunderstand)：誤解する
+- [comprehend](/word/comprehend/)：（難しいことを）完全に理解する
+- [misunderstand](/word/misunderstand/)：誤解する
 
 ---
 
 ## 📖 できればこれも
 
-- [explain](/word/explain)：説明する
-- [know](/word/know)：知っている
+- [explain](/word/explain/)：説明する
+- [know](/word/know/)：知っている
 
 <!-- cvid: aid34_bid24 -->

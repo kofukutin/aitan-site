@@ -96,7 +96,7 @@ TOEICでは主にメールやチャットなどカジュアルな文脈で登場
 ## 🤔  university との違いは？
 
 - **uni**：カジュアルな会話やメッセージで使う「大学」の略語
-- **[university](/word/university)**：フォーマル・正式な「大学」
+- **[university](/word/university/)**：フォーマル・正式な「大学」
 
 uniは親しい間柄や日常会話で使われ、universityは書類や公式な場面で使われます。
 
@@ -104,14 +104,14 @@ uniは親しい間柄や日常会話で使われ、universityは書類や公式�
 
 ## 🧩 あわせて覚えたい
 
-- [college](/word/college)：（主に米国で使う）大学、短大
-- [campus](/word/campus)：大学の敷地、キャンパス
+- [college](/word/college/)：（主に米国で使う）大学、短大
+- [campus](/word/campus/)：大学の敷地、キャンパス
 
 ---
 
 ## 📖 できればこれも
 
-- [lecture](/word/lecture)：講義
-- [student](/word/student)：学生
+- [lecture](/word/lecture/)：講義
+- [student](/word/student/)：学生
 
 <!-- cvid: aid19_bid44 -->

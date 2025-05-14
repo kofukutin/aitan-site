@@ -97,7 +97,7 @@ TOEICでは、教育機関や資格、サービスの説明文で「accredited�
 ## 🤔  certified との違いは？
 
 - **accredited**：公式な機関によって認可・認定されたことを強調
-- **[certified](/word/certified)**：資格や能力などが証明書などで証明されたことを強調
+- **[certified](/word/certified/)**：資格や能力などが証明書などで証明されたことを強調
 
 「accredited」は組織や施設の認可に多く使われ、「certified」は個人の資格や能力の証明に使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、教育機関や資格、サービスの説明文で「accredited�
 
 ## 🧩 あわせて覚えたい
 
-- [authorized](/word/authorized)：権限を与えられた、認可された
-- [approved](/word/approved)：承認された、認可された
+- [authorized](/word/authorized/)：権限を与えられた、認可された
+- [approved](/word/approved/)：承認された、認可された
 
 ---
 
 ## 📖 できればこれも
 
-- [eligible](/word/eligible)：資格がある、適格な
-- [qualified](/word/qualified)：資格を持った、適任の
+- [eligible](/word/eligible/)：資格がある、適格な
+- [qualified](/word/qualified/)：資格を持った、適任の
 
 <!-- cvid: aid41_bid39 -->

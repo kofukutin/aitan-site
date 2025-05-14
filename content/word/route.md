@@ -97,7 +97,7 @@ TOEICでは、交通・物流・出張・案内などの場面で「route」が�
 ## 🤔  path との違いは？
 
 - **route**：決まった道筋や経路、特に交通や計画で使う
-- **[path](/word/path)**：小道や細い道、または抽象的な進路
+- **[path](/word/path/)**：小道や細い道、または抽象的な進路
 
 「route」は目的地までの公式な経路やルートを指し、「path」は自然の小道や人生の進路など幅広く使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、交通・物流・出張・案内などの場面で「route」が�
 
 ## 🧩 あわせて覚えたい
 
-- [direction](/word/direction)：方向、方角
-- [course](/word/course)：進路、コース
+- [direction](/word/direction/)：方向、方角
+- [course](/word/course/)：進路、コース
 
 ---
 
 ## 📖 できればこれも
 
-- [road](/word/road)：道路、道
-- [track](/word/track)：小道、線路
+- [road](/word/road/)：道路、道
+- [track](/word/track/)：小道、線路
 
 <!-- cvid: aid03_bid09 -->

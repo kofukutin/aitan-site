@@ -97,7 +97,7 @@ TOEICでは旅行や出張、予約に関する長文やEメールでよく登�
 ## 🤔  carrier との違いは？
 
 - **airline**：旅客や貨物を運ぶ航空会社を指す。
-- **[carrier](/word/carrier)**：運送業者全般（航空・陸・海）を指し、航空会社以外も含む。
+- **[carrier](/word/carrier/)**：運送業者全般（航空・陸・海）を指し、航空会社以外も含む。
 
 airlineは空を飛ぶ会社に限定されますが、carrierは運送業者全般を指すため、より広い意味になります。
 
@@ -105,14 +105,14 @@ airlineは空を飛ぶ会社に限定されますが、carrierは運送業者全
 
 ## 🧩 あわせて覚えたい
 
-- [airport](/word/airport)：空港
-- [flight](/word/flight)：フライト、便
+- [airport](/word/airport/)：空港
+- [flight](/word/flight/)：フライト、便
 
 ---
 
 ## 📖 できればこれも
 
-- [airport](/word/airport)：空港
-- [ticket](/word/ticket)：チケット、切符
+- [airport](/word/airport/)：空港
+- [ticket](/word/ticket/)：チケット、切符
 
 <!-- cvid: aid14_bid41 -->

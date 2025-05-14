@@ -97,7 +97,7 @@ TOEICでは主に食べ物や飲み物の描写、または人の性格を表す
 ## 🤔  dessert との違いは？
 
 - **sweet**：甘い、または優しい・心地よいという形容詞。食べ物や人、雰囲気など幅広く使う。
-- **[dessert](/word/dessert)**：食後に食べる「デザート」という名詞。
+- **[dessert](/word/dessert/)**：食後に食べる「デザート」という名詞。
 
 「sweet」は味や性格など幅広く形容詞として使い、「dessert」は食事の最後に食べる甘いもの自体を指す名詞です。
 
@@ -105,14 +105,14 @@ TOEICでは主に食べ物や飲み物の描写、または人の性格を表す
 
 ## 🧩 あわせて覚えたい
 
-- [bitter](/word/bitter)：苦い
-- [candy](/word/candy)：キャンディー、あめ
+- [bitter](/word/bitter/)：苦い
+- [candy](/word/candy/)：キャンディー、あめ
 
 ---
 
 ## 📖 できればこれも
 
-- [soft](/word/soft)：やわらかい
-- [fresh](/word/fresh)：新鮮な
+- [soft](/word/soft/)：やわらかい
+- [fresh](/word/fresh/)：新鮮な
 
 <!-- cvid: aid26_bid34 -->

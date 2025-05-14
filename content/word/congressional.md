@@ -97,7 +97,7 @@ TOEICでは、政治や法律に関する記事や公式文書の中で見かけ
 ## 🤔  legislative との違いは？
 
 - **congressional**：アメリカの「議会（Congress）」に直接関係する
-- **[legislative](/word/legislative)**：立法に関する、法律制定に関する
+- **[legislative](/word/legislative/)**：立法に関する、法律制定に関する
 
 congressionalは主に米国議会に限定して使われ、legislativeは立法全般や法律制定の過程に広く使われます。
 
@@ -105,14 +105,14 @@ congressionalは主に米国議会に限定して使われ、legislativeは立�
 
 ## 🧩 あわせて覚えたい
 
-- [parliamentary](/word/parliamentary)：議会の（特にイギリスなどの議会制に関する）
-- [executive](/word/executive)：行政の、執行権の
+- [parliamentary](/word/parliamentary/)：議会の（特にイギリスなどの議会制に関する）
+- [executive](/word/executive/)：行政の、執行権の
 
 ---
 
 ## 📖 できればこれも
 
-- [federal](/word/federal)：連邦の
-- [judicial](/word/judicial)：司法の
+- [federal](/word/federal/)：連邦の
+- [judicial](/word/judicial/)：司法の
 
 <!-- cvid: aid37_bid08 -->

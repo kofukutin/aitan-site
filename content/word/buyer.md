@@ -97,7 +97,7 @@ TOEICでは、取引やビジネス文書、Eメールのやり取りなどで�
 ## 🤔  customer との違いは？
 
 - **buyer**：商品やサービスを「買う人」全般。特に取引や仕入れの場面で使われる。
-- **[customer](/word/customer)**：店やサービスの「顧客」。買い手であると同時に、サービスを受ける人も含む。
+- **[customer](/word/customer/)**：店やサービスの「顧客」。買い手であると同時に、サービスを受ける人も含む。
 
 buyerは「購入の行為」に焦点があり、customerは「サービスや店舗との関係」に重きがあります。
 
@@ -105,14 +105,14 @@ buyerは「購入の行為」に焦点があり、customerは「サービスや�
 
 ## 🧩 あわせて覚えたい
 
-- [seller](/word/seller)：売り手
-- [purchaser](/word/purchaser)：購入者（buyerよりややフォーマル）
+- [seller](/word/seller/)：売り手
+- [purchaser](/word/purchaser/)：購入者（buyerよりややフォーマル）
 
 ---
 
 ## 📖 できればこれも
 
-- [supplier](/word/supplier)：供給者、納入業者
-- [order](/word/order)：注文
+- [supplier](/word/supplier/)：供給者、納入業者
+- [order](/word/order/)：注文
 
 <!-- cvid: aid38_bid09 -->

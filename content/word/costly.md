@@ -97,7 +97,7 @@ TOEICでは主にPart 5で、形容詞の語彙問題や文脈判断で出題さ
 ## 🤔  expensive との違いは？
 
 - **costly**：高価であることに加え、「損失が大きい」「代償が大きい」といったニュアンスも含む
-- **[expensive](/word/expensive)**：単純に「値段が高い」「高価な」という意味
+- **[expensive](/word/expensive/)**：単純に「値段が高い」「高価な」という意味
 
 costlyは金銭的な高さだけでなく、失敗やミスによる「大きな損失」も表現できる点がexpensiveと異なります。
 
@@ -105,14 +105,14 @@ costlyは金銭的な高さだけでなく、失敗やミスによる「大き�
 
 ## 🧩 あわせて覚えたい
 
-- [affordable](/word/affordable)：手ごろな価格の
-- [valuable](/word/valuable)：価値のある
+- [affordable](/word/affordable/)：手ごろな価格の
+- [valuable](/word/valuable/)：価値のある
 
 ---
 
 ## 📖 できればこれも
 
-- [profitable](/word/profitable)：利益になる
-- [efficient](/word/efficient)：効率的な
+- [profitable](/word/profitable/)：利益になる
+- [efficient](/word/efficient/)：効率的な
 
 <!-- cvid: aid09_bid49 -->

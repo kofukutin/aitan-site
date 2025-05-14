@@ -97,7 +97,7 @@ TOEICでは、健康や作業内容の説明、職場環境の話題などで「
 ## 🤔  practically との違いは？
 
 - **physically**：身体的・物理的な側面を強調する副詞
-- **[practically](/word/practically)**：実際的・事実上・ほとんど、という意味の副詞
+- **[practically](/word/practically/)**：実際的・事実上・ほとんど、という意味の副詞
 
 physicallyは「体や物質として」の意味、practicallyは「実際に」「ほとんど」の意味で、使う場面や強調点が異なります。
 
@@ -105,14 +105,14 @@ physicallyは「体や物質として」の意味、practicallyは「実際に�
 
 ## 🧩 あわせて覚えたい
 
-- [mentally](/word/mentally)：精神的に
-- [emotionally](/word/emotionally)：感情的に
+- [mentally](/word/mentally/)：精神的に
+- [emotionally](/word/emotionally/)：感情的に
 
 ---
 
 ## 📖 できればこれも
 
-- [actively](/word/actively)：積極的に
-- [directly](/word/directly)：直接に
+- [actively](/word/actively/)：積極的に
+- [directly](/word/directly/)：直接に
 
 <!-- cvid: aid21_bid24 -->

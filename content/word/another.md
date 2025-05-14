@@ -93,7 +93,7 @@ TOEICでは、代名詞や形容詞の使い分け問題で頻出です。特に
 ## 🤔  other との違いは？
 
 - **another**：同じ種類の中から「もう一つの」「別の」という意味で、単数名詞に使う
-- **[other](/word/other)**：他の（複数・単数どちらにも使えるが、限定的な意味や特定のものを指す場合が多い）
+- **[other](/word/other/)**：他の（複数・単数どちらにも使えるが、限定的な意味や特定のものを指す場合が多い）
 
 「another」は追加や別の一つを指し、「other」はそれ以外のもの全般や残りを指すときに使います。
 
@@ -101,14 +101,14 @@ TOEICでは、代名詞や形容詞の使い分け問題で頻出です。特に
 
 ## 🧩 あわせて覚えたい
 
-- [each](/word/each)：それぞれ
-- [either](/word/either)：どちらか一方
+- [each](/word/each/)：それぞれ
+- [either](/word/either/)：どちらか一方
 
 ---
 
 ## 📖 できればこれも
 
-- [others](/word/others)：他の人・もの（複数形）
-- [the_other](/word/the_other)：（2つのうち）もう一方
+- [others](/word/others/)：他の人・もの（複数形）
+- [the_other](/word/the_other/)：（2つのうち）もう一方
 
 <!-- cvid: aid19_bid21 -->

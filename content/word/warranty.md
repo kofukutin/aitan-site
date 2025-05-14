@@ -97,7 +97,7 @@ TOEICでは製品説明や契約書、カスタマーサービス関連の長文
 ## 🤔  guarantee との違いは？
 
 - **warranty**：主に製品やサービスの「保証書」「保証期間」を指し、書面での約束が強調される。
-- **[guarantee](/word/guarantee)**：保証全般を指し、口頭や書面を問わず幅広く使われる。
+- **[guarantee](/word/guarantee/)**：保証全般を指し、口頭や書面を問わず幅広く使われる。
 
 warrantyは書面での正式な保証に限定されることが多く、guaranteeはより広い意味で使われます。
 
@@ -105,14 +105,14 @@ warrantyは書面での正式な保証に限定されることが多く、guaran
 
 ## 🧩 あわせて覚えたい
 
-- [assurance](/word/assurance)：保証、確約
-- [contract](/word/contract)：契約、契約書
+- [assurance](/word/assurance/)：保証、確約
+- [contract](/word/contract/)：契約、契約書
 
 ---
 
 ## 📖 できればこれも
 
-- [invoice](/word/invoice)：請求書
-- [receipt](/word/receipt)：領収書
+- [invoice](/word/invoice/)：請求書
+- [receipt](/word/receipt/)：領収書
 
 <!-- cvid: aid19_bid46 -->

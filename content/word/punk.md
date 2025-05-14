@@ -96,7 +96,7 @@ TOEICでは主にパンク音楽やファッション、若者文化に関する
 ## 🤔  rebel との違いは？
 
 - **punk**：反抗的な若者やパンク音楽・ファッションを指すカジュアルな言葉
-- **[rebel](/word/rebel)**：体制や権威に反抗する人、反逆者
+- **[rebel](/word/rebel/)**：体制や権威に反抗する人、反逆者
 
 punkは主に若者文化や音楽スタイルを指し、rebelは体制への反抗や反逆の姿勢そのものを強調します。
 
@@ -104,14 +104,14 @@ punkは主に若者文化や音楽スタイルを指し、rebelは体制への�
 
 ## 🧩 あわせて覚えたい
 
-- [outlaw](/word/outlaw)：無法者、法律を破る人
-- [delinquent](/word/delinquent)：非行少年、問題行動をする若者
+- [outlaw](/word/outlaw/)：無法者、法律を破る人
+- [delinquent](/word/delinquent/)：非行少年、問題行動をする若者
 
 ---
 
 ## 📖 できればこれも
 
-- [trend](/word/trend)：流行、傾向
-- [attitude](/word/attitude)：態度、考え方
+- [trend](/word/trend/)：流行、傾向
+- [attitude](/word/attitude/)：態度、考え方
 
 <!-- cvid: aid15_bid37 -->

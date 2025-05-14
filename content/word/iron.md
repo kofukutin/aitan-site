@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「アイロンをかける」動作や
 ## 🤔  steel との違いは？
 
 - **iron**：純粋な鉄やアイロン（道具）を指す
-- **[steel](/word/steel)**：鉄に炭素などを加えて強度を増した合金
+- **[steel](/word/steel/)**：鉄に炭素などを加えて強度を増した合金
 
 ironは自然界に存在する「鉄」や家庭用の「アイロン」を指し、steelは加工されて強度が高い「鋼」を指します。
 
@@ -105,14 +105,14 @@ ironは自然界に存在する「鉄」や家庭用の「アイロン」を指�
 
 ## 🧩 あわせて覚えたい
 
-- [metal](/word/metal)：金属
-- [magnet](/word/magnet)：磁石
+- [metal](/word/metal/)：金属
+- [magnet](/word/magnet/)：磁石
 
 ---
 
 ## 📖 できればこれも
 
-- [copper](/word/copper)：銅
-- [silver](/word/silver)：銀
+- [copper](/word/copper/)：銅
+- [silver](/word/silver/)：銀
 
 <!-- cvid: aid07_bid36 -->

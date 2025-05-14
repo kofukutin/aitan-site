@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、魚市場やレストラン、自然
 ## 🤔  seafood との違いは？
 
 - **fish**：魚や魚肉そのものを指す
-- **[seafood](/word/seafood)**：魚介類全般（魚・貝・エビなど）を指す
+- **[seafood](/word/seafood/)**：魚介類全般（魚・貝・エビなど）を指す
 
 fishは「魚」だけを指しますが、seafoodは魚も含めた海産物全体を指します。レストランのメニューなどで使い分けられます。
 
@@ -105,14 +105,14 @@ fishは「魚」だけを指しますが、seafoodは魚も含めた海産物全
 
 ## 🧩 あわせて覚えたい
 
-- [meat](/word/meat)：肉
-- [shrimp](/word/shrimp)：エビ
+- [meat](/word/meat/)：肉
+- [shrimp](/word/shrimp/)：エビ
 
 ---
 
 ## 📖 できればこれも
 
-- [bird](/word/bird)：鳥
-- [animal](/word/animal)：動物
+- [bird](/word/bird/)：鳥
+- [animal](/word/animal/)：動物
 
 <!-- cvid: aid44_bid00 -->

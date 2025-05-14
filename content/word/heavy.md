@@ -97,7 +97,7 @@ TOEICでは、写真描写や状況説明で「重い荷物」「激しい雨」
 ## 🤔  thick との違いは？
 
 - **heavy**：重さや量・程度が大きいことを表す
-- **[thick](/word/thick)**：厚みや密度が高いことを表す
+- **[thick](/word/thick/)**：厚みや密度が高いことを表す
 
 heavyは「重い」「激しい」など重さや量に注目し、thickは「厚い」「密集している」など物の厚みや密度に注目します。
 
@@ -105,14 +105,14 @@ heavyは「重い」「激しい」など重さや量に注目し、thickは「�
 
 ## 🧩 あわせて覚えたい
 
-- [light](/word/light)：軽い
-- [dense](/word/dense)：密集した、濃い
+- [light](/word/light/)：軽い
+- [dense](/word/dense/)：密集した、濃い
 
 ---
 
 ## 📖 できればこれも
 
-- [strong](/word/strong)：強い
-- [large](/word/large)：大きい
+- [strong](/word/strong/)：強い
+- [large](/word/large/)：大きい
 
 <!-- cvid: aid22_bid38 -->

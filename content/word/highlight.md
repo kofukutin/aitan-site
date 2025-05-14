@@ -98,7 +98,7 @@ TOEICでは、会話や説明文で「重要な点を強調する」「注目さ
 ## 🤔  emphasize との違いは？
 
 - **highlight**：特に目立たせる、注目させる
-- **[emphasize](/word/emphasize)**：強調する、力を入れて言う
+- **[emphasize](/word/emphasize/)**：強調する、力を入れて言う
 
 highlightは「視覚的・具体的に目立たせる」ニュアンスが強く、emphasizeは「言葉や態度で強調する」場面で使われます。
 
@@ -106,14 +106,14 @@ highlightは「視覚的・具体的に目立たせる」ニュアンスが強�
 
 ## 🧩 あわせて覚えたい
 
-- [feature](/word/feature)：特徴、特集する
-- [underline](/word/underline)：下線を引く、強調する
+- [feature](/word/feature/)：特徴、特集する
+- [underline](/word/underline/)：下線を引く、強調する
 
 ---
 
 ## 📖 できればこれも
 
-- [summarize](/word/summarize)：要約する
-- [point_out](/word/point_out)：指摘する
+- [summarize](/word/summarize/)：要約する
+- [point_out](/word/point_out/)：指摘する
 
 <!-- cvid: aid13_bid48 -->

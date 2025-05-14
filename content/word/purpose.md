@@ -98,7 +98,7 @@ TOEICでは、会議やビジネス文書の中で「目的」を問う文脈で
 ## 🤔  goal との違いは？
 
 - **purpose**：行動や計画の根本的な「目的」や「意図」を指す
-- **[goal](/word/goal)**：達成すべき「具体的な目標」や「ゴール」を指す
+- **[goal](/word/goal/)**：達成すべき「具体的な目標」や「ゴール」を指す
 
 purposeは「なぜそれをするのか」という理由や意図に焦点があり、goalは「何を達成するか」という具体的な到達点に焦点があります。
 
@@ -106,14 +106,14 @@ purposeは「なぜそれをするのか」という理由や意図に焦点が�
 
 ## 🧩 あわせて覚えたい
 
-- [objective](/word/objective)：達成すべき具体的な目標
-- [intention](/word/intention)：意図、意思
+- [objective](/word/objective/)：達成すべき具体的な目標
+- [intention](/word/intention/)：意図、意思
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/word/plan)：計画
-- [reason](/word/reason)：理由
+- [plan](/word/plan/)：計画
+- [reason](/word/reason/)：理由
 
 <!-- cvid: aid19_bid04 -->

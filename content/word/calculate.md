@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や会議資料などで「計算する」「算
 ## 🤔  estimate との違いは？
 
 - **calculate**：数字やデータを使い、正確に計算することを表す。
-- **[estimate](/word/estimate)**：おおよその数値や金額を推測・見積もることを表す。
+- **[estimate](/word/estimate/)**：おおよその数値や金額を推測・見積もることを表す。
 
 calculateは「正確な計算」、estimateは「おおよその見積もり」と、精度の違いがあります。
 
@@ -105,14 +105,14 @@ calculateは「正確な計算」、estimateは「おおよその見積もり」
 
 ## 🧩 あわせて覚えたい
 
-- [compute](/word/compute)：（機械的・数学的に）計算する
-- [measure](/word/measure)：測定する、評価する
+- [compute](/word/compute/)：（機械的・数学的に）計算する
+- [measure](/word/measure/)：測定する、評価する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze)：分析する
-- [assess](/word/assess)：評価する
+- [analyze](/word/analyze/)：分析する
+- [assess](/word/assess/)：評価する
 
 <!-- cvid: aid46_bid00 -->

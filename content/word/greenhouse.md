@@ -97,7 +97,7 @@ TOEICでは環境や農業、施設に関する説明文や広告で登場する
 ## 🤔  hothouse との違いは？
 
 - **greenhouse**：一般的な温室。植物を育てるためのガラス張りの建物全般を指す。
-- **[hothouse](/word/hothouse)**：特に高温多湿に保たれた温室や、熱帯植物用の温室を指すことが多い。
+- **[hothouse](/word/hothouse/)**：特に高温多湿に保たれた温室や、熱帯植物用の温室を指すことが多い。
 
 greenhouseは幅広い温室全般、hothouseはより高温・特殊な環境の温室に使われます。
 
@@ -105,14 +105,14 @@ greenhouseは幅広い温室全般、hothouseはより高温・特殊な環境�
 
 ## 🧩 あわせて覚えたい
 
-- [conservatory](/word/conservatory)：ガラス張りの温室や音楽室
-- [nursery](/word/nursery)：苗床、苗を育てる場所
+- [conservatory](/word/conservatory/)：ガラス張りの温室や音楽室
+- [nursery](/word/nursery/)：苗床、苗を育てる場所
 
 ---
 
 ## 📖 できればこれも
 
-- [garden](/word/garden)：庭、園芸
-- [plant](/word/plant)：植物、工場
+- [garden](/word/garden/)：庭、園芸
+- [plant](/word/plant/)：植物、工場
 
 <!-- cvid: aid34_bid36 -->

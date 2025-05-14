@@ -93,7 +93,7 @@ TOEICでは、選択肢の副詞問題や文意を限定する表現として出
 ## 🤔  only との違いは？
 
 - **merely**：強調を抑えた「単に～にすぎない」「ただ～だけ」
-- **[only](/word/only)**：より広く「～だけ」「唯一の」と限定を強調
+- **[only](/word/only/)**：より広く「～だけ」「唯一の」と限定を強調
 
 merelyは控えめな響きで、重要性が低いことを示す時に使い、onlyは「それ以外はない」と強く限定する時に使います。
 
@@ -101,14 +101,14 @@ merelyは控えめな響きで、重要性が低いことを示す時に使い�
 
 ## 🧩 あわせて覚えたい
 
-- [simply](/word/simply)：単純に、ただ
-- [just](/word/just)：ちょうど、単に
+- [simply](/word/simply/)：単純に、ただ
+- [just](/word/just/)：ちょうど、単に
 
 ---
 
 ## 📖 できればこれも
 
-- [mainly](/word/mainly)：主に
-- [barely](/word/barely)：かろうじて、ほとんど～ない
+- [mainly](/word/mainly/)：主に
+- [barely](/word/barely/)：かろうじて、ほとんど～ない
 
 <!-- cvid: aid02_bid12 -->

@@ -97,7 +97,7 @@ TOEICでは、出版業界やビジネス文書、案内文などで「publishin
 ## 🤔  publication との違いは？
 
 - **publishing**：出版業や出版する行為そのもの
-- **[publication](/word/publication)**：出版された物（本・雑誌など）や出版という出来事
+- **[publication](/word/publication/)**：出版された物（本・雑誌など）や出版という出来事
 
 publishingは「業界や行為」に焦点があり、publicationは「出版物」や「出版されたこと」に使います。
 
@@ -105,14 +105,14 @@ publishingは「業界や行為」に焦点があり、publicationは「出版�
 
 ## 🧩 あわせて覚えたい
 
-- [editor](/word/editor)：編集者
-- [manuscript](/word/manuscript)：原稿
+- [editor](/word/editor/)：編集者
+- [manuscript](/word/manuscript/)：原稿
 
 ---
 
 ## 📖 できればこれも
 
-- [editorial](/word/editorial)：社説、編集の
-- [distribute](/word/distribute)：配布する、分配する
+- [editorial](/word/editorial/)：社説、編集の
+- [distribute](/word/distribute/)：配布する、分配する
 
 <!-- cvid: aid02_bid28 -->

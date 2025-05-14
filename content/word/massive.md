@@ -97,7 +97,7 @@ TOEICでは、ビジネスの規模や数量、影響の大きさを表現する
 ## 🤔  enormous との違いは？
 
 - **massive**：物理的な大きさや重厚さ、圧倒的な規模を強調
-- **[enormous](/word/enormous)**：非常に大きい（主に量や程度に焦点）
+- **[enormous](/word/enormous/)**：非常に大きい（主に量や程度に焦点）
 
 massiveは「どっしりとした重み」や「圧倒的な存在感」を含みますが、enormousは単に「非常に大きい」ことを表します。
 
@@ -105,14 +105,14 @@ massiveは「どっしりとした重み」や「圧倒的な存在感」を含�
 
 ## 🧩 あわせて覚えたい
 
-- [huge](/word/huge)：とても大きい
-- [tiny](/word/tiny)：とても小さい
+- [huge](/word/huge/)：とても大きい
+- [tiny](/word/tiny/)：とても小さい
 
 ---
 
 ## 📖 できればこれも
 
-- [substantial](/word/substantial)：かなりの、相当な
-- [considerable](/word/considerable)：かなりの、相当な
+- [substantial](/word/substantial/)：かなりの、相当な
+- [considerable](/word/considerable/)：かなりの、相当な
 
 <!-- cvid: aid10_bid48 -->

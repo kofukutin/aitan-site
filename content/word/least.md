@@ -99,7 +99,7 @@ TOEICでは比較級・最上級の文法問題や、数量・程度を問う文
 ## 🤔  less との違いは？
 
 - **least**：最も少ない、最小限の
-- **[less](/word/less)**：より少ない、比較的少ない
+- **[less](/word/less/)**：より少ない、比較的少ない
 
 「least」は3つ以上の中で一番少ない場合に使い、「less」は2つの中で少ない方を表します。
 
@@ -107,14 +107,14 @@ TOEICでは比較級・最上級の文法問題や、数量・程度を問う文
 
 ## 🧩 あわせて覚えたい
 
-- [minimum](/word/minimum)：最小、最低限
-- [maximum](/word/maximum)：最大、最高
+- [minimum](/word/minimum/)：最小、最低限
+- [maximum](/word/maximum/)：最大、最高
 
 ---
 
 ## 📖 できればこれも
 
-- [almost](/word/almost)：ほとんど
-- [slightly](/word/slightly)：わずかに
+- [almost](/word/almost/)：ほとんど
+- [slightly](/word/slightly/)：わずかに
 
 <!-- cvid: aid41_bid17 -->

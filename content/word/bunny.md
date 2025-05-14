@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、動物やキャラクターの説明
 ## 🤔  rabbit との違いは？
 
 - **bunny**：子ウサギやかわいらしいウサギを指すカジュアルな表現
-- **[rabbit](/word/rabbit)**：ウサギ全般を指す標準的な単語
+- **[rabbit](/word/rabbit/)**：ウサギ全般を指す標準的な単語
 
 bunnyは親しみやすさやかわいらしさを強調したいときに使い、rabbitは動物としてのウサギ全般を指すときに使います。
 
@@ -105,14 +105,14 @@ bunnyは親しみやすさやかわいらしさを強調したいときに使い
 
 ## 🧩 あわせて覚えたい
 
-- [hare](/word/hare)：ノウサギ（ウサギより脚が長く野生的）
-- [kitten](/word/kitten)：子ネコ
+- [hare](/word/hare/)：ノウサギ（ウサギより脚が長く野生的）
+- [kitten](/word/kitten/)：子ネコ
 
 ---
 
 ## 📖 できればこれも
 
-- [puppy](/word/puppy)：子イヌ
-- [duckling](/word/duckling)：アヒルの子
+- [puppy](/word/puppy/)：子イヌ
+- [duckling](/word/duckling/)：アヒルの子
 
 <!-- cvid: aid40_bid18 -->

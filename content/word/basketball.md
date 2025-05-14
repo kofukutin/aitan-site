@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、スポーツやレクリエーショ
 ## 🤔  soccer との違いは？
 
 - **basketball**：手でボールを扱い、ゴールに投げ入れて得点するスポーツ。
-- **[soccer](/word/soccer)**：足でボールを蹴り、ゴールに入れて得点するスポーツ。
+- **[soccer](/word/soccer/)**：足でボールを蹴り、ゴールに入れて得点するスポーツ。
 
 basketballは主に手を使う競技で、soccerは足を使う競技という違いがあります。
 
@@ -105,14 +105,14 @@ basketballは主に手を使う競技で、soccerは足を使う競技という�
 
 ## 🧩 あわせて覚えたい
 
-- [volleyball](/word/volleyball)：バレーボール
-- [court](/word/court)：コート、競技場
+- [volleyball](/word/volleyball/)：バレーボール
+- [court](/word/court/)：コート、競技場
 
 ---
 
 ## 📖 できればこれも
 
-- [player](/word/player)：選手
-- [team](/word/team)：チーム
+- [player](/word/player/)：選手
+- [team](/word/team/)：チーム
 
 <!-- cvid: aid19_bid07 -->

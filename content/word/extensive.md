@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やレポート、調査結果の説明などで
 ## 🤔  comprehensive との違いは？
 
 - **extensive**：範囲や規模が物理的・数量的に「広い」「大きい」ことを強調
-- **[comprehensive](/word/comprehensive)**：内容が「包括的」で、必要な要素をすべて含んでいることを強調
+- **[comprehensive](/word/comprehensive/)**：内容が「包括的」で、必要な要素をすべて含んでいることを強調
 
 extensiveは「広がり」や「量」に焦点があり、comprehensiveは「抜けなく全体をカバーしている」ことに重点があります。
 
@@ -105,14 +105,14 @@ extensiveは「広がり」や「量」に焦点があり、comprehensiveは「�
 
 ## 🧩 あわせて覚えたい
 
-- [broad](/word/broad)：幅広い、広い
-- [limited](/word/limited)：限られた、制限された
+- [broad](/word/broad/)：幅広い、広い
+- [limited](/word/limited/)：限られた、制限された
 
 ---
 
 ## 📖 できればこれも
 
-- [considerable](/word/considerable)：かなりの、相当な
-- [significant](/word/significant)：重要な、かなりの
+- [considerable](/word/considerable/)：かなりの、相当な
+- [significant](/word/significant/)：重要な、かなりの
 
 <!-- cvid: aid49_bid06 -->

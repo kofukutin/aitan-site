@@ -97,7 +97,7 @@ TOEICでは、指示や連絡の方法、対応の速さを問う会話や説明
 ## 🤔  immediately との違いは？
 
 - **directly**：直接に、まっすぐに、または「すぐに」の意味でも使われるが、物理的・経路的な「直接さ」も強調する。
-- **[immediately](/word/immediately)**：時間的な「すぐに」「直後に」を強調し、物理的な「直接さ」は含まない。
+- **[immediately](/word/immediately/)**：時間的な「すぐに」「直後に」を強調し、物理的な「直接さ」は含まない。
 
 directlyは「直接」「まっすぐ」というニュアンスがあり、immediatelyは「時間的な即時性」に特化しています。
 
@@ -105,14 +105,14 @@ directlyは「直接」「まっすぐ」というニュアンスがあり、imm
 
 ## 🧩 あわせて覚えたい
 
-- [indirectly](/word/indirectly)：間接的に
-- [straight](/word/straight)：まっすぐに
+- [indirectly](/word/indirectly/)：間接的に
+- [straight](/word/straight/)：まっすぐに
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/word/quickly)：速く
-- [clearly](/word/clearly)：はっきりと
+- [quickly](/word/quickly/)：速く
+- [clearly](/word/clearly/)：はっきりと
 
 <!-- cvid: aid29_bid09 -->

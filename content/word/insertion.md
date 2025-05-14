@@ -97,7 +97,7 @@ TOEICでは、文書の修正や追加説明の場面で「insertion」が使わ
 ## 🤔  input との違いは？
 
 - **insertion**：物理的・具体的な「挿入」や「差し込み」を表す。
-- **[input](/word/input)**：情報やデータなど「入力」全般を指し、抽象的な意味も含む。
+- **[input](/word/input/)**：情報やデータなど「入力」全般を指し、抽象的な意味も含む。
 
 insertionは「何かを中に差し込む」動作やその結果を指し、inputは「情報やデータを与える」広い意味で使われます。
 
@@ -105,14 +105,14 @@ insertionは「何かを中に差し込む」動作やその結果を指し、in
 
 ## 🧩 あわせて覚えたい
 
-- [removal](/word/removal)：除去、取り除くこと
-- [addition](/word/addition)：追加、加えること
+- [removal](/word/removal/)：除去、取り除くこと
+- [addition](/word/addition/)：追加、加えること
 
 ---
 
 ## 📖 できればこれも
 
-- [installation](/word/installation)：設置、インストール
-- [integration](/word/integration)：統合、組み込み
+- [installation](/word/installation/)：設置、インストール
+- [integration](/word/integration/)：統合、組み込み
 
 <!-- cvid: aid46_bid49 -->

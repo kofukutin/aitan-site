@@ -97,7 +97,7 @@ losingはTOEICの会話パートで、ビジネスやスポーツの文脈で「
 ## 🤔  missing との違いは？
 
 - **losing**：負けている、失っている（進行中の損失や敗北を強調）
-- **[missing](/word/missing)**：見当たらない、行方不明の（存在すべきものがない状態）
+- **[missing](/word/missing/)**：見当たらない、行方不明の（存在すべきものがない状態）
 
 losingは「今まさに失っている」や「負けている」状況、missingは「あるべきものが見つからない」状態を表します。
 
@@ -105,14 +105,14 @@ losingは「今まさに失っている」や「負けている」状況、missi
 
 ## 🧩 あわせて覚えたい
 
-- [failure](/word/failure)：失敗
-- [defeat](/word/defeat)：敗北
+- [failure](/word/failure/)：失敗
+- [defeat](/word/defeat/)：敗北
 
 ---
 
 ## 📖 できればこれも
 
-- [lost](/word/lost)：失った、道に迷った
-- [gain](/word/gain)：得る、増やす
+- [lost](/word/lost/)：失った、道に迷った
+- [gain](/word/gain/)：得る、増やす
 
 <!-- cvid: aid27_bid49 -->

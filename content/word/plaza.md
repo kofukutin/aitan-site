@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、建物や広場の説明として出
 ## 🤔  square との違いは？
 
 - **plaza**：都市の広場やショッピングモールなど、やや大きめで現代的な広場を指すことが多い
-- **[square](/word/square)**：伝統的な「広場」や「四角い広場」を指し、歴史的な場所にもよく使われる
+- **[square](/word/square/)**：伝統的な「広場」や「四角い広場」を指し、歴史的な場所にもよく使われる
 
 plazaは現代的・商業的な広場にも使われ、squareは伝統的・歴史的な公共広場に使われることが多いです。
 
@@ -105,14 +105,14 @@ plazaは現代的・商業的な広場にも使われ、squareは伝統的・歴
 
 ## 🧩 あわせて覚えたい
 
-- [mall](/word/mall)：ショッピングモール
-- [courtyard](/word/courtyard)：中庭
+- [mall](/word/mall/)：ショッピングモール
+- [courtyard](/word/courtyard/)：中庭
 
 ---
 
 ## 📖 できればこれも
 
-- [fountain](/word/fountain)：噴水
-- [statue](/word/statue)：像
+- [fountain](/word/fountain/)：噴水
+- [statue](/word/statue/)：像
 
 <!-- cvid: aid47_bid13 -->

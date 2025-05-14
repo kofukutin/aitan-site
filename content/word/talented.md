@@ -97,7 +97,7 @@ TOEICでは、社員や応募者の能力を説明する文脈でよく登場し
 ## 🤔  skilled との違いは？
 
 - **talented**：生まれつきや特別な才能があることを強調
-- **[skilled](/word/skilled)**：訓練や経験によって身につけた技術があることを強調
+- **[skilled](/word/skilled/)**：訓練や経験によって身につけた技術があることを強調
 
 talentedは「先天的な才能」、skilledは「後天的な技術や熟練」を表す点が異なります。
 
@@ -105,14 +105,14 @@ talentedは「先天的な才能」、skilledは「後天的な技術や熟練�
 
 ## 🧩 あわせて覚えたい
 
-- [gifted](/word/gifted)：生まれつき才能のある
-- [capable](/word/capable)：有能な、能力がある
+- [gifted](/word/gifted/)：生まれつき才能のある
+- [capable](/word/capable/)：有能な、能力がある
 
 ---
 
 ## 📖 できればこれも
 
-- [creative](/word/creative)：創造的な
-- [efficient](/word/efficient)：効率的な
+- [creative](/word/creative/)：創造的な
+- [efficient](/word/efficient/)：効率的な
 
 <!-- cvid: aid16_bid30 -->

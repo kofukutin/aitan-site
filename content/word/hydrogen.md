@@ -97,7 +97,7 @@ TOEICでは科学技術や環境に関する説明文で登場することがあ
 ## 🤔  oxygen との違いは？
 
 - **hydrogen**：最も軽い気体で、主に燃料や化学反応に使われる元素。
-- **[oxygen](/word/oxygen)**：呼吸や燃焼に不可欠な気体で、空気中に多く含まれる元素。
+- **[oxygen](/word/oxygen/)**：呼吸や燃焼に不可欠な気体で、空気中に多く含まれる元素。
 
 hydrogenは主にエネルギー源や化学工業で使われ、oxygenは生命維持や燃焼に関わるなど、用途や役割が異なります。
 
@@ -105,14 +105,14 @@ hydrogenは主にエネルギー源や化学工業で使われ、oxygenは生命
 
 ## 🧩 あわせて覚えたい
 
-- [helium](/word/helium)：ヘリウム（軽い気体、風船などに使われる）
-- [water](/word/water)：水（H₂O、hydrogenとoxygenからできている）
+- [helium](/word/helium/)：ヘリウム（軽い気体、風船などに使われる）
+- [water](/word/water/)：水（H₂O、hydrogenとoxygenからできている）
 
 ---
 
 ## 📖 できればこれも
 
-- [element](/word/element)：元素（物質を構成する基本的な成分）
-- [atom](/word/atom)：原子（元素を構成する最小単位）
+- [element](/word/element/)：元素（物質を構成する基本的な成分）
+- [atom](/word/atom/)：原子（元素を構成する最小単位）
 
 <!-- cvid: aid21_bid19 -->

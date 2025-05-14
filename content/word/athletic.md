@@ -97,7 +97,7 @@ TOEICでは、健康やスポーツ、社員の福利厚生などの文脈で形
 ## 🤔  sporty との違いは？
 
 - **athletic**：運動能力が高い、または運動選手のような
-- **[sporty](/word/sporty)**：スポーツ好き、またはスポーティな雰囲気
+- **[sporty](/word/sporty/)**：スポーツ好き、またはスポーティな雰囲気
 
 **athletic**は運動能力や体格に焦点があり、**sporty**はスポーツを好む性格やカジュアルなスタイルを指すことが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、健康やスポーツ、社員の福利厚生などの文脈で形
 
 ## 🧩 あわせて覚えたい
 
-- [physical](/word/physical)：身体の、肉体的な
-- [fit](/word/fit)：健康で体力がある
+- [physical](/word/physical/)：身体の、肉体的な
+- [fit](/word/fit/)：健康で体力がある
 
 ---
 
 ## 📖 できればこれも
 
-- [energetic](/word/energetic)：元気な、活発な
-- [active](/word/active)：活動的な、積極的な
+- [energetic](/word/energetic/)：元気な、活発な
+- [active](/word/active/)：活動的な、積極的な
 
 <!-- cvid: aid21_bid05 -->

@@ -98,7 +98,7 @@ TOEICでは会議や電話の場面で「話題や担当を切り替える」意
 ## 🤔  change との違いは？
 
 - **switch**：あるものから別のものへ「切り替える」「交代する」ニュアンス
-- **[change](/word/change)**：全体的に「変える」「変更する」幅広い意味
+- **[change](/word/change/)**：全体的に「変える」「変更する」幅広い意味
 
 switchは「AからBへ切り替える」ような限定的な変化、changeは「内容や状態を変える」広い意味で使います。
 
@@ -106,14 +106,14 @@ switchは「AからBへ切り替える」ような限定的な変化、changeは
 
 ## 🧩 あわせて覚えたい
 
-- [replace](/word/replace)：取り替える、交換する
-- [toggle](/word/toggle)：（スイッチなどを）切り替える
+- [replace](/word/replace/)：取り替える、交換する
+- [toggle](/word/toggle/)：（スイッチなどを）切り替える
 
 ---
 
 ## 📖 できればこれも
 
-- [select](/word/select)：選ぶ、選択する
-- [shift](/word/shift)：移す、移動する
+- [select](/word/select/)：選ぶ、選択する
+- [shift](/word/shift/)：移す、移動する
 
 <!-- cvid: aid37_bid23 -->

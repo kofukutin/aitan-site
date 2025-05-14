@@ -97,7 +97,7 @@ TOEICでは、ニュース記事やビジネス文書で「広く知られてい
 ## 🤔  broadly との違いは？
 
 - **widely**：範囲や分布が物理的・地理的に「広い」ことを強調
-- **[broadly](/word/broadly)**：内容や意味が「大まかに」「広い視点で」捉えられていることを強調
+- **[broadly](/word/broadly/)**：内容や意味が「大まかに」「広い視点で」捉えられていることを強調
 
 widelyは「広範囲にわたって」という分布の広さ、broadlyは「大まかに」「ざっくりと」といった意味合いで使い分けます。
 
@@ -105,14 +105,14 @@ widelyは「広範囲にわたって」という分布の広さ、broadlyは「�
 
 ## 🧩 あわせて覚えたい
 
-- [extensively](/word/extensively)：広範囲に、徹底的に
-- [commonly](/word/commonly)：一般的に、よく
+- [extensively](/word/extensively/)：広範囲に、徹底的に
+- [commonly](/word/commonly/)：一般的に、よく
 
 ---
 
 ## 📖 できればこれも
 
-- [narrowly](/word/narrowly)：かろうじて、狭く
-- [largely](/word/largely)：主に、大部分は
+- [narrowly](/word/narrowly/)：かろうじて、狭く
+- [largely](/word/largely/)：主に、大部分は
 
 <!-- cvid: aid25_bid29 -->

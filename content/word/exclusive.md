@@ -97,7 +97,7 @@ TOEICでは、契約やサービス、会員制度などの文脈で「限定的
 ## 🤔  unique との違いは？
 
 - **exclusive**：他を排除して「限定的」「独占的」であることを強調
-- **[unique](/word/unique)**：唯一無二で「他にない」「特有の」という意味
+- **[unique](/word/unique/)**：唯一無二で「他にない」「特有の」という意味
 
 exclusiveは「限られた人・範囲だけに当てはまる」こと、uniqueは「他と全く同じものがない」ことを表します。
 
@@ -105,14 +105,14 @@ exclusiveは「限られた人・範囲だけに当てはまる」こと、uniqu
 
 ## 🧩 あわせて覚えたい
 
-- [limited](/word/limited)：限定された、限られた
-- [private](/word/private)：私的な、個人的な
+- [limited](/word/limited/)：限定された、限られた
+- [private](/word/private/)：私的な、個人的な
 
 ---
 
 ## 📖 できればこれも
 
-- [specific](/word/specific)：特定の、明確な
-- [particular](/word/particular)：特定の、特別な
+- [specific](/word/specific/)：特定の、明確な
+- [particular](/word/particular/)：特定の、特別な
 
 <!-- cvid: aid15_bid26 -->

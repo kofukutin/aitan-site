@@ -93,7 +93,7 @@ TOEICではメールや通知文、指示文などで「promptly」が「すぐ�
 ## 🤔  immediately との違いは？
 
 - **promptly**：主に「時間通りに」「遅れずに」「迅速に」というフォーマルなニュアンスで使われる。
-- **[immediately](/word/immediately)**：何かが起こった「直後に」「即座に」という意味で、より瞬間的なニュアンスが強い。
+- **[immediately](/word/immediately/)**：何かが起こった「直後に」「即座に」という意味で、より瞬間的なニュアンスが強い。
 
 「promptly」は「遅れずにきちんと」という印象があり、ビジネスや公式な場面でよく使われます。一方「immediately」は「今すぐ」「瞬時に」という意味合いが強く、より緊急性を感じさせます。
 
@@ -101,14 +101,14 @@ TOEICではメールや通知文、指示文などで「promptly」が「すぐ�
 
 ## 🧩 あわせて覚えたい
 
-- [quickly](/word/quickly)：速く、素早く
-- [punctually](/word/punctually)：時間通りに、きっちりと
+- [quickly](/word/quickly/)：速く、素早く
+- [punctually](/word/punctually/)：時間通りに、きっちりと
 
 ---
 
 ## 📖 できればこれも
 
-- [shortly](/word/shortly)：まもなく、すぐに
-- [rapidly](/word/rapidly)：急速に、素早く
+- [shortly](/word/shortly/)：まもなく、すぐに
+- [rapidly](/word/rapidly/)：急速に、素早く
 
 <!-- cvid: aid16_bid44 -->

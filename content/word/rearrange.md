@@ -97,7 +97,7 @@ TOEICでは会議や予定の変更、物の配置換えなどの場面で出題
 ## 🤔  reschedule との違いは？
 
 - **rearrange**：物の配置や予定などを「再び並べ直す」「再調整する」幅広い意味で使う
-- **[reschedule](/word/reschedule)**：主に「予定や日程を変更する」ことに特化
+- **[reschedule](/word/reschedule/)**：主に「予定や日程を変更する」ことに特化
 
 rearrangeは物理的な配置換えにも使えますが、rescheduleは時間や日程の変更に限定されます。
 
@@ -105,14 +105,14 @@ rearrangeは物理的な配置換えにも使えますが、rescheduleは時間�
 
 ## 🧩 あわせて覚えたい
 
-- [organize](/word/organize)：整理する、まとめる
-- [modify](/word/modify)：修正する、変更する
+- [organize](/word/organize/)：整理する、まとめる
+- [modify](/word/modify/)：修正する、変更する
 
 ---
 
 ## 📖 できればこれも
 
-- [adjust](/word/adjust)：調整する、適応させる
-- [arrange](/word/arrange)：手配する、並べる
+- [adjust](/word/adjust/)：調整する、適応させる
+- [arrange](/word/arrange/)：手配する、並べる
 
 <!-- cvid: aid34_bid31 -->

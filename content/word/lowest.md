@@ -97,7 +97,7 @@ TOEICでは、価格や数値、レベルの比較・最上級表現として頻
 ## 🤔  minimum との違いは？
 
 - **lowest**：比較対象の中で「最も低い」「最低の」という意味。形容詞として使う。
-- **[minimum](/word/minimum)**：許容される「最小限」「最低限」という意味。名詞や形容詞で使う。
+- **[minimum](/word/minimum/)**：許容される「最小限」「最低限」という意味。名詞や形容詞で使う。
 
 lowestは「比較して一番低い」ことを強調し、minimumは「これ以下は許されない基準」を示します。
 
@@ -105,14 +105,14 @@ lowestは「比較して一番低い」ことを強調し、minimumは「これ�
 
 ## 🧩 あわせて覚えたい
 
-- [highest](/word/highest)：最も高い
-- [least](/word/least)：最も少ない
+- [highest](/word/highest/)：最も高い
+- [least](/word/least/)：最も少ない
 
 ---
 
 ## 📖 できればこれも
 
-- [lower](/word/lower)：より低い
-- [smallest](/word/smallest)：最も小さい
+- [lower](/word/lower/)：より低い
+- [smallest](/word/smallest/)：最も小さい
 
 <!-- cvid: aid28_bid05 -->

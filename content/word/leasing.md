@@ -97,7 +97,7 @@ TOEICではビジネス文書や契約書、広告などで「leasing」が登�
 ## 🤔  rental との違いは？
 
 - **leasing**：長期間・契約に基づいて設備や車などを借りること
-- **[rental](/word/rental)**：短期間・比較的気軽に物を借りること
+- **[rental](/word/rental/)**：短期間・比較的気軽に物を借りること
 
 leasingは主にビジネスや高額な物品に使われ、rentalは日常的なレンタル（例：DVD、部屋）に使われることが多いです。
 
@@ -105,14 +105,14 @@ leasingは主にビジネスや高額な物品に使われ、rentalは日常的�
 
 ## 🧩 あわせて覚えたい
 
-- [lease](/word/lease)：賃貸する、賃貸契約
-- [ownership](/word/ownership)：所有権
+- [lease](/word/lease/)：賃貸する、賃貸契約
+- [ownership](/word/ownership/)：所有権
 
 ---
 
 ## 📖 できればこれも
 
-- [installment](/word/installment)：分割払い
-- [contract](/word/contract)：契約
+- [installment](/word/installment/)：分割払い
+- [contract](/word/contract/)：契約
 
 <!-- cvid: aid07_bid29 -->

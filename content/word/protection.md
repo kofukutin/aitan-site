@@ -97,7 +97,7 @@ TOEICでは「保護」「防御」などの意味で、セキュリティや保
 ## 🤔  security との違いは？
 
 - **protection**：危険や損害から守る「行為」や「状態」に焦点
-- **[security](/word/security)**：安全が確保されている「状態」や「仕組み」に焦点
+- **[security](/word/security/)**：安全が確保されている「状態」や「仕組み」に焦点
 
 protectionは「守ること自体」、securityは「守られて安心な状態や体制」を指す点が異なります。
 
@@ -105,14 +105,14 @@ protectionは「守ること自体」、securityは「守られて安心な状�
 
 ## 🧩 あわせて覚えたい
 
-- [defense](/word/defense)：防御、守り
-- [safety](/word/safety)：安全、無事
+- [defense](/word/defense/)：防御、守り
+- [safety](/word/safety/)：安全、無事
 
 ---
 
 ## 📖 できればこれも
 
-- [prevention](/word/prevention)：予防、防止
-- [insurance](/word/insurance)：保険
+- [prevention](/word/prevention/)：予防、防止
+- [insurance](/word/insurance/)：保険
 
 <!-- cvid: aid29_bid32 -->

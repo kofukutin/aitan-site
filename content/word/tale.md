@@ -97,7 +97,7 @@ taleはTOEICの長文読解（Part 7）で、物語や伝説、寓話などの�
 ## 🤔  story との違いは？
 
 - **tale**：空想や伝説、昔話など創作的な「物語」に使われやすい
-- **[story](/word/story)**：事実・フィクション問わず「話」「物語」全般に使える
+- **[story](/word/story/)**：事実・フィクション問わず「話」「物語」全般に使える
 
 taleは特に空想的・伝説的な内容に使われ、storyは日常の出来事やニュースなど幅広い「話」に使われます。
 
@@ -105,14 +105,14 @@ taleは特に空想的・伝説的な内容に使われ、storyは日常の出�
 
 ## 🧩 あわせて覚えたい
 
-- [legend](/word/legend)：伝説、伝説的人物
-- [myth](/word/myth)：神話、作り話
+- [legend](/word/legend/)：伝説、伝説的人物
+- [myth](/word/myth/)：神話、作り話
 
 ---
 
 ## 📖 できればこれも
 
-- [novel](/word/novel)：小説
-- [fable](/word/fable)：寓話、教訓的な物語
+- [novel](/word/novel/)：小説
+- [fable](/word/fable/)：寓話、教訓的な物語
 
 <!-- cvid: aid02_bid19 -->

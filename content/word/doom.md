@@ -97,7 +97,7 @@ TOEICでは、記事や物語文などで「破滅」「絶望的な運命」と
 ## 🤔  fate との違いは？
 
 - **doom**：避けられない悪い運命や破滅を強調
-- **[fate](/word/fate)**：良い・悪いを問わず「運命」全般
+- **[fate](/word/fate/)**：良い・悪いを問わず「運命」全般
 
 doomは「破滅」や「死」など否定的な運命を指すのに対し、fateは単に「運命」や「定め」を広く表します。
 
@@ -105,14 +105,14 @@ doomは「破滅」や「死」など否定的な運命を指すのに対し、f
 
 ## 🧩 あわせて覚えたい
 
-- [destiny](/word/destiny)：宿命、運命（やや肯定的なニュアンス）
-- [ruin](/word/ruin)：破滅、崩壊
+- [destiny](/word/destiny/)：宿命、運命（やや肯定的なニュアンス）
+- [ruin](/word/ruin/)：破滅、崩壊
 
 ---
 
 ## 📖 できればこれも
 
-- [crisis](/word/crisis)：危機
-- [disaster](/word/disaster)：災害、惨事
+- [crisis](/word/crisis/)：危機
+- [disaster](/word/disaster/)：災害、惨事
 
 <!-- cvid: aid01_bid18 -->

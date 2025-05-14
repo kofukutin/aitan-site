@@ -97,7 +97,7 @@ TOEICでは「犠牲を払う」「犠牲にする」といった表現で、主
 ## 🤔  compromise との違いは？
 
 - **sacrifice**：自分や何か大切なものを手放す「犠牲」を強調
-- **[compromise](/word/compromise)**：双方が譲歩して合意に達する「妥協」
+- **[compromise](/word/compromise/)**：双方が譲歩して合意に達する「妥協」
 
 sacrificeは一方的な犠牲や損失を指し、compromiseはお互いが少しずつ譲るニュアンスです。
 
@@ -105,14 +105,14 @@ sacrificeは一方的な犠牲や損失を指し、compromiseはお互いが少�
 
 ## 🧩 あわせて覚えたい
 
-- [loss](/word/loss)：損失、失うこと
-- [dedication](/word/dedication)：献身、熱心な取り組み
+- [loss](/word/loss/)：損失、失うこと
+- [dedication](/word/dedication/)：献身、熱心な取り組み
 
 ---
 
 ## 📖 できればこれも
 
-- [priority](/word/priority)：優先事項
-- [benefit](/word/benefit)：利益、恩恵
+- [priority](/word/priority/)：優先事項
+- [benefit](/word/benefit/)：利益、恩恵
 
 <!-- cvid: aid24_bid19 -->

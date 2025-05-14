@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、建物や乗り物の内部を説明
 ## 🤔  cottage との違いは？
 
 - **cabin**：森や山など自然の中にある簡素な小屋や、乗り物の客室を指す
-- **[cottage](/word/cottage)**：田舎のかわいらしい家や別荘を指す
+- **[cottage](/word/cottage/)**：田舎のかわいらしい家や別荘を指す
 
 cabinはより簡素で実用的な小屋、cottageは装飾的で居住性の高い田舎家を指すことが多いです。
 
@@ -105,14 +105,14 @@ cabinはより簡素で実用的な小屋、cottageは装飾的で居住性の�
 
 ## 🧩 あわせて覚えたい
 
-- [hut](/word/hut)：掘っ立て小屋、簡素な小屋
-- [lodge](/word/lodge)：山小屋、ロッジ
+- [hut](/word/hut/)：掘っ立て小屋、簡素な小屋
+- [lodge](/word/lodge/)：山小屋、ロッジ
 
 ---
 
 ## 📖 できればこれも
 
-- [tent](/word/tent)：テント、仮設の住まい
-- [shelter](/word/shelter)：避難所、シェルター
+- [tent](/word/tent/)：テント、仮設の住まい
+- [shelter](/word/shelter/)：避難所、シェルター
 
 <!-- cvid: aid09_bid44 -->

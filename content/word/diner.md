@@ -97,7 +97,7 @@ TOEICでは、会話文やリスニングで「食事の場所」として登場
 ## 🤔  restaurant との違いは？
 
 - **diner**：カジュアルで手軽な食事を提供するアメリカ式の食堂
-- **[restaurant](/word/restaurant)**：一般的なレストラン全般（高級店から大衆店まで幅広い）
+- **[restaurant](/word/restaurant/)**：一般的なレストラン全般（高級店から大衆店まで幅広い）
 
 dinerは特にアメリカで見られるカジュアルな雰囲気の食堂を指し、restaurantは食事を提供する店全般を指します。
 
@@ -105,15 +105,15 @@ dinerは特にアメリカで見られるカジュアルな雰囲気の食堂を
 
 ## 🧩 あわせて覚えたい
 
-- [cafeteria](/word/cafeteria)：セルフサービス式の食堂
-- [eatery](/word/eatery)：飲食店（カジュアルな表現）
+- [cafeteria](/word/cafeteria/)：セルフサービス式の食堂
+- [eatery](/word/eatery/)：飲食店（カジュアルな表現）
 
 ---
 
 ## 📖 できればこれも
 
-- [menu](/word/menu)：メニュー、献立表
-- [waiter](/word/waiter)：ウェイター、給仕
+- [menu](/word/menu/)：メニュー、献立表
+- [waiter](/word/waiter/)：ウェイター、給仕
 
 
 <!-- cvid: aid34_bid38 -->

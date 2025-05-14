@@ -97,7 +97,7 @@ TOEICでは、レシピや食品関連の長文、メール、注文書などで
 ## 🤔  powder との違いは？
 
 - **flour**：主に小麦など穀物を挽いて作る「小麦粉」や「粉」
-- **[powder](/word/powder)**：粉末全般（例：ベビーパウダー、洗剤、薬など）
+- **[powder](/word/powder/)**：粉末全般（例：ベビーパウダー、洗剤、薬など）
 
 flourは食材としての「小麦粉」に特化し、powderはあらゆる種類の粉末を指します。
 
@@ -105,14 +105,14 @@ flourは食材としての「小麦粉」に特化し、powderはあらゆる種
 
 ## 🧩 あわせて覚えたい
 
-- [grain](/word/grain)：穀物
-- [dough](/word/dough)：パン生地
+- [grain](/word/grain/)：穀物
+- [dough](/word/dough/)：パン生地
 
 ---
 
 ## 📖 できればこれも
 
-- [bread](/word/bread)：パン
-- [rice](/word/rice)：米
+- [bread](/word/bread/)：パン
+- [rice](/word/rice/)：米
 
 <!-- cvid: aid20_bid41 -->

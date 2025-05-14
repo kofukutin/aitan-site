@@ -97,7 +97,7 @@ templateは、TOEICのメールや案内文、IT関連の長文で「書式」�
 ## 🤔  form との違いは？
 
 - **template**：何かを作るための「型」や「ひな形」を指す
-- **[form](/word/form)**：記入する「用紙」や「フォーム」を指す
+- **[form](/word/form/)**：記入する「用紙」や「フォーム」を指す
 
 templateは「繰り返し使う基本の形」、formは「記入するための書式」という違いがあります。
 
@@ -105,14 +105,14 @@ templateは「繰り返し使う基本の形」、formは「記入するため�
 
 ## 🧩 あわせて覚えたい
 
-- [pattern](/word/pattern)：パターン、模様、型
-- [framework](/word/framework)：枠組み、構造
+- [pattern](/word/pattern/)：パターン、模様、型
+- [framework](/word/framework/)：枠組み、構造
 
 ---
 
 ## 📖 できればこれも
 
-- [format](/word/format)：書式、形式
-- [outline](/word/outline)：概要、要点
+- [format](/word/format/)：書式、形式
+- [outline](/word/outline/)：概要、要点
 
 <!-- cvid: aid49_bid24 -->

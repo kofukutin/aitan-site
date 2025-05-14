@@ -97,7 +97,7 @@ The meeting room felt chilly, so I closed the window.
 ## 🤔  cold との違いは？
 
 - **chilly**：やや冷たくて肌寒い、軽い寒さ
-- **[cold](/word/cold)**：強い寒さ、冷たい
+- **[cold](/word/cold/)**：強い寒さ、冷たい
 
 chillyは「少し寒い」「ひんやりする」程度の軽い寒さを表し、coldは「本格的に寒い」「冷たい」ときに使います。
 
@@ -105,14 +105,14 @@ chillyは「少し寒い」「ひんやりする」程度の軽い寒さを表�
 
 ## 🧩 あわせて覚えたい
 
-- [cool](/word/cool)：涼しい、かっこいい
-- [warm](/word/warm)：暖かい
+- [cool](/word/cool/)：涼しい、かっこいい
+- [warm](/word/warm/)：暖かい
 
 ---
 
 ## 📖 できればこれも
 
-- [humid](/word/humid)：湿気が多い
-- [breeze](/word/breeze)：そよ風
+- [humid](/word/humid/)：湿気が多い
+- [breeze](/word/breeze/)：そよ風
 
 <!-- cvid: aid37_bid25 -->

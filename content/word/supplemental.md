@@ -97,7 +97,7 @@ TOEICでは、契約書や案内文、説明資料などで「補足の」「追
 ## 🤔  additional との違いは？
 
 - **supplemental**：本来のものに「補う」目的で追加される、補足的な
-- **[additional](/word/additional)**：単に「追加の」「さらに加えた」という意味で、補足のニュアンスは薄い
+- **[additional](/word/additional/)**：単に「追加の」「さらに加えた」という意味で、補足のニュアンスは薄い
 
 supplementalは「不足を補う」ための追加、additionalは「単純な追加」として使い分けます。
 
@@ -105,14 +105,14 @@ supplementalは「不足を補う」ための追加、additionalは「単純な�
 
 ## 🧩 あわせて覚えたい
 
-- [optional](/word/optional)：任意の、選択できる
-- [auxiliary](/word/auxiliary)：補助の、補助的な
+- [optional](/word/optional/)：任意の、選択できる
+- [auxiliary](/word/auxiliary/)：補助の、補助的な
 
 ---
 
 ## 📖 できればこれも
 
-- [mandatory](/word/mandatory)：必須の、義務的な
-- [complementary](/word/complementary)：補完的な、相補的な
+- [mandatory](/word/mandatory/)：必須の、義務的な
+- [complementary](/word/complementary/)：補完的な、相補的な
 
 <!-- cvid: aid38_bid37 -->

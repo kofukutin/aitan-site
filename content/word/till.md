@@ -93,7 +93,7 @@ tillは会話文や案内文で「～まで」と時間を示す表現として�
 ## 🤔  until との違いは？
 
 - **till**：カジュアルで口語的な「～まで」
-- **[until](/word/until)**：フォーマル・書き言葉でも使える「～まで」
+- **[until](/word/until/)**：フォーマル・書き言葉でも使える「～まで」
 
 tillは主に話し言葉で使われ、untilはフォーマルな文書や書き言葉でもよく使われます。
 
@@ -101,14 +101,14 @@ tillは主に話し言葉で使われ、untilはフォーマルな文書や書�
 
 ## 🧩 あわせて覚えたい
 
-- [by](/word/by)：～までに（期限を示す）
-- [before](/word/before)：～より前に
+- [by](/word/by/)：～までに（期限を示す）
+- [before](/word/before/)：～より前に
 
 ---
 
 ## 📖 できればこれも
 
-- [during](/word/during)：～の間に
-- [since](/word/since)：～以来
+- [during](/word/during/)：～の間に
+- [since](/word/since/)：～以来
 
 <!-- cvid: aid42_bid37 -->

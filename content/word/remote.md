@@ -97,7 +97,7 @@ TOEICでは「remote area（遠隔地）」や「remote work（リモートワ�
 ## 🤔  distant との違いは？
 
 - **remote**：物理的・心理的に「離れている」「隔絶している」ニュアンスが強い
-- **[distant](/word/distant)**：単に「距離が遠い」「時間的に離れている」ことを表す
+- **[distant](/word/distant/)**：単に「距離が遠い」「時間的に離れている」ことを表す
 
 remoteは「人里離れた」「アクセスしにくい」など隔絶感が強く、distantは単純な距離や時間の遠さを表します。
 
@@ -105,14 +105,14 @@ remoteは「人里離れた」「アクセスしにくい」など隔絶感が�
 
 ## 🧩 あわせて覚えたい
 
-- [isolated](/word/isolated)：孤立した、隔離された
-- [accessible](/word/accessible)：アクセスしやすい、近づきやすい
+- [isolated](/word/isolated/)：孤立した、隔離された
+- [accessible](/word/accessible/)：アクセスしやすい、近づきやすい
 
 ---
 
 ## 📖 できればこれも
 
-- [onsite](/word/onsite)：現地での、現場の
-- [virtual](/word/virtual)：仮想の、バーチャルな
+- [onsite](/word/onsite/)：現地での、現場の
+- [virtual](/word/virtual/)：仮想の、バーチャルな
 
 <!-- cvid: aid28_bid11 -->

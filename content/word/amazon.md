@@ -97,7 +97,7 @@ TOEICでは観光や環境に関する長文で「Amazon」が地名や自然環
 ## 🤔  jungle との違いは？
 
 - **amazon**：南米のアマゾン川やその流域の熱帯雨林を指す固有名詞
-- **[jungle](/word/jungle)**：熱帯の密林全般を指す一般名詞
+- **[jungle](/word/jungle/)**：熱帯の密林全般を指す一般名詞
 
 amazonは特定の地名や地域を表し、jungleは世界中の熱帯密林を広く指します。
 
@@ -105,14 +105,14 @@ amazonは特定の地名や地域を表し、jungleは世界中の熱帯密林�
 
 ## 🧩 あわせて覚えたい
 
-- [rainforest](/word/rainforest)：熱帯雨林
-- [river](/word/river)：川
+- [rainforest](/word/rainforest/)：熱帯雨林
+- [river](/word/river/)：川
 
 ---
 
 ## 📖 できればこれも
 
-- [forest](/word/forest)：森林
-- [mountain](/word/mountain)：山
+- [forest](/word/forest/)：森林
+- [mountain](/word/mountain/)：山
 
 <!-- cvid: aid16_bid04 -->

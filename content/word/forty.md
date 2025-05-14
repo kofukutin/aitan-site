@@ -97,7 +97,7 @@ TOEICでは数字を聞き取る問題や、数量・年齢の表現でよく出
 ## 🤔  four との違いは？
 
 - **forty**：40、四十（4の10倍を表す数字）
-- **[four](/word/four)**：4、四（基本の数字）
+- **[four](/word/four/)**：4、四（基本の数字）
 
 「forty」は「four（4）」の10倍である「40」を表し、数量や年齢などで使います。「four」は単に「4」を指します。
 
@@ -105,14 +105,14 @@ TOEICでは数字を聞き取る問題や、数量・年齢の表現でよく出
 
 ## 🧩 あわせて覚えたい
 
-- [fifty](/word/fifty)：50、五十
-- [thirty](/word/thirty)：30、三十
+- [fifty](/word/fifty/)：50、五十
+- [thirty](/word/thirty/)：30、三十
 
 ---
 
 ## 📖 できればこれも
 
-- [hundred](/word/hundred)：100、百
-- [twenty](/word/twenty)：20、二十
+- [hundred](/word/hundred/)：100、百
+- [twenty](/word/twenty/)：20、二十
 
 <!-- cvid: aid29_bid49 -->

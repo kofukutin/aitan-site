@@ -97,7 +97,7 @@ TOEICでは、会話や説明文で「測定する」「計る」という意味
 ## 🤔  evaluating との違いは？
 
 - **measuring**：物理的な量や数値を「測定する」ことに使う
-- **[evaluating](/word/evaluating)**：価値や効果などを「評価する」ことに使う
+- **[evaluating](/word/evaluating/)**：価値や効果などを「評価する」ことに使う
 
 measuringは「長さ・重さ・温度」など具体的なものを測る時に使い、evaluatingは「成果・価値」など抽象的なものを評価する時に使います。
 
@@ -105,14 +105,14 @@ measuringは「長さ・重さ・温度」など具体的なものを測る時�
 
 ## 🧩 あわせて覚えたい
 
-- [assess](/word/assess)：評価する
-- [calculate](/word/calculate)：計算する
+- [assess](/word/assess/)：評価する
+- [calculate](/word/calculate/)：計算する
 
 ---
 
 ## 📖 できればこれも
 
-- [estimate](/word/estimate)：見積もる
-- [record](/word/record)：記録する
+- [estimate](/word/estimate/)：見積もる
+- [record](/word/record/)：記録する
 
 <!-- cvid: aid01_bid38 -->

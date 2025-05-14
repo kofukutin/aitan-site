@@ -97,7 +97,7 @@ TOEICでは、写真や図の説明、またはプロジェクトや計画の「
 ## 🤔  structure との違いは？
 
 - **frame**：物の外枠や骨組み、写真や計画の「枠組み」を指す
-- **[structure](/word/structure)**：全体の構造や組織、建物などの「構造物」を指す
+- **[structure](/word/structure/)**：全体の構造や組織、建物などの「構造物」を指す
 
 frameは「囲む枠」や「基礎部分」に焦点があり、structureは「全体の構造」や「組織的なまとまり」に使われます。
 
@@ -105,14 +105,14 @@ frameは「囲む枠」や「基礎部分」に焦点があり、structureは「
 
 ## 🧩 あわせて覚えたい
 
-- [border](/word/border)：境界線、へり
-- [outline](/word/outline)：輪郭、概要
+- [border](/word/border/)：境界線、へり
+- [outline](/word/outline/)：輪郭、概要
 
 ---
 
 ## 📖 できればこれも
 
-- [shape](/word/shape)：形、形状
-- [base](/word/base)：基礎、土台
+- [shape](/word/shape/)：形、形状
+- [base](/word/base/)：基礎、土台
 
 <!-- cvid: aid03_bid10 -->

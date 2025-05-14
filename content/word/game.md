@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「試合」「ゲーム」「活動」として
 ## 🤔  match との違いは？
 
 - **game**：ルールのある遊びやスポーツ全般の「ゲーム」「試合」を広く指す。
-- **[match](/word/match)**：特にスポーツなどで「対戦」「勝負」としての試合を強調。
+- **[match](/word/match/)**：特にスポーツなどで「対戦」「勝負」としての試合を強調。
 
 **game**は楽しみや娯楽の要素が強く、**match**は勝敗や競争の場面で使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「試合」「ゲーム」「活動」として
 
 ## 🧩 あわせて覚えたい
 
-- [competition](/word/competition)：競争、コンテスト
-- [play](/word/play)：遊ぶ、演じる
+- [competition](/word/competition/)：競争、コンテスト
+- [play](/word/play/)：遊ぶ、演じる
 
 ---
 
 ## 📖 できればこれも
 
-- [team](/word/team)：チーム、団体
-- [score](/word/score)：得点、スコア
+- [team](/word/team/)：チーム、団体
+- [score](/word/score/)：得点、スコア
 
 <!-- cvid: aid46_bid05 -->

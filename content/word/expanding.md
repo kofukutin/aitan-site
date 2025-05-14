@@ -97,7 +97,7 @@ expandingは、会社の成長や事業拡大などビジネスシーンでよ�
 ## 🤔  extending との違いは？
 
 - **expanding**：範囲や規模が全体的に広がる・大きくなること
-- **[extending](/word/extending)**：長さや期間などを「伸ばす」「延長する」こと
+- **[extending](/word/extending/)**：長さや期間などを「伸ばす」「延長する」こと
 
 expandingは「全体的に広がる」ニュアンス、extendingは「一方向に伸ばす」「期間を延ばす」などの違いがあります。
 
@@ -105,14 +105,14 @@ expandingは「全体的に広がる」ニュアンス、extendingは「一方�
 
 ## 🧩 あわせて覚えたい
 
-- [increase](/word/increase)：増加する
-- [contract](/word/contract)：縮小する
+- [increase](/word/increase/)：増加する
+- [contract](/word/contract/)：縮小する
 
 ---
 
 ## 📖 できればこれも
 
-- [develop](/word/develop)：発展する、開発する
-- [grow](/word/grow)：成長する、増大する
+- [develop](/word/develop/)：発展する、開発する
+- [grow](/word/grow/)：成長する、増大する
 
 <!-- cvid: aid10_bid00 -->

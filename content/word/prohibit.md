@@ -97,7 +97,7 @@ TOEICでは、規則やルールに関する文脈で「prohibit」がよく出�
 ## 🤔  ban との違いは？
 
 - **prohibit**：法律や規則などで公式に「禁止する」ことを表すフォーマルな語。
-- **[ban](/word/ban)**：より広く「禁止する」「締め出す」ことを指し、日常的にも使われる。
+- **[ban](/word/ban/)**：より広く「禁止する」「締め出す」ことを指し、日常的にも使われる。
 
 「prohibit」は特に法的・公式な禁止に使われ、「ban」は日常的な禁止や制限にも幅広く使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、規則やルールに関する文脈で「prohibit」がよく出�
 
 ## 🧩 あわせて覚えたい
 
-- [permit](/word/permit)：許可する
-- [forbid](/word/forbid)：（強い口調で）禁止する
+- [permit](/word/permit/)：許可する
+- [forbid](/word/forbid/)：（強い口調で）禁止する
 
 ---
 
 ## 📖 できればこれも
 
-- [restrict](/word/restrict)：制限する
-- [regulate](/word/regulate)：規制する
+- [restrict](/word/restrict/)：制限する
+- [regulate](/word/regulate/)：規制する
 
 <!-- cvid: aid04_bid05 -->

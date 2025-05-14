@@ -96,7 +96,7 @@ TOEICでは主にPart 1の写真描写で、ホテルやビルの入口に立つ
 ## 🤔  receptionist との違いは？
 
 - **doorman**：主に建物の入口でドアの開閉や案内をする係員
-- **[receptionist](/word/receptionist)**：受付で来客対応や電話応対をする係員
+- **[receptionist](/word/receptionist/)**：受付で来客対応や電話応対をする係員
 
 doormanは物理的な入口での対応、receptionistは受付カウンターでの事務的な対応が主な違いです。
 
@@ -104,14 +104,14 @@ doormanは物理的な入口での対応、receptionistは受付カウンター�
 
 ## 🧩 あわせて覚えたい
 
-- [guard](/word/guard)：警備員、守衛
-- [concierge](/word/concierge)：コンシェルジュ、ホテルの案内係
+- [guard](/word/guard/)：警備員、守衛
+- [concierge](/word/concierge/)：コンシェルジュ、ホテルの案内係
 
 ---
 
 ## 📖 できればこれも
 
-- [porter](/word/porter)：荷物運び、ポーター
-- [attendant](/word/attendant)：案内係、付き添い人
+- [porter](/word/porter/)：荷物運び、ポーター
+- [attendant](/word/attendant/)：案内係、付き添い人
 
 <!-- cvid: aid43_bid37 -->

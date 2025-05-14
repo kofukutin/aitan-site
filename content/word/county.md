@@ -97,7 +97,7 @@ TOEICでは、住所や行政区分、地域の説明などで登場すること
 ## 🤔  province との違いは？
 
 - **county**：アメリカやイギリスなどで使われる「郡」という行政区画
-- **[province](/word/province)**：主にカナダや中国などで使われる「州」「省」などの大きな行政区画
+- **[province](/word/province/)**：主にカナダや中国などで使われる「州」「省」などの大きな行政区画
 
 countyは市や町より大きく州より小さい単位、provinceは国の中で州や省などの大きな区分を指します。
 
@@ -105,14 +105,14 @@ countyは市や町より大きく州より小さい単位、provinceは国の中
 
 ## 🧩 あわせて覚えたい
 
-- [district](/word/district)：地区、行政区
-- [region](/word/region)：地域、地方
+- [district](/word/district/)：地区、行政区
+- [region](/word/region/)：地域、地方
 
 ---
 
 ## 📖 できればこれも
 
-- [city](/word/city)：都市、市
-- [state](/word/state)：州、国家
+- [city](/word/city/)：都市、市
+- [state](/word/state/)：州、国家
 
 <!-- cvid: aid30_bid43 -->

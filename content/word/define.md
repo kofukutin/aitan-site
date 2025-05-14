@@ -97,7 +97,7 @@ TOEICでは、defineは「用語や役割を明確にする」という文脈で
 ## 🤔  describe との違いは？
 
 - **define**：言葉や概念の意味・範囲を明確に定める
-- **[describe](/word/describe)**：特徴や様子を詳しく説明する
+- **[describe](/word/describe/)**：特徴や様子を詳しく説明する
 
 defineは「意味や範囲をはっきりさせる」ことに重点があり、describeは「見た目や性質などを詳しく述べる」時に使います。
 
@@ -105,14 +105,14 @@ defineは「意味や範囲をはっきりさせる」ことに重点があり�
 
 ## 🧩 あわせて覚えたい
 
-- [specify](/word/specify)：具体的に述べる
-- [clarify](/word/clarify)：明確にする
+- [specify](/word/specify/)：具体的に述べる
+- [clarify](/word/clarify/)：明確にする
 
 ---
 
 ## 📖 できればこれも
 
-- [explain](/word/explain)：説明する
-- [identify](/word/identify)：特定する
+- [explain](/word/explain/)：説明する
+- [identify](/word/identify/)：特定する
 
 <!-- cvid: aid23_bid46 -->

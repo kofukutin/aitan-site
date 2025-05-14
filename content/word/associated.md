@@ -97,7 +97,7 @@ TOEICでは、主に形容詞として「associated with ～（～に関連し�
 ## 🤔  related との違いは？
 
 - **associated**：何かと結びついている、付随している（ややフォーマル）
-- **[related](/word/related)**：関係している、関連がある（より広い意味で使える）
+- **[related](/word/related/)**：関係している、関連がある（より広い意味で使える）
 
 **associated**は「密接に結びついている」「付随している」ニュアンスが強く、**related**は「何らかの関係がある」と広く使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、主に形容詞として「associated with ～（～に関連し�
 
 ## 🧩 あわせて覚えたい
 
-- [connected](/word/connected)：つながっている、接続された
-- [independent](/word/independent)：独立した、無関係の
+- [connected](/word/connected/)：つながっている、接続された
+- [independent](/word/independent/)：独立した、無関係の
 
 ---
 
 ## 📖 できればこれも
 
-- [relevant](/word/relevant)：関連がある、適切な
-- [involved](/word/involved)：関与している、巻き込まれた
+- [relevant](/word/relevant/)：関連がある、適切な
+- [involved](/word/involved/)：関与している、巻き込まれた
 
 <!-- cvid: aid13_bid38 -->

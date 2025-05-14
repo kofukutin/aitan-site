@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、服装や風景の説明など
 ## 🤔  vivid との違いは？
 
 - **colorful**：多くの色が使われていて鮮やかな様子
-- **[vivid](/word/vivid)**：色やイメージが特に鮮明で強い印象を与える様子
+- **[vivid](/word/vivid/)**：色やイメージが特に鮮明で強い印象を与える様子
 
 colorfulは「色数が多くて明るい」印象、vividは「色やイメージがはっきりしていて強烈」な印象を表します。
 
@@ -105,14 +105,14 @@ colorfulは「色数が多くて明るい」印象、vividは「色やイメー�
 
 ## 🧩 あわせて覚えたい
 
-- [bright](/word/bright)：明るい、輝いている
-- [dull](/word/dull)：くすんだ、地味な
+- [bright](/word/bright/)：明るい、輝いている
+- [dull](/word/dull/)：くすんだ、地味な
 
 ---
 
 ## 📖 できればこれも
 
-- [plain](/word/plain)：無地の、飾り気のない
-- [patterned](/word/patterned)：模様のある
+- [plain](/word/plain/)：無地の、飾り気のない
+- [patterned](/word/patterned/)：模様のある
 
 <!-- cvid: aid33_bid27 -->

@@ -96,7 +96,7 @@ TOEICでは広告や案内文、商品説明などで「footwear」が登場す�
 ## 🤔  shoes との違いは？
 
 - **footwear**：靴やサンダル、ブーツなど足に履くもの全体を指す総称
-- **[shoes](/word/shoes)**：靴（足を覆う一般的な履物）を指す
+- **[shoes](/word/shoes/)**：靴（足を覆う一般的な履物）を指す
 
 footwearは靴だけでなくサンダルやブーツなども含む広い意味ですが、shoesは「靴」だけを指します。
 
@@ -104,14 +104,14 @@ footwearは靴だけでなくサンダルやブーツなども含む広い意味
 
 ## 🧩 あわせて覚えたい
 
-- [apparel](/word/apparel)：衣料品、衣類全般
-- [garment](/word/garment)：衣服、衣類（1着の服）
+- [apparel](/word/apparel/)：衣料品、衣類全般
+- [garment](/word/garment/)：衣服、衣類（1着の服）
 
 ---
 
 ## 📖 できればこれも
 
-- [clothing](/word/clothing)：衣類、服
-- [outfit](/word/outfit)：服装、コーディネート
+- [clothing](/word/clothing/)：衣類、服
+- [outfit](/word/outfit/)：服装、コーディネート
 
 <!-- cvid: aid01_bid07 -->

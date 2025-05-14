@@ -97,7 +97,7 @@ ITやデジタル関連の長文や説明文で「binary」は出題されるこ
 ## 🤔  digital との違いは？
 
 - **binary**：2進法や2つの要素から成ることを強調
-- **[digital](/word/digital)**：数字やデジタル技術全般を指し、2進法に限らない
+- **[digital](/word/digital/)**：数字やデジタル技術全般を指し、2進法に限らない
 
 binaryは「0と1」など2つの値に限定した表現ですが、digitalは「電子的・デジタル全般」を広く指します。
 
@@ -105,14 +105,14 @@ binaryは「0と1」など2つの値に限定した表現ですが、digitalは�
 
 ## 🧩 あわせて覚えたい
 
-- [decimal](/word/decimal)：10進法の
-- [bit](/word/bit)：情報の最小単位（0または1）
+- [decimal](/word/decimal/)：10進法の
+- [bit](/word/bit/)：情報の最小単位（0または1）
 
 ---
 
 ## 📖 できればこれも
 
-- [algorithm](/word/algorithm)：アルゴリズム、計算手順
-- [code](/word/code)：コード、符号、プログラム
+- [algorithm](/word/algorithm/)：アルゴリズム、計算手順
+- [code](/word/code/)：コード、符号、プログラム
 
 <!-- cvid: aid12_bid22 -->

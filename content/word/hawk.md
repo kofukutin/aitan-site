@@ -97,7 +97,7 @@ hawkは自然や動物に関する長文や、比喩表現（強硬派）とし�
 ## 🤔  eagle との違いは？
 
 - **hawk**：中型で鋭いくちばしと爪を持つタカ。一般的にeagleより小型。
-- **[eagle](/word/eagle)**：ワシ。タカより大型で、より力強い印象。
+- **[eagle](/word/eagle/)**：ワシ。タカより大型で、より力強い印象。
 
 hawkはタカ全般を指し、eagleはより大きく威厳のあるワシを指します。どちらも猛禽類ですが、サイズやイメージが異なります。
 
@@ -105,14 +105,14 @@ hawkはタカ全般を指し、eagleはより大きく威厳のあるワシを�
 
 ## 🧩 あわせて覚えたい
 
-- [dove](/word/dove)：ハト、平和主義者
-- [falcon](/word/falcon)：ハヤブサ
+- [dove](/word/dove/)：ハト、平和主義者
+- [falcon](/word/falcon/)：ハヤブサ
 
 ---
 
 ## 📖 できればこれも
 
-- [owl](/word/owl)：フクロウ
-- [crow](/word/crow)：カラス
+- [owl](/word/owl/)：フクロウ
+- [crow](/word/crow/)：カラス
 
 <!-- cvid: aid36_bid19 -->

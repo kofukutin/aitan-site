@@ -97,7 +97,7 @@ TOEICでは「サービス内容」「顧客対応」「点検」など、ビジ
 ## 🤔  support との違いは？
 
 - **service**：サービス全般や業務、点検など幅広い意味で使う
-- **[support](/word/support)**：支援やサポート、助けることに特化
+- **[support](/word/support/)**：支援やサポート、助けることに特化
 
 **service**は「提供される業務やサービス全体」を指し、**support**は「困っている人を助ける支援」に焦点があります。
 
@@ -105,14 +105,14 @@ TOEICでは「サービス内容」「顧客対応」「点検」など、ビジ
 
 ## 🧩 あわせて覚えたい
 
-- [product](/word/product)：製品
-- [maintenance](/word/maintenance)：保守、メンテナンス
+- [product](/word/product/)：製品
+- [maintenance](/word/maintenance/)：保守、メンテナンス
 
 ---
 
 ## 📖 できればこれも
 
-- [facility](/word/facility)：設備、施設
-- [customer](/word/customer)：顧客
+- [facility](/word/facility/)：設備、施設
+- [customer](/word/customer/)：顧客
 
 <!-- cvid: aid14_bid05 -->

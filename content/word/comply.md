@@ -97,7 +97,7 @@ TOEICでは主にPart 5の文法・語彙問題で「comply with ～（～に従
 ## 🤔  obey との違いは？
 
 - **comply**：規則や要求などにフォーマルに従う
-- **[obey](/word/obey)**：命令や権威に従う、より個人的・直接的
+- **[obey](/word/obey/)**：命令や権威に従う、より個人的・直接的
 
 complyはルールや規則などに形式的・義務的に従う場合に使い、obeyは命令や権威者に対して従う場合に使われます。
 
@@ -105,14 +105,14 @@ complyはルールや規則などに形式的・義務的に従う場合に使�
 
 ## 🧩 あわせて覚えたい
 
-- [conform](/word/conform)：（慣習・規範などに）従う、順応する
-- [violate](/word/violate)：（規則などを）違反する、破る
+- [conform](/word/conform/)：（慣習・規範などに）従う、順応する
+- [violate](/word/violate/)：（規則などを）違反する、破る
 
 ---
 
 ## 📖 できればこれも
 
-- [adhere](/word/adhere)：（規則・方針などを）守る、固守する
-- [follow](/word/follow)：（指示・ルールなどに）従う、ついていく
+- [adhere](/word/adhere/)：（規則・方針などを）守る、固守する
+- [follow](/word/follow/)：（指示・ルールなどに）従う、ついていく
 
 <!-- cvid: aid36_bid27 -->

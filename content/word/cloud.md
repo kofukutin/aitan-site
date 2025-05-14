@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写で「雲」や天気の説明としてよく登
 ## 🤔  fog との違いは？
 
 - **cloud**：空に浮かぶ雲やIT分野のクラウドを指す
-- **[fog](/word/fog)**：地面近くに発生する霧を指す
+- **[fog](/word/fog/)**：地面近くに発生する霧を指す
 
 cloudは空にある「雲」やIT用語として使われ、fogは地表近くに発生する「霧」を表します。
 
@@ -105,14 +105,14 @@ cloudは空にある「雲」やIT用語として使われ、fogは地表近く�
 
 ## 🧩 あわせて覚えたい
 
-- [sky](/word/sky)：空
-- [rain](/word/rain)：雨
+- [sky](/word/sky/)：空
+- [rain](/word/rain/)：雨
 
 ---
 
 ## 📖 できればこれも
 
-- [storm](/word/storm)：嵐
-- [server](/word/server)：サーバー（IT用語）
+- [storm](/word/storm/)：嵐
+- [server](/word/server/)：サーバー（IT用語）
 
 <!-- cvid: aid16_bid08 -->

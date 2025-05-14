@@ -97,7 +97,7 @@ TOEICでは、都市と田舎の比較や、地域の説明文などでruralが�
 ## 🤔  suburban との違いは？
 
 - **rural**：都市から離れた田舎や農村を指す
-- **[suburban](/word/suburban)**：都市の周辺にある郊外を指す
+- **[suburban](/word/suburban/)**：都市の周辺にある郊外を指す
 
 ruralは「田舎・農村」、suburbanは「都市近郊の住宅地」と、場所や雰囲気が異なります。
 
@@ -105,14 +105,14 @@ ruralは「田舎・農村」、suburbanは「都市近郊の住宅地」と、�
 
 ## 🧩 あわせて覚えたい
 
-- [urban](/word/urban)：都市の、都会の
-- [countryside](/word/countryside)：田舎、農村地帯
+- [urban](/word/urban/)：都市の、都会の
+- [countryside](/word/countryside/)：田舎、農村地帯
 
 ---
 
 ## 📖 できればこれも
 
-- [remote](/word/remote)：遠隔の、人里離れた
-- [agricultural](/word/agricultural)：農業の
+- [remote](/word/remote/)：遠隔の、人里離れた
+- [agricultural](/word/agricultural/)：農業の
 
 <!-- cvid: aid21_bid24 -->

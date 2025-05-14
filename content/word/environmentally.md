@@ -97,7 +97,7 @@ TOEICでは、環境問題や企業の社会的責任に関する長文で「env
 ## 🤔  ecologically との違いは？
 
 - **environmentally**：環境全般に関して、広い意味で使う
-- **[ecologically](/word/ecologically)**：生態系や自然環境の仕組みに特化して使う
+- **[ecologically](/word/ecologically/)**：生態系や自然環境の仕組みに特化して使う
 
 「environmentally」は「環境にやさしい」など幅広い文脈で使われますが、「ecologically」は生態系や自然科学的な観点によりフォーカスしています。
 
@@ -105,14 +105,14 @@ TOEICでは、環境問題や企業の社会的責任に関する長文で「env
 
 ## 🧩 あわせて覚えたい
 
-- [sustainably](/word/sustainably)：持続可能な方法で
-- [environment](/word/environment)：環境
+- [sustainably](/word/sustainably/)：持続可能な方法で
+- [environment](/word/environment/)：環境
 
 ---
 
 ## 📖 できればこれも
 
-- [environmental](/word/environmental)：環境の、環境に関する
-- [sustainable](/word/sustainable)：持続可能な
+- [environmental](/word/environmental/)：環境の、環境に関する
+- [sustainable](/word/sustainable/)：持続可能な
 
 <!-- cvid: aid31_bid04 -->

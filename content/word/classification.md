@@ -97,7 +97,7 @@ TOEICでは、科学的な説明やビジネス文書、データ整理の文脈
 ## 🤔  categorization との違いは？
 
 - **classification**：体系的・公式な基準で分ける「分類」
-- **[categorization](/word/categorization)**：より一般的・日常的な「カテゴリー分け」
+- **[categorization](/word/categorization/)**：より一般的・日常的な「カテゴリー分け」
 
 classificationは科学やビジネスなどで使われるフォーマルな分類、categorizationは日常的なグループ分けに使われます。
 
@@ -105,14 +105,14 @@ classificationは科学やビジネスなどで使われるフォーマルな分
 
 ## 🧩 あわせて覚えたい
 
-- [division](/word/division)：分割、区分
-- [arrangement](/word/arrangement)：配置、整理
+- [division](/word/division/)：分割、区分
+- [arrangement](/word/arrangement/)：配置、整理
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/word/analysis)：分析
-- [identification](/word/identification)：識別
+- [analysis](/word/analysis/)：分析
+- [identification](/word/identification/)：識別
 
 <!-- cvid: aid31_bid35 -->

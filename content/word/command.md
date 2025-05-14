@@ -97,7 +97,7 @@ TOEICではITやビジネスの文脈で「指示」「命令」として出題�
 ## 🤔  order との違いは？
 
 - **command**：権威や上位者からの強い命令や指示、IT分野ではシステムへの指示
-- **[order](/word/order)**：日常的な「注文」や「指示」、ビジネスやレストランなど幅広い場面で使う
+- **[order](/word/order/)**：日常的な「注文」や「指示」、ビジネスやレストランなど幅広い場面で使う
 
 commandは「上から下への厳格な命令」や「システム操作の指示」に使い、orderは「注文」や「依頼」など幅広い場面で使います。
 
@@ -105,14 +105,14 @@ commandは「上から下への厳格な命令」や「システム操作の指�
 
 ## 🧩 あわせて覚えたい
 
-- [instruction](/word/instruction)：指示、説明
-- [control](/word/control)：制御、管理
+- [instruction](/word/instruction/)：指示、説明
+- [control](/word/control/)：制御、管理
 
 ---
 
 ## 📖 できればこれも
 
-- [authority](/word/authority)：権限、権威
-- [request](/word/request)：依頼、要請
+- [authority](/word/authority/)：権限、権威
+- [request](/word/request/)：依頼、要請
 
 <!-- cvid: aid48_bid26 -->

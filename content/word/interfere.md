@@ -97,7 +97,7 @@ TOEICでは会議や業務の進行を妨げる場面で「interfere」が使わ
 ## 🤔  interrupt との違いは？
 
 - **interfere**：他人のことに不必要に口出ししたり、進行を妨げるニュアンス
-- **[interrupt](/word/interrupt)**：話や作業を一時的に中断させる、割り込むニュアンス
+- **[interrupt](/word/interrupt/)**：話や作業を一時的に中断させる、割り込むニュアンス
 
 interfereは「余計な干渉」や「邪魔をする」ことに重点があり、interruptは「途中で止める・割り込む」ことに重点があります。
 
@@ -105,14 +105,14 @@ interfereは「余計な干渉」や「邪魔をする」ことに重点があ�
 
 ## 🧩 あわせて覚えたい
 
-- [meddle](/word/meddle)：おせっかいを焼く、干渉する
-- [prevent](/word/prevent)：防ぐ、妨げる
+- [meddle](/word/meddle/)：おせっかいを焼く、干渉する
+- [prevent](/word/prevent/)：防ぐ、妨げる
 
 ---
 
 ## 📖 できればこれも
 
-- [disturb](/word/disturb)：邪魔をする、妨げる
-- [involve](/word/involve)：巻き込む、関与させる
+- [disturb](/word/disturb/)：邪魔をする、妨げる
+- [involve](/word/involve/)：巻き込む、関与させる
 
 <!-- cvid: aid36_bid49 -->

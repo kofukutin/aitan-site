@@ -97,7 +97,7 @@ integrationはTOEICの長文読解パートで、ITやビジネスの文脈で�
 ## 🤔  combination との違いは？
 
 - **integration**：複数のものを一つにまとめて全体として機能させる「統合」や「融合」。
-- **[combination](/word/combination)**：単に複数のものを組み合わせる「組み合わせ」。
+- **[combination](/word/combination/)**：単に複数のものを組み合わせる「組み合わせ」。
 
 integrationは「一体化して新しい全体を作る」ニュアンスがあり、combinationは「個々の要素がそのまま集まる」イメージです。
 
@@ -105,14 +105,14 @@ integrationは「一体化して新しい全体を作る」ニュアンスがあ
 
 ## 🧩 あわせて覚えたい
 
-- [merger](/word/merger)：合併（特に企業の合併）
-- [unification](/word/unification)：統一、一本化
+- [merger](/word/merger/)：合併（特に企業の合併）
+- [unification](/word/unification/)：統一、一本化
 
 ---
 
 ## 📖 できればこれも
 
-- [implementation](/word/implementation)：実装、導入
-- [collaboration](/word/collaboration)：協力、共同
+- [implementation](/word/implementation/)：実装、導入
+- [collaboration](/word/collaboration/)：協力、共同
 
 <!-- cvid: aid13_bid35 -->

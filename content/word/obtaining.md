@@ -97,7 +97,7 @@ TOEICでは「書類を取得する」「許可を得る」など、フォーマ
 ## 🤔  acquiring との違いは？
 
 - **obtaining**：努力や手続きを経て「得る」「取得する」ことを強調
-- **[acquiring](/word/acquiring)**：知識やスキルなどを「身につける」「習得する」ニュアンスが強い
+- **[acquiring](/word/acquiring/)**：知識やスキルなどを「身につける」「習得する」ニュアンスが強い
 
 obtainingは公式なものや許可・書類などを得る場合に多く、acquiringは知識や経験など無形のものに使われやすいです。
 
@@ -105,14 +105,14 @@ obtainingは公式なものや許可・書類などを得る場合に多く、ac
 
 ## 🧩 あわせて覚えたい
 
-- [receive](/word/receive)：受け取る
-- [collect](/word/collect)：集める
+- [receive](/word/receive/)：受け取る
+- [collect](/word/collect/)：集める
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/word/submit)：提出する
-- [approve](/word/approve)：承認する
+- [submit](/word/submit/)：提出する
+- [approve](/word/approve/)：承認する
 
 <!-- cvid: aid15_bid28 -->

@@ -98,7 +98,7 @@ TOEICではメールや案内文、手続きの説明などで「電子的に送
 ## 🤔  digitally との違いは？
 
 - **electronically**：電子機器や電子的手段を使って
-- **[digitally](/word/digitally)**：デジタル技術やデータ形式で
+- **[digitally](/word/digitally/)**：デジタル技術やデータ形式で
 
 「electronically」は「電子機器を使って」という手段に焦点があり、「digitally」は「デジタルデータとして」という形式や処理方法に焦点があります。
 
@@ -106,14 +106,14 @@ TOEICではメールや案内文、手続きの説明などで「電子的に送
 
 ## 🧩 あわせて覚えたい
 
-- [manually](/word/manually)：手作業で
-- [automatically](/word/automatically)：自動的に
+- [manually](/word/manually/)：手作業で
+- [automatically](/word/automatically/)：自動的に
 
 ---
 
 ## 📖 できればこれも
 
-- [electron](/word/electron)：電子
-- [electronic](/word/electronic)：電子の、電子的な
+- [electron](/word/electron/)：電子
+- [electronic](/word/electronic/)：電子の、電子的な
 
 <!-- cvid: aid49_bid21 -->

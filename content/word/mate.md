@@ -97,7 +97,7 @@ mateはTOEICでは主に会話パートで、カジュアルな関係やチー�
 ## 🤔  colleague との違いは？
 
 - **mate**：親しい友人や仲間をカジュアルに指す言葉
-- **[colleague](/word/colleague)**：職場の同僚をフォーマルに指す言葉
+- **[colleague](/word/colleague/)**：職場の同僚をフォーマルに指す言葉
 
 mateは友達感覚の親しみを込めて使い、colleagueはビジネスシーンでの「同僚」としてフォーマルに使います。
 
@@ -105,14 +105,14 @@ mateは友達感覚の親しみを込めて使い、colleagueはビジネスシ�
 
 ## 🧩 あわせて覚えたい
 
-- [partner](/word/partner)：パートナー、相棒
-- [companion](/word/companion)：同行者、連れ
+- [partner](/word/partner/)：パートナー、相棒
+- [companion](/word/companion/)：同行者、連れ
 
 ---
 
 ## 📖 できればこれも
 
-- [buddy](/word/buddy)：親友、相棒
-- [peer](/word/peer)：同僚、同年代の人
+- [buddy](/word/buddy/)：親友、相棒
+- [peer](/word/peer/)：同僚、同年代の人
 
 <!-- cvid: aid02_bid06 -->

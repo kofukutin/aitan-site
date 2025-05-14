@@ -97,7 +97,7 @@ TOEICではパーティーやイベント、オフィスの案内文などで「
 ## 🤔  ornament との違いは？
 
 - **decoration**：一般的な「飾り」「装飾」。用途や場面を問わず幅広く使う。
-- **[ornament](/word/ornament)**：特に芸術的・装飾的な小物や細工を指すことが多い。
+- **[ornament](/word/ornament/)**：特に芸術的・装飾的な小物や細工を指すことが多い。
 
 decorationは日常的な飾り全般に使い、ornamentは美術品やクリスマスツリーの飾りなど、より芸術性や装飾性が強調される場面で使います。
 
@@ -105,14 +105,14 @@ decorationは日常的な飾り全般に使い、ornamentは美術品やクリ�
 
 ## 🧩 あわせて覚えたい
 
-- [decorate](/word/decorate)：飾る（動詞）
-- [adornment](/word/adornment)：装飾品、飾り（名詞）
+- [decorate](/word/decorate/)：飾る（動詞）
+- [adornment](/word/adornment/)：装飾品、飾り（名詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [design](/word/design)：デザイン、設計（名詞）
-- [arrangement](/word/arrangement)：配置、準備（名詞）
+- [design](/word/design/)：デザイン、設計（名詞）
+- [arrangement](/word/arrangement/)：配置、準備（名詞）
 
 <!-- cvid: aid31_bid41 -->

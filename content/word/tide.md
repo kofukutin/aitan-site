@@ -97,7 +97,7 @@ tideはTOEICのリスニングパートで、観光や自然に関する会話�
 ## 🤔  current との違いは？
 
 - **tide**：海の満ち引きや、時代の流れなど大きな周期的な流れを指す
-- **[current](/word/current)**：水や空気の「流れ」、電流など、より具体的な流れや動きを指す
+- **[current](/word/current/)**：水や空気の「流れ」、電流など、より具体的な流れや動きを指す
 
 tideは周期的な「潮の満ち引き」や比喩的な「時流」を表し、currentは水や空気などの「流れ」そのものを指します。
 
@@ -105,14 +105,14 @@ tideは周期的な「潮の満ち引き」や比喩的な「時流」を表し�
 
 ## 🧩 あわせて覚えたい
 
-- [wave](/word/wave)：波
-- [ebb](/word/ebb)：引き潮、衰退
+- [wave](/word/wave/)：波
+- [ebb](/word/ebb/)：引き潮、衰退
 
 ---
 
 ## 📖 できればこれも
 
-- [shore](/word/shore)：岸、海岸
-- [coast](/word/coast)：海岸、沿岸
+- [shore](/word/shore/)：岸、海岸
+- [coast](/word/coast/)：海岸、沿岸
 
 <!-- cvid: aid46_bid12 -->

@@ -97,7 +97,7 @@ TOEICではPart 2の応答問題や、会話文で「来る」「到着する」
 ## 🤔  go との違いは？
 
 - **come**：話し手や聞き手のいる場所・話題の場所に「近づく」「やって来る」
-- **[go](/word/go)**：話し手や聞き手から「離れて行く」「向かう」
+- **[go](/word/go/)**：話し手や聞き手から「離れて行く」「向かう」
 
 comeは「こちらに来る」、goは「向こうへ行く」という方向の違いがあります。
 
@@ -105,14 +105,14 @@ comeは「こちらに来る」、goは「向こうへ行く」という方向�
 
 ## 🧩 あわせて覚えたい
 
-- [arrive](/word/arrive)：到着する
-- [return](/word/return)：戻る、帰る
+- [arrive](/word/arrive/)：到着する
+- [return](/word/return/)：戻る、帰る
 
 ---
 
 ## 📖 できればこれも
 
-- [bring](/word/bring)：持ってくる
-- [leave](/word/leave)：去る、出発する
+- [bring](/word/bring/)：持ってくる
+- [leave](/word/leave/)：去る、出発する
 
 <!-- cvid: aid12_bid44 -->

@@ -97,7 +97,7 @@ TOEICでは契約書や法的文書、会社規定などの長文でよく登場
 ## 🤔  authority との違いは？
 
 - **jurisdiction**：法律や組織が特定の範囲で持つ「管轄権」や「司法権」
-- **[authority](/word/authority)**：一般的な「権限」や「権威」、命令や決定を下す力
+- **[authority](/word/authority/)**：一般的な「権限」や「権威」、命令や決定を下す力
 
 jurisdictionは「範囲が明確な法的権限」、authorityは「広い意味での権限や権威」を指します。
 
@@ -105,15 +105,15 @@ jurisdictionは「範囲が明確な法的権限」、authorityは「広い意�
 
 ## 🧩 あわせて覚えたい
 
-- [court](/word/court)：裁判所
-- [regulation](/word/regulation)：規則、規制
+- [court](/word/court/)：裁判所
+- [regulation](/word/regulation/)：規則、規制
 
 ---
 
 ## 📖 できればこれも
 
-- [legislation](/word/legislation)：立法、法律制定
-- [permission](/word/permission)：許可
+- [legislation](/word/legislation/)：立法、法律制定
+- [permission](/word/permission/)：許可
 
 
 <!-- cvid: aid01_bid37 -->

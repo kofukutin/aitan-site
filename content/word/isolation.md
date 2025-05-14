@@ -97,7 +97,7 @@ The patient was kept in isolation to prevent the spread of infection.
 ## 🤔  separation との違いは？
 
 - **isolation**：他から完全に切り離されている「孤立」「隔離」の状態を強調
-- **[separation](/word/separation)**：物理的・心理的な「分離」や「区別」を幅広く指す
+- **[separation](/word/separation/)**：物理的・心理的な「分離」や「区別」を幅広く指す
 
 isolationは「一人きり」「完全に離す」ニュアンスが強く、separationは単に「分ける」「区切る」場合にも使われます。
 
@@ -105,14 +105,14 @@ isolationは「一人きり」「完全に離す」ニュアンスが強く、se
 
 ## 🧩 あわせて覚えたい
 
-- [quarantine](/word/quarantine)：検疫、隔離（特に感染症対策での隔離）
-- [solitude](/word/solitude)：孤独、ひとりでいること（肯定的な意味合いも含む）
+- [quarantine](/word/quarantine/)：検疫、隔離（特に感染症対策での隔離）
+- [solitude](/word/solitude/)：孤独、ひとりでいること（肯定的な意味合いも含む）
 
 ---
 
 ## 📖 できればこれも
 
-- [infection](/word/infection)：感染、伝染
-- [prevention](/word/prevention)：予防、防止
+- [infection](/word/infection/)：感染、伝染
+- [prevention](/word/prevention/)：予防、防止
 
 <!-- cvid: aid31_bid09 -->

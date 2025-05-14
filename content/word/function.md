@@ -97,7 +97,7 @@ TOEICではITやビジネス文脈で「機能」「役割」として頻出し�
 ## 🤔  role との違いは？
 
 - **function**：物や人が果たす「機能」や「働き」に重点
-- **[role](/word/role)**：人や組織が担う「役割」や「立場」に重点
+- **[role](/word/role/)**：人や組織が担う「役割」や「立場」に重点
 
 functionは「何をするか」という働き自体、roleは「どんな立場・責任か」に焦点があります。
 
@@ -105,14 +105,14 @@ functionは「何をするか」という働き自体、roleは「どんな立�
 
 ## 🧩 あわせて覚えたい
 
-- [feature](/word/feature)：特徴、機能
-- [purpose](/word/purpose)：目的
+- [feature](/word/feature/)：特徴、機能
+- [purpose](/word/purpose/)：目的
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process)：過程、処理
-- [system](/word/system)：システム、体系
+- [process](/word/process/)：過程、処理
+- [system](/word/system/)：システム、体系
 
 <!-- cvid: aid17_bid43 -->

@@ -97,7 +97,7 @@ TOEICではビジネス文書や会議の議事録、プロジェクトの進捗
 ## 🤔  impetus との違いは？
 
 - **momentum**：進行中の物事の「勢い」や「流れ」を表す
-- **[impetus](/word/impetus)**：何かを始める・加速させる「きっかけ」や「推進力」を表す
+- **[impetus](/word/impetus/)**：何かを始める・加速させる「きっかけ」や「推進力」を表す
 
 momentumは継続的な勢い、impetusは新たな動きや変化のきっかけに使われます。
 
@@ -105,14 +105,14 @@ momentumは継続的な勢い、impetusは新たな動きや変化のきっか�
 
 ## 🧩 あわせて覚えたい
 
-- [progress](/word/progress)：進歩、前進
-- [decline](/word/decline)：減少、衰退
+- [progress](/word/progress/)：進歩、前進
+- [decline](/word/decline/)：減少、衰退
 
 ---
 
 ## 📖 できればこれも
 
-- [trend](/word/trend)：傾向、流行
-- [initiative](/word/initiative)：主導権、新しい取り組み
+- [trend](/word/trend/)：傾向、流行
+- [initiative](/word/initiative/)：主導権、新しい取り組み
 
 <!-- cvid: aid47_bid20 -->

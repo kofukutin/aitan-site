@@ -97,7 +97,7 @@ TOEICでは「active member（積極的なメンバー）」や「active partici
 ## 🤔  energetic との違いは？
 
 - **active**：行動や参加が積極的で、実際に動いていることを強調。
-- **[energetic](/word/energetic)**：エネルギーや元気がある様子を強調。
+- **[energetic](/word/energetic/)**：エネルギーや元気がある様子を強調。
 
 activeは「実際に行動する」ことに重点があり、energeticは「元気・活力がある」ことに重点があります。
 
@@ -105,14 +105,14 @@ activeは「実際に行動する」ことに重点があり、energeticは「�
 
 ## 🧩 あわせて覚えたい
 
-- [passive](/word/passive)：受け身の、消極的な
-- [dynamic](/word/dynamic)：躍動的な、活発な
+- [passive](/word/passive/)：受け身の、消極的な
+- [dynamic](/word/dynamic/)：躍動的な、活発な
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [productive](/word/productive)：生産的な
+- [efficient](/word/efficient/)：効率的な
+- [productive](/word/productive/)：生産的な
 
 <!-- cvid: aid31_bid45 -->

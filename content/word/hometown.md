@@ -97,7 +97,7 @@ TOEICでは自己紹介や出身地に関する会話で出題されることが
 ## 🤔  birthplace との違いは？
 
 - **hometown**：生まれ育った町や長く住んだ町を指し、親しみや思い出を込めて使う。
-- **[birthplace](/word/birthplace)**：生まれた場所（出生地）を指し、公式・事実的な表現。
+- **[birthplace](/word/birthplace/)**：生まれた場所（出生地）を指し、公式・事実的な表現。
 
 hometownは「思い入れのある故郷」、birthplaceは「生まれた場所」という事実を強調したいときに使い分けます。
 
@@ -105,14 +105,14 @@ hometownは「思い入れのある故郷」、birthplaceは「生まれた場�
 
 ## 🧩 あわせて覚えたい
 
-- [residence](/word/residence)：居住地、住まい
-- [native](/word/native)：出身の、出生地の
+- [residence](/word/residence/)：居住地、住まい
+- [native](/word/native/)：出身の、出生地の
 
 ---
 
 ## 📖 できればこれも
 
-- [neighbor](/word/neighbor)：近所の人、隣人
-- [suburb](/word/suburb)：郊外
+- [neighbor](/word/neighbor/)：近所の人、隣人
+- [suburb](/word/suburb/)：郊外
 
 <!-- cvid: aid06_bid27 -->

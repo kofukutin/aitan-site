@@ -97,7 +97,7 @@ TOEICでは「世話」「注意」「配慮」などの意味で、会話や説
 ## 🤔  concern との違いは？
 
 - **care**：世話や配慮、注意を払うことを表す。
-- **[concern](/word/concern)**：心配や懸念、関心を表す。
+- **[concern](/word/concern/)**：心配や懸念、関心を表す。
 
 careは実際の行動や気配りに重点があり、concernは心の中の心配や関心に重点があります。
 
@@ -105,14 +105,14 @@ careは実際の行動や気配りに重点があり、concernは心の中の心
 
 ## 🧩 あわせて覚えたい
 
-- [attention](/word/attention)：注意、注目
-- [neglect](/word/neglect)：無視、怠慢
+- [attention](/word/attention/)：注意、注目
+- [neglect](/word/neglect/)：無視、怠慢
 
 ---
 
 ## 📖 できればこれも
 
-- [support](/word/support)：支援、サポート
-- [service](/word/service)：サービス、業務
+- [support](/word/support/)：支援、サポート
+- [service](/word/service/)：サービス、業務
 
 <!-- cvid: aid33_bid42 -->

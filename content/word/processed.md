@@ -97,7 +97,7 @@ TOEICでは主に説明文や広告、商品説明などで「processed food（�
 ## 🤔  refined との違いは？
 
 - **processed**：一般的に機械や工程で加工・処理された状態を指す
-- **[refined](/word/refined)**：不純物を取り除いて「精製された」「洗練された」状態を指す
+- **[refined](/word/refined/)**：不純物を取り除いて「精製された」「洗練された」状態を指す
 
 processedは広く「加工された」もの全般に使い、refinedは特に「純度を高めるために精製された」場合に使います。
 
@@ -105,14 +105,14 @@ processedは広く「加工された」もの全般に使い、refinedは特に�
 
 ## 🧩 あわせて覚えたい
 
-- [raw](/word/raw)：生の、未加工の
-- [manufactured](/word/manufactured)：製造された、工場で作られた
+- [raw](/word/raw/)：生の、未加工の
+- [manufactured](/word/manufactured/)：製造された、工場で作られた
 
 ---
 
 ## 📖 できればこれも
 
-- [packaged](/word/packaged)：包装された
-- [organic](/word/organic)：有機の、オーガニックの
+- [packaged](/word/packaged/)：包装された
+- [organic](/word/organic/)：有機の、オーガニックの
 
 <!-- cvid: aid31_bid35 -->

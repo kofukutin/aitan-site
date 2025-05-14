@@ -97,7 +97,7 @@ hitはTOEICの会話パートで「ぶつかる」「到達する」などの意
 ## 🤔  strike との違いは？
 
 - **hit**：単に「当たる」「ぶつかる」という意味で、日常的な動作や出来事に幅広く使う。
-- **[strike](/word/strike)**：hitよりも「強く打つ」「意図的に攻撃する」など、力強さや意図が強調される。
+- **[strike](/word/strike/)**：hitよりも「強く打つ」「意図的に攻撃する」など、力強さや意図が強調される。
 
 hitは日常的な「ぶつかる」動作全般に使い、strikeはより強い力や意図的な行為を表します。
 
@@ -105,14 +105,14 @@ hitは日常的な「ぶつかる」動作全般に使い、strikeはより強�
 
 ## 🧩 あわせて覚えたい
 
-- [touch](/word/touch)：触れる
-- [miss](/word/miss)：外す、逃す
+- [touch](/word/touch/)：触れる
+- [miss](/word/miss/)：外す、逃す
 
 ---
 
 ## 📖 できればこれも
 
-- [push](/word/push)：押す
-- [reach](/word/reach)：到達する
+- [push](/word/push/)：押す
+- [reach](/word/reach/)：到達する
 
 <!-- cvid: aid20_bid34 -->

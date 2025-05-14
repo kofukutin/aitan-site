@@ -97,7 +97,7 @@ TOEICでは会議や業務の進行、プレゼンなどの場面で「performed
 ## 🤔  executed との違いは？
 
 - **performed**：一般的な作業や任務、演技などを「行う」「実行する」際に使う。
-- **[executed](/word/executed)**：計画や命令、法的な処置などを「厳格に実行する」「執行する」際に使う。
+- **[executed](/word/executed/)**：計画や命令、法的な処置などを「厳格に実行する」「執行する」際に使う。
 
 「performed」は幅広い場面で使える一方、「executed」はより厳格・公式なニュアンスや法的な文脈で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは会議や業務の進行、プレゼンなどの場面で「performed
 
 ## 🧩 あわせて覚えたい
 
-- [conduct](/word/conduct)：実施する、行う
-- [complete](/word/complete)：完了する、仕上げる
+- [conduct](/word/conduct/)：実施する、行う
+- [complete](/word/complete/)：完了する、仕上げる
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/word/present)：提示する、発表する
-- [prepare](/word/prepare)：準備する
+- [present](/word/present/)：提示する、発表する
+- [prepare](/word/prepare/)：準備する
 
 <!-- cvid: aid36_bid46 -->

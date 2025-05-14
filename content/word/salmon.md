@@ -96,7 +96,7 @@ TOEICではレストランのメニューや観光案内、食材に関する長
 ## 🤔  trout との違いは？
 
 - **salmon**：サケ。川と海を行き来し、食用として人気が高い魚。
-- **[trout](/word/trout)**：マス。サケに似ているが、主に淡水に生息し、やや小型。
+- **[trout](/word/trout/)**：マス。サケに似ているが、主に淡水に生息し、やや小型。
 
 salmonは主にサケ類全般やその肉を指し、troutはマス類で、見た目や生息地が異なります。
 
@@ -104,14 +104,14 @@ salmonは主にサケ類全般やその肉を指し、troutはマス類で、見
 
 ## 🧩 あわせて覚えたい
 
-- [tuna](/word/tuna)：マグロ
-- [shrimp](/word/shrimp)：エビ
+- [tuna](/word/tuna/)：マグロ
+- [shrimp](/word/shrimp/)：エビ
 
 ---
 
 ## 📖 できればこれも
 
-- [crab](/word/crab)：カニ
-- [fish](/word/fish)：魚
+- [crab](/word/crab/)：カニ
+- [fish](/word/fish/)：魚
 
 <!-- cvid: aid08_bid15 -->

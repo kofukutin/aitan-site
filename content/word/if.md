@@ -93,7 +93,7 @@ TOEICでは条件文や間接疑問文で頻出します。基本的な接続詞
 ## 🤔  whether との違いは？
 
 - **if**：主に「もし～ならば」と条件を表すときや、口語で「～かどうか」と使う
-- **[whether](/word/whether)**：よりフォーマルに「～かどうか」を表し、選択肢が明確な場合や前置詞の後で使う
+- **[whether](/word/whether/)**：よりフォーマルに「～かどうか」を表し、選択肢が明確な場合や前置詞の後で使う
 
 ifはカジュアルな条件や疑問に、whetherはフォーマルな選択や文法的に必要な場面で使い分けます。
 
@@ -101,14 +101,14 @@ ifはカジュアルな条件や疑問に、whetherはフォーマルな選択�
 
 ## 🧩 あわせて覚えたい
 
-- [unless](/word/unless)：～でなければ
-- [provided](/word/provided)：もし～ならば（ややフォーマル）
+- [unless](/word/unless/)：～でなければ
+- [provided](/word/provided/)：もし～ならば（ややフォーマル）
 
 ---
 
 ## 📖 できればこれも
 
-- [because](/word/because)：なぜなら
-- [although](/word/although)：～だけれども
+- [because](/word/because/)：なぜなら
+- [although](/word/although/)：～だけれども
 
 <!-- cvid: aid05_bid29 -->

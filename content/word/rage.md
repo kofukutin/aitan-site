@@ -97,7 +97,7 @@ TOEICでは主に記事やメールなどの長文中で、感情や状況の描
 ## 🤔  anger との違いは？
 
 - **rage**：コントロールできないほど激しい怒りや爆発的な感情
-- **[anger](/word/anger)**：一般的な怒りや不快感
+- **[anger](/word/anger/)**：一般的な怒りや不快感
 
 rageは一時的で非常に強い怒りを指し、angerは広く一般的な怒り全般を表します。
 
@@ -105,14 +105,14 @@ rageは一時的で非常に強い怒りを指し、angerは広く一般的な�
 
 ## 🧩 あわせて覚えたい
 
-- [fury](/word/fury)：激しい怒り、激怒
-- [calm](/word/calm)：落ち着き、冷静
+- [fury](/word/fury/)：激しい怒り、激怒
+- [calm](/word/calm/)：落ち着き、冷静
 
 ---
 
 ## 📖 できればこれも
 
-- [stress](/word/stress)：ストレス、緊張
-- [emotion](/word/emotion)：感情
+- [stress](/word/stress/)：ストレス、緊張
+- [emotion](/word/emotion/)：感情
 
 <!-- cvid: aid24_bid47 -->

@@ -98,7 +98,7 @@ Our team will sprint to finish the project by Friday.
 ## 🤔  dash との違いは？
 
 - **sprint**：短い距離や時間で全力を出すこと。計画的・集中型。
-- **[dash](/word/dash)**：急いで動くこと。衝動的・一時的なニュアンス。
+- **[dash](/word/dash/)**：急いで動くこと。衝動的・一時的なニュアンス。
 
 sprintは「短期間で集中して全力を出す」イメージ、dashは「急に素早く動く」イメージで、計画性や持続性に違いがあります。
 
@@ -106,14 +106,14 @@ sprintは「短期間で集中して全力を出す」イメージ、dashは「�
 
 ## 🧩 あわせて覚えたい
 
-- [jog](/word/jog)：ゆっくり走る
-- [marathon](/word/marathon)：長距離走、マラソン
+- [jog](/word/jog/)：ゆっくり走る
+- [marathon](/word/marathon/)：長距離走、マラソン
 
 ---
 
 ## 📖 できればこれも
 
-- [rush](/word/rush)：急ぐ、急いで行動する
-- [hurry](/word/hurry)：急ぐ、急いで行く
+- [rush](/word/rush/)：急ぐ、急いで行動する
+- [hurry](/word/hurry/)：急ぐ、急いで行く
 
 <!-- cvid: aid30_bid38 -->

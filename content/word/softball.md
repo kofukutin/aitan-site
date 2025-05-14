@@ -97,7 +97,7 @@ TOEICでは、社内イベントや趣味、スポーツに関する長文や案
 ## 🤔  baseball との違いは？
 
 - **softball**：野球に似ているが、より大きく柔らかいボールを使い、フィールドやルールもやや異なるスポーツ。
-- **[baseball](/word/baseball)**：一般的な野球。硬いボールを使い、世界的に広く行われている。
+- **[baseball](/word/baseball/)**：一般的な野球。硬いボールを使い、世界的に広く行われている。
 
 softballは野球よりもボールが大きく柔らかく、ピッチャーの投げ方やフィールドの広さも異なります。主に女性や子ども向けに行われることが多いです。
 
@@ -105,14 +105,14 @@ softballは野球よりもボールが大きく柔らかく、ピッチャーの
 
 ## 🧩 あわせて覚えたい
 
-- [pitch](/word/pitch)：投球、投げること
-- [bat](/word/bat)：バット、バットで打つ
+- [pitch](/word/pitch/)：投球、投げること
+- [bat](/word/bat/)：バット、バットで打つ
 
 ---
 
 ## 📖 できればこれも
 
-- [basketball](/word/basketball)：バスケットボール
-- [tennis](/word/tennis)：テニス
+- [basketball](/word/basketball/)：バスケットボール
+- [tennis](/word/tennis/)：テニス
 
 <!-- cvid: aid05_bid20 -->

@@ -97,7 +97,7 @@ ITやビジネス文書、製品マニュアルなどで「module」は頻出で
 ## 🤔  component との違いは？
 
 - **module**：独立した機能や役割を持つ構成単位
-- **[component](/word/component)**：全体を構成する「部品」「要素」
+- **[component](/word/component/)**：全体を構成する「部品」「要素」
 
 「module」は機能や役割ごとに分かれた単位を指し、教育やITでよく使われます。「component」は物理的・抽象的な「部品」「要素」を広く指します。
 
@@ -105,14 +105,14 @@ ITやビジネス文書、製品マニュアルなどで「module」は頻出で
 
 ## 🧩 あわせて覚えたい
 
-- [unit](/word/unit)：単位、構成要素
-- [segment](/word/segment)：区分、部分
+- [unit](/word/unit/)：単位、構成要素
+- [segment](/word/segment/)：区分、部分
 
 ---
 
 ## 📖 できればこれも
 
-- [system](/word/system)：システム、体系
-- [function](/word/function)：機能、働き
+- [system](/word/system/)：システム、体系
+- [function](/word/function/)：機能、働き
 
 <!-- cvid: aid31_bid13 -->

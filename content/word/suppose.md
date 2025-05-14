@@ -97,7 +97,7 @@ TOEICでは仮定や推測を表す文脈でよく出題されます。特に会
 ## 🤔  assume との違いは？
 
 - **suppose**：確信はないが「～だと思う」「仮定する」
-- **[assume](/word/assume)**：根拠が薄いまま「当然とみなす」「仮定する」
+- **[assume](/word/assume/)**：根拠が薄いまま「当然とみなす」「仮定する」
 
 supposeはやや控えめな推測、assumeは根拠がなくても「そうだ」と決めつけるニュアンスがあります。
 
@@ -105,14 +105,14 @@ supposeはやや控えめな推測、assumeは根拠がなくても「そうだ�
 
 ## 🧩 あわせて覚えたい
 
-- [guess](/word/guess)：推測する
-- [presume](/word/presume)：仮定する、推定する
+- [guess](/word/guess/)：推測する
+- [presume](/word/presume/)：仮定する、推定する
 
 ---
 
 ## 📖 できればこれも
 
-- [expect](/word/expect)：予期する、期待する
-- [consider](/word/consider)：よく考える、検討する
+- [expect](/word/expect/)：予期する、期待する
+- [consider](/word/consider/)：よく考える、検討する
 
 <!-- cvid: aid36_bid47 -->

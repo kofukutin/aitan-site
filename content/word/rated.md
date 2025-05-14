@@ -97,7 +97,7 @@ TOEICでは、受動態や過去分詞の形容詞的用法として「rated」�
 ## 🤔  evaluated との違いは？
 
 - **rated**：基準やスコアに基づいて評価・格付けされた状態を強調
-- **[evaluated](/word/evaluated)**：詳細に分析・評価されたことを強調
+- **[evaluated](/word/evaluated/)**：詳細に分析・評価されたことを強調
 
 「rated」は点数やランクなどの格付けに使われ、「evaluated」は内容や質を詳しく分析して評価する場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、受動態や過去分詞の形容詞的用法として「rated」�
 
 ## 🧩 あわせて覚えたい
 
-- [approved](/word/approved)：承認された
-- [assessed](/word/assessed)：査定された、評価された
+- [approved](/word/approved/)：承認された
+- [assessed](/word/assessed/)：査定された、評価された
 
 ---
 
 ## 📖 できればこれも
 
-- [qualified](/word/qualified)：資格のある、適任の
-- [scored](/word/scored)：得点を取った、点数がついた
+- [qualified](/word/qualified/)：資格のある、適任の
+- [scored](/word/scored/)：得点を取った、点数がついた
 
 <!-- cvid: aid47_bid00 -->

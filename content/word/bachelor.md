@@ -97,7 +97,7 @@ TOEICでは、履歴書や学歴紹介、人物説明などで「学士号」や
 ## 🤔  single との違いは？
 
 - **bachelor**：結婚していない男性、または学士号取得者を指すフォーマルな語。
-- **[single](/word/single)**：独身者全般（男女問わず）や「ひとつだけ」の意味でも使うカジュアルな語。
+- **[single](/word/single/)**：独身者全般（男女問わず）や「ひとつだけ」の意味でも使うカジュアルな語。
 
 bachelorは男性限定かつややフォーマル、singleは性別問わず幅広く使えます。
 
@@ -105,14 +105,14 @@ bachelorは男性限定かつややフォーマル、singleは性別問わず幅
 
 ## 🧩 あわせて覚えたい
 
-- [bridegroom](/word/bridegroom)：新郎
-- [degree](/word/degree)：学位
+- [bridegroom](/word/bridegroom/)：新郎
+- [degree](/word/degree/)：学位
 
 ---
 
 ## 📖 できればこれも
 
-- [graduate](/word/graduate)：卒業する、卒業生
-- [master](/word/master)：修士、習得する
+- [graduate](/word/graduate/)：卒業する、卒業生
+- [master](/word/master/)：修士、習得する
 
 <!-- cvid: aid34_bid32 -->

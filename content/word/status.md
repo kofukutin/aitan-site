@@ -96,7 +96,7 @@ TOEICでは、ビジネス文書や会議の進捗報告などで「status」が
 ## 🤔  position との違いは？
 
 - **status**：社会的な地位や物事の進行状況を表す
-- **[position](/word/position)**：物理的・組織内での位置や役職を表す
+- **[position](/word/position/)**：物理的・組織内での位置や役職を表す
 
 「status」は抽象的な立場や状況、「position」は具体的な場所や役職を指す点が異なります。
 
@@ -104,14 +104,14 @@ TOEICでは、ビジネス文書や会議の進捗報告などで「status」が
 
 ## 🧩 あわせて覚えたい
 
-- [rank](/word/rank)：階級、順位
-- [condition](/word/condition)：状態、条件
+- [rank](/word/rank/)：階級、順位
+- [condition](/word/condition/)：状態、条件
 
 ---
 
 ## 📖 できればこれも
 
-- [progress](/word/progress)：進捗、進歩
-- [update](/word/update)：更新、最新情報
+- [progress](/word/progress/)：進捗、進歩
+- [update](/word/update/)：更新、最新情報
 
 <!-- cvid: aid02_bid00 -->

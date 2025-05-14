@@ -98,7 +98,7 @@ ITやオフィス関連の文脈で「貼り付ける」「のり」として出
 ## 🤔  glue との違いは？
 
 - **paste**：ペースト状ののり、またはデジタルで「貼り付ける」操作
-- **[glue](/word/glue)**：液体や固体の接着剤、物理的に物をくっつける
+- **[glue](/word/glue/)**：液体や固体の接着剤、物理的に物をくっつける
 
 「paste」はITや文房具の「のり」に使い、「glue」はより強力な接着剤や物理的な接着に使います。
 
@@ -106,14 +106,14 @@ ITやオフィス関連の文脈で「貼り付ける」「のり」として出
 
 ## 🧩 あわせて覚えたい
 
-- [copy](/word/copy)：コピーする
-- [attach](/word/attach)：添付する、取り付ける
+- [copy](/word/copy/)：コピーする
+- [attach](/word/attach/)：添付する、取り付ける
 
 ---
 
 ## 📖 できればこれも
 
-- [print](/word/print)：印刷する
-- [insert](/word/insert)：挿入する
+- [print](/word/print/)：印刷する
+- [insert](/word/insert/)：挿入する
 
 <!-- cvid: aid44_bid13 -->

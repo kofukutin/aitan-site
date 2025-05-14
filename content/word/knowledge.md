@@ -97,7 +97,7 @@ TOEICでは主に長文読解や説明文で「知識」「理解」といった
 ## 🤔  information との違いは？
 
 - **knowledge**：学習や経験を通じて得た「知識」や「理解」
-- **[information](/word/information)**：事実やデータなどの「情報」
+- **[information](/word/information/)**：事実やデータなどの「情報」
 
 knowledgeは「身についた知識」、informationは「伝達される情報」といった違いがあります。
 
@@ -105,14 +105,14 @@ knowledgeは「身についた知識」、informationは「伝達される情報
 
 ## 🧩 あわせて覚えたい
 
-- [wisdom](/word/wisdom)：知恵、賢明さ
-- [awareness](/word/awareness)：認識、自覚
+- [wisdom](/word/wisdom/)：知恵、賢明さ
+- [awareness](/word/awareness/)：認識、自覚
 
 ---
 
 ## 📖 できればこれも
 
-- [skill](/word/skill)：技能、スキル
-- [experience](/word/experience)：経験
+- [skill](/word/skill/)：技能、スキル
+- [experience](/word/experience/)：経験
 
 <!-- cvid: aid02_bid48 -->

@@ -96,7 +96,7 @@ TOEICでは健康や食品、栄養に関する長文や広告、説明文でよ
 ## 🤔  nutrient との違いは？
 
 - **protein**：体を作る主要な栄養素の一つ（タンパク質）を指す
-- **[nutrient](/word/nutrient)**：体に必要な栄養素全般を指す
+- **[nutrient](/word/nutrient/)**：体に必要な栄養素全般を指す
 
 proteinは栄養素の中でも特に「タンパク質」に限定されますが、nutrientはビタミンやミネラルなども含む広い意味です。
 
@@ -104,14 +104,14 @@ proteinは栄養素の中でも特に「タンパク質」に限定されます�
 
 ## 🧩 あわせて覚えたい
 
-- [carbohydrate](/word/carbohydrate)：炭水化物
-- [enzyme](/word/enzyme)：酵素
+- [carbohydrate](/word/carbohydrate/)：炭水化物
+- [enzyme](/word/enzyme/)：酵素
 
 ---
 
 ## 📖 できればこれも
 
-- [vitamin](/word/vitamin)：ビタミン
-- [fiber](/word/fiber)：食物繊維
+- [vitamin](/word/vitamin/)：ビタミン
+- [fiber](/word/fiber/)：食物繊維
 
 <!-- cvid: aid29_bid24 -->

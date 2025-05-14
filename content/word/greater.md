@@ -97,7 +97,7 @@ TOEICでは比較級表現や、数量・重要性を強調する文脈で出題
 ## 🤔  larger との違いは？
 
 - **greater**：数量・規模だけでなく、重要性や価値が「より大きい」場合にも使う
-- **[larger](/word/larger)**：物理的な大きさや数量が「より大きい」場合に使う
+- **[larger](/word/larger/)**：物理的な大きさや数量が「より大きい」場合に使う
 
 「greater」は抽象的な重要性や価値にも使えますが、「larger」は主にサイズや量など具体的な大きさに使います。
 
@@ -105,14 +105,14 @@ TOEICでは比較級表現や、数量・重要性を強調する文脈で出題
 
 ## 🧩 あわせて覚えたい
 
-- [major](/word/major)：主要な、より重要な
-- [superior](/word/superior)：より優れた、上位の
+- [major](/word/major/)：主要な、より重要な
+- [superior](/word/superior/)：より優れた、上位の
 
 ---
 
 ## 📖 できればこれも
 
-- [lesser](/word/lesser)：より小さい、重要でない
-- [higher](/word/higher)：より高い
+- [lesser](/word/lesser/)：より小さい、重要でない
+- [higher](/word/higher/)：より高い
 
 <!-- cvid: aid26_bid11 -->

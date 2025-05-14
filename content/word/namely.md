@@ -93,7 +93,7 @@ namelyはTOEICの長文読解（Part 7）で、説明や具体例を示す文脈
 ## 🤔  that is との違いは？
 
 - **namely**：前述の内容をより具体的に説明したり、例を挙げる時に使う。
-- **[that is](/word/that_is)**：前述の内容を言い換えたり、補足説明する時に使う。
+- **[that is](/word/that_is/)**：前述の内容を言い換えたり、補足説明する時に使う。
 
 namelyは「具体的に言うと」「すなわち」として例や詳細を挙げる時に使い、that isは「つまり」「言い換えると」として説明や補足を加える時に使います。
 
@@ -101,14 +101,14 @@ namelyは「具体的に言うと」「すなわち」として例や詳細を�
 
 ## 🧩 あわせて覚えたい
 
-- [specifically](/word/specifically)：具体的に
-- [for example](/word/for_example)：例えば
+- [specifically](/word/specifically/)：具体的に
+- [for example](/word/for_example/)：例えば
 
 ---
 
 ## 📖 できればこれも
 
-- [therefore](/word/therefore)：それゆえに
-- [however](/word/however)：しかしながら
+- [therefore](/word/therefore/)：それゆえに
+- [however](/word/however/)：しかしながら
 
 <!-- cvid: aid20_bid13 -->

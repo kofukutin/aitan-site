@@ -97,7 +97,7 @@ TOEICでは国境や境界線、または書類や図の「枠」として出題
 ## 🤔  boundary との違いは？
 
 - **border**：国や地域、物の「はっきりした境界線」や「縁」を指す
-- **[boundary](/word/boundary)**：物理的・抽象的な「限界」や「範囲の区切り」を指す
+- **[boundary](/word/boundary/)**：物理的・抽象的な「限界」や「範囲の区切り」を指す
 
 borderは国境や明確な線としての境界に使われ、boundaryは範囲や制限など抽象的な区切りにも使われます。
 
@@ -105,14 +105,14 @@ borderは国境や明確な線としての境界に使われ、boundaryは範囲
 
 ## 🧩 あわせて覚えたい
 
-- [limit](/word/limit)：限界、制限
-- [edge](/word/edge)：端、へり
+- [limit](/word/limit/)：限界、制限
+- [edge](/word/edge/)：端、へり
 
 ---
 
 ## 📖 できればこれも
 
-- [region](/word/region)：地域、地方
-- [area](/word/area)：区域、範囲
+- [region](/word/region/)：地域、地方
+- [area](/word/area/)：区域、範囲
 
 <!-- cvid: aid15_bid42 -->

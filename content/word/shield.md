@@ -97,7 +97,7 @@ TOEICでは「保護」「防御」の文脈やIT・ビジネス分野での比�
 ## 🤔  protect との違いは？
 
 - **shield**：物理的・比喩的な「盾」や「防御物」として守ることを強調
-- **[protect](/word/protect)**：一般的に「守る」「保護する」行為全般を指す
+- **[protect](/word/protect/)**：一般的に「守る」「保護する」行為全般を指す
 
 shieldは「防御する手段や物」に焦点があり、protectは「守る行為」自体を広く表します。
 
@@ -105,14 +105,14 @@ shieldは「防御する手段や物」に焦点があり、protectは「守る�
 
 ## 🧩 あわせて覚えたい
 
-- [barrier](/word/barrier)：障壁、バリア
-- [defense](/word/defense)：防御、守り
+- [barrier](/word/barrier/)：障壁、バリア
+- [defense](/word/defense/)：防御、守り
 
 ---
 
 ## 📖 できればこれも
 
-- [guard](/word/guard)：警備員、守るもの
-- [cover](/word/cover)：覆うもの、カバー
+- [guard](/word/guard/)：警備員、守るもの
+- [cover](/word/cover/)：覆うもの、カバー
 
 <!-- cvid: aid15_bid26 -->

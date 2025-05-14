@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「動き」「移動」「社会運動」など
 ## 🤔  motion との違いは？
 
 - **movement**：人や物の動き、社会的な運動など幅広い「動き」を表す
-- **[motion](/word/motion)**：物理的な「動き」や「動作」により限定される
+- **[motion](/word/motion/)**：物理的な「動き」や「動作」により限定される
 
 movementは抽象的・社会的な意味も含みますが、motionは主に物理的な動きや姿勢の変化を指します。
 
@@ -105,14 +105,14 @@ movementは抽象的・社会的な意味も含みますが、motionは主に物
 
 ## 🧩 あわせて覚えたい
 
-- [progress](/word/progress)：進歩、前進
-- [trend](/word/trend)：傾向、流行
+- [progress](/word/progress/)：進歩、前進
+- [trend](/word/trend/)：傾向、流行
 
 ---
 
 ## 📖 できればこれも
 
-- [change](/word/change)：変化
-- [activity](/word/activity)：活動
+- [change](/word/change/)：変化
+- [activity](/word/activity/)：活動
 
 <!-- cvid: aid31_bid36 -->

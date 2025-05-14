@@ -97,7 +97,7 @@ TOEICでは観光地や都市開発、インフラに関する長文で登場す
 ## 🤔  channel との違いは？
 
 - **canal**：人工的に作られた運河や水路
-- **[channel](/word/channel)**：自然の水路や、情報・通信の「チャンネル」
+- **[channel](/word/channel/)**：自然の水路や、情報・通信の「チャンネル」
 
 canalは人の手で作られた水路、channelは自然の水路や情報の通り道など幅広い意味で使われます。
 
@@ -105,14 +105,14 @@ canalは人の手で作られた水路、channelは自然の水路や情報の�
 
 ## 🧩 あわせて覚えたい
 
-- [river](/word/river)：川（自然の水流）
-- [aqueduct](/word/aqueduct)：水道橋（水を運ぶための構造物）
+- [river](/word/river/)：川（自然の水流）
+- [aqueduct](/word/aqueduct/)：水道橋（水を運ぶための構造物）
 
 ---
 
 ## 📖 できればこれも
 
-- [harbor](/word/harbor)：港
-- [bridge](/word/bridge)：橋
+- [harbor](/word/harbor/)：港
+- [bridge](/word/bridge/)：橋
 
 <!-- cvid: aid24_bid22 -->

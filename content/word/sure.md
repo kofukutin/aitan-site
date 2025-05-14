@@ -97,7 +97,7 @@ TOEICでは、質問への返答や確認の場面でよく登場します。特
 ## 🤔  certain との違いは？
 
 - **sure**：話し手の主観的な確信や気軽な同意を表す
-- **[certain](/word/certain)**：より客観的・フォーマルに「確実」「間違いない」と述べる
+- **[certain](/word/certain/)**：より客観的・フォーマルに「確実」「間違いない」と述べる
 
 sureは日常会話で「もちろん」「大丈夫」と気軽に使われ、certainは書き言葉やフォーマルな場面で使われやすいです。
 
@@ -105,14 +105,14 @@ sureは日常会話で「もちろん」「大丈夫」と気軽に使われ、c
 
 ## 🧩 あわせて覚えたい
 
-- [confident](/word/confident)：自信がある
-- [positive](/word/positive)：確信している、前向きな
+- [confident](/word/confident/)：自信がある
+- [positive](/word/positive/)：確信している、前向きな
 
 ---
 
 ## 📖 できればこれも
 
-- [clear](/word/clear)：明確な
-- [safe](/word/safe)：安全な
+- [clear](/word/clear/)：明確な
+- [safe](/word/safe/)：安全な
 
 <!-- cvid: aid17_bid27 -->

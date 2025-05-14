@@ -97,7 +97,7 @@ TOEICでは、enlargeは主に文法や語彙問題で「拡大する」「広�
 ## 🤔  expand との違いは？
 
 - **enlarge**：物理的な大きさや範囲を拡大することに主に使う
-- **[expand](/word/expand)**：規模や範囲、内容など抽象的なものも広げる
+- **[expand](/word/expand/)**：規模や範囲、内容など抽象的なものも広げる
 
 enlargeは「目に見えるものを大きくする」ニュアンスが強く、expandは「事業や活動範囲など抽象的なものを広げる」ときにも使います。
 
@@ -105,14 +105,14 @@ enlargeは「目に見えるものを大きくする」ニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [reduce](/word/reduce)：減らす、縮小する
-- [magnify](/word/magnify)：（レンズなどで）拡大する
+- [reduce](/word/reduce/)：減らす、縮小する
+- [magnify](/word/magnify/)：（レンズなどで）拡大する
 
 ---
 
 ## 📖 できればこれも
 
-- [extend](/word/extend)：延長する、広げる
-- [increase](/word/increase)：増やす、増加する
+- [extend](/word/extend/)：延長する、広げる
+- [increase](/word/increase/)：増やす、増加する
 
 <!-- cvid: aid13_bid13 -->

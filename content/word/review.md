@@ -97,7 +97,7 @@ TOEICではPart 7のメールや記事、報告書などで「見直し」「評
 ## 🤔  evaluate との違いは？
 
 - **review**：全体を見直したり、評価や批評を行うこと
-- **[evaluate](/word/evaluate)**：特定の基準で価値や効果を評価すること
+- **[evaluate](/word/evaluate/)**：特定の基準で価値や効果を評価すること
 
 reviewは「広く見直す・批評する」ニュアンス、evaluateは「基準に沿って評価する」ニュアンスがあります。
 
@@ -105,14 +105,14 @@ reviewは「広く見直す・批評する」ニュアンス、evaluateは「基
 
 ## 🧩 あわせて覚えたい
 
-- [assessment](/word/assessment)：評価、査定
-- [feedback](/word/feedback)：意見、感想
+- [assessment](/word/assessment/)：評価、査定
+- [feedback](/word/feedback/)：意見、感想
 
 ---
 
 ## 📖 できればこれも
 
-- [summary](/word/summary)：要約
-- [report](/word/report)：報告書
+- [summary](/word/summary/)：要約
+- [report](/word/report/)：報告書
 
 <!-- cvid: aid46_bid44 -->

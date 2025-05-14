@@ -97,7 +97,7 @@ TOEICでは、社員研修やスキルアップ、スポーツ関連の会話で
 ## 🤔  coach との違いは？
 
 - **trainer**：特定のスキルや知識を教える「訓練者」「指導者」
-- **[coach](/word/coach)**：主にスポーツやチームで「指導・助言・やる気づけ」を行う人
+- **[coach](/word/coach/)**：主にスポーツやチームで「指導・助言・やる気づけ」を行う人
 
 trainerは技術や知識の習得に重点があり、coachは目標達成や精神面のサポートも含めて指導する点が異なります。
 
@@ -105,14 +105,14 @@ trainerは技術や知識の習得に重点があり、coachは目標達成や�
 
 ## 🧩 あわせて覚えたい
 
-- [instructor](/word/instructor)：指導員、講師
-- [trainee](/word/trainee)：研修生、訓練を受ける人
+- [instructor](/word/instructor/)：指導員、講師
+- [trainee](/word/trainee/)：研修生、訓練を受ける人
 
 ---
 
 ## 📖 できればこれも
 
-- [mentor](/word/mentor)：助言者、指導者
-- [supervisor](/word/supervisor)：監督者、上司
+- [mentor](/word/mentor/)：助言者、指導者
+- [supervisor](/word/supervisor/)：監督者、上司
 
 <!-- cvid: aid40_bid03 -->

@@ -96,7 +96,7 @@ TOEICでは観光や自然、旅行に関する長文や説明文で登場する
 ## 🤔  forest との違いは？
 
 - **jungle**：熱帯地方の密集した森や密林を指し、植物が非常に生い茂っているイメージ。
-- **[forest](/word/forest)**：温帯・寒帯など広い地域の「森」全般を指し、必ずしも密集していない。
+- **[forest](/word/forest/)**：温帯・寒帯など広い地域の「森」全般を指し、必ずしも密集していない。
 
 jungleは特に熱帯の密林、forestはより広い意味での森を表します。
 
@@ -104,14 +104,14 @@ jungleは特に熱帯の密林、forestはより広い意味での森を表し�
 
 ## 🧩 あわせて覚えたい
 
-- [rainforest](/word/rainforest)：熱帯雨林
-- [savanna](/word/savanna)：サバンナ（草原地帯）
+- [rainforest](/word/rainforest/)：熱帯雨林
+- [savanna](/word/savanna/)：サバンナ（草原地帯）
 
 ---
 
 ## 📖 できればこれも
 
-- [desert](/word/desert)：砂漠
-- [mountain](/word/mountain)：山
+- [desert](/word/desert/)：砂漠
+- [mountain](/word/mountain/)：山
 
 <!-- cvid: aid28_bid47 -->

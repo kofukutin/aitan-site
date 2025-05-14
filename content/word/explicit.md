@@ -97,7 +97,7 @@ TOEICでは契約書や説明文、指示文などで「明確な」「明示的
 ## 🤔  specific との違いは？
 
 - **explicit**：あいまいさがなく、はっきりと明示されている
-- **[specific](/word/specific)**：具体的で詳細に限定されている
+- **[specific](/word/specific/)**：具体的で詳細に限定されている
 
 explicitは「隠さず明確に述べる」ことに重点があり、specificは「範囲や内容を限定して具体的に述べる」点が異なります。
 
@@ -105,14 +105,14 @@ explicitは「隠さず明確に述べる」ことに重点があり、specific�
 
 ## 🧩 あわせて覚えたい
 
-- [implicit](/word/implicit)：暗黙の、はっきり示されていない
-- [clear](/word/clear)：明確な、わかりやすい
+- [implicit](/word/implicit/)：暗黙の、はっきり示されていない
+- [clear](/word/clear/)：明確な、わかりやすい
 
 ---
 
 ## 📖 できればこれも
 
-- [precise](/word/precise)：正確な、精密な
-- [detailed](/word/detailed)：詳細な、細かい
+- [precise](/word/precise/)：正確な、精密な
+- [detailed](/word/detailed/)：詳細な、細かい
 
 <!-- cvid: aid10_bid45 -->

@@ -93,7 +93,7 @@ TOEICでは主にPart 1の写真描写問題で、動作や位置を説明する
 ## 🤔  below との違いは？
 
 - **down**：上から下への「動き」や「方向」を表す
-- **[below](/word/below)**：何かの「下の位置」にあることを表す
+- **[below](/word/below/)**：何かの「下の位置」にあることを表す
 
 downは動作や移動の方向を示し、belowは単に位置関係を表します。
 
@@ -101,14 +101,14 @@ downは動作や移動の方向を示し、belowは単に位置関係を表し�
 
 ## 🧩 あわせて覚えたい
 
-- [under](/word/under)：～の真下に
-- [beneath](/word/beneath)：～の下に（ややフォーマル）
+- [under](/word/under/)：～の真下に
+- [beneath](/word/beneath/)：～の下に（ややフォーマル）
 
 ---
 
 ## 📖 できればこれも
 
-- [up](/word/up)：上へ、上に
-- [across](/word/across)：横切って、向こう側へ
+- [up](/word/up/)：上へ、上に
+- [across](/word/across/)：横切って、向こう側へ
 
 <!-- cvid: aid40_bid45 -->

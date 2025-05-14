@@ -97,7 +97,7 @@ TOEICでは主に科学や技術、抽象的な説明文で登場します。や
 ## 🤔  unlimited との違いは？
 
 - **infinite**：理論的・抽象的に「限りがない」「無限の」という意味で、終わりや境界が全く存在しないニュアンス。
-- **[unlimited](/word/unlimited)**：実用的・現実的に「制限がない」「無制限の」という意味で、上限や枠が設けられていないニュアンス。
+- **[unlimited](/word/unlimited/)**：実用的・現実的に「制限がない」「無制限の」という意味で、上限や枠が設けられていないニュアンス。
 
 「infinite」は数学や哲学など抽象的な無限を指し、「unlimited」は現実的な制限のなさを表します。
 
@@ -105,14 +105,14 @@ TOEICでは主に科学や技術、抽象的な説明文で登場します。や
 
 ## 🧩 あわせて覚えたい
 
-- [finite](/word/finite)：有限の
-- [endless](/word/endless)：終わりのない、果てしない
+- [finite](/word/finite/)：有限の
+- [endless](/word/endless/)：終わりのない、果てしない
 
 ---
 
 ## 📖 できればこれも
 
-- [eternal](/word/eternal)：永遠の
-- [boundless](/word/boundless)：際限のない
+- [eternal](/word/eternal/)：永遠の
+- [boundless](/word/boundless/)：際限のない
 
 <!-- cvid: aid11_bid45 -->

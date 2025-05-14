@@ -97,7 +97,7 @@ TOEICでは会議やビジネスの場面で「期間の延長」や「サービ
 ## 🤔  expanding との違いは？
 
 - **extending**：既存のものを「長くする」「期間や範囲を広げる」ことに重点。
-- **[expanding](/word/expanding)**：全体的に「規模を大きくする」「拡大する」ことに重点。
+- **[expanding](/word/expanding/)**：全体的に「規模を大きくする」「拡大する」ことに重点。
 
 extendingは「長さや期間を伸ばす」イメージ、expandingは「全体を広げて大きくする」イメージで使い分けます。
 
@@ -105,14 +105,14 @@ extendingは「長さや期間を伸ばす」イメージ、expandingは「全�
 
 ## 🧩 あわせて覚えたい
 
-- [prolong](/word/prolong)：（期間を）延長する
-- [stretch](/word/stretch)：引き伸ばす、伸ばす
+- [prolong](/word/prolong/)：（期間を）延長する
+- [stretch](/word/stretch/)：引き伸ばす、伸ばす
 
 ---
 
 ## 📖 できればこれも
 
-- [renew](/word/renew)：更新する
-- [enlarge](/word/enlarge)：拡大する
+- [renew](/word/renew/)：更新する
+- [enlarge](/word/enlarge/)：拡大する
 
 <!-- cvid: aid42_bid37 -->

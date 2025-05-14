@@ -97,7 +97,7 @@ TOEICでは、広告やレビュー、評価文などで「superb」が使われ
 ## 🤔  excellent との違いは？
 
 - **superb**：他と比べて際立ってすばらしい、最高級の
-- **[excellent](/word/excellent)**：非常に優れている、質が高い
+- **[excellent](/word/excellent/)**：非常に優れている、質が高い
 
 「superb」は「excellent」よりもさらに強調された表現で、特に他と比べて抜きん出ている場合に使います。
 
@@ -105,13 +105,13 @@ TOEICでは、広告やレビュー、評価文などで「superb」が使われ
 
 ## 🧩 あわせて覚えたい
 
-- [outstanding](/word/outstanding)：傑出した、目立って優れている
-- [mediocre](/word/mediocre)：平凡な、並みの（対義語）
+- [outstanding](/word/outstanding/)：傑出した、目立って優れている
+- [mediocre](/word/mediocre/)：平凡な、並みの（対義語）
 
 ---
 
 ## 📖 できればこれも
 
-- [remarkable](/word/remarkable)：注目すべき、著しい
-- [splendid](/word/splendid)：すばらしい、華やかな
+- [remarkable](/word/remarkable/)：注目すべき、著しい
+- [splendid](/word/splendid/)：すばらしい、華やかな
 <!-- cvid: aid31_bid21 -->

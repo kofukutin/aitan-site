@@ -97,7 +97,7 @@ TOEICでは繊維産業や商品の説明文、工場の案内などで登場す
 ## 🤔  thread との違いは？
 
 - **yarn**：編み物や織物用の「毛糸」「糸」を指す。太めで柔らかいものが多い。
-- **[thread](/word/thread)**：縫い物や細かい作業に使う「細い糸」を指す。
+- **[thread](/word/thread/)**：縫い物や細かい作業に使う「細い糸」を指す。
 
 yarnは主に編み物用、threadは縫い物用と使い分けられます。
 
@@ -105,14 +105,14 @@ yarnは主に編み物用、threadは縫い物用と使い分けられます。
 
 ## 🧩 あわせて覚えたい
 
-- [fabric](/word/fabric)：布、生地
-- [fiber](/word/fiber)：繊維
+- [fabric](/word/fabric/)：布、生地
+- [fiber](/word/fiber/)：繊維
 
 ---
 
 ## 📖 できればこれも
 
-- [cloth](/word/cloth)：布
-- [rope](/word/rope)：ロープ、綱
+- [cloth](/word/cloth/)：布
+- [rope](/word/rope/)：ロープ、綱
 
 <!-- cvid: aid32_bid22 -->

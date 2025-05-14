@@ -98,7 +98,7 @@ TOEICでは、製品説明や科学系の長文で「latex」が登場するこ�
 ## 🤔  rubber との違いは？
 
 - **latex**：ゴムの原料となる乳白色の液体やその合成物質
-- **[rubber](/word/rubber)**：加工されたゴム製品や素材全般
+- **[rubber](/word/rubber/)**：加工されたゴム製品や素材全般
 
 latexは「原料」や「液体」としての意味が強く、rubberは「完成したゴム製品」や「素材」として使われます。
 
@@ -106,14 +106,14 @@ latexは「原料」や「液体」としての意味が強く、rubberは「完
 
 ## 🧩 あわせて覚えたい
 
-- [resin](/word/resin)：樹脂、植物や合成の粘性物質
-- [sap](/word/sap)：樹液、植物から出る液体
+- [resin](/word/resin/)：樹脂、植物や合成の粘性物質
+- [sap](/word/sap/)：樹液、植物から出る液体
 
 ---
 
 ## 📖 できればこれも
 
-- [fiber](/word/fiber)：繊維、糸状の素材
-- [plastic](/word/plastic)：プラスチック、合成樹脂
+- [fiber](/word/fiber/)：繊維、糸状の素材
+- [plastic](/word/plastic/)：プラスチック、合成樹脂
 
 <!-- cvid: aid34_bid42 -->

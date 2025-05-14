@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、建物や物の「前」や「
 ## 🤔  facade との違いは？
 
 - **front**：物や建物、人などの「前面」「正面」「前部」全般を指す。
-- **[facade](/word/facade)**：建物の「外観」や「正面の外壁」を特に指し、見た目やデザインのニュアンスが強い。
+- **[facade](/word/facade/)**：建物の「外観」や「正面の外壁」を特に指し、見た目やデザインのニュアンスが強い。
 
 frontは物理的な「前の部分」全般に使い、facadeは特に建物の外観や表向きの印象を強調したいときに使います。
 
@@ -105,14 +105,14 @@ frontは物理的な「前の部分」全般に使い、facadeは特に建物の
 
 ## 🧩 あわせて覚えたい
 
-- [back](/word/back)：後ろ、背面
-- [entrance](/word/entrance)：入口
+- [back](/word/back/)：後ろ、背面
+- [entrance](/word/entrance/)：入口
 
 ---
 
 ## 📖 できればこれも
 
-- [side](/word/side)：側面、横
-- [corner](/word/corner)：角、隅
+- [side](/word/side/)：側面、横
+- [corner](/word/corner/)：角、隅
 
 <!-- cvid: aid37_bid19 -->

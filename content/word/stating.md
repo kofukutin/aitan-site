@@ -97,7 +97,7 @@ TOEICでは、文中で「述べる」「明記する」といった意味で使
 ## 🤔  claiming との違いは？
 
 - **stating**：事実や意見を明確に述べる、公式に伝える
-- **[claiming](/word/claiming)**：自分の主張や権利を強く訴える、要求する
+- **[claiming](/word/claiming/)**：自分の主張や権利を強く訴える、要求する
 
 statingは客観的・中立的に「述べる」ニュアンスが強く、claimingは「主張する」「要求する」といった強い自己主張の意味合いがあります。
 
@@ -105,14 +105,14 @@ statingは客観的・中立的に「述べる」ニュアンスが強く、clai
 
 ## 🧩 あわせて覚えたい
 
-- [announce](/word/announce)：発表する、告知する
-- [declare](/word/declare)：宣言する、公表する
+- [announce](/word/announce/)：発表する、告知する
+- [declare](/word/declare/)：宣言する、公表する
 
 ---
 
 ## 📖 できればこれも
 
-- [mention](/word/mention)：言及する
-- [explain](/word/explain)：説明する
+- [mention](/word/mention/)：言及する
+- [explain](/word/explain/)：説明する
 
 <!-- cvid: aid46_bid31 -->

@@ -97,7 +97,7 @@ TOEICでは、素材や環境、性質を説明する文脈で「natural」が�
 ## 🤔  artificial との違いは？
 
 - **natural**：自然のまま、人工的でない、本来の性質を持つ
-- **[artificial](/word/artificial)**：人工的な、人が作った、不自然な
+- **[artificial](/word/artificial/)**：人工的な、人が作った、不自然な
 
 「natural」は自然に存在するものや無理のない状態を指し、「artificial」は人が作ったものや不自然なものを指します。
 
@@ -105,14 +105,14 @@ TOEICでは、素材や環境、性質を説明する文脈で「natural」が�
 
 ## 🧩 あわせて覚えたい
 
-- [organic](/word/organic)：有機の、オーガニックの
-- [normal](/word/normal)：普通の、標準的な
+- [organic](/word/organic/)：有機の、オーガニックの
+- [normal](/word/normal/)：普通の、標準的な
 
 ---
 
 ## 📖 できればこれも
 
-- [nature](/word/nature)：自然
-- [typical](/word/typical)：典型的な
+- [nature](/word/nature/)：自然
+- [typical](/word/typical/)：典型的な
 
 <!-- cvid: aid32_bid47 -->

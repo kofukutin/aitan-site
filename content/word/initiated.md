@@ -97,7 +97,7 @@ TOEICでは、ビジネスのプロジェクト開始や手続きの文脈で「
 ## 🤔  started との違いは？
 
 - **initiated**：正式・計画的に何かを始める、フォーマルな響き
-- **[started](/word/started)**：一般的に「始めた」、カジュアルで幅広い場面で使う
+- **[started](/word/started/)**：一般的に「始めた」、カジュアルで幅広い場面で使う
 
 「initiated」は公式な手続きやプロジェクトなど、計画的・フォーマルな開始に使われ、「started」は日常的な「始める」に幅広く使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネスのプロジェクト開始や手続きの文脈で「
 
 ## 🧩 あわせて覚えたい
 
-- [launch](/word/launch)：（新製品・事業などを）開始する
-- [commence](/word/commence)：（フォーマルに）始める
+- [launch](/word/launch/)：（新製品・事業などを）開始する
+- [commence](/word/commence/)：（フォーマルに）始める
 
 ---
 
 ## 📖 できればこれも
 
-- [implement](/word/implement)：実行する、導入する
-- [proceed](/word/proceed)：進める、進行する
+- [implement](/word/implement/)：実行する、導入する
+- [proceed](/word/proceed/)：進める、進行する
 
 <!-- cvid: aid00_bid12 -->

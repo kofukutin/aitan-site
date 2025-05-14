@@ -97,7 +97,7 @@ TOEICではビジネスの会話やアナウンスで頻出し、会議の予定
 ## 🤔  conference との違いは？
 
 - **meeting**：一般的な会議や打ち合わせ。規模や内容は幅広い。
-- **[conference](/word/conference)**：より大規模で公式な会議や学会。
+- **[conference](/word/conference/)**：より大規模で公式な会議や学会。
 
 meetingは日常的な社内会議など幅広く使い、conferenceは専門的・公式な集まりに使われます。
 
@@ -105,14 +105,14 @@ meetingは日常的な社内会議など幅広く使い、conferenceは専門的
 
 ## 🧩 あわせて覚えたい
 
-- [appointment](/word/appointment)：予約、約束
-- [session](/word/session)：（特定の目的の）集まり、セッション
+- [appointment](/word/appointment/)：予約、約束
+- [session](/word/session/)：（特定の目的の）集まり、セッション
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/word/schedule)：予定、スケジュール
-- [discussion](/word/discussion)：議論、話し合い
+- [schedule](/word/schedule/)：予定、スケジュール
+- [discussion](/word/discussion/)：議論、話し合い
 
 <!-- cvid: aid00_bid08 -->

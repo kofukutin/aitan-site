@@ -97,7 +97,7 @@ TOEICでは主にリスニングのアナウンスやニュース、会社の発
 ## 🤔  announce との違いは？
 
 - **broadcast**：テレビやラジオなどで広く公に伝えること
-- **[announce](/word/announce)**：公式に発表すること、必ずしも放送手段は問わない
+- **[announce](/word/announce/)**：公式に発表すること、必ずしも放送手段は問わない
 
 broadcastは「放送」という手段に重点があり、announceは「発表」という行為自体に重点があります。
 
@@ -105,14 +105,14 @@ broadcastは「放送」という手段に重点があり、announceは「発表
 
 ## 🧩 あわせて覚えたい
 
-- [transmit](/word/transmit)：送信する、伝える
-- [publish](/word/publish)：出版する、公表する
+- [transmit](/word/transmit/)：送信する、伝える
+- [publish](/word/publish/)：出版する、公表する
 
 ---
 
 ## 📖 できればこれも
 
-- [report](/word/report)：報告する、伝える
-- [inform](/word/inform)：知らせる、通知する
+- [report](/word/report/)：報告する、伝える
+- [inform](/word/inform/)：知らせる、通知する
 
 <!-- cvid: aid07_bid10 -->

@@ -97,7 +97,7 @@ TOEICでは、店舗や会議、サービスの「再開」について話す場
 ## 🤔  resume との違いは？
 
 - **reopen**：一度閉じたものを再び開く、再開する
-- **[resume](/word/resume)**：中断したものを再び始める
+- **[resume](/word/resume/)**：中断したものを再び始める
 
 reopenは「物理的に開ける・営業を再開する」などに使い、resumeは「作業や活動を再び始める」など幅広い行動の再開に使います。
 
@@ -105,14 +105,14 @@ reopenは「物理的に開ける・営業を再開する」などに使い、re
 
 ## 🧩 あわせて覚えたい
 
-- [close](/word/close)：閉じる
-- [restart](/word/restart)：再起動する、再び始める
+- [close](/word/close/)：閉じる
+- [restart](/word/restart/)：再起動する、再び始める
 
 ---
 
 ## 📖 できればこれも
 
-- [cancel](/word/cancel)：中止する
-- [arrange](/word/arrange)：手配する、準備する
+- [cancel](/word/cancel/)：中止する
+- [arrange](/word/arrange/)：手配する、準備する
 
 <!-- cvid: aid09_bid33 -->

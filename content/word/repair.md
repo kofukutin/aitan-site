@@ -98,7 +98,7 @@ TOEICでは、オフィスやサービスの場面で「修理する」という
 ## 🤔  fix との違いは？
 
 - **repair**：壊れたものを元の正常な状態に戻す（ややフォーマル）
-- **[fix](/word/fix)**：壊れたものを直す（カジュアルで幅広い場面）
+- **[fix](/word/fix/)**：壊れたものを直す（カジュアルで幅広い場面）
 
 repairはフォーマルな場面や書き言葉でよく使われ、fixは日常会話で幅広く使われます。
 
@@ -106,14 +106,14 @@ repairはフォーマルな場面や書き言葉でよく使われ、fixは日�
 
 ## 🧩 あわせて覚えたい
 
-- [restore](/word/restore)：元の状態に戻す
-- [replace](/word/replace)：交換する
+- [restore](/word/restore/)：元の状態に戻す
+- [replace](/word/replace/)：交換する
 
 ---
 
 ## 📖 できればこれも
 
-- [maintain](/word/maintain)：維持する
-- [install](/word/install)：設置する
+- [maintain](/word/maintain/)：維持する
+- [install](/word/install/)：設置する
 
 <!-- cvid: aid10_bid33 -->

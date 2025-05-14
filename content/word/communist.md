@@ -97,7 +97,7 @@ TOEICでは、歴史や社会、政治に関する長文や記事で登場する
 ## 🤔  socialist との違いは？
 
 - **communist**：共産主義を支持し、財産や生産手段の完全な共有を目指す人。
-- **[socialist](/word/socialist)**：社会主義を支持し、財産や生産手段の一部共有や平等を重視する人。
+- **[socialist](/word/socialist/)**：社会主義を支持し、財産や生産手段の一部共有や平等を重視する人。
 
 communistはより徹底した共有や平等を目指す思想で、socialistはそれよりも幅広く柔軟な社会改革を指します。
 
@@ -105,14 +105,14 @@ communistはより徹底した共有や平等を目指す思想で、socialist�
 
 ## 🧩 あわせて覚えたい
 
-- [capitalist](/word/capitalist)：資本主義者
-- [revolutionary](/word/revolutionary)：革命家
+- [capitalist](/word/capitalist/)：資本主義者
+- [revolutionary](/word/revolutionary/)：革命家
 
 ---
 
 ## 📖 できればこれも
 
-- [democracy](/word/democracy)：民主主義
-- [regime](/word/regime)：政権
+- [democracy](/word/democracy/)：民主主義
+- [regime](/word/regime/)：政権
 
 <!-- cvid: aid49_bid33 -->

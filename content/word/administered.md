@@ -97,7 +97,7 @@ TOEICでは医療やビジネスの文脈で「管理する」「実施する」
 ## 🤔  manage との違いは？
 
 - **administered**：フォーマルに「管理する」「施行する」「投与する」など、公式な手続きを強調
-- **[manage](/word/manage)**：より広く「管理する」「うまく扱う」など柔軟な意味
+- **[manage](/word/manage/)**：より広く「管理する」「うまく扱う」など柔軟な意味
 
 「administered」は公式な場面や医療・試験などで使われ、手続きや規則に従って何かを行うニュアンスが強いです。一方「manage」は日常的な管理や運営全般に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは医療やビジネスの文脈で「管理する」「実施する」
 
 ## 🧩 あわせて覚えたい
 
-- [supervise](/word/supervise)：監督する
-- [execute](/word/execute)：実行する
+- [supervise](/word/supervise/)：監督する
+- [execute](/word/execute/)：実行する
 
 ---
 
 ## 📖 できればこれも
 
-- [prescribe](/word/prescribe)：処方する
-- [conduct](/word/conduct)：実施する
+- [prescribe](/word/prescribe/)：処方する
+- [conduct](/word/conduct/)：実施する
 
 <!-- cvid: aid14_bid17 -->

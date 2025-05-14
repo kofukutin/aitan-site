@@ -98,7 +98,7 @@ TOEICではPart 1の写真描写や、健康・生活習慣に関する会話文
 ## 🤔  nap との違いは？
 
 - **sleep**：夜間や長時間の「眠る」「睡眠」を指す一般的な言葉。
-- **[nap](/word/nap)**：短時間の「うたた寝」「昼寝」を指す。
+- **[nap](/word/nap/)**：短時間の「うたた寝」「昼寝」を指す。
 
 sleepは通常夜や長時間の睡眠、napは昼間などの短い仮眠を表します。
 
@@ -106,14 +106,14 @@ sleepは通常夜や長時間の睡眠、napは昼間などの短い仮眠を表
 
 ## 🧩 あわせて覚えたい
 
-- [rest](/word/rest)：休む、休息
-- [awake](/word/awake)：目覚めている、起きる
+- [rest](/word/rest/)：休む、休息
+- [awake](/word/awake/)：目覚めている、起きる
 
 ---
 
 ## 📖 できればこれも
 
-- [dream](/word/dream)：夢を見る、夢
-- [wake](/word/wake)：目覚める、起こす
+- [dream](/word/dream/)：夢を見る、夢
+- [wake](/word/wake/)：目覚める、起こす
 
 <!-- cvid: aid22_bid44 -->

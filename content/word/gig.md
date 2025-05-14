@@ -97,7 +97,7 @@ gigは近年の働き方やビジネスシーンの変化を反映して、Part 
 ## 🤔  job との違いは？
 
 - **gig**：短期間・単発の仕事やライブ演奏など、一時的な仕事を指すカジュアルな表現。
-- **[job](/word/job)**：長期的・安定的な職業や仕事全般を指すフォーマルな表現。
+- **[job](/word/job/)**：長期的・安定的な職業や仕事全般を指すフォーマルな表現。
 
 gigは「一回きり」「短期」のニュアンスが強く、jobは「職業」「定職」など幅広く使われます。
 
@@ -105,14 +105,14 @@ gigは「一回きり」「短期」のニュアンスが強く、jobは「職�
 
 ## 🧩 あわせて覚えたい
 
-- [task](/word/task)：課題、作業
-- [assignment](/word/assignment)：割り当てられた仕事、任務
+- [task](/word/task/)：課題、作業
+- [assignment](/word/assignment/)：割り当てられた仕事、任務
 
 ---
 
 ## 📖 できればこれも
 
-- [shift](/word/shift)：（交代制の）勤務時間
-- [project](/word/project)：プロジェクト、計画
+- [shift](/word/shift/)：（交代制の）勤務時間
+- [project](/word/project/)：プロジェクト、計画
 
 <!-- cvid: aid30_bid30 -->

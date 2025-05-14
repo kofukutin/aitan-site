@@ -97,7 +97,7 @@ The company is developing new reproductive health products.
 ## 🤔  productive との違いは？
 
 - **reproductive**：生殖や繁殖に関する性質や機能を表す
-- **[productive](/word/productive)**：生産的な、成果を生み出すという意味
+- **[productive](/word/productive/)**：生産的な、成果を生み出すという意味
 
 reproductiveは「生殖」に特化した表現で、productiveは「生産的」「効率的」など幅広い成果や生産性に使います。
 
@@ -105,14 +105,14 @@ reproductiveは「生殖」に特化した表現で、productiveは「生産的�
 
 ## 🧩 あわせて覚えたい
 
-- [fertile](/word/fertile)：肥沃な、繁殖力のある
-- [sterile](/word/sterile)：不妊の、無菌の
+- [fertile](/word/fertile/)：肥沃な、繁殖力のある
+- [sterile](/word/sterile/)：不妊の、無菌の
 
 ---
 
 ## 📖 できればこれも
 
-- [biological](/word/biological)：生物学的な
-- [genetic](/word/genetic)：遺伝の、遺伝子の
+- [biological](/word/biological/)：生物学的な
+- [genetic](/word/genetic/)：遺伝の、遺伝子の
 
 <!-- cvid: aid02_bid48 -->

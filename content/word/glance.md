@@ -99,7 +99,7 @@ glanceはTOEICの会話パートで「さっと見る」「目を通す」とい
 ## 🤔  gaze との違いは？
 
 - **glance**：一瞬だけさっと目を向ける、短い視線
-- **[gaze](/word/gaze)**：じっと見つめる、長く集中して見る
+- **[gaze](/word/gaze/)**：じっと見つめる、長く集中して見る
 
 glanceは「一瞬だけ見る」軽い動作、gazeは「じっと見つめる」長く深い視線を表します。感情や注目度の強さが異なります。
 
@@ -107,14 +107,14 @@ glanceは「一瞬だけ見る」軽い動作、gazeは「じっと見つめる�
 
 ## 🧩 あわせて覚えたい
 
-- [peek](/word/peek)：こっそりのぞく
-- [scan](/word/scan)：ざっと目を通す
+- [peek](/word/peek/)：こっそりのぞく
+- [scan](/word/scan/)：ざっと目を通す
 
 ---
 
 ## 📖 できればこれも
 
-- [notice](/word/notice)：気づく
-- [observe](/word/observe)：観察する
+- [notice](/word/notice/)：気づく
+- [observe](/word/observe/)：観察する
 
 <!-- cvid: aid02_bid32 -->

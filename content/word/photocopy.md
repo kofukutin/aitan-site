@@ -98,7 +98,7 @@ TOEICでは主にオフィスやビジネスシーンの文脈で、動詞・名
 ## 🤔  duplicate との違いは？
 
 - **photocopy**：コピー機で紙の書類などを物理的に複写すること
-- **[duplicate](/word/duplicate)**：まったく同じものを作ること（物理・デジタル両方で使う）
+- **[duplicate](/word/duplicate/)**：まったく同じものを作ること（物理・デジタル両方で使う）
 
 photocopyは主にコピー機を使った紙の複写に限定されますが、duplicateは内容やデータなど幅広く「複製する」意味で使われます。
 
@@ -106,14 +106,14 @@ photocopyは主にコピー機を使った紙の複写に限定されますが�
 
 ## 🧩 あわせて覚えたい
 
-- [scan](/word/scan)：スキャンする、画像として取り込む
-- [print](/word/print)：印刷する
+- [scan](/word/scan/)：スキャンする、画像として取り込む
+- [print](/word/print/)：印刷する
 
 ---
 
 ## 📖 できればこれも
 
-- [fax](/word/fax)：ファックスを送る
-- [copy](/word/copy)：写す、コピーする
+- [fax](/word/fax/)：ファックスを送る
+- [copy](/word/copy/)：写す、コピーする
 
 <!-- cvid: aid34_bid47 -->

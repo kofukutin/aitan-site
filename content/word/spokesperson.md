@@ -96,7 +96,7 @@ TOEICでは、企業や団体の公式発表やニュース記事の中で「spo
 ## 🤔  representative との違いは？
 
 - **spokesperson**：団体や組織の意見を外部に伝える「広報担当者」や「公式発表者」
-- **[representative](/word/representative)**：組織や集団を代表する人全般（交渉や会議の出席者も含む）
+- **[representative](/word/representative/)**：組織や集団を代表する人全般（交渉や会議の出席者も含む）
 
 spokespersonは「話す役割」に特化し、representativeは「代表者」全般を指します。広報や公式コメントならspokesperson、交渉や意思決定の場ならrepresentativeが使われます。
 
@@ -104,14 +104,14 @@ spokespersonは「話す役割」に特化し、representativeは「代表者」
 
 ## 🧩 あわせて覚えたい
 
-- [delegate](/word/delegate)：代表者、使節
-- [official](/word/official)：役人、職員
+- [delegate](/word/delegate/)：代表者、使節
+- [official](/word/official/)：役人、職員
 
 ---
 
 ## 📖 できればこれも
 
-- [announcement](/word/announcement)：発表、告知
-- [statement](/word/statement)：声明、発言
+- [announcement](/word/announcement/)：発表、告知
+- [statement](/word/statement/)：声明、発言
 
 <!-- cvid: aid39_bid36 -->

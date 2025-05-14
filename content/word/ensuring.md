@@ -97,7 +97,7 @@ TOEICではPart 5の文法・語彙問題で頻出し、「～を確実にする
 ## 🤔  guaranteeing との違いは？
 
 - **ensuring**：何かが確実に起こるようにする、保証する（一般的・広い意味）
-- **[guaranteeing](/word/guaranteeing)**：法的・契約的に「絶対に保証する」という強い意味
+- **[guaranteeing](/word/guaranteeing/)**：法的・契約的に「絶対に保証する」という強い意味
 
 ensuringは「確実にする」という広い意味で使われ、guaranteeingは「絶対に保証する」「責任を持つ」といった強いニュアンスがあります。
 
@@ -105,14 +105,14 @@ ensuringは「確実にする」という広い意味で使われ、guaranteeing
 
 ## 🧩 あわせて覚えたい
 
-- [secure](/word/secure)：確保する、守る
-- [confirm](/word/confirm)：確認する、確かめる
+- [secure](/word/secure/)：確保する、守る
+- [confirm](/word/confirm/)：確認する、確かめる
 
 ---
 
 ## 📖 できればこれも
 
-- [assure](/word/assure)：保証する、安心させる
-- [verify](/word/verify)：検証する、確かめる
+- [assure](/word/assure/)：保証する、安心させる
+- [verify](/word/verify/)：検証する、確かめる
 
 <!-- cvid: aid46_bid19 -->

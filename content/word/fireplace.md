@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、部屋や建物の設備として登
 ## 🤔  stove との違いは？
 
 - **fireplace**：部屋の壁に組み込まれた暖炉で、主に暖房や雰囲気作りに使う
-- **[stove](/word/stove)**：調理や暖房用の「ストーブ」で、独立した器具
+- **[stove](/word/stove/)**：調理や暖房用の「ストーブ」で、独立した器具
 
 fireplaceは壁に作り付けの暖炉、stoveは移動できる加熱器具や調理器具を指します。
 
@@ -105,14 +105,14 @@ fireplaceは壁に作り付けの暖炉、stoveは移動できる加熱器具や
 
 ## 🧩 あわせて覚えたい
 
-- [chimney](/word/chimney)：煙突
-- [hearth](/word/hearth)：暖炉の炉床、暖炉前の床部分
+- [chimney](/word/chimney/)：煙突
+- [hearth](/word/hearth/)：暖炉の炉床、暖炉前の床部分
 
 ---
 
 ## 📖 できればこれも
 
-- [couch](/word/couch)：ソファ
-- [lamp](/word/lamp)：ランプ、照明
+- [couch](/word/couch/)：ソファ
+- [lamp](/word/lamp/)：ランプ、照明
 
 <!-- cvid: aid01_bid27 -->

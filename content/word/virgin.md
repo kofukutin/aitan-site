@@ -98,7 +98,7 @@ TOEICでは環境や資源、製品説明の文脈で「virgin materials（未�
 ## 🤔  pure との違いは？
 
 - **virgin**：未使用・手つかず・未経験のニュアンスが強い
-- **[pure](/word/pure)**：混じりけがない、純粋なという意味
+- **[pure](/word/pure/)**：混じりけがない、純粋なという意味
 
 virginは「まだ使われていない」「人の手が入っていない」ことを強調し、pureは「他のものが混ざっていない」ことを表します。
 
@@ -106,14 +106,14 @@ virginは「まだ使われていない」「人の手が入っていない」�
 
 ## 🧩 あわせて覚えたい
 
-- [untouched](/word/untouched)：手つかずの、未開発の
-- [original](/word/original)：元の、最初の
+- [untouched](/word/untouched/)：手つかずの、未開発の
+- [original](/word/original/)：元の、最初の
 
 ---
 
 ## 📖 できればこれも
 
-- [raw](/word/raw)：生の、未加工の
-- [natural](/word/natural)：自然の、天然の
+- [raw](/word/raw/)：生の、未加工の
+- [natural](/word/natural/)：自然の、天然の
 
 <!-- cvid: aid13_bid23 -->

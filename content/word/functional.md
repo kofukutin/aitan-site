@@ -97,7 +97,7 @@ TOEICでは、ITやビジネスの文脈で「functional」の正しい意味や
 ## 🤔  practical との違いは？
 
 - **functional**：目的通りに「きちんと機能する」「動作する」ことを強調
-- **[practical](/word/practical)**：実際に役立つ・現実的であることを強調
+- **[practical](/word/practical/)**：実際に役立つ・現実的であることを強調
 
 functionalは「壊れていない」「使える」ことに重点があり、practicalは「現実的に役立つかどうか」に重点があります。
 
@@ -105,14 +105,14 @@ functionalは「壊れていない」「使える」ことに重点があり、p
 
 ## 🧩 あわせて覚えたい
 
-- [efficient](/word/efficient)：効率的な
-- [operational](/word/operational)：運用可能な、稼働している
+- [efficient](/word/efficient/)：効率的な
+- [operational](/word/operational/)：運用可能な、稼働している
 
 ---
 
 ## 📖 できればこれも
 
-- [effective](/word/effective)：効果的な
-- [technical](/word/technical)：技術的な
+- [effective](/word/effective/)：効果的な
+- [technical](/word/technical/)：技術的な
 
 <!-- cvid: aid06_bid24 -->

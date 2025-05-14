@@ -97,7 +97,7 @@ TOEICでは、給与や報酬に関する文脈で頻出します。特に人事
 ## 🤔  incentive との違いは？
 
 - **bonus**：成果や業績に対して追加で支給される金銭や特典
-- **[incentive](/word/incentive)**：やる気や行動を促すための動機付けや報酬
+- **[incentive](/word/incentive/)**：やる気や行動を促すための動機付けや報酬
 
 bonusは「結果」に対して与えられる追加報酬、incentiveは「行動を促すため」に与える動機付けの意味合いが強いです。
 
@@ -105,14 +105,14 @@ bonusは「結果」に対して与えられる追加報酬、incentiveは「行
 
 ## 🧩 あわせて覚えたい
 
-- [reward](/word/reward)：報酬、褒美
-- [salary](/word/salary)：給料
+- [reward](/word/reward/)：報酬、褒美
+- [salary](/word/salary/)：給料
 
 ---
 
 ## 📖 できればこれも
 
-- [benefit](/word/benefit)：福利厚生、手当
-- [commission](/word/commission)：歩合、手数料
+- [benefit](/word/benefit/)：福利厚生、手当
+- [commission](/word/commission/)：歩合、手数料
 
 <!-- cvid: aid19_bid35 -->

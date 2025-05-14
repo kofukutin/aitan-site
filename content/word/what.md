@@ -93,7 +93,7 @@ TOEICではPart 2の応答問題やPart 3, 4の会話文で頻出します。基
 ## 🤔  which との違いは？
 
 - **what**：選択肢が特に限定されていない「何？」を尋ねる時に使う
-- **[which](/word/which)**：限られた選択肢の中から「どれ？」と尋ねる時に使う
+- **[which](/word/which/)**：限られた選択肢の中から「どれ？」と尋ねる時に使う
 
 whatは漠然と「何？」と聞く時、whichは「この中でどれ？」と選択肢がある時に使い分けます。
 
@@ -101,14 +101,14 @@ whatは漠然と「何？」と聞く時、whichは「この中でどれ？」�
 
 ## 🧩 あわせて覚えたい
 
-- [who](/word/who)：誰
-- [that](/word/that)：それ、あれ／関係代名詞「～する（人・物）」
+- [who](/word/who/)：誰
+- [that](/word/that/)：それ、あれ／関係代名詞「～する（人・物）」
 
 ---
 
 ## 📖 できればこれも
 
-- [where](/word/where)：どこ
-- [when](/word/when)：いつ
+- [where](/word/where/)：どこ
+- [when](/word/when/)：いつ
 
 <!-- cvid: aid19_bid08 -->

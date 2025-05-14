@@ -97,7 +97,7 @@ TOEICでは、契約書や公式文書、税関関連の長文で「declaration�
 ## 🤔  announcement との違いは？
 
 - **declaration**：公式な場での「宣言」や「声明」、法的・制度的な「申告」に使う
-- **[announcement](/word/announcement)**：一般的な「お知らせ」や「発表」に使う
+- **[announcement](/word/announcement/)**：一般的な「お知らせ」や「発表」に使う
 
 declarationはフォーマルで重みのある内容や法的効力を持つ場合に使われ、announcementは幅広い場面での通知や案内に使われます。
 
@@ -105,14 +105,14 @@ declarationはフォーマルで重みのある内容や法的効力を持つ場
 
 ## 🧩 あわせて覚えたい
 
-- [statement](/word/statement)：声明、発言
-- [proclamation](/word/proclamation)：布告、公式な宣言
+- [statement](/word/statement/)：声明、発言
+- [proclamation](/word/proclamation/)：布告、公式な宣言
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement)：合意、契約
-- [confirmation](/word/confirmation)：確認、承認
+- [agreement](/word/agreement/)：合意、契約
+- [confirmation](/word/confirmation/)：確認、承認
 
 <!-- cvid: aid08_bid23 -->

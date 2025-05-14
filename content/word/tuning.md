@@ -97,7 +97,7 @@ ITやビジネス分野の説明文やマニュアルで、システムや機器
 ## 🤔  adjustment との違いは？
 
 - **tuning**：性能や状態を最適化するための細かな調整や調律
-- **[adjustment](/word/adjustment)**：状況や条件に合わせて全体的に調整すること
+- **[adjustment](/word/adjustment/)**：状況や条件に合わせて全体的に調整すること
 
 tuningは特に最適化や精密な調整に使われ、adjustmentは幅広い一般的な調整に使われます。
 
@@ -105,14 +105,14 @@ tuningは特に最適化や精密な調整に使われ、adjustmentは幅広い�
 
 ## 🧩 あわせて覚えたい
 
-- [optimization](/word/optimization)：最適化
-- [modification](/word/modification)：変更、修正
+- [optimization](/word/optimization/)：最適化
+- [modification](/word/modification/)：変更、修正
 
 ---
 
 ## 📖 できればこれも
 
-- [configuration](/word/configuration)：設定、構成
-- [calibration](/word/calibration)：較正、校正
+- [configuration](/word/configuration/)：設定、構成
+- [calibration](/word/calibration/)：較正、校正
 
 <!-- cvid: aid26_bid34 -->

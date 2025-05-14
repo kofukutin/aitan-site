@@ -97,7 +97,7 @@ TOEICではPart 5を中心に、契約や応募、規則などの文脈で「必
 ## 🤔  demand との違いは？
 
 - **requirement**：必要とされる条件や基準
-- **[demand](/word/demand)**：強い要求や需要
+- **[demand](/word/demand/)**：強い要求や需要
 
 requirementは「満たすべき条件」、demandは「強く求めること・需要」と、使われる場面やニュアンスが異なります。
 
@@ -105,14 +105,14 @@ requirementは「満たすべき条件」、demandは「強く求めること・
 
 ## 🧩 あわせて覚えたい
 
-- [condition](/word/condition)：条件
-- [necessity](/word/necessity)：必要性
+- [condition](/word/condition/)：条件
+- [necessity](/word/necessity/)：必要性
 
 ---
 
 ## 📖 できればこれも
 
-- [instruction](/word/instruction)：指示、説明
-- [policy](/word/policy)：方針、政策
+- [instruction](/word/instruction/)：指示、説明
+- [policy](/word/policy/)：方針、政策
 
 <!-- cvid: aid40_bid01 -->

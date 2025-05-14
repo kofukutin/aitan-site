@@ -97,7 +97,7 @@ TOEICでは写真描写や会話文で「見た」「見ていた」という状
 ## 🤔  saw との違いは？
 
 - **looked**：意識して視線を向けた「見た」
-- **[saw](/word/saw)**：自然に目に入った「見た」
+- **[saw](/word/saw/)**：自然に目に入った「見た」
 
 「looked」は自分の意思で見る動作、「saw」は偶然や自然に目に入る場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは写真描写や会話文で「見た」「見ていた」という状
 
 ## 🧩 あわせて覚えたい
 
-- [watch](/word/watch)：じっと見る、観察する
-- [glance](/word/glance)：ちらっと見る
+- [watch](/word/watch/)：じっと見る、観察する
+- [glance](/word/glance/)：ちらっと見る
 
 ---
 
 ## 📖 できればこれも
 
-- [asked](/word/asked)：尋ねた
-- [listened](/word/listened)：聞いた
+- [asked](/word/asked/)：尋ねた
+- [listened](/word/listened/)：聞いた
 
 <!-- cvid: aid20_bid23 -->

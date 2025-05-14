@@ -97,7 +97,7 @@ TOEICでは「仕事探し」や「情報を探す」といった文脈で出題
 ## 🤔  searching との違いは？
 
 - **hunting**：目的のものを熱心に探し求めることや、動物を狩ること
-- **[searching](/word/searching)**：広く「探す」こと全般、特に注意深く調べるニュアンス
+- **[searching](/word/searching/)**：広く「探す」こと全般、特に注意深く調べるニュアンス
 
 huntingは「積極的に追い求める」や「狩猟」の意味が強く、searchingは「細かく調べる」や「情報を探す」といったニュアンスがあります。
 
@@ -105,14 +105,14 @@ huntingは「積極的に追い求める」や「狩猟」の意味が強く、s
 
 ## 🧩 あわせて覚えたい
 
-- [pursuit](/word/pursuit)：追求、追跡
-- [exploration](/word/exploration)：探検、調査
+- [pursuit](/word/pursuit/)：追求、追跡
+- [exploration](/word/exploration/)：探検、調査
 
 ---
 
 ## 📖 できればこれも
 
-- [gathering](/word/gathering)：収集、集まり
-- [tracking](/word/tracking)：追跡
+- [gathering](/word/gathering/)：収集、集まり
+- [tracking](/word/tracking/)：追跡
 
 <!-- cvid: aid31_bid35 -->

@@ -97,7 +97,7 @@ TOEICでは、科学的な記事やビジネスレポートの中で「empirical
 ## 🤔  theoretical との違いは？
 
 - **empirical**：実際の経験や観察、実験に基づく
-- **[theoretical](/word/theoretical)**：理論上の、仮説に基づく
+- **[theoretical](/word/theoretical/)**：理論上の、仮説に基づく
 
 empiricalは「実際に観察・実験した結果」に重点があり、theoreticalは「理論や仮説」に重点があります。現場のデータ重視か、理論重視かで使い分けます。
 
@@ -105,14 +105,14 @@ empiricalは「実際に観察・実験した結果」に重点があり、theor
 
 ## 🧩 あわせて覚えたい
 
-- [practical](/word/practical)：実用的な、実際的な
-- [objective](/word/objective)：客観的な
+- [practical](/word/practical/)：実用的な、実際的な
+- [objective](/word/objective/)：客観的な
 
 ---
 
 ## 📖 できればこれも
 
-- [statistical](/word/statistical)：統計的な
-- [analytical](/word/analytical)：分析的な
+- [statistical](/word/statistical/)：統計的な
+- [analytical](/word/analytical/)：分析的な
 
 <!-- cvid: aid44_bid13 -->

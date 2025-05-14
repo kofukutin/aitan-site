@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、物の厚みや人の体型を説明
 ## 🤔  slim との違いは？
 
 - **thin**：物や人が「薄い」「細い」「やせている」ことを幅広く表す
-- **[slim](/word/slim)**：特に体型が「すらりとしている」「引き締まっている」ことを表す
+- **[slim](/word/slim/)**：特に体型が「すらりとしている」「引き締まっている」ことを表す
 
 「thin」は単に厚みや幅が小さいことを指し、やせすぎや健康的でない印象も含む場合がありますが、「slim」は健康的で魅力的な細さを表現します。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写で、物の厚みや人の体型を説明
 
 ## 🧩 あわせて覚えたい
 
-- [narrow](/word/narrow)：（幅が）狭い
-- [thick](/word/thick)：厚い、太い
+- [narrow](/word/narrow/)：（幅が）狭い
+- [thick](/word/thick/)：厚い、太い
 
 ---
 
 ## 📖 できればこれも
 
-- [light](/word/light)：軽い
-- [wide](/word/wide)：広い
+- [light](/word/light/)：軽い
+- [wide](/word/wide/)：広い
 
 <!-- cvid: aid00_bid33 -->

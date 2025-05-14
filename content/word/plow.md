@@ -97,7 +97,7 @@ TOEICでは農業や環境、比喩的に「資源を投入する」という意
 ## 🤔  cultivate との違いは？
 
 - **plow**：土地をすきで物理的に耕すことを指す。
-- **[cultivate](/word/cultivate)**：耕すだけでなく、作物を育てたり、能力や関係を「育てる」広い意味も持つ。
+- **[cultivate](/word/cultivate/)**：耕すだけでなく、作物を育てたり、能力や関係を「育てる」広い意味も持つ。
 
 plowは「土を掘り起こす」具体的な動作、cultivateは「育てる」全般や比喩的な使い方も多いです。
 
@@ -105,14 +105,14 @@ plowは「土を掘り起こす」具体的な動作、cultivateは「育てる�
 
 ## 🧩 あわせて覚えたい
 
-- [harvest](/word/harvest)：収穫する
-- [till](/word/till)：耕す（plowより広い意味で使う）
+- [harvest](/word/harvest/)：収穫する
+- [till](/word/till/)：耕す（plowより広い意味で使う）
 
 ---
 
 ## 📖 できればこれも
 
-- [dig](/word/dig)：掘る
-- [plant](/word/plant)：植える
+- [dig](/word/dig/)：掘る
+- [plant](/word/plant/)：植える
 
 <!-- cvid: aid29_bid19 -->

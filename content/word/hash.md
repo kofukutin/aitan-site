@@ -97,7 +97,7 @@ ITやセキュリティ関連の長文や説明文で登場することがあり
 ## 🤔  encrypt との違いは？
 
 - **hash**：データを一定の長さの値に変換し、元に戻せない形で保存することが多い
-- **[encrypt](/word/encrypt)**：データを暗号化し、特定の方法で元に戻せるようにする
+- **[encrypt](/word/encrypt/)**：データを暗号化し、特定の方法で元に戻せるようにする
 
 hashは「要約・不可逆変換」、encryptは「暗号化・可逆変換」という違いがあります。
 
@@ -105,14 +105,14 @@ hashは「要約・不可逆変換」、encryptは「暗号化・可逆変換」
 
 ## 🧩 あわせて覚えたい
 
-- [decode](/word/decode)：復号する、暗号を元に戻す
-- [checksum](/word/checksum)：データの正しさを確認するための検査値
+- [decode](/word/decode/)：復号する、暗号を元に戻す
+- [checksum](/word/checksum/)：データの正しさを確認するための検査値
 
 ---
 
 ## 📖 できればこれも
 
-- [algorithm](/word/algorithm)：アルゴリズム、計算手順
-- [code](/word/code)：コード、記号化した情報
+- [algorithm](/word/algorithm/)：アルゴリズム、計算手順
+- [code](/word/code/)：コード、記号化した情報
 
 <!-- cvid: aid16_bid32 -->

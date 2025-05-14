@@ -97,7 +97,7 @@ TOEICでは科学や医療関連の記事や説明文で見かけることが多
 ## 🤔  atomic との違いは？
 
 - **molecular**：分子に関する、分子レベルの
-- **[atomic](/word/atomic)**：原子に関する、原子レベルの
+- **[atomic](/word/atomic/)**：原子に関する、原子レベルの
 
 molecularは「分子（複数の原子が結合した単位）」に、atomicは「原子（物質の最小単位）」に関する語です。
 
@@ -105,14 +105,14 @@ molecularは「分子（複数の原子が結合した単位）」に、atomic�
 
 ## 🧩 あわせて覚えたい
 
-- [chemical](/word/chemical)：化学の、化学物質
-- [biological](/word/biological)：生物学の、生物に関する
+- [chemical](/word/chemical/)：化学の、化学物質
+- [biological](/word/biological/)：生物学の、生物に関する
 
 ---
 
 ## 📖 できればこれも
 
-- [cellular](/word/cellular)：細胞の、細胞に関する
-- [genetic](/word/genetic)：遺伝子の、遺伝に関する
+- [cellular](/word/cellular/)：細胞の、細胞に関する
+- [genetic](/word/genetic/)：遺伝子の、遺伝に関する
 
 <!-- cvid: aid45_bid28 -->

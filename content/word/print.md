@@ -98,7 +98,7 @@ TOEICではITやオフィス業務に関連して「印刷する」という意�
 ## 🤔  publish との違いは？
 
 - **print**：物理的に紙などに印刷すること
-- **[publish](/word/publish)**：本や記事などを出版・公開すること
+- **[publish](/word/publish/)**：本や記事などを出版・公開すること
 
 printは「印刷」という物理的な作業を指し、publishは「出版・公開」といった広く世に出す行為を指します。
 
@@ -106,14 +106,14 @@ printは「印刷」という物理的な作業を指し、publishは「出版�
 
 ## 🧩 あわせて覚えたい
 
-- [copy](/word/copy)：コピーする、複製する
-- [scan](/word/scan)：スキャンする、読み取る
+- [copy](/word/copy/)：コピーする、複製する
+- [scan](/word/scan/)：スキャンする、読み取る
 
 ---
 
 ## 📖 できればこれも
 
-- [type](/word/type)：タイプする、入力する
-- [send](/word/send)：送る
+- [type](/word/type/)：タイプする、入力する
+- [send](/word/send/)：送る
 
 <!-- cvid: aid10_bid09 -->

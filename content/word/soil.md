@@ -97,7 +97,7 @@ TOEICでは環境や農業、土地開発などの話題で登場することが
 ## 🤔  land との違いは？
 
 - **soil**：植物が育つ「土」や「土壌」を指す
-- **[land](/word/land)**：土地全体や国土、所有地など広い意味
+- **[land](/word/land/)**：土地全体や国土、所有地など広い意味
 
 soilは地表の「土」そのものを指し、landは「土地」や「陸地」全体を指します。農業や環境の話題ではsoil、所有や面積の話題ではlandを使います。
 
@@ -105,14 +105,14 @@ soilは地表の「土」そのものを指し、landは「土地」や「陸地
 
 ## 🧩 あわせて覚えたい
 
-- [ground](/word/ground)：地面、地表
-- [earth](/word/earth)：地球、土、大地
+- [ground](/word/ground/)：地面、地表
+- [earth](/word/earth/)：地球、土、大地
 
 ---
 
 ## 📖 できればこれも
 
-- [plant](/word/plant)：植物、工場
-- [field](/word/field)：野原、分野
+- [plant](/word/plant/)：植物、工場
+- [field](/word/field/)：野原、分野
 
 <!-- cvid: aid34_bid00 -->

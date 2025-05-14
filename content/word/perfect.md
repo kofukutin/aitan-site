@@ -97,7 +97,7 @@ TOEICでは形容詞として「perfect」を使う文法問題や、理想的�
 ## 🤔  complete との違いは？
 
 - **perfect**：欠点がなく理想的な状態を表す
-- **[complete](/word/complete)**：全てがそろっていて「完成している」状態を表す
+- **[complete](/word/complete/)**：全てがそろっていて「完成している」状態を表す
 
 「perfect」は「理想的で申し分ない」ニュアンス、「complete」は「全部そろっている」ことに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは形容詞として「perfect」を使う文法問題や、理想的�
 
 ## 🧩 あわせて覚えたい
 
-- [flawless](/word/flawless)：欠点のない、非の打ちどころがない
-- [imperfect](/word/imperfect)：不完全な、欠点のある
+- [flawless](/word/flawless/)：欠点のない、非の打ちどころがない
+- [imperfect](/word/imperfect/)：不完全な、欠点のある
 
 ---
 
 ## 📖 できればこれも
 
-- [excellent](/word/excellent)：優れた、素晴らしい
-- [ideal](/word/ideal)：理想的な
+- [excellent](/word/excellent/)：優れた、素晴らしい
+- [ideal](/word/ideal/)：理想的な
 
 <!-- cvid: aid10_bid29 -->

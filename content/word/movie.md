@@ -97,7 +97,7 @@ TOEICではPart 7の広告や案内文、イベント情報などで「movie」�
 ## 🤔  film との違いは？
 
 - **movie**：アメリカ英語で使われるカジュアルな「映画」
-- **[film](/word/film)**：イギリス英語で使われるややフォーマルな「映画」
+- **[film](/word/film/)**：イギリス英語で使われるややフォーマルな「映画」
 
 「movie」は日常会話やカジュアルな場面でよく使われ、「film」はイギリス英語やフォーマルな文脈で使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICではPart 7の広告や案内文、イベント情報などで「movie」�
 
 ## 🧩 あわせて覚えたい
 
-- [cinema](/word/cinema)：映画館、映画（イギリス英語でよく使う）
-- [theater](/word/theater)：劇場、映画館（アメリカ英語で使う）
+- [cinema](/word/cinema/)：映画館、映画（イギリス英語でよく使う）
+- [theater](/word/theater/)：劇場、映画館（アメリカ英語で使う）
 
 ---
 
 ## 📖 できればこれも
 
-- [music](/word/music)：音楽
-- [novel](/word/novel)：小説
+- [music](/word/music/)：音楽
+- [novel](/word/novel/)：小説
 
 <!-- cvid: aid45_bid32 -->

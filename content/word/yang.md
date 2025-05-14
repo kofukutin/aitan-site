@@ -97,7 +97,7 @@ TOEICでは、異文化理解や哲学的な話題を扱う長文で登場する
 ## 🤔  yin との違いは？
 
 - **yang**：明るさ・活動性・男性性など「陽」の側面を表す
-- **[yin](/word/yin)**：暗さ・静けさ・女性性など「陰」の側面を表す
+- **[yin](/word/yin/)**：暗さ・静けさ・女性性など「陰」の側面を表す
 
 yangは積極的・外向的な性質、yinは受動的・内向的な性質を象徴します。
 
@@ -105,14 +105,14 @@ yangは積極的・外向的な性質、yinは受動的・内向的な性質を�
 
 ## 🧩 あわせて覚えたい
 
-- [balance](/word/balance)：バランス、均衡
-- [energy](/word/energy)：エネルギー、活力
+- [balance](/word/balance/)：バランス、均衡
+- [energy](/word/energy/)：エネルギー、活力
 
 ---
 
 ## 📖 できればこれも
 
-- [element](/word/element)：要素、成分
-- [principle](/word/principle)：原理、原則
+- [element](/word/element/)：要素、成分
+- [principle](/word/principle/)：原理、原則
 
 <!-- cvid: aid42_bid31 -->

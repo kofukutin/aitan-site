@@ -97,7 +97,7 @@ TOEICでは広告やお知らせ、イベント案内などの長文で「lotter
 ## 🤔  raffle との違いは？
 
 - **lottery**：大規模で公的な宝くじや抽選を指すことが多い
-- **[raffle](/word/raffle)**：慈善イベントなどで使われる小規模な抽選
+- **[raffle](/word/raffle/)**：慈善イベントなどで使われる小規模な抽選
 
 lotteryは国や自治体などが主催する大きな宝くじ、raffleは学校や団体のイベントで行う小さな抽選会に使われます。
 
@@ -105,14 +105,14 @@ lotteryは国や自治体などが主催する大きな宝くじ、raffleは学�
 
 ## 🧩 あわせて覚えたい
 
-- [gamble](/word/gamble)：賭け事、ギャンブル
-- [jackpot](/word/jackpot)：（くじやスロットの）特賞、大当たり
+- [gamble](/word/gamble/)：賭け事、ギャンブル
+- [jackpot](/word/jackpot/)：（くじやスロットの）特賞、大当たり
 
 ---
 
 ## 📖 できればこれも
 
-- [prize](/word/prize)：賞、賞品
-- [ticket](/word/ticket)：券、チケット
+- [prize](/word/prize/)：賞、賞品
+- [ticket](/word/ticket/)：券、チケット
 
 <!-- cvid: aid45_bid45 -->

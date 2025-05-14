@@ -97,7 +97,7 @@ TOEICでは主に規則やルール、違反に関する文脈で出題されま
 ## 🤔  penalty との違いは？
 
 - **punishment**：一般的な「罰」や「処罰」全般を指し、法律・学校・家庭など幅広い場面で使う。
-- **[penalty](/word/penalty)**：ルール違反や法律違反に対する「罰金」や「ペナルティ」など、特に公式な罰やスポーツの反則に使う。
+- **[penalty](/word/penalty/)**：ルール違反や法律違反に対する「罰金」や「ペナルティ」など、特に公式な罰やスポーツの反則に使う。
 
 punishmentは広い意味での罰全般、penaltyはルール違反に対する具体的な罰（特に金銭的・公式なもの）に使われます。
 
@@ -105,14 +105,14 @@ punishmentは広い意味での罰全般、penaltyはルール違反に対する
 
 ## 🧩 あわせて覚えたい
 
-- [reward](/word/reward)：ご褒美、報酬
-- [discipline](/word/discipline)：規律、しつけ
+- [reward](/word/reward/)：ご褒美、報酬
+- [discipline](/word/discipline/)：規律、しつけ
 
 ---
 
 ## 📖 できればこれも
 
-- [crime](/word/crime)：犯罪
-- [fine](/word/fine)：罰金
+- [crime](/word/crime/)：犯罪
+- [fine](/word/fine/)：罰金
 
 <!-- cvid: aid21_bid34 -->

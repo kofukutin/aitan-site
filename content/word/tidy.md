@@ -97,7 +97,7 @@ tidyはTOEICのPart 5で、形容詞の語彙問題や文脈から意味を問�
 ## 🤔  neat との違いは？
 
 - **tidy**：整理整頓されていて、散らかっていない状態を強調。
-- **[neat](/word/neat)**：きれいで整っている印象を与えるが、見た目の美しさや清潔さも含む。
+- **[neat](/word/neat/)**：きれいで整っている印象を与えるが、見た目の美しさや清潔さも含む。
 
 tidyは「片付いている」ことに重点があり、neatは「見た目がきれい・美しい」ことに重点があります。
 
@@ -105,14 +105,14 @@ tidyは「片付いている」ことに重点があり、neatは「見た目が
 
 ## 🧩 あわせて覚えたい
 
-- [messy](/word/messy)：散らかった、乱雑な
-- [organize](/word/organize)：整理する、まとめる
+- [messy](/word/messy/)：散らかった、乱雑な
+- [organize](/word/organize/)：整理する、まとめる
 
 ---
 
 ## 📖 できればこれも
 
-- [clean](/word/clean)：清潔な、きれいな
-- [arrange](/word/arrange)：整える、配置する
+- [clean](/word/clean/)：清潔な、きれいな
+- [arrange](/word/arrange/)：整える、配置する
 
 <!-- cvid: aid10_bid13 -->

@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やニュース記事の中で「調査」「捜
 ## 🤔  inspection との違いは？
 
 - **investigation**：原因や事実を明らかにするために、深く詳しく調査すること
-- **[inspection](/word/inspection)**：主に表面的・形式的な点検や検査
+- **[inspection](/word/inspection/)**：主に表面的・形式的な点検や検査
 
 investigationは「なぜそうなったか」を突き止めるための本格的な調査、inspectionは「問題がないか」をチェックする点検や検査という違いがあります。
 
@@ -105,14 +105,14 @@ investigationは「なぜそうなったか」を突き止めるための本格�
 
 ## 🧩 あわせて覚えたい
 
-- [inquiry](/word/inquiry)：問い合わせ、質問、調査
-- [analysis](/word/analysis)：分析、解析
+- [inquiry](/word/inquiry/)：問い合わせ、質問、調査
+- [analysis](/word/analysis/)：分析、解析
 
 ---
 
 ## 📖 できればこれも
 
-- [evidence](/word/evidence)：証拠、根拠
-- [research](/word/research)：研究、調査
+- [evidence](/word/evidence/)：証拠、根拠
+- [research](/word/research/)：研究、調査
 
 <!-- cvid: aid34_bid33 -->

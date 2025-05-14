@@ -97,7 +97,7 @@ TOEICでは、ビジネスや社会的なトピックの長文中で「再建」
 ## 🤔  restoration との違いは？
 
 - **reconstruction**：壊れたものを一から作り直す「再建」「再構築」
-- **[restoration](/word/restoration)**：元の状態に戻す「修復」「復元」
+- **[restoration](/word/restoration/)**：元の状態に戻す「修復」「復元」
 
 reconstructionは「新たに作り直す」ニュアンスが強く、restorationは「元通りに戻す」ことに重点があります。
 
@@ -105,14 +105,14 @@ reconstructionは「新たに作り直す」ニュアンスが強く、restorati
 
 ## 🧩 あわせて覚えたい
 
-- [renovation](/word/renovation)：改装、リノベーション
-- [repair](/word/repair)：修理、修繕
+- [renovation](/word/renovation/)：改装、リノベーション
+- [repair](/word/repair/)：修理、修繕
 
 ---
 
 ## 📖 できればこれも
 
-- [construction](/word/construction)：建設、建造
-- [modification](/word/modification)：変更、修正
+- [construction](/word/construction/)：建設、建造
+- [modification](/word/modification/)：変更、修正
 
 <!-- cvid: aid30_bid00 -->

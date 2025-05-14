@@ -97,7 +97,7 @@ TOEICでは日付やスケジュール、期間を尋ねる場面で頻出しま
 ## 🤔  period との違いは？
 
 - **month**：1年を12等分した「月」や約30日間の明確な期間
-- **[period](/word/period)**：特定の長さや区切りのある「期間」全般
+- **[period](/word/period/)**：特定の長さや区切りのある「期間」全般
 
 **month**はカレンダー上の「月」を指し、**period**は長さや内容が決まっていない「期間」を幅広く表します。
 
@@ -105,14 +105,14 @@ TOEICでは日付やスケジュール、期間を尋ねる場面で頻出しま
 
 ## 🧩 あわせて覚えたい
 
-- [week](/word/week)：週、7日間
-- [quarter](/word/quarter)：四半期、3か月
+- [week](/word/week/)：週、7日間
+- [quarter](/word/quarter/)：四半期、3か月
 
 ---
 
 ## 📖 できればこれも
 
-- [year](/word/year)：年、12か月
-- [calendar](/word/calendar)：カレンダー、暦
+- [year](/word/year/)：年、12か月
+- [calendar](/word/calendar/)：カレンダー、暦
 
 <!-- cvid: aid15_bid08 -->

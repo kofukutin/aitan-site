@@ -97,7 +97,7 @@ TOEICでは、メールや書類、荷物のやり取りに関する会話や指
 ## 🤔  deliver との違いは？
 
 - **send**：物や情報を「送る」動作全般を指す、送り出す側に注目。
-- **[deliver](/word/deliver)**：物を「届ける」「配達する」など、受け取り手に届くことに注目。
+- **[deliver](/word/deliver/)**：物を「届ける」「配達する」など、受け取り手に届くことに注目。
 
 sendは「送り出す」こと自体に焦点があり、deliverは「相手に届く」ことに重点があります。
 
@@ -105,14 +105,14 @@ sendは「送り出す」こと自体に焦点があり、deliverは「相手に
 
 ## 🧩 あわせて覚えたい
 
-- [receive](/word/receive)：受け取る
-- [forward](/word/forward)：転送する
+- [receive](/word/receive/)：受け取る
+- [forward](/word/forward/)：転送する
 
 ---
 
 ## 📖 できればこれも
 
-- [mail](/word/mail)：郵便、メール
-- [contact](/word/contact)：連絡する
+- [mail](/word/mail/)：郵便、メール
+- [contact](/word/contact/)：連絡する
 
 <!-- cvid: aid33_bid13 -->

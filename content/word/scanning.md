@@ -97,7 +97,7 @@ TOEICのPart 7で「特定情報を探す読み方」として頻出します。
 ## 🤔  skimming との違いは？
 
 - **scanning**：特定の情報やキーワードを素早く探すこと
-- **[skimming](/word/skimming)**：全体の大意をつかむためにざっと読むこと
+- **[skimming](/word/skimming/)**：全体の大意をつかむためにざっと読むこと
 
 scanningは「何か特定のものを探す」読み方、skimmingは「全体の内容をざっくり把握する」読み方です。
 
@@ -105,14 +105,14 @@ scanningは「何か特定のものを探す」読み方、skimmingは「全体�
 
 ## 🧩 あわせて覚えたい
 
-- [inspection](/word/inspection)：検査、点検
-- [browsing](/word/browsing)：ざっと見ること、閲覧
+- [inspection](/word/inspection/)：検査、点検
+- [browsing](/word/browsing/)：ざっと見ること、閲覧
 
 ---
 
 ## 📖 できればこれも
 
-- [analyzing](/word/analyzing)：分析すること
-- [checking](/word/checking)：確認すること
+- [analyzing](/word/analyzing/)：分析すること
+- [checking](/word/checking/)：確認すること
 
 <!-- cvid: aid24_bid00 -->

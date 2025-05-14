@@ -97,7 +97,7 @@ TOEICでは、motivationやconfidenceなどと並んで、人物の性格や行�
 ## 🤔  bravery との違いは？
 
 - **courage**：困難や恐怖に直面しても行動する「心の強さ」や「勇気」
-- **[bravery](/word/bravery)**：危険や困難に立ち向かう「勇敢さ」や「勇ましさ」
+- **[bravery](/word/bravery/)**：危険や困難に立ち向かう「勇敢さ」や「勇ましさ」
 
 courageは内面的な強さや決意を強調し、braveryは実際の行動や勇ましい態度を強調します。
 
@@ -105,14 +105,14 @@ courageは内面的な強さや決意を強調し、braveryは実際の行動や
 
 ## 🧩 あわせて覚えたい
 
-- [fear](/word/fear)：恐れ、不安
-- [confidence](/word/confidence)：自信
+- [fear](/word/fear/)：恐れ、不安
+- [confidence](/word/confidence/)：自信
 
 ---
 
 ## 📖 できればこれも
 
-- [effort](/word/effort)：努力
-- [challenge](/word/challenge)：挑戦
+- [effort](/word/effort/)：努力
+- [challenge](/word/challenge/)：挑戦
 
 <!-- cvid: aid03_bid46 -->

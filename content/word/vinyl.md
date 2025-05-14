@@ -96,7 +96,7 @@ TOEICでは、素材や製品の説明文、仕様書などで「vinyl」が登�
 ## 🤔  plastic との違いは？
 
 - **vinyl**：主にビニール樹脂やその製品を指し、特定の合成樹脂の一種。
-- **[plastic](/word/plastic)**：合成樹脂全般を指し、ビニールもその一種に含まれる。
+- **[plastic](/word/plastic/)**：合成樹脂全般を指し、ビニールもその一種に含まれる。
 
 「vinyl」は「plastic」の中でも特定の素材を指し、レコードや床材など用途が限定されることが多いです。一方「plastic」は幅広い合成樹脂全体を指します。
 
@@ -104,14 +104,14 @@ TOEICでは、素材や製品の説明文、仕様書などで「vinyl」が登�
 
 ## 🧩 あわせて覚えたい
 
-- [rubber](/word/rubber)：ゴム
-- [polymer](/word/polymer)：高分子、ポリマー
+- [rubber](/word/rubber/)：ゴム
+- [polymer](/word/polymer/)：高分子、ポリマー
 
 ---
 
 ## 📖 できればこれも
 
-- [fabric](/word/fabric)：布地、織物
-- [leather](/word/leather)：革、皮革
+- [fabric](/word/fabric/)：布地、織物
+- [leather](/word/leather/)：革、皮革
 
 <!-- cvid: aid06_bid14 -->

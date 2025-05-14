@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「状況」「事態」を表す語としてよ
 ## 🤔  condition との違いは？
 
 - **situation**：ある時点での具体的な状況や事態を指す
-- **[condition](/word/condition)**：物や人の「状態」や「体調」など、より抽象的・一般的な状態を指す
+- **[condition](/word/condition/)**：物や人の「状態」や「体調」など、より抽象的・一般的な状態を指す
 
 situationは「今どういう状況か」という場面や背景に焦点を当て、conditionは「健康状態」や「物の良し悪し」などの性質に注目します。
 
@@ -105,14 +105,14 @@ situationは「今どういう状況か」という場面や背景に焦点を�
 
 ## 🧩 あわせて覚えたい
 
-- [circumstance](/word/circumstance)：（周囲の）事情、環境
-- [position](/word/position)：立場、地位
+- [circumstance](/word/circumstance/)：（周囲の）事情、環境
+- [position](/word/position/)：立場、地位
 
 ---
 
 ## 📖 できればこれも
 
-- [case](/word/case)：場合、事例
-- [event](/word/event)：出来事、行事
+- [case](/word/case/)：場合、事例
+- [event](/word/event/)：出来事、行事
 
 <!-- cvid: aid31_bid03 -->

@@ -97,7 +97,7 @@ wizardはITやファンタジー関連の記事や説明文で登場すること
 ## 🤔  magician との違いは？
 
 - **wizard**：魔法使い、または分野の達人（特にファンタジーやITで使う）
-- **[magician](/word/magician)**：手品師、マジックをする人
+- **[magician](/word/magician/)**：手品師、マジックをする人
 
 wizardは空想上の魔法使いや専門分野の達人に使い、magicianは主に手品やトリックを披露する人に使います。
 
@@ -105,14 +105,14 @@ wizardは空想上の魔法使いや専門分野の達人に使い、magicianは
 
 ## 🧩 あわせて覚えたい
 
-- [sorcerer](/word/sorcerer)：魔術師（特に邪悪な魔法使い）
-- [genius](/word/genius)：天才、非常に優れた人
+- [sorcerer](/word/sorcerer/)：魔術師（特に邪悪な魔法使い）
+- [genius](/word/genius/)：天才、非常に優れた人
 
 ---
 
 ## 📖 できればこれも
 
-- [witch](/word/witch)：（女性の）魔女
-- [mentor](/word/mentor)：指導者、助言者
+- [witch](/word/witch/)：（女性の）魔女
+- [mentor](/word/mentor/)：指導者、助言者
 
 <!-- cvid: aid35_bid31 -->

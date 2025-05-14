@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、オフィスや部屋の備品
 ## 🤔  bookshelf との違いは？
 
 - **bookcase**：扉付きや大型の「本棚」「書棚」全般を指し、家具としての意味合いが強い。
-- **[bookshelf](/word/bookshelf)**：壁に取り付ける棚や、棚板1枚など「本を置くための棚」を指す。
+- **[bookshelf](/word/bookshelf/)**：壁に取り付ける棚や、棚板1枚など「本を置くための棚」を指す。
 
 bookcaseは家具としての本棚全体を指し、bookshelfは棚板や壁付けの棚など、よりシンプルな「本を置く棚」を意味します。
 
@@ -105,14 +105,14 @@ bookcaseは家具としての本棚全体を指し、bookshelfは棚板や壁付
 
 ## 🧩 あわせて覚えたい
 
-- [cabinet](/word/cabinet)：収納棚、キャビネット
-- [desk](/word/desk)：机、デスク
+- [cabinet](/word/cabinet/)：収納棚、キャビネット
+- [desk](/word/desk/)：机、デスク
 
 ---
 
 ## 📖 できればこれも
 
-- [drawer](/word/drawer)：引き出し
-- [chair](/word/chair)：椅子
+- [drawer](/word/drawer/)：引き出し
+- [chair](/word/chair/)：椅子
 
 <!-- cvid: aid07_bid16 -->

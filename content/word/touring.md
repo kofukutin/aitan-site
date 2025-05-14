@@ -97,7 +97,7 @@ TOEICでは観光や出張、視察などの文脈で出題されることが多
 ## 🤔  traveling との違いは？
 
 - **touring**：複数の場所を巡って観光することに重点がある
-- **[traveling](/word/traveling)**：移動や旅行全般を指し、観光以外の目的も含む
+- **[traveling](/word/traveling/)**：移動や旅行全般を指し、観光以外の目的も含む
 
 touringは「観光地を順番に回る」イメージ、travelingは「移動や旅そのもの」を広く指します。
 
@@ -105,14 +105,14 @@ touringは「観光地を順番に回る」イメージ、travelingは「移動�
 
 ## 🧩 あわせて覚えたい
 
-- [sightseeing](/word/sightseeing)：観光、見物
-- [excursion](/word/excursion)：小旅行、遠足
+- [sightseeing](/word/sightseeing/)：観光、見物
+- [excursion](/word/excursion/)：小旅行、遠足
 
 ---
 
 ## 📖 できればこれも
 
-- [visit](/word/visit)：訪れる
-- [explore](/word/explore)：探検する、調査する
+- [visit](/word/visit/)：訪れる
+- [explore](/word/explore/)：探検する、調査する
 
 <!-- cvid: aid10_bid24 -->

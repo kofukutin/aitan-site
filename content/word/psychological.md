@@ -97,7 +97,7 @@ TOEICでは、健康や職場環境、ストレス管理などのトピックで
 ## 🤔  mental との違いは？
 
 - **psychological**：心や感情、精神状態に関することを強調
-- **[mental](/word/mental)**：知能や思考、頭脳活動全般に関することを強調
+- **[mental](/word/mental/)**：知能や思考、頭脳活動全般に関することを強調
 
 「psychological」は感情や心の動きに焦点を当てるのに対し、「mental」は知的活動や脳の働きにより広く使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、健康や職場環境、ストレス管理などのトピックで
 
 ## 🧩 あわせて覚えたい
 
-- [emotional](/word/emotional)：感情的な
-- [physical](/word/physical)：身体的な
+- [emotional](/word/emotional/)：感情的な
+- [physical](/word/physical/)：身体的な
 
 ---
 
 ## 📖 できればこれも
 
-- [therapy](/word/therapy)：治療、セラピー
-- [cognitive](/word/cognitive)：認知の、認識に関する
+- [therapy](/word/therapy/)：治療、セラピー
+- [cognitive](/word/cognitive/)：認知の、認識に関する
 
 <!-- cvid: aid33_bid45 -->

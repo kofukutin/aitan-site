@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やレポート、環境問題に関する長
 ## 🤔  expenditure との違いは？
 
 - **consumption**：物やエネルギーなどを実際に使う・消費すること
-- **[expenditure](/word/expenditure)**：主にお金や資源の「支出」「費用」を指す
+- **[expenditure](/word/expenditure/)**：主にお金や資源の「支出」「費用」を指す
 
 consumptionは「使う行為」自体を強調し、expenditureは「支払った金額や費用」に焦点を当てます。
 
@@ -105,14 +105,14 @@ consumptionは「使う行為」自体を強調し、expenditureは「支払っ�
 
 ## 🧩 あわせて覚えたい
 
-- [usage](/word/usage)：使用、利用
-- [production](/word/production)：生産
+- [usage](/word/usage/)：使用、利用
+- [production](/word/production/)：生産
 
 ---
 
 ## 📖 できればこれも
 
-- [expense](/word/expense)：費用、出費
-- [utilize](/word/utilize)：活用する、利用する
+- [expense](/word/expense/)：費用、出費
+- [utilize](/word/utilize/)：活用する、利用する
 
 <!-- cvid: aid08_bid16 -->

@@ -93,7 +93,7 @@ TOEICでは会話や説明文の中で「from this day forth」などの表現�
 ## 🤔  forward との違いは？
 
 - **forth**：ややフォーマルで「前方へ」「外へ」「以降」といった意味。書き言葉や公式な場面で使われやすい。
-- **[forward](/word/forward)**：より一般的で「前へ」「進んで」といった意味。日常会話やビジネスでも幅広く使われる。
+- **[forward](/word/forward/)**：より一般的で「前へ」「進んで」といった意味。日常会話やビジネスでも幅広く使われる。
 
 「forth」は書き言葉や決まり文句で使われやすく、「forward」は動作や方向を強調したいときに使われます。
 
@@ -101,14 +101,14 @@ TOEICでは会話や説明文の中で「from this day forth」などの表現�
 
 ## 🧩 あわせて覚えたい
 
-- [onward](/word/onward)：さらに先へ、前進して
-- [backward](/word/backward)：後ろへ、逆に
+- [onward](/word/onward/)：さらに先へ、前進して
+- [backward](/word/backward/)：後ろへ、逆に
 
 ---
 
 ## 📖 できればこれも
 
-- [hence](/word/hence)：それゆえに、したがって
-- [therefore](/word/therefore)：それゆえ、したがって
+- [hence](/word/hence/)：それゆえに、したがって
+- [therefore](/word/therefore/)：それゆえ、したがって
 
 <!-- cvid: aid35_bid01 -->

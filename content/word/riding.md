@@ -97,7 +97,7 @@ TOEIC Part 1の写真描写問題で、「自転車に乗っている」「馬�
 ## 🤔  driving との違いは？
 
 - **riding**：馬や自転車、バイクなど「またがる乗り物」に乗ること
-- **[driving](/word/driving)**：車やバスなど「運転する」こと
+- **[driving](/word/driving/)**：車やバスなど「運転する」こと
 
 ridingは「またがって乗る」イメージ、drivingは「ハンドル操作して運転する」イメージです。
 
@@ -105,14 +105,14 @@ ridingは「またがって乗る」イメージ、drivingは「ハンドル操�
 
 ## 🧩 あわせて覚えたい
 
-- [cycling](/word/cycling)：自転車に乗ること
-- [boarding](/word/boarding)：乗り込むこと（乗車・搭乗）
+- [cycling](/word/cycling/)：自転車に乗ること
+- [boarding](/word/boarding/)：乗り込むこと（乗車・搭乗）
 
 ---
 
 ## 📖 できればこれも
 
-- [walking](/word/walking)：歩くこと
-- [traveling](/word/traveling)：旅行すること
+- [walking](/word/walking/)：歩くこと
+- [traveling](/word/traveling/)：旅行すること
 
 <!-- cvid: aid09_bid34 -->

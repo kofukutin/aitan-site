@@ -97,7 +97,7 @@ TOEICでは空港や旅行、出張の場面で「connecting flight（乗り継�
 ## 🤔  transfer との違いは？
 
 - **connecting**：乗り継ぎの、接続する（形容詞。便や列車などに使う）
-- **[transfer](/word/transfer)**：乗り換える、移動する（動詞・名詞。人や荷物の移動自体を指す）
+- **[transfer](/word/transfer/)**：乗り換える、移動する（動詞・名詞。人や荷物の移動自体を指す）
 
 connectingは「つなぐ」性質や状態を表し、transferは「実際に移動する行為」を指します。
 
@@ -105,14 +105,14 @@ connectingは「つなぐ」性質や状態を表し、transferは「実際に�
 
 ## 🧩 あわせて覚えたい
 
-- [direct](/word/direct)：直行の、直接の
-- [layover](/word/layover)：（飛行機などの）途中降機、乗り継ぎの待ち時間
+- [direct](/word/direct/)：直行の、直接の
+- [layover](/word/layover/)：（飛行機などの）途中降機、乗り継ぎの待ち時間
 
 ---
 
 ## 📖 できればこれも
 
-- [boarding](/word/boarding)：搭乗
-- [arrival](/word/arrival)：到着
+- [boarding](/word/boarding/)：搭乗
+- [arrival](/word/arrival/)：到着
 
 <!-- cvid: aid33_bid34 -->

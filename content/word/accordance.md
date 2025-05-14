@@ -97,7 +97,7 @@ TOEICでは主に契約書や規則、公式文書の説明文で in accordance 
 ## 🤔  compliance との違いは？
 
 - **accordance**：規則や方針に「一致・合致」している状態を表す名詞
-- **[compliance](/word/compliance)**：規則や命令に「従うこと」「順守」を強調する名詞
+- **[compliance](/word/compliance/)**：規則や命令に「従うこと」「順守」を強調する名詞
 
 accordanceは「一致している状態」に重点があり、complianceは「従う行為・順守」に重点があります。complianceの方が義務感や強制力が強い印象です。
 
@@ -105,14 +105,14 @@ accordanceは「一致している状態」に重点があり、complianceは「
 
 ## 🧩 あわせて覚えたい
 
-- [agreement](/word/agreement)：合意、同意
-- [violation](/word/violation)：違反
+- [agreement](/word/agreement/)：合意、同意
+- [violation](/word/violation/)：違反
 
 ---
 
 ## 📖 できればこれも
 
-- [regulation](/word/regulation)：規則、規制
-- [policy](/word/policy)：方針、政策
+- [regulation](/word/regulation/)：規則、規制
+- [policy](/word/policy/)：方針、政策
 
 <!-- cvid: aid42_bid36 -->

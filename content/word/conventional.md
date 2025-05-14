@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や会議の場面で「従来の方法」「慣
 ## 🤔  traditional との違いは？
 
 - **conventional**：一般的に広く受け入れられている、型にはまった、慣習的な
-- **[traditional](/word/traditional)**：伝統的な、長い歴史や文化に根ざした
+- **[traditional](/word/traditional/)**：伝統的な、長い歴史や文化に根ざした
 
 conventionalは「今よく使われている普通の方法」、traditionalは「昔から続く伝統や文化」に重点があります。
 
@@ -105,14 +105,14 @@ conventionalは「今よく使われている普通の方法」、traditionalは
 
 ## 🧩 あわせて覚えたい
 
-- [innovative](/word/innovative)：革新的な、新しい
-- [customary](/word/customary)：習慣的な、慣例の
+- [innovative](/word/innovative/)：革新的な、新しい
+- [customary](/word/customary/)：習慣的な、慣例の
 
 ---
 
 ## 📖 できればこれも
 
-- [typical](/word/typical)：典型的な
-- [standard](/word/standard)：標準の、基準の
+- [typical](/word/typical/)：典型的な
+- [standard](/word/standard/)：標準の、基準の
 
 <!-- cvid: aid11_bid27 -->

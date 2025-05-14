@@ -97,7 +97,7 @@ TOEICでは会議やプロジェクト進行の文脈でよく出題されます
 ## 🤔  promote との違いは？
 
 - **facilitate**：物事やプロセスを円滑に進める・容易にする
-- **[promote](/word/promote)**：積極的に推進・宣伝する、広める
+- **[promote](/word/promote/)**：積極的に推進・宣伝する、広める
 
 facilitateは「進行を助ける」ニュアンス、promoteは「積極的に広める・推進する」ニュアンスで使い分けます。
 
@@ -105,14 +105,14 @@ facilitateは「進行を助ける」ニュアンス、promoteは「積極的に
 
 ## 🧩 あわせて覚えたい
 
-- [assist](/word/assist)：手助けする、補助する
-- [hinder](/word/hinder)：妨げる、邪魔する
+- [assist](/word/assist/)：手助けする、補助する
+- [hinder](/word/hinder/)：妨げる、邪魔する
 
 ---
 
 ## 📖 できればこれも
 
-- [coordinate](/word/coordinate)：調整する、まとめる
-- [arrange](/word/arrange)：手配する、準備する
+- [coordinate](/word/coordinate/)：調整する、まとめる
+- [arrange](/word/arrange/)：手配する、準備する
 
 <!-- cvid: aid27_bid48 -->

@@ -97,7 +97,7 @@ TOEICでは科学技術やエネルギー関連の記事や説明文で見かけ
 ## 🤔  nuclear との違いは？
 
 - **atomic**：原子そのものや原子レベルの性質に関する
-- **[nuclear](/word/nuclear)**：原子核や核エネルギー、核兵器など「核」に関する
+- **[nuclear](/word/nuclear/)**：原子核や核エネルギー、核兵器など「核」に関する
 
 atomicは「原子」全体に関する表現、nuclearは「原子核」や「核エネルギー」に特化した表現です。
 
@@ -105,14 +105,14 @@ atomicは「原子」全体に関する表現、nuclearは「原子核」や「�
 
 ## 🧩 あわせて覚えたい
 
-- [molecular](/word/molecular)：分子の
-- [elementary](/word/elementary)：基本的な、初歩の
+- [molecular](/word/molecular/)：分子の
+- [elementary](/word/elementary/)：基本的な、初歩の
 
 ---
 
 ## 📖 できればこれも
 
-- [chemical](/word/chemical)：化学の、化学的な
-- [physical](/word/physical)：物理的な
+- [chemical](/word/chemical/)：化学の、化学的な
+- [physical](/word/physical/)：物理的な
 
 <!-- cvid: aid23_bid16 -->

@@ -97,7 +97,7 @@ TOEICでは、環境や建築、素材に関する長文や説明文で見かけ
 ## 🤔  timber との違いは？
 
 - **hardwood**：広葉樹やその木材を指し、特に木の種類や材質に注目する語。
-- **[timber](/word/timber)**：建築用材や木材全般を指し、広葉樹・針葉樹を問わず使われる。
+- **[timber](/word/timber/)**：建築用材や木材全般を指し、広葉樹・針葉樹を問わず使われる。
 
 hardwoodは木の種類や材質に焦点を当てるのに対し、timberは用途や木材全般を指すときに使います。
 
@@ -105,14 +105,14 @@ hardwoodは木の種類や材質に焦点を当てるのに対し、timberは用
 
 ## 🧩 あわせて覚えたい
 
-- [softwood](/word/softwood)：針葉樹、針葉樹材
-- [lumber](/word/lumber)：製材、木材（主に北米で使われる）
+- [softwood](/word/softwood/)：針葉樹、針葉樹材
+- [lumber](/word/lumber/)：製材、木材（主に北米で使われる）
 
 ---
 
 ## 📖 できればこれも
 
-- [forest](/word/forest)：森林
-- [material](/word/material)：材料、素材
+- [forest](/word/forest/)：森林
+- [material](/word/material/)：材料、素材
 
 <!-- cvid: aid27_bid23 -->

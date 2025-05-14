@@ -97,7 +97,7 @@ TOEICでは主にビジネスやIT関連の文脈で「生み出す」「発生�
 ## 🤔  create との違いは？
 
 - **generate**：何かを生み出す、特にエネルギーやデータ、結果などを発生させるときに使う
-- **[create](/word/create)**：新しいものを作る、芸術作品やアイデアなど幅広い場面で使う
+- **[create](/word/create/)**：新しいものを作る、芸術作品やアイデアなど幅広い場面で使う
 
 「generate」はプロセスやシステムが自動的に生み出す場合に多く、「create」は人が意図的に作り出す場合に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主にビジネスやIT関連の文脈で「生み出す」「発生�
 
 ## 🧩 あわせて覚えたい
 
-- [produce](/word/produce)：生産する、作り出す
-- [trigger](/word/trigger)：引き起こす、誘発する
+- [produce](/word/produce/)：生産する、作り出す
+- [trigger](/word/trigger/)：引き起こす、誘発する
 
 ---
 
 ## 📖 できればこれも
 
-- [develop](/word/develop)：開発する、発展させる
-- [form](/word/form)：形作る、構成する
+- [develop](/word/develop/)：開発する、発展させる
+- [form](/word/form/)：形作る、構成する
 
 <!-- cvid: aid19_bid37 -->

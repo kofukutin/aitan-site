@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、包装や飾り付けの場面で登場
 ## 🤔  tape との違いは？
 
 - **ribbon**：主に飾りや結ぶための細長い布や紙。
-- **[tape](/word/tape)**：粘着性があり、物を貼り付けたり固定するための細長い素材。
+- **[tape](/word/tape/)**：粘着性があり、物を貼り付けたり固定するための細長い素材。
 
 ribbonは装飾や結ぶ用途、tapeは貼る・固定する用途で使い分けます。
 
@@ -105,14 +105,14 @@ ribbonは装飾や結ぶ用途、tapeは貼る・固定する用途で使い分�
 
 ## 🧩 あわせて覚えたい
 
-- [bow](/word/bow)：リボン結び、蝶結び
-- [string](/word/string)：ひも、細い糸
+- [bow](/word/bow/)：リボン結び、蝶結び
+- [string](/word/string/)：ひも、細い糸
 
 ---
 
 ## 📖 できればこれも
 
-- [envelope](/word/envelope)：封筒
-- [gift](/word/gift)：贈り物
+- [envelope](/word/envelope/)：封筒
+- [gift](/word/gift/)：贈り物
 
 <!-- cvid: aid49_bid19 -->

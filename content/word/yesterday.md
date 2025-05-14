@@ -93,7 +93,7 @@ TOEICでは、日付やスケジュールに関する会話で頻出します。
 ## 🤔  ago との違いは？
 
 - **yesterday**：特定の日付「昨日」を指す
-- **[ago](/word/ago)**：ある期間「～前」を表す
+- **[ago](/word/ago/)**：ある期間「～前」を表す
 
 yesterdayは「昨日」という特定の日を指しますが、agoは「2日前」「3週間前」など期間を表すときに使います。
 
@@ -101,14 +101,14 @@ yesterdayは「昨日」という特定の日を指しますが、agoは「2日�
 
 ## 🧩 あわせて覚えたい
 
-- [today](/word/today)：今日
-- [tomorrow](/word/tomorrow)：明日
+- [today](/word/today/)：今日
+- [tomorrow](/word/tomorrow/)：明日
 
 ---
 
 ## 📖 できればこれも
 
-- [soon](/word/soon)：すぐに
-- [recently](/word/recently)：最近
+- [soon](/word/soon/)：すぐに
+- [recently](/word/recently/)：最近
 
 <!-- cvid: aid21_bid07 -->

@@ -97,7 +97,7 @@ TOEICでは「classical music」や「classical style」など、形容詞とし
 ## 🤔  classic との違いは？
 
 - **classical**：歴史的・伝統的な様式や時代、特に古代ギリシャ・ローマやクラシック音楽などを指す
-- **[classic](/word/classic)**：模範的・代表的・名作の意味で、時代を問わず優れたものに使う
+- **[classic](/word/classic/)**：模範的・代表的・名作の意味で、時代を問わず優れたものに使う
 
 classicalは「伝統や歴史に根ざしたもの」、classicは「時代を超えて評価される名作や代表的なもの」に使い分けます。
 
@@ -105,14 +105,14 @@ classicalは「伝統や歴史に根ざしたもの」、classicは「時代を�
 
 ## 🧩 あわせて覚えたい
 
-- [traditional](/word/traditional)：伝統的な
-- [modern](/word/modern)：現代的な
+- [traditional](/word/traditional/)：伝統的な
+- [modern](/word/modern/)：現代的な
 
 ---
 
 ## 📖 できればこれも
 
-- [ancient](/word/ancient)：古代の
-- [contemporary](/word/contemporary)：現代の
+- [ancient](/word/ancient/)：古代の
+- [contemporary](/word/contemporary/)：現代の
 
 <!-- cvid: aid16_bid34 -->

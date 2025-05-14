@@ -97,7 +97,7 @@ TOEICでは「fill in the blank（空欄を埋める）」や「fill out a form�
 ## 🤔  complete との違いは？
 
 - **fill**：空間や用紙などを「満たす」「記入する」ことに重点がある
-- **[complete](/word/complete)**：作業やプロセスを「完了する」「仕上げる」ことに重点がある
+- **[complete](/word/complete/)**：作業やプロセスを「完了する」「仕上げる」ことに重点がある
 
 fillは「空白を埋める」「必要事項を記入する」など"中身を満たす"ニュアンス、completeは"全体を終わらせる"ニュアンスです。
 
@@ -105,14 +105,14 @@ fillは「空白を埋める」「必要事項を記入する」など"中身を
 
 ## 🧩 あわせて覚えたい
 
-- [empty](/word/empty)：空にする、空の
-- [supply](/word/supply)：供給する、供給
+- [empty](/word/empty/)：空にする、空の
+- [supply](/word/supply/)：供給する、供給
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/word/submit)：提出する
-- [sign](/word/sign)：署名する
+- [submit](/word/submit/)：提出する
+- [sign](/word/sign/)：署名する
 
 <!-- cvid: aid31_bid20 -->

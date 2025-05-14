@@ -97,7 +97,7 @@ TOEICでは、依頼や提案に対して「進んで～する」という前向
 ## 🤔  eager との違いは？
 
 - **willing**：頼まれれば進んでやる、前向きな姿勢
-- **[eager](/word/eager)**：自分から強くやりたがる、熱心な気持ち
+- **[eager](/word/eager/)**：自分から強くやりたがる、熱心な気持ち
 
 「willing」は頼まれたことに対して前向きな姿勢を示し、「eager」は自分から積極的にやりたくてたまらない気持ちを表します。
 
@@ -105,14 +105,14 @@ TOEICでは、依頼や提案に対して「進んで～する」という前向
 
 ## 🧩 あわせて覚えたい
 
-- [reluctant](/word/reluctant)：気が進まない、しぶしぶの（対義語）
-- [volunteer](/word/volunteer)：自発的に申し出る人、ボランティア
+- [reluctant](/word/reluctant/)：気が進まない、しぶしぶの（対義語）
+- [volunteer](/word/volunteer/)：自発的に申し出る人、ボランティア
 
 ---
 
 ## 📖 できればこれも
 
-- [ready](/word/ready)：準備ができている
-- [available](/word/available)：利用できる、手が空いている
+- [ready](/word/ready/)：準備ができている
+- [available](/word/available/)：利用できる、手が空いている
 
 <!-- cvid: aid24_bid01 -->

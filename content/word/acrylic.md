@@ -97,7 +97,7 @@ TOEICでは製品説明や素材に関する長文、仕様書などで見かけ
 ## 🤔  plastic との違いは？
 
 - **acrylic**：アクリル樹脂やアクリル製品など、特定の合成樹脂を指す。
-- **[plastic](/word/plastic)**：プラスチック全般を指し、アクリルもその一種。
+- **[plastic](/word/plastic/)**：プラスチック全般を指し、アクリルもその一種。
 
 acrylicはplasticの一種で、特に透明度や耐久性が求められる場面で使われます。plasticはより広い意味で使われます。
 
@@ -105,14 +105,14 @@ acrylicはplasticの一種で、特に透明度や耐久性が求められる場
 
 ## 🧩 あわせて覚えたい
 
-- [fiber](/word/fiber)：繊維
-- [resin](/word/resin)：樹脂
+- [fiber](/word/fiber/)：繊維
+- [resin](/word/resin/)：樹脂
 
 ---
 
 ## 📖 できればこれも
 
-- [nylon](/word/nylon)：ナイロン（合成繊維の一種）
-- [polyester](/word/polyester)：ポリエステル（合成繊維の一種）
+- [nylon](/word/nylon/)：ナイロン（合成繊維の一種）
+- [polyester](/word/polyester/)：ポリエステル（合成繊維の一種）
 
 <!-- cvid: aid14_bid18 -->

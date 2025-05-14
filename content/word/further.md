@@ -97,7 +97,7 @@ TOEICでは、追加説明や「さらに詳しく」などの文脈でよく出
 ## 🤔  farther との違いは？
 
 - **further**：物理的距離だけでなく、抽象的な「さらに」「追加で」にも使える
-- **[farther](/word/farther)**：主に物理的な距離が「より遠い」場合に使う
+- **[farther](/word/farther/)**：主に物理的な距離が「より遠い」場合に使う
 
 furtherは「議論をさらに深める」など抽象的な広がりにも使えますが、fartherは「より遠くへ行く」など物理的な距離に限定されます。
 
@@ -105,14 +105,14 @@ furtherは「議論をさらに深める」など抽象的な広がりにも使�
 
 ## 🧩 あわせて覚えたい
 
-- [advance](/word/advance)：前進する、進める
-- [additional](/word/additional)：追加の
+- [advance](/word/advance/)：前進する、進める
+- [additional](/word/additional/)：追加の
 
 ---
 
 ## 📖 できればこれも
 
-- [more](/word/more)：もっと多く
-- [beyond](/word/beyond)：～を越えて
+- [more](/word/more/)：もっと多く
+- [beyond](/word/beyond/)：～を越えて
 
 <!-- cvid: aid40_bid07 -->

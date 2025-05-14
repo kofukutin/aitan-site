@@ -97,7 +97,7 @@ TOEICでは医療や事故、システム障害など深刻な結果を表す文
 ## 🤔  deadly との違いは？
 
 - **fatal**：結果として死や破滅をもたらす（不可避な運命や結末を強調）
-- **[deadly](/word/deadly)**：死を引き起こすほど強力・危険（性質や威力を強調）
+- **[deadly](/word/deadly/)**：死を引き起こすほど強力・危険（性質や威力を強調）
 
 fatalは「避けられない死や重大な結果」に焦点があり、deadlyは「死をもたらす力や危険性」に重点があります。
 
@@ -105,14 +105,14 @@ fatalは「避けられない死や重大な結果」に焦点があり、deadly
 
 ## 🧩 あわせて覚えたい
 
-- [harmless](/word/harmless)：無害な
-- [serious](/word/serious)：深刻な
+- [harmless](/word/harmless/)：無害な
+- [serious](/word/serious/)：深刻な
 
 ---
 
 ## 📖 できればこれも
 
-- [injury](/word/injury)：けが
-- [critical](/word/critical)：危篤の、重大な
+- [injury](/word/injury/)：けが
+- [critical](/word/critical/)：危篤の、重大な
 
 <!-- cvid: aid29_bid02 -->

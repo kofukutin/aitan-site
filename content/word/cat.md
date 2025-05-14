@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写問題で、動物や日常的なシーンの説
 ## 🤔  kitten との違いは？
 
 - **cat**：成猫や猫全般を指す一般的な単語
-- **[kitten](/word/kitten)**：子猫（生後1年未満の猫）を指す
+- **[kitten](/word/kitten/)**：子猫（生後1年未満の猫）を指す
 
 catは年齢を問わず猫全体を指しますが、kittenは特に子猫だけを意味します。
 
@@ -105,14 +105,14 @@ catは年齢を問わず猫全体を指しますが、kittenは特に子猫だ�
 
 ## 🧩 あわせて覚えたい
 
-- [dog](/word/dog)：犬
-- [pet](/word/pet)：ペット、飼い動物
+- [dog](/word/dog/)：犬
+- [pet](/word/pet/)：ペット、飼い動物
 
 ---
 
 ## 📖 できればこれも
 
-- [dog](/word/dog)：犬
-- [pet](/word/pet)：ペット、飼い動物
+- [dog](/word/dog/)：犬
+- [pet](/word/pet/)：ペット、飼い動物
 
 <!-- cvid: aid15_bid03 -->

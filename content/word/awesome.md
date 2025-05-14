@@ -97,7 +97,7 @@ You did an awesome job on the project.
 ## 🤔  amazing との違いは？
 
 - **awesome**：カジュアルで「すごい！」「最高！」という強い感動や賞賛を表す。
-- **[amazing](/word/amazing)**：驚きや感心を含む「驚くほど素晴らしい」という意味。
+- **[amazing](/word/amazing/)**：驚きや感心を含む「驚くほど素晴らしい」という意味。
 
 awesomeは感情を強く表現したいときに使い、amazingは「驚き」のニュアンスがやや強いです。
 
@@ -105,14 +105,14 @@ awesomeは感情を強く表現したいときに使い、amazingは「驚き」
 
 ## 🧩 あわせて覚えたい
 
-- [terrific](/word/terrific)：とても素晴らしい
-- [awful](/word/awful)：ひどい、恐ろしい
+- [terrific](/word/terrific/)：とても素晴らしい
+- [awful](/word/awful/)：ひどい、恐ろしい
 
 ---
 
 ## 📖 できればこれも
 
-- [fantastic](/word/fantastic)：素晴らしい、すごい
-- [wonderful](/word/wonderful)：素晴らしい、すてきな
+- [fantastic](/word/fantastic/)：素晴らしい、すごい
+- [wonderful](/word/wonderful/)：素晴らしい、すてきな
 
 <!-- cvid: aid04_bid46 -->

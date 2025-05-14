@@ -97,7 +97,7 @@ TOEICでは主に記事や広告、カジュアルな会話文で登場するこ
 ## 🤔  celebrities との違いは？
 
 - **celebs**：カジュアルで親しみやすい「有名人」の複数形
-- **[celebrities](/word/celebrities)**：フォーマルで一般的な「有名人」の複数形
+- **[celebrities](/word/celebrities/)**：フォーマルで一般的な「有名人」の複数形
 
 「celebs」は会話やSNSなどカジュアルな場面で使われ、「celebrities」はニュースや正式な文書で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主に記事や広告、カジュアルな会話文で登場するこ
 
 ## 🧩 あわせて覚えたい
 
-- [star](/word/star)：スター、有名人
+- [star](/word/star/)：スター、有名人
 - [VIP](/VIP)：重要人物、特別待遇を受ける人
 
 ---
 
 ## 📖 できればこれも
 
-- [fame](/word/fame)：名声
-- [trend](/word/trend)：流行
+- [fame](/word/fame/)：名声
+- [trend](/word/trend/)：流行
 
 <!-- cvid: aid25_bid11 -->

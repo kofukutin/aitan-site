@@ -97,7 +97,7 @@ TOEICでは、会社のイベントや健康に関する話題、地域活動の
 ## 🤔  exercise との違いは？
 
 - **sport**：競技性やルールのある運動、楽しみや対戦を目的とする活動。
-- **[exercise](/word/exercise)**：健康や体力維持のための運動、競技性は問わない。
+- **[exercise](/word/exercise/)**：健康や体力維持のための運動、競技性は問わない。
 
 「sport」はサッカーや野球などの競技を指し、「exercise」はジョギングやストレッチなど健康目的の運動を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、会社のイベントや健康に関する話題、地域活動の
 
 ## 🧩 あわせて覚えたい
 
-- [game](/word/game)：試合、遊び
-- [competition](/word/competition)：競争、コンテスト
+- [game](/word/game/)：試合、遊び
+- [competition](/word/competition/)：競争、コンテスト
 
 ---
 
 ## 📖 できればこれも
 
-- [team](/word/team)：チーム、団体
-- [player](/word/player)：選手、プレーヤー
+- [team](/word/team/)：チーム、団体
+- [player](/word/player/)：選手、プレーヤー
 
 <!-- cvid: aid22_bid45 -->

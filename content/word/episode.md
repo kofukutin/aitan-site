@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文やEメール、案内文などで「番組の1�
 ## 🤔  incident との違いは？
 
 - **episode**：物語や人生の中の一つの出来事や、連続する番組の「1話」など幅広い意味で使う
-- **[incident](/word/incident)**：主に予期しない出来事や事件、特に問題やトラブルを指す
+- **[incident](/word/incident/)**：主に予期しない出来事や事件、特に問題やトラブルを指す
 
 episodeは中立的な出来事や物語の一部を指し、incidentは予期せぬ事件やトラブルなど、ややネガティブなニュアンスで使われます。
 
@@ -105,14 +105,14 @@ episodeは中立的な出来事や物語の一部を指し、incidentは予期�
 
 ## 🧩 あわせて覚えたい
 
-- [story](/word/story)：物語、話
-- [event](/word/event)：出来事、行事
+- [story](/word/story/)：物語、話
+- [event](/word/event/)：出来事、行事
 
 ---
 
 ## 📖 できればこれも
 
-- [chapter](/word/chapter)：（本や物語の）章
-- [scene](/word/scene)：場面、シーン
+- [chapter](/word/chapter/)：（本や物語の）章
+- [scene](/word/scene/)：場面、シーン
 
 <!-- cvid: aid05_bid42 -->

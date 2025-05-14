@@ -97,7 +97,7 @@ TOEICでは求人広告や商品案内、Eメールなどで「description」が
 ## 🤔  explanation との違いは？
 
 - **description**：物事の特徴や様子を詳しく言葉で描写すること
-- **[explanation](/word/explanation)**：理由や原因、仕組みなどを分かりやすく説明すること
+- **[explanation](/word/explanation/)**：理由や原因、仕組みなどを分かりやすく説明すること
 
 descriptionは「どんなものか」を伝える描写的な説明、explanationは「なぜそうなのか」を伝える論理的な説明に使います。
 
@@ -105,14 +105,14 @@ descriptionは「どんなものか」を伝える描写的な説明、explanati
 
 ## 🧩 あわせて覚えたい
 
-- [specification](/word/specification)：仕様書、詳細な説明
-- [summary](/word/summary)：要約、まとめ
+- [specification](/word/specification/)：仕様書、詳細な説明
+- [summary](/word/summary/)：要約、まとめ
 
 ---
 
 ## 📖 できればこれも
 
-- [detail](/word/detail)：詳細、細部
-- [statement](/word/statement)：声明、陳述
+- [detail](/word/detail/)：詳細、細部
+- [statement](/word/statement/)：声明、陳述
 
 <!-- cvid: aid35_bid37 -->

@@ -97,7 +97,7 @@ She built a business empire from scratch.
 ## 🤔  kingdom との違いは？
 
 - **empire**：複数の国や地域を支配する大規模な「帝国」や巨大組織
-- **[kingdom](/word/kingdom)**：王が治める「王国」、単一国家の意味が強い
+- **[kingdom](/word/kingdom/)**：王が治める「王国」、単一国家の意味が強い
 
 empireは広範囲・多民族を支配する大きな組織や国家、kingdomは一人の王が治める比較的まとまった国を指します。
 
@@ -105,14 +105,14 @@ empireは広範囲・多民族を支配する大きな組織や国家、kingdom�
 
 ## 🧩 あわせて覚えたい
 
-- [dynasty](/word/dynasty)：王朝、同じ家系による支配
-- [republic](/word/republic)：共和国、国民が主権を持つ国家
+- [dynasty](/word/dynasty/)：王朝、同じ家系による支配
+- [republic](/word/republic/)：共和国、国民が主権を持つ国家
 
 ---
 
 ## 📖 できればこれも
 
-- [emperor](/word/emperor)：皇帝
-- [colony](/word/colony)：植民地
+- [emperor](/word/emperor/)：皇帝
+- [colony](/word/colony/)：植民地
 
 <!-- cvid: aid06_bid22 -->

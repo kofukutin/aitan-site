@@ -98,7 +98,7 @@ TOEICでは科学や技術、ビジネスの説明文で「fluid」が登場す�
 ## 🤔  liquid との違いは？
 
 - **fluid**：液体・気体など「流れる性質を持つもの」全般を指す
-- **[liquid](/word/liquid)**：液体のみを指す
+- **[liquid](/word/liquid/)**：液体のみを指す
 
 fluidは「流体」全般（液体＋気体）を指し、liquidは「液体」だけを限定的に指します。
 
@@ -106,14 +106,14 @@ fluidは「流体」全般（液体＋気体）を指し、liquidは「液体」
 
 ## 🧩 あわせて覚えたい
 
-- [gas](/word/gas)：気体
-- [solution](/word/solution)：溶液
+- [gas](/word/gas/)：気体
+- [solution](/word/solution/)：溶液
 
 ---
 
 ## 📖 できればこれも
 
-- [solid](/word/solid)：固体
-- [substance](/word/substance)：物質
+- [solid](/word/solid/)：固体
+- [substance](/word/substance/)：物質
 
 <!-- cvid: aid37_bid19 -->

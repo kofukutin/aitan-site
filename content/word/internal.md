@@ -97,7 +97,7 @@ TOEICでは「internal meeting（社内会議）」や「internal document（社
 ## 🤔  domestic との違いは？
 
 - **internal**：組織や物の「内部」「内面」に関する
-- **[domestic](/word/domestic)**：国や家庭など「国内」「家庭内」に関する
+- **[domestic](/word/domestic/)**：国や家庭など「国内」「家庭内」に関する
 
 internalは会社や組織、物の内部など"内側"全般を指しますが、domesticは「国」や「家庭」などの"内側"に限定される点が異なります。
 
@@ -105,14 +105,14 @@ internalは会社や組織、物の内部など"内側"全般を指しますが�
 
 ## 🧩 あわせて覚えたい
 
-- [external](/word/external)：外部の、外側の
-- [inside](/word/inside)：内側、内部
+- [external](/word/external/)：外部の、外側の
+- [inside](/word/inside/)：内側、内部
 
 ---
 
 ## 📖 できればこれも
 
-- [external](/word/external)：外部の、外側の
-- [corporate](/word/corporate)：企業の、法人の
+- [external](/word/external/)：外部の、外側の
+- [corporate](/word/corporate/)：企業の、法人の
 
 <!-- cvid: aid27_bid28 -->

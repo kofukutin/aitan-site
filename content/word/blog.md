@@ -97,7 +97,7 @@ TOEICでは、ウェブサイトやIT関連の話題が出る長文問題で「b
 ## 🤔  website との違いは？
 
 - **blog**：個人や団体が定期的に記事や日記を投稿するウェブサイト、またはその記事自体を指す。
-- **[website](/word/website)**：インターネット上のあらゆるウェブページの集合体を指し、内容や形式は問わない。
+- **[website](/word/website/)**：インターネット上のあらゆるウェブページの集合体を指し、内容や形式は問わない。
 
 blogは「更新される記事が中心」のサイト、websiteは「全般的なウェブページ」を指す点が異なります。
 
@@ -105,14 +105,14 @@ blogは「更新される記事が中心」のサイト、websiteは「全般的
 
 ## 🧩 あわせて覚えたい
 
-- [journal](/word/journal)：日記、記録
-- [platform](/word/platform)：基盤、サービスの場
+- [journal](/word/journal/)：日記、記録
+- [platform](/word/platform/)：基盤、サービスの場
 
 ---
 
 ## 📖 できればこれも
 
-- [post](/word/post)：投稿、記事
-- [content](/word/content)：内容、中身
+- [post](/word/post/)：投稿、記事
+- [content](/word/content/)：内容、中身
 
 <!-- cvid: aid21_bid47 -->

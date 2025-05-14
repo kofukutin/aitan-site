@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、ボウリング場やボウリング
 ## 🤔  billiards との違いは？
 
 - **bowling**：ボールを転がしてピンを倒すスポーツ。
-- **[billiards](/word/billiards)**：テーブル上でキューを使いボールを突くビリヤード。
+- **[billiards](/word/billiards/)**：テーブル上でキューを使いボールを突くビリヤード。
 
 bowlingはレーン上でピンを倒すスポーツ、billiardsはテーブル上でボールを突くゲームで、場所や道具が大きく異なります。
 
@@ -105,14 +105,14 @@ bowlingはレーン上でピンを倒すスポーツ、billiardsはテーブル�
 
 ## 🧩 あわせて覚えたい
 
-- [golf](/word/golf)：ゴルフ（クラブでボールを打つスポーツ）
-- [tennis](/word/tennis)：テニス（ラケットでボールを打ち合うスポーツ）
+- [golf](/word/golf/)：ゴルフ（クラブでボールを打つスポーツ）
+- [tennis](/word/tennis/)：テニス（ラケットでボールを打ち合うスポーツ）
 
 ---
 
 ## 📖 できればこれも
 
-- [swimming](/word/swimming)：水泳
-- [cycling](/word/cycling)：サイクリング
+- [swimming](/word/swimming/)：水泳
+- [cycling](/word/cycling/)：サイクリング
 
 <!-- cvid: aid41_bid12 -->

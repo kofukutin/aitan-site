@@ -97,7 +97,7 @@ TOEICでは、長文読解やEメール文中で「手がかり」「ヒント�
 ## 🤔  hint との違いは？
 
 - **clue**：問題解決や謎解きのための「具体的な手がかり」
-- **[hint](/word/hint)**：やんわりとした「ヒント」や「示唆」
+- **[hint](/word/hint/)**：やんわりとした「ヒント」や「示唆」
 
 clueは推理や調査などで使う「決定的な手がかり」、hintは控えめな助言や示唆に使われます。
 
@@ -105,14 +105,14 @@ clueは推理や調査などで使う「決定的な手がかり」、hintは控
 
 ## 🧩 あわせて覚えたい
 
-- [evidence](/word/evidence)：証拠
-- [solution](/word/solution)：解決策
+- [evidence](/word/evidence/)：証拠
+- [solution](/word/solution/)：解決策
 
 ---
 
 ## 📖 できればこれも
 
-- [hint](/word/hint)：ヒント、示唆
-- [evidence](/word/evidence)：証拠
+- [hint](/word/hint/)：ヒント、示唆
+- [evidence](/word/evidence/)：証拠
 
 <!-- cvid: aid23_bid15 -->

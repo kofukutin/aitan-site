@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「期待外れ」や「がっかりした気持
 ## 🤔  frustrated との違いは？
 
 - **disappointed**：期待が外れてがっかりした気持ち
-- **[frustrated](/word/frustrated)**：思い通りにいかずイライラ・もどかしい気持ち
+- **[frustrated](/word/frustrated/)**：思い通りにいかずイライラ・もどかしい気持ち
 
 disappointedは「期待が裏切られて落ち込む」感情、frustratedは「うまくいかずイライラする」感情を表します。
 
@@ -105,14 +105,14 @@ disappointedは「期待が裏切られて落ち込む」感情、frustratedは�
 
 ## 🧩 あわせて覚えたい
 
-- [satisfied](/word/satisfied)：満足した
-- [upset](/word/upset)：動揺した、気分が悪い
+- [satisfied](/word/satisfied/)：満足した
+- [upset](/word/upset/)：動揺した、気分が悪い
 
 ---
 
 ## 📖 できればこれも
 
-- [excited](/word/excited)：わくわくした
-- [confused](/word/confused)：混乱した
+- [excited](/word/excited/)：わくわくした
+- [confused](/word/confused/)：混乱した
 
 <!-- cvid: aid10_bid06 -->

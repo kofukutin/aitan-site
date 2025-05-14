@@ -97,7 +97,7 @@ TOEICでは主にアメリカ文化や祝日に関する長文やメール文中
 ## 🤔  gratitude との違いは？
 
 - **thanksgiving**：感謝祭という祝日や、感謝の気持ちそのものを指す名詞
-- **[gratitude](/word/gratitude)**：心の中の「感謝の念」や「ありがたみ」を表す名詞
+- **[gratitude](/word/gratitude/)**：心の中の「感謝の念」や「ありがたみ」を表す名詞
 
 thanksgivingはイベントや行事としての「感謝」、gratitudeは個人の内面的な「感謝の気持ち」を強調します。
 
@@ -105,14 +105,14 @@ thanksgivingはイベントや行事としての「感謝」、gratitudeは個�
 
 ## 🧩 あわせて覚えたい
 
-- [appreciation](/word/appreciation)：感謝、評価
-- [celebration](/word/celebration)：祝賀、祝い
+- [appreciation](/word/appreciation/)：感謝、評価
+- [celebration](/word/celebration/)：祝賀、祝い
 
 ---
 
 ## 📖 できればこれも
 
-- [harvest](/word/harvest)：収穫
-- [festival](/word/festival)：祭り
+- [harvest](/word/harvest/)：収穫
+- [festival](/word/festival/)：祭り
 
 <!-- cvid: aid23_bid47 -->

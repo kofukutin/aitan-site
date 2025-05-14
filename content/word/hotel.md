@@ -97,7 +97,7 @@ TOEICでは宿泊や出張、旅行に関する長文や案内文でよく登場
 ## 🤔  inn との違いは？
 
 - **hotel**：都市や観光地に多く、設備やサービスが充実した宿泊施設。
-- **[inn](/word/inn)**：小規模で家庭的な雰囲気の宿や旅館。
+- **[inn](/word/inn/)**：小規模で家庭的な雰囲気の宿や旅館。
 
 hotelは近代的でサービスが整った施設、innは伝統的・家庭的な小さな宿に使われることが多いです。
 
@@ -105,14 +105,14 @@ hotelは近代的でサービスが整った施設、innは伝統的・家庭的
 
 ## 🧩 あわせて覚えたい
 
-- [resort](/word/resort)：リゾート、休暇用の大型宿泊施設
-- [hostel](/word/hostel)：ホステル、安価な宿泊施設
+- [resort](/word/resort/)：リゾート、休暇用の大型宿泊施設
+- [hostel](/word/hostel/)：ホステル、安価な宿泊施設
 
 ---
 
 ## 📖 できればこれも
 
-- [restaurant](/word/restaurant)：レストラン、飲食店
-- [airport](/word/airport)：空港
+- [restaurant](/word/restaurant/)：レストラン、飲食店
+- [airport](/word/airport/)：空港
 
 <!-- cvid: aid10_bid30 -->

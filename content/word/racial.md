@@ -97,7 +97,7 @@ TOEICでは、社会問題や多様性に関する長文や記事で見かける
 ## 🤔  ethnic との違いは？
 
 - **racial**：人種に関する、肌の色や遺伝的特徴など生物学的な違いに焦点を当てる
-- **[ethnic](/word/ethnic)**：民族に関する、文化・伝統・言語など社会的な集団の違いに焦点を当てる
+- **[ethnic](/word/ethnic/)**：民族に関する、文化・伝統・言語など社会的な集団の違いに焦点を当てる
 
 racialは「人種」という生物学的な区分を指し、ethnicは「民族」という文化的・社会的な区分を指す点が異なります。
 
@@ -105,14 +105,14 @@ racialは「人種」という生物学的な区分を指し、ethnicは「民�
 
 ## 🧩 あわせて覚えたい
 
-- [discrimination](/word/discrimination)：差別
-- [diversity](/word/diversity)：多様性
+- [discrimination](/word/discrimination/)：差別
+- [diversity](/word/diversity/)：多様性
 
 ---
 
 ## 📖 できればこれも
 
-- [cultural](/word/cultural)：文化の
-- [national](/word/national)：国の、国家の
+- [cultural](/word/cultural/)：文化の
+- [national](/word/national/)：国の、国家の
 
 <!-- cvid: aid04_bid45 -->

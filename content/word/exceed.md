@@ -97,7 +97,7 @@ TOEICでは「exceed expectations（期待を超える）」や「exceed the lim
 ## 🤔  surpass との違いは？
 
 - **exceed**：数量や基準・限度を「超える」「上回る」ときに使う、フォーマルな表現。
-- **[surpass](/word/surpass)**：能力や成績、期待などを「しのぐ」「上回る」ときに使い、やや感情的・賞賛のニュアンスが強い。
+- **[surpass](/word/surpass/)**：能力や成績、期待などを「しのぐ」「上回る」ときに使い、やや感情的・賞賛のニュアンスが強い。
 
 exceedは客観的な数値や基準を超える場合、surpassは主観的な評価や期待をしのぐ場合に使い分けます。
 
@@ -105,14 +105,14 @@ exceedは客観的な数値や基準を超える場合、surpassは主観的な�
 
 ## 🧩 あわせて覚えたい
 
-- [overcome](/word/overcome)：克服する
-- [limit](/word/limit)：限界、制限
+- [overcome](/word/overcome/)：克服する
+- [limit](/word/limit/)：限界、制限
 
 ---
 
 ## 📖 できればこれも
 
-- [achieve](/word/achieve)：達成する
-- [increase](/word/increase)：増加する
+- [achieve](/word/achieve/)：達成する
+- [increase](/word/increase/)：増加する
 
 <!-- cvid: aid40_bid34 -->

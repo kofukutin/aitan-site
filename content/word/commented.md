@@ -97,7 +97,7 @@ TOEICでは会議やビジネスの会話文で「意見を述べる」「コメ
 ## 🤔  remarked との違いは？
 
 - **commented**：意見や感想を述べる、コメントする（中立的・説明的）
-- **[remarked](/word/remarked)**：気づいたことや印象を述べる（ややフォーマル・観察的）
+- **[remarked](/word/remarked/)**：気づいたことや印象を述べる（ややフォーマル・観察的）
 
 commentedは一般的な意見や説明に使い、remarkedは何かに気づいたときや印象を述べるときに使われます。
 
@@ -105,14 +105,14 @@ commentedは一般的な意見や説明に使い、remarkedは何かに気づい
 
 ## 🧩 あわせて覚えたい
 
-- [state](/word/state)：述べる、明言する
-- [mention](/word/mention)：言及する
+- [state](/word/state/)：述べる、明言する
+- [mention](/word/mention/)：言及する
 
 ---
 
 ## 📖 できればこれも
 
-- [discuss](/word/discuss)：議論する
-- [suggest](/word/suggest)：提案する
+- [discuss](/word/discuss/)：議論する
+- [suggest](/word/suggest/)：提案する
 
 <!-- cvid: aid40_bid34 -->

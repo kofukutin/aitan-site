@@ -97,7 +97,7 @@ TOEICではビジネス文書やメール、記事などで「海外拠点」「
 ## 🤔  overseas との違いは？
 
 - **offshore**：主にビジネスや経済活動で「海外の」「沖合の」を表すフォーマルな語。
-- **[overseas](/word/overseas)**：単に「海外の」「海外へ」を広く表し、日常会話でもよく使う。
+- **[overseas](/word/overseas/)**：単に「海外の」「海外へ」を広く表し、日常会話でもよく使う。
 
 offshoreは特に企業活動や生産拠点の「海外移転」など限定的な場面で使われ、overseasはより一般的に「海外」を指します。
 
@@ -105,14 +105,14 @@ offshoreは特に企業活動や生産拠点の「海外移転」など限定的
 
 ## 🧩 あわせて覚えたい
 
-- [domestic](/word/domestic)：国内の
-- [abroad](/word/abroad)：海外で、海外へ
+- [domestic](/word/domestic/)：国内の
+- [abroad](/word/abroad/)：海外で、海外へ
 
 ---
 
 ## 📖 できればこれも
 
-- [remote](/word/remote)：遠隔の、遠い
-- [external](/word/external)：外部の、外の
+- [remote](/word/remote/)：遠隔の、遠い
+- [external](/word/external/)：外部の、外の
 
 <!-- cvid: aid37_bid23 -->

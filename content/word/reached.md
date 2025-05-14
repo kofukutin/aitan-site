@@ -98,7 +98,7 @@ TOEICでは、目的地への到着や目標達成、連絡を取る場面でよ
 ## 🤔  arrive との違いは？
 
 - **reached**：目的地や目標に「到達した」「連絡した」など幅広く使える
-- **[arrive](/word/arrive)**：「到着する」の意味で、場所に着くことに特化
+- **[arrive](/word/arrive/)**：「到着する」の意味で、場所に着くことに特化
 
 reachedは「目標達成」や「連絡」など幅広い到達を表し、arriveは「場所に着く」ことだけに使います。
 
@@ -106,14 +106,14 @@ reachedは「目標達成」や「連絡」など幅広い到達を表し、arri
 
 ## 🧩 あわせて覚えたい
 
-- [contact](/word/contact)：連絡する
-- [achieve](/word/achieve)：達成する
+- [contact](/word/contact/)：連絡する
+- [achieve](/word/achieve/)：達成する
 
 ---
 
 ## 📖 できればこれも
 
-- [send](/word/send)：送る
-- [receive](/word/receive)：受け取る
+- [send](/word/send/)：送る
+- [receive](/word/receive/)：受け取る
 
 <!-- cvid: aid29_bid27 -->

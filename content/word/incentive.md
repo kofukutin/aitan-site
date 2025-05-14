@@ -97,7 +97,7 @@ TOEICでは、ビジネスメールや社内通知、求人広告などで「報
 ## 🤔  motivation との違いは？
 
 - **incentive**：外部から与えられる報奨や誘因
-- **[motivation](/word/motivation)**：内面的なやる気や意欲
+- **[motivation](/word/motivation/)**：内面的なやる気や意欲
 
 incentiveは「外から与えられるきっかけ」、motivationは「自分の内側から湧き上がる気持ち」を指します。
 
@@ -105,14 +105,14 @@ incentiveは「外から与えられるきっかけ」、motivationは「自分�
 
 ## 🧩 あわせて覚えたい
 
-- [reward](/word/reward)：報酬、褒美
-- [penalty](/word/penalty)：罰、ペナルティ
+- [reward](/word/reward/)：報酬、褒美
+- [penalty](/word/penalty/)：罰、ペナルティ
 
 ---
 
 ## 📖 できればこれも
 
-- [bonus](/word/bonus)：ボーナス、特別手当
-- [benefit](/word/benefit)：福利厚生、利益
+- [bonus](/word/bonus/)：ボーナス、特別手当
+- [benefit](/word/benefit/)：福利厚生、利益
 
 <!-- cvid: aid09_bid27 -->

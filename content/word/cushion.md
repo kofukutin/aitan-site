@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、椅子やソファの上に置かれて
 ## 🤔  pillow との違いは？
 
 - **cushion**：椅子やソファの上に置く柔らかいパッドや緩衝材
-- **[pillow](/word/pillow)**：寝るときに頭の下に置く枕
+- **[pillow](/word/pillow/)**：寝るときに頭の下に置く枕
 
 cushionは座るときや装飾用、衝撃吸収用に使い、pillowは主に睡眠時に頭を支えるために使います。
 
@@ -105,14 +105,14 @@ cushionは座るときや装飾用、衝撃吸収用に使い、pillowは主に�
 
 ## 🧩 あわせて覚えたい
 
-- [sofa](/word/sofa)：ソファ、長椅子
-- [pad](/word/pad)：パッド、詰め物
+- [sofa](/word/sofa/)：ソファ、長椅子
+- [pad](/word/pad/)：パッド、詰め物
 
 ---
 
 ## 📖 できればこれも
 
-- [blanket](/word/blanket)：毛布
-- [carpet](/word/carpet)：カーペット、じゅうたん
+- [blanket](/word/blanket/)：毛布
+- [carpet](/word/carpet/)：カーペット、じゅうたん
 
 <!-- cvid: aid47_bid30 -->

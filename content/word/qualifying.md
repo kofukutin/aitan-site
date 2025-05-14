@@ -97,7 +97,7 @@ TOEICでは、資格や条件を表す文脈で形容詞として出題される
 ## 🤔  eligible との違いは？
 
 - **qualifying**：資格を得るための、条件を満たすための
-- **[eligible](/word/eligible)**：資格がある、条件を満たしている
+- **[eligible](/word/eligible/)**：資格がある、条件を満たしている
 
 「qualifying」は「資格を得るための過程や条件」に焦点があり、「eligible」は「すでに資格がある状態」を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、資格や条件を表す文脈で形容詞として出題される
 
 ## 🧩 あわせて覚えたい
 
-- [preliminary](/word/preliminary)：予備の、準備の
-- [disqualify](/word/disqualify)：失格にする
+- [preliminary](/word/preliminary/)：予備の、準備の
+- [disqualify](/word/disqualify/)：失格にする
 
 ---
 
 ## 📖 できればこれも
 
-- [requirement](/word/requirement)：必要条件
-- [applicant](/word/applicant)：応募者
+- [requirement](/word/requirement/)：必要条件
+- [applicant](/word/applicant/)：応募者
 
 <!-- cvid: aid18_bid01 -->

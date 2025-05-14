@@ -100,7 +100,7 @@ hateはdislikeやpreferなどと並んで頻出の基本語です。
 ## 🤔  dislike との違いは？
 
 - **hate**：強い嫌悪や憎しみを表す。感情が激しい。
-- **[dislike](/word/dislike)**：単に「好きでない」「苦手」程度の軽い否定感。
+- **[dislike](/word/dislike/)**：単に「好きでない」「苦手」程度の軽い否定感。
 
 hateは感情が強く、場合によっては攻撃的な印象も与えます。dislikeはより穏やかで、日常的な「苦手」や「好まない」気持ちを表します。
 
@@ -108,14 +108,14 @@ hateは感情が強く、場合によっては攻撃的な印象も与えます�
 
 ## 🧩 あわせて覚えたい
 
-- [love](/word/love)：愛する、好き
-- [detest](/word/detest)：ひどく嫌う（hateよりもフォーマルで強い）
+- [love](/word/love/)：愛する、好き
+- [detest](/word/detest/)：ひどく嫌う（hateよりもフォーマルで強い）
 
 ---
 
 ## 📖 できればこれも
 
-- [prefer](/word/prefer)：より好む
-- [enjoy](/word/enjoy)：楽しむ
+- [prefer](/word/prefer/)：より好む
+- [enjoy](/word/enjoy/)：楽しむ
 
 <!-- cvid: aid47_bid41 -->

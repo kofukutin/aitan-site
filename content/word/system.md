@@ -97,7 +97,7 @@ TOEICではITやビジネスの文脈で頻出し、制度や仕組みを説明�
 ## 🤔  structure との違いは？
 
 - **system**：複数の要素が連携して機能する仕組みや制度
-- **[structure](/word/structure)**：物理的・抽象的な「構造」や「枠組み」
+- **[structure](/word/structure/)**：物理的・抽象的な「構造」や「枠組み」
 
 systemは「機能する仕組み」、structureは「形や枠組み」に重点があり、systemの方が動きや働きを強調します。
 
@@ -105,14 +105,14 @@ systemは「機能する仕組み」、structureは「形や枠組み」に重�
 
 ## 🧩 あわせて覚えたい
 
-- [network](/word/network)：ネットワーク、つながり
-- [process](/word/process)：過程、手順
+- [network](/word/network/)：ネットワーク、つながり
+- [process](/word/process/)：過程、手順
 
 ---
 
 ## 📖 できればこれも
 
-- [method](/word/method)：方法、やり方
-- [device](/word/device)：装置、機器
+- [method](/word/method/)：方法、やり方
+- [device](/word/device/)：装置、機器
 
 <!-- cvid: aid23_bid37 -->

@@ -97,7 +97,7 @@ monitoringはITやビジネスの現場でよく使われ、TOEICでは会議や
 ## 🤔  observation との違いは？
 
 - **monitoring**：継続的・定期的に監視や観察を行い、変化や異常をチェックすること
-- **[observation](/word/observation)**：単に観察すること、または観察から得た所見
+- **[observation](/word/observation/)**：単に観察すること、または観察から得た所見
 
 monitoringは「監視」や「管理」のニュアンスが強く、状況を継続的に追いかける場合に使います。observationは一時的な観察や、観察そのものに重点を置くときに使われます。
 
@@ -105,14 +105,14 @@ monitoringは「監視」や「管理」のニュアンスが強く、状況を�
 
 ## 🧩 あわせて覚えたい
 
-- [inspection](/word/inspection)：検査、点検
-- [supervision](/word/supervision)：監督、指導
+- [inspection](/word/inspection/)：検査、点検
+- [supervision](/word/supervision/)：監督、指導
 
 ---
 
 ## 📖 できればこれも
 
-- [tracking](/word/tracking)：追跡、トラッキング
-- [analysis](/word/analysis)：分析
+- [tracking](/word/tracking/)：追跡、トラッキング
+- [analysis](/word/analysis/)：分析
 
 <!-- cvid: aid32_bid19 -->

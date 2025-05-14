@@ -98,7 +98,7 @@ remixはITやメディア関連の長文やEメール、広告文などで登場
 ## 🤔  rearrange との違いは？
 
 - **remix**：主に音楽や映像などの素材を再編集し、新しいバージョンを作ること。
-- **[rearrange](/word/rearrange)**：順序や配置を変えること全般に使い、音楽以外にも幅広く使う。
+- **[rearrange](/word/rearrange/)**：順序や配置を変えること全般に使い、音楽以外にも幅広く使う。
 
 remixは「創造的な再編集」に重点があり、rearrangeは「並べ替え」や「再配置」といった物理的・抽象的な順序変更に使います。
 
@@ -106,14 +106,14 @@ remixは「創造的な再編集」に重点があり、rearrangeは「並べ替
 
 ## 🧩 あわせて覚えたい
 
-- [edit](/word/edit)：編集する
-- [modify](/word/modify)：修正する
+- [edit](/word/edit/)：編集する
+- [modify](/word/modify/)：修正する
 
 ---
 
 ## 📖 できればこれも
 
-- [compose](/word/compose)：作曲する、構成する
-- [adjust](/word/adjust)：調整する
+- [compose](/word/compose/)：作曲する、構成する
+- [adjust](/word/adjust/)：調整する
 
 <!-- cvid: aid43_bid40 -->

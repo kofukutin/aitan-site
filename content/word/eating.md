@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「食事」や「食べること」に関する
 ## 🤔  meal との違いは？
 
 - **eating**：食べる行為や食事そのもの（行為や一般的な意味）
-- **[meal](/word/meal)**：特定の「食事」（朝食・昼食・夕食など）
+- **[meal](/word/meal/)**：特定の「食事」（朝食・昼食・夕食など）
 
 eatingは「食べること」全般を指し、mealは「1回分の食事」という具体的な場面で使います。
 
@@ -105,14 +105,14 @@ eatingは「食べること」全般を指し、mealは「1回分の食事」と
 
 ## 🧩 あわせて覚えたい
 
-- [diet](/word/diet)：食事、食生活
-- [snack](/word/snack)：軽食、おやつ
+- [diet](/word/diet/)：食事、食生活
+- [snack](/word/snack/)：軽食、おやつ
 
 ---
 
 ## 📖 できればこれも
 
-- [drink](/word/drink)：飲む、飲み物
-- [cook](/word/cook)：料理する、料理人
+- [drink](/word/drink/)：飲む、飲み物
+- [cook](/word/cook/)：料理する、料理人
 
 <!-- cvid: aid29_bid40 -->

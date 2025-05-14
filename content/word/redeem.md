@@ -97,7 +97,7 @@ redeemはTOEICのPart 5で、クーポンやポイントの引き換え、債券
 ## 🤔  recover との違いは？
 
 - **redeem**：失った価値や名誉、ポイントなどを「取り戻す」「埋め合わせる」「引き換える」など、フォーマルで限定的な場面で使う。
-- **[recover](/word/recover)**：健康や損失、データなど「回復する」「取り戻す」と広く使う。
+- **[recover](/word/recover/)**：健康や損失、データなど「回復する」「取り戻す」と広く使う。
 
 redeemは「価値や名誉、ポイントなどを回復・交換する」など限定的・フォーマルな場面で使い、recoverは「健康・損失・データ」など幅広い「回復」に使います。
 
@@ -105,13 +105,13 @@ redeemは「価値や名誉、ポイントなどを回復・交換する」な�
 
 ## 🧩 あわせて覚えたい
 
-- [exchange](/word/exchange)：交換する
-- [compensate](/word/compensate)：補償する、埋め合わせる
+- [exchange](/word/exchange/)：交換する
+- [compensate](/word/compensate/)：補償する、埋め合わせる
 
 ---
 
 ## 📖 できればこれも
 
-- [refund](/word/refund)：返金する
-- [replace](/word/replace)：取り替える、交換する
+- [refund](/word/refund/)：返金する
+- [replace](/word/replace/)：取り替える、交換する
 <!-- cvid: aid12_bid33 -->

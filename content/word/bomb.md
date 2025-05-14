@@ -97,7 +97,7 @@ TOEICでは空港や公共施設の安全に関する会話や説明文で登場
 ## 🤔  explode との違いは？
 
 - **bomb**：爆発する装置や武器そのものを指す
-- **[explode](/word/explode)**：爆発するという動作や現象を指す
+- **[explode](/word/explode/)**：爆発するという動作や現象を指す
 
 bombは「もの（爆弾）」、explodeは「動作（爆発する）」を表します。爆弾（bomb）が爆発する（explode）という関係です。
 
@@ -105,14 +105,14 @@ bombは「もの（爆弾）」、explodeは「動作（爆発する）」を表
 
 ## 🧩 あわせて覚えたい
 
-- [weapon](/word/weapon)：武器
-- [blast](/word/blast)：爆風、突風
+- [weapon](/word/weapon/)：武器
+- [blast](/word/blast/)：爆風、突風
 
 ---
 
 ## 📖 できればこれも
 
-- [alarm](/word/alarm)：警報
-- [danger](/word/danger)：危険
+- [alarm](/word/alarm/)：警報
+- [danger](/word/danger/)：危険
 
 <!-- cvid: aid10_bid30 -->

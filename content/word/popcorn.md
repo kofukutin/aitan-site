@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、映画館やイベントのシーン
 ## 🤔  snack との違いは？
 
 - **popcorn**：トウモロコシを加熱して作る特定のスナック。
-- **[snack](/word/snack)**：軽食やおやつ全般を指す一般的な言葉。
+- **[snack](/word/snack/)**：軽食やおやつ全般を指す一般的な言葉。
 
 popcornは具体的な食べ物、snackは広い意味で使われます。
 
@@ -105,14 +105,14 @@ popcornは具体的な食べ物、snackは広い意味で使われます。
 
 ## 🧩 あわせて覚えたい
 
-- [corn](/word/corn)：トウモロコシ
-- [candy](/word/candy)：キャンディ、お菓子
+- [corn](/word/corn/)：トウモロコシ
+- [candy](/word/candy/)：キャンディ、お菓子
 
 ---
 
 ## 📖 できればこれも
 
-- [movie](/word/movie)：映画
-- [ticket](/word/ticket)：チケット
+- [movie](/word/movie/)：映画
+- [ticket](/word/ticket/)：チケット
 
 <!-- cvid: aid29_bid45 -->

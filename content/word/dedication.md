@@ -97,7 +97,7 @@ dedicationはTOEICの長文読解（Part 7）で、社員の姿勢や表彰、�
 ## 🤔  commitment との違いは？
 
 - **dedication**：情熱や努力を惜しまず何かに打ち込む「献身」や「専念」を強調。
-- **[commitment](/word/commitment)**：責任や約束としての「コミットメント」「誓約」を強調。
+- **[commitment](/word/commitment/)**：責任や約束としての「コミットメント」「誓約」を強調。
 
 dedicationは感情や熱意を込めて何かに打ち込む姿勢、commitmentは義務や約束としての強い意志を表します。
 
@@ -105,14 +105,14 @@ dedicationは感情や熱意を込めて何かに打ち込む姿勢、commitment
 
 ## 🧩 あわせて覚えたい
 
-- [devotion](/word/devotion)：深い愛情や忠誠心をもった献身
-- [enthusiasm](/word/enthusiasm)：熱意、やる気
+- [devotion](/word/devotion/)：深い愛情や忠誠心をもった献身
+- [enthusiasm](/word/enthusiasm/)：熱意、やる気
 
 ---
 
 ## 📖 できればこれも
 
-- [effort](/word/effort)：努力
-- [motivation](/word/motivation)：動機、やる気
+- [effort](/word/effort/)：努力
+- [motivation](/word/motivation/)：動機、やる気
 
 <!-- cvid: aid38_bid48 -->

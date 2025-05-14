@@ -96,7 +96,7 @@ TOEICでは主にPart 1の写真描写で、食べ物やカフェのシーンな
 ## 🤔  pie との違いは？
 
 - **cake**：小麦粉・卵・砂糖などを混ぜて焼いた甘いお菓子。ふんわりした食感が特徴。
-- **[pie](/word/pie)**：パイ生地で具材を包んで焼いた料理やデザート。中身に果物や肉などが入る。
+- **[pie](/word/pie/)**：パイ生地で具材を包んで焼いた料理やデザート。中身に果物や肉などが入る。
 
 cakeはスポンジ状の甘いお菓子、pieは中身を包むパイ生地が特徴で、食感や用途が異なります。
 
@@ -104,14 +104,14 @@ cakeはスポンジ状の甘いお菓子、pieは中身を包むパイ生地が�
 
 ## 🧩 あわせて覚えたい
 
-- [bread](/word/bread)：パン
-- [dessert](/word/dessert)：デザート
+- [bread](/word/bread/)：パン
+- [dessert](/word/dessert/)：デザート
 
 ---
 
 ## 📖 できればこれも
 
-- [cookie](/word/cookie)：クッキー
-- [ice cream](/word/ice_cream)：アイスクリーム
+- [cookie](/word/cookie/)：クッキー
+- [ice cream](/word/ice_cream/)：アイスクリーム
 
 <!-- cvid: aid21_bid34 -->

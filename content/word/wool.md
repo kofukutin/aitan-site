@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で衣類や素材の説明として出題
 ## 🤔  fur との違いは？
 
 - **wool**：羊などの動物の柔らかい毛や、それを使った布地
-- **[fur](/word/fur)**：動物の体を覆う毛皮やそのままの毛
+- **[fur](/word/fur/)**：動物の体を覆う毛皮やそのままの毛
 
 woolは主に羊毛やその製品を指し、furは動物の毛皮全般やそのままの毛を指します。
 
@@ -105,14 +105,14 @@ woolは主に羊毛やその製品を指し、furは動物の毛皮全般やそ�
 
 ## 🧩 あわせて覚えたい
 
-- [cotton](/word/cotton)：綿、コットン
-- [fabric](/word/fabric)：布地、生地
+- [cotton](/word/cotton/)：綿、コットン
+- [fabric](/word/fabric/)：布地、生地
 
 ---
 
 ## 📖 できればこれも
 
-- [leather](/word/leather)：革、レザー
-- [silk](/word/silk)：絹、シルク
+- [leather](/word/leather/)：革、レザー
+- [silk](/word/silk/)：絹、シルク
 
 <!-- cvid: aid03_bid07 -->

@@ -97,7 +97,7 @@ TOEICでは、メールや案内文、旅行計画などの文脈で「trip」�
 ## 🤔  travel との違いは？
 
 - **trip**：比較的短期間・目的地が明確な旅行や外出
-- **[travel](/word/travel)**：移動そのものや長期間の旅行、抽象的な「旅」
+- **[travel](/word/travel/)**：移動そのものや長期間の旅行、抽象的な「旅」
 
 「trip」は具体的な行き先や短い旅行に、「travel」は移動行為や長期・抽象的な旅に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、メールや案内文、旅行計画などの文脈で「trip」�
 
 ## 🧩 あわせて覚えたい
 
-- [journey](/word/journey)：長い旅、道のり
-- [excursion](/word/excursion)：遠足、小旅行
+- [journey](/word/journey/)：長い旅、道のり
+- [excursion](/word/excursion/)：遠足、小旅行
 
 ---
 
 ## 📖 できればこれも
 
-- [tour](/word/tour)：見学、周遊旅行
-- [visit](/word/visit)：訪問、見学
+- [tour](/word/tour/)：見学、周遊旅行
+- [visit](/word/visit/)：訪問、見学
 
 <!-- cvid: aid26_bid47 -->

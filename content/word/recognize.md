@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「誰か・何かを認識する」「功績を
 ## 🤔  realize との違いは？
 
 - **recognize**：見たり聞いたりして「それが何か・誰か」をはっきり認識する、または公式に認める
-- **[realize](/word/realize)**：気づく、理解する（頭の中で「はっ」と気づくイメージ）
+- **[realize](/word/realize/)**：気づく、理解する（頭の中で「はっ」と気づくイメージ）
 
 recognizeは「見て思い出す・認識する」や「公式に認める」場合に使い、realizeは「心の中で気づく・理解する」時に使います。
 
@@ -105,14 +105,14 @@ recognizeは「見て思い出す・認識する」や「公式に認める」�
 
 ## 🧩 あわせて覚えたい
 
-- [identify](/word/identify)：（正確に）特定する、識別する
-- [acknowledge](/word/acknowledge)：（事実・存在などを）認める、受け取ったことを知らせる
+- [identify](/word/identify/)：（正確に）特定する、識別する
+- [acknowledge](/word/acknowledge/)：（事実・存在などを）認める、受け取ったことを知らせる
 
 ---
 
 ## 📖 できればこれも
 
-- [admit](/word/admit)：（しぶしぶ）認める、入場を許可する
-- [notice](/word/notice)：気づく、注目する
+- [admit](/word/admit/)：（しぶしぶ）認める、入場を許可する
+- [notice](/word/notice/)：気づく、注目する
 
 <!-- cvid: aid44_bid46 -->

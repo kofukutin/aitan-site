@@ -97,7 +97,7 @@ TOEICではホテルや旅行、サービス紹介などの会話で「romantic�
 ## 🤔  passionate との違いは？
 
 - **romantic**：恋愛や夢、感傷的な雰囲気を表す。
-- **[passionate](/word/passionate)**：強い情熱や熱意を表す。
+- **[passionate](/word/passionate/)**：強い情熱や熱意を表す。
 
 「romantic」は恋愛やロマンに関する感情や雰囲気に使い、「passionate」は恋愛以外にも強い熱意や情熱全般に使います。
 
@@ -105,14 +105,14 @@ TOEICではホテルや旅行、サービス紹介などの会話で「romantic�
 
 ## 🧩 あわせて覚えたい
 
-- [affectionate](/word/affectionate)：愛情深い
-- [sentimental](/word/sentimental)：感傷的な
+- [affectionate](/word/affectionate/)：愛情深い
+- [sentimental](/word/sentimental/)：感傷的な
 
 ---
 
 ## 📖 できればこれも
 
-- [charming](/word/charming)：魅力的な
-- [ideal](/word/ideal)：理想的な
+- [charming](/word/charming/)：魅力的な
+- [ideal](/word/ideal/)：理想的な
 
 <!-- cvid: aid03_bid33 -->

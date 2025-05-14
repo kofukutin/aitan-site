@@ -97,7 +97,7 @@ TOEICでは、新聞記事やビジネス文書の中で「論争」や「意見
 ## 🤔  dispute との違いは？
 
 - **controversy**：社会的・公的な場で意見が大きく分かれる「論争」や「激しい議論」を指す。
-- **[dispute](/word/dispute)**：主に2者間の「口論」や「紛争」など、より具体的な対立や争いを指す。
+- **[dispute](/word/dispute/)**：主に2者間の「口論」や「紛争」など、より具体的な対立や争いを指す。
 
 controversyは広く社会的な話題や長期的な論争に使われ、disputeは個人や団体間の具体的な争いに使われることが多いです。
 
@@ -105,14 +105,14 @@ controversyは広く社会的な話題や長期的な論争に使われ、disput
 
 ## 🧩 あわせて覚えたい
 
-- [debate](/word/debate)：討論、議論
-- [agreement](/word/agreement)：合意、同意
+- [debate](/word/debate/)：討論、議論
+- [agreement](/word/agreement/)：合意、同意
 
 ---
 
 ## 📖 できればこれも
 
-- [conflict](/word/conflict)：対立、衝突
-- [issue](/word/issue)：問題、論点
+- [conflict](/word/conflict/)：対立、衝突
+- [issue](/word/issue/)：問題、論点
 
 <!-- cvid: aid45_bid17 -->

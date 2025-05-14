@@ -97,7 +97,7 @@ TOEICでは「what kind of ～」の形で頻出し、種類や分類を問う�
 ## 🤔  type との違いは？
 
 - **kind**：性質や特徴による「種類」を表す
-- **[type](/word/type)**：形や機能などの「型」「タイプ」を表す
+- **[type](/word/type/)**：形や機能などの「型」「タイプ」を表す
 
 kindは「ざっくりとした分類」、typeは「技術的・機能的な分類」に使われることが多いです。
 
@@ -105,14 +105,14 @@ kindは「ざっくりとした分類」、typeは「技術的・機能的な分
 
 ## 🧩 あわせて覚えたい
 
-- [category](/word/category)：カテゴリー、部門
-- [sort](/word/sort)：種類、タイプ
+- [category](/word/category/)：カテゴリー、部門
+- [sort](/word/sort/)：種類、タイプ
 
 ---
 
 ## 📖 できればこれも
 
-- [form](/word/form)：形、形式
-- [class](/word/class)：クラス、分類
+- [form](/word/form/)：形、形式
+- [class](/word/class/)：クラス、分類
 
 <!-- cvid: aid02_bid17 -->

@@ -97,7 +97,7 @@ TOEICではビジネス文書やEメール、記事などで「将来性」「�
 ## 🤔  possibility との違いは？
 
 - **prospect**：将来に対する具体的な「見込み」や「期待」
-- **[possibility](/word/possibility)**：単なる「可能性」や「起こりうること」
+- **[possibility](/word/possibility/)**：単なる「可能性」や「起こりうること」
 
 prospectは「期待できる良い結果」や「前向きな見通し」に使われることが多く、possibilityは良い・悪いに関係なく「起こりうること全般」を指します。
 
@@ -105,14 +105,14 @@ prospectは「期待できる良い結果」や「前向きな見通し」に使
 
 ## 🧩 あわせて覚えたい
 
-- [candidate](/word/candidate)：候補者
-- [opportunity](/word/opportunity)：機会、チャンス
+- [candidate](/word/candidate/)：候補者
+- [opportunity](/word/opportunity/)：機会、チャンス
 
 ---
 
 ## 📖 できればこれも
 
-- [potential](/word/potential)：潜在能力、可能性
-- [forecast](/word/forecast)：予測、予報
+- [potential](/word/potential/)：潜在能力、可能性
+- [forecast](/word/forecast/)：予測、予報
 
 <!-- cvid: aid45_bid24 -->

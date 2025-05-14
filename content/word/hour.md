@@ -97,7 +97,7 @@ TOEICではPart 1やPart 2で「時間」に関する質問や説明でよく登
 ## 🤔  time との違いは？
 
 - **hour**：1時間という具体的な時間の単位
-- **[time](/word/time)**：時間全般や時刻、時期など幅広い意味
+- **[time](/word/time/)**：時間全般や時刻、時期など幅広い意味
 
 「hour」は「1時間」など具体的な長さを指し、「time」は抽象的に「時間」や「時刻」を表します。
 
@@ -105,14 +105,14 @@ TOEICではPart 1やPart 2で「時間」に関する質問や説明でよく登
 
 ## 🧩 あわせて覚えたい
 
-- [minute](/word/minute)：分（60分の1の単位）
-- [moment](/word/moment)：瞬間、短い時間
+- [minute](/word/minute/)：分（60分の1の単位）
+- [moment](/word/moment/)：瞬間、短い時間
 
 ---
 
 ## 📖 できればこれも
 
-- [day](/word/day)：日、1日
-- [schedule](/word/schedule)：予定、スケジュール
+- [day](/word/day/)：日、1日
+- [schedule](/word/schedule/)：予定、スケジュール
 
 <!-- cvid: aid12_bid40 -->

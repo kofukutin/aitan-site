@@ -97,7 +97,7 @@ TOEICの長文問題や説明文で、意見や結論の根拠を示す際によ
 ## 🤔  logic との違いは？
 
 - **reasoning**：推論や論理的思考の「過程」や「行為」を指す
-- **[logic](/word/logic)**：論理そのもの、または論理体系・原理を指す
+- **[logic](/word/logic/)**：論理そのもの、または論理体系・原理を指す
 
 reasoningは「考え方の流れ」や「理由付けのプロセス」を強調し、logicは「論理のルールや構造」自体を指します。
 
@@ -105,14 +105,14 @@ reasoningは「考え方の流れ」や「理由付けのプロセス」を強�
 
 ## 🧩 あわせて覚えたい
 
-- [assumption](/word/assumption)：仮定、前提
-- [conclusion](/word/conclusion)：結論
+- [assumption](/word/assumption/)：仮定、前提
+- [conclusion](/word/conclusion/)：結論
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/word/analysis)：分析
-- [argument](/word/argument)：主張、論拠
+- [analysis](/word/analysis/)：分析
+- [argument](/word/argument/)：主張、論拠
 
 <!-- cvid: aid28_bid15 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文や説明文で、商品やサービスの比較
 ## 🤔  similar との違いは？
 
 - **comparable**：重要な点で比較できる、同等・匹敵する
-- **[similar](/word/similar)**：似ている、類似している
+- **[similar](/word/similar/)**：似ている、類似している
 
 **comparable**は「比較して同じくらい価値やレベルがある」場合に使い、**similar**は「見た目や性質が似ている」場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 7の長文や説明文で、商品やサービスの比較
 
 ## 🧩 あわせて覚えたい
 
-- [equivalent](/word/equivalent)：同等の、同価値の
-- [contrast](/word/contrast)：対照、対比
+- [equivalent](/word/equivalent/)：同等の、同価値の
+- [contrast](/word/contrast/)：対照、対比
 
 ---
 
 ## 📖 できればこれも
 
-- [compatible](/word/compatible)：互換性のある、両立できる
-- [relative](/word/relative)：相対的な、比較上の
+- [compatible](/word/compatible/)：互換性のある、両立できる
+- [relative](/word/relative/)：相対的な、比較上の
 
 <!-- cvid: aid30_bid08 -->

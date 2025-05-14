@@ -97,7 +97,7 @@ TOEICでは、製品や計画、システムの「欠陥」や「問題点」を
 ## 🤔  defect との違いは？
 
 - **flaw**：主に小さな欠点や性格・論理など抽象的な「不完全さ」に使う
-- **[defect](/word/defect)**：製品や機械などの「重大な欠陥」「不良品」に使う
+- **[defect](/word/defect/)**：製品や機械などの「重大な欠陥」「不良品」に使う
 
 flawは「ちょっとした弱点」や「性格の欠点」にも使えますが、defectは「機能しないレベルの重大な欠陥」に限定されることが多いです。
 
@@ -105,14 +105,14 @@ flawは「ちょっとした弱点」や「性格の欠点」にも使えます�
 
 ## 🧩 あわせて覚えたい
 
-- [strength](/word/strength)：強み、長所
-- [error](/word/error)：誤り、ミス
+- [strength](/word/strength/)：強み、長所
+- [error](/word/error/)：誤り、ミス
 
 ---
 
 ## 📖 できればこれも
 
-- [fault](/word/fault)：過失、責任
-- [weakness](/word/weakness)：弱点、弱み
+- [fault](/word/fault/)：過失、責任
+- [weakness](/word/weakness/)：弱点、弱み
 
 <!-- cvid: aid45_bid12 -->

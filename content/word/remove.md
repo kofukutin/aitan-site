@@ -97,7 +97,7 @@ TOEICでは「取り除く」「削除する」といった意味で、ITやビ�
 ## 🤔  delete との違いは？
 
 - **remove**：物理的・デジタル的に「取り除く」「外す」全般に使える
-- **[delete](/word/delete)**：主にデータや文字など「完全に消去する」場合に使う
+- **[delete](/word/delete/)**：主にデータや文字など「完全に消去する」場合に使う
 
 removeは「場所から取り除く」広い意味で使い、deleteは「データを消す」など消去のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ removeは「場所から取り除く」広い意味で使い、deleteは「デ�
 
 ## 🧩 あわせて覚えたい
 
-- [eliminate](/word/eliminate)：（不要なものを）排除する
-- [detach](/word/detach)：（物理的に）切り離す、分離する
+- [eliminate](/word/eliminate/)：（不要なものを）排除する
+- [detach](/word/detach/)：（物理的に）切り離す、分離する
 
 ---
 
 ## 📖 できればこれも
 
-- [replace](/word/replace)：取り替える、交換する
-- [install](/word/install)：設置する、インストールする
+- [replace](/word/replace/)：取り替える、交換する
+- [install](/word/install/)：設置する、インストールする
 
 <!-- cvid: aid32_bid30 -->

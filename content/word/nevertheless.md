@@ -93,7 +93,7 @@ TOEICの長文読解パートで、文と文の論理的なつながりを問う
 ## 🤔  nonetheless との違いは？
 
 - **nevertheless**：ややフォーマルで、書き言葉やビジネス文書でよく使われる。
-- **[nonetheless](/word/nonetheless)**：意味はほぼ同じだが、ややカジュアルで口語でも使われる。
+- **[nonetheless](/word/nonetheless/)**：意味はほぼ同じだが、ややカジュアルで口語でも使われる。
 
 neverthelessはフォーマルな場面で好まれ、nonethelessはややカジュアルな印象があります。
 
@@ -101,14 +101,14 @@ neverthelessはフォーマルな場面で好まれ、nonethelessはややカジ
 
 ## 🧩 あわせて覚えたい
 
-- [however](/word/however)：しかしながら
-- [although](/word/although)：～だけれども
+- [however](/word/however/)：しかしながら
+- [although](/word/although/)：～だけれども
 
 ---
 
 ## 📖 できればこれも
 
-- [therefore](/word/therefore)：それゆえに
-- [consequently](/word/consequently)：その結果として
+- [therefore](/word/therefore/)：それゆえに
+- [consequently](/word/consequently/)：その結果として
 
 <!-- cvid: aid39_bid36 -->

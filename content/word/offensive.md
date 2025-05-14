@@ -97,7 +97,7 @@ TOEICでは、ビジネスメールや社内規則、苦情対応などの文脈
 ## 🤔  rude との違いは？
 
 - **offensive**：相手を傷つけたり不快にさせる、攻撃的なニュアンスが強い
-- **[rude](/word/rude)**：礼儀を欠いた、無礼な
+- **[rude](/word/rude/)**：礼儀を欠いた、無礼な
 
 offensiveは「相手を怒らせたり傷つける」強い否定的な意味合いがあり、rudeは単に礼儀を欠く場合にも使われます。
 
@@ -105,14 +105,14 @@ offensiveは「相手を怒らせたり傷つける」強い否定的な意味�
 
 ## 🧩 あわせて覚えたい
 
-- [insult](/word/insult)：侮辱、侮辱する
-- [polite](/word/polite)：礼儀正しい
+- [insult](/word/insult/)：侮辱、侮辱する
+- [polite](/word/polite/)：礼儀正しい
 
 ---
 
 ## 📖 できればこれも
 
-- [defensive](/word/defensive)：防御的な
-- [hostile](/word/hostile)：敵意のある
+- [defensive](/word/defensive/)：防御的な
+- [hostile](/word/hostile/)：敵意のある
 
 <!-- cvid: aid01_bid29 -->

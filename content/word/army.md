@@ -97,7 +97,7 @@ TOEICでは、ニュース記事や説明文などで「軍隊」や「組織的
 ## 🤔  military との違いは？
 
 - **army**：主に陸上部隊の軍隊を指す。
-- **[military](/word/military)**：軍全体や軍事的なもの全般を指す。
+- **[military](/word/military/)**：軍全体や軍事的なもの全般を指す。
 
 armyは「陸軍」に限定されることが多いですが、militaryは「軍事」や「軍隊全体」を幅広く指します。
 
@@ -105,14 +105,14 @@ armyは「陸軍」に限定されることが多いですが、militaryは「�
 
 ## 🧩 あわせて覚えたい
 
-- [soldier](/word/soldier)：兵士
-- [navy](/word/navy)：海軍
+- [soldier](/word/soldier/)：兵士
+- [navy](/word/navy/)：海軍
 
 ---
 
 ## 📖 できればこれも
 
-- [battle](/word/battle)：戦い、戦闘
-- [force](/word/force)：部隊、軍隊
+- [battle](/word/battle/)：戦い、戦闘
+- [force](/word/force/)：部隊、軍隊
 
 <!-- cvid: aid33_bid01 -->

@@ -97,7 +97,7 @@ TOEICでは観光や都市開発、ビジネス環境の説明文などで出題
 ## 🤔  scenery との違いは？
 
 - **landscape**：広がりのある景観や、状況・分野全体の様子も表す
-- **[scenery](/word/scenery)**：自然の美しい景色に限定される
+- **[scenery](/word/scenery/)**：自然の美しい景色に限定される
 
 landscapeは都市やビジネスなど幅広い「景観」や「状況」に使えますが、sceneryは主に自然の美しさに焦点を当てます。
 
@@ -105,14 +105,14 @@ landscapeは都市やビジネスなど幅広い「景観」や「状況」に�
 
 ## 🧩 あわせて覚えたい
 
-- [view](/word/view)：眺め、視界
-- [environment](/word/environment)：環境、周囲の状況
+- [view](/word/view/)：眺め、視界
+- [environment](/word/environment/)：環境、周囲の状況
 
 ---
 
 ## 📖 できればこれも
 
-- [region](/word/region)：地域、地方
-- [area](/word/area)：区域、範囲
+- [region](/word/region/)：地域、地方
+- [area](/word/area/)：区域、範囲
 
 <!-- cvid: aid33_bid16 -->

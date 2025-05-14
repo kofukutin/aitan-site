@@ -97,7 +97,7 @@ TOEICでは歴史や文化を扱う長文や観光案内の文脈で登場する
 ## 🤔  soldier との違いは？
 
 - **knight**：中世の騎士や名誉称号を持つ人物を指し、歴史的・物語的なニュアンスが強い。
-- **[soldier](/word/soldier)**：現代・過去を問わず軍隊に所属する一般的な兵士。
+- **[soldier](/word/soldier/)**：現代・過去を問わず軍隊に所属する一般的な兵士。
 
 knightは特定の時代や身分、名誉を強調する語で、soldierは軍人全般を指します。
 
@@ -105,14 +105,14 @@ knightは特定の時代や身分、名誉を強調する語で、soldierは軍�
 
 ## 🧩 あわせて覚えたい
 
-- [noble](/word/noble)：貴族
-- [hero](/word/hero)：英雄
+- [noble](/word/noble/)：貴族
+- [hero](/word/hero/)：英雄
 
 ---
 
 ## 📖 できればこれも
 
-- [castle](/word/castle)：城
-- [armor](/word/armor)：鎧
+- [castle](/word/castle/)：城
+- [armor](/word/armor/)：鎧
 
 <!-- cvid: aid09_bid42 -->

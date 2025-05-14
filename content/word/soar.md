@@ -97,7 +97,7 @@ TOEICでは、売上や価格、数値の急上昇を表す文脈でよく登場
 ## 🤔  surge との違いは？
 
 - **soar**：急激に高く上がる、特に数値や価格が一気に上昇するイメージ
-- **[surge](/word/surge)**：急に押し寄せる、波のように増える・高まる
+- **[surge](/word/surge/)**：急に押し寄せる、波のように増える・高まる
 
 soarは「空高く舞い上がる」ような上昇、surgeは「波のように一気に押し寄せる」増加や高まりを表します。
 
@@ -105,14 +105,14 @@ soarは「空高く舞い上がる」ような上昇、surgeは「波のよう�
 
 ## 🧩 あわせて覚えたい
 
-- [plummet](/word/plummet)：急落する
-- [rise](/word/rise)：上がる、増える
+- [plummet](/word/plummet/)：急落する
+- [rise](/word/rise/)：上がる、増える
 
 ---
 
 ## 📖 できればこれも
 
-- [increase](/word/increase)：増加する
-- [expand](/word/expand)：拡大する
+- [increase](/word/increase/)：増加する
+- [expand](/word/expand/)：拡大する
 
 <!-- cvid: aid10_bid07 -->

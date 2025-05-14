@@ -97,7 +97,7 @@ TOEICでは、ITやオフィスのトラブル対応、設備点検などの文�
 ## 🤔  engineer との違いは？
 
 - **technician**：実際の機器操作や修理・保守など、現場での専門技術を持つ人
-- **[engineer](/word/engineer)**：設計や開発、理論的な問題解決など、より高度な専門知識を持つ技術者
+- **[engineer](/word/engineer/)**：設計や開発、理論的な問題解決など、より高度な専門知識を持つ技術者
 
 technicianは「現場で手を動かす技術者」、engineerは「設計や開発を担う技術者」といった違いがあります。
 
@@ -105,14 +105,14 @@ technicianは「現場で手を動かす技術者」、engineerは「設計や�
 
 ## 🧩 あわせて覚えたい
 
-- [specialist](/word/specialist)：専門家
-- [mechanic](/word/mechanic)：整備士、機械工
+- [specialist](/word/specialist/)：専門家
+- [mechanic](/word/mechanic/)：整備士、機械工
 
 ---
 
 ## 📖 できればこれも
 
-- [operator](/word/operator)：操作員、オペレーター
-- [analyst](/word/analyst)：分析者、アナリスト
+- [operator](/word/operator/)：操作員、オペレーター
+- [analyst](/word/analyst/)：分析者、アナリスト
 
 <!-- cvid: aid27_bid00 -->

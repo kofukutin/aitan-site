@@ -97,7 +97,7 @@ TOEICでは、オフィスや店舗の改装、リニューアルに関する会
 ## 🤔  renovate との違いは？
 
 - **remodel**：構造や用途自体を大きく作り変えるニュアンス
-- **[renovate](/word/renovate)**：古くなったものを修復・修繕して新しくするニュアンス
+- **[renovate](/word/renovate/)**：古くなったものを修復・修繕して新しくするニュアンス
 
 remodelは「間取り変更」など大規模な改造に使われ、renovateは「元の状態に戻す」や「きれいにする」場合に使われます。
 
@@ -105,14 +105,14 @@ remodelは「間取り変更」など大規模な改造に使われ、renovate�
 
 ## 🧩 あわせて覚えたい
 
-- [redecorate](/word/redecorate)：（部屋などを）模様替えする
-- [restore](/word/restore)：元の状態に戻す、修復する
+- [redecorate](/word/redecorate/)：（部屋などを）模様替えする
+- [restore](/word/restore/)：元の状態に戻す、修復する
 
 ---
 
 ## 📖 できればこれも
 
-- [expand](/word/expand)：拡張する、広げる
-- [install](/word/install)：設置する、取り付ける
+- [expand](/word/expand/)：拡張する、広げる
+- [install](/word/install/)：設置する、取り付ける
 
 <!-- cvid: aid06_bid49 -->

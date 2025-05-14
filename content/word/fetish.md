@@ -97,7 +97,7 @@ TOEICではPart7の長文や記事、文化・社会に関する話題でまれ�
 ## 🤔  obsession との違いは？
 
 - **fetish**：特定の物や行為への強い執着やこだわり、時に非合理的・異常なニュアンスも含む
-- **[obsession](/word/obsession)**：頭から離れない強い思い・執着、広く精神的な「とらわれ」
+- **[obsession](/word/obsession/)**：頭から離れない強い思い・執着、広く精神的な「とらわれ」
 
 fetishは物や行為への強いこだわりや崇拝を指し、しばしば非合理的・特殊なニュアンスがあります。obsessionはもっと広く「考えが頭から離れない」状態を指します。
 
@@ -105,14 +105,14 @@ fetishは物や行為への強いこだわりや崇拝を指し、しばしば�
 
 ## 🧩 あわせて覚えたい
 
-- [superstition](/word/superstition)：迷信
-- [idol](/word/idol)：偶像、崇拝の対象
+- [superstition](/word/superstition/)：迷信
+- [idol](/word/idol/)：偶像、崇拝の対象
 
 ---
 
 ## 📖 できればこれも
 
-- [ritual](/word/ritual)：儀式、習慣
-- [taboo](/word/taboo)：タブー、禁忌
+- [ritual](/word/ritual/)：儀式、習慣
+- [taboo](/word/taboo/)：タブー、禁忌
 
 <!-- cvid: aid01_bid17 -->

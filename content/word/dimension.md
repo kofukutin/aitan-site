@@ -97,7 +97,7 @@ TOEICでは主に説明文や仕様書、ビジネス文書で「寸法」や「
 ## 🤔  measurement との違いは？
 
 - **dimension**：物の「縦・横・高さ」などの具体的な寸法や、物事の「側面・観点」を表す
-- **[measurement](/word/measurement)**：測定した「値」や「測定行為」そのものを指す
+- **[measurement](/word/measurement/)**：測定した「値」や「測定行為」そのものを指す
 
 dimensionは「どの部分の大きさ・側面か」に焦点があり、measurementは「測った結果の数値や行為」に重点があります。
 
@@ -105,14 +105,14 @@ dimensionは「どの部分の大きさ・側面か」に焦点があり、measu
 
 ## 🧩 あわせて覚えたい
 
-- [aspect](/word/aspect)：側面、観点
-- [scale](/word/scale)：規模、尺度
+- [aspect](/word/aspect/)：側面、観点
+- [scale](/word/scale/)：規模、尺度
 
 ---
 
 ## 📖 できればこれも
 
-- [factor](/word/factor)：要因、要素
-- [volume](/word/volume)：体積、量
+- [factor](/word/factor/)：要因、要素
+- [volume](/word/volume/)：体積、量
 
 <!-- cvid: aid24_bid36 -->

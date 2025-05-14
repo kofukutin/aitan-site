@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、雨や水に関連する場面で「
 ## 🤔  humid との違いは？
 
 - **wet**：水や液体で直接濡れている状態を表す。
-- **[humid](/word/humid)**：空気中の湿度が高い、蒸し暑い状態を表す。
+- **[humid](/word/humid/)**：空気中の湿度が高い、蒸し暑い状態を表す。
 
 wetは「物や表面が濡れている」こと、humidは「空気が湿っている」ことに使い分けます。
 
@@ -105,14 +105,14 @@ wetは「物や表面が濡れている」こと、humidは「空気が湿って
 
 ## 🧩 あわせて覚えたい
 
-- [dry](/word/dry)：乾いた、乾燥した
-- [moist](/word/moist)：しっとりした、少し湿った
+- [dry](/word/dry/)：乾いた、乾燥した
+- [moist](/word/moist/)：しっとりした、少し湿った
 
 ---
 
 ## 📖 できればこれも
 
-- [cold](/word/cold)：冷たい、寒い
-- [rain](/word/rain)：雨
+- [cold](/word/cold/)：冷たい、寒い
+- [rain](/word/rain/)：雨
 
 <!-- cvid: aid22_bid29 -->

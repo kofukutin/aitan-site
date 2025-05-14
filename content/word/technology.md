@@ -97,7 +97,7 @@ TOEICでは主にITやビジネス関連の長文、製品説明や会社案内�
 ## 🤔  technique との違いは？
 
 - **technology**：科学的な知識や仕組みに基づく「技術」や「テクノロジー」全体を指す
-- **[technique](/word/technique)**：特定の「方法」や「やり方」を指す
+- **[technique](/word/technique/)**：特定の「方法」や「やり方」を指す
 
 technologyは広い意味での技術体系、techniqueは個々の具体的な方法やコツを表します。
 
@@ -105,14 +105,14 @@ technologyは広い意味での技術体系、techniqueは個々の具体的な�
 
 ## 🧩 あわせて覚えたい
 
-- [innovation](/word/innovation)：革新、新しいアイデアや方法
-- [device](/word/device)：装置、機器
+- [innovation](/word/innovation/)：革新、新しいアイデアや方法
+- [device](/word/device/)：装置、機器
 
 ---
 
 ## 📖 できればこれも
 
-- [system](/word/system)：システム、仕組み
-- [method](/word/method)：方法、やり方
+- [system](/word/system/)：システム、仕組み
+- [method](/word/method/)：方法、やり方
 
 <!-- cvid: aid08_bid26 -->

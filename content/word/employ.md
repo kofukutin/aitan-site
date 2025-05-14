@@ -97,7 +97,7 @@ TOEICでは「雇う」「用いる」の両方の意味で出題されること
 ## 🤔  hire との違いは？
 
 - **employ**：フォーマルで継続的な雇用や手段の「用いる」にも使える
-- **[hire](/word/hire)**：よりカジュアルで「一時的に雇う」「短期雇用」にも使われる
+- **[hire](/word/hire/)**：よりカジュアルで「一時的に雇う」「短期雇用」にも使われる
 
 employは長期的・正式な雇用や方法の活用に使われ、hireは短期や一時的な雇用、物のレンタルにも使われます。
 
@@ -105,14 +105,14 @@ employは長期的・正式な雇用や方法の活用に使われ、hireは短�
 
 ## 🧩 あわせて覚えたい
 
-- [dismiss](/word/dismiss)：解雇する
-- [utilize](/word/utilize)：活用する
+- [dismiss](/word/dismiss/)：解雇する
+- [utilize](/word/utilize/)：活用する
 
 ---
 
 ## 📖 できればこれも
 
-- [apply](/word/apply)：応募する、申し込む
-- [recruit](/word/recruit)：募集する、採用する
+- [apply](/word/apply/)：応募する、申し込む
+- [recruit](/word/recruit/)：募集する、採用する
 
 <!-- cvid: aid06_bid39 -->

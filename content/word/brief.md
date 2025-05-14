@@ -97,7 +97,7 @@ TOEICでは、メールや報告書、説明文などで「brief explanation（�
 ## 🤔  concise との違いは？
 
 - **brief**：短く、必要最低限の情報だけを伝えるニュアンス
-- **[concise](/word/concise)**：無駄を省き、要点だけを明確に伝えるニュアンス
+- **[concise](/word/concise/)**：無駄を省き、要点だけを明確に伝えるニュアンス
 
 「brief」は「短い・手短」という時間や量の短さに重点があり、「concise」は「無駄がなく要点が明確」という内容のまとまりに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは、メールや報告書、説明文などで「brief explanation（�
 
 ## 🧩 あわせて覚えたい
 
-- [summary](/word/summary)：要約、まとめ
-- [short](/word/short)：短い（長さ・時間が少ない）
+- [summary](/word/summary/)：要約、まとめ
+- [short](/word/short/)：短い（長さ・時間が少ない）
 
 ---
 
 ## 📖 できればこれも
 
-- [detailed](/word/detailed)：詳細な
-- [outline](/word/outline)：概要、要点
+- [detailed](/word/detailed/)：詳細な
+- [outline](/word/outline/)：概要、要点
 
 <!-- cvid: aid48_bid20 -->

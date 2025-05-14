@@ -97,7 +97,7 @@ ITや日常生活に関する説明文で「string」が登場することがあ
 ## 🤔  thread との違いは？
 
 - **string**：ひもや弦、IT分野では「文字列」を指す
-- **[thread](/word/thread)**：縫い物などに使う「糸」、またはITで「スレッド」
+- **[thread](/word/thread/)**：縫い物などに使う「糸」、またはITで「スレッド」
 
 stringはやや太めの「ひも」や「弦」、ITでは「文字列」を指し、threadは細い「糸」や会話の流れ（スレッド）を表します。
 
@@ -105,14 +105,14 @@ stringはやや太めの「ひも」や「弦」、ITでは「文字列」を指
 
 ## 🧩 あわせて覚えたい
 
-- [rope](/word/rope)：ロープ、太い綱
-- [chain](/word/chain)：鎖、チェーン
+- [rope](/word/rope/)：ロープ、太い綱
+- [chain](/word/chain/)：鎖、チェーン
 
 ---
 
 ## 📖 できればこれも
 
-- [line](/word/line)：線、釣り糸
-- [cable](/word/cable)：ケーブル、電線
+- [line](/word/line/)：線、釣り糸
+- [cable](/word/cable/)：ケーブル、電線
 
 <!-- cvid: aid12_bid18 -->

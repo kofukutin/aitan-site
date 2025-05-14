@@ -104,7 +104,7 @@ TOEICでは主にPart 1の写真描写で、物の位置関係を説明する際
 ## 🤔  over との違いは？
 
 - **above**：物理的・抽象的に「上に」「上方に」位置することを表す。接触していなくてもOK。
-- **[over](/word/over)**：真上や覆いかぶさるイメージが強く、動作や移動を伴う場合にも使う。
+- **[over](/word/over/)**：真上や覆いかぶさるイメージが強く、動作や移動を伴う場合にも使う。
 
 aboveは単に「上方にある」ことを示し、overは「真上」や「覆う」ニュアンスが強いです。
 
@@ -112,14 +112,14 @@ aboveは単に「上方にある」ことを示し、overは「真上」や「�
 
 ## 🧩 あわせて覚えたい
 
-- [below](/word/below)：下に、下方に
-- [under](/word/under)：真下に、～の下に
+- [below](/word/below/)：下に、下方に
+- [under](/word/under/)：真下に、～の下に
 
 ---
 
 ## 📖 できればこれも
 
-- [across](/word/across)：横切って、向こう側に
-- [between](/word/between)：～の間に
+- [across](/word/across/)：横切って、向こう側に
+- [between](/word/between/)：～の間に
 
 <!-- cvid: aid36_bid25 -->

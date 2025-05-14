@@ -97,7 +97,7 @@ TOEICでは主にPart 7のビジネス文書や求人広告、人物評価など
 ## 🤔  logical との違いは？
 
 - **analytical**：物事を細かく分解して考える、分析的な
-- **[logical](/word/logical)**：論理的な筋道を立てて考える
+- **[logical](/word/logical/)**：論理的な筋道を立てて考える
 
 analyticalは「細かく分けて考える力」、logicalは「筋道を立てて考える力」に重点があります。
 
@@ -105,14 +105,14 @@ analyticalは「細かく分けて考える力」、logicalは「筋道を立て
 
 ## 🧩 あわせて覚えたい
 
-- [critical](/word/critical)：批判的な、重要な
-- [systematic](/word/systematic)：体系的な、組織的な
+- [critical](/word/critical/)：批判的な、重要な
+- [systematic](/word/systematic/)：体系的な、組織的な
 
 ---
 
 ## 📖 できればこれも
 
-- [objective](/word/objective)：客観的な
-- [precise](/word/precise)：正確な
+- [objective](/word/objective/)：客観的な
+- [precise](/word/precise/)：正確な
 
 <!-- cvid: aid40_bid17 -->

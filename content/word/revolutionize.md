@@ -97,7 +97,7 @@ TOEICでは主にPart 7のビジネス記事や製品紹介文で、「革新的
 ## 🤔  innovate との違いは？
 
 - **revolutionize**：既存の仕組みや状況を根本から一変させるほど大きく変える
-- **[innovate](/word/innovate)**：新しいアイデアや方法を導入して改善・革新する
+- **[innovate](/word/innovate/)**：新しいアイデアや方法を導入して改善・革新する
 
 「revolutionize」は「劇的な変化」「革命的な変化」を強調し、「innovate」は「新しいものを生み出す」ことに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 7のビジネス記事や製品紹介文で、「革新的
 
 ## 🧩 あわせて覚えたい
 
-- [transform](/word/transform)：変形させる、変える
-- [modernize](/word/modernize)：近代化する、現代的にする
+- [transform](/word/transform/)：変形させる、変える
+- [modernize](/word/modernize/)：近代化する、現代的にする
 
 ---
 
 ## 📖 できればこれも
 
-- [implement](/word/implement)：実行する、導入する
-- [improve](/word/improve)：改善する、向上させる
+- [implement](/word/implement/)：実行する、導入する
+- [improve](/word/improve/)：改善する、向上させる
 
 <!-- cvid: aid19_bid46 -->

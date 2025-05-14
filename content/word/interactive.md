@@ -97,7 +97,7 @@ TOEICでは主にITや教育関連の長文、製品説明などで「interactiv
 ## 🤔  participatory との違いは？
 
 - **interactive**：双方向でやり取りができる、相互に作用する
-- **[participatory](/word/participatory)**：参加型の、参加を促す
+- **[participatory](/word/participatory/)**：参加型の、参加を促す
 
 「interactive」は主に人やシステム同士がやり取りする様子を指し、「participatory」は人が積極的に参加することに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは主にITや教育関連の長文、製品説明などで「interactiv
 
 ## 🧩 あわせて覚えたい
 
-- [responsive](/word/responsive)：反応が早い、応答性のある
-- [automatic](/word/automatic)：自動的な
+- [responsive](/word/responsive/)：反応が早い、応答性のある
+- [automatic](/word/automatic/)：自動的な
 
 ---
 
 ## 📖 できればこれも
 
-- [digital](/word/digital)：デジタルの
-- [virtual](/word/virtual)：仮想の
+- [digital](/word/digital/)：デジタルの
+- [virtual](/word/virtual/)：仮想の
 
 <!-- cvid: aid26_bid21 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、警備や空港などの場面で「
 ## 🤔  weapon との違いは？
 
 - **gun**：弾を発射する銃（ピストルやライフルなど）を指す。
-- **[weapon](/word/weapon)**：銃だけでなく、ナイフや爆弾など「武器」全般を指す。
+- **[weapon](/word/weapon/)**：銃だけでなく、ナイフや爆弾など「武器」全般を指す。
 
 gunは「銃」という具体的な道具を指し、weaponは攻撃や防御に使うあらゆる武器を広く指します。
 
@@ -105,14 +105,14 @@ gunは「銃」という具体的な道具を指し、weaponは攻撃や防御�
 
 ## 🧩 あわせて覚えたい
 
-- [pistol](/word/pistol)：小型の拳銃
-- [rifle](/word/rifle)：ライフル銃
+- [pistol](/word/pistol/)：小型の拳銃
+- [rifle](/word/rifle/)：ライフル銃
 
 ---
 
 ## 📖 できればこれも
 
-- [knife](/word/knife)：ナイフ、刃物
-- [alarm](/word/alarm)：警報、アラーム
+- [knife](/word/knife/)：ナイフ、刃物
+- [alarm](/word/alarm/)：警報、アラーム
 
 <!-- cvid: aid42_bid46 -->

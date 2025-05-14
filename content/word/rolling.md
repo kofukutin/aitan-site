@@ -97,7 +97,7 @@ TOEIC Part 1の写真描写で、物や人が「転がっている」「回転�
 ## 🤔  rotating との違いは？
 
 - **rolling**：地面や表面を転がる、滑らかに動く様子を表す
-- **[rotating](/word/rotating)**：中心軸を回転する動きを表す
+- **[rotating](/word/rotating/)**：中心軸を回転する動きを表す
 
 rollingは「転がる」動き全般に使い、rotatingは「その場で回転する」動きに限定されます。
 
@@ -105,14 +105,14 @@ rollingは「転がる」動き全般に使い、rotatingは「その場で回�
 
 ## 🧩 あわせて覚えたい
 
-- [continuous](/word/continuous)：連続した、継続的な
-- [move](/word/move)：動く、移動する
+- [continuous](/word/continuous/)：連続した、継続的な
+- [move](/word/move/)：動く、移動する
 
 ---
 
 ## 📖 できればこれも
 
-- [turning](/word/turning)：回る、向きを変える
-- [spinning](/word/spinning)：素早く回転する
+- [turning](/word/turning/)：回る、向きを変える
+- [spinning](/word/spinning/)：素早く回転する
 
 <!-- cvid: aid05_bid34 -->

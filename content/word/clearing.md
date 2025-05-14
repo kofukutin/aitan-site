@@ -97,7 +97,7 @@ The clearing of payments will be completed by tomorrow.
 ## 🤔  settlement との違いは？
 
 - **clearing**：取引後の決済処理や清算のプロセスを指す
-- **[settlement](/word/settlement)**：最終的な支払い・決済の完了を指す
+- **[settlement](/word/settlement/)**：最終的な支払い・決済の完了を指す
 
 clearingは「決済処理の過程」、settlementは「最終的な決済完了」という違いがあります。
 
@@ -105,14 +105,14 @@ clearingは「決済処理の過程」、settlementは「最終的な決済完�
 
 ## 🧩 あわせて覚えたい
 
-- [reconciliation](/word/reconciliation)：照合、調整
-- [transaction](/word/transaction)：取引
+- [reconciliation](/word/reconciliation/)：照合、調整
+- [transaction](/word/transaction/)：取引
 
 ---
 
 ## 📖 できればこれも
 
-- [balance](/word/balance)：残高、バランス
-- [deposit](/word/deposit)：預金、預け入れ
+- [balance](/word/balance/)：残高、バランス
+- [deposit](/word/deposit/)：預金、預け入れ
 
 <!-- cvid: aid21_bid28 -->

@@ -97,7 +97,7 @@ TOEICでは主に長文読解や説明文で登場し、軍隊や歴史、観光
 ## 🤔  officer との違いは？
 
 - **soldier**：一般的な兵士や軍人全般を指す
-- **[officer](/word/officer)**：軍隊や警察などで階級や役職を持つ「士官」「幹部」
+- **[officer](/word/officer/)**：軍隊や警察などで階級や役職を持つ「士官」「幹部」
 
 soldierは階級に関係なく兵士全体を指し、officerは指揮官や幹部など特定の役職を持つ人を指します。
 
@@ -105,14 +105,14 @@ soldierは階級に関係なく兵士全体を指し、officerは指揮官や幹
 
 ## 🧩 あわせて覚えたい
 
-- [warrior](/word/warrior)：戦士（特に勇敢な戦い手）
-- [army](/word/army)：陸軍、軍隊
+- [warrior](/word/warrior/)：戦士（特に勇敢な戦い手）
+- [army](/word/army/)：陸軍、軍隊
 
 ---
 
 ## 📖 できればこれも
 
-- [battle](/word/battle)：戦い、戦闘
-- [guard](/word/guard)：警備員、守る人
+- [battle](/word/battle/)：戦い、戦闘
+- [guard](/word/guard/)：警備員、守る人
 
 <!-- cvid: aid15_bid08 -->

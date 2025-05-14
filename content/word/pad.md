@@ -97,7 +97,7 @@ padはTOEICの会話パートで、メモ帳やクッションなど物の説明
 ## 🤔  cushion との違いは？
 
 - **pad**：詰め物やメモ帳など、薄くて柔らかいもの全般を指す。
-- **[cushion](/word/cushion)**：主に椅子やソファに使う厚めのクッションを指す。
+- **[cushion](/word/cushion/)**：主に椅子やソファに使う厚めのクッションを指す。
 
 padは幅広く「詰め物」や「メモ帳」などを指しますが、cushionは主に座るときのクッションに限定されます。
 
@@ -105,14 +105,14 @@ padは幅広く「詰め物」や「メモ帳」などを指しますが、cushi
 
 ## 🧩 あわせて覚えたい
 
-- [notebook](/word/notebook)：ノート、ノートブック
-- [mat](/word/mat)：マット、敷物
+- [notebook](/word/notebook/)：ノート、ノートブック
+- [mat](/word/mat/)：マット、敷物
 
 ---
 
 ## 📖 できればこれも
 
-- [pen](/word/pen)：ペン
-- [desk](/word/desk)：机
+- [pen](/word/pen/)：ペン
+- [desk](/word/desk/)：机
 
 <!-- cvid: aid25_bid12 -->

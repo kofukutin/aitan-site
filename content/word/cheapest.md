@@ -97,7 +97,7 @@ cheapestは比較級・最上級の文法問題や、価格比較の文脈で頻
 ## 🤔  least expensive との違いは？
 
 - **cheapest**：カジュアルで直接的に「一番安い」と表現する。
-- **[least expensive](/word/least_expensive)**：ややフォーマルで「最も高くない」という控えめな言い方。
+- **[least expensive](/word/least_expensive/)**：ややフォーマルで「最も高くない」という控えめな言い方。
 
 cheapestは日常会話や広告でよく使われ、least expensiveはビジネスや丁寧な場面で好まれます。
 
@@ -105,14 +105,14 @@ cheapestは日常会話や広告でよく使われ、least expensiveはビジネ
 
 ## 🧩 あわせて覚えたい
 
-- [expensive](/word/expensive)：高価な
-- [affordable](/word/affordable)：手頃な価格の
+- [expensive](/word/expensive/)：高価な
+- [affordable](/word/affordable/)：手頃な価格の
 
 ---
 
 ## 📖 できればこれも
 
-- [cheaper](/word/cheaper)：より安い
-- [lowest](/word/lowest)：最も低い（価格やレベルが一番低い）
+- [cheaper](/word/cheaper/)：より安い
+- [lowest](/word/lowest/)：最も低い（価格やレベルが一番低い）
 
 <!-- cvid: aid38_bid20 -->

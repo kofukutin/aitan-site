@@ -97,7 +97,7 @@ TOEICでは、形容詞の語彙問題や、比喩的な表現の理解を問う
 ## 🤔  sharp との違いは？
 
 - **pointed**：先がとがっている、または意図がはっきりしている
-- **[sharp](/word/sharp)**：鋭利な、鋭い、急激な（物理的・抽象的に幅広く使う）
+- **[sharp](/word/sharp/)**：鋭利な、鋭い、急激な（物理的・抽象的に幅広く使う）
 
 **pointed**は「先端がある」「意図が明確」といった限定的なニュアンスで、**sharp**は「鋭い」「急激」など幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞の語彙問題や、比喩的な表現の理解を問う
 
 ## 🧩 あわせて覚えたい
 
-- [blunt](/word/blunt)：鈍い、はっきり言う
-- [direct](/word/direct)：直接的な、率直な
+- [blunt](/word/blunt/)：鈍い、はっきり言う
+- [direct](/word/direct/)：直接的な、率直な
 
 ---
 
 ## 📖 できればこれも
 
-- [precise](/word/precise)：正確な
-- [specific](/word/specific)：具体的な
+- [precise](/word/precise/)：正確な
+- [specific](/word/specific/)：具体的な
 
 <!-- cvid: aid27_bid26 -->

@@ -97,7 +97,7 @@ TOEICでは主にビジネスや経済の文脈で「予測する」という意
 ## 🤔  forecast との違いは？
 
 - **predict**：根拠やデータに基づいて将来を予測する一般的な表現
-- **[forecast](/word/forecast)**：特に天気や経済など、公式な数値予測や発表に使われる
+- **[forecast](/word/forecast/)**：特に天気や経済など、公式な数値予測や発表に使われる
 
 predictは幅広い場面で使えますが、forecastは公式な予報や数値予測に特化しています。
 
@@ -105,14 +105,14 @@ predictは幅広い場面で使えますが、forecastは公式な予報や数�
 
 ## 🧩 あわせて覚えたい
 
-- [anticipate](/word/anticipate)：予期する、期待する
-- [guess](/word/guess)：推測する（根拠が弱い場合）
+- [anticipate](/word/anticipate/)：予期する、期待する
+- [guess](/word/guess/)：推測する（根拠が弱い場合）
 
 ---
 
 ## 📖 できればこれも
 
-- [estimate](/word/estimate)：見積もる、概算する
-- [assume](/word/assume)：仮定する、思い込む
+- [estimate](/word/estimate/)：見積もる、概算する
+- [assume](/word/assume/)：仮定する、思い込む
 
 <!-- cvid: aid06_bid16 -->

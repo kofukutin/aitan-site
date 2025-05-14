@@ -97,7 +97,7 @@ TOEICでは空港や旅行、ホテルの案内文などで頻出します。特
 ## 🤔  luggage との違いは？
 
 - **baggage**：主にアメリカ英語で使われる「手荷物」全般
-- **[luggage](/word/luggage)**：主にイギリス英語で使われる「手荷物」全般
+- **[luggage](/word/luggage/)**：主にイギリス英語で使われる「手荷物」全般
 
 baggageはアメリカ、luggageはイギリスでよく使われますが、意味はほぼ同じです。地域による使い分けがポイントです。
 
@@ -105,14 +105,14 @@ baggageはアメリカ、luggageはイギリスでよく使われますが、意
 
 ## 🧩 あわせて覚えたい
 
-- [belonging](/word/belonging)：所持品
-- [parcel](/word/parcel)：小包
+- [belonging](/word/belonging/)：所持品
+- [parcel](/word/parcel/)：小包
 
 ---
 
 ## 📖 できればこれも
 
-- [suitcase](/word/suitcase)：スーツケース
-- [package](/word/package)：包み、荷物
+- [suitcase](/word/suitcase/)：スーツケース
+- [package](/word/package/)：包み、荷物
 
 <!-- cvid: aid47_bid12 -->

@@ -97,7 +97,7 @@ TOEICでは、wearの過去分詞として受動態や形容詞的に使われ�
 ## 🤔  used との違いは？
 
 - **worn**：長く使われてすり減った、古びた状態を強調
-- **[used](/word/used)**：一度以上使われた、未使用でないことを表す
+- **[used](/word/used/)**：一度以上使われた、未使用でないことを表す
 
 wornは「使い古されて傷んでいる」ニュアンスがあり、usedは単に「新品ではない」ことを指します。
 
@@ -105,14 +105,14 @@ wornは「使い古されて傷んでいる」ニュアンスがあり、usedは
 
 ## 🧩 あわせて覚えたい
 
-- [new](/word/new)：新しい
-- [tired](/word/tired)：疲れた
+- [new](/word/new/)：新しい
+- [tired](/word/tired/)：疲れた
 
 ---
 
 ## 📖 できればこれも
 
-- [torn](/word/torn)：破れた
-- [broken](/word/broken)：壊れた
+- [torn](/word/torn/)：破れた
+- [broken](/word/broken/)：壊れた
 
 <!-- cvid: aid37_bid45 -->

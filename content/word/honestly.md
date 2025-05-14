@@ -97,7 +97,7 @@ TOEICでは会話や意見表明の場面で「率直に言うと」と前置き
 ## 🤔  frankly との違いは？
 
 - **honestly**：正直な気持ちや事実を率直に述べるときに使う。
-- **[frankly](/word/frankly)**：遠慮せず、包み隠さずに意見を述べるときに使う。
+- **[frankly](/word/frankly/)**：遠慮せず、包み隠さずに意見を述べるときに使う。
 
 honestlyは「正直な気持ち」を強調し、franklyは「遠慮なく率直に」意見を述べるニュアンスが強いです。
 
@@ -105,14 +105,14 @@ honestlyは「正直な気持ち」を強調し、franklyは「遠慮なく率�
 
 ## 🧩 あわせて覚えたい
 
-- [sincerely](/word/sincerely)：心から、誠実に
-- [truthfully](/word/truthfully)：偽りなく、正直に
+- [sincerely](/word/sincerely/)：心から、誠実に
+- [truthfully](/word/truthfully/)：偽りなく、正直に
 
 ---
 
 ## 📖 できればこれも
 
-- [seriously](/word/seriously)：真剣に、本気で
-- [actually](/word/actually)：実は、実際に
+- [seriously](/word/seriously/)：真剣に、本気で
+- [actually](/word/actually/)：実は、実際に
 
 <!-- cvid: aid48_bid39 -->

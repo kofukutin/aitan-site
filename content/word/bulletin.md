@@ -97,7 +97,7 @@ TOEICでは、社内掲示や公式発表、ニュース速報などの文書で
 ## 🤔  notice との違いは？
 
 - **bulletin**：公式な発表や速報、掲示など、まとまった情報を伝えるフォーマルな文書。
-- **[notice](/word/notice)**：注意喚起や短いお知らせ、掲示など、比較的簡潔な通知。
+- **[notice](/word/notice/)**：注意喚起や短いお知らせ、掲示など、比較的簡潔な通知。
 
 bulletinは組織的・公式な発表や速報性のある情報に使われ、noticeは日常的な注意や短いお知らせに使われます。
 
@@ -105,14 +105,14 @@ bulletinは組織的・公式な発表や速報性のある情報に使われ、
 
 ## 🧩 あわせて覚えたい
 
-- [announcement](/word/announcement)：発表、告知
-- [report](/word/report)：報告書、レポート
+- [announcement](/word/announcement/)：発表、告知
+- [report](/word/report/)：報告書、レポート
 
 ---
 
 ## 📖 できればこれも
 
-- [memo](/word/memo)：メモ、社内連絡
-- [newsletter](/word/newsletter)：会報、ニュースレター
+- [memo](/word/memo/)：メモ、社内連絡
+- [newsletter](/word/newsletter/)：会報、ニュースレター
 
 <!-- cvid: aid35_bid00 -->

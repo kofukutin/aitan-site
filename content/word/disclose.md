@@ -96,7 +96,7 @@ TOEICでは契約書やビジネスメール、報告書などで「情報開示
 ## 🤔  reveal との違いは？
 
 - **disclose**：公式・フォーマルな場面で「隠されていた情報を開示する」ニュアンス
-- **[reveal](/word/reveal)**：一般的に「明らかにする」「見せる」幅広い場面で使う
+- **[reveal](/word/reveal/)**：一般的に「明らかにする」「見せる」幅広い場面で使う
 
 discloseは特にビジネスや法的な文脈で使われ、revealは日常的な「見せる・明かす」にも使えます。
 
@@ -104,14 +104,14 @@ discloseは特にビジネスや法的な文脈で使われ、revealは日常的
 
 ## 🧩 あわせて覚えたい
 
-- [conceal](/word/conceal)：隠す、秘密にする
-- [announce](/word/announce)：発表する、公表する
+- [conceal](/word/conceal/)：隠す、秘密にする
+- [announce](/word/announce/)：発表する、公表する
 
 ---
 
 ## 📖 できればこれも
 
-- [expose](/word/expose)：さらす、暴露する
-- [inform](/word/inform)：知らせる、通知する
+- [expose](/word/expose/)：さらす、暴露する
+- [inform](/word/inform/)：知らせる、通知する
 
 <!-- cvid: aid31_bid01 -->

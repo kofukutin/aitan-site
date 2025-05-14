@@ -97,7 +97,7 @@ TOEICでは数量や金額を表す文脈で頻出します。特に数字表現
 ## 🤔  million との違いは？
 
 - **thousand**：1000を表す基本的な数詞。日常的な数量や金額でよく使う。
-- **[million](/word/million)**：100万を表す数詞。より大きな単位や規模を表現する際に使う。
+- **[million](/word/million/)**：100万を表す数詞。より大きな単位や規模を表現する際に使う。
 
 thousandは「千」、millionは「百万」と、表す数の大きさが大きく異なります。
 
@@ -105,14 +105,14 @@ thousandは「千」、millionは「百万」と、表す数の大きさが大�
 
 ## 🧩 あわせて覚えたい
 
-- [hundred](/word/hundred)：100
-- [billion](/word/billion)：10億
+- [hundred](/word/hundred/)：100
+- [billion](/word/billion/)：10億
 
 ---
 
 ## 📖 できればこれも
 
-- [dozen](/word/dozen)：12（ダース）
-- [score](/word/score)：20（スコア、20の単位）
+- [dozen](/word/dozen/)：12（ダース）
+- [score](/word/score/)：20（スコア、20の単位）
 
 <!-- cvid: aid23_bid38 -->

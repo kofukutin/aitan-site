@@ -96,7 +96,7 @@ TOEICでは主に観光や歴史に関する長文や説明文で登場するこ
 ## 🤔  pirate との違いは？
 
 - **viking**：8～11世紀ごろの北欧出身の海賊・探検者
-- **[pirate](/word/pirate)**：一般的な海賊、時代や地域を問わず使う
+- **[pirate](/word/pirate/)**：一般的な海賊、時代や地域を問わず使う
 
 vikingは特定の時代・地域（北欧）に限定される歴史的な呼称ですが、pirateは時代や国を問わず「海賊」全般を指します。
 
@@ -104,14 +104,14 @@ vikingは特定の時代・地域（北欧）に限定される歴史的な呼�
 
 ## 🧩 あわせて覚えたい
 
-- [explorer](/word/explorer)：探検家
-- [warrior](/word/warrior)：戦士
+- [explorer](/word/explorer/)：探検家
+- [warrior](/word/warrior/)：戦士
 
 ---
 
 ## 📖 できればこれも
 
-- [pirate](/word/pirate)：海賊
-- [explorer](/word/explorer)：探検家
+- [pirate](/word/pirate/)：海賊
+- [explorer](/word/explorer/)：探検家
 
 <!-- cvid: aid17_bid46 -->

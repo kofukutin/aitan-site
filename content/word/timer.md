@@ -97,7 +97,7 @@ TOEICでは、会議室やオフィス機器の説明、日常的な会話で「
 ## 🤔  stopwatch との違いは？
 
 - **timer**：あらかじめ設定した時間をカウントダウンし、終了時に知らせる装置や機能。
-- **[stopwatch](/word/stopwatch)**：スタートからの経過時間を計測する装置や機能。
+- **[stopwatch](/word/stopwatch/)**：スタートからの経過時間を計測する装置や機能。
 
 timerは「残り時間」を測るのに使い、stopwatchは「経過時間」を測るのに使います。
 
@@ -105,14 +105,14 @@ timerは「残り時間」を測るのに使い、stopwatchは「経過時間」
 
 ## 🧩 あわせて覚えたい
 
-- [alarm](/word/alarm)：アラーム、警報
-- [clock](/word/clock)：時計
+- [alarm](/word/alarm/)：アラーム、警報
+- [clock](/word/clock/)：時計
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device)：装置、機器
-- [button](/word/button)：ボタン
+- [device](/word/device/)：装置、機器
+- [button](/word/button/)：ボタン
 
 <!-- cvid: aid42_bid27 -->

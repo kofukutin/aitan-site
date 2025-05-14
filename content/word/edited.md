@@ -97,7 +97,7 @@ TOEICでは、メールや報告書などの文書編集に関連して「edited
 ## 🤔  revised との違いは？
 
 - **edited**：編集されて内容が整理・修正された状態
-- **[revised](/word/revised)**：内容が見直され、修正・改訂された状態
+- **[revised](/word/revised/)**：内容が見直され、修正・改訂された状態
 
 「edited」は主に体裁や表現の調整を含む編集全般を指し、「revised」は内容自体の見直しや改訂に重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは、メールや報告書などの文書編集に関連して「edited
 
 ## 🧩 あわせて覚えたい
 
-- [proofread](/word/proofread)：校正する、誤字脱字をチェックする
-- [update](/word/update)：更新する、新しくする
+- [proofread](/word/proofread/)：校正する、誤字脱字をチェックする
+- [update](/word/update/)：更新する、新しくする
 
 ---
 
 ## 📖 できればこれも
 
-- [final](/word/final)：最終の、決定版の
-- [draft](/word/draft)：下書き、草案
+- [final](/word/final/)：最終の、決定版の
+- [draft](/word/draft/)：下書き、草案
 
 <!-- cvid: aid46_bid09 -->

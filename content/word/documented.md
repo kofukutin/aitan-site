@@ -97,7 +97,7 @@ TOEICでは、報告書や手続き、証拠書類に関する説明文でよく
 ## 🤔  recorded との違いは？
 
 - **documented**：文書や証拠として正式に記録されたことを強調
-- **[recorded](/word/recorded)**：音声・映像・データなど幅広い「記録された」状態を指す
+- **[recorded](/word/recorded/)**：音声・映像・データなど幅広い「記録された」状態を指す
 
 「documented」は特に書類や証拠として残されたニュアンスが強く、公式性や裏付けを重視します。一方「recorded」は単に何かが記録された状態全般を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、報告書や手続き、証拠書類に関する説明文でよく
 
 ## 🧩 あわせて覚えたい
 
-- [official](/word/official)：公式の、正式な
-- [evidence](/word/evidence)：証拠、根拠
+- [official](/word/official/)：公式の、正式な
+- [evidence](/word/evidence/)：証拠、根拠
 
 ---
 
 ## 📖 できればこれも
 
-- [verified](/word/verified)：確認された、検証済みの
-- [attached](/word/attached)：添付された
+- [verified](/word/verified/)：確認された、検証済みの
+- [attached](/word/attached/)：添付された
 
 <!-- cvid: aid25_bid19 -->

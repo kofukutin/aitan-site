@@ -97,7 +97,7 @@ TOEICでは、規則や方針、管理体制などを説明する文脈でよく
 ## 🤔  severe との違いは？
 
 - **strict**：規則や態度が「厳しい」「厳格な」ことを表す
-- **[severe](/word/severe)**：状況や処罰、天候などが「深刻」「過酷」であることを表す
+- **[severe](/word/severe/)**：状況や処罰、天候などが「深刻」「過酷」であることを表す
 
 strictは「ルールや人の態度が厳しい」場合に使い、severeは「状況や影響が深刻・過酷」な場合に使います。
 
@@ -105,14 +105,14 @@ strictは「ルールや人の態度が厳しい」場合に使い、severeは�
 
 ## 🧩 あわせて覚えたい
 
-- [lenient](/word/lenient)：寛大な、甘い
-- [rigid](/word/rigid)：柔軟性がなく厳格な
+- [lenient](/word/lenient/)：寛大な、甘い
+- [rigid](/word/rigid/)：柔軟性がなく厳格な
 
 ---
 
 ## 📖 できればこれも
 
-- [precise](/word/precise)：正確な
-- [firm](/word/firm)：断固とした、しっかりした
+- [precise](/word/precise/)：正確な
+- [firm](/word/firm/)：断固とした、しっかりした
 
 <!-- cvid: aid00_bid05 -->

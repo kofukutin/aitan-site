@@ -97,7 +97,7 @@ TOEICでは、カジノやリスクに関する記事や広告文などで登場
 ## 🤔  betting との違いは？
 
 - **gambling**：お金や価値のあるものを賭けて勝負する行為全般を指す。
-- **[betting](/word/betting)**：特に「賭けること」「賭け金をかける行為」に焦点を当てる。
+- **[betting](/word/betting/)**：特に「賭けること」「賭け金をかける行為」に焦点を当てる。
 
 gamblingは賭博全体を指し、bettingは個々の「賭ける」行為やそのプロセスに注目します。
 
@@ -105,14 +105,14 @@ gamblingは賭博全体を指し、bettingは個々の「賭ける」行為や�
 
 ## 🧩 あわせて覚えたい
 
-- [risk](/word/risk)：リスク、危険
-- [lottery](/word/lottery)：宝くじ
+- [risk](/word/risk/)：リスク、危険
+- [lottery](/word/lottery/)：宝くじ
 
 ---
 
 ## 📖 できればこれも
 
-- [investment](/word/investment)：投資
-- [chance](/word/chance)：機会、可能性
+- [investment](/word/investment/)：投資
+- [chance](/word/chance/)：機会、可能性
 
 <!-- cvid: aid42_bid34 -->

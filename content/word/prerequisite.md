@@ -96,7 +96,7 @@ TOEICでは主にPart 5で「必要条件」「前提条件」として出題さ
 ## 🤔  requirement との違いは？
 
 - **prerequisite**：何かを始める前に必ず満たすべき「前提条件」
-- **[requirement](/word/requirement)**：必要な条件全般（前提に限らず幅広い）
+- **[requirement](/word/requirement/)**：必要な条件全般（前提に限らず幅広い）
 
 prerequisiteは「事前にクリアしておくべき条件」に限定され、requirementは「必要条件」全般を指します。
 
@@ -104,14 +104,14 @@ prerequisiteは「事前にクリアしておくべき条件」に限定され�
 
 ## 🧩 あわせて覚えたい
 
-- [qualification](/word/qualification)：資格、能力
-- [condition](/word/condition)：条件、状況
+- [qualification](/word/qualification/)：資格、能力
+- [condition](/word/condition/)：条件、状況
 
 ---
 
 ## 📖 できればこれも
 
-- [eligibility](/word/eligibility)：資格、適格性
-- [criteria](/word/criteria)：基準、判断条件
+- [eligibility](/word/eligibility/)：資格、適格性
+- [criteria](/word/criteria/)：基準、判断条件
 
 <!-- cvid: aid04_bid35 -->

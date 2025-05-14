@@ -97,7 +97,7 @@ TOEICでは契約や法務関連の長文で登場しやすく、ビジネス文
 ## 🤔  lawsuit との違いは？
 
 - **litigation**：訴訟という法的手続き全体やその過程を指すフォーマルな表現
-- **[lawsuit](/word/lawsuit)**：特定の訴訟事件や訴えそのものを指すややカジュアルな単語
+- **[lawsuit](/word/lawsuit/)**：特定の訴訟事件や訴えそのものを指すややカジュアルな単語
 
 litigationは「訴訟手続き全般」、lawsuitは「個別の訴訟案件」を指す点で使い分けます。
 
@@ -105,14 +105,14 @@ litigationは「訴訟手続き全般」、lawsuitは「個別の訴訟案件」
 
 ## 🧩 あわせて覚えたい
 
-- [arbitration](/word/arbitration)：仲裁（裁判外での紛争解決）
-- [settlement](/word/settlement)：和解（争いの解決）
+- [arbitration](/word/arbitration/)：仲裁（裁判外での紛争解決）
+- [settlement](/word/settlement/)：和解（争いの解決）
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract)：契約
-- [evidence](/word/evidence)：証拠
+- [contract](/word/contract/)：契約
+- [evidence](/word/evidence/)：証拠
 
 <!-- cvid: aid33_bid08 -->

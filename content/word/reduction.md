@@ -97,7 +97,7 @@ TOEICではコストや数量の「削減」「減少」を表す文脈でよく
 ## 🤔  decrease との違いは？
 
 - **reduction**：名詞で「減少」「削減」という結果や状態を表す。
-- **[decrease](/word/decrease)**：動詞・名詞両方で使え、「減る」「減少する」という変化や動作を強調。
+- **[decrease](/word/decrease/)**：動詞・名詞両方で使え、「減る」「減少する」という変化や動作を強調。
 
 reductionは「減った結果」や「削減された量」に焦点があり、decreaseは「減る動き」や「減少する過程」に注目します。
 
@@ -105,14 +105,14 @@ reductionは「減った結果」や「削減された量」に焦点があり�
 
 ## 🧩 あわせて覚えたい
 
-- [discount](/word/discount)：割引
-- [cut](/word/cut)：削減、カット
+- [discount](/word/discount/)：割引
+- [cut](/word/cut/)：削減、カット
 
 ---
 
 ## 📖 できればこれも
 
-- [increase](/word/increase)：増加
-- [expense](/word/expense)：費用
+- [increase](/word/increase/)：増加
+- [expense](/word/expense/)：費用
 
 <!-- cvid: aid06_bid04 -->

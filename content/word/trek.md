@@ -98,7 +98,7 @@ TOEICでは旅行や出張、観光に関する会話文で「trek」が登場�
 ## 🤔  hike との違いは？
 
 - **trek**：苦労して長距離を歩く、険しい道のりを進むニュアンス
-- **[hike](/word/hike)**：比較的気軽なハイキングや散歩、運動目的の歩行
+- **[hike](/word/hike/)**：比較的気軽なハイキングや散歩、運動目的の歩行
 
 「trek」は困難や長距離を強調し、「hike」はレジャーや運動目的での歩行を指すことが多いです。
 
@@ -106,14 +106,14 @@ TOEICでは旅行や出張、観光に関する会話文で「trek」が登場�
 
 ## 🧩 あわせて覚えたい
 
-- [journey](/word/journey)：旅、長い移動
-- [expedition](/word/expedition)：探検、遠征
+- [journey](/word/journey/)：旅、長い移動
+- [expedition](/word/expedition/)：探検、遠征
 
 ---
 
 ## 📖 できればこれも
 
-- [travel](/word/travel)：旅行する
-- [explore](/word/explore)：探検する、調査する
+- [travel](/word/travel/)：旅行する
+- [explore](/word/explore/)：探検する、調査する
 
 <!-- cvid: aid46_bid46 -->

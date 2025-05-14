@@ -97,7 +97,7 @@ TOEICでは工場や生産現場、設備投資などの文脈でよく登場し
 ## 🤔  equipment との違いは？
 
 - **machinery**：工場や生産現場の「機械類一式」を指し、主に大型・複雑な機械の集合体を表す。
-- **[equipment](/word/equipment)**：道具や装置など「設備全般」を指し、機械以外も含む幅広い意味。
+- **[equipment](/word/equipment/)**：道具や装置など「設備全般」を指し、機械以外も含む幅広い意味。
 
 machineryは「動く機械の集まり」に特化し、equipmentは「必要な道具・装置全般」としてより広い範囲をカバーします。
 
@@ -105,14 +105,14 @@ machineryは「動く機械の集まり」に特化し、equipmentは「必要�
 
 ## 🧩 あわせて覚えたい
 
-- [device](/word/device)：装置、機器
-- [tool](/word/tool)：道具、工具
+- [device](/word/device/)：装置、機器
+- [tool](/word/tool/)：道具、工具
 
 ---
 
 ## 📖 できればこれも
 
-- [instrument](/word/instrument)：器具、計測機器
-- [facility](/word/facility)：施設、設備
+- [instrument](/word/instrument/)：器具、計測機器
+- [facility](/word/facility/)：施設、設備
 
 <!-- cvid: aid23_bid14 -->

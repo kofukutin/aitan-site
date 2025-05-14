@@ -97,7 +97,7 @@ TOEICではビジネスシーンやスポーツ、企業間の競争などの文
 ## 🤔  contend との違いは？
 
 - **compete**：勝ち負けや順位を目指して他者と競争する
-- **[contend](/word/contend)**：困難や相手と「争う」「戦う」など幅広く使う
+- **[contend](/word/contend/)**：困難や相手と「争う」「戦う」など幅広く使う
 
 competeは「競争」というニュアンスが強く、contendは「困難や相手と戦う」など幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ competeは「競争」というニュアンスが強く、contendは「困難や
 
 ## 🧩 あわせて覚えたい
 
-- [cooperate](/word/cooperate)：協力する
-- [rival](/word/rival)：ライバル、競争相手
+- [cooperate](/word/cooperate/)：協力する
+- [rival](/word/rival/)：ライバル、競争相手
 
 ---
 
 ## 📖 できればこれも
 
-- [achieve](/word/achieve)：達成する
-- [participate](/word/participate)：参加する
+- [achieve](/word/achieve/)：達成する
+- [participate](/word/participate/)：参加する
 
 <!-- cvid: aid36_bid18 -->

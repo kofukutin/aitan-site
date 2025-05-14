@@ -97,7 +97,7 @@ TOEICではIT関連の説明文やメール、案内文で「modem」が登場�
 ## 🤔  router との違いは？
 
 - **modem**：インターネット回線と家庭やオフィスのネットワークをつなぐ変換装置。
-- **[router](/word/router)**：複数の機器をネットワークでつなぎ、データを振り分ける装置。
+- **[router](/word/router/)**：複数の機器をネットワークでつなぎ、データを振り分ける装置。
 
 modemは外部回線との接続役、routerはネットワーク内の機器同士をつなぐ役割で、両者は役割が異なります。
 
@@ -105,14 +105,14 @@ modemは外部回線との接続役、routerはネットワーク内の機器同
 
 ## 🧩 あわせて覚えたい
 
-- [network](/word/network)：ネットワーク、通信網
-- [device](/word/device)：装置、機器
+- [network](/word/network/)：ネットワーク、通信網
+- [device](/word/device/)：装置、機器
 
 ---
 
 ## 📖 できればこれも
 
-- [server](/word/server)：サーバー、情報を提供するコンピュータ
-- [cable](/word/cable)：ケーブル、電線
+- [server](/word/server/)：サーバー、情報を提供するコンピュータ
+- [cable](/word/cable/)：ケーブル、電線
 
 <!-- cvid: aid49_bid21 -->

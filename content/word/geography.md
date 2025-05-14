@@ -97,7 +97,7 @@ TOEICでは、記事や説明文の中で「地理」や「地域の特徴」を
 ## 🤔  geology との違いは？
 
 - **geography**：地球上の場所や地域の特徴、人間活動との関係などを扱う学問
-- **[geology](/word/geology)**：地球の構造や岩石、地層など地質そのものを研究する学問
+- **[geology](/word/geology/)**：地球の構造や岩石、地層など地質そのものを研究する学問
 
 geographyは「場所や人間活動」に焦点を当て、geologyは「地球の物質的な構造や成り立ち」に焦点を当てます。
 
@@ -105,14 +105,14 @@ geographyは「場所や人間活動」に焦点を当て、geologyは「地球�
 
 ## 🧩 あわせて覚えたい
 
-- [history](/word/history)：歴史
-- [climate](/word/climate)：気候
+- [history](/word/history/)：歴史
+- [climate](/word/climate/)：気候
 
 ---
 
 ## 📖 できればこれも
 
-- [biology](/word/biology)：生物学
-- [culture](/word/culture)：文化
+- [biology](/word/biology/)：生物学
+- [culture](/word/culture/)：文化
 
 <!-- cvid: aid14_bid00 -->

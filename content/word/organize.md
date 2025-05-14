@@ -97,7 +97,7 @@ TOEICでは「会議をorganizeする」「資料をorganizeする」など、�
 ## 🤔  arrange との違いは？
 
 - **organize**：全体を秩序立ててまとめたり、計画・準備するニュアンスが強い
-- **[arrange](/word/arrange)**：物事を順序よく並べたり、手配・調整する意味が中心
+- **[arrange](/word/arrange/)**：物事を順序よく並べたり、手配・調整する意味が中心
 
 organizeは「全体をまとめる・管理する」イメージ、arrangeは「順序や配置を整える」イメージで使い分けます。
 
@@ -105,14 +105,14 @@ organizeは「全体をまとめる・管理する」イメージ、arrangeは�
 
 ## 🧩 あわせて覚えたい
 
-- [plan](/word/plan)：計画する
-- [manage](/word/manage)：管理する
+- [plan](/word/plan/)：計画する
+- [manage](/word/manage/)：管理する
 
 ---
 
 ## 📖 できればこれも
 
-- [prepare](/word/prepare)：準備する
-- [schedule](/word/schedule)：予定を立てる
+- [prepare](/word/prepare/)：準備する
+- [schedule](/word/schedule/)：予定を立てる
 
 <!-- cvid: aid38_bid41 -->

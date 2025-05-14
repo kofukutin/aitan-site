@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、釣りをしている場面の説明
 ## 🤔  angling との違いは？
 
 - **fishing**：一般的に魚を釣ること全般を指すカジュアルな表現。
-- **[angling](/word/angling)**：特に釣り針と糸を使った「釣り」を指し、やや専門的・フォーマルな響き。
+- **[angling](/word/angling/)**：特に釣り針と糸を使った「釣り」を指し、やや専門的・フォーマルな響き。
 
 fishingは広く使われる日常語ですが、anglingは趣味やスポーツとしての釣りを強調したいときに使われます。
 
@@ -105,14 +105,14 @@ fishingは広く使われる日常語ですが、anglingは趣味やスポーツ
 
 ## 🧩 あわせて覚えたい
 
-- [hunting](/word/hunting)：狩猟
-- [boating](/word/boating)：ボート遊び
+- [hunting](/word/hunting/)：狩猟
+- [boating](/word/boating/)：ボート遊び
 
 ---
 
 ## 📖 できればこれも
 
-- [swimming](/word/swimming)：水泳
-- [camping](/word/camping)：キャンプ
+- [swimming](/word/swimming/)：水泳
+- [camping](/word/camping/)：キャンプ
 
 <!-- cvid: aid24_bid32 -->

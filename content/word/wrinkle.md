@@ -97,7 +97,7 @@ TOEICでは主に衣服や書類の状態を説明する文脈で出題される
 ## 🤔  crease との違いは？
 
 - **wrinkle**：自然にできる細かいしわや年齢によるしわ、衣服のしわなど幅広く使う
-- **[crease](/word/crease)**：折り目や意図的につけた線状のしわ
+- **[crease](/word/crease/)**：折り目や意図的につけた線状のしわ
 
 wrinkleは自然にできるしわ全般を指し、creaseはアイロンや折りたたみでできる「折り目」に近いニュアンスです。
 
@@ -105,14 +105,14 @@ wrinkleは自然にできるしわ全般を指し、creaseはアイロンや折�
 
 ## 🧩 あわせて覚えたい
 
-- [fold](/word/fold)：折り目、折ること
-- [smooth](/word/smooth)：なめらかな、しわのない
+- [fold](/word/fold/)：折り目、折ること
+- [smooth](/word/smooth/)：なめらかな、しわのない
 
 ---
 
 ## 📖 できればこれも
 
-- [scratch](/word/scratch)：ひっかき傷
-- [stain](/word/stain)：しみ、汚れ
+- [scratch](/word/scratch/)：ひっかき傷
+- [stain](/word/stain/)：しみ、汚れ
 
 <!-- cvid: aid17_bid40 -->

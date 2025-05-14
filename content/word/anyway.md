@@ -93,7 +93,7 @@ TOEICでは会話の流れを示す副詞としてPart 3やPart 7でよく登場
 ## 🤔  however との違いは？
 
 - **anyway**：話題を切り替えたり、「とにかく」「いずれにせよ」とカジュアルに使う
-- **[however](/word/however)**：対比や逆接を強調し、フォーマルな文脈で「しかしながら」と使う
+- **[however](/word/however/)**：対比や逆接を強調し、フォーマルな文脈で「しかしながら」と使う
 
 anywayは会話で気軽に使い、howeverは書き言葉やフォーマルな場面で使い分けます。
 
@@ -101,14 +101,14 @@ anywayは会話で気軽に使い、howeverは書き言葉やフォーマルな�
 
 ## 🧩 あわせて覚えたい
 
-- [besides](/word/besides)：そのうえ、さらに
-- [regardless](/word/regardless)：～に関係なく
+- [besides](/word/besides/)：そのうえ、さらに
+- [regardless](/word/regardless/)：～に関係なく
 
 ---
 
 ## 📖 できればこれも
 
-- [actually](/word/actually)：実は、実際は
-- [instead](/word/instead)：その代わりに
+- [actually](/word/actually/)：実は、実際は
+- [instead](/word/instead/)：その代わりに
 
 <!-- cvid: aid12_bid30 -->

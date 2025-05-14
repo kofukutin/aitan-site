@@ -97,7 +97,7 @@ TOEICでは「権力」「電力」「能力」など複数の意味で出題さ
 ## 🤔  authority との違いは？
 
 - **power**：物理的・社会的な「力」や「影響力」全般を指す
-- **[authority](/word/authority)**：正式な「権限」や「権威」を指す
+- **[authority](/word/authority/)**：正式な「権限」や「権威」を指す
 
 powerは広い意味での力や影響力を表し、authorityは組織や役職などから与えられる公式な権限を強調します。
 
@@ -105,14 +105,14 @@ powerは広い意味での力や影響力を表し、authorityは組織や役職
 
 ## 🧩 あわせて覚えたい
 
-- [influence](/word/influence)：影響、影響力
-- [energy](/word/energy)：エネルギー、活力
+- [influence](/word/influence/)：影響、影響力
+- [energy](/word/energy/)：エネルギー、活力
 
 ---
 
 ## 📖 できればこれも
 
-- [control](/word/control)：支配、管理
-- [ability](/word/ability)：能力、才能
+- [control](/word/control/)：支配、管理
+- [ability](/word/ability/)：能力、才能
 
 <!-- cvid: aid43_bid41 -->

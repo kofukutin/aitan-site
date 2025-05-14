@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「ブラシで掃く」「ブラシを
 ## 🤔  sweep との違いは？
 
 - **brush**：ブラシやはけなどの道具そのもの、またはブラシで掃く動作
-- **[sweep](/word/sweep)**：ほうきなどで広い範囲を掃く動作
+- **[sweep](/word/sweep/)**：ほうきなどで広い範囲を掃く動作
 
 「brush」は道具や細かい部分の掃除・塗装に使い、「sweep」は広い範囲を一気に掃除する動作に使います。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写で「ブラシで掃く」「ブラシを
 
 ## 🧩 あわせて覚えたい
 
-- [comb](/word/comb)：くし、髪をとかす道具
-- [wipe](/word/wipe)：拭く、ぬぐう
+- [comb](/word/comb/)：くし、髪をとかす道具
+- [wipe](/word/wipe/)：拭く、ぬぐう
 
 ---
 
 ## 📖 できればこれも
 
-- [paint](/word/paint)：塗る、ペンキ
-- [clean](/word/clean)：掃除する、きれいにする
+- [paint](/word/paint/)：塗る、ペンキ
+- [clean](/word/clean/)：掃除する、きれいにする
 
 <!-- cvid: aid04_bid07 -->

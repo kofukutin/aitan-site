@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写で、標識や案内板の「矢印」を説明
 ## 🤔  pointer との違いは？
 
 - **arrow**：矢や矢印そのものを指す
-- **[pointer](/word/pointer)**：何かを指し示す道具やマウスカーソルなどを指す
+- **[pointer](/word/pointer/)**：何かを指し示す道具やマウスカーソルなどを指す
 
 arrowは「→」のような形や実際の矢を指し、pointerは指示棒やマウスの矢印型カーソルなど「指し示すもの」全般を指します。
 
@@ -105,14 +105,14 @@ arrowは「→」のような形や実際の矢を指し、pointerは指示棒�
 
 ## 🧩 あわせて覚えたい
 
-- [bow](/word/bow)：弓
-- [direction](/word/direction)：方向
+- [bow](/word/bow/)：弓
+- [direction](/word/direction/)：方向
 
 ---
 
 ## 📖 できればこれも
 
-- [line](/word/line)：線
-- [sign](/word/sign)：標識
+- [line](/word/line/)：線
+- [sign](/word/sign/)：標識
 
 <!-- cvid: aid01_bid28 -->

@@ -97,7 +97,7 @@ TOEICでは、名詞の前に置いて「～の形をした」という意味で
 ## 🤔  formed との違いは？
 
 - **shaped**：特定の形や輪郭を持つことを強調
-- **[formed](/word/formed)**：形が作られた「過程」や「構造」を強調
+- **[formed](/word/formed/)**：形が作られた「過程」や「構造」を強調
 
 shapedは「見た目の形」に注目し、formedは「作られた経緯や構造」に注目します。
 
@@ -105,14 +105,14 @@ shapedは「見た目の形」に注目し、formedは「作られた経緯や�
 
 ## 🧩 あわせて覚えたい
 
-- [molded](/word/molded)：型で成形された
-- [designed](/word/designed)：設計された
+- [molded](/word/molded/)：型で成形された
+- [designed](/word/designed/)：設計された
 
 ---
 
 ## 📖 できればこれも
 
-- [round](/word/round)：丸い
-- [flat](/word/flat)：平らな
+- [round](/word/round/)：丸い
+- [flat](/word/flat/)：平らな
 
 <!-- cvid: aid38_bid30 -->

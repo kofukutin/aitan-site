@@ -97,7 +97,7 @@ TOEICでは、医療やビジネスの文脈で「感度」「配慮」といっ
 ## 🤔  awareness との違いは？
 
 - **sensitivity**：刺激や感情などに対して「敏感であること」「感度」
-- **[awareness](/word/awareness)**：物事や状況に「気づいていること」「認識」
+- **[awareness](/word/awareness/)**：物事や状況に「気づいていること」「認識」
 
 sensitivityは「感じやすさ」や「配慮の深さ」を表し、awarenessは「知っている」「意識している」状態を指します。
 
@@ -105,14 +105,14 @@ sensitivityは「感じやすさ」や「配慮の深さ」を表し、awareness
 
 ## 🧩 あわせて覚えたい
 
-- [tolerance](/word/tolerance)：寛容さ、耐性
-- [empathy](/word/empathy)：共感、感情移入
+- [tolerance](/word/tolerance/)：寛容さ、耐性
+- [empathy](/word/empathy/)：共感、感情移入
 
 ---
 
 ## 📖 できればこれも
 
-- [reaction](/word/reaction)：反応
-- [concern](/word/concern)：関心、心配
+- [reaction](/word/reaction/)：反応
+- [concern](/word/concern/)：関心、心配
 
 <!-- cvid: aid43_bid45 -->

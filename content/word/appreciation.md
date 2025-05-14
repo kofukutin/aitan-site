@@ -97,7 +97,7 @@ TOEICではメールや通知文、感謝のメッセージなどで「感謝」
 ## 🤔  gratitude との違いは？
 
 - **appreciation**：感謝の気持ちに加え、価値や努力を認めて評価するニュアンスが強い
-- **[gratitude](/word/gratitude)**：純粋な「感謝」の気持ちを表す
+- **[gratitude](/word/gratitude/)**：純粋な「感謝」の気持ちを表す
 
 appreciationは「評価」や「認識」の意味も含み、gratitudeは「ありがたさ」の感情に特化しています。
 
@@ -105,14 +105,14 @@ appreciationは「評価」や「認識」の意味も含み、gratitudeは「�
 
 ## 🧩 あわせて覚えたい
 
-- [recognition](/word/recognition)：認識、表彰
-- [admiration](/word/admiration)：称賛、感嘆
+- [recognition](/word/recognition/)：認識、表彰
+- [admiration](/word/admiration/)：称賛、感嘆
 
 ---
 
 ## 📖 できればこれも
 
-- [approval](/word/approval)：承認、賛成
-- [assessment](/word/assessment)：評価、査定
+- [approval](/word/approval/)：承認、賛成
+- [assessment](/word/assessment/)：評価、査定
 
 <!-- cvid: aid22_bid10 -->

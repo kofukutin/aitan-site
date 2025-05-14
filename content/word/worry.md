@@ -97,7 +97,7 @@ TOEICでは会話やメール文で「心配しないでください」「ご心
 ## 🤔  concern との違いは？
 
 - **worry**：強い不安や心配を感じること
-- **[concern](/word/concern)**：ややフォーマルで、気にかける・関心を持つニュアンス
+- **[concern](/word/concern/)**：ややフォーマルで、気にかける・関心を持つニュアンス
 
 worryは感情的な不安や心配を表し、concernはもう少し冷静に「気にかける」「関心がある」という意味で使われます。
 
@@ -105,14 +105,14 @@ worryは感情的な不安や心配を表し、concernはもう少し冷静に�
 
 ## 🧩 あわせて覚えたい
 
-- [anxiety](/word/anxiety)：不安、心配（名詞）
-- [relieve](/word/relieve)：安心させる、和らげる（動詞）
+- [anxiety](/word/anxiety/)：不安、心配（名詞）
+- [relieve](/word/relieve/)：安心させる、和らげる（動詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [stress](/word/stress)：ストレス、緊張（名詞）
-- [fear](/word/fear)：恐れ、恐怖（名詞）
+- [stress](/word/stress/)：ストレス、緊張（名詞）
+- [fear](/word/fear/)：恐れ、恐怖（名詞）
 
 <!-- cvid: aid08_bid41 -->

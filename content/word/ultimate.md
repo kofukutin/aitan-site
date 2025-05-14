@@ -97,7 +97,7 @@ TOEICでは「ultimate decision（最終決定）」や「ultimate goal（最終
 ## 🤔  final との違いは？
 
 - **ultimate**：究極の、最終段階の（最も重要・最高レベルのニュアンスを含む）
-- **[final](/word/final)**：最後の、最終的な（順序や段階の「最後」）
+- **[final](/word/final/)**：最後の、最終的な（順序や段階の「最後」）
 
 ultimateは「最終的かつ最高レベル」「究極の到達点」を強調し、finalは単に「順番として最後」であることを表します。
 
@@ -105,14 +105,14 @@ ultimateは「最終的かつ最高レベル」「究極の到達点」を強調
 
 ## 🧩 あわせて覚えたい
 
-- [supreme](/word/supreme)：最高の、至高の
-- [fundamental](/word/fundamental)：基本的な、根本的な
+- [supreme](/word/supreme/)：最高の、至高の
+- [fundamental](/word/fundamental/)：基本的な、根本的な
 
 ---
 
 ## 📖 できればこれも
 
-- [primary](/word/primary)：主要な、第一の
-- [essential](/word/essential)：不可欠な、本質的な
+- [primary](/word/primary/)：主要な、第一の
+- [essential](/word/essential/)：不可欠な、本質的な
 
 <!-- cvid: aid01_bid00 -->

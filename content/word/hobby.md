@@ -96,7 +96,7 @@ TOEICでは、自己紹介や人物紹介、Eメール文などで「趣味」�
 ## 🤔  interest との違いは？
 
 - **hobby**：楽しみや気分転換のために定期的に行う「趣味」
-- **[interest](/word/interest)**：興味・関心があること全般
+- **[interest](/word/interest/)**：興味・関心があること全般
 
 hobbyは実際に行動として続けている趣味、interestは単なる関心や興味も含みます。
 
@@ -104,14 +104,14 @@ hobbyは実際に行動として続けている趣味、interestは単なる関�
 
 ## 🧩 あわせて覚えたい
 
-- [pastime](/word/pastime)：気晴らし、娯楽
-- [habit](/word/habit)：習慣、癖
+- [pastime](/word/pastime/)：気晴らし、娯楽
+- [habit](/word/habit/)：習慣、癖
 
 ---
 
 ## 📖 できればこれも
 
-- [activity](/word/activity)：活動
-- [skill](/word/skill)：技能、スキル
+- [activity](/word/activity/)：活動
+- [skill](/word/skill/)：技能、スキル
 
 <!-- cvid: aid37_bid36 -->

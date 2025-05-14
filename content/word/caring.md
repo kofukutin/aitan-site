@@ -97,7 +97,7 @@ caringは、職場や日常の会話で「思いやりのある人」や「配�
 ## 🤔  considerate との違いは？
 
 - **caring**：相手の気持ちや状況に寄り添い、実際に世話をしたり助けたりする優しさを強調。
-- **[considerate](/word/considerate)**：他人の立場や気持ちを考えて配慮する、思慮深い。
+- **[considerate](/word/considerate/)**：他人の立場や気持ちを考えて配慮する、思慮深い。
 
 caringは「行動で示す優しさ」、considerateは「気配りや配慮の心」を表す点が異なります。
 
@@ -105,14 +105,14 @@ caringは「行動で示す優しさ」、considerateは「気配りや配慮の
 
 ## 🧩 あわせて覚えたい
 
-- [selfish](/word/selfish)：自己中心的な
-- [thoughtful](/word/thoughtful)：思慮深い、気配りができる
+- [selfish](/word/selfish/)：自己中心的な
+- [thoughtful](/word/thoughtful/)：思慮深い、気配りができる
 
 ---
 
 ## 📖 できればこれも
 
-- [helpful](/word/helpful)：助けになる、親切な
-- [friendly](/word/friendly)：親しみやすい、友好的な
+- [helpful](/word/helpful/)：助けになる、親切な
+- [friendly](/word/friendly/)：親しみやすい、友好的な
 
 <!-- cvid: aid11_bid46 -->

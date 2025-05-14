@@ -97,7 +97,7 @@ TOEICでは契約書や規約、ビジネス文書の読解問題で頻出しま
 ## 🤔  provision との違いは？
 
 - **clause**：契約書や文書内の「条項」や文法上の「節」を指す
-- **[provision](/word/provision)**：契約や法律の「規定」「供給」など、より広い意味で使われる
+- **[provision](/word/provision/)**：契約や法律の「規定」「供給」など、より広い意味で使われる
 
 clauseは文書内の個別の条項や文法の節に限定されるのに対し、provisionは規定全体や供給の意味も持ち、より包括的です。
 
@@ -105,14 +105,14 @@ clauseは文書内の個別の条項や文法の節に限定されるのに対�
 
 ## 🧩 あわせて覚えたい
 
-- [article](/word/article)：（法律や契約の）条、項
-- [condition](/word/condition)：条件、状況
+- [article](/word/article/)：（法律や契約の）条、項
+- [condition](/word/condition/)：条件、状況
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract)：契約
-- [agreement](/word/agreement)：合意、契約
+- [contract](/word/contract/)：契約
+- [agreement](/word/agreement/)：合意、契約
 
 <!-- cvid: aid43_bid38 -->

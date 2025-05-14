@@ -97,7 +97,7 @@ TOEICでは、メールや案内文、契約書などの長文中で「翻訳」
 ## 🤔  interpretation との違いは？
 
 - **translation**：書かれた文章や言葉を別の言語に訳すこと
-- **[interpretation](/word/interpretation)**：話された言葉や内容をその場で通訳すること
+- **[interpretation](/word/interpretation/)**：話された言葉や内容をその場で通訳すること
 
 translationは「書き言葉の翻訳」、interpretationは「話し言葉の通訳」と使い分けます。
 
@@ -105,14 +105,14 @@ translationは「書き言葉の翻訳」、interpretationは「話し言葉の�
 
 ## 🧩 あわせて覚えたい
 
-- [version](/word/version)：版、バージョン
-- [original](/word/original)：原文、元のもの
+- [version](/word/version/)：版、バージョン
+- [original](/word/original/)：原文、元のもの
 
 ---
 
 ## 📖 できればこれも
 
-- [translator](/word/translator)：翻訳者
-- [document](/word/document)：書類、文書
+- [translator](/word/translator/)：翻訳者
+- [document](/word/document/)：書類、文書
 
 <!-- cvid: aid02_bid14 -->

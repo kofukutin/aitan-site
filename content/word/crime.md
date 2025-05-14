@@ -97,7 +97,7 @@ crimeはTOEICの長文読解パートで、社会問題や法務関連の記事�
 ## 🤔  offense との違いは？
 
 - **crime**：法律に違反する重大な犯罪行為を指す。
-- **[offense](/word/offense)**：犯罪だけでなく、規則違反や軽い非行も含む幅広い「違反行為」。
+- **[offense](/word/offense/)**：犯罪だけでなく、規則違反や軽い非行も含む幅広い「違反行為」。
 
 crimeは主に刑法上の「犯罪」を指し、offenseは法律違反だけでなくマナー違反やスポーツの反則なども含みます。
 
@@ -105,14 +105,14 @@ crimeは主に刑法上の「犯罪」を指し、offenseは法律違反だけ�
 
 ## 🧩 あわせて覚えたい
 
-- [violation](/word/violation)：違反、違反行為
-- [law](/word/law)：法律
+- [violation](/word/violation/)：違反、違反行為
+- [law](/word/law/)：法律
 
 ---
 
 ## 📖 できればこれも
 
-- [punish](/word/punish)：罰する
-- [illegal](/word/illegal)：違法な
+- [punish](/word/punish/)：罰する
+- [illegal](/word/illegal/)：違法な
 
 <!-- cvid: aid46_bid47 -->

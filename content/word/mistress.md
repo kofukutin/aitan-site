@@ -97,7 +97,7 @@ TOEICでは長文読解や物語文で、歴史的な背景や人物関係を説
 ## 🤔  lover との違いは？
 
 - **mistress**：既婚男性の愛人や、女性の支配者・女主人を指すが、現代では主に否定的な意味で使われる。
-- **[lover](/word/lover)**：恋人や愛人全般を指し、男女どちらにも使える中立的な語。
+- **[lover](/word/lover/)**：恋人や愛人全般を指し、男女どちらにも使える中立的な語。
 
 mistressは特に「既婚男性の愛人」という否定的なニュアンスが強く、loverはより広く恋人全般に使われます。
 
@@ -105,14 +105,14 @@ mistressは特に「既婚男性の愛人」という否定的なニュアンス
 
 ## 🧩 あわせて覚えたい
 
-- [wife](/word/wife)：妻
-- [affair](/word/affair)：不倫、浮気
+- [wife](/word/wife/)：妻
+- [affair](/word/affair/)：不倫、浮気
 
 ---
 
 ## 📖 できればこれも
 
-- [secretary](/word/secretary)：秘書
-- [partner](/word/partner)：パートナー、相手
+- [secretary](/word/secretary/)：秘書
+- [partner](/word/partner/)：パートナー、相手
 
 <!-- cvid: aid41_bid25 -->

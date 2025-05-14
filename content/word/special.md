@@ -97,7 +97,7 @@ TOEICでは「特別な割引」「特別なイベント」など、広告や案
 ## 🤔  unique との違いは？
 
 - **special**：他と比べて特別・重要・珍しいと感じるもの
-- **[unique](/word/unique)**：唯一無二で他に全く同じものがない
+- **[unique](/word/unique/)**：唯一無二で他に全く同じものがない
 
 「special」は「特別な日」「特別なサービス」など、他と違って価値がある場合に使いますが、「unique」は「世界に一つだけ」「全く同じものが存在しない」場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは「特別な割引」「特別なイベント」など、広告や案
 
 ## 🧩 あわせて覚えたい
 
-- [ordinary](/word/ordinary)：普通の、平凡な
-- [specific](/word/specific)：特定の、明確な
+- [ordinary](/word/ordinary/)：普通の、平凡な
+- [specific](/word/specific/)：特定の、明確な
 
 ---
 
 ## 📖 できればこれも
 
-- [particular](/word/particular)：特定の、特有の
-- [general](/word/general)：一般的な、全体の
+- [particular](/word/particular/)：特定の、特有の
+- [general](/word/general/)：一般的な、全体の
 
 <!-- cvid: aid05_bid29 -->

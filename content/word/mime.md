@@ -97,7 +97,7 @@ TOEICでは観光やイベント紹介の記事、エンターテイメント関
 ## 🤔  pantomime との違いは？
 
 - **mime**：身振りや表情だけで物事を表現する芸や、その芸人。
-- **[pantomime](/word/pantomime)**：mimeよりも物語性が強く、衣装や音楽を使うことも多い舞台芸術。
+- **[pantomime](/word/pantomime/)**：mimeよりも物語性が強く、衣装や音楽を使うことも多い舞台芸術。
 
 mimeはシンプルな身振り中心、pantomimeはより演劇的でストーリー性が強い点が異なります。
 
@@ -105,14 +105,14 @@ mimeはシンプルな身振り中心、pantomimeはより演劇的でストー�
 
 ## 🧩 あわせて覚えたい
 
-- [gesture](/word/gesture)：身ぶり、ジェスチャー
-- [actor](/word/actor)：俳優
+- [gesture](/word/gesture/)：身ぶり、ジェスチャー
+- [actor](/word/actor/)：俳優
 
 ---
 
 ## 📖 できればこれも
 
-- [clown](/word/clown)：道化師
-- [perform](/word/perform)：演じる、上演する
+- [clown](/word/clown/)：道化師
+- [perform](/word/perform/)：演じる、上演する
 
 <!-- cvid: aid07_bid29 -->

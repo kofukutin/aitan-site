@@ -98,7 +98,7 @@ TOEICでは「競争」や「レース」の意味で会話や説明文に登場
 ## 🤔  competition との違いは？
 
 - **race**：速さや順位を競う具体的な競争やレース
-- **[competition](/word/competition)**：広い意味での競争やコンテスト
+- **[competition](/word/competition/)**：広い意味での競争やコンテスト
 
 raceは「走る・泳ぐ」など明確な順位や速さを競う場面で使い、competitionはスポーツやビジネスなど幅広い競争全般に使います。
 
@@ -106,14 +106,14 @@ raceは「走る・泳ぐ」など明確な順位や速さを競う場面で使�
 
 ## 🧩 あわせて覚えたい
 
-- [contest](/word/contest)：コンテスト、競技会
-- [event](/word/event)：イベント、行事
+- [contest](/word/contest/)：コンテスト、競技会
+- [event](/word/event/)：イベント、行事
 
 ---
 
 ## 📖 できればこれも
 
-- [goal](/word/goal)：目標、ゴール
-- [result](/word/result)：結果
+- [goal](/word/goal/)：目標、ゴール
+- [result](/word/result/)：結果
 
 <!-- cvid: aid26_bid01 -->

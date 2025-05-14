@@ -97,7 +97,7 @@ TOEICでは「artificial intelligence」や「artificial flavor」など、ITや
 ## 🤔  synthetic との違いは？
 
 - **artificial**：自然なものを人が模倣して作った、または不自然な
-- **[synthetic](/word/synthetic)**：複数の要素を合成して作った、特に化学的な合成品
+- **[synthetic](/word/synthetic/)**：複数の要素を合成して作った、特に化学的な合成品
 
 artificialは「自然なものの代用品」としての人工物に使われ、syntheticは「合成して作られたもの」に使われます。たとえば「人工甘味料」はartificial sweetener、「合成繊維」はsynthetic fiberです。
 
@@ -105,14 +105,14 @@ artificialは「自然なものの代用品」としての人工物に使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [natural](/word/natural)：自然の、天然の
-- [fake](/word/fake)：偽物の、偽造の
+- [natural](/word/natural/)：自然の、天然の
+- [fake](/word/fake/)：偽物の、偽造の
 
 ---
 
 ## 📖 できればこれも
 
-- [automatic](/word/automatic)：自動の
-- [mechanical](/word/mechanical)：機械の、機械的な
+- [automatic](/word/automatic/)：自動の
+- [mechanical](/word/mechanical/)：機械の、機械的な
 
 <!-- cvid: aid10_bid40 -->

@@ -97,7 +97,7 @@ TOEICでは、容器や席、ポジションなどが「filled」になってい
 ## 🤔  full との違いは？
 
 - **filled**：何かで満たされた状態を強調
-- **[full](/word/full)**：単に「いっぱい」「満杯」であることを表す
+- **[full](/word/full/)**：単に「いっぱい」「満杯」であることを表す
 
 「filled」は「何で満たされているか」を明確にしたいときに使い、「full」は内容を特に意識せず「満杯」の状態を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、容器や席、ポジションなどが「filled」になってい
 
 ## 🧩 あわせて覚えたい
 
-- [empty](/word/empty)：空の、何も入っていない
-- [occupied](/word/occupied)：占有された、使用中の
+- [empty](/word/empty/)：空の、何も入っていない
+- [occupied](/word/occupied/)：占有された、使用中の
 
 ---
 
 ## 📖 できればこれも
 
-- [crowded](/word/crowded)：混雑した
-- [complete](/word/complete)：完成した、完全な
+- [crowded](/word/crowded/)：混雑した
+- [complete](/word/complete/)：完成した、完全な
 
 <!-- cvid: aid06_bid07 -->

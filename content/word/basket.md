@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、物を入れるかごやバスケッ
 ## 🤔  box との違いは？
 
 - **basket**：編み目があり、通気性のあるかごやバスケット
-- **[box](/word/box)**：ふた付き・ふたなし問わず、四角い箱や容器
+- **[box](/word/box/)**：ふた付き・ふたなし問わず、四角い箱や容器
 
 basketは主に編んだ素材で作られたかごを指し、boxは紙やプラスチックなどでできた箱型の容器を指します。
 
@@ -105,14 +105,14 @@ basketは主に編んだ素材で作られたかごを指し、boxは紙やプ�
 
 ## 🧩 あわせて覚えたい
 
-- [cart](/word/cart)：カート、手押し車
-- [container](/word/container)：容器、入れ物
+- [cart](/word/cart/)：カート、手押し車
+- [container](/word/container/)：容器、入れ物
 
 ---
 
 ## 📖 できればこれも
 
-- [bottle](/word/bottle)：ボトル、瓶
-- [bag](/word/bag)：袋、バッグ
+- [bottle](/word/bottle/)：ボトル、瓶
+- [bag](/word/bag/)：袋、バッグ
 
 <!-- cvid: aid39_bid08 -->

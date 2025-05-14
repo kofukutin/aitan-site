@@ -97,7 +97,7 @@ definitionは、TOEICの長文読解パートで専門用語や新しい言葉�
 ## 🤔  description との違いは？
 
 - **definition**：言葉や概念の意味を明確に区切って説明すること
-- **[description](/word/description)**：物事の特徴や様子を詳しく述べること
+- **[description](/word/description/)**：物事の特徴や様子を詳しく述べること
 
 definitionは「意味や範囲を限定して説明」するのに対し、descriptionは「見た目や特徴などを詳しく描写」する際に使います。
 
@@ -105,14 +105,14 @@ definitionは「意味や範囲を限定して説明」するのに対し、desc
 
 ## 🧩 あわせて覚えたい
 
-- [explanation](/word/explanation)：説明、解説
-- [interpretation](/word/interpretation)：解釈
+- [explanation](/word/explanation/)：説明、解説
+- [interpretation](/word/interpretation/)：解釈
 
 ---
 
 ## 📖 できればこれも
 
-- [concept](/word/concept)：概念
-- [term](/word/term)：用語
+- [concept](/word/concept/)：概念
+- [term](/word/term/)：用語
 
 <!-- cvid: aid37_bid40 -->

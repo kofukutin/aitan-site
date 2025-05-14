@@ -104,7 +104,7 @@ TOEICでは大学や教育機関、研修、研究などの文脈で「academic�
 ## 🤔  scholarly との違いは？
 
 - **academic**：学校教育や大学、学問全般に関するフォーマルな表現。
-- **[scholarly](/word/scholarly)**：学者的・研究者的で、特に深い研究や専門的な知識に重点。
+- **[scholarly](/word/scholarly/)**：学者的・研究者的で、特に深い研究や専門的な知識に重点。
 
 academicは教育機関や学問全体を指し、scholarlyはより専門的・研究的なニュアンスが強いです。
 
@@ -112,14 +112,14 @@ academicは教育機関や学問全体を指し、scholarlyはより専門的・
 
 ## 🧩 あわせて覚えたい
 
-- [educational](/word/educational)：教育の、教育的な
-- [theoretical](/word/theoretical)：理論的な
+- [educational](/word/educational/)：教育の、教育的な
+- [theoretical](/word/theoretical/)：理論的な
 
 ---
 
 ## 📖 できればこれも
 
-- [lecture](/word/lecture)：講義
-- [curriculum](/word/curriculum)：カリキュラム、教育課程
+- [lecture](/word/lecture/)：講義
+- [curriculum](/word/curriculum/)：カリキュラム、教育課程
 
 <!-- cvid: aid14_bid45 -->

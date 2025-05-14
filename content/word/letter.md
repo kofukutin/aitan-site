@@ -97,7 +97,7 @@ TOEICではPart 7のメールや手紙文の読解問題でよく登場します
 ## 🤔  document との違いは？
 
 - **letter**：個人や会社などが特定の相手に宛てて書く手紙や書簡
-- **[document](/word/document)**：公式な文書や記録、書類全般
+- **[document](/word/document/)**：公式な文書や記録、書類全般
 
 letterは「誰かに送る手紙」、documentは「記録や証拠として残す書類」という違いがあります。
 
@@ -105,14 +105,14 @@ letterは「誰かに送る手紙」、documentは「記録や証拠として残
 
 ## 🧩 あわせて覚えたい
 
-- [note](/word/note)：メモ、短い手紙
-- [email](/word/email)：電子メール
+- [note](/word/note/)：メモ、短い手紙
+- [email](/word/email/)：電子メール
 
 ---
 
 ## 📖 できればこれも
 
-- [message](/word/message)：伝言、メッセージ
-- [form](/word/form)：用紙、書式
+- [message](/word/message/)：伝言、メッセージ
+- [form](/word/form/)：用紙、書式
 
 <!-- cvid: aid35_bid26 -->

@@ -97,7 +97,7 @@ TOEICでは、受動態や過去分詞として文法問題で出題されるこ
 ## 🤔  overlooked との違いは？
 
 - **ignored**：意図的に無視する、関心を持たない
-- **[overlooked](/word/overlooked)**：うっかり見落とす、気づかずに通り過ぎる
+- **[overlooked](/word/overlooked/)**：うっかり見落とす、気づかずに通り過ぎる
 
 ignoredは「わざと無視する」ニュアンスが強く、overlookedは「気づかずに見逃す」など意図しない場合に使います。
 
@@ -105,14 +105,14 @@ ignoredは「わざと無視する」ニュアンスが強く、overlookedは「
 
 ## 🧩 あわせて覚えたい
 
-- [notice](/word/notice)：気づく
-- [neglect](/word/neglect)：怠る、放置する
+- [notice](/word/notice/)：気づく
+- [neglect](/word/neglect/)：怠る、放置する
 
 ---
 
 ## 📖 できればこれも
 
-- [avoid](/word/avoid)：避ける
-- [reject](/word/reject)：拒否する
+- [avoid](/word/avoid/)：避ける
+- [reject](/word/reject/)：拒否する
 
 <!-- cvid: aid17_bid10 -->

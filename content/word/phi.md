@@ -97,7 +97,7 @@ TOEICでは科学や技術系の長文、図表説明などでphiが登場する
 ## 🤔  pi との違いは？
 
 - **phi**：主に黄金比や角度を表すギリシャ文字（φ）
-- **[pi](/word/pi)**：円周率（π、約3.14）を表すギリシャ文字
+- **[pi](/word/pi/)**：円周率（π、約3.14）を表すギリシャ文字
 
 phiは黄金比や角度、piは円周率と、使われる数学的な意味や場面が異なります。
 
@@ -105,14 +105,14 @@ phiは黄金比や角度、piは円周率と、使われる数学的な意味や
 
 ## 🧩 あわせて覚えたい
 
-- [theta](/word/theta)：ギリシャ文字「θ」、角度などを表す
-- [golden_ratio](/word/golden_ratio)：黄金比（約1.618）
+- [theta](/word/theta/)：ギリシャ文字「θ」、角度などを表す
+- [golden_ratio](/word/golden_ratio/)：黄金比（約1.618）
 
 ---
 
 ## 📖 できればこれも
 
-- [formula](/word/formula)：式、公式
-- [variable](/word/variable)：変数
+- [formula](/word/formula/)：式、公式
+- [variable](/word/variable/)：変数
 
 <!-- cvid: aid02_bid45 -->

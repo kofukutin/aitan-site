@@ -97,7 +97,7 @@ TOEICではビジネス文書や案内文などで「continued support（継続�
 ## 🤔  continuous との違いは？
 
 - **continued**：何かが「続いている」「継続した」という状態を表す（例：continued support）。
-- **[continuous](/word/continuous)**：絶え間なく「途切れずに続く」ことを強調する（例：continuous noise）。
+- **[continuous](/word/continuous/)**：絶え間なく「途切れずに続く」ことを強調する（例：continuous noise）。
 
 「continued」は「継続している状態」や「再び続くこと」に使い、「continuous」は「中断なしにずっと続く様子」を表します。
 
@@ -105,14 +105,14 @@ TOEICではビジネス文書や案内文などで「continued support（継続�
 
 ## 🧩 あわせて覚えたい
 
-- [temporary](/word/temporary)：一時的な
-- [constant](/word/constant)：絶え間ない、一定の
+- [temporary](/word/temporary/)：一時的な
+- [constant](/word/constant/)：絶え間ない、一定の
 
 ---
 
 ## 📖 できればこれも
 
-- [subsequent](/word/subsequent)：その後の、次の
-- [frequent](/word/frequent)：頻繁な
+- [subsequent](/word/subsequent/)：その後の、次の
+- [frequent](/word/frequent/)：頻繁な
 
 <!-- cvid: aid11_bid27 -->

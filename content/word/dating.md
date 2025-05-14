@@ -99,7 +99,7 @@ TOEICでは会話文やカジュアルなシーンで「dating」が使われる
 ## 🤔  relationship との違いは？
 
 - **dating**：恋愛関係になる前後の「デート期間」や「交際の始まり」を指す
-- **[relationship](/word/relationship)**：恋人・夫婦などの「関係そのもの」や「長期的なつながり」を指す
+- **[relationship](/word/relationship/)**：恋人・夫婦などの「関係そのもの」や「長期的なつながり」を指す
 
 「dating」は付き合い始めやデートを重ねている段階、「relationship」はより深い関係や長期的なつながりを表します。
 
@@ -107,14 +107,14 @@ TOEICでは会話文やカジュアルなシーンで「dating」が使われる
 
 ## 🧩 あわせて覚えたい
 
-- [marriage](/word/marriage)：結婚
-- [flirt](/word/flirt)：いちゃつく、軽く言い寄る
+- [marriage](/word/marriage/)：結婚
+- [flirt](/word/flirt/)：いちゃつく、軽く言い寄る
 
 ---
 
 ## 📖 できればこれも
 
-- [date](/word/date)：デート、日付
-- [couple](/word/couple)：カップル、2人組
+- [date](/word/date/)：デート、日付
+- [couple](/word/couple/)：カップル、2人組
 
 <!-- cvid: aid03_bid14 -->

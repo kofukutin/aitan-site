@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「隣人」や「近くの人」とし
 ## 🤔  acquaintance との違いは？
 
 - **neighbor**：自分の家や職場の近くに住んでいる人
-- **[acquaintance](/word/acquaintance)**：知り合い（親しいとは限らない）
+- **[acquaintance](/word/acquaintance/)**：知り合い（親しいとは限らない）
 
 neighborは物理的な「近さ」がポイントで、acquaintanceは「知っている人」という関係性を表します。
 
@@ -105,14 +105,14 @@ neighborは物理的な「近さ」がポイントで、acquaintanceは「知っ
 
 ## 🧩 あわせて覚えたい
 
-- [resident](/word/resident)：住人、居住者
-- [stranger](/word/stranger)：見知らぬ人
+- [resident](/word/resident/)：住人、居住者
+- [stranger](/word/stranger/)：見知らぬ人
 
 ---
 
 ## 📖 できればこれも
 
-- [friend](/word/friend)：友人
-- [colleague](/word/colleague)：同僚
+- [friend](/word/friend/)：友人
+- [colleague](/word/colleague/)：同僚
 
 <!-- cvid: aid11_bid25 -->

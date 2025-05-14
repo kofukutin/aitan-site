@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「説明した」「説明された」という
 ## 🤔  described との違いは？
 
 - **explained**：理由や仕組みをわかりやすく伝える「説明した」
-- **[described](/word/described)**：特徴や様子を詳しく「描写した」
+- **[described](/word/described/)**：特徴や様子を詳しく「描写した」
 
 explainedは「なぜ・どうして」を明らかにする説明、describedは「どんなものか」を詳しく伝える描写に使います。
 
@@ -105,14 +105,14 @@ explainedは「なぜ・どうして」を明らかにする説明、described�
 
 ## 🧩 あわせて覚えたい
 
-- [clarify](/word/clarify)：明確にする
-- [interpret](/word/interpret)：解釈する
+- [clarify](/word/clarify/)：明確にする
+- [interpret](/word/interpret/)：解釈する
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/word/present)：提示する、発表する
-- [discuss](/word/discuss)：議論する
+- [present](/word/present/)：提示する、発表する
+- [discuss](/word/discuss/)：議論する
 
 <!-- cvid: aid11_bid38 -->

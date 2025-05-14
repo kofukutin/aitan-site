@@ -98,7 +98,7 @@ remainはTOEICの会話や説明文で「残る」「依然として～である
 ## 🤔  stay との違いは？
 
 - **remain**：フォーマルで「そのままの状態でいる」「残る」を表す。
-- **[stay](/word/stay)**：カジュアルで「とどまる」「滞在する」を表す。
+- **[stay](/word/stay/)**：カジュアルで「とどまる」「滞在する」を表す。
 
 remainは状態や状況が変わらず続くことを強調し、stayは物理的にその場にとどまるニュアンスが強いです。
 
@@ -106,14 +106,14 @@ remainは状態や状況が変わらず続くことを強調し、stayは物理�
 
 ## 🧩 あわせて覚えたい
 
-- [leave](/word/leave)：去る、離れる
-- [persist](/word/persist)：持続する、粘り強く続く
+- [leave](/word/leave/)：去る、離れる
+- [persist](/word/persist/)：持続する、粘り強く続く
 
 ---
 
 ## 📖 できればこれも
 
-- [continue](/word/continue)：続ける、続く
-- [keep](/word/keep)：保つ、～し続ける
+- [continue](/word/continue/)：続ける、続く
+- [keep](/word/keep/)：保つ、～し続ける
 
 <!-- cvid: aid09_bid26 -->

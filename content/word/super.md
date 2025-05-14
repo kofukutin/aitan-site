@@ -97,7 +97,7 @@ TOEICではカジュアルな会話や、親しみやすい表現が出るパー
 ## 🤔  excellent との違いは？
 
 - **super**：カジュアルで親しみやすい「すごい」「最高」の意味。日常会話向き。
-- **[excellent](/word/excellent)**：フォーマルでも使える「優秀な」「素晴らしい」の意味。
+- **[excellent](/word/excellent/)**：フォーマルでも使える「優秀な」「素晴らしい」の意味。
 
 superは友達同士や軽い会話で使われ、excellentはビジネスやフォーマルな場面でも使える表現です。
 
@@ -105,13 +105,13 @@ superは友達同士や軽い会話で使われ、excellentはビジネスやフ
 
 ## 🧩 あわせて覚えたい
 
-- [great](/word/great)：素晴らしい、偉大な
-- [terrific](/word/terrific)：とても素晴らしい、すごい
+- [great](/word/great/)：素晴らしい、偉大な
+- [terrific](/word/terrific/)：とても素晴らしい、すごい
 
 ---
 
 ## 📖 できればこれも
 
-- [awesome](/word/awesome)：最高の、すごい
-- [fantastic](/word/fantastic)：素晴らしい、幻想的な
+- [awesome](/word/awesome/)：最高の、すごい
+- [fantastic](/word/fantastic/)：素晴らしい、幻想的な
 <!-- cvid: aid33_bid20 -->

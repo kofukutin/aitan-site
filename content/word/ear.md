@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、人物の体の部位として
 ## 🤔  hearing との違いは？
 
 - **ear**：頭部にある「耳」という器官そのもの
-- **[hearing](/word/hearing)**：音を聞く「聴覚」や「聞こえる能力」
+- **[hearing](/word/hearing/)**：音を聞く「聴覚」や「聞こえる能力」
 
 earは物理的な耳、hearingは音を感じ取る能力や感覚を指します。
 
@@ -105,14 +105,14 @@ earは物理的な耳、hearingは音を感じ取る能力や感覚を指しま�
 
 ## 🧩 あわせて覚えたい
 
-- [eye](/word/eye)：目
-- [listen](/word/listen)：聞く（動詞）
+- [eye](/word/eye/)：目
+- [listen](/word/listen/)：聞く（動詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [nose](/word/nose)：鼻
-- [sound](/word/sound)：音
+- [nose](/word/nose/)：鼻
+- [sound](/word/sound/)：音
 
 <!-- cvid: aid24_bid42 -->

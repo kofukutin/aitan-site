@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やEメールの中で、「計画やシス�
 ## 🤔  executing との違いは？
 
 - **implementing**：計画や仕組みを具体的に導入・実施すること
-- **[executing](/word/executing)**：計画や命令を実際に遂行・実行すること
+- **[executing](/word/executing/)**：計画や命令を実際に遂行・実行すること
 
 implementingは「新しい仕組みや制度を導入する」ニュアンスが強く、executingは「すでに決まったことを実際に行う」意味合いが強いです。
 
@@ -105,14 +105,14 @@ implementingは「新しい仕組みや制度を導入する」ニュアンス�
 
 ## 🧩 あわせて覚えたい
 
-- [enforce](/word/enforce)：（法律・規則などを）施行する
-- [apply](/word/apply)：適用する、応用する
+- [enforce](/word/enforce/)：（法律・規則などを）施行する
+- [apply](/word/apply/)：適用する、応用する
 
 ---
 
 ## 📖 できればこれも
 
-- [develop](/word/develop)：開発する、発展させる
-- [establish](/word/establish)：設立する、確立する
+- [develop](/word/develop/)：開発する、発展させる
+- [establish](/word/establish/)：設立する、確立する
 
 <!-- cvid: aid28_bid32 -->

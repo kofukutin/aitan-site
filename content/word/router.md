@@ -97,7 +97,7 @@ IT関連の説明文やオフィスの設備案内などで登場することが
 ## 🤔  switch との違いは？
 
 - **router**：異なるネットワーク同士をつなぎ、データの経路を決定する機器。
-- **[switch](/word/switch)**：同じネットワーク内の複数機器をつなぐ装置。
+- **[switch](/word/switch/)**：同じネットワーク内の複数機器をつなぐ装置。
 
 routerはネットワーク間の橋渡し、switchはネットワーク内の分岐点というイメージです。
 
@@ -105,14 +105,14 @@ routerはネットワーク間の橋渡し、switchはネットワーク内の�
 
 ## 🧩 あわせて覚えたい
 
-- [modem](/word/modem)：インターネット回線と家庭内ネットワークをつなぐ機器
-- [firewall](/word/firewall)：不正アクセスを防ぐためのセキュリティ機器
+- [modem](/word/modem/)：インターネット回線と家庭内ネットワークをつなぐ機器
+- [firewall](/word/firewall/)：不正アクセスを防ぐためのセキュリティ機器
 
 ---
 
 ## 📖 できればこれも
 
-- [server](/word/server)：サービスやデータを提供するコンピュータ
-- [network](/word/network)：複数の機器をつなぐ通信網
+- [server](/word/server/)：サービスやデータを提供するコンピュータ
+- [network](/word/network/)：複数の機器をつなぐ通信網
 
 <!-- cvid: aid15_bid45 -->

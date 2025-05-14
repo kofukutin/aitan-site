@@ -97,7 +97,7 @@ TOEICでは、動詞 count の派生語として名詞形で出題されるこ�
 ## 🤔  calculation との違いは？
 
 - **counting**：一つ一つ数を数えること、単純な集計
-- **[calculation](/word/calculation)**：計算、数値を使ったより複雑な処理
+- **[calculation](/word/calculation/)**：計算、数値を使ったより複雑な処理
 
 countingは「数を順に数える」ことに重点があり、calculationは「計算式や方法を使って答えを出す」ことに使います。
 
@@ -105,14 +105,14 @@ countingは「数を順に数える」ことに重点があり、calculationは�
 
 ## 🧩 あわせて覚えたい
 
-- [measurement](/word/measurement)：測定、計測
-- [estimation](/word/estimation)：見積もり、推定
+- [measurement](/word/measurement/)：測定、計測
+- [estimation](/word/estimation/)：見積もり、推定
 
 ---
 
 ## 📖 できればこれも
 
-- [number](/word/number)：数字、数
-- [figure](/word/figure)：数字、図、人物
+- [number](/word/number/)：数字、数
+- [figure](/word/figure/)：数字、図、人物
 
 <!-- cvid: aid11_bid30 -->

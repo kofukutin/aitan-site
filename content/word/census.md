@@ -97,7 +97,7 @@ TOEICでは、公式な報告書やニュース記事、説明文などで「cen
 ## 🤔  survey との違いは？
 
 - **census**：国や地域全体を対象に、人口や世帯などを網羅的に調査する公式なもの。
-- **[survey](/word/survey)**：特定のテーマや対象に対して行うアンケートや調査。規模や目的が幅広い。
+- **[survey](/word/survey/)**：特定のテーマや対象に対して行うアンケートや調査。規模や目的が幅広い。
 
 censusは「全数調査」で、surveyは「一部を対象とした調査」や「アンケート」など幅広く使われます。
 
@@ -105,14 +105,14 @@ censusは「全数調査」で、surveyは「一部を対象とした調査」�
 
 ## 🧩 あわせて覚えたい
 
-- [statistics](/word/statistics)：統計、統計学
-- [poll](/word/poll)：世論調査、投票
+- [statistics](/word/statistics/)：統計、統計学
+- [poll](/word/poll/)：世論調査、投票
 
 ---
 
 ## 📖 できればこれも
 
-- [data](/word/data)：データ、資料
-- [analysis](/word/analysis)：分析
+- [data](/word/data/)：データ、資料
+- [analysis](/word/analysis/)：分析
 
 <!-- cvid: aid38_bid11 -->

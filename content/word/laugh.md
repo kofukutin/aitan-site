@@ -97,7 +97,7 @@ TOEICでは会話パートで「笑う」「冗談に反応する」場面でよ
 ## 🤔  smile との違いは？
 
 - **laugh**：声を出して笑うことを表す
-- **[smile](/word/smile)**：声を出さずに微笑むことを表す
+- **[smile](/word/smile/)**：声を出さずに微笑むことを表す
 
 「laugh」は声を出して笑う動作、「smile」は口元だけで静かに微笑む動作を指します。
 
@@ -105,14 +105,14 @@ TOEICでは会話パートで「笑う」「冗談に反応する」場面でよ
 
 ## 🧩 あわせて覚えたい
 
-- [giggle](/word/giggle)：くすくす笑う
-- [cry](/word/cry)：泣く
+- [giggle](/word/giggle/)：くすくす笑う
+- [cry](/word/cry/)：泣く
 
 ---
 
 ## 📖 できればこれも
 
-- [enjoy](/word/enjoy)：楽しむ
-- [joke](/word/joke)：冗談
+- [enjoy](/word/enjoy/)：楽しむ
+- [joke](/word/joke/)：冗談
 
 <!-- cvid: aid08_bid06 -->

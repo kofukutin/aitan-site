@@ -97,7 +97,7 @@ ITやビジネス文書、マニュアルの説明文でよく登場します。
 ## 🤔  setup との違いは？
 
 - **configuration**：システムや機器などの詳細な構成や設定全体を指すフォーマルな表現
-- **[setup](/word/setup)**：準備や設置、初期設定など、よりカジュアルで広い意味
+- **[setup](/word/setup/)**：準備や設置、初期設定など、よりカジュアルで広い意味
 
 configurationは専門的・技術的な設定や構成を強調し、setupは準備や設置など幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ configurationは専門的・技術的な設定や構成を強調し、setupは�
 
 ## 🧩 あわせて覚えたい
 
-- [arrangement](/word/arrangement)：配置、取り決め
-- [structure](/word/structure)：構造、仕組み
+- [arrangement](/word/arrangement/)：配置、取り決め
+- [structure](/word/structure/)：構造、仕組み
 
 ---
 
 ## 📖 できればこれも
 
-- [specification](/word/specification)：仕様、明細
-- [installation](/word/installation)：設置、インストール
+- [specification](/word/specification/)：仕様、明細
+- [installation](/word/installation/)：設置、インストール
 
 <!-- cvid: aid12_bid06 -->

@@ -97,7 +97,7 @@ fighterはTOEICでは会話や説明文で「闘志のある人」や「戦士�
 ## 🤔  warrior との違いは？
 
 - **fighter**：戦う人、闘志のある人。スポーツや日常の困難にも使える。
-- **[warrior](/word/warrior)**：伝統的な戦士、特に戦争や歴史的な戦いの文脈で使う。
+- **[warrior](/word/warrior/)**：伝統的な戦士、特に戦争や歴史的な戦いの文脈で使う。
 
 fighterは現代的で幅広い場面に使えますが、warriorは歴史や伝統的な戦いに限定されることが多いです。
 
@@ -105,14 +105,14 @@ fighterは現代的で幅広い場面に使えますが、warriorは歴史や伝
 
 ## 🧩 あわせて覚えたい
 
-- [contestant](/word/contestant)：競技者、参加者
-- [opponent](/word/opponent)：対戦相手、敵
+- [contestant](/word/contestant/)：競技者、参加者
+- [opponent](/word/opponent/)：対戦相手、敵
 
 ---
 
 ## 📖 できればこれも
 
-- [winner](/word/winner)：勝者
-- [athlete](/word/athlete)：運動選手
+- [winner](/word/winner/)：勝者
+- [athlete](/word/athlete/)：運動選手
 
 <!-- cvid: aid28_bid03 -->

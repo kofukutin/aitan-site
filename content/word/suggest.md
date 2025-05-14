@@ -98,7 +98,7 @@ TOEICでは「提案する」「示唆する」という意味で、主に文法
 ## 🤔  recommend との違いは？
 
 - **suggest**：控えめに提案する、選択肢を示す
-- **[recommend](/word/recommend)**：自信を持って強く勧める
+- **[recommend](/word/recommend/)**：自信を持って強く勧める
 
 suggestは「こうしたらどう？」とやんわり提案する時に使い、recommendは「これが良い」と積極的に勧める時に使います。
 
@@ -106,14 +106,14 @@ suggestは「こうしたらどう？」とやんわり提案する時に使い�
 
 ## 🧩 あわせて覚えたい
 
-- [propose](/word/propose)：正式に提案する
-- [imply](/word/imply)：暗に示す、ほのめかす
+- [propose](/word/propose/)：正式に提案する
+- [imply](/word/imply/)：暗に示す、ほのめかす
 
 ---
 
 ## 📖 できればこれも
 
-- [advise](/word/advise)：助言する
-- [offer](/word/offer)：申し出る
+- [advise](/word/advise/)：助言する
+- [offer](/word/offer/)：申し出る
 
 <!-- cvid: aid34_bid03 -->

@@ -97,7 +97,7 @@ TOEICでは「求人の空き」や「開始」という意味でPart 5の語彙
 ## 🤔  vacancy との違いは？
 
 - **opening**：主に「求人の空き」や「開始」を意味し、募集や新しい機会に使われる。
-- **[vacancy](/word/vacancy)**：ホテルや部屋などの「空室」や「空きポスト」を指し、より物理的・公式なニュアンスが強い。
+- **[vacancy](/word/vacancy/)**：ホテルや部屋などの「空室」や「空きポスト」を指し、より物理的・公式なニュアンスが強い。
 
 openingは新しい募集や機会に使われることが多く、vacancyは部屋やポストなどの空きを指す際に使われます。
 
@@ -105,14 +105,14 @@ openingは新しい募集や機会に使われることが多く、vacancyは部
 
 ## 🧩 あわせて覚えたい
 
-- [opportunity](/word/opportunity)：機会、チャンス
-- [position](/word/position)：職、地位
+- [opportunity](/word/opportunity/)：機会、チャンス
+- [position](/word/position/)：職、地位
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/word/candidate)：候補者
-- [interview](/word/interview)：面接
+- [candidate](/word/candidate/)：候補者
+- [interview](/word/interview/)：面接
 
 <!-- cvid: aid35_bid32 -->

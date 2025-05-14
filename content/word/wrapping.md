@@ -97,7 +97,7 @@ TOEICでは、商品や贈り物の包装に関する文脈で出題されるこ
 ## 🤔  packaging との違いは？
 
 - **wrapping**：主に贈り物や商品を包む紙やフィルム、または包む行為を指す。
-- **[packaging](/word/packaging)**：商品のパッケージ全体や梱包材、デザインも含めた広い意味。
+- **[packaging](/word/packaging/)**：商品のパッケージ全体や梱包材、デザインも含めた広い意味。
 
 wrappingは「包むもの・行為」に焦点があり、packagingは「商品全体のパッケージや梱包」を指します。
 
@@ -105,14 +105,14 @@ wrappingは「包むもの・行為」に焦点があり、packagingは「商品
 
 ## 🧩 あわせて覚えたい
 
-- [cover](/word/cover)：覆うもの、カバー
-- [envelope](/word/envelope)：封筒
+- [cover](/word/cover/)：覆うもの、カバー
+- [envelope](/word/envelope/)：封筒
 
 ---
 
 ## 📖 できればこれも
 
-- [wrap](/word/wrap)：包む（動詞）
-- [container](/word/container)：容器
+- [wrap](/word/wrap/)：包む（動詞）
+- [container](/word/container/)：容器
 
 <!-- cvid: aid35_bid18 -->

@@ -97,7 +97,7 @@ TOEICでは、人物や組織、製品の「強み」や「強力さ」を表現
 ## 🤔  powerful との違いは？
 
 - **strong**：物理的・精神的な強さや、味・匂いなど幅広い「強い」に使う
-- **[powerful](/word/powerful)**：影響力や支配力が強い、パワーがあることを強調
+- **[powerful](/word/powerful/)**：影響力や支配力が強い、パワーがあることを強調
 
 「strong」は体力や意志、味など多様な「強さ」に使えますが、「powerful」は特に影響力や権力、エネルギーの強さを表すときに使います。
 
@@ -105,14 +105,14 @@ TOEICでは、人物や組織、製品の「強み」や「強力さ」を表現
 
 ## 🧩 あわせて覚えたい
 
-- [weak](/word/weak)：弱い
-- [robust](/word/robust)：頑丈な、たくましい
+- [weak](/word/weak/)：弱い
+- [robust](/word/robust/)：頑丈な、たくましい
 
 ---
 
 ## 📖 できればこれも
 
-- [hard](/word/hard)：硬い、困難な
-- [firm](/word/firm)：堅い、しっかりした
+- [hard](/word/hard/)：硬い、困難な
+- [firm](/word/firm/)：堅い、しっかりした
 
 <!-- cvid: aid08_bid19 -->

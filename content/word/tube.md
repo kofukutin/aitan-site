@@ -97,7 +97,7 @@ TOEICでは、実験器具や容器、設備の説明などで「tube」が登�
 ## 🤔  pipe との違いは？
 
 - **tube**：細長い筒状の容器や管、柔らかい素材のものも含む
-- **[pipe](/word/pipe)**：主に金属や硬い素材の配管、流体を運ぶためのパイプ
+- **[pipe](/word/pipe/)**：主に金属や硬い素材の配管、流体を運ぶためのパイプ
 
 tubeは柔らかい素材や容器としても使われ、pipeは主に硬い素材の配管に使われます。
 
@@ -105,14 +105,14 @@ tubeは柔らかい素材や容器としても使われ、pipeは主に硬い素
 
 ## 🧩 あわせて覚えたい
 
-- [cylinder](/word/cylinder)：円筒、シリンダー
-- [container](/word/container)：容器
+- [cylinder](/word/cylinder/)：円筒、シリンダー
+- [container](/word/container/)：容器
 
 ---
 
 ## 📖 できればこれも
 
-- [bottle](/word/bottle)：ボトル、瓶
-- [can](/word/can)：缶
+- [bottle](/word/bottle/)：ボトル、瓶
+- [can](/word/can/)：缶
 
 <!-- cvid: aid09_bid19 -->

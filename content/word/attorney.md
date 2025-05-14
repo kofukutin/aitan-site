@@ -96,7 +96,7 @@ TOEICでは契約や法務関連の長文、Eメール、通知文などで登�
 ## 🤔  lawyer との違いは？
 
 - **attorney**：法的代理権を持つ弁護士（特にアメリカでフォーマルな場面で使用）
-- **[lawyer](/word/lawyer)**：法律の専門家全般を指し、日常的・広い意味で使われる
+- **[lawyer](/word/lawyer/)**：法律の専門家全般を指し、日常的・広い意味で使われる
 
 attorneyは「代理人」としての役割が強調され、lawyerは法律の専門家全般を指します。アメリカでは法的手続きを行う場合はattorneyがよく使われます。
 
@@ -104,14 +104,14 @@ attorneyは「代理人」としての役割が強調され、lawyerは法律の
 
 ## 🧩 あわせて覚えたい
 
-- [prosecutor](/word/prosecutor)：検察官
-- [client](/word/client)：依頼人、顧客
+- [prosecutor](/word/prosecutor/)：検察官
+- [client](/word/client/)：依頼人、顧客
 
 ---
 
 ## 📖 できればこれも
 
-- [judge](/word/judge)：裁判官
-- [contract](/word/contract)：契約
+- [judge](/word/judge/)：裁判官
+- [contract](/word/contract/)：契約
 
 <!-- cvid: aid27_bid35 -->

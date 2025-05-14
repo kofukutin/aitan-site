@@ -97,7 +97,7 @@ killはTOEICでは会話や説明文で、比喩的に「中止する」「終�
 ## 🤔  murder との違いは？
 
 - **kill**：一般的に「殺す」「死なせる」。意図や状況を問わず幅広く使う。
-- **[murder](/word/murder)**：法律的・道徳的に「殺人（故意に人を殺す）」を指す。
+- **[murder](/word/murder/)**：法律的・道徳的に「殺人（故意に人を殺す）」を指す。
 
 killは動物や物、比喩的な対象にも使えるが、murderは人を意図的に殺す場合に限定されます。
 
@@ -105,14 +105,14 @@ killは動物や物、比喩的な対象にも使えるが、murderは人を意�
 
 ## 🧩 あわせて覚えたい
 
-- [destroy](/word/destroy)：破壊する、完全に壊す
-- [save](/word/save)：救う、助ける
+- [destroy](/word/destroy/)：破壊する、完全に壊す
+- [save](/word/save/)：救う、助ける
 
 ---
 
 ## 📖 できればこれも
 
-- [hurt](/word/hurt)：傷つける、けがをさせる
-- [damage](/word/damage)：損害を与える、傷つける
+- [hurt](/word/hurt/)：傷つける、けがをさせる
+- [damage](/word/damage/)：損害を与える、傷つける
 
 <!-- cvid: aid17_bid28 -->

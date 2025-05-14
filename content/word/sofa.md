@@ -96,7 +96,7 @@ TOEICでは主にPart 1の写真描写問題で、オフィスやロビー、家
 ## 🤔  couch との違いは？
 
 - **sofa**：ややフォーマルで、家具店やカタログなどでよく使われる。
-- **[couch](/word/couch)**：カジュアルな響きで、日常会話やアメリカ英語でよく使われる。
+- **[couch](/word/couch/)**：カジュアルな響きで、日常会話やアメリカ英語でよく使われる。
 
 sofaはやや上品な印象、couchは親しみやすい印象で使い分けられます。
 
@@ -104,14 +104,14 @@ sofaはやや上品な印象、couchは親しみやすい印象で使い分け�
 
 ## 🧩 あわせて覚えたい
 
-- [chair](/word/chair)：椅子
-- [bench](/word/bench)：ベンチ
+- [chair](/word/chair/)：椅子
+- [bench](/word/bench/)：ベンチ
 
 ---
 
 ## 📖 できればこれも
 
-- [table](/word/table)：テーブル
-- [carpet](/word/carpet)：カーペット
+- [table](/word/table/)：テーブル
+- [carpet](/word/carpet/)：カーペット
 
 <!-- cvid: aid30_bid07 -->

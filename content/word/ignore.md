@@ -97,7 +97,7 @@ TOEICでは「指示やメールを無視する」「問題を無視する」な
 ## 🤔  neglect との違いは？
 
 - **ignore**：意図的に無視する、気づいていても反応しない
-- **[neglect](/word/neglect)**：注意や世話を怠る、放置する
+- **[neglect](/word/neglect/)**：注意や世話を怠る、放置する
 
 「ignore」は意識的に無視する場合に使い、「neglect」は本来すべき注意や世話を怠る場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは「指示やメールを無視する」「問題を無視する」な
 
 ## 🧩 あわせて覚えたい
 
-- [overlook](/word/overlook)：見落とす、見逃す
-- [notice](/word/notice)：気づく
+- [overlook](/word/overlook/)：見落とす、見逃す
+- [notice](/word/notice/)：気づく
 
 ---
 
 ## 📖 できればこれも
 
-- [avoid](/word/avoid)：避ける
-- [refuse](/word/refuse)：断る
+- [avoid](/word/avoid/)：避ける
+- [refuse](/word/refuse/)：断る
 
 <!-- cvid: aid47_bid29 -->

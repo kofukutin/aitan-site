@@ -96,7 +96,7 @@ TOEICではホテルやレストランの案内、観光パンフレットなど
 ## 🤔  dish との違いは？
 
 - **cuisine**：特定の国や地域、レストランの「料理全体のスタイル」や「料理法」を指す
-- **[dish](/word/dish)**：一品ごとの「料理」や「皿」を指す
+- **[dish](/word/dish/)**：一品ごとの「料理」や「皿」を指す
 
 cuisineは「イタリア料理」「和食」など広い範囲の料理様式を表し、dishは「パスタ」「寿司」など個別の料理を指します。
 
@@ -104,14 +104,14 @@ cuisineは「イタリア料理」「和食」など広い範囲の料理様式�
 
 ## 🧩 あわせて覚えたい
 
-- [meal](/word/meal)：食事、1回分の食事
-- [recipe](/word/recipe)：レシピ、調理法
+- [meal](/word/meal/)：食事、1回分の食事
+- [recipe](/word/recipe/)：レシピ、調理法
 
 ---
 
 ## 📖 できればこれも
 
-- [ingredient](/word/ingredient)：材料、成分
-- [flavor](/word/flavor)：味、風味
+- [ingredient](/word/ingredient/)：材料、成分
+- [flavor](/word/flavor/)：味、風味
 
 <!-- cvid: aid17_bid21 -->

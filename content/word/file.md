@@ -97,7 +97,7 @@ TOEICでは「ファイルを送る」「ファイルを整理する」など、
 ## 🤔  document との違いは？
 
 - **file**：複数の書類やデータをまとめた「ファイル」や「書類一式」
-- **[document](/word/document)**：1つの「文書」や「書類」
+- **[document](/word/document/)**：1つの「文書」や「書類」
 
 fileは書類の束やデータのまとまり、documentは個々の文書や書類を指します。たとえば、1つのfileに複数のdocumentが入っているイメージです。
 
@@ -105,14 +105,14 @@ fileは書類の束やデータのまとまり、documentは個々の文書や�
 
 ## 🧩 あわせて覚えたい
 
-- [folder](/word/folder)：フォルダー、書類を入れるための入れ物
-- [record](/word/record)：記録、記載された情報
+- [folder](/word/folder/)：フォルダー、書類を入れるための入れ物
+- [record](/word/record/)：記録、記載された情報
 
 ---
 
 ## 📖 できればこれも
 
-- [form](/word/form)：用紙、書式
-- [report](/word/report)：報告書、レポート
+- [form](/word/form/)：用紙、書式
+- [report](/word/report/)：報告書、レポート
 
 <!-- cvid: aid34_bid32 -->

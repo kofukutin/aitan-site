@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写で「体」や「本体」を指す語として
 ## 🤔  figure との違いは？
 
 - **body**：物理的な「体」や「本体」を指す
-- **[figure](/word/figure)**：外見や体型、図形・数字など抽象的な「形」を指す
+- **[figure](/word/figure/)**：外見や体型、図形・数字など抽象的な「形」を指す
 
 bodyは実際の体や物の主要部分を表し、figureは見た目や輪郭、または図や数字など抽象的な形を表します。
 
@@ -105,14 +105,14 @@ bodyは実際の体や物の主要部分を表し、figureは見た目や輪郭�
 
 ## 🧩 あわせて覚えたい
 
-- [organ](/word/organ)：臓器
-- [mind](/word/mind)：心、精神
+- [organ](/word/organ/)：臓器
+- [mind](/word/mind/)：心、精神
 
 ---
 
 ## 📖 できればこれも
 
-- [brain](/word/brain)：脳
-- [health](/word/health)：健康
+- [brain](/word/brain/)：脳
+- [health](/word/health/)：健康
 
 <!-- cvid: aid29_bid23 -->

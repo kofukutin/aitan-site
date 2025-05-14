@@ -99,7 +99,7 @@ TOEICではPart 5を中心に、ビジネスの意思決定や会議の文脈で
 ## 🤔  choice との違いは？
 
 - **decision**：迷った末に「決断」や「決定」を下すこと
-- **[choice](/word/choice)**：選択肢の中から「選ぶこと」や「選ばれたもの」
+- **[choice](/word/choice/)**：選択肢の中から「選ぶこと」や「選ばれたもの」
 
 decisionは「決断」という行為や結果を強調し、choiceは「選択肢」や「選ぶ行為」自体を指します。
 
@@ -107,14 +107,14 @@ decisionは「決断」という行為や結果を強調し、choiceは「選択
 
 ## 🧩 あわせて覚えたい
 
-- [judgment](/word/judgment)：判断、評価
-- [conclusion](/word/conclusion)：結論
+- [judgment](/word/judgment/)：判断、評価
+- [conclusion](/word/conclusion/)：結論
 
 ---
 
 ## 📖 できればこれも
 
-- [option](/word/option)：選択肢
-- [plan](/word/plan)：計画
+- [option](/word/option/)：選択肢
+- [plan](/word/plan/)：計画
 
 <!-- cvid: aid22_bid22 -->

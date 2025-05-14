@@ -93,7 +93,7 @@ TOEICでは主に写真描写問題で「外にいる」「外に置かれてい
 ## 🤔  exterior との違いは？
 
 - **outside**：日常的に「外側」「外に」と場所や範囲の外を表す。
-- **[exterior](/word/exterior)**：建物や物の「外観」「外部」といったフォーマルな表現。
+- **[exterior](/word/exterior/)**：建物や物の「外観」「外部」といったフォーマルな表現。
 
 outsideはカジュアルで広く使われ、exteriorは建築やデザインなど専門的・フォーマルな場面で使われます。
 
@@ -101,14 +101,14 @@ outsideはカジュアルで広く使われ、exteriorは建築やデザイン�
 
 ## 🧩 あわせて覚えたい
 
-- [inside](/word/inside)：内側、～の中に
-- [beyond](/word/beyond)：～を越えて、～の向こうに
+- [inside](/word/inside/)：内側、～の中に
+- [beyond](/word/beyond/)：～を越えて、～の向こうに
 
 ---
 
 ## 📖 できればこれも
 
-- [above](/word/above)：～の上に
-- [around](/word/around)：～の周りに
+- [above](/word/above/)：～の上に
+- [around](/word/around/)：～の周りに
 
 <!-- cvid: aid27_bid03 -->

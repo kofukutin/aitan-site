@@ -97,7 +97,7 @@ ITやビジネスの文脈で「手動で」「手作業で」という意味で
 ## 🤔  by hand との違いは？
 
 - **manually**：フォーマルで技術的な場面や説明文で使われる「手動で」「手作業で」。
-- **[by hand](/word/by_hand)**：日常的・カジュアルに「手で」「手作業で」を表す。
+- **[by hand](/word/by_hand/)**：日常的・カジュアルに「手で」「手作業で」を表す。
 
 manuallyはITやビジネスなどフォーマルな文脈で使われ、by handは会話やカジュアルな場面でよく使われます。
 
@@ -105,14 +105,14 @@ manuallyはITやビジネスなどフォーマルな文脈で使われ、by hand
 
 ## 🧩 あわせて覚えたい
 
-- [automatically](/word/automatically)：自動的に
-- [mechanically](/word/mechanically)：機械的に
+- [automatically](/word/automatically/)：自動的に
+- [mechanically](/word/mechanically/)：機械的に
 
 ---
 
 ## 📖 できればこれも
 
-- [digitally](/word/digitally)：デジタルで
-- [physically](/word/physically)：物理的に
+- [digitally](/word/digitally/)：デジタルで
+- [physically](/word/physically/)：物理的に
 
 <!-- cvid: aid36_bid07 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 7のビジネス記事や広告文、企業紹介などで
 ## 🤔  prime との違いは？
 
 - **premier**：最上位・第一の（フォーマルで格式高いニュアンス）
-- **[prime](/word/prime)**：最も重要な、主要な（一般的で幅広い場面で使う）
+- **[prime](/word/prime/)**：最も重要な、主要な（一般的で幅広い場面で使う）
 
 「premier」は格式や地位の高さを強調し、公式な場面や称号に使われやすいです。「prime」は「最も重要」「最盛期」など幅広い意味で使われ、日常的な表現にも適します。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 7のビジネス記事や広告文、企業紹介などで
 
 ## 🧩 あわせて覚えたい
 
-- [chief](/word/chief)：主要な、最高位の
-- [leading](/word/leading)：先導する、第一線の
+- [chief](/word/chief/)：主要な、最高位の
+- [leading](/word/leading/)：先導する、第一線の
 
 ---
 
 ## 📖 できればこれも
 
-- [primary](/word/primary)：主な、第一の
-- [principal](/word/principal)：主要な、最も重要な
+- [primary](/word/primary/)：主な、第一の
+- [principal](/word/principal/)：主要な、最も重要な
 
 <!-- cvid: aid31_bid33 -->

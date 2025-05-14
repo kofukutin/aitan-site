@@ -97,7 +97,7 @@ TOEICでは、形容詞として「controlling manager」や「controlling inter
 ## 🤔  management との違いは？
 
 - **controlling**：他人や物事を強く支配・管理しようとする様子
-- **[management](/word/management)**：組織や人を計画的に運営・管理すること
+- **[management](/word/management/)**：組織や人を計画的に運営・管理すること
 
 「controlling」は「支配的」「干渉的」といったやや強い管理のニュアンスがあり、「management」は全体をまとめる一般的な管理を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞として「controlling manager」や「controlling inter
 
 ## 🧩 あわせて覚えたい
 
-- [supervise](/word/supervise)：監督する、指導する
-- [monitor](/word/monitor)：監視する、見守る
+- [supervise](/word/supervise/)：監督する、指導する
+- [monitor](/word/monitor/)：監視する、見守る
 
 ---
 
 ## 📖 できればこれも
 
-- [directive](/word/directive)：指示的な、指令
-- [coordinate](/word/coordinate)：調整する、まとめる
+- [directive](/word/directive/)：指示的な、指令
+- [coordinate](/word/coordinate/)：調整する、まとめる
 
 <!-- cvid: aid30_bid00 -->

@@ -97,7 +97,7 @@ TOEICでは科学や健康関連の記事や広告文で見かけることがあ
 ## 🤔  catalyst との違いは？
 
 - **enzyme**：生体内で働くタンパク質性の触媒
-- **[catalyst](/word/catalyst)**：一般的な化学反応を促進する触媒（生体・非生体問わず）
+- **[catalyst](/word/catalyst/)**：一般的な化学反応を促進する触媒（生体・非生体問わず）
 
 enzymeは生物の体内で働くタンパク質に限定されますが、catalystは無機物なども含めて広く使われます。
 
@@ -105,14 +105,14 @@ enzymeは生物の体内で働くタンパク質に限定されますが、catal
 
 ## 🧩 あわせて覚えたい
 
-- [protein](/word/protein)：タンパク質
-- [substrate](/word/substrate)：基質（酵素が作用する物質）
+- [protein](/word/protein/)：タンパク質
+- [substrate](/word/substrate/)：基質（酵素が作用する物質）
 
 ---
 
 ## 📖 できればこれも
 
-- [cell](/word/cell)：細胞
-- [reaction](/word/reaction)：反応
+- [cell](/word/cell/)：細胞
+- [reaction](/word/reaction/)：反応
 
 <!-- cvid: aid23_bid41 -->

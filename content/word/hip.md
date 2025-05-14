@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人物の体の部位を説明する
 ## 🤔  waist との違いは？
 
 - **hip**：腰や尻の外側、脚の付け根あたりの部分
-- **[waist](/word/waist)**：胴体のくびれた部分、ウエスト
+- **[waist](/word/waist/)**：胴体のくびれた部分、ウエスト
 
 hipは体の側面の丸みを帯びた部分、waistは胴体の細い部分を指し、服のサイズやベルト位置などで使い分けます。
 
@@ -105,14 +105,14 @@ hipは体の側面の丸みを帯びた部分、waistは胴体の細い部分を
 
 ## 🧩 あわせて覚えたい
 
-- [shoulder](/word/shoulder)：肩
-- [thigh](/word/thigh)：太もも
+- [shoulder](/word/shoulder/)：肩
+- [thigh](/word/thigh/)：太もも
 
 ---
 
 ## 📖 できればこれも
 
-- [leg](/word/leg)：脚
-- [arm](/word/arm)：腕
+- [leg](/word/leg/)：脚
+- [arm](/word/arm/)：腕
 
 <!-- cvid: aid21_bid00 -->

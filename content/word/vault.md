@@ -97,7 +97,7 @@ TOEICでは主に銀行や金融、セキュリティ関連の長文や説明文
 ## 🤔  safe との違いは？
 
 - **vault**：銀行や企業などの大きな「金庫室」や「地下保管室」を指す
-- **[safe](/word/safe)**：家庭やオフィスなどで使う「金庫」（小型の貴重品保管箱）
+- **[safe](/word/safe/)**：家庭やオフィスなどで使う「金庫」（小型の貴重品保管箱）
 
 vaultは大規模で堅牢な部屋全体を指し、safeは持ち運び可能な小型の金庫を指します。
 
@@ -105,14 +105,14 @@ vaultは大規模で堅牢な部屋全体を指し、safeは持ち運び可能�
 
 ## 🧩 あわせて覚えたい
 
-- [locker](/word/locker)：ロッカー、個人用の小型収納箱
-- [deposit_box](/word/deposit_box)：貸金庫、銀行の個人用保管箱
+- [locker](/word/locker/)：ロッカー、個人用の小型収納箱
+- [deposit_box](/word/deposit_box/)：貸金庫、銀行の個人用保管箱
 
 ---
 
 ## 📖 できればこれも
 
-- [fund](/word/fund)：資金、基金
-- [asset](/word/asset)：資産
+- [fund](/word/fund/)：資金、基金
+- [asset](/word/asset/)：資産
 
 <!-- cvid: aid44_bid20 -->

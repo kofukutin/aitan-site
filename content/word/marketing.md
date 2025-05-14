@@ -97,7 +97,7 @@ TOEICではビジネス文書やEメール、広告文などで頻出し、企�
 ## 🤔  advertising との違いは？
 
 - **marketing**：市場調査・宣伝・販売戦略などを含む「マーケティング活動」全体
-- **[advertising](/word/advertising)**：広告を作成・掲載する「広告活動」そのもの
+- **[advertising](/word/advertising/)**：広告を作成・掲載する「広告活動」そのもの
 
 marketingは広い意味での販売促進活動全体、advertisingはその中の「広告」に特化した部分です。
 
@@ -105,13 +105,13 @@ marketingは広い意味での販売促進活動全体、advertisingはその中
 
 ## 🧩 あわせて覚えたい
 
-- [promotion](/word/promotion)：販促、販売促進
-- [sales](/word/sales)：販売、売上
+- [promotion](/word/promotion/)：販促、販売促進
+- [sales](/word/sales/)：販売、売上
 
 ---
 
 ## 📖 できればこれも
 
-- [strategy](/word/strategy)：戦略
-- [campaign](/word/campaign)：キャンペーン、活動
+- [strategy](/word/strategy/)：戦略
+- [campaign](/word/campaign/)：キャンペーン、活動
 <!-- cvid: aid35_bid12 -->

@@ -97,7 +97,7 @@ ITやビジネスの場面で「操作する」「進む」の意味で出題さ
 ## 🤔  operate との違いは？
 
 - **navigate**：進路を決めて進む、または複雑なものをうまく操作する
-- **[operate](/word/operate)**：機械やシステムを動かす・操作する
+- **[operate](/word/operate/)**：機械やシステムを動かす・操作する
 
 navigateは「道順を選んで進む」や「複雑な状況を切り抜ける」ニュアンスがあり、operateは単に「動かす・操作する」意味で使われます。
 
@@ -105,14 +105,14 @@ navigateは「道順を選んで進む」や「複雑な状況を切り抜ける
 
 ## 🧩 あわせて覚えたい
 
-- [direct](/word/direct)：指示する、導く
-- [control](/word/control)：制御する、管理する
+- [direct](/word/direct/)：指示する、導く
+- [control](/word/control/)：制御する、管理する
 
 ---
 
 ## 📖 できればこれも
 
-- [access](/word/access)：アクセスする、到達する
-- [explore](/word/explore)：探検する、調査する
+- [access](/word/access/)：アクセスする、到達する
+- [explore](/word/explore/)：探検する、調査する
 
 <!-- cvid: aid42_bid35 -->

@@ -99,7 +99,7 @@ TOEICでは「禁止する」という意味で、主に規則やルールに関
 ## 🤔  prohibit との違いは？
 
 - **forbid**：個人や組織が「強く禁止する」ニュアンス。口頭や日常的な場面でも使われる。
-- **[prohibit](/word/prohibit)**：法律や規則など、よりフォーマルで公式な「禁止」に使われる。
+- **[prohibit](/word/prohibit/)**：法律や規則など、よりフォーマルで公式な「禁止」に使われる。
 
 forbidは感情や権威を伴う禁止、prohibitは制度やルールによる禁止に使い分けられます。
 
@@ -107,14 +107,14 @@ forbidは感情や権威を伴う禁止、prohibitは制度やルールによる
 
 ## 🧩 あわせて覚えたい
 
-- [allow](/word/allow)：許可する
-- [ban](/word/ban)：（公式に）禁止する
+- [allow](/word/allow/)：許可する
+- [ban](/word/ban/)：（公式に）禁止する
 
 ---
 
 ## 📖 できればこれも
 
-- [permit](/word/permit)：許可する
-- [refuse](/word/refuse)：拒否する
+- [permit](/word/permit/)：許可する
+- [refuse](/word/refuse/)：拒否する
 
 <!-- cvid: aid07_bid03 -->

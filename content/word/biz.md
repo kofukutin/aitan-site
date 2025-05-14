@@ -96,7 +96,7 @@ TOEICではカジュアルなメールやチャット文面などでまれに登
 ## 🤔  business との違いは？
 
 - **biz**：カジュアルな場面や口語で使う「ビジネス」の略語
-- **[business](/word/business)**：フォーマル・カジュアル両方で使える正式な「ビジネス」
+- **[business](/word/business/)**：フォーマル・カジュアル両方で使える正式な「ビジネス」
 
 「biz」は友人や同僚との軽い会話やメールで使われ、「business」は公式な文書や会議など幅広い場面で使われます。
 
@@ -104,14 +104,14 @@ TOEICではカジュアルなメールやチャット文面などでまれに登
 
 ## 🧩 あわせて覚えたい
 
-- [company](/word/company)：会社
-- [firm](/word/firm)：企業、事務所
+- [company](/word/company/)：会社
+- [firm](/word/firm/)：企業、事務所
 
 ---
 
 ## 📖 できればこれも
 
-- [deal](/word/deal)：取引
-- [client](/word/client)：顧客
+- [deal](/word/deal/)：取引
+- [client](/word/client/)：顧客
 
 <!-- cvid: aid38_bid09 -->

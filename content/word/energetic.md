@@ -99,7 +99,7 @@ TOEICでは、社員やリーダーの性格や働きぶりを説明する場面
 ## 🤔  active との違いは？
 
 - **energetic**：エネルギーや活力があふれている様子を強調
-- **[active](/word/active)**：活動的でよく動く、積極的に行動する
+- **[active](/word/active/)**：活動的でよく動く、積極的に行動する
 
 energeticは「元気いっぱい」「パワフル」な印象、activeは「よく動く」「積極的」な行動面を強調します。
 
@@ -107,14 +107,14 @@ energeticは「元気いっぱい」「パワフル」な印象、activeは「�
 
 ## 🧩 あわせて覚えたい
 
-- [lively](/word/lively)：生き生きとした、活気のある
-- [dynamic](/word/dynamic)：ダイナミックな、活発な
+- [lively](/word/lively/)：生き生きとした、活気のある
+- [dynamic](/word/dynamic/)：ダイナミックな、活発な
 
 ---
 
 ## 📖 できればこれも
 
-- [enthusiastic](/word/enthusiastic)：熱心な、熱意のある
-- [productive](/word/productive)：生産的な、成果を出す
+- [enthusiastic](/word/enthusiastic/)：熱心な、熱意のある
+- [productive](/word/productive/)：生産的な、成果を出す
 
 <!-- cvid: aid00_bid09 -->

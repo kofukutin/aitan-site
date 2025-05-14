@@ -97,7 +97,7 @@ TOEICのPart 7で、記事やレポートの一部を指す語として出題さ
 ## 🤔  extract との違いは？
 
 - **excerpt**：書籍や記事などから抜き出した一部分（特に文章や音声の引用）を指す。
-- **[extract](/word/extract)**：抜き出した部分全般を指し、文章だけでなく成分やエッセンスなど幅広い対象に使う。
+- **[extract](/word/extract/)**：抜き出した部分全般を指し、文章だけでなく成分やエッセンスなど幅広い対象に使う。
 
 excerptは主に文章や音声の一部を紹介・引用する場面で使い、extractは成分や要素など幅広い「抽出」に使われます。
 
@@ -105,14 +105,14 @@ excerptは主に文章や音声の一部を紹介・引用する場面で使い�
 
 ## 🧩 あわせて覚えたい
 
-- [summary](/word/summary)：要約
-- [quotation](/word/quotation)：引用文
+- [summary](/word/summary/)：要約
+- [quotation](/word/quotation/)：引用文
 
 ---
 
 ## 📖 できればこれも
 
-- [passage](/word/passage)：（文章の）一節
-- [section](/word/section)：（本や文書の）区分・章
+- [passage](/word/passage/)：（文章の）一節
+- [section](/word/section/)：（本や文書の）区分・章
 
 <!-- cvid: aid40_bid43 -->

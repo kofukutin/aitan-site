@@ -97,7 +97,7 @@ TOEICでは「replace A with B（AをBと取り替える）」の形で頻出し
 ## 🤔  substitute との違いは？
 
 - **replace**：元のものを取り除き、新しいものを入れることに重点がある
-- **[substitute](/word/substitute)**：代用品や代理を一時的・部分的に使うニュアンスが強い
+- **[substitute](/word/substitute/)**：代用品や代理を一時的・部分的に使うニュアンスが強い
 
 replaceは「完全に入れ替える」イメージ、substituteは「一時的・部分的な代用」に使われることが多いです。
 
@@ -105,14 +105,14 @@ replaceは「完全に入れ替える」イメージ、substituteは「一時的
 
 ## 🧩 あわせて覚えたい
 
-- [restore](/word/restore)：元に戻す、修復する
-- [remove](/word/remove)：取り除く、除去する
+- [restore](/word/restore/)：元に戻す、修復する
+- [remove](/word/remove/)：取り除く、除去する
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install)：設置する、インストールする
-- [update](/word/update)：更新する、アップデートする
+- [install](/word/install/)：設置する、インストールする
+- [update](/word/update/)：更新する、アップデートする
 
 <!-- cvid: aid44_bid06 -->

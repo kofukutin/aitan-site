@@ -97,7 +97,7 @@ TOEICでは、frustrateは「妨げる」「いら立たせる」という意味
 ## 🤔  disappoint との違いは？
 
 - **frustrate**：計画や努力を妨げて「いら立たせる」「挫折させる」
-- **[disappoint](/word/disappoint)**：期待や希望がかなわず「がっかりさせる」
+- **[disappoint](/word/disappoint/)**：期待や希望がかなわず「がっかりさせる」
 
 frustrateは「邪魔されて思い通りにいかずイライラする」感情、disappointは「期待が外れて落ち込む」感情の違いがあります。
 
@@ -105,14 +105,14 @@ frustrateは「邪魔されて思い通りにいかずイライラする」感�
 
 ## 🧩 あわせて覚えたい
 
-- [prevent](/word/prevent)：妨げる、防ぐ
-- [annoy](/word/annoy)：いらいらさせる
+- [prevent](/word/prevent/)：妨げる、防ぐ
+- [annoy](/word/annoy/)：いらいらさせる
 
 ---
 
 ## 📖 できればこれも
 
-- [interrupt](/word/interrupt)：中断する、邪魔する
-- [disturb](/word/disturb)：邪魔する、不安にさせる
+- [interrupt](/word/interrupt/)：中断する、邪魔する
+- [disturb](/word/disturb/)：邪魔する、不安にさせる
 
 <!-- cvid: aid10_bid42 -->

@@ -97,7 +97,7 @@ TOEICでは、会話や説明文で「費用をカバーする」「範囲を含
 ## 🤔  protect との違いは？
 
 - **cover**：物理的・抽象的に「覆う」「範囲に含める」「費用をまかなう」など幅広い意味。
-- **[protect](/word/protect)**：危険や損害から「守る」「保護する」ことに特化。
+- **[protect](/word/protect/)**：危険や損害から「守る」「保護する」ことに特化。
 
 「cover」は単に上から覆う・含めるニュアンスで、必ずしも守る目的ではありませんが、「protect」は明確に守る・防ぐ意図があります。
 
@@ -105,14 +105,14 @@ TOEICでは、会話や説明文で「費用をカバーする」「範囲を含
 
 ## 🧩 あわせて覚えたい
 
-- [include](/word/include)：含む、含める
-- [hide](/word/hide)：隠す
+- [include](/word/include/)：含む、含める
+- [hide](/word/hide/)：隠す
 
 ---
 
 ## 📖 できればこれも
 
-- [report](/word/report)：報告する
-- [discuss](/word/discuss)：議論する
+- [report](/word/report/)：報告する
+- [discuss](/word/discuss/)：議論する
 
 <!-- cvid: aid18_bid25 -->

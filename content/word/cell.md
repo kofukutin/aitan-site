@@ -97,7 +97,7 @@ TOEICでは、科学や技術、ビジネス文書の中で「cell（細胞、�
 ## 🤔  battery との違いは？
 
 - **cell**：細胞、小部屋、または電池の1ユニットを指す
-- **[battery](/word/battery)**：複数のcellから構成される「バッテリー」全体を指す
+- **[battery](/word/battery/)**：複数のcellから構成される「バッテリー」全体を指す
 
 cellは「最小単位」や「個々の電池部分」を意味し、batteryはそれらが集まった「まとまり」を指します。
 
@@ -105,14 +105,14 @@ cellは「最小単位」や「個々の電池部分」を意味し、batteryは
 
 ## 🧩 あわせて覚えたい
 
-- [organism](/word/organism)：生物、有機体
-- [tissue](/word/tissue)：組織（生物の細胞が集まったもの）
+- [organism](/word/organism/)：生物、有機体
+- [tissue](/word/tissue/)：組織（生物の細胞が集まったもの）
 
 ---
 
 ## 📖 できればこれも
 
-- [gene](/word/gene)：遺伝子
-- [unit](/word/unit)：単位、構成要素
+- [gene](/word/gene/)：遺伝子
+- [unit](/word/unit/)：単位、構成要素
 
 <!-- cvid: aid49_bid41 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「風が吹いている」「人が何
 ## 🤔  blowing up との違いは？
 
 - **blowing**：風や空気が「吹いている」状態や動作を表す。
-- **[blowing up](/word/blowing_up)**：「爆発する」「膨らむ」など、急激な変化や破裂を表す句動詞。
+- **[blowing up](/word/blowing_up/)**：「爆発する」「膨らむ」など、急激な変化や破裂を表す句動詞。
 
 「blowing」は自然な風や息の動きを表し、「blowing up」は爆発や急激な増加など強い変化を表します。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写で「風が吹いている」「人が何
 
 ## 🧩 あわせて覚えたい
 
-- [wind](/word/wind)：風
-- [breeze](/word/breeze)：そよ風
+- [wind](/word/wind/)：風
+- [breeze](/word/breeze/)：そよ風
 
 ---
 
 ## 📖 できればこれも
 
-- [flowing](/word/flowing)：流れている
-- [raining](/word/raining)：雨が降っている
+- [flowing](/word/flowing/)：流れている
+- [raining](/word/raining/)：雨が降っている
 
 <!-- cvid: aid16_bid05 -->

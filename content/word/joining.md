@@ -97,7 +97,7 @@ TOEICでは会議やイベントへの「参加」「加入」を表す文脈で
 ## 🤔  participation との違いは？
 
 - **joining**：加わる行為そのものや、参加の瞬間に焦点がある
-- **[participation](/word/participation)**：積極的な関与や活動への参加全体を指す
+- **[participation](/word/participation/)**：積極的な関与や活動への参加全体を指す
 
 joiningは「加わること」自体に重点があり、participationは「積極的な関与」や「活動への参加」に重きがあります。
 
@@ -105,14 +105,14 @@ joiningは「加わること」自体に重点があり、participationは「積
 
 ## 🧩 あわせて覚えたい
 
-- [enrollment](/word/enrollment)：登録、入会
-- [attendance](/word/attendance)：出席
+- [enrollment](/word/enrollment/)：登録、入会
+- [attendance](/word/attendance/)：出席
 
 ---
 
 ## 📖 できればこれも
 
-- [member](/word/member)：メンバー、会員
-- [register](/word/register)：登録する
+- [member](/word/member/)：メンバー、会員
+- [register](/word/register/)：登録する
 
 <!-- cvid: aid35_bid17 -->

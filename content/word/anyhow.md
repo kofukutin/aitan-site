@@ -97,7 +97,7 @@ anyhowは会話文や説明文で、話題転換やまとめの表現として�
 ## 🤔  anyway との違いは？
 
 - **anyhow**：ややくだけた印象で、「とにかく」「どうにかして」など柔らかいニュアンス。
-- **[anyway](/word/anyway)**：より一般的で、「いずれにせよ」「それはさておき」と話題転換にもよく使う。
+- **[anyway](/word/anyway/)**：より一般的で、「いずれにせよ」「それはさておき」と話題転換にもよく使う。
 
 anyhowはanywayよりもカジュアルで、話し言葉で使われることが多いです。anywayはフォーマル・カジュアル両方で幅広く使えます。
 
@@ -105,14 +105,14 @@ anyhowはanywayよりもカジュアルで、話し言葉で使われること�
 
 ## 🧩 あわせて覚えたい
 
-- [somehow](/word/somehow)：どうにかして
-- [nevertheless](/word/nevertheless)：それにもかかわらず
+- [somehow](/word/somehow/)：どうにかして
+- [nevertheless](/word/nevertheless/)：それにもかかわらず
 
 ---
 
 ## 📖 できればこれも
 
-- [besides](/word/besides)：そのうえ
-- [however](/word/however)：しかしながら
+- [besides](/word/besides/)：そのうえ
+- [however](/word/however/)：しかしながら
 
 <!-- cvid: aid47_bid01 -->

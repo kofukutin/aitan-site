@@ -97,7 +97,7 @@ fellowshipはTOEICの長文読解パートで、大学や研究機関の説明�
 ## 🤔  scholarship との違いは？
 
 - **fellowship**：大学院生や研究者向けの奨学金や特別研究員制度、または仲間意識を指す
-- **[scholarship](/word/scholarship)**：主に学業成績や経済的理由で与えられる奨学金
+- **[scholarship](/word/scholarship/)**：主に学業成績や経済的理由で与えられる奨学金
 
 fellowshipは研究活動や専門的なプロジェクト支援に重点があり、scholarshipは幅広い学生への学費支援に使われます。
 
@@ -105,14 +105,14 @@ fellowshipは研究活動や専門的なプロジェクト支援に重点があ�
 
 ## 🧩 あわせて覚えたい
 
-- [grant](/word/grant)：助成金、補助金
-- [internship](/word/internship)：インターンシップ、実習
+- [grant](/word/grant/)：助成金、補助金
+- [internship](/word/internship/)：インターンシップ、実習
 
 ---
 
 ## 📖 できればこれも
 
-- [mentor](/word/mentor)：指導者、助言者
-- [committee](/word/committee)：委員会
+- [mentor](/word/mentor/)：指導者、助言者
+- [committee](/word/committee/)：委員会
 
 <!-- cvid: aid24_bid15 -->

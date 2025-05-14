@@ -97,7 +97,7 @@ TOEICでは経済ニュースやビジネスレポートの文脈で頻出しま
 ## 🤔  depression との違いは？
 
 - **recession**：一時的な景気後退や不況を指す
-- **[depression](/word/depression)**：より深刻で長期間続く経済の大不況
+- **[depression](/word/depression/)**：より深刻で長期間続く経済の大不況
 
 recessionは比較的短期間の経済の落ち込み、depressionは歴史的な大不況など、より深刻で長期的な状況を指します。
 
@@ -105,14 +105,14 @@ recessionは比較的短期間の経済の落ち込み、depressionは歴史的�
 
 ## 🧩 あわせて覚えたい
 
-- [recovery](/word/recovery)：回復、景気回復
-- [downturn](/word/downturn)：（景気などの）下降、悪化
+- [recovery](/word/recovery/)：回復、景気回復
+- [downturn](/word/downturn/)：（景気などの）下降、悪化
 
 ---
 
 ## 📖 できればこれも
 
-- [inflation](/word/inflation)：インフレ、物価上昇
-- [crisis](/word/crisis)：危機、重大局面
+- [inflation](/word/inflation/)：インフレ、物価上昇
+- [crisis](/word/crisis/)：危機、重大局面
 
 <!-- cvid: aid27_bid16 -->

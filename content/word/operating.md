@@ -97,7 +97,7 @@ TOEICでは「operating cost（運営費）」や「operating system（オペレ
 ## 🤔  operational との違いは？
 
 - **operating**：実際に動作・運用している状態や、その過程に関する意味が強い
-- **[operational](/word/operational)**：機能している、稼働可能な、運用上の（より抽象的・広範囲）
+- **[operational](/word/operational/)**：機能している、稼働可能な、運用上の（より抽象的・広範囲）
 
 operatingは「今まさに動いている・運用している」ことを強調し、operationalは「機能する状態にある」「運用可能」というやや抽象的な意味で使い分けます。
 
@@ -105,14 +105,14 @@ operatingは「今まさに動いている・運用している」ことを強�
 
 ## 🧩 あわせて覚えたい
 
-- [functioning](/word/functioning)：機能している
-- [maintenance](/word/maintenance)：保守、メンテナンス
+- [functioning](/word/functioning/)：機能している
+- [maintenance](/word/maintenance/)：保守、メンテナンス
 
 ---
 
 ## 📖 できればこれも
 
-- [procedure](/word/procedure)：手順、手続き
-- [install](/word/install)：設置する、インストールする
+- [procedure](/word/procedure/)：手順、手続き
+- [install](/word/install/)：設置する、インストールする
 
 <!-- cvid: aid01_bid23 -->

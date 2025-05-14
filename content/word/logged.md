@@ -97,7 +97,7 @@ TOEICではITやビジネス文脈で「記録された」「ログに残され�
 ## 🤔  recorded との違いは？
 
 - **logged**：公式な記録やシステム上の記録を強調
-- **[recorded](/word/recorded)**：音声・映像・出来事など幅広く「記録した」全般
+- **[recorded](/word/recorded/)**：音声・映像・出来事など幅広く「記録した」全般
 
 **logged**は特にITや業務で「システムに記録した」ニュアンスが強く、**recorded**はより一般的な「記録した」という意味で使われます。
 
@@ -105,14 +105,14 @@ TOEICではITやビジネス文脈で「記録された」「ログに残され�
 
 ## 🧩 あわせて覚えたい
 
-- [register](/word/register)：登録する、記録する
-- [track](/word/track)：追跡する、記録をつける
+- [register](/word/register/)：登録する、記録する
+- [track](/word/track/)：追跡する、記録をつける
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/word/submit)：提出する
-- [update](/word/update)：更新する
+- [submit](/word/submit/)：提出する
+- [update](/word/update/)：更新する
 
 <!-- cvid: aid31_bid14 -->

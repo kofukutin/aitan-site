@@ -100,7 +100,7 @@ TOEICでは、ビジネス文書やレポートで「蓄積する」「積み上
 ## 🤔  collect との違いは？
 
 - **accumulate**：時間をかけて徐々に蓄積・積み上げるニュアンス
-- **[collect](/word/collect)**：意図的に集める、収集するという意味が強い
+- **[collect](/word/collect/)**：意図的に集める、収集するという意味が強い
 
 accumulateは自然に増えていく場合や長期間にわたる蓄積に使われ、collectは目的を持って集める場合に使われます。
 
@@ -108,14 +108,14 @@ accumulateは自然に増えていく場合や長期間にわたる蓄積に使�
 
 ## 🧩 あわせて覚えたい
 
-- [gather](/word/gather)：集める（人や物をまとめるニュアンス）
-- [amass](/word/amass)：（大量に）集める、蓄積する
+- [gather](/word/gather/)：集める（人や物をまとめるニュアンス）
+- [amass](/word/amass/)：（大量に）集める、蓄積する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze)：分析する
-- [achieve](/word/achieve)：達成する
+- [analyze](/word/analyze/)：分析する
+- [achieve](/word/achieve/)：達成する
 
 <!-- cvid: aid16_bid25 -->

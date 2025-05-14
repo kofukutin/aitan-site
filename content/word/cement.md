@@ -98,7 +98,7 @@ Strong teamwork can cement good relationships in the office.
 ## 🤔  concrete との違いは？
 
 - **cement**：建築材料の「セメント」や「結びつけるもの」を指す
-- **[concrete](/word/concrete)**：セメント・砂・砂利・水を混ぜてできる「コンクリート」
+- **[concrete](/word/concrete/)**：セメント・砂・砂利・水を混ぜてできる「コンクリート」
 
 cementは原材料や比喩的な「つなぐもの」、concreteは完成した建築材料（コンクリート）を指します。
 
@@ -106,14 +106,14 @@ cementは原材料や比喩的な「つなぐもの」、concreteは完成した
 
 ## 🧩 あわせて覚えたい
 
-- [glue](/word/glue)：のり、接着剤
-- [bond](/word/bond)：結びつき、絆
+- [glue](/word/glue/)：のり、接着剤
+- [bond](/word/bond/)：結びつき、絆
 
 ---
 
 ## 📖 できればこれも
 
-- [brick](/word/brick)：れんが
-- [structure](/word/structure)：構造、建造物
+- [brick](/word/brick/)：れんが
+- [structure](/word/structure/)：構造、建造物
 
 <!-- cvid: aid38_bid35 -->

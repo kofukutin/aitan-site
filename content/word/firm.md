@@ -97,7 +97,7 @@ TOEICではビジネス文書やEメール、記事などで「会社」や「�
 ## 🤔  company との違いは？
 
 - **firm**：特に法律・会計など専門職の会社や事務所を指すことが多い
-- **[company](/word/company)**：一般的な「会社」全般を指す
+- **[company](/word/company/)**：一般的な「会社」全般を指す
 
 「firm」は専門職の組織に使われやすく、「company」は業種を問わず幅広い会社に使われます。
 
@@ -105,14 +105,14 @@ TOEICではビジネス文書やEメール、記事などで「会社」や「�
 
 ## 🧩 あわせて覚えたい
 
-- [corporation](/word/corporation)：株式会社、大企業
-- [enterprise](/word/enterprise)：企業、事業体
+- [corporation](/word/corporation/)：株式会社、大企業
+- [enterprise](/word/enterprise/)：企業、事業体
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client)：顧客、取引先
-- [branch](/word/branch)：支店、支社
+- [client](/word/client/)：顧客、取引先
+- [branch](/word/branch/)：支店、支社
 
 <!-- cvid: aid17_bid49 -->

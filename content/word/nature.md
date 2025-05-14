@@ -98,7 +98,7 @@ TOEICでは、環境や自然保護、または製品やサービスの「性質
 ## 🤔  environment との違いは？
 
 - **nature**：人の手が加わっていない「自然」や物事の「本質・性質」を指す
-- **[environment](/word/environment)**：周囲の環境や状況、特に人間活動による影響も含む
+- **[environment](/word/environment/)**：周囲の環境や状況、特に人間活動による影響も含む
 
 natureは「ありのままの自然」や「生まれ持った性質」を強調し、environmentは「取り巻く環境」や「外的要因」を指します。
 
@@ -106,14 +106,14 @@ natureは「ありのままの自然」や「生まれ持った性質」を強�
 
 ## 🧩 あわせて覚えたい
 
-- [character](/word/character)：性格、特徴
-- [wildlife](/word/wildlife)：野生生物
+- [character](/word/character/)：性格、特徴
+- [wildlife](/word/wildlife/)：野生生物
 
 ---
 
 ## 📖 できればこれも
 
-- [forest](/word/forest)：森
-- [animal](/word/animal)：動物
+- [forest](/word/forest/)：森
+- [animal](/word/animal/)：動物
 
 <!-- cvid: aid33_bid42 -->

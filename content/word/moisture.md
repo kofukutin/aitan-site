@@ -97,7 +97,7 @@ TOEICでは、製品の保管や品質管理、環境に関する説明文で「
 ## 🤔  humidity との違いは？
 
 - **moisture**：物や空気中に含まれる「水分」「湿気」全般を指す。
-- **[humidity](/word/humidity)**：空気中の「湿度」や「湿気の度合い」を数値的・科学的に表す。
+- **[humidity](/word/humidity/)**：空気中の「湿度」や「湿気の度合い」を数値的・科学的に表す。
 
 「moisture」は水分そのもの、「humidity」は空気中の湿度の割合を表すときに使います。
 
@@ -105,14 +105,14 @@ TOEICでは、製品の保管や品質管理、環境に関する説明文で「
 
 ## 🧩 あわせて覚えたい
 
-- [dryness](/word/dryness)：乾燥、乾き
-- [dampness](/word/dampness)：湿り気、じめじめ
+- [dryness](/word/dryness/)：乾燥、乾き
+- [dampness](/word/dampness/)：湿り気、じめじめ
 
 ---
 
 ## 📖 できればこれも
 
-- [liquid](/word/liquid)：液体
-- [vapor](/word/vapor)：蒸気
+- [liquid](/word/liquid/)：液体
+- [vapor](/word/vapor/)：蒸気
 
 <!-- cvid: aid22_bid33 -->

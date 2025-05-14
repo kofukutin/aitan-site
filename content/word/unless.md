@@ -93,7 +93,7 @@ TOEICでは文法問題や条件文の選択肢として頻出です。特にif�
 ## 🤔  except との違いは？
 
 - **unless**：条件文で「～でない限り」「もし～でなければ」と使う
-- **[except](/word/except)**：名詞や句を除外する「～を除いて」
+- **[except](/word/except/)**：名詞や句を除外する「～を除いて」
 
 unlessは主に文の条件を表す接続詞、exceptは名詞や句を除外する前置詞・接続詞として使い分けます。
 
@@ -101,14 +101,14 @@ unlessは主に文の条件を表す接続詞、exceptは名詞や句を除外�
 
 ## 🧩 あわせて覚えたい
 
-- [if](/word/if)：もし～なら（条件を表す接続詞）
-- [otherwise](/word/otherwise)：さもなければ（別の条件や結果を示す副詞）
+- [if](/word/if/)：もし～なら（条件を表す接続詞）
+- [otherwise](/word/otherwise/)：さもなければ（別の条件や結果を示す副詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [although](/word/although)：～だけれども（譲歩を表す接続詞）
-- [since](/word/since)：～なので、～以来（理由・時を表す接続詞）
+- [although](/word/although/)：～だけれども（譲歩を表す接続詞）
+- [since](/word/since/)：～なので、～以来（理由・時を表す接続詞）
 
 <!-- cvid: aid32_bid19 -->

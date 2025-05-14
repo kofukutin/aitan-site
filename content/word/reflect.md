@@ -97,7 +97,7 @@ TOEICでは「反映する」「熟考する」の意味で、文脈に合う動
 ## 🤔  consider との違いは？
 
 - **reflect**：じっくり振り返って考える、または何かを映し出す
-- **[consider](/word/consider)**：何かを検討・考慮する
+- **[consider](/word/consider/)**：何かを検討・考慮する
 
 reflectは「過去の出来事や自分の行動を深く振り返る」ニュアンスが強く、considerは「選択肢や提案などを検討する」場面で使います。
 
@@ -105,14 +105,14 @@ reflectは「過去の出来事や自分の行動を深く振り返る」ニュ�
 
 ## 🧩 あわせて覚えたい
 
-- [mirror](/word/mirror)：鏡、映す
-- [ponder](/word/ponder)：熟考する
+- [mirror](/word/mirror/)：鏡、映す
+- [ponder](/word/ponder/)：熟考する
 
 ---
 
 ## 📖 できればこれも
 
-- [indicate](/word/indicate)：示す、指し示す
-- [review](/word/review)：見直す、再検討する
+- [indicate](/word/indicate/)：示す、指し示す
+- [review](/word/review/)：見直す、再検討する
 
 <!-- cvid: aid15_bid00 -->

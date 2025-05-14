@@ -93,7 +93,7 @@ TOEICの長文読解（Part 7）で、例示や比較の文脈でよく登場し
 ## 🤔  likewise との違いは？
 
 - **similarly**：前述の内容と「同じような方法・状況」であることを説明的に述べるときに使う。
-- **[likewise](/word/likewise)**：よりカジュアルに「同様に」「私も」と返答や挨拶にも使える。
+- **[likewise](/word/likewise/)**：よりカジュアルに「同様に」「私も」と返答や挨拶にも使える。
 
 similarlyは論理的な説明や比較で使われ、likewiseは会話や挨拶など幅広い場面で使われます。
 
@@ -101,14 +101,14 @@ similarlyは論理的な説明や比較で使われ、likewiseは会話や挨拶
 
 ## 🧩 あわせて覚えたい
 
-- [equally](/word/equally)：同じ程度に、等しく
-- [correspondingly](/word/correspondingly)：それに応じて、対応して
+- [equally](/word/equally/)：同じ程度に、等しく
+- [correspondingly](/word/correspondingly/)：それに応じて、対応して
 
 ---
 
 ## 📖 できればこれも
 
-- [therefore](/word/therefore)：それゆえに、したがって
-- [consequently](/word/consequently)：その結果として
+- [therefore](/word/therefore/)：それゆえに、したがって
+- [consequently](/word/consequently/)：その結果として
 
 <!-- cvid: aid17_bid10 -->

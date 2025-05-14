@@ -97,7 +97,7 @@ TOEICでは、製品説明や会議室の設備紹介などで「acoustic」が�
 ## 🤔  audio との違いは？
 
 - **acoustic**：自然な音や音響、電気を使わない音に焦点を当てる
-- **[audio](/word/audio)**：録音・再生など電気的な「音声」や「音響機器」に関する
+- **[audio](/word/audio/)**：録音・再生など電気的な「音声」や「音響機器」に関する
 
 「acoustic」は「生音」や「音響特性」に重点があり、「audio」は電子機器や録音・再生の「音」に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、製品説明や会議室の設備紹介などで「acoustic」が�
 
 ## 🧩 あわせて覚えたい
 
-- [sound](/word/sound)：音、音声
-- [audible](/word/audible)：聞こえる
+- [sound](/word/sound/)：音、音声
+- [audible](/word/audible/)：聞こえる
 
 ---
 
 ## 📖 できればこれも
 
-- [visual](/word/visual)：視覚の、見える
-- [vocal](/word/vocal)：声の、発声の
+- [visual](/word/visual/)：視覚の、見える
+- [vocal](/word/vocal/)：声の、発声の
 
 <!-- cvid: aid25_bid41 -->

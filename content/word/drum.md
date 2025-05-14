@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で、工場や倉庫の場面で「ドラ
 ## 🤔  barrel との違いは？
 
 - **drum**：太鼓やドラム缶など、円筒形でふたのある容器や楽器を指す。
-- **[barrel](/word/barrel)**：主に木製や金属製の「樽」、液体やワインなどの保存容器を指す。
+- **[barrel](/word/barrel/)**：主に木製や金属製の「樽」、液体やワインなどの保存容器を指す。
 
 drumは楽器や工業用の容器（ドラム缶）に使われ、barrelは酒や油などの貯蔵用の樽に使われます。
 
@@ -106,14 +106,14 @@ drumは楽器や工業用の容器（ドラム缶）に使われ、barrelは酒�
 
 ## 🧩 あわせて覚えたい
 
-- [container](/word/container)：容器、入れ物
-- [tank](/word/tank)：タンク、大型容器
+- [container](/word/container/)：容器、入れ物
+- [tank](/word/tank/)：タンク、大型容器
 
 ---
 
 ## 📖 できればこれも
 
-- [box](/word/box)：箱
-- [can](/word/can)：缶
+- [box](/word/box/)：箱
+- [can](/word/can/)：缶
 
 <!-- cvid: aid24_bid16 -->

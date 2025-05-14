@@ -97,7 +97,7 @@ TOEICではメールや案内文で「添付された書類」「付属の資料
 ## 🤔  connected との違いは？
 
 - **attached**：物理的・書類的に「添付された」「付属の」、または感情的な「愛着がある」
-- **[connected](/word/connected)**：物理的・ネットワーク的に「つながっている」「接続された」
+- **[connected](/word/connected/)**：物理的・ネットワーク的に「つながっている」「接続された」
 
 attachedは「何かにくっついている」「添付されている」ことを強調し、connectedは「ネットワークや線などでつながっている」ことを表します。
 
@@ -105,14 +105,14 @@ attachedは「何かにくっついている」「添付されている」こと
 
 ## 🧩 あわせて覚えたい
 
-- [enclosed](/word/enclosed)：同封された
-- [included](/word/included)：含まれている
+- [enclosed](/word/enclosed/)：同封された
+- [included](/word/included/)：含まれている
 
 ---
 
 ## 📖 できればこれも
 
-- [attached_file](/word/attached_file)：添付ファイル
-- [relevant](/word/relevant)：関連する
+- [attached_file](/word/attached_file/)：添付ファイル
+- [relevant](/word/relevant/)：関連する
 
 <!-- cvid: aid49_bid46 -->

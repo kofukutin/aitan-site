@@ -97,7 +97,7 @@ TOEICの長文問題やビジネスメール文中で、情報を追加する際
 ## 🤔  moreover との違いは？
 
 - **additionally**：前述の内容に「追加情報」を加えるときに使う、ややフォーマルな副詞。
-- **[moreover](/word/moreover)**：さらに強調して「それに加えて」と述べるときに使う、やや硬い印象の副詞。
+- **[moreover](/word/moreover/)**：さらに強調して「それに加えて」と述べるときに使う、やや硬い印象の副詞。
 
 「additionally」は単純な追加、「moreover」は追加＋強調のニュアンスがあります。
 
@@ -105,14 +105,14 @@ TOEICの長文問題やビジネスメール文中で、情報を追加する際
 
 ## 🧩 あわせて覚えたい
 
-- [furthermore](/word/furthermore)：さらに、その上に（フォーマルな追加表現）
-- [besides](/word/besides)：そのうえ、さらに（カジュアルな追加表現）
+- [furthermore](/word/furthermore/)：さらに、その上に（フォーマルな追加表現）
+- [besides](/word/besides/)：そのうえ、さらに（カジュアルな追加表現）
 
 ---
 
 ## 📖 できればこれも
 
-- [however](/word/however)：しかしながら
-- [therefore](/word/therefore)：それゆえに
+- [however](/word/however/)：しかしながら
+- [therefore](/word/therefore/)：それゆえに
 
 <!-- cvid: aid09_bid10 -->

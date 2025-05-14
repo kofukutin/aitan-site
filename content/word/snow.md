@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、天候や風景を説明する
 ## 🤔  frost との違いは？
 
 - **snow**：空から降る白い氷の結晶（雪）を指す。
-- **[frost](/word/frost)**：地面や物の表面にできる霜や薄い氷を指す。
+- **[frost](/word/frost/)**：地面や物の表面にできる霜や薄い氷を指す。
 
 snowは「降る雪」、frostは「地面や窓につく霜」と、現れる場所や状態が異なります。
 
@@ -105,14 +105,14 @@ snowは「降る雪」、frostは「地面や窓につく霜」と、現れる�
 
 ## 🧩 あわせて覚えたい
 
-- [rain](/word/rain)：雨
-- [hail](/word/hail)：ひょう
+- [rain](/word/rain/)：雨
+- [hail](/word/hail/)：ひょう
 
 ---
 
 ## 📖 できればこれも
 
-- [storm](/word/storm)：嵐
-- [cloud](/word/cloud)：雲
+- [storm](/word/storm/)：嵐
+- [cloud](/word/cloud/)：雲
 
 <!-- cvid: aid02_bid32 -->

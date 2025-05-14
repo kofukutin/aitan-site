@@ -97,7 +97,7 @@ TOEICでは不動産や保険、住宅ローンなどの文脈で登場するこ
 ## 🤔  landlord との違いは？
 
 - **homeowner**：自分が住むために家を所有している人
-- **[landlord](/word/landlord)**：賃貸物件の貸主（大家）
+- **[landlord](/word/landlord/)**：賃貸物件の貸主（大家）
 
 homeownerは自分や家族が住む家の所有者を指し、landlordは他人に貸すための物件の所有者（大家）を指します。
 
@@ -105,14 +105,14 @@ homeownerは自分や家族が住む家の所有者を指し、landlordは他人
 
 ## 🧩 あわせて覚えたい
 
-- [tenant](/word/tenant)：賃借人、借りて住む人
-- [resident](/word/resident)：居住者、住民
+- [tenant](/word/tenant/)：賃借人、借りて住む人
+- [resident](/word/resident/)：居住者、住民
 
 ---
 
 ## 📖 できればこれも
 
-- [mortgage](/word/mortgage)：住宅ローン
-- [property](/word/property)：不動産、財産
+- [mortgage](/word/mortgage/)：住宅ローン
+- [property](/word/property/)：不動産、財産
 
 <!-- cvid: aid15_bid27 -->

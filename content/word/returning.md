@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「戻る」「帰る」という意味でよく
 ## 🤔  coming との違いは？
 
 - **returning**：元いた場所に「戻る」「帰る」ことを強調
-- **[coming](/word/coming)**：話し手や聞き手のいる場所に「来る」ことを表す
+- **[coming](/word/coming/)**：話し手や聞き手のいる場所に「来る」ことを表す
 
 returningは「出発点に戻る」ニュアンスがあり、comingは単に「こちらへ来る」動作を指します。
 
@@ -105,14 +105,14 @@ returningは「出発点に戻る」ニュアンスがあり、comingは単に�
 
 ## 🧩 あわせて覚えたい
 
-- [depart](/word/depart)：出発する
-- [resume](/word/resume)：再開する
+- [depart](/word/depart/)：出発する
+- [resume](/word/resume/)：再開する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrive](/word/arrive)：到着する
-- [leave](/word/leave)：去る、出発する
+- [arrive](/word/arrive/)：到着する
+- [leave](/word/leave/)：去る、出発する
 
 <!-- cvid: aid26_bid44 -->

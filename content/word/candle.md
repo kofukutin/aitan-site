@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、テーブルや部屋の小物とし
 ## 🤔  lamp との違いは？
 
 - **candle**：芯に火をつけて明かりをともす「ろうそく」。
-- **[lamp](/word/lamp)**：電気や油などで明かりをともす「ランプ」。
+- **[lamp](/word/lamp/)**：電気や油などで明かりをともす「ランプ」。
 
 candleは火を使う昔ながらの照明、lampは電気や油など現代的・実用的な照明という違いがあります。
 
@@ -105,14 +105,14 @@ candleは火を使う昔ながらの照明、lampは電気や油など現代的�
 
 ## 🧩 あわせて覚えたい
 
-- [torch](/word/torch)：たいまつ、懐中電灯
-- [match](/word/match)：マッチ（火をつける道具）
+- [torch](/word/torch/)：たいまつ、懐中電灯
+- [match](/word/match/)：マッチ（火をつける道具）
 
 ---
 
 ## 📖 できればこれも
 
-- [light](/word/light)：光、明かり
-- [fire](/word/fire)：火
+- [light](/word/light/)：光、明かり
+- [fire](/word/fire/)：火
 
 <!-- cvid: aid18_bid07 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「胸に手を当てている」や「
 ## 🤔  breast との違いは？
 
 - **chest**：男女問わず「胸全体」や「上半身前面」、または収納箱の意味で使う
-- **[breast](/word/breast)**：特に女性の「乳房」や医学的な「胸部」を指す
+- **[breast](/word/breast/)**：特に女性の「乳房」や医学的な「胸部」を指す
 
 chestは体の前面全体や家具の意味もあり、breastは主に女性の胸や医学用語で使われます。
 
@@ -105,14 +105,14 @@ chestは体の前面全体や家具の意味もあり、breastは主に女性の
 
 ## 🧩 あわせて覚えたい
 
-- [box](/word/box)：箱
-- [trunk](/word/trunk)：胴体、トランク（大きな箱）
+- [box](/word/box/)：箱
+- [trunk](/word/trunk/)：胴体、トランク（大きな箱）
 
 ---
 
 ## 📖 できればこれも
 
-- [shoulder](/word/shoulder)：肩
-- [stomach](/word/stomach)：胃、お腹
+- [shoulder](/word/shoulder/)：肩
+- [stomach](/word/stomach/)：胃、お腹
 
 <!-- cvid: aid17_bid04 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文読解で、知的活動や知的財産に関す
 ## 🤔  intelligent との違いは？
 
 - **intellectual**：知的活動や知識、思考に関することを表す
-- **[intelligent](/word/intelligent)**：頭が良い、知能が高いことを表す
+- **[intelligent](/word/intelligent/)**：頭が良い、知能が高いことを表す
 
 「intellectual」は知的な活動や分野に焦点を当て、「intelligent」は人や動物の知能そのものを強調します。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 7の長文読解で、知的活動や知的財産に関す
 
 ## 🧩 あわせて覚えたい
 
-- [academic](/word/academic)：学問的な
-- [emotional](/word/emotional)：感情的な
+- [academic](/word/academic/)：学問的な
+- [emotional](/word/emotional/)：感情的な
 
 ---
 
 ## 📖 できればこれも
 
-- [logical](/word/logical)：論理的な
-- [creative](/word/creative)：創造的な
+- [logical](/word/logical/)：論理的な
+- [creative](/word/creative/)：創造的な
 
 <!-- cvid: aid28_bid03 -->

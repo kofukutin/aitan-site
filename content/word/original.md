@@ -97,7 +97,7 @@ TOEICでは「original document（原本）」や「original idea（独自のア
 ## 🤔  unique との違いは？
 
 - **original**：最初のもの、他と区別される独自のもの
-- **[unique](/word/unique)**：唯一無二で他に全く同じものがない
+- **[unique](/word/unique/)**：唯一無二で他に全く同じものがない
 
 originalは「最初」や「本来のもの」に焦点があり、uniqueは「他に全く同じものがない」点を強調します。
 
@@ -105,14 +105,14 @@ originalは「最初」や「本来のもの」に焦点があり、uniqueは「
 
 ## 🧩 あわせて覚えたい
 
-- [copy](/word/copy)：コピー、複製
-- [authentic](/word/authentic)：本物の、真正の
+- [copy](/word/copy/)：コピー、複製
+- [authentic](/word/authentic/)：本物の、真正の
 
 ---
 
 ## 📖 できればこれも
 
-- [creative](/word/creative)：創造的な
-- [innovative](/word/innovative)：革新的な
+- [creative](/word/creative/)：創造的な
+- [innovative](/word/innovative/)：革新的な
 
 <!-- cvid: aid00_bid46 -->

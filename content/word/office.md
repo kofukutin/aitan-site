@@ -97,7 +97,7 @@ TOEICでは「会社のオフィス」「事務所」などの意味で頻出し
 ## 🤔  workplace との違いは？
 
 - **office**：主に事務作業をする部屋や建物、会社の事務所を指す
-- **[workplace](/word/workplace)**：働く場所全般（工場や現場も含む）
+- **[workplace](/word/workplace/)**：働く場所全般（工場や現場も含む）
 
 officeは「事務所」や「オフィスビル」など、デスクワーク中心の場所を指しますが、workplaceは工場や現場なども含めた「職場」全体を意味します。
 
@@ -105,14 +105,14 @@ officeは「事務所」や「オフィスビル」など、デスクワーク�
 
 ## 🧩 あわせて覚えたい
 
-- [department](/word/department)：部門、部署
-- [branch](/word/branch)：支店、支社
+- [department](/word/department/)：部門、部署
+- [branch](/word/branch/)：支店、支社
 
 ---
 
 ## 📖 できればこれも
 
-- [meeting](/word/meeting)：会議
-- [desk](/word/desk)：机
+- [meeting](/word/meeting/)：会議
+- [desk](/word/desk/)：机
 
 <!-- cvid: aid30_bid21 -->

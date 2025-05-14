@@ -97,7 +97,7 @@ TOEICでは、職場や日常の会話文、Eメール文中で「gossip」が�
 ## 🤔  rumor との違いは？
 
 - **gossip**：人の私生活や噂話を指し、会話や軽い話題で使われやすい
-- **[rumor](/word/rumor)**：根拠のないうわさや流言を指し、ややフォーマルで広まりやすい
+- **[rumor](/word/rumor/)**：根拠のないうわさや流言を指し、ややフォーマルで広まりやすい
 
 「gossip」は日常的なうわさ話、「rumor」は真偽不明のうわさや流言に使われる点が異なります。
 
@@ -105,14 +105,14 @@ TOEICでは、職場や日常の会話文、Eメール文中で「gossip」が�
 
 ## 🧩 あわせて覚えたい
 
-- [news](/word/news)：ニュース、報道
-- [chatter](/word/chatter)：おしゃべり、ぺちゃくちゃ話すこと
+- [news](/word/news/)：ニュース、報道
+- [chatter](/word/chatter/)：おしゃべり、ぺちゃくちゃ話すこと
 
 ---
 
 ## 📖 できればこれも
 
-- [advice](/word/advice)：助言、アドバイス
-- [complaint](/word/complaint)：苦情、クレーム
+- [advice](/word/advice/)：助言、アドバイス
+- [complaint](/word/complaint/)：苦情、クレーム
 
 <!-- cvid: aid02_bid44 -->

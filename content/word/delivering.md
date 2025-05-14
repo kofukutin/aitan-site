@@ -97,7 +97,7 @@ TOEICでは、会話や説明文で「配達する」「届ける」という意
 ## 🤔  shipping との違いは？
 
 - **delivering**：実際に相手の手元まで届けることを強調
-- **[shipping](/word/shipping)**：商品などを発送すること、運送過程を強調
+- **[shipping](/word/shipping/)**：商品などを発送すること、運送過程を強調
 
 deliveringは「届ける」動作そのもの、shippingは「発送・出荷」という物流の一部を指します。
 
@@ -105,14 +105,14 @@ deliveringは「届ける」動作そのもの、shippingは「発送・出荷�
 
 ## 🧩 あわせて覚えたい
 
-- [send](/word/send)：送る
-- [receive](/word/receive)：受け取る
+- [send](/word/send/)：送る
+- [receive](/word/receive/)：受け取る
 
 ---
 
 ## 📖 できればこれも
 
-- [distribute](/word/distribute)：分配する、配布する
-- [transport](/word/transport)：輸送する
+- [distribute](/word/distribute/)：分配する、配布する
+- [transport](/word/transport/)：輸送する
 
 <!-- cvid: aid40_bid36 -->

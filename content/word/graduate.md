@@ -97,7 +97,7 @@ TOEICでは主に「graduate from ～」の形で出題され、教育やキャ�
 ## 🤔  complete との違いは？
 
 - **graduate**：学校や大学などの教育課程を修了して卒業すること
-- **[complete](/word/complete)**：何かを「完了する」「やり遂げる」こと全般
+- **[complete](/word/complete/)**：何かを「完了する」「やり遂げる」こと全般
 
 graduateは「卒業」という教育に特化した意味、completeは「完了」全般に使われます。
 
@@ -105,14 +105,14 @@ graduateは「卒業」という教育に特化した意味、completeは「完�
 
 ## 🧩 あわせて覚えたい
 
-- [enroll](/word/enroll)：入学する、登録する
-- [certificate](/word/certificate)：証明書、修了証
+- [enroll](/word/enroll/)：入学する、登録する
+- [certificate](/word/certificate/)：証明書、修了証
 
 ---
 
 ## 📖 できればこれも
 
-- [apply](/word/apply)：申し込む、応募する
-- [attend](/word/attend)：出席する、通う
+- [apply](/word/apply/)：申し込む、応募する
+- [attend](/word/attend/)：出席する、通う
 
 <!-- cvid: aid33_bid37 -->

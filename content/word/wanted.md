@@ -97,7 +97,7 @@ Experienced engineers are wanted for this project.
 ## 🤔  required との違いは？
 
 - **wanted**：求められている、募集されている（やや広く「必要とされている」ニュアンス）
-- **[required](/word/required)**：必須の、絶対に必要な（義務的なニュアンス）
+- **[required](/word/required/)**：必須の、絶対に必要な（義務的なニュアンス）
 
 「wanted」は「求めている」「募集している」といった柔らかい印象ですが、「required」は「必須」「絶対条件」といった強い義務感を伴います。
 
@@ -105,14 +105,14 @@ Experienced engineers are wanted for this project.
 
 ## 🧩 あわせて覚えたい
 
-- [necessary](/word/necessary)：必要な
-- [optional](/word/optional)：任意の、選択できる
+- [necessary](/word/necessary/)：必要な
+- [optional](/word/optional/)：任意の、選択できる
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/word/available)：利用できる、入手できる
-- [qualified](/word/qualified)：資格のある、適任の
+- [available](/word/available/)：利用できる、入手できる
+- [qualified](/word/qualified/)：資格のある、適任の
 
 <!-- cvid: aid35_bid01 -->

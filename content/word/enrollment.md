@@ -97,7 +97,7 @@ TOEICでは、学校や研修、イベントの「登録」「入学」に関す
 ## 🤔  registration との違いは？
 
 - **enrollment**：主に学校や講座、団体などへの「入学」「入会」「登録」を指すフォーマルな語。
-- **[registration](/word/registration)**：より広く「登録」「申し込み」全般に使われる語。
+- **[registration](/word/registration/)**：より広く「登録」「申し込み」全般に使われる語。
 
 enrollmentは教育や団体への正式な加入に使われ、registrationはイベントやウェブサイトなど幅広い登録に使われます。
 
@@ -105,14 +105,14 @@ enrollmentは教育や団体への正式な加入に使われ、registrationは�
 
 ## 🧩 あわせて覚えたい
 
-- [admission](/word/admission)：入場、入学（許可）
-- [application](/word/application)：申込、応募
+- [admission](/word/admission/)：入場、入学（許可）
+- [application](/word/application/)：申込、応募
 
 ---
 
 ## 📖 できればこれも
 
-- [tuition](/word/tuition)：授業料
-- [certificate](/word/certificate)：証明書
+- [tuition](/word/tuition/)：授業料
+- [certificate](/word/certificate/)：証明書
 
 <!-- cvid: aid05_bid25 -->

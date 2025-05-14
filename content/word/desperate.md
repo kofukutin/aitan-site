@@ -97,7 +97,7 @@ TOEICでは、困難な状況や切迫したニーズを表現する文脈で出
 ## 🤔  hopeless との違いは？
 
 - **desperate**：必死で何かをしようとする、切羽詰まった状態
-- **[hopeless](/word/hopeless)**：希望が全くない、見込みがない状態
+- **[hopeless](/word/hopeless/)**：希望が全くない、見込みがない状態
 
 「desperate」はまだ何かをしようとする意志や行動が残っているのに対し、「hopeless」は完全に諦めてしまったニュアンスです。
 
@@ -105,14 +105,14 @@ TOEICでは、困難な状況や切迫したニーズを表現する文脈で出
 
 ## 🧩 あわせて覚えたい
 
-- [urgent](/word/urgent)：緊急の、差し迫った
-- [anxious](/word/anxious)：不安な、心配している
+- [urgent](/word/urgent/)：緊急の、差し迫った
+- [anxious](/word/anxious/)：不安な、心配している
 
 ---
 
 ## 📖 できればこれも
 
-- [critical](/word/critical)：重大な、危機的な
-- [eager](/word/eager)：熱望している、しきりに～したがっている
+- [critical](/word/critical/)：重大な、危機的な
+- [eager](/word/eager/)：熱望している、しきりに～したがっている
 
 <!-- cvid: aid48_bid12 -->

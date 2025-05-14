@@ -93,7 +93,7 @@ otherwiseは条件や結果を表す副詞として、文法問題や文挿入�
 ## 🤔  unless との違いは？
 
 - **otherwise**：さもなければ、別の方法で
-- **[unless](/word/unless)**：～でない限り
+- **[unless](/word/unless/)**：～でない限り
 
 otherwiseは「もしそうでなければ」という結果や別の状況を示す副詞、unlessは「～でない限り」という条件を示す接続詞です。
 
@@ -101,14 +101,14 @@ otherwiseは「もしそうでなければ」という結果や別の状況を�
 
 ## 🧩 あわせて覚えたい
 
-- [however](/word/however)：しかしながら
-- [instead](/word/instead)：その代わりに
+- [however](/word/however/)：しかしながら
+- [instead](/word/instead/)：その代わりに
 
 ---
 
 ## 📖 できればこれも
 
-- [therefore](/word/therefore)：それゆえに
-- [meanwhile](/word/meanwhile)：その間に
+- [therefore](/word/therefore/)：それゆえに
+- [meanwhile](/word/meanwhile/)：その間に
 
 <!-- cvid: aid02_bid16 -->

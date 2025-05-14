@@ -97,7 +97,7 @@ TOEICでは、契約書や銀行関連の長文、ビジネスメールなどで
 ## 🤔  down payment との違いは？
 
 - **deposit**：預金や保証金、頭金など幅広く使われる一般的な用語
-- **[down payment](/word/down_payment)**：主に分割払いの最初の頭金を指す
+- **[down payment](/word/down_payment/)**：主に分割払いの最初の頭金を指す
 
 depositは「預けるお金」全般を指し、down paymentは特に分割払いの最初の支払いに限定されます。
 
@@ -105,14 +105,14 @@ depositは「預けるお金」全般を指し、down paymentは特に分割払�
 
 ## 🧩 あわせて覚えたい
 
-- [withdrawal](/word/withdrawal)：引き出し、出金
-- [balance](/word/balance)：残高
+- [withdrawal](/word/withdrawal/)：引き出し、出金
+- [balance](/word/balance/)：残高
 
 ---
 
 ## 📖 できればこれも
 
-- [account](/word/account)：口座
-- [fee](/word/fee)：手数料
+- [account](/word/account/)：口座
+- [fee](/word/fee/)：手数料
 
 <!-- cvid: aid28_bid23 -->

@@ -96,7 +96,7 @@ TOEICではビジネス文書や契約書、会社案内などで「entity」が
 ## 🤔  organization との違いは？
 
 - **entity**：独立した存在や実体、法人など広い意味で使う
-- **[organization](/word/organization)**：組織や団体（人の集まり）を指す
+- **[organization](/word/organization/)**：組織や団体（人の集まり）を指す
 
 entityは「存在そのもの」や「法人格」を強調し、organizationは「人が集まって構成する組織」に焦点を当てます。
 
@@ -104,14 +104,14 @@ entityは「存在そのもの」や「法人格」を強調し、organization�
 
 ## 🧩 あわせて覚えたい
 
-- [individual](/word/individual)：個人、個体
-- [corporation](/word/corporation)：株式会社、法人
+- [individual](/word/individual/)：個人、個体
+- [corporation](/word/corporation/)：株式会社、法人
 
 ---
 
 ## 📖 できればこれも
 
-- [asset](/word/asset)：資産
-- [structure](/word/structure)：構造、組織
+- [asset](/word/asset/)：資産
+- [structure](/word/structure/)：構造、組織
 
 <!-- cvid: aid16_bid26 -->

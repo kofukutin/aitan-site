@@ -97,7 +97,7 @@ TOEICではホテルや出張、旅行の場面で「滞在する」「泊まる
 ## 🤔  remaining との違いは？
 
 - **staying**：ある場所に「滞在する」「泊まる」ことを表す。
-- **[remaining](/word/remaining)**：何かが「残っている」「残存している」ことを表す。
+- **[remaining](/word/remaining/)**：何かが「残っている」「残存している」ことを表す。
 
 stayingは「とどまっている」状態、remainingは「まだ残っている」状態を指し、使う場面や意味が異なります。
 
@@ -105,14 +105,14 @@ stayingは「とどまっている」状態、remainingは「まだ残ってい�
 
 ## 🧩 あわせて覚えたい
 
-- [visiting](/word/visiting)：訪問すること
-- [leaving](/word/leaving)：去ること、出発すること
+- [visiting](/word/visiting/)：訪問すること
+- [leaving](/word/leaving/)：去ること、出発すること
 
 ---
 
 ## 📖 できればこれも
 
-- [arriving](/word/arriving)：到着すること
-- [booking](/word/booking)：予約すること
+- [arriving](/word/arriving/)：到着すること
+- [booking](/word/booking/)：予約すること
 
 <!-- cvid: aid22_bid20 -->

@@ -97,7 +97,7 @@ TOEICではPart 3やPart 7で「読む」「読んだことがあるか」など
 ## 🤔  browse との違いは？
 
 - **read**：内容を理解しながらしっかり読む
-- **[browse](/word/browse)**：ざっと目を通す、拾い読みする
+- **[browse](/word/browse/)**：ざっと目を通す、拾い読みする
 
 readは「しっかり読む」こと、browseは「ざっと見る」「流し読みする」ことに使い分けます。
 
@@ -105,14 +105,14 @@ readは「しっかり読む」こと、browseは「ざっと見る」「流し�
 
 ## 🧩 あわせて覚えたい
 
-- [study](/word/study)：勉強する、学ぶ
-- [scan](/word/scan)：ざっと目を通す、ざっと読む
+- [study](/word/study/)：勉強する、学ぶ
+- [scan](/word/scan/)：ざっと目を通す、ざっと読む
 
 ---
 
 ## 📖 できればこれも
 
-- [write](/word/write)：書く
-- [listen](/word/listen)：聞く
+- [write](/word/write/)：書く
+- [listen](/word/listen/)：聞く
 
 <!-- cvid: aid37_bid20 -->

@@ -97,7 +97,7 @@ TOEICでは、名詞を修飾して「～と呼ばれる」「～という名前
 ## 🤔  named との違いは？
 
 - **called**：一般的に「～と呼ばれる」「～という名の」と説明的に使う
-- **[named](/word/named)**：正式な名前や命名を強調する
+- **[named](/word/named/)**：正式な名前や命名を強調する
 
 「called」は日常的・説明的に使われ、「named」は公式な命名や登録名を強調したいときに使います。
 
@@ -105,14 +105,14 @@ TOEICでは、名詞を修飾して「～と呼ばれる」「～という名前
 
 ## 🧩 あわせて覚えたい
 
-- [titled](/word/titled)：（本・作品などが）～というタイトルの
-- [referred](/word/referred)：言及された、呼ばれた
+- [titled](/word/titled/)：（本・作品などが）～というタイトルの
+- [referred](/word/referred/)：言及された、呼ばれた
 
 ---
 
 ## 📖 できればこれも
 
-- [known](/word/known)：知られている、有名な
-- [mentioned](/word/mentioned)：言及された
+- [known](/word/known/)：知られている、有名な
+- [mentioned](/word/mentioned/)：言及された
 
 <!-- cvid: aid07_bid25 -->

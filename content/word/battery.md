@@ -97,7 +97,7 @@ TOEICでは、電子機器やオフィス用品の話題で「battery」がよ�
 ## 🤔  cell との違いは？
 
 - **battery**：複数のセルが組み合わさった電池全体やバッテリー装置を指す。
-- **[cell](/word/cell)**：バッテリーを構成する最小単位の「セル」や単体の電池を指す。
+- **[cell](/word/cell/)**：バッテリーを構成する最小単位の「セル」や単体の電池を指す。
 
 batteryはスマホや車などの「バッテリー全体」を指し、cellはその中の「個々の電池部分」を意味します。
 
@@ -105,14 +105,14 @@ batteryはスマホや車などの「バッテリー全体」を指し、cellは
 
 ## 🧩 あわせて覚えたい
 
-- [charger](/word/charger)：充電器
-- [power](/word/power)：電力、電源
+- [charger](/word/charger/)：充電器
+- [power](/word/power/)：電力、電源
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device)：機器、装置
-- [cable](/word/cable)：ケーブル
+- [device](/word/device/)：機器、装置
+- [cable](/word/cable/)：ケーブル
 
 <!-- cvid: aid24_bid30 -->

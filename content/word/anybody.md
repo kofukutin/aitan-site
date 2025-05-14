@@ -93,7 +93,7 @@ TOEICでは、疑問文や否定文で「だれか」「だれでも」と尋ね
 ## 🤔  anyone との違いは？
 
 - **anybody**：ややカジュアルで口語的。「だれでも」「だれか」
-- **[anyone](/word/anyone)**：ややフォーマルで書き言葉にもよく使われる。「だれでも」「だれか」
+- **[anyone](/word/anyone/)**：ややフォーマルで書き言葉にもよく使われる。「だれでも」「だれか」
 
 どちらも意味はほぼ同じですが、anybodyは会話で、anyoneは書き言葉やフォーマルな場面で使われやすいです。
 
@@ -101,14 +101,14 @@ TOEICでは、疑問文や否定文で「だれか」「だれでも」と尋ね
 
 ## 🧩 あわせて覚えたい
 
-- [somebody](/word/somebody)：だれか（肯定文でよく使う）
-- [nobody](/word/nobody)：だれも～ない
+- [somebody](/word/somebody/)：だれか（肯定文でよく使う）
+- [nobody](/word/nobody/)：だれも～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [everyone](/word/everyone)：みんな、全員
-- [someone](/word/someone)：だれか（somebodyと同義）
+- [everyone](/word/everyone/)：みんな、全員
+- [someone](/word/someone/)：だれか（somebodyと同義）
 
 <!-- cvid: aid07_bid27 -->

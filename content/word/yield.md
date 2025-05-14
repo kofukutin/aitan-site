@@ -97,7 +97,7 @@ TOEICでは「利益を生む」「譲る」「屈する」など複数の意味
 ## 🤔  surrender との違いは？
 
 - **yield**：主に「生み出す」「譲る」「屈する」など幅広い意味で使われる
-- **[surrender](/word/surrender)**：特に「降伏する」「完全に手放す」という意味で使われる
+- **[surrender](/word/surrender/)**：特に「降伏する」「完全に手放す」という意味で使われる
 
 yieldは「結果や利益を生み出す」や「一時的に譲る」場合にも使われますが、surrenderは「完全に降参する」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ yieldは「結果や利益を生み出す」や「一時的に譲る」場合に
 
 ## 🧩 あわせて覚えたい
 
-- [produce](/word/produce)：生産する、作り出す
-- [resist](/word/resist)：抵抗する
+- [produce](/word/produce/)：生産する、作り出す
+- [resist](/word/resist/)：抵抗する
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/word/submit)：提出する、服従する
-- [generate](/word/generate)：生み出す、発生させる
+- [submit](/word/submit/)：提出する、服従する
+- [generate](/word/generate/)：生み出す、発生させる
 
 <!-- cvid: aid42_bid03 -->

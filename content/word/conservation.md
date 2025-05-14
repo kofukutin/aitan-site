@@ -97,7 +97,7 @@ TOEICでは環境問題や企業の社会的責任に関する長文でよく登
 ## 🤔  preservation との違いは？
 
 - **conservation**：自然や資源を守りながら有効に使うこと
-- **[preservation](/word/preservation)**：そのままの状態を維持し、変化させずに保存すること
+- **[preservation](/word/preservation/)**：そのままの状態を維持し、変化させずに保存すること
 
 conservationは「使いながら守る」、preservationは「手を加えずに保つ」という違いがあります。
 
@@ -105,14 +105,14 @@ conservationは「使いながら守る」、preservationは「手を加えず�
 
 ## 🧩 あわせて覚えたい
 
-- [protection](/word/protection)：保護、防御
-- [waste](/word/waste)：浪費、無駄
+- [protection](/word/protection/)：保護、防御
+- [waste](/word/waste/)：浪費、無駄
 
 ---
 
 ## 📖 できればこれも
 
-- [resource](/word/resource)：資源
-- [environment](/word/environment)：環境
+- [resource](/word/resource/)：資源
+- [environment](/word/environment/)：環境
 
 <!-- cvid: aid43_bid23 -->

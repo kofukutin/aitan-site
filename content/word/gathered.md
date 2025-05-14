@@ -97,7 +97,7 @@ TOEICでは会議やチーム活動の場面で「集まる」「集める」と
 ## 🤔  collected との違いは？
 
 - **gathered**：人や物が一か所に集まる・集めること全般を表す
-- **[collected](/word/collected)**：主に物や情報を意図的に集めて整理するニュアンス
+- **[collected](/word/collected/)**：主に物や情報を意図的に集めて整理するニュアンス
 
 gatheredは「集まる・集める」動作自体に焦点があり、collectedは「集めてまとめる・整理する」意図が強いです。
 
@@ -105,14 +105,14 @@ gatheredは「集まる・集める」動作自体に焦点があり、collected
 
 ## 🧩 あわせて覚えたい
 
-- [assemble](/word/assemble)：（人や物を）集める、組み立てる
-- [disperse](/word/disperse)：散らす、分散させる
+- [assemble](/word/assemble/)：（人や物を）集める、組み立てる
+- [disperse](/word/disperse/)：散らす、分散させる
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange)：手配する、整える
-- [organize](/word/organize)：組織する、整理する
+- [arrange](/word/arrange/)：手配する、整える
+- [organize](/word/organize/)：組織する、整理する
 
 <!-- cvid: aid40_bid17 -->

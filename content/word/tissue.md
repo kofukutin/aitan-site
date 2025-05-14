@@ -97,7 +97,7 @@ tissueは医療や科学分野の記事、または日常生活に関する長�
 ## 🤔  fabric との違いは？
 
 - **tissue**：生物の「組織」や薄い紙（ティッシュペーパー）を指す
-- **[fabric](/word/fabric)**：織物や布地など、衣類やカーテンなどに使う「布」を指す
+- **[fabric](/word/fabric/)**：織物や布地など、衣類やカーテンなどに使う「布」を指す
 
 tissueは生物学的な「組織」や薄い紙に使い、fabricは衣類や日用品の「布」に使います。
 
@@ -105,14 +105,14 @@ tissueは生物学的な「組織」や薄い紙に使い、fabricは衣類や�
 
 ## 🧩 あわせて覚えたい
 
-- [cell](/word/cell)：細胞
-- [organ](/word/organ)：臓器
+- [cell](/word/cell/)：細胞
+- [organ](/word/organ/)：臓器
 
 ---
 
 ## 📖 できればこれも
 
-- [muscle](/word/muscle)：筋肉
-- [paper](/word/paper)：紙
+- [muscle](/word/muscle/)：筋肉
+- [paper](/word/paper/)：紙
 
 <!-- cvid: aid02_bid16 -->

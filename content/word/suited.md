@@ -98,7 +98,7 @@ TOEICでは「be suited to/for ～」の形で、適性や適合性を問う文�
 ## 🤔  suitable との違いは？
 
 - **suited**：特定の目的や人に「合っている」「ふさわしい」状態を強調
-- **[suitable](/word/suitable)**：一般的に「適切な」「ふさわしい」という意味
+- **[suitable](/word/suitable/)**：一般的に「適切な」「ふさわしい」という意味
 
 suitedは「特定の状況や人に合っている」ことを強調し、suitableはより広く「適切である」ことを表します。
 
@@ -106,14 +106,14 @@ suitedは「特定の状況や人に合っている」ことを強調し、suita
 
 ## 🧩 あわせて覚えたい
 
-- [appropriate](/word/appropriate)：適切な
-- [qualified](/word/qualified)：資格がある、適任の
+- [appropriate](/word/appropriate/)：適切な
+- [qualified](/word/qualified/)：資格がある、適任の
 
 ---
 
 ## 📖 できればこれも
 
-- [eligible](/word/eligible)：資格がある、適格な
-- [capable](/word/capable)：能力がある
+- [eligible](/word/eligible/)：資格がある、適格な
+- [capable](/word/capable/)：能力がある
 
 <!-- cvid: aid48_bid19 -->

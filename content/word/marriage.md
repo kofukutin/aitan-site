@@ -97,7 +97,7 @@ TOEICでは、結婚や家族に関する話題や、福利厚生の説明文な
 ## 🤔  wedding との違いは？
 
 - **marriage**：結婚そのものや結婚生活を指す
-- **[wedding](/word/wedding)**：結婚式（儀式やイベント）を指す
+- **[wedding](/word/wedding/)**：結婚式（儀式やイベント）を指す
 
 marriageは「結婚生活」や「結婚という状態」を表し、weddingは「結婚式」という一度きりのイベントを指します。
 
@@ -105,14 +105,14 @@ marriageは「結婚生活」や「結婚という状態」を表し、wedding�
 
 ## 🧩 あわせて覚えたい
 
-- [divorce](/word/divorce)：離婚
-- [engagement](/word/engagement)：婚約
+- [divorce](/word/divorce/)：離婚
+- [engagement](/word/engagement/)：婚約
 
 ---
 
 ## 📖 できればこれも
 
-- [relationship](/word/relationship)：人間関係、交際
-- [ceremony](/word/ceremony)：式典、儀式
+- [relationship](/word/relationship/)：人間関係、交際
+- [ceremony](/word/ceremony/)：式典、儀式
 
 <!-- cvid: aid20_bid17 -->

@@ -97,7 +97,7 @@ TOEICでは、大学や教育、研究に関する長文や記事で見かける
 ## 🤔  anthropology との違いは？
 
 - **sociology**：人間社会や集団、制度など社会全体の仕組みや関係性を科学的に研究する学問
-- **[anthropology](/word/anthropology)**：人類の起源や文化、進化などを幅広く研究する学問
+- **[anthropology](/word/anthropology/)**：人類の起源や文化、進化などを幅広く研究する学問
 
 sociologyは現代社会の構造や人間関係に焦点を当て、anthropologyは人類全体の歴史や文化の多様性に注目します。
 
@@ -105,14 +105,14 @@ sociologyは現代社会の構造や人間関係に焦点を当て、anthropolog
 
 ## 🧩 あわせて覚えたい
 
-- [psychology](/word/psychology)：心理学（人間の心や行動を研究する学問）
-- [philosophy](/word/philosophy)：哲学（存在や知識、価値などを探究する学問）
+- [psychology](/word/psychology/)：心理学（人間の心や行動を研究する学問）
+- [philosophy](/word/philosophy/)：哲学（存在や知識、価値などを探究する学問）
 
 ---
 
 ## 📖 できればこれも
 
-- [economics](/word/economics)：経済学（経済活動や仕組みを研究する学問）
-- [politics](/word/politics)：政治学（政治や政府の仕組みを研究する学問）
+- [economics](/word/economics/)：経済学（経済活動や仕組みを研究する学問）
+- [politics](/word/politics/)：政治学（政治や政府の仕組みを研究する学問）
 
 <!-- cvid: aid01_bid27 -->

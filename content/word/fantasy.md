@@ -97,7 +97,7 @@ TOEICでは主に長文読解パートで、物語や広告、商品説明など
 ## 🤔  imagination との違いは？
 
 - **fantasy**：現実離れした空想や幻想、非現実的な世界観を強調
-- **[imagination](/word/imagination)**：想像力そのもの、現実的・非現実的どちらにも使える
+- **[imagination](/word/imagination/)**：想像力そのもの、現実的・非現実的どちらにも使える
 
 fantasyは「夢物語」や「魔法の世界」など現実から大きく離れた空想を指し、imaginationは「考える力」や「発想力」など幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ fantasyは「夢物語」や「魔法の世界」など現実から大きく離�
 
 ## 🧩 あわせて覚えたい
 
-- [reality](/word/reality)：現実、実在
-- [dream](/word/dream)：夢、願望
+- [reality](/word/reality/)：現実、実在
+- [dream](/word/dream/)：夢、願望
 
 ---
 
 ## 📖 できればこれも
 
-- [fiction](/word/fiction)：フィクション、創作物
-- [legend](/word/legend)：伝説、語り継がれる話
+- [fiction](/word/fiction/)：フィクション、創作物
+- [legend](/word/legend/)：伝説、語り継がれる話
 
 <!-- cvid: aid41_bid11 -->

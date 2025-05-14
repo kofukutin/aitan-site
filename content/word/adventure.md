@@ -97,7 +97,7 @@ TOEICでは旅行や体験談、観光関連の記事や広告文で登場する
 ## 🤔  journey との違いは？
 
 - **adventure**：危険や予測できないことを伴う刺激的な体験や冒険
-- **[journey](/word/journey)**：ある場所から別の場所への移動や旅
+- **[journey](/word/journey/)**：ある場所から別の場所への移動や旅
 
 adventureは「わくわくする体験」や「冒険心」を強調し、journeyは「移動」や「旅程」といった物理的な移動を指すことが多いです。
 
@@ -105,14 +105,14 @@ adventureは「わくわくする体験」や「冒険心」を強調し、journ
 
 ## 🧩 あわせて覚えたい
 
-- [risk](/word/risk)：危険、リスク
-- [exploration](/word/exploration)：探検、調査
+- [risk](/word/risk/)：危険、リスク
+- [exploration](/word/exploration/)：探検、調査
 
 ---
 
 ## 📖 できればこれも
 
-- [trip](/word/trip)：小旅行、旅
-- [experience](/word/experience)：経験、体験
+- [trip](/word/trip/)：小旅行、旅
+- [experience](/word/experience/)：経験、体験
 
 <!-- cvid: aid19_bid18 -->

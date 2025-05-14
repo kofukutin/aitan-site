@@ -97,7 +97,7 @@ TOEICでは旅行や出張、ホテル予約などの文脈で「lodging」が�
 ## 🤔  accommodation との違いは？
 
 - **lodging**：一時的な宿泊場所や宿泊施設全般を指し、ややカジュアルな響き。
-- **[accommodation](/word/accommodation)**：宿泊施設だけでなく、広く「便宜」「設備」も含むフォーマルな表現。
+- **[accommodation](/word/accommodation/)**：宿泊施設だけでなく、広く「便宜」「設備」も含むフォーマルな表現。
 
 「lodging」は短期間の宿泊に焦点があり、「accommodation」はより幅広い意味やフォーマルな場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは旅行や出張、ホテル予約などの文脈で「lodging」が�
 
 ## 🧩 あわせて覚えたい
 
-- [residence](/word/residence)：住居、居住
-- [inn](/word/inn)：（小規模な）宿屋、旅館
+- [residence](/word/residence/)：住居、居住
+- [inn](/word/inn/)：（小規模な）宿屋、旅館
 
 ---
 
 ## 📖 できればこれも
 
-- [rent](/word/rent)：賃貸する、家賃
-- [hostel](/word/hostel)：（安価な）宿泊施設、ホステル
+- [rent](/word/rent/)：賃貸する、家賃
+- [hostel](/word/hostel/)：（安価な）宿泊施設、ホステル
 
 <!-- cvid: aid41_bid32 -->

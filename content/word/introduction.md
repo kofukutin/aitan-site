@@ -97,7 +97,7 @@ TOEICでは、レポートやメール、説明文の冒頭部分でよく登場
 ## 🤔  preface との違いは？
 
 - **introduction**：本題に入る前の説明や背景、全体の概要を述べる部分
-- **[preface](/word/preface)**：著者が本を書く動機や経緯、感謝などを述べる序文
+- **[preface](/word/preface/)**：著者が本を書く動機や経緯、感謝などを述べる序文
 
 introductionは内容の説明や導入、prefaceは著者の個人的なメッセージや背景説明に使われます。
 
@@ -105,14 +105,14 @@ introductionは内容の説明や導入、prefaceは著者の個人的なメッ�
 
 ## 🧩 あわせて覚えたい
 
-- [summary](/word/summary)：要約
-- [conclusion](/word/conclusion)：結論
+- [summary](/word/summary/)：要約
+- [conclusion](/word/conclusion/)：結論
 
 ---
 
 ## 📖 できればこれも
 
-- [presentation](/word/presentation)：発表、プレゼン
-- [overview](/word/overview)：概要
+- [presentation](/word/presentation/)：発表、プレゼン
+- [overview](/word/overview/)：概要
 
 <!-- cvid: aid00_bid28 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 5の文法・語彙問題で「発生する」「起こる
 ## 🤔  happen との違いは？
 
 - **occur**：ややフォーマルで、出来事や問題が「発生する」「起こる」ときに使う
-- **[happen](/word/happen)**：カジュアルで、日常的な「起こる」「たまたま起きる」出来事に使う
+- **[happen](/word/happen/)**：カジュアルで、日常的な「起こる」「たまたま起きる」出来事に使う
 
 occurはビジネスや書き言葉で使われやすく、happenは会話やカジュアルな場面でよく使われます。
 
@@ -105,14 +105,14 @@ occurはビジネスや書き言葉で使われやすく、happenは会話やカ
 
 ## 🧩 あわせて覚えたい
 
-- [arise](/word/arise)：（問題・困難などが）生じる
-- [take place](/word/take_place)：（予定されたことが）行われる、起こる
+- [arise](/word/arise/)：（問題・困難などが）生じる
+- [take place](/word/take_place/)：（予定されたことが）行われる、起こる
 
 ---
 
 ## 📖 できればこれも
 
-- [affect](/word/affect)：影響を与える
-- [prevent](/word/prevent)：防ぐ、妨げる
+- [affect](/word/affect/)：影響を与える
+- [prevent](/word/prevent/)：防ぐ、妨げる
 
 <!-- cvid: aid10_bid41 -->

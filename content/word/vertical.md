@@ -97,7 +97,7 @@ verticalはITやビジネス文書の説明文、図表の説明などで出題�
 ## 🤔  horizontal との違いは？
 
 - **vertical**：地面や水平面に対して直角、縦方向を表す
-- **[horizontal](/word/horizontal)**：地面や水平面と平行、横方向を表す
+- **[horizontal](/word/horizontal/)**：地面や水平面と平行、横方向を表す
 
 verticalは「上から下」「下から上」など縦の方向性を強調し、horizontalは「左右」「横並び」など横の広がりを表します。図や表の説明でよく対比されます。
 
@@ -105,14 +105,14 @@ verticalは「上から下」「下から上」など縦の方向性を強調し
 
 ## 🧩 あわせて覚えたい
 
-- [upright](/word/upright)：直立した、まっすぐ立った
-- [parallel](/word/parallel)：平行な
+- [upright](/word/upright/)：直立した、まっすぐ立った
+- [parallel](/word/parallel/)：平行な
 
 ---
 
 ## 📖 できればこれも
 
-- [diagonal](/word/diagonal)：斜めの
-- [perpendicular](/word/perpendicular)：直角の、垂直な
+- [diagonal](/word/diagonal/)：斜めの
+- [perpendicular](/word/perpendicular/)：直角の、垂直な
 
 <!-- cvid: aid45_bid19 -->

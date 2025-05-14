@@ -97,7 +97,7 @@ TOEICでは会議やビジネスの場面で「支援」「後援」といった
 ## 🤔  support との違いは？
 
 - **backing**：特に経済的・組織的な「後ろ盾」や「支援」を強調
-- **[support](/word/support)**：広く一般的な「支える」「助ける」意味
+- **[support](/word/support/)**：広く一般的な「支える」「助ける」意味
 
 backingは「後ろから支える」ニュアンスが強く、資金や権威など具体的な後援を指すことが多いですが、supportは精神的・物理的な支援全般に使えます。
 
@@ -105,14 +105,14 @@ backingは「後ろから支える」ニュアンスが強く、資金や権威�
 
 ## 🧩 あわせて覚えたい
 
-- [endorsement](/word/endorsement)：（公式な）支持、承認
-- [assistance](/word/assistance)：援助、手助け
+- [endorsement](/word/endorsement/)：（公式な）支持、承認
+- [assistance](/word/assistance/)：援助、手助け
 
 ---
 
 ## 📖 できればこれも
 
-- [funding](/word/funding)：資金提供
-- [approval](/word/approval)：承認
+- [funding](/word/funding/)：資金提供
+- [approval](/word/approval/)：承認
 
 <!-- cvid: aid26_bid33 -->

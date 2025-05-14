@@ -93,7 +93,7 @@ TOEICでは、会話や依頼、質問の場面で「誰か」を指すときに
 ## 🤔  anyone との違いは？
 
 - **someone**：不特定の「誰か」（肯定文でよく使う）
-- **[anyone](/word/anyone)**：どんな人でも（疑問文・否定文でよく使う）
+- **[anyone](/word/anyone/)**：どんな人でも（疑問文・否定文でよく使う）
 
 someoneは「誰か1人」をやや肯定的・前向きに指すときに使い、anyoneは「誰でもよい」「誰も（～ない）」など幅広く使います。
 
@@ -101,14 +101,14 @@ someoneは「誰か1人」をやや肯定的・前向きに指すときに使い
 
 ## 🧩 あわせて覚えたい
 
-- [nobody](/word/nobody)：誰も～ない
-- [everybody](/word/everybody)：みんな
+- [nobody](/word/nobody/)：誰も～ない
+- [everybody](/word/everybody/)：みんな
 
 ---
 
 ## 📖 できればこれも
 
-- [something](/word/something)：何か
-- [anyone](/word/anyone)：誰でも、誰か
+- [something](/word/something/)：何か
+- [anyone](/word/anyone/)：誰でも、誰か
 
 <!-- cvid: aid35_bid05 -->

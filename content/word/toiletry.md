@@ -97,7 +97,7 @@ The hotel provides basic toiletries in every room.
 ## 🤔  amenity との違いは？
 
 - **toiletry**：洗面や身だしなみに使う個人用の道具（石けん・歯ブラシなど）を指す
-- **[amenity](/word/amenity)**：快適さを提供する設備や備品全般（例：Wi-Fi、プール、洗面用具など）
+- **[amenity](/word/amenity/)**：快適さを提供する設備や備品全般（例：Wi-Fi、プール、洗面用具など）
 
 toiletryは「洗面用具」に限定されますが、amenityは「快適さを与える備品・サービス」全般を指し、toiletryもその一部です。
 
@@ -105,14 +105,14 @@ toiletryは「洗面用具」に限定されますが、amenityは「快適さ�
 
 ## 🧩 あわせて覚えたい
 
-- [cosmetic](/word/cosmetic)：化粧品
-- [necessity](/word/necessity)：必需品
+- [cosmetic](/word/cosmetic/)：化粧品
+- [necessity](/word/necessity/)：必需品
 
 ---
 
 ## 📖 できればこれも
 
-- [luggage](/word/luggage)：荷物
-- [gadget](/word/gadget)：小型機器・便利グッズ
+- [luggage](/word/luggage/)：荷物
+- [gadget](/word/gadget/)：小型機器・便利グッズ
 
 <!-- cvid: aid42_bid22 -->

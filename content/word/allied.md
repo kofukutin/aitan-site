@@ -97,7 +97,7 @@ TOEICでは、企業や国同士の提携・協力関係を説明する文脈で
 ## 🤔  associated との違いは？
 
 - **allied**：同盟や提携など、目的のために強く結びついた関係を表す
-- **[associated](/word/associated)**：単に「関連がある」「関係している」という広い意味
+- **[associated](/word/associated/)**：単に「関連がある」「関係している」という広い意味
 
 alliedは「協力・同盟」など積極的な結びつきを強調し、associatedは「関係がある」程度のゆるやかなつながりを表します。
 
@@ -105,13 +105,13 @@ alliedは「協力・同盟」など積極的な結びつきを強調し、assoc
 
 ## 🧩 あわせて覚えたい
 
-- [affiliated](/word/affiliated)：（組織などが）提携している、関連している
-- [independent](/word/independent)：独立した、自立した
+- [affiliated](/word/affiliated/)：（組織などが）提携している、関連している
+- [independent](/word/independent/)：独立した、自立した
 
 ---
 
 ## 📖 できればこれも
 
-- [cooperative](/word/cooperative)：協力的な、協同の
-- [collaborative](/word/collaborative)：共同の、協力的な
+- [cooperative](/word/cooperative/)：協力的な、協同の
+- [collaborative](/word/collaborative/)：共同の、協力的な
 <!-- cvid: aid45_bid09 -->

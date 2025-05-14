@@ -97,7 +97,7 @@ TOEICでは、ビジネスや学術分野の人物紹介や表彰、スピーチ
 ## 🤔  outstanding との違いは？
 
 - **distinguished**：社会的評価や地位、実績などで「他と区別されるほど優れている」「著名な」というフォーマルな響き。
-- **[outstanding](/word/outstanding)**：目立って優れている、傑出しているという意味で、フォーマル・カジュアル両方で使える。
+- **[outstanding](/word/outstanding/)**：目立って優れている、傑出しているという意味で、フォーマル・カジュアル両方で使える。
 
 「distinguished」は特に社会的な評価や格式ある場面で使われ、「outstanding」は一般的な「すごい」「目立つ」という意味で幅広く使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネスや学術分野の人物紹介や表彰、スピーチ
 
 ## 🧩 あわせて覚えたい
 
-- [notable](/word/notable)：注目に値する、顕著な
-- [ordinary](/word/ordinary)：普通の、平凡な
+- [notable](/word/notable/)：注目に値する、顕著な
+- [ordinary](/word/ordinary/)：普通の、平凡な
 
 ---
 
 ## 📖 できればこれも
 
-- [prominent](/word/prominent)：有名な、卓越した
-- [renowned](/word/renowned)：名高い、有名な
+- [prominent](/word/prominent/)：有名な、卓越した
+- [renowned](/word/renowned/)：名高い、有名な
 
 <!-- cvid: aid44_bid32 -->

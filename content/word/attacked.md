@@ -97,7 +97,7 @@ TOEICでは、ITやビジネスのトラブル、セキュリティ関連の会�
 ## 🤔  assaulted との違いは？
 
 - **attacked**：一般的な「攻撃した」「襲った」。物理・言葉・サイバー攻撃など幅広く使う。
-- **[assaulted](/word/assaulted)**：法律用語やニュースで使われる「暴行した」。より暴力的・深刻なニュアンス。
+- **[assaulted](/word/assaulted/)**：法律用語やニュースで使われる「暴行した」。より暴力的・深刻なニュアンス。
 
 「attacked」は広い意味での攻撃全般に使い、「assaulted」は特に暴力や犯罪性の強い攻撃に限定されます。
 
@@ -105,14 +105,14 @@ TOEICでは、ITやビジネスのトラブル、セキュリティ関連の会�
 
 ## 🧩 あわせて覚えたい
 
-- [defend](/word/defend)：守る、防御する
-- [criticize](/word/criticize)：批判する
+- [defend](/word/defend/)：守る、防御する
+- [criticize](/word/criticize/)：批判する
 
 ---
 
 ## 📖 できればこれも
 
-- [damage](/word/damage)：損害を与える
-- [protect](/word/protect)：守る
+- [damage](/word/damage/)：損害を与える
+- [protect](/word/protect/)：守る
 
 <!-- cvid: aid32_bid11 -->

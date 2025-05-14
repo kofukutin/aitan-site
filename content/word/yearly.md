@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や案内文で「年次」「毎年」の意
 ## 🤔  annual との違いは？
 
 - **yearly**：年に1回、毎年の（周期や頻度を強調）
-- **[annual](/word/annual)**：年1回の、年次の（公式・フォーマルな響き）
+- **[annual](/word/annual/)**：年1回の、年次の（公式・フォーマルな響き）
 
 「yearly」は日常的な「毎年の」「年ごとの」という意味で使われやすく、「annual」は公式文書やイベント名などフォーマルな場面でよく使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主にビジネス文書や案内文で「年次」「毎年」の意
 
 ## 🧩 あわせて覚えたい
 
-- [monthly](/word/monthly)：月1回の、毎月の
-- [quarterly](/word/quarterly)：四半期ごとの、年4回の
+- [monthly](/word/monthly/)：月1回の、毎月の
+- [quarterly](/word/quarterly/)：四半期ごとの、年4回の
 
 ---
 
 ## 📖 できればこれも
 
-- [weekly](/word/weekly)：週1回の、毎週の
-- [daily](/word/daily)：毎日の、日々の
+- [weekly](/word/weekly/)：週1回の、毎週の
+- [daily](/word/daily/)：毎日の、日々の
 
 <!-- cvid: aid20_bid36 -->

@@ -97,7 +97,7 @@ TOEICでは、科学や環境、産業に関する長文や記事で「mineral�
 ## 🤔  ore との違いは？
 
 - **mineral**：自然界に存在する無機物質や栄養素としてのミネラル全般を指す
-- **[ore](/word/ore)**：金属などを取り出すために採掘される鉱石
+- **[ore](/word/ore/)**：金属などを取り出すために採掘される鉱石
 
 mineralは鉱物そのものや栄養素としての意味があり、oreは金属を含む鉱石という採掘対象を指します。
 
@@ -105,14 +105,14 @@ mineralは鉱物そのものや栄養素としての意味があり、oreは金�
 
 ## 🧩 あわせて覚えたい
 
-- [rock](/word/rock)：岩、石
-- [element](/word/element)：元素、要素
+- [rock](/word/rock/)：岩、石
+- [element](/word/element/)：元素、要素
 
 ---
 
 ## 📖 できればこれも
 
-- [crystal](/word/crystal)：結晶
-- [substance](/word/substance)：物質
+- [crystal](/word/crystal/)：結晶
+- [substance](/word/substance/)：物質
 
 <!-- cvid: aid01_bid23 -->

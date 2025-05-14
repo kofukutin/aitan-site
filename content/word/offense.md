@@ -97,7 +97,7 @@ TOEICでは法律や規則、社内ルールに関する文脈で「offense」�
 ## 🤔  crime との違いは？
 
 - **offense**：法律や規則への違反全般、軽い違反から重大な犯罪まで幅広く使う
-- **[crime](/word/crime)**：重大な犯罪行為を指し、刑事事件など深刻なケースで使う
+- **[crime](/word/crime/)**：重大な犯罪行為を指し、刑事事件など深刻なケースで使う
 
 offenseは軽微な違反や侮辱行為にも使えますが、crimeは重大な犯罪に限定される点が異なります。
 
@@ -105,14 +105,14 @@ offenseは軽微な違反や侮辱行為にも使えますが、crimeは重大�
 
 ## 🧩 あわせて覚えたい
 
-- [violation](/word/violation)：違反、違背
-- [defense](/word/defense)：防御、弁護
+- [violation](/word/violation/)：違反、違背
+- [defense](/word/defense/)：防御、弁護
 
 ---
 
 ## 📖 できればこれも
 
-- [penalty](/word/penalty)：罰金、処罰
-- [regulation](/word/regulation)：規則、規定
+- [penalty](/word/penalty/)：罰金、処罰
+- [regulation](/word/regulation/)：規則、規定
 
 <!-- cvid: aid06_bid33 -->

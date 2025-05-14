@@ -97,7 +97,7 @@ TOEICでは形容詞の語彙問題や、比較表現の文脈でよく出題さ
 ## 🤔  enormous との違いは？
 
 - **huge**：カジュアルに「とても大きい」「すごく多い」を表す。
-- **[enormous](/word/enormous)**：ややフォーマルで「非常に大きい」「莫大な」を強調。
+- **[enormous](/word/enormous/)**：ややフォーマルで「非常に大きい」「莫大な」を強調。
 
 「huge」は日常会話でよく使われ、感覚的な大きさを表現します。「enormous」は書き言葉やフォーマルな場面で使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは形容詞の語彙問題や、比較表現の文脈でよく出題さ
 
 ## 🧩 あわせて覚えたい
 
-- [massive](/word/massive)：重くてどっしりした大きさ
-- [tiny](/word/tiny)：とても小さい
+- [massive](/word/massive/)：重くてどっしりした大きさ
+- [tiny](/word/tiny/)：とても小さい
 
 ---
 
 ## 📖 できればこれも
 
-- [large](/word/large)：大きい（一般的な表現）
-- [giant](/word/giant)：巨大な（特に生き物や物体に使う）
+- [large](/word/large/)：大きい（一般的な表現）
+- [giant](/word/giant/)：巨大な（特に生き物や物体に使う）
 
 <!-- cvid: aid47_bid31 -->

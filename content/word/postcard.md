@@ -97,7 +97,7 @@ Please include a postcard in each customer's package.
 ## 🤔  letter との違いは？
 
 - **postcard**：写真やイラスト付きの「はがき」で、短いメッセージを送るのに使う
-- **[letter](/word/letter)**：封筒に入れて送る「手紙」で、内容が長く丁寧な場合が多い
+- **[letter](/word/letter/)**：封筒に入れて送る「手紙」で、内容が長く丁寧な場合が多い
 
 postcardはカジュアルで短い通信、letterはよりフォーマルで長文のやりとりに使われます。
 
@@ -105,14 +105,14 @@ postcardはカジュアルで短い通信、letterはよりフォーマルで長
 
 ## 🧩 あわせて覚えたい
 
-- [greeting](/word/greeting)：あいさつ、挨拶状
-- [souvenir](/word/souvenir)：お土産
+- [greeting](/word/greeting/)：あいさつ、挨拶状
+- [souvenir](/word/souvenir/)：お土産
 
 ---
 
 ## 📖 できればこれも
 
-- [stamp](/word/stamp)：切手
-- [envelope](/word/envelope)：封筒
+- [stamp](/word/stamp/)：切手
+- [envelope](/word/envelope/)：封筒
 
 <!-- cvid: aid20_bid08 -->

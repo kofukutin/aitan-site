@@ -97,7 +97,7 @@ TOEICでは電話応対や会話の中で「answering the phone」などの形�
 ## 🤔  response との違いは？
 
 - **answering**：質問や電話などに直接「答える」「応答する」動作を表す。
-- **[response](/word/response)**：返答・反応そのもの（名詞）を指し、動作ではなく結果や内容を強調。
+- **[response](/word/response/)**：返答・反応そのもの（名詞）を指し、動作ではなく結果や内容を強調。
 
 「answering」は動作や行為、「response」はその結果や内容に焦点がある点が異なります。
 
@@ -105,14 +105,14 @@ TOEICでは電話応対や会話の中で「answering the phone」などの形�
 
 ## 🧩 あわせて覚えたい
 
-- [reply](/word/reply)：返事をする（動詞・名詞）
-- [ignore](/word/ignore)：無視する（動詞）
+- [reply](/word/reply/)：返事をする（動詞・名詞）
+- [ignore](/word/ignore/)：無視する（動詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [call](/word/call)：電話をかける、呼ぶ（動詞・名詞）
-- [ask](/word/ask)：尋ねる、頼む（動詞）
+- [call](/word/call/)：電話をかける、呼ぶ（動詞・名詞）
+- [ask](/word/ask/)：尋ねる、頼む（動詞）
 
 <!-- cvid: aid49_bid30 -->

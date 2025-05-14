@@ -97,7 +97,7 @@ TOEICでは図やグラフの説明、技術文書などで「arc」が登場す
 ## 🤔  curve との違いは？
 
 - **arc**：円や円周の一部としての「弧」を指すことが多い
-- **[curve](/word/curve)**：一般的な「曲線」や「カーブ」を指し、形状全般に使える
+- **[curve](/word/curve/)**：一般的な「曲線」や「カーブ」を指し、形状全般に使える
 
 arcは特に円の一部や明確な始点・終点がある「弧」に使い、curveはより広く「曲線」全般に使います。
 
@@ -105,14 +105,14 @@ arcは特に円の一部や明確な始点・終点がある「弧」に使い�
 
 ## 🧩 あわせて覚えたい
 
-- [angle](/word/angle)：角度
-- [segment](/word/segment)：線分、部分
+- [angle](/word/angle/)：角度
+- [segment](/word/segment/)：線分、部分
 
 ---
 
 ## 📖 できればこれも
 
-- [circle](/word/circle)：円
-- [line](/word/line)：線
+- [circle](/word/circle/)：円
+- [line](/word/line/)：線
 
 <!-- cvid: aid00_bid18 -->

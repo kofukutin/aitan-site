@@ -96,7 +96,7 @@ TOEICでは会議や研修、ワークショップなどの場面で「session�
 ## 🤔  meeting との違いは？
 
 - **session**：特定の目的やテーマで行う一連の活動や時間枠を指す
-- **[meeting](/word/meeting)**：人が集まって話し合う一般的な会議
+- **[meeting](/word/meeting/)**：人が集まって話し合う一般的な会議
 
 「session」は研修や授業など、内容や目的が明確な集まりに使われることが多く、「meeting」は幅広い話し合い全般に使われます。
 
@@ -104,14 +104,14 @@ TOEICでは会議や研修、ワークショップなどの場面で「session�
 
 ## 🧩 あわせて覚えたい
 
-- [workshop](/word/workshop)：体験型の講習会
-- [seminar](/word/seminar)：講義形式の勉強会
+- [workshop](/word/workshop/)：体験型の講習会
+- [seminar](/word/seminar/)：講義形式の勉強会
 
 ---
 
 ## 📖 できればこれも
 
-- [conference](/word/conference)：大規模な会議
-- [lecture](/word/lecture)：講義、講演
+- [conference](/word/conference/)：大規模な会議
+- [lecture](/word/lecture/)：講義、講演
 
 <!-- cvid: aid27_bid01 -->

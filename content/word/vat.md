@@ -96,7 +96,7 @@ VATは請求書や契約書、ビジネスメールなどの実務文書で頻�
 ## 🤔  sales tax との違いは？
 
 - **VAT**：付加価値に対して段階的に課される間接税。主にヨーロッパなどで使われる。
-- **[sales tax](/word/sales_tax)**：販売時に一度だけ課される売上税。主にアメリカで使われる。
+- **[sales tax](/word/sales_tax/)**：販売時に一度だけ課される売上税。主にアメリカで使われる。
 
 VATは流通の各段階で課税されるのに対し、sales taxは最終消費者への販売時のみ課税される点が異なります。
 
@@ -104,14 +104,14 @@ VATは流通の各段階で課税されるのに対し、sales taxは最終消�
 
 ## 🧩 あわせて覚えたい
 
-- [tax](/word/tax)：税金
-- [invoice](/word/invoice)：請求書
+- [tax](/word/tax/)：税金
+- [invoice](/word/invoice/)：請求書
 
 ---
 
 ## 📖 できればこれも
 
-- [fee](/word/fee)：手数料
-- [charge](/word/charge)：料金
+- [fee](/word/fee/)：手数料
+- [charge](/word/charge/)：料金
 
 <!-- cvid: aid47_bid18 -->

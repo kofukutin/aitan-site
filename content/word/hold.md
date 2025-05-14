@@ -97,7 +97,7 @@ TOEICでは「会議を開く」「電話を保留にする」など、ビジネ
 ## 🤔  keep との違いは？
 
 - **hold**：手や腕などで物を持つ、または会議などを開催することを表す
-- **[keep](/word/keep)**：物や状態をそのまま維持・保管することを表す
+- **[keep](/word/keep/)**：物や状態をそのまま維持・保管することを表す
 
 holdは「一時的に持つ・支える」イメージ、keepは「長期間維持する」ニュアンスで使い分けます。
 
@@ -105,14 +105,14 @@ holdは「一時的に持つ・支える」イメージ、keepは「長期間維
 
 ## 🧩 あわせて覚えたい
 
-- [grasp](/word/grasp)：しっかり握る、把握する
-- [release](/word/release)：放す、解放する
+- [grasp](/word/grasp/)：しっかり握る、把握する
+- [release](/word/release/)：放す、解放する
 
 ---
 
 ## 📖 できればこれも
 
-- [carry](/word/carry)：運ぶ、持ち運ぶ
-- [store](/word/store)：保管する、蓄える
+- [carry](/word/carry/)：運ぶ、持ち運ぶ
+- [store](/word/store/)：保管する、蓄える
 
 <!-- cvid: aid01_bid28 -->

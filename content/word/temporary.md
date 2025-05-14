@@ -97,7 +97,7 @@ TOEICでは「temporary worker（臨時社員）」や「temporary solution（�
 ## 🤔  provisional との違いは？
 
 - **temporary**：一時的で、期間が限定されていることを強調する。
-- **[provisional](/word/provisional)**：仮の、正式決定までの「仮措置」としての意味が強い。
+- **[provisional](/word/provisional/)**：仮の、正式決定までの「仮措置」としての意味が強い。
 
 temporaryは「長くは続かない」ことに重点があり、provisionalは「正式なものが決まるまでの仮の状態」を指します。
 
@@ -105,14 +105,14 @@ temporaryは「長くは続かない」ことに重点があり、provisionalは
 
 ## 🧩 あわせて覚えたい
 
-- [permanent](/word/permanent)：永続的な、恒久的な
-- [interim](/word/interim)：暫定の、仮の
+- [permanent](/word/permanent/)：永続的な、恒久的な
+- [interim](/word/interim/)：暫定の、仮の
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract)：契約、契約する
-- [substitute](/word/substitute)：代用する、代用品
+- [contract](/word/contract/)：契約、契約する
+- [substitute](/word/substitute/)：代用する、代用品
 
 <!-- cvid: aid14_bid35 -->

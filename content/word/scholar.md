@@ -97,7 +97,7 @@ TOEICでは大学や研究機関に関する記事や、奨学金制度の説明
 ## 🤔  researcher との違いは？
 
 - **scholar**：学問全般に精通した学者や、奨学金を受ける学生も指す
-- **[researcher](/word/researcher)**：特定の分野で調査・研究を行う人
+- **[researcher](/word/researcher/)**：特定の分野で調査・研究を行う人
 
 scholarは幅広い学問分野の専門家や奨学生を指し、researcherは主に研究活動そのものに従事する人を指します。
 
@@ -105,14 +105,14 @@ scholarは幅広い学問分野の専門家や奨学生を指し、researcherは
 
 ## 🧩 あわせて覚えたい
 
-- [student](/word/student)：学生
-- [professor](/word/professor)：教授
+- [student](/word/student/)：学生
+- [professor](/word/professor/)：教授
 
 ---
 
 ## 📖 できればこれも
 
-- [lecture](/word/lecture)：講義
-- [academic](/word/academic)：学問の、学者の
+- [lecture](/word/lecture/)：講義
+- [academic](/word/academic/)：学問の、学者の
 
 <!-- cvid: aid08_bid17 -->

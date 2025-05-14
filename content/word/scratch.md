@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写で「人が何かをひっかいている」「
 ## 🤔  scrape との違いは？
 
 - **scratch**：爪や先のとがったもので表面をひっかく、かく
-- **[scrape](/word/scrape)**：何かをこすって表面を削り取る、こすり落とす
+- **[scrape](/word/scrape/)**：何かをこすって表面を削り取る、こすり落とす
 
 scratchは「ひっかく」動作に重点があり、scrapeは「こすって削る」動作に重点があります。たとえば、かゆい所を「かく」はscratch、汚れを「こすり落とす」はscrapeです。
 
@@ -105,14 +105,14 @@ scratchは「ひっかく」動作に重点があり、scrapeは「こすって�
 
 ## 🧩 あわせて覚えたい
 
-- [rub](/word/rub)：こする
-- [erase](/word/erase)：消す
+- [rub](/word/rub/)：こする
+- [erase](/word/erase/)：消す
 
 ---
 
 ## 📖 できればこれも
 
-- [tear](/word/tear)：破る
-- [mark](/word/mark)：印をつける
+- [tear](/word/tear/)：破る
+- [mark](/word/mark/)：印をつける
 
 <!-- cvid: aid15_bid49 -->

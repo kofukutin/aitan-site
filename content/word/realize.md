@@ -98,7 +98,7 @@ TOEICでは会話や説明文の中で「気づく」「理解する」「実現
 ## 🤔  notice との違いは？
 
 - **realize**：頭の中で「はっきり理解する」「気づく」
-- **[notice](/word/notice)**：目や耳など感覚で「気づく」
+- **[notice](/word/notice/)**：目や耳など感覚で「気づく」
 
 realizeは「心の中で理解する」ニュアンス、noticeは「見たり聞いたりして気づく」ニュアンスがあります。
 
@@ -106,14 +106,14 @@ realizeは「心の中で理解する」ニュアンス、noticeは「見たり�
 
 ## 🧩 あわせて覚えたい
 
-- [recognize](/word/recognize)：見て知っているとわかる、認識する
-- [understand](/word/understand)：理解する
+- [recognize](/word/recognize/)：見て知っているとわかる、認識する
+- [understand](/word/understand/)：理解する
 
 ---
 
 ## 📖 できればこれも
 
-- [imagine](/word/imagine)：想像する
-- [remind](/word/remind)：思い出させる
+- [imagine](/word/imagine/)：想像する
+- [remind](/word/remind/)：思い出させる
 
 <!-- cvid: aid48_bid00 -->

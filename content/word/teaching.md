@@ -97,7 +97,7 @@ TOEICでは教育や研修、指導に関する文脈でよく登場します。
 ## 🤔  instruction との違いは？
 
 - **teaching**：教える行為や教育活動そのものを指す
-- **[instruction](/word/instruction)**：具体的な指示や説明、または指導内容を指す
+- **[instruction](/word/instruction/)**：具体的な指示や説明、または指導内容を指す
 
 teachingは「教えること」全般や教育活動を広く指し、instructionは「手順」や「指示」など、より具体的な内容や方法を表します。
 
@@ -105,14 +105,14 @@ teachingは「教えること」全般や教育活動を広く指し、instructi
 
 ## 🧩 あわせて覚えたい
 
-- [lecture](/word/lecture)：講義、講演
-- [guidance](/word/guidance)：指導、助言
+- [lecture](/word/lecture/)：講義、講演
+- [guidance](/word/guidance/)：指導、助言
 
 ---
 
 ## 📖 できればこれも
 
-- [learning](/word/learning)：学習
-- [training](/word/training)：訓練、研修
+- [learning](/word/learning/)：学習
+- [training](/word/training/)：訓練、研修
 
 <!-- cvid: aid11_bid29 -->

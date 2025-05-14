@@ -97,7 +97,7 @@ TOEICでは、会話や説明文で「曲」や「音を合わせる」などの
 ## 🤔  melody との違いは？
 
 - **tune**：カジュアルに「曲」「メロディ」を指し、歌や楽器の旋律全般に使える。
-- **[melody](/word/melody)**：音楽的に「旋律」「主旋律」を指し、より専門的・フォーマルな響き。
+- **[melody](/word/melody/)**：音楽的に「旋律」「主旋律」を指し、より専門的・フォーマルな響き。
 
 tuneは日常会話で幅広く使われ、melodyは音楽理論や専門的な場面で使われやすいです。
 
@@ -105,14 +105,14 @@ tuneは日常会話で幅広く使われ、melodyは音楽理論や専門的な�
 
 ## 🧩 あわせて覚えたい
 
-- [song](/word/song)：歌、楽曲
-- [rhythm](/word/rhythm)：リズム、拍子
+- [song](/word/song/)：歌、楽曲
+- [rhythm](/word/rhythm/)：リズム、拍子
 
 ---
 
 ## 📖 できればこれも
 
-- [note](/word/note)：音符、メモ
-- [sound](/word/sound)：音、響き
+- [note](/word/note/)：音符、メモ
+- [sound](/word/sound/)：音、響き
 
 <!-- cvid: aid13_bid41 -->

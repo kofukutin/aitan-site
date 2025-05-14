@@ -97,7 +97,7 @@ TOEICでは観光や文化紹介の記事、パンフレットなどで「folk�
 ## 🤔  people との違いは？
 
 - **folk**：カジュアルで親しみやすい「人々」や「民族」、時に「家族」も指す
-- **[people](/word/people)**：一般的な「人々」、フォーマル・カジュアルどちらでも使える
+- **[people](/word/people/)**：一般的な「人々」、フォーマル・カジュアルどちらでも使える
 
 folkは親しみや文化的なニュアンスが強く、peopleはより一般的・広範囲な「人々」を指します。
 
@@ -105,14 +105,14 @@ folkは親しみや文化的なニュアンスが強く、peopleはより一般�
 
 ## 🧩 あわせて覚えたい
 
-- [relative](/word/relative)：親戚
-- [community](/word/community)：共同体、地域社会
+- [relative](/word/relative/)：親戚
+- [community](/word/community/)：共同体、地域社会
 
 ---
 
 ## 📖 できればこれも
 
-- [custom](/word/custom)：習慣、風習
-- [tradition](/word/tradition)：伝統
+- [custom](/word/custom/)：習慣、風習
+- [tradition](/word/tradition/)：伝統
 
 <!-- cvid: aid02_bid37 -->

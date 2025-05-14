@@ -97,7 +97,7 @@ TOEICでは、形容詞の語彙問題や、名詞・副詞との語形変化を
 ## 🤔  effective との違いは？
 
 - **successful**：目標や目的を達成して「成功した」状態を表す。
-- **[effective](/word/effective)**：効果的で「望んだ効果がある」ことを表す。
+- **[effective](/word/effective/)**：効果的で「望んだ効果がある」ことを表す。
 
 「successful」は結果として成功したことに重点があり、「effective」は手段や方法が効果的であることに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞の語彙問題や、名詞・副詞との語形変化を
 
 ## 🧩 あわせて覚えたい
 
-- [failure](/word/failure)：失敗
-- [achieve](/word/achieve)：達成する
+- [failure](/word/failure/)：失敗
+- [achieve](/word/achieve/)：達成する
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [productive](/word/productive)：生産的な
+- [efficient](/word/efficient/)：効率的な
+- [productive](/word/productive/)：生産的な
 
 <!-- cvid: aid40_bid17 -->

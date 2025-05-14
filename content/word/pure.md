@@ -97,7 +97,7 @@ TOEICでは「pure water（純水）」や「pure gold（純金）」など、�
 ## 🤔  clean との違いは？
 
 - **pure**：混じりけが全くない、成分や性質が100%であることを強調
-- **[clean](/word/clean)**：汚れやごみがない、きれいな状態
+- **[clean](/word/clean/)**：汚れやごみがない、きれいな状態
 
 「pure」は「他のものが一切混ざっていない」ことを指し、「clean」は「汚れがない」ことを指します。たとえば「pure water」は化学的に純粋な水、「clean water」は見た目や衛生的にきれいな水です。
 
@@ -105,14 +105,14 @@ TOEICでは「pure water（純水）」や「pure gold（純金）」など、�
 
 ## 🧩 あわせて覚えたい
 
-- [impure](/word/impure)：不純な
-- [refined](/word/refined)：精製された、洗練された
+- [impure](/word/impure/)：不純な
+- [refined](/word/refined/)：精製された、洗練された
 
 ---
 
 ## 📖 できればこれも
 
-- [simple](/word/simple)：単純な、簡単な
-- [fresh](/word/fresh)：新鮮な
+- [simple](/word/simple/)：単純な、簡単な
+- [fresh](/word/fresh/)：新鮮な
 
 <!-- cvid: aid28_bid04 -->

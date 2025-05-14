@@ -97,7 +97,7 @@ wishの進行形や分詞形として、丁寧な表現や手紙・メール文�
 ## 🤔  hoping との違いは？
 
 - **wishing**：心から願う、丁寧な気持ちやフォーマルな場面で使われやすい
-- **[hoping](/word/hoping)**：期待して待つ、現実的な可能性を意識した前向きな気持ち
+- **[hoping](/word/hoping/)**：期待して待つ、現実的な可能性を意識した前向きな気持ち
 
 wishingは「叶うかどうか分からないけど強く願う」ニュアンス、hopingは「実現を期待して待つ」ニュアンスがあります。
 
@@ -105,14 +105,14 @@ wishingは「叶うかどうか分からないけど強く願う」ニュアン�
 
 ## 🧩 あわせて覚えたい
 
-- [desire](/word/desire)：強い願望、欲求
-- [longing](/word/longing)：切望、憧れ
+- [desire](/word/desire/)：強い願望、欲求
+- [longing](/word/longing/)：切望、憧れ
 
 ---
 
 ## 📖 できればこれも
 
-- [dreaming](/word/dreaming)：夢見る、夢を描く
-- [expecting](/word/expecting)：期待する、予期する
+- [dreaming](/word/dreaming/)：夢見る、夢を描く
+- [expecting](/word/expecting/)：期待する、予期する
 
 <!-- cvid: aid09_bid32 -->

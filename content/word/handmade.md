@@ -97,7 +97,7 @@ TOEICでは商品説明や広告、メール文などで「handmade」が登場�
 ## 🤔  handcrafted との違いは？
 
 - **handmade**：手作業で作られたこと全般を指し、一般的な「手作り」の意味。
-- **[handcrafted](/word/handcrafted)**：特に職人技や細かい技術を強調した「手作り」。
+- **[handcrafted](/word/handcrafted/)**：特に職人技や細かい技術を強調した「手作り」。
 
 handmadeは広く「手作り」で使われますが、handcraftedは「職人の技術」や「丁寧な作業」をより強調したいときに使います。
 
@@ -105,14 +105,14 @@ handmadeは広く「手作り」で使われますが、handcraftedは「職人�
 
 ## 🧩 あわせて覚えたい
 
-- [manual](/word/manual)：手作業の、手動の
-- [artificial](/word/artificial)：人工の
+- [manual](/word/manual/)：手作業の、手動の
+- [artificial](/word/artificial/)：人工の
 
 ---
 
 ## 📖 できればこれも
 
-- [custom](/word/custom)：特注の、オーダーメイドの
-- [unique](/word/unique)：唯一の、独特な
+- [custom](/word/custom/)：特注の、オーダーメイドの
+- [unique](/word/unique/)：唯一の、独特な
 
 <!-- cvid: aid32_bid27 -->

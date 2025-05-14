@@ -97,7 +97,7 @@ TOEICでは、形容詞として「marked improvement（顕著な改善）」な
 ## 🤔  noticeable との違いは？
 
 - **marked**：誰の目にも明らかなほどはっきりしている、顕著な
-- **[noticeable](/word/noticeable)**：注意すれば気づく程度に目立つ、目につく
+- **[noticeable](/word/noticeable/)**：注意すれば気づく程度に目立つ、目につく
 
 **marked**は「非常に明白で強調された違い」に使い、**noticeable**は「気づけばわかる程度の目立ち」に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞として「marked improvement（顕著な改善）」な
 
 ## 🧩 あわせて覚えたい
 
-- [obvious](/word/obvious)：明白な、誰でもすぐわかる
-- [subtle](/word/subtle)：微妙な、かすかな
+- [obvious](/word/obvious/)：明白な、誰でもすぐわかる
+- [subtle](/word/subtle/)：微妙な、かすかな
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/word/significant)：重要な、かなりの
-- [distinct](/word/distinct)：はっきり異なる、明確な
+- [significant](/word/significant/)：重要な、かなりの
+- [distinct](/word/distinct/)：はっきり異なる、明確な
 
 <!-- cvid: aid09_bid08 -->

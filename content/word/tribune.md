@@ -97,7 +97,7 @@ TOEICでは主に講演や式典、歴史的な文脈で登場することがあ
 ## 🤔  platform との違いは？
 
 - **tribune**：演説やスピーチ用の壇、または古代ローマの護民官
-- **[platform](/word/platform)**：壇や台、または比喩的に「意見を述べる場」
+- **[platform](/word/platform/)**：壇や台、または比喩的に「意見を述べる場」
 
 tribuneは特に演説や公式な場で使われる壇を指し、platformは物理的な台だけでなく抽象的な「発言の場」も表します。
 
@@ -105,14 +105,14 @@ tribuneは特に演説や公式な場で使われる壇を指し、platformは�
 
 ## 🧩 あわせて覚えたい
 
-- [podium](/word/podium)：（小さな）演壇、指揮台
-- [rostrum](/word/rostrum)：演壇、演説台
+- [podium](/word/podium/)：（小さな）演壇、指揮台
+- [rostrum](/word/rostrum/)：演壇、演説台
 
 ---
 
 ## 📖 できればこれも
 
-- [auditorium](/word/auditorium)：講堂、観客席
-- [lecture](/word/lecture)：講義、講演
+- [auditorium](/word/auditorium/)：講堂、観客席
+- [lecture](/word/lecture/)：講義、講演
 
 <!-- cvid: aid27_bid03 -->

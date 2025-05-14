@@ -97,7 +97,7 @@ TOEICでは、請求や支払い、サービス利用に関する文脈で「pre
 ## 🤔  advance との違いは？
 
 - **prepaid**：料金や費用が「事前に支払われている」状態を表す形容詞。
-- **[advance](/word/advance)**：前もって行うこと全般や「前払い」自体を指す名詞・形容詞。
+- **[advance](/word/advance/)**：前もって行うこと全般や「前払い」自体を指す名詞・形容詞。
 
 「prepaid」は支払いが完了している状態を強調し、「advance」は支払い以外にも「前もって」の意味で幅広く使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、請求や支払い、サービス利用に関する文脈で「pre
 
 ## 🧩 あわせて覚えたい
 
-- [postpaid](/word/postpaid)：後払いの
-- [deposit](/word/deposit)：預金、保証金
+- [postpaid](/word/postpaid/)：後払いの
+- [deposit](/word/deposit/)：預金、保証金
 
 ---
 
 ## 📖 できればこれも
 
-- [refund](/word/refund)：払い戻し
-- [invoice](/word/invoice)：請求書
+- [refund](/word/refund/)：払い戻し
+- [invoice](/word/invoice/)：請求書
 
 <!-- cvid: aid04_bid39 -->

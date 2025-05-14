@@ -97,7 +97,7 @@ TOEICでは主にPart 7のビジネス文書や求人広告、金融関連の長
 ## 🤔  resume との違いは？
 
 - **portfolio**：自分の作品や実績をまとめたもの、または金融資産の一覧。
-- **[resume](/word/resume)**：職歴や学歴などをまとめた履歴書。
+- **[resume](/word/resume/)**：職歴や学歴などをまとめた履歴書。
 
 portfolioは実際の作品や成果物を見せる場合に使い、resumeは経歴やスキルを文章でまとめる場合に使います。
 
@@ -105,14 +105,14 @@ portfolioは実際の作品や成果物を見せる場合に使い、resumeは�
 
 ## 🧩 あわせて覚えたい
 
-- [collection](/word/collection)：収集品、コレクション
-- [asset](/word/asset)：資産、財産
+- [collection](/word/collection/)：収集品、コレクション
+- [asset](/word/asset/)：資産、財産
 
 ---
 
 ## 📖 できればこれも
 
-- [presentation](/word/presentation)：発表、プレゼンテーション
-- [document](/word/document)：書類、文書
+- [presentation](/word/presentation/)：発表、プレゼンテーション
+- [document](/word/document/)：書類、文書
 
 <!-- cvid: aid38_bid29 -->

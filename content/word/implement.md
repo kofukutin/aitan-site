@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や会議の文脈で「実行する」「導
 ## 🤔  execute との違いは？
 
 - **implement**：計画や方針を現実に移す、導入する
-- **[execute](/word/execute)**：命令や計画を「実行」する、特に手順通りに遂行する
+- **[execute](/word/execute/)**：命令や計画を「実行」する、特に手順通りに遂行する
 
 「implement」は新しい仕組みや方針を現場に導入するニュアンスが強く、「execute」は決められたことを正確に実行する意味合いが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは主にビジネス文書や会議の文脈で「実行する」「導
 
 ## 🧩 あわせて覚えたい
 
-- [enforce](/word/enforce)：（法律・規則などを）施行する
-- [apply](/word/apply)：適用する、応用する
+- [enforce](/word/enforce/)：（法律・規則などを）施行する
+- [apply](/word/apply/)：適用する、応用する
 
 ---
 
 ## 📖 できればこれも
 
-- [establish](/word/establish)：設立する、確立する
-- [develop](/word/develop)：開発する、発展させる
+- [establish](/word/establish/)：設立する、確立する
+- [develop](/word/develop/)：開発する、発展させる
 
 <!-- cvid: aid02_bid36 -->

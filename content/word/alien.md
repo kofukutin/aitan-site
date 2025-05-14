@@ -97,7 +97,7 @@ TOEICでは、法的な文脈や移民・ビザ関連の長文で見かけるこ
 ## 🤔  foreigner との違いは？
 
 - **alien**：法律上の「外国人」や「異星人」を指し、フォーマルでやや堅い表現。
-- **[foreigner](/word/foreigner)**：一般的な「外国人」。日常会話でよく使われる。
+- **[foreigner](/word/foreigner/)**：一般的な「外国人」。日常会話でよく使われる。
 
 alienは法的・公式な文脈やSFで使われ、foreignerは日常的な「外国人」を表します。
 
@@ -105,14 +105,14 @@ alienは法的・公式な文脈やSFで使われ、foreignerは日常的な「�
 
 ## 🧩 あわせて覚えたい
 
-- [citizen](/word/citizen)：市民、国民
-- [immigrant](/word/immigrant)：移民
+- [citizen](/word/citizen/)：市民、国民
+- [immigrant](/word/immigrant/)：移民
 
 ---
 
 ## 📖 できればこれも
 
-- [resident](/word/resident)：居住者
-- [passport](/word/passport)：パスポート
+- [resident](/word/resident/)：居住者
+- [passport](/word/passport/)：パスポート
 
 <!-- cvid: aid12_bid36 -->

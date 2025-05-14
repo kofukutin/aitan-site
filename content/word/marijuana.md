@@ -97,7 +97,7 @@ TOEICでは医療や法律、社会問題に関する長文で登場すること
 ## 🤔  cannabis との違いは？
 
 - **marijuana**：乾燥させた大麻の葉や花（主に嗜好・医療目的）を指す
-- **[cannabis](/word/cannabis)**：大麻植物全体や成分を指す、より学術的・広義
+- **[cannabis](/word/cannabis/)**：大麻植物全体や成分を指す、より学術的・広義
 
 marijuanaは実際に使われる部分を指し、cannabisは植物全体や成分、法的・医学的な文脈で使われます。
 
@@ -105,14 +105,14 @@ marijuanaは実際に使われる部分を指し、cannabisは植物全体や成
 
 ## 🧩 あわせて覚えたい
 
-- [hemp](/word/hemp)：産業用大麻（繊維や種子を取るための品種）
-- [narcotic](/word/narcotic)：麻薬、向精神薬
+- [hemp](/word/hemp/)：産業用大麻（繊維や種子を取るための品種）
+- [narcotic](/word/narcotic/)：麻薬、向精神薬
 
 ---
 
 ## 📖 できればこれも
 
-- [substance](/word/substance)：物質、薬物
-- [prescription](/word/prescription)：処方箋
+- [substance](/word/substance/)：物質、薬物
+- [prescription](/word/prescription/)：処方箋
 
 <!-- cvid: aid29_bid08 -->

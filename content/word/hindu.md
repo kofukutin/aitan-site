@@ -112,7 +112,7 @@ Hinduは宗教、Indianは国籍や出身地を表すため、意味や使い方
 
 ## 📖 できればこれも
 
-- [temple](/word/temple)：寺院
-- [religion](/word/religion)：宗教
+- [temple](/word/temple/)：寺院
+- [religion](/word/religion/)：宗教
 
 <!-- cvid: aid48_bid22 -->

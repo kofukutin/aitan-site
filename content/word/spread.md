@@ -97,7 +97,7 @@ TOEICでは、情報やニュース、影響などが「広がる」「広める
 ## 🤔  expand との違いは？
 
 - **spread**：物理的・抽象的に「広がる」「広げる」全般に使える
-- **[expand](/word/expand)**：規模や範囲を「拡大する」ことに特化
+- **[expand](/word/expand/)**：規模や範囲を「拡大する」ことに特化
 
 spreadは「面積や範囲が自然に広がる」ニュアンス、expandは「意図的に規模を大きくする」ニュアンスがあります。
 
@@ -105,14 +105,14 @@ spreadは「面積や範囲が自然に広がる」ニュアンス、expandは�
 
 ## 🧩 あわせて覚えたい
 
-- [distribute](/word/distribute)：分配する、配布する
-- [scatter](/word/scatter)：ばらまく、散らす
+- [distribute](/word/distribute/)：分配する、配布する
+- [scatter](/word/scatter/)：ばらまく、散らす
 
 ---
 
 ## 📖 できればこれも
 
-- [share](/word/share)：共有する、分け合う
-- [increase](/word/increase)：増やす、増加する
+- [share](/word/share/)：共有する、分け合う
+- [increase](/word/increase/)：増やす、増加する
 
 <!-- cvid: aid24_bid35 -->

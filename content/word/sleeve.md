@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、衣服や物の説明として登場
 ## 🤔  cover との違いは？
 
 - **sleeve**：衣服の袖や、CD・本などの「包むカバー」を指す
-- **[cover](/word/cover)**：物全体を覆うカバーやふた、表紙など幅広い意味で使う
+- **[cover](/word/cover/)**：物全体を覆うカバーやふた、表紙など幅広い意味で使う
 
 sleeveは「筒状で包むもの」や「衣服の袖」に限定されるのに対し、coverは「覆うもの」全般に使われます。
 
@@ -105,14 +105,14 @@ sleeveは「筒状で包むもの」や「衣服の袖」に限定されるの�
 
 ## 🧩 あわせて覚えたい
 
-- [cuff](/word/cuff)：袖口、カフス
-- [jacket](/word/jacket)：上着、ジャケット
+- [cuff](/word/cuff/)：袖口、カフス
+- [jacket](/word/jacket/)：上着、ジャケット
 
 ---
 
 ## 📖 できればこれも
 
-- [button](/word/button)：ボタン
-- [collar](/word/collar)：襟
+- [button](/word/button/)：ボタン
+- [collar](/word/collar/)：襟
 
 <!-- cvid: aid00_bid33 -->

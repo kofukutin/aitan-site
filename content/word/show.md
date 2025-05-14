@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「見せる」「示す」「案内する」な
 ## 🤔  display との違いは？
 
 - **show**：相手に見せる・説明する・案内するなど広い意味で使う
-- **[display](/word/display)**：物や情報を「展示する」「陳列する」など、見せる対象がはっきりしている
+- **[display](/word/display/)**：物や情報を「展示する」「陳列する」など、見せる対象がはっきりしている
 
 showは日常的な「見せる」全般に使い、displayは「展示」「陳列」などフォーマルで限定的な場面で使います。
 
@@ -105,14 +105,14 @@ showは日常的な「見せる」全般に使い、displayは「展示」「陳
 
 ## 🧩 あわせて覚えたい
 
-- [indicate](/word/indicate)：指し示す、示す
-- [demonstrate](/word/demonstrate)：実演する、証明する
+- [indicate](/word/indicate/)：指し示す、示す
+- [demonstrate](/word/demonstrate/)：実演する、証明する
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/word/present)：提示する、発表する
-- [explain](/word/explain)：説明する
+- [present](/word/present/)：提示する、発表する
+- [explain](/word/explain/)：説明する
 
 <!-- cvid: aid47_bid22 -->

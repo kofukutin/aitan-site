@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、浴槽や容器を説明する場面
 ## 🤔  bath との違いは？
 
 - **tub**：浴槽や丸い容器そのものを指す
-- **[bath](/word/bath)**：入浴そのものや浴室、またはイギリス英語で浴槽も指す
+- **[bath](/word/bath/)**：入浴そのものや浴室、またはイギリス英語で浴槽も指す
 
 tubは「物」としての浴槽や容器、bathは「行為」や「場所」としての入浴や浴室を指すことが多いです。
 
@@ -105,14 +105,14 @@ tubは「物」としての浴槽や容器、bathは「行為」や「場所」�
 
 ## 🧩 あわせて覚えたい
 
-- [shower](/word/shower)：シャワー
-- [bucket](/word/bucket)：バケツ
+- [shower](/word/shower/)：シャワー
+- [bucket](/word/bucket/)：バケツ
 
 ---
 
 ## 📖 できればこれも
 
-- [sink](/word/sink)：流し、シンク
-- [bowl](/word/bowl)：ボウル、鉢
+- [sink](/word/sink/)：流し、シンク
+- [bowl](/word/bowl/)：ボウル、鉢
 
 <!-- cvid: aid43_bid26 -->

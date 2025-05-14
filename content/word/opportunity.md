@@ -97,7 +97,7 @@ TOEICでは「ビジネス上の機会」や「成長のチャンス」など、
 ## 🤔  chance との違いは？
 
 - **opportunity**：努力や準備によって得られる前向きな「好機」
-- **[chance](/word/chance)**：偶然や運による「チャンス」「可能性」
+- **[chance](/word/chance/)**：偶然や運による「チャンス」「可能性」
 
 opportunityは「自分でつかむ好機」、chanceは「偶然訪れるチャンス」というニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ opportunityは「自分でつかむ好機」、chanceは「偶然訪れるチャ
 
 ## 🧩 あわせて覚えたい
 
-- [possibility](/word/possibility)：可能性
-- [option](/word/option)：選択肢
+- [possibility](/word/possibility/)：可能性
+- [option](/word/option/)：選択肢
 
 ---
 
 ## 📖 できればこれも
 
-- [offer](/word/offer)：申し出、提案
-- [suggestion](/word/suggestion)：提案
+- [offer](/word/offer/)：申し出、提案
+- [suggestion](/word/suggestion/)：提案
 
 <!-- cvid: aid17_bid44 -->

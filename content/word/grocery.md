@@ -98,7 +98,7 @@ TOEICでは買い物や日常生活に関する会話文でよく出題されま
 ## 🤔  supermarket との違いは？
 
 - **grocery**：食料品店や食料品全般を指し、小規模な店からスーパーまで幅広く使う
-- **[supermarket](/word/supermarket)**：大型のスーパーマーケットのみを指す
+- **[supermarket](/word/supermarket/)**：大型のスーパーマーケットのみを指す
 
 groceryは「食料品店」や「食料品」全般を指し、supermarketは規模の大きい店舗に限定されます。
 
@@ -106,14 +106,14 @@ groceryは「食料品店」や「食料品」全般を指し、supermarketは�
 
 ## 🧩 あわせて覚えたい
 
-- [convenience store](/word/convenience_store)：コンビニエンスストア
-- [bakery](/word/bakery)：パン屋
+- [convenience store](/word/convenience_store/)：コンビニエンスストア
+- [bakery](/word/bakery/)：パン屋
 
 ---
 
 ## 📖 できればこれも
 
-- [receipt](/word/receipt)：レシート、領収書
-- [customer](/word/customer)：顧客
+- [receipt](/word/receipt/)：レシート、領収書
+- [customer](/word/customer/)：顧客
 
 <!-- cvid: aid21_bid17 -->

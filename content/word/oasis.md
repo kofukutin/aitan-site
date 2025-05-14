@@ -96,7 +96,7 @@ TOEICでは観光や自然、比喩表現を含む長文で登場することが
 ## 🤔  haven との違いは？
 
 - **oasis**：砂漠の中の水場や、比喩的に「安らぎの場」を指す。
-- **[haven](/word/haven)**：安全な避難所や安息の地を指す。
+- **[haven](/word/haven/)**：安全な避難所や安息の地を指す。
 
 oasisは「乾いた場所の中の潤い」に焦点があり、havenは「危険や困難から守られる場所」というニュアンスです。
 
@@ -104,14 +104,14 @@ oasisは「乾いた場所の中の潤い」に焦点があり、havenは「危�
 
 ## 🧩 あわせて覚えたい
 
-- [desert](/word/desert)：砂漠
-- [refuge](/word/refuge)：避難所、保護施設
+- [desert](/word/desert/)：砂漠
+- [refuge](/word/refuge/)：避難所、保護施設
 
 ---
 
 ## 📖 できればこれも
 
-- [mirage](/word/mirage)：蜃気楼
-- [valley](/word/valley)：谷
+- [mirage](/word/mirage/)：蜃気楼
+- [valley](/word/valley/)：谷
 
 <!-- cvid: aid48_bid19 -->

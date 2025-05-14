@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「静かにする」「無言でいる」など
 ## 🤔  quiet との違いは？
 
 - **silent**：全く音がしない、沈黙している状態を強調
-- **[quiet](/word/quiet)**：音が小さい、騒がしくない状態
+- **[quiet](/word/quiet/)**：音が小さい、騒がしくない状態
 
 「silent」は「完全な静けさ」や「沈黙」を表し、「quiet」は「音が小さい」「落ち着いている」など、多少の音があっても騒がしくない状態を指します。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「静かにする」「無言でいる」など
 
 ## 🧩 あわせて覚えたい
 
-- [mute](/word/mute)：無音の、声を出さない
-- [noisy](/word/noisy)：うるさい、騒がしい
+- [mute](/word/mute/)：無音の、声を出さない
+- [noisy](/word/noisy/)：うるさい、騒がしい
 
 ---
 
 ## 📖 できればこれも
 
-- [calm](/word/calm)：穏やかな、落ち着いた
-- [peaceful](/word/peaceful)：平和な、静かな
+- [calm](/word/calm/)：穏やかな、落ち着いた
+- [peaceful](/word/peaceful/)：平和な、静かな
 
 <!-- cvid: aid25_bid02 -->

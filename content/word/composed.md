@@ -97,7 +97,7 @@ TOEICでは、形容詞として「落ち着いた」「冷静な」という意
 ## 🤔  calm との違いは？
 
 - **composed**：感情をコントロールして落ち着いている、特に緊張やストレス下で冷静さを保つニュアンス
-- **[calm](/word/calm)**：外的・内的に静かで穏やかな状態、リラックスしている様子
+- **[calm](/word/calm/)**：外的・内的に静かで穏やかな状態、リラックスしている様子
 
 composedは「自分を律して冷静でいる」印象が強く、calmは「自然に穏やか」な雰囲気を表します。
 
@@ -105,14 +105,14 @@ composedは「自分を律して冷静でいる」印象が強く、calmは「�
 
 ## 🧩 あわせて覚えたい
 
-- [relaxed](/word/relaxed)：リラックスした、くつろいだ
-- [collected](/word/collected)：冷静な、落ち着いた
+- [relaxed](/word/relaxed/)：リラックスした、くつろいだ
+- [collected](/word/collected/)：冷静な、落ち着いた
 
 ---
 
 ## 📖 できればこれも
 
-- [confident](/word/confident)：自信がある
-- [efficient](/word/efficient)：効率的な
+- [confident](/word/confident/)：自信がある
+- [efficient](/word/efficient/)：効率的な
 
 <!-- cvid: aid00_bid49 -->

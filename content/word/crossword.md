@@ -97,7 +97,7 @@ TOEICでは、新聞や雑誌の記事、趣味に関する話題の中で登場
 ## 🤔  puzzle との違いは？
 
 - **crossword**：マス目に単語を縦横に埋める特定のパズル
-- **[puzzle](/word/puzzle)**：パズル全般（ジグソーや数独なども含む）
+- **[puzzle](/word/puzzle/)**：パズル全般（ジグソーや数独なども含む）
 
 crosswordは「単語を交差させて埋めるパズル」に限定され、puzzleは広く様々な種類のパズルを指します。
 
@@ -105,14 +105,14 @@ crosswordは「単語を交差させて埋めるパズル」に限定され、pu
 
 ## 🧩 あわせて覚えたい
 
-- [riddle](/word/riddle)：なぞなぞ、謎
-- [quiz](/word/quiz)：クイズ、知識を問う問題
+- [riddle](/word/riddle/)：なぞなぞ、謎
+- [quiz](/word/quiz/)：クイズ、知識を問う問題
 
 ---
 
 ## 📖 できればこれも
 
-- [clue](/word/clue)：手がかり、ヒント
-- [grid](/word/grid)：格子、マス目
+- [clue](/word/clue/)：手がかり、ヒント
+- [grid](/word/grid/)：格子、マス目
 
 <!-- cvid: aid17_bid45 -->

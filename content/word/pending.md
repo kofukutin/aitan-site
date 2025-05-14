@@ -97,7 +97,7 @@ TOEICではメールや通知文、ビジネス文書の中で「pending approva
 ## 🤔  outstanding との違いは？
 
 - **pending**：まだ決まっていない、処理待ちの状態
-- **[outstanding](/word/outstanding)**：未処理だが「未払い」「未解決」など、特に「残っている」ことを強調
+- **[outstanding](/word/outstanding/)**：未処理だが「未払い」「未解決」など、特に「残っている」ことを強調
 
 「pending」は「決定や処理を待っている」ニュアンスで、進行中や保留中の状態を指します。「outstanding」は「やるべきことが残っている」ことに焦点があり、特に支払い・課題などで使われます。
 
@@ -105,14 +105,14 @@ TOEICではメールや通知文、ビジネス文書の中で「pending approva
 
 ## 🧩 あわせて覚えたい
 
-- [unresolved](/word/unresolved)：未解決の
-- [approved](/word/approved)：承認された
+- [unresolved](/word/unresolved/)：未解決の
+- [approved](/word/approved/)：承認された
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/word/confirm)：確認する
-- [process](/word/process)：処理する
+- [confirm](/word/confirm/)：確認する
+- [process](/word/process/)：処理する
 
 <!-- cvid: aid44_bid00 -->

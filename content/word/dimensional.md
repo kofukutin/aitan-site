@@ -97,7 +97,7 @@ TOEICでは、技術的な説明や製品仕様、科学的な文脈で「dimens
 ## 🤔  spatial との違いは？
 
 - **dimensional**：次元や寸法に関する、数量的な広がりを表す
-- **[spatial](/word/spatial)**：空間的な、位置や配置に関する
+- **[spatial](/word/spatial/)**：空間的な、位置や配置に関する
 
 dimensionalは「何次元か」「寸法がいくつか」など数量や測定に焦点を当てますが、spatialは「空間そのもの」や「配置」に注目します。
 
@@ -105,14 +105,14 @@ dimensionalは「何次元か」「寸法がいくつか」など数量や測定
 
 ## 🧩 あわせて覚えたい
 
-- [dimension](/word/dimension)：次元、寸法
-- [volumetric](/word/volumetric)：体積の、容量の
+- [dimension](/word/dimension/)：次元、寸法
+- [volumetric](/word/volumetric/)：体積の、容量の
 
 ---
 
 ## 📖 できればこれも
 
-- [geometric](/word/geometric)：幾何学的な
-- [linear](/word/linear)：直線的な
+- [geometric](/word/geometric/)：幾何学的な
+- [linear](/word/linear/)：直線的な
 
 <!-- cvid: aid09_bid10 -->

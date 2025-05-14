@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や報告書の中で「chart」が図表やグ�
 ## 🤔  graph との違いは？
 
 - **chart**：データや情報を視覚的に整理した図表全般を指す
-- **[graph](/word/graph)**：特に数値データの変化や関係性を線や点で表す図
+- **[graph](/word/graph/)**：特に数値データの変化や関係性を線や点で表す図
 
 chartはグラフだけでなく表や組織図なども含みますが、graphは主に数値の推移や関係性を示す線グラフや折れ線グラフを指します。
 
@@ -105,14 +105,14 @@ chartはグラフだけでなく表や組織図なども含みますが、graph�
 
 ## 🧩 あわせて覚えたい
 
-- [table](/word/table)：表、一覧表
-- [diagram](/word/diagram)：図解、図式
+- [table](/word/table/)：表、一覧表
+- [diagram](/word/diagram/)：図解、図式
 
 ---
 
 ## 📖 できればこれも
 
-- [figure](/word/figure)：図、図形
-- [list](/word/list)：リスト、一覧
+- [figure](/word/figure/)：図、図形
+- [list](/word/list/)：リスト、一覧
 
 <!-- cvid: aid42_bid46 -->

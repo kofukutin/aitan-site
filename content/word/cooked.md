@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、料理や食材の状態を説明する
 ## 🤔  baked との違いは？
 
 - **cooked**：加熱調理された全般（焼く・煮る・蒸すなどすべて含む）
-- **[baked](/word/baked)**：オーブンなどで「焼いた」調理に限定
+- **[baked](/word/baked/)**：オーブンなどで「焼いた」調理に限定
 
 「cooked」は加熱調理全般を指し、「baked」は特にオーブンなどで焼いた場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは主に写真描写問題で、料理や食材の状態を説明する
 
 ## 🧩 あわせて覚えたい
 
-- [raw](/word/raw)：生の、未調理の
-- [boiled](/word/boiled)：ゆでた、煮た
+- [raw](/word/raw/)：生の、未調理の
+- [boiled](/word/boiled/)：ゆでた、煮た
 
 ---
 
 ## 📖 できればこれも
 
-- [fresh](/word/fresh)：新鮮な
-- [grilled](/word/grilled)：焼いた（グリルした）
+- [fresh](/word/fresh/)：新鮮な
+- [grilled](/word/grilled/)：焼いた（グリルした）
 
 <!-- cvid: aid06_bid05 -->

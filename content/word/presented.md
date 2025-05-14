@@ -97,7 +97,7 @@ TOEICでは、会議やプレゼンテーション、報告の場面で「presen
 ## 🤔  submitted との違いは？
 
 - **presented**：人前で発表・提示する、公式な場で見せるニュアンス
-- **[submitted](/word/submitted)**：提出する、書類や課題などを相手に渡すニュアンス
+- **[submitted](/word/submitted/)**：提出する、書類や課題などを相手に渡すニュアンス
 
 presentedは「人前で見せる・発表する」イメージ、submittedは「提出する」イメージで、使う場面や目的が異なります。
 
@@ -105,14 +105,14 @@ presentedは「人前で見せる・発表する」イメージ、submittedは�
 
 ## 🧩 あわせて覚えたい
 
-- [propose](/word/propose)：提案する
-- [introduce](/word/introduce)：紹介する
+- [propose](/word/propose/)：提案する
+- [introduce](/word/introduce/)：紹介する
 
 ---
 
 ## 📖 できればこれも
 
-- [explain](/word/explain)：説明する
-- [report](/word/report)：報告する
+- [explain](/word/explain/)：説明する
+- [report](/word/report/)：報告する
 
 <!-- cvid: aid06_bid38 -->

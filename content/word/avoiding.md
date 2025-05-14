@@ -97,7 +97,7 @@ TOEICでは動名詞や進行形の文法問題で頻出です。avoidの派生�
 ## 🤔  prevent との違いは？
 
 - **avoiding**：自分が何かを意識的に避ける・回避すること
-- **[prevent](/word/prevent)**：何かが起こるのを未然に防ぐこと
+- **[prevent](/word/prevent/)**：何かが起こるのを未然に防ぐこと
 
 avoidingは「自分が関わらないようにする」ニュアンス、preventは「出来事自体を阻止する」ニュアンスがあります。
 
@@ -105,14 +105,14 @@ avoidingは「自分が関わらないようにする」ニュアンス、preven
 
 ## 🧩 あわせて覚えたい
 
-- [escape](/word/escape)：逃げる、脱出する
-- [ignore](/word/ignore)：無視する
+- [escape](/word/escape/)：逃げる、脱出する
+- [ignore](/word/ignore/)：無視する
 
 ---
 
 ## 📖 できればこれも
 
-- [delay](/word/delay)：遅らせる
-- [postpone](/word/postpone)：延期する
+- [delay](/word/delay/)：遅らせる
+- [postpone](/word/postpone/)：延期する
 
 <!-- cvid: aid13_bid28 -->

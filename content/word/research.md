@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文やビジネス文書で「調査」「研究」
 ## 🤔  study との違いは？
 
 - **research**：体系的・科学的な調査や研究を指し、フォーマルな場面で使われる。
-- **[study](/word/study)**：広く「学習」「勉強」「調査」を指し、個人の学びや小規模な調査にも使える。
+- **[study](/word/study/)**：広く「学習」「勉強」「調査」を指し、個人の学びや小規模な調査にも使える。
 
 researchは専門的・学術的な探求、studyは個人の学習や一般的な調査に使われる点が異なります。
 
@@ -105,14 +105,14 @@ researchは専門的・学術的な探求、studyは個人の学習や一般的�
 
 ## 🧩 あわせて覚えたい
 
-- [experiment](/word/experiment)：実験
-- [analysis](/word/analysis)：分析
+- [experiment](/word/experiment/)：実験
+- [analysis](/word/analysis/)：分析
 
 ---
 
 ## 📖 できればこれも
 
-- [survey](/word/survey)：アンケート調査
-- [data](/word/data)：データ、資料
+- [survey](/word/survey/)：アンケート調査
+- [data](/word/data/)：データ、資料
 
 <!-- cvid: aid32_bid47 -->

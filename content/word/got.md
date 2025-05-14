@@ -97,7 +97,7 @@ TOEICではPart 2の会話応答や、日常的なやりとりの中でよく登
 ## 🤔  received との違いは？
 
 - **got**：カジュアルで幅広く「得た」「受け取った」を表す
-- **[received](/word/received)**：フォーマルで「正式に受け取った」を表す
+- **[received](/word/received/)**：フォーマルで「正式に受け取った」を表す
 
 gotは日常会話やカジュアルな場面で使われ、receivedはビジネスやフォーマルな文脈で使われることが多いです。
 
@@ -105,14 +105,14 @@ gotは日常会話やカジュアルな場面で使われ、receivedはビジネ
 
 ## 🧩 あわせて覚えたい
 
-- [obtain](/word/obtain)：（努力して）得る
-- [gain](/word/gain)：（徐々に）獲得する
+- [obtain](/word/obtain/)：（努力して）得る
+- [gain](/word/gain/)：（徐々に）獲得する
 
 ---
 
 ## 📖 できればこれも
 
-- [bring](/word/bring)：持ってくる
-- [take](/word/take)：持っていく
+- [bring](/word/bring/)：持ってくる
+- [take](/word/take/)：持っていく
 
 <!-- cvid: aid16_bid33 -->

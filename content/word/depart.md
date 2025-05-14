@@ -97,7 +97,7 @@ TOEICでは空港や駅、出張などの場面で「出発する」という意
 ## 🤔  leave との違いは？
 
 - **depart**：主に乗り物や公式な場面で「出発する」「離れる」とフォーマルに使う
-- **[leave](/word/leave)**：もっと広く「去る」「離れる」全般に使え、カジュアルな場面でもOK
+- **[leave](/word/leave/)**：もっと広く「去る」「離れる」全般に使え、カジュアルな場面でもOK
 
 departは時刻や場所が明確な「出発」に使われ、leaveは日常的な「去る」「出る」に幅広く使われます。
 
@@ -105,14 +105,14 @@ departは時刻や場所が明確な「出発」に使われ、leaveは日常的
 
 ## 🧩 あわせて覚えたい
 
-- [arrive](/word/arrive)：到着する
-- [embark](/word/embark)：乗り込む、（旅に）出る
+- [arrive](/word/arrive/)：到着する
+- [embark](/word/embark/)：乗り込む、（旅に）出る
 
 ---
 
 ## 📖 できればこれも
 
-- [board](/word/board)：（乗り物に）乗る
-- [return](/word/return)：戻る、帰る
+- [board](/word/board/)：（乗り物に）乗る
+- [return](/word/return/)：戻る、帰る
 
 <!-- cvid: aid47_bid13 -->

@@ -97,7 +97,7 @@ TOEICでは、展示会やプレゼンテーション、商品紹介の場面で
 ## 🤔  display との違いは？
 
 - **showcase**：特に目立たせて紹介・披露することや、そのためのケース・場面
-- **[display](/word/display)**：単に並べて見せる、表示すること
+- **[display](/word/display/)**：単に並べて見せる、表示すること
 
 showcaseは「強調してアピールする」ニュアンスがあり、displayは「見えるように置く」一般的な意味です。
 
@@ -105,14 +105,14 @@ showcaseは「強調してアピールする」ニュアンスがあり、displa
 
 ## 🧩 あわせて覚えたい
 
-- [exhibit](/word/exhibit)：展示する、展示品
-- [presentation](/word/presentation)：発表、プレゼンテーション
+- [exhibit](/word/exhibit/)：展示する、展示品
+- [presentation](/word/presentation/)：発表、プレゼンテーション
 
 ---
 
 ## 📖 できればこれも
 
-- [highlight](/word/highlight)：強調する、目立たせる
-- [demonstrate](/word/demonstrate)：実演する、証明する
+- [highlight](/word/highlight/)：強調する、目立たせる
+- [demonstrate](/word/demonstrate/)：実演する、証明する
 
 <!-- cvid: aid01_bid07 -->

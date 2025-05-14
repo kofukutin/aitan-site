@@ -97,7 +97,7 @@ ITやビジネス文書、メールアドレスの説明などで「alias」が�
 ## 🤔  pseudonym との違いは？
 
 - **alias**：本名以外の「別名」や「偽名」。一時的・実用的な用途で使われることが多い。
-- **[pseudonym](/word/pseudonym)**：特に作家や芸術家が使う「ペンネーム」や「芸名」。
+- **[pseudonym](/word/pseudonym/)**：特に作家や芸術家が使う「ペンネーム」や「芸名」。
 
 「alias」は実用的な場面やIT分野での別名に幅広く使われ、「pseudonym」は主に創作活動などでの芸名やペンネームに限定されます。
 
@@ -105,14 +105,14 @@ ITやビジネス文書、メールアドレスの説明などで「alias」が�
 
 ## 🧩 あわせて覚えたい
 
-- [nickname](/word/nickname)：あだ名、愛称
-- [identity](/word/identity)：身元、正体
+- [nickname](/word/nickname/)：あだ名、愛称
+- [identity](/word/identity/)：身元、正体
 
 ---
 
 ## 📖 できればこれも
 
-- [profile](/word/profile)：プロフィール、人物紹介
-- [signature](/word/signature)：署名
+- [profile](/word/profile/)：プロフィール、人物紹介
+- [signature](/word/signature/)：署名
 
 <!-- cvid: aid06_bid44 -->

@@ -98,7 +98,7 @@ TOEICでは主に写真描写や簡単な会話で、飲み物や食品に関連
 ## 🤔  sweetener との違いは？
 
 - **sugar**：主にサトウキビやテンサイから作られる天然の砂糖や糖を指す。
-- **[sweetener](/word/sweetener)**：甘味料全般（人工・天然問わず）を指す。
+- **[sweetener](/word/sweetener/)**：甘味料全般（人工・天然問わず）を指す。
 
 sugarは「砂糖」そのもの、sweetenerは「甘くするもの」全般を指し、人工甘味料も含みます。
 
@@ -106,13 +106,13 @@ sugarは「砂糖」そのもの、sweetenerは「甘くするもの」全般を
 
 ## 🧩 あわせて覚えたい
 
-- [salt](/word/salt)：塩
-- [carbohydrate](/word/carbohydrate)：炭水化物
+- [salt](/word/salt/)：塩
+- [carbohydrate](/word/carbohydrate/)：炭水化物
 
 ---
 
 ## 📖 できればこれも
 
-- [flour](/word/flour)：小麦粉
+- [flour](/word/flour/)：小麦粉
 ---
 <!-- cvid: aid28_bid26 -->

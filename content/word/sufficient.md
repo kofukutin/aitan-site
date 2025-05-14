@@ -97,7 +97,7 @@ TOEICでは主に文法や語彙問題で「十分な」という意味で出題
 ## 🤔  enough との違いは？
 
 - **sufficient**：必要条件を満たす「十分な」（ややフォーマル）
-- **[enough](/word/enough)**：必要な量や程度に「足りている」（カジュアル・口語的）
+- **[enough](/word/enough/)**：必要な量や程度に「足りている」（カジュアル・口語的）
 
 sufficientはフォーマルな文書やビジネスで使われ、enoughは日常会話でよく使われます。
 
@@ -105,14 +105,14 @@ sufficientはフォーマルな文書やビジネスで使われ、enoughは日�
 
 ## 🧩 あわせて覚えたい
 
-- [adequate](/word/adequate)：適切な、十分な
-- [insufficient](/word/insufficient)：不十分な
+- [adequate](/word/adequate/)：適切な、十分な
+- [insufficient](/word/insufficient/)：不十分な
 
 ---
 
 ## 📖 できればこれも
 
-- [necessary](/word/necessary)：必要な
-- [essential](/word/essential)：不可欠な
+- [necessary](/word/necessary/)：必要な
+- [essential](/word/essential/)：不可欠な
 
 <!-- cvid: aid49_bid48 -->

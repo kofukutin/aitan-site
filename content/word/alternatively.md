@@ -97,7 +97,7 @@ TOEICでは会議やビジネスの場面で、選択肢や代替案を示す文
 ## 🤔  instead との違いは？
 
 - **alternatively**：複数の選択肢の中から「別の方法として」と提案するニュアンス
-- **[instead](/word/instead)**：本来の選択肢をやめて「その代わりに」と置き換えるニュアンス
+- **[instead](/word/instead/)**：本来の選択肢をやめて「その代わりに」と置き換えるニュアンス
 
 alternativelyは「他にも選択肢がある」ことを示し、insteadは「AではなくB」という置き換えの意味が強いです。
 
@@ -105,14 +105,14 @@ alternativelyは「他にも選択肢がある」ことを示し、insteadは「
 
 ## 🧩 あわせて覚えたい
 
-- [option](/word/option)：選択肢
-- [substitute](/word/substitute)：代用品、代わりのもの
+- [option](/word/option/)：選択肢
+- [substitute](/word/substitute/)：代用品、代わりのもの
 
 ---
 
 ## 📖 できればこれも
 
-- [otherwise](/word/otherwise)：さもなければ、別の方法で
-- [conversely](/word/conversely)：逆に、反対に
+- [otherwise](/word/otherwise/)：さもなければ、別の方法で
+- [conversely](/word/conversely/)：逆に、反対に
 
 <!-- cvid: aid45_bid14 -->

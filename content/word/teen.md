@@ -97,7 +97,7 @@ TOEICでは広告やアンケート、記事などで「teen」や「teenager」
 ## 🤔  adolescent との違いは？
 
 - **teen**：カジュアルで日常的な「10代の若者」
-- **[adolescent](/word/adolescent)**：ややフォーマルで医学・心理学分野でも使われる「思春期の若者」
+- **[adolescent](/word/adolescent/)**：ややフォーマルで医学・心理学分野でも使われる「思春期の若者」
 
 「teen」は会話や広告などカジュアルな場面で使われ、「adolescent」は学術的・フォーマルな文脈で使われやすいです。
 
@@ -105,14 +105,14 @@ TOEICでは広告やアンケート、記事などで「teen」や「teenager」
 
 ## 🧩 あわせて覚えたい
 
-- [youth](/word/youth)：若者、青年期
-- [minor](/word/minor)：未成年者
+- [youth](/word/youth/)：若者、青年期
+- [minor](/word/minor/)：未成年者
 
 ---
 
 ## 📖 できればこれも
 
-- [child](/word/child)：子ども
-- [adult](/word/adult)：大人
+- [child](/word/child/)：子ども
+- [adult](/word/adult/)：大人
 
 <!-- cvid: aid38_bid29 -->

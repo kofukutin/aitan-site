@@ -97,7 +97,7 @@ TOEICでは電話対応や社内連絡の場面でよく登場し、伝言やメ
 ## 🤔  notice との違いは？
 
 - **message**：個人や特定の相手に伝える伝言やメッセージ
-- **[notice](/word/notice)**：掲示や公式な「お知らせ」、広く多くの人に向けた通知
+- **[notice](/word/notice/)**：掲示や公式な「お知らせ」、広く多くの人に向けた通知
 
 messageは個人間や小規模な範囲での伝達、noticeは公式・公共性の高い案内や通知に使われます。
 
@@ -105,14 +105,14 @@ messageは個人間や小規模な範囲での伝達、noticeは公式・公共�
 
 ## 🧩 あわせて覚えたい
 
-- [memo](/word/memo)：メモ、覚え書き
-- [announcement](/word/announcement)：発表、告知
+- [memo](/word/memo/)：メモ、覚え書き
+- [announcement](/word/announcement/)：発表、告知
 
 ---
 
 ## 📖 できればこれも
 
-- [information](/word/information)：情報
-- [reply](/word/reply)：返事、返信
+- [information](/word/information/)：情報
+- [reply](/word/reply/)：返事、返信
 
 <!-- cvid: aid05_bid18 -->

@@ -97,7 +97,7 @@ TOEICでは写真描写や日常のスケジュールに関する問題でよく
 ## 🤔  night との違いは？
 
 - **evening**：日が沈み始めてから寝る前までの「夕方・晩」
-- **[night](/word/night)**：寝る時間帯や深夜など「夜」全般
+- **[night](/word/night/)**：寝る時間帯や深夜など「夜」全般
 
 eveningはまだ活動している時間帯、nightは寝る・静かな時間帯を指すことが多いです。
 
@@ -105,14 +105,14 @@ eveningはまだ活動している時間帯、nightは寝る・静かな時間�
 
 ## 🧩 あわせて覚えたい
 
-- [afternoon](/word/afternoon)：午後
-- [dusk](/word/dusk)：たそがれ、夕暮れ
+- [afternoon](/word/afternoon/)：午後
+- [dusk](/word/dusk/)：たそがれ、夕暮れ
 
 ---
 
 ## 📖 できればこれも
 
-- [morning](/word/morning)：朝
-- [sunset](/word/sunset)：日没
+- [morning](/word/morning/)：朝
+- [sunset](/word/sunset/)：日没
 
 <!-- cvid: aid48_bid11 -->

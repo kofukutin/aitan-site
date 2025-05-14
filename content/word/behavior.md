@@ -97,7 +97,7 @@ TOEICでは、職場でのふるまいやマナー、評価などに関連して
 ## 🤔  conduct との違いは？
 
 - **behavior**：日常的な行動やふるまい全般を指す、ややカジュアルな印象。
-- **[conduct](/word/conduct)**：特に道徳的・規範的な「行い」「品行」を指し、フォーマルな場面で使われやすい。
+- **[conduct](/word/conduct/)**：特に道徳的・規範的な「行い」「品行」を指し、フォーマルな場面で使われやすい。
 
 behaviorは普段のふるまい全般、conductは規則や倫理に沿った行動を強調したいときに使います。
 
@@ -105,14 +105,14 @@ behaviorは普段のふるまい全般、conductは規則や倫理に沿った�
 
 ## 🧩 あわせて覚えたい
 
-- [attitude](/word/attitude)：態度、考え方
-- [manner](/word/manner)：マナー、作法
+- [attitude](/word/attitude/)：態度、考え方
+- [manner](/word/manner/)：マナー、作法
 
 ---
 
 ## 📖 できればこれも
 
-- [habit](/word/habit)：習慣
-- [action](/word/action)：行動、動作
+- [habit](/word/habit/)：習慣
+- [action](/word/action/)：行動、動作
 
 <!-- cvid: aid29_bid29 -->

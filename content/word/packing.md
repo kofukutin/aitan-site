@@ -97,7 +97,7 @@ TOEICでは、出荷や物流、旅行に関する文脈で「packing」が名�
 ## 🤔  packaging との違いは？
 
 - **packing**：荷造りや梱包作業、または梱包材そのものを指す
-- **[packaging](/word/packaging)**：商品のパッケージデザインや包装材、見た目のパッケージ全体を指す
+- **[packaging](/word/packaging/)**：商品のパッケージデザインや包装材、見た目のパッケージ全体を指す
 
 packingは「詰める作業」や「梱包材」に焦点があり、packagingは「商品を包む外装やデザイン」に重点があります。
 
@@ -105,14 +105,14 @@ packingは「詰める作業」や「梱包材」に焦点があり、packaging�
 
 ## 🧩 あわせて覚えたい
 
-- [unpacking](/word/unpacking)：荷ほどき
-- [shipment](/word/shipment)：出荷、発送
+- [unpacking](/word/unpacking/)：荷ほどき
+- [shipment](/word/shipment/)：出荷、発送
 
 ---
 
 ## 📖 できればこれも
 
-- [delivery](/word/delivery)：配達、配送
-- [label](/word/label)：ラベル、表示
+- [delivery](/word/delivery/)：配達、配送
+- [label](/word/label/)：ラベル、表示
 
 <!-- cvid: aid20_bid47 -->

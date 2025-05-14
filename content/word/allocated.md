@@ -97,7 +97,7 @@ TOEICでは、資金やリソースの配分に関する文脈で頻出します
 ## 🤔  assigned との違いは？
 
 - **allocated**：資源や予算などを「計画的に配分・割り当てる」ニュアンス
-- **[assigned](/word/assigned)**：仕事や役割などを「任命・割り当てる」ニュアンス
+- **[assigned](/word/assigned/)**：仕事や役割などを「任命・割り当てる」ニュアンス
 
 allocatedは物やリソースの配分に使われ、assignedはタスクや責任の割り当てに使われることが多いです。
 
@@ -105,14 +105,14 @@ allocatedは物やリソースの配分に使われ、assignedはタスクや責
 
 ## 🧩 あわせて覚えたい
 
-- [distribute](/word/distribute)：分配する
-- [reserve](/word/reserve)：予約する、取っておく
+- [distribute](/word/distribute/)：分配する
+- [reserve](/word/reserve/)：予約する、取っておく
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/word/approve)：承認する
-- [submit](/word/submit)：提出する
+- [approve](/word/approve/)：承認する
+- [submit](/word/submit/)：提出する
 
 <!-- cvid: aid28_bid16 -->

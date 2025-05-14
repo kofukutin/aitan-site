@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や社内メールなどで「反対意見」や
 ## 🤔  resistance との違いは？
 
 - **opposition**：意見や立場の「反対」や「対立」を表し、組織や集団の反対勢力も指す。
-- **[resistance](/word/resistance)**：物理的・精神的な「抵抗」や「反発」を表し、受け身的なニュアンスが強い。
+- **[resistance](/word/resistance/)**：物理的・精神的な「抵抗」や「反発」を表し、受け身的なニュアンスが強い。
 
 「opposition」は主に意見や立場の対立、「resistance」は力や変化に対する抵抗を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネス文書や社内メールなどで「反対意見」や
 
 ## 🧩 あわせて覚えたい
 
-- [support](/word/support)：支持、支援
-- [conflict](/word/conflict)：対立、衝突
+- [support](/word/support/)：支持、支援
+- [conflict](/word/conflict/)：対立、衝突
 
 ---
 
 ## 📖 できればこれも
 
-- [proposal](/word/proposal)：提案
-- [agreement](/word/agreement)：合意
+- [proposal](/word/proposal/)：提案
+- [agreement](/word/agreement/)：合意
 
 <!-- cvid: aid06_bid40 -->

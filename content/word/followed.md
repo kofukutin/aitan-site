@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「指示に従う」「後についていく」
 ## 🤔  chased との違いは？
 
 - **followed**：単に後をついていく、従う
-- **[chased](/word/chased)**：追いかける、追跡する（積極的に捕まえようとするニュアンス）
+- **[chased](/word/chased/)**：追いかける、追跡する（積極的に捕まえようとするニュアンス）
 
 followedは「後についていく」や「指示に従う」といった中立的な意味ですが、chasedは「追いかける」「追跡する」といった積極的なニュアンスがあります。
 
@@ -105,14 +105,14 @@ followedは「後についていく」や「指示に従う」といった中立
 
 ## 🧩 あわせて覚えたい
 
-- [lead](/word/lead)：導く、案内する
-- [track](/word/track)：追跡する、たどる
+- [lead](/word/lead/)：導く、案内する
+- [track](/word/track/)：追跡する、たどる
 
 ---
 
 ## 📖 できればこれも
 
-- [continued](/word/continued)：続けた
-- [attend](/word/attend)：出席する、参加する
+- [continued](/word/continued/)：続けた
+- [attend](/word/attend/)：出席する、参加する
 
 <!-- cvid: aid00_bid35 -->

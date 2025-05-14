@@ -97,7 +97,7 @@ TOEICではカジュアルな会話文や、健康・医療に関する話題で
 ## 🤔  urinating との違いは？
 
 - **peeing**：とてもカジュアルで子どもや親しい間柄で使う「おしっこをする」
-- **[urinating](/word/urinating)**：医学的・フォーマルな「排尿する」
+- **[urinating](/word/urinating/)**：医学的・フォーマルな「排尿する」
 
 peeingは日常会話やくだけた場面で使い、urinatingは医療やフォーマルな説明で使います。
 
@@ -105,14 +105,14 @@ peeingは日常会話やくだけた場面で使い、urinatingは医療やフ�
 
 ## 🧩 あわせて覚えたい
 
-- [defecating](/word/defecating)：排便する
-- [relieve](/word/relieve)：（体の）緊張や苦痛を和らげる
+- [defecating](/word/defecating/)：排便する
+- [relieve](/word/relieve/)：（体の）緊張や苦痛を和らげる
 
 ---
 
 ## 📖 できればこれも
 
-- [wash](/word/wash)：洗う
-- [flush](/word/flush)：（トイレを）流す
+- [wash](/word/wash/)：洗う
+- [flush](/word/flush/)：（トイレを）流す
 
 <!-- cvid: aid20_bid07 -->

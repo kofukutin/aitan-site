@@ -97,7 +97,7 @@ We need to update to a newer version of the software.
 ## 🤔  younger との違いは？
 
 - **newer**：物や事柄が「より新しい」ことを表す比較級。
-- **[younger](/word/younger)**：人や動物など「年齢がより若い」ことを表す比較級。
+- **[younger](/word/younger/)**：人や動物など「年齢がより若い」ことを表す比較級。
 
 「newer」は物や出来事の新しさ、「younger」は年齢や世代の若さに使い分けます。
 
@@ -105,14 +105,14 @@ We need to update to a newer version of the software.
 
 ## 🧩 あわせて覚えたい
 
-- [modern](/word/modern)：現代的な、最新の
-- [recent](/word/recent)：最近の、近頃の
+- [modern](/word/modern/)：現代的な、最新の
+- [recent](/word/recent/)：最近の、近頃の
 
 ---
 
 ## 📖 できればこれも
 
-- [older](/word/older)：より古い、年上の
-- [latest](/word/latest)：最新の
+- [older](/word/older/)：より古い、年上の
+- [latest](/word/latest/)：最新の
 
 <!-- cvid: aid42_bid09 -->

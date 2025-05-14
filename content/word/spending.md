@@ -97,7 +97,7 @@ TOEICでは、企業や政府の予算、経費、消費に関する記事やメ
 ## 🤔  expense との違いは？
 
 - **spending**：全体的な「支出」や「消費」の総額や行為を指す
-- **[expense](/word/expense)**：特定の「費用」や「経費」、個々の支出項目を指す
+- **[expense](/word/expense/)**：特定の「費用」や「経費」、個々の支出項目を指す
 
 spendingは広い意味での支出全体、expenseは個別の費用や経費に焦点を当てる点が異なります。
 
@@ -105,14 +105,14 @@ spendingは広い意味での支出全体、expenseは個別の費用や経費�
 
 ## 🧩 あわせて覚えたい
 
-- [budget](/word/budget)：予算
-- [saving](/word/saving)：貯蓄
+- [budget](/word/budget/)：予算
+- [saving](/word/saving/)：貯蓄
 
 ---
 
 ## 📖 できればこれも
 
-- [cost](/word/cost)：費用
-- [income](/word/income)：収入
+- [cost](/word/cost/)：費用
+- [income](/word/income/)：収入
 
 <!-- cvid: aid47_bid03 -->

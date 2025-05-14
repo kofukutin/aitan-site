@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「興味深い内容」や「関心を持った
 ## 🤔  exciting との違いは？
 
 - **interesting**：知的な興味や関心を引くときに使う
-- **[exciting](/word/exciting)**：ワクワクするような強い感情や刺激を与えるときに使う
+- **[exciting](/word/exciting/)**：ワクワクするような強い感情や刺激を与えるときに使う
 
 「interesting」は「知的な興味」や「好奇心」を刺激する場合に使い、「exciting」は「感情が高ぶる」「ドキドキする」ような場面で使い分けます。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「興味深い内容」や「関心を持った
 
 ## 🧩 あわせて覚えたい
 
-- [boring](/word/boring)：退屈な
-- [curious](/word/curious)：好奇心が強い
+- [boring](/word/boring/)：退屈な
+- [curious](/word/curious/)：好奇心が強い
 
 ---
 
 ## 📖 できればこれも
 
-- [important](/word/important)：重要な
-- [useful](/word/useful)：役に立つ
+- [important](/word/important/)：重要な
+- [useful](/word/useful/)：役に立つ
 
 <!-- cvid: aid18_bid43 -->

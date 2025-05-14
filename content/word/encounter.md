@@ -98,7 +98,7 @@ TOEICでは会話や説明文で「問題や困難に直面する」「人と出
 ## 🤔  face との違いは？
 
 - **encounter**：予期せず何かに出会う・直面する（ややフォーマル）
-- **[face](/word/face)**：困難や問題に「立ち向かう」「直面する」（意識的・直接的）
+- **[face](/word/face/)**：困難や問題に「立ち向かう」「直面する」（意識的・直接的）
 
 encounterは偶然や予期せぬ出会い・問題に使い、faceは意識的に向き合う・対処する場面で使います。
 
@@ -106,14 +106,14 @@ encounterは偶然や予期せぬ出会い・問題に使い、faceは意識的�
 
 ## 🧩 あわせて覚えたい
 
-- [meet](/word/meet)：会う、出会う（一般的な「会う」）
-- [overcome](/word/overcome)：克服する、乗り越える
+- [meet](/word/meet/)：会う、出会う（一般的な「会う」）
+- [overcome](/word/overcome/)：克服する、乗り越える
 
 ---
 
 ## 📖 できればこれも
 
-- [deal](/word/deal)：対処する、扱う
-- [address](/word/address)：（問題などに）取り組む、対処する
+- [deal](/word/deal/)：対処する、扱う
+- [address](/word/address/)：（問題などに）取り組む、対処する
 
 <!-- cvid: aid17_bid14 -->

@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「音」や「音質」に関する話題でよ
 ## 🤔  noise との違いは？
 
 - **sound**：音全般を指し、良い音・悪い音どちらにも使える中立的な表現。
-- **[noise](/word/noise)**：不快な音や雑音など、望ましくない音を指すことが多い。
+- **[noise](/word/noise/)**：不快な音や雑音など、望ましくない音を指すことが多い。
 
 soundは「音」全般を表すのに対し、noiseは「うるさい」「邪魔な」など否定的なニュアンスが強いです。
 
@@ -105,14 +105,14 @@ soundは「音」全般を表すのに対し、noiseは「うるさい」「邪�
 
 ## 🧩 あわせて覚えたい
 
-- [voice](/word/voice)：声、人の話し声
-- [echo](/word/echo)：こだま、反響
+- [voice](/word/voice/)：声、人の話し声
+- [echo](/word/echo/)：こだま、反響
 
 ---
 
 ## 📖 できればこれも
 
-- [light](/word/light)：光、明かり
-- [signal](/word/signal)：信号、合図
+- [light](/word/light/)：光、明かり
+- [signal](/word/signal/)：信号、合図
 
 <!-- cvid: aid32_bid00 -->

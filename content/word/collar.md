@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、服装や人物の特徴を説明す
 ## 🤔  neckline との違いは？
 
 - **collar**：シャツやコートの「襟」や動物の「首輪」を指す。
-- **[neckline](/word/neckline)**：服の首回りの「開き具合」や「形」を指す。
+- **[neckline](/word/neckline/)**：服の首回りの「開き具合」や「形」を指す。
 
 collarは物理的な襟や首輪、necklineは服のデザイン上の首回りの形を表します。
 
@@ -105,14 +105,14 @@ collarは物理的な襟や首輪、necklineは服のデザイン上の首回り
 
 ## 🧩 あわせて覚えたい
 
-- [cuff](/word/cuff)：袖口
-- [lapel](/word/lapel)：（ジャケットなどの）下襟
+- [cuff](/word/cuff/)：袖口
+- [lapel](/word/lapel/)：（ジャケットなどの）下襟
 
 ---
 
 ## 📖 できればこれも
 
-- [button](/word/button)：ボタン
-- [sleeve](/word/sleeve)：袖
+- [button](/word/button/)：ボタン
+- [sleeve](/word/sleeve/)：袖
 
 <!-- cvid: aid43_bid28 -->

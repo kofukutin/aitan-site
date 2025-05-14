@@ -97,7 +97,7 @@ TOEICでは道案内やビジネスの転換点を説明する場面で出題さ
 ## 🤔  change との違いは？
 
 - **turning**：物理的な曲がり角や、出来事の転換点を指す。
-- **[change](/word/change)**：一般的な「変化」や「変更」を幅広く指す。
+- **[change](/word/change/)**：一般的な「変化」や「変更」を幅広く指す。
 
 turningは「方向転換」や「重要な分岐点」に焦点があり、changeは「状態や内容が変わること」全般に使います。
 
@@ -105,14 +105,14 @@ turningは「方向転換」や「重要な分岐点」に焦点があり、chan
 
 ## 🧩 あわせて覚えたい
 
-- [corner](/word/corner)：角、曲がり角
-- [transition](/word/transition)：移行、推移
+- [corner](/word/corner/)：角、曲がり角
+- [transition](/word/transition/)：移行、推移
 
 ---
 
 ## 📖 できればこれも
 
-- [direction](/word/direction)：方向
-- [shift](/word/shift)：移動、変化
+- [direction](/word/direction/)：方向
+- [shift](/word/shift/)：移動、変化
 
 <!-- cvid: aid20_bid34 -->

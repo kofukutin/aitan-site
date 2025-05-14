@@ -97,7 +97,7 @@ proveの過去形・過去分詞として、文法問題やビジネス文脈で
 ## 🤔  verified との違いは？
 
 - **proved**：証拠や論理で「証明した」「立証した」という意味。
-- **[verified](/word/verified)**：事実や正確さを「確認した」「検証した」という意味。
+- **[verified](/word/verified/)**：事実や正確さを「確認した」「検証した」という意味。
 
 provedは理論や主張が正しいと証明する場合に使い、verifiedは情報やデータの正確性を確認する場面で使います。
 
@@ -105,14 +105,14 @@ provedは理論や主張が正しいと証明する場合に使い、verifiedは
 
 ## 🧩 あわせて覚えたい
 
-- [confirm](/word/confirm)：確認する
-- [demonstrate](/word/demonstrate)：実証する、明らかにする
+- [confirm](/word/confirm/)：確認する
+- [demonstrate](/word/demonstrate/)：実証する、明らかにする
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/word/approve)：承認する
-- [evidence](/word/evidence)：証拠
+- [approve](/word/approve/)：承認する
+- [evidence](/word/evidence/)：証拠
 
 <!-- cvid: aid29_bid30 -->

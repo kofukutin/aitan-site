@@ -97,7 +97,7 @@ TOEICではPart 5の語彙問題や、推薦状・ビジネスメールの文脈
 ## 🤔  suggest との違いは？
 
 - **recommend**：自信を持って「強く勧める」「推薦する」ニュアンス
-- **[suggest](/word/suggest)**：選択肢の一つとして「提案する」やや控えめなニュアンス
+- **[suggest](/word/suggest/)**：選択肢の一つとして「提案する」やや控えめなニュアンス
 
 recommendは「これが良い」と強く勧める時に使い、suggestは「こうしてみては？」とやんわり提案する時に使います。
 
@@ -105,14 +105,14 @@ recommendは「これが良い」と強く勧める時に使い、suggestは「�
 
 ## 🧩 あわせて覚えたい
 
-- [advise](/word/advise)：助言する、忠告する
-- [endorse](/word/endorse)：（公式に）支持する、承認する
+- [advise](/word/advise/)：助言する、忠告する
+- [endorse](/word/endorse/)：（公式に）支持する、承認する
 
 ---
 
 ## 📖 できればこれも
 
-- [refer](/word/refer)：言及する、紹介する
-- [approve](/word/approve)：承認する、認める
+- [refer](/word/refer/)：言及する、紹介する
+- [approve](/word/approve/)：承認する、認める
 
 <!-- cvid: aid11_bid09 -->

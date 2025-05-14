@@ -97,7 +97,7 @@ TOEICでは空港や駅、交通機関の会話やアナウンスで頻出しま
 ## 🤔  customer との違いは？
 
 - **passenger**：乗り物に乗る人（運転手や乗務員以外）
-- **[customer](/word/customer)**：商品やサービスを購入する人
+- **[customer](/word/customer/)**：商品やサービスを購入する人
 
 passengerは交通機関の「乗客」を指し、customerは「買い物客」や「サービス利用者」全般を指します。乗り物に乗る場合はpassengerを使います。
 
@@ -105,14 +105,14 @@ passengerは交通機関の「乗客」を指し、customerは「買い物客」
 
 ## 🧩 あわせて覚えたい
 
-- [commuter](/word/commuter)：通勤者
-- [driver](/word/driver)：運転手
+- [commuter](/word/commuter/)：通勤者
+- [driver](/word/driver/)：運転手
 
 ---
 
 ## 📖 できればこれも
 
-- [luggage](/word/luggage)：荷物
-- [platform](/word/platform)：（駅の）ホーム
+- [luggage](/word/luggage/)：荷物
+- [platform](/word/platform/)：（駅の）ホーム
 
 <!-- cvid: aid06_bid47 -->

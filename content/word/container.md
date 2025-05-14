@@ -97,7 +97,7 @@ TOEICでは物流やオフィスの会話で「container」が荷物や保管に
 ## 🤔  package との違いは？
 
 - **container**：物を入れて運ぶための容器や大型のコンテナ全般を指す
-- **[package](/word/package)**：小包や包装された荷物、梱包されたものを指す
+- **[package](/word/package/)**：小包や包装された荷物、梱包されたものを指す
 
 containerは中身を入れる「入れ物」自体を強調し、packageは「梱包された状態」や「配送物」としての側面を強調します。
 
@@ -105,14 +105,14 @@ containerは中身を入れる「入れ物」自体を強調し、packageは「�
 
 ## 🧩 あわせて覚えたい
 
-- [box](/word/box)：箱
-- [vessel](/word/vessel)：容器、器
+- [box](/word/box/)：箱
+- [vessel](/word/vessel/)：容器、器
 
 ---
 
 ## 📖 できればこれも
 
-- [storage](/word/storage)：保管、収納
-- [shipment](/word/shipment)：発送、出荷
+- [storage](/word/storage/)：保管、収納
+- [shipment](/word/shipment/)：発送、出荷
 
 <!-- cvid: aid19_bid17 -->

@@ -97,7 +97,7 @@ TOEICでは「料金に何が含まれるか」「書類に何を含めるか」
 ## 🤔  contain との違いは？
 
 - **include**：全体の一部として「含める」「含む」（一部だけでもOK）
-- **[contain](/word/contain)**：物理的・抽象的に「中に入っている」「含んでいる」（全部を内包）
+- **[contain](/word/contain/)**：物理的・抽象的に「中に入っている」「含んでいる」（全部を内包）
 
 **include**は「リストの一部として含める」など部分的な要素にも使えますが、**contain**は「容器が中身を全部持っている」など、より物理的・全体的なニュアンスがあります。
 
@@ -105,14 +105,14 @@ TOEICでは「料金に何が含まれるか」「書類に何を含めるか」
 
 ## 🧩 あわせて覚えたい
 
-- [exclude](/word/exclude)：除外する
-- [involve](/word/involve)：（積極的に）含む、関与させる
+- [exclude](/word/exclude/)：除外する
+- [involve](/word/involve/)：（積極的に）含む、関与させる
 
 ---
 
 ## 📖 できればこれも
 
-- [consist](/word/consist)：構成される
-- [require](/word/require)：必要とする
+- [consist](/word/consist/)：構成される
+- [require](/word/require/)：必要とする
 
 <!-- cvid: aid16_bid05 -->

@@ -97,7 +97,7 @@ TOEICでは「困難を乗り越える」「生き残る」といった文脈で
 ## 🤔  remain との違いは？
 
 - **survive**：困難や危機を乗り越えて「生き残る」「切り抜ける」
-- **[remain](/word/remain)**：変化や消失があっても「そのまま残る」「存在し続ける」
+- **[remain](/word/remain/)**：変化や消失があっても「そのまま残る」「存在し続ける」
 
 surviveは「危機を乗り越える」ニュアンスが強く、remainは単に「残る」「変わらずにいる」ことを表します。
 
@@ -105,14 +105,14 @@ surviveは「危機を乗り越える」ニュアンスが強く、remainは単�
 
 ## 🧩 あわせて覚えたい
 
-- [endure](/word/endure)：耐える、持ちこたえる
-- [recover](/word/recover)：回復する、立ち直る
+- [endure](/word/endure/)：耐える、持ちこたえる
+- [recover](/word/recover/)：回復する、立ち直る
 
 ---
 
 ## 📖 できればこれも
 
-- [maintain](/word/maintain)：維持する、保つ
-- [continue](/word/continue)：続ける、継続する
+- [maintain](/word/maintain/)：維持する、保つ
+- [continue](/word/continue/)：続ける、継続する
 
 <!-- cvid: aid02_bid14 -->

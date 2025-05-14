@@ -96,7 +96,7 @@ TOEICでは主に金融やビジネス関連の長文、特にローンや企業
 ## 🤔  restructure との違いは？
 
 - **refinance**：主にローンや借金を新しい条件で組み直すこと
-- **[restructure](/word/restructure)**：組織や財務全体の構造を再編成すること
+- **[restructure](/word/restructure/)**：組織や財務全体の構造を再編成すること
 
 refinanceは「借金やローン」に特化した再調達を指し、restructureは会社全体や事業の構造改革など幅広い再編に使います。
 
@@ -104,14 +104,14 @@ refinanceは「借金やローン」に特化した再調達を指し、restruct
 
 ## 🧩 あわせて覚えたい
 
-- [consolidate](/word/consolidate)：（借金などを）一本化する
-- [borrow](/word/borrow)：借りる
+- [consolidate](/word/consolidate/)：（借金などを）一本化する
+- [borrow](/word/borrow/)：借りる
 
 ---
 
 ## 📖 できればこれも
 
-- [mortgage](/word/mortgage)：住宅ローン
-- [invest](/word/invest)：投資する
+- [mortgage](/word/mortgage/)：住宅ローン
+- [invest](/word/invest/)：投資する
 
 <!-- cvid: aid48_bid18 -->

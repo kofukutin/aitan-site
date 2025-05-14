@@ -97,7 +97,7 @@ farewellはTOEICの会話やスピーチ、送別会の場面で登場するこ�
 ## 🤔  goodbye との違いは？
 
 - **farewell**：フォーマルな場面や儀式的な「別れのあいさつ」「送別」を表す。
-- **[goodbye](/word/goodbye)**：日常的な「さようなら」。カジュアルな別れのあいさつ。
+- **[goodbye](/word/goodbye/)**：日常的な「さようなら」。カジュアルな別れのあいさつ。
 
 farewellは改まった場面やスピーチ、送別会などで使われるのに対し、goodbyeは普段の会話で使うカジュアルな表現です。
 
@@ -105,14 +105,14 @@ farewellは改まった場面やスピーチ、送別会などで使われるの
 
 ## 🧩 あわせて覚えたい
 
-- [departure](/word/departure)：出発、旅立ち
-- [greeting](/word/greeting)：あいさつ
+- [departure](/word/departure/)：出発、旅立ち
+- [greeting](/word/greeting/)：あいさつ
 
 ---
 
 ## 📖 できればこれも
 
-- [celebration](/word/celebration)：祝賀、祝い
-- [invitation](/word/invitation)：招待、招待状
+- [celebration](/word/celebration/)：祝賀、祝い
+- [invitation](/word/invitation/)：招待、招待状
 
 <!-- cvid: aid47_bid03 -->

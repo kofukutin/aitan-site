@@ -98,7 +98,7 @@ TOEICでは「重要な」「不可欠な」という意味で頻出します。
 ## 🤔  essential との違いは？
 
 - **vital**：命に関わるほど「絶対に必要」「極めて重要」と強調する
-- **[essential](/word/essential)**：必要不可欠、基本的に「なくてはならない」
+- **[essential](/word/essential/)**：必要不可欠、基本的に「なくてはならない」
 
 vitalは「生命線」「失うと致命的」といった強いニュアンスがあり、essentialは「基本的に必要」というやや広い意味で使われます。
 
@@ -106,14 +106,14 @@ vitalは「生命線」「失うと致命的」といった強いニュアンス
 
 ## 🧩 あわせて覚えたい
 
-- [crucial](/word/crucial)：極めて重要な
-- [minor](/word/minor)：重要でない、小さい
+- [crucial](/word/crucial/)：極めて重要な
+- [minor](/word/minor/)：重要でない、小さい
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/word/significant)：重要な、意味のある
-- [necessary](/word/necessary)：必要な
+- [significant](/word/significant/)：重要な、意味のある
+- [necessary](/word/necessary/)：必要な
 
 <!-- cvid: aid32_bid44 -->

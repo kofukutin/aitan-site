@@ -97,7 +97,7 @@ TOEICでは主に動詞の形（現在分詞・過去分詞）の使い分けや
 ## 🤔  making との違いは？
 
 - **causing**：何かの「原因となっている」「引き起こしている」ことを強調
-- **[making](/word/making)**：何かを「作り出している」「生み出している」ことを強調
+- **[making](/word/making/)**：何かを「作り出している」「生み出している」ことを強調
 
 causingは出来事や結果の「原因」に焦点があり、makingは「創造」や「生成」に焦点があります。
 
@@ -105,14 +105,14 @@ causingは出来事や結果の「原因」に焦点があり、makingは「創�
 
 ## 🧩 あわせて覚えたい
 
-- [lead](/word/lead)：導く、結果として～になる
-- [result](/word/result)：結果となる、～の結果になる
+- [lead](/word/lead/)：導く、結果として～になる
+- [result](/word/result/)：結果となる、～の結果になる
 
 ---
 
 ## 📖 できればこれも
 
-- [affect](/word/affect)：影響を与える
-- [bring](/word/bring)：もたらす、引き起こす
+- [affect](/word/affect/)：影響を与える
+- [bring](/word/bring/)：もたらす、引き起こす
 
 <!-- cvid: aid35_bid46 -->

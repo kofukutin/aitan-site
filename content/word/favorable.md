@@ -97,7 +97,7 @@ TOEICでは主にPart 7のメールやレポート、ビジネス文書で「好
 ## 🤔  positive との違いは？
 
 - **favorable**：状況や評価が「有利」「好意的」「好ましい」であることを強調
-- **[positive](/word/positive)**：単に「肯定的」「前向き」「積極的」であることを表す
+- **[positive](/word/positive/)**：単に「肯定的」「前向き」「積極的」であることを表す
 
 **favorable**は「有利」「好都合」「好意的」といった評価や状況に使われることが多く、**positive**は「前向き」「肯定的」といった気持ちや態度に幅広く使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 7のメールやレポート、ビジネス文書で「好
 
 ## 🧩 あわせて覚えたい
 
-- [unfavorable](/word/unfavorable)：好ましくない、不利な
-- [beneficial](/word/beneficial)：有益な、ためになる
+- [unfavorable](/word/unfavorable/)：好ましくない、不利な
+- [beneficial](/word/beneficial/)：有益な、ためになる
 
 ---
 
 ## 📖 できればこれも
 
-- [advantageous](/word/advantageous)：有利な、好都合な
-- [supportive](/word/supportive)：支援的な、協力的な
+- [advantageous](/word/advantageous/)：有利な、好都合な
+- [supportive](/word/supportive/)：支援的な、協力的な
 
 <!-- cvid: aid16_bid28 -->

@@ -96,7 +96,7 @@ TOEICでは、比喩的な意味で「大きな隔たり」や地理的な「湾
 ## 🤔  gap との違いは？
 
 - **gulf**：物理的・比喩的に「非常に大きな隔たり」や「湾」を表す。
-- **[gap](/word/gap)**：小さな「すき間」や「差」を表す。
+- **[gap](/word/gap/)**：小さな「すき間」や「差」を表す。
 
 gulfはgapよりも隔たりの規模や深刻さが大きい場合に使われます。
 
@@ -104,14 +104,14 @@ gulfはgapよりも隔たりの規模や深刻さが大きい場合に使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [divide](/word/divide)：分断、隔たり
-- [bay](/word/bay)：湾（gulfより小規模）
+- [divide](/word/divide/)：分断、隔たり
+- [bay](/word/bay/)：湾（gulfより小規模）
 
 ---
 
 ## 📖 できればこれも
 
-- [border](/word/border)：境界、国境
-- [distance](/word/distance)：距離、間隔
+- [border](/word/border/)：境界、国境
+- [distance](/word/distance/)：距離、間隔
 
 <!-- cvid: aid24_bid14 -->

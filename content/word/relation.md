@@ -98,7 +98,7 @@ relationは、TOEICの長文読解やビジネス文書で「関係」や「関�
 ## 🤔  relationship との違いは？
 
 - **relation**：物事や人・組織の間の「関係」や「関連性」を広く指し、フォーマルな場面や学術・ビジネスでよく使う。
-- **[relationship](/word/relationship)**：人間関係や感情的なつながり、より親密な関係を表すときに使う。
+- **[relationship](/word/relationship/)**：人間関係や感情的なつながり、より親密な関係を表すときに使う。
 
 relationは客観的・形式的な「関係」、relationshipは個人的・感情的な「つながり」を強調します。
 
@@ -106,14 +106,14 @@ relationは客観的・形式的な「関係」、relationshipは個人的・感
 
 ## 🧩 あわせて覚えたい
 
-- [connection](/word/connection)：つながり、接続
-- [association](/word/association)：関連、連想、協会
+- [connection](/word/connection/)：つながり、接続
+- [association](/word/association/)：関連、連想、協会
 
 ---
 
 ## 📖 できればこれも
 
-- [factor](/word/factor)：要因、要素
-- [aspect](/word/aspect)：側面、観点
+- [factor](/word/factor/)：要因、要素
+- [aspect](/word/aspect/)：側面、観点
 
 <!-- cvid: aid00_bid16 -->

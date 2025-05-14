@@ -97,7 +97,7 @@ TOEICでは会話や指示の中で「押した」「促した」という意味
 ## 🤔  pressed との違いは？
 
 - **pushed**：前方や目的地に向かって力を加えて動かす、または行動を促す意味。
-- **[pressed](/word/pressed)**：物を平らにしたり、強く押し付けたりする意味。
+- **[pressed](/word/pressed/)**：物を平らにしたり、強く押し付けたりする意味。
 
 pushedは「前に動かす」ニュアンスが強く、pressedは「押し付ける」「圧力をかける」場面で使われます。
 
@@ -105,14 +105,14 @@ pushedは「前に動かす」ニュアンスが強く、pressedは「押し付�
 
 ## 🧩 あわせて覚えたい
 
-- [pull](/word/pull)：引く
-- [urge](/word/urge)：促す、駆り立てる
+- [pull](/word/pull/)：引く
+- [urge](/word/urge/)：促す、駆り立てる
 
 ---
 
 ## 📖 できればこれも
 
-- [move](/word/move)：動かす
-- [force](/word/force)：強制する、力
+- [move](/word/move/)：動かす
+- [force](/word/force/)：強制する、力
 
 <!-- cvid: aid21_bid17 -->

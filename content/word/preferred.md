@@ -97,7 +97,7 @@ TOEICでは求人広告や案内文などで「preferred」の形容詞用法が
 ## 🤔  favorite との違いは？
 
 - **preferred**：他と比べてより好ましい、優先される（フォーマル・ビジネス向き）
-- **[favorite](/word/favorite)**：一番好きな、お気に入り（カジュアル・個人的な好み）
+- **[favorite](/word/favorite/)**：一番好きな、お気に入り（カジュアル・個人的な好み）
 
 「preferred」は選択肢の中で優先されるものを指し、ビジネスや公式な場面で使われます。「favorite」は個人的な「一番のお気に入り」を表し、よりカジュアルです。
 
@@ -105,14 +105,14 @@ TOEICでは求人広告や案内文などで「preferred」の形容詞用法が
 
 ## 🧩 あわせて覚えたい
 
-- [optional](/word/optional)：任意の、選択できる
-- [required](/word/required)：必須の、必要な
+- [optional](/word/optional/)：任意の、選択できる
+- [required](/word/required/)：必須の、必要な
 
 ---
 
 ## 📖 できればこれも
 
-- [recommended](/word/recommended)：推奨される
-- [suitable](/word/suitable)：適している
+- [recommended](/word/recommended/)：推奨される
+- [suitable](/word/suitable/)：適している
 
 <!-- cvid: aid05_bid20 -->

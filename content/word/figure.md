@@ -97,7 +97,7 @@ TOEICでは主にレポートやグラフ、統計データの説明文で「数
 ## 🤔  number との違いは？
 
 - **figure**：主に「数字」「図」「人物」など、文脈によって幅広い意味を持つ
-- **[number](/word/number)**：単純な「数」や「番号」を表す
+- **[number](/word/number/)**：単純な「数」や「番号」を表す
 
 figureは「図表」や「統計データの数値」など、ややフォーマルでビジネス寄りの場面で使われることが多く、numberは日常的な「数」や「番号」に使われます。
 
@@ -105,14 +105,14 @@ figureは「図表」や「統計データの数値」など、ややフォー�
 
 ## 🧩 あわせて覚えたい
 
-- [amount](/word/amount)：量、総額
-- [diagram](/word/diagram)：図、図解
+- [amount](/word/amount/)：量、総額
+- [diagram](/word/diagram/)：図、図解
 
 ---
 
 ## 📖 できればこれも
 
-- [data](/word/data)：データ、資料
-- [total](/word/total)：合計、総計
+- [data](/word/data/)：データ、資料
+- [total](/word/total/)：合計、総計
 
 <!-- cvid: aid28_bid09 -->

@@ -97,7 +97,7 @@ tailorはPart 5の語彙問題や、ビジネス文書の中で「調整する�
 ## 🤔  customize との違いは？
 
 - **tailor**：特定の人や目的に合わせて細かく調整するニュアンスが強い
-- **[customize](/word/customize)**：一般的に「カスタマイズする」、個人の好みに合わせて変更する意味
+- **[customize](/word/customize/)**：一般的に「カスタマイズする」、個人の好みに合わせて変更する意味
 
 tailorは「相手や状況に合わせて最適化する」イメージ、customizeは「自分好みに変更する」イメージが強いです。
 
@@ -105,14 +105,14 @@ tailorは「相手や状況に合わせて最適化する」イメージ、custo
 
 ## 🧩 あわせて覚えたい
 
-- [adapt](/word/adapt)：適応させる、順応させる
-- [modify](/word/modify)：修正する、変更する
+- [adapt](/word/adapt/)：適応させる、順応させる
+- [modify](/word/modify/)：修正する、変更する
 
 ---
 
 ## 📖 できればこれも
 
-- [adjust](/word/adjust)：調整する、整える
-- [fit](/word/fit)：合う、適合する
+- [adjust](/word/adjust/)：調整する、整える
+- [fit](/word/fit/)：合う、適合する
 
 <!-- cvid: aid34_bid24 -->

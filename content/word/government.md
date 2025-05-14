@@ -97,7 +97,7 @@ TOEICでは、ニュース記事やビジネス文書の中で「政府」や「
 ## 🤔  administration との違いは？
 
 - **government**：国や地域全体を統治する組織や機関を指す。
-- **[administration](/word/administration)**：特定の政権や、組織・機関の運営管理を指す。
+- **[administration](/word/administration/)**：特定の政権や、組織・機関の運営管理を指す。
 
 governmentは「国家レベルの政府全体」、administrationは「特定の政権や管理運営」に焦点があります。
 
@@ -105,14 +105,14 @@ governmentは「国家レベルの政府全体」、administrationは「特定�
 
 ## 🧩 あわせて覚えたい
 
-- [authority](/word/authority)：権威、権限
-- [policy](/word/policy)：政策、方針
+- [authority](/word/authority/)：権威、権限
+- [policy](/word/policy/)：政策、方針
 
 ---
 
 ## 📖 できればこれも
 
-- [organization](/word/organization)：組織
-- [system](/word/system)：制度、仕組み
+- [organization](/word/organization/)：組織
+- [system](/word/system/)：制度、仕組み
 
 <!-- cvid: aid07_bid23 -->

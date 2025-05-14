@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やEメール、報告書の中で「監査�
 ## 🤔  inspect との違いは？
 
 - **audit**：主に会計や業務内容を公式に詳細に調べる「監査」
-- **[inspect](/word/inspect)**：物や現場などを目で見て調べる「検査」「点検」
+- **[inspect](/word/inspect/)**：物や現場などを目で見て調べる「検査」「点検」
 
 auditは書類や会計などの公式な調査に使い、inspectは物理的なものや現場の点検に使います。
 
@@ -105,14 +105,14 @@ auditは書類や会計などの公式な調査に使い、inspectは物理的�
 
 ## 🧩 あわせて覚えたい
 
-- [review](/word/review)：再調査、見直し
-- [assessment](/word/assessment)：評価、査定
+- [review](/word/review/)：再調査、見直し
+- [assessment](/word/assessment/)：評価、査定
 
 ---
 
 ## 📖 できればこれも
 
-- [account](/word/account)：会計、口座
-- [report](/word/report)：報告書
+- [account](/word/account/)：会計、口座
+- [report](/word/report/)：報告書
 
 <!-- cvid: aid43_bid03 -->

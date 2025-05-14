@@ -97,7 +97,7 @@ The hotel offers a beautiful view of the cove.
 ## 🤔  bay との違いは？
 
 - **cove**：小さくて奥まった入り江や湾
-- **[bay](/word/bay)**：より大きく開けた湾
+- **[bay](/word/bay/)**：より大きく開けた湾
 
 coveは小規模で囲まれた印象、bayは広くて開放的な湾を指します。
 
@@ -105,14 +105,14 @@ coveは小規模で囲まれた印象、bayは広くて開放的な湾を指し�
 
 ## 🧩 あわせて覚えたい
 
-- [inlet](/word/inlet)：入り江、狭い水路
-- [cliff](/word/cliff)：崖
+- [inlet](/word/inlet/)：入り江、狭い水路
+- [cliff](/word/cliff/)：崖
 
 ---
 
 ## 📖 できればこれも
 
-- [coast](/word/coast)：海岸
-- [beach](/word/beach)：浜辺
+- [coast](/word/coast/)：海岸
+- [beach](/word/beach/)：浜辺
 
 <!-- cvid: aid28_bid42 -->

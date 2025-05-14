@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や説明文で「structured approach」や「st
 ## 🤔  organized との違いは？
 
 - **structured**：明確な枠組みや体系に基づいて整理された
-- **[organized](/word/organized)**：秩序立って整えられた、きちんと管理された
+- **[organized](/word/organized/)**：秩序立って整えられた、きちんと管理された
 
 「structured」は枠組みや計画性の強調、「organized」は秩序や整然さの強調という違いがあります。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネス文書や説明文で「structured approach」や「st
 
 ## 🧩 あわせて覚えたい
 
-- [systematic](/word/systematic)：体系的な、組織的な
-- [chaotic](/word/chaotic)：混沌とした、無秩序な
+- [systematic](/word/systematic/)：体系的な、組織的な
+- [chaotic](/word/chaotic/)：混沌とした、無秩序な
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [methodical](/word/methodical)：几帳面な、順序立てた
+- [efficient](/word/efficient/)：効率的な
+- [methodical](/word/methodical/)：几帳面な、順序立てた
 
 <!-- cvid: aid11_bid07 -->

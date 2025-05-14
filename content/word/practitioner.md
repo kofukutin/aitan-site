@@ -97,7 +97,7 @@ TOEICでは医療や法律、ビジネス分野の長文で「専門職従事者
 ## 🤔  professional との違いは？
 
 - **practitioner**：特定分野で実際に活動している専門職従事者
-- **[professional](/word/professional)**：専門的な職業に就いている人、またはプロ意識のある人
+- **[professional](/word/professional/)**：専門的な職業に就いている人、またはプロ意識のある人
 
 practitionerは「実務に携わる人」に焦点があり、professionalは「専門性やプロ意識」に重きがあります。
 
@@ -105,14 +105,14 @@ practitionerは「実務に携わる人」に焦点があり、professionalは�
 
 ## 🧩 あわせて覚えたい
 
-- [specialist](/word/specialist)：専門家
-- [amateur](/word/amateur)：素人、アマチュア
+- [specialist](/word/specialist/)：専門家
+- [amateur](/word/amateur/)：素人、アマチュア
 
 ---
 
 ## 📖 できればこれも
 
-- [consultant](/word/consultant)：コンサルタント、相談役
-- [therapist](/word/therapist)：セラピスト、療法士
+- [consultant](/word/consultant/)：コンサルタント、相談役
+- [therapist](/word/therapist/)：セラピスト、療法士
 
 <!-- cvid: aid37_bid09 -->

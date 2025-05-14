@@ -97,7 +97,7 @@ TOEICでは「annual meeting（年次会議）」や「annual report（年次報
 ## 🤔  yearly との違いは？
 
 - **annual**：年に一度の、毎年の（フォーマルな場面や公式文書でよく使う）
-- **[yearly](/word/yearly)**：年ごとの、毎年の（ややカジュアルで、頻度や期間を強調することも）
+- **[yearly](/word/yearly/)**：年ごとの、毎年の（ややカジュアルで、頻度や期間を強調することも）
 
 「annual」は公式なイベントや書類に多く使われ、「yearly」は日常的な頻度や期間を表すときに使われやすいです。
 
@@ -105,14 +105,14 @@ TOEICでは「annual meeting（年次会議）」や「annual report（年次報
 
 ## 🧩 あわせて覚えたい
 
-- [monthly](/word/monthly)：毎月の
-- [quarterly](/word/quarterly)：四半期ごとの
+- [monthly](/word/monthly/)：毎月の
+- [quarterly](/word/quarterly/)：四半期ごとの
 
 ---
 
 ## 📖 できればこれも
 
-- [regular](/word/regular)：定期的な
-- [frequent](/word/frequent)：頻繁な
+- [regular](/word/regular/)：定期的な
+- [frequent](/word/frequent/)：頻繁な
 
 <!-- cvid: aid35_bid16 -->

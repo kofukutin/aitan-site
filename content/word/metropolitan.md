@@ -97,7 +97,7 @@ TOEICでは都市圏や交通、経済活動に関する長文や記事で見か
 ## 🤔  urban との違いは？
 
 - **metropolitan**：大都市や首都圏に関する、中心都市の
-- **[urban](/word/urban)**：都市の、都会の
+- **[urban](/word/urban/)**：都市の、都会の
 
 「metropolitan」は特に大都市や首都圏の規模や中心性を強調し、「urban」は一般的な都市や都会を指します。
 
@@ -105,14 +105,14 @@ TOEICでは都市圏や交通、経済活動に関する長文や記事で見か
 
 ## 🧩 あわせて覚えたい
 
-- [rural](/word/rural)：田舎の、地方の
-- [municipal](/word/municipal)：市の、自治体の
+- [rural](/word/rural/)：田舎の、地方の
+- [municipal](/word/municipal/)：市の、自治体の
 
 ---
 
 ## 📖 できればこれも
 
-- [suburban](/word/suburban)：郊外の
-- [cosmopolitan](/word/cosmopolitan)：国際的な、世界的な
+- [suburban](/word/suburban/)：郊外の
+- [cosmopolitan](/word/cosmopolitan/)：国際的な、世界的な
 
 <!-- cvid: aid29_bid17 -->

@@ -97,7 +97,7 @@ TOEICでは「申し出る」「提案する」「提供する」といった意
 ## 🤔  propose との違いは？
 
 - **offer**：相手に何かを差し出したり、手助けや物を「申し出る」ニュアンスが強い
-- **[propose](/word/propose)**：計画やアイデアなどを「提案する」意味が強く、ややフォーマル
+- **[propose](/word/propose/)**：計画やアイデアなどを「提案する」意味が強く、ややフォーマル
 
 offerは「実際に何かを与える・助ける」場面で使い、proposeは「案や計画を正式に提案する」場面で使います。
 
@@ -105,14 +105,14 @@ offerは「実際に何かを与える・助ける」場面で使い、propose�
 
 ## 🧩 あわせて覚えたい
 
-- [suggest](/word/suggest)：提案する（カジュアルな提案）
-- [provide](/word/provide)：提供する（物やサービスを与える）
+- [suggest](/word/suggest/)：提案する（カジュアルな提案）
+- [provide](/word/provide/)：提供する（物やサービスを与える）
 
 ---
 
 ## 📖 できればこれも
 
-- [accept](/word/accept)：受け入れる、承諾する
-- [recommend](/word/recommend)：推薦する、勧める
+- [accept](/word/accept/)：受け入れる、承諾する
+- [recommend](/word/recommend/)：推薦する、勧める
 
 <!-- cvid: aid26_bid21 -->

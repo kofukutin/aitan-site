@@ -97,7 +97,7 @@ TOEICでは、展示会やイベントの案内文や広告、Eメールなど�
 ## 🤔  exhibition との違いは？
 
 - **expo**：カジュアルで大規模な博覧会や展示会を指し、略語として使われることが多い
-- **[exhibition](/word/exhibition)**：ややフォーマルで、芸術作品や製品などの展示全般を指す
+- **[exhibition](/word/exhibition/)**：ややフォーマルで、芸術作品や製品などの展示全般を指す
 
 expoはビジネスや産業イベントなど大規模な催しに使われやすく、exhibitionは美術展や一般的な展示に幅広く使われます。
 
@@ -105,14 +105,14 @@ expoはビジネスや産業イベントなど大規模な催しに使われや�
 
 ## 🧩 あわせて覚えたい
 
-- [fair](/word/fair)：見本市、フェア
-- [conference](/word/conference)：会議、学会
+- [fair](/word/fair/)：見本市、フェア
+- [conference](/word/conference/)：会議、学会
 
 ---
 
 ## 📖 できればこれも
 
-- [event](/word/event)：イベント、催し
-- [seminar](/word/seminar)：セミナー、講習会
+- [event](/word/event/)：イベント、催し
+- [seminar](/word/seminar/)：セミナー、講習会
 
 <!-- cvid: aid46_bid10 -->

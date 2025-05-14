@@ -98,7 +98,7 @@ TOEICではレストランやホテル、日常会話のシーンで「dinner」
 ## 🤔  supper との違いは？
 
 - **dinner**：1日の主な食事、特に夕方の「夕食」を指す。フォーマル・カジュアル両方で使う。
-- **[supper](/word/supper)**：夕方遅くの軽めの食事を指すことが多く、地域によっては夕食全般を指す。
+- **[supper](/word/supper/)**：夕方遅くの軽めの食事を指すことが多く、地域によっては夕食全般を指す。
 
 dinnerは正式な夕食や外食にも使われ、supperは家庭的で軽い夕食に使われることが多いです。
 
@@ -106,14 +106,14 @@ dinnerは正式な夕食や外食にも使われ、supperは家庭的で軽い�
 
 ## 🧩 あわせて覚えたい
 
-- [lunch](/word/lunch)：昼食
-- [banquet](/word/banquet)：宴会、祝宴
+- [lunch](/word/lunch/)：昼食
+- [banquet](/word/banquet/)：宴会、祝宴
 
 ---
 
 ## 📖 できればこれも
 
-- [breakfast](/word/breakfast)：朝食
-- [meal](/word/meal)：食事
+- [breakfast](/word/breakfast/)：朝食
+- [meal](/word/meal/)：食事
 
 <!-- cvid: aid21_bid14 -->

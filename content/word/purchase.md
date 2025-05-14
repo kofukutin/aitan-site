@@ -98,7 +98,7 @@ TOEICでは主にビジネス文書やEメール、注文書などで「購入�
 ## 🤔  buy との違いは？
 
 - **purchase**：フォーマルでビジネス文書や公式な場面で使われる「購入する」
-- **[buy](/word/buy)**：日常的でカジュアルな「買う」
+- **[buy](/word/buy/)**：日常的でカジュアルな「買う」
 
 purchaseは契約や取引など改まった場面で使われ、buyは普段の買い物などカジュアルな場面で使われます。
 
@@ -106,14 +106,14 @@ purchaseは契約や取引など改まった場面で使われ、buyは普段の
 
 ## 🧩 あわせて覚えたい
 
-- [acquire](/word/acquire)：（努力して）手に入れる
-- [lease](/word/lease)：賃貸する、リースする
+- [acquire](/word/acquire/)：（努力して）手に入れる
+- [lease](/word/lease/)：賃貸する、リースする
 
 ---
 
 ## 📖 できればこれも
 
-- [order](/word/order)：注文する
-- [pay](/word/pay)：支払う
+- [order](/word/order/)：注文する
+- [pay](/word/pay/)：支払う
 
 <!-- cvid: aid45_bid44 -->

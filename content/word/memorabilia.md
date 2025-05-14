@@ -97,7 +97,7 @@ memorabiliaはTOEICのPart 7で、展示会やイベント、コレクション�
 ## 🤔  souvenir との違いは？
 
 - **memorabilia**：特定の人物・出来事・時代などに関連した記念品や思い出の品々（集合的・フォーマル）
-- **[souvenir](/word/souvenir)**：旅行やイベントなどの記念に個人的に買う「おみやげ」
+- **[souvenir](/word/souvenir/)**：旅行やイベントなどの記念に個人的に買う「おみやげ」
 
 memorabiliaはコレクションや展示などで使われるフォーマルな語で、複数の品をまとめて指します。souvenirは個人の思い出や旅行のおみやげなど、よりカジュアルで個別の品を指します。
 
@@ -105,14 +105,14 @@ memorabiliaはコレクションや展示などで使われるフォーマルな
 
 ## 🧩 あわせて覚えたい
 
-- [keepsake](/word/keepsake)：形見、思い出の品
-- [collection](/word/collection)：収集品、コレクション
+- [keepsake](/word/keepsake/)：形見、思い出の品
+- [collection](/word/collection/)：収集品、コレクション
 
 ---
 
 ## 📖 できればこれも
 
-- [archive](/word/archive)：記録保管所、アーカイブ
-- [catalog](/word/catalog)：カタログ、目録
+- [archive](/word/archive/)：記録保管所、アーカイブ
+- [catalog](/word/catalog/)：カタログ、目録
 
 <!-- cvid: aid24_bid17 -->

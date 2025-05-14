@@ -97,7 +97,7 @@ TOEICでは、選択肢の中で「正確な」「厳密な」という意味を
 ## 🤔  accurate との違いは？
 
 - **exact**：誤差がなく、ぴったり一致していることを強調
-- **[accurate](/word/accurate)**：正確で間違いがないことを表すが、多少の幅や許容範囲がある場合も
+- **[accurate](/word/accurate/)**：正確で間違いがないことを表すが、多少の幅や許容範囲がある場合も
 
 「exact」は「ズレが全くない」「厳密に一致」というニュアンスが強く、「accurate」は「正確だが多少の幅が許される」場合にも使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、選択肢の中で「正確な」「厳密な」という意味を
 
 ## 🧩 あわせて覚えたい
 
-- [precise](/word/precise)：より細かく、厳密であること
-- [approximate](/word/approximate)：おおよその、だいたいの
+- [precise](/word/precise/)：より細かく、厳密であること
+- [approximate](/word/approximate/)：おおよその、だいたいの
 
 ---
 
 ## 📖 できればこれも
 
-- [correct](/word/correct)：正しい、間違いがない
-- [specific](/word/specific)：具体的な、特定の
+- [correct](/word/correct/)：正しい、間違いがない
+- [specific](/word/specific/)：具体的な、特定の
 
 <!-- cvid: aid36_bid11 -->

@@ -93,7 +93,7 @@ TOEICでは会話や選択肢の説明でよく登場します。2つの選択�
 ## 🤔  neither との違いは？
 
 - **either**：2つのうち「どちらか一方」や「どちらでも」を指す
-- **[neither](/word/neither)**：2つのうち「どちらも～ない」を指す
+- **[neither](/word/neither/)**：2つのうち「どちらも～ない」を指す
 
 eitherは肯定文で「どちらか一方」、否定文で「どちらも～ない」となるのに対し、neitherは常に「どちらも～ない」という否定の意味で使います。
 
@@ -101,14 +101,14 @@ eitherは肯定文で「どちらか一方」、否定文で「どちらも～�
 
 ## 🧩 あわせて覚えたい
 
-- [both](/word/both)：両方とも
-- [any](/word/any)：どれでも（3つ以上の中から）
+- [both](/word/both/)：両方とも
+- [any](/word/any/)：どれでも（3つ以上の中から）
 
 ---
 
 ## 📖 できればこれも
 
-- [each](/word/each)：それぞれ
-- [another](/word/another)：もう一つ、別のもの
+- [each](/word/each/)：それぞれ
+- [another](/word/another/)：もう一つ、別のもの
 
 <!-- cvid: aid30_bid13 -->

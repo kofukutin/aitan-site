@@ -97,7 +97,7 @@ TOEICでは工場やビジネスの会話、説明文で頻出します。特に
 ## 🤔  production との違いは？
 
 - **manufacturing**：工場などでの工業的な「製造」や「製造業」を指す
-- **[production](/word/production)**：生産全般（農業やサービスも含む）を広く指す
+- **[production](/word/production/)**：生産全般（農業やサービスも含む）を広く指す
 
 manufacturingは主に工場での製品づくりに限定されますが、productionは「生産」全般に使えます。
 
@@ -105,14 +105,14 @@ manufacturingは主に工場での製品づくりに限定されますが、prod
 
 ## 🧩 あわせて覚えたい
 
-- [assembly](/word/assembly)：組み立て
-- [fabrication](/word/fabrication)：組み立て・製作
+- [assembly](/word/assembly/)：組み立て
+- [fabrication](/word/fabrication/)：組み立て・製作
 
 ---
 
 ## 📖 できればこれも
 
-- [factory](/word/factory)：工場
-- [process](/word/process)：工程
+- [factory](/word/factory/)：工場
+- [process](/word/process/)：工程
 
 <!-- cvid: aid06_bid15 -->

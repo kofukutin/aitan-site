@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「playing」がスポーツや楽器、ゲー�
 ## 🤔  practicing との違いは？
 
 - **playing**：楽しみや娯楽として「遊ぶ」「演奏する」「プレーする」ことを表す。
-- **[practicing](/word/practicing)**：上達や訓練を目的に「練習する」ことを表す。
+- **[practicing](/word/practicing/)**：上達や訓練を目的に「練習する」ことを表す。
 
 「playing」は楽しみや気軽な活動に使い、「practicing」は技術向上や訓練のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「playing」がスポーツや楽器、ゲー�
 
 ## 🧩 あわせて覚えたい
 
-- [enjoy](/word/enjoy)：楽しむ
-- [work](/word/work)：働く、作業する
+- [enjoy](/word/enjoy/)：楽しむ
+- [work](/word/work/)：働く、作業する
 
 ---
 
 ## 📖 できればこれも
 
-- [study](/word/study)：勉強する
-- [learn](/word/learn)：学ぶ
+- [study](/word/study/)：勉強する
+- [learn](/word/learn/)：学ぶ
 
 <!-- cvid: aid23_bid15 -->

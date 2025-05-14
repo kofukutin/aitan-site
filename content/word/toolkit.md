@@ -96,7 +96,7 @@ ITやビジネス関連の長文や説明文で、道具やソフトウェアの
 ## 🤔  toolbox との違いは？
 
 - **toolkit**：特定の目的のためにまとめられた道具やツールのセット（物理・ソフト両方）
-- **[toolbox](/word/toolbox)**：道具を入れる箱そのもの、物理的な箱を指す
+- **[toolbox](/word/toolbox/)**：道具を入れる箱そのもの、物理的な箱を指す
 
 toolkitは「セット内容」に焦点があり、toolboxは「入れ物（箱）」に焦点があります。
 
@@ -104,14 +104,14 @@ toolkitは「セット内容」に焦点があり、toolboxは「入れ物（箱
 
 ## 🧩 あわせて覚えたい
 
-- [equipment](/word/equipment)：装置、備品
-- [resource](/word/resource)：資源、手段
+- [equipment](/word/equipment/)：装置、備品
+- [resource](/word/resource/)：資源、手段
 
 ---
 
 ## 📖 できればこれも
 
-- [manual](/word/manual)：手引き、マニュアル
-- [device](/word/device)：装置、機器
+- [manual](/word/manual/)：手引き、マニュアル
+- [device](/word/device/)：装置、機器
 
 <!-- cvid: aid40_bid11 -->

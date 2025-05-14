@@ -97,7 +97,7 @@ TOEICでは「給料を得る」「利益を上げる」など、ビジネスの
 ## 🤔  gain との違いは？
 
 - **earn**：努力や働きの対価として得る（例：お金、信頼、昇進）
-- **[gain](/word/gain)**：努力の有無に関わらず「得る」「増やす」（例：経験、知識、体重）
+- **[gain](/word/gain/)**：努力の有無に関わらず「得る」「増やす」（例：経験、知識、体重）
 
 earnは「働いて得る」ことに重点があり、gainは「増やす・得る」全般に使えます。
 
@@ -105,14 +105,14 @@ earnは「働いて得る」ことに重点があり、gainは「増やす・得
 
 ## 🧩 あわせて覚えたい
 
-- [receive](/word/receive)：受け取る（受動的に得る）
-- [deserve](/word/deserve)：値する（ふさわしい）
+- [receive](/word/receive/)：受け取る（受動的に得る）
+- [deserve](/word/deserve/)：値する（ふさわしい）
 
 ---
 
 ## 📖 できればこれも
 
-- [save](/word/save)：貯める、節約する
-- [spend](/word/spend)：使う、費やす
+- [save](/word/save/)：貯める、節約する
+- [spend](/word/spend/)：使う、費やす
 
 <!-- cvid: aid13_bid42 -->

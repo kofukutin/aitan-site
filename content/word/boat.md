@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、水上の乗り物として登場す
 ## 🤔  ship との違いは？
 
 - **boat**：比較的小型の船やボートを指し、個人や少人数で使うことが多い
-- **[ship](/word/ship)**：大型の船で、多くの人や貨物を運ぶために使われる
+- **[ship](/word/ship/)**：大型の船で、多くの人や貨物を運ぶために使われる
 
 boatは小型で個人利用が多く、shipは大型で商業・輸送目的が中心です。
 
@@ -105,14 +105,14 @@ boatは小型で個人利用が多く、shipは大型で商業・輸送目的が
 
 ## 🧩 あわせて覚えたい
 
-- [ferry](/word/ferry)：定期的に人や車を運ぶフェリー
-- [canoe](/word/canoe)：細長い手漕ぎボート
+- [ferry](/word/ferry/)：定期的に人や車を運ぶフェリー
+- [canoe](/word/canoe/)：細長い手漕ぎボート
 
 ---
 
 ## 📖 できればこれも
 
-- [train](/word/train)：列車
-- [car](/word/car)：自動車
+- [train](/word/train/)：列車
+- [car](/word/car/)：自動車
 
 <!-- cvid: aid19_bid24 -->

@@ -98,7 +98,7 @@ TOEICでは形容詞の語彙問題や、文脈から「普通でない」とい
 ## 🤔  unique との違いは？
 
 - **unusual**：普通とは違う、珍しい（一般的なものから外れている）
-- **[unique](/word/unique)**：唯一無二の、他にない（完全に一つだけ）
+- **[unique](/word/unique/)**：唯一無二の、他にない（完全に一つだけ）
 
 「unusual」は「珍しい」や「普通でない」ことを指し、似たものがあってもおかしくありませんが、「unique」は「唯一の存在」という強い意味になります。
 
@@ -106,14 +106,14 @@ TOEICでは形容詞の語彙問題や、文脈から「普通でない」とい
 
 ## 🧩 あわせて覚えたい
 
-- [rare](/word/rare)：まれな、めったにない
-- [ordinary](/word/ordinary)：普通の、ありふれた
+- [rare](/word/rare/)：まれな、めったにない
+- [ordinary](/word/ordinary/)：普通の、ありふれた
 
 ---
 
 ## 📖 できればこれも
 
-- [typical](/word/typical)：典型的な、よくある
-- [strange](/word/strange)：奇妙な、不思議な
+- [typical](/word/typical/)：典型的な、よくある
+- [strange](/word/strange/)：奇妙な、不思議な
 
 <!-- cvid: aid46_bid03 -->

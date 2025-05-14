@@ -97,7 +97,7 @@ TOEICでは主に説明文やIT関連の長文で登場し、建築やシステ�
 ## 🤔  structure との違いは？
 
 - **architecture**：全体の設計や様式、特に芸術性や計画性を強調
-- **[structure](/word/structure)**：物理的な構造や枠組み自体を指す
+- **[structure](/word/structure/)**：物理的な構造や枠組み自体を指す
 
 architectureは「設計思想」や「美的な様式」に焦点を当てるのに対し、structureは「骨組み」や「物理的な構造」に重点があります。
 
@@ -105,14 +105,14 @@ architectureは「設計思想」や「美的な様式」に焦点を当てる�
 
 ## 🧩 あわせて覚えたい
 
-- [design](/word/design)：設計、デザイン
-- [framework](/word/framework)：枠組み、骨組み
+- [design](/word/design/)：設計、デザイン
+- [framework](/word/framework/)：枠組み、骨組み
 
 ---
 
 ## 📖 できればこれも
 
-- [engineer](/word/engineer)：技術者、エンジニア
-- [construction](/word/construction)：建設、建造
+- [engineer](/word/engineer/)：技術者、エンジニア
+- [construction](/word/construction/)：建設、建造
 
 <!-- cvid: aid15_bid43 -->

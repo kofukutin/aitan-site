@@ -97,7 +97,7 @@ TOEICではメールや案内文などで「ご協力に感謝します」「ご
 ## 🤔  valued との違いは？
 
 - **appreciated**：感謝されている、ありがたく思われている
-- **[valued](/word/valued)**：価値があると認められている、大切にされている
+- **[valued](/word/valued/)**：価値があると認められている、大切にされている
 
 **appreciated**は「感謝」の気持ちが強調され、**valued**は「重要性」や「価値」が強調されます。感謝を伝える場面ではappreciated、大切にしていることを伝える場面ではvaluedを使います。
 
@@ -105,14 +105,14 @@ TOEICではメールや案内文などで「ご協力に感謝します」「ご
 
 ## 🧩 あわせて覚えたい
 
-- [grateful](/word/grateful)：感謝している
-- [recognized](/word/recognized)：認められている
+- [grateful](/word/grateful/)：感謝している
+- [recognized](/word/recognized/)：認められている
 
 ---
 
 ## 📖 できればこれも
 
-- [appreciate](/word/appreciate)：感謝する、価値を認める
-- [thankful](/word/thankful)：ありがたく思っている
+- [appreciate](/word/appreciate/)：感謝する、価値を認める
+- [thankful](/word/thankful/)：ありがたく思っている
 
 <!-- cvid: aid29_bid44 -->

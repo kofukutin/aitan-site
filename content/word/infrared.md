@@ -97,7 +97,7 @@ TOEICでは科学技術や製品説明の文脈で登場することが多い単
 ## 🤔  ultraviolet との違いは？
 
 - **infrared**：赤より波長が長い「赤外線」のこと。主に熱検知やリモコンなどに使われる。
-- **[ultraviolet](/word/ultraviolet)**：紫より波長が短い「紫外線」のこと。殺菌や日焼けなどに関係する。
+- **[ultraviolet](/word/ultraviolet/)**：紫より波長が短い「紫外線」のこと。殺菌や日焼けなどに関係する。
 
 infraredは「赤外線」、ultravioletは「紫外線」で、波長の位置や用途が異なります。
 
@@ -105,14 +105,14 @@ infraredは「赤外線」、ultravioletは「紫外線」で、波長の位置�
 
 ## 🧩 あわせて覚えたい
 
-- [thermal](/word/thermal)：熱の、温度の
-- [visible](/word/visible)：目に見える
+- [thermal](/word/thermal/)：熱の、温度の
+- [visible](/word/visible/)：目に見える
 
 ---
 
 ## 📖 できればこれも
 
-- [laser](/word/laser)：レーザー
-- [spectrum](/word/spectrum)：スペクトル、範囲
+- [laser](/word/laser/)：レーザー
+- [spectrum](/word/spectrum/)：スペクトル、範囲
 
 <!-- cvid: aid04_bid02 -->

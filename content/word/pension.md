@@ -97,7 +97,7 @@ TOEICでは、福利厚生や退職制度に関する文書やメール、案内
 ## 🤔  annuity との違いは？
 
 - **pension**：主に退職後に受け取る年金や恩給を指し、企業や政府が支給することが多い。
-- **[annuity](/word/annuity)**：一定期間または生涯にわたり定期的に支払われる年金や保険金を指し、金融商品として使われることが多い。
+- **[annuity](/word/annuity/)**：一定期間または生涯にわたり定期的に支払われる年金や保険金を指し、金融商品として使われることが多い。
 
 pensionは「退職後の生活資金」としての年金、annuityは「金融商品としての年金」というニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ pensionは「退職後の生活資金」としての年金、annuityは「金融
 
 ## 🧩 あわせて覚えたい
 
-- [retirement](/word/retirement)：退職、引退
-- [benefit](/word/benefit)：福利厚生、手当
+- [retirement](/word/retirement/)：退職、引退
+- [benefit](/word/benefit/)：福利厚生、手当
 
 ---
 
 ## 📖 できればこれも
 
-- [salary](/word/salary)：給料
-- [bonus](/word/bonus)：賞与、ボーナス
+- [salary](/word/salary/)：給料
+- [bonus](/word/bonus/)：賞与、ボーナス
 
 <!-- cvid: aid44_bid06 -->

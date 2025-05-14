@@ -97,7 +97,7 @@ TOEICでは「目標を達成する」「成果を上げる」といった文脈
 ## 🤔  accomplish との違いは？
 
 - **achieve**：努力や時間をかけて目標や成功を達成する
-- **[accomplish](/word/accomplish)**：計画や任務など具体的なタスクを完了・成し遂げる
+- **[accomplish](/word/accomplish/)**：計画や任務など具体的なタスクを完了・成し遂げる
 
 achieveは「目標や夢の達成」に幅広く使われ、accomplishは「具体的な仕事や任務の完了」に使われることが多いです。
 
@@ -105,14 +105,14 @@ achieveは「目標や夢の達成」に幅広く使われ、accomplishは「具
 
 ## 🧩 あわせて覚えたい
 
-- [attain](/word/attain)：（努力して）達成する
-- [fail](/word/fail)：失敗する
+- [attain](/word/attain/)：（努力して）達成する
+- [fail](/word/fail/)：失敗する
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/word/improve)：改善する
-- [progress](/word/progress)：進歩する
+- [improve](/word/improve/)：改善する
+- [progress](/word/progress/)：進歩する
 
 <!-- cvid: aid16_bid20 -->

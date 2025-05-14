@@ -99,7 +99,7 @@ TOEICでは、誰かを迎える場面や、来客対応のフレーズとして
 ## 🤔  greet との違いは？
 
 - **welcome**：相手を温かく迎え入れる、歓迎する
-- **[greet](/word/greet)**：挨拶する、声をかける
+- **[greet](/word/greet/)**：挨拶する、声をかける
 
 「welcome」は相手を受け入れる気持ちを強調し、「greet」は単に挨拶や声かけを指します。
 
@@ -107,14 +107,14 @@ TOEICでは、誰かを迎える場面や、来客対応のフレーズとして
 
 ## 🧩 あわせて覚えたい
 
-- [invite](/word/invite)：招待する
-- [accept](/word/accept)：受け入れる
+- [invite](/word/invite/)：招待する
+- [accept](/word/accept/)：受け入れる
 
 ---
 
 ## 📖 できればこれも
 
-- [join](/word/join)：参加する
-- [meet](/word/meet)：会う
+- [join](/word/join/)：参加する
+- [meet](/word/meet/)：会う
 
 <!-- cvid: aid43_bid44 -->

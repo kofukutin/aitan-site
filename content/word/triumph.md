@@ -97,7 +97,7 @@ triumphはTOEICの長文読解（Part 7）で、成功や成果を強調する�
 ## 🤔  victory との違いは？
 
 - **triumph**：困難を乗り越えた末の大きな勝利や達成感を強調する。
-- **[victory](/word/victory)**：単に勝敗が決した「勝ち」を表す。
+- **[victory](/word/victory/)**：単に勝敗が決した「勝ち」を表す。
 
 triumphは感情や達成感を伴う勝利、victoryは客観的な「勝ち」に使われることが多いです。
 
@@ -105,14 +105,14 @@ triumphは感情や達成感を伴う勝利、victoryは客観的な「勝ち」
 
 ## 🧩 あわせて覚えたい
 
-- [achievement](/word/achievement)：達成、業績
-- [defeat](/word/defeat)：敗北、打ち負かすこと
+- [achievement](/word/achievement/)：達成、業績
+- [defeat](/word/defeat/)：敗北、打ち負かすこと
 
 ---
 
 ## 📖 できればこれも
 
-- [success](/word/success)：成功
-- [celebrate](/word/celebrate)：祝う
+- [success](/word/success/)：成功
+- [celebrate](/word/celebrate/)：祝う
 
 <!-- cvid: aid41_bid12 -->

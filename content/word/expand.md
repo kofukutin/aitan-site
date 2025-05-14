@@ -97,7 +97,7 @@ TOEICではビジネスの成長や事業拡大の文脈でよく出題されま
 ## 🤔  extend との違いは？
 
 - **expand**：範囲や規模を全体的に広げる、内容を増やす
-- **[extend](/word/extend)**：長さや期間、時間を「伸ばす」「延長する」
+- **[extend](/word/extend/)**：長さや期間、時間を「伸ばす」「延長する」
 
 expandは「全体的に広がる」イメージ、extendは「一方向に伸びる」イメージで使い分けます。
 
@@ -105,14 +105,14 @@ expandは「全体的に広がる」イメージ、extendは「一方向に伸�
 
 ## 🧩 あわせて覚えたい
 
-- [contract](/word/contract)：縮小する、契約（動詞・名詞）
-- [enlarge](/word/enlarge)：大きくする、拡大する（動詞）
+- [contract](/word/contract/)：縮小する、契約（動詞・名詞）
+- [enlarge](/word/enlarge/)：大きくする、拡大する（動詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [increase](/word/increase)：増やす、増加する（動詞・名詞）
-- [develop](/word/develop)：発展させる、開発する（動詞）
+- [increase](/word/increase/)：増やす、増加する（動詞・名詞）
+- [develop](/word/develop/)：発展させる、開発する（動詞）
 
 <!-- cvid: aid41_bid02 -->

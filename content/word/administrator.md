@@ -97,7 +97,7 @@ TOEICでは、会社や団体の役職名や担当者を説明する文脈でよ
 ## 🤔  manager との違いは？
 
 - **administrator**：主に事務的・運営的な管理を担当する人
-- **[manager](/word/manager)**：人やチーム、業務全体を統括・指導する責任者
+- **[manager](/word/manager/)**：人やチーム、業務全体を統括・指導する責任者
 
 administratorは運営や手続きの管理に重点があり、managerは人や業務の統括・指導に重点があります。
 
@@ -105,14 +105,14 @@ administratorは運営や手続きの管理に重点があり、managerは人や
 
 ## 🧩 あわせて覚えたい
 
-- [executive](/word/executive)：経営幹部、重役
-- [supervisor](/word/supervisor)：監督者、指導者
+- [executive](/word/executive/)：経営幹部、重役
+- [supervisor](/word/supervisor/)：監督者、指導者
 
 ---
 
 ## 📖 できればこれも
 
-- [director](/word/director)：取締役、部長
-- [officer](/word/officer)：役員、担当者
+- [director](/word/director/)：取締役、部長
+- [officer](/word/officer/)：役員、担当者
 
 <!-- cvid: aid23_bid03 -->

@@ -97,7 +97,7 @@ TOEICでは会話文やカジュアルな表現で「大敗」や「なめるこ
 ## 🤔  beating との違いは？
 
 - **licking**：カジュアルで口語的な「大敗」「ひどい負け」や「なめること」
-- **[beating](/word/beating)**：ややフォーマルで「打ち負かすこと」「殴打」など幅広い意味
+- **[beating](/word/beating/)**：ややフォーマルで「打ち負かすこと」「殴打」など幅広い意味
 
 「licking」は特に日常会話で使われる軽い響きがあり、「beating」はより一般的でやや強いニュアンスがあります。
 
@@ -105,14 +105,14 @@ TOEICでは会話文やカジュアルな表現で「大敗」や「なめるこ
 
 ## 🧩 あわせて覚えたい
 
-- [defeat](/word/defeat)：敗北、負かすこと
-- [victory](/word/victory)：勝利
+- [defeat](/word/defeat/)：敗北、負かすこと
+- [victory](/word/victory/)：勝利
 
 ---
 
 ## 📖 できればこれも
 
-- [loss](/word/loss)：損失、敗北
-- [failure](/word/failure)：失敗、不成功
+- [loss](/word/loss/)：損失、敗北
+- [failure](/word/failure/)：失敗、不成功
 
 <!-- cvid: aid43_bid34 -->

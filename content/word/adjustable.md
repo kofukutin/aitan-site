@@ -97,7 +97,7 @@ TOEICでは、adjustableはオフィス用品や設備、スケジュール調�
 ## 🤔  flexible との違いは？
 
 - **adjustable**：物理的に大きさや高さなどを「調節できる」ことを表す
-- **[flexible](/word/flexible)**：柔軟性があり「曲げられる」「融通がきく」ことを表す
+- **[flexible](/word/flexible/)**：柔軟性があり「曲げられる」「融通がきく」ことを表す
 
 adjustableは主に機械や家具などの「調節可能」な性質に使い、flexibleは「柔軟性」や「対応力」に重点があります。
 
@@ -105,14 +105,14 @@ adjustableは主に機械や家具などの「調節可能」な性質に使い�
 
 ## 🧩 あわせて覚えたい
 
-- [fixed](/word/fixed)：固定された、動かせない
-- [modify](/word/modify)：修正する、変更する
+- [fixed](/word/fixed/)：固定された、動かせない
+- [modify](/word/modify/)：修正する、変更する
 
 ---
 
 ## 📖 できればこれも
 
-- [automatic](/word/automatic)：自動の
-- [manual](/word/manual)：手動の
+- [automatic](/word/automatic/)：自動の
+- [manual](/word/manual/)：手動の
 
 <!-- cvid: aid34_bid22 -->

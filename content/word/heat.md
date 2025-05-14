@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「熱」「暖房」「暑さ」などの意味
 ## 🤔  temperature との違いは？
 
 - **heat**：熱そのものや暑さ、熱エネルギーを指す
-- **[temperature](/word/temperature)**：温度という数値や状態を指す
+- **[temperature](/word/temperature/)**：温度という数値や状態を指す
 
 「heat」は感じる熱や熱エネルギー、「temperature」は温度計で測る数値や状態を表します。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「熱」「暖房」「暑さ」などの意味
 
 ## 🧩 あわせて覚えたい
 
-- [warmth](/word/warmth)：暖かさ、ぬくもり
-- [cold](/word/cold)：寒さ、冷たさ
+- [warmth](/word/warmth/)：暖かさ、ぬくもり
+- [cold](/word/cold/)：寒さ、冷たさ
 
 ---
 
 ## 📖 できればこれも
 
-- [energy](/word/energy)：エネルギー
-- [light](/word/light)：光
+- [energy](/word/energy/)：エネルギー
+- [light](/word/light/)：光
 
 <!-- cvid: aid42_bid15 -->

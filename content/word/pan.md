@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、キッチンや調理場面の説明
 ## 🤔  pot との違いは？
 
 - **pan**：底が平らで浅い鍋やフライパン
-- **[pot](/word/pot)**：深さがあり、煮込みや茹でるのに使う鍋
+- **[pot](/word/pot/)**：深さがあり、煮込みや茹でるのに使う鍋
 
 panは焼く・炒めるなどの調理に、potは煮る・茹でるなどに使われる点が異なります。
 
@@ -105,14 +105,14 @@ panは焼く・炒めるなどの調理に、potは煮る・茹でるなどに�
 
 ## 🧩 あわせて覚えたい
 
-- [frying pan](/word/frying_pan)：フライパン
-- [bowl](/word/bowl)：ボウル、深皿
+- [frying pan](/word/frying_pan/)：フライパン
+- [bowl](/word/bowl/)：ボウル、深皿
 
 ---
 
 ## 📖 できればこれも
 
-- [plate](/word/plate)：皿
-- [cup](/word/cup)：カップ
+- [plate](/word/plate/)：皿
+- [cup](/word/cup/)：カップ
 
 <!-- cvid: aid40_bid38 -->

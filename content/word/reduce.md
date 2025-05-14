@@ -97,7 +97,7 @@ TOEICでは「コスト削減」や「リスクを減らす」など、ビジネ
 ## 🤔  decrease との違いは？
 
 - **reduce**：意図的に何かを減らす、能動的なニュアンス
-- **[decrease](/word/decrease)**：自然に減る、または減らす（やや受動的）
+- **[decrease](/word/decrease/)**：自然に減る、または減らす（やや受動的）
 
 reduceは「自分で減らす」など積極的な行動を表し、decreaseは「数値が下がる」など自然な変化にも使われます。
 
@@ -105,14 +105,14 @@ reduceは「自分で減らす」など積極的な行動を表し、decreaseは
 
 ## 🧩 あわせて覚えたい
 
-- [increase](/word/increase)：増やす、増加する
-- [cut](/word/cut)：切る、削減する
+- [increase](/word/increase/)：増やす、増加する
+- [cut](/word/cut/)：切る、削減する
 
 ---
 
 ## 📖 できればこれも
 
-- [save](/word/save)：節約する、保存する
-- [limit](/word/limit)：制限する
+- [save](/word/save/)：節約する、保存する
+- [limit](/word/limit/)：制限する
 
 <!-- cvid: aid02_bid27 -->

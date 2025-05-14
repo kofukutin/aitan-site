@@ -97,7 +97,7 @@ TOEICでは、科学技術や製品説明の文脈でtitaniumが登場するこ�
 ## 🤔  aluminum との違いは？
 
 - **titanium**：軽くて強度が高く、さびにくい高価な金属。
-- **[aluminum](/word/aluminum)**：軽量で安価、さびにくいが強度はtitaniumより劣る金属。
+- **[aluminum](/word/aluminum/)**：軽量で安価、さびにくいが強度はtitaniumより劣る金属。
 
 titaniumはより高価で強度が必要な場面に使われ、aluminumはコストや加工性を重視する場面で使われます。
 
@@ -105,14 +105,14 @@ titaniumはより高価で強度が必要な場面に使われ、aluminumはコ�
 
 ## 🧩 あわせて覚えたい
 
-- [steel](/word/steel)：鋼鉄、強度が高く広く使われる金属
-- [alloy](/word/alloy)：合金、2種類以上の金属を混ぜたもの
+- [steel](/word/steel/)：鋼鉄、強度が高く広く使われる金属
+- [alloy](/word/alloy/)：合金、2種類以上の金属を混ぜたもの
 
 ---
 
 ## 📖 できればこれも
 
-- [copper](/word/copper)：銅、電気伝導性が高い金属
-- [metal](/word/metal)：金属、一般的な金属の総称
+- [copper](/word/copper/)：銅、電気伝導性が高い金属
+- [metal](/word/metal/)：金属、一般的な金属の総称
 
 <!-- cvid: aid04_bid31 -->

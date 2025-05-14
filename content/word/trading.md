@@ -97,7 +97,7 @@ tradingはTOEICの長文読解やビジネス関連の文書でよく見かけ�
 ## 🤔  transaction との違いは？
 
 - **trading**：取引や売買という活動全体やプロセスを指す。
-- **[transaction](/word/transaction)**：個々の取引や売買の「1件」を指す。
+- **[transaction](/word/transaction/)**：個々の取引や売買の「1件」を指す。
 
 tradingは「取引活動」全体、transactionは「1回の取引」という違いがあります。
 
@@ -105,14 +105,14 @@ tradingは「取引活動」全体、transactionは「1回の取引」という�
 
 ## 🧩 あわせて覚えたい
 
-- [exchange](/word/exchange)：交換、両替
-- [commerce](/word/commerce)：商業、商取引
+- [exchange](/word/exchange/)：交換、両替
+- [commerce](/word/commerce/)：商業、商取引
 
 ---
 
 ## 📖 できればこれも
 
-- [investment](/word/investment)：投資
-- [market](/word/market)：市場
+- [investment](/word/investment/)：投資
+- [market](/word/market/)：市場
 
 <!-- cvid: aid29_bid29 -->

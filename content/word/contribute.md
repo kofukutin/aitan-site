@@ -97,7 +97,7 @@ TOEICでは「貢献する」「寄付する」の意味で、文法や語彙問
 ## 🤔  donate との違いは？
 
 - **contribute**：貢献する、または何かを提供する（広い意味で使う）
-- **[donate](/word/donate)**：主にお金や物を「寄付する」（慈善的な意味が強い）
+- **[donate](/word/donate/)**：主にお金や物を「寄付する」（慈善的な意味が強い）
 
 contributeは「力やアイデア、時間」など幅広いものに使えますが、donateは「お金や物」を無償で与える場合に限定されます。
 
@@ -105,14 +105,14 @@ contributeは「力やアイデア、時間」など幅広いものに使えま�
 
 ## 🧩 あわせて覚えたい
 
-- [support](/word/support)：支援する、支える
-- [participate](/word/participate)：参加する
+- [support](/word/support/)：支援する、支える
+- [participate](/word/participate/)：参加する
 
 ---
 
 ## 📖 できればこれも
 
-- [promote](/word/promote)：促進する、推進する
-- [improve](/word/improve)：改善する、向上させる
+- [promote](/word/promote/)：促進する、推進する
+- [improve](/word/improve/)：改善する、向上させる
 
 <!-- cvid: aid47_bid37 -->

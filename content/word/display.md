@@ -98,7 +98,7 @@ TOEICでは、会話や説明文で「表示する」「展示する」という
 ## 🤔  exhibit との違いは？
 
 - **display**：一般的に「見せる」「表示する」「展示する」と幅広く使う
-- **[exhibit](/word/exhibit)**：特に「公式に展示する」「博物館や美術館で展示する」などフォーマルな場面で使う
+- **[exhibit](/word/exhibit/)**：特に「公式に展示する」「博物館や美術館で展示する」などフォーマルな場面で使う
 
 displayは日常的・IT的な「見せる」にも使えますが、exhibitは公式な展示やイベントで使われることが多いです。
 
@@ -106,14 +106,14 @@ displayは日常的・IT的な「見せる」にも使えますが、exhibitは�
 
 ## 🧩 あわせて覚えたい
 
-- [show](/word/show)：見せる、示す
-- [present](/word/present)：提示する、発表する
+- [show](/word/show/)：見せる、示す
+- [present](/word/present/)：提示する、発表する
 
 ---
 
 ## 📖 できればこれも
 
-- [demonstrate](/word/demonstrate)：実演する、証明する
-- [indicate](/word/indicate)：示す、指し示す
+- [demonstrate](/word/demonstrate/)：実演する、証明する
+- [indicate](/word/indicate/)：示す、指し示す
 
 <!-- cvid: aid37_bid19 -->

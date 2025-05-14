@@ -97,7 +97,7 @@ TOEICでは会話や指示文で「素早く対応する」「速やかに行う
 ## 🤔  rapidly との違いは？
 
 - **quickly**：日常的な「速く」「素早く」を表し、カジュアルな場面でもよく使う。
-- **[rapidly](/word/rapidly)**：よりフォーマルで、「急速に」「短期間で大きく変化する」ニュアンスが強い。
+- **[rapidly](/word/rapidly/)**：よりフォーマルで、「急速に」「短期間で大きく変化する」ニュアンスが強い。
 
 quicklyは日常の動作や行動の速さ、rapidlyは変化や進行のスピードに使われることが多いです。
 
@@ -105,14 +105,14 @@ quicklyは日常の動作や行動の速さ、rapidlyは変化や進行のスピ
 
 ## 🧩 あわせて覚えたい
 
-- [slowly](/word/slowly)：ゆっくりと
-- [promptly](/word/promptly)：即座に、すぐに
+- [slowly](/word/slowly/)：ゆっくりと
+- [promptly](/word/promptly/)：即座に、すぐに
 
 ---
 
 ## 📖 できればこれも
 
-- [fast](/word/fast)：速く
-- [immediately](/word/immediately)：すぐに
+- [fast](/word/fast/)：速く
+- [immediately](/word/immediately/)：すぐに
 
 <!-- cvid: aid27_bid22 -->

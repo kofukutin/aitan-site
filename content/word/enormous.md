@@ -97,7 +97,7 @@ TOEICでは、enormousは主に形容詞の語彙問題や、ビジネス文書�
 ## 🤔  huge との違いは？
 
 - **enormous**：規格外に大きい、量や影響力が非常に大きいことを強調
-- **[huge](/word/huge)**：単純に「とても大きい」、カジュアルな場面でもよく使う
+- **[huge](/word/huge/)**：単純に「とても大きい」、カジュアルな場面でもよく使う
 
 enormousは「並外れて大きい」「圧倒的」という強調があり、hugeは「大きい」ことを幅広く表現します。
 
@@ -105,14 +105,14 @@ enormousは「並外れて大きい」「圧倒的」という強調があり、
 
 ## 🧩 あわせて覚えたい
 
-- [massive](/word/massive)：巨大な、重厚な
-- [tiny](/word/tiny)：とても小さい
+- [massive](/word/massive/)：巨大な、重厚な
+- [tiny](/word/tiny/)：とても小さい
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/word/significant)：重要な、かなりの
-- [considerable](/word/considerable)：かなりの、相当な
+- [significant](/word/significant/)：重要な、かなりの
+- [considerable](/word/considerable/)：かなりの、相当な
 
 <!-- cvid: aid21_bid25 -->

@@ -97,7 +97,7 @@ TOEICでは、人物描写や感情の動きを説明する長文やメール文
 ## 🤔  sensitive との違いは？
 
 - **emotional**：感情を表に出しやすい、感情に左右されやすい
-- **[sensitive](/word/sensitive)**：敏感な、感情や刺激に反応しやすい
+- **[sensitive](/word/sensitive/)**：敏感な、感情や刺激に反応しやすい
 
 「emotional」は感情を強く表現する様子、「sensitive」は感情や刺激に対して反応しやすい性質を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、人物描写や感情の動きを説明する長文やメール文
 
 ## 🧩 あわせて覚えたい
 
-- [rational](/word/rational)：理性的な
-- [affection](/word/affection)：愛情
+- [rational](/word/rational/)：理性的な
+- [affection](/word/affection/)：愛情
 
 ---
 
 ## 📖 できればこれも
 
-- [logical](/word/logical)：論理的な
-- [passionate](/word/passionate)：情熱的な
+- [logical](/word/logical/)：論理的な
+- [passionate](/word/passionate/)：情熱的な
 
 <!-- cvid: aid42_bid03 -->

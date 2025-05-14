@@ -97,7 +97,7 @@ TOEICでは、依頼や提案に対して前向きな姿勢を示す文脈でよ
 ## 🤔  eagerness との違いは？
 
 - **willingness**：頼まれたことや必要なことに対して「進んでやる気持ち」「快く応じる姿勢」を表す
-- **[eagerness](/word/eagerness)**：何かを「強く望む気持ち」「熱心さ」を表す
+- **[eagerness](/word/eagerness/)**：何かを「強く望む気持ち」「熱心さ」を表す
 
 willingnessは「頼まれたことに前向きに応じる」ニュアンス、eagernessは「自分から積極的にやりたい」という強い熱意を表します。
 
@@ -105,14 +105,14 @@ willingnessは「頼まれたことに前向きに応じる」ニュアンス、
 
 ## 🧩 あわせて覚えたい
 
-- [reluctance](/word/reluctance)：気が進まないこと、消極的な態度
-- [readiness](/word/readiness)：準備ができていること、即応性
+- [reluctance](/word/reluctance/)：気が進まないこと、消極的な態度
+- [readiness](/word/readiness/)：準備ができていること、即応性
 
 ---
 
 ## 📖 できればこれも
 
-- [motivation](/word/motivation)：やる気、動機
-- [attitude](/word/attitude)：態度、考え方
+- [motivation](/word/motivation/)：やる気、動機
+- [attitude](/word/attitude/)：態度、考え方
 
 <!-- cvid: aid06_bid37 -->

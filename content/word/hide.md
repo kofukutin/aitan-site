@@ -97,7 +97,7 @@ hideは会話文や説明文で「隠す」「隠れる」という意味で出�
 ## 🤔  cover との違いは？
 
 - **hide**：見えないように完全に隠す、または自分が隠れる
-- **[cover](/word/cover)**：何かを覆って見えなくする、または保護する
+- **[cover](/word/cover/)**：何かを覆って見えなくする、または保護する
 
 hideは「存在自体を見えなくする」イメージ、coverは「表面を覆う」イメージで、隠す度合いや方法が異なります。
 
@@ -105,14 +105,14 @@ hideは「存在自体を見えなくする」イメージ、coverは「表面�
 
 ## 🧩 あわせて覚えたい
 
-- [reveal](/word/reveal)：明らかにする、見せる
-- [conceal](/word/conceal)：（意図的に）隠す
+- [reveal](/word/reveal/)：明らかにする、見せる
+- [conceal](/word/conceal/)：（意図的に）隠す
 
 ---
 
 ## 📖 できればこれも
 
-- [find](/word/find)：見つける
-- [search](/word/search)：探す
+- [find](/word/find/)：見つける
+- [search](/word/search/)：探す
 
 <!-- cvid: aid20_bid01 -->

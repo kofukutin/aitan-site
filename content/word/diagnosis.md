@@ -97,7 +97,7 @@ TOEICでは医療やビジネスのトラブルシューティングに関する
 ## 🤔  assessment との違いは？
 
 - **diagnosis**：病気や問題の「原因を特定する診断」
-- **[assessment](/word/assessment)**：状況や能力などを「評価・査定」すること
+- **[assessment](/word/assessment/)**：状況や能力などを「評価・査定」すること
 
 diagnosisは「原因の特定」に重点があり、assessmentは「全体的な評価・判断」に使われます。
 
@@ -105,14 +105,14 @@ diagnosisは「原因の特定」に重点があり、assessmentは「全体的�
 
 ## 🧩 あわせて覚えたい
 
-- [treatment](/word/treatment)：治療
-- [symptom](/word/symptom)：症状
+- [treatment](/word/treatment/)：治療
+- [symptom](/word/symptom/)：症状
 
 ---
 
 ## 📖 できればこれも
 
-- [prescription](/word/prescription)：処方箋
-- [analysis](/word/analysis)：分析
+- [prescription](/word/prescription/)：処方箋
+- [analysis](/word/analysis/)：分析
 
 <!-- cvid: aid22_bid20 -->

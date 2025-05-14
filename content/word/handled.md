@@ -97,7 +97,7 @@ TOEICでは、業務や問題への「対応」「処理」を表す文脈でよ
 ## 🤔  dealt との違いは？
 
 - **handled**：物事や問題を適切に処理・対応したことを強調
-- **[dealt](/word/dealt)**：特に困難や対立などに「対処した」ニュアンスが強い
+- **[dealt](/word/dealt/)**：特に困難や対立などに「対処した」ニュアンスが強い
 
 handledは幅広い「処理・対応」に使われ、dealtは「困難な状況への対処」によく使われます。
 
@@ -105,14 +105,14 @@ handledは幅広い「処理・対応」に使われ、dealtは「困難な状�
 
 ## 🧩 あわせて覚えたい
 
-- [manage](/word/manage)：管理する、うまくやる
-- [process](/word/process)：処理する、手続きを進める
+- [manage](/word/manage/)：管理する、うまくやる
+- [process](/word/process/)：処理する、手続きを進める
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange)：手配する、整える
-- [organize](/word/organize)：整理する、まとめる
+- [arrange](/word/arrange/)：手配する、整える
+- [organize](/word/organize/)：整理する、まとめる
 
 <!-- cvid: aid19_bid30 -->

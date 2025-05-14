@@ -97,7 +97,7 @@ TOEICでは、社内規則やアクセス権限、立ち入り制限などの文
 ## 🤔  limited との違いは？
 
 - **restricted**：公式なルールや権限によって「厳しく制限された」状態を強調
-- **[limited](/word/limited)**：数量や範囲が「限られている」ことを表し、必ずしも厳しい制限を意味しない
+- **[limited](/word/limited/)**：数量や範囲が「限られている」ことを表し、必ずしも厳しい制限を意味しない
 
 restrictedは「立ち入り禁止」や「閲覧制限」など、外部からの明確な制約を強調しますが、limitedは単に「数や範囲が少ない・狭い」ことを表します。
 
@@ -105,14 +105,14 @@ restrictedは「立ち入り禁止」や「閲覧制限」など、外部から�
 
 ## 🧩 あわせて覚えたい
 
-- [prohibited](/word/prohibited)：禁止された
-- [exclusive](/word/exclusive)：限定の、排他的な
+- [prohibited](/word/prohibited/)：禁止された
+- [exclusive](/word/exclusive/)：限定の、排他的な
 
 ---
 
 ## 📖 できればこれも
 
-- [confidential](/word/confidential)：機密の
-- [authorized](/word/authorized)：許可された
+- [confidential](/word/confidential/)：機密の
+- [authorized](/word/authorized/)：許可された
 
 <!-- cvid: aid26_bid00 -->

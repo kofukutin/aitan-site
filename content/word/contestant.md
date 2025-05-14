@@ -97,7 +97,7 @@ TOEICでは、コンテストやイベント、採用試験などの案内文や
 ## 🤔  competitor との違いは？
 
 - **contestant**：コンテストや試合などの「出場者」「参加者」を指す。
-- **[competitor](/word/competitor)**：ビジネスやスポーツなどで「競争相手」「ライバル」を指す。
+- **[competitor](/word/competitor/)**：ビジネスやスポーツなどで「競争相手」「ライバル」を指す。
 
 contestantは「競技やコンテストに参加する人」に限定されるのに対し、competitorは「競争する相手」全般を指し、より広い場面で使われます。
 
@@ -105,14 +105,14 @@ contestantは「競技やコンテストに参加する人」に限定される�
 
 ## 🧩 あわせて覚えたい
 
-- [participant](/word/participant)：参加者
-- [applicant](/word/applicant)：応募者
+- [participant](/word/participant/)：参加者
+- [applicant](/word/applicant/)：応募者
 
 ---
 
 ## 📖 できればこれも
 
-- [judge](/word/judge)：審査員
-- [candidate](/word/candidate)：候補者
+- [judge](/word/judge/)：審査員
+- [candidate](/word/candidate/)：候補者
 
 <!-- cvid: aid39_bid02 -->

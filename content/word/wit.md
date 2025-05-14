@@ -97,7 +97,7 @@ TOEICでは主に記事やエッセイ、ビジネスメールなどの長文中
 ## 🤔  humor との違いは？
 
 - **wit**：瞬時に機転を利かせた知的なユーモアや鋭い発言
-- **[humor](/word/humor)**：一般的なユーモアや面白さ、笑い全般
+- **[humor](/word/humor/)**：一般的なユーモアや面白さ、笑い全般
 
 witは知性や即興性が強調されるのに対し、humorは幅広い「面白さ」や「笑い」を指します。
 
@@ -105,14 +105,14 @@ witは知性や即興性が強調されるのに対し、humorは幅広い「面
 
 ## 🧩 あわせて覚えたい
 
-- [wisdom](/word/wisdom)：知恵、賢明さ
-- [intelligence](/word/intelligence)：知能、知性
+- [wisdom](/word/wisdom/)：知恵、賢明さ
+- [intelligence](/word/intelligence/)：知能、知性
 
 ---
 
 ## 📖 できればこれも
 
-- [humor](/word/humor)：ユーモア、面白さ
-- [talent](/word/talent)：才能、素質
+- [humor](/word/humor/)：ユーモア、面白さ
+- [talent](/word/talent/)：才能、素質
 
 <!-- cvid: aid12_bid01 -->

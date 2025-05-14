@@ -97,7 +97,7 @@ TOEICでは、社会や政治に関する記事やスピーチ文で登場する
 ## 🤔  republic との違いは？
 
 - **democracy**：国民が政治に参加し、意見を反映できる政治体制や国家
-- **[republic](/word/republic)**：国民が選んだ代表者が統治する国家（君主制でない）
+- **[republic](/word/republic/)**：国民が選んだ代表者が統治する国家（君主制でない）
 
 democracyは「国民の意思が反映される政治体制」全般を指し、republicは「君主がいない代表制国家」を意味します。両者は重なる部分もありますが、republicは制度の形、democracyは政治の原則に重点があります。
 
@@ -105,14 +105,14 @@ democracyは「国民の意思が反映される政治体制」全般を指し�
 
 ## 🧩 あわせて覚えたい
 
-- [dictatorship](/word/dictatorship)：独裁政治
-- [election](/word/election)：選挙
+- [dictatorship](/word/dictatorship/)：独裁政治
+- [election](/word/election/)：選挙
 
 ---
 
 ## 📖 できればこれも
 
-- [constitution](/word/constitution)：憲法
-- [freedom](/word/freedom)：自由
+- [constitution](/word/constitution/)：憲法
+- [freedom](/word/freedom/)：自由
 
 <!-- cvid: aid26_bid11 -->

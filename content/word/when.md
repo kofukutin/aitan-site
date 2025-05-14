@@ -93,7 +93,7 @@ TOEICではPart 2の応答問題や、Part 3・4の会話文中でよく登場�
 ## 🤔  while との違いは？
 
 - **when**：ある出来事が起こる「瞬間」や「タイミング」を表す
-- **[while](/word/while)**：2つの出来事が「同時進行」している「間」を表す
+- **[while](/word/while/)**：2つの出来事が「同時進行」している「間」を表す
 
 whenは「～したとき」と一点のタイミング、whileは「～している間」と継続する時間を表します。
 
@@ -101,14 +101,14 @@ whenは「～したとき」と一点のタイミング、whileは「～して�
 
 ## 🧩 あわせて覚えたい
 
-- [before](/word/before)：～の前に
-- [after](/word/after)：～の後に
+- [before](/word/before/)：～の前に
+- [after](/word/after/)：～の後に
 
 ---
 
 ## 📖 できればこれも
 
-- [where](/word/where)：どこで
-- [if](/word/if)：もし～なら
+- [where](/word/where/)：どこで
+- [if](/word/if/)：もし～なら
 
 <!-- cvid: aid45_bid18 -->

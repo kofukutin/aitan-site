@@ -94,7 +94,7 @@ The company hereby agrees to the terms stated above.
 ## 🤔  therefore との違いは？
 
 - **hereby**：この文書や行為によって公式に何かを実行・宣言する際に使うフォーマルな副詞
-- **[therefore](/word/therefore)**：理由や結果を述べるときに使う「したがって」「それゆえに」という意味の副詞
+- **[therefore](/word/therefore/)**：理由や結果を述べるときに使う「したがって」「それゆえに」という意味の副詞
 
 herebyは「この手続き・文書によって」という公式な場面限定で使われ、thereforeは因果関係を説明する一般的な副詞です。
 
@@ -102,14 +102,14 @@ herebyは「この手続き・文書によって」という公式な場面限�
 
 ## 🧩 あわせて覚えたい
 
-- [whereas](/word/whereas)：一方で（対比を示す接続詞）
-- [thus](/word/thus)：したがって、それゆえに（結果を示す副詞）
+- [whereas](/word/whereas/)：一方で（対比を示す接続詞）
+- [thus](/word/thus/)：したがって、それゆえに（結果を示す副詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [herein](/word/herein)：この中で（文書内を指すフォーマルな副詞）
-- [therein](/word/therein)：その中で（他の文書や場所を指すフォーマルな副詞）
+- [herein](/word/herein/)：この中で（文書内を指すフォーマルな副詞）
+- [therein](/word/therein/)：その中で（他の文書や場所を指すフォーマルな副詞）
 
 <!-- cvid: aid05_bid49 -->

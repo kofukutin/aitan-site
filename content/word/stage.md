@@ -97,7 +97,7 @@ TOEICでは会議やプロジェクト進行の文脈で「段階」という意
 ## 🤔  phase との違いは？
 
 - **stage**：進行や発展の明確な「段階」や「舞台」
-- **[phase](/word/phase)**：変化や発展の「局面」「時期」
+- **[phase](/word/phase/)**：変化や発展の「局面」「時期」
 
 stageはプロジェクトや計画の明確な区切りを指し、phaseは変化の流れや一時的な状態を強調します。
 
@@ -105,14 +105,14 @@ stageはプロジェクトや計画の明確な区切りを指し、phaseは変�
 
 ## 🧩 あわせて覚えたい
 
-- [step](/word/step)：一歩、手順
-- [level](/word/level)：レベル、段階
+- [step](/word/step/)：一歩、手順
+- [level](/word/level/)：レベル、段階
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process)：過程、プロセス
-- [progress](/word/progress)：進歩、進行
+- [process](/word/process/)：過程、プロセス
+- [progress](/word/progress/)：進歩、進行
 
 <!-- cvid: aid24_bid32 -->

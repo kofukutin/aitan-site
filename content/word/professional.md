@@ -98,7 +98,7 @@ TOEICでは、求人広告やビジネス文書、メールなどで「professio
 ## 🤔  expert との違いは？
 
 - **professional**：職業として専門的な知識や技能を持つ人、またはその分野で生計を立てている人。
-- **[expert](/word/expert)**：特定分野に非常に詳しい人だが、必ずしも職業としているとは限らない。
+- **[expert](/word/expert/)**：特定分野に非常に詳しい人だが、必ずしも職業としているとは限らない。
 
 professionalは「職業としての専門家」、expertは「知識や経験が豊富な人」という違いがあります。
 
@@ -106,14 +106,14 @@ professionalは「職業としての専門家」、expertは「知識や経験�
 
 ## 🧩 あわせて覚えたい
 
-- [amateur](/word/amateur)：素人、アマチュア
-- [specialist](/word/specialist)：専門家、スペシャリスト
+- [amateur](/word/amateur/)：素人、アマチュア
+- [specialist](/word/specialist/)：専門家、スペシャリスト
 
 ---
 
 ## 📖 できればこれも
 
-- [career](/word/career)：経歴、職業
-- [occupation](/word/occupation)：職業、仕事
+- [career](/word/career/)：経歴、職業
+- [occupation](/word/occupation/)：職業、仕事
 
 <!-- cvid: aid15_bid00 -->

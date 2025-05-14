@@ -97,7 +97,7 @@ TOEICでは、メールや会話のやり取り、ビジネス文書で「respon
 ## 🤔  reply との違いは？
 
 - **response**：質問や出来事への返答・反応全般を指し、ややフォーマル。
-- **[reply](/word/reply)**：主にメールや会話などでの「返事」「返答」を指し、ややカジュアル。
+- **[reply](/word/reply/)**：主にメールや会話などでの「返事」「返答」を指し、ややカジュアル。
 
 「response」は幅広い反応や返答に使われ、ビジネスやフォーマルな場面でよく使われます。「reply」は直接的な返事や返信に使われ、日常会話でもよく使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、メールや会話のやり取り、ビジネス文書で「respon
 
 ## 🧩 あわせて覚えたい
 
-- [reaction](/word/reaction)：反応、リアクション
-- [feedback](/word/feedback)：意見、フィードバック
+- [reaction](/word/reaction/)：反応、リアクション
+- [feedback](/word/feedback/)：意見、フィードバック
 
 ---
 
 ## 📖 できればこれも
 
-- [request](/word/request)：依頼、要請
-- [inquiry](/word/inquiry)：問い合わせ
+- [request](/word/request/)：依頼、要請
+- [inquiry](/word/inquiry/)：問い合わせ
 
 <!-- cvid: aid18_bid40 -->

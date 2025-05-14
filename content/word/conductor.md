@@ -97,7 +97,7 @@ TOEICでは、交通や音楽、電気に関する長文や説明文で見かけ
 ## 🤔  director との違いは？
 
 - **conductor**：オーケストラの指揮者や列車の車掌など、現場で直接「導く」役割。
-- **[director](/word/director)**：会社や映画などで「全体を統括・管理する」役割。
+- **[director](/word/director/)**：会社や映画などで「全体を統括・管理する」役割。
 
 conductorは現場で直接指示や案内をする人、directorは組織やプロジェクト全体を管理する人という違いがあります。
 
@@ -105,14 +105,14 @@ conductorは現場で直接指示や案内をする人、directorは組織やプ
 
 ## 🧩 あわせて覚えたい
 
-- [manager](/word/manager)：管理者、部長
-- [supervisor](/word/supervisor)：監督者、指導者
+- [manager](/word/manager/)：管理者、部長
+- [supervisor](/word/supervisor/)：監督者、指導者
 
 ---
 
 ## 📖 できればこれも
 
-- [organizer](/word/organizer)：主催者、まとめ役
-- [presenter](/word/presenter)：発表者、プレゼンター
+- [organizer](/word/organizer/)：主催者、まとめ役
+- [presenter](/word/presenter/)：発表者、プレゼンター
 
 <!-- cvid: aid38_bid48 -->

@@ -97,7 +97,7 @@ TOEICでは主にビジネスメールや契約書、案内文などで「保証
 ## 🤔  guarantee との違いは？
 
 - **assurance**：確実性や自信、約束をフォーマルに示す言葉。精神的な「安心感」も含む。
-- **[guarantee](/word/guarantee)**：法的・契約的な「保証」を意味し、物理的・金銭的な裏付けがある場合に使う。
+- **[guarantee](/word/guarantee/)**：法的・契約的な「保証」を意味し、物理的・金銭的な裏付けがある場合に使う。
 
 assuranceは「気持ちの上での保証」や「自信」にも使えますが、guaranteeは「契約や法律に基づく保証」に限定されます。
 
@@ -105,14 +105,14 @@ assuranceは「気持ちの上での保証」や「自信」にも使えます�
 
 ## 🧩 あわせて覚えたい
 
-- [confidence](/word/confidence)：自信、信頼
-- [insurance](/word/insurance)：保険、保険制度
+- [confidence](/word/confidence/)：自信、信頼
+- [insurance](/word/insurance/)：保険、保険制度
 
 ---
 
 ## 📖 できればこれも
 
-- [commitment](/word/commitment)：約束、責任
-- [confirmation](/word/confirmation)：確認、確証
+- [commitment](/word/commitment/)：約束、責任
+- [confirmation](/word/confirmation/)：確認、確証
 
 <!-- cvid: aid11_bid15 -->

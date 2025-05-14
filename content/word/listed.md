@@ -97,7 +97,7 @@ TOEICでは、企業情報や商品説明、公式文書の中で「listed」が
 ## 🤔  registered との違いは？
 
 - **listed**：リストや一覧に載っている、証券取引所に上場している
-- **[registered](/word/registered)**：公式に登録されている、届け出されている
+- **[registered](/word/registered/)**：公式に登録されている、届け出されている
 
 「listed」は単にリストや一覧に載っていることを指し、特に証券取引所の「上場」も意味します。「registered」は公式な登録や届け出が完了していることを強調します。
 
@@ -105,14 +105,14 @@ TOEICでは、企業情報や商品説明、公式文書の中で「listed」が
 
 ## 🧩 あわせて覚えたい
 
-- [included](/word/included)：含まれている
-- [unlisted](/word/unlisted)：リストに載っていない、非上場の
+- [included](/word/included/)：含まれている
+- [unlisted](/word/unlisted/)：リストに載っていない、非上場の
 
 ---
 
 ## 📖 できればこれも
 
-- [approved](/word/approved)：承認された
-- [recorded](/word/recorded)：記録された
+- [approved](/word/approved/)：承認された
+- [recorded](/word/recorded/)：記録された
 
 <!-- cvid: aid07_bid05 -->

@@ -97,7 +97,7 @@ TOEICでは主にビジネスメールや会話文で「返答する」「対応
 ## 🤔  reply との違いは？
 
 - **respond**：ややフォーマルで、口頭・書面どちらにも使える「返答する」
-- **[reply](/word/reply)**：カジュアル寄りで、特にメールや会話での「返事」によく使う
+- **[reply](/word/reply/)**：カジュアル寄りで、特にメールや会話での「返事」によく使う
 
 respondはビジネスや公式な場面で幅広く使われ、replyは日常的なやりとりやメール返信などで使われる傾向があります。
 
@@ -105,14 +105,14 @@ respondはビジネスや公式な場面で幅広く使われ、replyは日常�
 
 ## 🧩 あわせて覚えたい
 
-- [react](/word/react)：反応する（感情や行動で示す）
-- [answer](/word/answer)：答える（質問や問題に対して）
+- [react](/word/react/)：反応する（感情や行動で示す）
+- [answer](/word/answer/)：答える（質問や問題に対して）
 
 ---
 
 ## 📖 できればこれも
 
-- [request](/word/request)：依頼する、要請する
-- [confirm](/word/confirm)：確認する
+- [request](/word/request/)：依頼する、要請する
+- [confirm](/word/confirm/)：確認する
 
 <!-- cvid: aid23_bid42 -->

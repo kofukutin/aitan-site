@@ -97,7 +97,7 @@ TOEICでは、企業の方針や人物の特徴を説明する文脈で「progre
 ## 🤔  innovative との違いは？
 
 - **progressive**：徐々に進歩する、時代の流れに合わせて前向きに変化する
-- **[innovative](/word/innovative)**：革新的な、従来にない新しい発想や方法を生み出す
+- **[innovative](/word/innovative/)**：革新的な、従来にない新しい発想や方法を生み出す
 
 progressiveは「前進的・進歩的」で、既存の枠組みを少しずつ良くしていくニュアンスが強く、innovativeは「革新的」で、全く新しいものを生み出すイメージです。
 
@@ -105,14 +105,14 @@ progressiveは「前進的・進歩的」で、既存の枠組みを少しずつ
 
 ## 🧩 あわせて覚えたい
 
-- [conservative](/word/conservative)：保守的な
-- [modern](/word/modern)：現代的な、最新の
+- [conservative](/word/conservative/)：保守的な
+- [modern](/word/modern/)：現代的な、最新の
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [dynamic](/word/dynamic)：活発な、動的な
+- [efficient](/word/efficient/)：効率的な
+- [dynamic](/word/dynamic/)：活発な、動的な
 
 <!-- cvid: aid05_bid14 -->

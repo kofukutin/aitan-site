@@ -97,7 +97,7 @@ TOEICでは「一時的な中断」や「保留」を表す文脈で出題され
 ## 🤔  postponed との違いは？
 
 - **suspended**：一時的に中断・停止され、再開の時期が未定な状態
-- **[postponed](/word/postponed)**：予定を後ろにずらして延期すること
+- **[postponed](/word/postponed/)**：予定を後ろにずらして延期すること
 
 suspendedは「いつ再開するかわからない」ニュアンスが強く、postponedは「新しい日程が決まっている」場合に使います。
 
@@ -105,14 +105,14 @@ suspendedは「いつ再開するかわからない」ニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [terminated](/word/terminated)：終了した、打ち切られた
-- [pending](/word/pending)：未決定の、保留中の
+- [terminated](/word/terminated/)：終了した、打ち切られた
+- [pending](/word/pending/)：未決定の、保留中の
 
 ---
 
 ## 📖 できればこれも
 
-- [delayed](/word/delayed)：遅れた、延期された
-- [canceled](/word/canceled)：取り消された、中止になった
+- [delayed](/word/delayed/)：遅れた、延期された
+- [canceled](/word/canceled/)：取り消された、中止になった
 
 <!-- cvid: aid49_bid16 -->

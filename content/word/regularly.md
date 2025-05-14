@@ -97,7 +97,7 @@ TOEICでは副詞の語法や頻度を問う問題でよく出題されます。
 ## 🤔  routinely との違いは？
 
 - **regularly**：決まった間隔やスケジュールで、規則的に行うことを強調。
-- **[routinely](/word/routinely)**：習慣や決まりきった手順として、当然のように繰り返すことを強調。
+- **[routinely](/word/routinely/)**：習慣や決まりきった手順として、当然のように繰り返すことを強調。
 
 「regularly」は「定期的な間隔」に焦点があり、「routinely」は「習慣化・ルーチン化」された行動に焦点があります。
 
@@ -105,14 +105,14 @@ TOEICでは副詞の語法や頻度を問う問題でよく出題されます。
 
 ## 🧩 あわせて覚えたい
 
-- [frequently](/word/frequently)：頻繁に
-- [occasionally](/word/occasionally)：時々
+- [frequently](/word/frequently/)：頻繁に
+- [occasionally](/word/occasionally/)：時々
 
 ---
 
 ## 📖 できればこれも
 
-- [usually](/word/usually)：たいてい、普通は
-- [periodically](/word/periodically)：周期的に、定期的に
+- [usually](/word/usually/)：たいてい、普通は
+- [periodically](/word/periodically/)：周期的に、定期的に
 
 <!-- cvid: aid08_bid27 -->

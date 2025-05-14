@@ -97,7 +97,7 @@ TOEICでは契約やライセンス、会員証などの「更新」に関する
 ## 🤔  extend との違いは？
 
 - **renew**：期限切れや終了後に「新たにする」「更新する」ことを表す
-- **[extend](/word/extend)**：今あるものの期間や範囲を「延長する」ことを表す
+- **[extend](/word/extend/)**：今あるものの期間や範囲を「延長する」ことを表す
 
 renewは「一度終わったものを再び有効にする」ニュアンス、extendは「今あるものをそのまま長くする」ニュアンスです。
 
@@ -105,14 +105,14 @@ renewは「一度終わったものを再び有効にする」ニュアンス、
 
 ## 🧩 あわせて覚えたい
 
-- [replace](/word/replace)：取り替える、交換する
-- [resume](/word/resume)：再開する
+- [replace](/word/replace/)：取り替える、交換する
+- [resume](/word/resume/)：再開する
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/word/update)：最新の状態にする、更新する
-- [revise](/word/revise)：修正する、改訂する
+- [update](/word/update/)：最新の状態にする、更新する
+- [revise](/word/revise/)：修正する、改訂する
 
 <!-- cvid: aid38_bid46 -->

@@ -93,7 +93,7 @@ TOEICでは、程度や強調を表す副詞として選択肢に出ることが
 ## 🤔  very との違いは？
 
 - **quite**：程度の強さは文脈によって「かなり」から「全く」まで幅広い
-- **[very](/word/very)**：単純に「とても」「非常に」と強調する
+- **[very](/word/very/)**：単純に「とても」「非常に」と強調する
 
 「quite」は「very」よりも柔らかい強調や、場合によっては「まあまあ」といったニュアンスにもなります。一方、「very」は常に強い強調です。
 
@@ -101,14 +101,14 @@ TOEICでは、程度や強調を表す副詞として選択肢に出ることが
 
 ## 🧩 あわせて覚えたい
 
-- [rather](/word/rather)：やや、かなり（やや控えめな強調）
-- [somewhat](/word/somewhat)：いくぶん、多少
+- [rather](/word/rather/)：やや、かなり（やや控えめな強調）
+- [somewhat](/word/somewhat/)：いくぶん、多少
 
 ---
 
 ## 📖 できればこれも
 
-- [almost](/word/almost)：ほとんど
-- [fairly](/word/fairly)：かなり、まあまあ
+- [almost](/word/almost/)：ほとんど
+- [fairly](/word/fairly/)：かなり、まあまあ
 
 <!-- cvid: aid45_bid44 -->

@@ -97,7 +97,7 @@ TOEICでは、repetitionは主に文法や語彙の選択肢として出題さ�
 ## 🤔  reiteration との違いは？
 
 - **repetition**：単純に同じことを何度も繰り返すこと全般を指す。
-- **[reiteration](/word/reiteration)**：強調や念押しのために繰り返すこと。
+- **[reiteration](/word/reiteration/)**：強調や念押しのために繰り返すこと。
 
 repetitionは一般的な「繰り返し」、reiterationは「強調のための繰り返し」とニュアンスが異なります。
 
@@ -105,14 +105,14 @@ repetitionは一般的な「繰り返し」、reiterationは「強調のため�
 
 ## 🧩 あわせて覚えたい
 
-- [routine](/word/routine)：決まった手順、日課
-- [variation](/word/variation)：変化、違い
+- [routine](/word/routine/)：決まった手順、日課
+- [variation](/word/variation/)：変化、違い
 
 ---
 
 ## 📖 できればこれも
 
-- [practice](/word/practice)：練習、実践
-- [memorize](/word/memorize)：暗記する
+- [practice](/word/practice/)：練習、実践
+- [memorize](/word/memorize/)：暗記する
 
 <!-- cvid: aid15_bid49 -->

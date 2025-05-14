@@ -97,7 +97,7 @@ TOEICでは「allow 人 to do」や「be allowed to do」の形で頻出しま�
 ## 🤔  permit との違いは？
 
 - **allow**：日常的・一般的に「許す」「認める」という意味で幅広く使う
-- **[permit](/word/permit)**：よりフォーマルで公式な許可や認可を表す
+- **[permit](/word/permit/)**：よりフォーマルで公式な許可や認可を表す
 
 allowはカジュアルからビジネスまで幅広く使えますが、permitは法律や規則など公式な場面で使われることが多いです。
 
@@ -105,14 +105,14 @@ allowはカジュアルからビジネスまで幅広く使えますが、permit
 
 ## 🧩 あわせて覚えたい
 
-- [forbid](/word/forbid)：禁止する
-- [authorize](/word/authorize)：正式に許可する
+- [forbid](/word/forbid/)：禁止する
+- [authorize](/word/authorize/)：正式に許可する
 
 ---
 
 ## 📖 できればこれも
 
-- [accept](/word/accept)：受け入れる
-- [enable](/word/enable)：可能にする
+- [accept](/word/accept/)：受け入れる
+- [enable](/word/enable/)：可能にする
 
 <!-- cvid: aid07_bid03 -->

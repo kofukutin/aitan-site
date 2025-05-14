@@ -97,7 +97,7 @@ TOEICでは物流やビジネスの会話、説明文でよく登場します。
 ## 🤔  storage との違いは？
 
 - **warehouse**：商品や材料を保管するための「建物」や「施設」を指す
-- **[storage](/word/storage)**：物を保管する「行為」や「状態」、または保管スペース全般を指す
+- **[storage](/word/storage/)**：物を保管する「行為」や「状態」、または保管スペース全般を指す
 
 warehouseは具体的な建物、storageは保管そのものやスペース全般を表します。
 
@@ -105,14 +105,14 @@ warehouseは具体的な建物、storageは保管そのものやスペース全�
 
 ## 🧩 あわせて覚えたい
 
-- [inventory](/word/inventory)：在庫
-- [distribution](/word/distribution)：流通、配送
+- [inventory](/word/inventory/)：在庫
+- [distribution](/word/distribution/)：流通、配送
 
 ---
 
 ## 📖 できればこれも
 
-- [factory](/word/factory)：工場
-- [shipment](/word/shipment)：出荷
+- [factory](/word/factory/)：工場
+- [shipment](/word/shipment/)：出荷
 
 <!-- cvid: aid42_bid07 -->

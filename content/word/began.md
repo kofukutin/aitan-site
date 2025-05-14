@@ -98,7 +98,7 @@ TOEICでは、会議やイベントの開始時刻、過去の出来事の説明
 ## 🤔  started との違いは？
 
 - **began**：ややフォーマルで、物事の始まり全般に使える
-- **[started](/word/started)**：よりカジュアルで、機械や作業の開始にもよく使う
+- **[started](/word/started/)**：よりカジュアルで、機械や作業の開始にもよく使う
 
 「began」は出来事やプロセスの始まりに幅広く使われ、「started」はより日常的・実務的な場面や機械の始動などにも使われます。
 
@@ -106,14 +106,14 @@ TOEICでは、会議やイベントの開始時刻、過去の出来事の説明
 
 ## 🧩 あわせて覚えたい
 
-- [finish](/word/finish)：終える、終わる
-- [continue](/word/continue)：続ける
+- [finish](/word/finish/)：終える、終わる
+- [continue](/word/continue/)：続ける
 
 ---
 
 ## 📖 できればこれも
 
-- [decided](/word/decided)：決めた
-- [planned](/word/planned)：計画した
+- [decided](/word/decided/)：決めた
+- [planned](/word/planned/)：計画した
 
 <!-- cvid: aid33_bid10 -->

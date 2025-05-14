@@ -99,7 +99,7 @@ TOEICでは会話や指示のやりとりで頻出し、「誰に何を伝える
 ## 🤔  say との違いは？
 
 - **tell**：相手に「伝える」「教える」など、情報や指示をはっきり伝達する
-- **[say](/word/say)**：「言う」「発言する」など、内容そのものを口に出す
+- **[say](/word/say/)**：「言う」「発言する」など、内容そのものを口に出す
 
 tellは「誰に何を伝えるか」が重要で、sayは「何を言ったか」に焦点が当たります。
 
@@ -107,14 +107,14 @@ tellは「誰に何を伝えるか」が重要で、sayは「何を言ったか�
 
 ## 🧩 あわせて覚えたい
 
-- [inform](/word/inform)：正式に知らせる
-- [advise](/word/advise)：助言する、忠告する
+- [inform](/word/inform/)：正式に知らせる
+- [advise](/word/advise/)：助言する、忠告する
 
 ---
 
 ## 📖 できればこれも
 
-- [ask](/word/ask)：尋ねる、頼む
-- [explain](/word/explain)：説明する
+- [ask](/word/ask/)：尋ねる、頼む
+- [explain](/word/explain/)：説明する
 
 <!-- cvid: aid06_bid37 -->

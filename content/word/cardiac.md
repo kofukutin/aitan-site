@@ -96,7 +96,7 @@ The company developed a new drug for cardiac patients.
 ## 🤔  cardiovascular との違いは？
 
 - **cardiac**：心臓そのものに関する
-- **[cardiovascular](/word/cardiovascular)**：心臓と血管の両方に関する
+- **[cardiovascular](/word/cardiovascular/)**：心臓と血管の両方に関する
 
 cardiacは「心臓」に限定され、cardiovascularは「心臓＋血管」の広い範囲を指します。
 
@@ -104,14 +104,14 @@ cardiacは「心臓」に限定され、cardiovascularは「心臓＋血管」�
 
 ## 🧩 あわせて覚えたい
 
-- [pulmonary](/word/pulmonary)：肺の、肺に関する
-- [coronary](/word/coronary)：冠状動脈の、心臓の
+- [pulmonary](/word/pulmonary/)：肺の、肺に関する
+- [coronary](/word/coronary/)：冠状動脈の、心臓の
 
 ---
 
 ## 📖 できればこれも
 
-- [chronic](/word/chronic)：慢性の
-- [acute](/word/acute)：急性の
+- [chronic](/word/chronic/)：慢性の
+- [acute](/word/acute/)：急性の
 
 <!-- cvid: aid11_bid41 -->

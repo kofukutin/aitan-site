@@ -97,7 +97,7 @@ TOEICでは形容詞として、人物や行動を説明する文脈で出題さ
 ## 🤔  courageous との違いは？
 
 - **brave**：困難や危険に直面しても恐れずに行動する「勇敢な」
-- **[courageous](/word/courageous)**：道徳的・倫理的な信念に基づいて勇気を持つ「勇気ある」
+- **[courageous](/word/courageous/)**：道徳的・倫理的な信念に基づいて勇気を持つ「勇気ある」
 
 braveは行動面の勇気、courageousは信念や価値観に基づく勇気を強調します。
 
@@ -105,14 +105,14 @@ braveは行動面の勇気、courageousは信念や価値観に基づく勇気�
 
 ## 🧩 あわせて覚えたい
 
-- [bold](/word/bold)：大胆な
-- [fearless](/word/fearless)：恐れを知らない
+- [bold](/word/bold/)：大胆な
+- [fearless](/word/fearless/)：恐れを知らない
 
 ---
 
 ## 📖 できればこれも
 
-- [confident](/word/confident)：自信がある
-- [strong](/word/strong)：強い
+- [confident](/word/confident/)：自信がある
+- [strong](/word/strong/)：強い
 
 <!-- cvid: aid24_bid36 -->

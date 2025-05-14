@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、海やビーチの風景を説明す
 ## 🤔  ocean との違いは？
 
 - **sea**：比較的小さな「海」や沿岸の海域を指すことが多い
-- **[ocean](/word/ocean)**：地球規模の大きな「大洋」を指す
+- **[ocean](/word/ocean/)**：地球規模の大きな「大洋」を指す
 
 「sea」は身近な海や内海なども含みますが、「ocean」は太平洋や大西洋などの広大な大洋を指します。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写で、海やビーチの風景を説明す
 
 ## 🧩 あわせて覚えたい
 
-- [lake](/word/lake)：湖
-- [beach](/word/beach)：浜辺
+- [lake](/word/lake/)：湖
+- [beach](/word/beach/)：浜辺
 
 ---
 
 ## 📖 できればこれも
 
-- [river](/word/river)：川
-- [mountain](/word/mountain)：山
+- [river](/word/river/)：川
+- [mountain](/word/mountain/)：山
 
 <!-- cvid: aid07_bid09 -->

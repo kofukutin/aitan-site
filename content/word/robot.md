@@ -97,7 +97,7 @@ TOEICでは、工場やオフィスの自動化、技術紹介の場面で登場
 ## 🤔  machine との違いは？
 
 - **robot**：自律的に動作し、人間のような作業や動きをする自動機械
-- **[machine](/word/machine)**：広く「機械」全般を指し、自動販売機や洗濯機なども含む
+- **[machine](/word/machine/)**：広く「機械」全般を指し、自動販売機や洗濯機なども含む
 
 robotは「自分で考えて動く」イメージが強く、machineは単なる装置や道具も含みます。
 
@@ -105,14 +105,14 @@ robotは「自分で考えて動く」イメージが強く、machineは単な�
 
 ## 🧩 あわせて覚えたい
 
-- [android](/word/android)：人間型ロボット
-- [automation](/word/automation)：自動化
+- [android](/word/android/)：人間型ロボット
+- [automation](/word/automation/)：自動化
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device)：装置、デバイス
-- [system](/word/system)：システム、仕組み
+- [device](/word/device/)：装置、デバイス
+- [system](/word/system/)：システム、仕組み
 
 <!-- cvid: aid37_bid06 -->

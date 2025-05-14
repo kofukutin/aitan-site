@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文や説明文で、比喩的・抽象的な表現
 ## 🤔  loaded との違いは？
 
 - **laden**：ややフォーマルで、物理的・感情的に「重く満ちている」ニュアンスが強い
-- **[loaded](/word/loaded)**：より一般的で、単に「積まれている」「満載の」という意味
+- **[loaded](/word/loaded/)**：より一般的で、単に「積まれている」「満載の」という意味
 
 ladenは詩的・比喩的な表現やフォーマルな文脈で使われやすく、loadedは日常的・カジュアルな場面でもよく使われます。
 
@@ -105,14 +105,14 @@ ladenは詩的・比喩的な表現やフォーマルな文脈で使われやす
 
 ## 🧩 あわせて覚えたい
 
-- [burden](/word/burden)：重荷、負担
-- [overwhelm](/word/overwhelm)：圧倒する、打ちのめす
+- [burden](/word/burden/)：重荷、負担
+- [overwhelm](/word/overwhelm/)：圧倒する、打ちのめす
 
 ---
 
 ## 📖 できればこれも
 
-- [abundant](/word/abundant)：豊富な
-- [scarce](/word/scarce)：乏しい
+- [abundant](/word/abundant/)：豊富な
+- [scarce](/word/scarce/)：乏しい
 
 <!-- cvid: aid21_bid16 -->

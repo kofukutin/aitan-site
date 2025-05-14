@@ -97,7 +97,7 @@ TOEICでは観光や日常の場面で「景色」「視界」などの意味で
 ## 🤔  view との違いは？
 
 - **sight**：目に見えるものや印象的な光景、または視力そのものを指す。
-- **[view](/word/view)**：ある場所から見える景色や眺め、または意見・見解の意味も持つ。
+- **[view](/word/view/)**：ある場所から見える景色や眺め、または意見・見解の意味も持つ。
 
 sightは「見た瞬間の印象」や「視力」も含み、viewは「特定の場所からの眺め」や「意見」にも使われます。
 
@@ -105,14 +105,14 @@ sightは「見た瞬間の印象」や「視力」も含み、viewは「特定�
 
 ## 🧩 あわせて覚えたい
 
-- [scene](/word/scene)：場面、光景
-- [vision](/word/vision)：視力、未来像
+- [scene](/word/scene/)：場面、光景
+- [vision](/word/vision/)：視力、未来像
 
 ---
 
 ## 📖 できればこれも
 
-- [sound](/word/sound)：音
-- [scene](/word/scene)：場面、光景
+- [sound](/word/sound/)：音
+- [scene](/word/scene/)：場面、光景
 
 <!-- cvid: aid02_bid09 -->

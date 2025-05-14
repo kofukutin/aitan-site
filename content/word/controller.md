@@ -97,7 +97,7 @@ controllerはITやビジネス関連の長文で、機器や役職名として�
 ## 🤔  supervisor との違いは？
 
 - **controller**：機械やシステムの制御装置、または財務など特定分野の管理者
-- **[supervisor](/word/supervisor)**：現場や業務全体を監督・指導する人
+- **[supervisor](/word/supervisor/)**：現場や業務全体を監督・指導する人
 
 controllerは「制御」や「財務管理」など専門的な管理を指し、supervisorはより広い範囲で人や業務を監督する役割です。
 
@@ -105,14 +105,14 @@ controllerは「制御」や「財務管理」など専門的な管理を指し�
 
 ## 🧩 あわせて覚えたい
 
-- [manager](/word/manager)：管理職、部長
-- [operator](/word/operator)：操作員、オペレーター
+- [manager](/word/manager/)：管理職、部長
+- [operator](/word/operator/)：操作員、オペレーター
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device)：装置、機器
-- [system](/word/system)：システム、体系
+- [device](/word/device/)：装置、機器
+- [system](/word/system/)：システム、体系
 
 <!-- cvid: aid03_bid25 -->

@@ -97,7 +97,7 @@ gatheringは、会話や案内文などで「集まり」や「会合」を表�
 ## 🤔  meeting との違いは？
 
 - **gathering**：カジュアルな集まりやパーティーなど幅広い「集まり」を指す
-- **[meeting](/word/meeting)**：主にビジネスや公式な「会議」を指す
+- **[meeting](/word/meeting/)**：主にビジネスや公式な「会議」を指す
 
 gatheringは親しい人同士の集まりにも使えますが、meetingはビジネスや公式な目的の会合に限定されることが多いです。
 
@@ -105,14 +105,14 @@ gatheringは親しい人同士の集まりにも使えますが、meetingはビ�
 
 ## 🧩 あわせて覚えたい
 
-- [assembly](/word/assembly)：集会、集まり（ややフォーマル）
-- [event](/word/event)：イベント、行事
+- [assembly](/word/assembly/)：集会、集まり（ややフォーマル）
+- [event](/word/event/)：イベント、行事
 
 ---
 
 ## 📖 できればこれも
 
-- [conference](/word/conference)：会議、協議会
-- [party](/word/party)：パーティー、宴会
+- [conference](/word/conference/)：会議、協議会
+- [party](/word/party/)：パーティー、宴会
 
 <!-- cvid: aid24_bid41 -->

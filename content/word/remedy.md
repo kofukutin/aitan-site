@@ -97,7 +97,7 @@ We need to find a remedy for the recent drop in sales.
 ## 🤔  solution との違いは？
 
 - **remedy**：病気や問題を「治す」ための具体的な方法や手段を強調
-- **[solution](/word/solution)**：問題や課題の「解決策」全般を幅広く指す
+- **[solution](/word/solution/)**：問題や課題の「解決策」全般を幅広く指す
 
 remedyは「治療」や「回復」のニュアンスが強く、solutionは一般的な「答え」や「解決策」として使われます。
 
@@ -105,14 +105,14 @@ remedyは「治療」や「回復」のニュアンスが強く、solutionは一
 
 ## 🧩 あわせて覚えたい
 
-- [cure](/word/cure)：治療、治すこと
-- [treatment](/word/treatment)：治療、処置
+- [cure](/word/cure/)：治療、治すこと
+- [treatment](/word/treatment/)：治療、処置
 
 ---
 
 ## 📖 できればこれも
 
-- [prescription](/word/prescription)：処方箋
-- [therapy](/word/therapy)：療法、治療法
+- [prescription](/word/prescription/)：処方箋
+- [therapy](/word/therapy/)：療法、治療法
 
 <!-- cvid: aid44_bid02 -->

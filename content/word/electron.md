@@ -97,7 +97,7 @@ TOEICでは科学や技術に関する説明文や記事で登場することが
 ## 🤔  atom との違いは？
 
 - **electron**：原子を構成する負の電荷を持つ微粒子
-- **[atom](/word/atom)**：物質を構成する最小単位で、電子・陽子・中性子から成る
+- **[atom](/word/atom/)**：物質を構成する最小単位で、電子・陽子・中性子から成る
 
 electronは原子の一部であり、atomは電子を含む全体の構造を指します。
 
@@ -105,14 +105,14 @@ electronは原子の一部であり、atomは電子を含む全体の構造を�
 
 ## 🧩 あわせて覚えたい
 
-- [proton](/word/proton)：陽子（原子核を構成し、正の電荷を持つ粒子）
-- [neutron](/word/neutron)：中性子（原子核を構成し、電荷を持たない粒子）
+- [proton](/word/proton/)：陽子（原子核を構成し、正の電荷を持つ粒子）
+- [neutron](/word/neutron/)：中性子（原子核を構成し、電荷を持たない粒子）
 
 ---
 
 ## 📖 できればこれも
 
-- [molecule](/word/molecule)：分子（複数の原子が結合したもの）
-- [element](/word/element)：元素（同じ種類の原子からなる物質）
+- [molecule](/word/molecule/)：分子（複数の原子が結合したもの）
+- [element](/word/element/)：元素（同じ種類の原子からなる物質）
 
 <!-- cvid: aid47_bid45 -->

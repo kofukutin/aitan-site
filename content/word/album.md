@@ -97,7 +97,7 @@ TOEICでは、写真や音楽、資料をまとめたものを説明する場面
 ## 🤔  collection との違いは？
 
 - **album**：写真や音楽などを「まとめて収める本や媒体」
-- **[collection](/word/collection)**：集めたもの全般（本、切手、情報など）を指す
+- **[collection](/word/collection/)**：集めたもの全般（本、切手、情報など）を指す
 
 albumは「形としてまとめてあるもの」に限定されるのに対し、collectionはジャンルや形態を問わず幅広く使われます。
 
@@ -105,14 +105,14 @@ albumは「形としてまとめてあるもの」に限定されるのに対し
 
 ## 🧩 あわせて覚えたい
 
-- [portfolio](/word/portfolio)：作品集、ポートフォリオ
-- [catalog](/word/catalog)：カタログ、目録
+- [portfolio](/word/portfolio/)：作品集、ポートフォリオ
+- [catalog](/word/catalog/)：カタログ、目録
 
 ---
 
 ## 📖 できればこれも
 
-- [record](/word/record)：記録、レコード
-- [document](/word/document)：文書、書類
+- [record](/word/record/)：記録、レコード
+- [document](/word/document/)：文書、書類
 
 <!-- cvid: aid42_bid37 -->

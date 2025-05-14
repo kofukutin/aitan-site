@@ -97,7 +97,7 @@ TOEICでは観光やカジノ、エンターテインメント関連の長文や
 ## 🤔  lottery との違いは？
 
 - **keno**：カジノや施設内で行う、数字を選ぶ即時型のくじゲーム
-- **[lottery](/word/lottery)**：一般的に広く行われる宝くじ、抽選まで時間がかかることが多い
+- **[lottery](/word/lottery/)**：一般的に広く行われる宝くじ、抽選まで時間がかかることが多い
 
 kenoはその場ですぐ結果が出るカジノゲーム、lotteryは広く販売される宝くじで抽選日が決まっている点が異なります。
 
@@ -105,14 +105,14 @@ kenoはその場ですぐ結果が出るカジノゲーム、lotteryは広く販
 
 ## 🧩 あわせて覚えたい
 
-- [gamble](/word/gamble)：賭け事をする
-- [raffle](/word/raffle)：慈善目的などで行うくじ引き
+- [gamble](/word/gamble/)：賭け事をする
+- [raffle](/word/raffle/)：慈善目的などで行うくじ引き
 
 ---
 
 ## 📖 できればこれも
 
-- [casino](/word/casino)：カジノ、賭博場
-- [bet](/word/bet)：賭け、賭ける
+- [casino](/word/casino/)：カジノ、賭博場
+- [bet](/word/bet/)：賭け、賭ける
 
 <!-- cvid: aid17_bid49 -->

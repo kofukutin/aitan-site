@@ -97,7 +97,7 @@ TOEICでは「選択肢」や「選ぶこと」に関連する文脈で頻出し
 ## 🤔  option との違いは？
 
 - **choice**：選ぶ行為や選ばれたもの、または選択肢そのもの
-- **[option](/word/option)**：複数ある中の「選択肢」の一つ一つ
+- **[option](/word/option/)**：複数ある中の「選択肢」の一つ一つ
 
 「choice」は「選ぶこと」や「選ばれた結果」も含みますが、「option」は単に「選択肢の一つ」を指します。
 
@@ -105,14 +105,14 @@ TOEICでは「選択肢」や「選ぶこと」に関連する文脈で頻出し
 
 ## 🧩 あわせて覚えたい
 
-- [decision](/word/decision)：決定、判断
-- [selection](/word/selection)：選択、選ばれたもの
+- [decision](/word/decision/)：決定、判断
+- [selection](/word/selection/)：選択、選ばれたもの
 
 ---
 
 ## 📖 できればこれも
 
-- [prefer](/word/prefer)：より好む
-- [decide](/word/decide)：決める
+- [prefer](/word/prefer/)：より好む
+- [decide](/word/decide/)：決める
 
 <!-- cvid: aid48_bid02 -->

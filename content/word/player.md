@@ -97,7 +97,7 @@ playerはTOEICの会話や説明文で、スポーツやビジネスの文脈で
 ## 🤔  participant との違いは？
 
 - **player**：スポーツやゲーム、ビジネスで「積極的に関わる人」や「選手」「演奏者」を指す。
-- **[participant](/word/participant)**：イベントや活動に「参加する人」全般を指し、積極性や役割は問わない。
+- **[participant](/word/participant/)**：イベントや活動に「参加する人」全般を指し、積極性や役割は問わない。
 
 playerは「実際にプレイする人」「主役的な存在」、participantは「参加者」全般で、役割や積極性に違いがあります。
 
@@ -105,14 +105,14 @@ playerは「実際にプレイする人」「主役的な存在」、participant
 
 ## 🧩 あわせて覚えたい
 
-- [competitor](/word/competitor)：競争相手、ライバル
-- [member](/word/member)：メンバー、構成員
+- [competitor](/word/competitor/)：競争相手、ライバル
+- [member](/word/member/)：メンバー、構成員
 
 ---
 
 ## 📖 できればこれも
 
-- [team](/word/team)：チーム、団体
-- [coach](/word/coach)：コーチ、指導者
+- [team](/word/team/)：チーム、団体
+- [coach](/word/coach/)：コーチ、指導者
 
 <!-- cvid: aid17_bid46 -->

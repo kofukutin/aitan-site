@@ -97,7 +97,7 @@ TOEICでは主に会社の新商品やサービス紹介、ビジネス文書で
 ## 🤔  proposal との違いは？
 
 - **offering**：企業や個人が提供する「商品」「サービス」「差し出すもの」全般を指す
-- **[proposal](/word/proposal)**：提案や計画書など「提案内容」そのものを指す
+- **[proposal](/word/proposal/)**：提案や計画書など「提案内容」そのものを指す
 
 「offering」は実際に提供される物やサービスを指し、「proposal」はまだ実現していない提案や計画を表します。
 
@@ -105,14 +105,14 @@ TOEICでは主に会社の新商品やサービス紹介、ビジネス文書で
 
 ## 🧩 あわせて覚えたい
 
-- [contribution](/word/contribution)：貢献、寄付
-- [product](/word/product)：製品、商品
+- [contribution](/word/contribution/)：貢献、寄付
+- [product](/word/product/)：製品、商品
 
 ---
 
 ## 📖 できればこれも
 
-- [presentation](/word/presentation)：発表、プレゼン
-- [service](/word/service)：サービス、業務
+- [presentation](/word/presentation/)：発表、プレゼン
+- [service](/word/service/)：サービス、業務
 
 <!-- cvid: aid03_bid14 -->

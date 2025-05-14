@@ -97,7 +97,7 @@ stoppedはTOEICの会話パートで、動作の中断や終了を表す文脈�
 ## 🤔  quit との違いは？
 
 - **stopped**：一時的・恒久的に「止めた」「やめた」を幅広く表す。
-- **[quit](/word/quit)**：特に「完全にやめる」「辞める」という意味が強い。
+- **[quit](/word/quit/)**：特に「完全にやめる」「辞める」という意味が強い。
 
 stoppedは一時的な中断にも使えますが、quitは「完全にやめる」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ stoppedは一時的な中断にも使えますが、quitは「完全にやめる
 
 ## 🧩 あわせて覚えたい
 
-- [pause](/word/pause)：一時停止する
-- [continue](/word/continue)：続ける
+- [pause](/word/pause/)：一時停止する
+- [continue](/word/continue/)：続ける
 
 ---
 
 ## 📖 できればこれも
 
-- [started](/word/started)：始めた
-- [finished](/word/finished)：終えた
+- [started](/word/started/)：始めた
+- [finished](/word/finished/)：終えた
 
 <!-- cvid: aid25_bid14 -->

@@ -93,7 +93,7 @@ TOEICでは、原因や理由を部分的に説明する文脈でよく出題さ
 ## 🤔  partially との違いは？
 
 - **partly**：日常的で「部分的に」「いくぶん」と幅広く使う
-- **[partially](/word/partially)**：ややフォーマルで「完全ではなく一部だけ」というニュアンスが強い
+- **[partially](/word/partially/)**：ややフォーマルで「完全ではなく一部だけ」というニュアンスが強い
 
 partlyは日常会話やビジネスで幅広く使われ、partiallyはより限定的・技術的な場面で使われることが多いです。
 
@@ -101,14 +101,14 @@ partlyは日常会話やビジネスで幅広く使われ、partiallyはより�
 
 ## 🧩 あわせて覚えたい
 
-- [entirely](/word/entirely)：完全に
-- [somewhat](/word/somewhat)：いくぶん、多少
+- [entirely](/word/entirely/)：完全に
+- [somewhat](/word/somewhat/)：いくぶん、多少
 
 ---
 
 ## 📖 できればこれも
 
-- [mainly](/word/mainly)：主に
-- [almost](/word/almost)：ほとんど
+- [mainly](/word/mainly/)：主に
+- [almost](/word/almost/)：ほとんど
 
 <!-- cvid: aid24_bid24 -->

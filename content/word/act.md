@@ -97,7 +97,7 @@ TOEICでは「行動する」「役割を果たす」などの意味で、文法
 ## 🤔  behave との違いは？
 
 - **act**：状況に応じて行動する、または役を演じる
-- **[behave](/word/behave)**：社会的・道徳的な規範に沿って振る舞う
+- **[behave](/word/behave/)**：社会的・道徳的な規範に沿って振る舞う
 
 **act**は「何かをする」「演じる」など幅広い行動を指し、**behave**は「礼儀正しく振る舞う」など行動の質やマナーに焦点があります。
 
@@ -105,14 +105,14 @@ TOEICでは「行動する」「役割を果たす」などの意味で、文法
 
 ## 🧩 あわせて覚えたい
 
-- [perform](/word/perform)：実行する、演じる
-- [law](/word/law)：法律
+- [perform](/word/perform/)：実行する、演じる
+- [law](/word/law/)：法律
 
 ---
 
 ## 📖 できればこれも
 
-- [action](/word/action)：行動、動作
-- [move](/word/move)：動く、移動する
+- [action](/word/action/)：行動、動作
+- [move](/word/move/)：動く、移動する
 
 <!-- cvid: aid07_bid06 -->

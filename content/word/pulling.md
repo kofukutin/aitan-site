@@ -97,7 +97,7 @@ TOEIC Part 1の写真描写問題で、人が何かを引っ張っている場�
 ## 🤔  dragging との違いは？
 
 - **pulling**：単に「引っ張る」動作全般を表す。
-- **[dragging](/word/dragging)**：重いものや抵抗があるものを「引きずる」ニュアンス。
+- **[dragging](/word/dragging/)**：重いものや抵抗があるものを「引きずる」ニュアンス。
 
 pullingは一般的な「引く」動作、draggingは「重くて引きずる」イメージで使い分けます。
 
@@ -105,14 +105,14 @@ pullingは一般的な「引く」動作、draggingは「重くて引きずる�
 
 ## 🧩 あわせて覚えたい
 
-- [push](/word/push)：押す
-- [lift](/word/lift)：持ち上げる
+- [push](/word/push/)：押す
+- [lift](/word/lift/)：持ち上げる
 
 ---
 
 ## 📖 できればこれも
 
-- [carry](/word/carry)：運ぶ
-- [hold](/word/hold)：持つ
+- [carry](/word/carry/)：運ぶ
+- [hold](/word/hold/)：持つ
 
 <!-- cvid: aid34_bid34 -->

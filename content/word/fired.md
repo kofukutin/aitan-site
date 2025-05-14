@@ -97,7 +97,7 @@ TOEICでは職場の会話や人事に関する場面で「fired」が使われ�
 ## 🤔  dismissed との違いは？
 
 - **fired**：カジュアルで感情的な「クビ」「解雇」の表現
-- **[dismissed](/word/dismissed)**：フォーマルで事務的な「解雇」「免職」の表現
+- **[dismissed](/word/dismissed/)**：フォーマルで事務的な「解雇」「免職」の表現
 
 firedは日常会話やカジュアルな場面で使われ、dismissedは公式文書やフォーマルな場面で使われます。
 
@@ -105,14 +105,14 @@ firedは日常会話やカジュアルな場面で使われ、dismissedは公式
 
 ## 🧩 あわせて覚えたい
 
-- [resign](/word/resign)：辞職する、自分から辞める
-- [layoff](/word/layoff)：一時解雇、リストラ
+- [resign](/word/resign/)：辞職する、自分から辞める
+- [layoff](/word/layoff/)：一時解雇、リストラ
 
 ---
 
 ## 📖 できればこれも
 
-- [hire](/word/hire)：雇う
-- [promote](/word/promote)：昇進させる
+- [hire](/word/hire/)：雇う
+- [promote](/word/promote/)：昇進させる
 
 <!-- cvid: aid24_bid40 -->

@@ -97,7 +97,7 @@ TOEICでは「valuable information（貴重な情報）」や「valuable experie
 ## 🤔  invaluable との違いは？
 
 - **valuable**：価値がある、有益な
-- **[invaluable](/word/invaluable)**：計り知れないほど貴重な
+- **[invaluable](/word/invaluable/)**：計り知れないほど貴重な
 
 「valuable」は「価値が高い」という意味ですが、「invaluable」は「非常に価値が高く、値段がつけられないほど貴重」という強調表現です。
 
@@ -105,14 +105,14 @@ TOEICでは「valuable information（貴重な情報）」や「valuable experie
 
 ## 🧩 あわせて覚えたい
 
-- [precious](/word/precious)：大切な、貴重な
-- [worthless](/word/worthless)：価値のない
+- [precious](/word/precious/)：大切な、貴重な
+- [worthless](/word/worthless/)：価値のない
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [effective](/word/effective)：効果的な
+- [efficient](/word/efficient/)：効率的な
+- [effective](/word/effective/)：効果的な
 
 <!-- cvid: aid31_bid12 -->

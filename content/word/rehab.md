@@ -97,7 +97,7 @@ The company offers rehab programs for employees.
 ## 🤔  therapy との違いは？
 
 - **rehab**：依存症やけが・病気からの回復のためのリハビリ施設やリハビリ自体を指すカジュアルな言い方
-- **[therapy](/word/therapy)**：治療全般や療法を指し、精神的・身体的な治療を広くカバーするフォーマルな言葉
+- **[therapy](/word/therapy/)**：治療全般や療法を指し、精神的・身体的な治療を広くカバーするフォーマルな言葉
 
 rehabは特に施設やプログラムに焦点を当てたカジュアルな表現、therapyは治療行為全般を指すフォーマルな表現です。
 
@@ -105,14 +105,14 @@ rehabは特に施設やプログラムに焦点を当てたカジュアルな表
 
 ## 🧩 あわせて覚えたい
 
-- [treatment](/word/treatment)：治療
-- [recovery](/word/recovery)：回復
+- [treatment](/word/treatment/)：治療
+- [recovery](/word/recovery/)：回復
 
 ---
 
 ## 📖 できればこれも
 
-- [clinic](/word/clinic)：クリニック、診療所
-- [injury](/word/injury)：けが
+- [clinic](/word/clinic/)：クリニック、診療所
+- [injury](/word/injury/)：けが
 
 <!-- cvid: aid15_bid38 -->

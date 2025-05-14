@@ -94,7 +94,7 @@ TOEICでは日付や予定、スケジュールの確認など、基本的な会
 ## 🤔  nowadays との違いは？
 
 - **today**：今日、または「現在」という意味で、特定の日や時点を指す。
-- **[nowadays](/word/nowadays)**：最近、現代では、という意味で、過去と比べて今の時代全体を指す。
+- **[nowadays](/word/nowadays/)**：最近、現代では、という意味で、過去と比べて今の時代全体を指す。
 
 todayは「今日」や「今この時」を表し、nowadaysは「最近の傾向」や「現代社会」など広い期間を指します。
 
@@ -102,14 +102,14 @@ todayは「今日」や「今この時」を表し、nowadaysは「最近の傾�
 
 ## 🧩 あわせて覚えたい
 
-- [tomorrow](/word/tomorrow)：明日
-- [recently](/word/recently)：最近
+- [tomorrow](/word/tomorrow/)：明日
+- [recently](/word/recently/)：最近
 
 ---
 
 ## 📖 できればこれも
 
-- [tonight](/word/tonight)：今夜
-- [soon](/word/soon)：すぐに
+- [tonight](/word/tonight/)：今夜
+- [soon](/word/soon/)：すぐに
 
 <!-- cvid: aid37_bid20 -->

@@ -97,7 +97,7 @@ TOEICの長文読解パートで、頻度や回数を表す副詞として出題
 ## 🤔  sometimes との違いは？
 
 - **occasionally**：時々（やや頻度が低い、フォーマル寄り）
-- **[sometimes](/word/sometimes)**：時々（頻度はoccasionallyよりやや高め、カジュアル）
+- **[sometimes](/word/sometimes/)**：時々（頻度はoccasionallyよりやや高め、カジュアル）
 
 occasionallyは「たまに」「ごく時々」というニュアンスで、sometimesよりも頻度が低い印象です。sometimesは日常会話でよく使われ、occasionallyはややフォーマルな場面でも使われます。
 
@@ -105,14 +105,14 @@ occasionallyは「たまに」「ごく時々」というニュアンスで、so
 
 ## 🧩 あわせて覚えたい
 
-- [rarely](/word/rarely)：めったに～ない
-- [frequently](/word/frequently)：頻繁に
+- [rarely](/word/rarely/)：めったに～ない
+- [frequently](/word/frequently/)：頻繁に
 
 ---
 
 ## 📖 できればこれも
 
-- [usually](/word/usually)：たいてい、ふつうは
-- [regularly](/word/regularly)：定期的に
+- [usually](/word/usually/)：たいてい、ふつうは
+- [regularly](/word/regularly/)：定期的に
 
 <!-- cvid: aid15_bid33 -->

@@ -97,7 +97,7 @@ TOEICでは会議やビジネスの会話で「生産している」「作り出
 ## 🤔  manufacturing との違いは？
 
 - **producing**：広く「生産する」「作り出す」全般に使う
-- **[manufacturing](/word/manufacturing)**：特に「工場などで大量生産する」場合に使う
+- **[manufacturing](/word/manufacturing/)**：特に「工場などで大量生産する」場合に使う
 
 producingは一般的な「作る・生み出す」動作全体を指し、manufacturingは工業的な大量生産に限定されることが多いです。
 
@@ -105,14 +105,14 @@ producingは一般的な「作る・生み出す」動作全体を指し、manuf
 
 ## 🧩 あわせて覚えたい
 
-- [create](/word/create)：創造する、作り出す
-- [supply](/word/supply)：供給する
+- [create](/word/create/)：創造する、作り出す
+- [supply](/word/supply/)：供給する
 
 ---
 
 ## 📖 できればこれも
 
-- [develop](/word/develop)：開発する
-- [deliver](/word/deliver)：届ける
+- [develop](/word/develop/)：開発する
+- [deliver](/word/deliver/)：届ける
 
 <!-- cvid: aid36_bid37 -->

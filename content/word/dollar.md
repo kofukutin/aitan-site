@@ -97,7 +97,7 @@ TOEICでは価格や支払い、請求書などの文脈でよく登場します
 ## 🤔  bill との違いは？
 
 - **dollar**：通貨単位としての「ドル」
-- **[bill](/word/bill)**：紙幣や請求書
+- **[bill](/word/bill/)**：紙幣や請求書
 
 dollarは金額や通貨単位を指し、billは紙幣そのものや請求書を指します。
 
@@ -105,14 +105,14 @@ dollarは金額や通貨単位を指し、billは紙幣そのものや請求書�
 
 ## 🧩 あわせて覚えたい
 
-- [cent](/word/cent)：セント（ドルの1/100の単位）
-- [currency](/word/currency)：通貨
+- [cent](/word/cent/)：セント（ドルの1/100の単位）
+- [currency](/word/currency/)：通貨
 
 ---
 
 ## 📖 できればこれも
 
-- [coin](/word/coin)：硬貨
-- [price](/word/price)：価格
+- [coin](/word/coin/)：硬貨
+- [price](/word/price/)：価格
 
 <!-- cvid: aid10_bid06 -->

@@ -97,7 +97,7 @@ The company is raising environmental consciousness among employees.
 ## 🤔  awareness との違いは？
 
 - **consciousness**：医学的・哲学的な「意識」や「正気」を指すフォーマルな語。
-- **[awareness](/word/awareness)**：何かに「気づいている」「認識している」状態を幅広く表す。
+- **[awareness](/word/awareness/)**：何かに「気づいている」「認識している」状態を幅広く表す。
 
 consciousnessは「意識そのものの有無」や「正気」を強調し、awarenessは「特定の事柄への気づきや認識」に使います。
 
@@ -105,14 +105,14 @@ consciousnessは「意識そのものの有無」や「正気」を強調し、a
 
 ## 🧩 あわせて覚えたい
 
-- [unconsciousness](/word/unconsciousness)：無意識、意識不明
-- [perception](/word/perception)：知覚、認識
+- [unconsciousness](/word/unconsciousness/)：無意識、意識不明
+- [perception](/word/perception/)：知覚、認識
 
 ---
 
 ## 📖 できればこれも
 
-- [consequence](/word/consequence)：結果、影響
-- [conclusion](/word/conclusion)：結論
+- [consequence](/word/consequence/)：結果、影響
+- [conclusion](/word/conclusion/)：結論
 
 <!-- cvid: aid17_bid11 -->

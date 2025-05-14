@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「警告する」「注意する」場面でよ
 ## 🤔  cautioned との違いは？
 
 - **warned**：危険や悪い結果をはっきり伝えて警告する
-- **[cautioned](/word/cautioned)**：慎重になるようやんわり注意する
+- **[cautioned](/word/cautioned/)**：慎重になるようやんわり注意する
 
 warnedは直接的で強い警告、cautionedはやや控えめで丁寧な注意というニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ warnedは直接的で強い警告、cautionedはやや控えめで丁寧な注�
 
 ## 🧩 あわせて覚えたい
 
-- [advise](/word/advise)：助言する、忠告する
-- [notify](/word/notify)：通知する、知らせる
+- [advise](/word/advise/)：助言する、忠告する
+- [notify](/word/notify/)：通知する、知らせる
 
 ---
 
 ## 📖 できればこれも
 
-- [remind](/word/remind)：思い出させる
-- [inform](/word/inform)：知らせる
+- [remind](/word/remind/)：思い出させる
+- [inform](/word/inform/)：知らせる
 
 <!-- cvid: aid20_bid38 -->

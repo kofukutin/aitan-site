@@ -97,7 +97,7 @@ TOEICでは広告やEメール、案内文などで「money（お金、資金）
 ## 🤔  cash との違いは？
 
 - **money**：お金全般（現金・預金・資産など広い意味）
-- **[cash](/word/cash)**：現金（紙幣や硬貨）に限定
+- **[cash](/word/cash/)**：現金（紙幣や硬貨）に限定
 
 moneyは「お金」全体を指し、cashは「手元の現金」に限定されるため、ATMや財布の中身など具体的な現金を表すときはcashを使います。
 
@@ -105,14 +105,14 @@ moneyは「お金」全体を指し、cashは「手元の現金」に限定さ�
 
 ## 🧩 あわせて覚えたい
 
-- [fund](/word/fund)：資金、基金
-- [income](/word/income)：収入
+- [fund](/word/fund/)：資金、基金
+- [income](/word/income/)：収入
 
 ---
 
 ## 📖 できればこれも
 
-- [price](/word/price)：価格
-- [cost](/word/cost)：費用
+- [price](/word/price/)：価格
+- [cost](/word/cost/)：費用
 
 <!-- cvid: aid43_bid44 -->

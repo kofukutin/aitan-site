@@ -97,7 +97,7 @@ The company was penalized for fouling environmental regulations.
 ## 🤔  violate との違いは？
 
 - **foul**：主にスポーツや規則での「反則」「不正行為」を表す。やや口語的。
-- **[violate](/word/violate)**：法律や規則などを「侵害する」「違反する」。よりフォーマルで広い場面に使う。
+- **[violate](/word/violate/)**：法律や規則などを「侵害する」「違反する」。よりフォーマルで広い場面に使う。
 
 foulはスポーツや日常的なルール違反に、violateは法律や契約などフォーマルな規則違反に使われます。
 
@@ -105,14 +105,14 @@ foulはスポーツや日常的なルール違反に、violateは法律や契約
 
 ## 🧩 あわせて覚えたい
 
-- [comply](/word/comply)：従う、順守する
-- [breach](/word/breach)：違反、破ること
+- [comply](/word/comply/)：従う、順守する
+- [breach](/word/breach/)：違反、破ること
 
 ---
 
 ## 📖 できればこれも
 
-- [penalize](/word/penalize)：罰する
-- [offend](/word/offend)：気分を害する、違反する
+- [penalize](/word/penalize/)：罰する
+- [offend](/word/offend/)：気分を害する、違反する
 
 <!-- cvid: aid49_bid31 -->

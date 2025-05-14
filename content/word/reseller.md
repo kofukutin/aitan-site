@@ -97,7 +97,7 @@ TOEICではITやビジネス関連の長文やEメール、案内文などで「
 ## 🤔  distributor との違いは？
 
 - **reseller**：仕入れた商品を他の顧客や企業に再販売する業者
-- **[distributor](/word/distributor)**：メーカーから商品を仕入れ、小売業者やresellerなどに広く分配する業者
+- **[distributor](/word/distributor/)**：メーカーから商品を仕入れ、小売業者やresellerなどに広く分配する業者
 
 「reseller」は最終顧客や他の企業に再販売する業者を指し、「distributor」は流通経路の中で商品を広く分配する役割を持ちます。
 
@@ -105,14 +105,14 @@ TOEICではITやビジネス関連の長文やEメール、案内文などで「
 
 ## 🧩 あわせて覚えたい
 
-- [retailer](/word/retailer)：小売業者（消費者に直接販売する業者）
-- [wholesaler](/word/wholesaler)：卸売業者（小売業者に大量販売する業者）
+- [retailer](/word/retailer/)：小売業者（消費者に直接販売する業者）
+- [wholesaler](/word/wholesaler/)：卸売業者（小売業者に大量販売する業者）
 
 ---
 
 ## 📖 できればこれも
 
-- [supplier](/word/supplier)：供給業者、納入業者
-- [vendor](/word/vendor)：販売業者、売り手
+- [supplier](/word/supplier/)：供給業者、納入業者
+- [vendor](/word/vendor/)：販売業者、売り手
 
 <!-- cvid: aid19_bid17 -->

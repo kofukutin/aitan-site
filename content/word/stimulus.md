@@ -97,7 +97,7 @@ stimulusはTOEICの長文読解（Part 7）で、経済やビジネス、科学�
 ## 🤔  incentive との違いは？
 
 - **stimulus**：外部からの刺激やきっかけとなるもの全般を指し、反応や変化を促すニュートラルな語。
-- **[incentive](/word/incentive)**：人の行動を積極的に促す「動機付け」「報奨」といった意味で、特に報酬やメリットを強調。
+- **[incentive](/word/incentive/)**：人の行動を積極的に促す「動機付け」「報奨」といった意味で、特に報酬やメリットを強調。
 
 stimulusは広く「刺激」として使われますが、incentiveは「やる気を引き出す報酬や動機」に特化しています。
 
@@ -105,14 +105,14 @@ stimulusは広く「刺激」として使われますが、incentiveは「やる
 
 ## 🧩 あわせて覚えたい
 
-- [trigger](/word/trigger)：引き金、きっかけ
-- [response](/word/response)：反応、応答
+- [trigger](/word/trigger/)：引き金、きっかけ
+- [response](/word/response/)：反応、応答
 
 ---
 
 ## 📖 できればこれも
 
-- [factor](/word/factor)：要因、要素
-- [impact](/word/impact)：影響、衝撃
+- [factor](/word/factor/)：要因、要素
+- [impact](/word/impact/)：影響、衝撃
 
 <!-- cvid: aid31_bid43 -->

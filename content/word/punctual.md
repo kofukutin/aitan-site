@@ -97,7 +97,7 @@ TOEICでは、ビジネスシーンでの時間厳守や約束の重要性を問
 ## 🤔  on time との違いは？
 
 - **punctual**：予定や約束の時間をきちんと守る（形容詞）
-- **[on time](/word/on_time)**：時間通りに、遅れずに（副詞句）
+- **[on time](/word/on_time/)**：時間通りに、遅れずに（副詞句）
 
 punctualは人や行動の「時間厳守な性質」を表し、on timeは「実際に遅れずに到着・実行した」ことを表します。
 
@@ -105,14 +105,14 @@ punctualは人や行動の「時間厳守な性質」を表し、on timeは「�
 
 ## 🧩 あわせて覚えたい
 
-- [late](/word/late)：遅れた、遅刻した
-- [prompt](/word/prompt)：即座の、迅速な
+- [late](/word/late/)：遅れた、遅刻した
+- [prompt](/word/prompt/)：即座の、迅速な
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/word/reliable)：信頼できる
-- [efficient](/word/efficient)：効率的な
+- [reliable](/word/reliable/)：信頼できる
+- [efficient](/word/efficient/)：効率的な
 
 <!-- cvid: aid35_bid22 -->

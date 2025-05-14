@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人物がスケートをしている
 ## 🤔  skiing との違いは？
 
 - **skating**：氷やローラーの上を滑るスポーツ全般
-- **[skiing](/word/skiing)**：雪の上をスキー板で滑るスポーツ
+- **[skiing](/word/skiing/)**：雪の上をスキー板で滑るスポーツ
 
 skatingは氷やローラーなどの上を滑る活動全般を指し、skiingは雪の上でスキー板を使うスポーツに限定されます。
 
@@ -105,14 +105,14 @@ skatingは氷やローラーなどの上を滑る活動全般を指し、skiing�
 
 ## 🧩 あわせて覚えたい
 
-- [ice skate](/word/ice_skate)：アイススケートをする
-- [rollerblade](/word/rollerblade)：ローラーブレードをする
+- [ice skate](/word/ice_skate/)：アイススケートをする
+- [rollerblade](/word/rollerblade/)：ローラーブレードをする
 
 ---
 
 ## 📖 できればこれも
 
-- [swimming](/word/swimming)：水泳
-- [cycling](/word/cycling)：サイクリング
+- [swimming](/word/swimming/)：水泳
+- [cycling](/word/cycling/)：サイクリング
 
 <!-- cvid: aid00_bid17 -->

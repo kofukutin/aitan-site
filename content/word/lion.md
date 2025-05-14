@@ -97,7 +97,7 @@ TOEICでは主に動物や観光、説明文などの長文で登場すること
 ## 🤔  tiger との違いは？
 
 - **lion**：たてがみがあり、群れで生活する大型ネコ科動物。
-- **[tiger](/word/tiger)**：縞模様が特徴で、主に単独で行動する大型ネコ科動物。
+- **[tiger](/word/tiger/)**：縞模様が特徴で、主に単独で行動する大型ネコ科動物。
 
 lionは「百獣の王」と呼ばれ、群れで生活するのが特徴ですが、tigerは縞模様と単独行動が特徴です。
 
@@ -105,14 +105,14 @@ lionは「百獣の王」と呼ばれ、群れで生活するのが特徴です�
 
 ## 🧩 あわせて覚えたい
 
-- [leopard](/word/leopard)：ヒョウ
-- [zebra](/word/zebra)：シマウマ
+- [leopard](/word/leopard/)：ヒョウ
+- [zebra](/word/zebra/)：シマウマ
 
 ---
 
 ## 📖 できればこれも
 
-- [elephant](/word/elephant)：ゾウ
-- [giraffe](/word/giraffe)：キリン
+- [elephant](/word/elephant/)：ゾウ
+- [giraffe](/word/giraffe/)：キリン
 
 <!-- cvid: aid43_bid34 -->

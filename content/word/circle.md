@@ -97,7 +97,7 @@ TOEICでは主に図形やグループを表す語としてPart 1の写真描写
 ## 🤔  cycle との違いは？
 
 - **circle**：円や丸い形、または仲間・集団を表す
-- **[cycle](/word/cycle)**：周期、循環、繰り返しを表す
+- **[cycle](/word/cycle/)**：周期、循環、繰り返しを表す
 
 circleは「形」や「グループ」に焦点があり、cycleは「繰り返し」や「循環する動き」に使われます。
 
@@ -105,14 +105,14 @@ circleは「形」や「グループ」に焦点があり、cycleは「繰り返
 
 ## 🧩 あわせて覚えたい
 
-- [square](/word/square)：四角形、正方形
-- [ring](/word/ring)：輪、指輪
+- [square](/word/square/)：四角形、正方形
+- [ring](/word/ring/)：輪、指輪
 
 ---
 
 ## 📖 できればこれも
 
-- [line](/word/line)：線
-- [shape](/word/shape)：形
+- [line](/word/line/)：線
+- [shape](/word/shape/)：形
 
 <!-- cvid: aid01_bid00 -->

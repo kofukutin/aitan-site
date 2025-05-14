@@ -97,7 +97,7 @@ TOEICではPart 7のメール文や案内文で頻出します。指示や連絡
 ## 🤔  mail との違いは？
 
 - **email**：電子的に送るメッセージや仕組みを指す
-- **[mail](/word/mail)**：郵便物全般やEメール両方を指すが、文脈によって意味が変わる
+- **[mail](/word/mail/)**：郵便物全般やEメール両方を指すが、文脈によって意味が変わる
 
 emailはインターネット経由の通信に限定されますが、mailは郵便やEメールなど幅広い意味で使われます。
 
@@ -105,14 +105,14 @@ emailはインターネット経由の通信に限定されますが、mailは�
 
 ## 🧩 あわせて覚えたい
 
-- [message](/word/message)：メッセージ、伝言
-- [attachment](/word/attachment)：添付ファイル
+- [message](/word/message/)：メッセージ、伝言
+- [attachment](/word/attachment/)：添付ファイル
 
 ---
 
 ## 📖 できればこれも
 
-- [contact](/word/contact)：連絡する、連絡先
-- [reply](/word/reply)：返信する
+- [contact](/word/contact/)：連絡する、連絡先
+- [reply](/word/reply/)：返信する
 
 <!-- cvid: aid29_bid00 -->

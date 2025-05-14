@@ -97,7 +97,7 @@ TOEICでは「休憩する」「壊す」「中断する」など複数の意味
 ## 🤔  pause との違いは？
 
 - **break**：一時的に中断したり、休憩したり、物を壊す意味もある
-- **[pause](/word/pause)**：一時的に止める、特に動作や話を短く止める意味
+- **[pause](/word/pause/)**：一時的に止める、特に動作や話を短く止める意味
 
 breakは「休憩」や「壊す」など幅広い意味で使われ、pauseは「一時停止」に特化しています。
 
@@ -105,14 +105,14 @@ breakは「休憩」や「壊す」など幅広い意味で使われ、pauseは�
 
 ## 🧩 あわせて覚えたい
 
-- [stop](/word/stop)：止める、やめる
-- [interrupt](/word/interrupt)：中断する、邪魔をする
+- [stop](/word/stop/)：止める、やめる
+- [interrupt](/word/interrupt/)：中断する、邪魔をする
 
 ---
 
 ## 📖 できればこれも
 
-- [fix](/word/fix)：修理する、直す
-- [open](/word/open)：開ける
+- [fix](/word/fix/)：修理する、直す
+- [open](/word/open/)：開ける
 
 <!-- cvid: aid10_bid04 -->

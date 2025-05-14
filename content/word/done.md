@@ -97,7 +97,7 @@ TOEICでは、過去分詞としての使い方や「be done with」などの表
 ## 🤔  finished との違いは？
 
 - **done**：日常的に「終わった」「完了した」とカジュアルに使う
-- **[finished](/word/finished)**：ややフォーマルで「完全に終わった」「仕上がった」というニュアンス
+- **[finished](/word/finished/)**：ややフォーマルで「完全に終わった」「仕上がった」というニュアンス
 
 doneは会話でよく使われ、finishedは書き言葉や強調したいときに使われることが多いです。
 
@@ -105,14 +105,14 @@ doneは会話でよく使われ、finishedは書き言葉や強調したいと�
 
 ## 🧩 あわせて覚えたい
 
-- [complete](/word/complete)：完全な、完了した
-- [ready](/word/ready)：準備ができた
+- [complete](/word/complete/)：完全な、完了した
+- [ready](/word/ready/)：準備ができた
 
 ---
 
 ## 📖 できればこれも
 
-- [ready](/word/ready)：準備ができた
-- [open](/word/open)：開いている
+- [ready](/word/ready/)：準備ができた
+- [open](/word/open/)：開いている
 
 <!-- cvid: aid17_bid37 -->

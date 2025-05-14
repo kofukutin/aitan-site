@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、王冠や装飾品、歴史的な展
 ## 🤔  tiara との違いは？
 
 - **crown**：王や女王などの君主がかぶる伝統的な王冠
-- **[tiara](/word/tiara)**：主に女性が装飾用にかぶる細めの冠やティアラ
+- **[tiara](/word/tiara/)**：主に女性が装飾用にかぶる細めの冠やティアラ
 
 crownは権力や王位の象徴として使われ、tiaraは装飾的・儀式的な意味合いが強いです。
 
@@ -105,14 +105,14 @@ crownは権力や王位の象徴として使われ、tiaraは装飾的・儀式�
 
 ## 🧩 あわせて覚えたい
 
-- [throne](/word/throne)：王位、玉座
-- [monarch](/word/monarch)：君主、国王
+- [throne](/word/throne/)：王位、玉座
+- [monarch](/word/monarch/)：君主、国王
 
 ---
 
 ## 📖 できればこれも
 
-- [castle](/word/castle)：城
-- [palace](/word/palace)：宮殿
+- [castle](/word/castle/)：城
+- [palace](/word/palace/)：宮殿
 
 <!-- cvid: aid37_bid20 -->

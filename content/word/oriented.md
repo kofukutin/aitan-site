@@ -97,7 +97,7 @@ TOEICではビジネス文書や説明文で「customer-oriented」「result-ori
 ## 🤔  focused との違いは？
 
 - **oriented**：特定の方向や目的に向けて設計・志向されている
-- **[focused](/word/focused)**：注意や意識が一点に集中している
+- **[focused](/word/focused/)**：注意や意識が一点に集中している
 
 「oriented」は設計や方針などの"志向性"を表し、「focused」は"集中している状態"を表します。
 
@@ -105,14 +105,14 @@ TOEICではビジネス文書や説明文で「customer-oriented」「result-ori
 
 ## 🧩 あわせて覚えたい
 
-- [objective](/word/objective)：目的、目標
-- [direction](/word/direction)：方向、指針
+- [objective](/word/objective/)：目的、目標
+- [direction](/word/direction/)：方向、指針
 
 ---
 
 ## 📖 できればこれも
 
-- [practical](/word/practical)：実用的な
-- [efficient](/word/efficient)：効率的な
+- [practical](/word/practical/)：実用的な
+- [efficient](/word/efficient/)：効率的な
 
 <!-- cvid: aid01_bid26 -->

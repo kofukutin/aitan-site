@@ -93,7 +93,7 @@ TOEICでは会話や説明文で「やんわりと強調」や「選択」を表
 ## 🤔  quite との違いは？
 
 - **rather**：やんわりと「かなり」「むしろ」と程度や選択を示す
-- **[quite](/word/quite)**：はっきりと「とても」「完全に」と強調する
+- **[quite](/word/quite/)**：はっきりと「とても」「完全に」と強調する
 
 ratherは控えめな強調や選択のニュアンス、quiteはより強い肯定や完全さを表します。
 
@@ -101,14 +101,14 @@ ratherは控えめな強調や選択のニュアンス、quiteはより強い肯
 
 ## 🧩 あわせて覚えたい
 
-- [prefer](/word/prefer)：より好む
-- [somewhat](/word/somewhat)：いくぶん、多少
+- [prefer](/word/prefer/)：より好む
+- [somewhat](/word/somewhat/)：いくぶん、多少
 
 ---
 
 ## 📖 できればこれも
 
-- [fairly](/word/fairly)：かなり、公平に
-- [slightly](/word/slightly)：わずかに
+- [fairly](/word/fairly/)：かなり、公平に
+- [slightly](/word/slightly/)：わずかに
 
 <!-- cvid: aid37_bid27 -->

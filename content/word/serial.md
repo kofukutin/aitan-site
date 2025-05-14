@@ -97,7 +97,7 @@ ITやビジネス文書、製品マニュアルなどで「連続した」「順
 ## 🤔  sequence との違いは？
 
 - **serial**：順番に続く、連続した（特に「順序」や「連載」など、順次性を強調）
-- **[sequence](/word/sequence)**：一連の流れ、順序（出来事や要素の「並び」自体を指す）
+- **[sequence](/word/sequence/)**：一連の流れ、順序（出来事や要素の「並び」自体を指す）
 
 **serial**は「順番に続く」「連載」など、順次的な性質や形式を強調します。**sequence**は「並び」や「順序」そのものを指し、必ずしも連載や形式的な連続性を含みません。
 
@@ -105,14 +105,14 @@ ITやビジネス文書、製品マニュアルなどで「連続した」「順
 
 ## 🧩 あわせて覚えたい
 
-- [consecutive](/word/consecutive)：連続した、途切れなく続く
-- [parallel](/word/parallel)：並行した、同時進行の
+- [consecutive](/word/consecutive/)：連続した、途切れなく続く
+- [parallel](/word/parallel/)：並行した、同時進行の
 
 ---
 
 ## 📖 できればこれも
 
-- [consecutive](/word/consecutive)：連続した
-- [interval](/word/interval)：間隔、インターバル
+- [consecutive](/word/consecutive/)：連続した
+- [interval](/word/interval/)：間隔、インターバル
 
 <!-- cvid: aid02_bid24 -->

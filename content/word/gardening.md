@@ -97,7 +97,7 @@ TOEICでは、趣味やライフスタイル、環境に関する長文やEメ�
 ## 🤔  agriculture との違いは？
 
 - **gardening**：家庭や趣味で行う小規模な園芸やガーデニング
-- **[agriculture](/word/agriculture)**：大規模な農業や作物の生産全般
+- **[agriculture](/word/agriculture/)**：大規模な農業や作物の生産全般
 
 gardeningは個人や家庭で楽しむ園芸を指し、agricultureは産業としての農業や大規模な作物生産を意味します。
 
@@ -105,14 +105,14 @@ gardeningは個人や家庭で楽しむ園芸を指し、agricultureは産業と
 
 ## 🧩 あわせて覚えたい
 
-- [landscape](/word/landscape)：景観、風景
-- [horticulture](/word/horticulture)：園芸学、園芸技術
+- [landscape](/word/landscape/)：景観、風景
+- [horticulture](/word/horticulture/)：園芸学、園芸技術
 
 ---
 
 ## 📖 できればこれも
 
-- [plant](/word/plant)：植物、植える
-- [flower](/word/flower)：花
+- [plant](/word/plant/)：植物、植える
+- [flower](/word/flower/)：花
 
 <!-- cvid: aid40_bid20 -->

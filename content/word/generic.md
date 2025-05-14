@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や医薬品関連の記事、説明文で登
 ## 🤔  general との違いは？
 
 - **generic**：特定のブランドや種類に限定されず、特徴がなく広く一般的なもの
-- **[general](/word/general)**：全体的、総合的、または大まかな意味での「一般的」
+- **[general](/word/general/)**：全体的、総合的、または大まかな意味での「一般的」
 
 genericは「個性や特徴がない」「ブランドに依存しない」ニュアンスが強く、generalは「全体的」「大まか」といった幅広い意味で使われます。
 
@@ -105,14 +105,14 @@ genericは「個性や特徴がない」「ブランドに依存しない」ニ�
 
 ## 🧩 あわせて覚えたい
 
-- [specific](/word/specific)：特定の、具体的な
-- [universal](/word/universal)：普遍的な、全体に共通する
+- [specific](/word/specific/)：特定の、具体的な
+- [universal](/word/universal/)：普遍的な、全体に共通する
 
 ---
 
 ## 📖 できればこれも
 
-- [typical](/word/typical)：典型的な、代表的な
-- [common](/word/common)：よくある、共通の
+- [typical](/word/typical/)：典型的な、代表的な
+- [common](/word/common/)：よくある、共通の
 
 <!-- cvid: aid44_bid44 -->

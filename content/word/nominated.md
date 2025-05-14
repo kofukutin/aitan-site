@@ -97,7 +97,7 @@ TOEICでは、役職や賞の候補者を指名する文脈でよく出題され
 ## 🤔  appointed との違いは？
 
 - **nominated**：候補として指名・推薦する（最終決定前の段階）
-- **[appointed](/word/appointed)**：正式に任命・就任させる（決定後）
+- **[appointed](/word/appointed/)**：正式に任命・就任させる（決定後）
 
 nominatedは「候補に挙げる」段階、appointedは「正式に任命する」段階で使い分けます。
 
@@ -105,14 +105,14 @@ nominatedは「候補に挙げる」段階、appointedは「正式に任命す�
 
 ## 🧩 あわせて覚えたい
 
-- [recommend](/word/recommend)：推薦する
-- [elect](/word/elect)：選挙で選ぶ
+- [recommend](/word/recommend/)：推薦する
+- [elect](/word/elect/)：選挙で選ぶ
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/word/approve)：承認する
-- [select](/word/select)：選ぶ
+- [approve](/word/approve/)：承認する
+- [select](/word/select/)：選ぶ
 
 <!-- cvid: aid12_bid10 -->

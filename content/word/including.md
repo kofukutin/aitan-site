@@ -93,7 +93,7 @@ includingはTOEICの長文問題や説明文で頻出し、例示や範囲の明
 ## 🤔  such as との違いは？
 
 - **including**：前に述べたものに「～も含めて」と追加するニュアンス
-- **[such as](/word/such_as)**：例をいくつか挙げるときに使う表現
+- **[such as](/word/such_as/)**：例をいくつか挙げるときに使う表現
 
 includingは「含めて」という範囲の強調、such asは「例えば」と例示する違いがあります。
 
@@ -101,14 +101,14 @@ includingは「含めて」という範囲の強調、such asは「例えば」�
 
 ## 🧩 あわせて覚えたい
 
-- [except](/word/except)：～を除いて
-- [among](/word/among)：～の中で
+- [except](/word/except/)：～を除いて
+- [among](/word/among/)：～の中で
 
 ---
 
 ## 📖 できればこれも
 
-- [during](/word/during)：～の間に
-- [without](/word/without)：～なしで
+- [during](/word/during/)：～の間に
+- [without](/word/without/)：～なしで
 
 <!-- cvid: aid24_bid33 -->

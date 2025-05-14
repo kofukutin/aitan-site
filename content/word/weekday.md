@@ -105,14 +105,14 @@ TOEICでは案内文やスケジュール、営業時間の説明などでよく
 
 ## 🧩 あわせて覚えたい
 
-- [weekend](/word/weekend)：週末（土日）
-- [holiday](/word/holiday)：祝日・休日
+- [weekend](/word/weekend/)：週末（土日）
+- [holiday](/word/holiday/)：祝日・休日
 
 ---
 
 ## 📖 できればこれも
 
-- [calendar](/word/calendar)：カレンダー、予定表
-- [schedule](/word/schedule)：スケジュール、予定
+- [calendar](/word/calendar/)：カレンダー、予定表
+- [schedule](/word/schedule/)：スケジュール、予定
 
 <!-- cvid: aid19_bid16 -->

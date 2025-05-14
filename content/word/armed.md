@@ -97,7 +97,7 @@ armedはTOEICの文法・語彙問題で、特に「armed with ～（～を備�
 ## 🤔  equipped との違いは？
 
 - **armed**：武器や防護具など、特に「武装」や「防御」のための装備を持っていることを強調
-- **[equipped](/word/equipped)**：必要な道具や設備全般を備えていることを表し、武器に限らない
+- **[equipped](/word/equipped/)**：必要な道具や設備全般を備えていることを表し、武器に限らない
 
 armedは「武器」や「防御」に特化した装備を指し、equippedはより広く「必要なものを備えている」場合に使います。
 
@@ -105,14 +105,14 @@ armedは「武器」や「防御」に特化した装備を指し、equippedは�
 
 ## 🧩 あわせて覚えたい
 
-- [unarmed](/word/unarmed)：武装していない、非武装の
-- [weapon](/word/weapon)：武器
+- [unarmed](/word/unarmed/)：武装していない、非武装の
+- [weapon](/word/weapon/)：武器
 
 ---
 
 ## 📖 できればこれも
 
-- [dangerous](/word/dangerous)：危険な
-- [protect](/word/protect)：守る
+- [dangerous](/word/dangerous/)：危険な
+- [protect](/word/protect/)：守る
 
 <!-- cvid: aid42_bid08 -->

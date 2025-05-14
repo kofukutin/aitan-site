@@ -97,7 +97,7 @@ TOEICでは環境や企業の社会的責任に関する長文や記事でよく
 ## 🤔  renewable との違いは？
 
 - **sustainable**：長期間にわたり維持できる、環境や資源を損なわずに続けられる
-- **[renewable](/word/renewable)**：再生可能な、何度も新しくできる
+- **[renewable](/word/renewable/)**：再生可能な、何度も新しくできる
 
 「sustainable」は「続けられること」に重点があり、「renewable」は「再び新しく生み出せること」に焦点があります。たとえば、太陽エネルギーはrenewable（再生可能）であり、sustainable（持続可能）でもありますが、両者は使い分けが必要です。
 
@@ -105,14 +105,14 @@ TOEICでは環境や企業の社会的責任に関する長文や記事でよく
 
 ## 🧩 あわせて覚えたい
 
-- [eco friendly](/word/eco_friendly)：環境にやさしい
-- [conservation](/word/conservation)：保護、保存
+- [eco friendly](/word/eco_friendly/)：環境にやさしい
+- [conservation](/word/conservation/)：保護、保存
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [environmental](/word/environmental)：環境の
+- [efficient](/word/efficient/)：効率的な
+- [environmental](/word/environmental/)：環境の
 
 <!-- cvid: aid24_bid27 -->

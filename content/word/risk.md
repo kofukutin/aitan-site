@@ -97,7 +97,7 @@ TOEICではビジネス文脈で「リスクを取る」「リスクを評価す
 ## 🤔  hazard との違いは？
 
 - **risk**：危険が起こる「可能性」や「リスクそのもの」を指す
-- **[hazard](/word/hazard)**：実際に存在する「危険要因」や「危険物」を指す
+- **[hazard](/word/hazard/)**：実際に存在する「危険要因」や「危険物」を指す
 
 riskは「まだ起きていない危険の可能性」、hazardは「現実にある危険なものや状況」を表します。
 
@@ -105,14 +105,14 @@ riskは「まだ起きていない危険の可能性」、hazardは「現実に�
 
 ## 🧩 あわせて覚えたい
 
-- [chance](/word/chance)：機会、可能性
-- [security](/word/security)：安全、警備
+- [chance](/word/chance/)：機会、可能性
+- [security](/word/security/)：安全、警備
 
 ---
 
 ## 📖 できればこれも
 
-- [danger](/word/danger)：危険（実際に害を及ぼす可能性が高い状況）
-- [loss](/word/loss)：損失、失うこと
+- [danger](/word/danger/)：危険（実際に害を及ぼす可能性が高い状況）
+- [loss](/word/loss/)：損失、失うこと
 
 <!-- cvid: aid27_bid13 -->

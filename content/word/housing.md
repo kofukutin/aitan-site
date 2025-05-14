@@ -97,7 +97,7 @@ TOEICでは、福利厚生や都市開発、従業員向けの案内文などで
 ## 🤔  accommodation との違いは？
 
 - **housing**：住宅や住居全般、特に長期的な住まいを指す
-- **[accommodation](/word/accommodation)**：宿泊施設や一時的な滞在場所も含む広い意味
+- **[accommodation](/word/accommodation/)**：宿泊施設や一時的な滞在場所も含む広い意味
 
 「housing」は主に長期的な住まい、「accommodation」はホテルなど一時的な宿泊も含みます。
 
@@ -105,14 +105,14 @@ TOEICでは、福利厚生や都市開発、従業員向けの案内文などで
 
 ## 🧩 あわせて覚えたい
 
-- [residence](/word/residence)：居住、住まい
-- [shelter](/word/shelter)：避難所、シェルター
+- [residence](/word/residence/)：居住、住まい
+- [shelter](/word/shelter/)：避難所、シェルター
 
 ---
 
 ## 📖 できればこれも
 
-- [rent](/word/rent)：家賃、賃貸する
-- [property](/word/property)：不動産、財産
+- [rent](/word/rent/)：家賃、賃貸する
+- [property](/word/property/)：不動産、財産
 
 <!-- cvid: aid00_bid37 -->

@@ -97,7 +97,7 @@ TOEICではニュース記事やビジネス文書の中で「reporting」が登
 ## 🤔  coverage との違いは？
 
 - **reporting**：出来事や情報を伝える「報道」や「報告」という行為や活動を指す。
-- **[coverage](/word/coverage)**：出来事や話題がどれだけ広く取り上げられているか、またはその範囲を指す。
+- **[coverage](/word/coverage/)**：出来事や話題がどれだけ広く取り上げられているか、またはその範囲を指す。
 
 reportingは「伝える行為」自体、coverageは「伝えられている範囲や量」に焦点があります。
 
@@ -105,14 +105,14 @@ reportingは「伝える行為」自体、coverageは「伝えられている範
 
 ## 🧩 あわせて覚えたい
 
-- [announcement](/word/announcement)：発表、告知
-- [statement](/word/statement)：声明、発言
+- [announcement](/word/announcement/)：発表、告知
+- [statement](/word/statement/)：声明、発言
 
 ---
 
 ## 📖 できればこれも
 
-- [editor](/word/editor)：編集者
-- [summary](/word/summary)：要約
+- [editor](/word/editor/)：編集者
+- [summary](/word/summary/)：要約
 
 <!-- cvid: aid42_bid30 -->

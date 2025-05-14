@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や記事、Eメールなどで「投資」�
 ## 🤔  expense との違いは？
 
 - **investment**：将来の利益や成果を期待して使うお金や労力
-- **[expense](/word/expense)**：日常的な支出や経費
+- **[expense](/word/expense/)**：日常的な支出や経費
 
 investmentは「将来のリターンを見込んだ使い道」、expenseは「日々の出費やコスト」という違いがあります。
 
@@ -105,14 +105,14 @@ investmentは「将来のリターンを見込んだ使い道」、expenseは「
 
 ## 🧩 あわせて覚えたい
 
-- [asset](/word/asset)：資産
-- [fund](/word/fund)：資金
+- [asset](/word/asset/)：資産
+- [fund](/word/fund/)：資金
 
 ---
 
 ## 📖 できればこれも
 
-- [profit](/word/profit)：利益
-- [capital](/word/capital)：資本
+- [profit](/word/profit/)：利益
+- [capital](/word/capital/)：資本
 
 <!-- cvid: aid16_bid24 -->

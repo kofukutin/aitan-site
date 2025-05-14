@@ -97,7 +97,7 @@ TOEICでは大学や研究、教育関連の長文で見かけることが多い
 ## 🤔  dissertation との違いは？
 
 - **thesis**：学士・修士レベルの論文や主張を指すことが多い
-- **[dissertation](/word/dissertation)**：特に博士号取得のためのより大規模な論文を指す
+- **[dissertation](/word/dissertation/)**：特に博士号取得のためのより大規模な論文を指す
 
 thesisは一般的に修士や学士課程の論文、dissertationは博士課程の論文を指すことが多く、使い分けに注意が必要です。
 
@@ -105,14 +105,14 @@ thesisは一般的に修士や学士課程の論文、dissertationは博士課�
 
 ## 🧩 あわせて覚えたい
 
-- [essay](/word/essay)：小論文、エッセイ
-- [hypothesis](/word/hypothesis)：仮説
+- [essay](/word/essay/)：小論文、エッセイ
+- [hypothesis](/word/hypothesis/)：仮説
 
 ---
 
 ## 📖 できればこれも
 
-- [journal](/word/journal)：学術誌、日誌
-- [research](/word/research)：研究
+- [journal](/word/journal/)：学術誌、日誌
+- [research](/word/research/)：研究
 
 <!-- cvid: aid05_bid26 -->

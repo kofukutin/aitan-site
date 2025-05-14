@@ -97,7 +97,7 @@ TOEICではビジネス文書や会社案内、契約書などで「affiliate」
 ## 🤔  subsidiary との違いは？
 
 - **affiliate**：親会社と資本や契約でつながる「関連会社」や「提携団体」全般を指す
-- **[subsidiary](/word/subsidiary)**：親会社が過半数以上の株式を持つ「子会社」を指す
+- **[subsidiary](/word/subsidiary/)**：親会社が過半数以上の株式を持つ「子会社」を指す
 
 affiliateは幅広い提携関係を含み、subsidiaryは親会社の支配下にある子会社に限定されます。
 
@@ -105,14 +105,14 @@ affiliateは幅広い提携関係を含み、subsidiaryは親会社の支配下�
 
 ## 🧩 あわせて覚えたい
 
-- [branch](/word/branch)：支店、支社
-- [partner](/word/partner)：提携先、共同経営者
+- [branch](/word/branch/)：支店、支社
+- [partner](/word/partner/)：提携先、共同経営者
 
 ---
 
 ## 📖 できればこれも
 
-- [associate](/word/associate)：提携者、共同経営者
-- [division](/word/division)：部門、事業部
+- [associate](/word/associate/)：提携者、共同経営者
+- [division](/word/division/)：部門、事業部
 
 <!-- cvid: aid17_bid20 -->

@@ -97,7 +97,7 @@ TOEICでは「can/cannot afford to ～」の形で頻出し、主に金銭や時
 ## 🤔  manage との違いは？
 
 - **afford**：金銭や時間などの「余裕がある」ことを表す
-- **[manage](/word/manage)**：困難な状況でも「なんとかやり遂げる」ことを表す
+- **[manage](/word/manage/)**：困難な状況でも「なんとかやり遂げる」ことを表す
 
 affordは「できるかどうかの余裕」に焦点があり、manageは「困難を乗り越えて実現する」ニュアンスです。
 
@@ -105,14 +105,14 @@ affordは「できるかどうかの余裕」に焦点があり、manageは「�
 
 ## 🧩 あわせて覚えたい
 
-- [provide](/word/provide)：提供する
-- [purchase](/word/purchase)：購入する
+- [provide](/word/provide/)：提供する
+- [purchase](/word/purchase/)：購入する
 
 ---
 
 ## 📖 できればこれも
 
-- [spend](/word/spend)：使う（お金・時間を）
-- [save](/word/save)：貯める、節約する
+- [spend](/word/spend/)：使う（お金・時間を）
+- [save](/word/save/)：貯める、節約する
 
 <!-- cvid: aid06_bid06 -->

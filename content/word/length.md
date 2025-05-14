@@ -97,7 +97,7 @@ TOEICでは、図表や説明文、契約書などで「長さ」や「期間」
 ## 🤔  duration との違いは？
 
 - **length**：物理的な長さや時間的な長さ（期間）を幅広く表す
-- **[duration](/word/duration)**：主に「継続する時間」「期間」に限定して使う
+- **[duration](/word/duration/)**：主に「継続する時間」「期間」に限定して使う
 
 lengthは物のサイズや時間の長さなど幅広く使えますが、durationは「どれだけ続くか」という時間の長さに特化しています。
 
@@ -105,14 +105,14 @@ lengthは物のサイズや時間の長さなど幅広く使えますが、durat
 
 ## 🧩 あわせて覚えたい
 
-- [width](/word/width)：幅
-- [distance](/word/distance)：距離
+- [width](/word/width/)：幅
+- [distance](/word/distance/)：距離
 
 ---
 
 ## 📖 できればこれも
 
-- [height](/word/height)：高さ
-- [depth](/word/depth)：深さ
+- [height](/word/height/)：高さ
+- [depth](/word/depth/)：深さ
 
 <!-- cvid: aid23_bid10 -->

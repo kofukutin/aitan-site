@@ -97,7 +97,7 @@ TOEICではビジネス文書や会議の議事録、財務関連の長文で「
 ## 🤔  expense との違いは？
 
 - **overhead**：特定の製品やサービスに直接結びつかない、会社全体の運営に必要な間接費。
-- **[expense](/word/expense)**：特定の目的や活動にかかった費用全般。
+- **[expense](/word/expense/)**：特定の目的や活動にかかった費用全般。
 
 overheadは「間接費」に限定されるのに対し、expenseは「費用」全般を指し、直接費も含みます。
 
@@ -105,14 +105,14 @@ overheadは「間接費」に限定されるのに対し、expenseは「費用�
 
 ## 🧩 あわせて覚えたい
 
-- [cost](/word/cost)：コスト、費用
-- [revenue](/word/revenue)：収益
+- [cost](/word/cost/)：コスト、費用
+- [revenue](/word/revenue/)：収益
 
 ---
 
 ## 📖 できればこれも
 
-- [budget](/word/budget)：予算
-- [profit](/word/profit)：利益
+- [budget](/word/budget/)：予算
+- [profit](/word/profit/)：利益
 
 <!-- cvid: aid24_bid01 -->

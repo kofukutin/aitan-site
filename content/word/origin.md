@@ -97,7 +97,7 @@ TOEICでは「起源」「原産地」などの意味で、書類や説明文、
 ## 🤔  source との違いは？
 
 - **origin**：物事や人の「始まり」「起源」「由来」を指すフォーマルな語。
-- **[source](/word/source)**：情報や物質などの「供給源」「出どころ」を指し、より広く使われる。
+- **[source](/word/source/)**：情報や物質などの「供給源」「出どころ」を指し、より広く使われる。
 
 originは歴史的・根本的な始まりを強調し、sourceは何かが供給・発生する場所や手段を指します。
 
@@ -105,14 +105,14 @@ originは歴史的・根本的な始まりを強調し、sourceは何かが供�
 
 ## 🧩 あわせて覚えたい
 
-- [cause](/word/cause)：原因
-- [root](/word/root)：根源、根本
+- [cause](/word/cause/)：原因
+- [root](/word/root/)：根源、根本
 
 ---
 
 ## 📖 できればこれも
 
-- [purpose](/word/purpose)：目的
-- [result](/word/result)：結果
+- [purpose](/word/purpose/)：目的
+- [result](/word/result/)：結果
 
 <!-- cvid: aid42_bid34 -->

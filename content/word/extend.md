@@ -97,7 +97,7 @@ TOEICでは会議やビジネスメールの中で「期間を延長する」「
 ## 🤔  expand との違いは？
 
 - **extend**：期間や範囲を「延長する」「広げる」ことに重点がある
-- **[expand](/word/expand)**：規模や大きさを「拡大する」「膨張させる」ことに重点がある
+- **[expand](/word/expand/)**：規模や大きさを「拡大する」「膨張させる」ことに重点がある
 
 「extend」は主に長さや期間、サービスの範囲などを伸ばす時に使い、「expand」は物理的・抽象的な規模や容量を大きくする時に使います。
 
@@ -105,14 +105,14 @@ TOEICでは会議やビジネスメールの中で「期間を延長する」「
 
 ## 🧩 あわせて覚えたい
 
-- [prolong](/word/prolong)：（期間を）さらに長くする
-- [shorten](/word/shorten)：短くする、縮める
+- [prolong](/word/prolong/)：（期間を）さらに長くする
+- [shorten](/word/shorten/)：短くする、縮める
 
 ---
 
 ## 📖 できればこれも
 
-- [renew](/word/renew)：更新する、再開する
-- [postpone](/word/postpone)：延期する
+- [renew](/word/renew/)：更新する、再開する
+- [postpone](/word/postpone/)：延期する
 
 <!-- cvid: aid33_bid11 -->

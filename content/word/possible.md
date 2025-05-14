@@ -97,7 +97,7 @@ TOEICでは「possible」は選択肢や文中で頻出し、「可能な」「�
 ## 🤔  probable との違いは？
 
 - **possible**：実現や発生の可能性がある（できるかどうか）
-- **[probable](/word/probable)**：起こりそうな、十分ありそうな（起こる確率が高い）
+- **[probable](/word/probable/)**：起こりそうな、十分ありそうな（起こる確率が高い）
 
 possibleは「できるかどうか」に焦点があり、probableは「起こる可能性が高い」ことを強調します。
 
@@ -105,14 +105,14 @@ possibleは「できるかどうか」に焦点があり、probableは「起こ�
 
 ## 🧩 あわせて覚えたい
 
-- [impossible](/word/impossible)：不可能な
-- [potential](/word/potential)：潜在的な、可能性のある
+- [impossible](/word/impossible/)：不可能な
+- [potential](/word/potential/)：潜在的な、可能性のある
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/word/available)：利用できる、入手可能な
-- [necessary](/word/necessary)：必要な
+- [available](/word/available/)：利用できる、入手可能な
+- [necessary](/word/necessary/)：必要な
 
 <!-- cvid: aid11_bid00 -->

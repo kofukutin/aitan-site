@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、食べ物やレストランのシー
 ## 🤔  sandwich との違いは？
 
 - **hamburger**：パンで挟んだひき肉のパティが特徴のファストフード。
-- **[sandwich](/word/sandwich)**：パンで具材（肉・野菜・チーズなど）を挟んだ一般的なサンドイッチ。
+- **[sandwich](/word/sandwich/)**：パンで具材（肉・野菜・チーズなど）を挟んだ一般的なサンドイッチ。
 
 hamburgerは主にひき肉のパティを使うのが特徴で、sandwichは具材の種類が幅広く、冷たいものも多いです。
 
@@ -105,14 +105,14 @@ hamburgerは主にひき肉のパティを使うのが特徴で、sandwichは具
 
 ## 🧩 あわせて覚えたい
 
-- [cheeseburger](/word/cheeseburger)：チーズ入りハンバーガー
-- [fries](/word/fries)：フライドポテト
+- [cheeseburger](/word/cheeseburger/)：チーズ入りハンバーガー
+- [fries](/word/fries/)：フライドポテト
 
 ---
 
 ## 📖 できればこれも
 
-- [pizza](/word/pizza)：ピザ
-- [hot dog](/word/hot_dog)：ホットドッグ
+- [pizza](/word/pizza/)：ピザ
+- [hot dog](/word/hot_dog/)：ホットドッグ
 
 <!-- cvid: aid34_bid08 -->

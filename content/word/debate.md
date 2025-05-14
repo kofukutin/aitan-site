@@ -97,7 +97,7 @@ TOEICでは会議やディスカッションの場面で「debate」が使われ
 ## 🤔  discussion との違いは？
 
 - **debate**：賛成・反対など立場を明確にして意見を戦わせる討論
-- **[discussion](/word/discussion)**：自由に意見を出し合う話し合い
+- **[discussion](/word/discussion/)**：自由に意見を出し合う話し合い
 
 debateは立場が分かれて意見をぶつけ合う場面で使い、discussionはより幅広く意見交換する場合に使います。
 
@@ -105,14 +105,14 @@ debateは立場が分かれて意見をぶつけ合う場面で使い、discussi
 
 ## 🧩 あわせて覚えたい
 
-- [argument](/word/argument)：口論、主張
-- [conference](/word/conference)：会議、協議会
+- [argument](/word/argument/)：口論、主張
+- [conference](/word/conference/)：会議、協議会
 
 ---
 
 ## 📖 できればこれも
 
-- [proposal](/word/proposal)：提案
-- [issue](/word/issue)：問題、論点
+- [proposal](/word/proposal/)：提案
+- [issue](/word/issue/)：問題、論点
 
 <!-- cvid: aid45_bid42 -->

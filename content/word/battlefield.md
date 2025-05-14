@@ -99,7 +99,7 @@ TOEICでは歴史や観光、比喩表現としての「競争の場」として
 ## 🤔  battleground との違いは？
 
 - **battlefield**：実際の戦闘が行われる場所、または比喩的な争いの舞台
-- **[battleground](/word/battleground)**：争いが起こる場所やテーマ、物理的な場所に限らず使う
+- **[battleground](/word/battleground/)**：争いが起こる場所やテーマ、物理的な場所に限らず使う
 
 battlefieldは物理的な「戦場」の意味が強く、battlegroundは争いの「テーマ」や「分野」にも幅広く使われます。
 
@@ -107,14 +107,14 @@ battlefieldは物理的な「戦場」の意味が強く、battlegroundは争い
 
 ## 🧩 あわせて覚えたい
 
-- [conflict](/word/conflict)：対立、争い
-- [arena](/word/arena)：競技場、活動の舞台
+- [conflict](/word/conflict/)：対立、争い
+- [arena](/word/arena/)：競技場、活動の舞台
 
 ---
 
 ## 📖 できればこれも
 
-- [war](/word/war)：戦争
-- [soldier](/word/soldier)：兵士
+- [war](/word/war/)：戦争
+- [soldier](/word/soldier/)：兵士
 
 <!-- cvid: aid35_bid43 -->

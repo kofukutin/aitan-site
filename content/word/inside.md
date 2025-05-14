@@ -93,7 +93,7 @@ TOEICでは主にPart 1の写真描写で、物や人の位置関係を説明す
 ## 🤔  within との違いは？
 
 - **inside**：物理的・具体的な「中」にあることを強調
-- **[within](/word/within)**：範囲や制限の「内側」、抽象的な「中」を強調
+- **[within](/word/within/)**：範囲や制限の「内側」、抽象的な「中」を強調
 
 「inside」は箱や部屋など明確な空間の中に使い、「within」は時間や規則など抽象的な範囲にも使えます。
 
@@ -101,14 +101,14 @@ TOEICでは主にPart 1の写真描写で、物や人の位置関係を説明す
 
 ## 🧩 あわせて覚えたい
 
-- [outside](/word/outside)：外側、～の外に
-- [among](/word/among)：～の間で（3つ以上のものの中で）
+- [outside](/word/outside/)：外側、～の外に
+- [among](/word/among/)：～の間で（3つ以上のものの中で）
 
 ---
 
 ## 📖 できればこれも
 
-- [between](/word/between)：～の間に（2つのものの間）
-- [under](/word/under)：～の下に
+- [between](/word/between/)：～の間に（2つのものの間）
+- [under](/word/under/)：～の下に
 
 <!-- cvid: aid39_bid01 -->

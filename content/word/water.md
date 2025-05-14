@@ -98,7 +98,7 @@ TOEICではPart 1の写真描写で「水」や「水をやる」場面がよく
 ## 🤔  liquid との違いは？
 
 - **water**：飲み水や自然界の「水」を指す最も一般的な単語。
-- **[liquid](/word/liquid)**：液体全般を指し、水以外の液体にも使う。
+- **[liquid](/word/liquid/)**：液体全般を指し、水以外の液体にも使う。
 
 waterは「水」そのものを指し、liquidは「液体」という物理的な状態を広く表します。
 
@@ -106,14 +106,14 @@ waterは「水」そのものを指し、liquidは「液体」という物理的
 
 ## 🧩 あわせて覚えたい
 
-- [juice](/word/juice)：ジュース
-- [river](/word/river)：川
+- [juice](/word/juice/)：ジュース
+- [river](/word/river/)：川
 
 ---
 
 ## 📖 できればこれも
 
-- [drink](/word/drink)：飲む
-- [bottle](/word/bottle)：ボトル、瓶
+- [drink](/word/drink/)：飲む
+- [bottle](/word/bottle/)：ボトル、瓶
 
 <!-- cvid: aid15_bid28 -->

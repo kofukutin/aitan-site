@@ -97,7 +97,7 @@ TOEICではPart 3の会話文やビジネスシーンで、カジュアルな「
 ## 🤔  representative との違いは？
 
 - **rep**：カジュアルな「担当者」「営業」の略語。口語やメールでよく使う。
-- **[representative](/word/representative)**：フォーマルな「代表者」「担当者」。公式文書や会議で使う。
+- **[representative](/word/representative/)**：フォーマルな「代表者」「担当者」。公式文書や会議で使う。
 
 repは日常会話や社内メールなどカジュアルな場面向き、representativeはフォーマルな場面や書類で使われます。
 
@@ -105,14 +105,14 @@ repは日常会話や社内メールなどカジュアルな場面向き、repre
 
 ## 🧩 あわせて覚えたい
 
-- [agent](/word/agent)：代理人、仲介者
-- [delegate](/word/delegate)：代表者、使節
+- [agent](/word/agent/)：代理人、仲介者
+- [delegate](/word/delegate/)：代表者、使節
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client)：顧客、取引先
-- [manager](/word/manager)：管理者、マネージャー
+- [client](/word/client/)：顧客、取引先
+- [manager](/word/manager/)：管理者、マネージャー
 
 <!-- cvid: aid10_bid00 -->

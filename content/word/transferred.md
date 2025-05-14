@@ -97,7 +97,7 @@ TOEICでは、社員の異動や部署移動、データの転送などビジネ
 ## 🤔  relocated との違いは？
 
 - **transferred**：会社や組織内での異動・転任・転送を強調
-- **[relocated](/word/relocated)**：物理的な場所の移動や引っ越しを強調
+- **[relocated](/word/relocated/)**：物理的な場所の移動や引っ越しを強調
 
 transferredは職場や部署など組織内での配置換えに使われ、relocatedは住居やオフィスなど物理的な場所の移動に使われます。
 
@@ -105,14 +105,14 @@ transferredは職場や部署など組織内での配置換えに使われ、rel
 
 ## 🧩 あわせて覚えたい
 
-- [assign](/word/assign)：割り当てる、任命する
-- [promote](/word/promote)：昇進させる、促進する
+- [assign](/word/assign/)：割り当てる、任命する
+- [promote](/word/promote/)：昇進させる、促進する
 
 ---
 
 ## 📖 できればこれも
 
-- [appoint](/word/appoint)：任命する
-- [dispatch](/word/dispatch)：派遣する、発送する
+- [appoint](/word/appoint/)：任命する
+- [dispatch](/word/dispatch/)：派遣する、発送する
 
 <!-- cvid: aid19_bid19 -->

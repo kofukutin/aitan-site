@@ -97,7 +97,7 @@ TOEICでは、地理的な説明や会社の所在地、行政区分の説明な
 ## 🤔  area との違いは？
 
 - **district**：行政や目的によって区切られた明確な「地区」「区域」
-- **[area](/word/area)**：広く一般的な「地域」「範囲」
+- **[area](/word/area/)**：広く一般的な「地域」「範囲」
 
 districtは公式・行政的な区分に使われ、areaはより広く曖昧な範囲や場所に使われます。
 
@@ -105,14 +105,14 @@ districtは公式・行政的な区分に使われ、areaはより広く曖昧�
 
 ## 🧩 あわせて覚えたい
 
-- [region](/word/region)：（広域の）地域、地方
-- [zone](/word/zone)：（特定の目的の）区域、ゾーン
+- [region](/word/region/)：（広域の）地域、地方
+- [zone](/word/zone/)：（特定の目的の）区域、ゾーン
 
 ---
 
 ## 📖 できればこれも
 
-- [section](/word/section)：（全体の中の）部分、区分
-- [division](/word/division)：部門、分割された部分
+- [section](/word/section/)：（全体の中の）部分、区分
+- [division](/word/division/)：部門、分割された部分
 
 <!-- cvid: aid43_bid34 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写や、比較を表す文脈でよく登場
 ## 🤔  less との違いは？
 
 - **smaller**：大きさやサイズが「より小さい」ことを表す。
-- **[less](/word/less)**：量や程度が「より少ない」ことを表す。
+- **[less](/word/less/)**：量や程度が「より少ない」ことを表す。
 
 「smaller」は物理的なサイズの比較、「less」は数量や程度の比較に使います。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写や、比較を表す文脈でよく登場
 
 ## 🧩 あわせて覚えたい
 
-- [tiny](/word/tiny)：とても小さい
-- [compact](/word/compact)：小型でまとまった
+- [tiny](/word/tiny/)：とても小さい
+- [compact](/word/compact/)：小型でまとまった
 
 ---
 
 ## 📖 できればこれも
 
-- [shorter](/word/shorter)：より短い
-- [lower](/word/lower)：より低い
+- [shorter](/word/shorter/)：より短い
+- [lower](/word/lower/)：より低い
 
 <!-- cvid: aid00_bid49 -->

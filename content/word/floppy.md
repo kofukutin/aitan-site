@@ -97,7 +97,7 @@ IT関連や日常的な描写で登場することがあり、特に「floppy di
 ## 🤔  flexible との違いは？
 
 - **floppy**：だらんと垂れ下がるほど柔らかい、しっかり形を保てない
-- **[flexible](/word/flexible)**：柔軟性があり曲げられるが、元の形に戻ることもできる
+- **[flexible](/word/flexible/)**：柔軟性があり曲げられるが、元の形に戻ることもできる
 
 floppyは「だらしなく垂れる」ニュアンス、flexibleは「しなやかで曲げられるが丈夫」なニュアンスです。
 
@@ -105,14 +105,14 @@ floppyは「だらしなく垂れる」ニュアンス、flexibleは「しなや
 
 ## 🧩 あわせて覚えたい
 
-- [rigid](/word/rigid)：硬い、柔軟性がない
-- [loose](/word/loose)：ゆるい、締まっていない
+- [rigid](/word/rigid/)：硬い、柔軟性がない
+- [loose](/word/loose/)：ゆるい、締まっていない
 
 ---
 
 ## 📖 できればこれも
 
-- [soft](/word/soft)：柔らかい
-- [bendy](/word/bendy)：曲がりやすい
+- [soft](/word/soft/)：柔らかい
+- [bendy](/word/bendy/)：曲がりやすい
 
 <!-- cvid: aid22_bid20 -->

@@ -93,7 +93,7 @@ TOEICでは会話や説明文で「およそ」「周囲に」といった意味
 ## 🤔  about との違いは？
 
 - **around**：物理的な「周囲」や「およそ」の意味で使い、場所・時間・数量など幅広い。
-- **[about](/word/about)**：主に「～について」「およそ」の意味で、話題や内容に焦点を当てる。
+- **[about](/word/about/)**：主に「～について」「およそ」の意味で、話題や内容に焦点を当てる。
 
 「around」は空間や時間のぼかし、「about」は話題や内容の説明に使う違いがあります。
 
@@ -101,14 +101,14 @@ TOEICでは会話や説明文で「およそ」「周囲に」といった意味
 
 ## 🧩 あわせて覚えたい
 
-- [through](/word/through)：～を通って
-- [across](/word/across)：～を横切って
+- [through](/word/through/)：～を通って
+- [across](/word/across/)：～を横切って
 
 ---
 
 ## 📖 できればこれも
 
-- [over](/word/over)：～の上に、～を越えて
-- [beside](/word/beside)：～のそばに
+- [over](/word/over/)：～の上に、～を越えて
+- [beside](/word/beside/)：～のそばに
 
 <!-- cvid: aid26_bid09 -->

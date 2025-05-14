@@ -97,7 +97,7 @@ TOEICでは、会話や説明文で「ラジオ番組」「ラジオ局」など
 ## 🤔  broadcast との違いは？
 
 - **radio**：ラジオ放送やラジオ受信機そのものを指す
-- **[broadcast](/word/broadcast)**：放送する行為や番組全般を指す
+- **[broadcast](/word/broadcast/)**：放送する行為や番組全般を指す
 
 radioは「媒体」や「機器」、broadcastは「放送する行為」や「番組内容」に焦点があります。
 
@@ -105,14 +105,14 @@ radioは「媒体」や「機器」、broadcastは「放送する行為」や「
 
 ## 🧩 あわせて覚えたい
 
-- [television](/word/television)：テレビ、テレビ放送
-- [station](/word/station)：放送局、駅
+- [television](/word/television/)：テレビ、テレビ放送
+- [station](/word/station/)：放送局、駅
 
 ---
 
 ## 📖 できればこれも
 
-- [music](/word/music)：音楽
-- [news](/word/news)：ニュース
+- [music](/word/music/)：音楽
+- [news](/word/news/)：ニュース
 
 <!-- cvid: aid06_bid23 -->

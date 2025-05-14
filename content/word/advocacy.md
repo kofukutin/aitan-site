@@ -97,7 +97,7 @@ TOEICではビジネスや社会問題に関する長文で、政策や活動の
 ## 🤔  support との違いは？
 
 - **advocacy**：積極的に主張・提唱し、働きかける「擁護」「支持」
-- **[support](/word/support)**：広く一般的な「支援」「支持」
+- **[support](/word/support/)**：広く一般的な「支援」「支持」
 
 advocacyは社会的・政策的な場面で「声を上げて推進する」ニュアンスが強く、supportは日常的な「支える・助ける」意味で使われます。
 
@@ -105,14 +105,14 @@ advocacyは社会的・政策的な場面で「声を上げて推進する」ニ
 
 ## 🧩 あわせて覚えたい
 
-- [opposition](/word/opposition)：反対、対立
-- [promotion](/word/promotion)：推進、促進
+- [opposition](/word/opposition/)：反対、対立
+- [promotion](/word/promotion/)：推進、促進
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy)：方針、政策
-- [campaign](/word/campaign)：運動、キャンペーン
+- [policy](/word/policy/)：方針、政策
+- [campaign](/word/campaign/)：運動、キャンペーン
 
 <!-- cvid: aid01_bid14 -->

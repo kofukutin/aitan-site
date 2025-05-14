@@ -97,7 +97,7 @@ TOEICでは、ITやビジネスの文脈で「統合する」「組み込む」�
 ## 🤔  combining との違いは？
 
 - **integrating**：異なるものを一つの全体として機能させるように統合する
-- **[combining](/word/combining)**：単に複数のものを一緒にする、混ぜ合わせる
+- **[combining](/word/combining/)**：単に複数のものを一緒にする、混ぜ合わせる
 
 integratingは「全体の一部としてしっかり組み込む」ニュアンスがあり、combiningは「混ぜる・合わせる」程度の意味で使われます。
 
@@ -105,14 +105,14 @@ integratingは「全体の一部としてしっかり組み込む」ニュアン
 
 ## 🧩 あわせて覚えたい
 
-- [merge](/word/merge)：合併する、融合する
-- [incorporate](/word/incorporate)：取り入れる、組み入れる
+- [merge](/word/merge/)：合併する、融合する
+- [incorporate](/word/incorporate/)：取り入れる、組み入れる
 
 ---
 
 ## 📖 できればこれも
 
-- [implement](/word/implement)：実行する、導入する
-- [coordinate](/word/coordinate)：調整する、連携する
+- [implement](/word/implement/)：実行する、導入する
+- [coordinate](/word/coordinate/)：調整する、連携する
 
 <!-- cvid: aid27_bid27 -->

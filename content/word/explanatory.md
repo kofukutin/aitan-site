@@ -97,7 +97,7 @@ TOEICでは説明書や案内文、補足資料などの長文で見かけるこ
 ## 🤔  descriptive との違いは？
 
 - **explanatory**：説明するための、理由や背景を明らかにする
-- **[descriptive](/word/descriptive)**：描写的な、特徴や様子を詳しく述べる
+- **[descriptive](/word/descriptive/)**：描写的な、特徴や様子を詳しく述べる
 
 **explanatory** は「なぜそうなのか」を説明する時に使い、**descriptive** は「どんなものか」を描写する時に使います。
 
@@ -105,14 +105,14 @@ TOEICでは説明書や案内文、補足資料などの長文で見かけるこ
 
 ## 🧩 あわせて覚えたい
 
-- [clarify](/word/clarify)：明確にする、はっきりさせる
-- [interpret](/word/interpret)：解釈する、説明する
+- [clarify](/word/clarify/)：明確にする、はっきりさせる
+- [interpret](/word/interpret/)：解釈する、説明する
 
 ---
 
 ## 📖 できればこれも
 
-- [informative](/word/informative)：有益な、情報を与える
-- [illustrative](/word/illustrative)：説明のための、例示となる
+- [informative](/word/informative/)：有益な、情報を与える
+- [illustrative](/word/illustrative/)：説明のための、例示となる
 
 <!-- cvid: aid31_bid49 -->

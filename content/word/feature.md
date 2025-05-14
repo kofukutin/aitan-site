@@ -97,7 +97,7 @@ TOEICでは、製品やサービスの説明、プレゼン、会話文で「fea
 ## 🤔  function との違いは？
 
 - **feature**：製品やサービスの「特徴」や「目立つ機能」を指す
-- **[function](/word/function)**：主に「役割」や「働き」「機能そのもの」を指す
+- **[function](/word/function/)**：主に「役割」や「働き」「機能そのもの」を指す
 
 featureは「目立つ特長」や「付加価値的な機能」に焦点を当て、functionは「本来の役割」や「働き」に重点を置きます。
 
@@ -105,14 +105,14 @@ featureは「目立つ特長」や「付加価値的な機能」に焦点を当�
 
 ## 🧩 あわせて覚えたい
 
-- [characteristic](/word/characteristic)：特徴、特性
-- [aspect](/word/aspect)：側面、観点
+- [characteristic](/word/characteristic/)：特徴、特性
+- [aspect](/word/aspect/)：側面、観点
 
 ---
 
 ## 📖 できればこれも
 
-- [option](/word/option)：選択肢、オプション
-- [detail](/word/detail)：詳細、細部
+- [option](/word/option/)：選択肢、オプション
+- [detail](/word/detail/)：詳細、細部
 
 <!-- cvid: aid38_bid21 -->

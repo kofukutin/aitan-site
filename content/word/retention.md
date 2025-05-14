@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や人事関連の記事で「retention」が
 ## 🤔  preservation との違いは？
 
 - **retention**：何かを維持・保持し続けること、特に人や情報などの「とどめておく」ニュアンス
-- **[preservation](/word/preservation)**：主に「保存」「保護」など、外部から守ってそのままの状態を保つこと
+- **[preservation](/word/preservation/)**：主に「保存」「保護」など、外部から守ってそのままの状態を保つこと
 
 retentionは「中にとどめておく」イメージ、preservationは「外部から守って保つ」イメージで使い分けます。
 
@@ -105,14 +105,14 @@ retentionは「中にとどめておく」イメージ、preservationは「外�
 
 ## 🧩 あわせて覚えたい
 
-- [turnover](/word/turnover)：離職率、回転率
-- [storage](/word/storage)：保管、貯蔵
+- [turnover](/word/turnover/)：離職率、回転率
+- [storage](/word/storage/)：保管、貯蔵
 
 ---
 
 ## 📖 できればこれも
 
-- [maintain](/word/maintain)：維持する
-- [record](/word/record)：記録、記録する
+- [maintain](/word/maintain/)：維持する
+- [record](/word/record/)：記録、記録する
 
 <!-- cvid: aid32_bid20 -->

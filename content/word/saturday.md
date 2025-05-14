@@ -96,7 +96,7 @@ TOEICでは日付や予定、スケジュールの話題でよく登場します
 ## 🤔  weekend との違いは？
 
 - **Saturday**：週の特定の曜日（土曜日）を指す
-- **[weekend](/word/weekend)**：土日など週末全体を指す
+- **[weekend](/word/weekend/)**：土日など週末全体を指す
 
 Saturdayは「土曜日」だけを意味し、weekendは「週末」全体を指します。予定やイベントの日付を明確にしたいときはSaturdayを使います。
 
@@ -105,7 +105,7 @@ Saturdayは「土曜日」だけを意味し、weekendは「週末」全体を�
 ## 🧩 あわせて覚えたい
 
 - [Sunday](/Sunday)：日曜日
-- [holiday](/word/holiday)：休日
+- [holiday](/word/holiday/)：休日
 
 ---
 

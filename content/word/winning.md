@@ -97,7 +97,7 @@ TOEICでは、会話や説明文で「winning team（勝っているチーム）
 ## 🤔  victory との違いは？
 
 - **winning**：勝っている、勝利の、魅力的な（形容詞として状態や性質を表す）
-- **[victory](/word/victory)**：勝利（名詞として「勝つこと」そのものを指す）
+- **[victory](/word/victory/)**：勝利（名詞として「勝つこと」そのものを指す）
 
 **winning**は「勝っている状態」や「勝利につながる性質」を表し、**victory**は「勝利」という出来事や結果そのものを指します。
 
@@ -105,14 +105,14 @@ TOEICでは、会話や説明文で「winning team（勝っているチーム）
 
 ## 🧩 あわせて覚えたい
 
-- [lose](/word/lose)：負ける
-- [success](/word/success)：成功
+- [lose](/word/lose/)：負ける
+- [success](/word/success/)：成功
 
 ---
 
 ## 📖 できればこれも
 
-- [achieve](/word/achieve)：達成する
-- [result](/word/result)：結果
+- [achieve](/word/achieve/)：達成する
+- [result](/word/result/)：結果
 
 <!-- cvid: aid37_bid47 -->

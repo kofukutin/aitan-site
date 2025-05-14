@@ -97,7 +97,7 @@ TOEICでは、規則違反や契約違反などの文脈で「penalize」が動�
 ## 🤔  punish との違いは？
 
 - **penalize**：公式なルール違反や規則違反に対して罰や不利益を与える（フォーマル・限定的）。
-- **[punish](/word/punish)**：広く一般的に「罰する」。理由や場面を問わず使える。
+- **[punish](/word/punish/)**：広く一般的に「罰する」。理由や場面を問わず使える。
 
 penalizeは法律や規則など「公式なルール違反」に対して使われ、punishは日常的な「罰する」全般に使われます。
 
@@ -105,14 +105,14 @@ penalizeは法律や規則など「公式なルール違反」に対して使わ
 
 ## 🧩 あわせて覚えたい
 
-- [reward](/word/reward)：報酬を与える、報いる
-- [fine](/word/fine)：罰金、罰金を科す
+- [reward](/word/reward/)：報酬を与える、報いる
+- [fine](/word/fine/)：罰金、罰金を科す
 
 ---
 
 ## 📖 できればこれも
 
-- [violate](/word/violate)：違反する、破る
-- [enforce](/word/enforce)：施行する、実施する
+- [violate](/word/violate/)：違反する、破る
+- [enforce](/word/enforce/)：施行する、実施する
 
 <!-- cvid: aid09_bid20 -->

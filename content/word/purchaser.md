@@ -97,7 +97,7 @@ TOEICでは契約書や請求書、ビジネスメールなどの文書問題で
 ## 🤔  buyer との違いは？
 
 - **purchaser**：ビジネスや契約書などフォーマルな場面で使われる「購入者」
-- **[buyer](/word/buyer)**：日常的な「買い手」「購入者」
+- **[buyer](/word/buyer/)**：日常的な「買い手」「購入者」
 
 purchaserは公式文書やビジネスシーンで使われ、buyerは日常会話やカジュアルな場面でよく使われます。
 
@@ -105,14 +105,14 @@ purchaserは公式文書やビジネスシーンで使われ、buyerは日常会
 
 ## 🧩 あわせて覚えたい
 
-- [vendor](/word/vendor)：売り手、販売者
-- [client](/word/client)：顧客、取引先
+- [vendor](/word/vendor/)：売り手、販売者
+- [client](/word/client/)：顧客、取引先
 
 ---
 
 ## 📖 できればこれも
 
-- [supplier](/word/supplier)：供給者、納入業者
-- [order](/word/order)：注文
+- [supplier](/word/supplier/)：供給者、納入業者
+- [order](/word/order/)：注文
 
 <!-- cvid: aid15_bid40 -->

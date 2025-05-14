@@ -97,7 +97,7 @@ TOEICでは主にビジネスやオフィス、工場などの場面で「備品
 ## 🤔  device との違いは？
 
 - **equipment**：目的のために使う道具や装置全体・一式を指す
-- **[device](/word/device)**：特定の機能を持つ個々の機器や装置を指す
+- **[device](/word/device/)**：特定の機能を持つ個々の機器や装置を指す
 
 equipmentは「一式」「まとめて」など広い意味で使い、deviceは「個別の機械・装置」に限定されます。
 
@@ -105,14 +105,14 @@ equipmentは「一式」「まとめて」など広い意味で使い、device�
 
 ## 🧩 あわせて覚えたい
 
-- [tool](/word/tool)：道具、工具
-- [furniture](/word/furniture)：家具
+- [tool](/word/tool/)：道具、工具
+- [furniture](/word/furniture/)：家具
 
 ---
 
 ## 📖 できればこれも
 
-- [facility](/word/facility)：施設、設備
-- [material](/word/material)：材料、資材
+- [facility](/word/facility/)：施設、設備
+- [material](/word/material/)：材料、資材
 
 <!-- cvid: aid07_bid47 -->

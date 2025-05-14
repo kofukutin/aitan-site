@@ -97,7 +97,7 @@ TOEICではホテルやイベント案内、広告文などで「bridal package�
 ## 🤔  wedding との違いは？
 
 - **bridal**：花嫁や結婚式に関する形容詞
-- **[wedding](/word/wedding)**：結婚式そのもの（名詞）
+- **[wedding](/word/wedding/)**：結婚式そのもの（名詞）
 
 bridalは「花嫁の」「結婚式の」と形容詞的に使い、weddingは「結婚式」という出来事自体を指します。
 
@@ -105,14 +105,14 @@ bridalは「花嫁の」「結婚式の」と形容詞的に使い、weddingは�
 
 ## 🧩 あわせて覚えたい
 
-- [groom](/word/groom)：花婿
-- [marriage](/word/marriage)：結婚（生活や制度）
+- [groom](/word/groom/)：花婿
+- [marriage](/word/marriage/)：結婚（生活や制度）
 
 ---
 
 ## 📖 できればこれも
 
-- [engaged](/word/engaged)：婚約している
-- [ceremony](/word/ceremony)：式典、儀式
+- [engaged](/word/engaged/)：婚約している
+- [ceremony](/word/ceremony/)：式典、儀式
 
 <!-- cvid: aid43_bid48 -->

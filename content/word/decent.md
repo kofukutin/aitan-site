@@ -97,7 +97,7 @@ TOEICでは、職場環境や待遇、商品・サービスの質などを表す
 ## 🤔  respectable との違いは？
 
 - **decent**：社会的に受け入れられる、基準を満たしている
-- **[respectable](/word/respectable)**：尊敬に値する、立派な
+- **[respectable](/word/respectable/)**：尊敬に値する、立派な
 
 decentは「最低限の基準を満たしている」ニュアンスで、respectableは「他人から尊敬されるほど立派」という意味合いが強いです。
 
@@ -105,14 +105,14 @@ decentは「最低限の基準を満たしている」ニュアンスで、respe
 
 ## 🧩 あわせて覚えたい
 
-- [proper](/word/proper)：適切な、正しい
-- [adequate](/word/adequate)：十分な、適切な
+- [proper](/word/proper/)：適切な、正しい
+- [adequate](/word/adequate/)：十分な、適切な
 
 ---
 
 ## 📖 できればこれも
 
-- [modest](/word/modest)：控えめな、質素な
-- [reasonable](/word/reasonable)：妥当な、合理的な
+- [modest](/word/modest/)：控えめな、質素な
+- [reasonable](/word/reasonable/)：妥当な、合理的な
 
 <!-- cvid: aid45_bid10 -->

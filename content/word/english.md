@@ -105,13 +105,13 @@ Englishは普段の会話や文章で使い、English languageは学術的・公
 ## 🧩 あわせて覚えたい
 
 - [Japanese](/Japanese)：日本語、日本人
-- [native](/word/native)：母語話者、ネイティブ
+- [native](/word/native/)：母語話者、ネイティブ
 
 ---
 
 ## 📖 できればこれも
 
-- [language](/word/language)：言語
-- [lesson](/word/lesson)：授業、レッスン
+- [language](/word/language/)：言語
+- [lesson](/word/lesson/)：授業、レッスン
 
 <!-- cvid: aid45_bid10 -->

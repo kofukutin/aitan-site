@@ -98,7 +98,7 @@ TOEICでは、文中の副詞選択や、働き方・プロジェクトの進め
 ## 🤔  individually との違いは？
 
 - **independently**：他に頼らず自分の力で、独立して
-- **[individually](/word/individually)**：一人ひとり、個別に
+- **[individually](/word/individually/)**：一人ひとり、個別に
 
 independentlyは「他に依存せず自分の力で」という自立性を強調し、individuallyは「個々に」「それぞれ別々に」という意味で使い分けます。
 
@@ -106,14 +106,14 @@ independentlyは「他に依存せず自分の力で」という自立性を強�
 
 ## 🧩 あわせて覚えたい
 
-- [autonomously](/word/autonomously)：自律的に、自己判断で
-- [reliantly](/word/reliantly)：頼って、依存して
+- [autonomously](/word/autonomously/)：自律的に、自己判断で
+- [reliantly](/word/reliantly/)：頼って、依存して
 
 ---
 
 ## 📖 できればこれも
 
-- [efficiently](/word/efficiently)：効率的に
-- [effectively](/word/effectively)：効果的に
+- [efficiently](/word/efficiently/)：効率的に
+- [effectively](/word/effectively/)：効果的に
 
 <!-- cvid: aid03_bid11 -->

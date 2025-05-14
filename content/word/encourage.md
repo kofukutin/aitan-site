@@ -97,7 +97,7 @@ encourageはTOEICの会話パートで「提案を促す」「励ます」など
 ## 🤔  motivate との違いは？
 
 - **encourage**：相手の気持ちを前向きにしたり、行動を後押しするニュアンス
-- **[motivate](/word/motivate)**：内面的なやる気や動機を与えるニュアンス
+- **[motivate](/word/motivate/)**：内面的なやる気や動機を与えるニュアンス
 
 encourageは「励まし」や「背中を押す」場面で使い、motivateは「やる気を引き出す」ことに重点があります。
 
@@ -105,14 +105,14 @@ encourageは「励まし」や「背中を押す」場面で使い、motivateは
 
 ## 🧩 あわせて覚えたい
 
-- [support](/word/support)：支援する、支える
-- [discourage](/word/discourage)：やる気をなくさせる、落胆させる
+- [support](/word/support/)：支援する、支える
+- [discourage](/word/discourage/)：やる気をなくさせる、落胆させる
 
 ---
 
 ## 📖 できればこれも
 
-- [recommend](/word/recommend)：推薦する、勧める
-- [suggest](/word/suggest)：提案する
+- [recommend](/word/recommend/)：推薦する、勧める
+- [suggest](/word/suggest/)：提案する
 
 <!-- cvid: aid42_bid25 -->

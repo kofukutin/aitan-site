@@ -97,7 +97,7 @@ TOEICでは求人広告やビジネスメールなどで「job seeker（求職�
 ## 🤔  applicant との違いは？
 
 - **seeker**：何かを探し求めている人全般（例：仕事、真実、冒険など）
-- **[applicant](/word/applicant)**：特定の職や学校などに正式に応募した人
+- **[applicant](/word/applicant/)**：特定の職や学校などに正式に応募した人
 
 「seeker」は広く「探している人」を指し、「applicant」は実際に応募手続きをした人を指します。
 
@@ -105,14 +105,14 @@ TOEICでは求人広告やビジネスメールなどで「job seeker（求職�
 
 ## 🧩 あわせて覚えたい
 
-- [candidate](/word/candidate)：候補者
-- [employer](/word/employer)：雇用主
+- [candidate](/word/candidate/)：候補者
+- [employer](/word/employer/)：雇用主
 
 ---
 
 ## 📖 できればこれも
 
-- [position](/word/position)：職、役職
-- [opportunity](/word/opportunity)：機会
+- [position](/word/position/)：職、役職
+- [opportunity](/word/opportunity/)：機会
 
 <!-- cvid: aid08_bid07 -->

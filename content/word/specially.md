@@ -98,7 +98,7 @@ TOEICでは、説明文や案内文などで「特別な目的で」何かが行
 ## 🤔  especially との違いは？
 
 - **specially**：特別な目的や理由で、通常とは違う方法で
-- **[especially](/word/especially)**：とりわけ、特に（多くの中から際立って）
+- **[especially](/word/especially/)**：とりわけ、特に（多くの中から際立って）
 
 speciallyは「特別な目的・方法」に焦点があり、especiallyは「多くの中で特に目立つもの」に使います。
 
@@ -106,14 +106,14 @@ speciallyは「特別な目的・方法」に焦点があり、especiallyは「�
 
 ## 🧩 あわせて覚えたい
 
-- [particularly](/word/particularly)：特に、とりわけ
-- [specifically](/word/specifically)：具体的に、特に
+- [particularly](/word/particularly/)：特に、とりわけ
+- [specifically](/word/specifically/)：具体的に、特に
 
 ---
 
 ## 📖 できればこれも
 
-- [mainly](/word/mainly)：主に
-- [generally](/word/generally)：一般的に
+- [mainly](/word/mainly/)：主に
+- [generally](/word/generally/)：一般的に
 
 <!-- cvid: aid32_bid49 -->

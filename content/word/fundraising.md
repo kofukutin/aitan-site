@@ -97,7 +97,7 @@ TOEICでは、非営利団体やイベント案内、社内メールなどでfun
 ## 🤔  donation との違いは？
 
 - **fundraising**：資金を集める「活動」や「プロセス」を指す
-- **[donation](/word/donation)**：実際に寄付される「お金」や「物」、またはその「行為」を指す
+- **[donation](/word/donation/)**：実際に寄付される「お金」や「物」、またはその「行為」を指す
 
 fundraisingはお金を集めるための活動全体、donationはその活動で集まる寄付そのものを指します。
 
@@ -105,14 +105,14 @@ fundraisingはお金を集めるための活動全体、donationはその活動�
 
 ## 🧩 あわせて覚えたい
 
-- [sponsorship](/word/sponsorship)：スポンサーによる支援・協賛
-- [charity](/word/charity)：慈善活動、慈善団体
+- [sponsorship](/word/sponsorship/)：スポンサーによる支援・協賛
+- [charity](/word/charity/)：慈善活動、慈善団体
 
 ---
 
 ## 📖 できればこれも
 
-- [campaign](/word/campaign)：（目的のための）運動、キャンペーン
-- [contribution](/word/contribution)：貢献、寄付
+- [campaign](/word/campaign/)：（目的のための）運動、キャンペーン
+- [contribution](/word/contribution/)：貢献、寄付
 
 <!-- cvid: aid45_bid09 -->

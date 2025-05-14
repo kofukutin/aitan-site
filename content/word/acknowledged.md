@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やメール、記事などで「認められた
 ## 🤔  admitted との違いは？
 
 - **acknowledged**：広く認められた、公に認知された
-- **[admitted](/word/admitted)**：しぶしぶ認められた、受け入れられた
+- **[admitted](/word/admitted/)**：しぶしぶ認められた、受け入れられた
 
 「acknowledged」は肯定的・公的な評価を受けた場合に使い、「admitted」は否定的な事実や過ちをしぶしぶ認める場合に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネス文書やメール、記事などで「認められた
 
 ## 🧩 あわせて覚えたい
 
-- [recognized](/word/recognized)：認められた、評価された
-- [confirmed](/word/confirmed)：確認された、確定した
+- [recognized](/word/recognized/)：認められた、評価された
+- [confirmed](/word/confirmed/)：確認された、確定した
 
 ---
 
 ## 📖 できればこれも
 
-- [authorized](/word/authorized)：公認の、権限を与えられた
-- [designated](/word/designated)：指定された、任命された
+- [authorized](/word/authorized/)：公認の、権限を与えられた
+- [designated](/word/designated/)：指定された、任命された
 
 <!-- cvid: aid48_bid24 -->

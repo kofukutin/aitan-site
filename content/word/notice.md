@@ -98,7 +98,7 @@ TOEICでは会話や説明文で「気づく」「通知」といった意味で
 ## 🤔  realize との違いは？
 
 - **notice**：目に見える変化や事実に「気づく」「注目する」
-- **[realize](/word/realize)**：頭の中で「理解する」「はっきり認識する」
+- **[realize](/word/realize/)**：頭の中で「理解する」「はっきり認識する」
 
 noticeは視覚や感覚的な「気づき」に使い、realizeは心の中で「理解する」場面で使います。
 
@@ -106,14 +106,14 @@ noticeは視覚や感覚的な「気づき」に使い、realizeは心の中で�
 
 ## 🧩 あわせて覚えたい
 
-- [observe](/word/observe)：観察する
-- [ignore](/word/ignore)：無視する
+- [observe](/word/observe/)：観察する
+- [ignore](/word/ignore/)：無視する
 
 ---
 
 ## 📖 できればこれも
 
-- [mention](/word/mention)：言及する
-- [remind](/word/remind)：思い出させる
+- [mention](/word/mention/)：言及する
+- [remind](/word/remind/)：思い出させる
 
 <!-- cvid: aid35_bid21 -->

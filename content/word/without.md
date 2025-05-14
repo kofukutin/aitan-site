@@ -93,7 +93,7 @@ TOEICでは前置詞の使い分けや、否定的な意味を表す文脈でよ
 ## 🤔  unless との違いは？
 
 - **without**：～なしで、～を持たずに（前置詞）
-- **[unless](/word/unless)**：もし～でなければ（接続詞）
+- **[unless](/word/unless/)**：もし～でなければ（接続詞）
 
 withoutは「物や状態が存在しない」ことを表し、unlessは「条件が満たされない場合」を表します。使う場面や文法が異なります。
 
@@ -101,14 +101,14 @@ withoutは「物や状態が存在しない」ことを表し、unlessは「条�
 
 ## 🧩 あわせて覚えたい
 
-- [except](/word/except)：～を除いて
-- [despite](/word/despite)：～にもかかわらず
+- [except](/word/except/)：～を除いて
+- [despite](/word/despite/)：～にもかかわらず
 
 ---
 
 ## 📖 できればこれも
 
-- [within](/word/within)：～以内に
-- [throughout](/word/throughout)：～の間ずっと、～の至る所に
+- [within](/word/within/)：～以内に
+- [throughout](/word/throughout/)：～の間ずっと、～の至る所に
 
 <!-- cvid: aid34_bid18 -->

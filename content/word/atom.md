@@ -97,7 +97,7 @@ TOEICでは科学や技術に関する長文や説明文で登場することが
 ## 🤔  molecule との違いは？
 
 - **atom**：物質を構成する最小の単位で、単独でも存在します。
-- **[molecule](/word/molecule)**：複数の原子が結合してできる分子。
+- **[molecule](/word/molecule/)**：複数の原子が結合してできる分子。
 
 atomは「これ以上分けられない最小単位」、moleculeは「原子が集まってできる単位」と覚えましょう。
 
@@ -105,14 +105,14 @@ atomは「これ以上分けられない最小単位」、moleculeは「原子�
 
 ## 🧩 あわせて覚えたい
 
-- [element](/word/element)：元素、物質を構成する基本的な種類
-- [compound](/word/compound)：化合物、異なる元素が結合したもの
+- [element](/word/element/)：元素、物質を構成する基本的な種類
+- [compound](/word/compound/)：化合物、異なる元素が結合したもの
 
 ---
 
 ## 📖 できればこれも
 
-- [cell](/word/cell)：細胞、生物の基本単位
-- [particle](/word/particle)：粒子、ごく小さな物質のかけら
+- [cell](/word/cell/)：細胞、生物の基本単位
+- [particle](/word/particle/)：粒子、ごく小さな物質のかけら
 
 <!-- cvid: aid02_bid10 -->

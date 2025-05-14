@@ -97,7 +97,7 @@ TOEICでは、法律やビジネスの公式文書、規則説明などで doctr
 ## 🤔  policy との違いは？
 
 - **doctrine**：体系的・公式な教義や原則（特に宗教・法律・政治分野で使う）
-- **[policy](/word/policy)**：組織や個人が採用する具体的な方針やルール
+- **[policy](/word/policy/)**：組織や個人が採用する具体的な方針やルール
 
 doctrine は抽象的・理論的な「原則」や「教義」を指し、policy は実際の運用や行動指針を意味します。
 
@@ -105,14 +105,14 @@ doctrine は抽象的・理論的な「原則」や「教義」を指し、polic
 
 ## 🧩 あわせて覚えたい
 
-- [principle](/word/principle)：原則、信条
-- [dogma](/word/dogma)：（宗教的な）教義、独断的な信条
+- [principle](/word/principle/)：原則、信条
+- [dogma](/word/dogma/)：（宗教的な）教義、独断的な信条
 
 ---
 
 ## 📖 できればこれも
 
-- [statute](/word/statute)：法令、制定法
-- [regulation](/word/regulation)：規則、規制
+- [statute](/word/statute/)：法令、制定法
+- [regulation](/word/regulation/)：規則、規制
 
 <!-- cvid: aid30_bid21 -->

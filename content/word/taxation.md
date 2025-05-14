@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や公式な通知、経済記事などで登
 ## 🤔  tax との違いは？
 
 - **taxation**：課税の仕組みや制度、税金を課す行為全体を指すフォーマルな言葉
-- **[tax](/word/tax)**：個々の税金や課される金額そのもの
+- **[tax](/word/tax/)**：個々の税金や課される金額そのもの
 
 taxationは「課税」という制度やプロセスを強調し、taxは実際に支払う「税金」やその金額を指します。
 
@@ -105,14 +105,14 @@ taxationは「課税」という制度やプロセスを強調し、taxは実際
 
 ## 🧩 あわせて覚えたい
 
-- [levy](/word/levy)：課税、徴収
-- [exemption](/word/exemption)：免除、控除
+- [levy](/word/levy/)：課税、徴収
+- [exemption](/word/exemption/)：免除、控除
 
 ---
 
 ## 📖 できればこれも
 
-- [revenue](/word/revenue)：収入、歳入
-- [regulation](/word/regulation)：規制、規則
+- [revenue](/word/revenue/)：収入、歳入
+- [regulation](/word/regulation/)：規制、規則
 
 <!-- cvid: aid20_bid45 -->

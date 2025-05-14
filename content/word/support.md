@@ -97,7 +97,7 @@ TOEICでは会議やビジネスの場面で「支援」「サポート」とい
 ## 🤔  assist との違いは？
 
 - **support**：広く「支援」「支持」など物理的・精神的なサポート全般を表す
-- **[assist](/word/assist)**：主に「手伝う」「補助する」といった実際の行動や作業の補助を指す
+- **[assist](/word/assist/)**：主に「手伝う」「補助する」といった実際の行動や作業の補助を指す
 
 supportは気持ちや立場の支援も含みますが、assistは具体的な作業や行動の補助に使われます。
 
@@ -105,14 +105,14 @@ supportは気持ちや立場の支援も含みますが、assistは具体的な�
 
 ## 🧩 あわせて覚えたい
 
-- [encourage](/word/encourage)：励ます、勇気づける
-- [oppose](/word/oppose)：反対する
+- [encourage](/word/encourage/)：励ます、勇気づける
+- [oppose](/word/oppose/)：反対する
 
 ---
 
 ## 📖 できればこれも
 
-- [help](/word/help)：助ける、手伝う
-- [service](/word/service)：サービス、業務
+- [help](/word/help/)：助ける、手伝う
+- [service](/word/service/)：サービス、業務
 
 <!-- cvid: aid32_bid47 -->

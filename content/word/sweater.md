@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、服装や人物の説明として出
 ## 🤔  cardigan との違いは？
 
 - **sweater**：頭からかぶって着るセーター全般を指す。
-- **[cardigan](/word/cardigan)**：前開きでボタンやジッパーが付いたセーター。
+- **[cardigan](/word/cardigan/)**：前開きでボタンやジッパーが付いたセーター。
 
 sweaterはかぶって着るタイプが一般的ですが、cardiganは前開きで羽織るタイプのセーターです。
 
@@ -105,14 +105,14 @@ sweaterはかぶって着るタイプが一般的ですが、cardiganは前開�
 
 ## 🧩 あわせて覚えたい
 
-- [jacket](/word/jacket)：ジャケット、上着
-- [pullover](/word/pullover)：プルオーバー（かぶって着るセーター）
+- [jacket](/word/jacket/)：ジャケット、上着
+- [pullover](/word/pullover/)：プルオーバー（かぶって着るセーター）
 
 ---
 
 ## 📖 できればこれも
 
-- [shirt](/word/shirt)：シャツ
-- [scarf](/word/scarf)：マフラー、スカーフ
+- [shirt](/word/shirt/)：シャツ
+- [scarf](/word/scarf/)：マフラー、スカーフ
 
 <!-- cvid: aid32_bid48 -->

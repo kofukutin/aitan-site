@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、プールやビーチの場面
 ## 🤔  rescuer との違いは？
 
 - **lifeguard**：プールや海などで人々の安全を守る専門職の監視員
-- **[rescuer](/word/rescuer)**：一般的に人を救助する人（職業に限らない）
+- **[rescuer](/word/rescuer/)**：一般的に人を救助する人（職業に限らない）
 
 lifeguardは特定の場所での安全管理を職業とする人、rescuerは状況を問わず救助する人全般を指します。
 
@@ -105,14 +105,14 @@ lifeguardは特定の場所での安全管理を職業とする人、rescuerは�
 
 ## 🧩 あわせて覚えたい
 
-- [supervisor](/word/supervisor)：監督者、管理者
-- [attendant](/word/attendant)：付き添い人、係員
+- [supervisor](/word/supervisor/)：監督者、管理者
+- [attendant](/word/attendant/)：付き添い人、係員
 
 ---
 
 ## 📖 できればこれも
 
-- [swimmer](/word/swimmer)：泳ぐ人
-- [pool](/word/pool)：プール
+- [swimmer](/word/swimmer/)：泳ぐ人
+- [pool](/word/pool/)：プール
 
 <!-- cvid: aid47_bid49 -->

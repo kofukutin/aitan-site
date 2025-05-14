@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や報告書で「かなりの」「大幅な」
 ## 🤔  significant との違いは？
 
 - **substantial**：量や規模が「かなり大きい」「実質的な」ことを強調
-- **[significant](/word/significant)**：重要性や意味が「大きい」「意味深い」ことを強調
+- **[significant](/word/significant/)**：重要性や意味が「大きい」「意味深い」ことを強調
 
 substantialは「量・規模の大きさ」に重点があり、significantは「重要性・意味の大きさ」に重点があります。
 
@@ -105,14 +105,14 @@ substantialは「量・規模の大きさ」に重点があり、significantは�
 
 ## 🧩 あわせて覚えたい
 
-- [minor](/word/minor)：小さい、重要でない
-- [considerable](/word/considerable)：かなりの、相当な
+- [minor](/word/minor/)：小さい、重要でない
+- [considerable](/word/considerable/)：かなりの、相当な
 
 ---
 
 ## 📖 できればこれも
 
-- [adequate](/word/adequate)：十分な、適切な
-- [essential](/word/essential)：不可欠な、非常に重要な
+- [adequate](/word/adequate/)：十分な、適切な
+- [essential](/word/essential/)：不可欠な、非常に重要な
 
 <!-- cvid: aid01_bid03 -->

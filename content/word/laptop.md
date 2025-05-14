@@ -96,7 +96,7 @@ TOEICでは会議やビジネスシーンで「laptop」がよく登場します
 ## 🤔  notebook との違いは？
 
 - **laptop**：持ち運びできるノートパソコン全般を指す。
-- **[notebook](/word/notebook)**：薄型・軽量のノートパソコンを指すことが多い。
+- **[notebook](/word/notebook/)**：薄型・軽量のノートパソコンを指すことが多い。
 
 laptopは一般的なノートパソコン全体を指し、notebookはより薄型・軽量なモデルに使われることが多いです。
 
@@ -104,14 +104,14 @@ laptopは一般的なノートパソコン全体を指し、notebookはより薄
 
 ## 🧩 あわせて覚えたい
 
-- [desktop](/word/desktop)：据え置き型パソコン
-- [tablet](/word/tablet)：タブレット端末
+- [desktop](/word/desktop/)：据え置き型パソコン
+- [tablet](/word/tablet/)：タブレット端末
 
 ---
 
 ## 📖 できればこれも
 
-- [monitor](/word/monitor)：モニター、画面
-- [keyboard](/word/keyboard)：キーボード
+- [monitor](/word/monitor/)：モニター、画面
+- [keyboard](/word/keyboard/)：キーボード
 
 <!-- cvid: aid26_bid46 -->

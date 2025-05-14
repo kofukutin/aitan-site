@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や記事の中で「違い」や「優秀さ」
 ## 🤔  difference との違いは？
 
 - **distinction**：明確で重要な違い、または優秀さを強調するフォーマルな表現
-- **[difference](/word/difference)**：一般的な「違い」を表すカジュアルな単語
+- **[difference](/word/difference/)**：一般的な「違い」を表すカジュアルな単語
 
 distinctionは「はっきりした区別」や「特筆すべき差」を強調したいときに使い、differenceは日常的な「違い」全般に使います。
 
@@ -105,14 +105,14 @@ distinctionは「はっきりした区別」や「特筆すべき差」を強調
 
 ## 🧩 あわせて覚えたい
 
-- [contrast](/word/contrast)：対照、対比
-- [similarity](/word/similarity)：類似点
+- [contrast](/word/contrast/)：対照、対比
+- [similarity](/word/similarity/)：類似点
 
 ---
 
 ## 📖 できればこれも
 
-- [criteria](/word/criteria)：基準
-- [category](/word/category)：分類、カテゴリー
+- [criteria](/word/criteria/)：基準
+- [category](/word/category/)：分類、カテゴリー
 
 <!-- cvid: aid09_bid24 -->

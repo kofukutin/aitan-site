@@ -97,7 +97,7 @@ TOEICのPart 1で、写真の中の歩道や通路を説明する際によく登
 ## 🤔  sidewalk との違いは？
 
 - **walkway**：建物や公園、屋内外を問わず人が歩くための通路全般を指す。
-- **[sidewalk](/word/sidewalk)**：主に道路脇の歩道（特にアメリカ英語）を指す。
+- **[sidewalk](/word/sidewalk/)**：主に道路脇の歩道（特にアメリカ英語）を指す。
 
 walkwayは場所を問わず幅広く使えますが、sidewalkは道路沿いの歩道に限定されることが多いです。
 
@@ -105,14 +105,14 @@ walkwayは場所を問わず幅広く使えますが、sidewalkは道路沿い�
 
 ## 🧩 あわせて覚えたい
 
-- [path](/word/path)：小道、細い道
-- [corridor](/word/corridor)：建物内の廊下
+- [path](/word/path/)：小道、細い道
+- [corridor](/word/corridor/)：建物内の廊下
 
 ---
 
 ## 📖 できればこれも
 
-- [bridge](/word/bridge)：橋
-- [entrance](/word/entrance)：入口
+- [bridge](/word/bridge/)：橋
+- [entrance](/word/entrance/)：入口
 
 <!-- cvid: aid21_bid46 -->

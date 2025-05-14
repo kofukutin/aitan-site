@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、建物や車の屋根を説明する
 ## 🤔  ceiling との違いは？
 
 - **roof**：建物の外側最上部を覆う「屋根」
-- **[ceiling](/word/ceiling)**：部屋の内側の「天井」
+- **[ceiling](/word/ceiling/)**：部屋の内側の「天井」
 
 roofは外から見える屋根、ceilingは部屋の中から見上げる天井を指します。
 
@@ -105,14 +105,14 @@ roofは外から見える屋根、ceilingは部屋の中から見上げる天井
 
 ## 🧩 あわせて覚えたい
 
-- [wall](/word/wall)：壁
-- [floor](/word/floor)：床
+- [wall](/word/wall/)：壁
+- [floor](/word/floor/)：床
 
 ---
 
 ## 📖 できればこれも
 
-- [window](/word/window)：窓
-- [door](/word/door)：ドア
+- [window](/word/window/)：窓
+- [door](/word/door/)：ドア
 
 <!-- cvid: aid29_bid04 -->

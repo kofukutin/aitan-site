@@ -98,7 +98,7 @@ TOEICでは、契約や案内文、ビジネス文書などで「～だけに限
 ## 🤔  only との違いは？
 
 - **exclusively**：他を完全に除外して「～だけに限定して」という意味を強調するフォーマルな副詞
-- **[only](/word/only)**：単に「～だけ」「～しか」と限定するが、カジュアルな場面でも広く使える
+- **[only](/word/only/)**：単に「～だけ」「～しか」と限定するが、カジュアルな場面でも広く使える
 
 「exclusively」はフォーマルで強い限定を表し、ビジネスや公式文書でよく使われます。「only」は日常的で幅広い場面に使えます。
 
@@ -106,14 +106,14 @@ TOEICでは、契約や案内文、ビジネス文書などで「～だけに限
 
 ## 🧩 あわせて覚えたい
 
-- [solely](/word/solely)：もっぱら、単独で
-- [entirely](/word/entirely)：完全に、全く
+- [solely](/word/solely/)：もっぱら、単独で
+- [entirely](/word/entirely/)：完全に、全く
 
 ---
 
 ## 📖 できればこれも
 
-- [specifically](/word/specifically)：特に、具体的に
-- [primarily](/word/primarily)：主に
+- [specifically](/word/specifically/)：特に、具体的に
+- [primarily](/word/primarily/)：主に
 
 <!-- cvid: aid35_bid22 -->

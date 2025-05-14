@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で「皿」や「料理」として登場
 ## 🤔  plate との違いは？
 
 - **dish**：料理全体や、浅い皿そのものも指す
-- **[plate](/word/plate)**：主に平たい皿そのものを指す
+- **[plate](/word/plate/)**：主に平たい皿そのものを指す
 
 dishは「料理」や「皿」の両方の意味で使われますが、plateは「平たい皿」だけを指します。
 
@@ -106,14 +106,14 @@ dishは「料理」や「皿」の両方の意味で使われますが、plate�
 
 ## 🧩 あわせて覚えたい
 
-- [bowl](/word/bowl)：深い器、ボウル
-- [meal](/word/meal)：食事、食事の時間
+- [bowl](/word/bowl/)：深い器、ボウル
+- [meal](/word/meal/)：食事、食事の時間
 
 ---
 
 ## 📖 できればこれも
 
-- [spoon](/word/spoon)：スプーン
-- [order](/word/order)：注文する
+- [spoon](/word/spoon/)：スプーン
+- [order](/word/order/)：注文する
 
 <!-- cvid: aid01_bid44 -->

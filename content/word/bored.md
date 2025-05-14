@@ -97,7 +97,7 @@ boredは会話文や感情表現でよく出題されます。人の気持ちを
 ## 🤔  boring との違いは？
 
 - **bored**：退屈している（人の感情）
-- **[boring](/word/boring)**：退屈させる（物や出来事）
+- **[boring](/word/boring/)**：退屈させる（物や出来事）
 
 boredは「人が感じる退屈」、boringは「物や出来事が退屈な性質」を表します。
 
@@ -105,14 +105,14 @@ boredは「人が感じる退屈」、boringは「物や出来事が退屈な性
 
 ## 🧩 あわせて覚えたい
 
-- [interested](/word/interested)：興味を持っている
-- [tired](/word/tired)：疲れている
+- [interested](/word/interested/)：興味を持っている
+- [tired](/word/tired/)：疲れている
 
 ---
 
 ## 📖 できればこれも
 
-- [excited](/word/excited)：わくわくしている
-- [annoyed](/word/annoyed)：イライラしている
+- [excited](/word/excited/)：わくわくしている
+- [annoyed](/word/annoyed/)：イライラしている
 
 <!-- cvid: aid16_bid42 -->

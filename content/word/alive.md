@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「生きている」「存続している」と
 ## 🤔  live との違いは？
 
 - **alive**：生きている状態や存在していることを表す形容詞
-- **[live](/word/live)**：生放送・生演奏の「生の」、または「住む」「生きる」という動詞
+- **[live](/word/live/)**：生放送・生演奏の「生の」、または「住む」「生きる」という動詞
 
 aliveは「命がある」状態を指し、liveは「生で行う」「住む」など意味や使い方が異なります。
 
@@ -105,14 +105,14 @@ aliveは「命がある」状態を指し、liveは「生で行う」「住む�
 
 ## 🧩 あわせて覚えたい
 
-- [dead](/word/dead)：死んでいる
-- [exist](/word/exist)：存在する
+- [dead](/word/dead/)：死んでいる
+- [exist](/word/exist/)：存在する
 
 ---
 
 ## 📖 できればこれも
 
-- [awake](/word/awake)：目が覚めている
-- [active](/word/active)：活動的な
+- [awake](/word/awake/)：目が覚めている
+- [active](/word/active/)：活動的な
 
 <!-- cvid: aid17_bid26 -->

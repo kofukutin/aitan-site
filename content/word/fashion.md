@@ -97,7 +97,7 @@ TOEICでは広告や記事、Eメールなどで「流行」や「ファッシ�
 ## 🤔  style との違いは？
 
 - **fashion**：社会的に流行している服装や様式を指す
-- **[style](/word/style)**：個人や物の独自のスタイル・特徴を指す
+- **[style](/word/style/)**：個人や物の独自のスタイル・特徴を指す
 
 fashionは「今流行しているもの」に焦点があり、styleは「個人や物の独自性・特徴」に重きを置きます。
 
@@ -105,14 +105,14 @@ fashionは「今流行しているもの」に焦点があり、styleは「個�
 
 ## 🧩 あわせて覚えたい
 
-- [trend](/word/trend)：流行、傾向
-- [custom](/word/custom)：習慣、慣習
+- [trend](/word/trend/)：流行、傾向
+- [custom](/word/custom/)：習慣、慣習
 
 ---
 
 ## 📖 できればこれも
 
-- [design](/word/design)：デザイン、設計
-- [brand](/word/brand)：ブランド、銘柄
+- [design](/word/design/)：デザイン、設計
+- [brand](/word/brand/)：ブランド、銘柄
 
 <!-- cvid: aid09_bid03 -->

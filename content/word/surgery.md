@@ -97,7 +97,7 @@ TOEICでは医療や健康に関する長文や説明文で登場することが
 ## 🤔  operation との違いは？
 
 - **surgery**：医師が行う外科的な手術や外科そのものを指す、ややフォーマルな語。
-- **[operation](/word/operation)**：手術全般や広い意味での「作業・操作」も含む、より一般的な語。
+- **[operation](/word/operation/)**：手術全般や広い意味での「作業・操作」も含む、より一般的な語。
 
 surgeryは医療現場での外科手術に特化した表現で、operationは手術以外の「操作」や「活動」にも使われます。
 
@@ -105,14 +105,14 @@ surgeryは医療現場での外科手術に特化した表現で、operationは�
 
 ## 🧩 あわせて覚えたい
 
-- [procedure](/word/procedure)：処置、手順
-- [treatment](/word/treatment)：治療、処置
+- [procedure](/word/procedure/)：処置、手順
+- [treatment](/word/treatment/)：治療、処置
 
 ---
 
 ## 📖 できればこれも
 
-- [patient](/word/patient)：患者
-- [hospital](/word/hospital)：病院
+- [patient](/word/patient/)：患者
+- [hospital](/word/hospital/)：病院
 
 <!-- cvid: aid34_bid47 -->

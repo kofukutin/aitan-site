@@ -97,7 +97,7 @@ TOEICでは主にビジネスや金融関連の文脈で出題されます。特
 ## 🤔  spend との違いは？
 
 - **invest**：将来の利益や成果を期待してお金・時間・労力を使う
-- **[spend](/word/spend)**：単にお金や時間を使うこと全般
+- **[spend](/word/spend/)**：単にお金や時間を使うこと全般
 
 investは「リターンを期待して使う」ニュアンスがあり、spendは「使う」こと自体に重点があります。
 
@@ -105,14 +105,14 @@ investは「リターンを期待して使う」ニュアンスがあり、spend
 
 ## 🧩 あわせて覚えたい
 
-- [allocate](/word/allocate)：割り当てる、配分する
-- [fund](/word/fund)：資金、基金
+- [allocate](/word/allocate/)：割り当てる、配分する
+- [fund](/word/fund/)：資金、基金
 
 ---
 
 ## 📖 できればこれも
 
-- [profit](/word/profit)：利益
-- [finance](/word/finance)：財務、資金供給
+- [profit](/word/profit/)：利益
+- [finance](/word/finance/)：財務、資金供給
 
 <!-- cvid: aid37_bid00 -->

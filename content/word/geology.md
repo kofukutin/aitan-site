@@ -97,7 +97,7 @@ TOEICでは科学や環境に関する長文や記事、説明文で登場する
 ## 🤔  geography との違いは？
 
 - **geology**：地球の構造や岩石・鉱物など、地球そのものの成り立ちを研究する学問
-- **[geography](/word/geography)**：地形や気候、人間の活動など、地球上の場所や空間の特徴を研究する学問
+- **[geography](/word/geography/)**：地形や気候、人間の活動など、地球上の場所や空間の特徴を研究する学問
 
 geologyは「地球の中身や成り立ち」に焦点を当て、geographyは「地球上の場所や分布、人間活動」に注目します。
 
@@ -105,14 +105,14 @@ geologyは「地球の中身や成り立ち」に焦点を当て、geographyは�
 
 ## 🧩 あわせて覚えたい
 
-- [mineral](/word/mineral)：鉱物
-- [volcano](/word/volcano)：火山
+- [mineral](/word/mineral/)：鉱物
+- [volcano](/word/volcano/)：火山
 
 ---
 
 ## 📖 できればこれも
 
-- [biology](/word/biology)：生物学
-- [chemistry](/word/chemistry)：化学
+- [biology](/word/biology/)：生物学
+- [chemistry](/word/chemistry/)：化学
 
 <!-- cvid: aid06_bid42 -->

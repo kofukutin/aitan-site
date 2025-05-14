@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文読解で、学術的な記事やレポートの
 ## 🤔  reference との違いは？
 
 - **bibliography**：文書の最後にまとめて記載する「参考文献一覧」や「文献目録」。
-- **[reference](/word/reference)**：個々の「参照文献」や「引用元」、または「推薦状」など幅広い意味。
+- **[reference](/word/reference/)**：個々の「参照文献」や「引用元」、または「推薦状」など幅広い意味。
 
 bibliographyは複数の文献を一覧で示す場合に使い、referenceは個々の文献や情報源を指す場合に使います。
 
@@ -105,14 +105,14 @@ bibliographyは複数の文献を一覧で示す場合に使い、referenceは�
 
 ## 🧩 あわせて覚えたい
 
-- [citation](/word/citation)：引用、引用文
-- [footnote](/word/footnote)：脚注
+- [citation](/word/citation/)：引用、引用文
+- [footnote](/word/footnote/)：脚注
 
 ---
 
 ## 📖 できればこれも
 
-- [manuscript](/word/manuscript)：原稿、手書き文書
-- [journal](/word/journal)：学術誌、日誌
+- [manuscript](/word/manuscript/)：原稿、手書き文書
+- [journal](/word/journal/)：学術誌、日誌
 
 <!-- cvid: aid21_bid23 -->

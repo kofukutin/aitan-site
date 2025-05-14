@@ -97,7 +97,7 @@ TOEICでは、公式な発表や税関での申告など、ビジネスや公的
 ## 🤔  announce との違いは？
 
 - **declare**：公式・公的に「宣言する」「申告する」など、フォーマルな場面で使う
-- **[announce](/word/announce)**：広く「発表する」「知らせる」など、フォーマル・カジュアル両方で使える
+- **[announce](/word/announce/)**：広く「発表する」「知らせる」など、フォーマル・カジュアル両方で使える
 
 declareは「公式な宣言」や「義務的な申告」に使われ、announceは「ニュースやイベントの発表」など幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ declareは「公式な宣言」や「義務的な申告」に使われ、announc
 
 ## 🧩 あわせて覚えたい
 
-- [proclaim](/word/proclaim)：（公式に）宣言する
-- [state](/word/state)：述べる、明言する
+- [proclaim](/word/proclaim/)：（公式に）宣言する
+- [state](/word/state/)：述べる、明言する
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/word/confirm)：確認する、確かめる
-- [report](/word/report)：報告する、伝える
+- [confirm](/word/confirm/)：確認する、確かめる
+- [report](/word/report/)：報告する、伝える
 
 <!-- cvid: aid00_bid31 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、衣服や車の部位を説明する
 ## 🤔  cap との違いは？
 
 - **hood**：衣服についている頭を覆う布や車のボンネット
-- **[cap](/word/cap)**：頭にかぶる帽子
+- **[cap](/word/cap/)**：頭にかぶる帽子
 
 hoodは衣服や車の一部としての「覆い」を指し、capは独立した「帽子」を指します。
 
@@ -105,14 +105,14 @@ hoodは衣服や車の一部としての「覆い」を指し、capは独立し�
 
 ## 🧩 あわせて覚えたい
 
-- [helmet](/word/helmet)：ヘルメット（頭部を守るかぶりもの）
-- [jacket](/word/jacket)：ジャケット（上着）
+- [helmet](/word/helmet/)：ヘルメット（頭部を守るかぶりもの）
+- [jacket](/word/jacket/)：ジャケット（上着）
 
 ---
 
 ## 📖 できればこれも
 
-- [scarf](/word/scarf)：マフラー、スカーフ
-- [glove](/word/glove)：手袋
+- [scarf](/word/scarf/)：マフラー、スカーフ
+- [glove](/word/glove/)：手袋
 
 <!-- cvid: aid33_bid46 -->

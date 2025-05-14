@@ -97,7 +97,7 @@ TOEICでは「on a regular basis」や「on the basis of」の形で頻出し、
 ## 🤔  foundation との違いは？
 
 - **basis**：物事の根拠や基準、方式など抽象的な「土台」
-- **[foundation](/word/foundation)**：物理的・組織的な「基盤」や「設立」
+- **[foundation](/word/foundation/)**：物理的・組織的な「基盤」や「設立」
 
 **basis**は考え方や仕組みの土台、**foundation**は建物や組織など具体的な土台に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは「on a regular basis」や「on the basis of」の形で頻出し、
 
 ## 🧩 あわせて覚えたい
 
-- [principle](/word/principle)：原則、信条
-- [standard](/word/standard)：基準、標準
+- [principle](/word/principle/)：原則、信条
+- [standard](/word/standard/)：基準、標準
 
 ---
 
 ## 📖 できればこれも
 
-- [method](/word/method)：方法
-- [system](/word/system)：制度、体系
+- [method](/word/method/)：方法
+- [system](/word/system/)：制度、体系
 
 <!-- cvid: aid04_bid39 -->

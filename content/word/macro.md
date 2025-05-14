@@ -98,7 +98,7 @@ ITやビジネス文書の説明文で、作業効率化や自動化の文脈で
 ## 🤔  script との違いは？
 
 - **macro**：主に特定のアプリケーション内で動作する自動化手順や命令の集まり
-- **[script](/word/script)**：より汎用的で、複数のアプリやシステムで動作するプログラムや命令の集まり
+- **[script](/word/script/)**：より汎用的で、複数のアプリやシステムで動作するプログラムや命令の集まり
 
 macroはアプリ内の自動化に特化し、scriptはより広範囲な自動処理やプログラミングに使われます。
 
@@ -106,14 +106,14 @@ macroはアプリ内の自動化に特化し、scriptはより広範囲な自動
 
 ## 🧩 あわせて覚えたい
 
-- [automation](/word/automation)：自動化
-- [function](/word/function)：関数、機能
+- [automation](/word/automation/)：自動化
+- [function](/word/function/)：関数、機能
 
 ---
 
 ## 📖 できればこれも
 
-- [template](/word/template)：ひな形、テンプレート
-- [module](/word/module)：モジュール、構成単位
+- [template](/word/template/)：ひな形、テンプレート
+- [module](/word/module/)：モジュール、構成単位
 
 <!-- cvid: aid04_bid21 -->

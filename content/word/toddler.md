@@ -97,7 +97,7 @@ TOEICでは保育施設や家族に関する長文や案内文で見かけるこ
 ## 🤔  infant との違いは？
 
 - **toddler**：歩き始めた1～3歳くらいの幼児
-- **[infant](/word/infant)**：生後すぐ～1歳くらいまでの赤ちゃん
+- **[infant](/word/infant/)**：生後すぐ～1歳くらいまでの赤ちゃん
 
 toddlerは「歩き始めた幼児」、infantは「まだ歩けない乳児」を指します。
 
@@ -105,14 +105,14 @@ toddlerは「歩き始めた幼児」、infantは「まだ歩けない乳児」�
 
 ## 🧩 あわせて覚えたい
 
-- [child](/word/child)：子ども（一般的な子ども全般）
-- [preschooler](/word/preschooler)：未就学児（幼稚園・保育園に通う年齢の子）
+- [child](/word/child/)：子ども（一般的な子ども全般）
+- [preschooler](/word/preschooler/)：未就学児（幼稚園・保育園に通う年齢の子）
 
 ---
 
 ## 📖 できればこれも
 
-- [nursery](/word/nursery)：保育園、託児所
-- [kindergarten](/word/kindergarten)：幼稚園
+- [nursery](/word/nursery/)：保育園、託児所
+- [kindergarten](/word/kindergarten/)：幼稚園
 
 <!-- cvid: aid04_bid32 -->

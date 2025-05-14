@@ -97,7 +97,7 @@ TOEICではビジネスの成長やプロジェクトの拡大に関する文脈
 ## 🤔  extension との違いは？
 
 - **expansion**：規模や範囲が広がること、全体的な拡大
-- **[extension](/word/extension)**：長さや期間などを「伸ばす」こと、追加や延長
+- **[extension](/word/extension/)**：長さや期間などを「伸ばす」こと、追加や延長
 
 expansionは「全体が大きくなる」イメージ、extensionは「一部を付け足して伸ばす」イメージで使い分けます。
 
@@ -105,14 +105,14 @@ expansionは「全体が大きくなる」イメージ、extensionは「一部�
 
 ## 🧩 あわせて覚えたい
 
-- [contraction](/word/contraction)：収縮、縮小
-- [growth](/word/growth)：成長、発展
+- [contraction](/word/contraction/)：収縮、縮小
+- [growth](/word/growth/)：成長、発展
 
 ---
 
 ## 📖 できればこれも
 
-- [increase](/word/increase)：増加、増える
-- [development](/word/development)：発展、開発
+- [increase](/word/increase/)：増加、増える
+- [development](/word/development/)：発展、開発
 
 <!-- cvid: aid46_bid30 -->

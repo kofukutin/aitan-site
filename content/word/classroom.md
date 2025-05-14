@@ -97,7 +97,7 @@ TOEICでは教育や研修に関する長文や案内文でよく登場します
 ## 🤔  lecture hall との違いは？
 
 - **classroom**：主に小中高校や少人数の授業で使われる一般的な教室
-- **[lecture hall](/word/lecture_hall)**：大学などで使われる大人数向けの講義室
+- **[lecture hall](/word/lecture_hall/)**：大学などで使われる大人数向けの講義室
 
 classroomは少人数向けの一般的な教室、lecture hallは大学などの大規模な講義室を指します。
 
@@ -105,14 +105,14 @@ classroomは少人数向けの一般的な教室、lecture hallは大学など�
 
 ## 🧩 あわせて覚えたい
 
-- [laboratory](/word/laboratory)：実験室
-- [school](/word/school)：学校
+- [laboratory](/word/laboratory/)：実験室
+- [school](/word/school/)：学校
 
 ---
 
 ## 📖 できればこれも
 
-- [teacher](/word/teacher)：教師
-- [student](/word/student)：生徒
+- [teacher](/word/teacher/)：教師
+- [student](/word/student/)：生徒
 
 <!-- cvid: aid16_bid36 -->

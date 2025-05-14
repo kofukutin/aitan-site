@@ -97,7 +97,7 @@ TOEICでは、ビジネスや社会的な影響力について述べる記事や
 ## 🤔  powerful との違いは？
 
 - **influential**：他人や物事に間接的に大きな影響を与える力がある
-- **[powerful](/word/powerful)**：直接的・物理的・精神的に強い力や影響を持つ
+- **[powerful](/word/powerful/)**：直接的・物理的・精神的に強い力や影響を持つ
 
 「influential」は主に人や組織が周囲に与える影響力を指し、「powerful」は力そのものや影響の強さをより直接的に表します。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネスや社会的な影響力について述べる記事や
 
 ## 🧩 あわせて覚えたい
 
-- [persuasive](/word/persuasive)：説得力のある
-- [dominant](/word/dominant)：支配的な、優勢な
+- [persuasive](/word/persuasive/)：説得力のある
+- [dominant](/word/dominant/)：支配的な、優勢な
 
 ---
 
 ## 📖 できればこれも
 
-- [significant](/word/significant)：重要な
-- [notable](/word/notable)：注目すべき、顕著な
+- [significant](/word/significant/)：重要な
+- [notable](/word/notable/)：注目すべき、顕著な
 
 <!-- cvid: aid21_bid19 -->

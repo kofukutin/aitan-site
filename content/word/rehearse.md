@@ -97,7 +97,7 @@ TOEICでは、会議やプレゼン、イベント準備の会話で「リハー
 ## 🤔  practice との違いは？
 
 - **rehearse**：本番を想定して発表や演技を繰り返し練習する
-- **[practice](/word/practice)**：一般的に技術や動作を練習する
+- **[practice](/word/practice/)**：一般的に技術や動作を練習する
 
 rehearseは特に舞台やプレゼンなど「本番がある場面」で使い、practiceはスポーツや楽器など幅広い練習に使います。
 
@@ -105,14 +105,14 @@ rehearseは特に舞台やプレゼンなど「本番がある場面」で使い
 
 ## 🧩 あわせて覚えたい
 
-- [prepare](/word/prepare)：準備する
-- [memorize](/word/memorize)：暗記する
+- [prepare](/word/prepare/)：準備する
+- [memorize](/word/memorize/)：暗記する
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/word/present)：発表する
-- [perform](/word/perform)：演じる、実行する
+- [present](/word/present/)：発表する
+- [perform](/word/perform/)：演じる、実行する
 
 <!-- cvid: aid11_bid43 -->

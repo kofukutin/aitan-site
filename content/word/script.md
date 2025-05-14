@@ -97,7 +97,7 @@ scriptは、ITやビジネス文書、説明文などで「台本」「原稿」
 ## 🤔  scenario との違いは？
 
 - **script**：台本や原稿、またはプログラムとして実際に「書かれた内容」を指す
-- **[scenario](/word/scenario)**：物語や計画の「筋書き」や「想定される状況」を指す
+- **[scenario](/word/scenario/)**：物語や計画の「筋書き」や「想定される状況」を指す
 
 scriptは実際に書かれたテキストや指示書、scenarioは物事の展開や仮定の状況を表します。
 
@@ -105,14 +105,14 @@ scriptは実際に書かれたテキストや指示書、scenarioは物事の展
 
 ## 🧩 あわせて覚えたい
 
-- [manuscript](/word/manuscript)：原稿、手書き文書
-- [transcript](/word/transcript)：写し、書き起こし、成績証明書
+- [manuscript](/word/manuscript/)：原稿、手書き文書
+- [transcript](/word/transcript/)：写し、書き起こし、成績証明書
 
 ---
 
 ## 📖 できればこれも
 
-- [program](/word/program)：プログラム、計画
-- [document](/word/document)：文書、書類
+- [program](/word/program/)：プログラム、計画
+- [document](/word/document/)：文書、書類
 
 <!-- cvid: aid40_bid00 -->

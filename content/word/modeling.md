@@ -97,7 +97,7 @@ ITやビジネスの文脈で、システムやデータの「モデル化」を
 ## 🤔  simulation との違いは？
 
 - **modeling**：物事の構造や仕組みを表現するためにモデルを作ること
-- **[simulation](/word/simulation)**：作成したモデルを使って実際の動作や現象を模擬的に再現すること
+- **[simulation](/word/simulation/)**：作成したモデルを使って実際の動作や現象を模擬的に再現すること
 
 modelingは「モデルを作る」こと自体、simulationは「モデルを使って動きを再現する」ことに重点があります。
 
@@ -105,14 +105,14 @@ modelingは「モデルを作る」こと自体、simulationは「モデルを�
 
 ## 🧩 あわせて覚えたい
 
-- [representation](/word/representation)：表現、描写
-- [prototype](/word/prototype)：試作品、原型
+- [representation](/word/representation/)：表現、描写
+- [prototype](/word/prototype/)：試作品、原型
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/word/analysis)：分析
-- [design](/word/design)：設計
+- [analysis](/word/analysis/)：分析
+- [design](/word/design/)：設計
 
 <!-- cvid: aid11_bid40 -->

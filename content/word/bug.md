@@ -97,7 +97,7 @@ IT関連のメールや説明文で「バグ（不具合）」として出題さ
 ## 🤔  error との違いは？
 
 - **bug**：主にプログラムやシステムの「不具合」「バグ」を指すカジュアルな表現。
-- **[error](/word/error)**：より広く「誤り」「ミス」「エラー」を指し、フォーマルな場面でも使われる。
+- **[error](/word/error/)**：より広く「誤り」「ミス」「エラー」を指し、フォーマルな場面でも使われる。
 
 bugはIT分野で「バグ」として使われ、errorはシステムや人為的な「エラー」全般に使われます。
 
@@ -105,14 +105,14 @@ bugはIT分野で「バグ」として使われ、errorはシステムや人為�
 
 ## 🧩 あわせて覚えたい
 
-- [glitch](/word/glitch)：一時的な小さな不具合
-- [virus](/word/virus)：コンピュータウイルス
+- [glitch](/word/glitch/)：一時的な小さな不具合
+- [virus](/word/virus/)：コンピュータウイルス
 
 ---
 
 ## 📖 できればこれも
 
-- [issue](/word/issue)：問題、課題
-- [feature](/word/feature)：機能、特徴
+- [issue](/word/issue/)：問題、課題
+- [feature](/word/feature/)：機能、特徴
 
 <!-- cvid: aid26_bid44 -->

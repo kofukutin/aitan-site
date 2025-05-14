@@ -97,7 +97,7 @@ TOEICでは、名詞として「比較」「比べること」の意味で、選
 ## 🤔  contrast との違いは？
 
 - **comparison**：2つ以上のものを比べて共通点や違いを見つけること全般
-- **[contrast](/word/contrast)**：2つ以上のものの「違い・対照」に特に注目して比べること
+- **[contrast](/word/contrast/)**：2つ以上のものの「違い・対照」に特に注目して比べること
 
 comparisonは「比べること」全般を指し、contrastは「違い」に焦点を当てて強調する時に使います。
 
@@ -105,14 +105,14 @@ comparisonは「比べること」全般を指し、contrastは「違い」に�
 
 ## 🧩 あわせて覚えたい
 
-- [similarity](/word/similarity)：類似点、似ていること
-- [difference](/word/difference)：違い、相違点
+- [similarity](/word/similarity/)：類似点、似ていること
+- [difference](/word/difference/)：違い、相違点
 
 ---
 
 ## 📖 できればこれも
 
-- [compare](/word/compare)：比べる
-- [evaluation](/word/evaluation)：評価、査定
+- [compare](/word/compare/)：比べる
+- [evaluation](/word/evaluation/)：評価、査定
 
 <!-- cvid: aid30_bid48 -->

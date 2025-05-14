@@ -97,7 +97,7 @@ TOEICでは、農業や食品、環境に関する長文や記事で「grain」�
 ## 🤔  seed との違いは？
 
 - **grain**：食用になる穀物や小さな粒を指す
-- **[seed](/word/seed)**：植物を育てるための「種」
+- **[seed](/word/seed/)**：植物を育てるための「種」
 
 grainは主に食べ物や材料としての「粒」や「穀物」を指し、seedは植物を育てるための「種」という意味で使い分けます。
 
@@ -105,14 +105,14 @@ grainは主に食べ物や材料としての「粒」や「穀物」を指し、
 
 ## 🧩 あわせて覚えたい
 
-- [rice](/word/rice)：米
-- [wheat](/word/wheat)：小麦
+- [rice](/word/rice/)：米
+- [wheat](/word/wheat/)：小麦
 
 ---
 
 ## 📖 できればこれも
 
-- [crop](/word/crop)：作物
-- [harvest](/word/harvest)：収穫
+- [crop](/word/crop/)：作物
+- [harvest](/word/harvest/)：収穫
 
 <!-- cvid: aid46_bid35 -->

@@ -97,7 +97,7 @@ The doctor increased the dose for better results.
 ## 🤔  amount との違いは？
 
 - **dose**：薬やワクチンなど「一回分の決まった量」を指す
-- **[amount](/word/amount)**：物や量全般の「総量」「分量」を指す
+- **[amount](/word/amount/)**：物や量全般の「総量」「分量」を指す
 
 doseは主に医療や薬の分野で「一度に与える量」を表し、amountはより広く「量」全般に使われます。
 
@@ -105,14 +105,14 @@ doseは主に医療や薬の分野で「一度に与える量」を表し、amou
 
 ## 🧩 あわせて覚えたい
 
-- [prescription](/word/prescription)：処方箋
-- [quantity](/word/quantity)：数量、分量
+- [prescription](/word/prescription/)：処方箋
+- [quantity](/word/quantity/)：数量、分量
 
 ---
 
 ## 📖 できればこれも
 
-- [prescribe](/word/prescribe)：処方する
-- [medicine](/word/medicine)：薬
+- [prescribe](/word/prescribe/)：処方する
+- [medicine](/word/medicine/)：薬
 
 <!-- cvid: aid30_bid47 -->

@@ -97,7 +97,7 @@ TOEICでは、日常会話やビジネスの比喩表現（例：economic bubble
 ## 🤔  foam との違いは？
 
 - **bubble**：液体中や表面にできる丸い小さな泡、一つ一つを指す。
-- **[foam](/word/foam)**：たくさんの泡が集まった泡状の物質や層を指す。
+- **[foam](/word/foam/)**：たくさんの泡が集まった泡状の物質や層を指す。
 
 「bubble」は個々の泡や比喩的な使い方が多く、「foam」は泡の集合体や物質としての泡を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、日常会話やビジネスの比喩表現（例：economic bubble
 
 ## 🧩 あわせて覚えたい
 
-- [burst](/word/burst)：破裂する、はじける
-- [sphere](/word/sphere)：球体、球
+- [burst](/word/burst/)：破裂する、はじける
+- [sphere](/word/sphere/)：球体、球
 
 ---
 
 ## 📖 できればこれも
 
-- [liquid](/word/liquid)：液体
-- [float](/word/float)：浮かぶ
+- [liquid](/word/liquid/)：液体
+- [float](/word/float/)：浮かぶ
 
 <!-- cvid: aid41_bid19 -->

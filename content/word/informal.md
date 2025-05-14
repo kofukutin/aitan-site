@@ -97,7 +97,7 @@ TOEICでは、文書や会話のトーンを問う問題や、フォーマル／
 ## 🤔  casual との違いは？
 
 - **informal**：公式でなく、堅苦しくないことを表す。場面や言葉遣いに幅広く使う。
-- **[casual](/word/casual)**：気軽さや普段着のようなラフさを強調。服装や態度に多く使う。
+- **[casual](/word/casual/)**：気軽さや普段着のようなラフさを強調。服装や態度に多く使う。
 
 informalは「公式でない」こと全般に使い、casualは「気軽さ・ラフさ」により重点があります。
 
@@ -105,14 +105,14 @@ informalは「公式でない」こと全般に使い、casualは「気軽さ・
 
 ## 🧩 あわせて覚えたい
 
-- [formal](/word/formal)：公式の、形式的な
-- [relaxed](/word/relaxed)：くつろいだ、リラックスした
+- [formal](/word/formal/)：公式の、形式的な
+- [relaxed](/word/relaxed/)：くつろいだ、リラックスした
 
 ---
 
 ## 📖 できればこれも
 
-- [official](/word/official)：公式の、公的な
-- [friendly](/word/friendly)：親しみやすい、友好的な
+- [official](/word/official/)：公式の、公的な
+- [friendly](/word/friendly/)：親しみやすい、友好的な
 
 <!-- cvid: aid14_bid33 -->

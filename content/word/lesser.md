@@ -97,7 +97,7 @@ TOEICでは比較表現や、重要度・規模の違いを説明する文脈で
 ## 🤔  minor との違いは？
 
 - **lesser**：他と比べて「より小さい」「より重要でない」と数量や重要度の差を強調する。
-- **[minor](/word/minor)**：主に「重要でない」「小さい」といった意味で、全体の中での位置づけや程度を表す。
+- **[minor](/word/minor/)**：主に「重要でない」「小さい」といった意味で、全体の中での位置づけや程度を表す。
 
 lesserは比較対象が明確なときに使われ、minorは絶対的に重要度が低い場合に使われます。
 
@@ -105,14 +105,14 @@ lesserは比較対象が明確なときに使われ、minorは絶対的に重要
 
 ## 🧩 あわせて覚えたい
 
-- [inferior](/word/inferior)：劣っている
-- [secondary](/word/secondary)：二次的な、補助的な
+- [inferior](/word/inferior/)：劣っている
+- [secondary](/word/secondary/)：二次的な、補助的な
 
 ---
 
 ## 📖 できればこれも
 
-- [greater](/word/greater)：より大きい、より重要な
-- [major](/word/major)：主要な、重要な
+- [greater](/word/greater/)：より大きい、より重要な
+- [major](/word/major/)：主要な、重要な
 
 <!-- cvid: aid10_bid35 -->

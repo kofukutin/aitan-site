@@ -97,7 +97,7 @@ TOEICでは「責任」や「故障」「欠点」といった意味で、主に
 ## 🤔  mistake との違いは？
 
 - **fault**：責任や過失、欠点を指し、誰の責任かを強調する時に使う
-- **[mistake](/word/mistake)**：単なる「間違い」や「誤り」を指し、責任の有無は問わない
+- **[mistake](/word/mistake/)**：単なる「間違い」や「誤り」を指し、責任の有無は問わない
 
 faultは「誰の責任か」「原因は何か」を明確にしたい場面で使い、mistakeは単純なミスや誤りを表します。
 
@@ -105,14 +105,14 @@ faultは「誰の責任か」「原因は何か」を明確にしたい場面で
 
 ## 🧩 あわせて覚えたい
 
-- [blame](/word/blame)：責める、責任を問う
-- [defect](/word/defect)：欠陥、不良
+- [blame](/word/blame/)：責める、責任を問う
+- [defect](/word/defect/)：欠陥、不良
 
 ---
 
 ## 📖 できればこれも
 
-- [error](/word/error)：エラー、誤り
-- [issue](/word/issue)：問題、課題
+- [error](/word/error/)：エラー、誤り
+- [issue](/word/issue/)：問題、課題
 
 <!-- cvid: aid27_bid11 -->

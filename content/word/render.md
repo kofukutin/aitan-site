@@ -98,7 +98,7 @@ TOEICでは主にITやビジネス文書、説明文で「提供する」「描�
 ## 🤔  provide との違いは？
 
 - **render**：抽象的・専門的な「与える」「表現する」「描写する」に使う。  
-- **[provide](/word/provide)**：一般的な「提供する」「与える」に幅広く使う。
+- **[provide](/word/provide/)**：一般的な「提供する」「与える」に幅広く使う。
 
 「render」は専門的・フォーマルな場面や、目に見えないもの（サービス・意見・画像など）を「形にして示す」ニュアンスが強いです。一方「provide」は日常的な「物やサービスを与える」場合に使います。
 
@@ -106,14 +106,14 @@ TOEICでは主にITやビジネス文書、説明文で「提供する」「描�
 
 ## 🧩 あわせて覚えたい
 
-- [deliver](/word/deliver)：届ける、配達する
-- [depict](/word/depict)：描写する、描く
+- [deliver](/word/deliver/)：届ける、配達する
+- [depict](/word/depict/)：描写する、描く
 
 ---
 
 ## 📖 できればこれも
 
-- [generate](/word/generate)：生み出す、発生させる
-- [supply](/word/supply)：供給する、提供する
+- [generate](/word/generate/)：生み出す、発生させる
+- [supply](/word/supply/)：供給する、提供する
 
 <!-- cvid: aid08_bid36 -->

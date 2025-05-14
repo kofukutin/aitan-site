@@ -93,7 +93,7 @@ TOEICでは仮定や丁寧な依頼、過去の習慣を表す文脈でよく登
 ## 🤔  used to との違いは？
 
 - **would**：過去の習慣や仮定、丁寧な依頼など幅広く使う
-- **[used to](/word/used_to)**：過去の習慣や以前の状態を表す
+- **[used to](/word/used_to/)**：過去の習慣や以前の状態を表す
 
 「would」は過去の習慣だけでなく仮定や依頼にも使えますが、「used to」は過去の習慣や状態だけに限定されます。
 
@@ -101,14 +101,14 @@ TOEICでは仮定や丁寧な依頼、過去の習慣を表す文脈でよく登
 
 ## 🧩 あわせて覚えたい
 
-- [will](/word/will)：～するつもりだ（意志・未来を表す助動詞）
-- [could](/word/could)：～できた、～かもしれない（canの過去形・丁寧表現）
+- [will](/word/will/)：～するつもりだ（意志・未来を表す助動詞）
+- [could](/word/could/)：～できた、～かもしれない（canの過去形・丁寧表現）
 
 ---
 
 ## 📖 できればこれも
 
-- [should](/word/should)：～すべきだ
-- [might](/word/might)：～かもしれない
+- [should](/word/should/)：～すべきだ
+- [might](/word/might/)：～かもしれない
 
 <!-- cvid: aid39_bid17 -->

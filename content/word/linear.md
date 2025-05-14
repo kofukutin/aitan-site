@@ -97,7 +97,7 @@ TOEICでは主に説明文や技術的な文脈で登場し、特にグラフや
 ## 🤔  straight との違いは？
 
 - **linear**：直線的・線状・一次的（特に科学や数学で使う）
-- **[straight](/word/straight)**：まっすぐ、曲がっていない（形や方向を強調）
+- **[straight](/word/straight/)**：まっすぐ、曲がっていない（形や方向を強調）
 
 **linear**は「直線的な性質」や「線状の関係」を表し、抽象的・専門的な場面で使われます。**straight**は「まっすぐな形・方向」を日常的に表現します。
 
@@ -105,14 +105,14 @@ TOEICでは主に説明文や技術的な文脈で登場し、特にグラフや
 
 ## 🧩 あわせて覚えたい
 
-- [curved](/word/curved)：曲線の、曲がった
-- [sequential](/word/sequential)：連続した、順序通りの
+- [curved](/word/curved/)：曲線の、曲がった
+- [sequential](/word/sequential/)：連続した、順序通りの
 
 ---
 
 ## 📖 できればこれも
 
-- [parallel](/word/parallel)：平行な
-- [vertical](/word/vertical)：垂直な
+- [parallel](/word/parallel/)：平行な
+- [vertical](/word/vertical/)：垂直な
 
 <!-- cvid: aid48_bid02 -->

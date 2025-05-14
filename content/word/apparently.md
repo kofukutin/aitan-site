@@ -93,7 +93,7 @@ TOEICのPart 7で、推測や伝聞を表す文脈でよく登場します。メ
 ## 🤔  obviously との違いは？
 
 - **apparently**：見た目や情報から「どうやら～らしい」と推測する時に使う
-- **[obviously](/word/obviously)**：誰が見ても明らかな事実や状況に使う
+- **[obviously](/word/obviously/)**：誰が見ても明らかな事実や状況に使う
 
 apparentlyは「確実ではないが、見たところそう思える」時に使い、obviouslyは「疑いなく明らか」な時に使います。
 
@@ -101,14 +101,14 @@ apparentlyは「確実ではないが、見たところそう思える」時に�
 
 ## 🧩 あわせて覚えたい
 
-- [seemingly](/word/seemingly)：一見したところ、外見上は
-- [evidently](/word/evidently)：明らかに、どうやら
+- [seemingly](/word/seemingly/)：一見したところ、外見上は
+- [evidently](/word/evidently/)：明らかに、どうやら
 
 ---
 
 ## 📖 できればこれも
 
-- [probably](/word/probably)：おそらく
-- [clearly](/word/clearly)：はっきりと
+- [probably](/word/probably/)：おそらく
+- [clearly](/word/clearly/)：はっきりと
 
 <!-- cvid: aid29_bid10 -->

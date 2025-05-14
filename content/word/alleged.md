@@ -97,7 +97,7 @@ TOEICではニュース記事や法的文書、報告書などで「alleged」�
 ## 🤔  supposed との違いは？
 
 - **alleged**：証拠がなく、公式に「～とされる」「疑惑の」と表現する時に使う
-- **[supposed](/word/supposed)**：一般的な「～と考えられている」「～らしい」という意味で、確証の有無は問わない
+- **[supposed](/word/supposed/)**：一般的な「～と考えられている」「～らしい」という意味で、確証の有無は問わない
 
 「alleged」は特に法的・報道の場面で使われ、証拠がないことを強調しますが、「supposed」は日常的な推測や噂にも使えます。
 
@@ -105,14 +105,14 @@ TOEICではニュース記事や法的文書、報告書などで「alleged」�
 
 ## 🧩 あわせて覚えたい
 
-- [accused](/word/accused)：被告、告発された人
-- [suspected](/word/suspected)：疑われている
+- [accused](/word/accused/)：被告、告発された人
+- [suspected](/word/suspected/)：疑われている
 
 ---
 
 ## 📖 できればこれも
 
-- [apparent](/word/apparent)：見たところ～らしい
-- [claimed](/word/claimed)：主張された
+- [apparent](/word/apparent/)：見たところ～らしい
+- [claimed](/word/claimed/)：主張された
 
 <!-- cvid: aid02_bid37 -->

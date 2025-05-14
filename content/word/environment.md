@@ -97,7 +97,7 @@ TOEICでは、環境問題や職場環境に関する長文や案内文でよく
 ## 🤔  surroundings との違いは？
 
 - **environment**：自然・社会・職場など広い意味での「環境」
-- **[surroundings](/word/surroundings)**：自分の周囲にある「物理的な環境」
+- **[surroundings](/word/surroundings/)**：自分の周囲にある「物理的な環境」
 
 environmentは抽象的・広範囲な環境全般を指し、surroundingsは目に見える身の回りのものや場所を指します。
 
@@ -105,14 +105,14 @@ environmentは抽象的・広範囲な環境全般を指し、surroundingsは目
 
 ## 🧩 あわせて覚えたい
 
-- [condition](/word/condition)：状態、条件
-- [atmosphere](/word/atmosphere)：雰囲気、大気
+- [condition](/word/condition/)：状態、条件
+- [atmosphere](/word/atmosphere/)：雰囲気、大気
 
 ---
 
 ## 📖 できればこれも
 
-- [pollution](/word/pollution)：汚染
-- [nature](/word/nature)：自然
+- [pollution](/word/pollution/)：汚染
+- [nature](/word/nature/)：自然
 
 <!-- cvid: aid29_bid44 -->

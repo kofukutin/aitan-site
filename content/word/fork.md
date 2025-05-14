@@ -98,7 +98,7 @@ TOEICでは主にPart 1で、食器や道の分岐などの写真描写で出題
 ## 🤔  branch との違いは？
 
 - **fork**：道や川などが二股に分かれる「分岐点」や、食器の「フォーク」を指す。
-- **[branch](/word/branch)**：木の「枝」や、組織・銀行の「支店」、または川や道の「支流・分岐」を指す。
+- **[branch](/word/branch/)**：木の「枝」や、組織・銀行の「支店」、または川や道の「支流・分岐」を指す。
 
 forkは物理的な分かれ目や道具に使い、branchは主に枝分かれや組織の一部を表します。
 
@@ -106,14 +106,14 @@ forkは物理的な分かれ目や道具に使い、branchは主に枝分かれ�
 
 ## 🧩 あわせて覚えたい
 
-- [spoon](/word/spoon)：スプーン
-- [split](/word/split)：分割する、分かれる
+- [spoon](/word/spoon/)：スプーン
+- [split](/word/split/)：分割する、分かれる
 
 ---
 
 ## 📖 できればこれも
 
-- [knife](/word/knife)：ナイフ
-- [merge](/word/merge)：合流する、統合する
+- [knife](/word/knife/)：ナイフ
+- [merge](/word/merge/)：合流する、統合する
 
 <!-- cvid: aid17_bid10 -->

@@ -97,7 +97,7 @@ TOEICでは主に広告や案内文、保険関連の長文で「auto」が登�
 ## 🤔  automobile との違いは？
 
 - **auto**：カジュアルで短い表現。会話や広告でよく使う。
-- **[automobile](/word/automobile)**：ややフォーマルで正式な表現。書類や公式文書で使われやすい。
+- **[automobile](/word/automobile/)**：ややフォーマルで正式な表現。書類や公式文書で使われやすい。
 
 「auto」は日常的・カジュアル、「automobile」はフォーマルな場面で使い分けます。
 
@@ -105,14 +105,14 @@ TOEICでは主に広告や案内文、保険関連の長文で「auto」が登�
 
 ## 🧩 あわせて覚えたい
 
-- [vehicle](/word/vehicle)：乗り物、車両
-- [car](/word/car)：車（最も一般的な表現）
+- [vehicle](/word/vehicle/)：乗り物、車両
+- [car](/word/car/)：車（最も一般的な表現）
 
 ---
 
 ## 📖 できればこれも
 
-- [manual](/word/manual)：手動の、マニュアル
-- [engine](/word/engine)：エンジン
+- [manual](/word/manual/)：手動の、マニュアル
+- [engine](/word/engine/)：エンジン
 
 <!-- cvid: aid32_bid26 -->

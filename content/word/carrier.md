@@ -97,7 +97,7 @@ TOEICでは、荷物の配送や通信サービスに関する説明文やメー
 ## 🤔  courier との違いは？
 
 - **carrier**：一般的な運送業者や通信会社など、広い意味で「運ぶ人・会社」
-- **[courier](/word/courier)**：書類や小包などを迅速に届ける「宅配便業者」「特急便」
+- **[courier](/word/courier/)**：書類や小包などを迅速に届ける「宅配便業者」「特急便」
 
 carrierは大規模な運送会社や通信会社も含みますが、courierは主に小型の荷物や書類を素早く届ける業者を指します。
 
@@ -105,14 +105,14 @@ carrierは大規模な運送会社や通信会社も含みますが、courierは
 
 ## 🧩 あわせて覚えたい
 
-- [transporter](/word/transporter)：輸送業者、運搬車
-- [provider](/word/provider)：提供者、供給会社
+- [transporter](/word/transporter/)：輸送業者、運搬車
+- [provider](/word/provider/)：提供者、供給会社
 
 ---
 
 ## 📖 できればこれも
 
-- [shipment](/word/shipment)：発送、出荷
-- [deliver](/word/deliver)：配達する、届ける
+- [shipment](/word/shipment/)：発送、出荷
+- [deliver](/word/deliver/)：配達する、届ける
 
 <!-- cvid: aid12_bid46 -->

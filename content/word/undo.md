@@ -97,7 +97,7 @@ ITやビジネス文書の操作説明などで「undo」はよく登場しま�
 ## 🤔  cancel との違いは？
 
 - **undo**：すでに行った操作や行動を「元に戻す」「なかったことにする」
-- **[cancel](/word/cancel)**：予定や注文など「これから起こること」を「中止する」「取り消す」
+- **[cancel](/word/cancel/)**：予定や注文など「これから起こること」を「中止する」「取り消す」
 
 undoは「実行済みのこと」を元に戻す時に使い、cancelは「これからの予定や手続きを止める」時に使います。
 
@@ -105,14 +105,14 @@ undoは「実行済みのこと」を元に戻す時に使い、cancelは「こ�
 
 ## 🧩 あわせて覚えたい
 
-- [reverse](/word/reverse)：逆にする、反転させる
-- [restore](/word/restore)：元の状態に戻す、復元する
+- [reverse](/word/reverse/)：逆にする、反転させる
+- [restore](/word/restore/)：元の状態に戻す、復元する
 
 ---
 
 ## 📖 できればこれも
 
-- [redo](/word/redo)：やり直す
-- [delete](/word/delete)：削除する
+- [redo](/word/redo/)：やり直す
+- [delete](/word/delete/)：削除する
 
 <!-- cvid: aid11_bid28 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 7の図表付き問題や説明文で登場し、図やフ
 ## 🤔  chart との違いは？
 
 - **diagram**：構造や関係性、仕組みなどを視覚的に示す図や図表
-- **[chart](/word/chart)**：データや数値をグラフや表で示すもの
+- **[chart](/word/chart/)**：データや数値をグラフや表で示すもの
 
 diagramは構造や流れを説明する図に使い、chartは数値やデータの比較・推移を示すグラフに使います。
 
@@ -105,14 +105,14 @@ diagramは構造や流れを説明する図に使い、chartは数値やデー�
 
 ## 🧩 あわせて覚えたい
 
-- [illustration](/word/illustration)：イラスト、挿絵
-- [blueprint](/word/blueprint)：設計図、青写真
+- [illustration](/word/illustration/)：イラスト、挿絵
+- [blueprint](/word/blueprint/)：設計図、青写真
 
 ---
 
 ## 📖 できればこれも
 
-- [figure](/word/figure)：図、図形
-- [outline](/word/outline)：概要、アウトライン
+- [figure](/word/figure/)：図、図形
+- [outline](/word/outline/)：概要、アウトライン
 
 <!-- cvid: aid26_bid47 -->

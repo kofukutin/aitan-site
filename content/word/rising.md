@@ -97,7 +97,7 @@ TOEICでは、価格や数値、売上などが「上昇している」状況を
 ## 🤔  increasing との違いは？
 
 - **rising**：主に「数値や量が上昇している」ことを表し、変化の方向（上昇）に焦点を当てる。
-- **[increasing](/word/increasing)**：単に「増加している」ことを表し、数量や程度が大きくなることに重点がある。
+- **[increasing](/word/increasing/)**：単に「増加している」ことを表し、数量や程度が大きくなることに重点がある。
 
 「rising」は「上へ向かう動き」に注目し、「increasing」は「量や数が増える」こと自体に注目します。
 
@@ -105,14 +105,14 @@ TOEICでは、価格や数値、売上などが「上昇している」状況を
 
 ## 🧩 あわせて覚えたい
 
-- [falling](/word/falling)：下落している、減少している
-- [growing](/word/growing)：成長している、増大している
+- [falling](/word/falling/)：下落している、減少している
+- [growing](/word/growing/)：成長している、増大している
 
 ---
 
 ## 📖 できればこれも
 
-- [declining](/word/declining)：減少している
-- [expanding](/word/expanding)：拡大している
+- [declining](/word/declining/)：減少している
+- [expanding](/word/expanding/)：拡大している
 
 <!-- cvid: aid26_bid36 -->

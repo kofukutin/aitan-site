@@ -98,7 +98,7 @@ TOEICでは主に記事や広告文などで「初めての」「最初の」と
 ## 🤔  virgin との違いは？
 
 - **maiden**：未婚女性や「初めての」という意味で、フォーマルな場面や文学的表現で使われる。
-- **[virgin](/word/virgin)**：性的に未経験な人を指し、直接的な意味合いが強い。
+- **[virgin](/word/virgin/)**：性的に未経験な人を指し、直接的な意味合いが強い。
 
 "maiden"は純粋さや新しさを強調し、"virgin"は性的な意味が中心です。場面によって使い分けましょう。
 
@@ -106,14 +106,14 @@ TOEICでは主に記事や広告文などで「初めての」「最初の」と
 
 ## 🧩 あわせて覚えたい
 
-- [spinster](/word/spinster)：独身女性（やや古風・否定的な響き）
-- [debut](/word/debut)：初登場、デビュー
+- [spinster](/word/spinster/)：独身女性（やや古風・否定的な響き）
+- [debut](/word/debut/)：初登場、デビュー
 
 ---
 
 ## 📖 できればこれも
 
-- [bride](/word/bride)：花嫁
-- [novice](/word/novice)：初心者、未経験者
+- [bride](/word/bride/)：花嫁
+- [novice](/word/novice/)：初心者、未経験者
 
 <!-- cvid: aid36_bid10 -->

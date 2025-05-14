@@ -93,7 +93,7 @@ The project was totally successful.
 ## 🤔  completely との違いは？
 
 - **totally**：カジュアルで口語的な「完全に」「まったく」
-- **[completely](/word/completely)**：ややフォーマルで「完全に」「すっかり」
+- **[completely](/word/completely/)**：ややフォーマルで「完全に」「すっかり」
 
 totallyは日常会話やカジュアルな場面でよく使われ、completelyはややフォーマルな印象があります。
 
@@ -101,14 +101,14 @@ totallyは日常会話やカジュアルな場面でよく使われ、completely
 
 ## 🧩 あわせて覚えたい
 
-- [absolutely](/word/absolutely)：絶対に、完全に
-- [partially](/word/partially)：部分的に
+- [absolutely](/word/absolutely/)：絶対に、完全に
+- [partially](/word/partially/)：部分的に
 
 ---
 
 ## 📖 できればこれも
 
-- [entirely](/word/entirely)：まったく、完全に
-- [fully](/word/fully)：十分に、完全に
+- [entirely](/word/entirely/)：まったく、完全に
+- [fully](/word/fully/)：十分に、完全に
 
 <!-- cvid: aid47_bid30 -->

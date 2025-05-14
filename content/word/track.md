@@ -97,7 +97,7 @@ TOEICでは「進捗を追う」「記録する」「線路」などの意味で
 ## 🤔  trace との違いは？
 
 - **track**：進行の道筋や記録、追跡の「全体の流れ」や「経過」を表す
-- **[trace](/word/trace)**：細かい「痕跡」や「わずかな跡」、または「たどる」ことを強調
+- **[trace](/word/trace/)**：細かい「痕跡」や「わずかな跡」、または「たどる」ことを強調
 
 trackは全体の流れや記録を意識する時に使い、traceは細かな跡や証拠を探す場面で使います。
 
@@ -105,14 +105,14 @@ trackは全体の流れや記録を意識する時に使い、traceは細かな�
 
 ## 🧩 あわせて覚えたい
 
-- [path](/word/path)：道、進路
-- [record](/word/record)：記録、記録する
+- [path](/word/path/)：道、進路
+- [record](/word/record/)：記録、記録する
 
 ---
 
 ## 📖 できればこれも
 
-- [route](/word/route)：経路、道筋
-- [monitor](/word/monitor)：監視する、見守る
+- [route](/word/route/)：経路、道筋
+- [monitor](/word/monitor/)：監視する、見守る
 
 <!-- cvid: aid41_bid04 -->

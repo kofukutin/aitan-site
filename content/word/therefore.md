@@ -93,7 +93,7 @@ TOEICでは接続副詞として文と文をつなぐ役割でよく出題され
 ## 🤔  thus との違いは？
 
 - **therefore**：論理的な結論や結果をフォーマルに述べるときに使う。
-- **[thus](/word/thus)**：結果や方法をやや堅めに説明するが、thereforeよりもやや文語的。
+- **[thus](/word/thus/)**：結果や方法をやや堅めに説明するが、thereforeよりもやや文語的。
 
 thereforeは「だからこうなった」と結論を強調し、thusは「このようにして」と手順や経過を説明するニュアンスが強いです。
 
@@ -101,14 +101,14 @@ thereforeは「だからこうなった」と結論を強調し、thusは「こ�
 
 ## 🧩 あわせて覚えたい
 
-- [however](/word/however)：しかしながら
-- [consequently](/word/consequently)：その結果として
+- [however](/word/however/)：しかしながら
+- [consequently](/word/consequently/)：その結果として
 
 ---
 
 ## 📖 できればこれも
 
-- [furthermore](/word/furthermore)：さらに
-- [meanwhile](/word/meanwhile)：その間に
+- [furthermore](/word/furthermore/)：さらに
+- [meanwhile](/word/meanwhile/)：その間に
 
 <!-- cvid: aid15_bid06 -->

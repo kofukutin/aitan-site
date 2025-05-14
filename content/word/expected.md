@@ -98,7 +98,7 @@ TOEICでは「as expected」「expected results」など、予定や予想に関
 ## 🤔  anticipated との違いは？
 
 - **expected**：一般的に「予想された」「当然と考えられる」
-- **[anticipated](/word/anticipated)**：特に「期待を込めて予想された」「待ち望まれた」
+- **[anticipated](/word/anticipated/)**：特に「期待を込めて予想された」「待ち望まれた」
 
 expectedは中立的な「予想」、anticipatedは「楽しみにしている」などポジティブな期待を含む場合が多いです。
 
@@ -106,14 +106,14 @@ expectedは中立的な「予想」、anticipatedは「楽しみにしている�
 
 ## 🧩 あわせて覚えたい
 
-- [unexpected](/word/unexpected)：予想外の
-- [predictable](/word/predictable)：予測できる
+- [unexpected](/word/unexpected/)：予想外の
+- [predictable](/word/predictable/)：予測できる
 
 ---
 
 ## 📖 できればこれも
 
-- [required](/word/required)：必要とされる
-- [scheduled](/word/scheduled)：予定された
+- [required](/word/required/)：必要とされる
+- [scheduled](/word/scheduled/)：予定された
 
 <!-- cvid: aid32_bid26 -->

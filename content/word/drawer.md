@@ -97,7 +97,7 @@ TOEICでは主にオフィスや部屋の写真描写問題で「drawer」が使
 ## 🤔  cabinet との違いは？
 
 - **drawer**：机やタンスなどの中にある「引き出し」部分
-- **[cabinet](/word/cabinet)**：書類や食器などを収納する「戸棚」や「キャビネット」全体
+- **[cabinet](/word/cabinet/)**：書類や食器などを収納する「戸棚」や「キャビネット」全体
 
 drawerは「引き出し」そのものを指し、cabinetは複数の引き出しや棚を含む収納家具全体を指します。
 
@@ -105,14 +105,14 @@ drawerは「引き出し」そのものを指し、cabinetは複数の引き出�
 
 ## 🧩 あわせて覚えたい
 
-- [shelf](/word/shelf)：棚
-- [desk](/word/desk)：机
+- [shelf](/word/shelf/)：棚
+- [desk](/word/desk/)：机
 
 ---
 
 ## 📖 できればこれも
 
-- [folder](/word/folder)：フォルダー、書類入れ
-- [locker](/word/locker)：ロッカー
+- [folder](/word/folder/)：フォルダー、書類入れ
+- [locker](/word/locker/)：ロッカー
 
 <!-- cvid: aid26_bid16 -->

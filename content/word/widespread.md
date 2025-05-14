@@ -93,7 +93,7 @@ TOEICの長文読解パートで、ニュースやビジネス文書など「広
 ## 🤔  prevalent との違いは？
 
 - **widespread**：広い範囲や多くの人・場所に及んでいることを強調
-- **[prevalent](/word/prevalent)**：ある時期や場所で「一般的に見られる」「流行している」ことを強調
+- **[prevalent](/word/prevalent/)**：ある時期や場所で「一般的に見られる」「流行している」ことを強調
 
 「widespread」は物理的・地理的な広がりを意識し、「prevalent」は頻度や流行の度合いを意識します。
 
@@ -101,14 +101,14 @@ TOEICの長文読解パートで、ニュースやビジネス文書など「広
 
 ## 🧩 あわせて覚えたい
 
-- [common](/word/common)：一般的な、よくある
-- [extensive](/word/extensive)：広範囲の、広い
+- [common](/word/common/)：一般的な、よくある
+- [extensive](/word/extensive/)：広範囲の、広い
 
 ---
 
 ## 📖 できればこれも
 
-- [broad](/word/broad)：幅広い、広い
-- [general](/word/general)：全体的な、一般的な
+- [broad](/word/broad/)：幅広い、広い
+- [general](/word/general/)：全体的な、一般的な
 
 <!-- cvid: aid10_bid24 -->

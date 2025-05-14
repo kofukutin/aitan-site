@@ -97,7 +97,7 @@ TOEICでは会社や組織の案内、メール、掲示文などで頻出しま
 ## 🤔  division との違いは？
 
 - **department**：組織内の明確な「部門」「部署」を指し、役割や機能がはっきり分かれている場合に使う。
-- **[division](/word/division)**：より大きな単位の「部」や「事業部」を指し、複数のdepartmentをまとめる場合もある。
+- **[division](/word/division/)**：より大きな単位の「部」や「事業部」を指し、複数のdepartmentをまとめる場合もある。
 
 departmentは日常的な部署や課、divisionは大規模な組織や企業での大きな区分に使われることが多いです。
 
@@ -105,14 +105,14 @@ departmentは日常的な部署や課、divisionは大規模な組織や企業�
 
 ## 🧩 あわせて覚えたい
 
-- [section](/word/section)：部門、課（比較的小さい単位）
-- [branch](/word/branch)：支店、支社
+- [section](/word/section/)：部門、課（比較的小さい単位）
+- [branch](/word/branch/)：支店、支社
 
 ---
 
 ## 📖 できればこれも
 
-- [manager](/word/manager)：管理職、部長
-- [organization](/word/organization)：組織
+- [manager](/word/manager/)：管理職、部長
+- [organization](/word/organization/)：組織
 
 <!-- cvid: aid31_bid40 -->

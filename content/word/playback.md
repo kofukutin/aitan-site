@@ -97,7 +97,7 @@ IT機器や会議の録音・再生に関する場面で出題されることが
 ## 🤔  replay との違いは？
 
 - **playback**：録音・録画されたものを再生することやその機能を指す。
-- **[replay](/word/replay)**：もう一度再生すること、または再試合・再演など「再び行う」意味もある。
+- **[replay](/word/replay/)**：もう一度再生すること、または再試合・再演など「再び行う」意味もある。
 
 playbackは機械的な再生や機能に使われ、replayは「もう一度やる」動作やイベントにも幅広く使われます。
 
@@ -105,14 +105,14 @@ playbackは機械的な再生や機能に使われ、replayは「もう一度や
 
 ## 🧩 あわせて覚えたい
 
-- [recording](/word/recording)：録音、録画
-- [pause](/word/pause)：一時停止
+- [recording](/word/recording/)：録音、録画
+- [pause](/word/pause/)：一時停止
 
 ---
 
 ## 📖 できればこれも
 
-- [display](/word/display)：表示する、ディスプレイ
-- [volume](/word/volume)：音量
+- [display](/word/display/)：表示する、ディスプレイ
+- [volume](/word/volume/)：音量
 
 <!-- cvid: aid01_bid43 -->

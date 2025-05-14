@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写で、腕時計やジェスチャーの説明な
 ## 🤔  ankle との違いは？
 
 - **wrist**：手と腕をつなぐ「手首」
-- **[ankle](/word/ankle)**：足と脚をつなぐ「足首」
+- **[ankle](/word/ankle/)**：足と脚をつなぐ「足首」
 
 wristは手の関節、ankleは足の関節を指し、体の部位が異なります。
 
@@ -105,14 +105,14 @@ wristは手の関節、ankleは足の関節を指し、体の部位が異なり�
 
 ## 🧩 あわせて覚えたい
 
-- [elbow](/word/elbow)：ひじ
-- [forearm](/word/forearm)：前腕
+- [elbow](/word/elbow/)：ひじ
+- [forearm](/word/forearm/)：前腕
 
 ---
 
 ## 📖 できればこれも
 
-- [shoulder](/word/shoulder)：肩
-- [finger](/word/finger)：指
+- [shoulder](/word/shoulder/)：肩
+- [finger](/word/finger/)：指
 
 <!-- cvid: aid01_bid30 -->

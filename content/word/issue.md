@@ -97,7 +97,7 @@ TOEICでは主にメールや報告書、会議の議事録などで「課題」
 ## 🤔  problem との違いは？
 
 - **issue**：議論や解決が必要な「課題」「論点」など、ややフォーマルで客観的な響き。
-- **[problem](/word/problem)**：困難やトラブルなど、よりネガティブで日常的な「問題」。
+- **[problem](/word/problem/)**：困難やトラブルなど、よりネガティブで日常的な「問題」。
 
 **issue**は会議やビジネスで「取り組むべき課題」として使われることが多く、**problem**は「困ったこと」「トラブル」として使われる傾向があります。
 
@@ -105,14 +105,14 @@ TOEICでは主にメールや報告書、会議の議事録などで「課題」
 
 ## 🧩 あわせて覚えたい
 
-- [topic](/word/topic)：話題、テーマ
-- [matter](/word/matter)：事柄、案件
+- [topic](/word/topic/)：話題、テーマ
+- [matter](/word/matter/)：事柄、案件
 
 ---
 
 ## 📖 できればこれも
 
-- [subject](/word/subject)：主題、テーマ
-- [concern](/word/concern)：懸念、心配事
+- [subject](/word/subject/)：主題、テーマ
+- [concern](/word/concern/)：懸念、心配事
 
 <!-- cvid: aid36_bid33 -->

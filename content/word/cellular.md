@@ -97,7 +97,7 @@ TOEICでは主にITや通信に関する長文や広告、説明文で「cellula
 ## 🤔  mobile との違いは？
 
 - **cellular**：通信方式やネットワーク構造を強調し、「セル方式の」「携帯電話の」という意味で使う。
-- **[mobile](/word/mobile)**：移動できる、携帯できるという意味で、携帯電話そのものや可搬性を指す。
+- **[mobile](/word/mobile/)**：移動できる、携帯できるという意味で、携帯電話そのものや可搬性を指す。
 
 cellularは技術やネットワークの仕組みに焦点を当てるのに対し、mobileは「持ち運びできる」ことや端末自体を指す場面で使われます。
 
@@ -105,14 +105,14 @@ cellularは技術やネットワークの仕組みに焦点を当てるのに対
 
 ## 🧩 あわせて覚えたい
 
-- [wireless](/word/wireless)：無線の
-- [network](/word/network)：ネットワーク、通信網
+- [wireless](/word/wireless/)：無線の
+- [network](/word/network/)：ネットワーク、通信網
 
 ---
 
 ## 📖 できればこれも
 
-- [digital](/word/digital)：デジタルの
-- [signal](/word/signal)：信号、合図
+- [digital](/word/digital/)：デジタルの
+- [signal](/word/signal/)：信号、合図
 
 <!-- cvid: aid20_bid40 -->

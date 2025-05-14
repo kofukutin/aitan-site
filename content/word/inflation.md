@@ -96,7 +96,7 @@ TOEICでは経済やビジネス関連の記事やメールで頻出します。
 ## 🤔  deflation との違いは？
 
 - **inflation**：物価が全体的に上昇する現象
-- **[deflation](/word/deflation)**：物価が全体的に下落する現象
+- **[deflation](/word/deflation/)**：物価が全体的に下落する現象
 
 inflationは「値段が上がる」状態、deflationは「値段が下がる」状態を指し、経済の動きとして正反対の意味になります。
 
@@ -104,14 +104,14 @@ inflationは「値段が上がる」状態、deflationは「値段が下がる�
 
 ## 🧩 あわせて覚えたい
 
-- [recession](/word/recession)：景気後退、不況
-- [growth](/word/growth)：成長、増加
+- [recession](/word/recession/)：景気後退、不況
+- [growth](/word/growth/)：成長、増加
 
 ---
 
 ## 📖 できればこれも
 
-- [interest](/word/interest)：利子、関心
-- [economy](/word/economy)：経済
+- [interest](/word/interest/)：利子、関心
+- [economy](/word/economy/)：経済
 
 <!-- cvid: aid46_bid07 -->

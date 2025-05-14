@@ -97,7 +97,7 @@ retrievedはTOEICの長文読解（Part 7）で、ITやビジネス文書の中�
 ## 🤔  recover との違いは？
 
 - **retrieved**：失われたものやデータを「探して取り戻す」「検索して取り出す」ニュアンスが強い
-- **[recover](/word/recover)**：失ったものや健康などを「回復する」「取り戻す」全般に使える
+- **[recover](/word/recover/)**：失ったものや健康などを「回復する」「取り戻す」全般に使える
 
 retrievedは「探して見つけ出す」や「データを検索する」など、目的物を意識的に取り戻す場面で使われます。recoverは「回復」や「元に戻す」など幅広い意味で使われます。
 
@@ -105,14 +105,14 @@ retrievedは「探して見つけ出す」や「データを検索する」な�
 
 ## 🧩 あわせて覚えたい
 
-- [restore](/word/restore)：元の状態に戻す
-- [fetch](/word/fetch)：取ってくる、持ってくる
+- [restore](/word/restore/)：元の状態に戻す
+- [fetch](/word/fetch/)：取ってくる、持ってくる
 
 ---
 
 ## 📖 できればこれも
 
-- [access](/word/access)：アクセスする、利用する
-- [transfer](/word/transfer)：移す、転送する
+- [access](/word/access/)：アクセスする、利用する
+- [transfer](/word/transfer/)：移す、転送する
 
 <!-- cvid: aid25_bid09 -->

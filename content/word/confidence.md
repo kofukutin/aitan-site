@@ -97,7 +97,7 @@ TOEICでは「自信」「信頼」という意味で頻出し、特にビジネ
 ## 🤔  trust との違いは？
 
 - **confidence**：自分や他人への「自信」「確信」「信頼」を幅広く表す
-- **[trust](/word/trust)**：主に「人や物事を信じる気持ち・信頼」を表す
+- **[trust](/word/trust/)**：主に「人や物事を信じる気持ち・信頼」を表す
 
 confidenceは自分自身への自信や確信にも使えますが、trustは他者や物事への信頼に特化しています。
 
@@ -105,14 +105,14 @@ confidenceは自分自身への自信や確信にも使えますが、trustは�
 
 ## 🧩 あわせて覚えたい
 
-- [doubt](/word/doubt)：疑い、不信
-- [assurance](/word/assurance)：保証、確信
+- [doubt](/word/doubt/)：疑い、不信
+- [assurance](/word/assurance/)：保証、確信
 
 ---
 
 ## 📖 できればこれも
 
-- [belief](/word/belief)：信念、信じること
-- [courage](/word/courage)：勇気
+- [belief](/word/belief/)：信念、信じること
+- [courage](/word/courage/)：勇気
 
 <!-- cvid: aid13_bid41 -->

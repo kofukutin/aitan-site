@@ -97,7 +97,7 @@ TOEICでは、地図や施設案内、オフィスの場所などを説明する
 ## 🤔  find との違いは？
 
 - **locate**：場所や位置を特定する、または設置する（フォーマル・ビジネス向き）
-- **[find](/word/find)**：見つける、発見する（一般的・幅広い場面で使用）
+- **[find](/word/find/)**：見つける、発見する（一般的・幅広い場面で使用）
 
 locateは「正確な場所を突き止める」や「設置する」ニュアンスが強く、findは「見つける」という広い意味で使われます。
 
@@ -105,14 +105,14 @@ locateは「正確な場所を突き止める」や「設置する」ニュア�
 
 ## 🧩 あわせて覚えたい
 
-- [identify](/word/identify)：特定する、識別する
-- [position](/word/position)：位置、立場
+- [identify](/word/identify/)：特定する、識別する
+- [position](/word/position/)：位置、立場
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install)：設置する、取り付ける
-- [search](/word/search)：探す、検索する
+- [install](/word/install/)：設置する、取り付ける
+- [search](/word/search/)：探す、検索する
 
 <!-- cvid: aid25_bid45 -->

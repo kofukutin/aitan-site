@@ -97,7 +97,7 @@ TOEIC Part 1の写真描写問題で、飲み物や液体を注ぐ場面によ�
 ## 🤔  spill との違いは？
 
 - **pour**：意図的に液体を注ぐ
-- **[spill](/word/spill)**：うっかり液体をこぼす
+- **[spill](/word/spill/)**：うっかり液体をこぼす
 
 pourはコントロールして注ぐ動作、spillは意図せずこぼしてしまう時に使います。
 
@@ -105,14 +105,14 @@ pourはコントロールして注ぐ動作、spillは意図せずこぼして�
 
 ## 🧩 あわせて覚えたい
 
-- [fill](/word/fill)：満たす、いっぱいにする
-- [drain](/word/drain)：排出する、流し出す
+- [fill](/word/fill/)：満たす、いっぱいにする
+- [drain](/word/drain/)：排出する、流し出す
 
 ---
 
 ## 📖 できればこれも
 
-- [mix](/word/mix)：混ぜる
-- [serve](/word/serve)：提供する、出す
+- [mix](/word/mix/)：混ぜる
+- [serve](/word/serve/)：提供する、出す
 
 <!-- cvid: aid14_bid18 -->

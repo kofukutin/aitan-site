@@ -97,7 +97,7 @@ TOEICではITやビジネス文脈で「電子メール」「電子ファイル�
 ## 🤔  electrical との違いは？
 
 - **electronic**：電子回路やデジタル技術に関する
-- **[electrical](/word/electrical)**：電気そのものや電力に関する
+- **[electrical](/word/electrical/)**：電気そのものや電力に関する
 
 electronicは「電子機器」や「デジタル技術」に使い、electricalは「電気配線」や「電力設備」など電気全般に使います。
 
@@ -105,14 +105,14 @@ electronicは「電子機器」や「デジタル技術」に使い、electrical
 
 ## 🧩 あわせて覚えたい
 
-- [digital](/word/digital)：デジタルの、数字で表す
-- [mechanical](/word/mechanical)：機械の、機械的な
+- [digital](/word/digital/)：デジタルの、数字で表す
+- [mechanical](/word/mechanical/)：機械の、機械的な
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device)：装置、機器
-- [automatic](/word/automatic)：自動の
+- [device](/word/device/)：装置、機器
+- [automatic](/word/automatic/)：自動の
 
 <!-- cvid: aid40_bid26 -->

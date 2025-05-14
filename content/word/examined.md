@@ -97,7 +97,7 @@ TOEICでは、受動態や過去形の文脈で「調べた」「検査した」
 ## 🤔  inspect との違いは？
 
 - **examined**：詳しく調べた、検査した（全体的・詳細に観察するニュアンス）
-- **[inspect](/word/inspect)**：点検・検査する（主に問題や欠陥を探す目的で調べる）
+- **[inspect](/word/inspect/)**：点検・検査する（主に問題や欠陥を探す目的で調べる）
 
 examinedは「全体を詳しく調べる」ニュアンスが強く、inspectは「問題点や異常を見つけるために点検する」場面で使われます。
 
@@ -105,14 +105,14 @@ examinedは「全体を詳しく調べる」ニュアンスが強く、inspect�
 
 ## 🧩 あわせて覚えたい
 
-- [review](/word/review)：再検討する、見直す
-- [analyze](/word/analyze)：分析する
+- [review](/word/review/)：再検討する、見直す
+- [analyze](/word/analyze/)：分析する
 
 ---
 
 ## 📖 できればこれも
 
-- [checked](/word/checked)：確認した、点検した
-- [investigate](/word/investigate)：調査する
+- [checked](/word/checked/)：確認した、点検した
+- [investigate](/word/investigate/)：調査する
 
 <!-- cvid: aid22_bid08 -->

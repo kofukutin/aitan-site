@@ -97,7 +97,7 @@ TOEICでは、画面や資料に「表示された」内容について問う設
 ## 🤔  show との違いは？
 
 - **displayed**：情報や物を「見えるように表示・展示した」ことをややフォーマルに表現
-- **[show](/word/show)**：もっと広く「見せる」「示す」をカジュアルに表現
+- **[show](/word/show/)**：もっと広く「見せる」「示す」をカジュアルに表現
 
 「displayed」は特に画面や展示などで「見せる」ことを強調し、showは日常的な「見せる」に幅広く使います。
 
@@ -105,14 +105,14 @@ TOEICでは、画面や資料に「表示された」内容について問う設
 
 ## 🧩 あわせて覚えたい
 
-- [present](/word/present)：提示する、発表する
-- [exhibit](/word/exhibit)：展示する、公開する
+- [present](/word/present/)：提示する、発表する
+- [exhibit](/word/exhibit/)：展示する、公開する
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install)：インストールする、設置する
-- [update](/word/update)：更新する
+- [install](/word/install/)：インストールする、設置する
+- [update](/word/update/)：更新する
 
 <!-- cvid: aid24_bid33 -->

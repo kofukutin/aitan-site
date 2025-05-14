@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、港や海のシーンに登場する
 ## 🤔  ship との違いは？
 
 - **yacht**：主にレジャーやレース用の小型・中型の船を指し、豪華なものも多い。
-- **[ship](/word/ship)**：貨物や乗客を運ぶ大型の船全般を指し、商業・軍事目的が多い。
+- **[ship](/word/ship/)**：貨物や乗客を運ぶ大型の船全般を指し、商業・軍事目的が多い。
 
 yachtは個人や少人数のレジャー用、shipは大規模な輸送や商業目的で使われる点が大きな違いです。
 
@@ -105,14 +105,14 @@ yachtは個人や少人数のレジャー用、shipは大規模な輸送や商�
 
 ## 🧩 あわせて覚えたい
 
-- [boat](/word/boat)：小型のボート、船
-- [cruise](/word/cruise)：クルーズ、船旅
+- [boat](/word/boat/)：小型のボート、船
+- [cruise](/word/cruise/)：クルーズ、船旅
 
 ---
 
 ## 📖 できればこれも
 
-- [harbor](/word/harbor)：港
-- [sail](/word/sail)：帆走する、帆
+- [harbor](/word/harbor/)：港
+- [sail](/word/sail/)：帆走する、帆
 
 <!-- cvid: aid08_bid31 -->

@@ -97,7 +97,7 @@ TOEICでは、文法問題や空所補充問題で「completing」が進行形�
 ## 🤔  finishing との違いは？
 
 - **completing**：必要な手順や条件をすべて満たして「完了する」ことを強調
-- **[finishing](/word/finishing)**：単に「終わらせる」「仕上げる」ことに重点
+- **[finishing](/word/finishing/)**：単に「終わらせる」「仕上げる」ことに重点
 
 completingは「全ての要件を満たして完了する」ニュアンスがあり、finishingは「作業を終える」こと自体に焦点があります。
 
@@ -105,14 +105,14 @@ completingは「全ての要件を満たして完了する」ニュアンスが�
 
 ## 🧩 あわせて覚えたい
 
-- [accomplish](/word/accomplish)：成し遂げる、達成する
-- [submit](/word/submit)：提出する
+- [accomplish](/word/accomplish/)：成し遂げる、達成する
+- [submit](/word/submit/)：提出する
 
 ---
 
 ## 📖 できればこれも
 
-- [prepare](/word/prepare)：準備する
-- [organize](/word/organize)：整理する
+- [prepare](/word/prepare/)：準備する
+- [organize](/word/organize/)：整理する
 
 <!-- cvid: aid08_bid47 -->

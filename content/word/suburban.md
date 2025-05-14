@@ -97,7 +97,7 @@ TOEICでは、住宅やオフィスの立地、交通アクセスなどの説明
 ## 🤔  rural との違いは？
 
 - **suburban**：都市の周辺にある「郊外」の、または郊外に住む人々の
-- **[rural](/word/rural)**：田舎の、農村の
+- **[rural](/word/rural/)**：田舎の、農村の
 
 「suburban」は都市の外側で住宅地や商業施設が多い地域を指し、「rural」はさらに都市から離れた自然や農地が広がる田舎を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、住宅やオフィスの立地、交通アクセスなどの説明
 
 ## 🧩 あわせて覚えたい
 
-- [urban](/word/urban)：都市の、都会の
-- [metropolitan](/word/metropolitan)：大都市の、首都圏の
+- [urban](/word/urban/)：都市の、都会の
+- [metropolitan](/word/metropolitan/)：大都市の、首都圏の
 
 ---
 
 ## 📖 できればこれも
 
-- [residential](/word/residential)：住宅の、住宅地の
-- [neighboring](/word/neighboring)：近隣の、隣接した
+- [residential](/word/residential/)：住宅の、住宅地の
+- [neighboring](/word/neighboring/)：近隣の、隣接した
 
 <!-- cvid: aid43_bid08 -->

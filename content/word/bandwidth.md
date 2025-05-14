@@ -98,7 +98,7 @@ ITやビジネス関連の長文やメール文で、ネットワークや業務
 ## 🤔  capacity との違いは？
 
 - **bandwidth**：IT分野での「通信容量」や比喩的な「処理能力・余裕」を指す
-- **[capacity](/word/capacity)**：物理的・抽象的な「最大収容力」や「能力」を幅広く指す
+- **[capacity](/word/capacity/)**：物理的・抽象的な「最大収容力」や「能力」を幅広く指す
 
 bandwidthは主にITやネットワークの分野で使われ、capacityはより一般的な「容量」や「能力」を表します。
 
@@ -106,14 +106,14 @@ bandwidthは主にITやネットワークの分野で使われ、capacityはよ�
 
 ## 🧩 あわせて覚えたい
 
-- [throughput](/word/throughput)：実際に処理されるデータ量
-- [frequency](/word/frequency)：周波数、一定期間内の回数
+- [throughput](/word/throughput/)：実際に処理されるデータ量
+- [frequency](/word/frequency/)：周波数、一定期間内の回数
 
 ---
 
 ## 📖 できればこれも
 
-- [network](/word/network)：ネットワーク、通信網
-- [signal](/word/signal)：信号、合図
+- [network](/word/network/)：ネットワーク、通信網
+- [signal](/word/signal/)：信号、合図
 
 <!-- cvid: aid01_bid05 -->

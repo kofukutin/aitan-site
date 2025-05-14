@@ -97,7 +97,7 @@ TOEICでは医療や健康、ITセキュリティなどの説明文や記事で�
 ## 🤔  resistant との違いは？
 
 - **immune**：病気や影響などに「完全に免疫がある」「全く影響を受けない」状態を表す。
-- **[resistant](/word/resistant)**：ある程度「抵抗力がある」「影響を受けにくい」状態を表す。
+- **[resistant](/word/resistant/)**：ある程度「抵抗力がある」「影響を受けにくい」状態を表す。
 
 immuneは「完全に守られている」ニュアンスが強く、resistantは「ある程度耐性がある」場合に使います。
 
@@ -105,14 +105,14 @@ immuneは「完全に守られている」ニュアンスが強く、resistant�
 
 ## 🧩 あわせて覚えたい
 
-- [susceptible](/word/susceptible)：影響を受けやすい、感染しやすい
-- [vaccine](/word/vaccine)：ワクチン、予防接種
+- [susceptible](/word/susceptible/)：影響を受けやすい、感染しやすい
+- [vaccine](/word/vaccine/)：ワクチン、予防接種
 
 ---
 
 ## 📖 できればこれも
 
-- [infect](/word/infect)：感染させる
-- [prevent](/word/prevent)：防ぐ、予防する
+- [infect](/word/infect/)：感染させる
+- [prevent](/word/prevent/)：防ぐ、予防する
 
 <!-- cvid: aid28_bid24 -->

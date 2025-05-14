@@ -97,7 +97,7 @@ TOEICでは、農業やビジネスの文脈で「seed」が名詞や形容詞�
 ## 🤔  grain との違いは？
 
 - **seed**：植物を育てるための「種」や「種子」を指す。
-- **[grain](/word/grain)**：穀物の「粒」や「穀粒」、または砂糖や塩などの「粒」を指す。
+- **[grain](/word/grain/)**：穀物の「粒」や「穀粒」、または砂糖や塩などの「粒」を指す。
 
 seedは「発芽して成長するもの」、grainは「食用や加工用の粒」として使い分けます。
 
@@ -105,14 +105,14 @@ seedは「発芽して成長するもの」、grainは「食用や加工用の�
 
 ## 🧩 あわせて覚えたい
 
-- [sprout](/word/sprout)：芽、発芽する
-- [fruit](/word/fruit)：果実
+- [sprout](/word/sprout/)：芽、発芽する
+- [fruit](/word/fruit/)：果実
 
 ---
 
 ## 📖 できればこれも
 
-- [plant](/word/plant)：植物、植える
-- [root](/word/root)：根
+- [plant](/word/plant/)：植物、植える
+- [root](/word/root/)：根
 
 <!-- cvid: aid22_bid48 -->

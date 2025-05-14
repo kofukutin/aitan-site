@@ -97,7 +97,7 @@ TOEICでは主にビジネスや金融関連の長文で「投資する」とい
 ## 🤔  saving との違いは？
 
 - **investing**：利益や価値の増加を期待してお金や資源を使うこと
-- **[saving](/word/saving)**：お金や資源を使わずに取っておくこと
+- **[saving](/word/saving/)**：お金や資源を使わずに取っておくこと
 
 investingは「増やすために使う」、savingは「減らさずに守る」という目的の違いがあります。
 
@@ -105,14 +105,14 @@ investingは「増やすために使う」、savingは「減らさずに守る�
 
 ## 🧩 あわせて覚えたい
 
-- [spending](/word/spending)：支出、使うこと
-- [fund](/word/fund)：資金、基金
+- [spending](/word/spending/)：支出、使うこと
+- [fund](/word/fund/)：資金、基金
 
 ---
 
 ## 📖 できればこれも
 
-- [finance](/word/finance)：財務、金融
-- [profit](/word/profit)：利益
+- [finance](/word/finance/)：財務、金融
+- [profit](/word/profit/)：利益
 
 <!-- cvid: aid10_bid17 -->

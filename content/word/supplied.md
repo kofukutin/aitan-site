@@ -97,7 +97,7 @@ TOEICでは「be supplied with」や「supplied by」などの受動態でよく
 ## 🤔  provided との違いは？
 
 - **supplied**：必要なものを物理的・具体的に「供給した」「与えた」
-- **[provided](/word/provided)**：条件や状況に応じて「提供した」「用意した」
+- **[provided](/word/provided/)**：条件や状況に応じて「提供した」「用意した」
 
 suppliedは物やサービスなど実体のあるものを与える時に使い、providedは情報や機会、条件など幅広い「提供」に使われます。
 
@@ -105,14 +105,14 @@ suppliedは物やサービスなど実体のあるものを与える時に使い
 
 ## 🧩 あわせて覚えたい
 
-- [deliver](/word/deliver)：配達する、届ける
-- [offer](/word/offer)：申し出る、提供する
+- [deliver](/word/deliver/)：配達する、届ける
+- [offer](/word/offer/)：申し出る、提供する
 
 ---
 
 ## 📖 できればこれも
 
-- [receive](/word/receive)：受け取る
-- [send](/word/send)：送る
+- [receive](/word/receive/)：受け取る
+- [send](/word/send/)：送る
 
 <!-- cvid: aid08_bid07 -->

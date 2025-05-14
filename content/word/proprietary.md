@@ -97,7 +97,7 @@ TOEICではITやビジネス関連の長文で、独自技術や専有製品に�
 ## 🤔  exclusive との違いは？
 
 - **proprietary**：特定の所有者が持つ独自の、専有の
-- **[exclusive](/word/exclusive)**：排他的な、他にない、限定的な
+- **[exclusive](/word/exclusive/)**：排他的な、他にない、限定的な
 
 proprietaryは「所有権」や「独自仕様」に重点があり、exclusiveは「他を排除して唯一」や「限定的」というニュアンスが強いです。
 
@@ -105,14 +105,14 @@ proprietaryは「所有権」や「独自仕様」に重点があり、exclusive
 
 ## 🧩 あわせて覚えたい
 
-- [licensed](/word/licensed)：認可された、ライセンスを受けた
-- [patented](/word/patented)：特許を取得した
+- [licensed](/word/licensed/)：認可された、ライセンスを受けた
+- [patented](/word/patented/)：特許を取得した
 
 ---
 
 ## 📖 できればこれも
 
-- [confidential](/word/confidential)：機密の、内密の
-- [authorized](/word/authorized)：認可された、権限のある
+- [confidential](/word/confidential/)：機密の、内密の
+- [authorized](/word/authorized/)：認可された、権限のある
 
 <!-- cvid: aid02_bid34 -->

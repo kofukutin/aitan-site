@@ -96,7 +96,7 @@ TOEICではグラフや統計、売上などの説明で頻出します。数字
 ## 🤔  percentage との違いは？
 
 - **percent**：具体的な数値とセットで「～パーセント」と表現する
-- **[percentage](/word/percentage)**：割合や比率そのものを抽象的に表す
+- **[percentage](/word/percentage/)**：割合や比率そのものを抽象的に表す
 
 percentは「10 percent」のように数字と一緒に使い、percentageは「a high percentage」のように漠然とした割合を指します。
 
@@ -104,14 +104,14 @@ percentは「10 percent」のように数字と一緒に使い、percentageは�
 
 ## 🧩 あわせて覚えたい
 
-- [rate](/word/rate)：比率、割合
-- [proportion](/word/proportion)：部分、割合
+- [rate](/word/rate/)：比率、割合
+- [proportion](/word/proportion/)：部分、割合
 
 ---
 
 ## 📖 できればこれも
 
-- [figure](/word/figure)：数字、数値
-- [amount](/word/amount)：量、総額
+- [figure](/word/figure/)：数字、数値
+- [amount](/word/amount/)：量、総額
 
 <!-- cvid: aid12_bid16 -->

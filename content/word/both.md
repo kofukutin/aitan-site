@@ -94,7 +94,7 @@ TOEICでは会話や説明文で「両方」「どちらも」と述べる場面
 ## 🤔  either との違いは？
 
 - **both**：2つのものや人の「両方」「どちらも」
-- **[either](/word/either)**：2つのうち「どちらか一方」
+- **[either](/word/either/)**：2つのうち「どちらか一方」
 
 bothは2つとも当てはまる場合、eitherは2つのうちどちらか1つだけを指す場合に使います。
 
@@ -102,14 +102,14 @@ bothは2つとも当てはまる場合、eitherは2つのうちどちらか1つ�
 
 ## 🧩 あわせて覚えたい
 
-- [neither](/word/neither)：2つのうち「どちらも～ない」
-- [all](/word/all)：3つ以上の「すべて」
+- [neither](/word/neither/)：2つのうち「どちらも～ない」
+- [all](/word/all/)：3つ以上の「すべて」
 
 ---
 
 ## 📖 できればこれも
 
-- [each](/word/each)：それぞれ
-- [every](/word/every)：すべての（各～）
+- [each](/word/each/)：それぞれ
+- [every](/word/every/)：すべての（各～）
 
 <!-- cvid: aid31_bid01 -->

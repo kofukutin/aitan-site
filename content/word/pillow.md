@@ -96,7 +96,7 @@ TOEICでは主にホテルや部屋の写真描写で登場します。寝具や
 ## 🤔  cushion との違いは？
 
 - **pillow**：寝るときに頭をのせるための枕
-- **[cushion](/word/cushion)**：椅子やソファに置くクッション
+- **[cushion](/word/cushion/)**：椅子やソファに置くクッション
 
 pillowは主に寝具として使い、cushionは座るときや背もたれ用など家具の上で使います。
 
@@ -104,14 +104,14 @@ pillowは主に寝具として使い、cushionは座るときや背もたれ用�
 
 ## 🧩 あわせて覚えたい
 
-- [blanket](/word/blanket)：毛布
-- [mattress](/word/mattress)：マットレス
+- [blanket](/word/blanket/)：毛布
+- [mattress](/word/mattress/)：マットレス
 
 ---
 
 ## 📖 できればこれも
 
-- [blanket](/word/blanket)：毛布
-- [sheet](/word/sheet)：シーツ
+- [blanket](/word/blanket/)：毛布
+- [sheet](/word/sheet/)：シーツ
 
 <!-- cvid: aid26_bid35 -->

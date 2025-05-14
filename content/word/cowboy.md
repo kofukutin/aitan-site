@@ -97,7 +97,7 @@ TOEICでは観光や文化紹介の記事、広告文などで登場すること
 ## 🤔  rancher との違いは？
 
 - **cowboy**：牛の世話や放牧、乗馬などを主に行う牧場労働者やそのイメージ。
-- **[rancher](/word/rancher)**：牧場の経営者や所有者を指し、管理や運営が主な役割。
+- **[rancher](/word/rancher/)**：牧場の経営者や所有者を指し、管理や運営が主な役割。
 
 cowboyは現場で働く人、rancherは牧場のオーナーや管理者という違いがあります。
 
@@ -105,14 +105,14 @@ cowboyは現場で働く人、rancherは牧場のオーナーや管理者とい�
 
 ## 🧩 あわせて覚えたい
 
-- [wrangler](/word/wrangler)：カウボーイと似た意味で、特に馬や牛の世話をする人
-- [farmer](/word/farmer)：農業従事者、農家
+- [wrangler](/word/wrangler/)：カウボーイと似た意味で、特に馬や牛の世話をする人
+- [farmer](/word/farmer/)：農業従事者、農家
 
 ---
 
 ## 📖 できればこれも
 
-- [horse](/word/horse)：馬
-- [boots](/word/boots)：ブーツ、長靴
+- [horse](/word/horse/)：馬
+- [boots](/word/boots/)：ブーツ、長靴
 
 <!-- cvid: aid01_bid38 -->

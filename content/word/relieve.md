@@ -97,7 +97,7 @@ TOEICでは「relieve pressure（プレッシャーを和らげる）」や「re
 ## 🤔  release との違いは？
 
 - **relieve**：苦痛や不安、ストレスなどを和らげたり軽減したりする
-- **[release](/word/release)**：物理的・精神的に「解放する」「放出する」
+- **[release](/word/release/)**：物理的・精神的に「解放する」「放出する」
 
 relieveは「苦しみや不安を軽くする」ニュアンス、releaseは「束縛や制限から解き放つ」イメージで使い分けます。
 
@@ -105,14 +105,14 @@ relieveは「苦しみや不安を軽くする」ニュアンス、releaseは「
 
 ## 🧩 あわせて覚えたい
 
-- [ease](/word/ease)：（痛み・緊張などを）和らげる
-- [alleviate](/word/alleviate)：（苦痛・問題などを）軽減する
+- [ease](/word/ease/)：（痛み・緊張などを）和らげる
+- [alleviate](/word/alleviate/)：（苦痛・問題などを）軽減する
 
 ---
 
 ## 📖 できればこれも
 
-- [assist](/word/assist)：手伝う、援助する
-- [support](/word/support)：支える、支援する
+- [assist](/word/assist/)：手伝う、援助する
+- [support](/word/support/)：支える、支援する
 
 <!-- cvid: aid00_bid30 -->

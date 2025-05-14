@@ -98,7 +98,7 @@ TOEICでは「勤務シフト」「変化」「交代」などの意味で会話
 ## 🤔  change との違いは？
 
 - **shift**：ある状態や位置から別の状態・位置へ移る「変化」や「交代」を表す。
-- **[change](/word/change)**：一般的な「変化」「変更」を幅広く指す。
+- **[change](/word/change/)**：一般的な「変化」「変更」を幅広く指す。
 
 shiftは「段階的・部分的な変化」や「勤務の交代」など、具体的な移動や切り替えのニュアンスが強いです。changeはより広い意味で使われます。
 
@@ -106,14 +106,14 @@ shiftは「段階的・部分的な変化」や「勤務の交代」など、具
 
 ## 🧩 あわせて覚えたい
 
-- [transition](/word/transition)：移行、推移
-- [replacement](/word/replacement)：交代、代わりの人・物
+- [transition](/word/transition/)：移行、推移
+- [replacement](/word/replacement/)：交代、代わりの人・物
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/word/schedule)：予定、スケジュール
-- [task](/word/task)：仕事、作業
+- [schedule](/word/schedule/)：予定、スケジュール
+- [task](/word/task/)：仕事、作業
 
 <!-- cvid: aid29_bid38 -->

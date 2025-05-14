@@ -97,7 +97,7 @@ We are truly blessed to have such a dedicated team.
 ## 🤔  praise との違いは？
 
 - **bless**：神や目上の存在が「祝福する」「加護を与える」意味で使う。宗教的・感謝のニュアンスが強い。
-- **[praise](/word/praise)**：人や物事を「称賛する」「褒める」意味で使う。宗教的な意味はない。
+- **[praise](/word/praise/)**：人や物事を「称賛する」「褒める」意味で使う。宗教的な意味はない。
 
 blessは「神の恵み」や「ありがたさ」を表す時に使い、praiseは「良い点を褒める」時に使います。
 
@@ -105,14 +105,14 @@ blessは「神の恵み」や「ありがたさ」を表す時に使い、praise
 
 ## 🧩 あわせて覚えたい
 
-- [curse](/word/curse)：呪う、災いを祈る
-- [thank](/word/thank)：感謝する
+- [curse](/word/curse/)：呪う、災いを祈る
+- [thank](/word/thank/)：感謝する
 
 ---
 
 ## 📖 できればこれも
 
-- [wish](/word/wish)：願う
-- [pray](/word/pray)：祈る
+- [wish](/word/wish/)：願う
+- [pray](/word/pray/)：祈る
 
 <!-- cvid: aid01_bid36 -->

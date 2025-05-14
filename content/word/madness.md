@@ -97,7 +97,7 @@ TOEICでは、記事やメールの中で「無謀な行動」や「極端な熱
 ## 🤔  insanity との違いは？
 
 - **madness**：日常的な「狂気」や「愚行」、一時的な熱狂も含む
-- **[insanity](/word/insanity)**：医学的・法的な「精神異常」、より深刻で持続的
+- **[insanity](/word/insanity/)**：医学的・法的な「精神異常」、より深刻で持続的
 
 madnessは日常会話や比喩表現で幅広く使われ、insanityはより専門的・深刻な状況で使われます。
 
@@ -105,14 +105,14 @@ madnessは日常会話や比喩表現で幅広く使われ、insanityはより�
 
 ## 🧩 あわせて覚えたい
 
-- [foolishness](/word/foolishness)：愚かさ、ばかげたこと
-- [sanity](/word/sanity)：正気、健全さ
+- [foolishness](/word/foolishness/)：愚かさ、ばかげたこと
+- [sanity](/word/sanity/)：正気、健全さ
 
 ---
 
 ## 📖 できればこれも
 
-- [anger](/word/anger)：怒り
-- [confusion](/word/confusion)：混乱
+- [anger](/word/anger/)：怒り
+- [confusion](/word/confusion/)：混乱
 
 <!-- cvid: aid25_bid13 -->

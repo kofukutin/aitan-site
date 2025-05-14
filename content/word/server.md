@@ -97,7 +97,7 @@ IT関連やオフィスの設備説明、業務手順の文脈で出題される
 ## 🤔  client との違いは？
 
 - **server**：サービスやデータを提供する側のコンピュータや人
-- **[client](/word/client)**：サービスやデータを受け取る側のコンピュータや利用者
+- **[client](/word/client/)**：サービスやデータを受け取る側のコンピュータや利用者
 
 serverは「提供者」、clientは「利用者」という立場の違いがあります。
 
@@ -105,14 +105,14 @@ serverは「提供者」、clientは「利用者」という立場の違いが�
 
 ## 🧩 あわせて覚えたい
 
-- [host](/word/host)：ネットワーク上の中心となるコンピュータ
-- [database](/word/database)：データを体系的に保存・管理するシステム
+- [host](/word/host/)：ネットワーク上の中心となるコンピュータ
+- [database](/word/database/)：データを体系的に保存・管理するシステム
 
 ---
 
 ## 📖 できればこれも
 
-- [network](/word/network)：ネットワーク、通信網
-- [system](/word/system)：システム、仕組み
+- [network](/word/network/)：ネットワーク、通信網
+- [system](/word/system/)：システム、仕組み
 
 <!-- cvid: aid25_bid21 -->

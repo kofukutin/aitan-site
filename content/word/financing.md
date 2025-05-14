@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や記事、Eメールなどの長文中で�
 ## 🤔  funding との違いは？
 
 - **financing**：資金をどのように調達するか、方法や手段に焦点がある
-- **[funding](/word/funding)**：資金そのものや提供されるお金に焦点がある
+- **[funding](/word/funding/)**：資金そのものや提供されるお金に焦点がある
 
 financingは「資金調達の方法・行為」、fundingは「提供された資金」や「資金提供」という違いがあります。
 
@@ -105,14 +105,14 @@ financingは「資金調達の方法・行為」、fundingは「提供された�
 
 ## 🧩 あわせて覚えたい
 
-- [loan](/word/loan)：ローン、融資
-- [investment](/word/investment)：投資
+- [loan](/word/loan/)：ローン、融資
+- [investment](/word/investment/)：投資
 
 ---
 
 ## 📖 できればこれも
 
-- [budget](/word/budget)：予算
-- [capital](/word/capital)：資本
+- [budget](/word/budget/)：予算
+- [capital](/word/capital/)：資本
 
 <!-- cvid: aid19_bid45 -->

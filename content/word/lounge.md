@@ -97,7 +97,7 @@ The meeting will be held in the executive lounge on the 10th floor.
 ## 🤔  lobby との違いは？
 
 - **lounge**：くつろいだり待ったりするための休憩スペース
-- **[lobby](/word/lobby)**：建物の入口近くにあるロビー、受付や通路として使われる空間
+- **[lobby](/word/lobby/)**：建物の入口近くにあるロビー、受付や通路として使われる空間
 
 loungeは「くつろぐ」目的のスペース、lobbyは「出入り・受付」など動線の中心となる場所で、用途や雰囲気が異なります。
 
@@ -105,14 +105,14 @@ loungeは「くつろぐ」目的のスペース、lobbyは「出入り・受付
 
 ## 🧩 あわせて覚えたい
 
-- [cafeteria](/word/cafeteria)：カフェテリア、食堂
-- [waiting_room](/word/waiting_room)：待合室
+- [cafeteria](/word/cafeteria/)：カフェテリア、食堂
+- [waiting_room](/word/waiting_room/)：待合室
 
 ---
 
 ## 📖 できればこれも
 
-- [reception](/word/reception)：受付、フロント
-- [hall](/word/hall)：ホール、大広間
+- [reception](/word/reception/)：受付、フロント
+- [hall](/word/hall/)：ホール、大広間
 
 <!-- cvid: aid21_bid21 -->

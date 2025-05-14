@@ -97,7 +97,7 @@ TOEICでは、責任や権利、所有を強調する文脈で「sole」が選�
 ## 🤔  only との違いは？
 
 - **sole**：フォーマルで「唯一の」「ただ一つの」と強調したいときに使う
-- **[only](/word/only)**：日常的に「ただ～だけ」と限定する意味で使う
+- **[only](/word/only/)**：日常的に「ただ～だけ」と限定する意味で使う
 
 「sole」は責任や権利などを強調するフォーマルな場面で使われ、「only」はより広く日常的に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、責任や権利、所有を強調する文脈で「sole」が選�
 
 ## 🧩 あわせて覚えたい
 
-- [exclusive](/word/exclusive)：排他的な、独占的な
-- [unique](/word/unique)：唯一無二の、独特な
+- [exclusive](/word/exclusive/)：排他的な、独占的な
+- [unique](/word/unique/)：唯一無二の、独特な
 
 ---
 
 ## 📖 できればこれも
 
-- [single](/word/single)：単一の、ひとつの
-- [entire](/word/entire)：全体の、全部の
+- [single](/word/single/)：単一の、ひとつの
+- [entire](/word/entire/)：全体の、全部の
 
 <!-- cvid: aid27_bid07 -->

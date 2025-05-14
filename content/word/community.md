@@ -97,7 +97,7 @@ TOEICでは、地域社会や企業の社会貢献活動、イベント案内な
 ## 🤔  society との違いは？
 
 - **community**：共通の場所や目的でつながる比較的小規模な集団や地域社会
-- **[society](/word/society)**：国や文化全体など、より広い人々の集まり
+- **[society](/word/society/)**：国や文化全体など、より広い人々の集まり
 
 communityは身近な集団や地域を指し、societyは国全体や抽象的な社会全体を指す点が異なります。
 
@@ -105,14 +105,14 @@ communityは身近な集団や地域を指し、societyは国全体や抽象的�
 
 ## 🧩 あわせて覚えたい
 
-- [neighborhood](/word/neighborhood)：近所、近隣地域
-- [organization](/word/organization)：組織、団体
+- [neighborhood](/word/neighborhood/)：近所、近隣地域
+- [organization](/word/organization/)：組織、団体
 
 ---
 
 ## 📖 できればこれも
 
-- [group](/word/group)：集団、グループ
-- [team](/word/team)：チーム、仲間
+- [group](/word/group/)：集団、グループ
+- [team](/word/team/)：チーム、仲間
 
 <!-- cvid: aid24_bid18 -->

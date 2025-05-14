@@ -97,7 +97,7 @@ TOEICでは主にメールや記事、案内文などの長文中で「有益な
 ## 🤔  instructive との違いは？
 
 - **informative**：役立つ情報や知識を与えてくれる
-- **[instructive](/word/instructive)**：教訓や指導的な内容で学びがある
+- **[instructive](/word/instructive/)**：教訓や指導的な内容で学びがある
 
 「informative」は客観的な情報や知識を得られる場合に使い、「instructive」は何かを教えたり、教訓を与えるニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは主にメールや記事、案内文などの長文中で「有益な
 
 ## 🧩 あわせて覚えたい
 
-- [educational](/word/educational)：教育的な、学びになる
-- [descriptive](/word/descriptive)：描写的な、説明的な
+- [educational](/word/educational/)：教育的な、学びになる
+- [descriptive](/word/descriptive/)：描写的な、説明的な
 
 ---
 
 ## 📖 できればこれも
 
-- [detailed](/word/detailed)：詳細な
-- [concise](/word/concise)：簡潔な
+- [detailed](/word/detailed/)：詳細な
+- [concise](/word/concise/)：簡潔な
 
 <!-- cvid: aid42_bid03 -->

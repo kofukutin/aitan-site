@@ -97,7 +97,7 @@ TOEICでは売上や人事に関する記事・レポート・Eメールなど�
 ## 🤔  revenue との違いは？
 
 - **turnover**：一定期間の売上高や従業員の入れ替わり（離職率）など、回転や流れを強調
-- **[revenue](/word/revenue)**：主に企業や政府の「収益」「収入」を指し、売上高に限定されることが多い
+- **[revenue](/word/revenue/)**：主に企業や政府の「収益」「収入」を指し、売上高に限定されることが多い
 
 turnoverは「回転」や「入れ替わり」のニュアンスがあり、revenueは「収入・収益」として金額面に特化しています。
 
@@ -105,14 +105,14 @@ turnoverは「回転」や「入れ替わり」のニュアンスがあり、rev
 
 ## 🧩 あわせて覚えたい
 
-- [profit](/word/profit)：利益
-- [resignation](/word/resignation)：辞職、退職
+- [profit](/word/profit/)：利益
+- [resignation](/word/resignation/)：辞職、退職
 
 ---
 
 ## 📖 できればこれも
 
-- [expense](/word/expense)：費用
-- [asset](/word/asset)：資産
+- [expense](/word/expense/)：費用
+- [asset](/word/asset/)：資産
 
 <!-- cvid: aid32_bid25 -->

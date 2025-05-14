@@ -97,7 +97,7 @@ TOEICでは健康や福利厚生、保険などの話題でよく登場します
 ## 🤔  fitness との違いは？
 
 - **health**：体や心の全体的な健康状態を指す
-- **[fitness](/word/fitness)**：運動能力や体力が高い状態を指す
+- **[fitness](/word/fitness/)**：運動能力や体力が高い状態を指す
 
 healthは病気がない・心身が良好な状態全般を表し、fitnessは特に運動や体力面での良好さを強調します。
 
@@ -105,14 +105,14 @@ healthは病気がない・心身が良好な状態全般を表し、fitnessは�
 
 ## 🧩 あわせて覚えたい
 
-- [illness](/word/illness)：病気
-- [wellness](/word/wellness)：健康（より積極的な健康・ウェルネス）
+- [illness](/word/illness/)：病気
+- [wellness](/word/wellness/)：健康（より積極的な健康・ウェルネス）
 
 ---
 
 ## 📖 できればこれも
 
-- [disease](/word/disease)：疾患、病気
-- [condition](/word/condition)：状態、健康状態
+- [disease](/word/disease/)：疾患、病気
+- [condition](/word/condition/)：状態、健康状態
 
 <!-- cvid: aid26_bid29 -->

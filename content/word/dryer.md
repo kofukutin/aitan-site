@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、ランドリーやホテルの
 ## 🤔  dehumidifier との違いは？
 
 - **dryer**：衣類や髪などを乾かすための機械全般
-- **[dehumidifier](/word/dehumidifier)**：部屋や空間の湿気を除去する機械
+- **[dehumidifier](/word/dehumidifier/)**：部屋や空間の湿気を除去する機械
 
 dryerは「物を乾かす」ことに特化し、dehumidifierは「空気中の湿気を減らす」ための機械です。用途や設置場所が異なります。
 
@@ -105,14 +105,14 @@ dryerは「物を乾かす」ことに特化し、dehumidifierは「空気中の
 
 ## 🧩 あわせて覚えたい
 
-- [washer](/word/washer)：洗濯機
-- [towel](/word/towel)：タオル
+- [washer](/word/washer/)：洗濯機
+- [towel](/word/towel/)：タオル
 
 ---
 
 ## 📖 できればこれも
 
-- [laundry](/word/laundry)：洗濯物、洗濯
-- [iron](/word/iron)：アイロン、アイロンをかける
+- [laundry](/word/laundry/)：洗濯物、洗濯
+- [iron](/word/iron/)：アイロン、アイロンをかける
 
 <!-- cvid: aid02_bid24 -->

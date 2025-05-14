@@ -97,7 +97,7 @@ TOEICでは「accepted」は、書類や提案、条件などが「受け入れ�
 ## 🤔  approved との違いは？
 
 - **accepted**：広く受け入れられている、承認された（一般的・社会的な受容も含む）
-- **[approved](/word/approved)**：正式に許可された、認可された（権限者や機関による承認）
+- **[approved](/word/approved/)**：正式に許可された、認可された（権限者や機関による承認）
 
 「accepted」は社会的・一般的な受容や承認を幅広く指し、「approved」は公式な許可や認可のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは「accepted」は、書類や提案、条件などが「受け入れ�
 
 ## 🧩 あわせて覚えたい
 
-- [rejected](/word/rejected)：拒否された
-- [permitted](/word/permitted)：許可された
+- [rejected](/word/rejected/)：拒否された
+- [permitted](/word/permitted/)：許可された
 
 ---
 
 ## 📖 できればこれも
 
-- [confirmed](/word/confirmed)：確認された
-- [valid](/word/valid)：有効な
+- [confirmed](/word/confirmed/)：確認された
+- [valid](/word/valid/)：有効な
 
 <!-- cvid: aid15_bid12 -->

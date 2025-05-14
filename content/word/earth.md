@@ -97,7 +97,7 @@ TOEICでは「地球環境」や「自然」に関する文脈で出題される
 ## 🤔  ground との違いは？
 
 - **earth**：地球全体や「土」「地面」など自然の地表を指す。
-- **[ground](/word/ground)**：建物の床や舗装された地面など、より限定的・具体的な「地面」を指す。
+- **[ground](/word/ground/)**：建物の床や舗装された地面など、より限定的・具体的な「地面」を指す。
 
 earthは「地球」や「自然の土」を広く指し、groundは「足元の地面」や「床」など物理的・限定的な場所を表します。
 
@@ -105,14 +105,14 @@ earthは「地球」や「自然の土」を広く指し、groundは「足元の
 
 ## 🧩 あわせて覚えたい
 
-- [soil](/word/soil)：土壌、土
-- [planet](/word/planet)：惑星
+- [soil](/word/soil/)：土壌、土
+- [planet](/word/planet/)：惑星
 
 ---
 
 ## 📖 できればこれも
 
-- [moon](/word/moon)：月
-- [nature](/word/nature)：自然
+- [moon](/word/moon/)：月
+- [nature](/word/nature/)：自然
 
 <!-- cvid: aid18_bid29 -->

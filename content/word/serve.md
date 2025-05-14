@@ -97,7 +97,7 @@ TOEICでは「サービスを提供する」「役立つ」という意味で、
 ## 🤔  provide との違いは？
 
 - **serve**：相手に直接サービスや食事などを「提供する」「仕える」ニュアンスが強い
-- **[provide](/word/provide)**：必要なものを「供給する」「与える」意味で、より広く一般的
+- **[provide](/word/provide/)**：必要なものを「供給する」「与える」意味で、より広く一般的
 
 serveは「相手に直接何かをしてあげる」イメージ、provideは「必要なものを用意して与える」イメージです。
 
@@ -105,14 +105,14 @@ serveは「相手に直接何かをしてあげる」イメージ、provideは�
 
 ## 🧩 あわせて覚えたい
 
-- [supply](/word/supply)：供給する、支給する
-- [attend](/word/attend)：出席する、付き添う
+- [supply](/word/supply/)：供給する、支給する
+- [attend](/word/attend/)：出席する、付き添う
 
 ---
 
 ## 📖 できればこれも
 
-- [deliver](/word/deliver)：配達する、届ける
-- [assist](/word/assist)：手伝う、補助する
+- [deliver](/word/deliver/)：配達する、届ける
+- [assist](/word/assist/)：手伝う、補助する
 
 <!-- cvid: aid16_bid19 -->

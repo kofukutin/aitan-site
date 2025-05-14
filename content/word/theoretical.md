@@ -97,7 +97,7 @@ TOEICでは、科学やビジネスの説明文、研究報告などで「理論
 ## 🤔  practical との違いは？
 
 - **theoretical**：理論や仮説に基づき、実際の応用や現実とは限らない
-- **[practical](/word/practical)**：実際の応用や現場で役立つことに重点を置く
+- **[practical](/word/practical/)**：実際の応用や現場で役立つことに重点を置く
 
 theoreticalは「頭の中で考える」イメージ、practicalは「実際に使える・役立つ」イメージです。
 
@@ -105,14 +105,14 @@ theoreticalは「頭の中で考える」イメージ、practicalは「実際に
 
 ## 🧩 あわせて覚えたい
 
-- [hypothetical](/word/hypothetical)：仮定の、仮説の
-- [academic](/word/academic)：学問的な、学術の
+- [hypothetical](/word/hypothetical/)：仮定の、仮説の
+- [academic](/word/academic/)：学問的な、学術の
 
 ---
 
 ## 📖 できればこれも
 
-- [scientific](/word/scientific)：科学的な
-- [conceptual](/word/conceptual)：概念的な
+- [scientific](/word/scientific/)：科学的な
+- [conceptual](/word/conceptual/)：概念的な
 
 <!-- cvid: aid20_bid44 -->

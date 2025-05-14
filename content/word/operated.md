@@ -98,7 +98,7 @@ TOEICでは、機械の操作や会社の運営に関する会話や説明文で
 ## 🤔  managed との違いは？
 
 - **operated**：機械や組織などを「実際に動かした」「運営した」という意味が強い
-- **[managed](/word/managed)**：人や業務、組織を「管理した」「経営した」という意味が強い
+- **[managed](/word/managed/)**：人や業務、組織を「管理した」「経営した」という意味が強い
 
 「operated」は物理的・実務的な動作や運営に焦点があり、「managed」は全体の管理や指揮に重点があります。
 
@@ -106,14 +106,14 @@ TOEICでは、機械の操作や会社の運営に関する会話や説明文で
 
 ## 🧩 あわせて覚えたい
 
-- [run](/word/run)：運営する、経営する
-- [control](/word/control)：制御する、管理する
+- [run](/word/run/)：運営する、経営する
+- [control](/word/control/)：制御する、管理する
 
 ---
 
 ## 📖 できればこれも
 
-- [handle](/word/handle)：扱う、処理する
-- [supervise](/word/supervise)：監督する、指導する
+- [handle](/word/handle/)：扱う、処理する
+- [supervise](/word/supervise/)：監督する、指導する
 
 <!-- cvid: aid26_bid37 -->

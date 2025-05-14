@@ -97,7 +97,7 @@ TOEICでは、文章の流れや文脈に合う動詞の形として出題され
 ## 🤔  mixing との違いは？
 
 - **combining**：異なるものを一つにまとめて新しいものを作るニュアンス
-- **[mixing](/word/mixing)**：物理的に混ぜ合わせる、または区別がつかなくなるほど混合するニュアンス
+- **[mixing](/word/mixing/)**：物理的に混ぜ合わせる、または区別がつかなくなるほど混合するニュアンス
 
 combiningは「結合して新しいものを作る」イメージ、mixingは「混ぜて一体化させる」イメージで使い分けます。
 
@@ -105,14 +105,14 @@ combiningは「結合して新しいものを作る」イメージ、mixingは�
 
 ## 🧩 あわせて覚えたい
 
-- [merge](/word/merge)：合併する、統合する
-- [integrate](/word/integrate)：統合する、一体化する
+- [merge](/word/merge/)：合併する、統合する
+- [integrate](/word/integrate/)：統合する、一体化する
 
 ---
 
 ## 📖 できればこれも
 
-- [connect](/word/connect)：つなぐ、接続する
-- [assemble](/word/assemble)：組み立てる、集める
+- [connect](/word/connect/)：つなぐ、接続する
+- [assemble](/word/assemble/)：組み立てる、集める
 
 <!-- cvid: aid20_bid01 -->

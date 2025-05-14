@@ -97,7 +97,7 @@ TOEICでは「net profit（純利益）」や「net cost（正味コスト）」
 ## 🤔  network との違いは？
 
 - **net**：余分なものを除いた「正味」や「網」そのものを指す
-- **[network](/word/network)**：複数の点や人がつながった「ネットワーク」「組織網」
+- **[network](/word/network/)**：複数の点や人がつながった「ネットワーク」「組織網」
 
 **net**は「純利益」や「網」など、シンプルな本質や物理的な網を表しますが、**network**は「人や物のつながり」「組織」など広がりや構造を強調します。
 
@@ -105,14 +105,14 @@ TOEICでは「net profit（純利益）」や「net cost（正味コスト）」
 
 ## 🧩 あわせて覚えたい
 
-- [profit](/word/profit)：利益
-- [gross](/word/gross)：総計の、全体の
+- [profit](/word/profit/)：利益
+- [gross](/word/gross/)：総計の、全体の
 
 ---
 
 ## 📖 できればこれも
 
-- [cost](/word/cost)：費用
-- [total](/word/total)：合計
+- [cost](/word/cost/)：費用
+- [total](/word/total/)：合計
 
 <!-- cvid: aid37_bid43 -->

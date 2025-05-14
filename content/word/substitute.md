@@ -98,7 +98,7 @@ TOEICでは「代用する」「代理を務める」といった意味で、主
 ## 🤔  replace との違いは？
 
 - **substitute**：何かの代わりに別のものを使う（代用品・代理人を強調）
-- **[replace](/word/replace)**：元のものを取り除いて新しいものに置き換える（置換・交代を強調）
+- **[replace](/word/replace/)**：元のものを取り除いて新しいものに置き換える（置換・交代を強調）
 
 substituteは「代わりに使う」ことに焦点があり、replaceは「元のものを取り除く」ニュアンスが強いです。
 
@@ -106,14 +106,14 @@ substituteは「代わりに使う」ことに焦点があり、replaceは「元
 
 ## 🧩 あわせて覚えたい
 
-- [exchange](/word/exchange)：交換する、取り替える
-- [alternative](/word/alternative)：代替案、別の選択肢
+- [exchange](/word/exchange/)：交換する、取り替える
+- [alternative](/word/alternative/)：代替案、別の選択肢
 
 ---
 
 ## 📖 できればこれも
 
-- [assign](/word/assign)：割り当てる、任命する
-- [appoint](/word/appoint)：指名する、任命する
+- [assign](/word/assign/)：割り当てる、任命する
+- [appoint](/word/appoint/)：指名する、任命する
 
 <!-- cvid: aid15_bid08 -->

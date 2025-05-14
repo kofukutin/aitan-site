@@ -97,7 +97,7 @@ TOEICでは主に規則や基準への「準拠」を問う文脈で出題され
 ## 🤔  obedient との違いは？
 
 - **compliant**：規則や基準、要求などに従う・準拠する（特にフォーマル・ビジネスで使用）
-- **[obedient](/word/obedient)**：人や動物が命令や指示に従順である（主に個人や性格に対して使う）
+- **[obedient](/word/obedient/)**：人や動物が命令や指示に従順である（主に個人や性格に対して使う）
 
 compliantは「規則や基準」に対して使い、obedientは「人や動物の性格や行動」に対して使います。
 
@@ -105,14 +105,14 @@ compliantは「規則や基準」に対して使い、obedientは「人や動物
 
 ## 🧩 あわせて覚えたい
 
-- [resistant](/word/resistant)：抵抗する、反抗的な
-- [conform](/word/conform)：従う、順応する
+- [resistant](/word/resistant/)：抵抗する、反抗的な
+- [conform](/word/conform/)：従う、順応する
 
 ---
 
 ## 📖 できればこれも
 
-- [mandatory](/word/mandatory)：義務的な、強制の
-- [regulation](/word/regulation)：規則、規制
+- [mandatory](/word/mandatory/)：義務的な、強制の
+- [regulation](/word/regulation/)：規則、規制
 
 <!-- cvid: aid36_bid45 -->

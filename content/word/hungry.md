@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写や、日常的な会話文で「空腹」を表
 ## 🤔  starving との違いは？
 
 - **hungry**：お腹がすいている、空腹の（一般的な空腹）
-- **[starving](/word/starving)**：飢えている、非常にお腹がすいている（強い空腹）
+- **[starving](/word/starving/)**：飢えている、非常にお腹がすいている（強い空腹）
 
 hungryは日常的な「お腹がすいた」ですが、starvingは「死にそうなくらいお腹がすいた」と強調したいときに使います。
 
@@ -105,14 +105,14 @@ hungryは日常的な「お腹がすいた」ですが、starvingは「死にそ
 
 ## 🧩 あわせて覚えたい
 
-- [thirsty](/word/thirsty)：のどが渇いた
-- [full](/word/full)：お腹がいっぱいの
+- [thirsty](/word/thirsty/)：のどが渇いた
+- [full](/word/full/)：お腹がいっぱいの
 
 ---
 
 ## 📖 できればこれも
 
-- [tired](/word/tired)：疲れた
-- [sleepy](/word/sleepy)：眠い
+- [tired](/word/tired/)：疲れた
+- [sleepy](/word/sleepy/)：眠い
 
 <!-- cvid: aid31_bid23 -->

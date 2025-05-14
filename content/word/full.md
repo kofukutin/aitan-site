@@ -97,7 +97,7 @@ TOEICでは「full schedule」「full name」など、名詞を修飾する形�
 ## 🤔  filled との違いは？
 
 - **full**：中身がいっぱいで「満ちている」状態を表す形容詞
-- **[filled](/word/filled)**：何かで「満たされた」状態を強調する過去分詞
+- **[filled](/word/filled/)**：何かで「満たされた」状態を強調する過去分詞
 
 **full**は「空きがない」状態を広く表し、**filled**は「何で満たされたか」をより具体的に示します。
 
@@ -105,14 +105,14 @@ TOEICでは「full schedule」「full name」など、名詞を修飾する形�
 
 ## 🧩 あわせて覚えたい
 
-- [empty](/word/empty)：空の、何も入っていない
-- [complete](/word/complete)：完全な、全部そろった
+- [empty](/word/empty/)：空の、何も入っていない
+- [complete](/word/complete/)：完全な、全部そろった
 
 ---
 
 ## 📖 できればこれも
 
-- [busy](/word/busy)：忙しい、予定が詰まった
-- [entire](/word/entire)：全体の、全部の
+- [busy](/word/busy/)：忙しい、予定が詰まった
+- [entire](/word/entire/)：全体の、全部の
 
 <!-- cvid: aid09_bid42 -->

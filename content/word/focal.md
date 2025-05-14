@@ -97,7 +97,7 @@ TOEICでは、科学やビジネスの説明文で「focal point」などの形�
 ## 🤔  central との違いは？
 
 - **focal**：特定の一点や注目すべき中心に焦点を当てるニュアンス
-- **[central](/word/central)**：物理的・概念的な「中心」や「主要な部分」を広く指す
+- **[central](/word/central/)**：物理的・概念的な「中心」や「主要な部分」を広く指す
 
 「focal」は「焦点」や「注目の的」といった限定的な中心を強調し、「central」は単に中心や主要な部分を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、科学やビジネスの説明文で「focal point」などの形�
 
 ## 🧩 あわせて覚えたい
 
-- [peripheral](/word/peripheral)：周辺の、中心から離れた
-- [main](/word/main)：主な、最も重要な
+- [peripheral](/word/peripheral/)：周辺の、中心から離れた
+- [main](/word/main/)：主な、最も重要な
 
 ---
 
 ## 📖 できればこれも
 
-- [crucial](/word/crucial)：極めて重要な
-- [specific](/word/specific)：特定の、具体的な
+- [crucial](/word/crucial/)：極めて重要な
+- [specific](/word/specific/)：特定の、具体的な
 
 <!-- cvid: aid12_bid01 -->

@@ -97,7 +97,7 @@ Please see a teller if you need to withdraw cash.
 ## 🤔  cashier との違いは？
 
 - **teller**：銀行の窓口係を指し、主に金融機関で使われる
-- **[cashier](/word/cashier)**：スーパーやレストランなどでレジ業務をする人
+- **[cashier](/word/cashier/)**：スーパーやレストランなどでレジ業務をする人
 
 tellerは銀行限定で使われ、cashierは小売店や飲食店など幅広い場所で使われます。
 
@@ -105,14 +105,14 @@ tellerは銀行限定で使われ、cashierは小売店や飲食店など幅広�
 
 ## 🧩 あわせて覚えたい
 
-- [clerk](/word/clerk)：事務員、店員
-- [bank](/word/bank)：銀行
+- [clerk](/word/clerk/)：事務員、店員
+- [bank](/word/bank/)：銀行
 
 ---
 
 ## 📖 できればこれも
 
-- [account](/word/account)：口座、アカウント
-- [deposit](/word/deposit)：預金、預け入れ
+- [account](/word/account/)：口座、アカウント
+- [deposit](/word/deposit/)：預金、預け入れ
 
 <!-- cvid: aid12_bid44 -->

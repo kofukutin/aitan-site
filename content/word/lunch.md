@@ -97,7 +97,7 @@ TOEICではPart 1やPart 2で「昼食をとる」「ランチミーティング
 ## 🤔  meal との違いは？
 
 - **lunch**：昼に食べる食事（昼食）を指す。
-- **[meal](/word/meal)**：食事全般（朝・昼・晩など）を指す一般的な言葉。
+- **[meal](/word/meal/)**：食事全般（朝・昼・晩など）を指す一般的な言葉。
 
 lunchは「昼食」と限定されますが、mealは「食事」全般を指し、朝食・昼食・夕食すべてに使えます。
 
@@ -105,14 +105,14 @@ lunchは「昼食」と限定されますが、mealは「食事」全般を指�
 
 ## 🧩 あわせて覚えたい
 
-- [dinner](/word/dinner)：夕食
-- [snack](/word/snack)：軽食、おやつ
+- [dinner](/word/dinner/)：夕食
+- [snack](/word/snack/)：軽食、おやつ
 
 ---
 
 ## 📖 できればこれも
 
-- [breakfast](/word/breakfast)：朝食
-- [coffee](/word/coffee)：コーヒー
+- [breakfast](/word/breakfast/)：朝食
+- [coffee](/word/coffee/)：コーヒー
 
 <!-- cvid: aid37_bid43 -->

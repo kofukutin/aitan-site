@@ -97,7 +97,7 @@ TOEICでは会議や予定、交通機関など「逃す」「欠席する」場
 ## 🤔  lost との違いは？
 
 - **missed**：機会や予定、乗り物などを「逃した」「間に合わなかった」
-- **[lost](/word/lost)**：物や人、道などを「失った」「なくした」
+- **[lost](/word/lost/)**：物や人、道などを「失った」「なくした」
 
 missedは「間に合わなかった」「参加できなかった」など一時的な機会損失に使い、lostは「完全に失う」「取り戻せない」場合に使います。
 
@@ -105,14 +105,14 @@ missedは「間に合わなかった」「参加できなかった」など一�
 
 ## 🧩 あわせて覚えたい
 
-- [fail](/word/fail)：失敗する
-- [overlook](/word/overlook)：見落とす
+- [fail](/word/fail/)：失敗する
+- [overlook](/word/overlook/)：見落とす
 
 ---
 
 ## 📖 できればこれも
 
-- [delay](/word/delay)：遅れる
-- [forget](/word/forget)：忘れる
+- [delay](/word/delay/)：遅れる
+- [forget](/word/forget/)：忘れる
 
 <!-- cvid: aid19_bid19 -->

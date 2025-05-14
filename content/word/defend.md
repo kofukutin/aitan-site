@@ -97,7 +97,7 @@ TOEICでは法務やビジネスの文脈で「弁護する」「守る」とい
 ## 🤔  protect との違いは？
 
 - **defend**：攻撃や批判から積極的に守る、弁護する
-- **[protect](/word/protect)**：危険や損害から守る、保護する
+- **[protect](/word/protect/)**：危険や損害から守る、保護する
 
 defendは「攻撃や非難に対して積極的に防御・弁護する」ニュアンスが強く、protectは「危険や損害から守る」という広い意味で使われます。
 
@@ -105,14 +105,14 @@ defendは「攻撃や非難に対して積極的に防御・弁護する」ニ�
 
 ## 🧩 あわせて覚えたい
 
-- [attack](/word/attack)：攻撃する
-- [justify](/word/justify)：正当化する
+- [attack](/word/attack/)：攻撃する
+- [justify](/word/justify/)：正当化する
 
 ---
 
 ## 📖 できればこれも
 
-- [support](/word/support)：支持する、支える
-- [oppose](/word/oppose)：反対する
+- [support](/word/support/)：支持する、支える
+- [oppose](/word/oppose/)：反対する
 
 <!-- cvid: aid38_bid09 -->

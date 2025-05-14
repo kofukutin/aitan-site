@@ -97,7 +97,7 @@ TOEICでは主に長文読解パートで、時制や状況説明の文脈で出
 ## 🤔  currently との違いは？
 
 - **presently**：まもなく、または現在（ややフォーマルで「すぐに」の意味も強い）
-- **[currently](/word/currently)**：現在、今（よりカジュアルで「今この時点」の意味が中心）
+- **[currently](/word/currently/)**：現在、今（よりカジュアルで「今この時点」の意味が中心）
 
 presentlyは「まもなく」「すぐに」の意味もあり、ややフォーマル。currentlyは「今この瞬間」の意味で、より日常的に使われます。
 
@@ -105,14 +105,14 @@ presentlyは「まもなく」「すぐに」の意味もあり、ややフォ�
 
 ## 🧩 あわせて覚えたい
 
-- [soon](/word/soon)：すぐに、まもなく
-- [immediately](/word/immediately)：ただちに、すぐに
+- [soon](/word/soon/)：すぐに、まもなく
+- [immediately](/word/immediately/)：ただちに、すぐに
 
 ---
 
 ## 📖 できればこれも
 
-- [eventually](/word/eventually)：最終的に、やがて
-- [recently](/word/recently)：最近
+- [eventually](/word/eventually/)：最終的に、やがて
+- [recently](/word/recently/)：最近
 
 <!-- cvid: aid31_bid03 -->

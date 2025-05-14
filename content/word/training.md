@@ -97,7 +97,7 @@ trainingはTOEICのビジネスシーンで頻出し、特に社員教育や研�
 ## 🤔  practice との違いは？
 
 - **training**：体系的・計画的な訓練や研修を指し、スキルや知識を身につけるために行うもの。
-- **[practice](/word/practice)**：繰り返し行う練習や実践を指し、日常的な反復や習慣的な行動に使われる。
+- **[practice](/word/practice/)**：繰り返し行う練習や実践を指し、日常的な反復や習慣的な行動に使われる。
 
 trainingは「組織的な訓練」、practiceは「個人の練習・実践」といった違いがあります。
 
@@ -105,14 +105,14 @@ trainingは「組織的な訓練」、practiceは「個人の練習・実践」�
 
 ## 🧩 あわせて覚えたい
 
-- [education](/word/education)：教育、学習
-- [seminar](/word/seminar)：セミナー、講習会
+- [education](/word/education/)：教育、学習
+- [seminar](/word/seminar/)：セミナー、講習会
 
 ---
 
 ## 📖 できればこれも
 
-- [workshop](/word/workshop)：実習型講座、ワークショップ
-- [lecture](/word/lecture)：講義、講演
+- [workshop](/word/workshop/)：実習型講座、ワークショップ
+- [lecture](/word/lecture/)：講義、講演
 
 <!-- cvid: aid22_bid22 -->

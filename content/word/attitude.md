@@ -96,7 +96,7 @@ attitudeはTOEICの会話パートで「態度」や「考え方」を問う文�
 ## 🤔  behavior との違いは？
 
 - **attitude**：心の中の考え方や感じ方、またはそれが表に出た姿勢
-- **[behavior](/word/behavior)**：実際の行動やふるまい
+- **[behavior](/word/behavior/)**：実際の行動やふるまい
 
 attitudeは「内面の姿勢や考え方」、behaviorは「外に現れる具体的な行動」を指します。
 
@@ -104,14 +104,14 @@ attitudeは「内面の姿勢や考え方」、behaviorは「外に現れる具�
 
 ## 🧩 あわせて覚えたい
 
-- [mindset](/word/mindset)：物事の考え方、思考様式
-- [approach](/word/approach)：取り組み方、アプローチ
+- [mindset](/word/mindset/)：物事の考え方、思考様式
+- [approach](/word/approach/)：取り組み方、アプローチ
 
 ---
 
 ## 📖 できればこれも
 
-- [opinion](/word/opinion)：意見、考え
-- [mood](/word/mood)：気分、雰囲気
+- [opinion](/word/opinion/)：意見、考え
+- [mood](/word/mood/)：気分、雰囲気
 
 <!-- cvid: aid25_bid05 -->

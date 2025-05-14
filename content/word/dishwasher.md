@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、キッチンやオフィスの設備
 ## 🤔  sink との違いは？
 
 - **dishwasher**：食器を自動で洗う機械
-- **[sink](/word/sink)**：水道が付いた流し台
+- **[sink](/word/sink/)**：水道が付いた流し台
 
 dishwasherは自動で食器を洗う機械、sinkは手洗い用の流し台で、用途と設置場所が異なります。
 
@@ -105,14 +105,14 @@ dishwasherは自動で食器を洗う機械、sinkは手洗い用の流し台で
 
 ## 🧩 あわせて覚えたい
 
-- [appliance](/word/appliance)：電化製品
-- [utensil](/word/utensil)：調理器具
+- [appliance](/word/appliance/)：電化製品
+- [utensil](/word/utensil/)：調理器具
 
 ---
 
 ## 📖 できればこれも
 
-- [microwave](/word/microwave)：電子レンジ
-- [oven](/word/oven)：オーブン
+- [microwave](/word/microwave/)：電子レンジ
+- [oven](/word/oven/)：オーブン
 
 <!-- cvid: aid16_bid04 -->

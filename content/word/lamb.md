@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で、動物や食材の説明として出
 ## 🤔  sheep との違いは？
 
 - **lamb**：子羊や子羊の肉を指す
-- **[sheep](/word/sheep)**：羊全般（子羊も成羊も含む）を指す
+- **[sheep](/word/sheep/)**：羊全般（子羊も成羊も含む）を指す
 
 lambは特に「子ども」の羊やその肉を意味し、sheepは年齢に関係なく羊全体を指します。
 
@@ -106,14 +106,14 @@ lambは特に「子ども」の羊やその肉を意味し、sheepは年齢に�
 
 ## 🧩 あわせて覚えたい
 
-- [calf](/word/calf)：子牛
-- [goat](/word/goat)：ヤギ
+- [calf](/word/calf/)：子牛
+- [goat](/word/goat/)：ヤギ
 
 ---
 
 ## 📖 できればこれも
 
-- [pig](/word/pig)：ブタ
-- [cow](/word/cow)：ウシ
+- [pig](/word/pig/)：ブタ
+- [cow](/word/cow/)：ウシ
 
 <!-- cvid: aid41_bid04 -->

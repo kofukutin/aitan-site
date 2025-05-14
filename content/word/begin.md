@@ -97,7 +97,7 @@ TOEICでは会議やイベントの開始時刻、手続きの開始など、フ
 ## 🤔  start との違いは？
 
 - **begin**：ややフォーマルで書き言葉や公式な場面で使われやすい
-- **[start](/word/start)**：カジュアルで日常会話や口語でよく使われる
+- **[start](/word/start/)**：カジュアルで日常会話や口語でよく使われる
 
 beginは改まった印象があり、startはより気軽な場面で使われます。
 
@@ -105,14 +105,14 @@ beginは改まった印象があり、startはより気軽な場面で使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [commence](/word/commence)：（フォーマルに）開始する
-- [finish](/word/finish)：終える、終わる
+- [commence](/word/commence/)：（フォーマルに）開始する
+- [finish](/word/finish/)：終える、終わる
 
 ---
 
 ## 📖 できればこれも
 
-- [continue](/word/continue)：続ける、続く
-- [open](/word/open)：開く、始める
+- [continue](/word/continue/)：続ける、続く
+- [open](/word/open/)：開く、始める
 
 <!-- cvid: aid42_bid09 -->

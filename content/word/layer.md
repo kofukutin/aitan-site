@@ -97,7 +97,7 @@ ITやビジネスの説明、製品の構造やシステムの話題で「layer�
 ## 🤔  level との違いは？
 
 - **layer**：物理的・抽象的な「層」や「重なり」を表す
-- **[level](/word/level)**：高さ・段階・水準などの「レベル」「段階」を表す
+- **[level](/word/level/)**：高さ・段階・水準などの「レベル」「段階」を表す
 
 layerは「重なり」や「階層構造」に、levelは「高さ」や「等級」に焦点があります。
 
@@ -105,14 +105,14 @@ layerは「重なり」や「階層構造」に、levelは「高さ」や「等�
 
 ## 🧩 あわせて覚えたい
 
-- [surface](/word/surface)：表面
-- [tier](/word/tier)：段、階層
+- [surface](/word/surface/)：表面
+- [tier](/word/tier/)：段、階層
 
 ---
 
 ## 📖 できればこれも
 
-- [structure](/word/structure)：構造
-- [section](/word/section)：区分、部分
+- [structure](/word/structure/)：構造
+- [section](/word/section/)：区分、部分
 
 <!-- cvid: aid45_bid09 -->

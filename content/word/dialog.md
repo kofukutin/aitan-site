@@ -97,7 +97,7 @@ TOEICでは会話や意見交換の場面でdialogが使われることがあり
 ## 🤔  conversation との違いは？
 
 - **dialog**：フォーマルな「対話」や意見交換、またはIT用語で使われることが多い
-- **[conversation](/word/conversation)**：日常的な「会話」全般を指し、カジュアルな場面でも使う
+- **[conversation](/word/conversation/)**：日常的な「会話」全般を指し、カジュアルな場面でも使う
 
 dialogは意見交換や議論など目的のある対話に使われやすく、conversationは日常的な雑談や幅広い会話に使われます。
 
@@ -105,14 +105,14 @@ dialogは意見交換や議論など目的のある対話に使われやすく�
 
 ## 🧩 あわせて覚えたい
 
-- [discussion](/word/discussion)：討論、話し合い
-- [debate](/word/debate)：討論、ディベート
+- [discussion](/word/discussion/)：討論、話し合い
+- [debate](/word/debate/)：討論、ディベート
 
 ---
 
 ## 📖 できればこれも
 
-- [message](/word/message)：メッセージ、伝言
-- [topic](/word/topic)：話題、テーマ
+- [message](/word/message/)：メッセージ、伝言
+- [topic](/word/topic/)：話題、テーマ
 
 <!-- cvid: aid26_bid14 -->

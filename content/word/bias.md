@@ -97,7 +97,7 @@ TOEICでは、ビジネスや職場の多様性、意思決定に関する長文
 ## 🤔  prejudice との違いは？
 
 - **bias**：無意識または構造的な偏りや先入観を指すことが多い
-- **[prejudice](/word/prejudice)**：強い感情や敵意を伴う偏見を指すことが多い
+- **[prejudice](/word/prejudice/)**：強い感情や敵意を伴う偏見を指すことが多い
 
 biasは日常的な判断や制度に潜む「気づきにくい偏り」、prejudiceは人種や性別などに対する「強い否定的感情」を含む偏見を表します。
 
@@ -105,14 +105,14 @@ biasは日常的な判断や制度に潜む「気づきにくい偏り」、prej
 
 ## 🧩 あわせて覚えたい
 
-- [objectivity](/word/objectivity)：客観性
-- [stereotype](/word/stereotype)：固定観念
+- [objectivity](/word/objectivity/)：客観性
+- [stereotype](/word/stereotype/)：固定観念
 
 ---
 
 ## 📖 できればこれも
 
-- [assumption](/word/assumption)：仮定、思い込み
-- [perspective](/word/perspective)：視点、見方
+- [assumption](/word/assumption/)：仮定、思い込み
+- [perspective](/word/perspective/)：視点、見方
 
 <!-- cvid: aid04_bid33 -->

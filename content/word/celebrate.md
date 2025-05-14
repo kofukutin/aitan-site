@@ -97,7 +97,7 @@ TOEICでは、パーティーや記念行事、達成を祝う場面の会話で
 ## 🤔  congratulate との違いは？
 
 - **celebrate**：出来事や達成そのものをみんなで祝う
-- **[congratulate](/word/congratulate)**：人に対して「おめでとう」と伝える
+- **[congratulate](/word/congratulate/)**：人に対して「おめでとう」と伝える
 
 celebrateはイベントや成果を祝う行動全体を指し、congratulateは個人に直接「おめでとう」と言うときに使います。
 
@@ -105,14 +105,14 @@ celebrateはイベントや成果を祝う行動全体を指し、congratulate�
 
 ## 🧩 あわせて覚えたい
 
-- [commemorate](/word/commemorate)：記念する、追悼する
-- [honor](/word/honor)：称える、名誉を与える
+- [commemorate](/word/commemorate/)：記念する、追悼する
+- [honor](/word/honor/)：称える、名誉を与える
 
 ---
 
 ## 📖 できればこれも
 
-- [invite](/word/invite)：招待する
-- [announce](/word/announce)：発表する
+- [invite](/word/invite/)：招待する
+- [announce](/word/announce/)：発表する
 
 <!-- cvid: aid47_bid28 -->

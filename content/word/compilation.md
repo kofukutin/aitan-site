@@ -97,7 +97,7 @@ TOEICでは、報告書や資料、アルバムなどの説明文で「compilati
 ## 🤔  collection との違いは？
 
 - **compilation**：編集やまとめ作業を経て作られたもの
-- **[collection](/word/collection)**：単に集められたもの、編集や加工は問わない
+- **[collection](/word/collection/)**：単に集められたもの、編集や加工は問わない
 
 compilationは「編集してまとめた成果物」、collectionは「集めただけのもの」という違いがあります。
 
@@ -105,14 +105,14 @@ compilationは「編集してまとめた成果物」、collectionは「集め�
 
 ## 🧩 あわせて覚えたい
 
-- [assembly](/word/assembly)：組み立て、集会
-- [summary](/word/summary)：要約
+- [assembly](/word/assembly/)：組み立て、集会
+- [summary](/word/summary/)：要約
 
 ---
 
 ## 📖 できればこれも
 
-- [editor](/word/editor)：編集者
-- [document](/word/document)：文書
+- [editor](/word/editor/)：編集者
+- [document](/word/document/)：文書
 
 <!-- cvid: aid09_bid49 -->

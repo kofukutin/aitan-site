@@ -97,7 +97,7 @@ comprehensiveはTOEICの長文読解（Part 7）で、レポートや説明文�
 ## 🤔  exhaustive との違いは？
 
 - **comprehensive**：広い範囲をカバーし、全体を網羅していることを強調
-- **[exhaustive](/word/exhaustive)**：細部まで徹底的に調べて「漏れがない」ことを強調
+- **[exhaustive](/word/exhaustive/)**：細部まで徹底的に調べて「漏れがない」ことを強調
 
 comprehensiveは「広さ・範囲の網羅性」、exhaustiveは「徹底的な細かさ」に重点があります。
 
@@ -105,14 +105,14 @@ comprehensiveは「広さ・範囲の網羅性」、exhaustiveは「徹底的な
 
 ## 🧩 あわせて覚えたい
 
-- [broad](/word/broad)：広い、幅広い
-- [partial](/word/partial)：部分的な、不完全な
+- [broad](/word/broad/)：広い、幅広い
+- [partial](/word/partial/)：部分的な、不完全な
 
 ---
 
 ## 📖 できればこれも
 
-- [thorough](/word/thorough)：徹底的な
-- [detailed](/word/detailed)：詳細な
+- [thorough](/word/thorough/)：徹底的な
+- [detailed](/word/detailed/)：詳細な
 
 <!-- cvid: aid30_bid19 -->

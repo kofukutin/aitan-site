@@ -97,7 +97,7 @@ TOEICでは科学や医療分野の長文記事や説明文で見かけること
 ## 🤔  gene との違いは？
 
 - **genome**：生物が持つすべての遺伝情報（遺伝子の全体セット）
-- **[gene](/word/gene)**：個々の遺伝子、特定の形質を決めるDNAの単位
+- **[gene](/word/gene/)**：個々の遺伝子、特定の形質を決めるDNAの単位
 
 genomeは「全体」、geneは「個々の要素」を指し、規模や範囲が異なります。
 
@@ -105,14 +105,14 @@ genomeは「全体」、geneは「個々の要素」を指し、規模や範囲�
 
 ## 🧩 あわせて覚えたい
 
-- [chromosome](/word/chromosome)：染色体（遺伝情報を含む構造体）
-- [sequence](/word/sequence)：配列（DNAやアミノ酸の並び）
+- [chromosome](/word/chromosome/)：染色体（遺伝情報を含む構造体）
+- [sequence](/word/sequence/)：配列（DNAやアミノ酸の並び）
 
 ---
 
 ## 📖 できればこれも
 
-- [protein](/word/protein)：タンパク質（生体を構成する重要な分子）
-- [cell](/word/cell)：細胞（生物の基本単位）
+- [protein](/word/protein/)：タンパク質（生体を構成する重要な分子）
+- [cell](/word/cell/)：細胞（生物の基本単位）
 
 <!-- cvid: aid00_bid01 -->

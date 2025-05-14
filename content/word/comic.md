@@ -97,7 +97,7 @@ TOEICでは、雑誌や出版、趣味に関する長文や広告文で「comic�
 ## 🤔  cartoon との違いは？
 
 - **comic**：冊子や本としての「漫画」、ストーリー性のあるものを指すことが多い
-- **[cartoon](/word/cartoon)**：新聞や雑誌の1コマ漫画やアニメーションを指すことが多い
+- **[cartoon](/word/cartoon/)**：新聞や雑誌の1コマ漫画やアニメーションを指すことが多い
 
 comicは「本としての漫画」や「連載漫画」を指し、cartoonは「短い1コマ漫画」や「アニメ」を指す場面が多いです。
 
@@ -105,14 +105,14 @@ comicは「本としての漫画」や「連載漫画」を指し、cartoonは�
 
 ## 🧩 あわせて覚えたい
 
-- [manga](/word/manga)：日本の漫画
-- [magazine](/word/magazine)：雑誌
+- [manga](/word/manga/)：日本の漫画
+- [magazine](/word/magazine/)：雑誌
 
 ---
 
 ## 📖 できればこれも
 
-- [novel](/word/novel)：小説
-- [story](/word/story)：物語
+- [novel](/word/novel/)：小説
+- [story](/word/story/)：物語
 
 <!-- cvid: aid05_bid35 -->

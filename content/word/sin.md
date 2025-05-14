@@ -97,7 +97,7 @@ It would be a sin to ignore the needs of our customers.
 ## 🤔  crime との違いは？
 
 - **sin**：宗教的・道徳的な「罪」。法律に関係なく、心や行いの過ちを指す。
-- **[crime](/word/crime)**：法律に違反する「犯罪」。警察や裁判が関わる行為。
+- **[crime](/word/crime/)**：法律に違反する「犯罪」。警察や裁判が関わる行為。
 
 sinは心や信仰、道徳の観点での「罪」、crimeは法律違反としての「犯罪」と使い分けます。
 
@@ -105,14 +105,14 @@ sinは心や信仰、道徳の観点での「罪」、crimeは法律違反とし
 
 ## 🧩 あわせて覚えたい
 
-- [virtue](/word/virtue)：美徳、善
-- [fault](/word/fault)：過失、欠点
+- [virtue](/word/virtue/)：美徳、善
+- [fault](/word/fault/)：過失、欠点
 
 ---
 
 ## 📖 できればこれも
 
-- [guilt](/word/guilt)：罪悪感
-- [error](/word/error)：誤り
+- [guilt](/word/guilt/)：罪悪感
+- [error](/word/error/)：誤り
 
 <!-- cvid: aid36_bid01 -->

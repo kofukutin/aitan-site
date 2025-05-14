@@ -96,7 +96,7 @@ TOEICでは主にメールや書類のやり取りに関する文脈で「添付
 ## 🤔  enclose との違いは？
 
 - **attach**：主に電子メールやデジタルファイルで「添付する」、または物理的に「取り付ける」場合にも使う。
-- **[enclose](/word/enclose)**：封筒やパッケージなどに「同封する」「囲む」という意味で使う。
+- **[enclose](/word/enclose/)**：封筒やパッケージなどに「同封する」「囲む」という意味で使う。
 
 attachはデジタルや物理的な「くっつける」に重点があり、encloseは「包む・同封する」イメージです。
 
@@ -104,14 +104,14 @@ attachはデジタルや物理的な「くっつける」に重点があり、en
 
 ## 🧩 あわせて覚えたい
 
-- [detach](/word/detach)：取り外す、分離する
-- [include](/word/include)：含む、含める
+- [detach](/word/detach/)：取り外す、分離する
+- [include](/word/include/)：含む、含める
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/word/submit)：提出する
-- [send](/word/send)：送る
+- [submit](/word/submit/)：提出する
+- [send](/word/send/)：送る
 
 <!-- cvid: aid18_bid36 -->

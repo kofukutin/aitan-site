@@ -97,7 +97,7 @@ TOEICでは主に規則や基準への適合、社内ルールへの順応など
 ## 🤔  comply との違いは？
 
 - **conform**：規則や基準に「形や行動を合わせる」ニュアンスが強い
-- **[comply](/word/comply)**：命令や要求に「従う」「応じる」意味が強い
+- **[comply](/word/comply/)**：命令や要求に「従う」「応じる」意味が強い
 
 conformは「周囲や基準に合わせる」イメージ、complyは「指示や命令に従う」イメージで使い分けます。
 
@@ -105,13 +105,13 @@ conformは「周囲や基準に合わせる」イメージ、complyは「指示�
 
 ## 🧩 あわせて覚えたい
 
-- [adapt](/word/adapt)：適応する、順応する
-- [violate](/word/violate)：違反する、破る
+- [adapt](/word/adapt/)：適応する、順応する
+- [violate](/word/violate/)：違反する、破る
 
 ---
 
 ## 📖 できればこれも
 
-- [regulation](/word/regulation)：規則、規制
-- [standard](/word/standard)：基準、標準
+- [regulation](/word/regulation/)：規則、規制
+- [standard](/word/standard/)：基準、標準
 <!-- cvid: aid08_bid20 -->

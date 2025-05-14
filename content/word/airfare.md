@@ -96,7 +96,7 @@ TOEICでは旅行や出張に関する案内文や広告、Eメールなどで�
 ## 🤔  ticket との違いは？
 
 - **airfare**：航空運賃（支払う金額）に注目した言葉
-- **[ticket](/word/ticket)**：航空券そのもの（乗車券・入場券など実物や電子データ）
+- **[ticket](/word/ticket/)**：航空券そのもの（乗車券・入場券など実物や電子データ）
 
 airfareは「いくら払うか」という金額に焦点があり、ticketは「実際に持つ券」や「予約証明」に使います。
 
@@ -104,14 +104,14 @@ airfareは「いくら払うか」という金額に焦点があり、ticketは�
 
 ## 🧩 あわせて覚えたい
 
-- [fare](/word/fare)：運賃（乗り物の料金全般）
-- [fee](/word/fee)：手数料・料金（サービスに対する支払い）
+- [fare](/word/fare/)：運賃（乗り物の料金全般）
+- [fee](/word/fee/)：手数料・料金（サービスに対する支払い）
 
 ---
 
 ## 📖 できればこれも
 
-- [luggage](/word/luggage)：荷物
-- [reservation](/word/reservation)：予約
+- [luggage](/word/luggage/)：荷物
+- [reservation](/word/reservation/)：予約
 
 <!-- cvid: aid19_bid04 -->

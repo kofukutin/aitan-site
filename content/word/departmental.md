@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や社内通知、メールなどで「部門
 ## 🤔  divisional との違いは？
 
 - **departmental**：部門や部署など、比較的小さな組織単位に関する
-- **[divisional](/word/divisional)**：会社や組織の「事業部」など、より大きな区分に関する
+- **[divisional](/word/divisional/)**：会社や組織の「事業部」など、より大きな区分に関する
 
 「departmental」は一般的な部署や部門に、「divisional」は大規模な事業部や区分に使われることが多く、規模や組織階層の違いがあります。
 
@@ -105,14 +105,14 @@ TOEICでは主にビジネス文書や社内通知、メールなどで「部門
 
 ## 🧩 あわせて覚えたい
 
-- [sectional](/word/sectional)：区分の、部分的な
-- [organizational](/word/organizational)：組織の、組織的な
+- [sectional](/word/sectional/)：区分の、部分的な
+- [organizational](/word/organizational/)：組織の、組織的な
 
 ---
 
 ## 📖 できればこれも
 
-- [corporate](/word/corporate)：企業の、法人の
-- [managerial](/word/managerial)：管理職の、経営の
+- [corporate](/word/corporate/)：企業の、法人の
+- [managerial](/word/managerial/)：管理職の、経営の
 
 <!-- cvid: aid29_bid13 -->

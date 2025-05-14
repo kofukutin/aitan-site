@@ -97,7 +97,7 @@ TOEICでは主にITやマーケティング、医療関連の記事や広告文�
 ## 🤔  contagious との違いは？
 
 - **viral**：ウイルス性の、またはネット上で急速に拡散する
-- **[contagious](/word/contagious)**：感染性の、（感情や行動が）人に伝染しやすい
+- **[contagious](/word/contagious/)**：感染性の、（感情や行動が）人に伝染しやすい
 
 「viral」はウイルスやネット拡散に、「contagious」は感染症や感情・行動の伝染に使われる点が異なります。
 
@@ -105,14 +105,14 @@ TOEICでは主にITやマーケティング、医療関連の記事や広告文�
 
 ## 🧩 あわせて覚えたい
 
-- [infectious](/word/infectious)：感染性の、伝染しやすい
-- [trend](/word/trend)：流行、傾向
+- [infectious](/word/infectious/)：感染性の、伝染しやすい
+- [trend](/word/trend/)：流行、傾向
 
 ---
 
 ## 📖 できればこれも
 
-- [digital](/word/digital)：デジタルの
-- [spread](/word/spread)：広がる、広める
+- [digital](/word/digital/)：デジタルの
+- [spread](/word/spread/)：広がる、広める
 
 <!-- cvid: aid12_bid37 -->

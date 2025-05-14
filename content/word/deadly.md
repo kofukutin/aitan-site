@@ -97,7 +97,7 @@ TOEICでは主に医療や安全に関する記事、事故報告などで「致
 ## 🤔  fatal との違いは？
 
 - **deadly**：命に関わるほど危険な、致命的な（危険性や性質を強調）
-- **[fatal](/word/fatal)**：死に至る結果をもたらす（結果や運命的な不可避性を強調）
+- **[fatal](/word/fatal/)**：死に至る結果をもたらす（結果や運命的な不可避性を強調）
 
 「deadly」は危険性や性質に焦点があり、「fatal」は実際に死に至る結果や運命的なニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは主に医療や安全に関する記事、事故報告などで「致
 
 ## 🧩 あわせて覚えたい
 
-- [lethal](/word/lethal)：致死性のある、非常に危険な
-- [harmless](/word/harmless)：無害な
+- [lethal](/word/lethal/)：致死性のある、非常に危険な
+- [harmless](/word/harmless/)：無害な
 
 ---
 
 ## 📖 できればこれも
 
-- [dangerous](/word/dangerous)：危険な
-- [serious](/word/serious)：深刻な
+- [dangerous](/word/dangerous/)：危険な
+- [serious](/word/serious/)：深刻な
 
 <!-- cvid: aid26_bid27 -->

@@ -97,7 +97,7 @@ TOEICでは、説明文やマニュアル、報告書の末尾などで「glossa
 ## 🤔  dictionary との違いは？
 
 - **glossary**：特定の分野や本に関連する用語を簡単に説明したリスト
-- **[dictionary](/word/dictionary)**：あらゆる単語を網羅し、意味や用法を詳しく解説した書籍やリスト
+- **[dictionary](/word/dictionary/)**：あらゆる単語を網羅し、意味や用法を詳しく解説した書籍やリスト
 
 glossaryは限定された範囲の用語集、dictionaryは一般的な単語全体を扱う辞書です。
 
@@ -105,14 +105,14 @@ glossaryは限定された範囲の用語集、dictionaryは一般的な単語�
 
 ## 🧩 あわせて覚えたい
 
-- [appendix](/word/appendix)：付録
-- [index](/word/index)：索引
+- [appendix](/word/appendix/)：付録
+- [index](/word/index/)：索引
 
 ---
 
 ## 📖 できればこれも
 
-- [summary](/word/summary)：要約
-- [reference](/word/reference)：参照、参考文献
+- [summary](/word/summary/)：要約
+- [reference](/word/reference/)：参照、参考文献
 
 <!-- cvid: aid20_bid16 -->

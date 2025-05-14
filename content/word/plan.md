@@ -97,7 +97,7 @@ TOEICでは会議やプロジェクトの話題で頻出し、予定や提案、
 ## 🤔  schedule との違いは？
 
 - **plan**：何をどうするかの「計画」や「案」を指す
-- **[schedule](/word/schedule)**：具体的な「日程」や「時間割」を指す
+- **[schedule](/word/schedule/)**：具体的な「日程」や「時間割」を指す
 
 planは「やり方や内容」に焦点があり、scheduleは「いつやるか」という時間的な順序に重点があります。
 
@@ -105,14 +105,14 @@ planは「やり方や内容」に焦点があり、scheduleは「いつやる�
 
 ## 🧩 あわせて覚えたい
 
-- [proposal](/word/proposal)：提案、申し出
-- [strategy](/word/strategy)：戦略、方針
+- [proposal](/word/proposal/)：提案、申し出
+- [strategy](/word/strategy/)：戦略、方針
 
 ---
 
 ## 📖 できればこれも
 
-- [project](/word/project)：プロジェクト、事業
-- [goal](/word/goal)：目標、ゴール
+- [project](/word/project/)：プロジェクト、事業
+- [goal](/word/goal/)：目標、ゴール
 
 <!-- cvid: aid11_bid40 -->

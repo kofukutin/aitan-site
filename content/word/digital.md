@@ -97,7 +97,7 @@ TOEICではITやビジネス関連の長文、広告、案内文などで「digi
 ## 🤔  electronic との違いは？
 
 - **digital**：数字やデータで表現される、デジタル方式の
-- **[electronic](/word/electronic)**：電子回路や電気を使う、電子的な
+- **[electronic](/word/electronic/)**：電子回路や電気を使う、電子的な
 
 「digital」は情報の表現方法（数字・データ）に焦点があり、「electronic」は機器が電子回路で動くことに重点があります。
 
@@ -105,14 +105,14 @@ TOEICではITやビジネス関連の長文、広告、案内文などで「digi
 
 ## 🧩 あわせて覚えたい
 
-- [analog](/word/analog)：アナログの（連続的な値で表す方式）
-- [virtual](/word/virtual)：仮想の、実際には存在しないがコンピュータ上で再現される
+- [analog](/word/analog/)：アナログの（連続的な値で表す方式）
+- [virtual](/word/virtual/)：仮想の、実際には存在しないがコンピュータ上で再現される
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device)：装置、機器
-- [system](/word/system)：システム、仕組み
+- [device](/word/device/)：装置、機器
+- [system](/word/system/)：システム、仕組み
 
 <!-- cvid: aid36_bid00 -->

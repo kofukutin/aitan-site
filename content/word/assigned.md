@@ -97,7 +97,7 @@ TOEICでは「assigned seat（指定席）」や「assigned tasks（割り当て
 ## 🤔  allocated との違いは？
 
 - **assigned**：特定の人や目的に仕事・役割・席などを割り当てるときに使う
-- **[allocated](/word/allocated)**：主に資源や予算、時間などを分配・配分する際に使う
+- **[allocated](/word/allocated/)**：主に資源や予算、時間などを分配・配分する際に使う
 
 assignedは「人や物に役割や場所を与える」ニュアンスが強く、allocatedは「数量や資源を分けて配る」場面で使われます。
 
@@ -105,14 +105,14 @@ assignedは「人や物に役割や場所を与える」ニュアンスが強く
 
 ## 🧩 あわせて覚えたい
 
-- [appointed](/word/appointed)：任命された
-- [designated](/word/designated)：指定された
+- [appointed](/word/appointed/)：任命された
+- [designated](/word/designated/)：指定された
 
 ---
 
 ## 📖 できればこれも
 
-- [responsible](/word/responsible)：責任がある
-- [scheduled](/word/scheduled)：予定された
+- [responsible](/word/responsible/)：責任がある
+- [scheduled](/word/scheduled/)：予定された
 
 <!-- cvid: aid39_bid37 -->

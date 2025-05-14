@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、海やプールでのアクティビ
 ## 🤔  swimming との違いは？
 
 - **diving**：水中に「飛び込む」動作やスポーツを指す
-- **[swimming](/word/swimming)**：水中を「泳ぐ」動作全般を指す
+- **[swimming](/word/swimming/)**：水中を「泳ぐ」動作全般を指す
 
 divingは「飛び込む」こと自体やそのスポーツを表し、swimmingは水中を移動する「泳ぐ」動作を表します。
 
@@ -105,14 +105,14 @@ divingは「飛び込む」こと自体やそのスポーツを表し、swimming
 
 ## 🧩 あわせて覚えたい
 
-- [snorkeling](/word/snorkeling)：シュノーケリング（水面近くを泳ぐレジャー）
-- [jump](/word/jump)：ジャンプ、跳ぶこと
+- [snorkeling](/word/snorkeling/)：シュノーケリング（水面近くを泳ぐレジャー）
+- [jump](/word/jump/)：ジャンプ、跳ぶこと
 
 ---
 
 ## 📖 できればこれも
 
-- [surfing](/word/surfing)：サーフィン
-- [fishing](/word/fishing)：釣り
+- [surfing](/word/surfing/)：サーフィン
+- [fishing](/word/fishing/)：釣り
 
 <!-- cvid: aid39_bid36 -->

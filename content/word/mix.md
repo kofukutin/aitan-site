@@ -98,7 +98,7 @@ TOEICでは会議や作業手順の説明などで「混ぜる」「組み合わ
 ## 🤔  blend との違いは？
 
 - **mix**：単に複数のものを一緒にする、混ぜ合わせる
-- **[blend](/word/blend)**：よりなめらかに一体化させる、調和させる
+- **[blend](/word/blend/)**：よりなめらかに一体化させる、調和させる
 
 mixは「混ぜる」こと自体に重点があり、blendは「違いがわからないほどよく混ぜる」ニュアンスがあります。
 
@@ -106,14 +106,14 @@ mixは「混ぜる」こと自体に重点があり、blendは「違いがわか
 
 ## 🧩 あわせて覚えたい
 
-- [combine](/word/combine)：組み合わせる、結合する
-- [separate](/word/separate)：分ける、分離する
+- [combine](/word/combine/)：組み合わせる、結合する
+- [separate](/word/separate/)：分ける、分離する
 
 ---
 
 ## 📖 できればこれも
 
-- [add](/word/add)：加える
-- [prepare](/word/prepare)：準備する
+- [add](/word/add/)：加える
+- [prepare](/word/prepare/)：準備する
 
 <!-- cvid: aid24_bid49 -->

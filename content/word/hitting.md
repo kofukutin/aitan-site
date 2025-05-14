@@ -97,7 +97,7 @@ hittingは会話や説明の中で、動作や達成を表す表現として出�
 ## 🤔  striking との違いは？
 
 - **hitting**：物理的に何かを打つ・叩く動作を表す。
-- **[striking](/word/striking)**：打つ動作のほか、「印象的な」「目立つ」という意味もある。
+- **[striking](/word/striking/)**：打つ動作のほか、「印象的な」「目立つ」という意味もある。
 
 hittingは単純な動作に焦点があり、strikingは動作だけでなく印象や外見の強さも表します。
 
@@ -105,14 +105,14 @@ hittingは単純な動作に焦点があり、strikingは動作だけでなく�
 
 ## 🧩 あわせて覚えたい
 
-- [punch](/word/punch)：拳で殴る
-- [tap](/word/tap)：軽く叩く
+- [punch](/word/punch/)：拳で殴る
+- [tap](/word/tap/)：軽く叩く
 
 ---
 
 ## 📖 できればこれも
 
-- [touch](/word/touch)：触れる
-- [knock](/word/knock)：ノックする、叩く
+- [touch](/word/touch/)：触れる
+- [knock](/word/knock/)：ノックする、叩く
 
 <!-- cvid: aid47_bid15 -->

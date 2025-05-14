@@ -97,7 +97,7 @@ TOEICでは主に商品説明や広告文、ホテル・アメニティの紹介
 ## 🤔  scent との違いは？
 
 - **fragrance**：花や香水などの「良い香り」「芳香」を指し、フォーマルで高級感のある響き。
-- **[scent](/word/scent)**：香り全般（良い・悪い両方）や動物のにおいも含み、ややカジュアル。
+- **[scent](/word/scent/)**：香り全般（良い・悪い両方）や動物のにおいも含み、ややカジュアル。
 
 fragranceは「心地よい香り」に限定されるのに対し、scentは「におい」全般を幅広く指します。
 
@@ -105,14 +105,14 @@ fragranceは「心地よい香り」に限定されるのに対し、scentは「
 
 ## 🧩 あわせて覚えたい
 
-- [aroma](/word/aroma)：食べ物や飲み物の「芳香」
-- [odor](/word/odor)：（しばしば不快な）におい
+- [aroma](/word/aroma/)：食べ物や飲み物の「芳香」
+- [odor](/word/odor/)：（しばしば不快な）におい
 
 ---
 
 ## 📖 できればこれも
 
-- [perfume](/word/perfume)：香水
-- [flavor](/word/flavor)：味、風味
+- [perfume](/word/perfume/)：香水
+- [flavor](/word/flavor/)：味、風味
 
 <!-- cvid: aid36_bid39 -->

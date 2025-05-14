@@ -97,7 +97,7 @@ TOEICでは説明文やマニュアル、技術系の文章で「cylinder」が�
 ## 🤔  tube との違いは？
 
 - **cylinder**：両端が同じ大きさの円で、側面がまっすぐな立体や機械部品の「シリンダー」を指す。
-- **[tube](/word/tube)**：中が空洞で細長い「管」や「チューブ」を指す。
+- **[tube](/word/tube/)**：中が空洞で細長い「管」や「チューブ」を指す。
 
 cylinderは立体的な形や機械部品を指すことが多く、tubeは液体や気体を通す細長い管を表します。
 
@@ -105,14 +105,14 @@ cylinderは立体的な形や機械部品を指すことが多く、tubeは液�
 
 ## 🧩 あわせて覚えたい
 
-- [sphere](/word/sphere)：球体
-- [rectangle](/word/rectangle)：長方形
+- [sphere](/word/sphere/)：球体
+- [rectangle](/word/rectangle/)：長方形
 
 ---
 
 ## 📖 できればこれも
 
-- [circle](/word/circle)：円
-- [cone](/word/cone)：円錐
+- [circle](/word/circle/)：円
+- [cone](/word/cone/)：円錐
 
 <!-- cvid: aid33_bid09 -->

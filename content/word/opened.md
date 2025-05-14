@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写で「ドアが開けられた」「箱が開か
 ## 🤔  unlocked との違いは？
 
 - **opened**：物理的に「開けた」「開いた」状態や動作を表す。
-- **[unlocked](/word/unlocked)**：鍵を「解除した」「ロックを外した」ことを強調。
+- **[unlocked](/word/unlocked/)**：鍵を「解除した」「ロックを外した」ことを強調。
 
 openedは単に開ける動作や状態を指し、unlockedは鍵やロックを解除することに特化しています。
 
@@ -105,14 +105,14 @@ openedは単に開ける動作や状態を指し、unlockedは鍵やロックを
 
 ## 🧩 あわせて覚えたい
 
-- [close](/word/close)：閉める、閉じる
-- [start](/word/start)：始める
+- [close](/word/close/)：閉める、閉じる
+- [start](/word/start/)：始める
 
 ---
 
 ## 📖 できればこれも
 
-- [begin](/word/begin)：始める
-- [enter](/word/enter)：入る
+- [begin](/word/begin/)：始める
+- [enter](/word/enter/)：入る
 
 <!-- cvid: aid30_bid04 -->

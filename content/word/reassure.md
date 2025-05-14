@@ -97,7 +97,7 @@ TOEICでは会議や電話などで「安心させる」「心配を取り除く
 ## 🤔  encourage との違いは？
 
 - **reassure**：不安や心配をやわらげて「大丈夫」と安心させる
-- **[encourage](/word/encourage)**：勇気づけたり、やる気を出させる
+- **[encourage](/word/encourage/)**：勇気づけたり、やる気を出させる
 
 reassureは「安心させる」、encourageは「励ます・勇気づける」と、相手の気持ちへの働きかけ方が異なります。
 
@@ -105,14 +105,14 @@ reassureは「安心させる」、encourageは「励ます・勇気づける」
 
 ## 🧩 あわせて覚えたい
 
-- [comfort](/word/comfort)：慰める、元気づける
-- [calm](/word/calm)：落ち着かせる
+- [comfort](/word/comfort/)：慰める、元気づける
+- [calm](/word/calm/)：落ち着かせる
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/word/confirm)：確認する
-- [remind](/word/remind)：思い出させる
+- [confirm](/word/confirm/)：確認する
+- [remind](/word/remind/)：思い出させる
 
 <!-- cvid: aid00_bid49 -->

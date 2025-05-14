@@ -97,7 +97,7 @@ TOEICではPart 2の短い応答問題や、依頼・希望を伝える場面で
 ## 🤔  need との違いは？
 
 - **want**：自分の希望や欲求を表す。「～したい」「～が欲しい」
-- **[need](/word/need)**：必要性や義務を表す。「～する必要がある」「～が必要だ」
+- **[need](/word/need/)**：必要性や義務を表す。「～する必要がある」「～が必要だ」
 
 wantは「欲しい」という気持ち、needは「必要」という状況で使い分けます。
 
@@ -105,14 +105,14 @@ wantは「欲しい」という気持ち、needは「必要」という状況で
 
 ## 🧩 あわせて覚えたい
 
-- [desire](/word/desire)：強い願望、欲求
-- [wish](/word/wish)：願い、希望
+- [desire](/word/desire/)：強い願望、欲求
+- [wish](/word/wish/)：願い、希望
 
 ---
 
 ## 📖 できればこれも
 
-- [like](/word/like)：好きである
-- [prefer](/word/prefer)：より好む
+- [like](/word/like/)：好きである
+- [prefer](/word/prefer/)：より好む
 
 <!-- cvid: aid05_bid22 -->

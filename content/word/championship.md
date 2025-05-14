@@ -97,7 +97,7 @@ TOEICではスポーツイベントや大会の案内、記事、広告文など
 ## 🤔  tournament との違いは？
 
 - **championship**：最も優れた個人やチームを決めるための「選手権大会」やそのタイトル。
-- **[tournament](/word/tournament)**：複数の試合が行われる「トーナメント形式の大会」全般。
+- **[tournament](/word/tournament/)**：複数の試合が行われる「トーナメント形式の大会」全般。
 
 championshipは「最終的な優勝者を決める大会やタイトル」に焦点があり、tournamentは予選や複数ラウンドを含む広い意味の大会を指します。
 
@@ -105,14 +105,14 @@ championshipは「最終的な優勝者を決める大会やタイトル」に�
 
 ## 🧩 あわせて覚えたい
 
-- [victory](/word/victory)：勝利
-- [contest](/word/contest)：コンテスト、競技会
+- [victory](/word/victory/)：勝利
+- [contest](/word/contest/)：コンテスト、競技会
 
 ---
 
 ## 📖 できればこれも
 
-- [athlete](/word/athlete)：運動選手
-- [competition](/word/competition)：競争、競技会
+- [athlete](/word/athlete/)：運動選手
+- [competition](/word/competition/)：競争、競技会
 
 <!-- cvid: aid15_bid04 -->

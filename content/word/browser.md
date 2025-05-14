@@ -105,14 +105,14 @@ browserは「見るための道具」、search engineは「探すためのサー
 
 ## 🧩 あわせて覚えたい
 
-- [application](/word/application)：アプリケーション、ソフトウェア
-- [website](/word/website)：ウェブサイト
+- [application](/word/application/)：アプリケーション、ソフトウェア
+- [website](/word/website/)：ウェブサイト
 
 ---
 
 ## 📖 できればこれも
 
-- [download](/word/download)：ダウンロードする
-- [link](/word/link)：リンク、関連付ける
+- [download](/word/download/)：ダウンロードする
+- [link](/word/link/)：リンク、関連付ける
 
 <!-- cvid: aid34_bid04 -->

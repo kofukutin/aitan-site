@@ -97,7 +97,7 @@ TOEICでは主に長文読解パートで、健康や職場環境、メンタル
 ## 🤔  concern との違いは？
 
 - **anxiety**：将来への強い不安や緊張、心配を表す
-- **[concern](/word/concern)**：比較的穏やかな心配や気がかり
+- **[concern](/word/concern/)**：比較的穏やかな心配や気がかり
 
 anxietyは感情的に強い不安や緊張を指し、concernはもう少し冷静で一般的な心配を表します。
 
@@ -105,14 +105,14 @@ anxietyは感情的に強い不安や緊張を指し、concernはもう少し冷
 
 ## 🧩 あわせて覚えたい
 
-- [worry](/word/worry)：心配、悩み
-- [relief](/word/relief)：安心、安堵
+- [worry](/word/worry/)：心配、悩み
+- [relief](/word/relief/)：安心、安堵
 
 ---
 
 ## 📖 できればこれも
 
-- [stress](/word/stress)：ストレス、緊張
-- [fear](/word/fear)：恐れ、不安
+- [stress](/word/stress/)：ストレス、緊張
+- [fear](/word/fear/)：恐れ、不安
 
 <!-- cvid: aid02_bid10 -->

@@ -98,7 +98,7 @@ TOEICでは、疑問文や否定文で「dare」が使われることがあり�
 ## 🤔  challenge との違いは？
 
 - **dare**：勇気を出して何かをする、あえて挑戦する
-- **[challenge](/word/challenge)**：困難なことに挑む、挑戦する
+- **[challenge](/word/challenge/)**：困難なことに挑む、挑戦する
 
 dareは「勇気」や「恐れを乗り越える」ことに焦点があり、challengeは「困難な課題に取り組む」ことに重点があります。
 
@@ -106,14 +106,14 @@ dareは「勇気」や「恐れを乗り越える」ことに焦点があり、c
 
 ## 🧩 あわせて覚えたい
 
-- [risk](/word/risk)：危険を冒す、リスク
-- [venture](/word/venture)：思い切ってやる、冒険する
+- [risk](/word/risk/)：危険を冒す、リスク
+- [venture](/word/venture/)：思い切ってやる、冒険する
 
 ---
 
 ## 📖 できればこれも
 
-- [attempt](/word/attempt)：試みる、挑戦する
-- [face](/word/face)：直面する、立ち向かう
+- [attempt](/word/attempt/)：試みる、挑戦する
+- [face](/word/face/)：直面する、立ち向かう
 
 <!-- cvid: aid25_bid45 -->

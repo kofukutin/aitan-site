@@ -97,7 +97,7 @@ TOEICではPart 5を中心に、ビジネス文書や指示文で「作る」「
 ## 🤔  generate との違いは？
 
 - **create**：何もないところから新しいものを生み出す、独創的なニュアンス
-- **[generate](/word/generate)**：エネルギーや利益など、何かを発生させる・生み出す（機械的・数量的なニュアンス）
+- **[generate](/word/generate/)**：エネルギーや利益など、何かを発生させる・生み出す（機械的・数量的なニュアンス）
 
 「create」は独自性や創造性を強調し、「generate」は数量や結果を生み出す場合に使われます。
 
@@ -105,14 +105,14 @@ TOEICではPart 5を中心に、ビジネス文書や指示文で「作る」「
 
 ## 🧩 あわせて覚えたい
 
-- [develop](/word/develop)：発展させる、開発する
-- [destroy](/word/destroy)：破壊する
+- [develop](/word/develop/)：発展させる、開発する
+- [destroy](/word/destroy/)：破壊する
 
 ---
 
 ## 📖 できればこれも
 
-- [design](/word/design)：設計する、デザインする
-- [produce](/word/produce)：生産する、作り出す
+- [design](/word/design/)：設計する、デザインする
+- [produce](/word/produce/)：生産する、作り出す
 
 <!-- cvid: aid46_bid46 -->

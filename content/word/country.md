@@ -97,7 +97,7 @@ TOEICでは「国」や「海外進出」などの文脈でよく出題されま
 ## 🤔  nation との違いは？
 
 - **country**：地理的・行政的な「国」や「田舎」を指す
-- **[nation](/word/nation)**：民族や国民という「人々」のまとまりを強調した「国家」
+- **[nation](/word/nation/)**：民族や国民という「人々」のまとまりを強調した「国家」
 
 「country」は場所や土地としての国を指し、「nation」は国民や民族の一体感・アイデンティティを強調する時に使います。
 
@@ -105,14 +105,14 @@ TOEICでは「国」や「海外進出」などの文脈でよく出題されま
 
 ## 🧩 あわせて覚えたい
 
-- [region](/word/region)：地域、地方
-- [province](/word/province)：州、県
+- [region](/word/region/)：地域、地方
+- [province](/word/province/)：州、県
 
 ---
 
 ## 📖 できればこれも
 
-- [city](/word/city)：都市
-- [area](/word/area)：区域、地域
+- [city](/word/city/)：都市
+- [area](/word/area/)：区域、地域
 
 <!-- cvid: aid23_bid38 -->

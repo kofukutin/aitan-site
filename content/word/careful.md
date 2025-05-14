@@ -97,7 +97,7 @@ TOEICでは、指示や注意を促す文脈や、careless（不注意な）と�
 ## 🤔  cautious との違いは？
 
 - **careful**：一般的に注意深く行動することを表す
-- **[cautious](/word/cautious)**：危険やリスクを強く意識して用心深くなることを表す
+- **[cautious](/word/cautious/)**：危険やリスクを強く意識して用心深くなることを表す
 
 carefulは日常的な注意深さ、cautiousは特に危険やリスクを避けるための慎重さを強調します。
 
@@ -105,14 +105,14 @@ carefulは日常的な注意深さ、cautiousは特に危険やリスクを避�
 
 ## 🧩 あわせて覚えたい
 
-- [careless](/word/careless)：不注意な
-- [attentive](/word/attentive)：注意深い、気配りがある
+- [careless](/word/careless/)：不注意な
+- [attentive](/word/attentive/)：注意深い、気配りがある
 
 ---
 
 ## 📖 できればこれも
 
-- [responsible](/word/responsible)：責任感がある
-- [thorough](/word/thorough)：徹底した、綿密な
+- [responsible](/word/responsible/)：責任感がある
+- [thorough](/word/thorough/)：徹底した、綿密な
 
 <!-- cvid: aid06_bid14 -->

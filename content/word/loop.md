@@ -97,7 +97,7 @@ ITやビジネスの説明文、手順書などで「loop」は繰り返しや�
 ## 🤔  cycle との違いは？
 
 - **loop**：同じ動作や処理が何度も繰り返される「輪」や「ループ」。
-- **[cycle](/word/cycle)**：始まりと終わりがある「周期」や「サイクル」。
+- **[cycle](/word/cycle/)**：始まりと終わりがある「周期」や「サイクル」。
 
 loopは「終わりなく繰り返す」ニュアンスが強く、cycleは「一定の流れや期間を経てまた始まる」イメージです。
 
@@ -105,14 +105,14 @@ loopは「終わりなく繰り返す」ニュアンスが強く、cycleは「�
 
 ## 🧩 あわせて覚えたい
 
-- [circle](/word/circle)：円、丸
-- [iteration](/word/iteration)：反復、繰り返し
+- [circle](/word/circle/)：円、丸
+- [iteration](/word/iteration/)：反復、繰り返し
 
 ---
 
 ## 📖 できればこれも
 
-- [line](/word/line)：線
-- [process](/word/process)：過程、処理
+- [line](/word/line/)：線
+- [process](/word/process/)：過程、処理
 
 <!-- cvid: aid04_bid42 -->

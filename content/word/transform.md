@@ -97,7 +97,7 @@ TOEICでは、ビジネスや技術の変化、組織改革などの文脈で出
 ## 🤔  convert との違いは？
 
 - **transform**：根本的・劇的に変化させる
-- **[convert](/word/convert)**：用途や形式を変更する（例：ファイル形式を変える）
+- **[convert](/word/convert/)**：用途や形式を変更する（例：ファイル形式を変える）
 
 transformは「全体を大きく変える」イメージ、convertは「機能や用途を変える」イメージで使い分けます。
 
@@ -105,14 +105,14 @@ transformは「全体を大きく変える」イメージ、convertは「機能�
 
 ## 🧩 あわせて覚えたい
 
-- [modify](/word/modify)：修正する、変更する
-- [reform](/word/reform)：改革する、改善する
+- [modify](/word/modify/)：修正する、変更する
+- [reform](/word/reform/)：改革する、改善する
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/word/improve)：改善する
-- [adjust](/word/adjust)：調整する
+- [improve](/word/improve/)：改善する
+- [adjust](/word/adjust/)：調整する
 
 <!-- cvid: aid10_bid16 -->

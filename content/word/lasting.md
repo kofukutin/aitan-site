@@ -97,7 +97,7 @@ TOEICでは「lasting impression（強い印象）」や「lasting effect（持�
 ## 🤔  permanent との違いは？
 
 - **lasting**：長期間続くが、必ずしも「永遠」とは限らない
-- **[permanent](/word/permanent)**：永続的で「永久に変わらない」ニュアンス
+- **[permanent](/word/permanent/)**：永続的で「永久に変わらない」ニュアンス
 
 lastingは「長続きする」程度の柔らかい表現で、permanentは「完全に永続する」強い意味です。
 
@@ -105,14 +105,14 @@ lastingは「長続きする」程度の柔らかい表現で、permanentは「�
 
 ## 🧩 あわせて覚えたい
 
-- [temporary](/word/temporary)：一時的な
-- [durable](/word/durable)：丈夫な、長持ちする
+- [temporary](/word/temporary/)：一時的な
+- [durable](/word/durable/)：丈夫な、長持ちする
 
 ---
 
 ## 📖 できればこれも
 
-- [effective](/word/effective)：効果的な
-- [stable](/word/stable)：安定した
+- [effective](/word/effective/)：効果的な
+- [stable](/word/stable/)：安定した
 
 <!-- cvid: aid46_bid11 -->

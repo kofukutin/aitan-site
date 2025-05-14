@@ -97,7 +97,7 @@ TOEICでは会話文や依頼・断りの表現でよく登場します。相手
 ## 🤔  annoy との違いは？
 
 - **bother**：相手に迷惑や手間をかける、気にかけさせるニュアンス
-- **[annoy](/word/annoy)**：イライラさせる、腹立たせるなど感情的な不快感を与える
+- **[annoy](/word/annoy/)**：イライラさせる、腹立たせるなど感情的な不快感を与える
 
 botherは「ちょっと面倒をかける」や「気にする」など軽い迷惑に使い、annoyは「イライラさせる」など強い不快感を表します。
 
@@ -105,14 +105,14 @@ botherは「ちょっと面倒をかける」や「気にする」など軽い�
 
 ## 🧩 あわせて覚えたい
 
-- [disturb](/word/disturb)：邪魔をする
-- [interrupt](/word/interrupt)：話や作業を中断させる
+- [disturb](/word/disturb/)：邪魔をする
+- [interrupt](/word/interrupt/)：話や作業を中断させる
 
 ---
 
 ## 📖 できればこれも
 
-- [worry](/word/worry)：心配する
-- [trouble](/word/trouble)：困らせる、悩ませる
+- [worry](/word/worry/)：心配する
+- [trouble](/word/trouble/)：困らせる、悩ませる
 
 <!-- cvid: aid48_bid11 -->

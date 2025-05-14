@@ -97,7 +97,7 @@ TOEICでは、指示や説明文で「徹底的に」「完全に」という意
 ## 🤔  completely との違いは？
 
 - **thoroughly**：細部まで抜かりなく、徹底的に
-- **[completely](/word/completely)**：全体的に、完全に
+- **[completely](/word/completely/)**：全体的に、完全に
 
 thoroughlyは「細かい部分まで徹底的に」というニュアンスがあり、completelyは「全体として完全に」という意味で使い分けます。
 
@@ -105,14 +105,14 @@ thoroughlyは「細かい部分まで徹底的に」というニュアンスが�
 
 ## 🧩 あわせて覚えたい
 
-- [carefully](/word/carefully)：注意深く
-- [partially](/word/partially)：部分的に
+- [carefully](/word/carefully/)：注意深く
+- [partially](/word/partially/)：部分的に
 
 ---
 
 ## 📖 できればこれも
 
-- [precisely](/word/precisely)：正確に
-- [efficiently](/word/efficiently)：効率的に
+- [precisely](/word/precisely/)：正確に
+- [efficiently](/word/efficiently/)：効率的に
 
 <!-- cvid: aid37_bid00 -->

@@ -105,7 +105,7 @@ TOEICでは主にPart 1の写真描写で、乗り物に人が「乗っている
 ## 🤔  on との違いは？
 
 - **aboard**：電車・飛行機・船など「乗り物に乗っている」ことを強調
-- **[on](/word/on)**：広く「上に」「接して」いる状態を表し、乗り物以外にも使う
+- **[on](/word/on/)**：広く「上に」「接して」いる状態を表し、乗り物以外にも使う
 
 aboardは乗り物限定で使い、onはより幅広い「上にある」状態に使います。
 
@@ -113,14 +113,14 @@ aboardは乗り物限定で使い、onはより幅広い「上にある」状態
 
 ## 🧩 あわせて覚えたい
 
-- [board](/word/board)：板、乗り込む
-- [embark](/word/embark)：乗り込む、搭乗する
+- [board](/word/board/)：板、乗り込む
+- [embark](/word/embark/)：乗り込む、搭乗する
 
 ---
 
 ## 📖 できればこれも
 
-- [across](/word/across)：～を横切って
-- [along](/word/along)：～に沿って
+- [across](/word/across/)：～を横切って
+- [along](/word/along/)：～に沿って
 
 <!-- cvid: aid23_bid13 -->

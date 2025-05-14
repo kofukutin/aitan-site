@@ -97,7 +97,7 @@ TOEICではウェブサイトやカタログの説明文、案内文などで「
 ## 🤔  search との違いは？
 
 - **browse**：目的を決めずにざっと見て回る、閲覧する
-- **[search](/word/search)**：特定の情報や目的のものを探す
+- **[search](/word/search/)**：特定の情報や目的のものを探す
 
 browseは「なんとなく見る」「ぶらぶら見て回る」ニュアンス、searchは「探し物があって調べる」ニュアンスです。
 
@@ -105,14 +105,14 @@ browseは「なんとなく見る」「ぶらぶら見て回る」ニュアン�
 
 ## 🧩 あわせて覚えたい
 
-- [scan](/word/scan)：ざっと目を通す、スキャンする
-- [explore](/word/explore)：探検する、詳しく調べる
+- [scan](/word/scan/)：ざっと目を通す、スキャンする
+- [explore](/word/explore/)：探検する、詳しく調べる
 
 ---
 
 ## 📖 できればこれも
 
-- [click](/word/click)：クリックする
-- [navigate](/word/navigate)：（ウェブなどを）移動する、操作する
+- [click](/word/click/)：クリックする
+- [navigate](/word/navigate/)：（ウェブなどを）移動する、操作する
 
 <!-- cvid: aid30_bid30 -->

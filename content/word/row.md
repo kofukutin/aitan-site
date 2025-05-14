@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で「人や物が一列に並んでいる
 ## 🤔  line との違いは？
 
 - **row**：横一列に並んだ「列」。座席や表の横方向など、横並びを強調。
-- **[line](/word/line)**：線や列全般。順番待ちの列や、直線そのものも含む。
+- **[line](/word/line/)**：線や列全般。順番待ちの列や、直線そのものも含む。
 
 rowは「横方向の並び」に特化し、lineは「線状のもの」や「順番待ちの列」など幅広く使われます。
 
@@ -106,14 +106,14 @@ rowは「横方向の並び」に特化し、lineは「線状のもの」や「�
 
 ## 🧩 あわせて覚えたい
 
-- [column](/word/column)：縦の列、欄
-- [queue](/word/queue)：順番待ちの列
+- [column](/word/column/)：縦の列、欄
+- [queue](/word/queue/)：順番待ちの列
 
 ---
 
 ## 📖 できればこれも
 
-- [seat](/word/seat)：座席
-- [desk](/word/desk)：机
+- [seat](/word/seat/)：座席
+- [desk](/word/desk/)：机
 
 <!-- cvid: aid39_bid11 -->

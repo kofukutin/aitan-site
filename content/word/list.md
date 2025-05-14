@@ -97,7 +97,7 @@ TOEICでは「リストに載せる」「一覧表」など、書類や情報整
 ## 🤔  inventory との違いは？
 
 - **list**：物や情報を順に並べた一般的な一覧やリスト。
-- **[inventory](/word/inventory)**：主に在庫品や資産など、管理目的でまとめた詳細なリスト。
+- **[inventory](/word/inventory/)**：主に在庫品や資産など、管理目的でまとめた詳細なリスト。
 
 「list」は幅広い用途で使えますが、「inventory」は特に在庫や資産管理などビジネスでの物品一覧に限定されることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは「リストに載せる」「一覧表」など、書類や情報整
 
 ## 🧩 あわせて覚えたい
 
-- [catalog](/word/catalog)：商品や本などを体系的にまとめたカタログ
-- [schedule](/word/schedule)：予定や計画をまとめたスケジュール
+- [catalog](/word/catalog/)：商品や本などを体系的にまとめたカタログ
+- [schedule](/word/schedule/)：予定や計画をまとめたスケジュール
 
 ---
 
 ## 📖 できればこれも
 
-- [note](/word/note)：メモ、覚え書き
-- [record](/word/record)：記録、記載
+- [note](/word/note/)：メモ、覚え書き
+- [record](/word/record/)：記録、記載
 
 <!-- cvid: aid15_bid44 -->

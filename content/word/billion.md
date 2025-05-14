@@ -97,7 +97,7 @@ TOEICでは、売上や人口、統計データなどの説明文や記事で頻
 ## 🤔  million との違いは？
 
 - **billion**：10億を表す大きな単位。主にビジネスや統計で使う。
-- **[million](/word/million)**：100万を表す単位。billionより小さい。
+- **[million](/word/million/)**：100万を表す単位。billionより小さい。
 
 billionはmillionよりもはるかに大きな数を表し、金額や人口など大規模な数値で使われます。
 
@@ -105,14 +105,14 @@ billionはmillionよりもはるかに大きな数を表し、金額や人口な
 
 ## 🧩 あわせて覚えたい
 
-- [trillion](/word/trillion)：1兆（10の12乗）
-- [dozen](/word/dozen)：12個（1ダース）
+- [trillion](/word/trillion/)：1兆（10の12乗）
+- [dozen](/word/dozen/)：12個（1ダース）
 
 ---
 
 ## 📖 できればこれも
 
-- [percent](/word/percent)：パーセント、百分率
-- [amount](/word/amount)：量、総額
+- [percent](/word/percent/)：パーセント、百分率
+- [amount](/word/amount/)：量、総額
 
 <!-- cvid: aid12_bid18 -->

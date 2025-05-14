@@ -97,7 +97,7 @@ TOEICではITやビジネス文書の説明文で「compressed file（圧縮フ�
 ## 🤔  condensed との違いは？
 
 - **compressed**：物理的・データ的に圧力をかけて小さくした状態
-- **[condensed](/word/condensed)**：内容を要約・凝縮して短くした状態
+- **[condensed](/word/condensed/)**：内容を要約・凝縮して短くした状態
 
 compressedは「圧力や技術で小さくする」イメージ、condensedは「内容を詰めて濃縮する」イメージです。
 
@@ -105,14 +105,14 @@ compressedは「圧力や技術で小さくする」イメージ、condensedは�
 
 ## 🧩 あわせて覚えたい
 
-- [compact](/word/compact)：コンパクトな、ぎゅっと詰まった
-- [expand](/word/expand)：拡大する、広げる
+- [compact](/word/compact/)：コンパクトな、ぎゅっと詰まった
+- [expand](/word/expand/)：拡大する、広げる
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [reduce](/word/reduce)：減らす
+- [efficient](/word/efficient/)：効率的な
+- [reduce](/word/reduce/)：減らす
 
 <!-- cvid: aid01_bid15 -->

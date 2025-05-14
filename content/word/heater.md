@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、オフィスや家庭の設備とし
 ## 🤔  radiator との違いは？
 
 - **heater**：一般的な暖房器具全般を指す
-- **[radiator](/word/radiator)**：主にお湯や蒸気を使った金属製の放熱器
+- **[radiator](/word/radiator/)**：主にお湯や蒸気を使った金属製の放熱器
 
 heaterは電気・ガス・オイルなど様々なタイプの暖房器具を広く指しますが、radiatorは特にお湯や蒸気を使って熱を放出するタイプの暖房器具を指します。
 
@@ -105,14 +105,14 @@ heaterは電気・ガス・オイルなど様々なタイプの暖房器具を�
 
 ## 🧩 あわせて覚えたい
 
-- [air conditioner](/word/air_conditioner)：エアコン、冷暖房機
-- [boiler](/word/boiler)：ボイラー、湯沸かし器
+- [air conditioner](/word/air_conditioner/)：エアコン、冷暖房機
+- [boiler](/word/boiler/)：ボイラー、湯沸かし器
 
 ---
 
 ## 📖 できればこれも
 
-- [fan](/word/fan)：扇風機、送風機
-- [lamp](/word/lamp)：ランプ、照明
+- [fan](/word/fan/)：扇風機、送風機
+- [lamp](/word/lamp/)：ランプ、照明
 
 <!-- cvid: aid07_bid15 -->

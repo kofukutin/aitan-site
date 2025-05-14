@@ -97,7 +97,7 @@ ITやプログラミング関連の長文や説明文で登場することがあ
 ## 🤔  interpreter との違いは？
 
 - **compiler**：ソースコード全体を一度に機械語に変換するソフトウェア
-- **[interpreter](/word/interpreter)**：ソースコードを1行ずつ逐次実行するソフトウェア
+- **[interpreter](/word/interpreter/)**：ソースコードを1行ずつ逐次実行するソフトウェア
 
 compilerは一括変換、interpreterは逐次実行という違いがあります。
 
@@ -105,14 +105,14 @@ compilerは一括変換、interpreterは逐次実行という違いがありま�
 
 ## 🧩 あわせて覚えたい
 
-- [program](/word/program)：プログラム、コンピュータへの指示をまとめたもの
-- [debugger](/word/debugger)：プログラムのバグを見つけて修正するためのツール
+- [program](/word/program/)：プログラム、コンピュータへの指示をまとめたもの
+- [debugger](/word/debugger/)：プログラムのバグを見つけて修正するためのツール
 
 ---
 
 ## 📖 できればこれも
 
-- [algorithm](/word/algorithm)：アルゴリズム、問題解決の手順
-- [software](/word/software)：ソフトウェア、コンピュータ上で動作するプログラム
+- [algorithm](/word/algorithm/)：アルゴリズム、問題解決の手順
+- [software](/word/software/)：ソフトウェア、コンピュータ上で動作するプログラム
 
 <!-- cvid: aid44_bid29 -->

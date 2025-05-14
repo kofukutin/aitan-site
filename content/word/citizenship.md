@@ -97,7 +97,7 @@ citizenshipは、TOEICの長文読解パートで申請書や公式文書、面�
 ## 🤔  nationality との違いは？
 
 - **citizenship**：法律上の市民権や国籍、権利・義務の側面が強い
-- **[nationality](/word/nationality)**：生まれや血統による国籍、パスポート上の国籍
+- **[nationality](/word/nationality/)**：生まれや血統による国籍、パスポート上の国籍
 
 citizenshipは「法的な市民権」を強調し、nationalityは「出身国や民族的な国籍」を指すことが多いです。
 
@@ -105,14 +105,14 @@ citizenshipは「法的な市民権」を強調し、nationalityは「出身国�
 
 ## 🧩 あわせて覚えたい
 
-- [residence](/word/residence)：居住、住居
-- [passport](/word/passport)：パスポート、旅券
+- [residence](/word/residence/)：居住、住居
+- [passport](/word/passport/)：パスポート、旅券
 
 ---
 
 ## 📖 できればこれも
 
-- [immigration](/word/immigration)：移民、入国管理
-- [visa](/word/visa)：ビザ、査証
+- [immigration](/word/immigration/)：移民、入国管理
+- [visa](/word/visa/)：ビザ、査証
 
 <!-- cvid: aid07_bid10 -->

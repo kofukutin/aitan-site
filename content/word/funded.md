@@ -97,7 +97,7 @@ TOEICでは、企業やプロジェクトの説明文やニュース記事で「
 ## 🤔  financed との違いは？
 
 - **funded**：特定の資金源から資金提供を受けていることを強調
-- **[financed](/word/financed)**：主に大きな金額やローンなどで「資金調達された」ことを強調
+- **[financed](/word/financed/)**：主に大きな金額やローンなどで「資金調達された」ことを強調
 
 「funded」は一般的な資金提供、「financed」は特に融資や大規模な資金調達のニュアンスがあります。
 
@@ -105,14 +105,14 @@ TOEICでは、企業やプロジェクトの説明文やニュース記事で「
 
 ## 🧩 あわせて覚えたい
 
-- [sponsored](/word/sponsored)：スポンサーによって支援された
-- [supported](/word/supported)：支援された、支えられた
+- [sponsored](/word/sponsored/)：スポンサーによって支援された
+- [supported](/word/supported/)：支援された、支えられた
 
 ---
 
 ## 📖 できればこれも
 
-- [grant](/word/grant)：助成金、補助金
-- [budget](/word/budget)：予算
+- [grant](/word/grant/)：助成金、補助金
+- [budget](/word/budget/)：予算
 
 <!-- cvid: aid18_bid48 -->

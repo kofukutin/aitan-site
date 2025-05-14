@@ -97,7 +97,7 @@ ITやエンターテインメント関連の記事や広告文で登場するこ
 ## 🤔  gambling との違いは？
 
 - **gaming**：コンピューターゲームやビデオゲームをすること、またはその産業
-- **[gambling](/word/gambling)**：賭け事、ギャンブル
+- **[gambling](/word/gambling/)**：賭け事、ギャンブル
 
 gamingは主に娯楽としてのゲームプレイを指し、gamblingはお金を賭けるギャンブル行為を指します。
 
@@ -105,14 +105,14 @@ gamingは主に娯楽としてのゲームプレイを指し、gamblingはお金
 
 ## 🧩 あわせて覚えたい
 
-- [play](/word/play)：遊ぶ、プレイする
-- [competition](/word/competition)：競争、コンテスト
+- [play](/word/play/)：遊ぶ、プレイする
+- [competition](/word/competition/)：競争、コンテスト
 
 ---
 
 ## 📖 できればこれも
 
-- [console](/word/console)：（ゲーム）機、コンソール
-- [tournament](/word/tournament)：トーナメント、競技会
+- [console](/word/console/)：（ゲーム）機、コンソール
+- [tournament](/word/tournament/)：トーナメント、競技会
 
 <!-- cvid: aid27_bid34 -->

@@ -97,7 +97,7 @@ TOEICでは「成功する」「後任になる」の両方の意味で出題さ
 ## 🤔  achieve との違いは？
 
 - **succeed**：努力や挑戦の結果として「成功する」、または「後を継ぐ」
-- **[achieve](/word/achieve)**：目標や目的を「達成する」
+- **[achieve](/word/achieve/)**：目標や目的を「達成する」
 
 succeedは「成功」という結果や地位の獲得に焦点があり、achieveは「目標の達成」という行為自体に重点があります。
 
@@ -105,14 +105,14 @@ succeedは「成功」という結果や地位の獲得に焦点があり、achi
 
 ## 🧩 あわせて覚えたい
 
-- [fail](/word/fail)：失敗する
-- [advance](/word/advance)：前進する、進歩する
+- [fail](/word/fail/)：失敗する
+- [advance](/word/advance/)：前進する、進歩する
 
 ---
 
 ## 📖 できればこれも
 
-- [progress](/word/progress)：進歩する、進展
-- [accomplish](/word/accomplish)：成し遂げる、達成する
+- [progress](/word/progress/)：進歩する、進展
+- [accomplish](/word/accomplish/)：成し遂げる、達成する
 
 <!-- cvid: aid22_bid16 -->

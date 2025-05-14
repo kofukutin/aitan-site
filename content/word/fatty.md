@@ -97,7 +97,7 @@ TOEICでは食品や健康、成分説明の文脈で形容詞として出題さ
 ## 🤔  oily との違いは？
 
 - **fatty**：脂肪分が多い、脂っこい（特に食品や体質に使う）
-- **[oily](/word/oily)**：油っぽい、油で覆われた（液体の油分や表面の油に焦点）
+- **[oily](/word/oily/)**：油っぽい、油で覆われた（液体の油分や表面の油に焦点）
 
 「fatty」は食材や体質など脂肪分の多さを指し、「oily」は表面が油でベタベタしている様子や液体の油分に使います。
 
@@ -105,14 +105,14 @@ TOEICでは食品や健康、成分説明の文脈で形容詞として出題さ
 
 ## 🧩 あわせて覚えたい
 
-- [lean](/word/lean)：脂肪の少ない、赤身の
-- [greasy](/word/greasy)：油っこい、ギトギトした
+- [lean](/word/lean/)：脂肪の少ない、赤身の
+- [greasy](/word/greasy/)：油っこい、ギトギトした
 
 ---
 
 ## 📖 できればこれも
 
-- [healthy](/word/healthy)：健康的な
-- [nutritious](/word/nutritious)：栄養価の高い
+- [healthy](/word/healthy/)：健康的な
+- [nutritious](/word/nutritious/)：栄養価の高い
 
 <!-- cvid: aid46_bid15 -->

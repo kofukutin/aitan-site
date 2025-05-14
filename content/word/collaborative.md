@@ -97,7 +97,7 @@ TOEICでは、ビジネスメールや社内通知、プロジェクト説明な
 ## 🤔  cooperative との違いは？
 
 - **collaborative**：一緒に何かを作り上げるために積極的に協力する様子
-- **[cooperative](/word/cooperative)**：協力的な態度や姿勢を持つこと、助け合うこと
+- **[cooperative](/word/cooperative/)**：協力的な態度や姿勢を持つこと、助け合うこと
 
 「collaborative」は共に作業し成果を生み出すニュアンスが強く、「cooperative」は単に協力的な態度や助け合いを指します。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネスメールや社内通知、プロジェクト説明な
 
 ## 🧩 あわせて覚えたい
 
-- [independent](/word/independent)：独立した、自立した
-- [teamwork](/word/teamwork)：チームワーク、協力作業
+- [independent](/word/independent/)：独立した、自立した
+- [teamwork](/word/teamwork/)：チームワーク、協力作業
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [productive](/word/productive)：生産的な
+- [efficient](/word/efficient/)：効率的な
+- [productive](/word/productive/)：生産的な
 
 <!-- cvid: aid35_bid42 -->

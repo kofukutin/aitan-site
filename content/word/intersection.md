@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、道路や都市の風景を説
 ## 🤔  crossing との違いは？
 
 - **intersection**：道路や線が交差する「交差点」全般を指すフォーマルな表現。
-- **[crossing](/word/crossing)**：歩行者用の横断歩道や、線路の踏切など「横断する場所」を指すことが多い。
+- **[crossing](/word/crossing/)**：歩行者用の横断歩道や、線路の踏切など「横断する場所」を指すことが多い。
 
 intersectionは車道同士の交差点、crossingは人や車が横切る場所に使われることが多いです。
 
@@ -105,14 +105,14 @@ intersectionは車道同士の交差点、crossingは人や車が横切る場所
 
 ## 🧩 あわせて覚えたい
 
-- [junction](/word/junction)：（道路や線路の）合流点
-- [corner](/word/corner)：（道や建物の）角
+- [junction](/word/junction/)：（道路や線路の）合流点
+- [corner](/word/corner/)：（道や建物の）角
 
 ---
 
 ## 📖 できればこれも
 
-- [avenue](/word/avenue)：大通り
-- [route](/word/route)：道、経路
+- [avenue](/word/avenue/)：大通り
+- [route](/word/route/)：道、経路
 
 <!-- cvid: aid08_bid09 -->

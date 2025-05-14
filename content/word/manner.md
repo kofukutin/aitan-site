@@ -97,7 +97,7 @@ TOEICでは「in a polite manner（丁寧に）」などの形で副詞的に使
 ## 🤔  etiquette との違いは？
 
 - **manner**：個人の態度や行動、または物事のやり方を指す。
-- **[etiquette](/word/etiquette)**：社会的・公式な場での正式な礼儀作法を指す。
+- **[etiquette](/word/etiquette/)**：社会的・公式な場での正式な礼儀作法を指す。
 
 mannerは日常的なふるまいや態度全般に使われ、etiquetteはより形式的・社会的なルールを強調します。
 
@@ -105,14 +105,14 @@ mannerは日常的なふるまいや態度全般に使われ、etiquetteはよ�
 
 ## 🧩 あわせて覚えたい
 
-- [custom](/word/custom)：習慣、慣習
-- [behavior](/word/behavior)：行動、ふるまい
+- [custom](/word/custom/)：習慣、慣習
+- [behavior](/word/behavior/)：行動、ふるまい
 
 ---
 
 ## 📖 できればこれも
 
-- [method](/word/method)：方法、やり方
-- [attitude](/word/attitude)：態度、考え方
+- [method](/word/method/)：方法、やり方
+- [attitude](/word/attitude/)：態度、考え方
 
 <!-- cvid: aid19_bid44 -->

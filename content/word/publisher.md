@@ -97,7 +97,7 @@ TOEICでは、出版業界やビジネス文書、メール、記事などの文
 ## 🤔  editor との違いは？
 
 - **publisher**：出版物を発行・販売する会社や人
-- **[editor](/word/editor)**：原稿を編集・校正する人
+- **[editor](/word/editor/)**：原稿を編集・校正する人
 
 publisherは「出版する側（会社や人）」、editorは「内容を編集する人」と役割が異なります。
 
@@ -105,14 +105,14 @@ publisherは「出版する側（会社や人）」、editorは「内容を編�
 
 ## 🧩 あわせて覚えたい
 
-- [author](/word/author)：著者、作者
-- [distributor](/word/distributor)：流通業者、販売業者
+- [author](/word/author/)：著者、作者
+- [distributor](/word/distributor/)：流通業者、販売業者
 
 ---
 
 ## 📖 できればこれも
 
-- [editorial](/word/editorial)：社説、編集の
-- [publication](/word/publication)：出版物、発行
+- [editorial](/word/editorial/)：社説、編集の
+- [publication](/word/publication/)：出版物、発行
 
 <!-- cvid: aid13_bid42 -->

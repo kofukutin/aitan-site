@@ -97,7 +97,7 @@ TOEICでは、記事やレポート、広告文などで「目立つ変化」や
 ## 🤔  impressive との違いは？
 
 - **striking**：見た目や違いが「はっきり目立つ」「強い印象を与える」
-- **[impressive](/word/impressive)**：人に「感心させる」「感動を与える」ほど印象的
+- **[impressive](/word/impressive/)**：人に「感心させる」「感動を与える」ほど印象的
 
 「striking」は外見や変化が目立つ場合に使い、「impressive」は感心や感動を呼ぶ場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、記事やレポート、広告文などで「目立つ変化」や
 
 ## 🧩 あわせて覚えたい
 
-- [remarkable](/word/remarkable)：注目すべき、著しい
-- [ordinary](/word/ordinary)：普通の、平凡な
+- [remarkable](/word/remarkable/)：注目すべき、著しい
+- [ordinary](/word/ordinary/)：普通の、平凡な
 
 ---
 
 ## 📖 できればこれも
 
-- [distinctive](/word/distinctive)：独特な、特徴的な
-- [outstanding](/word/outstanding)：傑出した、際立った
+- [distinctive](/word/distinctive/)：独特な、特徴的な
+- [outstanding](/word/outstanding/)：傑出した、際立った
 
 <!-- cvid: aid28_bid14 -->

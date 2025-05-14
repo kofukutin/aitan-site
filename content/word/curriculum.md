@@ -97,7 +97,7 @@ TOEICでは教育や研修、学校案内などの説明文でよく登場しま
 ## 🤔  syllabus との違いは？
 
 - **curriculum**：学校やコース全体の教育課程・学習計画
-- **[syllabus](/word/syllabus)**：特定の授業や科目ごとの詳細な授業計画
+- **[syllabus](/word/syllabus/)**：特定の授業や科目ごとの詳細な授業計画
 
 curriculumは全体像や体系を指し、syllabusは個々の授業や科目の細かい内容・進行表を指します。
 
@@ -105,14 +105,14 @@ curriculumは全体像や体系を指し、syllabusは個々の授業や科目�
 
 ## 🧩 あわせて覚えたい
 
-- [course](/word/course)：コース、課程
-- [program](/word/program)：プログラム、計画
+- [course](/word/course/)：コース、課程
+- [program](/word/program/)：プログラム、計画
 
 ---
 
 ## 📖 できればこれも
 
-- [lecture](/word/lecture)：講義
-- [requirement](/word/requirement)：必修科目、要件
+- [lecture](/word/lecture/)：講義
+- [requirement](/word/requirement/)：必修科目、要件
 
 <!-- cvid: aid39_bid28 -->

@@ -97,7 +97,7 @@ Our new branch is located in the northeast of the city.
 ## 🤔  northwest との違いは？
 
 - **northeast**：北と東の間の方角や地域
-- **[northwest](/word/northwest)**：北と西の間の方角や地域
+- **[northwest](/word/northwest/)**：北と西の間の方角や地域
 
 northeastは「北東」、northwestは「北西」を指し、地図や方角で混同しやすいので注意しましょう。
 
@@ -105,14 +105,14 @@ northeastは「北東」、northwestは「北西」を指し、地図や方角�
 
 ## 🧩 あわせて覚えたい
 
-- [east](/word/east)：東
-- [north](/word/north)：北
+- [east](/word/east/)：東
+- [north](/word/north/)：北
 
 ---
 
 ## 📖 できればこれも
 
-- [southwest](/word/southwest)：南西
-- [southeast](/word/southeast)：南東
+- [southwest](/word/southwest/)：南西
+- [southeast](/word/southeast/)：南東
 
 <!-- cvid: aid16_bid32 -->

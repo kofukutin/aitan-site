@@ -97,7 +97,7 @@ TOEICでは会議やイベント準備の場面で、折りたたみ式の家具
 ## 🤔  collapsible との違いは？
 
 - **folding**：折りたたみ式の（主に家具や道具など、折って小さくできるもの）
-- **[collapsible](/word/collapsible)**：折りたたみやすい、つぶして小さくできる（構造的に縮めたり、たたんだりできるもの全般）
+- **[collapsible](/word/collapsible/)**：折りたたみやすい、つぶして小さくできる（構造的に縮めたり、たたんだりできるもの全般）
 
 「folding」は「折る」動作ができるものに限定されるのに対し、「collapsible」は押しつぶしたり縮めたりして小さくできるもの全般に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは会議やイベント準備の場面で、折りたたみ式の家具
 
 ## 🧩 あわせて覚えたい
 
-- [portable](/word/portable)：持ち運びできる
-- [expandable](/word/expandable)：拡張できる
+- [portable](/word/portable/)：持ち運びできる
+- [expandable](/word/expandable/)：拡張できる
 
 ---
 
 ## 📖 できればこれも
 
-- [stackable](/word/stackable)：積み重ねできる
-- [adjustable](/word/adjustable)：調節できる
+- [stackable](/word/stackable/)：積み重ねできる
+- [adjustable](/word/adjustable/)：調節できる
 
 <!-- cvid: aid30_bid06 -->

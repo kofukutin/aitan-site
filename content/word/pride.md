@@ -97,7 +97,7 @@ TOEICでは、自己紹介や会社の理念、成果を強調する文脈で「
 ## 🤔  confidence との違いは？
 
 - **pride**：自分や自分の所属するものに対する誇りや自尊心を表す。
-- **[confidence](/word/confidence)**：自分の能力や判断に対する自信を表す。
+- **[confidence](/word/confidence/)**：自分の能力や判断に対する自信を表す。
 
 「pride」は達成や所属に対する誇り、「confidence」は自分の能力への信頼という違いがあります。
 
@@ -105,14 +105,14 @@ TOEICでは、自己紹介や会社の理念、成果を強調する文脈で「
 
 ## 🧩 あわせて覚えたい
 
-- [humility](/word/humility)：謙虚さ
-- [honor](/word/honor)：名誉
+- [humility](/word/humility/)：謙虚さ
+- [honor](/word/honor/)：名誉
 
 ---
 
 ## 📖 できればこれも
 
-- [respect](/word/respect)：尊敬
-- [achievement](/word/achievement)：業績、達成
+- [respect](/word/respect/)：尊敬
+- [achievement](/word/achievement/)：業績、達成
 
 <!-- cvid: aid32_bid07 -->

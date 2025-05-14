@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「信じる」「思う」という意味でよ
 ## 🤔  trust との違いは？
 
 - **believe**：事実や情報が本当だと思う、信じる
-- **[trust](/word/trust)**：人や物事を信用して頼る、信頼する
+- **[trust](/word/trust/)**：人や物事を信用して頼る、信頼する
 
 believeは「本当だと思う」気持ち、trustは「頼れる」「裏切らないと信じる」気持ちに重点があります。
 
@@ -105,14 +105,14 @@ believeは「本当だと思う」気持ち、trustは「頼れる」「裏切�
 
 ## 🧩 あわせて覚えたい
 
-- [doubt](/word/doubt)：疑う
-- [assume](/word/assume)：仮定する、思い込む
+- [doubt](/word/doubt/)：疑う
+- [assume](/word/assume/)：仮定する、思い込む
 
 ---
 
 ## 📖 できればこれも
 
-- [think](/word/think)：考える、思う
-- [guess](/word/guess)：推測する
+- [think](/word/think/)：考える、思う
+- [guess](/word/guess/)：推測する
 
 <!-- cvid: aid11_bid18 -->

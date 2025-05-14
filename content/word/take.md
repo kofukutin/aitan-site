@@ -97,7 +97,7 @@ TOEICでは「持っていく」「取る」「受ける」など、日常的な
 ## 🤔  bring との違いは？
 
 - **take**：話し手から離れた場所へ「持っていく」「連れていく」
-- **[bring](/word/bring)**：話し手のいる場所へ「持ってくる」「連れてくる」
+- **[bring](/word/bring/)**：話し手のいる場所へ「持ってくる」「連れてくる」
 
 takeは「ここからあちらへ」、bringは「あちらからここへ」という方向の違いがあります。
 
@@ -105,14 +105,14 @@ takeは「ここからあちらへ」、bringは「あちらからここへ」�
 
 ## 🧩 あわせて覚えたい
 
-- [receive](/word/receive)：受け取る
-- [accept](/word/accept)：受け入れる
+- [receive](/word/receive/)：受け取る
+- [accept](/word/accept/)：受け入れる
 
 ---
 
 ## 📖 できればこれも
 
-- [get](/word/get)：得る、手に入れる
-- [hold](/word/hold)：持つ、握る
+- [get](/word/get/)：得る、手に入れる
+- [hold](/word/hold/)：持つ、握る
 
 <!-- cvid: aid24_bid36 -->

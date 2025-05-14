@@ -97,7 +97,7 @@ TOEICでは比較級の文法問題や、状況の変化を説明する文脈で
 ## 🤔  inferior との違いは？
 
 - **worse**：単純に「より悪い」「もっと悪い」という比較級。状態や状況の悪化に幅広く使う。
-- **[inferior](/word/inferior)**：品質や能力などが「劣っている」「下位である」という意味で、ややフォーマル。
+- **[inferior](/word/inferior/)**：品質や能力などが「劣っている」「下位である」という意味で、ややフォーマル。
 
 worseは日常的な比較や変化に使い、inferiorは品質や地位などの優劣を強調したいときに使います。
 
@@ -105,14 +105,14 @@ worseは日常的な比較や変化に使い、inferiorは品質や地位など�
 
 ## 🧩 あわせて覚えたい
 
-- [better](/word/better)：より良い
-- [decline](/word/decline)：減少する、悪化する
+- [better](/word/better/)：より良い
+- [decline](/word/decline/)：減少する、悪化する
 
 ---
 
 ## 📖 できればこれも
 
-- [bad](/word/bad)：悪い
-- [improve](/word/improve)：改善する
+- [bad](/word/bad/)：悪い
+- [improve](/word/improve/)：改善する
 
 <!-- cvid: aid13_bid28 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、オフィスや部屋の備品
 ## 🤔  jar との違いは？
 
 - **vase**：花や植物を飾るための花瓶
-- **[jar](/word/jar)**：食品や物を保存するための広口の瓶
+- **[jar](/word/jar/)**：食品や物を保存するための広口の瓶
 
 「vase」は主に花を飾る装飾用の容器、「jar」は保存や保管を目的とした瓶で、用途や形状が異なります。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写問題で、オフィスや部屋の備品
 
 ## 🧩 あわせて覚えたい
 
-- [bottle](/word/bottle)：細長い瓶、ボトル
-- [pot](/word/pot)：鍋、壺
+- [bottle](/word/bottle/)：細長い瓶、ボトル
+- [pot](/word/pot/)：鍋、壺
 
 ---
 
 ## 📖 できればこれも
 
-- [plate](/word/plate)：皿
-- [cup](/word/cup)：カップ
+- [plate](/word/plate/)：皿
+- [cup](/word/cup/)：カップ
 
 <!-- cvid: aid19_bid38 -->

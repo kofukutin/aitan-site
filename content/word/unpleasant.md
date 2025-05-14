@@ -96,7 +96,7 @@ TOEICでは、形容詞の語彙問題や、状況描写の選択肢で出題さ
 ## 🤔  uncomfortable との違いは？
 
 - **unpleasant**：気分や雰囲気、出来事などが「不快」「いやな」と感じられるときに使う。
-- **[uncomfortable](/word/uncomfortable)**：物理的・心理的に「居心地が悪い」「落ち着かない」状態を表す。
+- **[uncomfortable](/word/uncomfortable/)**：物理的・心理的に「居心地が悪い」「落ち着かない」状態を表す。
 
 unpleasantは全体的な印象や感情に使い、uncomfortableは体の感覚や具体的な状況に使うことが多いです。
 
@@ -104,14 +104,14 @@ unpleasantは全体的な印象や感情に使い、uncomfortableは体の感覚
 
 ## 🧩 あわせて覚えたい
 
-- [pleasant](/word/pleasant)：快い、心地よい
-- [awful](/word/awful)：ひどい、ものすごく悪い
+- [pleasant](/word/pleasant/)：快い、心地よい
+- [awful](/word/awful/)：ひどい、ものすごく悪い
 
 ---
 
 ## 📖 できればこれも
 
-- [rude](/word/rude)：失礼な
-- [annoying](/word/annoying)：イライラさせる
+- [rude](/word/rude/)：失礼な
+- [annoying](/word/annoying/)：イライラさせる
 
 <!-- cvid: aid17_bid24 -->

@@ -97,7 +97,7 @@ auditoriumはTOEICのリスニングパートで、会場案内やイベント�
 ## 🤔  hall との違いは？
 
 - **auditorium**：講演や発表、演奏などを目的とした大きな講堂や観客席
-- **[hall](/word/hall)**：建物内の広い部屋や廊下、集会所など幅広い用途の空間
+- **[hall](/word/hall/)**：建物内の広い部屋や廊下、集会所など幅広い用途の空間
 
 auditoriumは主に聴衆が集まる正式な講堂や劇場を指し、hallは会議室や集会所など用途が幅広い点が異なります。
 
@@ -105,14 +105,14 @@ auditoriumは主に聴衆が集まる正式な講堂や劇場を指し、hallは
 
 ## 🧩 あわせて覚えたい
 
-- [theater](/word/theater)：劇場、映画館
-- [venue](/word/venue)：会場、開催地
+- [theater](/word/theater/)：劇場、映画館
+- [venue](/word/venue/)：会場、開催地
 
 ---
 
 ## 📖 できればこれも
 
-- [lecture](/word/lecture)：講義、講演
-- [conference](/word/conference)：会議、学会
+- [lecture](/word/lecture/)：講義、講演
+- [conference](/word/conference/)：会議、学会
 
 <!-- cvid: aid38_bid30 -->

@@ -96,7 +96,7 @@ ITやビジネス文書の説明文で、画像やファイル管理に関する
 ## 🤔  icon との違いは？
 
 - **thumbnail**：画像や動画の縮小見本として使われる小さな画像
-- **[icon](/word/icon)**：アプリや機能を象徴する小さな図やマーク
+- **[icon](/word/icon/)**：アプリや機能を象徴する小さな図やマーク
 
 thumbnailは主に画像や動画の内容を縮小して見せる目的で使われ、iconは機能やアプリの象徴として使われます。
 
@@ -104,14 +104,14 @@ thumbnailは主に画像や動画の内容を縮小して見せる目的で使�
 
 ## 🧩 あわせて覚えたい
 
-- [preview](/word/preview)：プレビュー、事前に表示すること
-- [snapshot](/word/snapshot)：スナップショット、一瞬を切り取った画像
+- [preview](/word/preview/)：プレビュー、事前に表示すること
+- [snapshot](/word/snapshot/)：スナップショット、一瞬を切り取った画像
 
 ---
 
 ## 📖 できればこれも
 
-- [image](/word/image)：画像、写真
-- [picture](/word/picture)：絵、写真
+- [image](/word/image/)：画像、写真
+- [picture](/word/picture/)：絵、写真
 
 <!-- cvid: aid35_bid47 -->

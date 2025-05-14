@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、動物や自然の描写とし
 ## 🤔  hare との違いは？
 
 - **rabbit**：小型で丸っこい体型のウサギ。ペットや家畜としても一般的。
-- **[hare](/word/hare)**：野生で足が長く、より速く走るウサギの仲間。
+- **[hare](/word/hare/)**：野生で足が長く、より速く走るウサギの仲間。
 
 rabbitは一般的なウサギ全般を指し、hareは野生でより大きく足が長い種類を指します。
 
@@ -105,14 +105,14 @@ rabbitは一般的なウサギ全般を指し、hareは野生でより大きく�
 
 ## 🧩 あわせて覚えたい
 
-- [squirrel](/word/squirrel)：リス
-- [fox](/word/fox)：キツネ
+- [squirrel](/word/squirrel/)：リス
+- [fox](/word/fox/)：キツネ
 
 ---
 
 ## 📖 できればこれも
 
-- [mouse](/word/mouse)：ネズミ
-- [cat](/word/cat)：ネコ
+- [mouse](/word/mouse/)：ネズミ
+- [cat](/word/cat/)：ネコ
 
 <!-- cvid: aid25_bid41 -->

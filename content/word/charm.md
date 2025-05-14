@@ -97,7 +97,7 @@ His charm helped him win the client's trust.
 ## 🤔  attract との違いは？
 
 - **charm**：人や物が持つ内面的な魅力や惹きつける力
-- **[attract](/word/attract)**：外的な要因で注意や興味を引きつける
+- **[attract](/word/attract/)**：外的な要因で注意や興味を引きつける
 
 charmは「自然な魅力」や「人柄」など内面から出る惹きつける力、attractは「広告」や「音」など外的な要素で引きつける場合に使います。
 
@@ -105,14 +105,14 @@ charmは「自然な魅力」や「人柄」など内面から出る惹きつけ
 
 ## 🧩 あわせて覚えたい
 
-- [appeal](/word/appeal)：訴求力、魅力
-- [enchant](/word/enchant)：うっとりさせる、魅了する
+- [appeal](/word/appeal/)：訴求力、魅力
+- [enchant](/word/enchant/)：うっとりさせる、魅了する
 
 ---
 
 ## 📖 できればこれも
 
-- [grace](/word/grace)：優雅さ、上品さ
-- [delight](/word/delight)：喜び、楽しみ
+- [grace](/word/grace/)：優雅さ、上品さ
+- [delight](/word/delight/)：喜び、楽しみ
 
 <!-- cvid: aid02_bid44 -->

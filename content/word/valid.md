@@ -97,7 +97,7 @@ TOEICでは主に契約書や証明書、規則などの文脈で「有効な」
 ## 🤔  correct との違いは？
 
 - **valid**：有効性や公式な効力があることを強調
-- **[correct](/word/correct)**：正確さや間違いがないことを強調
+- **[correct](/word/correct/)**：正確さや間違いがないことを強調
 
 validは「効力がある」「公式に認められている」場合に使い、correctは「正しい」「誤りがない」場合に使います。
 
@@ -105,14 +105,14 @@ validは「効力がある」「公式に認められている」場合に使い
 
 ## 🧩 あわせて覚えたい
 
-- [invalid](/word/invalid)：無効な
-- [legitimate](/word/legitimate)：合法的な、正当な
+- [invalid](/word/invalid/)：無効な
+- [legitimate](/word/legitimate/)：合法的な、正当な
 
 ---
 
 ## 📖 できればこれも
 
-- [official](/word/official)：公式の
-- [accurate](/word/accurate)：正確な
+- [official](/word/official/)：公式の
+- [accurate](/word/accurate/)：正確な
 
 <!-- cvid: aid21_bid03 -->

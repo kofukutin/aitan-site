@@ -97,7 +97,7 @@ TOEICでは、求人広告やビジネス文書、社内メールなどで「専
 ## 🤔  expert との違いは？
 
 - **specialist**：特定の分野に特化した専門家
-- **[expert](/word/expert)**：幅広い分野や経験に基づく熟練者
+- **[expert](/word/expert/)**：幅広い分野や経験に基づく熟練者
 
 specialistは「特定分野のプロ」、expertは「経験や知識が豊富な人」といった違いがあり、specialistの方が分野の限定性が強いです。
 
@@ -105,14 +105,14 @@ specialistは「特定分野のプロ」、expertは「経験や知識が豊富�
 
 ## 🧩 あわせて覚えたい
 
-- [generalist](/word/generalist)：幅広い分野に精通した人
-- [consultant](/word/consultant)：助言や指導を行う専門家
+- [generalist](/word/generalist/)：幅広い分野に精通した人
+- [consultant](/word/consultant/)：助言や指導を行う専門家
 
 ---
 
 ## 📖 できればこれも
 
-- [manager](/word/manager)：管理職、マネージャー
-- [advisor](/word/advisor)：助言者、アドバイザー
+- [manager](/word/manager/)：管理職、マネージャー
+- [advisor](/word/advisor/)：助言者、アドバイザー
 
 <!-- cvid: aid22_bid47 -->

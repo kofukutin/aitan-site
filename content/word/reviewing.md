@@ -97,7 +97,7 @@ TOEICでは、文書や計画、契約などを「見直す」「再検討する
 ## 🤔  checking との違いは？
 
 - **reviewing**：内容を詳しく見直し、再検討や復習をするニュアンス
-- **[checking](/word/checking)**：主に間違いや問題がないかを簡単に確認するニュアンス
+- **[checking](/word/checking/)**：主に間違いや問題がないかを簡単に確認するニュアンス
 
 reviewingは「全体をしっかり見直す」イメージ、checkingは「ざっと確認する」イメージで使い分けます。
 
@@ -105,14 +105,14 @@ reviewingは「全体をしっかり見直す」イメージ、checkingは「ざ
 
 ## 🧩 あわせて覚えたい
 
-- [evaluate](/word/evaluate)：評価する
-- [revise](/word/revise)：修正する、改訂する
+- [evaluate](/word/evaluate/)：評価する
+- [revise](/word/revise/)：修正する、改訂する
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/word/approve)：承認する
-- [analyze](/word/analyze)：分析する
+- [approve](/word/approve/)：承認する
+- [analyze](/word/analyze/)：分析する
 
 <!-- cvid: aid47_bid21 -->

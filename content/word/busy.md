@@ -97,7 +97,7 @@ TOEICでは、スケジュールや予定、仕事の状況を説明する場面
 ## 🤔  occupied との違いは？
 
 - **busy**：やることが多くて手が離せない、忙しい状態
-- **[occupied](/word/occupied)**：物理的・時間的に「ふさがっている」「使用中」の意味が強い
+- **[occupied](/word/occupied/)**：物理的・時間的に「ふさがっている」「使用中」の意味が強い
 
 「busy」は主に人や場所が活発に動いている時に使い、「occupied」は席や部屋、時間が「埋まっている」時に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、スケジュールや予定、仕事の状況を説明する場面
 
 ## 🧩 あわせて覚えたい
 
-- [available](/word/available)：利用できる、空いている
-- [hectic](/word/hectic)：とても慌ただしい
+- [available](/word/available/)：利用できる、空いている
+- [hectic](/word/hectic/)：とても慌ただしい
 
 ---
 
 ## 📖 できればこれも
 
-- [free](/word/free)：自由な、空いている
-- [active](/word/active)：活動的な
+- [free](/word/free/)：自由な、空いている
+- [active](/word/active/)：活動的な
 
 <!-- cvid: aid21_bid36 -->

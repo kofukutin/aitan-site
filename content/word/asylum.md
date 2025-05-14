@@ -97,7 +97,7 @@ asylumはTOEICの長文読解（Part 7）で、国際問題や法律関連の記
 ## 🤔  shelter との違いは？
 
 - **asylum**：政治的・法的な庇護や亡命の意味が強い避難所
-- **[shelter](/word/shelter)**：一般的な「避難所」や「シェルター」、物理的な保護の意味が中心
+- **[shelter](/word/shelter/)**：一般的な「避難所」や「シェルター」、物理的な保護の意味が中心
 
 asylumは特に政治的・法的な背景で使われ、shelterは災害やホームレス支援など幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ asylumは特に政治的・法的な背景で使われ、shelterは災害やホ�
 
 ## 🧩 あわせて覚えたい
 
-- [refuge](/word/refuge)：避難、避難所
-- [sanctuary](/word/sanctuary)：聖域、保護区
+- [refuge](/word/refuge/)：避難、避難所
+- [sanctuary](/word/sanctuary/)：聖域、保護区
 
 ---
 
 ## 📖 できればこれも
 
-- [refugee](/word/refugee)：難民
-- [petition](/word/petition)：嘆願、請願
+- [refugee](/word/refugee/)：難民
+- [petition](/word/petition/)：嘆願、請願
 
 <!-- cvid: aid08_bid03 -->

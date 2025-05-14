@@ -97,7 +97,7 @@ TOEICでは、職場や社会問題に関する長文やEメールで「差別�
 ## 🤔  distinction との違いは？
 
 - **discrimination**：差別、または物事を見分ける力を指すが、現代では主に「不公平な扱い（差別）」の意味で使われる。
-- **[distinction](/word/distinction)**：区別、違い、優秀さなど、物事の違いを中立的・肯定的に表す。
+- **[distinction](/word/distinction/)**：区別、違い、優秀さなど、物事の違いを中立的・肯定的に表す。
 
 discriminationは否定的な「差別」の意味が強く、distinctionは単なる「区別」や「違い」を表す点が異なります。
 
@@ -105,14 +105,14 @@ discriminationは否定的な「差別」の意味が強く、distinctionは単�
 
 ## 🧩 あわせて覚えたい
 
-- [prejudice](/word/prejudice)：偏見
-- [equality](/word/equality)：平等
+- [prejudice](/word/prejudice/)：偏見
+- [equality](/word/equality/)：平等
 
 ---
 
 ## 📖 できればこれも
 
-- [bias](/word/bias)：偏り、偏見
-- [diversity](/word/diversity)：多様性
+- [bias](/word/bias/)：偏り、偏見
+- [diversity](/word/diversity/)：多様性
 
 <!-- cvid: aid12_bid25 -->

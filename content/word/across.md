@@ -93,7 +93,7 @@ TOEICでは主にPart 1の写真描写問題で、人物や物が「横切る」
 ## 🤔  through との違いは？
 
 - **across**：表面や空間を「横切って」向こう側へ行く
-- **[through](/word/through)**：何かの「中を通り抜けて」向こう側へ行く
+- **[through](/word/through/)**：何かの「中を通り抜けて」向こう側へ行く
 
 acrossは「表面を横切る」イメージ、throughは「内部を通過する」イメージで使い分けます。
 
@@ -101,14 +101,14 @@ acrossは「表面を横切る」イメージ、throughは「内部を通過す�
 
 ## 🧩 あわせて覚えたい
 
-- [over](/word/over)：～の上を越えて
-- [along](/word/along)：～に沿って
+- [over](/word/over/)：～の上を越えて
+- [along](/word/along/)：～に沿って
 
 ---
 
 ## 📖 できればこれも
 
-- [behind](/word/behind)：～の後ろに
-- [between](/word/between)：～の間に
+- [behind](/word/behind/)：～の後ろに
+- [between](/word/between/)：～の間に
 
 <!-- cvid: aid21_bid20 -->

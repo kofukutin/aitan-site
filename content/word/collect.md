@@ -97,7 +97,7 @@ TOEICでは「情報を集める」「料金を回収する」などの意味で
 ## 🤔  gather との違いは？
 
 - **collect**：目的を持って計画的に集めるニュアンスが強い
-- **[gather](/word/gather)**：人や物が自然に集まる、または広く集めるイメージ
+- **[gather](/word/gather/)**：人や物が自然に集まる、または広く集めるイメージ
 
 collectは「意図的・計画的に集める」、gatherは「自然に集まる・広く集める」場面で使い分けます。
 
@@ -105,14 +105,14 @@ collectは「意図的・計画的に集める」、gatherは「自然に集ま�
 
 ## 🧩 あわせて覚えたい
 
-- [assemble](/word/assemble)：集めて組み立てる、集合する
-- [accumulate](/word/accumulate)：（長期間にわたり）蓄積する
+- [assemble](/word/assemble/)：集めて組み立てる、集合する
+- [accumulate](/word/accumulate/)：（長期間にわたり）蓄積する
 
 ---
 
 ## 📖 できればこれも
 
-- [organize](/word/organize)：整理する、まとめる
-- [receive](/word/receive)：受け取る
+- [organize](/word/organize/)：整理する、まとめる
+- [receive](/word/receive/)：受け取る
 
 <!-- cvid: aid10_bid14 -->

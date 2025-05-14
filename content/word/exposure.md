@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や記事の中で「リスクへのさらされ
 ## 🤔  disclosure との違いは？
 
 - **exposure**：何かを外部にさらすこと、影響や危険に接すること
-- **[disclosure](/word/disclosure)**：情報や事実を公表・開示すること
+- **[disclosure](/word/disclosure/)**：情報や事実を公表・開示すること
 
 exposureは「さらされる状態」や「影響を受けること」に重点があり、disclosureは「秘密や情報を明らかにする行為」に使います。
 
@@ -105,14 +105,14 @@ exposureは「さらされる状態」や「影響を受けること」に重点
 
 ## 🧩 あわせて覚えたい
 
-- [risk](/word/risk)：リスク、危険
-- [revelation](/word/revelation)：明らかにすること、暴露
+- [risk](/word/risk/)：リスク、危険
+- [revelation](/word/revelation/)：明らかにすること、暴露
 
 ---
 
 ## 📖 できればこれも
 
-- [impact](/word/impact)：影響、衝撃
-- [incident](/word/incident)：出来事、事件
+- [impact](/word/impact/)：影響、衝撃
+- [incident](/word/incident/)：出来事、事件
 
 <!-- cvid: aid48_bid15 -->

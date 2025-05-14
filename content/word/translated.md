@@ -97,7 +97,7 @@ TOEICでは、メールや案内文などで「翻訳された」「訳された
 ## 🤔  interpreted との違いは？
 
 - **translated**：言語を別の言語に正確に置き換えること
-- **[interpreted](/word/interpreted)**：話し言葉や意味をその場で通訳・解釈すること
+- **[interpreted](/word/interpreted/)**：話し言葉や意味をその場で通訳・解釈すること
 
 translatedは「文章や文書を他言語に訳す」場合に使い、interpretedは「話し言葉や意味をその場で通訳・解釈する」場合に使います。
 
@@ -105,14 +105,14 @@ translatedは「文章や文書を他言語に訳す」場合に使い、interpr
 
 ## 🧩 あわせて覚えたい
 
-- [convert](/word/convert)：変換する、転換する
-- [render](/word/render)：（ある状態に）する、表現する
+- [convert](/word/convert/)：変換する、転換する
+- [render](/word/render/)：（ある状態に）する、表現する
 
 ---
 
 ## 📖 できればこれも
 
-- [explain](/word/explain)：説明する
-- [summarize](/word/summarize)：要約する
+- [explain](/word/explain/)：説明する
+- [summarize](/word/summarize/)：要約する
 
 <!-- cvid: aid09_bid02 -->

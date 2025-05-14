@@ -97,7 +97,7 @@ eyedは形容詞として、他の単語と複合して出題されることが�
 ## 🤔  watched との違いは？
 
 - **eyed**：～の目を持った、～の目つきの（形容詞）
-- **[watched](/word/watched)**：見られた、監視された（動詞の過去分詞・形容詞的用法）
+- **[watched](/word/watched/)**：見られた、監視された（動詞の過去分詞・形容詞的用法）
 
 eyedは「目の特徴」を表す形容詞、watchedは「誰かに見られる・監視される」状態を表します。
 
@@ -105,14 +105,14 @@ eyedは「目の特徴」を表す形容詞、watchedは「誰かに見られる
 
 ## 🧩 あわせて覚えたい
 
-- [observed](/word/observed)：観察された、注目された
-- [noticed](/word/noticed)：気づかれた
+- [observed](/word/observed/)：観察された、注目された
+- [noticed](/word/noticed/)：気づかれた
 
 ---
 
 ## 📖 できればこれも
 
-- [viewed](/word/viewed)：見られた、見なされた
-- [seen](/word/seen)：見られた、見たことがある
+- [viewed](/word/viewed/)：見られた、見なされた
+- [seen](/word/seen/)：見られた、見たことがある
 
 <!-- cvid: aid28_bid37 -->

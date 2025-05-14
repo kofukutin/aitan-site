@@ -97,7 +97,7 @@ ITやビジネス文書の説明文で、データや情報の保管場所とし
 ## 🤔  storage との違いは？
 
 - **repository**：体系的・組織的に情報やデータを保管・管理する場所やシステム
-- **[storage](/word/storage)**：一般的な「保管」「保存」場所やスペース
+- **[storage](/word/storage/)**：一般的な「保管」「保存」場所やスペース
 
 repositoryは特にITや学術分野で「整理された保管場所」を指し、storageはもっと広く「物理的・デジタル的な保存場所」全般を指します。
 
@@ -105,14 +105,14 @@ repositoryは特にITや学術分野で「整理された保管場所」を指�
 
 ## 🧩 あわせて覚えたい
 
-- [archive](/word/archive)：記録保管所、アーカイブ
-- [database](/word/database)：データベース、体系的なデータの集まり
+- [archive](/word/archive/)：記録保管所、アーカイブ
+- [database](/word/database/)：データベース、体系的なデータの集まり
 
 ---
 
 ## 📖 できればこれも
 
-- [directory](/word/directory)：ディレクトリ、フォルダ
-- [inventory](/word/inventory)：在庫、目録
+- [directory](/word/directory/)：ディレクトリ、フォルダ
+- [inventory](/word/inventory/)：在庫、目録
 
 <!-- cvid: aid12_bid35 -->

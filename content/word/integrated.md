@@ -97,7 +97,7 @@ TOEICでは、ITやビジネス文脈で「integrated system」「integrated sol
 ## 🤔  combined との違いは？
 
 - **integrated**：複数の要素が一体化して機能していることを強調
-- **[combined](/word/combined)**：単に複数のものを合わせた状態を表す
+- **[combined](/word/combined/)**：単に複数のものを合わせた状態を表す
 
 「integrated」は「一つのシステムや仕組みとしてまとまっている」ニュアンスが強く、単なる「合わせる」よりも「機能的に一体化している」点がポイントです。
 
@@ -105,14 +105,14 @@ TOEICでは、ITやビジネス文脈で「integrated system」「integrated sol
 
 ## 🧩 あわせて覚えたい
 
-- [unified](/word/unified)：統一された
-- [separate](/word/separate)：分離した
+- [unified](/word/unified/)：統一された
+- [separate](/word/separate/)：分離した
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [automated](/word/automated)：自動化された
+- [efficient](/word/efficient/)：効率的な
+- [automated](/word/automated/)：自動化された
 
 <!-- cvid: aid36_bid03 -->

@@ -98,7 +98,7 @@ TOEICでは、会議やビジネスの場面で「苦労する」「困難に直
 ## 🤔  strive との違いは？
 
 - **struggle**：困難や障害に直面して苦労しながら努力する
-- **[strive](/word/strive)**：高い目標や理想に向かって一生懸命努力する
+- **[strive](/word/strive/)**：高い目標や理想に向かって一生懸命努力する
 
 struggleは「苦しみながらもがく」ニュアンスが強く、striveは「目標に向かって努力する」前向きな印象があります。
 
@@ -106,14 +106,14 @@ struggleは「苦しみながらもがく」ニュアンスが強く、striveは
 
 ## 🧩 あわせて覚えたい
 
-- [overcome](/word/overcome)：克服する
-- [cope](/word/cope)：うまく対処する
+- [overcome](/word/overcome/)：克服する
+- [cope](/word/cope/)：うまく対処する
 
 ---
 
 ## 📖 できればこれも
 
-- [deal](/word/deal)：対処する
-- [attempt](/word/attempt)：試みる
+- [deal](/word/deal/)：対処する
+- [attempt](/word/attempt/)：試みる
 
 <!-- cvid: aid21_bid07 -->

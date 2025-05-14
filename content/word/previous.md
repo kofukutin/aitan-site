@@ -96,7 +96,7 @@ TOEICでは、時系列や手順を説明する文脈で「previous」がよく�
 ## 🤔  prior との違いは？
 
 - **previous**：直前や順序上「前の」という意味で、時間や順番が明確な場合に使う
-- **[prior](/word/prior)**：ややフォーマルで、重要性や優先順位を強調する場合や、事前のというニュアンスが強い
+- **[prior](/word/prior/)**：ややフォーマルで、重要性や優先順位を強調する場合や、事前のというニュアンスが強い
 
 「previous」は単純に「前のもの」を指し、「prior」は「それよりも前に存在していた」「優先されるべき」といったニュアンスが加わります。
 
@@ -104,14 +104,14 @@ TOEICでは、時系列や手順を説明する文脈で「previous」がよく�
 
 ## 🧩 あわせて覚えたい
 
-- [former](/word/former)：（地位や役職などの）前の、元の
-- [subsequent](/word/subsequent)：その後の、次の
+- [former](/word/former/)：（地位や役職などの）前の、元の
+- [subsequent](/word/subsequent/)：その後の、次の
 
 ---
 
 ## 📖 できればこれも
 
-- [current](/word/current)：現在の
-- [following](/word/following)：次の、以下の
+- [current](/word/current/)：現在の
+- [following](/word/following/)：次の、以下の
 
 <!-- cvid: aid16_bid39 -->

@@ -97,7 +97,7 @@ TOEICでは「spent time」「spent money」などの形で、過去分詞や形
 ## 🤔  used との違いは？
 
 - **spent**：使い果たして残っていない、消耗した状態
-- **[used](/word/used)**：単に「使われた」「中古の」という意味
+- **[used](/word/used/)**：単に「使われた」「中古の」という意味
 
 「spent」はエネルギーや資源などが完全に消耗した状態を強調し、「used」は単に一度使われたことを表します。
 
@@ -105,14 +105,14 @@ TOEICでは「spent time」「spent money」などの形で、過去分詞や形
 
 ## 🧩 あわせて覚えたい
 
-- [exhausted](/word/exhausted)：非常に疲れた、消耗した
-- [consumed](/word/consumed)：消費された、使い尽くされた
+- [exhausted](/word/exhausted/)：非常に疲れた、消耗した
+- [consumed](/word/consumed/)：消費された、使い尽くされた
 
 ---
 
 ## 📖 できればこれも
 
-- [wasted](/word/wasted)：無駄にした、浪費した
-- [saved](/word/saved)：節約した、保存した
+- [wasted](/word/wasted/)：無駄にした、浪費した
+- [saved](/word/saved/)：節約した、保存した
 
 <!-- cvid: aid28_bid36 -->

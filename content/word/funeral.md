@@ -96,7 +96,7 @@ TOEICでは、通知文やメール、案内文などで「葬儀のお知らせ
 ## 🤔  memorial との違いは？
 
 - **funeral**：亡くなった直後に行う正式な葬儀や告別式を指す。
-- **[memorial](/word/memorial)**：故人を偲ぶための追悼式や記念行事を指し、葬儀後に行われることが多い。
+- **[memorial](/word/memorial/)**：故人を偲ぶための追悼式や記念行事を指し、葬儀後に行われることが多い。
 
 funeralは主に埋葬や火葬の直前に行う儀式、memorialは後日行う追悼イベントや記念式典に使われます。
 
@@ -104,14 +104,14 @@ funeralは主に埋葬や火葬の直前に行う儀式、memorialは後日行�
 
 ## 🧩 あわせて覚えたい
 
-- [burial](/word/burial)：埋葬、土葬
-- [ceremony](/word/ceremony)：式典、儀式
+- [burial](/word/burial/)：埋葬、土葬
+- [ceremony](/word/ceremony/)：式典、儀式
 
 ---
 
 ## 📖 できればこれも
 
-- [wedding](/word/wedding)：結婚式
-- [event](/word/event)：行事、イベント
+- [wedding](/word/wedding/)：結婚式
+- [event](/word/event/)：行事、イベント
 
 <!-- cvid: aid41_bid41 -->

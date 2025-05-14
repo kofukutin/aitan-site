@@ -97,7 +97,7 @@ TOEICでは主にオフィスやコールセンターの写真描写問題で登
 ## 🤔  headphone との違いは？
 
 - **headset**：マイク付きのヘッドホン。通話や会議、ゲームなどで使う。
-- **[headphone](/word/headphone)**：音楽鑑賞などに使う、マイクのないヘッドホン。
+- **[headphone](/word/headphone/)**：音楽鑑賞などに使う、マイクのないヘッドホン。
 
 headsetはマイクが付いている点が特徴で、headphoneは音を聞く機能のみです。
 
@@ -105,14 +105,14 @@ headsetはマイクが付いている点が特徴で、headphoneは音を聞く�
 
 ## 🧩 あわせて覚えたい
 
-- [microphone](/word/microphone)：マイク、音声を拾う装置
-- [earphone](/word/earphone)：耳に入れるタイプの小型ヘッドホン
+- [microphone](/word/microphone/)：マイク、音声を拾う装置
+- [earphone](/word/earphone/)：耳に入れるタイプの小型ヘッドホン
 
 ---
 
 ## 📖 できればこれも
 
-- [monitor](/word/monitor)：モニター、画面
-- [keyboard](/word/keyboard)：キーボード、入力装置
+- [monitor](/word/monitor/)：モニター、画面
+- [keyboard](/word/keyboard/)：キーボード、入力装置
 
 <!-- cvid: aid18_bid10 -->

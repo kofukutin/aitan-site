@@ -97,7 +97,7 @@ The company is studying the mortality rate of patients after surgery.
 ## 🤔  fatality との違いは？
 
 - **mortality**：死亡そのものや死亡率（統計的・一般的な表現）
-- **[fatality](/word/fatality)**：事故や災害などによる「死亡者」「死亡事故」（個別の死や出来事に焦点）
+- **[fatality](/word/fatality/)**：事故や災害などによる「死亡者」「死亡事故」（個別の死や出来事に焦点）
 
 mortalityは全体的・抽象的な「死」や「死亡率」を指し、fatalityは特定の事故や事件による「死亡者数」や「死亡事故」を指します。
 
@@ -105,14 +105,14 @@ mortalityは全体的・抽象的な「死」や「死亡率」を指し、fatal
 
 ## 🧩 あわせて覚えたい
 
-- [survival](/word/survival)：生存、助かること
-- [death](/word/death)：死、死亡
+- [survival](/word/survival/)：生存、助かること
+- [death](/word/death/)：死、死亡
 
 ---
 
 ## 📖 できればこれも
 
-- [morbidity](/word/morbidity)：罹患率、病気の発生率
-- [longevity](/word/longevity)：長寿、寿命
+- [morbidity](/word/morbidity/)：罹患率、病気の発生率
+- [longevity](/word/longevity/)：長寿、寿命
 
 <!-- cvid: aid23_bid03 -->

@@ -97,7 +97,7 @@ TOEICでは会議室やイベント会場、交通機関など「混雑した状
 ## 🤔  crowded との違いは？
 
 - **packed**：ぎっしり詰まっていて、ほとんど余裕がない状態
-- **[crowded](/word/crowded)**：人や物が多くて混雑している状態
+- **[crowded](/word/crowded/)**：人や物が多くて混雑している状態
 
 「packed」は「隙間がないほど詰まっている」ニュアンスが強く、「crowded」は「混み合っているが多少の余裕がある」場合にも使えます。
 
@@ -105,14 +105,14 @@ TOEICでは会議室やイベント会場、交通機関など「混雑した状
 
 ## 🧩 あわせて覚えたい
 
-- [full](/word/full)：満ちている、いっぱいの
-- [empty](/word/empty)：空の、誰もいない
+- [full](/word/full/)：満ちている、いっぱいの
+- [empty](/word/empty/)：空の、誰もいない
 
 ---
 
 ## 📖 できればこれも
 
-- [busy](/word/busy)：忙しい、混み合っている
-- [available](/word/available)：利用できる、空いている
+- [busy](/word/busy/)：忙しい、混み合っている
+- [available](/word/available/)：利用できる、空いている
 
 <!-- cvid: aid05_bid28 -->

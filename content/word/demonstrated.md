@@ -97,7 +97,7 @@ TOEICでは、demonstratedは主にビジネス文書やレポートで「証明
 ## 🤔  proved との違いは？
 
 - **demonstrated**：証拠や例を示して証明・実演したことを強調
-- **[proved](/word/proved)**：事実や論理で正しいと証明したことを強調
+- **[proved](/word/proved/)**：事実や論理で正しいと証明したことを強調
 
 demonstratedは「見せて納得させる」ニュアンスがあり、provedは「論理的・客観的に証明する」場面で使います。
 
@@ -105,14 +105,14 @@ demonstratedは「見せて納得させる」ニュアンスがあり、proved�
 
 ## 🧩 あわせて覚えたい
 
-- [show](/word/show)：見せる、示す
-- [explain](/word/explain)：説明する
+- [show](/word/show/)：見せる、示す
+- [explain](/word/explain/)：説明する
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/word/present)：提示する、発表する
-- [indicate](/word/indicate)：示す、指し示す
+- [present](/word/present/)：提示する、発表する
+- [indicate](/word/indicate/)：示す、指し示す
 
 <!-- cvid: aid24_bid25 -->

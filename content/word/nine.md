@@ -97,7 +97,7 @@ TOEICでは、時刻や数量を表す場面でPart 1やリスニングでよく
 ## 🤔  ninth との違いは？
 
 - **nine**：9、九（数量を表す）
-- **[ninth](/word/ninth)**：9番目（順序を表す）
+- **[ninth](/word/ninth/)**：9番目（順序を表す）
 
 「nine」は単に数の「9」を表し、「ninth」は順番の「9番目」を表します。使い分けに注意しましょう。
 
@@ -105,14 +105,14 @@ TOEICでは、時刻や数量を表す場面でPart 1やリスニングでよく
 
 ## 🧩 あわせて覚えたい
 
-- [ten](/word/ten)：10、十
-- [eight](/word/eight)：8、八
+- [ten](/word/ten/)：10、十
+- [eight](/word/eight/)：8、八
 
 ---
 
 ## 📖 できればこれも
 
-- [seven](/word/seven)：7、七
-- [twelve](/word/twelve)：12、十二
+- [seven](/word/seven/)：7、七
+- [twelve](/word/twelve/)：12、十二
 
 <!-- cvid: aid38_bid09 -->

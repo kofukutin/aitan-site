@@ -97,7 +97,7 @@ TOEICでは、受付やサービスの場面で「waiting area（待合室）」
 ## 🤔  pending との違いは？
 
 - **waiting**：待っている「状態」や「時間」を表す名詞
-- **[pending](/word/pending)**：未決定・保留中の「状態」を表す形容詞・前置詞
+- **[pending](/word/pending/)**：未決定・保留中の「状態」を表す形容詞・前置詞
 
 waitingは「待つこと自体」や「待ち時間」を指し、pendingは「まだ決まっていない」「処理待ち」の状態を強調します。
 
@@ -105,14 +105,14 @@ waitingは「待つこと自体」や「待ち時間」を指し、pendingは「
 
 ## 🧩 あわせて覚えたい
 
-- [delay](/word/delay)：遅れ、延期
-- [queue](/word/queue)：列、順番待ち
+- [delay](/word/delay/)：遅れ、延期
+- [queue](/word/queue/)：列、順番待ち
 
 ---
 
 ## 📖 できればこれも
 
-- [appointment](/word/appointment)：予約、約束
-- [reservation](/word/reservation)：予約
+- [appointment](/word/appointment/)：予約、約束
+- [reservation](/word/reservation/)：予約
 
 <!-- cvid: aid10_bid44 -->

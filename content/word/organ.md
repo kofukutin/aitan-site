@@ -97,7 +97,7 @@ TOEICでは医療や科学、文化に関する長文で「organ（器官、オ�
 ## 🤔  instrument との違いは？
 
 - **organ**：体の器官や楽器のオルガンを指す
-- **[instrument](/word/instrument)**：道具、器具、楽器全般を指す
+- **[instrument](/word/instrument/)**：道具、器具、楽器全般を指す
 
 organは生物の体の一部や特定の楽器（オルガン）に限定されますが、instrumentは幅広く「道具」や「楽器」全般を表します。
 
@@ -105,14 +105,14 @@ organは生物の体の一部や特定の楽器（オルガン）に限定され
 
 ## 🧩 あわせて覚えたい
 
-- [tissue](/word/tissue)：組織（細胞の集まり）
-- [device](/word/device)：装置、機器
+- [tissue](/word/tissue/)：組織（細胞の集まり）
+- [device](/word/device/)：装置、機器
 
 ---
 
 ## 📖 できればこれも
 
-- [system](/word/system)：体系、仕組み
-- [structure](/word/structure)：構造、構成
+- [system](/word/system/)：体系、仕組み
+- [structure](/word/structure/)：構造、構成
 
 <!-- cvid: aid07_bid48 -->

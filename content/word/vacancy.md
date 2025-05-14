@@ -97,7 +97,7 @@ TOEICでは求人やホテル予約、オフィスの人事に関する文脈で
 ## 🤔  opening との違いは？
 
 - **vacancy**：空室や欠員など「空いている状態」をややフォーマルに表現
-- **[opening](/word/opening)**：主に「求人」「募集枠」など、仕事の新しいポジションや機会をカジュアルに表現
+- **[opening](/word/opening/)**：主に「求人」「募集枠」など、仕事の新しいポジションや機会をカジュアルに表現
 
 vacancyは「空き」そのものを指し、openingは「新たにできた募集枠」や「機会」に焦点を当てる違いがあります。
 
@@ -105,14 +105,14 @@ vacancyは「空き」そのものを指し、openingは「新たにできた募
 
 ## 🧩 あわせて覚えたい
 
-- [position](/word/position)：職、地位
-- [applicant](/word/applicant)：応募者
+- [position](/word/position/)：職、地位
+- [applicant](/word/applicant/)：応募者
 
 ---
 
 ## 📖 できればこれも
 
-- [candidate](/word/candidate)：候補者
-- [interview](/word/interview)：面接
+- [candidate](/word/candidate/)：候補者
+- [interview](/word/interview/)：面接
 
 <!-- cvid: aid07_bid07 -->

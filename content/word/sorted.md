@@ -97,7 +97,7 @@ TOEICでは「sorted files（整理されたファイル）」や「sorted by na
 ## 🤔  organized との違いは？
 
 - **sorted**：物や情報が順序や基準に従って並べ替えられている状態を強調。
-- **[organized](/word/organized)**：全体的に秩序立って管理・整頓されている状態を強調。
+- **[organized](/word/organized/)**：全体的に秩序立って管理・整頓されている状態を強調。
 
 sortedは「順番や基準で並べた」ことに焦点があり、organizedは「全体的にきちんと整っている」ニュアンスです。
 
@@ -105,14 +105,14 @@ sortedは「順番や基準で並べた」ことに焦点があり、organized�
 
 ## 🧩 あわせて覚えたい
 
-- [arranged](/word/arranged)：配置された、整えられた
-- [classified](/word/classified)：分類された
+- [arranged](/word/arranged/)：配置された、整えられた
+- [classified](/word/classified/)：分類された
 
 ---
 
 ## 📖 できればこれも
 
-- [fixed](/word/fixed)：修理された、固定された
-- [prepared](/word/prepared)：準備された
+- [fixed](/word/fixed/)：修理された、固定された
+- [prepared](/word/prepared/)：準備された
 
 <!-- cvid: aid06_bid32 -->

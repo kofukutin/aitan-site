@@ -97,7 +97,7 @@ TOEICでは、科学技術や製品説明などの長文で「ultra」が使わ�
 ## 🤔  extreme との違いは？
 
 - **ultra**：通常の範囲を大きく超えた「超～」「極端な」という意味で、ややフォーマル・科学的な響き。
-- **[extreme](/word/extreme)**：程度が非常に高いことを表し、日常的にも幅広く使われる。
+- **[extreme](/word/extreme/)**：程度が非常に高いことを表し、日常的にも幅広く使われる。
 
 ultraは「限界を超える」ニュアンスが強く、extremeは「非常に強い・極端な」状態全般に使われます。
 
@@ -105,14 +105,14 @@ ultraは「限界を超える」ニュアンスが強く、extremeは「非常�
 
 ## 🧩 あわせて覚えたい
 
-- [radical](/word/radical)：急進的な、根本的な
-- [super](/word/super)：とても、超～
+- [radical](/word/radical/)：急進的な、根本的な
+- [super](/word/super/)：とても、超～
 
 ---
 
 ## 📖 できればこれも
 
-- [ultimate](/word/ultimate)：究極の、最終的な
-- [maximum](/word/maximum)：最大の
+- [ultimate](/word/ultimate/)：究極の、最終的な
+- [maximum](/word/maximum/)：最大の
 
 <!-- cvid: aid41_bid48 -->

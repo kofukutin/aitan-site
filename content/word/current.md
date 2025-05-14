@@ -98,7 +98,7 @@ TOEICでは「current address（現住所）」や「current situation（現状�
 ## 🤔  present との違いは？
 
 - **current**：今まさに進行中・存在していることを強調
-- **[present](/word/present)**：単に「今ある」「存在している」ことを表す
+- **[present](/word/present/)**：単に「今ある」「存在している」ことを表す
 
 「current」は「流れ」や「進行中」のニュアンスがあり、変化や動きを含意しますが、「present」は単に「今ここにある」状態を指します。
 
@@ -106,14 +106,14 @@ TOEICでは「current address（現住所）」や「current situation（現状�
 
 ## 🧩 あわせて覚えたい
 
-- [recent](/word/recent)：最近の
-- [contemporary](/word/contemporary)：同時代の、現代の
+- [recent](/word/recent/)：最近の
+- [contemporary](/word/contemporary/)：同時代の、現代の
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/word/available)：利用できる、入手可能な
-- [active](/word/active)：活動的な、稼働中の
+- [available](/word/available/)：利用できる、入手可能な
+- [active](/word/active/)：活動的な、稼働中の
 
 <!-- cvid: aid00_bid13 -->

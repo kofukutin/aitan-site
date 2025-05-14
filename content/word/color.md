@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、物や服の色を説明する際に
 ## 🤔  hue との違いは？
 
 - **color**：一般的な「色」や「色彩」を幅広く指す
-- **[hue](/word/hue)**：色合い、色調（専門的・美術的なニュアンス）
+- **[hue](/word/hue/)**：色合い、色調（専門的・美術的なニュアンス）
 
 colorは日常的な「色」全般を指し、hueは特に色の細かな違いや色合いを表現したいときに使います。
 
@@ -105,14 +105,14 @@ colorは日常的な「色」全般を指し、hueは特に色の細かな違い
 
 ## 🧩 あわせて覚えたい
 
-- [shade](/word/shade)：色合い、濃淡
-- [dye](/word/dye)：染料、染める
+- [shade](/word/shade/)：色合い、濃淡
+- [dye](/word/dye/)：染料、染める
 
 ---
 
 ## 📖 できればこれも
 
-- [paint](/word/paint)：ペンキ、絵の具、塗る
-- [pattern](/word/pattern)：模様、パターン
+- [paint](/word/paint/)：ペンキ、絵の具、塗る
+- [pattern](/word/pattern/)：模様、パターン
 
 <!-- cvid: aid13_bid45 -->

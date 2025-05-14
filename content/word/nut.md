@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で、工具や部品の説明として登
 ## 🤔  bolt との違いは？
 
 - **nut**：ボルトと組み合わせて使う「ナット」や「木の実」を指す。
-- **[bolt](/word/bolt)**：主に「ボルト（ねじ）」や「稲妻」を指す。
+- **[bolt](/word/bolt/)**：主に「ボルト（ねじ）」や「稲妻」を指す。
 
 nutはボルトと組み合わせて使う部品や木の実を指し、boltはねじ状の金属部品や稲妻を意味します。機械部品としてはセットで使われますが、役割が異なります。
 
@@ -106,14 +106,14 @@ nutはボルトと組み合わせて使う部品や木の実を指し、boltは�
 
 ## 🧩 あわせて覚えたい
 
-- [screw](/word/screw)：ねじ
-- [seed](/word/seed)：種
+- [screw](/word/screw/)：ねじ
+- [seed](/word/seed/)：種
 
 ---
 
 ## 📖 できればこれも
 
-- [tool](/word/tool)：道具
-- [fruit](/word/fruit)：果物
+- [tool](/word/tool/)：道具
+- [fruit](/word/fruit/)：果物
 
 <!-- cvid: aid23_bid02 -->

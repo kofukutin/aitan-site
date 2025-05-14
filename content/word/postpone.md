@@ -97,7 +97,7 @@ TOEICでは会議や予定変更の場面でよく出題されます。特に「
 ## 🤔  delay との違いは？
 
 - **postpone**：予定していたことを意図的に後ろにずらす
-- **[delay](/word/delay)**：予期せぬ理由で遅れる、または遅らせる
+- **[delay](/word/delay/)**：予期せぬ理由で遅れる、または遅らせる
 
 postponeは「計画的な延期」、delayは「予期せぬ遅れ」に使われることが多いです。
 
@@ -105,14 +105,14 @@ postponeは「計画的な延期」、delayは「予期せぬ遅れ」に使わ�
 
 ## 🧩 あわせて覚えたい
 
-- [cancel](/word/cancel)：中止する
-- [reschedule](/word/reschedule)：再調整する、予定を変更する
+- [cancel](/word/cancel/)：中止する
+- [reschedule](/word/reschedule/)：再調整する、予定を変更する
 
 ---
 
 ## 📖 できればこれも
 
-- [extend](/word/extend)：延長する
-- [arrange](/word/arrange)：手配する、準備する
+- [extend](/word/extend/)：延長する
+- [arrange](/word/arrange/)：手配する、準備する
 
 <!-- cvid: aid22_bid34 -->

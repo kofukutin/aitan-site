@@ -97,7 +97,7 @@ TOEICでは「生産する」「作り出す」という意味で、会社や工
 ## 🤔  manufacture との違いは？
 
 - **produce**：広く「生み出す」「生産する」全般に使える
-- **[manufacture](/word/manufacture)**：特に「機械的に大量生産する」ニュアンスが強い
+- **[manufacture](/word/manufacture/)**：特に「機械的に大量生産する」ニュアンスが強い
 
 produceは農作物やアイデア、製品など幅広く使えますが、manufactureは工場で機械的に大量生産する場合に限定されることが多いです。
 
@@ -105,14 +105,14 @@ produceは農作物やアイデア、製品など幅広く使えますが、manu
 
 ## 🧩 あわせて覚えたい
 
-- [create](/word/create)：創造する、作り出す
-- [supply](/word/supply)：供給する、提供する
+- [create](/word/create/)：創造する、作り出す
+- [supply](/word/supply/)：供給する、提供する
 
 ---
 
 ## 📖 できればこれも
 
-- [develop](/word/develop)：開発する、発展させる
-- [deliver](/word/deliver)：配達する、届ける
+- [develop](/word/develop/)：開発する、発展させる
+- [deliver](/word/deliver/)：配達する、届ける
 
 <!-- cvid: aid15_bid01 -->

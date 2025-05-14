@@ -97,7 +97,7 @@ TOEICでは「make a living（生計を立てる）」などの表現で会話�
 ## 🤔  life との違いは？
 
 - **living**：生計や生活手段、暮らしぶりを指す
-- **[life](/word/life)**：生命そのものや人生全般を指す
+- **[life](/word/life/)**：生命そのものや人生全般を指す
 
 livingは「収入源」や「暮らし方」に焦点があり、lifeは「存在」や「人生全体」を表します。
 
@@ -105,14 +105,14 @@ livingは「収入源」や「暮らし方」に焦点があり、lifeは「存�
 
 ## 🧩 あわせて覚えたい
 
-- [salary](/word/salary)：給料
-- [occupation](/word/occupation)：職業
+- [salary](/word/salary/)：給料
+- [occupation](/word/occupation/)：職業
 
 ---
 
 ## 📖 できればこれも
 
-- [income](/word/income)：収入
-- [career](/word/career)：経歴、職業
+- [income](/word/income/)：収入
+- [career](/word/career/)：経歴、職業
 
 <!-- cvid: aid28_bid40 -->

@@ -97,7 +97,7 @@ TOEICでは、規則や条件、契約書などの文脈で「適用できる」
 ## 🤔  relevant との違いは？
 
 - **applicable**：ある条件や状況に「適用できる」「当てはまる」
-- **[relevant](/word/relevant)**：ある話題や状況に「関連がある」「重要である」
+- **[relevant](/word/relevant/)**：ある話題や状況に「関連がある」「重要である」
 
 **applicable**は「実際に使える・当てはまる」ことを強調し、**relevant**は「関係がある・関連性がある」ことを表します。
 
@@ -105,14 +105,14 @@ TOEICでは、規則や条件、契約書などの文脈で「適用できる」
 
 ## 🧩 あわせて覚えたい
 
-- [appropriate](/word/appropriate)：適切な
-- [valid](/word/valid)：有効な
+- [appropriate](/word/appropriate/)：適切な
+- [valid](/word/valid/)：有効な
 
 ---
 
 ## 📖 できればこれも
 
-- [eligible](/word/eligible)：資格がある、適格な
-- [suitable](/word/suitable)：ふさわしい、適した
+- [eligible](/word/eligible/)：資格がある、適格な
+- [suitable](/word/suitable/)：ふさわしい、適した
 
 <!-- cvid: aid28_bid49 -->

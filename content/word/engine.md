@@ -97,7 +97,7 @@ TOEICでは、工場やオフィスの設備説明、トラブル対応の会話
 ## 🤔  motor との違いは？
 
 - **engine**：燃料を使って動力を生み出す装置全般（例：ガソリンエンジン）
-- **[motor](/word/motor)**：電気や空気圧などで動く小型の動力装置
+- **[motor](/word/motor/)**：電気や空気圧などで動く小型の動力装置
 
 engineは主に燃焼などで大きな動力を生み出す装置、motorは電気などで比較的小さな動きを生み出す装置に使われます。
 
@@ -105,14 +105,14 @@ engineは主に燃焼などで大きな動力を生み出す装置、motorは電
 
 ## 🧩 あわせて覚えたい
 
-- [machine](/word/machine)：機械
-- [device](/word/device)：装置、デバイス
+- [machine](/word/machine/)：機械
+- [device](/word/device/)：装置、デバイス
 
 ---
 
 ## 📖 できればこれも
 
-- [system](/word/system)：システム、体系
-- [mechanism](/word/mechanism)：仕組み、機構
+- [system](/word/system/)：システム、体系
+- [mechanism](/word/mechanism/)：仕組み、機構
 
 <!-- cvid: aid13_bid07 -->

@@ -98,7 +98,7 @@ TOEICでは、likeの反対語として選択肢に出ることがあり、hate�
 ## 🤔  hate との違いは？
 
 - **dislike**：あまり好きではない、やや控えめな否定
-- **[hate](/word/hate)**：強く嫌う、激しい否定
+- **[hate](/word/hate/)**：強く嫌う、激しい否定
 
 dislikeは「好まない」程度のやわらかい表現ですが、hateは「大嫌い」と強い感情を表します。ビジネスや丁寧な場面ではdislikeが好まれます。
 
@@ -106,14 +106,14 @@ dislikeは「好まない」程度のやわらかい表現ですが、hateは「
 
 ## 🧩 あわせて覚えたい
 
-- [prefer](/word/prefer)：より好む
-- [enjoy](/word/enjoy)：楽しむ
+- [prefer](/word/prefer/)：より好む
+- [enjoy](/word/enjoy/)：楽しむ
 
 ---
 
 ## 📖 できればこれも
 
-- [avoid](/word/avoid)：避ける
-- [prefer](/word/prefer)：より好む
+- [avoid](/word/avoid/)：避ける
+- [prefer](/word/prefer/)：より好む
 
 <!-- cvid: aid31_bid16 -->

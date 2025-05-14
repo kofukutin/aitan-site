@@ -97,7 +97,7 @@ TOEICでは、会社や団体の「会員」「メンバー」として頻出し
 ## 🤔  participant との違いは？
 
 - **member**：団体やグループの正式な一員・会員
-- **[participant](/word/participant)**：イベントや活動に「参加する人」
+- **[participant](/word/participant/)**：イベントや活動に「参加する人」
 
 memberは「所属している人」、participantは「その場に参加している人」という違いがあります。
 
@@ -105,14 +105,14 @@ memberは「所属している人」、participantは「その場に参加して
 
 ## 🧩 あわせて覚えたい
 
-- [employee](/word/employee)：従業員
-- [colleague](/word/colleague)：同僚
+- [employee](/word/employee/)：従業員
+- [colleague](/word/colleague/)：同僚
 
 ---
 
 ## 📖 できればこれも
 
-- [team](/word/team)：チーム
-- [group](/word/group)：グループ
+- [team](/word/team/)：チーム
+- [group](/word/group/)：グループ
 
 <!-- cvid: aid47_bid19 -->

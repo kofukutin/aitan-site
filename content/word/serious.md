@@ -97,7 +97,7 @@ seriousはTOEICの会話や説明文で「深刻な問題」「重大な決定�
 ## 🤔  severe との違いは？
 
 - **serious**：重大で、軽く考えられない状態や本気の態度を表す
-- **[severe](/word/severe)**：厳しい、容赦ない、程度が非常に強いことを表す
+- **[severe](/word/severe/)**：厳しい、容赦ない、程度が非常に強いことを表す
 
 seriousは「重要性」や「本気度」に焦点があり、severeは「厳しさ」や「程度の強さ」に重点があります。
 
@@ -105,14 +105,14 @@ seriousは「重要性」や「本気度」に焦点があり、severeは「厳�
 
 ## 🧩 あわせて覚えたい
 
-- [critical](/word/critical)：危機的な、非常に重要な
-- [casual](/word/casual)：気軽な、深刻でない
+- [critical](/word/critical/)：危機的な、非常に重要な
+- [casual](/word/casual/)：気軽な、深刻でない
 
 ---
 
 ## 📖 できればこれも
 
-- [important](/word/important)：重要な
-- [urgent](/word/urgent)：緊急の
+- [important](/word/important/)：重要な
+- [urgent](/word/urgent/)：緊急の
 
 <!-- cvid: aid23_bid03 -->

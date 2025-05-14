@@ -96,7 +96,7 @@ TOEICでは映画やイベントの案内、広告文などで「soundtrack」�
 ## 🤔  score との違いは？
 
 - **soundtrack**：映画やゲームなどの音楽全体や、そのアルバムを指す
-- **[score](/word/score)**：映画や舞台のために作られた「楽譜」や「劇伴音楽」を指す
+- **[score](/word/score/)**：映画や舞台のために作られた「楽譜」や「劇伴音楽」を指す
 
 soundtrackは実際に聴く音源やアルバムを指し、scoreは作曲された音楽そのものや楽譜を意味します。
 
@@ -104,14 +104,14 @@ soundtrackは実際に聴く音源やアルバムを指し、scoreは作曲さ�
 
 ## 🧩 あわせて覚えたい
 
-- [theme](/word/theme)：テーマ曲、主題歌
-- [album](/word/album)：アルバム、音楽集
+- [theme](/word/theme/)：テーマ曲、主題歌
+- [album](/word/album/)：アルバム、音楽集
 
 ---
 
 ## 📖 できればこれも
 
-- [scene](/word/scene)：場面、シーン
-- [script](/word/script)：台本、脚本
+- [scene](/word/scene/)：場面、シーン
+- [script](/word/script/)：台本、脚本
 
 <!-- cvid: aid15_bid30 -->

@@ -97,7 +97,7 @@ TOEICでは会社や団体の役職名として、Eメールや案内文、議�
 ## 🤔  accountant との違いは？
 
 - **treasurer**：組織や団体のお金全体の管理・運用を担当する役職
-- **[accountant](/word/accountant)**：帳簿付けや会計処理など、会計業務全般を専門的に行う人
+- **[accountant](/word/accountant/)**：帳簿付けや会計処理など、会計業務全般を専門的に行う人
 
 treasurerは組織の財務責任者として意思決定や管理を担い、accountantは日々の会計処理や記録を専門的に行う点が異なります。
 
@@ -105,14 +105,14 @@ treasurerは組織の財務責任者として意思決定や管理を担い、ac
 
 ## 🧩 あわせて覚えたい
 
-- [cashier](/word/cashier)：レジ係、出納係
-- [auditor](/word/auditor)：監査人、会計監査人
+- [cashier](/word/cashier/)：レジ係、出納係
+- [auditor](/word/auditor/)：監査人、会計監査人
 
 ---
 
 ## 📖 できればこれも
 
-- [secretary](/word/secretary)：秘書、書記
-- [manager](/word/manager)：管理者、マネージャー
+- [secretary](/word/secretary/)：秘書、書記
+- [manager](/word/manager/)：管理者、マネージャー
 
 <!-- cvid: aid10_bid12 -->

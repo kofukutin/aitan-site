@@ -96,7 +96,7 @@ TOEICでは医療や健康、書類管理の文脈で登場することがあり
 ## 🤔  backbone との違いは？
 
 - **spine**：医学的・解剖学的な「背骨」、または本の「背表紙」
-- **[backbone](/word/backbone)**：体の「背骨」だが、比喩的に「中核」「支え」「根幹」の意味も強い
+- **[backbone](/word/backbone/)**：体の「背骨」だが、比喩的に「中核」「支え」「根幹」の意味も強い
 
 spineは主に物理的な背骨や本の背を指し、backboneは比喩的に「組織の中核」など抽象的な意味でもよく使われます。
 
@@ -104,14 +104,14 @@ spineは主に物理的な背骨や本の背を指し、backboneは比喩的に�
 
 ## 🧩 あわせて覚えたい
 
-- [vertebra](/word/vertebra)：椎骨（背骨を構成する一つ一つの骨）
-- [skeleton](/word/skeleton)：骨格、骸骨
+- [vertebra](/word/vertebra/)：椎骨（背骨を構成する一つ一つの骨）
+- [skeleton](/word/skeleton/)：骨格、骸骨
 
 ---
 
 ## 📖 できればこれも
 
-- [rib](/word/rib)：肋骨
-- [skull](/word/skull)：頭蓋骨
+- [rib](/word/rib/)：肋骨
+- [skull](/word/skull/)：頭蓋骨
 
 <!-- cvid: aid05_bid48 -->

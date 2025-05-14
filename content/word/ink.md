@@ -96,7 +96,7 @@ TOEICでは、事務用品やオフィスの話題で「ink」が登場するこ
 ## 🤔  dye との違いは？
 
 - **ink**：主にペンやプリンターなどで書くための液体。
-- **[dye](/word/dye)**：布や髪などを染めるための染料。
+- **[dye](/word/dye/)**：布や髪などを染めるための染料。
 
 「ink」は書く・印刷する用途、「dye」は染める用途で使い分けます。
 
@@ -104,14 +104,14 @@ TOEICでは、事務用品やオフィスの話題で「ink」が登場するこ
 
 ## 🧩 あわせて覚えたい
 
-- [paint](/word/paint)：絵の具、ペンキ
-- [pen](/word/pen)：ペン
+- [paint](/word/paint/)：絵の具、ペンキ
+- [pen](/word/pen/)：ペン
 
 ---
 
 ## 📖 できればこれも
 
-- [paper](/word/paper)：紙
-- [print](/word/print)：印刷する
+- [paper](/word/paper/)：紙
+- [print](/word/print/)：印刷する
 
 <!-- cvid: aid18_bid14 -->

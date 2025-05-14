@@ -98,7 +98,7 @@ TOEICでは主に環境や科学に関する長文、報告書、記事などで
 ## 🤔  rainfall との違いは？
 
 - **precipitation**：雨・雪・あられなど空から降るすべての水分を指すフォーマルな総称
-- **[rainfall](/word/rainfall)**：雨の降水量のみを指し、より日常的
+- **[rainfall](/word/rainfall/)**：雨の降水量のみを指し、より日常的
 
 precipitationは科学的・公式な場面で使われ、rainfallは「雨」に限定される点が異なります。
 
@@ -106,14 +106,14 @@ precipitationは科学的・公式な場面で使われ、rainfallは「雨」�
 
 ## 🧩 あわせて覚えたい
 
-- [evaporation](/word/evaporation)：蒸発
-- [humidity](/word/humidity)：湿度
+- [evaporation](/word/evaporation/)：蒸発
+- [humidity](/word/humidity/)：湿度
 
 ---
 
 ## 📖 できればこれも
 
-- [climate](/word/climate)：気候
-- [moisture](/word/moisture)：水分
+- [climate](/word/climate/)：気候
+- [moisture](/word/moisture/)：水分
 
 <!-- cvid: aid39_bid08 -->

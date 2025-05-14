@@ -97,7 +97,7 @@ TOEICでは会議やスケジュール、プロジェクトの「終了」や「
 ## 🤔  finish との違いは？
 
 - **end**：出来事や期間の「終わり」や「端」を指す名詞。
-- **[finish](/word/finish)**：何かを「仕上げる」「完了する」行為やその結果を指す名詞・動詞。
+- **[finish](/word/finish/)**：何かを「仕上げる」「完了する」行為やその結果を指す名詞・動詞。
 
 endは「時間や場所の区切り」としての終わり、finishは「作業や行動の完了」に焦点があります。
 
@@ -105,14 +105,14 @@ endは「時間や場所の区切り」としての終わり、finishは「作�
 
 ## 🧩 あわせて覚えたい
 
-- [beginning](/word/beginning)：始まり
-- [goal](/word/goal)：目標、ゴール
+- [beginning](/word/beginning/)：始まり
+- [goal](/word/goal/)：目標、ゴール
 
 ---
 
 ## 📖 できればこれも
 
-- [result](/word/result)：結果
-- [purpose](/word/purpose)：目的
+- [result](/word/result/)：結果
+- [purpose](/word/purpose/)：目的
 
 <!-- cvid: aid00_bid47 -->

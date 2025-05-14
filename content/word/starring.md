@@ -97,7 +97,7 @@ TOEICでは映画やイベントの案内、会話文で「starring」が使わ�
 ## 🤔  featuring との違いは？
 
 - **starring**：主役や中心人物として登場することを強調
-- **[featuring](/word/featuring)**：特別出演や目立つ役割で登場することを示す
+- **[featuring](/word/featuring/)**：特別出演や目立つ役割で登場することを示す
 
 「starring」は主役級の人物に使い、「featuring」は主役以外の特別な出演者やゲストに使います。
 
@@ -105,14 +105,14 @@ TOEICでは映画やイベントの案内、会話文で「starring」が使わ�
 
 ## 🧩 あわせて覚えたい
 
-- [cast](/word/cast)：配役、出演者
-- [appear](/word/appear)：出演する、現れる
+- [cast](/word/cast/)：配役、出演者
+- [appear](/word/appear/)：出演する、現れる
 
 ---
 
 ## 📖 できればこれも
 
-- [directed](/word/directed)：監督した
-- [host](/word/host)：司会者、主催者
+- [directed](/word/directed/)：監督した
+- [host](/word/host/)：司会者、主催者
 
 <!-- cvid: aid22_bid31 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、倉庫や工場のシーンで「bar
 ## 🤔  drum との違いは？
 
 - **barrel**：主に木製で、液体や粉を保存・運搬する伝統的な樽。
-- **[drum](/word/drum)**：金属やプラスチック製が多く、工業用の大型容器。
+- **[drum](/word/drum/)**：金属やプラスチック製が多く、工業用の大型容器。
 
 barrelは伝統的な木製樽を指すことが多く、drumは工場などで使う円筒形の大型容器を指します。
 
@@ -105,14 +105,14 @@ barrelは伝統的な木製樽を指すことが多く、drumは工場などで�
 
 ## 🧩 あわせて覚えたい
 
-- [container](/word/container)：容器、入れ物
-- [tank](/word/tank)：タンク、大型容器
+- [container](/word/container/)：容器、入れ物
+- [tank](/word/tank/)：タンク、大型容器
 
 ---
 
 ## 📖 できればこれも
 
-- [crate](/word/crate)：木箱
-- [can](/word/can)：缶、金属製容器
+- [crate](/word/crate/)：木箱
+- [can](/word/can/)：缶、金属製容器
 
 <!-- cvid: aid31_bid45 -->

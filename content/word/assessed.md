@@ -97,7 +97,7 @@ TOEICでは、assessedは主にビジネス文書や報告書の文脈で、過�
 ## 🤔  evaluate との違いは？
 
 - **assessed**：価値や状況を客観的・公式に評価する
-- **[evaluate](/word/evaluate)**：広く「評価する」「価値を見極める」
+- **[evaluate](/word/evaluate/)**：広く「評価する」「価値を見極める」
 
 assessは公式な基準や手順に従って評価するニュアンスが強く、evaluateはより一般的・幅広い評価に使われます。
 
@@ -105,14 +105,14 @@ assessは公式な基準や手順に従って評価するニュアンスが強�
 
 ## 🧩 あわせて覚えたい
 
-- [estimate](/word/estimate)：見積もる、概算する
-- [appraise](/word/appraise)：（専門的に）鑑定する、評価する
+- [estimate](/word/estimate/)：見積もる、概算する
+- [appraise](/word/appraise/)：（専門的に）鑑定する、評価する
 
 ---
 
 ## 📖 できればこれも
 
-- [review](/word/review)：見直す、再検討する
-- [analyze](/word/analyze)：分析する
+- [review](/word/review/)：見直す、再検討する
+- [analyze](/word/analyze/)：分析する
 
 <!-- cvid: aid34_bid41 -->

@@ -97,7 +97,7 @@ TOEICでは、会議やビジネスシーンで「やりとりする」「交流
 ## 🤔  communicate との違いは？
 
 - **interact**：お互いに影響し合ったり、やりとりをすること全般
-- **[communicate](/word/communicate)**：情報や気持ちを伝えることに重点
+- **[communicate](/word/communicate/)**：情報や気持ちを伝えることに重点
 
 interactは「双方向のやりとり」全般を指し、communicateは「伝える・意思疎通する」ことに焦点があります。
 
@@ -105,14 +105,14 @@ interactは「双方向のやりとり」全般を指し、communicateは「伝�
 
 ## 🧩 あわせて覚えたい
 
-- [collaborate](/word/collaborate)：協力する、共同作業する
-- [respond](/word/respond)：返答する、反応する
+- [collaborate](/word/collaborate/)：協力する、共同作業する
+- [respond](/word/respond/)：返答する、反応する
 
 ---
 
 ## 📖 できればこれも
 
-- [participate](/word/participate)：参加する
-- [engage](/word/engage)：関わる、従事する
+- [participate](/word/participate/)：参加する
+- [engage](/word/engage/)：関わる、従事する
 
 <!-- cvid: aid40_bid40 -->

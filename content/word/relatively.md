@@ -93,7 +93,7 @@ TOEICでは説明文や比較表現でよく登場し、他のものと比べて
 ## 🤔  comparatively との違いは？
 
 - **relatively**：他と比べて「比較的に」「相対的に」という意味で、日常的・ビジネス的な比較に幅広く使う。
-- **[comparatively](/word/comparatively)**：ややフォーマルで、より明確に「比較して」というニュアンスを強調する。
+- **[comparatively](/word/comparatively/)**：ややフォーマルで、より明確に「比較して」というニュアンスを強調する。
 
 どちらも「比較的に」という意味ですが、relativelyはより一般的で柔らかい印象、comparativelyはやや堅めで明確な比較を意識する場面で使われます。
 
@@ -101,14 +101,14 @@ TOEICでは説明文や比較表現でよく登場し、他のものと比べて
 
 ## 🧩 あわせて覚えたい
 
-- [absolutely](/word/absolutely)：絶対的に
-- [somewhat](/word/somewhat)：いくぶん、多少
+- [absolutely](/word/absolutely/)：絶対的に
+- [somewhat](/word/somewhat/)：いくぶん、多少
 
 ---
 
 ## 📖 できればこれも
 
-- [approximately](/word/approximately)：おおよそ、約
-- [significantly](/word/significantly)：著しく、かなり
+- [approximately](/word/approximately/)：おおよそ、約
+- [significantly](/word/significantly/)：著しく、かなり
 
 <!-- cvid: aid34_bid24 -->

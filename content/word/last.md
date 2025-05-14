@@ -97,7 +97,7 @@ lastはTOEICの文法・語彙問題で「最後の」「この前の」など�
 ## 🤔  final との違いは？
 
 - **last**：順番や時間の「最後の」「直前の」
-- **[final](/word/final)**：最終的な、決定的な
+- **[final](/word/final/)**：最終的な、決定的な
 
 lastは日常的な「最後の」や「直前の」に使い、finalは「最終的な」「決定的な」などフォーマルで強調したい場面で使います。
 
@@ -105,14 +105,14 @@ lastは日常的な「最後の」や「直前の」に使い、finalは「最�
 
 ## 🧩 あわせて覚えたい
 
-- [previous](/word/previous)：前の、以前の
-- [latest](/word/latest)：最新の
+- [previous](/word/previous/)：前の、以前の
+- [latest](/word/latest/)：最新の
 
 ---
 
 ## 📖 できればこれも
 
-- [next](/word/next)：次の
-- [early](/word/early)：早い
+- [next](/word/next/)：次の
+- [early](/word/early/)：早い
 
 <!-- cvid: aid07_bid48 -->

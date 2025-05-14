@@ -97,7 +97,7 @@ TOEICでは、ビジネス倫理や価値観に関する長文やスピーチ文
 ## 🤔  merit との違いは？
 
 - **virtue**：道徳的な美点や人間性の優れた点を強調
-- **[merit](/word/merit)**：実用的・客観的な価値や長所を指す
+- **[merit](/word/merit/)**：実用的・客観的な価値や長所を指す
 
 virtueは「人としての良さ」や「倫理的な価値」に重点があり、meritは「実際の利点」や「評価される点」に使われます。
 
@@ -105,15 +105,15 @@ virtueは「人としての良さ」や「倫理的な価値」に重点があ�
 
 ## 🧩 あわせて覚えたい
 
-- [vice](/word/vice)：悪徳、欠点
-- [value](/word/value)：価値
+- [vice](/word/vice/)：悪徳、欠点
+- [value](/word/value/)：価値
 
 ---
 
 ## 📖 できればこれも
 
-- [ethic](/word/ethic)：倫理、道徳規範
-- [morality](/word/morality)：道徳、倫理
+- [ethic](/word/ethic/)：倫理、道徳規範
+- [morality](/word/morality/)：道徳、倫理
 
 
 <!-- cvid: aid09_bid44 -->

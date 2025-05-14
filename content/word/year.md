@@ -97,7 +97,7 @@ TOEICでは日付や期間、年次報告などの文脈で頻繁に登場しま
 ## 🤔  annual との違いは？
 
 - **year**：1年間、年という「名詞」
-- **[annual](/word/annual)**：毎年の、年1回のという「形容詞」
+- **[annual](/word/annual/)**：毎年の、年1回のという「形容詞」
 
 「year」は期間や年数そのものを指し、「annual」は「毎年の」「年1回の」といった頻度や性質を表します。
 
@@ -105,14 +105,14 @@ TOEICでは日付や期間、年次報告などの文脈で頻繁に登場しま
 
 ## 🧩 あわせて覚えたい
 
-- [month](/word/month)：月、1か月
-- [decade](/word/decade)：10年間、10年
+- [month](/word/month/)：月、1か月
+- [decade](/word/decade/)：10年間、10年
 
 ---
 
 ## 📖 できればこれも
 
-- [date](/word/date)：日付、日時
-- [season](/word/season)：季節
+- [date](/word/date/)：日付、日時
+- [season](/word/season/)：季節
 
 <!-- cvid: aid14_bid20 -->

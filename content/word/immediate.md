@@ -98,7 +98,7 @@ TOEICでは「immediate action（即時の対応）」や「immediate supervisor
 ## 🤔  instant との違いは？
 
 - **immediate**：間に何も挟まず「即時の」「直接の」という意味。フォーマルな場面やビジネスでよく使う。
-- **[instant](/word/instant)**：一瞬で起こる、または「インスタント食品」のように「すぐできる」ものに使う。
+- **[instant](/word/instant/)**：一瞬で起こる、または「インスタント食品」のように「すぐできる」ものに使う。
 
 immediateは「間を置かずにすぐ」というニュアンスが強く、instantは「一瞬で」「瞬時に」というスピード感や出来合い感が強調されます。
 
@@ -106,14 +106,14 @@ immediateは「間を置かずにすぐ」というニュアンスが強く、in
 
 ## 🧩 あわせて覚えたい
 
-- [urgent](/word/urgent)：緊急の
-- [prompt](/word/prompt)：迅速な
+- [urgent](/word/urgent/)：緊急の
+- [prompt](/word/prompt/)：迅速な
 
 ---
 
 ## 📖 できればこれも
 
-- [temporary](/word/temporary)：一時的な
-- [current](/word/current)：現在の
+- [temporary](/word/temporary/)：一時的な
+- [current](/word/current/)：現在の
 
 <!-- cvid: aid05_bid29 -->

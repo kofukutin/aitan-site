@@ -97,7 +97,7 @@ Fortunately, the meeting was rescheduled to next week.
 ## 🤔  luckily との違いは？
 
 - **fortunately**：客観的に「幸運だった」と述べるときに使う
-- **[luckily](/word/luckily)**：話し手の主観や感情がより強く表れる
+- **[luckily](/word/luckily/)**：話し手の主観や感情がより強く表れる
 
 fortunatelyはフォーマルで客観的な場面、luckilyはカジュアルで個人的な感情を込めたいときに使い分けます。
 
@@ -105,14 +105,14 @@ fortunatelyはフォーマルで客観的な場面、luckilyはカジュアル�
 
 ## 🧩 あわせて覚えたい
 
-- [unfortunately](/word/unfortunately)：残念ながら、不運にも
-- [accidentally](/word/accidentally)：うっかり、偶然に
+- [unfortunately](/word/unfortunately/)：残念ながら、不運にも
+- [accidentally](/word/accidentally/)：うっかり、偶然に
 
 ---
 
 ## 📖 できればこれも
 
-- [probably](/word/probably)：たぶん、おそらく
-- [recently](/word/recently)：最近
+- [probably](/word/probably/)：たぶん、おそらく
+- [recently](/word/recently/)：最近
 
 <!-- cvid: aid31_bid30 -->

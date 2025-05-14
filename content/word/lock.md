@@ -97,7 +97,7 @@ TOEICでは、オフィスや施設のセキュリティ、備品管理などの
 ## 🤔  secure との違いは？
 
 - **lock**：物理的な「錠」や「鍵」そのものを指す
-- **[secure](/word/secure)**：安全にする、守るという動作や状態を指す
+- **[secure](/word/secure/)**：安全にする、守るという動作や状態を指す
 
 lockは具体的な道具や装置を表し、secureは安全を確保する行為や状態を表します。
 
@@ -105,14 +105,14 @@ lockは具体的な道具や装置を表し、secureは安全を確保する行�
 
 ## 🧩 あわせて覚えたい
 
-- [key](/word/key)：鍵
-- [unlock](/word/unlock)：鍵を開ける
+- [key](/word/key/)：鍵
+- [unlock](/word/unlock/)：鍵を開ける
 
 ---
 
 ## 📖 できればこれも
 
-- [password](/word/password)：パスワード
-- [access](/word/access)：アクセス、入ること
+- [password](/word/password/)：パスワード
+- [access](/word/access/)：アクセス、入ること
 
 <!-- cvid: aid26_bid06 -->

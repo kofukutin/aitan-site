@@ -97,7 +97,7 @@ TOEICでは、企業や制度、人物の信頼性や実績を表す文脈でよ
 ## 🤔  founded との違いは？
 
 - **established**：長い間存在し、信頼や評価が定着していることを強調
-- **[founded](/word/founded)**：設立された時点や創設の事実を強調
+- **[founded](/word/founded/)**：設立された時点や創設の事実を強調
 
 establishedは「実績や信頼がある」ニュアンス、foundedは「始まり・創設」に焦点を当てます。
 
@@ -105,14 +105,14 @@ establishedは「実績や信頼がある」ニュアンス、foundedは「始�
 
 ## 🧩 あわせて覚えたい
 
-- [recognized](/word/recognized)：認められた、評価された
-- [traditional](/word/traditional)：伝統的な、昔からの
+- [recognized](/word/recognized/)：認められた、評価された
+- [traditional](/word/traditional/)：伝統的な、昔からの
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/word/reliable)：信頼できる
-- [experienced](/word/experienced)：経験豊富な
+- [reliable](/word/reliable/)：信頼できる
+- [experienced](/word/experienced/)：経験豊富な
 
 <!-- cvid: aid17_bid19 -->

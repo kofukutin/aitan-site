@@ -98,7 +98,7 @@ TOEICでは電話やメールのやりとり、指示の場面で「すぐに対
 ## 🤔  immediately との違いは？
 
 - **instantly**：ほとんど遅れなく「瞬時に」「即座に」何かが起こることを強調
-- **[immediately](/word/immediately)**：時間的な「すぐに」「直ちに」で、やや幅広い場面で使える
+- **[immediately](/word/immediately/)**：時間的な「すぐに」「直ちに」で、やや幅広い場面で使える
 
 instantlyは「一瞬で」というスピード感を強調し、immediatelyは「遅れずに」というニュアンスでややフォーマルな場面にも使えます。
 
@@ -106,14 +106,14 @@ instantlyは「一瞬で」というスピード感を強調し、immediatelyは
 
 ## 🧩 あわせて覚えたい
 
-- [promptly](/word/promptly)：迅速に、すぐに
-- [suddenly](/word/suddenly)：突然に、不意に
+- [promptly](/word/promptly/)：迅速に、すぐに
+- [suddenly](/word/suddenly/)：突然に、不意に
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/word/quickly)：速く、素早く
-- [shortly](/word/shortly)：まもなく、すぐに
+- [quickly](/word/quickly/)：速く、素早く
+- [shortly](/word/shortly/)：まもなく、すぐに
 
 <!-- cvid: aid00_bid22 -->

@@ -97,7 +97,7 @@ TOEICでは製品説明や広告文、仕様書などで「軽量の」という
 ## 🤔  slim との違いは？
 
 - **lightweight**：重さが軽いことを強調し、持ち運びやすさや扱いやすさに注目する表現。
-- **[slim](/word/slim)**：幅や厚みが細い・薄いことを強調し、見た目のスリムさやスタイリッシュさを表現。
+- **[slim](/word/slim/)**：幅や厚みが細い・薄いことを強調し、見た目のスリムさやスタイリッシュさを表現。
 
 lightweightは「重さ」、slimは「細さ・薄さ」に注目して使い分けます。
 
@@ -105,14 +105,14 @@ lightweightは「重さ」、slimは「細さ・薄さ」に注目して使い�
 
 ## 🧩 あわせて覚えたい
 
-- [heavy](/word/heavy)：重い
-- [compact](/word/compact)：小型の、コンパクトな
+- [heavy](/word/heavy/)：重い
+- [compact](/word/compact/)：小型の、コンパクトな
 
 ---
 
 ## 📖 できればこれも
 
-- [portable](/word/portable)：持ち運びできる
-- [durable](/word/durable)：耐久性のある
+- [portable](/word/portable/)：持ち運びできる
+- [durable](/word/durable/)：耐久性のある
 
 <!-- cvid: aid24_bid00 -->

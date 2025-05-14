@@ -97,7 +97,7 @@ TOEICでは、社員や担当者の専門性や信頼性を説明する文脈で
 ## 🤔  informed との違いは？
 
 - **knowledgeable**：特定分野について深い知識や理解がある
-- **[informed](/word/informed)**：情報を得ていて、状況や事実をよく知っている
+- **[informed](/word/informed/)**：情報を得ていて、状況や事実をよく知っている
 
 「knowledgeable」は専門的・体系的な知識の豊富さを強調し、「informed」は最新情報や事実を知っていることに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは、社員や担当者の専門性や信頼性を説明する文脈で
 
 ## 🧩 あわせて覚えたい
 
-- [expert](/word/expert)：専門家、熟練者
-- [ignorant](/word/ignorant)：無知な、知識がない
+- [expert](/word/expert/)：専門家、熟練者
+- [ignorant](/word/ignorant/)：無知な、知識がない
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [competent](/word/competent)：有能な
+- [efficient](/word/efficient/)：効率的な
+- [competent](/word/competent/)：有能な
 
 <!-- cvid: aid16_bid21 -->

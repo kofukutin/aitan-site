@@ -97,7 +97,7 @@ TOEICでは会話や説明文の中で「状況や物事を説明する」場面
 ## 🤔  explaining との違いは？
 
 - **describing**：物事の特徴や様子を客観的に伝える
-- **[explaining](/word/explaining)**：理由や原因、仕組みをわかりやすく解説する
+- **[explaining](/word/explaining/)**：理由や原因、仕組みをわかりやすく解説する
 
 describingは「どんなものか」を伝えるのに使い、explainingは「なぜそうなのか」「どうしてそうなるのか」を説明する時に使います。
 
@@ -105,14 +105,14 @@ describingは「どんなものか」を伝えるのに使い、explainingは「
 
 ## 🧩 あわせて覚えたい
 
-- [illustrate](/word/illustrate)：例や図を使って説明する
-- [define](/word/define)：定義する、意味を明確にする
+- [illustrate](/word/illustrate/)：例や図を使って説明する
+- [define](/word/define/)：定義する、意味を明確にする
 
 ---
 
 ## 📖 できればこれも
 
-- [describe](/word/describe)：描写する、説明する（原形）
-- [mention](/word/mention)：言及する、軽く触れる
+- [describe](/word/describe/)：描写する、説明する（原形）
+- [mention](/word/mention/)：言及する、軽く触れる
 
 <!-- cvid: aid21_bid46 -->

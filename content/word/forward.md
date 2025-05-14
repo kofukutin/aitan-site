@@ -97,7 +97,7 @@ TOEICでは主にメールや社内連絡文で「転送する」という意味
 ## 🤔  send との違いは？
 
 - **forward**：既に受け取ったものを別の人に転送・回送する
-- **[send](/word/send)**：最初に何かを送る、一般的な「送る」
+- **[send](/word/send/)**：最初に何かを送る、一般的な「送る」
 
 forwardは「転送」、sendは「送信」のニュアンスで、forwardは受け取ったものをさらに他者へ送る場合に使います。
 
@@ -105,14 +105,14 @@ forwardは「転送」、sendは「送信」のニュアンスで、forwardは�
 
 ## 🧩 あわせて覚えたい
 
-- [transfer](/word/transfer)：移す、転送する（より広い意味で使う）
-- [deliver](/word/deliver)：配達する、届ける
+- [transfer](/word/transfer/)：移す、転送する（より広い意味で使う）
+- [deliver](/word/deliver/)：配達する、届ける
 
 ---
 
 ## 📖 できればこれも
 
-- [attach](/word/attach)：添付する
-- [reply](/word/reply)：返信する
+- [attach](/word/attach/)：添付する
+- [reply](/word/reply/)：返信する
 
 <!-- cvid: aid42_bid02 -->

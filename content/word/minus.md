@@ -93,7 +93,7 @@ The total sales minus expenses show our net profit.
 ## 🤔  subtract との違いは？
 
 - **minus**：前置詞として「～引く～」の形で使う。計算式や数量の説明に多い。
-- **[subtract](/word/subtract)**：動詞で「引く」「差し引く」という動作を表す。
+- **[subtract](/word/subtract/)**：動詞で「引く」「差し引く」という動作を表す。
 
 minusは計算式や数量の説明で使い、subtractは動作として「引く」と言いたいときに使います。
 
@@ -101,14 +101,14 @@ minusは計算式や数量の説明で使い、subtractは動作として「引�
 
 ## 🧩 あわせて覚えたい
 
-- [plus](/word/plus)：プラス、加える
-- [negative](/word/negative)：負の、マイナスの
+- [plus](/word/plus/)：プラス、加える
+- [negative](/word/negative/)：負の、マイナスの
 
 ---
 
 ## 📖 できればこれも
 
-- [divide](/word/divide)：割る
-- [total](/word/total)：合計
+- [divide](/word/divide/)：割る
+- [total](/word/total/)：合計
 
 <!-- cvid: aid42_bid46 -->

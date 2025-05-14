@@ -97,7 +97,7 @@ TOEICでは契約書や規則、公式文書の読解問題で頻出します。
 ## 🤔  revision との違いは？
 
 - **amendment**：主に法律や契約など公式文書の修正・改正を指す
-- **[revision](/word/revision)**：一般的な見直しや改訂、幅広い文書や内容の修正
+- **[revision](/word/revision/)**：一般的な見直しや改訂、幅広い文書や内容の修正
 
 amendmentは公式・法的な修正に限定されることが多く、revisionは書類や計画など幅広い内容の見直し・改訂に使われます。
 
@@ -105,14 +105,14 @@ amendmentは公式・法的な修正に限定されることが多く、revision
 
 ## 🧩 あわせて覚えたい
 
-- [correction](/word/correction)：訂正、修正
-- [modification](/word/modification)：変更、修正
+- [correction](/word/correction/)：訂正、修正
+- [modification](/word/modification/)：変更、修正
 
 ---
 
 ## 📖 できればこれも
 
-- [clause](/word/clause)：条項、節
-- [regulation](/word/regulation)：規則、規定
+- [clause](/word/clause/)：条項、節
+- [regulation](/word/regulation/)：規則、規定
 
 <!-- cvid: aid36_bid02 -->

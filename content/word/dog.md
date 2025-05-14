@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写問題で、犬が写っている場面やペッ
 ## 🤔  puppy との違いは？
 
 - **dog**：犬全般を指す一般的な単語
-- **[puppy](/word/puppy)**：子犬（生まれて間もない犬）を指す
+- **[puppy](/word/puppy/)**：子犬（生まれて間もない犬）を指す
 
 dogは成犬・子犬を問わず「犬」全体を指しますが、puppyは特に「子犬」に限定されます。
 
@@ -105,14 +105,14 @@ dogは成犬・子犬を問わず「犬」全体を指しますが、puppyは特
 
 ## 🧩 あわせて覚えたい
 
-- [cat](/word/cat)：猫
-- [pet](/word/pet)：ペット、飼い動物
+- [cat](/word/cat/)：猫
+- [pet](/word/pet/)：ペット、飼い動物
 
 ---
 
 ## 📖 できればこれも
 
-- [animal](/word/animal)：動物
-- [bird](/word/bird)：鳥
+- [animal](/word/animal/)：動物
+- [bird](/word/bird/)：鳥
 
 <!-- cvid: aid49_bid14 -->

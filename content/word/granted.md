@@ -93,7 +93,7 @@ TOEICでは文法問題や文挿入問題で「譲歩」を表す表現として
 ## 🤔  assuming との違いは？
 
 - **granted**：〜だとしても（譲歩・認めたうえで話を進める）
-- **[assuming](/word/assuming)**：もし〜ならば（仮定・条件を提示する）
+- **[assuming](/word/assuming/)**：もし〜ならば（仮定・条件を提示する）
 
 grantedは「事実を認めつつ話を進める」ニュアンス、assumingは「仮定の条件」を提示する時に使います。
 
@@ -101,14 +101,14 @@ grantedは「事実を認めつつ話を進める」ニュアンス、assuming�
 
 ## 🧩 あわせて覚えたい
 
-- [provided](/word/provided)：もし〜ならば（条件）
-- [although](/word/although)：〜だけれども（譲歩）
+- [provided](/word/provided/)：もし〜ならば（条件）
+- [although](/word/although/)：〜だけれども（譲歩）
 
 ---
 
 ## 📖 できればこれも
 
-- [unless](/word/unless)：〜でなければ
-- [even if](/word/even_if)：たとえ〜でも
+- [unless](/word/unless/)：〜でなければ
+- [even if](/word/even_if/)：たとえ〜でも
 
 <!-- cvid: aid34_bid22 -->

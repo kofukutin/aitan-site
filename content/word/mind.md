@@ -97,7 +97,7 @@ TOEICでは会話や指示の中で「心に留める」「気にする」など
 ## 🤔  brain との違いは？
 
 - **mind**：考えや意識、精神的な働きを表す
-- **[brain](/word/brain)**：物理的な「脳」そのものを指す
+- **[brain](/word/brain/)**：物理的な「脳」そのものを指す
 
 mindは「考える力」や「心」を表し、brainは「脳」という器官を指します。抽象的な思考や感情はmind、医学的・生物学的な話はbrainを使います。
 
@@ -105,14 +105,14 @@ mindは「考える力」や「心」を表し、brainは「脳」という器�
 
 ## 🧩 あわせて覚えたい
 
-- [opinion](/word/opinion)：意見
-- [thought](/word/thought)：考え、思考
+- [opinion](/word/opinion/)：意見
+- [thought](/word/thought/)：考え、思考
 
 ---
 
 ## 📖 できればこれも
 
-- [memory](/word/memory)：記憶、思い出
-- [idea](/word/idea)：アイデア、考え
+- [memory](/word/memory/)：記憶、思い出
+- [idea](/word/idea/)：アイデア、考え
 
 <!-- cvid: aid33_bid26 -->

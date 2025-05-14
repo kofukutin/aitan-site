@@ -98,7 +98,7 @@ TOEICでは「宝石」や「価値あるもの」といった意味で名詞と
 ## 🤔  jewel との違いは？
 
 - **gem**：自然のまま、またはカットされた宝石全般や、比喩的に「逸品」「素晴らしいもの」も指す
-- **[jewel](/word/jewel)**：装飾品として使われる宝石や貴金属、または宝石そのもの
+- **[jewel](/word/jewel/)**：装飾品として使われる宝石や貴金属、または宝石そのもの
 
 **gem**は「価値あるもの」「逸品」といった比喩的な使い方ができるのに対し、**jewel**は主に装飾品や宝石そのものを指します。
 
@@ -106,14 +106,14 @@ TOEICでは「宝石」や「価値あるもの」といった意味で名詞と
 
 ## 🧩 あわせて覚えたい
 
-- [treasure](/word/treasure)：宝物、貴重品
-- [stone](/word/stone)：石、（宝石の）原石
+- [treasure](/word/treasure/)：宝物、貴重品
+- [stone](/word/stone/)：石、（宝石の）原石
 
 ---
 
 ## 📖 できればこれも
 
-- [pearl](/word/pearl)：真珠
-- [crystal](/word/crystal)：水晶、クリスタル
+- [pearl](/word/pearl/)：真珠
+- [crystal](/word/crystal/)：水晶、クリスタル
 
 <!-- cvid: aid22_bid25 -->

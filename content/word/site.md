@@ -97,7 +97,7 @@ TOEICでは「建設現場」「ウェブサイト」など、ビジネスやIT�
 ## 🤔  location との違いは？
 
 - **site**：特定の目的や用途のための場所・現場
-- **[location](/word/location)**：単に「位置」「場所」を指し、用途や目的は問わない
+- **[location](/word/location/)**：単に「位置」「場所」を指し、用途や目的は問わない
 
 「site」は工事現場やウェブサイトなど、何かのために使われる場所に使い、「location」は地理的な位置や住所など広く使います。
 
@@ -105,14 +105,14 @@ TOEICでは「建設現場」「ウェブサイト」など、ビジネスやIT�
 
 ## 🧩 あわせて覚えたい
 
-- [area](/word/area)：区域、範囲
-- [facility](/word/facility)：施設、設備
+- [area](/word/area/)：区域、範囲
+- [facility](/word/facility/)：施設、設備
 
 ---
 
 ## 📖 できればこれも
 
-- [address](/word/address)：住所
-- [building](/word/building)：建物
+- [address](/word/address/)：住所
+- [building](/word/building/)：建物
 
 <!-- cvid: aid40_bid01 -->

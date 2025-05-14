@@ -94,7 +94,7 @@ TOEICではPart 7のメールや手紙、会話文などで「将来の希望」
 ## 🤔  sometime との違いは？
 
 - **someday**：将来の「いつか」（特定しない日）を表す
-- **[sometime](/word/sometime)**：過去・未来問わず「いつかの時点」「ある時」を表す
+- **[sometime](/word/sometime/)**：過去・未来問わず「いつかの時点」「ある時」を表す
 
 somedayは「将来のいつか」に限定されますが、sometimeは過去・未来どちらにも使え、時点をぼんやり指す点が異なります。
 
@@ -102,14 +102,14 @@ somedayは「将来のいつか」に限定されますが、sometimeは過去�
 
 ## 🧩 あわせて覚えたい
 
-- [eventually](/word/eventually)：最終的に、やがて
-- [soon](/word/soon)：まもなく、すぐに
+- [eventually](/word/eventually/)：最終的に、やがて
+- [soon](/word/soon/)：まもなく、すぐに
 
 ---
 
 ## 📖 できればこれも
 
-- [later](/word/later)：あとで、のちほど
-- [soon](/word/soon)：まもなく、すぐに
+- [later](/word/later/)：あとで、のちほど
+- [soon](/word/soon/)：まもなく、すぐに
 
 <!-- cvid: aid06_bid36 -->

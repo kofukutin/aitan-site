@@ -97,7 +97,7 @@ TOEICでは、人物の性格や仕事への姿勢を表す形容詞として、
 ## 🤔  motivated との違いは？
 
 - **driven**：強い目的意識や情熱で突き動かされている状態
-- **[motivated](/word/motivated)**：やる気がある、動機づけられている状態
+- **[motivated](/word/motivated/)**：やる気がある、動機づけられている状態
 
 「driven」は内面から突き動かされている強い意欲を表し、「motivated」は外部・内部問わず何かによってやる気が出ている状態を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、人物の性格や仕事への姿勢を表す形容詞として、
 
 ## 🧩 あわせて覚えたい
 
-- [ambitious](/word/ambitious)：野心的な
-- [dedicated](/word/dedicated)：献身的な
+- [ambitious](/word/ambitious/)：野心的な
+- [dedicated](/word/dedicated/)：献身的な
 
 ---
 
 ## 📖 できればこれも
 
-- [dynamic](/word/dynamic)：活発な、エネルギッシュな
-- [efficient](/word/efficient)：効率的な
+- [dynamic](/word/dynamic/)：活発な、エネルギッシュな
+- [efficient](/word/efficient/)：効率的な
 
 <!-- cvid: aid38_bid29 -->

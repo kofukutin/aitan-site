@@ -97,7 +97,7 @@ TOEICでは、報告書や説明文などで「おおよその数値」や「近
 ## 🤔  estimate との違いは？
 
 - **approximate**：正確ではないが、できるだけ近い値や状態にすること。近似する、概算する。
-- **[estimate](/word/estimate)**：不確かな情報からおおよその数値や金額を推測すること。見積もる。
+- **[estimate](/word/estimate/)**：不確かな情報からおおよその数値や金額を推測すること。見積もる。
 
 approximateは「実際の値に近づける」ニュアンスが強く、estimateは「推測して見積もる」意味合いが強いです。
 
@@ -105,14 +105,14 @@ approximateは「実際の値に近づける」ニュアンスが強く、estima
 
 ## 🧩 あわせて覚えたい
 
-- [accurate](/word/accurate)：正確な
-- [rough](/word/rough)：おおまかな、ざっくりした
+- [accurate](/word/accurate/)：正確な
+- [rough](/word/rough/)：おおまかな、ざっくりした
 
 ---
 
 ## 📖 できればこれも
 
-- [assume](/word/assume)：仮定する
-- [calculate](/word/calculate)：計算する
+- [assume](/word/assume/)：仮定する
+- [calculate](/word/calculate/)：計算する
 
 <!-- cvid: aid14_bid32 -->

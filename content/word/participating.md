@@ -97,7 +97,7 @@ TOEICでは会議やイベント、プロジェクトへの「参加者」や「
 ## 🤔  attending との違いは？
 
 - **participating**：積極的に活動やイベントに「関与している」「参加している」ことを強調
-- **[attending](/word/attending)**：単に「出席している」「その場にいる」ことを表す
+- **[attending](/word/attending/)**：単に「出席している」「その場にいる」ことを表す
 
 participatingは「実際に何かをしている」ニュアンスがあり、attendingは「その場にいるだけ」の場合にも使われます。
 
@@ -105,14 +105,14 @@ participatingは「実際に何かをしている」ニュアンスがあり、a
 
 ## 🧩 あわせて覚えたい
 
-- [involved](/word/involved)：関与している
-- [joining](/word/joining)：加わっている
+- [involved](/word/involved/)：関与している
+- [joining](/word/joining/)：加わっている
 
 ---
 
 ## 📖 できればこれも
 
-- [contributing](/word/contributing)：貢献している
-- [present](/word/present)：出席している
+- [contributing](/word/contributing/)：貢献している
+- [present](/word/present/)：出席している
 
 <!-- cvid: aid46_bid35 -->

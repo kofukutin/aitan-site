@@ -97,7 +97,7 @@ TOEICでは観光や文化、ファッションに関する長文やEメール�
 ## 🤔  engraving との違いは？
 
 - **tattoo**：皮膚にインクで模様や絵を入れること（入れ墨）
-- **[engraving](/word/engraving)**：金属や木などの表面に彫刻すること
+- **[engraving](/word/engraving/)**：金属や木などの表面に彫刻すること
 
 tattooは人の皮膚に施す装飾で、engravingは物体の表面に彫る装飾です。用途や対象が異なります。
 
@@ -105,14 +105,14 @@ tattooは人の皮膚に施す装飾で、engravingは物体の表面に彫る�
 
 ## 🧩 あわせて覚えたい
 
-- [piercing](/word/piercing)：ピアス、体に穴を開けて装飾すること
-- [scar](/word/scar)：傷跡
+- [piercing](/word/piercing/)：ピアス、体に穴を開けて装飾すること
+- [scar](/word/scar/)：傷跡
 
 ---
 
 ## 📖 できればこれも
 
-- [pattern](/word/pattern)：模様、パターン
-- [design](/word/design)：デザイン、図案
+- [pattern](/word/pattern/)：模様、パターン
+- [design](/word/design/)：デザイン、図案
 
 <!-- cvid: aid21_bid34 -->

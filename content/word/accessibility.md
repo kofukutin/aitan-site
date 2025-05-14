@@ -97,7 +97,7 @@ TOEICではウェブサイトや施設の説明文、案内文などで「access
 ## 🤔  availability との違いは？
 
 - **accessibility**：誰でも利用できる状態や、障害の有無に関係なく使いやすいことを強調
-- **[availability](/word/availability)**：利用可能な状態、手に入る・空いていることを強調
+- **[availability](/word/availability/)**：利用可能な状態、手に入る・空いていることを強調
 
 「accessibility」は「使いやすさ」や「到達しやすさ」に重点があり、「availability」は「利用できるかどうか（空き状況）」に重点があります。
 
@@ -105,14 +105,14 @@ TOEICではウェブサイトや施設の説明文、案内文などで「access
 
 ## 🧩 あわせて覚えたい
 
-- [convenience](/word/convenience)：便利さ、都合の良さ
-- [restriction](/word/restriction)：制限、制約
+- [convenience](/word/convenience/)：便利さ、都合の良さ
+- [restriction](/word/restriction/)：制限、制約
 
 ---
 
 ## 📖 できればこれも
 
-- [accessible](/word/accessible)：利用しやすい、アクセスできる
-- [approach](/word/approach)：接近する、取り組む方法
+- [accessible](/word/accessible/)：利用しやすい、アクセスできる
+- [approach](/word/approach/)：接近する、取り組む方法
 
 <!-- cvid: aid06_bid39 -->

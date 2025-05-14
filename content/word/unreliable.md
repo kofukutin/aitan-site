@@ -97,7 +97,7 @@ TOEICでは、信頼性や品質に関する文脈でunreliableが選択肢と�
 ## 🤔  inconsistent との違いは？
 
 - **unreliable**：信頼できない、当てにならない
-- **[inconsistent](/word/inconsistent)**：一貫性がない、矛盾している
+- **[inconsistent](/word/inconsistent/)**：一貫性がない、矛盾している
 
 unreliableは「信頼できない」という意味で、物や人が期待通りに動かない場合に使います。inconsistentは「一貫性がない」「矛盾している」という意味で、行動や結果がバラバラな場合に使います。
 
@@ -105,14 +105,14 @@ unreliableは「信頼できない」という意味で、物や人が期待通�
 
 ## 🧩 あわせて覚えたい
 
-- [dependable](/word/dependable)：頼りになる
-- [trustworthy](/word/trustworthy)：信頼できる
+- [dependable](/word/dependable/)：頼りになる
+- [trustworthy](/word/trustworthy/)：信頼できる
 
 ---
 
 ## 📖 できればこれも
 
-- [accurate](/word/accurate)：正確な
-- [efficient](/word/efficient)：効率的な
+- [accurate](/word/accurate/)：正確な
+- [efficient](/word/efficient/)：効率的な
 
 <!-- cvid: aid06_bid40 -->

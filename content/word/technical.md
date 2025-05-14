@@ -97,7 +97,7 @@ TOEICではITやビジネスの文脈で「technical support」「technical skil
 ## 🤔  technological との違いは？
 
 - **technical**：技術や専門分野に関する、実務的・実践的な内容を指す
-- **[technological](/word/technological)**：科学技術そのものや技術革新に関する
+- **[technological](/word/technological/)**：科学技術そのものや技術革新に関する
 
 「technical」は実際の技術や専門知識に焦点を当て、「technological」は科学技術やその進歩・発展に焦点を当てます。
 
@@ -105,14 +105,14 @@ TOEICではITやビジネスの文脈で「technical support」「technical skil
 
 ## 🧩 あわせて覚えたい
 
-- [practical](/word/practical)：実用的な
-- [mechanical](/word/mechanical)：機械の、機械的な
+- [practical](/word/practical/)：実用的な
+- [mechanical](/word/mechanical/)：機械の、機械的な
 
 ---
 
 ## 📖 できればこれも
 
-- [specific](/word/specific)：具体的な
-- [complex](/word/complex)：複雑な
+- [specific](/word/specific/)：具体的な
+- [complex](/word/complex/)：複雑な
 
 <!-- cvid: aid21_bid25 -->

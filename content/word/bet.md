@@ -98,7 +98,7 @@ TOEICでは会話文やカジュアルなやりとりで「bet」が使われる
 ## 🤔  gamble との違いは？
 
 - **bet**：具体的な金額や物を賭ける、または「きっと～だ」と断言する時にも使う
-- **[gamble](/word/gamble)**：リスクを取って賭け事をする、特に運や偶然に頼る場合に使う
+- **[gamble](/word/gamble/)**：リスクを取って賭け事をする、特に運や偶然に頼る場合に使う
 
 「bet」は日常会話で「きっと～だよ」と軽く使えるのに対し、「gamble」はリスクや運に頼る本格的な賭け事のニュアンスが強いです。
 
@@ -106,14 +106,14 @@ TOEICでは会話文やカジュアルなやりとりで「bet」が使われる
 
 ## 🧩 あわせて覚えたい
 
-- [wager](/word/wager)：賭ける（ややフォーマルな表現）
-- [risk](/word/risk)：危険を冒す、リスク
+- [wager](/word/wager/)：賭ける（ややフォーマルな表現）
+- [risk](/word/risk/)：危険を冒す、リスク
 
 ---
 
 ## 📖 できればこれも
 
-- [guess](/word/guess)：推測する
-- [promise](/word/promise)：約束する
+- [guess](/word/guess/)：推測する
+- [promise](/word/promise/)：約束する
 
 <!-- cvid: aid19_bid01 -->

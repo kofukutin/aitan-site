@@ -97,7 +97,7 @@ TOEICでは、商品説明やサービス案内、ビジネスメールなどで
 ## 🤔  personalized との違いは？
 
 - **customized**：特定の要望や仕様に合わせて調整・変更された
-- **[personalized](/word/personalized)**：個人の名前や特徴など、より個人に特化して作られた
+- **[personalized](/word/personalized/)**：個人の名前や特徴など、より個人に特化して作られた
 
 「customized」は幅広い要望や仕様への対応を指し、「personalized」は特に個人に焦点を当てたカスタマイズを意味します。
 
@@ -105,14 +105,14 @@ TOEICでは、商品説明やサービス案内、ビジネスメールなどで
 
 ## 🧩 あわせて覚えたい
 
-- [standard](/word/standard)：標準の、一般的な
-- [tailored](/word/tailored)：（特定の目的や人に）合わせた、仕立てられた
+- [standard](/word/standard/)：標準の、一般的な
+- [tailored](/word/tailored/)：（特定の目的や人に）合わせた、仕立てられた
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [unique](/word/unique)：唯一の、独自の
+- [efficient](/word/efficient/)：効率的な
+- [unique](/word/unique/)：唯一の、独自の
 
 <!-- cvid: aid18_bid16 -->

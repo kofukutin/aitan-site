@@ -98,7 +98,7 @@ TOEICでは「single room（シングルルーム）」や「a single item（1�
 ## 🤔  individual との違いは？
 
 - **single**：数や単独性を強調し、「1つだけ」「独身」などの意味で使う。
-- **[individual](/word/individual)**：個人や個体を強調し、「それぞれの」「個々の」という意味で使う。
+- **[individual](/word/individual/)**：個人や個体を強調し、「それぞれの」「個々の」という意味で使う。
 
 singleは「1つだけ」「単独」を表し、individualは「個人」「個体」としての独立性を表します。
 
@@ -106,14 +106,14 @@ singleは「1つだけ」「単独」を表し、individualは「個人」「個
 
 ## 🧩 あわせて覚えたい
 
-- [sole](/word/sole)：唯一の、ただ1つの
-- [double](/word/double)：2倍の、2人用の
+- [sole](/word/sole/)：唯一の、ただ1つの
+- [double](/word/double/)：2倍の、2人用の
 
 ---
 
 ## 📖 できればこれも
 
-- [alone](/word/alone)：1人で、単独で
-- [unique](/word/unique)：唯一の、独特な
+- [alone](/word/alone/)：1人で、単独で
+- [unique](/word/unique/)：唯一の、独特な
 
 <!-- cvid: aid21_bid26 -->

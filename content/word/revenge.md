@@ -97,7 +97,7 @@ TOEICではストーリーやビジネス上の対立を描写する長文で登
 ## 🤔  avenge との違いは？
 
 - **revenge**：自分や身近な人への仕返し・復讐（名詞として使う）
-- **[avenge](/word/avenge)**：正義や他人のために「復讐する」（動詞として使う）
+- **[avenge](/word/avenge/)**：正義や他人のために「復讐する」（動詞として使う）
 
 revengeは個人的な感情による復讐を指し、avengeは正義や他人のために行動するニュアンスがあります。
 
@@ -105,14 +105,14 @@ revengeは個人的な感情による復讐を指し、avengeは正義や他人�
 
 ## 🧩 あわせて覚えたい
 
-- [retaliation](/word/retaliation)：報復、仕返し
-- [forgive](/word/forgive)：許す
+- [retaliation](/word/retaliation/)：報復、仕返し
+- [forgive](/word/forgive/)：許す
 
 ---
 
 ## 📖 できればこれも
 
-- [justice](/word/justice)：正義
-- [punish](/word/punish)：罰する
+- [justice](/word/justice/)：正義
+- [punish](/word/punish/)：罰する
 
 <!-- cvid: aid39_bid33 -->

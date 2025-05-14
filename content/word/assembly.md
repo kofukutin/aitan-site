@@ -97,7 +97,7 @@ TOEICでは、工場やビジネスの文脈で「組み立て」や「集会」
 ## 🤔  meeting との違いは？
 
 - **assembly**：大人数が集まる公式な集会や、部品の組み立ての意味もある
-- **[meeting](/word/meeting)**：少人数から大人数まで幅広く使える「会議」「打ち合わせ」
+- **[meeting](/word/meeting/)**：少人数から大人数まで幅広く使える「会議」「打ち合わせ」
 
 assemblyは「公式な集会」や「組み立て」といったフォーマルな場面で使われ、meetingは日常的な会議や打ち合わせに幅広く使われます。
 
@@ -105,15 +105,15 @@ assemblyは「公式な集会」や「組み立て」といったフォーマル
 
 ## 🧩 あわせて覚えたい
 
-- [conference](/word/conference)：大規模な会議、学会
-- [gathering](/word/gathering)：集まり、会合
+- [conference](/word/conference/)：大規模な会議、学会
+- [gathering](/word/gathering/)：集まり、会合
 
 ---
 
 ## 📖 できればこれも
 
-- [committee](/word/committee)：委員会
-- [session](/word/session)：会議、集会、（ある活動の）時間
+- [committee](/word/committee/)：委員会
+- [session](/word/session/)：会議、集会、（ある活動の）時間
 
 ---
 <!-- cvid: aid32_bid31 -->

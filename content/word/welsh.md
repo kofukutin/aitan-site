@@ -96,7 +96,7 @@ TOEICではあまり一般的ではありませんが、契約や約束に関す
 ## 🤔  default との違いは？
 
 - **welsh**：主に口語的で、約束や借金を意図的に踏み倒すニュアンスが強い
-- **[default](/word/default)**：主に金融・法務で使われ、支払い義務を果たさないことを指す
+- **[default](/word/default/)**：主に金融・法務で使われ、支払い義務を果たさないことを指す
 
 welshはカジュアルで否定的な響きが強く、defaultはフォーマルな場面や契約違反に使われます。
 
@@ -104,14 +104,14 @@ welshはカジュアルで否定的な響きが強く、defaultはフォーマ�
 
 ## 🧩 あわせて覚えたい
 
-- [renege](/word/renege)：約束を破る
-- [fulfill](/word/fulfill)：（約束などを）果たす
+- [renege](/word/renege/)：約束を破る
+- [fulfill](/word/fulfill/)：（約束などを）果たす
 
 ---
 
 ## 📖 できればこれも
 
-- [comply](/word/comply)：従う、順守する
-- [breach](/word/breach)：違反する、破る
+- [comply](/word/comply/)：従う、順守する
+- [breach](/word/breach/)：違反する、破る
 
 <!-- cvid: aid10_bid38 -->

@@ -98,7 +98,7 @@ tackleはTOEICの会議や問題解決の場面でよく登場します。特に
 ## 🤔  address との違いは？
 
 - **tackle**：問題に積極的に立ち向かい、解決しようとするニュアンス
-- **[address](/word/address)**：問題や課題に「対処する」「取り上げる」というややフォーマルな表現
+- **[address](/word/address/)**：問題や課題に「対処する」「取り上げる」というややフォーマルな表現
 
 tackleは「力強く取り組む」印象があり、addressは「正式に対応する」場面で使われます。
 
@@ -106,14 +106,14 @@ tackleは「力強く取り組む」印象があり、addressは「正式に対�
 
 ## 🧩 あわせて覚えたい
 
-- [solve](/word/solve)：（問題を）解決する
-- [confront](/word/confront)：（困難などに）立ち向かう
+- [solve](/word/solve/)：（問題を）解決する
+- [confront](/word/confront/)：（困難などに）立ち向かう
 
 ---
 
 ## 📖 できればこれも
 
-- [handle](/word/handle)：（問題などを）扱う、処理する
-- [deal with](/word/deal_with)：（問題などに）対処する
+- [handle](/word/handle/)：（問題などを）扱う、処理する
+- [deal with](/word/deal_with/)：（問題などに）対処する
 
 <!-- cvid: aid37_bid29 -->

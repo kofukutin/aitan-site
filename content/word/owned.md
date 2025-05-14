@@ -98,7 +98,7 @@ TOEICでは、受動態や過去の所有を表す文脈で「owned」が出題�
 ## 🤔  possessed との違いは？
 
 - **owned**：単に「所有していた」「持っていた」という意味で、物や会社など幅広く使う。
-- **[possessed](/word/possessed)**：ややフォーマルで、特に「強く支配していた」「取り憑かれていた」など精神的・法的な所有にも使う。
+- **[possessed](/word/possessed/)**：ややフォーマルで、特に「強く支配していた」「取り憑かれていた」など精神的・法的な所有にも使う。
 
 「owned」は一般的な所有、「possessed」はより強い支配や精神的な意味合いを含む場合に使い分けます。
 
@@ -106,14 +106,14 @@ TOEICでは、受動態や過去の所有を表す文脈で「owned」が出題�
 
 ## 🧩 あわせて覚えたい
 
-- [lease](/word/lease)：賃貸する、貸借する
-- [acquire](/word/acquire)：取得する、手に入れる
+- [lease](/word/lease/)：賃貸する、貸借する
+- [acquire](/word/acquire/)：取得する、手に入れる
 
 ---
 
 ## 📖 できればこれも
 
-- [manage](/word/manage)：管理する、運営する
-- [purchase](/word/purchase)：購入する
+- [manage](/word/manage/)：管理する、運営する
+- [purchase](/word/purchase/)：購入する
 
 <!-- cvid: aid45_bid28 -->

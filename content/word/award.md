@@ -97,7 +97,7 @@ TOEICでは、表彰や契約の授与などビジネスシーンでの「award�
 ## 🤔  reward との違いは？
 
 - **award**：公式な場で与えられる賞や表彰
-- **[reward](/word/reward)**：努力や行動への報酬（必ずしも公式でなく、金銭や物の場合も多い）
+- **[reward](/word/reward/)**：努力や行動への報酬（必ずしも公式でなく、金銭や物の場合も多い）
 
 awardは「公式な賞」、rewardは「努力や善行への報酬」として使い分けます。
 
@@ -105,14 +105,14 @@ awardは「公式な賞」、rewardは「努力や善行への報酬」として
 
 ## 🧩 あわせて覚えたい
 
-- [prize](/word/prize)：競争や抽選で得る賞
-- [certificate](/word/certificate)：証明書、認定証
+- [prize](/word/prize/)：競争や抽選で得る賞
+- [certificate](/word/certificate/)：証明書、認定証
 
 ---
 
 ## 📖 できればこれも
 
-- [honor](/word/honor)：名誉、栄誉
-- [grant](/word/grant)：助成金、補助金
+- [honor](/word/honor/)：名誉、栄誉
+- [grant](/word/grant/)：助成金、補助金
 
 <!-- cvid: aid13_bid28 -->

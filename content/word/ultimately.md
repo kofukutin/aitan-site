@@ -93,7 +93,7 @@ ultimatelyはTOEICの長文読解（Part 7）で、結論や要点をまとめ�
 ## 🤔  finally との違いは？
 
 - **ultimately**：長い過程や議論の末に「最終的に」「結局」という意味で使う
-- **[finally](/word/finally)**：順序や待ち時間の末に「ついに」「やっと」という意味で使う
+- **[finally](/word/finally/)**：順序や待ち時間の末に「ついに」「やっと」という意味で使う
 
 ultimatelyは結論や最終判断を強調し、finallyは待望の瞬間や順序の最後を強調します。
 
@@ -101,14 +101,14 @@ ultimatelyは結論や最終判断を強調し、finallyは待望の瞬間や順
 
 ## 🧩 あわせて覚えたい
 
-- [eventually](/word/eventually)：やがて、最終的に
-- [initially](/word/initially)：最初は
+- [eventually](/word/eventually/)：やがて、最終的に
+- [initially](/word/initially/)：最初は
 
 ---
 
 ## 📖 できればこれも
 
-- [therefore](/word/therefore)：それゆえに
-- [consequently](/word/consequently)：その結果として
+- [therefore](/word/therefore/)：それゆえに
+- [consequently](/word/consequently/)：その結果として
 
 <!-- cvid: aid46_bid35 -->

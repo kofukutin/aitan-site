@@ -97,7 +97,7 @@ TOEICでは、資格や認定、公式な証明に関する文脈で頻出しま
 ## 🤔  qualified との違いは？
 
 - **certified**：公式に認定・証明されたことを強調
-- **[qualified](/word/qualified)**：必要な資格や能力を持っていることを強調
+- **[qualified](/word/qualified/)**：必要な資格や能力を持っていることを強調
 
 「certified」は第三者機関による公式な認定がある場合に使い、「qualified」は能力や条件を満たしている場合に幅広く使います。
 
@@ -105,14 +105,14 @@ TOEICでは、資格や認定、公式な証明に関する文脈で頻出しま
 
 ## 🧩 あわせて覚えたい
 
-- [licensed](/word/licensed)：免許を持った、公認の
-- [approved](/word/approved)：承認された、認可された
+- [licensed](/word/licensed/)：免許を持った、公認の
+- [approved](/word/approved/)：承認された、認可された
 
 ---
 
 ## 📖 できればこれも
 
-- [eligible](/word/eligible)：資格がある、適格な
-- [authorized](/word/authorized)：権限のある、認可された
+- [eligible](/word/eligible/)：資格がある、適格な
+- [authorized](/word/authorized/)：権限のある、認可された
 
 <!-- cvid: aid39_bid03 -->

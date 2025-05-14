@@ -97,7 +97,7 @@ TOEICでは環境問題や社会的な話題を扱う長文でよく登場しま
 ## 🤔  extinct との違いは？
 
 - **endangered**：絶滅の危機にある（まだ存在しているが、消滅しそうな状態）
-- **[extinct](/word/extinct)**：絶滅した（すでに存在しない）
+- **[extinct](/word/extinct/)**：絶滅した（すでに存在しない）
 
 endangeredは「まだ存在しているが危険な状態」、extinctは「すでに完全に消滅した」という違いがあります。
 
@@ -105,14 +105,14 @@ endangeredは「まだ存在しているが危険な状態」、extinctは「す
 
 ## 🧩 あわせて覚えたい
 
-- [threatened](/word/threatened)：絶滅の恐れがある
-- [vulnerable](/word/vulnerable)：弱い、傷つきやすい（絶滅危惧の一段階手前）
+- [threatened](/word/threatened/)：絶滅の恐れがある
+- [vulnerable](/word/vulnerable/)：弱い、傷つきやすい（絶滅危惧の一段階手前）
 
 ---
 
 ## 📖 できればこれも
 
-- [conservation](/word/conservation)：保護、保存
-- [preserve](/word/preserve)：保護する、守る
+- [conservation](/word/conservation/)：保護、保存
+- [preserve](/word/preserve/)：保護する、守る
 
 <!-- cvid: aid19_bid02 -->

@@ -94,7 +94,7 @@ TOEICでは副詞の語順や頻度を問う文法問題でよく出題されま
 ## 🤔  seldom との違いは？
 
 - **rarely**：ややフォーマルで、日常会話・ビジネスどちらでも使える「めったに～ない」
-- **[seldom](/word/seldom)**：rarelyよりさらに堅い印象で、書き言葉やフォーマルな場面で使われやすい
+- **[seldom](/word/seldom/)**：rarelyよりさらに堅い印象で、書き言葉やフォーマルな場面で使われやすい
 
 rarelyはseldomよりもやや口語的で、現代英語ではrarelyの方が一般的に使われます。
 
@@ -102,14 +102,14 @@ rarelyはseldomよりもやや口語的で、現代英語ではrarelyの方が�
 
 ## 🧩 あわせて覚えたい
 
-- [frequently](/word/frequently)：頻繁に
-- [occasionally](/word/occasionally)：時々
+- [frequently](/word/frequently/)：頻繁に
+- [occasionally](/word/occasionally/)：時々
 
 ---
 
 ## 📖 できればこれも
 
-- [barely](/word/barely)：かろうじて、ほとんど～ない
-- [hardly](/word/hardly)：ほとんど～ない
+- [barely](/word/barely/)：かろうじて、ほとんど～ない
+- [hardly](/word/hardly/)：ほとんど～ない
 
 <!-- cvid: aid17_bid34 -->

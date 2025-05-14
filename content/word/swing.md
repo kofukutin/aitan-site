@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で「ブランコに乗る」「ドアを
 ## 🤔  sway との違いは？
 
 - **swing**：大きく前後・左右に揺れる、勢いよく振る
-- **[sway](/word/sway)**：ゆっくりと小さく揺れる、影響を与える
+- **[sway](/word/sway/)**：ゆっくりと小さく揺れる、影響を与える
 
 swingは動きが大きく勢いがある時に使い、swayはゆっくり小さく揺れる場合や「心を動かす」など比喩的にも使います。
 
@@ -106,14 +106,14 @@ swingは動きが大きく勢いがある時に使い、swayはゆっくり小�
 
 ## 🧩 あわせて覚えたい
 
-- [hang](/word/hang)：吊るす、ぶら下げる
-- [rotate](/word/rotate)：回転する
+- [hang](/word/hang/)：吊るす、ぶら下げる
+- [rotate](/word/rotate/)：回転する
 
 ---
 
 ## 📖 できればこれも
 
-- [shake](/word/shake)：振る、揺らす
-- [move](/word/move)：動く、移動する
+- [shake](/word/shake/)：振る、揺らす
+- [move](/word/move/)：動く、移動する
 
 <!-- cvid: aid22_bid39 -->

@@ -97,7 +97,7 @@ TOEICでは、オフィスや施設の説明、収納や保管に関する文脈
 ## 🤔  section との違いは？
 
 - **compartment**：物理的に仕切られた空間や区画を指す
-- **[section](/word/section)**：全体の一部分や区分、章など広い意味で使う
+- **[section](/word/section/)**：全体の一部分や区分、章など広い意味で使う
 
 compartmentは実際に仕切られている空間に使い、sectionは物理的・抽象的な「部分」に幅広く使います。
 
@@ -105,14 +105,14 @@ compartmentは実際に仕切られている空間に使い、sectionは物理�
 
 ## 🧩 あわせて覚えたい
 
-- [division](/word/division)：分割、部門
-- [container](/word/container)：容器、入れ物
+- [division](/word/division/)：分割、部門
+- [container](/word/container/)：容器、入れ物
 
 ---
 
 ## 📖 できればこれも
 
-- [facility](/word/facility)：設備、施設
-- [storage](/word/storage)：保管、収納
+- [facility](/word/facility/)：設備、施設
+- [storage](/word/storage/)：保管、収納
 
 <!-- cvid: aid15_bid25 -->

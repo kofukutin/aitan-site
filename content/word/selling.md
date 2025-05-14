@@ -97,7 +97,7 @@ TOEICではビジネスの会話や説明文で「販売活動」や「売るこ
 ## 🤔  sales との違いは？
 
 - **selling**：販売という行為やプロセス自体を指す
-- **[sales](/word/sales)**：売上高や販売数、または営業部門を指す
+- **[sales](/word/sales/)**：売上高や販売数、または営業部門を指す
 
 sellingは「売る活動」そのもの、salesは「売れた結果」や「営業部門」を意味し、使い分けが必要です。
 
@@ -105,14 +105,14 @@ sellingは「売る活動」そのもの、salesは「売れた結果」や「�
 
 ## 🧩 あわせて覚えたい
 
-- [purchase](/word/purchase)：購入、買うこと
-- [marketing](/word/marketing)：マーケティング、販売促進活動
+- [purchase](/word/purchase/)：購入、買うこと
+- [marketing](/word/marketing/)：マーケティング、販売促進活動
 
 ---
 
 ## 📖 できればこれも
 
-- [buyer](/word/buyer)：買い手、購入者
-- [promotion](/word/promotion)：販促、昇進
+- [buyer](/word/buyer/)：買い手、購入者
+- [promotion](/word/promotion/)：販促、昇進
 
 <!-- cvid: aid41_bid00 -->

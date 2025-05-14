@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、山や壁を登っている場面の
 ## 🤔  hiking との違いは？
 
 - **climbing**：山や岩などを「登る」こと、特に傾斜のある場所を登るアクティビティ
-- **[hiking](/word/hiking)**：山道や自然の中を「歩く」こと、必ずしも登るとは限らない
+- **[hiking](/word/hiking/)**：山道や自然の中を「歩く」こと、必ずしも登るとは限らない
 
 climbingは「登る」動作が中心で、hikingは「歩く」ことが中心という違いがあります。
 
@@ -105,14 +105,14 @@ climbingは「登る」動作が中心で、hikingは「歩く」ことが中心
 
 ## 🧩 あわせて覚えたい
 
-- [mountaineering](/word/mountaineering)：本格的な登山
-- [ascend](/word/ascend)：登る、上昇する
+- [mountaineering](/word/mountaineering/)：本格的な登山
+- [ascend](/word/ascend/)：登る、上昇する
 
 ---
 
 ## 📖 できればこれも
 
-- [adventure](/word/adventure)：冒険
-- [explore](/word/explore)：探検する
+- [adventure](/word/adventure/)：冒険
+- [explore](/word/explore/)：探検する
 
 <!-- cvid: aid11_bid17 -->

@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写で「空気」「大気」や「空港」「飛
 ## 🤔  atmosphere との違いは？
 
 - **air**：呼吸できる「空気」や、物理的な「大気」を指す。
-- **[atmosphere](/word/atmosphere)**：地球全体を包む「大気」や、比喩的に「雰囲気」を強調する。
+- **[atmosphere](/word/atmosphere/)**：地球全体を包む「大気」や、比喩的に「雰囲気」を強調する。
 
 airは日常的な「空気」、atmosphereは科学的・比喩的な「大気」や「雰囲気」に使い分けます。
 
@@ -105,14 +105,14 @@ airは日常的な「空気」、atmosphereは科学的・比喩的な「大気�
 
 ## 🧩 あわせて覚えたい
 
-- [oxygen](/word/oxygen)：酸素
-- [wind](/word/wind)：風
+- [oxygen](/word/oxygen/)：酸素
+- [wind](/word/wind/)：風
 
 ---
 
 ## 📖 できればこれも
 
-- [water](/word/water)：水
-- [cloud](/word/cloud)：雲
+- [water](/word/water/)：水
+- [cloud](/word/cloud/)：雲
 
 <!-- cvid: aid31_bid42 -->

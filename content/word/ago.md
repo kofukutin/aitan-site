@@ -96,7 +96,7 @@ TOEICでは、日付や時間を尋ねる・答える場面で頻出します。
 ## 🤔  before との違いは？
 
 - **ago**：今から～前に（現在を基準にした過去の時点）
-- **[before](/word/before)**：ある時点より前に（基準となる時点が現在とは限らない）
+- **[before](/word/before/)**：ある時点より前に（基準となる時点が現在とは限らない）
 
 「ago」は必ず現在を基準にし、「before」は文中の他の出来事や時点を基準にします。
 
@@ -104,14 +104,14 @@ TOEICでは、日付や時間を尋ねる・答える場面で頻出します。
 
 ## 🧩 あわせて覚えたい
 
-- [since](/word/since)：～以来
-- [previous](/word/previous)：前の、以前の
+- [since](/word/since/)：～以来
+- [previous](/word/previous/)：前の、以前の
 
 ---
 
 ## 📖 できればこれも
 
-- [later](/word/later)：あとで、後に
-- [recently](/word/recently)：最近
+- [later](/word/later/)：あとで、後に
+- [recently](/word/recently/)：最近
 
 <!-- cvid: aid13_bid48 -->

@@ -97,7 +97,7 @@ TOEICでは「excess baggage（超過手荷物）」や「excess inventory（余
 ## 🤔  surplus との違いは？
 
 - **excess**：必要以上に多いこと、否定的な「過剰」
-- **[surplus](/word/surplus)**：余剰、使いきれずに残った「余り」
+- **[surplus](/word/surplus/)**：余剰、使いきれずに残った「余り」
 
 **excess**は「行き過ぎ」「過度」といったマイナスの意味合いが強く、**surplus**は「余った分」「黒字」など中立～肯定的な場面でも使われます。
 
@@ -105,14 +105,14 @@ TOEICでは「excess baggage（超過手荷物）」や「excess inventory（余
 
 ## 🧩 あわせて覚えたい
 
-- [shortage](/word/shortage)：不足
-- [deficit](/word/deficit)：赤字、不足額
+- [shortage](/word/shortage/)：不足
+- [deficit](/word/deficit/)：赤字、不足額
 
 ---
 
 ## 📖 できればこれも
 
-- [shortage](/word/shortage)：不足
-- [waste](/word/waste)：無駄、浪費
+- [shortage](/word/shortage/)：不足
+- [waste](/word/waste/)：無駄、浪費
 
 <!-- cvid: aid21_bid34 -->

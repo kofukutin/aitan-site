@@ -98,7 +98,7 @@ ITやビジネス文書の中で「周辺機器」や「重要度の低い事項
 ## 🤔  accessory との違いは？
 
 - **peripheral**：中心から離れた、周辺の、またはIT機器の「周辺機器」
-- **[accessory](/word/accessory)**：付属品、装飾品、補助的なもの
+- **[accessory](/word/accessory/)**：付属品、装飾品、補助的なもの
 
 peripheralは「中心から外れた位置」や「本体の外側にあるもの」を指し、accessoryは「本体を補助・装飾する付属品」というニュアンスです。
 
@@ -106,14 +106,14 @@ peripheralは「中心から外れた位置」や「本体の外側にあるも�
 
 ## 🧩 あわせて覚えたい
 
-- [external](/word/external)：外部の、外側の
-- [tangential](/word/tangential)：ほとんど関係のない、接線的な
+- [external](/word/external/)：外部の、外側の
+- [tangential](/word/tangential/)：ほとんど関係のない、接線的な
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device)：装置、機器
-- [component](/word/component)：構成要素、部品
+- [device](/word/device/)：装置、機器
+- [component](/word/component/)：構成要素、部品
 
 <!-- cvid: aid38_bid36 -->

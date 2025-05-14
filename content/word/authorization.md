@@ -97,7 +97,7 @@ TOEICでは主にメールや社内文書、IT関連の長文で「許可」「�
 ## 🤔  permission との違いは？
 
 - **authorization**：正式な手続きや権限付与を強調し、特にビジネスやITで使われる
-- **[permission](/word/permission)**：一般的な「許可」で、日常的な場面でも幅広く使う
+- **[permission](/word/permission/)**：一般的な「許可」で、日常的な場面でも幅広く使う
 
 authorizationは公式な権限や手続きのニュアンスが強く、permissionはもっと広く「許可」を表します。
 
@@ -105,14 +105,14 @@ authorizationは公式な権限や手続きのニュアンスが強く、permiss
 
 ## 🧩 あわせて覚えたい
 
-- [approval](/word/approval)：承認
-- [certification](/word/certification)：証明、認証
+- [approval](/word/approval/)：承認
+- [certification](/word/certification/)：証明、認証
 
 ---
 
 ## 📖 できればこれも
 
-- [access](/word/access)：アクセス、接近
-- [authentication](/word/authentication)：認証
+- [access](/word/access/)：アクセス、接近
+- [authentication](/word/authentication/)：認証
 
 <!-- cvid: aid40_bid04 -->

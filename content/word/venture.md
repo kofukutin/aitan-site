@@ -97,7 +97,7 @@ TOEICでは主にビジネス記事や会社紹介文などで登場し、新規
 ## 🤔  invest との違いは？
 
 - **venture**：リスクを伴う新しい事業や挑戦的なプロジェクトそのもの
-- **[invest](/word/invest)**：お金や時間などを投資する行為
+- **[invest](/word/invest/)**：お金や時間などを投資する行為
 
 「venture」は"事業"や"挑戦"自体を指し、「invest」はその事業などに"投資する"行為を表します。
 
@@ -105,14 +105,14 @@ TOEICでは主にビジネス記事や会社紹介文などで登場し、新規
 
 ## 🧩 あわせて覚えたい
 
-- [risk](/word/risk)：リスク、危険
-- [startup](/word/startup)：スタートアップ、新興企業
+- [risk](/word/risk/)：リスク、危険
+- [startup](/word/startup/)：スタートアップ、新興企業
 
 ---
 
 ## 📖 できればこれも
 
-- [capital](/word/capital)：資本、元金
-- [enterprise](/word/enterprise)：企業、事業
+- [capital](/word/capital/)：資本、元金
+- [enterprise](/word/enterprise/)：企業、事業
 
 <!-- cvid: aid48_bid11 -->

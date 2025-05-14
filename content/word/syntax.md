@@ -98,7 +98,7 @@ ITや言語に関する説明文やマニュアルで出題されることが多
 ## 🤔  grammar との違いは？
 
 - **syntax**：語や記号の並び方・構造に関するルール
-- **[grammar](/word/grammar)**：語の形や使い方も含めた言語全体のルール
+- **[grammar](/word/grammar/)**：語の形や使い方も含めた言語全体のルール
 
 syntaxは「並び順や構造」に特化し、grammarは「語形変化や意味」も含む広い概念です。
 
@@ -106,14 +106,14 @@ syntaxは「並び順や構造」に特化し、grammarは「語形変化や意�
 
 ## 🧩 あわせて覚えたい
 
-- [structure](/word/structure)：構造、仕組み
-- [semantics](/word/semantics)：意味論、意味
+- [structure](/word/structure/)：構造、仕組み
+- [semantics](/word/semantics/)：意味論、意味
 
 ---
 
 ## 📖 できればこれも
 
-- [format](/word/format)：書式、形式
-- [protocol](/word/protocol)：通信規約、手順
+- [format](/word/format/)：書式、形式
+- [protocol](/word/protocol/)：通信規約、手順
 
 <!-- cvid: aid47_bid04 -->

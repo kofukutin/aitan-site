@@ -96,7 +96,7 @@ TOEICではPart 1の写真描写で、食べ物や食卓のシーンで登場す
 ## 🤔  butter との違いは？
 
 - **cheese**：牛乳などを発酵・凝固させて作る固形の乳製品。
-- **[butter](/word/butter)**：牛乳や生クリームを撹拌して作る、パンなどに塗る柔らかい乳製品。
+- **[butter](/word/butter/)**：牛乳や生クリームを撹拌して作る、パンなどに塗る柔らかい乳製品。
 
 cheeseは発酵・凝固による固形食品、butterは撹拌によるクリーミーな食品で、用途や食感が異なります。
 
@@ -104,14 +104,14 @@ cheeseは発酵・凝固による固形食品、butterは撹拌によるクリ�
 
 ## 🧩 あわせて覚えたい
 
-- [milk](/word/milk)：牛乳
-- [yogurt](/word/yogurt)：ヨーグルト
+- [milk](/word/milk/)：牛乳
+- [yogurt](/word/yogurt/)：ヨーグルト
 
 ---
 
 ## 📖 できればこれも
 
-- [bread](/word/bread)：パン
-- [egg](/word/egg)：卵
+- [bread](/word/bread/)：パン
+- [egg](/word/egg/)：卵
 
 <!-- cvid: aid05_bid16 -->

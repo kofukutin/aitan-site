@@ -96,7 +96,7 @@ TOEICではメールやアンケート、会議の議事録などで「意見」
 ## 🤔  comment との違いは？
 
 - **feedback**：全体的な評価や改善点など、建設的な意見や反応を指す
-- **[comment](/word/comment)**：一言の感想や短い意見、単なる発言も含む
+- **[comment](/word/comment/)**：一言の感想や短い意見、単なる発言も含む
 
 feedbackは相手の成長や改善を目的とした意見で、commentは単なる感想や発言にも使われます。
 
@@ -104,14 +104,14 @@ feedbackは相手の成長や改善を目的とした意見で、commentは単�
 
 ## 🧩 あわせて覚えたい
 
-- [advice](/word/advice)：助言、アドバイス
-- [response](/word/response)：返答、反応
+- [advice](/word/advice/)：助言、アドバイス
+- [response](/word/response/)：返答、反応
 
 ---
 
 ## 📖 できればこれも
 
-- [suggestion](/word/suggestion)：提案
-- [input](/word/input)：意見、入力
+- [suggestion](/word/suggestion/)：提案
+- [input](/word/input/)：意見、入力
 
 <!-- cvid: aid20_bid41 -->

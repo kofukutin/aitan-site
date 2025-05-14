@@ -97,7 +97,7 @@ TOEICでは、空港や受付、サービスカウンターなどで「列に並
 ## 🤔  line との違いは？
 
 - **queue**：イギリス英語で「列」「順番待ち」を表し、ややフォーマルな響き。
-- **[line](/word/line)**：アメリカ英語で「列」を表し、日常会話でよく使われる。
+- **[line](/word/line/)**：アメリカ英語で「列」を表し、日常会話でよく使われる。
 
 queueはイギリス英語でフォーマルな場面やビジネスでも使われますが、lineはアメリカ英語でカジュアルに使われます。
 
@@ -105,14 +105,14 @@ queueはイギリス英語でフォーマルな場面やビジネスでも使わ
 
 ## 🧩 あわせて覚えたい
 
-- [wait](/word/wait)：待つ
-- [reservation](/word/reservation)：予約
+- [wait](/word/wait/)：待つ
+- [reservation](/word/reservation/)：予約
 
 ---
 
 ## 📖 できればこれも
 
-- [appointment](/word/appointment)：予約、約束
-- [schedule](/word/schedule)：予定、スケジュール
+- [appointment](/word/appointment/)：予約、約束
+- [schedule](/word/schedule/)：予定、スケジュール
 
 <!-- cvid: aid18_bid49 -->

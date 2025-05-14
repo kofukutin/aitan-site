@@ -97,7 +97,7 @@ parallelはITやビジネス分野の説明文、図表の説明などで出題�
 ## 🤔  similar との違いは？
 
 - **parallel**：物理的・抽象的に「平行」「同時進行」「類似点がある」ことを表す
-- **[similar](/word/similar)**：単に「似ている」「類似している」ことを表す
+- **[similar](/word/similar/)**：単に「似ている」「類似している」ことを表す
 
 parallelは「平行」や「同時進行」といった構造的な一致や並びを強調し、similarは見た目や性質が「似ている」場合に使います。
 
@@ -105,14 +105,14 @@ parallelは「平行」や「同時進行」といった構造的な一致や並
 
 ## 🧩 あわせて覚えたい
 
-- [perpendicular](/word/perpendicular)：垂直の
-- [equivalent](/word/equivalent)：同等の、同価値の
+- [perpendicular](/word/perpendicular/)：垂直の
+- [equivalent](/word/equivalent/)：同等の、同価値の
 
 ---
 
 ## 📖 できればこれも
 
-- [horizontal](/word/horizontal)：水平の
-- [vertical](/word/vertical)：垂直の
+- [horizontal](/word/horizontal/)：水平の
+- [vertical](/word/vertical/)：垂直の
 
 <!-- cvid: aid20_bid20 -->

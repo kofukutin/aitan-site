@@ -98,7 +98,7 @@ TOEICでは「理想的な条件」「最適な人材」など、ビジネスシ
 ## 🤔  perfect との違いは？
 
 - **ideal**：現実的に最も望ましい、理想的な
-- **[perfect](/word/perfect)**：完全無欠で欠点がない
+- **[perfect](/word/perfect/)**：完全無欠で欠点がない
 
 「ideal」は現実的な最善や理想像を指し、「perfect」は欠点が全くない状態を強調します。
 
@@ -106,14 +106,14 @@ TOEICでは「理想的な条件」「最適な人材」など、ビジネスシ
 
 ## 🧩 あわせて覚えたい
 
-- [optimal](/word/optimal)：最適な
-- [practical](/word/practical)：実用的な
+- [optimal](/word/optimal/)：最適な
+- [practical](/word/practical/)：実用的な
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [suitable](/word/suitable)：適した
+- [efficient](/word/efficient/)：効率的な
+- [suitable](/word/suitable/)：適した
 
 <!-- cvid: aid01_bid25 -->

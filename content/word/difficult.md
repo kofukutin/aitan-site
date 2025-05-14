@@ -97,7 +97,7 @@ TOEICでは、選択肢の形容詞問題や、難易度を表す表現として
 ## 🤔  hard との違いは？
 
 - **difficult**：知識や技術、理解が必要で「難しい」と感じるときに使う
-- **[hard](/word/hard)**：物理的・精神的に「大変」「きつい」と感じるときに使う
+- **[hard](/word/hard/)**：物理的・精神的に「大変」「きつい」と感じるときに使う
 
 「difficult」は知的・抽象的な困難さ、「hard」は努力や体力が必要な大変さを表します。
 
@@ -105,14 +105,14 @@ TOEICでは、選択肢の形容詞問題や、難易度を表す表現として
 
 ## 🧩 あわせて覚えたい
 
-- [easy](/word/easy)：簡単な
-- [complicated](/word/complicated)：複雑な
+- [easy](/word/easy/)：簡単な
+- [complicated](/word/complicated/)：複雑な
 
 ---
 
 ## 📖 できればこれも
 
-- [simple](/word/simple)：単純な
-- [challenging](/word/challenging)：やりがいのある、難しい
+- [simple](/word/simple/)：単純な
+- [challenging](/word/challenging/)：やりがいのある、難しい
 
 <!-- cvid: aid45_bid17 -->

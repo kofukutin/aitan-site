@@ -97,7 +97,7 @@ TOEICでは、数量や金額の増減を表す文脈で「double」がよく出
 ## 🤔  duplicate との違いは？
 
 - **double**：数量や規模を「2倍にする」こと。
-- **[duplicate](/word/duplicate)**：まったく同じものを「複製する」こと。
+- **[duplicate](/word/duplicate/)**：まったく同じものを「複製する」こと。
 
 「double」は数や量を増やすとき、「duplicate」はコピーや複製を作るときに使います。
 
@@ -105,14 +105,14 @@ TOEICでは、数量や金額の増減を表す文脈で「double」がよく出
 
 ## 🧩 あわせて覚えたい
 
-- [halve](/word/halve)：半分にする
-- [increase](/word/increase)：増やす
+- [halve](/word/halve/)：半分にする
+- [increase](/word/increase/)：増やす
 
 ---
 
 ## 📖 できればこれも
 
-- [reduce](/word/reduce)：減らす
-- [expand](/word/expand)：拡大する
+- [reduce](/word/reduce/)：減らす
+- [expand](/word/expand/)：拡大する
 
 <!-- cvid: aid32_bid05 -->

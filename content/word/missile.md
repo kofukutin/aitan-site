@@ -97,7 +97,7 @@ TOEICでは科学技術や軍事関連の記事、説明文で登場すること
 ## 🤔  rocket との違いは？
 
 - **missile**：目標に向かって発射される誘導兵器や発射体
-- **[rocket](/word/rocket)**：推進装置としてのロケット、宇宙や花火など幅広い用途
+- **[rocket](/word/rocket/)**：推進装置としてのロケット、宇宙や花火など幅広い用途
 
 missileは軍事目的の誘導兵器を指すことが多く、rocketは推進装置や宇宙開発など幅広い分野で使われます。
 
@@ -105,14 +105,14 @@ missileは軍事目的の誘導兵器を指すことが多く、rocketは推進�
 
 ## 🧩 あわせて覚えたい
 
-- [projectile](/word/projectile)：発射体、飛翔体
-- [weapon](/word/weapon)：武器
+- [projectile](/word/projectile/)：発射体、飛翔体
+- [weapon](/word/weapon/)：武器
 
 ---
 
 ## 📖 できればこれも
 
-- [satellite](/word/satellite)：人工衛星
-- [launch](/word/launch)：発射する、開始する
+- [satellite](/word/satellite/)：人工衛星
+- [launch](/word/launch/)：発射する、開始する
 
 <!-- cvid: aid42_bid49 -->

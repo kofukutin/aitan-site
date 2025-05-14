@@ -97,7 +97,7 @@ TOEICでは空港や旅行、出張の会話で「plane」が登場します。�
 ## 🤔  airplane との違いは？
 
 - **plane**：カジュアルな「飛行機」の言い方。日常会話でよく使う。
-- **[airplane](/word/airplane)**：より正式な「飛行機」。アメリカ英語で一般的。
+- **[airplane](/word/airplane/)**：より正式な「飛行機」。アメリカ英語で一般的。
 
 planeは短くて口語的、airplaneはフォーマルまたは書き言葉で使われやすい違いがあります。
 
@@ -105,14 +105,14 @@ planeは短くて口語的、airplaneはフォーマルまたは書き言葉で�
 
 ## 🧩 あわせて覚えたい
 
-- [flight](/word/flight)：飛行、フライト
-- [train](/word/train)：列車
+- [flight](/word/flight/)：飛行、フライト
+- [train](/word/train/)：列車
 
 ---
 
 ## 📖 できればこれも
 
-- [bus](/word/bus)：バス
-- [trip](/word/trip)：旅行
+- [bus](/word/bus/)：バス
+- [trip](/word/trip/)：旅行
 
 <!-- cvid: aid34_bid18 -->

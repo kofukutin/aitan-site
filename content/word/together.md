@@ -96,7 +96,7 @@ We finished the project together.
 ## 🤔  with との違いは？
 
 - **together**：人や物が「一緒に」行動したり存在したりすることを強調
-- **[with](/word/with)**：単に「～と一緒に」「～を使って」という意味で、関係性や手段を表す
+- **[with](/word/with/)**：単に「～と一緒に」「～を使って」という意味で、関係性や手段を表す
 
 togetherは「協力して」「同時に」というニュアンスが強く、withは単なる同伴や手段を表します。
 
@@ -104,14 +104,14 @@ togetherは「協力して」「同時に」というニュアンスが強く、
 
 ## 🧩 あわせて覚えたい
 
-- [apart](/word/apart)：離れて
-- [combine](/word/combine)：結合する
+- [apart](/word/apart/)：離れて
+- [combine](/word/combine/)：結合する
 
 ---
 
 ## 📖 できればこれも
 
-- [alone](/word/alone)：一人で
-- [separately](/word/separately)：別々に
+- [alone](/word/alone/)：一人で
+- [separately](/word/separately/)：別々に
 
 <!-- cvid: aid17_bid38 -->

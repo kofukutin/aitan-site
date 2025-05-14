@@ -97,7 +97,7 @@ TOEICでは、家族や成長、教育に関する長文やエッセイで登場
 ## 🤔  adolescence との違いは？
 
 - **childhood**：思春期前までの子供時代全般を指す
-- **[adolescence](/word/adolescence)**：思春期（おおよそ12～18歳）を指す
+- **[adolescence](/word/adolescence/)**：思春期（おおよそ12～18歳）を指す
 
 childhoodは幼少期全体を指し、adolescenceは心身が大人へと成長する思春期を特に表します。
 
@@ -105,14 +105,14 @@ childhoodは幼少期全体を指し、adolescenceは心身が大人へと成長
 
 ## 🧩 あわせて覚えたい
 
-- [infancy](/word/infancy)：乳児期、幼児期
-- [adulthood](/word/adulthood)：成人期、大人になった時期
+- [infancy](/word/infancy/)：乳児期、幼児期
+- [adulthood](/word/adulthood/)：成人期、大人になった時期
 
 ---
 
 ## 📖 できればこれも
 
-- [teenager](/word/teenager)：10代の若者
-- [memory](/word/memory)：記憶、思い出
+- [teenager](/word/teenager/)：10代の若者
+- [memory](/word/memory/)：記憶、思い出
 
 <!-- cvid: aid38_bid39 -->

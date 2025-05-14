@@ -97,7 +97,7 @@ TOEICではビジネス文書やメール、契約書などで頻出します。
 ## 🤔  supplier との違いは？
 
 - **manufacturer**：製品を実際に作る会社や工場
-- **[supplier](/word/supplier)**：商品や原材料を供給する業者（必ずしも製造者ではない）
+- **[supplier](/word/supplier/)**：商品や原材料を供給する業者（必ずしも製造者ではない）
 
 manufacturerは「作る側」、supplierは「届ける側」という違いがあります。
 
@@ -105,13 +105,13 @@ manufacturerは「作る側」、supplierは「届ける側」という違いが
 
 ## 🧩 あわせて覚えたい
 
-- [distributor](/word/distributor)：流通業者、卸売業者
-- [retailer](/word/retailer)：小売業者
+- [distributor](/word/distributor/)：流通業者、卸売業者
+- [retailer](/word/retailer/)：小売業者
 
 ---
 
 ## 📖 できればこれも
 
-- [factory](/word/factory)：工場
-- [production](/word/production)：生産、製造
+- [factory](/word/factory/)：工場
+- [production](/word/production/)：生産、製造
 <!-- cvid: aid23_bid13 -->

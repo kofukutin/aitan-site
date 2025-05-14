@@ -97,7 +97,7 @@ TOEICでは、記事やレポート、説明文などで「事実に基づいた
 ## 🤔  actual との違いは？
 
 - **factual**：事実に基づいた、客観的な
-- **[actual](/word/actual)**：実際の、現実の
+- **[actual](/word/actual/)**：実際の、現実の
 
 **factual**は「事実に基づいている」ことを強調し、**actual**は「本当に存在する」「現実の」ことを指します。たとえば、factualは情報や記述の正確性、actualは現物や現状を表す際に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、記事やレポート、説明文などで「事実に基づいた
 
 ## 🧩 あわせて覚えたい
 
-- [objective](/word/objective)：客観的な
-- [fictional](/word/fictional)：架空の、作り話の
+- [objective](/word/objective/)：客観的な
+- [fictional](/word/fictional/)：架空の、作り話の
 
 ---
 
 ## 📖 できればこれも
 
-- [accurate](/word/accurate)：正確な
-- [reliable](/word/reliable)：信頼できる
+- [accurate](/word/accurate/)：正確な
+- [reliable](/word/reliable/)：信頼できる
 
 <!-- cvid: aid02_bid35 -->

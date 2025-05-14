@@ -97,7 +97,7 @@ TOEICでは主に科学やIT関連の記事、説明文で登場します。日�
 ## 🤔  insect との違いは？
 
 - **worm**：足がなく細長い虫（ミミズや寄生虫など）を指す
-- **[insect](/word/insect)**：昆虫（アリやハチなど、体が3つに分かれ6本足の生き物）
+- **[insect](/word/insect/)**：昆虫（アリやハチなど、体が3つに分かれ6本足の生き物）
 
 wormは「細長い虫」全般、insectは「昆虫」という生物学的な分類で、見た目や体の構造が異なります。
 
@@ -105,14 +105,14 @@ wormは「細長い虫」全般、insectは「昆虫」という生物学的な�
 
 ## 🧩 あわせて覚えたい
 
-- [larva](/word/larva)：幼虫
-- [parasite](/word/parasite)：寄生虫
+- [larva](/word/larva/)：幼虫
+- [parasite](/word/parasite/)：寄生虫
 
 ---
 
 ## 📖 できればこれも
 
-- [bug](/word/bug)：虫、バグ（IT用語）
-- [snake](/word/snake)：ヘビ
+- [bug](/word/bug/)：虫、バグ（IT用語）
+- [snake](/word/snake/)：ヘビ
 
 <!-- cvid: aid35_bid05 -->

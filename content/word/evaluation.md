@@ -97,7 +97,7 @@ TOEICではビジネス文書や会議資料で「評価」「査定」の意味
 ## 🤔  assessment との違いは？
 
 - **evaluation**：価値や成果を総合的に評価・査定すること
-- **[assessment](/word/assessment)**：状況や能力などを分析・査定すること
+- **[assessment](/word/assessment/)**：状況や能力などを分析・査定すること
 
 evaluationは「価値判断」や「最終的な評価」に重点があり、assessmentは「分析」や「査定」のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ evaluationは「価値判断」や「最終的な評価」に重点があり、a
 
 ## 🧩 あわせて覚えたい
 
-- [appraisal](/word/appraisal)：査定、評価（特に人事や不動産で使う）
-- [estimate](/word/estimate)：見積もり、概算
+- [appraisal](/word/appraisal/)：査定、評価（特に人事や不動産で使う）
+- [estimate](/word/estimate/)：見積もり、概算
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze)：分析する
-- [criteria](/word/criteria)：基準、判断基準
+- [analyze](/word/analyze/)：分析する
+- [criteria](/word/criteria/)：基準、判断基準
 
 <!-- cvid: aid17_bid35 -->

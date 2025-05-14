@@ -97,7 +97,7 @@ TOEICでは「記憶」や「メモリ容量」など、日常会話やIT関連�
 ## 🤔  recollection との違いは？
 
 - **memory**：一般的な「記憶」や「思い出」、記憶力、ITのメモリも含む幅広い意味。
-- **[recollection](/word/recollection)**：特定の出来事や体験を「思い出すこと」「回想」というややフォーマルな表現。
+- **[recollection](/word/recollection/)**：特定の出来事や体験を「思い出すこと」「回想」というややフォーマルな表現。
 
 memoryは日常的な「記憶」全般を指し、recollectionは「意識して思い出す」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ memoryは日常的な「記憶」全般を指し、recollectionは「意識し�
 
 ## 🧩 あわせて覚えたい
 
-- [imagination](/word/imagination)：想像力
-- [forgetfulness](/word/forgetfulness)：忘れっぽさ
+- [imagination](/word/imagination/)：想像力
+- [forgetfulness](/word/forgetfulness/)：忘れっぽさ
 
 ---
 
 ## 📖 できればこれも
 
-- [remind](/word/remind)：思い出させる
-- [record](/word/record)：記録する
+- [remind](/word/remind/)：思い出させる
+- [record](/word/record/)：記録する
 
 <!-- cvid: aid49_bid00 -->

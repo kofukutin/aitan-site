@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「何が起こったか」「いつ起こるか
 ## 🤔  occur との違いは？
 
 - **happen**：偶然や自然に出来事が起こることをカジュアルに表現
-- **[occur](/word/occur)**：ややフォーマルで、出来事や現象が「発生する」ことを客観的に述べる
+- **[occur](/word/occur/)**：ややフォーマルで、出来事や現象が「発生する」ことを客観的に述べる
 
 happenは日常会話でよく使われ、occurは書き言葉やフォーマルな場面で使われやすいです。
 
@@ -105,14 +105,14 @@ happenは日常会話でよく使われ、occurは書き言葉やフォーマル
 
 ## 🧩 あわせて覚えたい
 
-- [take place](/word/take_place)：（予定通りに）行われる
-- [arise](/word/arise)：（問題・機会などが）生じる
+- [take place](/word/take_place/)：（予定通りに）行われる
+- [arise](/word/arise/)：（問題・機会などが）生じる
 
 ---
 
 ## 📖 できればこれも
 
-- [appear](/word/appear)：現れる
-- [exist](/word/exist)：存在する
+- [appear](/word/appear/)：現れる
+- [exist](/word/exist/)：存在する
 
 <!-- cvid: aid09_bid47 -->

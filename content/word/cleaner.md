@@ -97,7 +97,7 @@ TOEICではオフィスやホテル、施設の案内文やEメールなどで�
 ## 🤔  janitor との違いは？
 
 - **cleaner**：掃除をする人全般や掃除用具・洗剤も指す、広い意味。
-- **[janitor](/word/janitor)**：主にビルや学校などの管理・清掃を担当する人。
+- **[janitor](/word/janitor/)**：主にビルや学校などの管理・清掃を担当する人。
 
 cleanerは一般的な「掃除人」や「掃除道具」全般を指し、janitorは特定の建物の管理や修理も行う職業的な清掃員を指します。
 
@@ -105,14 +105,14 @@ cleanerは一般的な「掃除人」や「掃除道具」全般を指し、jani
 
 ## 🧩 あわせて覚えたい
 
-- [maid](/word/maid)：（ホテルや家庭の）メイド、女性の掃除人
-- [detergent](/word/detergent)：洗剤
+- [maid](/word/maid/)：（ホテルや家庭の）メイド、女性の掃除人
+- [detergent](/word/detergent/)：洗剤
 
 ---
 
 ## 📖 できればこれも
 
-- [employee](/word/employee)：従業員
-- [manager](/word/manager)：管理者
+- [employee](/word/employee/)：従業員
+- [manager](/word/manager/)：管理者
 
 <!-- cvid: aid38_bid38 -->

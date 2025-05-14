@@ -98,7 +98,7 @@ TOEICでは、メールや記事、案内文などで「件名」「主題」「
 ## 🤔  topic との違いは？
 
 - **subject**：広い意味での主題や科目、研究・議論の対象
-- **[topic](/word/topic)**：会話や文章の「話題」「トピック」
+- **[topic](/word/topic/)**：会話や文章の「話題」「トピック」
 
 subjectは「学問の科目」や「研究・議論の対象」など幅広く使われ、topicは「会話や文章の具体的な話題」に限定されることが多いです。
 
@@ -106,14 +106,14 @@ subjectは「学問の科目」や「研究・議論の対象」など幅広く�
 
 ## 🧩 あわせて覚えたい
 
-- [issue](/word/issue)：問題、争点
-- [theme](/word/theme)：テーマ、主題
+- [issue](/word/issue/)：問題、争点
+- [theme](/word/theme/)：テーマ、主題
 
 ---
 
 ## 📖 できればこれも
 
-- [course](/word/course)：課程、コース
-- [matter](/word/matter)：事柄、問題
+- [course](/word/course/)：課程、コース
+- [matter](/word/matter/)：事柄、問題
 
 <!-- cvid: aid05_bid27 -->

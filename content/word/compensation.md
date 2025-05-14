@@ -97,7 +97,7 @@ TOEICでは主にビジネス文脈で「給与」「補償」「報酬」とい
 ## 🤔  reward との違いは？
 
 - **compensation**：損失や労働に対する「補償」「報酬」。義務的・フォーマルなニュアンス。
-- **[reward](/word/reward)**：努力や成果に対する「ご褒美」「報酬」。感謝や賞賛の意味合いが強い。
+- **[reward](/word/reward/)**：努力や成果に対する「ご褒美」「報酬」。感謝や賞賛の意味合いが強い。
 
 compensationは義務的な支払い、rewardは感謝や成果へのご褒美として使い分けます。
 
@@ -105,14 +105,14 @@ compensationは義務的な支払い、rewardは感謝や成果へのご褒美�
 
 ## 🧩 あわせて覚えたい
 
-- [salary](/word/salary)：給与、給料
-- [benefit](/word/benefit)：福利厚生、手当
+- [salary](/word/salary/)：給与、給料
+- [benefit](/word/benefit/)：福利厚生、手当
 
 ---
 
 ## 📖 できればこれも
 
-- [allowance](/word/allowance)：手当、小遣い
-- [reimbursement](/word/reimbursement)：払い戻し、経費精算
+- [allowance](/word/allowance/)：手当、小遣い
+- [reimbursement](/word/reimbursement/)：払い戻し、経費精算
 
 <!-- cvid: aid24_bid17 -->

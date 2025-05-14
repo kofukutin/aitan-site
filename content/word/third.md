@@ -98,7 +98,7 @@ TOEICでは、順序や階数、リストの説明などでよく登場します
 ## 🤔  three との違いは？
 
 - **third**：順序や割合の「3番目」「3分の1」
-- **[three](/word/three)**：数字の「3」
+- **[three](/word/three/)**：数字の「3」
 
 thirdは順番や分割を表し、threeは単なる数そのものを指します。
 
@@ -106,14 +106,14 @@ thirdは順番や分割を表し、threeは単なる数そのものを指しま�
 
 ## 🧩 あわせて覚えたい
 
-- [second](/word/second)：2番目
-- [fourth](/word/fourth)：4番目
+- [second](/word/second/)：2番目
+- [fourth](/word/fourth/)：4番目
 
 ---
 
 ## 📖 できればこれも
 
-- [first](/word/first)：1番目
-- [next](/word/next)：次の
+- [first](/word/first/)：1番目
+- [next](/word/next/)：次の
 
 <!-- cvid: aid07_bid31 -->

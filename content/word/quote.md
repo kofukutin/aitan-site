@@ -97,7 +97,7 @@ TOEICでは「見積もりを出す」「引用する」の両方の意味で出
 ## 🤔  estimate との違いは？
 
 - **quote**：具体的な金額や言葉を「引用・提示」することに重点。
-- **[estimate](/word/estimate)**：おおよその金額や数量を「見積もる」ことに重点。
+- **[estimate](/word/estimate/)**：おおよその金額や数量を「見積もる」ことに重点。
 
 quoteは「正確な数字や言葉」を示す時、estimateは「だいたいの予測」を示す時に使います。
 
@@ -105,14 +105,14 @@ quoteは「正確な数字や言葉」を示す時、estimateは「だいたい�
 
 ## 🧩 あわせて覚えたい
 
-- [cite](/word/cite)：（正式に）引用する
-- [mention](/word/mention)：言及する
+- [cite](/word/cite/)：（正式に）引用する
+- [mention](/word/mention/)：言及する
 
 ---
 
 ## 📖 できればこれも
 
-- [offer](/word/offer)：申し出る、提示する
-- [propose](/word/propose)：提案する
+- [offer](/word/offer/)：申し出る、提示する
+- [propose](/word/propose/)：提案する
 
 <!-- cvid: aid14_bid48 -->

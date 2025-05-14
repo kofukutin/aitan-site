@@ -97,7 +97,7 @@ TOEICでは、契約書や案内文、ビジネス文書の中で「license」�
 ## 🤔  permit との違いは？
 
 - **license**：公式な許可証や免許証を指し、長期間有効な場合が多い
-- **[permit](/word/permit)**：特定の目的や期間に限定した許可証を指すことが多い
+- **[permit](/word/permit/)**：特定の目的や期間に限定した許可証を指すことが多い
 
 licenseは運転免許や営業許可など広範な活動を認める証明書、permitは一時的・限定的な許可証に使われることが多いです。
 
@@ -105,14 +105,14 @@ licenseは運転免許や営業許可など広範な活動を認める証明書�
 
 ## 🧩 あわせて覚えたい
 
-- [certificate](/word/certificate)：証明書
-- [authorization](/word/authorization)：認可、権限付与
+- [certificate](/word/certificate/)：証明書
+- [authorization](/word/authorization/)：認可、権限付与
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy)：方針、規定
-- [contract](/word/contract)：契約
+- [policy](/word/policy/)：方針、規定
+- [contract](/word/contract/)：契約
 
 <!-- cvid: aid06_bid13 -->

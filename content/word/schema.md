@@ -97,7 +97,7 @@ ITやビジネス文書、技術系の長文で「schema」は設計図や構造
 ## 🤔  diagram との違いは？
 
 - **schema**：全体の構造や概念的な枠組みを示す、抽象度が高い設計図
-- **[diagram](/word/diagram)**：具体的な図やイラストで、関係や流れを視覚的に示す
+- **[diagram](/word/diagram/)**：具体的な図やイラストで、関係や流れを視覚的に示す
 
 schemaはシステムやデータの「設計思想」や「枠組み」を強調し、diagramは「見た目の図解」や「具体的な関係」を示す点が異なります。
 
@@ -105,14 +105,14 @@ schemaはシステムやデータの「設計思想」や「枠組み」を強�
 
 ## 🧩 あわせて覚えたい
 
-- [structure](/word/structure)：構造、仕組み
-- [blueprint](/word/blueprint)：設計図、青写真
+- [structure](/word/structure/)：構造、仕組み
+- [blueprint](/word/blueprint/)：設計図、青写真
 
 ---
 
 ## 📖 できればこれも
 
-- [framework](/word/framework)：枠組み、骨組み
-- [outline](/word/outline)：概要、要点
+- [framework](/word/framework/)：枠組み、骨組み
+- [outline](/word/outline/)：概要、要点
 
 <!-- cvid: aid38_bid24 -->

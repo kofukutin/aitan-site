@@ -97,7 +97,7 @@ TOEICでは説明文や案内文で、火災報知器やセキュリティ機器
 ## 🤔  sensor との違いは？
 
 - **detector**：特定の物質や変化を「検知」して知らせる装置
-- **[sensor](/word/sensor)**：温度や光などの「変化を感知」する装置全般
+- **[sensor](/word/sensor/)**：温度や光などの「変化を感知」する装置全般
 
 detectorは「異常や特定のものを検出して警告する」ニュアンスが強く、sensorは「変化を感知する」広い意味で使われます。
 
@@ -105,14 +105,14 @@ detectorは「異常や特定のものを検出して警告する」ニュアン
 
 ## 🧩 あわせて覚えたい
 
-- [alarm](/word/alarm)：警報、アラーム
-- [indicator](/word/indicator)：指示器、表示器
+- [alarm](/word/alarm/)：警報、アラーム
+- [indicator](/word/indicator/)：指示器、表示器
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device)：装置、機器
-- [monitor](/word/monitor)：監視装置、モニター
+- [device](/word/device/)：装置、機器
+- [monitor](/word/monitor/)：監視装置、モニター
 
 <!-- cvid: aid00_bid20 -->

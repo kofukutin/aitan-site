@@ -97,7 +97,7 @@ TOEICでは、移民や国際的な話題、自己紹介文などで登場する
 ## 🤔  hometown との違いは？
 
 - **homeland**：自分の「母国」や「祖国」を指し、国単位で使うことが多い
-- **[hometown](/word/hometown)**：自分が生まれ育った「町」や「地域」を指す
+- **[hometown](/word/hometown/)**：自分が生まれ育った「町」や「地域」を指す
 
 homelandは国全体を指すフォーマルな語で、hometownは町や市などより小さな単位を表します。
 
@@ -105,14 +105,14 @@ homelandは国全体を指すフォーマルな語で、hometownは町や市な�
 
 ## 🧩 あわせて覚えたい
 
-- [native_country](/word/native_country)：母国、生まれた国
-- [origin](/word/origin)：起源、出身
+- [native_country](/word/native_country/)：母国、生まれた国
+- [origin](/word/origin/)：起源、出身
 
 ---
 
 ## 📖 できればこれも
 
-- [border](/word/border)：国境、境界
-- [citizen](/word/citizen)：市民、国民
+- [border](/word/border/)：国境、境界
+- [citizen](/word/citizen/)：市民、国民
 
 <!-- cvid: aid38_bid00 -->

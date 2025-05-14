@@ -97,7 +97,7 @@ activationはITやビジネス文脈で名詞として出題されることが�
 ## 🤔  enable との違いは？
 
 - **activation**：何かを「有効化・起動」する行為や状態を指す名詞
-- **[enable](/word/enable)**：何かを「可能にする」「有効にする」という動詞
+- **[enable](/word/enable/)**：何かを「可能にする」「有効にする」という動詞
 
 activationは「有効化」という出来事や手続き自体を指し、enableは「有効にする」という動作を表します。
 
@@ -105,14 +105,14 @@ activationは「有効化」という出来事や手続き自体を指し、enab
 
 ## 🧩 あわせて覚えたい
 
-- [deactivation](/word/deactivation)：無効化、停止
-- [initiation](/word/initiation)：開始、始動
+- [deactivation](/word/deactivation/)：無効化、停止
+- [initiation](/word/initiation/)：開始、始動
 
 ---
 
 ## 📖 できればこれも
 
-- [installation](/word/installation)：インストール、設置
-- [function](/word/function)：機能、働き
+- [installation](/word/installation/)：インストール、設置
+- [function](/word/function/)：機能、働き
 
 <!-- cvid: aid30_bid00 -->

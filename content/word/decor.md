@@ -97,7 +97,7 @@ TOEICでは、ホテルやオフィス、店舗の説明文や広告などで「
 ## 🤔  decoration との違いは？
 
 - **decor**：部屋や空間全体の「内装・インテリア」の雰囲気やスタイルを指す
-- **[decoration](/word/decoration)**：飾りそのものや装飾品、または飾る行為を指す
+- **[decoration](/word/decoration/)**：飾りそのものや装飾品、または飾る行為を指す
 
 「decor」は空間全体の雰囲気やスタイルを表し、「decoration」は個々の飾りや装飾品を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、ホテルやオフィス、店舗の説明文や広告などで「
 
 ## 🧩 あわせて覚えたい
 
-- [interior](/word/interior)：室内、インテリア
-- [ornament](/word/ornament)：装飾品、飾り
+- [interior](/word/interior/)：室内、インテリア
+- [ornament](/word/ornament/)：装飾品、飾り
 
 ---
 
 ## 📖 できればこれも
 
-- [design](/word/design)：デザイン、設計
-- [furniture](/word/furniture)：家具
+- [design](/word/design/)：デザイン、設計
+- [furniture](/word/furniture/)：家具
 
 <!-- cvid: aid00_bid01 -->

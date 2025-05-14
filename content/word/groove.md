@@ -97,7 +97,7 @@ TOEICでは、技術的な説明や製品の仕様書などで「溝」や「く
 ## 🤔  slot との違いは？
 
 - **groove**：物の表面に刻まれた細長い溝やくぼみ
-- **[slot](/word/slot)**：物を差し込むための細長い穴や挿入口
+- **[slot](/word/slot/)**：物を差し込むための細長い穴や挿入口
 
 grooveは表面の「溝」に重点があり、slotは「差し込み口」や「挿入口」として使われる点が異なります。
 
@@ -105,14 +105,14 @@ grooveは表面の「溝」に重点があり、slotは「差し込み口」や�
 
 ## 🧩 あわせて覚えたい
 
-- [ridge](/word/ridge)：隆起、突起
-- [channel](/word/channel)：水路、通路
+- [ridge](/word/ridge/)：隆起、突起
+- [channel](/word/channel/)：水路、通路
 
 ---
 
 ## 📖 できればこれも
 
-- [curve](/word/curve)：曲線、カーブ
-- [edge](/word/edge)：端、縁
+- [curve](/word/curve/)：曲線、カーブ
+- [edge](/word/edge/)：端、縁
 
 <!-- cvid: aid25_bid09 -->

@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やメール、案内文などで「paperwork」
 ## 🤔  document との違いは？
 
 - **paperwork**：書類仕事や事務手続き全体を指す
-- **[document](/word/document)**：個々の書類や文書そのものを指す
+- **[document](/word/document/)**：個々の書類や文書そのものを指す
 
 「paperwork」は書類を扱う仕事や手続き全体を指し、「document」は一枚一枚の書類やファイル自体を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネス文書やメール、案内文などで「paperwork」
 
 ## 🧩 あわせて覚えたい
 
-- [form](/word/form)：用紙、申込書
-- [application](/word/application)：申請書、応募書
+- [form](/word/form/)：用紙、申込書
+- [application](/word/application/)：申請書、応募書
 
 ---
 
 ## 📖 できればこれも
 
-- [file](/word/file)：ファイル、書類をまとめたもの
-- [record](/word/record)：記録、記録文書
+- [file](/word/file/)：ファイル、書類をまとめたもの
+- [record](/word/record/)：記録、記録文書
 
 <!-- cvid: aid03_bid46 -->

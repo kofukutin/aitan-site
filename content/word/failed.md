@@ -97,7 +97,7 @@ TOEICでは、failedは主に形容詞として「失敗した計画」「不合
 ## 🤔  unsuccessful との違いは？
 
 - **failed**：明確に「失敗した」「不合格の」と結果がはっきりしているニュアンス
-- **[unsuccessful](/word/unsuccessful)**：成功しなかったが、必ずしも「大きな失敗」とは限らないやや柔らかい表現
+- **[unsuccessful](/word/unsuccessful/)**：成功しなかったが、必ずしも「大きな失敗」とは限らないやや柔らかい表現
 
 failedは「完全な失敗」や「不合格」といった強い否定を表し、unsuccessfulは「うまくいかなかった」程度のやんわりした表現です。
 
@@ -105,14 +105,14 @@ failedは「完全な失敗」や「不合格」といった強い否定を表�
 
 ## 🧩 あわせて覚えたい
 
-- [pass](/word/pass)：合格する、通過する
-- [decline](/word/decline)：断る、減少する
+- [pass](/word/pass/)：合格する、通過する
+- [decline](/word/decline/)：断る、減少する
 
 ---
 
 ## 📖 できればこれも
 
-- [attempt](/word/attempt)：試み、挑戦
-- [reject](/word/reject)：拒否する、却下する
+- [attempt](/word/attempt/)：試み、挑戦
+- [reject](/word/reject/)：拒否する、却下する
 
 <!-- cvid: aid28_bid38 -->

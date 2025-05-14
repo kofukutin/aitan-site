@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「まだ」「依然として」といった継
 ## 🤔  yet との違いは？
 
 - **still**：今もなお続いていることを表す
-- **[yet](/word/yet)**：主に否定文や疑問文で「まだ」「これから」を表す
+- **[yet](/word/yet/)**：主に否定文や疑問文で「まだ」「これから」を表す
 
 stillは「継続中」、yetは「未完了・これから」に焦点がある点が異なります。
 
@@ -105,14 +105,14 @@ stillは「継続中」、yetは「未完了・これから」に焦点がある
 
 ## 🧩 あわせて覚えたい
 
-- [already](/word/already)：すでに
-- [even](/word/even)：～さえ、さらに
+- [already](/word/already/)：すでに
+- [even](/word/even/)：～さえ、さらに
 
 ---
 
 ## 📖 できればこれも
 
-- [just](/word/just)：ちょうど、たった今
-- [soon](/word/soon)：まもなく
+- [just](/word/just/)：ちょうど、たった今
+- [soon](/word/soon/)：まもなく
 
 <!-- cvid: aid03_bid37 -->

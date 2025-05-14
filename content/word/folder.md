@@ -97,7 +97,7 @@ TOEICではIT関連やオフィスの説明文、メール文中で「folder」�
 ## 🤔  file との違いは？
 
 - **folder**：複数のファイルや書類をまとめて入れる「入れ物」や「フォルダー」
-- **[file](/word/file)**：個々の「ファイル」や「書類」そのもの
+- **[file](/word/file/)**：個々の「ファイル」や「書類」そのもの
 
 folderは「まとめるための入れ物」、fileは「中身そのもの」を指す点が大きな違いです。
 
@@ -105,14 +105,14 @@ folderは「まとめるための入れ物」、fileは「中身そのもの」�
 
 ## 🧩 あわせて覚えたい
 
-- [directory](/word/directory)：（コンピュータの）ディレクトリ、フォルダーの別名
-- [document](/word/document)：文書、書類
+- [directory](/word/directory/)：（コンピュータの）ディレクトリ、フォルダーの別名
+- [document](/word/document/)：文書、書類
 
 ---
 
 ## 📖 できればこれも
 
-- [attach](/word/attach)：添付する
-- [save](/word/save)：保存する
+- [attach](/word/attach/)：添付する
+- [save](/word/save/)：保存する
 
 <!-- cvid: aid13_bid22 -->

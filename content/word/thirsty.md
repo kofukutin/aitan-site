@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人が水を飲んでいる場面な
 ## 🤔  hungry との違いは？
 
 - **thirsty**：のどが渇いた、水分を欲している状態
-- **[hungry](/word/hungry)**：お腹が空いた、食べ物を欲している状態
+- **[hungry](/word/hungry/)**：お腹が空いた、食べ物を欲している状態
 
 「thirsty」は水分、「hungry」は食べ物を求めている時に使い分けます。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写で、人が水を飲んでいる場面な
 
 ## 🧩 あわせて覚えたい
 
-- [dehydrated](/word/dehydrated)：脱水状態の
-- [parched](/word/parched)：ひどくのどが渇いた
+- [dehydrated](/word/dehydrated/)：脱水状態の
+- [parched](/word/parched/)：ひどくのどが渇いた
 
 ---
 
 ## 📖 できればこれも
 
-- [sleepy](/word/sleepy)：眠い
-- [tired](/word/tired)：疲れた
+- [sleepy](/word/sleepy/)：眠い
+- [tired](/word/tired/)：疲れた
 
 <!-- cvid: aid15_bid35 -->

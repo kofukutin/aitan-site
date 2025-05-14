@@ -97,7 +97,7 @@ TOEICでは、会話や説明文で「騒がしい環境」や「静かな場所
 ## 🤔  loud との違いは？
 
 - **noisy**：不快なほど騒がしい、雑音が多い
-- **[loud](/word/loud)**：音量が大きい、声や音が大きい
+- **[loud](/word/loud/)**：音量が大きい、声や音が大きい
 
 noisyは「うるさくて迷惑」「雑音が多い」など否定的なニュアンスが強く、loudは単に「音が大きい」ことを表します。
 
@@ -105,14 +105,14 @@ noisyは「うるさくて迷惑」「雑音が多い」など否定的なニュ
 
 ## 🧩 あわせて覚えたい
 
-- [quiet](/word/quiet)：静かな
-- [silent](/word/silent)：無音の、沈黙した
+- [quiet](/word/quiet/)：静かな
+- [silent](/word/silent/)：無音の、沈黙した
 
 ---
 
 ## 📖 できればこれも
 
-- [crowded](/word/crowded)：混雑した
-- [peaceful](/word/peaceful)：穏やかな、平和な
+- [crowded](/word/crowded/)：混雑した
+- [peaceful](/word/peaceful/)：穏やかな、平和な
 
 <!-- cvid: aid08_bid18 -->

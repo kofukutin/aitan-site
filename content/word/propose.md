@@ -97,7 +97,7 @@ TOEICでは会議やビジネスの場面で「提案する」という意味で
 ## 🤔  suggest との違いは？
 
 - **propose**：正式・フォーマルな場での「提案する」。計画や案をしっかり提示するニュアンス。
-- **[suggest](/word/suggest)**：気軽に「提案する」「ほのめかす」。アイデアや意見をやんわり伝える。
+- **[suggest](/word/suggest/)**：気軽に「提案する」「ほのめかす」。アイデアや意見をやんわり伝える。
 
 proposeは会議や公式な場でのしっかりした提案、suggestは日常会話や控えめな提案に使われます。
 
@@ -105,14 +105,14 @@ proposeは会議や公式な場でのしっかりした提案、suggestは日常
 
 ## 🧩 あわせて覚えたい
 
-- [recommend](/word/recommend)：推薦する、勧める
-- [offer](/word/offer)：申し出る、提供する
+- [recommend](/word/recommend/)：推薦する、勧める
+- [offer](/word/offer/)：申し出る、提供する
 
 ---
 
 ## 📖 できればこれも
 
-- [present](/word/present)：提示する、発表する
-- [advise](/word/advise)：助言する、忠告する
+- [present](/word/present/)：提示する、発表する
+- [advise](/word/advise/)：助言する、忠告する
 
 <!-- cvid: aid01_bid37 -->

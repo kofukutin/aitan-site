@@ -93,7 +93,7 @@ TOEICでは、会議やメールのやりとりで「できるだけ早く対応
 ## 🤔  earliest との違いは？
 
 - **soonest**：できるだけ早く、最も早いタイミング（主に行動や対応の時期に使う）
-- **[earliest](/word/earliest)**：最も早い時点・時刻（具体的な日時や締切に使う）
+- **[earliest](/word/earliest/)**：最も早い時点・時刻（具体的な日時や締切に使う）
 
 「soonest」は「できるだけ早く対応してください」など行動の早さを強調し、「earliest」は「最も早い時刻」など具体的な時間を指すことが多いです。
 
@@ -101,14 +101,14 @@ TOEICでは、会議やメールのやりとりで「できるだけ早く対応
 
 ## 🧩 あわせて覚えたい
 
-- [immediately](/word/immediately)：すぐに
-- [promptly](/word/promptly)：迅速に
+- [immediately](/word/immediately/)：すぐに
+- [promptly](/word/promptly/)：迅速に
 
 ---
 
 ## 📖 できればこれも
 
-- [later](/word/later)：後で
-- [quickly](/word/quickly)：速く
+- [later](/word/later/)：後で
+- [quickly](/word/quickly/)：速く
 
 <!-- cvid: aid09_bid29 -->

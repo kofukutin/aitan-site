@@ -97,7 +97,7 @@ TOEICでは、地方の支社や地域経済、都市と地方の比較などの
 ## 🤔  rural との違いは？
 
 - **provincial**：地方の、州の、または田舎的・視野が狭いというニュアンスも含む
-- **[rural](/word/rural)**：田舎の、農村のという意味で、都市部と対比して使う
+- **[rural](/word/rural/)**：田舎の、農村のという意味で、都市部と対比して使う
 
 provincialは行政区画や地方都市も含み、ややフォーマルで「洗練されていない」という否定的な意味も持つことがあります。ruralは純粋に「田舎」「農村」を指します。
 
@@ -105,14 +105,14 @@ provincialは行政区画や地方都市も含み、ややフォーマルで「�
 
 ## 🧩 あわせて覚えたい
 
-- [urban](/word/urban)：都市の、都会の
-- [local](/word/local)：地元の、地域の
+- [urban](/word/urban/)：都市の、都会の
+- [local](/word/local/)：地元の、地域の
 
 ---
 
 ## 📖 できればこれも
 
-- [municipal](/word/municipal)：市の、自治体の
-- [domestic](/word/domestic)：国内の、家庭の
+- [municipal](/word/municipal/)：市の、自治体の
+- [domestic](/word/domestic/)：国内の、家庭の
 
 <!-- cvid: aid01_bid31 -->

@@ -97,7 +97,7 @@ TOEICではITやビジネス文書、製品仕様の説明などで「compatibil
 ## 🤔  consistency との違いは？
 
 - **compatibility**：2つ以上のものが一緒に問題なく動作・共存できること
-- **[consistency](/word/consistency)**：一貫性、矛盾がないこと
+- **[consistency](/word/consistency/)**：一貫性、矛盾がないこと
 
 compatibilityは「組み合わせて使えるか」に焦点があり、consistencyは「中身や方針がぶれていないか」に重点があります。
 
@@ -105,14 +105,14 @@ compatibilityは「組み合わせて使えるか」に焦点があり、consist
 
 ## 🧩 あわせて覚えたい
 
-- [conflict](/word/conflict)：対立、衝突
-- [integration](/word/integration)：統合、統一
+- [conflict](/word/conflict/)：対立、衝突
+- [integration](/word/integration/)：統合、統一
 
 ---
 
 ## 📖 できればこれも
 
-- [requirement](/word/requirement)：要件、必要条件
-- [efficiency](/word/efficiency)：効率、能率
+- [requirement](/word/requirement/)：要件、必要条件
+- [efficiency](/word/efficiency/)：効率、能率
 
 <!-- cvid: aid47_bid07 -->

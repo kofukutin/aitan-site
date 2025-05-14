@@ -97,7 +97,7 @@ municipalityはTOEICの長文読解（Part 7）で、行政や地域社会に関
 ## 🤔  district との違いは？
 
 - **municipality**：行政サービスを提供する自治体や市町村を指すフォーマルな語。
-- **[district](/word/district)**：行政区や地区など、地理的な区分を指す語。
+- **[district](/word/district/)**：行政区や地区など、地理的な区分を指す語。
 
 municipalityは「行政組織」としての自治体を強調し、districtは「区画・地域」としての区分を指す点が異なります。
 
@@ -105,14 +105,14 @@ municipalityは「行政組織」としての自治体を強調し、districtは
 
 ## 🧩 あわせて覚えたい
 
-- [province](/word/province)：州、地方
-- [authority](/word/authority)：権限、当局
+- [province](/word/province/)：州、地方
+- [authority](/word/authority/)：権限、当局
 
 ---
 
 ## 📖 できればこれも
 
-- [region](/word/region)：地域、地方
-- [council](/word/council)：評議会、議会
+- [region](/word/region/)：地域、地方
+- [council](/word/council/)：評議会、議会
 
 <!-- cvid: aid19_bid04 -->

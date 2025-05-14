@@ -97,7 +97,7 @@ ITやセキュリティ関連の記事やメール文で登場することが多
 ## 🤔  crack との違いは？
 
 - **hack**：主にコンピュータシステムに不正侵入することを指す。
-- **[crack](/word/crack)**：プログラムのコピー防止機能などを解除することを指す。
+- **[crack](/word/crack/)**：プログラムのコピー防止機能などを解除することを指す。
 
 hackは「侵入」や「アクセス」に重点があり、crackは「制限を破る」「プロテクトを外す」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ hackは「侵入」や「アクセス」に重点があり、crackは「制限�
 
 ## 🧩 あわせて覚えたい
 
-- [breach](/word/breach)：（セキュリティなどの）違反、突破
-- [bypass](/word/bypass)：回避する、迂回する
+- [breach](/word/breach/)：（セキュリティなどの）違反、突破
+- [bypass](/word/bypass/)：回避する、迂回する
 
 ---
 
 ## 📖 できればこれも
 
-- [access](/word/access)：アクセスする、接続する
-- [modify](/word/modify)：変更する、修正する
+- [access](/word/access/)：アクセスする、接続する
+- [modify](/word/modify/)：変更する、修正する
 
 <!-- cvid: aid30_bid03 -->

@@ -97,7 +97,7 @@ TOEICでは物語や観光、歴史に関する長文で「booty」が登場す�
 ## 🤔  loot との違いは？
 
 - **booty**：戦争や冒険で得た「戦利品」「お宝」を指し、分け合うイメージが強い。
-- **[loot](/word/loot)**：略奪や盗みで得た「盗品」「略奪品」を指し、やや否定的なニュアンス。
+- **[loot](/word/loot/)**：略奪や盗みで得た「盗品」「略奪品」を指し、やや否定的なニュアンス。
 
 「booty」は冒険や海賊などの物語でよく使われ、ポジティブな響きもありますが、「loot」は犯罪や混乱時の盗品として使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは物語や観光、歴史に関する長文で「booty」が登場す�
 
 ## 🧩 あわせて覚えたい
 
-- [treasure](/word/treasure)：宝物、貴重品
-- [reward](/word/reward)：報酬、褒美
+- [treasure](/word/treasure/)：宝物、貴重品
+- [reward](/word/reward/)：報酬、褒美
 
 ---
 
 ## 📖 できればこれも
 
-- [prize](/word/prize)：賞、景品
-- [fortune](/word/fortune)：財産、運
+- [prize](/word/prize/)：賞、景品
+- [fortune](/word/fortune/)：財産、運
 
 <!-- cvid: aid16_bid31 -->

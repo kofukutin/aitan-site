@@ -97,7 +97,7 @@ TOEICでは地理や国際ビジネスに関する長文や説明文で見かけ
 ## 🤔  country との違いは？
 
 - **continent**：地球上の大きな陸地のまとまり（例：アジア、ヨーロッパなど）
-- **[country](/word/country)**：国、国家（例：日本、フランスなど）
+- **[country](/word/country/)**：国、国家（例：日本、フランスなど）
 
 continentは「大陸」という地理的な単位、countryは「国」という政治的な単位を指します。
 
@@ -105,14 +105,14 @@ continentは「大陸」という地理的な単位、countryは「国」とい�
 
 ## 🧩 あわせて覚えたい
 
-- [island](/word/island)：島
-- [region](/word/region)：地域
+- [island](/word/island/)：島
+- [region](/word/region/)：地域
 
 ---
 
 ## 📖 できればこれも
 
-- [ocean](/word/ocean)：海洋、大洋
-- [border](/word/border)：国境、境界
+- [ocean](/word/ocean/)：海洋、大洋
+- [border](/word/border/)：国境、境界
 
 <!-- cvid: aid20_bid27 -->

@@ -97,7 +97,7 @@ TOEICでは主に不動産やビジネス契約に関する長文やEメール�
 ## 🤔  rent との違いは？
 
 - **lease**：一定期間の正式な賃貸契約（特に長期・ビジネス向け）を指す
-- **[rent](/word/rent)**：物や場所を借りる行為全般や短期の賃貸にも使う
+- **[rent](/word/rent/)**：物や場所を借りる行為全般や短期の賃貸にも使う
 
 leaseは契約書やフォーマルな場面で使われ、rentは日常的な「借りる」全般に使われます。
 
@@ -105,14 +105,14 @@ leaseは契約書やフォーマルな場面で使われ、rentは日常的な�
 
 ## 🧩 あわせて覚えたい
 
-- [contract](/word/contract)：契約
-- [tenant](/word/tenant)：借り手、入居者
+- [contract](/word/contract/)：契約
+- [tenant](/word/tenant/)：借り手、入居者
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement)：合意、契約
-- [property](/word/property)：不動産、財産
+- [agreement](/word/agreement/)：合意、契約
+- [property](/word/property/)：不動産、財産
 
 <!-- cvid: aid45_bid22 -->

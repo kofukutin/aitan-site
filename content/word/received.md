@@ -97,7 +97,7 @@ TOEICでは、メールや電話、会話の中で「受け取った」「受領
 ## 🤔  accepted との違いは？
 
 - **received**：物や情報などを「受け取った」ことを表す
-- **[accepted](/word/accepted)**：申し出や提案などを「受け入れた」ことを表す
+- **[accepted](/word/accepted/)**：申し出や提案などを「受け入れた」ことを表す
 
 「received」は物理的・形式的な受領、「accepted」は内容や条件を認めて受け入れるニュアンスです。
 
@@ -105,14 +105,14 @@ TOEICでは、メールや電話、会話の中で「受け取った」「受領
 
 ## 🧩 あわせて覚えたい
 
-- [obtain](/word/obtain)：（努力して）手に入れる
-- [deliver](/word/deliver)：配達する、届ける
+- [obtain](/word/obtain/)：（努力して）手に入れる
+- [deliver](/word/deliver/)：配達する、届ける
 
 ---
 
 ## 📖 できればこれも
 
-- [send](/word/send)：送る
-- [reply](/word/reply)：返信する
+- [send](/word/send/)：送る
+- [reply](/word/reply/)：返信する
 
 <!-- cvid: aid12_bid19 -->

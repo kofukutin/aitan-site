@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やEメールの中で「translator」が職業�
 ## 🤔  interpreter との違いは？
 
 - **translator**：書かれた文章や文書を別の言語に翻訳する人
-- **[interpreter](/word/interpreter)**：話されている言葉をその場で通訳する人
+- **[interpreter](/word/interpreter/)**：話されている言葉をその場で通訳する人
 
 translatorは「書き言葉」の翻訳、interpreterは「話し言葉」の通訳に使い分けます。
 
@@ -105,14 +105,14 @@ translatorは「書き言葉」の翻訳、interpreterは「話し言葉」の�
 
 ## 🧩 あわせて覚えたい
 
-- [translation](/word/translation)：翻訳、訳文
-- [bilingual](/word/bilingual)：2か国語を話す人
+- [translation](/word/translation/)：翻訳、訳文
+- [bilingual](/word/bilingual/)：2か国語を話す人
 
 ---
 
 ## 📖 できればこれも
 
-- [editor](/word/editor)：編集者
-- [author](/word/author)：著者、作家
+- [editor](/word/editor/)：編集者
+- [author](/word/author/)：著者、作家
 
 <!-- cvid: aid38_bid49 -->

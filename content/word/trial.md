@@ -97,7 +97,7 @@ TOEICでは、製品やサービスの「試用期間」や「裁判」に関す
 ## 🤔  test との違いは？
 
 - **trial**：評価や体験のための「試用」「試み」、または「裁判」を指す。
-- **[test](/word/test)**：知識や性能などを調べるための「テスト」「検査」を指す。
+- **[test](/word/test/)**：知識や性能などを調べるための「テスト」「検査」を指す。
 
 trialは「一定期間使ってみる」「裁判で審理する」など広い意味で使われ、testは「能力や品質を測るための具体的なテスト」に限定されることが多いです。
 
@@ -105,14 +105,14 @@ trialは「一定期間使ってみる」「裁判で審理する」など広い
 
 ## 🧩 あわせて覚えたい
 
-- [experiment](/word/experiment)：実験
-- [court](/word/court)：法廷、裁判所
+- [experiment](/word/experiment/)：実験
+- [court](/word/court/)：法廷、裁判所
 
 ---
 
 ## 📖 できればこれも
 
-- [sample](/word/sample)：見本、サンプル
-- [attempt](/word/attempt)：試み、挑戦
+- [sample](/word/sample/)：見本、サンプル
+- [attempt](/word/attempt/)：試み、挑戦
 
 <!-- cvid: aid07_bid49 -->

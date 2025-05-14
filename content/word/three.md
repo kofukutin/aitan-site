@@ -97,7 +97,7 @@ TOEICではPart 1や数字を聞き取る問題でよく登場します。リス
 ## 🤔  third との違いは？
 
 - **three**：数字の「3」、数量を表す
-- **[third](/word/third)**：3番目、順序を表す
+- **[third](/word/third/)**：3番目、順序を表す
 
 「three」は数そのもの、「third」は順番や順位を表すときに使います。
 
@@ -105,14 +105,14 @@ TOEICではPart 1や数字を聞き取る問題でよく登場します。リス
 
 ## 🧩 あわせて覚えたい
 
-- [two](/word/two)：2
-- [four](/word/four)：4
+- [two](/word/two/)：2
+- [four](/word/four/)：4
 
 ---
 
 ## 📖 できればこれも
 
-- [first](/word/first)：1番目
-- [second](/word/second)：2番目
+- [first](/word/first/)：1番目
+- [second](/word/second/)：2番目
 
 <!-- cvid: aid24_bid13 -->

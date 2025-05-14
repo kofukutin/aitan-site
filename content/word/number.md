@@ -97,7 +97,7 @@ TOEICでは「the number of ～」や「a number of ～」の形で頻出し、�
 ## 🤔  amount との違いは？
 
 - **number**：可算名詞（数えられるもの）の「数」や「人数」に使う
-- **[amount](/word/amount)**：不可算名詞（数えられないもの）の「量」に使う
+- **[amount](/word/amount/)**：不可算名詞（数えられないもの）の「量」に使う
 
 numberは「人数」「個数」など、はっきり数えられる対象に使い、amountは「水」「お金」など数えられないものに使います。
 
@@ -105,14 +105,14 @@ numberは「人数」「個数」など、はっきり数えられる対象に�
 
 ## 🧩 あわせて覚えたい
 
-- [figure](/word/figure)：数字、図
-- [quantity](/word/quantity)：量、分量
+- [figure](/word/figure/)：数字、図
+- [quantity](/word/quantity/)：量、分量
 
 ---
 
 ## 📖 できればこれも
 
-- [total](/word/total)：合計
-- [sum](/word/sum)：合計、総額
+- [total](/word/total/)：合計
+- [sum](/word/sum/)：合計、総額
 
 <!-- cvid: aid34_bid13 -->

@@ -97,7 +97,7 @@ TOEICでは「資料」「材料」「教材」など複数の意味で出題さ
 ## 🤔  ingredient との違いは？
 
 - **material**：物を作るための材料や、情報・資料など幅広い「素材」を指す
-- **[ingredient](/word/ingredient)**：特に料理や製品の「成分」「原料」を指す
+- **[ingredient](/word/ingredient/)**：特に料理や製品の「成分」「原料」を指す
 
 materialは建築や製造、学習資料など幅広い分野で使われますが、ingredientは主に料理や化学製品などの「成分」に限定されます。
 
@@ -105,14 +105,14 @@ materialは建築や製造、学習資料など幅広い分野で使われます
 
 ## 🧩 あわせて覚えたい
 
-- [resource](/word/resource)：資源、供給源
-- [equipment](/word/equipment)：設備、備品
+- [resource](/word/resource/)：資源、供給源
+- [equipment](/word/equipment/)：設備、備品
 
 ---
 
 ## 📖 できればこれも
 
-- [product](/word/product)：製品、成果物
-- [supply](/word/supply)：供給、備品
+- [product](/word/product/)：製品、成果物
+- [supply](/word/supply/)：供給、備品
 
 <!-- cvid: aid32_bid11 -->

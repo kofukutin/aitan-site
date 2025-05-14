@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写問題で頻出です。オフィスや屋外で
 ## 🤔  webcam との違いは？
 
 - **camera**：写真や動画を撮影する一般的なカメラ全般を指す。
-- **[webcam](/word/webcam)**：パソコンなどに接続して使う、主にビデオ通話や配信用のカメラ。
+- **[webcam](/word/webcam/)**：パソコンなどに接続して使う、主にビデオ通話や配信用のカメラ。
 
 cameraは用途や種類を問わず幅広く使われますが、webcamはパソコン用の小型カメラに限定されます。
 
@@ -105,14 +105,14 @@ cameraは用途や種類を問わず幅広く使われますが、webcamはパ�
 
 ## 🧩 あわせて覚えたい
 
-- [photograph](/word/photograph)：写真、写真を撮る
-- [lens](/word/lens)：レンズ
+- [photograph](/word/photograph/)：写真、写真を撮る
+- [lens](/word/lens/)：レンズ
 
 ---
 
 ## 📖 できればこれも
 
-- [video](/word/video)：動画、映像
-- [picture](/word/picture)：写真、絵
+- [video](/word/video/)：動画、映像
+- [picture](/word/picture/)：写真、絵
 
 <!-- cvid: aid13_bid40 -->

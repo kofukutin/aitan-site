@@ -97,7 +97,7 @@ TOEICでは、会話やビジネスシーンで「契約を勝ち取る」「賞
 ## 🤔  gained との違いは？
 
 - **won**：競争や努力の末に「勝ち取る」「勝つ」ことを表す。
-- **[gained](/word/gained)**：努力や経験によって「得る」「増やす」ことを表す。
+- **[gained](/word/gained/)**：努力や経験によって「得る」「増やす」ことを表す。
 
 「won」は勝負やコンテストなどで「勝つ」ことに重点があり、「gained」は知識や経験、体重など幅広い「獲得」に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、会話やビジネスシーンで「契約を勝ち取る」「賞
 
 ## 🧩 あわせて覚えたい
 
-- [lose](/word/lose)：失う、負ける
-- [achieve](/word/achieve)：達成する
+- [lose](/word/lose/)：失う、負ける
+- [achieve](/word/achieve/)：達成する
 
 ---
 
 ## 📖 できればこれも
 
-- [earn](/word/earn)：（働いて）得る
-- [receive](/word/receive)：受け取る
+- [earn](/word/earn/)：（働いて）得る
+- [receive](/word/receive/)：受け取る
 
 <!-- cvid: aid28_bid12 -->

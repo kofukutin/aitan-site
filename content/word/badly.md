@@ -97,7 +97,7 @@ TOEICでは副詞の使い分けや語彙問題で出題されやすく、「wel
 ## 🤔  poorly との違いは？
 
 - **badly**：悪い状態やひどさ、強い否定的感情を表す
-- **[poorly](/word/poorly)**：質や能力が低いことをやや客観的に表す
+- **[poorly](/word/poorly/)**：質や能力が低いことをやや客観的に表す
 
 「badly」は感情や主観的な「ひどさ」を強調しやすく、「poorly」は「質が低い」など客観的な評価に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは副詞の使い分けや語彙問題で出題されやすく、「wel
 
 ## 🧩 あわせて覚えたい
 
-- [well](/word/well)：うまく、上手に
-- [seriously](/word/seriously)：深刻に、真剣に
+- [well](/word/well/)：うまく、上手に
+- [seriously](/word/seriously/)：深刻に、真剣に
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/word/quickly)：速く
-- [easily](/word/easily)：簡単に
+- [quickly](/word/quickly/)：速く
+- [easily](/word/easily/)：簡単に
 
 <!-- cvid: aid43_bid45 -->

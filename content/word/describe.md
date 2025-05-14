@@ -97,7 +97,7 @@ TOEICでは、会話や説明文で「特徴や状況を説明する」場面で
 ## 🤔  explain との違いは？
 
 - **describe**：物事の特徴や様子を詳しく述べる
-- **[explain](/word/explain)**：理由や仕組みなどを分かりやすく解説する
+- **[explain](/word/explain/)**：理由や仕組みなどを分かりやすく解説する
 
 describeは「どんなものか」を伝えるのに対し、explainは「なぜ・どうやって」を明らかにする時に使います。
 
@@ -105,14 +105,14 @@ describeは「どんなものか」を伝えるのに対し、explainは「な�
 
 ## 🧩 あわせて覚えたい
 
-- [illustrate](/word/illustrate)：例や図を使って説明する
-- [depict](/word/depict)：絵や言葉で描写する
+- [illustrate](/word/illustrate/)：例や図を使って説明する
+- [depict](/word/depict/)：絵や言葉で描写する
 
 ---
 
 ## 📖 できればこれも
 
-- [mention](/word/mention)：言及する
-- [report](/word/report)：報告する
+- [mention](/word/mention/)：言及する
+- [report](/word/report/)：報告する
 
 <!-- cvid: aid27_bid25 -->

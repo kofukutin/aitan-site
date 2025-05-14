@@ -106,13 +106,13 @@ Septemberは9月、Octoberは10月と、カレンダー上で1か月違いの月
 ## 🧩 あわせて覚えたい
 
 - [August](/August)：8月
-- [autumn](/word/autumn)：秋
+- [autumn](/word/autumn/)：秋
 
 ---
 
 ## 📖 できればこれも
 
-- [calendar](/word/calendar)：カレンダー、暦
-- [holiday](/word/holiday)：休日
+- [calendar](/word/calendar/)：カレンダー、暦
+- [holiday](/word/holiday/)：休日
 
 <!-- cvid: aid03_bid48 -->

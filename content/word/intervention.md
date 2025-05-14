@@ -97,7 +97,7 @@ TOEICでは医療やビジネスの文脈で「介入」「干渉」といった
 ## 🤔  interference との違いは？
 
 - **intervention**：問題解決や改善のために積極的に介入すること
-- **[interference](/word/interference)**：不要または迷惑な干渉、妨害
+- **[interference](/word/interference/)**：不要または迷惑な干渉、妨害
 
 interventionは前向きな目的での介入を指し、interferenceは否定的な意味合いで「邪魔する」「妨げる」ニュアンスがあります。
 
@@ -105,14 +105,14 @@ interventionは前向きな目的での介入を指し、interferenceは否定�
 
 ## 🧩 あわせて覚えたい
 
-- [mediation](/word/mediation)：仲裁、調停
-- [involvement](/word/involvement)：関与、参加
+- [mediation](/word/mediation/)：仲裁、調停
+- [involvement](/word/involvement/)：関与、参加
 
 ---
 
 ## 📖 できればこれも
 
-- [procedure](/word/procedure)：手順、手続き
-- [treatment](/word/treatment)：治療、処置
+- [procedure](/word/procedure/)：手順、手続き
+- [treatment](/word/treatment/)：治療、処置
 
 <!-- cvid: aid06_bid08 -->

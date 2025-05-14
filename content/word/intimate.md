@@ -97,7 +97,7 @@ TOEICではビジネスメールや記事、社内文書などで「親密な関
 ## 🤔  close との違いは？
 
 - **intimate**：心の奥まで踏み込んだ「親密さ」や「私的な」関係を強調
-- **[close](/word/close)**：距離や関係が「近い」ことを幅広く表現
+- **[close](/word/close/)**：距離や関係が「近い」ことを幅広く表現
 
 intimateはcloseよりもさらに深い結びつきや、他人に話しにくいプライベートな内容に使われます。closeは友人や家族など幅広い「近さ」に使えますが、intimateは特に「特別な親しさ」を強調します。
 
@@ -105,14 +105,14 @@ intimateはcloseよりもさらに深い結びつきや、他人に話しにく�
 
 ## 🧩 あわせて覚えたい
 
-- [confidential](/word/confidential)：機密の、内密の
-- [personal](/word/personal)：個人的な、私的な
+- [confidential](/word/confidential/)：機密の、内密の
+- [personal](/word/personal/)：個人的な、私的な
 
 ---
 
 ## 📖 できればこれも
 
-- [confident](/word/confident)：自信がある
-- [private](/word/private)：私的な、個人の
+- [confident](/word/confident/)：自信がある
+- [private](/word/private/)：私的な、個人の
 
 <!-- cvid: aid49_bid45 -->

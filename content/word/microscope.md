@@ -97,7 +97,7 @@ TOEICでは科学や研究に関する説明文やメールで登場すること
 ## 🤔  telescope との違いは？
 
 - **microscope**：小さなものを拡大して見るための装置
-- **[telescope](/word/telescope)**：遠く離れたものを拡大して見るための装置
+- **[telescope](/word/telescope/)**：遠く離れたものを拡大して見るための装置
 
 microscopeは微細な対象（細胞や微生物など）を観察するのに使い、telescopeは星や遠くの景色など遠距離のものを見るのに使います。
 
@@ -105,14 +105,14 @@ microscopeは微細な対象（細胞や微生物など）を観察するのに�
 
 ## 🧩 あわせて覚えたい
 
-- [magnifier](/word/magnifier)：拡大鏡、虫眼鏡
-- [laboratory](/word/laboratory)：研究室、実験室
+- [magnifier](/word/magnifier/)：拡大鏡、虫眼鏡
+- [laboratory](/word/laboratory/)：研究室、実験室
 
 ---
 
 ## 📖 できればこれも
 
-- [experiment](/word/experiment)：実験
-- [sample](/word/sample)：標本、サンプル
+- [experiment](/word/experiment/)：実験
+- [sample](/word/sample/)：標本、サンプル
 
 <!-- cvid: aid38_bid40 -->

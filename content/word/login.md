@@ -105,14 +105,14 @@ loginは「情報」や「手続き」自体を指し、sign inは「実際に�
 
 ## 🧩 あわせて覚えたい
 
-- [logout](/word/logout)：ログアウト、システムから出ること
-- [authentication](/word/authentication)：認証、本人確認
+- [logout](/word/logout/)：ログアウト、システムから出ること
+- [authentication](/word/authentication/)：認証、本人確認
 
 ---
 
 ## 📖 できればこれも
 
-- [password](/word/password)：パスワード、合言葉
-- [account](/word/account)：アカウント、利用者登録情報
+- [password](/word/password/)：パスワード、合言葉
+- [account](/word/account/)：アカウント、利用者登録情報
 
 <!-- cvid: aid24_bid43 -->

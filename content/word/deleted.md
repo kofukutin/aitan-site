@@ -97,7 +97,7 @@ TOEICでは、ITやビジネス文書の中で「deleted file」や「deleted me
 ## 🤔  removed との違いは？
 
 - **deleted**：データやファイルなどが「完全に削除された」状態を強調
-- **[removed](/word/removed)**：場所や状態から「取り除かれた」ことを広く表す
+- **[removed](/word/removed/)**：場所や状態から「取り除かれた」ことを広く表す
 
 「deleted」は主にデジタルデータや記録が消去された場合に使い、「removed」は物理的・抽象的に何かが取り除かれた場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、ITやビジネス文書の中で「deleted file」や「deleted me
 
 ## 🧩 あわせて覚えたい
 
-- [erased](/word/erased)：消去された、消された
-- [restore](/word/restore)：元に戻す、復元する
+- [erased](/word/erased/)：消去された、消された
+- [restore](/word/restore/)：元に戻す、復元する
 
 ---
 
 ## 📖 できればこれも
 
-- [attached](/word/attached)：添付された
-- [updated](/word/updated)：更新された
+- [attached](/word/attached/)：添付された
+- [updated](/word/updated/)：更新された
 
 <!-- cvid: aid36_bid09 -->

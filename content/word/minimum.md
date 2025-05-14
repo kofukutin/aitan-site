@@ -97,7 +97,7 @@ TOEICでは「最低限」「最小限」といった条件や基準を示す文
 ## 🤔  least との違いは？
 
 - **minimum**：数量や基準としての「最小限」「最低限」を表す。
-- **[least](/word/least)**：程度や量が「最も少ない」ことを表し、比較の中で使われる。
+- **[least](/word/least/)**：程度や量が「最も少ない」ことを表し、比較の中で使われる。
 
 minimumは「基準・条件」としての下限、leastは「比較して一番少ないもの」というニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ minimumは「基準・条件」としての下限、leastは「比較して一�
 
 ## 🧩 あわせて覚えたい
 
-- [maximum](/word/maximum)：最大限、最高
-- [requirement](/word/requirement)：必要条件
+- [maximum](/word/maximum/)：最大限、最高
+- [requirement](/word/requirement/)：必要条件
 
 ---
 
 ## 📖 できればこれも
 
-- [limit](/word/limit)：限界、制限
-- [average](/word/average)：平均
+- [limit](/word/limit/)：限界、制限
+- [average](/word/average/)：平均
 
 <!-- cvid: aid09_bid11 -->

@@ -97,7 +97,7 @@ TOEICでは「prime example（代表的な例）」や「prime objective（最�
 ## 🤔  primary との違いは？
 
 - **prime**：最も重要・価値が高い、最上の
-- **[primary](/word/primary)**：第一の、最初の、基本的な
+- **[primary](/word/primary/)**：第一の、最初の、基本的な
 
 primeは「質や価値が最も高い」ことを強調し、primaryは「順序や優先順位が最初」であることを表します。
 
@@ -105,14 +105,14 @@ primeは「質や価値が最も高い」ことを強調し、primaryは「順�
 
 ## 🧩 あわせて覚えたい
 
-- [optimal](/word/optimal)：最適な
-- [main](/word/main)：主な、主要な
+- [optimal](/word/optimal/)：最適な
+- [main](/word/main/)：主な、主要な
 
 ---
 
 ## 📖 できればこれも
 
-- [major](/word/major)：主要な、重要な
-- [chief](/word/chief)：最高位の、主要な
+- [major](/word/major/)：主要な、重要な
+- [chief](/word/chief/)：最高位の、主要な
 
 <!-- cvid: aid17_bid45 -->

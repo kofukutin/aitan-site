@@ -97,7 +97,7 @@ TOEICでは健康やウェルネス、東洋文化を紹介する長文や説明
 ## 🤔  energy との違いは？
 
 - **chi**：東洋思想での「気」や生命エネルギーを指す、ややスピリチュアルな語。
-- **[energy](/word/energy)**：物理的・科学的な「エネルギー」や活力を幅広く指す一般語。
+- **[energy](/word/energy/)**：物理的・科学的な「エネルギー」や活力を幅広く指す一般語。
 
 chiは精神的・哲学的な文脈で使われ、energyは科学や日常会話で広く使われます。
 
@@ -105,14 +105,14 @@ chiは精神的・哲学的な文脈で使われ、energyは科学や日常会�
 
 ## 🧩 あわせて覚えたい
 
-- [spirit](/word/spirit)：精神、魂
-- [vitality](/word/vitality)：活力、生命力
+- [spirit](/word/spirit/)：精神、魂
+- [vitality](/word/vitality/)：活力、生命力
 
 ---
 
 ## 📖 できればこれも
 
-- [zen](/word/zen)：禅、禅宗
-- [meditation](/word/meditation)：瞑想
+- [zen](/word/zen/)：禅、禅宗
+- [meditation](/word/meditation/)：瞑想
 
 <!-- cvid: aid33_bid31 -->

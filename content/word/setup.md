@@ -97,7 +97,7 @@ TOEICではITやビジネスの文脈で「setup」が名詞として出題さ�
 ## 🤔  arrangement との違いは？
 
 - **setup**：機器やシステムなどの具体的な準備や設定
-- **[arrangement](/word/arrangement)**：予定や配置など幅広い「取り決め」や「調整」
+- **[arrangement](/word/arrangement/)**：予定や配置など幅広い「取り決め」や「調整」
 
 setupは物理的・技術的な準備に使われ、arrangementは予定や座席などの調整・手配に使われます。
 
@@ -105,14 +105,14 @@ setupは物理的・技術的な準備に使われ、arrangementは予定や座�
 
 ## 🧩 あわせて覚えたい
 
-- [installation](/word/installation)：設置、インストール
-- [configuration](/word/configuration)：構成、設定
+- [installation](/word/installation/)：設置、インストール
+- [configuration](/word/configuration/)：構成、設定
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process)：過程、手順
-- [system](/word/system)：システム、仕組み
+- [process](/word/process/)：過程、手順
+- [system](/word/system/)：システム、仕組み
 
 <!-- cvid: aid21_bid06 -->

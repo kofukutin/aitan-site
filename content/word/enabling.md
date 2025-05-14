@@ -97,7 +97,7 @@ TOEICではITやビジネス文書の中で「enabling technology」や「enabli
 ## 🤔  allowing との違いは？
 
 - **enabling**：何かを可能にする、実現させる（特に機能や技術に使う）
-- **[allowing](/word/allowing)**：許可する、可能にする（一般的な許可や容認の意味）
+- **[allowing](/word/allowing/)**：許可する、可能にする（一般的な許可や容認の意味）
 
 enablingは「技術や仕組みが何かを実現できるようにする」ニュアンスが強く、allowingは「人やルールが許可する」場面で使われます。
 
@@ -105,14 +105,14 @@ enablingは「技術や仕組みが何かを実現できるようにする」ニ
 
 ## 🧩 あわせて覚えたい
 
-- [empowering](/word/empowering)：力を与える、権限を与える
-- [facilitating](/word/facilitating)：促進する、円滑に進める
+- [empowering](/word/empowering/)：力を与える、権限を与える
+- [facilitating](/word/facilitating/)：促進する、円滑に進める
 
 ---
 
 ## 📖 できればこれも
 
-- [capable](/word/capable)：能力がある、できる
-- [supportive](/word/supportive)：支援的な、協力的な
+- [capable](/word/capable/)：能力がある、できる
+- [supportive](/word/supportive/)：支援的な、協力的な
 
 <!-- cvid: aid27_bid34 -->

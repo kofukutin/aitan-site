@@ -97,7 +97,7 @@ TOEICでは、教育や研修、イベント案内などの文脈でschoolが登
 ## 🤔  academy との違いは？
 
 - **school**：一般的な学校。初等・中等教育機関や広い意味での学びの場。
-- **[academy](/word/academy)**：専門的な教育機関や特定分野の学校を指すことが多い。
+- **[academy](/word/academy/)**：専門的な教育機関や特定分野の学校を指すことが多い。
 
 schoolは幅広い教育機関を指しますが、academyは特定分野や専門性の高い教育機関に使われます。
 
@@ -105,14 +105,14 @@ schoolは幅広い教育機関を指しますが、academyは特定分野や専�
 
 ## 🧩 あわせて覚えたい
 
-- [university](/word/university)：大学
-- [classroom](/word/classroom)：教室
+- [university](/word/university/)：大学
+- [classroom](/word/classroom/)：教室
 
 ---
 
 ## 📖 できればこれも
 
-- [teacher](/word/teacher)：先生
-- [student](/word/student)：生徒
+- [teacher](/word/teacher/)：先生
+- [student](/word/student/)：生徒
 
 <!-- cvid: aid04_bid49 -->

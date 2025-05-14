@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、風景や自然の説明として登
 ## 🤔  boundary との違いは？
 
 - **horizon**：自然界の「地平線・水平線」や比喩的な「視野・限界」を表す
-- **[boundary](/word/boundary)**：物理的・抽象的な「境界線」「限界」を表す
+- **[boundary](/word/boundary/)**：物理的・抽象的な「境界線」「限界」を表す
 
 horizonは主に自然や視野の広がりを指し、boundaryは明確な区切りや制限を示します。
 
@@ -105,14 +105,14 @@ horizonは主に自然や視野の広がりを指し、boundaryは明確な区�
 
 ## 🧩 あわせて覚えたい
 
-- [limit](/word/limit)：限界、制限
-- [edge](/word/edge)：端、へり
+- [limit](/word/limit/)：限界、制限
+- [edge](/word/edge/)：端、へり
 
 ---
 
 ## 📖 できればこれも
 
-- [landscape](/word/landscape)：風景
-- [view](/word/view)：眺め、景色
+- [landscape](/word/landscape/)：風景
+- [view](/word/view/)：眺め、景色
 
 <!-- cvid: aid45_bid45 -->

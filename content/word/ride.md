@@ -99,7 +99,7 @@ TOEICでは主にPart 1の写真描写で「乗る」「またがる」動作を
 ## 🤔  drive との違いは？
 
 - **ride**：自転車・バイク・馬・バスなど「運転せずに乗る」または「またがって乗る」場合に使う
-- **[drive](/word/drive)**：車など「自分で運転する」場合に使う
+- **[drive](/word/drive/)**：車など「自分で運転する」場合に使う
 
 rideは「乗る」こと全般や「またがる」イメージが強く、driveは「運転する」ことに限定されます。
 
@@ -107,14 +107,14 @@ rideは「乗る」こと全般や「またがる」イメージが強く、driv
 
 ## 🧩 あわせて覚えたい
 
-- [travel](/word/travel)：旅行する、移動する
-- [commute](/word/commute)：通勤する
+- [travel](/word/travel/)：旅行する、移動する
+- [commute](/word/commute/)：通勤する
 
 ---
 
 ## 📖 できればこれも
 
-- [walk](/word/walk)：歩く
-- [board](/word/board)：（乗り物に）乗り込む
+- [walk](/word/walk/)：歩く
+- [board](/word/board/)：（乗り物に）乗り込む
 
 <!-- cvid: aid12_bid30 -->

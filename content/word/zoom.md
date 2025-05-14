@@ -97,7 +97,7 @@ ITやビジネスシーンでの「画面を拡大する」「ズームする」
 ## 🤔  enlarge との違いは？
 
 - **zoom**：カメラや画面などで部分的に拡大する、または急に動くニュアンス
-- **[enlarge](/word/enlarge)**：物理的・全体的に大きくする、拡大する
+- **[enlarge](/word/enlarge/)**：物理的・全体的に大きくする、拡大する
 
 zoomは主にデジタルや映像の一部を拡大する時に使い、enlargeは物や画像全体を大きくする時に使います。
 
@@ -105,14 +105,14 @@ zoomは主にデジタルや映像の一部を拡大する時に使い、enlarge
 
 ## 🧩 あわせて覚えたい
 
-- [focus](/word/focus)：焦点を合わせる
-- [magnify](/word/magnify)：拡大する（詳細や大きさを強調）
+- [focus](/word/focus/)：焦点を合わせる
+- [magnify](/word/magnify/)：拡大する（詳細や大きさを強調）
 
 ---
 
 ## 📖 できればこれも
 
-- [click](/word/click)：クリックする
-- [scroll](/word/scroll)：スクロールする
+- [click](/word/click/)：クリックする
+- [scroll](/word/scroll/)：スクロールする
 
 <!-- cvid: aid07_bid36 -->

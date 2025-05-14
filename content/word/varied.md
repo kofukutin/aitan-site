@@ -97,7 +97,7 @@ TOEICのPart 7で、商品やサービスの説明、会社紹介などで「多
 ## 🤔  various との違いは？
 
 - **varied**：変化に富んだ、多様な（全体としてバラエティがある状態を強調）
-- **[various](/word/various)**：さまざまな（個々の違い・種類の多さを強調）
+- **[various](/word/various/)**：さまざまな（個々の違い・種類の多さを強調）
 
 「varied」は全体の多様性や変化の幅を、「various」は個々の違いや種類の多さを強調する点が異なります。
 
@@ -105,14 +105,14 @@ TOEICのPart 7で、商品やサービスの説明、会社紹介などで「多
 
 ## 🧩 あわせて覚えたい
 
-- [diverse](/word/diverse)：多様な、異なる
-- [different](/word/different)：異なる、違った
+- [diverse](/word/diverse/)：多様な、異なる
+- [different](/word/different/)：異なる、違った
 
 ---
 
 ## 📖 できればこれも
 
-- [numerous](/word/numerous)：多数の
-- [multiple](/word/multiple)：複数の、多数の
+- [numerous](/word/numerous/)：多数の
+- [multiple](/word/multiple/)：複数の、多数の
 
 <!-- cvid: aid03_bid02 -->

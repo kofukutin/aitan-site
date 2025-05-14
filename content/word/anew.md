@@ -93,7 +93,7 @@ TOEICではPart 7の長文やビジネスメール、記事文中で「新たに
 ## 🤔  again との違いは？
 
 - **anew**：新たな気持ちや方法で「改めて」「最初から」やり直す
-- **[again](/word/again)**：単に「もう一度」「再び」繰り返す
+- **[again](/word/again/)**：単に「もう一度」「再び」繰り返す
 
 anewは「新しいやり方や気持ちでやり直す」ニュアンスがあり、againは単純な繰り返しを表します。
 
@@ -101,14 +101,14 @@ anewは「新しいやり方や気持ちでやり直す」ニュアンスがあ�
 
 ## 🧩 あわせて覚えたい
 
-- [afresh](/word/afresh)：新たに、もう一度（anewとほぼ同義だがややカジュアル）
-- [renew](/word/renew)：更新する、新しくする
+- [afresh](/word/afresh/)：新たに、もう一度（anewとほぼ同義だがややカジュアル）
+- [renew](/word/renew/)：更新する、新しくする
 
 ---
 
 ## 📖 できればこれも
 
-- [resume](/word/resume)：再開する
-- [revise](/word/revise)：修正する、見直す
+- [resume](/word/resume/)：再開する
+- [revise](/word/revise/)：修正する、見直す
 
 <!-- cvid: aid00_bid35 -->

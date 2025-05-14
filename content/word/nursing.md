@@ -97,7 +97,7 @@ The hospital is hiring more staff for its nursing department.
 ## 🤔  caregiving との違いは？
 
 - **nursing**：専門的な医療知識や資格を持つ人による看護やケアを指すことが多い
-- **[caregiving](/word/caregiving)**：家族や介護士などによる日常的な世話や介護を広く指す
+- **[caregiving](/word/caregiving/)**：家族や介護士などによる日常的な世話や介護を広く指す
 
 nursingは医療的な側面が強く、caregivingは資格の有無を問わず幅広い「世話」を表します。
 
@@ -105,14 +105,14 @@ nursingは医療的な側面が強く、caregivingは資格の有無を問わず
 
 ## 🧩 あわせて覚えたい
 
-- [treatment](/word/treatment)：治療
-- [midwife](/word/midwife)：助産師
+- [treatment](/word/treatment/)：治療
+- [midwife](/word/midwife/)：助産師
 
 ---
 
 ## 📖 できればこれも
 
-- [therapy](/word/therapy)：治療、療法
-- [clinic](/word/clinic)：診療所
+- [therapy](/word/therapy/)：治療、療法
+- [clinic](/word/clinic/)：診療所
 
 <!-- cvid: aid09_bid41 -->

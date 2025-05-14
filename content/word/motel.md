@@ -97,7 +97,7 @@ TOEICでは旅行や出張に関する長文や広告、案内文で見かける
 ## 🤔  hotel との違いは？
 
 - **motel**：車での旅行者向けで、部屋のすぐ近くに駐車できる簡易宿泊施設。
-- **[hotel](/word/hotel)**：一般的な宿泊施設で、設備やサービスが充実していることが多い。
+- **[hotel](/word/hotel/)**：一般的な宿泊施設で、設備やサービスが充実していることが多い。
 
 motelは車利用者向けでシンプル、hotelは幅広い客層向けで設備が充実している点が大きな違いです。
 
@@ -105,14 +105,14 @@ motelは車利用者向けでシンプル、hotelは幅広い客層向けで設�
 
 ## 🧩 あわせて覚えたい
 
-- [inn](/word/inn)：小規模な宿、旅館
-- [lodge](/word/lodge)：山小屋やロッジ
+- [inn](/word/inn/)：小規模な宿、旅館
+- [lodge](/word/lodge/)：山小屋やロッジ
 
 ---
 
 ## 📖 できればこれも
 
-- [hostel](/word/hostel)：安価な宿泊施設、ホステル
-- [guesthouse](/word/guesthouse)：ゲストハウス、民宿
+- [hostel](/word/hostel/)：安価な宿泊施設、ホステル
+- [guesthouse](/word/guesthouse/)：ゲストハウス、民宿
 
 <!-- cvid: aid03_bid11 -->

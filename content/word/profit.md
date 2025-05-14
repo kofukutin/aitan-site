@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や報告書、Eメールなどの長文中�
 ## 🤔  benefit との違いは？
 
 - **profit**：ビジネスや取引で得られる「金銭的な利益」や「もうけ」を指す。
-- **[benefit](/word/benefit)**：金銭以外も含む「恩恵」「利点」「福利厚生」など幅広い意味。
+- **[benefit](/word/benefit/)**：金銭以外も含む「恩恵」「利点」「福利厚生」など幅広い意味。
 
 profitは主にお金の増加やビジネスの成果を表し、benefitは「役立つこと」や「メリット」全般に使われます。
 
@@ -105,14 +105,14 @@ profitは主にお金の増加やビジネスの成果を表し、benefitは「�
 
 ## 🧩 あわせて覚えたい
 
-- [loss](/word/loss)：損失、赤字
-- [revenue](/word/revenue)：総収入、売上高
+- [loss](/word/loss/)：損失、赤字
+- [revenue](/word/revenue/)：総収入、売上高
 
 ---
 
 ## 📖 できればこれも
 
-- [income](/word/income)：所得、収入
-- [gain](/word/gain)：得ること、増加
+- [income](/word/income/)：所得、収入
+- [gain](/word/gain/)：得ること、増加
 
 <!-- cvid: aid37_bid14 -->

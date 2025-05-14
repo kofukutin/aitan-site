@@ -97,7 +97,7 @@ TOEICではオフィスや部屋の説明、物件広告などで「spacious」�
 ## 🤔  roomy との違いは？
 
 - **spacious**：物理的な空間が広く、開放感があることを強調
-- **[roomy](/word/roomy)**：広さに加えて「ゆったりしていて快適」というニュアンスがやや強い
+- **[roomy](/word/roomy/)**：広さに加えて「ゆったりしていて快適」というニュアンスがやや強い
 
 「spacious」は客観的な広さや空間の大きさを表し、「roomy」は主観的な快適さや余裕も含みます。
 
@@ -105,14 +105,14 @@ TOEICではオフィスや部屋の説明、物件広告などで「spacious」�
 
 ## 🧩 あわせて覚えたい
 
-- [cramped](/word/cramped)：狭苦しい、窮屈な
-- [wide](/word/wide)：幅が広い
+- [cramped](/word/cramped/)：狭苦しい、窮屈な
+- [wide](/word/wide/)：幅が広い
 
 ---
 
 ## 📖 できればこれも
 
-- [comfortable](/word/comfortable)：快適な
-- [bright](/word/bright)：明るい
+- [comfortable](/word/comfortable/)：快適な
+- [bright](/word/bright/)：明るい
 
 <!-- cvid: aid14_bid26 -->

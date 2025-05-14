@@ -97,7 +97,7 @@ TOEICでは、イベントや施設の説明、活動内容の話題で「outdoo
 ## 🤔  outside との違いは？
 
 - **outdoor**：屋外の（形容詞）。名詞の前で「屋外の～」と限定する。
-- **[outside](/word/outside)**：外で、外側に（副詞・前置詞）。場所や位置を表す。
+- **[outside](/word/outside/)**：外で、外側に（副詞・前置詞）。場所や位置を表す。
 
 「outdoor」は名詞の前で「屋外の」と限定する形容詞、「outside」は場所や位置を表す副詞・前置詞です。
 
@@ -105,14 +105,14 @@ TOEICでは、イベントや施設の説明、活動内容の話題で「outdoo
 
 ## 🧩 あわせて覚えたい
 
-- [indoor](/word/indoor)：屋内の
-- [external](/word/external)：外部の、外側の
+- [indoor](/word/indoor/)：屋内の
+- [external](/word/external/)：外部の、外側の
 
 ---
 
 ## 📖 できればこれも
 
-- [outside](/word/outside)：外で、外側に
-- [open](/word/open)：開いている、開放的な
+- [outside](/word/outside/)：外で、外側に
+- [open](/word/open/)：開いている、開放的な
 
 <!-- cvid: aid02_bid39 -->

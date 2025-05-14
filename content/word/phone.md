@@ -97,7 +97,7 @@ TOEICでは会話や電話対応の場面で頻出します。特にPart 3のリ
 ## 🤔  telephone との違いは？
 
 - **phone**：カジュアルで日常的な「電話」「電話機」
-- **[telephone](/word/telephone)**：ややフォーマルで、特に正式な文書や場面で使われる「電話」
+- **[telephone](/word/telephone/)**：ややフォーマルで、特に正式な文書や場面で使われる「電話」
 
 phoneは普段の会話でよく使われ、telephoneはフォーマルな印象や古めかしさがあります。
 
@@ -105,14 +105,14 @@ phoneは普段の会話でよく使われ、telephoneはフォーマルな印象
 
 ## 🧩 あわせて覚えたい
 
-- [call](/word/call)：電話をかける、呼ぶ
-- [mobile](/word/mobile)：携帯電話
+- [call](/word/call/)：電話をかける、呼ぶ
+- [mobile](/word/mobile/)：携帯電話
 
 ---
 
 ## 📖 できればこれも
 
-- [message](/word/message)：メッセージ、伝言
-- [contact](/word/contact)：連絡する、連絡先
+- [message](/word/message/)：メッセージ、伝言
+- [contact](/word/contact/)：連絡する、連絡先
 
 <!-- cvid: aid02_bid03 -->

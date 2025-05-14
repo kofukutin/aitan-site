@@ -97,7 +97,7 @@ TOEICでは、工事現場やエネルギー関連の会話・説明文で「dri
 ## 🤔  boring との違いは？
 
 - **drilling**：機械や道具で穴をあける作業全般を指す。
-- **[boring](/word/boring)**：特に地面や岩石に深い穴を掘る作業を指し、drillingより専門的・技術的なニュアンスが強い。
+- **[boring](/word/boring/)**：特に地面や岩石に深い穴を掘る作業を指し、drillingより専門的・技術的なニュアンスが強い。
 
 drillingは一般的な「穴あけ作業」全般に使われ、boringは地質調査やトンネル工事などで「深く掘る」場合に使われます。
 
@@ -105,14 +105,14 @@ drillingは一般的な「穴あけ作業」全般に使われ、boringは地質
 
 ## 🧩 あわせて覚えたい
 
-- [excavation](/word/excavation)：掘削、発掘
-- [mining](/word/mining)：採鉱、鉱業
+- [excavation](/word/excavation/)：掘削、発掘
+- [mining](/word/mining/)：採鉱、鉱業
 
 ---
 
 ## 📖 できればこれも
 
-- [survey](/word/survey)：調査、測量
-- [measurement](/word/measurement)：測定、計測
+- [survey](/word/survey/)：調査、測量
+- [measurement](/word/measurement/)：測定、計測
 
 <!-- cvid: aid06_bid23 -->

@@ -97,7 +97,7 @@ TOEICでは、受動態や分詞構文、形容詞としての使い方でよく
 ## 🤔  famous との違いは？
 
 - **known**：多くの人に知られている、認識されている
-- **[famous](/word/famous)**：非常に有名な、名声がある
+- **[famous](/word/famous/)**：非常に有名な、名声がある
 
 **known**は単に「知られている」状態を指し、必ずしも高い評価や名声を伴いません。一方、**famous**は「とても有名で名声がある」ことを強調します。
 
@@ -105,14 +105,14 @@ TOEICでは、受動態や分詞構文、形容詞としての使い方でよく
 
 ## 🧩 あわせて覚えたい
 
-- [unknown](/word/unknown)：知られていない、未知の
-- [recognized](/word/recognized)：認められている、評価されている
+- [unknown](/word/unknown/)：知られていない、未知の
+- [recognized](/word/recognized/)：認められている、評価されている
 
 ---
 
 ## 📖 できればこれも
 
-- [familiar](/word/familiar)：よく知られている、親しい
-- [noted](/word/noted)：著名な、有名な
+- [familiar](/word/familiar/)：よく知られている、親しい
+- [noted](/word/noted/)：著名な、有名な
 
 <!-- cvid: aid48_bid07 -->

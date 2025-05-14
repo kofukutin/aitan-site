@@ -97,7 +97,7 @@ TOEICでは、主にビジネス文脈で「比較する」という意味で出
 ## 🤔  contrast との違いは？
 
 - **compare**：違いだけでなく共通点も含めて「比べる」
-- **[contrast](/word/contrast)**：主に「違い・対照」を強調して比べる
+- **[contrast](/word/contrast/)**：主に「違い・対照」を強調して比べる
 
 compareは「似ている点・違う点の両方」を調べるときに使い、contrastは「違い」に焦点を当てて比べるときに使います。
 
@@ -105,14 +105,14 @@ compareは「似ている点・違う点の両方」を調べるときに使い�
 
 ## 🧩 あわせて覚えたい
 
-- [evaluate](/word/evaluate)：評価する
-- [analyze](/word/analyze)：分析する
+- [evaluate](/word/evaluate/)：評価する
+- [analyze](/word/analyze/)：分析する
 
 ---
 
 ## 📖 できればこれも
 
-- [measure](/word/measure)：測定する
-- [examine](/word/examine)：調べる
+- [measure](/word/measure/)：測定する
+- [examine](/word/examine/)：調べる
 
 <!-- cvid: aid13_bid40 -->

@@ -98,7 +98,7 @@ hopedは、動詞の時制や文法問題でよく出題されます。特にhop
 ## 🤔  wished との違いは？
 
 - **hoped**：実現の可能性があることを「望んだ」「期待した」と表現する。
-- **[wished](/word/wished)**：実現が難しいことや非現実的な願いを「願った」と表現する。
+- **[wished](/word/wished/)**：実現が難しいことや非現実的な願いを「願った」と表現する。
 
 hopedは「叶うかもしれない期待」、wishedは「叶いそうにない願い」に使い分けます。
 
@@ -106,14 +106,14 @@ hopedは「叶うかもしれない期待」、wishedは「叶いそうにない
 
 ## 🧩 あわせて覚えたい
 
-- [expect](/word/expect)：期待する、予期する
-- [desire](/word/desire)：強く望む、欲する
+- [expect](/word/expect/)：期待する、予期する
+- [desire](/word/desire/)：強く望む、欲する
 
 ---
 
 ## 📖 できればこれも
 
-- [wait](/word/wait)：待つ
-- [plan](/word/plan)：計画する
+- [wait](/word/wait/)：待つ
+- [plan](/word/plan/)：計画する
 
 <!-- cvid: aid12_bid05 -->

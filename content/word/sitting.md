@@ -97,7 +97,7 @@ TOEICでは会議や試験の「1回分」など、まとまった時間や集�
 ## 🤔  session との違いは？
 
 - **sitting**：会議や集まりの「1回分」や「まとまった座っている時間」を強調
-- **[session](/word/session)**：会議・授業・活動などの「1期間」や「1セッション」を幅広く指す
+- **[session](/word/session/)**：会議・授業・活動などの「1期間」や「1セッション」を幅広く指す
 
 sittingは「座っていること」や「1回の会議」に焦点があり、sessionはより広く「活動の一区切り」を指します。
 
@@ -105,14 +105,14 @@ sittingは「座っていること」や「1回の会議」に焦点があり、
 
 ## 🧩 あわせて覚えたい
 
-- [meeting](/word/meeting)：会議
-- [appointment](/word/appointment)：約束、予約
+- [meeting](/word/meeting/)：会議
+- [appointment](/word/appointment/)：約束、予約
 
 ---
 
 ## 📖 できればこれも
 
-- [discussion](/word/discussion)：議論
-- [schedule](/word/schedule)：予定、スケジュール
+- [discussion](/word/discussion/)：議論
+- [schedule](/word/schedule/)：予定、スケジュール
 
 <!-- cvid: aid36_bid05 -->

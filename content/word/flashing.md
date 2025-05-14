@@ -97,7 +97,7 @@ TOEICでは、機械や電子機器の説明、トラブルシューティング
 ## 🤔  blinking との違いは？
 
 - **flashing**：素早く明るく点滅すること、特に注意や警告を示す場合に多い
-- **[blinking](/word/blinking)**：まばたきのようにゆっくり点滅すること、自然な点滅や短い消灯を含む
+- **[blinking](/word/blinking/)**：まばたきのようにゆっくり点滅すること、自然な点滅や短い消灯を含む
 
 「flashing」は警告灯や信号など、強調された点滅に使われることが多く、「blinking」はより自然な点滅やまばたきの動作に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、機械や電子機器の説明、トラブルシューティング
 
 ## 🧩 あわせて覚えたい
 
-- [signal](/word/signal)：信号、合図
-- [warning](/word/warning)：警告、注意
+- [signal](/word/signal/)：信号、合図
+- [warning](/word/warning/)：警告、注意
 
 ---
 
 ## 📖 できればこれも
 
-- [display](/word/display)：表示、ディスプレイ
-- [indicator](/word/indicator)：指示灯、インジケーター
+- [display](/word/display/)：表示、ディスプレイ
+- [indicator](/word/indicator/)：指示灯、インジケーター
 
 <!-- cvid: aid38_bid03 -->

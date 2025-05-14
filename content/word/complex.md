@@ -98,7 +98,7 @@ TOEICでは「複雑な」「複合施設」などの意味で、文脈判断や
 ## 🤔  complicated との違いは？
 
 - **complex**：多くの要素が絡み合い、構造的に複雑なことを表す
-- **[complicated](/word/complicated)**：理解や解決が難しいほど込み入っていることを強調
+- **[complicated](/word/complicated/)**：理解や解決が難しいほど込み入っていることを強調
 
 complexは「構造的な複雑さ」、complicatedは「解決や理解の難しさ」に焦点があります。
 
@@ -106,14 +106,14 @@ complexは「構造的な複雑さ」、complicatedは「解決や理解の難�
 
 ## 🧩 あわせて覚えたい
 
-- [simple](/word/simple)：単純な、簡単な
-- [compound](/word/compound)：合成の、複合の
+- [simple](/word/simple/)：単純な、簡単な
+- [compound](/word/compound/)：合成の、複合の
 
 ---
 
 ## 📖 できればこれも
 
-- [difficult](/word/difficult)：難しい
-- [structure](/word/structure)：構造
+- [difficult](/word/difficult/)：難しい
+- [structure](/word/structure/)：構造
 
 <!-- cvid: aid44_bid34 -->

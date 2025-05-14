@@ -97,7 +97,7 @@ TOEICでは、環境や産業に関する長文や記事で「farming」が登�
 ## 🤔  agriculture との違いは？
 
 - **farming**：実際の農作業や農業の営みを指し、日常的・具体的なニュアンス。
-- **[agriculture](/word/agriculture)**：農業全体や産業としての側面を強調し、よりフォーマルで広い意味。
+- **[agriculture](/word/agriculture/)**：農業全体や産業としての側面を強調し、よりフォーマルで広い意味。
 
 farmingは「現場の農作業」、agricultureは「産業や学問としての農業」といった違いがあります。
 
@@ -105,14 +105,14 @@ farmingは「現場の農作業」、agricultureは「産業や学問として�
 
 ## 🧩 あわせて覚えたい
 
-- [cultivation](/word/cultivation)：耕作、栽培
-- [harvest](/word/harvest)：収穫
+- [cultivation](/word/cultivation/)：耕作、栽培
+- [harvest](/word/harvest/)：収穫
 
 ---
 
 ## 📖 できればこれも
 
-- [farmer](/word/farmer)：農家、農業従事者
-- [field](/word/field)：畑、野原
+- [farmer](/word/farmer/)：農家、農業従事者
+- [field](/word/field/)：畑、野原
 
 <!-- cvid: aid20_bid48 -->

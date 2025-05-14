@@ -97,7 +97,7 @@ TOEICではセキュリティや法務、ビジネスの説明文で見かける
 ## 🤔  monitoring との違いは？
 
 - **surveillance**：犯罪防止や安全確保など、特定の目的で人や場所を継続的に監視すること
-- **[monitoring](/word/monitoring)**：状況やデータなどを観察・記録し続けること（監視以外にも幅広く使う）
+- **[monitoring](/word/monitoring/)**：状況やデータなどを観察・記録し続けること（監視以外にも幅広く使う）
 
 surveillanceは「見張る」「警戒する」などのニュアンスが強く、monitoringは「観察・記録」など幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ surveillanceは「見張る」「警戒する」などのニュアンスが強�
 
 ## 🧩 あわせて覚えたい
 
-- [inspection](/word/inspection)：検査、点検
-- [observation](/word/observation)：観察
+- [inspection](/word/inspection/)：検査、点検
+- [observation](/word/observation/)：観察
 
 ---
 
 ## 📖 できればこれも
 
-- [investigation](/word/investigation)：調査、捜査
-- [security](/word/security)：安全、警備
+- [investigation](/word/investigation/)：調査、捜査
+- [security](/word/security/)：安全、警備
 
 <!-- cvid: aid16_bid07 -->

@@ -97,7 +97,7 @@ TOEICでは、個人情報保護方針や利用規約、IT関連の説明文で�
 ## 🤔  confidentiality との違いは？
 
 - **privacy**：個人の私生活や情報が他人に知られない状態
-- **[confidentiality](/word/confidentiality)**：情報が秘密として守られること
+- **[confidentiality](/word/confidentiality/)**：情報が秘密として守られること
 
 privacyは「個人の領域や生活」に重点があり、confidentialityは「情報の機密性・守秘義務」に重点があります。
 
@@ -105,14 +105,14 @@ privacyは「個人の領域や生活」に重点があり、confidentialityは�
 
 ## 🧩 あわせて覚えたい
 
-- [security](/word/security)：安全、セキュリティ
-- [anonymity](/word/anonymity)：匿名性
+- [security](/word/security/)：安全、セキュリティ
+- [anonymity](/word/anonymity/)：匿名性
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy)：方針、ポリシー
-- [access](/word/access)：アクセス、接近
+- [policy](/word/policy/)：方針、ポリシー
+- [access](/word/access/)：アクセス、接近
 
 <!-- cvid: aid00_bid40 -->

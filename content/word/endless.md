@@ -97,7 +97,7 @@ TOEICでは形容詞の語彙問題や、説明文中で「終わりのない」
 ## 🤔  infinite との違いは？
 
 - **endless**：終わりがなく、途切れず続く様子を強調
-- **[infinite](/word/infinite)**：数学的・抽象的に「無限の」「限りない」
+- **[infinite](/word/infinite/)**：数学的・抽象的に「無限の」「限りない」
 
 endlessは「終わりが見えない長さや量」に焦点があり、infiniteは「理論的に限界がない」ことを表します。
 
@@ -105,14 +105,14 @@ endlessは「終わりが見えない長さや量」に焦点があり、infinit
 
 ## 🧩 あわせて覚えたい
 
-- [eternal](/word/eternal)：永遠の、永久の
-- [continuous](/word/continuous)：連続した、途切れない
+- [eternal](/word/eternal/)：永遠の、永久の
+- [continuous](/word/continuous/)：連続した、途切れない
 
 ---
 
 ## 📖 できればこれも
 
-- [constant](/word/constant)：絶え間ない、一定の
-- [limitless](/word/limitless)：限りない、無限の
+- [constant](/word/constant/)：絶え間ない、一定の
+- [limitless](/word/limitless/)：限りない、無限の
 
 <!-- cvid: aid03_bid02 -->

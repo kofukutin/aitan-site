@@ -97,7 +97,7 @@ TOEICでは科学や宗教、比喩表現の説明文で登場することがあ
 ## 🤔  aura との違いは？
 
 - **halo**：物理的・視覚的な「光の輪」や宗教画の「後光」を指すことが多い
-- **[aura](/word/aura)**：目に見えない「雰囲気」や「オーラ」を表す
+- **[aura](/word/aura/)**：目に見えない「雰囲気」や「オーラ」を表す
 
 haloは実際に見える光の輪や宗教的な象徴に使われ、auraは人や物が持つ目に見えない雰囲気や印象に使われます。
 
@@ -105,13 +105,13 @@ haloは実際に見える光の輪や宗教的な象徴に使われ、auraは人
 
 ## 🧩 あわせて覚えたい
 
-- [ring](/word/ring)：輪、指輪
-- [glow](/word/glow)：輝き、ほのかな光
+- [ring](/word/ring/)：輪、指輪
+- [glow](/word/glow/)：輝き、ほのかな光
 
 ---
 
 ## 📖 できればこれも
 
-- [sphere](/word/sphere)：球体
-- [circle](/word/circle)：円、輪
+- [sphere](/word/sphere/)：球体
+- [circle](/word/circle/)：円、輪
 <!-- cvid: aid40_bid06 -->

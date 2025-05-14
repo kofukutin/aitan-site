@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、結婚式の場面や人の説明と
 ## 🤔  bridegroom との違いは？
 
 - **bride**：結婚式での花嫁、新婦を指す
-- **[bridegroom](/word/bridegroom)**：結婚式での花婿、新郎を指す
+- **[bridegroom](/word/bridegroom/)**：結婚式での花婿、新郎を指す
 
 brideは女性、bridegroomは男性を指し、どちらも結婚式の主役ですが性別が異なります。
 
@@ -105,14 +105,14 @@ brideは女性、bridegroomは男性を指し、どちらも結婚式の主役�
 
 ## 🧩 あわせて覚えたい
 
-- [wedding](/word/wedding)：結婚式
-- [fiancee](/word/fiancee)：婚約中の女性
+- [wedding](/word/wedding/)：結婚式
+- [fiancee](/word/fiancee/)：婚約中の女性
 
 ---
 
 ## 📖 できればこれも
 
-- [groom](/word/groom)：花婿、新郎
-- [marriage](/word/marriage)：結婚（状態・制度）
+- [groom](/word/groom/)：花婿、新郎
+- [marriage](/word/marriage/)：結婚（状態・制度）
 
 <!-- cvid: aid31_bid05 -->

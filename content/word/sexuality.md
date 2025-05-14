@@ -97,7 +97,7 @@ TOEICではダイバーシティや人権、教育関連の長文で見かける
 ## 🤔  gender との違いは？
 
 - **sexuality**：性的指向や性意識、性に関する個人の特徴全般
-- **[gender](/word/gender)**：社会的・文化的な性別（男性・女性など）
+- **[gender](/word/gender/)**：社会的・文化的な性別（男性・女性など）
 
 sexualityは「性そのものや性的傾向」に焦点があり、genderは「社会的な性別の区分」に重点があります。
 
@@ -105,14 +105,14 @@ sexualityは「性そのものや性的傾向」に焦点があり、genderは�
 
 ## 🧩 あわせて覚えたい
 
-- [orientation](/word/orientation)：性的指向
-- [identity](/word/identity)：自己認識、アイデンティティ
+- [orientation](/word/orientation/)：性的指向
+- [identity](/word/identity/)：自己認識、アイデンティティ
 
 ---
 
 ## 📖 できればこれも
 
-- [diversity](/word/diversity)：多様性
-- [equality](/word/equality)：平等
+- [diversity](/word/diversity/)：多様性
+- [equality](/word/equality/)：平等
 
 <!-- cvid: aid05_bid42 -->

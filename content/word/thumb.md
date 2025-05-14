@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、手や指の動作を説明する際
 ## 🤔  finger との違いは？
 
 - **thumb**：親指のみを指す
-- **[finger](/word/finger)**：親指以外の4本の指、または手の指全体を指すこともある
+- **[finger](/word/finger/)**：親指以外の4本の指、または手の指全体を指すこともある
 
 thumbは「親指」限定、fingerは「親指以外」や「指全体」を指す場合があり、文脈で使い分けます。
 
@@ -105,14 +105,14 @@ thumbは「親指」限定、fingerは「親指以外」や「指全体」を指
 
 ## 🧩 あわせて覚えたい
 
-- [toe](/word/toe)：足の指
-- [hand](/word/hand)：手
+- [toe](/word/toe/)：足の指
+- [hand](/word/hand/)：手
 
 ---
 
 ## 📖 できればこれも
 
-- [nail](/word/nail)：爪
-- [palm](/word/palm)：手のひら
+- [nail](/word/nail/)：爪
+- [palm](/word/palm/)：手のひら
 
 <!-- cvid: aid28_bid41 -->

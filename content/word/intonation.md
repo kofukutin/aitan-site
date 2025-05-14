@@ -97,7 +97,7 @@ TOEICでは、英語学習や発音に関する説明文や会話文で「intona
 ## 🤔  accent との違いは？
 
 - **intonation**：話すときの声の上がり下がりや抑揚
-- **[accent](/word/accent)**：発音のなまりや特有の音
+- **[accent](/word/accent/)**：発音のなまりや特有の音
 
 intonationは「声の高低やリズム」に注目し、accentは「地域や国ごとの発音の特徴」を指します。
 
@@ -105,14 +105,14 @@ intonationは「声の高低やリズム」に注目し、accentは「地域や�
 
 ## 🧩 あわせて覚えたい
 
-- [pronunciation](/word/pronunciation)：発音
-- [stress](/word/stress)：（単語や文の）強勢
+- [pronunciation](/word/pronunciation/)：発音
+- [stress](/word/stress/)：（単語や文の）強勢
 
 ---
 
 ## 📖 できればこれも
 
-- [pronounce](/word/pronounce)：発音する
-- [expression](/word/expression)：表現
+- [pronounce](/word/pronounce/)：発音する
+- [expression](/word/expression/)：表現
 
 <!-- cvid: aid03_bid18 -->

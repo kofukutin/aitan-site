@@ -97,7 +97,7 @@ TOEICでは、ホテルやサービス業のシーンで「快適さ」や「安
 ## 🤔  convenience との違いは？
 
 - **comfort**：心身の快適さや安心感、物理的・精神的な「心地よさ」
-- **[convenience](/word/convenience)**：利便性、便利さ、手間がかからないこと
+- **[convenience](/word/convenience/)**：利便性、便利さ、手間がかからないこと
 
 comfortは「気持ちよさ」や「安心感」に重点があり、convenienceは「便利さ」や「効率の良さ」に重点があります。
 
@@ -105,14 +105,14 @@ comfortは「気持ちよさ」や「安心感」に重点があり、convenienc
 
 ## 🧩 あわせて覚えたい
 
-- [relief](/word/relief)：安心、安堵
-- [luxury](/word/luxury)：贅沢、豪華さ
+- [relief](/word/relief/)：安心、安堵
+- [luxury](/word/luxury/)：贅沢、豪華さ
 
 ---
 
 ## 📖 できればこれも
 
-- [support](/word/support)：支援、サポート
-- [ease](/word/ease)：気楽さ、容易さ
+- [support](/word/support/)：支援、サポート
+- [ease](/word/ease/)：気楽さ、容易さ
 
 <!-- cvid: aid48_bid00 -->

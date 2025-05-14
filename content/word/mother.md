@@ -97,7 +97,7 @@ TOEICでは家族や人物を表す写真描写問題でよく登場します。
 ## 🤔  parent との違いは？
 
 - **mother**：女性の親、母親を指す。
-- **[parent](/word/parent)**：父母どちらか、または両方の親を指す。
+- **[parent](/word/parent/)**：父母どちらか、または両方の親を指す。
 
 「mother」は性別が限定されるのに対し、「parent」は性別を問わず親全体を指します。
 
@@ -105,14 +105,14 @@ TOEICでは家族や人物を表す写真描写問題でよく登場します。
 
 ## 🧩 あわせて覚えたい
 
-- [father](/word/father)：父、父親
-- [child](/word/child)：子ども
+- [father](/word/father/)：父、父親
+- [child](/word/child/)：子ども
 
 ---
 
 ## 📖 できればこれも
 
-- [family](/word/family)：家族
-- [sister](/word/sister)：姉妹
+- [family](/word/family/)：家族
+- [sister](/word/sister/)：姉妹
 
 <!-- cvid: aid49_bid32 -->

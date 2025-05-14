@@ -97,7 +97,7 @@ TOEICでは、都市の交通手段や道案内、移動に関する会話でよ
 ## 🤔  underground との違いは？
 
 - **subway**：アメリカ英語で「地下鉄」を指す。
-- **[underground](/word/underground)**：イギリス英語で「地下鉄」を指す。
+- **[underground](/word/underground/)**：イギリス英語で「地下鉄」を指す。
 
 アメリカではsubway、イギリスではundergroundが一般的に使われます。旅行先によって使い分けましょう。
 
@@ -105,14 +105,14 @@ TOEICでは、都市の交通手段や道案内、移動に関する会話でよ
 
 ## 🧩 あわせて覚えたい
 
-- [train](/word/train)：電車
-- [station](/word/station)：駅
+- [train](/word/train/)：電車
+- [station](/word/station/)：駅
 
 ---
 
 ## 📖 できればこれも
 
-- [bus](/word/bus)：バス
-- [platform](/word/platform)：ホーム
+- [bus](/word/bus/)：バス
+- [platform](/word/platform/)：ホーム
 
 <!-- cvid: aid34_bid04 -->

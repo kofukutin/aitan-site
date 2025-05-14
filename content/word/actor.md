@@ -97,7 +97,7 @@ TOEICでは、映画やイベント、広告などの話題で「actor」が登�
 ## 🤔  performer との違いは？
 
 - **actor**：映画や舞台などで役を演じる人
-- **[performer](/word/performer)**：演技だけでなく、歌やダンスなど舞台で何かを披露する人
+- **[performer](/word/performer/)**：演技だけでなく、歌やダンスなど舞台で何かを披露する人
 
 actorは「役を演じる」ことに特化し、performerはより広く「何かを披露する人」を指します。
 
@@ -105,14 +105,14 @@ actorは「役を演じる」ことに特化し、performerはより広く「何
 
 ## 🧩 あわせて覚えたい
 
-- [actress](/word/actress)：女優
-- [director](/word/director)：監督
+- [actress](/word/actress/)：女優
+- [director](/word/director/)：監督
 
 ---
 
 ## 📖 できればこれも
 
-- [audience](/word/audience)：観客
-- [stage](/word/stage)：舞台
+- [audience](/word/audience/)：観客
+- [stage](/word/stage/)：舞台
 
 <!-- cvid: aid45_bid09 -->

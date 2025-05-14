@@ -97,7 +97,7 @@ TOEICでは、案内や指導、助言に関するメールや通知文、社内
 ## 🤔  advice との違いは？
 
 - **guidance**：体系的・継続的な指導や案内、方向性を示す助言
-- **[advice](/word/advice)**：具体的なアドバイスや提案、助言
+- **[advice](/word/advice/)**：具体的なアドバイスや提案、助言
 
 guidanceは全体の方向性や継続的なサポートを指し、adviceは個別の具体的な助言を指す点が異なります。
 
@@ -105,14 +105,14 @@ guidanceは全体の方向性や継続的なサポートを指し、adviceは個
 
 ## 🧩 あわせて覚えたい
 
-- [instruction](/word/instruction)：指示、説明
-- [direction](/word/direction)：指示、方向
+- [instruction](/word/instruction/)：指示、説明
+- [direction](/word/direction/)：指示、方向
 
 ---
 
 ## 📖 できればこれも
 
-- [consultation](/word/consultation)：相談、協議
-- [recommendation](/word/recommendation)：推薦、勧告
+- [consultation](/word/consultation/)：相談、協議
+- [recommendation](/word/recommendation/)：推薦、勧告
 
 <!-- cvid: aid08_bid45 -->

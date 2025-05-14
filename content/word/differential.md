@@ -97,7 +97,7 @@ TOEICでは主にビジネスや技術系の長文で「格差」「差異」と
 ## 🤔  difference との違いは？
 
 - **differential**：主に「数量や程度の差」「格差」など、フォーマルかつ専門的な場面で使われる。
-- **[difference](/word/difference)**：一般的な「違い」「相違」を幅広く表す。
+- **[difference](/word/difference/)**：一般的な「違い」「相違」を幅広く表す。
 
 differentialは数量的・技術的な「差異」に特化し、differenceは日常的な「違い」全般に使われます。
 
@@ -105,14 +105,14 @@ differentialは数量的・技術的な「差異」に特化し、differenceは�
 
 ## 🧩 あわせて覚えたい
 
-- [disparity](/word/disparity)：（不公平な）格差、相違
-- [variation](/word/variation)：変動、変化
+- [disparity](/word/disparity/)：（不公平な）格差、相違
+- [variation](/word/variation/)：変動、変化
 
 ---
 
 ## 📖 できればこれも
 
-- [ratio](/word/ratio)：比率
-- [margin](/word/margin)：差、余白
+- [ratio](/word/ratio/)：比率
+- [margin](/word/margin/)：差、余白
 
 <!-- cvid: aid08_bid38 -->

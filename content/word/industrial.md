@@ -97,7 +97,7 @@ TOEICでは、工場や産業に関する説明文や、ビジネス文書の形
 ## 🤔  commercial との違いは？
 
 - **industrial**：産業や工業に関する、工場や生産活動に関連する
-- **[commercial](/word/commercial)**：商業の、ビジネスや取引・広告に関連する
+- **[commercial](/word/commercial/)**：商業の、ビジネスや取引・広告に関連する
 
 industrialは「生産・製造」に焦点があり、commercialは「販売・取引・広告」など商業活動に関係します。
 
@@ -105,14 +105,14 @@ industrialは「生産・製造」に焦点があり、commercialは「販売・
 
 ## 🧩 あわせて覚えたい
 
-- [manufacturing](/word/manufacturing)：製造業、ものづくり
-- [corporate](/word/corporate)：企業の、法人の
+- [manufacturing](/word/manufacturing/)：製造業、ものづくり
+- [corporate](/word/corporate/)：企業の、法人の
 
 ---
 
 ## 📖 できればこれも
 
-- [productive](/word/productive)：生産的な
-- [factory](/word/factory)：工場
+- [productive](/word/productive/)：生産的な
+- [factory](/word/factory/)：工場
 
 <!-- cvid: aid22_bid32 -->

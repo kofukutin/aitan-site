@@ -97,7 +97,7 @@ TOEICではITや歴史、ビジネス分野の長文で登場することがあ�
 ## 🤔  prophet との違いは？
 
 - **oracle**：神託や助言を与える存在や場所、またはその言葉自体を指す
-- **[prophet](/word/prophet)**：神の言葉を伝える「預言者」その人を指す
+- **[prophet](/word/prophet/)**：神の言葉を伝える「預言者」その人を指す
 
 oracleは「神託」や「助言」を与える存在や場所全般を指し、prophetは「預言者」という特定の人物を指します。
 
@@ -105,14 +105,14 @@ oracleは「神託」や「助言」を与える存在や場所全般を指し�
 
 ## 🧩 あわせて覚えたい
 
-- [prediction](/word/prediction)：予言、予測
-- [revelation](/word/revelation)：啓示、明らかにすること
+- [prediction](/word/prediction/)：予言、予測
+- [revelation](/word/revelation/)：啓示、明らかにすること
 
 ---
 
 ## 📖 できればこれも
 
-- [database](/word/database)：データベース、情報の集まり
-- [consult](/word/consult)：相談する、助言を求める
+- [database](/word/database/)：データベース、情報の集まり
+- [consult](/word/consult/)：相談する、助言を求める
 
 <!-- cvid: aid22_bid20 -->

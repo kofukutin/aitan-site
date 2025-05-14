@@ -97,7 +97,7 @@ TOEICでは求人広告やビジネス文書、面接関連の長文で頻出し
 ## 🤔  employee との違いは？
 
 - **employer**：人を雇う側（雇用主）
-- **[employee](/word/employee)**：雇われる側（従業員）
+- **[employee](/word/employee/)**：雇われる側（従業員）
 
 employerは「雇う人」、employeeは「雇われる人」と立場が逆です。求人や面接の場面で混同しやすいので注意しましょう。
 
@@ -105,14 +105,14 @@ employerは「雇う人」、employeeは「雇われる人」と立場が逆で�
 
 ## 🧩 あわせて覚えたい
 
-- [manager](/word/manager)：管理職、マネージャー
-- [recruiter](/word/recruiter)：採用担当者
+- [manager](/word/manager/)：管理職、マネージャー
+- [recruiter](/word/recruiter/)：採用担当者
 
 ---
 
 ## 📖 できればこれも
 
-- [employment](/word/employment)：雇用
-- [applicant](/word/applicant)：応募者
+- [employment](/word/employment/)：雇用
+- [applicant](/word/applicant/)：応募者
 
 <!-- cvid: aid36_bid45 -->

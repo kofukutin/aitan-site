@@ -97,7 +97,7 @@ TOEICでは観光案内や動物に関する長文、パンフレットなどで
 ## 🤔  leopard との違いは？
 
 - **jaguar**：南米・中米に生息し、がっしりした体型の大型ネコ科動物。
-- **[leopard](/word/leopard)**：アフリカやアジアに生息し、体がやや細身のヒョウ。
+- **[leopard](/word/leopard/)**：アフリカやアジアに生息し、体がやや細身のヒョウ。
 
 jaguarは主にアメリカ大陸、leopardはアフリカやアジアに生息地が分かれ、体型や模様も異なります。
 
@@ -105,14 +105,14 @@ jaguarは主にアメリカ大陸、leopardはアフリカやアジアに生息�
 
 ## 🧩 あわせて覚えたい
 
-- [panther](/word/panther)：黒ヒョウ（ヒョウやジャガーの黒変種）
-- [tiger](/word/tiger)：トラ（アジアに生息する大型ネコ科動物）
+- [panther](/word/panther/)：黒ヒョウ（ヒョウやジャガーの黒変種）
+- [tiger](/word/tiger/)：トラ（アジアに生息する大型ネコ科動物）
 
 ---
 
 ## 📖 できればこれも
 
-- [zebra](/word/zebra)：シマウマ
-- [lion](/word/lion)：ライオン
+- [zebra](/word/zebra/)：シマウマ
+- [lion](/word/lion/)：ライオン
 
 <!-- cvid: aid18_bid24 -->

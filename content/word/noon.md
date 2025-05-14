@@ -97,7 +97,7 @@ TOEICでは、時刻やスケジュールに関する会話や写真描写でよ
 ## 🤔  midday との違いは？
 
 - **noon**：正確に12時（正午）を指す
-- **[midday](/word/midday)**：午前と午後の境目付近、正午前後の時間帯を指す
+- **[midday](/word/midday/)**：午前と午後の境目付近、正午前後の時間帯を指す
 
 noonは「12時ちょうど」を意味し、middayは「昼ごろ」や「昼間の時間帯」とやや幅広く使われます。
 
@@ -105,14 +105,14 @@ noonは「12時ちょうど」を意味し、middayは「昼ごろ」や「昼�
 
 ## 🧩 あわせて覚えたい
 
-- [afternoon](/word/afternoon)：午後
-- [midnight](/word/midnight)：真夜中、午前0時
+- [afternoon](/word/afternoon/)：午後
+- [midnight](/word/midnight/)：真夜中、午前0時
 
 ---
 
 ## 📖 できればこれも
 
-- [morning](/word/morning)：朝
-- [evening](/word/evening)：夕方
+- [morning](/word/morning/)：朝
+- [evening](/word/evening/)：夕方
 
 <!-- cvid: aid11_bid34 -->

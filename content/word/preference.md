@@ -97,7 +97,7 @@ TOEICでは「希望」「優先事項」「好み」を尋ねる文脈でよく
 ## 🤔  priority との違いは？
 
 - **preference**：他よりも好き・希望するものや順序
-- **[priority](/word/priority)**：最も重要・優先すべきもの
+- **[priority](/word/priority/)**：最も重要・優先すべきもの
 
 preferenceは「好み」や「希望」を表し、priorityは「最優先事項」や「重要度」を強調します。
 
@@ -105,14 +105,14 @@ preferenceは「好み」や「希望」を表し、priorityは「最優先事�
 
 ## 🧩 あわせて覚えたい
 
-- [option](/word/option)：選択肢
-- [choice](/word/choice)：選択、選ぶこと
+- [option](/word/option/)：選択肢
+- [choice](/word/choice/)：選択、選ぶこと
 
 ---
 
 ## 📖 できればこれも
 
-- [requirement](/word/requirement)：要件、必要条件
-- [suggestion](/word/suggestion)：提案
+- [requirement](/word/requirement/)：要件、必要条件
+- [suggestion](/word/suggestion/)：提案
 
 <!-- cvid: aid01_bid04 -->

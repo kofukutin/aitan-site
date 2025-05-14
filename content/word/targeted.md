@@ -97,7 +97,7 @@ targetedは、TOEICの長文読解やビジネス関連のメール・広告文�
 ## 🤔  focused との違いは？
 
 - **targeted**：特定の対象や目的に向けて意図的に狙いを定めた
-- **[focused](/word/focused)**：注意や関心が一点に集中している
+- **[focused](/word/focused/)**：注意や関心が一点に集中している
 
 targetedは「誰・何に向けて」狙いを定めているかが明確で、focusedは「集中している状態」を表します。目的や対象の有無が使い分けのポイントです。
 
@@ -105,14 +105,14 @@ targetedは「誰・何に向けて」狙いを定めているかが明確で、
 
 ## 🧩 あわせて覚えたい
 
-- [specific](/word/specific)：特定の、明確な
-- [general](/word/general)：一般的な
+- [specific](/word/specific/)：特定の、明確な
+- [general](/word/general/)：一般的な
 
 ---
 
 ## 📖 できればこれも
 
-- [strategic](/word/strategic)：戦略的な
-- [effective](/word/effective)：効果的な
+- [strategic](/word/strategic/)：戦略的な
+- [effective](/word/effective/)：効果的な
 
 <!-- cvid: aid12_bid09 -->

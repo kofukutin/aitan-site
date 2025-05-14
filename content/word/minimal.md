@@ -97,7 +97,7 @@ minimalはPart 5の語彙問題や文脈判断で出題されることが多い�
 ## 🤔  minimum との違いは？
 
 - **minimal**：ごくわずかな、最小限の（程度や量が非常に小さいことを強調）
-- **[minimum](/word/minimum)**：最小値、最低限（数量や基準としての「最小」）
+- **[minimum](/word/minimum/)**：最小値、最低限（数量や基準としての「最小」）
 
 minimalは「ごくわずかである状態」を形容詞として表し、minimumは「最小値」や「最低限」という名詞・形容詞で使われます。
 
@@ -105,14 +105,14 @@ minimalは「ごくわずかである状態」を形容詞として表し、mini
 
 ## 🧩 あわせて覚えたい
 
-- [slight](/word/slight)：わずかな、少しの
-- [maximum](/word/maximum)：最大、最高
+- [slight](/word/slight/)：わずかな、少しの
+- [maximum](/word/maximum/)：最大、最高
 
 ---
 
 ## 📖 できればこれも
 
-- [moderate](/word/moderate)：適度な、ほどほどの
-- [essential](/word/essential)：不可欠な、必要不可欠な
+- [moderate](/word/moderate/)：適度な、ほどほどの
+- [essential](/word/essential/)：不可欠な、必要不可欠な
 
 <!-- cvid: aid42_bid42 -->

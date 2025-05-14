@@ -97,7 +97,7 @@ TOEICでは、技術系や工場設備、機械の説明文などで見かける
 ## 🤔  pneumatic との違いは？
 
 - **hydraulic**：水や油など「液体の圧力」を利用した
-- **[pneumatic](/word/pneumatic)**：空気など「気体の圧力」を利用した
+- **[pneumatic](/word/pneumatic/)**：空気など「気体の圧力」を利用した
 
 hydraulicは液体、pneumaticは気体を使う点が大きな違いです。機械や装置の動力源によって使い分けます。
 
@@ -105,14 +105,14 @@ hydraulicは液体、pneumaticは気体を使う点が大きな違いです。�
 
 ## 🧩 あわせて覚えたい
 
-- [mechanical](/word/mechanical)：機械の、機械的な
-- [fluid](/word/fluid)：流体、液体や気体
+- [mechanical](/word/mechanical/)：機械の、機械的な
+- [fluid](/word/fluid/)：流体、液体や気体
 
 ---
 
 ## 📖 できればこれも
 
-- [hydrogen](/word/hydrogen)：水素
-- [hydrology](/word/hydrology)：水文学
+- [hydrogen](/word/hydrogen/)：水素
+- [hydrology](/word/hydrology/)：水文学
 
 <!-- cvid: aid37_bid36 -->

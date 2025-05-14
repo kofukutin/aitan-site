@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写で「手で持つ」「手を挙げる」など
 ## 🤔  arm との違いは？
 
 - **hand**：手首から先の「手」そのものを指します。
-- **[arm](/word/arm)**：肩から手首までの「腕」全体を指します。
+- **[arm](/word/arm/)**：肩から手首までの「腕」全体を指します。
 
 handは物をつかむ・握るなどの動作に使い、armは腕全体の動きや部位を表すときに使います。
 
@@ -105,14 +105,14 @@ handは物をつかむ・握るなどの動作に使い、armは腕全体の動�
 
 ## 🧩 あわせて覚えたい
 
-- [finger](/word/finger)：指
-- [assist](/word/assist)：手伝う、補助する
+- [finger](/word/finger/)：指
+- [assist](/word/assist/)：手伝う、補助する
 
 ---
 
 ## 📖 できればこれも
 
-- [help](/word/help)：助ける、手伝う
-- [hold](/word/hold)：持つ、握る
+- [help](/word/help/)：助ける、手伝う
+- [hold](/word/hold/)：持つ、握る
 
 <!-- cvid: aid41_bid48 -->

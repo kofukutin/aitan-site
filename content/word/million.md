@@ -97,7 +97,7 @@ TOEICでは金額や数量を問う問題で頻出します。特に数字表現
 ## 🤔  billion との違いは？
 
 - **million**：100万（1,000,000）を表す
-- **[billion](/word/billion)**：10億（1,000,000,000）を表す
+- **[billion](/word/billion/)**：10億（1,000,000,000）を表す
 
 millionは100万、billionはその10倍以上の10億を指します。桁数が大きく異なるので、金額や数量の話で混同しないよう注意しましょう。
 
@@ -105,14 +105,14 @@ millionは100万、billionはその10倍以上の10億を指します。桁数�
 
 ## 🧩 あわせて覚えたい
 
-- [thousand](/word/thousand)：千（1,000）
-- [trillion](/word/trillion)：1兆（1,000,000,000,000）
+- [thousand](/word/thousand/)：千（1,000）
+- [trillion](/word/trillion/)：1兆（1,000,000,000,000）
 
 ---
 
 ## 📖 できればこれも
 
-- [hundred](/word/hundred)：百（100）
-- [dozen](/word/dozen)：ダース（12個）
+- [hundred](/word/hundred/)：百（100）
+- [dozen](/word/dozen/)：ダース（12個）
 
 <!-- cvid: aid13_bid19 -->

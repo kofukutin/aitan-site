@@ -97,7 +97,7 @@ TOEICでは会議や出張、予定調整などの場面で頻出します。手
 ## 🤔  agreement との違いは？
 
 - **arrangement**：具体的な手配や準備、または非公式な取り決めを指すことが多い
-- **[agreement](/word/agreement)**：正式な合意や契約を指す
+- **[agreement](/word/agreement/)**：正式な合意や契約を指す
 
 arrangementは「準備」や「段取り」など実務的な調整を表し、agreementは法的・公式な合意や契約を強調します。
 
@@ -105,14 +105,14 @@ arrangementは「準備」や「段取り」など実務的な調整を表し、
 
 ## 🧩 あわせて覚えたい
 
-- [preparation](/word/preparation)：準備、用意
-- [organization](/word/organization)：組織、整理
+- [preparation](/word/preparation/)：準備、用意
+- [organization](/word/organization/)：組織、整理
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/word/schedule)：予定、スケジュール
-- [plan](/word/plan)：計画
+- [schedule](/word/schedule/)：予定、スケジュール
+- [plan](/word/plan/)：計画
 
 <!-- cvid: aid05_bid20 -->

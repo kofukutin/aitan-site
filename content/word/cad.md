@@ -97,7 +97,7 @@ TOEICでは文学的な表現や人物描写の文脈でまれに登場します
 ## 🤔  scoundrel との違いは？
 
 - **cad**：主に礼儀や誠実さに欠け、特に女性に対して失礼な男性を指すやや古風な表現。
-- **[scoundrel](/word/scoundrel)**：より一般的に「悪党」「悪人」を指し、性別や場面を問わず使われる。
+- **[scoundrel](/word/scoundrel/)**：より一般的に「悪党」「悪人」を指し、性別や場面を問わず使われる。
 
 cadは女性への非礼や品のなさを強調し、scoundrelはより広い意味での悪人を指します。
 
@@ -105,14 +105,14 @@ cadは女性への非礼や品のなさを強調し、scoundrelはより広い�
 
 ## 🧩 あわせて覚えたい
 
-- [gentleman](/word/gentleman)：紳士、礼儀正しい男性
-- [villain](/word/villain)：悪党、悪人
+- [gentleman](/word/gentleman/)：紳士、礼儀正しい男性
+- [villain](/word/villain/)：悪党、悪人
 
 ---
 
 ## 📖 できればこれも
 
-- [rogue](/word/rogue)：いたずら者、悪党
-- [rascal](/word/rascal)：やんちゃ者、悪党
+- [rogue](/word/rogue/)：いたずら者、悪党
+- [rascal](/word/rascal/)：やんちゃ者、悪党
 
 <!-- cvid: aid26_bid41 -->

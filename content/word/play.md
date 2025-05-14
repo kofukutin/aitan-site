@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「遊ぶ」「演奏する」「役割を果た
 ## 🤔  perform との違いは？
 
 - **play**：遊ぶ、スポーツや楽器をする、役を演じるなど幅広く使う
-- **[perform](/word/perform)**：演奏・演技・仕事などを「遂行する」「披露する」ときに使う
+- **[perform](/word/perform/)**：演奏・演技・仕事などを「遂行する」「披露する」ときに使う
 
 playはカジュアルに「楽しむ」「行う」ニュアンスが強く、performは「公式に披露する」「任務を果たす」などフォーマルな場面で使われます。
 
@@ -105,14 +105,14 @@ playはカジュアルに「楽しむ」「行う」ニュアンスが強く、p
 
 ## 🧩 あわせて覚えたい
 
-- [practice](/word/practice)：練習する、実践する
-- [game](/word/game)：ゲーム、試合
+- [practice](/word/practice/)：練習する、実践する
+- [game](/word/game/)：ゲーム、試合
 
 ---
 
 ## 📖 できればこれも
 
-- [enjoy](/word/enjoy)：楽しむ
-- [sing](/word/sing)：歌う
+- [enjoy](/word/enjoy/)：楽しむ
+- [sing](/word/sing/)：歌う
 
 <!-- cvid: aid46_bid11 -->

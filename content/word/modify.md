@@ -97,7 +97,7 @@ TOEICでは「書類や計画の修正」「仕様変更」など、ビジネス
 ## 🤔  change との違いは？
 
 - **modify**：部分的に修正・調整するニュアンスが強い
-- **[change](/word/change)**：全体的に変える、または大きく変化させる意味
+- **[change](/word/change/)**：全体的に変える、または大きく変化させる意味
 
 modifyは「一部を直す」「調整する」イメージ、changeは「全体を変える」「別のものにする」イメージです。
 
@@ -105,14 +105,14 @@ modifyは「一部を直す」「調整する」イメージ、changeは「全�
 
 ## 🧩 あわせて覚えたい
 
-- [adjust](/word/adjust)：微調整する、適応させる
-- [revise](/word/revise)：（文書などを）改訂する、見直す
+- [adjust](/word/adjust/)：微調整する、適応させる
+- [revise](/word/revise/)：（文書などを）改訂する、見直す
 
 ---
 
 ## 📖 できればこれも
 
-- [edit](/word/edit)：編集する、手直しする
-- [update](/word/update)：最新の状態にする、更新する
+- [edit](/word/edit/)：編集する、手直しする
+- [update](/word/update/)：最新の状態にする、更新する
 
 <!-- cvid: aid10_bid01 -->

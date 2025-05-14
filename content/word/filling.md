@@ -97,7 +97,7 @@ TOEICでは、日常会話や医療、食品に関する場面で「filling」�
 ## 🤔  stuffing との違いは？
 
 - **filling**：パイやサンドイッチ、歯の詰め物など「中身」や「詰め物」全般に使う。
-- **[stuffing](/word/stuffing)**：主に料理で、肉や野菜の中に詰める「詰め物」に使う。
+- **[stuffing](/word/stuffing/)**：主に料理で、肉や野菜の中に詰める「詰め物」に使う。
 
 fillingは幅広い「中身」に使えますが、stuffingは特に料理の詰め物に限定されることが多いです。
 
@@ -105,14 +105,14 @@ fillingは幅広い「中身」に使えますが、stuffingは特に料理の�
 
 ## 🧩 あわせて覚えたい
 
-- [coating](/word/coating)：コーティング、覆うもの
-- [topping](/word/topping)：トッピング、上に乗せるもの
+- [coating](/word/coating/)：コーティング、覆うもの
+- [topping](/word/topping/)：トッピング、上に乗せるもの
 
 ---
 
 ## 📖 できればこれも
 
-- [ingredient](/word/ingredient)：材料、成分
-- [mixture](/word/mixture)：混合物
+- [ingredient](/word/ingredient/)：材料、成分
+- [mixture](/word/mixture/)：混合物
 
 <!-- cvid: aid16_bid17 -->

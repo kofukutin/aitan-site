@@ -97,7 +97,7 @@ TOEICでは、会話文や指示の中で「包む」「まとめる」という
 ## 🤔  cover との違いは？
 
 - **wrap**：何かをぐるっと包み込む、巻き付けるイメージ
-- **[cover](/word/cover)**：表面を覆う、隠すイメージ
+- **[cover](/word/cover/)**：表面を覆う、隠すイメージ
 
 wrapは「全体を包む・巻く」動作、coverは「上から覆う」動作に使い分けます。
 
@@ -105,14 +105,14 @@ wrapは「全体を包む・巻く」動作、coverは「上から覆う」動�
 
 ## 🧩 あわせて覚えたい
 
-- [enclose](/word/enclose)：囲む、同封する
-- [unwrap](/word/unwrap)：包みを開ける
+- [enclose](/word/enclose/)：囲む、同封する
+- [unwrap](/word/unwrap/)：包みを開ける
 
 ---
 
 ## 📖 できればこれも
 
-- [pack](/word/pack)：荷造りする、詰める
-- [fold](/word/fold)：折りたたむ
+- [pack](/word/pack/)：荷造りする、詰める
+- [fold](/word/fold/)：折りたたむ
 
 <!-- cvid: aid46_bid10 -->

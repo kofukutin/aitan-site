@@ -97,7 +97,7 @@ TOEICでは、attemptedは主に形容詞として「未遂の」「試みられ
 ## 🤔  tried との違いは？
 
 - **attempted**：何かをしようとしたが、成功しなかった・未遂で終わったことを強調
-- **[tried](/word/tried)**：単に「試した」「努力した」という意味で、成功・失敗は問わない
+- **[tried](/word/tried/)**：単に「試した」「努力した」という意味で、成功・失敗は問わない
 
 attemptedは特に「未遂」や「達成できなかった」ニュアンスが強く、triedは「やってみた」こと自体に焦点があります。
 
@@ -105,14 +105,14 @@ attemptedは特に「未遂」や「達成できなかった」ニュアンス�
 
 ## 🧩 あわせて覚えたい
 
-- [failed](/word/failed)：失敗した
-- [effort](/word/effort)：努力
+- [failed](/word/failed/)：失敗した
+- [effort](/word/effort/)：努力
 
 ---
 
 ## 📖 できればこれも
 
-- [intended](/word/intended)：意図された
-- [planned](/word/planned)：計画された
+- [intended](/word/intended/)：意図された
+- [planned](/word/planned/)：計画された
 
 <!-- cvid: aid18_bid13 -->

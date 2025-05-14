@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、キッチンやオフィスの設備
 ## 🤔  oven との違いは？
 
 - **microwave**：電子レンジ。マイクロ波で素早く加熱する家電。
-- **[oven](/word/oven)**：オーブン。主に焼く・蒸すなどの加熱調理をする家電。
+- **[oven](/word/oven/)**：オーブン。主に焼く・蒸すなどの加熱調理をする家電。
 
 microwaveは短時間で温めるのに使い、ovenはパンやケーキを焼くなど長時間の加熱調理に使います。
 
@@ -105,14 +105,14 @@ microwaveは短時間で温めるのに使い、ovenはパンやケーキを焼�
 
 ## 🧩 あわせて覚えたい
 
-- [refrigerator](/word/refrigerator)：冷蔵庫
-- [stove](/word/stove)：コンロ
+- [refrigerator](/word/refrigerator/)：冷蔵庫
+- [stove](/word/stove/)：コンロ
 
 ---
 
 ## 📖 できればこれも
 
-- [kitchen](/word/kitchen)：キッチン、台所
-- [appliance](/word/appliance)：家電製品
+- [kitchen](/word/kitchen/)：キッチン、台所
+- [appliance](/word/appliance/)：家電製品
 
 <!-- cvid: aid17_bid04 -->

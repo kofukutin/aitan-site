@@ -97,7 +97,7 @@ TOEICでは、契約や有効期限に関する文脈で頻出です。特に「
 ## 🤔  invalid との違いは？
 
 - **expired**：有効期限が切れて効力を失った状態
-- **[invalid](/word/invalid)**：無効である、法的・技術的に認められない状態
+- **[invalid](/word/invalid/)**：無効である、法的・技術的に認められない状態
 
 expiredは「期限切れ」による無効、invalidは「条件を満たさない」など広い意味での無効を指します。
 
@@ -105,14 +105,14 @@ expiredは「期限切れ」による無効、invalidは「条件を満たさな
 
 ## 🧩 あわせて覚えたい
 
-- [outdated](/word/outdated)：時代遅れの、古くなった
-- [renew](/word/renew)：更新する
+- [outdated](/word/outdated/)：時代遅れの、古くなった
+- [renew](/word/renew/)：更新する
 
 ---
 
 ## 📖 できればこれも
 
-- [valid](/word/valid)：有効な
-- [approve](/word/approve)：承認する
+- [valid](/word/valid/)：有効な
+- [approve](/word/approve/)：承認する
 
 <!-- cvid: aid45_bid39 -->

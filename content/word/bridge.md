@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、川や道路にかかる橋の説明
 ## 🤔  overpass との違いは？
 
 - **bridge**：川や谷など自然の障害物の上にかける「橋」全般。比喩的にも使う。
-- **[overpass](/word/overpass)**：主に道路や鉄道の上をまたぐ「陸橋」。
+- **[overpass](/word/overpass/)**：主に道路や鉄道の上をまたぐ「陸橋」。
 
 bridgeは自然物や広い意味での「橋」を指し、overpassは特に道路や線路の上にかかる人工的な「陸橋」を指します。
 
@@ -105,14 +105,14 @@ bridgeは自然物や広い意味での「橋」を指し、overpassは特に道
 
 ## 🧩 あわせて覚えたい
 
-- [tunnel](/word/tunnel)：トンネル
-- [connection](/word/connection)：つながり、接続
+- [tunnel](/word/tunnel/)：トンネル
+- [connection](/word/connection/)：つながり、接続
 
 ---
 
 ## 📖 できればこれも
 
-- [road](/word/road)：道路
-- [river](/word/river)：川
+- [road](/word/road/)：道路
+- [river](/word/river/)：川
 
 <!-- cvid: aid40_bid24 -->

@@ -96,7 +96,7 @@ TOEICではカフェやオフィスの写真描写、注文や飲み物に関す
 ## 🤔  tea との違いは？
 
 - **coffee**：コーヒー豆から作る苦味のある飲み物
-- **[tea](/word/tea)**：茶葉から作るさっぱりした飲み物
+- **[tea](/word/tea/)**：茶葉から作るさっぱりした飲み物
 
 coffeeはコーヒー豆由来、teaは茶葉由来で、味や香り・飲むシーンも異なります。
 
@@ -104,14 +104,14 @@ coffeeはコーヒー豆由来、teaは茶葉由来で、味や香り・飲む�
 
 ## 🧩 あわせて覚えたい
 
-- [cafe](/word/cafe)：カフェ、喫茶店
-- [espresso](/word/espresso)：エスプレッソ（濃いコーヒー）
+- [cafe](/word/cafe/)：カフェ、喫茶店
+- [espresso](/word/espresso/)：エスプレッソ（濃いコーヒー）
 
 ---
 
 ## 📖 できればこれも
 
-- [juice](/word/juice)：ジュース
-- [milk](/word/milk)：牛乳
+- [juice](/word/juice/)：ジュース
+- [milk](/word/milk/)：牛乳
 
 <!-- cvid: aid42_bid21 -->

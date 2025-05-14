@@ -97,7 +97,7 @@ IT関連の説明やウェブサービスの案内文で出題されることが
 ## 🤔  stored との違いは？
 
 - **cached**：一時的に素早くアクセスできるよう保存された（主にIT分野）
-- **[stored](/word/stored)**：一般的に保存された（長期・短期問わず幅広く使う）
+- **[stored](/word/stored/)**：一般的に保存された（長期・短期問わず幅広く使う）
 
 cachedは「一時的・高速アクセス用」のニュアンスが強く、storedは「単に保存された」場合に使います。
 
@@ -105,14 +105,14 @@ cachedは「一時的・高速アクセス用」のニュアンスが強く、st
 
 ## 🧩 あわせて覚えたい
 
-- [temporary](/word/temporary)：一時的な
-- [retrieve](/word/retrieve)：取り出す、回収する
+- [temporary](/word/temporary/)：一時的な
+- [retrieve](/word/retrieve/)：取り出す、回収する
 
 ---
 
 ## 📖 できればこれも
 
-- [offline](/word/offline)：オフラインの、ネット接続なしの
-- [update](/word/update)：更新する
+- [offline](/word/offline/)：オフラインの、ネット接続なしの
+- [update](/word/update/)：更新する
 
 <!-- cvid: aid12_bid15 -->

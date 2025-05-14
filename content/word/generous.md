@@ -97,7 +97,7 @@ TOEICでは、人物の性格や会社の社会貢献活動などを説明する
 ## 🤔  kind との違いは？
 
 - **generous**：物やお金、時間などを惜しみなく与える「気前のよさ」「寛大さ」を強調。
-- **[kind](/word/kind)**：思いやりや親切心を持って接する「やさしさ」を強調。
+- **[kind](/word/kind/)**：思いやりや親切心を持って接する「やさしさ」を強調。
 
 generousは「与える量や行動の大きさ」に焦点があり、kindは「思いやりや態度」に重点があります。
 
@@ -105,14 +105,14 @@ generousは「与える量や行動の大きさ」に焦点があり、kindは�
 
 ## 🧩 あわせて覚えたい
 
-- [stingy](/word/stingy)：けちな、しみったれた
-- [charitable](/word/charitable)：慈善的な、寛大な
+- [stingy](/word/stingy/)：けちな、しみったれた
+- [charitable](/word/charitable/)：慈善的な、寛大な
 
 ---
 
 ## 📖 できればこれも
 
-- [polite](/word/polite)：礼儀正しい
-- [thoughtful](/word/thoughtful)：思いやりのある
+- [polite](/word/polite/)：礼儀正しい
+- [thoughtful](/word/thoughtful/)：思いやりのある
 
 <!-- cvid: aid39_bid32 -->

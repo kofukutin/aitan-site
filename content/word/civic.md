@@ -97,7 +97,7 @@ TOEICでは、都市計画や地域社会、公共サービスに関する長文
 ## 🤔  civil との違いは？
 
 - **civic**：市民や都市、自治体に関することを指す
-- **[civil](/word/civil)**：市民全体や民間、または「礼儀正しい」など幅広い意味を持つ
+- **[civil](/word/civil/)**：市民全体や民間、または「礼儀正しい」など幅広い意味を持つ
 
 「civic」は地域社会や都市の活動に特化した語で、「civil」はより広く「市民の」「民間の」「礼儀正しい」など多様な文脈で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、都市計画や地域社会、公共サービスに関する長文
 
 ## 🧩 あわせて覚えたい
 
-- [municipal](/word/municipal)：自治体の、都市の
-- [public](/word/public)：公共の、一般の
+- [municipal](/word/municipal/)：自治体の、都市の
+- [public](/word/public/)：公共の、一般の
 
 ---
 
 ## 📖 できればこれも
 
-- [community](/word/community)：地域社会、共同体
-- [citizen](/word/citizen)：市民
+- [community](/word/community/)：地域社会、共同体
+- [citizen](/word/citizen/)：市民
 
 <!-- cvid: aid03_bid24 -->

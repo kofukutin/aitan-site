@@ -97,7 +97,7 @@ TOEICでは人事異動や求人情報に関する文脈でよく出題されま
 ## 🤔  assignment との違いは？
 
 - **posting**：会社や組織での配属や任命、掲示の意味が強い
-- **[assignment](/word/assignment)**：課題や割り当て、任務など幅広い「割り当て」の意味
+- **[assignment](/word/assignment/)**：課題や割り当て、任務など幅広い「割り当て」の意味
 
 postingは主に人事異動や掲示に使われ、assignmentは仕事や課題など幅広い割り当てに使われます。
 
@@ -105,14 +105,14 @@ postingは主に人事異動や掲示に使われ、assignmentは仕事や課題
 
 ## 🧩 あわせて覚えたい
 
-- [transfer](/word/transfer)：転勤、移動
-- [appointment](/word/appointment)：任命、役職
+- [transfer](/word/transfer/)：転勤、移動
+- [appointment](/word/appointment/)：任命、役職
 
 ---
 
 ## 📖 できればこれも
 
-- [position](/word/position)：職、地位
-- [notice](/word/notice)：通知、掲示
+- [position](/word/position/)：職、地位
+- [notice](/word/notice/)：通知、掲示
 
 <!-- cvid: aid34_bid35 -->

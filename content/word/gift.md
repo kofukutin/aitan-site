@@ -97,7 +97,7 @@ TOEICでは「贈り物」や「才能」の意味で、語彙問題や短文穴
 ## 🤔  present との違いは？
 
 - **gift**：フォーマル・カジュアル両方で使え、「才能」の意味もある
-- **[present](/word/present)**：ややカジュアルで「贈り物」の意味が中心
+- **[present](/word/present/)**：ややカジュアルで「贈り物」の意味が中心
 
 giftは「才能」という意味も持ち、presentは主に「贈り物」に限定される点が異なります。
 
@@ -105,14 +105,14 @@ giftは「才能」という意味も持ち、presentは主に「贈り物」に
 
 ## 🧩 あわせて覚えたい
 
-- [donation](/word/donation)：寄付、贈与
-- [talent](/word/talent)：才能
+- [donation](/word/donation/)：寄付、贈与
+- [talent](/word/talent/)：才能
 
 ---
 
 ## 📖 できればこれも
 
-- [award](/word/award)：賞、表彰
-- [bonus](/word/bonus)：ボーナス、特別手当
+- [award](/word/award/)：賞、表彰
+- [bonus](/word/bonus/)：ボーナス、特別手当
 
 <!-- cvid: aid16_bid22 -->

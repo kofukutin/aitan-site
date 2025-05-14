@@ -97,7 +97,7 @@ TOEICではITやビジネス文書の中で「accessing information」や「acce
 ## 🤔  approaching との違いは？
 
 - **accessing**：情報や場所に「接続する」「利用する」ことを指す
-- **[approaching](/word/approaching)**：物理的・抽象的に「近づく」ことを指す
+- **[approaching](/word/approaching/)**：物理的・抽象的に「近づく」ことを指す
 
 accessingは「利用・接続」のニュアンス、approachingは「距離や時間的に近づく」ニュアンスで使い分けます。
 
@@ -105,14 +105,14 @@ accessingは「利用・接続」のニュアンス、approachingは「距離や
 
 ## 🧩 あわせて覚えたい
 
-- [retrieve](/word/retrieve)：（情報などを）取り出す
-- [enter](/word/enter)：入力する、入る
+- [retrieve](/word/retrieve/)：（情報などを）取り出す
+- [enter](/word/enter/)：入力する、入る
 
 ---
 
 ## 📖 できればこれも
 
-- [download](/word/download)：ダウンロードする
-- [connect](/word/connect)：接続する
+- [download](/word/download/)：ダウンロードする
+- [connect](/word/connect/)：接続する
 
 <!-- cvid: aid07_bid10 -->

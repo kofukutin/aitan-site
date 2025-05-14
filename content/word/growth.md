@@ -97,7 +97,7 @@ TOEICではビジネスや経済に関する長文で「成長」「増加」を
 ## 🤔  increase との違いは？
 
 - **growth**：自然な成長や発展、長期的な増加を表す
-- **[increase](/word/increase)**：数量や規模が増えること自体、変化の量や回数に注目
+- **[increase](/word/increase/)**：数量や規模が増えること自体、変化の量や回数に注目
 
 growthは「成長」や「発展」といったプロセスや状態を強調し、increaseは「増加」という変化やその量に焦点を当てます。
 
@@ -105,14 +105,14 @@ growthは「成長」や「発展」といったプロセスや状態を強調�
 
 ## 🧩 あわせて覚えたい
 
-- [decline](/word/decline)：減少、下落
-- [development](/word/development)：発展、開発
+- [decline](/word/decline/)：減少、下落
+- [development](/word/development/)：発展、開発
 
 ---
 
 ## 📖 できればこれも
 
-- [profit](/word/profit)：利益
-- [expand](/word/expand)：拡大する
+- [profit](/word/profit/)：利益
+- [expand](/word/expand/)：拡大する
 
 <!-- cvid: aid41_bid08 -->

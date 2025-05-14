@@ -97,7 +97,7 @@ TOEICでは、経済やビジネスの話題で「sector」がよく登場しま
 ## 🤔  industry との違いは？
 
 - **sector**：経済や社会の大きな部門や分野を指す
-- **[industry](/word/industry)**：特定の産業や生産活動の分野を指す
+- **[industry](/word/industry/)**：特定の産業や生産活動の分野を指す
 
 sectorは「公的部門」「民間部門」など広い区分に使い、industryは「自動車産業」「観光産業」など具体的な産業分野に使います。
 
@@ -105,14 +105,14 @@ sectorは「公的部門」「民間部門」など広い区分に使い、indus
 
 ## 🧩 あわせて覚えたい
 
-- [division](/word/division)：部門、区分
-- [department](/word/department)：部署、部
+- [division](/word/division/)：部門、区分
+- [department](/word/department/)：部署、部
 
 ---
 
 ## 📖 できればこれも
 
-- [segment](/word/segment)：区分、部分
-- [field](/word/field)：分野、領域
+- [segment](/word/segment/)：区分、部分
+- [field](/word/field/)：分野、領域
 
 <!-- cvid: aid02_bid28 -->

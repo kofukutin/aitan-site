@@ -97,7 +97,7 @@ TOEICではオフィスや建物の設備に関する会話や説明で出題さ
 ## 🤔  piping との違いは？
 
 - **plumbing**：建物全体の配管設備や配管工事全般を指す
-- **[piping](/word/piping)**：配管そのものやパイプの配列・設置を指す
+- **[piping](/word/piping/)**：配管そのものやパイプの配列・設置を指す
 
 plumbingは建物の水道・排水などの設備全体や工事を指し、pipingはパイプそのものや配管の構造に焦点を当てます。
 
@@ -105,14 +105,14 @@ plumbingは建物の水道・排水などの設備全体や工事を指し、pip
 
 ## 🧩 あわせて覚えたい
 
-- [maintenance](/word/maintenance)：メンテナンス、保守
-- [fixture](/word/fixture)：備品、据え付け品
+- [maintenance](/word/maintenance/)：メンテナンス、保守
+- [fixture](/word/fixture/)：備品、据え付け品
 
 ---
 
 ## 📖 できればこれも
 
-- [repair](/word/repair)：修理する
-- [installation](/word/installation)：設置、取り付け
+- [repair](/word/repair/)：修理する
+- [installation](/word/installation/)：設置、取り付け
 
 <!-- cvid: aid09_bid28 -->

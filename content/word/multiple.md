@@ -97,7 +97,7 @@ TOEICでは「複数の選択肢」「複数の問題」など、数量や種類
 ## 🤔  various との違いは？
 
 - **multiple**：複数の、数が多いことを強調し、同じ種類のものがいくつもある場合に使う
-- **[various](/word/various)**：さまざまな、種類が異なるものが複数ある場合に使う
+- **[various](/word/various/)**：さまざまな、種類が異なるものが複数ある場合に使う
 
 「multiple」は「数が多い」ことに重点があり、「various」は「種類の違い」に重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは「複数の選択肢」「複数の問題」など、数量や種類
 
 ## 🧩 あわせて覚えたい
 
-- [single](/word/single)：単一の、1つの
-- [numerous](/word/numerous)：非常に多くの
+- [single](/word/single/)：単一の、1つの
+- [numerous](/word/numerous/)：非常に多くの
 
 ---
 
 ## 📖 できればこれも
 
-- [several](/word/several)：いくつかの
-- [numerical](/word/numerical)：数値の
+- [several](/word/several/)：いくつかの
+- [numerical](/word/numerical/)：数値の
 
 <!-- cvid: aid20_bid19 -->

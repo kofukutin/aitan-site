@@ -97,7 +97,7 @@ inchは、TOEICの写真描写や説明文でサイズや長さを表す際に�
 ## 🤔  centimeter との違いは？
 
 - **inch**：アメリカやイギリスなどで使われる長さの単位（約2.54cm）
-- **[centimeter](/word/centimeter)**：メートル法で使われる長さの単位（1cm）
+- **[centimeter](/word/centimeter/)**：メートル法で使われる長さの単位（1cm）
 
 inchは主に英語圏で使われ、centimeterは世界的に標準のメートル法で使われます。用途や国によって使い分けます。
 
@@ -105,14 +105,14 @@ inchは主に英語圏で使われ、centimeterは世界的に標準のメート
 
 ## 🧩 あわせて覚えたい
 
-- [foot](/word/foot)：フィート（長さの単位、約30.48cm）
-- [yard](/word/yard)：ヤード（長さの単位、約91.44cm）
+- [foot](/word/foot/)：フィート（長さの単位、約30.48cm）
+- [yard](/word/yard/)：ヤード（長さの単位、約91.44cm）
 
 ---
 
 ## 📖 できればこれも
 
-- [meter](/word/meter)：メートル（長さの単位、100cm）
-- [length](/word/length)：長さ
+- [meter](/word/meter/)：メートル（長さの単位、100cm）
+- [length](/word/length/)：長さ
 
 <!-- cvid: aid18_bid47 -->

@@ -96,7 +96,7 @@ TOEICでは、受付や案内、会議などの会話文で、丁寧に男性を
 ## 🤔  man との違いは？
 
 - **gentleman**：礼儀正しく上品な男性、または丁寧な呼び方
-- **[man](/word/man)**：一般的な「男性」、特にフォーマルさや礼儀正しさは含まない
+- **[man](/word/man/)**：一般的な「男性」、特にフォーマルさや礼儀正しさは含まない
 
 gentlemanはフォーマルな場や丁寧な表現で使われ、manは日常的で広い意味の男性を指します。
 
@@ -104,14 +104,14 @@ gentlemanはフォーマルな場や丁寧な表現で使われ、manは日常�
 
 ## 🧩 あわせて覚えたい
 
-- [lady](/word/lady)：淑女、上品な女性
-- [sir](/word/sir)：男性への丁寧な呼びかけ
+- [lady](/word/lady/)：淑女、上品な女性
+- [sir](/word/sir/)：男性への丁寧な呼びかけ
 
 ---
 
 ## 📖 できればこれも
 
-- [customer](/word/customer)：顧客
-- [guest](/word/guest)：客、来賓
+- [customer](/word/customer/)：顧客
+- [guest](/word/guest/)：客、来賓
 
 <!-- cvid: aid34_bid04 -->

@@ -97,7 +97,7 @@ TOEICでは会話や質問文で「～かしら」「どうしてだろう」と
 ## 🤔  think との違いは？
 
 - **wonder**：疑問や好奇心を持って「～かな？」と考える
-- **[think](/word/think)**：自分の意見や考えを述べる
+- **[think](/word/think/)**：自分の意見や考えを述べる
 
 wonderは「どうなんだろう？」と疑問を持つとき、thinkは「～だと思う」と自分の考えを述べるときに使います。
 
@@ -105,14 +105,14 @@ wonderは「どうなんだろう？」と疑問を持つとき、thinkは「～
 
 ## 🧩 あわせて覚えたい
 
-- [doubt](/word/doubt)：疑う、疑念を持つ
-- [imagine](/word/imagine)：想像する
+- [doubt](/word/doubt/)：疑う、疑念を持つ
+- [imagine](/word/imagine/)：想像する
 
 ---
 
 ## 📖 できればこれも
 
-- [consider](/word/consider)：よく考える、検討する
-- [suppose](/word/suppose)：仮定する、思う
+- [consider](/word/consider/)：よく考える、検討する
+- [suppose](/word/suppose/)：仮定する、思う
 
 <!-- cvid: aid46_bid25 -->

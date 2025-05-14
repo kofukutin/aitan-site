@@ -97,7 +97,7 @@ TOEICでは、職業や役割を問う会話や説明文でよく登場します
 ## 🤔  engineer との違いは？
 
 - **mechanic**：機械や車などの修理・整備を専門とする人
-- **[engineer](/word/engineer)**：設計や開発、技術的な問題解決を行う技術者
+- **[engineer](/word/engineer/)**：設計や開発、技術的な問題解決を行う技術者
 
 mechanicは「現場で手を動かして修理する人」、engineerは「設計や計画、技術開発を担う人」と使い分けます。
 
@@ -105,14 +105,14 @@ mechanicは「現場で手を動かして修理する人」、engineerは「設�
 
 ## 🧩 あわせて覚えたい
 
-- [technician](/word/technician)：技術者、専門的な作業を行う人
-- [repair](/word/repair)：修理する、修理
+- [technician](/word/technician/)：技術者、専門的な作業を行う人
+- [repair](/word/repair/)：修理する、修理
 
 ---
 
 ## 📖 できればこれも
 
-- [manual](/word/manual)：手引き、マニュアル
-- [device](/word/device)：装置、機器
+- [manual](/word/manual/)：手引き、マニュアル
+- [device](/word/device/)：装置、機器
 
 <!-- cvid: aid48_bid21 -->

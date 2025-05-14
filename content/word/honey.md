@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で、食べ物や飲み物の説明とし
 ## 🤔  sweetheart との違いは？
 
 - **honey**：親しい人へのカジュアルな呼びかけや、はちみつの意味で使う
-- **[sweetheart](/word/sweetheart)**：恋人や大切な人へのややフォーマルな愛称
+- **[sweetheart](/word/sweetheart/)**：恋人や大切な人へのややフォーマルな愛称
 
 honeyは日常的でフレンドリーな響き、sweetheartはより愛情や思いやりを強調した呼びかけです。
 
@@ -106,14 +106,14 @@ honeyは日常的でフレンドリーな響き、sweetheartはより愛情や�
 
 ## 🧩 あわせて覚えたい
 
-- [sugar](/word/sugar)：（呼びかけで）あなた、砂糖
-- [darling](/word/darling)：（呼びかけで）親愛なる人
+- [sugar](/word/sugar/)：（呼びかけで）あなた、砂糖
+- [darling](/word/darling/)：（呼びかけで）親愛なる人
 
 ---
 
 ## 📖 できればこれも
 
-- [jam](/word/jam)：ジャム
-- [butter](/word/butter)：バター
+- [jam](/word/jam/)：ジャム
+- [butter](/word/butter/)：バター
 
 <!-- cvid: aid49_bid02 -->

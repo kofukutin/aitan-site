@@ -97,7 +97,7 @@ ITやビジネス文書で「データを検索する」「情報を取り出す
 ## 🤔  recover との違いは？
 
 - **retrieve**：失った物や情報を「探して取り戻す」「検索して取り出す」ニュアンス
-- **[recover](/word/recover)**：失った物や健康などを「回復する」「取り戻す」全般的な表現
+- **[recover](/word/recover/)**：失った物や健康などを「回復する」「取り戻す」全般的な表現
 
 retrieveは「探して見つけて取り戻す」動作やIT分野の検索に特化し、recoverは「元の状態に戻す」広い意味で使われます。
 
@@ -105,14 +105,14 @@ retrieveは「探して見つけて取り戻す」動作やIT分野の検索に�
 
 ## 🧩 あわせて覚えたい
 
-- [access](/word/access)：アクセスする、接続する
-- [restore](/word/restore)：元に戻す、復元する
+- [access](/word/access/)：アクセスする、接続する
+- [restore](/word/restore/)：元に戻す、復元する
 
 ---
 
 ## 📖 できればこれも
 
-- [store](/word/store)：保存する、蓄える
-- [obtain](/word/obtain)：手に入れる、獲得する
+- [store](/word/store/)：保存する、蓄える
+- [obtain](/word/obtain/)：手に入れる、獲得する
 
 <!-- cvid: aid35_bid42 -->

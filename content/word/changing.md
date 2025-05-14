@@ -97,7 +97,7 @@ TOEICでは会議やビジネスの会話文で「変化している状況」や
 ## 🤔  altering との違いは？
 
 - **changing**：一般的に「変化している」「移り変わる」状態を広く表す。
-- **[altering](/word/altering)**：部分的・意図的に「手を加えて変える」ニュアンスが強い。
+- **[altering](/word/altering/)**：部分的・意図的に「手を加えて変える」ニュアンスが強い。
 
 「changing」は自然な流れや全体的な変化に使われ、「altering」は人為的・部分的な変更に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは会議やビジネスの会話文で「変化している状況」や
 
 ## 🧩 あわせて覚えたい
 
-- [replace](/word/replace)：取り替える、交換する
-- [modify](/word/modify)：修正する、変更する
+- [replace](/word/replace/)：取り替える、交換する
+- [modify](/word/modify/)：修正する、変更する
 
 ---
 
 ## 📖 できればこれも
 
-- [dynamic](/word/dynamic)：動的な、活発な
-- [shift](/word/shift)：移行、変化
+- [dynamic](/word/dynamic/)：動的な、活発な
+- [shift](/word/shift/)：移行、変化
 
 <!-- cvid: aid10_bid02 -->

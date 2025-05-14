@@ -97,7 +97,7 @@ TOEICでは、記事やビジネス文書、プロジェクト紹介などで「
 ## 🤔  donor との違いは？
 
 - **contributor**：広く「貢献者」「寄稿者」など、何かを提供・寄与する人全般
-- **[donor](/word/donor)**：特に「寄付者」「提供者」として、金銭や物品・臓器などを与える人
+- **[donor](/word/donor/)**：特に「寄付者」「提供者」として、金銭や物品・臓器などを与える人
 
 contributorは幅広い貢献を指し、donorは主に金銭や物品などの「寄付」に限定される点が異なります。
 
@@ -105,14 +105,14 @@ contributorは幅広い貢献を指し、donorは主に金銭や物品などの�
 
 ## 🧩 あわせて覚えたい
 
-- [sponsor](/word/sponsor)：スポンサー、後援者
-- [participant](/word/participant)：参加者
+- [sponsor](/word/sponsor/)：スポンサー、後援者
+- [participant](/word/participant/)：参加者
 
 ---
 
 ## 📖 できればこれも
 
-- [contribution](/word/contribution)：貢献、寄付
-- [editor](/word/editor)：編集者
+- [contribution](/word/contribution/)：貢献、寄付
+- [editor](/word/editor/)：編集者
 
 <!-- cvid: aid33_bid32 -->

@@ -97,7 +97,7 @@ TOEICではビジネス文書や広告、Eメールなどで「retail」が頻�
 ## 🤔  wholesale との違いは？
 
 - **retail**：消費者に直接商品を販売すること
-- **[wholesale](/word/wholesale)**：商品を大量に業者などに売ること
+- **[wholesale](/word/wholesale/)**：商品を大量に業者などに売ること
 
 retailは「小売」、wholesaleは「卸売」となり、販売の相手や規模が異なります。
 
@@ -105,14 +105,14 @@ retailは「小売」、wholesaleは「卸売」となり、販売の相手や�
 
 ## 🧩 あわせて覚えたい
 
-- [distribute](/word/distribute)：配布する、流通させる
-- [customer](/word/customer)：顧客、客
+- [distribute](/word/distribute/)：配布する、流通させる
+- [customer](/word/customer/)：顧客、客
 
 ---
 
 ## 📖 できればこれも
 
-- [supply](/word/supply)：供給する
-- [purchase](/word/purchase)：購入する
+- [supply](/word/supply/)：供給する
+- [purchase](/word/purchase/)：購入する
 
 <!-- cvid: aid37_bid44 -->

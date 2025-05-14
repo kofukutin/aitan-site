@@ -97,7 +97,7 @@ TOEICではメールや案内文、ビジネス文書の中で「招待状」や
 ## 🤔  offer との違いは？
 
 - **invitation**：イベントや集まりなどに「招待すること」や「招待状」を指す
-- **[offer](/word/offer)**：何かを「申し出ること」や「提案」を指す
+- **[offer](/word/offer/)**：何かを「申し出ること」や「提案」を指す
 
 invitationは「来てほしい」という呼びかけ、offerは「何かを与える・提案する」ニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ invitationは「来てほしい」という呼びかけ、offerは「何かを�
 
 ## 🧩 あわせて覚えたい
 
-- [request](/word/request)：依頼、要請
-- [acceptance](/word/acceptance)：受諾、受け入れ
+- [request](/word/request/)：依頼、要請
+- [acceptance](/word/acceptance/)：受諾、受け入れ
 
 ---
 
 ## 📖 できればこれも
 
-- [appointment](/word/appointment)：予約、約束
-- [reservation](/word/reservation)：予約（席・部屋など）
+- [appointment](/word/appointment/)：予約、約束
+- [reservation](/word/reservation/)：予約（席・部屋など）
 
 <!-- cvid: aid00_bid02 -->

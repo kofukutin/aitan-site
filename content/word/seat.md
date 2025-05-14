@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「座席」や「座る動作」を表
 ## 🤔  chair との違いは？
 
 - **seat**：座る場所や座席全般を指す
-- **[chair](/word/chair)**：背もたれや脚のある「椅子」という具体的な家具
+- **[chair](/word/chair/)**：背もたれや脚のある「椅子」という具体的な家具
 
 「seat」は場所や座席の意味が強く、物としての「椅子」は「chair」と区別されます。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写で「座席」や「座る動作」を表
 
 ## 🧩 あわせて覚えたい
 
-- [bench](/word/bench)：ベンチ、長椅子
-- [sofa](/word/sofa)：ソファ
+- [bench](/word/bench/)：ベンチ、長椅子
+- [sofa](/word/sofa/)：ソファ
 
 ---
 
 ## 📖 できればこれも
 
-- [table](/word/table)：テーブル、机
-- [desk](/word/desk)：机、デスク
+- [table](/word/table/)：テーブル、机
+- [desk](/word/desk/)：机、デスク
 
 <!-- cvid: aid44_bid41 -->

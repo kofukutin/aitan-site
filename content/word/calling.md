@@ -97,7 +97,7 @@ callingはPart 7の長文やスピーチ文で、職業観や人生の目的に�
 ## 🤔  vocation との違いは？
 
 - **calling**：使命感や天職、内面的な「呼びかけ」を強調
-- **[vocation](/word/vocation)**：職業や天職だが、やや堅い表現で資格や職務的側面を強調
+- **[vocation](/word/vocation/)**：職業や天職だが、やや堅い表現で資格や職務的側面を強調
 
 callingは「自分が心からやりたい・やるべきだと感じる仕事」に重点があり、vocationは「専門職や資格を要する職業」として使われることが多いです。
 
@@ -105,14 +105,14 @@ callingは「自分が心からやりたい・やるべきだと感じる仕事�
 
 ## 🧩 あわせて覚えたい
 
-- [profession](/word/profession)：専門職、職業
-- [mission](/word/mission)：使命、任務
+- [profession](/word/profession/)：専門職、職業
+- [mission](/word/mission/)：使命、任務
 
 ---
 
 ## 📖 できればこれも
 
-- [career](/word/career)：経歴、職業
-- [occupation](/word/occupation)：職業、仕事
+- [career](/word/career/)：経歴、職業
+- [occupation](/word/occupation/)：職業、仕事
 
 <!-- cvid: aid41_bid22 -->

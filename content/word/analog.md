@@ -97,7 +97,7 @@ TOEICではITや技術関連の記事や説明文で「analog」が登場する�
 ## 🤔  digital との違いは？
 
 - **analog**：連続的な変化を扱う「アナログ式」の意味。非デジタル。
-- **[digital](/word/digital)**：数字や0・1で表現される「デジタル式」の意味。
+- **[digital](/word/digital/)**：数字や0・1で表現される「デジタル式」の意味。
 
 analogは連続的な物理量を扱う場合に使い、digitalは情報が数値化・データ化されている場合に使います。
 
@@ -105,14 +105,14 @@ analogは連続的な物理量を扱う場合に使い、digitalは情報が数�
 
 ## 🧩 あわせて覚えたい
 
-- [manual](/word/manual)：手動の、手作業の
-- [electronic](/word/electronic)：電子の、電子的な
+- [manual](/word/manual/)：手動の、手作業の
+- [electronic](/word/electronic/)：電子の、電子的な
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device)：装置、機器
-- [signal](/word/signal)：信号
+- [device](/word/device/)：装置、機器
+- [signal](/word/signal/)：信号
 
 <!-- cvid: aid37_bid03 -->

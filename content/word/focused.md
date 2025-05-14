@@ -97,7 +97,7 @@ TOEICでは会議や業務の場面で「集中している」「注意を向け
 ## 🤔  concentrated との違いは？
 
 - **focused**：意識や注意が特定の対象に向けられている状態
-- **[concentrated](/word/concentrated)**：物理的・精神的に「濃縮された」「密度が高い」状態や、努力・力が集中的に注がれている状態
+- **[concentrated](/word/concentrated/)**：物理的・精神的に「濃縮された」「密度が高い」状態や、努力・力が集中的に注がれている状態
 
 focusedは「気持ちや意識がぶれずに一点に向いている」ニュアンス、concentratedは「密度が高い」「集中的に集まっている」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ focusedは「気持ちや意識がぶれずに一点に向いている」ニュ�
 
 ## 🧩 あわせて覚えたい
 
-- [attentive](/word/attentive)：注意深い、気を配る
-- [distracted](/word/distracted)：気が散った、集中できない
+- [attentive](/word/attentive/)：注意深い、気を配る
+- [distracted](/word/distracted/)：気が散った、集中できない
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [dedicated](/word/dedicated)：献身的な、熱心な
+- [efficient](/word/efficient/)：効率的な
+- [dedicated](/word/dedicated/)：献身的な、熱心な
 
 <!-- cvid: aid16_bid47 -->

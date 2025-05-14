@@ -97,7 +97,7 @@ TOEICでは会話や説明文で、人や状況に対する感情表現として
 ## 🤔  irritating との違いは？
 
 - **annoying**：日常的な「うっとうしい」「ちょっとイライラする」感覚
-- **[irritating](/word/irritating)**：より強く「神経を逆なでする」「苛立たせる」ニュアンス
+- **[irritating](/word/irritating/)**：より強く「神経を逆なでする」「苛立たせる」ニュアンス
 
 「annoying」は軽い不快感、「irritating」はより強い苛立ちや不快感を表します。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で、人や状況に対する感情表現として
 
 ## 🧩 あわせて覚えたい
 
-- [bother](/word/bother)：悩ませる、困らせる
-- [pleasant](/word/pleasant)：快い、心地よい
+- [bother](/word/bother/)：悩ませる、困らせる
+- [pleasant](/word/pleasant/)：快い、心地よい
 
 ---
 
 ## 📖 できればこれも
 
-- [boring](/word/boring)：退屈な
-- [confusing](/word/confusing)：混乱させる
+- [boring](/word/boring/)：退屈な
+- [confusing](/word/confusing/)：混乱させる
 
 <!-- cvid: aid07_bid08 -->

@@ -97,7 +97,7 @@ TOEICではIT関連の長文や職業紹介の文脈で出題されることが�
 ## 🤔  developer との違いは？
 
 - **programmer**：主にコードを書くことに特化した人
-- **[developer](/word/developer)**：設計や開発全体に関わる人
+- **[developer](/word/developer/)**：設計や開発全体に関わる人
 
 programmerは「プログラムを書く人」に焦点があり、developerは設計や要件定義など幅広い開発工程に関わる場合に使われます。
 
@@ -105,14 +105,14 @@ programmerは「プログラムを書く人」に焦点があり、developerは�
 
 ## 🧩 あわせて覚えたい
 
-- [engineer](/word/engineer)：技術者、エンジニア
-- [coder](/word/coder)：コーディングをする人
+- [engineer](/word/engineer/)：技術者、エンジニア
+- [coder](/word/coder/)：コーディングをする人
 
 ---
 
 ## 📖 できればこれも
 
-- [software](/word/software)：ソフトウェア、プログラム
-- [system](/word/system)：システム、仕組み
+- [software](/word/software/)：ソフトウェア、プログラム
+- [system](/word/system/)：システム、仕組み
 
 <!-- cvid: aid23_bid23 -->

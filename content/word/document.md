@@ -97,7 +97,7 @@ TOEICでは、契約書や案内文、Eメールなどの文書に関する設�
 ## 🤔  file との違いは？
 
 - **document**：主に内容が文書化された書類や公式な記録を指す
-- **[file](/word/file)**：書類の集まりや、コンピュータ上のデータファイル全般を指す
+- **[file](/word/file/)**：書類の集まりや、コンピュータ上のデータファイル全般を指す
 
 documentは「1枚の書類」や「公式な文書」に焦点があり、fileは「複数の書類の束」や「データのまとまり」として使われます。
 
@@ -105,14 +105,14 @@ documentは「1枚の書類」や「公式な文書」に焦点があり、file�
 
 ## 🧩 あわせて覚えたい
 
-- [record](/word/record)：記録、記載
-- [report](/word/report)：報告書、レポート
+- [record](/word/record/)：記録、記載
+- [report](/word/report/)：報告書、レポート
 
 ---
 
 ## 📖 できればこれも
 
-- [form](/word/form)：用紙、申込書
-- [application](/word/application)：申請書、応募書
+- [form](/word/form/)：用紙、申込書
+- [application](/word/application/)：申請書、応募書
 
 <!-- cvid: aid02_bid49 -->

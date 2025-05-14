@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写や、カジュアルな会話文で登場
 ## 🤔  pie との違いは？
 
 - **pizza**：イタリア発祥の丸い焼き料理。チーズや具材をのせて焼く。
-- **[pie](/word/pie)**：甘い果物や肉などを詰めて焼いたパイ生地の料理。
+- **[pie](/word/pie/)**：甘い果物や肉などを詰めて焼いたパイ生地の料理。
 
 pizzaは主にイタリア料理で、平らな生地に具をのせて焼きますが、pieは中に具を包み込む焼き菓子や料理です。
 
@@ -105,14 +105,14 @@ pizzaは主にイタリア料理で、平らな生地に具をのせて焼きま
 
 ## 🧩 あわせて覚えたい
 
-- [pasta](/word/pasta)：パスタ、イタリアの麺料理
-- [sandwich](/word/sandwich)：サンドイッチ、パンに具をはさんだ料理
+- [pasta](/word/pasta/)：パスタ、イタリアの麺料理
+- [sandwich](/word/sandwich/)：サンドイッチ、パンに具をはさんだ料理
 
 ---
 
 ## 📖 できればこれも
 
-- [burger](/word/burger)：ハンバーガー
-- [salad](/word/salad)：サラダ
+- [burger](/word/burger/)：ハンバーガー
+- [salad](/word/salad/)：サラダ
 
 <!-- cvid: aid40_bid27 -->

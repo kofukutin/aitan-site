@@ -97,7 +97,7 @@ TOEICでは、計算や数値の説明、データ処理に関する文脈で出
 ## 🤔  fraction との違いは？
 
 - **decimal**：小数（10進法で表す数）
-- **[fraction](/word/fraction)**：分数（1/2や3/4など分けて表す数）
+- **[fraction](/word/fraction/)**：分数（1/2や3/4など分けて表す数）
 
 decimalは「0.5」や「3.14」のような小数点を使う表現、fractionは「1/2」や「3/4」のような分数表現です。用途や表記方法が異なります。
 
@@ -105,14 +105,14 @@ decimalは「0.5」や「3.14」のような小数点を使う表現、fraction�
 
 ## 🧩 あわせて覚えたい
 
-- [integer](/word/integer)：整数
-- [percentage](/word/percentage)：パーセンテージ、百分率
+- [integer](/word/integer/)：整数
+- [percentage](/word/percentage/)：パーセンテージ、百分率
 
 ---
 
 ## 📖 できればこれも
 
-- [digit](/word/digit)：数字、桁
-- [calculate](/word/calculate)：計算する
+- [digit](/word/digit/)：数字、桁
+- [calculate](/word/calculate/)：計算する
 
 <!-- cvid: aid10_bid02 -->

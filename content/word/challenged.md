@@ -97,7 +97,7 @@ TOEICでは、配慮ある表現や多様性に関する文脈で見かけるこ
 ## 🤔  disabled との違いは？
 
 - **challenged**：やんわりと配慮して「困難を抱えた」「障害のある」と表現する
-- **[disabled](/word/disabled)**：直接的に「障害のある」と表現する
+- **[disabled](/word/disabled/)**：直接的に「障害のある」と表現する
 
 「challenged」は前向きで配慮ある表現、"disabled"はより直接的で公式な表現です。場面や相手に応じて使い分けます。
 
@@ -105,14 +105,14 @@ TOEICでは、配慮ある表現や多様性に関する文脈で見かけるこ
 
 ## 🧩 あわせて覚えたい
 
-- [handicapped](/word/handicapped)：障害のある（やや古い表現）
-- [capable](/word/capable)：有能な、能力がある
+- [handicapped](/word/handicapped/)：障害のある（やや古い表現）
+- [capable](/word/capable/)：有能な、能力がある
 
 ---
 
 ## 📖 できればこれも
 
-- [motivated](/word/motivated)：やる気のある
-- [qualified](/word/qualified)：資格のある
+- [motivated](/word/motivated/)：やる気のある
+- [qualified](/word/qualified/)：資格のある
 
 <!-- cvid: aid43_bid47 -->

@@ -97,7 +97,7 @@ TOEICでは医療やビジネス分野の長文で「injection」が登場する
 ## 🤔  infusion との違いは？
 
 - **injection**：注射器などで一気に体内へ注入すること
-- **[infusion](/word/infusion)**：点滴などでゆっくりと体内に液体を入れること
+- **[infusion](/word/infusion/)**：点滴などでゆっくりと体内に液体を入れること
 
 injectionは短時間で注入する「注射」、infusionは時間をかけて体内に入れる「点滴」などに使います。
 
@@ -105,14 +105,14 @@ injectionは短時間で注入する「注射」、infusionは時間をかけて
 
 ## 🧩 あわせて覚えたい
 
-- [vaccine](/word/vaccine)：ワクチン
-- [dose](/word/dose)：（薬の）服用量、投与量
+- [vaccine](/word/vaccine/)：ワクチン
+- [dose](/word/dose/)：（薬の）服用量、投与量
 
 ---
 
 ## 📖 できればこれも
 
-- [prescription](/word/prescription)：処方箋
-- [treatment](/word/treatment)：治療
+- [prescription](/word/prescription/)：処方箋
+- [treatment](/word/treatment/)：治療
 
 <!-- cvid: aid02_bid21 -->

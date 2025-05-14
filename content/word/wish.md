@@ -100,7 +100,7 @@ TOEICでは仮定法や丁寧な表現、メール文の定型句として出題
 ## 🤔  hope との違いは？
 
 - **wish**：実現が難しいことや現実と違うことを「願う」ニュアンス
-- **[hope](/word/hope)**：実現の可能性があることを「期待する」ニュアンス
+- **[hope](/word/hope/)**：実現の可能性があることを「期待する」ニュアンス
 
 wishは「もし～だったらいいのに」と現実と違うことを願うときに使い、hopeは「きっと～だろう」と期待を込めて使います。
 
@@ -108,14 +108,14 @@ wishは「もし～だったらいいのに」と現実と違うことを願う�
 
 ## 🧩 あわせて覚えたい
 
-- [desire](/word/desire)：強い願望
-- [regret](/word/regret)：後悔
+- [desire](/word/desire/)：強い願望
+- [regret](/word/regret/)：後悔
 
 ---
 
 ## 📖 できればこれも
 
-- [prefer](/word/prefer)：～の方を好む
-- [suggest](/word/suggest)：提案する
+- [prefer](/word/prefer/)：～の方を好む
+- [suggest](/word/suggest/)：提案する
 
 <!-- cvid: aid18_bid37 -->

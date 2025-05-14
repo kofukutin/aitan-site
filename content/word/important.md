@@ -97,7 +97,7 @@ TOEICではPart 5を中心に、形容詞として名詞を修飾する形で頻
 ## 🤔  significant との違いは？
 
 - **important**：一般的に「重要」「大切」と幅広く使われる
-- **[significant](/word/significant)**：特に「意味がある」「顕著な影響がある」ときに使う
+- **[significant](/word/significant/)**：特に「意味がある」「顕著な影響がある」ときに使う
 
 「important」は広く「大切」「重要」と言いたいときに使い、「significant」は統計や変化などで「意味のある」「顕著な」重要性を強調したいときに使います。
 
@@ -105,14 +105,14 @@ TOEICではPart 5を中心に、形容詞として名詞を修飾する形で頻
 
 ## 🧩 あわせて覚えたい
 
-- [essential](/word/essential)：不可欠な、絶対必要な
-- [trivial](/word/trivial)：ささいな、重要でない
+- [essential](/word/essential/)：不可欠な、絶対必要な
+- [trivial](/word/trivial/)：ささいな、重要でない
 
 ---
 
 ## 📖 できればこれも
 
-- [necessary](/word/necessary)：必要な
-- [major](/word/major)：主要な、重要な
+- [necessary](/word/necessary/)：必要な
+- [major](/word/major/)：主要な、重要な
 
 <!-- cvid: aid19_bid24 -->

@@ -97,7 +97,7 @@ TOEICでは会話やビジネスシーンで「顧客を失う」「物をなく
 ## 🤔  miss との違いは？
 
 - **lose**：持っていたものを失う、または試合などで負ける
-- **[miss](/word/miss)**：機会や乗り物など「逃す」「乗り遅れる」
+- **[miss](/word/miss/)**：機会や乗り物など「逃す」「乗り遅れる」
 
 loseは「所有していたものをなくす」場合に使い、missは「予定や機会を逃す」「乗り物に間に合わない」場合に使います。
 
@@ -105,14 +105,14 @@ loseは「所有していたものをなくす」場合に使い、missは「予
 
 ## 🧩 あわせて覚えたい
 
-- [gain](/word/gain)：得る、獲得する
-- [forget](/word/forget)：忘れる
+- [gain](/word/gain/)：得る、獲得する
+- [forget](/word/forget/)：忘れる
 
 ---
 
 ## 📖 できればこれも
 
-- [fail](/word/fail)：失敗する
-- [find](/word/find)：見つける
+- [fail](/word/fail/)：失敗する
+- [find](/word/find/)：見つける
 
 <!-- cvid: aid07_bid10 -->

@@ -96,7 +96,7 @@ TOEICでは、農業や環境、食品関連の記事や広告文で「pest」�
 ## 🤔  insect との違いは？
 
 - **pest**：人間や作物に害を与える虫や動物
-- **[insect](/word/insect)**：昆虫全般（害があるかどうかは問わない）
+- **[insect](/word/insect/)**：昆虫全般（害があるかどうかは問わない）
 
 pestは「害を及ぼす生き物」に限定され、insectは「昆虫」という生物学的な分類を指します。
 
@@ -104,14 +104,14 @@ pestは「害を及ぼす生き物」に限定され、insectは「昆虫」と�
 
 ## 🧩 あわせて覚えたい
 
-- [vermin](/word/vermin)：害獣（ネズミなどの有害な小動物）
-- [disease](/word/disease)：病気
+- [vermin](/word/vermin/)：害獣（ネズミなどの有害な小動物）
+- [disease](/word/disease/)：病気
 
 ---
 
 ## 📖 できればこれも
 
-- [weed](/word/weed)：雑草
-- [damage](/word/damage)：損害、被害
+- [weed](/word/weed/)：雑草
+- [damage](/word/damage/)：損害、被害
 
 <!-- cvid: aid48_bid39 -->

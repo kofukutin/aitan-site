@@ -97,7 +97,7 @@ TOEICではPart 1や数字を聞き取る問題でよく登場します。リス
 ## 🤔  fifth との違いは？
 
 - **five**：5、5つ、5人など「数そのもの」を表す
-- **[fifth](/word/fifth)**：5番目、「順序」を表す
+- **[fifth](/word/fifth/)**：5番目、「順序」を表す
 
 「five」は数量、「fifth」は順序を表すので、使い分けに注意しましょう。
 
@@ -105,14 +105,14 @@ TOEICではPart 1や数字を聞き取る問題でよく登場します。リス
 
 ## 🧩 あわせて覚えたい
 
-- [ten](/word/ten)：10
-- [dozen](/word/dozen)：12個（1ダース）
+- [ten](/word/ten/)：10
+- [dozen](/word/dozen/)：12個（1ダース）
 
 ---
 
 ## 📖 できればこれも
 
-- [four](/word/four)：4
-- [six](/word/six)：6
+- [four](/word/four/)：4
+- [six](/word/six/)：6
 
 <!-- cvid: aid13_bid26 -->

@@ -95,7 +95,7 @@ TOEICでは会話や説明文で「～の後で」という時間や順序を示
 ## 🤔  following との違いは？
 
 - **after**：出来事や時点の「直後」や「その後」を幅広く表す。
-- **[following](/word/following)**：「直後に続く」「次の」という意味で、よりフォーマルな文脈や書き言葉で使われやすい。
+- **[following](/word/following/)**：「直後に続く」「次の」という意味で、よりフォーマルな文脈や書き言葉で使われやすい。
 
 「after」は日常会話やカジュアルな場面でも使われ、「following」は公式文書や案内などでよく使われます。
 
@@ -103,14 +103,14 @@ TOEICでは会話や説明文で「～の後で」という時間や順序を示
 
 ## 🧩 あわせて覚えたい
 
-- [before](/word/before)：～の前に
-- [since](/word/since)：～以来、～からずっと
+- [before](/word/before/)：～の前に
+- [since](/word/since/)：～以来、～からずっと
 
 ---
 
 ## 📖 できればこれも
 
-- [during](/word/during)：～の間に
-- [until](/word/until)：～まで（ずっと）
+- [during](/word/during/)：～の間に
+- [until](/word/until/)：～まで（ずっと）
 
 <!-- cvid: aid08_bid08 -->

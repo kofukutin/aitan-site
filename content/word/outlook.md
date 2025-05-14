@@ -96,7 +96,7 @@ TOEICでは主にビジネス文書や記事の中で「見通し」「展望」
 ## 🤔  perspective との違いは？
 
 - **outlook**：将来の見通しや物事に対する全体的な考え方
-- **[perspective](/word/perspective)**：物事をどう見るかという視点や観点
+- **[perspective](/word/perspective/)**：物事をどう見るかという視点や観点
 
 outlookは「将来の展望」や「人生観」など広い意味で使われ、perspectiveは「視点」や「立場」など、より個人の見方や角度に焦点を当てます。
 
@@ -104,14 +104,14 @@ outlookは「将来の展望」や「人生観」など広い意味で使われ�
 
 ## 🧩 あわせて覚えたい
 
-- [forecast](/word/forecast)：予測、予報
-- [attitude](/word/attitude)：態度、考え方
+- [forecast](/word/forecast/)：予測、予報
+- [attitude](/word/attitude/)：態度、考え方
 
 ---
 
 ## 📖 できればこれも
 
-- [viewpoint](/word/viewpoint)：観点、見地
-- [prospect](/word/prospect)：見込み、可能性
+- [viewpoint](/word/viewpoint/)：観点、見地
+- [prospect](/word/prospect/)：見込み、可能性
 
 <!-- cvid: aid45_bid10 -->

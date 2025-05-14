@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やメール、案内文などで「許可」「
 ## 🤔  permission との違いは？
 
 - **clearance**：公式な手続きや審査を経て得る「許可」や「認可」、または障害物の「除去」も指す
-- **[permission](/word/permission)**：一般的な「許可」や「承諾」を意味し、日常的な場面でも使う
+- **[permission](/word/permission/)**：一般的な「許可」や「承諾」を意味し、日常的な場面でも使う
 
 clearanceは特にビジネスやセキュリティなど、よりフォーマルで厳格な許可や認可に使われます。permissionはもっと広く、カジュアルな許可にも使えます。
 
@@ -105,14 +105,14 @@ clearanceは特にビジネスやセキュリティなど、よりフォーマ�
 
 ## 🧩 あわせて覚えたい
 
-- [authorization](/word/authorization)：公式な認可、権限付与
-- [restriction](/word/restriction)：制限、規制
+- [authorization](/word/authorization/)：公式な認可、権限付与
+- [restriction](/word/restriction/)：制限、規制
 
 ---
 
 ## 📖 できればこれも
 
-- [approval](/word/approval)：承認、許可
-- [access](/word/access)：アクセス、入手・接近する権利
+- [approval](/word/approval/)：承認、許可
+- [access](/word/access/)：アクセス、入手・接近する権利
 
 <!-- cvid: aid27_bid41 -->

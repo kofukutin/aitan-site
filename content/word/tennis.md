@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、スポーツやレジャーの場面
 ## 🤔  badminton との違いは？
 
 - **tennis**：ラケットとボールを使い、屋外または屋内のコートで行うスポーツ。
-- **[badminton](/word/badminton)**：シャトル（羽根）とラケットを使い、主に屋内で行うスポーツ。
+- **[badminton](/word/badminton/)**：シャトル（羽根）とラケットを使い、主に屋内で行うスポーツ。
 
 tennisはボールを使い、コートも広く、体力やパワーが求められますが、badmintonはシャトルを使い、より素早い動きや反射神経が重視されます。
 
@@ -105,14 +105,14 @@ tennisはボールを使い、コートも広く、体力やパワーが求め�
 
 ## 🧩 あわせて覚えたい
 
-- [table tennis](/word/table_tennis)：卓球
-- [court](/word/court)：コート、競技場
+- [table tennis](/word/table_tennis/)：卓球
+- [court](/word/court/)：コート、競技場
 
 ---
 
 ## 📖 できればこれも
 
-- [soccer](/word/soccer)：サッカー
-- [player](/word/player)：選手
+- [soccer](/word/soccer/)：サッカー
+- [player](/word/player/)：選手
 
 <!-- cvid: aid42_bid42 -->

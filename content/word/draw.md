@@ -97,7 +97,7 @@ drawはTOEICの会話パートで「注意を引く」「集める」などの�
 ## 🤔  attract との違いは？
 
 - **draw**：意図的・自然に「引き寄せる」「集める」など幅広く使う
-- **[attract](/word/attract)**：主に「魅力で引きつける」「惹きつける」に特化
+- **[attract](/word/attract/)**：主に「魅力で引きつける」「惹きつける」に特化
 
 drawは「線を引く」「注意を集める」など多用途ですが、attractは「魅力や性質で人や物を引きつける」場合に使います。
 
@@ -105,14 +105,14 @@ drawは「線を引く」「注意を集める」など多用途ですが、attr
 
 ## 🧩 あわせて覚えたい
 
-- [pull](/word/pull)：引っ張る
-- [sketch](/word/sketch)：スケッチする、下書きする
+- [pull](/word/pull/)：引っ張る
+- [sketch](/word/sketch/)：スケッチする、下書きする
 
 ---
 
 ## 📖 できればこれも
 
-- [paint](/word/paint)：絵の具で描く
-- [invite](/word/invite)：招待する
+- [paint](/word/paint/)：絵の具で描く
+- [invite](/word/invite/)：招待する
 
 <!-- cvid: aid08_bid42 -->

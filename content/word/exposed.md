@@ -97,7 +97,7 @@ TOEICでは、リスクや情報漏洩、天候などに「さらされている
 ## 🤔  vulnerable との違いは？
 
 - **exposed**：外部からの危険や影響に「さらされている」状態を強調。
-- **[vulnerable](/word/vulnerable)**：攻撃や被害を「受けやすい」「弱い」状態を強調。
+- **[vulnerable](/word/vulnerable/)**：攻撃や被害を「受けやすい」「弱い」状態を強調。
 
 exposedは「守るものがなく危険にさらされている」こと、vulnerableは「傷つきやすい・弱い」ことに重点があります。
 
@@ -105,14 +105,14 @@ exposedは「守るものがなく危険にさらされている」こと、vuln
 
 ## 🧩 あわせて覚えたい
 
-- [protected](/word/protected)：保護された
-- [uncovered](/word/uncovered)：覆いのない、むき出しの
+- [protected](/word/protected/)：保護された
+- [uncovered](/word/uncovered/)：覆いのない、むき出しの
 
 ---
 
 ## 📖 できればこれも
 
-- [visible](/word/visible)：見える、目に見える
-- [obvious](/word/obvious)：明らかな
+- [visible](/word/visible/)：見える、目に見える
+- [obvious](/word/obvious/)：明らかな
 
 <!-- cvid: aid21_bid47 -->

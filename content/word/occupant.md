@@ -98,7 +98,7 @@ TOEICでは契約書や説明文、施設案内などで「occupant」が使わ�
 ## 🤔  resident との違いは？
 
 - **occupant**：その場所を現在占有・利用している人（住人・乗員など一時的な場合も含む）
-- **[resident](/word/resident)**：その場所に住んでいる人（長期的な居住者）
+- **[resident](/word/resident/)**：その場所に住んでいる人（長期的な居住者）
 
 「occupant」は一時的な利用者や乗り物の乗員にも使えますが、「resident」は主に長期間住んでいる人に使います。
 
@@ -106,14 +106,14 @@ TOEICでは契約書や説明文、施設案内などで「occupant」が使わ�
 
 ## 🧩 あわせて覚えたい
 
-- [tenant](/word/tenant)：賃借人、借家人
-- [owner](/word/owner)：所有者
+- [tenant](/word/tenant/)：賃借人、借家人
+- [owner](/word/owner/)：所有者
 
 ---
 
 ## 📖 できればこれも
 
-- [premises](/word/premises)：敷地、建物
-- [facility](/word/facility)：施設
+- [premises](/word/premises/)：敷地、建物
+- [facility](/word/facility/)：施設
 
 <!-- cvid: aid37_bid21 -->

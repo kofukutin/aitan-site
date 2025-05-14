@@ -97,7 +97,7 @@ TOEICでは会議やチームの場面で「leader」がよく登場します。
 ## 🤔  manager との違いは？
 
 - **leader**：人々を導き、方向性やビジョンを示す人
-- **[manager](/word/manager)**：業務や人員を管理・運営する人
+- **[manager](/word/manager/)**：業務や人員を管理・運営する人
 
 leaderは人を鼓舞し導く役割が強く、managerは組織運営や管理の実務的側面が強いです。
 
@@ -105,14 +105,14 @@ leaderは人を鼓舞し導く役割が強く、managerは組織運営や管理�
 
 ## 🧩 あわせて覚えたい
 
-- [director](/word/director)：取締役、監督
-- [follower](/word/follower)：従う人、部下
+- [director](/word/director/)：取締役、監督
+- [follower](/word/follower/)：従う人、部下
 
 ---
 
 ## 📖 できればこれも
 
-- [team](/word/team)：チーム、団体
-- [group](/word/group)：グループ、集団
+- [team](/word/team/)：チーム、団体
+- [group](/word/group/)：グループ、集団
 
 <!-- cvid: aid41_bid06 -->

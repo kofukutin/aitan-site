@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文読解で、レポートや記事、学術的な
 ## 🤔  quote との違いは？
 
 - **cite**：根拠や例として「引用する」「挙げる」（フォーマルで学術的な場面が多い）
-- **[quote](/word/quote)**：「そのままの言葉を引用する」ことに重点（会話や文章で直接引用する場合によく使う）
+- **[quote](/word/quote/)**：「そのままの言葉を引用する」ことに重点（会話や文章で直接引用する場合によく使う）
 
 citeは根拠や出典を示すときに使い、quoteは実際の言葉や文章をそのまま抜き出すときに使います。
 
@@ -105,14 +105,14 @@ citeは根拠や出典を示すときに使い、quoteは実際の言葉や文�
 
 ## 🧩 あわせて覚えたい
 
-- [refer](/word/refer)：言及する、参照する
-- [mention](/word/mention)：軽く触れる、言及する
+- [refer](/word/refer/)：言及する、参照する
+- [mention](/word/mention/)：軽く触れる、言及する
 
 ---
 
 ## 📖 できればこれも
 
-- [summarize](/word/summarize)：要約する
-- [paraphrase](/word/paraphrase)：言い換える
+- [summarize](/word/summarize/)：要約する
+- [paraphrase](/word/paraphrase/)：言い換える
 
 <!-- cvid: aid03_bid28 -->

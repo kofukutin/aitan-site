@@ -97,7 +97,7 @@ TOEICのPart 1で「微笑んでいる」「笑顔を見せている」といっ
 ## 🤔  grin との違いは？
 
 - **smile**：やさしく自然な微笑み。親しみや好意を表す。
-- **[grin](/word/grin)**：歯を見せてにっこり笑う、より大きくはっきりした笑顔。
+- **[grin](/word/grin/)**：歯を見せてにっこり笑う、より大きくはっきりした笑顔。
 
 「smile」は控えめで自然な微笑み、「grin」は歯を見せて大きく笑うときに使います。場面や感情の強さで使い分けます。
 
@@ -105,14 +105,14 @@ TOEICのPart 1で「微笑んでいる」「笑顔を見せている」といっ
 
 ## 🧩 あわせて覚えたい
 
-- [frown](/word/frown)：しかめっ面
-- [laugh](/word/laugh)：声を出して笑う
+- [frown](/word/frown/)：しかめっ面
+- [laugh](/word/laugh/)：声を出して笑う
 
 ---
 
 ## 📖 できればこれも
 
-- [greet](/word/greet)：挨拶する
-- [wave](/word/wave)：手を振る
+- [greet](/word/greet/)：挨拶する
+- [wave](/word/wave/)：手を振る
 
 <!-- cvid: aid01_bid00 -->

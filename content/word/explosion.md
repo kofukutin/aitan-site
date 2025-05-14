@@ -97,7 +97,7 @@ TOEICでは、事故やトラブル、または急激な変化を説明する場
 ## 🤔  burst との違いは？
 
 - **explosion**：大きな音や力を伴う爆発、または急激な増加を表す。
-- **[burst](/word/burst)**：何かが突然破裂すること。規模や音はexplosionより小さい場合が多い。
+- **[burst](/word/burst/)**：何かが突然破裂すること。規模や音はexplosionより小さい場合が多い。
 
 「explosion」は大規模で劇的な爆発や急増に使われ、「burst」は小規模な破裂や一瞬の出来事に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、事故やトラブル、または急激な変化を説明する場
 
 ## 🧩 あわせて覚えたい
 
-- [implosion](/word/implosion)：内向きの爆発、内爆
-- [eruption](/word/eruption)：噴火、突発
+- [implosion](/word/implosion/)：内向きの爆発、内爆
+- [eruption](/word/eruption/)：噴火、突発
 
 ---
 
 ## 📖 できればこれも
 
-- [expand](/word/expand)：拡大する、広がる
-- [explode](/word/explode)：爆発する
+- [expand](/word/expand/)：拡大する、広がる
+- [explode](/word/explode/)：爆発する
 
 <!-- cvid: aid43_bid20 -->

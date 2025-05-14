@@ -97,7 +97,7 @@ TOEICでは、会話の中で「聞いた」「耳にした」という意味で
 ## 🤔  listened との違いは？
 
 - **heard**：自然に耳に入る、意識せずに「聞こえた」
-- **[listened](/word/listened)**：意識して注意深く「聞いた」
+- **[listened](/word/listened/)**：意識して注意深く「聞いた」
 
 heardは受動的に音や情報が耳に入る場合、listenedは意識的に耳を傾ける場合に使います。
 
@@ -105,14 +105,14 @@ heardは受動的に音や情報が耳に入る場合、listenedは意識的に�
 
 ## 🧩 あわせて覚えたい
 
-- [notice](/word/notice)：気づく、注意する
-- [overhear](/word/overhear)：（偶然）聞いてしまう
+- [notice](/word/notice/)：気づく、注意する
+- [overhear](/word/overhear/)：（偶然）聞いてしまう
 
 ---
 
 ## 📖 できればこれも
 
-- [say](/word/say)：言う
-- [tell](/word/tell)：伝える
+- [say](/word/say/)：言う
+- [tell](/word/tell/)：伝える
 
 <!-- cvid: aid11_bid43 -->

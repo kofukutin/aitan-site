@@ -97,7 +97,7 @@ holdingは、TOEICの長文読解パートで企業の資産や株式に関す�
 ## 🤔  possession との違いは？
 
 - **holding**：主にビジネスや金融で使われる「持ち株」「資産」などの所有物
-- **[possession](/word/possession)**：一般的な「所有物」「所持品」全般
+- **[possession](/word/possession/)**：一般的な「所有物」「所持品」全般
 
 holdingは企業や投資の文脈で使われることが多く、possessionは日常的な持ち物や所有全般に使われます。
 
@@ -105,14 +105,14 @@ holdingは企業や投資の文脈で使われることが多く、possessionは
 
 ## 🧩 あわせて覚えたい
 
-- [subsidiary](/word/subsidiary)：子会社
-- [asset](/word/asset)：資産
+- [subsidiary](/word/subsidiary/)：子会社
+- [asset](/word/asset/)：資産
 
 ---
 
 ## 📖 できればこれも
 
-- [share](/word/share)：株式、分け前
-- [ownership](/word/ownership)：所有権
+- [share](/word/share/)：株式、分け前
+- [ownership](/word/ownership/)：所有権
 
 <!-- cvid: aid43_bid29 -->

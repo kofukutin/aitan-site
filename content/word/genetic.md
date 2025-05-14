@@ -97,7 +97,7 @@ TOEICでは科学や医療に関する長文や記事で登場することが多
 ## 🤔  hereditary との違いは？
 
 - **genetic**：遺伝子そのものや遺伝子レベルの特徴・影響を指す
-- **[hereditary](/word/hereditary)**：親から子へ受け継がれる性質や病気など、遺伝によるもの全般を指す
+- **[hereditary](/word/hereditary/)**：親から子へ受け継がれる性質や病気など、遺伝によるもの全般を指す
 
 「genetic」は科学的・医学的な文脈で使われやすく、遺伝子レベルの話に特化します。「hereditary」は「家系的」「先祖伝来」など、より広い意味での遺伝を表します。
 
@@ -105,14 +105,14 @@ TOEICでは科学や医療に関する長文や記事で登場することが多
 
 ## 🧩 あわせて覚えたい
 
-- [biological](/word/biological)：生物学的な
-- [inherited](/word/inherited)：受け継がれた、遺伝した
+- [biological](/word/biological/)：生物学的な
+- [inherited](/word/inherited/)：受け継がれた、遺伝した
 
 ---
 
 ## 📖 できればこれも
 
-- [gene](/word/gene)：遺伝子
-- [biology](/word/biology)：生物学
+- [gene](/word/gene/)：遺伝子
+- [biology](/word/biology/)：生物学
 
 <!-- cvid: aid15_bid34 -->

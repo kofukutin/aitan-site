@@ -97,7 +97,7 @@ TOEICでは「太字」「大胆な提案」など、文書作成やプレゼン
 ## 🤔  brave との違いは？
 
 - **bold**：大胆で目立つ、恐れずに行動する
-- **[brave](/word/brave)**：困難や危険に立ち向かう勇敢さ
+- **[brave](/word/brave/)**：困難や危険に立ち向かう勇敢さ
 
 「bold」は積極的で目立つ行動や態度に使い、「brave」は危険や困難に直面したときの勇気に使います。
 
@@ -105,14 +105,14 @@ TOEICでは「太字」「大胆な提案」など、文書作成やプレゼン
 
 ## 🧩 あわせて覚えたい
 
-- [confident](/word/confident)：自信がある
-- [timid](/word/timid)：臆病な
+- [confident](/word/confident/)：自信がある
+- [timid](/word/timid/)：臆病な
 
 ---
 
 ## 📖 できればこれも
 
-- [daring](/word/daring)：大胆な、勇敢な
-- [clear](/word/clear)：明確な、はっきりした
+- [daring](/word/daring/)：大胆な、勇敢な
+- [clear](/word/clear/)：明確な、はっきりした
 
 <!-- cvid: aid08_bid30 -->

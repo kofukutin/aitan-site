@@ -97,7 +97,7 @@ TOEICでは主にITや製品説明の文脈で登場し、仕様や特徴を説�
 ## 🤔  feature との違いは？
 
 - **functionality**：製品やシステムが「実際にできること」「機能性」全体を指す
-- **[feature](/word/feature)**：個々の「特徴」や「特長的な機能」を指す
+- **[feature](/word/feature/)**：個々の「特徴」や「特長的な機能」を指す
 
 functionalityは全体的な性能や使い勝手を強調し、featureは個別の目立つ機能や特徴を指します。
 
@@ -105,14 +105,14 @@ functionalityは全体的な性能や使い勝手を強調し、featureは個別
 
 ## 🧩 あわせて覚えたい
 
-- [capability](/word/capability)：能力、性能
-- [operation](/word/operation)：操作、運用
+- [capability](/word/capability/)：能力、性能
+- [operation](/word/operation/)：操作、運用
 
 ---
 
 ## 📖 できればこれも
 
-- [specification](/word/specification)：仕様、明細
-- [application](/word/application)：アプリケーション、応用
+- [specification](/word/specification/)：仕様、明細
+- [application](/word/application/)：アプリケーション、応用
 
 <!-- cvid: aid15_bid35 -->

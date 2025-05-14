@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で「自転車に乗る」「自転
 ## 🤔  bike との違いは？
 
 - **bicycle**：フォーマル・中立的な「自転車」の正式名称
-- **[bike](/word/bike)**：カジュアルな言い方で「自転車」や「バイク（オートバイ）」の意味もある
+- **[bike](/word/bike/)**：カジュアルな言い方で「自転車」や「バイク（オートバイ）」の意味もある
 
 bicycleは正式な表現で、bikeは日常会話やくだけた場面でよく使われます。bikeは文脈によってはオートバイも指すので注意が必要です。
 
@@ -105,14 +105,14 @@ bicycleは正式な表現で、bikeは日常会話やくだけた場面でよく
 
 ## 🧩 あわせて覚えたい
 
-- [car](/word/car)：車
-- [motorcycle](/word/motorcycle)：オートバイ
+- [car](/word/car/)：車
+- [motorcycle](/word/motorcycle/)：オートバイ
 
 ---
 
 ## 📖 できればこれも
 
-- [bus](/word/bus)：バス
-- [train](/word/train)：電車
+- [bus](/word/bus/)：バス
+- [train](/word/train/)：電車
 
 <!-- cvid: aid28_bid45 -->

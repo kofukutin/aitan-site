@@ -97,7 +97,7 @@ TOEICでは会議やビジネスの会話で「資金を集める」「価格を
 ## 🤔  increasing との違いは？
 
 - **raising**：意図的に何かを上げる・増やす（例：給料、手を上げる、資金を集める）
-- **[increasing](/word/increasing)**：数量やレベルが自然に、または全体的に増加する
+- **[increasing](/word/increasing/)**：数量やレベルが自然に、または全体的に増加する
 
 raisingは「人が意図して上げる」ニュアンスが強く、increasingは「自然に増える」や「全体的に増加する」場面で使われます。
 
@@ -105,14 +105,14 @@ raisingは「人が意図して上げる」ニュアンスが強く、increasing
 
 ## 🧩 あわせて覚えたい
 
-- [lowering](/word/lowering)：下げること
-- [collect](/word/collect)：集める
+- [lowering](/word/lowering/)：下げること
+- [collect](/word/collect/)：集める
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/word/improve)：改善する
-- [expand](/word/expand)：拡大する
+- [improve](/word/improve/)：改善する
+- [expand](/word/expand/)：拡大する
 
 <!-- cvid: aid19_bid45 -->

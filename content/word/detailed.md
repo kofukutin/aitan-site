@@ -97,7 +97,7 @@ TOEICでは、報告書や説明文、指示書などで「詳細な説明」「
 ## 🤔  specific との違いは？
 
 - **detailed**：細部まで詳しく説明されている、情報量が多い
-- **[specific](/word/specific)**：特定の、はっきり限定された
+- **[specific](/word/specific/)**：特定の、はっきり限定された
 
 detailedは「細かく説明されている」ことに重点があり、specificは「限定された内容や対象」に焦点がある点が異なります。
 
@@ -105,14 +105,14 @@ detailedは「細かく説明されている」ことに重点があり、specif
 
 ## 🧩 あわせて覚えたい
 
-- [comprehensive](/word/comprehensive)：包括的な、広範囲にわたる
-- [precise](/word/precise)：正確な、ぴったりの
+- [comprehensive](/word/comprehensive/)：包括的な、広範囲にわたる
+- [precise](/word/precise/)：正確な、ぴったりの
 
 ---
 
 ## 📖 できればこれも
 
-- [thorough](/word/thorough)：徹底的な、完全な
-- [accurate](/word/accurate)：正確な
+- [thorough](/word/thorough/)：徹底的な、完全な
+- [accurate](/word/accurate/)：正確な
 
 <!-- cvid: aid37_bid36 -->

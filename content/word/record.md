@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やメール、報告書などで「記録」「
 ## 🤔  document との違いは？
 
 - **record**：出来事やデータの「記録」や「履歴」を指し、公式な保存や証拠として使われることが多い。
-- **[document](/word/document)**：契約書や報告書など「文書」そのものを指し、内容の種類を問わない。
+- **[document](/word/document/)**：契約書や報告書など「文書」そのものを指し、内容の種類を問わない。
 
 recordは「記録された内容」や「履歴」に重点があり、documentは「書類・文書」という物理的な形や形式に重点があります。
 
@@ -105,14 +105,14 @@ recordは「記録された内容」や「履歴」に重点があり、document
 
 ## 🧩 あわせて覚えたい
 
-- [file](/word/file)：ファイル、書類をまとめたもの
-- [archive](/word/archive)：保管記録、アーカイブ
+- [file](/word/file/)：ファイル、書類をまとめたもの
+- [archive](/word/archive/)：保管記録、アーカイブ
 
 ---
 
 ## 📖 できればこれも
 
-- [report](/word/report)：報告書、レポート
-- [note](/word/note)：メモ、覚え書き
+- [report](/word/report/)：報告書、レポート
+- [note](/word/note/)：メモ、覚え書き
 
 <!-- cvid: aid33_bid12 -->

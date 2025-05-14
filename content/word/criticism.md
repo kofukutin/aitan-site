@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やメール、意見交換の場面で「critic
 ## 🤔  feedback との違いは？
 
 - **criticism**：欠点や問題点を指摘する「批判」「批評」の意味が強い
-- **[feedback](/word/feedback)**：良い点・悪い点を含めた「意見」「感想」「フィードバック」
+- **[feedback](/word/feedback/)**：良い点・悪い点を含めた「意見」「感想」「フィードバック」
 
 criticismは否定的な指摘が中心ですが、feedbackは肯定的な内容も含めて幅広く使われます。
 
@@ -105,14 +105,14 @@ criticismは否定的な指摘が中心ですが、feedbackは肯定的な内容
 
 ## 🧩 あわせて覚えたい
 
-- [complaint](/word/complaint)：苦情、不満
-- [praise](/word/praise)：称賛、ほめること
+- [complaint](/word/complaint/)：苦情、不満
+- [praise](/word/praise/)：称賛、ほめること
 
 ---
 
 ## 📖 できればこれも
 
-- [comment](/word/comment)：コメント、意見
-- [suggestion](/word/suggestion)：提案、助言
+- [comment](/word/comment/)：コメント、意見
+- [suggestion](/word/suggestion/)：提案、助言
 
 <!-- cvid: aid06_bid37 -->

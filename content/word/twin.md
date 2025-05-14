@@ -97,7 +97,7 @@ twinはホテルの部屋タイプや家族構成の説明など、日常的な�
 ## 🤔  sibling との違いは？
 
 - **twin**：同じ母親から同時に生まれた「双子」の一人または両方。
-- **[sibling](/word/sibling)**：兄弟姉妹全般を指し、双子に限らない。
+- **[sibling](/word/sibling/)**：兄弟姉妹全般を指し、双子に限らない。
 
 twinは「双子」という特定の関係を指し、siblingは「兄弟姉妹」という広い意味で使われます。
 
@@ -105,14 +105,14 @@ twinは「双子」という特定の関係を指し、siblingは「兄弟姉妹
 
 ## 🧩 あわせて覚えたい
 
-- [triplet](/word/triplet)：三つ子
-- [identical](/word/identical)：一卵性の、そっくりな
+- [triplet](/word/triplet/)：三つ子
+- [identical](/word/identical/)：一卵性の、そっくりな
 
 ---
 
 ## 📖 できればこれも
 
-- [cousin](/word/cousin)：いとこ
-- [relative](/word/relative)：親戚
+- [cousin](/word/cousin/)：いとこ
+- [relative](/word/relative/)：親戚
 
 <!-- cvid: aid07_bid37 -->

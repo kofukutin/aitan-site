@@ -97,7 +97,7 @@ TOEICでは職場環境やコンプライアンスに関する長文で登場す
 ## 🤔  bullying との違いは？
 
 - **harassment**：嫌がらせ全般を指し、性的・精神的・身体的など幅広い場面で使われる。
-- **[bullying](/word/bullying)**：特に力関係を利用したいじめや脅しを指し、主に学校や子どもの間で使われる。
+- **[bullying](/word/bullying/)**：特に力関係を利用したいじめや脅しを指し、主に学校や子どもの間で使われる。
 
 harassmentは大人の職場や社会全体での嫌がらせに幅広く使われ、bullyingは子どもや学生間のいじめに特化して使われることが多いです。
 
@@ -105,14 +105,14 @@ harassmentは大人の職場や社会全体での嫌がらせに幅広く使わ�
 
 ## 🧩 あわせて覚えたい
 
-- [discrimination](/word/discrimination)：差別
-- [intimidation](/word/intimidation)：脅迫、威圧
+- [discrimination](/word/discrimination/)：差別
+- [intimidation](/word/intimidation/)：脅迫、威圧
 
 ---
 
 ## 📖 できればこれも
 
-- [complaint](/word/complaint)：苦情
-- [policy](/word/policy)：方針
+- [complaint](/word/complaint/)：苦情
+- [policy](/word/policy/)：方針
 
 <!-- cvid: aid45_bid48 -->

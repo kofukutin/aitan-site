@@ -97,7 +97,7 @@ TOEICでは会議やイベントの案内、出席依頼などの場面でよく
 ## 🤔  request との違いは？
 
 - **invite**：人をイベントや行動に「招待する」「誘う」意味で、相手に参加を促すニュアンス。
-- **[request](/word/request)**：何かを「依頼する」「要請する」意味で、相手に行動を求めるが、招待の意味は含まない。
+- **[request](/word/request/)**：何かを「依頼する」「要請する」意味で、相手に行動を求めるが、招待の意味は含まない。
 
 inviteは「一緒に来てほしい」「参加してほしい」と相手を歓迎する気持ちが強く、requestは「してほしいこと」を丁寧に頼む時に使います。
 
@@ -105,14 +105,14 @@ inviteは「一緒に来てほしい」「参加してほしい」と相手を�
 
 ## 🧩 あわせて覚えたい
 
-- [accept](/word/accept)：受け入れる、承諾する
-- [decline](/word/decline)：断る、辞退する
+- [accept](/word/accept/)：受け入れる、承諾する
+- [decline](/word/decline/)：断る、辞退する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange)：手配する、準備する
-- [schedule](/word/schedule)：予定する、スケジュールを組む
+- [arrange](/word/arrange/)：手配する、準備する
+- [schedule](/word/schedule/)：予定する、スケジュールを組む
 
 <!-- cvid: aid08_bid45 -->

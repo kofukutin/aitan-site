@@ -97,7 +97,7 @@ TOEICでは、企業やプロジェクトの説明文などで「backed by ～�
 ## 🤔  supported との違いは？
 
 - **backed**：誰か・何かの支援や後ろ盾があることを強調
-- **[supported](/word/supported)**：一般的な「支えられている」「援助されている」状態
+- **[supported](/word/supported/)**：一般的な「支えられている」「援助されている」状態
 
 「backed」は特に資金や権威などの強い後ろ盾があるニュアンスがあり、「supported」は広く一般的な支援を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、企業やプロジェクトの説明文などで「backed by ～�
 
 ## 🧩 あわせて覚えたい
 
-- [funded](/word/funded)：資金提供された
-- [endorsed](/word/endorsed)：（公式に）承認された
+- [funded](/word/funded/)：資金提供された
+- [endorsed](/word/endorsed/)：（公式に）承認された
 
 ---
 
 ## 📖 できればこれも
 
-- [backing](/word/backing)：支援、後ろ盾
-- [support](/word/support)：支援、援助
+- [backing](/word/backing/)：支援、後ろ盾
+- [support](/word/support/)：支援、援助
 
 <!-- cvid: aid22_bid48 -->

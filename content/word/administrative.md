@@ -97,7 +97,7 @@ TOEICでは、会社や組織の運営に関する文脈でよく出題されま
 ## 🤔  managerial との違いは？
 
 - **administrative**：管理業務や事務作業に関する
-- **[managerial](/word/managerial)**：経営や管理職の立場に関する
+- **[managerial](/word/managerial/)**：経営や管理職の立場に関する
 
 administrativeは「事務的・管理的な作業」に焦点があり、managerialは「経営や管理職の役割・判断」に重点があります。
 
@@ -105,14 +105,14 @@ administrativeは「事務的・管理的な作業」に焦点があり、manage
 
 ## 🧩 あわせて覚えたい
 
-- [executive](/word/executive)：重役、経営幹部
-- [clerical](/word/clerical)：事務の、事務職の
+- [executive](/word/executive/)：重役、経営幹部
+- [clerical](/word/clerical/)：事務の、事務職の
 
 ---
 
 ## 📖 できればこれも
 
-- [official](/word/official)：公式の、公務員の
-- [supervisory](/word/supervisory)：監督の、管理の
+- [official](/word/official/)：公式の、公務員の
+- [supervisory](/word/supervisory/)：監督の、管理の
 
 <!-- cvid: aid13_bid31 -->

@@ -97,7 +97,7 @@ TOEICでは環境や科学、技術関連の記事や説明文で「marine」が
 ## 🤔  maritime との違いは？
 
 - **marine**：海そのものや海に生息する生物・環境に直接関係する
-- **[maritime](/word/maritime)**：海運、航海、沿岸地域など「人の活動」と海の関わりに重点
+- **[maritime](/word/maritime/)**：海運、航海、沿岸地域など「人の活動」と海の関わりに重点
 
 marineは「自然としての海」に焦点があり、maritimeは「海を利用した人間活動」に関連して使われます。
 
@@ -105,14 +105,14 @@ marineは「自然としての海」に焦点があり、maritimeは「海を利
 
 ## 🧩 あわせて覚えたい
 
-- [aquatic](/word/aquatic)：水生の、水中の
-- [terrestrial](/word/terrestrial)：陸生の、陸の
+- [aquatic](/word/aquatic/)：水生の、水中の
+- [terrestrial](/word/terrestrial/)：陸生の、陸の
 
 ---
 
 ## 📖 できればこれも
 
-- [oceanic](/word/oceanic)：大洋の、海洋の
-- [coastal](/word/coastal)：沿岸の
+- [oceanic](/word/oceanic/)：大洋の、海洋の
+- [coastal](/word/coastal/)：沿岸の
 
 <!-- cvid: aid45_bid45 -->

@@ -97,7 +97,7 @@ TOEICでは主に形容詞の語彙問題や、感情・評価を表す文脈で
 ## 🤔  terrible との違いは？
 
 - **horrible**：恐怖や嫌悪感を強く伴う「ひどい」「恐ろしい」
-- **[terrible](/word/terrible)**：広く「ひどい」「恐ろしい」だが、恐怖よりも「質の悪さ」「重大さ」に重点
+- **[terrible](/word/terrible/)**：広く「ひどい」「恐ろしい」だが、恐怖よりも「質の悪さ」「重大さ」に重点
 
 horribleは「ぞっとする」「不快でたまらない」ニュアンスが強く、terribleは「重大な悪さ」「深刻な悪影響」にも使われます。
 
@@ -105,14 +105,14 @@ horribleは「ぞっとする」「不快でたまらない」ニュアンスが
 
 ## 🧩 あわせて覚えたい
 
-- [awful](/word/awful)：とても悪い、ひどい
-- [pleasant](/word/pleasant)：心地よい、楽しい
+- [awful](/word/awful/)：とても悪い、ひどい
+- [pleasant](/word/pleasant/)：心地よい、楽しい
 
 ---
 
 ## 📖 できればこれも
 
-- [frightening](/word/frightening)：怖がらせるような
-- [wonderful](/word/wonderful)：素晴らしい
+- [frightening](/word/frightening/)：怖がらせるような
+- [wonderful](/word/wonderful/)：素晴らしい
 
 <!-- cvid: aid08_bid16 -->

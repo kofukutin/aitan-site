@@ -97,7 +97,7 @@ The company is working to reduce water pollution.
 ## 🤔  contamination との違いは？
 
 - **pollution**：主に環境全体の汚染（空気・水・土壌など）を指す
-- **[contamination](/word/contamination)**：特定の物質や場所への有害物質の混入・汚染を指す
+- **[contamination](/word/contamination/)**：特定の物質や場所への有害物質の混入・汚染を指す
 
 pollutionは広い意味での環境汚染、contaminationは食品や水など特定対象への混入・汚染に使われます。
 
@@ -105,14 +105,14 @@ pollutionは広い意味での環境汚染、contaminationは食品や水など�
 
 ## 🧩 あわせて覚えたい
 
-- [waste](/word/waste)：廃棄物、ごみ
-- [purification](/word/purification)：浄化
+- [waste](/word/waste/)：廃棄物、ごみ
+- [purification](/word/purification/)：浄化
 
 ---
 
 ## 📖 できればこれも
 
-- [recycle](/word/recycle)：リサイクルする
-- [damage](/word/damage)：損害、被害
+- [recycle](/word/recycle/)：リサイクルする
+- [damage](/word/damage/)：損害、被害
 
 <!-- cvid: aid06_bid35 -->

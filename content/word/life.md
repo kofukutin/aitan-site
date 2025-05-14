@@ -98,7 +98,7 @@ TOEICでは「life insurance（生命保険）」や「work-life balance」な�
 ## 🤔  live との違いは？
 
 - **life**：名詞で「生命」「人生」「生活」などの意味。
-- **[live](/word/live)**：動詞で「生きる」「住む」などの意味。
+- **[live](/word/live/)**：動詞で「生きる」「住む」などの意味。
 
 「life」は名詞で状態や存在そのものを指し、「live」は動詞で「生きる」という動作を表します。
 
@@ -106,14 +106,14 @@ TOEICでは「life insurance（生命保険）」や「work-life balance」な�
 
 ## 🧩 あわせて覚えたい
 
-- [death](/word/death)：死、死亡
-- [career](/word/career)：経歴、職業
+- [death](/word/death/)：死、死亡
+- [career](/word/career/)：経歴、職業
 
 ---
 
 ## 📖 できればこれも
 
-- [work](/word/work)：仕事、働く
-- [dream](/word/dream)：夢、夢を見る
+- [work](/word/work/)：仕事、働く
+- [dream](/word/dream/)：夢、夢を見る
 
 <!-- cvid: aid21_bid31 -->

@@ -97,7 +97,7 @@ TOEICでは商品説明や衣料品の広告、ビジネス文書などで「sil
 ## 🤔  satin との違いは？
 
 - **silk**：カイコの繭から作られる天然の繊維や布地。
-- **[satin](/word/satin)**：光沢のある織り方で作られた布地（素材は絹や化学繊維など様々）。
+- **[satin](/word/satin/)**：光沢のある織り方で作られた布地（素材は絹や化学繊維など様々）。
 
 silkは素材そのものを指し、satinは織り方や仕上げによる布地の種類を指します。
 
@@ -105,14 +105,14 @@ silkは素材そのものを指し、satinは織り方や仕上げによる布�
 
 ## 🧩 あわせて覚えたい
 
-- [cotton](/word/cotton)：綿、コットン
-- [wool](/word/wool)：羊毛、ウール
+- [cotton](/word/cotton/)：綿、コットン
+- [wool](/word/wool/)：羊毛、ウール
 
 ---
 
 ## 📖 できればこれも
 
-- [fabric](/word/fabric)：布地、生地
-- [thread](/word/thread)：糸
+- [fabric](/word/fabric/)：布地、生地
+- [thread](/word/thread/)：糸
 
 <!-- cvid: aid36_bid26 -->

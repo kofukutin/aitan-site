@@ -97,7 +97,7 @@ gentlyは会話文や説明文で、動作や話し方の様子を表す副詞�
 ## 🤔  softly との違いは？
 
 - **gently**：優しく、穏やかに（動作や態度全体のやさしさを表す）
-- **[softly](/word/softly)**：やわらかく、静かに（主に音や感触のやわらかさを表す）
+- **[softly](/word/softly/)**：やわらかく、静かに（主に音や感触のやわらかさを表す）
 
 gentlyは態度や行動のやさしさに重点があり、softlyは音や触感など物理的な「やわらかさ」に焦点があります。
 
@@ -105,14 +105,14 @@ gentlyは態度や行動のやさしさに重点があり、softlyは音や触�
 
 ## 🧩 あわせて覚えたい
 
-- [carefully](/word/carefully)：注意深く
-- [firmly](/word/firmly)：しっかりと、堅く
+- [carefully](/word/carefully/)：注意深く
+- [firmly](/word/firmly/)：しっかりと、堅く
 
 ---
 
 ## 📖 できればこれも
 
-- [quietly](/word/quietly)：静かに
-- [slowly](/word/slowly)：ゆっくりと
+- [quietly](/word/quietly/)：静かに
+- [slowly](/word/slowly/)：ゆっくりと
 
 <!-- cvid: aid48_bid25 -->

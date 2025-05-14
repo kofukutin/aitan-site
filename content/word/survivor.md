@@ -97,7 +97,7 @@ TOEICでは主に記事やインタビューなどの長文で、事故や病気
 ## 🤔  victim との違いは？
 
 - **survivor**：困難や事故などを生き延びた人
-- **[victim](/word/victim)**：事故や犯罪などで被害を受けた人
+- **[victim](/word/victim/)**：事故や犯罪などで被害を受けた人
 
 survivorは「生き残った人」に焦点があり、victimは「被害を受けた人」に重点があります。
 
@@ -105,14 +105,14 @@ survivorは「生き残った人」に焦点があり、victimは「被害を受
 
 ## 🧩 あわせて覚えたい
 
-- [patient](/word/patient)：患者、病人
-- [witness](/word/witness)：目撃者、証人
+- [patient](/word/patient/)：患者、病人
+- [witness](/word/witness/)：目撃者、証人
 
 ---
 
 ## 📖 できればこれも
 
-- [injury](/word/injury)：けが、負傷
-- [recover](/word/recover)：回復する
+- [injury](/word/injury/)：けが、負傷
+- [recover](/word/recover/)：回復する
 
 <!-- cvid: aid26_bid47 -->

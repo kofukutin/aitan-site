@@ -97,7 +97,7 @@ TOEICではITや科学技術関連の長文や説明文で見かけることが�
 ## 🤔  calculation との違いは？
 
 - **computation**：特に機械的・論理的な計算や演算を指し、ITや科学分野でよく使われる。
-- **[calculation](/word/calculation)**：日常的な「計算」や「算出」に広く使われ、手作業や簡単な計算にも用いられる。
+- **[calculation](/word/calculation/)**：日常的な「計算」や「算出」に広く使われ、手作業や簡単な計算にも用いられる。
 
 computationは複雑な処理やコンピュータによる演算に重点があり、calculationはより一般的・日常的な計算全般に使われます。
 
@@ -105,13 +105,13 @@ computationは複雑な処理やコンピュータによる演算に重点があ
 
 ## 🧩 あわせて覚えたい
 
-- [analysis](/word/analysis)：分析
-- [estimation](/word/estimation)：見積もり、推定
+- [analysis](/word/analysis/)：分析
+- [estimation](/word/estimation/)：見積もり、推定
 
 ---
 
 ## 📖 できればこれも
 
-- [algorithm](/word/algorithm)：アルゴリズム、計算手順
-- [process](/word/process)：過程、処理
+- [algorithm](/word/algorithm/)：アルゴリズム、計算手順
+- [process](/word/process/)：過程、処理
 <!-- cvid: aid46_bid09 -->

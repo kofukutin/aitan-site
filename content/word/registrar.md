@@ -97,7 +97,7 @@ The registrar will prepare the official documents for the meeting.
 ## 🤔  clerk との違いは？
 
 - **registrar**：公式な記録や登録を専門に管理する担当者や役職
-- **[clerk](/word/clerk)**：一般的な事務員や窓口係
+- **[clerk](/word/clerk/)**：一般的な事務員や窓口係
 
 registrarは「記録・登録の専門職」、clerkは「一般的な事務職」として使い分けます。
 
@@ -105,14 +105,14 @@ registrarは「記録・登録の専門職」、clerkは「一般的な事務職
 
 ## 🧩 あわせて覚えたい
 
-- [administrator](/word/administrator)：管理者、運営責任者
-- [secretary](/word/secretary)：秘書、書記
+- [administrator](/word/administrator/)：管理者、運営責任者
+- [secretary](/word/secretary/)：秘書、書記
 
 ---
 
 ## 📖 できればこれも
 
-- [register](/word/register)：登録する、記録する
-- [certificate](/word/certificate)：証明書
+- [register](/word/register/)：登録する、記録する
+- [certificate](/word/certificate/)：証明書
 
 <!-- cvid: aid32_bid45 -->

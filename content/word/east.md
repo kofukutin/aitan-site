@@ -99,7 +99,7 @@ TOEICでは地図や写真描写、道案内などで「east」がよく登場�
 ## 🤔  eastward との違いは？
 
 - **east**：東、東方（名詞・形容詞・副詞）として幅広く使える基本語
-- **[eastward](/word/eastward)**：東方への、東方に（方向性を強調した副詞・形容詞）
+- **[eastward](/word/eastward/)**：東方への、東方に（方向性を強調した副詞・形容詞）
 
 eastは単に「東」や「東の」と表現するのに対し、eastwardは「東の方へ進む」といった動きや方向性を強調したいときに使います。
 
@@ -107,14 +107,14 @@ eastは単に「東」や「東の」と表現するのに対し、eastwardは�
 
 ## 🧩 あわせて覚えたい
 
-- [west](/word/west)：西、西方
-- [orient](/word/orient)：東洋、東方（ややフォーマル）
+- [west](/word/west/)：西、西方
+- [orient](/word/orient/)：東洋、東方（ややフォーマル）
 
 ---
 
 ## 📖 できればこれも
 
-- [north](/word/north)：北、北方
-- [south](/word/south)：南、南方
+- [north](/word/north/)：北、北方
+- [south](/word/south/)：南、南方
 
 <!-- cvid: aid38_bid44 -->

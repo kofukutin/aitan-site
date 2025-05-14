@@ -98,7 +98,7 @@ TOEICでは、公式発表や声明、ニュース記事などの文脈で「公
 ## 🤔  openly との違いは？
 
 - **publicly**：公の場で、公式に、誰でも知り得る形で
-- **[openly](/word/openly)**：隠さず率直に、あからさまに
+- **[openly](/word/openly/)**：隠さず率直に、あからさまに
 
 publiclyは「広く一般に向けて」行うことを強調し、openlyは「隠さず率直に」行うことを強調します。
 
@@ -106,14 +106,14 @@ publiclyは「広く一般に向けて」行うことを強調し、openlyは「
 
 ## 🧩 あわせて覚えたい
 
-- [privately](/word/privately)：非公開で、内密に
-- [officially](/word/officially)：公式に、正式に
+- [privately](/word/privately/)：非公開で、内密に
+- [officially](/word/officially/)：公式に、正式に
 
 ---
 
 ## 📖 できればこれも
 
-- [officially](/word/officially)：公式に、正式に
-- [privately](/word/privately)：非公開で、内密に
+- [officially](/word/officially/)：公式に、正式に
+- [privately](/word/privately/)：非公開で、内密に
 
 <!-- cvid: aid00_bid08 -->

@@ -97,7 +97,7 @@ TOEICでは科学や宇宙に関する記事や説明文で登場することが
 ## 🤔  universe との違いは？
 
 - **galaxy**：無数の星やガスが集まった「銀河」という単位を指す
-- **[universe](/word/universe)**：宇宙全体、すべての銀河や物質を含む
+- **[universe](/word/universe/)**：宇宙全体、すべての銀河や物質を含む
 
 galaxyは宇宙の中の一つの「銀河」を指し、universeはその銀河も含めた「宇宙全体」を表します。
 
@@ -105,14 +105,14 @@ galaxyは宇宙の中の一つの「銀河」を指し、universeはその銀河
 
 ## 🧩 あわせて覚えたい
 
-- [star](/word/star)：恒星、星
-- [planet](/word/planet)：惑星
+- [star](/word/star/)：恒星、星
+- [planet](/word/planet/)：惑星
 
 ---
 
 ## 📖 できればこれも
 
-- [astronomy](/word/astronomy)：天文学
-- [solar_system](/word/solar_system)：太陽系
+- [astronomy](/word/astronomy/)：天文学
+- [solar_system](/word/solar_system/)：太陽系
 
 <!-- cvid: aid24_bid23 -->

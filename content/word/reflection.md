@@ -97,7 +97,7 @@ TOEICでは「熟考」「反省」「反射」など複数の意味で出題さ
 ## 🤔  consideration との違いは？
 
 - **reflection**：自分自身でじっくり考えたり、過去を振り返ること
-- **[consideration](/word/consideration)**：何かを決める前に、要素や状況をよく考慮すること
+- **[consideration](/word/consideration/)**：何かを決める前に、要素や状況をよく考慮すること
 
 reflectionは「内省」や「反省」といった自分の内面に向けた思考、considerationは「配慮」や「検討」といった外部要因を含めた思考に使われます。
 
@@ -105,14 +105,14 @@ reflectionは「内省」や「反省」といった自分の内面に向けた�
 
 ## 🧩 あわせて覚えたい
 
-- [mirror](/word/mirror)：鏡、映すもの
-- [introspection](/word/introspection)：自己観察、内省
+- [mirror](/word/mirror/)：鏡、映すもの
+- [introspection](/word/introspection/)：自己観察、内省
 
 ---
 
 ## 📖 できればこれも
 
-- [analysis](/word/analysis)：分析
-- [feedback](/word/feedback)：フィードバック、意見
+- [analysis](/word/analysis/)：分析
+- [feedback](/word/feedback/)：フィードバック、意見
 
 <!-- cvid: aid06_bid48 -->

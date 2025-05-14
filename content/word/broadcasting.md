@@ -97,7 +97,7 @@ TOEICでは、放送やアナウンスに関するリスニング問題で頻出
 ## 🤔  transmission との違いは？
 
 - **broadcasting**：テレビやラジオなどで広く一般に向けて情報を発信すること
-- **[transmission](/word/transmission)**：情報や信号を送ること全般（放送に限らず通信も含む）
+- **[transmission](/word/transmission/)**：情報や信号を送ること全般（放送に限らず通信も含む）
 
 broadcastingは「大勢に向けての放送」、transmissionは「技術的な伝達・送信」とニュアンスが異なります。
 
@@ -105,14 +105,14 @@ broadcastingは「大勢に向けての放送」、transmissionは「技術的�
 
 ## 🧩 あわせて覚えたい
 
-- [announcement](/word/announcement)：お知らせ、発表
-- [media](/word/media)：メディア、媒体
+- [announcement](/word/announcement/)：お知らせ、発表
+- [media](/word/media/)：メディア、媒体
 
 ---
 
 ## 📖 できればこれも
 
-- [channel](/word/channel)：チャンネル、放送局
-- [program](/word/program)：番組
+- [channel](/word/channel/)：チャンネル、放送局
+- [program](/word/program/)：番組
 
 <!-- cvid: aid12_bid47 -->

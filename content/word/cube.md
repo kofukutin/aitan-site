@@ -97,7 +97,7 @@ TOEICでは、図形や形状、梱包、数学的な文脈で出題されるこ
 ## 🤔  square との違いは？
 
 - **cube**：6つの正方形の面を持つ立体（立方体）や角砂糖などの「立体的な四角いもの」を指す
-- **[square](/word/square)**：平面上の「正方形」や「四角形」を指す
+- **[square](/word/square/)**：平面上の「正方形」や「四角形」を指す
 
 cubeは立体、squareは平面の形を表す点が大きな違いです。
 
@@ -105,14 +105,14 @@ cubeは立体、squareは平面の形を表す点が大きな違いです。
 
 ## 🧩 あわせて覚えたい
 
-- [sphere](/word/sphere)：球体、丸い立体
-- [block](/word/block)：（大きめの）かたまり、ブロック
+- [sphere](/word/sphere/)：球体、丸い立体
+- [block](/word/block/)：（大きめの）かたまり、ブロック
 
 ---
 
 ## 📖 できればこれも
 
-- [circle](/word/circle)：円、丸
-- [box](/word/box)：箱、四角い容器
+- [circle](/word/circle/)：円、丸
+- [box](/word/box/)：箱、四角い容器
 
 <!-- cvid: aid20_bid48 -->

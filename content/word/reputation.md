@@ -97,7 +97,7 @@ TOEICでは企業や個人の評価、信頼性に関する文脈でよく登場
 ## 🤔  image との違いは？
 
 - **reputation**：世間や他人が抱く評価・評判
-- **[image](/word/image)**：外見や印象、イメージ
+- **[image](/word/image/)**：外見や印象、イメージ
 
 reputationは「実際の評価」や「信頼性」に重点があり、imageは「見た目や印象」といった表面的なイメージを指します。
 
@@ -105,14 +105,14 @@ reputationは「実際の評価」や「信頼性」に重点があり、image�
 
 ## 🧩 あわせて覚えたい
 
-- [credibility](/word/credibility)：信頼性
-- [rumor](/word/rumor)：うわさ
+- [credibility](/word/credibility/)：信頼性
+- [rumor](/word/rumor/)：うわさ
 
 ---
 
 ## 📖 できればこれも
 
-- [status](/word/status)：地位、身分
-- [honor](/word/honor)：名誉
+- [status](/word/status/)：地位、身分
+- [honor](/word/honor/)：名誉
 
 <!-- cvid: aid27_bid49 -->

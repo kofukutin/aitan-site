@@ -97,7 +97,7 @@ IT関連や業務内容の説明文で見かけることが多く、職務内容
 ## 🤔  coding との違いは？
 
 - **programming**：プログラム全体の設計や構築を含む幅広い作業
-- **[coding](/word/coding)**：実際にコードを書く作業に特化
+- **[coding](/word/coding/)**：実際にコードを書く作業に特化
 
 programmingは設計やテストも含む広い意味、codingは「コードを書く」こと自体に焦点を当てます。
 
@@ -105,14 +105,14 @@ programmingは設計やテストも含む広い意味、codingは「コードを
 
 ## 🧩 あわせて覚えたい
 
-- [development](/word/development)：開発
-- [algorithm](/word/algorithm)：アルゴリズム、計算手順
+- [development](/word/development/)：開発
+- [algorithm](/word/algorithm/)：アルゴリズム、計算手順
 
 ---
 
 ## 📖 できればこれも
 
-- [software](/word/software)：ソフトウェア
-- [engineer](/word/engineer)：技術者、エンジニア
+- [software](/word/software/)：ソフトウェア
+- [engineer](/word/engineer/)：技術者、エンジニア
 
 <!-- cvid: aid42_bid21 -->

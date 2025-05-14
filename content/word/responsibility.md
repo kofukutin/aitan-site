@@ -97,7 +97,7 @@ TOEICでは、職務や役割分担、義務に関する文脈で頻出します
 ## 🤔  duty との違いは？
 
 - **responsibility**：自分が果たすべき責任や役割、義務を強調
-- **[duty](/word/duty)**：社会的・職業的に課せられた義務や任務を強調
+- **[duty](/word/duty/)**：社会的・職業的に課せられた義務や任務を強調
 
 responsibilityは個人の役割や自覚に基づく責任、dutyは外部から与えられる義務や任務という違いがあります。
 
@@ -105,14 +105,14 @@ responsibilityは個人の役割や自覚に基づく責任、dutyは外部か�
 
 ## 🧩 あわせて覚えたい
 
-- [obligation](/word/obligation)：義務、責務
-- [authority](/word/authority)：権限、権威
+- [obligation](/word/obligation/)：義務、責務
+- [authority](/word/authority/)：権限、権威
 
 ---
 
 ## 📖 できればこれも
 
-- [requirement](/word/requirement)：必要条件、要件
-- [assignment](/word/assignment)：任務、課題
+- [requirement](/word/requirement/)：必要条件、要件
+- [assignment](/word/assignment/)：任務、課題
 
 <!-- cvid: aid46_bid03 -->

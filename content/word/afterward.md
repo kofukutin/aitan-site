@@ -93,7 +93,7 @@ TOEICでは会話や説明文で「その後」「後で」を表す副詞とし
 ## 🤔  later との違いは？
 
 - **afterward**：出来事の直後や「その後」に続く行動や出来事を指す。
-- **[later](/word/later)**：より広く「後で」「もっと後の時点で」を表し、時間の幅が広い。
+- **[later](/word/later/)**：より広く「後で」「もっと後の時点で」を表し、時間の幅が広い。
 
 「afterward」は直後や流れの中で使われやすく、「later」は「もっと後で」や具体的な時刻を示すときに使われます。
 
@@ -101,14 +101,14 @@ TOEICでは会話や説明文で「その後」「後で」を表す副詞とし
 
 ## 🧩 あわせて覚えたい
 
-- [subsequently](/word/subsequently)：その後、続いて
-- [immediately](/word/immediately)：すぐに、直ちに
+- [subsequently](/word/subsequently/)：その後、続いて
+- [immediately](/word/immediately/)：すぐに、直ちに
 
 ---
 
 ## 📖 できればこれも
 
-- [before](/word/before)：前に
-- [soon](/word/soon)：まもなく
+- [before](/word/before/)：前に
+- [soon](/word/soon/)：まもなく
 
 <!-- cvid: aid34_bid47 -->

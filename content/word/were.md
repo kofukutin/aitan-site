@@ -94,7 +94,7 @@ TOEICではリスニング・リーディングともにbe動詞の過去形と�
 ## 🤔  was との違いは？
 
 - **were**：複数主語や「you」の過去形に使うbe動詞
-- **[was](/word/was)**：単数主語（I, he, she, it）の過去形に使うbe動詞
+- **[was](/word/was/)**：単数主語（I, he, she, it）の過去形に使うbe動詞
 
 「were」は複数やyouに、「was」は単数主語に使う点が大きな違いです。
 
@@ -102,14 +102,14 @@ TOEICではリスニング・リーディングともにbe動詞の過去形と�
 
 ## 🧩 あわせて覚えたい
 
-- [are](/word/are)：be動詞の現在形（複数主語やyouに使う）
-- [have been](/word/have_been)：現在完了形で「ずっと～している」
+- [are](/word/are/)：be動詞の現在形（複数主語やyouに使う）
+- [have been](/word/have_been/)：現在完了形で「ずっと～している」
 
 ---
 
 ## 📖 できればこれも
 
-- [could](/word/could)：canの過去形・可能性や丁寧な依頼
-- [would](/word/would)：willの過去形・丁寧な依頼や仮定法
+- [could](/word/could/)：canの過去形・可能性や丁寧な依頼
+- [would](/word/would/)：willの過去形・丁寧な依頼や仮定法
 
 <!-- cvid: aid32_bid04 -->

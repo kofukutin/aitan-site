@@ -97,7 +97,7 @@ TOEICではITやビジネス文書、手続きの説明文などで「確認」�
 ## 🤔  validation との違いは？
 
 - **verification**：事実や正確さを証拠や手順で確認すること
-- **[validation](/word/validation)**：有効性や妥当性を認めること、正式に認証すること
+- **[validation](/word/validation/)**：有効性や妥当性を認めること、正式に認証すること
 
 verificationは「正しいかどうかをチェックする」こと、validationは「基準や要件を満たしているかを認める」ことに重点があります。
 
@@ -105,14 +105,14 @@ verificationは「正しいかどうかをチェックする」こと、validati
 
 ## 🧩 あわせて覚えたい
 
-- [confirmation](/word/confirmation)：確認、承認
-- [authentication](/word/authentication)：認証、本人確認
+- [confirmation](/word/confirmation/)：確認、承認
+- [authentication](/word/authentication/)：認証、本人確認
 
 ---
 
 ## 📖 できればこれも
 
-- [approval](/word/approval)：承認、許可
-- [inspection](/word/inspection)：検査、点検
+- [approval](/word/approval/)：承認、許可
+- [inspection](/word/inspection/)：検査、点検
 
 <!-- cvid: aid32_bid41 -->

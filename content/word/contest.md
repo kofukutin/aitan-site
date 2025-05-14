@@ -97,7 +97,7 @@ TOEICでは、イベント案内や社内のお知らせ、応募要項などの
 ## 🤔  competition との違いは？
 
 - **contest**：特定のテーマや分野で勝者を決める競技会やコンクール
-- **[competition](/word/competition)**：広く一般的な競争や大会、スポーツやビジネスなど幅広い分野で使う
+- **[competition](/word/competition/)**：広く一般的な競争や大会、スポーツやビジネスなど幅広い分野で使う
 
 「contest」は審査や評価があるイベントに多く、「competition」は競争全般やスポーツ大会など幅広い場面で使います。
 
@@ -105,14 +105,14 @@ TOEICでは、イベント案内や社内のお知らせ、応募要項などの
 
 ## 🧩 あわせて覚えたい
 
-- [tournament](/word/tournament)：トーナメント方式の大会
-- [challenge](/word/challenge)：挑戦、課題
+- [tournament](/word/tournament/)：トーナメント方式の大会
+- [challenge](/word/challenge/)：挑戦、課題
 
 ---
 
 ## 📖 できればこれも
 
-- [award](/word/award)：賞、表彰
-- [entry](/word/entry)：応募、参加
+- [award](/word/award/)：賞、表彰
+- [entry](/word/entry/)：応募、参加
 
 <!-- cvid: aid41_bid27 -->

@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「始まり」「冒頭」を表す語として
 ## 🤔  start との違いは？
 
 - **beginning**：物事の「始まり」や「初めの部分」を指す名詞
-- **[start](/word/start)**：始める行為や瞬間自体、または開始点を指す名詞・動詞
+- **[start](/word/start/)**：始める行為や瞬間自体、または開始点を指す名詞・動詞
 
 beginningは「物語の冒頭」や「プロジェクトの始まり」など、ある期間や部分を表すのに対し、startは「スタートボタン」や「開始する」という動作や瞬間に焦点を当てます。
 
@@ -105,14 +105,14 @@ beginningは「物語の冒頭」や「プロジェクトの始まり」など�
 
 ## 🧩 あわせて覚えたい
 
-- [end](/word/end)：終わり、終了
-- [origin](/word/origin)：起源、由来
+- [end](/word/end/)：終わり、終了
+- [origin](/word/origin/)：起源、由来
 
 ---
 
 ## 📖 できればこれも
 
-- [introduction](/word/introduction)：導入、紹介
-- [opening](/word/opening)：開幕、開始
+- [introduction](/word/introduction/)：導入、紹介
+- [opening](/word/opening/)：開幕、開始
 
 <!-- cvid: aid21_bid10 -->

@@ -97,7 +97,7 @@ TOEICでは、健康や科学、食品関連の記事や説明文で登場する
 ## 🤔  starch との違いは？
 
 - **glucose**：単純な糖（単糖類）で、すぐにエネルギー源となる。
-- **[starch](/word/starch)**：複数のグルコースが結合した多糖類で、主に植物のエネルギー貯蔵物質。
+- **[starch](/word/starch/)**：複数のグルコースが結合した多糖類で、主に植物のエネルギー貯蔵物質。
 
 glucoseは体内ですぐに使われるエネルギー源、starchは分解されてからエネルギーになる点が異なります。
 
@@ -105,14 +105,14 @@ glucoseは体内ですぐに使われるエネルギー源、starchは分解さ�
 
 ## 🧩 あわせて覚えたい
 
-- [fructose](/word/fructose)：果糖（果物などに含まれる単糖類）
-- [insulin](/word/insulin)：インスリン（血糖値を調整するホルモン）
+- [fructose](/word/fructose/)：果糖（果物などに含まれる単糖類）
+- [insulin](/word/insulin/)：インスリン（血糖値を調整するホルモン）
 
 ---
 
 ## 📖 できればこれも
 
-- [protein](/word/protein)：タンパク質（体を作る主要成分）
-- [carbohydrate](/word/carbohydrate)：炭水化物（エネルギー源となる栄養素）
+- [protein](/word/protein/)：タンパク質（体を作る主要成分）
+- [carbohydrate](/word/carbohydrate/)：炭水化物（エネルギー源となる栄養素）
 
 <!-- cvid: aid16_bid41 -->

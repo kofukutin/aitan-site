@@ -97,7 +97,7 @@ TOEICでは主にメールや通知文、ビジネス文書の中で「適切な
 ## 🤔  punctual との違いは？
 
 - **timely**：タイミングが良い、時宜を得た
-- **[punctual](/word/punctual)**：時間を守る、時間通りの
+- **[punctual](/word/punctual/)**：時間を守る、時間通りの
 
 timelyは「ちょうど良い時期・タイミング」であることを指し、punctualは「決められた時間を守る」ことに重点があります。timelyは状況や出来事の適切さ、punctualは人や行動の正確さに使われます。
 
@@ -105,14 +105,14 @@ timelyは「ちょうど良い時期・タイミング」であることを指�
 
 ## 🧩 あわせて覚えたい
 
-- [prompt](/word/prompt)：即座の、迅速な
-- [delayed](/word/delayed)：遅れた
+- [prompt](/word/prompt/)：即座の、迅速な
+- [delayed](/word/delayed/)：遅れた
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [relevant](/word/relevant)：関連する
+- [efficient](/word/efficient/)：効率的な
+- [relevant](/word/relevant/)：関連する
 
 <!-- cvid: aid39_bid26 -->

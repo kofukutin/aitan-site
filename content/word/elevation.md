@@ -98,7 +98,7 @@ elevationは、科学や地理、建築、または人事異動に関する説�
 ## 🤔  altitude との違いは？
 
 - **elevation**：地面や海面からの高さ・標高、または地位の昇進を表すフォーマルな語
-- **[altitude](/word/altitude)**：特に飛行機や山などの「高度」を指し、科学や航空分野でよく使う
+- **[altitude](/word/altitude/)**：特に飛行機や山などの「高度」を指し、科学や航空分野でよく使う
 
 elevationは地表や建物の高さ、altitudeは空中や山の高さなど、使う場面が異なります。
 
@@ -106,14 +106,14 @@ elevationは地表や建物の高さ、altitudeは空中や山の高さなど、
 
 ## 🧩 あわせて覚えたい
 
-- [height](/word/height)：高さ、身長
-- [promotion](/word/promotion)：昇進、促進
+- [height](/word/height/)：高さ、身長
+- [promotion](/word/promotion/)：昇進、促進
 
 ---
 
 ## 📖 できればこれも
 
-- [altitude](/word/altitude)：高度、標高
-- [height](/word/height)：高さ、身長
+- [altitude](/word/altitude/)：高度、標高
+- [height](/word/height/)：高さ、身長
 
 <!-- cvid: aid17_bid04 -->

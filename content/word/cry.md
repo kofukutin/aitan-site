@@ -98,7 +98,7 @@ TOEICでは日常的な会話や感情表現の場面で登場することがあ
 ## 🤔  shout との違いは？
 
 - **cry**：感情が高ぶって涙を流す、または助けを求めて叫ぶときに使う。
-- **[shout](/word/shout)**：大きな声で叫ぶことに特化し、必ずしも感情的とは限らない。
+- **[shout](/word/shout/)**：大きな声で叫ぶことに特化し、必ずしも感情的とは限らない。
 
 cryは「泣く」と「叫ぶ」の両方の意味を持ちますが、shoutは単に「大声を出す」ことに重点があります。
 
@@ -106,14 +106,14 @@ cryは「泣く」と「叫ぶ」の両方の意味を持ちますが、shoutは
 
 ## 🧩 あわせて覚えたい
 
-- [weep](/word/weep)：（静かに）泣く
-- [laugh](/word/laugh)：笑う
+- [weep](/word/weep/)：（静かに）泣く
+- [laugh](/word/laugh/)：笑う
 
 ---
 
 ## 📖 できればこれも
 
-- [smile](/word/smile)：ほほえむ
-- [call](/word/call)：呼ぶ
+- [smile](/word/smile/)：ほほえむ
+- [call](/word/call/)：呼ぶ
 
 <!-- cvid: aid18_bid06 -->

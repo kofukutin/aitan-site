@@ -97,7 +97,7 @@ TOEICではリスニングの応答や指示文で頻出し、現在の状況や
 ## 🤔  currently との違いは？
 
 - **now**：今この瞬間や直近の「今」を指すカジュアルな表現
-- **[currently](/word/currently)**：ややフォーマルで「現在進行中」の状態を表す
+- **[currently](/word/currently/)**：ややフォーマルで「現在進行中」の状態を表す
 
 「now」は会話やカジュアルな場面で「今すぐ」「ただ今」のニュアンス、"currently"はビジネスや書き言葉で「現在進行中」の意味で使い分けます。
 
@@ -105,14 +105,14 @@ TOEICではリスニングの応答や指示文で頻出し、現在の状況や
 
 ## 🧩 あわせて覚えたい
 
-- [immediately](/word/immediately)：すぐに
-- [soon](/word/soon)：まもなく
+- [immediately](/word/immediately/)：すぐに
+- [soon](/word/soon/)：まもなく
 
 ---
 
 ## 📖 できればこれも
 
-- [then](/word/then)：そのとき
-- [already](/word/already)：すでに
+- [then](/word/then/)：そのとき
+- [already](/word/already/)：すでに
 
 <!-- cvid: aid17_bid04 -->

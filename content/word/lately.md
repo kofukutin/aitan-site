@@ -93,7 +93,7 @@ TOEICでは会話や説明文で「最近～した」という流れでよく出
 ## 🤔  recently との違いは？
 
 - **lately**：最近（ここ数週間・数ヶ月の範囲で、現在完了形とよく使う）
-- **[recently](/word/recently)**：最近（過去形・現在完了形どちらでも使え、やや幅広い期間を指す）
+- **[recently](/word/recently/)**：最近（過去形・現在完了形どちらでも使え、やや幅広い期間を指す）
 
 latelyは「今も続く最近の状況」に、recentlyは「過去のある時点で起きた最近の出来事」に使うことが多いです。
 
@@ -101,14 +101,14 @@ latelyは「今も続く最近の状況」に、recentlyは「過去のある時
 
 ## 🧩 あわせて覚えたい
 
-- [currently](/word/currently)：現在、今のところ
-- [now](/word/now)：今、ただ今
+- [currently](/word/currently/)：現在、今のところ
+- [now](/word/now/)：今、ただ今
 
 ---
 
 ## 📖 できればこれも
 
-- [soon](/word/soon)：まもなく、すぐに
-- [already](/word/already)：すでに、もう
+- [soon](/word/soon/)：まもなく、すぐに
+- [already](/word/already/)：すでに、もう
 
 <!-- cvid: aid38_bid05 -->

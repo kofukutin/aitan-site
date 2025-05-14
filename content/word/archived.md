@@ -97,7 +97,7 @@ TOEICではITやビジネス文書の中で、データや書類の管理に関�
 ## 🤔  stored との違いは？
 
 - **archived**：長期保存や記録目的で整理して保管する
-- **[stored](/word/stored)**：単に保存・保管する（整理や長期性は問わない）
+- **[stored](/word/stored/)**：単に保存・保管する（整理や長期性は問わない）
 
 archivedは「記録として整理して保管する」ニュアンスが強く、storedは「どこかにしまう」程度の一般的な保存を指します。
 
@@ -105,14 +105,14 @@ archivedは「記録として整理して保管する」ニュアンスが強く
 
 ## 🧩 あわせて覚えたい
 
-- [delete](/word/delete)：削除する
-- [retrieve](/word/retrieve)：取り出す、回収する
+- [delete](/word/delete/)：削除する
+- [retrieve](/word/retrieve/)：取り出す、回収する
 
 ---
 
 ## 📖 できればこれも
 
-- [attach](/word/attach)：添付する
-- [update](/word/update)：更新する
+- [attach](/word/attach/)：添付する
+- [update](/word/update/)：更新する
 
 <!-- cvid: aid24_bid37 -->

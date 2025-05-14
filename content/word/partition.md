@@ -97,7 +97,7 @@ TOEICではオフィスのレイアウトやIT関連の説明文で登場する�
 ## 🤔  division との違いは？
 
 - **partition**：物理的・明確な仕切りや区切りを指すことが多い
-- **[division](/word/division)**：抽象的な「分割」や「区分」を広く指す
+- **[division](/word/division/)**：抽象的な「分割」や「区分」を広く指す
 
 partitionは壁やパネルなど具体的な「仕切り」に使われ、divisionは組織やグループなど抽象的な「分割」に使われます。
 
@@ -105,14 +105,14 @@ partitionは壁やパネルなど具体的な「仕切り」に使われ、divis
 
 ## 🧩 あわせて覚えたい
 
-- [separation](/word/separation)：分離、離すこと
-- [barrier](/word/barrier)：障壁、バリア
+- [separation](/word/separation/)：分離、離すこと
+- [barrier](/word/barrier/)：障壁、バリア
 
 ---
 
 ## 📖 できればこれも
 
-- [section](/word/section)：区画、部分
-- [segment](/word/segment)：部分、区分
+- [section](/word/section/)：区画、部分
+- [segment](/word/segment/)：部分、区分
 
 <!-- cvid: aid42_bid02 -->

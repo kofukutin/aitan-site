@@ -97,7 +97,7 @@ TOEICでは図面や仕様書、説明文などで「幅」を表す語として
 ## 🤔  breadth との違いは？
 
 - **width**：物理的な「幅」を表し、特に長方形や四角い物の横方向の長さに使う
-- **[breadth](/word/breadth)**：幅広さや広がりをやや抽象的に表し、物理的な幅だけでなく「知識の幅」などにも使う
+- **[breadth](/word/breadth/)**：幅広さや広がりをやや抽象的に表し、物理的な幅だけでなく「知識の幅」などにも使う
 
 widthは具体的な寸法や物の横幅に使い、breadthは物理的・抽象的な「広がり」にも使われます。
 
@@ -105,14 +105,14 @@ widthは具体的な寸法や物の横幅に使い、breadthは物理的・抽�
 
 ## 🧩 あわせて覚えたい
 
-- [length](/word/length)：長さ
-- [depth](/word/depth)：深さ
+- [length](/word/length/)：長さ
+- [depth](/word/depth/)：深さ
 
 ---
 
 ## 📖 できればこれも
 
-- [height](/word/height)：高さ
-- [distance](/word/distance)：距離
+- [height](/word/height/)：高さ
+- [distance](/word/distance/)：距離
 
 <!-- cvid: aid29_bid16 -->

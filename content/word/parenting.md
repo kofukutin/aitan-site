@@ -105,14 +105,14 @@ parentingは親の立場や役割に重点があり、child-rearingは子ども�
 
 ## 🧩 あわせて覚えたい
 
-- [upbringing](/word/upbringing)：（家庭での）しつけ、養育
-- [guardian](/word/guardian)：保護者
+- [upbringing](/word/upbringing/)：（家庭での）しつけ、養育
+- [guardian](/word/guardian/)：保護者
 
 ---
 
 ## 📖 できればこれも
 
-- [guidance](/word/guidance)：指導、助言
-- [discipline](/word/discipline)：しつけ、規律
+- [guidance](/word/guidance/)：指導、助言
+- [discipline](/word/discipline/)：しつけ、規律
 
 <!-- cvid: aid37_bid12 -->

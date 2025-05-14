@@ -97,7 +97,7 @@ TOEICでは会議やディスカッションの場面で「意見」「発言権
 ## 🤔  opinion との違いは？
 
 - **voice**：声そのものや「発言権」「意見を述べる行為」を指す
-- **[opinion](/word/opinion)**：考えや判断としての「意見」
+- **[opinion](/word/opinion/)**：考えや判断としての「意見」
 
 **voice**は「声を上げる」「発言する」など行動や権利に焦点があり、**opinion**は「考えそのもの」に重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは会議やディスカッションの場面で「意見」「発言権
 
 ## 🧩 あわせて覚えたい
 
-- [vote](/word/vote)：投票、票
-- [comment](/word/comment)：コメント、意見
+- [vote](/word/vote/)：投票、票
+- [comment](/word/comment/)：コメント、意見
 
 ---
 
 ## 📖 できればこれも
 
-- [sound](/word/sound)：音
-- [speech](/word/speech)：スピーチ、話すこと
+- [sound](/word/sound/)：音
+- [speech](/word/speech/)：スピーチ、話すこと
 
 <!-- cvid: aid22_bid06 -->

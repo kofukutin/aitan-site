@@ -97,7 +97,7 @@ TOEICでは主にレストランやカフェの写真描写問題で登場しや
 ## 🤔  server との違いは？
 
 - **waiter**：伝統的に男性の給仕スタッフを指すカジュアルな表現
-- **[server](/word/server)**：性別を問わない中立的な給仕スタッフの呼び方
+- **[server](/word/server/)**：性別を問わない中立的な給仕スタッフの呼び方
 
 近年は性別に関係なく使えるserverが増えていますが、waiterは特に男性スタッフに使われます。
 
@@ -105,14 +105,14 @@ TOEICでは主にレストランやカフェの写真描写問題で登場しや
 
 ## 🧩 あわせて覚えたい
 
-- [waitress](/word/waitress)：ウェイトレス（女性の給仕）
-- [customer](/word/customer)：客、顧客
+- [waitress](/word/waitress/)：ウェイトレス（女性の給仕）
+- [customer](/word/customer/)：客、顧客
 
 ---
 
 ## 📖 できればこれも
 
-- [menu](/word/menu)：メニュー、献立表
-- [bill](/word/bill)：勘定書、お会計
+- [menu](/word/menu/)：メニュー、献立表
+- [bill](/word/bill/)：勘定書、お会計
 
 <!-- cvid: aid39_bid20 -->

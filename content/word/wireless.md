@@ -97,7 +97,7 @@ TOEICでは主にITやオフィス環境に関する会話や説明文で登場�
 ## 🤔  cordless との違いは？
 
 - **wireless**：通信や信号のやりとりに「線が不要」なことを強調する
-- **[cordless](/word/cordless)**：主に「電源コードが不要」なことを強調する
+- **[cordless](/word/cordless/)**：主に「電源コードが不要」なことを強調する
 
 wirelessはネットワークや通信機器に、cordlessは電話や掃除機など電源コードがない機器に使われることが多いです。
 
@@ -105,14 +105,14 @@ wirelessはネットワークや通信機器に、cordlessは電話や掃除機�
 
 ## 🧩 あわせて覚えたい
 
-- [wired](/word/wired)：有線の
+- [wired](/word/wired/)：有線の
 - [Bluetooth](/Bluetooth)：無線通信規格の一つ
 
 ---
 
 ## 📖 できればこれも
 
-- [network](/word/network)：ネットワーク、通信網
-- [signal](/word/signal)：信号、合図
+- [network](/word/network/)：ネットワーク、通信網
+- [signal](/word/signal/)：信号、合図
 
 <!-- cvid: aid04_bid24 -->

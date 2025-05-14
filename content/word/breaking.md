@@ -97,7 +97,7 @@ TOEICでは会議や作業の進行中に「壊す」「中断する」「分け
 ## 🤔  bursting との違いは？
 
 - **breaking**：物理的・抽象的に「壊す」「破る」「中断する」など幅広い意味で使う
-- **[bursting](/word/bursting)**：突然「破裂する」「はじける」など急激な動作を表す
+- **[bursting](/word/bursting/)**：突然「破裂する」「はじける」など急激な動作を表す
 
 breakingは「徐々に壊す」「ルールを破る」など幅広い場面で使われますが、burstingは「急に破裂する」など瞬間的な動作に限定されます。
 
@@ -105,14 +105,14 @@ breakingは「徐々に壊す」「ルールを破る」など幅広い場面で
 
 ## 🧩 あわせて覚えたい
 
-- [interrupt](/word/interrupt)：中断する
-- [crack](/word/crack)：ひびを入れる、割る
+- [interrupt](/word/interrupt/)：中断する
+- [crack](/word/crack/)：ひびを入れる、割る
 
 ---
 
 ## 📖 できればこれも
 
-- [fix](/word/fix)：修理する、直す
-- [damage](/word/damage)：損傷を与える
+- [fix](/word/fix/)：修理する、直す
+- [damage](/word/damage/)：損傷を与える
 
 <!-- cvid: aid16_bid15 -->

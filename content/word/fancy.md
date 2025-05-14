@@ -97,7 +97,7 @@ TOEICでは主にPart 5で「～したい」「～が欲しい」という意味
 ## 🤔  imagine との違いは？
 
 - **fancy**：欲しい・したいという気持ちや、軽い空想・想像を表すカジュアルな動詞
-- **[imagine](/word/imagine)**：頭の中でしっかりとイメージする、想像するという意味でややフォーマル
+- **[imagine](/word/imagine/)**：頭の中でしっかりとイメージする、想像するという意味でややフォーマル
 
 fancyは「～したい」「～が欲しい」といった気軽な気持ちや、軽い空想に使われ、imagineは現実にはないことを頭の中で思い描くときに使います。
 
@@ -105,14 +105,14 @@ fancyは「～したい」「～が欲しい」といった気軽な気持ちや
 
 ## 🧩 あわせて覚えたい
 
-- [desire](/word/desire)：強く望む、欲求
-- [prefer](/word/prefer)：より好む
+- [desire](/word/desire/)：強く望む、欲求
+- [prefer](/word/prefer/)：より好む
 
 ---
 
 ## 📖 できればこれも
 
-- [suppose](/word/suppose)：思う、仮定する
-- [wish](/word/wish)：願う、望む
+- [suppose](/word/suppose/)：思う、仮定する
+- [wish](/word/wish/)：願う、望む
 
 <!-- cvid: aid06_bid39 -->

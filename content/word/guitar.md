@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、楽器を演奏している場面な
 ## 🤔  instrument との違いは？
 
 - **guitar**：特定の楽器「ギター」を指す。
-- **[instrument](/word/instrument)**：楽器全般を指す一般的な言葉。
+- **[instrument](/word/instrument/)**：楽器全般を指す一般的な言葉。
 
 guitarは具体的な楽器名、instrumentはピアノやバイオリンなども含む広い意味で使われます。
 
@@ -105,14 +105,14 @@ guitarは具体的な楽器名、instrumentはピアノやバイオリンなど�
 
 ## 🧩 あわせて覚えたい
 
-- [piano](/word/piano)：ピアノ
-- [violin](/word/violin)：バイオリン
+- [piano](/word/piano/)：ピアノ
+- [violin](/word/violin/)：バイオリン
 
 ---
 
 ## 📖 できればこれも
 
-- [music](/word/music)：音楽
-- [song](/word/song)：歌
+- [music](/word/music/)：音楽
+- [song](/word/song/)：歌
 
 <!-- cvid: aid03_bid00 -->

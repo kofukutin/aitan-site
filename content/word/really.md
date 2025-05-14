@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「強調」や「確認」の意味でよく登
 ## 🤔  actually との違いは？
 
 - **really**：本当に、強調や感情を込めて使う
-- **[actually](/word/actually)**：実は、事実を訂正・説明する時に使う
+- **[actually](/word/actually/)**：実は、事実を訂正・説明する時に使う
 
 reallyは感情や強調を表すのに対し、actuallyは「実際には」「本当は」と事実や訂正を伝える時に使います。
 
@@ -105,14 +105,14 @@ reallyは感情や強調を表すのに対し、actuallyは「実際には」「
 
 ## 🧩 あわせて覚えたい
 
-- [truly](/word/truly)：本当に（よりフォーマル・誠実な響き）
-- [seriously](/word/seriously)：本気で、真剣に
+- [truly](/word/truly/)：本当に（よりフォーマル・誠実な響き）
+- [seriously](/word/seriously/)：本気で、真剣に
 
 ---
 
 ## 📖 できればこれも
 
-- [quite](/word/quite)：かなり、相当
-- [just](/word/just)：ちょうど、たった今
+- [quite](/word/quite/)：かなり、相当
+- [just](/word/just/)：ちょうど、たった今
 
 <!-- cvid: aid05_bid35 -->

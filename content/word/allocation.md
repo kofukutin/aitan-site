@@ -97,7 +97,7 @@ allocationはビジネス文脈でよく出題され、特に予算や資源の�
 ## 🤔  distribution との違いは？
 
 - **allocation**：特定の目的や基準に従って「割り当てる」こと
-- **[distribution](/word/distribution)**：広く「分配する」「配布する」こと
+- **[distribution](/word/distribution/)**：広く「分配する」「配布する」こと
 
 allocationは「誰に・どれだけ」といった計画的な割り当てに重点があり、distributionは「広く行き渡らせる」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ allocationは「誰に・どれだけ」といった計画的な割り当てに�
 
 ## 🧩 あわせて覚えたい
 
-- [assignment](/word/assignment)：任命、割り当て
-- [provision](/word/provision)：供給、準備
+- [assignment](/word/assignment/)：任命、割り当て
+- [provision](/word/provision/)：供給、準備
 
 ---
 
 ## 📖 できればこれも
 
-- [budget](/word/budget)：予算
-- [resource](/word/resource)：資源
+- [budget](/word/budget/)：予算
+- [resource](/word/resource/)：資源
 
 <!-- cvid: aid30_bid35 -->

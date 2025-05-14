@@ -98,7 +98,7 @@ TOEICではPart 5を中心に、「必要」「～が必要だ」という意味
 ## 🤔  require との違いは？
 
 - **need**：必要性や要求を幅広く表す一般的な単語
-- **[require](/word/require)**：よりフォーマルで「必須」「義務」など強い必要性を表す
+- **[require](/word/require/)**：よりフォーマルで「必須」「義務」など強い必要性を表す
 
 needは日常的な「必要」、requireは規則や条件などで「必須」とされる場合に使われます。
 
@@ -106,14 +106,14 @@ needは日常的な「必要」、requireは規則や条件などで「必須」
 
 ## 🧩 あわせて覚えたい
 
-- [necessity](/word/necessity)：必要性、不可欠なもの
-- [demand](/word/demand)：需要、要求
+- [necessity](/word/necessity/)：必要性、不可欠なもの
+- [demand](/word/demand/)：需要、要求
 
 ---
 
 ## 📖 できればこれも
 
-- [want](/word/want)：欲しい、望む
-- [request](/word/request)：依頼、要請
+- [want](/word/want/)：欲しい、望む
+- [request](/word/request/)：依頼、要請
 
 <!-- cvid: aid13_bid38 -->

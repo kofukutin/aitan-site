@@ -97,7 +97,7 @@ tasteは、飲食や好みに関する会話や説明でよく登場します。
 ## 🤔  flavor との違いは？
 
 - **taste**：舌で感じる「味」や「味覚」、または「好み・センス」
-- **[flavor](/word/flavor)**：食べ物や飲み物の「風味」や「香りを含めた味」
+- **[flavor](/word/flavor/)**：食べ物や飲み物の「風味」や「香りを含めた味」
 
 tasteは「味覚」や「好み」全般を指し、flavorは香りや風味を含めた「味わい」に重点があります。
 
@@ -105,14 +105,14 @@ tasteは「味覚」や「好み」全般を指し、flavorは香りや風味を
 
 ## 🧩 あわせて覚えたい
 
-- [preference](/word/preference)：好み、選好
-- [smell](/word/smell)：におい、嗅覚
+- [preference](/word/preference/)：好み、選好
+- [smell](/word/smell/)：におい、嗅覚
 
 ---
 
 ## 📖 できればこれも
 
-- [touch](/word/touch)：触覚、手触り
-- [scent](/word/scent)：香り、匂い
+- [touch](/word/touch/)：触覚、手触り
+- [scent](/word/scent/)：香り、匂い
 
 <!-- cvid: aid26_bid37 -->

@@ -97,7 +97,7 @@ TOEICでは「solid evidence（確かな証拠）」や「solid performance（�
 ## 🤔  firm との違いは？
 
 - **solid**：物理的にも比喩的にも「中身が詰まっている」「堅実な」ことを表す。
-- **[firm](/word/firm)**：主に「揺るがない」「しっかりした」など、安定性や強さを強調。
+- **[firm](/word/firm/)**：主に「揺るがない」「しっかりした」など、安定性や強さを強調。
 
 solidは「中身が詰まっている」ニュアンスが強く、firmは「揺るがない」「安定している」ことに重点があります。
 
@@ -105,14 +105,14 @@ solidは「中身が詰まっている」ニュアンスが強く、firmは「�
 
 ## 🧩 あわせて覚えたい
 
-- [liquid](/word/liquid)：液体
-- [stable](/word/stable)：安定した
+- [liquid](/word/liquid/)：液体
+- [stable](/word/stable/)：安定した
 
 ---
 
 ## 📖 できればこれも
 
-- [strong](/word/strong)：強い
-- [reliable](/word/reliable)：信頼できる
+- [strong](/word/strong/)：強い
+- [reliable](/word/reliable/)：信頼できる
 
 <!-- cvid: aid00_bid10 -->

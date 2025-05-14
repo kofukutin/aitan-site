@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、農場や田舎の風景を説
 ## 🤔  shed との違いは？
 
 - **barn**：農場で家畜や干し草などを保管する大きな建物
-- **[shed](/word/shed)**：道具や小型の物を収納する小さな小屋
+- **[shed](/word/shed/)**：道具や小型の物を収納する小さな小屋
 
 barnは主に農場で使われる大きな建物、shedは家庭や庭などで使う小さな物置小屋を指します。
 
@@ -105,14 +105,14 @@ barnは主に農場で使われる大きな建物、shedは家庭や庭などで
 
 ## 🧩 あわせて覚えたい
 
-- [stable](/word/stable)：馬小屋
-- [warehouse](/word/warehouse)：倉庫
+- [stable](/word/stable/)：馬小屋
+- [warehouse](/word/warehouse/)：倉庫
 
 ---
 
 ## 📖 できればこれも
 
-- [field](/word/field)：畑、野原
-- [farm](/word/farm)：農場
+- [field](/word/field/)：畑、野原
+- [farm](/word/farm/)：農場
 
 <!-- cvid: aid41_bid08 -->

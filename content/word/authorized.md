@@ -97,7 +97,7 @@ TOEICでは、契約や手続き、権限に関する文脈で頻出します。
 ## 🤔  certified との違いは？
 
 - **authorized**：正式に権限や許可を与えられている
-- **[certified](/word/certified)**：資格や証明書によって認定されている
+- **[certified](/word/certified/)**：資格や証明書によって認定されている
 
 「authorized」は権限や許可を受けていること、「certified」は資格や証明書で認定されていることを強調します。
 
@@ -105,14 +105,14 @@ TOEICでは、契約や手続き、権限に関する文脈で頻出します。
 
 ## 🧩 あわせて覚えたい
 
-- [official](/word/official)：公式の、正式な
-- [approved](/word/approved)：承認された
+- [official](/word/official/)：公式の、正式な
+- [approved](/word/approved/)：承認された
 
 ---
 
 ## 📖 できればこれも
 
-- [permitted](/word/permitted)：許可された
-- [licensed](/word/licensed)：免許を持った
+- [permitted](/word/permitted/)：許可された
+- [licensed](/word/licensed/)：免許を持った
 
 <!-- cvid: aid16_bid11 -->

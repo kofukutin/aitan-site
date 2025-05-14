@@ -97,7 +97,7 @@ TOEICでは、空港やオフィスの注意書き、案内文などで「unatte
 ## 🤔  neglected との違いは？
 
 - **unattended**：誰もいない、世話されていない、放置された（主に物や場所に使う）
-- **[neglected](/word/neglected)**：無視された、十分な世話や注意が払われていない（人や物、感情にも使う）
+- **[neglected](/word/neglected/)**：無視された、十分な世話や注意が払われていない（人や物、感情にも使う）
 
 「unattended」は物理的に人がいない・見ていない状態を指し、「neglected」は本来必要な世話や注意が長期間与えられていないニュアンスです。
 
@@ -105,14 +105,14 @@ TOEICでは、空港やオフィスの注意書き、案内文などで「unatte
 
 ## 🧩 あわせて覚えたい
 
-- [abandoned](/word/abandoned)：見捨てられた、放棄された
-- [supervised](/word/supervised)：監督された、管理された
+- [abandoned](/word/abandoned/)：見捨てられた、放棄された
+- [supervised](/word/supervised/)：監督された、管理された
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/word/available)：利用できる、手に入る
-- [accessible](/word/accessible)：アクセスできる、利用可能な
+- [available](/word/available/)：利用できる、手に入る
+- [accessible](/word/accessible/)：アクセスできる、利用可能な
 
 <!-- cvid: aid32_bid25 -->

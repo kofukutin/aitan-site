@@ -97,7 +97,7 @@ TOEICでは、形容詞の語彙問題や、適切な表現を選ぶ問題で出
 ## 🤔  courteous との違いは？
 
 - **polite**：一般的な礼儀正しさや丁寧さを表す。
-- **[courteous](/word/courteous)**：よりフォーマルで、相手への敬意を強調した礼儀正しさ。
+- **[courteous](/word/courteous/)**：よりフォーマルで、相手への敬意を強調した礼儀正しさ。
 
 politeは日常的な丁寧さ、courteousはより格式ばった場面や敬意を強調したいときに使われます。
 
@@ -105,14 +105,14 @@ politeは日常的な丁寧さ、courteousはより格式ばった場面や敬�
 
 ## 🧩 あわせて覚えたい
 
-- [rude](/word/rude)：失礼な
-- [respectful](/word/respectful)：敬意を表す
+- [rude](/word/rude/)：失礼な
+- [respectful](/word/respectful/)：敬意を表す
 
 ---
 
 ## 📖 できればこれも
 
-- [friendly](/word/friendly)：親しみやすい
-- [kind](/word/kind)：親切な
+- [friendly](/word/friendly/)：親しみやすい
+- [kind](/word/kind/)：親切な
 
 <!-- cvid: aid10_bid19 -->

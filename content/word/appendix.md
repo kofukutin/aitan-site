@@ -97,7 +97,7 @@ TOEICでは、報告書やマニュアルの補足資料として「appendix」�
 ## 🤔  supplement との違いは？
 
 - **appendix**：本や報告書の最後に付け加えられる「付録」「補足資料」や医学の「虫垂」を指す。
-- **[supplement](/word/supplement)**：本体を補う追加資料や栄養補助食品など、広く「補足・補助」の意味。
+- **[supplement](/word/supplement/)**：本体を補う追加資料や栄養補助食品など、広く「補足・補助」の意味。
 
 appendixは主に書類や本の「付録」として使われ、supplementは内容を補う追加資料や食品など幅広く使われます。
 
@@ -105,14 +105,14 @@ appendixは主に書類や本の「付録」として使われ、supplementは�
 
 ## 🧩 あわせて覚えたい
 
-- [attachment](/word/attachment)：添付ファイル、付属物
-- [annex](/word/annex)：別館、（文書の）別添
+- [attachment](/word/attachment/)：添付ファイル、付属物
+- [annex](/word/annex/)：別館、（文書の）別添
 
 ---
 
 ## 📖 できればこれも
 
-- [summary](/word/summary)：要約
-- [index](/word/index)：索引
+- [summary](/word/summary/)：要約
+- [index](/word/index/)：索引
 
 <!-- cvid: aid06_bid11 -->

@@ -98,7 +98,7 @@ TOEICでは、法律や国際情勢、歴史に関する長文で「martial law�
 ## 🤔  military との違いは？
 
 - **martial**：戦争や軍事、武道に関する（特に「martial law」などフォーマルな表現で使用）
-- **[military](/word/military)**：軍隊そのもの、または軍隊に関する一般的な形容詞
+- **[military](/word/military/)**：軍隊そのもの、または軍隊に関する一般的な形容詞
 
 「martial」は戦争や武道、法律用語などフォーマルな場面で使われ、「military」は軍隊や兵士など具体的な軍事組織に関して使われます。
 
@@ -106,14 +106,14 @@ TOEICでは、法律や国際情勢、歴史に関する長文で「martial law�
 
 ## 🧩 あわせて覚えたい
 
-- [civil](/word/civil)：市民の、民間の
-- [combat](/word/combat)：戦闘、戦うこと
+- [civil](/word/civil/)：市民の、民間の
+- [combat](/word/combat/)：戦闘、戦うこと
 
 ---
 
 ## 📖 できればこれも
 
-- [legal](/word/legal)：法律の、合法の
-- [discipline](/word/discipline)：規律、しつけ
+- [legal](/word/legal/)：法律の、合法の
+- [discipline](/word/discipline/)：規律、しつけ
 
 <!-- cvid: aid19_bid08 -->

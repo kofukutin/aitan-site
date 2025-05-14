@@ -97,7 +97,7 @@ TOEIC Part 1で「引く」「引っぱる」動作を説明する際によく�
 ## 🤔  draw との違いは？
 
 - **pull**：物理的に何かを自分の方へ引っぱる動作を表す。
-- **[draw](/word/draw)**：pullよりもややフォーマルで、線を引く・引き寄せる・引き出すなど幅広い意味がある。
+- **[draw](/word/draw/)**：pullよりもややフォーマルで、線を引く・引き寄せる・引き出すなど幅広い意味がある。
 
 pullは日常的な「引っぱる」動作に使い、drawは「線を引く」「引き出す」など抽象的・広い意味で使われます。
 
@@ -105,14 +105,14 @@ pullは日常的な「引っぱる」動作に使い、drawは「線を引く」
 
 ## 🧩 あわせて覚えたい
 
-- [push](/word/push)：押す
-- [lift](/word/lift)：持ち上げる
+- [push](/word/push/)：押す
+- [lift](/word/lift/)：持ち上げる
 
 ---
 
 ## 📖 できればこれも
 
-- [hold](/word/hold)：持つ、握る
-- [carry](/word/carry)：運ぶ
+- [hold](/word/hold/)：持つ、握る
+- [carry](/word/carry/)：運ぶ
 
 <!-- cvid: aid36_bid28 -->

@@ -97,7 +97,7 @@ TOEICでは、スペルミスや正しいつづりを問う設問で見かける
 ## 🤔  orthography との違いは？
 
 - **spelling**：単語や語句の文字の並びやつづり方を指す、日常的で実用的な表現。
-- **[orthography](/word/orthography)**：言語全体の正書法やつづりの体系を指し、より専門的・学術的な語。
+- **[orthography](/word/orthography/)**：言語全体の正書法やつづりの体系を指し、より専門的・学術的な語。
 
 **spelling**は日常的な「つづり」、**orthography**は言語全体の「正書法」として使い分けます。
 
@@ -105,14 +105,14 @@ TOEICでは、スペルミスや正しいつづりを問う設問で見かける
 
 ## 🧩 あわせて覚えたい
 
-- [pronunciation](/word/pronunciation)：発音
-- [grammar](/word/grammar)：文法
+- [pronunciation](/word/pronunciation/)：発音
+- [grammar](/word/grammar/)：文法
 
 ---
 
 ## 📖 できればこれも
 
-- [vocabulary](/word/vocabulary)：語彙
-- [definition](/word/definition)：定義
+- [vocabulary](/word/vocabulary/)：語彙
+- [definition](/word/definition/)：定義
 
 <!-- cvid: aid09_bid12 -->

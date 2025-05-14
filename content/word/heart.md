@@ -97,7 +97,7 @@ TOEICでは医療や健康、感情表現の会話でよく登場します。比
 ## 🤔  mind との違いは？
 
 - **heart**：心臓や感情・気持ちの中心を表す
-- **[mind](/word/mind)**：思考や知性、考える力を表す
+- **[mind](/word/mind/)**：思考や知性、考える力を表す
 
 **heart**は感情や気持ち、勇気など「心」の部分を指し、**mind**は考えや知性など「頭脳」の部分を指します。
 
@@ -105,14 +105,14 @@ TOEICでは医療や健康、感情表現の会話でよく登場します。比
 
 ## 🧩 あわせて覚えたい
 
-- [brain](/word/brain)：脳
-- [emotion](/word/emotion)：感情
+- [brain](/word/brain/)：脳
+- [emotion](/word/emotion/)：感情
 
 ---
 
 ## 📖 できればこれも
 
-- [blood](/word/blood)：血液
-- [body](/word/body)：体
+- [blood](/word/blood/)：血液
+- [body](/word/body/)：体
 
 <!-- cvid: aid25_bid09 -->

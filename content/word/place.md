@@ -97,7 +97,7 @@ TOEICでは写真描写や説明文で「場所」や「位置」を表す語と
 ## 🤔  location との違いは？
 
 - **place**：一般的な「場所」や「空間」を幅広く指す
-- **[location](/word/location)**：特定の「位置」や「所在地」をややフォーマルに指す
+- **[location](/word/location/)**：特定の「位置」や「所在地」をややフォーマルに指す
 
 **place**は日常的で幅広い意味の「場所」、**location**は地図上の「位置」や住所など、より正確な場所を指す時に使います。
 
@@ -105,14 +105,14 @@ TOEICでは写真描写や説明文で「場所」や「位置」を表す語と
 
 ## 🧩 あわせて覚えたい
 
-- [area](/word/area)：区域、範囲
-- [site](/word/site)：用地、現場
+- [area](/word/area/)：区域、範囲
+- [site](/word/site/)：用地、現場
 
 ---
 
 ## 📖 できればこれも
 
-- [room](/word/room)：部屋、空間
-- [space](/word/space)：空間、余地
+- [room](/word/room/)：部屋、空間
+- [space](/word/space/)：空間、余地
 
 <!-- cvid: aid11_bid47 -->

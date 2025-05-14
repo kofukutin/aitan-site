@@ -97,7 +97,7 @@ TOEICでは、レポートやメール、案内文などで「推定の数値」
 ## 🤔  approximate との違いは？
 
 - **estimated**：見積もりや計算に基づいた「推定の」「おおよその」
-- **[approximate](/word/approximate)**：正確ではないが「ほぼ近い」「だいたいの」
+- **[approximate](/word/approximate/)**：正確ではないが「ほぼ近い」「だいたいの」
 
 「estimated」は見積もりや計算の根拠がある場合に使い、「approximate」は正確さよりも「だいたい」のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは、レポートやメール、案内文などで「推定の数値」
 
 ## 🧩 あわせて覚えたい
 
-- [actual](/word/actual)：実際の、本当の
-- [predict](/word/predict)：予測する
+- [actual](/word/actual/)：実際の、本当の
+- [predict](/word/predict/)：予測する
 
 ---
 
 ## 📖 できればこれも
 
-- [expected](/word/expected)：予想される
-- [projected](/word/projected)：予測された
+- [expected](/word/expected/)：予想される
+- [projected](/word/projected/)：予測された
 
 <!-- cvid: aid00_bid35 -->

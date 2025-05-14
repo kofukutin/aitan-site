@@ -97,7 +97,7 @@ TOEICでは「学ぶ」「習得する」という意味で、動詞としてよ
 ## 🤔  study との違いは？
 
 - **learn**：知識やスキルを身につける、結果として「できるようになる」ニュアンス
-- **[study](/word/study)**：勉強する、知識を得るために努力する過程を強調
+- **[study](/word/study/)**：勉強する、知識を得るために努力する過程を強調
 
 **learn**は「できるようになる」ことに重点があり、**study**は「勉強する行為」自体を指します。
 
@@ -105,14 +105,14 @@ TOEICでは「学ぶ」「習得する」という意味で、動詞としてよ
 
 ## 🧩 あわせて覚えたい
 
-- [acquire](/word/acquire)：（努力して）習得する
-- [teach](/word/teach)：教える
+- [acquire](/word/acquire/)：（努力して）習得する
+- [teach](/word/teach/)：教える
 
 ---
 
 ## 📖 できればこれも
 
-- [understand](/word/understand)：理解する
-- [practice](/word/practice)：練習する
+- [understand](/word/understand/)：理解する
+- [practice](/word/practice/)：練習する
 
 <!-- cvid: aid08_bid39 -->

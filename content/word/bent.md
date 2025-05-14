@@ -97,7 +97,7 @@ TOEICでは、bendの過去分詞として「曲がった」という意味や�
 ## 🤔  inclined との違いは？
 
 - **bent**：物理的に「曲がった」状態や、比喩的に「～したい気持ちが強い」ことを表す。
-- **[inclined](/word/inclined)**：傾いている、または「～したい気持ちがある」という意味で使われるが、よりフォーマルで控えめなニュアンス。
+- **[inclined](/word/inclined/)**：傾いている、または「～したい気持ちがある」という意味で使われるが、よりフォーマルで控えめなニュアンス。
 
 bentは「強い意志」や「物理的な曲がり」に使われ、inclinedは「ややその傾向がある」といった控えめな表現に使われます。
 
@@ -105,14 +105,14 @@ bentは「強い意志」や「物理的な曲がり」に使われ、inclined�
 
 ## 🧩 あわせて覚えたい
 
-- [straight](/word/straight)：まっすぐな
-- [curved](/word/curved)：曲線の、湾曲した
+- [straight](/word/straight/)：まっすぐな
+- [curved](/word/curved/)：曲線の、湾曲した
 
 ---
 
 ## 📖 できればこれも
 
-- [folded](/word/folded)：折りたたまれた
-- [twisted](/word/twisted)：ねじれた
+- [folded](/word/folded/)：折りたたまれた
+- [twisted](/word/twisted/)：ねじれた
 
 <!-- cvid: aid04_bid43 -->

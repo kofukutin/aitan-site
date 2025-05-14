@@ -105,14 +105,14 @@ lotusは主にアジアで見られるハスで、宗教的・文化的な意味
 
 ## 🧩 あわせて覚えたい
 
-- [rose](/word/rose)：バラ
-- [orchid](/word/orchid)：ラン
+- [rose](/word/rose/)：バラ
+- [orchid](/word/orchid/)：ラン
 
 ---
 
 ## 📖 できればこれも
 
-- [tulip](/word/tulip)：チューリップ
-- [daisy](/word/daisy)：ヒナギク
+- [tulip](/word/tulip/)：チューリップ
+- [daisy](/word/daisy/)：ヒナギク
 
 <!-- cvid: aid33_bid05 -->

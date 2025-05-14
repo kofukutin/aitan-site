@@ -97,7 +97,7 @@ TOEICでは会議やビジネスシーンでの発表、説明の文脈で頻出
 ## 🤔  speech との違いは？
 
 - **presentation**：資料やスライドを使い、情報や提案を説明・発表すること
-- **[speech](/word/speech)**：聴衆に向けて話すこと自体に重点があり、感情や意見を伝える場面が多い
+- **[speech](/word/speech/)**：聴衆に向けて話すこと自体に重点があり、感情や意見を伝える場面が多い
 
 presentationはビジネスや学校での説明・提案など「情報を伝える」ことに重きを置きますが、speechは式典やイベントなどで「話すこと自体」や「感情表現」に重点があります。
 
@@ -105,14 +105,14 @@ presentationはビジネスや学校での説明・提案など「情報を伝�
 
 ## 🧩 あわせて覚えたい
 
-- [lecture](/word/lecture)：講義、講演
-- [demonstration](/word/demonstration)：実演、デモ
+- [lecture](/word/lecture/)：講義、講演
+- [demonstration](/word/demonstration/)：実演、デモ
 
 ---
 
 ## 📖 できればこれも
 
-- [proposal](/word/proposal)：提案
-- [conference](/word/conference)：会議
+- [proposal](/word/proposal/)：提案
+- [conference](/word/conference/)：会議
 
 <!-- cvid: aid04_bid14 -->

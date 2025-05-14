@@ -97,7 +97,7 @@ TOEICでは「make an effort」や「effort to ～」の形で頻出します。
 ## 🤔  attempt との違いは？
 
 - **effort**：目標達成のために注ぐ「努力」や「尽力」を幅広く表す。
-- **[attempt](/word/attempt)**：何かを「試みる」「挑戦する」行為自体を指す。
+- **[attempt](/word/attempt/)**：何かを「試みる」「挑戦する」行為自体を指す。
 
 effortは「がんばり」や「努力」の量や質に焦点があり、attemptは「試みる」という行動そのものに重点があります。
 
@@ -105,14 +105,14 @@ effortは「がんばり」や「努力」の量や質に焦点があり、attem
 
 ## 🧩 あわせて覚えたい
 
-- [achievement](/word/achievement)：達成、業績
-- [struggle](/word/struggle)：苦闘、奮闘
+- [achievement](/word/achievement/)：達成、業績
+- [struggle](/word/struggle/)：苦闘、奮闘
 
 ---
 
 ## 📖 できればこれも
 
-- [result](/word/result)：結果
-- [progress](/word/progress)：進歩
+- [result](/word/result/)：結果
+- [progress](/word/progress/)：進歩
 
 <!-- cvid: aid26_bid48 -->

@@ -97,7 +97,7 @@ TOEICでは、教育や人材育成、研修制度などの文脈で "vocational
 ## 🤔  occupational との違いは？
 
 - **vocational**：職業訓練や実務スキルの習得に特化した意味
-- **[occupational](/word/occupational)**：職業全般や仕事に関する幅広い意味
+- **[occupational](/word/occupational/)**：職業全般や仕事に関する幅広い意味
 
 "vocational" は「職業訓練」や「専門技術の習得」に焦点があり、"occupational" は「職業に関する一般的な事柄」や「職業病」など幅広く使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、教育や人材育成、研修制度などの文脈で "vocational
 
 ## 🧩 あわせて覚えたい
 
-- [professional](/word/professional)：専門職の、職業的な
-- [academic](/word/academic)：学問の、学業の
+- [professional](/word/professional/)：専門職の、職業的な
+- [academic](/word/academic/)：学問の、学業の
 
 ---
 
 ## 📖 できればこれも
 
-- [practical](/word/practical)：実践的な、実用的な
-- [technical](/word/technical)：技術的な、専門的な
+- [practical](/word/practical/)：実践的な、実用的な
+- [technical](/word/technical/)：技術的な、専門的な
 
 <!-- cvid: aid25_bid18 -->

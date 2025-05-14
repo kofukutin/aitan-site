@@ -97,7 +97,7 @@ TOEICでは、医療や福祉、サービス業の文脈で「elderly」が登�
 ## 🤔  senior との違いは？
 
 - **elderly**：やんわりと「高齢の」「年配の」と表現し、丁寧な響きがある
-- **[senior](/word/senior)**：年齢や地位の上下を表すが、特に「高齢者」や「上級者」の意味で使われる
+- **[senior](/word/senior/)**：年齢や地位の上下を表すが、特に「高齢者」や「上級者」の意味で使われる
 
 elderlyは丁寧で配慮のある表現、seniorは年齢や役職の上下を幅広く指す点が異なります。
 
@@ -105,14 +105,14 @@ elderlyは丁寧で配慮のある表現、seniorは年齢や役職の上下を�
 
 ## 🧩 あわせて覚えたい
 
-- [aged](/word/aged)：高齢の
-- [youth](/word/youth)：若者
+- [aged](/word/aged/)：高齢の
+- [youth](/word/youth/)：若者
 
 ---
 
 ## 📖 できればこれも
 
-- [retire](/word/retire)：退職する
-- [adult](/word/adult)：大人
+- [retire](/word/retire/)：退職する
+- [adult](/word/adult/)：大人
 
 <!-- cvid: aid28_bid16 -->

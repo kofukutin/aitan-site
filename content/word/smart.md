@@ -97,7 +97,7 @@ TOEICでは「賢い」「きちんとした」などの意味で、文脈に合
 ## 🤔  clever との違いは？
 
 - **smart**：知識や機転が利く、または服装がきちんとしていることを表す。
-- **[clever](/word/clever)**：ひらめきや創造的な賢さ、ずる賢さも含む。
+- **[clever](/word/clever/)**：ひらめきや創造的な賢さ、ずる賢さも含む。
 
 「smart」は知識や判断力、または外見のきちんと感に使い、「clever」はアイデアや工夫の上手さに使われます。
 
@@ -105,14 +105,14 @@ TOEICでは「賢い」「きちんとした」などの意味で、文脈に合
 
 ## 🧩 あわせて覚えたい
 
-- [intelligent](/word/intelligent)：知能が高い、知的な
-- [bright](/word/bright)：頭の回転が速い、利口な
+- [intelligent](/word/intelligent/)：知能が高い、知的な
+- [bright](/word/bright/)：頭の回転が速い、利口な
 
 ---
 
 ## 📖 できればこれも
 
-- [quick](/word/quick)：素早い、機敏な
-- [sharp](/word/sharp)：鋭い、頭の切れる
+- [quick](/word/quick/)：素早い、機敏な
+- [sharp](/word/sharp/)：鋭い、頭の切れる
 
 <!-- cvid: aid40_bid43 -->

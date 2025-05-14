@@ -97,7 +97,7 @@ TOEICでは、程度や変化を表す副詞として選択肢に登場するこ
 ## 🤔  a little との違いは？
 
 - **slightly**：フォーマルで客観的な「わずかに」「少し」を表す
-- **[a little](/word/a_little)**：カジュアルで主観的な「少し」を表す
+- **[a little](/word/a_little/)**：カジュアルで主観的な「少し」を表す
 
 slightlyは書き言葉やビジネスでよく使われ、a littleは会話や感情を込めたいときに使われます。
 
@@ -105,14 +105,14 @@ slightlyは書き言葉やビジネスでよく使われ、a littleは会話や�
 
 ## 🧩 あわせて覚えたい
 
-- [somewhat](/word/somewhat)：いくぶん、やや
-- [barely](/word/barely)：かろうじて、ほとんど～ない
+- [somewhat](/word/somewhat/)：いくぶん、やや
+- [barely](/word/barely/)：かろうじて、ほとんど～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [almost](/word/almost)：ほとんど
-- [nearly](/word/nearly)：ほぼ、ほとんど
+- [almost](/word/almost/)：ほとんど
+- [nearly](/word/nearly/)：ほぼ、ほとんど
 
 <!-- cvid: aid10_bid15 -->

@@ -97,7 +97,7 @@ TOEICでは、グラフや数値の変化を説明する文脈や、形容詞と
 ## 🤔  reduced との違いは？
 
 - **decreased**：数量や程度が自然に、または全体的に減ったことを表す。
-- **[reduced](/word/reduced)**：意図的に減らした、または何かの働きかけで減ったことを強調。
+- **[reduced](/word/reduced/)**：意図的に減らした、または何かの働きかけで減ったことを強調。
 
 decreasedは「自然な減少」や「全体的な減少」に使われ、reducedは「人為的・意図的な削減」に使われることが多いです。
 
@@ -105,14 +105,14 @@ decreasedは「自然な減少」や「全体的な減少」に使われ、reduc
 
 ## 🧩 あわせて覚えたい
 
-- [increase](/word/increase)：増加、増える
-- [decline](/word/decline)：減少、下落
+- [increase](/word/increase/)：増加、増える
+- [decline](/word/decline/)：減少、下落
 
 ---
 
 ## 📖 できればこれも
 
-- [lower](/word/lower)：下げる、低くする
-- [drop](/word/drop)：落ちる、下がる
+- [lower](/word/lower/)：下げる、低くする
+- [drop](/word/drop/)：落ちる、下がる
 
 <!-- cvid: aid22_bid49 -->

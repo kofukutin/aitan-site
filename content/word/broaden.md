@@ -97,7 +97,7 @@ TOEICでは会議やビジネスの場面で「視野を広げる」「範囲を
 ## 🤔  expand との違いは？
 
 - **broaden**：範囲や視野などを広げる（特に抽象的なものに使うことが多い）
-- **[expand](/word/expand)**：規模や量、物理的な大きさを拡大する
+- **[expand](/word/expand/)**：規模や量、物理的な大きさを拡大する
 
 「broaden」は知識や経験、視野など抽象的なものに使われやすく、「expand」は物理的・数量的な拡大に使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは会議やビジネスの場面で「視野を広げる」「範囲を
 
 ## 🧩 あわせて覚えたい
 
-- [widen](/word/widen)：幅を広げる
-- [narrow](/word/narrow)：狭める
+- [widen](/word/widen/)：幅を広げる
+- [narrow](/word/narrow/)：狭める
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/word/improve)：改善する
-- [enhance](/word/enhance)：高める、強化する
+- [improve](/word/improve/)：改善する
+- [enhance](/word/enhance/)：高める、強化する
 
 <!-- cvid: aid48_bid23 -->

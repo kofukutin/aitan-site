@@ -97,7 +97,7 @@ TOEICでは、工場やオフィスの安全点検、品質管理、監査など
 ## 🤔  supervisor との違いは？
 
 - **inspector**：公式に検査・監査・点検を行う人。現場や書類を調査する役割。
-- **[supervisor](/word/supervisor)**：部下や作業者を日常的に監督・指導する人。
+- **[supervisor](/word/supervisor/)**：部下や作業者を日常的に監督・指導する人。
 
 inspectorは「調査・点検の専門家」、supervisorは「現場の管理者」という違いがあります。
 
@@ -105,14 +105,14 @@ inspectorは「調査・点検の専門家」、supervisorは「現場の管理�
 
 ## 🧩 あわせて覚えたい
 
-- [auditor](/word/auditor)：会計監査人、監査役
-- [examiner](/word/examiner)：試験官、調査官
+- [auditor](/word/auditor/)：会計監査人、監査役
+- [examiner](/word/examiner/)：試験官、調査官
 
 ---
 
 ## 📖 できればこれも
 
-- [officer](/word/officer)：役員、警官、担当者
-- [manager](/word/manager)：管理者、マネージャー
+- [officer](/word/officer/)：役員、警官、担当者
+- [manager](/word/manager/)：管理者、マネージャー
 
 <!-- cvid: aid04_bid09 -->

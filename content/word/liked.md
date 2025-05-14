@@ -100,7 +100,7 @@ TOEICではPart 2などの短い会話や質問応答で、過去の好みや感
 ## 🤔  preferred との違いは？
 
 - **liked**：単純に「好きだった」「好んだ」という意味で、広く一般的な好意を表す。
-- **[preferred](/word/preferred)**：複数の選択肢の中で「より好んだ」「優先した」という意味。
+- **[preferred](/word/preferred/)**：複数の選択肢の中で「より好んだ」「優先した」という意味。
 
 likedは「好きだった」と感情を表すのに対し、preferredは「他よりも選んで好んだ」という比較や優先のニュアンスがあります。
 
@@ -108,14 +108,14 @@ likedは「好きだった」と感情を表すのに対し、preferredは「他
 
 ## 🧩 あわせて覚えたい
 
-- [enjoy](/word/enjoy)：楽しむ
-- [admire](/word/admire)：称賛する、感心する
+- [enjoy](/word/enjoy/)：楽しむ
+- [admire](/word/admire/)：称賛する、感心する
 
 ---
 
 ## 📖 できればこれも
 
-- [loved](/word/loved)：とても愛した
-- [appreciate](/word/appreciate)：感謝する、価値を認める
+- [loved](/word/loved/)：とても愛した
+- [appreciate](/word/appreciate/)：感謝する、価値を認める
 
 <!-- cvid: aid30_bid24 -->

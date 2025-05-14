@@ -97,7 +97,7 @@ TOEICでは教育や職業紹介、研究分野の説明文で見かけること
 ## 🤔  arithmetic との違いは？
 
 - **mathematics**：数や図形、構造など幅広い分野を含む「数学」全体を指す。
-- **[arithmetic](/word/arithmetic)**：主に「計算」や「算数」といった、数の基本的な操作に限定される。
+- **[arithmetic](/word/arithmetic/)**：主に「計算」や「算数」といった、数の基本的な操作に限定される。
 
 mathematicsは学問全体、arithmeticは計算や四則演算など基礎的な部分に特化しています。
 
@@ -105,14 +105,14 @@ mathematicsは学問全体、arithmeticは計算や四則演算など基礎的�
 
 ## 🧩 あわせて覚えたい
 
-- [geometry](/word/geometry)：幾何学
-- [calculation](/word/calculation)：計算
+- [geometry](/word/geometry/)：幾何学
+- [calculation](/word/calculation/)：計算
 
 ---
 
 ## 📖 できればこれも
 
-- [science](/word/science)：科学
-- [physics](/word/physics)：物理学
+- [science](/word/science/)：科学
+- [physics](/word/physics/)：物理学
 
 <!-- cvid: aid21_bid18 -->

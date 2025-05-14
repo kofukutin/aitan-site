@@ -97,7 +97,7 @@ TOEICでは、保険に関する案内や契約内容の説明文などで頻出
 ## 🤔  assurance との違いは？
 
 - **insurance**：事故や損害など予期せぬ出来事に備える「保険」
-- **[assurance](/word/assurance)**：主に生命保険や将来の確実な出来事に備える「保証」
+- **[assurance](/word/assurance/)**：主に生命保険や将来の確実な出来事に備える「保証」
 
 insuranceは偶発的なリスクへの備え、assuranceは必ず起こる事象（死亡など）への備えに使われます。
 
@@ -105,14 +105,14 @@ insuranceは偶発的なリスクへの備え、assuranceは必ず起こる事�
 
 ## 🧩 あわせて覚えたい
 
-- [guarantee](/word/guarantee)：保証、約束
-- [coverage](/word/coverage)：補償範囲
+- [guarantee](/word/guarantee/)：保証、約束
+- [coverage](/word/coverage/)：補償範囲
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy)：保険証券、方針
-- [premium](/word/premium)：保険料
+- [policy](/word/policy/)：保険証券、方針
+- [premium](/word/premium/)：保険料
 
 <!-- cvid: aid35_bid48 -->

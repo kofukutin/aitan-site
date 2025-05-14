@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、自転車や車輪の説明時に登
 ## 🤔  rod との違いは？
 
 - **spoke**：車輪の中心から外側に伸びる細い棒（スポーク）
-- **[rod](/word/rod)**：一般的な棒や竿
+- **[rod](/word/rod/)**：一般的な棒や竿
 
 spokeは車輪の構造部品として限定的に使われ、rodは幅広く「棒状のもの」全般に使われます。
 
@@ -105,14 +105,14 @@ spokeは車輪の構造部品として限定的に使われ、rodは幅広く「
 
 ## 🧩 あわせて覚えたい
 
-- [wheel](/word/wheel)：車輪
-- [hub](/word/hub)：（車輪の）中心部
+- [wheel](/word/wheel/)：車輪
+- [hub](/word/hub/)：（車輪の）中心部
 
 ---
 
 ## 📖 できればこれも
 
-- [rim](/word/rim)：（車輪の）外枠、リム
-- [shaft](/word/shaft)：軸、シャフト
+- [rim](/word/rim/)：（車輪の）外枠、リム
+- [shaft](/word/shaft/)：軸、シャフト
 
 <!-- cvid: aid10_bid35 -->

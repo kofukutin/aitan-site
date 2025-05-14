@@ -97,7 +97,7 @@ TOEICでは「raw material（原材料）」や「raw data（生データ）」�
 ## 🤔  fresh との違いは？
 
 - **raw**：生の、未加工の（調理や加工がされていない状態）
-- **[fresh](/word/fresh)**：新鮮な（収穫・製造されてから時間が経っていない状態）
+- **[fresh](/word/fresh/)**：新鮮な（収穫・製造されてから時間が経っていない状態）
 
 rawは「生であること」に重点があり、freshは「新鮮さ・鮮度」に重点があります。たとえば、raw fishは「生魚」、fresh fishは「新鮮な魚」となります。
 
@@ -105,14 +105,14 @@ rawは「生であること」に重点があり、freshは「新鮮さ・鮮度
 
 ## 🧩 あわせて覚えたい
 
-- [cooked](/word/cooked)：調理された、加熱された
-- [unprocessed](/word/unprocessed)：未加工の
+- [cooked](/word/cooked/)：調理された、加熱された
+- [unprocessed](/word/unprocessed/)：未加工の
 
 ---
 
 ## 📖 できればこれも
 
-- [pure](/word/pure)：純粋な、混じりけのない
-- [basic](/word/basic)：基本的な、基礎の
+- [pure](/word/pure/)：純粋な、混じりけのない
+- [basic](/word/basic/)：基本的な、基礎の
 
 <!-- cvid: aid15_bid17 -->

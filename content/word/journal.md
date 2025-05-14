@@ -97,7 +97,7 @@ TOEICでは、記事や報告書、業界誌などの文脈で「journal」が�
 ## 🤔  diary との違いは？
 
 - **journal**：公的・専門的な記録や雑誌、または日々の出来事をまとめる記録帳
-- **[diary](/word/diary)**：個人的な日記やスケジュール帳
+- **[diary](/word/diary/)**：個人的な日記やスケジュール帳
 
 「journal」は学術誌や業界誌などフォーマルな記録や、日々の出来事を客観的にまとめる場合に使い、「diary」は個人的な感情や出来事を日々書き留める場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、記事や報告書、業界誌などの文脈で「journal」が�
 
 ## 🧩 あわせて覚えたい
 
-- [magazine](/word/magazine)：雑誌（一般向けの出版物）
-- [log](/word/log)：記録、航海日誌（出来事やデータの記録）
+- [magazine](/word/magazine/)：雑誌（一般向けの出版物）
+- [log](/word/log/)：記録、航海日誌（出来事やデータの記録）
 
 ---
 
 ## 📖 できればこれも
 
-- [article](/word/article)：記事、論文
-- [report](/word/report)：報告書、レポート
+- [article](/word/article/)：記事、論文
+- [report](/word/report/)：報告書、レポート
 
 <!-- cvid: aid39_bid04 -->

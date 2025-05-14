@@ -97,7 +97,7 @@ acceptanceは、ビジネス文書やメール文の中で「承認」「受諾�
 ## 🤔  approval との違いは？
 
 - **acceptance**：受け入れること、受諾や承認の意味でやや広く使う
-- **[approval](/word/approval)**：公式な許可や賛成の意味が強い
+- **[approval](/word/approval/)**：公式な許可や賛成の意味が強い
 
 acceptanceは「受け入れる」というニュアンスが中心で、approvalは「正式な許可・賛成」の意味が強い点が異なります。
 
@@ -105,14 +105,14 @@ acceptanceは「受け入れる」というニュアンスが中心で、approva
 
 ## 🧩 あわせて覚えたい
 
-- [rejection](/word/rejection)：拒否、却下
-- [confirmation](/word/confirmation)：確認、承認
+- [rejection](/word/rejection/)：拒否、却下
+- [confirmation](/word/confirmation/)：確認、承認
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement)：合意、契約
-- [invitation](/word/invitation)：招待、招待状
+- [agreement](/word/agreement/)：合意、契約
+- [invitation](/word/invitation/)：招待、招待状
 
 <!-- cvid: aid14_bid17 -->

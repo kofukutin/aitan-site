@@ -97,7 +97,7 @@ TOEICでは会議や業務中の指示、注意喚起の文脈でよく出題さ
 ## 🤔  focus との違いは？
 
 - **concentrate**：意識や注意を一つのことに集めて「集中する」
-- **[focus](/word/focus)**：焦点を合わせる、特定の点に意識を向ける
+- **[focus](/word/focus/)**：焦点を合わせる、特定の点に意識を向ける
 
 concentrateは「気を散らさずに集中する」ニュアンスが強く、focusは「特定の対象に意識を合わせる」意味合いが強いです。
 
@@ -105,14 +105,14 @@ concentrateは「気を散らさずに集中する」ニュアンスが強く、
 
 ## 🧩 あわせて覚えたい
 
-- [distract](/word/distract)：気を散らす
-- [attention](/word/attention)：注意、注目
+- [distract](/word/distract/)：気を散らす
+- [attention](/word/attention/)：注意、注目
 
 ---
 
 ## 📖 できればこれも
 
-- [consider](/word/consider)：よく考える
-- [discuss](/word/discuss)：話し合う
+- [consider](/word/consider/)：よく考える
+- [discuss](/word/discuss/)：話し合う
 
 <!-- cvid: aid48_bid33 -->

@@ -97,7 +97,7 @@ TOEICでは主にメールや通知文、顧客対応の場面で「苦情」「
 ## 🤔  claim との違いは？
 
 - **complaint**：不満や問題点を伝える「苦情」「クレーム」
-- **[claim](/word/claim)**：権利や補償などを「要求・主張」すること
+- **[claim](/word/claim/)**：権利や補償などを「要求・主張」すること
 
 complaintは「不満を伝える」ニュアンスが強く、claimは「何かを求めて主張する」意味で使い分けます。
 
@@ -105,14 +105,14 @@ complaintは「不満を伝える」ニュアンスが強く、claimは「何か
 
 ## 🧩 あわせて覚えたい
 
-- [praise](/word/praise)：称賛、ほめること
-- [request](/word/request)：依頼、要望
+- [praise](/word/praise/)：称賛、ほめること
+- [request](/word/request/)：依頼、要望
 
 ---
 
 ## 📖 できればこれも
 
-- [suggestion](/word/suggestion)：提案
-- [feedback](/word/feedback)：意見、感想
+- [suggestion](/word/suggestion/)：提案
+- [feedback](/word/feedback/)：意見、感想
 
 <!-- cvid: aid46_bid01 -->

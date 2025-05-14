@@ -97,7 +97,7 @@ TOEICでは空港やホテル、移動に関する会話で「cab」が登場す
 ## 🤔  taxi との違いは？
 
 - **cab**：アメリカ英語でよく使われるカジュアルな「タクシー」
-- **[taxi](/word/taxi)**：イギリス英語で一般的な「タクシー」
+- **[taxi](/word/taxi/)**：イギリス英語で一般的な「タクシー」
 
 cabはアメリカで日常的に使われ、taxiはイギリスやフォーマルな場面で使われやすいです。
 
@@ -105,14 +105,14 @@ cabはアメリカで日常的に使われ、taxiはイギリスやフォーマ�
 
 ## 🧩 あわせて覚えたい
 
-- [bus](/word/bus)：バス
-- [driver](/word/driver)：運転手
+- [bus](/word/bus/)：バス
+- [driver](/word/driver/)：運転手
 
 ---
 
 ## 📖 できればこれも
 
-- [fare](/word/fare)：運賃
-- [ride](/word/ride)：乗ること
+- [fare](/word/fare/)：運賃
+- [ride](/word/ride/)：乗ること
 
 <!-- cvid: aid20_bid20 -->

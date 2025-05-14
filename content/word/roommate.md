@@ -97,7 +97,7 @@ TOEICでは、学生寮やシェアハウスの会話、住居に関するシー
 ## 🤔  housemate との違いは？
 
 - **roommate**：同じ部屋を共有して住む人
-- **[housemate](/word/housemate)**：同じ家（部屋は別でも可）を共有して住む人
+- **[housemate](/word/housemate/)**：同じ家（部屋は別でも可）を共有して住む人
 
 roommateは「部屋」を、housemateは「家」を共有する点が異なります。アメリカ英語ではroommateが広く使われますが、イギリス英語ではhousemateの方が一般的です。
 
@@ -105,14 +105,14 @@ roommateは「部屋」を、housemateは「家」を共有する点が異なり
 
 ## 🧩 あわせて覚えたい
 
-- [tenant](/word/tenant)：賃借人、借家人
-- [neighbor](/word/neighbor)：隣人
+- [tenant](/word/tenant/)：賃借人、借家人
+- [neighbor](/word/neighbor/)：隣人
 
 ---
 
 ## 📖 できればこれも
 
-- [neighbor](/word/neighbor)：隣人
-- [classmate](/word/classmate)：クラスメート、同級生
+- [neighbor](/word/neighbor/)：隣人
+- [classmate](/word/classmate/)：クラスメート、同級生
 
 <!-- cvid: aid06_bid34 -->

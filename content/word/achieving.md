@@ -97,7 +97,7 @@ achievingは、動詞achieveの進行形や分詞形として、文法問題や�
 ## 🤔  accomplish との違いは？
 
 - **achieving**：目標や目的を達成する過程や状態を強調
-- **[accomplish](/word/accomplish)**：計画や任務などを完全にやり遂げることを強調
+- **[accomplish](/word/accomplish/)**：計画や任務などを完全にやり遂げることを強調
 
 achievingは「達成しつつある」「達成する過程」に焦点があり、accomplishは「完全にやり遂げる」ことに重点があります。
 
@@ -105,14 +105,14 @@ achievingは「達成しつつある」「達成する過程」に焦点があ�
 
 ## 🧩 あわせて覚えたい
 
-- [attain](/word/attain)：努力して到達する
-- [fail](/word/fail)：失敗する
+- [attain](/word/attain/)：努力して到達する
+- [fail](/word/fail/)：失敗する
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/word/improve)：改善する
-- [complete](/word/complete)：完了する
+- [improve](/word/improve/)：改善する
+- [complete](/word/complete/)：完了する
 
 <!-- cvid: aid05_bid35 -->

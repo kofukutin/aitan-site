@@ -93,7 +93,7 @@ TOEICでは会議や予定の変更、過去の出来事を説明する場面で
 ## 🤔  previously との違いは？
 
 - **earlier**：今よりも前の、または予定より早い時点を指す
-- **[previously](/word/previously)**：過去のある時点で、以前に
+- **[previously](/word/previously/)**：過去のある時点で、以前に
 
 earlierは「今」や「基準となる時点」より早いことを強調し、previouslyは単に「以前に」と過去の出来事を述べる時に使います。
 
@@ -101,14 +101,14 @@ earlierは「今」や「基準となる時点」より早いことを強調し�
 
 ## 🧩 あわせて覚えたい
 
-- [before](/word/before)：～の前に
-- [recently](/word/recently)：最近
+- [before](/word/before/)：～の前に
+- [recently](/word/recently/)：最近
 
 ---
 
 ## 📖 できればこれも
 
-- [later](/word/later)：あとで、より遅く
-- [soon](/word/soon)：まもなく
+- [later](/word/later/)：あとで、より遅く
+- [soon](/word/soon/)：まもなく
 
 <!-- cvid: aid49_bid39 -->

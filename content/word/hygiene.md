@@ -97,7 +97,7 @@ TOEICでは、職場や医療、食品関連の長文で「hygiene」が登場�
 ## 🤔  sanitation との違いは？
 
 - **hygiene**：個人や日常生活での衛生や清潔さを指す
-- **[sanitation](/word/sanitation)**：公共の衛生設備や環境衛生を指す
+- **[sanitation](/word/sanitation/)**：公共の衛生設備や環境衛生を指す
 
 hygieneは個人の習慣や清潔さ、sanitationはインフラや社会全体の衛生管理に使われます。
 
@@ -105,14 +105,14 @@ hygieneは個人の習慣や清潔さ、sanitationはインフラや社会全体
 
 ## 🧩 あわせて覚えたい
 
-- [cleanliness](/word/cleanliness)：清潔さ
-- [infection](/word/infection)：感染
+- [cleanliness](/word/cleanliness/)：清潔さ
+- [infection](/word/infection/)：感染
 
 ---
 
 ## 📖 できればこれも
 
-- [disease](/word/disease)：病気
-- [health](/word/health)：健康
+- [disease](/word/disease/)：病気
+- [health](/word/health/)：健康
 
 <!-- cvid: aid37_bid43 -->

@@ -97,7 +97,7 @@ permitはTOEICの文法・語彙問題で「許可する」の意味や使い方
 ## 🤔  allow との違いは？
 
 - **permit**：公式・フォーマルな場面で「許可する」
-- **[allow](/word/allow)**：日常的・幅広い場面で「許す」「可能にする」
+- **[allow](/word/allow/)**：日常的・幅広い場面で「許す」「可能にする」
 
 permitは規則や権限に基づくフォーマルな許可、allowはもっとカジュアルで広い意味で使われます。
 
@@ -105,14 +105,14 @@ permitは規則や権限に基づくフォーマルな許可、allowはもっと
 
 ## 🧩 あわせて覚えたい
 
-- [authorize](/word/authorize)：正式に認可する
-- [forbid](/word/forbid)：禁止する
+- [authorize](/word/authorize/)：正式に認可する
+- [forbid](/word/forbid/)：禁止する
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/word/approve)：承認する
-- [grant](/word/grant)：与える、許可する
+- [approve](/word/approve/)：承認する
+- [grant](/word/grant/)：与える、許可する
 
 <!-- cvid: aid41_bid21 -->

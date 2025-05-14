@@ -97,7 +97,7 @@ TOEICでは「in bulk（まとめて、大量に）」や「the bulk of ～（�
 ## 🤔  mass との違いは？
 
 - **bulk**：物理的な「かさ」や「大部分」「容量」を強調する
-- **[mass](/word/mass)**：物質の「質量」や「集まり」を指し、科学的・抽象的な意味合いが強い
+- **[mass](/word/mass/)**：物質の「質量」や「集まり」を指し、科学的・抽象的な意味合いが強い
 
 bulkは「大きさ・量・かさ」に焦点を当て、massは「重さ・物質の集まり」に重点があります。
 
@@ -105,14 +105,14 @@ bulkは「大きさ・量・かさ」に焦点を当て、massは「重さ・物
 
 ## 🧩 あわせて覚えたい
 
-- [volume](/word/volume)：体積、容量
-- [portion](/word/portion)：部分、分け前
+- [volume](/word/volume/)：体積、容量
+- [portion](/word/portion/)：部分、分け前
 
 ---
 
 ## 📖 できればこれも
 
-- [capacity](/word/capacity)：収容能力、容量
-- [quantity](/word/quantity)：量、数量
+- [capacity](/word/capacity/)：収容能力、容量
+- [quantity](/word/quantity/)：量、数量
 
 <!-- cvid: aid04_bid49 -->

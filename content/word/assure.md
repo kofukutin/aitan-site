@@ -97,7 +97,7 @@ TOEICでは、ビジネスシーンで「安心させる」「保証する」場
 ## 🤔  ensure との違いは？
 
 - **assure**：人に対して「安心させる」「保証する」と伝える
-- **[ensure](/word/ensure)**：物事や状況が「確実になるようにする」
+- **[ensure](/word/ensure/)**：物事や状況が「確実になるようにする」
 
 assureは「人」を安心させることに重点があり、ensureは「結果や状況が確実になるようにする」点が異なります。
 
@@ -105,14 +105,14 @@ assureは「人」を安心させることに重点があり、ensureは「結�
 
 ## 🧩 あわせて覚えたい
 
-- [guarantee](/word/guarantee)：（物事や結果を）保証する
-- [promise](/word/promise)：約束する
+- [guarantee](/word/guarantee/)：（物事や結果を）保証する
+- [promise](/word/promise/)：約束する
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/word/confirm)：確認する
-- [convince](/word/convince)：納得させる
+- [confirm](/word/confirm/)：確認する
+- [convince](/word/convince/)：納得させる
 
 <!-- cvid: aid49_bid38 -->

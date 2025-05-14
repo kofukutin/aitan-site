@@ -97,7 +97,7 @@ TOEICでは「規則や制限、税金を課す」という文脈で頻出しま
 ## 🤔  enforce との違いは？
 
 - **impose**：義務や規則などを「課す」「押しつける」ニュアンス
-- **[enforce](/word/enforce)**：既存の法律や規則を「実施・施行する」ニュアンス
+- **[enforce](/word/enforce/)**：既存の法律や規則を「実施・施行する」ニュアンス
 
 imposeは「新たに負担や義務を加える」イメージ、enforceは「すでにあるルールを守らせる」イメージです。
 
@@ -105,14 +105,14 @@ imposeは「新たに負担や義務を加える」イメージ、enforceは「�
 
 ## 🧩 あわせて覚えたい
 
-- [levy](/word/levy)：（税金などを）課す
-- [lift](/word/lift)：（規制などを）解除する
+- [levy](/word/levy/)：（税金などを）課す
+- [lift](/word/lift/)：（規制などを）解除する
 
 ---
 
 ## 📖 できればこれも
 
-- [implement](/word/implement)：実行する、導入する
-- [regulate](/word/regulate)：規制する、調整する
+- [implement](/word/implement/)：実行する、導入する
+- [regulate](/word/regulate/)：規制する、調整する
 
 <!-- cvid: aid24_bid35 -->

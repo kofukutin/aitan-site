@@ -97,7 +97,7 @@ TOEICでは、主に「主張する」「要求する」という意味で動詞
 ## 🤔  insisted との違いは？
 
 - **claimed**：自分の意見や権利を主張する、または何かが事実だと述べる
-- **[insisted](/word/insisted)**：強く主張し、譲らない態度を示す
+- **[insisted](/word/insisted/)**：強く主張し、譲らない態度を示す
 
 claimedは「自分のものだ」と述べる一般的な主張、insistedは「絶対に譲らない」強い主張のニュアンスです。
 
@@ -105,14 +105,14 @@ claimedは「自分のものだ」と述べる一般的な主張、insistedは�
 
 ## 🧩 あわせて覚えたい
 
-- [assert](/word/assert)：断言する、強く主張する
-- [deny](/word/deny)：否定する、拒否する
+- [assert](/word/assert/)：断言する、強く主張する
+- [deny](/word/deny/)：否定する、拒否する
 
 ---
 
 ## 📖 できればこれも
 
-- [request](/word/request)：依頼する、要請する
-- [state](/word/state)：述べる、表明する
+- [request](/word/request/)：依頼する、要請する
+- [state](/word/state/)：述べる、表明する
 
 <!-- cvid: aid12_bid18 -->

@@ -97,7 +97,7 @@ TOEICでは、ビジネスレポートや統計データの説明文などで「
 ## 🤔  aggregate との違いは？
 
 - **cumulative**：時間や回数を重ねて少しずつ積み上げた合計や効果を強調する。
-- **[aggregate](/word/aggregate)**：複数の要素をまとめて全体として扱う、集合的な合計や総体を指す。
+- **[aggregate](/word/aggregate/)**：複数の要素をまとめて全体として扱う、集合的な合計や総体を指す。
 
 cumulativeは「積み重ねてきた結果」に焦点があり、aggregateは「複数をまとめた全体像」に重点があります。
 
@@ -105,14 +105,14 @@ cumulativeは「積み重ねてきた結果」に焦点があり、aggregateは�
 
 ## 🧩 あわせて覚えたい
 
-- [incremental](/word/incremental)：増分の、徐々に増加する
-- [total](/word/total)：合計の、総計の
+- [incremental](/word/incremental/)：増分の、徐々に増加する
+- [total](/word/total/)：合計の、総計の
 
 ---
 
 ## 📖 できればこれも
 
-- [consecutive](/word/consecutive)：連続した
-- [subsequent](/word/subsequent)：その後の、次の
+- [consecutive](/word/consecutive/)：連続した
+- [subsequent](/word/subsequent/)：その後の、次の
 
 <!-- cvid: aid14_bid20 -->

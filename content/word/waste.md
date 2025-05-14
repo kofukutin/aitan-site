@@ -98,7 +98,7 @@ wasteはTOEICの文法・語彙問題で「無駄にする」「浪費する」�
 ## 🤔  spend との違いは？
 
 - **waste**：価値のないことに無駄遣いする、否定的な意味合いが強い
-- **[spend](/word/spend)**：単に「使う」「費やす」という意味で、良い・悪いの評価は含まれない
+- **[spend](/word/spend/)**：単に「使う」「費やす」という意味で、良い・悪いの評価は含まれない
 
 wasteは「もったいない」「無駄」という否定的なニュアンスがあり、spendは中立的に「使う」だけの意味です。
 
@@ -106,14 +106,14 @@ wasteは「もったいない」「無駄」という否定的なニュアンス
 
 ## 🧩 あわせて覚えたい
 
-- [save](/word/save)：節約する、貯める
-- [recycle](/word/recycle)：リサイクルする、再利用する
+- [save](/word/save/)：節約する、貯める
+- [recycle](/word/recycle/)：リサイクルする、再利用する
 
 ---
 
 ## 📖 できればこれも
 
-- [throw](/word/throw)：投げる、捨てる
-- [reduce](/word/reduce)：減らす
+- [throw](/word/throw/)：投げる、捨てる
+- [reduce](/word/reduce/)：減らす
 
 <!-- cvid: aid32_bid26 -->

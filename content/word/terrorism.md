@@ -97,7 +97,7 @@ The company updated its policies to address the threat of terrorism.
 ## 🤔  violence との違いは？
 
 - **terrorism**：政治的・宗教的な目的で恐怖や暴力を使う行為
-- **[violence](/word/violence)**：目的を問わず、物理的な暴力や攻撃
+- **[violence](/word/violence/)**：目的を問わず、物理的な暴力や攻撃
 
 terrorismは特定の目的や背景がある暴力行為を指し、violenceはより広く一般的な暴力全般を表します。
 
@@ -105,14 +105,14 @@ terrorismは特定の目的や背景がある暴力行為を指し、violenceは
 
 ## 🧩 あわせて覚えたい
 
-- [crime](/word/crime)：犯罪
-- [threat](/word/threat)：脅威
+- [crime](/word/crime/)：犯罪
+- [threat](/word/threat/)：脅威
 
 ---
 
 ## 📖 できればこれも
 
-- [attack](/word/attack)：攻撃
-- [security](/word/security)：安全、警備
+- [attack](/word/attack/)：攻撃
+- [security](/word/security/)：安全、警備
 
 <!-- cvid: aid02_bid00 -->

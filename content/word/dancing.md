@@ -97,7 +97,7 @@ TOEICでは、レジャーやイベント、趣味に関する会話で「dancin
 ## 🤔  dance との違いは？
 
 - **dancing**：踊ること、ダンスという行為全体を指す
-- **[dance](/word/dance)**：ダンス（名詞：踊りそのもの、ダンスイベント）、または踊る（動詞）
+- **[dance](/word/dance/)**：ダンス（名詞：踊りそのもの、ダンスイベント）、または踊る（動詞）
 
 dancingは「踊るという活動」や「踊っている状態」を強調し、danceは「ダンス」という種類やイベント、または動詞として使われます。
 
@@ -105,14 +105,14 @@ dancingは「踊るという活動」や「踊っている状態」を強調し�
 
 ## 🧩 あわせて覚えたい
 
-- [singing](/word/singing)：歌うこと
-- [performance](/word/performance)：演技、上演
+- [singing](/word/singing/)：歌うこと
+- [performance](/word/performance/)：演技、上演
 
 ---
 
 ## 📖 できればこれも
 
-- [music](/word/music)：音楽
-- [party](/word/party)：パーティー、宴会
+- [music](/word/music/)：音楽
+- [party](/word/party/)：パーティー、宴会
 
 <!-- cvid: aid34_bid23 -->

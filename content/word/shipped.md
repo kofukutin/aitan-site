@@ -97,7 +97,7 @@ TOEICでは、荷物の発送状況や注文対応の会話で頻出します。
 ## 🤔  delivered との違いは？
 
 - **shipped**：発送・出荷した（送り出した段階を強調）
-- **[delivered](/word/delivered)**：配達された（受取人に届いた段階を強調）
+- **[delivered](/word/delivered/)**：配達された（受取人に届いた段階を強調）
 
 shippedは「送り出した」こと、deliveredは「届いた」ことを指し、進捗の段階が異なります。
 
@@ -105,14 +105,14 @@ shippedは「送り出した」こと、deliveredは「届いた」ことを指�
 
 ## 🧩 あわせて覚えたい
 
-- [dispatch](/word/dispatch)：発送する、派遣する
-- [receive](/word/receive)：受け取る
+- [dispatch](/word/dispatch/)：発送する、派遣する
+- [receive](/word/receive/)：受け取る
 
 ---
 
 ## 📖 できればこれも
 
-- [arrive](/word/arrive)：到着する
-- [send](/word/send)：送る
+- [arrive](/word/arrive/)：到着する
+- [send](/word/send/)：送る
 
 <!-- cvid: aid39_bid20 -->

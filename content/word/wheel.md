@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、車や自転車、カートなどの
 ## 🤔  tire との違いは？
 
 - **wheel**：車輪全体やホイール部分を指す
-- **[tire](/word/tire)**：車輪の外側のゴム部分（タイヤ）を指す
+- **[tire](/word/tire/)**：車輪の外側のゴム部分（タイヤ）を指す
 
 wheelは「回転する円形の部品」全体、tireはその外側のゴム部分だけを指します。
 
@@ -105,14 +105,14 @@ wheelは「回転する円形の部品」全体、tireはその外側のゴム�
 
 ## 🧩 あわせて覚えたい
 
-- [steering wheel](/word/steering_wheel)：ハンドル（運転用の舵輪）
-- [axle](/word/axle)：車軸（車輪を支える棒）
+- [steering wheel](/word/steering_wheel/)：ハンドル（運転用の舵輪）
+- [axle](/word/axle/)：車軸（車輪を支える棒）
 
 ---
 
 ## 📖 できればこれも
 
-- [engine](/word/engine)：エンジン
-- [brake](/word/brake)：ブレーキ
+- [engine](/word/engine/)：エンジン
+- [brake](/word/brake/)：ブレーキ
 
 <!-- cvid: aid30_bid04 -->

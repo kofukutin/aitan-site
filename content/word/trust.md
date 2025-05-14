@@ -97,7 +97,7 @@ TOEICでは会話やビジネスシーンで「信頼」や「信用」を表す
 ## 🤔  rely との違いは？
 
 - **trust**：相手や物事を心から信じて頼ること
-- **[rely](/word/rely)**：頼る、依存すること（信じる気持ちより「頼る」動作が強調される）
+- **[rely](/word/rely/)**：頼る、依存すること（信じる気持ちより「頼る」動作が強調される）
 
 trustは「信じる気持ち」に重点があり、relyは「頼る行動」に重点があります。
 
@@ -105,14 +105,14 @@ trustは「信じる気持ち」に重点があり、relyは「頼る行動」�
 
 ## 🧩 あわせて覚えたい
 
-- [doubt](/word/doubt)：疑い、不信
-- [confidence](/word/confidence)：自信、信頼
+- [doubt](/word/doubt/)：疑い、不信
+- [confidence](/word/confidence/)：自信、信頼
 
 ---
 
 ## 📖 できればこれも
 
-- [promise](/word/promise)：約束
-- [support](/word/support)：支援、サポート
+- [promise](/word/promise/)：約束
+- [support](/word/support/)：支援、サポート
 
 <!-- cvid: aid03_bid39 -->

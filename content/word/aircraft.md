@@ -96,7 +96,7 @@ TOEICでは主に空港や旅行、ビジネスの説明文や案内文で登場
 ## 🤔  airplane との違いは？
 
 - **aircraft**：飛行機だけでなく、ヘリコプターや気球など空を飛ぶ乗り物全般を指すフォーマルな言い方
-- **[airplane](/word/airplane)**：主に「飛行機」だけを指すカジュアルな単語
+- **[airplane](/word/airplane/)**：主に「飛行機」だけを指すカジュアルな単語
 
 aircraftは空を飛ぶすべての乗り物を広く指し、airplaneは「飛行機」に限定されます。
 
@@ -104,14 +104,14 @@ aircraftは空を飛ぶすべての乗り物を広く指し、airplaneは「飛�
 
 ## 🧩 あわせて覚えたい
 
-- [helicopter](/word/helicopter)：ヘリコプター
-- [vehicle](/word/vehicle)：乗り物、車両
+- [helicopter](/word/helicopter/)：ヘリコプター
+- [vehicle](/word/vehicle/)：乗り物、車両
 
 ---
 
 ## 📖 できればこれも
 
-- [airport](/word/airport)：空港
-- [flight](/word/flight)：飛行、便
+- [airport](/word/airport/)：空港
+- [flight](/word/flight/)：飛行、便
 
 <!-- cvid: aid21_bid49 -->

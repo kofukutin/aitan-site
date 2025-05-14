@@ -97,7 +97,7 @@ TOEICではショッピングや観光、商品説明の文脈で登場するこ
 ## 🤔  accessory との違いは？
 
 - **jewelry**：宝石や貴金属で作られた高価な装飾品全般を指す。
-- **[accessory](/word/accessory)**：帽子やバッグ、ベルトなど、服装を引き立てる装飾品全般を指す。
+- **[accessory](/word/accessory/)**：帽子やバッグ、ベルトなど、服装を引き立てる装飾品全般を指す。
 
 jewelryは主に宝石類に限定されるのに対し、accessoryは幅広いファッション小物を含みます。
 
@@ -105,14 +105,14 @@ jewelryは主に宝石類に限定されるのに対し、accessoryは幅広い�
 
 ## 🧩 あわせて覚えたい
 
-- [gem](/word/gem)：宝石
-- [ornament](/word/ornament)：装飾品
+- [gem](/word/gem/)：宝石
+- [ornament](/word/ornament/)：装飾品
 
 ---
 
 ## 📖 できればこれも
 
-- [ring](/word/ring)：指輪
-- [necklace](/word/necklace)：ネックレス
+- [ring](/word/ring/)：指輪
+- [necklace](/word/necklace/)：ネックレス
 
 <!-- cvid: aid00_bid32 -->

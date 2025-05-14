@@ -105,14 +105,14 @@ bedroomはプライベートな空間、living roomはみんなで過ごす共�
 
 ## 🧩 あわせて覚えたい
 
-- [kitchen](/word/kitchen)：台所
-- [bathroom](/word/bathroom)：浴室、トイレ
+- [kitchen](/word/kitchen/)：台所
+- [bathroom](/word/bathroom/)：浴室、トイレ
 
 ---
 
 ## 📖 できればこれも
 
-- [closet](/word/closet)：クローゼット、押し入れ
-- [apartment](/word/apartment)：アパート、マンション
+- [closet](/word/closet/)：クローゼット、押し入れ
+- [apartment](/word/apartment/)：アパート、マンション
 
 <!-- cvid: aid43_bid07 -->

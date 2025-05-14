@@ -97,7 +97,7 @@ TOEICでは、空港やホテル、宅配サービスなどの受け取りやお
 ## 🤔  collect との違いは？
 
 - **pickup**：受け取りやお迎えなど、物や人を引き取る行為をカジュアルに表現。
-- **[collect](/word/collect)**：集める・回収するという意味で、ややフォーマルまたは広い範囲の「集める」行為に使う。
+- **[collect](/word/collect/)**：集める・回収するという意味で、ややフォーマルまたは広い範囲の「集める」行為に使う。
 
 「pickup」は日常的な受け取りや迎えに使い、「collect」は複数の物を集める・回収する場面で使い分けます。
 
@@ -105,14 +105,14 @@ TOEICでは、空港やホテル、宅配サービスなどの受け取りやお
 
 ## 🧩 あわせて覚えたい
 
-- [delivery](/word/delivery)：配達、配送
-- [dropoff](/word/dropoff)：降ろすこと、預けること
+- [delivery](/word/delivery/)：配達、配送
+- [dropoff](/word/dropoff/)：降ろすこと、預けること
 
 ---
 
 ## 📖 できればこれも
 
-- [reservation](/word/reservation)：予約
-- [schedule](/word/schedule)：予定、スケジュール
+- [reservation](/word/reservation/)：予約
+- [schedule](/word/schedule/)：予定、スケジュール
 
 <!-- cvid: aid09_bid12 -->

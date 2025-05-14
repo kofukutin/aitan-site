@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、食材や市場の場面などで登
 ## 🤔  seed との違いは？
 
 - **bean**：食用の豆やコーヒー豆など、さやに入った比較的大きめの豆を指す。
-- **[seed](/word/seed)**：植物の種全般を指し、豆以外の小さな種も含む。
+- **[seed](/word/seed/)**：植物の種全般を指し、豆以外の小さな種も含む。
 
 beanは主に食用や特定の植物の大きな種を指し、seedは植物全般の種を広く指します。
 
@@ -105,14 +105,14 @@ beanは主に食用や特定の植物の大きな種を指し、seedは植物全
 
 ## 🧩 あわせて覚えたい
 
-- [pea](/word/pea)：エンドウ豆
-- [grain](/word/grain)：穀物、粒
+- [pea](/word/pea/)：エンドウ豆
+- [grain](/word/grain/)：穀物、粒
 
 ---
 
 ## 📖 できればこれも
 
-- [fruit](/word/fruit)：果物
-- [vegetable](/word/vegetable)：野菜
+- [fruit](/word/fruit/)：果物
+- [vegetable](/word/vegetable/)：野菜
 
 <!-- cvid: aid43_bid01 -->

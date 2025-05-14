@@ -97,7 +97,7 @@ ITやビジネスの説明文、マニュアルなどで「buffer」は一時的
 ## 🤔  cushion との違いは？
 
 - **buffer**：物理的・心理的な衝撃やデータの流れを一時的に和らげるもの、IT分野では一時記憶領域。
-- **[cushion](/word/cushion)**：主に物理的な衝撃を和らげるクッションや座布団。
+- **[cushion](/word/cushion/)**：主に物理的な衝撃を和らげるクッションや座布団。
 
 bufferは抽象的・技術的な場面でも使われ、cushionは主に物理的な柔らかいものを指します。
 
@@ -105,14 +105,14 @@ bufferは抽象的・技術的な場面でも使われ、cushionは主に物理�
 
 ## 🧩 あわせて覚えたい
 
-- [barrier](/word/barrier)：障壁、バリア
-- [shock absorber](/word/shock_absorber)：衝撃吸収装置
+- [barrier](/word/barrier/)：障壁、バリア
+- [shock absorber](/word/shock_absorber/)：衝撃吸収装置
 
 ---
 
 ## 📖 できればこれも
 
-- [storage](/word/storage)：保存、保管
-- [queue](/word/queue)：順番待ち、待機列
+- [storage](/word/storage/)：保存、保管
+- [queue](/word/queue/)：順番待ち、待機列
 
 <!-- cvid: aid43_bid45 -->

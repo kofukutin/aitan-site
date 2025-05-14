@@ -97,7 +97,7 @@ TOEICではPart 5を中心に、文法知識を問う設問や説明文で頻出
 ## 🤔  syntax との違いは？
 
 - **grammar**：言語全体の文法規則や体系を指す
-- **[syntax](/word/syntax)**：語や句を文として正しく並べる構造や規則を指す
+- **[syntax](/word/syntax/)**：語や句を文として正しく並べる構造や規則を指す
 
 grammarは言語のルール全般、syntaxは語順や構造に特化した規則を指します。
 
@@ -105,14 +105,14 @@ grammarは言語のルール全般、syntaxは語順や構造に特化した規�
 
 ## 🧩 あわせて覚えたい
 
-- [vocabulary](/word/vocabulary)：語彙、単語の集まり
-- [punctuation](/word/punctuation)：句読点、句読法
+- [vocabulary](/word/vocabulary/)：語彙、単語の集まり
+- [punctuation](/word/punctuation/)：句読点、句読法
 
 ---
 
 ## 📖 できればこれも
 
-- [sentence](/word/sentence)：文
-- [rule](/word/rule)：規則
+- [sentence](/word/sentence/)：文
+- [rule](/word/rule/)：規則
 
 <!-- cvid: aid35_bid32 -->

@@ -96,7 +96,7 @@ The company developed a new type of yeast for brewing.
 ## 🤔  bacteria との違いは？
 
 - **yeast**：パンやアルコール発酵に使われる単細胞の真菌（酵母）。
-- **[bacteria](/word/bacteria)**：さまざまな環境に存在する単細胞生物で、酵母とは異なる微生物。
+- **[bacteria](/word/bacteria/)**：さまざまな環境に存在する単細胞生物で、酵母とは異なる微生物。
 
 yeastは主に発酵や食品製造に使われる真菌で、bacteriaはより広範な微生物を指し、役割や性質が異なります。
 
@@ -104,14 +104,14 @@ yeastは主に発酵や食品製造に使われる真菌で、bacteriaはより�
 
 ## 🧩 あわせて覚えたい
 
-- [fungus](/word/fungus)：菌類（カビやキノコなどを含む生物の総称）
-- [enzyme](/word/enzyme)：酵素（化学反応を助けるたんぱく質）
+- [fungus](/word/fungus/)：菌類（カビやキノコなどを含む生物の総称）
+- [enzyme](/word/enzyme/)：酵素（化学反応を助けるたんぱく質）
 
 ---
 
 ## 📖 できればこれも
 
-- [mold](/word/mold)：カビ
-- [ferment](/word/ferment)：発酵する
+- [mold](/word/mold/)：カビ
+- [ferment](/word/ferment/)：発酵する
 
 <!-- cvid: aid49_bid31 -->

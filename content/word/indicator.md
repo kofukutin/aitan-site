@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やレポート、グラフの説明などで「
 ## 🤔  sign との違いは？
 
 - **indicator**：数値やデータなど客観的に「指標」となるもの
-- **[sign](/word/sign)**：目に見える「兆候」や「合図」、広い意味でのサイン
+- **[sign](/word/sign/)**：目に見える「兆候」や「合図」、広い意味でのサイン
 
 「indicator」は分析や評価のための客観的な指標を指し、「sign」は何かの前触れや合図など、より広く抽象的な意味で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネス文書やレポート、グラフの説明などで「
 
 ## 🧩 あわせて覚えたい
 
-- [gauge](/word/gauge)：計器、測定器
-- [index](/word/index)：指数、指標
+- [gauge](/word/gauge/)：計器、測定器
+- [index](/word/index/)：指数、指標
 
 ---
 
 ## 📖 できればこれも
 
-- [factor](/word/factor)：要因、要素
-- [measure](/word/measure)：手段、測定値
+- [factor](/word/factor/)：要因、要素
+- [measure](/word/measure/)：手段、測定値
 
 <!-- cvid: aid24_bid34 -->

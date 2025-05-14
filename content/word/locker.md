@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、ジムやオフィス、駅な
 ## 🤔  cabinet との違いは？
 
 - **locker**：鍵付きの個人用収納スペースや箱を指す
-- **[cabinet](/word/cabinet)**：書類や食器などを収納する棚や戸棚全般
+- **[cabinet](/word/cabinet/)**：書類や食器などを収納する棚や戸棚全般
 
 lockerは主に個人の持ち物を一時的に保管するための鍵付きスペース、cabinetは家庭やオフィスで使う収納家具全般を指します。
 
@@ -105,14 +105,14 @@ lockerは主に個人の持ち物を一時的に保管するための鍵付き�
 
 ## 🧩 あわせて覚えたい
 
-- [safe](/word/safe)：金庫
-- [storage](/word/storage)：収納、保管
+- [safe](/word/safe/)：金庫
+- [storage](/word/storage/)：収納、保管
 
 ---
 
 ## 📖 できればこれも
 
-- [drawer](/word/drawer)：引き出し
-- [shelf](/word/shelf)：棚
+- [drawer](/word/drawer/)：引き出し
+- [shelf](/word/shelf/)：棚
 
 <!-- cvid: aid45_bid17 -->

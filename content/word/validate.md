@@ -97,7 +97,7 @@ TOEICでは主にITやビジネス文脈で「データや手続きの正当性�
 ## 🤔  verify との違いは？
 
 - **validate**：正当性や有効性を公式に確認・認証する
-- **[verify](/word/verify)**：事実や情報が正しいかどうかを調査・確認する
+- **[verify](/word/verify/)**：事実や情報が正しいかどうかを調査・確認する
 
 validateは「公式に認める・有効にする」ニュアンスが強く、verifyは「事実確認・裏付け」に重点があります。
 
@@ -105,14 +105,14 @@ validateは「公式に認める・有効にする」ニュアンスが強く、
 
 ## 🧩 あわせて覚えたい
 
-- [approve](/word/approve)：承認する
-- [confirm](/word/confirm)：確認する
+- [approve](/word/approve/)：承認する
+- [confirm](/word/confirm/)：確認する
 
 ---
 
 ## 📖 できればこれも
 
-- [authorize](/word/authorize)：権限を与える
-- [certify](/word/certify)：証明する
+- [authorize](/word/authorize/)：権限を与える
+- [certify](/word/certify/)：証明する
 
 <!-- cvid: aid25_bid48 -->

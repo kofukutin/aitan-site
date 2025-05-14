@@ -97,7 +97,7 @@ The report mentioned a disorder in the company's workflow.
 ## 🤔  disease との違いは？
 
 - **disorder**：体や心の機能や秩序が乱れた状態、原因がはっきりしない場合も多い
-- **[disease](/word/disease)**：感染症や病気など、明確な原因や診断がある「病気」
+- **[disease](/word/disease/)**：感染症や病気など、明確な原因や診断がある「病気」
 
 disorderは「機能の乱れ」や「障害」として広く使われ、diseaseは「病気」として医学的に明確な診断がある場合に使われます。
 
@@ -105,15 +105,15 @@ disorderは「機能の乱れ」や「障害」として広く使われ、diseas
 
 ## 🧩 あわせて覚えたい
 
-- [symptom](/word/symptom)：症状
-- [condition](/word/condition)：状態、病状
+- [symptom](/word/symptom/)：症状
+- [condition](/word/condition/)：状態、病状
 
 ---
 
 ## 📖 できればこれも
 
-- [injury](/word/injury)：けが
-- [illness](/word/illness)：病気（一般的な体調不良）
+- [injury](/word/injury/)：けが
+- [illness](/word/illness/)：病気（一般的な体調不良）
 
 
 <!-- cvid: aid20_bid07 -->

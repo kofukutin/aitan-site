@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、地面や靴、作業現場の様子
 ## 🤔  soil との違いは？
 
 - **mud**：水分を多く含んだ柔らかい「泥」
-- **[soil](/word/soil)**：植物が育つための「土壌」
+- **[soil](/word/soil/)**：植物が育つための「土壌」
 
 mudは水でぬかるんだ状態の土を指し、soilは乾いた土や農業用の土壌を指します。泥遊びや汚れにはmud、園芸や地質にはsoilを使います。
 
@@ -105,14 +105,14 @@ mudは水でぬかるんだ状態の土を指し、soilは乾いた土や農業�
 
 ## 🧩 あわせて覚えたい
 
-- [clay](/word/clay)：粘土
-- [dust](/word/dust)：ほこり
+- [clay](/word/clay/)：粘土
+- [dust](/word/dust/)：ほこり
 
 ---
 
 ## 📖 できればこれも
 
-- [sand](/word/sand)：砂
-- [water](/word/water)：水
+- [sand](/word/sand/)：砂
+- [water](/word/water/)：水
 
 <!-- cvid: aid42_bid34 -->

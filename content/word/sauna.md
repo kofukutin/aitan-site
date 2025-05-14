@@ -96,7 +96,7 @@ The hotel offers a sauna for its guests.
 ## 🤔  steam room との違いは？
 
 - **sauna**：高温の乾燥した空気、または時に蒸気を使う発汗用の部屋。
-- **[steam room](/word/steam_room)**：湿度が非常に高い蒸気を満たした部屋。
+- **[steam room](/word/steam_room/)**：湿度が非常に高い蒸気を満たした部屋。
 
 saunaは主に乾燥した熱気、steam roomは湿った蒸気が特徴で、発汗方法や体感が異なります。
 
@@ -104,14 +104,14 @@ saunaは主に乾燥した熱気、steam roomは湿った蒸気が特徴で、�
 
 ## 🧩 あわせて覚えたい
 
-- [bath](/word/bath)：浴槽、入浴
-- [spa](/word/spa)：温泉、スパ施設
+- [bath](/word/bath/)：浴槽、入浴
+- [spa](/word/spa/)：温泉、スパ施設
 
 ---
 
 ## 📖 できればこれも
 
-- [pool](/word/pool)：プール
-- [shower](/word/shower)：シャワー
+- [pool](/word/pool/)：プール
+- [shower](/word/shower/)：シャワー
 
 <!-- cvid: aid22_bid43 -->

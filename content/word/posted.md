@@ -97,7 +97,7 @@ TOEICでは、メールや掲示文、ウェブサイトの案内文などで「
 ## 🤔  uploaded との違いは？
 
 - **posted**：情報を公開・掲示すること全般に使い、SNSや掲示板など幅広い場面で使われる。
-- **[uploaded](/word/uploaded)**：主にファイルやデータをインターネット上にアップロードすることを指す。
+- **[uploaded](/word/uploaded/)**：主にファイルやデータをインターネット上にアップロードすることを指す。
 
 「posted」は内容を公開する行為全般に使い、「uploaded」はデータ転送のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは、メールや掲示文、ウェブサイトの案内文などで「
 
 ## 🧩 あわせて覚えたい
 
-- [announce](/word/announce)：発表する、知らせる
-- [publish](/word/publish)：出版する、公開する
+- [announce](/word/announce/)：発表する、知らせる
+- [publish](/word/publish/)：出版する、公開する
 
 ---
 
 ## 📖 できればこれも
 
-- [send](/word/send)：送る
-- [attach](/word/attach)：添付する
+- [send](/word/send/)：送る
+- [attach](/word/attach/)：添付する
 
 <!-- cvid: aid42_bid03 -->

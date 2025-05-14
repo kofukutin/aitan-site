@@ -97,7 +97,7 @@ TOEICでは、専門分野の説明や業界ごとの用語解説の文脈で出
 ## 🤔  jargon との違いは？
 
 - **terminology**：特定分野で公式に使われる専門用語や用語集
-- **[jargon](/word/jargon)**：専門家同士が使う難解な業界用語や俗語
+- **[jargon](/word/jargon/)**：専門家同士が使う難解な業界用語や俗語
 
 terminologyは体系的・公式な用語を指し、jargonは内輪的・非公式な専門語や難解語を指します。
 
@@ -105,14 +105,14 @@ terminologyは体系的・公式な用語を指し、jargonは内輪的・非公
 
 ## 🧩 あわせて覚えたい
 
-- [vocabulary](/word/vocabulary)：語彙、単語集
-- [expression](/word/expression)：表現、言い回し
+- [vocabulary](/word/vocabulary/)：語彙、単語集
+- [expression](/word/expression/)：表現、言い回し
 
 ---
 
 ## 📖 できればこれも
 
-- [definition](/word/definition)：定義
-- [concept](/word/concept)：概念
+- [definition](/word/definition/)：定義
+- [concept](/word/concept/)：概念
 
 <!-- cvid: aid29_bid05 -->

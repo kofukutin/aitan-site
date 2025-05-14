@@ -97,7 +97,7 @@ TOEICでは、手続きや説明、書類などが「簡略化された」と述
 ## 🤔  simple との違いは？
 
 - **simplified**：もともと複雑だったものが「簡略化された」ことを強調
-- **[simple](/word/simple)**：最初から「単純な」「シンプルな」状態
+- **[simple](/word/simple/)**：最初から「単純な」「シンプルな」状態
 
 「simplified」は「複雑なものを分かりやすくした」ニュアンスで、もともと単純なものには使いません。一方「simple」は最初からシンプルなものに使います。
 
@@ -105,14 +105,14 @@ TOEICでは、手続きや説明、書類などが「簡略化された」と述
 
 ## 🧩 あわせて覚えたい
 
-- [streamlined](/word/streamlined)：効率化された、合理化された
-- [complicated](/word/complicated)：複雑な、込み入った
+- [streamlined](/word/streamlined/)：効率化された、合理化された
+- [complicated](/word/complicated/)：複雑な、込み入った
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [clarify](/word/clarify)：明確にする
+- [efficient](/word/efficient/)：効率的な
+- [clarify](/word/clarify/)：明確にする
 
 <!-- cvid: aid49_bid44 -->

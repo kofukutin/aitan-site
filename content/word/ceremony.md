@@ -97,7 +97,7 @@ TOEICでは、案内文やイベントのお知らせ、公式な集まりの説
 ## 🤔  ritual との違いは？
 
 - **ceremony**：公式な場で行われる儀式や式典を指し、社会的・公的な意味合いが強い。
-- **[ritual](/word/ritual)**：宗教的・伝統的な習慣や決まった手順を重視した儀式。
+- **[ritual](/word/ritual/)**：宗教的・伝統的な習慣や決まった手順を重視した儀式。
 
 ceremonyは公的なイベントや式典に使われ、ritualは宗教や伝統に根ざした繰り返しの行為に使われます。
 
@@ -105,14 +105,14 @@ ceremonyは公的なイベントや式典に使われ、ritualは宗教や伝統
 
 ## 🧩 あわせて覚えたい
 
-- [celebration](/word/celebration)：祝賀、祝い
-- [event](/word/event)：出来事、行事
+- [celebration](/word/celebration/)：祝賀、祝い
+- [event](/word/event/)：出来事、行事
 
 ---
 
 ## 📖 できればこれも
 
-- [tradition](/word/tradition)：伝統
-- [occasion](/word/occasion)：特別な行事、機会
+- [tradition](/word/tradition/)：伝統
+- [occasion](/word/occasion/)：特別な行事、機会
 
 <!-- cvid: aid34_bid11 -->

@@ -97,7 +97,7 @@ TOEICでは請求書や契約書、ビジネス文書の中で「tax」が頻出
 ## 🤔  fee との違いは？
 
 - **tax**：政府や自治体が徴収する税金
-- **[fee](/word/fee)**：サービスや手続きに対して支払う料金・手数料
+- **[fee](/word/fee/)**：サービスや手続きに対して支払う料金・手数料
 
 「tax」は国や自治体が公共のために集めるお金、「fee」は特定のサービスや利用に対して支払うお金です。
 
@@ -105,14 +105,14 @@ TOEICでは請求書や契約書、ビジネス文書の中で「tax」が頻出
 
 ## 🧩 あわせて覚えたい
 
-- [duty](/word/duty)：関税、義務
-- [refund](/word/refund)：払い戻し
+- [duty](/word/duty/)：関税、義務
+- [refund](/word/refund/)：払い戻し
 
 ---
 
 ## 📖 できればこれも
 
-- [cost](/word/cost)：費用、コスト
-- [charge](/word/charge)：請求額、料金
+- [cost](/word/cost/)：費用、コスト
+- [charge](/word/charge/)：請求額、料金
 
 <!-- cvid: aid15_bid31 -->

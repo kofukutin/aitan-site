@@ -97,7 +97,7 @@ TOEICでは主に履歴書や求人情報、語学力証明などの文脈で出
 ## 🤔  competence との違いは？
 
 - **proficiency**：実践的な熟達度や高い技能レベルを強調
-- **[competence](/word/competence)**：基準を満たす能力や適性を指し、最低限の力にも使う
+- **[competence](/word/competence/)**：基準を満たす能力や適性を指し、最低限の力にも使う
 
 proficiencyは「上手さ・堪能さ」に重点があり、competenceは「できるかどうか・適性があるか」に焦点を当てます。
 
@@ -105,14 +105,14 @@ proficiencyは「上手さ・堪能さ」に重点があり、competenceは「�
 
 ## 🧩 あわせて覚えたい
 
-- [expertise](/word/expertise)：専門知識、専門的技能
-- [skill](/word/skill)：技術、能力
+- [expertise](/word/expertise/)：専門知識、専門的技能
+- [skill](/word/skill/)：技術、能力
 
 ---
 
 ## 📖 できればこれも
 
-- [qualification](/word/qualification)：資格、適格性
-- [ability](/word/ability)：能力、才能
+- [qualification](/word/qualification/)：資格、適格性
+- [ability](/word/ability/)：能力、才能
 
 <!-- cvid: aid30_bid05 -->

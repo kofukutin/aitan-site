@@ -97,7 +97,7 @@ TOEICでは副詞の語彙問題や空所補充でよく出題されます。特
 ## 🤔  often との違いは？
 
 - **frequently**：ややフォーマルで「頻繁に」「しばしば」という意味。書き言葉やビジネスでよく使う。
-- **[often](/word/often)**：よりカジュアルで「よく」「たびたび」という意味。日常会話で幅広く使う。
+- **[often](/word/often/)**：よりカジュアルで「よく」「たびたび」という意味。日常会話で幅広く使う。
 
 frequentlyは頻度が高いことを強調したいときや、やや改まった場面で使われます。oftenは日常的な会話で自然に使える単語です。
 
@@ -105,14 +105,14 @@ frequentlyは頻度が高いことを強調したいときや、やや改まっ�
 
 ## 🧩 あわせて覚えたい
 
-- [regularly](/word/regularly)：定期的に
-- [occasionally](/word/occasionally)：時々
+- [regularly](/word/regularly/)：定期的に
+- [occasionally](/word/occasionally/)：時々
 
 ---
 
 ## 📖 できればこれも
 
-- [rarely](/word/rarely)：めったに～ない
-- [usually](/word/usually)：たいてい、普通は
+- [rarely](/word/rarely/)：めったに～ない
+- [usually](/word/usually/)：たいてい、普通は
 
 <!-- cvid: aid08_bid10 -->

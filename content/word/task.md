@@ -97,7 +97,7 @@ TOEICでは「業務」「課題」などの意味で頻出し、指示や依頼
 ## 🤔  assignment との違いは？
 
 - **task**：比較的短期的で具体的な「課題」「仕事」を指す
-- **[assignment](/word/assignment)**：ややフォーマルで、学校や職場で与えられる「割り当てられた仕事・課題」
+- **[assignment](/word/assignment/)**：ややフォーマルで、学校や職場で与えられる「割り当てられた仕事・課題」
 
 taskは日常的な小さな仕事にも使えますが、assignmentは「割り当てられた業務」や「宿題」など、やや形式的な場面で使われます。
 
@@ -105,14 +105,14 @@ taskは日常的な小さな仕事にも使えますが、assignmentは「割り
 
 ## 🧩 あわせて覚えたい
 
-- [duty](/word/duty)：義務、職務
-- [project](/word/project)：プロジェクト、計画
+- [duty](/word/duty/)：義務、職務
+- [project](/word/project/)：プロジェクト、計画
 
 ---
 
 ## 📖 できればこれも
 
-- [goal](/word/goal)：目標
-- [job](/word/job)：仕事
+- [goal](/word/goal/)：目標
+- [job](/word/job/)：仕事
 
 <!-- cvid: aid23_bid48 -->

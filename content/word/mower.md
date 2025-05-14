@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、芝刈り機を使っている
 ## 🤔  cutter との違いは？
 
 - **mower**：芝や草を刈るための機械や道具
-- **[cutter](/word/cutter)**：何かを切るための道具全般（はさみ・カッターなど）
+- **[cutter](/word/cutter/)**：何かを切るための道具全般（はさみ・カッターなど）
 
 mowerは主に芝や草を刈る専用の機械を指し、cutterは紙や布などさまざまなものを切る道具全般を指します。
 
@@ -105,14 +105,14 @@ mowerは主に芝や草を刈る専用の機械を指し、cutterは紙や布な
 
 ## 🧩 あわせて覚えたい
 
-- [trimmer](/word/trimmer)：刈り込み機、トリマー
-- [lawn](/word/lawn)：芝生
+- [trimmer](/word/trimmer/)：刈り込み機、トリマー
+- [lawn](/word/lawn/)：芝生
 
 ---
 
 ## 📖 できればこれも
 
-- [tool](/word/tool)：道具
-- [machine](/word/machine)：機械
+- [tool](/word/tool/)：道具
+- [machine](/word/machine/)：機械
 
 <!-- cvid: aid18_bid44 -->

@@ -97,7 +97,7 @@ TOEICでは、記事やビジネス文書で「大企業」や「巨大なもの
 ## 🤔  huge との違いは？
 
 - **giant**：巨大な人・物・企業など、物理的または比喩的な「巨人」を名詞で表す。
-- **[huge](/word/huge)**：非常に大きいことを表す形容詞。
+- **[huge](/word/huge/)**：非常に大きいことを表す形容詞。
 
 「giant」は名詞で「巨人」や「大企業」など具体的な存在を指し、「huge」は単に大きさを形容する語です。
 
@@ -105,14 +105,14 @@ TOEICでは、記事やビジネス文書で「大企業」や「巨大なもの
 
 ## 🧩 あわせて覚えたい
 
-- [monster](/word/monster)：怪物、モンスター
-- [dwarf](/word/dwarf)：小人、矮小なもの
+- [monster](/word/monster/)：怪物、モンスター
+- [dwarf](/word/dwarf/)：小人、矮小なもの
 
 ---
 
 ## 📖 できればこれも
 
-- [enormous](/word/enormous)：非常に大きい
-- [massive](/word/massive)：どっしりした、巨大な
+- [enormous](/word/enormous/)：非常に大きい
+- [massive](/word/massive/)：どっしりした、巨大な
 
 <!-- cvid: aid17_bid17 -->

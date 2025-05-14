@@ -97,7 +97,7 @@ TOEICでは、順序や手順、説明の流れを示す際によく登場しま
 ## 🤔  initial との違いは？
 
 - **first**：順序や時間の中で「一番目」のものを指す、日常的で幅広く使える表現。
-- **[initial](/word/initial)**：物事の「最初の段階」や「初期の」という意味で、ややフォーマルな場面や書類・手続きなどで使われやすい。
+- **[initial](/word/initial/)**：物事の「最初の段階」や「初期の」という意味で、ややフォーマルな場面や書類・手続きなどで使われやすい。
 
 firstは日常会話や一般的な順序に、initialは手続きや公式な文書の「初期段階」に使われることが多いです。
 
@@ -105,14 +105,14 @@ firstは日常会話や一般的な順序に、initialは手続きや公式な�
 
 ## 🧩 あわせて覚えたい
 
-- [final](/word/final)：最後の、最終の
-- [primary](/word/primary)：主要な、第一の
+- [final](/word/final/)：最後の、最終の
+- [primary](/word/primary/)：主要な、第一の
 
 ---
 
 ## 📖 できればこれも
 
-- [second](/word/second)：2番目の
-- [early](/word/early)：早い、初期の
+- [second](/word/second/)：2番目の
+- [early](/word/early/)：早い、初期の
 
 <!-- cvid: aid36_bid04 -->

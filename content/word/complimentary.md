@@ -97,7 +97,7 @@ TOEICではホテルやイベントの案内文、広告などで「無料の」
 ## 🤔  free との違いは？
 
 - **complimentary**：サービスや好意で「無料で提供される」ものに使う。ややフォーマル。
-- **[free](/word/free)**：制限や支払いがなく「自由」「無料」であること全般に使う。
+- **[free](/word/free/)**：制限や支払いがなく「自由」「無料」であること全般に使う。
 
 「complimentary」はホテルやイベントなどで「特典として無料」のニュアンスが強く、「free」はもっと広く一般的な「無料」に使われます。
 
@@ -105,14 +105,14 @@ TOEICではホテルやイベントの案内文、広告などで「無料の」
 
 ## 🧩 あわせて覚えたい
 
-- [gratuity](/word/gratuity)：心づけ、チップ
-- [courtesy](/word/courtesy)：礼儀、好意
+- [gratuity](/word/gratuity/)：心づけ、チップ
+- [courtesy](/word/courtesy/)：礼儀、好意
 
 ---
 
 ## 📖 できればこれも
 
-- [generous](/word/generous)：気前のよい
-- [voucher](/word/voucher)：引換券、クーポン
+- [generous](/word/generous/)：気前のよい
+- [voucher](/word/voucher/)：引換券、クーポン
 
 <!-- cvid: aid31_bid28 -->

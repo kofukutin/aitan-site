@@ -97,7 +97,7 @@ TOEICでは「fear of ～」や「fear that ～」の形で、懸念や不安を
 ## 🤔  afraid との違いは？
 
 - **fear**：名詞で「恐れ」「不安」など感情そのものや状態を表す。
-- **[afraid](/word/afraid)**：形容詞で「恐れている」「怖い」という気持ちの状態を表す。
+- **[afraid](/word/afraid/)**：形容詞で「恐れている」「怖い」という気持ちの状態を表す。
 
 「fear」は名詞で感情や状況を指し、「afraid」は人の気持ちや状態を直接表現する点が異なります。
 
@@ -105,14 +105,14 @@ TOEICでは「fear of ～」や「fear that ～」の形で、懸念や不安を
 
 ## 🧩 あわせて覚えたい
 
-- [anxiety](/word/anxiety)：不安、心配
-- [courage](/word/courage)：勇気
+- [anxiety](/word/anxiety/)：不安、心配
+- [courage](/word/courage/)：勇気
 
 ---
 
 ## 📖 できればこれも
 
-- [worry](/word/worry)：心配、悩み
-- [risk](/word/risk)：危険、リスク
+- [worry](/word/worry/)：心配、悩み
+- [risk](/word/risk/)：危険、リスク
 
 <!-- cvid: aid21_bid02 -->

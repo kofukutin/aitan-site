@@ -97,7 +97,7 @@ TOEICのPart 1（写真描写問題）でよく登場します。写真を撮っ
 ## 🤔  cameraman との違いは？
 
 - **photographer**：写真を撮る人全般（プロ・アマ問わず）、芸術的な写真家も含む
-- **[cameraman](/word/cameraman)**：主にテレビや映画の撮影スタッフ（動画撮影者）を指す
+- **[cameraman](/word/cameraman/)**：主にテレビや映画の撮影スタッフ（動画撮影者）を指す
 
 photographerは静止画を撮る人、cameramanは動画を撮る人や放送業界の撮影担当者を指すことが多いです。
 
@@ -105,14 +105,14 @@ photographerは静止画を撮る人、cameramanは動画を撮る人や放送�
 
 ## 🧩 あわせて覚えたい
 
-- [photography](/word/photography)：写真術、写真撮影
-- [snapshot](/word/snapshot)：スナップ写真、瞬間写真
+- [photography](/word/photography/)：写真術、写真撮影
+- [snapshot](/word/snapshot/)：スナップ写真、瞬間写真
 
 ---
 
 ## 📖 できればこれも
 
-- [artist](/word/artist)：芸術家、アーティスト
-- [editor](/word/editor)：編集者
+- [artist](/word/artist/)：芸術家、アーティスト
+- [editor](/word/editor/)：編集者
 
 <!-- cvid: aid10_bid30 -->

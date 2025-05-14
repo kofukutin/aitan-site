@@ -97,7 +97,7 @@ ITやビジネスの進捗管理、健康管理などの文脈で説明文や広
 ## 🤔  monitor との違いは？
 
 - **tracker**：動きや進捗などを「記録・追跡」する装置や人
-- **[monitor](/word/monitor)**：状況やデータを「監視・観察」する装置や人
+- **[monitor](/word/monitor/)**：状況やデータを「監視・観察」する装置や人
 
 trackerは「記録・追跡」に重点があり、monitorは「監視・観察」に重点があります。
 
@@ -105,14 +105,14 @@ trackerは「記録・追跡」に重点があり、monitorは「監視・観察
 
 ## 🧩 あわせて覚えたい
 
-- [device](/word/device)：装置、機器
-- [sensor](/word/sensor)：センサー、感知器
+- [device](/word/device/)：装置、機器
+- [sensor](/word/sensor/)：センサー、感知器
 
 ---
 
 ## 📖 できればこれも
 
-- [record](/word/record)：記録する
-- [analyze](/word/analyze)：分析する
+- [record](/word/record/)：記録する
+- [analyze](/word/analyze/)：分析する
 
 <!-- cvid: aid18_bid17 -->

@@ -97,7 +97,7 @@ TOEICではビジネスレポートや分析記事などで「洞察」「見識
 ## 🤔  intuition との違いは？
 
 - **insight**：物事の本質や原因を論理的・分析的に深く理解すること
-- **[intuition](/word/intuition)**：直感やひらめき、理屈抜きで感じ取る力
+- **[intuition](/word/intuition/)**：直感やひらめき、理屈抜きで感じ取る力
 
 insightは分析や経験に基づく深い理解、intuitionは説明できない感覚的な理解という違いがあります。
 
@@ -105,14 +105,14 @@ insightは分析や経験に基づく深い理解、intuitionは説明できな�
 
 ## 🧩 あわせて覚えたい
 
-- [perception](/word/perception)：知覚、認識
-- [analysis](/word/analysis)：分析
+- [perception](/word/perception/)：知覚、認識
+- [analysis](/word/analysis/)：分析
 
 ---
 
 ## 📖 できればこれも
 
-- [concept](/word/concept)：概念、考え
-- [perspective](/word/perspective)：視点、観点
+- [concept](/word/concept/)：概念、考え
+- [perspective](/word/perspective/)：視点、観点
 
 <!-- cvid: aid20_bid33 -->

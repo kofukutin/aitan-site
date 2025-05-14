@@ -97,7 +97,7 @@ TOEICでは、商品やサービスの説明文、統計データの記述など
 ## 🤔  varying との違いは？
 
 - **ranging**：範囲がAからBまで広がる、または及ぶことを強調
-- **[varying](/word/varying)**：変化する、さまざまであることを強調
+- **[varying](/word/varying/)**：変化する、さまざまであることを強調
 
 rangingは「範囲の広がり」や「幅」を示すのに対し、varyingは「変化」や「多様性」を強調します。
 
@@ -105,14 +105,14 @@ rangingは「範囲の広がり」や「幅」を示すのに対し、varyingは
 
 ## 🧩 あわせて覚えたい
 
-- [span](/word/span)：（期間・範囲が）及ぶ
-- [include](/word/include)：含む
+- [span](/word/span/)：（期間・範囲が）及ぶ
+- [include](/word/include/)：含む
 
 ---
 
 ## 📖 できればこれも
 
-- [expand](/word/expand)：拡大する、広げる
-- [cover](/word/cover)：（範囲が）及ぶ、カバーする
+- [expand](/word/expand/)：拡大する、広げる
+- [cover](/word/cover/)：（範囲が）及ぶ、カバーする
 
 <!-- cvid: aid49_bid33 -->

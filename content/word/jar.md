@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、物の説明や工場・キッチン
 ## 🤔  bottle との違いは？
 
 - **jar**：口が広く、主に固形物や保存食品を入れる容器
-- **[bottle](/word/bottle)**：口が狭く、主に液体を入れる容器
+- **[bottle](/word/bottle/)**：口が狭く、主に液体を入れる容器
 
 jarはジャムやピクルスなどの保存に、bottleは水やジュースなどの液体に使われることが多いです。
 
@@ -105,14 +105,14 @@ jarはジャムやピクルスなどの保存に、bottleは水やジュース�
 
 ## 🧩 あわせて覚えたい
 
-- [can](/word/can)：缶、金属製の容器
-- [container](/word/container)：容器、入れ物全般
+- [can](/word/can/)：缶、金属製の容器
+- [container](/word/container/)：容器、入れ物全般
 
 ---
 
 ## 📖 できればこれも
 
-- [box](/word/box)：箱
-- [package](/word/package)：包装、パッケージ
+- [box](/word/box/)：箱
+- [package](/word/package/)：包装、パッケージ
 
 <!-- cvid: aid01_bid03 -->

@@ -97,7 +97,7 @@ TOEICでは、受動態や形容詞としての使い方、または過去分詞
 ## 🤔  liked との違いは？
 
 - **loved**：強く愛されている、深く好かれている
-- **[liked](/word/liked)**：好かれている、好意を持たれている
+- **[liked](/word/liked/)**：好かれている、好意を持たれている
 
 「loved」は「liked」よりも感情が強く、より深い愛情や親しみを表します。
 
@@ -105,14 +105,14 @@ TOEICでは、受動態や形容詞としての使い方、または過去分詞
 
 ## 🧩 あわせて覚えたい
 
-- [adored](/word/adored)：とても敬愛されている
-- [cherished](/word/cherished)：大切にされている
+- [adored](/word/adored/)：とても敬愛されている
+- [cherished](/word/cherished/)：大切にされている
 
 ---
 
 ## 📖 できればこれも
 
-- [famous](/word/famous)：有名な
-- [popular](/word/popular)：人気のある
+- [famous](/word/famous/)：有名な
+- [popular](/word/popular/)：人気のある
 
 <!-- cvid: aid31_bid09 -->

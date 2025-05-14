@@ -97,7 +97,7 @@ TOEICでは、製品やサービスの「初公開」や「新登場」を説明
 ## 🤔  launch との違いは？
 
 - **debut**：人や製品が初めて公に登場することに重点がある
-- **[launch](/word/launch)**：新製品やサービスを正式に市場に投入・開始すること
+- **[launch](/word/launch/)**：新製品やサービスを正式に市場に投入・開始すること
 
 debutは「初登場」の場面や注目度に焦点があり、launchは「発売・開始」というビジネス的な動作に重点があります。
 
@@ -105,14 +105,14 @@ debutは「初登場」の場面や注目度に焦点があり、launchは「発
 
 ## 🧩 あわせて覚えたい
 
-- [premiere](/word/premiere)：初演、初公開
-- [introduction](/word/introduction)：導入、紹介
+- [premiere](/word/premiere/)：初演、初公開
+- [introduction](/word/introduction/)：導入、紹介
 
 ---
 
 ## 📖 できればこれも
 
-- [announce](/word/announce)：発表する
-- [release](/word/release)：公開する、発売する
+- [announce](/word/announce/)：発表する
+- [release](/word/release/)：公開する、発売する
 
 <!-- cvid: aid18_bid39 -->

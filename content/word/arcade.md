@@ -97,7 +97,7 @@ TOEICでは観光地やショッピングに関する長文、案内文などで
 ## 🤔  mall との違いは？
 
 - **arcade**：屋根付きの通路や商店街、またはゲームセンターを指す
-- **[mall](/word/mall)**：大規模なショッピングセンターやショッピングモール
+- **[mall](/word/mall/)**：大規模なショッピングセンターやショッピングモール
 
 arcadeは比較的小規模で伝統的な雰囲気のある通路や商店街、またはゲームセンターを指し、mallは現代的で大規模なショッピング施設を指します。
 
@@ -105,14 +105,14 @@ arcadeは比較的小規模で伝統的な雰囲気のある通路や商店街�
 
 ## 🧩 あわせて覚えたい
 
-- [gallery](/word/gallery)：ギャラリー、展示場、または屋根付きの通路
-- [corridor](/word/corridor)：廊下、通路
+- [gallery](/word/gallery/)：ギャラリー、展示場、または屋根付きの通路
+- [corridor](/word/corridor/)：廊下、通路
 
 ---
 
 ## 📖 できればこれも
 
-- [plaza](/word/plaza)：広場、ショッピングプラザ
-- [venue](/word/venue)：会場、開催地
+- [plaza](/word/plaza/)：広場、ショッピングプラザ
+- [venue](/word/venue/)：会場、開催地
 
 <!-- cvid: aid48_bid45 -->

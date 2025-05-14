@@ -97,7 +97,7 @@ TOEICでは、仕事やプロジェクトの難しさややりがいを表現す
 ## 🤔  difficult との違いは？
 
 - **challenging**：困難だがやりがいがあり、前向きな印象
-- **[difficult](/word/difficult)**：単に「難しい」「困難」という意味で、ややネガティブな印象
+- **[difficult](/word/difficult/)**：単に「難しい」「困難」という意味で、ややネガティブな印象
 
 「challenging」は成長や達成感を期待できる前向きな場面で使われ、「difficult」は単に困難さを強調したいときに使います。
 
@@ -105,14 +105,14 @@ TOEICでは、仕事やプロジェクトの難しさややりがいを表現す
 
 ## 🧩 あわせて覚えたい
 
-- [demanding](/word/demanding)：要求が厳しい、骨の折れる
-- [rewarding](/word/rewarding)：やりがいのある、報われる
+- [demanding](/word/demanding/)：要求が厳しい、骨の折れる
+- [rewarding](/word/rewarding/)：やりがいのある、報われる
 
 ---
 
 ## 📖 できればこれも
 
-- [encouraging](/word/encouraging)：励みになる、勇気づける
-- [motivating](/word/motivating)：やる気を起こさせる
+- [encouraging](/word/encouraging/)：励みになる、勇気づける
+- [motivating](/word/motivating/)：やる気を起こさせる
 
 <!-- cvid: aid26_bid27 -->

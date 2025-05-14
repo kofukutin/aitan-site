@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、物の形状を説明する際によ
 ## 🤔  circle との違いは？
 
 - **round**：形容詞で「丸い」「円形の」という形や外観を表す。
-- **[circle](/word/circle)**：名詞で「円」「円形そのもの」を指す。
+- **[circle](/word/circle/)**：名詞で「円」「円形そのもの」を指す。
 
 roundは物の形容詞的な特徴を表し、circleは「円」という図形や形そのものを指します。
 
@@ -105,14 +105,14 @@ roundは物の形容詞的な特徴を表し、circleは「円」という図形
 
 ## 🧩 あわせて覚えたい
 
-- [square](/word/square)：四角い、正方形
-- [oval](/word/oval)：楕円形、卵形
+- [square](/word/square/)：四角い、正方形
+- [oval](/word/oval/)：楕円形、卵形
 
 ---
 
 ## 📖 できればこれも
 
-- [flat](/word/flat)：平らな
-- [sharp](/word/sharp)：鋭い
+- [flat](/word/flat/)：平らな
+- [sharp](/word/sharp/)：鋭い
 
 <!-- cvid: aid23_bid22 -->

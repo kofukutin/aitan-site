@@ -97,7 +97,7 @@ burnは、日常会話やオフィスでの注意事項、設備の説明など�
 ## 🤔  fire との違いは？
 
 - **burn**：火や熱で「燃やす」「焼ける」「やけどする」などの動作を表す
-- **[fire](/word/fire)**：「火」そのものや「火事」「発砲」「解雇」など名詞・動詞で幅広い意味
+- **[fire](/word/fire/)**：「火」そのものや「火事」「発砲」「解雇」など名詞・動詞で幅広い意味
 
 burnは「燃える・焼く」という動作、fireは「火」という物や現象を指す点が大きな違いです。
 
@@ -105,14 +105,14 @@ burnは「燃える・焼く」という動作、fireは「火」という物や
 
 ## 🧩 あわせて覚えたい
 
-- [ignite](/word/ignite)：点火する、火をつける
-- [extinguish](/word/extinguish)：消火する、消す
+- [ignite](/word/ignite/)：点火する、火をつける
+- [extinguish](/word/extinguish/)：消火する、消す
 
 ---
 
 ## 📖 できればこれも
 
-- [heat](/word/heat)：熱、熱する
-- [melt](/word/melt)：溶ける、溶かす
+- [heat](/word/heat/)：熱、熱する
+- [melt](/word/melt/)：溶ける、溶かす
 
 <!-- cvid: aid15_bid39 -->

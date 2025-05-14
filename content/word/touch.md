@@ -98,7 +98,7 @@ touchは会話文や指示文で「触れる」「連絡を取る」の意味で
 ## 🤔  contact との違いは？
 
 - **touch**：物理的に「触れる」、または比喩的に「軽く連絡する」
-- **[contact](/word/contact)**：よりフォーマルに「連絡を取る」「接触する」
+- **[contact](/word/contact/)**：よりフォーマルに「連絡を取る」「接触する」
 
 touchはカジュアルで直接的な「触れる」や「連絡する」に使い、contactはビジネスやフォーマルな場面での「連絡」「接触」に使われます。
 
@@ -106,14 +106,14 @@ touchはカジュアルで直接的な「触れる」や「連絡する」に使
 
 ## 🧩 あわせて覚えたい
 
-- [handle](/word/handle)：扱う、処理する
-- [approach](/word/approach)：近づく、取り組む
+- [handle](/word/handle/)：扱う、処理する
+- [approach](/word/approach/)：近づく、取り組む
 
 ---
 
 ## 📖 できればこれも
 
-- [hold](/word/hold)：持つ、握る
-- [press](/word/press)：押す
+- [hold](/word/hold/)：持つ、握る
+- [press](/word/press/)：押す
 
 <!-- cvid: aid33_bid11 -->

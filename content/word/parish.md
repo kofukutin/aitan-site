@@ -97,7 +97,7 @@ TOEICでは、宗教や地域コミュニティに関する説明文や案内文
 ## 🤔  congregation との違いは？
 
 - **parish**：教区やその区域に住む人々、または行政区を指す
-- **[congregation](/word/congregation)**：礼拝などに集まった信者の集団
+- **[congregation](/word/congregation/)**：礼拝などに集まった信者の集団
 
 parishは地理的・組織的な単位を指し、congregationは集まった人々そのものを強調します。
 
@@ -105,14 +105,14 @@ parishは地理的・組織的な単位を指し、congregationは集まった�
 
 ## 🧩 あわせて覚えたい
 
-- [diocese](/word/diocese)：（カトリックなどの）教区、司教区
-- [community](/word/community)：共同体、地域社会
+- [diocese](/word/diocese/)：（カトリックなどの）教区、司教区
+- [community](/word/community/)：共同体、地域社会
 
 ---
 
 ## 📖 できればこれも
 
-- [clergy](/word/clergy)：聖職者
-- [district](/word/district)：地区、区域
+- [clergy](/word/clergy/)：聖職者
+- [district](/word/district/)：地区、区域
 
 <!-- cvid: aid30_bid22 -->

@@ -105,13 +105,13 @@ Decemberは年末や冬のイベント、Januaryは新年や年始の話題で�
 ## 🧩 あわせて覚えたい
 
 - [November](/November)：11月
-- [holiday](/word/holiday)：休日、祝日
+- [holiday](/word/holiday/)：休日、祝日
 
 ---
 
 ## 📖 できればこれも
 
-- [calendar](/word/calendar)：カレンダー、暦
-- [season](/word/season)：季節
+- [calendar](/word/calendar/)：カレンダー、暦
+- [season](/word/season/)：季節
 
 <!-- cvid: aid34_bid16 -->

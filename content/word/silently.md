@@ -97,7 +97,7 @@ He listened silently during the meeting.
 ## 🤔  quietly との違いは？
 
 - **silently**：無言で、音を立てずに（特に「話さない」「沈黙している」ニュアンスが強い）
-- **[quietly](/word/quietly)**：静かに（音量が小さい、控えめな様子）
+- **[quietly](/word/quietly/)**：静かに（音量が小さい、控えめな様子）
 
 「silently」は「声を出さずに」「沈黙して」行動することを強調し、「quietly」は「音が小さい」「控えめ」な様子を表します。
 
@@ -105,14 +105,14 @@ He listened silently during the meeting.
 
 ## 🧩 あわせて覚えたい
 
-- [noiselessly](/word/noiselessly)：音を立てずに
-- [calmly](/word/calmly)：落ち着いて
+- [noiselessly](/word/noiselessly/)：音を立てずに
+- [calmly](/word/calmly/)：落ち着いて
 
 ---
 
 ## 📖 できればこれも
 
-- [loudly](/word/loudly)：大声で
-- [softly](/word/softly)：やさしく、そっと
+- [loudly](/word/loudly/)：大声で
+- [softly](/word/softly/)：やさしく、そっと
 
 <!-- cvid: aid48_bid18 -->

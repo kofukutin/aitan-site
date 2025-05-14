@@ -105,14 +105,14 @@ groundwaterは地下にしみ込んだ水、surface waterは地表に見える�
 
 ## 🧩 あわせて覚えたい
 
-- [aquifer](/word/aquifer)：帯水層（地下水を蓄える地層）
-- [contamination](/word/contamination)：汚染
+- [aquifer](/word/aquifer/)：帯水層（地下水を蓄える地層）
+- [contamination](/word/contamination/)：汚染
 
 ---
 
 ## 📖 できればこれも
 
-- [pollution](/word/pollution)：汚染
-- [resource](/word/resource)：資源
+- [pollution](/word/pollution/)：汚染
+- [resource](/word/resource/)：資源
 
 <!-- cvid: aid24_bid42 -->

@@ -97,7 +97,7 @@ TOEICでは「会社」「事業」「業務」などの意味で頻出し、特
 ## 🤔  company との違いは？
 
 - **business**：事業や商売全般、または会社そのものも指すが、活動や業界の意味も含む
-- **[company](/word/company)**：法人としての「会社」「企業」を明確に指す
+- **[company](/word/company/)**：法人としての「会社」「企業」を明確に指す
 
 businessは「事業活動」や「業界」など幅広く使われ、companyは「組織としての会社」に限定されます。
 
@@ -105,14 +105,14 @@ businessは「事業活動」や「業界」など幅広く使われ、company�
 
 ## 🧩 あわせて覚えたい
 
-- [enterprise](/word/enterprise)：企業、事業体
-- [commerce](/word/commerce)：商業、貿易
+- [enterprise](/word/enterprise/)：企業、事業体
+- [commerce](/word/commerce/)：商業、貿易
 
 ---
 
 ## 📖 できればこれも
 
-- [customer](/word/customer)：顧客
-- [service](/word/service)：サービス、業務
+- [customer](/word/customer/)：顧客
+- [service](/word/service/)：サービス、業務
 
 <!-- cvid: aid48_bid38 -->

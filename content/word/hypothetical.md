@@ -97,7 +97,7 @@ TOEICでは、科学的な説明やビジネスの議論、仮定のケースス
 ## 🤔  theoretical との違いは？
 
 - **hypothetical**：仮定や仮説に基づいた、現実には起きていない状況を指す
-- **[theoretical](/word/theoretical)**：理論上の、理論的な（実際の応用や現実とは限らない）
+- **[theoretical](/word/theoretical/)**：理論上の、理論的な（実際の応用や現実とは限らない）
 
 「hypothetical」は「もし～だったら」という仮定の話に使い、「theoretical」は理論や学問的な枠組みを強調します。
 
@@ -105,14 +105,14 @@ TOEICでは、科学的な説明やビジネスの議論、仮定のケースス
 
 ## 🧩 あわせて覚えたい
 
-- [speculative](/word/speculative)：推測に基づく
-- [assumption](/word/assumption)：仮定、前提
+- [speculative](/word/speculative/)：推測に基づく
+- [assumption](/word/assumption/)：仮定、前提
 
 ---
 
 ## 📖 できればこれも
 
-- [logical](/word/logical)：論理的な
-- [practical](/word/practical)：実用的な
+- [logical](/word/logical/)：論理的な
+- [practical](/word/practical/)：実用的な
 
 <!-- cvid: aid08_bid02 -->

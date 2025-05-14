@@ -97,7 +97,7 @@ TOEICでは企業理念や方針、教育・研修に関する長文で見かけ
 ## 🤔  principle との違いは？
 
 - **philosophy**：物事の根本的な考え方や理念、人生観など広い意味での「哲学」や「方針」
-- **[principle](/word/principle)**：行動や判断の基準となる「原則」「信条」
+- **[principle](/word/principle/)**：行動や判断の基準となる「原則」「信条」
 
 philosophyは全体的な考え方や価値観を指し、principleは具体的な行動指針やルールを表します。
 
@@ -105,14 +105,14 @@ philosophyは全体的な考え方や価値観を指し、principleは具体的�
 
 ## 🧩 あわせて覚えたい
 
-- [theory](/word/theory)：理論、学説
-- [ethics](/word/ethics)：倫理、道徳
+- [theory](/word/theory/)：理論、学説
+- [ethics](/word/ethics/)：倫理、道徳
 
 ---
 
 ## 📖 できればこれも
 
-- [concept](/word/concept)：概念、考え
-- [approach](/word/approach)：取り組み方、アプローチ
+- [concept](/word/concept/)：概念、考え
+- [approach](/word/approach/)：取り組み方、アプローチ
 
 <!-- cvid: aid07_bid24 -->

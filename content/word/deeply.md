@@ -95,7 +95,7 @@ TOEICでは感謝や謝罪、感情の強調表現として会話文やスピー
 ## 🤔  strongly との違いは？
 
 - **deeply**：感情や状態の「深さ」や「心から」のニュアンスを強調
-- **[strongly](/word/strongly)**：意見や主張、影響の「強さ」を強調
+- **[strongly](/word/strongly/)**：意見や主張、影響の「強さ」を強調
 
 「deeply」は心の奥底や感情の深さを表し、「strongly」は力強さや断固とした態度を表すときに使います。
 
@@ -103,14 +103,14 @@ TOEICでは感謝や謝罪、感情の強調表現として会話文やスピー
 
 ## 🧩 あわせて覚えたい
 
-- [profoundly](/word/profoundly)：非常に深く、徹底的に
-- [slightly](/word/slightly)：わずかに、少しだけ
+- [profoundly](/word/profoundly/)：非常に深く、徹底的に
+- [slightly](/word/slightly/)：わずかに、少しだけ
 
 ---
 
 ## 📖 できればこれも
 
-- [highly](/word/highly)：非常に、高度に
-- [greatly](/word/greatly)：大いに、とても
+- [highly](/word/highly/)：非常に、高度に
+- [greatly](/word/greatly/)：大いに、とても
 
 <!-- cvid: aid43_bid38 -->

@@ -97,7 +97,7 @@ TOEICでは環境や社会問題を扱う長文や案内文でよく登場しま
 ## 🤔  reuse との違いは？
 
 - **recycling**：使い終わったものを資源として再加工・再利用すること
-- **[reuse](/word/reuse)**：そのままの形で繰り返し使うこと
+- **[reuse](/word/reuse/)**：そのままの形で繰り返し使うこと
 
 recyclingは一度材料に戻して再利用するのに対し、reuseは形を変えずに再び使う点が異なります。
 
@@ -105,14 +105,14 @@ recyclingは一度材料に戻して再利用するのに対し、reuseは形を
 
 ## 🧩 あわせて覚えたい
 
-- [waste](/word/waste)：廃棄物、ごみ
-- [conservation](/word/conservation)：保護、保存
+- [waste](/word/waste/)：廃棄物、ごみ
+- [conservation](/word/conservation/)：保護、保存
 
 ---
 
 ## 📖 できればこれも
 
-- [environment](/word/environment)：環境
-- [reduce](/word/reduce)：減らす
+- [environment](/word/environment/)：環境
+- [reduce](/word/reduce/)：減らす
 
 <!-- cvid: aid03_bid45 -->

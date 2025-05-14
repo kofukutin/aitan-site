@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、駅や街角の風景に登場する
 ## 🤔  kiosk との違いは？
 
 - **newsstand**：新聞や雑誌など出版物を専門に扱う売店
-- **[kiosk](/word/kiosk)**：飲み物やスナック、雑貨など幅広い商品を扱う小型売店
+- **[kiosk](/word/kiosk/)**：飲み物やスナック、雑貨など幅広い商品を扱う小型売店
 
 newsstandは主に新聞・雑誌を売る場所、kioskはより多目的な売店で、扱う商品が異なります。
 
@@ -105,14 +105,14 @@ newsstandは主に新聞・雑誌を売る場所、kioskはより多目的な売
 
 ## 🧩 あわせて覚えたい
 
-- [stall](/word/stall)：屋台、仮設売店
-- [vendor](/word/vendor)：物売り、販売業者
+- [stall](/word/stall/)：屋台、仮設売店
+- [vendor](/word/vendor/)：物売り、販売業者
 
 ---
 
 ## 📖 できればこれも
 
-- [magazine](/word/magazine)：雑誌
-- [newspaper](/word/newspaper)：新聞
+- [magazine](/word/magazine/)：雑誌
+- [newspaper](/word/newspaper/)：新聞
 
 <!-- cvid: aid36_bid47 -->

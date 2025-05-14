@@ -97,7 +97,7 @@ TOEICでは貿易やビジネス関連の長文やメール、報告書などで
 ## 🤔  export との違いは？
 
 - **import**：他国から商品やサービスを「輸入」すること
-- **[export](/word/export)**：自国から他国へ商品やサービスを「輸出」すること
+- **[export](/word/export/)**：自国から他国へ商品やサービスを「輸出」すること
 
 importは「外から中へ」、exportは「中から外へ」と方向が逆です。貿易の文脈でセットで覚えると便利です。
 
@@ -105,14 +105,14 @@ importは「外から中へ」、exportは「中から外へ」と方向が逆�
 
 ## 🧩 あわせて覚えたい
 
-- [shipment](/word/shipment)：出荷、発送
-- [customs](/word/customs)：税関
+- [shipment](/word/shipment/)：出荷、発送
+- [customs](/word/customs/)：税関
 
 ---
 
 ## 📖 できればこれも
 
-- [invoice](/word/invoice)：請求書
-- [supply](/word/supply)：供給
+- [invoice](/word/invoice/)：請求書
+- [supply](/word/supply/)：供給
 
 <!-- cvid: aid14_bid20 -->

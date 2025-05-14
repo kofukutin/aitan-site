@@ -97,7 +97,7 @@ TOEICでは、職業やスキル、商品説明などで「芸術的な」「美
 ## 🤔  creative との違いは？
 
 - **artistic**：芸術的な分野や美的センスに特化した表現
-- **[creative](/word/creative)**：創造力や新しいアイデアを生み出す力全般
+- **[creative](/word/creative/)**：創造力や新しいアイデアを生み出す力全般
 
 「artistic」は美術や芸術に関する才能や感性を指し、「creative」は芸術に限らず幅広い分野での創造力を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、職業やスキル、商品説明などで「芸術的な」「美
 
 ## 🧩 あわせて覚えたい
 
-- [aesthetic](/word/aesthetic)：美的な、審美的な
-- [talent](/word/talent)：才能、素質
+- [aesthetic](/word/aesthetic/)：美的な、審美的な
+- [talent](/word/talent/)：才能、素質
 
 ---
 
 ## 📖 できればこれも
 
-- [musical](/word/musical)：音楽の、音楽的な
-- [imaginative](/word/imaginative)：想像力に富んだ
+- [musical](/word/musical/)：音楽の、音楽的な
+- [imaginative](/word/imaginative/)：想像力に富んだ
 
 <!-- cvid: aid13_bid07 -->

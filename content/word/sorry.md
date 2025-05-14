@@ -97,7 +97,7 @@ TOEICでは、会話の中で謝罪や軽いお詫びを表すフレーズとし
 ## 🤔  apologize との違いは？
 
 - **sorry**：カジュアルに「ごめん」「すまない」と気軽に使える謝罪表現
-- **[apologize](/word/apologize)**：フォーマルで丁寧な「謝罪する」という動詞
+- **[apologize](/word/apologize/)**：フォーマルで丁寧な「謝罪する」という動詞
 
 sorryは日常会話でよく使われ、apologizeはビジネスや公式な場面で使われます。
 
@@ -105,14 +105,14 @@ sorryは日常会話でよく使われ、apologizeはビジネスや公式な場
 
 ## 🧩 あわせて覚えたい
 
-- [regret](/word/regret)：後悔する、残念に思う
-- [excuse](/word/excuse)：言い訳する、許す
+- [regret](/word/regret/)：後悔する、残念に思う
+- [excuse](/word/excuse/)：言い訳する、許す
 
 ---
 
 ## 📖 できればこれも
 
-- [thank](/word/thank)：感謝する
-- [excited](/word/excited)：わくわくしている
+- [thank](/word/thank/)：感謝する
+- [excited](/word/excited/)：わくわくしている
 
 <!-- cvid: aid03_bid48 -->

@@ -97,7 +97,7 @@ quietは会議やオフィス、公共の場面で「静かさ」を表す語と
 ## 🤔  silent との違いは？
 
 - **quiet**：音や動きが少なく、落ち着いた状態を表す
-- **[silent](/word/silent)**：完全に音がしない、沈黙している状態
+- **[silent](/word/silent/)**：完全に音がしない、沈黙している状態
 
 quietは「静かだが多少の音はある」場合にも使えますが、silentは「全く音がしない」状態を強調します。
 
@@ -105,14 +105,14 @@ quietは「静かだが多少の音はある」場合にも使えますが、sil
 
 ## 🧩 あわせて覚えたい
 
-- [calm](/word/calm)：穏やかな、落ち着いた
-- [peaceful](/word/peaceful)：平和な、静かな
+- [calm](/word/calm/)：穏やかな、落ち着いた
+- [peaceful](/word/peaceful/)：平和な、静かな
 
 ---
 
 ## 📖 できればこれも
 
-- [noisy](/word/noisy)：うるさい
-- [loud](/word/loud)：大きな音の
+- [noisy](/word/noisy/)：うるさい
+- [loud](/word/loud/)：大きな音の
 
 <!-- cvid: aid13_bid36 -->

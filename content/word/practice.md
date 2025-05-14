@@ -97,7 +97,7 @@ TOEICでは「練習」「実践」「慣習」など幅広い意味で出題さ
 ## 🤔  exercise との違いは？
 
 - **practice**：上達や習慣化を目的とした「練習」「実践」
-- **[exercise](/word/exercise)**：特定の課題や運動としての「練習」「練習問題」「運動」
+- **[exercise](/word/exercise/)**：特定の課題や運動としての「練習」「練習問題」「運動」
 
 practiceは「繰り返し行うことで身につける」ニュアンスが強く、exerciseは「個々の課題や運動」として使われることが多いです。
 
@@ -105,14 +105,14 @@ practiceは「繰り返し行うことで身につける」ニュアンスが強
 
 ## 🧩 あわせて覚えたい
 
-- [habit](/word/habit)：習慣
-- [training](/word/training)：訓練
+- [habit](/word/habit/)：習慣
+- [training](/word/training/)：訓練
 
 ---
 
 ## 📖 できればこれも
 
-- [method](/word/method)：方法
-- [skill](/word/skill)：技能
+- [method](/word/method/)：方法
+- [skill](/word/skill/)：技能
 
 <!-- cvid: aid08_bid17 -->

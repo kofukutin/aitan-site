@@ -97,7 +97,7 @@ TOEICでは歴史や国際問題、ビジネスの比喩表現（例：price war
 ## 🤔  conflict との違いは？
 
 - **war**：国や集団同士の大規模な武力による争い
-- **[conflict](/word/conflict)**：意見や利害の対立、衝突（必ずしも武力を伴わない）
+- **[conflict](/word/conflict/)**：意見や利害の対立、衝突（必ずしも武力を伴わない）
 
 warは物理的な戦争を指し、conflictは意見や価値観の対立など幅広い「衝突」を表します。
 
@@ -105,14 +105,14 @@ warは物理的な戦争を指し、conflictは意見や価値観の対立など
 
 ## 🧩 あわせて覚えたい
 
-- [peace](/word/peace)：平和、戦争のない状態
-- [battle](/word/battle)：戦闘、小規模な戦い
+- [peace](/word/peace/)：平和、戦争のない状態
+- [battle](/word/battle/)：戦闘、小規模な戦い
 
 ---
 
 ## 📖 できればこれも
 
-- [enemy](/word/enemy)：敵
-- [army](/word/army)：軍隊
+- [enemy](/word/enemy/)：敵
+- [army](/word/army/)：軍隊
 
 <!-- cvid: aid42_bid41 -->

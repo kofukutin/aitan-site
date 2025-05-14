@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、運動施設や健康に関する場
 ## 🤔  fitness center との違いは？
 
 - **gym**：カジュアルに使われる運動施設やトレーニングジム全般
-- **[fitness center](/word/fitness_center)**：より設備が整った総合的なフィットネス施設
+- **[fitness center](/word/fitness_center/)**：より設備が整った総合的なフィットネス施設
 
 「gym」は気軽な運動施設全般を指し、「fitness center」はプールやスタジオなども備えた本格的な施設を指すことが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写で、運動施設や健康に関する場
 
 ## 🧩 あわせて覚えたい
 
-- [stadium](/word/stadium)：競技場
-- [exercise](/word/exercise)：運動、エクササイズ
+- [stadium](/word/stadium/)：競技場
+- [exercise](/word/exercise/)：運動、エクササイズ
 
 ---
 
 ## 📖 できればこれも
 
-- [pool](/word/pool)：プール
-- [track](/word/track)：陸上トラック
+- [pool](/word/pool/)：プール
+- [track](/word/track/)：陸上トラック
 
 <!-- cvid: aid23_bid43 -->

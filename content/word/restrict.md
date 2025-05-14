@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や規則、ルールに関する文脈で出
 ## 🤔  limit との違いは？
 
 - **restrict**：意図的・公式に範囲や自由を狭める、制限する
-- **[limit](/word/limit)**：上限や範囲を設定して「それ以上にしない」こと
+- **[limit](/word/limit/)**：上限や範囲を設定して「それ以上にしない」こと
 
 restrictはルールや規則などで「制限を加える」ニュアンスが強く、limitは「物理的・数値的な上限を設ける」場合に使われます。
 
@@ -105,14 +105,14 @@ restrictはルールや規則などで「制限を加える」ニュアンスが
 
 ## 🧩 あわせて覚えたい
 
-- [prohibit](/word/prohibit)：禁止する
-- [allow](/word/allow)：許可する
+- [prohibit](/word/prohibit/)：禁止する
+- [allow](/word/allow/)：許可する
 
 ---
 
 ## 📖 できればこれも
 
-- [regulate](/word/regulate)：規制する
-- [control](/word/control)：管理する
+- [regulate](/word/regulate/)：規制する
+- [control](/word/control/)：管理する
 
 <!-- cvid: aid47_bid04 -->

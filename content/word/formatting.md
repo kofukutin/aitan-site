@@ -97,7 +97,7 @@ TOEICでは、メールや報告書の書式や体裁に関する設問で出題
 ## 🤔  layout との違いは？
 
 - **formatting**：書式や体裁を整える作業やその状態
-- **[layout](/word/layout)**：配置や構成そのもの、見た目の並び
+- **[layout](/word/layout/)**：配置や構成そのもの、見た目の並び
 
 formattingは「見た目や体裁を整える行為や方法」、layoutは「要素の配置や構成」を指し、formattingは細部の体裁、layoutは全体の配置に焦点があります。
 
@@ -105,14 +105,14 @@ formattingは「見た目や体裁を整える行為や方法」、layoutは「�
 
 ## 🧩 あわせて覚えたい
 
-- [arrangement](/word/arrangement)：配置、並べ方
-- [structure](/word/structure)：構造、組み立て
+- [arrangement](/word/arrangement/)：配置、並べ方
+- [structure](/word/structure/)：構造、組み立て
 
 ---
 
 ## 📖 できればこれも
 
-- [editing](/word/editing)：編集
-- [template](/word/template)：ひな形、テンプレート
+- [editing](/word/editing/)：編集
+- [template](/word/template/)：ひな形、テンプレート
 
 <!-- cvid: aid32_bid18 -->

@@ -97,7 +97,7 @@ TOEICでは「確保する」「安全にする」という意味で、ビジネ
 ## 🤔  ensure との違いは？
 
 - **secure**：実際に「確保する」「手に入れる」「安全にする」など、行動や結果を強調
-- **[ensure](/word/ensure)**：「必ず～する」「保証する」といった意味で、結果が確実になるようにすることを強調
+- **[ensure](/word/ensure/)**：「必ず～する」「保証する」といった意味で、結果が確実になるようにすることを強調
 
 secureは「実際に手に入れる・守る」行動に重点があり、ensureは「確実にそうなるようにする」保証のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ secureは「実際に手に入れる・守る」行動に重点があり、ensur
 
 ## 🧩 あわせて覚えたい
 
-- [guarantee](/word/guarantee)：保証する、約束する
-- [protect](/word/protect)：守る、防御する
+- [guarantee](/word/guarantee/)：保証する、約束する
+- [protect](/word/protect/)：守る、防御する
 
 ---
 
 ## 📖 できればこれも
 
-- [obtain](/word/obtain)：手に入れる、獲得する
-- [confirm](/word/confirm)：確認する、確かめる
+- [obtain](/word/obtain/)：手に入れる、獲得する
+- [confirm](/word/confirm/)：確認する、確かめる
 
 <!-- cvid: aid34_bid08 -->

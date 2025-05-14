@@ -97,7 +97,7 @@ TOEICでは「～を意味する」「意図する」の意味で、空所補充
 ## 🤔  intend との違いは？
 
 - **mean**：言葉や行動が「何を意味するか」「どんな意図があるか」を表す。
-- **[intend](/word/intend)**：計画や意志として「～するつもり」「意図する」を表す。
+- **[intend](/word/intend/)**：計画や意志として「～するつもり」「意図する」を表す。
 
 「mean」は言葉や行動の意味や意図を説明する時に使い、「intend」は自分の目的や計画を強調したい時に使います。
 
@@ -105,14 +105,14 @@ TOEICでは「～を意味する」「意図する」の意味で、空所補充
 
 ## 🧩 あわせて覚えたい
 
-- [imply](/word/imply)：暗に示す
-- [signify](/word/signify)：意味する、表す
+- [imply](/word/imply/)：暗に示す
+- [signify](/word/signify/)：意味する、表す
 
 ---
 
 ## 📖 できればこれも
 
-- [suggest](/word/suggest)：提案する、示唆する
-- [indicate](/word/indicate)：指し示す、示す
+- [suggest](/word/suggest/)：提案する、示唆する
+- [indicate](/word/indicate/)：指し示す、示す
 
 <!-- cvid: aid10_bid21 -->

@@ -97,7 +97,7 @@ TOEICでは、機械の操作や会社の運営に関する会話や説明でよ
 ## 🤔  manage との違いは？
 
 - **operate**：機械やシステムを「操作する」、会社や事業を「運営する」
-- **[manage](/word/manage)**：人や組織、業務などを「管理する」「うまく扱う」
+- **[manage](/word/manage/)**：人や組織、業務などを「管理する」「うまく扱う」
 
 operateは「動かす・作動させる」ことに重点があり、manageは「管理・統率」するニュアンスが強いです。
 
@@ -105,14 +105,14 @@ operateは「動かす・作動させる」ことに重点があり、manageは�
 
 ## 🧩 あわせて覚えたい
 
-- [control](/word/control)：制御する、管理する
-- [function](/word/function)：機能する、働く
+- [control](/word/control/)：制御する、管理する
+- [function](/word/function/)：機能する、働く
 
 ---
 
 ## 📖 できればこれも
 
-- [handle](/word/handle)：扱う、対処する
-- [run](/word/run)：運営する、経営する
+- [handle](/word/handle/)：扱う、対処する
+- [run](/word/run/)：運営する、経営する
 
 <!-- cvid: aid09_bid44 -->

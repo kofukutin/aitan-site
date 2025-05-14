@@ -97,7 +97,7 @@ TOEICでは、家族や法律に関する長文やEメール、記事などで�
 ## 🤔  separation との違いは？
 
 - **divorce**：法的に婚姻関係を解消する「離婚」
-- **[separation](/word/separation)**：夫婦が別居すること（必ずしも法的な離婚ではない）
+- **[separation](/word/separation/)**：夫婦が別居すること（必ずしも法的な離婚ではない）
 
 divorceは正式な離婚を指し、separationは一時的な別居や関係の分離を意味します。
 
@@ -105,14 +105,14 @@ divorceは正式な離婚を指し、separationは一時的な別居や関係の
 
 ## 🧩 あわせて覚えたい
 
-- [marriage](/word/marriage)：結婚
-- [custody](/word/custody)：（子どもの）親権
+- [marriage](/word/marriage/)：結婚
+- [custody](/word/custody/)：（子どもの）親権
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement)：合意、協定
-- [court](/word/court)：裁判所
+- [agreement](/word/agreement/)：合意、協定
+- [court](/word/court/)：裁判所
 
 <!-- cvid: aid20_bid46 -->

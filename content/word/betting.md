@@ -97,7 +97,7 @@ TOEICでは主に記事や広告文などの長文で、娯楽やサービスの
 ## 🤔  gambling との違いは？
 
 - **betting**：特定のイベントや試合などで賭けをすること
-- **[gambling](/word/gambling)**：賭け全般や運に頼る遊び全体を指す
+- **[gambling](/word/gambling/)**：賭け全般や運に頼る遊び全体を指す
 
 bettingは「賭ける行為」自体に焦点があり、gamblingはより広く「賭博」や「ギャンブル」という娯楽全体を指します。
 
@@ -105,14 +105,14 @@ bettingは「賭ける行為」自体に焦点があり、gamblingはより広�
 
 ## 🧩 あわせて覚えたい
 
-- [wager](/word/wager)：賭け、賭け金
-- [risk](/word/risk)：リスク、危険
+- [wager](/word/wager/)：賭け、賭け金
+- [risk](/word/risk/)：リスク、危険
 
 ---
 
 ## 📖 できればこれも
 
-- [deal](/word/deal)：取引、扱う
-- [chance](/word/chance)：機会、可能性
+- [deal](/word/deal/)：取引、扱う
+- [chance](/word/chance/)：機会、可能性
 
 <!-- cvid: aid48_bid43 -->

@@ -97,7 +97,7 @@ disgustはTOEICの語彙問題で、感情や反応を問う文脈で出題さ�
 ## 🤔  dislike との違いは？
 
 - **disgust**：強い嫌悪感や生理的な不快感を表す
-- **[dislike](/word/dislike)**：単に「好きではない」「好まない」という比較的弱い否定的感情
+- **[dislike](/word/dislike/)**：単に「好きではない」「好まない」という比較的弱い否定的感情
 
 disgustは「ぞっとする」「吐き気がする」ほどの強い嫌悪を表し、dislikeは単なる「好まない」程度の軽い感情です。
 
@@ -105,14 +105,14 @@ disgustは「ぞっとする」「吐き気がする」ほどの強い嫌悪を�
 
 ## 🧩 あわせて覚えたい
 
-- [aversion](/word/aversion)：強い嫌悪、避けたい気持ち
-- [delight](/word/delight)：大きな喜び、歓喜
+- [aversion](/word/aversion/)：強い嫌悪、避けたい気持ち
+- [delight](/word/delight/)：大きな喜び、歓喜
 
 ---
 
 ## 📖 できればこれも
 
-- [offend](/word/offend)：不快にさせる、怒らせる
-- [annoy](/word/annoy)：いらいらさせる、悩ませる
+- [offend](/word/offend/)：不快にさせる、怒らせる
+- [annoy](/word/annoy/)：いらいらさせる、悩ませる
 
 <!-- cvid: aid39_bid20 -->

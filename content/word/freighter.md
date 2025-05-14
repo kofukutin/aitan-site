@@ -97,7 +97,7 @@ TOEICでは貿易や物流に関する長文や説明文で登場することが
 ## 🤔  cargo ship との違いは？
 
 - **freighter**：貨物を運ぶための船や航空機。やや専門的・広義。
-- **[cargo ship](/word/cargo_ship)**：貨物船。特に船舶に限定される表現。
+- **[cargo ship](/word/cargo_ship/)**：貨物船。特に船舶に限定される表現。
 
 freighterは「貨物を運ぶもの」全般を指し、cargo shipは「貨物船」に限定されます。日常会話ではcargo shipの方が具体的です。
 
@@ -105,14 +105,14 @@ freighterは「貨物を運ぶもの」全般を指し、cargo shipは「貨物�
 
 ## 🧩 あわせて覚えたい
 
-- [tanker](/word/tanker)：液体貨物を運ぶタンカー
-- [vessel](/word/vessel)：船舶、器
+- [tanker](/word/tanker/)：液体貨物を運ぶタンカー
+- [vessel](/word/vessel/)：船舶、器
 
 ---
 
 ## 📖 できればこれも
 
-- [shipment](/word/shipment)：発送、出荷
-- [carrier](/word/carrier)：運送業者、運搬人
+- [shipment](/word/shipment/)：発送、出荷
+- [carrier](/word/carrier/)：運送業者、運搬人
 
 <!-- cvid: aid12_bid05 -->

@@ -97,7 +97,7 @@ TOEICでは宗教や歴史、比喩表現を含む長文で登場することが
 ## 🤔  fortune teller との違いは？
 
 - **prophet**：神や超自然的な力からの啓示を伝える預言者
-- **[fortune teller](/word/fortune_teller)**：占いなどで未来を予想する人
+- **[fortune teller](/word/fortune_teller/)**：占いなどで未来を予想する人
 
 prophetは宗教的・歴史的な文脈で使われ、fortune tellerはエンターテイメントや日常的な占い師を指します。
 
@@ -105,14 +105,14 @@ prophetは宗教的・歴史的な文脈で使われ、fortune tellerはエン�
 
 ## 🧩 あわせて覚えたい
 
-- [oracle](/word/oracle)：神託者、神のお告げを伝える人
-- [messenger](/word/messenger)：使者、メッセージを伝える人
+- [oracle](/word/oracle/)：神託者、神のお告げを伝える人
+- [messenger](/word/messenger/)：使者、メッセージを伝える人
 
 ---
 
 ## 📖 できればこれも
 
-- [prediction](/word/prediction)：予言、予測
-- [philosopher](/word/philosopher)：哲学者
+- [prediction](/word/prediction/)：予言、予測
+- [philosopher](/word/philosopher/)：哲学者
 
 <!-- cvid: aid22_bid19 -->

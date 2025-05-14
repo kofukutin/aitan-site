@@ -97,7 +97,7 @@ TOEICでは、契約や労働問題、国際的な紛争解決などの文脈で
 ## 🤔  court との違いは？
 
 - **tribunal**：特定の分野や目的のために設けられた審判機関・裁判所
-- **[court](/word/court)**：一般的な裁判所、司法機関全般
+- **[court](/word/court/)**：一般的な裁判所、司法機関全般
 
 tribunalは専門的・限定的な審判機関を指し、courtはより広く一般的な司法機関を指します。
 
@@ -105,14 +105,14 @@ tribunalは専門的・限定的な審判機関を指し、courtはより広く�
 
 ## 🧩 あわせて覚えたい
 
-- [arbitration](/word/arbitration)：仲裁、第三者による紛争解決
-- [panel](/word/panel)：審査員団、委員会
+- [arbitration](/word/arbitration/)：仲裁、第三者による紛争解決
+- [panel](/word/panel/)：審査員団、委員会
 
 ---
 
 ## 📖 できればこれも
 
-- [verdict](/word/verdict)：評決、判決
-- [hearing](/word/hearing)：審問、公聴会
+- [verdict](/word/verdict/)：評決、判決
+- [hearing](/word/hearing/)：審問、公聴会
 
 <!-- cvid: aid18_bid05 -->

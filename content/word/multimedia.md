@@ -96,7 +96,7 @@ TOEICではITやビジネス関連の長文で、資料やウェブサイトの�
 ## 🤔  interactive との違いは？
 
 - **multimedia**：複数のメディア形式を組み合わせたコンテンツや技術
-- **[interactive](/word/interactive)**：ユーザーが操作できる、双方向性のある
+- **[interactive](/word/interactive/)**：ユーザーが操作できる、双方向性のある
 
 multimediaは情報の種類や表現方法に注目し、interactiveは利用者とのやりとりや操作性に焦点を当てます。
 
@@ -104,14 +104,14 @@ multimediaは情報の種類や表現方法に注目し、interactiveは利用�
 
 ## 🧩 あわせて覚えたい
 
-- [animation](/word/animation)：アニメーション、動画
-- [presentation](/word/presentation)：プレゼンテーション、発表
+- [animation](/word/animation/)：アニメーション、動画
+- [presentation](/word/presentation/)：プレゼンテーション、発表
 
 ---
 
 ## 📖 できればこれも
 
-- [digital](/word/digital)：デジタルの
-- [content](/word/content)：内容、コンテンツ
+- [digital](/word/digital/)：デジタルの
+- [content](/word/content/)：内容、コンテンツ
 
 <!-- cvid: aid39_bid23 -->

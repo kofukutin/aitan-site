@@ -97,7 +97,7 @@ TOEICでは「柔軟な働き方」や「対応力」を問う文脈で名詞と
 ## 🤔  adaptability との違いは？
 
 - **flexibility**：状況や条件に応じて「柔軟に対応できる性質」や「融通の利くこと」
-- **[adaptability](/word/adaptability)**：新しい環境や変化に「適応する能力」
+- **[adaptability](/word/adaptability/)**：新しい環境や変化に「適応する能力」
 
 flexibilityは「その場で曲げたり調整したりできる柔軟さ」、adaptabilityは「新しい状況に慣れていく適応力」という違いがあります。
 
@@ -105,14 +105,14 @@ flexibilityは「その場で曲げたり調整したりできる柔軟さ」、
 
 ## 🧩 あわせて覚えたい
 
-- [rigidity](/word/rigidity)：硬直性、柔軟性のなさ
-- [versatility](/word/versatility)：多才さ、多用途性
+- [rigidity](/word/rigidity/)：硬直性、柔軟性のなさ
+- [versatility](/word/versatility/)：多才さ、多用途性
 
 ---
 
 ## 📖 できればこれも
 
-- [efficiency](/word/efficiency)：効率
-- [opportunity](/word/opportunity)：機会
+- [efficiency](/word/efficiency/)：効率
+- [opportunity](/word/opportunity/)：機会
 
 <!-- cvid: aid22_bid47 -->

@@ -94,7 +94,7 @@ TOEICでは会話や説明文で「どこかで」「どこかに」と場所を
 ## 🤔  anywhere との違いは？
 
 - **somewhere**：どこか（特定しないが、存在する場所を指す）
-- **[anywhere](/word/anywhere)**：どこでも（場所を限定せず、否定文や疑問文でよく使う）
+- **[anywhere](/word/anywhere/)**：どこでも（場所を限定せず、否定文や疑問文でよく使う）
 
 somewhereは「どこかにある」と存在を前提にし、anywhereは「どこでも」「どこにも」と範囲が広いニュアンスです。
 
@@ -102,14 +102,14 @@ somewhereは「どこかにある」と存在を前提にし、anywhereは「ど
 
 ## 🧩 あわせて覚えたい
 
-- [everywhere](/word/everywhere)：どこでも、あらゆる場所で
-- [nowhere](/word/nowhere)：どこにも～ない
+- [everywhere](/word/everywhere/)：どこでも、あらゆる場所で
+- [nowhere](/word/nowhere/)：どこにも～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [sometimes](/word/sometimes)：ときどき
-- [anyone](/word/anyone)：誰でも、誰か
+- [sometimes](/word/sometimes/)：ときどき
+- [anyone](/word/anyone/)：誰でも、誰か
 
 <!-- cvid: aid08_bid08 -->

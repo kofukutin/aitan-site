@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や法務関連の長文で「法的助言」
 ## 🤔  advice との違いは？
 
 - **counsel**：専門的・法的な助言や弁護士そのものを指すフォーマルな語
-- **[advice](/word/advice)**：一般的な助言やアドバイス
+- **[advice](/word/advice/)**：一般的な助言やアドバイス
 
 counselは専門家や法律の場面で使われ、adviceは日常的な助言全般に使われます。
 
@@ -105,14 +105,14 @@ counselは専門家や法律の場面で使われ、adviceは日常的な助言�
 
 ## 🧩 あわせて覚えたい
 
-- [consultation](/word/consultation)：相談、協議
-- [attorney](/word/attorney)：弁護士
+- [consultation](/word/consultation/)：相談、協議
+- [attorney](/word/attorney/)：弁護士
 
 ---
 
 ## 📖 できればこれも
 
-- [consult](/word/consult)：相談する
-- [recommendation](/word/recommendation)：推薦、勧告
+- [consult](/word/consult/)：相談する
+- [recommendation](/word/recommendation/)：推薦、勧告
 
 <!-- cvid: aid33_bid21 -->

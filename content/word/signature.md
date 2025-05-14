@@ -97,7 +97,7 @@ TOEICでは契約書や申請書などの文脈で「署名」を求める設問
 ## 🤔  autograph との違いは？
 
 - **signature**：公式な書類や契約書などに書く「署名」「サイン」
-- **[autograph](/word/autograph)**：有名人などの「サイン」や「自筆サイン」
+- **[autograph](/word/autograph/)**：有名人などの「サイン」や「自筆サイン」
 
 signatureはビジネスや公式な場面で使われ、autographは有名人のファンサービスなどカジュアルな場面で使われます。
 
@@ -105,14 +105,14 @@ signatureはビジネスや公式な場面で使われ、autographは有名人�
 
 ## 🧩 あわせて覚えたい
 
-- [seal](/word/seal)：印鑑、封印
-- [approval](/word/approval)：承認
+- [seal](/word/seal/)：印鑑、封印
+- [approval](/word/approval/)：承認
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document)：書類
-- [contract](/word/contract)：契約
+- [document](/word/document/)：書類
+- [contract](/word/contract/)：契約
 
 <!-- cvid: aid06_bid09 -->

@@ -97,7 +97,7 @@ TOEICでは会話や説明文の中で「searching question（鋭い質問）」
 ## 🤔  seeking との違いは？
 
 - **searching**：本質を見抜こうとする、鋭い、徹底的な（形容詞）
-- **[seeking](/word/seeking)**：何かを積極的に探し求めている（動詞・形容詞的用法）
+- **[seeking](/word/seeking/)**：何かを積極的に探し求めている（動詞・形容詞的用法）
 
 searchingは「鋭い視線・質問・分析」など、深く掘り下げるニュアンスが強いのに対し、seekingは「目的を持って探し求める」行動そのものを指します。
 
@@ -105,14 +105,14 @@ searchingは「鋭い視線・質問・分析」など、深く掘り下げる�
 
 ## 🧩 あわせて覚えたい
 
-- [investigating](/word/investigating)：調査している、調べている
-- [exploring](/word/exploring)：探検している、詳しく調べている
+- [investigating](/word/investigating/)：調査している、調べている
+- [exploring](/word/exploring/)：探検している、詳しく調べている
 
 ---
 
 ## 📖 できればこれも
 
-- [thorough](/word/thorough)：徹底的な
-- [detailed](/word/detailed)：詳細な
+- [thorough](/word/thorough/)：徹底的な
+- [detailed](/word/detailed/)：詳細な
 
 <!-- cvid: aid41_bid42 -->

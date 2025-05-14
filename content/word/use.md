@@ -98,7 +98,7 @@ TOEICではPart 5を中心に、基本動詞として高頻度で出題されま
 ## 🤔  utilize との違いは？
 
 - **use**：一般的に「使う」「利用する」という幅広い意味で日常的に使われる。
-- **[utilize](/word/utilize)**：よりフォーマルで「有効活用する」「役立てる」というニュアンスが強い。
+- **[utilize](/word/utilize/)**：よりフォーマルで「有効活用する」「役立てる」というニュアンスが強い。
 
 「use」は日常的な「使う」、一方「utilize」は特定の目的や効果を意識して「活用する」場合に使われます。
 
@@ -106,14 +106,14 @@ TOEICではPart 5を中心に、基本動詞として高頻度で出題されま
 
 ## 🧩 あわせて覚えたい
 
-- [apply](/word/apply)：適用する、応用する
-- [consume](/word/consume)：消費する
+- [apply](/word/apply/)：適用する、応用する
+- [consume](/word/consume/)：消費する
 
 ---
 
 ## 📖 できればこれも
 
-- [make](/word/make)：作る、行う
-- [operate](/word/operate)：操作する、運営する
+- [make](/word/make/)：作る、行う
+- [operate](/word/operate/)：操作する、運営する
 
 <!-- cvid: aid48_bid11 -->

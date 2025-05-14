@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「心配している」「関係している」
 ## 🤔  worried との違いは？
 
 - **concerned**：やや丁寧で控えめに「心配している」「気にかけている」と表現する
-- **[worried](/word/worried)**：より直接的に「不安でたまらない」「心配で落ち着かない」と強く表現する
+- **[worried](/word/worried/)**：より直接的に「不安でたまらない」「心配で落ち着かない」と強く表現する
 
 concernedはやんわりとした心配や配慮を示すのに対し、worriedは強い不安や心配を表します。
 
@@ -105,14 +105,14 @@ concernedはやんわりとした心配や配慮を示すのに対し、worried�
 
 ## 🧩 あわせて覚えたい
 
-- [anxious](/word/anxious)：不安な、切望して
-- [involved](/word/involved)：関与している、巻き込まれている
+- [anxious](/word/anxious/)：不安な、切望して
+- [involved](/word/involved/)：関与している、巻き込まれている
 
 ---
 
 ## 📖 できればこれも
 
-- [confident](/word/confident)：自信がある
-- [responsible](/word/responsible)：責任がある
+- [confident](/word/confident/)：自信がある
+- [responsible](/word/responsible/)：責任がある
 
 <!-- cvid: aid41_bid06 -->

@@ -97,7 +97,7 @@ TOEICの長文読解パートで、意見や印象、評価を述べる文脈で
 ## 🤔  recognized との違いは？
 
 - **perceived**：主観的な印象や見方、感じ方を表す
-- **[recognized](/word/recognized)**：客観的に認められた、公式に認識された
+- **[recognized](/word/recognized/)**：客観的に認められた、公式に認識された
 
 perceivedは「どう見られているか」という主観的な評価、recognizedは「正式に認められている」という客観的な事実を強調します。
 
@@ -105,14 +105,14 @@ perceivedは「どう見られているか」という主観的な評価、recog
 
 ## 🧩 あわせて覚えたい
 
-- [apparent](/word/apparent)：明らかな、見かけ上の
-- [assumed](/word/assumed)：仮定された、想定された
+- [apparent](/word/apparent/)：明らかな、見かけ上の
+- [assumed](/word/assumed/)：仮定された、想定された
 
 ---
 
 ## 📖 できればこれも
 
-- [perception](/word/perception)：知覚、認識
-- [interpret](/word/interpret)：解釈する
+- [perception](/word/perception/)：知覚、認識
+- [interpret](/word/interpret/)：解釈する
 
 <!-- cvid: aid06_bid14 -->

@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「depending on ～」の形で頻出します�
 ## 🤔  according との違いは？
 
 - **depending**：状況や条件によって結果が変わることを表す
-- **[according](/word/according)**：情報や指示などに「従って」「～によれば」と伝える
+- **[according](/word/according/)**：情報や指示などに「従って」「～によれば」と伝える
 
 dependingは「条件次第」、accordingは「情報源やルールに従う」ときに使います。
 
@@ -105,14 +105,14 @@ dependingは「条件次第」、accordingは「情報源やルールに従う�
 
 ## 🧩 あわせて覚えたい
 
-- [rely](/word/rely)：頼る、依存する
-- [contingent](/word/contingent)：条件次第の、偶発的な
+- [rely](/word/rely/)：頼る、依存する
+- [contingent](/word/contingent/)：条件次第の、偶発的な
 
 ---
 
 ## 📖 できればこれも
 
-- [include](/word/include)：含む
-- [affect](/word/affect)：影響を与える
+- [include](/word/include/)：含む
+- [affect](/word/affect/)：影響を与える
 
 <!-- cvid: aid46_bid38 -->

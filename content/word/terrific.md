@@ -97,7 +97,7 @@ You did a terrific job on the project.
 ## 🤔  wonderful との違いは？
 
 - **terrific**：とても素晴らしい、強い肯定的な感情を表すカジュアルな表現
-- **[wonderful](/word/wonderful)**：素晴らしい、感動や驚きを含むややフォーマルな表現
+- **[wonderful](/word/wonderful/)**：素晴らしい、感動や驚きを含むややフォーマルな表現
 
 「terrific」は日常会話でよく使われ、勢いのある褒め言葉です。「wonderful」は感動や感謝を込めて丁寧に褒めるときに使われます。
 
@@ -105,14 +105,14 @@ You did a terrific job on the project.
 
 ## 🧩 あわせて覚えたい
 
-- [awful](/word/awful)：ひどい、最悪の（terrificの反対語）
-- [excellent](/word/excellent)：優れた、非常に良い
+- [awful](/word/awful/)：ひどい、最悪の（terrificの反対語）
+- [excellent](/word/excellent/)：優れた、非常に良い
 
 ---
 
 ## 📖 できればこれも
 
-- [fantastic](/word/fantastic)：素晴らしい、最高の
-- [amazing](/word/amazing)：驚くほど素晴らしい
+- [fantastic](/word/fantastic/)：素晴らしい、最高の
+- [amazing](/word/amazing/)：驚くほど素晴らしい
 
 <!-- cvid: aid32_bid39 -->

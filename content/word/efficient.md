@@ -97,7 +97,7 @@ TOEICではビジネス文脈で「効率的な方法」「効率的なシステ
 ## 🤔  effective との違いは？
 
 - **efficient**：無駄なく効率的に成果を出す
-- **[effective](/word/effective)**：効果がある、目的を達成できる
+- **[effective](/word/effective/)**：効果がある、目的を達成できる
 
 efficientは「手間や資源を節約して効率よく行う」こと、effectiveは「実際に効果や結果が出る」ことに重点があります。
 
@@ -105,14 +105,14 @@ efficientは「手間や資源を節約して効率よく行う」こと、effec
 
 ## 🧩 あわせて覚えたい
 
-- [productive](/word/productive)：生産的な、成果を生み出す
-- [inefficient](/word/inefficient)：非効率的な
+- [productive](/word/productive/)：生産的な、成果を生み出す
+- [inefficient](/word/inefficient/)：非効率的な
 
 ---
 
 ## 📖 できればこれも
 
-- [sufficient](/word/sufficient)：十分な
-- [accurate](/word/accurate)：正確な
+- [sufficient](/word/sufficient/)：十分な
+- [accurate](/word/accurate/)：正確な
 
 <!-- cvid: aid42_bid41 -->

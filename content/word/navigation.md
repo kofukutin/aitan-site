@@ -97,7 +97,7 @@ TOEICではITやビジネス文書、説明書などで「navigation」がウェ
 ## 🤔  direction との違いは？
 
 - **navigation**：目的地までの案内や進路決定、またはそのシステムや技術を指す。
-- **[direction](/word/direction)**：方向、指示、道順など幅広く「向き」や「指導」の意味で使う。
+- **[direction](/word/direction/)**：方向、指示、道順など幅広く「向き」や「指導」の意味で使う。
 
 navigationは「案内する仕組み」や「航行技術」に特化し、directionは「方向」や「指示」など抽象的な意味も含みます。
 
@@ -105,14 +105,14 @@ navigationは「案内する仕組み」や「航行技術」に特化し、dire
 
 ## 🧩 あわせて覚えたい
 
-- [route](/word/route)：経路、道筋
-- [guidance](/word/guidance)：指導、案内
+- [route](/word/route/)：経路、道筋
+- [guidance](/word/guidance/)：指導、案内
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device)：装置、機器
-- [system](/word/system)：システム、仕組み
+- [device](/word/device/)：装置、機器
+- [system](/word/system/)：システム、仕組み
 
 <!-- cvid: aid43_bid35 -->

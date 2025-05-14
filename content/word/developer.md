@@ -97,7 +97,7 @@ TOEICではITや不動産関連の記事やメールでよく登場します。�
 ## 🤔  engineer との違いは？
 
 - **developer**：新しいものを企画・開発する人や会社
-- **[engineer](/word/engineer)**：設計や技術的な問題解決を専門とする技術者
+- **[engineer](/word/engineer/)**：設計や技術的な問題解決を専門とする技術者
 
 developerは「作り出す人」、engineerは「設計・技術に強い人」という違いがあり、IT分野では役割が分かれます。
 
@@ -105,14 +105,14 @@ developerは「作り出す人」、engineerは「設計・技術に強い人」
 
 ## 🧩 あわせて覚えたい
 
-- [programmer](/word/programmer)：プログラムを書く人
-- [manager](/word/manager)：管理職、マネージャー
+- [programmer](/word/programmer/)：プログラムを書く人
+- [manager](/word/manager/)：管理職、マネージャー
 
 ---
 
 ## 📖 できればこれも
 
-- [designer](/word/designer)：デザインを担当する人
-- [project](/word/project)：計画、プロジェクト
+- [designer](/word/designer/)：デザインを担当する人
+- [project](/word/project/)：計画、プロジェクト
 
 <!-- cvid: aid31_bid13 -->

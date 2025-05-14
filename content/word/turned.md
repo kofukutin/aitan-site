@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「向きを変えた」「状況が変わった
 ## 🤔  changed との違いは？
 
 - **turned**：物理的に向きを変える、または状況が変化することを表す。
-- **[changed](/word/changed)**：内容や性質が変わる、別のものになることを表す。
+- **[changed](/word/changed/)**：内容や性質が変わる、別のものになることを表す。
 
 turnedは「回す」「向きを変える」など動作や状態の変化に使い、changedは「内容や性質が変わる」などより抽象的な変化に使います。
 
@@ -105,14 +105,14 @@ turnedは「回す」「向きを変える」など動作や状態の変化に�
 
 ## 🧩 あわせて覚えたい
 
-- [rotate](/word/rotate)：回転する
-- [switch](/word/switch)：切り替える、交換する
+- [rotate](/word/rotate/)：回転する
+- [switch](/word/switch/)：切り替える、交換する
 
 ---
 
 ## 📖 できればこれも
 
-- [move](/word/move)：動かす、移動する
-- [shift](/word/shift)：移す、変える
+- [move](/word/move/)：動かす、移動する
+- [shift](/word/shift/)：移す、変える
 
 <!-- cvid: aid00_bid04 -->

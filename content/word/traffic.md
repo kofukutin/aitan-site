@@ -98,7 +98,7 @@ TOEICでは、交通状況や移動手段、ウェブサイトのアクセス数
 ## 🤔  transportation との違いは？
 
 - **traffic**：道路上の車や人の「交通」や「通行」そのものを指す
-- **[transportation](/word/transportation)**：人や物を「運ぶ手段・輸送システム」全体を指す
+- **[transportation](/word/transportation/)**：人や物を「運ぶ手段・輸送システム」全体を指す
 
 trafficは「今そこにある交通の流れ」、transportationは「移動手段や輸送方法」として使い分けます。
 
@@ -106,14 +106,14 @@ trafficは「今そこにある交通の流れ」、transportationは「移動�
 
 ## 🧩 あわせて覚えたい
 
-- [congestion](/word/congestion)：混雑、渋滞
-- [route](/word/route)：経路、道筋
+- [congestion](/word/congestion/)：混雑、渋滞
+- [route](/word/route/)：経路、道筋
 
 ---
 
 ## 📖 できればこれも
 
-- [vehicle](/word/vehicle)：車両、乗り物
-- [commute](/word/commute)：通勤する
+- [vehicle](/word/vehicle/)：車両、乗り物
+- [commute](/word/commute/)：通勤する
 
 <!-- cvid: aid38_bid21 -->

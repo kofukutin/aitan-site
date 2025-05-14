@@ -97,7 +97,7 @@ TOEICのPart 7で、説明文や案内文の中で「relating to ～」の形で
 ## 🤔  regarding との違いは？
 
 - **relating**：名詞の前で「～に関する」と形容詞的に使う
-- **[regarding](/word/regarding)**：前置詞として「～に関して」と文頭や文中で使う
+- **[regarding](/word/regarding/)**：前置詞として「～に関して」と文頭や文中で使う
 
 relatingは名詞を修飾する形容詞、regardingは前置詞として文全体や動詞にかかる点が異なります。
 
@@ -105,14 +105,14 @@ relatingは名詞を修飾する形容詞、regardingは前置詞として文全
 
 ## 🧩 あわせて覚えたい
 
-- [concerning](/word/concerning)：～に関して（前置詞）
-- [relevant](/word/relevant)：関連がある、適切な（形容詞）
+- [concerning](/word/concerning/)：～に関して（前置詞）
+- [relevant](/word/relevant/)：関連がある、適切な（形容詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [related](/word/related)：関連した、関係のある（形容詞）
-- [relative](/word/relative)：相対的な、比較上の（形容詞）
+- [related](/word/related/)：関連した、関係のある（形容詞）
+- [relative](/word/relative/)：相対的な、比較上の（形容詞）
 
 <!-- cvid: aid07_bid41 -->

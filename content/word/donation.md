@@ -97,7 +97,7 @@ TOEICでは、寄付の依頼メールやチャリティーイベントの案内
 ## 🤔  contribution との違いは？
 
 - **donation**：主に慈善目的で無償で与える「寄付」「寄贈」
-- **[contribution](/word/contribution)**：寄付だけでなく、意見や労力など幅広い「貢献」「寄与」
+- **[contribution](/word/contribution/)**：寄付だけでなく、意見や労力など幅広い「貢献」「寄与」
 
 donationは「お金や物品を無償で与える」ことに特化し、contributionは「貢献」全般を指します。
 
@@ -105,14 +105,14 @@ donationは「お金や物品を無償で与える」ことに特化し、contri
 
 ## 🧩 あわせて覚えたい
 
-- [grant](/word/grant)：助成金、補助金
-- [charity](/word/charity)：慈善、慈善団体
+- [grant](/word/grant/)：助成金、補助金
+- [charity](/word/charity/)：慈善、慈善団体
 
 ---
 
 ## 📖 できればこれも
 
-- [fund](/word/fund)：資金、基金
-- [sponsor](/word/sponsor)：スポンサー、後援者
+- [fund](/word/fund/)：資金、基金
+- [sponsor](/word/sponsor/)：スポンサー、後援者
 
 <!-- cvid: aid20_bid19 -->

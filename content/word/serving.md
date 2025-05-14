@@ -97,7 +97,7 @@ TOEICではレストランや食事の場面で「1人前」「分量」とし�
 ## 🤔  portion との違いは？
 
 - **serving**：食事や飲み物の「1人前」「1回分」という意味で、実際に提供される分量を指す。
-- **[portion](/word/portion)**：分けられた「部分」「取り分」という意味で、必ずしも1人前とは限らない。
+- **[portion](/word/portion/)**：分けられた「部分」「取り分」という意味で、必ずしも1人前とは限らない。
 
 servingは「1人分」として提供される量、portionは「全体の一部」というニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ servingは「1人分」として提供される量、portionは「全体の一�
 
 ## 🧩 あわせて覚えたい
 
-- [helping](/word/helping)：（食事の）1盛り、1杯
-- [supply](/word/supply)：供給、備蓄
+- [helping](/word/helping/)：（食事の）1盛り、1杯
+- [supply](/word/supply/)：供給、備蓄
 
 ---
 
 ## 📖 できればこれも
 
-- [dish](/word/dish)：料理、皿
-- [meal](/word/meal)：食事
+- [dish](/word/dish/)：料理、皿
+- [meal](/word/meal/)：食事
 
 <!-- cvid: aid47_bid47 -->

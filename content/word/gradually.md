@@ -96,7 +96,7 @@ TOEICでは、変化や推移を説明する文脈で頻出します。特にグ
 ## 🤔  steadily との違いは？
 
 - **gradually**：急激でなく、段階的に少しずつ進む様子
-- **[steadily](/word/steadily)**：着実に、安定して変化や進行が続く様子
+- **[steadily](/word/steadily/)**：着実に、安定して変化や進行が続く様子
 
 graduallyは「変化の速度がゆっくり」であることを強調し、steadilyは「変化が途切れず安定している」ことを強調します。
 
@@ -104,14 +104,14 @@ graduallyは「変化の速度がゆっくり」であることを強調し、st
 
 ## 🧩 あわせて覚えたい
 
-- [slowly](/word/slowly)：ゆっくりと
-- [eventually](/word/eventually)：最終的に
+- [slowly](/word/slowly/)：ゆっくりと
+- [eventually](/word/eventually/)：最終的に
 
 ---
 
 ## 📖 できればこれも
 
-- [rapidly](/word/rapidly)：急速に
-- [slightly](/word/slightly)：わずかに
+- [rapidly](/word/rapidly/)：急速に
+- [slightly](/word/slightly/)：わずかに
 
 <!-- cvid: aid08_bid20 -->

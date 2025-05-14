@@ -97,7 +97,7 @@ TOEICのPart 1（写真描写）で、人が何かを「運んでいる」場面
 ## 🤔  transporting との違いは？
 
 - **carrying**：手や体で直接「運ぶ」「持ち運ぶ」動作を表す
-- **[transporting](/word/transporting)**：車や機械などで「輸送する」「運搬する」意味が強い
+- **[transporting](/word/transporting/)**：車や機械などで「輸送する」「運搬する」意味が強い
 
 carryingは人が直接持って運ぶイメージ、transportingは機械や車両などで大量・長距離を運ぶ場面で使われます。
 
@@ -105,14 +105,14 @@ carryingは人が直接持って運ぶイメージ、transportingは機械や車
 
 ## 🧩 あわせて覚えたい
 
-- [holding](/word/holding)：持っている、握っている
-- [deliver](/word/deliver)：配達する、届ける
+- [holding](/word/holding/)：持っている、握っている
+- [deliver](/word/deliver/)：配達する、届ける
 
 ---
 
 ## 📖 できればこれも
 
-- [lifting](/word/lifting)：持ち上げる
-- [bring](/word/bring)：持ってくる
+- [lifting](/word/lifting/)：持ち上げる
+- [bring](/word/bring/)：持ってくる
 
 <!-- cvid: aid27_bid41 -->

@@ -97,7 +97,7 @@ TOEICでは主にニュース記事や法務関連の長文で登場し、事件
 ## 🤔  attack との違いは？
 
 - **assault**：法的・暴力的な「暴行」「攻撃」を指し、特に人や権利への侵害に使われる。
-- **[attack](/word/attack)**：より広く「攻撃」全般を指し、物理的・言葉・サイバー攻撃など幅広い場面で使う。
+- **[attack](/word/attack/)**：より広く「攻撃」全般を指し、物理的・言葉・サイバー攻撃など幅広い場面で使う。
 
 assaultは法的な意味合いが強く、attackは一般的な「攻撃」や「非難」など幅広い文脈で使われます。
 
@@ -105,14 +105,14 @@ assaultは法的な意味合いが強く、attackは一般的な「攻撃」や�
 
 ## 🧩 あわせて覚えたい
 
-- [battery](/word/battery)：（法的な）暴行、傷害
-- [charge](/word/charge)：告発、罪状
+- [battery](/word/battery/)：（法的な）暴行、傷害
+- [charge](/word/charge/)：告発、罪状
 
 ---
 
 ## 📖 できればこれも
 
-- [evidence](/word/evidence)：証拠
-- [trial](/word/trial)：裁判
+- [evidence](/word/evidence/)：証拠
+- [trial](/word/trial/)：裁判
 
 <!-- cvid: aid02_bid41 -->

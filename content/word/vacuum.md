@@ -97,7 +97,7 @@ TOEICでは科学や技術に関する説明文、またはオフィス用品の
 ## 🤔  void との違いは？
 
 - **vacuum**：物理的に「何もない空間」や「真空」、または「掃除機」を指す。
-- **[void](/word/void)**：物理的な空間だけでなく「空虚」「無効」など抽象的な意味も持つ。
+- **[void](/word/void/)**：物理的な空間だけでなく「空虚」「無効」など抽象的な意味も持つ。
 
 vacuumは主に科学的・物理的な「空っぽ」を表し、voidは感情や法的な「空虚」「無効」など幅広い抽象的な意味で使われます。
 
@@ -105,14 +105,14 @@ vacuumは主に科学的・物理的な「空っぽ」を表し、voidは感情�
 
 ## 🧩 あわせて覚えたい
 
-- [gap](/word/gap)：隙間、隔たり
-- [absence](/word/absence)：不在、欠如
+- [gap](/word/gap/)：隙間、隔たり
+- [absence](/word/absence/)：不在、欠如
 
 ---
 
 ## 📖 できればこれも
 
-- [container](/word/container)：容器
-- [pressure](/word/pressure)：圧力
+- [container](/word/container/)：容器
+- [pressure](/word/pressure/)：圧力
 
 <!-- cvid: aid46_bid03 -->

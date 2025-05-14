@@ -97,7 +97,7 @@ TOEICでは、ビジネスの基本方針や倫理、ルールに関する文脈
 ## 🤔  policy との違いは？
 
 - **principle**：普遍的・道徳的な「原則」や「信条」を指す
-- **[policy](/word/policy)**：組織や個人が定める「方針」や「施策」を指す
+- **[policy](/word/policy/)**：組織や個人が定める「方針」や「施策」を指す
 
 principleは変わらない信念や基準、policyは状況に応じて変わる具体的な方針を表します。
 
@@ -105,14 +105,14 @@ principleは変わらない信念や基準、policyは状況に応じて変わ�
 
 ## 🧩 あわせて覚えたい
 
-- [rule](/word/rule)：規則、ルール
-- [ethics](/word/ethics)：倫理、道徳
+- [rule](/word/rule/)：規則、ルール
+- [ethics](/word/ethics/)：倫理、道徳
 
 ---
 
 ## 📖 できればこれも
 
-- [standard](/word/standard)：基準、標準
-- [method](/word/method)：方法、やり方
+- [standard](/word/standard/)：基準、標準
+- [method](/word/method/)：方法、やり方
 
 <!-- cvid: aid49_bid45 -->

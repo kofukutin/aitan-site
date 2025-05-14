@@ -97,7 +97,7 @@ TOEICでは、会話や説明文で「引く」「引っ張る」という動作
 ## 🤔  drew との違いは？
 
 - **pulled**：物理的に「引っ張る」「引く」動作を表す。
-- **[drew](/word/drew)**：pullと似ているが、「線を引く」「注意を引く」など抽象的な意味も持つ。
+- **[drew](/word/drew/)**：pullと似ているが、「線を引く」「注意を引く」など抽象的な意味も持つ。
 
 pulledは主に物理的な動作、drewは物理的・抽象的どちらにも使える点が異なります。
 
@@ -105,14 +105,14 @@ pulledは主に物理的な動作、drewは物理的・抽象的どちらにも�
 
 ## 🧩 あわせて覚えたい
 
-- [push](/word/push)：押す
-- [drag](/word/drag)：（力を入れて）引きずる
+- [push](/word/push/)：押す
+- [drag](/word/drag/)：（力を入れて）引きずる
 
 ---
 
 ## 📖 できればこれも
 
-- [lift](/word/lift)：持ち上げる
-- [carry](/word/carry)：運ぶ
+- [lift](/word/lift/)：持ち上げる
+- [carry](/word/carry/)：運ぶ
 
 <!-- cvid: aid21_bid22 -->

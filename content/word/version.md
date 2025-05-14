@@ -96,7 +96,7 @@ TOEICでは主にITやビジネス文書、製品案内などで「バージョ�
 ## 🤔  edition との違いは？
 
 - **version**：あるものの異なる型や改訂された形、特にソフトや製品の「バージョン」
-- **[edition](/word/edition)**：書籍や雑誌などの「版」「刷り」
+- **[edition](/word/edition/)**：書籍や雑誌などの「版」「刷り」
 
 versionは主にソフトウェアや製品の改訂・型に使い、editionは出版物の「第○版」などに使います。
 
@@ -104,14 +104,14 @@ versionは主にソフトウェアや製品の改訂・型に使い、editionは
 
 ## 🧩 あわせて覚えたい
 
-- [update](/word/update)：更新、アップデート
-- [variant](/word/variant)：変種、バリエーション
+- [update](/word/update/)：更新、アップデート
+- [variant](/word/variant/)：変種、バリエーション
 
 ---
 
 ## 📖 できればこれも
 
-- [feature](/word/feature)：特徴、機能
-- [option](/word/option)：選択肢、オプション
+- [feature](/word/feature/)：特徴、機能
+- [option](/word/option/)：選択肢、オプション
 
 <!-- cvid: aid42_bid26 -->

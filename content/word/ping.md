@@ -97,7 +97,7 @@ ITやネットワーク関連の長文やメール文面で見かけることが
 ## 🤔  check との違いは？
 
 - **ping**：IT分野では「信号を送って応答を確認する」、カジュアルには「軽く連絡する」
-- **[check](/word/check)**：一般的に「確認する」「調べる」
+- **[check](/word/check/)**：一般的に「確認する」「調べる」
 
 pingはITやメッセージ送信など「アクションを起こす」ニュアンスが強く、checkは「状態や内容を確認する」意味で使われます。
 
@@ -105,14 +105,14 @@ pingはITやメッセージ送信など「アクションを起こす」ニュ�
 
 ## 🧩 あわせて覚えたい
 
-- [notify](/word/notify)：通知する、知らせる
-- [test](/word/test)：テストする、試す
+- [notify](/word/notify/)：通知する、知らせる
+- [test](/word/test/)：テストする、試す
 
 ---
 
 ## 📖 できればこれも
 
-- [connect](/word/connect)：接続する
-- [respond](/word/respond)：応答する
+- [connect](/word/connect/)：接続する
+- [respond](/word/respond/)：応答する
 
 <!-- cvid: aid19_bid22 -->

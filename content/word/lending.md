@@ -97,7 +97,7 @@ The bank tightened its lending criteria last year.
 ## 🤔  loan との違いは？
 
 - **lending**：貸し付けという「行為」や「プロセス」に焦点
-- **[loan](/word/loan)**：貸し付けられた「お金」や「物」そのもの
+- **[loan](/word/loan/)**：貸し付けられた「お金」や「物」そのもの
 
 lendingは「貸すこと」という動作や仕組みを指し、loanは「貸されたもの」や「借金」自体を指します。
 
@@ -105,14 +105,14 @@ lendingは「貸すこと」という動作や仕組みを指し、loanは「貸
 
 ## 🧩 あわせて覚えたい
 
-- [borrowing](/word/borrowing)：借りること、借用
-- [credit](/word/credit)：信用、与信
+- [borrowing](/word/borrowing/)：借りること、借用
+- [credit](/word/credit/)：信用、与信
 
 ---
 
 ## 📖 できればこれも
 
-- [deposit](/word/deposit)：預金、預け入れ
-- [interest](/word/interest)：利息
+- [deposit](/word/deposit/)：預金、預け入れ
+- [interest](/word/interest/)：利息
 
 <!-- cvid: aid21_bid27 -->

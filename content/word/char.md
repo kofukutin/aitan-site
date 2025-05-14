@@ -97,7 +97,7 @@ TOEICでは科学や技術系の文脈で、素材や現象の説明として出
 ## 🤔  burn との違いは？
 
 - **char**：高温で黒く焦がす、炭化させる
-- **[burn](/word/burn)**：燃やす、焼く（一般的な「燃える」全般）
+- **[burn](/word/burn/)**：燃やす、焼く（一般的な「燃える」全般）
 
 charは「表面が黒くなる」「炭になる」ニュアンスが強く、burnは「燃える・焼ける」全般に使います。
 
@@ -105,14 +105,14 @@ charは「表面が黒くなる」「炭になる」ニュアンスが強く、b
 
 ## 🧩 あわせて覚えたい
 
-- [scorch](/word/scorch)：表面を焦がす
-- [carbonize](/word/carbonize)：炭化させる
+- [scorch](/word/scorch/)：表面を焦がす
+- [carbonize](/word/carbonize/)：炭化させる
 
 ---
 
 ## 📖 できればこれも
 
-- [melt](/word/melt)：溶かす
-- [ignite](/word/ignite)：点火する
+- [melt](/word/melt/)：溶かす
+- [ignite](/word/ignite/)：点火する
 
 <!-- cvid: aid14_bid00 -->

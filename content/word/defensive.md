@@ -97,7 +97,7 @@ TOEICでは会議やビジネスのやりとりで、誰かが批判や指摘に
 ## 🤔  protective との違いは？
 
 - **defensive**：攻撃や批判から自分を守ろうとする、防御的な態度や姿勢
-- **[protective](/word/protective)**：他人や物を守るための、保護的な
+- **[protective](/word/protective/)**：他人や物を守るための、保護的な
 
 defensiveは「自分自身を守る」ニュアンスが強く、protectiveは「他者や物を守る」意味で使われます。
 
@@ -105,14 +105,14 @@ defensiveは「自分自身を守る」ニュアンスが強く、protectiveは�
 
 ## 🧩 あわせて覚えたい
 
-- [offensive](/word/offensive)：攻撃的な
-- [resistant](/word/resistant)：抵抗力のある
+- [offensive](/word/offensive/)：攻撃的な
+- [resistant](/word/resistant/)：抵抗力のある
 
 ---
 
 ## 📖 できればこれも
 
-- [aggressive](/word/aggressive)：積極的な、攻撃的な
-- [cautious](/word/cautious)：用心深い
+- [aggressive](/word/aggressive/)：積極的な、攻撃的な
+- [cautious](/word/cautious/)：用心深い
 
 <!-- cvid: aid17_bid16 -->

@@ -97,7 +97,7 @@ shootingはTOEICの会話や説明パートで「撮影」や「発砲事件」�
 ## 🤔  firing との違いは？
 
 - **shooting**：銃を撃つ行為や発砲事件、または写真・映像の撮影を指す。
-- **[firing](/word/firing)**：主に「発砲」や「解雇」を意味し、shootingよりも「撃つ動作」や「人を辞めさせる」意味が強い。
+- **[firing](/word/firing/)**：主に「発砲」や「解雇」を意味し、shootingよりも「撃つ動作」や「人を辞めさせる」意味が強い。
 
 shootingは「出来事」や「行為」として幅広く使われ、firingは「発射」や「解雇」など限定的な場面で使われます。
 
@@ -105,14 +105,14 @@ shootingは「出来事」や「行為」として幅広く使われ、firingは
 
 ## 🧩 あわせて覚えたい
 
-- [photography](/word/photography)：写真撮影
-- [incident](/word/incident)：出来事、事件
+- [photography](/word/photography/)：写真撮影
+- [incident](/word/incident/)：出来事、事件
 
 ---
 
 ## 📖 できればこれも
 
-- [meeting](/word/meeting)：会議
-- [training](/word/training)：訓練、研修
+- [meeting](/word/meeting/)：会議
+- [training](/word/training/)：訓練、研修
 
 <!-- cvid: aid14_bid29 -->

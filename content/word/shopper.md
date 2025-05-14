@@ -97,7 +97,7 @@ TOEICでは広告や案内文、Eメールなどの長文で「買い物客」�
 ## 🤔  customer との違いは？
 
 - **shopper**：買い物をしている人、商品を見て回る人
-- **[customer](/word/customer)**：商品やサービスを実際に購入した人
+- **[customer](/word/customer/)**：商品やサービスを実際に購入した人
 
 「shopper」は買い物中の人や見て回る人も含みますが、「customer」は実際に購入した人を指します。
 
@@ -105,14 +105,14 @@ TOEICでは広告や案内文、Eメールなどの長文で「買い物客」�
 
 ## 🧩 あわせて覚えたい
 
-- [client](/word/client)：（主にサービス業の）顧客
-- [consumer](/word/consumer)：消費者（商品やサービスを使う人）
+- [client](/word/client/)：（主にサービス業の）顧客
+- [consumer](/word/consumer/)：消費者（商品やサービスを使う人）
 
 ---
 
 ## 📖 できればこれも
 
-- [buyer](/word/buyer)：買い手、購入者
-- [vendor](/word/vendor)：売り手、販売業者
+- [buyer](/word/buyer/)：買い手、購入者
+- [vendor](/word/vendor/)：売り手、販売業者
 
 <!-- cvid: aid39_bid29 -->

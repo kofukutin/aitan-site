@@ -97,7 +97,7 @@ TOEICでは主に科学的な説明やビジネス文書の中で「再現する
 ## 🤔  duplicated との違いは？
 
 - **reproduced**：元のものを再現・複製する、または生物が繁殖する場合にも使う
-- **[duplicated](/word/duplicated)**：主に「まったく同じものをコピーする」ことに限定される
+- **[duplicated](/word/duplicated/)**：主に「まったく同じものをコピーする」ことに限定される
 
 reproducedは「再現」や「繁殖」など幅広い意味で使われ、duplicatedは「コピー」に特化しています。
 
@@ -105,14 +105,14 @@ reproducedは「再現」や「繁殖」など幅広い意味で使われ、dupl
 
 ## 🧩 あわせて覚えたい
 
-- [copy](/word/copy)：コピーする、写す
-- [replicate](/word/replicate)：（実験などを）再現する、複製する
+- [copy](/word/copy/)：コピーする、写す
+- [replicate](/word/replicate/)：（実験などを）再現する、複製する
 
 ---
 
 ## 📖 できればこれも
 
-- [generate](/word/generate)：生み出す、発生させる
-- [restore](/word/restore)：元に戻す、修復する
+- [generate](/word/generate/)：生み出す、発生させる
+- [restore](/word/restore/)：元に戻す、修復する
 
 <!-- cvid: aid03_bid25 -->

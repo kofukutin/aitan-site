@@ -97,7 +97,7 @@ TOEICでは、図や設計、計画の説明文やメール文中で「sketch」
 ## 🤔  draft との違いは？
 
 - **sketch**：主に絵や図の「下書き」「ラフなイメージ」を指す
-- **[draft](/word/draft)**：文章や設計図などの「草稿」「下書き」を指す
+- **[draft](/word/draft/)**：文章や設計図などの「草稿」「下書き」を指す
 
 sketchは視覚的なイメージや図に使われ、draftは文章や計画書など文書的な下書きに使われます。
 
@@ -105,14 +105,14 @@ sketchは視覚的なイメージや図に使われ、draftは文章や計画書
 
 ## 🧩 あわせて覚えたい
 
-- [outline](/word/outline)：概要、要点
-- [diagram](/word/diagram)：図、図解
+- [outline](/word/outline/)：概要、要点
+- [diagram](/word/diagram/)：図、図解
 
 ---
 
 ## 📖 できればこれも
 
-- [plan](/word/plan)：計画、案
-- [design](/word/design)：設計、デザイン
+- [plan](/word/plan/)：計画、案
+- [design](/word/design/)：設計、デザイン
 
 <!-- cvid: aid03_bid46 -->

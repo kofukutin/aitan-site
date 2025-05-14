@@ -97,7 +97,7 @@ TOEICでは顧客満足や従業員満足など、ビジネス文書やアンケ
 ## 🤔  fulfillment との違いは？
 
 - **satisfaction**：期待や要求が満たされたときの「満足感」や「納得」
-- **[fulfillment](/word/fulfillment)**：目標達成や自己実現など、より深い「充実感」や「成就」
+- **[fulfillment](/word/fulfillment/)**：目標達成や自己実現など、より深い「充実感」や「成就」
 
 satisfactionは日常的な満足や納得に使われ、fulfillmentは人生の目標や夢の実現など、より大きな達成感に使われます。
 
@@ -105,14 +105,14 @@ satisfactionは日常的な満足や納得に使われ、fulfillmentは人生の
 
 ## 🧩 あわせて覚えたい
 
-- [dissatisfaction](/word/dissatisfaction)：不満
-- [pleasure](/word/pleasure)：喜び、楽しみ
+- [dissatisfaction](/word/dissatisfaction/)：不満
+- [pleasure](/word/pleasure/)：喜び、楽しみ
 
 ---
 
 ## 📖 できればこれも
 
-- [complaint](/word/complaint)：苦情
-- [approval](/word/approval)：承認
+- [complaint](/word/complaint/)：苦情
+- [approval](/word/approval/)：承認
 
 <!-- cvid: aid44_bid16 -->

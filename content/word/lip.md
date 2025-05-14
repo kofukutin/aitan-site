@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人の顔や表情を説明する際
 ## 🤔  mouth との違いは？
 
 - **lip**：口の外側にある「唇」そのものを指す
-- **[mouth](/word/mouth)**：口全体（唇・歯・舌などを含む部分）を指す
+- **[mouth](/word/mouth/)**：口全体（唇・歯・舌などを含む部分）を指す
 
 「lip」は唇だけを限定的に指し、「mouth」は口全体を表します。たとえば「口紅を塗る」はlip、「口を開ける」はmouthを使います。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写で、人の顔や表情を説明する際
 
 ## 🧩 あわせて覚えたい
 
-- [cheek](/word/cheek)：ほお、頬
-- [tongue](/word/tongue)：舌
+- [cheek](/word/cheek/)：ほお、頬
+- [tongue](/word/tongue/)：舌
 
 ---
 
 ## 📖 できればこれも
 
-- [nose](/word/nose)：鼻
-- [chin](/word/chin)：あご
+- [nose](/word/nose/)：鼻
+- [chin](/word/chin/)：あご
 
 <!-- cvid: aid05_bid48 -->

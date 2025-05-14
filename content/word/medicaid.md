@@ -96,7 +96,7 @@ TOEICでは医療や社会福祉に関する長文や案内文で登場するこ
 ## 🤔  medicare との違いは？
 
 - **medicaid**：アメリカの低所得者や障害者向けの公的医療保険制度
-- **[medicare](/word/medicare)**：アメリカの高齢者や特定の障害者向けの公的医療保険制度
+- **[medicare](/word/medicare/)**：アメリカの高齢者や特定の障害者向けの公的医療保険制度
 
 medicaidは主に所得の低い人のため、medicareは65歳以上や特定障害者のための制度です。
 
@@ -104,14 +104,14 @@ medicaidは主に所得の低い人のため、medicareは65歳以上や特定�
 
 ## 🧩 あわせて覚えたい
 
-- [insurance](/word/insurance)：保険
-- [welfare](/word/welfare)：福祉
+- [insurance](/word/insurance/)：保険
+- [welfare](/word/welfare/)：福祉
 
 ---
 
 ## 📖 できればこれも
 
-- [prescription](/word/prescription)：処方箋
-- [coverage](/word/coverage)：補償範囲
+- [prescription](/word/prescription/)：処方箋
+- [coverage](/word/coverage/)：補償範囲
 
 <!-- cvid: aid31_bid36 -->

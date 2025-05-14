@@ -97,7 +97,7 @@ TOEICでは、メールやレポート、案内文などの長文中で「翻訳
 ## 🤔  interpret との違いは？
 
 - **translate**：主に言語を別の言語に「翻訳する」こと。
-- **[interpret](/word/interpret)**：言葉や行動の「意味を解釈する」こと、または口頭で通訳すること。
+- **[interpret](/word/interpret/)**：言葉や行動の「意味を解釈する」こと、または口頭で通訳すること。
 
 translateは「言語の変換」に焦点があり、interpretは「意味の解釈」や「通訳」に使われます。
 
@@ -105,14 +105,14 @@ translateは「言語の変換」に焦点があり、interpretは「意味の�
 
 ## 🧩 あわせて覚えたい
 
-- [convert](/word/convert)：変換する、転換する
-- [paraphrase](/word/paraphrase)：言い換える、別の言葉で表現する
+- [convert](/word/convert/)：変換する、転換する
+- [paraphrase](/word/paraphrase/)：言い換える、別の言葉で表現する
 
 ---
 
 ## 📖 できればこれも
 
-- [explain](/word/explain)：説明する
-- [summarize](/word/summarize)：要約する
+- [explain](/word/explain/)：説明する
+- [summarize](/word/summarize/)：要約する
 
 <!-- cvid: aid43_bid10 -->

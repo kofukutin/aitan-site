@@ -93,7 +93,7 @@ TOEICでは、文法や語法の穴埋め問題で「except」がよく出題さ
 ## 🤔  besides との違いは？
 
 - **except**：～を除いて（除外する意味）
-- **[besides](/word/besides)**：～に加えて（追加する意味）
+- **[besides](/word/besides/)**：～に加えて（追加する意味）
 
 「except」は何かを除外する時に使い、「besides」は何かを追加する時に使います。
 
@@ -101,14 +101,14 @@ TOEICでは、文法や語法の穴埋め問題で「except」がよく出題さ
 
 ## 🧩 あわせて覚えたい
 
-- [without](/word/without)：～なしで
-- [apart from](/word/apart_from)：～を除いて、～のほかに
+- [without](/word/without/)：～なしで
+- [apart from](/word/apart_from/)：～を除いて、～のほかに
 
 ---
 
 ## 📖 できればこれも
 
-- [during](/word/during)：～の間に
-- [until](/word/until)：～まで（ずっと）
+- [during](/word/during/)：～の間に
+- [until](/word/until/)：～まで（ずっと）
 
 <!-- cvid: aid47_bid16 -->

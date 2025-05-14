@@ -97,7 +97,7 @@ TOEICでは、科学やビジネス文書、契約書などの長文中で「複
 ## 🤔  duplication との違いは？
 
 - **reproduction**：元のものを再現・再生・複製することや、生物の繁殖を指す。
-- **[duplication](/word/duplication)**：主に「まったく同じものを二重にする」こと、コピーや写しの意味が強い。
+- **[duplication](/word/duplication/)**：主に「まったく同じものを二重にする」こと、コピーや写しの意味が強い。
 
 reproductionは「再現」や「繁殖」など幅広い意味を持ち、芸術や生物学でも使われますが、duplicationは「コピー」や「重複」に限定される傾向があります。
 
@@ -105,14 +105,14 @@ reproductionは「再現」や「繁殖」など幅広い意味を持ち、芸�
 
 ## 🧩 あわせて覚えたい
 
-- [replication](/word/replication)：（実験などの）再現、複製
-- [imitation](/word/imitation)：模倣、まね
+- [replication](/word/replication/)：（実験などの）再現、複製
+- [imitation](/word/imitation/)：模倣、まね
 
 ---
 
 ## 📖 できればこれも
 
-- [generation](/word/generation)：世代、発生
-- [production](/word/production)：生産、製造
+- [generation](/word/generation/)：世代、発生
+- [production](/word/production/)：生産、製造
 
 <!-- cvid: aid02_bid47 -->

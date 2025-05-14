@@ -97,7 +97,7 @@ TOEICでは科学や医療、研究に関する長文や記事で見かけるこ
 ## 🤔  organic との違いは？
 
 - **biological**：生物学や生命現象に関する、科学的・学術的な文脈で使う
-- **[organic](/word/organic)**：有機的な、または有機栽培の、化学的に「炭素を含む」ものや「自然由来」の意味で使う
+- **[organic](/word/organic/)**：有機的な、または有機栽培の、化学的に「炭素を含む」ものや「自然由来」の意味で使う
 
 **biological**は生物学や生命現象に焦点を当てるのに対し、**organic**は「有機物」や「自然由来」「有機栽培」など化学や食品分野で使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは科学や医療、研究に関する長文や記事で見かけるこ
 
 ## 🧩 あわせて覚えたい
 
-- [chemical](/word/chemical)：化学の、化学物質
-- [genetic](/word/genetic)：遺伝の、遺伝子の
+- [chemical](/word/chemical/)：化学の、化学物質
+- [genetic](/word/genetic/)：遺伝の、遺伝子の
 
 ---
 
 ## 📖 できればこれも
 
-- [physical](/word/physical)：物理的な、身体の
-- [natural](/word/natural)：自然の、自然な
+- [physical](/word/physical/)：物理的な、身体の
+- [natural](/word/natural/)：自然の、自然な
 
 <!-- cvid: aid18_bid25 -->

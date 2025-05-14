@@ -97,7 +97,7 @@ TOEICでは求人広告や健康診断、イベント案内などで「選考」
 ## 🤔  examination との違いは？
 
 - **screening**：ふるい分けや初期段階の選考・検査に使うことが多い
-- **[examination](/word/examination)**：詳細な調査や本格的な試験・検査を指す
+- **[examination](/word/examination/)**：詳細な調査や本格的な試験・検査を指す
 
 screeningは「ざっとふるいにかける」イメージ、examinationは「詳しく調べる」イメージで使い分けます。
 
@@ -105,14 +105,14 @@ screeningは「ざっとふるいにかける」イメージ、examinationは「
 
 ## 🧩 あわせて覚えたい
 
-- [assessment](/word/assessment)：評価、査定
-- [filter](/word/filter)：フィルター、ふるい分け
+- [assessment](/word/assessment/)：評価、査定
+- [filter](/word/filter/)：フィルター、ふるい分け
 
 ---
 
 ## 📖 できればこれも
 
-- [interview](/word/interview)：面接
-- [evaluation](/word/evaluation)：評価
+- [interview](/word/interview/)：面接
+- [evaluation](/word/evaluation/)：評価
 
 <!-- cvid: aid31_bid28 -->

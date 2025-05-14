@@ -97,7 +97,7 @@ TOEICでは、荷物や商品の重さ、体重、比喩的な「重み」など
 ## 🤔  mass との違いは？
 
 - **weight**：重力の影響を受けた「重さ」や「体重」を表す
-- **[mass](/word/mass)**：物体そのものの「質量」（重力に関係なく変わらない量）
+- **[mass](/word/mass/)**：物体そのものの「質量」（重力に関係なく変わらない量）
 
 weightは地球や月など重力のある場所で変化しますが、massはどこでも変わりません。理科や物理の文脈で特に区別されます。
 
@@ -105,14 +105,14 @@ weightは地球や月など重力のある場所で変化しますが、massは�
 
 ## 🧩 あわせて覚えたい
 
-- [load](/word/load)：荷物、積み荷
-- [burden](/word/burden)：負担、重荷
+- [load](/word/load/)：荷物、積み荷
+- [burden](/word/burden/)：負担、重荷
 
 ---
 
 ## 📖 できればこれも
 
-- [height](/word/height)：高さ
-- [scale](/word/scale)：はかり、規模
+- [height](/word/height/)：高さ
+- [scale](/word/scale/)：はかり、規模
 
 <!-- cvid: aid25_bid49 -->

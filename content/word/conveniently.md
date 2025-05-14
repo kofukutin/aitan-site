@@ -97,7 +97,7 @@ TOEICでは、場所やサービスの「便利さ」や「アクセスの良さ
 ## 🤔  comfortably との違いは？
 
 - **conveniently**：便利に、都合よく（利用やアクセスがしやすいことを強調）
-- **[comfortably](/word/comfortably)**：快適に、心地よく（居心地や気分の良さを強調）
+- **[comfortably](/word/comfortably/)**：快適に、心地よく（居心地や気分の良さを強調）
 
 「conveniently」は利便性やアクセスの良さ、「comfortably」は快適さや心地よさを表すため、使う場面や強調点が異なります。
 
@@ -105,14 +105,14 @@ TOEICでは、場所やサービスの「便利さ」や「アクセスの良さ
 
 ## 🧩 あわせて覚えたい
 
-- [efficiently](/word/efficiently)：効率的に
-- [accessibly](/word/accessibly)：アクセスしやすく
+- [efficiently](/word/efficiently/)：効率的に
+- [accessibly](/word/accessibly/)：アクセスしやすく
 
 ---
 
 ## 📖 できればこれも
 
-- [easily](/word/easily)：簡単に
-- [quickly](/word/quickly)：素早く
+- [easily](/word/easily/)：簡単に
+- [quickly](/word/quickly/)：素早く
 
 <!-- cvid: aid29_bid31 -->

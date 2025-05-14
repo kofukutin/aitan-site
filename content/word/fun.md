@@ -97,7 +97,7 @@ TOEICでは会話文やイベント紹介などで「楽しみ」「おもしろ
 ## 🤔  funny との違いは？
 
 - **fun**：楽しみやおもしろさ（名詞）、楽しい（形容詞的にも使われる）
-- **[funny](/word/funny)**：おもしろい、滑稽な（形容詞）
+- **[funny](/word/funny/)**：おもしろい、滑稽な（形容詞）
 
 「fun」は「楽しい体験」や「楽しみ」を指し、「funny」は「笑える」「おかしい」という意味で使われます。たとえば、ジョークは「funny」、遊園地は「fun」となります。
 
@@ -105,14 +105,14 @@ TOEICでは会話文やイベント紹介などで「楽しみ」「おもしろ
 
 ## 🧩 あわせて覚えたい
 
-- [enjoyment](/word/enjoyment)：楽しみ、満足感
-- [pleasure](/word/pleasure)：喜び、楽しみ
+- [enjoyment](/word/enjoyment/)：楽しみ、満足感
+- [pleasure](/word/pleasure/)：喜び、楽しみ
 
 ---
 
 ## 📖 できればこれも
 
-- [enjoy](/word/enjoy)：楽しむ
-- [happy](/word/happy)：幸せな、うれしい
+- [enjoy](/word/enjoy/)：楽しむ
+- [happy](/word/happy/)：幸せな、うれしい
 
 <!-- cvid: aid42_bid20 -->

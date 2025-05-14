@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やメール、報告書などの長文読解
 ## 🤔  examine との違いは？
 
 - **investigate**：事実や原因を徹底的に調査・捜査する
-- **[examine](/word/examine)**：物や内容を詳しく調べる、検査する
+- **[examine](/word/examine/)**：物や内容を詳しく調べる、検査する
 
 investigateは「事件や問題の真相を明らかにするための調査」、examineは「物や人、内容を詳しく見る・調べる」というニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ investigateは「事件や問題の真相を明らかにするための調査」
 
 ## 🧩 あわせて覚えたい
 
-- [inspect](/word/inspect)：点検する、検査する
-- [research](/word/research)：研究する、調査する
+- [inspect](/word/inspect/)：点検する、検査する
+- [research](/word/research/)：研究する、調査する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze)：分析する
-- [explore](/word/explore)：探検する、探る
+- [analyze](/word/analyze/)：分析する
+- [explore](/word/explore/)：探検する、探る
 
 <!-- cvid: aid36_bid11 -->

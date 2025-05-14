@@ -97,7 +97,7 @@ TOEICでは「solving a problem」や「solving issues」など、問題解決�
 ## 🤔  resolving との違いは？
 
 - **solving**：問題や課題を「解く」「答えを出す」ことに重点
-- **[resolving](/word/resolving)**：対立やトラブルなどを「解決して収める」ことに重点
+- **[resolving](/word/resolving/)**：対立やトラブルなどを「解決して収める」ことに重点
 
 solvingは数学やパズルなど「答えを見つける」場面で使い、resolvingは人間関係や紛争など「もめごとを収める」場面で使います。
 
@@ -105,14 +105,14 @@ solvingは数学やパズルなど「答えを見つける」場面で使い、r
 
 ## 🧩 あわせて覚えたい
 
-- [fix](/word/fix)：修理する、直す
-- [address](/word/address)：（問題に）対処する
+- [fix](/word/fix/)：修理する、直す
+- [address](/word/address/)：（問題に）対処する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze)：分析する
-- [improve](/word/improve)：改善する
+- [analyze](/word/analyze/)：分析する
+- [improve](/word/improve/)：改善する
 
 <!-- cvid: aid09_bid13 -->

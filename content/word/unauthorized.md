@@ -97,7 +97,7 @@ TOEICでは、ITやセキュリティ、社内規則に関する長文やメー�
 ## 🤔  illegal との違いは？
 
 - **unauthorized**：正式な許可や権限がないことを強調
-- **[illegal](/word/illegal)**：法律に違反していることを強調
+- **[illegal](/word/illegal/)**：法律に違反していることを強調
 
 unauthorizedは「許可がない」こと、illegalは「法律違反」であることを指し、unauthorizedは社内規則やルール違反にも使われます。
 
@@ -105,14 +105,14 @@ unauthorizedは「許可がない」こと、illegalは「法律違反」であ�
 
 ## 🧩 あわせて覚えたい
 
-- [forbidden](/word/forbidden)：禁止された
-- [permitted](/word/permitted)：許可された
+- [forbidden](/word/forbidden/)：禁止された
+- [permitted](/word/permitted/)：許可された
 
 ---
 
 ## 📖 できればこれも
 
-- [restricted](/word/restricted)：制限された
-- [confidential](/word/confidential)：機密の
+- [restricted](/word/restricted/)：制限された
+- [confidential](/word/confidential/)：機密の
 
 <!-- cvid: aid00_bid08 -->

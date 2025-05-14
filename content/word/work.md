@@ -98,7 +98,7 @@ TOEICでは「仕事」「作業」などの意味で頻出し、会話や説明
 ## 🤔  job との違いは？
 
 - **work**：仕事や作業そのもの、活動全般を指す
-- **[job](/word/job)**：特定の職業や役割、ポジションを指す
+- **[job](/word/job/)**：特定の職業や役割、ポジションを指す
 
 workは「やるべき作業」や「労働」を広く指し、jobは「職業」「職務」といった具体的な役割を表します。
 
@@ -106,14 +106,14 @@ workは「やるべき作業」や「労働」を広く指し、jobは「職業�
 
 ## 🧩 あわせて覚えたい
 
-- [task](/word/task)：課題、任務
-- [project](/word/project)：プロジェクト、計画
+- [task](/word/task/)：課題、任務
+- [project](/word/project/)：プロジェクト、計画
 
 ---
 
 ## 📖 できればこれも
 
-- [office](/word/office)：オフィス、事務所
-- [meeting](/word/meeting)：会議
+- [office](/word/office/)：オフィス、事務所
+- [meeting](/word/meeting/)：会議
 
 <!-- cvid: aid37_bid21 -->

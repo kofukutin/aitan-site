@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文や記事、広告文で医療や製薬業界に
 ## 🤔  medicine との違いは？
 
 - **pharmaceutical**：製薬業界や医薬品そのものを指すフォーマルな形容詞
-- **[medicine](/word/medicine)**：薬そのものや医学全般を指す名詞
+- **[medicine](/word/medicine/)**：薬そのものや医学全般を指す名詞
 
 pharmaceuticalは「製薬の」「医薬品の」といった業界や製品に関する形容詞で、medicineは「薬」や「医学」という意味の名詞です。
 
@@ -105,14 +105,14 @@ pharmaceuticalは「製薬の」「医薬品の」といった業界や製品に
 
 ## 🧩 あわせて覚えたい
 
-- [prescription](/word/prescription)：処方箋
-- [pharmacy](/word/pharmacy)：薬局
+- [prescription](/word/prescription/)：処方箋
+- [pharmacy](/word/pharmacy/)：薬局
 
 ---
 
 ## 📖 できればこれも
 
-- [clinical](/word/clinical)：臨床の
-- [therapy](/word/therapy)：治療
+- [clinical](/word/clinical/)：臨床の
+- [therapy](/word/therapy/)：治療
 
 <!-- cvid: aid34_bid41 -->

@@ -97,7 +97,7 @@ TOEICでは、ビジネスの成長や変化、進展を表す文脈で「rapid�
 ## 🤔  fast との違いは？
 
 - **rapid**：変化や進展が短期間で起こることを強調し、ややフォーマル。
-- **[fast](/word/fast)**：動作や移動のスピードが速いことをカジュアルに表現。
+- **[fast](/word/fast/)**：動作や移動のスピードが速いことをカジュアルに表現。
 
 「rapid」は変化や進展など抽象的な速さに使われやすく、「fast」は物理的な速さや動作に幅広く使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、ビジネスの成長や変化、進展を表す文脈で「rapid�
 
 ## 🧩 あわせて覚えたい
 
-- [swift](/word/swift)：素早い、迅速な
-- [gradual](/word/gradual)：徐々の、段階的な
+- [swift](/word/swift/)：素早い、迅速な
+- [gradual](/word/gradual/)：徐々の、段階的な
 
 ---
 
 ## 📖 できればこれも
 
-- [immediate](/word/immediate)：即時の、すぐの
-- [steady](/word/steady)：着実な、安定した
+- [immediate](/word/immediate/)：即時の、すぐの
+- [steady](/word/steady/)：着実な、安定した
 
 <!-- cvid: aid09_bid38 -->

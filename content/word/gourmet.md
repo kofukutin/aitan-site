@@ -96,7 +96,7 @@ TOEICでは主にレストランや観光、ホテルの案内文などで「gou
 ## 🤔  epicure との違いは？
 
 - **gourmet**：美味しいものや高級な料理を好む人、またはその料理自体
-- **[epicure](/word/epicure)**：快楽や美食を追求する人（やや古風・哲学的な響き）
+- **[epicure](/word/epicure/)**：快楽や美食を追求する人（やや古風・哲学的な響き）
 
 gourmetは現代的で高級志向の食通を指し、epicureはより「快楽主義」や「哲学的な美食家」のニュアンスがあります。
 
@@ -104,14 +104,14 @@ gourmetは現代的で高級志向の食通を指し、epicureはより「快楽
 
 ## 🧩 あわせて覚えたい
 
-- [connoisseur](/word/connoisseur)：専門的な知識を持つ鑑定家、目利き
-- [delicacy](/word/delicacy)：珍味、特別なごちそう
+- [connoisseur](/word/connoisseur/)：専門的な知識を持つ鑑定家、目利き
+- [delicacy](/word/delicacy/)：珍味、特別なごちそう
 
 ---
 
 ## 📖 できればこれも
 
-- [cuisine](/word/cuisine)：料理、料理法
-- [flavor](/word/flavor)：味、風味
+- [cuisine](/word/cuisine/)：料理、料理法
+- [flavor](/word/flavor/)：味、風味
 
 <!-- cvid: aid02_bid24 -->

@@ -97,7 +97,7 @@ TOEICでは、機械の故障や業務の内訳説明など、ビジネスや日
 ## 🤔  failure との違いは？
 
 - **breakdown**：機械やシステムの物理的な故障や、物事の詳細な内訳、精神的な崩壊を指す。
-- **[failure](/word/failure)**：失敗や機能しないこと全般を指し、原因や状況を問わず幅広く使う。
+- **[failure](/word/failure/)**：失敗や機能しないこと全般を指し、原因や状況を問わず幅広く使う。
 
 breakdownは「壊れて動かなくなる」具体的な場面や、詳細な分解・分類にも使われますが、failureは「うまくいかない」こと全般に使います。
 
@@ -105,14 +105,14 @@ breakdownは「壊れて動かなくなる」具体的な場面や、詳細な�
 
 ## 🧩 あわせて覚えたい
 
-- [malfunction](/word/malfunction)：（機械などの）不調、誤作動
-- [collapse](/word/collapse)：崩壊、倒壊
+- [malfunction](/word/malfunction/)：（機械などの）不調、誤作動
+- [collapse](/word/collapse/)：崩壊、倒壊
 
 ---
 
 ## 📖 できればこれも
 
-- [outage](/word/outage)：（電力・サービスなどの）停止
-- [interruption](/word/interruption)：中断、妨害
+- [outage](/word/outage/)：（電力・サービスなどの）停止
+- [interruption](/word/interruption/)：中断、妨害
 
 <!-- cvid: aid29_bid10 -->

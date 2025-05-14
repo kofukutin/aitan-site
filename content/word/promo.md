@@ -97,7 +97,7 @@ TOEICでは広告やキャンペーン案内の文脈で登場しやすく、カ
 ## 🤔  advertisement との違いは？
 
 - **promo**：カジュアルで短い宣伝・販促の意味。会話や広告業界でよく使う。
-- **[advertisement](/word/advertisement)**：よりフォーマルで一般的な「広告」の意味。
+- **[advertisement](/word/advertisement/)**：よりフォーマルで一般的な「広告」の意味。
 
 「promo」は略語で親しみやすく、会話や社内メールなどカジュアルな場面で使われやすいのに対し、「advertisement」は正式な広告全般を指します。
 
@@ -105,14 +105,14 @@ TOEICでは広告やキャンペーン案内の文脈で登場しやすく、カ
 
 ## 🧩 あわせて覚えたい
 
-- [campaign](/word/campaign)：キャンペーン、特別な販促活動
-- [flyer](/word/flyer)：チラシ、広告用の印刷物
+- [campaign](/word/campaign/)：キャンペーン、特別な販促活動
+- [flyer](/word/flyer/)：チラシ、広告用の印刷物
 
 ---
 
 ## 📖 できればこれも
 
-- [deal](/word/deal)：お得な取引、特価
-- [offer](/word/offer)：提案、特典
+- [deal](/word/deal/)：お得な取引、特価
+- [offer](/word/offer/)：提案、特典
 
 <!-- cvid: aid00_bid46 -->

@@ -97,7 +97,7 @@ trackingは、荷物の配送状況や業務の進捗管理など、ITやビジ�
 ## 🤔  monitoring との違いは？
 
 - **tracking**：物や人の動き・進捗を「追跡」して記録・管理すること
-- **[monitoring](/word/monitoring)**：状況や状態を「監視」し、変化や異常を見守ること
+- **[monitoring](/word/monitoring/)**：状況や状態を「監視」し、変化や異常を見守ること
 
 trackingは「動きや進行を追いかけて記録する」イメージ、monitoringは「状態を見守って異常がないか確認する」イメージです。
 
@@ -105,14 +105,14 @@ trackingは「動きや進行を追いかけて記録する」イメージ、mon
 
 ## 🧩 あわせて覚えたい
 
-- [trace](/word/trace)：跡をたどる、追跡する
-- [shipment](/word/shipment)：発送、出荷
+- [trace](/word/trace/)：跡をたどる、追跡する
+- [shipment](/word/shipment/)：発送、出荷
 
 ---
 
 ## 📖 できればこれも
 
-- [record](/word/record)：記録する、記録
-- [update](/word/update)：更新する、最新情報にする
+- [record](/word/record/)：記録する、記録
+- [update](/word/update/)：更新する、最新情報にする
 
 <!-- cvid: aid23_bid12 -->

@@ -98,7 +98,7 @@ TOEICでは、organizedは「organized person」「organized system」など、�
 ## 🤔  systematic との違いは？
 
 - **organized**：整理されていて、無駄がなくきちんとしている状態を表す。
-- **[systematic](/word/systematic)**：体系的・計画的に物事を進める様子を強調する。
+- **[systematic](/word/systematic/)**：体系的・計画的に物事を進める様子を強調する。
 
 organizedは「整っている」「段取りが良い」ことに重点があり、systematicは「手順や方法が一貫している」ことに重点があります。
 
@@ -106,14 +106,14 @@ organizedは「整っている」「段取りが良い」ことに重点があ�
 
 ## 🧩 あわせて覚えたい
 
-- [efficient](/word/efficient)：効率的な
-- [neat](/word/neat)：きちんとした、整頓された
+- [efficient](/word/efficient/)：効率的な
+- [neat](/word/neat/)：きちんとした、整頓された
 
 ---
 
 ## 📖 できればこれも
 
-- [arranged](/word/arranged)：整えられた、配置された
-- [planned](/word/planned)：計画された
+- [arranged](/word/arranged/)：整えられた、配置された
+- [planned](/word/planned/)：計画された
 
 <!-- cvid: aid40_bid05 -->

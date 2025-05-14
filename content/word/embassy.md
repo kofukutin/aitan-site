@@ -97,7 +97,7 @@ TOEICでは旅行や海外出張、トラブル対応の文脈で案内文やE�
 ## 🤔  consulate との違いは？
 
 - **embassy**：大使が駐在し、国を代表する外交機関全体やその建物。
-- **[consulate](/word/consulate)**：領事が駐在し、主にビザ発給や自国民の保護など実務的な業務を行う機関。
+- **[consulate](/word/consulate/)**：領事が駐在し、主にビザ発給や自国民の保護など実務的な業務を行う機関。
 
 embassyは国の代表機関で、consulateは実務的なサポートや手続きが中心です。
 
@@ -105,14 +105,14 @@ embassyは国の代表機関で、consulateは実務的なサポートや手続�
 
 ## 🧩 あわせて覚えたい
 
-- [ambassador](/word/ambassador)：大使
-- [mission](/word/mission)：使節団、任務
+- [ambassador](/word/ambassador/)：大使
+- [mission](/word/mission/)：使節団、任務
 
 ---
 
 ## 📖 できればこれも
 
-- [visa](/word/visa)：査証、ビザ
-- [passport](/word/passport)：旅券、パスポート
+- [visa](/word/visa/)：査証、ビザ
+- [passport](/word/passport/)：旅券、パスポート
 
 <!-- cvid: aid37_bid06 -->

@@ -97,7 +97,7 @@ TOEICでは「資格や権利の保有者」「カードホルダー」など、
 ## 🤔  owner との違いは？
 
 - **holder**：何かを持っている人・物（所有権があるとは限らない）
-- **[owner](/word/owner)**：正式な所有者（法的な所有権を持つ人）
+- **[owner](/word/owner/)**：正式な所有者（法的な所有権を持つ人）
 
 holderは「一時的に持っている人」や「資格・権利の保有者」も含みますが、ownerは「所有権を持つ人」に限定されます。
 
@@ -105,14 +105,14 @@ holderは「一時的に持っている人」や「資格・権利の保有者�
 
 ## 🧩 あわせて覚えたい
 
-- [possessor](/word/possessor)：所有者（ややフォーマル）
-- [recipient](/word/recipient)：受取人
+- [possessor](/word/possessor/)：所有者（ややフォーマル）
+- [recipient](/word/recipient/)：受取人
 
 ---
 
 ## 📖 できればこれも
 
-- [applicant](/word/applicant)：申請者
-- [license](/word/license)：許可証、免許
+- [applicant](/word/applicant/)：申請者
+- [license](/word/license/)：許可証、免許
 
 <!-- cvid: aid26_bid36 -->

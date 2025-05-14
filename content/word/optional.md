@@ -97,7 +97,7 @@ TOEICでは「必須か任意か」を問う文脈で頻出します。特に選
 ## 🤔  voluntary との違いは？
 
 - **optional**：義務ではなく、選択できることを強調
-- **[voluntary](/word/voluntary)**：自発的・自主的に行うことを強調
+- **[voluntary](/word/voluntary/)**：自発的・自主的に行うことを強調
 
 optionalは「やってもやらなくてもよい」状況を示し、voluntaryは「自分の意思で進んで行う」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ optionalは「やってもやらなくてもよい」状況を示し、voluntary
 
 ## 🧩 あわせて覚えたい
 
-- [mandatory](/word/mandatory)：必須の、義務的な
-- [select](/word/select)：選ぶ、選択する
+- [mandatory](/word/mandatory/)：必須の、義務的な
+- [select](/word/select/)：選ぶ、選択する
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/word/available)：利用できる、入手できる
-- [necessary](/word/necessary)：必要な
+- [available](/word/available/)：利用できる、入手できる
+- [necessary](/word/necessary/)：必要な
 
 <!-- cvid: aid32_bid46 -->

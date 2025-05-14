@@ -96,7 +96,7 @@ TOEICでは主に医療や健康に関する長文記事やレポートで登場
 ## 🤔  disease との違いは？
 
 - **syndrome**：複数の症状や特徴が同時に現れる状態や病気を指す
-- **[disease](/word/disease)**：原因や診断が明確な「病気」全般を指す
+- **[disease](/word/disease/)**：原因や診断が明確な「病気」全般を指す
 
 syndromeは症状の組み合わせに注目し、diseaseは病気そのものや原因に注目します。
 
@@ -104,14 +104,14 @@ syndromeは症状の組み合わせに注目し、diseaseは病気そのもの�
 
 ## 🧩 あわせて覚えたい
 
-- [disorder](/word/disorder)：障害、機能不全
-- [symptom](/word/symptom)：症状
+- [disorder](/word/disorder/)：障害、機能不全
+- [symptom](/word/symptom/)：症状
 
 ---
 
 ## 📖 できればこれも
 
-- [therapy](/word/therapy)：治療、療法
-- [diagnosis](/word/diagnosis)：診断
+- [therapy](/word/therapy/)：治療、療法
+- [diagnosis](/word/diagnosis/)：診断
 
 <!-- cvid: aid01_bid23 -->

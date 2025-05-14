@@ -97,7 +97,7 @@ TOEICでは、提案や計画、目標設定の文脈で「現実的な」とい
 ## 🤔  practical との違いは？
 
 - **realistic**：現実に即していて、実現可能性や現実の状況を重視する
-- **[practical](/word/practical)**：実用的で、実際に役立つ・使えることを重視する
+- **[practical](/word/practical/)**：実用的で、実際に役立つ・使えることを重視する
 
 realisticは「現実的かどうか」、practicalは「実用的かどうか」に重点があり、現実性と実用性で使い分けます。
 
@@ -105,14 +105,14 @@ realisticは「現実的かどうか」、practicalは「実用的かどうか�
 
 ## 🧩 あわせて覚えたい
 
-- [ideal](/word/ideal)：理想的な
-- [feasible](/word/feasible)：実現可能な
+- [ideal](/word/ideal/)：理想的な
+- [feasible](/word/feasible/)：実現可能な
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [logical](/word/logical)：論理的な
+- [efficient](/word/efficient/)：効率的な
+- [logical](/word/logical/)：論理的な
 
 <!-- cvid: aid35_bid39 -->

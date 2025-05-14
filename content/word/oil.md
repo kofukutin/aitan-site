@@ -97,7 +97,7 @@ TOEICでは、ビジネスや日常の会話で「石油」「油」などの意
 ## 🤔  grease との違いは？
 
 - **oil**：液体状の油全般（食用油・石油・潤滑油など）を指す
-- **[grease](/word/grease)**：粘度が高く、半固体状の油脂や潤滑剤を指す
+- **[grease](/word/grease/)**：粘度が高く、半固体状の油脂や潤滑剤を指す
 
 oilは液体の油全般を指し、greaseはより粘り気のある半固体の油脂や潤滑剤に使われます。
 
@@ -105,14 +105,14 @@ oilは液体の油全般を指し、greaseはより粘り気のある半固体�
 
 ## 🧩 あわせて覚えたい
 
-- [fuel](/word/fuel)：燃料
-- [lubricant](/word/lubricant)：潤滑剤
+- [fuel](/word/fuel/)：燃料
+- [lubricant](/word/lubricant/)：潤滑剤
 
 ---
 
 ## 📖 できればこれも
 
-- [gas](/word/gas)：気体、ガス
-- [liquid](/word/liquid)：液体
+- [gas](/word/gas/)：気体、ガス
+- [liquid](/word/liquid/)：液体
 
 <!-- cvid: aid49_bid11 -->

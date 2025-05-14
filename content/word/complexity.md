@@ -97,7 +97,7 @@ TOEICでは主に長文読解パートで、業務プロセスやシステム、
 ## 🤔  complication との違いは？
 
 - **complexity**：多くの要素が絡み合っている「複雑さ」やその状態
-- **[complication](/word/complication)**：予期せぬ「ややこしい問題」や「合併症」
+- **[complication](/word/complication/)**：予期せぬ「ややこしい問題」や「合併症」
 
 complexityは構造や仕組みの複雑さを指し、complicationは主に問題や障害として現れる「ややこしさ」を表します。
 
@@ -105,14 +105,14 @@ complexityは構造や仕組みの複雑さを指し、complicationは主に問�
 
 ## 🧩 あわせて覚えたい
 
-- [simplicity](/word/simplicity)：単純さ、簡単さ
-- [intricacy](/word/intricacy)：入り組んでいること、複雑さ
+- [simplicity](/word/simplicity/)：単純さ、簡単さ
+- [intricacy](/word/intricacy/)：入り組んでいること、複雑さ
 
 ---
 
 ## 📖 できればこれも
 
-- [structure](/word/structure)：構造、仕組み
-- [factor](/word/factor)：要因、要素
+- [structure](/word/structure/)：構造、仕組み
+- [factor](/word/factor/)：要因、要素
 
 <!-- cvid: aid42_bid31 -->

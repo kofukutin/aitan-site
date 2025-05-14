@@ -98,7 +98,7 @@ TOEICでは、assuredは「保証された」「自信のある」といった�
 ## 🤔  confident との違いは？
 
 - **assured**：落ち着いた自信や、保証された・確実な状態を表すフォーマルな表現。
-- **[confident](/word/confident)**：自分の能力や判断に自信があることを表す、より一般的な表現。
+- **[confident](/word/confident/)**：自分の能力や判断に自信があることを表す、より一般的な表現。
 
 assuredは「保証された」「確実な」という意味合いも強く、confidentは「自信がある」気持ちに焦点を当てます。
 
@@ -106,14 +106,14 @@ assuredは「保証された」「確実な」という意味合いも強く、c
 
 ## 🧩 あわせて覚えたい
 
-- [guaranteed](/word/guaranteed)：保証された
-- [secure](/word/secure)：安全な、確実な
+- [guaranteed](/word/guaranteed/)：保証された
+- [secure](/word/secure/)：安全な、確実な
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/word/reliable)：信頼できる
-- [certain](/word/certain)：確かな、確信している
+- [reliable](/word/reliable/)：信頼できる
+- [certain](/word/certain/)：確かな、確信している
 
 <!-- cvid: aid24_bid02 -->

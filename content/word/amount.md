@@ -97,7 +97,7 @@ TOEICでは、金額や数量、合計を問う文脈で頻出します。特に
 ## 🤔  quantity との違いは？
 
 - **amount**：数えられないものの「量」や「金額」に使う
-- **[quantity](/word/quantity)**：数えられるものの「数量」に使う
+- **[quantity](/word/quantity/)**：数えられるものの「数量」に使う
 
 amountは水や情報、時間など漠然とした量に、quantityは本や商品など個数がはっきりしたものに使います。
 
@@ -105,14 +105,14 @@ amountは水や情報、時間など漠然とした量に、quantityは本や商
 
 ## 🧩 あわせて覚えたい
 
-- [sum](/word/sum)：合計、総額
-- [total](/word/total)：合計、総計
+- [sum](/word/sum/)：合計、総額
+- [total](/word/total/)：合計、総計
 
 ---
 
 ## 📖 できればこれも
 
-- [cost](/word/cost)：費用、コスト
-- [value](/word/value)：価値、値段
+- [cost](/word/cost/)：費用、コスト
+- [value](/word/value/)：価値、値段
 
 <!-- cvid: aid19_bid46 -->

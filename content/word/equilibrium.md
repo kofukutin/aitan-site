@@ -97,7 +97,7 @@ TOEICでは科学や経済、ビジネスの説明文や記事で見かけるこ
 ## 🤔  balance との違いは？
 
 - **equilibrium**：力や影響が釣り合った安定した状態（特に科学・経済などフォーマルな場面で使用）
-- **[balance](/word/balance)**：日常的な「バランス」や「均衡」、物理的な安定も含む幅広い意味
+- **[balance](/word/balance/)**：日常的な「バランス」や「均衡」、物理的な安定も含む幅広い意味
 
 equilibriumはより専門的・抽象的な均衡状態を指し、balanceは日常的なバランスや物理的な安定にも使われます。
 
@@ -105,14 +105,14 @@ equilibriumはより専門的・抽象的な均衡状態を指し、balanceは�
 
 ## 🧩 あわせて覚えたい
 
-- [stability](/word/stability)：安定、安定性
-- [imbalance](/word/imbalance)：不均衡
+- [stability](/word/stability/)：安定、安定性
+- [imbalance](/word/imbalance/)：不均衡
 
 ---
 
 ## 📖 できればこれも
 
-- [ratio](/word/ratio)：比率
-- [proportion](/word/proportion)：割合、比率
+- [ratio](/word/ratio/)：比率
+- [proportion](/word/proportion/)：割合、比率
 
 <!-- cvid: aid18_bid03 -->

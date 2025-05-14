@@ -97,7 +97,7 @@ TOEICでは、スポーツやビジネスの表彰、競争に関する会話や
 ## 🤔  winner との違いは？
 
 - **champion**：大会や競技で一番になった人、または何かを強く支持する人
-- **[winner](/word/winner)**：単に勝者、何かに勝った人
+- **[winner](/word/winner/)**：単に勝者、何かに勝った人
 
 championは「タイトル保持者」や「擁護者」といった意味合いもあり、winnerよりも栄誉や継続性が強調されます。
 
@@ -105,14 +105,14 @@ championは「タイトル保持者」や「擁護者」といった意味合い
 
 ## 🧩 あわせて覚えたい
 
-- [contestant](/word/contestant)：競技者、参加者
-- [defeat](/word/defeat)：敗北、打ち負かす
+- [contestant](/word/contestant/)：競技者、参加者
+- [defeat](/word/defeat/)：敗北、打ち負かす
 
 ---
 
 ## 📖 できればこれも
 
-- [award](/word/award)：賞、授与する
-- [competition](/word/competition)：競争、コンテスト
+- [award](/word/award/)：賞、授与する
+- [competition](/word/competition/)：競争、コンテスト
 
 <!-- cvid: aid41_bid22 -->

@@ -97,7 +97,7 @@ TOEICでは、メールや案内文、業務連絡などで「情報を更新す
 ## 🤔  upgrading との違いは？
 
 - **updating**：既存のものを最新の状態にすること
-- **[upgrading](/word/upgrading)**：より高いレベルや性能に引き上げること
+- **[upgrading](/word/upgrading/)**：より高いレベルや性能に引き上げること
 
 updatingは「新しい情報にする」こと、upgradingは「質や機能を向上させる」ことに重点があります。
 
@@ -105,14 +105,14 @@ updatingは「新しい情報にする」こと、upgradingは「質や機能を
 
 ## 🧩 あわせて覚えたい
 
-- [renew](/word/renew)：（契約・免許などを）更新する
-- [revise](/word/revise)：（内容を）修正する、改訂する
+- [renew](/word/renew/)：（契約・免許などを）更新する
+- [revise](/word/revise/)：（内容を）修正する、改訂する
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install)：インストールする、設置する
-- [edit](/word/edit)：編集する
+- [install](/word/install/)：インストールする、設置する
+- [edit](/word/edit/)：編集する
 
 <!-- cvid: aid34_bid19 -->

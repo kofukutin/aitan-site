@@ -97,7 +97,7 @@ TOEICでは会議やイベント、業務の予定に関する会話や説明で
 ## 🤔  planned との違いは？
 
 - **scheduled**：公式なスケジュールや日時が決まっている場合に使う
-- **[planned](/word/planned)**：計画されているが、必ずしも日時や詳細が決まっていない場合にも使う
+- **[planned](/word/planned/)**：計画されているが、必ずしも日時や詳細が決まっていない場合にも使う
 
 「scheduled」は日時や順番などが明確に決まっている場合に使い、「planned」はもう少し広く「計画された」という意味で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは会議やイベント、業務の予定に関する会話や説明で
 
 ## 🧩 あわせて覚えたい
 
-- [postponed](/word/postponed)：延期された
-- [confirmed](/word/confirmed)：確認された、確定した
+- [postponed](/word/postponed/)：延期された
+- [confirmed](/word/confirmed/)：確認された、確定した
 
 ---
 
 ## 📖 できればこれも
 
-- [arranged](/word/arranged)：手配された、整えられた
-- [expected](/word/expected)：予期された、予定された
+- [arranged](/word/arranged/)：手配された、整えられた
+- [expected](/word/expected/)：予期された、予定された
 
 <!-- cvid: aid27_bid38 -->

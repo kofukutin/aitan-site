@@ -97,7 +97,7 @@ TOEICでは主にニュース記事や法務関連の長文で登場し、犯罪
 ## 🤔  plot との違いは？
 
 - **conspiracy**：複数人が秘密裏に悪事や犯罪を計画すること
-- **[plot](/word/plot)**：物語の筋書きや、悪事の計画（個人・集団どちらも可）
+- **[plot](/word/plot/)**：物語の筋書きや、悪事の計画（個人・集団どちらも可）
 
 conspiracyは「違法性・悪意・複数人での共謀」に焦点があり、plotは「計画」や「物語の構成」など幅広く使われます。
 
@@ -105,14 +105,14 @@ conspiracyは「違法性・悪意・複数人での共謀」に焦点があり�
 
 ## 🧩 あわせて覚えたい
 
-- [collusion](/word/collusion)：（特に不正な）共謀、談合
-- [scheme](/word/scheme)：計画、策略
+- [collusion](/word/collusion/)：（特に不正な）共謀、談合
+- [scheme](/word/scheme/)：計画、策略
 
 ---
 
 ## 📖 できればこれも
 
-- [evidence](/word/evidence)：証拠
-- [suspect](/word/suspect)：容疑者
+- [evidence](/word/evidence/)：証拠
+- [suspect](/word/suspect/)：容疑者
 
 <!-- cvid: aid04_bid41 -->

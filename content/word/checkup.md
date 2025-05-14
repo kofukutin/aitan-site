@@ -97,7 +97,7 @@ TOEICでは健康診断や点検に関するお知らせ、メール、案内文
 ## 🤔  examination との違いは？
 
 - **checkup**：健康診断や簡単な点検など、定期的・日常的な検査を指す
-- **[examination](/word/examination)**：より詳細で正式な検査や試験を指す
+- **[examination](/word/examination/)**：より詳細で正式な検査や試験を指す
 
 checkupは日常的な健康診断や簡易な点検に使われ、examinationはより専門的・詳細な検査や学力試験など幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ checkupは日常的な健康診断や簡易な点検に使われ、examination�
 
 ## 🧩 あわせて覚えたい
 
-- [screening](/word/screening)：スクリーニング、ふるい分け検査
-- [appointment](/word/appointment)：予約
+- [screening](/word/screening/)：スクリーニング、ふるい分け検査
+- [appointment](/word/appointment/)：予約
 
 ---
 
 ## 📖 できればこれも
 
-- [prescription](/word/prescription)：処方箋
-- [clinic](/word/clinic)：診療所
+- [prescription](/word/prescription/)：処方箋
+- [clinic](/word/clinic/)：診療所
 
 <!-- cvid: aid37_bid24 -->

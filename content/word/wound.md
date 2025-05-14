@@ -97,7 +97,7 @@ Please clean the wound before applying the bandage.
 ## 🤔  injury との違いは？
 
 - **wound**：外部からの力でできた切り傷や刺し傷など、皮膚が破れた「傷」を指す
-- **[injury](/word/injury)**：事故や転倒などによる「けが」全般を指し、骨折や打撲も含む
+- **[injury](/word/injury/)**：事故や転倒などによる「けが」全般を指し、骨折や打撲も含む
 
 woundは皮膚が切れたり破れたりした傷に限定されるのに対し、injuryはより広い意味で体の損傷全般を表します。
 
@@ -105,14 +105,14 @@ woundは皮膚が切れたり破れたりした傷に限定されるのに対し
 
 ## 🧩 あわせて覚えたい
 
-- [scar](/word/scar)：傷跡
-- [bruise](/word/bruise)：打撲、あざ
+- [scar](/word/scar/)：傷跡
+- [bruise](/word/bruise/)：打撲、あざ
 
 ---
 
 ## 📖 できればこれも
 
-- [pain](/word/pain)：痛み
-- [heal](/word/heal)：治る、治す
+- [pain](/word/pain/)：痛み
+- [heal](/word/heal/)：治る、治す
 
 <!-- cvid: aid15_bid20 -->

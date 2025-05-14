@@ -97,7 +97,7 @@ TOEICでは会議や打ち合わせ、資料収集の場面でよく登場しま
 ## 🤔  collect との違いは？
 
 - **gather**：人や物を一か所に集める、自然に集まる場合にも使う
-- **[collect](/word/collect)**：計画的・意図的に集める、特に物やデータに使う
+- **[collect](/word/collect/)**：計画的・意図的に集める、特に物やデータに使う
 
 gatherは人や物が自然に集まる場合にも使えますが、collectは「収集」や「コレクション」のように意図的・計画的なニュアンスが強いです。
 
@@ -105,14 +105,14 @@ gatherは人や物が自然に集まる場合にも使えますが、collectは�
 
 ## 🧩 あわせて覚えたい
 
-- [assemble](/word/assemble)：集める、組み立てる
-- [disperse](/word/disperse)：散らす、分散させる
+- [assemble](/word/assemble/)：集める、組み立てる
+- [disperse](/word/disperse/)：散らす、分散させる
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange)：手配する、整える
-- [organize](/word/organize)：組織する、まとめる
+- [arrange](/word/arrange/)：手配する、整える
+- [organize](/word/organize/)：組織する、まとめる
 
 <!-- cvid: aid23_bid09 -->

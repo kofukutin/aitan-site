@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、クーラーボックスや冷房装置
 ## 🤔  refrigerator との違いは？
 
 - **cooler**：持ち運びできるクーラーボックスや冷房装置など、広く「冷やすもの」を指す。
-- **[refrigerator](/word/refrigerator)**：家庭やオフィスにある据え置き型の「冷蔵庫」を指す。
+- **[refrigerator](/word/refrigerator/)**：家庭やオフィスにある据え置き型の「冷蔵庫」を指す。
 
 coolerは一時的・簡易的な冷却装置や容器を指し、refrigeratorは電気で冷やす大型の冷蔵庫を意味します。
 
@@ -105,14 +105,14 @@ coolerは一時的・簡易的な冷却装置や容器を指し、refrigerator�
 
 ## 🧩 あわせて覚えたい
 
-- [heater](/word/heater)：暖房装置、ヒーター
-- [container](/word/container)：容器、入れ物
+- [heater](/word/heater/)：暖房装置、ヒーター
+- [container](/word/container/)：容器、入れ物
 
 ---
 
 ## 📖 できればこれも
 
-- [bottle](/word/bottle)：ボトル、瓶
-- [fan](/word/fan)：扇風機、ファン
+- [bottle](/word/bottle/)：ボトル、瓶
+- [fan](/word/fan/)：扇風機、ファン
 
 <!-- cvid: aid46_bid22 -->

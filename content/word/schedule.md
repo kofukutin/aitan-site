@@ -97,7 +97,7 @@ TOEICでは会議やアポイント、業務の予定調整など、ビジネス
 ## 🤔  timetable との違いは？
 
 - **schedule**：一般的な予定や計画全体を指し、ビジネスや日常で幅広く使う
-- **[timetable](/word/timetable)**：電車や授業など、時刻や時間割が細かく決まった表
+- **[timetable](/word/timetable/)**：電車や授業など、時刻や時間割が細かく決まった表
 
 scheduleは柔軟な予定全般、timetableは時間が厳密に決まった表に使います。
 
@@ -105,14 +105,14 @@ scheduleは柔軟な予定全般、timetableは時間が厳密に決まった表
 
 ## 🧩 あわせて覚えたい
 
-- [plan](/word/plan)：計画
-- [appointment](/word/appointment)：（人と会う）約束、予約
+- [plan](/word/plan/)：計画
+- [appointment](/word/appointment/)：（人と会う）約束、予約
 
 ---
 
 ## 📖 できればこれも
 
-- [deadline](/word/deadline)：締め切り
-- [agenda](/word/agenda)：議題、議事日程
+- [deadline](/word/deadline/)：締め切り
+- [agenda](/word/agenda/)：議題、議事日程
 
 <!-- cvid: aid35_bid31 -->

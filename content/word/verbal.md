@@ -97,7 +97,7 @@ TOEICでは「verbal agreement（口頭合意）」や「verbal communication（
 ## 🤔  oral との違いは？
 
 - **verbal**：言葉や言語に関する、または口頭の
-- **[oral](/word/oral)**：口（口頭）での、話し言葉の
+- **[oral](/word/oral/)**：口（口頭）での、話し言葉の
 
 「verbal」は「言葉全般」に関する広い意味を持ちますが、「oral」は「口で話すこと」に限定されます。例えば「verbal agreement」は「口頭合意」ですが、「oral presentation」は「口頭発表」となります。
 
@@ -105,14 +105,14 @@ TOEICでは「verbal agreement（口頭合意）」や「verbal communication（
 
 ## 🧩 あわせて覚えたい
 
-- [written](/word/written)：書かれた、書面の
-- [nonverbal](/word/nonverbal)：非言語的な、言葉を使わない
+- [written](/word/written/)：書かれた、書面の
+- [nonverbal](/word/nonverbal/)：非言語的な、言葉を使わない
 
 ---
 
 ## 📖 できればこれも
 
-- [vivid](/word/vivid)：生き生きとした、鮮やかな
-- [concise](/word/concise)：簡潔な
+- [vivid](/word/vivid/)：生き生きとした、鮮やかな
+- [concise](/word/concise/)：簡潔な
 
 <!-- cvid: aid28_bid46 -->

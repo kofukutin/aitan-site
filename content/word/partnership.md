@@ -97,7 +97,7 @@ TOEICではビジネス文書やEメール、契約書などで「提携」「�
 ## 🤔  collaboration との違いは？
 
 - **partnership**：長期的・公式な協力関係やビジネス上の提携を指す
-- **[collaboration](/word/collaboration)**：特定のプロジェクトや目的のための協力（必ずしも公式・長期的でなくてもよい）
+- **[collaboration](/word/collaboration/)**：特定のプロジェクトや目的のための協力（必ずしも公式・長期的でなくてもよい）
 
 partnershipは「契約や合意に基づくしっかりした関係」、collaborationは「柔軟で一時的な協力」というニュアンスの違いがあります。
 
@@ -105,14 +105,14 @@ partnershipは「契約や合意に基づくしっかりした関係」、collab
 
 ## 🧩 あわせて覚えたい
 
-- [alliance](/word/alliance)：同盟、提携
-- [contract](/word/contract)：契約
+- [alliance](/word/alliance/)：同盟、提携
+- [contract](/word/contract/)：契約
 
 ---
 
 ## 📖 できればこれも
 
-- [agreement](/word/agreement)：合意、協定
-- [association](/word/association)：団体、協会
+- [agreement](/word/agreement/)：合意、協定
+- [association](/word/association/)：団体、協会
 
 <!-- cvid: aid34_bid44 -->

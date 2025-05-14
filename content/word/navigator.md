@@ -97,7 +97,7 @@ TOEICではITや交通、旅行関連の長文で「navigator」が案内役や�
 ## 🤔  pilot との違いは？
 
 - **navigator**：進路を決めて案内する人や機能
-- **[pilot](/word/pilot)**：実際に乗り物を操縦する人
+- **[pilot](/word/pilot/)**：実際に乗り物を操縦する人
 
 navigatorは「案内・誘導」に特化し、pilotは「操縦・運転」に特化しています。飛行機では両者が別の役割です。
 
@@ -105,14 +105,14 @@ navigatorは「案内・誘導」に特化し、pilotは「操縦・運転」に
 
 ## 🧩 あわせて覚えたい
 
-- [guide](/word/guide)：案内人、ガイド
-- [explorer](/word/explorer)：探検家
+- [guide](/word/guide/)：案内人、ガイド
+- [explorer](/word/explorer/)：探検家
 
 ---
 
 ## 📖 できればこれも
 
-- [navigation](/word/navigation)：航行、ナビゲーション
-- [device](/word/device)：装置、デバイス
+- [navigation](/word/navigation/)：航行、ナビゲーション
+- [device](/word/device/)：装置、デバイス
 
 <!-- cvid: aid41_bid21 -->

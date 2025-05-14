@@ -97,7 +97,7 @@ TOEICでは家族や人物を表す語としてPart 1の写真描写で出題さ
 ## 🤔  cousin との違いは？
 
 - **uncle**：父母の兄弟や義理のおじ
-- **[cousin](/word/cousin)**：いとこ（おじ・おばの子ども）
+- **[cousin](/word/cousin/)**：いとこ（おじ・おばの子ども）
 
 uncleは親世代の男性親族、cousinはいとこ（同世代の親族）を指します。
 
@@ -105,14 +105,14 @@ uncleは親世代の男性親族、cousinはいとこ（同世代の親族）を
 
 ## 🧩 あわせて覚えたい
 
-- [aunt](/word/aunt)：おば
-- [nephew](/word/nephew)：甥
+- [aunt](/word/aunt/)：おば
+- [nephew](/word/nephew/)：甥
 
 ---
 
 ## 📖 できればこれも
 
-- [aunt](/word/aunt)：おば
-- [father](/word/father)：父親
+- [aunt](/word/aunt/)：おば
+- [father](/word/father/)：父親
 
 <!-- cvid: aid16_bid14 -->

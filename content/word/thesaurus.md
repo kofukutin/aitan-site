@@ -96,7 +96,7 @@ TOEICでは、説明文や指示文で「thesaurus」が資料や参考書とし
 ## 🤔  dictionary との違いは？
 
 - **thesaurus**：単語の類義語や反意語を一覧で示す辞典
-- **[dictionary](/word/dictionary)**：単語の意味や発音、用法などを説明する辞典
+- **[dictionary](/word/dictionary/)**：単語の意味や発音、用法などを説明する辞典
 
 thesaurusは「言い換え」や「表現の幅」を広げたいときに使い、dictionaryは「意味や使い方」を調べたいときに使います。
 
@@ -104,14 +104,14 @@ thesaurusは「言い換え」や「表現の幅」を広げたいときに使�
 
 ## 🧩 あわせて覚えたい
 
-- [encyclopedia](/word/encyclopedia)：百科事典（幅広い知識をまとめた本）
-- [glossary](/word/glossary)：用語集（特定分野の専門用語リスト）
+- [encyclopedia](/word/encyclopedia/)：百科事典（幅広い知識をまとめた本）
+- [glossary](/word/glossary/)：用語集（特定分野の専門用語リスト）
 
 ---
 
 ## 📖 できればこれも
 
-- [reference](/word/reference)：参考資料
-- [manual](/word/manual)：手引き、マニュアル
+- [reference](/word/reference/)：参考資料
+- [manual](/word/manual/)：手引き、マニュアル
 
 <!-- cvid: aid04_bid38 -->

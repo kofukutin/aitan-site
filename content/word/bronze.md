@@ -97,7 +97,7 @@ TOEICでは、展示会や歴史、芸術に関する長文で「bronze statue�
 ## 🤔  copper との違いは？
 
 - **bronze**：銅とスズなどの合金で、像やメダルなどに使われる。
-- **[copper](/word/copper)**：純粋な銅そのもの。電線や配管などに使われる。
+- **[copper](/word/copper/)**：純粋な銅そのもの。電線や配管などに使われる。
 
 bronzeは合金で、芸術作品やメダルなどに使われるのに対し、copperは純粋な金属で工業用途が中心です。
 
@@ -105,14 +105,14 @@ bronzeは合金で、芸術作品やメダルなどに使われるのに対し�
 
 ## 🧩 あわせて覚えたい
 
-- [gold](/word/gold)：金、金色
-- [medal](/word/medal)：メダル、勲章
+- [gold](/word/gold/)：金、金色
+- [medal](/word/medal/)：メダル、勲章
 
 ---
 
 ## 📖 できればこれも
 
-- [silver](/word/silver)：銀、銀色
-- [metal](/word/metal)：金属
+- [silver](/word/silver/)：銀、銀色
+- [metal](/word/metal/)：金属
 
 <!-- cvid: aid24_bid20 -->

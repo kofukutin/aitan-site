@@ -97,7 +97,7 @@ TOEICでは主にビジネスや組織内での役職選出に関連する文脈
 ## 🤔  select との違いは？
 
 - **elect**：投票や正式な手続きで人を選ぶときに使うフォーマルな表現
-- **[select](/word/select)**：広く「選ぶ」、物や人どちらにも使え、投票などの意味は含まない
+- **[select](/word/select/)**：広く「選ぶ」、物や人どちらにも使え、投票などの意味は含まない
 
 electは「選挙など公式な方法で人を選ぶ」場合に限定され、selectは「自由に選ぶ」一般的な動作に使います。
 
@@ -105,14 +105,14 @@ electは「選挙など公式な方法で人を選ぶ」場合に限定され、
 
 ## 🧩 あわせて覚えたい
 
-- [appoint](/word/appoint)：任命する
-- [vote](/word/vote)：投票する
+- [appoint](/word/appoint/)：任命する
+- [vote](/word/vote/)：投票する
 
 ---
 
 ## 📖 できればこれも
 
-- [nominate](/word/nominate)：指名する
-- [choose](/word/choose)：選ぶ
+- [nominate](/word/nominate/)：指名する
+- [choose](/word/choose/)：選ぶ
 
 <!-- cvid: aid34_bid42 -->

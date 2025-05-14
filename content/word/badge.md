@@ -97,7 +97,7 @@ TOEICでは、オフィスやイベントの入場、社員証の提示などの
 ## 🤔  card との違いは？
 
 - **badge**：身分や所属を示すために身につけるバッジや名札
-- **[card](/word/card)**：紙やプラスチック製のカード（IDカード、名刺など）
+- **[card](/word/card/)**：紙やプラスチック製のカード（IDカード、名刺など）
 
 badgeは服などに付けて見せる「しるし」で、cardは手に持ったり提示する「カード型の証明書」です。
 
@@ -105,14 +105,14 @@ badgeは服などに付けて見せる「しるし」で、cardは手に持っ�
 
 ## 🧩 あわせて覚えたい
 
-- [certificate](/word/certificate)：証明書
-- [label](/word/label)：ラベル、表示
+- [certificate](/word/certificate/)：証明書
+- [label](/word/label/)：ラベル、表示
 
 ---
 
 ## 📖 できればこれも
 
-- [permit](/word/permit)：許可証
-- [license](/word/license)：免許、許可証
+- [permit](/word/permit/)：許可証
+- [license](/word/license/)：免許、許可証
 
 <!-- cvid: aid25_bid22 -->

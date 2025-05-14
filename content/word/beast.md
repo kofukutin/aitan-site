@@ -96,7 +96,7 @@ beastはTOEICの長文読解パートで、動物や自然、比喩表現の文�
 ## 🤔  animal との違いは？
 
 - **beast**：大きくて荒々しい、または恐ろしい動物や怪物を指すことが多い。
-- **[animal](/word/animal)**：生物学的な「動物」全般を指し、ニュートラルな表現。
+- **[animal](/word/animal/)**：生物学的な「動物」全般を指し、ニュートラルな表現。
 
 beastは否定的・感情的なニュアンスが強く、animalは科学的・一般的な意味で使われます。
 
@@ -104,14 +104,14 @@ beastは否定的・感情的なニュアンスが強く、animalは科学的・
 
 ## 🧩 あわせて覚えたい
 
-- [creature](/word/creature)：生き物、特に未知や想像上の存在
-- [monster](/word/monster)：怪物、非常に大きく恐ろしい存在
+- [creature](/word/creature/)：生き物、特に未知や想像上の存在
+- [monster](/word/monster/)：怪物、非常に大きく恐ろしい存在
 
 ---
 
 ## 📖 できればこれも
 
-- [wild](/word/wild)：野生の、荒々しい
-- [prey](/word/prey)：獲物、捕食される動物
+- [wild](/word/wild/)：野生の、荒々しい
+- [prey](/word/prey/)：獲物、捕食される動物
 
 <!-- cvid: aid00_bid19 -->

@@ -97,7 +97,7 @@ TOEICでは新聞記事や雑誌記事の紹介文、職業説明などで見か
 ## 🤔  media との違いは？
 
 - **journalism**：ニュースや情報を集めて伝える「活動」や「職業」を指す
-- **[media](/word/media)**：新聞・テレビ・インターネットなど「情報を伝える手段や媒体」そのもの
+- **[media](/word/media/)**：新聞・テレビ・インターネットなど「情報を伝える手段や媒体」そのもの
 
 journalismは「報道する行為や仕事」、mediaは「情報を伝える道具や仕組み」を表します。
 
@@ -105,14 +105,14 @@ journalismは「報道する行為や仕事」、mediaは「情報を伝える�
 
 ## 🧩 あわせて覚えたい
 
-- [report](/word/report)：報告、報道する
-- [broadcast](/word/broadcast)：放送、放送する
+- [report](/word/report/)：報告、報道する
+- [broadcast](/word/broadcast/)：放送、放送する
 
 ---
 
 ## 📖 できればこれも
 
-- [editor](/word/editor)：編集者
-- [publication](/word/publication)：出版物、発行
+- [editor](/word/editor/)：編集者
+- [publication](/word/publication/)：出版物、発行
 
 <!-- cvid: aid37_bid00 -->

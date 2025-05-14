@@ -99,7 +99,7 @@ TOEICでは「去る」「休暇を取る」「残す」など複数の意味で
 ## 🤔  remain との違いは？
 
 - **leave**：その場を去る、または何かを残していく
-- **[remain](/word/remain)**：その場にとどまる、残り続ける
+- **[remain](/word/remain/)**：その場にとどまる、残り続ける
 
 leaveは「離れる・去る」動作、remainは「そのままいる」状態を表します。  
 「誰かが部屋をleaveすれば、その人はもういませんが、remainならまだそこにいます。」
@@ -108,14 +108,14 @@ leaveは「離れる・去る」動作、remainは「そのままいる」状態
 
 ## 🧩 あわせて覚えたい
 
-- [depart](/word/depart)：出発する、離れる
-- [abandon](/word/abandon)：見捨てる、放棄する
+- [depart](/word/depart/)：出発する、離れる
+- [abandon](/word/abandon/)：見捨てる、放棄する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrive](/word/arrive)：到着する
-- [stay](/word/stay)：滞在する、とどまる
+- [arrive](/word/arrive/)：到着する
+- [stay](/word/stay/)：滞在する、とどまる
 
 <!-- cvid: aid03_bid17 -->

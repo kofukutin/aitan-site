@@ -94,7 +94,7 @@ The team watched the presentation intently.
 ## 🤔  attentively との違いは？
 
 - **intently**：強い集中力や熱意をもってじっと行動する様子
-- **[attentively](/word/attentively)**：注意深く、気を配っている様子
+- **[attentively](/word/attentively/)**：注意深く、気を配っている様子
 
 intentlyは「熱意や集中力」に重点があり、attentivelyは「注意深さ」や「配慮」に重点があります。
 
@@ -102,14 +102,14 @@ intentlyは「熱意や集中力」に重点があり、attentivelyは「注意�
 
 ## 🧩 あわせて覚えたい
 
-- [carefully](/word/carefully)：注意深く
-- [concentrate](/word/concentrate)：集中する
+- [carefully](/word/carefully/)：注意深く
+- [concentrate](/word/concentrate/)：集中する
 
 ---
 
 ## 📖 できればこれも
 
-- [closely](/word/closely)：密接に、注意深く
-- [deliberately](/word/deliberately)：故意に、慎重に
+- [closely](/word/closely/)：密接に、注意深く
+- [deliberately](/word/deliberately/)：故意に、慎重に
 
 <!-- cvid: aid19_bid48 -->

@@ -97,7 +97,7 @@ sustainedはTOEICの長文読解パートで、業績や成長、努力などが
 ## 🤔  continuous との違いは？
 
 - **sustained**：一定期間、努力や状態が「維持されている」「持続している」ことを強調
-- **[continuous](/word/continuous)**：途切れず「連続している」ことを強調
+- **[continuous](/word/continuous/)**：途切れず「連続している」ことを強調
 
 sustainedは「努力や成績などが長く保たれている」ニュアンス、continuousは「中断なく続いている」ことに重点があります。
 
@@ -105,14 +105,14 @@ sustainedは「努力や成績などが長く保たれている」ニュアン�
 
 ## 🧩 あわせて覚えたい
 
-- [temporary](/word/temporary)：一時的な
-- [prolonged](/word/prolonged)：長引く、長期にわたる
+- [temporary](/word/temporary/)：一時的な
+- [prolonged](/word/prolonged/)：長引く、長期にわたる
 
 ---
 
 ## 📖 できればこれも
 
-- [consistent](/word/consistent)：一貫した、安定した
-- [steady](/word/steady)：着実な、安定した
+- [consistent](/word/consistent/)：一貫した、安定した
+- [steady](/word/steady/)：着実な、安定した
 
 <!-- cvid: aid35_bid34 -->

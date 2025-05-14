@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で、人の体型や食べ物の説明と
 ## 🤔  overweight との違いは？
 
 - **fat**：日常的で直接的に「太っている」と表現し、やや否定的な響きがある
-- **[overweight](/word/overweight)**：医学的・客観的に「標準より重い」と表現し、ややフォーマルでやんわりした言い方
+- **[overweight](/word/overweight/)**：医学的・客観的に「標準より重い」と表現し、ややフォーマルでやんわりした言い方
 
 fatは感情的でストレートな表現、overweightは医学的・客観的な場面で使われます。
 
@@ -106,14 +106,14 @@ fatは感情的でストレートな表現、overweightは医学的・客観的�
 
 ## 🧩 あわせて覚えたい
 
-- [thin](/word/thin)：やせた
-- [obese](/word/obese)：肥満の（医学的にかなり太っている）
+- [thin](/word/thin/)：やせた
+- [obese](/word/obese/)：肥満の（医学的にかなり太っている）
 
 ---
 
 ## 📖 できればこれも
 
-- [tall](/word/tall)：背が高い
-- [short](/word/short)：背が低い
+- [tall](/word/tall/)：背が高い
+- [short](/word/short/)：背が低い
 
 <!-- cvid: aid16_bid24 -->

@@ -97,7 +97,7 @@ TOEICでは「店を閉める」「会議を終える」など、日常的なビ
 ## 🤔  shut との違いは？
 
 - **close**：一般的に「閉める」「閉じる」を表し、フォーマル・カジュアルどちらでも使える。
-- **[shut](/word/shut)**：「ピタッと閉じる」「しっかり閉める」ニュアンスが強く、ややカジュアル。
+- **[shut](/word/shut/)**：「ピタッと閉じる」「しっかり閉める」ニュアンスが強く、ややカジュアル。
 
 closeは幅広い場面で使えますが、shutは「勢いよく」「完全に」閉じるイメージが強いです。
 
@@ -105,14 +105,14 @@ closeは幅広い場面で使えますが、shutは「勢いよく」「完全�
 
 ## 🧩 あわせて覚えたい
 
-- [open](/word/open)：開ける、開く
-- [finish](/word/finish)：終える、終わる
+- [open](/word/open/)：開ける、開く
+- [finish](/word/finish/)：終える、終わる
 
 ---
 
 ## 📖 できればこれも
 
-- [start](/word/start)：始める、始まる
-- [complete](/word/complete)：完了する、仕上げる
+- [start](/word/start/)：始める、始まる
+- [complete](/word/complete/)：完了する、仕上げる
 
 <!-- cvid: aid39_bid49 -->

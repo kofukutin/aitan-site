@@ -98,7 +98,7 @@ TOEICでは、オフィスや施設の設備説明、請求書の内容確認な
 ## 🤔  gauge との違いは？
 
 - **meter**：数値を測定し表示する計器や、長さの単位を指す
-- **[gauge](/word/gauge)**：厚さ・大きさ・圧力などを測る計器や基準を指す
+- **[gauge](/word/gauge/)**：厚さ・大きさ・圧力などを測る計器や基準を指す
 
 meterは主に電気・水道などの「量」を測る装置、gaugeは圧力や厚さなど「状態や程度」を測る装置に使われます。
 
@@ -106,14 +106,14 @@ meterは主に電気・水道などの「量」を測る装置、gaugeは圧力�
 
 ## 🧩 あわせて覚えたい
 
-- [measure](/word/measure)：測る、測定する
-- [device](/word/device)：装置、機器
+- [measure](/word/measure/)：測る、測定する
+- [device](/word/device/)：装置、機器
 
 ---
 
 ## 📖 できればこれも
 
-- [scale](/word/scale)：はかり、目盛り
-- [sensor](/word/sensor)：センサー、感知器
+- [scale](/word/scale/)：はかり、目盛り
+- [sensor](/word/sensor/)：センサー、感知器
 
 <!-- cvid: aid03_bid27 -->

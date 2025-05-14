@@ -97,7 +97,7 @@ TOEICでは「基準」「標準」として、品質管理や業務手順に関
 ## 🤔  norm との違いは？
 
 - **standard**：公式な基準や標準、ルールとして定められたもの
-- **[norm](/word/norm)**：社会的・文化的に一般的とされる「普通」「規範」
+- **[norm](/word/norm/)**：社会的・文化的に一般的とされる「普通」「規範」
 
 standardは明確に定められた基準、normは社会的な「当たり前」や慣習を指します。
 
@@ -105,14 +105,14 @@ standardは明確に定められた基準、normは社会的な「当たり前�
 
 ## 🧩 あわせて覚えたい
 
-- [criterion](/word/criterion)：評価基準
-- [benchmark](/word/benchmark)：指標、基準点
+- [criterion](/word/criterion/)：評価基準
+- [benchmark](/word/benchmark/)：指標、基準点
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy)：方針
-- [procedure](/word/procedure)：手順
+- [policy](/word/policy/)：方針
+- [procedure](/word/procedure/)：手順
 
 <!-- cvid: aid11_bid07 -->

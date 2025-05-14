@@ -98,7 +98,7 @@ TOEICでは主にビジネスや工場の文脈で「製造する」という意
 ## 🤔  produce との違いは？
 
 - **manufacture**：工場や機械で大量生産することを強調
-- **[produce](/word/produce)**：生産全般を指し、農作物や自然な生成にも使う
+- **[produce](/word/produce/)**：生産全般を指し、農作物や自然な生成にも使う
 
 manufactureは「工業的な大量生産」、produceは「作り出す」全般で、使う場面や規模感が異なります。
 
@@ -106,14 +106,14 @@ manufactureは「工業的な大量生産」、produceは「作り出す」全�
 
 ## 🧩 あわせて覚えたい
 
-- [assemble](/word/assemble)：組み立てる
-- [distribute](/word/distribute)：配布する、流通させる
+- [assemble](/word/assemble/)：組み立てる
+- [distribute](/word/distribute/)：配布する、流通させる
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process)：加工する、処理する
-- [supply](/word/supply)：供給する
+- [process](/word/process/)：加工する、処理する
+- [supply](/word/supply/)：供給する
 
 <!-- cvid: aid32_bid34 -->

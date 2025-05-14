@@ -93,7 +93,7 @@ TOEICでは主に広告やイベント案内、商品説明などの長文で「
 ## 🤔  including との違いは？
 
 - **featuring**：特に目立たせて含んでいる、目玉や特集のニュアンス
-- **[including](/word/including)**：単に含んでいる、列挙の一部としてのニュアンス
+- **[including](/word/including/)**：単に含んでいる、列挙の一部としてのニュアンス
 
 「featuring」は強調や特別感があり、「including」は単なる一部として含む場合に使います。
 
@@ -101,14 +101,14 @@ TOEICでは主に広告やイベント案内、商品説明などの長文で「
 
 ## 🧩 あわせて覚えたい
 
-- [with](/word/with)：～と一緒に、～を持って
-- [highlight](/word/highlight)：強調する、目立たせる
+- [with](/word/with/)：～と一緒に、～を持って
+- [highlight](/word/highlight/)：強調する、目立たせる
 
 ---
 
 ## 📖 できればこれも
 
-- [presenting](/word/presenting)：提示している、紹介している
-- [showing](/word/showing)：見せている、上映している
+- [presenting](/word/presenting/)：提示している、紹介している
+- [showing](/word/showing/)：見せている、上映している
 
 <!-- cvid: aid18_bid42 -->

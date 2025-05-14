@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「ビデオ会議」「紹介動画」などの
 ## 🤔  movie との違いは？
 
 - **video**：一般的な動画や短い映像、記録映像など幅広く指す
-- **[movie](/word/movie)**：主に映画や長編の映像作品を指す
+- **[movie](/word/movie/)**：主に映画や長編の映像作品を指す
 
 videoは日常的な短い映像や記録映像にも使われますが、movieは「映画」やストーリー性のある長編作品に限定されることが多いです。
 
@@ -105,14 +105,14 @@ videoは日常的な短い映像や記録映像にも使われますが、movie�
 
 ## 🧩 あわせて覚えたい
 
-- [clip](/word/clip)：短い動画、切り抜き映像
-- [footage](/word/footage)：（特に未編集の）映像素材
+- [clip](/word/clip/)：短い動画、切り抜き映像
+- [footage](/word/footage/)：（特に未編集の）映像素材
 
 ---
 
 ## 📖 できればこれも
 
-- [audio](/word/audio)：音声、音響
-- [record](/word/record)：記録する、録音・録画する
+- [audio](/word/audio/)：音声、音響
+- [record](/word/record/)：記録する、録音・録画する
 
 <!-- cvid: aid35_bid18 -->

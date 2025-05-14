@@ -97,7 +97,7 @@ TOEICでは、記事や物語文、Eメールなどの長文中で「謎」や�
 ## 🤔  puzzle との違いは？
 
 - **mystery**：解明されていない謎や神秘、または推理小説を指す
-- **[puzzle](/word/puzzle)**：解くことができるパズルや頭の体操、難問を指す
+- **[puzzle](/word/puzzle/)**：解くことができるパズルや頭の体操、難問を指す
 
 「mystery」は答えが分からないままの「謎」や「神秘」に使い、「puzzle」は解決できる問題やパズルに使います。
 
@@ -105,14 +105,14 @@ TOEICでは、記事や物語文、Eメールなどの長文中で「謎」や�
 
 ## 🧩 あわせて覚えたい
 
-- [secret](/word/secret)：秘密
-- [enigma](/word/enigma)：不可解なもの、謎
+- [secret](/word/secret/)：秘密
+- [enigma](/word/enigma/)：不可解なもの、謎
 
 ---
 
 ## 📖 できればこれも
 
-- [clue](/word/clue)：手がかり
-- [detective](/word/detective)：探偵
+- [clue](/word/clue/)：手がかり
+- [detective](/word/detective/)：探偵
 
 <!-- cvid: aid36_bid24 -->

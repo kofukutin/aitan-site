@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写問題で、服装や人物の説明としてよ
 ## 🤔  blouse との違いは？
 
 - **shirt**：男女問わず着る襟付き・袖付きの上着全般を指す
-- **[blouse](/word/blouse)**：主に女性用のブラウス（柔らかい素材の上着）を指す
+- **[blouse](/word/blouse/)**：主に女性用のブラウス（柔らかい素材の上着）を指す
 
 shirtはフォーマル・カジュアル問わず使えますが、blouseは女性用で柔らかい印象の服に限定されます。
 
@@ -105,14 +105,14 @@ shirtはフォーマル・カジュアル問わず使えますが、blouseは女
 
 ## 🧩 あわせて覚えたい
 
-- [jacket](/word/jacket)：ジャケット、上着
-- [suit](/word/suit)：スーツ、背広
+- [jacket](/word/jacket/)：ジャケット、上着
+- [suit](/word/suit/)：スーツ、背広
 
 ---
 
 ## 📖 できればこれも
 
-- [pants](/word/pants)：ズボン
-- [skirt](/word/skirt)：スカート
+- [pants](/word/pants/)：ズボン
+- [skirt](/word/skirt/)：スカート
 
 <!-- cvid: aid14_bid30 -->

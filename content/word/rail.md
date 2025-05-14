@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、駅や鉄道、手すりの説明とし
 ## 🤔  track との違いは？
 
 - **rail**：鉄道のレールや手すりなど、細長い金属棒そのものを指す
-- **[track](/word/track)**：鉄道の線路全体や、走るための道筋を指す
+- **[track](/word/track/)**：鉄道の線路全体や、走るための道筋を指す
 
 railは物理的な「棒」や「手すり」を強調し、trackは「道」や「線路全体」を指す点が異なります。
 
@@ -105,14 +105,14 @@ railは物理的な「棒」や「手すり」を強調し、trackは「道」�
 
 ## 🧩 あわせて覚えたい
 
-- [platform](/word/platform)：駅のホーム
-- [barrier](/word/barrier)：障壁、仕切り
+- [platform](/word/platform/)：駅のホーム
+- [barrier](/word/barrier/)：障壁、仕切り
 
 ---
 
 ## 📖 できればこれも
 
-- [train](/word/train)：列車
-- [station](/word/station)：駅
+- [train](/word/train/)：列車
+- [station](/word/station/)：駅
 
 <!-- cvid: aid04_bid04 -->

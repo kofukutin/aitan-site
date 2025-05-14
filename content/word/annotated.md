@@ -97,7 +97,7 @@ TOEICでは、説明文や資料、マニュアルなどで「annotated」が使
 ## 🤔  commented との違いは？
 
 - **annotated**：注釈や説明が体系的・補足的に加えられている状態
-- **[commented](/word/commented)**：コメントや意見が書き込まれている状態
+- **[commented](/word/commented/)**：コメントや意見が書き込まれている状態
 
 annotatedは「説明や補足のための注釈」が付いている場合に使い、commentedは「意見や感想などのコメント」が書かれている場合に使います。
 
@@ -105,14 +105,14 @@ annotatedは「説明や補足のための注釈」が付いている場合に�
 
 ## 🧩 あわせて覚えたい
 
-- [labeled](/word/labeled)：ラベルが付けられた
-- [highlighted](/word/highlighted)：強調された、目立たせた
+- [labeled](/word/labeled/)：ラベルが付けられた
+- [highlighted](/word/highlighted/)：強調された、目立たせた
 
 ---
 
 ## 📖 できればこれも
 
-- [summarized](/word/summarized)：要約された
-- [detailed](/word/detailed)：詳細な
+- [summarized](/word/summarized/)：要約された
+- [detailed](/word/detailed/)：詳細な
 
 <!-- cvid: aid36_bid15 -->

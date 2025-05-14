@@ -97,7 +97,7 @@ TOEICでは「承認する」「認可する」という意味で、主にビジ
 ## 🤔  accept との違いは？
 
 - **approve**：公式に「良い」と認めて許可・承認する
-- **[accept](/word/accept)**：受け入れる、引き受ける（承認のニュアンスは弱い）
+- **[accept](/word/accept/)**：受け入れる、引き受ける（承認のニュアンスは弱い）
 
 approveは「正式な許可・承認」を強調し、acceptは「受け入れる」こと自体に重点があります。
 
@@ -105,14 +105,14 @@ approveは「正式な許可・承認」を強調し、acceptは「受け入れ�
 
 ## 🧩 あわせて覚えたい
 
-- [reject](/word/reject)：拒否する
-- [authorize](/word/authorize)：権限を与える、認可する
+- [reject](/word/reject/)：拒否する
+- [authorize](/word/authorize/)：権限を与える、認可する
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/word/confirm)：確認する
-- [permit](/word/permit)：許可する
+- [confirm](/word/confirm/)：確認する
+- [permit](/word/permit/)：許可する
 
 <!-- cvid: aid15_bid27 -->

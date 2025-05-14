@@ -97,7 +97,7 @@ TOEICでは、展示会や広告、出版物に関する長文で「artwork」�
 ## 🤔  illustration との違いは？
 
 - **artwork**：芸術作品全般や印刷物の図版・挿絵を幅広く指す
-- **[illustration](/word/illustration)**：説明や装飾のための挿絵・イラストに特化
+- **[illustration](/word/illustration/)**：説明や装飾のための挿絵・イラストに特化
 
 artworkは芸術作品全般や図版を指し、illustrationは特に説明や装飾目的の挿絵に使われます。
 
@@ -105,14 +105,14 @@ artworkは芸術作品全般や図版を指し、illustrationは特に説明や�
 
 ## 🧩 あわせて覚えたい
 
-- [painting](/word/painting)：絵画
-- [design](/word/design)：デザイン、設計
+- [painting](/word/painting/)：絵画
+- [design](/word/design/)：デザイン、設計
 
 ---
 
 ## 📖 できればこれも
 
-- [artist](/word/artist)：芸術家
-- [gallery](/word/gallery)：美術館、画廊
+- [artist](/word/artist/)：芸術家
+- [gallery](/word/gallery/)：美術館、画廊
 
 <!-- cvid: aid34_bid03 -->

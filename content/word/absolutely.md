@@ -106,7 +106,7 @@ TOEICでは会話や説明文の中で「強い同意」や「完全に～」と
 ## 🤔  definitely との違いは？
 
 - **absolutely**：100%の強い肯定や同意、疑いの余地がないことを強調。
-- **[definitely](/word/definitely)**：確実性や断言を表すが、absolutelyほどの強い「完全さ」はない。
+- **[definitely](/word/definitely/)**：確実性や断言を表すが、absolutelyほどの強い「完全さ」はない。
 
 absolutelyは「絶対に」「間違いなく」と強調したいとき、definitelyは「確かに」「きっと」とやや控えめな確信を伝えたいときに使います。
 
@@ -114,14 +114,14 @@ absolutelyは「絶対に」「間違いなく」と強調したいとき、defi
 
 ## 🧩 あわせて覚えたい
 
-- [totally](/word/totally)：完全に、全く
-- [completely](/word/completely)：完全に、すっかり
+- [totally](/word/totally/)：完全に、全く
+- [completely](/word/completely/)：完全に、すっかり
 
 ---
 
 ## 📖 できればこれも
 
-- [certainly](/word/certainly)：確かに、もちろん
-- [exactly](/word/exactly)：正確に、まさに
+- [certainly](/word/certainly/)：確かに、もちろん
+- [exactly](/word/exactly/)：正確に、まさに
 
 <!-- cvid: aid09_bid35 -->

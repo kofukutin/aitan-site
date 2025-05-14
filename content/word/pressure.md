@@ -97,7 +97,7 @@ TOEICでは「under pressure（プレッシャーの下で）」や「put pressu
 ## 🤔  stress との違いは？
 
 - **pressure**：外部からの圧力や重圧、プレッシャーを指す
-- **[stress](/word/stress)**：精神的なストレスや緊張状態を指す
+- **[stress](/word/stress/)**：精神的なストレスや緊張状態を指す
 
 pressureは「外からかかる圧力」や「周囲からの期待・重圧」を表し、stressは「心身に感じるストレス」や「緊張」を指します。
 
@@ -105,14 +105,14 @@ pressureは「外からかかる圧力」や「周囲からの期待・重圧」
 
 ## 🧩 あわせて覚えたい
 
-- [burden](/word/burden)：重荷、負担
-- [force](/word/force)：力、強制力
+- [burden](/word/burden/)：重荷、負担
+- [force](/word/force/)：力、強制力
 
 ---
 
 ## 📖 できればこれも
 
-- [demand](/word/demand)：要求、需要
-- [influence](/word/influence)：影響
+- [demand](/word/demand/)：要求、需要
+- [influence](/word/influence/)：影響
 
 <!-- cvid: aid03_bid49 -->

@@ -98,7 +98,7 @@ TOEICでは、商品やサービスを「個人向けにする」文脈でPart 6
 ## 🤔  customize との違いは？
 
 - **personalize**：個人の好みや特徴に合わせて特別仕様にする
-- **[customize](/word/customize)**：特定の目的や要望に合わせて仕様を変更する
+- **[customize](/word/customize/)**：特定の目的や要望に合わせて仕様を変更する
 
 personalizeは「個人」に焦点があり、customizeは「目的や用途」に合わせて調整する点が異なります。
 
@@ -106,14 +106,14 @@ personalizeは「個人」に焦点があり、customizeは「目的や用途」
 
 ## 🧩 あわせて覚えたい
 
-- [individualize](/word/individualize)：個別化する
-- [standardize](/word/standardize)：標準化する
+- [individualize](/word/individualize/)：個別化する
+- [standardize](/word/standardize/)：標準化する
 
 ---
 
 ## 📖 できればこれも
 
-- [modify](/word/modify)：修正する、変更する
-- [adjust](/word/adjust)：調整する
+- [modify](/word/modify/)：修正する、変更する
+- [adjust](/word/adjust/)：調整する
 
 <!-- cvid: aid02_bid41 -->

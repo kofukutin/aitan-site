@@ -97,7 +97,7 @@ tearはTOEICの会話パートで、書類や紙などを扱う場面で出題�
 ## 🤔  rip との違いは？
 
 - **tear**：紙や布などを引き裂く、破る（一般的な表現）
-- **[rip](/word/rip)**：勢いよく、または乱暴に引き裂く
+- **[rip](/word/rip/)**：勢いよく、または乱暴に引き裂く
 
 tearは「普通に破る」ニュアンスですが、ripは「勢いよく・荒っぽく破る」印象が強いです。
 
@@ -105,14 +105,14 @@ tearは「普通に破る」ニュアンスですが、ripは「勢いよく・�
 
 ## 🧩 あわせて覚えたい
 
-- [break](/word/break)：壊す、割る
-- [split](/word/split)：分割する、裂ける
+- [break](/word/break/)：壊す、割る
+- [split](/word/split/)：分割する、裂ける
 
 ---
 
 ## 📖 できればこれも
 
-- [fold](/word/fold)：折る
-- [cut](/word/cut)：切る
+- [fold](/word/fold/)：折る
+- [cut](/word/cut/)：切る
 
 <!-- cvid: aid45_bid19 -->

@@ -97,7 +97,7 @@ TOEICでは、履歴書や求人広告、自己紹介文などで「fluent in En
 ## 🤔  proficient との違いは？
 
 - **fluent**：言葉が滑らかで、自然にすらすら話せることを強調。
-- **[proficient](/word/proficient)**：高い能力や熟練度があり、実務的に十分使いこなせることを強調。
+- **[proficient](/word/proficient/)**：高い能力や熟練度があり、実務的に十分使いこなせることを強調。
 
 fluentは「流暢さ」に焦点があり、proficientは「実用的な能力・熟達度」に焦点があります。
 
@@ -105,14 +105,14 @@ fluentは「流暢さ」に焦点があり、proficientは「実用的な能力�
 
 ## 🧩 あわせて覚えたい
 
-- [articulate](/word/articulate)：はっきりと話す
-- [competent](/word/competent)：有能な、能力がある
+- [articulate](/word/articulate/)：はっきりと話す
+- [competent](/word/competent/)：有能な、能力がある
 
 ---
 
 ## 📖 できればこれも
 
-- [confident](/word/confident)：自信がある
-- [accurate](/word/accurate)：正確な
+- [confident](/word/confident/)：自信がある
+- [accurate](/word/accurate/)：正確な
 
 <!-- cvid: aid22_bid31 -->

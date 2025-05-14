@@ -97,7 +97,7 @@ TOEICでは、価格やコストに関する文脈で「inexpensive」が選択�
 ## 🤔  cheap との違いは？
 
 - **inexpensive**：値段が高くないことを中立的・丁寧に表現
-- **[cheap](/word/cheap)**：安いが、しばしば「安っぽい」「質が悪い」という否定的なニュアンスも含む
+- **[cheap](/word/cheap/)**：安いが、しばしば「安っぽい」「質が悪い」という否定的なニュアンスも含む
 
 「inexpensive」は価格が手ごろであることを丁寧に伝えるときに使い、「cheap」は安さに加えて品質の低さを暗示する場合があります。
 
@@ -105,14 +105,14 @@ TOEICでは、価格やコストに関する文脈で「inexpensive」が選択�
 
 ## 🧩 あわせて覚えたい
 
-- [affordable](/word/affordable)：手ごろな価格の
-- [costly](/word/costly)：高価な
+- [affordable](/word/affordable/)：手ごろな価格の
+- [costly](/word/costly/)：高価な
 
 ---
 
 ## 📖 できればこれも
 
-- [expensive](/word/expensive)：高価な
-- [reasonable](/word/reasonable)：妥当な、手ごろな
+- [expensive](/word/expensive/)：高価な
+- [reasonable](/word/reasonable/)：妥当な、手ごろな
 
 <!-- cvid: aid20_bid48 -->

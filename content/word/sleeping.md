@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人や動物が「眠っている」
 ## 🤔  asleep との違いは？
 
 - **sleeping**：眠っている状態を表す形容詞で、名詞の前に置いて使うことが多い。
-- **[asleep](/word/asleep)**：眠っている状態を表すが、補語として使われる（be動詞の後など）。
+- **[asleep](/word/asleep/)**：眠っている状態を表すが、補語として使われる（be動詞の後など）。
 
 sleepingは「sleeping baby」のように名詞の前で使い、asleepは「The baby is asleep.」のように述語で使う違いがあります。
 
@@ -105,14 +105,14 @@ sleepingは「sleeping baby」のように名詞の前で使い、asleepは「Th
 
 ## 🧩 あわせて覚えたい
 
-- [awake](/word/awake)：目が覚めている
-- [rest](/word/rest)：休息、休む
+- [awake](/word/awake/)：目が覚めている
+- [rest](/word/rest/)：休息、休む
 
 ---
 
 ## 📖 できればこれも
 
-- [tired](/word/tired)：疲れている
-- [dream](/word/dream)：夢、夢を見る
+- [tired](/word/tired/)：疲れている
+- [dream](/word/dream/)：夢、夢を見る
 
 <!-- cvid: aid44_bid19 -->

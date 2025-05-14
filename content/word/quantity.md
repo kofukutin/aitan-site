@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や指示文で「数量」や「分量」を
 ## 🤔  amount との違いは？
 
 - **quantity**：数えられるものや測定できるものの「量」
-- **[amount](/word/amount)**：主に数えられないもの（不可算名詞）の「量」
+- **[amount](/word/amount/)**：主に数えられないもの（不可算名詞）の「量」
 
 quantityは「個数」や「測定可能な量」に使い、amountは「情報」「お金」など漠然とした量に使います。
 
@@ -105,14 +105,14 @@ quantityは「個数」や「測定可能な量」に使い、amountは「情報
 
 ## 🧩 あわせて覚えたい
 
-- [volume](/word/volume)：体積、分量
-- [number](/word/number)：数、数量
+- [volume](/word/volume/)：体積、分量
+- [number](/word/number/)：数、数量
 
 ---
 
 ## 📖 できればこれも
 
-- [total](/word/total)：合計、総計
-- [measure](/word/measure)：測定する、測る
+- [total](/word/total/)：合計、総計
+- [measure](/word/measure/)：測定する、測る
 
 <!-- cvid: aid06_bid28 -->

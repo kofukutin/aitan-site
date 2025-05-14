@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で「飲む」動作を表す際によく
 ## 🤔  beverage との違いは？
 
 - **drink**：日常的に使う「飲み物」や「飲む」動作全般を指すカジュアルな語。
-- **[beverage](/word/beverage)**：ややフォーマルで、特に「飲料（飲み物）」を幅広く指す。
+- **[beverage](/word/beverage/)**：ややフォーマルで、特に「飲料（飲み物）」を幅広く指す。
 
 drinkは日常会話でよく使われ、beverageはレストランのメニューや案内などフォーマルな場面で使われます。
 
@@ -106,14 +106,14 @@ drinkは日常会話でよく使われ、beverageはレストランのメニュ�
 
 ## 🧩 あわせて覚えたい
 
-- [eat](/word/eat)：食べる
-- [sip](/word/sip)：すする、少しずつ飲む
+- [eat](/word/eat/)：食べる
+- [sip](/word/sip/)：すする、少しずつ飲む
 
 ---
 
 ## 📖 できればこれも
 
-- [order](/word/order)：注文する
-- [serve](/word/serve)：提供する
+- [order](/word/order/)：注文する
+- [serve](/word/serve/)：提供する
 
 <!-- cvid: aid07_bid11 -->

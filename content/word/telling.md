@@ -97,7 +97,7 @@ TOEICでは、記事やレポートの中で「決定的な」「意味深な」
 ## 🤔  revealing との違いは？
 
 - **telling**：隠れていた事実や本質をはっきり示す、決定的な
-- **[revealing](/word/revealing)**：隠れていたものを明らかにする、露出度が高い（服装などにも使う）
+- **[revealing](/word/revealing/)**：隠れていたものを明らかにする、露出度が高い（服装などにも使う）
 
 「telling」は特に「決定的」「意味深」といった印象を与える時に使い、「revealing」は単に「隠れていたものを見せる」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは、記事やレポートの中で「決定的な」「意味深な」
 
 ## 🧩 あわせて覚えたい
 
-- [obvious](/word/obvious)：明らかな
-- [significant](/word/significant)：重要な、意味のある
+- [obvious](/word/obvious/)：明らかな
+- [significant](/word/significant/)：重要な、意味のある
 
 ---
 
 ## 📖 できればこれも
 
-- [convincing](/word/convincing)：説得力のある
-- [striking](/word/striking)：目立つ、印象的な
+- [convincing](/word/convincing/)：説得力のある
+- [striking](/word/striking/)：目立つ、印象的な
 
 <!-- cvid: aid37_bid11 -->

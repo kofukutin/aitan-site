@@ -97,7 +97,7 @@ TOEICではビジネスシーンの購買や調達に関する文脈でよく出
 ## 🤔  procurement との違いは？
 
 - **purchasing**：日常的な「購買」や「仕入れ」の活動全般を指す。
-- **[procurement](/word/procurement)**：よりフォーマルで、特に公共調達や大規模な調達プロセスを指す。
+- **[procurement](/word/procurement/)**：よりフォーマルで、特に公共調達や大規模な調達プロセスを指す。
 
 purchasingは一般的な購買活動、procurementは契約や手続きが伴う公式な調達を指す場面で使い分けます。
 
@@ -105,14 +105,14 @@ purchasingは一般的な購買活動、procurementは契約や手続きが伴�
 
 ## 🧩 あわせて覚えたい
 
-- [acquisition](/word/acquisition)：取得、獲得
-- [sale](/word/sale)：販売
+- [acquisition](/word/acquisition/)：取得、獲得
+- [sale](/word/sale/)：販売
 
 ---
 
 ## 📖 できればこれも
 
-- [supplier](/word/supplier)：供給業者
-- [invoice](/word/invoice)：請求書
+- [supplier](/word/supplier/)：供給業者
+- [invoice](/word/invoice/)：請求書
 
 <!-- cvid: aid15_bid33 -->

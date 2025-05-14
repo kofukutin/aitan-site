@@ -97,7 +97,7 @@ TOEICでは主にビジネスや技術関連の記事、会社紹介文などで
 ## 🤔  invention との違いは？
 
 - **innovation**：既存のものを新しく改良・変革すること
-- **[invention](/word/invention)**：まったく新しいものを発明すること
+- **[invention](/word/invention/)**：まったく新しいものを発明すること
 
 「innovation」は改良や新しいアイデアの導入、「invention」はゼロからの発明という違いがあります。
 
@@ -105,14 +105,14 @@ TOEICでは主にビジネスや技術関連の記事、会社紹介文などで
 
 ## 🧩 あわせて覚えたい
 
-- [improvement](/word/improvement)：改善、改良
-- [creativity](/word/creativity)：創造力
+- [improvement](/word/improvement/)：改善、改良
+- [creativity](/word/creativity/)：創造力
 
 ---
 
 ## 📖 できればこれも
 
-- [strategy](/word/strategy)：戦略
-- [solution](/word/solution)：解決策
+- [strategy](/word/strategy/)：戦略
+- [solution](/word/solution/)：解決策
 
 <!-- cvid: aid48_bid37 -->

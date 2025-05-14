@@ -97,7 +97,7 @@ TOEICでは環境問題や災害、経済的損失などの文脈で出題され
 ## 🤔  damage との違いは？
 
 - **destruction**：元の形がなくなるほどの「完全な破壊」
-- **[damage](/word/damage)**：部分的な「損傷」や「被害」
+- **[damage](/word/damage/)**：部分的な「損傷」や「被害」
 
 **destruction**は「全壊」や「壊滅」など、元に戻せないほどの壊れ方を指しますが、**damage**は「一部が壊れる」「損傷する」など、修復可能な場合にも使います。
 
@@ -105,14 +105,14 @@ TOEICでは環境問題や災害、経済的損失などの文脈で出題され
 
 ## 🧩 あわせて覚えたい
 
-- [ruin](/word/ruin)：荒廃、破滅
-- [creation](/word/creation)：創造、創作
+- [ruin](/word/ruin/)：荒廃、破滅
+- [creation](/word/creation/)：創造、創作
 
 ---
 
 ## 📖 できればこれも
 
-- [pollution](/word/pollution)：汚染
-- [disaster](/word/disaster)：災害
+- [pollution](/word/pollution/)：汚染
+- [disaster](/word/disaster/)：災害
 
 <!-- cvid: aid13_bid48 -->

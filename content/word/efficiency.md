@@ -97,7 +97,7 @@ TOEICではビジネス文脈で「効率」や「能率」を問う設問でよ
 ## 🤔  effectiveness との違いは？
 
 - **efficiency**：無駄なく資源や時間を使って成果を出すこと
-- **[effectiveness](/word/effectiveness)**：目的や目標をどれだけ達成できたか
+- **[effectiveness](/word/effectiveness/)**：目的や目標をどれだけ達成できたか
 
 efficiencyは「やり方の無駄のなさ」、effectivenessは「結果の達成度」に重点があります。
 
@@ -105,14 +105,14 @@ efficiencyは「やり方の無駄のなさ」、effectivenessは「結果の達
 
 ## 🧩 あわせて覚えたい
 
-- [productivity](/word/productivity)：生産性
-- [inefficiency](/word/inefficiency)：非効率
+- [productivity](/word/productivity/)：生産性
+- [inefficiency](/word/inefficiency/)：非効率
 
 ---
 
 ## 📖 できればこれも
 
-- [performance](/word/performance)：業績、性能
-- [accuracy](/word/accuracy)：正確さ
+- [performance](/word/performance/)：業績、性能
+- [accuracy](/word/accuracy/)：正確さ
 
 <!-- cvid: aid07_bid27 -->

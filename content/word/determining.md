@@ -97,7 +97,7 @@ TOEICでは、動詞の形や文脈に合った語彙選択問題で出題され
 ## 🤔  decide との違いは？
 
 - **determining**：何かを決定したり、結果や性質を左右したりする過程や行為を強調
-- **[decide](/word/decide)**：最終的な決断・選択をすることを強調
+- **[decide](/word/decide/)**：最終的な決断・選択をすることを強調
 
 determiningは「決定する過程」や「要因を特定する」ニュアンスがあり、decideは「最終的に選ぶ・決める」ことに重点があります。
 
@@ -105,14 +105,14 @@ determiningは「決定する過程」や「要因を特定する」ニュアン
 
 ## 🧩 あわせて覚えたい
 
-- [identify](/word/identify)：特定する、識別する
-- [specify](/word/specify)：明確に述べる、指定する
+- [identify](/word/identify/)：特定する、識別する
+- [specify](/word/specify/)：明確に述べる、指定する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze)：分析する
-- [assess](/word/assess)：評価する
+- [analyze](/word/analyze/)：分析する
+- [assess](/word/assess/)：評価する
 
 <!-- cvid: aid30_bid23 -->

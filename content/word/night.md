@@ -97,7 +97,7 @@ TOEICではPart 1やPart 2で、時間帯や日常のシーンを説明する際
 ## 🤔  evening との違いは？
 
 - **night**：日が完全に沈んだ後から朝までの暗い時間帯
-- **[evening](/word/evening)**：日没から寝る前までの比較的早い時間帯
+- **[evening](/word/evening/)**：日没から寝る前までの比較的早い時間帯
 
 nightは「夜全体」や「深夜」も含みますが、eveningは「夕方から夜の初め」までの時間を指します。
 
@@ -105,14 +105,14 @@ nightは「夜全体」や「深夜」も含みますが、eveningは「夕方�
 
 ## 🧩 あわせて覚えたい
 
-- [midnight](/word/midnight)：真夜中、午前0時
-- [day](/word/day)：昼間、日中
+- [midnight](/word/midnight/)：真夜中、午前0時
+- [day](/word/day/)：昼間、日中
 
 ---
 
 ## 📖 できればこれも
 
-- [morning](/word/morning)：朝
-- [afternoon](/word/afternoon)：午後
+- [morning](/word/morning/)：朝
+- [afternoon](/word/afternoon/)：午後
 
 <!-- cvid: aid28_bid08 -->

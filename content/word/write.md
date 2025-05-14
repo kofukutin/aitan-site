@@ -97,7 +97,7 @@ TOEICでは「書く」「記入する」という意味で、指示文や依頼
 ## 🤔  record との違いは？
 
 - **write**：文字や文章を「書く」「記入する」こと全般を指す
-- **[record](/word/record)**：情報や出来事を「記録する」「保存する」ことに重点
+- **[record](/word/record/)**：情報や出来事を「記録する」「保存する」ことに重点
 
 writeは日常的な「書く」動作全般に使い、recordは公式な記録や保存のニュアンスが強いです。
 
@@ -105,14 +105,14 @@ writeは日常的な「書く」動作全般に使い、recordは公式な記録
 
 ## 🧩 あわせて覚えたい
 
-- [type](/word/type)：タイプする、入力する
-- [edit](/word/edit)：編集する
+- [type](/word/type/)：タイプする、入力する
+- [edit](/word/edit/)：編集する
 
 ---
 
 ## 📖 できればこれも
 
-- [draw](/word/draw)：描く
-- [send](/word/send)：送る
+- [draw](/word/draw/)：描く
+- [send](/word/send/)：送る
 
 <!-- cvid: aid49_bid47 -->

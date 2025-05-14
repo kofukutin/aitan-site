@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「携帯電話」に関する話題が出る際
 
 ## 🧩 あわせて覚えたい
 
-- [smartphone](/word/smartphone)：スマートフォン（高機能携帯電話）
-- [landline](/word/landline)：固定電話
+- [smartphone](/word/smartphone/)：スマートフォン（高機能携帯電話）
+- [landline](/word/landline/)：固定電話
 
 ---
 
 ## 📖 できればこれも
 
-- [laptop](/word/laptop)：ノートパソコン
-- [tablet](/word/tablet)：タブレット端末
+- [laptop](/word/laptop/)：ノートパソコン
+- [tablet](/word/tablet/)：タブレット端末
 
 <!-- cvid: aid09_bid12 -->

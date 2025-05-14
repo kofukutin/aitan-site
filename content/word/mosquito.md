@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、屋外や自然の場面で登場す
 ## 🤔  gnat との違いは？
 
 - **mosquito**：血を吸う蚊を指し、刺されると痒みが出る。
-- **[gnat](/word/gnat)**：小さな飛ぶ虫の総称で、刺さない種類が多い。
+- **[gnat](/word/gnat/)**：小さな飛ぶ虫の総称で、刺さない種類が多い。
 
 mosquitoは「刺す蚊」、gnatは「刺さない小さな虫」と覚えると区別しやすいです。
 
@@ -105,14 +105,14 @@ mosquitoは「刺す蚊」、gnatは「刺さない小さな虫」と覚える�
 
 ## 🧩 あわせて覚えたい
 
-- [fly](/word/fly)：ハエ
-- [insect](/word/insect)：昆虫
+- [fly](/word/fly/)：ハエ
+- [insect](/word/insect/)：昆虫
 
 ---
 
 ## 📖 できればこれも
 
-- [ant](/word/ant)：アリ
-- [bee](/word/bee)：ハチ
+- [ant](/word/ant/)：アリ
+- [bee](/word/bee/)：ハチ
 
 <!-- cvid: aid25_bid04 -->

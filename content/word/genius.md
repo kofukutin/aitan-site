@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文や記事、人物紹介などで「天才」「
 ## 🤔  talent との違いは？
 
 - **genius**：生まれつきの非常に高い知能や特別な才能を指し、突出したレベルを強調する。
-- **[talent](/word/talent)**：努力や訓練によって伸ばせる「才能・素質」を広く指す。
+- **[talent](/word/talent/)**：努力や訓練によって伸ばせる「才能・素質」を広く指す。
 
 geniusは「天才」と呼ばれるほどの圧倒的な能力、talentは「得意分野」や「素質」など幅広いレベルの才能に使われます。
 
@@ -105,14 +105,14 @@ geniusは「天才」と呼ばれるほどの圧倒的な能力、talentは「�
 
 ## 🧩 あわせて覚えたい
 
-- [prodigy](/word/prodigy)：神童、天才児
-- [expert](/word/expert)：専門家、熟練者
+- [prodigy](/word/prodigy/)：神童、天才児
+- [expert](/word/expert/)：専門家、熟練者
 
 ---
 
 ## 📖 できればこれも
 
-- [creativity](/word/creativity)：創造力
-- [skill](/word/skill)：技術、スキル
+- [creativity](/word/creativity/)：創造力
+- [skill](/word/skill/)：技術、スキル
 
 <!-- cvid: aid15_bid47 -->

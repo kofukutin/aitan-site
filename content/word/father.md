@@ -97,7 +97,7 @@ TOEICでは家族や人物を描写する写真問題でよく登場します。
 ## 🤔  parent との違いは？
 
 - **father**：家族の中で「父親」という男性の親を指す。
-- **[parent](/word/parent)**：父母どちらか、または両方の「親」を指すより広い言い方。
+- **[parent](/word/parent/)**：父母どちらか、または両方の「親」を指すより広い言い方。
 
 fatherは男性の親を限定的に指し、parentは性別を問わず親全体を指します。
 
@@ -105,14 +105,14 @@ fatherは男性の親を限定的に指し、parentは性別を問わず親全�
 
 ## 🧩 あわせて覚えたい
 
-- [mother](/word/mother)：母、母親
-- [son](/word/son)：息子
+- [mother](/word/mother/)：母、母親
+- [son](/word/son/)：息子
 
 ---
 
 ## 📖 できればこれも
 
-- [brother](/word/brother)：兄、弟
-- [family](/word/family)：家族
+- [brother](/word/brother/)：兄、弟
+- [family](/word/family/)：家族
 
 <!-- cvid: aid22_bid32 -->

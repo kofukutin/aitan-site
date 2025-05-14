@@ -97,7 +97,7 @@ TOEICでは「柔軟に対応する」「調整する」という意味で出題
 ## 🤔  bend との違いは？
 
 - **flex**：体の一部や物を「曲げる」、筋肉を動かす、または（カジュアルに）自慢する
-- **[bend](/word/bend)**：物理的に「曲げる」、特に形を変えることに重点
+- **[bend](/word/bend/)**：物理的に「曲げる」、特に形を変えることに重点
 
 flexは筋肉やスケジュールなど「柔軟に動かす・調整する」ニュアンスがあり、bendは単純に「形を曲げる」動作に使います。
 
@@ -105,14 +105,14 @@ flexは筋肉やスケジュールなど「柔軟に動かす・調整する」�
 
 ## 🧩 あわせて覚えたい
 
-- [stretch](/word/stretch)：伸ばす、広げる
-- [contract](/word/contract)：縮める、収縮する
+- [stretch](/word/stretch/)：伸ばす、広げる
+- [contract](/word/contract/)：縮める、収縮する
 
 ---
 
 ## 📖 できればこれも
 
-- [twist](/word/twist)：ねじる、ひねる
-- [adjust](/word/adjust)：調整する、適応させる
+- [twist](/word/twist/)：ねじる、ひねる
+- [adjust](/word/adjust/)：調整する、適応させる
 
 <!-- cvid: aid44_bid14 -->

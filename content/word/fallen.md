@@ -97,7 +97,7 @@ TOEICでは、売上や数値、物の状態が「落ちた」「減った」こ
 ## 🤔  dropped との違いは？
 
 - **fallen**：自分の力や自然な流れで「落ちた」「倒れた」状態を表す
-- **[dropped](/word/dropped)**：誰かが「落とした」など、外部の力で落ちたことを強調
+- **[dropped](/word/dropped/)**：誰かが「落とした」など、外部の力で落ちたことを強調
 
 fallenは自然現象や自発的な動作の結果を表し、droppedは人や何かの作用で落ちた場合に使います。
 
@@ -105,14 +105,14 @@ fallenは自然現象や自発的な動作の結果を表し、droppedは人や�
 
 ## 🧩 あわせて覚えたい
 
-- [decline](/word/decline)：減少する、下落する
-- [lower](/word/lower)：下げる、低くする
+- [decline](/word/decline/)：減少する、下落する
+- [lower](/word/lower/)：下げる、低くする
 
 ---
 
 ## 📖 できればこれも
 
-- [broken](/word/broken)：壊れた
-- [damaged](/word/damaged)：損傷した
+- [broken](/word/broken/)：壊れた
+- [damaged](/word/damaged/)：損傷した
 
 <!-- cvid: aid04_bid01 -->

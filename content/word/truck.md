@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、トラックが写っている場面
 ## 🤔  lorry との違いは？
 
 - **truck**：アメリカ英語で「トラック」を指す一般的な単語。
-- **[lorry](/word/lorry)**：イギリス英語で「トラック」を指す単語。
+- **[lorry](/word/lorry/)**：イギリス英語で「トラック」を指す単語。
 
 アメリカでは「truck」、イギリスでは「lorry」と呼ぶのが一般的です。意味はほぼ同じですが、使われる地域が異なります。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写で、トラックが写っている場面
 
 ## 🧩 あわせて覚えたい
 
-- [van](/word/van)：小型の貨物車
-- [freight](/word/freight)：貨物、輸送貨物
+- [van](/word/van/)：小型の貨物車
+- [freight](/word/freight/)：貨物、輸送貨物
 
 ---
 
 ## 📖 できればこれも
 
-- [car](/word/car)：自動車
-- [deliver](/word/deliver)：配達する
+- [car](/word/car/)：自動車
+- [deliver](/word/deliver/)：配達する
 
 <!-- cvid: aid23_bid17 -->

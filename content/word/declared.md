@@ -97,7 +97,7 @@ TOEICでは、declareの過去形・過去分詞であるdeclaredが、公式な
 ## 🤔  announced との違いは？
 
 - **declared**：公式に、または強い意志をもって「宣言した」「公表した」
-- **[announced](/word/announced)**：広く「発表した」「知らせた」
+- **[announced](/word/announced/)**：広く「発表した」「知らせた」
 
 declaredは「公式な宣言」や「強い意志」を伴うニュアンスがあり、announcedは単に情報を伝える場合に使われます。
 
@@ -105,14 +105,14 @@ declaredは「公式な宣言」や「強い意志」を伴うニュアンスが
 
 ## 🧩 あわせて覚えたい
 
-- [proclaim](/word/proclaim)：（公式に）宣言する
-- [state](/word/state)：述べる、明言する
+- [proclaim](/word/proclaim/)：（公式に）宣言する
+- [state](/word/state/)：述べる、明言する
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/word/confirm)：確認する、確かめる
-- [report](/word/report)：報告する
+- [confirm](/word/confirm/)：確認する、確かめる
+- [report](/word/report/)：報告する
 
 <!-- cvid: aid34_bid48 -->

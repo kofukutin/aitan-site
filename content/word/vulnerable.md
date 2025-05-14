@@ -97,7 +97,7 @@ TOEICでは、セキュリティやリスク管理、ビジネス上の弱点な
 ## 🤔  sensitive との違いは？
 
 - **vulnerable**：外部からの攻撃や影響に「弱い」「傷つきやすい」状態
-- **[sensitive](/word/sensitive)**：感情や感覚が「敏感な」「感じやすい」状態
+- **[sensitive](/word/sensitive/)**：感情や感覚が「敏感な」「感じやすい」状態
 
 vulnerableは「守りが弱く、被害を受けやすい」ニュアンス、sensitiveは「感受性が強い」ニュアンスで使い分けます。
 
@@ -105,14 +105,14 @@ vulnerableは「守りが弱く、被害を受けやすい」ニュアンス、s
 
 ## 🧩 あわせて覚えたい
 
-- [resistant](/word/resistant)：耐性がある、強い
-- [fragile](/word/fragile)：壊れやすい、もろい
+- [resistant](/word/resistant/)：耐性がある、強い
+- [fragile](/word/fragile/)：壊れやすい、もろい
 
 ---
 
 ## 📖 できればこれも
 
-- [secure](/word/secure)：安全な、守られている
-- [exposed](/word/exposed)：さらされた、むき出しの
+- [secure](/word/secure/)：安全な、守られている
+- [exposed](/word/exposed/)：さらされた、むき出しの
 
 <!-- cvid: aid12_bid26 -->

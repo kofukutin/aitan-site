@@ -97,7 +97,7 @@ TOEICではビジネス文書やEメール、報告書などで「在庫」や�
 ## 🤔  stock との違いは？
 
 - **inventory**：在庫全体や棚卸しの一覧、管理の意味合いが強い
-- **[stock](/word/stock)**：商品や材料などの「在庫品」そのものを指す
+- **[stock](/word/stock/)**：商品や材料などの「在庫品」そのものを指す
 
 inventoryは「在庫管理」や「棚卸し作業」など全体的な管理やリストを指し、stockは実際の「品物」や「商品」を指す点が異なります。
 
@@ -105,14 +105,14 @@ inventoryは「在庫管理」や「棚卸し作業」など全体的な管理�
 
 ## 🧩 あわせて覚えたい
 
-- [asset](/word/asset)：資産
-- [catalog](/word/catalog)：カタログ、目録
+- [asset](/word/asset/)：資産
+- [catalog](/word/catalog/)：カタログ、目録
 
 ---
 
 ## 📖 できればこれも
 
-- [supply](/word/supply)：供給、備品
-- [shipment](/word/shipment)：出荷、発送
+- [supply](/word/supply/)：供給、備品
+- [shipment](/word/shipment/)：出荷、発送
 
 <!-- cvid: aid30_bid10 -->

@@ -97,7 +97,7 @@ TOEICでは契約書や規則、説明文などで「法的に」「法律上」
 ## 🤔  lawfully との違いは？
 
 - **legally**：法律に従って、法的に（一般的な法的基準や手続きに沿っていることを強調）
-- **[lawfully](/word/lawfully)**：合法的に、法律に違反していない状態（特に「違法ではない」ことを強調）
+- **[lawfully](/word/lawfully/)**：合法的に、法律に違反していない状態（特に「違法ではない」ことを強調）
 
 legallyは「法律上正しい手続きや基準」を、lawfullyは「違法でないこと」や「正当な権利」を強調する場面で使い分けます。
 
@@ -105,14 +105,14 @@ legallyは「法律上正しい手続きや基準」を、lawfullyは「違法�
 
 ## 🧩 あわせて覚えたい
 
-- [illegally](/word/illegally)：違法に
-- [officially](/word/officially)：公式に
+- [illegally](/word/illegally/)：違法に
+- [officially](/word/officially/)：公式に
 
 ---
 
 ## 📖 できればこれも
 
-- [legal](/word/legal)：法律の、合法の
-- [regulation](/word/regulation)：規則、規制
+- [legal](/word/legal/)：法律の、合法の
+- [regulation](/word/regulation/)：規則、規制
 
 <!-- cvid: aid03_bid12 -->

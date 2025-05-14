@@ -97,7 +97,7 @@ TOEICでは歴史や期間を説明する長文や記事でよく登場します
 ## 🤔  decade との違いは？
 
 - **century**：100年間（世紀）を表す
-- **[decade](/word/decade)**：10年間（十年）を表す
+- **[decade](/word/decade/)**：10年間（十年）を表す
 
 centuryは100年、decadeは10年という期間の長さの違いがあります。歴史や年表で使い分けます。
 
@@ -105,13 +105,13 @@ centuryは100年、decadeは10年という期間の長さの違いがありま�
 
 ## 🧩 あわせて覚えたい
 
-- [millennium](/word/millennium)：1000年間、千年紀
-- [era](/word/era)：時代、時期
+- [millennium](/word/millennium/)：1000年間、千年紀
+- [era](/word/era/)：時代、時期
 
 ---
 
 ## 📖 できればこれも
 
-- [history](/word/history)：歴史
-- [period](/word/period)：期間、時代
+- [history](/word/history/)：歴史
+- [period](/word/period/)：期間、時代
 <!-- cvid: aid16_bid45 -->

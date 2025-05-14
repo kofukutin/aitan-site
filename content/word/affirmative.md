@@ -97,7 +97,7 @@ TOEICでは主に文書や会議のやりとりで「肯定的な返答」や「
 ## 🤔  positive との違いは？
 
 - **affirmative**：肯定的・賛成の（特に返答や意見が「Yes」であることを強調）
-- **[positive](/word/positive)**：積極的・前向き・肯定的（広く「良い」「前向き」な意味で使う）
+- **[positive](/word/positive/)**：積極的・前向き・肯定的（広く「良い」「前向き」な意味で使う）
 
 affirmativeは「Yes」と明確に肯定する返答や意見に使い、positiveは「前向き」「積極的」など幅広い良い意味で使います。
 
@@ -105,14 +105,14 @@ affirmativeは「Yes」と明確に肯定する返答や意見に使い、positi
 
 ## 🧩 あわせて覚えたい
 
-- [negative](/word/negative)：否定的な、反対の
-- [approve](/word/approve)：承認する、賛成する
+- [negative](/word/negative/)：否定的な、反対の
+- [approve](/word/approve/)：承認する、賛成する
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/word/confirm)：確認する、確かめる
-- [assertive](/word/assertive)：自己主張が強い、断定的な
+- [confirm](/word/confirm/)：確認する、確かめる
+- [assertive](/word/assertive/)：自己主張が強い、断定的な
 
 <!-- cvid: aid10_bid01 -->

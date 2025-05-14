@@ -106,7 +106,7 @@ TOEICでは「be able to ～」の形で、canとの使い分けや時制表現�
 ## 🤔  capable との違いは？
 
 - **able**：状況や条件が整えば「できる」ことを表す、一般的な表現。
-- **[capable](/word/capable)**：訓練や経験により「有能である」「能力が高い」ことを強調。
+- **[capable](/word/capable/)**：訓練や経験により「有能である」「能力が高い」ことを強調。
 
 「able」は単に可能性や状況を指し、「capable」はより高い能力や専門性を強調します。
 
@@ -114,14 +114,14 @@ TOEICでは「be able to ～」の形で、canとの使い分けや時制表現�
 
 ## 🧩 あわせて覚えたい
 
-- [unable](/word/unable)：できない
-- [qualified](/word/qualified)：資格がある、適任の
+- [unable](/word/unable/)：できない
+- [qualified](/word/qualified/)：資格がある、適任の
 
 ---
 
 ## 📖 できればこれも
 
-- [available](/word/available)：利用できる、手が空いている
-- [efficient](/word/efficient)：効率的な
+- [available](/word/available/)：利用できる、手が空いている
+- [efficient](/word/efficient/)：効率的な
 
 <!-- cvid: aid06_bid46 -->

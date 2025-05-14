@@ -98,7 +98,7 @@ TOEICではビジネス文書や広告、Eメールなどで「市場」「マ�
 ## 🤔  store との違いは？
 
 - **market**：商品やサービスが売買される場所や経済的な市場全体を指す
-- **[store](/word/store)**：商品を販売する個々の店舗やお店を指す
+- **[store](/word/store/)**：商品を販売する個々の店舗やお店を指す
 
 marketは「市場」や「マーケット」として広い範囲や経済的な意味も持ちますが、storeは「お店」「店舗」として個別の販売場所を指します。
 
@@ -106,14 +106,14 @@ marketは「市場」や「マーケット」として広い範囲や経済的�
 
 ## 🧩 あわせて覚えたい
 
-- [shop](/word/shop)：小売店、商店
-- [bazaar](/word/bazaar)：バザー、市場（特に東洋や中東の市場）
+- [shop](/word/shop/)：小売店、商店
+- [bazaar](/word/bazaar/)：バザー、市場（特に東洋や中東の市場）
 
 ---
 
 ## 📖 できればこれも
 
-- [customer](/word/customer)：顧客
-- [product](/word/product)：製品
+- [customer](/word/customer/)：顧客
+- [product](/word/product/)：製品
 
 <!-- cvid: aid10_bid39 -->

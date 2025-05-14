@@ -97,7 +97,7 @@ TOEICでは、提案や申請、アイデアなどを「却下する」「拒否
 ## 🤔  refuse との違いは？
 
 - **reject**：申し出や提案などを正式に「却下する」「受け入れない」
-- **[refuse](/word/refuse)**：依頼や要求などを「断る」「拒む」
+- **[refuse](/word/refuse/)**：依頼や要求などを「断る」「拒む」
 
 rejectは書類や提案などを客観的・公式に却下する場面で使われ、refuseは人の依頼や誘いを主観的に断るときに使われます。
 
@@ -105,14 +105,14 @@ rejectは書類や提案などを客観的・公式に却下する場面で使�
 
 ## 🧩 あわせて覚えたい
 
-- [accept](/word/accept)：受け入れる
-- [decline](/word/decline)：丁寧に断る
+- [accept](/word/accept/)：受け入れる
+- [decline](/word/decline/)：丁寧に断る
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/word/approve)：承認する
-- [deny](/word/deny)：否定する
+- [approve](/word/approve/)：承認する
+- [deny](/word/deny/)：否定する
 
 <!-- cvid: aid23_bid38 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、赤ちゃんや動物、機械が何
 ## 🤔  licking との違いは？
 
 - **sucking**：口で吸い込む動作や状態を表す
-- **[licking](/word/licking)**：舌でなめる動作を表す
+- **[licking](/word/licking/)**：舌でなめる動作を表す
 
 suckingは「吸う」、lickingは「なめる」と動作が異なり、使う場面も異なります。
 
@@ -105,14 +105,14 @@ suckingは「吸う」、lickingは「なめる」と動作が異なり、使う
 
 ## 🧩 あわせて覚えたい
 
-- [chewing](/word/chewing)：かむこと
-- [swallowing](/word/swallowing)：飲み込むこと
+- [chewing](/word/chewing/)：かむこと
+- [swallowing](/word/swallowing/)：飲み込むこと
 
 ---
 
 ## 📖 できればこれも
 
-- [biting](/word/biting)：かむこと
-- [drinking](/word/drinking)：飲むこと
+- [biting](/word/biting/)：かむこと
+- [drinking](/word/drinking/)：飲むこと
 
 <!-- cvid: aid36_bid17 -->

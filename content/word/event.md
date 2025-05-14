@@ -97,7 +97,7 @@ TOEICでは会議やビジネスシーンの会話で「event」がよく登場�
 ## 🤔  incident との違いは？
 
 - **event**：一般的な出来事や行事、特に予定された催しを指す
-- **[incident](/word/incident)**：予期せぬ出来事や、しばしば問題やトラブルを含む出来事
+- **[incident](/word/incident/)**：予期せぬ出来事や、しばしば問題やトラブルを含む出来事
 
 eventはポジティブ・中立的な意味で使われることが多いですが、incidentは予期しない、時にネガティブな出来事を指します。
 
@@ -105,14 +105,14 @@ eventはポジティブ・中立的な意味で使われることが多いです
 
 ## 🧩 あわせて覚えたい
 
-- [occasion](/word/occasion)：特別な機会、出来事
-- [activity](/word/activity)：活動、行動
+- [occasion](/word/occasion/)：特別な機会、出来事
+- [activity](/word/activity/)：活動、行動
 
 ---
 
 ## 📖 できればこれも
 
-- [meeting](/word/meeting)：会議、打ち合わせ
-- [conference](/word/conference)：会議、大会
+- [meeting](/word/meeting/)：会議、打ち合わせ
+- [conference](/word/conference/)：会議、大会
 
 <!-- cvid: aid47_bid36 -->

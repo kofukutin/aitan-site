@@ -97,7 +97,7 @@ TOEICでは観光案内や物語、イベント紹介などの長文で登場す
 ## 🤔  spirit との違いは？
 
 - **ghost**：死者の魂が姿を現す「幽霊」や「亡霊」を指し、怖いイメージが強い。
-- **[spirit](/word/spirit)**：魂や精神全般を指し、宗教的・哲学的な意味合いもある。
+- **[spirit](/word/spirit/)**：魂や精神全般を指し、宗教的・哲学的な意味合いもある。
 
 ghostは「見える幽霊」、spiritは「目に見えない魂」や「精神」を表すことが多く、使い分けが必要です。
 
@@ -105,14 +105,14 @@ ghostは「見える幽霊」、spiritは「目に見えない魂」や「精神
 
 ## 🧩 あわせて覚えたい
 
-- [phantom](/word/phantom)：幻影、幽霊
-- [haunt](/word/haunt)：（幽霊などが）出没する
+- [phantom](/word/phantom/)：幻影、幽霊
+- [haunt](/word/haunt/)：（幽霊などが）出没する
 
 ---
 
 ## 📖 できればこれも
 
-- [monster](/word/monster)：怪物
-- [legend](/word/legend)：伝説
+- [monster](/word/monster/)：怪物
+- [legend](/word/legend/)：伝説
 
 <!-- cvid: aid39_bid19 -->

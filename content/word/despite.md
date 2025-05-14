@@ -93,7 +93,7 @@ TOEICでは文法問題で「in spite of」や「although」との使い分け�
 ## 🤔  although との違いは？
 
 - **despite**：前置詞で、後ろに名詞や名詞句を置く。「～にもかかわらず」
-- **[although](/word/although)**：接続詞で、後ろに主語＋動詞の文を置く。「～だけれども」
+- **[although](/word/although/)**：接続詞で、後ろに主語＋動詞の文を置く。「～だけれども」
 
 despiteは名詞句、althoughは文を導く点が大きな違いです。
 
@@ -101,14 +101,14 @@ despiteは名詞句、althoughは文を導く点が大きな違いです。
 
 ## 🧩 あわせて覚えたい
 
-- [in spite of](/word/in_spite_of)：despiteと同じ意味の前置詞
-- [however](/word/however)：しかしながら（副詞）
+- [in spite of](/word/in_spite_of/)：despiteと同じ意味の前置詞
+- [however](/word/however/)：しかしながら（副詞）
 
 ---
 
 ## 📖 できればこれも
 
-- [due to](/word/due_to)：～が原因で（前置詞）
-- [unless](/word/unless)：もし～でなければ（接続詞）
+- [due to](/word/due_to/)：～が原因で（前置詞）
+- [unless](/word/unless/)：もし～でなければ（接続詞）
 
 <!-- cvid: aid19_bid11 -->

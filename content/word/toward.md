@@ -93,7 +93,7 @@ TOEICでは主にPart 1の写真描写や、動作の方向を説明する場面
 ## 🤔  to との違いは？
 
 - **toward**：方向や目標に「向かっている」途中のニュアンス
-- **[to](/word/to)**：到達点や目的地そのものを強調
+- **[to](/word/to/)**：到達点や目的地そのものを強調
 
 towardは「～の方へ進む」動作や過程を表し、toは「～に到着する」「～まで」という到達点を強調します。
 
@@ -101,14 +101,14 @@ towardは「～の方へ進む」動作や過程を表し、toは「～に到着
 
 ## 🧩 あわせて覚えたい
 
-- [against](/word/against)：～に対して、～に反対して
-- [into](/word/into)：～の中へ
+- [against](/word/against/)：～に対して、～に反対して
+- [into](/word/into/)：～の中へ
 
 ---
 
 ## 📖 できればこれも
 
-- [across](/word/across)：～を横切って
-- [through](/word/through)：～を通って
+- [across](/word/across/)：～を横切って
+- [through](/word/through/)：～を通って
 
 <!-- cvid: aid49_bid01 -->

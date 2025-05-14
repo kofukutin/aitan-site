@@ -98,7 +98,7 @@ TOEICでは、音楽イベントやチーム活動、または「band together�
 ## 🤔  group との違いは？
 
 - **band**：音楽を演奏するグループや、輪・帯など「まとまり」を強調
-- **[group](/word/group)**：共通の目的や特徴を持つ「集団」全般
+- **[group](/word/group/)**：共通の目的や特徴を持つ「集団」全般
 
 bandは特に音楽グループや物理的に束ねるものに使い、groupはより広い意味で人や物の集まり全般に使います。
 
@@ -106,14 +106,14 @@ bandは特に音楽グループや物理的に束ねるものに使い、group�
 
 ## 🧩 あわせて覚えたい
 
-- [team](/word/team)：チーム、共同作業をする集団
-- [orchestra](/word/orchestra)：オーケストラ、管弦楽団
+- [team](/word/team/)：チーム、共同作業をする集団
+- [orchestra](/word/orchestra/)：オーケストラ、管弦楽団
 
 ---
 
 ## 📖 できればこれも
 
-- [club](/word/club)：クラブ、同好会
-- [circle](/word/circle)：サークル、仲間の集まり
+- [club](/word/club/)：クラブ、同好会
+- [circle](/word/circle/)：サークル、仲間の集まり
 
 <!-- cvid: aid20_bid41 -->

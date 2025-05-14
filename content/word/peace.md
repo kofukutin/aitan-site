@@ -97,7 +97,7 @@ TOEICでは、国際関係やビジネスの話題で「peace」が登場する�
 ## 🤔  calm との違いは？
 
 - **peace**：争いがない状態や心の安らぎを指す
-- **[calm](/word/calm)**：落ち着いている様子や静けさを指す
+- **[calm](/word/calm/)**：落ち着いている様子や静けさを指す
 
 「peace」は社会的な平和や心の安らぎなど広い意味で使われ、「calm」は主に感情や天候などが静かな状態を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、国際関係やビジネスの話題で「peace」が登場する�
 
 ## 🧩 あわせて覚えたい
 
-- [conflict](/word/conflict)：争い、対立
-- [harmony](/word/harmony)：調和、一致
+- [conflict](/word/conflict/)：争い、対立
+- [harmony](/word/harmony/)：調和、一致
 
 ---
 
 ## 📖 できればこれも
 
-- [quiet](/word/quiet)：静かな
-- [order](/word/order)：秩序、順序
+- [quiet](/word/quiet/)：静かな
+- [order](/word/order/)：秩序、順序
 
 <!-- cvid: aid13_bid40 -->

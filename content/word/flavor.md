@@ -97,7 +97,7 @@ TOEICでは、飲食や商品説明の会話で「flavor」が登場すること
 ## 🤔  taste との違いは？
 
 - **flavor**：味と香りを含めた「風味」全体を指す
-- **[taste](/word/taste)**：舌で感じる「味覚」そのもの
+- **[taste](/word/taste/)**：舌で感じる「味覚」そのもの
 
 flavorは香りや全体的な印象も含む広い意味、tasteは舌で感じる味そのものを指します。
 
@@ -105,14 +105,14 @@ flavorは香りや全体的な印象も含む広い意味、tasteは舌で感じ
 
 ## 🧩 あわせて覚えたい
 
-- [aroma](/word/aroma)：香り、芳香
-- [scent](/word/scent)：におい、香り
+- [aroma](/word/aroma/)：香り、芳香
+- [scent](/word/scent/)：におい、香り
 
 ---
 
 ## 📖 できればこれも
 
-- [smell](/word/smell)：におい、嗅覚
-- [ingredient](/word/ingredient)：材料、成分
+- [smell](/word/smell/)：におい、嗅覚
+- [ingredient](/word/ingredient/)：材料、成分
 
 <!-- cvid: aid38_bid18 -->

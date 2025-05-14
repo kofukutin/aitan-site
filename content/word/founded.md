@@ -97,7 +97,7 @@ TOEICでは、設立年や会社紹介の文脈で過去分詞としてよく出
 ## 🤔  established との違いは？
 
 - **founded**：新しく組織や会社などを「設立した」ことを強調
-- **[established](/word/established)**：制度や関係、伝統などを「確立した」「定着させた」ことを強調
+- **[established](/word/established/)**：制度や関係、伝統などを「確立した」「定着させた」ことを強調
 
 foundedは「ゼロから始めた」ニュアンスが強く、establishedは「安定させた」「しっかり根付かせた」意味合いで使い分けます。
 
@@ -105,14 +105,14 @@ foundedは「ゼロから始めた」ニュアンスが強く、establishedは�
 
 ## 🧩 あわせて覚えたい
 
-- [launch](/word/launch)：開始する、立ち上げる
-- [abolish](/word/abolish)：廃止する
+- [launch](/word/launch/)：開始する、立ち上げる
+- [abolish](/word/abolish/)：廃止する
 
 ---
 
 ## 📖 できればこれも
 
-- [create](/word/create)：作り出す
-- [organize](/word/organize)：組織する、まとめる
+- [create](/word/create/)：作り出す
+- [organize](/word/organize/)：組織する、まとめる
 
 <!-- cvid: aid12_bid28 -->

@@ -97,7 +97,7 @@ TOEICでは「社員を訓練する」「新しいシステムに慣れさせる
 ## 🤔  educate との違いは？
 
 - **train**：特定のスキルや実践的な能力を身につけさせるために訓練する
-- **[educate](/word/educate)**：知識や教養を広く身につけさせるために教育する
+- **[educate](/word/educate/)**：知識や教養を広く身につけさせるために教育する
 
 trainは「実践的な訓練」、educateは「知識や人格形成を含む広い教育」といった違いがあります。
 
@@ -105,14 +105,14 @@ trainは「実践的な訓練」、educateは「知識や人格形成を含む�
 
 ## 🧩 あわせて覚えたい
 
-- [practice](/word/practice)：練習する、実践する
-- [coach](/word/coach)：指導する、コーチする
+- [practice](/word/practice/)：練習する、実践する
+- [coach](/word/coach/)：指導する、コーチする
 
 ---
 
 ## 📖 できればこれも
 
-- [prepare](/word/prepare)：準備する
-- [improve](/word/improve)：改善する、向上させる
+- [prepare](/word/prepare/)：準備する
+- [improve](/word/improve/)：改善する、向上させる
 
 <!-- cvid: aid40_bid27 -->

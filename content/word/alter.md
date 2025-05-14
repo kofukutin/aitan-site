@@ -97,7 +97,7 @@ TOEICでは、文書の修正や手順の変更など、ビジネス文脈で「
 ## 🤔  change との違いは？
 
 - **alter**：一部を手直し・修正して変える（部分的・フォーマル）
-- **[change](/word/change)**：全体を新しくする、根本的に変える（幅広い場面で使用）
+- **[change](/word/change/)**：全体を新しくする、根本的に変える（幅広い場面で使用）
 
 「alter」は部分的な変更や修正に使われ、「change」は全体的・根本的な変化にも使えます。
 
@@ -105,14 +105,14 @@ TOEICでは、文書の修正や手順の変更など、ビジネス文脈で「
 
 ## 🧩 あわせて覚えたい
 
-- [modify](/word/modify)：修正する、調整する
-- [adjust](/word/adjust)：調整する、適応させる
+- [modify](/word/modify/)：修正する、調整する
+- [adjust](/word/adjust/)：調整する、適応させる
 
 ---
 
 ## 📖 できればこれも
 
-- [revise](/word/revise)：修正する、見直す
-- [amend](/word/amend)：（文書などを）修正する、改正する
+- [revise](/word/revise/)：修正する、見直す
+- [amend](/word/amend/)：（文書などを）修正する、改正する
 
 <!-- cvid: aid19_bid25 -->

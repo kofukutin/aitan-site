@@ -97,7 +97,7 @@ TOEICでは郵便サービスや住所表記、案内文などで見かけるこ
 ## 🤔  mail との違いは？
 
 - **postal**：郵便サービスや郵便に関する形容詞
-- **[mail](/word/mail)**：郵便物そのものや郵送する行為
+- **[mail](/word/mail/)**：郵便物そのものや郵送する行為
 
 **postal**は「郵便の」と形容を加えるときに使い、**mail**は実際の手紙や荷物、または郵送する動作を指します。
 
@@ -105,14 +105,14 @@ TOEICでは郵便サービスや住所表記、案内文などで見かけるこ
 
 ## 🧩 あわせて覚えたい
 
-- [delivery](/word/delivery)：配達、配送
-- [courier](/word/courier)：宅配便、急送便
+- [delivery](/word/delivery/)：配達、配送
+- [courier](/word/courier/)：宅配便、急送便
 
 ---
 
 ## 📖 できればこれも
 
-- [official](/word/official)：公式の、公的な
-- [domestic](/word/domestic)：国内の
+- [official](/word/official/)：公式の、公的な
+- [domestic](/word/domestic/)：国内の
 
 <!-- cvid: aid43_bid07 -->

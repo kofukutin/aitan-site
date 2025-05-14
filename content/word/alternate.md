@@ -97,7 +97,7 @@ TOEICでは、動詞として「交互に行う」「交代する」という意
 ## 🤔  alternative との違いは？
 
 - **alternate**：交互に行う、交代する（動詞）／交互の（形容詞）
-- **[alternative](/word/alternative)**：代わりの、代替の（名詞・形容詞）
+- **[alternative](/word/alternative/)**：代わりの、代替の（名詞・形容詞）
 
 alternateは「順番に入れ替わる」動作や状態を指し、alternativeは「他に選べる選択肢」や「代替案」を意味します。
 
@@ -105,14 +105,14 @@ alternateは「順番に入れ替わる」動作や状態を指し、alternative
 
 ## 🧩 あわせて覚えたい
 
-- [substitute](/word/substitute)：代わりをする、代理を務める
-- [rotate](/word/rotate)：回転する、順番に担当する
+- [substitute](/word/substitute/)：代わりをする、代理を務める
+- [rotate](/word/rotate/)：回転する、順番に担当する
 
 ---
 
 ## 📖 できればこれも
 
-- [shift](/word/shift)：交代、シフト
-- [replace](/word/replace)：取り替える、交換する
+- [shift](/word/shift/)：交代、シフト
+- [replace](/word/replace/)：取り替える、交換する
 
 <!-- cvid: aid35_bid10 -->

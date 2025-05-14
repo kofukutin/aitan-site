@@ -97,7 +97,7 @@ TOEICでは賃貸契約や不動産関連の長文で頻出します。契約書
 ## 🤔  resident との違いは？
 
 - **tenant**：賃貸契約で建物や土地を借りている人
-- **[resident](/word/resident)**：その場所に住んでいる人（賃貸・持ち家問わず）
+- **[resident](/word/resident/)**：その場所に住んでいる人（賃貸・持ち家問わず）
 
 tenantは「借りている」ことがポイントで、residentは「住んでいる」ことに重点があります。
 
@@ -105,14 +105,14 @@ tenantは「借りている」ことがポイントで、residentは「住んで
 
 ## 🧩 あわせて覚えたい
 
-- [landlord](/word/landlord)：家主、大家
-- [lease](/word/lease)：賃貸契約、賃貸する
+- [landlord](/word/landlord/)：家主、大家
+- [lease](/word/lease/)：賃貸契約、賃貸する
 
 ---
 
 ## 📖 できればこれも
 
-- [rent](/word/rent)：家賃、賃貸する
-- [property](/word/property)：不動産、財産
+- [rent](/word/rent/)：家賃、賃貸する
+- [property](/word/property/)：不動産、財産
 
 <!-- cvid: aid43_bid04 -->

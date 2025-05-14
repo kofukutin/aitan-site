@@ -97,7 +97,7 @@ TOEICでは会議やディスカッションの場面で「議題」「話題」
 ## 🤔  subject との違いは？
 
 - **topic**：会話や文章の「具体的な話題」「議題」
-- **[subject](/word/subject)**：広い意味での「主題」「科目」「対象」
+- **[subject](/word/subject/)**：広い意味での「主題」「科目」「対象」
 
 topicは会話や会議で扱う個別の話題、subjectはより広い範囲や学問分野などにも使われます。
 
@@ -105,14 +105,14 @@ topicは会話や会議で扱う個別の話題、subjectはより広い範囲�
 
 ## 🧩 あわせて覚えたい
 
-- [issue](/word/issue)：問題、論点
-- [theme](/word/theme)：テーマ、主題
+- [issue](/word/issue/)：問題、論点
+- [theme](/word/theme/)：テーマ、主題
 
 ---
 
 ## 📖 できればこれも
 
-- [agenda](/word/agenda)：議題、協議事項
-- [matter](/word/matter)：事柄、問題
+- [agenda](/word/agenda/)：議題、協議事項
+- [matter](/word/matter/)：事柄、問題
 
 <!-- cvid: aid34_bid15 -->

@@ -97,7 +97,7 @@ TOEICでは「問題に対処する」「抑える」という意味で、ビジ
 ## 🤔  fight との違いは？
 
 - **combat**：フォーマルで、問題や病気など抽象的な対象にも使える「戦う」「対処する」
-- **[fight](/word/fight)**：よりカジュアルで、物理的な戦いや口論など幅広く使える
+- **[fight](/word/fight/)**：よりカジュアルで、物理的な戦いや口論など幅広く使える
 
 combatは公式文書やビジネスでよく使われ、fightは日常会話や直接的な争いに使われます。
 
@@ -105,14 +105,14 @@ combatは公式文書やビジネスでよく使われ、fightは日常会話や
 
 ## 🧩 あわせて覚えたい
 
-- [address](/word/address)：（問題などに）取り組む
-- [resist](/word/resist)：抵抗する
+- [address](/word/address/)：（問題などに）取り組む
+- [resist](/word/resist/)：抵抗する
 
 ---
 
 ## 📖 できればこれも
 
-- [prevent](/word/prevent)：防ぐ
-- [reduce](/word/reduce)：減らす
+- [prevent](/word/prevent/)：防ぐ
+- [reduce](/word/reduce/)：減らす
 
 <!-- cvid: aid30_bid21 -->

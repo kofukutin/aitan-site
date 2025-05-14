@@ -97,7 +97,7 @@ TOEICでは、契約書や報告書、IT関連の説明文などで「unspecifie
 ## 🤔  undefined との違いは？
 
 - **unspecified**：特定・明記されていない（何かが決まっていないが、存在自体は前提）
-- **[undefined](/word/undefined)**：定義されていない（存在や意味自体が決まっていない）
+- **[undefined](/word/undefined/)**：定義されていない（存在や意味自体が決まっていない）
 
 「unspecified」は「何かはあるが、詳細が示されていない」場合に使い、「undefined」は「そもそも定義が存在しない」場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、契約書や報告書、IT関連の説明文などで「unspecifie
 
 ## 🧩 あわせて覚えたい
 
-- [general](/word/general)：一般的な、全体的な
-- [ambiguous](/word/ambiguous)：曖昧な、不明確な
+- [general](/word/general/)：一般的な、全体的な
+- [ambiguous](/word/ambiguous/)：曖昧な、不明確な
 
 ---
 
 ## 📖 できればこれも
 
-- [specific](/word/specific)：具体的な、特定の
-- [certain](/word/certain)：ある特定の、確かな
+- [specific](/word/specific/)：具体的な、特定の
+- [certain](/word/certain/)：ある特定の、確かな
 
 <!-- cvid: aid13_bid00 -->

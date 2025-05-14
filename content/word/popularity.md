@@ -97,7 +97,7 @@ TOEICでは広告や記事、ビジネスレポートなどで「人気」「評
 ## 🤔  reputation との違いは？
 
 - **popularity**：多くの人に好かれている「人気」や「支持」を表す。
-- **[reputation](/word/reputation)**：社会的な「評判」や「評価」を意味し、良い・悪い両方に使える。
+- **[reputation](/word/reputation/)**：社会的な「評判」や「評価」を意味し、良い・悪い両方に使える。
 
 popularityは「どれだけ多くの人に好かれているか」に焦点があり、reputationは「社会的な評価や信頼」に重点があります。
 
@@ -105,14 +105,14 @@ popularityは「どれだけ多くの人に好かれているか」に焦点が�
 
 ## 🧩 あわせて覚えたい
 
-- [trend](/word/trend)：流行、傾向
-- [fame](/word/fame)：名声、有名さ
+- [trend](/word/trend/)：流行、傾向
+- [fame](/word/fame/)：名声、有名さ
 
 ---
 
 ## 📖 できればこれも
 
-- [success](/word/success)：成功
-- [influence](/word/influence)：影響、影響力
+- [success](/word/success/)：成功
+- [influence](/word/influence/)：影響、影響力
 
 <!-- cvid: aid08_bid31 -->

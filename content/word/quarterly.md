@@ -99,7 +99,7 @@ TOEICではビジネス文書や報告書、会議の案内などで「quarterly
 ## 🤔  monthly との違いは？
 
 - **quarterly**：年4回、3か月ごとに行われる・発行される
-- **[monthly](/word/monthly)**：毎月、月ごとに行われる・発行される
+- **[monthly](/word/monthly/)**：毎月、月ごとに行われる・発行される
 
 「quarterly」は1年を4分割した期間ごと、「monthly」は毎月ごとに使います。頻度や期間の長さが異なります。
 
@@ -107,14 +107,14 @@ TOEICではビジネス文書や報告書、会議の案内などで「quarterly
 
 ## 🧩 あわせて覚えたい
 
-- [annual](/word/annual)：年1回の、毎年の
-- [weekly](/word/weekly)：毎週の、週ごとの
+- [annual](/word/annual/)：年1回の、毎年の
+- [weekly](/word/weekly/)：毎週の、週ごとの
 
 ---
 
 ## 📖 できればこれも
 
-- [fiscal](/word/fiscal)：会計の、財政の
-- [report](/word/report)：報告書、レポート
+- [fiscal](/word/fiscal/)：会計の、財政の
+- [report](/word/report/)：報告書、レポート
 
 <!-- cvid: aid28_bid34 -->

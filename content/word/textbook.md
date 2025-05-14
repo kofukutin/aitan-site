@@ -96,7 +96,7 @@ TOEICではPart 7の学校や教育関連の長文、案内文などでよく登
 ## 🤔  reference book との違いは？
 
 - **textbook**：学習や授業のために体系的にまとめられた教科書
-- **[reference book](/word/reference_book)**：調べ物や情報検索のための参考書
+- **[reference book](/word/reference_book/)**：調べ物や情報検索のための参考書
 
 textbookは授業や学習の流れに沿って使う本、reference bookは必要な情報を調べるために使う本という違いがあります。
 
@@ -104,14 +104,14 @@ textbookは授業や学習の流れに沿って使う本、reference bookは必�
 
 ## 🧩 あわせて覚えたい
 
-- [manual](/word/manual)：手引き書、マニュアル
-- [curriculum](/word/curriculum)：カリキュラム、教育課程
+- [manual](/word/manual/)：手引き書、マニュアル
+- [curriculum](/word/curriculum/)：カリキュラム、教育課程
 
 ---
 
 ## 📖 できればこれも
 
-- [lecture](/word/lecture)：講義
-- [assignment](/word/assignment)：課題
+- [lecture](/word/lecture/)：講義
+- [assignment](/word/assignment/)：課題
 
 <!-- cvid: aid18_bid37 -->

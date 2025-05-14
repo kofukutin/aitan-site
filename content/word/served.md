@@ -97,7 +97,7 @@ TOEICでは、レストランやビジネスシーンで「提供された」「
 ## 🤔  provided との違いは？
 
 - **served**：飲食物やサービスを「提供する」「出す」など、相手に直接渡すニュアンスが強い
-- **[provided](/word/provided)**：物や情報、機会などを「与える」「供給する」など、より広い意味で使われる
+- **[provided](/word/provided/)**：物や情報、機会などを「与える」「供給する」など、より広い意味で使われる
 
 servedは特に飲食やサービスの場面で「目の前に出す」イメージ、providedは「必要なものを用意して与える」イメージです。
 
@@ -105,14 +105,14 @@ servedは特に飲食やサービスの場面で「目の前に出す」イメ�
 
 ## 🧩 あわせて覚えたい
 
-- [deliver](/word/deliver)：配達する、届ける
-- [attend](/word/attend)：出席する、参加する
+- [deliver](/word/deliver/)：配達する、届ける
+- [attend](/word/attend/)：出席する、参加する
 
 ---
 
 ## 📖 できればこれも
 
-- [offer](/word/offer)：申し出る、提供する
-- [supply](/word/supply)：供給する、支給する
+- [offer](/word/offer/)：申し出る、提供する
+- [supply](/word/supply/)：供給する、支給する
 
 <!-- cvid: aid35_bid11 -->

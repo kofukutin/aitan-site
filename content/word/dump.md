@@ -97,7 +97,7 @@ dumpは会話や説明文で「捨てる」「処分する」の意味で出題�
 ## 🤔  discard との違いは？
 
 - **dump**：乱雑にどさっと捨てる、無造作に処分する
-- **[discard](/word/discard)**：不要なものをきちんと捨てる、整理して処分する
+- **[discard](/word/discard/)**：不要なものをきちんと捨てる、整理して処分する
 
 dumpは「投げ捨てる」ような雑なイメージ、discardは「選別して捨てる」丁寧な印象です。
 
@@ -105,14 +105,14 @@ dumpは「投げ捨てる」ような雑なイメージ、discardは「選別し
 
 ## 🧩 あわせて覚えたい
 
-- [dispose](/word/dispose)：処分する、廃棄する
-- [abandon](/word/abandon)：見捨てる、放棄する
+- [dispose](/word/dispose/)：処分する、廃棄する
+- [abandon](/word/abandon/)：見捨てる、放棄する
 
 ---
 
 ## 📖 できればこれも
 
-- [load](/word/load)：積む、載せる
-- [remove](/word/remove)：取り除く、除去する
+- [load](/word/load/)：積む、載せる
+- [remove](/word/remove/)：取り除く、除去する
 
 <!-- cvid: aid33_bid06 -->

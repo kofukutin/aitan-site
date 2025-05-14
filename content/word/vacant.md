@@ -97,7 +97,7 @@ TOEICでは「空室」「欠員」などの意味で、求人や会議室の案
 ## 🤔  empty との違いは？
 
 - **vacant**：部屋や席、ポストなど「人が使っていない」「空いている」状態を表す
-- **[empty](/word/empty)**：中身が何も入っていない状態を表す
+- **[empty](/word/empty/)**：中身が何も入っていない状態を表す
 
 vacantは「人がいない」「利用されていない」ことに重点があり、emptyは「物理的に中身がない」ことに重点があります。
 
@@ -105,14 +105,14 @@ vacantは「人がいない」「利用されていない」ことに重点が�
 
 ## 🧩 あわせて覚えたい
 
-- [occupied](/word/occupied)：使用中の、埋まっている
-- [available](/word/available)：利用可能な、手が空いている
+- [occupied](/word/occupied/)：使用中の、埋まっている
+- [available](/word/available/)：利用可能な、手が空いている
 
 ---
 
 ## 📖 できればこれも
 
-- [absent](/word/absent)：不在の、欠席の
-- [spacious](/word/spacious)：広々とした
+- [absent](/word/absent/)：不在の、欠席の
+- [spacious](/word/spacious/)：広々とした
 
 <!-- cvid: aid05_bid39 -->

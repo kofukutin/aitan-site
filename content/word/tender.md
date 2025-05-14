@@ -97,7 +97,7 @@ Please tender your bid by the end of the week.
 ## 🤔  submit との違いは？
 
 - **tender**：フォーマルな場面で「正式に提出する」「申し出る」
-- **[submit](/word/submit)**：一般的に「提出する」。フォーマル・カジュアル両方で使える
+- **[submit](/word/submit/)**：一般的に「提出する」。フォーマル・カジュアル両方で使える
 
 tenderは特にビジネスや契約、入札などの公式な提出に使われ、submitはより広い場面で使えます。
 
@@ -105,14 +105,14 @@ tenderは特にビジネスや契約、入札などの公式な提出に使わ�
 
 ## 🧩 あわせて覚えたい
 
-- [offer](/word/offer)：申し出る、提供する
-- [propose](/word/propose)：提案する
+- [offer](/word/offer/)：申し出る、提供する
+- [propose](/word/propose/)：提案する
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract)：契約
-- [bid](/word/bid)：入札、値をつける
+- [contract](/word/contract/)：契約
+- [bid](/word/bid/)：入札、値をつける
 
 <!-- cvid: aid14_bid28 -->

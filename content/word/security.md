@@ -97,7 +97,7 @@ TOEICでは、会社の安全対策やIT関連の文脈で頻出します。特�
 ## 🤔  safety との違いは？
 
 - **security**：外部からの脅威や犯罪、情報漏洩などから守る「防犯・防護」のニュアンス
-- **[safety](/word/safety)**：事故やケガなど「危険がない状態」や「安全性」のニュアンス
+- **[safety](/word/safety/)**：事故やケガなど「危険がない状態」や「安全性」のニュアンス
 
 **security**は「守るための仕組みや対策」に重点があり、**safety**は「危険がない状態そのもの」を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、会社の安全対策やIT関連の文脈で頻出します。特�
 
 ## 🧩 あわせて覚えたい
 
-- [protection](/word/protection)：保護、守ること
-- [risk](/word/risk)：リスク、危険
+- [protection](/word/protection/)：保護、守ること
+- [risk](/word/risk/)：リスク、危険
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy)：方針、ポリシー
-- [access](/word/access)：アクセス、接近・利用権
+- [policy](/word/policy/)：方針、ポリシー
+- [access](/word/access/)：アクセス、接近・利用権
 
 <!-- cvid: aid49_bid44 -->

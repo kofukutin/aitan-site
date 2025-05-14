@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文問題や、教育・学習に関する文脈で
 ## 🤔  report との違いは？
 
 - **essay**：自分の意見や考えをまとめて書く短い論文や作文
-- **[report](/word/report)**：事実や調査結果をまとめて報告する文書
+- **[report](/word/report/)**：事実や調査結果をまとめて報告する文書
 
 essayは主観的な意見や考察が中心ですが、reportは客観的な情報やデータを整理して伝える点が異なります。
 
@@ -105,14 +105,14 @@ essayは主観的な意見や考察が中心ですが、reportは客観的な情
 
 ## 🧩 あわせて覚えたい
 
-- [article](/word/article)：記事、論説
-- [assignment](/word/assignment)：課題、宿題
+- [article](/word/article/)：記事、論説
+- [assignment](/word/assignment/)：課題、宿題
 
 ---
 
 ## 📖 できればこれも
 
-- [summary](/word/summary)：要約
-- [topic](/word/topic)：話題、テーマ
+- [summary](/word/summary/)：要約
+- [topic](/word/topic/)：話題、テーマ
 
 <!-- cvid: aid38_bid44 -->

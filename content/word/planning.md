@@ -97,7 +97,7 @@ TOEICでは会議やプロジェクト、業務の進め方に関する会話や
 ## 🤔  scheduling との違いは？
 
 - **planning**：全体的な計画立案や企画のプロセスを指す
-- **[scheduling](/word/scheduling)**：具体的な日程や時間割を決めること
+- **[scheduling](/word/scheduling/)**：具体的な日程や時間割を決めること
 
 planningは「何をどう進めるか」を考える広い意味で使い、schedulingは「いつやるか」という時間の割り当てに特化しています。
 
@@ -105,14 +105,14 @@ planningは「何をどう進めるか」を考える広い意味で使い、sch
 
 ## 🧩 あわせて覚えたい
 
-- [strategy](/word/strategy)：戦略、方針
-- [preparation](/word/preparation)：準備、用意
+- [strategy](/word/strategy/)：戦略、方針
+- [preparation](/word/preparation/)：準備、用意
 
 ---
 
 ## 📖 できればこれも
 
-- [project](/word/project)：プロジェクト、計画
-- [proposal](/word/proposal)：提案、申し出
+- [project](/word/project/)：プロジェクト、計画
+- [proposal](/word/proposal/)：提案、申し出
 
 <!-- cvid: aid43_bid25 -->

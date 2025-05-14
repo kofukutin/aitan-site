@@ -97,7 +97,7 @@ TOEICでは、科学や歴史に関する長文や説明文で「Apollo」が登
 ## 🤔  astronaut との違いは？
 
 - **Apollo**：アメリカの有人月面探査計画や宇宙船の名称
-- **[astronaut](/word/astronaut)**：宇宙飛行士（宇宙に行く人）
+- **[astronaut](/word/astronaut/)**：宇宙飛行士（宇宙に行く人）
 
 Apolloは計画や宇宙船そのものを指し、astronautは宇宙に行く人を指します。混同しないようにしましょう。
 
@@ -105,14 +105,14 @@ Apolloは計画や宇宙船そのものを指し、astronautは宇宙に行く�
 
 ## 🧩 あわせて覚えたい
 
-- [mission](/word/mission)：任務、計画
-- [satellite](/word/satellite)：人工衛星
+- [mission](/word/mission/)：任務、計画
+- [satellite](/word/satellite/)：人工衛星
 
 ---
 
 ## 📖 できればこれも
 
-- [rocket](/word/rocket)：ロケット
-- [launch](/word/launch)：打ち上げ
+- [rocket](/word/rocket/)：ロケット
+- [launch](/word/launch/)：打ち上げ
 
 <!-- cvid: aid15_bid17 -->

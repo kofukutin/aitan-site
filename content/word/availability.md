@@ -97,7 +97,7 @@ TOEICでは、会議や予約、商品の在庫状況など「利用可能かど
 ## 🤔  accessibility との違いは？
 
 - **availability**：利用できる状態や人の都合を表す
-- **[accessibility](/word/accessibility)**：アクセスのしやすさ、到達のしやすさを表す
+- **[accessibility](/word/accessibility/)**：アクセスのしやすさ、到達のしやすさを表す
 
 「availability」は「使えるか・空いているか」に焦点があり、「accessibility」は「近づきやすさ・利用のしやすさ」に重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは、会議や予約、商品の在庫状況など「利用可能かど
 
 ## 🧩 あわせて覚えたい
 
-- [absence](/word/absence)：不在、欠席
-- [schedule](/word/schedule)：予定、スケジュール
+- [absence](/word/absence/)：不在、欠席
+- [schedule](/word/schedule/)：予定、スケジュール
 
 ---
 
 ## 📖 できればこれも
 
-- [requirement](/word/requirement)：要件、必要条件
-- [confirmation](/word/confirmation)：確認、承認
+- [requirement](/word/requirement/)：要件、必要条件
+- [confirmation](/word/confirmation/)：確認、承認
 
 <!-- cvid: aid08_bid33 -->

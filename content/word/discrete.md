@@ -97,7 +97,7 @@ TOEICでは科学技術やデータ分析、説明文などで「個別の」「
 ## 🤔  distinct との違いは？
 
 - **discrete**：個々に分かれて独立している、連続していない
-- **[distinct](/word/distinct)**：はっきり区別できる、明確に異なる
+- **[distinct](/word/distinct/)**：はっきり区別できる、明確に異なる
 
 discreteは「物理的・論理的に分かれている」ことを強調し、distinctは「違いが明確で区別できる」ことを強調します。
 
@@ -105,14 +105,14 @@ discreteは「物理的・論理的に分かれている」ことを強調し、
 
 ## 🧩 あわせて覚えたい
 
-- [separate](/word/separate)：分かれた、別々の
-- [continuous](/word/continuous)：連続した、切れ目のない
+- [separate](/word/separate/)：分かれた、別々の
+- [continuous](/word/continuous/)：連続した、切れ目のない
 
 ---
 
 ## 📖 できればこれも
 
-- [precise](/word/precise)：正確な
-- [explicit](/word/explicit)：明確な、はっきりした
+- [precise](/word/precise/)：正確な
+- [explicit](/word/explicit/)：明確な、はっきりした
 
 <!-- cvid: aid35_bid14 -->

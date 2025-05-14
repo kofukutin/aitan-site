@@ -97,7 +97,7 @@ TOEICでは、文中で「示す」「指摘する」という意味でよく出
 ## 🤔  suggested との違いは？
 
 - **indicated**：事実や証拠をもとに「はっきり示す」「明確に指摘する」
-- **[suggested](/word/suggested)**：やんわりと「提案する」「ほのめかす」
+- **[suggested](/word/suggested/)**：やんわりと「提案する」「ほのめかす」
 
 indicatedは客観的な情報や証拠をもとに明確に示す場合に使い、suggestedは控えめに意見や可能性を示唆する場合に使います。
 
@@ -105,14 +105,14 @@ indicatedは客観的な情報や証拠をもとに明確に示す場合に使�
 
 ## 🧩 あわせて覚えたい
 
-- [show](/word/show)：見せる、示す
-- [imply](/word/imply)：暗に示す、ほのめかす
+- [show](/word/show/)：見せる、示す
+- [imply](/word/imply/)：暗に示す、ほのめかす
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/word/confirm)：確認する、確かめる
-- [recommend](/word/recommend)：勧める、推薦する
+- [confirm](/word/confirm/)：確認する、確かめる
+- [recommend](/word/recommend/)：勧める、推薦する
 
 <!-- cvid: aid18_bid48 -->

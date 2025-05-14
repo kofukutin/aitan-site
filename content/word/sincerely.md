@@ -99,7 +99,7 @@ TOEICではメールや手紙の結びの表現として頻出です。特にフ
 ## 🤔  faithfully との違いは？
 
 - **sincerely**：主に相手の名前を知っている場合の手紙やメールの結びに使う。「心から」「敬具」の意味。
-- **[faithfully](/word/faithfully)**：相手の名前を知らない場合（"Dear Sir or Madam," など）の結びに使う。「敬具」の意味。
+- **[faithfully](/word/faithfully/)**：相手の名前を知らない場合（"Dear Sir or Madam," など）の結びに使う。「敬具」の意味。
 
 sincerelyは個人宛て、faithfullyは不特定多数や名前不明の相手宛てで使い分けます。
 
@@ -107,14 +107,14 @@ sincerelyは個人宛て、faithfullyは不特定多数や名前不明の相手�
 
 ## 🧩 あわせて覚えたい
 
-- [regards](/word/regards)：よろしく（手紙やメールの結びの表現）
-- [cordially](/word/cordially)：心から、丁重に（フォーマルな結び）
+- [regards](/word/regards/)：よろしく（手紙やメールの結びの表現）
+- [cordially](/word/cordially/)：心から、丁重に（フォーマルな結び）
 
 ---
 
 ## 📖 できればこれも
 
-- [regard](/word/regard)：敬意、配慮
-- [truly](/word/truly)：本当に、心から
+- [regard](/word/regard/)：敬意、配慮
+- [truly](/word/truly/)：本当に、心から
 
 <!-- cvid: aid38_bid30 -->

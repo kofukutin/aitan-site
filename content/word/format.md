@@ -97,7 +97,7 @@ TOEICでは、メールや案内文、説明書などで「書式」「形式」
 ## 🤔  layout との違いは？
 
 - **format**：情報や文書の「形式」や「書式」全体を指す
-- **[layout](/word/layout)**：ページや画面上の「配置」や「レイアウト」を指す
+- **[layout](/word/layout/)**：ページや画面上の「配置」や「レイアウト」を指す
 
 formatは「どんな形・枠組みか」に注目し、layoutは「どこに何が配置されているか」に注目します。
 
@@ -105,14 +105,14 @@ formatは「どんな形・枠組みか」に注目し、layoutは「どこに�
 
 ## 🧩 あわせて覚えたい
 
-- [template](/word/template)：ひな形、テンプレート
-- [structure](/word/structure)：構造、仕組み
+- [template](/word/template/)：ひな形、テンプレート
+- [structure](/word/structure/)：構造、仕組み
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document)：文書、書類
-- [design](/word/design)：デザイン、設計
+- [document](/word/document/)：文書、書類
+- [design](/word/design/)：デザイン、設計
 
 <!-- cvid: aid29_bid15 -->

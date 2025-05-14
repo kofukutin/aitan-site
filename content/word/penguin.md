@@ -97,7 +97,7 @@ penguinはTOEICのPart 7で、動物や観光施設の説明文などに登場�
 ## 🤔  puffin との違いは？
 
 - **penguin**：南極などの寒い地域に生息し、飛べない鳥。
-- **[puffin](/word/puffin)**：北半球の沿岸に生息し、飛ぶことができるカラフルなくちばしの鳥。
+- **[puffin](/word/puffin/)**：北半球の沿岸に生息し、飛ぶことができるカラフルなくちばしの鳥。
 
 penguinは南極圏の飛べない鳥、puffinは北の海岸に住む飛べる鳥で、見た目や生息地が異なります。
 
@@ -105,14 +105,14 @@ penguinは南極圏の飛べない鳥、puffinは北の海岸に住む飛べる�
 
 ## 🧩 あわせて覚えたい
 
-- [seal](/word/seal)：アザラシ
-- [antarctica](/word/antarctica)：南極大陸
+- [seal](/word/seal/)：アザラシ
+- [antarctica](/word/antarctica/)：南極大陸
 
 ---
 
 ## 📖 できればこれも
 
-- [dolphin](/word/dolphin)：イルカ
-- [zebra](/word/zebra)：シマウマ
+- [dolphin](/word/dolphin/)：イルカ
+- [zebra](/word/zebra/)：シマウマ
 
 <!-- cvid: aid32_bid02 -->

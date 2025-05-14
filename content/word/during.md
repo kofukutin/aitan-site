@@ -94,7 +94,7 @@ TOEICでは会話や説明文で「～の間に」という意味で頻出しま
 ## 🤔  while との違いは？
 
 - **during**：名詞（期間や出来事）の「間」を表す前置詞
-- **[while](/word/while)**：主語＋動詞の「間」を表す接続詞
+- **[while](/word/while/)**：主語＋動詞の「間」を表す接続詞
 
 duringは名詞とセット、whileは文（主語＋動詞）とセットで使う点が大きな違いです。
 
@@ -102,14 +102,14 @@ duringは名詞とセット、whileは文（主語＋動詞）とセットで使
 
 ## 🧩 あわせて覚えたい
 
-- [throughout](/word/throughout)：～の間ずっと、～の至る所に
-- [after](/word/after)：～の後で
+- [throughout](/word/throughout/)：～の間ずっと、～の至る所に
+- [after](/word/after/)：～の後で
 
 ---
 
 ## 📖 できればこれも
 
-- [before](/word/before)：～の前に
-- [until](/word/until)：～までずっと
+- [before](/word/before/)：～の前に
+- [until](/word/until/)：～までずっと
 
 <!-- cvid: aid30_bid32 -->

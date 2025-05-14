@@ -97,7 +97,7 @@ TOEICでは「分ける」「分割する」という意味で、タスクや利
 ## 🤔  separate との違いは？
 
 - **divide**：全体を複数の部分に分ける、または区切る
-- **[separate](/word/separate)**：2つ以上のものを分離する、離す
+- **[separate](/word/separate/)**：2つ以上のものを分離する、離す
 
 divideは「分割」や「区分」のニュアンスが強く、separateは「切り離す」「区別する」といった意味合いが強いです。
 
@@ -105,14 +105,14 @@ divideは「分割」や「区分」のニュアンスが強く、separateは「
 
 ## 🧩 あわせて覚えたい
 
-- [share](/word/share)：分け合う、共有する
-- [unite](/word/unite)：結合する、団結する
+- [share](/word/share/)：分け合う、共有する
+- [unite](/word/unite/)：結合する、団結する
 
 ---
 
 ## 📖 できればこれも
 
-- [distribute](/word/distribute)：配布する、分配する
-- [assign](/word/assign)：割り当てる、任命する
+- [distribute](/word/distribute/)：配布する、分配する
+- [assign](/word/assign/)：割り当てる、任命する
 
 <!-- cvid: aid41_bid25 -->

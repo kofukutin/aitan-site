@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「押す」動作を表す際によく
 ## 🤔  press との違いは？
 
 - **push**：物や人を前方や離れた方向に押す
-- **[press](/word/press)**：物の表面を押し付ける、圧力をかける
+- **[press](/word/press/)**：物の表面を押し付ける、圧力をかける
 
 pushは「動かす」ことが目的で、pressは「押し付ける」「圧力をかける」ことが中心です。たとえば、ドアを開けるならpush、ボタンを押すならpressも使えますが、ニュアンスが異なります。
 
@@ -105,14 +105,14 @@ pushは「動かす」ことが目的で、pressは「押し付ける」「圧�
 
 ## 🧩 あわせて覚えたい
 
-- [pull](/word/pull)：引く
-- [move](/word/move)：動かす
+- [pull](/word/pull/)：引く
+- [move](/word/move/)：動かす
 
 ---
 
 ## 📖 できればこれも
 
-- [hold](/word/hold)：持つ、握る
-- [lift](/word/lift)：持ち上げる
+- [hold](/word/hold/)：持つ、握る
+- [lift](/word/lift/)：持ち上げる
 
 <!-- cvid: aid48_bid08 -->

@@ -97,7 +97,7 @@ TOEICでは、電話や受付などで男性に丁寧に呼びかける場面で
 ## 🤔  mister との違いは？
 
 - **sir**：男性への丁寧な呼びかけや騎士の称号として使う
-- **[mister](/word/mister)**：男性の姓やフルネームの前につける敬称
+- **[mister](/word/mister/)**：男性の姓やフルネームの前につける敬称
 
 「sir」は直接呼びかけるときや敬意を表すときに使い、「mister」は名前とセットで使う点が異なります。
 
@@ -105,14 +105,14 @@ TOEICでは、電話や受付などで男性に丁寧に呼びかける場面で
 
 ## 🧩 あわせて覚えたい
 
-- [madam](/word/madam)：女性への丁寧な呼びかけ
-- [gentleman](/word/gentleman)：紳士、礼儀正しい男性
+- [madam](/word/madam/)：女性への丁寧な呼びかけ
+- [gentleman](/word/gentleman/)：紳士、礼儀正しい男性
 
 ---
 
 ## 📖 できればこれも
 
-- [miss](/word/miss)：未婚女性への呼びかけ
-- [customer](/word/customer)：顧客、お客様
+- [miss](/word/miss/)：未婚女性への呼びかけ
+- [customer](/word/customer/)：顧客、お客様
 
 <!-- cvid: aid17_bid10 -->

@@ -97,7 +97,7 @@ TOEICでは会話やプレゼンの場面で、イベントやニュース、商
 ## 🤔  interesting との違いは？
 
 - **exciting**：わくわくさせる、感情を強く動かす
-- **[interesting](/word/interesting)**：興味深い、関心を引く
+- **[interesting](/word/interesting/)**：興味深い、関心を引く
 
 exciting は「感情が高ぶる」ような刺激を表し、interesting は「知的な興味」を引くときに使います。
 
@@ -105,14 +105,14 @@ exciting は「感情が高ぶる」ような刺激を表し、interesting は�
 
 ## 🧩 あわせて覚えたい
 
-- [boring](/word/boring)：退屈な
-- [thrilling](/word/thrilling)：スリル満点の、ぞくぞくする
+- [boring](/word/boring/)：退屈な
+- [thrilling](/word/thrilling/)：スリル満点の、ぞくぞくする
 
 ---
 
 ## 📖 できればこれも
 
-- [amazing](/word/amazing)：驚くべき、すごい
-- [impressive](/word/impressive)：印象的な
+- [amazing](/word/amazing/)：驚くべき、すごい
+- [impressive](/word/impressive/)：印象的な
 
 <!-- cvid: aid22_bid07 -->

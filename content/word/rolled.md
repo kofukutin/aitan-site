@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、物や人が「転がす」「巻く
 ## 🤔  turned との違いは？
 
 - **rolled**：物を転がす、または巻く動作を表す。
-- **[turned](/word/turned)**：物や体の向きを変える、回す動作を表す。
+- **[turned](/word/turned/)**：物や体の向きを変える、回す動作を表す。
 
 rolledは「転がす」「巻く」など物体が回転しながら移動する・形を変える動作、turnedは「向きを変える」「回す」など方向転換や回転そのものを強調します。
 
@@ -105,14 +105,14 @@ rolledは「転がす」「巻く」など物体が回転しながら移動す�
 
 ## 🧩 あわせて覚えたい
 
-- [spin](/word/spin)：素早く回す、回転させる
-- [slide](/word/slide)：滑らせる、滑る
+- [spin](/word/spin/)：素早く回す、回転させる
+- [slide](/word/slide/)：滑らせる、滑る
 
 ---
 
 ## 📖 できればこれも
 
-- [fold](/word/fold)：折りたたむ
-- [wrap](/word/wrap)：包む、巻く
+- [fold](/word/fold/)：折りたたむ
+- [wrap](/word/wrap/)：包む、巻く
 
 <!-- cvid: aid40_bid37 -->

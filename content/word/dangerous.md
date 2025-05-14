@@ -97,7 +97,7 @@ TOEICでは、形容詞の語彙問題や安全に関する説明文でよく出
 ## 🤔  risky との違いは？
 
 - **dangerous**：実際に危害や損害を与える可能性が高い「危険な」
-- **[risky](/word/risky)**：失敗や損失の可能性がある「リスクの高い」
+- **[risky](/word/risky/)**：失敗や損失の可能性がある「リスクの高い」
 
 「dangerous」は命や健康などに直接的な危険がある場合に使い、「risky」は主に損失や失敗の可能性がある場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞の語彙問題や安全に関する説明文でよく出
 
 ## 🧩 あわせて覚えたい
 
-- [safe](/word/safe)：安全な
-- [hazardous](/word/hazardous)：有害な、危険な（特に化学物質や作業環境に使う）
+- [safe](/word/safe/)：安全な
+- [hazardous](/word/hazardous/)：有害な、危険な（特に化学物質や作業環境に使う）
 
 ---
 
 ## 📖 できればこれも
 
-- [careful](/word/careful)：注意深い
-- [harmful](/word/harmful)：有害な
+- [careful](/word/careful/)：注意深い
+- [harmful](/word/harmful/)：有害な
 
 <!-- cvid: aid17_bid49 -->

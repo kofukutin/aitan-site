@@ -97,7 +97,7 @@ TOEICでは、ニュース記事や報告書、通知文などで「suspected cr
 ## 🤔  suspicious との違いは？
 
 - **suspected**：何か悪いことをしたと疑われている（容疑のかかった）
-- **[suspicious](/word/suspicious)**：怪しい、疑わしい（見た目や行動が怪しい）
+- **[suspicious](/word/suspicious/)**：怪しい、疑わしい（見た目や行動が怪しい）
 
 「suspected」はすでに疑いがかかっている対象に使い、「suspicious」は見た目や行動が怪しいと感じる場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、ニュース記事や報告書、通知文などで「suspected cr
 
 ## 🧩 あわせて覚えたい
 
-- [accused](/word/accused)：告発された人、被告
-- [alleged](/word/alleged)：申し立てられた、疑わしい
+- [accused](/word/accused/)：告発された人、被告
+- [alleged](/word/alleged/)：申し立てられた、疑わしい
 
 ---
 
 ## 📖 できればこれも
 
-- [guilty](/word/guilty)：有罪の
-- [innocent](/word/innocent)：無罪の、潔白な
+- [guilty](/word/guilty/)：有罪の
+- [innocent](/word/innocent/)：無罪の、潔白な
 
 <!-- cvid: aid38_bid07 -->

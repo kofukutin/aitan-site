@@ -97,7 +97,7 @@ TOEICでは「定期的な」「通常の」といった意味で、会議や業
 ## 🤔  routine との違いは？
 
 - **regular**：規則的・定期的に行われること、標準的なもの
-- **[routine](/word/routine)**：決まりきった手順や日課、型にはまったもの
+- **[routine](/word/routine/)**：決まりきった手順や日課、型にはまったもの
 
 「regular」は「一定の間隔で繰り返す」ことに重点があり、「routine」は「習慣化・型通りで変化がない」ことに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは「定期的な」「通常の」といった意味で、会議や業
 
 ## 🧩 あわせて覚えたい
 
-- [irregular](/word/irregular)：不規則な
-- [frequent](/word/frequent)：頻繁な
+- [irregular](/word/irregular/)：不規則な
+- [frequent](/word/frequent/)：頻繁な
 
 ---
 
 ## 📖 できればこれも
 
-- [usual](/word/usual)：いつもの、通常の
-- [standard](/word/standard)：標準の、基準の
+- [usual](/word/usual/)：いつもの、通常の
+- [standard](/word/standard/)：標準の、基準の
 
 <!-- cvid: aid01_bid30 -->

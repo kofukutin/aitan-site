@@ -98,7 +98,7 @@ TOEICでは、企業や団体の関係性を説明する文脈でよく登場し
 ## 🤔  associated との違いは？
 
 - **affiliated**：公式に提携・系列関係にあることを強調
-- **[associated](/word/associated)**：広く「関係がある」「関連している」という意味
+- **[associated](/word/associated/)**：広く「関係がある」「関連している」という意味
 
 affiliatedは組織や団体の正式なつながりを指し、associatedはより幅広く「関係がある」場合に使われます。
 
@@ -106,14 +106,14 @@ affiliatedは組織や団体の正式なつながりを指し、associatedはよ
 
 ## 🧩 あわせて覚えたい
 
-- [subsidiary](/word/subsidiary)：子会社
-- [independent](/word/independent)：独立した
+- [subsidiary](/word/subsidiary/)：子会社
+- [independent](/word/independent/)：独立した
 
 ---
 
 ## 📖 できればこれも
 
-- [corporate](/word/corporate)：企業の、法人の
-- [partnership](/word/partnership)：提携、協力関係
+- [corporate](/word/corporate/)：企業の、法人の
+- [partnership](/word/partnership/)：提携、協力関係
 
 <!-- cvid: aid10_bid29 -->

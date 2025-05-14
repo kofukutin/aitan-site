@@ -97,7 +97,7 @@ TOEICでは、趣味やビジネスの文脈で「collector」が登場するこ
 ## 🤔  gatherer との違いは？
 
 - **collector**：趣味や専門的に特定のものを集める人、または集金人。
-- **[gatherer](/word/gatherer)**：自然の中で食べ物や資源などを集める人。
+- **[gatherer](/word/gatherer/)**：自然の中で食べ物や資源などを集める人。
 
 「collector」は趣味や職業で体系的に集める人を指し、「gatherer」は自然界で物を集める人（例：狩猟採集民）を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、趣味やビジネスの文脈で「collector」が登場するこ
 
 ## 🧩 あわせて覚えたい
 
-- [curator](/word/curator)：博物館や美術館の学芸員
-- [accumulator](/word/accumulator)：蓄積する人、蓄電池
+- [curator](/word/curator/)：博物館や美術館の学芸員
+- [accumulator](/word/accumulator/)：蓄積する人、蓄電池
 
 ---
 
 ## 📖 できればこれも
 
-- [collection](/word/collection)：収集、コレクション
-- [receiver](/word/receiver)：受取人、受信機
+- [collection](/word/collection/)：収集、コレクション
+- [receiver](/word/receiver/)：受取人、受信機
 
 <!-- cvid: aid42_bid27 -->

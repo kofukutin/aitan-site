@@ -97,7 +97,7 @@ TOEICでは主に長文読解パートで、ビジネス上の競合や比喩的
 ## 🤔  opponent との違いは？
 
 - **enemy**：強い敵意や対立関係を持つ「敵」や「敵対者」
-- **[opponent](/word/opponent)**：試合や議論などでの「相手」「対戦者」
+- **[opponent](/word/opponent/)**：試合や議論などでの「相手」「対戦者」
 
 enemyは感情的な敵対や深い対立を示し、opponentはスポーツや議論など一時的な「対戦相手」を指します。
 
@@ -105,14 +105,14 @@ enemyは感情的な敵対や深い対立を示し、opponentはスポーツや�
 
 ## 🧩 あわせて覚えたい
 
-- [rival](/word/rival)：競争相手、ライバル
-- [friend](/word/friend)：友人、味方
+- [rival](/word/rival/)：競争相手、ライバル
+- [friend](/word/friend/)：友人、味方
 
 ---
 
 ## 📖 できればこれも
 
-- [danger](/word/danger)：危険
-- [threat](/word/threat)：脅威
+- [danger](/word/danger/)：危険
+- [threat](/word/threat/)：脅威
 
 <!-- cvid: aid18_bid45 -->

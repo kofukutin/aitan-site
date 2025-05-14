@@ -97,7 +97,7 @@ TOEICでは医療や健康に関する長文や広告、案内文で登場する
 ## 🤔  drug との違いは？
 
 - **medicine**：治療や健康維持のための「薬」や「医学」を指す、フォーマルな語。
-- **[drug](/word/drug)**：薬全般や薬物（時に違法薬物も含む）を指し、やや広い意味。
+- **[drug](/word/drug/)**：薬全般や薬物（時に違法薬物も含む）を指し、やや広い意味。
 
 medicineは治療目的の薬に限定されることが多いですが、drugは薬物全般や違法薬物も含むため、文脈によって使い分けが必要です。
 
@@ -105,14 +105,14 @@ medicineは治療目的の薬に限定されることが多いですが、drug�
 
 ## 🧩 あわせて覚えたい
 
-- [treatment](/word/treatment)：治療
-- [remedy](/word/remedy)：治療法、改善策
+- [treatment](/word/treatment/)：治療
+- [remedy](/word/remedy/)：治療法、改善策
 
 ---
 
 ## 📖 できればこれも
 
-- [hospital](/word/hospital)：病院
-- [patient](/word/patient)：患者
+- [hospital](/word/hospital/)：病院
+- [patient](/word/patient/)：患者
 
 <!-- cvid: aid07_bid45 -->

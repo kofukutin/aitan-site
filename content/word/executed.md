@@ -97,7 +97,7 @@ executedは、TOEICの文法・語彙問題（Part 5）で「実行された」�
 ## 🤔  implemented との違いは？
 
 - **executed**：計画や契約、命令などを「実際に実行した」「遂行した」という意味で、ややフォーマル。
-- **[implemented](/word/implemented)**：新しい制度や計画などを「導入・実施した」という意味で、実行のニュアンスが強い。
+- **[implemented](/word/implemented/)**：新しい制度や計画などを「導入・実施した」という意味で、実行のニュアンスが強い。
 
 executedは「決められたことをきちんと実行した」ニュアンス、implementedは「新しい仕組みや方法を導入して実施した」ニュアンスがあります。
 
@@ -105,14 +105,14 @@ executedは「決められたことをきちんと実行した」ニュアンス
 
 ## 🧩 あわせて覚えたい
 
-- [perform](/word/perform)：実行する、遂行する
-- [complete](/word/complete)：完了する、仕上げる
+- [perform](/word/perform/)：実行する、遂行する
+- [complete](/word/complete/)：完了する、仕上げる
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/word/approve)：承認する
-- [submit](/word/submit)：提出する
+- [approve](/word/approve/)：承認する
+- [submit](/word/submit/)：提出する
 
 <!-- cvid: aid47_bid17 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、荷馬車やワゴン車が写って
 ## 🤔  cart との違いは？
 
 - **wagon**：人や荷物を運ぶ四輪車やワゴン車。大きめで屋根付きの場合も多い。
-- **[cart](/word/cart)**：通常は二輪で、手で引く小型の運搬車。
+- **[cart](/word/cart/)**：通常は二輪で、手で引く小型の運搬車。
 
 wagonは大きめで人も乗れる車両、cartは小型で手押しの運搬用という違いがあります。
 
@@ -105,14 +105,14 @@ wagonは大きめで人も乗れる車両、cartは小型で手押しの運搬�
 
 ## 🧩 あわせて覚えたい
 
-- [carriage](/word/carriage)：馬車、客車
-- [vehicle](/word/vehicle)：車両、乗り物
+- [carriage](/word/carriage/)：馬車、客車
+- [vehicle](/word/vehicle/)：車両、乗り物
 
 ---
 
 ## 📖 できればこれも
 
-- [truck](/word/truck)：トラック、貨物自動車
-- [van](/word/van)：バン、商用車
+- [truck](/word/truck/)：トラック、貨物自動車
+- [van](/word/van/)：バン、商用車
 
 <!-- cvid: aid02_bid43 -->

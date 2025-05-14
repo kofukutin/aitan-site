@@ -97,7 +97,7 @@ TOEICではITやビジネス関連の文脈で「計算する」という意味�
 ## 🤔  calculate との違いは？
 
 - **compute**：特にコンピュータやシステムによる計算、または複雑な計算に使われるフォーマルな表現
-- **[calculate](/word/calculate)**：日常的な計算や手作業の計算にも広く使われる一般的な表現
+- **[calculate](/word/calculate/)**：日常的な計算や手作業の計算にも広く使われる一般的な表現
 
 「compute」は機械的・技術的な計算に、「calculate」は手計算や一般的な計算に使われる傾向があります。
 
@@ -105,14 +105,14 @@ TOEICではITやビジネス関連の文脈で「計算する」という意味�
 
 ## 🧩 あわせて覚えたい
 
-- [estimate](/word/estimate)：見積もる、概算する
-- [process](/word/process)：処理する、加工する
+- [estimate](/word/estimate/)：見積もる、概算する
+- [process](/word/process/)：処理する、加工する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze)：分析する
-- [measure](/word/measure)：測定する
+- [analyze](/word/analyze/)：分析する
+- [measure](/word/measure/)：測定する
 
 <!-- cvid: aid37_bid06 -->

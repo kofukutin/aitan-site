@@ -97,7 +97,7 @@ The company supports the healing process for injured employees.
 ## 🤔  cure との違いは？
 
 - **healing**：自然な回復や癒やしの過程を指す
-- **[cure](/word/cure)**：病気やけがを完全に治すこと、治療法
+- **[cure](/word/cure/)**：病気やけがを完全に治すこと、治療法
 
 healingは「治っていく過程」や「癒やし」に焦点があり、cureは「完全に治すこと」や「治療法」に重点があります。
 
@@ -105,14 +105,14 @@ healingは「治っていく過程」や「癒やし」に焦点があり、cure
 
 ## 🧩 あわせて覚えたい
 
-- [recovery](/word/recovery)：回復、復旧
-- [treatment](/word/treatment)：治療、処置
+- [recovery](/word/recovery/)：回復、復旧
+- [treatment](/word/treatment/)：治療、処置
 
 ---
 
 ## 📖 できればこれも
 
-- [injury](/word/injury)：けが
-- [illness](/word/illness)：病気
+- [injury](/word/injury/)：けが
+- [illness](/word/illness/)：病気
 
 <!-- cvid: aid19_bid43 -->

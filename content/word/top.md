@@ -97,7 +97,7 @@ TOEICでは、写真描写や位置関係を説明する場面でよく登場し
 ## 🤔  peak との違いは？
 
 - **top**：物や場所の「一番上」や「最上位」を幅広く指す
-- **[peak](/word/peak)**：山や数字などの「頂点」「絶頂」を強調
+- **[peak](/word/peak/)**：山や数字などの「頂点」「絶頂」を強調
 
 topは一般的な「上部」や「最上位」に使い、peakは「山の頂上」や「絶頂期」など特に尖った頂点を表します。
 
@@ -105,14 +105,14 @@ topは一般的な「上部」や「最上位」に使い、peakは「山の頂�
 
 ## 🧩 あわせて覚えたい
 
-- [bottom](/word/bottom)：一番下、底
-- [summit](/word/summit)：山頂、首脳会談
+- [bottom](/word/bottom/)：一番下、底
+- [summit](/word/summit/)：山頂、首脳会談
 
 ---
 
 ## 📖 できればこれも
 
-- [side](/word/side)：側面、横
-- [edge](/word/edge)：端、へり
+- [side](/word/side/)：側面、横
+- [edge](/word/edge/)：端、へり
 
 <!-- cvid: aid46_bid07 -->

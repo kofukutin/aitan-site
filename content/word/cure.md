@@ -98,7 +98,7 @@ TOEICでは医療や健康に関する文脈で「cure」が動詞・名詞と�
 ## 🤔  heal との違いは？
 
 - **cure**：病気や問題を完全に治す、根本的な解決を意味する
-- **[heal](/word/heal)**：傷や心の痛みなどを徐々に癒す、回復させる
+- **[heal](/word/heal/)**：傷や心の痛みなどを徐々に癒す、回復させる
 
 「cure」は医学的・物理的な「完全な治癒」に重点があり、「heal」は自然な回復や心の癒しにも使われます。
 
@@ -106,14 +106,14 @@ TOEICでは医療や健康に関する文脈で「cure」が動詞・名詞と�
 
 ## 🧩 あわせて覚えたい
 
-- [treat](/word/treat)：治療する、扱う
-- [prevent](/word/prevent)：予防する、防ぐ
+- [treat](/word/treat/)：治療する、扱う
+- [prevent](/word/prevent/)：予防する、防ぐ
 
 ---
 
 ## 📖 できればこれも
 
-- [recover](/word/recover)：回復する
-- [diagnose](/word/diagnose)：診断する
+- [recover](/word/recover/)：回復する
+- [diagnose](/word/diagnose/)：診断する
 
 <!-- cvid: aid10_bid12 -->

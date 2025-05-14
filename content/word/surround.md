@@ -97,7 +97,7 @@ TOEICでは、オフィスや建物、環境の説明、または比喩的に「
 ## 🤔  enclose との違いは？
 
 - **surround**：外側からぐるりと取り囲む、物理的・比喩的に囲む
-- **[enclose](/word/enclose)**：完全に囲って閉じ込める、囲いの中に入れる
+- **[enclose](/word/enclose/)**：完全に囲って閉じ込める、囲いの中に入れる
 
 surroundは「周囲を取り巻く」イメージ、encloseは「完全に囲って中に入れる」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ surroundは「周囲を取り巻く」イメージ、encloseは「完全に囲�
 
 ## 🧩 あわせて覚えたい
 
-- [encircle](/word/encircle)：円を描くように囲む
-- [border](/word/border)：境界を接する、縁取る
+- [encircle](/word/encircle/)：円を描くように囲む
+- [border](/word/border/)：境界を接する、縁取る
 
 ---
 
 ## 📖 できればこれも
 
-- [cover](/word/cover)：覆う、カバーする
-- [include](/word/include)：含む、含める
+- [cover](/word/cover/)：覆う、カバーする
+- [include](/word/include/)：含む、含める
 
 <!-- cvid: aid23_bid26 -->

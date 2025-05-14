@@ -97,7 +97,7 @@ TOEICでは、道案内や施設の説明、会話文で「駅」や「部署」
 ## 🤔  terminal との違いは？
 
 - **station**：一般的な「駅」や「施設」を指す
-- **[terminal](/word/terminal)**：主に「終点駅」「ターミナル駅」など大きな拠点を指す
+- **[terminal](/word/terminal/)**：主に「終点駅」「ターミナル駅」など大きな拠点を指す
 
 stationはどの駅にも使えますが、terminalは路線の終点や大規模な乗換拠点に限定されます。
 
@@ -105,14 +105,14 @@ stationはどの駅にも使えますが、terminalは路線の終点や大規�
 
 ## 🧩 あわせて覚えたい
 
-- [platform](/word/platform)：ホーム（駅の乗降場所）
-- [depot](/word/depot)：車両基地、倉庫
+- [platform](/word/platform/)：ホーム（駅の乗降場所）
+- [depot](/word/depot/)：車両基地、倉庫
 
 ---
 
 ## 📖 できればこれも
 
-- [office](/word/office)：事務所、オフィス
-- [facility](/word/facility)：施設、設備
+- [office](/word/office/)：事務所、オフィス
+- [facility](/word/facility/)：施設、設備
 
 <!-- cvid: aid06_bid37 -->

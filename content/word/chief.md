@@ -97,7 +97,7 @@ TOEICでは、会社や組織の役職名として会話や説明文によく登
 ## 🤔  leader との違いは？
 
 - **chief**：組織や集団の公式な「長」や「責任者」を指し、役職名として使われることが多い。
-- **[leader](/word/leader)**：人々を導く「リーダー」で、役職に限らずグループをまとめる人全般に使える。
+- **[leader](/word/leader/)**：人々を導く「リーダー」で、役職に限らずグループをまとめる人全般に使える。
 
 chiefはフォーマルで公式な立場を強調し、leaderは影響力や導く力に重点があります。
 
@@ -105,14 +105,14 @@ chiefはフォーマルで公式な立場を強調し、leaderは影響力や導
 
 ## 🧩 あわせて覚えたい
 
-- [manager](/word/manager)：管理職、部門長
-- [director](/word/director)：取締役、監督
+- [manager](/word/manager/)：管理職、部門長
+- [director](/word/director/)：取締役、監督
 
 ---
 
 ## 📖 できればこれも
 
-- [president](/word/president)：社長、会長
-- [officer](/word/officer)：役員、幹部
+- [president](/word/president/)：社長、会長
+- [officer](/word/officer/)：役員、幹部
 
 <!-- cvid: aid40_bid22 -->

@@ -97,7 +97,7 @@ TOEICでは科学や環境に関する説明文やレポートで見かけるこ
 ## 🤔  rust との違いは？
 
 - **oxide**：酸素と他の元素が結びついた化合物全般を指す科学用語
-- **[rust](/word/rust)**：特に鉄が酸化してできる「さび」を指す日常的な単語
+- **[rust](/word/rust/)**：特に鉄が酸化してできる「さび」を指す日常的な単語
 
 oxideは広い意味で使われ、rustは鉄に限定される点が大きな違いです。
 
@@ -105,14 +105,14 @@ oxideは広い意味で使われ、rustは鉄に限定される点が大きな�
 
 ## 🧩 あわせて覚えたい
 
-- [compound](/word/compound)：化合物
-- [corrosion](/word/corrosion)：腐食
+- [compound](/word/compound/)：化合物
+- [corrosion](/word/corrosion/)：腐食
 
 ---
 
 ## 📖 できればこれも
 
-- [element](/word/element)：元素
-- [reaction](/word/reaction)：反応
+- [element](/word/element/)：元素
+- [reaction](/word/reaction/)：反応
 
 <!-- cvid: aid27_bid44 -->

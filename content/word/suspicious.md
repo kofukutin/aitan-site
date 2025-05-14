@@ -97,7 +97,7 @@ TOEICでは、eメールや報告書などの長文中で「怪しい取引」�
 ## 🤔  doubtful との違いは？
 
 - **suspicious**：何かが「怪しい」「信用できない」と感じて疑う気持ちを表す。
-- **[doubtful](/word/doubtful)**：物事が「起こりそうにない」「信じがたい」と思うときに使う。
+- **[doubtful](/word/doubtful/)**：物事が「起こりそうにない」「信じがたい」と思うときに使う。
 
 suspiciousは「怪しい」と感じて警戒するニュアンス、doubtfulは「実現や真実性に疑いを持つ」ニュアンスです。
 
@@ -105,14 +105,14 @@ suspiciousは「怪しい」と感じて警戒するニュアンス、doubtful�
 
 ## 🧩 あわせて覚えたい
 
-- [trust](/word/trust)：信頼する
-- [skeptical](/word/skeptical)：懐疑的な
+- [trust](/word/trust/)：信頼する
+- [skeptical](/word/skeptical/)：懐疑的な
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/word/reliable)：信頼できる
-- [uncertain](/word/uncertain)：不確かな
+- [reliable](/word/reliable/)：信頼できる
+- [uncertain](/word/uncertain/)：不確かな
 
 <!-- cvid: aid26_bid13 -->

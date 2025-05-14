@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「a lot of」「parking lot」などの形で�
 ## 🤔  much との違いは？
 
 - **lot**：カジュアルで「たくさん」の意味。可算・不可算どちらにも使え、会話でよく使う。
-- **[much](/word/much)**：ややフォーマルで、主に不可算名詞に使う。「多くの」という意味。
+- **[much](/word/much/)**：ややフォーマルで、主に不可算名詞に使う。「多くの」という意味。
 
 lotは日常会話で頻繁に使われ、muchは否定文や疑問文、フォーマルな場面で使われやすい違いがあります。
 
@@ -105,14 +105,14 @@ lotは日常会話で頻繁に使われ、muchは否定文や疑問文、フォ�
 
 ## 🧩 あわせて覚えたい
 
-- [plenty](/word/plenty)：たくさん、十分
-- [portion](/word/portion)：部分、分け前
+- [plenty](/word/plenty/)：たくさん、十分
+- [portion](/word/portion/)：部分、分け前
 
 ---
 
 ## 📖 できればこれも
 
-- [area](/word/area)：区域、面積
-- [amount](/word/amount)：量、総計
+- [area](/word/area/)：区域、面積
+- [amount](/word/amount/)：量、総計
 
 <!-- cvid: aid32_bid33 -->

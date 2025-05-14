@@ -97,7 +97,7 @@ TOEICでは、選択肢の動詞として「誘惑する」「その気にさせ
 ## 🤔  attract との違いは？
 
 - **tempt**：主に「悪いこと・望ましくないこと」に人を誘い込むニュアンス
-- **[attract](/word/attract)**：単に「引きつける」「魅了する」など広い意味
+- **[attract](/word/attract/)**：単に「引きつける」「魅了する」など広い意味
 
 temptは「誘惑」や「よくないことに誘う」イメージが強く、attractは中立的・肯定的な「魅力で引きつける」場面で使います。
 
@@ -105,14 +105,14 @@ temptは「誘惑」や「よくないことに誘う」イメージが強く、
 
 ## 🧩 あわせて覚えたい
 
-- [persuade](/word/persuade)：説得する
-- [resist](/word/resist)：抵抗する
+- [persuade](/word/persuade/)：説得する
+- [resist](/word/resist/)：抵抗する
 
 ---
 
 ## 📖 できればこれも
 
-- [encourage](/word/encourage)：励ます、促す
-- [convince](/word/convince)：納得させる
+- [encourage](/word/encourage/)：励ます、促す
+- [convince](/word/convince/)：納得させる
 
 <!-- cvid: aid27_bid40 -->

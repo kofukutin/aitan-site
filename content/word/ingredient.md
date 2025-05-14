@@ -97,7 +97,7 @@ TOEICでは、食品や製品の説明文、広告、レシピなどでingredien
 ## 🤔  component との違いは？
 
 - **ingredient**：主に料理や化学製品などの「材料」「成分」を指す
-- **[component](/word/component)**：機械やシステムなどの「構成部品」「要素」を指す
+- **[component](/word/component/)**：機械やシステムなどの「構成部品」「要素」を指す
 
 ingredientは食品や化学品など「混ぜてできるもの」の材料に使い、componentは機械やシステムなど「組み立ててできるもの」の部品に使います。
 
@@ -105,14 +105,14 @@ ingredientは食品や化学品など「混ぜてできるもの」の材料に�
 
 ## 🧩 あわせて覚えたい
 
-- [material](/word/material)：材料、原料
-- [element](/word/element)：要素、成分
+- [material](/word/material/)：材料、原料
+- [element](/word/element/)：要素、成分
 
 ---
 
 ## 📖 できればこれも
 
-- [recipe](/word/recipe)：レシピ、調理法
-- [product](/word/product)：製品、商品
+- [recipe](/word/recipe/)：レシピ、調理法
+- [product](/word/product/)：製品、商品
 
 <!-- cvid: aid21_bid29 -->

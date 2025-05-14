@@ -97,7 +97,7 @@ TOEICでは主にビジネスやメディア関連の長文で登場し、契約
 ## 🤔  distribution との違いは？
 
 - **syndication**：複数の組織が協力してコンテンツや事業を共同配信・運営すること
-- **[distribution](/word/distribution)**：単に商品や情報を配布・流通させること
+- **[distribution](/word/distribution/)**：単に商品や情報を配布・流通させること
 
 syndicationは「共同での配信・運営」に重点があり、distributionは「広く配る」こと自体を指します。
 
@@ -105,14 +105,14 @@ syndicationは「共同での配信・運営」に重点があり、distribution
 
 ## 🧩 あわせて覚えたい
 
-- [consortium](/word/consortium)：共同事業体、企業連合
-- [broadcast](/word/broadcast)：放送、放送する
+- [consortium](/word/consortium/)：共同事業体、企業連合
+- [broadcast](/word/broadcast/)：放送、放送する
 
 ---
 
 ## 📖 できればこれも
 
-- [franchise](/word/franchise)：フランチャイズ、事業権
-- [partnership](/word/partnership)：提携、協力関係
+- [franchise](/word/franchise/)：フランチャイズ、事業権
+- [partnership](/word/partnership/)：提携、協力関係
 
 <!-- cvid: aid02_bid07 -->

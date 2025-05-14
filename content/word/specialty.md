@@ -97,7 +97,7 @@ TOEICでは、職務内容やレストランの紹介文などで「専門分野
 ## 🤔  expertise との違いは？
 
 - **specialty**：特定の分野や名物料理など「得意分野」「専門」を指す
-- **[expertise](/word/expertise)**：高度な専門知識や熟練した技術を指す
+- **[expertise](/word/expertise/)**：高度な専門知識や熟練した技術を指す
 
 specialtyは「分野」や「ジャンル」に焦点があり、expertiseは「知識や技術の深さ」に重点があります。
 
@@ -105,14 +105,14 @@ specialtyは「分野」や「ジャンル」に焦点があり、expertiseは�
 
 ## 🧩 あわせて覚えたい
 
-- [profession](/word/profession)：職業、専門職
-- [skill](/word/skill)：技能、スキル
+- [profession](/word/profession/)：職業、専門職
+- [skill](/word/skill/)：技能、スキル
 
 ---
 
 ## 📖 できればこれも
 
-- [qualification](/word/qualification)：資格、能力
-- [department](/word/department)：部門、部署
+- [qualification](/word/qualification/)：資格、能力
+- [department](/word/department/)：部門、部署
 
 <!-- cvid: aid44_bid08 -->

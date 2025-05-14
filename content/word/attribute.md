@@ -97,7 +97,7 @@ TOEICではITやビジネス文脈で「属性」「特性」として出題さ�
 ## 🤔  property との違いは？
 
 - **attribute**：物や人が持つ特徴や性質、特にITやデータの「属性」に使う
-- **[property](/word/property)**：物理的・法的な「所有物」や「性質」、科学や不動産でも使う
+- **[property](/word/property/)**：物理的・法的な「所有物」や「性質」、科学や不動産でも使う
 
 attributeは「特徴・属性」として抽象的な性質を指し、propertyは「所有物」や「物質の性質」などより広い意味で使われます。
 
@@ -105,14 +105,14 @@ attributeは「特徴・属性」として抽象的な性質を指し、property
 
 ## 🧩 あわせて覚えたい
 
-- [feature](/word/feature)：特徴、機能
-- [characteristic](/word/characteristic)：特性、特徴
+- [feature](/word/feature/)：特徴、機能
+- [characteristic](/word/characteristic/)：特性、特徴
 
 ---
 
 ## 📖 できればこれも
 
-- [factor](/word/factor)：要因、要素
-- [aspect](/word/aspect)：側面、観点
+- [factor](/word/factor/)：要因、要素
+- [aspect](/word/aspect/)：側面、観点
 
 <!-- cvid: aid40_bid07 -->

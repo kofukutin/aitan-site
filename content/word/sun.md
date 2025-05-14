@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、天気や屋外のシーンを説明
 ## 🤔  star との違いは？
 
 - **sun**：地球から見える唯一の太陽（恒星）を指す。
-- **[star](/word/star)**：夜空に見える他の恒星全般を指す。
+- **[star](/word/star/)**：夜空に見える他の恒星全般を指す。
 
 sunは私たちの太陽を特定して指し、starは宇宙にある無数の恒星を指します。
 
@@ -105,14 +105,14 @@ sunは私たちの太陽を特定して指し、starは宇宙にある無数の�
 
 ## 🧩 あわせて覚えたい
 
-- [moon](/word/moon)：月
-- [light](/word/light)：光
+- [moon](/word/moon/)：月
+- [light](/word/light/)：光
 
 ---
 
 ## 📖 できればこれも
 
-- [sky](/word/sky)：空
-- [cloud](/word/cloud)：雲
+- [sky](/word/sky/)：空
+- [cloud](/word/cloud/)：雲
 
 <!-- cvid: aid02_bid32 -->

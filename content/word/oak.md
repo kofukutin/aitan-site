@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、木や自然の説明として登場
 ## 🤔  tree との違いは？
 
 - **oak**：オーク（樫の木）という特定の種類の木やその木材
-- **[tree](/word/tree)**：木全般を指す一般的な単語
+- **[tree](/word/tree/)**：木全般を指す一般的な単語
 
 oakは特定の木の種類やその木材を指し、treeは「木」という広い意味で使われます。
 
@@ -105,14 +105,14 @@ oakは特定の木の種類やその木材を指し、treeは「木」という�
 
 ## 🧩 あわせて覚えたい
 
-- [forest](/word/forest)：森、森林
-- [wood](/word/wood)：木材、森
+- [forest](/word/forest/)：森、森林
+- [wood](/word/wood/)：木材、森
 
 ---
 
 ## 📖 できればこれも
 
-- [pine](/word/pine)：マツ（松の木）
-- [leaf](/word/leaf)：葉っぱ
+- [pine](/word/pine/)：マツ（松の木）
+- [leaf](/word/leaf/)：葉っぱ
 
 <!-- cvid: aid22_bid46 -->

@@ -97,7 +97,7 @@ TOEICではオフィスや施設の安全に関する会話や説明文で出題
 ## 🤔  suppressor との違いは？
 
 - **extinguisher**：火や煙などを「消すための装置」を指す（特に消火器）。
-- **[suppressor](/word/suppressor)**：何かを「抑える・抑制する装置」全般を指す（例：消音器など）。
+- **[suppressor](/word/suppressor/)**：何かを「抑える・抑制する装置」全般を指す（例：消音器など）。
 
 extinguisherは主に火を消す装置、suppressorは音や動きなど広い意味で抑える装置に使われます。
 
@@ -105,14 +105,14 @@ extinguisherは主に火を消す装置、suppressorは音や動きなど広い�
 
 ## 🧩 あわせて覚えたい
 
-- [alarm](/word/alarm)：警報、アラーム
-- [hydrant](/word/hydrant)：消火栓
+- [alarm](/word/alarm/)：警報、アラーム
+- [hydrant](/word/hydrant/)：消火栓
 
 ---
 
 ## 📖 できればこれも
 
-- [equipment](/word/equipment)：設備、備品
-- [device](/word/device)：装置、機器
+- [equipment](/word/equipment/)：設備、備品
+- [device](/word/device/)：装置、機器
 
 <!-- cvid: aid21_bid21 -->

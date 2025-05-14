@@ -96,7 +96,7 @@ TOEICでは主に健康や食品表示、科学関連の長文で登場します
 ## 🤔  salt との違いは？
 
 - **sodium**：化学的な「ナトリウム」そのものや成分を指す。
-- **[salt](/word/salt)**：一般的な「塩」や食塩全体を指す。
+- **[salt](/word/salt/)**：一般的な「塩」や食塩全体を指す。
 
 sodiumは塩の成分の一部（ナトリウム）を指し、saltは調味料としての塩全体を指します。健康や栄養の話題ではsodiumがよく使われます。
 
@@ -104,14 +104,14 @@ sodiumは塩の成分の一部（ナトリウム）を指し、saltは調味料�
 
 ## 🧩 あわせて覚えたい
 
-- [potassium](/word/potassium)：カリウム（体内のミネラル成分）
-- [chloride](/word/chloride)：塩化物（塩のもう一つの成分）
+- [potassium](/word/potassium/)：カリウム（体内のミネラル成分）
+- [chloride](/word/chloride/)：塩化物（塩のもう一つの成分）
 
 ---
 
 ## 📖 できればこれも
 
-- [calcium](/word/calcium)：カルシウム（骨や歯の主成分）
-- [magnesium](/word/magnesium)：マグネシウム（体に必要なミネラル）
+- [calcium](/word/calcium/)：カルシウム（骨や歯の主成分）
+- [magnesium](/word/magnesium/)：マグネシウム（体に必要なミネラル）
 
 <!-- cvid: aid43_bid30 -->

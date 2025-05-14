@@ -97,7 +97,7 @@ TOEICでは主にPart 7の科学や技術に関する記事や説明文で登場
 ## 🤔  researcher との違いは？
 
 - **scientist**：自然科学分野で実験や理論研究を行う専門家
-- **[researcher](/word/researcher)**：分野を問わず調査・研究を行う人
+- **[researcher](/word/researcher/)**：分野を問わず調査・研究を行う人
 
 scientistは主に科学（物理・化学・生物など）の専門家を指し、researcherは人文・社会・科学など幅広い分野の研究者を指します。
 
@@ -105,14 +105,14 @@ scientistは主に科学（物理・化学・生物など）の専門家を指�
 
 ## 🧩 あわせて覚えたい
 
-- [engineer](/word/engineer)：技術者、エンジニア
-- [technician](/word/technician)：技術員、テクニシャン
+- [engineer](/word/engineer/)：技術者、エンジニア
+- [technician](/word/technician/)：技術員、テクニシャン
 
 ---
 
 ## 📖 できればこれも
 
-- [experiment](/word/experiment)：実験
-- [laboratory](/word/laboratory)：実験室、研究室
+- [experiment](/word/experiment/)：実験
+- [laboratory](/word/laboratory/)：実験室、研究室
 
 <!-- cvid: aid24_bid09 -->

@@ -97,7 +97,7 @@ TOEICでは、動詞の時制や受動態、過去分詞としての使い方を
 ## 🤔  made との違いは？
 
 - **created**：ゼロから新しいものを生み出す、創造する
-- **[made](/word/made)**：材料や既存のものを使って作る、製造する
+- **[made](/word/made/)**：材料や既存のものを使って作る、製造する
 
 「created」は独自性や新規性が強調されるのに対し、「made」は既存の材料や方法で作る場合に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、動詞の時制や受動態、過去分詞としての使い方を
 
 ## 🧩 あわせて覚えたい
 
-- [develop](/word/develop)：開発する、発展させる
-- [establish](/word/establish)：設立する、確立する
+- [develop](/word/develop/)：開発する、発展させる
+- [establish](/word/establish/)：設立する、確立する
 
 ---
 
 ## 📖 できればこれも
 
-- [design](/word/design)：設計する、デザインする
-- [produce](/word/produce)：生産する、作り出す
+- [design](/word/design/)：設計する、デザインする
+- [produce](/word/produce/)：生産する、作り出す
 
 <!-- cvid: aid49_bid28 -->

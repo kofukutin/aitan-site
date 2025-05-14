@@ -97,7 +97,7 @@ TOEICでは、工場やオフィスの設備、エネルギー関連の説明文
 ## 🤔  power との違いは？
 
 - **electricity**：物理的な「電気」そのものを指す
-- **[power](/word/power)**：電気だけでなく「力」「動力」「権力」など幅広い意味
+- **[power](/word/power/)**：電気だけでなく「力」「動力」「権力」など幅広い意味
 
 electricityは「電気」という物質や現象を指し、powerは「エネルギー」や「能力」など抽象的な力全般を表します。
 
@@ -105,14 +105,14 @@ electricityは「電気」という物質や現象を指し、powerは「エネ�
 
 ## 🧩 あわせて覚えたい
 
-- [energy](/word/energy)：エネルギー、動力
-- [current](/word/current)：電流
+- [energy](/word/energy/)：エネルギー、動力
+- [current](/word/current/)：電流
 
 ---
 
 ## 📖 できればこれも
 
-- [battery](/word/battery)：電池
-- [device](/word/device)：装置、機器
+- [battery](/word/battery/)：電池
+- [device](/word/device/)：装置、機器
 
 <!-- cvid: aid16_bid20 -->

@@ -97,7 +97,7 @@ TOEICでは、寄付や社会貢献に関する記事やメール文でよく登
 ## 🤔  contribute との違いは？
 
 - **donate**：お金や物、臓器などを「無償で与える」「寄付する」ことを強調
-- **[contribute](/word/contribute)**：お金やアイデア、労力など「何かを提供して貢献する」広い意味
+- **[contribute](/word/contribute/)**：お金やアイデア、労力など「何かを提供して貢献する」広い意味
 
 donateは「善意で無償提供する」ニュアンスが強く、contributeは「全体のために一部を出す」や「貢献する」意味で使い分けます。
 
@@ -105,14 +105,14 @@ donateは「善意で無償提供する」ニュアンスが強く、contribute�
 
 ## 🧩 あわせて覚えたい
 
-- [offer](/word/offer)：申し出る、提供する
-- [provide](/word/provide)：供給する、与える
+- [offer](/word/offer/)：申し出る、提供する
+- [provide](/word/provide/)：供給する、与える
 
 ---
 
 ## 📖 できればこれも
 
-- [support](/word/support)：支援する、支える
-- [sponsor](/word/sponsor)：スポンサーになる、資金提供する
+- [support](/word/support/)：支援する、支える
+- [sponsor](/word/sponsor/)：スポンサーになる、資金提供する
 
 <!-- cvid: aid46_bid04 -->

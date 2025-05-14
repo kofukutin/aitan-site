@@ -97,7 +97,7 @@ TOEICではビジネスメールや取引書類の読解問題で頻出です。
 ## 🤔  bill との違いは？
 
 - **invoice**：ビジネス取引で使う正式な請求書。支払期限や明細が明記される。
-- **[bill](/word/bill)**：レストランや日常の支払いで使う「請求書」「勘定書」。
+- **[bill](/word/bill/)**：レストランや日常の支払いで使う「請求書」「勘定書」。
 
 invoiceは主に企業間取引や業務で使われ、billは日常的な支払い場面で使われます。
 
@@ -105,14 +105,14 @@ invoiceは主に企業間取引や業務で使われ、billは日常的な支払
 
 ## 🧩 あわせて覚えたい
 
-- [receipt](/word/receipt)：領収書
-- [statement](/word/statement)：明細書
+- [receipt](/word/receipt/)：領収書
+- [statement](/word/statement/)：明細書
 
 ---
 
 ## 📖 できればこれも
 
-- [contract](/word/contract)：契約書
-- [order](/word/order)：注文書
+- [contract](/word/contract/)：契約書
+- [order](/word/order/)：注文書
 
 <!-- cvid: aid30_bid10 -->

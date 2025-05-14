@@ -97,7 +97,7 @@ TOEICでは「mental health」「mental ability」などの形で、健康や能
 ## 🤔  psychological との違いは？
 
 - **mental**：心や精神に関する一般的なことを幅広く指す
-- **[psychological](/word/psychological)**：心理学的・心理的な側面や分析に特化して使う
+- **[psychological](/word/psychological/)**：心理学的・心理的な側面や分析に特化して使う
 
 mentalは「心」や「精神」に関する広い意味で使われますが、psychologicalは「心理学」や「心理的分析」など、より専門的・学術的なニュアンスがあります。
 
@@ -105,14 +105,14 @@ mentalは「心」や「精神」に関する広い意味で使われますが�
 
 ## 🧩 あわせて覚えたい
 
-- [physical](/word/physical)：身体の、肉体的な
-- [emotional](/word/emotional)：感情の、情緒的な
+- [physical](/word/physical/)：身体の、肉体的な
+- [emotional](/word/emotional/)：感情の、情緒的な
 
 ---
 
 ## 📖 できればこれも
 
-- [medical](/word/medical)：医療の、医学の
-- [physical](/word/physical)：身体の、肉体的な
+- [medical](/word/medical/)：医療の、医学の
+- [physical](/word/physical/)：身体の、肉体的な
 
 <!-- cvid: aid43_bid04 -->

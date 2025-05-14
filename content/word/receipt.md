@@ -97,7 +97,7 @@ TOEICでは、メールや案内文、ビジネス文書の中で「領収書」
 ## 🤔  invoice との違いは？
 
 - **receipt**：支払い後にもらう「領収書」や「受領証明」
-- **[invoice](/word/invoice)**：支払い前に発行される「請求書」
+- **[invoice](/word/invoice/)**：支払い前に発行される「請求書」
 
 receiptは「支払い済み」の証明、invoiceは「これから支払うべき金額」の通知という違いがあります。
 
@@ -105,14 +105,14 @@ receiptは「支払い済み」の証明、invoiceは「これから支払うべ
 
 ## 🧩 あわせて覚えたい
 
-- [bill](/word/bill)：請求書、勘定書
-- [voucher](/word/voucher)：引換券、証明書
+- [bill](/word/bill/)：請求書、勘定書
+- [voucher](/word/voucher/)：引換券、証明書
 
 ---
 
 ## 📖 できればこれも
 
-- [payment](/word/payment)：支払い
-- [order](/word/order)：注文
+- [payment](/word/payment/)：支払い
+- [order](/word/order/)：注文
 
 <!-- cvid: aid09_bid23 -->

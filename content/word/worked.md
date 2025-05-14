@@ -97,7 +97,7 @@ workedはTOEICの会話パートで、過去の業務経験やシステムの動
 ## 🤔  operated との違いは？
 
 - **worked**：人や物が「働いた」「機能した」と広く使える
-- **[operated](/word/operated)**：機械やシステムが「操作された」「作動した」と限定的
+- **[operated](/word/operated/)**：機械やシステムが「操作された」「作動した」と限定的
 
 workedは人・物どちらにも使えますが、operatedは特に機械や装置の「操作・運転」に焦点を当てます。
 
@@ -105,14 +105,14 @@ workedは人・物どちらにも使えますが、operatedは特に機械や装
 
 ## 🧩 あわせて覚えたい
 
-- [functioned](/word/functioned)：（機械などが）機能した
-- [rested](/word/rested)：休んだ
+- [functioned](/word/functioned/)：（機械などが）機能した
+- [rested](/word/rested/)：休んだ
 
 ---
 
 ## 📖 できればこれも
 
-- [managed](/word/managed)：管理した、うまくやった
-- [helped](/word/helped)：助けた
+- [managed](/word/managed/)：管理した、うまくやった
+- [helped](/word/helped/)：助けた
 
 <!-- cvid: aid47_bid12 -->

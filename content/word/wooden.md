@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写問題で、家具や建物などの素材を説
 ## 🤔  woodenly との違いは？
 
 - **wooden**：木製の、または比喩的に「ぎこちない」
-- **[woodenly](/word/woodenly)**：ぎこちなく、無表情に（副詞）
+- **[woodenly](/word/woodenly/)**：ぎこちなく、無表情に（副詞）
 
 woodenは「木でできた」という物質的な特徴や「ぎこちない」という形容詞的な意味ですが、woodenlyは動作や表情が「ぎこちなく」「無表情に」行われる様子を表す副詞です。
 
@@ -105,14 +105,14 @@ woodenは「木でできた」という物質的な特徴や「ぎこちない�
 
 ## 🧩 あわせて覚えたい
 
-- [metal](/word/metal)：金属、金属製の
-- [plastic](/word/plastic)：プラスチック、プラスチック製の
+- [metal](/word/metal/)：金属、金属製の
+- [plastic](/word/plastic/)：プラスチック、プラスチック製の
 
 ---
 
 ## 📖 できればこれも
 
-- [wood](/word/wood)：木、木材
-- [metallic](/word/metallic)：金属の、金属製の
+- [wood](/word/wood/)：木、木材
+- [metallic](/word/metallic/)：金属の、金属製の
 
 <!-- cvid: aid35_bid29 -->

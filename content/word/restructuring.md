@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や社内通知、ニュース記事などで
 ## 🤔  reorganization との違いは？
 
 - **restructuring**：構造や仕組みを根本的に作り直す再編成
-- **[reorganization](/word/reorganization)**：組織や業務の配置換え・再編成
+- **[reorganization](/word/reorganization/)**：組織や業務の配置換え・再編成
 
 restructuringはより大きな変革や抜本的な見直しを指し、reorganizationは比較的規模の小さい組織変更や再配置を指すことが多いです。
 
@@ -105,14 +105,14 @@ restructuringはより大きな変革や抜本的な見直しを指し、reorgan
 
 ## 🧩 あわせて覚えたい
 
-- [downsizing](/word/downsizing)：人員削減
-- [merger](/word/merger)：合併
+- [downsizing](/word/downsizing/)：人員削減
+- [merger](/word/merger/)：合併
 
 ---
 
 ## 📖 できればこれも
 
-- [acquisition](/word/acquisition)：買収
-- [transition](/word/transition)：移行
+- [acquisition](/word/acquisition/)：買収
+- [transition](/word/transition/)：移行
 
 <!-- cvid: aid48_bid39 -->

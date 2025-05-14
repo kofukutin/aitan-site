@@ -96,7 +96,7 @@ TOEICでは都市や地域の説明、観光案内、行政関連の長文で見
 ## 🤔  district との違いは？
 
 - **borough**：特定の都市内の行政区や特別区を指し、公式な区分として使われることが多い
-- **[district](/word/district)**：行政区だけでなく、商業地区や学区など幅広い「区画」を指す
+- **[district](/word/district/)**：行政区だけでなく、商業地区や学区など幅広い「区画」を指す
 
 boroughは都市の公式な区分、districtは用途や目的に応じた幅広い区画を指す点が異なります。
 
@@ -104,14 +104,14 @@ boroughは都市の公式な区分、districtは用途や目的に応じた幅�
 
 ## 🧩 あわせて覚えたい
 
-- [municipality](/word/municipality)：自治体、地方公共団体
-- [suburb](/word/suburb)：郊外、都市周辺の住宅地
+- [municipality](/word/municipality/)：自治体、地方公共団体
+- [suburb](/word/suburb/)：郊外、都市周辺の住宅地
 
 ---
 
 ## 📖 できればこれも
 
-- [province](/word/province)：州、地方
-- [county](/word/county)：郡、行政区画
+- [province](/word/province/)：州、地方
+- [county](/word/county/)：郡、行政区画
 
 <!-- cvid: aid42_bid23 -->

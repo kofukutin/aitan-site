@@ -97,7 +97,7 @@ TOEICでは、商品説明やリスト、議事録などで「item」が頻出�
 ## 🤔  product との違いは？
 
 - **item**：リストや表の中の「項目」や「品目」として幅広く使う
-- **[product](/word/product)**：製造・販売される「製品」「商品」に特化
+- **[product](/word/product/)**：製造・販売される「製品」「商品」に特化
 
 itemは「リストの一つ」や「品目」として幅広く使われ、productは「製品」としての性質や販売を強調します。
 
@@ -105,14 +105,14 @@ itemは「リストの一つ」や「品目」として幅広く使われ、prod
 
 ## 🧩 あわせて覚えたい
 
-- [article](/word/article)：（新聞などの）記事、品物
-- [goods](/word/goods)：商品、物品
+- [article](/word/article/)：（新聞などの）記事、品物
+- [goods](/word/goods/)：商品、物品
 
 ---
 
 ## 📖 できればこれも
 
-- [list](/word/list)：リスト、一覧
-- [detail](/word/detail)：詳細、細部
+- [list](/word/list/)：リスト、一覧
+- [detail](/word/detail/)：詳細、細部
 
 <!-- cvid: aid39_bid30 -->

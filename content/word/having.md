@@ -97,7 +97,7 @@ TOEICでは動名詞や分詞構文の文法問題でよく出題されます。
 ## 🤔  owning との違いは？
 
 - **having**：持っていること全般や経験・状態を幅広く表す
-- **[owning](/word/owning)**：所有権や財産として「所有している」ことを強調
+- **[owning](/word/owning/)**：所有権や財産として「所有している」ことを強調
 
 havingは「持っている」「経験している」など広い意味で使われますが、owningは「自分のものとして所有している」ことを強調します。
 
@@ -105,14 +105,14 @@ havingは「持っている」「経験している」など広い意味で使�
 
 ## 🧩 あわせて覚えたい
 
-- [possessing](/word/possessing)：（能力・資格などを）持っている
-- [lacking](/word/lacking)：欠けている、足りない
+- [possessing](/word/possessing/)：（能力・資格などを）持っている
+- [lacking](/word/lacking/)：欠けている、足りない
 
 ---
 
 ## 📖 できればこれも
 
-- [using](/word/using)：使うこと
-- [getting](/word/getting)：手に入れること
+- [using](/word/using/)：使うこと
+- [getting](/word/getting/)：手に入れること
 
 <!-- cvid: aid39_bid11 -->

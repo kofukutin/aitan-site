@@ -97,7 +97,7 @@ TOEICでは主に数字や時間、数量を問う問題で登場します。リ
 ## 🤔  fifty との違いは？
 
 - **fifteen**：15（じゅうご）を表す数字
-- **[fifty](/word/fifty)**：50（ごじゅう）を表す数字
+- **[fifty](/word/fifty/)**：50（ごじゅう）を表す数字
 
 「fifteen」は15、「fifty」は50を表し、発音やスペルも似ていますが、意味は大きく異なります。
 
@@ -105,14 +105,14 @@ TOEICでは主に数字や時間、数量を問う問題で登場します。リ
 
 ## 🧩 あわせて覚えたい
 
-- [thirteen](/word/thirteen)：13
-- [twenty](/word/twenty)：20
+- [thirteen](/word/thirteen/)：13
+- [twenty](/word/twenty/)：20
 
 ---
 
 ## 📖 できればこれも
 
-- [fourteen](/word/fourteen)：14
-- [sixteen](/word/sixteen)：16
+- [fourteen](/word/fourteen/)：14
+- [sixteen](/word/sixteen/)：16
 
 <!-- cvid: aid42_bid14 -->

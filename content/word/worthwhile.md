@@ -97,7 +97,7 @@ TOEICではPart 5の語彙問題で「価値がある」「やりがいがある
 ## 🤔  worthy との違いは？
 
 - **worthwhile**：時間や労力をかける価値がある、やりがいがある
-- **[worthy](/word/worthy)**：～に値する、ふさわしい
+- **[worthy](/word/worthy/)**：～に値する、ふさわしい
 
 「worthwhile」は「努力や時間をかける価値がある」という実用的なニュアンス、「worthy」は「賞賛や注目に値する」といった評価的なニュアンスで使い分けます。
 
@@ -105,14 +105,14 @@ TOEICではPart 5の語彙問題で「価値がある」「やりがいがある
 
 ## 🧩 あわせて覚えたい
 
-- [valuable](/word/valuable)：価値のある
-- [meaningful](/word/meaningful)：意味のある、有意義な
+- [valuable](/word/valuable/)：価値のある
+- [meaningful](/word/meaningful/)：意味のある、有意義な
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [significant](/word/significant)：重要な
+- [efficient](/word/efficient/)：効率的な
+- [significant](/word/significant/)：重要な
 
 <!-- cvid: aid24_bid18 -->

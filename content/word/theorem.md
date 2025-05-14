@@ -97,7 +97,7 @@ TOEICでは科学や技術系の長文、特に論文や説明文で見かける
 ## 🤔  theory との違いは？
 
 - **theorem**：証明された命題や法則
-- **[theory](/word/theory)**：理論、体系的な考え方や仮説
+- **[theory](/word/theory/)**：理論、体系的な考え方や仮説
 
 theoremは「証明済みの事実」、theoryは「説明や予測の枠組み」で、証明の有無が大きな違いです。
 
@@ -105,14 +105,14 @@ theoremは「証明済みの事実」、theoryは「説明や予測の枠組み�
 
 ## 🧩 あわせて覚えたい
 
-- [axiom](/word/axiom)：公理（証明を必要としない前提）
-- [proof](/word/proof)：証明（命題が正しいことを示す手順）
+- [axiom](/word/axiom/)：公理（証明を必要としない前提）
+- [proof](/word/proof/)：証明（命題が正しいことを示す手順）
 
 ---
 
 ## 📖 できればこれも
 
-- [formula](/word/formula)：公式、数式
-- [hypothesis](/word/hypothesis)：仮説
+- [formula](/word/formula/)：公式、数式
+- [hypothesis](/word/hypothesis/)：仮説
 
 <!-- cvid: aid41_bid11 -->

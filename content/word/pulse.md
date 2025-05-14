@@ -97,7 +97,7 @@ The device sends a pulse every second to monitor the system.
 ## 🤔  beat との違いは？
 
 - **pulse**：心臓や血管の「脈拍」、周期的な信号や振動を表す
-- **[beat](/word/beat)**：音や心臓などの「打つ音」「拍」を広く表す
+- **[beat](/word/beat/)**：音や心臓などの「打つ音」「拍」を広く表す
 
 pulseは医学や技術分野で「一定のリズムで繰り返す動き」に特化し、beatはより一般的な「打つ音」や「リズム」を指します。
 
@@ -105,14 +105,14 @@ pulseは医学や技術分野で「一定のリズムで繰り返す動き」に
 
 ## 🧩 あわせて覚えたい
 
-- [rhythm](/word/rhythm)：リズム、周期的な動き
-- [signal](/word/signal)：信号、合図
+- [rhythm](/word/rhythm/)：リズム、周期的な動き
+- [signal](/word/signal/)：信号、合図
 
 ---
 
 ## 📖 できればこれも
 
-- [vein](/word/vein)：静脈
-- [scan](/word/scan)：スキャンする、精査する
+- [vein](/word/vein/)：静脈
+- [scan](/word/scan/)：スキャンする、精査する
 
 <!-- cvid: aid20_bid18 -->

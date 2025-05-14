@@ -97,7 +97,7 @@ TOEICの長文読解やビジネス文書の締めくくり部分でよく登場
 ## 🤔  summary との違いは？
 
 - **conclusion**：議論や出来事の最後に出される「結論」や「締めくくり」
-- **[summary](/word/summary)**：内容全体の「要約」や「まとめ」
+- **[summary](/word/summary/)**：内容全体の「要約」や「まとめ」
 
 conclusionは「最終的な判断や決定」を強調し、summaryは「全体の要点を簡潔にまとめる」ことに重点があります。
 
@@ -105,14 +105,14 @@ conclusionは「最終的な判断や決定」を強調し、summaryは「全体
 
 ## 🧩 あわせて覚えたい
 
-- [decision](/word/decision)：決定、判断
-- [result](/word/result)：結果
+- [decision](/word/decision/)：決定、判断
+- [result](/word/result/)：結果
 
 ---
 
 ## 📖 できればこれも
 
-- [summary](/word/summary)：要約、まとめ
-- [recommendation](/word/recommendation)：提案、勧告
+- [summary](/word/summary/)：要約、まとめ
+- [recommendation](/word/recommendation/)：提案、勧告
 
 <!-- cvid: aid35_bid14 -->

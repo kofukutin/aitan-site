@@ -97,7 +97,7 @@ TOEICでは、ビジネスや法務関連の長文で「調査員」や「捜査
 ## 🤔  inspector との違いは？
 
 - **investigator**：事件や問題、研究などを詳しく調査・捜査する人
-- **[inspector](/word/inspector)**：検査官、監査官など、規則や基準に従って点検・監督する人
+- **[inspector](/word/inspector/)**：検査官、監査官など、規則や基準に従って点検・監督する人
 
 investigatorは「原因や事実を突き止めるために調査する人」、inspectorは「基準や規則に従って点検・監督する人」という違いがあります。
 
@@ -105,14 +105,14 @@ investigatorは「原因や事実を突き止めるために調査する人」�
 
 ## 🧩 あわせて覚えたい
 
-- [detective](/word/detective)：刑事、探偵
-- [researcher](/word/researcher)：研究者
+- [detective](/word/detective/)：刑事、探偵
+- [researcher](/word/researcher/)：研究者
 
 ---
 
 ## 📖 できればこれも
 
-- [investigation](/word/investigation)：調査、捜査
-- [evidence](/word/evidence)：証拠
+- [investigation](/word/investigation/)：調査、捜査
+- [evidence](/word/evidence/)：証拠
 
 <!-- cvid: aid19_bid15 -->

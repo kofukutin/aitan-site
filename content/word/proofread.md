@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書の作成やチェックに関する文脈で
 ## 🤔  revise との違いは？
 
 - **proofread**：誤字脱字や文法ミスなど表面的な間違いをチェックして直すこと
-- **[revise](/word/revise)**：内容や構成自体を見直して修正・改善すること
+- **[revise](/word/revise/)**：内容や構成自体を見直して修正・改善すること
 
 proofreadは「間違い探し・修正」に特化し、reviseは「内容の見直し・改善」まで含みます。
 
@@ -105,14 +105,14 @@ proofreadは「間違い探し・修正」に特化し、reviseは「内容の�
 
 ## 🧩 あわせて覚えたい
 
-- [edit](/word/edit)：編集する、手直しする
-- [correct](/word/correct)：訂正する、正す
+- [edit](/word/edit/)：編集する、手直しする
+- [correct](/word/correct/)：訂正する、正す
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/word/submit)：提出する
-- [review](/word/review)：見直す、再検討する
+- [submit](/word/submit/)：提出する
+- [review](/word/review/)：見直す、再検討する
 
 <!-- cvid: aid14_bid11 -->

@@ -97,7 +97,7 @@ TOEICでは科学技術や製品説明の文脈で「magnetic」が登場する�
 ## 🤔  attractive との違いは？
 
 - **magnetic**：磁気の性質や、人を強く惹きつける魅力を表す
-- **[attractive](/word/attractive)**：見た目や性格など、広い意味で「魅力的な」を表す
+- **[attractive](/word/attractive/)**：見た目や性格など、広い意味で「魅力的な」を表す
 
 magneticは物理的な「磁気」や、強い引力のような魅力に使われ、attractiveは一般的な「魅力的な」全般に使われます。
 
@@ -105,14 +105,14 @@ magneticは物理的な「磁気」や、強い引力のような魅力に使わ
 
 ## 🧩 あわせて覚えたい
 
-- [electric](/word/electric)：電気の、電動の
-- [repellent](/word/repellent)：はじく、寄せ付けない
+- [electric](/word/electric/)：電気の、電動の
+- [repellent](/word/repellent/)：はじく、寄せ付けない
 
 ---
 
 ## 📖 できればこれも
 
-- [mechanical](/word/mechanical)：機械の、機械的な
-- [chemical](/word/chemical)：化学の、化学的な
+- [mechanical](/word/mechanical/)：機械の、機械的な
+- [chemical](/word/chemical/)：化学の、化学的な
 
 <!-- cvid: aid15_bid04 -->

@@ -94,7 +94,7 @@ TOEICでは、説明文や手順書、ビジネスメールなどで「同時に
 ## 🤔  concurrently との違いは？
 
 - **simultaneously**：まったく同じタイミングで起こることを強調
-- **[concurrently](/word/concurrently)**：同じ期間内で並行して起こるが、必ずしも完全な同時ではない
+- **[concurrently](/word/concurrently/)**：同じ期間内で並行して起こるが、必ずしも完全な同時ではない
 
 simultaneouslyは「ピッタリ同時」に焦点があり、concurrentlyは「並行している」ニュアンスが強いです。
 
@@ -102,14 +102,14 @@ simultaneouslyは「ピッタリ同時」に焦点があり、concurrentlyは「
 
 ## 🧩 あわせて覚えたい
 
-- [instantly](/word/instantly)：即座に
-- [separately](/word/separately)：別々に
+- [instantly](/word/instantly/)：即座に
+- [separately](/word/separately/)：別々に
 
 ---
 
 ## 📖 できればこれも
 
-- [immediately](/word/immediately)：すぐに
-- [previously](/word/previously)：以前に
+- [immediately](/word/immediately/)：すぐに
+- [previously](/word/previously/)：以前に
 
 <!-- cvid: aid30_bid36 -->

@@ -97,7 +97,7 @@ TOEICでは、施設やサービスの説明、観光案内、福利厚生など
 ## 🤔  leisure との違いは？
 
 - **recreational**：娯楽や気晴らしのための（形容詞）。活動や施設などを修飾する。
-- **[leisure](/word/leisure)**：余暇、自由時間（名詞）。時間や状態を指す。
+- **[leisure](/word/leisure/)**：余暇、自由時間（名詞）。時間や状態を指す。
 
 recreationalは「娯楽目的の活動や施設」を形容するのに使い、leisureは「余暇そのもの」や「自由な時間」を表します。
 
@@ -105,14 +105,14 @@ recreationalは「娯楽目的の活動や施設」を形容するのに使い�
 
 ## 🧩 あわせて覚えたい
 
-- [entertainment](/word/entertainment)：娯楽、エンターテインメント
-- [hobby](/word/hobby)：趣味
+- [entertainment](/word/entertainment/)：娯楽、エンターテインメント
+- [hobby](/word/hobby/)：趣味
 
 ---
 
 ## 📖 できればこれも
 
-- [cultural](/word/cultural)：文化の、文化的な
-- [outdoor](/word/outdoor)：屋外の、野外の
+- [cultural](/word/cultural/)：文化の、文化的な
+- [outdoor](/word/outdoor/)：屋外の、野外の
 
 <!-- cvid: aid42_bid46 -->

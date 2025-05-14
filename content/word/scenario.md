@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や会議の議事録、計画書などで「sce
 ## 🤔  situation との違いは？
 
 - **scenario**：将来の展開や仮定の筋書き、計画的な「シナリオ」
-- **[situation](/word/situation)**：現在の状態や実際に起きている「状況」
+- **[situation](/word/situation/)**：現在の状態や実際に起きている「状況」
 
 scenarioは「こうなったらどうする？」という仮定や計画の文脈で使い、situationは「今どうなっているか」という現実の状態を表します。
 
@@ -105,14 +105,14 @@ scenarioは「こうなったらどうする？」という仮定や計画の文
 
 ## 🧩 あわせて覚えたい
 
-- [case](/word/case)：場合、事例
-- [plan](/word/plan)：計画
+- [case](/word/case/)：場合、事例
+- [plan](/word/plan/)：計画
 
 ---
 
 ## 📖 できればこれも
 
-- [proposal](/word/proposal)：提案
-- [strategy](/word/strategy)：戦略
+- [proposal](/word/proposal/)：提案
+- [strategy](/word/strategy/)：戦略
 
 <!-- cvid: aid05_bid35 -->

@@ -97,7 +97,7 @@ TOEICでは会社やオフィスの職種を問う問題や、メール・会議
 ## 🤔  assistant との違いは？
 
 - **secretary**：主に上司や部署の事務・スケジュール管理・文書作成などを担当する秘書。
-- **[assistant](/word/assistant)**：補助業務全般を担う人。秘書に限らず幅広いサポート役。
+- **[assistant](/word/assistant/)**：補助業務全般を担う人。秘書に限らず幅広いサポート役。
 
 secretaryは「秘書」という職種に特化し、assistantは「補佐役」としてより広い業務範囲を指します。
 
@@ -105,14 +105,14 @@ secretaryは「秘書」という職種に特化し、assistantは「補佐役�
 
 ## 🧩 あわせて覚えたい
 
-- [receptionist](/word/receptionist)：受付係
-- [manager](/word/manager)：管理職、マネージャー
+- [receptionist](/word/receptionist/)：受付係
+- [manager](/word/manager/)：管理職、マネージャー
 
 ---
 
 ## 📖 できればこれも
 
-- [clerk](/word/clerk)：事務員
-- [director](/word/director)：取締役、部長
+- [clerk](/word/clerk/)：事務員
+- [director](/word/director/)：取締役、部長
 
 <!-- cvid: aid12_bid19 -->

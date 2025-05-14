@@ -97,7 +97,7 @@ TOEICでは、グラフや図表の説明、科学・技術系の長文で出題
 ## 🤔  line との違いは？
 
 - **axis**：図や物体の中心となる「軸」や基準線を指す
-- **[line](/word/line)**：一般的な「線」全般を指し、軸に限らない
+- **[line](/word/line/)**：一般的な「線」全般を指し、軸に限らない
 
 axisは回転や基準となる中心線に限定されるのに対し、lineは直線や曲線など幅広い「線」を指します。
 
@@ -105,14 +105,14 @@ axisは回転や基準となる中心線に限定されるのに対し、lineは
 
 ## 🧩 あわせて覚えたい
 
-- [center](/word/center)：中心、中央
-- [rotation](/word/rotation)：回転
+- [center](/word/center/)：中心、中央
+- [rotation](/word/rotation/)：回転
 
 ---
 
 ## 📖 できればこれも
 
-- [angle](/word/angle)：角度
-- [circle](/word/circle)：円
+- [angle](/word/angle/)：角度
+- [circle](/word/circle/)：円
 
 <!-- cvid: aid34_bid10 -->

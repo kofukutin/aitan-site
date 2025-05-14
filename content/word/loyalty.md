@@ -97,7 +97,7 @@ loyaltyはTOEICの長文読解パートで、顧客や従業員の忠誠心に�
 ## 🤔  faithfulness との違いは？
 
 - **loyalty**：人や組織、ブランドなどへの継続的な忠誠心や帰属意識を強調。
-- **[faithfulness](/word/faithfulness)**：主に約束や信念、恋愛関係などでの誠実さや浮気しないことを強調。
+- **[faithfulness](/word/faithfulness/)**：主に約束や信念、恋愛関係などでの誠実さや浮気しないことを強調。
 
 loyaltyは「組織や人への一貫した忠誠心」、faithfulnessは「約束や関係に対する誠実さ」に重点があります。
 
@@ -105,14 +105,14 @@ loyaltyは「組織や人への一貫した忠誠心」、faithfulnessは「約�
 
 ## 🧩 あわせて覚えたい
 
-- [betrayal](/word/betrayal)：裏切り
-- [commitment](/word/commitment)：約束、献身
+- [betrayal](/word/betrayal/)：裏切り
+- [commitment](/word/commitment/)：約束、献身
 
 ---
 
 ## 📖 できればこれも
 
-- [trust](/word/trust)：信頼
-- [support](/word/support)：支援
+- [trust](/word/trust/)：信頼
+- [support](/word/support/)：支援
 
 <!-- cvid: aid00_bid36 -->

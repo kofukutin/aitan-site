@@ -97,7 +97,7 @@ TOEICでは、学術的な文献や案内文、研究資料などを指して使
 ## 🤔  document との違いは？
 
 - **literature**：文学作品や学術的な文献全般を指す
-- **[document](/word/document)**：契約書や証明書など、個別の公式な書類を指す
+- **[document](/word/document/)**：契約書や証明書など、個別の公式な書類を指す
 
 literatureは広い意味での「書かれたもの」や「文献」を指し、documentは特定の書類や記録を意味します。
 
@@ -105,14 +105,14 @@ literatureは広い意味での「書かれたもの」や「文献」を指し�
 
 ## 🧩 あわせて覚えたい
 
-- [novel](/word/novel)：小説
-- [publication](/word/publication)：出版物、発行物
+- [novel](/word/novel/)：小説
+- [publication](/word/publication/)：出版物、発行物
 
 ---
 
 ## 📖 できればこれも
 
-- [journal](/word/journal)：学術誌、日誌
-- [article](/word/article)：記事、論文
+- [journal](/word/journal/)：学術誌、日誌
+- [article](/word/article/)：記事、論文
 
 <!-- cvid: aid04_bid44 -->

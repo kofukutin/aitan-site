@@ -97,7 +97,7 @@ TOEICでは会議やビジネスシーンの「場面」や、機器・ソフト
 ## 🤔  environment との違いは？
 
 - **setting**：特定の「場面」「状況」「背景」や「設定」を指す
-- **[environment](/word/environment)**：より広い「環境」や「周囲の状況」を指す
+- **[environment](/word/environment/)**：より広い「環境」や「周囲の状況」を指す
 
 「setting」は会議や物語など特定の場面や、機械の設定など具体的な状況に使い、「environment」は自然環境や職場環境など広い意味で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは会議やビジネスシーンの「場面」や、機器・ソフト
 
 ## 🧩 あわせて覚えたい
 
-- [background](/word/background)：背景、背後
-- [context](/word/context)：文脈、状況
+- [background](/word/background/)：背景、背後
+- [context](/word/context/)：文脈、状況
 
 ---
 
 ## 📖 できればこれも
 
-- [location](/word/location)：場所、所在地
-- [situation](/word/situation)：状況、立場
+- [location](/word/location/)：場所、所在地
+- [situation](/word/situation/)：状況、立場
 
 <!-- cvid: aid38_bid10 -->

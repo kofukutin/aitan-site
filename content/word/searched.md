@@ -97,7 +97,7 @@ TOEICでは、会話や説明文で「探した」「検索した」という意
 ## 🤔  investigated との違いは？
 
 - **searched**：何かを見つけるために探したり調べたりする一般的な表現
-- **[investigated](/word/investigated)**：より詳しく、原因や事実を突き止めるために調査する
+- **[investigated](/word/investigated/)**：より詳しく、原因や事実を突き止めるために調査する
 
 searchedは日常的な「探す・調べる」に使い、investigatedは事件や問題などを「本格的に調査する」時に使います。
 
@@ -105,14 +105,14 @@ searchedは日常的な「探す・調べる」に使い、investigatedは事件
 
 ## 🧩 あわせて覚えたい
 
-- [inspect](/word/inspect)：点検する、詳しく調べる
-- [explore](/word/explore)：探検する、詳しく調べる
+- [inspect](/word/inspect/)：点検する、詳しく調べる
+- [explore](/word/explore/)：探検する、詳しく調べる
 
 ---
 
 ## 📖 できればこれも
 
-- [find](/word/find)：見つける
-- [look_for](/word/look_for)：探す
+- [find](/word/find/)：見つける
+- [look_for](/word/look_for/)：探す
 
 <!-- cvid: aid23_bid18 -->

@@ -96,7 +96,7 @@ TOEICでは、学校や教育に関する長文やEメールの中で「classmat
 ## 🤔  colleague との違いは？
 
 - **classmate**：学校や授業など、同じクラスで学ぶ仲間
-- **[colleague](/word/colleague)**：職場などで一緒に働く同僚
+- **[colleague](/word/colleague/)**：職場などで一緒に働く同僚
 
 「classmate」は学生同士の関係、「colleague」は仕事仲間を指すので、使う場面が異なります。
 
@@ -104,14 +104,14 @@ TOEICでは、学校や教育に関する長文やEメールの中で「classmat
 
 ## 🧩 あわせて覚えたい
 
-- [friend](/word/friend)：友達
-- [peer](/word/peer)：同年代・同等の立場の人
+- [friend](/word/friend/)：友達
+- [peer](/word/peer/)：同年代・同等の立場の人
 
 ---
 
 ## 📖 できればこれも
 
-- [teacher](/word/teacher)：先生
-- [student](/word/student)：生徒
+- [teacher](/word/teacher/)：先生
+- [student](/word/student/)：生徒
 
 <!-- cvid: aid11_bid43 -->

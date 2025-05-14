@@ -97,7 +97,7 @@ ITやデジタル関連の長文や説明文で、専門用語として登場す
 ## 🤔  binary との違いは？
 
 - **boolean**：真（true）か偽（false）の2値のみを表す論理値。
-- **[binary](/word/binary)**：2進数や2つの状態（0と1など）を表すが、必ずしも論理値に限定されない。
+- **[binary](/word/binary/)**：2進数や2つの状態（0と1など）を表すが、必ずしも論理値に限定されない。
 
 booleanは論理的な「真偽」を示すのに対し、binaryは「2進法」や「2つの状態」を幅広く指します。
 
@@ -105,14 +105,14 @@ booleanは論理的な「真偽」を示すのに対し、binaryは「2進法」
 
 ## 🧩 あわせて覚えたい
 
-- [logic](/word/logic)：論理、論理学
-- [integer](/word/integer)：整数
+- [logic](/word/logic/)：論理、論理学
+- [integer](/word/integer/)：整数
 
 ---
 
 ## 📖 できればこれも
 
-- [algorithm](/word/algorithm)：アルゴリズム、計算手順
-- [variable](/word/variable)：変数
+- [algorithm](/word/algorithm/)：アルゴリズム、計算手順
+- [variable](/word/variable/)：変数
 
 <!-- cvid: aid01_bid08 -->

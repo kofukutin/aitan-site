@@ -97,7 +97,7 @@ TOEICの写真描写問題で、会議やイベントの撮影シーンなどで
 ## 🤔  video camera との違いは？
 
 - **camcorder**：映像と音声を同時に録画できる携帯型ビデオカメラ
-- **[video camera](/word/video_camera)**：映像を撮影するカメラ全般（録画機能がない場合も含む）
+- **[video camera](/word/video_camera/)**：映像を撮影するカメラ全般（録画機能がない場合も含む）
 
 camcorderは録画機能付きの携帯型カメラを指し、video cameraはより広い意味で使われます。
 
@@ -105,14 +105,14 @@ camcorderは録画機能付きの携帯型カメラを指し、video cameraは�
 
 ## 🧩 あわせて覚えたい
 
-- [microphone](/word/microphone)：マイク、音声を拾う機器
-- [tripod](/word/tripod)：三脚、カメラなどを固定する台
+- [microphone](/word/microphone/)：マイク、音声を拾う機器
+- [tripod](/word/tripod/)：三脚、カメラなどを固定する台
 
 ---
 
 ## 📖 できればこれも
 
-- [projector](/word/projector)：プロジェクター、映像を投影する機器
-- [screen](/word/screen)：スクリーン、映像を映す幕や画面
+- [projector](/word/projector/)：プロジェクター、映像を投影する機器
+- [screen](/word/screen/)：スクリーン、映像を映す幕や画面
 
 <!-- cvid: aid23_bid46 -->

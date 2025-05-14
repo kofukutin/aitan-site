@@ -97,7 +97,7 @@ TOEICでは、選択肢の中で「明らかな」「はっきりした」とい
 ## 🤔  clear との違いは？
 
 - **obvious**：誰が見ても疑いようがないほど明らか
-- **[clear](/word/clear)**：はっきりしていて分かりやすい、混乱がない
+- **[clear](/word/clear/)**：はっきりしていて分かりやすい、混乱がない
 
 obviousは「誰でもすぐ分かるほど明白」という強いニュアンス、clearは「説明や状況が分かりやすい」という意味で使い分けます。
 
@@ -105,14 +105,14 @@ obviousは「誰でもすぐ分かるほど明白」という強いニュアン�
 
 ## 🧩 あわせて覚えたい
 
-- [apparent](/word/apparent)：見たところ明らかな
-- [evident](/word/evident)：証拠があって明白な
+- [apparent](/word/apparent/)：見たところ明らかな
+- [evident](/word/evident/)：証拠があって明白な
 
 ---
 
 ## 📖 できればこれも
 
-- [typical](/word/typical)：典型的な
-- [typical](/word/typical)：典型的な
+- [typical](/word/typical/)：典型的な
+- [typical](/word/typical/)：典型的な
 
 <!-- cvid: aid49_bid09 -->

@@ -97,7 +97,7 @@ TOEICではパーティーやイベントの会話で「bingo」が登場する�
 ## 🤔  jackpot との違いは？
 
 - **bingo**：ビンゴゲームや「当たり！」の意味で、正解や成功をカジュアルに表現。
-- **[jackpot](/word/jackpot)**：くじやギャンブルでの「大当たり」「特賞」を指す。
+- **[jackpot](/word/jackpot/)**：くじやギャンブルでの「大当たり」「特賞」を指す。
 
 bingoは日常的な正解や成功に使い、jackpotは特に大きな賞金や特別な当たりに使います。
 
@@ -105,14 +105,14 @@ bingoは日常的な正解や成功に使い、jackpotは特に大きな賞金�
 
 ## 🧩 あわせて覚えたい
 
-- [lottery](/word/lottery)：宝くじ
-- [prize](/word/prize)：賞、賞品
+- [lottery](/word/lottery/)：宝くじ
+- [prize](/word/prize/)：賞、賞品
 
 ---
 
 ## 📖 できればこれも
 
-- [lottery](/word/lottery)：宝くじ
-- [game](/word/game)：ゲーム
+- [lottery](/word/lottery/)：宝くじ
+- [game](/word/game/)：ゲーム
 
 <!-- cvid: aid01_bid22 -->

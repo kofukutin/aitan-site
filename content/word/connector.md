@@ -97,7 +97,7 @@ IT機器やオフィス機器の説明文、マニュアルなどで出題され
 ## 🤔  adapter との違いは？
 
 - **connector**：主にケーブルや機器同士を物理的につなぐ部品
-- **[adapter](/word/adapter)**：異なる規格や形状を変換してつなぐ部品
+- **[adapter](/word/adapter/)**：異なる規格や形状を変換してつなぐ部品
 
 connectorは「単純につなぐ」部品、adapterは「形や規格を変換してつなぐ」部品という違いがあります。
 
@@ -105,14 +105,14 @@ connectorは「単純につなぐ」部品、adapterは「形や規格を変換�
 
 ## 🧩 あわせて覚えたい
 
-- [port](/word/port)：（機器の）差込口、ポート
-- [cable](/word/cable)：ケーブル、電線
+- [port](/word/port/)：（機器の）差込口、ポート
+- [cable](/word/cable/)：ケーブル、電線
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device)：装置、機器
-- [plug](/word/plug)：プラグ、差し込み部品
+- [device](/word/device/)：装置、機器
+- [plug](/word/plug/)：プラグ、差し込み部品
 
 <!-- cvid: aid22_bid15 -->

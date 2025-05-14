@@ -97,7 +97,7 @@ TOEICでは、劇場やイベントの案内、文化に関する長文で登場
 ## 🤔  dance との違いは？
 
 - **ballet**：クラシック音楽に合わせて踊る舞台芸術の一種で、特有の技法や形式がある
-- **[dance](/word/dance)**：踊り全般を指し、ジャンルや形式を問わない
+- **[dance](/word/dance/)**：踊り全般を指し、ジャンルや形式を問わない
 
 balletは「バレエ」という特定の舞台芸術を指し、danceはあらゆる種類の踊りを広く指します。
 
@@ -105,14 +105,14 @@ balletは「バレエ」という特定の舞台芸術を指し、danceはあら
 
 ## 🧩 あわせて覚えたい
 
-- [opera](/word/opera)：オペラ（歌劇）
-- [performance](/word/performance)：公演、上演
+- [opera](/word/opera/)：オペラ（歌劇）
+- [performance](/word/performance/)：公演、上演
 
 ---
 
 ## 📖 できればこれも
 
-- [theater](/word/theater)：劇場
-- [music](/word/music)：音楽
+- [theater](/word/theater/)：劇場
+- [music](/word/music/)：音楽
 
 <!-- cvid: aid12_bid39 -->

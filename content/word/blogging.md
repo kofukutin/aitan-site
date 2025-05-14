@@ -97,7 +97,7 @@ TOEICではPart 7のウェブ記事や広告文、Eメールなどで「blogging
 ## 🤔  writing との違いは？
 
 - **blogging**：インターネット上でブログ記事を書くことやその活動全体を指す
-- **[writing](/word/writing)**：文章を書くこと全般（手紙・小説・レポートなど幅広い）
+- **[writing](/word/writing/)**：文章を書くこと全般（手紙・小説・レポートなど幅広い）
 
 「blogging」はネット上のブログに特化した書く行為、「writing」は媒体やジャンルを問わず文章を書く全般を指します。
 
@@ -105,14 +105,14 @@ TOEICではPart 7のウェブ記事や広告文、Eメールなどで「blogging
 
 ## 🧩 あわせて覚えたい
 
-- [post](/word/post)：投稿、記事
-- [vlog](/word/vlog)：ビデオブログ
+- [post](/word/post/)：投稿、記事
+- [vlog](/word/vlog/)：ビデオブログ
 
 ---
 
 ## 📖 できればこれも
 
-- [website](/word/website)：ウェブサイト
-- [content](/word/content)：内容、コンテンツ
+- [website](/word/website/)：ウェブサイト
+- [content](/word/content/)：内容、コンテンツ
 
 <!-- cvid: aid04_bid08 -->

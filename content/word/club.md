@@ -97,7 +97,7 @@ TOEICでは、学校や会社の案内文、イベント告知などで「club�
 ## 🤔  association との違いは？
 
 - **club**：趣味や活動を共有する比較的小規模でカジュアルな集まり
-- **[association](/word/association)**：共通の目的を持つややフォーマルで大規模な団体
+- **[association](/word/association/)**：共通の目的を持つややフォーマルで大規模な団体
 
 clubは気軽な集まりやサークルに、associationは公式な団体や協会に使われることが多いです。
 
@@ -105,14 +105,14 @@ clubは気軽な集まりやサークルに、associationは公式な団体や�
 
 ## 🧩 あわせて覚えたい
 
-- [team](/word/team)：チーム、競技や仕事のための集団
-- [group](/word/group)：グループ、一般的な集まり
+- [team](/word/team/)：チーム、競技や仕事のための集団
+- [group](/word/group/)：グループ、一般的な集まり
 
 ---
 
 ## 📖 できればこれも
 
-- [event](/word/event)：イベント、行事
-- [member](/word/member)：メンバー、会員
+- [event](/word/event/)：イベント、行事
+- [member](/word/member/)：メンバー、会員
 
 <!-- cvid: aid45_bid08 -->

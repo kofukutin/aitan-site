@@ -97,7 +97,7 @@ TOEICでは、設備や機器の設置状況を説明する場面で「mounted�
 ## 🤔  installed との違いは？
 
 - **mounted**：物理的にしっかりと取り付けられている状態を強調
-- **[installed](/word/installed)**：機器やソフトウェアが設置・導入された状態全般を指す
+- **[installed](/word/installed/)**：機器やソフトウェアが設置・導入された状態全般を指す
 
 「mounted」は壁や天井などにしっかり固定されているニュアンスが強く、「installed」は設置や導入が完了した広い意味で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、設備や機器の設置状況を説明する場面で「mounted�
 
 ## 🧩 あわせて覚えたい
 
-- [attached](/word/attached)：取り付けられた、付属した
-- [fixed](/word/fixed)：固定された、しっかりと動かないようにされた
+- [attached](/word/attached/)：取り付けられた、付属した
+- [fixed](/word/fixed/)：固定された、しっかりと動かないようにされた
 
 ---
 
 ## 📖 できればこれも
 
-- [connected](/word/connected)：接続された
-- [configured](/word/configured)：設定された
+- [connected](/word/connected/)：接続された
+- [configured](/word/configured/)：設定された
 
 <!-- cvid: aid32_bid16 -->

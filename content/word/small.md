@@ -97,7 +97,7 @@ TOEICでは形容詞の比較や名詞の修飾でよく出題されます。基
 ## 🤔  little との違いは？
 
 - **small**：物理的な大きさや数量が小さいことを客観的に表す
-- **[little](/word/little)**：小さいことに加え、感情や主観的なニュアンスが含まれることが多い
+- **[little](/word/little/)**：小さいことに加え、感情や主観的なニュアンスが含まれることが多い
 
 smallは単にサイズや量が小さいことを表し、littleは親しみや感情を込めて「小さい」と言いたいときに使われます。
 
@@ -105,14 +105,14 @@ smallは単にサイズや量が小さいことを表し、littleは親しみや
 
 ## 🧩 あわせて覚えたい
 
-- [tiny](/word/tiny)：とても小さい
-- [large](/word/large)：大きい
+- [tiny](/word/tiny/)：とても小さい
+- [large](/word/large/)：大きい
 
 ---
 
 ## 📖 できればこれも
 
-- [big](/word/big)：大きい
-- [short](/word/short)：短い
+- [big](/word/big/)：大きい
+- [short](/word/short/)：短い
 
 <!-- cvid: aid10_bid26 -->

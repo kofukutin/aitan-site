@@ -97,7 +97,7 @@ TOEICでは、求人広告や応募書類の説明文、またはスポーツイ
 ## 🤔  judge との違いは？
 
 - **referee**：スポーツの審判や、推薦状を書く推薦者
-- **[judge](/word/judge)**：法廷の裁判官や、物事を判断する人
+- **[judge](/word/judge/)**：法廷の裁判官や、物事を判断する人
 
 refereeは中立的な立場でルールを守らせたり推薦したりする人、judgeは公式に判決や評価を下す人を指します。
 
@@ -105,14 +105,14 @@ refereeは中立的な立場でルールを守らせたり推薦したりする�
 
 ## 🧩 あわせて覚えたい
 
-- [arbitrator](/word/arbitrator)：仲裁人（争いごとを仲裁する人）
-- [supervisor](/word/supervisor)：監督者、指導者
+- [arbitrator](/word/arbitrator/)：仲裁人（争いごとを仲裁する人）
+- [supervisor](/word/supervisor/)：監督者、指導者
 
 ---
 
 ## 📖 できればこれも
 
-- [recommendation](/word/recommendation)：推薦、推薦状
-- [interview](/word/interview)：面接、インタビュー
+- [recommendation](/word/recommendation/)：推薦、推薦状
+- [interview](/word/interview/)：面接、インタビュー
 
 <!-- cvid: aid18_bid30 -->

@@ -97,7 +97,7 @@ TOEICでは科学技術や産業の話題を扱う長文で登場することが
 ## 🤔  genetic engineering との違いは？
 
 - **biotechnology**：生物学の知識や技術を幅広く応用する科学技術分野
-- **[genetic engineering](/word/genetic_engineering)**：遺伝子を直接操作・改変する技術
+- **[genetic engineering](/word/genetic_engineering/)**：遺伝子を直接操作・改変する技術
 
 biotechnologyは幅広い応用分野を含みますが、genetic engineeringは遺伝子操作に特化しています。
 
@@ -105,14 +105,14 @@ biotechnologyは幅広い応用分野を含みますが、genetic engineeringは
 
 ## 🧩 あわせて覚えたい
 
-- [microbiology](/word/microbiology)：微生物学
-- [innovation](/word/innovation)：革新、イノベーション
+- [microbiology](/word/microbiology/)：微生物学
+- [innovation](/word/innovation/)：革新、イノベーション
 
 ---
 
 ## 📖 できればこれも
 
-- [laboratory](/word/laboratory)：実験室
-- [research](/word/research)：研究
+- [laboratory](/word/laboratory/)：実験室
+- [research](/word/research/)：研究
 
 <!-- cvid: aid32_bid07 -->

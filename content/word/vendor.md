@@ -97,7 +97,7 @@ TOEICでは主にビジネス文脈で「納入業者」「販売業者」とし
 ## 🤔  supplier との違いは？
 
 - **vendor**：商品やサービスを販売する業者や売り手全般を指す
-- **[supplier](/word/supplier)**：原材料や商品を供給する業者を指す
+- **[supplier](/word/supplier/)**：原材料や商品を供給する業者を指す
 
 vendorは販売者全般を指し、supplierは「供給者」として原材料や商品を提供する側に特化しています。
 
@@ -105,14 +105,14 @@ vendorは販売者全般を指し、supplierは「供給者」として原材料
 
 ## 🧩 あわせて覚えたい
 
-- [buyer](/word/buyer)：買い手、購入者
-- [retailer](/word/retailer)：小売業者
+- [buyer](/word/buyer/)：買い手、購入者
+- [retailer](/word/retailer/)：小売業者
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client)：顧客、取引先
-- [contractor](/word/contractor)：請負業者
+- [client](/word/client/)：顧客、取引先
+- [contractor](/word/contractor/)：請負業者
 
 <!-- cvid: aid31_bid00 -->

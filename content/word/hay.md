@@ -97,7 +97,7 @@ hayはTOEICの長文読解パートで、農業や環境に関する話題で登
 ## 🤔  straw との違いは？
 
 - **hay**：家畜の飼料用に乾燥させた草や植物全般。
-- **[straw](/word/straw)**：主に穀物の茎部分で、飼料や敷き藁などに使われる。
+- **[straw](/word/straw/)**：主に穀物の茎部分で、飼料や敷き藁などに使われる。
 
 hayは家畜のエサとして使う乾燥草、strawは主に穀物の茎で、用途や素材が異なります。
 
@@ -105,14 +105,14 @@ hayは家畜のエサとして使う乾燥草、strawは主に穀物の茎で、
 
 ## 🧩 あわせて覚えたい
 
-- [grass](/word/grass)：草、芝
-- [fodder](/word/fodder)：家畜の飼料
+- [grass](/word/grass/)：草、芝
+- [fodder](/word/fodder/)：家畜の飼料
 
 ---
 
 ## 📖 できればこれも
 
-- [barn](/word/barn)：納屋
-- [field](/word/field)：畑、野原
+- [barn](/word/barn/)：納屋
+- [field](/word/field/)：畑、野原
 
 <!-- cvid: aid48_bid10 -->

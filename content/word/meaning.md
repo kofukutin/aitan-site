@@ -97,7 +97,7 @@ TOEICではPart 7の長文問題で、単語やフレーズの「意味」を問
 ## 🤔  definition との違いは？
 
 - **meaning**：言葉や行動が持つ内容や意図、広い意味での「意味」
-- **[definition](/word/definition)**：辞書的・公式な「定義」
+- **[definition](/word/definition/)**：辞書的・公式な「定義」
 
 meaningは「何を表しているか」という広い意味で使い、definitionは「明確に説明された内容」に限定されます。
 
@@ -105,14 +105,14 @@ meaningは「何を表しているか」という広い意味で使い、definit
 
 ## 🧩 あわせて覚えたい
 
-- [interpretation](/word/interpretation)：解釈
-- [implication](/word/implication)：含意、暗示
+- [interpretation](/word/interpretation/)：解釈
+- [implication](/word/implication/)：含意、暗示
 
 ---
 
 ## 📖 できればこれも
 
-- [purpose](/word/purpose)：目的
-- [message](/word/message)：伝えたい内容、メッセージ
+- [purpose](/word/purpose/)：目的
+- [message](/word/message/)：伝えたい内容、メッセージ
 
 <!-- cvid: aid35_bid35 -->

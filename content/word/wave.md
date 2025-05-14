@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「手を振る」「波」などの動
 ## 🤔  swing との違いは？
 
 - **wave**：波や手を振る動作など、揺れ動くものや行為を指す。
-- **[swing](/word/swing)**：前後・左右に振る、ブランコのように揺れる動作を指す。
+- **[swing](/word/swing/)**：前後・左右に振る、ブランコのように揺れる動作を指す。
 
 「wave」は水や手などの"波状の動き"に使い、「swing」は"振り子やブランコのような往復運動"に使います。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写で「手を振る」「波」などの動
 
 ## 🧩 あわせて覚えたい
 
-- [current](/word/current)：流れ、潮流
-- [gesture](/word/gesture)：身振り、ジェスチャー
+- [current](/word/current/)：流れ、潮流
+- [gesture](/word/gesture/)：身振り、ジェスチャー
 
 ---
 
 ## 📖 できればこれも
 
-- [wind](/word/wind)：風
-- [move](/word/move)：動く
+- [wind](/word/wind/)：風
+- [move](/word/move/)：動く
 
 <!-- cvid: aid36_bid23 -->

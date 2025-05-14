@@ -97,7 +97,7 @@ TOEICでは、beneficialはビジネス文脈で「有益な」「役立つ」�
 ## 🤔  advantageous との違いは？
 
 - **beneficial**：一般的に「有益な」「役立つ」という意味で、健康や人、組織など幅広い対象に使われる。
-- **[advantageous](/word/advantageous)**：特定の状況や条件で「有利な」「有益な」という意味で、利益や優位性を強調する場面で使われる。
+- **[advantageous](/word/advantageous/)**：特定の状況や条件で「有利な」「有益な」という意味で、利益や優位性を強調する場面で使われる。
 
 beneficialは広く「良い影響」を表し、advantageousは「他より有利」「競争上の強み」を強調したいときに使います。
 
@@ -105,14 +105,14 @@ beneficialは広く「良い影響」を表し、advantageousは「他より有�
 
 ## 🧩 あわせて覚えたい
 
-- [harmful](/word/harmful)：有害な
-- [profitable](/word/profitable)：利益になる
+- [harmful](/word/harmful/)：有害な
+- [profitable](/word/profitable/)：利益になる
 
 ---
 
 ## 📖 できればこれも
 
-- [effective](/word/effective)：効果的な
-- [efficient](/word/efficient)：効率的な
+- [effective](/word/effective/)：効果的な
+- [efficient](/word/efficient/)：効率的な
 
 <!-- cvid: aid33_bid28 -->

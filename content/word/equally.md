@@ -93,7 +93,7 @@ TOEICでは、比較や分配、バランスに関する文脈で副詞として
 ## 🤔  evenly との違いは？
 
 - **equally**：数量や価値、機会などが「等しく」「同じように」分けられることを強調
-- **[evenly](/word/evenly)**：物理的・空間的に「均等に」「むらなく」分布・配置されることを強調
+- **[evenly](/word/evenly/)**：物理的・空間的に「均等に」「むらなく」分布・配置されることを強調
 
 「equally」は抽象的な平等（権利・機会など）にも使えますが、「evenly」は主に物理的な分布や間隔に使われます。
 
@@ -101,14 +101,14 @@ TOEICでは、比較や分配、バランスに関する文脈で副詞として
 
 ## 🧩 あわせて覚えたい
 
-- [fairly](/word/fairly)：公正に、かなり
-- [similarly](/word/similarly)：同様に
+- [fairly](/word/fairly/)：公正に、かなり
+- [similarly](/word/similarly/)：同様に
 
 ---
 
 ## 📖 できればこれも
 
-- [approximately](/word/approximately)：おおよそ
-- [mainly](/word/mainly)：主に
+- [approximately](/word/approximately/)：おおよそ
+- [mainly](/word/mainly/)：主に
 
 <!-- cvid: aid41_bid22 -->

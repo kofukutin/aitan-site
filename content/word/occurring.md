@@ -97,7 +97,7 @@ TOEICでは主に動詞の時制や形の選択肢として出題されます。
 ## 🤔  happening との違いは？
 
 - **occurring**：ややフォーマルで、出来事や現象が進行中であることを表す。
-- **[happening](/word/happening)**：カジュアルで、出来事が起こること全般に使う。
+- **[happening](/word/happening/)**：カジュアルで、出来事が起こること全般に使う。
 
 occurringはビジネスや公式な場面で使われやすく、happeningは日常会話で幅広く使われます。
 
@@ -105,14 +105,14 @@ occurringはビジネスや公式な場面で使われやすく、happeningは�
 
 ## 🧩 あわせて覚えたい
 
-- [arise](/word/arise)：（問題・状況などが）生じる
-- [emerge](/word/emerge)：現れる、出現する
+- [arise](/word/arise/)：（問題・状況などが）生じる
+- [emerge](/word/emerge/)：現れる、出現する
 
 ---
 
 ## 📖 できればこれも
 
-- [proceed](/word/proceed)：進む、進行する
-- [continue](/word/continue)：続く、継続する
+- [proceed](/word/proceed/)：進む、進行する
+- [continue](/word/continue/)：続く、継続する
 
 <!-- cvid: aid06_bid08 -->

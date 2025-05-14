@@ -97,7 +97,7 @@ TOEICでは、職場の会話や人事関連の話題で「hiring」が頻出し
 ## 🤔  recruitment との違いは？
 
 - **hiring**：実際に人を雇う行為や採用活動全体を指す
-- **[recruitment](/word/recruitment)**：人材を集める活動や募集そのものを指す
+- **[recruitment](/word/recruitment/)**：人材を集める活動や募集そのものを指す
 
 hiringは「雇うこと」に重点があり、recruitmentは「人を集める活動」に重点があります。
 
@@ -105,14 +105,14 @@ hiringは「雇うこと」に重点があり、recruitmentは「人を集める
 
 ## 🧩 あわせて覚えたい
 
-- [firing](/word/firing)：解雇
-- [interview](/word/interview)：面接
+- [firing](/word/firing/)：解雇
+- [interview](/word/interview/)：面接
 
 ---
 
 ## 📖 できればこれも
 
-- [applicant](/word/applicant)：応募者
-- [position](/word/position)：職位
+- [applicant](/word/applicant/)：応募者
+- [position](/word/position/)：職位
 
 <!-- cvid: aid11_bid31 -->

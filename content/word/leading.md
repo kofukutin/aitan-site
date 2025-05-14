@@ -97,7 +97,7 @@ TOEICでは企業紹介や業界説明などで「leading company」「leading b
 ## 🤔  main との違いは？
 
 - **leading**：業界や分野でトップに立つ、最も影響力がある
-- **[main](/word/main)**：主な、中心となる、最も重要な
+- **[main](/word/main/)**：主な、中心となる、最も重要な
 
 **leading**は「トップ」「第一線」というニュアンスが強く、**main**は「中心」「主な」という意味で、必ずしもトップである必要はありません。
 
@@ -105,14 +105,14 @@ TOEICでは企業紹介や業界説明などで「leading company」「leading b
 
 ## 🧩 あわせて覚えたい
 
-- [prominent](/word/prominent)：目立った、著名な
-- [minor](/word/minor)：小さい、重要でない
+- [prominent](/word/prominent/)：目立った、著名な
+- [minor](/word/minor/)：小さい、重要でない
 
 ---
 
 ## 📖 できればこれも
 
-- [outstanding](/word/outstanding)：傑出した、際立った
-- [primary](/word/primary)：第一の、主要な
+- [outstanding](/word/outstanding/)：傑出した、際立った
+- [primary](/word/primary/)：第一の、主要な
 
 <!-- cvid: aid32_bid09 -->

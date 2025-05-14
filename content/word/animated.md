@@ -97,7 +97,7 @@ animatedは、TOEICの会話パートで「活気のある議論」や「生き�
 ## 🤔  lively との違いは？
 
 - **animated**：活気があり、感情や動きが強調される様子
-- **[lively](/word/lively)**：元気でにぎやかな雰囲気や場所、人を表す
+- **[lively](/word/lively/)**：元気でにぎやかな雰囲気や場所、人を表す
 
 animatedは特に「感情や動きがはっきり表れる」場面で使い、livelyは「全体的に元気で明るい」雰囲気に使います。
 
@@ -105,14 +105,14 @@ animatedは特に「感情や動きがはっきり表れる」場面で使い、
 
 ## 🧩 あわせて覚えたい
 
-- [dynamic](/word/dynamic)：動的な、活発な
-- [enthusiastic](/word/enthusiastic)：熱心な、熱意のある
+- [dynamic](/word/dynamic/)：動的な、活発な
+- [enthusiastic](/word/enthusiastic/)：熱心な、熱意のある
 
 ---
 
 ## 📖 できればこれも
 
-- [energetic](/word/energetic)：エネルギッシュな
-- [passionate](/word/passionate)：情熱的な
+- [energetic](/word/energetic/)：エネルギッシュな
+- [passionate](/word/passionate/)：情熱的な
 
 <!-- cvid: aid16_bid04 -->

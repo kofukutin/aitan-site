@@ -97,7 +97,7 @@ TOEICでは主に記事や広告文の読解問題で登場し、見出しや要
 ## 🤔  title との違いは？
 
 - **headline**：新聞や記事の見出し、内容を要約した短い文
-- **[title](/word/title)**：本や映画、作品などの正式なタイトル
+- **[title](/word/title/)**：本や映画、作品などの正式なタイトル
 
 headlineは主に記事やニュースの冒頭に使われ、titleは作品や書籍などの正式名称に使われます。
 
@@ -105,14 +105,14 @@ headlineは主に記事やニュースの冒頭に使われ、titleは作品や�
 
 ## 🧩 あわせて覚えたい
 
-- [caption](/word/caption)：写真や図の説明文
-- [article](/word/article)：記事、論説
+- [caption](/word/caption/)：写真や図の説明文
+- [article](/word/article/)：記事、論説
 
 ---
 
 ## 📖 できればこれも
 
-- [summary](/word/summary)：要約、概要
-- [editor](/word/editor)：編集者
+- [summary](/word/summary/)：要約、概要
+- [editor](/word/editor/)：編集者
 
 <!-- cvid: aid01_bid02 -->

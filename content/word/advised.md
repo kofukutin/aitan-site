@@ -97,7 +97,7 @@ TOEICでは、受動態や助言・推奨を表す表現としてPart 5でよく
 ## 🤔  recommended との違いは？
 
 - **advised**：誰かの助言や勧告に基づいて「推奨される」「勧められる」という意味。ややフォーマル。
-- **[recommended](/word/recommended)**：一般的に「おすすめされる」「推奨される」という意味で、カジュアルにも使える。
+- **[recommended](/word/recommended/)**：一般的に「おすすめされる」「推奨される」という意味で、カジュアルにも使える。
 
 「advised」は専門家や上司など権威ある人からの助言に基づくニュアンスが強く、「recommended」は広く一般的な推奨に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、受動態や助言・推奨を表す表現としてPart 5でよく
 
 ## 🧩 あわせて覚えたい
 
-- [mandatory](/word/mandatory)：義務的な、強制の
-- [optional](/word/optional)：任意の、選択できる
+- [mandatory](/word/mandatory/)：義務的な、強制の
+- [optional](/word/optional/)：任意の、選択できる
 
 ---
 
 ## 📖 できればこれも
 
-- [advisable](/word/advisable)：望ましい、賢明な
-- [suggested](/word/suggested)：提案された、示唆された
+- [advisable](/word/advisable/)：望ましい、賢明な
+- [suggested](/word/suggested/)：提案された、示唆された
 
 <!-- cvid: aid33_bid37 -->

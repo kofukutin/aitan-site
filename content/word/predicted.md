@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やレポート、メールなどの長文中
 ## 🤔  forecast との違いは？
 
 - **predicted**：過去に予測された結果や状態を表す形容詞
-- **[forecast](/word/forecast)**：特に天気や経済などの「予報」「予測」を意味する名詞・動詞
+- **[forecast](/word/forecast/)**：特に天気や経済などの「予報」「予測」を意味する名詞・動詞
 
 「predicted」は「予測された」という状態を指し、結果や数値などに使われます。「forecast」は天気や経済などの予報・予測自体を指します。
 
@@ -105,14 +105,14 @@ TOEICでは主にビジネス文書やレポート、メールなどの長文中
 
 ## 🧩 あわせて覚えたい
 
-- [anticipate](/word/anticipate)：予期する、期待する
-- [unexpected](/word/unexpected)：予期しない、思いがけない
+- [anticipate](/word/anticipate/)：予期する、期待する
+- [unexpected](/word/unexpected/)：予期しない、思いがけない
 
 ---
 
 ## 📖 できればこれも
 
-- [estimated](/word/estimated)：見積もられた、おおよその
-- [projected](/word/projected)：予測された、計画された
+- [estimated](/word/estimated/)：見積もられた、おおよその
+- [projected](/word/projected/)：予測された、計画された
 
 <!-- cvid: aid47_bid44 -->

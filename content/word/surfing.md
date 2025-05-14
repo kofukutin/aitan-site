@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、ビーチやレジャーの場面で
 ## 🤔  swimming との違いは？
 
 - **surfing**：波に乗るスポーツやネット閲覧を指す
-- **[swimming](/word/swimming)**：水中や水面を泳ぐこと
+- **[swimming](/word/swimming/)**：水中や水面を泳ぐこと
 
 surfingは波やインターネット上で「乗る・移動する」イメージ、swimmingは「泳ぐ」動作そのものを表します。
 
@@ -105,14 +105,14 @@ surfingは波やインターネット上で「乗る・移動する」イメー�
 
 ## 🧩 あわせて覚えたい
 
-- [diving](/word/diving)：ダイビング、水中に潜ること
-- [snowboarding](/word/snowboarding)：スノーボード、雪の上を滑るスポーツ
+- [diving](/word/diving/)：ダイビング、水中に潜ること
+- [snowboarding](/word/snowboarding/)：スノーボード、雪の上を滑るスポーツ
 
 ---
 
 ## 📖 できればこれも
 
-- [hiking](/word/hiking)：ハイキング、山歩き
-- [fishing](/word/fishing)：釣り
+- [hiking](/word/hiking/)：ハイキング、山歩き
+- [fishing](/word/fishing/)：釣り
 
 <!-- cvid: aid02_bid35 -->

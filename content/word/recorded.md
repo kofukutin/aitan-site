@@ -97,7 +97,7 @@ TOEICでは会議や電話のやりとり、案内放送などで「録音され
 ## 🤔  documented との違いは？
 
 - **recorded**：音声・映像・データなどが記録・保存された状態を指す
-- **[documented](/word/documented)**：文書や証拠として正式に記録された状態を指す
+- **[documented](/word/documented/)**：文書や証拠として正式に記録された状態を指す
 
 recordedは音声や映像など幅広い「記録」に使い、documentedは主に書類や証拠として残す場合に使います。
 
@@ -105,14 +105,14 @@ recordedは音声や映像など幅広い「記録」に使い、documentedは�
 
 ## 🧩 あわせて覚えたい
 
-- [written](/word/written)：書かれた、文書化された
-- [archived](/word/archived)：保管された、アーカイブされた
+- [written](/word/written/)：書かれた、文書化された
+- [archived](/word/archived/)：保管された、アーカイブされた
 
 ---
 
 ## 📖 できればこれも
 
-- [official](/word/official)：公式の、正式な
-- [noted](/word/noted)：注目された、有名な
+- [official](/word/official/)：公式の、正式な
+- [noted](/word/noted/)：注目された、有名な
 
 <!-- cvid: aid32_bid08 -->

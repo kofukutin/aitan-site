@@ -99,7 +99,7 @@ TOEICでは会話や説明文で「運転した」「送った」など過去の
 ## 🤔  drive との違いは？
 
 - **drove**：driveの過去形。過去に運転したことや送ったことを表す。
-- **[drive](/word/drive)**：現在形や原形。「運転する」「車で送る」など、現在や未来の行動に使う。
+- **[drive](/word/drive/)**：現在形や原形。「運転する」「車で送る」など、現在や未来の行動に使う。
 
 droveは「過去の出来事」、driveは「今・これから・習慣的な行動」に使い分けます。
 
@@ -107,14 +107,14 @@ droveは「過去の出来事」、driveは「今・これから・習慣的な�
 
 ## 🧩 あわせて覚えたい
 
-- [ride](/word/ride)：（乗り物などに）乗る
-- [operate](/word/operate)：（機械などを）操作する
+- [ride](/word/ride/)：（乗り物などに）乗る
+- [operate](/word/operate/)：（機械などを）操作する
 
 ---
 
 ## 📖 できればこれも
 
-- [walk](/word/walk)：歩く
-- [travel](/word/travel)：旅行する、移動する
+- [walk](/word/walk/)：歩く
+- [travel](/word/travel/)：旅行する、移動する
 
 <!-- cvid: aid16_bid38 -->

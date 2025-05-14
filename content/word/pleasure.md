@@ -97,7 +97,7 @@ TOEICでは「It's my pleasure.（どういたしまして）」や「for pleasu
 ## 🤔  delight との違いは？
 
 - **pleasure**：穏やかで持続的な喜びや満足感を表す。
-- **[delight](/word/delight)**：強くはっきりした喜びや大きな感動を表す。
+- **[delight](/word/delight/)**：強くはっきりした喜びや大きな感動を表す。
 
 pleasureは日常的な「楽しみ」や「満足感」に使われ、delightは「大きな喜び」や「感激」を強調したいときに使います。
 
@@ -105,14 +105,14 @@ pleasureは日常的な「楽しみ」や「満足感」に使われ、delight�
 
 ## 🧩 あわせて覚えたい
 
-- [enjoyment](/word/enjoyment)：楽しみ、満足
-- [pain](/word/pain)：痛み、苦しみ
+- [enjoyment](/word/enjoyment/)：楽しみ、満足
+- [pain](/word/pain/)：痛み、苦しみ
 
 ---
 
 ## 📖 できればこれも
 
-- [comfort](/word/comfort)：快適さ、安心
-- [interest](/word/interest)：興味、関心
+- [comfort](/word/comfort/)：快適さ、安心
+- [interest](/word/interest/)：興味、関心
 
 <!-- cvid: aid43_bid02 -->

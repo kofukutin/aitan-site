@@ -97,7 +97,7 @@ TOEICでは、企業文化や異文化理解、国ごとの特徴などを説明
 ## 🤔  custom との違いは？
 
 - **culture**：社会や組織全体の価値観・生活様式・雰囲気など広い意味の「文化」
-- **[custom](/word/custom)**：特定の集団や個人が守る「習慣」や「しきたり」
+- **[custom](/word/custom/)**：特定の集団や個人が守る「習慣」や「しきたり」
 
 「culture」は全体的な雰囲気や価値観を指し、「custom」は具体的な行動や伝統的な習慣を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、企業文化や異文化理解、国ごとの特徴などを説明
 
 ## 🧩 あわせて覚えたい
 
-- [tradition](/word/tradition)：伝統、長く続く習慣
-- [civilization](/word/civilization)：文明、社会の発展した状態
+- [tradition](/word/tradition/)：伝統、長く続く習慣
+- [civilization](/word/civilization/)：文明、社会の発展した状態
 
 ---
 
 ## 📖 できればこれも
 
-- [society](/word/society)：社会、共同体
-- [value](/word/value)：価値観、重要性
+- [society](/word/society/)：社会、共同体
+- [value](/word/value/)：価値観、重要性
 
 <!-- cvid: aid02_bid17 -->

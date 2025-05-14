@@ -97,7 +97,7 @@ TOEICでは観光地の説明や物語調の長文、比喩表現で登場する
 ## 🤔  ghost との違いは？
 
 - **phantom**：実体のない幻影や幽霊、または比喩的に「架空のもの」も指す
-- **[ghost](/word/ghost)**：死者の霊や幽霊を指し、より一般的で日常的
+- **[ghost](/word/ghost/)**：死者の霊や幽霊を指し、より一般的で日常的
 
 phantomは「幻影」や「実体のないもの」にも使われ、ghostは「死者の霊」としての幽霊に限定される傾向があります。
 
@@ -105,14 +105,14 @@ phantomは「幻影」や「実体のないもの」にも使われ、ghostは�
 
 ## 🧩 あわせて覚えたい
 
-- [illusion](/word/illusion)：錯覚、幻想
-- [apparition](/word/apparition)：幽霊、突然現れるもの
+- [illusion](/word/illusion/)：錯覚、幻想
+- [apparition](/word/apparition/)：幽霊、突然現れるもの
 
 ---
 
 ## 📖 できればこれも
 
-- [legend](/word/legend)：伝説
-- [myth](/word/myth)：神話、作り話
+- [legend](/word/legend/)：伝説
+- [myth](/word/myth/)：神話、作り話
 
 <!-- cvid: aid39_bid09 -->

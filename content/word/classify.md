@@ -97,7 +97,7 @@ TOEICでは、書類やデータ、情報を「分類する」場面でよく出
 ## 🤔  categorize との違いは？
 
 - **classify**：基準や体系に従って、公式に分類するニュアンスが強い
-- **[categorize](/word/categorize)**：より広く、日常的に「カテゴリー分け」する意味で使われる
+- **[categorize](/word/categorize/)**：より広く、日常的に「カテゴリー分け」する意味で使われる
 
 classifyは学術的・ビジネス的な「分類」に、categorizeは日常的な「仕分け」に使われることが多いです。
 
@@ -105,14 +105,14 @@ classifyは学術的・ビジネス的な「分類」に、categorizeは日常�
 
 ## 🧩 あわせて覚えたい
 
-- [sort](/word/sort)：並べ替える、仕分けする
-- [arrange](/word/arrange)：整える、配置する
+- [sort](/word/sort/)：並べ替える、仕分けする
+- [arrange](/word/arrange/)：整える、配置する
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze)：分析する
-- [define](/word/define)：定義する
+- [analyze](/word/analyze/)：分析する
+- [define](/word/define/)：定義する
 
 <!-- cvid: aid44_bid04 -->

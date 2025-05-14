@@ -97,7 +97,7 @@ TOEICでは観光地の説明やイベント紹介、企業の成果を強調す
 ## 🤔  impressive との違いは？
 
 - **spectacular**：見た目や規模が非常に壮大で、強いインパクトがある
-- **[impressive](/word/impressive)**：人に強い印象や感銘を与える（見た目以外にも使える）
+- **[impressive](/word/impressive/)**：人に強い印象や感銘を与える（見た目以外にも使える）
 
 spectacularは「目で見て圧倒される」ニュアンスが強く、impressiveは「心に残る・感心する」広い意味で使われます。
 
@@ -105,14 +105,14 @@ spectacularは「目で見て圧倒される」ニュアンスが強く、impres
 
 ## 🧩 あわせて覚えたい
 
-- [magnificent](/word/magnificent)：壮大な、素晴らしい
-- [ordinary](/word/ordinary)：普通の、平凡な
+- [magnificent](/word/magnificent/)：壮大な、素晴らしい
+- [ordinary](/word/ordinary/)：普通の、平凡な
 
 ---
 
 ## 📖 できればこれも
 
-- [remarkable](/word/remarkable)：注目すべき、著しい
-- [scenic](/word/scenic)：景色の良い
+- [remarkable](/word/remarkable/)：注目すべき、著しい
+- [scenic](/word/scenic/)：景色の良い
 
 <!-- cvid: aid11_bid22 -->

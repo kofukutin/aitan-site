@@ -96,7 +96,7 @@ TOEICでは会社や団体からの案内文やメール文でよく登場しま
 ## 🤔  bulletin との違いは？
 
 - **newsletter**：定期的に発行される会報やお知らせの文書
-- **[bulletin](/word/bulletin)**：速報や短い公式発表、掲示板のような告知
+- **[bulletin](/word/bulletin/)**：速報や短い公式発表、掲示板のような告知
 
 newsletterは継続的な情報提供、bulletinは短く要点を伝える公式な発表や掲示に使われます。
 
@@ -104,14 +104,14 @@ newsletterは継続的な情報提供、bulletinは短く要点を伝える公�
 
 ## 🧩 あわせて覚えたい
 
-- [announcement](/word/announcement)：お知らせ、発表
-- [memo](/word/memo)：社内メモ、伝言
+- [announcement](/word/announcement/)：お知らせ、発表
+- [memo](/word/memo/)：社内メモ、伝言
 
 ---
 
 ## 📖 できればこれも
 
-- [brochure](/word/brochure)：パンフレット
-- [leaflet](/word/leaflet)：チラシ、小冊子
+- [brochure](/word/brochure/)：パンフレット
+- [leaflet](/word/leaflet/)：チラシ、小冊子
 
 <!-- cvid: aid29_bid33 -->

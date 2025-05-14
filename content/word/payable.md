@@ -97,7 +97,7 @@ TOEICでは請求書や会計に関する文脈で「payable」が出題され�
 ## 🤔  due との違いは？
 
 - **payable**：支払い義務があることを強調し、特に会計や請求書で使われる
-- **[due](/word/due)**：期限が来て「支払う時期」であることを強調する
+- **[due](/word/due/)**：期限が来て「支払う時期」であることを強調する
 
 「payable」は「支払うべき金額が存在する」ことに重点があり、「due」は「支払期限が来ている」ことに重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは請求書や会計に関する文脈で「payable」が出題され�
 
 ## 🧩 あわせて覚えたい
 
-- [receivable](/word/receivable)：受取勘定、受け取るべき
-- [outstanding](/word/outstanding)：未払いの、未処理の
+- [receivable](/word/receivable/)：受取勘定、受け取るべき
+- [outstanding](/word/outstanding/)：未払いの、未処理の
 
 ---
 
 ## 📖 できればこれも
 
-- [overdue](/word/overdue)：期限を過ぎた
-- [refundable](/word/refundable)：返金可能な
+- [overdue](/word/overdue/)：期限を過ぎた
+- [refundable](/word/refundable/)：返金可能な
 
 <!-- cvid: aid46_bid22 -->

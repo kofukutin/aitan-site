@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、公園や建物の前景として「
 ## 🤔  grass との違いは？
 
 - **lawn**：手入れされた芝生や芝地を指す
-- **[grass](/word/grass)**：草全般や芝生の「草そのもの」を指す
+- **[grass](/word/grass/)**：草全般や芝生の「草そのもの」を指す
 
 lawnは「きれいに刈られた芝生」、grassは「草」や「芝草」そのものを指し、lawnの方が整備された場所を表します。
 
@@ -105,14 +105,14 @@ lawnは「きれいに刈られた芝生」、grassは「草」や「芝草」�
 
 ## 🧩 あわせて覚えたい
 
-- [garden](/word/garden)：庭
-- [yard](/word/yard)：庭・中庭
+- [garden](/word/garden/)：庭
+- [yard](/word/yard/)：庭・中庭
 
 ---
 
 ## 📖 できればこれも
 
-- [bench](/word/bench)：ベンチ
-- [flower](/word/flower)：花
+- [bench](/word/bench/)：ベンチ
+- [flower](/word/flower/)：花
 
 <!-- cvid: aid38_bid21 -->

@@ -94,7 +94,7 @@ TOEICでは会話や依頼表現、推量の場面でよく登場します。丁
 ## 🤔  perhaps との違いは？
 
 - **possibly**：可能性があることをやや控えめ・丁寧に述べるときに使う
-- **[perhaps](/word/perhaps)**：ややフォーマルで、単に「たぶん」「もしかすると」と推量を表す
+- **[perhaps](/word/perhaps/)**：ややフォーマルで、単に「たぶん」「もしかすると」と推量を表す
 
 possiblyは依頼や丁寧な推量に、perhapsは単なる推量や意見表明に使われることが多いです。
 
@@ -102,14 +102,14 @@ possiblyは依頼や丁寧な推量に、perhapsは単なる推量や意見表�
 
 ## 🧩 あわせて覚えたい
 
-- [probably](/word/probably)：おそらく（可能性が高い場合）
-- [certainly](/word/certainly)：確かに、きっと（確信がある場合）
+- [probably](/word/probably/)：おそらく（可能性が高い場合）
+- [certainly](/word/certainly/)：確かに、きっと（確信がある場合）
 
 ---
 
 ## 📖 できればこれも
 
-- [maybe](/word/maybe)：たぶん、もしかすると
-- [likely](/word/likely)：～しそうだ、ありそうだ
+- [maybe](/word/maybe/)：たぶん、もしかすると
+- [likely](/word/likely/)：～しそうだ、ありそうだ
 
 <!-- cvid: aid38_bid33 -->

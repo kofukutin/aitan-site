@@ -97,7 +97,7 @@ TOEICではパーティーやイベント、レストランの会話などで登
 ## 🤔  sparkling wine との違いは？
 
 - **champagne**：フランスのシャンパーニュ地方で作られた発泡性ワインのみを指す、特別な呼び名。
-- **[sparkling wine](/word/sparkling_wine)**：発泡性ワイン全般を指し、産地を問わない一般的な表現。
+- **[sparkling wine](/word/sparkling_wine/)**：発泡性ワイン全般を指し、産地を問わない一般的な表現。
 
 champagneは特定の地域・製法に限定される高級感のある言葉、sparkling wineは広く一般的な発泡ワイン全体を指します。
 
@@ -105,14 +105,14 @@ champagneは特定の地域・製法に限定される高級感のある言葉�
 
 ## 🧩 あわせて覚えたい
 
-- [wine](/word/wine)：ワイン（ぶどう酒全般）
-- [toast](/word/toast)：乾杯する
+- [wine](/word/wine/)：ワイン（ぶどう酒全般）
+- [toast](/word/toast/)：乾杯する
 
 ---
 
 ## 📖 できればこれも
 
-- [beer](/word/beer)：ビール
-- [celebrate](/word/celebrate)：祝う
+- [beer](/word/beer/)：ビール
+- [celebrate](/word/celebrate/)：祝う
 
 <!-- cvid: aid30_bid04 -->

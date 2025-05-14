@@ -97,7 +97,7 @@ TOEICでは、分詞構文や形容詞的用法で「involving」が空所補充
 ## 🤔  including との違いは？
 
 - **involving**：何かを巻き込んでいる、関与させていることを強調
-- **[including](/word/including)**：単に「～を含む」「～を入れて」という意味
+- **[including](/word/including/)**：単に「～を含む」「～を入れて」という意味
 
 「involving」は関与や影響のニュアンスが強く、動きやプロセスを伴う場合に使われます。「including」は単なる列挙や追加の意味で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、分詞構文や形容詞的用法で「involving」が空所補充
 
 ## 🧩 あわせて覚えたい
 
-- [entail](/word/entail)：必然的に含む、伴う
-- [require](/word/require)：必要とする
+- [entail](/word/entail/)：必然的に含む、伴う
+- [require](/word/require/)：必要とする
 
 ---
 
 ## 📖 できればこれも
 
-- [participate](/word/participate)：参加する
-- [affect](/word/affect)：影響を与える
+- [participate](/word/participate/)：参加する
+- [affect](/word/affect/)：影響を与える
 
 <!-- cvid: aid03_bid42 -->

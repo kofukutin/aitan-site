@@ -97,7 +97,7 @@ TOEICでは「組み合わせ」や「結合」を表す名詞として、選択
 ## 🤔  mixture との違いは？
 
 - **combination**：異なるものが一緒になって新しい効果や目的を生む「組み合わせ」
-- **[mixture](/word/mixture)**：物理的に混ざり合った「混合物」や「ミックス」
+- **[mixture](/word/mixture/)**：物理的に混ざり合った「混合物」や「ミックス」
 
 combinationは「意図的な組み合わせ」や「機能的な結合」に使われ、mixtureは「混ぜ合わせた状態」や「物質的な混合」に使われます。
 
@@ -105,14 +105,14 @@ combinationは「意図的な組み合わせ」や「機能的な結合」に使
 
 ## 🧩 あわせて覚えたい
 
-- [blend](/word/blend)：混ぜ合わせる、調和させる
-- [union](/word/union)：結合、連合
+- [blend](/word/blend/)：混ぜ合わせる、調和させる
+- [union](/word/union/)：結合、連合
 
 ---
 
 ## 📖 できればこれも
 
-- [component](/word/component)：構成要素、部品
-- [compose](/word/compose)：構成する、作曲する
+- [component](/word/component/)：構成要素、部品
+- [compose](/word/compose/)：構成する、作曲する
 
 <!-- cvid: aid28_bid18 -->

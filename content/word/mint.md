@@ -97,7 +97,7 @@ TOEICでは「造幣局」や「新品同様」の意味で名詞として出題
 ## 🤔  coin との違いは？
 
 - **mint**：お金を作る場所（造幣局）や新品同様の状態、またはハーブの意味。
-- **[coin](/word/coin)**：貨幣そのもの、特に硬貨を指す。
+- **[coin](/word/coin/)**：貨幣そのもの、特に硬貨を指す。
 
 「mint」はお金を作る場所や状態を指し、「coin」は実際の硬貨を指します。
 
@@ -105,14 +105,14 @@ TOEICでは「造幣局」や「新品同様」の意味で名詞として出題
 
 ## 🧩 あわせて覚えたい
 
-- [currency](/word/currency)：通貨
-- [bill](/word/bill)：紙幣
+- [currency](/word/currency/)：通貨
+- [bill](/word/bill/)：紙幣
 
 ---
 
 ## 📖 できればこれも
 
-- [stamp](/word/stamp)：切手
-- [note](/word/note)：紙幣、メモ
+- [stamp](/word/stamp/)：切手
+- [note](/word/note/)：紙幣、メモ
 
 <!-- cvid: aid15_bid25 -->

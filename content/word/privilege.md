@@ -97,7 +97,7 @@ TOEICでは、社内制度や福利厚生、役職者の特典などを説明す
 ## 🤔  right との違いは？
 
 - **privilege**：特別な立場や条件で与えられる「特権」や「恩恵」
-- **[right](/word/right)**：誰もが持つ「権利」や「正当な要求」
+- **[right](/word/right/)**：誰もが持つ「権利」や「正当な要求」
 
 privilegeは一部の人だけが持つ特別なもの、rightはすべての人に平等に認められるものという違いがあります。
 
@@ -105,14 +105,14 @@ privilegeは一部の人だけが持つ特別なもの、rightはすべての人
 
 ## 🧩 あわせて覚えたい
 
-- [benefit](/word/benefit)：利益、恩恵
-- [advantage](/word/advantage)：有利な点、利点
+- [benefit](/word/benefit/)：利益、恩恵
+- [advantage](/word/advantage/)：有利な点、利点
 
 ---
 
 ## 📖 できればこれも
 
-- [authority](/word/authority)：権限、権威
-- [permission](/word/permission)：許可
+- [authority](/word/authority/)：権限、権威
+- [permission](/word/permission/)：許可
 
 <!-- cvid: aid16_bid25 -->

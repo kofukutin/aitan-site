@@ -97,7 +97,7 @@ TOEICではオフィスや部屋の説明、備品リストなどでよく登場
 ## 🤔  equipment との違いは？
 
 - **furniture**：机や椅子など、部屋や建物で使う家具全般を指す。
-- **[equipment](/word/equipment)**：特定の目的や作業のための道具・装置・備品全般を指す。
+- **[equipment](/word/equipment/)**：特定の目的や作業のための道具・装置・備品全般を指す。
 
 furnitureは主に生活空間の「家具」を指し、equipmentは仕事や作業に必要な「道具・装置」を広く指します。
 
@@ -105,14 +105,14 @@ furnitureは主に生活空間の「家具」を指し、equipmentは仕事や�
 
 ## 🧩 あわせて覚えたい
 
-- [appliance](/word/appliance)：電化製品、器具
-- [fixture](/word/fixture)：備品、据え付け品
+- [appliance](/word/appliance/)：電化製品、器具
+- [fixture](/word/fixture/)：備品、据え付け品
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device)：装置、機器
-- [material](/word/material)：材料、素材
+- [device](/word/device/)：装置、機器
+- [material](/word/material/)：材料、素材
 
 <!-- cvid: aid34_bid11 -->

@@ -98,7 +98,7 @@ TOEICでは主にビジネス文書や報告書、メールなどの長文で「
 ## 🤔  equivalent との違いは？
 
 - **corresponding**：何かと対応・一致していることを強調
-- **[equivalent](/word/equivalent)**：価値や量などが「等しい」「同等である」ことを強調
+- **[equivalent](/word/equivalent/)**：価値や量などが「等しい」「同等である」ことを強調
 
 「corresponding」は「対応関係」に、「equivalent」は「等価性」に重点があります。たとえば、表の「対応する列」はcorresponding column、「同等の価値」はequivalent valueと使い分けます。
 
@@ -106,14 +106,14 @@ TOEICでは主にビジネス文書や報告書、メールなどの長文で「
 
 ## 🧩 あわせて覚えたい
 
-- [relevant](/word/relevant)：関連する
-- [matching](/word/matching)：ぴったり合う、調和する
+- [relevant](/word/relevant/)：関連する
+- [matching](/word/matching/)：ぴったり合う、調和する
 
 ---
 
 ## 📖 できればこれも
 
-- [subsequent](/word/subsequent)：その後の、次の
-- [associated](/word/associated)：関連した
+- [subsequent](/word/subsequent/)：その後の、次の
+- [associated](/word/associated/)：関連した
 
 <!-- cvid: aid28_bid43 -->

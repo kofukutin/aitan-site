@@ -97,7 +97,7 @@ TOEICでは医療や科学分野の説明文や記事で見かけることが多
 ## 🤔  sensor との違いは？
 
 - **receptor**：生物の体内で特定の刺激や物質を受け取る受容体や感覚器官
-- **[sensor](/word/sensor)**：機械や装置で外部の変化を感知するセンサー
+- **[sensor](/word/sensor/)**：機械や装置で外部の変化を感知するセンサー
 
 receptorは生物学的な「受容体」、sensorは機械的な「感知器」として使い分けます。
 
@@ -105,14 +105,14 @@ receptorは生物学的な「受容体」、sensorは機械的な「感知器」
 
 ## 🧩 あわせて覚えたい
 
-- [enzyme](/word/enzyme)：酵素（生体内で化学反応を促進する物質）
-- [transmitter](/word/transmitter)：伝達物質（信号や情報を伝えるもの）
+- [enzyme](/word/enzyme/)：酵素（生体内で化学反応を促進する物質）
+- [transmitter](/word/transmitter/)：伝達物質（信号や情報を伝えるもの）
 
 ---
 
 ## 📖 できればこれも
 
-- [hormone](/word/hormone)：ホルモン（体内の情報伝達物質）
-- [stimulus](/word/stimulus)：刺激（反応を引き起こす要因）
+- [hormone](/word/hormone/)：ホルモン（体内の情報伝達物質）
+- [stimulus](/word/stimulus/)：刺激（反応を引き起こす要因）
 
 <!-- cvid: aid37_bid20 -->

@@ -97,7 +97,7 @@ TOEICでは、業務の流れやシステムの稼働状況など、何かが「
 ## 🤔  constantly との違いは？
 
 - **continuously**：途切れずに連続して
-- **[constantly](/word/constantly)**：頻繁に、しょっちゅう（必ずしも途切れずではない）
+- **[constantly](/word/constantly/)**：頻繁に、しょっちゅう（必ずしも途切れずではない）
 
 「continuously」は中断がない状態を強調し、「constantly」は頻度が高いことを表しますが、間に短い中断があっても使えます。
 
@@ -105,14 +105,14 @@ TOEICでは、業務の流れやシステムの稼働状況など、何かが「
 
 ## 🧩 あわせて覚えたい
 
-- [repeatedly](/word/repeatedly)：繰り返し
-- [intermittently](/word/intermittently)：断続的に
+- [repeatedly](/word/repeatedly/)：繰り返し
+- [intermittently](/word/intermittently/)：断続的に
 
 ---
 
 ## 📖 できればこれも
 
-- [gradually](/word/gradually)：徐々に
-- [eventually](/word/eventually)：最終的に
+- [gradually](/word/gradually/)：徐々に
+- [eventually](/word/eventually/)：最終的に
 
 <!-- cvid: aid02_bid05 -->

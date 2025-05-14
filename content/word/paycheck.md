@@ -96,7 +96,7 @@ TOEICでは職場やオフィスの会話で「給料」や「支払い」に関
 ## 🤔  salary との違いは？
 
 - **paycheck**：実際に受け取る給料やその支払い小切手を指し、カジュアルな表現。
-- **[salary](/word/salary)**：年収や月給など、定期的に支払われる給料の総額を指し、ややフォーマル。
+- **[salary](/word/salary/)**：年収や月給など、定期的に支払われる給料の総額を指し、ややフォーマル。
 
 paycheckは「手元に届く給料」や「支払い明細」に焦点があり、salaryは「契約上の給料額」や「職業的な報酬」に使われます。
 
@@ -104,14 +104,14 @@ paycheckは「手元に届く給料」や「支払い明細」に焦点があり
 
 ## 🧩 あわせて覚えたい
 
-- [wage](/word/wage)：時給・日給など、時間や日数で支払われる賃金
-- [bonus](/word/bonus)：賞与、ボーナス
+- [wage](/word/wage/)：時給・日給など、時間や日数で支払われる賃金
+- [bonus](/word/bonus/)：賞与、ボーナス
 
 ---
 
 ## 📖 できればこれも
 
-- [invoice](/word/invoice)：請求書
-- [receipt](/word/receipt)：領収書
+- [invoice](/word/invoice/)：請求書
+- [receipt](/word/receipt/)：領収書
 
 <!-- cvid: aid28_bid45 -->

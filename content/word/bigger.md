@@ -97,7 +97,7 @@ We need a bigger office for our team.
 ## 🤔  larger との違いは？
 
 - **bigger**：カジュアルで日常的な「より大きい」
-- **[larger](/word/larger)**：ややフォーマルで、面積や容量など客観的な「より大きい」
+- **[larger](/word/larger/)**：ややフォーマルで、面積や容量など客観的な「より大きい」
 
 biggerは会話や身近な物の比較でよく使われ、largerは書き言葉やビジネス、技術的な場面で使われやすいです。
 
@@ -105,14 +105,14 @@ biggerは会話や身近な物の比較でよく使われ、largerは書き言�
 
 ## 🧩 あわせて覚えたい
 
-- [smaller](/word/smaller)：より小さい
-- [huge](/word/huge)：とても大きい
+- [smaller](/word/smaller/)：より小さい
+- [huge](/word/huge/)：とても大きい
 
 ---
 
 ## 📖 できればこれも
 
-- [smaller](/word/smaller)：より小さい
-- [taller](/word/taller)：より背が高い
+- [smaller](/word/smaller/)：より小さい
+- [taller](/word/taller/)：より背が高い
 
 <!-- cvid: aid15_bid48 -->

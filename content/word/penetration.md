@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や市場分析の文脈で「penetration」�
 ## 🤔  infiltration との違いは？
 
 - **penetration**：物理的・比喩的に「中に入り込む」「普及する」こと。ビジネスや技術分野でよく使う。
-- **[infiltration](/word/infiltration)**：こっそり・秘密裏に入り込むこと。軍事やスパイ活動、医学などで使われる。
+- **[infiltration](/word/infiltration/)**：こっそり・秘密裏に入り込むこと。軍事やスパイ活動、医学などで使われる。
 
 penetrationは「正面からの進出・普及」、infiltrationは「密かに入り込む」ニュアンスの違いがあります。
 
@@ -105,13 +105,13 @@ penetrationは「正面からの進出・普及」、infiltrationは「密かに
 
 ## 🧩 あわせて覚えたい
 
-- [entry](/word/entry)：進入、参入
-- [expansion](/word/expansion)：拡大、展開
+- [entry](/word/entry/)：進入、参入
+- [expansion](/word/expansion/)：拡大、展開
 
 ---
 
 ## 📖 できればこれも
 
-- [distribution](/word/distribution)：流通、分配
-- [implementation](/word/implementation)：実施、導入
+- [distribution](/word/distribution/)：流通、分配
+- [implementation](/word/implementation/)：実施、導入
 <!-- cvid: aid43_bid30 -->

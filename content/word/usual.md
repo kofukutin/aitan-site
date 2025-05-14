@@ -97,7 +97,7 @@ TOEICでは、形容詞の語彙問題や、日常的な表現の中で「usual�
 ## 🤔  ordinary との違いは？
 
 - **usual**：いつも通りの、普段の
-- **[ordinary](/word/ordinary)**：普通の、特別ではない
+- **[ordinary](/word/ordinary/)**：普通の、特別ではない
 
 「usual」は「いつもと同じ」という習慣や頻度に焦点があり、「ordinary」は「特別ではない」「平凡」という意味合いが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞の語彙問題や、日常的な表現の中で「usual�
 
 ## 🧩 あわせて覚えたい
 
-- [normal](/word/normal)：正常な、標準の
-- [typical](/word/typical)：典型的な、代表的な
+- [normal](/word/normal/)：正常な、標準の
+- [typical](/word/typical/)：典型的な、代表的な
 
 ---
 
 ## 📖 できればこれも
 
-- [common](/word/common)：一般的な、よくある
-- [regular](/word/regular)：定期的な、規則的な
+- [common](/word/common/)：一般的な、よくある
+- [regular](/word/regular/)：定期的な、規則的な
 
 <!-- cvid: aid39_bid28 -->

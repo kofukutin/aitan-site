@@ -97,7 +97,7 @@ terrorはTOEICの長文読解パートで、事件や危機管理、社会問題
 ## 🤔  horror との違いは？
 
 - **terror**：突然襲う強い恐怖やパニック、または恐怖を与える存在
-- **[horror](/word/horror)**：ぞっとするような恐怖や嫌悪感、主に長く続く感情
+- **[horror](/word/horror/)**：ぞっとするような恐怖や嫌悪感、主に長く続く感情
 
 terrorは「突発的で圧倒的な恐怖」、horrorは「じわじわと感じる恐怖や嫌悪感」に使い分けます。
 
@@ -105,14 +105,14 @@ terrorは「突発的で圧倒的な恐怖」、horrorは「じわじわと感�
 
 ## 🧩 あわせて覚えたい
 
-- [fear](/word/fear)：恐れ、恐怖（一般的な恐怖）
-- [panic](/word/panic)：パニック、突然の恐怖や混乱
+- [fear](/word/fear/)：恐れ、恐怖（一般的な恐怖）
+- [panic](/word/panic/)：パニック、突然の恐怖や混乱
 
 ---
 
 ## 📖 できればこれも
 
-- [threat](/word/threat)：脅威、危険
-- [violence](/word/violence)：暴力
+- [threat](/word/threat/)：脅威、危険
+- [violence](/word/violence/)：暴力
 
 <!-- cvid: aid48_bid29 -->

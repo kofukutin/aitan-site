@@ -97,7 +97,7 @@ TOEICでは観光やイベント、広告などの長文で「写真撮影」や
 ## 🤔  photograph との違いは？
 
 - **photography**：写真を撮る技術や芸術、活動全般
-- **[photograph](/word/photograph)**：1枚の写真、写真そのもの
+- **[photograph](/word/photograph/)**：1枚の写真、写真そのもの
 
 photographyは「写真を撮ること・技術」を指し、photographは「写真そのもの」を指します。
 
@@ -105,14 +105,14 @@ photographyは「写真を撮ること・技術」を指し、photographは「�
 
 ## 🧩 あわせて覚えたい
 
-- [camera](/word/camera)：カメラ、撮影機器
-- [portrait](/word/portrait)：肖像写真、人物画
+- [camera](/word/camera/)：カメラ、撮影機器
+- [portrait](/word/portrait/)：肖像写真、人物画
 
 ---
 
 ## 📖 できればこれも
 
-- [gallery](/word/gallery)：美術館、展示室
-- [exhibition](/word/exhibition)：展示会、展覧会
+- [gallery](/word/gallery/)：美術館、展示室
+- [exhibition](/word/exhibition/)：展示会、展覧会
 
 <!-- cvid: aid04_bid34 -->

@@ -97,7 +97,7 @@ TOEICでは、メールや通知文、社内連絡などの文脈でよく出題
 ## 🤔  informed との違いは？
 
 - **notified**：公式・フォーマルに「通知した」「知らせた」という意味で、特に手続きや連絡の場面で使う。
-- **[informed](/word/informed)**：より広く「情報を与えた」「知らせた」という意味で、日常的な場面でも使える。
+- **[informed](/word/informed/)**：より広く「情報を与えた」「知らせた」という意味で、日常的な場面でも使える。
 
 notifiedは公式な通知や連絡に使われ、informedは一般的な「知らせる」「情報を伝える」場面で幅広く使われます。
 
@@ -105,14 +105,14 @@ notifiedは公式な通知や連絡に使われ、informedは一般的な「知�
 
 ## 🧩 あわせて覚えたい
 
-- [announce](/word/announce)：発表する、告知する
-- [report](/word/report)：報告する
+- [announce](/word/announce/)：発表する、告知する
+- [report](/word/report/)：報告する
 
 ---
 
 ## 📖 できればこれも
 
-- [confirm](/word/confirm)：確認する
-- [remind](/word/remind)：思い出させる、注意を促す
+- [confirm](/word/confirm/)：確認する
+- [remind](/word/remind/)：思い出させる、注意を促す
 
 <!-- cvid: aid28_bid33 -->

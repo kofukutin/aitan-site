@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「人が何かにもたれている」
 ## 🤔  tilt との違いは？
 
 - **lean**：体や物が斜めになって何かに寄りかかる、もたれる
-- **[tilt](/word/tilt)**：物や体を傾ける（特に角度をつける動作）
+- **[tilt](/word/tilt/)**：物や体を傾ける（特に角度をつける動作）
 
 「lean」は自分や物が何かに寄りかかるイメージ、「tilt」は角度をつけて傾ける動作に重点があります。
 
@@ -105,15 +105,15 @@ TOEICでは主にPart 1の写真描写で「人が何かにもたれている」
 
 ## 🧩 あわせて覚えたい
 
-- [rest](/word/rest)：休む、休憩する
-- [support](/word/support)：支える、支援する
+- [rest](/word/rest/)：休む、休憩する
+- [support](/word/support/)：支える、支援する
 
 ---
 
 ## 📖 できればこれも
 
-- [bend](/word/bend)：曲げる、曲がる
-- [lift](/word/lift)：持ち上げる
+- [bend](/word/bend/)：曲げる、曲がる
+- [lift](/word/lift/)：持ち上げる
 
 ---
 <!-- cvid: aid07_bid43 -->

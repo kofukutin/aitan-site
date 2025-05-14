@@ -97,7 +97,7 @@ TOEICでは、ニュース記事やビジネス文書の中で「violent protest
 ## 🤔  aggressive との違いは？
 
 - **violent**：暴力や破壊的な激しさを伴う場合に使う
-- **[aggressive](/word/aggressive)**：攻撃的・積極的な態度や行動を指すが、必ずしも暴力的とは限らない
+- **[aggressive](/word/aggressive/)**：攻撃的・積極的な態度や行動を指すが、必ずしも暴力的とは限らない
 
 violentは「物理的な暴力」や「制御できない激しさ」に焦点があり、aggressiveは「攻撃的・積極的な姿勢」や「挑戦的な態度」に使われます。
 
@@ -105,14 +105,14 @@ violentは「物理的な暴力」や「制御できない激しさ」に焦点�
 
 ## 🧩 あわせて覚えたい
 
-- [peaceful](/word/peaceful)：平和的な、穏やかな
-- [intense](/word/intense)：強烈な、激しい（感情や活動など）
+- [peaceful](/word/peaceful/)：平和的な、穏やかな
+- [intense](/word/intense/)：強烈な、激しい（感情や活動など）
 
 ---
 
 ## 📖 できればこれも
 
-- [dangerous](/word/dangerous)：危険な
-- [hostile](/word/hostile)：敵意のある、敵対的な
+- [dangerous](/word/dangerous/)：危険な
+- [hostile](/word/hostile/)：敵意のある、敵対的な
 
 <!-- cvid: aid47_bid15 -->

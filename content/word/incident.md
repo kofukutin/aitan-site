@@ -97,7 +97,7 @@ incidentはTOEICの長文読解（Part 7）で、トラブルや出来事の報�
 ## 🤔  accident との違いは？
 
 - **incident**：予期しない出来事や事件（必ずしも重大・悪いとは限らない）
-- **[accident](/word/accident)**：偶発的な事故や災害（通常は悪い結果を伴う）
+- **[accident](/word/accident/)**：偶発的な事故や災害（通常は悪い結果を伴う）
 
 incidentは中立的な「出来事」全般を指し、accidentは「事故」や「災害」など悪い結果を強調します。
 
@@ -105,14 +105,14 @@ incidentは中立的な「出来事」全般を指し、accidentは「事故」�
 
 ## 🧩 あわせて覚えたい
 
-- [event](/word/event)：出来事、行事
-- [issue](/word/issue)：問題、課題
+- [event](/word/event/)：出来事、行事
+- [issue](/word/issue/)：問題、課題
 
 ---
 
 ## 📖 できればこれも
 
-- [case](/word/case)：事例、場合
-- [situation](/word/situation)：状況、事態
+- [case](/word/case/)：事例、場合
+- [situation](/word/situation/)：状況、事態
 
 <!-- cvid: aid29_bid47 -->

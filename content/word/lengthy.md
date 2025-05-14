@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文やメール文中で、「lengthy report（長�
 ## 🤔  long との違いは？
 
 - **lengthy**：思ったより長くて少しうんざりする、やや否定的なニュアンス
-- **[long](/word/long)**：単純に「長い」、中立的な意味
+- **[long](/word/long/)**：単純に「長い」、中立的な意味
 
 「lengthy」は「長すぎる」「退屈」といった否定的な気持ちを含むことが多いですが、「long」は単に長さや時間の長さを表します。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 7の長文やメール文中で、「lengthy report（長�
 
 ## 🧩 あわせて覚えたい
 
-- [brief](/word/brief)：短い、簡潔な
-- [prolonged](/word/prolonged)：長引いた、長期にわたる
+- [brief](/word/brief/)：短い、簡潔な
+- [prolonged](/word/prolonged/)：長引いた、長期にわたる
 
 ---
 
 ## 📖 できればこれも
 
-- [concise](/word/concise)：簡潔な
-- [detailed](/word/detailed)：詳細な
+- [concise](/word/concise/)：簡潔な
+- [detailed](/word/detailed/)：詳細な
 
 <!-- cvid: aid22_bid05 -->

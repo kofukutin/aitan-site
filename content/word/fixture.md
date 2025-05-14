@@ -97,7 +97,7 @@ TOEICでは、オフィスや建物の設備に関する文脈で出題される
 ## 🤔  equipment との違いは？
 
 - **fixture**：建物や部屋に固定されている備品や設備
-- **[equipment](/word/equipment)**：道具や機器全般（固定・移動問わず）
+- **[equipment](/word/equipment/)**：道具や機器全般（固定・移動問わず）
 
 fixtureは「据え付けで動かせないもの」、equipmentは「用途のための道具や機器全般」を指し、移動できるものも含みます。
 
@@ -105,14 +105,14 @@ fixtureは「据え付けで動かせないもの」、equipmentは「用途の�
 
 ## 🧩 あわせて覚えたい
 
-- [appliance](/word/appliance)：電化製品、器具
-- [fitting](/word/fitting)：取り付け具、付属品
+- [appliance](/word/appliance/)：電化製品、器具
+- [fitting](/word/fitting/)：取り付け具、付属品
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device)：装置、機器
-- [installation](/word/installation)：設置、据え付け
+- [device](/word/device/)：装置、機器
+- [installation](/word/installation/)：設置、据え付け
 
 <!-- cvid: aid35_bid39 -->

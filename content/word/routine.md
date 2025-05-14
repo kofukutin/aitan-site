@@ -97,7 +97,7 @@ TOEICでは職場や日常生活の流れを説明する場面でよく登場し
 ## 🤔  habit との違いは？
 
 - **routine**：決まった手順や日課、作業の流れを指す
-- **[habit](/word/habit)**：個人の習慣や癖を指す
+- **[habit](/word/habit/)**：個人の習慣や癖を指す
 
 routineは「手順」や「流れ」に重点があり、habitは「無意識に繰り返す個人の癖」に重点があります。
 
@@ -105,14 +105,14 @@ routineは「手順」や「流れ」に重点があり、habitは「無意識�
 
 ## 🧩 あわせて覚えたい
 
-- [procedure](/word/procedure)：手順、手続き
-- [custom](/word/custom)：（社会的な）習慣、風習
+- [procedure](/word/procedure/)：手順、手続き
+- [custom](/word/custom/)：（社会的な）習慣、風習
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/word/schedule)：予定、スケジュール
-- [task](/word/task)：仕事、作業
+- [schedule](/word/schedule/)：予定、スケジュール
+- [task](/word/task/)：仕事、作業
 
 <!-- cvid: aid14_bid17 -->

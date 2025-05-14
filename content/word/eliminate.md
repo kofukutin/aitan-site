@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や会議の文脈で「排除する」「除
 ## 🤔  remove との違いは？
 
 - **eliminate**：完全に排除・除去する、再び現れないようにするニュアンス
-- **[remove](/word/remove)**：単に取り外す・移動させる意味で、必ずしも完全排除ではない
+- **[remove](/word/remove/)**：単に取り外す・移動させる意味で、必ずしも完全排除ではない
 
 eliminateは「根本的に取り除く」イメージが強く、removeは「一時的にどかす」など幅広い場面で使われます。
 
@@ -105,14 +105,14 @@ eliminateは「根本的に取り除く」イメージが強く、removeは「�
 
 ## 🧩 あわせて覚えたい
 
-- [exclude](/word/exclude)：除外する
-- [retain](/word/retain)：保持する、保つ
+- [exclude](/word/exclude/)：除外する
+- [retain](/word/retain/)：保持する、保つ
 
 ---
 
 ## 📖 できればこれも
 
-- [reduce](/word/reduce)：減らす
-- [prevent](/word/prevent)：防ぐ
+- [reduce](/word/reduce/)：減らす
+- [prevent](/word/prevent/)：防ぐ
 
 <!-- cvid: aid25_bid24 -->

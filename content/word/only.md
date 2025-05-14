@@ -100,7 +100,7 @@ TOEICでは、文中の限定表現や強調、副詞の位置を問う問題で
 ## 🤔  just との違いは？
 
 - **only**：限定して「～だけ」と強調する
-- **[just](/word/just)**：直前・ちょうど・単に、など幅広い意味で使う
+- **[just](/word/just/)**：直前・ちょうど・単に、など幅広い意味で使う
 
 onlyは「それ以外はない」と限定するニュアンスが強く、justは「ちょうど」「単に」など状況や程度を表す場合が多いです。
 
@@ -108,14 +108,14 @@ onlyは「それ以外はない」と限定するニュアンスが強く、just
 
 ## 🧩 あわせて覚えたい
 
-- [merely](/word/merely)：単に、ただ
-- [solely](/word/solely)：もっぱら、ただ～だけ
+- [merely](/word/merely/)：単に、ただ
+- [solely](/word/solely/)：もっぱら、ただ～だけ
 
 ---
 
 ## 📖 できればこれも
 
-- [even](/word/even)：～でさえ
-- [mainly](/word/mainly)：主に
+- [even](/word/even/)：～でさえ
+- [mainly](/word/mainly/)：主に
 
 <!-- cvid: aid01_bid48 -->

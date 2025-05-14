@@ -97,7 +97,7 @@ TOEICでは、ビジネス上の妨害や技術的な「干渉」について説
 ## 🤔  intervention との違いは？
 
 - **interference**：相手の意志に反して妨げたり、余計に口出しする「干渉」「妨害」
-- **[intervention](/word/intervention)**：問題解決や状況改善のために積極的に「介入」すること
+- **[intervention](/word/intervention/)**：問題解決や状況改善のために積極的に「介入」すること
 
 interferenceは否定的なニュアンスで「余計な口出し」や「妨害」を指し、interventionは中立～肯定的に「助けるための介入」を表します。
 
@@ -105,14 +105,14 @@ interferenceは否定的なニュアンスで「余計な口出し」や「妨�
 
 ## 🧩 あわせて覚えたい
 
-- [obstacle](/word/obstacle)：障害、妨げ
-- [disturbance](/word/disturbance)：混乱、妨害
+- [obstacle](/word/obstacle/)：障害、妨げ
+- [disturbance](/word/disturbance/)：混乱、妨害
 
 ---
 
 ## 📖 できればこれも
 
-- [interrupt](/word/interrupt)：中断する、邪魔をする
-- [disturb](/word/disturb)：邪魔をする、妨げる
+- [interrupt](/word/interrupt/)：中断する、邪魔をする
+- [disturb](/word/disturb/)：邪魔をする、妨げる
 
 <!-- cvid: aid04_bid14 -->

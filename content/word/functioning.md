@@ -97,7 +97,7 @@ TOEICでは、機械やシステム、組織の「正常な働き」や「機能
 ## 🤔  operation との違いは？
 
 - **functioning**：正常に機能している「状態」や「働き」そのものを強調
-- **[operation](/word/operation)**：運用や操作、業務など「活動」や「作業」自体を指す
+- **[operation](/word/operation/)**：運用や操作、業務など「活動」や「作業」自体を指す
 
 functioningは「ちゃんと動いているか」という状態に焦点があり、operationは「動かす行為」や「業務の運営」など活動そのものを指します。
 
@@ -105,14 +105,14 @@ functioningは「ちゃんと動いているか」という状態に焦点があ
 
 ## 🧩 あわせて覚えたい
 
-- [performance](/word/performance)：性能、実行
-- [malfunction](/word/malfunction)：故障、不具合
+- [performance](/word/performance/)：性能、実行
+- [malfunction](/word/malfunction/)：故障、不具合
 
 ---
 
 ## 📖 できればこれも
 
-- [process](/word/process)：過程、処理
-- [mechanism](/word/mechanism)：仕組み、機構
+- [process](/word/process/)：過程、処理
+- [mechanism](/word/mechanism/)：仕組み、機構
 
 <!-- cvid: aid01_bid28 -->

@@ -97,7 +97,7 @@ Please store the products in a frozen state.
 ## 🤔  icy との違いは？
 
 - **frozen**：完全に凍った、冷凍された状態を表す
-- **[icy](/word/icy)**：氷で覆われている、または氷のように冷たい状態を表す
+- **[icy](/word/icy/)**：氷で覆われている、または氷のように冷たい状態を表す
 
 「frozen」は物や液体が完全に凍っている状態、「icy」は表面が氷で覆われていたり、冷たさを強調したいときに使います。
 
@@ -105,14 +105,14 @@ Please store the products in a frozen state.
 
 ## 🧩 あわせて覚えたい
 
-- [chilly](/word/chilly)：ひんやりした、肌寒い
-- [solid](/word/solid)：固体の、固い
+- [chilly](/word/chilly/)：ひんやりした、肌寒い
+- [solid](/word/solid/)：固体の、固い
 
 ---
 
 ## 📖 できればこれも
 
-- [cold](/word/cold)：冷たい
-- [melt](/word/melt)：溶ける
+- [cold](/word/cold/)：冷たい
+- [melt](/word/melt/)：溶ける
 
 <!-- cvid: aid45_bid28 -->

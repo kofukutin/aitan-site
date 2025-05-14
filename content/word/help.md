@@ -97,7 +97,7 @@ TOEICでは会話や依頼、申し出の場面で頻繁に登場します。特
 ## 🤔  assist との違いは？
 
 - **help**：日常的に使う「助ける」「手伝う」のカジュアルな表現
-- **[assist](/word/assist)**：ややフォーマルで、専門的・公式な場面で使われやすい
+- **[assist](/word/assist/)**：ややフォーマルで、専門的・公式な場面で使われやすい
 
 helpは誰に対しても気軽に使える一方、assistはビジネスや公式な状況で使われることが多いです。
 
@@ -105,14 +105,14 @@ helpは誰に対しても気軽に使える一方、assistはビジネスや公�
 
 ## 🧩 あわせて覚えたい
 
-- [support](/word/support)：支援する、支える
-- [rescue](/word/rescue)：救助する、救う
+- [support](/word/support/)：支援する、支える
+- [rescue](/word/rescue/)：救助する、救う
 
 ---
 
 ## 📖 できればこれも
 
-- [give](/word/give)：与える、渡す
-- [offer](/word/offer)：申し出る、提供する
+- [give](/word/give/)：与える、渡す
+- [offer](/word/offer/)：申し出る、提供する
 
 <!-- cvid: aid08_bid41 -->

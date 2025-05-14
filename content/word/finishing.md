@@ -97,7 +97,7 @@ TOEICでは、製品やプロジェクトの「仕上げ」や「最終段階」
 ## 🤔  completion との違いは？
 
 - **finishing**：仕上げや最終段階、特に作業の「見た目」や「質」に焦点を当てる
-- **[completion](/word/completion)**：完了、終了という「状態」や「達成」に焦点を当てる
+- **[completion](/word/completion/)**：完了、終了という「状態」や「達成」に焦点を当てる
 
 finishingは「仕上げ作業」や「最終の手直し」に使われ、completionは「全体の完了」や「達成」を表します。
 
@@ -105,14 +105,14 @@ finishingは「仕上げ作業」や「最終の手直し」に使われ、compl
 
 ## 🧩 あわせて覚えたい
 
-- [final](/word/final)：最終の、最後の
-- [conclusion](/word/conclusion)：結論、終わり
+- [final](/word/final/)：最終の、最後の
+- [conclusion](/word/conclusion/)：結論、終わり
 
 ---
 
 ## 📖 できればこれも
 
-- [prepare](/word/prepare)：準備する
-- [progress](/word/progress)：進捗、進行
+- [prepare](/word/prepare/)：準備する
+- [progress](/word/progress/)：進捗、進行
 
 <!-- cvid: aid07_bid07 -->

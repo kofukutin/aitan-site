@@ -97,7 +97,7 @@ TOEICでは、ホテルやオフィス、会議室などの説明や案内でよ
 ## 🤔  cozy との違いは？
 
 - **comfortable**：広く「快適」「心地よい」状態を表す
-- **[cozy](/word/cozy)**：小ぢんまりしていて「居心地が良い」雰囲気を強調
+- **[cozy](/word/cozy/)**：小ぢんまりしていて「居心地が良い」雰囲気を強調
 
 comfortableは物理的・精神的な快適さ全般を指し、cozyは特に温かみや親しみやすさのある空間に使われます。
 
@@ -105,14 +105,14 @@ comfortableは物理的・精神的な快適さ全般を指し、cozyは特に�
 
 ## 🧩 あわせて覚えたい
 
-- [uncomfortable](/word/uncomfortable)：不快な、居心地が悪い
-- [convenient](/word/convenient)：便利な、都合が良い
+- [uncomfortable](/word/uncomfortable/)：不快な、居心地が悪い
+- [convenient](/word/convenient/)：便利な、都合が良い
 
 ---
 
 ## 📖 できればこれも
 
-- [relax](/word/relax)：くつろぐ、リラックスする
-- [pleasant](/word/pleasant)：快い、楽しい
+- [relax](/word/relax/)：くつろぐ、リラックスする
+- [pleasant](/word/pleasant/)：快い、楽しい
 
 <!-- cvid: aid34_bid34 -->

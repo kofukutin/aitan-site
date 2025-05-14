@@ -97,7 +97,7 @@ TOEICでは主にPart 7のメールや広告文、レビューなどで「素晴
 ## 🤔  fantastic との違いは？
 
 - **fabulous**：現実離れしたほど素晴らしい、驚くほど良いという強い肯定的ニュアンス。
-- **[fantastic](/word/fantastic)**：想像力をかき立てるような素晴らしさ、または非現実的・空想的なニュアンスも含む。
+- **[fantastic](/word/fantastic/)**：想像力をかき立てるような素晴らしさ、または非現実的・空想的なニュアンスも含む。
 
 fabulousは「現実的にとても素晴らしい」ことを強調し、fantasticは「空想的・非現実的なほど素晴らしい」場合にも使われます。
 
@@ -105,14 +105,14 @@ fabulousは「現実的にとても素晴らしい」ことを強調し、fantas
 
 ## 🧩 あわせて覚えたい
 
-- [wonderful](/word/wonderful)：とても素晴らしい
-- [incredible](/word/incredible)：信じられないほど素晴らしい
+- [wonderful](/word/wonderful/)：とても素晴らしい
+- [incredible](/word/incredible/)：信じられないほど素晴らしい
 
 ---
 
 ## 📖 できればこれも
 
-- [amazing](/word/amazing)：驚くほど素晴らしい
-- [excellent](/word/excellent)：優れた、非常に良い
+- [amazing](/word/amazing/)：驚くほど素晴らしい
+- [excellent](/word/excellent/)：優れた、非常に良い
 
 <!-- cvid: aid00_bid19 -->

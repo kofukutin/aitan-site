@@ -97,7 +97,7 @@ TOEICでは「予約済みの」「控えめな」という両方の意味で出
 ## 🤔  shy との違いは？
 
 - **reserved**：控えめで感情をあまり表に出さない、または「予約済みの」
-- **[shy](/word/shy)**：恥ずかしがり屋で人前で緊張しやすい
+- **[shy](/word/shy/)**：恥ずかしがり屋で人前で緊張しやすい
 
 reservedは「落ち着いていて自分をあまり表現しない」印象、shyは「恥ずかしがりで人前が苦手」な印象です。
 
@@ -105,14 +105,14 @@ reservedは「落ち着いていて自分をあまり表現しない」印象、
 
 ## 🧩 あわせて覚えたい
 
-- [outgoing](/word/outgoing)：社交的な
-- [confident](/word/confident)：自信がある
+- [outgoing](/word/outgoing/)：社交的な
+- [confident](/word/confident/)：自信がある
 
 ---
 
 ## 📖 できればこれも
 
-- [polite](/word/polite)：礼儀正しい
-- [formal](/word/formal)：形式ばった、フォーマルな
+- [polite](/word/polite/)：礼儀正しい
+- [formal](/word/formal/)：形式ばった、フォーマルな
 
 <!-- cvid: aid03_bid45 -->

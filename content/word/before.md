@@ -95,7 +95,7 @@ TOEICでは会話や説明文で「～の前に」という時間表現として
 ## 🤔  prior との違いは？
 
 - **before**：日常的に「～の前に」と幅広く使う
-- **[prior](/word/prior)**：ややフォーマルで「事前の」「前もっての」という意味
+- **[prior](/word/prior/)**：ややフォーマルで「事前の」「前もっての」という意味
 
 「before」は会話や文章で自然に使える一方、「prior」はビジネスや公式文書などフォーマルな場面で使われやすいです。
 
@@ -103,14 +103,14 @@ TOEICでは会話や説明文で「～の前に」という時間表現として
 
 ## 🧩 あわせて覚えたい
 
-- [after](/word/after)：～の後に
-- [previous](/word/previous)：前の、以前の
+- [after](/word/after/)：～の後に
+- [previous](/word/previous/)：前の、以前の
 
 ---
 
 ## 📖 できればこれも
 
-- [during](/word/during)：～の間に
-- [until](/word/until)：～まで（ずっと）
+- [during](/word/during/)：～の間に
+- [until](/word/until/)：～まで（ずっと）
 
 <!-- cvid: aid34_bid11 -->

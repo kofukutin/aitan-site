@@ -97,7 +97,7 @@ TOEICでは「配達する」「届ける」の意味で、会話や説明文中
 ## 🤔  distribute との違いは？
 
 - **deliver**：特定の相手や場所に「届ける」「配達する」ことに重点がある
-- **[distribute](/word/distribute)**：複数の人や場所に「分配する」「配る」ことに重点がある
+- **[distribute](/word/distribute/)**：複数の人や場所に「分配する」「配る」ことに重点がある
 
 deliverは「1対1」や「目的地への到着」にフォーカスし、distributeは「多くの人への分配」に使われます。
 
@@ -105,14 +105,14 @@ deliverは「1対1」や「目的地への到着」にフォーカスし、distr
 
 ## 🧩 あわせて覚えたい
 
-- [send](/word/send)：送る
-- [ship](/word/ship)：発送する
+- [send](/word/send/)：送る
+- [ship](/word/ship/)：発送する
 
 ---
 
 ## 📖 できればこれも
 
-- [receive](/word/receive)：受け取る
-- [provide](/word/provide)：提供する
+- [receive](/word/receive/)：受け取る
+- [provide](/word/provide/)：提供する
 
 <!-- cvid: aid42_bid39 -->

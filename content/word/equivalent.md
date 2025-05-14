@@ -98,7 +98,7 @@ TOEICでは主にPart 5で、比較や同等性を問う文脈で出題されま
 ## 🤔  equal との違いは？
 
 - **equivalent**：価値・量・意味などが実質的に同じであることを強調し、フォーマルな場面で使う
-- **[equal](/word/equal)**：数量や大きさが「まったく等しい」ことを表し、より一般的
+- **[equal](/word/equal/)**：数量や大きさが「まったく等しい」ことを表し、より一般的
 
 equivalentは「本質的に同じ価値や役割」を指し、equalは「数や大きさが完全に一致」する場合に使います。
 
@@ -106,14 +106,14 @@ equivalentは「本質的に同じ価値や役割」を指し、equalは「数�
 
 ## 🧩 あわせて覚えたい
 
-- [comparable](/word/comparable)：比較できる、同等の
-- [counterpart](/word/counterpart)：対応するもの、相手方
+- [comparable](/word/comparable/)：比較できる、同等の
+- [counterpart](/word/counterpart/)：対応するもの、相手方
 
 ---
 
 ## 📖 できればこれも
 
-- [adequate](/word/adequate)：十分な、適切な
-- [identical](/word/identical)：全く同じ、同一の
+- [adequate](/word/adequate/)：十分な、適切な
+- [identical](/word/identical/)：全く同じ、同一の
 
 <!-- cvid: aid35_bid26 -->

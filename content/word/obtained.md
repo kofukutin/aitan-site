@@ -97,7 +97,7 @@ TOEICでは、書類や許可、情報などを「得る」「取得する」と
 ## 🤔  acquired との違いは？
 
 - **obtained**：努力や手続きを経て「得た」「取得した」
-- **[acquired](/word/acquired)**：経験や学習、成長を通じて「身につけた」「習得した」
+- **[acquired](/word/acquired/)**：経験や学習、成長を通じて「身につけた」「習得した」
 
 obtainedは「物理的・公式に手に入れる」ニュアンスが強く、acquiredは「知識やスキルなどを身につける」場合に使われます。
 
@@ -105,14 +105,14 @@ obtainedは「物理的・公式に手に入れる」ニュアンスが強く、
 
 ## 🧩 あわせて覚えたい
 
-- [receive](/word/receive)：受け取る
-- [collect](/word/collect)：集める
+- [receive](/word/receive/)：受け取る
+- [collect](/word/collect/)：集める
 
 ---
 
 ## 📖 できればこれも
 
-- [submit](/word/submit)：提出する
-- [approve](/word/approve)：承認する
+- [submit](/word/submit/)：提出する
+- [approve](/word/approve/)：承認する
 
 <!-- cvid: aid40_bid36 -->

@@ -97,7 +97,7 @@ TOEICでは、ビジネス上の「問題解決」や「支払いの精算」な
 ## 🤔  resolve との違いは？
 
 - **settle**：問題や争いを「最終的に解決する」「安定させる」ニュアンス
-- **[resolve](/word/resolve)**：問題や困難を「決意して解決する」「明確に解決する」ニュアンス
+- **[resolve](/word/resolve/)**：問題や困難を「決意して解決する」「明確に解決する」ニュアンス
 
 settleは「和解」や「落ち着かせる」など柔らかい解決、resolveは「決意」や「断固とした解決」に重点があります。
 
@@ -105,14 +105,14 @@ settleは「和解」や「落ち着かせる」など柔らかい解決、resol
 
 ## 🧩 あわせて覚えたい
 
-- [agree](/word/agree)：同意する
-- [conclude](/word/conclude)：結論を出す、終える
+- [agree](/word/agree/)：同意する
+- [conclude](/word/conclude/)：結論を出す、終える
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange)：手配する、整える
-- [confirm](/word/confirm)：確認する
+- [arrange](/word/arrange/)：手配する、整える
+- [confirm](/word/confirm/)：確認する
 
 <!-- cvid: aid01_bid31 -->

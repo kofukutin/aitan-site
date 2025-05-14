@@ -97,7 +97,7 @@ TOEICでは動詞の語形変化（choose, choosing, chosenなど）や、進行
 ## 🤔  selecting との違いは？
 
 - **choosing**：自分の好みや意思で選ぶニュアンスが強い
-- **[selecting](/word/selecting)**：基準や条件に従って選ぶ、ややフォーマル
+- **[selecting](/word/selecting/)**：基準や条件に従って選ぶ、ややフォーマル
 
 choosingは「好きなものを選ぶ」感覚、selectingは「条件や基準で選ぶ」場面で使い分けます。
 
@@ -105,14 +105,14 @@ choosingは「好きなものを選ぶ」感覚、selectingは「条件や基準
 
 ## 🧩 あわせて覚えたい
 
-- [decide](/word/decide)：決める、決定する
-- [pick](/word/pick)：（カジュアルに）選ぶ
+- [decide](/word/decide/)：決める、決定する
+- [pick](/word/pick/)：（カジュアルに）選ぶ
 
 ---
 
 ## 📖 できればこれも
 
-- [prefer](/word/prefer)：より好む
-- [option](/word/option)：選択肢
+- [prefer](/word/prefer/)：より好む
+- [option](/word/option/)：選択肢
 
 <!-- cvid: aid27_bid19 -->

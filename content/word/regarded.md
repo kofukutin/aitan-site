@@ -97,7 +97,7 @@ TOEICでは「be regarded as ～」の形で頻出し、受動態や評価を表
 ## 🤔  considered との違いは？
 
 - **regarded**：他者や社会から「～と見なされる」「評価される」というニュアンスが強い
-- **[considered](/word/considered)**：主観的に「～と考えられる」「熟考される」という意味合いが強い
+- **[considered](/word/considered/)**：主観的に「～と考えられる」「熟考される」という意味合いが強い
 
 「regarded」は外部からの評価や一般的な見方を表し、「considered」は個人や集団の判断・思考を強調します。
 
@@ -105,14 +105,14 @@ TOEICでは「be regarded as ～」の形で頻出し、受動態や評価を表
 
 ## 🧩 あわせて覚えたい
 
-- [deem](/word/deem)：～と判断する、～と見なす
-- [view](/word/view)：～と考える、～と見る
+- [deem](/word/deem/)：～と判断する、～と見なす
+- [view](/word/view/)：～と考える、～と見る
 
 ---
 
 ## 📖 できればこれも
 
-- [acknowledge](/word/acknowledge)：認める、承認する
-- [recognize](/word/recognize)：認識する、認める
+- [acknowledge](/word/acknowledge/)：認める、承認する
+- [recognize](/word/recognize/)：認識する、認める
 
 <!-- cvid: aid44_bid22 -->

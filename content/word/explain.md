@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「理由や内容を説明する」場面によ
 ## 🤔  describe との違いは？
 
 - **explain**：理由や仕組みを分かりやすく「説明する」
-- **[describe](/word/describe)**：特徴や様子を「描写する」
+- **[describe](/word/describe/)**：特徴や様子を「描写する」
 
 「explain」は理由や背景を明確にする時に使い、「describe」は見た目や状態などを詳しく述べる時に使います。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「理由や内容を説明する」場面によ
 
 ## 🧩 あわせて覚えたい
 
-- [clarify](/word/clarify)：明確にする
-- [justify](/word/justify)：正当化する
+- [clarify](/word/clarify/)：明確にする
+- [justify](/word/justify/)：正当化する
 
 ---
 
 ## 📖 できればこれも
 
-- [discuss](/word/discuss)：議論する
-- [present](/word/present)：提示する
+- [discuss](/word/discuss/)：議論する
+- [present](/word/present/)：提示する
 
 <!-- cvid: aid47_bid11 -->

@@ -97,7 +97,7 @@ TOEICでは「書類のコピー」や「複製する」という意味で頻出
 ## 🤔  duplicate との違いは？
 
 - **copy**：一般的な「写し」「複製」。日常的な書類やデータのコピーに広く使う。
-- **[duplicate](/word/duplicate)**：まったく同一のものを意図的に「複製」する場合に使い、ややフォーマル。
+- **[duplicate](/word/duplicate/)**：まったく同一のものを意図的に「複製」する場合に使い、ややフォーマル。
 
 copyは日常的な「コピー」に幅広く使われ、duplicateは「完全な複製」や公式な文脈で使われることが多いです。
 
@@ -105,14 +105,14 @@ copyは日常的な「コピー」に幅広く使われ、duplicateは「完全�
 
 ## 🧩 あわせて覚えたい
 
-- [original](/word/original)：原本、元のもの
-- [print](/word/print)：印刷する、印刷物
+- [original](/word/original/)：原本、元のもの
+- [print](/word/print/)：印刷する、印刷物
 
 ---
 
 ## 📖 できればこれも
 
-- [paste](/word/paste)：貼り付ける
-- [scan](/word/scan)：スキャンする
+- [paste](/word/paste/)：貼り付ける
+- [scan](/word/scan/)：スキャンする
 
 <!-- cvid: aid05_bid08 -->

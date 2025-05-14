@@ -93,7 +93,7 @@ TOEICでは会話や説明文で「どこにも～ない」と否定的な状況
 ## 🤔  anywhere との違いは？
 
 - **nowhere**：どこにも～ない（完全な否定）
-- **[anywhere](/word/anywhere)**：どこでも／どこか（肯定文・疑問文・否定文で意味が変わる）
+- **[anywhere](/word/anywhere/)**：どこでも／どこか（肯定文・疑問文・否定文で意味が変わる）
 
 nowhereは「全く存在しない」ことを強調し、anywhereは「どこか」「どこでも」と幅広く使われます。
 
@@ -101,14 +101,14 @@ nowhereは「全く存在しない」ことを強調し、anywhereは「どこ�
 
 ## 🧩 あわせて覚えたい
 
-- [somewhere](/word/somewhere)：どこかに
-- [everywhere](/word/everywhere)：どこでも、あらゆる場所で
+- [somewhere](/word/somewhere/)：どこかに
+- [everywhere](/word/everywhere/)：どこでも、あらゆる場所で
 
 ---
 
 ## 📖 できればこれも
 
-- [elsewhere](/word/elsewhere)：他の場所で
-- [apart](/word/apart)：離れて、別々に
+- [elsewhere](/word/elsewhere/)：他の場所で
+- [apart](/word/apart/)：離れて、別々に
 
 <!-- cvid: aid00_bid11 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、動物や日常のシーンを説明
 ## 🤔  dog との違いは？
 
 - **puppy**：生まれて間もない子犬を指し、かわいらしさや幼さを強調する。
-- **[dog](/word/dog)**：年齢に関係なく「犬」全般を指す一般的な言い方。
+- **[dog](/word/dog/)**：年齢に関係なく「犬」全般を指す一般的な言い方。
 
 puppyは「子犬」に限定され、dogは成犬も含めた「犬」全体を指します。年齢や見た目のニュアンスで使い分けます。
 
@@ -105,14 +105,14 @@ puppyは「子犬」に限定され、dogは成犬も含めた「犬」全体を
 
 ## 🧩 あわせて覚えたい
 
-- [kitten](/word/kitten)：子猫
-- [pet](/word/pet)：ペット、飼い動物
+- [kitten](/word/kitten/)：子猫
+- [pet](/word/pet/)：ペット、飼い動物
 
 ---
 
 ## 📖 できればこれも
 
-- [cat](/word/cat)：猫
-- [rabbit](/word/rabbit)：ウサギ
+- [cat](/word/cat/)：猫
+- [rabbit](/word/rabbit/)：ウサギ
 
 <!-- cvid: aid46_bid08 -->

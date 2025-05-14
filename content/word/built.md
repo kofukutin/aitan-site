@@ -97,7 +97,7 @@ TOEICでは、buildの過去形・過去分詞として文法問題や説明文�
 ## 🤔  constructed との違いは？
 
 - **built**：一般的に「建てた」「作った」という意味で幅広く使う
-- **[constructed](/word/constructed)**：特に「構造物を組み立てて建設した」というややフォーマルな表現
+- **[constructed](/word/constructed/)**：特に「構造物を組み立てて建設した」というややフォーマルな表現
 
 builtは日常的な「作る・建てる」に広く使われ、constructedは工事や設計に基づく建設など、より専門的・フォーマルな場面で使われます。
 
@@ -105,14 +105,14 @@ builtは日常的な「作る・建てる」に広く使われ、constructedは�
 
 ## 🧩 あわせて覚えたい
 
-- [create](/word/create)：創造する、作り出す
-- [assemble](/word/assemble)：組み立てる
+- [create](/word/create/)：創造する、作り出す
+- [assemble](/word/assemble/)：組み立てる
 
 ---
 
 ## 📖 できればこれも
 
-- [design](/word/design)：設計する
-- [repair](/word/repair)：修理する
+- [design](/word/design/)：設計する
+- [repair](/word/repair/)：修理する
 
 <!-- cvid: aid45_bid33 -->

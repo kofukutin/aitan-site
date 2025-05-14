@@ -97,7 +97,7 @@ TOEICでは「satisfy」の否定形として文法問題や語彙問題で出�
 ## 🤔  disappoint との違いは？
 
 - **dissatisfy**：期待や要求を十分に満たさず、不満を感じさせる。
-- **[disappoint](/word/disappoint)**：期待が裏切られたときの「がっかりさせる」。
+- **[disappoint](/word/disappoint/)**：期待が裏切られたときの「がっかりさせる」。
 
 dissatisfyは「満足できない」状態を強調し、disappointは「期待を裏切る」感情的な落胆を強調します。
 
@@ -105,14 +105,14 @@ dissatisfyは「満足できない」状態を強調し、disappointは「期待
 
 ## 🧩 あわせて覚えたい
 
-- [satisfy](/word/satisfy)：満足させる
-- [frustrate](/word/frustrate)：いら立たせる、挫折させる
+- [satisfy](/word/satisfy/)：満足させる
+- [frustrate](/word/frustrate/)：いら立たせる、挫折させる
 
 ---
 
 ## 📖 できればこれも
 
-- [complain](/word/complain)：不満を言う
-- [fulfill](/word/fulfill)：（要求・条件などを）満たす
+- [complain](/word/complain/)：不満を言う
+- [fulfill](/word/fulfill/)：（要求・条件などを）満たす
 
 <!-- cvid: aid06_bid40 -->

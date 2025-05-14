@@ -97,7 +97,7 @@ TOEICではPart 7のEメールやお知らせ文、個人の予定表などで�
 ## 🤔  journal との違いは？
 
 - **diary**：日々の出来事や感情を時系列で記録する「日記」
-- **[journal](/word/journal)**：より詳細な記録や考察、研究内容などをまとめる「記録帳」「学術誌」
+- **[journal](/word/journal/)**：より詳細な記録や考察、研究内容などをまとめる「記録帳」「学術誌」
 
 「diary」は個人的な日記や予定表に使われ、感情や出来事を簡単に書く場合が多いですが、「journal」は研究や学習、ビジネスの記録など、より体系的・詳細な記述に使われます。
 
@@ -105,14 +105,14 @@ TOEICではPart 7のEメールやお知らせ文、個人の予定表などで�
 
 ## 🧩 あわせて覚えたい
 
-- [notebook](/word/notebook)：ノート、帳面
-- [memo](/word/memo)：メモ、覚え書き
+- [notebook](/word/notebook/)：ノート、帳面
+- [memo](/word/memo/)：メモ、覚え書き
 
 ---
 
 ## 📖 できればこれも
 
-- [schedule](/word/schedule)：予定、スケジュール
-- [note](/word/note)：メモ、注記
+- [schedule](/word/schedule/)：予定、スケジュール
+- [note](/word/note/)：メモ、注記
 
 <!-- cvid: aid46_bid48 -->

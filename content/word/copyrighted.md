@@ -97,7 +97,7 @@ TOEICでは、契約書や注意書き、知的財産に関する説明文など
 ## 🤔  protected との違いは？
 
 - **copyrighted**：著作権によって法的に守られていることを強調
-- **[protected](/word/protected)**：一般的に「保護されている」状態（法律・物理的・その他の手段を含む）
+- **[protected](/word/protected/)**：一般的に「保護されている」状態（法律・物理的・その他の手段を含む）
 
 「copyrighted」は著作権という特定の法律による保護を指し、「protected」はより広い意味での保護全般を表します。
 
@@ -105,14 +105,14 @@ TOEICでは、契約書や注意書き、知的財産に関する説明文など
 
 ## 🧩 あわせて覚えたい
 
-- [licensed](/word/licensed)：許可された、ライセンスを受けた
-- [trademarked](/word/trademarked)：商標登録された
+- [licensed](/word/licensed/)：許可された、ライセンスを受けた
+- [trademarked](/word/trademarked/)：商標登録された
 
 ---
 
 ## 📖 できればこれも
 
-- [legal](/word/legal)：合法の、法律の
-- [original](/word/original)：元の、独自の
+- [legal](/word/legal/)：合法の、法律の
+- [original](/word/original/)：元の、独自の
 
 <!-- cvid: aid12_bid27 -->

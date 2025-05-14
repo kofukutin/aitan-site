@@ -97,7 +97,7 @@ TOEICでは会話文やカジュアルなやりとりで、好意的な感情や
 ## 🤔  beautiful との違いは？
 
 - **lovely**：親しみやすく、かわいらしさや温かみを感じる「すてき」「愛らしい」
-- **[beautiful](/word/beautiful)**：よりフォーマルで、見た目や景色などが「美しい」「素晴らしい」
+- **[beautiful](/word/beautiful/)**：よりフォーマルで、見た目や景色などが「美しい」「素晴らしい」
 
 lovelyは感情や親しみを込めて使うことが多く、beautifulは客観的な美しさや壮大さを表すときに使います。
 
@@ -105,14 +105,14 @@ lovelyは感情や親しみを込めて使うことが多く、beautifulは客�
 
 ## 🧩 あわせて覚えたい
 
-- [cute](/word/cute)：かわいい、愛らしい
-- [pleasant](/word/pleasant)：心地よい、快い
+- [cute](/word/cute/)：かわいい、愛らしい
+- [pleasant](/word/pleasant/)：心地よい、快い
 
 ---
 
 ## 📖 できればこれも
 
-- [friendly](/word/friendly)：親しみやすい、友好的な
-- [pretty](/word/pretty)：かわいらしい、きれいな
+- [friendly](/word/friendly/)：親しみやすい、友好的な
+- [pretty](/word/pretty/)：かわいらしい、きれいな
 
 <!-- cvid: aid16_bid04 -->

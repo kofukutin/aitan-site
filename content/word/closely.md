@@ -97,7 +97,7 @@ TOEICでは会議やビジネスの場面で「密接に」「注意深く」な
 ## 🤔  carefully との違いは？
 
 - **closely**：物理的・心理的に「近く」「密接に」または「綿密に」「注意深く」
-- **[carefully](/word/carefully)**：注意や配慮をもって「慎重に」「丁寧に」
+- **[carefully](/word/carefully/)**：注意や配慮をもって「慎重に」「丁寧に」
 
 closely は「関係の強さ」や「細かく観察する」ニュアンスがあり、carefully は「失敗しないように注意深く」という意味合いが強いです。
 
@@ -105,14 +105,14 @@ closely は「関係の強さ」や「細かく観察する」ニュアンスが
 
 ## 🧩 あわせて覚えたい
 
-- [directly](/word/directly)：直接に
-- [nearly](/word/nearly)：ほとんど、ほぼ
+- [directly](/word/directly/)：直接に
+- [nearly](/word/nearly/)：ほとんど、ほぼ
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/word/quickly)：速く
-- [deeply](/word/deeply)：深く
+- [quickly](/word/quickly/)：速く
+- [deeply](/word/deeply/)：深く
 
 <!-- cvid: aid37_bid28 -->

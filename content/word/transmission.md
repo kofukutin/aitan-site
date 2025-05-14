@@ -97,7 +97,7 @@ ITやビジネスの説明文、技術関連の会話で「データの送信」
 ## 🤔  transfer との違いは？
 
 - **transmission**：情報・信号・病気など「目に見えないもの」の伝達や送信に使うことが多い
-- **[transfer](/word/transfer)**：物理的な「移動」や「転送」、人や物の「移動」に幅広く使う
+- **[transfer](/word/transfer/)**：物理的な「移動」や「転送」、人や物の「移動」に幅広く使う
 
 transmissionは「伝える・送る」動作に焦点があり、transferは「場所や所有を移す」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ transmissionは「伝える・送る」動作に焦点があり、transferは「
 
 ## 🧩 あわせて覚えたい
 
-- [broadcast](/word/broadcast)：放送、放送する
-- [infection](/word/infection)：感染、伝染
+- [broadcast](/word/broadcast/)：放送、放送する
+- [infection](/word/infection/)：感染、伝染
 
 ---
 
 ## 📖 できればこれも
 
-- [network](/word/network)：ネットワーク、通信網
-- [signal](/word/signal)：信号、合図
+- [network](/word/network/)：ネットワーク、通信網
+- [signal](/word/signal/)：信号、合図
 
 <!-- cvid: aid07_bid42 -->

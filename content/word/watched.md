@@ -97,7 +97,7 @@ TOEICでは会話や説明文の中で「何かを見た」「観察した」と
 ## 🤔  observed との違いは？
 
 - **watched**：日常的に「じっと見る」「見守る」など、カジュアルな場面で使う。
-- **[observed](/word/observed)**：よりフォーマルで「観察する」「注意深く見る」という意味。
+- **[observed](/word/observed/)**：よりフォーマルで「観察する」「注意深く見る」という意味。
 
 watchedはテレビや人などを普通に「見る」時に使い、observedは科学的・公式な場面で「観察する」時に使います。
 
@@ -105,14 +105,14 @@ watchedはテレビや人などを普通に「見る」時に使い、observed�
 
 ## 🧩 あわせて覚えたい
 
-- [look](/word/look)：見る（意識して視線を向ける）
-- [see](/word/see)：見える（自然に目に入る）
+- [look](/word/look/)：見る（意識して視線を向ける）
+- [see](/word/see/)：見える（自然に目に入る）
 
 ---
 
 ## 📖 できればこれも
 
-- [noticed](/word/noticed)：気づく、認識する
-- [checked](/word/checked)：確認する、調べる
+- [noticed](/word/noticed/)：気づく、認識する
+- [checked](/word/checked/)：確認する、調べる
 
 <!-- cvid: aid34_bid43 -->

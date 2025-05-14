@@ -97,7 +97,7 @@ TOEICでは会議やビジネスメール、電話で「リマインドする」
 ## 🤔  remember との違いは？
 
 - **remind**：誰かに「思い出させる」「注意を促す」時に使う
-- **[remember](/word/remember)**：自分が「覚えている」「思い出す」時に使う
+- **[remember](/word/remember/)**：自分が「覚えている」「思い出す」時に使う
 
 remindは他者や自分に「思い出させる」動作、rememberは自分自身が「思い出す」状態を表します。
 
@@ -105,14 +105,14 @@ remindは他者や自分に「思い出させる」動作、rememberは自分自
 
 ## 🧩 あわせて覚えたい
 
-- [recall](/word/recall)：（努力して）思い出す
-- [notify](/word/notify)：通知する、知らせる
+- [recall](/word/recall/)：（努力して）思い出す
+- [notify](/word/notify/)：通知する、知らせる
 
 ---
 
 ## 📖 できればこれも
 
-- [advise](/word/advise)：助言する
-- [suggest](/word/suggest)：提案する
+- [advise](/word/advise/)：助言する
+- [suggest](/word/suggest/)：提案する
 
 <!-- cvid: aid36_bid34 -->

@@ -97,7 +97,7 @@ TOEICでは「highly priced」「reasonably priced」など、他の語と組み
 ## 🤔  expensive との違いは？
 
 - **priced**：値段がついている、価格設定がどうかを表す
-- **[expensive](/word/expensive)**：高価な、値段が高い
+- **[expensive](/word/expensive/)**：高価な、値段が高い
 
 「priced」は価格の状態や設定を客観的に表し、「expensive」は主観的に「高い」と感じる場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは「highly priced」「reasonably priced」など、他の語と組み
 
 ## 🧩 あわせて覚えたい
 
-- [affordable](/word/affordable)：手ごろな価格の
-- [reasonable](/word/reasonable)：妥当な、納得できる価格の
+- [affordable](/word/affordable/)：手ごろな価格の
+- [reasonable](/word/reasonable/)：妥当な、納得できる価格の
 
 ---
 
 ## 📖 できればこれも
 
-- [costly](/word/costly)：高価な、費用がかかる
-- [valuable](/word/valuable)：価値のある
+- [costly](/word/costly/)：高価な、費用がかかる
+- [valuable](/word/valuable/)：価値のある
 
 <!-- cvid: aid48_bid11 -->

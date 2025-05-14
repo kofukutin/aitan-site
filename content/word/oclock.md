@@ -93,7 +93,7 @@ TOEICではリスニングの時間表現や、会話の中でよく出題され
 ## 🤔  sharp との違いは？
 
 - **o'clock**：時刻を表すときに「～時ちょうど」と言う一般的な表現
-- **[sharp](/word/sharp)**：時刻の「きっかり」「ぴったり」を強調する表現
+- **[sharp](/word/sharp/)**：時刻の「きっかり」「ぴったり」を強調する表現
 
 o'clockは単に時刻を伝えるときに使い、sharpは「遅れずに」「ちょうどその時に」という強調を加えたいときに使います。
 
@@ -101,14 +101,14 @@ o'clockは単に時刻を伝えるときに使い、sharpは「遅れずに」�
 
 ## 🧩 あわせて覚えたい
 
-- [about](/word/about)：おおよそ、だいたい
-- [exactly](/word/exactly)：正確に、ちょうど
+- [about](/word/about/)：おおよそ、だいたい
+- [exactly](/word/exactly/)：正確に、ちょうど
 
 ---
 
 ## 📖 できればこれも
 
-- [quarter](/word/quarter)：15分（時間の4分の1）
-- [half](/word/half)：30分（半分）
+- [quarter](/word/quarter/)：15分（時間の4分の1）
+- [half](/word/half/)：30分（半分）
 
 <!-- cvid: aid45_bid20 -->

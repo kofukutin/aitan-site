@@ -97,7 +97,7 @@ TOEICでは物語や記事、インタビュー文などで「hero」が登場�
 ## 🤔  celebrity との違いは？
 
 - **hero**：勇気や行動で尊敬される人物や物語の主人公
-- **[celebrity](/word/celebrity)**：有名人、世間で広く知られている人
+- **[celebrity](/word/celebrity/)**：有名人、世間で広く知られている人
 
 heroは「尊敬」や「憧れ」の対象であるのに対し、celebrityは単に「有名」であることを指します。
 
@@ -105,14 +105,14 @@ heroは「尊敬」や「憧れ」の対象であるのに対し、celebrityは�
 
 ## 🧩 あわせて覚えたい
 
-- [villain](/word/villain)：悪役、敵役
-- [champion](/word/champion)：優勝者、擁護者
+- [villain](/word/villain/)：悪役、敵役
+- [champion](/word/champion/)：優勝者、擁護者
 
 ---
 
 ## 📖 できればこれも
 
-- [legend](/word/legend)：伝説的人物
-- [idol](/word/idol)：偶像、憧れの人
+- [legend](/word/legend/)：伝説的人物
+- [idol](/word/idol/)：偶像、憧れの人
 
 <!-- cvid: aid04_bid48 -->

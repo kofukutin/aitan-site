@@ -97,7 +97,7 @@ TOEICでは、形容詞の語彙問題やメール文の中で「enjoyable」が
 ## 🤔  pleasant との違いは？
 
 - **enjoyable**：積極的に「楽しい」「楽しめる」と感じるときに使う。
-- **[pleasant](/word/pleasant)**：心地よくて「快い」「感じが良い」といった穏やかな印象。
+- **[pleasant](/word/pleasant/)**：心地よくて「快い」「感じが良い」といった穏やかな印象。
 
 「enjoyable」は自分が積極的に楽しんでいる場面で使い、「pleasant」は雰囲気や感覚が穏やかで快い場合に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、形容詞の語彙問題やメール文の中で「enjoyable」が
 
 ## 🧩 あわせて覚えたい
 
-- [delightful](/word/delightful)：非常に楽しい、うれしい
-- [boring](/word/boring)：退屈な
+- [delightful](/word/delightful/)：非常に楽しい、うれしい
+- [boring](/word/boring/)：退屈な
 
 ---
 
 ## 📖 できればこれも
 
-- [interesting](/word/interesting)：興味深い
-- [comfortable](/word/comfortable)：快適な
+- [interesting](/word/interesting/)：興味深い
+- [comfortable](/word/comfortable/)：快適な
 
 <!-- cvid: aid23_bid27 -->

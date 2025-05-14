@@ -97,7 +97,7 @@ ITやビジネスの文脈で「記録」「ログ」として出題されるこ
 ## 🤔  record との違いは？
 
 - **log**：時系列で出来事やデータを記録したもの、特にITや航海などで使う
-- **[record](/word/record)**：広く「記録」や「記録する」こと全般を指す
+- **[record](/word/record/)**：広く「記録」や「記録する」こと全般を指す
 
 logは日々の出来事やデータを時系列で残すニュアンスが強く、recordは公式な記録や履歴全般に使われます。
 
@@ -105,14 +105,14 @@ logは日々の出来事やデータを時系列で残すニュアンスが強�
 
 ## 🧩 あわせて覚えたい
 
-- [journal](/word/journal)：日誌、日記
-- [entry](/word/entry)：記入、記載
+- [journal](/word/journal/)：日誌、日記
+- [entry](/word/entry/)：記入、記載
 
 ---
 
 ## 📖 できればこれも
 
-- [note](/word/note)：メモ、覚え書き
-- [file](/word/file)：ファイル、書類
+- [note](/word/note/)：メモ、覚え書き
+- [file](/word/file/)：ファイル、書類
 
 <!-- cvid: aid37_bid27 -->

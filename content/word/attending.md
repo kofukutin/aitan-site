@@ -97,7 +97,7 @@ TOEICでは会議やイベントの出席に関する会話や説明でよく登
 ## 🤔  participating との違いは？
 
 - **attending**：その場に物理的に出席していることを強調
-- **[participating](/word/participating)**：積極的に活動や議論に関わることを強調
+- **[participating](/word/participating/)**：積極的に活動や議論に関わることを強調
 
 attendingは「その場にいる」こと、participatingは「積極的に関わる」ことに重点があります。
 
@@ -105,14 +105,14 @@ attendingは「その場にいる」こと、participatingは「積極的に関�
 
 ## 🧩 あわせて覚えたい
 
-- [join](/word/join)：加わる、参加する
-- [absence](/word/absence)：欠席、不在
+- [join](/word/join/)：加わる、参加する
+- [absence](/word/absence/)：欠席、不在
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange)：手配する、準備する
-- [schedule](/word/schedule)：予定する、スケジュールを立てる
+- [arrange](/word/arrange/)：手配する、準備する
+- [schedule](/word/schedule/)：予定する、スケジュールを立てる
 
 <!-- cvid: aid12_bid41 -->

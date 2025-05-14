@@ -97,7 +97,7 @@ TOEICでは「be allowed to ～」の形で頻出し、許可や規則に関す�
 ## 🤔  permitted との違いは？
 
 - **allowed**：一般的な「許可された」で、日常・ビジネス問わず幅広く使う。
-- **[permitted](/word/permitted)**：よりフォーマルで、規則や法律など公式な許可を強調。
+- **[permitted](/word/permitted/)**：よりフォーマルで、規則や法律など公式な許可を強調。
 
 allowedは日常的な許可、permittedは規則や法的な許可など、より堅い場面で使われる傾向があります。
 
@@ -105,14 +105,14 @@ allowedは日常的な許可、permittedは規則や法的な許可など、よ�
 
 ## 🧩 あわせて覚えたい
 
-- [forbidden](/word/forbidden)：禁止された
-- [authorized](/word/authorized)：認可された
+- [forbidden](/word/forbidden/)：禁止された
+- [authorized](/word/authorized/)：認可された
 
 ---
 
 ## 📖 できればこれも
 
-- [required](/word/required)：必要とされる
-- [prohibited](/word/prohibited)：禁止された
+- [required](/word/required/)：必要とされる
+- [prohibited](/word/prohibited/)：禁止された
 
 <!-- cvid: aid29_bid16 -->

@@ -97,7 +97,7 @@ TOEICでは「残高」「均衡」「バランスを取る」などの意味で
 ## 🤔  equilibrium との違いは？
 
 - **balance**：日常的な「バランス」や「残高」など幅広い場面で使う
-- **[equilibrium](/word/equilibrium)**：科学的・専門的な「均衡」「平衡」を表す
+- **[equilibrium](/word/equilibrium/)**：科学的・専門的な「均衡」「平衡」を表す
 
 balanceは日常やビジネスでの調和や金銭の残高など幅広く使い、equilibriumは物理・化学や経済など専門分野での「安定した均衡」に使います。
 
@@ -105,14 +105,14 @@ balanceは日常やビジネスでの調和や金銭の残高など幅広く使�
 
 ## 🧩 あわせて覚えたい
 
-- [offset](/word/offset)：相殺するもの、埋め合わせ
-- [imbalance](/word/imbalance)：不均衡、バランスの欠如
+- [offset](/word/offset/)：相殺するもの、埋め合わせ
+- [imbalance](/word/imbalance/)：不均衡、バランスの欠如
 
 ---
 
 ## 📖 できればこれも
 
-- [budget](/word/budget)：予算
-- [account](/word/account)：口座、勘定
+- [budget](/word/budget/)：予算
+- [account](/word/account/)：口座、勘定
 
 <!-- cvid: aid34_bid07 -->

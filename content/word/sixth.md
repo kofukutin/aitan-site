@@ -98,7 +98,7 @@ TOEICでは日付や順序、順位を表す場面で出題されることが多
 ## 🤔  six との違いは？
 
 - **sixth**：順序や順位で「6番目」を表す
-- **[six](/word/six)**：単に「6」という数字を表す
+- **[six](/word/six/)**：単に「6」という数字を表す
 
 sixthは「順番」を、sixは「数そのもの」を表します。たとえば「6番目の席」はsixth seat、「6つの席」はsix seatsです。
 
@@ -106,14 +106,14 @@ sixthは「順番」を、sixは「数そのもの」を表します。たとえ
 
 ## 🧩 あわせて覚えたい
 
-- [seventh](/word/seventh)：7番目の
-- [fifth](/word/fifth)：5番目の
+- [seventh](/word/seventh/)：7番目の
+- [fifth](/word/fifth/)：5番目の
 
 ---
 
 ## 📖 できればこれも
 
-- [eighth](/word/eighth)：8番目の
-- [fourth](/word/fourth)：4番目の
+- [eighth](/word/eighth/)：8番目の
+- [fourth](/word/fourth/)：4番目の
 
 <!-- cvid: aid20_bid11 -->

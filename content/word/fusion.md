@@ -97,7 +97,7 @@ TOEICでは科学技術やビジネスの説明文、特に新しい製品やサ
 ## 🤔  combination との違いは？
 
 - **fusion**：異なるものが完全に一体化して新しいものになる融合
-- **[combination](/word/combination)**：複数のものが組み合わさるが、それぞれの特徴が残る組み合わせ
+- **[combination](/word/combination/)**：複数のものが組み合わさるが、それぞれの特徴が残る組み合わせ
 
 fusionは「溶け合って新しいものになる」イメージ、combinationは「単に一緒になる」イメージです。
 
@@ -105,14 +105,14 @@ fusionは「溶け合って新しいものになる」イメージ、combination
 
 ## 🧩 あわせて覚えたい
 
-- [blend](/word/blend)：混合、ブレンド
-- [separation](/word/separation)：分離、離脱
+- [blend](/word/blend/)：混合、ブレンド
+- [separation](/word/separation/)：分離、離脱
 
 ---
 
 ## 📖 できればこれも
 
-- [mixture](/word/mixture)：混合物
-- [integration](/word/integration)：統合、統一
+- [mixture](/word/mixture/)：混合物
+- [integration](/word/integration/)：統合、統一
 
 <!-- cvid: aid17_bid42 -->

@@ -97,7 +97,7 @@ TOEICでは、文章の「書き方」や「形式」を問う設問でよく登
 ## 🤔  fashion との違いは？
 
 - **style**：個人や物事の特徴的なやり方や表現、または服装の型
-- **[fashion](/word/fashion)**：一時的な流行や世間一般の好み
+- **[fashion](/word/fashion/)**：一時的な流行や世間一般の好み
 
 styleは「個人の特徴」や「独自性」に焦点があり、fashionは「社会的な流行」や「時代のトレンド」を指します。
 
@@ -105,14 +105,14 @@ styleは「個人の特徴」や「独自性」に焦点があり、fashionは�
 
 ## 🧩 あわせて覚えたい
 
-- [trend](/word/trend)：流行、傾向
-- [design](/word/design)：デザイン、設計
+- [trend](/word/trend/)：流行、傾向
+- [design](/word/design/)：デザイン、設計
 
 ---
 
 ## 📖 できればこれも
 
-- [pattern](/word/pattern)：パターン、模様、型
-- [method](/word/method)：方法、やり方
+- [pattern](/word/pattern/)：パターン、模様、型
+- [method](/word/method/)：方法、やり方
 
 <!-- cvid: aid27_bid16 -->

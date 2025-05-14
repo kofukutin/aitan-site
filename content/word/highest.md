@@ -97,7 +97,7 @@ TOEICでは、最上級表現や比較級の文法問題、またはグラフや
 ## 🤔  maximum との違いは？
 
 - **highest**：高さやレベル、順位などが「最も高い」ことを表す最上級形容詞
-- **[maximum](/word/maximum)**：数量や程度が「最大限」であることを表す名詞・形容詞
+- **[maximum](/word/maximum/)**：数量や程度が「最大限」であることを表す名詞・形容詞
 
 「highest」は高さや順位など幅広い「最も高い」に使い、「maximum」は数値や量の「上限・最大値」に限定されることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、最上級表現や比較級の文法問題、またはグラフや
 
 ## 🧩 あわせて覚えたい
 
-- [lowest](/word/lowest)：最も低い
-- [peak](/word/peak)：頂点、絶頂
+- [lowest](/word/lowest/)：最も低い
+- [peak](/word/peak/)：頂点、絶頂
 
 ---
 
 ## 📖 できればこれも
 
-- [tallest](/word/tallest)：最も背が高い
-- [largest](/word/largest)：最も大きい
+- [tallest](/word/tallest/)：最も背が高い
+- [largest](/word/largest/)：最も大きい
 
 <!-- cvid: aid15_bid49 -->

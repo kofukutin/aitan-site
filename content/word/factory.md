@@ -96,7 +96,7 @@ TOEICでは、工場の見学や生産に関する会話・説明でよく登場
 ## 🤔  plant との違いは？
 
 - **factory**：一般的な「工場」。製品を作る場所全般に使う。
-- **[plant](/word/plant)**：大規模な工場や発電所など、より専門的・大規模な施設に使う。
+- **[plant](/word/plant/)**：大規模な工場や発電所など、より専門的・大規模な施設に使う。
 
 factoryは日常的な「工場」全般、plantは規模が大きい工場や特定の産業施設に使われることが多いです。
 
@@ -104,14 +104,14 @@ factoryは日常的な「工場」全般、plantは規模が大きい工場や�
 
 ## 🧩 あわせて覚えたい
 
-- [workshop](/word/workshop)：作業場、小規模な工房
-- [warehouse](/word/warehouse)：倉庫
+- [workshop](/word/workshop/)：作業場、小規模な工房
+- [warehouse](/word/warehouse/)：倉庫
 
 ---
 
 ## 📖 できればこれも
 
-- [product](/word/product)：製品
-- [machine](/word/machine)：機械
+- [product](/word/product/)：製品
+- [machine](/word/machine/)：機械
 
 <!-- cvid: aid30_bid13 -->

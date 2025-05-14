@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写問題で、空港の風景や移動シーンを
 ## 🤔  station との違いは？
 
 - **airport**：飛行機の発着・利用のための空港
-- **[station](/word/station)**：電車やバスなどの発着所・駅
+- **[station](/word/station/)**：電車やバスなどの発着所・駅
 
 airportは飛行機専用の施設、stationは鉄道やバスなど様々な交通機関の発着所を指します。
 
@@ -105,14 +105,14 @@ airportは飛行機専用の施設、stationは鉄道やバスなど様々な交
 
 ## 🧩 あわせて覚えたい
 
-- [terminal](/word/terminal)：ターミナル（空港や駅の主要な建物）
-- [runway](/word/runway)：滑走路
+- [terminal](/word/terminal/)：ターミナル（空港や駅の主要な建物）
+- [runway](/word/runway/)：滑走路
 
 ---
 
 ## 📖 できればこれも
 
-- [flight](/word/flight)：フライト、便
-- [luggage](/word/luggage)：荷物
+- [flight](/word/flight/)：フライト、便
+- [luggage](/word/luggage/)：荷物
 
 <!-- cvid: aid24_bid36 -->

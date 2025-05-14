@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書や会議資料などで「外部の」「対外
 ## 🤔  outside との違いは？
 
 - **external**：外部の、外側の（フォーマルで抽象的な表現）
-- **[outside](/word/outside)**：外側、外で（より具体的・日常的な表現）
+- **[outside](/word/outside/)**：外側、外で（より具体的・日常的な表現）
 
 externalは書き言葉や専門的な場面で使われ、outsideは日常会話や物理的な「外」を指すときに使われます。
 
@@ -105,14 +105,14 @@ externalは書き言葉や専門的な場面で使われ、outsideは日常会�
 
 ## 🧩 あわせて覚えたい
 
-- [internal](/word/internal)：内部の、内側の
-- [outer](/word/outer)：外側の、外部の（externalよりカジュアル）
+- [internal](/word/internal/)：内部の、内側の
+- [outer](/word/outer/)：外側の、外部の（externalよりカジュアル）
 
 ---
 
 ## 📖 できればこれも
 
-- [internal](/word/internal)：内部の、内側の
-- [overall](/word/overall)：全体の、全般的な
+- [internal](/word/internal/)：内部の、内側の
+- [overall](/word/overall/)：全体の、全般的な
 
 <!-- cvid: aid25_bid35 -->

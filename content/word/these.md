@@ -93,7 +93,7 @@ TOEICでは会話や説明文で、複数の物や人を指す場面で頻出し
 ## 🤔  those との違いは？
 
 - **these**：話し手の近くにある複数の物や人を指す
-- **[those](/word/those)**：話し手から離れた場所にある複数の物や人を指す
+- **[those](/word/those/)**：話し手から離れた場所にある複数の物や人を指す
 
 theseは「これら」、thoseは「それら・あれら」と距離感で使い分けます。
 
@@ -101,14 +101,14 @@ theseは「これら」、thoseは「それら・あれら」と距離感で使�
 
 ## 🧩 あわせて覚えたい
 
-- [this](/word/this)：これ（単数形）
-- [that](/word/that)：それ・あれ（単数形）
+- [this](/word/this/)：これ（単数形）
+- [that](/word/that/)：それ・あれ（単数形）
 
 ---
 
 ## 📖 できればこれも
 
-- [each](/word/each)：それぞれ
-- [both](/word/both)：両方
+- [each](/word/each/)：それぞれ
+- [both](/word/both/)：両方
 
 <!-- cvid: aid00_bid26 -->

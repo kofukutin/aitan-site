@@ -97,7 +97,7 @@ IT関連やサービスの障害を伝えるメールやお知らせ文でよく
 ## 🤔  blackout との違いは？
 
 - **outage**：電気やサービスなどの供給が一時的に停止すること全般
-- **[blackout](/word/blackout)**：特に「停電」や「完全な遮断」を指す
+- **[blackout](/word/blackout/)**：特に「停電」や「完全な遮断」を指す
 
 outageは電気以外にもネットや水道など幅広いサービスの中断に使われますが、blackoutは主に電気の「停電」や情報の「遮断」に限定される傾向があります。
 
@@ -105,14 +105,14 @@ outageは電気以外にもネットや水道など幅広いサービスの中�
 
 ## 🧩 あわせて覚えたい
 
-- [failure](/word/failure)：失敗、故障
-- [interruption](/word/interruption)：中断、妨害
+- [failure](/word/failure/)：失敗、故障
+- [interruption](/word/interruption/)：中断、妨害
 
 ---
 
 ## 📖 できればこれも
 
-- [restore](/word/restore)：復旧する、元に戻す
-- [malfunction](/word/malfunction)：故障する、正常に動作しない
+- [restore](/word/restore/)：復旧する、元に戻す
+- [malfunction](/word/malfunction/)：故障する、正常に動作しない
 
 <!-- cvid: aid23_bid38 -->

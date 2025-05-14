@@ -97,7 +97,7 @@ TOEICでは会話やビジネスシーンで、情報収集や秘密保持に関
 ## 🤔  agent との違いは？
 
 - **spy**：秘密裏に情報を集める人、スパイ
-- **[agent](/word/agent)**：代理人、または公式な組織の職員
+- **[agent](/word/agent/)**：代理人、または公式な組織の職員
 
 spyは主に秘密活動や諜報活動を行う人物を指し、agentはより広く「代理人」や「職員」として使われ、必ずしも秘密活動を意味しません。
 
@@ -105,14 +105,14 @@ spyは主に秘密活動や諜報活動を行う人物を指し、agentはより
 
 ## 🧩 あわせて覚えたい
 
-- [detective](/word/detective)：探偵、捜査官
-- [informant](/word/informant)：情報提供者、密告者
+- [detective](/word/detective/)：探偵、捜査官
+- [informant](/word/informant/)：情報提供者、密告者
 
 ---
 
 ## 📖 できればこれも
 
-- [secret](/word/secret)：秘密
-- [mission](/word/mission)：任務、使命
+- [secret](/word/secret/)：秘密
+- [mission](/word/mission/)：任務、使命
 
 <!-- cvid: aid30_bid41 -->

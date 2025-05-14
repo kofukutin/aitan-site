@@ -97,7 +97,7 @@ midnightはTOEICのPart 1で、時間やシーンの描写として出題され�
 ## 🤔  noon との違いは？
 
 - **midnight**：夜の12時（午前0時）を指す
-- **[noon](/word/noon)**：昼の12時（正午）を指す
+- **[noon](/word/noon/)**：昼の12時（正午）を指す
 
 midnightは夜の始まり、noonは昼の始まりを表します。時間帯が正反対なので、使い分けに注意しましょう。
 
@@ -105,14 +105,14 @@ midnightは夜の始まり、noonは昼の始まりを表します。時間帯�
 
 ## 🧩 あわせて覚えたい
 
-- [dawn](/word/dawn)：夜明け、明け方
-- [evening](/word/evening)：夕方、晩
+- [dawn](/word/dawn/)：夜明け、明け方
+- [evening](/word/evening/)：夕方、晩
 
 ---
 
 ## 📖 できればこれも
 
-- [afternoon](/word/afternoon)：午後
-- [night](/word/night)：夜
+- [afternoon](/word/afternoon/)：午後
+- [night](/word/night/)：夜
 
 <!-- cvid: aid42_bid07 -->

@@ -97,7 +97,7 @@ TOEICでは契約書や規約、ビジネス文書の中で「legal」の語が�
 ## 🤔  lawful との違いは？
 
 - **legal**：法律に関する、法律で認められた（フォーマルな文書や法務分野で多用）
-- **[lawful](/word/lawful)**：法律に違反していない、法的に許されている
+- **[lawful](/word/lawful/)**：法律に違反していない、法的に許されている
 
 「legal」は法律や法務の分野で使われることが多く、「lawful」は「違法でない」という意味が強調される場面で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは契約書や規約、ビジネス文書の中で「legal」の語が�
 
 ## 🧩 あわせて覚えたい
 
-- [illegal](/word/illegal)：違法の
-- [legitimate](/word/legitimate)：正当な、合法の
+- [illegal](/word/illegal/)：違法の
+- [legitimate](/word/legitimate/)：正当な、合法の
 
 ---
 
 ## 📖 できればこれも
 
-- [official](/word/official)：公式の
-- [policy](/word/policy)：方針、政策
+- [official](/word/official/)：公式の
+- [policy](/word/policy/)：方針、政策
 
 <!-- cvid: aid10_bid11 -->

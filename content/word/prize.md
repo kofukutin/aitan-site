@@ -97,7 +97,7 @@ TOEICでは、表彰やイベント、キャンペーンの文脈で「prize」�
 ## 🤔  award との違いは？
 
 - **prize**：競争やコンテストで勝った人に与えられる「賞」や「賞品」
-- **[award](/word/award)**：業績や貢献などに対して公式に与えられる「賞」や「表彰」
+- **[award](/word/award/)**：業績や貢献などに対して公式に与えられる「賞」や「表彰」
 
 prizeは「勝者へのごほうび」、awardは「評価や功績への公式な表彰」という違いがあります。
 
@@ -105,14 +105,14 @@ prizeは「勝者へのごほうび」、awardは「評価や功績への公式�
 
 ## 🧩 あわせて覚えたい
 
-- [reward](/word/reward)：努力や行動への報酬
-- [gift](/word/gift)：贈り物、プレゼント
+- [reward](/word/reward/)：努力や行動への報酬
+- [gift](/word/gift/)：贈り物、プレゼント
 
 ---
 
 ## 📖 できればこれも
 
-- [contest](/word/contest)：コンテスト、競技会
-- [winner](/word/winner)：勝者
+- [contest](/word/contest/)：コンテスト、競技会
+- [winner](/word/winner/)：勝者
 
 <!-- cvid: aid11_bid11 -->

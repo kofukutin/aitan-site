@@ -96,7 +96,7 @@ TOEICでは、イベント案内やEメール、広告文などで「concert」�
 ## 🤔  performance との違いは？
 
 - **concert**：音楽の演奏会やライブイベントなど、観客の前で行われる音楽会を指す。
-- **[performance](/word/performance)**：演劇やダンス、音楽など幅広い「公演」「演技」「上演」を指す。
+- **[performance](/word/performance/)**：演劇やダンス、音楽など幅広い「公演」「演技」「上演」を指す。
 
 concertは主に音楽イベントに限定されるのに対し、performanceは音楽以外の舞台芸術全般にも使われます。
 
@@ -104,14 +104,14 @@ concertは主に音楽イベントに限定されるのに対し、performance�
 
 ## 🧩 あわせて覚えたい
 
-- [recital](/word/recital)：（小規模な）独奏会、発表会
-- [festival](/word/festival)：祭り、フェスティバル
+- [recital](/word/recital/)：（小規模な）独奏会、発表会
+- [festival](/word/festival/)：祭り、フェスティバル
 
 ---
 
 ## 📖 できればこれも
 
-- [event](/word/event)：イベント、行事
-- [show](/word/show)：ショー、見せ物
+- [event](/word/event/)：イベント、行事
+- [show](/word/show/)：ショー、見せ物
 
 <!-- cvid: aid45_bid23 -->

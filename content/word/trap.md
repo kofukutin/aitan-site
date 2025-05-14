@@ -97,7 +97,7 @@ trapは、会議や交渉の場面で「落とし穴」や「罠」として比�
 ## 🤔  trick との違いは？
 
 - **trap**：人を陥れるための「わな」や「落とし穴」そのもの
-- **[trick](/word/trick)**：だますための「手口」や「いたずら」
+- **[trick](/word/trick/)**：だますための「手口」や「いたずら」
 
 trapは物理的・比喩的な「罠」自体を指し、trickは人をだます「方法」や「行為」を指します。
 
@@ -105,14 +105,14 @@ trapは物理的・比喩的な「罠」自体を指し、trickは人をだま�
 
 ## 🧩 あわせて覚えたい
 
-- [snare](/word/snare)：（動物などを捕まえる）わな
-- [danger](/word/danger)：危険
+- [snare](/word/snare/)：（動物などを捕まえる）わな
+- [danger](/word/danger/)：危険
 
 ---
 
 ## 📖 できればこれも
 
-- [risk](/word/risk)：リスク、危険
-- [issue](/word/issue)：問題、課題
+- [risk](/word/risk/)：リスク、危険
+- [issue](/word/issue/)：問題、課題
 
 <!-- cvid: aid30_bid01 -->

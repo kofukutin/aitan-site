@@ -97,7 +97,7 @@ TOEICでは観光や文化紹介の記事、イベント案内などで登場す
 ## 🤔  salsa との違いは？
 
 - **samba**：ブラジル発祥のリズミカルなダンス・音楽。
-- **[salsa](/word/salsa)**：主にキューバやプエルトリコ発祥のラテン音楽・ダンス。
+- **[salsa](/word/salsa/)**：主にキューバやプエルトリコ発祥のラテン音楽・ダンス。
 
 sambaはブラジルのカーニバルなどで有名なダンスで、salsaはよりラテンアメリカ全体で親しまれているダンスです。
 
@@ -105,14 +105,14 @@ sambaはブラジルのカーニバルなどで有名なダンスで、salsaは�
 
 ## 🧩 あわせて覚えたい
 
-- [tango](/word/tango)：アルゼンチン発祥のペアダンス
-- [carnival](/word/carnival)：カーニバル、祭り
+- [tango](/word/tango/)：アルゼンチン発祥のペアダンス
+- [carnival](/word/carnival/)：カーニバル、祭り
 
 ---
 
 ## 📖 できればこれも
 
-- [festival](/word/festival)：祭り、フェスティバル
-- [parade](/word/parade)：パレード、行進
+- [festival](/word/festival/)：祭り、フェスティバル
+- [parade](/word/parade/)：パレード、行進
 
 <!-- cvid: aid09_bid48 -->

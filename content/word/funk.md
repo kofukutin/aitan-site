@@ -97,7 +97,7 @@ TOEICではPart 7の長文やメール文で、気分や感情の表現として
 ## 🤔  depression との違いは？
 
 - **funk**：一時的な落ち込みや気分の沈み、または恐怖による回避をカジュアルに表現
-- **[depression](/word/depression)**：医学的・深刻な「うつ病」や長期間の強い落ち込み
+- **[depression](/word/depression/)**：医学的・深刻な「うつ病」や長期間の強い落ち込み
 
 funkは一時的で軽めの気分の落ち込みを指し、depressionは医学的・長期的な深刻さを持つ点が異なります。
 
@@ -105,14 +105,14 @@ funkは一時的で軽めの気分の落ち込みを指し、depressionは医学
 
 ## 🧩 あわせて覚えたい
 
-- [anxiety](/word/anxiety)：不安、心配
-- [panic](/word/panic)：パニック、突然の恐怖
+- [anxiety](/word/anxiety/)：不安、心配
+- [panic](/word/panic/)：パニック、突然の恐怖
 
 ---
 
 ## 📖 できればこれも
 
-- [mood](/word/mood)：気分、雰囲気
-- [stress](/word/stress)：ストレス、緊張
+- [mood](/word/mood/)：気分、雰囲気
+- [stress](/word/stress/)：ストレス、緊張
 
 <!-- cvid: aid23_bid18 -->

@@ -97,7 +97,7 @@ TOEICでは家族写真や日常の場面を描写する問題で「dad」が登
 ## 🤔  father との違いは？
 
 - **dad**：家族や親しい人同士で使うカジュアルな「お父さん」
-- **[father](/word/father)**：フォーマルな場面や書類などで使う「父」
+- **[father](/word/father/)**：フォーマルな場面や書類などで使う「父」
 
 「dad」は親しみやすい響きで、日常会話や子どもが使う表現です。「father」は改まった場面や正式な書き方で使われます。
 
@@ -105,14 +105,14 @@ TOEICでは家族写真や日常の場面を描写する問題で「dad」が登
 
 ## 🧩 あわせて覚えたい
 
-- [mom](/word/mom)：お母さん
-- [parent](/word/parent)：親
+- [mom](/word/mom/)：お母さん
+- [parent](/word/parent/)：親
 
 ---
 
 ## 📖 できればこれも
 
-- [child](/word/child)：子ども
-- [family](/word/family)：家族
+- [child](/word/child/)：子ども
+- [family](/word/family/)：家族
 
 <!-- cvid: aid14_bid13 -->

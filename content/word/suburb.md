@@ -97,7 +97,7 @@ TOEICでは、住宅やオフィスの立地、都市計画などの話題で「
 ## 🤔  outskirts との違いは？
 
 - **suburb**：都市の中心部から少し離れた住宅地や商業地を指す。
-- **[outskirts](/word/outskirts)**：都市や町の最も外側、端の部分を指す。
+- **[outskirts](/word/outskirts/)**：都市や町の最も外側、端の部分を指す。
 
 suburbは「郊外の住宅地」など生活圏を指すのに対し、outskirtsは「町のはずれ」などより外側・境界に近い場所を表します。
 
@@ -105,14 +105,14 @@ suburbは「郊外の住宅地」など生活圏を指すのに対し、outskirt
 
 ## 🧩 あわせて覚えたい
 
-- [downtown](/word/downtown)：都市の中心部
-- [residential_area](/word/residential_area)：住宅地
+- [downtown](/word/downtown/)：都市の中心部
+- [residential_area](/word/residential_area/)：住宅地
 
 ---
 
 ## 📖 できればこれも
 
-- [urban](/word/urban)：都市の、都会の
-- [neighbor](/word/neighbor)：隣人、近所の人
+- [urban](/word/urban/)：都市の、都会の
+- [neighbor](/word/neighbor/)：隣人、近所の人
 
 <!-- cvid: aid46_bid44 -->

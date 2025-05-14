@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、人や動物の「肌」や「皮膚
 ## 🤔  surface との違いは？
 
 - **skin**：生き物の皮膚や果物の皮など、自然にできた「表面」を指す
-- **[surface](/word/surface)**：物体の「表面」全般（生き物・無生物問わず）を指す
+- **[surface](/word/surface/)**：物体の「表面」全般（生き物・無生物問わず）を指す
 
 skinは生き物や果物など「自然の皮」に限定されるのに対し、surfaceは机や壁などあらゆる物の「表面」に使います。
 
@@ -105,14 +105,14 @@ skinは生き物や果物など「自然の皮」に限定されるのに対し�
 
 ## 🧩 あわせて覚えたい
 
-- [layer](/word/layer)：層、重なり
-- [tissue](/word/tissue)：組織（生物の細胞の集まり）
+- [layer](/word/layer/)：層、重なり
+- [tissue](/word/tissue/)：組織（生物の細胞の集まり）
 
 ---
 
 ## 📖 できればこれも
 
-- [bone](/word/bone)：骨
-- [muscle](/word/muscle)：筋肉
+- [bone](/word/bone/)：骨
+- [muscle](/word/muscle/)：筋肉
 
 <!-- cvid: aid26_bid27 -->

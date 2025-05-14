@@ -97,7 +97,7 @@ TOEICでは主に科学や技術、ビジネスの説明文や記事で登場し
 ## 🤔  test との違いは？
 
 - **experiment**：科学的な仮説や理論を検証するための体系的な「実験」
-- **[test](/word/test)**：知識や性能などを評価するための「テスト」や「試験」
+- **[test](/word/test/)**：知識や性能などを評価するための「テスト」や「試験」
 
 experimentは新しい発見や理論の検証に使われ、testは既存の知識や能力の確認に使われます。
 
@@ -105,14 +105,14 @@ experimentは新しい発見や理論の検証に使われ、testは既存の知
 
 ## 🧩 あわせて覚えたい
 
-- [research](/word/research)：研究、調査
-- [trial](/word/trial)：試み、試行
+- [research](/word/research/)：研究、調査
+- [trial](/word/trial/)：試み、試行
 
 ---
 
 ## 📖 できればこれも
 
-- [analyze](/word/analyze)：分析する
-- [result](/word/result)：結果
+- [analyze](/word/analyze/)：分析する
+- [result](/word/result/)：結果
 
 <!-- cvid: aid25_bid24 -->

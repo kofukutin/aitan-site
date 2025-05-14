@@ -97,7 +97,7 @@ orientationはTOEICの説明文や案内文で、新入社員研修や新しい�
 ## 🤔  direction との違いは？
 
 - **orientation**：新しい環境への適応や説明会、または物事の方向付け
-- **[direction](/word/direction)**：進むべき道や指示、方角
+- **[direction](/word/direction/)**：進むべき道や指示、方角
 
 orientationは「慣れるための説明」や「全体の方向性」に重点があり、directionは「具体的な進路」や「指示」に使われます。
 
@@ -105,14 +105,14 @@ orientationは「慣れるための説明」や「全体の方向性」に重点
 
 ## 🧩 あわせて覚えたい
 
-- [introduction](/word/introduction)：紹介、導入
-- [guidance](/word/guidance)：指導、案内
+- [introduction](/word/introduction/)：紹介、導入
+- [guidance](/word/guidance/)：指導、案内
 
 ---
 
 ## 📖 できればこれも
 
-- [procedure](/word/procedure)：手順、手続き
-- [policy](/word/policy)：方針、政策
+- [procedure](/word/procedure/)：手順、手続き
+- [policy](/word/policy/)：方針、政策
 
 <!-- cvid: aid14_bid13 -->

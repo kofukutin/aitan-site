@@ -97,7 +97,7 @@ TOEICでは、報告書や調査結果、法務関連の長文で「evidence」�
 ## 🤔  proof との違いは？
 
 - **evidence**：事実や主張を裏付けるための証拠や根拠（集められた情報やデータ）
-- **[proof](/word/proof)**：決定的な証明・証拠（疑いの余地がないもの）
+- **[proof](/word/proof/)**：決定的な証明・証拠（疑いの余地がないもの）
 
 evidenceは「証拠となる材料全般」、proofは「疑いなく事実と認められる決定的な証拠」という違いがあります。
 
@@ -105,14 +105,14 @@ evidenceは「証拠となる材料全般」、proofは「疑いなく事実と�
 
 ## 🧩 あわせて覚えたい
 
-- [testimony](/word/testimony)：証言
-- [indication](/word/indication)：兆候、しるし
+- [testimony](/word/testimony/)：証言
+- [indication](/word/indication/)：兆候、しるし
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document)：文書、書類
-- [fact](/word/fact)：事実
+- [document](/word/document/)：文書、書類
+- [fact](/word/fact/)：事実
 
 <!-- cvid: aid15_bid32 -->

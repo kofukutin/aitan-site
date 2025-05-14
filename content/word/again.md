@@ -105,14 +105,14 @@ againは日常会話やビジネスで幅広く使われ、once moreは強調や
 
 ## 🧩 あわせて覚えたい
 
-- [repeat](/word/repeat)：繰り返す
-- [still](/word/still)：まだ、いまだに
+- [repeat](/word/repeat/)：繰り返す
+- [still](/word/still/)：まだ、いまだに
 
 ---
 
 ## 📖 できればこれも
 
-- [already](/word/already)：すでに
-- [soon](/word/soon)：まもなく
+- [already](/word/already/)：すでに
+- [soon](/word/soon/)：まもなく
 
 <!-- cvid: aid08_bid21 -->

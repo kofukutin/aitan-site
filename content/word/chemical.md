@@ -97,7 +97,7 @@ TOEICでは工場や研究、製品説明などの文脈で「chemical」が登�
 ## 🤔  drug との違いは？
 
 - **chemical**：化学的に作られた物質全般を指し、薬品や工業製品など幅広く使う。
-- **[drug](/word/drug)**：主に医薬品や薬物を指し、治療や健康に関わる意味が強い。
+- **[drug](/word/drug/)**：主に医薬品や薬物を指し、治療や健康に関わる意味が強い。
 
 chemicalは「物質」としての広い意味、drugは「薬」としての用途や効果に焦点があります。
 
@@ -105,14 +105,14 @@ chemicalは「物質」としての広い意味、drugは「薬」としての�
 
 ## 🧩 あわせて覚えたい
 
-- [substance](/word/substance)：物質、実体
-- [compound](/word/compound)：化合物
+- [substance](/word/substance/)：物質、実体
+- [compound](/word/compound/)：化合物
 
 ---
 
 ## 📖 できればこれも
 
-- [laboratory](/word/laboratory)：実験室、研究所
-- [formula](/word/formula)：式、処方、決まり文句
+- [laboratory](/word/laboratory/)：実験室、研究所
+- [formula](/word/formula/)：式、処方、決まり文句
 
 <!-- cvid: aid45_bid41 -->

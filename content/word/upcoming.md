@@ -96,7 +96,7 @@ TOEICでは会議やイベント、予定に関する会話や説明文でよく
 ## 🤔  approaching との違いは？
 
 - **upcoming**：予定やイベントなど「これからやってくる」ことを客観的に表す
-- **[approaching](/word/approaching)**：時間や距離的に「近づいている」ことを強調し、切迫感がやや強い
+- **[approaching](/word/approaching/)**：時間や距離的に「近づいている」ことを強調し、切迫感がやや強い
 
 upcomingは予定やイベントの案内などでよく使われ、approachingは「締切が迫る」など緊張感を伴う場面で使われます。
 
@@ -104,14 +104,14 @@ upcomingは予定やイベントの案内などでよく使われ、approaching�
 
 ## 🧩 あわせて覚えたい
 
-- [forthcoming](/word/forthcoming)：近々やってくる、間近の
-- [previous](/word/previous)：前の、以前の
+- [forthcoming](/word/forthcoming/)：近々やってくる、間近の
+- [previous](/word/previous/)：前の、以前の
 
 ---
 
 ## 📖 できればこれも
 
-- [recent](/word/recent)：最近の
-- [current](/word/current)：現在の
+- [recent](/word/recent/)：最近の
+- [current](/word/current/)：現在の
 
 <!-- cvid: aid13_bid29 -->

@@ -97,7 +97,7 @@ TOEICでは、ネットワークや人間関係、ビジネス上の「つなが
 ## 🤔  relation との違いは？
 
 - **connection**：物理的・人的な「つながり」や「接続」を幅広く表す
-- **[relation](/word/relation)**：主に「関係性」や「関連性」を抽象的に表す
+- **[relation](/word/relation/)**：主に「関係性」や「関連性」を抽象的に表す
 
 connectionは実際のつながりやネットワーク、relationは抽象的な関係や関連性を指す場面で使い分けます。
 
@@ -105,14 +105,14 @@ connectionは実際のつながりやネットワーク、relationは抽象的�
 
 ## 🧩 あわせて覚えたい
 
-- [link](/word/link)：リンク、関連、つなぐもの
-- [network](/word/network)：ネットワーク、人的なつながり
+- [link](/word/link/)：リンク、関連、つなぐもの
+- [network](/word/network/)：ネットワーク、人的なつながり
 
 ---
 
 ## 📖 できればこれも
 
-- [contact](/word/contact)：連絡先、接触
-- [association](/word/association)：協会、連想、関係
+- [contact](/word/contact/)：連絡先、接触
+- [association](/word/association/)：協会、連想、関係
 
 <!-- cvid: aid15_bid14 -->

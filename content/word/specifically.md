@@ -97,7 +97,7 @@ TOEICの長文読解や説明文で、内容を限定したり、詳細を明確
 ## 🤔  especially との違いは？
 
 - **specifically**：特定のものや内容を明確に区別して述べるときに使う
-- **[especially](/word/especially)**：多くの中から「特に」目立つものを強調するときに使う
+- **[especially](/word/especially/)**：多くの中から「特に」目立つものを強調するときに使う
 
 「specifically」は「限定・明確化」に重点があり、「especially」は「強調・目立たせる」ニュアンスです。
 
@@ -105,14 +105,14 @@ TOEICの長文読解や説明文で、内容を限定したり、詳細を明確
 
 ## 🧩 あわせて覚えたい
 
-- [precisely](/word/precisely)：正確に、まさに
-- [generally](/word/generally)：一般的に
+- [precisely](/word/precisely/)：正確に、まさに
+- [generally](/word/generally/)：一般的に
 
 ---
 
 ## 📖 できればこれも
 
-- [particularly](/word/particularly)：特に、とりわけ
-- [explicitly](/word/explicitly)：明確に、はっきりと
+- [particularly](/word/particularly/)：特に、とりわけ
+- [explicitly](/word/explicitly/)：明確に、はっきりと
 
 <!-- cvid: aid27_bid48 -->

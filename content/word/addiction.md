@@ -97,7 +97,7 @@ addictionは医療や健康、社会問題を扱う長文読解パートで見�
 ## 🤔  dependence との違いは？
 
 - **addiction**：自分の意思でやめられない強い依存や中毒を指し、否定的な意味合いが強い。
-- **[dependence](/word/dependence)**：依存状態全般を指し、addictionより広い意味で使われるが、必ずしも中毒的・否定的とは限らない。
+- **[dependence](/word/dependence/)**：依存状態全般を指し、addictionより広い意味で使われるが、必ずしも中毒的・否定的とは限らない。
 
 addictionは主に薬物やアルコールなどの「やめたくてもやめられない」深刻な依存に使い、dependenceは人や物への一般的な依存にも使われます。
 
@@ -105,14 +105,14 @@ addictionは主に薬物やアルコールなどの「やめたくてもやめ�
 
 ## 🧩 あわせて覚えたい
 
-- [abuse](/word/abuse)：乱用、虐待
-- [habit](/word/habit)：習慣、癖
+- [abuse](/word/abuse/)：乱用、虐待
+- [habit](/word/habit/)：習慣、癖
 
 ---
 
 ## 📖 できればこれも
 
-- [treatment](/word/treatment)：治療、処置
-- [symptom](/word/symptom)：症状
+- [treatment](/word/treatment/)：治療、処置
+- [symptom](/word/symptom/)：症状
 
 <!-- cvid: aid24_bid45 -->

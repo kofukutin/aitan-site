@@ -97,7 +97,7 @@ TOEICでは主に技術や機械に関する文脈で出題されることが多
 ## 🤔  revolving との違いは？
 
 - **rotary**：軸を中心に連続して回転する性質や構造を強調
-- **[revolving](/word/revolving)**：回転運動そのものや、回転している状態を強調
+- **[revolving](/word/revolving/)**：回転運動そのものや、回転している状態を強調
 
 rotaryは「回転式の装置」など構造や仕組みに使われ、revolvingは「回転している動作」や「回転ドア」など動きそのものに使われます。
 
@@ -105,14 +105,14 @@ rotaryは「回転式の装置」など構造や仕組みに使われ、revolvin
 
 ## 🧩 あわせて覚えたい
 
-- [circular](/word/circular)：円形の、循環する
-- [linear](/word/linear)：直線の
+- [circular](/word/circular/)：円形の、循環する
+- [linear](/word/linear/)：直線の
 
 ---
 
 ## 📖 できればこれも
 
-- [mechanical](/word/mechanical)：機械の、機械的な
-- [axis](/word/axis)：軸、中心線
+- [mechanical](/word/mechanical/)：機械の、機械的な
+- [axis](/word/axis/)：軸、中心線
 
 <!-- cvid: aid06_bid40 -->

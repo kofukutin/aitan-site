@@ -97,7 +97,7 @@ IT分野の長文や説明文で、システムやソフトウェアの不具合
 ## 🤔  troubleshoot との違いは？
 
 - **debug**：主にプログラムやシステムのバグ（エラー）を見つけて修正すること
-- **[troubleshoot](/word/troubleshoot)**：問題や不具合の原因を調べて解決策を探すこと全般
+- **[troubleshoot](/word/troubleshoot/)**：問題や不具合の原因を調べて解決策を探すこと全般
 
 debugはプログラムのバグ修正に特化し、troubleshootはより広い問題解決全般に使われます。
 
@@ -105,14 +105,14 @@ debugはプログラムのバグ修正に特化し、troubleshootはより広い
 
 ## 🧩 あわせて覚えたい
 
-- [fix](/word/fix)：修理する、直す
-- [analyze](/word/analyze)：分析する
+- [fix](/word/fix/)：修理する、直す
+- [analyze](/word/analyze/)：分析する
 
 ---
 
 ## 📖 できればこれも
 
-- [install](/word/install)：インストールする
-- [configure](/word/configure)：設定する
+- [install](/word/install/)：インストールする
+- [configure](/word/configure/)：設定する
 
 <!-- cvid: aid30_bid41 -->

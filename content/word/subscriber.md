@@ -97,7 +97,7 @@ TOEICでは、メールや案内文、ウェブサイトの説明文などで「
 ## 🤔  member との違いは？
 
 - **subscriber**：サービスや雑誌などを「購読・登録」している人
-- **[member](/word/member)**：クラブや団体などの「会員」
+- **[member](/word/member/)**：クラブや団体などの「会員」
 
 subscriberは主に購読や登録型サービスの利用者、memberは組織やグループの一員としての会員を指します。
 
@@ -105,14 +105,14 @@ subscriberは主に購読や登録型サービスの利用者、memberは組織�
 
 ## 🧩 あわせて覚えたい
 
-- [customer](/word/customer)：顧客、購入者
-- [follower](/word/follower)：（SNSなどの）フォロワー
+- [customer](/word/customer/)：顧客、購入者
+- [follower](/word/follower/)：（SNSなどの）フォロワー
 
 ---
 
 ## 📖 できればこれも
 
-- [subscription](/word/subscription)：購読、加入
-- [newsletter](/word/newsletter)：ニュースレター、会報
+- [subscription](/word/subscription/)：購読、加入
+- [newsletter](/word/newsletter/)：ニュースレター、会報
 
 <!-- cvid: aid28_bid28 -->

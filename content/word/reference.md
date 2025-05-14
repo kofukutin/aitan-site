@@ -97,7 +97,7 @@ TOEICでは、求人広告や履歴書、ビジネス文書の中で「reference
 ## 🤔  recommendation との違いは？
 
 - **reference**：主に就職や学術での「推薦者」「推薦状」「参照先」を指す
-- **[recommendation](/word/recommendation)**：一般的な「推薦」「推薦文」を指し、より広い場面で使われる
+- **[recommendation](/word/recommendation/)**：一般的な「推薦」「推薦文」を指し、より広い場面で使われる
 
 referenceは特定の人物や文献を「参照」や「推薦者」として挙げる場合に使い、recommendationは「推薦する行為」や「推薦文」自体を指します。
 
@@ -105,14 +105,14 @@ referenceは特定の人物や文献を「参照」や「推薦者」として�
 
 ## 🧩 あわせて覚えたい
 
-- [citation](/word/citation)：引用、出典
-- [source](/word/source)：情報源、出典
+- [citation](/word/citation/)：引用、出典
+- [source](/word/source/)：情報源、出典
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document)：文書、書類
-- [resource](/word/resource)：資源、情報源
+- [document](/word/document/)：文書、書類
+- [resource](/word/resource/)：資源、情報源
 
 <!-- cvid: aid36_bid04 -->

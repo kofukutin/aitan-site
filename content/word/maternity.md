@@ -97,7 +97,7 @@ TOEICでは、福利厚生や人事関連の長文、社内通知、求人広告
 ## 🤔  pregnancy との違いは？
 
 - **maternity**：母性や妊娠・出産に関する状態や制度全般を指す
-- **[pregnancy](/word/pregnancy)**：妊娠そのもの、妊娠期間を指す
+- **[pregnancy](/word/pregnancy/)**：妊娠そのもの、妊娠期間を指す
 
 **maternity**は「母であること」や「産休」など幅広い意味で使われ、**pregnancy**は「妊娠」という医学的・生物学的な状態を指します。
 
@@ -105,14 +105,14 @@ TOEICでは、福利厚生や人事関連の長文、社内通知、求人広告
 
 ## 🧩 あわせて覚えたい
 
-- [paternity](/word/paternity)：父性、父親であること
-- [childbirth](/word/childbirth)：出産
+- [paternity](/word/paternity/)：父性、父親であること
+- [childbirth](/word/childbirth/)：出産
 
 ---
 
 ## 📖 できればこれも
 
-- [parental](/word/parental)：親の、親としての
-- [nursery](/word/nursery)：保育園、託児所
+- [parental](/word/parental/)：親の、親としての
+- [nursery](/word/nursery/)：保育園、託児所
 
 <!-- cvid: aid43_bid34 -->

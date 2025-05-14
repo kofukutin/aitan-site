@@ -97,7 +97,7 @@ TOEICでは主にPart 5の文法問題で、動詞の時制や語形選択とし
 ## 🤔  happen との違いは？
 
 - **occurred**：ややフォーマルで、出来事や事故などが「発生した」ときに使う。
-- **[happen](/word/happen)**：カジュアルで、日常的な出来事や偶然のことに幅広く使う。
+- **[happen](/word/happen/)**：カジュアルで、日常的な出来事や偶然のことに幅広く使う。
 
 occurredは公式な文書やビジネスシーンでよく使われ、happenは日常会話でよく使われます。
 
@@ -105,14 +105,14 @@ occurredは公式な文書やビジネスシーンでよく使われ、happenは
 
 ## 🧩 あわせて覚えたい
 
-- [arise](/word/arise)：（問題・困難などが）生じる
-- [take place](/word/take_place)：（予定されたことが）行われる、起こる
+- [arise](/word/arise/)：（問題・困難などが）生じる
+- [take place](/word/take_place/)：（予定されたことが）行われる、起こる
 
 ---
 
 ## 📖 できればこれも
 
-- [appear](/word/appear)：現れる、出現する
-- [emerge](/word/emerge)：現れる、明らかになる
+- [appear](/word/appear/)：現れる、出現する
+- [emerge](/word/emerge/)：現れる、明らかになる
 
 <!-- cvid: aid00_bid13 -->

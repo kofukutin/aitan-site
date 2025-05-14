@@ -97,7 +97,7 @@ TOEICでは主にビジネスや業界団体の「大会」「会議」などの
 ## 🤔  conference との違いは？
 
 - **convention**：大規模で定期的な会議や、社会的な慣習・協定も指す
-- **[conference](/word/conference)**：主に意見交換や討議を目的とした会議
+- **[conference](/word/conference/)**：主に意見交換や討議を目的とした会議
 
 conventionは「大規模な集まり」や「慣習」も含み、conferenceは「討議・協議」に重点があります。
 
@@ -105,14 +105,14 @@ conventionは「大規模な集まり」や「慣習」も含み、conferenceは
 
 ## 🧩 あわせて覚えたい
 
-- [custom](/word/custom)：習慣、しきたり
-- [seminar](/word/seminar)：セミナー、講習会
+- [custom](/word/custom/)：習慣、しきたり
+- [seminar](/word/seminar/)：セミナー、講習会
 
 ---
 
 ## 📖 できればこれも
 
-- [session](/word/session)：会議の1回の集まり、セッション
-- [agreement](/word/agreement)：合意、協定
+- [session](/word/session/)：会議の1回の集まり、セッション
+- [agreement](/word/agreement/)：合意、協定
 
 <!-- cvid: aid05_bid14 -->

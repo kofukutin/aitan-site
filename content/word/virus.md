@@ -97,7 +97,7 @@ Our computers were infected by a virus last week.
 ## 🤔  bacteria との違いは？
 
 - **virus**：ウイルス。生物と非生物の中間的存在で、自己増殖できず、宿主の細胞内でのみ増える。
-- **[bacteria](/word/bacteria)**：細菌。単細胞の微生物で、自己増殖が可能。
+- **[bacteria](/word/bacteria/)**：細菌。単細胞の微生物で、自己増殖が可能。
 
 virusは細胞を持たず、自己増殖できない点がbacteriaと大きく異なります。bacteriaは抗生物質が効きますが、virusには効きません。
 
@@ -105,14 +105,14 @@ virusは細胞を持たず、自己増殖できない点がbacteriaと大きく�
 
 ## 🧩 あわせて覚えたい
 
-- [infection](/word/infection)：感染
-- [antibody](/word/antibody)：抗体
+- [infection](/word/infection/)：感染
+- [antibody](/word/antibody/)：抗体
 
 ---
 
 ## 📖 できればこれも
 
-- [disease](/word/disease)：病気
-- [symptom](/word/symptom)：症状
+- [disease](/word/disease/)：病気
+- [symptom](/word/symptom/)：症状
 
 <!-- cvid: aid47_bid04 -->

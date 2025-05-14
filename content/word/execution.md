@@ -97,7 +97,7 @@ TOEICではビジネス文脈で「計画の実行」「業務の遂行」など
 ## 🤔  implementation との違いは？
 
 - **execution**：計画や命令を実際に行動に移すこと、実行の過程や方法に焦点。
-- **[implementation](/word/implementation)**：計画や方針を具体的な形にして導入すること、仕組み化や制度化に焦点。
+- **[implementation](/word/implementation/)**：計画や方針を具体的な形にして導入すること、仕組み化や制度化に焦点。
 
 executionは「実際にやること」に重きを置き、implementationは「仕組みや制度として導入すること」に重点があります。
 
@@ -105,14 +105,14 @@ executionは「実際にやること」に重きを置き、implementationは「
 
 ## 🧩 あわせて覚えたい
 
-- [operation](/word/operation)：運用、操作
-- [completion](/word/completion)：完了、終了
+- [operation](/word/operation/)：運用、操作
+- [completion](/word/completion/)：完了、終了
 
 ---
 
 ## 📖 できればこれも
 
-- [strategy](/word/strategy)：戦略
-- [procedure](/word/procedure)：手順、手続き
+- [strategy](/word/strategy/)：戦略
+- [procedure](/word/procedure/)：手順、手続き
 
 <!-- cvid: aid15_bid42 -->

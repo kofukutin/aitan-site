@@ -97,7 +97,7 @@ assumeはTOEICの文法・語彙問題（Part 5）で頻出し、特に「仮定
 ## 🤔  suppose との違いは？
 
 - **assume**：証拠が十分でないまま何かを仮定する、または責任・役割を引き受ける意味もある
-- **[suppose](/word/suppose)**：ややカジュアルに「～だと思う」「仮定する」と言うときに使う
+- **[suppose](/word/suppose/)**：ややカジュアルに「～だと思う」「仮定する」と言うときに使う
 
 assumeはフォーマルで、根拠が薄い場合や責任を引き受ける意味も含みますが、supposeは日常的で「～かな」と軽く考えるニュアンスです。
 
@@ -105,14 +105,14 @@ assumeはフォーマルで、根拠が薄い場合や責任を引き受ける�
 
 ## 🧩 あわせて覚えたい
 
-- [presume](/word/presume)：推定する（assumeより根拠がやや強い）
-- [accept](/word/accept)：受け入れる、引き受ける
+- [presume](/word/presume/)：推定する（assumeより根拠がやや強い）
+- [accept](/word/accept/)：受け入れる、引き受ける
 
 ---
 
 ## 📖 できればこれも
 
-- [estimate](/word/estimate)：見積もる、推定する
-- [consider](/word/consider)：よく考える、検討する
+- [estimate](/word/estimate/)：見積もる、推定する
+- [consider](/word/consider/)：よく考える、検討する
 
 <!-- cvid: aid24_bid12 -->

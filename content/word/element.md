@@ -98,7 +98,7 @@ TOEICでは説明文や記事、科学・技術系の長文で「要素」「成
 ## 🤔  component との違いは？
 
 - **element**：全体を構成する基本的な要素や成分、抽象的な「要素」も含む
-- **[component](/word/component)**：機械やシステムなどの「部品」「構成部」など、物理的な部分を強調
+- **[component](/word/component/)**：機械やシステムなどの「部品」「構成部」など、物理的な部分を強調
 
 elementは抽象的・科学的な「要素」にも使われ、componentは機械やシステムの「部品」など具体的な部分に使われます。
 
@@ -106,14 +106,14 @@ elementは抽象的・科学的な「要素」にも使われ、componentは機�
 
 ## 🧩 あわせて覚えたい
 
-- [factor](/word/factor)：要因、原因
-- [aspect](/word/aspect)：側面、観点
+- [factor](/word/factor/)：要因、原因
+- [aspect](/word/aspect/)：側面、観点
 
 ---
 
 ## 📖 できればこれも
 
-- [material](/word/material)：材料、素材
-- [structure](/word/structure)：構造、仕組み
+- [material](/word/material/)：材料、素材
+- [structure](/word/structure/)：構造、仕組み
 
 <!-- cvid: aid21_bid49 -->

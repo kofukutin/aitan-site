@@ -97,7 +97,7 @@ TOEICではPart 5の語彙問題や、ビジネス文書の中で「再検討す
 ## 🤔  review との違いは？
 
 - **reconsider**：一度決めたことや考えたことを再度よく考え直す
-- **[review](/word/review)**：内容や状況を見直す・評価する
+- **[review](/word/review/)**：内容や状況を見直す・評価する
 
 reconsiderは「再考する」＝もう一度深く考え直すニュアンス、reviewは「見直す・評価する」＝内容をチェック・検討するニュアンスです。
 
@@ -105,14 +105,14 @@ reconsiderは「再考する」＝もう一度深く考え直すニュアンス�
 
 ## 🧩 あわせて覚えたい
 
-- [reject](/word/reject)：拒否する
-- [rethink](/word/rethink)：考え直す、再考する
+- [reject](/word/reject/)：拒否する
+- [rethink](/word/rethink/)：考え直す、再考する
 
 ---
 
 ## 📖 できればこれも
 
-- [approve](/word/approve)：承認する
-- [discuss](/word/discuss)：議論する
+- [approve](/word/approve/)：承認する
+- [discuss](/word/discuss/)：議論する
 
 <!-- cvid: aid03_bid09 -->

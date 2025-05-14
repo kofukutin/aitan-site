@@ -97,7 +97,7 @@ TOEICではビジネス契約や業務委託に関する文脈でよく出題さ
 ## 🤔  supplier との違いは？
 
 - **contractor**：契約に基づき特定の業務やサービスを請け負う業者
-- **[supplier](/word/supplier)**：商品や原材料など「物」を供給する業者
+- **[supplier](/word/supplier/)**：商品や原材料など「物」を供給する業者
 
 contractorは「仕事やサービス」を請け負う業者、supplierは「物」を供給する業者という違いがあります。
 
@@ -105,14 +105,14 @@ contractorは「仕事やサービス」を請け負う業者、supplierは「�
 
 ## 🧩 あわせて覚えたい
 
-- [client](/word/client)：依頼主、顧客
-- [subcontractor](/word/subcontractor)：下請け業者
+- [client](/word/client/)：依頼主、顧客
+- [subcontractor](/word/subcontractor/)：下請け業者
 
 ---
 
 ## 📖 できればこれも
 
-- [vendor](/word/vendor)：販売業者
-- [consultant](/word/consultant)：コンサルタント、助言者
+- [vendor](/word/vendor/)：販売業者
+- [consultant](/word/consultant/)：コンサルタント、助言者
 
 <!-- cvid: aid29_bid25 -->

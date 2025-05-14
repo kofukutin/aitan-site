@@ -97,7 +97,7 @@ TOEICでは、表彰や評価、認知に関する記事やメール文でよく
 ## 🤔  acknowledgment との違いは？
 
 - **recognition**：努力や成果を認めて評価・表彰すること、または人や物を見分けること
-- **[acknowledgment](/word/acknowledgment)**：事実や存在を認めて受け入れること、感謝の意を示すこと
+- **[acknowledgment](/word/acknowledgment/)**：事実や存在を認めて受け入れること、感謝の意を示すこと
 
 recognitionは「評価・表彰」のニュアンスが強く、acknowledgmentは「受け入れ・感謝」の意味合いが中心です。
 
@@ -105,14 +105,14 @@ recognitionは「評価・表彰」のニュアンスが強く、acknowledgment�
 
 ## 🧩 あわせて覚えたい
 
-- [identification](/word/identification)：識別、身元確認
-- [approval](/word/approval)：承認、賛成
+- [identification](/word/identification/)：識別、身元確認
+- [approval](/word/approval/)：承認、賛成
 
 ---
 
 ## 📖 できればこれも
 
-- [achievement](/word/achievement)：業績、達成
-- [reward](/word/reward)：報酬、ご褒美
+- [achievement](/word/achievement/)：業績、達成
+- [reward](/word/reward/)：報酬、ご褒美
 
 <!-- cvid: aid08_bid23 -->

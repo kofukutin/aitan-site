@@ -97,7 +97,7 @@ pamphletはTOEICの案内文や広告、説明資料の中でよく登場しま�
 ## 🤔  brochure との違いは？
 
 - **pamphlet**：数ページの簡単な小冊子や案内書。情報を簡潔にまとめて配布するもの。
-- **[brochure](/word/brochure)**：カラー印刷や写真入りで、商品やサービスを詳しく紹介する冊子。
+- **[brochure](/word/brochure/)**：カラー印刷や写真入りで、商品やサービスを詳しく紹介する冊子。
 
 pamphletは簡易的な案内や説明用、brochureはより高品質で詳細な宣伝用に使われることが多いです。
 
@@ -105,14 +105,14 @@ pamphletは簡易的な案内や説明用、brochureはより高品質で詳細�
 
 ## 🧩 あわせて覚えたい
 
-- [leaflet](/word/leaflet)：一枚もののチラシやリーフレット
-- [catalog](/word/catalog)：商品やサービスの一覧をまとめたカタログ
+- [leaflet](/word/leaflet/)：一枚もののチラシやリーフレット
+- [catalog](/word/catalog/)：商品やサービスの一覧をまとめたカタログ
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document)：文書、書類
-- [manual](/word/manual)：取扱説明書
+- [document](/word/document/)：文書、書類
+- [manual](/word/manual/)：取扱説明書
 
 <!-- cvid: aid26_bid32 -->

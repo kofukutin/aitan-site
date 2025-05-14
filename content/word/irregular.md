@@ -97,7 +97,7 @@ irregularは、TOEICの文法・語彙問題で「regular」との対比や、�
 ## 🤔  uneven との違いは？
 
 - **irregular**：時間やパターン、形などが「規則的でない」「一定でない」ことを表す。
-- **[uneven](/word/uneven)**：表面や分布などが「平らでない」「均等でない」ことを表す。
+- **[uneven](/word/uneven/)**：表面や分布などが「平らでない」「均等でない」ことを表す。
 
 irregularは「時間・順序・頻度」などの不規則さに使い、unevenは「物理的な凹凸や分布の不均一さ」に使います。
 
@@ -105,14 +105,14 @@ irregularは「時間・順序・頻度」などの不規則さに使い、uneve
 
 ## 🧩 あわせて覚えたい
 
-- [regular](/word/regular)：規則的な
-- [abnormal](/word/abnormal)：異常な
+- [regular](/word/regular/)：規則的な
+- [abnormal](/word/abnormal/)：異常な
 
 ---
 
 ## 📖 できればこれも
 
-- [frequent](/word/frequent)：頻繁な
-- [consistent](/word/consistent)：一貫した
+- [frequent](/word/frequent/)：頻繁な
+- [consistent](/word/consistent/)：一貫した
 
 <!-- cvid: aid17_bid23 -->

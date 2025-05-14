@@ -97,7 +97,7 @@ TOEICでは、商品の説明や会社の規模、数量を問う文脈でよく
 ## 🤔  scale との違いは？
 
 - **size**：物や人の「大きさ」「寸法」「規模」など、具体的な長さや量を表す。
-- **[scale](/word/scale)**：物事の「規模」や「縮尺」、比率など、抽象的・相対的な大きさを表す。
+- **[scale](/word/scale/)**：物事の「規模」や「縮尺」、比率など、抽象的・相対的な大きさを表す。
 
 sizeは実際の大きさや寸法、scaleは全体の規模や比率・縮尺を表すときに使い分けます。
 
@@ -105,14 +105,14 @@ sizeは実際の大きさや寸法、scaleは全体の規模や比率・縮尺�
 
 ## 🧩 あわせて覚えたい
 
-- [amount](/word/amount)：量、総額
-- [dimension](/word/dimension)：寸法、側面
+- [amount](/word/amount/)：量、総額
+- [dimension](/word/dimension/)：寸法、側面
 
 ---
 
 ## 📖 できればこれも
 
-- [weight](/word/weight)：重さ
-- [length](/word/length)：長さ
+- [weight](/word/weight/)：重さ
+- [length](/word/length/)：長さ
 
 <!-- cvid: aid05_bid45 -->

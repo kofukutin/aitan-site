@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や公式通知、契約書などで「規則
 ## 🤔  rule との違いは？
 
 - **regulation**：公式な機関や法律による強制力のある規則・規制
-- **[rule](/word/rule)**：一般的なルールや決まりごと、必ずしも法的強制力はない
+- **[rule](/word/rule/)**：一般的なルールや決まりごと、必ずしも法的強制力はない
 
 regulationは法的・制度的な背景が強く、ruleは日常的な決まりやマナーなど幅広く使われます。
 
@@ -105,14 +105,14 @@ regulationは法的・制度的な背景が強く、ruleは日常的な決まり
 
 ## 🧩 あわせて覚えたい
 
-- [law](/word/law)：法律、法
-- [guideline](/word/guideline)：指針、ガイドライン
+- [law](/word/law/)：法律、法
+- [guideline](/word/guideline/)：指針、ガイドライン
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy)：方針、政策
-- [procedure](/word/procedure)：手順、手続き
+- [policy](/word/policy/)：方針、政策
+- [procedure](/word/procedure/)：手順、手続き
 
 <!-- cvid: aid01_bid00 -->

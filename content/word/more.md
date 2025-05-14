@@ -98,7 +98,7 @@ TOEICでは比較級や数量表現、追加説明の文脈で頻出します。
 ## 🤔  much との違いは？
 
 - **more**：比較して「より多く」「さらに」という意味で使う
-- **[much](/word/much)**：量が「たくさん」「多い」という意味で、比較ではなく絶対量を表す
+- **[much](/word/much/)**：量が「たくさん」「多い」という意味で、比較ではなく絶対量を表す
 
 「more」は比較や追加を表し、「much」は単に量が多いことを表します。
 
@@ -106,14 +106,14 @@ TOEICでは比較級や数量表現、追加説明の文脈で頻出します。
 
 ## 🧩 あわせて覚えたい
 
-- [less](/word/less)：より少ない
-- [additional](/word/additional)：追加の
+- [less](/word/less/)：より少ない
+- [additional](/word/additional/)：追加の
 
 ---
 
 ## 📖 できればこれも
 
-- [most](/word/most)：最も多い
-- [another](/word/another)：もう一つの
+- [most](/word/most/)：最も多い
+- [another](/word/another/)：もう一つの
 
 <!-- cvid: aid05_bid49 -->

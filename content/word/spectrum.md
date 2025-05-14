@@ -97,7 +97,7 @@ TOEICでは科学やビジネスの説明文、業界の多様性を表す文脈
 ## 🤔  range との違いは？
 
 - **spectrum**：連続的で多様な範囲や種類を強調し、科学的・抽象的な文脈でよく使う
-- **[range](/word/range)**：一般的な「範囲」「幅」を表し、日常的・具体的な対象にも幅広く使う
+- **[range](/word/range/)**：一般的な「範囲」「幅」を表し、日常的・具体的な対象にも幅広く使う
 
 spectrumは「連続性」や「多様性」を強調し、rangeは単に「広がり」や「範囲」を指す点が異なります。
 
@@ -105,14 +105,14 @@ spectrumは「連続性」や「多様性」を強調し、rangeは単に「広�
 
 ## 🧩 あわせて覚えたい
 
-- [array](/word/array)：配列、並び
-- [continuum](/word/continuum)：連続体
+- [array](/word/array/)：配列、並び
+- [continuum](/word/continuum/)：連続体
 
 ---
 
 ## 📖 できればこれも
 
-- [category](/word/category)：カテゴリー、分類
-- [aspect](/word/aspect)：側面、観点
+- [category](/word/category/)：カテゴリー、分類
+- [aspect](/word/aspect/)：側面、観点
 
 <!-- cvid: aid42_bid11 -->

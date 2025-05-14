@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、食材や料理の説明として登
 ## 🤔  vegetable との違いは？
 
 - **tomato**：特定の野菜（トマト）を指す
-- **[vegetable](/word/vegetable)**：野菜全般を指す総称
+- **[vegetable](/word/vegetable/)**：野菜全般を指す総称
 
 tomatoは具体的な食材名、vegetableは広い意味で野菜全体を指します。サラダの材料を細かく言うときはtomato、全体をまとめて言うときはvegetableを使います。
 
@@ -105,14 +105,14 @@ tomatoは具体的な食材名、vegetableは広い意味で野菜全体を指�
 
 ## 🧩 あわせて覚えたい
 
-- [fruit](/word/fruit)：果物
-- [potato](/word/potato)：じゃがいも
+- [fruit](/word/fruit/)：果物
+- [potato](/word/potato/)：じゃがいも
 
 ---
 
 ## 📖 できればこれも
 
-- [cucumber](/word/cucumber)：きゅうり
-- [salad](/word/salad)：サラダ
+- [cucumber](/word/cucumber/)：きゅうり
+- [salad](/word/salad/)：サラダ
 
 <!-- cvid: aid15_bid44 -->

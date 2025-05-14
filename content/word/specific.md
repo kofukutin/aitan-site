@@ -97,7 +97,7 @@ TOEICでは「specific requirements（具体的な要件）」や「specific inf
 ## 🤔  particular との違いは？
 
 - **specific**：明確に限定された、はっきりとした
-- **[particular](/word/particular)**：特定の、個別の
+- **[particular](/word/particular/)**：特定の、個別の
 
 **specific**は「他と区別できるほど明確に限定された」ニュアンスが強く、**particular**は「多くの中から特定の一つを指す」イメージです。説明や指示で「どれかをはっきり区別したい」時はspecific、単に「どれか一つ」を指す時はparticularが使われます。
 
@@ -105,14 +105,14 @@ TOEICでは「specific requirements（具体的な要件）」や「specific inf
 
 ## 🧩 あわせて覚えたい
 
-- [general](/word/general)：一般的な
-- [detailed](/word/detailed)：詳細な
+- [general](/word/general/)：一般的な
+- [detailed](/word/detailed/)：詳細な
 
 ---
 
 ## 📖 できればこれも
 
-- [precise](/word/precise)：正確な
-- [typical](/word/typical)：典型的な
+- [precise](/word/precise/)：正確な
+- [typical](/word/typical/)：典型的な
 
 <!-- cvid: aid36_bid15 -->

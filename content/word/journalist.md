@@ -97,7 +97,7 @@ TOEICでは新聞記事やビジネスニュースの文脈で登場しやすく
 ## 🤔  reporter との違いは？
 
 - **journalist**：幅広く記事を書く報道関係者全般
-- **[reporter](/word/reporter)**：現場でニュースを取材・報告する記者
+- **[reporter](/word/reporter/)**：現場でニュースを取材・報告する記者
 
 journalistは記事を書く人全般を指し、reporterは特に現場で取材し報告する役割に重点があります。
 
@@ -105,14 +105,14 @@ journalistは記事を書く人全般を指し、reporterは特に現場で取�
 
 ## 🧩 あわせて覚えたい
 
-- [editor](/word/editor)：編集者、編集長
-- [columnist](/word/columnist)：コラムニスト、コラム執筆者
+- [editor](/word/editor/)：編集者、編集長
+- [columnist](/word/columnist/)：コラムニスト、コラム執筆者
 
 ---
 
 ## 📖 できればこれも
 
-- [editor](/word/editor)：編集者
-- [publisher](/word/publisher)：出版社、発行者
+- [editor](/word/editor/)：編集者
+- [publisher](/word/publisher/)：出版社、発行者
 
 <!-- cvid: aid37_bid20 -->

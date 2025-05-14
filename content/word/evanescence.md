@@ -96,7 +96,7 @@ TOEICでは非常に稀な語ですが、アカデミックな記事や文学的
 ## 🤔  transience との違いは？
 
 - **evanescence**：一瞬で消えてしまうような、非常に儚い性質を強調する語
-- **[transience](/word/transience)**：一時的であること、長く続かないことを表す語
+- **[transience](/word/transience/)**：一時的であること、長く続かないことを表す語
 
 evanescenceは「消えていく様子」や「はかなさ」に詩的・感傷的なニュアンスが強く、transienceはより一般的に「一時的な状態」を指します。
 
@@ -104,14 +104,14 @@ evanescenceは「消えていく様子」や「はかなさ」に詩的・感傷
 
 ## 🧩 あわせて覚えたい
 
-- [permanence](/word/permanence)：永続性、永久であること
-- [ephemerality](/word/ephemerality)：短命、つかの間であること
+- [permanence](/word/permanence/)：永続性、永久であること
+- [ephemerality](/word/ephemerality/)：短命、つかの間であること
 
 ---
 
 ## 📖 できればこれも
 
-- [impermanence](/word/impermanence)：無常、永続しないこと
-- [brevity](/word/brevity)：短さ、簡潔さ
+- [impermanence](/word/impermanence/)：無常、永続しないこと
+- [brevity](/word/brevity/)：短さ、簡潔さ
 
 <!-- cvid: aid31_bid07 -->

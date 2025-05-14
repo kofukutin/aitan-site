@@ -97,7 +97,7 @@ TOEICでは「preventing」は主に文法問題や語彙問題で、目的語�
 ## 🤔  avoiding との違いは？
 
 - **preventing**：悪いことが起こる前に積極的に防ぐ
-- **[avoiding](/word/avoiding)**：自分から避けて近づかない
+- **[avoiding](/word/avoiding/)**：自分から避けて近づかない
 
 preventingは「未然に防ぐ」ニュアンスが強く、avoidingは「自分が関わらないようにする」イメージです。
 
@@ -105,14 +105,14 @@ preventingは「未然に防ぐ」ニュアンスが強く、avoidingは「自�
 
 ## 🧩 あわせて覚えたい
 
-- [prohibit](/word/prohibit)：禁止する
-- [block](/word/block)：遮る、妨げる
+- [prohibit](/word/prohibit/)：禁止する
+- [block](/word/block/)：遮る、妨げる
 
 ---
 
 ## 📖 できればこれも
 
-- [protect](/word/protect)：守る
-- [reduce](/word/reduce)：減らす
+- [protect](/word/protect/)：守る
+- [reduce](/word/reduce/)：減らす
 
 <!-- cvid: aid13_bid29 -->

@@ -97,7 +97,7 @@ addressingは、会議やビジネスの場面で「問題への対応」や「�
 ## 🤔  dealing との違いは？
 
 - **addressing**：問題や課題に積極的に「対処する」「取り組む」ことを強調
-- **[dealing](/word/dealing)**：問題や状況に「対応する」「処理する」ことを幅広く表す
+- **[dealing](/word/dealing/)**：問題や状況に「対応する」「処理する」ことを幅広く表す
 
 addressingは「積極的に解決しようとする姿勢」を強調し、dealingは「状況に対応する」ニュアンスでやや幅広く使われます。
 
@@ -105,14 +105,14 @@ addressingは「積極的に解決しようとする姿勢」を強調し、deal
 
 ## 🧩 あわせて覚えたい
 
-- [solve](/word/solve)：（問題を）解決する
-- [handle](/word/handle)：（問題や仕事を）うまく扱う
+- [solve](/word/solve/)：（問題を）解決する
+- [handle](/word/handle/)：（問題や仕事を）うまく扱う
 
 ---
 
 ## 📖 できればこれも
 
-- [discuss](/word/discuss)：話し合う、議論する
-- [respond](/word/respond)：返答する、対応する
+- [discuss](/word/discuss/)：話し合う、議論する
+- [respond](/word/respond/)：返答する、対応する
 
 <!-- cvid: aid41_bid12 -->

@@ -97,7 +97,7 @@ cameはTOEICのリスニングや会話問題で頻出し、動作の過去を�
 ## 🤔  arrived との違いは？
 
 - **came**：単に「来た」「やってきた」という動作を表す。
-- **[arrived](/word/arrived)**：「到着した」という意味で、目的地に着いたことを強調。
+- **[arrived](/word/arrived/)**：「到着した」という意味で、目的地に着いたことを強調。
 
 cameは「来る」という動作全体を指し、arrivedは「到着」という結果に焦点を当てます。
 
@@ -105,14 +105,14 @@ cameは「来る」という動作全体を指し、arrivedは「到着」とい
 
 ## 🧩 あわせて覚えたい
 
-- [go](/word/go)：行く
-- [leave](/word/leave)：去る、出発する
+- [go](/word/go/)：行く
+- [leave](/word/leave/)：去る、出発する
 
 ---
 
 ## 📖 できればこれも
 
-- [bring](/word/bring)：持ってくる
-- [meet](/word/meet)：会う
+- [bring](/word/bring/)：持ってくる
+- [meet](/word/meet/)：会う
 
 <!-- cvid: aid22_bid00 -->

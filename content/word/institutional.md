@@ -97,7 +97,7 @@ TOEICでは、ビジネスや教育、公共機関に関する長文で「instit
 ## 🤔  organizational との違いは？
 
 - **institutional**：制度や組織そのもの、またはその性質・特徴に関する
-- **[organizational](/word/organizational)**：組織の構造や運営、管理体制に関する
+- **[organizational](/word/organizational/)**：組織の構造や運営、管理体制に関する
 
 institutionalは「制度・機関」自体やその性質を強調し、organizationalは「組織の運営や構造」に焦点を当てる点が異なります。
 
@@ -105,14 +105,14 @@ institutionalは「制度・機関」自体やその性質を強調し、organiz
 
 ## 🧩 あわせて覚えたい
 
-- [corporate](/word/corporate)：企業の、法人の
-- [official](/word/official)：公式の、公的な
+- [corporate](/word/corporate/)：企業の、法人の
+- [official](/word/official/)：公式の、公的な
 
 ---
 
 ## 📖 できればこれも
 
-- [administrative](/word/administrative)：管理の、行政の
-- [regulatory](/word/regulatory)：規制の、取り締まりの
+- [administrative](/word/administrative/)：管理の、行政の
+- [regulatory](/word/regulatory/)：規制の、取り締まりの
 
 <!-- cvid: aid04_bid24 -->

@@ -97,7 +97,7 @@ ITやビジネス文書で「埋め込む」「組み込む」の意味で出題
 ## 🤔  insert との違いは？
 
 - **embed**：しっかりと中に埋め込む、組み込む（特に一体化や密着のニュアンス）
-- **[insert](/word/insert)**：単に挿入する、差し込む（位置や順序に入れるイメージ）
+- **[insert](/word/insert/)**：単に挿入する、差し込む（位置や順序に入れるイメージ）
 
 「embed」は物やデータを深く組み込む感じ、「insert」は単に間に入れるイメージです。
 
@@ -105,14 +105,14 @@ ITやビジネス文書で「埋め込む」「組み込む」の意味で出題
 
 ## 🧩 あわせて覚えたい
 
-- [integrate](/word/integrate)：統合する、組み合わせる
-- [attach](/word/attach)：添付する、取り付ける
+- [integrate](/word/integrate/)：統合する、組み合わせる
+- [attach](/word/attach/)：添付する、取り付ける
 
 ---
 
 ## 📖 できればこれも
 
-- [implement](/word/implement)：実装する、導入する
-- [include](/word/include)：含む、含める
+- [implement](/word/implement/)：実装する、導入する
+- [include](/word/include/)：含む、含める
 
 <!-- cvid: aid36_bid21 -->

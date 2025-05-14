@@ -96,7 +96,7 @@ tuitionは、大学や研修、教育関連の案内文やメールでよく登�
 ## 🤔  fee との違いは？
 
 - **tuition**：主に学校や大学の「授業料」を指すフォーマルな表現
-- **[fee](/word/fee)**：サービスや手数料など幅広い「料金」を指す一般的な単語
+- **[fee](/word/fee/)**：サービスや手数料など幅広い「料金」を指す一般的な単語
 
 tuitionは教育機関の授業料に限定して使われるのに対し、feeは入会金やサービス料など多目的に使われます。
 
@@ -104,14 +104,14 @@ tuitionは教育機関の授業料に限定して使われるのに対し、fee�
 
 ## 🧩 あわせて覚えたい
 
-- [scholarship](/word/scholarship)：奨学金
-- [enrollment](/word/enrollment)：入学、登録
+- [scholarship](/word/scholarship/)：奨学金
+- [enrollment](/word/enrollment/)：入学、登録
 
 ---
 
 ## 📖 できればこれも
 
-- [lecture](/word/lecture)：講義
-- [curriculum](/word/curriculum)：カリキュラム、教育課程
+- [lecture](/word/lecture/)：講義
+- [curriculum](/word/curriculum/)：カリキュラム、教育課程
 
 <!-- cvid: aid07_bid05 -->

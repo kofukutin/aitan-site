@@ -97,7 +97,7 @@ TOEICではITやビジネス文書、プロジェクト説明などで「framewo
 ## 🤔  structure との違いは？
 
 - **framework**：物事の基本的な枠組みや仕組み、抽象的な構造を指す
-- **[structure](/word/structure)**：物理的・組織的な構造や配置そのものを指す
+- **[structure](/word/structure/)**：物理的・組織的な構造や配置そのものを指す
 
 frameworkは「考え方や計画の土台」として使われ、structureは「実際の構造や組織の形」に焦点を当てます。
 
@@ -105,14 +105,14 @@ frameworkは「考え方や計画の土台」として使われ、structureは�
 
 ## 🧩 あわせて覚えたい
 
-- [system](/word/system)：体系、仕組み
-- [guideline](/word/guideline)：指針、ガイドライン
+- [system](/word/system/)：体系、仕組み
+- [guideline](/word/guideline/)：指針、ガイドライン
 
 ---
 
 ## 📖 できればこれも
 
-- [platform](/word/platform)：基盤、プラットフォーム
-- [component](/word/component)：構成要素、部品
+- [platform](/word/platform/)：基盤、プラットフォーム
+- [component](/word/component/)：構成要素、部品
 
 <!-- cvid: aid00_bid41 -->

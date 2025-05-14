@@ -97,7 +97,7 @@ TOEICでは会議や商談の流れ、イベントの終了場面などでよく
 ## 🤔  conclusion との違いは？
 
 - **closing**：物事の「終了」や「締めくくり」という行為や場面を指す。
-- **[conclusion](/word/conclusion)**：議論や文章などの「結論」や「結果」を指す。
+- **[conclusion](/word/conclusion/)**：議論や文章などの「結論」や「結果」を指す。
 
 closingは「終わりの場面」や「閉会」など物理的・時間的な終了を表し、conclusionは「考えや議論の結果」としての結論を表します。
 
@@ -105,14 +105,14 @@ closingは「終わりの場面」や「閉会」など物理的・時間的な�
 
 ## 🧩 あわせて覚えたい
 
-- [completion](/word/completion)：完了、完成
-- [opening](/word/opening)：開始、開会
+- [completion](/word/completion/)：完了、完成
+- [opening](/word/opening/)：開始、開会
 
 ---
 
 ## 📖 できればこれも
 
-- [summary](/word/summary)：要約、まとめ
-- [final](/word/final)：最終の、最後の
+- [summary](/word/summary/)：要約、まとめ
+- [final](/word/final/)：最終の、最後の
 
 <!-- cvid: aid41_bid11 -->

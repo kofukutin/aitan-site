@@ -97,7 +97,7 @@ TOEICでは、注文や物流、ビジネスメールの文脈で「ship」は�
 ## 🤔  deliver との違いは？
 
 - **ship**：商品や荷物を発送・出荷すること（送り出す側の動作）
-- **[deliver](/word/deliver)**：商品や荷物を届けること（受け取り側に到着する動作）
+- **[deliver](/word/deliver/)**：商品や荷物を届けること（受け取り側に到着する動作）
 
 shipは「送り出す」ことに重点があり、deliverは「届ける」「配達する」ことに重点があります。
 
@@ -105,14 +105,14 @@ shipは「送り出す」ことに重点があり、deliverは「届ける」「
 
 ## 🧩 あわせて覚えたい
 
-- [send](/word/send)：送る（一般的に物や手紙を送る）
-- [receive](/word/receive)：受け取る
+- [send](/word/send/)：送る（一般的に物や手紙を送る）
+- [receive](/word/receive/)：受け取る
 
 ---
 
 ## 📖 できればこれも
 
-- [transport](/word/transport)：輸送する
-- [order](/word/order)：注文する
+- [transport](/word/transport/)：輸送する
+- [order](/word/order/)：注文する
 
 <!-- cvid: aid43_bid35 -->

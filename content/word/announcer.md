@@ -97,7 +97,7 @@ TOEICでは、空港やイベント、放送に関する会話や説明文で「
 ## 🤔  broadcaster との違いは？
 
 - **announcer**：番組やイベントで情報を伝える「話し手」や「司会者」を指す。
-- **[broadcaster](/word/broadcaster)**：放送局や放送する人全般を指し、技術者や会社も含むことがある。
+- **[broadcaster](/word/broadcaster/)**：放送局や放送する人全般を指し、技術者や会社も含むことがある。
 
 announcerは「話す人」に特化し、broadcasterは「放送に関わる人・組織」全体を指す点が異なります。
 
@@ -105,14 +105,14 @@ announcerは「話す人」に特化し、broadcasterは「放送に関わる人
 
 ## 🧩 あわせて覚えたい
 
-- [host](/word/host)：司会者、主催者
-- [presenter](/word/presenter)：プレゼンター、番組の進行役
+- [host](/word/host/)：司会者、主催者
+- [presenter](/word/presenter/)：プレゼンター、番組の進行役
 
 ---
 
 ## 📖 できればこれも
 
-- [announcement](/word/announcement)：発表、告知
-- [reporter](/word/reporter)：記者、リポーター
+- [announcement](/word/announcement/)：発表、告知
+- [reporter](/word/reporter/)：記者、リポーター
 
 <!-- cvid: aid24_bid40 -->

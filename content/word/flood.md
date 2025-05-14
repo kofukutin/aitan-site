@@ -97,7 +97,7 @@ TOEICでは主に環境問題や災害に関する長文、または比喩的に
 ## 🤔  overflow との違いは？
 
 - **flood**：自然災害の「洪水」や比喩的な大量流入を指す。
-- **[overflow](/word/overflow)**：容器や場所から水や物があふれ出ることを指す。
+- **[overflow](/word/overflow/)**：容器や場所から水や物があふれ出ることを指す。
 
 floodは主に自然現象や大規模な流入に使い、overflowは小規模なあふれや日常的な場面で使われます。
 
@@ -105,14 +105,14 @@ floodは主に自然現象や大規模な流入に使い、overflowは小規模�
 
 ## 🧩 あわせて覚えたい
 
-- [drought](/word/drought)：干ばつ（長期間雨が降らないこと）
-- [storm](/word/storm)：嵐（強い風や雨の天気）
+- [drought](/word/drought/)：干ばつ（長期間雨が降らないこと）
+- [storm](/word/storm/)：嵐（強い風や雨の天気）
 
 ---
 
 ## 📖 できればこれも
 
-- [damage](/word/damage)：損害、被害
-- [disaster](/word/disaster)：災害、惨事
+- [damage](/word/damage/)：損害、被害
+- [disaster](/word/disaster/)：災害、惨事
 
 <!-- cvid: aid17_bid30 -->

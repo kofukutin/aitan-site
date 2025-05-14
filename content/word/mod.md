@@ -97,7 +97,7 @@ TOEICではITやゲーム、ソフトウェアに関する長文やメール文�
 ## 🤔  plugin との違いは？
 
 - **mod**：主にゲームやソフトウェアの内容や機能を大きく変更・追加する改造データ。
-- **[plugin](/word/plugin)**：ソフトウェアに追加機能を加える小規模な拡張プログラム。
+- **[plugin](/word/plugin/)**：ソフトウェアに追加機能を加える小規模な拡張プログラム。
 
 modは元のプログラム自体を大きく変えることが多いのに対し、pluginは機能を追加するだけで本体にはあまり手を加えません。
 
@@ -105,14 +105,14 @@ modは元のプログラム自体を大きく変えることが多いのに対�
 
 ## 🧩 あわせて覚えたい
 
-- [extension](/word/extension)：拡張機能、追加機能
-- [patch](/word/patch)：修正プログラム、バグ修正
+- [extension](/word/extension/)：拡張機能、追加機能
+- [patch](/word/patch/)：修正プログラム、バグ修正
 
 ---
 
 ## 📖 できればこれも
 
-- [update](/word/update)：更新、アップデート
-- [feature](/word/feature)：特徴、機能
+- [update](/word/update/)：更新、アップデート
+- [feature](/word/feature/)：特徴、機能
 
 <!-- cvid: aid20_bid48 -->

@@ -97,7 +97,7 @@ TOEICでは、メールや案内文などで「updated information」「updated 
 ## 🤔  renewed との違いは？
 
 - **updated**：情報や内容が新しく追加・修正されて最新になった
-- **[renewed](/word/renewed)**：期限や契約などが「再び有効になった」「新たにされた」
+- **[renewed](/word/renewed/)**：期限や契約などが「再び有効になった」「新たにされた」
 
 updatedは「情報の新しさ・最新状態」を強調し、renewedは「再開・再契約・再び有効になる」ことを強調します。
 
@@ -105,14 +105,14 @@ updatedは「情報の新しさ・最新状態」を強調し、renewedは「再
 
 ## 🧩 あわせて覚えたい
 
-- [current](/word/current)：現在の、最新の
-- [revised](/word/revised)：修正された、改訂された
+- [current](/word/current/)：現在の、最新の
+- [revised](/word/revised/)：修正された、改訂された
 
 ---
 
 ## 📖 できればこれも
 
-- [recent](/word/recent)：最近の
-- [modern](/word/modern)：現代的な、最新の
+- [recent](/word/recent/)：最近の
+- [modern](/word/modern/)：現代的な、最新の
 
 <!-- cvid: aid08_bid27 -->

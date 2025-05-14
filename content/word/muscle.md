@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、体の部位や運動に関連して
 ## 🤔  strength との違いは？
 
 - **muscle**：体の筋肉そのものや筋肉の量を指す
-- **[strength](/word/strength)**：筋肉に限らず「力」「強さ」全般を指す
+- **[strength](/word/strength/)**：筋肉に限らず「力」「強さ」全般を指す
 
 muscleは物理的な筋肉や筋肉量を表し、strengthは体力・精神力など幅広い「強さ」を表します。
 
@@ -105,14 +105,14 @@ muscleは物理的な筋肉や筋肉量を表し、strengthは体力・精神力
 
 ## 🧩 あわせて覚えたい
 
-- [tendon](/word/tendon)：腱（筋肉と骨をつなぐ組織）
-- [power](/word/power)：力、エネルギー
+- [tendon](/word/tendon/)：腱（筋肉と骨をつなぐ組織）
+- [power](/word/power/)：力、エネルギー
 
 ---
 
 ## 📖 できればこれも
 
-- [bone](/word/bone)：骨
-- [energy](/word/energy)：エネルギー
+- [bone](/word/bone/)：骨
+- [energy](/word/energy/)：エネルギー
 
 <!-- cvid: aid29_bid35 -->

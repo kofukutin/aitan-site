@@ -97,7 +97,7 @@ TOEICでは、音楽やイベント、集団活動に関する会話や説明文
 ## 🤔  choir との違いは？
 
 - **chorus**：合唱、合唱団、または歌のサビ部分を指す
-- **[choir](/word/choir)**：宗教的・公式な合唱団を指すことが多い
+- **[choir](/word/choir/)**：宗教的・公式な合唱団を指すことが多い
 
 chorusは「合唱」や「サビ」など幅広く使われますが、choirは特に教会や学校などの正式な合唱団を指します。
 
@@ -105,14 +105,14 @@ chorusは「合唱」や「サビ」など幅広く使われますが、choirは
 
 ## 🧩 あわせて覚えたい
 
-- [solo](/word/solo)：独唱、ソロ
-- [melody](/word/melody)：旋律、メロディー
+- [solo](/word/solo/)：独唱、ソロ
+- [melody](/word/melody/)：旋律、メロディー
 
 ---
 
 ## 📖 できればこれも
 
-- [verse](/word/verse)：（歌の）節、詩の一節
-- [performance](/word/performance)：演奏、上演
+- [verse](/word/verse/)：（歌の）節、詩の一節
+- [performance](/word/performance/)：演奏、上演
 
 <!-- cvid: aid03_bid09 -->

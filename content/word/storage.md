@@ -97,7 +97,7 @@ TOEICではITやビジネス文脈で「storage」が頻出します。特に「
 ## 🤔  warehouse との違いは？
 
 - **storage**：物やデータの「保管」や「収納」、またはその仕組みや装置全般を指す
-- **[warehouse](/word/warehouse)**：主に「商品や物資を大量に保管するための大きな建物（倉庫）」を指す
+- **[warehouse](/word/warehouse/)**：主に「商品や物資を大量に保管するための大きな建物（倉庫）」を指す
 
 「storage」は抽象的な「保管」や「収納」の意味で、場所・方法・装置全般に使えますが、「warehouse」は具体的な大きな建物（倉庫）を指します。
 
@@ -105,14 +105,14 @@ TOEICではITやビジネス文脈で「storage」が頻出します。特に「
 
 ## 🧩 あわせて覚えたい
 
-- [archive](/word/archive)：記録保管所、アーカイブ
-- [inventory](/word/inventory)：在庫、棚卸し
+- [archive](/word/archive/)：記録保管所、アーカイブ
+- [inventory](/word/inventory/)：在庫、棚卸し
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device)：装置、機器
-- [capacity](/word/capacity)：容量、収容力
+- [device](/word/device/)：装置、機器
+- [capacity](/word/capacity/)：容量、収容力
 
 <!-- cvid: aid35_bid40 -->

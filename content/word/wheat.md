@@ -97,7 +97,7 @@ TOEICでは、農業や食品に関する記事や広告文で登場すること
 ## 🤔  barley との違いは？
 
 - **wheat**：パンやパスタなどの主原料となる小麦。
-- **[barley](/word/barley)**：主にビールや麦茶、飼料などに使われる大麦。
+- **[barley](/word/barley/)**：主にビールや麦茶、飼料などに使われる大麦。
 
 wheatは主に食品の原料として使われ、barleyは飲料や飼料など用途が異なります。
 
@@ -105,14 +105,14 @@ wheatは主に食品の原料として使われ、barleyは飲料や飼料など
 
 ## 🧩 あわせて覚えたい
 
-- [grain](/word/grain)：穀物
-- [flour](/word/flour)：小麦粉
+- [grain](/word/grain/)：穀物
+- [flour](/word/flour/)：小麦粉
 
 ---
 
 ## 📖 できればこれも
 
-- [corn](/word/corn)：トウモロコシ
-- [rice](/word/rice)：米
+- [corn](/word/corn/)：トウモロコシ
+- [rice](/word/rice/)：米
 
 <!-- cvid: aid35_bid07 -->

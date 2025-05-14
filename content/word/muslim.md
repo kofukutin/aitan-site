@@ -106,13 +106,13 @@ TOEICでは、異文化理解や宗教に関する説明文や紹介文で見か
 ## 🧩 あわせて覚えたい
 
 - [Christian](/Christian)：キリスト教徒
-- [mosque](/word/mosque)：モスク（イスラム教の礼拝所）
+- [mosque](/word/mosque/)：モスク（イスラム教の礼拝所）
 
 ---
 
 ## 📖 できればこれも
 
-- [religion](/word/religion)：宗教
-- [belief](/word/belief)：信仰、信念
+- [religion](/word/religion/)：宗教
+- [belief](/word/belief/)：信仰、信念
 
 <!-- cvid: aid43_bid10 -->

@@ -97,7 +97,7 @@ TOEICでは主に形容詞として、文脈から「知っている」「意味
 ## 🤔  knowledgeable との違いは？
 
 - **knowing**：何かを知っている、意味ありげな（表情・態度など）
-- **[knowledgeable](/word/knowledgeable)**：知識が豊富な、物知りな
+- **[knowledgeable](/word/knowledgeable/)**：知識が豊富な、物知りな
 
 knowingは「知っていること」や「意味深な様子」を表し、knowledgeableは「幅広い知識を持つ人」に使います。
 
@@ -105,14 +105,14 @@ knowingは「知っていること」や「意味深な様子」を表し、know
 
 ## 🧩 あわせて覚えたい
 
-- [ignorant](/word/ignorant)：無知な、知らない
-- [aware](/word/aware)：気づいている、認識している
+- [ignorant](/word/ignorant/)：無知な、知らない
+- [aware](/word/aware/)：気づいている、認識している
 
 ---
 
 ## 📖 できればこれも
 
-- [familiar](/word/familiar)：よく知っている、親しい
-- [conscious](/word/conscious)：意識している、自覚している
+- [familiar](/word/familiar/)：よく知っている、親しい
+- [conscious](/word/conscious/)：意識している、自覚している
 
 <!-- cvid: aid02_bid16 -->

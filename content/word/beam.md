@@ -97,7 +97,7 @@ TOEICでは主に写真描写パートで、建物の梁や光線を説明する
 ## 🤔  ray との違いは？
 
 - **beam**：幅や太さのある「光線」や「筋」、または建物の「梁」
-- **[ray](/word/ray)**：細く鋭い「光線」や「放射線」
+- **[ray](/word/ray/)**：細く鋭い「光線」や「放射線」
 
 beamは太くてはっきりした筋状のもの、rayは細くて鋭い光やエネルギーの線を指すことが多いです。
 
@@ -105,14 +105,14 @@ beamは太くてはっきりした筋状のもの、rayは細くて鋭い光や�
 
 ## 🧩 あわせて覚えたい
 
-- [column](/word/column)：柱
-- [laser](/word/laser)：レーザー（光線）
+- [column](/word/column/)：柱
+- [laser](/word/laser/)：レーザー（光線）
 
 ---
 
 ## 📖 できればこれも
 
-- [shine](/word/shine)：輝く
-- [flash](/word/flash)：閃光、ひらめき
+- [shine](/word/shine/)：輝く
+- [flash](/word/flash/)：閃光、ひらめき
 
 <!-- cvid: aid13_bid32 -->

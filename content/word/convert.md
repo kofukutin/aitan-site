@@ -97,7 +97,7 @@ TOEICでは「データを変換する」「書類を別形式にする」など
 ## 🤔  transform との違いは？
 
 - **convert**：用途や形式、状態などを「別のものに変える」ことに重点がある
-- **[transform](/word/transform)**：形や性質を「大きく変化させる」ことに重点がある
+- **[transform](/word/transform/)**：形や性質を「大きく変化させる」ことに重点がある
 
 convertは「AをBに変える」といった実用的な変換、transformは「劇的な変化」や「姿・性質の大きな変化」に使われます。
 
@@ -105,14 +105,14 @@ convertは「AをBに変える」といった実用的な変換、transformは�
 
 ## 🧩 あわせて覚えたい
 
-- [adapt](/word/adapt)：適応させる、順応する
-- [modify](/word/modify)：修正する、変更する
+- [adapt](/word/adapt/)：適応させる、順応する
+- [modify](/word/modify/)：修正する、変更する
 
 ---
 
 ## 📖 できればこれも
 
-- [replace](/word/replace)：取り替える、交換する
-- [adjust](/word/adjust)：調整する、適応させる
+- [replace](/word/replace/)：取り替える、交換する
+- [adjust](/word/adjust/)：調整する、適応させる
 
 <!-- cvid: aid47_bid03 -->

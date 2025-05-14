@@ -97,7 +97,7 @@ TOEICでは歴史や社会問題、比喩表現として登場することがあ
 ## 🤔  servant との違いは？
 
 - **slave**：自由を奪われ、強制的に働かされる人
-- **[servant](/word/servant)**：雇われて働く使用人や召使い
+- **[servant](/word/servant/)**：雇われて働く使用人や召使い
 
 slaveは人権や自由がなく、強制的に従わされる点が特徴ですが、servantは雇用関係にあり、一定の自由や権利があります。
 
@@ -105,14 +105,14 @@ slaveは人権や自由がなく、強制的に従わされる点が特徴です
 
 ## 🧩 あわせて覚えたい
 
-- [master](/word/master)：主人、支配者
-- [labor](/word/labor)：労働、仕事
+- [master](/word/master/)：主人、支配者
+- [labor](/word/labor/)：労働、仕事
 
 ---
 
 ## 📖 できればこれも
 
-- [employee](/word/employee)：従業員
-- [worker](/word/worker)：労働者
+- [employee](/word/employee/)：従業員
+- [worker](/word/worker/)：労働者
 
 <!-- cvid: aid43_bid12 -->

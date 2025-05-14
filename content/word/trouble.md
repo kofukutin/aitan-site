@@ -97,7 +97,7 @@ troubleはTOEICの会話パートで「問題が起きた」「困っている�
 ## 🤔  problem との違いは？
 
 - **trouble**：漠然とした困難や面倒ごと、悩みなど幅広く使う
-- **[problem](/word/problem)**：明確な「問題」や「課題」を指す
+- **[problem](/word/problem/)**：明確な「問題」や「課題」を指す
 
 troubleは「なんとなく困っている」感覚や心配ごとにも使えますが、problemは「解決すべき具体的な問題」に使われます。
 
@@ -105,14 +105,14 @@ troubleは「なんとなく困っている」感覚や心配ごとにも使え�
 
 ## 🧩 あわせて覚えたい
 
-- [difficulty](/word/difficulty)：困難、難しさ
-- [solution](/word/solution)：解決策
+- [difficulty](/word/difficulty/)：困難、難しさ
+- [solution](/word/solution/)：解決策
 
 ---
 
 ## 📖 できればこれも
 
-- [issue](/word/issue)：（議論や解決が必要な）問題
-- [concern](/word/concern)：懸念、心配事
+- [issue](/word/issue/)：（議論や解決が必要な）問題
+- [concern](/word/concern/)：懸念、心配事
 
 <!-- cvid: aid05_bid14 -->

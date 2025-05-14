@@ -97,7 +97,7 @@ TOEICでは主にPart 5で、慣れる・慣れさせるという意味で出題
 ## 🤔  adapt との違いは？
 
 - **accustom**：自分や他人を「慣れさせる」「習慣づける」ことに重点がある
-- **[adapt](/word/adapt)**：状況や環境に「適応する」「順応する」ことに重点がある
+- **[adapt](/word/adapt/)**：状況や環境に「適応する」「順応する」ことに重点がある
 
 accustomは「慣れる」こと自体に焦点があり、adaptは「変化に合わせて自分を変える」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ accustomは「慣れる」こと自体に焦点があり、adaptは「変化に�
 
 ## 🧩 あわせて覚えたい
 
-- [familiarize](/word/familiarize)：慣れさせる、親しませる
-- [adjust](/word/adjust)：調整する、適応する
+- [familiarize](/word/familiarize/)：慣れさせる、親しませる
+- [adjust](/word/adjust/)：調整する、適応する
 
 ---
 
 ## 📖 できればこれも
 
-- [acquire](/word/acquire)：習得する、得る
-- [achieve](/word/achieve)：達成する
+- [acquire](/word/acquire/)：習得する、得る
+- [achieve](/word/achieve/)：達成する
 
 <!-- cvid: aid18_bid13 -->

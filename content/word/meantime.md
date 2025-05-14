@@ -97,7 +97,7 @@ TOEICでは会話や指示の中で「in the meantime」の形でよく登場し
 ## 🤔  meanwhile との違いは？
 
 - **meantime**：「その間（合間）」を名詞として使う。特に「in the meantime」の形が一般的。
-- **[meanwhile](/word/meanwhile)**：「その間に」を副詞として使い、文頭や文中で単独で使える。
+- **[meanwhile](/word/meanwhile/)**：「その間に」を副詞として使い、文頭や文中で単独で使える。
 
 meantimeは「in the meantime」として名詞句で使うのが基本ですが、meanwhileは副詞で、より柔軟に文の中で使えます。
 
@@ -105,14 +105,14 @@ meantimeは「in the meantime」として名詞句で使うのが基本ですが
 
 ## 🧩 あわせて覚えたい
 
-- [interval](/word/interval)：間隔、合間
-- [pause](/word/pause)：一時停止、休止
+- [interval](/word/interval/)：間隔、合間
+- [pause](/word/pause/)：一時停止、休止
 
 ---
 
 ## 📖 できればこれも
 
-- [afterward](/word/afterward)：その後で
-- [during](/word/during)：～の間に
+- [afterward](/word/afterward/)：その後で
+- [during](/word/during/)：～の間に
 
 <!-- cvid: aid37_bid37 -->

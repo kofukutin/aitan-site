@@ -97,7 +97,7 @@ clearlyはTOEICの会話や説明文で、「はっきりと伝える」「明�
 ## 🤔  obviously との違いは？
 
 - **clearly**：見たり聞いたりして「はっきりと」「明確に」分かることを強調
-- **[obviously](/word/obviously)**：誰が見ても「明らかに」「当然」だと分かることを強調
+- **[obviously](/word/obviously/)**：誰が見ても「明らかに」「当然」だと分かることを強調
 
 clearlyは「分かりやすさ」「明瞭さ」に重点があり、obviouslyは「疑いようがない」「当然」といったニュアンスが強いです。
 
@@ -105,14 +105,14 @@ clearlyは「分かりやすさ」「明瞭さ」に重点があり、obviously�
 
 ## 🧩 あわせて覚えたい
 
-- [distinctly](/word/distinctly)：はっきりと、明瞭に
-- [plainly](/word/plainly)：明白に、分かりやすく
+- [distinctly](/word/distinctly/)：はっきりと、明瞭に
+- [plainly](/word/plainly/)：明白に、分かりやすく
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/word/quickly)：速く、素早く
-- [simply](/word/simply)：簡単に、単純に
+- [quickly](/word/quickly/)：速く、素早く
+- [simply](/word/simply/)：簡単に、単純に
 
 <!-- cvid: aid01_bid16 -->

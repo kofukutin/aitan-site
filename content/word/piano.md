@@ -97,7 +97,7 @@ TOEICのPart 1で、楽器や日常のシーンを描写する際によく登場
 ## 🤔  keyboard との違いは？
 
 - **piano**：伝統的なアコースティックピアノやグランドピアノなど、主にクラシック音楽や生演奏で使われる楽器。
-- **[keyboard](/word/keyboard)**：電子キーボードやシンセサイザーなど、電気で音を出す鍵盤楽器全般。
+- **[keyboard](/word/keyboard/)**：電子キーボードやシンセサイザーなど、電気で音を出す鍵盤楽器全般。
 
 pianoは主に生の音を出す伝統的な楽器、keyboardは電子音や多機能な鍵盤楽器を指します。
 
@@ -105,14 +105,14 @@ pianoは主に生の音を出す伝統的な楽器、keyboardは電子音や多�
 
 ## 🧩 あわせて覚えたい
 
-- [violin](/word/violin)：バイオリン
-- [guitar](/word/guitar)：ギター
+- [violin](/word/violin/)：バイオリン
+- [guitar](/word/guitar/)：ギター
 
 ---
 
 ## 📖 できればこれも
 
-- [music](/word/music)：音楽
-- [song](/word/song)：歌
+- [music](/word/music/)：音楽
+- [song](/word/song/)：歌
 
 <!-- cvid: aid31_bid10 -->

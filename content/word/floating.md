@@ -97,7 +97,7 @@ TOEICでは、科学的な説明やビジネス用語（例：浮動株）とし
 ## 🤔  drifting との違いは？
 
 - **floating**：水や空気の上に静かに浮かんでいる状態
-- **[drifting](/word/drifting)**：流れに乗ってゆっくり動いている状態
+- **[drifting](/word/drifting/)**：流れに乗ってゆっくり動いている状態
 
 floatingは「その場に浮かんでいる」イメージ、driftingは「流されて動いている」イメージです。
 
@@ -105,14 +105,14 @@ floatingは「その場に浮かんでいる」イメージ、driftingは「流�
 
 ## 🧩 あわせて覚えたい
 
-- [sinking](/word/sinking)：沈んでいる
-- [hovering](/word/hovering)：空中にとどまっている
+- [sinking](/word/sinking/)：沈んでいる
+- [hovering](/word/hovering/)：空中にとどまっている
 
 ---
 
 ## 📖 できればこれも
 
-- [liquid](/word/liquid)：液体
-- [surface](/word/surface)：表面
+- [liquid](/word/liquid/)：液体
+- [surface](/word/surface/)：表面
 
 <!-- cvid: aid05_bid44 -->

@@ -97,7 +97,7 @@ TOEICでは、イベントや施設、活動の説明文で「sporting event」�
 ## 🤔  athletic との違いは？
 
 - **sporting**：スポーツに関する、スポーツのための（イベントや物、活動など幅広く使う）
-- **[athletic](/word/athletic)**：運動選手の、運動能力の高い（人や能力に焦点）
+- **[athletic](/word/athletic/)**：運動選手の、運動能力の高い（人や能力に焦点）
 
 「sporting」はイベントや物事に、「athletic」は人や能力に使うことが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは、イベントや施設、活動の説明文で「sporting event」�
 
 ## 🧩 あわせて覚えたい
 
-- [recreational](/word/recreational)：レクリエーションの、娯楽の
-- [competitive](/word/competitive)：競争の、競争的な
+- [recreational](/word/recreational/)：レクリエーションの、娯楽の
+- [competitive](/word/competitive/)：競争の、競争的な
 
 ---
 
 ## 📖 できればこれも
 
-- [outdoor](/word/outdoor)：屋外の
-- [physical](/word/physical)：身体の、肉体的な
+- [outdoor](/word/outdoor/)：屋外の
+- [physical](/word/physical/)：身体の、肉体的な
 
 <!-- cvid: aid12_bid24 -->

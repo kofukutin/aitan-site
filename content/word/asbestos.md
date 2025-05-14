@@ -97,7 +97,7 @@ asbestosは、環境問題や建築関連の長文で登場することがあり
 ## 🤔  insulation との違いは？
 
 - **asbestos**：耐熱性・絶縁性のある鉱物繊維で、健康被害が問題となる物質。
-- **[insulation](/word/insulation)**：断熱材全般を指し、素材はさまざま。
+- **[insulation](/word/insulation/)**：断熱材全般を指し、素材はさまざま。
 
 asbestosは断熱材の一種ですが、insulationはアスベスト以外の安全な素材も含む広い意味です。
 
@@ -105,14 +105,14 @@ asbestosは断熱材の一種ですが、insulationはアスベスト以外の�
 
 ## 🧩 あわせて覚えたい
 
-- [fiber](/word/fiber)：繊維
-- [hazard](/word/hazard)：危険、有害要因
+- [fiber](/word/fiber/)：繊維
+- [hazard](/word/hazard/)：危険、有害要因
 
 ---
 
 ## 📖 できればこれも
 
-- [pollution](/word/pollution)：汚染
-- [material](/word/material)：材料、素材
+- [pollution](/word/pollution/)：汚染
+- [material](/word/material/)：材料、素材
 
 <!-- cvid: aid47_bid48 -->

@@ -97,7 +97,7 @@ TOEICでは科学技術や宇宙関連の記事、説明文で登場すること
 ## 🤔  robot との違いは？
 
 - **rover**：主に地表を移動しながら探査する車両やロボット
-- **[robot](/word/robot)**：一般的な自動機械やロボット全般
+- **[robot](/word/robot/)**：一般的な自動機械やロボット全般
 
 roverは「移動して探査する」ことに特化したロボットや車両を指し、robotは工場や家庭など幅広い用途の自動機械全般を指します。
 
@@ -105,14 +105,14 @@ roverは「移動して探査する」ことに特化したロボットや車両
 
 ## 🧩 あわせて覚えたい
 
-- [vehicle](/word/vehicle)：乗り物、車両
-- [explorer](/word/explorer)：探検家、探査機
+- [vehicle](/word/vehicle/)：乗り物、車両
+- [explorer](/word/explorer/)：探検家、探査機
 
 ---
 
 ## 📖 できればこれも
 
-- [probe](/word/probe)：探査機
-- [satellite](/word/satellite)：衛星
+- [probe](/word/probe/)：探査機
+- [satellite](/word/satellite/)：衛星
 
 <!-- cvid: aid19_bid22 -->

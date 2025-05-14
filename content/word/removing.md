@@ -97,7 +97,7 @@ TOEICでは「remove」の進行形や動名詞として、手順や作業内容
 ## 🤔  deleting との違いは？
 
 - **removing**：物理的・データ的に「取り除く」「移動させてなくす」ニュアンス
-- **[deleting](/word/deleting)**：主にデータや情報を「消去する」「完全に消す」ニュアンス
+- **[deleting](/word/deleting/)**：主にデータや情報を「消去する」「完全に消す」ニュアンス
 
 removingは「場所からどかす」イメージ、deletingは「データや記録を消して元に戻せない」イメージです。
 
@@ -105,14 +105,14 @@ removingは「場所からどかす」イメージ、deletingは「データや�
 
 ## 🧩 あわせて覚えたい
 
-- [extract](/word/extract)：抜き出す、抽出する
-- [eliminate](/word/eliminate)：排除する、取り除く
+- [extract](/word/extract/)：抜き出す、抽出する
+- [eliminate](/word/eliminate/)：排除する、取り除く
 
 ---
 
 ## 📖 できればこれも
 
-- [replace](/word/replace)：取り替える、交換する
-- [attach](/word/attach)：添付する、取り付ける
+- [replace](/word/replace/)：取り替える、交換する
+- [attach](/word/attach/)：添付する、取り付ける
 
 <!-- cvid: aid13_bid42 -->

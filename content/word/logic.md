@@ -97,7 +97,7 @@ TOEICでは、ITやビジネスの説明文、提案書などで「logic」が�
 ## 🤔  reason との違いは？
 
 - **logic**：物事の筋道や推論のルールそのもの
-- **[reason](/word/reason)**：理由や根拠、動機
+- **[reason](/word/reason/)**：理由や根拠、動機
 
 logicは「考え方の仕組み」や「論理構造」を指し、reasonは「なぜそうするのか」という理由や動機を表します。
 
@@ -105,14 +105,14 @@ logicは「考え方の仕組み」や「論理構造」を指し、reasonは「
 
 ## 🧩 あわせて覚えたい
 
-- [analysis](/word/analysis)：分析
-- [intuition](/word/intuition)：直感
+- [analysis](/word/analysis/)：分析
+- [intuition](/word/intuition/)：直感
 
 ---
 
 ## 📖 できればこれも
 
-- [method](/word/method)：方法
-- [concept](/word/concept)：概念
+- [method](/word/method/)：方法
+- [concept](/word/concept/)：概念
 
 <!-- cvid: aid34_bid39 -->

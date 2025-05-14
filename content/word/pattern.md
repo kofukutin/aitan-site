@@ -98,7 +98,7 @@ TOEICでは「行動パターン」「売上パターン」など、ビジネス
 ## 🤔  trend との違いは？
 
 - **pattern**：繰り返し現れる型や様式、行動の傾向などを指す。
-- **[trend](/word/trend)**：ある方向への変化や流行、時代の動きを指す。
+- **[trend](/word/trend/)**：ある方向への変化や流行、時代の動きを指す。
 
 patternは「繰り返し」や「一定の型」に注目し、trendは「変化の方向性」や「流行」に焦点を当てます。
 
@@ -106,14 +106,14 @@ patternは「繰り返し」や「一定の型」に注目し、trendは「変�
 
 ## 🧩 あわせて覚えたい
 
-- [template](/word/template)：ひな形、テンプレート
-- [habit](/word/habit)：習慣、癖
+- [template](/word/template/)：ひな形、テンプレート
+- [habit](/word/habit/)：習慣、癖
 
 ---
 
 ## 📖 できればこれも
 
-- [method](/word/method)：方法、やり方
-- [system](/word/system)：仕組み、体系
+- [method](/word/method/)：方法、やり方
+- [system](/word/system/)：仕組み、体系
 
 <!-- cvid: aid35_bid37 -->

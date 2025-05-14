@@ -97,7 +97,7 @@ TOEICでは主に履歴書や求人情報、教育に関する長文で「学位
 ## 🤔  diploma との違いは？
 
 - **degree**：大学などで一定の課程を修了した際に与えられる「学位」
-- **[diploma](/word/diploma)**：修了証書や卒業証書など、学位よりも広い意味での「証明書」
+- **[diploma](/word/diploma/)**：修了証書や卒業証書など、学位よりも広い意味での「証明書」
 
 degreeは学士・修士・博士などの「学位」を指し、diplomaはコース修了や卒業の証明書を指します。
 
@@ -105,14 +105,14 @@ degreeは学士・修士・博士などの「学位」を指し、diplomaはコ�
 
 ## 🧩 あわせて覚えたい
 
-- [certificate](/word/certificate)：証明書、認定証
-- [qualification](/word/qualification)：資格、能力
+- [certificate](/word/certificate/)：証明書、認定証
+- [qualification](/word/qualification/)：資格、能力
 
 ---
 
 ## 📖 できればこれも
 
-- [course](/word/course)：課程、コース
-- [subject](/word/subject)：科目、主題
+- [course](/word/course/)：課程、コース
+- [subject](/word/subject/)：科目、主題
 
 <!-- cvid: aid18_bid23 -->

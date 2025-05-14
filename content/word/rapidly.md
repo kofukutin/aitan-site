@@ -100,7 +100,7 @@ TOEICでは、変化や進展の速さを説明する文脈で出題されるこ
 ## 🤔  quickly との違いは？
 
 - **rapidly**：非常に速いスピードで、短期間で（変化や進行の速さを強調）
-- **[quickly](/word/quickly)**：素早く、短時間で（動作や行動の速さを表す）
+- **[quickly](/word/quickly/)**：素早く、短時間で（動作や行動の速さを表す）
 
 rapidly は「変化や進行の速さ」に重点があり、quickly は「動作や行動の速さ」に使われることが多いです。
 
@@ -108,14 +108,14 @@ rapidly は「変化や進行の速さ」に重点があり、quickly は「動�
 
 ## 🧩 あわせて覚えたい
 
-- [gradually](/word/gradually)：徐々に、だんだんと
-- [immediately](/word/immediately)：すぐに、直ちに
+- [gradually](/word/gradually/)：徐々に、だんだんと
+- [immediately](/word/immediately/)：すぐに、直ちに
 
 ---
 
 ## 📖 できればこれも
 
-- [frequently](/word/frequently)：頻繁に
-- [efficiently](/word/efficiently)：効率的に
+- [frequently](/word/frequently/)：頻繁に
+- [efficiently](/word/efficiently/)：効率的に
 
 <!-- cvid: aid47_bid11 -->

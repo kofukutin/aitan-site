@@ -97,7 +97,7 @@ TOEICでは、法律や規則に関する長文や公式文書の中で見かけ
 ## 🤔  legal との違いは？
 
 - **constitutional**：憲法に関する、憲法で認められた
-- **[legal](/word/legal)**：法律に関する、合法の
+- **[legal](/word/legal/)**：法律に関する、合法の
 
 「constitutional」は憲法という最上位の法規範に関する場合に使い、「legal」は一般的な法律や法的な正当性に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、法律や規則に関する長文や公式文書の中で見かけ
 
 ## 🧩 あわせて覚えたい
 
-- [statutory](/word/statutory)：法令の、法定の
-- [illegal](/word/illegal)：違法の
+- [statutory](/word/statutory/)：法令の、法定の
+- [illegal](/word/illegal/)：違法の
 
 ---
 
 ## 📖 できればこれも
 
-- [legitimate](/word/legitimate)：正当な、合法の
-- [regulation](/word/regulation)：規則、規制
+- [legitimate](/word/legitimate/)：正当な、合法の
+- [regulation](/word/regulation/)：規則、規制
 
 <!-- cvid: aid40_bid45 -->

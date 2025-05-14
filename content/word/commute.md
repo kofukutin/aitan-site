@@ -97,7 +97,7 @@ TOEICでは、職場や日常生活の移動に関する会話や説明文でよ
 ## 🤔  travel との違いは？
 
 - **commute**：自宅と職場・学校などを定期的に行き来する
-- **[travel](/word/travel)**：一般的な旅行や移動全般を指す
+- **[travel](/word/travel/)**：一般的な旅行や移動全般を指す
 
 commuteは「日常的な通勤・通学」に限定され、travelは「旅行」や「遠距離の移動」など幅広く使われます。
 
@@ -105,14 +105,14 @@ commuteは「日常的な通勤・通学」に限定され、travelは「旅行�
 
 ## 🧩 あわせて覚えたい
 
-- [transfer](/word/transfer)：移動する、転勤する
-- [relocate](/word/relocate)：（住居や職場を）移す、移転する
+- [transfer](/word/transfer/)：移動する、転勤する
+- [relocate](/word/relocate/)：（住居や職場を）移す、移転する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrive](/word/arrive)：到着する
-- [depart](/word/depart)：出発する
+- [arrive](/word/arrive/)：到着する
+- [depart](/word/depart/)：出発する
 
 <!-- cvid: aid25_bid37 -->

@@ -97,7 +97,7 @@ TOEICでは、選択肢の中で「可能性の低さ」を表現する際によ
 ## 🤔  improbable との違いは？
 
 - **unlikely**：日常的な会話やビジネスで「可能性が低い」とややカジュアルに使う
-- **[improbable](/word/improbable)**：ややフォーマルで「ほとんどありえない」と強調したいときに使う
+- **[improbable](/word/improbable/)**：ややフォーマルで「ほとんどありえない」と強調したいときに使う
 
 unlikelyは一般的な否定的予測に、improbableはより堅い場面や書き言葉で使われる傾向があります。
 
@@ -105,14 +105,14 @@ unlikelyは一般的な否定的予測に、improbableはより堅い場面や�
 
 ## 🧩 あわせて覚えたい
 
-- [possible](/word/possible)：可能な、ありうる
-- [doubtful](/word/doubtful)：疑わしい、信じがたい
+- [possible](/word/possible/)：可能な、ありうる
+- [doubtful](/word/doubtful/)：疑わしい、信じがたい
 
 ---
 
 ## 📖 できればこれも
 
-- [possible](/word/possible)：可能な
-- [rare](/word/rare)：まれな、珍しい
+- [possible](/word/possible/)：可能な
+- [rare](/word/rare/)：まれな、珍しい
 
 <!-- cvid: aid11_bid49 -->

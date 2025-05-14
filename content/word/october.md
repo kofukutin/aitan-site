@@ -97,7 +97,7 @@ TOEICでは日付やスケジュール、カレンダーに関する問題でよ
 ## 🤔  autumn との違いは？
 
 - **October**：1年の10番目の月（10月）を指す
-- **[autumn](/word/autumn)**：秋という季節全体を指す
+- **[autumn](/word/autumn/)**：秋という季節全体を指す
 
 Octoberは「10月」という特定の月、autumnは「秋」という季節を表します。10月は多くの国で秋に含まれますが、意味は異なります。
 
@@ -106,13 +106,13 @@ Octoberは「10月」という特定の月、autumnは「秋」という季節�
 ## 🧩 あわせて覚えたい
 
 - [November](/November)：11月
-- [spring](/word/spring)：春
+- [spring](/word/spring/)：春
 
 ---
 
 ## 📖 できればこれも
 
 - [September](/September)：9月
-- [calendar](/word/calendar)：カレンダー
+- [calendar](/word/calendar/)：カレンダー
 
 <!-- cvid: aid24_bid06 -->

@@ -97,7 +97,7 @@ TOEICではメールや通知文、報告書などで「懸念事項」「関心
 ## 🤔  worry との違いは？
 
 - **concern**：ややフォーマルで、心配や懸念、または関心事を幅広く表す。
-- **[worry](/word/worry)**：より個人的・感情的な「心配」を表し、日常会話でよく使う。
+- **[worry](/word/worry/)**：より個人的・感情的な「心配」を表し、日常会話でよく使う。
 
 concernはビジネスや公式な場面で使われやすく、worryは個人の感情的な不安に使われます。
 
@@ -105,14 +105,14 @@ concernはビジネスや公式な場面で使われやすく、worryは個人�
 
 ## 🧩 あわせて覚えたい
 
-- [interest](/word/interest)：関心、興味
-- [issue](/word/issue)：問題、課題
+- [interest](/word/interest/)：関心、興味
+- [issue](/word/issue/)：問題、課題
 
 ---
 
 ## 📖 できればこれも
 
-- [matter](/word/matter)：事柄、問題
-- [problem](/word/problem)：問題、困難
+- [matter](/word/matter/)：事柄、問題
+- [problem](/word/problem/)：問題、困難
 
 <!-- cvid: aid26_bid48 -->

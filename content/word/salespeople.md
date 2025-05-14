@@ -97,7 +97,7 @@ TOEICでは、店舗や会社の会話、営業成績や顧客対応の話題で
 ## 🤔  clerk との違いは？
 
 - **salespeople**：販売や営業を担当する人々全般を指す。
-- **[clerk](/word/clerk)**：主に店頭でレジや接客などを行う店員を指す。
+- **[clerk](/word/clerk/)**：主に店頭でレジや接客などを行う店員を指す。
 
 salespeopleは営業職や販売職全体を指し、clerkは店舗での事務的・接客的な役割に限定されることが多いです。
 
@@ -105,14 +105,14 @@ salespeopleは営業職や販売職全体を指し、clerkは店舗での事務�
 
 ## 🧩 あわせて覚えたい
 
-- [customer](/word/customer)：顧客、客
-- [representative](/word/representative)：代表者、担当者
+- [customer](/word/customer/)：顧客、客
+- [representative](/word/representative/)：代表者、担当者
 
 ---
 
 ## 📖 できればこれも
 
-- [manager](/word/manager)：管理職、マネージャー
-- [client](/word/client)：（主にサービス業の）顧客
+- [manager](/word/manager/)：管理職、マネージャー
+- [client](/word/client/)：（主にサービス業の）顧客
 
 <!-- cvid: aid08_bid27 -->

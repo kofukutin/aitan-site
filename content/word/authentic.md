@@ -97,7 +97,7 @@ TOEICでは、商品説明や証明書、レストラン紹介などで「本物
 ## 🤔  genuine との違いは？
 
 - **authentic**：本物であること、特に「由緒正しい」「信頼できる」ニュアンスが強い
-- **[genuine](/word/genuine)**：偽りがなく「純粋」「誠実」であることを強調
+- **[genuine](/word/genuine/)**：偽りがなく「純粋」「誠実」であることを強調
 
 authenticは「出所や伝統が正しい本物」であることを強調し、genuineは「偽りがない・心からの」という誠実さや純粋さに重点があります。
 
@@ -105,14 +105,14 @@ authenticは「出所や伝統が正しい本物」であることを強調し�
 
 ## 🧩 あわせて覚えたい
 
-- [fake](/word/fake)：偽物、偽の
-- [original](/word/original)：原物、独自の
+- [fake](/word/fake/)：偽物、偽の
+- [original](/word/original/)：原物、独自の
 
 ---
 
 ## 📖 できればこれも
 
-- [reliable](/word/reliable)：信頼できる
-- [credible](/word/credible)：信用できる
+- [reliable](/word/reliable/)：信頼できる
+- [credible](/word/credible/)：信用できる
 
 <!-- cvid: aid34_bid26 -->

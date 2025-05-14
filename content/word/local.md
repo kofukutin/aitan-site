@@ -97,7 +97,7 @@ TOEICでは、地元の企業や地域のサービス、現地採用などの文
 ## 🤔  regional との違いは？
 
 - **local**：特定の小さな地域や地元を指す
-- **[regional](/word/regional)**：より広い「地域全体」や「地方」を指す
+- **[regional](/word/regional/)**：より広い「地域全体」や「地方」を指す
 
 「local」は町や市など狭い範囲、「regional」は複数の市や県を含む広い範囲を指すときに使い分けます。
 
@@ -105,14 +105,14 @@ TOEICでは、地元の企業や地域のサービス、現地採用などの文
 
 ## 🧩 あわせて覚えたい
 
-- [domestic](/word/domestic)：国内の
-- [international](/word/international)：国際的な
+- [domestic](/word/domestic/)：国内の
+- [international](/word/international/)：国際的な
 
 ---
 
 ## 📖 できればこれも
 
-- [global](/word/global)：世界的な
-- [national](/word/national)：国家の、全国的な
+- [global](/word/global/)：世界的な
+- [national](/word/national/)：国家の、全国的な
 
 <!-- cvid: aid01_bid43 -->

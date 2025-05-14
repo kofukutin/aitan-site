@@ -97,7 +97,7 @@ TOEICではビジネス文脈で「平均値」や「標準的な数値」を説
 ## 🤔  mean との違いは？
 
 - **average**：一般的に「平均値」全般を指し、日常会話やビジネスで幅広く使われる。
-- **[mean](/word/mean)**：数学的・統計的な「算術平均」を指し、ややフォーマルで専門的。
+- **[mean](/word/mean/)**：数学的・統計的な「算術平均」を指し、ややフォーマルで専門的。
 
 averageは日常的な「平均」、meanは数学や統計で使う「算術平均」として区別されます。
 
@@ -105,14 +105,14 @@ averageは日常的な「平均」、meanは数学や統計で使う「算術平
 
 ## 🧩 あわせて覚えたい
 
-- [median](/word/median)：中央値
-- [typical](/word/typical)：典型的な
+- [median](/word/median/)：中央値
+- [typical](/word/typical/)：典型的な
 
 ---
 
 ## 📖 できればこれも
 
-- [total](/word/total)：合計
-- [rate](/word/rate)：率、割合
+- [total](/word/total/)：合計
+- [rate](/word/rate/)：率、割合
 
 <!-- cvid: aid09_bid29 -->

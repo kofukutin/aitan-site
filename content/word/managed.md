@@ -97,7 +97,7 @@ TOEICでは「manage to do（なんとか～する）」や「be managed by（�
 ## 🤔  handled との違いは？
 
 - **managed**：全体を計画・管理したり、困難を乗り越えたニュアンス
-- **[handled](/word/handled)**：具体的な作業や問題を「対処した」「処理した」ニュアンス
+- **[handled](/word/handled/)**：具体的な作業や問題を「対処した」「処理した」ニュアンス
 
 managedは「全体をまとめて管理した」や「困難をなんとかした」時に使い、handledは「個別の作業や問題に対応した」時に使います。
 
@@ -105,14 +105,14 @@ managedは「全体をまとめて管理した」や「困難をなんとかし�
 
 ## 🧩 あわせて覚えたい
 
-- [supervise](/word/supervise)：監督する、指導する
-- [control](/word/control)：制御する、抑制する
+- [supervise](/word/supervise/)：監督する、指導する
+- [control](/word/control/)：制御する、抑制する
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange)：手配する、整える
-- [organize](/word/organize)：組織する、まとめる
+- [arrange](/word/arrange/)：手配する、整える
+- [organize](/word/organize/)：組織する、まとめる
 
 <!-- cvid: aid44_bid29 -->

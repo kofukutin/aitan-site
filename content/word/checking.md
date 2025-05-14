@@ -97,7 +97,7 @@ TOEICでは銀行や金融に関する長文やEメール、案内文で「check
 ## 🤔  savings との違いは？
 
 - **checking**：日常の支払いや引き出しに使う当座預金口座
-- **[savings](/word/savings)**：貯蓄や利息を目的とした預金口座
+- **[savings](/word/savings/)**：貯蓄や利息を目的とした預金口座
 
 checkingは日常的な出し入れや支払いに使う口座、savingsはお金を貯めておくための口座という違いがあります。
 
@@ -105,14 +105,14 @@ checkingは日常的な出し入れや支払いに使う口座、savingsはお�
 
 ## 🧩 あわせて覚えたい
 
-- [deposit](/word/deposit)：預金、預け入れ
-- [withdrawal](/word/withdrawal)：引き出し
+- [deposit](/word/deposit/)：預金、預け入れ
+- [withdrawal](/word/withdrawal/)：引き出し
 
 ---
 
 ## 📖 できればこれも
 
-- [account](/word/account)：口座、アカウント
-- [balance](/word/balance)：残高
+- [account](/word/account/)：口座、アカウント
+- [balance](/word/balance/)：残高
 
 <!-- cvid: aid06_bid00 -->

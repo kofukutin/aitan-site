@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写問題で、キャンプや屋外イベン
 ## 🤔  shelter との違いは？
 
 - **tent**：布やナイロンでできた仮設の小屋、主にキャンプや屋外で使う
-- **[shelter](/word/shelter)**：避難所・シェルターなど、広く「身を守る場所」全般
+- **[shelter](/word/shelter/)**：避難所・シェルターなど、広く「身を守る場所」全般
 
 tentは主にアウトドアやレジャーで使う簡易な住まい、shelterは災害時の避難所や動物の保護施設など幅広い「保護する場所」を指します。
 
@@ -105,14 +105,14 @@ tentは主にアウトドアやレジャーで使う簡易な住まい、shelter
 
 ## 🧩 あわせて覚えたい
 
-- [camp](/word/camp)：キャンプ、野営
-- [cabin](/word/cabin)：小屋、山小屋
+- [camp](/word/camp/)：キャンプ、野営
+- [cabin](/word/cabin/)：小屋、山小屋
 
 ---
 
 ## 📖 できればこれも
 
-- [blanket](/word/blanket)：毛布
-- [backpack](/word/backpack)：リュックサック
+- [blanket](/word/blanket/)：毛布
+- [backpack](/word/backpack/)：リュックサック
 
 <!-- cvid: aid00_bid19 -->

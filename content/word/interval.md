@@ -97,7 +97,7 @@ TOEICでは会議やイベントのスケジュール、休憩時間の説明な
 ## 🤔  gap との違いは？
 
 - **interval**：時間や空間の「区切り」や「間隔」を表し、計画的・規則的なイメージが強い
-- **[gap](/word/gap)**：物理的・抽象的な「すき間」や「空白」を表し、予期しない・不規則な印象がある
+- **[gap](/word/gap/)**：物理的・抽象的な「すき間」や「空白」を表し、予期しない・不規則な印象がある
 
 intervalは予定された休憩や決まった間隔に使われ、gapは思いがけず生じた空白や不足に使われます。
 
@@ -105,14 +105,14 @@ intervalは予定された休憩や決まった間隔に使われ、gapは思い
 
 ## 🧩 あわせて覚えたい
 
-- [pause](/word/pause)：一時停止、休止
-- [duration](/word/duration)：継続時間、持続期間
+- [pause](/word/pause/)：一時停止、休止
+- [duration](/word/duration/)：継続時間、持続期間
 
 ---
 
 ## 📖 できればこれも
 
-- [period](/word/period)：期間、時期
-- [break](/word/break)：休憩、中断
+- [period](/word/period/)：期間、時期
+- [break](/word/break/)：休憩、中断
 
 <!-- cvid: aid05_bid34 -->

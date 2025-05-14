@@ -97,7 +97,7 @@ TOEICでは観光やレジャー、イベント案内などの文脈で登場す
 ## 🤔  hiking との違いは？
 
 - **camping**：テントなどで野外に泊まり、自然の中で過ごすこと
-- **[hiking](/word/hiking)**：山や自然の中を歩くこと（宿泊は含まない）
+- **[hiking](/word/hiking/)**：山や自然の中を歩くこと（宿泊は含まない）
 
 campingは「泊まる」ことがポイントで、hikingは「歩く」ことが中心です。
 
@@ -105,14 +105,14 @@ campingは「泊まる」ことがポイントで、hikingは「歩く」こと�
 
 ## 🧩 あわせて覚えたい
 
-- [picnic](/word/picnic)：屋外で食事を楽しむこと
-- [travel](/word/travel)：旅行、移動すること
+- [picnic](/word/picnic/)：屋外で食事を楽しむこと
+- [travel](/word/travel/)：旅行、移動すること
 
 ---
 
 ## 📖 できればこれも
 
-- [tent](/word/tent)：テント、野営用の簡易住居
-- [outdoor](/word/outdoor)：屋外の、野外の
+- [tent](/word/tent/)：テント、野営用の簡易住居
+- [outdoor](/word/outdoor/)：屋外の、野外の
 
 <!-- cvid: aid18_bid04 -->

@@ -97,7 +97,7 @@ TOEICでは、書類や支払い、作業の分担など「別々に行う」場
 ## 🤔  individually との違いは？
 
 - **separately**：物や人を「分けて」「別々に」扱うことを強調
-- **[individually](/word/individually)**：一人ひとり・一つひとつ「個別に」扱うことを強調
+- **[individually](/word/individually/)**：一人ひとり・一つひとつ「個別に」扱うことを強調
 
 「separately」は「まとめずに分けて」という分離のニュアンスが強く、「individually」は「個人単位・個々に焦点を当てる」点が異なります。
 
@@ -105,14 +105,14 @@ TOEICでは、書類や支払い、作業の分担など「別々に行う」場
 
 ## 🧩 あわせて覚えたい
 
-- [apart](/word/apart)：離れて、別々に
-- [together](/word/together)：一緒に
+- [apart](/word/apart/)：離れて、別々に
+- [together](/word/together/)：一緒に
 
 ---
 
 ## 📖 できればこれも
 
-- [together](/word/together)：一緒に
-- [individually](/word/individually)：個別に
+- [together](/word/together/)：一緒に
+- [individually](/word/individually/)：個別に
 
 <!-- cvid: aid27_bid25 -->

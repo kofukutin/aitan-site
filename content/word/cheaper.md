@@ -97,7 +97,7 @@ We need to find a cheaper supplier.
 ## 🤔  less expensive との違いは？
 
 - **cheaper**：カジュアルで口語的。「より安い」とシンプルに伝える。
-- **[less expensive](/word/less_expensive)**：ややフォーマルで丁寧。「安価な方」とやんわり表現。
+- **[less expensive](/word/less_expensive/)**：ややフォーマルで丁寧。「安価な方」とやんわり表現。
 
 cheaperは日常会話やカジュアルな場面でよく使われ、less expensiveはビジネスやフォーマルな文書で好まれます。
 
@@ -105,14 +105,14 @@ cheaperは日常会話やカジュアルな場面でよく使われ、less expen
 
 ## 🧩 あわせて覚えたい
 
-- [affordable](/word/affordable)：手ごろな価格の
-- [expensive](/word/expensive)：高価な
+- [affordable](/word/affordable/)：手ごろな価格の
+- [expensive](/word/expensive/)：高価な
 
 ---
 
 ## 📖 できればこれも
 
-- [cheap](/word/cheap)：安い
-- [inexpensive](/word/inexpensive)：安価な、手ごろな価格の
+- [cheap](/word/cheap/)：安い
+- [inexpensive](/word/inexpensive/)：安価な、手ごろな価格の
 
 <!-- cvid: aid26_bid27 -->

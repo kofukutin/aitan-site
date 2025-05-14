@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、買い物や店舗の場面でよく
 ## 🤔  grocery store との違いは？
 
 - **supermarket**：大型で品ぞろえ豊富なセルフサービス式の店
-- **[grocery store](/word/grocery_store)**：食料品中心の小規模な店
+- **[grocery store](/word/grocery_store/)**：食料品中心の小規模な店
 
 「supermarket」は規模が大きく、日用品も多く扱うのに対し、「grocery store」は主に食料品を扱う小さめの店を指します。
 
@@ -105,14 +105,14 @@ TOEICでは主にPart 1の写真描写で、買い物や店舗の場面でよく
 
 ## 🧩 あわせて覚えたい
 
-- [convenience store](/word/convenience_store)：コンビニエンスストア
-- [department store](/word/department_store)：百貨店
+- [convenience store](/word/convenience_store/)：コンビニエンスストア
+- [department store](/word/department_store/)：百貨店
 
 ---
 
 ## 📖 できればこれも
 
-- [bakery](/word/bakery)：パン屋
-- [pharmacy](/word/pharmacy)：薬局
+- [bakery](/word/bakery/)：パン屋
+- [pharmacy](/word/pharmacy/)：薬局
 
 <!-- cvid: aid03_bid14 -->

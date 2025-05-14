@@ -97,7 +97,7 @@ TOEICでは主にPart 7のビジネス文書やEメール、求人広告など�
 ## 🤔  skill との違いは？
 
 - **expertise**：特定分野における高度で専門的な知識や技術
-- **[skill](/word/skill)**：一般的な能力や技術、習得したスキル
+- **[skill](/word/skill/)**：一般的な能力や技術、習得したスキル
 
 expertiseは「専門家レベルの知識・技術」を強調し、skillは「日常的な能力や技術」も含みます。
 
@@ -105,14 +105,14 @@ expertiseは「専門家レベルの知識・技術」を強調し、skillは「
 
 ## 🧩 あわせて覚えたい
 
-- [knowledge](/word/knowledge)：知識
-- [competence](/word/competence)：能力、適性
+- [knowledge](/word/knowledge/)：知識
+- [competence](/word/competence/)：能力、適性
 
 ---
 
 ## 📖 できればこれも
 
-- [specialist](/word/specialist)：専門家
-- [qualification](/word/qualification)：資格、能力証明
+- [specialist](/word/specialist/)：専門家
+- [qualification](/word/qualification/)：資格、能力証明
 
 <!-- cvid: aid23_bid07 -->

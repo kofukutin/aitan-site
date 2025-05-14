@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「情報が流れる」「作業がスムーズ
 ## 🤔  stream との違いは？
 
 - **flow**：絶え間なくスムーズに流れること全般に使う
-- **[stream](/word/stream)**：小川や細い流れ、またはデータの連続的な流れなど限定的な場面で使う
+- **[stream](/word/stream/)**：小川や細い流れ、またはデータの連続的な流れなど限定的な場面で使う
 
 flowは「全体的な流れ」や「進行」に幅広く使えますが、streamは「細い流れ」や「連続データ」など限定的なニュアンスがあります。
 
@@ -105,14 +105,14 @@ flowは「全体的な流れ」や「進行」に幅広く使えますが、stre
 
 ## 🧩 あわせて覚えたい
 
-- [circulate](/word/circulate)：循環する、回る
-- [block](/word/block)：せき止める、妨げる
+- [circulate](/word/circulate/)：循環する、回る
+- [block](/word/block/)：せき止める、妨げる
 
 ---
 
 ## 📖 できればこれも
 
-- [move](/word/move)：動く、移動する
-- [transfer](/word/transfer)：移す、転送する
+- [move](/word/move/)：動く、移動する
+- [transfer](/word/transfer/)：移す、転送する
 
 <!-- cvid: aid30_bid12 -->

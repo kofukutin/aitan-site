@@ -97,7 +97,7 @@ TOEICでは健康やライフスタイル、自己管理に関する長文や記
 ## 🤔  reflection との違いは？
 
 - **meditation**：心を静めて意識的に集中する「瞑想」や「精神統一」を指す
-- **[reflection](/word/reflection)**：過去の出来事や自分の考えを「振り返る」「内省する」こと
+- **[reflection](/word/reflection/)**：過去の出来事や自分の考えを「振り返る」「内省する」こと
 
 meditationは精神を落ち着ける行為そのもの、reflectionは出来事や自分自身を振り返る思考に重点があります。
 
@@ -105,14 +105,14 @@ meditationは精神を落ち着ける行為そのもの、reflectionは出来事
 
 ## 🧩 あわせて覚えたい
 
-- [contemplation](/word/contemplation)：熟考、深い思索
-- [relaxation](/word/relaxation)：リラックス、くつろぎ
+- [contemplation](/word/contemplation/)：熟考、深い思索
+- [relaxation](/word/relaxation/)：リラックス、くつろぎ
 
 ---
 
 ## 📖 できればこれも
 
-- [focus](/word/focus)：集中、焦点
-- [concentration](/word/concentration)：集中力、専念
+- [focus](/word/focus/)：集中、焦点
+- [concentration](/word/concentration/)：集中力、専念
 
 <!-- cvid: aid08_bid21 -->

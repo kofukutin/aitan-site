@@ -97,7 +97,7 @@ TOEICではPart 7の長文や説明文で「preceding section（前のセクシ�
 ## 🤔  previous との違いは？
 
 - **preceding**：直前の、すぐ前の
-- **[previous](/word/previous)**：以前の、過去の
+- **[previous](/word/previous/)**：以前の、過去の
 
 「preceding」は直前や直前のものを強調し、順序や並びの中で「すぐ前」を指します。「previous」は「前の」「以前の」と広く過去を指し、必ずしも直前とは限りません。
 
@@ -105,14 +105,14 @@ TOEICではPart 7の長文や説明文で「preceding section（前のセクシ�
 
 ## 🧩 あわせて覚えたい
 
-- [following](/word/following)：次の、後の
-- [prior](/word/prior)：前の、事前の
+- [following](/word/following/)：次の、後の
+- [prior](/word/prior/)：前の、事前の
 
 ---
 
 ## 📖 できればこれも
 
-- [subsequent](/word/subsequent)：その後の、次の
-- [current](/word/current)：現在の、今の
+- [subsequent](/word/subsequent/)：その後の、次の
+- [current](/word/current/)：現在の、今の
 
 <!-- cvid: aid44_bid39 -->

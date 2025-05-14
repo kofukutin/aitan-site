@@ -97,7 +97,7 @@ TOEICでは正式な「university」が主に使われ、「univ」はカジュ�
 ## 🤔  college との違いは？
 
 - **univ**：大学（university）の略で、カジュアルな表現。
-- **[college](/word/college)**：大学や短大を指し、アメリカ英語では一般的な「大学」の呼び方。
+- **[college](/word/college/)**：大学や短大を指し、アメリカ英語では一般的な「大学」の呼び方。
 
 univはuniversityの略語で、主にカジュアルな場面で使われますが、collegeは正式な単語で、特にアメリカでは一般的に使われます。
 
@@ -105,14 +105,14 @@ univはuniversityの略語で、主にカジュアルな場面で使われます
 
 ## 🧩 あわせて覚えたい
 
-- [campus](/word/campus)：大学の構内、キャンパス
-- [faculty](/word/faculty)：大学の学部、教授陣
+- [campus](/word/campus/)：大学の構内、キャンパス
+- [faculty](/word/faculty/)：大学の学部、教授陣
 
 ---
 
 ## 📖 できればこれも
 
-- [class](/word/class)：授業、クラス
-- [lecture](/word/lecture)：講義
+- [class](/word/class/)：授業、クラス
+- [lecture](/word/lecture/)：講義
 
 <!-- cvid: aid07_bid19 -->

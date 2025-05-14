@@ -97,7 +97,7 @@ TOEICでは主にビジネスや建設、計画に関する文脈で出題され
 ## 🤔  build との違いは？
 
 - **construct**：計画的・組織的に建設・構築する（フォーマル）
-- **[build](/word/build)**：一般的に「作る」「建てる」。日常的で幅広い意味
+- **[build](/word/build/)**：一般的に「作る」「建てる」。日常的で幅広い意味
 
 constructは特に大規模・計画的な建設や抽象的な構築に使われ、buildはもっと広く日常的な「作る」に使われます。
 
@@ -105,14 +105,14 @@ constructは特に大規模・計画的な建設や抽象的な構築に使わ�
 
 ## 🧩 あわせて覚えたい
 
-- [assemble](/word/assemble)：組み立てる
-- [demolish](/word/demolish)：取り壊す
+- [assemble](/word/assemble/)：組み立てる
+- [demolish](/word/demolish/)：取り壊す
 
 ---
 
 ## 📖 できればこれも
 
-- [establish](/word/establish)：設立する、確立する
-- [design](/word/design)：設計する
+- [establish](/word/establish/)：設立する、確立する
+- [design](/word/design/)：設計する
 
 <!-- cvid: aid45_bid29 -->

@@ -97,7 +97,7 @@ TOEICでは、案内文やEメール、施設紹介などの長文で「library�
 ## 🤔  bookstore との違いは？
 
 - **library**：本を借りたり読んだりできる公共の施設や部屋
-- **[bookstore](/word/bookstore)**：本を購入するための店
+- **[bookstore](/word/bookstore/)**：本を購入するための店
 
 libraryは「借りる・読む」場所、bookstoreは「買う」場所という違いがあります。
 
@@ -105,14 +105,14 @@ libraryは「借りる・読む」場所、bookstoreは「買う」場所とい�
 
 ## 🧩 あわせて覚えたい
 
-- [archive](/word/archive)：公文書館、記録保管所
-- [collection](/word/collection)：収集物、コレクション
+- [archive](/word/archive/)：公文書館、記録保管所
+- [collection](/word/collection/)：収集物、コレクション
 
 ---
 
 ## 📖 できればこれも
 
-- [museum](/word/museum)：博物館、美術館
-- [laboratory](/word/laboratory)：実験室、研究室
+- [museum](/word/museum/)：博物館、美術館
+- [laboratory](/word/laboratory/)：実験室、研究室
 
 <!-- cvid: aid20_bid45 -->

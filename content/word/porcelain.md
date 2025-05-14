@@ -96,7 +96,7 @@ TOEICでは観光案内や商品説明、展示会の案内文などで登場す
 ## 🤔  ceramic との違いは？
 
 - **porcelain**：白くて薄く、光沢があり高級感のある磁器を指す。
-- **[ceramic](/word/ceramic)**：陶磁器全般を指し、磁器だけでなく土器や焼き物も含む広い意味。
+- **[ceramic](/word/ceramic/)**：陶磁器全般を指し、磁器だけでなく土器や焼き物も含む広い意味。
 
 porcelainはceramicの一種ですが、より高級で繊細なものを指します。ceramicは素材や用途が幅広いです。
 
@@ -104,14 +104,14 @@ porcelainはceramicの一種ですが、より高級で繊細なものを指し�
 
 ## 🧩 あわせて覚えたい
 
-- [china](/word/china)：磁器、陶磁器（特に中国製のものや一般的な磁器）
-- [pottery](/word/pottery)：陶器、焼き物（磁器よりも素朴で厚みがある）
+- [china](/word/china/)：磁器、陶磁器（特に中国製のものや一般的な磁器）
+- [pottery](/word/pottery/)：陶器、焼き物（磁器よりも素朴で厚みがある）
 
 ---
 
 ## 📖 できればこれも
 
-- [glass](/word/glass)：ガラス
-- [crystal](/word/crystal)：クリスタルガラス、結晶
+- [glass](/word/glass/)：ガラス
+- [crystal](/word/crystal/)：クリスタルガラス、結晶
 
 <!-- cvid: aid06_bid01 -->

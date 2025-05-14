@@ -98,7 +98,7 @@ strictlyは、規則や手順、条件を強調する文脈でPart 5の語彙・
 ## 🤔  severely との違いは？
 
 - **strictly**：規則や基準を「厳格に」「厳密に」守ることを強調する。
-- **[severely](/word/severely)**：状況や行動が「厳しく」「容赦なく」行われることを強調する。
+- **[severely](/word/severely/)**：状況や行動が「厳しく」「容赦なく」行われることを強調する。
 
 strictlyはルールや手順の「厳格さ」に焦点があり、severelyは「厳しさ」や「容赦のなさ」に重点があります。
 
@@ -106,14 +106,14 @@ strictlyはルールや手順の「厳格さ」に焦点があり、severelyは�
 
 ## 🧩 あわせて覚えたい
 
-- [firmly](/word/firmly)：しっかりと、断固として
-- [precisely](/word/precisely)：正確に、ちょうど
+- [firmly](/word/firmly/)：しっかりと、断固として
+- [precisely](/word/precisely/)：正確に、ちょうど
 
 ---
 
 ## 📖 できればこれも
 
-- [closely](/word/closely)：注意深く、密接に
-- [seriously](/word/seriously)：真剣に、本気で
+- [closely](/word/closely/)：注意深く、密接に
+- [seriously](/word/seriously/)：真剣に、本気で
 
 <!-- cvid: aid34_bid34 -->

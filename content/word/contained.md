@@ -97,7 +97,7 @@ TOEICでは、文書内の情報や内容が「含まれている」ことを説
 ## 🤔  included との違いは？
 
 - **contained**：何かの中に物理的・抽象的に「収められている」「抑えられている」状態を強調。
-- **[included](/word/included)**：全体の一部として「含まれている」ことを強調。
+- **[included](/word/included/)**：全体の一部として「含まれている」ことを強調。
 
 「contained」は「枠や範囲の中に収まっている」ニュアンスがあり、「included」は「リストやグループの一部として加えられている」イメージです。
 
@@ -105,14 +105,14 @@ TOEICでは、文書内の情報や内容が「含まれている」ことを説
 
 ## 🧩 あわせて覚えたい
 
-- [enclosed](/word/enclosed)：同封された、囲まれた
-- [restricted](/word/restricted)：制限された
+- [enclosed](/word/enclosed/)：同封された、囲まれた
+- [restricted](/word/restricted/)：制限された
 
 ---
 
 ## 📖 できればこれも
 
-- [attached](/word/attached)：添付された
-- [limited](/word/limited)：限定された
+- [attached](/word/attached/)：添付された
+- [limited](/word/limited/)：限定された
 
 <!-- cvid: aid42_bid13 -->

@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やメール、報告書などで「脅威」
 ## 🤔  warning との違いは？
 
 - **threat**：実際に危険や損害を与える可能性がある「脅威」や「脅し」
-- **[warning](/word/warning)**：危険を知らせる「警告」や「注意」
+- **[warning](/word/warning/)**：危険を知らせる「警告」や「注意」
 
 「threat」は現実的な危険や損害の可能性を指し、「warning」はその危険を知らせる行為やメッセージを指します。
 
@@ -105,14 +105,14 @@ TOEICでは主にビジネス文書やメール、報告書などで「脅威」
 
 ## 🧩 あわせて覚えたい
 
-- [risk](/word/risk)：リスク、危険性
-- [promise](/word/promise)：約束、保証
+- [risk](/word/risk/)：リスク、危険性
+- [promise](/word/promise/)：約束、保証
 
 ---
 
 ## 📖 できればこれも
 
-- [danger](/word/danger)：危険
-- [issue](/word/issue)：問題、課題
+- [danger](/word/danger/)：危険
+- [issue](/word/issue/)：問題、課題
 
 <!-- cvid: aid13_bid21 -->

@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やEメール、広告などで「代理人」�
 ## 🤔  representative との違いは？
 
 - **agent**：他人や組織の代理として行動し、契約や取引などを実際に行う人・組織
-- **[representative](/word/representative)**：組織や集団を代表する人で、必ずしも代理権や実務権限を持つとは限らない
+- **[representative](/word/representative/)**：組織や集団を代表する人で、必ずしも代理権や実務権限を持つとは限らない
 
 agentは「実際に代理権を持ち、行動する人」、representativeは「代表者」として表に立つ人という違いがあります。
 
@@ -105,14 +105,14 @@ agentは「実際に代理権を持ち、行動する人」、representativeは�
 
 ## 🧩 あわせて覚えたい
 
-- [broker](/word/broker)：仲介人、ブローカー
-- [agency](/word/agency)：代理店、機関
+- [broker](/word/broker/)：仲介人、ブローカー
+- [agency](/word/agency/)：代理店、機関
 
 ---
 
 ## 📖 できればこれも
 
-- [client](/word/client)：顧客、依頼人
-- [manager](/word/manager)：管理者、マネージャー
+- [client](/word/client/)：顧客、依頼人
+- [manager](/word/manager/)：管理者、マネージャー
 
 <!-- cvid: aid48_bid47 -->

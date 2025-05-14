@@ -97,7 +97,7 @@ TOEICでは「規模」「目盛り」「尺度」など複数の意味で出題
 ## 🤔  scope との違いは？
 
 - **scale**：物事の「大きさ」や「規模」を表す
-- **[scope](/word/scope)**：活動や話題の「範囲」「領域」を表す
+- **[scope](/word/scope/)**：活動や話題の「範囲」「領域」を表す
 
 「scale」は量や大きさ、「scope」はカバーする範囲や領域に焦点があります。
 
@@ -105,14 +105,14 @@ TOEICでは「規模」「目盛り」「尺度」など複数の意味で出題
 
 ## 🧩 あわせて覚えたい
 
-- [range](/word/range)：範囲、幅
-- [extent](/word/extent)：程度、範囲
+- [range](/word/range/)：範囲、幅
+- [extent](/word/extent/)：程度、範囲
 
 ---
 
 ## 📖 できればこれも
 
-- [measure](/word/measure)：測る、測定する
-- [level](/word/level)：水準、段階
+- [measure](/word/measure/)：測る、測定する
+- [level](/word/level/)：水準、段階
 
 <!-- cvid: aid07_bid37 -->

@@ -96,7 +96,7 @@ TOEICでは主にPart 1の写真描写や、レストラン・食事に関する
 ## 🤔  beef との違いは？
 
 - **pork**：豚肉を指す一般的な言い方
-- **[beef](/word/beef)**：牛肉を指す一般的な言い方
+- **[beef](/word/beef/)**：牛肉を指す一般的な言い方
 
 porkは豚肉、beefは牛肉を意味し、どちらも料理や食材の文脈で使い分けます。
 
@@ -104,14 +104,14 @@ porkは豚肉、beefは牛肉を意味し、どちらも料理や食材の文脈
 
 ## 🧩 あわせて覚えたい
 
-- [chicken](/word/chicken)：鶏肉
-- [ham](/word/ham)：ハム、豚肉の加工品
+- [chicken](/word/chicken/)：鶏肉
+- [ham](/word/ham/)：ハム、豚肉の加工品
 
 ---
 
 ## 📖 できればこれも
 
-- [meat](/word/meat)：肉全般
-- [fish](/word/fish)：魚、魚肉
+- [meat](/word/meat/)：肉全般
+- [fish](/word/fish/)：魚、魚肉
 
 <!-- cvid: aid30_bid27 -->

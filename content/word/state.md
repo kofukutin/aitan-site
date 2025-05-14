@@ -97,7 +97,7 @@ TOEICでは「状態」や「州」、「述べる」という意味でPart 5や
 ## 🤔  condition との違いは？
 
 - **state**：ある時点での全体的な「状態」や「ありさま」を表す。
-- **[condition](/word/condition)**：特定の条件や健康・機械の「調子」を表す。
+- **[condition](/word/condition/)**：特定の条件や健康・機械の「調子」を表す。
 
 「state」は全体的な状況や抽象的な状態を指し、「condition」はより具体的な条件や健康・機械の良し悪しに使われます。
 
@@ -105,14 +105,14 @@ TOEICでは「状態」や「州」、「述べる」という意味でPart 5や
 
 ## 🧩 あわせて覚えたい
 
-- [status](/word/status)：（社会的な）地位、状況
-- [situation](/word/situation)：（ある時点の）状況、場面
+- [status](/word/status/)：（社会的な）地位、状況
+- [situation](/word/situation/)：（ある時点の）状況、場面
 
 ---
 
 ## 📖 できればこれも
 
-- [stage](/word/stage)：段階、舞台
-- [phase](/word/phase)：（変化の）段階、局面
+- [stage](/word/stage/)：段階、舞台
+- [phase](/word/phase/)：（変化の）段階、局面
 
 <!-- cvid: aid09_bid44 -->

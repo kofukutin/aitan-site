@@ -97,7 +97,7 @@ TOEICでは、物の長さや時間の比較をする場面で出題されやす
 ## 🤔  most との違いは？
 
 - **longest**：長さや時間が「最も長い」ことを表す最上級
-- **[most](/word/most)**：数量や程度が「最も多い」「最大の」ことを表す最上級
+- **[most](/word/most/)**：数量や程度が「最も多い」「最大の」ことを表す最上級
 
 「longest」は長さや時間の比較に使い、「most」は数や量、程度の比較に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、物の長さや時間の比較をする場面で出題されやす
 
 ## 🧩 あわせて覚えたい
 
-- [shortest](/word/shortest)：最も短い
-- [tallest](/word/tallest)：最も背が高い
+- [shortest](/word/shortest/)：最も短い
+- [tallest](/word/tallest/)：最も背が高い
 
 ---
 
 ## 📖 できればこれも
 
-- [long](/word/long)：長い
-- [longer](/word/longer)：より長い
+- [long](/word/long/)：長い
+- [longer](/word/longer/)：より長い
 
 <!-- cvid: aid40_bid07 -->

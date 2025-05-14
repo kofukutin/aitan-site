@@ -97,7 +97,7 @@ TOEICでは主に医療や法務、ビジネスの長文読解で登場し、専
 ## 🤔  negligence との違いは？
 
 - **malpractice**：専門職による不正行為や職務怠慢、特に医療・法務分野で使う
-- **[negligence](/word/negligence)**：一般的な不注意や怠慢、職種を問わず幅広く使う
+- **[negligence](/word/negligence/)**：一般的な不注意や怠慢、職種を問わず幅広く使う
 
 malpracticeは専門職の責任ある立場での重大な過失や不正を指し、negligenceは日常的な不注意や怠慢にも使えます。
 
@@ -105,14 +105,14 @@ malpracticeは専門職の責任ある立場での重大な過失や不正を指
 
 ## 🧩 あわせて覚えたい
 
-- [misconduct](/word/misconduct)：不正行為、職務違反
-- [liability](/word/liability)：法的責任、負債
+- [misconduct](/word/misconduct/)：不正行為、職務違反
+- [liability](/word/liability/)：法的責任、負債
 
 ---
 
 ## 📖 できればこれも
 
-- [lawsuit](/word/lawsuit)：訴訟
-- [violation](/word/violation)：違反
+- [lawsuit](/word/lawsuit/)：訴訟
+- [violation](/word/violation/)：違反
 
 <!-- cvid: aid44_bid26 -->

@@ -97,7 +97,7 @@ feeはTOEICのPart 5やPart 6で「手数料」「料金」として頻出しま
 ## 🤔  charge との違いは？
 
 - **fee**：専門的なサービスや入会などに対する料金・手数料
-- **[charge](/word/charge)**：一般的な商品やサービスの代金、請求額
+- **[charge](/word/charge/)**：一般的な商品やサービスの代金、請求額
 
 feeは「専門的なサービス」や「資格・入会」など限定的な料金に使い、chargeはより広く「請求される金額」全般に使います。
 
@@ -105,14 +105,14 @@ feeは「専門的なサービス」や「資格・入会」など限定的な�
 
 ## 🧩 あわせて覚えたい
 
-- [fare](/word/fare)：（乗り物の）運賃
-- [tuition](/word/tuition)：（学校などの）授業料
+- [fare](/word/fare/)：（乗り物の）運賃
+- [tuition](/word/tuition/)：（学校などの）授業料
 
 ---
 
 ## 📖 できればこれも
 
-- [bill](/word/bill)：請求書、勘定
-- [cost](/word/cost)：費用、コスト
+- [bill](/word/bill/)：請求書、勘定
+- [cost](/word/cost/)：費用、コスト
 
 <!-- cvid: aid43_bid36 -->

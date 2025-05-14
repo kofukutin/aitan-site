@@ -97,7 +97,7 @@ TOEICでは、会話や説明文で「劇場」「映画館」として登場す
 ## 🤔  cinema との違いは？
 
 - **theater**：演劇や映画を上演・上映する場所。米国では映画館の意味も強い。
-- **[cinema](/word/cinema)**：主に映画館を指し、イギリス英語でよく使われる。
+- **[cinema](/word/cinema/)**：主に映画館を指し、イギリス英語でよく使われる。
 
 theaterは演劇・映画の両方に使えますが、cinemaは映画館限定で使われることが多いです。
 
@@ -105,14 +105,14 @@ theaterは演劇・映画の両方に使えますが、cinemaは映画館限定�
 
 ## 🧩 あわせて覚えたい
 
-- [auditorium](/word/auditorium)：講堂、大ホール
-- [stage](/word/stage)：舞台
+- [auditorium](/word/auditorium/)：講堂、大ホール
+- [stage](/word/stage/)：舞台
 
 ---
 
 ## 📖 できればこれも
 
-- [museum](/word/museum)：博物館
-- [gallery](/word/gallery)：美術館、ギャラリー
+- [museum](/word/museum/)：博物館
+- [gallery](/word/gallery/)：美術館、ギャラリー
 
 <!-- cvid: aid05_bid40 -->

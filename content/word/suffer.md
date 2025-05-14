@@ -97,7 +97,7 @@ sufferは、健康や経済的損失、困難な状況を表す文脈で会話�
 ## 🤔  undergo との違いは？
 
 - **suffer**：苦しみや損害など、否定的な経験を強調する
-- **[undergo](/word/undergo)**：治療や変化など、良し悪しに関係なく「経験する」
+- **[undergo](/word/undergo/)**：治療や変化など、良し悪しに関係なく「経験する」
 
 sufferは「つらい思いをする」ことに焦点があり、undergoは単に「何かを受ける・経験する」ときに使います。
 
@@ -105,14 +105,14 @@ sufferは「つらい思いをする」ことに焦点があり、undergoは単�
 
 ## 🧩 あわせて覚えたい
 
-- [endure](/word/endure)：耐える、我慢する
-- [recover](/word/recover)：回復する
+- [endure](/word/endure/)：耐える、我慢する
+- [recover](/word/recover/)：回復する
 
 ---
 
 ## 📖 できればこれも
 
-- [hurt](/word/hurt)：傷つける、痛む
-- [heal](/word/heal)：治す、癒す
+- [hurt](/word/hurt/)：傷つける、痛む
+- [heal](/word/heal/)：治す、癒す
 
 <!-- cvid: aid10_bid23 -->

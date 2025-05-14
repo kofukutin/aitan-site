@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、赤ちゃんや家庭のシーンを
 ## 🤔  crib との違いは？
 
 - **cradle**：揺り動かせる「ゆりかご」。主に新生児向けで、揺れる構造が特徴。
-- **[crib](/word/crib)**：柵付きの「ベビーベッド」。揺れない構造で、少し大きい赤ちゃんにも使う。
+- **[crib](/word/crib/)**：柵付きの「ベビーベッド」。揺れない構造で、少し大きい赤ちゃんにも使う。
 
 cradleは揺らして寝かしつける小型ベッド、cribは安全柵付きの固定ベッドという違いがあります。
 
@@ -105,14 +105,14 @@ cradleは揺らして寝かしつける小型ベッド、cribは安全柵付き�
 
 ## 🧩 あわせて覚えたい
 
-- [rock](/word/rock)：揺り動かす
-- [origin](/word/origin)：起源、発祥
+- [rock](/word/rock/)：揺り動かす
+- [origin](/word/origin/)：起源、発祥
 
 ---
 
 ## 📖 できればこれも
 
-- [blanket](/word/blanket)：毛布
-- [nursery](/word/nursery)：保育園、託児所
+- [blanket](/word/blanket/)：毛布
+- [nursery](/word/nursery/)：保育園、託児所
 
 <!-- cvid: aid25_bid04 -->

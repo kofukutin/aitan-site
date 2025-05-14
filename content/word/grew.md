@@ -97,7 +97,7 @@ TOEICでは、売上や会社の規模、個人のスキルなどが「増えた
 ## 🤔  increased との違いは？
 
 - **grew**：自然に成長・増加したことを表す
-- **[increased](/word/increased)**：数量や数値が上がったことを強調
+- **[increased](/word/increased/)**：数量や数値が上がったことを強調
 
 「grew」は自然な成長や発展、「increased」は数値や量が上がったことを客観的に述べる時に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、売上や会社の規模、個人のスキルなどが「増えた
 
 ## 🧩 あわせて覚えたい
 
-- [expand](/word/expand)：拡大する
-- [develop](/word/develop)：発展する
+- [expand](/word/expand/)：拡大する
+- [develop](/word/develop/)：発展する
 
 ---
 
 ## 📖 できればこれも
 
-- [rise](/word/rise)：上昇する
-- [improve](/word/improve)：改善する
+- [rise](/word/rise/)：上昇する
+- [improve](/word/improve/)：改善する
 
 <!-- cvid: aid07_bid33 -->

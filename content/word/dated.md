@@ -97,7 +97,7 @@ TOEICでは、メールや報告書、広告文などで「情報が古い」「
 ## 🤔  obsolete との違いは？
 
 - **dated**：古くさい、時代遅れだが、まだ使える場合もある
-- **[obsolete](/word/obsolete)**：完全に廃れて使われなくなった
+- **[obsolete](/word/obsolete/)**：完全に廃れて使われなくなった
 
 「dated」は「ちょっと古い」「今の流行ではない」程度ですが、「obsolete」は「完全に時代遅れで役に立たない」という強い否定的ニュアンスです。
 
@@ -105,13 +105,13 @@ TOEICでは、メールや報告書、広告文などで「情報が古い」「
 
 ## 🧩 あわせて覚えたい
 
-- [current](/word/current)：現在の、最新の
-- [outdated](/word/outdated)：時代遅れの、古くなった
+- [current](/word/current/)：現在の、最新の
+- [outdated](/word/outdated/)：時代遅れの、古くなった
 
 ---
 
 ## 📖 できればこれも
 
-- [recent](/word/recent)：最近の
-- [modern](/word/modern)：現代的な、最新の
+- [recent](/word/recent/)：最近の
+- [modern](/word/modern/)：現代的な、最新の
 <!-- cvid: aid38_bid31 -->

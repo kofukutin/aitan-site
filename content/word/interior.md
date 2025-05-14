@@ -97,7 +97,7 @@ TOEICでは、建物や部屋の説明、デザインや改装に関する長文
 ## 🤔  inside との違いは？
 
 - **interior**：建物や物の「内部」や「内装」を指し、フォーマルで専門的な場面で使われる。
-- **[inside](/word/inside)**：よりカジュアルに「中」「内側」を表し、日常会話で広く使われる。
+- **[inside](/word/inside/)**：よりカジュアルに「中」「内側」を表し、日常会話で広く使われる。
 
 interiorは特に建物や車などの「内装」や「内部空間」を強調する時に使い、insideは単に「中にある」ことを表します。
 
@@ -105,14 +105,14 @@ interiorは特に建物や車などの「内装」や「内部空間」を強調
 
 ## 🧩 あわせて覚えたい
 
-- [exterior](/word/exterior)：外部、外装
-- [internal](/word/internal)：内部の、内面的な
+- [exterior](/word/exterior/)：外部、外装
+- [internal](/word/internal/)：内部の、内面的な
 
 ---
 
 ## 📖 できればこれも
 
-- [structure](/word/structure)：構造、建造物
-- [design](/word/design)：設計、デザイン
+- [structure](/word/structure/)：構造、建造物
+- [design](/word/design/)：設計、デザイン
 
 <!-- cvid: aid04_bid05 -->

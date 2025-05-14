@@ -98,7 +98,7 @@ TOEICではPart 2のリスニングや会話文で、過去の出来事を尋ね
 ## 🤔  eat との違いは？
 
 - **ate**：過去に「食べた」という意味で使う
-- **[eat](/word/eat)**：現在や習慣的に「食べる」という意味で使う
+- **[eat](/word/eat/)**：現在や習慣的に「食べる」という意味で使う
 
 「ate」は過去の出来事、「eat」は現在や普段の行動を表します。
 
@@ -106,14 +106,14 @@ TOEICではPart 2のリスニングや会話文で、過去の出来事を尋ね
 
 ## 🧩 あわせて覚えたい
 
-- [consume](/word/consume)：消費する、食べる（フォーマルな表現）
-- [devour](/word/devour)：むさぼり食う、がつがつ食べる
+- [consume](/word/consume/)：消費する、食べる（フォーマルな表現）
+- [devour](/word/devour/)：むさぼり食う、がつがつ食べる
 
 ---
 
 ## 📖 できればこれも
 
-- [drink](/word/drink)：飲む
-- [cook](/word/cook)：料理する
+- [drink](/word/drink/)：飲む
+- [cook](/word/cook/)：料理する
 
 <!-- cvid: aid36_bid37 -->

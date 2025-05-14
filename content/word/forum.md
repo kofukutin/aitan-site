@@ -97,7 +97,7 @@ TOEICでは、ビジネスや学術的な文脈で「討論の場」や「意見
 ## 🤔  conference との違いは？
 
 - **forum**：意見交換や討論を重視した集まりや場
-- **[conference](/word/conference)**：主に発表や報告、情報共有を目的とした大規模な会議
+- **[conference](/word/conference/)**：主に発表や報告、情報共有を目的とした大規模な会議
 
 forumは参加者同士の双方向的な議論が中心ですが、conferenceは発表や講演が中心で、参加者は聴講者であることが多いです。
 
@@ -105,14 +105,14 @@ forumは参加者同士の双方向的な議論が中心ですが、conference�
 
 ## 🧩 あわせて覚えたい
 
-- [seminar](/word/seminar)：特定テーマの講義や研修
-- [panel](/word/panel)：専門家による討論会
+- [seminar](/word/seminar/)：特定テーマの講義や研修
+- [panel](/word/panel/)：専門家による討論会
 
 ---
 
 ## 📖 できればこれも
 
-- [committee](/word/committee)：委員会
-- [session](/word/session)：会議や講義のひと区切り
+- [committee](/word/committee/)：委員会
+- [session](/word/session/)：会議や講義のひと区切り
 
 <!-- cvid: aid47_bid35 -->

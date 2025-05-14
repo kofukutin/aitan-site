@@ -97,7 +97,7 @@ TOEICでは「条件を満たす」「顧客を満足させる」などの意味
 ## 🤔  fulfill との違いは？
 
 - **satisfy**：要求や条件、欲求などを「満たす」「満足させる」
-- **[fulfill](/word/fulfill)**：義務や約束、目標などを「果たす」「実現する」
+- **[fulfill](/word/fulfill/)**：義務や約束、目標などを「果たす」「実現する」
 
 satisfyは「満足感」や「条件を満たす」ことに重点があり、fulfillは「責任や約束を果たす」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ satisfyは「満足感」や「条件を満たす」ことに重点があり、f
 
 ## 🧩 あわせて覚えたい
 
-- [meet](/word/meet)：（条件・要求などを）満たす
-- [please](/word/please)：（人を）喜ばせる、満足させる
+- [meet](/word/meet/)：（条件・要求などを）満たす
+- [please](/word/please/)：（人を）喜ばせる、満足させる
 
 ---
 
 ## 📖 できればこれも
 
-- [require](/word/require)：要求する、必要とする
-- [achieve](/word/achieve)：達成する
+- [require](/word/require/)：要求する、必要とする
+- [achieve](/word/achieve/)：達成する
 
 <!-- cvid: aid17_bid29 -->

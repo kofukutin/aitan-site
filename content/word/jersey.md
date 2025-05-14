@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、スポーツやイベントの場面で
 ## 🤔  uniform との違いは？
 
 - **jersey**：スポーツチームのシャツや柔らかい編み物生地の衣服
-- **[uniform](/word/uniform)**：学校や会社などで着る制服全般
+- **[uniform](/word/uniform/)**：学校や会社などで着る制服全般
 
 jerseyは主にスポーツやカジュアルな場面で使われ、uniformはフォーマルな制服や規定の服装を指します。
 
@@ -105,14 +105,14 @@ jerseyは主にスポーツやカジュアルな場面で使われ、uniformは�
 
 ## 🧩 あわせて覚えたい
 
-- [sweater](/word/sweater)：セーター、編み物の上着
-- [kit](/word/kit)：（スポーツの）一式、用具セット
+- [sweater](/word/sweater/)：セーター、編み物の上着
+- [kit](/word/kit/)：（スポーツの）一式、用具セット
 
 ---
 
 ## 📖 できればこれも
 
-- [cap](/word/cap)：帽子
-- [scarf](/word/scarf)：マフラー、スカーフ
+- [cap](/word/cap/)：帽子
+- [scarf](/word/scarf/)：マフラー、スカーフ
 
 <!-- cvid: aid35_bid05 -->

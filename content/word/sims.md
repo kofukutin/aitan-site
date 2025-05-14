@@ -97,7 +97,7 @@ ITやゲーム、教育分野の長文やメール文中で登場することが
 ## 🤔  simulation との違いは？
 
 - **sims**：現実を模倣したゲームやプログラム、またはそのキャラクターを指すカジュアルな表現。
-- **[simulation](/word/simulation)**：現実の状況やプロセスを再現すること全般を指すフォーマルな単語。
+- **[simulation](/word/simulation/)**：現実の状況やプロセスを再現すること全般を指すフォーマルな単語。
 
 simsは主にゲームやIT分野で使われ、simulationはより広い分野で使われるフォーマルな語です。
 
@@ -105,14 +105,14 @@ simsは主にゲームやIT分野で使われ、simulationはより広い分野�
 
 ## 🧩 あわせて覚えたい
 
-- [model](/word/model)：モデル、模範、模型
-- [avatar](/word/avatar)：アバター、分身（仮想空間のキャラクター）
+- [model](/word/model/)：モデル、模範、模型
+- [avatar](/word/avatar/)：アバター、分身（仮想空間のキャラクター）
 
 ---
 
 ## 📖 できればこれも
 
-- [virtual](/word/virtual)：仮想の、バーチャルな
-- [scenario](/word/scenario)：シナリオ、想定される状況
+- [virtual](/word/virtual/)：仮想の、バーチャルな
+- [scenario](/word/scenario/)：シナリオ、想定される状況
 
 <!-- cvid: aid26_bid38 -->

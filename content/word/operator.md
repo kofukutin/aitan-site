@@ -97,7 +97,7 @@ TOEICでは、工場やオフィス、IT関連の会話で「operator」が登�
 ## 🤔  engineer との違いは？
 
 - **operator**：機械やシステムを実際に操作・運用する人
-- **[engineer](/word/engineer)**：設計や開発、技術的な問題解決を行う技術者
+- **[engineer](/word/engineer/)**：設計や開発、技術的な問題解決を行う技術者
 
 operatorは「現場で動かす人」、engineerは「設計や技術面を担当する人」と覚えると区別しやすいです。
 
@@ -105,14 +105,14 @@ operatorは「現場で動かす人」、engineerは「設計や技術面を担�
 
 ## 🧩 あわせて覚えたい
 
-- [technician](/word/technician)：技術者、専門的な作業を行う人
-- [administrator](/word/administrator)：管理者、運営責任者
+- [technician](/word/technician/)：技術者、専門的な作業を行う人
+- [administrator](/word/administrator/)：管理者、運営責任者
 
 ---
 
 ## 📖 できればこれも
 
-- [device](/word/device)：装置、機器
-- [system](/word/system)：システム、体系
+- [device](/word/device/)：装置、機器
+- [system](/word/system/)：システム、体系
 
 <!-- cvid: aid07_bid11 -->

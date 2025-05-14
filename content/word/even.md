@@ -97,7 +97,7 @@ TOEICでは、強調や意外性を表す副詞として空所補充問題でよ
 ## 🤔  still との違いは？
 
 - **even**：意外性や強調を表す（～でさえ、さらに）
-- **[still](/word/still)**：継続や「まだ」を表す
+- **[still](/word/still/)**：継続や「まだ」を表す
 
 「even」は予想外のことや強調したい内容に使い、「still」は動作や状態が続いていることを表します。
 
@@ -105,14 +105,14 @@ TOEICでは、強調や意外性を表す副詞として空所補充問題でよ
 
 ## 🧩 あわせて覚えたい
 
-- [actually](/word/actually)：実は、実際に
-- [just](/word/just)：ちょうど、たった今
+- [actually](/word/actually/)：実は、実際に
+- [just](/word/just/)：ちょうど、たった今
 
 ---
 
 ## 📖 できればこれも
 
-- [only](/word/only)：～だけ
-- [also](/word/also)：～もまた
+- [only](/word/only/)：～だけ
+- [also](/word/also/)：～もまた
 
 <!-- cvid: aid01_bid01 -->

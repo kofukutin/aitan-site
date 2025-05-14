@@ -96,7 +96,7 @@ ITやビジネス文書、契約書関連の長文で「unsigned」が登場す�
 ## 🤔  unmarked との違いは？
 
 - **unsigned**：署名がされていない、または符号がない（IT用語）
-- **[unmarked](/word/unmarked)**：印やマークが付いていない
+- **[unmarked](/word/unmarked/)**：印やマークが付いていない
 
 「unsigned」は署名や符号の有無に特化し、「unmarked」は一般的に印や目印がない場合に使います。
 
@@ -104,14 +104,14 @@ ITやビジネス文書、契約書関連の長文で「unsigned」が登場す�
 
 ## 🧩 あわせて覚えたい
 
-- [signed](/word/signed)：署名された、符号付きの
-- [blank](/word/blank)：空白の、記入されていない
+- [signed](/word/signed/)：署名された、符号付きの
+- [blank](/word/blank/)：空白の、記入されていない
 
 ---
 
 ## 📖 できればこれも
 
-- [encrypted](/word/encrypted)：暗号化された
-- [verified](/word/verified)：確認された
+- [encrypted](/word/encrypted/)：暗号化された
+- [verified](/word/verified/)：確認された
 
 <!-- cvid: aid24_bid06 -->

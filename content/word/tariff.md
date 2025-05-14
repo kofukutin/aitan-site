@@ -97,7 +97,7 @@ The company is concerned about the new tariffs imposed by the government.
 ## 🤔  tax との違いは？
 
 - **tariff**：主に輸入品などに課される「関税」や「料金表」
-- **[tax](/word/tax)**：広く「税金」全般（所得税・消費税など）
+- **[tax](/word/tax/)**：広く「税金」全般（所得税・消費税など）
 
 tariffは特に貿易や国際取引で使われる「関税」を指し、taxはあらゆる種類の税金を指します。
 
@@ -105,14 +105,14 @@ tariffは特に貿易や国際取引で使われる「関税」を指し、tax�
 
 ## 🧩 あわせて覚えたい
 
-- [duty](/word/duty)：（主に関税としての）税、義務
-- [fee](/word/fee)：手数料、料金
+- [duty](/word/duty/)：（主に関税としての）税、義務
+- [fee](/word/fee/)：手数料、料金
 
 ---
 
 ## 📖 できればこれも
 
-- [regulation](/word/regulation)：規則、規制
-- [invoice](/word/invoice)：請求書
+- [regulation](/word/regulation/)：規則、規制
+- [invoice](/word/invoice/)：請求書
 
 <!-- cvid: aid07_bid09 -->

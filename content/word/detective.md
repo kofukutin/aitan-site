@@ -97,7 +97,7 @@ TOEICでは主に長文読解パートで、事件や調査に関するストー
 ## 🤔  investigator との違いは？
 
 - **detective**：事件や犯罪の調査を専門とする探偵・刑事を指す。
-- **[investigator](/word/investigator)**：調査全般を行う人で、犯罪以外の分野（科学・ビジネスなど）にも使われる。
+- **[investigator](/word/investigator/)**：調査全般を行う人で、犯罪以外の分野（科学・ビジネスなど）にも使われる。
 
 detectiveは主に犯罪や事件の調査に特化し、investigatorはより広い分野の調査員を指します。
 
@@ -105,14 +105,14 @@ detectiveは主に犯罪や事件の調査に特化し、investigatorはより�
 
 ## 🧩 あわせて覚えたい
 
-- [police officer](/word/police_officer)：警察官
-- [suspect](/word/suspect)：容疑者
+- [police officer](/word/police_officer/)：警察官
+- [suspect](/word/suspect/)：容疑者
 
 ---
 
 ## 📖 できればこれも
 
-- [evidence](/word/evidence)：証拠
-- [case](/word/case)：事件、事例
+- [evidence](/word/evidence/)：証拠
+- [case](/word/case/)：事件、事例
 
 <!-- cvid: aid31_bid46 -->

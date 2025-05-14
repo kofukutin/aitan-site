@@ -97,7 +97,7 @@ TOEICではオフィス機器やIT関連の話題で、会話や説明文中に�
 ## 🤔  copier との違いは？
 
 - **scanner**：紙の情報をデジタルデータに変換する装置
-- **[copier](/word/copier)**：紙の書類をそのまま紙に複製する装置（コピー機）
+- **[copier](/word/copier/)**：紙の書類をそのまま紙に複製する装置（コピー機）
 
 scannerは「デジタル化」、copierは「紙の複製」と用途が異なります。
 
@@ -105,14 +105,14 @@ scannerは「デジタル化」、copierは「紙の複製」と用途が異な�
 
 ## 🧩 あわせて覚えたい
 
-- [printer](/word/printer)：印刷機
-- [fax](/word/fax)：ファクシミリ（書類送信機）
+- [printer](/word/printer/)：印刷機
+- [fax](/word/fax/)：ファクシミリ（書類送信機）
 
 ---
 
 ## 📖 できればこれも
 
-- [monitor](/word/monitor)：ディスプレイ、画面
-- [keyboard](/word/keyboard)：キーボード
+- [monitor](/word/monitor/)：ディスプレイ、画面
+- [keyboard](/word/keyboard/)：キーボード
 
 <!-- cvid: aid15_bid42 -->

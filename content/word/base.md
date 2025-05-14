@@ -97,7 +97,7 @@ TOEICでは「拠点」「基礎」などの意味で、会社や施設の説明
 ## 🤔  foundation との違いは？
 
 - **base**：物理的・抽象的な「土台」「拠点」を幅広く指す
-- **[foundation](/word/foundation)**：特に「建物の基礎」や「組織の設立・基盤」を強調
+- **[foundation](/word/foundation/)**：特に「建物の基礎」や「組織の設立・基盤」を強調
 
 「base」は一般的な支えや拠点を指し、「foundation」はよりしっかりした土台や設立の意味合いが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは「拠点」「基礎」などの意味で、会社や施設の説明
 
 ## 🧩 あわせて覚えたい
 
-- [basis](/word/basis)：根拠、基準
-- [headquarters](/word/headquarters)：本社、司令部
+- [basis](/word/basis/)：根拠、基準
+- [headquarters](/word/headquarters/)：本社、司令部
 
 ---
 
 ## 📖 できればこれも
 
-- [level](/word/level)：レベル、段階
-- [site](/word/site)：場所、用地
+- [level](/word/level/)：レベル、段階
+- [site](/word/site/)：場所、用地
 
 <!-- cvid: aid03_bid02 -->

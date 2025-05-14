@@ -97,7 +97,7 @@ TOEICでは、家族や人物紹介、日常的な会話の中で「husband」�
 ## 🤔  spouse との違いは？
 
 - **husband**：結婚している男性（夫）を指す。
-- **[spouse](/word/spouse)**：配偶者（夫または妻）を指す、性別を問わない表現。
+- **[spouse](/word/spouse/)**：配偶者（夫または妻）を指す、性別を問わない表現。
 
 husbandは男性限定、spouseは性別を問わず「配偶者」として使われます。
 
@@ -105,14 +105,14 @@ husbandは男性限定、spouseは性別を問わず「配偶者」として使�
 
 ## 🧩 あわせて覚えたい
 
-- [wife](/word/wife)：妻
-- [partner](/word/partner)：パートナー（性別問わず使える）
+- [wife](/word/wife/)：妻
+- [partner](/word/partner/)：パートナー（性別問わず使える）
 
 ---
 
 ## 📖 できればこれも
 
-- [marry](/word/marry)：結婚する
-- [marriage](/word/marriage)：結婚（名詞）
+- [marry](/word/marry/)：結婚する
+- [marriage](/word/marriage/)：結婚（名詞）
 
 <!-- cvid: aid39_bid01 -->

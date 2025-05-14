@@ -97,7 +97,7 @@ TOEICでは、契約書や法務関連の長文、ビジネス文書で登場す
 ## 🤔  executor との違いは？
 
 - **trustee**：信託や財産を長期的に管理・運用する責任者
-- **[executor](/word/executor)**：遺言執行者（遺言に従い財産を分配する人）
+- **[executor](/word/executor/)**：遺言執行者（遺言に従い財産を分配する人）
 
 trusteeは信託や財産の管理を継続的に行うのに対し、executorは遺言の内容を実行するために一時的に任命される点が異なります。
 
@@ -105,14 +105,14 @@ trusteeは信託や財産の管理を継続的に行うのに対し、executor�
 
 ## 🧩 あわせて覚えたい
 
-- [beneficiary](/word/beneficiary)：受益者（信託や保険などで利益を受ける人）
-- [guardian](/word/guardian)：後見人、保護者（未成年や判断能力のない人を保護する人）
+- [beneficiary](/word/beneficiary/)：受益者（信託や保険などで利益を受ける人）
+- [guardian](/word/guardian/)：後見人、保護者（未成年や判断能力のない人を保護する人）
 
 ---
 
 ## 📖 できればこれも
 
-- [attorney](/word/attorney)：弁護士、代理人
-- [client](/word/client)：依頼人、顧客
+- [attorney](/word/attorney/)：弁護士、代理人
+- [client](/word/client/)：依頼人、顧客
 
 <!-- cvid: aid29_bid36 -->

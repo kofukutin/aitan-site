@@ -97,7 +97,7 @@ TOEICでは、会議やビジネスの場面で「記録する」「捉える」
 ## 🤔  seized との違いは？
 
 - **captured**：物理的に捕まえるだけでなく、データや映像などを「記録する」意味もある
-- **[seized](/word/seized)**：主に力や権力で「押収する」「奪い取る」ニュアンスが強い
+- **[seized](/word/seized/)**：主に力や権力で「押収する」「奪い取る」ニュアンスが強い
 
 capturedは幅広く「捉える・記録する」に使えますが、seizedは「強制的に奪う」場面で使われます。
 
@@ -105,14 +105,14 @@ capturedは幅広く「捉える・記録する」に使えますが、seizedは
 
 ## 🧩 あわせて覚えたい
 
-- [arrest](/word/arrest)：逮捕する
-- [release](/word/release)：解放する
+- [arrest](/word/arrest/)：逮捕する
+- [release](/word/release/)：解放する
 
 ---
 
 ## 📖 できればこれも
 
-- [record](/word/record)：記録する
-- [collect](/word/collect)：集める
+- [record](/word/record/)：記録する
+- [collect](/word/collect/)：集める
 
 <!-- cvid: aid38_bid04 -->

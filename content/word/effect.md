@@ -97,7 +97,7 @@ TOEICでは「have an effect on」や「take effect」などのフレーズで�
 ## 🤔  result との違いは？
 
 - **effect**：何かの「効果」や「影響」、起こったことによる変化を強調
-- **[result](/word/result)**：出来事や行動の「結果」そのものを客観的に表現
+- **[result](/word/result/)**：出来事や行動の「結果」そのものを客観的に表現
 
 「effect」は変化や影響のニュアンスが強く、「result」は単なる結果や結論を指します。
 
@@ -105,14 +105,14 @@ TOEICでは「have an effect on」や「take effect」などのフレーズで�
 
 ## 🧩 あわせて覚えたい
 
-- [cause](/word/cause)：原因
-- [impact](/word/impact)：強い影響、衝撃
+- [cause](/word/cause/)：原因
+- [impact](/word/impact/)：強い影響、衝撃
 
 ---
 
 ## 📖 できればこれも
 
-- [influence](/word/influence)：影響、影響力
-- [consequence](/word/consequence)：（主に悪い）結果
+- [influence](/word/influence/)：影響、影響力
+- [consequence](/word/consequence/)：（主に悪い）結果
 
 <!-- cvid: aid47_bid38 -->

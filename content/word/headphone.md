@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、人物がヘッドフォンを着用し
 ## 🤔  earphone との違いは？
 
 - **headphone**：頭にかけて両耳を覆うタイプの音響機器
-- **[earphone](/word/earphone)**：耳の中や耳に直接差し込む小型の音響機器
+- **[earphone](/word/earphone/)**：耳の中や耳に直接差し込む小型の音響機器
 
 headphoneは大きめで耳全体を覆うのに対し、earphoneは小型で耳に差し込むタイプです。用途や装着感が異なります。
 
@@ -105,14 +105,14 @@ headphoneは大きめで耳全体を覆うのに対し、earphoneは小型で耳
 
 ## 🧩 あわせて覚えたい
 
-- [microphone](/word/microphone)：マイク、音声を拾う機器
-- [speaker](/word/speaker)：スピーカー、音を出す機器
+- [microphone](/word/microphone/)：マイク、音声を拾う機器
+- [speaker](/word/speaker/)：スピーカー、音を出す機器
 
 ---
 
 ## 📖 できればこれも
 
-- [keyboard](/word/keyboard)：キーボード、入力装置
-- [monitor](/word/monitor)：モニター、画面表示装置
+- [keyboard](/word/keyboard/)：キーボード、入力装置
+- [monitor](/word/monitor/)：モニター、画面表示装置
 
 <!-- cvid: aid02_bid23 -->

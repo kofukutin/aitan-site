@@ -97,7 +97,7 @@ TOEICでは主に写真描写問題で、道や川、建物などの「幅が広
 ## 🤔  broad との違いは？
 
 - **wide**：物理的な幅や範囲が広いことを直接的に表す
-- **[broad](/word/broad)**：幅広いだけでなく、抽象的な意味や多様性にも使われる
+- **[broad](/word/broad/)**：幅広いだけでなく、抽象的な意味や多様性にも使われる
 
 wideは主に実際の幅や範囲の広さを表現し、broadは物理的な幅だけでなく、考え方や分野の広がりなど抽象的な広さにも使われます。
 
@@ -105,14 +105,14 @@ wideは主に実際の幅や範囲の広さを表現し、broadは物理的な�
 
 ## 🧩 あわせて覚えたい
 
-- [narrow](/word/narrow)：狭い
-- [extensive](/word/extensive)：広範囲の
+- [narrow](/word/narrow/)：狭い
+- [extensive](/word/extensive/)：広範囲の
 
 ---
 
 ## 📖 できればこれも
 
-- [deep](/word/deep)：深い
-- [large](/word/large)：大きい
+- [deep](/word/deep/)：深い
+- [large](/word/large/)：大きい
 
 <!-- cvid: aid39_bid28 -->

@@ -97,7 +97,7 @@ TOEICでは主に金融やビジネス文書で「債券」の意味で出題さ
 ## 🤔  contract との違いは？
 
 - **bond**：人や物の「結びつき」や、金融の「債券」を指す。
-- **[contract](/word/contract)**：法的な「契約」や「契約書」を指す。
+- **[contract](/word/contract/)**：法的な「契約」や「契約書」を指す。
 
 bondは「つながり」や「金融商品」としての意味が中心で、contractは「約束」や「法的効力のある合意」を表します。
 
@@ -105,14 +105,14 @@ bondは「つながり」や「金融商品」としての意味が中心で、c
 
 ## 🧩 あわせて覚えたい
 
-- [guarantee](/word/guarantee)：保証、保証する
-- [obligation](/word/obligation)：義務、責任
+- [guarantee](/word/guarantee/)：保証、保証する
+- [obligation](/word/obligation/)：義務、責任
 
 ---
 
 ## 📖 できればこれも
 
-- [loan](/word/loan)：貸付、ローン
-- [agreement](/word/agreement)：合意、協定
+- [loan](/word/loan/)：貸付、ローン
+- [agreement](/word/agreement/)：合意、協定
 
 <!-- cvid: aid21_bid13 -->

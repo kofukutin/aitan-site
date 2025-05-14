@@ -97,7 +97,7 @@ TOEICでは科学や宇宙関連の記事や説明文で「orbit」が登場す�
 ## 🤔  revolve との違いは？
 
 - **orbit**：天体や物体が他の物体の周囲を一定の軌道に沿って回ること、またはその道筋。
-- **[revolve](/word/revolve)**：中心点や軸の周りを回転する動作自体を指す。
+- **[revolve](/word/revolve/)**：中心点や軸の周りを回転する動作自体を指す。
 
 orbitは「道筋（軌道）」や「軌道を回ること」に焦点があり、revolveは「回転運動そのもの」に重点があります。
 
@@ -105,14 +105,14 @@ orbitは「道筋（軌道）」や「軌道を回ること」に焦点があり
 
 ## 🧩 あわせて覚えたい
 
-- [trajectory](/word/trajectory)：弾道、軌道
-- [ellipse](/word/ellipse)：楕円
+- [trajectory](/word/trajectory/)：弾道、軌道
+- [ellipse](/word/ellipse/)：楕円
 
 ---
 
 ## 📖 できればこれも
 
-- [rotate](/word/rotate)：回転する
-- [axis](/word/axis)：軸
+- [rotate](/word/rotate/)：回転する
+- [axis](/word/axis/)：軸
 
 <!-- cvid: aid04_bid32 -->

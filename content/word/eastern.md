@@ -97,7 +97,7 @@ TOEICでは地理的な説明や、場所の案内、地域の特徴を述べる
 ## 🤔  oriental との違いは？
 
 - **eastern**：地理的・方角的に「東の」「東部の」を表す。
-- **[oriental](/word/oriental)**：文化や芸術など「東洋の」「アジア的な」という意味で使われる。
+- **[oriental](/word/oriental/)**：文化や芸術など「東洋の」「アジア的な」という意味で使われる。
 
 easternは単に方角や位置を示すのに対し、orientalは文化的・歴史的なニュアンスを含みます。
 
@@ -105,14 +105,14 @@ easternは単に方角や位置を示すのに対し、orientalは文化的・�
 
 ## 🧩 あわせて覚えたい
 
-- [western](/word/western)：西の、西部の
-- [southern](/word/southern)：南の、南部の
+- [western](/word/western/)：西の、西部の
+- [southern](/word/southern/)：南の、南部の
 
 ---
 
 ## 📖 できればこれも
 
-- [northern](/word/northern)：北の、北部の
-- [coastal](/word/coastal)：海岸の、沿岸の
+- [northern](/word/northern/)：北の、北部の
+- [coastal](/word/coastal/)：海岸の、沿岸の
 
 <!-- cvid: aid15_bid17 -->

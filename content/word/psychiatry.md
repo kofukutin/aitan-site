@@ -97,7 +97,7 @@ TOEICでは医療や健康に関する長文や記事で登場することが多
 ## 🤔  psychology との違いは？
 
 - **psychiatry**：医学的な治療や薬物療法を含む「精神医学」分野
-- **[psychology](/word/psychology)**：心の働きや行動を科学的に研究する「心理学」分野
+- **[psychology](/word/psychology/)**：心の働きや行動を科学的に研究する「心理学」分野
 
 psychiatryは医師による診断・治療が中心、psychologyは心の仕組みや行動の研究が中心です。
 
@@ -105,14 +105,14 @@ psychiatryは医師による診断・治療が中心、psychologyは心の仕組
 
 ## 🧩 あわせて覚えたい
 
-- [neurology](/word/neurology)：神経学（脳や神経系の医学分野）
-- [therapy](/word/therapy)：治療、療法
+- [neurology](/word/neurology/)：神経学（脳や神経系の医学分野）
+- [therapy](/word/therapy/)：治療、療法
 
 ---
 
 ## 📖 できればこれも
 
-- [psychologist](/word/psychologist)：心理学者
-- [mental](/word/mental)：精神の、心の
+- [psychologist](/word/psychologist/)：心理学者
+- [mental](/word/mental/)：精神の、心の
 
 <!-- cvid: aid20_bid28 -->

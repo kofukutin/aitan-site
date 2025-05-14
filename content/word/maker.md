@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書や製品紹介などで「メーカー」と
 ## 🤔  manufacturer との違いは？
 
 - **maker**：一般的に「作る人・会社」。カジュアルにも使える。
-- **[manufacturer](/word/manufacturer)**：特に工場などで大量生産する「製造業者」。ややフォーマル。
+- **[manufacturer](/word/manufacturer/)**：特に工場などで大量生産する「製造業者」。ややフォーマル。
 
 「maker」は幅広く使えますが、「manufacturer」は工業製品や大量生産の場面で使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは主にビジネス文書や製品紹介などで「メーカー」と
 
 ## 🧩 あわせて覚えたい
 
-- [producer](/word/producer)：生産者、製作者
-- [supplier](/word/supplier)：供給業者、納入業者
+- [producer](/word/producer/)：生産者、製作者
+- [supplier](/word/supplier/)：供給業者、納入業者
 
 ---
 
 ## 📖 できればこれも
 
-- [product](/word/product)：製品
-- [brand](/word/brand)：ブランド、銘柄
+- [product](/word/product/)：製品
+- [brand](/word/brand/)：ブランド、銘柄
 
 <!-- cvid: aid33_bid32 -->

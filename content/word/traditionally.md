@@ -97,7 +97,7 @@ TOEICでは、会社の慣習や文化、歴史的な背景を説明する長文
 ## 🤔  conventionally との違いは？
 
 - **traditionally**：長い間続いてきた伝統や習慣に基づいていることを強調
-- **[conventionally](/word/conventionally)**：一般的な慣習や社会的な決まりごとに従っていることを強調
+- **[conventionally](/word/conventionally/)**：一般的な慣習や社会的な決まりごとに従っていることを強調
 
 「traditionally」は歴史や文化的な背景が強く、「conventionally」は現代の一般的なやり方やルールに焦点を当てます。
 
@@ -105,14 +105,14 @@ TOEICでは、会社の慣習や文化、歴史的な背景を説明する長文
 
 ## 🧩 あわせて覚えたい
 
-- [typically](/word/typically)：典型的に、普通は
-- [customarily](/word/customarily)：習慣的に、慣例的に
+- [typically](/word/typically/)：典型的に、普通は
+- [customarily](/word/customarily/)：習慣的に、慣例的に
 
 ---
 
 ## 📖 できればこれも
 
-- [recently](/word/recently)：最近
-- [originally](/word/originally)：もともと、最初は
+- [recently](/word/recently/)：最近
+- [originally](/word/originally/)：もともと、最初は
 
 <!-- cvid: aid20_bid43 -->

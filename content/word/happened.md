@@ -97,7 +97,7 @@ TOEICでは、会話の流れや出来事の説明でよく出題されます。
 ## 🤔  occurred との違いは？
 
 - **happened**：日常的な出来事や偶然の出来事に幅広く使うカジュアルな表現
-- **[occurred](/word/occurred)**：ややフォーマルで、特に出来事や事件が「発生した」ときに使う
+- **[occurred](/word/occurred/)**：ややフォーマルで、特に出来事や事件が「発生した」ときに使う
 
 happenedは日常会話でよく使われ、occurredはビジネスやニュースなどフォーマルな場面で使われやすいです。
 
@@ -105,14 +105,14 @@ happenedは日常会話でよく使われ、occurredはビジネスやニュー�
 
 ## 🧩 あわせて覚えたい
 
-- [take place](/word/take_place)：（予定されたことが）行われる
-- [arise](/word/arise)：（問題・状況などが）生じる
+- [take place](/word/take_place/)：（予定されたことが）行われる
+- [arise](/word/arise/)：（問題・状況などが）生じる
 
 ---
 
 ## 📖 できればこれも
 
-- [appear](/word/appear)：現れる
-- [become](/word/become)：～になる
+- [appear](/word/appear/)：現れる
+- [become](/word/become/)：～になる
 
 <!-- cvid: aid33_bid14 -->

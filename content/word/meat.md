@@ -96,7 +96,7 @@ TOEICではレストランや食事、買い物の場面で「meat」が登場�
 ## 🤔  flesh との違いは？
 
 - **meat**：食用の肉全般を指す、日常的な表現。
-- **[flesh](/word/flesh)**：動物や人間の「肉体の肉」や果物の「果肉」など、より広い意味や生物学的な文脈で使う。
+- **[flesh](/word/flesh/)**：動物や人間の「肉体の肉」や果物の「果肉」など、より広い意味や生物学的な文脈で使う。
 
 meatは「食べる肉」、fleshは「体の肉」や「果肉」など食用以外も含む点が異なります。
 
@@ -104,14 +104,14 @@ meatは「食べる肉」、fleshは「体の肉」や「果肉」など食用�
 
 ## 🧩 あわせて覚えたい
 
-- [fish](/word/fish)：魚（食用の魚も含む）
-- [beef](/word/beef)：牛肉
+- [fish](/word/fish/)：魚（食用の魚も含む）
+- [beef](/word/beef/)：牛肉
 
 ---
 
 ## 📖 できればこれも
 
-- [bread](/word/bread)：パン
-- [fruit](/word/fruit)：果物
+- [bread](/word/bread/)：パン
+- [fruit](/word/fruit/)：果物
 
 <!-- cvid: aid43_bid37 -->

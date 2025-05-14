@@ -97,7 +97,7 @@ TOEICでは会議やアポイントの遅れ、スケジュール調整などの
 ## 🤔  delayed との違いは？
 
 - **late**：予定より遅れていることを表す一般的な単語
-- **[delayed](/word/delayed)**：何らかの理由で「遅延」したことを強調する語
+- **[delayed](/word/delayed/)**：何らかの理由で「遅延」したことを強調する語
 
 「late」は単純に遅れている状態を指し、「delayed」は原因や事情があって遅れた場合に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは会議やアポイントの遅れ、スケジュール調整などの
 
 ## 🧩 あわせて覚えたい
 
-- [early](/word/early)：早い、早く
-- [punctual](/word/punctual)：時間を守る
+- [early](/word/early/)：早い、早く
+- [punctual](/word/punctual/)：時間を守る
 
 ---
 
 ## 📖 できればこれも
 
-- [soon](/word/soon)：すぐに
-- [recent](/word/recent)：最近の
+- [soon](/word/soon/)：すぐに
+- [recent](/word/recent/)：最近の
 
 <!-- cvid: aid43_bid26 -->

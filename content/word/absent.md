@@ -104,7 +104,7 @@ TOEICでは「be absent from ～」の形で、出席・欠席を問う文脈で
 ## 🤔  missing との違いは？
 
 - **absent**：本来いるべき場所にいない、欠席している（特に人に使う）
-- **[missing](/word/missing)**：行方不明の、見つからない（人・物どちらにも使う）
+- **[missing](/word/missing/)**：行方不明の、見つからない（人・物どちらにも使う）
 
 absentは「予定されていた場にいない」こと、missingは「どこにあるかわからない・見つからない」ことを強調します。
 
@@ -112,14 +112,14 @@ absentは「予定されていた場にいない」こと、missingは「どこ�
 
 ## 🧩 あわせて覚えたい
 
-- [present](/word/present)：出席している、存在している
-- [leave](/word/leave)：休暇、休み
+- [present](/word/present/)：出席している、存在している
+- [leave](/word/leave/)：休暇、休み
 
 ---
 
 ## 📖 できればこれも
 
-- [attend](/word/attend)：出席する
-- [late](/word/late)：遅刻した
+- [attend](/word/attend/)：出席する
+- [late](/word/late/)：遅刻した
 ---
 <!-- cvid: aid14_bid17 -->

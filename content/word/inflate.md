@@ -97,7 +97,7 @@ inflateは、TOEICの文法や語彙問題で「膨らませる」「価格を�
 ## 🤔  expand との違いは？
 
 - **inflate**：空気やガスで膨らませる、または数字・価格を不当に大きくする
-- **[expand](/word/expand)**：広げる、拡大する（範囲や規模を自然に大きくする）
+- **[expand](/word/expand/)**：広げる、拡大する（範囲や規模を自然に大きくする）
 
 inflateは「中身を入れて膨らませる」「不当に大きくする」などやや否定的なニュアンスがあり、expandは「自然に広がる・拡大する」といった中立的な意味で使われます。
 
@@ -105,14 +105,14 @@ inflateは「中身を入れて膨らませる」「不当に大きくする」�
 
 ## 🧩 あわせて覚えたい
 
-- [deflate](/word/deflate)：しぼませる、縮小させる
-- [enlarge](/word/enlarge)：大きくする、拡大する
+- [deflate](/word/deflate/)：しぼませる、縮小させる
+- [enlarge](/word/enlarge/)：大きくする、拡大する
 
 ---
 
 ## 📖 できればこれも
 
-- [reduce](/word/reduce)：減らす
-- [increase](/word/increase)：増やす
+- [reduce](/word/reduce/)：減らす
+- [increase](/word/increase/)：増やす
 
 <!-- cvid: aid06_bid30 -->

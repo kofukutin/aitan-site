@@ -97,7 +97,7 @@ TOEICでは主に建築やエネルギー効率、設備に関する文脈で出
 ## 🤔  isolation との違いは？
 
 - **insulation**：熱・電気・音などを物理的に遮断することやその材料
-- **[isolation](/word/isolation)**：人や物を「孤立・隔離」すること
+- **[isolation](/word/isolation/)**：人や物を「孤立・隔離」すること
 
 insulationは物理的な遮断や保護を指し、isolationは人や物を他から切り離す精神的・社会的な隔離に使われます。
 
@@ -105,14 +105,14 @@ insulationは物理的な遮断や保護を指し、isolationは人や物を他�
 
 ## 🧩 あわせて覚えたい
 
-- [protection](/word/protection)：保護、防御
-- [barrier](/word/barrier)：障壁、バリア
+- [protection](/word/protection/)：保護、防御
+- [barrier](/word/barrier/)：障壁、バリア
 
 ---
 
 ## 📖 できればこれも
 
-- [installation](/word/installation)：設置、取り付け
-- [insulator](/word/insulator)：絶縁体、断熱材
+- [installation](/word/installation/)：設置、取り付け
+- [insulator](/word/insulator/)：絶縁体、断熱材
 
 <!-- cvid: aid02_bid41 -->

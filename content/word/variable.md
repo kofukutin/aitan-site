@@ -97,7 +97,7 @@ TOEICではITや科学分野の説明文、仕様書などで「variable」が�
 ## 🤔  parameter との違いは？
 
 - **variable**：値が変化する要素や変数そのもの
-- **[parameter](/word/parameter)**：関数やシステムの「設定値」「引数」など、操作や条件を指定する値
+- **[parameter](/word/parameter/)**：関数やシステムの「設定値」「引数」など、操作や条件を指定する値
 
 variableは「変化するもの」自体を指し、parameterは「操作や関数に与える条件や設定値」を指します。
 
@@ -105,14 +105,14 @@ variableは「変化するもの」自体を指し、parameterは「操作や関
 
 ## 🧩 あわせて覚えたい
 
-- [constant](/word/constant)：定数、変わらない値
-- [factor](/word/factor)：要因、要素
+- [constant](/word/constant/)：定数、変わらない値
+- [factor](/word/factor/)：要因、要素
 
 ---
 
 ## 📖 できればこれも
 
-- [function](/word/function)：関数、機能
-- [value](/word/value)：値
+- [function](/word/function/)：関数、機能
+- [value](/word/value/)：値
 
 <!-- cvid: aid16_bid49 -->

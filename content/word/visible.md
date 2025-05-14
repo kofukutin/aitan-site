@@ -97,7 +97,7 @@ TOEICでは、形容詞の語彙問題や、可視性・明確さを表す文脈
 ## 🤔  apparent との違いは？
 
 - **visible**：目で見て確認できる、物理的に見える
-- **[apparent](/word/apparent)**：見た目上明らかな、外見上はっきりしている
+- **[apparent](/word/apparent/)**：見た目上明らかな、外見上はっきりしている
 
 visibleは実際に目で見えることを強調し、apparentは「見た目にはそう見えるが実際は違う場合もある」ニュアンスがあります。
 
@@ -105,14 +105,14 @@ visibleは実際に目で見えることを強調し、apparentは「見た目�
 
 ## 🧩 あわせて覚えたい
 
-- [invisible](/word/invisible)：目に見えない
-- [obvious](/word/obvious)：明らかな、誰にでも分かる
+- [invisible](/word/invisible/)：目に見えない
+- [obvious](/word/obvious/)：明らかな、誰にでも分かる
 
 ---
 
 ## 📖 できればこれも
 
-- [clear](/word/clear)：はっきりした、明確な
-- [evident](/word/evident)：明白な、明らかな
+- [clear](/word/clear/)：はっきりした、明確な
+- [evident](/word/evident/)：明白な、明らかな
 
 <!-- cvid: aid43_bid43 -->

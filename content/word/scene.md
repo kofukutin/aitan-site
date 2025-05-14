@@ -97,7 +97,7 @@ TOEICでは会話や説明文の中で「場面」や「現場」を表す語と
 ## 🤔  situation との違いは？
 
 - **scene**：具体的な「場面」や「光景」、「現場」を指す
-- **[situation](/word/situation)**：抽象的な「状況」や「状態」を指す
+- **[situation](/word/situation/)**：抽象的な「状況」や「状態」を指す
 
 sceneは目に見える具体的な場所や出来事に使い、situationは目に見えない状態や事情に使います。
 
@@ -105,14 +105,14 @@ sceneは目に見える具体的な場所や出来事に使い、situationは目
 
 ## 🧩 あわせて覚えたい
 
-- [setting](/word/setting)：（物語や出来事の）設定、背景
-- [incident](/word/incident)：出来事、事件
+- [setting](/word/setting/)：（物語や出来事の）設定、背景
+- [incident](/word/incident/)：出来事、事件
 
 ---
 
 ## 📖 できればこれも
 
-- [view](/word/view)：眺め、景色
-- [event](/word/event)：出来事、イベント
+- [view](/word/view/)：眺め、景色
+- [event](/word/event/)：出来事、イベント
 
 <!-- cvid: aid14_bid19 -->

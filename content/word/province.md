@@ -97,7 +97,7 @@ TOEICでは、観光や行政、地理に関する長文や案内文で「provin
 ## 🤔  region との違いは？
 
 - **province**：国の行政区画としての「州」や「地方」を指す、ややフォーマルな表現。
-- **[region](/word/region)**：地理的・文化的な「地域」全般を指し、行政区画に限らない。
+- **[region](/word/region/)**：地理的・文化的な「地域」全般を指し、行政区画に限らない。
 
 provinceは公式な区分や行政単位を強調し、regionはより広い意味での「地域」や「エリア」を表します。
 
@@ -105,14 +105,14 @@ provinceは公式な区分や行政単位を強調し、regionはより広い意
 
 ## 🧩 あわせて覚えたい
 
-- [territory](/word/territory)：領土、管轄区域
-- [district](/word/district)：地区、区域
+- [territory](/word/territory/)：領土、管轄区域
+- [district](/word/district/)：地区、区域
 
 ---
 
 ## 📖 できればこれも
 
-- [capital](/word/capital)：首都
-- [area](/word/area)：地域、面積
+- [capital](/word/capital/)：首都
+- [area](/word/area/)：地域、面積
 
 <!-- cvid: aid33_bid06 -->

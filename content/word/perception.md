@@ -97,7 +97,7 @@ TOEICでは、ビジネス文書やアンケート結果の説明などで「per
 ## 🤔  awareness との違いは？
 
 - **perception**：物事や状況に対する知覚・認識・見方（主観的な印象や評価を含む）
-- **[awareness](/word/awareness)**：存在や事実に「気づいていること」「意識していること」
+- **[awareness](/word/awareness/)**：存在や事実に「気づいていること」「意識していること」
 
 perceptionは「どう感じるか」「どんな印象を持つか」に焦点があり、awarenessは「知っているかどうか」「意識しているか」に重点があります。
 
@@ -105,14 +105,14 @@ perceptionは「どう感じるか」「どんな印象を持つか」に焦点�
 
 ## 🧩 あわせて覚えたい
 
-- [insight](/word/insight)：洞察、深い理解
-- [bias](/word/bias)：偏見、先入観
+- [insight](/word/insight/)：洞察、深い理解
+- [bias](/word/bias/)：偏見、先入観
 
 ---
 
 ## 📖 できればこれも
 
-- [perspective](/word/perspective)：視点、観点
-- [assumption](/word/assumption)：仮定、前提
+- [perspective](/word/perspective/)：視点、観点
+- [assumption](/word/assumption/)：仮定、前提
 
 <!-- cvid: aid13_bid44 -->

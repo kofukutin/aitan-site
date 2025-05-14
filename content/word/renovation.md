@@ -97,7 +97,7 @@ TOEICでは、ホテルやオフィス、店舗の案内文やお知らせ、広
 ## 🤔  remodeling との違いは？
 
 - **renovation**：古いものを新しくしたり、元の状態に戻すための改装・修復
-- **[remodeling](/word/remodeling)**：間取りや構造自体を大きく変えるリフォーム
+- **[remodeling](/word/remodeling/)**：間取りや構造自体を大きく変えるリフォーム
 
 renovationは「元の状態に近づける」ニュアンスが強く、remodelingは「形や機能を大きく変える」場合に使われます。
 
@@ -105,14 +105,14 @@ renovationは「元の状態に近づける」ニュアンスが強く、remodel
 
 ## 🧩 あわせて覚えたい
 
-- [repair](/word/repair)：修理、修繕
-- [restoration](/word/restoration)：復元、修復
+- [repair](/word/repair/)：修理、修繕
+- [restoration](/word/restoration/)：復元、修復
 
 ---
 
 ## 📖 できればこれも
 
-- [construction](/word/construction)：建設、工事
-- [maintenance](/word/maintenance)：保守、維持
+- [construction](/word/construction/)：建設、工事
+- [maintenance](/word/maintenance/)：保守、維持
 
 <!-- cvid: aid28_bid23 -->

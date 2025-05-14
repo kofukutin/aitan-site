@@ -97,7 +97,7 @@ ITやビジネス文書の説明文で、図やコメント、画像などが「
 ## 🤔  embed との違いは？
 
 - **inline**：本文や行の中に直接組み込まれていること
-- **[embed](/word/embed)**：何かを他のものの中に埋め込むこと
+- **[embed](/word/embed/)**：何かを他のものの中に埋め込むこと
 
 inlineは「その場に直接表示・記述されている」ニュアンスが強く、embedは「外部のものを中に埋め込む」広い意味で使われます。
 
@@ -105,14 +105,14 @@ inlineは「その場に直接表示・記述されている」ニュアンス�
 
 ## 🧩 あわせて覚えたい
 
-- [external](/word/external)：外部の、外側の
-- [insert](/word/insert)：挿入する
+- [external](/word/external/)：外部の、外側の
+- [insert](/word/insert/)：挿入する
 
 ---
 
 ## 📖 できればこれも
 
-- [format](/word/format)：書式、形式
-- [attach](/word/attach)：添付する
+- [format](/word/format/)：書式、形式
+- [attach](/word/attach/)：添付する
 
 <!-- cvid: aid38_bid37 -->

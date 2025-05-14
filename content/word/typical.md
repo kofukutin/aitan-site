@@ -97,7 +97,7 @@ TOEICでは「typical mistake（よくあるミス）」や「typical situation�
 ## 🤔  average との違いは？
 
 - **typical**：その種類や集団に特有の特徴を持つ、典型的な
-- **[average](/word/average)**：平均的な、標準的な
+- **[average](/word/average/)**：平均的な、標準的な
 
 「typical」は「そのグループらしさ」を強調し、「average」は「数値や水準の真ん中」を指します。
 
@@ -105,14 +105,14 @@ TOEICでは「typical mistake（よくあるミス）」や「typical situation�
 
 ## 🧩 あわせて覚えたい
 
-- [normal](/word/normal)：普通の、正常な
-- [unusual](/word/unusual)：珍しい、普通でない
+- [normal](/word/normal/)：普通の、正常な
+- [unusual](/word/unusual/)：珍しい、普通でない
 
 ---
 
 ## 📖 できればこれも
 
-- [ordinary](/word/ordinary)：平凡な、普通の
-- [standard](/word/standard)：標準の、基準となる
+- [ordinary](/word/ordinary/)：平凡な、普通の
+- [standard](/word/standard/)：標準の、基準となる
 
 <!-- cvid: aid03_bid14 -->

@@ -96,7 +96,7 @@ TOEICでは、オフィスや家庭の設備に関する会話や説明で「bul
 ## 🤔  lamp との違いは？
 
 - **bulb**：電球や球根など、丸い形状の「中身」や「部品」を指す
-- **[lamp](/word/lamp)**：照明器具全体やランプ本体を指す
+- **[lamp](/word/lamp/)**：照明器具全体やランプ本体を指す
 
 bulbは「電球」そのもの、lampは「照明器具」全体を指すので、使い分けに注意しましょう。
 
@@ -104,14 +104,14 @@ bulbは「電球」そのもの、lampは「照明器具」全体を指すので
 
 ## 🧩 あわせて覚えたい
 
-- [tube](/word/tube)：管、チューブ
-- [socket](/word/socket)：ソケット、差込口
+- [tube](/word/tube/)：管、チューブ
+- [socket](/word/socket/)：ソケット、差込口
 
 ---
 
 ## 📖 できればこれも
 
-- [wire](/word/wire)：ワイヤー、電線
-- [switch](/word/switch)：スイッチ
+- [wire](/word/wire/)：ワイヤー、電線
+- [switch](/word/switch/)：スイッチ
 
 <!-- cvid: aid10_bid02 -->

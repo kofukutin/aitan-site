@@ -97,7 +97,7 @@ TOEICでは観光やエンターテインメント関連の記事や広告文で
 ## 🤔  miracle との違いは？
 
 - **magic**：魔法や手品、不思議な力を指し、意図的に起こすものや演出も含む
-- **[miracle](/word/miracle)**：奇跡、神の力など人間の力を超えた出来事
+- **[miracle](/word/miracle/)**：奇跡、神の力など人間の力を超えた出来事
 
 magicは人が演じたり使ったりできる「不思議さ」、miracleは偶然や神秘的な「奇跡」を表します。
 
@@ -105,14 +105,14 @@ magicは人が演じたり使ったりできる「不思議さ」、miracleは�
 
 ## 🧩 あわせて覚えたい
 
-- [illusion](/word/illusion)：錯覚、幻想
-- [charm](/word/charm)：お守り、魅力
+- [illusion](/word/illusion/)：錯覚、幻想
+- [charm](/word/charm/)：お守り、魅力
 
 ---
 
 ## 📖 できればこれも
 
-- [trick](/word/trick)：トリック、手品の技
-- [mystery](/word/mystery)：謎、不思議
+- [trick](/word/trick/)：トリック、手品の技
+- [mystery](/word/mystery/)：謎、不思議
 
 <!-- cvid: aid33_bid14 -->

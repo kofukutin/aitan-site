@@ -97,7 +97,7 @@ TOEICのPart 1で、人物が車いすに座っている写真の描写として
 ## 🤔  stretcher との違いは？
 
 - **wheelchair**：車輪がついた椅子で、主に自分で操作して移動できる。
-- **[stretcher](/word/stretcher)**：担架。人に運んでもらうための寝台型の道具。
+- **[stretcher](/word/stretcher/)**：担架。人に運んでもらうための寝台型の道具。
 
 wheelchairは自分で座って移動できるのに対し、stretcherは寝たまま人に運ばれるためのものです。
 
@@ -105,14 +105,14 @@ wheelchairは自分で座って移動できるのに対し、stretcherは寝た�
 
 ## 🧩 あわせて覚えたい
 
-- [crutch](/word/crutch)：松葉杖
-- [walker](/word/walker)：歩行器
+- [crutch](/word/crutch/)：松葉杖
+- [walker](/word/walker/)：歩行器
 
 ---
 
 ## 📖 できればこれも
 
-- [hospital](/word/hospital)：病院
-- [patient](/word/patient)：患者
+- [hospital](/word/hospital/)：病院
+- [patient](/word/patient/)：患者
 
 <!-- cvid: aid27_bid11 -->

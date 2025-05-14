@@ -97,7 +97,7 @@ TOEICでは「仕事やタスクの割り当て」「担当者の指定」など
 ## 🤔  allocate との違いは？
 
 - **assign**：人や役割、タスクなどを「誰に何を担当させるか」明確に割り当てる
-- **[allocate](/word/allocate)**：資源や時間、予算などを「どれだけ配分するか」に重点がある
+- **[allocate](/word/allocate/)**：資源や時間、予算などを「どれだけ配分するか」に重点がある
 
 assignは「人や仕事」に焦点があり、allocateは「物や資源の分配」に使う点が異なります。
 
@@ -105,14 +105,14 @@ assignは「人や仕事」に焦点があり、allocateは「物や資源の分
 
 ## 🧩 あわせて覚えたい
 
-- [delegate](/word/delegate)：（権限や仕事を）委任する
-- [appoint](/word/appoint)：（公式に）任命する
+- [delegate](/word/delegate/)：（権限や仕事を）委任する
+- [appoint](/word/appoint/)：（公式に）任命する
 
 ---
 
 ## 📖 できればこれも
 
-- [distribute](/word/distribute)：分配する
-- [designate](/word/designate)：指名する、指定する
+- [distribute](/word/distribute/)：分配する
+- [designate](/word/designate/)：指名する、指定する
 
 <!-- cvid: aid33_bid33 -->

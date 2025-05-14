@@ -97,7 +97,7 @@ TOEICでは主にPart 7の案内文やメール、パンフレットなどで「
 ## 🤔  informative との違いは？
 
 - **informational**：情報を提供するための、情報に関する（中立的・客観的）
-- **[informative](/word/informative)**：有益な情報を与える、ためになる（内容が役立つ・知識を増やす）
+- **[informative](/word/informative/)**：有益な情報を与える、ためになる（内容が役立つ・知識を増やす）
 
 informationalは「情報提供の目的」に焦点があり、informativeは「役立つ・知識が増える」といった主観的な価値に重点があります。
 
@@ -105,14 +105,14 @@ informationalは「情報提供の目的」に焦点があり、informativeは�
 
 ## 🧩 あわせて覚えたい
 
-- [instructional](/word/instructional)：指導用の、教育的な
-- [descriptive](/word/descriptive)：描写的な、説明的な
+- [instructional](/word/instructional/)：指導用の、教育的な
+- [descriptive](/word/descriptive/)：描写的な、説明的な
 
 ---
 
 ## 📖 できればこれも
 
-- [official](/word/official)：公式の
-- [educational](/word/educational)：教育の、教育的な
+- [official](/word/official/)：公式の
+- [educational](/word/educational/)：教育の、教育的な
 
 <!-- cvid: aid39_bid20 -->

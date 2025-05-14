@@ -97,7 +97,7 @@ TOEICでは、ビジネスの現場や組織の説明、人物の特徴を表す
 ## 🤔  active との違いは？
 
 - **dynamic**：変化や活力に富み、状況や人が常に動いている様子を強調
-- **[active](/word/active)**：単に「活動的」「積極的」であることを表す
+- **[active](/word/active/)**：単に「活動的」「積極的」であることを表す
 
 dynamicは「変化・エネルギー・影響力」を含み、activeは「行動している」こと自体を指します。
 
@@ -105,14 +105,14 @@ dynamicは「変化・エネルギー・影響力」を含み、activeは「行�
 
 ## 🧩 あわせて覚えたい
 
-- [static](/word/static)：静的な、変化のない
-- [energetic](/word/energetic)：精力的な、元気な
+- [static](/word/static/)：静的な、変化のない
+- [energetic](/word/energetic/)：精力的な、元気な
 
 ---
 
 ## 📖 できればこれも
 
-- [flexible](/word/flexible)：柔軟な
-- [efficient](/word/efficient)：効率的な
+- [flexible](/word/flexible/)：柔軟な
+- [efficient](/word/efficient/)：効率的な
 
 <!-- cvid: aid12_bid21 -->

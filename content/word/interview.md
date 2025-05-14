@@ -97,7 +97,7 @@ TOEICでは、就職活動やビジネスシーンの会話で「面接」や「
 ## 🤔  meeting との違いは？
 
 - **interview**：特定の目的（面接や取材）のために1対1または少人数で行う話し合い
-- **[meeting](/word/meeting)**：複数人が集まって行う一般的な会議や打ち合わせ
+- **[meeting](/word/meeting/)**：複数人が集まって行う一般的な会議や打ち合わせ
 
 interviewは「選考」や「取材」など目的が明確で、参加者も限定される点がmeetingと異なります。
 
@@ -105,14 +105,14 @@ interviewは「選考」や「取材」など目的が明確で、参加者も�
 
 ## 🧩 あわせて覚えたい
 
-- [audition](/word/audition)：オーディション、選考のための実技試験
-- [discussion](/word/discussion)：討論、話し合い
+- [audition](/word/audition/)：オーディション、選考のための実技試験
+- [discussion](/word/discussion/)：討論、話し合い
 
 ---
 
 ## 📖 できればこれも
 
-- [resume](/word/resume)：履歴書
-- [candidate](/word/candidate)：候補者
+- [resume](/word/resume/)：履歴書
+- [candidate](/word/candidate/)：候補者
 
 <!-- cvid: aid40_bid30 -->

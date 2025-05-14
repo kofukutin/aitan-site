@@ -97,7 +97,7 @@ TOEICでは、職業や人物紹介、オフィスや建設現場の話題で登
 ## 🤔  artist との違いは？
 
 - **painter**：主に絵画を描く人やペンキを塗る職人を指す
-- **[artist](/word/artist)**：芸術家全般（絵画・彫刻・音楽など幅広い分野）を指す
+- **[artist](/word/artist/)**：芸術家全般（絵画・彫刻・音楽など幅広い分野）を指す
 
 painterは「絵」や「塗装」に特化した職業や人を指しますが、artistは芸術全般に関わる人を広く指します。
 
@@ -105,14 +105,14 @@ painterは「絵」や「塗装」に特化した職業や人を指しますが�
 
 ## 🧩 あわせて覚えたい
 
-- [sculptor](/word/sculptor)：彫刻家
-- [designer](/word/designer)：デザイナー、設計者
+- [sculptor](/word/sculptor/)：彫刻家
+- [designer](/word/designer/)：デザイナー、設計者
 
 ---
 
 ## 📖 できればこれも
 
-- [writer](/word/writer)：作家、著者
-- [photographer](/word/photographer)：写真家
+- [writer](/word/writer/)：作家、著者
+- [photographer](/word/photographer/)：写真家
 
 <!-- cvid: aid24_bid38 -->

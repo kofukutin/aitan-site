@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「頼る」「依存する」という意味で
 ## 🤔  depend との違いは？
 
 - **rely**：信頼して頼る、安心して任せるニュアンスが強い
-- **[depend](/word/depend)**：状況や条件に左右されて「依存する」ニュアンスが強い
+- **[depend](/word/depend/)**：状況や条件に左右されて「依存する」ニュアンスが強い
 
 relyは「信頼して頼る」気持ちが含まれ、dependは「条件や状況に左右される」客観的な依存を表します。
 
@@ -105,14 +105,14 @@ relyは「信頼して頼る」気持ちが含まれ、dependは「条件や状�
 
 ## 🧩 あわせて覚えたい
 
-- [trust](/word/trust)：信じる、信用する
-- [support](/word/support)：支える、支援する
+- [trust](/word/trust/)：信じる、信用する
+- [support](/word/support/)：支える、支援する
 
 ---
 
 ## 📖 できればこれも
 
-- [refer](/word/refer)：参照する、言及する
-- [respond](/word/respond)：応答する、返答する
+- [refer](/word/refer/)：参照する、言及する
+- [respond](/word/respond/)：応答する、返答する
 
 <!-- cvid: aid20_bid30 -->

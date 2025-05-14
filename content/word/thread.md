@@ -97,7 +97,7 @@ ITやビジネス文脈で「スレッド」や「話の筋」として出題さ
 ## 🤔  string との違いは？
 
 - **thread**：細い糸や、話・議論の筋道、ITのスレッド
-- **[string](/word/string)**：ひも状のもの、楽器の弦、文字列（IT用語）
+- **[string](/word/string/)**：ひも状のもの、楽器の弦、文字列（IT用語）
 
 threadは「細い糸」や「筋道」といった連続性や流れを強調し、stringは「ひも」や「文字列」など物理的・抽象的な「つながり」を表します。
 
@@ -105,14 +105,14 @@ threadは「細い糸」や「筋道」といった連続性や流れを強調�
 
 ## 🧩 あわせて覚えたい
 
-- [fiber](/word/fiber)：繊維
-- [topic](/word/topic)：話題
+- [fiber](/word/fiber/)：繊維
+- [topic](/word/topic/)：話題
 
 ---
 
 ## 📖 できればこれも
 
-- [fabric](/word/fabric)：布、生地
-- [yarn](/word/yarn)：毛糸、糸
+- [fabric](/word/fabric/)：布、生地
+- [yarn](/word/yarn/)：毛糸、糸
 
 <!-- cvid: aid27_bid06 -->

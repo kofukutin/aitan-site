@@ -97,7 +97,7 @@ TOEICでは、メールや案内文、契約書などで「subscription」が定
 ## 🤔  membership との違いは？
 
 - **subscription**：定期的な支払いでサービスや商品を受け取る契約
-- **[membership](/word/membership)**：会員資格や会員であること自体
+- **[membership](/word/membership/)**：会員資格や会員であること自体
 
 subscriptionは「定期購読・利用契約」に重点があり、membershipは「会員であること」や「会員権」に重点があります。
 
@@ -105,14 +105,14 @@ subscriptionは「定期購読・利用契約」に重点があり、membership�
 
 ## 🧩 あわせて覚えたい
 
-- [registration](/word/registration)：登録、申し込み
-- [renewal](/word/renewal)：更新、継続
+- [registration](/word/registration/)：登録、申し込み
+- [renewal](/word/renewal/)：更新、継続
 
 ---
 
 ## 📖 できればこれも
 
-- [invoice](/word/invoice)：請求書
-- [contract](/word/contract)：契約
+- [invoice](/word/invoice/)：請求書
+- [contract](/word/contract/)：契約
 
 <!-- cvid: aid13_bid32 -->

@@ -97,7 +97,7 @@ TOEICでは主にビジネス文書やメールの修正・編集に関する文
 ## 🤔  revision との違いは？
 
 - **editing**：内容を整理・修正し、より良くするための「編集」全般
-- **[revision](/word/revision)**：内容の見直しや修正、特に「改訂」や「修正版」を指す
+- **[revision](/word/revision/)**：内容の見直しや修正、特に「改訂」や「修正版」を指す
 
 editingは全体の構成や表現を整える広い意味の編集、revisionは主に内容の修正や改訂に焦点を当てます。
 
@@ -105,14 +105,14 @@ editingは全体の構成や表現を整える広い意味の編集、revision�
 
 ## 🧩 あわせて覚えたい
 
-- [proofreading](/word/proofreading)：校正（誤字脱字や細かいミスのチェック）
-- [correction](/word/correction)：訂正、修正
+- [proofreading](/word/proofreading/)：校正（誤字脱字や細かいミスのチェック）
+- [correction](/word/correction/)：訂正、修正
 
 ---
 
 ## 📖 できればこれも
 
-- [editor](/word/editor)：編集者
-- [draft](/word/draft)：下書き、草稿
+- [editor](/word/editor/)：編集者
+- [draft](/word/draft/)：下書き、草稿
 
 <!-- cvid: aid48_bid21 -->

@@ -97,7 +97,7 @@ TOEICでは主にメールや契約書、ウェブサイトの注意書きなど
 ## 🤔  notice との違いは？
 
 - **disclaimer**：責任の否定や免責を明記するフォーマルな注意書き
-- **[notice](/word/notice)**：一般的な「お知らせ」や「通知」
+- **[notice](/word/notice/)**：一般的な「お知らせ」や「通知」
 
 disclaimerは法的責任を回避するための文言で、noticeは単なる案内や注意喚起に使われます。
 
@@ -105,14 +105,14 @@ disclaimerは法的責任を回避するための文言で、noticeは単なる�
 
 ## 🧩 あわせて覚えたい
 
-- [waiver](/word/waiver)：権利放棄、免除
-- [disclosure](/word/disclosure)：開示、公開
+- [waiver](/word/waiver/)：権利放棄、免除
+- [disclosure](/word/disclosure/)：開示、公開
 
 ---
 
 ## 📖 できればこれも
 
-- [policy](/word/policy)：方針、規定
-- [statement](/word/statement)：声明、記述
+- [policy](/word/policy/)：方針、規定
+- [statement](/word/statement/)：声明、記述
 
 <!-- cvid: aid39_bid38 -->

@@ -97,7 +97,7 @@ TOEICではPart 7の長文や説明文で「効果的に」「実質的に」と
 ## 🤔  efficiently との違いは？
 
 - **effectively**：目的を達成する「効果」に重点がある
-- **[efficiently](/word/efficiently)**：無駄なく「効率的」に行うことに重点がある
+- **[efficiently](/word/efficiently/)**：無駄なく「効率的」に行うことに重点がある
 
 「effectively」は結果や成果の有無に注目し、「efficiently」は時間や資源の無駄の少なさに注目します。
 
@@ -105,14 +105,14 @@ TOEICではPart 7の長文や説明文で「効果的に」「実質的に」と
 
 ## 🧩 あわせて覚えたい
 
-- [practically](/word/practically)：実際には、事実上
-- [successfully](/word/successfully)：うまく、成功して
+- [practically](/word/practically/)：実際には、事実上
+- [successfully](/word/successfully/)：うまく、成功して
 
 ---
 
 ## 📖 できればこれも
 
-- [actually](/word/actually)：実際に
-- [properly](/word/properly)：適切に
+- [actually](/word/actually/)：実際に
+- [properly](/word/properly/)：適切に
 
 <!-- cvid: aid40_bid04 -->

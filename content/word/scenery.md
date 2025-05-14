@@ -97,7 +97,7 @@ Our hotel offers rooms with stunning mountain scenery.
 ## 🤔  landscape との違いは？
 
 - **scenery**：自然や場所全体の「景色」「風景」を広く指す
-- **[landscape](/word/landscape)**：特に「地形」や「眺め」としての風景、または絵画ジャンルとしての「風景画」
+- **[landscape](/word/landscape/)**：特に「地形」や「眺め」としての風景、または絵画ジャンルとしての「風景画」
 
 sceneryはその場で見える自然の美しさ全体を表し、landscapeは地形や構図、または芸術的な視点での「風景」を指します。
 
@@ -105,14 +105,14 @@ sceneryはその場で見える自然の美しさ全体を表し、landscapeは�
 
 ## 🧩 あわせて覚えたい
 
-- [view](/word/view)：眺め、視界
-- [sight](/word/sight)：光景、名所
+- [view](/word/view/)：眺め、視界
+- [sight](/word/sight/)：光景、名所
 
 ---
 
 ## 📖 できればこれも
 
-- [attraction](/word/attraction)：観光名所、魅力
-- [nature](/word/nature)：自然
+- [attraction](/word/attraction/)：観光名所、魅力
+- [nature](/word/nature/)：自然
 
 <!-- cvid: aid09_bid04 -->

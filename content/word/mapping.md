@@ -97,7 +97,7 @@ ITやビジネス文書、マニュアルの説明文で「mapping」はデー�
 ## 🤔  assignment との違いは？
 
 - **mapping**：要素同士の対応関係や写像そのものを指す
-- **[assignment](/word/assignment)**：割り当てや任命、課題など「割り当てる行為やその結果」を指す
+- **[assignment](/word/assignment/)**：割り当てや任命、課題など「割り当てる行為やその結果」を指す
 
 mappingは「AとBをどう対応させるか」という関係性に焦点があり、assignmentは「AをBに割り当てる」という行為や結果に焦点があります。
 
@@ -105,14 +105,14 @@ mappingは「AとBをどう対応させるか」という関係性に焦点が�
 
 ## 🧩 あわせて覚えたい
 
-- [correspondence](/word/correspondence)：対応、通信
-- [conversion](/word/conversion)：変換、転換
+- [correspondence](/word/correspondence/)：対応、通信
+- [conversion](/word/conversion/)：変換、転換
 
 ---
 
 ## 📖 できればこれも
 
-- [structure](/word/structure)：構造
-- [diagram](/word/diagram)：図、図解
+- [structure](/word/structure/)：構造
+- [diagram](/word/diagram/)：図、図解
 
 <!-- cvid: aid22_bid45 -->

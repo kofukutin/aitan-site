@@ -98,7 +98,7 @@ TOEICでは主にPart 1の写真描写で、コップや窓ガラスなどの物
 ## 🤔  cup との違いは？
 
 - **glass**：ガラス製のコップやグラス、またはガラス素材そのものを指す
-- **[cup](/word/cup)**：取っ手付きのカップ（主に陶器やプラスチック製）を指す
+- **[cup](/word/cup/)**：取っ手付きのカップ（主に陶器やプラスチック製）を指す
 
 glassは主にガラス製の飲み物用容器や素材を指し、cupは取っ手付きのカップ（コーヒーカップなど）を指します。
 
@@ -106,14 +106,14 @@ glassは主にガラス製の飲み物用容器や素材を指し、cupは取っ
 
 ## 🧩 あわせて覚えたい
 
-- [bottle](/word/bottle)：瓶、ボトル
-- [window](/word/window)：窓
+- [bottle](/word/bottle/)：瓶、ボトル
+- [window](/word/window/)：窓
 
 ---
 
 ## 📖 できればこれも
 
-- [plate](/word/plate)：皿
-- [dish](/word/dish)：料理、皿
+- [plate](/word/plate/)：皿
+- [dish](/word/dish/)：料理、皿
 
 <!-- cvid: aid17_bid11 -->

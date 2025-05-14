@@ -97,7 +97,7 @@ TOEICでは、ホテルや旅行、地理に関する説明文や広告などで
 ## 🤔  international との違いは？
 
 - **continental**：大陸に関する、または大陸性の
-- **[international](/word/international)**：国際的な、国と国の間の
+- **[international](/word/international/)**：国際的な、国と国の間の
 
 continentalは「大陸」という地理的な範囲や特徴を指し、internationalは「国と国の間」や「国際的な関係」を表します。
 
@@ -105,14 +105,14 @@ continentalは「大陸」という地理的な範囲や特徴を指し、intern
 
 ## 🧩 あわせて覚えたい
 
-- [domestic](/word/domestic)：国内の
-- [regional](/word/regional)：地域の
+- [domestic](/word/domestic/)：国内の
+- [regional](/word/regional/)：地域の
 
 ---
 
 ## 📖 できればこれも
 
-- [coastal](/word/coastal)：海岸の
-- [overseas](/word/overseas)：海外の
+- [coastal](/word/coastal/)：海岸の
+- [overseas](/word/overseas/)：海外の
 
 <!-- cvid: aid07_bid02 -->

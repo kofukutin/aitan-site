@@ -97,7 +97,7 @@ TOEICでは、科学や教育、医療系の記事や説明文で「cognitive fu
 ## 🤔  intellectual との違いは？
 
 - **cognitive**：知覚・記憶・思考など「認知」に関する
-- **[intellectual](/word/intellectual)**：知性や知的活動全般に関する
+- **[intellectual](/word/intellectual/)**：知性や知的活動全般に関する
 
 cognitiveは「脳の働きや認知プロセス」に焦点を当て、intellectualは「知的能力や知識の深さ」など広い意味で使われます。
 
@@ -105,14 +105,14 @@ cognitiveは「脳の働きや認知プロセス」に焦点を当て、intellec
 
 ## 🧩 あわせて覚えたい
 
-- [mental](/word/mental)：精神の、心の
-- [perception](/word/perception)：知覚、認識
+- [mental](/word/mental/)：精神の、心の
+- [perception](/word/perception/)：知覚、認識
 
 ---
 
 ## 📖 できればこれも
 
-- [logical](/word/logical)：論理的な
-- [conscious](/word/conscious)：意識している
+- [logical](/word/logical/)：論理的な
+- [conscious](/word/conscious/)：意識している
 
 <!-- cvid: aid41_bid31 -->

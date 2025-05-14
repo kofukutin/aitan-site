@@ -97,7 +97,7 @@ TOEICでは会話や説明文の進行形表現で頻出します。日常的な
 ## 🤔  obtaining との違いは？
 
 - **getting**：日常的・カジュアルに「得る」「手に入れる」「～になる」を表す
-- **[obtaining](/word/obtaining)**：ややフォーマルで「正式に入手する」「努力して得る」を表す
+- **[obtaining](/word/obtaining/)**：ややフォーマルで「正式に入手する」「努力して得る」を表す
 
 **getting** は日常会話やカジュアルな場面で幅広く使われますが、**obtaining** は書類や許可証など、公式なものを手に入れるときに使われることが多いです。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文の進行形表現で頻出します。日常的な
 
 ## 🧩 あわせて覚えたい
 
-- [receive](/word/receive)：受け取る
-- [acquire](/word/acquire)：（努力して）習得する、得る
+- [receive](/word/receive/)：受け取る
+- [acquire](/word/acquire/)：（努力して）習得する、得る
 
 ---
 
 ## 📖 できればこれも
 
-- [bring](/word/bring)：持ってくる
-- [take](/word/take)：持っていく、取る
+- [bring](/word/bring/)：持ってくる
+- [take](/word/take/)：持っていく、取る
 
 <!-- cvid: aid11_bid10 -->

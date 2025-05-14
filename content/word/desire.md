@@ -98,7 +98,7 @@ TOEICでは、desireは主に名詞・動詞として「強い願望」や「欲
 ## 🤔  wish との違いは？
 
 - **desire**：強く深い願望や欲求を表し、ややフォーマルな響き。
-- **[wish](/word/wish)**：日常的な「願い」や「希望」を表し、カジュアルな場面でも使える。
+- **[wish](/word/wish/)**：日常的な「願い」や「希望」を表し、カジュアルな場面でも使える。
 
 desireは心の奥底から強く望むニュアンスがあり、wishはもう少し軽い「こうなればいいな」という気持ちを表します。
 
@@ -106,14 +106,14 @@ desireは心の奥底から強く望むニュアンスがあり、wishはもう�
 
 ## 🧩 あわせて覚えたい
 
-- [ambition](/word/ambition)：大きな目標や野心
-- [craving](/word/craving)：（特に食べ物などへの）強い欲求
+- [ambition](/word/ambition/)：大きな目標や野心
+- [craving](/word/craving/)：（特に食べ物などへの）強い欲求
 
 ---
 
 ## 📖 できればこれも
 
-- [requirement](/word/requirement)：必要条件、要件
-- [goal](/word/goal)：目標、ゴール
+- [requirement](/word/requirement/)：必要条件、要件
+- [goal](/word/goal/)：目標、ゴール
 
 <!-- cvid: aid41_bid33 -->

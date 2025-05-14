@@ -97,7 +97,7 @@ typicallyはTOEICの長文読解パートで、一般的な傾向や標準的な
 ## 🤔  usually との違いは？
 
 - **typically**：典型的・標準的なパターンや特徴を強調
-- **[usually](/word/usually)**：単に「たいてい」「ふつうは」と頻度を表す
+- **[usually](/word/usually/)**：単に「たいてい」「ふつうは」と頻度を表す
 
 typicallyは「その物事らしい」「型にはまった」ニュアンスがあり、usuallyは単なる頻度の高さを表します。
 
@@ -105,14 +105,14 @@ typicallyは「その物事らしい」「型にはまった」ニュアンス�
 
 ## 🧩 あわせて覚えたい
 
-- [generally](/word/generally)：一般的に
-- [rarely](/word/rarely)：めったに～ない
+- [generally](/word/generally/)：一般的に
+- [rarely](/word/rarely/)：めったに～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [frequently](/word/frequently)：頻繁に
-- [occasionally](/word/occasionally)：時々
+- [frequently](/word/frequently/)：頻繁に
+- [occasionally](/word/occasionally/)：時々
 
 <!-- cvid: aid35_bid41 -->

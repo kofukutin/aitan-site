@@ -97,7 +97,7 @@ TOEICでは、オフィスや商品、服装などを説明する場面で「sty
 ## 🤔  fashionable との違いは？
 
 - **stylish**：センスが良く洗練された印象を与える「おしゃれな」
-- **[fashionable](/word/fashionable)**：流行に合っている「流行の」「ファッショナブルな」
+- **[fashionable](/word/fashionable/)**：流行に合っている「流行の」「ファッショナブルな」
 
 「stylish」は個人のセンスやデザイン性の高さを強調し、「fashionable」は流行やトレンドに合っていることを強調します。
 
@@ -105,14 +105,14 @@ TOEICでは、オフィスや商品、服装などを説明する場面で「sty
 
 ## 🧩 あわせて覚えたい
 
-- [elegant](/word/elegant)：上品な、優雅な
-- [trendy](/word/trendy)：流行の、最新の
+- [elegant](/word/elegant/)：上品な、優雅な
+- [trendy](/word/trendy/)：流行の、最新の
 
 ---
 
 ## 📖 できればこれも
 
-- [modern](/word/modern)：現代的な
-- [classic](/word/classic)：定番の、古典的な
+- [modern](/word/modern/)：現代的な
+- [classic](/word/classic/)：定番の、古典的な
 
 <!-- cvid: aid21_bid30 -->

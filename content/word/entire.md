@@ -97,7 +97,7 @@ TOEICでは「全体の」「すべての」を表す形容詞として、名詞
 ## 🤔  whole との違いは？
 
 - **entire**：部分ではなく"全体"であることを強調し、ややフォーマルな響き。
-- **[whole](/word/whole)**：日常的で「全部」「まるごと」という意味。カジュアルな場面でも使う。
+- **[whole](/word/whole/)**：日常的で「全部」「まるごと」という意味。カジュアルな場面でも使う。
 
 entireはフォーマルな文書やビジネスでよく使われ、wholeは日常会話で幅広く使われます。
 
@@ -105,14 +105,14 @@ entireはフォーマルな文書やビジネスでよく使われ、wholeは日
 
 ## 🧩 あわせて覚えたい
 
-- [complete](/word/complete)：完全な、全部そろった
-- [partial](/word/partial)：部分的な、不完全な
+- [complete](/word/complete/)：完全な、全部そろった
+- [partial](/word/partial/)：部分的な、不完全な
 
 ---
 
 ## 📖 できればこれも
 
-- [total](/word/total)：合計の、全体の
-- [overall](/word/overall)：全体的な、総合的な
+- [total](/word/total/)：合計の、全体の
+- [overall](/word/overall/)：全体的な、総合的な
 
 <!-- cvid: aid24_bid39 -->

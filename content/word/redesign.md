@@ -97,7 +97,7 @@ TOEICでは主にPart 6の長文穴埋めや、ビジネス文書の中で「再
 ## 🤔  renovate との違いは？
 
 - **redesign**：見た目や機能、構造を新しい形に設計し直すこと。
-- **[renovate](/word/renovate)**：建物や部屋などを修理・改装して新しくすること。
+- **[renovate](/word/renovate/)**：建物や部屋などを修理・改装して新しくすること。
 
 redesignは「設計し直す」ことに重点があり、renovateは「修理・改装」など物理的な改善に使われます。
 
@@ -105,14 +105,14 @@ redesignは「設計し直す」ことに重点があり、renovateは「修理�
 
 ## 🧩 あわせて覚えたい
 
-- [modify](/word/modify)：修正する、変更する
-- [update](/word/update)：最新の状態にする、更新する
+- [modify](/word/modify/)：修正する、変更する
+- [update](/word/update/)：最新の状態にする、更新する
 
 ---
 
 ## 📖 できればこれも
 
-- [develop](/word/develop)：開発する
-- [improve](/word/improve)：改善する
+- [develop](/word/develop/)：開発する
+- [improve](/word/improve/)：改善する
 
 <!-- cvid: aid31_bid35 -->

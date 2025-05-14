@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で「何かが落ちている」「下が
 ## 🤔  dropping との違いは？
 
 - **falling**：自然に落ちる、下がる動作や状態全般を表す。
-- **[dropping](/word/dropping)**：何かを意図的に落とす、または急激に下がる場合に使う。
+- **[dropping](/word/dropping/)**：何かを意図的に落とす、または急激に下がる場合に使う。
 
 fallingは自然現象や全体的な減少に使われ、droppingは人が物を落とす場合や、急激な変化を強調したいときに使います。
 
@@ -105,14 +105,14 @@ fallingは自然現象や全体的な減少に使われ、droppingは人が物�
 
 ## 🧩 あわせて覚えたい
 
-- [rise](/word/rise)：上昇する
-- [decline](/word/decline)：減少する、衰える
+- [rise](/word/rise/)：上昇する
+- [decline](/word/decline/)：減少する、衰える
 
 ---
 
 ## 📖 できればこれも
 
-- [drop](/word/drop)：落とす、下がる
-- [decrease](/word/decrease)：減少する
+- [drop](/word/drop/)：落とす、下がる
+- [decrease](/word/decrease/)：減少する
 
 <!-- cvid: aid02_bid27 -->

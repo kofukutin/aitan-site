@@ -97,7 +97,7 @@ TOEICでは、文法問題や説明文中で「明確な」「定義された」
 ## 🤔  determined との違いは？
 
 - **defined**：明確に定義された、はっきり区切られた
-- **[determined](/word/determined)**：決意した、断固とした
+- **[determined](/word/determined/)**：決意した、断固とした
 
 「defined」は物事や範囲が明確に区切られていることを指し、「determined」は人の意志や態度が強いことを表します。
 
@@ -105,14 +105,14 @@ TOEICでは、文法問題や説明文中で「明確な」「定義された」
 
 ## 🧩 あわせて覚えたい
 
-- [specific](/word/specific)：具体的な、特定の
-- [vague](/word/vague)：曖昧な、不明確な
+- [specific](/word/specific/)：具体的な、特定の
+- [vague](/word/vague/)：曖昧な、不明確な
 
 ---
 
 ## 📖 できればこれも
 
-- [definite](/word/definite)：明確な、確定した
-- [describe](/word/describe)：説明する、描写する
+- [definite](/word/definite/)：明確な、確定した
+- [describe](/word/describe/)：説明する、描写する
 
 <!-- cvid: aid10_bid11 -->

@@ -97,7 +97,7 @@ TOEICでは会話や説明文で「プロとして」「専門家として」な
 ## 🤔  expert との違いは？
 
 - **pro**：職業として行うプロ、実務経験が豊富な人
-- **[expert](/word/expert)**：専門知識や技術に非常に長けた人
+- **[expert](/word/expert/)**：専門知識や技術に非常に長けた人
 
 「pro」は実際に職業として活動している人を指すことが多く、「expert」は知識や技術の高さを強調します。
 
@@ -105,14 +105,14 @@ TOEICでは会話や説明文で「プロとして」「専門家として」な
 
 ## 🧩 あわせて覚えたい
 
-- [amateur](/word/amateur)：アマチュア、素人
-- [specialist](/word/specialist)：専門家、スペシャリスト
+- [amateur](/word/amateur/)：アマチュア、素人
+- [specialist](/word/specialist/)：専門家、スペシャリスト
 
 ---
 
 ## 📖 できればこれも
 
-- [con](/word/con)：短所、欠点
-- [rookie](/word/rookie)：新人、ルーキー
+- [con](/word/con/)：短所、欠点
+- [rookie](/word/rookie/)：新人、ルーキー
 
 <!-- cvid: aid42_bid19 -->

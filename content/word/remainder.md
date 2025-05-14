@@ -97,7 +97,7 @@ TOEICではビジネス文書や説明文で「残り」「余り」といった
 ## 🤔  rest との違いは？
 
 - **remainder**：主にフォーマルな場面や数学・ビジネスで「残り」「余り」を指す。
-- **[rest](/word/rest)**：日常的に使われる「残り」「残部」。
+- **[rest](/word/rest/)**：日常的に使われる「残り」「残部」。
 
 remainderは書き言葉や公式な文脈で使われやすく、restは会話やカジュアルな場面でよく使われます。
 
@@ -105,14 +105,14 @@ remainderは書き言葉や公式な文脈で使われやすく、restは会話�
 
 ## 🧩 あわせて覚えたい
 
-- [balance](/word/balance)：残高、差額
-- [surplus](/word/surplus)：余剰、黒字
+- [balance](/word/balance/)：残高、差額
+- [surplus](/word/surplus/)：余剰、黒字
 
 ---
 
 ## 📖 できればこれも
 
-- [portion](/word/portion)：部分、分け前
-- [fraction](/word/fraction)：一部、分数
+- [portion](/word/portion/)：部分、分け前
+- [fraction](/word/fraction/)：一部、分数
 
 <!-- cvid: aid04_bid49 -->

@@ -97,7 +97,7 @@ TOEICでは「take into consideration（考慮に入れる）」などのフレ�
 ## 🤔  thought との違いは？
 
 - **consideration**：何かを決める際の「考慮」や「配慮」、または他人への「思いやり」を表すフォーマルな名詞。
-- **[thought](/word/thought)**：単なる「考え」や「思考」、頭に浮かんだことを指すカジュアルな名詞。
+- **[thought](/word/thought/)**：単なる「考え」や「思考」、頭に浮かんだことを指すカジュアルな名詞。
 
 considerationは「配慮」や「慎重な検討」のニュアンスが強く、thoughtは「思いつき」や「考えそのもの」を指します。
 
@@ -105,14 +105,14 @@ considerationは「配慮」や「慎重な検討」のニュアンスが強く�
 
 ## 🧩 あわせて覚えたい
 
-- [regard](/word/regard)：尊重、配慮
-- [neglect](/word/neglect)：無視、怠慢
+- [regard](/word/regard/)：尊重、配慮
+- [neglect](/word/neglect/)：無視、怠慢
 
 ---
 
 ## 📖 できればこれも
 
-- [suggestion](/word/suggestion)：提案
-- [decision](/word/decision)：決定
+- [suggestion](/word/suggestion/)：提案
+- [decision](/word/decision/)：決定
 
 <!-- cvid: aid22_bid34 -->

@@ -97,7 +97,7 @@ TOEICでは主にPart 7の長文や公式文書、通知文などで登場し、
 ## 🤔  regulation との違いは？
 
 - **ordinance**：地方自治体などが制定する公式な条例や法令
-- **[regulation](/word/regulation)**：組織や政府が定める一般的な規則や規制
+- **[regulation](/word/regulation/)**：組織や政府が定める一般的な規則や規制
 
 ordinanceは主に市や町などの地方レベルの法的拘束力のあるルールを指し、regulationはより広く、企業や政府機関などが定める規則全般を指します。
 
@@ -105,14 +105,14 @@ ordinanceは主に市や町などの地方レベルの法的拘束力のある�
 
 ## 🧩 あわせて覚えたい
 
-- [statute](/word/statute)：制定法、成文法
-- [decree](/word/decree)：法令、命令
+- [statute](/word/statute/)：制定法、成文法
+- [decree](/word/decree/)：法令、命令
 
 ---
 
 ## 📖 できればこれも
 
-- [legislation](/word/legislation)：法律、立法
-- [policy](/word/policy)：方針、政策
+- [legislation](/word/legislation/)：法律、立法
+- [policy](/word/policy/)：方針、政策
 
 <!-- cvid: aid01_bid15 -->

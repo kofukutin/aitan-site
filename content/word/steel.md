@@ -97,7 +97,7 @@ TOEICでは工場や建設、製造業の話題で「steel」が登場するこ�
 ## 🤔  iron との違いは？
 
 - **steel**：鉄に炭素などを加えて強度を高めた合金。建築や機械などに使われる。
-- **[iron](/word/iron)**：純粋な鉄や鉄分、または鉄製品全般を指す。
+- **[iron](/word/iron/)**：純粋な鉄や鉄分、または鉄製品全般を指す。
 
 steelは「加工された強い金属」、ironは「素材としての鉄」や「鉄分」を指す場面で使い分けます。
 
@@ -105,14 +105,14 @@ steelは「加工された強い金属」、ironは「素材としての鉄」�
 
 ## 🧩 あわせて覚えたい
 
-- [metal](/word/metal)：金属
-- [alloy](/word/alloy)：合金
+- [metal](/word/metal/)：金属
+- [alloy](/word/alloy/)：合金
 
 ---
 
 ## 📖 できればこれも
 
-- [copper](/word/copper)：銅
-- [plastic](/word/plastic)：プラスチック
+- [copper](/word/copper/)：銅
+- [plastic](/word/plastic/)：プラスチック
 
 <!-- cvid: aid23_bid22 -->

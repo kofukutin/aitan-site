@@ -97,7 +97,7 @@ TOEICでは形容詞の語彙問題や、否定的な意味を問う文脈で出
 ## 🤔  unattractive との違いは？
 
 - **ugly**：見た目や状況が「醜い」「不快」と強く否定的に表現する。
-- **[unattractive](/word/unattractive)**：魅力がない、あまり引きつけないというやや控えめな表現。
+- **[unattractive](/word/unattractive/)**：魅力がない、あまり引きつけないというやや控えめな表現。
 
 uglyはストレートに「醜い」と伝える強い言葉ですが、unattractiveは「魅力に欠ける」とやんわり伝える時に使います。
 
@@ -105,14 +105,14 @@ uglyはストレートに「醜い」と伝える強い言葉ですが、unattra
 
 ## 🧩 あわせて覚えたい
 
-- [beautiful](/word/beautiful)：美しい
-- [messy](/word/messy)：散らかった、乱雑な
+- [beautiful](/word/beautiful/)：美しい
+- [messy](/word/messy/)：散らかった、乱雑な
 
 ---
 
 ## 📖 できればこれも
 
-- [pretty](/word/pretty)：かわいい、きれいな
-- [dirty](/word/dirty)：汚い
+- [pretty](/word/pretty/)：かわいい、きれいな
+- [dirty](/word/dirty/)：汚い
 
 <!-- cvid: aid35_bid12 -->

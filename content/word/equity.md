@@ -97,7 +97,7 @@ TOEICでは主にビジネスや金融関連の長文で「株式」「自己資
 ## 🤔  equality との違いは？
 
 - **equity**：公平・公正、または企業の株式・自己資本
-- **[equality](/word/equality)**：平等（すべての人が同じ状態・条件であること）
+- **[equality](/word/equality/)**：平等（すべての人が同じ状態・条件であること）
 
 equityは「状況や必要に応じて公正に扱うこと」、equalityは「全員を同じに扱うこと」を指し、特に社会問題やビジネスで使い分けられます。
 
@@ -105,14 +105,14 @@ equityは「状況や必要に応じて公正に扱うこと」、equalityは「
 
 ## 🧩 あわせて覚えたい
 
-- [asset](/word/asset)：資産
-- [fairness](/word/fairness)：公正さ
+- [asset](/word/asset/)：資産
+- [fairness](/word/fairness/)：公正さ
 
 ---
 
 ## 📖 できればこれも
 
-- [liability](/word/liability)：負債
-- [dividend](/word/dividend)：配当
+- [liability](/word/liability/)：負債
+- [dividend](/word/dividend/)：配当
 
 <!-- cvid: aid24_bid45 -->

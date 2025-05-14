@@ -97,7 +97,7 @@ IT関連の説明や操作手順を問う問題で、cursorは画面操作の指
 ## 🤔  pointer との違いは？
 
 - **cursor**：画面上の入力位置や選択位置を示す点滅線や矢印など
-- **[pointer](/word/pointer)**：主にマウスの矢印型アイコンや指し示すもの
+- **[pointer](/word/pointer/)**：主にマウスの矢印型アイコンや指し示すもの
 
 cursorはキーボード入力時の点滅線やテキスト位置を指し、pointerはマウス操作時の矢印などを指します。
 
@@ -105,14 +105,14 @@ cursorはキーボード入力時の点滅線やテキスト位置を指し、po
 
 ## 🧩 あわせて覚えたい
 
-- [highlight](/word/highlight)：強調表示する
-- [icon](/word/icon)：アイコン、画面上の小さな絵
+- [highlight](/word/highlight/)：強調表示する
+- [icon](/word/icon/)：アイコン、画面上の小さな絵
 
 ---
 
 ## 📖 できればこれも
 
-- [keyboard](/word/keyboard)：キーボード
-- [screen](/word/screen)：画面
+- [keyboard](/word/keyboard/)：キーボード
+- [screen](/word/screen/)：画面
 
 <!-- cvid: aid41_bid04 -->

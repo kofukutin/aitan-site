@@ -97,7 +97,7 @@ TOEICでは「影響」「影響力」という意味で名詞・動詞ともに
 ## 🤔  affect との違いは？
 
 - **influence**：名詞で「影響」「影響力」を表し、物事や人に与える力そのものを指す。
-- **[affect](/word/affect)**：動詞で「影響を与える」という動作や作用を表す。
+- **[affect](/word/affect/)**：動詞で「影響を与える」という動作や作用を表す。
 
 influenceは「影響そのもの」、affectは「影響を与える行為」として使い分けます。
 
@@ -105,14 +105,14 @@ influenceは「影響そのもの」、affectは「影響を与える行為」�
 
 ## 🧩 あわせて覚えたい
 
-- [impact](/word/impact)：強い影響、衝撃
-- [control](/word/control)：支配、制御
+- [impact](/word/impact/)：強い影響、衝撃
+- [control](/word/control/)：支配、制御
 
 ---
 
 ## 📖 できればこれも
 
-- [effect](/word/effect)：結果、効果
-- [power](/word/power)：力、能力
+- [effect](/word/effect/)：結果、効果
+- [power](/word/power/)：力、能力
 
 <!-- cvid: aid07_bid15 -->

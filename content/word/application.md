@@ -97,7 +97,7 @@ TOEICでは「応募書類」「申請書」「アプリケーションソフト
 ## 🤔  request との違いは？
 
 - **application**：正式な書類や手続きを伴う「申請」「応募」
-- **[request](/word/request)**：単なる「依頼」「要望」
+- **[request](/word/request/)**：単なる「依頼」「要望」
 
 applicationは公式な場面での申請や応募に使われ、requestは日常的なお願いや要望に幅広く使われます。
 
@@ -105,14 +105,14 @@ applicationは公式な場面での申請や応募に使われ、requestは日�
 
 ## 🧩 あわせて覚えたい
 
-- [submission](/word/submission)：提出、提出物
-- [software](/word/software)：ソフトウェア、コンピュータプログラム
+- [submission](/word/submission/)：提出、提出物
+- [software](/word/software/)：ソフトウェア、コンピュータプログラム
 
 ---
 
 ## 📖 できればこれも
 
-- [document](/word/document)：書類、文書
-- [process](/word/process)：過程、手続き
+- [document](/word/document/)：書類、文書
+- [process](/word/process/)：過程、手続き
 
 <!-- cvid: aid02_bid04 -->

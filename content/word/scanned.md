@@ -97,7 +97,7 @@ TOEICでは、オフィスでの書類管理やIT機器の操作に関する会�
 ## 🤔  checked との違いは？
 
 - **scanned**：機械で読み取る、またはざっと目を通すニュアンス
-- **[checked](/word/checked)**：注意深く確認・点検するニュアンス
+- **[checked](/word/checked/)**：注意深く確認・点検するニュアンス
 
 「scanned」は機械的な処理や表面的な確認、「checked」は細かく丁寧に確認する場面で使い分けます。
 
@@ -105,14 +105,14 @@ TOEICでは、オフィスでの書類管理やIT機器の操作に関する会�
 
 ## 🧩 あわせて覚えたい
 
-- [inspect](/word/inspect)：詳しく調べる
-- [review](/word/review)：見直す、再検討する
+- [inspect](/word/inspect/)：詳しく調べる
+- [review](/word/review/)：見直す、再検討する
 
 ---
 
 ## 📖 できればこれも
 
-- [print](/word/print)：印刷する
-- [copy](/word/copy)：コピーする
+- [print](/word/print/)：印刷する
+- [copy](/word/copy/)：コピーする
 
 <!-- cvid: aid06_bid29 -->

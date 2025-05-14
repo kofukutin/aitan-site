@@ -97,7 +97,7 @@ helpedはTOEICの会話パートで頻出し、誰かが何かを手伝った・
 ## 🤔  supported との違いは？
 
 - **helped**：一般的に「助けた」「手伝った」という広い意味で使う
-- **[supported](/word/supported)**：精神的・物理的に「支えた」「支援した」というニュアンスが強い
+- **[supported](/word/supported/)**：精神的・物理的に「支えた」「支援した」というニュアンスが強い
 
 helpedは日常的な手助け全般に使い、supportedはより積極的・長期的な支援や後押しを表します。
 
@@ -105,14 +105,14 @@ helpedは日常的な手助け全般に使い、supportedはより積極的・�
 
 ## 🧩 あわせて覚えたい
 
-- [assist](/word/assist)：手伝う、補助する
-- [aid](/word/aid)：援助する、救援する
+- [assist](/word/assist/)：手伝う、補助する
+- [aid](/word/aid/)：援助する、救援する
 
 ---
 
 ## 📖 できればこれも
 
-- [improved](/word/improved)：改善した、良くした
-- [guided](/word/guided)：導いた、案内した
+- [improved](/word/improved/)：改善した、良くした
+- [guided](/word/guided/)：導いた、案内した
 
 <!-- cvid: aid09_bid32 -->

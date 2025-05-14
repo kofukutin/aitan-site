@@ -97,7 +97,7 @@ TOEICでは「新しいものを作る」「設立」などの意味で、名詞
 ## 🤔  invention との違いは？
 
 - **creation**：新しく何かを生み出すこと全般や作品そのものを指す
-- **[invention](/word/invention)**：特に「発明」、今までになかった新しい道具や技術を指す
+- **[invention](/word/invention/)**：特に「発明」、今までになかった新しい道具や技術を指す
 
 creationは芸術やビジネスなど幅広い「創造」に使われ、inventionは主に技術的な「発明」に限定されます。
 
@@ -105,14 +105,14 @@ creationは芸術やビジネスなど幅広い「創造」に使われ、invent
 
 ## 🧩 あわせて覚えたい
 
-- [production](/word/production)：生産、製造
-- [development](/word/development)：開発、発展
+- [production](/word/production/)：生産、製造
+- [development](/word/development/)：開発、発展
 
 ---
 
 ## 📖 できればこれも
 
-- [design](/word/design)：設計、デザイン
-- [innovation](/word/innovation)：革新、新機軸
+- [design](/word/design/)：設計、デザイン
+- [innovation](/word/innovation/)：革新、新機軸
 
 <!-- cvid: aid27_bid30 -->

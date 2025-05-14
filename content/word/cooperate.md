@@ -97,7 +97,7 @@ TOEICでは会議やプロジェクトの進行、部署間のやりとりなど
 ## 🤔  collaborate との違いは？
 
 - **cooperate**：一般的に「協力する」、助け合うこと全般を指す
-- **[collaborate](/word/collaborate)**：特に「共同作業する」「一緒に何かを作り上げる」ニュアンスが強い
+- **[collaborate](/word/collaborate/)**：特に「共同作業する」「一緒に何かを作り上げる」ニュアンスが強い
 
 cooperateは幅広い協力を指し、collaborateはクリエイティブな共同作業やプロジェクトなどで使われることが多いです。
 
@@ -105,14 +105,14 @@ cooperateは幅広い協力を指し、collaborateはクリエイティブな共
 
 ## 🧩 あわせて覚えたい
 
-- [assist](/word/assist)：手伝う、援助する
-- [compete](/word/compete)：競争する
+- [assist](/word/assist/)：手伝う、援助する
+- [compete](/word/compete/)：競争する
 
 ---
 
 ## 📖 できればこれも
 
-- [coordinate](/word/coordinate)：調整する
-- [support](/word/support)：支援する
+- [coordinate](/word/coordinate/)：調整する
+- [support](/word/support/)：支援する
 
 <!-- cvid: aid23_bid16 -->

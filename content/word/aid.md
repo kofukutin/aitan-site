@@ -97,7 +97,7 @@ aidはTOEICの長文読解パートで、支援や援助に関する文脈でよ
 ## 🤔  assist との違いは？
 
 - **aid**：経済的・物質的な「援助」「支援」をフォーマルに表す。
-- **[assist](/word/assist)**：手伝う・補助するなど、より広い意味で「助ける」を表す。
+- **[assist](/word/assist/)**：手伝う・補助するなど、より広い意味で「助ける」を表す。
 
 aidは「支援物資」や「資金援助」など具体的な援助に使われ、assistは「作業を手伝う」など行動的な助けに使われます。
 
@@ -105,14 +105,14 @@ aidは「支援物資」や「資金援助」など具体的な援助に使わ�
 
 ## 🧩 あわせて覚えたい
 
-- [support](/word/support)：支える、支援する
-- [relief](/word/relief)：救済、安心
+- [support](/word/support/)：支える、支援する
+- [relief](/word/relief/)：救済、安心
 
 ---
 
 ## 📖 できればこれも
 
-- [grant](/word/grant)：助成金、与える
-- [fund](/word/fund)：資金、基金
+- [grant](/word/grant/)：助成金、与える
+- [fund](/word/fund/)：資金、基金
 
 <!-- cvid: aid20_bid15 -->

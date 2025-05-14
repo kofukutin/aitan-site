@@ -97,7 +97,7 @@ TOEICでは、動詞chooseの過去分詞として、また形容詞的に「選
 ## 🤔  selected との違いは？
 
 - **chosen**：他と比べて特に選ばれた、ややフォーマルな響き
-- **[selected](/word/selected)**：基準や条件に従って選ばれた、やや中立的
+- **[selected](/word/selected/)**：基準や条件に従って選ばれた、やや中立的
 
 「chosen」は「特別に選ばれた」というニュアンスが強く、感情や意図が込められることが多いですが、「selected」は単に基準に従って選ばれた場合に使われます。
 
@@ -105,14 +105,14 @@ TOEICでは、動詞chooseの過去分詞として、また形容詞的に「選
 
 ## 🧩 あわせて覚えたい
 
-- [appoint](/word/appoint)：任命する
-- [elect](/word/elect)：（投票で）選ぶ
+- [appoint](/word/appoint/)：任命する
+- [elect](/word/elect/)：（投票で）選ぶ
 
 ---
 
 ## 📖 できればこれも
 
-- [prefer](/word/prefer)：より好む
-- [appoint](/word/appoint)：任命する
+- [prefer](/word/prefer/)：より好む
+- [appoint](/word/appoint/)：任命する
 
 <!-- cvid: aid49_bid35 -->

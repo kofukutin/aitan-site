@@ -97,7 +97,7 @@ TOEICでは、健康や環境、科学関連の長文で「bacteria」が登場�
 ## 🤔  germ との違いは？
 
 - **bacteria**：科学的に「細菌」を指し、専門的・中立的な表現。
-- **[germ](/word/germ)**：病気の原因となる微生物全般を指し、日常会話でよく使われるカジュアルな表現。
+- **[germ](/word/germ/)**：病気の原因となる微生物全般を指し、日常会話でよく使われるカジュアルな表現。
 
 bacteriaは専門的な文脈で使われ、germは子どもや一般向けの会話で幅広く使われます。
 
@@ -105,14 +105,14 @@ bacteriaは専門的な文脈で使われ、germは子どもや一般向けの�
 
 ## 🧩 あわせて覚えたい
 
-- [virus](/word/virus)：ウイルス（感染症の原因となる微生物）
-- [microbe](/word/microbe)：微生物（細菌やウイルスなどの総称）
+- [virus](/word/virus/)：ウイルス（感染症の原因となる微生物）
+- [microbe](/word/microbe/)：微生物（細菌やウイルスなどの総称）
 
 ---
 
 ## 📖 できればこれも
 
-- [fungus](/word/fungus)：菌類（カビやキノコなど）
-- [infection](/word/infection)：感染（病原体による体への侵入）
+- [fungus](/word/fungus/)：菌類（カビやキノコなど）
+- [infection](/word/infection/)：感染（病原体による体への侵入）
 
 <!-- cvid: aid00_bid17 -->

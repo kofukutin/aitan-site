@@ -97,7 +97,7 @@ TOEICでは「資金凍結」や「採用凍結」などビジネスシーンで
 ## 🤔  stop との違いは？
 
 - **freeze**：凍る・凍らせる、または一時的に動きを止める
-- **[stop](/word/stop)**：完全に止める、終了させる
+- **[stop](/word/stop/)**：完全に止める、終了させる
 
 freezeは「一時的な停止」や「凍結」のニュアンスがあり、stopは「完全に止める」意味で使われます。
 
@@ -105,14 +105,14 @@ freezeは「一時的な停止」や「凍結」のニュアンスがあり、st
 
 ## 🧩 あわせて覚えたい
 
-- [pause](/word/pause)：一時停止する
-- [block](/word/block)：妨げる、遮る
+- [pause](/word/pause/)：一時停止する
+- [block](/word/block/)：妨げる、遮る
 
 ---
 
 ## 📖 できればこれも
 
-- [melt](/word/melt)：溶ける
-- [delay](/word/delay)：遅らせる
+- [melt](/word/melt/)：溶ける
+- [delay](/word/delay/)：遅らせる
 
 <!-- cvid: aid26_bid11 -->

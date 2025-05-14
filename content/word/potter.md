@@ -97,7 +97,7 @@ The local potter will demonstrate traditional techniques at the event.
 ## 🤔  ceramicist との違いは？
 
 - **potter**：主に実用的な陶器や土器を作る職人や芸術家
-- **[ceramicist](/word/ceramicist)**：より広く、芸術的なセラミック作品を作る人
+- **[ceramicist](/word/ceramicist/)**：より広く、芸術的なセラミック作品を作る人
 
 potterは日用品や伝統的な陶器を作る人を指すことが多く、ceramicistは芸術性の高い作品や現代アートも含めて幅広く使われます。
 
@@ -105,14 +105,14 @@ potterは日用品や伝統的な陶器を作る人を指すことが多く、ce
 
 ## 🧩 あわせて覚えたい
 
-- [sculptor](/word/sculptor)：彫刻家
-- [artisan](/word/artisan)：職人、熟練工
+- [sculptor](/word/sculptor/)：彫刻家
+- [artisan](/word/artisan/)：職人、熟練工
 
 ---
 
 ## 📖 できればこれも
 
-- [clay](/word/clay)：粘土
-- [kiln](/word/kiln)：窯
+- [clay](/word/clay/)：粘土
+- [kiln](/word/kiln/)：窯
 
 <!-- cvid: aid43_bid14 -->

@@ -93,7 +93,7 @@ TOEICでは、会話や案内文で「まもなく」「すぐに」といった
 ## 🤔  shortly との違いは？
 
 - **soon**：今からあまり時間が経たないうちに、まもなく
-- **[shortly](/word/shortly)**：非常に短い時間の後、間もなく（ややフォーマル）
+- **[shortly](/word/shortly/)**：非常に短い時間の後、間もなく（ややフォーマル）
 
 「soon」は日常的で幅広い場面に使えますが、「shortly」はビジネスやフォーマルな場面で「間もなく」を強調したいときに使われます。
 
@@ -101,14 +101,14 @@ TOEICでは、会話や案内文で「まもなく」「すぐに」といった
 
 ## 🧩 あわせて覚えたい
 
-- [immediately](/word/immediately)：すぐに、即座に
-- [later](/word/later)：あとで、のちほど
+- [immediately](/word/immediately/)：すぐに、即座に
+- [later](/word/later/)：あとで、のちほど
 
 ---
 
 ## 📖 できればこれも
 
-- [early](/word/early)：早く、早い
-- [quickly](/word/quickly)：素早く、速やかに
+- [early](/word/early/)：早く、早い
+- [quickly](/word/quickly/)：素早く、速やかに
 
 <!-- cvid: aid07_bid43 -->

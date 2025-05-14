@@ -97,7 +97,7 @@ TOEICでは会議やパネルディスカッションの場面で「moderator」
 ## 🤔  facilitator との違いは？
 
 - **moderator**：討論や会議の進行・調整を担う司会者
-- **[facilitator](/word/facilitator)**：参加者の意見を引き出し、円滑な進行を助ける支援者
+- **[facilitator](/word/facilitator/)**：参加者の意見を引き出し、円滑な進行を助ける支援者
 
 moderatorは議論の秩序や進行管理が主な役割ですが、facilitatorは参加者の活発な意見交換や協力を促すことに重点を置きます。
 
@@ -105,13 +105,13 @@ moderatorは議論の秩序や進行管理が主な役割ですが、facilitator
 
 ## 🧩 あわせて覚えたい
 
-- [chairperson](/word/chairperson)：会議の議長、主催者
-- [mediator](/word/mediator)：仲裁者、対立の調停役
+- [chairperson](/word/chairperson/)：会議の議長、主催者
+- [mediator](/word/mediator/)：仲裁者、対立の調停役
 
 ---
 
 ## 📖 できればこれも
 
-- [panel](/word/panel)：討論会、パネルディスカッション
-- [discussion](/word/discussion)：討論、話し合い
+- [panel](/word/panel/)：討論会、パネルディスカッション
+- [discussion](/word/discussion/)：討論、話し合い
 <!-- cvid: aid13_bid14 -->

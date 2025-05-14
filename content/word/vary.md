@@ -97,7 +97,7 @@ TOEICでは「変化する」「異なる」という意味で、主に文法や
 ## 🤔  differ との違いは？
 
 - **vary**：変化する、幅や多様性があることを強調
-- **[differ](/word/differ)**：2つ以上のものが「異なる」ことを強調
+- **[differ](/word/differ/)**：2つ以上のものが「異なる」ことを強調
 
 varyは「変化の幅」や「多様性」を表し、differは「違いそのもの」を指します。
 
@@ -105,14 +105,14 @@ varyは「変化の幅」や「多様性」を表し、differは「違いその�
 
 ## 🧩 あわせて覚えたい
 
-- [change](/word/change)：変える、変わる
-- [alter](/word/alter)：（部分的に）変更する
+- [change](/word/change/)：変える、変わる
+- [alter](/word/alter/)：（部分的に）変更する
 
 ---
 
 ## 📖 できればこれも
 
-- [range](/word/range)：範囲、及ぶ
-- [shift](/word/shift)：移す、変える
+- [range](/word/range/)：範囲、及ぶ
+- [shift](/word/shift/)：移す、変える
 
 <!-- cvid: aid37_bid44 -->

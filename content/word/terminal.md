@@ -98,7 +98,7 @@ TOEICでは空港やバス、IT関連の説明文でよく登場します。交�
 ## 🤔  station との違いは？
 
 - **terminal**：交通機関の終点や発着所、ITの端末など「終わり」や「接続点」のニュアンスが強い
-- **[station](/word/station)**：駅や放送局など「拠点」や「中継点」としての意味が中心
+- **[station](/word/station/)**：駅や放送局など「拠点」や「中継点」としての意味が中心
 
 terminalは「終点」や「発着所」としての役割が強調され、stationは「途中の駅」や「拠点」として使われることが多いです。
 
@@ -106,14 +106,14 @@ terminalは「終点」や「発着所」としての役割が強調され、sta
 
 ## 🧩 あわせて覚えたい
 
-- [gate](/word/gate)：搭乗口、出入り口
-- [platform](/word/platform)：（駅の）ホーム、台
+- [gate](/word/gate/)：搭乗口、出入り口
+- [platform](/word/platform/)：（駅の）ホーム、台
 
 ---
 
 ## 📖 できればこれも
 
-- [facility](/word/facility)：施設、設備
-- [device](/word/device)：装置、機器
+- [facility](/word/facility/)：施設、設備
+- [device](/word/device/)：装置、機器
 
 <!-- cvid: aid28_bid22 -->

@@ -97,7 +97,7 @@ TOEICでは、式典や会議、表彰式などのスピーチ文でよく登場
 ## 🤔  presentation との違いは？
 
 - **speech**：聴衆の前で話す「演説」や「スピーチ」全般を指し、内容や形式は幅広い。
-- **[presentation](/word/presentation)**：資料やデータを使い、説明や提案を行う「プレゼンテーション」。
+- **[presentation](/word/presentation/)**：資料やデータを使い、説明や提案を行う「プレゼンテーション」。
 
 speechは感情や祝辞など幅広い話に使われ、presentationは情報や提案を整理して伝える場面で使われます。
 
@@ -105,14 +105,14 @@ speechは感情や祝辞など幅広い話に使われ、presentationは情報�
 
 ## 🧩 あわせて覚えたい
 
-- [lecture](/word/lecture)：講義、講演
-- [address](/word/address)：公式な演説、挨拶
+- [lecture](/word/lecture/)：講義、講演
+- [address](/word/address/)：公式な演説、挨拶
 
 ---
 
 ## 📖 できればこれも
 
-- [talk](/word/talk)：話、講演
-- [announcement](/word/announcement)：発表、告知
+- [talk](/word/talk/)：話、講演
+- [announcement](/word/announcement/)：発表、告知
 
 <!-- cvid: aid39_bid35 -->

@@ -98,7 +98,7 @@ TOEICでは、ビジネス上の倫理や責任に関する文脈で形容詞と
 ## 🤔  ethical との違いは？
 
 - **moral**：個人や社会の善悪・道徳観に基づく
-- **[ethical](/word/ethical)**：職業や集団の倫理規範に基づく
+- **[ethical](/word/ethical/)**：職業や集団の倫理規範に基づく
 
 「moral」は一般的な善悪や個人の道徳観、「ethical」は職業や組織のルール・倫理規範に関わる場面で使い分けます。
 
@@ -106,14 +106,14 @@ TOEICでは、ビジネス上の倫理や責任に関する文脈で形容詞と
 
 ## 🧩 あわせて覚えたい
 
-- [immoral](/word/immoral)：不道徳な
-- [principle](/word/principle)：原則、信条
+- [immoral](/word/immoral/)：不道徳な
+- [principle](/word/principle/)：原則、信条
 
 ---
 
 ## 📖 できればこれも
 
-- [legal](/word/legal)：合法の、法律の
-- [honest](/word/honest)：正直な
+- [legal](/word/legal/)：合法の、法律の
+- [honest](/word/honest/)：正直な
 
 <!-- cvid: aid43_bid08 -->

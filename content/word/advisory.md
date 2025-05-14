@@ -97,7 +97,7 @@ TOEICでは、公式文書や通知、委員会名などで「advisory」が出�
 ## 🤔  advice との違いは？
 
 - **advisory**：助言や勧告の性質を持つ、公式な通知や委員会などに使う
-- **[advice](/word/advice)**：個人的な「助言」や「忠告」そのもの
+- **[advice](/word/advice/)**：個人的な「助言」や「忠告」そのもの
 
 「advisory」は公式・組織的な場面での「勧告」や「助言的なもの」に使い、「advice」は個人間の助言や忠告に使います。
 
@@ -105,14 +105,14 @@ TOEICでは、公式文書や通知、委員会名などで「advisory」が出�
 
 ## 🧩 あわせて覚えたい
 
-- [consult](/word/consult)：相談する
-- [notification](/word/notification)：通知、告知
+- [consult](/word/consult/)：相談する
+- [notification](/word/notification/)：通知、告知
 
 ---
 
 ## 📖 できればこれも
 
-- [consultant](/word/consultant)：コンサルタント、相談役
-- [guidance](/word/guidance)：指導、案内
+- [consultant](/word/consultant/)：コンサルタント、相談役
+- [guidance](/word/guidance/)：指導、案内
 
 <!-- cvid: aid10_bid23 -->

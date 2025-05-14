@@ -97,7 +97,7 @@ TOEICではPart 1の写真描写問題で「look」「looking at」などの形�
 ## 🤔  seeing との違いは？
 
 - **looking**：意識的に視線を向けて見ること
-- **[seeing](/word/seeing)**：自然に目に入る、見えている状態
+- **[seeing](/word/seeing/)**：自然に目に入る、見えている状態
 
 「looking」は自分の意思で何かを見ている時に使い、「seeing」は意識せずに目に入る場合や、視覚的に見えている状態を表します。
 
@@ -105,14 +105,14 @@ TOEICではPart 1の写真描写問題で「look」「looking at」などの形�
 
 ## 🧩 あわせて覚えたい
 
-- [observe](/word/observe)：観察する
-- [watch](/word/watch)：じっと見る、見守る
+- [observe](/word/observe/)：観察する
+- [watch](/word/watch/)：じっと見る、見守る
 
 ---
 
 ## 📖 できればこれも
 
-- [find](/word/find)：見つける
-- [search](/word/search)：探す
+- [find](/word/find/)：見つける
+- [search](/word/search/)：探す
 
 <!-- cvid: aid08_bid37 -->

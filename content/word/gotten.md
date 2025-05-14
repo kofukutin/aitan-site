@@ -97,7 +97,7 @@ TOEICではアメリカ英語の文法問題やメール文で出題されるこ
 ## 🤔  received との違いは？
 
 - **gotten**：得た、手に入れた（カジュアルで幅広い意味）
-- **[received](/word/received)**：受け取った（ややフォーマルで「受領」の意味が強い）
+- **[received](/word/received/)**：受け取った（ややフォーマルで「受領」の意味が強い）
 
 gottenは「得る」「手に入れる」など幅広い意味で使われ、日常会話でよく使われます。receivedは「正式に受け取る」ニュアンスが強く、ビジネスやフォーマルな場面で使われやすいです。
 
@@ -105,14 +105,14 @@ gottenは「得る」「手に入れる」など幅広い意味で使われ、�
 
 ## 🧩 あわせて覚えたい
 
-- [obtain](/word/obtain)：（努力して）手に入れる
-- [gain](/word/gain)：（利益・経験などを）得る
+- [obtain](/word/obtain/)：（努力して）手に入れる
+- [gain](/word/gain/)：（利益・経験などを）得る
 
 ---
 
 ## 📖 できればこれも
 
-- [bought](/word/bought)：買った
-- [sent](/word/sent)：送った
+- [bought](/word/bought/)：買った
+- [sent](/word/sent/)：送った
 
 <!-- cvid: aid41_bid42 -->

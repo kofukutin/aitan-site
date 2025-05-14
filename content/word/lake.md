@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、自然や観光地の説明として
 ## 🤔  pond との違いは？
 
 - **lake**：自然にできた大きな湖を指す
-- **[pond](/word/pond)**：人工・自然を問わず小さめの池を指す
+- **[pond](/word/pond/)**：人工・自然を問わず小さめの池を指す
 
 lakeは広くて深い水域を指し、pondはそれよりも小さく浅い水たまりを指します。規模や自然・人工の違いで使い分けます。
 
@@ -105,13 +105,13 @@ lakeは広くて深い水域を指し、pondはそれよりも小さく浅い水
 
 ## 🧩 あわせて覚えたい
 
-- [river](/word/river)：川
-- [sea](/word/sea)：海
+- [river](/word/river/)：川
+- [sea](/word/sea/)：海
 
 ---
 
 ## 📖 できればこれも
 
-- [mountain](/word/mountain)：山
-- [forest](/word/forest)：森
+- [mountain](/word/mountain/)：山
+- [forest](/word/forest/)：森
 <!-- cvid: aid00_bid45 -->

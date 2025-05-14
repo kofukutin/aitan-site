@@ -97,7 +97,7 @@ TOEICでは、書類やリスト、作業の状態を表す形容詞として「
 ## 🤔  inspected との違いは？
 
 - **checked**：一般的な「確認済み」「点検済み」の状態を表す。
-- **[inspected](/word/inspected)**：より詳細に「検査・調査された」ことを強調する。
+- **[inspected](/word/inspected/)**：より詳細に「検査・調査された」ことを強調する。
 
 checkedは日常的な確認や点検に使われ、inspectedは専門的・公式な検査や調査に使われることが多いです。
 
@@ -105,14 +105,14 @@ checkedは日常的な確認や点検に使われ、inspectedは専門的・公�
 
 ## 🧩 あわせて覚えたい
 
-- [verified](/word/verified)：検証済みの、正しいと確認された
-- [unchecked](/word/unchecked)：未確認の、チェックされていない
+- [verified](/word/verified/)：検証済みの、正しいと確認された
+- [unchecked](/word/unchecked/)：未確認の、チェックされていない
 
 ---
 
 ## 📖 できればこれも
 
-- [confirmed](/word/confirmed)：確認された、確定した
-- [approved](/word/approved)：承認された
+- [confirmed](/word/confirmed/)：確認された、確定した
+- [approved](/word/approved/)：承認された
 
 <!-- cvid: aid45_bid10 -->

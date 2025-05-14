@@ -97,7 +97,7 @@ TOEICでは環境問題やサステナビリティ、科学技術に関する長
 ## 🤔  charcoal との違いは？
 
 - **carbon**：元素としての炭素や、環境・科学分野で使う「炭素」
-- **[charcoal](/word/charcoal)**：木材などを蒸し焼きにして作る「木炭」
+- **[charcoal](/word/charcoal/)**：木材などを蒸し焼きにして作る「木炭」
 
 carbonは科学的・抽象的な意味で使われるのに対し、charcoalはバーベキューや画材など具体的な「木炭」を指します。
 
@@ -105,14 +105,14 @@ carbonは科学的・抽象的な意味で使われるのに対し、charcoalは
 
 ## 🧩 あわせて覚えたい
 
-- [oxygen](/word/oxygen)：酸素
-- [emission](/word/emission)：排出、放出
+- [oxygen](/word/oxygen/)：酸素
+- [emission](/word/emission/)：排出、放出
 
 ---
 
 ## 📖 できればこれも
 
-- [dioxide](/word/dioxide)：二酸化物
-- [fuel](/word/fuel)：燃料
+- [dioxide](/word/dioxide/)：二酸化物
+- [fuel](/word/fuel/)：燃料
 
 <!-- cvid: aid20_bid25 -->

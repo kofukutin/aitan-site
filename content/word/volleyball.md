@@ -97,7 +97,7 @@ TOEICでは主にPart 1の写真描写で、スポーツやレクリエーショ
 ## 🤔  basketball との違いは？
 
 - **volleyball**：ネット越しにボールを打ち合うスポーツ
-- **[basketball](/word/basketball)**：ゴールにボールを投げ入れるスポーツ
+- **[basketball](/word/basketball/)**：ゴールにボールを投げ入れるスポーツ
 
 volleyballはネットを挟んでボールを打ち合う競技、basketballはゴールにボールを入れる競技で、ルールやプレイスタイルが大きく異なります。
 
@@ -105,13 +105,13 @@ volleyballはネットを挟んでボールを打ち合う競技、basketballは
 
 ## 🧩 あわせて覚えたい
 
-- [soccer](/word/soccer)：サッカー、フットボール
-- [net](/word/net)：ネット、網
+- [soccer](/word/soccer/)：サッカー、フットボール
+- [net](/word/net/)：ネット、網
 
 ---
 
 ## 📖 できればこれも
 
-- [tennis](/word/tennis)：テニス
-- [player](/word/player)：選手、プレイヤー
+- [tennis](/word/tennis/)：テニス
+- [player](/word/player/)：選手、プレイヤー
 <!-- cvid: aid32_bid40 -->

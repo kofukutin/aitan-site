@@ -97,7 +97,7 @@ TOEICでは環境問題や企業の社会的責任（CSR）に関する長文で
 ## 🤔  durability との違いは？
 
 - **sustainability**：環境や社会全体が長く続くこと、持続可能性
-- **[durability](/word/durability)**：物や製品が壊れず長持ちすること、耐久性
+- **[durability](/word/durability/)**：物や製品が壊れず長持ちすること、耐久性
 
 sustainabilityは社会や環境など広い視点での「持続可能性」を指し、durabilityは主に物の「壊れにくさ・長持ち」を表します。
 
@@ -105,14 +105,14 @@ sustainabilityは社会や環境など広い視点での「持続可能性」を
 
 ## 🧩 あわせて覚えたい
 
-- [environment](/word/environment)：環境
-- [conservation](/word/conservation)：保護、保存
+- [environment](/word/environment/)：環境
+- [conservation](/word/conservation/)：保護、保存
 
 ---
 
 ## 📖 できればこれも
 
-- [renewable](/word/renewable)：再生可能な
-- [efficiency](/word/efficiency)：効率
+- [renewable](/word/renewable/)：再生可能な
+- [efficiency](/word/efficiency/)：効率
 
 <!-- cvid: aid04_bid48 -->

@@ -97,7 +97,7 @@ TOEICでは、支払い・お金に関する文脈や、名詞の可算・不可
 ## 🤔  currency との違いは？
 
 - **coin**：金属製の「硬貨」を指す
-- **[currency](/word/currency)**：国で使われる「通貨」全体を指す
+- **[currency](/word/currency/)**：国で使われる「通貨」全体を指す
 
 coinは実際の硬貨のみを指し、currencyは紙幣や硬貨を含む広い意味で使われます。
 
@@ -105,14 +105,14 @@ coinは実際の硬貨のみを指し、currencyは紙幣や硬貨を含む広�
 
 ## 🧩 あわせて覚えたい
 
-- [bill](/word/bill)：紙幣
-- [token](/word/token)：代用貨幣、トークン
+- [bill](/word/bill/)：紙幣
+- [token](/word/token/)：代用貨幣、トークン
 
 ---
 
 ## 📖 できればこれも
 
-- [cash](/word/cash)：現金
-- [note](/word/note)：紙幣（イギリス英語）
+- [cash](/word/cash/)：現金
+- [note](/word/note/)：紙幣（イギリス英語）
 
 <!-- cvid: aid09_bid09 -->

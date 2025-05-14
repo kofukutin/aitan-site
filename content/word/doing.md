@@ -97,7 +97,7 @@ TOEICでは「be worth doing」や「of one's own doing」など、動名詞の�
 ## 🤔  making との違いは？
 
 - **doing**：行為そのもの、実際に「すること」や「行動」を強調
-- **[making](/word/making)**：作ること、何かを「作り出す」プロセスや結果を強調
+- **[making](/word/making/)**：作ること、何かを「作り出す」プロセスや結果を強調
 
 「doing」は単なる行動や実行を指し、「making」は何かを生み出す・作り上げるニュアンスが強いです。
 
@@ -105,14 +105,14 @@ TOEICでは「be worth doing」や「of one's own doing」など、動名詞の�
 
 ## 🧩 あわせて覚えたい
 
-- [action](/word/action)：行動、活動
-- [performance](/word/performance)：実行、遂行
+- [action](/word/action/)：行動、活動
+- [performance](/word/performance/)：実行、遂行
 
 ---
 
 ## 📖 できればこれも
 
-- [task](/word/task)：課題、仕事
-- [activity](/word/activity)：活動
+- [task](/word/task/)：課題、仕事
+- [activity](/word/activity/)：活動
 
 <!-- cvid: aid01_bid20 -->

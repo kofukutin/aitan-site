@@ -97,7 +97,7 @@ TOEICではビジネスシーンで「求める」「探す」といった意味
 ## 🤔  search との違いは？
 
 - **seek**：目的や答え、助けなど形のないものを「求める」「探し求める」
-- **[search](/word/search)**：物理的なものや情報を「探す」「捜索する」
+- **[search](/word/search/)**：物理的なものや情報を「探す」「捜索する」
 
 seekは抽象的なものを目指して努力するニュアンスが強く、searchは具体的な物や場所を探すときに使います。
 
@@ -105,14 +105,14 @@ seekは抽象的なものを目指して努力するニュアンスが強く、s
 
 ## 🧩 あわせて覚えたい
 
-- [pursue](/word/pursue)：追い求める、追及する
-- [find](/word/find)：見つける、発見する
+- [pursue](/word/pursue/)：追い求める、追及する
+- [find](/word/find/)：見つける、発見する
 
 ---
 
 ## 📖 できればこれも
 
-- [apply](/word/apply)：申し込む、適用する
-- [request](/word/request)：要請する、頼む
+- [apply](/word/apply/)：申し込む、適用する
+- [request](/word/request/)：要請する、頼む
 
 <!-- cvid: aid39_bid18 -->

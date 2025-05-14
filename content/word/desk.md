@@ -96,7 +96,7 @@ TOEICでは主にオフィスや教室の写真描写問題でよく登場しま
 ## 🤔  table との違いは？
 
 - **desk**：主に仕事や勉強用の机。引き出しや仕切りがあることが多い。
-- **[table](/word/table)**：食事や物を置くための一般的なテーブル。
+- **[table](/word/table/)**：食事や物を置くための一般的なテーブル。
 
 deskは「作業用」、tableは「食事や会議など多目的」と使い分けます。
 
@@ -104,14 +104,14 @@ deskは「作業用」、tableは「食事や会議など多目的」と使い�
 
 ## 🧩 あわせて覚えたい
 
-- [counter](/word/counter)：カウンター、受付
-- [office](/word/office)：オフィス、事務所
+- [counter](/word/counter/)：カウンター、受付
+- [office](/word/office/)：オフィス、事務所
 
 ---
 
 ## 📖 できればこれも
 
-- [chair](/word/chair)：椅子
-- [computer](/word/computer)：コンピューター
+- [chair](/word/chair/)：椅子
+- [computer](/word/computer/)：コンピューター
 
 <!-- cvid: aid36_bid13 -->

@@ -97,7 +97,7 @@ TOEICでは、ビジネスや社会問題を扱う長文読解で「corruption�
 ## 🤔  bribery との違いは？
 
 - **corruption**：広く「汚職」「腐敗」全般を指し、道徳的な堕落や組織的な不正も含む。
-- **[bribery](/word/bribery)**：特に「賄賂を渡す・受け取る行為」に限定される。
+- **[bribery](/word/bribery/)**：特に「賄賂を渡す・受け取る行為」に限定される。
 
 corruptionは不正全般や組織の堕落を指し、briberyはその中でも「賄賂」に特化した表現です。
 
@@ -105,14 +105,14 @@ corruptionは不正全般や組織の堕落を指し、briberyはその中でも
 
 ## 🧩 あわせて覚えたい
 
-- [fraud](/word/fraud)：詐欺、不正行為
-- [integrity](/word/integrity)：誠実、高潔
+- [fraud](/word/fraud/)：詐欺、不正行為
+- [integrity](/word/integrity/)：誠実、高潔
 
 ---
 
 ## 📖 できればこれも
 
-- [scandal](/word/scandal)：スキャンダル、不祥事
-- [violation](/word/violation)：違反、違法行為
+- [scandal](/word/scandal/)：スキャンダル、不祥事
+- [violation](/word/violation/)：違反、違法行為
 
 <!-- cvid: aid01_bid24 -->

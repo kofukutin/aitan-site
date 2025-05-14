@@ -97,7 +97,7 @@ TOEICでは、広告や案内文、ビジネス関連の長文で「美容院」
 ## 🤔  lounge との違いは？
 
 - **salon**：社交や美容、芸術などの目的で人が集まる場所。
-- **[lounge](/word/lounge)**：くつろぐための待合室や休憩スペース。
+- **[lounge](/word/lounge/)**：くつろぐための待合室や休憩スペース。
 
 salonは「集まり」や「サービス提供」の場、loungeは「休憩」や「待機」の場という違いがあります。
 
@@ -105,14 +105,14 @@ salonは「集まり」や「サービス提供」の場、loungeは「休憩」
 
 ## 🧩 あわせて覚えたい
 
-- [parlor](/word/parlor)：応接間、談話室
-- [studio](/word/studio)：スタジオ、仕事場
+- [parlor](/word/parlor/)：応接間、談話室
+- [studio](/word/studio/)：スタジオ、仕事場
 
 ---
 
 ## 📖 できればこれも
 
-- [gallery](/word/gallery)：画廊、美術館
-- [reception](/word/reception)：受付、歓迎会
+- [gallery](/word/gallery/)：画廊、美術館
+- [reception](/word/reception/)：受付、歓迎会
 
 <!-- cvid: aid37_bid43 -->

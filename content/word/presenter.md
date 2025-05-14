@@ -97,7 +97,7 @@ TOEICでは、会議やセミナー、放送のアナウンス文で「発表者
 ## 🤔  host との違いは？
 
 - **presenter**：発表や説明を行う人、プレゼンター
-- **[host](/word/host)**：イベントや番組の進行役・主催者
+- **[host](/word/host/)**：イベントや番組の進行役・主催者
 
 presenterは「内容を伝える人」、hostは「場を仕切る人」という違いがあり、役割が異なります。
 
@@ -105,14 +105,14 @@ presenterは「内容を伝える人」、hostは「場を仕切る人」とい�
 
 ## 🧩 あわせて覚えたい
 
-- [speaker](/word/speaker)：話し手、演説者
-- [moderator](/word/moderator)：司会進行役、調整役
+- [speaker](/word/speaker/)：話し手、演説者
+- [moderator](/word/moderator/)：司会進行役、調整役
 
 ---
 
 ## 📖 できればこれも
 
-- [presentation](/word/presentation)：発表、プレゼンテーション
-- [audience](/word/audience)：聴衆、観客
+- [presentation](/word/presentation/)：発表、プレゼンテーション
+- [audience](/word/audience/)：聴衆、観客
 
 <!-- cvid: aid26_bid43 -->

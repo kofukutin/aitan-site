@@ -97,7 +97,7 @@ TOEICでは副詞の語法や語順問題でよく出題されます。特に「
 ## 🤔  simply との違いは？
 
 - **easily**：苦労せずに、たやすくできる様子を表す
-- **[simply](/word/simply)**：単純に、複雑でないことを強調する
+- **[simply](/word/simply/)**：単純に、複雑でないことを強調する
 
 easilyは「難しくない」「努力がいらない」ことに焦点があり、simplyは「複雑でない」「方法が単純」というニュアンスです。
 
@@ -105,14 +105,14 @@ easilyは「難しくない」「努力がいらない」ことに焦点があ�
 
 ## 🧩 あわせて覚えたい
 
-- [quickly](/word/quickly)：速く
-- [hardly](/word/hardly)：ほとんど～ない
+- [quickly](/word/quickly/)：速く
+- [hardly](/word/hardly/)：ほとんど～ない
 
 ---
 
 ## 📖 できればこれも
 
-- [quickly](/word/quickly)：速く
-- [hardly](/word/hardly)：ほとんど～ない
+- [quickly](/word/quickly/)：速く
+- [hardly](/word/hardly/)：ほとんど～ない
 
 <!-- cvid: aid08_bid45 -->

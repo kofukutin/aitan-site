@@ -97,7 +97,7 @@ TOEICでは、主にビジネス文脈で「コストや数値が減る」こと
 ## 🤔  reduce との違いは？
 
 - **decrease**：数量や程度が自然に、または意図的に「減る・減らす」ことを表す。
-- **[reduce](/word/reduce)**：何かを「意図的に減らす」「小さくする」ことを強調。
+- **[reduce](/word/reduce/)**：何かを「意図的に減らす」「小さくする」ことを強調。
 
 decreaseは自然な変化や全体的な減少に使われ、reduceは人や組織が意図的に減らす場合によく使われます。
 
@@ -105,14 +105,14 @@ decreaseは自然な変化や全体的な減少に使われ、reduceは人や組
 
 ## 🧩 あわせて覚えたい
 
-- [increase](/word/increase)：増加する
-- [diminish](/word/diminish)：（価値・重要性などが）減少する
+- [increase](/word/increase/)：増加する
+- [diminish](/word/diminish/)：（価値・重要性などが）減少する
 
 ---
 
 ## 📖 できればこれも
 
-- [improve](/word/improve)：改善する
-- [expand](/word/expand)：拡大する
+- [improve](/word/improve/)：改善する
+- [expand](/word/expand/)：拡大する
 
 <!-- cvid: aid23_bid21 -->

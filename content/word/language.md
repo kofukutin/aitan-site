@@ -97,7 +97,7 @@ TOEICでは、説明文やEメール、案内文などで「language」がよく
 ## 🤔  tongue との違いは？
 
 - **language**：人間が意思を伝えるための「言語」や「ことば」全般を指す。
-- **[tongue](/word/tongue)**：古い表現で「言語」を意味するが、主に「舌」という意味で使われる。
+- **[tongue](/word/tongue/)**：古い表現で「言語」を意味するが、主に「舌」という意味で使われる。
 
 languageは一般的な「言語」を表し、tongueは詩的・古風な言い方や「舌」という物理的な意味で使い分けます。
 
@@ -105,14 +105,14 @@ languageは一般的な「言語」を表し、tongueは詩的・古風な言い
 
 ## 🧩 あわせて覚えたい
 
-- [dialect](/word/dialect)：方言
-- [communication](/word/communication)：コミュニケーション、意思疎通
+- [dialect](/word/dialect/)：方言
+- [communication](/word/communication/)：コミュニケーション、意思疎通
 
 ---
 
 ## 📖 できればこれも
 
-- [culture](/word/culture)：文化
-- [translate](/word/translate)：翻訳する
+- [culture](/word/culture/)：文化
+- [translate](/word/translate/)：翻訳する
 
 <!-- cvid: aid39_bid28 -->

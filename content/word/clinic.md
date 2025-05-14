@@ -97,7 +97,7 @@ TOEICでは健康診断や医療サービスに関する長文や案内文でよ
 ## 🤔  hospital との違いは？
 
 - **clinic**：外来診療や簡単な治療を行う小規模な医療施設
-- **[hospital](/word/hospital)**：入院や手術など幅広い医療サービスを提供する大規模な病院
+- **[hospital](/word/hospital/)**：入院や手術など幅広い医療サービスを提供する大規模な病院
 
 clinicは主に軽い症状や定期検診などに使われ、hospitalは重症や入院が必要な場合に使われます。
 
@@ -105,14 +105,14 @@ clinicは主に軽い症状や定期検診などに使われ、hospitalは重症
 
 ## 🧩 あわせて覚えたい
 
-- [pharmacy](/word/pharmacy)：薬局
-- [appointment](/word/appointment)：予約
+- [pharmacy](/word/pharmacy/)：薬局
+- [appointment](/word/appointment/)：予約
 
 ---
 
 ## 📖 できればこれも
 
-- [patient](/word/patient)：患者
-- [doctor](/word/doctor)：医者
+- [patient](/word/patient/)：患者
+- [doctor](/word/doctor/)：医者
 
 <!-- cvid: aid23_bid33 -->

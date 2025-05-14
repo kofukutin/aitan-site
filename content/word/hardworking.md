@@ -97,7 +97,7 @@ TOEICでは、人物の性格や仕事ぶりを表す形容詞としてPart 5の
 ## 🤔  diligent との違いは？
 
 - **hardworking**：一生懸命に働く、努力家であることを強調
-- **[diligent](/word/diligent)**：注意深く、継続的に努力することを強調
+- **[diligent](/word/diligent/)**：注意深く、継続的に努力することを強調
 
 「hardworking」は「がむしゃらに頑張る」ニュアンスがあり、「diligent」は「細かいところまで気を配りながらコツコツ努力する」印象です。
 
@@ -105,14 +105,14 @@ TOEICでは、人物の性格や仕事ぶりを表す形容詞としてPart 5の
 
 ## 🧩 あわせて覚えたい
 
-- [lazy](/word/lazy)：怠け者の、やる気がない
-- [industrious](/word/industrious)：勤勉な、よく働く（ややフォーマル）
+- [lazy](/word/lazy/)：怠け者の、やる気がない
+- [industrious](/word/industrious/)：勤勉な、よく働く（ややフォーマル）
 
 ---
 
 ## 📖 できればこれも
 
-- [efficient](/word/efficient)：効率的な
-- [motivated](/word/motivated)：やる気のある
+- [efficient](/word/efficient/)：効率的な
+- [motivated](/word/motivated/)：やる気のある
 
 <!-- cvid: aid21_bid29 -->

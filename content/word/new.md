@@ -97,7 +97,7 @@ TOEICでは形容詞の語彙問題や、名詞の前に置かれる修飾語と
 ## 🤔  recent との違いは？
 
 - **new**：今までになかったものや、使われていなかったものに対して「新しい」と表現する。
-- **[recent](/word/recent)**：最近起こったことや出来事に対して「最近の」と表現する。
+- **[recent](/word/recent/)**：最近起こったことや出来事に対して「最近の」と表現する。
 
 **new**は「まったく新しい」ことに重点があり、**recent**は「最近」の時期に重点があります。
 
@@ -105,14 +105,14 @@ TOEICでは形容詞の語彙問題や、名詞の前に置かれる修飾語と
 
 ## 🧩 あわせて覚えたい
 
-- [modern](/word/modern)：現代的な、近代的な
-- [old](/word/old)：古い
+- [modern](/word/modern/)：現代的な、近代的な
+- [old](/word/old/)：古い
 
 ---
 
 ## 📖 できればこれも
 
-- [fresh](/word/fresh)：新鮮な、新しい
-- [latest](/word/latest)：最新の
+- [fresh](/word/fresh/)：新鮮な、新しい
+- [latest](/word/latest/)：最新の
 
 <!-- cvid: aid20_bid47 -->

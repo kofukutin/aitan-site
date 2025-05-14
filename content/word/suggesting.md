@@ -97,7 +97,7 @@ TOEICでは会議や相談の場面で「提案する」「案を出す」意味
 ## 🤔  implying との違いは？
 
 - **suggesting**：やんわりと提案したり、何かをほのめかすときに使う
-- **[implying](/word/implying)**：直接言わずに、暗に意味を含ませるときに使う
+- **[implying](/word/implying/)**：直接言わずに、暗に意味を含ませるときに使う
 
 suggestingは「こうしたらどう？」と提案するニュアンス、implyingは「遠回しに伝える」ニュアンスが強いです。
 
@@ -105,14 +105,14 @@ suggestingは「こうしたらどう？」と提案するニュアンス、impl
 
 ## 🧩 あわせて覚えたい
 
-- [recommend](/word/recommend)：推薦する、勧める
-- [advise](/word/advise)：助言する
+- [recommend](/word/recommend/)：推薦する、勧める
+- [advise](/word/advise/)：助言する
 
 ---
 
 ## 📖 できればこれも
 
-- [mention](/word/mention)：言及する
-- [propose](/word/propose)：提案する
+- [mention](/word/mention/)：言及する
+- [propose](/word/propose/)：提案する
 
 <!-- cvid: aid19_bid13 -->

@@ -97,7 +97,7 @@ foughtは会話文や過去の出来事を説明する場面で出題される�
 ## 🤔  struggled との違いは？
 
 - **fought**：実際に争ったり、強く対立したりすることを表す。
-- **[struggled](/word/struggled)**：困難や障害に苦しみながら努力することを表す。
+- **[struggled](/word/struggled/)**：困難や障害に苦しみながら努力することを表す。
 
 foughtは「戦い」や「対立」に焦点があり、struggledは「苦労」や「努力」に重点があります。
 
@@ -105,14 +105,14 @@ foughtは「戦い」や「対立」に焦点があり、struggledは「苦労�
 
 ## 🧩 あわせて覚えたい
 
-- [defend](/word/defend)：守る、防御する
-- [argue](/word/argue)：主張する、言い争う
+- [defend](/word/defend/)：守る、防御する
+- [argue](/word/argue/)：主張する、言い争う
 
 ---
 
 ## 📖 できればこれも
 
-- [win](/word/win)：勝つ
-- [lose](/word/lose)：負ける
+- [win](/word/win/)：勝つ
+- [lose](/word/lose/)：負ける
 
 <!-- cvid: aid27_bid20 -->

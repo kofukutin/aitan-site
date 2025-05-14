@@ -97,7 +97,7 @@ TOEICでは主にビジネス文脈で「方針を合わせる」「整列させ
 ## 🤔  adjust との違いは？
 
 - **align**：物や考え、方針などを「一直線に並べる」「一致させる」ことに重点がある
-- **[adjust](/word/adjust)**：状況に合わせて「微調整する」「適応させる」ことに重点がある
+- **[adjust](/word/adjust/)**：状況に合わせて「微調整する」「適応させる」ことに重点がある
 
 alignは「基準や他のものと揃える」イメージ、adjustは「細かく調整して最適化する」イメージです。
 
@@ -105,14 +105,14 @@ alignは「基準や他のものと揃える」イメージ、adjustは「細か
 
 ## 🧩 あわせて覚えたい
 
-- [coordinate](/word/coordinate)：調整する、連携する
-- [match](/word/match)：一致する、合う
+- [coordinate](/word/coordinate/)：調整する、連携する
+- [match](/word/match/)：一致する、合う
 
 ---
 
 ## 📖 できればこれも
 
-- [arrange](/word/arrange)：並べる、整える
-- [organize](/word/organize)：整理する、まとめる
+- [arrange](/word/arrange/)：並べる、整える
+- [organize](/word/organize/)：整理する、まとめる
 
 <!-- cvid: aid14_bid42 -->

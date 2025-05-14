@@ -96,7 +96,7 @@ She called in sick because of a sore throat.
 ## 🤔  neck との違いは？
 
 - **throat**：口の奥から首の内側、食べ物や空気が通る「のど」
-- **[neck](/word/neck)**：頭と胴体をつなぐ外側の「首」
+- **[neck](/word/neck/)**：頭と胴体をつなぐ外側の「首」
 
 throatは体の内側の「のど」を指し、neckは外側の「首」全体を指します。痛みや症状を表すときは使い分けが必要です。
 
@@ -104,14 +104,14 @@ throatは体の内側の「のど」を指し、neckは外側の「首」全体�
 
 ## 🧩 あわせて覚えたい
 
-- [voice](/word/voice)：声
-- [cough](/word/cough)：せき
+- [voice](/word/voice/)：声
+- [cough](/word/cough/)：せき
 
 ---
 
 ## 📖 できればこれも
 
-- [stomach](/word/stomach)：胃、おなか
-- [tongue](/word/tongue)：舌
+- [stomach](/word/stomach/)：胃、おなか
+- [tongue](/word/tongue/)：舌
 
 <!-- cvid: aid36_bid40 -->
