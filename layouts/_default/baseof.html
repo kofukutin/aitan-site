@@ -63,20 +63,20 @@
   <meta name="twitter:image" content="{{ with .Params.og_image }}{{ . }}{{ else }}https://ai-tan.jp/images/default-ogp.png{{ end }}">
 
   <link rel="stylesheet" href="/css/base.css" media="all">
+
   {{ if not hugo.IsServer }}
   <!-- Google Analytics (defer) -->
   <script defer src="https://www.googletagmanager.com/gtag/js?id=G-VQ1MQLJM8G"></script>
   <script>
-    window.addEventListener('DOMContentLoaded', function () {
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-VQ1MQLJM8G', {
-        anonymize_ip: true
-      });
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-VQ1MQLJM8G', {
+      anonymize_ip: true
     });
   </script>
   {{ end }}
+
   <link rel="icon" href="/favicon.ico">
 </head>
 
@@ -92,6 +92,22 @@
 
   <main class="fade-in">
     {{ block "main" . }}{{ end }}
+
+    <!-- 遅延影響を避けるため mainの後方に移動 -->
+    <section class="top-search">
+      <div class="top-search-inner">
+        <input
+          type="text"
+          id="searchBox"
+          placeholder="何を調べますか？"
+          inputmode="latin"
+          autocomplete="off"
+          autocapitalize="none"
+          spellcheck="false"
+        />
+        <ul id="resultsList"></ul>
+      </div>
+    </section>
   </main>
 
   <footer class="site-footer">
@@ -102,13 +118,13 @@
     <p>© あいたん！ All rights reserved.</p>
   </footer>
 
+  <!-- 検索JSは defer化 -->
   {{ if eq .RelPermalink "/" }}
-    <script src="/js/search.js"></script>
+    <script src="/js/search.js" defer></script>
   {{ end }}
 
   {{ if and (eq .Kind "page") (eq .Section "word") }}
     <script src="/js/tts.js" defer></script>
   {{ end }}
-
 </body>
 </html>
